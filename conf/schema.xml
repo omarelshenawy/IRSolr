@@ -74,20 +74,20 @@
 	<field name="id" indexed="true" multiValued="false" required="true" stored="true" type="string"/>
 	<field name="_version_" indexed="true" stored="true" type="long"/>
 	<field name="url" indexed="false" multiValued="false" required="true" stored="true" type="url"/>
-	<field name="previous" docValues="true" indexed="true" multiValued="false" required="false" stored="false" type="our_text"/>
-	<field name="after" docValues="true" indexed="true" multiValued="false" required="false" stored="false" type="our_text"/>
-	<field name="text" docValues="true" indexed="true" multiValued="false" required="false" stored="false" type="our_text"/>
-	<field name="synonyms" docValues="true" indexed="false" multiValued="false" required="false" stored="false" type="string"/>
-	<field name="colors" docValues="false" indexed="true" multiValued="true" required="false" stored="false" type="text_general"/>
-	<field name="percentages" docValues="true" indexed="true" multiValued="true" required="false" stored="false" type="float"/>
-	
+	<field name="previous" indexed="true" multiValued="false" required="false" stored="false" type="payloads"/>
+	<field name="after" indexed="true" multiValued="false" required="false" stored="false" type="payloads"/>
+	<field name="text" indexed="true" multiValued="false" required="false" stored="false" type="payloads"/>
+	<field name="synonyms" indexed="false" multiValued="false" required="false" stored="false" type="string"/>
+	<field name="colors" indexed="true" multiValued="true" required="false" stored="false" type="text_general"/>
+	<field name="percentages" indexed="true" multiValued="true" required="false" stored="false" type="float"/>
+	<field name="payloadTest" stored="true" indexed="true" type="payloads" />
 	
 	<!--
         fields specifically for the project
     -->
 	<fieldType name="url" class="solr.StrField" multiValued="false" omitNorms="true" omitTermFreqAndPositions="true" required="true" stored="true"/>
 	
-	<fieldType name="our_text" class="solr.TextField" docValues="true" indexed="true" multiValued="false" omitNorms="true" omitTermFreqAndPositions="false" required="true" stored="false">
+	<fieldType name="our_text" class="solr.TextField" indexed="true" multiValued="false" omitNorms="true" omitTermFreqAndPositions="false" required="true" stored="false">
 		<analyzer type="index">
 			<tokenizer class="solr.ClassicTokenizerFactory" maxTokenLength="1000"/>
 			<filter class="solr.StopFilterFactory" ignoreCase="true" words="stopwords.txt"/>
@@ -100,7 +100,23 @@
 			<filter class="solr.LowerCaseFilterFactory"/>
 		</analyzer>
 	</fieldType>
-	
+	<fieldtype name="payloads" stored="true" indexed="true" class="solr.TextField" >
+	  <analyzer type="index">
+	    <tokenizer class="solr.WhitespaceTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" ignoreCase="true" words="stopwords.txt"/>
+      <filter class="solr.SynonymFilterFactory" expand="true" ignoreCase="true" synonyms="synonyms.txt"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="float"/>
+	  </analyzer>
+    <analyzer type="query">
+      <tokenizer class="solr.WhitespaceTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" ignoreCase="true" words="stopwords.txt"/>
+      <filter class="solr.SynonymFilterFactory" expand="true" ignoreCase="true" synonyms="synonyms.txt"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="float"/>
+    </analyzer>
+	  <similarity class="payloadexample.PayloadSimilarityFactory" />
+	</fieldtype>
 	
 	
 	
@@ -482,4 +498,5 @@
     -->
 	<!--
      <similarity class="com.example.solr.CustomSimilarityFactory"><str name="paramkey">param value</str></similarity>-->
+     <similarity class="solr.SchemaSimilarityFactory"/>
 </schema>
