@@ -74,12 +74,11 @@
 	<field name="id" indexed="true" multiValued="false" required="true" stored="true" type="string"/>
 	<field name="_version_" indexed="true" stored="true" type="long"/>
 	<field name="url" indexed="false" multiValued="false" required="true" stored="true" type="url"/>
-	<field name="previous" indexed="true" multiValued="false" required="false" stored="false" type="payloads"/>
-	<field name="after" indexed="true" multiValued="false" required="false" stored="false" type="payloads"/>
-	<field name="text" indexed="true" multiValued="false" required="false" stored="false" type="payloads"/>
-	<field name="synonyms" indexed="false" multiValued="false" required="false" stored="false" type="string"/>
+	<field name="previous" indexed="true" multiValued="false" required="false" stored="true" type="our_text"/>
+	<field name="after" indexed="true" multiValued="false" required="false" stored="true" type="our_text"/>
+	<field name="previous_weights" indexed="true" multiValued="false" required="false" stored="true" type="payloads"/>
+	<field name="after_weights" indexed="true" multiValued="false" required="false" stored="true" type="payloads"/>
 	<field name="colors" indexed="true" multiValued="true" required="false" stored="false" type="text_general"/>
-	<field name="percentages" indexed="true" multiValued="true" required="false" stored="false" type="float"/>
 	<field name="payloadTest" stored="true" indexed="true" type="payloads" />
 	
 	<!--
