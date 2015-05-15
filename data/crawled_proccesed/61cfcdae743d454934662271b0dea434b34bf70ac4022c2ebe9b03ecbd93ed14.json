@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "61cfcdae743d454934662271b0dea434b34bf70ac4022c2ebe9b03ecbd93ed14",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Foghorn_On_Ailsa_Craig.jpg/220px-Foghorn_On_Ailsa_Craig.jpg",
+			"previous": " ",
+			"after": " Since automation of lighthouses became common in the 1960s and 1970s most older foghorn installations have been removed to avoid the need to run the complex machinery associated with them and have been replaced with electrically powered diaphragm or compressed air horns Activation is completely automated a laser or photo beam is shot out to sea and if the beam reflects back to the source i e the laser beam is visible due to the fog the sensor sends a signal to activate the foghorn In many cases modern navigational aids have rendered large long range foghorns completely unnecessary according to the International Association of Lighthouse Authorities 12 ",
+			"after_weights": " Since|1 automation|0.99074 of|0.98148 lighthouses|0.97222 became|0.96296 common|0.9537 in|0.94444 the|0.93519 1960s|0.92593 and|0.91667 1970s|0.90741 most|0.89815 older|0.88889 foghorn|0.87963 installations|0.87037 have|0.86111 been|0.85185 removed|0.84259 to|0.83333 avoid|0.82407 the|0.81481 need|0.80556 to|0.7963 run|0.78704 the|0.77778 complex|0.76852 machinery|0.75926 associated|0.75 with|0.74074 them|0.73148 and|0.72222 have|0.71296 been|0.7037 replaced|0.69444 with|0.68519 electrically|0.67593 powered|0.66667 diaphragm|0.65741 or|0.64815 compressed|0.63889 air|0.62963 horns|0.62037 Activation|0.61111 is|0.60185 completely|0.59259 automated|0.58333 a|0.57407 laser|0.56481 or|0.55556 photo|0.5463 beam|0.53704 is|0.52778 shot|0.51852 out|0.50926 to|0.5 sea|0.49074 and|0.48148 if|0.47222 the|0.46296 beam|0.4537 reflects|0.44444 back|0.43519 to|0.42593 the|0.41667 source|0.40741 i|0.39815 e|0.38889 the|0.37963 laser|0.37037 beam|0.36111 is|0.35185 visible|0.34259 due|0.33333 to|0.32407 the|0.31481 fog|0.30556 the|0.2963 sensor|0.28704 sends|0.27778 a|0.26852 signal|0.25926 to|0.25 activate|0.24074 the|0.23148 foghorn|0.22222 In|0.21296 many|0.2037 cases|0.19444 modern|0.18519 navigational|0.17593 aids|0.16667 have|0.15741 rendered|0.14815 large|0.13889 long|0.12963 range|0.12037 foghorns|0.11111 completely|0.10185 unnecessary|0.092593 according|0.083333 to|0.074074 the|0.064815 International|0.055556 Association|0.046296 of|0.037037 Lighthouse|0.027778 Authorities|0.018519 12|0.0092593 |0",
+			"previous_weights": " "
+		}
+	}
+}

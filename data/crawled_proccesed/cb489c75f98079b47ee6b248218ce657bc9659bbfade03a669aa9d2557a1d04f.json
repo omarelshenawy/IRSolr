@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cb489c75f98079b47ee6b248218ce657bc9659bbfade03a669aa9d2557a1d04f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/32px-Flag_of_Nigeria.svg.png",
+			"previous": " Nigerian Pidgin a pidgin derived from English is more used in informal conversations than Nigerian English although Nigerian Standard English is used in politics the media and other official uses ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Nigerian|0 Pidgin|0.033333 a|0.066667 pidgin|0.1 derived|0.13333 from|0.16667 English|0.2 is|0.23333 more|0.26667 used|0.3 in|0.33333 informal|0.36667 conversations|0.4 than|0.43333 Nigerian|0.46667 English|0.5 although|0.53333 Nigerian|0.56667 Standard|0.6 English|0.63333 is|0.66667 used|0.7 in|0.73333 politics|0.76667 the|0.8 media|0.83333 and|0.86667 other|0.9 official|0.93333 uses|0.96667 |1"
+		}
+	}
+}

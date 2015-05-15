@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8913adc1885b0a4bd8781b6d9288baf5a6045093c708a1b352432f77381fefad",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CDC_learns_from_Liberian_District_representative.jpg/300px-CDC_learns_from_Liberian_District_representative.jpg",
+			"previous": " On 10 November the U S opened the first of 17 Ebola treatment facilities it is building for Liberia in Tubmanburg 82 ",
+			"after": " Sanitation is a struggle in some parts of the city with estimates that there are four public toilets in West Point Monrovia population 75 000 83 The beach surrounding West Point is often used as a lavatory but it is also a source for drinking water and the fish from the water are taken for food 83 ",
+			"after_weights": " Sanitation|1 is|0.98246 a|0.96491 struggle|0.94737 in|0.92982 some|0.91228 parts|0.89474 of|0.87719 the|0.85965 city|0.84211 with|0.82456 estimates|0.80702 that|0.78947 there|0.77193 are|0.75439 four|0.73684 public|0.7193 toilets|0.70175 in|0.68421 West|0.66667 Point|0.64912 Monrovia|0.63158 population|0.61404 75|0.59649 000|0.57895 83|0.5614 The|0.54386 beach|0.52632 surrounding|0.50877 West|0.49123 Point|0.47368 is|0.45614 often|0.4386 used|0.42105 as|0.40351 a|0.38596 lavatory|0.36842 but|0.35088 it|0.33333 is|0.31579 also|0.29825 a|0.2807 source|0.26316 for|0.24561 drinking|0.22807 water|0.21053 and|0.19298 the|0.17544 fish|0.15789 from|0.14035 the|0.12281 water|0.10526 are|0.087719 taken|0.070175 for|0.052632 food|0.035088 83|0.017544 |0",
+			"previous_weights": " On|0 10|0.045455 November|0.090909 the|0.13636 U|0.18182 S|0.22727 opened|0.27273 the|0.31818 first|0.36364 of|0.40909 17|0.45455 Ebola|0.5 treatment|0.54545 facilities|0.59091 it|0.63636 is|0.68182 building|0.72727 for|0.77273 Liberia|0.81818 in|0.86364 Tubmanburg|0.90909 82|0.95455 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6da82ba12cfc8b025d471f126aef2aa2d3bed44bc5665c57388a8bb27557226a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sheldonian_Theatre_Oxford.jpg/220px-Sheldonian_Theatre_Oxford.jpg",
+			"previous": " ",
+			"after": " The university is a city university in that it does not have a main campus instead colleges departments accommodation and other facilities are scattered throughout the city centre The Science Area in which most science departments are located is the area that bears closest resemblance to a campus The ten acre 4 hectare Radcliffe Observatory Quarter in the northwest of the city is currently under development However the larger colleges sites are of similar size to these areas ",
+			"after_weights": " The|1 university|0.98718 is|0.97436 a|0.96154 city|0.94872 university|0.9359 in|0.92308 that|0.91026 it|0.89744 does|0.88462 not|0.87179 have|0.85897 a|0.84615 main|0.83333 campus|0.82051 instead|0.80769 colleges|0.79487 departments|0.78205 accommodation|0.76923 and|0.75641 other|0.74359 facilities|0.73077 are|0.71795 scattered|0.70513 throughout|0.69231 the|0.67949 city|0.66667 centre|0.65385 The|0.64103 Science|0.62821 Area|0.61538 in|0.60256 which|0.58974 most|0.57692 science|0.5641 departments|0.55128 are|0.53846 located|0.52564 is|0.51282 the|0.5 area|0.48718 that|0.47436 bears|0.46154 closest|0.44872 resemblance|0.4359 to|0.42308 a|0.41026 campus|0.39744 The|0.38462 ten|0.37179 acre|0.35897 4|0.34615 hectare|0.33333 Radcliffe|0.32051 Observatory|0.30769 Quarter|0.29487 in|0.28205 the|0.26923 northwest|0.25641 of|0.24359 the|0.23077 city|0.21795 is|0.20513 currently|0.19231 under|0.17949 development|0.16667 However|0.15385 the|0.14103 larger|0.12821 colleges|0.11538 sites|0.10256 are|0.089744 of|0.076923 similar|0.064103 size|0.051282 to|0.038462 these|0.025641 areas|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

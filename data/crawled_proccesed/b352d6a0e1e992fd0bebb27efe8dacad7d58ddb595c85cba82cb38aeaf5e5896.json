@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b352d6a0e1e992fd0bebb27efe8dacad7d58ddb595c85cba82cb38aeaf5e5896",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Oxford_-_Balliol_College_-_geograph.org.uk_-_1329613.jpg/220px-Oxford_-_Balliol_College_-_geograph.org.uk_-_1329613.jpg",
+			"previous": " ",
+			"after": " The University of Oxford has no known foundation date 15 Teaching at Oxford existed in some form in 1096 but it is unclear at what point a university came into being 1 It grew quickly in 1167 when English students returned from the University of Paris 1 The historian Gerald of Wales lectured to such scholars in 1188 and the first known foreign scholar Emo of Friesland arrived in 1190 The head of the university was named a chancellor from at least 1201 and the masters were recognised as a universitas or corporation in 1231 The university was granted a royal charter in 1248 during the reign of King Henry III 16 ",
+			"after_weights": " The|1 University|0.99107 of|0.98214 Oxford|0.97321 has|0.96429 no|0.95536 known|0.94643 foundation|0.9375 date|0.92857 15|0.91964 Teaching|0.91071 at|0.90179 Oxford|0.89286 existed|0.88393 in|0.875 some|0.86607 form|0.85714 in|0.84821 1096|0.83929 but|0.83036 it|0.82143 is|0.8125 unclear|0.80357 at|0.79464 what|0.78571 point|0.77679 a|0.76786 university|0.75893 came|0.75 into|0.74107 being|0.73214 1|0.72321 It|0.71429 grew|0.70536 quickly|0.69643 in|0.6875 1167|0.67857 when|0.66964 English|0.66071 students|0.65179 returned|0.64286 from|0.63393 the|0.625 University|0.61607 of|0.60714 Paris|0.59821 1|0.58929 The|0.58036 historian|0.57143 Gerald|0.5625 of|0.55357 Wales|0.54464 lectured|0.53571 to|0.52679 such|0.51786 scholars|0.50893 in|0.5 1188|0.49107 and|0.48214 the|0.47321 first|0.46429 known|0.45536 foreign|0.44643 scholar|0.4375 Emo|0.42857 of|0.41964 Friesland|0.41071 arrived|0.40179 in|0.39286 1190|0.38393 The|0.375 head|0.36607 of|0.35714 the|0.34821 university|0.33929 was|0.33036 named|0.32143 a|0.3125 chancellor|0.30357 from|0.29464 at|0.28571 least|0.27679 1201|0.26786 and|0.25893 the|0.25 masters|0.24107 were|0.23214 recognised|0.22321 as|0.21429 a|0.20536 universitas|0.19643 or|0.1875 corporation|0.17857 in|0.16964 1231|0.16071 The|0.15179 university|0.14286 was|0.13393 granted|0.125 a|0.11607 royal|0.10714 charter|0.098214 in|0.089286 1248|0.080357 during|0.071429 the|0.0625 reign|0.053571 of|0.044643 King|0.035714 Henry|0.026786 III|0.017857 16|0.0089286 |0",
+			"previous_weights": " "
+		}
+	}
+}

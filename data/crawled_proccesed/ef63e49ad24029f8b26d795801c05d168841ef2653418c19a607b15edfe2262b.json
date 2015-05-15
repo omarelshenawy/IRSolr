@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ef63e49ad24029f8b26d795801c05d168841ef2653418c19a607b15edfe2262b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Internet_Connectivity_Access_layer.svg/440px-Internet_Connectivity_Access_layer.svg.png",
+			"previous": " ",
+			"after": " An Internet service provider ISP is an organization that provides services for accessing using or participating in the Internet Internet service providers may be organized in various forms such as commercial community owned non profit or otherwise privately owned ",
+			"after_weights": " An|1 Internet|0.97436 service|0.94872 provider|0.92308 ISP|0.89744 is|0.87179 an|0.84615 organization|0.82051 that|0.79487 provides|0.76923 services|0.74359 for|0.71795 accessing|0.69231 using|0.66667 or|0.64103 participating|0.61538 in|0.58974 the|0.5641 Internet|0.53846 Internet|0.51282 service|0.48718 providers|0.46154 may|0.4359 be|0.41026 organized|0.38462 in|0.35897 various|0.33333 forms|0.30769 such|0.28205 as|0.25641 commercial|0.23077 community|0.20513 owned|0.17949 non|0.15385 profit|0.12821 or|0.10256 otherwise|0.076923 privately|0.051282 owned|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

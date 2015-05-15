@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d1a70000a2dd52cf9dc82b49f5dcbff820417f97ce3a816dfac8c9ceb0b28f3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ernest_Bai_Koroma.jpg/220px-Ernest_Bai_Koroma.jpg",
+			"previous": " ",
+			"after": " Sierra Leone is a constitutional republic with a directly elected president and a unicameral legislature The current system of national government in Sierra Leone established under the 1991 Constitution is modelled on the following structure of government the Legislature the Executive and the Judiciary 64 ",
+			"after_weights": " Sierra|1 Leone|0.97778 is|0.95556 a|0.93333 constitutional|0.91111 republic|0.88889 with|0.86667 a|0.84444 directly|0.82222 elected|0.8 president|0.77778 and|0.75556 a|0.73333 unicameral|0.71111 legislature|0.68889 The|0.66667 current|0.64444 system|0.62222 of|0.6 national|0.57778 government|0.55556 in|0.53333 Sierra|0.51111 Leone|0.48889 established|0.46667 under|0.44444 the|0.42222 1991|0.4 Constitution|0.37778 is|0.35556 modelled|0.33333 on|0.31111 the|0.28889 following|0.26667 structure|0.24444 of|0.22222 government|0.2 the|0.17778 Legislature|0.15556 the|0.13333 Executive|0.11111 and|0.088889 the|0.066667 Judiciary|0.044444 64|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

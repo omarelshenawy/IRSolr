@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e7275f746894e4a632ce27a4354c75e25868abd7525f0a57c2e1e95cc29d1ef3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Naxi_Musicians_I.jpg/220px-Naxi_Musicians_I.jpg",
+			"previous": " ",
+			"after": " Performance is the physical expression of music Often a musical work is performed once its structure and instrumentation are satisfactory to its creators however as it gets performed it can evolve and change A performance can either be rehearsed or improvised Improvisation is a musical idea created without premeditation while rehearsal is vigorous repetition of an idea until it has achieved cohesion Musicians will sometimes add improvisation to a well rehearsed idea to create a unique performance ",
+			"after_weights": " Performance|1 is|0.98701 the|0.97403 physical|0.96104 expression|0.94805 of|0.93506 music|0.92208 Often|0.90909 a|0.8961 musical|0.88312 work|0.87013 is|0.85714 performed|0.84416 once|0.83117 its|0.81818 structure|0.80519 and|0.79221 instrumentation|0.77922 are|0.76623 satisfactory|0.75325 to|0.74026 its|0.72727 creators|0.71429 however|0.7013 as|0.68831 it|0.67532 gets|0.66234 performed|0.64935 it|0.63636 can|0.62338 evolve|0.61039 and|0.5974 change|0.58442 A|0.57143 performance|0.55844 can|0.54545 either|0.53247 be|0.51948 rehearsed|0.50649 or|0.49351 improvised|0.48052 Improvisation|0.46753 is|0.45455 a|0.44156 musical|0.42857 idea|0.41558 created|0.4026 without|0.38961 premeditation|0.37662 while|0.36364 rehearsal|0.35065 is|0.33766 vigorous|0.32468 repetition|0.31169 of|0.2987 an|0.28571 idea|0.27273 until|0.25974 it|0.24675 has|0.23377 achieved|0.22078 cohesion|0.20779 Musicians|0.19481 will|0.18182 sometimes|0.16883 add|0.15584 improvisation|0.14286 to|0.12987 a|0.11688 well|0.1039 rehearsed|0.090909 idea|0.077922 to|0.064935 create|0.051948 a|0.038961 unique|0.025974 performance|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

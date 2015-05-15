@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c2b1763badd0f61912b761c481124ffca486f9f59642e814e286894c0d838ace",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/220px-Copyleft.svg.png",
+			"previous": " ",
+			"after": " Copyleft a play of the word copyright is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works down the line 1 ",
+			"after_weights": " Copyleft|1 a|0.97561 play|0.95122 of|0.92683 the|0.90244 word|0.87805 copyright|0.85366 is|0.82927 the|0.80488 practice|0.78049 of|0.7561 offering|0.73171 people|0.70732 the|0.68293 right|0.65854 to|0.63415 freely|0.60976 distribute|0.58537 copies|0.56098 and|0.53659 modified|0.5122 versions|0.4878 of|0.46341 a|0.43902 work|0.41463 with|0.39024 the|0.36585 stipulation|0.34146 that|0.31707 the|0.29268 same|0.26829 rights|0.2439 be|0.21951 preserved|0.19512 in|0.17073 derivative|0.14634 works|0.12195 down|0.097561 the|0.073171 line|0.04878 1|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

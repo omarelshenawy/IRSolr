@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e715f18842655b6d0fe8f86b9d8c6d052e2406679417ff2e630e94859d1f8d27",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/220px-Flag_of_Europe.svg.png",
+			"previous": " ",
+			"after": " The Council of Europe created and uses as its official symbols the famous European Flag with 12 golden stars arranged in a circle on a blue background since 1955 and the European Anthem based on the Ode to Joy in the final movement of Ludwig van Beethoven s Ninth symphony since 1972 ",
+			"after_weights": " The|1 Council|0.98077 of|0.96154 Europe|0.94231 created|0.92308 and|0.90385 uses|0.88462 as|0.86538 its|0.84615 official|0.82692 symbols|0.80769 the|0.78846 famous|0.76923 European|0.75 Flag|0.73077 with|0.71154 12|0.69231 golden|0.67308 stars|0.65385 arranged|0.63462 in|0.61538 a|0.59615 circle|0.57692 on|0.55769 a|0.53846 blue|0.51923 background|0.5 since|0.48077 1955|0.46154 and|0.44231 the|0.42308 European|0.40385 Anthem|0.38462 based|0.36538 on|0.34615 the|0.32692 Ode|0.30769 to|0.28846 Joy|0.26923 in|0.25 the|0.23077 final|0.21154 movement|0.19231 of|0.17308 Ludwig|0.15385 van|0.13462 Beethoven|0.11538 s|0.096154 Ninth|0.076923 symphony|0.057692 since|0.038462 1972|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

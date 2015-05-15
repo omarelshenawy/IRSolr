@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e3ca217058d7fb905bc4148fe12ae483553f58f4bbb5038b7e4d333c4fe48161",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CIExy1931_fixed.svg/170px-CIExy1931_fixed.svg.png",
+			"previous": " ",
+			"after": " Most light sources are mixtures of various wavelengths of light Many such sources can still effectively produce a spectral color as the eye cannot distinguish them from single wavelength sources For example most computer displays reproduce the spectral color orange as a combination of red and green light it appears orange because the red and green are mixed in the right proportions to allow the eye s cones to respond the way they do to the spectral color orange ",
+			"after_weights": " Most|1 light|0.98734 sources|0.97468 are|0.96203 mixtures|0.94937 of|0.93671 various|0.92405 wavelengths|0.91139 of|0.89873 light|0.88608 Many|0.87342 such|0.86076 sources|0.8481 can|0.83544 still|0.82278 effectively|0.81013 produce|0.79747 a|0.78481 spectral|0.77215 color|0.75949 as|0.74684 the|0.73418 eye|0.72152 cannot|0.70886 distinguish|0.6962 them|0.68354 from|0.67089 single|0.65823 wavelength|0.64557 sources|0.63291 For|0.62025 example|0.60759 most|0.59494 computer|0.58228 displays|0.56962 reproduce|0.55696 the|0.5443 spectral|0.53165 color|0.51899 orange|0.50633 as|0.49367 a|0.48101 combination|0.46835 of|0.4557 red|0.44304 and|0.43038 green|0.41772 light|0.40506 it|0.39241 appears|0.37975 orange|0.36709 because|0.35443 the|0.34177 red|0.32911 and|0.31646 green|0.3038 are|0.29114 mixed|0.27848 in|0.26582 the|0.25316 right|0.24051 proportions|0.22785 to|0.21519 allow|0.20253 the|0.18987 eye|0.17722 s|0.16456 cones|0.1519 to|0.13924 respond|0.12658 the|0.11392 way|0.10127 they|0.088608 do|0.075949 to|0.063291 the|0.050633 spectral|0.037975 color|0.025316 orange|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

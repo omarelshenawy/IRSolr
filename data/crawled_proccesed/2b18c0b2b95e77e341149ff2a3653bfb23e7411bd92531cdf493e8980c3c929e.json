@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2b18c0b2b95e77e341149ff2a3653bfb23e7411bd92531cdf493e8980c3c929e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nation_media_house.jpg/220px-Nation_media_house.jpg",
+			"previous": " ",
+			"after": " The culture of Kenya consists of multiple traditions Kenya has no single prominent culture that identifies it It instead consists of various cultures practised by the country s different communities ",
+			"after_weights": " The|1 culture|0.96667 of|0.93333 Kenya|0.9 consists|0.86667 of|0.83333 multiple|0.8 traditions|0.76667 Kenya|0.73333 has|0.7 no|0.66667 single|0.63333 prominent|0.6 culture|0.56667 that|0.53333 identifies|0.5 it|0.46667 It|0.43333 instead|0.4 consists|0.36667 of|0.33333 various|0.3 cultures|0.26667 practised|0.23333 by|0.2 the|0.16667 country|0.13333 s|0.1 different|0.066667 communities|0.033333 |0",
+			"previous_weights": " "
+		}
+	}
+}

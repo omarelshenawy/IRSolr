@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5fbbbf07c1f7edede27101815878c09ca59702f3f98a54fedb805d646872d033",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Qantas_with_Q-Link.jpg/220px-Qantas_with_Q-Link.jpg",
+			"previous": " Qantas has operated a number of passenger airline subsidiaries since inception including ",
+			"after": " Qantas operates a freight service under the name Qantas Freight and also wholly owns the logistics and air freight company Australian air Express ",
+			"after_weights": " Qantas|1 operates|0.95652 a|0.91304 freight|0.86957 service|0.82609 under|0.78261 the|0.73913 name|0.69565 Qantas|0.65217 Freight|0.6087 and|0.56522 also|0.52174 wholly|0.47826 owns|0.43478 the|0.3913 logistics|0.34783 and|0.30435 air|0.26087 freight|0.21739 company|0.17391 Australian|0.13043 air|0.086957 Express|0.043478 |0",
+			"previous_weights": " Qantas|0 has|0.083333 operated|0.16667 a|0.25 number|0.33333 of|0.41667 passenger|0.5 airline|0.58333 subsidiaries|0.66667 since|0.75 inception|0.83333 including|0.91667 |1"
+		}
+	}
+}

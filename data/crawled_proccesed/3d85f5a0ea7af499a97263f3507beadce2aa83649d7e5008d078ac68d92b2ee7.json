@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d85f5a0ea7af499a97263f3507beadce2aa83649d7e5008d078ac68d92b2ee7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CheckUser1.png/400px-CheckUser1.png",
+			"previous": " ",
+			"after": " A user with CheckUser access will get an extra CheckUser option under Special SpecialPages a Check IP addresses option on Special Contributions access to Special CheckUser and Special CheckUserLog special pages and other similar functions On the English Wikipedia CheckUsers also receive access to the Checkuser l global mailing list subscription to functionaries l and access to the IRC channels if they so request ",
+			"after_weights": " A|1 user|0.98438 with|0.96875 CheckUser|0.95312 access|0.9375 will|0.92188 get|0.90625 an|0.89062 extra|0.875 CheckUser|0.85938 option|0.84375 under|0.82812 Special|0.8125 SpecialPages|0.79688 a|0.78125 Check|0.76562 IP|0.75 addresses|0.73438 option|0.71875 on|0.70312 Special|0.6875 Contributions|0.67188 access|0.65625 to|0.64062 Special|0.625 CheckUser|0.60938 and|0.59375 Special|0.57812 CheckUserLog|0.5625 special|0.54688 pages|0.53125 and|0.51562 other|0.5 similar|0.48438 functions|0.46875 On|0.45312 the|0.4375 English|0.42188 Wikipedia|0.40625 CheckUsers|0.39062 also|0.375 receive|0.35938 access|0.34375 to|0.32812 the|0.3125 Checkuser|0.29688 l|0.28125 global|0.26562 mailing|0.25 list|0.23438 subscription|0.21875 to|0.20312 functionaries|0.1875 l|0.17188 and|0.15625 access|0.14062 to|0.125 the|0.10938 IRC|0.09375 channels|0.078125 if|0.0625 they|0.046875 so|0.03125 request|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

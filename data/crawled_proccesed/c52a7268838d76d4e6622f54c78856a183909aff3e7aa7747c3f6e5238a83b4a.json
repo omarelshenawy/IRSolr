@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c52a7268838d76d4e6622f54c78856a183909aff3e7aa7747c3f6e5238a83b4a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blue_check.svg/30px-Blue_check.svg.png",
+			"previous": " ",
+			"after": " There are three main types of spam on Wikipedia These are advertisements masquerading as articles external link spamming and adding references with the aim of promoting the author or the work being referenced ",
+			"after_weights": " There|1 are|0.9697 three|0.93939 main|0.90909 types|0.87879 of|0.84848 spam|0.81818 on|0.78788 Wikipedia|0.75758 These|0.72727 are|0.69697 advertisements|0.66667 masquerading|0.63636 as|0.60606 articles|0.57576 external|0.54545 link|0.51515 spamming|0.48485 and|0.45455 adding|0.42424 references|0.39394 with|0.36364 the|0.33333 aim|0.30303 of|0.27273 promoting|0.24242 the|0.21212 author|0.18182 or|0.15152 the|0.12121 work|0.090909 being|0.060606 referenced|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

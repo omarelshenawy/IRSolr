@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7046c2ecf693a6ebd1090e32183908a4a49f16f094d3796ec3431ac198f22fd0",
+			"url": "https://upload.wikimedia.org/math/4/c/8/4c8a41ba6c5953c9386fb30f55667c43.png",
+			"previous": " Any oriented Riemannian or pseudo Riemannian manifold has a natural volume or pseudo volume form In local coordinates it can be expressed as",
+			"after": " where the are the 1 forms providing an oriented basis for the cotangent bundle of the n dimensional manifold Here is the absolute value of the determinant of the matrix representation of the metric tensor on the manifold ",
+			"after_weights": " where|1 the|0.97368 are|0.94737 the|0.92105 1|0.89474 forms|0.86842 providing|0.84211 an|0.81579 oriented|0.78947 basis|0.76316 for|0.73684 the|0.71053 cotangent|0.68421 bundle|0.65789 of|0.63158 the|0.60526 n|0.57895 dimensional|0.55263 manifold|0.52632 Here|0.5 is|0.47368 the|0.44737 absolute|0.42105 value|0.39474 of|0.36842 the|0.34211 determinant|0.31579 of|0.28947 the|0.26316 matrix|0.23684 representation|0.21053 of|0.18421 the|0.15789 metric|0.13158 tensor|0.10526 on|0.078947 the|0.052632 manifold|0.026316 |0",
+			"previous_weights": " Any|0 oriented|0.045455 Riemannian|0.090909 or|0.13636 pseudo|0.18182 Riemannian|0.22727 manifold|0.27273 has|0.31818 a|0.36364 natural|0.40909 volume|0.45455 or|0.5 pseudo|0.54545 volume|0.59091 form|0.63636 In|0.68182 local|0.72727 coordinates|0.77273 it|0.81818 can|0.86364 be|0.90909 expressed|0.95455 as|1"
+		}
+	}
+}

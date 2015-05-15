@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "31382d62277374add377e2ebd2574b35b881560d5a36e93c8a32ecb68b7620c7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Entrevista_Michael_Bauer_CCCB.webm/220px--Entrevista_Michael_Bauer_CCCB.webm.jpg",
+			"previous": " ",
+			"after": " Many of Open Knowledge s projects are technical in nature Its most prominent project CKAN is used by many of the world s governments to host open catalogues of data that their countries possess 14 ",
+			"after_weights": " Many|1 of|0.97143 Open|0.94286 Knowledge|0.91429 s|0.88571 projects|0.85714 are|0.82857 technical|0.8 in|0.77143 nature|0.74286 Its|0.71429 most|0.68571 prominent|0.65714 project|0.62857 CKAN|0.6 is|0.57143 used|0.54286 by|0.51429 many|0.48571 of|0.45714 the|0.42857 world|0.4 s|0.37143 governments|0.34286 to|0.31429 host|0.28571 open|0.25714 catalogues|0.22857 of|0.2 data|0.17143 that|0.14286 their|0.11429 countries|0.085714 possess|0.057143 14|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

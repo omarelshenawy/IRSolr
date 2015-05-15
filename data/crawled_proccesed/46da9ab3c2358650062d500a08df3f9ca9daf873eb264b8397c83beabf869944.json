@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "46da9ab3c2358650062d500a08df3f9ca9daf873eb264b8397c83beabf869944",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ClamTk_4.30.png/300px-ClamTk_4.30.png",
+			"previous": " ",
+			"after": " There is debate over the security of free software in comparison to proprietary software with a major issue being security through obscurity A popular quantitative test in computer security is to use relative counting of known unpatched security flaws Generally users of this method advise avoiding products that lack fixes for known security flaws at least until a fix is available ",
+			"after_weights": " There|1 is|0.98361 debate|0.96721 over|0.95082 the|0.93443 security|0.91803 of|0.90164 free|0.88525 software|0.86885 in|0.85246 comparison|0.83607 to|0.81967 proprietary|0.80328 software|0.78689 with|0.77049 a|0.7541 major|0.7377 issue|0.72131 being|0.70492 security|0.68852 through|0.67213 obscurity|0.65574 A|0.63934 popular|0.62295 quantitative|0.60656 test|0.59016 in|0.57377 computer|0.55738 security|0.54098 is|0.52459 to|0.5082 use|0.4918 relative|0.47541 counting|0.45902 of|0.44262 known|0.42623 unpatched|0.40984 security|0.39344 flaws|0.37705 Generally|0.36066 users|0.34426 of|0.32787 this|0.31148 method|0.29508 advise|0.27869 avoiding|0.2623 products|0.2459 that|0.22951 lack|0.21311 fixes|0.19672 for|0.18033 known|0.16393 security|0.14754 flaws|0.13115 at|0.11475 least|0.098361 until|0.081967 a|0.065574 fix|0.04918 is|0.032787 available|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

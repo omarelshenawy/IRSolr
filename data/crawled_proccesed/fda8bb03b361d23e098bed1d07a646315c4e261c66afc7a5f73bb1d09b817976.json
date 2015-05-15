@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fda8bb03b361d23e098bed1d07a646315c4e261c66afc7a5f73bb1d09b817976",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/US_Consumer_Price_Index_Graph.svg/460px-US_Consumer_Price_Index_Graph.svg.png",
+			"previous": " ",
+			"after": " The 6th paragraph of Section 8 of Article 1 of the U S Constitution provides that the U S Congress shall have the power to coin money and to regulate the value of domestic and foreign coins Congress exercised those powers when it enacted the Coinage Act of 1792 That Act provided for the minting of the first U S dollar and it declared that the U S dollar shall have the value of a Spanish milled dollar as the same is now current 49 ",
+			"after_weights": " The|1 6th|0.98824 paragraph|0.97647 of|0.96471 Section|0.95294 8|0.94118 of|0.92941 Article|0.91765 1|0.90588 of|0.89412 the|0.88235 U|0.87059 S|0.85882 Constitution|0.84706 provides|0.83529 that|0.82353 the|0.81176 U|0.8 S|0.78824 Congress|0.77647 shall|0.76471 have|0.75294 the|0.74118 power|0.72941 to|0.71765 coin|0.70588 money|0.69412 and|0.68235 to|0.67059 regulate|0.65882 the|0.64706 value|0.63529 of|0.62353 domestic|0.61176 and|0.6 foreign|0.58824 coins|0.57647 Congress|0.56471 exercised|0.55294 those|0.54118 powers|0.52941 when|0.51765 it|0.50588 enacted|0.49412 the|0.48235 Coinage|0.47059 Act|0.45882 of|0.44706 1792|0.43529 That|0.42353 Act|0.41176 provided|0.4 for|0.38824 the|0.37647 minting|0.36471 of|0.35294 the|0.34118 first|0.32941 U|0.31765 S|0.30588 dollar|0.29412 and|0.28235 it|0.27059 declared|0.25882 that|0.24706 the|0.23529 U|0.22353 S|0.21176 dollar|0.2 shall|0.18824 have|0.17647 the|0.16471 value|0.15294 of|0.14118 a|0.12941 Spanish|0.11765 milled|0.10588 dollar|0.094118 as|0.082353 the|0.070588 same|0.058824 is|0.047059 now|0.035294 current|0.023529 49|0.011765 |0",
+			"previous_weights": " "
+		}
+	}
+}

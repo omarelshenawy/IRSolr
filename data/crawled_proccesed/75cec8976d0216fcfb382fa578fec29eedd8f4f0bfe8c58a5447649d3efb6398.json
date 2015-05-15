@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "75cec8976d0216fcfb382fa578fec29eedd8f4f0bfe8c58a5447649d3efb6398",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Cockney_diphthongs_chart_-_part_3.svg/250px-Cockney_diphthongs_chart_-_part_3.svg.png",
+			"previous": " ",
+			"after": " Most of the features mentioned above have in recent years partly spread into more general south eastern speech giving the accent called Estuary English an Estuary speaker will use some but not all of the Cockney sounds 70 71 72 ",
+			"after_weights": " Most|1 of|0.975 the|0.95 features|0.925 mentioned|0.9 above|0.875 have|0.85 in|0.825 recent|0.8 years|0.775 partly|0.75 spread|0.725 into|0.7 more|0.675 general|0.65 south|0.625 eastern|0.6 speech|0.575 giving|0.55 the|0.525 accent|0.5 called|0.475 Estuary|0.45 English|0.425 an|0.4 Estuary|0.375 speaker|0.35 will|0.325 use|0.3 some|0.275 but|0.25 not|0.225 all|0.2 of|0.175 the|0.15 Cockney|0.125 sounds|0.1 70|0.075 71|0.05 72|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

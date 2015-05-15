@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2fc673d485d43dbb825ce46c8ebd6f1fe949219720efcd661a4d07c8914b5a56",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Music_barnstar.png/50px-Music_barnstar.png",
+			"previous": " The Guitarist Barnstar can be awarded to any project member you want to recognize for service to the project Add it to their Talk page with subst The Guitarist Barnstar message ",
+			"after": " The Music Barnstar can be awarded to any wikpedian that exhibits exceptional effort and dedication to music related articles Add it to their Talk page with subst Music Barnstar message ",
+			"after_weights": " The|1 Music|0.96667 Barnstar|0.93333 can|0.9 be|0.86667 awarded|0.83333 to|0.8 any|0.76667 wikpedian|0.73333 that|0.7 exhibits|0.66667 exceptional|0.63333 effort|0.6 and|0.56667 dedication|0.53333 to|0.5 music|0.46667 related|0.43333 articles|0.4 Add|0.36667 it|0.33333 to|0.3 their|0.26667 Talk|0.23333 page|0.2 with|0.16667 subst|0.13333 Music|0.1 Barnstar|0.066667 message|0.033333 |0",
+			"previous_weights": " The|0 Guitarist|0.032258 Barnstar|0.064516 can|0.096774 be|0.12903 awarded|0.16129 to|0.19355 any|0.22581 project|0.25806 member|0.29032 you|0.32258 want|0.35484 to|0.3871 recognize|0.41935 for|0.45161 service|0.48387 to|0.51613 the|0.54839 project|0.58065 Add|0.6129 it|0.64516 to|0.67742 their|0.70968 Talk|0.74194 page|0.77419 with|0.80645 subst|0.83871 The|0.87097 Guitarist|0.90323 Barnstar|0.93548 message|0.96774 |1"
+		}
+	}
+}

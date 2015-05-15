@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f4f5ad12f186057de51b37accd2ec739b558e650c79681c1a584bc04258c96f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Enterprise_Radar.jpg/100px-Enterprise_Radar.jpg",
+			"previous": " Portal Geography Selected anniversaries March Portal Geography Selected anniversaries February Portal Geography Selected anniversaries January",
+			"after": " Portal Geography Selected anniversaries April Portal Geography Selected anniversaries May",
+			"after_weights": " Portal|1 Geography|0.88889 Selected|0.77778 anniversaries|0.66667 April|0.55556 Portal|0.44444 Geography|0.33333 Selected|0.22222 anniversaries|0.11111 May|0",
+			"previous_weights": " Portal|0 Geography|0.071429 Selected|0.14286 anniversaries|0.21429 March|0.28571 Portal|0.35714 Geography|0.42857 Selected|0.5 anniversaries|0.57143 February|0.64286 Portal|0.71429 Geography|0.78571 Selected|0.85714 anniversaries|0.92857 January|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "af728292087be4067867d7165bb0b4ce636ec4b7691edf52c37fdbe6bb261605",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Dracamer99.jpg/220px-Dracamer99.jpg",
+			"previous": " ",
+			"after": " When it was first published in 1897 Dracula was not an immediate bestseller although reviewers were unstinting in their praise The contemporary Daily Mail ranked Stoker s powers above those of Mary Shelley and Edgar Allan Poe as well as Emily Bront s Wuthering Heights 12 ",
+			"after_weights": " When|1 it|0.97826 was|0.95652 first|0.93478 published|0.91304 in|0.8913 1897|0.86957 Dracula|0.84783 was|0.82609 not|0.80435 an|0.78261 immediate|0.76087 bestseller|0.73913 although|0.71739 reviewers|0.69565 were|0.67391 unstinting|0.65217 in|0.63043 their|0.6087 praise|0.58696 The|0.56522 contemporary|0.54348 Daily|0.52174 Mail|0.5 ranked|0.47826 Stoker|0.45652 s|0.43478 powers|0.41304 above|0.3913 those|0.36957 of|0.34783 Mary|0.32609 Shelley|0.30435 and|0.28261 Edgar|0.26087 Allan|0.23913 Poe|0.21739 as|0.19565 well|0.17391 as|0.15217 Emily|0.13043 Bront|0.1087 s|0.086957 Wuthering|0.065217 Heights|0.043478 12|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

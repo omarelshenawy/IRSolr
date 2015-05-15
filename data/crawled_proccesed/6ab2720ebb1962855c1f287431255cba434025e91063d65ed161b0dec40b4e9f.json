@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ab2720ebb1962855c1f287431255cba434025e91063d65ed161b0dec40b4e9f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Boerewors_raw.jpg/220px-Boerewors_raw.jpg",
+			"previous": " The oldest paintings from both Botswana and South Africa depict hunting animal and human figures and were made by the Khoisan Kung San Bushmen over twenty thousand years ago within the Kalahari desert ",
+			"after": " The cuisine of Botswana is unique but also shares some characteristics with other cuisine of Southern Africa Examples of Botswana food are pap boerewors samp vetkoek and mopani worms A food unique to Botswana includes seswaa heavily salted mashed up meat ",
+			"after_weights": " The|1 cuisine|0.97561 of|0.95122 Botswana|0.92683 is|0.90244 unique|0.87805 but|0.85366 also|0.82927 shares|0.80488 some|0.78049 characteristics|0.7561 with|0.73171 other|0.70732 cuisine|0.68293 of|0.65854 Southern|0.63415 Africa|0.60976 Examples|0.58537 of|0.56098 Botswana|0.53659 food|0.5122 are|0.4878 pap|0.46341 boerewors|0.43902 samp|0.41463 vetkoek|0.39024 and|0.36585 mopani|0.34146 worms|0.31707 A|0.29268 food|0.26829 unique|0.2439 to|0.21951 Botswana|0.19512 includes|0.17073 seswaa|0.14634 heavily|0.12195 salted|0.097561 mashed|0.073171 up|0.04878 meat|0.02439 |0",
+			"previous_weights": " The|0 oldest|0.030303 paintings|0.060606 from|0.090909 both|0.12121 Botswana|0.15152 and|0.18182 South|0.21212 Africa|0.24242 depict|0.27273 hunting|0.30303 animal|0.33333 and|0.36364 human|0.39394 figures|0.42424 and|0.45455 were|0.48485 made|0.51515 by|0.54545 the|0.57576 Khoisan|0.60606 Kung|0.63636 San|0.66667 Bushmen|0.69697 over|0.72727 twenty|0.75758 thousand|0.78788 years|0.81818 ago|0.84848 within|0.87879 the|0.90909 Kalahari|0.93939 desert|0.9697 |1"
+		}
+	}
+}

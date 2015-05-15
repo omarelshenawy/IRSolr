@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a441116de840f536bcc978fb3db4d9e79e24dfb1af2efa70409776edc35c2865",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HoratioNelson1.jpg/300px-HoratioNelson1.jpg",
+			"previous": " Portal Biography Selected picture 1",
+			"after": " Horatio Nelson 1st Viscount Nelson KB 29 September 1758 21 October 1805 was a British flag officer famous for his service in the Royal Navy particularly during the Napoleonic Wars He was noted for his inspirational leadership and superb grasp of strategy and unconventional tactics which resulted in a number of decisive naval victories ",
+			"after_weights": " Horatio|1 Nelson|0.98148 1st|0.96296 Viscount|0.94444 Nelson|0.92593 KB|0.90741 29|0.88889 September|0.87037 1758|0.85185 21|0.83333 October|0.81481 1805|0.7963 was|0.77778 a|0.75926 British|0.74074 flag|0.72222 officer|0.7037 famous|0.68519 for|0.66667 his|0.64815 service|0.62963 in|0.61111 the|0.59259 Royal|0.57407 Navy|0.55556 particularly|0.53704 during|0.51852 the|0.5 Napoleonic|0.48148 Wars|0.46296 He|0.44444 was|0.42593 noted|0.40741 for|0.38889 his|0.37037 inspirational|0.35185 leadership|0.33333 and|0.31481 superb|0.2963 grasp|0.27778 of|0.25926 strategy|0.24074 and|0.22222 unconventional|0.2037 tactics|0.18519 which|0.16667 resulted|0.14815 in|0.12963 a|0.11111 number|0.092593 of|0.074074 decisive|0.055556 naval|0.037037 victories|0.018519 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 1|1"
+		}
+	}
+}

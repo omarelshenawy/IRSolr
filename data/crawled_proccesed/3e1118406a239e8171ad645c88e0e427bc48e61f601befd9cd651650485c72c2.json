@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e1118406a239e8171ad645c88e0e427bc48e61f601befd9cd651650485c72c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sierra_Leone_Export_Treemap.png/350px-Sierra_Leone_Export_Treemap.png",
+			"previous": " ",
+			"after": " By the 1990s economic activity was declining and economic infrastructure had become seriously degraded Over the next decade much of the formal economy was destroyed in the country s civil war Since the end of hostilities in January 2002 massive infusions of outside assistance have helped Sierra Leone begin to recover ",
+			"after_weights": " By|1 the|0.98039 1990s|0.96078 economic|0.94118 activity|0.92157 was|0.90196 declining|0.88235 and|0.86275 economic|0.84314 infrastructure|0.82353 had|0.80392 become|0.78431 seriously|0.76471 degraded|0.7451 Over|0.72549 the|0.70588 next|0.68627 decade|0.66667 much|0.64706 of|0.62745 the|0.60784 formal|0.58824 economy|0.56863 was|0.54902 destroyed|0.52941 in|0.5098 the|0.4902 country|0.47059 s|0.45098 civil|0.43137 war|0.41176 Since|0.39216 the|0.37255 end|0.35294 of|0.33333 hostilities|0.31373 in|0.29412 January|0.27451 2002|0.2549 massive|0.23529 infusions|0.21569 of|0.19608 outside|0.17647 assistance|0.15686 have|0.13725 helped|0.11765 Sierra|0.098039 Leone|0.078431 begin|0.058824 to|0.039216 recover|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

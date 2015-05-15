@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c225deb10ac511e38864c1100feb58ef205b3b327e798dbd9cbdc7e49f76c573",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scholarpedia_main_page.png/220px-Scholarpedia_main_page.png",
+			"previous": " ",
+			"after": " Scholarpedia is not a general encyclopedia it focuses on the fields of computational neuroscience touch dynamical systems computational intelligence physics and astrophysics 4 In April 2009 Scholarpedia amounted to 500 peer reviewed accepted articles and about 1400 articles at diverse stages of completion citation needed ",
+			"after_weights": " Scholarpedia|1 is|0.97778 not|0.95556 a|0.93333 general|0.91111 encyclopedia|0.88889 it|0.86667 focuses|0.84444 on|0.82222 the|0.8 fields|0.77778 of|0.75556 computational|0.73333 neuroscience|0.71111 touch|0.68889 dynamical|0.66667 systems|0.64444 computational|0.62222 intelligence|0.6 physics|0.57778 and|0.55556 astrophysics|0.53333 4|0.51111 In|0.48889 April|0.46667 2009|0.44444 Scholarpedia|0.42222 amounted|0.4 to|0.37778 500|0.35556 peer|0.33333 reviewed|0.31111 accepted|0.28889 articles|0.26667 and|0.24444 about|0.22222 1400|0.2 articles|0.17778 at|0.15556 diverse|0.13333 stages|0.11111 of|0.088889 completion|0.066667 citation|0.044444 needed|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

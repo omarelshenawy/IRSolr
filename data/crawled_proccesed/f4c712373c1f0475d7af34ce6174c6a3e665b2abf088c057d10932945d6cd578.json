@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f4c712373c1f0475d7af34ce6174c6a3e665b2abf088c057d10932945d6cd578",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Theodosius_I%27s_empire.png/240px-Theodosius_I%27s_empire.png",
+			"previous": " ",
+			"after": " In the late 4th and early 5th centuries the Roman Empire could no longer defend itself against either internal rebellion or the external threat posed by expanding Germanic tribes in northeastern Europe This situation and its consequences governed the separation of Roman Britain from the rest of the Empire ",
+			"after_weights": " In|1 the|0.97959 late|0.95918 4th|0.93878 and|0.91837 early|0.89796 5th|0.87755 centuries|0.85714 the|0.83673 Roman|0.81633 Empire|0.79592 could|0.77551 no|0.7551 longer|0.73469 defend|0.71429 itself|0.69388 against|0.67347 either|0.65306 internal|0.63265 rebellion|0.61224 or|0.59184 the|0.57143 external|0.55102 threat|0.53061 posed|0.5102 by|0.4898 expanding|0.46939 Germanic|0.44898 tribes|0.42857 in|0.40816 northeastern|0.38776 Europe|0.36735 This|0.34694 situation|0.32653 and|0.30612 its|0.28571 consequences|0.26531 governed|0.2449 the|0.22449 separation|0.20408 of|0.18367 Roman|0.16327 Britain|0.14286 from|0.12245 the|0.10204 rest|0.081633 of|0.061224 the|0.040816 Empire|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

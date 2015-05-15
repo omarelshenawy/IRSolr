@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b435ee10faeefddb81d4243a5b1bed76fa2e880b00ca62c09df86d6d8197b4d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Youtube_founders.jpg/400px-Youtube_founders.jpg",
+			"previous": " ",
+			"after": " YouTube was founded by Chad Hurley Steve Chen and Jawed Karim who were all early employees of PayPal 7 Hurley had studied design at Indiana University of Pennsylvania and Chen and Karim studied computer science together at the University of Illinois at Urbana Champaign 8 ",
+			"after_weights": " YouTube|1 was|0.97778 founded|0.95556 by|0.93333 Chad|0.91111 Hurley|0.88889 Steve|0.86667 Chen|0.84444 and|0.82222 Jawed|0.8 Karim|0.77778 who|0.75556 were|0.73333 all|0.71111 early|0.68889 employees|0.66667 of|0.64444 PayPal|0.62222 7|0.6 Hurley|0.57778 had|0.55556 studied|0.53333 design|0.51111 at|0.48889 Indiana|0.46667 University|0.44444 of|0.42222 Pennsylvania|0.4 and|0.37778 Chen|0.35556 and|0.33333 Karim|0.31111 studied|0.28889 computer|0.26667 science|0.24444 together|0.22222 at|0.2 the|0.17778 University|0.15556 of|0.13333 Illinois|0.11111 at|0.088889 Urbana|0.066667 Champaign|0.044444 8|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

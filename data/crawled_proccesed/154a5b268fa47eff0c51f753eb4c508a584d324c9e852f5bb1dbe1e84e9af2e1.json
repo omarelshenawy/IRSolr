@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "154a5b268fa47eff0c51f753eb4c508a584d324c9e852f5bb1dbe1e84e9af2e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ubuntu_12-04_Server_Installation.png/220px-Ubuntu_12-04_Server_Installation.png",
+			"previous": " ",
+			"after": " Ubuntu has a server edition that uses the same APT repositories as the Ubuntu Desktop Edition The differences between them are the absence of an X Window environment in a default installation of the server edition although one can easily be installed including Unity GNOME KDE or XFCE and the installation process 90 The server edition uses a screen mode character based interface for the installation instead of a graphical installation process ",
+			"after_weights": " Ubuntu|1 has|0.98611 a|0.97222 server|0.95833 edition|0.94444 that|0.93056 uses|0.91667 the|0.90278 same|0.88889 APT|0.875 repositories|0.86111 as|0.84722 the|0.83333 Ubuntu|0.81944 Desktop|0.80556 Edition|0.79167 The|0.77778 differences|0.76389 between|0.75 them|0.73611 are|0.72222 the|0.70833 absence|0.69444 of|0.68056 an|0.66667 X|0.65278 Window|0.63889 environment|0.625 in|0.61111 a|0.59722 default|0.58333 installation|0.56944 of|0.55556 the|0.54167 server|0.52778 edition|0.51389 although|0.5 one|0.48611 can|0.47222 easily|0.45833 be|0.44444 installed|0.43056 including|0.41667 Unity|0.40278 GNOME|0.38889 KDE|0.375 or|0.36111 XFCE|0.34722 and|0.33333 the|0.31944 installation|0.30556 process|0.29167 90|0.27778 The|0.26389 server|0.25 edition|0.23611 uses|0.22222 a|0.20833 screen|0.19444 mode|0.18056 character|0.16667 based|0.15278 interface|0.13889 for|0.125 the|0.11111 installation|0.097222 instead|0.083333 of|0.069444 a|0.055556 graphical|0.041667 installation|0.027778 process|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

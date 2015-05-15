@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "635ab7aca14dba4e181229b3599068d8847a94b72dc178b42aee72e316c6d486",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sir_Thomas_Browne%27s_House%2C_Norwich.jpg/220px-Sir_Thomas_Browne%27s_House%2C_Norwich.jpg",
+			"previous": " ",
+			"after": " In Religio Medici Browne confirmed his belief in accordance with the vast majority of 17th century European society in the existence of angels and witchcraft He attended the 1662 Bury St Edmunds witch trial where his citation of a similar trial in Denmark may have influenced the jury s minds of the guilt of two accused women who were subsequently executed for the crime of witchcraft ",
+			"after_weights": " In|1 Religio|0.98485 Medici|0.9697 Browne|0.95455 confirmed|0.93939 his|0.92424 belief|0.90909 in|0.89394 accordance|0.87879 with|0.86364 the|0.84848 vast|0.83333 majority|0.81818 of|0.80303 17th|0.78788 century|0.77273 European|0.75758 society|0.74242 in|0.72727 the|0.71212 existence|0.69697 of|0.68182 angels|0.66667 and|0.65152 witchcraft|0.63636 He|0.62121 attended|0.60606 the|0.59091 1662|0.57576 Bury|0.56061 St|0.54545 Edmunds|0.5303 witch|0.51515 trial|0.5 where|0.48485 his|0.4697 citation|0.45455 of|0.43939 a|0.42424 similar|0.40909 trial|0.39394 in|0.37879 Denmark|0.36364 may|0.34848 have|0.33333 influenced|0.31818 the|0.30303 jury|0.28788 s|0.27273 minds|0.25758 of|0.24242 the|0.22727 guilt|0.21212 of|0.19697 two|0.18182 accused|0.16667 women|0.15152 who|0.13636 were|0.12121 subsequently|0.10606 executed|0.090909 for|0.075758 the|0.060606 crime|0.045455 of|0.030303 witchcraft|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

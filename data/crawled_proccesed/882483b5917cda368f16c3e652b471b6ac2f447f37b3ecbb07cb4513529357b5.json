@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "882483b5917cda368f16c3e652b471b6ac2f447f37b3ecbb07cb4513529357b5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Feb_2008_San_Francisco_Wikimedia_Meetup_05.jpg/240px-Feb_2008_San_Francisco_Wikimedia_Meetup_05.jpg",
+			"previous": " ",
+			"after": " Lee Daniel Crocker born July 3 1963 is an American computer programmer and poker player He is best known for rewriting the software upon which Wikipedia runs to address scalability problems This new software originally known as Phase III went live in July 2002 and became the foundation of what is now called MediaWiki MediaWiki s code repository was still named phase3 until the move from Subversion to Git in March 2012 ",
+			"after_weights": " Lee|1 Daniel|0.98611 Crocker|0.97222 born|0.95833 July|0.94444 3|0.93056 1963|0.91667 is|0.90278 an|0.88889 American|0.875 computer|0.86111 programmer|0.84722 and|0.83333 poker|0.81944 player|0.80556 He|0.79167 is|0.77778 best|0.76389 known|0.75 for|0.73611 rewriting|0.72222 the|0.70833 software|0.69444 upon|0.68056 which|0.66667 Wikipedia|0.65278 runs|0.63889 to|0.625 address|0.61111 scalability|0.59722 problems|0.58333 This|0.56944 new|0.55556 software|0.54167 originally|0.52778 known|0.51389 as|0.5 Phase|0.48611 III|0.47222 went|0.45833 live|0.44444 in|0.43056 July|0.41667 2002|0.40278 and|0.38889 became|0.375 the|0.36111 foundation|0.34722 of|0.33333 what|0.31944 is|0.30556 now|0.29167 called|0.27778 MediaWiki|0.26389 MediaWiki|0.25 s|0.23611 code|0.22222 repository|0.20833 was|0.19444 still|0.18056 named|0.16667 phase3|0.15278 until|0.13889 the|0.125 move|0.11111 from|0.097222 Subversion|0.083333 to|0.069444 Git|0.055556 in|0.041667 March|0.027778 2012|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

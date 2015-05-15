@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "93b98da0289a981421ceaca6ce9cd0007067e2558075602d4acb3e6caa86c2ab",
+			"url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Barbara_Epstein.jpg",
+			"previous": " ",
+			"after": " The Washington Post described the lively literary disputes conducted in the letters to the editor column of the Review as the closest thing the intellectual world has to bare knuckle boxing 3 In addition to reviews interviews and articles the paper features extensive advertising from publishers promoting newly published books It includes a popular personals section that share s a cultivated writing style with its articles 33 57 One lonely heart author Jane Juska documented the 63 replies to her personal ad in the Review with a 2003 memoir A Round Heeled Woman that became a West End play 58 59 ",
+			"after_weights": " The|1 Washington|0.9901 Post|0.9802 described|0.9703 the|0.9604 lively|0.9505 literary|0.94059 disputes|0.93069 conducted|0.92079 in|0.91089 the|0.90099 letters|0.89109 to|0.88119 the|0.87129 editor|0.86139 column|0.85149 of|0.84158 the|0.83168 Review|0.82178 as|0.81188 the|0.80198 closest|0.79208 thing|0.78218 the|0.77228 intellectual|0.76238 world|0.75248 has|0.74257 to|0.73267 bare|0.72277 knuckle|0.71287 boxing|0.70297 3|0.69307 In|0.68317 addition|0.67327 to|0.66337 reviews|0.65347 interviews|0.64356 and|0.63366 articles|0.62376 the|0.61386 paper|0.60396 features|0.59406 extensive|0.58416 advertising|0.57426 from|0.56436 publishers|0.55446 promoting|0.54455 newly|0.53465 published|0.52475 books|0.51485 It|0.50495 includes|0.49505 a|0.48515 popular|0.47525 personals|0.46535 section|0.45545 that|0.44554 share|0.43564 s|0.42574 a|0.41584 cultivated|0.40594 writing|0.39604 style|0.38614 with|0.37624 its|0.36634 articles|0.35644 33|0.34653 57|0.33663 One|0.32673 lonely|0.31683 heart|0.30693 author|0.29703 Jane|0.28713 Juska|0.27723 documented|0.26733 the|0.25743 63|0.24752 replies|0.23762 to|0.22772 her|0.21782 personal|0.20792 ad|0.19802 in|0.18812 the|0.17822 Review|0.16832 with|0.15842 a|0.14851 2003|0.13861 memoir|0.12871 A|0.11881 Round|0.10891 Heeled|0.09901 Woman|0.089109 that|0.079208 became|0.069307 a|0.059406 West|0.049505 End|0.039604 play|0.029703 58|0.019802 59|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

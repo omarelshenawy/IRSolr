@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a32544ad76df7406a918c8bb34068d8a660838b3b2d599416a2ca79cf31b6729",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Chechen_Wikipedia_main_page_2013_August_1.png/220px-Chechen_Wikipedia_main_page_2013_August_1.png",
+			"previous": " The Chechen Wikipedia Chechen is the Chechen language edition of Wikipedia ",
+			"after": " The Chechen Wikipedia was created on 28 February 2005 Activity was very low and changes mainly were made by bots There was discontent with the situation But after discussion in December 2006 a decision was made to keep the Chechen Wikipedia ",
+			"after_weights": " The|1 Chechen|0.97561 Wikipedia|0.95122 was|0.92683 created|0.90244 on|0.87805 28|0.85366 February|0.82927 2005|0.80488 Activity|0.78049 was|0.7561 very|0.73171 low|0.70732 and|0.68293 changes|0.65854 mainly|0.63415 were|0.60976 made|0.58537 by|0.56098 bots|0.53659 There|0.5122 was|0.4878 discontent|0.46341 with|0.43902 the|0.41463 situation|0.39024 But|0.36585 after|0.34146 discussion|0.31707 in|0.29268 December|0.26829 2006|0.2439 a|0.21951 decision|0.19512 was|0.17073 made|0.14634 to|0.12195 keep|0.097561 the|0.073171 Chechen|0.04878 Wikipedia|0.02439 |0",
+			"previous_weights": " The|0 Chechen|0.090909 Wikipedia|0.18182 Chechen|0.27273 is|0.36364 the|0.45455 Chechen|0.54545 language|0.63636 edition|0.72727 of|0.81818 Wikipedia|0.90909 |1"
+		}
+	}
+}

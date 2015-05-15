@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b99cbf4ea29c0b7ce75cf1db4cdeb8066cf18f5eb7c086fef6d71b692c1f3c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Koloniasokehs.jpg/240px-Koloniasokehs.jpg",
+			"previous": " These states are further divided into municipalities ",
+			"after": " The Federated States of Micronesia consists of 607 islands extending 2 900 km 1 802 mi across the archipelago of the Caroline Islands east of the Philippines The islands have a combined area of 702 km2 271 sq mi 8 ",
+			"after_weights": " The|1 Federated|0.975 States|0.95 of|0.925 Micronesia|0.9 consists|0.875 of|0.85 607|0.825 islands|0.8 extending|0.775 2|0.75 900|0.725 km|0.7 1|0.675 802|0.65 mi|0.625 across|0.6 the|0.575 archipelago|0.55 of|0.525 the|0.5 Caroline|0.475 Islands|0.45 east|0.425 of|0.4 the|0.375 Philippines|0.35 The|0.325 islands|0.3 have|0.275 a|0.25 combined|0.225 area|0.2 of|0.175 702|0.15 km2|0.125 271|0.1 sq|0.075 mi|0.05 8|0.025 |0",
+			"previous_weights": " These|0 states|0.14286 are|0.28571 further|0.42857 divided|0.57143 into|0.71429 municipalities|0.85714 |1"
+		}
+	}
+}

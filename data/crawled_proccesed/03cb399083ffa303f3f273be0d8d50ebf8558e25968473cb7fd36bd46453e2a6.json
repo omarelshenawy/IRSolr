@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "03cb399083ffa303f3f273be0d8d50ebf8558e25968473cb7fd36bd46453e2a6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/World_War_II_Casualties2.svg/425px-World_War_II_Casualties2.svg.png",
+			"previous": " ",
+			"after": " Estimates for the total casualties of the war vary because many deaths went unrecorded Most suggest that some 75 million people died in the war including about 20 million military personnel and 40 million civilians 310 311 312 Many of the civilians died because of deliberate genocide massacres mass bombing disease and starvation ",
+			"after_weights": " Estimates|1 for|0.98113 the|0.96226 total|0.9434 casualties|0.92453 of|0.90566 the|0.88679 war|0.86792 vary|0.84906 because|0.83019 many|0.81132 deaths|0.79245 went|0.77358 unrecorded|0.75472 Most|0.73585 suggest|0.71698 that|0.69811 some|0.67925 75|0.66038 million|0.64151 people|0.62264 died|0.60377 in|0.58491 the|0.56604 war|0.54717 including|0.5283 about|0.50943 20|0.49057 million|0.4717 military|0.45283 personnel|0.43396 and|0.41509 40|0.39623 million|0.37736 civilians|0.35849 310|0.33962 311|0.32075 312|0.30189 Many|0.28302 of|0.26415 the|0.24528 civilians|0.22642 died|0.20755 because|0.18868 of|0.16981 deliberate|0.15094 genocide|0.13208 massacres|0.11321 mass|0.09434 bombing|0.075472 disease|0.056604 and|0.037736 starvation|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c7c27c532d5c1f3d29081d285fed41d84adf031b4a5f904c0f9a36d0957a67f7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eucalyptus_full.jpg/220px-Eucalyptus_full.jpg",
+			"previous": " ",
+			"after": " Ubuntu offers Ubuntu Cloud Images which are pre installed disk images that have been customized by Ubuntu engineering to run on cloud platforms such as Amazon EC2 OpenStack Windows and LXC 97 Ubuntu is also prevalent on VPS platforms such as DigitalOcean 98 ",
+			"after_weights": " Ubuntu|1 offers|0.97674 Ubuntu|0.95349 Cloud|0.93023 Images|0.90698 which|0.88372 are|0.86047 pre|0.83721 installed|0.81395 disk|0.7907 images|0.76744 that|0.74419 have|0.72093 been|0.69767 customized|0.67442 by|0.65116 Ubuntu|0.62791 engineering|0.60465 to|0.5814 run|0.55814 on|0.53488 cloud|0.51163 platforms|0.48837 such|0.46512 as|0.44186 Amazon|0.4186 EC2|0.39535 OpenStack|0.37209 Windows|0.34884 and|0.32558 LXC|0.30233 97|0.27907 Ubuntu|0.25581 is|0.23256 also|0.2093 prevalent|0.18605 on|0.16279 VPS|0.13953 platforms|0.11628 such|0.093023 as|0.069767 DigitalOcean|0.046512 98|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

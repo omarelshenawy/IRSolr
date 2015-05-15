@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "444fa4c4cf781bc94c16a11b237ad85bb463e8c7d780bff37c58e2f243504232",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nuri_main_pyr.northeast.jpg/220px-Nuri_main_pyr.northeast.jpg",
+			"previous": " Piye the first ruler of the Egyptian 25th dynasty built a pyramid at El Kurru He was the first Egyptian pharaoh to be buried in a pyramid in centuries ",
+			"after": " Taharqa a legitimate ruler and Pharaoh of Egypt built his pyramid at Nuri It was the largest in the area North Sudan ",
+			"after_weights": " Taharqa|1 a|0.95455 legitimate|0.90909 ruler|0.86364 and|0.81818 Pharaoh|0.77273 of|0.72727 Egypt|0.68182 built|0.63636 his|0.59091 pyramid|0.54545 at|0.5 Nuri|0.45455 It|0.40909 was|0.36364 the|0.31818 largest|0.27273 in|0.22727 the|0.18182 area|0.13636 North|0.090909 Sudan|0.045455 |0",
+			"previous_weights": " Piye|0 the|0.034483 first|0.068966 ruler|0.10345 of|0.13793 the|0.17241 Egyptian|0.2069 25th|0.24138 dynasty|0.27586 built|0.31034 a|0.34483 pyramid|0.37931 at|0.41379 El|0.44828 Kurru|0.48276 He|0.51724 was|0.55172 the|0.58621 first|0.62069 Egyptian|0.65517 pharaoh|0.68966 to|0.72414 be|0.75862 buried|0.7931 in|0.82759 a|0.86207 pyramid|0.89655 in|0.93103 centuries|0.96552 |1"
+		}
+	}
+}

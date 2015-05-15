@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ae347b2484a895f4016cd8ababb2ad354f66f19167751fae533c0ea64cf95d65",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wikipedian-in-Residence_Scope_Diagram_Page_1.png/220px-Wikipedian-in-Residence_Scope_Diagram_Page_1.png",
+			"previous": " ",
+			"after": " A Wikipedian in residence or Wikimedian in residence is a Wikipedia editor a Wikipedian or Wikimedian who accepts a placement with an institution typically an art gallery library archive or museum GLAM to facilitate Wikipedia entries related to that institution encourage and assist it to release material under open licences and to develop the relationship between the institution and the Wikimedia community A Wikipedian in residence generally helps to coordinate Wikipedia related outreach events between the GLAM and the general public ",
+			"after_weights": " A|1 Wikipedian|0.98765 in|0.97531 residence|0.96296 or|0.95062 Wikimedian|0.93827 in|0.92593 residence|0.91358 is|0.90123 a|0.88889 Wikipedia|0.87654 editor|0.8642 a|0.85185 Wikipedian|0.83951 or|0.82716 Wikimedian|0.81481 who|0.80247 accepts|0.79012 a|0.77778 placement|0.76543 with|0.75309 an|0.74074 institution|0.7284 typically|0.71605 an|0.7037 art|0.69136 gallery|0.67901 library|0.66667 archive|0.65432 or|0.64198 museum|0.62963 GLAM|0.61728 to|0.60494 facilitate|0.59259 Wikipedia|0.58025 entries|0.5679 related|0.55556 to|0.54321 that|0.53086 institution|0.51852 encourage|0.50617 and|0.49383 assist|0.48148 it|0.46914 to|0.45679 release|0.44444 material|0.4321 under|0.41975 open|0.40741 licences|0.39506 and|0.38272 to|0.37037 develop|0.35802 the|0.34568 relationship|0.33333 between|0.32099 the|0.30864 institution|0.2963 and|0.28395 the|0.2716 Wikimedia|0.25926 community|0.24691 A|0.23457 Wikipedian|0.22222 in|0.20988 residence|0.19753 generally|0.18519 helps|0.17284 to|0.16049 coordinate|0.14815 Wikipedia|0.1358 related|0.12346 outreach|0.11111 events|0.098765 between|0.08642 the|0.074074 GLAM|0.061728 and|0.049383 the|0.037037 general|0.024691 public|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

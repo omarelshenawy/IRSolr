@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "97a8a6f756dad823af4fe528d2a8f76ee9ab9b8d36a971ad6a1e50f74edf7f12",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Popup-preview.png/300px-Popup-preview.png",
+			"previous": " ",
+			"after": " If the feature is enabled users can customize their stylesheets and configure client side JavaScript to be executed with every pageview On Wikipedia this has led to a large number of additional tools and helpers developed through the wiki and shared among users For instance Lupin s navigation popups is a custom JavaScript tool that shows previews of articles when the user hovers over links and also provides shortcuts for common maintenance tasks 73 Another example is wikEd a full featured MediaWiki integrated text editor that provides syntax highlighting and search and replace functions 40 ",
+			"after_weights": " If|1 the|0.98947 feature|0.97895 is|0.96842 enabled|0.95789 users|0.94737 can|0.93684 customize|0.92632 their|0.91579 stylesheets|0.90526 and|0.89474 configure|0.88421 client|0.87368 side|0.86316 JavaScript|0.85263 to|0.84211 be|0.83158 executed|0.82105 with|0.81053 every|0.8 pageview|0.78947 On|0.77895 Wikipedia|0.76842 this|0.75789 has|0.74737 led|0.73684 to|0.72632 a|0.71579 large|0.70526 number|0.69474 of|0.68421 additional|0.67368 tools|0.66316 and|0.65263 helpers|0.64211 developed|0.63158 through|0.62105 the|0.61053 wiki|0.6 and|0.58947 shared|0.57895 among|0.56842 users|0.55789 For|0.54737 instance|0.53684 Lupin|0.52632 s|0.51579 navigation|0.50526 popups|0.49474 is|0.48421 a|0.47368 custom|0.46316 JavaScript|0.45263 tool|0.44211 that|0.43158 shows|0.42105 previews|0.41053 of|0.4 articles|0.38947 when|0.37895 the|0.36842 user|0.35789 hovers|0.34737 over|0.33684 links|0.32632 and|0.31579 also|0.30526 provides|0.29474 shortcuts|0.28421 for|0.27368 common|0.26316 maintenance|0.25263 tasks|0.24211 73|0.23158 Another|0.22105 example|0.21053 is|0.2 wikEd|0.18947 a|0.17895 full|0.16842 featured|0.15789 MediaWiki|0.14737 integrated|0.13684 text|0.12632 editor|0.11579 that|0.10526 provides|0.094737 syntax|0.084211 highlighting|0.073684 and|0.063158 search|0.052632 and|0.042105 replace|0.031579 functions|0.021053 40|0.010526 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2e334274a72c8a72b50be317e73bb889d97bb653d52945e2f854ce1fd7f81ac8",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/NewOED-2001-ed.jpg/275px-NewOED-2001-ed.jpg",
+			"previous": " ",
+			"after": " The Oxford Dictionary of English ODE is a single volume English dictionary published by Oxford University Press first published in 1998 as The New Oxford Dictionary of English NODE The word new was dropped from the title with the 2nd edition in 2003 1 This dictionary is not based on the Oxford English Dictionary and should not be mistaken for a new or updated version of the OED It is a completely new dictionary which strives to represent as faithfully as possible the current usage of English words ",
+			"after_weights": " The|1 Oxford|0.98864 Dictionary|0.97727 of|0.96591 English|0.95455 ODE|0.94318 is|0.93182 a|0.92045 single|0.90909 volume|0.89773 English|0.88636 dictionary|0.875 published|0.86364 by|0.85227 Oxford|0.84091 University|0.82955 Press|0.81818 first|0.80682 published|0.79545 in|0.78409 1998|0.77273 as|0.76136 The|0.75 New|0.73864 Oxford|0.72727 Dictionary|0.71591 of|0.70455 English|0.69318 NODE|0.68182 The|0.67045 word|0.65909 new|0.64773 was|0.63636 dropped|0.625 from|0.61364 the|0.60227 title|0.59091 with|0.57955 the|0.56818 2nd|0.55682 edition|0.54545 in|0.53409 2003|0.52273 1|0.51136 This|0.5 dictionary|0.48864 is|0.47727 not|0.46591 based|0.45455 on|0.44318 the|0.43182 Oxford|0.42045 English|0.40909 Dictionary|0.39773 and|0.38636 should|0.375 not|0.36364 be|0.35227 mistaken|0.34091 for|0.32955 a|0.31818 new|0.30682 or|0.29545 updated|0.28409 version|0.27273 of|0.26136 the|0.25 OED|0.23864 It|0.22727 is|0.21591 a|0.20455 completely|0.19318 new|0.18182 dictionary|0.17045 which|0.15909 strives|0.14773 to|0.13636 represent|0.125 as|0.11364 faithfully|0.10227 as|0.090909 possible|0.079545 the|0.068182 current|0.056818 usage|0.045455 of|0.034091 English|0.022727 words|0.011364 |0",
+			"previous_weights": " "
+		}
+	}
+}

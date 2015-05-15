@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c78fe50c9754dabd07de4d3418b421a261cc8437d935d37bceef57ec74885a00",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flying-female-Lechwe.jpg/220px-Flying-female-Lechwe.jpg",
+			"previous": " ",
+			"after": " At 581 730 km2 224 607 sq mi Botswana is the world s 48th largest country It is comparable in size to Madagascar or France It lies between latitudes 17 and 27 S and longitudes 20 and 30 E  The country is predominantly flat tending toward gently rolling tableland Botswana is dominated by the Kalahari Desert which covers up to 70 of its land surface The Okavango Delta one of the world s largest inland deltas is in the northwest The Makgadikgadi Pan a large salt pan lies in the north ",
+			"after_weights": " At|1 581|0.98913 730|0.97826 km2|0.96739 224|0.95652 607|0.94565 sq|0.93478 mi|0.92391 Botswana|0.91304 is|0.90217 the|0.8913 world|0.88043 s|0.86957 48th|0.8587 largest|0.84783 country|0.83696 It|0.82609 is|0.81522 comparable|0.80435 in|0.79348 size|0.78261 to|0.77174 Madagascar|0.76087 or|0.75 France|0.73913 It|0.72826 lies|0.71739 between|0.70652 latitudes|0.69565 17|0.68478 and|0.67391 27|0.66304 S|0.65217 and|0.6413 longitudes|0.63043 20|0.61957 and|0.6087 30|0.59783 E|0.58696 |0.57609 The|0.56522 country|0.55435 is|0.54348 predominantly|0.53261 flat|0.52174 tending|0.51087 toward|0.5 gently|0.48913 rolling|0.47826 tableland|0.46739 Botswana|0.45652 is|0.44565 dominated|0.43478 by|0.42391 the|0.41304 Kalahari|0.40217 Desert|0.3913 which|0.38043 covers|0.36957 up|0.3587 to|0.34783 70|0.33696 of|0.32609 its|0.31522 land|0.30435 surface|0.29348 The|0.28261 Okavango|0.27174 Delta|0.26087 one|0.25 of|0.23913 the|0.22826 world|0.21739 s|0.20652 largest|0.19565 inland|0.18478 deltas|0.17391 is|0.16304 in|0.15217 the|0.1413 northwest|0.13043 The|0.11957 Makgadikgadi|0.1087 Pan|0.097826 a|0.086957 large|0.076087 salt|0.065217 pan|0.054348 lies|0.043478 in|0.032609 the|0.021739 north|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b88e62c8f8bdcae73485fe8c0e03693c4f75b100923eda232e161d1f64743bd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mariucci_Arena.jpg/220px-Mariucci_Arena.jpg",
+			"previous": " ",
+			"after": " Ice hockey is one of the most strongly supported athletic programs at the University of Minnesota referred to by the University as Minnesota s Pride on Ice 70 The high amount of support is due to the State of Minnesota s high affinity for the sport of ice hockey at all levels 71 ",
+			"after_weights": " Ice|1 hockey|0.98113 is|0.96226 one|0.9434 of|0.92453 the|0.90566 most|0.88679 strongly|0.86792 supported|0.84906 athletic|0.83019 programs|0.81132 at|0.79245 the|0.77358 University|0.75472 of|0.73585 Minnesota|0.71698 referred|0.69811 to|0.67925 by|0.66038 the|0.64151 University|0.62264 as|0.60377 Minnesota|0.58491 s|0.56604 Pride|0.54717 on|0.5283 Ice|0.50943 70|0.49057 The|0.4717 high|0.45283 amount|0.43396 of|0.41509 support|0.39623 is|0.37736 due|0.35849 to|0.33962 the|0.32075 State|0.30189 of|0.28302 Minnesota|0.26415 s|0.24528 high|0.22642 affinity|0.20755 for|0.18868 the|0.16981 sport|0.15094 of|0.13208 ice|0.11321 hockey|0.09434 at|0.075472 all|0.056604 levels|0.037736 71|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

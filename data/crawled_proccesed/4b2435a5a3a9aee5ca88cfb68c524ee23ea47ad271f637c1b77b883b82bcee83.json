@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b2435a5a3a9aee5ca88cfb68c524ee23ea47ad271f637c1b77b883b82bcee83",
+			"url": "https://upload.wikimedia.org/math/2/9/d/29dc939920a8a65756248af8e0d0379e.png",
+			"previous": " Consequently  97 5th and 0 95 are correct in the preceding expressions There is a 2 5 chance that T will be less than c and a 2 5 chance that it will be larger than c Thus the probability that T will be between c and c is 95 ",
+			"after": " and we have a theoretical stochastic 95 confidence interval for  After observing the sample we find values x for X and s for S from which we compute the confidence interval",
+			"after_weights": " and|1 we|0.96774 have|0.93548 a|0.90323 theoretical|0.87097 stochastic|0.83871 95|0.80645 confidence|0.77419 interval|0.74194 for|0.70968 |0.67742 After|0.64516 observing|0.6129 the|0.58065 sample|0.54839 we|0.51613 find|0.48387 values|0.45161 x|0.41935 for|0.3871 X|0.35484 and|0.32258 s|0.29032 for|0.25806 S|0.22581 from|0.19355 which|0.16129 we|0.12903 compute|0.096774 the|0.064516 confidence|0.032258 interval|0",
+			"previous_weights": " Consequently|0 |0.019608 97|0.039216 5th|0.058824 and|0.078431 0|0.098039 95|0.11765 are|0.13725 correct|0.15686 in|0.17647 the|0.19608 preceding|0.21569 expressions|0.23529 There|0.2549 is|0.27451 a|0.29412 2|0.31373 5|0.33333 chance|0.35294 that|0.37255 T|0.39216 will|0.41176 be|0.43137 less|0.45098 than|0.47059 c|0.4902 and|0.5098 a|0.52941 2|0.54902 5|0.56863 chance|0.58824 that|0.60784 it|0.62745 will|0.64706 be|0.66667 larger|0.68627 than|0.70588 c|0.72549 Thus|0.7451 the|0.76471 probability|0.78431 that|0.80392 T|0.82353 will|0.84314 be|0.86275 between|0.88235 c|0.90196 and|0.92157 c|0.94118 is|0.96078 95|0.98039 |1"
+		}
+	}
+}

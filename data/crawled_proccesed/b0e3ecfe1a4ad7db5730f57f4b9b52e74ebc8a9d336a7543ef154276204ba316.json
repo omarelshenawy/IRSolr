@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b0e3ecfe1a4ad7db5730f57f4b9b52e74ebc8a9d336a7543ef154276204ba316",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Yemeni_Armed_Forces_Emblem.svg/13px-Yemeni_Armed_Forces_Emblem.svg.png",
+			"previous": "  Saudi Arabia 1 2 leader Bahrain 3 Kuwait 3 Qatar 3 UAE 3 Egypt ground troops ruled out 3 4 5 Jordan 3 Morocco 3 Senegal ground troops only 6 Sudan 3 Supported by Pakistan naval blockade only ground troops ruled out 7 Somalia non combat 8 United States intelligence weapons and blockade 9 In support of Yemen Hadi government ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " |0 Saudi|0.016393 Arabia|0.032787 1|0.04918 2|0.065574 leader|0.081967 Bahrain|0.098361 3|0.11475 Kuwait|0.13115 3|0.14754 Qatar|0.16393 3|0.18033 UAE|0.19672 3|0.21311 Egypt|0.22951 ground|0.2459 troops|0.2623 ruled|0.27869 out|0.29508 3|0.31148 4|0.32787 5|0.34426 Jordan|0.36066 3|0.37705 Morocco|0.39344 3|0.40984 Senegal|0.42623 ground|0.44262 troops|0.45902 only|0.47541 6|0.4918 Sudan|0.5082 3|0.52459 Supported|0.54098 by|0.55738 Pakistan|0.57377 naval|0.59016 blockade|0.60656 only|0.62295 ground|0.63934 troops|0.65574 ruled|0.67213 out|0.68852 7|0.70492 Somalia|0.72131 non|0.7377 combat|0.7541 8|0.77049 United|0.78689 States|0.80328 intelligence|0.81967 weapons|0.83607 and|0.85246 blockade|0.86885 9|0.88525 In|0.90164 support|0.91803 of|0.93443 Yemen|0.95082 Hadi|0.96721 government|0.98361 |1"
+		}
+	}
+}

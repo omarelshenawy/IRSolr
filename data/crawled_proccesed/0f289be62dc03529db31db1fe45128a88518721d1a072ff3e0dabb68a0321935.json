@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f289be62dc03529db31db1fe45128a88518721d1a072ff3e0dabb68a0321935",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/RP_English_allophones_on_a_vowel_chart.svg/220px-RP_English_allophones_on_a_vowel_chart.svg.png",
+			"previous": " ",
+			"after": " Examples of short vowels in kit mirror and rabbit in put e in dress and merry in strut and curry in trap and marry in lot and orange in ago and sofa  Examples of long vowels i in fleece u in goose in nurse and furry in north force and thought in father bath and start ",
+			"after_weights": " Examples|1 of|0.98246 short|0.96491 vowels|0.94737 in|0.92982 kit|0.91228 mirror|0.89474 and|0.87719 rabbit|0.85965 in|0.84211 put|0.82456 e|0.80702 in|0.78947 dress|0.77193 and|0.75439 merry|0.73684 in|0.7193 strut|0.70175 and|0.68421 curry|0.66667 in|0.64912 trap|0.63158 and|0.61404 marry|0.59649 in|0.57895 lot|0.5614 and|0.54386 orange|0.52632 in|0.50877 ago|0.49123 and|0.47368 sofa|0.45614 |0.4386 Examples|0.42105 of|0.40351 long|0.38596 vowels|0.36842 i|0.35088 in|0.33333 fleece|0.31579 u|0.29825 in|0.2807 goose|0.26316 in|0.24561 nurse|0.22807 and|0.21053 furry|0.19298 in|0.17544 north|0.15789 force|0.14035 and|0.12281 thought|0.10526 in|0.087719 father|0.070175 bath|0.052632 and|0.035088 start|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

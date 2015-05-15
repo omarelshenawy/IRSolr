@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f6a4ae3503a3c426fa39480c132523777f00c5a557d8d6bc5f7abe4557c3feed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ubuntu1404.png/220px-Ubuntu1404.png",
+			"previous": " To demonstrate how the word Linux should be pronounced i l n ks LIN uks 4 5 Torvalds included an audio guide listen help info with the kernel source code 32 Another variant of pronunciation is la n ks LYN uks 5 6 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " To|0 demonstrate|0.023256 how|0.046512 the|0.069767 word|0.093023 Linux|0.11628 should|0.13953 be|0.16279 pronounced|0.18605 i|0.2093 l|0.23256 n|0.25581 ks|0.27907 LIN|0.30233 uks|0.32558 4|0.34884 5|0.37209 Torvalds|0.39535 included|0.4186 an|0.44186 audio|0.46512 guide|0.48837 listen|0.51163 help|0.53488 info|0.55814 with|0.5814 the|0.60465 kernel|0.62791 source|0.65116 code|0.67442 32|0.69767 Another|0.72093 variant|0.74419 of|0.76744 pronunciation|0.7907 is|0.81395 la|0.83721 n|0.86047 ks|0.88372 LYN|0.90698 uks|0.93023 5|0.95349 6|0.97674 |1"
+		}
+	}
+}

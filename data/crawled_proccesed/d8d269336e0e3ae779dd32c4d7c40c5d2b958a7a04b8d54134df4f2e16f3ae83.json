@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d8d269336e0e3ae779dd32c4d7c40c5d2b958a7a04b8d54134df4f2e16f3ae83",
+			"url": "https://upload.wikimedia.org/math/0/f/1/0f1ab8157e3378349df63449f415f06f.png",
+			"previous": " The ordinary semantic meaning of 9 is the binary relation ",
+			"after": "  9 is true if and only if Mary stands in the like relation to Sue The set of alternatives that is a resultant of Sue being focused is the set ",
+			"after_weights": " |1 9|0.96774 is|0.93548 true|0.90323 if|0.87097 and|0.83871 only|0.80645 if|0.77419 Mary|0.74194 stands|0.70968 in|0.67742 the|0.64516 like|0.6129 relation|0.58065 to|0.54839 Sue|0.51613 The|0.48387 set|0.45161 of|0.41935 alternatives|0.3871 that|0.35484 is|0.32258 a|0.29032 resultant|0.25806 of|0.22581 Sue|0.19355 being|0.16129 focused|0.12903 is|0.096774 the|0.064516 set|0.032258 |0",
+			"previous_weights": " The|0 ordinary|0.1 semantic|0.2 meaning|0.3 of|0.4 9|0.5 is|0.6 the|0.7 binary|0.8 relation|0.9 |1"
+		}
+	}
+}

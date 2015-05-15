@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f5452071d7cba4aa674f90d88c6e81d1d880a53a27244e140a67fd390f1457d1",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Facebook_mobile.png/220px-Facebook_mobile.png",
+			"previous": " ",
+			"after": " Though Internet access on the go provides advantages to many such as the ability to communicate by email with others and obtain information anywhere the web accessed from mobile devices has many limits which may vary depending on the device However newer smartphones overcome some of these restrictions Some problems which may be encountered include ",
+			"after_weights": " Though|1 Internet|0.98182 access|0.96364 on|0.94545 the|0.92727 go|0.90909 provides|0.89091 advantages|0.87273 to|0.85455 many|0.83636 such|0.81818 as|0.8 the|0.78182 ability|0.76364 to|0.74545 communicate|0.72727 by|0.70909 email|0.69091 with|0.67273 others|0.65455 and|0.63636 obtain|0.61818 information|0.6 anywhere|0.58182 the|0.56364 web|0.54545 accessed|0.52727 from|0.50909 mobile|0.49091 devices|0.47273 has|0.45455 many|0.43636 limits|0.41818 which|0.4 may|0.38182 vary|0.36364 depending|0.34545 on|0.32727 the|0.30909 device|0.29091 However|0.27273 newer|0.25455 smartphones|0.23636 overcome|0.21818 some|0.2 of|0.18182 these|0.16364 restrictions|0.14545 Some|0.12727 problems|0.10909 which|0.090909 may|0.072727 be|0.054545 encountered|0.036364 include|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

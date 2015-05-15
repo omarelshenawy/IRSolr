@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a021f5ceed7130569d89018c73b5d082636d2b263e3efcbc9dfd9a2a9c0b750",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Blois_Loire_Panorama_-_July_2011.jpg/650px-Blois_Loire_Panorama_-_July_2011.jpg",
+			"previous": " Portal Geography Featured picture 23",
+			"after": " A panoramic view of Blois the capital of Loir et Cher department in central France situated on the banks of the lower river Loire between Orl ans and Tours The area has been inhabited since at least the 6th century and was once the seat of a powerful countship It is also known for being Joan of Arc s base of operations for the relief of Orl ans ",
+			"after_weights": " A|1 panoramic|0.98529 view|0.97059 of|0.95588 Blois|0.94118 the|0.92647 capital|0.91176 of|0.89706 Loir|0.88235 et|0.86765 Cher|0.85294 department|0.83824 in|0.82353 central|0.80882 France|0.79412 situated|0.77941 on|0.76471 the|0.75 banks|0.73529 of|0.72059 the|0.70588 lower|0.69118 river|0.67647 Loire|0.66176 between|0.64706 Orl|0.63235 ans|0.61765 and|0.60294 Tours|0.58824 The|0.57353 area|0.55882 has|0.54412 been|0.52941 inhabited|0.51471 since|0.5 at|0.48529 least|0.47059 the|0.45588 6th|0.44118 century|0.42647 and|0.41176 was|0.39706 once|0.38235 the|0.36765 seat|0.35294 of|0.33824 a|0.32353 powerful|0.30882 countship|0.29412 It|0.27941 is|0.26471 also|0.25 known|0.23529 for|0.22059 being|0.20588 Joan|0.19118 of|0.17647 Arc|0.16176 s|0.14706 base|0.13235 of|0.11765 operations|0.10294 for|0.088235 the|0.073529 relief|0.058824 of|0.044118 Orl|0.029412 ans|0.014706 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 23|1"
+		}
+	}
+}

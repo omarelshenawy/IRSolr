@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c55c80145e48046b62d41c2ea005d11a5849f633c42ab1e5797395f0920dd1ea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nkrumah.JPG/220px-Nkrumah.JPG",
+			"previous": " ",
+			"after": " Based on 2012 data the literacy rate in Tanzania for persons aged 15 and over is estimated to be 67 8 137 Education is compulsory until children reach age 15 138 In 2010 74 1 of children age 5 to 14 years were attending school 138 The primary school completion rate was 80 8 in 2012 138 ",
+			"after_weights": " Based|1 on|0.98246 2012|0.96491 data|0.94737 the|0.92982 literacy|0.91228 rate|0.89474 in|0.87719 Tanzania|0.85965 for|0.84211 persons|0.82456 aged|0.80702 15|0.78947 and|0.77193 over|0.75439 is|0.73684 estimated|0.7193 to|0.70175 be|0.68421 67|0.66667 8|0.64912 137|0.63158 Education|0.61404 is|0.59649 compulsory|0.57895 until|0.5614 children|0.54386 reach|0.52632 age|0.50877 15|0.49123 138|0.47368 In|0.45614 2010|0.4386 74|0.42105 1|0.40351 of|0.38596 children|0.36842 age|0.35088 5|0.33333 to|0.31579 14|0.29825 years|0.2807 were|0.26316 attending|0.24561 school|0.22807 138|0.21053 The|0.19298 primary|0.17544 school|0.15789 completion|0.14035 rate|0.12281 was|0.10526 80|0.087719 8|0.070175 in|0.052632 2012|0.035088 138|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

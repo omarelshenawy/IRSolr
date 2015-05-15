@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e666fad46628d587c1814ace7fc348e2b9cc6a308d27a857f6e57991d912f23e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bonaire_1.jpg/220px-Bonaire_1.jpg",
+			"previous": " The Caribbean Netherlands are designated as special municipalities of the Netherlands The islands form a part of the Lesser Antilles Within this island group ",
+			"after": " The islands of the Caribbean Netherlands enjoy a tropical climate with warm weather all year round The Leeward Antilles are warmer and drier than the Windward islands In summer the Windward Islands can be subject to hurricanes ",
+			"after_weights": " The|1 islands|0.97297 of|0.94595 the|0.91892 Caribbean|0.89189 Netherlands|0.86486 enjoy|0.83784 a|0.81081 tropical|0.78378 climate|0.75676 with|0.72973 warm|0.7027 weather|0.67568 all|0.64865 year|0.62162 round|0.59459 The|0.56757 Leeward|0.54054 Antilles|0.51351 are|0.48649 warmer|0.45946 and|0.43243 drier|0.40541 than|0.37838 the|0.35135 Windward|0.32432 islands|0.2973 In|0.27027 summer|0.24324 the|0.21622 Windward|0.18919 Islands|0.16216 can|0.13514 be|0.10811 subject|0.081081 to|0.054054 hurricanes|0.027027 |0",
+			"previous_weights": " The|0 Caribbean|0.041667 Netherlands|0.083333 are|0.125 designated|0.16667 as|0.20833 special|0.25 municipalities|0.29167 of|0.33333 the|0.375 Netherlands|0.41667 The|0.45833 islands|0.5 form|0.54167 a|0.58333 part|0.625 of|0.66667 the|0.70833 Lesser|0.75 Antilles|0.79167 Within|0.83333 this|0.875 island|0.91667 group|0.95833 |1"
+		}
+	}
+}

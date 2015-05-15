@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b2ba31080ee7d979c8734e77547006f38aae47d8fb4c7d0cc62eb58933664bc1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Choeropsis.jpg/250px-Choeropsis.jpg",
+			"previous": " ",
+			"after": " Endangered species are hunted for human consumption as bushmeat in Liberia 43 Species hunted for food in Liberia include elephants pygmy hippopotamus chimpanzees leopards duikers and other monkeys 43 Bushmeat is often exported to neighboring Sierra Leone and Ivory Coast despite a ban on the cross border sale of wild animals 43 ",
+			"after_weights": " Endangered|1 species|0.98077 are|0.96154 hunted|0.94231 for|0.92308 human|0.90385 consumption|0.88462 as|0.86538 bushmeat|0.84615 in|0.82692 Liberia|0.80769 43|0.78846 Species|0.76923 hunted|0.75 for|0.73077 food|0.71154 in|0.69231 Liberia|0.67308 include|0.65385 elephants|0.63462 pygmy|0.61538 hippopotamus|0.59615 chimpanzees|0.57692 leopards|0.55769 duikers|0.53846 and|0.51923 other|0.5 monkeys|0.48077 43|0.46154 Bushmeat|0.44231 is|0.42308 often|0.40385 exported|0.38462 to|0.36538 neighboring|0.34615 Sierra|0.32692 Leone|0.30769 and|0.28846 Ivory|0.26923 Coast|0.25 despite|0.23077 a|0.21154 ban|0.19231 on|0.17308 the|0.15385 cross|0.13462 border|0.11538 sale|0.096154 of|0.076923 wild|0.057692 animals|0.038462 43|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

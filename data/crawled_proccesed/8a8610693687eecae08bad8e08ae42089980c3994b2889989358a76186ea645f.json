@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a8610693687eecae08bad8e08ae42089980c3994b2889989358a76186ea645f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Millennium_Park_Map_labels.png/300px-Millennium_Park_Map_labels.png",
+			"previous": " ",
+			"after": " Lying between Lake Michigan to the east and the Loop to the west Grant Park has been Chicago s front yard since the mid 19th century Its northwest corner north of Monroe Street and the Art Institute east of Michigan Avenue south of Randolph Street and west of Columbus Drive had been Illinois Central rail yards and parking lots until 1997 when it was made available for development by the city as Millennium Park 3 Today Millennium Park trails only Navy Pier as a Chicago tourist attraction 4 ",
+			"after_weights": " Lying|1 between|0.98864 Lake|0.97727 Michigan|0.96591 to|0.95455 the|0.94318 east|0.93182 and|0.92045 the|0.90909 Loop|0.89773 to|0.88636 the|0.875 west|0.86364 Grant|0.85227 Park|0.84091 has|0.82955 been|0.81818 Chicago|0.80682 s|0.79545 front|0.78409 yard|0.77273 since|0.76136 the|0.75 mid|0.73864 19th|0.72727 century|0.71591 Its|0.70455 northwest|0.69318 corner|0.68182 north|0.67045 of|0.65909 Monroe|0.64773 Street|0.63636 and|0.625 the|0.61364 Art|0.60227 Institute|0.59091 east|0.57955 of|0.56818 Michigan|0.55682 Avenue|0.54545 south|0.53409 of|0.52273 Randolph|0.51136 Street|0.5 and|0.48864 west|0.47727 of|0.46591 Columbus|0.45455 Drive|0.44318 had|0.43182 been|0.42045 Illinois|0.40909 Central|0.39773 rail|0.38636 yards|0.375 and|0.36364 parking|0.35227 lots|0.34091 until|0.32955 1997|0.31818 when|0.30682 it|0.29545 was|0.28409 made|0.27273 available|0.26136 for|0.25 development|0.23864 by|0.22727 the|0.21591 city|0.20455 as|0.19318 Millennium|0.18182 Park|0.17045 3|0.15909 Today|0.14773 Millennium|0.13636 Park|0.125 trails|0.11364 only|0.10227 Navy|0.090909 Pier|0.079545 as|0.068182 a|0.056818 Chicago|0.045455 tourist|0.034091 attraction|0.022727 4|0.011364 |0",
+			"previous_weights": " "
+		}
+	}
+}

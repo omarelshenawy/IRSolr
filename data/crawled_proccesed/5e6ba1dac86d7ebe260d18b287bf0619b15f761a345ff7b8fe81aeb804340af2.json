@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5e6ba1dac86d7ebe260d18b287bf0619b15f761a345ff7b8fe81aeb804340af2",
+			"url": "https://upload.wikimedia.org/math/e/2/8/e28cbd952765d27bcdeb71c019daeafb.png",
+			"previous": " Formally using modular arithmetic we can say ",
+			"after": " The calculation of an ISBN 13 check digit begins with the first 12 digits of the thirteen digit ISBN thus excluding the check digit itself Each digit from left to right is alternately multiplied by 1 or 3 then those products are summed modulo 10 to give a value ranging from 0 to 9 Subtracted from 10 that leaves a result from 1 to 10 A zero 0 replaces a ten 10 so in all cases a single check digit results ",
+			"after_weights": " The|1 calculation|0.98765 of|0.97531 an|0.96296 ISBN|0.95062 13|0.93827 check|0.92593 digit|0.91358 begins|0.90123 with|0.88889 the|0.87654 first|0.8642 12|0.85185 digits|0.83951 of|0.82716 the|0.81481 thirteen|0.80247 digit|0.79012 ISBN|0.77778 thus|0.76543 excluding|0.75309 the|0.74074 check|0.7284 digit|0.71605 itself|0.7037 Each|0.69136 digit|0.67901 from|0.66667 left|0.65432 to|0.64198 right|0.62963 is|0.61728 alternately|0.60494 multiplied|0.59259 by|0.58025 1|0.5679 or|0.55556 3|0.54321 then|0.53086 those|0.51852 products|0.50617 are|0.49383 summed|0.48148 modulo|0.46914 10|0.45679 to|0.44444 give|0.4321 a|0.41975 value|0.40741 ranging|0.39506 from|0.38272 0|0.37037 to|0.35802 9|0.34568 Subtracted|0.33333 from|0.32099 10|0.30864 that|0.2963 leaves|0.28395 a|0.2716 result|0.25926 from|0.24691 1|0.23457 to|0.22222 10|0.20988 A|0.19753 zero|0.18519 0|0.17284 replaces|0.16049 a|0.14815 ten|0.1358 10|0.12346 so|0.11111 in|0.098765 all|0.08642 cases|0.074074 a|0.061728 single|0.049383 check|0.037037 digit|0.024691 results|0.012346 |0",
+			"previous_weights": " Formally|0 using|0.14286 modular|0.28571 arithmetic|0.42857 we|0.57143 can|0.71429 say|0.85714 |1"
+		}
+	}
+}

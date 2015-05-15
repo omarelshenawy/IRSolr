@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b0ca0e4852ddcd3f2bc902d13a9a140b84421c3f833a05fa1e6c78a3aab9100",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hurricane_Katrina_President_Bush_with_New_Orleans_Mayor.jpg/220px-Hurricane_Katrina_President_Bush_with_New_Orleans_Mayor.jpg",
+			"previous": " ",
+			"after": " Hurricane Katrina one of the most damaging natural disasters in U S history struck early in Bush s second term Katrina formed in late August during the 2005 Atlantic hurricane season and devastated much of the north central Gulf Coast of the United States particularly New Orleans 194 ",
+			"after_weights": " Hurricane|1 Katrina|0.97917 one|0.95833 of|0.9375 the|0.91667 most|0.89583 damaging|0.875 natural|0.85417 disasters|0.83333 in|0.8125 U|0.79167 S|0.77083 history|0.75 struck|0.72917 early|0.70833 in|0.6875 Bush|0.66667 s|0.64583 second|0.625 term|0.60417 Katrina|0.58333 formed|0.5625 in|0.54167 late|0.52083 August|0.5 during|0.47917 the|0.45833 2005|0.4375 Atlantic|0.41667 hurricane|0.39583 season|0.375 and|0.35417 devastated|0.33333 much|0.3125 of|0.29167 the|0.27083 north|0.25 central|0.22917 Gulf|0.20833 Coast|0.1875 of|0.16667 the|0.14583 United|0.125 States|0.10417 particularly|0.083333 New|0.0625 Orleans|0.041667 194|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

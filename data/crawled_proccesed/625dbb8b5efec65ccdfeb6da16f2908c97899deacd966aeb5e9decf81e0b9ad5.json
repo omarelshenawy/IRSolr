@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "625dbb8b5efec65ccdfeb6da16f2908c97899deacd966aeb5e9decf81e0b9ad5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Machzor.jpg/300px-Machzor.jpg",
+			"previous": " ",
+			"after": " It is not known when the Yiddish writing system first developed but the oldest surviving literary document using it is a blessing in the Worms mahzor 11 a Hebrew prayer book from 1272 with a scalable image online at the indicated reference described extensively in Frakes 2004 and Baumgarten Frakes 2005 ",
+			"after_weights": " It|1 is|0.98039 not|0.96078 known|0.94118 when|0.92157 the|0.90196 Yiddish|0.88235 writing|0.86275 system|0.84314 first|0.82353 developed|0.80392 but|0.78431 the|0.76471 oldest|0.7451 surviving|0.72549 literary|0.70588 document|0.68627 using|0.66667 it|0.64706 is|0.62745 a|0.60784 blessing|0.58824 in|0.56863 the|0.54902 Worms|0.52941 mahzor|0.5098 11|0.4902 a|0.47059 Hebrew|0.45098 prayer|0.43137 book|0.41176 from|0.39216 1272|0.37255 with|0.35294 a|0.33333 scalable|0.31373 image|0.29412 online|0.27451 at|0.2549 the|0.23529 indicated|0.21569 reference|0.19608 described|0.17647 extensively|0.15686 in|0.13725 Frakes|0.11765 2004|0.098039 and|0.078431 Baumgarten|0.058824 Frakes|0.039216 2005|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

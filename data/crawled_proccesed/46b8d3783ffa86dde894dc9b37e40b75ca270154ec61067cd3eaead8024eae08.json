@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "46b8d3783ffa86dde894dc9b37e40b75ca270154ec61067cd3eaead8024eae08",
+			"url": "https://upload.wikimedia.org/math/e/6/5/e65ad873a8090ce1e6bf3e158d1f5956.png",
+			"previous": " A containment hierarchy is a direct extrapolation of the nested hierarchy concept All of the ordered sets are still nested but every set must be strict no two sets can be identical The shapes example above can be modified to demonstrate this ",
+			"after": " A general example of a containment hierarchy is demonstrated in class inheritance in object oriented programming  Two types of containment hierarchies are the subsumptive containment hierarchy and the compositional containment hierarchy A subsumptive hierarchy subsumes its children and a compositional hierarchy is composed of its children A hierarchy can also be both subsumptive and compositional 11 ",
+			"after_weights": " A|1 general|0.98246 example|0.96491 of|0.94737 a|0.92982 containment|0.91228 hierarchy|0.89474 is|0.87719 demonstrated|0.85965 in|0.84211 class|0.82456 inheritance|0.80702 in|0.78947 object|0.77193 oriented|0.75439 programming|0.73684 |0.7193 Two|0.70175 types|0.68421 of|0.66667 containment|0.64912 hierarchies|0.63158 are|0.61404 the|0.59649 subsumptive|0.57895 containment|0.5614 hierarchy|0.54386 and|0.52632 the|0.50877 compositional|0.49123 containment|0.47368 hierarchy|0.45614 A|0.4386 subsumptive|0.42105 hierarchy|0.40351 subsumes|0.38596 its|0.36842 children|0.35088 and|0.33333 a|0.31579 compositional|0.29825 hierarchy|0.2807 is|0.26316 composed|0.24561 of|0.22807 its|0.21053 children|0.19298 A|0.17544 hierarchy|0.15789 can|0.14035 also|0.12281 be|0.10526 both|0.087719 subsumptive|0.070175 and|0.052632 compositional|0.035088 11|0.017544 |0",
+			"previous_weights": " A|0 containment|0.02381 hierarchy|0.047619 is|0.071429 a|0.095238 direct|0.11905 extrapolation|0.14286 of|0.16667 the|0.19048 nested|0.21429 hierarchy|0.2381 concept|0.2619 All|0.28571 of|0.30952 the|0.33333 ordered|0.35714 sets|0.38095 are|0.40476 still|0.42857 nested|0.45238 but|0.47619 every|0.5 set|0.52381 must|0.54762 be|0.57143 strict|0.59524 no|0.61905 two|0.64286 sets|0.66667 can|0.69048 be|0.71429 identical|0.7381 The|0.7619 shapes|0.78571 example|0.80952 above|0.83333 can|0.85714 be|0.88095 modified|0.90476 to|0.92857 demonstrate|0.95238 this|0.97619 |1"
+		}
+	}
+}

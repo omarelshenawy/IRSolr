@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e0779a0f1bfea8e1a0dd4530fd1ed4b374c61bef57779814491dbe61371b69f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/European_Output_of_Printed_Books_ca._1450%E2%80%931800.png/220px-European_Output_of_Printed_Books_ca._1450%E2%80%931800.png",
+			"previous": " ",
+			"after": " It is estimated that following the innovation of Gutenberg s printing press the European book output rose from a few million to around one billion copies within a span of less than four centuries 20 ",
+			"after_weights": " It|1 is|0.97143 estimated|0.94286 that|0.91429 following|0.88571 the|0.85714 innovation|0.82857 of|0.8 Gutenberg|0.77143 s|0.74286 printing|0.71429 press|0.68571 the|0.65714 European|0.62857 book|0.6 output|0.57143 rose|0.54286 from|0.51429 a|0.48571 few|0.45714 million|0.42857 to|0.4 around|0.37143 one|0.34286 billion|0.31429 copies|0.28571 within|0.25714 a|0.22857 span|0.2 of|0.17143 less|0.14286 than|0.11429 four|0.085714 centuries|0.057143 20|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

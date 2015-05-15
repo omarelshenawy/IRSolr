@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f0795718c3601e87d0455cb4bbc339a117f700e2e60709723cb46b370c832a9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Battle_Trebia-en.gif/300px-Battle_Trebia-en.gif",
+			"previous": " ",
+			"after": " The use of JPEG is discouraged since it is a lossy compression format and so will result in a blurry map or diagram The quality of GIF images is better than JPEG GIF images allow for the creation of animations ",
+			"after_weights": " The|1 use|0.975 of|0.95 JPEG|0.925 is|0.9 discouraged|0.875 since|0.85 it|0.825 is|0.8 a|0.775 lossy|0.75 compression|0.725 format|0.7 and|0.675 so|0.65 will|0.625 result|0.6 in|0.575 a|0.55 blurry|0.525 map|0.5 or|0.475 diagram|0.45 The|0.425 quality|0.4 of|0.375 GIF|0.35 images|0.325 is|0.3 better|0.275 than|0.25 JPEG|0.225 GIF|0.2 images|0.175 allow|0.15 for|0.125 the|0.1 creation|0.075 of|0.05 animations|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

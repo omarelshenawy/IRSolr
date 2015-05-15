@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "862d4a006c78155ae23a07f3b2e3694bb8ce00637259766ac045155da3c350af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_khangman.png/100px-Nuvola_apps_khangman.png",
+			"previous": " ",
+			"after": " Welcome to WikiProject Deserts The aim of this WikiProject is to improve the content and material of articles of or relating to deserts on Wikipedia If you would like to help please join the project ",
+			"after_weights": " Welcome|1 to|0.97143 WikiProject|0.94286 Deserts|0.91429 The|0.88571 aim|0.85714 of|0.82857 this|0.8 WikiProject|0.77143 is|0.74286 to|0.71429 improve|0.68571 the|0.65714 content|0.62857 and|0.6 material|0.57143 of|0.54286 articles|0.51429 of|0.48571 or|0.45714 relating|0.42857 to|0.4 deserts|0.37143 on|0.34286 Wikipedia|0.31429 If|0.28571 you|0.25714 would|0.22857 like|0.2 to|0.17143 help|0.14286 please|0.11429 join|0.085714 the|0.057143 project|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

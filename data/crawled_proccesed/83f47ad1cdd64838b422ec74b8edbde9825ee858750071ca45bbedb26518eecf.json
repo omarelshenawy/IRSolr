@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "83f47ad1cdd64838b422ec74b8edbde9825ee858750071ca45bbedb26518eecf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikimedia_logo_family_complete-2013.svg/220px-Wikimedia_logo_family_complete-2013.svg.png",
+			"previous": " ",
+			"after": " A Wikimedia project is a wiki based project run by the Wikimedia Foundation 1 a nonprofit organization founded in San Francisco California in 2003 The Foundation operates many free software and free content projects which are listed below ",
+			"after_weights": " A|1 Wikimedia|0.97368 project|0.94737 is|0.92105 a|0.89474 wiki|0.86842 based|0.84211 project|0.81579 run|0.78947 by|0.76316 the|0.73684 Wikimedia|0.71053 Foundation|0.68421 1|0.65789 a|0.63158 nonprofit|0.60526 organization|0.57895 founded|0.55263 in|0.52632 San|0.5 Francisco|0.47368 California|0.44737 in|0.42105 2003|0.39474 The|0.36842 Foundation|0.34211 operates|0.31579 many|0.28947 free|0.26316 software|0.23684 and|0.21053 free|0.18421 content|0.15789 projects|0.13158 which|0.10526 are|0.078947 listed|0.052632 below|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c3e9012ca782390cbf2f46ee1bf51a8367140ed16a8e61ebccb5cadfc823f84",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lakelag.jpg/800px-Lakelag.jpg",
+			"previous": " Locations in development  Off the founding grant  On the founding grant but away from the main campus ",
+			"after": " Stanford currently operates or intends to operate in various locations outside of its main campus  On the founding grant but away from the main campus ",
+			"after_weights": " Stanford|1 currently|0.96154 operates|0.92308 or|0.88462 intends|0.84615 to|0.80769 operate|0.76923 in|0.73077 various|0.69231 locations|0.65385 outside|0.61538 of|0.57692 its|0.53846 main|0.5 campus|0.46154 |0.42308 On|0.38462 the|0.34615 founding|0.30769 grant|0.26923 but|0.23077 away|0.19231 from|0.15385 the|0.11538 main|0.076923 campus|0.038462 |0",
+			"previous_weights": " Locations|0 in|0.052632 development|0.10526 |0.15789 Off|0.21053 the|0.26316 founding|0.31579 grant|0.36842 |0.42105 On|0.47368 the|0.52632 founding|0.57895 grant|0.63158 but|0.68421 away|0.73684 from|0.78947 the|0.84211 main|0.89474 campus|0.94737 |1"
+		}
+	}
+}

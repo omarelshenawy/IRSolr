@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5e376cc0564d9683431670e61e560ff95f25ceb59180a07ebf11b62c8f375582",
+			"url": "https://upload.wikimedia.org/math/4/c/e/4ce8e7fa4b57949d111288409d804d0d.png",
+			"previous": " where y or z can be taken to represent the radius of a disk at a particular x value   or",
+			"after": " Now Combining yields This formula can be derived more quickly using the formula for the sphere s surface area which is The volume of the sphere consists of layers of infinitesimally thin spherical shells and the sphere volume is equal to",
+			"after_weights": " Now|1 Combining|0.975 yields|0.95 This|0.925 formula|0.9 can|0.875 be|0.85 derived|0.825 more|0.8 quickly|0.775 using|0.75 the|0.725 formula|0.7 for|0.675 the|0.65 sphere|0.625 s|0.6 surface|0.575 area|0.55 which|0.525 is|0.5 The|0.475 volume|0.45 of|0.425 the|0.4 sphere|0.375 consists|0.35 of|0.325 layers|0.3 of|0.275 infinitesimally|0.25 thin|0.225 spherical|0.2 shells|0.175 and|0.15 the|0.125 sphere|0.1 volume|0.075 is|0.05 equal|0.025 to|0",
+			"previous_weights": " where|0 y|0.047619 or|0.095238 z|0.14286 can|0.19048 be|0.2381 taken|0.28571 to|0.33333 represent|0.38095 the|0.42857 radius|0.47619 of|0.52381 a|0.57143 disk|0.61905 at|0.66667 a|0.71429 particular|0.7619 x|0.80952 value|0.85714 |0.90476 |0.95238 or|1"
+		}
+	}
+}

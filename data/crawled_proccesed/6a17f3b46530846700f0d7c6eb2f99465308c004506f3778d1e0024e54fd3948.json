@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a17f3b46530846700f0d7c6eb2f99465308c004506f3778d1e0024e54fd3948",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sydney_harbour_bridge_duststorm.jpg/220px-Sydney_harbour_bridge_duststorm.jpg",
+			"previous": " ",
+			"after": " Sydney has a humid subtropical climate K ppen climate classification Cfa with warm sometimes hot summers and mild winters with rainfall spread throughout the year 56 The weather is moderated by proximity to the ocean and more extreme temperatures are recorded in the inland western suburbs The warmest months are January and February with an average air temperature range at Observatory Hill of 19 6 26 5 C 67 3 79 7 F for January and 19 7 26 5 C 67 5 79 7 F for February 57 An average of 14 9 days a year have temperatures of more than 30 C 86 F 57 ",
+			"after_weights": " Sydney|1 has|0.99065 a|0.98131 humid|0.97196 subtropical|0.96262 climate|0.95327 K|0.94393 ppen|0.93458 climate|0.92523 classification|0.91589 Cfa|0.90654 with|0.8972 warm|0.88785 sometimes|0.8785 hot|0.86916 summers|0.85981 and|0.85047 mild|0.84112 winters|0.83178 with|0.82243 rainfall|0.81308 spread|0.80374 throughout|0.79439 the|0.78505 year|0.7757 56|0.76636 The|0.75701 weather|0.74766 is|0.73832 moderated|0.72897 by|0.71963 proximity|0.71028 to|0.70093 the|0.69159 ocean|0.68224 and|0.6729 more|0.66355 extreme|0.65421 temperatures|0.64486 are|0.63551 recorded|0.62617 in|0.61682 the|0.60748 inland|0.59813 western|0.58879 suburbs|0.57944 The|0.57009 warmest|0.56075 months|0.5514 are|0.54206 January|0.53271 and|0.52336 February|0.51402 with|0.50467 an|0.49533 average|0.48598 air|0.47664 temperature|0.46729 range|0.45794 at|0.4486 Observatory|0.43925 Hill|0.42991 of|0.42056 19|0.41121 6|0.40187 26|0.39252 5|0.38318 C|0.37383 67|0.36449 3|0.35514 79|0.34579 7|0.33645 F|0.3271 for|0.31776 January|0.30841 and|0.29907 19|0.28972 7|0.28037 26|0.27103 5|0.26168 C|0.25234 67|0.24299 5|0.23364 79|0.2243 7|0.21495 F|0.20561 for|0.19626 February|0.18692 57|0.17757 An|0.16822 average|0.15888 of|0.14953 14|0.14019 9|0.13084 days|0.1215 a|0.11215 year|0.1028 have|0.093458 temperatures|0.084112 of|0.074766 more|0.065421 than|0.056075 30|0.046729 C|0.037383 86|0.028037 F|0.018692 57|0.0093458 |0",
+			"previous_weights": " "
+		}
+	}
+}

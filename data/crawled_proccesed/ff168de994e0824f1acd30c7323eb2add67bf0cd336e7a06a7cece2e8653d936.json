@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ff168de994e0824f1acd30c7323eb2add67bf0cd336e7a06a7cece2e8653d936",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/History_Comparison_Example_%28Vector%29.png/220px-History_Comparison_Example_%28Vector%29.png",
+			"previous": " ",
+			"after": " Unlike traditional encyclopedias Wikipedia follows the procrastination principle notes 3 regarding the security of its content 19 It started almost entirely open anyone could create articles and any Wikipedia article could be edited by any reader even those who did not have a Wikipedia account Modifications to all articles would be published immediately As a result any article could contain inaccuracies such as errors ideological biases and nonsensical or irrelevant text ",
+			"after_weights": " Unlike|1 traditional|0.98592 encyclopedias|0.97183 Wikipedia|0.95775 follows|0.94366 the|0.92958 procrastination|0.91549 principle|0.90141 notes|0.88732 3|0.87324 regarding|0.85915 the|0.84507 security|0.83099 of|0.8169 its|0.80282 content|0.78873 19|0.77465 It|0.76056 started|0.74648 almost|0.73239 entirely|0.71831 open|0.70423 anyone|0.69014 could|0.67606 create|0.66197 articles|0.64789 and|0.6338 any|0.61972 Wikipedia|0.60563 article|0.59155 could|0.57746 be|0.56338 edited|0.5493 by|0.53521 any|0.52113 reader|0.50704 even|0.49296 those|0.47887 who|0.46479 did|0.4507 not|0.43662 have|0.42254 a|0.40845 Wikipedia|0.39437 account|0.38028 Modifications|0.3662 to|0.35211 all|0.33803 articles|0.32394 would|0.30986 be|0.29577 published|0.28169 immediately|0.26761 As|0.25352 a|0.23944 result|0.22535 any|0.21127 article|0.19718 could|0.1831 contain|0.16901 inaccuracies|0.15493 such|0.14085 as|0.12676 errors|0.11268 ideological|0.098592 biases|0.084507 and|0.070423 nonsensical|0.056338 or|0.042254 irrelevant|0.028169 text|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

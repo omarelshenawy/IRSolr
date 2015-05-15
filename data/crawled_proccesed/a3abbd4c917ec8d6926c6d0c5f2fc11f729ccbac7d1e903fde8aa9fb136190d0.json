@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a3abbd4c917ec8d6926c6d0c5f2fc11f729ccbac7d1e903fde8aa9fb136190d0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mamanuca_island.jpg/300px-Mamanuca_island.jpg",
+			"previous": " ",
+			"after": " Fiji has a significant amount of tourism with the popular regions being Nadi the Coral Coast Denarau Island and Mamanuca Islands The biggest sources of international visitors by country are Australia New Zealand and the United States 49 Fiji has a significant number of soft coral reefs and scuba diving is a common tourist activity 50 ",
+			"after_weights": " Fiji|1 has|0.98214 a|0.96429 significant|0.94643 amount|0.92857 of|0.91071 tourism|0.89286 with|0.875 the|0.85714 popular|0.83929 regions|0.82143 being|0.80357 Nadi|0.78571 the|0.76786 Coral|0.75 Coast|0.73214 Denarau|0.71429 Island|0.69643 and|0.67857 Mamanuca|0.66071 Islands|0.64286 The|0.625 biggest|0.60714 sources|0.58929 of|0.57143 international|0.55357 visitors|0.53571 by|0.51786 country|0.5 are|0.48214 Australia|0.46429 New|0.44643 Zealand|0.42857 and|0.41071 the|0.39286 United|0.375 States|0.35714 49|0.33929 Fiji|0.32143 has|0.30357 a|0.28571 significant|0.26786 number|0.25 of|0.23214 soft|0.21429 coral|0.19643 reefs|0.17857 and|0.16071 scuba|0.14286 diving|0.125 is|0.10714 a|0.089286 common|0.071429 tourist|0.053571 activity|0.035714 50|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

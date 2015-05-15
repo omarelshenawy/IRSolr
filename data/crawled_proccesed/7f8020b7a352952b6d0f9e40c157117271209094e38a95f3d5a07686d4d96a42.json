@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f8020b7a352952b6d0f9e40c157117271209094e38a95f3d5a07686d4d96a42",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/200px-Tour_Eiffel_Wikimedia_Commons.jpg",
+			"previous": " Portal Arts Featured picture 29",
+			"after": " The Eiffel Tower as seen from the Champ de Mars At 324 metres 1 063 ft tall the tower an iron lattice tower is the tallest building in Paris the most visited paid monument in the world as well as one of the most recognizable structures in the world Named after its designer Gustave Eiffel it was built as an entrance arch for the 1889 Exposition Universelle and has since become the most prominent symbol of both Paris and France ",
+			"after_weights": " The|1 Eiffel|0.9875 Tower|0.975 as|0.9625 seen|0.95 from|0.9375 the|0.925 Champ|0.9125 de|0.9 Mars|0.8875 At|0.875 324|0.8625 metres|0.85 1|0.8375 063|0.825 ft|0.8125 tall|0.8 the|0.7875 tower|0.775 an|0.7625 iron|0.75 lattice|0.7375 tower|0.725 is|0.7125 the|0.7 tallest|0.6875 building|0.675 in|0.6625 Paris|0.65 the|0.6375 most|0.625 visited|0.6125 paid|0.6 monument|0.5875 in|0.575 the|0.5625 world|0.55 as|0.5375 well|0.525 as|0.5125 one|0.5 of|0.4875 the|0.475 most|0.4625 recognizable|0.45 structures|0.4375 in|0.425 the|0.4125 world|0.4 Named|0.3875 after|0.375 its|0.3625 designer|0.35 Gustave|0.3375 Eiffel|0.325 it|0.3125 was|0.3 built|0.2875 as|0.275 an|0.2625 entrance|0.25 arch|0.2375 for|0.225 the|0.2125 1889|0.2 Exposition|0.1875 Universelle|0.175 and|0.1625 has|0.15 since|0.1375 become|0.125 the|0.1125 most|0.1 prominent|0.0875 symbol|0.075 of|0.0625 both|0.05 Paris|0.0375 and|0.025 France|0.0125 |0",
+			"previous_weights": " Portal|0 Arts|0.25 Featured|0.5 picture|0.75 29|1"
+		}
+	}
+}

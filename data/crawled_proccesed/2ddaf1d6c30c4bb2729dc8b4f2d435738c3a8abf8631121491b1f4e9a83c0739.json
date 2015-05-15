@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2ddaf1d6c30c4bb2729dc8b4f2d435738c3a8abf8631121491b1f4e9a83c0739",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TakaheMaunga.jpg/220px-TakaheMaunga.jpg",
+			"previous": " ",
+			"after": " There are several bird species which are endemic to the South Island They include the kea great spotted kiwi Okarito brown kiwi South Island k kako South Island pied oystercatcher Malherbe s parakeet king shag takahe black fronted tern New Zealand robin rock wren wrybill and yellowhead ",
+			"after_weights": " There|1 are|0.97872 several|0.95745 bird|0.93617 species|0.91489 which|0.89362 are|0.87234 endemic|0.85106 to|0.82979 the|0.80851 South|0.78723 Island|0.76596 They|0.74468 include|0.7234 the|0.70213 kea|0.68085 great|0.65957 spotted|0.6383 kiwi|0.61702 Okarito|0.59574 brown|0.57447 kiwi|0.55319 South|0.53191 Island|0.51064 k|0.48936 kako|0.46809 South|0.44681 Island|0.42553 pied|0.40426 oystercatcher|0.38298 Malherbe|0.3617 s|0.34043 parakeet|0.31915 king|0.29787 shag|0.2766 takahe|0.25532 black|0.23404 fronted|0.21277 tern|0.19149 New|0.17021 Zealand|0.14894 robin|0.12766 rock|0.10638 wren|0.085106 wrybill|0.06383 and|0.042553 yellowhead|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

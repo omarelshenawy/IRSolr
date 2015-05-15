@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e2f6b698a9e7abad74afea89c32f25de159357c88c8e3f17461451f651890ec7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Abraham_Lincoln_O-116_by_Gardner%2C_1865-crop.png/170px-Abraham_Lincoln_O-116_by_Gardner%2C_1865-crop.png",
+			"previous": " ",
+			"after": " The successful reunification of the states had consequences for the name of the country The term the United States has historically been used sometimes in the plural these United States and other times in the singular without any particular grammatical consistency The Civil War was a significant force in the eventual dominance of the singular usage by the end of the 19th century 270 ",
+			"after_weights": " The|1 successful|0.98438 reunification|0.96875 of|0.95312 the|0.9375 states|0.92188 had|0.90625 consequences|0.89062 for|0.875 the|0.85938 name|0.84375 of|0.82812 the|0.8125 country|0.79688 The|0.78125 term|0.76562 the|0.75 United|0.73438 States|0.71875 has|0.70312 historically|0.6875 been|0.67188 used|0.65625 sometimes|0.64062 in|0.625 the|0.60938 plural|0.59375 these|0.57812 United|0.5625 States|0.54688 and|0.53125 other|0.51562 times|0.5 in|0.48438 the|0.46875 singular|0.45312 without|0.4375 any|0.42188 particular|0.40625 grammatical|0.39062 consistency|0.375 The|0.35938 Civil|0.34375 War|0.32812 was|0.3125 a|0.29688 significant|0.28125 force|0.26562 in|0.25 the|0.23438 eventual|0.21875 dominance|0.20312 of|0.1875 the|0.17188 singular|0.15625 usage|0.14062 by|0.125 the|0.10938 end|0.09375 of|0.078125 the|0.0625 19th|0.046875 century|0.03125 270|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f48385c5391b3b662459eb254c966fd5ec7ccd4efb7bcaed634ec2c6a03ec8b5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Weisman_Art_Museum.jpg/220px-Weisman_Art_Museum.jpg",
+			"previous": " ",
+			"after": " The Armory northeast of the Northrop Mall is built like a Norman castle with a sally port entrance facing Church Street and a tower originally intended to be the Professor of Military Science s residence until it was found to be too cold It originally held the athletics department as well as the military science classes that it now holds ",
+			"after_weights": " The|1 Armory|0.98333 northeast|0.96667 of|0.95 the|0.93333 Northrop|0.91667 Mall|0.9 is|0.88333 built|0.86667 like|0.85 a|0.83333 Norman|0.81667 castle|0.8 with|0.78333 a|0.76667 sally|0.75 port|0.73333 entrance|0.71667 facing|0.7 Church|0.68333 Street|0.66667 and|0.65 a|0.63333 tower|0.61667 originally|0.6 intended|0.58333 to|0.56667 be|0.55 the|0.53333 Professor|0.51667 of|0.5 Military|0.48333 Science|0.46667 s|0.45 residence|0.43333 until|0.41667 it|0.4 was|0.38333 found|0.36667 to|0.35 be|0.33333 too|0.31667 cold|0.3 It|0.28333 originally|0.26667 held|0.25 the|0.23333 athletics|0.21667 department|0.2 as|0.18333 well|0.16667 as|0.15 the|0.13333 military|0.11667 science|0.1 classes|0.083333 that|0.066667 it|0.05 now|0.033333 holds|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

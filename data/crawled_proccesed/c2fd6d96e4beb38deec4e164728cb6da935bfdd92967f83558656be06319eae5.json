@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c2fd6d96e4beb38deec4e164728cb6da935bfdd92967f83558656be06319eae5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/William_Shakespeare_Chandos_Portrait.jpg/170px-William_Shakespeare_Chandos_Portrait.jpg",
+			"previous": " ",
+			"after": "  British literature refers to literature associated with the United Kingdom the Isle of Man and the Channel Islands Most British literature is in the English language In 2005 some 206 000 books were published in the United Kingdom and in 2006 it was the largest publisher of books in the world 412 ",
+			"after_weights": " |1 British|0.98113 literature|0.96226 refers|0.9434 to|0.92453 literature|0.90566 associated|0.88679 with|0.86792 the|0.84906 United|0.83019 Kingdom|0.81132 the|0.79245 Isle|0.77358 of|0.75472 Man|0.73585 and|0.71698 the|0.69811 Channel|0.67925 Islands|0.66038 Most|0.64151 British|0.62264 literature|0.60377 is|0.58491 in|0.56604 the|0.54717 English|0.5283 language|0.50943 In|0.49057 2005|0.4717 some|0.45283 206|0.43396 000|0.41509 books|0.39623 were|0.37736 published|0.35849 in|0.33962 the|0.32075 United|0.30189 Kingdom|0.28302 and|0.26415 in|0.24528 2006|0.22642 it|0.20755 was|0.18868 the|0.16981 largest|0.15094 publisher|0.13208 of|0.11321 books|0.09434 in|0.075472 the|0.056604 world|0.037736 412|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f744489bf7b81f0e3a2933eca4ee6dd1407684a108d0e883f3d48f31557ef550",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aviemore_Dam_From_Canterbury.jpg/220px-Aviemore_Dam_From_Canterbury.jpg",
+			"previous": " ",
+			"after": " The South Island economy is strongly focused on tourism and primary industries like agriculture The other main industry groups are manufacturing mining construction energy supply education health and community services ",
+			"after_weights": " The|1 South|0.96667 Island|0.93333 economy|0.9 is|0.86667 strongly|0.83333 focused|0.8 on|0.76667 tourism|0.73333 and|0.7 primary|0.66667 industries|0.63333 like|0.6 agriculture|0.56667 The|0.53333 other|0.5 main|0.46667 industry|0.43333 groups|0.4 are|0.36667 manufacturing|0.33333 mining|0.3 construction|0.26667 energy|0.23333 supply|0.2 education|0.16667 health|0.13333 and|0.1 community|0.066667 services|0.033333 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a7cda8bd1f2800d7e4e0dc75ea82e5f776caa9494a5c6171704047c74103080a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Barra-Airport-Canthusus.JPG/220px-Barra-Airport-Canthusus.JPG",
+			"previous": " ",
+			"after": " Scotland has five main international airports Glasgow Edinburgh Aberdeen Prestwick and Inverness which together serve 150 international destinations with a wide variety of scheduled and chartered flights 198 GIP operates Edinburgh airport and BAA operates Aberdeen and Glasgow International while Highland and Islands Airports operates 11 regional airports including Inverness which serve the more remote locations 199 Infratil operates Prestwick ",
+			"after_weights": " Scotland|1 has|0.98333 five|0.96667 main|0.95 international|0.93333 airports|0.91667 Glasgow|0.9 Edinburgh|0.88333 Aberdeen|0.86667 Prestwick|0.85 and|0.83333 Inverness|0.81667 which|0.8 together|0.78333 serve|0.76667 150|0.75 international|0.73333 destinations|0.71667 with|0.7 a|0.68333 wide|0.66667 variety|0.65 of|0.63333 scheduled|0.61667 and|0.6 chartered|0.58333 flights|0.56667 198|0.55 GIP|0.53333 operates|0.51667 Edinburgh|0.5 airport|0.48333 and|0.46667 BAA|0.45 operates|0.43333 Aberdeen|0.41667 and|0.4 Glasgow|0.38333 International|0.36667 while|0.35 Highland|0.33333 and|0.31667 Islands|0.3 Airports|0.28333 operates|0.26667 11|0.25 regional|0.23333 airports|0.21667 including|0.2 Inverness|0.18333 which|0.16667 serve|0.15 the|0.13333 more|0.11667 remote|0.1 locations|0.083333 199|0.066667 Infratil|0.05 operates|0.033333 Prestwick|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

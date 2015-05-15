@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "df16f37633b38c1398ca8973981c1873e94ab2a85b028079bb0d321b587ed7a7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liberty-statue-from-below.jpg/220px-Liberty-statue-from-below.jpg",
+			"previous": " ",
+			"after": " The U S Census Bureau currently estimates the country s population to be 320 993 000 5 The U S population almost quadrupled during the 20th century from about 76 million in 1900 189 The third most populous nation in the world after China and India the United States is the only major industrialized nation in which large population increases are projected 190 In the 1800s the average woman had 7 04 children by the 1900s this number had decreased to 3 56 191 ",
+			"after_weights": " The|1 U|0.9881 S|0.97619 Census|0.96429 Bureau|0.95238 currently|0.94048 estimates|0.92857 the|0.91667 country|0.90476 s|0.89286 population|0.88095 to|0.86905 be|0.85714 320|0.84524 993|0.83333 000|0.82143 5|0.80952 The|0.79762 U|0.78571 S|0.77381 population|0.7619 almost|0.75 quadrupled|0.7381 during|0.72619 the|0.71429 20th|0.70238 century|0.69048 from|0.67857 about|0.66667 76|0.65476 million|0.64286 in|0.63095 1900|0.61905 189|0.60714 The|0.59524 third|0.58333 most|0.57143 populous|0.55952 nation|0.54762 in|0.53571 the|0.52381 world|0.5119 after|0.5 China|0.4881 and|0.47619 India|0.46429 the|0.45238 United|0.44048 States|0.42857 is|0.41667 the|0.40476 only|0.39286 major|0.38095 industrialized|0.36905 nation|0.35714 in|0.34524 which|0.33333 large|0.32143 population|0.30952 increases|0.29762 are|0.28571 projected|0.27381 190|0.2619 In|0.25 the|0.2381 1800s|0.22619 the|0.21429 average|0.20238 woman|0.19048 had|0.17857 7|0.16667 04|0.15476 children|0.14286 by|0.13095 the|0.11905 1900s|0.10714 this|0.095238 number|0.083333 had|0.071429 decreased|0.059524 to|0.047619 3|0.035714 56|0.02381 191|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

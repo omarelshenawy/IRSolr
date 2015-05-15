@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9597344411bff0d393187f211c6c7f1e42ff78c2b1069e8ba3176456b9c56c96",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walnut.png/30px-Walnut.png",
+			"previous": " ",
+			"after": " Welcome to Wikipedia  Humanity is learning how to create an encyclopedia now you can take part  You have probably already been using Wikipedia for some time maybe you also have been doing some editing of existing articles maybe you have been doing a lot of editing of other peoples articles but now you are ready to start your own article from scratch Jump in Be Bold ",
+			"after_weights": " Welcome|1 to|0.98529 Wikipedia|0.97059 |0.95588 Humanity|0.94118 is|0.92647 learning|0.91176 how|0.89706 to|0.88235 create|0.86765 an|0.85294 encyclopedia|0.83824 now|0.82353 you|0.80882 can|0.79412 take|0.77941 part|0.76471 |0.75 You|0.73529 have|0.72059 probably|0.70588 already|0.69118 been|0.67647 using|0.66176 Wikipedia|0.64706 for|0.63235 some|0.61765 time|0.60294 maybe|0.58824 you|0.57353 also|0.55882 have|0.54412 been|0.52941 doing|0.51471 some|0.5 editing|0.48529 of|0.47059 existing|0.45588 articles|0.44118 maybe|0.42647 you|0.41176 have|0.39706 been|0.38235 doing|0.36765 a|0.35294 lot|0.33824 of|0.32353 editing|0.30882 of|0.29412 other|0.27941 peoples|0.26471 articles|0.25 but|0.23529 now|0.22059 you|0.20588 are|0.19118 ready|0.17647 to|0.16176 start|0.14706 your|0.13235 own|0.11765 article|0.10294 from|0.088235 scratch|0.073529 Jump|0.058824 in|0.044118 Be|0.029412 Bold|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

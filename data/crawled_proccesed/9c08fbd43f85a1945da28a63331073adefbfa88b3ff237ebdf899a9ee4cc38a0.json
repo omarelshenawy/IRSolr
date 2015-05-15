@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c08fbd43f85a1945da28a63331073adefbfa88b3ff237ebdf899a9ee4cc38a0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Puerta_de_Alcal%C3%A1_-_06.jpg/220px-Puerta_de_Alcal%C3%A1_-_06.jpg",
+			"previous": " During the reign of Philip III and Philip IV of Spain Madrid saw a period of exceptional cultural brilliance with the presence of geniuses such as Miguel de Cervantes Diego Vel zquez Francisco de Quevedo and Lope de Vega 45 ",
+			"after": " The death of Charles II of Spain resulted in the War of the Spanish succession The city supported the claim of Philip of Anjou as Philip V While the city was occupied in 1706 by a Portuguese army who proclaimed king the Archduke Charles of Austria under the name of Charles III and again in 1710 remained loyal to Philip V ",
+			"after_weights": " The|1 death|0.98361 of|0.96721 Charles|0.95082 II|0.93443 of|0.91803 Spain|0.90164 resulted|0.88525 in|0.86885 the|0.85246 War|0.83607 of|0.81967 the|0.80328 Spanish|0.78689 succession|0.77049 The|0.7541 city|0.7377 supported|0.72131 the|0.70492 claim|0.68852 of|0.67213 Philip|0.65574 of|0.63934 Anjou|0.62295 as|0.60656 Philip|0.59016 V|0.57377 While|0.55738 the|0.54098 city|0.52459 was|0.5082 occupied|0.4918 in|0.47541 1706|0.45902 by|0.44262 a|0.42623 Portuguese|0.40984 army|0.39344 who|0.37705 proclaimed|0.36066 king|0.34426 the|0.32787 Archduke|0.31148 Charles|0.29508 of|0.27869 Austria|0.2623 under|0.2459 the|0.22951 name|0.21311 of|0.19672 Charles|0.18033 III|0.16393 and|0.14754 again|0.13115 in|0.11475 1710|0.098361 remained|0.081967 loyal|0.065574 to|0.04918 Philip|0.032787 V|0.016393 |0",
+			"previous_weights": " During|0 the|0.025 reign|0.05 of|0.075 Philip|0.1 III|0.125 and|0.15 Philip|0.175 IV|0.2 of|0.225 Spain|0.25 Madrid|0.275 saw|0.3 a|0.325 period|0.35 of|0.375 exceptional|0.4 cultural|0.425 brilliance|0.45 with|0.475 the|0.5 presence|0.525 of|0.55 geniuses|0.575 such|0.6 as|0.625 Miguel|0.65 de|0.675 Cervantes|0.7 Diego|0.725 Vel|0.75 zquez|0.775 Francisco|0.8 de|0.825 Quevedo|0.85 and|0.875 Lope|0.9 de|0.925 Vega|0.95 45|0.975 |1"
+		}
+	}
+}

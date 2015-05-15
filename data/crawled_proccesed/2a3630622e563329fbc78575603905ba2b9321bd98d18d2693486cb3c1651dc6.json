@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a3630622e563329fbc78575603905ba2b9321bd98d18d2693486cb3c1651dc6",
+			"url": "https://upload.wikimedia.org/wikipedia/en/timeline/687a29c9840480a048e37b3f5ca21a26.png",
+			"previous": " The early period ended in a time of political and economic change as a result of mechanization in society the American Revolution the first French Revolution other factors included the redrawing of the map of Europe by the Final Act of the Congress of Vienna 29 and the peace established by Second Treaty of Paris which ended the Napoleonic Wars 30 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " The|0 early|0.016393 period|0.032787 ended|0.04918 in|0.065574 a|0.081967 time|0.098361 of|0.11475 political|0.13115 and|0.14754 economic|0.16393 change|0.18033 as|0.19672 a|0.21311 result|0.22951 of|0.2459 mechanization|0.2623 in|0.27869 society|0.29508 the|0.31148 American|0.32787 Revolution|0.34426 the|0.36066 first|0.37705 French|0.39344 Revolution|0.40984 other|0.42623 factors|0.44262 included|0.45902 the|0.47541 redrawing|0.4918 of|0.5082 the|0.52459 map|0.54098 of|0.55738 Europe|0.57377 by|0.59016 the|0.60656 Final|0.62295 Act|0.63934 of|0.65574 the|0.67213 Congress|0.68852 of|0.70492 Vienna|0.72131 29|0.7377 and|0.7541 the|0.77049 peace|0.78689 established|0.80328 by|0.81967 Second|0.83607 Treaty|0.85246 of|0.86885 Paris|0.88525 which|0.90164 ended|0.91803 the|0.93443 Napoleonic|0.95082 Wars|0.96721 30|0.98361 |1"
+		}
+	}
+}

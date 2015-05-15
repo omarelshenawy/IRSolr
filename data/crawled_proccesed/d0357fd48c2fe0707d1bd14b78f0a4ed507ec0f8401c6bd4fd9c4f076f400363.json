@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d0357fd48c2fe0707d1bd14b78f0a4ed507ec0f8401c6bd4fd9c4f076f400363",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/PSM_V36_D105_Lucayan_skull_from_the_bahamas.jpg/220px-PSM_V36_D105_Lucayan_skull_from_the_bahamas.jpg",
+			"previous": " ",
+			"after": " Taino people moved into the uninhabited southern Bahamas from Hispaniola and Cuba around the 11th century AD having migrated there from South America They came to be known as the Lucayan people An estimated 30 000 Lucayan inhabited the Bahamas at the time of Christopher Columbus arrival in 1492 ",
+			"after_weights": " Taino|1 people|0.97959 moved|0.95918 into|0.93878 the|0.91837 uninhabited|0.89796 southern|0.87755 Bahamas|0.85714 from|0.83673 Hispaniola|0.81633 and|0.79592 Cuba|0.77551 around|0.7551 the|0.73469 11th|0.71429 century|0.69388 AD|0.67347 having|0.65306 migrated|0.63265 there|0.61224 from|0.59184 South|0.57143 America|0.55102 They|0.53061 came|0.5102 to|0.4898 be|0.46939 known|0.44898 as|0.42857 the|0.40816 Lucayan|0.38776 people|0.36735 An|0.34694 estimated|0.32653 30|0.30612 000|0.28571 Lucayan|0.26531 inhabited|0.2449 the|0.22449 Bahamas|0.20408 at|0.18367 the|0.16327 time|0.14286 of|0.12245 Christopher|0.10204 Columbus|0.081633 arrival|0.061224 in|0.040816 1492|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "644bb7950f063b1edb70f5640b3cacdd1fcbf2dc6d7d24ab5f643314bf7ec1d0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jean_Roy_de_Congo.jpg/60px-Jean_Roy_de_Congo.jpg",
+			"previous": " May 3 World Press Freedom Day Pesach Sheni Judaism 2015 Mother s Day in Hungary Lithuania Mozambique Portugal Romania and Spain 2015 Constitution Day in Poland 1791 and Japan 1947 ",
+			"after": " More anniversaries May 2 May 3 May 4",
+			"after_weights": " More|1 anniversaries|0.85714 May|0.71429 2|0.57143 May|0.42857 3|0.28571 May|0.14286 4|0",
+			"previous_weights": " May|0 3|0.033333 World|0.066667 Press|0.1 Freedom|0.13333 Day|0.16667 Pesach|0.2 Sheni|0.23333 Judaism|0.26667 2015|0.3 Mother|0.33333 s|0.36667 Day|0.4 in|0.43333 Hungary|0.46667 Lithuania|0.5 Mozambique|0.53333 Portugal|0.56667 Romania|0.6 and|0.63333 Spain|0.66667 2015|0.7 Constitution|0.73333 Day|0.76667 in|0.8 Poland|0.83333 1791|0.86667 and|0.9 Japan|0.93333 1947|0.96667 |1"
+		}
+	}
+}

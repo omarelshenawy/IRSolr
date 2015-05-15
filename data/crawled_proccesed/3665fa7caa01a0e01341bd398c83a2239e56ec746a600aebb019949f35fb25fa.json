@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3665fa7caa01a0e01341bd398c83a2239e56ec746a600aebb019949f35fb25fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Philip_II%27s_realms_in_1598.png/330px-Philip_II%27s_realms_in_1598.png",
+			"previous": " ",
+			"after": " The year 1492 also marked the arrival of Christopher Columbus in the New World during a voyage funded by Isabella Columbus s first voyage crossed the Atlantic and reached the Caribbean Islands beginning the European exploration and conquest of the Americas although he remained convinced that he had reached the Orient The colonisation of the Americas started with conquistadores like Hern n Cort s and Francisco Pizarro Miscegenation was the rule between the native and the European cultures and people ",
+			"after_weights": " The|1 year|0.9875 1492|0.975 also|0.9625 marked|0.95 the|0.9375 arrival|0.925 of|0.9125 Christopher|0.9 Columbus|0.8875 in|0.875 the|0.8625 New|0.85 World|0.8375 during|0.825 a|0.8125 voyage|0.8 funded|0.7875 by|0.775 Isabella|0.7625 Columbus|0.75 s|0.7375 first|0.725 voyage|0.7125 crossed|0.7 the|0.6875 Atlantic|0.675 and|0.6625 reached|0.65 the|0.6375 Caribbean|0.625 Islands|0.6125 beginning|0.6 the|0.5875 European|0.575 exploration|0.5625 and|0.55 conquest|0.5375 of|0.525 the|0.5125 Americas|0.5 although|0.4875 he|0.475 remained|0.4625 convinced|0.45 that|0.4375 he|0.425 had|0.4125 reached|0.4 the|0.3875 Orient|0.375 The|0.3625 colonisation|0.35 of|0.3375 the|0.325 Americas|0.3125 started|0.3 with|0.2875 conquistadores|0.275 like|0.2625 Hern|0.25 n|0.2375 Cort|0.225 s|0.2125 and|0.2 Francisco|0.1875 Pizarro|0.175 Miscegenation|0.1625 was|0.15 the|0.1375 rule|0.125 between|0.1125 the|0.1 native|0.0875 and|0.075 the|0.0625 European|0.05 cultures|0.0375 and|0.025 people|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

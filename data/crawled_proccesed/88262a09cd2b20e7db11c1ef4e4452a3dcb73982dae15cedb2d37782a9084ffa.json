@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "88262a09cd2b20e7db11c1ef4e4452a3dcb73982dae15cedb2d37782a9084ffa",
+			"url": "https://upload.wikimedia.org/math/3/d/7/3d7251d06e9bc6964ec3d65807950fe6.png",
+			"previous": "  Cressie 1993 Chiles Delfiner 1999 Wackernagel 1995 ",
+			"after": " Simple kriging is mathematically the simplest but the least general It assumes the expectation of the random field to be known and relies on a covariance function However in most applications neither the expectation nor the covariance are known beforehand ",
+			"after_weights": " Simple|1 kriging|0.975 is|0.95 mathematically|0.925 the|0.9 simplest|0.875 but|0.85 the|0.825 least|0.8 general|0.775 It|0.75 assumes|0.725 the|0.7 expectation|0.675 of|0.65 the|0.625 random|0.6 field|0.575 to|0.55 be|0.525 known|0.5 and|0.475 relies|0.45 on|0.425 a|0.4 covariance|0.375 function|0.35 However|0.325 in|0.3 most|0.275 applications|0.25 neither|0.225 the|0.2 expectation|0.175 nor|0.15 the|0.125 covariance|0.1 are|0.075 known|0.05 beforehand|0.025 |0",
+			"previous_weights": " |0 Cressie|0.125 1993|0.25 Chiles|0.375 Delfiner|0.5 1999|0.625 Wackernagel|0.75 1995|0.875 |1"
+		}
+	}
+}

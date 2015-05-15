@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f7a5cd44923ec1afa2887b12c890ca61ae6ca03e0b9decd8871a27185dab41da",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/PRIXARS_RGB.png/250px-PRIXARS_RGB.png",
+			"previous": " ",
+			"after": " The Prix Ars Electronica is one of the most important yearly prizes in the field of electronic and interactive art computer animation digital culture and music It has been awarded since 1987 by Ars Electronica Linz Austria ",
+			"after_weights": " The|1 Prix|0.97297 Ars|0.94595 Electronica|0.91892 is|0.89189 one|0.86486 of|0.83784 the|0.81081 most|0.78378 important|0.75676 yearly|0.72973 prizes|0.7027 in|0.67568 the|0.64865 field|0.62162 of|0.59459 electronic|0.56757 and|0.54054 interactive|0.51351 art|0.48649 computer|0.45946 animation|0.43243 digital|0.40541 culture|0.37838 and|0.35135 music|0.32432 It|0.2973 has|0.27027 been|0.24324 awarded|0.21622 since|0.18919 1987|0.16216 by|0.13514 Ars|0.10811 Electronica|0.081081 Linz|0.054054 Austria|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fc6cae13b1a949647861fdc3dcf92dae2aa045bd65f2bd4266466235d820c810",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wikidata_layout_Phase_I.png/190px-Wikidata_layout_Phase_I.png",
+			"previous": " The creation of the project was funded by donations from the Allen Institute for Artificial Intelligence the Gordon and Betty Moore Foundation and Google Inc totaling 1 3 million 4 5 Initial development of the project is being overseen by Wikimedia Deutschland and has been split into three phases ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " The|0 creation|0.020408 of|0.040816 the|0.061224 project|0.081633 was|0.10204 funded|0.12245 by|0.14286 donations|0.16327 from|0.18367 the|0.20408 Allen|0.22449 Institute|0.2449 for|0.26531 Artificial|0.28571 Intelligence|0.30612 the|0.32653 Gordon|0.34694 and|0.36735 Betty|0.38776 Moore|0.40816 Foundation|0.42857 and|0.44898 Google|0.46939 Inc|0.4898 totaling|0.5102 1|0.53061 3|0.55102 million|0.57143 4|0.59184 5|0.61224 Initial|0.63265 development|0.65306 of|0.67347 the|0.69388 project|0.71429 is|0.73469 being|0.7551 overseen|0.77551 by|0.79592 Wikimedia|0.81633 Deutschland|0.83673 and|0.85714 has|0.87755 been|0.89796 split|0.91837 into|0.93878 three|0.95918 phases|0.97959 |1"
+		}
+	}
+}

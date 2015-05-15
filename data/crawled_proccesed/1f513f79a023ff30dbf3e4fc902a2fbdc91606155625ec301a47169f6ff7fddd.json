@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f513f79a023ff30dbf3e4fc902a2fbdc91606155625ec301a47169f6ff7fddd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/50px-Wikisource-logo.svg.png",
+			"previous": " CUP is one of thirteen publishers to participate in the Knowledge Unlatched pilot a global library consortium approach to funding open access books 22 CUP is a member of the Open Access Scholarly Publishers Association ",
+			"after": " Coordinates 52 11 18 N 0 07 55 E 52 1882 N 0 1320 E 52 1882 0 1320",
+			"after_weights": " Coordinates|1 52|0.94444 11|0.88889 18|0.83333 N|0.77778 0|0.72222 07|0.66667 55|0.61111 E|0.55556 52|0.5 1882|0.44444 N|0.38889 0|0.33333 1320|0.27778 E|0.22222 52|0.16667 1882|0.11111 0|0.055556 1320|0",
+			"previous_weights": " CUP|0 is|0.028571 one|0.057143 of|0.085714 thirteen|0.11429 publishers|0.14286 to|0.17143 participate|0.2 in|0.22857 the|0.25714 Knowledge|0.28571 Unlatched|0.31429 pilot|0.34286 a|0.37143 global|0.4 library|0.42857 consortium|0.45714 approach|0.48571 to|0.51429 funding|0.54286 open|0.57143 access|0.6 books|0.62857 22|0.65714 CUP|0.68571 is|0.71429 a|0.74286 member|0.77143 of|0.8 the|0.82857 Open|0.85714 Access|0.88571 Scholarly|0.91429 Publishers|0.94286 Association|0.97143 |1"
+		}
+	}
+}

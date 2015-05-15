@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fc3e2468f069072858c7db5cfc03d7c5d4f3477559b8ae5cc57dd18761062bd3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Free_Software_Foundation_logo_and_wordmark.svg/220px-Free_Software_Foundation_logo_and_wordmark.svg.png",
+			"previous": " While extensive reuse of free content from one website in another website is legal it is usually not sensible because of the duplicate content problem Wikipedia is amongst the most well known databases of user uploaded free content on the web While the vast majority of content on Wikipedia is free content some copyrighted material is hosted under Fair use criteria ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " While|0 extensive|0.016393 reuse|0.032787 of|0.04918 free|0.065574 content|0.081967 from|0.098361 one|0.11475 website|0.13115 in|0.14754 another|0.16393 website|0.18033 is|0.19672 legal|0.21311 it|0.22951 is|0.2459 usually|0.2623 not|0.27869 sensible|0.29508 because|0.31148 of|0.32787 the|0.34426 duplicate|0.36066 content|0.37705 problem|0.39344 Wikipedia|0.40984 is|0.42623 amongst|0.44262 the|0.45902 most|0.47541 well|0.4918 known|0.5082 databases|0.52459 of|0.54098 user|0.55738 uploaded|0.57377 free|0.59016 content|0.60656 on|0.62295 the|0.63934 web|0.65574 While|0.67213 the|0.68852 vast|0.70492 majority|0.72131 of|0.7377 content|0.7541 on|0.77049 Wikipedia|0.78689 is|0.80328 free|0.81967 content|0.83607 some|0.85246 copyrighted|0.86885 material|0.88525 is|0.90164 hosted|0.91803 under|0.93443 Fair|0.95082 use|0.96721 criteria|0.98361 |1"
+		}
+	}
+}

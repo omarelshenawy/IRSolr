@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c27712d9e0f88c37a66b58d305accf07d7025eb71fc98cbbe888d731faa77a9b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mauritius_beach.png/250px-Mauritius_beach.png",
+			"previous": " ",
+			"after": " The environment in Mauritius is typically tropical in the coastal regions with forests in the mountainous areas Seasonal cyclones are destructive to its flora and fauna although they recover quickly Mauritius ranked second in an air quality index released by the World Health Organization in 2011 51 ",
+			"after_weights": " The|1 environment|0.97872 in|0.95745 Mauritius|0.93617 is|0.91489 typically|0.89362 tropical|0.87234 in|0.85106 the|0.82979 coastal|0.80851 regions|0.78723 with|0.76596 forests|0.74468 in|0.7234 the|0.70213 mountainous|0.68085 areas|0.65957 Seasonal|0.6383 cyclones|0.61702 are|0.59574 destructive|0.57447 to|0.55319 its|0.53191 flora|0.51064 and|0.48936 fauna|0.46809 although|0.44681 they|0.42553 recover|0.40426 quickly|0.38298 Mauritius|0.3617 ranked|0.34043 second|0.31915 in|0.29787 an|0.2766 air|0.25532 quality|0.23404 index|0.21277 released|0.19149 by|0.17021 the|0.14894 World|0.12766 Health|0.10638 Organization|0.085106 in|0.06383 2011|0.042553 51|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

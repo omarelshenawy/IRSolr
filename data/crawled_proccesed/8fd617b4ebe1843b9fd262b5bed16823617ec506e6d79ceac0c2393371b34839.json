@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fd617b4ebe1843b9fd262b5bed16823617ec506e6d79ceac0c2393371b34839",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Maastricht%2C_Universiteitsbibliotheek_Binnenstad2.jpg/261px-Maastricht%2C_Universiteitsbibliotheek_Binnenstad2.jpg",
+			"previous": " ",
+			"after": " The university s arts humanities and social sciences faculties are located in Maastricht s city centre west of the river Meuse Most of the university s inner city properties have official monumental status As many of these buildings were facing abandonment at the time of their acquirement the development of an urban university campus has contributed to the preservation and liveliness of Maastricht s historic city centre 39 ",
+			"after_weights": " The|1 university|0.98529 s|0.97059 arts|0.95588 humanities|0.94118 and|0.92647 social|0.91176 sciences|0.89706 faculties|0.88235 are|0.86765 located|0.85294 in|0.83824 Maastricht|0.82353 s|0.80882 city|0.79412 centre|0.77941 west|0.76471 of|0.75 the|0.73529 river|0.72059 Meuse|0.70588 Most|0.69118 of|0.67647 the|0.66176 university|0.64706 s|0.63235 inner|0.61765 city|0.60294 properties|0.58824 have|0.57353 official|0.55882 monumental|0.54412 status|0.52941 As|0.51471 many|0.5 of|0.48529 these|0.47059 buildings|0.45588 were|0.44118 facing|0.42647 abandonment|0.41176 at|0.39706 the|0.38235 time|0.36765 of|0.35294 their|0.33824 acquirement|0.32353 the|0.30882 development|0.29412 of|0.27941 an|0.26471 urban|0.25 university|0.23529 campus|0.22059 has|0.20588 contributed|0.19118 to|0.17647 the|0.16176 preservation|0.14706 and|0.13235 liveliness|0.11765 of|0.10294 Maastricht|0.088235 s|0.073529 historic|0.058824 city|0.044118 centre|0.029412 39|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

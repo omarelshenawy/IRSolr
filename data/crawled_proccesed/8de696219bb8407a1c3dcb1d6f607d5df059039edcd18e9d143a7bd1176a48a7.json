@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8de696219bb8407a1c3dcb1d6f607d5df059039edcd18e9d143a7bd1176a48a7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China%2C_Mao_%282%29.jpg/220px-China%2C_Mao_%282%29.jpg",
+			"previous": " ",
+			"after": " Major combat in the Chinese Civil War ended in 1949 with the Communist Party in control of most of mainland China and the Kuomintang retreating offshore reducing the ROC s territory to only Taiwan Hainan and their surrounding islands On 1 October 1949 Communist Party Chairman Mao Zedong proclaimed the establishment of the People s Republic of China 78 In 1950 the People s Liberation Army succeeded in capturing Hainan from the ROC 79 and occupying Tibet 80 However remaining Nationalist forces continued to wage an insurgency in western China throughout the 1950s 81 ",
+			"after_weights": " Major|1 combat|0.98936 in|0.97872 the|0.96809 Chinese|0.95745 Civil|0.94681 War|0.93617 ended|0.92553 in|0.91489 1949|0.90426 with|0.89362 the|0.88298 Communist|0.87234 Party|0.8617 in|0.85106 control|0.84043 of|0.82979 most|0.81915 of|0.80851 mainland|0.79787 China|0.78723 and|0.7766 the|0.76596 Kuomintang|0.75532 retreating|0.74468 offshore|0.73404 reducing|0.7234 the|0.71277 ROC|0.70213 s|0.69149 territory|0.68085 to|0.67021 only|0.65957 Taiwan|0.64894 Hainan|0.6383 and|0.62766 their|0.61702 surrounding|0.60638 islands|0.59574 On|0.58511 1|0.57447 October|0.56383 1949|0.55319 Communist|0.54255 Party|0.53191 Chairman|0.52128 Mao|0.51064 Zedong|0.5 proclaimed|0.48936 the|0.47872 establishment|0.46809 of|0.45745 the|0.44681 People|0.43617 s|0.42553 Republic|0.41489 of|0.40426 China|0.39362 78|0.38298 In|0.37234 1950|0.3617 the|0.35106 People|0.34043 s|0.32979 Liberation|0.31915 Army|0.30851 succeeded|0.29787 in|0.28723 capturing|0.2766 Hainan|0.26596 from|0.25532 the|0.24468 ROC|0.23404 79|0.2234 and|0.21277 occupying|0.20213 Tibet|0.19149 80|0.18085 However|0.17021 remaining|0.15957 Nationalist|0.14894 forces|0.1383 continued|0.12766 to|0.11702 wage|0.10638 an|0.095745 insurgency|0.085106 in|0.074468 western|0.06383 China|0.053191 throughout|0.042553 the|0.031915 1950s|0.021277 81|0.010638 |0",
+			"previous_weights": " "
+		}
+	}
+}

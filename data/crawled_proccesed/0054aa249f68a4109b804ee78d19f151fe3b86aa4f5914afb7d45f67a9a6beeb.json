@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0054aa249f68a4109b804ee78d19f151fe3b86aa4f5914afb7d45f67a9a6beeb",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/IC_Circle.jpg/220px-IC_Circle.jpg",
+			"previous": " The IC consists of 17 members also called elements most of which are offices or bureaus within federal executive departments 7 The IC is led by the Director of National Intelligence ",
+			"after": " The IC performs under two separate programs  Since the definitions of the NIP and MIP overlap when they address military intelligence assignment of Department of Defense intelligence activities to the NIP and MIP sometimes proves problematic ",
+			"after_weights": " The|1 IC|0.97297 performs|0.94595 under|0.91892 two|0.89189 separate|0.86486 programs|0.83784 |0.81081 Since|0.78378 the|0.75676 definitions|0.72973 of|0.7027 the|0.67568 NIP|0.64865 and|0.62162 MIP|0.59459 overlap|0.56757 when|0.54054 they|0.51351 address|0.48649 military|0.45946 intelligence|0.43243 assignment|0.40541 of|0.37838 Department|0.35135 of|0.32432 Defense|0.2973 intelligence|0.27027 activities|0.24324 to|0.21622 the|0.18919 NIP|0.16216 and|0.13514 MIP|0.10811 sometimes|0.081081 proves|0.054054 problematic|0.027027 |0",
+			"previous_weights": " The|0 IC|0.032258 consists|0.064516 of|0.096774 17|0.12903 members|0.16129 also|0.19355 called|0.22581 elements|0.25806 most|0.29032 of|0.32258 which|0.35484 are|0.3871 offices|0.41935 or|0.45161 bureaus|0.48387 within|0.51613 federal|0.54839 executive|0.58065 departments|0.6129 7|0.64516 The|0.67742 IC|0.70968 is|0.74194 led|0.77419 by|0.80645 the|0.83871 Director|0.87097 of|0.90323 National|0.93548 Intelligence|0.96774 |1"
+		}
+	}
+}

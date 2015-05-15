@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c183afb101140333fe3945b818185e9384281bc53ccb2c69bf5d411b64b5e80",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Casino_de_Montr%C3%A9al_2.JPG/220px-Casino_de_Montr%C3%A9al_2.JPG",
+			"previous": " ",
+			"after": " Montreal was referred to as Canada s Cultural Capital by Monocle magazine 30 The city is Canada s centre for French language television productions radio theatre film multimedia and print publishing Montreal s many cultural communities have given it a distinct local culture ",
+			"after_weights": " Montreal|1 was|0.97674 referred|0.95349 to|0.93023 as|0.90698 Canada|0.88372 s|0.86047 Cultural|0.83721 Capital|0.81395 by|0.7907 Monocle|0.76744 magazine|0.74419 30|0.72093 The|0.69767 city|0.67442 is|0.65116 Canada|0.62791 s|0.60465 centre|0.5814 for|0.55814 French|0.53488 language|0.51163 television|0.48837 productions|0.46512 radio|0.44186 theatre|0.4186 film|0.39535 multimedia|0.37209 and|0.34884 print|0.32558 publishing|0.30233 Montreal|0.27907 s|0.25581 many|0.23256 cultural|0.2093 communities|0.18605 have|0.16279 given|0.13953 it|0.11628 a|0.093023 distinct|0.069767 local|0.046512 culture|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8900bdc5d1dcfe17f7c22fba532455e262e2873806eacd60201f1669340d19c7",
+			"url": "https://upload.wikimedia.org/math/7/e/7/7e72cee232fbc81af2df7ed4d501ee36.png",
+			"previous": " The DCG accumulated at a particular rank position is defined as ",
+			"after": " Since result set may vary in size among different queries or systems to compare performances the normalised version of DCG uses an ideal DCG To this end it sorts documents of a result list by relevance producing an ideal DCG at position p which normalizes the score ",
+			"after_weights": " Since|1 result|0.97872 set|0.95745 may|0.93617 vary|0.91489 in|0.89362 size|0.87234 among|0.85106 different|0.82979 queries|0.80851 or|0.78723 systems|0.76596 to|0.74468 compare|0.7234 performances|0.70213 the|0.68085 normalised|0.65957 version|0.6383 of|0.61702 DCG|0.59574 uses|0.57447 an|0.55319 ideal|0.53191 DCG|0.51064 To|0.48936 this|0.46809 end|0.44681 it|0.42553 sorts|0.40426 documents|0.38298 of|0.3617 a|0.34043 result|0.31915 list|0.29787 by|0.2766 relevance|0.25532 producing|0.23404 an|0.21277 ideal|0.19149 DCG|0.17021 at|0.14894 position|0.12766 p|0.10638 which|0.085106 normalizes|0.06383 the|0.042553 score|0.021277 |0",
+			"previous_weights": " The|0 DCG|0.090909 accumulated|0.18182 at|0.27273 a|0.36364 particular|0.45455 rank|0.54545 position|0.63636 is|0.72727 defined|0.81818 as|0.90909 |1"
+		}
+	}
+}

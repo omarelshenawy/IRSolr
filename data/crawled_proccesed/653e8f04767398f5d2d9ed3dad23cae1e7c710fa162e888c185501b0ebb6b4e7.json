@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "653e8f04767398f5d2d9ed3dad23cae1e7c710fa162e888c185501b0ebb6b4e7",
+			"url": "https://upload.wikimedia.org/math/5/8/3/5832dd405a4119b6c9d475115f93d9a9.png",
+			"previous": " has a Student s t distribution with n 1 degrees of freedom 21 Note that the distribution of T does not depend on the values of the unobservable parameters and 2 i e it is a pivotal quantity Suppose we wanted to calculate a 95 confidence interval for Then denoting c as the 97 5th percentile of this distribution ",
+			"after": "  97 5th and 0 95 are correct in the preceding expressions There is a 2 5 chance that T will be less than c and a 2 5 chance that it will be larger than c Thus the probability that T will be between c and c is 95 ",
+			"after_weights": " |1 97|0.98 5th|0.96 and|0.94 0|0.92 95|0.9 are|0.88 correct|0.86 in|0.84 the|0.82 preceding|0.8 expressions|0.78 There|0.76 is|0.74 a|0.72 2|0.7 5|0.68 chance|0.66 that|0.64 T|0.62 will|0.6 be|0.58 less|0.56 than|0.54 c|0.52 and|0.5 a|0.48 2|0.46 5|0.44 chance|0.42 that|0.4 it|0.38 will|0.36 be|0.34 larger|0.32 than|0.3 c|0.28 Thus|0.26 the|0.24 probability|0.22 that|0.2 T|0.18 will|0.16 be|0.14 between|0.12 c|0.1 and|0.08 c|0.06 is|0.04 95|0.02 |0",
+			"previous_weights": " has|0 a|0.016949 Student|0.033898 s|0.050847 t|0.067797 distribution|0.084746 with|0.10169 n|0.11864 1|0.13559 degrees|0.15254 of|0.16949 freedom|0.18644 21|0.20339 Note|0.22034 that|0.23729 the|0.25424 distribution|0.27119 of|0.28814 T|0.30508 does|0.32203 not|0.33898 depend|0.35593 on|0.37288 the|0.38983 values|0.40678 of|0.42373 the|0.44068 unobservable|0.45763 parameters|0.47458 and|0.49153 2|0.50847 i|0.52542 e|0.54237 it|0.55932 is|0.57627 a|0.59322 pivotal|0.61017 quantity|0.62712 Suppose|0.64407 we|0.66102 wanted|0.67797 to|0.69492 calculate|0.71186 a|0.72881 95|0.74576 confidence|0.76271 interval|0.77966 for|0.79661 Then|0.81356 denoting|0.83051 c|0.84746 as|0.86441 the|0.88136 97|0.89831 5th|0.91525 percentile|0.9322 of|0.94915 this|0.9661 distribution|0.98305 |1"
+		}
+	}
+}

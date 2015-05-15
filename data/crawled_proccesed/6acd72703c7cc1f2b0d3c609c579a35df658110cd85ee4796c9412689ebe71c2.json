@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6acd72703c7cc1f2b0d3c609c579a35df658110cd85ee4796c9412689ebe71c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Traditional_caymanian_home_east_end.jpg/220px-Traditional_caymanian_home_east_end.jpg",
+			"previous": " The capital of the Cayman Islands is George Town on the southwest coast of Grand Cayman ",
+			"after": " According to the Cayman Islands 2010 census the estimated resident population is 54 878 people 32 broken down as follows ",
+			"after_weights": " According|1 to|0.95 the|0.9 Cayman|0.85 Islands|0.8 2010|0.75 census|0.7 the|0.65 estimated|0.6 resident|0.55 population|0.5 is|0.45 54|0.4 878|0.35 people|0.3 32|0.25 broken|0.2 down|0.15 as|0.1 follows|0.05 |0",
+			"previous_weights": " The|0 capital|0.0625 of|0.125 the|0.1875 Cayman|0.25 Islands|0.3125 is|0.375 George|0.4375 Town|0.5 on|0.5625 the|0.625 southwest|0.6875 coast|0.75 of|0.8125 Grand|0.875 Cayman|0.9375 |1"
+		}
+	}
+}

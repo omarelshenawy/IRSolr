@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "235a78893309d9fe7be0a0269e4c00e74fbc34bfaa4ee4c94936d99a1918ae6a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Azerbaijani_book_about_Wikipedia.jpg/220px-Azerbaijani_book_about_Wikipedia.jpg",
+			"previous": "  Azerbaijani Wikipedia is constantly increasing its number of articles but at some point in 2015 this number somewhat decreased returning to values smaller than 100 000 ",
+			"after": " In 2010 Azerbaijani Wikipedia books published by professor Rasim Aliguliyev and senior scientist Irada Alakbarova 4 The book edited by Alovsat Aliyev 4 ",
+			"after_weights": " In|1 2010|0.95652 Azerbaijani|0.91304 Wikipedia|0.86957 books|0.82609 published|0.78261 by|0.73913 professor|0.69565 Rasim|0.65217 Aliguliyev|0.6087 and|0.56522 senior|0.52174 scientist|0.47826 Irada|0.43478 Alakbarova|0.3913 4|0.34783 The|0.30435 book|0.26087 edited|0.21739 by|0.17391 Alovsat|0.13043 Aliyev|0.086957 4|0.043478 |0",
+			"previous_weights": " |0 Azerbaijani|0.037037 Wikipedia|0.074074 is|0.11111 constantly|0.14815 increasing|0.18519 its|0.22222 number|0.25926 of|0.2963 articles|0.33333 but|0.37037 at|0.40741 some|0.44444 point|0.48148 in|0.51852 2015|0.55556 this|0.59259 number|0.62963 somewhat|0.66667 decreased|0.7037 returning|0.74074 to|0.77778 values|0.81481 smaller|0.85185 than|0.88889 100|0.92593 000|0.96296 |1"
+		}
+	}
+}

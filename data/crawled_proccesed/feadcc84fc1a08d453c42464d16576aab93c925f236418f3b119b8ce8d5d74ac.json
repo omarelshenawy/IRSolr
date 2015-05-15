@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "feadcc84fc1a08d453c42464d16576aab93c925f236418f3b119b8ce8d5d74ac",
+			"url": "https://upload.wikimedia.org/math/1/4/a/14a7eb3547304ce33110dd71ef6e79ac.png",
+			"previous": " A popular approximated method for calculating the doubling time from the growth rate is the rule of 70 i e ",
+			"after": " This allows an exponentially growing variable to be modeled with a log linear model For example if one wishes to empirically estimate the growth rate from intertemporal data on x one can linearly regress log x on t ",
+			"after_weights": " This|1 allows|0.97368 an|0.94737 exponentially|0.92105 growing|0.89474 variable|0.86842 to|0.84211 be|0.81579 modeled|0.78947 with|0.76316 a|0.73684 log|0.71053 linear|0.68421 model|0.65789 For|0.63158 example|0.60526 if|0.57895 one|0.55263 wishes|0.52632 to|0.5 empirically|0.47368 estimate|0.44737 the|0.42105 growth|0.39474 rate|0.36842 from|0.34211 intertemporal|0.31579 data|0.28947 on|0.26316 x|0.23684 one|0.21053 can|0.18421 linearly|0.15789 regress|0.13158 log|0.10526 x|0.078947 on|0.052632 t|0.026316 |0",
+			"previous_weights": " A|0 popular|0.05 approximated|0.1 method|0.15 for|0.2 calculating|0.25 the|0.3 doubling|0.35 time|0.4 from|0.45 the|0.5 growth|0.55 rate|0.6 is|0.65 the|0.7 rule|0.75 of|0.8 70|0.85 i|0.9 e|0.95 |1"
+		}
+	}
+}

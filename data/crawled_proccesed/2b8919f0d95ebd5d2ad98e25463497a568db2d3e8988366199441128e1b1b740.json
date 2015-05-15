@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2b8919f0d95ebd5d2ad98e25463497a568db2d3e8988366199441128e1b1b740",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stoker_Dracula_Notes_Personal.jpg/220px-Stoker_Dracula_Notes_Personal.jpg",
+			"previous": " ",
+			"after": " The story is told in epistolary format as a series of letters diary entries and ships log entries whose narrators are the novel s protagonists and occasionally supplemented with newspaper clippings relating events not directly witnessed The events portrayed in the novel take place largely in England and Transylvania during the 1890s ",
+			"after_weights": " The|1 story|0.98077 is|0.96154 told|0.94231 in|0.92308 epistolary|0.90385 format|0.88462 as|0.86538 a|0.84615 series|0.82692 of|0.80769 letters|0.78846 diary|0.76923 entries|0.75 and|0.73077 ships|0.71154 log|0.69231 entries|0.67308 whose|0.65385 narrators|0.63462 are|0.61538 the|0.59615 novel|0.57692 s|0.55769 protagonists|0.53846 and|0.51923 occasionally|0.5 supplemented|0.48077 with|0.46154 newspaper|0.44231 clippings|0.42308 relating|0.40385 events|0.38462 not|0.36538 directly|0.34615 witnessed|0.32692 The|0.30769 events|0.28846 portrayed|0.26923 in|0.25 the|0.23077 novel|0.21154 take|0.19231 place|0.17308 largely|0.15385 in|0.13462 England|0.11538 and|0.096154 Transylvania|0.076923 during|0.057692 the|0.038462 1890s|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

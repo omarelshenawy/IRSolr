@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a5bc9358e6a134e062848895292dd2a117a40f1c2b7413eb93e2af1b18606f8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Einstein_in_NY_1921.jpg/240px-Einstein_in_NY_1921.jpg",
+			"previous": " ",
+			"after": " Einstein visited New York City for the first time on 2 April 1921 where he received an official welcome by Mayor John Francis Hylan followed by three weeks of lectures and receptions He went on to deliver several lectures at Columbia University and Princeton University and in Washington he accompanied representatives of the National Academy of Science on a visit to the White House On his return to Europe he was the guest of the British statesman and philosopher Viscount Haldane in London where he met several renowned scientific intellectual and political figures and delivered a lecture at King s College 52 53 ",
+			"after_weights": " Einstein|1 visited|0.99029 New|0.98058 York|0.97087 City|0.96117 for|0.95146 the|0.94175 first|0.93204 time|0.92233 on|0.91262 2|0.90291 April|0.8932 1921|0.8835 where|0.87379 he|0.86408 received|0.85437 an|0.84466 official|0.83495 welcome|0.82524 by|0.81553 Mayor|0.80583 John|0.79612 Francis|0.78641 Hylan|0.7767 followed|0.76699 by|0.75728 three|0.74757 weeks|0.73786 of|0.72816 lectures|0.71845 and|0.70874 receptions|0.69903 He|0.68932 went|0.67961 on|0.6699 to|0.66019 deliver|0.65049 several|0.64078 lectures|0.63107 at|0.62136 Columbia|0.61165 University|0.60194 and|0.59223 Princeton|0.58252 University|0.57282 and|0.56311 in|0.5534 Washington|0.54369 he|0.53398 accompanied|0.52427 representatives|0.51456 of|0.50485 the|0.49515 National|0.48544 Academy|0.47573 of|0.46602 Science|0.45631 on|0.4466 a|0.43689 visit|0.42718 to|0.41748 the|0.40777 White|0.39806 House|0.38835 On|0.37864 his|0.36893 return|0.35922 to|0.34951 Europe|0.33981 he|0.3301 was|0.32039 the|0.31068 guest|0.30097 of|0.29126 the|0.28155 British|0.27184 statesman|0.26214 and|0.25243 philosopher|0.24272 Viscount|0.23301 Haldane|0.2233 in|0.21359 London|0.20388 where|0.19417 he|0.18447 met|0.17476 several|0.16505 renowned|0.15534 scientific|0.14563 intellectual|0.13592 and|0.12621 political|0.1165 figures|0.1068 and|0.097087 delivered|0.087379 a|0.07767 lecture|0.067961 at|0.058252 King|0.048544 s|0.038835 College|0.029126 52|0.019417 53|0.0097087 |0",
+			"previous_weights": " "
+		}
+	}
+}

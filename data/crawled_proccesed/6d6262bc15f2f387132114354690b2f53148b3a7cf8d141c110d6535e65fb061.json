@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d6262bc15f2f387132114354690b2f53148b3a7cf8d141c110d6535e65fb061",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NicoBZH_-_Richard_Stallman_%28by-sa%29_%2810%29.jpg/220px-NicoBZH_-_Richard_Stallman_%28by-sa%29_%2810%29.jpg",
+			"previous": " ",
+			"after": " Stallman has written many essays on software freedom and has been an outspoken political campaigner for the free software movement since the early 1990s 13 The speeches he has regularly given are titled The GNU Project and the Free Software Movement 37 The Dangers of Software Patents 38 and Copyright and Community in the Age of Computer Networks 39 In 2006 and 2007 during the eighteen month public consultation for the drafting of version 3 of the GNU General Public License he added a fourth topic explaining the proposed changes 40 ",
+			"after_weights": " Stallman|1 has|0.98901 written|0.97802 many|0.96703 essays|0.95604 on|0.94505 software|0.93407 freedom|0.92308 and|0.91209 has|0.9011 been|0.89011 an|0.87912 outspoken|0.86813 political|0.85714 campaigner|0.84615 for|0.83516 the|0.82418 free|0.81319 software|0.8022 movement|0.79121 since|0.78022 the|0.76923 early|0.75824 1990s|0.74725 13|0.73626 The|0.72527 speeches|0.71429 he|0.7033 has|0.69231 regularly|0.68132 given|0.67033 are|0.65934 titled|0.64835 The|0.63736 GNU|0.62637 Project|0.61538 and|0.6044 the|0.59341 Free|0.58242 Software|0.57143 Movement|0.56044 37|0.54945 The|0.53846 Dangers|0.52747 of|0.51648 Software|0.50549 Patents|0.49451 38|0.48352 and|0.47253 Copyright|0.46154 and|0.45055 Community|0.43956 in|0.42857 the|0.41758 Age|0.40659 of|0.3956 Computer|0.38462 Networks|0.37363 39|0.36264 In|0.35165 2006|0.34066 and|0.32967 2007|0.31868 during|0.30769 the|0.2967 eighteen|0.28571 month|0.27473 public|0.26374 consultation|0.25275 for|0.24176 the|0.23077 drafting|0.21978 of|0.20879 version|0.1978 3|0.18681 of|0.17582 the|0.16484 GNU|0.15385 General|0.14286 Public|0.13187 License|0.12088 he|0.10989 added|0.098901 a|0.087912 fourth|0.076923 topic|0.065934 explaining|0.054945 the|0.043956 proposed|0.032967 changes|0.021978 40|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

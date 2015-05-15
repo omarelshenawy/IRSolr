@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5353e142ec898233f398061a2a5736cfb21240df71eaf12c3d98028ba8dbc585",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hohenzollernbr%C3%BCcke_K%C3%B6ln.jpg/300px-Hohenzollernbr%C3%BCcke_K%C3%B6ln.jpg",
+			"previous": " Portal Arts Featured picture 11",
+			"after": " The Hohenzollern Bridge crossing the Rhine in Cologne Germany with the Cologne Cathedral in the background The bridge is a tied arch railway bridge as well as a pedestrian bridge Originally built in 1911 it survived numerous Allied bombings in World War II only to be destroyed by German engineers as the war drew to a close Reconstruction began soon after and the bridge was opened to pedestrian traffic in 1948 then completely opened in 1959 ",
+			"after_weights": " The|1 Hohenzollern|0.98684 Bridge|0.97368 crossing|0.96053 the|0.94737 Rhine|0.93421 in|0.92105 Cologne|0.90789 Germany|0.89474 with|0.88158 the|0.86842 Cologne|0.85526 Cathedral|0.84211 in|0.82895 the|0.81579 background|0.80263 The|0.78947 bridge|0.77632 is|0.76316 a|0.75 tied|0.73684 arch|0.72368 railway|0.71053 bridge|0.69737 as|0.68421 well|0.67105 as|0.65789 a|0.64474 pedestrian|0.63158 bridge|0.61842 Originally|0.60526 built|0.59211 in|0.57895 1911|0.56579 it|0.55263 survived|0.53947 numerous|0.52632 Allied|0.51316 bombings|0.5 in|0.48684 World|0.47368 War|0.46053 II|0.44737 only|0.43421 to|0.42105 be|0.40789 destroyed|0.39474 by|0.38158 German|0.36842 engineers|0.35526 as|0.34211 the|0.32895 war|0.31579 drew|0.30263 to|0.28947 a|0.27632 close|0.26316 Reconstruction|0.25 began|0.23684 soon|0.22368 after|0.21053 and|0.19737 the|0.18421 bridge|0.17105 was|0.15789 opened|0.14474 to|0.13158 pedestrian|0.11842 traffic|0.10526 in|0.092105 1948|0.078947 then|0.065789 completely|0.052632 opened|0.039474 in|0.026316 1959|0.013158 |0",
+			"previous_weights": " Portal|0 Arts|0.25 Featured|0.5 picture|0.75 11|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "20529a02fe85b2b837d430bd99053be3e7207ae78f6c3b246194e40adba636b0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NamibiaMehrsprachigkeit.jpg/220px-NamibiaMehrsprachigkeit.jpg",
+			"previous": " ",
+			"after": " Since 1991 English is the only official language though only about 3 of the population speaks it as a home language Its implementation is focused on the civil service education and the broadcasting system 92 ",
+			"after_weights": " Since|1 1991|0.97143 English|0.94286 is|0.91429 the|0.88571 only|0.85714 official|0.82857 language|0.8 though|0.77143 only|0.74286 about|0.71429 3|0.68571 of|0.65714 the|0.62857 population|0.6 speaks|0.57143 it|0.54286 as|0.51429 a|0.48571 home|0.45714 language|0.42857 Its|0.4 implementation|0.37143 is|0.34286 focused|0.31429 on|0.28571 the|0.25714 civil|0.22857 service|0.2 education|0.17143 and|0.14286 the|0.11429 broadcasting|0.085714 system|0.057143 92|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

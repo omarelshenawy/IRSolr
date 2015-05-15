@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0d9d622233d46f8ff75858eb956bfec51795e89cb4641f4b61d2a2ce03df35a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Freesat_iPlayer_home.jpg/220px-Freesat_iPlayer_home.jpg",
+			"previous": " ",
+			"after": " Video on demand VOD or audio and video on demand AVOD are systems which allow users to select and watch listen to video or audio content when they choose to rather than having to watch at a specific broadcast time IPTV technology is often used to bring video on demand to televisions and personal computers 1 ",
+			"after_weights": " Video|1 on|0.98214 demand|0.96429 VOD|0.94643 or|0.92857 audio|0.91071 and|0.89286 video|0.875 on|0.85714 demand|0.83929 AVOD|0.82143 are|0.80357 systems|0.78571 which|0.76786 allow|0.75 users|0.73214 to|0.71429 select|0.69643 and|0.67857 watch|0.66071 listen|0.64286 to|0.625 video|0.60714 or|0.58929 audio|0.57143 content|0.55357 when|0.53571 they|0.51786 choose|0.5 to|0.48214 rather|0.46429 than|0.44643 having|0.42857 to|0.41071 watch|0.39286 at|0.375 a|0.35714 specific|0.33929 broadcast|0.32143 time|0.30357 IPTV|0.28571 technology|0.26786 is|0.25 often|0.23214 used|0.21429 to|0.19643 bring|0.17857 video|0.16071 on|0.14286 demand|0.125 to|0.10714 televisions|0.089286 and|0.071429 personal|0.053571 computers|0.035714 1|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5603a1fd0b025a8b8940aaf15adeef1f41a6e66decfe0e3e36297dd3c9ce7f8e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Web_2.0_Map.svg/300px-Web_2.0_Map.svg.png",
+			"previous": " ",
+			"after": " Web 2 0 describes World Wide Web sites that emphasize user generated content usability and interoperability The term was popularized by Tim O Reilly and Dale Dougherty at the O Reilly Media Web 2 0 Conference in late 2004 though it was first coined by Darcy DiNucci in 1999 1 2 3 4 Although Web 2 0 suggests a new version of the World Wide Web it does not refer to an update to any technical specification but rather to cumulative changes in the way Web pages are made and used ",
+			"after_weights": " Web|1 2|0.98901 0|0.97802 describes|0.96703 World|0.95604 Wide|0.94505 Web|0.93407 sites|0.92308 that|0.91209 emphasize|0.9011 user|0.89011 generated|0.87912 content|0.86813 usability|0.85714 and|0.84615 interoperability|0.83516 The|0.82418 term|0.81319 was|0.8022 popularized|0.79121 by|0.78022 Tim|0.76923 O|0.75824 Reilly|0.74725 and|0.73626 Dale|0.72527 Dougherty|0.71429 at|0.7033 the|0.69231 O|0.68132 Reilly|0.67033 Media|0.65934 Web|0.64835 2|0.63736 0|0.62637 Conference|0.61538 in|0.6044 late|0.59341 2004|0.58242 though|0.57143 it|0.56044 was|0.54945 first|0.53846 coined|0.52747 by|0.51648 Darcy|0.50549 DiNucci|0.49451 in|0.48352 1999|0.47253 1|0.46154 2|0.45055 3|0.43956 4|0.42857 Although|0.41758 Web|0.40659 2|0.3956 0|0.38462 suggests|0.37363 a|0.36264 new|0.35165 version|0.34066 of|0.32967 the|0.31868 World|0.30769 Wide|0.2967 Web|0.28571 it|0.27473 does|0.26374 not|0.25275 refer|0.24176 to|0.23077 an|0.21978 update|0.20879 to|0.1978 any|0.18681 technical|0.17582 specification|0.16484 but|0.15385 rather|0.14286 to|0.13187 cumulative|0.12088 changes|0.10989 in|0.098901 the|0.087912 way|0.076923 Web|0.065934 pages|0.054945 are|0.043956 made|0.032967 and|0.021978 used|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

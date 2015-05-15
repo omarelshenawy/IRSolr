@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a8bc132162b02dfdf22ba02d8af964aee0880002412c8445deab7484d1057e83",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Abecedarium_anguliscum_scan.jpg/350px-Abecedarium_anguliscum_scan.jpg",
+			"previous": " Another futhorc row is found in Cotton Galba A ii ",
+			"after": " The 9th century Codex Sangallensis 878 attributed to Walahfrid Strabo records an abecedarium anguliscum in three lines The first two lines list the standard 29 runes i e the 24 derived from Elder Futhark and the five standard additional ones io ea The listing order of the final two of the elder 24 runes is d g el A peculiarity is the asterisk shape of eolh The third line lists gar and kalc before a doodling repetition of other runes ",
+			"after_weights": " The|1 9th|0.9875 century|0.975 Codex|0.9625 Sangallensis|0.95 878|0.9375 attributed|0.925 to|0.9125 Walahfrid|0.9 Strabo|0.8875 records|0.875 an|0.8625 abecedarium|0.85 anguliscum|0.8375 in|0.825 three|0.8125 lines|0.8 The|0.7875 first|0.775 two|0.7625 lines|0.75 list|0.7375 the|0.725 standard|0.7125 29|0.7 runes|0.6875 i|0.675 e|0.6625 the|0.65 24|0.6375 derived|0.625 from|0.6125 Elder|0.6 Futhark|0.5875 and|0.575 the|0.5625 five|0.55 standard|0.5375 additional|0.525 ones|0.5125 io|0.5 ea|0.4875 The|0.475 listing|0.4625 order|0.45 of|0.4375 the|0.425 final|0.4125 two|0.4 of|0.3875 the|0.375 elder|0.3625 24|0.35 runes|0.3375 is|0.325 d|0.3125 g|0.3 el|0.2875 A|0.275 peculiarity|0.2625 is|0.25 the|0.2375 asterisk|0.225 shape|0.2125 of|0.2 eolh|0.1875 The|0.175 third|0.1625 line|0.15 lists|0.1375 gar|0.125 and|0.1125 kalc|0.1 before|0.0875 a|0.075 doodling|0.0625 repetition|0.05 of|0.0375 other|0.025 runes|0.0125 |0",
+			"previous_weights": " Another|0 futhorc|0.1 row|0.2 is|0.3 found|0.4 in|0.5 Cotton|0.6 Galba|0.7 A|0.8 ii|0.9 |1"
+		}
+	}
+}

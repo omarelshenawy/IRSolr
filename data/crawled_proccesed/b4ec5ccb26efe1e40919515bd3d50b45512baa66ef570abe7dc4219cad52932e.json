@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b4ec5ccb26efe1e40919515bd3d50b45512baa66ef570abe7dc4219cad52932e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Un-kenya.png/220px-Un-kenya.png",
+			"previous": " ",
+			"after": " At 580 367 km2 224 081 sq mi 2 Kenya is the world s forty seventh largest country after Madagascar It lies between latitudes 5 N and 5 S and longitudes 34 and 42 E From the coast on the Indian Ocean the low plains rise to central highlands The highlands are bisected by the Great Rift Valley with a fertile plateau lying to the east ",
+			"after_weights": " At|1 580|0.98485 367|0.9697 km2|0.95455 224|0.93939 081|0.92424 sq|0.90909 mi|0.89394 2|0.87879 Kenya|0.86364 is|0.84848 the|0.83333 world|0.81818 s|0.80303 forty|0.78788 seventh|0.77273 largest|0.75758 country|0.74242 after|0.72727 Madagascar|0.71212 It|0.69697 lies|0.68182 between|0.66667 latitudes|0.65152 5|0.63636 N|0.62121 and|0.60606 5|0.59091 S|0.57576 and|0.56061 longitudes|0.54545 34|0.5303 and|0.51515 42|0.5 E|0.48485 From|0.4697 the|0.45455 coast|0.43939 on|0.42424 the|0.40909 Indian|0.39394 Ocean|0.37879 the|0.36364 low|0.34848 plains|0.33333 rise|0.31818 to|0.30303 central|0.28788 highlands|0.27273 The|0.25758 highlands|0.24242 are|0.22727 bisected|0.21212 by|0.19697 the|0.18182 Great|0.16667 Rift|0.15152 Valley|0.13636 with|0.12121 a|0.10606 fertile|0.090909 plateau|0.075758 lying|0.060606 to|0.045455 the|0.030303 east|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

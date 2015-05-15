@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b8aa8792ce89d5b2548cf9e198c5b627b568cd98d5c780995135120fec953879",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rammstein_Live_at_Madison_Square_Garden.jpg/220px-Rammstein_Live_at_Madison_Square_Garden.jpg",
+			"previous": " These bands range from genres of death metal deathcore metalcore doom metal black metal and a capella metal ",
+			"after": " Neue Deutsche H rte engl New German Hardness is a term for extremely popular German wave of Industrial metal It combines the common sound of metal with electronic samples and is mostly sung with German lyrics It draws its audience from both the metalheads and goth scene Some bands like Rammstein or Oomph have gained mainstream success Other famous artists include Stahlhammer from Austria Megaherz Unheilig Eisbrecher Tanzwut and Joachim Witt ",
+			"after_weights": " Neue|1 Deutsche|0.98592 H|0.97183 rte|0.95775 engl|0.94366 New|0.92958 German|0.91549 Hardness|0.90141 is|0.88732 a|0.87324 term|0.85915 for|0.84507 extremely|0.83099 popular|0.8169 German|0.80282 wave|0.78873 of|0.77465 Industrial|0.76056 metal|0.74648 It|0.73239 combines|0.71831 the|0.70423 common|0.69014 sound|0.67606 of|0.66197 metal|0.64789 with|0.6338 electronic|0.61972 samples|0.60563 and|0.59155 is|0.57746 mostly|0.56338 sung|0.5493 with|0.53521 German|0.52113 lyrics|0.50704 It|0.49296 draws|0.47887 its|0.46479 audience|0.4507 from|0.43662 both|0.42254 the|0.40845 metalheads|0.39437 and|0.38028 goth|0.3662 scene|0.35211 Some|0.33803 bands|0.32394 like|0.30986 Rammstein|0.29577 or|0.28169 Oomph|0.26761 have|0.25352 gained|0.23944 mainstream|0.22535 success|0.21127 Other|0.19718 famous|0.1831 artists|0.16901 include|0.15493 Stahlhammer|0.14085 from|0.12676 Austria|0.11268 Megaherz|0.098592 Unheilig|0.084507 Eisbrecher|0.070423 Tanzwut|0.056338 and|0.042254 Joachim|0.028169 Witt|0.014085 |0",
+			"previous_weights": " These|0 bands|0.055556 range|0.11111 from|0.16667 genres|0.22222 of|0.27778 death|0.33333 metal|0.38889 deathcore|0.44444 metalcore|0.5 doom|0.55556 metal|0.61111 black|0.66667 metal|0.72222 and|0.77778 a|0.83333 capella|0.88889 metal|0.94444 |1"
+		}
+	}
+}

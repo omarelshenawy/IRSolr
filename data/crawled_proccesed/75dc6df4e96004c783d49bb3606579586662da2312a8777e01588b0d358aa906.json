@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "75dc6df4e96004c783d49bb3606579586662da2312a8777e01588b0d358aa906",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/170px-Wikipedia-logo-v2.svg.png",
+			"previous": " ",
+			"after": " The English Wikipedia which was started in 2001 became the world s largest encyclopedia in 2004 at the 300 000 article stage 19 and by late 2005 Wikipedia had produced over two million articles in more than 80 languages with content licensed under the copyleft GNU Free Documentation License As of August 2009 Wikipedia had over 3 million articles in English and well over 10 million combined in over 250 languages Wikipedia currently has 4 869 600 articles in English Since 2003 other free encyclopedias like the Chinese language Baidu Baike and Hudong as well as English language encyclopedias like Citizendium and Knol have appeared Knol has been discontinued ",
+			"after_weights": " The|1 English|0.99083 Wikipedia|0.98165 which|0.97248 was|0.9633 started|0.95413 in|0.94495 2001|0.93578 became|0.92661 the|0.91743 world|0.90826 s|0.89908 largest|0.88991 encyclopedia|0.88073 in|0.87156 2004|0.86239 at|0.85321 the|0.84404 300|0.83486 000|0.82569 article|0.81651 stage|0.80734 19|0.79817 and|0.78899 by|0.77982 late|0.77064 2005|0.76147 Wikipedia|0.75229 had|0.74312 produced|0.73394 over|0.72477 two|0.7156 million|0.70642 articles|0.69725 in|0.68807 more|0.6789 than|0.66972 80|0.66055 languages|0.65138 with|0.6422 content|0.63303 licensed|0.62385 under|0.61468 the|0.6055 copyleft|0.59633 GNU|0.58716 Free|0.57798 Documentation|0.56881 License|0.55963 As|0.55046 of|0.54128 August|0.53211 2009|0.52294 Wikipedia|0.51376 had|0.50459 over|0.49541 3|0.48624 million|0.47706 articles|0.46789 in|0.45872 English|0.44954 and|0.44037 well|0.43119 over|0.42202 10|0.41284 million|0.40367 combined|0.3945 in|0.38532 over|0.37615 250|0.36697 languages|0.3578 Wikipedia|0.34862 currently|0.33945 has|0.33028 4|0.3211 869|0.31193 600|0.30275 articles|0.29358 in|0.2844 English|0.27523 Since|0.26606 2003|0.25688 other|0.24771 free|0.23853 encyclopedias|0.22936 like|0.22018 the|0.21101 Chinese|0.20183 language|0.19266 Baidu|0.18349 Baike|0.17431 and|0.16514 Hudong|0.15596 as|0.14679 well|0.13761 as|0.12844 English|0.11927 language|0.11009 encyclopedias|0.10092 like|0.091743 Citizendium|0.082569 and|0.073394 Knol|0.06422 have|0.055046 appeared|0.045872 Knol|0.036697 has|0.027523 been|0.018349 discontinued|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

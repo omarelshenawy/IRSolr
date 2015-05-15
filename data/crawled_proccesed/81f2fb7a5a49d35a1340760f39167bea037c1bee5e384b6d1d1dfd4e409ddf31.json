@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "81f2fb7a5a49d35a1340760f39167bea037c1bee5e384b6d1d1dfd4e409ddf31",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Church_of_Scientology_Tampa.jpg/220px-Church_of_Scientology_Tampa.jpg",
+			"previous": " In 2012 the Ideal Center of Scientology for the Middle East opened in a refurbished historic building in Jaffa Israel 177 ",
+			"after": " A number of Scientology organizations specialize in promoting the use of Scientology technology as a means to solve social problems ",
+			"after_weights": " A|1 number|0.95 of|0.9 Scientology|0.85 organizations|0.8 specialize|0.75 in|0.7 promoting|0.65 the|0.6 use|0.55 of|0.5 Scientology|0.45 technology|0.4 as|0.35 a|0.3 means|0.25 to|0.2 solve|0.15 social|0.1 problems|0.05 |0",
+			"previous_weights": " In|0 2012|0.047619 the|0.095238 Ideal|0.14286 Center|0.19048 of|0.2381 Scientology|0.28571 for|0.33333 the|0.38095 Middle|0.42857 East|0.47619 opened|0.52381 in|0.57143 a|0.61905 refurbished|0.66667 historic|0.71429 building|0.7619 in|0.80952 Jaffa|0.85714 Israel|0.90476 177|0.95238 |1"
+		}
+	}
+}

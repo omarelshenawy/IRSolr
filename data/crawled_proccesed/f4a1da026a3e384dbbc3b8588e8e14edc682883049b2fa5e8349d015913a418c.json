@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f4a1da026a3e384dbbc3b8588e8e14edc682883049b2fa5e8349d015913a418c",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/MongoosePlay.jpg/220px-MongoosePlay.jpg",
+			"previous": " ",
+			"after": " Saint Kitts and Nevis is known for a number of musical celebrations including Carnival 18 December to 3 January on Saint Kitts The last week in June features the St Kitts Music Festival while the week long Culturama on Nevis lasts from the end of July into early August 20 ",
+			"after_weights": " Saint|1 Kitts|0.98 and|0.96 Nevis|0.94 is|0.92 known|0.9 for|0.88 a|0.86 number|0.84 of|0.82 musical|0.8 celebrations|0.78 including|0.76 Carnival|0.74 18|0.72 December|0.7 to|0.68 3|0.66 January|0.64 on|0.62 Saint|0.6 Kitts|0.58 The|0.56 last|0.54 week|0.52 in|0.5 June|0.48 features|0.46 the|0.44 St|0.42 Kitts|0.4 Music|0.38 Festival|0.36 while|0.34 the|0.32 week|0.3 long|0.28 Culturama|0.26 on|0.24 Nevis|0.22 lasts|0.2 from|0.18 the|0.16 end|0.14 of|0.12 July|0.1 into|0.08 early|0.06 August|0.04 20|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

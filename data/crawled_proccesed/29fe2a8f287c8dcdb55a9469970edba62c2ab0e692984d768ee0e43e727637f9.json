@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "29fe2a8f287c8dcdb55a9469970edba62c2ab0e692984d768ee0e43e727637f9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mayamap.png/220px-Mayamap.png",
+			"previous": " ",
+			"after": " The Maya civilisation emerged at least three millennia ago in the lowland area of the Yucat n Peninsula and the highlands to the south in what is now southeastern Mexico Belize Guatemala and western Honduras Many aspects of this culture persist in the area despite nearly 500 years of European domination Prior to about 2500 BCE some hunting and foraging bands settled in small farming villages they later domesticated crops such as corn beans squash and chili peppers ",
+			"after_weights": " The|1 Maya|0.98718 civilisation|0.97436 emerged|0.96154 at|0.94872 least|0.9359 three|0.92308 millennia|0.91026 ago|0.89744 in|0.88462 the|0.87179 lowland|0.85897 area|0.84615 of|0.83333 the|0.82051 Yucat|0.80769 n|0.79487 Peninsula|0.78205 and|0.76923 the|0.75641 highlands|0.74359 to|0.73077 the|0.71795 south|0.70513 in|0.69231 what|0.67949 is|0.66667 now|0.65385 southeastern|0.64103 Mexico|0.62821 Belize|0.61538 Guatemala|0.60256 and|0.58974 western|0.57692 Honduras|0.5641 Many|0.55128 aspects|0.53846 of|0.52564 this|0.51282 culture|0.5 persist|0.48718 in|0.47436 the|0.46154 area|0.44872 despite|0.4359 nearly|0.42308 500|0.41026 years|0.39744 of|0.38462 European|0.37179 domination|0.35897 Prior|0.34615 to|0.33333 about|0.32051 2500|0.30769 BCE|0.29487 some|0.28205 hunting|0.26923 and|0.25641 foraging|0.24359 bands|0.23077 settled|0.21795 in|0.20513 small|0.19231 farming|0.17949 villages|0.16667 they|0.15385 later|0.14103 domesticated|0.12821 crops|0.11538 such|0.10256 as|0.089744 corn|0.076923 beans|0.064103 squash|0.051282 and|0.038462 chili|0.025641 peppers|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

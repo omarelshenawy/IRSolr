@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "db486ec9fba743e85cef63d48ffe7cf64876fa0b7c3b8a18705314ea11cf757d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Map_of_South_Africa_with_English_labels.svg/350px-Map_of_South_Africa_with_English_labels.svg.png",
+			"previous": " ",
+			"after": " Each of the nine provinces is governed by a unicameral legislature which is elected every five years by party list proportional representation The legislature elects a Premier as head of government and the Premier appoints an Executive Council as a provincial cabinet The powers of provincial governments are limited to topics listed in the Constitution these topics include such fields as health education public housing and transport ",
+			"after_weights": " Each|1 of|0.98507 the|0.97015 nine|0.95522 provinces|0.9403 is|0.92537 governed|0.91045 by|0.89552 a|0.8806 unicameral|0.86567 legislature|0.85075 which|0.83582 is|0.8209 elected|0.80597 every|0.79104 five|0.77612 years|0.76119 by|0.74627 party|0.73134 list|0.71642 proportional|0.70149 representation|0.68657 The|0.67164 legislature|0.65672 elects|0.64179 a|0.62687 Premier|0.61194 as|0.59701 head|0.58209 of|0.56716 government|0.55224 and|0.53731 the|0.52239 Premier|0.50746 appoints|0.49254 an|0.47761 Executive|0.46269 Council|0.44776 as|0.43284 a|0.41791 provincial|0.40299 cabinet|0.38806 The|0.37313 powers|0.35821 of|0.34328 provincial|0.32836 governments|0.31343 are|0.29851 limited|0.28358 to|0.26866 topics|0.25373 listed|0.23881 in|0.22388 the|0.20896 Constitution|0.19403 these|0.1791 topics|0.16418 include|0.14925 such|0.13433 fields|0.1194 as|0.10448 health|0.089552 education|0.074627 public|0.059701 housing|0.044776 and|0.029851 transport|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

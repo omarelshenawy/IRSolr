@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "30cf75ef8fd8b03cff43868e448ad93d5eb58a76bb97704820b08abbf0c0cdef",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Donald_Tusk_2013-12-19.jpg/125px-Donald_Tusk_2013-12-19.jpg",
+			"previous": " ",
+			"after": " The European Council gives direction to the EU and convenes at least four times a year It comprises the President of the European Council the President of the European Commission and one representative per member state either its head of state or head of government The European Council has been described by some as the Union s supreme political authority 83 It is actively involved in the negotiation of the treaty changes and defines the EU s policy agenda and strategies ",
+			"after_weights": " The|1 European|0.98765 Council|0.97531 gives|0.96296 direction|0.95062 to|0.93827 the|0.92593 EU|0.91358 and|0.90123 convenes|0.88889 at|0.87654 least|0.8642 four|0.85185 times|0.83951 a|0.82716 year|0.81481 It|0.80247 comprises|0.79012 the|0.77778 President|0.76543 of|0.75309 the|0.74074 European|0.7284 Council|0.71605 the|0.7037 President|0.69136 of|0.67901 the|0.66667 European|0.65432 Commission|0.64198 and|0.62963 one|0.61728 representative|0.60494 per|0.59259 member|0.58025 state|0.5679 either|0.55556 its|0.54321 head|0.53086 of|0.51852 state|0.50617 or|0.49383 head|0.48148 of|0.46914 government|0.45679 The|0.44444 European|0.4321 Council|0.41975 has|0.40741 been|0.39506 described|0.38272 by|0.37037 some|0.35802 as|0.34568 the|0.33333 Union|0.32099 s|0.30864 supreme|0.2963 political|0.28395 authority|0.2716 83|0.25926 It|0.24691 is|0.23457 actively|0.22222 involved|0.20988 in|0.19753 the|0.18519 negotiation|0.17284 of|0.16049 the|0.14815 treaty|0.1358 changes|0.12346 and|0.11111 defines|0.098765 the|0.08642 EU|0.074074 s|0.061728 policy|0.049383 agenda|0.037037 and|0.024691 strategies|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "41fe5bce6bb124de49deab3e52dc41f92739c1c038e33d1cb3ea1a891153e637",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/StormontCarson.jpg/220px-StormontCarson.jpg",
+			"previous": " ",
+			"after": " Northern Ireland is a part of the United Kingdom with a local executive and assembly which exercise devolved powers The executive is jointly headed by the first and deputy first minister with the ministries being allocated in proportion with each party s representation in the assembly Its capital is Belfast ",
+			"after_weights": " Northern|1 Ireland|0.98 is|0.96 a|0.94 part|0.92 of|0.9 the|0.88 United|0.86 Kingdom|0.84 with|0.82 a|0.8 local|0.78 executive|0.76 and|0.74 assembly|0.72 which|0.7 exercise|0.68 devolved|0.66 powers|0.64 The|0.62 executive|0.6 is|0.58 jointly|0.56 headed|0.54 by|0.52 the|0.5 first|0.48 and|0.46 deputy|0.44 first|0.42 minister|0.4 with|0.38 the|0.36 ministries|0.34 being|0.32 allocated|0.3 in|0.28 proportion|0.26 with|0.24 each|0.22 party|0.2 s|0.18 representation|0.16 in|0.14 the|0.12 assembly|0.1 Its|0.08 capital|0.06 is|0.04 Belfast|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

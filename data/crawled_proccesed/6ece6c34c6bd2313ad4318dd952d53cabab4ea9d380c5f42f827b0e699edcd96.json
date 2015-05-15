@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ece6c34c6bd2313ad4318dd952d53cabab4ea9d380c5f42f827b0e699edcd96",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Y%27allMap.jpg/300px-Y%27allMap.jpg",
+			"previous": " The following features are commonly associated with the Southern dialects of the U S ",
+			"after": " These grammatical features are characteristic of both older Southern American English and newer Southern American English ",
+			"after_weights": " These|1 grammatical|0.9375 features|0.875 are|0.8125 characteristic|0.75 of|0.6875 both|0.625 older|0.5625 Southern|0.5 American|0.4375 English|0.375 and|0.3125 newer|0.25 Southern|0.1875 American|0.125 English|0.0625 |0",
+			"previous_weights": " The|0 following|0.071429 features|0.14286 are|0.21429 commonly|0.28571 associated|0.35714 with|0.42857 the|0.5 Southern|0.57143 dialects|0.64286 of|0.71429 the|0.78571 U|0.85714 S|0.92857 |1"
+		}
+	}
+}

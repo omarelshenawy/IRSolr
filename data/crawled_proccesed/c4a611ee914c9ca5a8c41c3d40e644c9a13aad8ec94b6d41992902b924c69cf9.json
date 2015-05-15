@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c4a611ee914c9ca5a8c41c3d40e644c9a13aad8ec94b6d41992902b924c69cf9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Thinker_Musee_Rodin.jpg/150px-The_Thinker_Musee_Rodin.jpg",
+			"previous": " ",
+			"after": " Thought or thinking is a mental process which allows beings to model the world and so to deal with it effectively according to their goals plans ends and desires Words referring to similar concepts and processes in the English language include cognition sentience consciousness idea and imagination Thinking involves the cerebral manipulation of information as when we form concepts engage in problem solving reason and make decisions Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology ",
+			"after_weights": " Thought|1 or|0.9881 thinking|0.97619 is|0.96429 a|0.95238 mental|0.94048 process|0.92857 which|0.91667 allows|0.90476 beings|0.89286 to|0.88095 model|0.86905 the|0.85714 world|0.84524 and|0.83333 so|0.82143 to|0.80952 deal|0.79762 with|0.78571 it|0.77381 effectively|0.7619 according|0.75 to|0.7381 their|0.72619 goals|0.71429 plans|0.70238 ends|0.69048 and|0.67857 desires|0.66667 Words|0.65476 referring|0.64286 to|0.63095 similar|0.61905 concepts|0.60714 and|0.59524 processes|0.58333 in|0.57143 the|0.55952 English|0.54762 language|0.53571 include|0.52381 cognition|0.5119 sentience|0.5 consciousness|0.4881 idea|0.47619 and|0.46429 imagination|0.45238 Thinking|0.44048 involves|0.42857 the|0.41667 cerebral|0.40476 manipulation|0.39286 of|0.38095 information|0.36905 as|0.35714 when|0.34524 we|0.33333 form|0.32143 concepts|0.30952 engage|0.29762 in|0.28571 problem|0.27381 solving|0.2619 reason|0.25 and|0.2381 make|0.22619 decisions|0.21429 Thinking|0.20238 is|0.19048 a|0.17857 higher|0.16667 cognitive|0.15476 function|0.14286 and|0.13095 the|0.11905 analysis|0.10714 of|0.095238 thinking|0.083333 processes|0.071429 is|0.059524 part|0.047619 of|0.035714 cognitive|0.02381 psychology|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

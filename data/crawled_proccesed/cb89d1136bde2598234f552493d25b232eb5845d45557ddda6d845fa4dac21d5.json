@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cb89d1136bde2598234f552493d25b232eb5845d45557ddda6d845fa4dac21d5",
+			"url": "https://upload.wikimedia.org/math/b/b/8/bb833da0e142908a84cb3c6d782d0896.png",
+			"previous": " The exponential function satisfies the linear differential equation  This allows an exponentially growing variable to be modeled with a log linear model For example if one wishes to empirically estimate the growth rate from intertemporal data on x one can linearly regress log x on t ",
+			"after": " saying that the growth rate of x at time t is proportional to the value of x t and it has the initial value The differential equation is solved by direct integration ",
+			"after_weights": " saying|1 that|0.96875 the|0.9375 growth|0.90625 rate|0.875 of|0.84375 x|0.8125 at|0.78125 time|0.75 t|0.71875 is|0.6875 proportional|0.65625 to|0.625 the|0.59375 value|0.5625 of|0.53125 x|0.5 t|0.46875 and|0.4375 it|0.40625 has|0.375 the|0.34375 initial|0.3125 value|0.28125 The|0.25 differential|0.21875 equation|0.1875 is|0.15625 solved|0.125 by|0.09375 direct|0.0625 integration|0.03125 |0",
+			"previous_weights": " The|0 exponential|0.021277 function|0.042553 satisfies|0.06383 the|0.085106 linear|0.10638 differential|0.12766 equation|0.14894 |0.17021 This|0.19149 allows|0.21277 an|0.23404 exponentially|0.25532 growing|0.2766 variable|0.29787 to|0.31915 be|0.34043 modeled|0.3617 with|0.38298 a|0.40426 log|0.42553 linear|0.44681 model|0.46809 For|0.48936 example|0.51064 if|0.53191 one|0.55319 wishes|0.57447 to|0.59574 empirically|0.61702 estimate|0.6383 the|0.65957 growth|0.68085 rate|0.70213 from|0.7234 intertemporal|0.74468 data|0.76596 on|0.78723 x|0.80851 one|0.82979 can|0.85106 linearly|0.87234 regress|0.89362 log|0.91489 x|0.93617 on|0.95745 t|0.97872 |1"
+		}
+	}
+}

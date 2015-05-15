@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f1667d75571049fe7a69e83c87d25bef0f05ee4e2822b8c78702ea2b72ba3a85",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/SOPA_tweets_23.00_UTC_18_January_2012.png/270px-SOPA_tweets_23.00_UTC_18_January_2012.png",
+			"previous": " On January 17 2012 in response to growing concerns over PIPA and SOPA the White House stated that it will not support legislation that reduces freedom of expression increases cybersecurity risk or undermines the dynamic innovative global internet 2 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " On|0 January|0.025641 17|0.051282 2012|0.076923 in|0.10256 response|0.12821 to|0.15385 growing|0.17949 concerns|0.20513 over|0.23077 PIPA|0.25641 and|0.28205 SOPA|0.30769 the|0.33333 White|0.35897 House|0.38462 stated|0.41026 that|0.4359 it|0.46154 will|0.48718 not|0.51282 support|0.53846 legislation|0.5641 that|0.58974 reduces|0.61538 freedom|0.64103 of|0.66667 expression|0.69231 increases|0.71795 cybersecurity|0.74359 risk|0.76923 or|0.79487 undermines|0.82051 the|0.84615 dynamic|0.87179 innovative|0.89744 global|0.92308 internet|0.94872 2|0.97436 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "54d88a6ee82f85ac4e5b675de98cfe246f7a4154c3fa04e07be6cc3c47f7afce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Citizen-Einstein.jpg/220px-Citizen-Einstein.jpg",
+			"previous": " ",
+			"after": " Einstein became an American citizen in 1940 Not long after settling into his career at the Institute for Advanced Study in Princeton New Jersey he expressed his appreciation of the meritocracy in American culture when compared to Europe He recognized the right of individuals to say and think what they pleased without social barriers and as a result individuals were encouraged he said to be more creative a trait he valued from his own early education 90 ",
+			"after_weights": " Einstein|1 became|0.98701 an|0.97403 American|0.96104 citizen|0.94805 in|0.93506 1940|0.92208 Not|0.90909 long|0.8961 after|0.88312 settling|0.87013 into|0.85714 his|0.84416 career|0.83117 at|0.81818 the|0.80519 Institute|0.79221 for|0.77922 Advanced|0.76623 Study|0.75325 in|0.74026 Princeton|0.72727 New|0.71429 Jersey|0.7013 he|0.68831 expressed|0.67532 his|0.66234 appreciation|0.64935 of|0.63636 the|0.62338 meritocracy|0.61039 in|0.5974 American|0.58442 culture|0.57143 when|0.55844 compared|0.54545 to|0.53247 Europe|0.51948 He|0.50649 recognized|0.49351 the|0.48052 right|0.46753 of|0.45455 individuals|0.44156 to|0.42857 say|0.41558 and|0.4026 think|0.38961 what|0.37662 they|0.36364 pleased|0.35065 without|0.33766 social|0.32468 barriers|0.31169 and|0.2987 as|0.28571 a|0.27273 result|0.25974 individuals|0.24675 were|0.23377 encouraged|0.22078 he|0.20779 said|0.19481 to|0.18182 be|0.16883 more|0.15584 creative|0.14286 a|0.12987 trait|0.11688 he|0.1039 valued|0.090909 from|0.077922 his|0.064935 own|0.051948 early|0.038961 education|0.025974 90|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

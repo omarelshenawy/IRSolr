@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "47072a9d7c578925523c58e8b50b5db4e5dd540d16d0b7ae83367c50feb4ed42",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Elizabeth1SpainSacramentoCA.jpg/170px-Elizabeth1SpainSacramentoCA.jpg",
+			"previous": " The most iconic image of Columbus is a portrait by Sebastiano del Piombo which has been reproduced in many textbooks It agrees with descriptions of Columbus in that it shows a large man with auburn hair but the painting dates from 1519 and cannot therefore have been painted from life Furthermore the inscription identifying the subject as Columbus was probably added later and the face shown differs from other images including that of the Virgin of the Navigators 124 ",
+			"after": " Columbus an important historical figure has been depicted in fiction cinema and television and in other media and entertainment such as stage plays music cartoons and games  In games In literature",
+			"after_weights": " Columbus|1 an|0.96774 important|0.93548 historical|0.90323 figure|0.87097 has|0.83871 been|0.80645 depicted|0.77419 in|0.74194 fiction|0.70968 cinema|0.67742 and|0.64516 television|0.6129 and|0.58065 in|0.54839 other|0.51613 media|0.48387 and|0.45161 entertainment|0.41935 such|0.3871 as|0.35484 stage|0.32258 plays|0.29032 music|0.25806 cartoons|0.22581 and|0.19355 games|0.16129 |0.12903 In|0.096774 games|0.064516 In|0.032258 literature|0",
+			"previous_weights": " The|0 most|0.012658 iconic|0.025316 image|0.037975 of|0.050633 Columbus|0.063291 is|0.075949 a|0.088608 portrait|0.10127 by|0.11392 Sebastiano|0.12658 del|0.13924 Piombo|0.1519 which|0.16456 has|0.17722 been|0.18987 reproduced|0.20253 in|0.21519 many|0.22785 textbooks|0.24051 It|0.25316 agrees|0.26582 with|0.27848 descriptions|0.29114 of|0.3038 Columbus|0.31646 in|0.32911 that|0.34177 it|0.35443 shows|0.36709 a|0.37975 large|0.39241 man|0.40506 with|0.41772 auburn|0.43038 hair|0.44304 but|0.4557 the|0.46835 painting|0.48101 dates|0.49367 from|0.50633 1519|0.51899 and|0.53165 cannot|0.5443 therefore|0.55696 have|0.56962 been|0.58228 painted|0.59494 from|0.60759 life|0.62025 Furthermore|0.63291 the|0.64557 inscription|0.65823 identifying|0.67089 the|0.68354 subject|0.6962 as|0.70886 Columbus|0.72152 was|0.73418 probably|0.74684 added|0.75949 later|0.77215 and|0.78481 the|0.79747 face|0.81013 shown|0.82278 differs|0.83544 from|0.8481 other|0.86076 images|0.87342 including|0.88608 that|0.89873 of|0.91139 the|0.92405 Virgin|0.93671 of|0.94937 the|0.96203 Navigators|0.97468 124|0.98734 |1"
+		}
+	}
+}

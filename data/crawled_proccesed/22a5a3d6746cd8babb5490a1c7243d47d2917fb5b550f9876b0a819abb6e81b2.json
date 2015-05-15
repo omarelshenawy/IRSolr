@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "22a5a3d6746cd8babb5490a1c7243d47d2917fb5b550f9876b0a819abb6e81b2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Desktop-Linux-Mint.png/220px-Desktop-Linux-Mint.png",
+			"previous": " ",
+			"after": " Free and open source software FOSS is computer software that can be classified as both free software and open source software 1 2 That is anyone is freely licensed to use copy study and change the software in any way and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software 3 This is in contrast to proprietary software where the software is under restrictive copyright and the source code is usually hidden from the users ",
+			"after_weights": " Free|1 and|0.98824 open|0.97647 source|0.96471 software|0.95294 FOSS|0.94118 is|0.92941 computer|0.91765 software|0.90588 that|0.89412 can|0.88235 be|0.87059 classified|0.85882 as|0.84706 both|0.83529 free|0.82353 software|0.81176 and|0.8 open|0.78824 source|0.77647 software|0.76471 1|0.75294 2|0.74118 That|0.72941 is|0.71765 anyone|0.70588 is|0.69412 freely|0.68235 licensed|0.67059 to|0.65882 use|0.64706 copy|0.63529 study|0.62353 and|0.61176 change|0.6 the|0.58824 software|0.57647 in|0.56471 any|0.55294 way|0.54118 and|0.52941 the|0.51765 source|0.50588 code|0.49412 is|0.48235 openly|0.47059 shared|0.45882 so|0.44706 that|0.43529 people|0.42353 are|0.41176 encouraged|0.4 to|0.38824 voluntarily|0.37647 improve|0.36471 the|0.35294 design|0.34118 of|0.32941 the|0.31765 software|0.30588 3|0.29412 This|0.28235 is|0.27059 in|0.25882 contrast|0.24706 to|0.23529 proprietary|0.22353 software|0.21176 where|0.2 the|0.18824 software|0.17647 is|0.16471 under|0.15294 restrictive|0.14118 copyright|0.12941 and|0.11765 the|0.10588 source|0.094118 code|0.082353 is|0.070588 usually|0.058824 hidden|0.047059 from|0.035294 the|0.023529 users|0.011765 |0",
+			"previous_weights": " "
+		}
+	}
+}

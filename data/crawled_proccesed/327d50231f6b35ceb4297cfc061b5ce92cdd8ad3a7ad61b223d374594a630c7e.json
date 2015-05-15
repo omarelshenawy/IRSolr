@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "327d50231f6b35ceb4297cfc061b5ce92cdd8ad3a7ad61b223d374594a630c7e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/FEMA_-_3905_-_Photograph_by_SFC_Thomas_R._Roberts_taken_on_09-14-2001_in_New_York.jpg/220px-FEMA_-_3905_-_Photograph_by_SFC_Thomas_R._Roberts_taken_on_09-14-2001_in_New_York.jpg",
+			"previous": " ",
+			"after": " The September 11 terrorist attacks were a major turning point in Bush s presidency That evening he addressed the nation from the Oval Office promising a strong response to the attacks He also emphasized the need for the nation to come together and comfort the families of the victims On September 14 he visited Ground Zero meeting with Mayor Rudy Giuliani firefighters police officers and volunteers Bush addressed the gathering via a megaphone while standing on a heap of rubble to much applause I can hear you The rest of the world hears you And the people who knocked these buildings down will hear all of us soon 234 ",
+			"after_weights": " The|1 September|0.99083 11|0.98165 terrorist|0.97248 attacks|0.9633 were|0.95413 a|0.94495 major|0.93578 turning|0.92661 point|0.91743 in|0.90826 Bush|0.89908 s|0.88991 presidency|0.88073 That|0.87156 evening|0.86239 he|0.85321 addressed|0.84404 the|0.83486 nation|0.82569 from|0.81651 the|0.80734 Oval|0.79817 Office|0.78899 promising|0.77982 a|0.77064 strong|0.76147 response|0.75229 to|0.74312 the|0.73394 attacks|0.72477 He|0.7156 also|0.70642 emphasized|0.69725 the|0.68807 need|0.6789 for|0.66972 the|0.66055 nation|0.65138 to|0.6422 come|0.63303 together|0.62385 and|0.61468 comfort|0.6055 the|0.59633 families|0.58716 of|0.57798 the|0.56881 victims|0.55963 On|0.55046 September|0.54128 14|0.53211 he|0.52294 visited|0.51376 Ground|0.50459 Zero|0.49541 meeting|0.48624 with|0.47706 Mayor|0.46789 Rudy|0.45872 Giuliani|0.44954 firefighters|0.44037 police|0.43119 officers|0.42202 and|0.41284 volunteers|0.40367 Bush|0.3945 addressed|0.38532 the|0.37615 gathering|0.36697 via|0.3578 a|0.34862 megaphone|0.33945 while|0.33028 standing|0.3211 on|0.31193 a|0.30275 heap|0.29358 of|0.2844 rubble|0.27523 to|0.26606 much|0.25688 applause|0.24771 I|0.23853 can|0.22936 hear|0.22018 you|0.21101 The|0.20183 rest|0.19266 of|0.18349 the|0.17431 world|0.16514 hears|0.15596 you|0.14679 And|0.13761 the|0.12844 people|0.11927 who|0.11009 knocked|0.10092 these|0.091743 buildings|0.082569 down|0.073394 will|0.06422 hear|0.055046 all|0.045872 of|0.036697 us|0.027523 soon|0.018349 234|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

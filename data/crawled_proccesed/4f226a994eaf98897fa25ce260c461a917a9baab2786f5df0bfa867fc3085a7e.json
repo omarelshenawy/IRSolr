@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f226a994eaf98897fa25ce260c461a917a9baab2786f5df0bfa867fc3085a7e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Unibas_JF-frontside.jpg/150px-Unibas_JF-frontside.jpg",
+			"previous": " ",
+			"after": " Basel hosts Switzerland s oldest university the University of Basel dating from 1460 Erasmus Paracelsus Daniel Bernoulli Leonhard Euler Jacob Burckhardt Friedrich Nietzsche and Karl Barth worked here ",
+			"after_weights": " Basel|1 hosts|0.96429 Switzerland|0.92857 s|0.89286 oldest|0.85714 university|0.82143 the|0.78571 University|0.75 of|0.71429 Basel|0.67857 dating|0.64286 from|0.60714 1460|0.57143 Erasmus|0.53571 Paracelsus|0.5 Daniel|0.46429 Bernoulli|0.42857 Leonhard|0.39286 Euler|0.35714 Jacob|0.32143 Burckhardt|0.28571 Friedrich|0.25 Nietzsche|0.21429 and|0.17857 Karl|0.14286 Barth|0.10714 worked|0.071429 here|0.035714 |0",
+			"previous_weights": " "
+		}
+	}
+}

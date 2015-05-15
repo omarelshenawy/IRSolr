@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5d2944147898714a96785a47f18bf510d64b60b2d37cc2a9d365aaa95e7f8a91",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/WGClaytor.gif",
+			"previous": " ",
+			"after": " Unlike many large businesses subsequent to its formation Amtrak has had only one active investor the U S government Like most investors the federal government has demanded a degree of accountability Determination of congressional funding and selection of Amtrak s leadership have been infused with political considerations As discussed below funding levels and capital support have varied over time ",
+			"after_weights": " Unlike|1 many|0.98305 large|0.9661 businesses|0.94915 subsequent|0.9322 to|0.91525 its|0.89831 formation|0.88136 Amtrak|0.86441 has|0.84746 had|0.83051 only|0.81356 one|0.79661 active|0.77966 investor|0.76271 the|0.74576 U|0.72881 S|0.71186 government|0.69492 Like|0.67797 most|0.66102 investors|0.64407 the|0.62712 federal|0.61017 government|0.59322 has|0.57627 demanded|0.55932 a|0.54237 degree|0.52542 of|0.50847 accountability|0.49153 Determination|0.47458 of|0.45763 congressional|0.44068 funding|0.42373 and|0.40678 selection|0.38983 of|0.37288 Amtrak|0.35593 s|0.33898 leadership|0.32203 have|0.30508 been|0.28814 infused|0.27119 with|0.25424 political|0.23729 considerations|0.22034 As|0.20339 discussed|0.18644 below|0.16949 funding|0.15254 levels|0.13559 and|0.11864 capital|0.10169 support|0.084746 have|0.067797 varied|0.050847 over|0.033898 time|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

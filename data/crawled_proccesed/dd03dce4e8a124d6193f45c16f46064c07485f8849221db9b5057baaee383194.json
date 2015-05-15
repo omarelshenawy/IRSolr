@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "dd03dce4e8a124d6193f45c16f46064c07485f8849221db9b5057baaee383194",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shakespeare_grave_-Stratford-upon-Avon_-3June2007.jpg/220px-Shakespeare_grave_-Stratford-upon-Avon_-3June2007.jpg",
+			"previous": " Shakespeare was buried in the chancel of the Holy Trinity Church two days after his death 78 The epitaph carved into the stone slab covering his grave includes a curse against moving his bones which was carefully avoided during restoration of the church in 2008 79 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Shakespeare|0 was|0.021739 buried|0.043478 in|0.065217 the|0.086957 chancel|0.1087 of|0.13043 the|0.15217 Holy|0.17391 Trinity|0.19565 Church|0.21739 two|0.23913 days|0.26087 after|0.28261 his|0.30435 death|0.32609 78|0.34783 The|0.36957 epitaph|0.3913 carved|0.41304 into|0.43478 the|0.45652 stone|0.47826 slab|0.5 covering|0.52174 his|0.54348 grave|0.56522 includes|0.58696 a|0.6087 curse|0.63043 against|0.65217 moving|0.67391 his|0.69565 bones|0.71739 which|0.73913 was|0.76087 carefully|0.78261 avoided|0.80435 during|0.82609 restoration|0.84783 of|0.86957 the|0.8913 church|0.91304 in|0.93478 2008|0.95652 79|0.97826 |1"
+		}
+	}
+}

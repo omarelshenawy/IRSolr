@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f28d9c685bad26bcb6dbbdf3fd1d51b8e995392ab761fa3798635e1e4d2db2cc",
+			"url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Cambridge_Advanced_Learner%27s_Dictionary_3rd.jpeg",
+			"previous": " ",
+			"after": " Cambridge Advanced Learner s Dictionary was first published in 1995 under the name Cambridge International Dictionary of English by the Cambridge University Press The dictionary has over 140 000 words phrases and meanings It is suitable for learners at CEF levels B2 C2 ",
+			"after_weights": " Cambridge|1 Advanced|0.97674 Learner|0.95349 s|0.93023 Dictionary|0.90698 was|0.88372 first|0.86047 published|0.83721 in|0.81395 1995|0.7907 under|0.76744 the|0.74419 name|0.72093 Cambridge|0.69767 International|0.67442 Dictionary|0.65116 of|0.62791 English|0.60465 by|0.5814 the|0.55814 Cambridge|0.53488 University|0.51163 Press|0.48837 The|0.46512 dictionary|0.44186 has|0.4186 over|0.39535 140|0.37209 000|0.34884 words|0.32558 phrases|0.30233 and|0.27907 meanings|0.25581 It|0.23256 is|0.2093 suitable|0.18605 for|0.16279 learners|0.13953 at|0.11628 CEF|0.093023 levels|0.069767 B2|0.046512 C2|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

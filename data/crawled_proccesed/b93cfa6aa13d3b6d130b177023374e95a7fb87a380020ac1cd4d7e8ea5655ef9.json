@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b93cfa6aa13d3b6d130b177023374e95a7fb87a380020ac1cd4d7e8ea5655ef9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rdf_graph_for_Eric_Miller.png/220px-Rdf_graph_for_Eric_Miller.png",
+			"previous": " The following example is taken from the W3C website 25 describing a resource with statements there is a Person identified by http www w3 org People EM contact me whose name is Eric Miller whose email address is e miller123 at example changed for security purposes and whose title is Dr ",
+			"after": " The resource http www w3 org People EM contact me is the subject ",
+			"after_weights": " The|1 resource|0.92308 http|0.84615 www|0.76923 w3|0.69231 org|0.61538 People|0.53846 EM|0.46154 contact|0.38462 me|0.30769 is|0.23077 the|0.15385 subject|0.076923 |0",
+			"previous_weights": " The|0 following|0.019608 example|0.039216 is|0.058824 taken|0.078431 from|0.098039 the|0.11765 W3C|0.13725 website|0.15686 25|0.17647 describing|0.19608 a|0.21569 resource|0.23529 with|0.2549 statements|0.27451 there|0.29412 is|0.31373 a|0.33333 Person|0.35294 identified|0.37255 by|0.39216 http|0.41176 www|0.43137 w3|0.45098 org|0.47059 People|0.4902 EM|0.5098 contact|0.52941 me|0.54902 whose|0.56863 name|0.58824 is|0.60784 Eric|0.62745 Miller|0.64706 whose|0.66667 email|0.68627 address|0.70588 is|0.72549 e|0.7451 miller123|0.76471 at|0.78431 example|0.80392 changed|0.82353 for|0.84314 security|0.86275 purposes|0.88235 and|0.90196 whose|0.92157 title|0.94118 is|0.96078 Dr|0.98039 |1"
+		}
+	}
+}

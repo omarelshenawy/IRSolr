@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bcb9b3ea2a935ed1463e96abb167349b282eb46205835099252dc95b83ed004",
+			"url": "https://upload.wikimedia.org/math/6/7/8/6782e84d8898616a9f28ec20ac0fb676.png",
+			"previous": " Precision and recall are single value metrics based on the whole list of documents returned by the system For systems that return a ranked sequence of documents it is desirable to also consider the order in which the returned documents are presented By computing a precision and recall at every position in the ranked sequence of documents one can plot a precision recall curve plotting precision as a function of recall Average precision computes the average value of over the interval from to 6 ",
+			"after": " That is the area under the precision recall curve This integral is in practice replaced with a finite sum over every position in the ranked sequence of documents ",
+			"after_weights": " That|1 is|0.96429 the|0.92857 area|0.89286 under|0.85714 the|0.82143 precision|0.78571 recall|0.75 curve|0.71429 This|0.67857 integral|0.64286 is|0.60714 in|0.57143 practice|0.53571 replaced|0.5 with|0.46429 a|0.42857 finite|0.39286 sum|0.35714 over|0.32143 every|0.28571 position|0.25 in|0.21429 the|0.17857 ranked|0.14286 sequence|0.10714 of|0.071429 documents|0.035714 |0",
+			"previous_weights": " Precision|0 and|0.011905 recall|0.02381 are|0.035714 single|0.047619 value|0.059524 metrics|0.071429 based|0.083333 on|0.095238 the|0.10714 whole|0.11905 list|0.13095 of|0.14286 documents|0.15476 returned|0.16667 by|0.17857 the|0.19048 system|0.20238 For|0.21429 systems|0.22619 that|0.2381 return|0.25 a|0.2619 ranked|0.27381 sequence|0.28571 of|0.29762 documents|0.30952 it|0.32143 is|0.33333 desirable|0.34524 to|0.35714 also|0.36905 consider|0.38095 the|0.39286 order|0.40476 in|0.41667 which|0.42857 the|0.44048 returned|0.45238 documents|0.46429 are|0.47619 presented|0.4881 By|0.5 computing|0.5119 a|0.52381 precision|0.53571 and|0.54762 recall|0.55952 at|0.57143 every|0.58333 position|0.59524 in|0.60714 the|0.61905 ranked|0.63095 sequence|0.64286 of|0.65476 documents|0.66667 one|0.67857 can|0.69048 plot|0.70238 a|0.71429 precision|0.72619 recall|0.7381 curve|0.75 plotting|0.7619 precision|0.77381 as|0.78571 a|0.79762 function|0.80952 of|0.82143 recall|0.83333 Average|0.84524 precision|0.85714 computes|0.86905 the|0.88095 average|0.89286 value|0.90476 of|0.91667 over|0.92857 the|0.94048 interval|0.95238 from|0.96429 to|0.97619 6|0.9881 |1"
+		}
+	}
+}

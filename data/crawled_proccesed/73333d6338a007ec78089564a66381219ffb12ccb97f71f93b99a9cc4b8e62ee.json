@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "73333d6338a007ec78089564a66381219ffb12ccb97f71f93b99a9cc4b8e62ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neanderthal_DNA_extraction.jpg/220px-Neanderthal_DNA_extraction.jpg",
+			"previous": " In 1997 geneticists were able to extract a short sequence of DNA from Neanderthal bones 95 The extraction of mtDNA from a second specimen was reported in 2000 and showed no sign of modern human descent from Neanderthals 51 ",
+			"after": " In July 2006 the Max Planck Institute for Evolutionary Anthropology and 454 Life Sciences announced that they would sequence the Neanderthal genome over the next two years This genome was expected to be roughly the size of the human genome three billion base pairs and share most of its genes It was hoped the comparison would expand understanding of Neanderthals as well as the evolution of humans and human brains 96 ",
+			"after_weights": " In|1 July|0.98592 2006|0.97183 the|0.95775 Max|0.94366 Planck|0.92958 Institute|0.91549 for|0.90141 Evolutionary|0.88732 Anthropology|0.87324 and|0.85915 454|0.84507 Life|0.83099 Sciences|0.8169 announced|0.80282 that|0.78873 they|0.77465 would|0.76056 sequence|0.74648 the|0.73239 Neanderthal|0.71831 genome|0.70423 over|0.69014 the|0.67606 next|0.66197 two|0.64789 years|0.6338 This|0.61972 genome|0.60563 was|0.59155 expected|0.57746 to|0.56338 be|0.5493 roughly|0.53521 the|0.52113 size|0.50704 of|0.49296 the|0.47887 human|0.46479 genome|0.4507 three|0.43662 billion|0.42254 base|0.40845 pairs|0.39437 and|0.38028 share|0.3662 most|0.35211 of|0.33803 its|0.32394 genes|0.30986 It|0.29577 was|0.28169 hoped|0.26761 the|0.25352 comparison|0.23944 would|0.22535 expand|0.21127 understanding|0.19718 of|0.1831 Neanderthals|0.16901 as|0.15493 well|0.14085 as|0.12676 the|0.11268 evolution|0.098592 of|0.084507 humans|0.070423 and|0.056338 human|0.042254 brains|0.028169 96|0.014085 |0",
+			"previous_weights": " In|0 1997|0.025641 geneticists|0.051282 were|0.076923 able|0.10256 to|0.12821 extract|0.15385 a|0.17949 short|0.20513 sequence|0.23077 of|0.25641 DNA|0.28205 from|0.30769 Neanderthal|0.33333 bones|0.35897 95|0.38462 The|0.41026 extraction|0.4359 of|0.46154 mtDNA|0.48718 from|0.51282 a|0.53846 second|0.5641 specimen|0.58974 was|0.61538 reported|0.64103 in|0.66667 2000|0.69231 and|0.71795 showed|0.74359 no|0.76923 sign|0.79487 of|0.82051 modern|0.84615 human|0.87179 descent|0.89744 from|0.92308 Neanderthals|0.94872 51|0.97436 |1"
+		}
+	}
+}

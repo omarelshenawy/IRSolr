@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a10c621ce968ca142d2bfc518309a2c27c2384b7a75f2997686309c2f2cf3bdb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Scott-anaconda.jpg/330px-Scott-anaconda.jpg",
+			"previous": " ",
+			"after": " By early 1861 General Winfield Scott had devised the Anaconda Plan to win the war with as little bloodshed as possible 152 Scott argued that a Union blockade of the main ports would weaken the Confederate economy Lincoln adopted parts of the plan but he overruled Scott s caution about 90 day volunteers Public opinion however demanded an immediate attack by the army to capture Richmond 153 ",
+			"after_weights": " By|1 early|0.98507 1861|0.97015 General|0.95522 Winfield|0.9403 Scott|0.92537 had|0.91045 devised|0.89552 the|0.8806 Anaconda|0.86567 Plan|0.85075 to|0.83582 win|0.8209 the|0.80597 war|0.79104 with|0.77612 as|0.76119 little|0.74627 bloodshed|0.73134 as|0.71642 possible|0.70149 152|0.68657 Scott|0.67164 argued|0.65672 that|0.64179 a|0.62687 Union|0.61194 blockade|0.59701 of|0.58209 the|0.56716 main|0.55224 ports|0.53731 would|0.52239 weaken|0.50746 the|0.49254 Confederate|0.47761 economy|0.46269 Lincoln|0.44776 adopted|0.43284 parts|0.41791 of|0.40299 the|0.38806 plan|0.37313 but|0.35821 he|0.34328 overruled|0.32836 Scott|0.31343 s|0.29851 caution|0.28358 about|0.26866 90|0.25373 day|0.23881 volunteers|0.22388 Public|0.20896 opinion|0.19403 however|0.1791 demanded|0.16418 an|0.14925 immediate|0.13433 attack|0.1194 by|0.10448 the|0.089552 army|0.074627 to|0.059701 capture|0.044776 Richmond|0.029851 153|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

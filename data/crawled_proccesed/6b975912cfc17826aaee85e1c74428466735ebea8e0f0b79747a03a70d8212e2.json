@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b975912cfc17826aaee85e1c74428466735ebea8e0f0b79747a03a70d8212e2",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/WSJ._Magazine_April_2014_Issue.jpg/220px-WSJ._Magazine_April_2014_Issue.jpg",
+			"previous": " WSJ is The Wall Street Journal s luxury lifestyle magazine Its coverage spans art fashion entertainment design food architecture travel and more Kristina O Neill is Editor in Chief and Anthony Cenname is Publisher ",
+			"after": " Launched as a quarterly in 2008 the magazine grew to 12 issues a year for 2014 39 The magazine is distributed within the U S Weekend Edition of The Wall Street Journal newspaper average paid print circulation is 2 2 million the European and Asian editions and is available on WSJ com Each issue is also available throughout the month in The Wall Street Journal s iPad app ",
+			"after_weights": " Launched|1 as|0.98529 a|0.97059 quarterly|0.95588 in|0.94118 2008|0.92647 the|0.91176 magazine|0.89706 grew|0.88235 to|0.86765 12|0.85294 issues|0.83824 a|0.82353 year|0.80882 for|0.79412 2014|0.77941 39|0.76471 The|0.75 magazine|0.73529 is|0.72059 distributed|0.70588 within|0.69118 the|0.67647 U|0.66176 S|0.64706 Weekend|0.63235 Edition|0.61765 of|0.60294 The|0.58824 Wall|0.57353 Street|0.55882 Journal|0.54412 newspaper|0.52941 average|0.51471 paid|0.5 print|0.48529 circulation|0.47059 is|0.45588 2|0.44118 2|0.42647 million|0.41176 the|0.39706 European|0.38235 and|0.36765 Asian|0.35294 editions|0.33824 and|0.32353 is|0.30882 available|0.29412 on|0.27941 WSJ|0.26471 com|0.25 Each|0.23529 issue|0.22059 is|0.20588 also|0.19118 available|0.17647 throughout|0.16176 the|0.14706 month|0.13235 in|0.11765 The|0.10294 Wall|0.088235 Street|0.073529 Journal|0.058824 s|0.044118 iPad|0.029412 app|0.014706 |0",
+			"previous_weights": " WSJ|0 is|0.029412 The|0.058824 Wall|0.088235 Street|0.11765 Journal|0.14706 s|0.17647 luxury|0.20588 lifestyle|0.23529 magazine|0.26471 Its|0.29412 coverage|0.32353 spans|0.35294 art|0.38235 fashion|0.41176 entertainment|0.44118 design|0.47059 food|0.5 architecture|0.52941 travel|0.55882 and|0.58824 more|0.61765 Kristina|0.64706 O|0.67647 Neill|0.70588 is|0.73529 Editor|0.76471 in|0.79412 Chief|0.82353 and|0.85294 Anthony|0.88235 Cenname|0.91176 is|0.94118 Publisher|0.97059 |1"
+		}
+	}
+}

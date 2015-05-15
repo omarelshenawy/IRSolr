@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ef78597097f4967eb2623f50619e22cd6990b4ee77a467bfccbdbca93093027",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Q%26A_with_James_Heilman_on_teaching_with_Wikipedia.webm/275px--Q%26A_with_James_Heilman_on_teaching_with_Wikipedia.webm.jpg",
+			"previous": " ",
+			"after": " James Heilman is a Canadian emergency physician Wikipedian and advocate for the improvement of Wikipedia s health related content He encourages other clinicians to contribute to the online encyclopaedia 2 3 ",
+			"after_weights": " James|1 Heilman|0.96774 is|0.93548 a|0.90323 Canadian|0.87097 emergency|0.83871 physician|0.80645 Wikipedian|0.77419 and|0.74194 advocate|0.70968 for|0.67742 the|0.64516 improvement|0.6129 of|0.58065 Wikipedia|0.54839 s|0.51613 health|0.48387 related|0.45161 content|0.41935 He|0.3871 encourages|0.35484 other|0.32258 clinicians|0.29032 to|0.25806 contribute|0.22581 to|0.19355 the|0.16129 online|0.12903 encyclopaedia|0.096774 2|0.064516 3|0.032258 |0",
+			"previous_weights": " "
+		}
+	}
+}

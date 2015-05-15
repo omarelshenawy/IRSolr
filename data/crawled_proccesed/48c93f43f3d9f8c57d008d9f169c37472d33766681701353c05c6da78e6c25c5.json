@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "48c93f43f3d9f8c57d008d9f169c37472d33766681701353c05c6da78e6c25c5",
+			"url": "https://upload.wikimedia.org/math/a/b/8/ab887121f5a5a1cb4432aca8ec5ae80e.png",
+			"previous": " Another application of logistic curve is in medicine where the logistic differential equation is used to model the growth of tumors This application can be considered an extension of the above mentioned use in the framework of ecology see also the Generalized logistic curve allowing for more parameters Denoting with X t the size of the tumor at time t its dynamics are governed by ",
+			"after": " which is of the type ",
+			"after_weights": " which|1 is|0.8 of|0.6 the|0.4 type|0.2 |0",
+			"previous_weights": " Another|0 application|0.015385 of|0.030769 logistic|0.046154 curve|0.061538 is|0.076923 in|0.092308 medicine|0.10769 where|0.12308 the|0.13846 logistic|0.15385 differential|0.16923 equation|0.18462 is|0.2 used|0.21538 to|0.23077 model|0.24615 the|0.26154 growth|0.27692 of|0.29231 tumors|0.30769 This|0.32308 application|0.33846 can|0.35385 be|0.36923 considered|0.38462 an|0.4 extension|0.41538 of|0.43077 the|0.44615 above|0.46154 mentioned|0.47692 use|0.49231 in|0.50769 the|0.52308 framework|0.53846 of|0.55385 ecology|0.56923 see|0.58462 also|0.6 the|0.61538 Generalized|0.63077 logistic|0.64615 curve|0.66154 allowing|0.67692 for|0.69231 more|0.70769 parameters|0.72308 Denoting|0.73846 with|0.75385 X|0.76923 t|0.78462 the|0.8 size|0.81538 of|0.83077 the|0.84615 tumor|0.86154 at|0.87692 time|0.89231 t|0.90769 its|0.92308 dynamics|0.93846 are|0.95385 governed|0.96923 by|0.98462 |1"
+		}
+	}
+}

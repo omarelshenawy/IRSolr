@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ff15166eba2c432918e6caf76dfa686229e71a6b291b510e0a92d23b4797a69",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Geo-datos.jpeg",
+			"previous": " ",
+			"after": " The foundation places a strong interest in the use of open source technologies Its software projects are hosted on GitHub which utilises the Git version control software Some of the projects are listed below 23 ",
+			"after_weights": " The|1 foundation|0.97143 places|0.94286 a|0.91429 strong|0.88571 interest|0.85714 in|0.82857 the|0.8 use|0.77143 of|0.74286 open|0.71429 source|0.68571 technologies|0.65714 Its|0.62857 software|0.6 projects|0.57143 are|0.54286 hosted|0.51429 on|0.48571 GitHub|0.45714 which|0.42857 utilises|0.4 the|0.37143 Git|0.34286 version|0.31429 control|0.28571 software|0.25714 Some|0.22857 of|0.2 the|0.17143 projects|0.14286 are|0.11429 listed|0.085714 below|0.057143 23|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a155d13947f98eee6baffc6707d9adbf8ea5e7a8e8e8ce69fac11df94882232",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MyosinUnrootedTree.jpg/340px-MyosinUnrootedTree.jpg",
+			"previous": " ",
+			"after": " Unrooted trees illustrate the relatedness of the leaf nodes without making assumptions about ancestry They do not require the ancestral root to be known or inferred 2 Unrooted trees can always be generated from rooted ones by simply omitting the root By contrast inferring the root of an unrooted tree requires some means of identifying ancestry This is normally done by including an outgroup in the input data so that the root is necessarily between the outgroup and the rest of the taxa in the tree or by introducing additional assumptions about the relative rates of evolution on each branch such as an application of the molecular clock hypothesis 3 ",
+			"after_weights": " Unrooted|1 trees|0.99091 illustrate|0.98182 the|0.97273 relatedness|0.96364 of|0.95455 the|0.94545 leaf|0.93636 nodes|0.92727 without|0.91818 making|0.90909 assumptions|0.9 about|0.89091 ancestry|0.88182 They|0.87273 do|0.86364 not|0.85455 require|0.84545 the|0.83636 ancestral|0.82727 root|0.81818 to|0.80909 be|0.8 known|0.79091 or|0.78182 inferred|0.77273 2|0.76364 Unrooted|0.75455 trees|0.74545 can|0.73636 always|0.72727 be|0.71818 generated|0.70909 from|0.7 rooted|0.69091 ones|0.68182 by|0.67273 simply|0.66364 omitting|0.65455 the|0.64545 root|0.63636 By|0.62727 contrast|0.61818 inferring|0.60909 the|0.6 root|0.59091 of|0.58182 an|0.57273 unrooted|0.56364 tree|0.55455 requires|0.54545 some|0.53636 means|0.52727 of|0.51818 identifying|0.50909 ancestry|0.5 This|0.49091 is|0.48182 normally|0.47273 done|0.46364 by|0.45455 including|0.44545 an|0.43636 outgroup|0.42727 in|0.41818 the|0.40909 input|0.4 data|0.39091 so|0.38182 that|0.37273 the|0.36364 root|0.35455 is|0.34545 necessarily|0.33636 between|0.32727 the|0.31818 outgroup|0.30909 and|0.3 the|0.29091 rest|0.28182 of|0.27273 the|0.26364 taxa|0.25455 in|0.24545 the|0.23636 tree|0.22727 or|0.21818 by|0.20909 introducing|0.2 additional|0.19091 assumptions|0.18182 about|0.17273 the|0.16364 relative|0.15455 rates|0.14545 of|0.13636 evolution|0.12727 on|0.11818 each|0.10909 branch|0.1 such|0.090909 as|0.081818 an|0.072727 application|0.063636 of|0.054545 the|0.045455 molecular|0.036364 clock|0.027273 hypothesis|0.018182 3|0.0090909 |0",
+			"previous_weights": " "
+		}
+	}
+}

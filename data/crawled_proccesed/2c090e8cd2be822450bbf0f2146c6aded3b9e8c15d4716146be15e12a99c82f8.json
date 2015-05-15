@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c090e8cd2be822450bbf0f2146c6aded3b9e8c15d4716146be15e12a99c82f8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PSM_V12_D400_Walter_Bagehot.jpg/220px-PSM_V12_D400_Walter_Bagehot.jpg",
+			"previous": " In January 2012 The Economist launched a new weekly section devoted exclusively to China the first new country section since the introduction of a section about the United States in 1942 23 ",
+			"after": " The editors of The Economist have been ",
+			"after_weights": " The|1 editors|0.85714 of|0.71429 The|0.57143 Economist|0.42857 have|0.28571 been|0.14286 |0",
+			"previous_weights": " In|0 January|0.03125 2012|0.0625 The|0.09375 Economist|0.125 launched|0.15625 a|0.1875 new|0.21875 weekly|0.25 section|0.28125 devoted|0.3125 exclusively|0.34375 to|0.375 China|0.40625 the|0.4375 first|0.46875 new|0.5 country|0.53125 section|0.5625 since|0.59375 the|0.625 introduction|0.65625 of|0.6875 a|0.71875 section|0.75 about|0.78125 the|0.8125 United|0.84375 States|0.875 in|0.90625 1942|0.9375 23|0.96875 |1"
+		}
+	}
+}

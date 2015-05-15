@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bed690b7c74a4786607a5a785f8fefa4b5b124114e9ae5f0ad0e8f47587a89d1",
+			"url": "https://upload.wikimedia.org/math/0/7/2/072cc7b185ff9befceae814f19f232af.png",
+			"previous": " Freshness This is a binary measure that indicates whether the local copy is accurate or not The freshness of a page p in the repository at time t is defined as ",
+			"after": " Age This is a measure that indicates how outdated the local copy is The age of a page p in the repository at time t is defined as ",
+			"after_weights": " Age|1 This|0.96429 is|0.92857 a|0.89286 measure|0.85714 that|0.82143 indicates|0.78571 how|0.75 outdated|0.71429 the|0.67857 local|0.64286 copy|0.60714 is|0.57143 The|0.53571 age|0.5 of|0.46429 a|0.42857 page|0.39286 p|0.35714 in|0.32143 the|0.28571 repository|0.25 at|0.21429 time|0.17857 t|0.14286 is|0.10714 defined|0.071429 as|0.035714 |0",
+			"previous_weights": " Freshness|0 This|0.032258 is|0.064516 a|0.096774 binary|0.12903 measure|0.16129 that|0.19355 indicates|0.22581 whether|0.25806 the|0.29032 local|0.32258 copy|0.35484 is|0.3871 accurate|0.41935 or|0.45161 not|0.48387 The|0.51613 freshness|0.54839 of|0.58065 a|0.6129 page|0.64516 p|0.67742 in|0.70968 the|0.74194 repository|0.77419 at|0.80645 time|0.83871 t|0.87097 is|0.90323 defined|0.93548 as|0.96774 |1"
+		}
+	}
+}

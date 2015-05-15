@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c5ae1b89fd231d8a473e003652aabf2623e4bfd4a51c3e2840af509eff214f28",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Radio_City_Tower%2C_Liverpool.jpg/220px-Radio_City_Tower%2C_Liverpool.jpg",
+			"previous": " ",
+			"after": " The ITV region which covers Liverpool is ITV Granada In 2006 the Television company opened a new newsroom in the Royal Liver Building Granada s regional news broadcasts were produced at the Albert Dock News Centre during the 1980s and 1990s 239 The BBC also opened a new newsroom on Hanover Street in 2006 ",
+			"after_weights": " The|1 ITV|0.98148 region|0.96296 which|0.94444 covers|0.92593 Liverpool|0.90741 is|0.88889 ITV|0.87037 Granada|0.85185 In|0.83333 2006|0.81481 the|0.7963 Television|0.77778 company|0.75926 opened|0.74074 a|0.72222 new|0.7037 newsroom|0.68519 in|0.66667 the|0.64815 Royal|0.62963 Liver|0.61111 Building|0.59259 Granada|0.57407 s|0.55556 regional|0.53704 news|0.51852 broadcasts|0.5 were|0.48148 produced|0.46296 at|0.44444 the|0.42593 Albert|0.40741 Dock|0.38889 News|0.37037 Centre|0.35185 during|0.33333 the|0.31481 1980s|0.2963 and|0.27778 1990s|0.25926 239|0.24074 The|0.22222 BBC|0.2037 also|0.18519 opened|0.16667 a|0.14815 new|0.12963 newsroom|0.11111 on|0.092593 Hanover|0.074074 Street|0.055556 in|0.037037 2006|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

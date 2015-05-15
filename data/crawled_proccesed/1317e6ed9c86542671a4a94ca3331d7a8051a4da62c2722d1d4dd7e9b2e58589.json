@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1317e6ed9c86542671a4a94ca3331d7a8051a4da62c2722d1d4dd7e9b2e58589",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/White_Nerdy_YOU_SUCK_cropped.jpg/250px-White_Nerdy_YOU_SUCK_cropped.jpg",
+			"previous": " ",
+			"after": " The character who is implied to be the nerd says that editing Wikipedia is one of his nerdy activities 9 In the video Al is shown editing the article Atlantic Records by typing in large letters YOU SUCK Thus Al takes revenge on the record company for refusing to let him include You re Pitiful a parody of James Blunt s song You re Beautiful on his new album This has prompted copycat vandalism of the Atlantic Records page which resulted in the page s being semi protected Yankovic has said I don t officially approve of the vandalism but on a certain level it does amuse me 10 ",
+			"after_weights": " The|1 character|0.99083 who|0.98165 is|0.97248 implied|0.9633 to|0.95413 be|0.94495 the|0.93578 nerd|0.92661 says|0.91743 that|0.90826 editing|0.89908 Wikipedia|0.88991 is|0.88073 one|0.87156 of|0.86239 his|0.85321 nerdy|0.84404 activities|0.83486 9|0.82569 In|0.81651 the|0.80734 video|0.79817 Al|0.78899 is|0.77982 shown|0.77064 editing|0.76147 the|0.75229 article|0.74312 Atlantic|0.73394 Records|0.72477 by|0.7156 typing|0.70642 in|0.69725 large|0.68807 letters|0.6789 YOU|0.66972 SUCK|0.66055 Thus|0.65138 Al|0.6422 takes|0.63303 revenge|0.62385 on|0.61468 the|0.6055 record|0.59633 company|0.58716 for|0.57798 refusing|0.56881 to|0.55963 let|0.55046 him|0.54128 include|0.53211 You|0.52294 re|0.51376 Pitiful|0.50459 a|0.49541 parody|0.48624 of|0.47706 James|0.46789 Blunt|0.45872 s|0.44954 song|0.44037 You|0.43119 re|0.42202 Beautiful|0.41284 on|0.40367 his|0.3945 new|0.38532 album|0.37615 This|0.36697 has|0.3578 prompted|0.34862 copycat|0.33945 vandalism|0.33028 of|0.3211 the|0.31193 Atlantic|0.30275 Records|0.29358 page|0.2844 which|0.27523 resulted|0.26606 in|0.25688 the|0.24771 page|0.23853 s|0.22936 being|0.22018 semi|0.21101 protected|0.20183 Yankovic|0.19266 has|0.18349 said|0.17431 I|0.16514 don|0.15596 t|0.14679 officially|0.13761 approve|0.12844 of|0.11927 the|0.11009 vandalism|0.10092 but|0.091743 on|0.082569 a|0.073394 certain|0.06422 level|0.055046 it|0.045872 does|0.036697 amuse|0.027523 me|0.018349 10|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d065756da9ef94d63380128055fa5aa930b2ff455367928d885f6b49a148da95",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cancer_requires_multiple_mutations_from_NIHen.png",
+			"previous": " ",
+			"after": " Cancer is fundamentally a disease of tissue growth regulation failure In order for a normal cell to transform into a cancer cell the genes that regulate cell growth and differentiation must be altered 59 ",
+			"after_weights": " Cancer|1 is|0.97059 fundamentally|0.94118 a|0.91176 disease|0.88235 of|0.85294 tissue|0.82353 growth|0.79412 regulation|0.76471 failure|0.73529 In|0.70588 order|0.67647 for|0.64706 a|0.61765 normal|0.58824 cell|0.55882 to|0.52941 transform|0.5 into|0.47059 a|0.44118 cancer|0.41176 cell|0.38235 the|0.35294 genes|0.32353 that|0.29412 regulate|0.26471 cell|0.23529 growth|0.20588 and|0.17647 differentiation|0.14706 must|0.11765 be|0.088235 altered|0.058824 59|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

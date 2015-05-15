@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "edb9d32f956c3eb3366a58ae8a1ce9973d338f96cb5f7310d7f865b157b18ef7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/IOS_8_Homescreen.png/170px-IOS_8_Homescreen.png",
+			"previous": " ",
+			"after": " The iPhone iPod Touch and iPad run an operating system known as iOS formerly iPhone OS It is a variant of the same Darwin operating system core that is found in Mac OS X Also included is the Core Animation software component from Mac OS X v10 5 Leopard Together with the PowerVR hardware and on the iPhone 3GS OpenGL ES 2 0 it is responsible for the interface s motion graphics The operating system takes up less than half a gigabyte 164 ",
+			"after_weights": " The|1 iPhone|0.98795 iPod|0.9759 Touch|0.96386 and|0.95181 iPad|0.93976 run|0.92771 an|0.91566 operating|0.90361 system|0.89157 known|0.87952 as|0.86747 iOS|0.85542 formerly|0.84337 iPhone|0.83133 OS|0.81928 It|0.80723 is|0.79518 a|0.78313 variant|0.77108 of|0.75904 the|0.74699 same|0.73494 Darwin|0.72289 operating|0.71084 system|0.6988 core|0.68675 that|0.6747 is|0.66265 found|0.6506 in|0.63855 Mac|0.62651 OS|0.61446 X|0.60241 Also|0.59036 included|0.57831 is|0.56627 the|0.55422 Core|0.54217 Animation|0.53012 software|0.51807 component|0.50602 from|0.49398 Mac|0.48193 OS|0.46988 X|0.45783 v10|0.44578 5|0.43373 Leopard|0.42169 Together|0.40964 with|0.39759 the|0.38554 PowerVR|0.37349 hardware|0.36145 and|0.3494 on|0.33735 the|0.3253 iPhone|0.31325 3GS|0.3012 OpenGL|0.28916 ES|0.27711 2|0.26506 0|0.25301 it|0.24096 is|0.22892 responsible|0.21687 for|0.20482 the|0.19277 interface|0.18072 s|0.16867 motion|0.15663 graphics|0.14458 The|0.13253 operating|0.12048 system|0.10843 takes|0.096386 up|0.084337 less|0.072289 than|0.060241 half|0.048193 a|0.036145 gigabyte|0.024096 164|0.012048 |0",
+			"previous_weights": " "
+		}
+	}
+}

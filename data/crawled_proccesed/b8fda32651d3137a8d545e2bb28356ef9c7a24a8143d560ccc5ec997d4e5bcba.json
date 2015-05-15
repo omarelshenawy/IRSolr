@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b8fda32651d3137a8d545e2bb28356ef9c7a24a8143d560ccc5ec997d4e5bcba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg/300px-MSH82_st_helens_plume_from_harrys_ridge_05-19-82.jpg",
+			"previous": " ",
+			"after": " Natural landform terrain or body of water Landforms are topographical elements and are defined by their surface form and location in the landscape Landforms are categorized by traits such as elevation slope orientation stratification rock exposure and soil type Some landforms are artificial such as certain islands but most landforms are natural ",
+			"after_weights": " Natural|1 landform|0.98077 terrain|0.96154 or|0.94231 body|0.92308 of|0.90385 water|0.88462 Landforms|0.86538 are|0.84615 topographical|0.82692 elements|0.80769 and|0.78846 are|0.76923 defined|0.75 by|0.73077 their|0.71154 surface|0.69231 form|0.67308 and|0.65385 location|0.63462 in|0.61538 the|0.59615 landscape|0.57692 Landforms|0.55769 are|0.53846 categorized|0.51923 by|0.5 traits|0.48077 such|0.46154 as|0.44231 elevation|0.42308 slope|0.40385 orientation|0.38462 stratification|0.36538 rock|0.34615 exposure|0.32692 and|0.30769 soil|0.28846 type|0.26923 Some|0.25 landforms|0.23077 are|0.21154 artificial|0.19231 such|0.17308 as|0.15385 certain|0.13462 islands|0.11538 but|0.096154 most|0.076923 landforms|0.057692 are|0.038462 natural|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

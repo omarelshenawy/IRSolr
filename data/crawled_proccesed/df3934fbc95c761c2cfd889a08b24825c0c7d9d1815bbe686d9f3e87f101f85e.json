@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "df3934fbc95c761c2cfd889a08b24825c0c7d9d1815bbe686d9f3e87f101f85e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Turks_%26_Caicos_National_Museum.jpg/220px-Turks_%26_Caicos_National_Museum.jpg",
+			"previous": " ",
+			"after": " The Turks and Caicos Islands are most well known for ripsaw music The islands are known for their annual Music and Cultural Festival showcasing many local talents and other dynamic performances by many music celebrities from around the Caribbean and United States ",
+			"after_weights": " The|1 Turks|0.97619 and|0.95238 Caicos|0.92857 Islands|0.90476 are|0.88095 most|0.85714 well|0.83333 known|0.80952 for|0.78571 ripsaw|0.7619 music|0.7381 The|0.71429 islands|0.69048 are|0.66667 known|0.64286 for|0.61905 their|0.59524 annual|0.57143 Music|0.54762 and|0.52381 Cultural|0.5 Festival|0.47619 showcasing|0.45238 many|0.42857 local|0.40476 talents|0.38095 and|0.35714 other|0.33333 dynamic|0.30952 performances|0.28571 by|0.2619 many|0.2381 music|0.21429 celebrities|0.19048 from|0.16667 around|0.14286 the|0.11905 Caribbean|0.095238 and|0.071429 United|0.047619 States|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

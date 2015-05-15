@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e139f36f18cf0a94626975a9677cf109ecbbc3d065226e6a33022ae9b3928afd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tesla_Model_S_digital_panels.jpg/150px-Tesla_Model_S_digital_panels.jpg",
+			"previous": " ",
+			"after": " Due to its low cost and ease of customization Linux is often used in embedded systems In the non mobile telecommunications equipment sector the majority of customer premises equipment CPE hardware runs some Linux based operating system OpenWrt is a community driven example upon which many of the OEM firmwares are based ",
+			"after_weights": " Due|1 to|0.98077 its|0.96154 low|0.94231 cost|0.92308 and|0.90385 ease|0.88462 of|0.86538 customization|0.84615 Linux|0.82692 is|0.80769 often|0.78846 used|0.76923 in|0.75 embedded|0.73077 systems|0.71154 In|0.69231 the|0.67308 non|0.65385 mobile|0.63462 telecommunications|0.61538 equipment|0.59615 sector|0.57692 the|0.55769 majority|0.53846 of|0.51923 customer|0.5 premises|0.48077 equipment|0.46154 CPE|0.44231 hardware|0.42308 runs|0.40385 some|0.38462 Linux|0.36538 based|0.34615 operating|0.32692 system|0.30769 OpenWrt|0.28846 is|0.26923 a|0.25 community|0.23077 driven|0.21154 example|0.19231 upon|0.17308 which|0.15385 many|0.13462 of|0.11538 the|0.096154 OEM|0.076923 firmwares|0.057692 are|0.038462 based|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

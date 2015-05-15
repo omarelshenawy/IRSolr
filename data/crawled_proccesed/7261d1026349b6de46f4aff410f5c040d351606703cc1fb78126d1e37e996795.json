@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7261d1026349b6de46f4aff410f5c040d351606703cc1fb78126d1e37e996795",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Heads_on_pikes.jpg/220px-Heads_on_pikes.jpg",
+			"previous": " ",
+			"after": " Thomas Carlyle Scottish essayist of the Victorian era known foremost for his widely influential work of history The French Revolution wrote that the French Revolution was a war against both aristocracy and anarchy ",
+			"after_weights": " Thomas|1 Carlyle|0.9697 Scottish|0.93939 essayist|0.90909 of|0.87879 the|0.84848 Victorian|0.81818 era|0.78788 known|0.75758 foremost|0.72727 for|0.69697 his|0.66667 widely|0.63636 influential|0.60606 work|0.57576 of|0.54545 history|0.51515 The|0.48485 French|0.45455 Revolution|0.42424 wrote|0.39394 that|0.36364 the|0.33333 French|0.30303 Revolution|0.27273 was|0.24242 a|0.21212 war|0.18182 against|0.15152 both|0.12121 aristocracy|0.090909 and|0.060606 anarchy|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

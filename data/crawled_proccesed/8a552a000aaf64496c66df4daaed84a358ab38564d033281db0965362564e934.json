@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a552a000aaf64496c66df4daaed84a358ab38564d033281db0965362564e934",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/George_H._W._Bush%2C_Laura_Bush%2C_George_W._Bush_1997.jpg/220px-George_H._W._Bush%2C_Laura_Bush%2C_George_W._Bush_1997.jpg",
+			"previous": " ",
+			"after": " As Bush s brother Jeb sought the governorship of Florida Bush declared his candidacy for the 1994 Texas gubernatorial election His campaign focused on four themes welfare reform tort reform crime reduction and education improvement 58 Bush s campaign advisers were Karen Hughes Joe Allbaugh and Karl Rove 69 ",
+			"after_weights": " As|1 Bush|0.97959 s|0.95918 brother|0.93878 Jeb|0.91837 sought|0.89796 the|0.87755 governorship|0.85714 of|0.83673 Florida|0.81633 Bush|0.79592 declared|0.77551 his|0.7551 candidacy|0.73469 for|0.71429 the|0.69388 1994|0.67347 Texas|0.65306 gubernatorial|0.63265 election|0.61224 His|0.59184 campaign|0.57143 focused|0.55102 on|0.53061 four|0.5102 themes|0.4898 welfare|0.46939 reform|0.44898 tort|0.42857 reform|0.40816 crime|0.38776 reduction|0.36735 and|0.34694 education|0.32653 improvement|0.30612 58|0.28571 Bush|0.26531 s|0.2449 campaign|0.22449 advisers|0.20408 were|0.18367 Karen|0.16327 Hughes|0.14286 Joe|0.12245 Allbaugh|0.10204 and|0.081633 Karl|0.061224 Rove|0.040816 69|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

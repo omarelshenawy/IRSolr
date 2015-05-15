@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fab6ef61a32df204e219ffe1aab04b366df27113f88556b8070f0f66c21e09c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chart-of-Oil-Trading-Nation.png/200px-Chart-of-Oil-Trading-Nation.png",
+			"previous": " ",
+			"after": " According to the New York Times the oil drilling boom in the United States has increased oil production by over 70 percent since 2008 and has reduced the United States oil imports from OPEC by fifty per cent 13 ",
+			"after_weights": " According|1 to|0.97436 the|0.94872 New|0.92308 York|0.89744 Times|0.87179 the|0.84615 oil|0.82051 drilling|0.79487 boom|0.76923 in|0.74359 the|0.71795 United|0.69231 States|0.66667 has|0.64103 increased|0.61538 oil|0.58974 production|0.5641 by|0.53846 over|0.51282 70|0.48718 percent|0.46154 since|0.4359 2008|0.41026 and|0.38462 has|0.35897 reduced|0.33333 the|0.30769 United|0.28205 States|0.25641 oil|0.23077 imports|0.20513 from|0.17949 OPEC|0.15385 by|0.12821 fifty|0.10256 per|0.076923 cent|0.051282 13|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

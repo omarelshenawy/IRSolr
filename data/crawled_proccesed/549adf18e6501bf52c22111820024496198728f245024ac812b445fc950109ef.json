@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "549adf18e6501bf52c22111820024496198728f245024ac812b445fc950109ef",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Amsterdam_Canals_-_July_2006.jpg/500px-Amsterdam_Canals_-_July_2006.jpg",
+			"previous": " Portal Geography Featured picture 9",
+			"after": " A stitched panorama of a canal in the city of Amsterdam the capital of the Netherlands A series of concentric semi circular canals grachten were dug around the old city centre in the 17th century along which houses and warehouses were built The canals still define Amsterdam s layout and appearance today ",
+			"after_weights": " A|1 stitched|0.98077 panorama|0.96154 of|0.94231 a|0.92308 canal|0.90385 in|0.88462 the|0.86538 city|0.84615 of|0.82692 Amsterdam|0.80769 the|0.78846 capital|0.76923 of|0.75 the|0.73077 Netherlands|0.71154 A|0.69231 series|0.67308 of|0.65385 concentric|0.63462 semi|0.61538 circular|0.59615 canals|0.57692 grachten|0.55769 were|0.53846 dug|0.51923 around|0.5 the|0.48077 old|0.46154 city|0.44231 centre|0.42308 in|0.40385 the|0.38462 17th|0.36538 century|0.34615 along|0.32692 which|0.30769 houses|0.28846 and|0.26923 warehouses|0.25 were|0.23077 built|0.21154 The|0.19231 canals|0.17308 still|0.15385 define|0.13462 Amsterdam|0.11538 s|0.096154 layout|0.076923 and|0.057692 appearance|0.038462 today|0.019231 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 9|1"
+		}
+	}
+}

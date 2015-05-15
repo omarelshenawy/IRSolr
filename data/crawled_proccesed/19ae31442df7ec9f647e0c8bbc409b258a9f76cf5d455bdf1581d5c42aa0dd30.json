@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "19ae31442df7ec9f647e0c8bbc409b258a9f76cf5d455bdf1581d5c42aa0dd30",
+			"url": "https://upload.wikimedia.org/math/8/8/e/88e11cb4702149e1c02ee417f498a721.png",
+			"previous": " The ISSN of the journal Hearing Research for example is 0378 5955 where the final 5 is the check digit that is C 5 To calculate the check digit the following algorithm may be used ",
+			"after": " To confirm the check digit calculate the sum of all eight digits of the ISSN multiplied by its position in the number counting from the right if the check digit is X then add 10 to the sum The modulus 11 of the sum must be 0 ",
+			"after_weights": " To|1 confirm|0.97872 the|0.95745 check|0.93617 digit|0.91489 calculate|0.89362 the|0.87234 sum|0.85106 of|0.82979 all|0.80851 eight|0.78723 digits|0.76596 of|0.74468 the|0.7234 ISSN|0.70213 multiplied|0.68085 by|0.65957 its|0.6383 position|0.61702 in|0.59574 the|0.57447 number|0.55319 counting|0.53191 from|0.51064 the|0.48936 right|0.46809 if|0.44681 the|0.42553 check|0.40426 digit|0.38298 is|0.3617 X|0.34043 then|0.31915 add|0.29787 10|0.2766 to|0.25532 the|0.23404 sum|0.21277 The|0.19149 modulus|0.17021 11|0.14894 of|0.12766 the|0.10638 sum|0.085106 must|0.06383 be|0.042553 0|0.021277 |0",
+			"previous_weights": " The|0 ISSN|0.028571 of|0.057143 the|0.085714 journal|0.11429 Hearing|0.14286 Research|0.17143 for|0.2 example|0.22857 is|0.25714 0378|0.28571 5955|0.31429 where|0.34286 the|0.37143 final|0.4 5|0.42857 is|0.45714 the|0.48571 check|0.51429 digit|0.54286 that|0.57143 is|0.6 C|0.62857 5|0.65714 To|0.68571 calculate|0.71429 the|0.74286 check|0.77143 digit|0.8 the|0.82857 following|0.85714 algorithm|0.88571 may|0.91429 be|0.94286 used|0.97143 |1"
+		}
+	}
+}

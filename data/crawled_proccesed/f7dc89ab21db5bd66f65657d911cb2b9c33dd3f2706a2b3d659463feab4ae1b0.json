@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f7dc89ab21db5bd66f65657d911cb2b9c33dd3f2706a2b3d659463feab4ae1b0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sydney_Grammar_School_Big_School.jpg/220px-Sydney_Grammar_School_Big_School.jpg",
+			"previous": " Private boat services operated between South Australia Victoria and New South Wales along the Murray and Darling Rivers but these only exist now as the occasional tourist paddle wheeler service 31 ",
+			"after": " The NSW school system comprises a kindergarten to year 12 system with primary schooling up to year 6 and secondary schooling between year 7 and 12 Schooling is compulsory until age 17 32 ",
+			"after_weights": " The|1 NSW|0.9697 school|0.93939 system|0.90909 comprises|0.87879 a|0.84848 kindergarten|0.81818 to|0.78788 year|0.75758 12|0.72727 system|0.69697 with|0.66667 primary|0.63636 schooling|0.60606 up|0.57576 to|0.54545 year|0.51515 6|0.48485 and|0.45455 secondary|0.42424 schooling|0.39394 between|0.36364 year|0.33333 7|0.30303 and|0.27273 12|0.24242 Schooling|0.21212 is|0.18182 compulsory|0.15152 until|0.12121 age|0.090909 17|0.060606 32|0.030303 |0",
+			"previous_weights": " Private|0 boat|0.032258 services|0.064516 operated|0.096774 between|0.12903 South|0.16129 Australia|0.19355 Victoria|0.22581 and|0.25806 New|0.29032 South|0.32258 Wales|0.35484 along|0.3871 the|0.41935 Murray|0.45161 and|0.48387 Darling|0.51613 Rivers|0.54839 but|0.58065 these|0.6129 only|0.64516 exist|0.67742 now|0.70968 as|0.74194 the|0.77419 occasional|0.80645 tourist|0.83871 paddle|0.87097 wheeler|0.90323 service|0.93548 31|0.96774 |1"
+		}
+	}
+}

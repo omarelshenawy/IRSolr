@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d7aba228204ddb7d242feb2d8de8182bdbf6deeeaffbb252a0057108684f6341",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Clifton_Beach%2C_Karachi.jpg/800px-Clifton_Beach%2C_Karachi.jpg",
+			"previous": " According to the census of 1998 the religious breakdown of the city was Muslim 96 45 Christian 2 42 Hindu 0 86 Ahmadiyya 0 17 others 0 10 Parsis Sikhs Bah s Jews and Buddhists 114 ",
+			"after": " Karachi is a tourist destination for domestic and international tourists Some tourist attractions near Karachi city are  Beaches The beaches of Karachi are the main attraction for tourists There are many beautiful seasides near city like Seaview Manora Island Sandspit Beach Hawke s Bay Beach Paradise Point French Beach Cape Monze and Nathiagali Beach",
+			"after_weights": " Karachi|1 is|0.98148 a|0.96296 tourist|0.94444 destination|0.92593 for|0.90741 domestic|0.88889 and|0.87037 international|0.85185 tourists|0.83333 Some|0.81481 tourist|0.7963 attractions|0.77778 near|0.75926 Karachi|0.74074 city|0.72222 are|0.7037 |0.68519 Beaches|0.66667 The|0.64815 beaches|0.62963 of|0.61111 Karachi|0.59259 are|0.57407 the|0.55556 main|0.53704 attraction|0.51852 for|0.5 tourists|0.48148 There|0.46296 are|0.44444 many|0.42593 beautiful|0.40741 seasides|0.38889 near|0.37037 city|0.35185 like|0.33333 Seaview|0.31481 Manora|0.2963 Island|0.27778 Sandspit|0.25926 Beach|0.24074 Hawke|0.22222 s|0.2037 Bay|0.18519 Beach|0.16667 Paradise|0.14815 Point|0.12963 French|0.11111 Beach|0.092593 Cape|0.074074 Monze|0.055556 and|0.037037 Nathiagali|0.018519 Beach|0",
+			"previous_weights": " According|0 to|0.027778 the|0.055556 census|0.083333 of|0.11111 1998|0.13889 the|0.16667 religious|0.19444 breakdown|0.22222 of|0.25 the|0.27778 city|0.30556 was|0.33333 Muslim|0.36111 96|0.38889 45|0.41667 Christian|0.44444 2|0.47222 42|0.5 Hindu|0.52778 0|0.55556 86|0.58333 Ahmadiyya|0.61111 0|0.63889 17|0.66667 others|0.69444 0|0.72222 10|0.75 Parsis|0.77778 Sikhs|0.80556 Bah|0.83333 s|0.86111 Jews|0.88889 and|0.91667 Buddhists|0.94444 114|0.97222 |1"
+		}
+	}
+}

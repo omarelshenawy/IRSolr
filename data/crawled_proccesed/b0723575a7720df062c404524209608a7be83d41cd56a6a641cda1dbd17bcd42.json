@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b0723575a7720df062c404524209608a7be83d41cd56a6a641cda1dbd17bcd42",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Unstructured_peer-to-peer_network_diagram.png/300px-Unstructured_peer-to-peer_network_diagram.png",
+			"previous": " ",
+			"after": " Unstructured peer to peer networks do not impose a particular structure on the overlay network by design but rather are formed by nodes that randomly form connections to each other 11 Gnutella Gossip and Kazaa are examples of unstructured P2P protocols 12 ",
+			"after_weights": " Unstructured|1 peer|0.97619 to|0.95238 peer|0.92857 networks|0.90476 do|0.88095 not|0.85714 impose|0.83333 a|0.80952 particular|0.78571 structure|0.7619 on|0.7381 the|0.71429 overlay|0.69048 network|0.66667 by|0.64286 design|0.61905 but|0.59524 rather|0.57143 are|0.54762 formed|0.52381 by|0.5 nodes|0.47619 that|0.45238 randomly|0.42857 form|0.40476 connections|0.38095 to|0.35714 each|0.33333 other|0.30952 11|0.28571 Gnutella|0.2619 Gossip|0.2381 and|0.21429 Kazaa|0.19048 are|0.16667 examples|0.14286 of|0.11905 unstructured|0.095238 P2P|0.071429 protocols|0.047619 12|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

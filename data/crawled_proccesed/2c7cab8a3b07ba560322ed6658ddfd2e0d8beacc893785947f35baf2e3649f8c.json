@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c7cab8a3b07ba560322ed6658ddfd2e0d8beacc893785947f35baf2e3649f8c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png",
+			"previous": " ",
+			"after": " Wikipedia i w k pi di or i w ki pi di WIK i PEE dee is a multilingual web based free content encyclopedia project supported by the Wikimedia Foundation and based on a model of openly editable content The name Wikipedia is a portmanteau of the words wiki a technology for creating collaborative websites from the Hawaiian word wiki meaning quick and encyclopedia Wikipedia s articles provide links designed to guide the user to related pages with additional information ",
+			"after_weights": " Wikipedia|1 i|0.9875 w|0.975 k|0.9625 pi|0.95 di|0.9375 or|0.925 i|0.9125 w|0.9 ki|0.8875 pi|0.875 di|0.8625 WIK|0.85 i|0.8375 PEE|0.825 dee|0.8125 is|0.8 a|0.7875 multilingual|0.775 web|0.7625 based|0.75 free|0.7375 content|0.725 encyclopedia|0.7125 project|0.7 supported|0.6875 by|0.675 the|0.6625 Wikimedia|0.65 Foundation|0.6375 and|0.625 based|0.6125 on|0.6 a|0.5875 model|0.575 of|0.5625 openly|0.55 editable|0.5375 content|0.525 The|0.5125 name|0.5 Wikipedia|0.4875 is|0.475 a|0.4625 portmanteau|0.45 of|0.4375 the|0.425 words|0.4125 wiki|0.4 a|0.3875 technology|0.375 for|0.3625 creating|0.35 collaborative|0.3375 websites|0.325 from|0.3125 the|0.3 Hawaiian|0.2875 word|0.275 wiki|0.2625 meaning|0.25 quick|0.2375 and|0.225 encyclopedia|0.2125 Wikipedia|0.2 s|0.1875 articles|0.175 provide|0.1625 links|0.15 designed|0.1375 to|0.125 guide|0.1125 the|0.1 user|0.0875 to|0.075 related|0.0625 pages|0.05 with|0.0375 additional|0.025 information|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e7c1b93cd35668f28a40050ec2e6ebc65e985ccb0bc13b6eb245d23548cdd98b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wikipedia_editors_are_predominantly_male_EN.svg/300px-Wikipedia_editors_are_predominantly_male_EN.svg.png",
+			"previous": " ",
+			"after": " Surveys have indicated that a distinct minority between approximately 8 5 and 16 percent of Wikipedia editors are women 1 4 Consequently Wikipedia has been criticized by some academics and journalists for having primarily male contributors and for having fewer and less extensive articles about women or topics important to women ",
+			"after_weights": " Surveys|1 have|0.98039 indicated|0.96078 that|0.94118 a|0.92157 distinct|0.90196 minority|0.88235 between|0.86275 approximately|0.84314 8|0.82353 5|0.80392 and|0.78431 16|0.76471 percent|0.7451 of|0.72549 Wikipedia|0.70588 editors|0.68627 are|0.66667 women|0.64706 1|0.62745 4|0.60784 Consequently|0.58824 Wikipedia|0.56863 has|0.54902 been|0.52941 criticized|0.5098 by|0.4902 some|0.47059 academics|0.45098 and|0.43137 journalists|0.41176 for|0.39216 having|0.37255 primarily|0.35294 male|0.33333 contributors|0.31373 and|0.29412 for|0.27451 having|0.2549 fewer|0.23529 and|0.21569 less|0.19608 extensive|0.17647 articles|0.15686 about|0.13725 women|0.11765 or|0.098039 topics|0.078431 important|0.058824 to|0.039216 women|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

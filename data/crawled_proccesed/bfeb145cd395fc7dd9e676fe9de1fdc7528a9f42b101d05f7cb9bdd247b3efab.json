@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bfeb145cd395fc7dd9e676fe9de1fdc7528a9f42b101d05f7cb9bdd247b3efab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hecataeus_world_map-en.svg/300px-Hecataeus_world_map-en.svg.png",
+			"previous": " Ecozones are further divided into ecoregions The World has over 800 terrestrial ecoregions See Lists of ecoregions by country ",
+			"after": " Topics pertaining to the geographical study of the World throughout history ",
+			"after_weights": " Topics|1 pertaining|0.90909 to|0.81818 the|0.72727 geographical|0.63636 study|0.54545 of|0.45455 the|0.36364 World|0.27273 throughout|0.18182 history|0.090909 |0",
+			"previous_weights": " Ecozones|0 are|0.052632 further|0.10526 divided|0.15789 into|0.21053 ecoregions|0.26316 The|0.31579 World|0.36842 has|0.42105 over|0.47368 800|0.52632 terrestrial|0.57895 ecoregions|0.63158 See|0.68421 Lists|0.73684 of|0.78947 ecoregions|0.84211 by|0.89474 country|0.94737 |1"
+		}
+	}
+}

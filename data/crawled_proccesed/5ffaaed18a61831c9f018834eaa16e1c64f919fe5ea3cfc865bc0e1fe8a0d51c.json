@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5ffaaed18a61831c9f018834eaa16e1c64f919fe5ea3cfc865bc0e1fe8a0d51c",
+			"url": "https://upload.wikimedia.org/math/5/4/7/54771835b7c1d8bcdab791371d8ff76f.png",
+			"previous": " Choosing the constant of integration ex0 1 gives the other well known form of the definition of the logistic curve",
+			"after": " More quantitatively as can be seen from the analytical solution the logistic curve shows early exponential growth for negative argument which slows to linear growth of slope 1 4 for an argument near zero then approaches one with an exponentially decaying gap ",
+			"after_weights": " More|1 quantitatively|0.97619 as|0.95238 can|0.92857 be|0.90476 seen|0.88095 from|0.85714 the|0.83333 analytical|0.80952 solution|0.78571 the|0.7619 logistic|0.7381 curve|0.71429 shows|0.69048 early|0.66667 exponential|0.64286 growth|0.61905 for|0.59524 negative|0.57143 argument|0.54762 which|0.52381 slows|0.5 to|0.47619 linear|0.45238 growth|0.42857 of|0.40476 slope|0.38095 1|0.35714 4|0.33333 for|0.30952 an|0.28571 argument|0.2619 near|0.2381 zero|0.21429 then|0.19048 approaches|0.16667 one|0.14286 with|0.11905 an|0.095238 exponentially|0.071429 decaying|0.047619 gap|0.02381 |0",
+			"previous_weights": " Choosing|0 the|0.052632 constant|0.10526 of|0.15789 integration|0.21053 ex0|0.26316 1|0.31579 gives|0.36842 the|0.42105 other|0.47368 well|0.52632 known|0.57895 form|0.63158 of|0.68421 the|0.73684 definition|0.78947 of|0.84211 the|0.89474 logistic|0.94737 curve|1"
+		}
+	}
+}

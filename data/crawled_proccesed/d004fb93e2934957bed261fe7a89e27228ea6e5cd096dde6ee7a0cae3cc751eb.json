@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d004fb93e2934957bed261fe7a89e27228ea6e5cd096dde6ee7a0cae3cc751eb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ghana_satellite.jpg/220px-Ghana_satellite.jpg",
+			"previous": " ",
+			"after": " Satellite Internet service provides fixed portable and mobile Internet access It is among the most expensive forms of broadband Internet access but may be the only choice available in remote areas 64 Data rates range from 2 kbit s to 1 Gbit s downstream and from 2 kbit s to 10 Mbit s upstream Satellite communication typically requires a clear line of sight will not work well through trees and other vegetation is adversely affected by moisture rain and snow known as rain fade and may require a fairly large carefully aimed directional antenna ",
+			"after_weights": " Satellite|1 Internet|0.98936 service|0.97872 provides|0.96809 fixed|0.95745 portable|0.94681 and|0.93617 mobile|0.92553 Internet|0.91489 access|0.90426 It|0.89362 is|0.88298 among|0.87234 the|0.8617 most|0.85106 expensive|0.84043 forms|0.82979 of|0.81915 broadband|0.80851 Internet|0.79787 access|0.78723 but|0.7766 may|0.76596 be|0.75532 the|0.74468 only|0.73404 choice|0.7234 available|0.71277 in|0.70213 remote|0.69149 areas|0.68085 64|0.67021 Data|0.65957 rates|0.64894 range|0.6383 from|0.62766 2|0.61702 kbit|0.60638 s|0.59574 to|0.58511 1|0.57447 Gbit|0.56383 s|0.55319 downstream|0.54255 and|0.53191 from|0.52128 2|0.51064 kbit|0.5 s|0.48936 to|0.47872 10|0.46809 Mbit|0.45745 s|0.44681 upstream|0.43617 Satellite|0.42553 communication|0.41489 typically|0.40426 requires|0.39362 a|0.38298 clear|0.37234 line|0.3617 of|0.35106 sight|0.34043 will|0.32979 not|0.31915 work|0.30851 well|0.29787 through|0.28723 trees|0.2766 and|0.26596 other|0.25532 vegetation|0.24468 is|0.23404 adversely|0.2234 affected|0.21277 by|0.20213 moisture|0.19149 rain|0.18085 and|0.17021 snow|0.15957 known|0.14894 as|0.1383 rain|0.12766 fade|0.11702 and|0.10638 may|0.095745 require|0.085106 a|0.074468 fairly|0.06383 large|0.053191 carefully|0.042553 aimed|0.031915 directional|0.021277 antenna|0.010638 |0",
+			"previous_weights": " "
+		}
+	}
+}

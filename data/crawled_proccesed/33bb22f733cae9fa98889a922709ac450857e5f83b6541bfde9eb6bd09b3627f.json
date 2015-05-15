@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "33bb22f733cae9fa98889a922709ac450857e5f83b6541bfde9eb6bd09b3627f",
+			"url": "https://upload.wikimedia.org/math/2/e/3/2e31c2ef2e3ef8498cf693b1ad4df83a.png",
+			"previous": " Minimum Variance  In order to ensure that the model is unbiased the weights must sum to one  Since the random function is stationary the following constraint is observed ",
+			"after": "  see covariance matrix for a detailed explanation  where the literals stand for ",
+			"after_weights": " |1 see|0.92857 covariance|0.85714 matrix|0.78571 for|0.71429 a|0.64286 detailed|0.57143 explanation|0.5 |0.42857 where|0.35714 the|0.28571 literals|0.21429 stand|0.14286 for|0.071429 |0",
+			"previous_weights": " Minimum|0 Variance|0.033333 |0.066667 In|0.1 order|0.13333 to|0.16667 ensure|0.2 that|0.23333 the|0.26667 model|0.3 is|0.33333 unbiased|0.36667 the|0.4 weights|0.43333 must|0.46667 sum|0.5 to|0.53333 one|0.56667 |0.6 Since|0.63333 the|0.66667 random|0.7 function|0.73333 is|0.76667 stationary|0.8 the|0.83333 following|0.86667 constraint|0.9 is|0.93333 observed|0.96667 |1"
+		}
+	}
+}

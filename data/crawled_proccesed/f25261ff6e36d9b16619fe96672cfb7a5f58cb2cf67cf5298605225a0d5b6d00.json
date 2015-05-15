@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f25261ff6e36d9b16619fe96672cfb7a5f58cb2cf67cf5298605225a0d5b6d00",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Carnegie-hall-isaac-stern.jpg/100px-Carnegie-hall-isaac-stern.jpg",
+			"previous": " May 5 Feast of St George Palestinians Liberation Day in Denmark Ethiopia and the Netherlands Children s Day in Japan and South Korea",
+			"after": " More anniversaries May 4 May 5 May 6 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 4|0.72727 May|0.63636 5|0.54545 May|0.45455 6|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 5|0.045455 Feast|0.090909 of|0.13636 St|0.18182 George|0.22727 Palestinians|0.27273 Liberation|0.31818 Day|0.36364 in|0.40909 Denmark|0.45455 Ethiopia|0.5 and|0.54545 the|0.59091 Netherlands|0.63636 Children|0.68182 s|0.72727 Day|0.77273 in|0.81818 Japan|0.86364 and|0.90909 South|0.95455 Korea|1"
+		}
+	}
+}

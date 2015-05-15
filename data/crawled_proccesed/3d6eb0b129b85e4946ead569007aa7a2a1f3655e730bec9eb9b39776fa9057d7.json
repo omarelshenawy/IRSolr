@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d6eb0b129b85e4946ead569007aa7a2a1f3655e730bec9eb9b39776fa9057d7",
+			"url": "https://upload.wikimedia.org/math/b/c/4/bc4d53b7653bc444d9809e2a24a21da2.png",
+			"previous": " Since result set may vary in size among different queries or systems to compare performances the normalised version of DCG uses an ideal DCG To this end it sorts documents of a result list by relevance producing an ideal DCG at position p which normalizes the score ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Since|0 result|0.021277 set|0.042553 may|0.06383 vary|0.085106 in|0.10638 size|0.12766 among|0.14894 different|0.17021 queries|0.19149 or|0.21277 systems|0.23404 to|0.25532 compare|0.2766 performances|0.29787 the|0.31915 normalised|0.34043 version|0.3617 of|0.38298 DCG|0.40426 uses|0.42553 an|0.44681 ideal|0.46809 DCG|0.48936 To|0.51064 this|0.53191 end|0.55319 it|0.57447 sorts|0.59574 documents|0.61702 of|0.6383 a|0.65957 result|0.68085 list|0.70213 by|0.7234 relevance|0.74468 producing|0.76596 an|0.78723 ideal|0.80851 DCG|0.82979 at|0.85106 position|0.87234 p|0.89362 which|0.91489 normalizes|0.93617 the|0.95745 score|0.97872 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "830fc34fd020ef139d433ffa5e55ca855ba565f7267d358931aaba20ec876299",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vite.jpg/150px-Vite.jpg",
+			"previous": " ",
+			"after": " A biography is a detailed description or account of someone s life More than a list of basic facts education work relationships and death a biography also portrays a subject s experience of these events Unlike a profile or curriculum vitae r sum a biography presents a subject s life story highlighting various aspects of his or her life including intimate details of experience and may include an analysis of a subject s personality ",
+			"after_weights": " A|1 biography|0.98649 is|0.97297 a|0.95946 detailed|0.94595 description|0.93243 or|0.91892 account|0.90541 of|0.89189 someone|0.87838 s|0.86486 life|0.85135 More|0.83784 than|0.82432 a|0.81081 list|0.7973 of|0.78378 basic|0.77027 facts|0.75676 education|0.74324 work|0.72973 relationships|0.71622 and|0.7027 death|0.68919 a|0.67568 biography|0.66216 also|0.64865 portrays|0.63514 a|0.62162 subject|0.60811 s|0.59459 experience|0.58108 of|0.56757 these|0.55405 events|0.54054 Unlike|0.52703 a|0.51351 profile|0.5 or|0.48649 curriculum|0.47297 vitae|0.45946 r|0.44595 sum|0.43243 a|0.41892 biography|0.40541 presents|0.39189 a|0.37838 subject|0.36486 s|0.35135 life|0.33784 story|0.32432 highlighting|0.31081 various|0.2973 aspects|0.28378 of|0.27027 his|0.25676 or|0.24324 her|0.22973 life|0.21622 including|0.2027 intimate|0.18919 details|0.17568 of|0.16216 experience|0.14865 and|0.13514 may|0.12162 include|0.10811 an|0.094595 analysis|0.081081 of|0.067568 a|0.054054 subject|0.040541 s|0.027027 personality|0.013514 |0",
+			"previous_weights": " "
+		}
+	}
+}

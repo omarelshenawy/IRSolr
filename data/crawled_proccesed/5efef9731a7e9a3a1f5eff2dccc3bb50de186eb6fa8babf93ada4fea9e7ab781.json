@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5efef9731a7e9a3a1f5eff2dccc3bb50de186eb6fa8babf93ada4fea9e7ab781",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Magdalen-may-morning-2007-panorama.jpg/220px-Magdalen-may-morning-2007-panorama.jpg",
+			"previous": " ",
+			"after": " The new learning of the Renaissance greatly influenced Oxford from the late 15th century onwards Among university scholars of the period were William Grocyn who contributed to the revival of Greek language studies and John Colet the noted biblical scholar ",
+			"after_weights": " The|1 new|0.975 learning|0.95 of|0.925 the|0.9 Renaissance|0.875 greatly|0.85 influenced|0.825 Oxford|0.8 from|0.775 the|0.75 late|0.725 15th|0.7 century|0.675 onwards|0.65 Among|0.625 university|0.6 scholars|0.575 of|0.55 the|0.525 period|0.5 were|0.475 William|0.45 Grocyn|0.425 who|0.4 contributed|0.375 to|0.35 the|0.325 revival|0.3 of|0.275 Greek|0.25 language|0.225 studies|0.2 and|0.175 John|0.15 Colet|0.125 the|0.1 noted|0.075 biblical|0.05 scholar|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

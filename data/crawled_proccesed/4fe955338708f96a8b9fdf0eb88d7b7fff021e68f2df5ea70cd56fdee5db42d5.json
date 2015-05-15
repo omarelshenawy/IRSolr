@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fe955338708f96a8b9fdf0eb88d7b7fff021e68f2df5ea70cd56fdee5db42d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_of_Nature_Reserve_from_St._Agatha%27s_Tower.JPG/220px-View_of_Nature_Reserve_from_St._Agatha%27s_Tower.JPG",
+			"previous": " Phytogeographically Malta belongs to the Liguro Tyrrhenian province of the Mediterranean Region within the Boreal Kingdom According to the WWF the territory of Malta belongs to the ecoregion of Mediterranean Forests Woodlands and Scrub 88 ",
+			"after": " The minor islands that form part of the archipelago are uninhabited and include ",
+			"after_weights": " The|1 minor|0.92308 islands|0.84615 that|0.76923 form|0.69231 part|0.61538 of|0.53846 the|0.46154 archipelago|0.38462 are|0.30769 uninhabited|0.23077 and|0.15385 include|0.076923 |0",
+			"previous_weights": " Phytogeographically|0 Malta|0.028571 belongs|0.057143 to|0.085714 the|0.11429 Liguro|0.14286 Tyrrhenian|0.17143 province|0.2 of|0.22857 the|0.25714 Mediterranean|0.28571 Region|0.31429 within|0.34286 the|0.37143 Boreal|0.4 Kingdom|0.42857 According|0.45714 to|0.48571 the|0.51429 WWF|0.54286 the|0.57143 territory|0.6 of|0.62857 Malta|0.65714 belongs|0.68571 to|0.71429 the|0.74286 ecoregion|0.77143 of|0.8 Mediterranean|0.82857 Forests|0.85714 Woodlands|0.88571 and|0.91429 Scrub|0.94286 88|0.97143 |1"
+		}
+	}
+}

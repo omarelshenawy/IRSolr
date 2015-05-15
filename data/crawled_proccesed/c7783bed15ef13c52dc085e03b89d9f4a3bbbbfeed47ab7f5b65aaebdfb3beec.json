@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c7783bed15ef13c52dc085e03b89d9f4a3bbbbfeed47ab7f5b65aaebdfb3beec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wikipedia_2005_Label_DVD_small.PNG/200px-Wikipedia_2005_Label_DVD_small.PNG",
+			"previous": " ",
+			"after": " A new release of Wikipedia content was published by Directmedia on 6 April 2005 This package consisted of a 2 7 GB DVD and a separate bootable CDROM running a version of Linux with Firefox The CDROM did not contain all the data but was included to accommodate users without DVD drives The DVD used Directmedia s Digibib software and article format everything could be installed to a hard drive In addition the DVD contained an HTML tree as well as Wikipedia articles formatted for use with PDAs specifically the Mobipocket and TomeRaider formats ",
+			"after_weights": " A|1 new|0.98936 release|0.97872 of|0.96809 Wikipedia|0.95745 content|0.94681 was|0.93617 published|0.92553 by|0.91489 Directmedia|0.90426 on|0.89362 6|0.88298 April|0.87234 2005|0.8617 This|0.85106 package|0.84043 consisted|0.82979 of|0.81915 a|0.80851 2|0.79787 7|0.78723 GB|0.7766 DVD|0.76596 and|0.75532 a|0.74468 separate|0.73404 bootable|0.7234 CDROM|0.71277 running|0.70213 a|0.69149 version|0.68085 of|0.67021 Linux|0.65957 with|0.64894 Firefox|0.6383 The|0.62766 CDROM|0.61702 did|0.60638 not|0.59574 contain|0.58511 all|0.57447 the|0.56383 data|0.55319 but|0.54255 was|0.53191 included|0.52128 to|0.51064 accommodate|0.5 users|0.48936 without|0.47872 DVD|0.46809 drives|0.45745 The|0.44681 DVD|0.43617 used|0.42553 Directmedia|0.41489 s|0.40426 Digibib|0.39362 software|0.38298 and|0.37234 article|0.3617 format|0.35106 everything|0.34043 could|0.32979 be|0.31915 installed|0.30851 to|0.29787 a|0.28723 hard|0.2766 drive|0.26596 In|0.25532 addition|0.24468 the|0.23404 DVD|0.2234 contained|0.21277 an|0.20213 HTML|0.19149 tree|0.18085 as|0.17021 well|0.15957 as|0.14894 Wikipedia|0.1383 articles|0.12766 formatted|0.11702 for|0.10638 use|0.095745 with|0.085106 PDAs|0.074468 specifically|0.06383 the|0.053191 Mobipocket|0.042553 and|0.031915 TomeRaider|0.021277 formats|0.010638 |0",
+			"previous_weights": " "
+		}
+	}
+}

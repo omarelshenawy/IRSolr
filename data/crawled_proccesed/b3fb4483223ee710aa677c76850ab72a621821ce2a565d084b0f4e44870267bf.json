@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b3fb4483223ee710aa677c76850ab72a621821ce2a565d084b0f4e44870267bf",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/March%C3%A9_Bonsecours_and_Foliage.jpg/220px-March%C3%A9_Bonsecours_and_Foliage.jpg",
+			"previous": " ",
+			"after": " Montreal lies in a transition between the warm summer and hot summer humid continental climate zones K ppen climate classification Dfa Dfb due to the mean temperature in July being just below 22 C 72 F 65 66 ",
+			"after_weights": " Montreal|1 lies|0.97368 in|0.94737 a|0.92105 transition|0.89474 between|0.86842 the|0.84211 warm|0.81579 summer|0.78947 and|0.76316 hot|0.73684 summer|0.71053 humid|0.68421 continental|0.65789 climate|0.63158 zones|0.60526 K|0.57895 ppen|0.55263 climate|0.52632 classification|0.5 Dfa|0.47368 Dfb|0.44737 due|0.42105 to|0.39474 the|0.36842 mean|0.34211 temperature|0.31579 in|0.28947 July|0.26316 being|0.23684 just|0.21053 below|0.18421 22|0.15789 C|0.13158 72|0.10526 F|0.078947 65|0.052632 66|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

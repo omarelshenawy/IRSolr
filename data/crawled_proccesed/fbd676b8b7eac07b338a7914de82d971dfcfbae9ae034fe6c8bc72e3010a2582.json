@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fbd676b8b7eac07b338a7914de82d971dfcfbae9ae034fe6c8bc72e3010a2582",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Confidenceinterval.png/200px-Confidenceinterval.png",
+			"previous": " ",
+			"after": " Interval estimates can be contrasted with point estimates A point estimate is a single value given as the estimate of a population parameter that is of interest for example the mean of some quantity An interval estimate specifies instead a range within which the parameter is estimated to lie Confidence intervals are commonly reported in tables or graphs along with point estimates of the same parameters to show the reliability of the estimates ",
+			"after_weights": " Interval|1 estimates|0.9863 can|0.9726 be|0.9589 contrasted|0.94521 with|0.93151 point|0.91781 estimates|0.90411 A|0.89041 point|0.87671 estimate|0.86301 is|0.84932 a|0.83562 single|0.82192 value|0.80822 given|0.79452 as|0.78082 the|0.76712 estimate|0.75342 of|0.73973 a|0.72603 population|0.71233 parameter|0.69863 that|0.68493 is|0.67123 of|0.65753 interest|0.64384 for|0.63014 example|0.61644 the|0.60274 mean|0.58904 of|0.57534 some|0.56164 quantity|0.54795 An|0.53425 interval|0.52055 estimate|0.50685 specifies|0.49315 instead|0.47945 a|0.46575 range|0.45205 within|0.43836 which|0.42466 the|0.41096 parameter|0.39726 is|0.38356 estimated|0.36986 to|0.35616 lie|0.34247 Confidence|0.32877 intervals|0.31507 are|0.30137 commonly|0.28767 reported|0.27397 in|0.26027 tables|0.24658 or|0.23288 graphs|0.21918 along|0.20548 with|0.19178 point|0.17808 estimates|0.16438 of|0.15068 the|0.13699 same|0.12329 parameters|0.10959 to|0.09589 show|0.082192 the|0.068493 reliability|0.054795 of|0.041096 the|0.027397 estimates|0.013699 |0",
+			"previous_weights": " "
+		}
+	}
+}

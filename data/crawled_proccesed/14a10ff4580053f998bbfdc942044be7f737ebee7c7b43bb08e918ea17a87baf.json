@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "14a10ff4580053f998bbfdc942044be7f737ebee7c7b43bb08e918ea17a87baf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Essjay.jpg",
+			"previous": " ",
+			"after": " The Essjay controversy was an incident concerning a prominent Wikipedia participant and salaried Wikia employee known by the username Essjay 1 who later identified himself as Ryan Jordan Jordan held trusted volunteer positions within Wikipedia known as administrator bureaucrat and arbitrator ",
+			"after_weights": " The|1 Essjay|0.97561 controversy|0.95122 was|0.92683 an|0.90244 incident|0.87805 concerning|0.85366 a|0.82927 prominent|0.80488 Wikipedia|0.78049 participant|0.7561 and|0.73171 salaried|0.70732 Wikia|0.68293 employee|0.65854 known|0.63415 by|0.60976 the|0.58537 username|0.56098 Essjay|0.53659 1|0.5122 who|0.4878 later|0.46341 identified|0.43902 himself|0.41463 as|0.39024 Ryan|0.36585 Jordan|0.34146 Jordan|0.31707 held|0.29268 trusted|0.26829 volunteer|0.2439 positions|0.21951 within|0.19512 Wikipedia|0.17073 known|0.14634 as|0.12195 administrator|0.097561 bureaucrat|0.073171 and|0.04878 arbitrator|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

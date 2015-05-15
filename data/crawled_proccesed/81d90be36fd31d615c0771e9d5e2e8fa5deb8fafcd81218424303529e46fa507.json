@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d90be36fd31d615c0771e9d5e2e8fa5deb8fafcd81218424303529e46fa507",
+			"url": "https://upload.wikimedia.org/math/7/f/c/7fc56270e7a70fa81a5935b72eacbe29.png",
+			"previous": " Some conclusions can be asserted from this expression The variance of estimation ",
+			"after": " Solving this optimization problem see Lagrange multipliers results in the Kriging system  the additional parameter is a Lagrange multiplier used in the minimization of the Kriging error to honor the unbiasedness condition ",
+			"after_weights": " Solving|1 this|0.9697 optimization|0.93939 problem|0.90909 see|0.87879 Lagrange|0.84848 multipliers|0.81818 results|0.78788 in|0.75758 the|0.72727 Kriging|0.69697 system|0.66667 |0.63636 the|0.60606 additional|0.57576 parameter|0.54545 is|0.51515 a|0.48485 Lagrange|0.45455 multiplier|0.42424 used|0.39394 in|0.36364 the|0.33333 minimization|0.30303 of|0.27273 the|0.24242 Kriging|0.21212 error|0.18182 to|0.15152 honor|0.12121 the|0.090909 unbiasedness|0.060606 condition|0.030303 |0",
+			"previous_weights": " Some|0 conclusions|0.083333 can|0.16667 be|0.25 asserted|0.33333 from|0.41667 this|0.5 expression|0.58333 The|0.66667 variance|0.75 of|0.83333 estimation|0.91667 |1"
+		}
+	}
+}

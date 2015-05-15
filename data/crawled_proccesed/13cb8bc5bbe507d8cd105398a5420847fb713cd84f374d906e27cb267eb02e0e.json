@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "13cb8bc5bbe507d8cd105398a5420847fb713cd84f374d906e27cb267eb02e0e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hans_Rottenhammer_-_Allegory_of_the_Arts_-_WGA20147.jpg/220px-Hans_Rottenhammer_-_Allegory_of_the_Arts_-_WGA20147.jpg",
+			"previous": " ",
+			"after": " The arts represent an outlet of expression that is usually influenced by culture and which in turn helps to change culture As such the arts are a physical manifestation of the internal creative impulse Major constituents of the arts include literature including poetry novels and short stories and epics performing arts among them music dance and theatre culinary arts such as baking chocolatiering and winemaking media arts like photography and cinematography and visual arts including drawing painting and sculpting Some art forms combine a visual element with performance e g film and the written word e g comics ",
+			"after_weights": " The|1 arts|0.9898 represent|0.97959 an|0.96939 outlet|0.95918 of|0.94898 expression|0.93878 that|0.92857 is|0.91837 usually|0.90816 influenced|0.89796 by|0.88776 culture|0.87755 and|0.86735 which|0.85714 in|0.84694 turn|0.83673 helps|0.82653 to|0.81633 change|0.80612 culture|0.79592 As|0.78571 such|0.77551 the|0.76531 arts|0.7551 are|0.7449 a|0.73469 physical|0.72449 manifestation|0.71429 of|0.70408 the|0.69388 internal|0.68367 creative|0.67347 impulse|0.66327 Major|0.65306 constituents|0.64286 of|0.63265 the|0.62245 arts|0.61224 include|0.60204 literature|0.59184 including|0.58163 poetry|0.57143 novels|0.56122 and|0.55102 short|0.54082 stories|0.53061 and|0.52041 epics|0.5102 performing|0.5 arts|0.4898 among|0.47959 them|0.46939 music|0.45918 dance|0.44898 and|0.43878 theatre|0.42857 culinary|0.41837 arts|0.40816 such|0.39796 as|0.38776 baking|0.37755 chocolatiering|0.36735 and|0.35714 winemaking|0.34694 media|0.33673 arts|0.32653 like|0.31633 photography|0.30612 and|0.29592 cinematography|0.28571 and|0.27551 visual|0.26531 arts|0.2551 including|0.2449 drawing|0.23469 painting|0.22449 and|0.21429 sculpting|0.20408 Some|0.19388 art|0.18367 forms|0.17347 combine|0.16327 a|0.15306 visual|0.14286 element|0.13265 with|0.12245 performance|0.11224 e|0.10204 g|0.091837 film|0.081633 and|0.071429 the|0.061224 written|0.05102 word|0.040816 e|0.030612 g|0.020408 comics|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a5e50c1e50fcbc6fa19b41c63c3464981e088e18d50ae2798813fb6387dfeb3b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sprachen_CH_2000_EN.svg/220px-Sprachen_CH_2000_EN.svg.png",
+			"previous": " ",
+			"after": " In Switzerland a number of local dialects are spoken in the German speaking cantons but the Swiss variety of Standard German is used as a written language It is one of the main languages along with French Italian and Romansh ",
+			"after_weights": " In|1 Switzerland|0.975 a|0.95 number|0.925 of|0.9 local|0.875 dialects|0.85 are|0.825 spoken|0.8 in|0.775 the|0.75 German|0.725 speaking|0.7 cantons|0.675 but|0.65 the|0.625 Swiss|0.6 variety|0.575 of|0.55 Standard|0.525 German|0.5 is|0.475 used|0.45 as|0.425 a|0.4 written|0.375 language|0.35 It|0.325 is|0.3 one|0.275 of|0.25 the|0.225 main|0.2 languages|0.175 along|0.15 with|0.125 French|0.1 Italian|0.075 and|0.05 Romansh|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

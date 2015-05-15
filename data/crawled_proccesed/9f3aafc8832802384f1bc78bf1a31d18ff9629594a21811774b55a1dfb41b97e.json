@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f3aafc8832802384f1bc78bf1a31d18ff9629594a21811774b55a1dfb41b97e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2009-0726-CA-Bakersfield-BakerLib.jpg/220px-2009-0726-CA-Bakersfield-BakerLib.jpg",
+			"previous": " ",
+			"after": " Bakersfield is part of the Kern High School District KHSD California s largest high school district 107 comprising 28 schools and educating about 35 000 students There are 15 high schools within the KHSD in Bakersfield ",
+			"after_weights": " Bakersfield|1 is|0.97222 part|0.94444 of|0.91667 the|0.88889 Kern|0.86111 High|0.83333 School|0.80556 District|0.77778 KHSD|0.75 California|0.72222 s|0.69444 largest|0.66667 high|0.63889 school|0.61111 district|0.58333 107|0.55556 comprising|0.52778 28|0.5 schools|0.47222 and|0.44444 educating|0.41667 about|0.38889 35|0.36111 000|0.33333 students|0.30556 There|0.27778 are|0.25 15|0.22222 high|0.19444 schools|0.16667 within|0.13889 the|0.11111 KHSD|0.083333 in|0.055556 Bakersfield|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

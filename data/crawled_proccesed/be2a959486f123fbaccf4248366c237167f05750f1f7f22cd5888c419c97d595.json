@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "be2a959486f123fbaccf4248366c237167f05750f1f7f22cd5888c419c97d595",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/John_Franklin_by_Derby.jpg/77px-John_Franklin_by_Derby.jpg",
+			"previous": " May 19 Greek Genocide Remembrance Day in Greece Commemoration of Atat rk Youth and Sports Day in Turkey Ho Chi Minh s birthday in Vietnam",
+			"after": " More anniversaries May 18 May 19 May 20 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 18|0.72727 May|0.63636 19|0.54545 May|0.45455 20|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 19|0.041667 Greek|0.083333 Genocide|0.125 Remembrance|0.16667 Day|0.20833 in|0.25 Greece|0.29167 Commemoration|0.33333 of|0.375 Atat|0.41667 rk|0.45833 Youth|0.5 and|0.54167 Sports|0.58333 Day|0.625 in|0.66667 Turkey|0.70833 Ho|0.75 Chi|0.79167 Minh|0.83333 s|0.875 birthday|0.91667 in|0.95833 Vietnam|1"
+		}
+	}
+}

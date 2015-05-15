@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fea9d83cf96fd90004056160947fb88f24b4b503a2c2715d1dcf57496584a8b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mathew_Street_Liverpool.jpg/220px-Mathew_Street_Liverpool.jpg",
+			"previous": " In recent years Liverpool s economy has recovered and has experienced growth rates higher than the national average since the mid nineties ",
+			"after": " At the end of the 20th century Liverpool was concentrating on regeneration a process which still continues today ",
+			"after_weights": " At|1 the|0.94444 end|0.88889 of|0.83333 the|0.77778 20th|0.72222 century|0.66667 Liverpool|0.61111 was|0.55556 concentrating|0.5 on|0.44444 regeneration|0.38889 a|0.33333 process|0.27778 which|0.22222 still|0.16667 continues|0.11111 today|0.055556 |0",
+			"previous_weights": " In|0 recent|0.045455 years|0.090909 Liverpool|0.13636 s|0.18182 economy|0.22727 has|0.27273 recovered|0.31818 and|0.36364 has|0.40909 experienced|0.45455 growth|0.5 rates|0.54545 higher|0.59091 than|0.63636 the|0.68182 national|0.72727 average|0.77273 since|0.81818 the|0.86364 mid|0.90909 nineties|0.95455 |1"
+		}
+	}
+}

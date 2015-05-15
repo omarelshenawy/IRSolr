@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7706bc6a4f26b3e4ab4914df66f63f4fdb31f4894b4468b2976c6b7ea5f16414",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Ambox_warning_yellow.svg/40px-Ambox_warning_yellow.svg.png",
+			"previous": " ",
+			"after": " Oversight on Wikipedia also known as suppression is a form of enhanced deletion which unlike normal deletion expunges information from any form of usual access even by administrators It is used within strict limits to remove defamatory material to protect privacy and sometimes to remove serious copyright violations from any page or log entry including if required the list of users on the English Wikipedia ",
+			"after_weights": " Oversight|1 on|0.98462 Wikipedia|0.96923 also|0.95385 known|0.93846 as|0.92308 suppression|0.90769 is|0.89231 a|0.87692 form|0.86154 of|0.84615 enhanced|0.83077 deletion|0.81538 which|0.8 unlike|0.78462 normal|0.76923 deletion|0.75385 expunges|0.73846 information|0.72308 from|0.70769 any|0.69231 form|0.67692 of|0.66154 usual|0.64615 access|0.63077 even|0.61538 by|0.6 administrators|0.58462 It|0.56923 is|0.55385 used|0.53846 within|0.52308 strict|0.50769 limits|0.49231 to|0.47692 remove|0.46154 defamatory|0.44615 material|0.43077 to|0.41538 protect|0.4 privacy|0.38462 and|0.36923 sometimes|0.35385 to|0.33846 remove|0.32308 serious|0.30769 copyright|0.29231 violations|0.27692 from|0.26154 any|0.24615 page|0.23077 or|0.21538 log|0.2 entry|0.18462 including|0.16923 if|0.15385 required|0.13846 the|0.12308 list|0.10769 of|0.092308 users|0.076923 on|0.061538 the|0.046154 English|0.030769 Wikipedia|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

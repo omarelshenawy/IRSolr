@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "16faf3b1e2a98453c4dd1991de6616ad3e94cfc55211dfb5c7e9706ebacf4068",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/RamsesIIEgypt.jpg/84px-RamsesIIEgypt.jpg",
+			"previous": " May 31 World No Tobacco Day Feast of the Visitation Roman Catholicism and Anglicanism Mother s Day in Algeria France Morocco and Sweden 2015 ",
+			"after": " More anniversaries May 30 May 31 June 1 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 30|0.72727 May|0.63636 31|0.54545 June|0.45455 1|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 31|0.041667 World|0.083333 No|0.125 Tobacco|0.16667 Day|0.20833 Feast|0.25 of|0.29167 the|0.33333 Visitation|0.375 Roman|0.41667 Catholicism|0.45833 and|0.5 Anglicanism|0.54167 Mother|0.58333 s|0.625 Day|0.66667 in|0.70833 Algeria|0.75 France|0.79167 Morocco|0.83333 and|0.875 Sweden|0.91667 2015|0.95833 |1"
+		}
+	}
+}

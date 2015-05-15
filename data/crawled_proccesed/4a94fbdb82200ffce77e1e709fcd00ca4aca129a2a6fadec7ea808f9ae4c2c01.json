@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a94fbdb82200ffce77e1e709fcd00ca4aca129a2a6fadec7ea808f9ae4c2c01",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Old_residence.jpg/220px-Old_residence.jpg",
+			"previous": " Most Guyanese Christians are either Protestants or Roman Catholics and include a mix of all races  Data from a 2002 census on religious affiliation indicates that approximately 57 of the population is Christian 28 are Hindu and 7 are Muslims An estimated 4 of the population does not profess any religion 38 ",
+			"after": " The politics of Guyana takes place in a framework of a representative democratic republic whereby the President of Guyana is the head of government and of a multi party system Executive power is exercised by the government Legislative power is vested in both the government and the National Assembly of Guyana ",
+			"after_weights": " The|1 politics|0.98039 of|0.96078 Guyana|0.94118 takes|0.92157 place|0.90196 in|0.88235 a|0.86275 framework|0.84314 of|0.82353 a|0.80392 representative|0.78431 democratic|0.76471 republic|0.7451 whereby|0.72549 the|0.70588 President|0.68627 of|0.66667 Guyana|0.64706 is|0.62745 the|0.60784 head|0.58824 of|0.56863 government|0.54902 and|0.52941 of|0.5098 a|0.4902 multi|0.47059 party|0.45098 system|0.43137 Executive|0.41176 power|0.39216 is|0.37255 exercised|0.35294 by|0.33333 the|0.31373 government|0.29412 Legislative|0.27451 power|0.2549 is|0.23529 vested|0.21569 in|0.19608 both|0.17647 the|0.15686 government|0.13725 and|0.11765 the|0.098039 National|0.078431 Assembly|0.058824 of|0.039216 Guyana|0.019608 |0",
+			"previous_weights": " Most|0 Guyanese|0.018868 Christians|0.037736 are|0.056604 either|0.075472 Protestants|0.09434 or|0.11321 Roman|0.13208 Catholics|0.15094 and|0.16981 include|0.18868 a|0.20755 mix|0.22642 of|0.24528 all|0.26415 races|0.28302 |0.30189 Data|0.32075 from|0.33962 a|0.35849 2002|0.37736 census|0.39623 on|0.41509 religious|0.43396 affiliation|0.45283 indicates|0.4717 that|0.49057 approximately|0.50943 57|0.5283 of|0.54717 the|0.56604 population|0.58491 is|0.60377 Christian|0.62264 28|0.64151 are|0.66038 Hindu|0.67925 and|0.69811 7|0.71698 are|0.73585 Muslims|0.75472 An|0.77358 estimated|0.79245 4|0.81132 of|0.83019 the|0.84906 population|0.86792 does|0.88679 not|0.90566 profess|0.92453 any|0.9434 religion|0.96226 38|0.98113 |1"
+		}
+	}
+}

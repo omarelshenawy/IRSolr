@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "519cf3dd6762db017033eb73b286b9f4169ddfb612b247ff0e1499788088e166",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Wilhelm_Keitel_Kapitulation.jpg/100px-Wilhelm_Keitel_Kapitulation.jpg",
+			"previous": " May 8 Victory in Europe Day World Red Cross and Red Crescent Day Miguel Hidalgo s Birthday in Mexico Parents Day in South Korea",
+			"after": " More anniversaries May 7 May 8 May 9 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 7|0.72727 May|0.63636 8|0.54545 May|0.45455 9|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 8|0.043478 Victory|0.086957 in|0.13043 Europe|0.17391 Day|0.21739 World|0.26087 Red|0.30435 Cross|0.34783 and|0.3913 Red|0.43478 Crescent|0.47826 Day|0.52174 Miguel|0.56522 Hidalgo|0.6087 s|0.65217 Birthday|0.69565 in|0.73913 Mexico|0.78261 Parents|0.82609 Day|0.86957 in|0.91304 South|0.95652 Korea|1"
+		}
+	}
+}

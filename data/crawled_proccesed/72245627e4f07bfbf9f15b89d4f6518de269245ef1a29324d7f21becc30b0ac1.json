@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "72245627e4f07bfbf9f15b89d4f6518de269245ef1a29324d7f21becc30b0ac1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Beowulf.jpg/150px-Beowulf.jpg",
+			"previous": " ",
+			"after": " The desire to get more computing power and better reliability by orchestrating a number of low cost commercial off the shelf computers has given rise to a variety of architectures and configurations  The computer clustering approach usually but not always connects a number of readily available computing nodes e g personal computers used as servers via a fast local area network 7 The activities of the computing nodes are orchestrated by clustering middleware a software layer that sits atop the nodes and allows the users to treat the cluster as by and large one cohesive computing unit e g via a single system image concept 7 ",
+			"after_weights": " The|1 desire|0.99065 to|0.98131 get|0.97196 more|0.96262 computing|0.95327 power|0.94393 and|0.93458 better|0.92523 reliability|0.91589 by|0.90654 orchestrating|0.8972 a|0.88785 number|0.8785 of|0.86916 low|0.85981 cost|0.85047 commercial|0.84112 off|0.83178 the|0.82243 shelf|0.81308 computers|0.80374 has|0.79439 given|0.78505 rise|0.7757 to|0.76636 a|0.75701 variety|0.74766 of|0.73832 architectures|0.72897 and|0.71963 configurations|0.71028 |0.70093 The|0.69159 computer|0.68224 clustering|0.6729 approach|0.66355 usually|0.65421 but|0.64486 not|0.63551 always|0.62617 connects|0.61682 a|0.60748 number|0.59813 of|0.58879 readily|0.57944 available|0.57009 computing|0.56075 nodes|0.5514 e|0.54206 g|0.53271 personal|0.52336 computers|0.51402 used|0.50467 as|0.49533 servers|0.48598 via|0.47664 a|0.46729 fast|0.45794 local|0.4486 area|0.43925 network|0.42991 7|0.42056 The|0.41121 activities|0.40187 of|0.39252 the|0.38318 computing|0.37383 nodes|0.36449 are|0.35514 orchestrated|0.34579 by|0.33645 clustering|0.3271 middleware|0.31776 a|0.30841 software|0.29907 layer|0.28972 that|0.28037 sits|0.27103 atop|0.26168 the|0.25234 nodes|0.24299 and|0.23364 allows|0.2243 the|0.21495 users|0.20561 to|0.19626 treat|0.18692 the|0.17757 cluster|0.16822 as|0.15888 by|0.14953 and|0.14019 large|0.13084 one|0.1215 cohesive|0.11215 computing|0.1028 unit|0.093458 e|0.084112 g|0.074766 via|0.065421 a|0.056075 single|0.046729 system|0.037383 image|0.028037 concept|0.018692 7|0.0093458 |0",
+			"previous_weights": " "
+		}
+	}
+}

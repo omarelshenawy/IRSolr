@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d346728fa9b60c671041f8088553e075245804201ea3d9a208439afa4cfadd09",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Australia_New_Guinea_continent.jpg/200px-Australia_New_Guinea_continent.jpg",
+			"previous": " ",
+			"after": " Australian English AusE AuE AusEng en AU 1 is a major variety of the English language and is used throughout Australia Although English has no official status in the Constitution Australian English is Australia s de facto official language and is the first language of the majority of the population ",
+			"after_weights": " Australian|1 English|0.98 AusE|0.96 AuE|0.94 AusEng|0.92 en|0.9 AU|0.88 1|0.86 is|0.84 a|0.82 major|0.8 variety|0.78 of|0.76 the|0.74 English|0.72 language|0.7 and|0.68 is|0.66 used|0.64 throughout|0.62 Australia|0.6 Although|0.58 English|0.56 has|0.54 no|0.52 official|0.5 status|0.48 in|0.46 the|0.44 Constitution|0.42 Australian|0.4 English|0.38 is|0.36 Australia|0.34 s|0.32 de|0.3 facto|0.28 official|0.26 language|0.24 and|0.22 is|0.2 the|0.18 first|0.16 language|0.14 of|0.12 the|0.1 majority|0.08 of|0.06 the|0.04 population|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

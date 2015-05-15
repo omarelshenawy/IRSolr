@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "abf3d161d3a575503558c97b51d04d653999d7ed44ab239c8d5e05d59e64ffc5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Teaching-criticism-praise.png/220px-Teaching-criticism-praise.png",
+			"previous": "  The Academic Integrity at MIT handbook for students at Massachusetts Institute of Technology states Wikipedia is Not a Reliable Academic Source The bibliography published at the end of the Wikipedia entry may point you to potential sources However do not assume that these sources are reliable use the same criteria to judge them as you would any other source Do not consider the Wikipedia bibliography as a replacement for your own research 11 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " |0 The|0.013514 Academic|0.027027 Integrity|0.040541 at|0.054054 MIT|0.067568 handbook|0.081081 for|0.094595 students|0.10811 at|0.12162 Massachusetts|0.13514 Institute|0.14865 of|0.16216 Technology|0.17568 states|0.18919 Wikipedia|0.2027 is|0.21622 Not|0.22973 a|0.24324 Reliable|0.25676 Academic|0.27027 Source|0.28378 The|0.2973 bibliography|0.31081 published|0.32432 at|0.33784 the|0.35135 end|0.36486 of|0.37838 the|0.39189 Wikipedia|0.40541 entry|0.41892 may|0.43243 point|0.44595 you|0.45946 to|0.47297 potential|0.48649 sources|0.5 However|0.51351 do|0.52703 not|0.54054 assume|0.55405 that|0.56757 these|0.58108 sources|0.59459 are|0.60811 reliable|0.62162 use|0.63514 the|0.64865 same|0.66216 criteria|0.67568 to|0.68919 judge|0.7027 them|0.71622 as|0.72973 you|0.74324 would|0.75676 any|0.77027 other|0.78378 source|0.7973 Do|0.81081 not|0.82432 consider|0.83784 the|0.85135 Wikipedia|0.86486 bibliography|0.87838 as|0.89189 a|0.90541 replacement|0.91892 for|0.93243 your|0.94595 own|0.95946 research|0.97297 11|0.98649 |1"
+		}
+	}
+}

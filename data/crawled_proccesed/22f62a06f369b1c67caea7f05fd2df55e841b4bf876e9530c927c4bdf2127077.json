@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "22f62a06f369b1c67caea7f05fd2df55e841b4bf876e9530c927c4bdf2127077",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mozart_and_Linley_1770.jpg/220px-Mozart_and_Linley_1770.jpg",
+			"previous": " ",
+			"after": " Wolfgang Amadeus Mozart s Die Zauberfl te 1791 is usually said to be the beginning of German language opera An earlier starting date for German opera however could be Heinrich Sch tz s Dafne from 1627 Sch tz is said to be the first great German composer before Johann Sebastian Bach and was a major figure in 17th century music ",
+			"after_weights": " Wolfgang|1 Amadeus|0.98333 Mozart|0.96667 s|0.95 Die|0.93333 Zauberfl|0.91667 te|0.9 1791|0.88333 is|0.86667 usually|0.85 said|0.83333 to|0.81667 be|0.8 the|0.78333 beginning|0.76667 of|0.75 German|0.73333 language|0.71667 opera|0.7 An|0.68333 earlier|0.66667 starting|0.65 date|0.63333 for|0.61667 German|0.6 opera|0.58333 however|0.56667 could|0.55 be|0.53333 Heinrich|0.51667 Sch|0.5 tz|0.48333 s|0.46667 Dafne|0.45 from|0.43333 1627|0.41667 Sch|0.4 tz|0.38333 is|0.36667 said|0.35 to|0.33333 be|0.31667 the|0.3 first|0.28333 great|0.26667 German|0.25 composer|0.23333 before|0.21667 Johann|0.2 Sebastian|0.18333 Bach|0.16667 and|0.15 was|0.13333 a|0.11667 major|0.1 figure|0.083333 in|0.066667 17th|0.05 century|0.033333 music|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

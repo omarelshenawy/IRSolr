@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "abfe0ff3e24db9b1e9fdd3cd4d9e9abe5f8dddd4ac4e3cf12a4cc82e534b03c4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PanoramaOfSouthGeorgia.jpg/200px-PanoramaOfSouthGeorgia.jpg",
+			"previous": " ",
+			"after": " From 1905 the Argentine Meteorological Office cooperated in maintaining a meteorological observatory at Grytviken under the British lease requirements of the whaling station until these changed in 1949 ",
+			"after_weights": " From|1 1905|0.96429 the|0.92857 Argentine|0.89286 Meteorological|0.85714 Office|0.82143 cooperated|0.78571 in|0.75 maintaining|0.71429 a|0.67857 meteorological|0.64286 observatory|0.60714 at|0.57143 Grytviken|0.53571 under|0.5 the|0.46429 British|0.42857 lease|0.39286 requirements|0.35714 of|0.32143 the|0.28571 whaling|0.25 station|0.21429 until|0.17857 these|0.14286 changed|0.10714 in|0.071429 1949|0.035714 |0",
+			"previous_weights": " "
+		}
+	}
+}

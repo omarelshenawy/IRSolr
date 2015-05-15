@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bdd33acfa8027b221f1751a77dd640c3018ea383ef1b7c157fbc9017b674310d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Douglas_Adams%27_gravestone.jpg/170px-Douglas_Adams%27_gravestone.jpg",
+			"previous": " ",
+			"after": " Adams died of a heart attack on 11 May 2001 aged 49 after resting from his regular workout at a private gym in Montecito California He had unknowingly suffered a gradual narrowing of the coronary arteries which led at that moment to a myocardial infarction and a fatal cardiac arrhythmia Adams had been due to deliver the commencement address at Harvey Mudd College on 13 May 58 His funeral was held on 16 May in Santa Barbara California His remains were subsequently cremated and the ashes placed in Highgate Cemetery in north London in June 2002 59 ",
+			"after_weights": " Adams|1 died|0.98969 of|0.97938 a|0.96907 heart|0.95876 attack|0.94845 on|0.93814 11|0.92784 May|0.91753 2001|0.90722 aged|0.89691 49|0.8866 after|0.87629 resting|0.86598 from|0.85567 his|0.84536 regular|0.83505 workout|0.82474 at|0.81443 a|0.80412 private|0.79381 gym|0.78351 in|0.7732 Montecito|0.76289 California|0.75258 He|0.74227 had|0.73196 unknowingly|0.72165 suffered|0.71134 a|0.70103 gradual|0.69072 narrowing|0.68041 of|0.6701 the|0.65979 coronary|0.64948 arteries|0.63918 which|0.62887 led|0.61856 at|0.60825 that|0.59794 moment|0.58763 to|0.57732 a|0.56701 myocardial|0.5567 infarction|0.54639 and|0.53608 a|0.52577 fatal|0.51546 cardiac|0.50515 arrhythmia|0.49485 Adams|0.48454 had|0.47423 been|0.46392 due|0.45361 to|0.4433 deliver|0.43299 the|0.42268 commencement|0.41237 address|0.40206 at|0.39175 Harvey|0.38144 Mudd|0.37113 College|0.36082 on|0.35052 13|0.34021 May|0.3299 58|0.31959 His|0.30928 funeral|0.29897 was|0.28866 held|0.27835 on|0.26804 16|0.25773 May|0.24742 in|0.23711 Santa|0.2268 Barbara|0.21649 California|0.20619 His|0.19588 remains|0.18557 were|0.17526 subsequently|0.16495 cremated|0.15464 and|0.14433 the|0.13402 ashes|0.12371 placed|0.1134 in|0.10309 Highgate|0.092784 Cemetery|0.082474 in|0.072165 north|0.061856 London|0.051546 in|0.041237 June|0.030928 2002|0.020619 59|0.010309 |0",
+			"previous_weights": " "
+		}
+	}
+}

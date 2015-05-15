@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f1f8738ddce14ae9fa64d062765e7b1fbd771e6cfb8673ff46db2c877abcfb10",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sue_Gardner_during_her_presentation_at_Wikimania_2013.jpg/220px-Sue_Gardner_during_her_presentation_at_Wikimania_2013.jpg",
+			"previous": " ",
+			"after": " In May 2007 Gardner resigned from CBC and shortly thereafter began consulting for the Wikimedia Foundation as a special advisor on operations and governance 12 In December 2007 she was hired as the foundation s executive director 13 Over the next two years she oversaw growth of the staff including the addition of a fundraising team and a move of the headquarters from St Petersburg FL to San Francisco ",
+			"after_weights": " In|1 May|0.98551 2007|0.97101 Gardner|0.95652 resigned|0.94203 from|0.92754 CBC|0.91304 and|0.89855 shortly|0.88406 thereafter|0.86957 began|0.85507 consulting|0.84058 for|0.82609 the|0.81159 Wikimedia|0.7971 Foundation|0.78261 as|0.76812 a|0.75362 special|0.73913 advisor|0.72464 on|0.71014 operations|0.69565 and|0.68116 governance|0.66667 12|0.65217 In|0.63768 December|0.62319 2007|0.6087 she|0.5942 was|0.57971 hired|0.56522 as|0.55072 the|0.53623 foundation|0.52174 s|0.50725 executive|0.49275 director|0.47826 13|0.46377 Over|0.44928 the|0.43478 next|0.42029 two|0.4058 years|0.3913 she|0.37681 oversaw|0.36232 growth|0.34783 of|0.33333 the|0.31884 staff|0.30435 including|0.28986 the|0.27536 addition|0.26087 of|0.24638 a|0.23188 fundraising|0.21739 team|0.2029 and|0.18841 a|0.17391 move|0.15942 of|0.14493 the|0.13043 headquarters|0.11594 from|0.10145 St|0.086957 Petersburg|0.072464 FL|0.057971 to|0.043478 San|0.028986 Francisco|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

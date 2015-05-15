@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b3e7af71fed115cb3a25526dbb2ca6ac772d33f361e5588da18bab64742f543e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Art_Gallery_of_New_South_Wales_at_night.jpg/220px-Art_Gallery_of_New_South_Wales_at_night.jpg",
+			"previous": " ",
+			"after": " The Australian Museum opened in Sydney in 1857 with the purpose of collecting and displaying the natural wealth of the colony 174 It remains Australia s oldest natural history museum In 1995 the Museum of Sydney opened on the site of the first Government House It recounts the story of the city s development 175 Other museums based in Sydney include the Powerhouse Museum and the Australian National Maritime Museum 176 177 ",
+			"after_weights": " The|1 Australian|0.98611 Museum|0.97222 opened|0.95833 in|0.94444 Sydney|0.93056 in|0.91667 1857|0.90278 with|0.88889 the|0.875 purpose|0.86111 of|0.84722 collecting|0.83333 and|0.81944 displaying|0.80556 the|0.79167 natural|0.77778 wealth|0.76389 of|0.75 the|0.73611 colony|0.72222 174|0.70833 It|0.69444 remains|0.68056 Australia|0.66667 s|0.65278 oldest|0.63889 natural|0.625 history|0.61111 museum|0.59722 In|0.58333 1995|0.56944 the|0.55556 Museum|0.54167 of|0.52778 Sydney|0.51389 opened|0.5 on|0.48611 the|0.47222 site|0.45833 of|0.44444 the|0.43056 first|0.41667 Government|0.40278 House|0.38889 It|0.375 recounts|0.36111 the|0.34722 story|0.33333 of|0.31944 the|0.30556 city|0.29167 s|0.27778 development|0.26389 175|0.25 Other|0.23611 museums|0.22222 based|0.20833 in|0.19444 Sydney|0.18056 include|0.16667 the|0.15278 Powerhouse|0.13889 Museum|0.125 and|0.11111 the|0.097222 Australian|0.083333 National|0.069444 Maritime|0.055556 Museum|0.041667 176|0.027778 177|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

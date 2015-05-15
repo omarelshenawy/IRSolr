@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "50b59e3899d43cdf21a065650d49f3b34e02d3a2b9c3257a135b8a2aa9a7f50d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chesapeake_Crater_boundaries_map.png/220px-Chesapeake_Crater_boundaries_map.png",
+			"previous": " ",
+			"after": " The Chesapeake Bay separates the contiguous portion of the Commonwealth from the two county peninsula of Virginia s Eastern Shore The bay was formed from the drowned river valleys of the Susquehanna River and the James River 16 Many of Virginia s rivers flow into the Chesapeake Bay including the Potomac Rappahannock York and James which create three peninsulas in the bay 17 18 ",
+			"after_weights": " The|1 Chesapeake|0.98438 Bay|0.96875 separates|0.95312 the|0.9375 contiguous|0.92188 portion|0.90625 of|0.89062 the|0.875 Commonwealth|0.85938 from|0.84375 the|0.82812 two|0.8125 county|0.79688 peninsula|0.78125 of|0.76562 Virginia|0.75 s|0.73438 Eastern|0.71875 Shore|0.70312 The|0.6875 bay|0.67188 was|0.65625 formed|0.64062 from|0.625 the|0.60938 drowned|0.59375 river|0.57812 valleys|0.5625 of|0.54688 the|0.53125 Susquehanna|0.51562 River|0.5 and|0.48438 the|0.46875 James|0.45312 River|0.4375 16|0.42188 Many|0.40625 of|0.39062 Virginia|0.375 s|0.35938 rivers|0.34375 flow|0.32812 into|0.3125 the|0.29688 Chesapeake|0.28125 Bay|0.26562 including|0.25 the|0.23438 Potomac|0.21875 Rappahannock|0.20312 York|0.1875 and|0.17188 James|0.15625 which|0.14062 create|0.125 three|0.10938 peninsulas|0.09375 in|0.078125 the|0.0625 bay|0.046875 17|0.03125 18|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

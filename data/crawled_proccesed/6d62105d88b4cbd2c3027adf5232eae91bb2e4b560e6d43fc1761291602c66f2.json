@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d62105d88b4cbd2c3027adf5232eae91bb2e4b560e6d43fc1761291602c66f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Finstr%C3%B6m%2C_minnessten_vid_fhsk_1990..jpg/220px-Finstr%C3%B6m%2C_minnessten_vid_fhsk_1990..jpg",
+			"previous": " ",
+			"after": "  land Swedish l ndska is a dialect of Swedish spoken in the land Islands an autonomous province of Finland land Swedish has similarities to both Finland Swedish and the historical dialects of Uppland but it is generally considered to be a variant of Eastern Swedish stsvenskam l varieties of Swedish spoken in Finland and Estonia ",
+			"after_weights": " |1 land|0.98214 Swedish|0.96429 l|0.94643 ndska|0.92857 is|0.91071 a|0.89286 dialect|0.875 of|0.85714 Swedish|0.83929 spoken|0.82143 in|0.80357 the|0.78571 land|0.76786 Islands|0.75 an|0.73214 autonomous|0.71429 province|0.69643 of|0.67857 Finland|0.66071 land|0.64286 Swedish|0.625 has|0.60714 similarities|0.58929 to|0.57143 both|0.55357 Finland|0.53571 Swedish|0.51786 and|0.5 the|0.48214 historical|0.46429 dialects|0.44643 of|0.42857 Uppland|0.41071 but|0.39286 it|0.375 is|0.35714 generally|0.33929 considered|0.32143 to|0.30357 be|0.28571 a|0.26786 variant|0.25 of|0.23214 Eastern|0.21429 Swedish|0.19643 stsvenskam|0.17857 l|0.16071 varieties|0.14286 of|0.125 Swedish|0.10714 spoken|0.089286 in|0.071429 Finland|0.053571 and|0.035714 Estonia|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

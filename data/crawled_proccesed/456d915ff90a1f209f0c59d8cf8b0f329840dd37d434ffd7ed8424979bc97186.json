@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "456d915ff90a1f209f0c59d8cf8b0f329840dd37d434ffd7ed8424979bc97186",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/220px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+			"previous": " ",
+			"after": " Artists from Spain have been highly influential in the development of various European artistic movements Due to historical geographical and generational diversity Spanish art has known a great number of influences The Moorish heritage in Spain especially in Andalusia is still evident today and European influences include Italy Germany and France especially during the Baroque and Neoclassical periods ",
+			"after_weights": " Artists|1 from|0.98276 Spain|0.96552 have|0.94828 been|0.93103 highly|0.91379 influential|0.89655 in|0.87931 the|0.86207 development|0.84483 of|0.82759 various|0.81034 European|0.7931 artistic|0.77586 movements|0.75862 Due|0.74138 to|0.72414 historical|0.7069 geographical|0.68966 and|0.67241 generational|0.65517 diversity|0.63793 Spanish|0.62069 art|0.60345 has|0.58621 known|0.56897 a|0.55172 great|0.53448 number|0.51724 of|0.5 influences|0.48276 The|0.46552 Moorish|0.44828 heritage|0.43103 in|0.41379 Spain|0.39655 especially|0.37931 in|0.36207 Andalusia|0.34483 is|0.32759 still|0.31034 evident|0.2931 today|0.27586 and|0.25862 European|0.24138 influences|0.22414 include|0.2069 Italy|0.18966 Germany|0.17241 and|0.15517 France|0.13793 especially|0.12069 during|0.10345 the|0.086207 Baroque|0.068966 and|0.051724 Neoclassical|0.034483 periods|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

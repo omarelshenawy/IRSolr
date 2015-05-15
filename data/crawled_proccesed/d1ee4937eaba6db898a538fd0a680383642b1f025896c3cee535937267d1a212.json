@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d1ee4937eaba6db898a538fd0a680383642b1f025896c3cee535937267d1a212",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Harriet_Tubman.jpg/100px-Harriet_Tubman.jpg",
+			"previous": " Portal Biography Selected article August",
+			"after": " Harriet Tubman born Araminta Ross c 1820 March 10 1913 was an African American abolitionist humanitarian and Union spy during the US Civil War After escaping from slavery into which she was born she made thirteen missions to rescue some seventy slaves using a network of antislavery activists and safe houses known as the Underground Railroad She later helped John Brown recruit men for his raid on Harpers Ferry and in the post war era struggled for women s suffrage Read more ",
+			"after_weights": " Harriet|1 Tubman|0.9878 born|0.97561 Araminta|0.96341 Ross|0.95122 c|0.93902 1820|0.92683 March|0.91463 10|0.90244 1913|0.89024 was|0.87805 an|0.86585 African|0.85366 American|0.84146 abolitionist|0.82927 humanitarian|0.81707 and|0.80488 Union|0.79268 spy|0.78049 during|0.76829 the|0.7561 US|0.7439 Civil|0.73171 War|0.71951 After|0.70732 escaping|0.69512 from|0.68293 slavery|0.67073 into|0.65854 which|0.64634 she|0.63415 was|0.62195 born|0.60976 she|0.59756 made|0.58537 thirteen|0.57317 missions|0.56098 to|0.54878 rescue|0.53659 some|0.52439 seventy|0.5122 slaves|0.5 using|0.4878 a|0.47561 network|0.46341 of|0.45122 antislavery|0.43902 activists|0.42683 and|0.41463 safe|0.40244 houses|0.39024 known|0.37805 as|0.36585 the|0.35366 Underground|0.34146 Railroad|0.32927 She|0.31707 later|0.30488 helped|0.29268 John|0.28049 Brown|0.26829 recruit|0.2561 men|0.2439 for|0.23171 his|0.21951 raid|0.20732 on|0.19512 Harpers|0.18293 Ferry|0.17073 and|0.15854 in|0.14634 the|0.13415 post|0.12195 war|0.10976 era|0.097561 struggled|0.085366 for|0.073171 women|0.060976 s|0.04878 suffrage|0.036585 Read|0.02439 more|0.012195 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 article|0.75 August|1"
+		}
+	}
+}

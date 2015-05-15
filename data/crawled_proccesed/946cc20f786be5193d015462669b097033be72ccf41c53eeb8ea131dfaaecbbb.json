@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "946cc20f786be5193d015462669b097033be72ccf41c53eeb8ea131dfaaecbbb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TCF_Bank_Stadium_opener.jpg/220px-TCF_Bank_Stadium_opener.jpg",
+			"previous": " ",
+			"after": " The Minnesota Golden Gophers are one of the oldest programs in college football history They have won 7 National Championships and 18 Big Ten Conference Championships The Golden Gophers played their first game on September 29 1882 a 4 0 victory over Hamline University St Paul In 1887 the Golden Gophers played host to the Wisconsin Badgers in a 63 0 victory With the exception of 1906 the Golden Gophers and the Badgers have played each other every year since The 124 games played against each other is the most played rivalry in NCAA Division I FBS college football ",
+			"after_weights": " The|1 Minnesota|0.9899 Golden|0.9798 Gophers|0.9697 are|0.9596 one|0.94949 of|0.93939 the|0.92929 oldest|0.91919 programs|0.90909 in|0.89899 college|0.88889 football|0.87879 history|0.86869 They|0.85859 have|0.84848 won|0.83838 7|0.82828 National|0.81818 Championships|0.80808 and|0.79798 18|0.78788 Big|0.77778 Ten|0.76768 Conference|0.75758 Championships|0.74747 The|0.73737 Golden|0.72727 Gophers|0.71717 played|0.70707 their|0.69697 first|0.68687 game|0.67677 on|0.66667 September|0.65657 29|0.64646 1882|0.63636 a|0.62626 4|0.61616 0|0.60606 victory|0.59596 over|0.58586 Hamline|0.57576 University|0.56566 St|0.55556 Paul|0.54545 In|0.53535 1887|0.52525 the|0.51515 Golden|0.50505 Gophers|0.49495 played|0.48485 host|0.47475 to|0.46465 the|0.45455 Wisconsin|0.44444 Badgers|0.43434 in|0.42424 a|0.41414 63|0.40404 0|0.39394 victory|0.38384 With|0.37374 the|0.36364 exception|0.35354 of|0.34343 1906|0.33333 the|0.32323 Golden|0.31313 Gophers|0.30303 and|0.29293 the|0.28283 Badgers|0.27273 have|0.26263 played|0.25253 each|0.24242 other|0.23232 every|0.22222 year|0.21212 since|0.20202 The|0.19192 124|0.18182 games|0.17172 played|0.16162 against|0.15152 each|0.14141 other|0.13131 is|0.12121 the|0.11111 most|0.10101 played|0.090909 rivalry|0.080808 in|0.070707 NCAA|0.060606 Division|0.050505 I|0.040404 FBS|0.030303 college|0.020202 football|0.010101 |0",
+			"previous_weights": " "
+		}
+	}
+}

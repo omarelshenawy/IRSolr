@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f11273fe79cf3526ab9c35c7286d49d44845dc13dffcc408eaf95f1040333283",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Racal_Space_Suits.JPG/220px-Racal_Space_Suits.JPG",
+			"previous": " ",
+			"after": " A racal suit also known as racal space suit or AIT field protective suit 1 2 is a portable personal protective equipment consisting of a plastic suit and a battery operated blower with HEPA filters that supply filtered air to a positive pressure hood also known as racal hood Racal suits were used by Aeromedical Isolation Teams AIT to evacuate patients with highly infectious diseases for treatment 3 4 ",
+			"after_weights": " A|1 racal|0.98551 suit|0.97101 also|0.95652 known|0.94203 as|0.92754 racal|0.91304 space|0.89855 suit|0.88406 or|0.86957 AIT|0.85507 field|0.84058 protective|0.82609 suit|0.81159 1|0.7971 2|0.78261 is|0.76812 a|0.75362 portable|0.73913 personal|0.72464 protective|0.71014 equipment|0.69565 consisting|0.68116 of|0.66667 a|0.65217 plastic|0.63768 suit|0.62319 and|0.6087 a|0.5942 battery|0.57971 operated|0.56522 blower|0.55072 with|0.53623 HEPA|0.52174 filters|0.50725 that|0.49275 supply|0.47826 filtered|0.46377 air|0.44928 to|0.43478 a|0.42029 positive|0.4058 pressure|0.3913 hood|0.37681 also|0.36232 known|0.34783 as|0.33333 racal|0.31884 hood|0.30435 Racal|0.28986 suits|0.27536 were|0.26087 used|0.24638 by|0.23188 Aeromedical|0.21739 Isolation|0.2029 Teams|0.18841 AIT|0.17391 to|0.15942 evacuate|0.14493 patients|0.13043 with|0.11594 highly|0.10145 infectious|0.086957 diseases|0.072464 for|0.057971 treatment|0.043478 3|0.028986 4|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

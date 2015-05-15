@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "122b383428ebdb0e48021917211a86283f1d491d75d24bc9bc16baf9ad556b43",
+			"url": "https://upload.wikimedia.org/math/e/c/5/ec5411b5d427063f2a108cc41a59f8f8.png",
+			"previous": " Lack of bias  The two quality criteria referred to previously can now be expressed in terms of the mean and variance of the new random variable ",
+			"after": " In order to ensure that the model is unbiased the weights must sum to one ",
+			"after_weights": " In|1 order|0.93333 to|0.86667 ensure|0.8 that|0.73333 the|0.66667 model|0.6 is|0.53333 unbiased|0.46667 the|0.4 weights|0.33333 must|0.26667 sum|0.2 to|0.13333 one|0.066667 |0",
+			"previous_weights": " Lack|0 of|0.037037 bias|0.074074 |0.11111 The|0.14815 two|0.18519 quality|0.22222 criteria|0.25926 referred|0.2963 to|0.33333 previously|0.37037 can|0.40741 now|0.44444 be|0.48148 expressed|0.51852 in|0.55556 terms|0.59259 of|0.62963 the|0.66667 mean|0.7037 and|0.74074 variance|0.77778 of|0.81481 the|0.85185 new|0.88889 random|0.92593 variable|0.96296 |1"
+		}
+	}
+}

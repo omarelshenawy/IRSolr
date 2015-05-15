@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f4632ebd5be5e951f71a4a5c7f16d3f69d1bdd071b4d36019a1ddc02cc415c83",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Institute_of_Behavioural_Sciences%2C_Helsinki_University.jpg/220px-Institute_of_Behavioural_Sciences%2C_Helsinki_University.jpg",
+			"previous": " ",
+			"after": " The university is divided into eleven faculties They are listed below in the official order used by the university reflecting both the history of the university and the hierarchy of disciplines at the time when the university was established ",
+			"after_weights": " The|1 university|0.97436 is|0.94872 divided|0.92308 into|0.89744 eleven|0.87179 faculties|0.84615 They|0.82051 are|0.79487 listed|0.76923 below|0.74359 in|0.71795 the|0.69231 official|0.66667 order|0.64103 used|0.61538 by|0.58974 the|0.5641 university|0.53846 reflecting|0.51282 both|0.48718 the|0.46154 history|0.4359 of|0.41026 the|0.38462 university|0.35897 and|0.33333 the|0.30769 hierarchy|0.28205 of|0.25641 disciplines|0.23077 at|0.20513 the|0.17949 time|0.15385 when|0.12821 the|0.10256 university|0.076923 was|0.051282 established|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "29012f578f90b6bd4b9add99fd836f8ca04cb0e24a6095955ab78f49634ca0e7",
+			"url": "https://upload.wikimedia.org/math/6/a/6/6a6de1a355b1c2e4d102abc2ece07f7f.png",
+			"previous": " The volumetric flow rate in fluid dynamics is the volume of fluid which passes through a given surface per unit time for example cubic meters per second m3 s 1 ",
+			"after": " The volume integral in cylindrical coordinates is",
+			"after_weights": " The|1 volume|0.83333 integral|0.66667 in|0.5 cylindrical|0.33333 coordinates|0.16667 is|0",
+			"previous_weights": " The|0 volumetric|0.033333 flow|0.066667 rate|0.1 in|0.13333 fluid|0.16667 dynamics|0.2 is|0.23333 the|0.26667 volume|0.3 of|0.33333 fluid|0.36667 which|0.4 passes|0.43333 through|0.46667 a|0.5 given|0.53333 surface|0.56667 per|0.6 unit|0.63333 time|0.66667 for|0.7 example|0.73333 cubic|0.76667 meters|0.8 per|0.83333 second|0.86667 m3|0.9 s|0.93333 1|0.96667 |1"
+		}
+	}
+}

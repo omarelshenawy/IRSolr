@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b347a93204f51f8d2e6aecb6dedbbebb47a6c187b83a2ec2402fdeba3101b93",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikinews_logo.png",
+			"previous": " ",
+			"after": " The first 5 recorded proposal of a Wikimedia news site was a two line anonymous post on January 5 2003 on Wikipedia community s Meta Wiki 6 Daniel Alston who edited Wikipedia as Fonzy 7 claimed to have been the one who posted it 5 8 The proposal was then further developed by German freelance journalist software developer and author Erik M ller 5 Early opposition from long time Wikipedia contributors many of them pointing out the existence of Wikipedia s own news summaries gave way to detailed discussions and proposals about how it could be implemented as a new project of the Wikimedia Foundation ",
+			"after_weights": " The|1 first|0.99048 5|0.98095 recorded|0.97143 proposal|0.9619 of|0.95238 a|0.94286 Wikimedia|0.93333 news|0.92381 site|0.91429 was|0.90476 a|0.89524 two|0.88571 line|0.87619 anonymous|0.86667 post|0.85714 on|0.84762 January|0.8381 5|0.82857 2003|0.81905 on|0.80952 Wikipedia|0.8 community|0.79048 s|0.78095 Meta|0.77143 Wiki|0.7619 6|0.75238 Daniel|0.74286 Alston|0.73333 who|0.72381 edited|0.71429 Wikipedia|0.70476 as|0.69524 Fonzy|0.68571 7|0.67619 claimed|0.66667 to|0.65714 have|0.64762 been|0.6381 the|0.62857 one|0.61905 who|0.60952 posted|0.6 it|0.59048 5|0.58095 8|0.57143 The|0.5619 proposal|0.55238 was|0.54286 then|0.53333 further|0.52381 developed|0.51429 by|0.50476 German|0.49524 freelance|0.48571 journalist|0.47619 software|0.46667 developer|0.45714 and|0.44762 author|0.4381 Erik|0.42857 M|0.41905 ller|0.40952 5|0.4 Early|0.39048 opposition|0.38095 from|0.37143 long|0.3619 time|0.35238 Wikipedia|0.34286 contributors|0.33333 many|0.32381 of|0.31429 them|0.30476 pointing|0.29524 out|0.28571 the|0.27619 existence|0.26667 of|0.25714 Wikipedia|0.24762 s|0.2381 own|0.22857 news|0.21905 summaries|0.20952 gave|0.2 way|0.19048 to|0.18095 detailed|0.17143 discussions|0.1619 and|0.15238 proposals|0.14286 about|0.13333 how|0.12381 it|0.11429 could|0.10476 be|0.095238 implemented|0.085714 as|0.07619 a|0.066667 new|0.057143 project|0.047619 of|0.038095 the|0.028571 Wikimedia|0.019048 Foundation|0.0095238 |0",
+			"previous_weights": " "
+		}
+	}
+}

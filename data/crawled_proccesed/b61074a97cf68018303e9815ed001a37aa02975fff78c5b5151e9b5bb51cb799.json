@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b61074a97cf68018303e9815ed001a37aa02975fff78c5b5151e9b5bb51cb799",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Park_and_Ride_Oxford_20050129.jpg/220px-Park_and_Ride_Oxford_20050129.jpg",
+			"previous": " Arriva operates the 280 Sapphire service to Aylesbury via Wheatley Thame and Haddenham 7 days a week at a frequency of up to every 20 minutes The new Sapphire buses feature power sockets leather seats and free on board Wi Fi 49 ",
+			"after": " Oxford has 5 park and ride car parks with frequent bus links to the city centre ",
+			"after_weights": " Oxford|1 has|0.9375 5|0.875 park|0.8125 and|0.75 ride|0.6875 car|0.625 parks|0.5625 with|0.5 frequent|0.4375 bus|0.375 links|0.3125 to|0.25 the|0.1875 city|0.125 centre|0.0625 |0",
+			"previous_weights": " Arriva|0 operates|0.02381 the|0.047619 280|0.071429 Sapphire|0.095238 service|0.11905 to|0.14286 Aylesbury|0.16667 via|0.19048 Wheatley|0.21429 Thame|0.2381 and|0.2619 Haddenham|0.28571 7|0.30952 days|0.33333 a|0.35714 week|0.38095 at|0.40476 a|0.42857 frequency|0.45238 of|0.47619 up|0.5 to|0.52381 every|0.54762 20|0.57143 minutes|0.59524 The|0.61905 new|0.64286 Sapphire|0.66667 buses|0.69048 feature|0.71429 power|0.7381 sockets|0.7619 leather|0.78571 seats|0.80952 and|0.83333 free|0.85714 on|0.88095 board|0.90476 Wi|0.92857 Fi|0.95238 49|0.97619 |1"
+		}
+	}
+}

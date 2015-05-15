@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "27747de4b411c5ed4df34b5cfa8350c2dce24e28fa8336924e8c352ced2c4ba9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/100px-P_culture.svg.png",
+			"previous": " History Sanskrit Plays Natya Shastra Natya Shastra of Bharata Koodiyattam Bhasa K lid sa Kathakali Bhavabhuti Harsha Chinese theatre Cantonese Opera Beijing Opera Ramakien Noh Bunraku Kabuki Butoh Theatre of Ancient Greece Theatre of ancient Rome Medieval theatre Commedia dell Arte English Renaissance theatre Restoration comedy Restoration spectacular Neoclassicism Twentieth century theatre",
+			"after": " Types Comedy Drama Musical theatre Hip Hop theater",
+			"after_weights": " Types|1 Comedy|0.85714 Drama|0.71429 Musical|0.57143 theatre|0.42857 Hip|0.28571 Hop|0.14286 theater|0",
+			"previous_weights": " History|0 Sanskrit|0.019608 Plays|0.039216 Natya|0.058824 Shastra|0.078431 Natya|0.098039 Shastra|0.11765 of|0.13725 Bharata|0.15686 Koodiyattam|0.17647 Bhasa|0.19608 K|0.21569 lid|0.23529 sa|0.2549 Kathakali|0.27451 Bhavabhuti|0.29412 Harsha|0.31373 Chinese|0.33333 theatre|0.35294 Cantonese|0.37255 Opera|0.39216 Beijing|0.41176 Opera|0.43137 Ramakien|0.45098 Noh|0.47059 Bunraku|0.4902 Kabuki|0.5098 Butoh|0.52941 Theatre|0.54902 of|0.56863 Ancient|0.58824 Greece|0.60784 Theatre|0.62745 of|0.64706 ancient|0.66667 Rome|0.68627 Medieval|0.70588 theatre|0.72549 Commedia|0.7451 dell|0.76471 Arte|0.78431 English|0.80392 Renaissance|0.82353 theatre|0.84314 Restoration|0.86275 comedy|0.88235 Restoration|0.90196 spectacular|0.92157 Neoclassicism|0.94118 Twentieth|0.96078 century|0.98039 theatre|1"
+		}
+	}
+}

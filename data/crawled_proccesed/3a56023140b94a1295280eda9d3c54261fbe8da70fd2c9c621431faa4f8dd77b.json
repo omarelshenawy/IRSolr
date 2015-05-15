@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a56023140b94a1295280eda9d3c54261fbe8da70fd2c9c621431faa4f8dd77b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heathrow_T5.jpg/220px-Heathrow_T5.jpg",
+			"previous": " ",
+			"after": " A radial road network totals 29 145 miles 46 904 km of main roads 2 173 miles 3 497 km of motorways and 213 750 miles 344 000 km of paved roads 113 The M25 encircling London is the largest and busiest bypass in the world 260 In 2009 there were a total of 34 million licensed vehicles in Great Britain 261 ",
+			"after_weights": " A|1 radial|0.98387 road|0.96774 network|0.95161 totals|0.93548 29|0.91935 145|0.90323 miles|0.8871 46|0.87097 904|0.85484 km|0.83871 of|0.82258 main|0.80645 roads|0.79032 2|0.77419 173|0.75806 miles|0.74194 3|0.72581 497|0.70968 km|0.69355 of|0.67742 motorways|0.66129 and|0.64516 213|0.62903 750|0.6129 miles|0.59677 344|0.58065 000|0.56452 km|0.54839 of|0.53226 paved|0.51613 roads|0.5 113|0.48387 The|0.46774 M25|0.45161 encircling|0.43548 London|0.41935 is|0.40323 the|0.3871 largest|0.37097 and|0.35484 busiest|0.33871 bypass|0.32258 in|0.30645 the|0.29032 world|0.27419 260|0.25806 In|0.24194 2009|0.22581 there|0.20968 were|0.19355 a|0.17742 total|0.16129 of|0.14516 34|0.12903 million|0.1129 licensed|0.096774 vehicles|0.080645 in|0.064516 Great|0.048387 Britain|0.032258 261|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bdcc2433c56c9614dd66883439eccee62c1243c7538bccce728de76ffe5502ae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ecozones.png/300px-Ecozones.png",
+			"previous": " Subregion list  A continent is one of several large landmasses on Earth They are generally identified by convention rather than any specific criteria but seven areas are commonly regarded as continents They are ",
+			"after": " The World Wildlife Fund WWF developed a system of eight biogeographic realms ecozones ",
+			"after_weights": " The|1 World|0.92308 Wildlife|0.84615 Fund|0.76923 WWF|0.69231 developed|0.61538 a|0.53846 system|0.46154 of|0.38462 eight|0.30769 biogeographic|0.23077 realms|0.15385 ecozones|0.076923 |0",
+			"previous_weights": " Subregion|0 list|0.029412 |0.058824 A|0.088235 continent|0.11765 is|0.14706 one|0.17647 of|0.20588 several|0.23529 large|0.26471 landmasses|0.29412 on|0.32353 Earth|0.35294 They|0.38235 are|0.41176 generally|0.44118 identified|0.47059 by|0.5 convention|0.52941 rather|0.55882 than|0.58824 any|0.61765 specific|0.64706 criteria|0.67647 but|0.70588 seven|0.73529 areas|0.76471 are|0.79412 commonly|0.82353 regarded|0.85294 as|0.88235 continents|0.91176 They|0.94118 are|0.97059 |1"
+		}
+	}
+}

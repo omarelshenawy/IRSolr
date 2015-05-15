@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e28295bb5be9ec1f4c19905efa6af4c2b9294fbded1d3a6fb085e28c2baf2645",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Christiansted.jpg/220px-Christiansted.jpg",
+			"previous": " The Islands experience a tropical savanna climate affected by moderate trade winds ",
+			"after": " The U S Virgin Islands are an organized unincorporated United States territory Even though they are U S citizens U S Virgin Islands residents cannot vote in presidential elections U S Virgin Islands residents however are able to vote in presidential primary elections for delegates to the Democratic National Convention and the Republican National Convention Unlike persons born on the mainland and naturalized citizens who derive their citizenship from the Fourteenth Amendment of the U S constitution those born in the U S Virgin Islands derive their U S citizenship from Congressional statute ",
+			"after_weights": " The|1 U|0.98925 S|0.97849 Virgin|0.96774 Islands|0.95699 are|0.94624 an|0.93548 organized|0.92473 unincorporated|0.91398 United|0.90323 States|0.89247 territory|0.88172 Even|0.87097 though|0.86022 they|0.84946 are|0.83871 U|0.82796 S|0.8172 citizens|0.80645 U|0.7957 S|0.78495 Virgin|0.77419 Islands|0.76344 residents|0.75269 cannot|0.74194 vote|0.73118 in|0.72043 presidential|0.70968 elections|0.69892 U|0.68817 S|0.67742 Virgin|0.66667 Islands|0.65591 residents|0.64516 however|0.63441 are|0.62366 able|0.6129 to|0.60215 vote|0.5914 in|0.58065 presidential|0.56989 primary|0.55914 elections|0.54839 for|0.53763 delegates|0.52688 to|0.51613 the|0.50538 Democratic|0.49462 National|0.48387 Convention|0.47312 and|0.46237 the|0.45161 Republican|0.44086 National|0.43011 Convention|0.41935 Unlike|0.4086 persons|0.39785 born|0.3871 on|0.37634 the|0.36559 mainland|0.35484 and|0.34409 naturalized|0.33333 citizens|0.32258 who|0.31183 derive|0.30108 their|0.29032 citizenship|0.27957 from|0.26882 the|0.25806 Fourteenth|0.24731 Amendment|0.23656 of|0.22581 the|0.21505 U|0.2043 S|0.19355 constitution|0.1828 those|0.17204 born|0.16129 in|0.15054 the|0.13978 U|0.12903 S|0.11828 Virgin|0.10753 Islands|0.096774 derive|0.086022 their|0.075269 U|0.064516 S|0.053763 citizenship|0.043011 from|0.032258 Congressional|0.021505 statute|0.010753 |0",
+			"previous_weights": " The|0 Islands|0.083333 experience|0.16667 a|0.25 tropical|0.33333 savanna|0.41667 climate|0.5 affected|0.58333 by|0.66667 moderate|0.75 trade|0.83333 winds|0.91667 |1"
+		}
+	}
+}

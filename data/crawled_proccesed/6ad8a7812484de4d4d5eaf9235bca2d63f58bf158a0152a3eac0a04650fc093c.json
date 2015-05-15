@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ad8a7812484de4d4d5eaf9235bca2d63f58bf158a0152a3eac0a04650fc093c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ipv4_address.svg/300px-Ipv4_address.svg.png",
+			"previous": " ",
+			"after": " In IPv4 an address consists of 32 bits which limits the address space to 4294967296 232 possible unique addresses IPv4 reserves some addresses for special purposes such as private networks 18 million addresses or multicast addresses 270 million addresses ",
+			"after_weights": " In|1 IPv4|0.97436 an|0.94872 address|0.92308 consists|0.89744 of|0.87179 32|0.84615 bits|0.82051 which|0.79487 limits|0.76923 the|0.74359 address|0.71795 space|0.69231 to|0.66667 4294967296|0.64103 232|0.61538 possible|0.58974 unique|0.5641 addresses|0.53846 IPv4|0.51282 reserves|0.48718 some|0.46154 addresses|0.4359 for|0.41026 special|0.38462 purposes|0.35897 such|0.33333 as|0.30769 private|0.28205 networks|0.25641 18|0.23077 million|0.20513 addresses|0.17949 or|0.15385 multicast|0.12821 addresses|0.10256 270|0.076923 million|0.051282 addresses|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

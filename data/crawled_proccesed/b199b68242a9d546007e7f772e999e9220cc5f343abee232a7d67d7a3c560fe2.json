@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b199b68242a9d546007e7f772e999e9220cc5f343abee232a7d67d7a3c560fe2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wikipedia_Autopatrolled.svg/220px-Wikipedia_Autopatrolled.svg.png",
+			"previous": " ",
+			"after": " The autopatrolled formerly autoreviewer user right is intended to reduce the workload of new page patrollers and causes articles created by autopatrolled users to be automatically marked as patrolled It means that the user can be trusted not to submit inappropriate material deliberately or otherwise and that the user submits new material often enough that it is more efficient to mark it all as approved preemptively ",
+			"after_weights": " The|1 autopatrolled|0.98485 formerly|0.9697 autoreviewer|0.95455 user|0.93939 right|0.92424 is|0.90909 intended|0.89394 to|0.87879 reduce|0.86364 the|0.84848 workload|0.83333 of|0.81818 new|0.80303 page|0.78788 patrollers|0.77273 and|0.75758 causes|0.74242 articles|0.72727 created|0.71212 by|0.69697 autopatrolled|0.68182 users|0.66667 to|0.65152 be|0.63636 automatically|0.62121 marked|0.60606 as|0.59091 patrolled|0.57576 It|0.56061 means|0.54545 that|0.5303 the|0.51515 user|0.5 can|0.48485 be|0.4697 trusted|0.45455 not|0.43939 to|0.42424 submit|0.40909 inappropriate|0.39394 material|0.37879 deliberately|0.36364 or|0.34848 otherwise|0.33333 and|0.31818 that|0.30303 the|0.28788 user|0.27273 submits|0.25758 new|0.24242 material|0.22727 often|0.21212 enough|0.19697 that|0.18182 it|0.16667 is|0.15152 more|0.13636 efficient|0.12121 to|0.10606 mark|0.090909 it|0.075758 all|0.060606 as|0.045455 approved|0.030303 preemptively|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

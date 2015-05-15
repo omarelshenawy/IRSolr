@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "495b1cf3d7a10fddf44a1f8a4f51e66782655379ae99670803450f2362dab1c5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/George-Harrison-playing.jpg/220px-George-Harrison-playing.jpg",
+			"previous": " ",
+			"after": " The murder of Lennon on 8 December 1980 disturbed Harrison and reinforced his decades long concerns about stalkers 115 It was also a deep personal loss although unlike McCartney and Starr Harrison had had little contact with Lennon in the years before his death 116 nb 11 Following the murder Harrison commented After all we went through together I had and still have great love and respect for John Lennon I am shocked and stunned 115 ",
+			"after_weights": " The|1 murder|0.98684 of|0.97368 Lennon|0.96053 on|0.94737 8|0.93421 December|0.92105 1980|0.90789 disturbed|0.89474 Harrison|0.88158 and|0.86842 reinforced|0.85526 his|0.84211 decades|0.82895 long|0.81579 concerns|0.80263 about|0.78947 stalkers|0.77632 115|0.76316 It|0.75 was|0.73684 also|0.72368 a|0.71053 deep|0.69737 personal|0.68421 loss|0.67105 although|0.65789 unlike|0.64474 McCartney|0.63158 and|0.61842 Starr|0.60526 Harrison|0.59211 had|0.57895 had|0.56579 little|0.55263 contact|0.53947 with|0.52632 Lennon|0.51316 in|0.5 the|0.48684 years|0.47368 before|0.46053 his|0.44737 death|0.43421 116|0.42105 nb|0.40789 11|0.39474 Following|0.38158 the|0.36842 murder|0.35526 Harrison|0.34211 commented|0.32895 After|0.31579 all|0.30263 we|0.28947 went|0.27632 through|0.26316 together|0.25 I|0.23684 had|0.22368 and|0.21053 still|0.19737 have|0.18421 great|0.17105 love|0.15789 and|0.14474 respect|0.13158 for|0.11842 John|0.10526 Lennon|0.092105 I|0.078947 am|0.065789 shocked|0.052632 and|0.039474 stunned|0.026316 115|0.013158 |0",
+			"previous_weights": " "
+		}
+	}
+}

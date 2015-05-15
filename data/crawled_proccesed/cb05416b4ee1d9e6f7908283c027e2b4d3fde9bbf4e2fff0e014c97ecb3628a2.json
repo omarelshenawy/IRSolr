@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cb05416b4ee1d9e6f7908283c027e2b4d3fde9bbf4e2fff0e014c97ecb3628a2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nvamarch.jpg/220px-Nvamarch.jpg",
+			"previous": " See also Battle of Nam Bac",
+			"after": " In the far northwest Team Fox an intelligence team of Mien hill tribesmen began long range reconnaissance of southern China  In July Royal Lao Government RLG forces seized the Nam Bac Valley Three Infantry Regiments one independent infantry battalion and one artillery battalion took Nam Bac and established a defensive line north of Luang Prabang 80 ",
+			"after_weights": " In|1 the|0.98246 far|0.96491 northwest|0.94737 Team|0.92982 Fox|0.91228 an|0.89474 intelligence|0.87719 team|0.85965 of|0.84211 Mien|0.82456 hill|0.80702 tribesmen|0.78947 began|0.77193 long|0.75439 range|0.73684 reconnaissance|0.7193 of|0.70175 southern|0.68421 China|0.66667 |0.64912 In|0.63158 July|0.61404 Royal|0.59649 Lao|0.57895 Government|0.5614 RLG|0.54386 forces|0.52632 seized|0.50877 the|0.49123 Nam|0.47368 Bac|0.45614 Valley|0.4386 Three|0.42105 Infantry|0.40351 Regiments|0.38596 one|0.36842 independent|0.35088 infantry|0.33333 battalion|0.31579 and|0.29825 one|0.2807 artillery|0.26316 battalion|0.24561 took|0.22807 Nam|0.21053 Bac|0.19298 and|0.17544 established|0.15789 a|0.14035 defensive|0.12281 line|0.10526 north|0.087719 of|0.070175 Luang|0.052632 Prabang|0.035088 80|0.017544 |0",
+			"previous_weights": " See|0 also|0.2 Battle|0.4 of|0.6 Nam|0.8 Bac|1"
+		}
+	}
+}

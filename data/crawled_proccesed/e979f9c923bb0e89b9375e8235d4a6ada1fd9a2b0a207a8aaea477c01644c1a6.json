@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e979f9c923bb0e89b9375e8235d4a6ada1fd9a2b0a207a8aaea477c01644c1a6",
+			"url": "https://upload.wikimedia.org/math/9/7/2/9729918ba1b39f298720dff48e1ecdc8.png",
+			"previous": " which is of the type  Another application of logistic curve is in medicine where the logistic differential equation is used to model the growth of tumors This application can be considered an extension of the above mentioned use in the framework of ecology see also the Generalized logistic curve allowing for more parameters Denoting with X t the size of the tumor at time t its dynamics are governed by ",
+			"after": " where F X is the proliferation rate of the tumor  If a chemotherapy is started with a log kill effect the equation may be revised to be",
+			"after_weights": " where|1 F|0.96296 X|0.92593 is|0.88889 the|0.85185 proliferation|0.81481 rate|0.77778 of|0.74074 the|0.7037 tumor|0.66667 |0.62963 If|0.59259 a|0.55556 chemotherapy|0.51852 is|0.48148 started|0.44444 with|0.40741 a|0.37037 log|0.33333 kill|0.2963 effect|0.25926 the|0.22222 equation|0.18519 may|0.14815 be|0.11111 revised|0.074074 to|0.037037 be|0",
+			"previous_weights": " which|0 is|0.014085 of|0.028169 the|0.042254 type|0.056338 |0.070423 Another|0.084507 application|0.098592 of|0.11268 logistic|0.12676 curve|0.14085 is|0.15493 in|0.16901 medicine|0.1831 where|0.19718 the|0.21127 logistic|0.22535 differential|0.23944 equation|0.25352 is|0.26761 used|0.28169 to|0.29577 model|0.30986 the|0.32394 growth|0.33803 of|0.35211 tumors|0.3662 This|0.38028 application|0.39437 can|0.40845 be|0.42254 considered|0.43662 an|0.4507 extension|0.46479 of|0.47887 the|0.49296 above|0.50704 mentioned|0.52113 use|0.53521 in|0.5493 the|0.56338 framework|0.57746 of|0.59155 ecology|0.60563 see|0.61972 also|0.6338 the|0.64789 Generalized|0.66197 logistic|0.67606 curve|0.69014 allowing|0.70423 for|0.71831 more|0.73239 parameters|0.74648 Denoting|0.76056 with|0.77465 X|0.78873 t|0.80282 the|0.8169 size|0.83099 of|0.84507 the|0.85915 tumor|0.87324 at|0.88732 time|0.90141 t|0.91549 its|0.92958 dynamics|0.94366 are|0.95775 governed|0.97183 by|0.98592 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e911adfb5dc30ac9ab65f097a0cfff064dd67ee34ad1f743c35b5d5909bd61e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Yellow_check.svg/20px-Yellow_check.svg.png",
+			"previous": " A new reviewer has arrived",
+			"after": "  RightCowLeftCoast I have responded above in line I think that should fix everything including the cochrane Sea Wolf citation Let me know if there is anything elseSadads talk 23 55 11 May 2015 UTC ",
+			"after_weights": " |1 RightCowLeftCoast|0.97143 I|0.94286 have|0.91429 responded|0.88571 above|0.85714 in|0.82857 line|0.8 I|0.77143 think|0.74286 that|0.71429 should|0.68571 fix|0.65714 everything|0.62857 including|0.6 the|0.57143 cochrane|0.54286 Sea|0.51429 Wolf|0.48571 citation|0.45714 Let|0.42857 me|0.4 know|0.37143 if|0.34286 there|0.31429 is|0.28571 anything|0.25714 elseSadads|0.22857 talk|0.2 23|0.17143 55|0.14286 11|0.11429 May|0.085714 2015|0.057143 UTC|0.028571 |0",
+			"previous_weights": " A|0 new|0.25 reviewer|0.5 has|0.75 arrived|1"
+		}
+	}
+}

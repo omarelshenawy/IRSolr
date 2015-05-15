@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5a5715ffe578c3810619ef5a87dc6ce39bcb2aabff45b6baa9d11130531544ab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Karyotype.png/220px-Karyotype.png",
+			"previous": " ",
+			"after": " Like all mammals humans are a diploid eukaryotic species Each somatic cell has two sets of 23 chromosomes each set received from one parent gametes have only one set of chromosomes which is a mixture of the two parental sets Among the 23 pairs of chromosomes there are 22 pairs of autosomes and one pair of sex chromosomes Like other mammals humans have an XY sex determination system so that females have the sex chromosomes XX and males have XY citation needed ",
+			"after_weights": " Like|1 all|0.9878 mammals|0.97561 humans|0.96341 are|0.95122 a|0.93902 diploid|0.92683 eukaryotic|0.91463 species|0.90244 Each|0.89024 somatic|0.87805 cell|0.86585 has|0.85366 two|0.84146 sets|0.82927 of|0.81707 23|0.80488 chromosomes|0.79268 each|0.78049 set|0.76829 received|0.7561 from|0.7439 one|0.73171 parent|0.71951 gametes|0.70732 have|0.69512 only|0.68293 one|0.67073 set|0.65854 of|0.64634 chromosomes|0.63415 which|0.62195 is|0.60976 a|0.59756 mixture|0.58537 of|0.57317 the|0.56098 two|0.54878 parental|0.53659 sets|0.52439 Among|0.5122 the|0.5 23|0.4878 pairs|0.47561 of|0.46341 chromosomes|0.45122 there|0.43902 are|0.42683 22|0.41463 pairs|0.40244 of|0.39024 autosomes|0.37805 and|0.36585 one|0.35366 pair|0.34146 of|0.32927 sex|0.31707 chromosomes|0.30488 Like|0.29268 other|0.28049 mammals|0.26829 humans|0.2561 have|0.2439 an|0.23171 XY|0.21951 sex|0.20732 determination|0.19512 system|0.18293 so|0.17073 that|0.15854 females|0.14634 have|0.13415 the|0.12195 sex|0.10976 chromosomes|0.097561 XX|0.085366 and|0.073171 males|0.060976 have|0.04878 XY|0.036585 citation|0.02439 needed|0.012195 |0",
+			"previous_weights": " "
+		}
+	}
+}

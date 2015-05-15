@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "35316ba4ea3795fd0ca320bea0747a4449e890f70f19d6f57e89274360b15aa4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Phonetic_and_phonemic_transcriptions_of_audio_record_of_Received_Pronunciation.jpg/220px-Phonetic_and_phonemic_transcriptions_of_audio_record_of_Received_Pronunciation.jpg",
+			"previous": " The speaker female is described as having been born in 1953 and educated at Oxford University To accompany the recording there are three transcriptions orthographic phonemic and allophonic ",
+			"after": " John C Wells a notable British phonetician has identified the following people as RP speakers ",
+			"after_weights": " John|1 C|0.93333 Wells|0.86667 a|0.8 notable|0.73333 British|0.66667 phonetician|0.6 has|0.53333 identified|0.46667 the|0.4 following|0.33333 people|0.26667 as|0.2 RP|0.13333 speakers|0.066667 |0",
+			"previous_weights": " The|0 speaker|0.035714 female|0.071429 is|0.10714 described|0.14286 as|0.17857 having|0.21429 been|0.25 born|0.28571 in|0.32143 1953|0.35714 and|0.39286 educated|0.42857 at|0.46429 Oxford|0.5 University|0.53571 To|0.57143 accompany|0.60714 the|0.64286 recording|0.67857 there|0.71429 are|0.75 three|0.78571 transcriptions|0.82143 orthographic|0.85714 phonemic|0.89286 and|0.92857 allophonic|0.96429 |1"
+		}
+	}
+}

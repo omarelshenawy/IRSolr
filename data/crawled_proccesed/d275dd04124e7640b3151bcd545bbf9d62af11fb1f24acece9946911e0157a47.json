@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d275dd04124e7640b3151bcd545bbf9d62af11fb1f24acece9946911e0157a47",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nice_People_MEDIUM.ogv/220px-seek%3D85.401451247166-Nice_People_MEDIUM.ogv.jpg",
+			"previous": " Everyone can contribute to Wikipedia regardless of whether they choose to register However there are several benefits to registering a username including  Registering a username is optional but encouraged You do not need to give your name or any personal details to register ",
+			"after": " If you register do not forget your password or your user name If you are prone to forgetting these make sure you enter your email address as part of signing up so you can have a new password sent to you if you forget your current one ",
+			"after_weights": " If|1 you|0.97872 register|0.95745 do|0.93617 not|0.91489 forget|0.89362 your|0.87234 password|0.85106 or|0.82979 your|0.80851 user|0.78723 name|0.76596 If|0.74468 you|0.7234 are|0.70213 prone|0.68085 to|0.65957 forgetting|0.6383 these|0.61702 make|0.59574 sure|0.57447 you|0.55319 enter|0.53191 your|0.51064 email|0.48936 address|0.46809 as|0.44681 part|0.42553 of|0.40426 signing|0.38298 up|0.3617 so|0.34043 you|0.31915 can|0.29787 have|0.2766 a|0.25532 new|0.23404 password|0.21277 sent|0.19149 to|0.17021 you|0.14894 if|0.12766 you|0.10638 forget|0.085106 your|0.06383 current|0.042553 one|0.021277 |0",
+			"previous_weights": " Everyone|0 can|0.022727 contribute|0.045455 to|0.068182 Wikipedia|0.090909 regardless|0.11364 of|0.13636 whether|0.15909 they|0.18182 choose|0.20455 to|0.22727 register|0.25 However|0.27273 there|0.29545 are|0.31818 several|0.34091 benefits|0.36364 to|0.38636 registering|0.40909 a|0.43182 username|0.45455 including|0.47727 |0.5 Registering|0.52273 a|0.54545 username|0.56818 is|0.59091 optional|0.61364 but|0.63636 encouraged|0.65909 You|0.68182 do|0.70455 not|0.72727 need|0.75 to|0.77273 give|0.79545 your|0.81818 name|0.84091 or|0.86364 any|0.88636 personal|0.90909 details|0.93182 to|0.95455 register|0.97727 |1"
+		}
+	}
+}

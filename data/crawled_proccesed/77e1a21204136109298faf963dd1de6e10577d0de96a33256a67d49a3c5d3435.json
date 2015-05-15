@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "77e1a21204136109298faf963dd1de6e10577d0de96a33256a67d49a3c5d3435",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venezia-map_1-1220x900.png/220px-Venezia-map_1-1220x900.png",
+			"previous": " ",
+			"after": " The Republic lost independence when Napoleon Bonaparte conquered Venice on 12 May 1797 during the First Coalition The French conqueror brought to an end the most fascinating century of its history during the 18th century Venice became perhaps the most elegant and refined city in Europe greatly influencing art architecture and literature Napoleon was seen as something of a liberator by the city s Jewish population although it can be argued they had lived with fewer restrictions in Venice He removed the gates of the Ghetto and ended the restrictions on when and where Jews could live and travel in the city ",
+			"after_weights": " The|1 Republic|0.9902 lost|0.98039 independence|0.97059 when|0.96078 Napoleon|0.95098 Bonaparte|0.94118 conquered|0.93137 Venice|0.92157 on|0.91176 12|0.90196 May|0.89216 1797|0.88235 during|0.87255 the|0.86275 First|0.85294 Coalition|0.84314 The|0.83333 French|0.82353 conqueror|0.81373 brought|0.80392 to|0.79412 an|0.78431 end|0.77451 the|0.76471 most|0.7549 fascinating|0.7451 century|0.73529 of|0.72549 its|0.71569 history|0.70588 during|0.69608 the|0.68627 18th|0.67647 century|0.66667 Venice|0.65686 became|0.64706 perhaps|0.63725 the|0.62745 most|0.61765 elegant|0.60784 and|0.59804 refined|0.58824 city|0.57843 in|0.56863 Europe|0.55882 greatly|0.54902 influencing|0.53922 art|0.52941 architecture|0.51961 and|0.5098 literature|0.5 Napoleon|0.4902 was|0.48039 seen|0.47059 as|0.46078 something|0.45098 of|0.44118 a|0.43137 liberator|0.42157 by|0.41176 the|0.40196 city|0.39216 s|0.38235 Jewish|0.37255 population|0.36275 although|0.35294 it|0.34314 can|0.33333 be|0.32353 argued|0.31373 they|0.30392 had|0.29412 lived|0.28431 with|0.27451 fewer|0.26471 restrictions|0.2549 in|0.2451 Venice|0.23529 He|0.22549 removed|0.21569 the|0.20588 gates|0.19608 of|0.18627 the|0.17647 Ghetto|0.16667 and|0.15686 ended|0.14706 the|0.13725 restrictions|0.12745 on|0.11765 when|0.10784 and|0.098039 where|0.088235 Jews|0.078431 could|0.068627 live|0.058824 and|0.04902 travel|0.039216 in|0.029412 the|0.019608 city|0.0098039 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5eafb7ac81fcf950afaf4bc40fa1f925222ba59d6c48d66641ae1fc2474723b6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Spanish_Caribbean_Islands_in_the_American_Viceroyalties_1600.png/300px-Spanish_Caribbean_Islands_in_the_American_Viceroyalties_1600.png",
+			"previous": " Lesser Antilles",
+			"after": " All islands at some point were and a few still are colonies of European nations a few are overseas or dependent territories  The British West Indies were united by the United Kingdom into a West Indies Federation between 1958 and 1962 The independent countries formerly part of the B W I still have a joint cricket team that competes in Test matches One Day Internationals and Twenty20 Internationals The West Indian cricket team includes the South American nation of Guyana the only former British colony on the mainland of that continent ",
+			"after_weights": " All|1 islands|0.98913 at|0.97826 some|0.96739 point|0.95652 were|0.94565 and|0.93478 a|0.92391 few|0.91304 still|0.90217 are|0.8913 colonies|0.88043 of|0.86957 European|0.8587 nations|0.84783 a|0.83696 few|0.82609 are|0.81522 overseas|0.80435 or|0.79348 dependent|0.78261 territories|0.77174 |0.76087 The|0.75 British|0.73913 West|0.72826 Indies|0.71739 were|0.70652 united|0.69565 by|0.68478 the|0.67391 United|0.66304 Kingdom|0.65217 into|0.6413 a|0.63043 West|0.61957 Indies|0.6087 Federation|0.59783 between|0.58696 1958|0.57609 and|0.56522 1962|0.55435 The|0.54348 independent|0.53261 countries|0.52174 formerly|0.51087 part|0.5 of|0.48913 the|0.47826 B|0.46739 W|0.45652 I|0.44565 still|0.43478 have|0.42391 a|0.41304 joint|0.40217 cricket|0.3913 team|0.38043 that|0.36957 competes|0.3587 in|0.34783 Test|0.33696 matches|0.32609 One|0.31522 Day|0.30435 Internationals|0.29348 and|0.28261 Twenty20|0.27174 Internationals|0.26087 The|0.25 West|0.23913 Indian|0.22826 cricket|0.21739 team|0.20652 includes|0.19565 the|0.18478 South|0.17391 American|0.16304 nation|0.15217 of|0.1413 Guyana|0.13043 the|0.11957 only|0.1087 former|0.097826 British|0.086957 colony|0.076087 on|0.065217 the|0.054348 mainland|0.043478 of|0.032609 that|0.021739 continent|0.01087 |0",
+			"previous_weights": " Lesser|0 Antilles|1"
+		}
+	}
+}

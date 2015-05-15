@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a89696f87eec90f9cb7a8721e90713987d079679eef6cbed9224d77528fa170",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Wikipediaweeklylogo-1.png",
+			"previous": " ",
+			"after": " Wikipedia Weekly is the podcast that provides an informative dose of audio information regarding Wikipedia the Wikimedia Foundation and our fellow projects for the community of wikimedians Its off wiki homepage is www wikipediaweekly org this is done due to RSS limitations in MediaWiki ",
+			"after_weights": " Wikipedia|1 Weekly|0.97727 is|0.95455 the|0.93182 podcast|0.90909 that|0.88636 provides|0.86364 an|0.84091 informative|0.81818 dose|0.79545 of|0.77273 audio|0.75 information|0.72727 regarding|0.70455 Wikipedia|0.68182 the|0.65909 Wikimedia|0.63636 Foundation|0.61364 and|0.59091 our|0.56818 fellow|0.54545 projects|0.52273 for|0.5 the|0.47727 community|0.45455 of|0.43182 wikimedians|0.40909 Its|0.38636 off|0.36364 wiki|0.34091 homepage|0.31818 is|0.29545 www|0.27273 wikipediaweekly|0.25 org|0.22727 this|0.20455 is|0.18182 done|0.15909 due|0.13636 to|0.11364 RSS|0.090909 limitations|0.068182 in|0.045455 MediaWiki|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cabc5d2356b5d0b6e0db30fc0cd7547bce9b9907c68a9273bd0e934ca21254e3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Senator_Wyden%27s_Acceptance_Speech_for_the_Electronic_Frontier_Foundation_pioneer_award_2011.webm/220px--Senator_Wyden%27s_Acceptance_Speech_for_the_Electronic_Frontier_Foundation_pioneer_award_2011.webm.jpg",
+			"previous": " The EFF regularly brings and defends lawsuits at all levels of the US legal system in pursuit of its goals and objectives Many of the most significant technology law cases have involved the EFF including MGM Studios Inc v Grokster Ltd Apple v Does and others ",
+			"after": " The EFF organizes two sets of awards to promote work in accordance with its goals and objectives  The EFF Pioneer Awards are awarded annually to recognize individuals who in its opinion are leaders who are extending freedom and innovation on the electronic frontier 16 In 2009 the honorees were Limor Fried Harri Hursti and Carl Malamud",
+			"after_weights": " The|1 EFF|0.98214 organizes|0.96429 two|0.94643 sets|0.92857 of|0.91071 awards|0.89286 to|0.875 promote|0.85714 work|0.83929 in|0.82143 accordance|0.80357 with|0.78571 its|0.76786 goals|0.75 and|0.73214 objectives|0.71429 |0.69643 The|0.67857 EFF|0.66071 Pioneer|0.64286 Awards|0.625 are|0.60714 awarded|0.58929 annually|0.57143 to|0.55357 recognize|0.53571 individuals|0.51786 who|0.5 in|0.48214 its|0.46429 opinion|0.44643 are|0.42857 leaders|0.41071 who|0.39286 are|0.375 extending|0.35714 freedom|0.33929 and|0.32143 innovation|0.30357 on|0.28571 the|0.26786 electronic|0.25 frontier|0.23214 16|0.21429 In|0.19643 2009|0.17857 the|0.16071 honorees|0.14286 were|0.125 Limor|0.10714 Fried|0.089286 Harri|0.071429 Hursti|0.053571 and|0.035714 Carl|0.017857 Malamud|0",
+			"previous_weights": " The|0 EFF|0.021739 regularly|0.043478 brings|0.065217 and|0.086957 defends|0.1087 lawsuits|0.13043 at|0.15217 all|0.17391 levels|0.19565 of|0.21739 the|0.23913 US|0.26087 legal|0.28261 system|0.30435 in|0.32609 pursuit|0.34783 of|0.36957 its|0.3913 goals|0.41304 and|0.43478 objectives|0.45652 Many|0.47826 of|0.5 the|0.52174 most|0.54348 significant|0.56522 technology|0.58696 law|0.6087 cases|0.63043 have|0.65217 involved|0.67391 the|0.69565 EFF|0.71739 including|0.73913 MGM|0.76087 Studios|0.78261 Inc|0.80435 v|0.82609 Grokster|0.84783 Ltd|0.86957 Apple|0.8913 v|0.91304 Does|0.93478 and|0.95652 others|0.97826 |1"
+		}
+	}
+}

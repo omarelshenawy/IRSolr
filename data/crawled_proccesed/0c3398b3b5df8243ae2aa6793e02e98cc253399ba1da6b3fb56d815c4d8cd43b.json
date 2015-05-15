@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c3398b3b5df8243ae2aa6793e02e98cc253399ba1da6b3fb56d815c4d8cd43b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mtm-05277e_3d.png/160px-Mtm-05277e_3d.png",
+			"previous": " ",
+			"after": " The digital elevation model DEM is a raster based digital dataset of the topography hypsometry and or bathymetry of all or part of the Earth or a telluric planet The pixels of the dataset are each assigned an elevation value and a header portion of the dataset defines the area of coverage the units each pixel covers and the units of elevation and the zero point DEMs may be derived from existing paper maps and survey data or they may be generated from new satellite or other remotely sensed radar or sonar data ",
+			"after_weights": " The|1 digital|0.98925 elevation|0.97849 model|0.96774 DEM|0.95699 is|0.94624 a|0.93548 raster|0.92473 based|0.91398 digital|0.90323 dataset|0.89247 of|0.88172 the|0.87097 topography|0.86022 hypsometry|0.84946 and|0.83871 or|0.82796 bathymetry|0.8172 of|0.80645 all|0.7957 or|0.78495 part|0.77419 of|0.76344 the|0.75269 Earth|0.74194 or|0.73118 a|0.72043 telluric|0.70968 planet|0.69892 The|0.68817 pixels|0.67742 of|0.66667 the|0.65591 dataset|0.64516 are|0.63441 each|0.62366 assigned|0.6129 an|0.60215 elevation|0.5914 value|0.58065 and|0.56989 a|0.55914 header|0.54839 portion|0.53763 of|0.52688 the|0.51613 dataset|0.50538 defines|0.49462 the|0.48387 area|0.47312 of|0.46237 coverage|0.45161 the|0.44086 units|0.43011 each|0.41935 pixel|0.4086 covers|0.39785 and|0.3871 the|0.37634 units|0.36559 of|0.35484 elevation|0.34409 and|0.33333 the|0.32258 zero|0.31183 point|0.30108 DEMs|0.29032 may|0.27957 be|0.26882 derived|0.25806 from|0.24731 existing|0.23656 paper|0.22581 maps|0.21505 and|0.2043 survey|0.19355 data|0.1828 or|0.17204 they|0.16129 may|0.15054 be|0.13978 generated|0.12903 from|0.11828 new|0.10753 satellite|0.096774 or|0.086022 other|0.075269 remotely|0.064516 sensed|0.053763 radar|0.043011 or|0.032258 sonar|0.021505 data|0.010753 |0",
+			"previous_weights": " "
+		}
+	}
+}

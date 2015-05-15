@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f32f7327626a1fdaad7738280229cd8b8f2c550706e28f832e1f99bf5fd1753c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Memoirs_of_Franklin.jpg/200px-Memoirs_of_Franklin.jpg",
+			"previous": " ",
+			"after": " An autobiography from the Greek autos self bios life graphein to write is a written account of the life of a person written by that person In other words it is the story that a person wrote about themselves ",
+			"after_weights": " An|1 autobiography|0.97436 from|0.94872 the|0.92308 Greek|0.89744 autos|0.87179 self|0.84615 bios|0.82051 life|0.79487 graphein|0.76923 to|0.74359 write|0.71795 is|0.69231 a|0.66667 written|0.64103 account|0.61538 of|0.58974 the|0.5641 life|0.53846 of|0.51282 a|0.48718 person|0.46154 written|0.4359 by|0.41026 that|0.38462 person|0.35897 In|0.33333 other|0.30769 words|0.28205 it|0.25641 is|0.23077 the|0.20513 story|0.17949 that|0.15385 a|0.12821 person|0.10256 wrote|0.076923 about|0.051282 themselves|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7dbd17acf008db88d1ae5fcf30a9beadf6b2fca89683a8409bac10e9a063b51e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parliament_House_Singapore.jpg/220px-Parliament_House_Singapore.jpg",
+			"previous": " ",
+			"after": " Singapore is a parliamentary republic with a Westminster system of unicameral parliamentary government representing constituencies The country s constitution establishes a representative democracy as the political system 33 Freedom House ranks Singapore as partly free in its Freedom in the World report 34 and The Economist ranks Singapore as a flawed democracy the second best rank of four in its Democracy Index 35 ",
+			"after_weights": " Singapore|1 is|0.98413 a|0.96825 parliamentary|0.95238 republic|0.93651 with|0.92063 a|0.90476 Westminster|0.88889 system|0.87302 of|0.85714 unicameral|0.84127 parliamentary|0.8254 government|0.80952 representing|0.79365 constituencies|0.77778 The|0.7619 country|0.74603 s|0.73016 constitution|0.71429 establishes|0.69841 a|0.68254 representative|0.66667 democracy|0.65079 as|0.63492 the|0.61905 political|0.60317 system|0.5873 33|0.57143 Freedom|0.55556 House|0.53968 ranks|0.52381 Singapore|0.50794 as|0.49206 partly|0.47619 free|0.46032 in|0.44444 its|0.42857 Freedom|0.4127 in|0.39683 the|0.38095 World|0.36508 report|0.34921 34|0.33333 and|0.31746 The|0.30159 Economist|0.28571 ranks|0.26984 Singapore|0.25397 as|0.2381 a|0.22222 flawed|0.20635 democracy|0.19048 the|0.1746 second|0.15873 best|0.14286 rank|0.12698 of|0.11111 four|0.095238 in|0.079365 its|0.063492 Democracy|0.047619 Index|0.031746 35|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

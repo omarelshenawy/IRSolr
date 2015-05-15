@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0954e208d8b2daed79e3654205c14b100670d507e28db594c8ccaa6aa8dad417",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aristotle_-_Jefferson_Building_-_Library_of_Congress.jpg/220px-Aristotle_-_Jefferson_Building_-_Library_of_Congress.jpg",
+			"previous": " ",
+			"after": " The Aristotle Mountains along the Oscar II Coast of Graham Land Antarctica are named after Aristotle He was the first person known to conjecture the existence of a landmass in the southern high latitude region and call it Antarctica 115 ",
+			"after_weights": " The|1 Aristotle|0.975 Mountains|0.95 along|0.925 the|0.9 Oscar|0.875 II|0.85 Coast|0.825 of|0.8 Graham|0.775 Land|0.75 Antarctica|0.725 are|0.7 named|0.675 after|0.65 Aristotle|0.625 He|0.6 was|0.575 the|0.55 first|0.525 person|0.5 known|0.475 to|0.45 conjecture|0.425 the|0.4 existence|0.375 of|0.35 a|0.325 landmass|0.3 in|0.275 the|0.25 southern|0.225 high|0.2 latitude|0.175 region|0.15 and|0.125 call|0.1 it|0.075 Antarctica|0.05 115|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fecc893ab97bd4c78312a28403a657197aac187c3cd2abc74c07e9ed5fa27f7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Temple_of_Heaven_Seoul2.jpg/200px-Temple_of_Heaven_Seoul2.jpg",
+			"previous": " Portal Arts Featured picture 24",
+			"after": " A 1925 photo of Wongudan an altar site in Seoul built in 1897 as a location for the performance of the rite of heaven King Seongjong of the Goryeo Dynasty was the first to perform the rite designed to ensure a bountiful harvest in the tenth century The practice was discontinued by later Goryeo kings revived briefly in the mid fifteenth century by Sejo of the Joseon Dynasty then reinstated with the founding of the Korean Empire in 1897 Much of the altar complex was destroyed during the Japanese occupation and the gate and fountain seen here were also subsequently removed leaving only the three storey Hwangungu pagoda remaining ",
+			"after_weights": " A|1 1925|0.99083 photo|0.98165 of|0.97248 Wongudan|0.9633 an|0.95413 altar|0.94495 site|0.93578 in|0.92661 Seoul|0.91743 built|0.90826 in|0.89908 1897|0.88991 as|0.88073 a|0.87156 location|0.86239 for|0.85321 the|0.84404 performance|0.83486 of|0.82569 the|0.81651 rite|0.80734 of|0.79817 heaven|0.78899 King|0.77982 Seongjong|0.77064 of|0.76147 the|0.75229 Goryeo|0.74312 Dynasty|0.73394 was|0.72477 the|0.7156 first|0.70642 to|0.69725 perform|0.68807 the|0.6789 rite|0.66972 designed|0.66055 to|0.65138 ensure|0.6422 a|0.63303 bountiful|0.62385 harvest|0.61468 in|0.6055 the|0.59633 tenth|0.58716 century|0.57798 The|0.56881 practice|0.55963 was|0.55046 discontinued|0.54128 by|0.53211 later|0.52294 Goryeo|0.51376 kings|0.50459 revived|0.49541 briefly|0.48624 in|0.47706 the|0.46789 mid|0.45872 fifteenth|0.44954 century|0.44037 by|0.43119 Sejo|0.42202 of|0.41284 the|0.40367 Joseon|0.3945 Dynasty|0.38532 then|0.37615 reinstated|0.36697 with|0.3578 the|0.34862 founding|0.33945 of|0.33028 the|0.3211 Korean|0.31193 Empire|0.30275 in|0.29358 1897|0.2844 Much|0.27523 of|0.26606 the|0.25688 altar|0.24771 complex|0.23853 was|0.22936 destroyed|0.22018 during|0.21101 the|0.20183 Japanese|0.19266 occupation|0.18349 and|0.17431 the|0.16514 gate|0.15596 and|0.14679 fountain|0.13761 seen|0.12844 here|0.11927 were|0.11009 also|0.10092 subsequently|0.091743 removed|0.082569 leaving|0.073394 only|0.06422 the|0.055046 three|0.045872 storey|0.036697 Hwangungu|0.027523 pagoda|0.018349 remaining|0.0091743 |0",
+			"previous_weights": " Portal|0 Arts|0.25 Featured|0.5 picture|0.75 24|1"
+		}
+	}
+}

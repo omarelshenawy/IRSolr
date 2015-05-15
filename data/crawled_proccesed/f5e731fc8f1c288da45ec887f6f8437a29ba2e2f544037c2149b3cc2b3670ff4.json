@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f5e731fc8f1c288da45ec887f6f8437a29ba2e2f544037c2149b3cc2b3670ff4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Vogala.png",
+			"previous": " The oldest known single word is vadam modern Dutch wad English mudflat from the year 107 CE ",
+			"after": " East Low Franconian was eventually absorbed by Dutch as it became the dominant form of Low Franconian although it remains a noticeable substrate within the southern Limburgish dialects of Dutch As the two groups were so similar it is often difficult to determine whether a text is Old Dutch or Old East Low Franconian hence most linguists will generally use Old Dutch synonymously with Old Low Franconian and mostly do not differentiate ",
+			"after_weights": " East|1 Low|0.98611 Franconian|0.97222 was|0.95833 eventually|0.94444 absorbed|0.93056 by|0.91667 Dutch|0.90278 as|0.88889 it|0.875 became|0.86111 the|0.84722 dominant|0.83333 form|0.81944 of|0.80556 Low|0.79167 Franconian|0.77778 although|0.76389 it|0.75 remains|0.73611 a|0.72222 noticeable|0.70833 substrate|0.69444 within|0.68056 the|0.66667 southern|0.65278 Limburgish|0.63889 dialects|0.625 of|0.61111 Dutch|0.59722 As|0.58333 the|0.56944 two|0.55556 groups|0.54167 were|0.52778 so|0.51389 similar|0.5 it|0.48611 is|0.47222 often|0.45833 difficult|0.44444 to|0.43056 determine|0.41667 whether|0.40278 a|0.38889 text|0.375 is|0.36111 Old|0.34722 Dutch|0.33333 or|0.31944 Old|0.30556 East|0.29167 Low|0.27778 Franconian|0.26389 hence|0.25 most|0.23611 linguists|0.22222 will|0.20833 generally|0.19444 use|0.18056 Old|0.16667 Dutch|0.15278 synonymously|0.13889 with|0.125 Old|0.11111 Low|0.097222 Franconian|0.083333 and|0.069444 mostly|0.055556 do|0.041667 not|0.027778 differentiate|0.013889 |0",
+			"previous_weights": " The|0 oldest|0.058824 known|0.11765 single|0.17647 word|0.23529 is|0.29412 vadam|0.35294 modern|0.41176 Dutch|0.47059 wad|0.52941 English|0.58824 mudflat|0.64706 from|0.70588 the|0.76471 year|0.82353 107|0.88235 CE|0.94118 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "69b1b39a393c9a5b786c31d0040d23c9ee244dc8a50748877a58eb8431ab31ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fred_Rowntree00.jpg/66px-Fred_Rowntree00.jpg",
+			"previous": " Portal Arts Selected anniversaries January",
+			"after": " Portal Arts Selected anniversaries February Portal Arts Selected anniversaries March Portal Arts Selected anniversaries April Portal Arts Selected anniversaries May",
+			"after_weights": " Portal|1 Arts|0.94737 Selected|0.89474 anniversaries|0.84211 February|0.78947 Portal|0.73684 Arts|0.68421 Selected|0.63158 anniversaries|0.57895 March|0.52632 Portal|0.47368 Arts|0.42105 Selected|0.36842 anniversaries|0.31579 April|0.26316 Portal|0.21053 Arts|0.15789 Selected|0.10526 anniversaries|0.052632 May|0",
+			"previous_weights": " Portal|0 Arts|0.25 Selected|0.5 anniversaries|0.75 January|1"
+		}
+	}
+}

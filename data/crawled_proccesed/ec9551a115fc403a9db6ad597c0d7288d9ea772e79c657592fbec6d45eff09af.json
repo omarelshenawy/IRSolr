@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ec9551a115fc403a9db6ad597c0d7288d9ea772e79c657592fbec6d45eff09af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cameroonian_school_children_gather_around_U.S._Army_Master_Sgt._John_Reid%2C_center%2C_for_a_group_photo_near_Douala%2C_Cameroon%2C_March_19%2C_2014%2C_during_Central_Accord_14_140319-A-PP104-039.jpg/300px-thumbnail.jpg",
+			"previous": " ",
+			"after": " In 2010 the literacy rate of Cameroon was estimated to be 71 3 male 78 3 and female 64 8 46 Most children have access to state run schools that are cheaper than private and religious facilities 47 The educational system is a mixture of British and French precedents 48 with most instruction in English or French 49 ",
+			"after_weights": " In|1 2010|0.98276 the|0.96552 literacy|0.94828 rate|0.93103 of|0.91379 Cameroon|0.89655 was|0.87931 estimated|0.86207 to|0.84483 be|0.82759 71|0.81034 3|0.7931 male|0.77586 78|0.75862 3|0.74138 and|0.72414 female|0.7069 64|0.68966 8|0.67241 46|0.65517 Most|0.63793 children|0.62069 have|0.60345 access|0.58621 to|0.56897 state|0.55172 run|0.53448 schools|0.51724 that|0.5 are|0.48276 cheaper|0.46552 than|0.44828 private|0.43103 and|0.41379 religious|0.39655 facilities|0.37931 47|0.36207 The|0.34483 educational|0.32759 system|0.31034 is|0.2931 a|0.27586 mixture|0.25862 of|0.24138 British|0.22414 and|0.2069 French|0.18966 precedents|0.17241 48|0.15517 with|0.13793 most|0.12069 instruction|0.10345 in|0.086207 English|0.068966 or|0.051724 French|0.034483 49|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

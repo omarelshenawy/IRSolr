@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a9bcece2ec46fbeaa01fbb19019adae99831ce1deeb85ca19303b3ee43832f98",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Number_of_nations_1800-2003_scoring_8_or_higher_on_Polity_IV_scale.png/450px-Number_of_nations_1800-2003_scoring_8_or_higher_on_Polity_IV_scale.png",
+			"previous": " ",
+			"after": " 20th century transitions to liberal democracy have come in successive waves of democracy variously resulting from wars revolutions decolonisation and religious and economic circumstances World War I and the dissolution of the Ottoman and Austro Hungarian empires resulted in the creation of new nation states from Europe most of them at least nominally democratic ",
+			"after_weights": " 20th|1 century|0.98148 transitions|0.96296 to|0.94444 liberal|0.92593 democracy|0.90741 have|0.88889 come|0.87037 in|0.85185 successive|0.83333 waves|0.81481 of|0.7963 democracy|0.77778 variously|0.75926 resulting|0.74074 from|0.72222 wars|0.7037 revolutions|0.68519 decolonisation|0.66667 and|0.64815 religious|0.62963 and|0.61111 economic|0.59259 circumstances|0.57407 World|0.55556 War|0.53704 I|0.51852 and|0.5 the|0.48148 dissolution|0.46296 of|0.44444 the|0.42593 Ottoman|0.40741 and|0.38889 Austro|0.37037 Hungarian|0.35185 empires|0.33333 resulted|0.31481 in|0.2963 the|0.27778 creation|0.25926 of|0.24074 new|0.22222 nation|0.2037 states|0.18519 from|0.16667 Europe|0.14815 most|0.12963 of|0.11111 them|0.092593 at|0.074074 least|0.055556 nominally|0.037037 democratic|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b515c0f773287767284628012acbd77caa6eae4c47343b1bdffa29466990d568",
+			"url": "https://upload.wikimedia.org/math/a/b/8/ab8b37b97383b03561ff058aaebe3efd.png",
+			"previous": " Two other commonly used F measures are the measure which weights recall twice as much as precision and the measure which weights precision twice as much as recall ",
+			"after": " Precision and recall are single value metrics based on the whole list of documents returned by the system For systems that return a ranked sequence of documents it is desirable to also consider the order in which the returned documents are presented By computing a precision and recall at every position in the ranked sequence of documents one can plot a precision recall curve plotting precision as a function of recall Average precision computes the average value of over the interval from to 6 ",
+			"after_weights": " Precision|1 and|0.9881 recall|0.97619 are|0.96429 single|0.95238 value|0.94048 metrics|0.92857 based|0.91667 on|0.90476 the|0.89286 whole|0.88095 list|0.86905 of|0.85714 documents|0.84524 returned|0.83333 by|0.82143 the|0.80952 system|0.79762 For|0.78571 systems|0.77381 that|0.7619 return|0.75 a|0.7381 ranked|0.72619 sequence|0.71429 of|0.70238 documents|0.69048 it|0.67857 is|0.66667 desirable|0.65476 to|0.64286 also|0.63095 consider|0.61905 the|0.60714 order|0.59524 in|0.58333 which|0.57143 the|0.55952 returned|0.54762 documents|0.53571 are|0.52381 presented|0.5119 By|0.5 computing|0.4881 a|0.47619 precision|0.46429 and|0.45238 recall|0.44048 at|0.42857 every|0.41667 position|0.40476 in|0.39286 the|0.38095 ranked|0.36905 sequence|0.35714 of|0.34524 documents|0.33333 one|0.32143 can|0.30952 plot|0.29762 a|0.28571 precision|0.27381 recall|0.2619 curve|0.25 plotting|0.2381 precision|0.22619 as|0.21429 a|0.20238 function|0.19048 of|0.17857 recall|0.16667 Average|0.15476 precision|0.14286 computes|0.13095 the|0.11905 average|0.10714 value|0.095238 of|0.083333 over|0.071429 the|0.059524 interval|0.047619 from|0.035714 to|0.02381 6|0.011905 |0",
+			"previous_weights": " Two|0 other|0.035714 commonly|0.071429 used|0.10714 F|0.14286 measures|0.17857 are|0.21429 the|0.25 measure|0.28571 which|0.32143 weights|0.35714 recall|0.39286 twice|0.42857 as|0.46429 much|0.5 as|0.53571 precision|0.57143 and|0.60714 the|0.64286 measure|0.67857 which|0.71429 weights|0.75 precision|0.78571 twice|0.82143 as|0.85714 much|0.89286 as|0.92857 recall|0.96429 |1"
+		}
+	}
+}

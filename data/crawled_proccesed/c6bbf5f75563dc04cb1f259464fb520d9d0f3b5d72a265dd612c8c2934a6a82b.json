@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c6bbf5f75563dc04cb1f259464fb520d9d0f3b5d72a265dd612c8c2934a6a82b",
+			"url": "https://upload.wikimedia.org/math/2/5/1/251389a53280a0eb116ebee94dc762b2.png",
+			"previous": " Now setting gives the differential equation",
+			"after": " For we have the particular case with which we started  In ecology species are sometimes referred to as r strategist or K strategist depending upon the selective processes that have shaped their life history strategies The solution to the equation with being the initial population is",
+			"after_weights": " For|1 we|0.97826 have|0.95652 the|0.93478 particular|0.91304 case|0.8913 with|0.86957 which|0.84783 we|0.82609 started|0.80435 |0.78261 In|0.76087 ecology|0.73913 species|0.71739 are|0.69565 sometimes|0.67391 referred|0.65217 to|0.63043 as|0.6087 r|0.58696 strategist|0.56522 or|0.54348 K|0.52174 strategist|0.5 depending|0.47826 upon|0.45652 the|0.43478 selective|0.41304 processes|0.3913 that|0.36957 have|0.34783 shaped|0.32609 their|0.30435 life|0.28261 history|0.26087 strategies|0.23913 The|0.21739 solution|0.19565 to|0.17391 the|0.15217 equation|0.13043 with|0.1087 being|0.086957 the|0.065217 initial|0.043478 population|0.021739 is|0",
+			"previous_weights": " Now|0 setting|0.2 gives|0.4 the|0.6 differential|0.8 equation|1"
+		}
+	}
+}

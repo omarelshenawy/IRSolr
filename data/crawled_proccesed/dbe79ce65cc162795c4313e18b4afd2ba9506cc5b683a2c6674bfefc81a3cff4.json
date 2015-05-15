@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "dbe79ce65cc162795c4313e18b4afd2ba9506cc5b683a2c6674bfefc81a3cff4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg/300px-Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
+			"previous": " Portal Biography Selected picture 8",
+			"after": " Ida Bell Wells Barnett July 16 1862 March 25 1931 was an African American journalist newspaper editor suffragist sociologist and with her husband newspaper owner Ferdinand L Barnett an early leader in the civil rights movement She documented lynching in the United States and was active in the women s rights and the women s suffrage movements ",
+			"after_weights": " Ida|1 Bell|0.98246 Wells|0.96491 Barnett|0.94737 July|0.92982 16|0.91228 1862|0.89474 March|0.87719 25|0.85965 1931|0.84211 was|0.82456 an|0.80702 African|0.78947 American|0.77193 journalist|0.75439 newspaper|0.73684 editor|0.7193 suffragist|0.70175 sociologist|0.68421 and|0.66667 with|0.64912 her|0.63158 husband|0.61404 newspaper|0.59649 owner|0.57895 Ferdinand|0.5614 L|0.54386 Barnett|0.52632 an|0.50877 early|0.49123 leader|0.47368 in|0.45614 the|0.4386 civil|0.42105 rights|0.40351 movement|0.38596 She|0.36842 documented|0.35088 lynching|0.33333 in|0.31579 the|0.29825 United|0.2807 States|0.26316 and|0.24561 was|0.22807 active|0.21053 in|0.19298 the|0.17544 women|0.15789 s|0.14035 rights|0.12281 and|0.10526 the|0.087719 women|0.070175 s|0.052632 suffrage|0.035088 movements|0.017544 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 8|1"
+		}
+	}
+}

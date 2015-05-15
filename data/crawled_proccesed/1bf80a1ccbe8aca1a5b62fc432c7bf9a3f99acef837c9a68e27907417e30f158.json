@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bf80a1ccbe8aca1a5b62fc432c7bf9a3f99acef837c9a68e27907417e30f158",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Organization_of_American_States_General_Assembly.jpg/220px-Organization_of_American_States_General_Assembly.jpg",
+			"previous": " ",
+			"after": " The General Assembly is the supreme decision making body of OAS It convenes once every year in a regular session In special circumstances and with the approval of two thirds of the member states the Permanent Council can convene special sessions ",
+			"after_weights": " The|1 General|0.97561 Assembly|0.95122 is|0.92683 the|0.90244 supreme|0.87805 decision|0.85366 making|0.82927 body|0.80488 of|0.78049 OAS|0.7561 It|0.73171 convenes|0.70732 once|0.68293 every|0.65854 year|0.63415 in|0.60976 a|0.58537 regular|0.56098 session|0.53659 In|0.5122 special|0.4878 circumstances|0.46341 and|0.43902 with|0.41463 the|0.39024 approval|0.36585 of|0.34146 two|0.31707 thirds|0.29268 of|0.26829 the|0.2439 member|0.21951 states|0.19512 the|0.17073 Permanent|0.14634 Council|0.12195 can|0.097561 convene|0.073171 special|0.04878 sessions|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

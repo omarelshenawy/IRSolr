@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bb15cdbf009f0a7acca186785131cdd6c5e8d0c44cd3d3952b78dbce615916d2",
+			"url": "https://upload.wikimedia.org/math/5/7/2/572d25e6055562df4d0f4fb65c0924e0.png",
+			"previous": " Now",
+			"after": " This formula can be derived more quickly using the formula for the sphere s surface area which is The volume of the sphere consists of layers of infinitesimally thin spherical shells and the sphere volume is equal to",
+			"after_weights": " This|1 formula|0.97297 can|0.94595 be|0.91892 derived|0.89189 more|0.86486 quickly|0.83784 using|0.81081 the|0.78378 formula|0.75676 for|0.72973 the|0.7027 sphere|0.67568 s|0.64865 surface|0.62162 area|0.59459 which|0.56757 is|0.54054 The|0.51351 volume|0.48649 of|0.45946 the|0.43243 sphere|0.40541 consists|0.37838 of|0.35135 layers|0.32432 of|0.2973 infinitesimally|0.27027 thin|0.24324 spherical|0.21622 shells|0.18919 and|0.16216 the|0.13514 sphere|0.10811 volume|0.081081 is|0.054054 equal|0.027027 to|0",
+			"previous_weights": " Now|1"
+		}
+	}
+}

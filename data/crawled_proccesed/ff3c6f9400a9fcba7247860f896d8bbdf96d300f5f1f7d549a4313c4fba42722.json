@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ff3c6f9400a9fcba7247860f896d8bbdf96d300f5f1f7d549a4313c4fba42722",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/22px-Flag_of_Brazil_%281889-1960%29.svg.png",
+			"previous": " Allied Powers United States 1 British Empire 1 France 1 Italy 1 Japan 1 ",
+			"after": "",
+			"after_weights": "",
+			"previous_weights": " Allied|0 Powers|0.071429 United|0.14286 States|0.21429 1|0.28571 British|0.35714 Empire|0.42857 1|0.5 France|0.57143 1|0.64286 Italy|0.71429 1|0.78571 Japan|0.85714 1|0.92857 |1"
+		}
+	}
+}

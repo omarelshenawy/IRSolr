@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5724ebf250440db0e9f6bc0973b2c295b1f5862f102b41027d3195d1884e88fd",
+			"url": "https://upload.wikimedia.org/math/4/b/4/4b43b0aee35624cd95b910189b3dc231.png",
+			"previous": " Some authors choose to interpolate the function to reduce the impact of wiggles in the curve 8 9 For example the PASCAL Visual Object Classes challenge a benchmark for computer vision object detection computes average precision by averaging the precision over a set of evenly spaced recall levels 0 0 1 0 2 1 0 8 9 ",
+			"after": " An alternative is to derive an analytical function by assuming a particular parametric distribution for the underlying decision values For example a binormal precision recall curve can be obtained by assuming decision values in both classes to follow a Gaussian distribution 10 ",
+			"after_weights": " An|1 alternative|0.97619 is|0.95238 to|0.92857 derive|0.90476 an|0.88095 analytical|0.85714 function|0.83333 by|0.80952 assuming|0.78571 a|0.7619 particular|0.7381 parametric|0.71429 distribution|0.69048 for|0.66667 the|0.64286 underlying|0.61905 decision|0.59524 values|0.57143 For|0.54762 example|0.52381 a|0.5 binormal|0.47619 precision|0.45238 recall|0.42857 curve|0.40476 can|0.38095 be|0.35714 obtained|0.33333 by|0.30952 assuming|0.28571 decision|0.2619 values|0.2381 in|0.21429 both|0.19048 classes|0.16667 to|0.14286 follow|0.11905 a|0.095238 Gaussian|0.071429 distribution|0.047619 10|0.02381 |0",
+			"previous_weights": " Some|0 authors|0.017544 choose|0.035088 to|0.052632 interpolate|0.070175 the|0.087719 function|0.10526 to|0.12281 reduce|0.14035 the|0.15789 impact|0.17544 of|0.19298 wiggles|0.21053 in|0.22807 the|0.24561 curve|0.26316 8|0.2807 9|0.29825 For|0.31579 example|0.33333 the|0.35088 PASCAL|0.36842 Visual|0.38596 Object|0.40351 Classes|0.42105 challenge|0.4386 a|0.45614 benchmark|0.47368 for|0.49123 computer|0.50877 vision|0.52632 object|0.54386 detection|0.5614 computes|0.57895 average|0.59649 precision|0.61404 by|0.63158 averaging|0.64912 the|0.66667 precision|0.68421 over|0.70175 a|0.7193 set|0.73684 of|0.75439 evenly|0.77193 spaced|0.78947 recall|0.80702 levels|0.82456 0|0.84211 0|0.85965 1|0.87719 0|0.89474 2|0.91228 1|0.92982 0|0.94737 8|0.96491 9|0.98246 |1"
+		}
+	}
+}

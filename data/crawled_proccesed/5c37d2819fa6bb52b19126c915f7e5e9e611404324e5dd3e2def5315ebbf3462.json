@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5c37d2819fa6bb52b19126c915f7e5e9e611404324e5dd3e2def5315ebbf3462",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/King_Jigme_Khesar_Namgyel_Wangchuck_%28edit%29.jpg/300px-King_Jigme_Khesar_Namgyel_Wangchuck_%28edit%29.jpg",
+			"previous": " Portal Biography Selected picture 3",
+			"after": " Jigme Khesar Namgyel Wangchuck Dzongkha born 21 February 1980 is the son of Jigme Singye Wangchuck and the 5th and current reigning Dragon King of the Kingdom of Bhutan He began his reign overseeing the democratization of his country by presiding over the last sessions of the parliament where electoral laws were deliberated ",
+			"after_weights": " Jigme|1 Khesar|0.98113 Namgyel|0.96226 Wangchuck|0.9434 Dzongkha|0.92453 born|0.90566 21|0.88679 February|0.86792 1980|0.84906 is|0.83019 the|0.81132 son|0.79245 of|0.77358 Jigme|0.75472 Singye|0.73585 Wangchuck|0.71698 and|0.69811 the|0.67925 5th|0.66038 and|0.64151 current|0.62264 reigning|0.60377 Dragon|0.58491 King|0.56604 of|0.54717 the|0.5283 Kingdom|0.50943 of|0.49057 Bhutan|0.4717 He|0.45283 began|0.43396 his|0.41509 reign|0.39623 overseeing|0.37736 the|0.35849 democratization|0.33962 of|0.32075 his|0.30189 country|0.28302 by|0.26415 presiding|0.24528 over|0.22642 the|0.20755 last|0.18868 sessions|0.16981 of|0.15094 the|0.13208 parliament|0.11321 where|0.09434 electoral|0.075472 laws|0.056604 were|0.037736 deliberated|0.018868 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 3|1"
+		}
+	}
+}

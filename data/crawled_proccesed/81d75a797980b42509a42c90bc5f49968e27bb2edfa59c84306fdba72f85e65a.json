@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d75a797980b42509a42c90bc5f49968e27bb2edfa59c84306fdba72f85e65a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Netanyahu_and_Mubarak_checking_their_watches.jpg/220px-Netanyahu_and_Mubarak_checking_their_watches.jpg",
+			"previous": " Mubarak was involved in the Arab League supporting Arab efforts to achieve a lasting peace in the region At the Beirut Summit on 28 March 2002 the league adopted the Arab Peace Initiative 59 a Saudi inspired plan to end the Arab Israeli conflict ",
+			"after": " In June 2007 Mubarak held a summit meeting at Sharm el Sheik with King Abdullah II of Jordan President Mahmoud Abbas and Prime Minister Ehud Olmert On 19 June 2008 the Egypt brokered pause in hostilities between Israel and Hamas went into effect 60 61 According to The New York Times neither side fully respected the terms of the ceasefire 62 ",
+			"after_weights": " In|1 June|0.98361 2007|0.96721 Mubarak|0.95082 held|0.93443 a|0.91803 summit|0.90164 meeting|0.88525 at|0.86885 Sharm|0.85246 el|0.83607 Sheik|0.81967 with|0.80328 King|0.78689 Abdullah|0.77049 II|0.7541 of|0.7377 Jordan|0.72131 President|0.70492 Mahmoud|0.68852 Abbas|0.67213 and|0.65574 Prime|0.63934 Minister|0.62295 Ehud|0.60656 Olmert|0.59016 On|0.57377 19|0.55738 June|0.54098 2008|0.52459 the|0.5082 Egypt|0.4918 brokered|0.47541 pause|0.45902 in|0.44262 hostilities|0.42623 between|0.40984 Israel|0.39344 and|0.37705 Hamas|0.36066 went|0.34426 into|0.32787 effect|0.31148 60|0.29508 61|0.27869 According|0.2623 to|0.2459 The|0.22951 New|0.21311 York|0.19672 Times|0.18033 neither|0.16393 side|0.14754 fully|0.13115 respected|0.11475 the|0.098361 terms|0.081967 of|0.065574 the|0.04918 ceasefire|0.032787 62|0.016393 |0",
+			"previous_weights": " Mubarak|0 was|0.022727 involved|0.045455 in|0.068182 the|0.090909 Arab|0.11364 League|0.13636 supporting|0.15909 Arab|0.18182 efforts|0.20455 to|0.22727 achieve|0.25 a|0.27273 lasting|0.29545 peace|0.31818 in|0.34091 the|0.36364 region|0.38636 At|0.40909 the|0.43182 Beirut|0.45455 Summit|0.47727 on|0.5 28|0.52273 March|0.54545 2002|0.56818 the|0.59091 league|0.61364 adopted|0.63636 the|0.65909 Arab|0.68182 Peace|0.70455 Initiative|0.72727 59|0.75 a|0.77273 Saudi|0.79545 inspired|0.81818 plan|0.84091 to|0.86364 end|0.88636 the|0.90909 Arab|0.93182 Israeli|0.95455 conflict|0.97727 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2d94899d0d8f7757921972e93e0043513e969a5435e2664ec55542a09b740e01",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Libya_4985_Tadrart_Acacus_Luca_Galuzzi_2007.jpg/500px-Libya_4985_Tadrart_Acacus_Luca_Galuzzi_2007.jpg",
+			"previous": " Portal Geography Featured picture 17",
+			"after": " The Tadrart Acacus is a desert area in western Libya part of the Sahara The Acacus Mountains form a mountain range situated east of the Libyan city of Ghat and stretch north from the Algerian border about 100 km ",
+			"after_weights": " The|1 Tadrart|0.97436 Acacus|0.94872 is|0.92308 a|0.89744 desert|0.87179 area|0.84615 in|0.82051 western|0.79487 Libya|0.76923 part|0.74359 of|0.71795 the|0.69231 Sahara|0.66667 The|0.64103 Acacus|0.61538 Mountains|0.58974 form|0.5641 a|0.53846 mountain|0.51282 range|0.48718 situated|0.46154 east|0.4359 of|0.41026 the|0.38462 Libyan|0.35897 city|0.33333 of|0.30769 Ghat|0.28205 and|0.25641 stretch|0.23077 north|0.20513 from|0.17949 the|0.15385 Algerian|0.12821 border|0.10256 about|0.076923 100|0.051282 km|0.025641 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 17|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "71bda239f41b49113d73cffd613c00e1aa1f6107196c743d00f5f0e5523e5776",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amtrak_snack_car.jpg/220px-Amtrak_snack_car.jpg",
+			"previous": " Two different Business Class seat configurations exist  Business Class is the minimum class of service on the Acela Express and is offered as an upgrade on Northeast Regional and similar trains Business Class passengers also receive complimentary non alcoholic beverages and newspapers typically The New York Times even if boarding originating outside New York City ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Two|0 different|0.017857 Business|0.035714 Class|0.053571 seat|0.071429 configurations|0.089286 exist|0.10714 |0.125 Business|0.14286 Class|0.16071 is|0.17857 the|0.19643 minimum|0.21429 class|0.23214 of|0.25 service|0.26786 on|0.28571 the|0.30357 Acela|0.32143 Express|0.33929 and|0.35714 is|0.375 offered|0.39286 as|0.41071 an|0.42857 upgrade|0.44643 on|0.46429 Northeast|0.48214 Regional|0.5 and|0.51786 similar|0.53571 trains|0.55357 Business|0.57143 Class|0.58929 passengers|0.60714 also|0.625 receive|0.64286 complimentary|0.66071 non|0.67857 alcoholic|0.69643 beverages|0.71429 and|0.73214 newspapers|0.75 typically|0.76786 The|0.78571 New|0.80357 York|0.82143 Times|0.83929 even|0.85714 if|0.875 boarding|0.89286 originating|0.91071 outside|0.92857 New|0.94643 York|0.96429 City|0.98214 |1"
+		}
+	}
+}

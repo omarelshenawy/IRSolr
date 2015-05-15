@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "95bd5cf278c1529f3d9c148873d69abd1d351dce2d293c299bd0fefc2305820f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/M-30_%28Madrid%2C_Spain%29_04.jpg/220px-M-30_%28Madrid%2C_Spain%29_04.jpg",
+			"previous": " Commuters and other local travellers have available a high capacity metropolitan road network Madrid is the center of the most important roads of Spain The road network within the Madrid region includes nine radial autov as fast dualled highways ",
+			"after": " Also Madrid road network includes four orbital ones at different distances from the centre ",
+			"after_weights": " Also|1 Madrid|0.92857 road|0.85714 network|0.78571 includes|0.71429 four|0.64286 orbital|0.57143 ones|0.5 at|0.42857 different|0.35714 distances|0.28571 from|0.21429 the|0.14286 centre|0.071429 |0",
+			"previous_weights": " Commuters|0 and|0.025641 other|0.051282 local|0.076923 travellers|0.10256 have|0.12821 available|0.15385 a|0.17949 high|0.20513 capacity|0.23077 metropolitan|0.25641 road|0.28205 network|0.30769 Madrid|0.33333 is|0.35897 the|0.38462 center|0.41026 of|0.4359 the|0.46154 most|0.48718 important|0.51282 roads|0.53846 of|0.5641 Spain|0.58974 The|0.61538 road|0.64103 network|0.66667 within|0.69231 the|0.71795 Madrid|0.74359 region|0.76923 includes|0.79487 nine|0.82051 radial|0.84615 autov|0.87179 as|0.89744 fast|0.92308 dualled|0.94872 highways|0.97436 |1"
+		}
+	}
+}

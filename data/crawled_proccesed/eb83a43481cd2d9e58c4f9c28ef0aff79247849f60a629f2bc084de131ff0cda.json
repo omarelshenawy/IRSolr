@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "eb83a43481cd2d9e58c4f9c28ef0aff79247849f60a629f2bc084de131ff0cda",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/WorldWideWebAroundWikipedia.png/220px-WorldWideWebAroundWikipedia.png",
+			"previous": " Most web pages contain hyperlinks to other related pages and perhaps to downloadable files source documents definitions and other web resources In the underlying HTML a hyperlink looks like a href http example org wiki Main Page Example org a free encyclopedia a ",
+			"after": " Such a collection of useful related resources interconnected via hypertext links is dubbed a web of information Publication on the Internet created what Tim Berners Lee first called the WorldWideWeb in its original CamelCase which was subsequently discarded in November 1990 5 ",
+			"after_weights": " Such|1 a|0.97619 collection|0.95238 of|0.92857 useful|0.90476 related|0.88095 resources|0.85714 interconnected|0.83333 via|0.80952 hypertext|0.78571 links|0.7619 is|0.7381 dubbed|0.71429 a|0.69048 web|0.66667 of|0.64286 information|0.61905 Publication|0.59524 on|0.57143 the|0.54762 Internet|0.52381 created|0.5 what|0.47619 Tim|0.45238 Berners|0.42857 Lee|0.40476 first|0.38095 called|0.35714 the|0.33333 WorldWideWeb|0.30952 in|0.28571 its|0.2619 original|0.2381 CamelCase|0.21429 which|0.19048 was|0.16667 subsequently|0.14286 discarded|0.11905 in|0.095238 November|0.071429 1990|0.047619 5|0.02381 |0",
+			"previous_weights": " Most|0 web|0.023256 pages|0.046512 contain|0.069767 hyperlinks|0.093023 to|0.11628 other|0.13953 related|0.16279 pages|0.18605 and|0.2093 perhaps|0.23256 to|0.25581 downloadable|0.27907 files|0.30233 source|0.32558 documents|0.34884 definitions|0.37209 and|0.39535 other|0.4186 web|0.44186 resources|0.46512 In|0.48837 the|0.51163 underlying|0.53488 HTML|0.55814 a|0.5814 hyperlink|0.60465 looks|0.62791 like|0.65116 a|0.67442 href|0.69767 http|0.72093 example|0.74419 org|0.76744 wiki|0.7907 Main|0.81395 Page|0.83721 Example|0.86047 org|0.88372 a|0.90698 free|0.93023 encyclopedia|0.95349 a|0.97674 |1"
+		}
+	}
+}

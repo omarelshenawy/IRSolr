@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b024edd28986ce5a6068d4cf5811d207261feb68866b7f7d4f1b18454d4f91c7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tartini_Square_from_above%2C_Piran%2C_May_2009.jpg/450px-Tartini_Square_from_above%2C_Piran%2C_May_2009.jpg",
+			"previous": " Portal Geography Featured picture 18",
+			"after": " An aerial view of Tartini Square the largest and main town square in Piran Slovenia It is named after violinist and composer Giuseppe Tartini who was born in Piran The square was once an inner dock for smaller vessels such as fishing boats and was located outside of the first city walls The dock was replaced by a formal town square in 1894 ",
+			"after_weights": " An|1 aerial|0.98413 view|0.96825 of|0.95238 Tartini|0.93651 Square|0.92063 the|0.90476 largest|0.88889 and|0.87302 main|0.85714 town|0.84127 square|0.8254 in|0.80952 Piran|0.79365 Slovenia|0.77778 It|0.7619 is|0.74603 named|0.73016 after|0.71429 violinist|0.69841 and|0.68254 composer|0.66667 Giuseppe|0.65079 Tartini|0.63492 who|0.61905 was|0.60317 born|0.5873 in|0.57143 Piran|0.55556 The|0.53968 square|0.52381 was|0.50794 once|0.49206 an|0.47619 inner|0.46032 dock|0.44444 for|0.42857 smaller|0.4127 vessels|0.39683 such|0.38095 as|0.36508 fishing|0.34921 boats|0.33333 and|0.31746 was|0.30159 located|0.28571 outside|0.26984 of|0.25397 the|0.2381 first|0.22222 city|0.20635 walls|0.19048 The|0.1746 dock|0.15873 was|0.14286 replaced|0.12698 by|0.11111 a|0.095238 formal|0.079365 town|0.063492 square|0.047619 in|0.031746 1894|0.015873 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 18|1"
+		}
+	}
+}

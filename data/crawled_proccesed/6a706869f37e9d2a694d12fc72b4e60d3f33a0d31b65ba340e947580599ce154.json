@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a706869f37e9d2a694d12fc72b4e60d3f33a0d31b65ba340e947580599ce154",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Enciclopedia_Libre_and_Spanish_Wikipedia_article_count.svg/700px-Enciclopedia_Libre_and_Spanish_Wikipedia_article_count.svg.png",
+			"previous": " While Enciclopedia Libre initially grew much more rapidly than the Spanish Wikipedia the Spanish Wikipedia overtook it in 2004 Since then the Spanish Wikipedia has grown at a much greater rate As of October 2011 the Spanish Wikipedia hosts approximately eighteen times as many articles as Enciclopedia Libre ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " While|0 Enciclopedia|0.020833 Libre|0.041667 initially|0.0625 grew|0.083333 much|0.10417 more|0.125 rapidly|0.14583 than|0.16667 the|0.1875 Spanish|0.20833 Wikipedia|0.22917 the|0.25 Spanish|0.27083 Wikipedia|0.29167 overtook|0.3125 it|0.33333 in|0.35417 2004|0.375 Since|0.39583 then|0.41667 the|0.4375 Spanish|0.45833 Wikipedia|0.47917 has|0.5 grown|0.52083 at|0.54167 a|0.5625 much|0.58333 greater|0.60417 rate|0.625 As|0.64583 of|0.66667 October|0.6875 2011|0.70833 the|0.72917 Spanish|0.75 Wikipedia|0.77083 hosts|0.79167 approximately|0.8125 eighteen|0.83333 times|0.85417 as|0.875 many|0.89583 articles|0.91667 as|0.9375 Enciclopedia|0.95833 Libre|0.97917 |1"
+		}
+	}
+}

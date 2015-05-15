@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cf51eb91e0aba1b151db5e5c7ea8d6d8a64966e9432433d127f8278a5fd4b633",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Symbol_a_class.svg/20px-Symbol_a_class.svg.png",
+			"previous": "  Law Max Weber Michel Foucault Society of the Song Dynasty List of autonomous areas by country List of unrecognized countries",
+			"after": " American middle class Average Joe Civilization Income inequality in the United States Liberalism ",
+			"after_weights": " American|1 middle|0.92308 class|0.84615 Average|0.76923 Joe|0.69231 Civilization|0.61538 Income|0.53846 inequality|0.46154 in|0.38462 the|0.30769 United|0.23077 States|0.15385 Liberalism|0.076923 |0",
+			"previous_weights": " |0 Law|0.05 Max|0.1 Weber|0.15 Michel|0.2 Foucault|0.25 Society|0.3 of|0.35 the|0.4 Song|0.45 Dynasty|0.5 List|0.55 of|0.6 autonomous|0.65 areas|0.7 by|0.75 country|0.8 List|0.85 of|0.9 unrecognized|0.95 countries|1"
+		}
+	}
+}

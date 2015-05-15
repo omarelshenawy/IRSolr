@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b1e666e19624e3203838d4575d68e62bba369c66f206e5cc15cd32b155005adf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cot-caught_merger.png/400px-Cot-caught_merger.png",
+			"previous": " The word on is pronounced with in the North but with in the Midland Mid Atlantic and South ",
+			"after": " The cot caught merger also known as the low back merger is a phonemic merger a sound change that occurs in the open and open mid back vowels of many English accents ",
+			"after_weights": " The|1 cot|0.96875 caught|0.9375 merger|0.90625 also|0.875 known|0.84375 as|0.8125 the|0.78125 low|0.75 back|0.71875 merger|0.6875 is|0.65625 a|0.625 phonemic|0.59375 merger|0.5625 a|0.53125 sound|0.5 change|0.46875 that|0.4375 occurs|0.40625 in|0.375 the|0.34375 open|0.3125 and|0.28125 open|0.25 mid|0.21875 back|0.1875 vowels|0.15625 of|0.125 many|0.09375 English|0.0625 accents|0.03125 |0",
+			"previous_weights": " The|0 word|0.055556 on|0.11111 is|0.16667 pronounced|0.22222 with|0.27778 in|0.33333 the|0.38889 North|0.44444 but|0.5 with|0.55556 in|0.61111 the|0.66667 Midland|0.72222 Mid|0.77778 Atlantic|0.83333 and|0.88889 South|0.94444 |1"
+		}
+	}
+}

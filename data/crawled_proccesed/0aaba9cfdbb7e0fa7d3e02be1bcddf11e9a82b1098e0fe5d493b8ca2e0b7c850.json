@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0aaba9cfdbb7e0fa7d3e02be1bcddf11e9a82b1098e0fe5d493b8ca2e0b7c850",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/L_Sanger.jpg/220px-L_Sanger.jpg",
+			"previous": " ",
+			"after": " Citizendium s t z ndi m SIT i ZEN dee m the citizens compendium of everything 2 is an English language wiki based free encyclopedia project launched by Larry Sanger who co founded Wikipedia in 2001 3 4 ",
+			"after_weights": " Citizendium|1 s|0.97368 t|0.94737 z|0.92105 ndi|0.89474 m|0.86842 SIT|0.84211 i|0.81579 ZEN|0.78947 dee|0.76316 m|0.73684 the|0.71053 citizens|0.68421 compendium|0.65789 of|0.63158 everything|0.60526 2|0.57895 is|0.55263 an|0.52632 English|0.5 language|0.47368 wiki|0.44737 based|0.42105 free|0.39474 encyclopedia|0.36842 project|0.34211 launched|0.31579 by|0.28947 Larry|0.26316 Sanger|0.23684 who|0.21053 co|0.18421 founded|0.15789 Wikipedia|0.13158 in|0.10526 2001|0.078947 3|0.052632 4|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

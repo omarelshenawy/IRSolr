@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "dc6136d28c9ffa1557ea79b68885659f5d96a14d497b2a0475d7a1e36413345a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Stormyposter.jpg/220px-Stormyposter.jpg",
+			"previous": " ",
+			"after": "  Stormy Weather 1943 starring Lena Horne Bill Bojangles Robinson and Cab Calloway s Band along with Cabin in the Sky 1943 starring Ethel Waters Eddie Rochester Anderson Lena Horne and Louis Stachmo Armstrong and other musicals of the 1940s opened new roles for Blacks in Hollywood They broke through old stereotypes and far surpassed the limited poorly paid roles available in race films produced for all black audiences 113 114 ",
+			"after_weights": " |1 Stormy|0.98592 Weather|0.97183 1943|0.95775 starring|0.94366 Lena|0.92958 Horne|0.91549 Bill|0.90141 Bojangles|0.88732 Robinson|0.87324 and|0.85915 Cab|0.84507 Calloway|0.83099 s|0.8169 Band|0.80282 along|0.78873 with|0.77465 Cabin|0.76056 in|0.74648 the|0.73239 Sky|0.71831 1943|0.70423 starring|0.69014 Ethel|0.67606 Waters|0.66197 Eddie|0.64789 Rochester|0.6338 Anderson|0.61972 Lena|0.60563 Horne|0.59155 and|0.57746 Louis|0.56338 Stachmo|0.5493 Armstrong|0.53521 and|0.52113 other|0.50704 musicals|0.49296 of|0.47887 the|0.46479 1940s|0.4507 opened|0.43662 new|0.42254 roles|0.40845 for|0.39437 Blacks|0.38028 in|0.3662 Hollywood|0.35211 They|0.33803 broke|0.32394 through|0.30986 old|0.29577 stereotypes|0.28169 and|0.26761 far|0.25352 surpassed|0.23944 the|0.22535 limited|0.21127 poorly|0.19718 paid|0.1831 roles|0.16901 available|0.15493 in|0.14085 race|0.12676 films|0.11268 produced|0.098592 for|0.084507 all|0.070423 black|0.056338 audiences|0.042254 113|0.028169 114|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

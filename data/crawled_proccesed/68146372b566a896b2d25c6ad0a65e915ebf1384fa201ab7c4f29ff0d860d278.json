@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "68146372b566a896b2d25c6ad0a65e915ebf1384fa201ab7c4f29ff0d860d278",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Frank_Sinatra_by_Gottlieb_c1947-_2.jpg/300px-Frank_Sinatra_by_Gottlieb_c1947-_2.jpg",
+			"previous": " Portal Biography Selected picture 13",
+			"after": " Francis Albert Frank Sinatra December 12 1915 May 14 1998 was an American singer and film actor Sinatra found unprecedented success as a solo artist from the early to mid 1940s after being signed by Columbia Records in 1943 and was one of the founding member of the Rat Pack Sinatra is one of the best selling artists of all time ",
+			"after_weights": " Francis|1 Albert|0.98361 Frank|0.96721 Sinatra|0.95082 December|0.93443 12|0.91803 1915|0.90164 May|0.88525 14|0.86885 1998|0.85246 was|0.83607 an|0.81967 American|0.80328 singer|0.78689 and|0.77049 film|0.7541 actor|0.7377 Sinatra|0.72131 found|0.70492 unprecedented|0.68852 success|0.67213 as|0.65574 a|0.63934 solo|0.62295 artist|0.60656 from|0.59016 the|0.57377 early|0.55738 to|0.54098 mid|0.52459 1940s|0.5082 after|0.4918 being|0.47541 signed|0.45902 by|0.44262 Columbia|0.42623 Records|0.40984 in|0.39344 1943|0.37705 and|0.36066 was|0.34426 one|0.32787 of|0.31148 the|0.29508 founding|0.27869 member|0.2623 of|0.2459 the|0.22951 Rat|0.21311 Pack|0.19672 Sinatra|0.18033 is|0.16393 one|0.14754 of|0.13115 the|0.11475 best|0.098361 selling|0.081967 artists|0.065574 of|0.04918 all|0.032787 time|0.016393 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 13|1"
+		}
+	}
+}

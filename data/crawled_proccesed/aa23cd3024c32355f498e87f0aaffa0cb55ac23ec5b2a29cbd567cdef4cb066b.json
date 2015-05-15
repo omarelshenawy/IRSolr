@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "aa23cd3024c32355f498e87f0aaffa0cb55ac23ec5b2a29cbd567cdef4cb066b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/BBC_Micro_Elite_screenshot.png/220px-BBC_Micro_Elite_screenshot.png",
+			"previous": " ",
+			"after": " The BBC Micro platform amassed a large software base of both games and educational programs for its two main uses as a home and educational computer Notable examples of each include the original release of Elite 42 and Granny s Garden Programming languages and some applications were supplied on ROM chips to be installed on the motherboard These loaded instantly and left the RAM free for programs or documents ",
+			"after_weights": " The|1 BBC|0.98551 Micro|0.97101 platform|0.95652 amassed|0.94203 a|0.92754 large|0.91304 software|0.89855 base|0.88406 of|0.86957 both|0.85507 games|0.84058 and|0.82609 educational|0.81159 programs|0.7971 for|0.78261 its|0.76812 two|0.75362 main|0.73913 uses|0.72464 as|0.71014 a|0.69565 home|0.68116 and|0.66667 educational|0.65217 computer|0.63768 Notable|0.62319 examples|0.6087 of|0.5942 each|0.57971 include|0.56522 the|0.55072 original|0.53623 release|0.52174 of|0.50725 Elite|0.49275 42|0.47826 and|0.46377 Granny|0.44928 s|0.43478 Garden|0.42029 Programming|0.4058 languages|0.3913 and|0.37681 some|0.36232 applications|0.34783 were|0.33333 supplied|0.31884 on|0.30435 ROM|0.28986 chips|0.27536 to|0.26087 be|0.24638 installed|0.23188 on|0.21739 the|0.2029 motherboard|0.18841 These|0.17391 loaded|0.15942 instantly|0.14493 and|0.13043 left|0.11594 the|0.10145 RAM|0.086957 free|0.072464 for|0.057971 programs|0.043478 or|0.028986 documents|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

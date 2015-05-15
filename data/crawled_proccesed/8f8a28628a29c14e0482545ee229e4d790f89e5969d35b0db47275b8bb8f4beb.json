@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f8a28628a29c14e0482545ee229e4d790f89e5969d35b0db47275b8bb8f4beb",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Karbala_Ki_Kahani.jpg/200px-Karbala_Ki_Kahani.jpg",
+			"previous": " ",
+			"after": " Ansari is also well known for the books he has written both in Pakistan and in Kenya even though many of his writings have not been published citation needed Even late into his life he actively wrote books usually with the help of his youngest daughter citation needed Most of his writings are in Urdu His works today survive in several university catalogs and libraries 1 ",
+			"after_weights": " Ansari|1 is|0.98485 also|0.9697 well|0.95455 known|0.93939 for|0.92424 the|0.90909 books|0.89394 he|0.87879 has|0.86364 written|0.84848 both|0.83333 in|0.81818 Pakistan|0.80303 and|0.78788 in|0.77273 Kenya|0.75758 even|0.74242 though|0.72727 many|0.71212 of|0.69697 his|0.68182 writings|0.66667 have|0.65152 not|0.63636 been|0.62121 published|0.60606 citation|0.59091 needed|0.57576 Even|0.56061 late|0.54545 into|0.5303 his|0.51515 life|0.5 he|0.48485 actively|0.4697 wrote|0.45455 books|0.43939 usually|0.42424 with|0.40909 the|0.39394 help|0.37879 of|0.36364 his|0.34848 youngest|0.33333 daughter|0.31818 citation|0.30303 needed|0.28788 Most|0.27273 of|0.25758 his|0.24242 writings|0.22727 are|0.21212 in|0.19697 Urdu|0.18182 His|0.16667 works|0.15152 today|0.13636 survive|0.12121 in|0.10606 several|0.090909 university|0.075758 catalogs|0.060606 and|0.045455 libraries|0.030303 1|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

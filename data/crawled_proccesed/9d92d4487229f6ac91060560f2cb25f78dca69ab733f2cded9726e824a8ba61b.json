@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d92d4487229f6ac91060560f2cb25f78dca69ab733f2cded9726e824a8ba61b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Padlock-skyblue.svg/75px-Padlock-skyblue.svg.png",
+			"previous": " ",
+			"after": " Administrators can prevent the creation of a page through the protection interface This is useful for articles that have been deleted but repeatedly recreated Such protection is case sensitive A list of protected titles may be found at Special Protectedtitles see also historical lists ",
+			"after_weights": " Administrators|1 can|0.97727 prevent|0.95455 the|0.93182 creation|0.90909 of|0.88636 a|0.86364 page|0.84091 through|0.81818 the|0.79545 protection|0.77273 interface|0.75 This|0.72727 is|0.70455 useful|0.68182 for|0.65909 articles|0.63636 that|0.61364 have|0.59091 been|0.56818 deleted|0.54545 but|0.52273 repeatedly|0.5 recreated|0.47727 Such|0.45455 protection|0.43182 is|0.40909 case|0.38636 sensitive|0.36364 A|0.34091 list|0.31818 of|0.29545 protected|0.27273 titles|0.25 may|0.22727 be|0.20455 found|0.18182 at|0.15909 Special|0.13636 Protectedtitles|0.11364 see|0.090909 also|0.068182 historical|0.045455 lists|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

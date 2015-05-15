@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e068ebd75e99c83c979c6ab295b97d403e4d335ea12c7027a77f36a83b589df0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Splitsection.svg/50px-Splitsection.svg.png",
+			"previous": "  Welcome to the File Upload Wizard This page is for uploading images and other media files to Wikipedia When you click the link below the wizard will guide you through a questionnaire prompting you for the appropriate copyright and sourcing information for each file Please ensure you understand copyright and the image use policy before proceeding ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " |0 Welcome|0.017544 to|0.035088 the|0.052632 File|0.070175 Upload|0.087719 Wizard|0.10526 This|0.12281 page|0.14035 is|0.15789 for|0.17544 uploading|0.19298 images|0.21053 and|0.22807 other|0.24561 media|0.26316 files|0.2807 to|0.29825 Wikipedia|0.31579 When|0.33333 you|0.35088 click|0.36842 the|0.38596 link|0.40351 below|0.42105 the|0.4386 wizard|0.45614 will|0.47368 guide|0.49123 you|0.50877 through|0.52632 a|0.54386 questionnaire|0.5614 prompting|0.57895 you|0.59649 for|0.61404 the|0.63158 appropriate|0.64912 copyright|0.66667 and|0.68421 sourcing|0.70175 information|0.7193 for|0.73684 each|0.75439 file|0.77193 Please|0.78947 ensure|0.80702 you|0.82456 understand|0.84211 copyright|0.85965 and|0.87719 the|0.89474 image|0.91228 use|0.92982 policy|0.94737 before|0.96491 proceeding|0.98246 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5c74726776f788b181906d3ab5d5d86331d98669a604e5a1bd984cda2f10f079",
+			"url": "https://upload.wikimedia.org/math/b/9/d/b9d9c74f98976341ffb2310f305c0b74.png",
+			"previous": " The radius of each circular disk is r if x 0 and 0 if x h and varying linearly in between that is  However using calculus the volume of a cone is the integral of an infinite number of infinitesimally thin circular disks of thickness dx The calculation for the volume of a cone of height h whose base is centered at 0 0 0 with radius r is as follows ",
+			"after": " The volume of the cone can then be calculated as and after extraction of the constants ",
+			"after_weights": " The|1 volume|0.9375 of|0.875 the|0.8125 cone|0.75 can|0.6875 then|0.625 be|0.5625 calculated|0.5 as|0.4375 and|0.375 after|0.3125 extraction|0.25 of|0.1875 the|0.125 constants|0.0625 |0",
+			"previous_weights": " The|0 radius|0.013889 of|0.027778 each|0.041667 circular|0.055556 disk|0.069444 is|0.083333 r|0.097222 if|0.11111 x|0.125 0|0.13889 and|0.15278 0|0.16667 if|0.18056 x|0.19444 h|0.20833 and|0.22222 varying|0.23611 linearly|0.25 in|0.26389 between|0.27778 that|0.29167 is|0.30556 |0.31944 However|0.33333 using|0.34722 calculus|0.36111 the|0.375 volume|0.38889 of|0.40278 a|0.41667 cone|0.43056 is|0.44444 the|0.45833 integral|0.47222 of|0.48611 an|0.5 infinite|0.51389 number|0.52778 of|0.54167 infinitesimally|0.55556 thin|0.56944 circular|0.58333 disks|0.59722 of|0.61111 thickness|0.625 dx|0.63889 The|0.65278 calculation|0.66667 for|0.68056 the|0.69444 volume|0.70833 of|0.72222 a|0.73611 cone|0.75 of|0.76389 height|0.77778 h|0.79167 whose|0.80556 base|0.81944 is|0.83333 centered|0.84722 at|0.86111 0|0.875 0|0.88889 0|0.90278 with|0.91667 radius|0.93056 r|0.94444 is|0.95833 as|0.97222 follows|0.98611 |1"
+		}
+	}
+}

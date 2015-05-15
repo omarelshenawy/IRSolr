@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a42aff630d44539d906a3017b79ae6e062af01014d98180dc573c1bb24d0d60",
+			"url": "https://upload.wikimedia.org/math/a/e/4/ae4f8ed5332616d7dc54bd24999e8902.png",
+			"previous": " The weighted harmonic mean of precision and recall the traditional F measure or balanced F score is ",
+			"after": " This is also known as the measure because recall and precision are evenly weighted  The general formula for non negative real is ",
+			"after_weights": " This|1 is|0.95652 also|0.91304 known|0.86957 as|0.82609 the|0.78261 measure|0.73913 because|0.69565 recall|0.65217 and|0.6087 precision|0.56522 are|0.52174 evenly|0.47826 weighted|0.43478 |0.3913 The|0.34783 general|0.30435 formula|0.26087 for|0.21739 non|0.17391 negative|0.13043 real|0.086957 is|0.043478 |0",
+			"previous_weights": " The|0 weighted|0.058824 harmonic|0.11765 mean|0.17647 of|0.23529 precision|0.29412 and|0.35294 recall|0.41176 the|0.47059 traditional|0.52941 F|0.58824 measure|0.64706 or|0.70588 balanced|0.76471 F|0.82353 score|0.88235 is|0.94118 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "55454d72d8f098c4689349a7b86c06573a4fea200349ac214a8d80f68be384a0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logistic-curve.svg/320px-Logistic-curve.svg.png",
+			"previous": " ",
+			"after": " A logistic function or logistic curve is a common S shape sigmoid curve with equation  where e the natural logarithm base also known as Euler s number  x0 the x value of the sigmoid s midpoint ",
+			"after_weights": " A|1 logistic|0.97368 function|0.94737 or|0.92105 logistic|0.89474 curve|0.86842 is|0.84211 a|0.81579 common|0.78947 S|0.76316 shape|0.73684 sigmoid|0.71053 curve|0.68421 with|0.65789 equation|0.63158 |0.60526 where|0.57895 e|0.55263 the|0.52632 natural|0.5 logarithm|0.47368 base|0.44737 also|0.42105 known|0.39474 as|0.36842 Euler|0.34211 s|0.31579 number|0.28947 |0.26316 x0|0.23684 the|0.21053 x|0.18421 value|0.15789 of|0.13158 the|0.10526 sigmoid|0.078947 s|0.052632 midpoint|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

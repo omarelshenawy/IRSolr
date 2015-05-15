@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a753dd950dfeb334a9df4b988d351b6219234c18fd30ed1bdb869bb8bdb966f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Henry_Blodget_%28Business_Insider%29.jpg/220px-Henry_Blodget_%28Business_Insider%29.jpg",
+			"previous": " ",
+			"after": " Henry Blodget born 1966 is an American former equity research analyst who was senior Internet analyst for CIBC Oppenheimer and the head of the global Internet research team at Merrill Lynch during the dot com bubble 1 Blodget is now the editor and CEO of The Business Insider a business news and analysis site and a host of Yahoo Daily Ticker a finance show on Yahoo He is permanently banned from involvement in the securities industry 2 ",
+			"after_weights": " Henry|1 Blodget|0.98701 born|0.97403 1966|0.96104 is|0.94805 an|0.93506 American|0.92208 former|0.90909 equity|0.8961 research|0.88312 analyst|0.87013 who|0.85714 was|0.84416 senior|0.83117 Internet|0.81818 analyst|0.80519 for|0.79221 CIBC|0.77922 Oppenheimer|0.76623 and|0.75325 the|0.74026 head|0.72727 of|0.71429 the|0.7013 global|0.68831 Internet|0.67532 research|0.66234 team|0.64935 at|0.63636 Merrill|0.62338 Lynch|0.61039 during|0.5974 the|0.58442 dot|0.57143 com|0.55844 bubble|0.54545 1|0.53247 Blodget|0.51948 is|0.50649 now|0.49351 the|0.48052 editor|0.46753 and|0.45455 CEO|0.44156 of|0.42857 The|0.41558 Business|0.4026 Insider|0.38961 a|0.37662 business|0.36364 news|0.35065 and|0.33766 analysis|0.32468 site|0.31169 and|0.2987 a|0.28571 host|0.27273 of|0.25974 Yahoo|0.24675 Daily|0.23377 Ticker|0.22078 a|0.20779 finance|0.19481 show|0.18182 on|0.16883 Yahoo|0.15584 He|0.14286 is|0.12987 permanently|0.11688 banned|0.1039 from|0.090909 involvement|0.077922 in|0.064935 the|0.051948 securities|0.038961 industry|0.025974 2|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

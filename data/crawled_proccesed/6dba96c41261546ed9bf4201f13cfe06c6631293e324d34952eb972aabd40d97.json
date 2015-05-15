@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6dba96c41261546ed9bf4201f13cfe06c6631293e324d34952eb972aabd40d97",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Police_Car_of_Gibraltar.jpg/220px-Police_Car_of_Gibraltar.jpg",
+			"previous": " ",
+			"after": " The Royal Gibraltar Police RGP and Gibraltar Customs are Gibraltar s principal civilian law enforcement agencies Outside the United Kingdom the RGP is the oldest police force of the former British Empire formed shortly after the creation of London s Metropolitan Police in 1829 when Gibraltar was declared a crown colony on 25 June 1830 97 ",
+			"after_weights": " The|1 Royal|0.98214 Gibraltar|0.96429 Police|0.94643 RGP|0.92857 and|0.91071 Gibraltar|0.89286 Customs|0.875 are|0.85714 Gibraltar|0.83929 s|0.82143 principal|0.80357 civilian|0.78571 law|0.76786 enforcement|0.75 agencies|0.73214 Outside|0.71429 the|0.69643 United|0.67857 Kingdom|0.66071 the|0.64286 RGP|0.625 is|0.60714 the|0.58929 oldest|0.57143 police|0.55357 force|0.53571 of|0.51786 the|0.5 former|0.48214 British|0.46429 Empire|0.44643 formed|0.42857 shortly|0.41071 after|0.39286 the|0.375 creation|0.35714 of|0.33929 London|0.32143 s|0.30357 Metropolitan|0.28571 Police|0.26786 in|0.25 1829|0.23214 when|0.21429 Gibraltar|0.19643 was|0.17857 declared|0.16071 a|0.14286 crown|0.125 colony|0.10714 on|0.089286 25|0.071429 June|0.053571 1830|0.035714 97|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

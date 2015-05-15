@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2989e4ec8e0464be9922be1c6879e3612db16a6267c859ac9e36237f8a978e20",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sarah_Palin_and_John_McCain_in_Albuquerque.jpg/220px-Sarah_Palin_and_John_McCain_in_Albuquerque.jpg",
+			"previous": " ",
+			"after": " An issue in the election was Obama s possible 98 99 100 and then actual 101 102 nomination by the Democratic Party On August 28 2008 when Obama formally accepted the Democratic nomination for President he became the first African American to be nominated for President by a major political party 101 The television audiences for both McCain s and Obama s acceptance speeches broke records according to Nielsen ratings 103 ",
+			"after_weights": " An|1 issue|0.98592 in|0.97183 the|0.95775 election|0.94366 was|0.92958 Obama|0.91549 s|0.90141 possible|0.88732 98|0.87324 99|0.85915 100|0.84507 and|0.83099 then|0.8169 actual|0.80282 101|0.78873 102|0.77465 nomination|0.76056 by|0.74648 the|0.73239 Democratic|0.71831 Party|0.70423 On|0.69014 August|0.67606 28|0.66197 2008|0.64789 when|0.6338 Obama|0.61972 formally|0.60563 accepted|0.59155 the|0.57746 Democratic|0.56338 nomination|0.5493 for|0.53521 President|0.52113 he|0.50704 became|0.49296 the|0.47887 first|0.46479 African|0.4507 American|0.43662 to|0.42254 be|0.40845 nominated|0.39437 for|0.38028 President|0.3662 by|0.35211 a|0.33803 major|0.32394 political|0.30986 party|0.29577 101|0.28169 The|0.26761 television|0.25352 audiences|0.23944 for|0.22535 both|0.21127 McCain|0.19718 s|0.1831 and|0.16901 Obama|0.15493 s|0.14085 acceptance|0.12676 speeches|0.11268 broke|0.098592 records|0.084507 according|0.070423 to|0.056338 Nielsen|0.042254 ratings|0.028169 103|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

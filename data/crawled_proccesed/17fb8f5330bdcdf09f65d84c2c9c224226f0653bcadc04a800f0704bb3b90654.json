@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "17fb8f5330bdcdf09f65d84c2c9c224226f0653bcadc04a800f0704bb3b90654",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Meadows_Field_Arport.jpg/220px-Meadows_Field_Arport.jpg",
+			"previous": " Passenger service is provided by the San Joaquin Route operated by Amtrak California The Bakersfield Amtrak Station is located downtown at the intersection of S Street and Truxtun Avenue The city is the southern terminus of the route There are five Amtrak Thruway Motorcoach routes which connect passengers to destination west south and east 121 Kern Transit also uses the station as one of its hubs connecting passengers to regions throughout Kern County 122 Bakersfield is a planned station for the proposed California High Speed Rail system 123 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Passenger|0 service|0.011364 is|0.022727 provided|0.034091 by|0.045455 the|0.056818 San|0.068182 Joaquin|0.079545 Route|0.090909 operated|0.10227 by|0.11364 Amtrak|0.125 California|0.13636 The|0.14773 Bakersfield|0.15909 Amtrak|0.17045 Station|0.18182 is|0.19318 located|0.20455 downtown|0.21591 at|0.22727 the|0.23864 intersection|0.25 of|0.26136 S|0.27273 Street|0.28409 and|0.29545 Truxtun|0.30682 Avenue|0.31818 The|0.32955 city|0.34091 is|0.35227 the|0.36364 southern|0.375 terminus|0.38636 of|0.39773 the|0.40909 route|0.42045 There|0.43182 are|0.44318 five|0.45455 Amtrak|0.46591 Thruway|0.47727 Motorcoach|0.48864 routes|0.5 which|0.51136 connect|0.52273 passengers|0.53409 to|0.54545 destination|0.55682 west|0.56818 south|0.57955 and|0.59091 east|0.60227 121|0.61364 Kern|0.625 Transit|0.63636 also|0.64773 uses|0.65909 the|0.67045 station|0.68182 as|0.69318 one|0.70455 of|0.71591 its|0.72727 hubs|0.73864 connecting|0.75 passengers|0.76136 to|0.77273 regions|0.78409 throughout|0.79545 Kern|0.80682 County|0.81818 122|0.82955 Bakersfield|0.84091 is|0.85227 a|0.86364 planned|0.875 station|0.88636 for|0.89773 the|0.90909 proposed|0.92045 California|0.93182 High|0.94318 Speed|0.95455 Rail|0.96591 system|0.97727 123|0.98864 |1"
+		}
+	}
+}

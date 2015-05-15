@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f4886d8f1c714c5c5cb1510b47feb7bc27390b399ece7fcf28e089d1ca737bd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alter_Strom.jpg/500px-Alter_Strom.jpg",
+			"previous": " Portal Geography Featured picture 3",
+			"after": " The Alter Strom Old River canal in Warnem nde a sea resort and district of Rostock in Mecklenburg Vorpommern situated at the Baltic Sea in the Northeast of Germany at the estuary of the river Warnow ",
+			"after_weights": " The|1 Alter|0.97222 Strom|0.94444 Old|0.91667 River|0.88889 canal|0.86111 in|0.83333 Warnem|0.80556 nde|0.77778 a|0.75 sea|0.72222 resort|0.69444 and|0.66667 district|0.63889 of|0.61111 Rostock|0.58333 in|0.55556 Mecklenburg|0.52778 Vorpommern|0.5 situated|0.47222 at|0.44444 the|0.41667 Baltic|0.38889 Sea|0.36111 in|0.33333 the|0.30556 Northeast|0.27778 of|0.25 Germany|0.22222 at|0.19444 the|0.16667 estuary|0.13889 of|0.11111 the|0.083333 river|0.055556 Warnow|0.027778 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 3|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d064b2d36a6a648a7315d73aad427f2f35fc3e9edd7bb9675be60ebf52d66ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Monumento_a_Cervantes_%28Madrid%29_10.jpg/200px-Monumento_a_Cervantes_%28Madrid%29_10.jpg",
+			"previous": " During the Reconquista the epic poem Cantar de Mio Cid was written about a real man his battles conquests and daily life ",
+			"after": " Other major plays from the medieval times were Mester de Juglar a Mester de Clerec a Coplas por la muerte de su padre or El Libro de buen amor The Book of Good Love ",
+			"after_weights": " Other|1 major|0.97059 plays|0.94118 from|0.91176 the|0.88235 medieval|0.85294 times|0.82353 were|0.79412 Mester|0.76471 de|0.73529 Juglar|0.70588 a|0.67647 Mester|0.64706 de|0.61765 Clerec|0.58824 a|0.55882 Coplas|0.52941 por|0.5 la|0.47059 muerte|0.44118 de|0.41176 su|0.38235 padre|0.35294 or|0.32353 El|0.29412 Libro|0.26471 de|0.23529 buen|0.20588 amor|0.17647 The|0.14706 Book|0.11765 of|0.088235 Good|0.058824 Love|0.029412 |0",
+			"previous_weights": " During|0 the|0.045455 Reconquista|0.090909 the|0.13636 epic|0.18182 poem|0.22727 Cantar|0.27273 de|0.31818 Mio|0.36364 Cid|0.40909 was|0.45455 written|0.5 about|0.54545 a|0.59091 real|0.63636 man|0.68182 his|0.72727 battles|0.77273 conquests|0.81818 and|0.86364 daily|0.90909 life|0.95455 |1"
+		}
+	}
+}

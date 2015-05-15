@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "588bcf94c83b1925399aa2db3c89d6e36e7264fc2c5644a8f6387e59b3a0db47",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/History_Wikipedia_English_SOPA_2012_Blackout2.jpg/370px-History_Wikipedia_English_SOPA_2012_Blackout2.jpg",
+			"previous": " ",
+			"after": " On January 18 2012 a series of coordinated protests occurred against two proposed laws in the United States Congress the Stop Online Piracy Act SOPA and the PROTECT IP Act PIPA These followed smaller protests in late 2011 Protests were based on concerns that the bills intended to provide more robust responses to copyright infringement colloquially known as piracy arising outside the United States contained measures that could cause great harm to online freedom of speech websites and Internet communities Protesters also argued that there were insufficient safeguards in place to protect sites based upon user generated content ",
+			"after_weights": " On|1 January|0.9898 18|0.97959 2012|0.96939 a|0.95918 series|0.94898 of|0.93878 coordinated|0.92857 protests|0.91837 occurred|0.90816 against|0.89796 two|0.88776 proposed|0.87755 laws|0.86735 in|0.85714 the|0.84694 United|0.83673 States|0.82653 Congress|0.81633 the|0.80612 Stop|0.79592 Online|0.78571 Piracy|0.77551 Act|0.76531 SOPA|0.7551 and|0.7449 the|0.73469 PROTECT|0.72449 IP|0.71429 Act|0.70408 PIPA|0.69388 These|0.68367 followed|0.67347 smaller|0.66327 protests|0.65306 in|0.64286 late|0.63265 2011|0.62245 Protests|0.61224 were|0.60204 based|0.59184 on|0.58163 concerns|0.57143 that|0.56122 the|0.55102 bills|0.54082 intended|0.53061 to|0.52041 provide|0.5102 more|0.5 robust|0.4898 responses|0.47959 to|0.46939 copyright|0.45918 infringement|0.44898 colloquially|0.43878 known|0.42857 as|0.41837 piracy|0.40816 arising|0.39796 outside|0.38776 the|0.37755 United|0.36735 States|0.35714 contained|0.34694 measures|0.33673 that|0.32653 could|0.31633 cause|0.30612 great|0.29592 harm|0.28571 to|0.27551 online|0.26531 freedom|0.2551 of|0.2449 speech|0.23469 websites|0.22449 and|0.21429 Internet|0.20408 communities|0.19388 Protesters|0.18367 also|0.17347 argued|0.16327 that|0.15306 there|0.14286 were|0.13265 insufficient|0.12245 safeguards|0.11224 in|0.10204 place|0.091837 to|0.081633 protect|0.071429 sites|0.061224 based|0.05102 upon|0.040816 user|0.030612 generated|0.020408 content|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

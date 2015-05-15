@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d434eedd5ff9e25f7267cc4e5587a3bd942aefc014ddd6b4e9e43c7d481ba83c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Einstein-formal_portrait-35.jpg/220px-Einstein-formal_portrait-35.jpg",
+			"previous": " ",
+			"after": " In October 1933 Einstein returned to the U S and took up a position at the Institute for Advanced Study in Princeton New Jersey 73 74 noted for having become a refuge for scientists fleeing Nazi Germany 75 At the time most American universities including Harvard Princeton and Yale had minimal or no Jewish faculty or students as a result of their Jewish quota which lasted until the late 1940s 75 ",
+			"after_weights": " In|1 October|0.98592 1933|0.97183 Einstein|0.95775 returned|0.94366 to|0.92958 the|0.91549 U|0.90141 S|0.88732 and|0.87324 took|0.85915 up|0.84507 a|0.83099 position|0.8169 at|0.80282 the|0.78873 Institute|0.77465 for|0.76056 Advanced|0.74648 Study|0.73239 in|0.71831 Princeton|0.70423 New|0.69014 Jersey|0.67606 73|0.66197 74|0.64789 noted|0.6338 for|0.61972 having|0.60563 become|0.59155 a|0.57746 refuge|0.56338 for|0.5493 scientists|0.53521 fleeing|0.52113 Nazi|0.50704 Germany|0.49296 75|0.47887 At|0.46479 the|0.4507 time|0.43662 most|0.42254 American|0.40845 universities|0.39437 including|0.38028 Harvard|0.3662 Princeton|0.35211 and|0.33803 Yale|0.32394 had|0.30986 minimal|0.29577 or|0.28169 no|0.26761 Jewish|0.25352 faculty|0.23944 or|0.22535 students|0.21127 as|0.19718 a|0.1831 result|0.16901 of|0.15493 their|0.14085 Jewish|0.12676 quota|0.11268 which|0.098592 lasted|0.084507 until|0.070423 the|0.056338 late|0.042254 1940s|0.028169 75|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

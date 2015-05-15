@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fa76805cbff33457b07a6e46091de06573f35c59f71acb0fb10b4bb04d5c6cd9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Christ_Church_College.JPG/220px-Christ_Church_College.JPG",
+			"previous": " ",
+			"after": " The best known university in the region is the University of Oxford famous for its ornate colleges and its rowing teams on the Thames It was ranked the fourth best university in the world by the Times Higher Educational Supplement in 2013 32 ",
+			"after_weights": " The|1 best|0.97674 known|0.95349 university|0.93023 in|0.90698 the|0.88372 region|0.86047 is|0.83721 the|0.81395 University|0.7907 of|0.76744 Oxford|0.74419 famous|0.72093 for|0.69767 its|0.67442 ornate|0.65116 colleges|0.62791 and|0.60465 its|0.5814 rowing|0.55814 teams|0.53488 on|0.51163 the|0.48837 Thames|0.46512 It|0.44186 was|0.4186 ranked|0.39535 the|0.37209 fourth|0.34884 best|0.32558 university|0.30233 in|0.27907 the|0.25581 world|0.23256 by|0.2093 the|0.18605 Times|0.16279 Higher|0.13953 Educational|0.11628 Supplement|0.093023 in|0.069767 2013|0.046512 32|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

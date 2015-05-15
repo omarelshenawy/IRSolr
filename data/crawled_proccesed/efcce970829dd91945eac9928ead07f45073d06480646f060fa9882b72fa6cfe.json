@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "efcce970829dd91945eac9928ead07f45073d06480646f060fa9882b72fa6cfe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Responsive_Web_Design.png/250px-Responsive_Web_Design.png",
+			"previous": " ",
+			"after": " The mobile web refers to access to the world wide web i e the use of browser based Internet services from a handheld mobile device such as a smartphone or a feature phone connected to a mobile network or other wireless network ",
+			"after_weights": " The|1 mobile|0.97619 web|0.95238 refers|0.92857 to|0.90476 access|0.88095 to|0.85714 the|0.83333 world|0.80952 wide|0.78571 web|0.7619 i|0.7381 e|0.71429 the|0.69048 use|0.66667 of|0.64286 browser|0.61905 based|0.59524 Internet|0.57143 services|0.54762 from|0.52381 a|0.5 handheld|0.47619 mobile|0.45238 device|0.42857 such|0.40476 as|0.38095 a|0.35714 smartphone|0.33333 or|0.30952 a|0.28571 feature|0.2619 phone|0.2381 connected|0.21429 to|0.19048 a|0.16667 mobile|0.14286 network|0.11905 or|0.095238 other|0.071429 wireless|0.047619 network|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

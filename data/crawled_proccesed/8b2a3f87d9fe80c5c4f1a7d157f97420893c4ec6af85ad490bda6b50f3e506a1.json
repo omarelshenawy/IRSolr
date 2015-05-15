@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b2a3f87d9fe80c5c4f1a7d157f97420893c4ec6af85ad490bda6b50f3e506a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lspn_comet_halley.jpg/100px-Lspn_comet_halley.jpg",
+			"previous": " May 25 First Patriotic Government in Argentina 1810 Independence Day in Jordan 1946 Memorial Day in the United States 2014 Towel Day",
+			"after": " More anniversaries May 24 May 25 May 26 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 24|0.72727 May|0.63636 25|0.54545 May|0.45455 26|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 25|0.047619 First|0.095238 Patriotic|0.14286 Government|0.19048 in|0.2381 Argentina|0.28571 1810|0.33333 Independence|0.38095 Day|0.42857 in|0.47619 Jordan|0.52381 1946|0.57143 Memorial|0.61905 Day|0.66667 in|0.71429 the|0.7619 United|0.80952 States|0.85714 2014|0.90476 Towel|0.95238 Day|1"
+		}
+	}
+}

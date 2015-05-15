@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fbe0e07d2ba9b7c6c7e03e54595385be854f084cef8255889134395969503169",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Amtrak_train_in_Comstock%2C_Michigan.jpg/220px-Amtrak_train_in_Comstock%2C_Michigan.jpg",
+			"previous": " Amtrak owns the Chicago Union Station Company Chicago Union Station and New York Penn Station It has a 99 7 interest in the Washington Terminal Company 92 tracks around Washington Union Station and 99 of 30th Street Limited Philadelphia 30th Street Station Also owned by Amtrak is Passenger Railroad Insurance 93 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Amtrak|0 owns|0.019608 the|0.039216 Chicago|0.058824 Union|0.078431 Station|0.098039 Company|0.11765 Chicago|0.13725 Union|0.15686 Station|0.17647 and|0.19608 New|0.21569 York|0.23529 Penn|0.2549 Station|0.27451 It|0.29412 has|0.31373 a|0.33333 99|0.35294 7|0.37255 interest|0.39216 in|0.41176 the|0.43137 Washington|0.45098 Terminal|0.47059 Company|0.4902 92|0.5098 tracks|0.52941 around|0.54902 Washington|0.56863 Union|0.58824 Station|0.60784 and|0.62745 99|0.64706 of|0.66667 30th|0.68627 Street|0.70588 Limited|0.72549 Philadelphia|0.7451 30th|0.76471 Street|0.78431 Station|0.80392 Also|0.82353 owned|0.84314 by|0.86275 Amtrak|0.88235 is|0.90196 Passenger|0.92157 Railroad|0.94118 Insurance|0.96078 93|0.98039 |1"
+		}
+	}
+}

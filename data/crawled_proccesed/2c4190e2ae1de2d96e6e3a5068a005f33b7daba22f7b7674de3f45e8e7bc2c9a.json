@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c4190e2ae1de2d96e6e3a5068a005f33b7daba22f7b7674de3f45e8e7bc2c9a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/BR65.jpg/250px-BR65.jpg",
+			"previous": " ",
+			"after": " On 1 April the USAF set up Waterpump which was a pilot training program in Udorn Royal Thai Air Force Base to supply Lao pilots for the Royal Laotian Air Force 75 The RLAF also began augmenting its ranks with Thai volunteer pilots in 1964 76 ",
+			"after_weights": " On|1 1|0.97826 April|0.95652 the|0.93478 USAF|0.91304 set|0.8913 up|0.86957 Waterpump|0.84783 which|0.82609 was|0.80435 a|0.78261 pilot|0.76087 training|0.73913 program|0.71739 in|0.69565 Udorn|0.67391 Royal|0.65217 Thai|0.63043 Air|0.6087 Force|0.58696 Base|0.56522 to|0.54348 supply|0.52174 Lao|0.5 pilots|0.47826 for|0.45652 the|0.43478 Royal|0.41304 Laotian|0.3913 Air|0.36957 Force|0.34783 75|0.32609 The|0.30435 RLAF|0.28261 also|0.26087 began|0.23913 augmenting|0.21739 its|0.19565 ranks|0.17391 with|0.15217 Thai|0.13043 volunteer|0.1087 pilots|0.086957 in|0.065217 1964|0.043478 76|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

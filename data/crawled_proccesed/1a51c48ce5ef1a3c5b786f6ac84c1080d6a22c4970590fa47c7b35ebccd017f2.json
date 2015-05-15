@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a51c48ce5ef1a3c5b786f6ac84c1080d6a22c4970590fa47c7b35ebccd017f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DublinM50.png/220px-DublinM50.png",
+			"previous": " ",
+			"after": " The road network in Ireland is primarily focused on Dublin The M50 motorway a semi ring road which runs around the south west and north of the city connects important national primary routes to the rest of the country In 2008 the West Link toll bridge was replaced by the eFlow barrier free tolling system with a three tiered charge system based on electronic tags and car pre registration The toll is currently 2 10 for vehicles with a pre paid tag 2 60 for vehicles whose number plates have been registered with eFlow and 3 10 for unregistered vehicles 47 ",
+			"after_weights": " The|1 road|0.9901 network|0.9802 in|0.9703 Ireland|0.9604 is|0.9505 primarily|0.94059 focused|0.93069 on|0.92079 Dublin|0.91089 The|0.90099 M50|0.89109 motorway|0.88119 a|0.87129 semi|0.86139 ring|0.85149 road|0.84158 which|0.83168 runs|0.82178 around|0.81188 the|0.80198 south|0.79208 west|0.78218 and|0.77228 north|0.76238 of|0.75248 the|0.74257 city|0.73267 connects|0.72277 important|0.71287 national|0.70297 primary|0.69307 routes|0.68317 to|0.67327 the|0.66337 rest|0.65347 of|0.64356 the|0.63366 country|0.62376 In|0.61386 2008|0.60396 the|0.59406 West|0.58416 Link|0.57426 toll|0.56436 bridge|0.55446 was|0.54455 replaced|0.53465 by|0.52475 the|0.51485 eFlow|0.50495 barrier|0.49505 free|0.48515 tolling|0.47525 system|0.46535 with|0.45545 a|0.44554 three|0.43564 tiered|0.42574 charge|0.41584 system|0.40594 based|0.39604 on|0.38614 electronic|0.37624 tags|0.36634 and|0.35644 car|0.34653 pre|0.33663 registration|0.32673 The|0.31683 toll|0.30693 is|0.29703 currently|0.28713 2|0.27723 10|0.26733 for|0.25743 vehicles|0.24752 with|0.23762 a|0.22772 pre|0.21782 paid|0.20792 tag|0.19802 2|0.18812 60|0.17822 for|0.16832 vehicles|0.15842 whose|0.14851 number|0.13861 plates|0.12871 have|0.11881 been|0.10891 registered|0.09901 with|0.089109 eFlow|0.079208 and|0.069307 3|0.059406 10|0.049505 for|0.039604 unregistered|0.029703 vehicles|0.019802 47|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

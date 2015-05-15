@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2921835f0392417a6f72f3fa116a743f9da8a9241d30cb064cd105bd12789c84",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/161Theophrastus_161_frontespizio.jpg/220px-161Theophrastus_161_frontespizio.jpg",
+			"previous": " ",
+			"after": " Aristotle s successor at the Lyceum Theophrastus wrote a series of books on botany the History of Plants which survived as the most important contribution of antiquity to botany even into the Middle Ages Many of Theophrastus names survive into modern times such as carpos for fruit and pericarpion for seed vessel ",
+			"after_weights": " Aristotle|1 s|0.98077 successor|0.96154 at|0.94231 the|0.92308 Lyceum|0.90385 Theophrastus|0.88462 wrote|0.86538 a|0.84615 series|0.82692 of|0.80769 books|0.78846 on|0.76923 botany|0.75 the|0.73077 History|0.71154 of|0.69231 Plants|0.67308 which|0.65385 survived|0.63462 as|0.61538 the|0.59615 most|0.57692 important|0.55769 contribution|0.53846 of|0.51923 antiquity|0.5 to|0.48077 botany|0.46154 even|0.44231 into|0.42308 the|0.40385 Middle|0.38462 Ages|0.36538 Many|0.34615 of|0.32692 Theophrastus|0.30769 names|0.28846 survive|0.26923 into|0.25 modern|0.23077 times|0.21154 such|0.19231 as|0.17308 carpos|0.15385 for|0.13462 fruit|0.11538 and|0.096154 pericarpion|0.076923 for|0.057692 seed|0.038462 vessel|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

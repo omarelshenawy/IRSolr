@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e01e916bcbf6bdb60a5fb7f5f13cb5dab226ffa1226522e63254d48c7b2f96ea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jesuits_at_Akbar%27s_court.jpg/200px-Jesuits_at_Akbar%27s_court.jpg",
+			"previous": " ",
+			"after": " In pre modern India local gazetteers were written For example Muhnot Nainsi wrote a gazetteer for the Marwar region in the 17th century 71 B S Baliga writes that the history of the gazetteer in Tamil Nadu can be traced back to the classical corpus of Sangam literature dated 200 BC to 300 AD 72 Abu l Fazl ibn Mubarak the vizier to Akbar the Great of the Mughal Empire wrote the Ain e Akbari which included a gazetteer with valuable information on India s population in the 16th century 73 ",
+			"after_weights": " In|1 pre|0.98901 modern|0.97802 India|0.96703 local|0.95604 gazetteers|0.94505 were|0.93407 written|0.92308 For|0.91209 example|0.9011 Muhnot|0.89011 Nainsi|0.87912 wrote|0.86813 a|0.85714 gazetteer|0.84615 for|0.83516 the|0.82418 Marwar|0.81319 region|0.8022 in|0.79121 the|0.78022 17th|0.76923 century|0.75824 71|0.74725 B|0.73626 S|0.72527 Baliga|0.71429 writes|0.7033 that|0.69231 the|0.68132 history|0.67033 of|0.65934 the|0.64835 gazetteer|0.63736 in|0.62637 Tamil|0.61538 Nadu|0.6044 can|0.59341 be|0.58242 traced|0.57143 back|0.56044 to|0.54945 the|0.53846 classical|0.52747 corpus|0.51648 of|0.50549 Sangam|0.49451 literature|0.48352 dated|0.47253 200|0.46154 BC|0.45055 to|0.43956 300|0.42857 AD|0.41758 72|0.40659 Abu|0.3956 l|0.38462 Fazl|0.37363 ibn|0.36264 Mubarak|0.35165 the|0.34066 vizier|0.32967 to|0.31868 Akbar|0.30769 the|0.2967 Great|0.28571 of|0.27473 the|0.26374 Mughal|0.25275 Empire|0.24176 wrote|0.23077 the|0.21978 Ain|0.20879 e|0.1978 Akbari|0.18681 which|0.17582 included|0.16484 a|0.15385 gazetteer|0.14286 with|0.13187 valuable|0.12088 information|0.10989 on|0.098901 India|0.087912 s|0.076923 population|0.065934 in|0.054945 the|0.043956 16th|0.032967 century|0.021978 73|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

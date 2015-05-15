@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "98b7417209305ea313966e0a92b6c86cee13a9f65c2d9a2dc71ab3176da945aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Stanford_Campus_Aerial_Photo.JPG/300px-Stanford_Campus_Aerial_Photo.JPG",
+			"previous": " ",
+			"after": " Stanford University is located on an 8 180 acre 3 310 ha 26 campus on the San Francisco Peninsula in the northwest part of the Santa Clara Valley Silicon Valley approximately 37 miles 60 km southeast of San Francisco and approximately 20 miles 32 km northwest of San Jose In 2008 60 of this land remained undeveloped 91 The main campus is adjacent to Palo Alto bounded by El Camino Real Stanford Avenue Junipero Serra Boulevard and Sand Hill Road The university also operates at several more remote locations see below ",
+			"after_weights": " Stanford|1 University|0.98901 is|0.97802 located|0.96703 on|0.95604 an|0.94505 8|0.93407 180|0.92308 acre|0.91209 3|0.9011 310|0.89011 ha|0.87912 26|0.86813 campus|0.85714 on|0.84615 the|0.83516 San|0.82418 Francisco|0.81319 Peninsula|0.8022 in|0.79121 the|0.78022 northwest|0.76923 part|0.75824 of|0.74725 the|0.73626 Santa|0.72527 Clara|0.71429 Valley|0.7033 Silicon|0.69231 Valley|0.68132 approximately|0.67033 37|0.65934 miles|0.64835 60|0.63736 km|0.62637 southeast|0.61538 of|0.6044 San|0.59341 Francisco|0.58242 and|0.57143 approximately|0.56044 20|0.54945 miles|0.53846 32|0.52747 km|0.51648 northwest|0.50549 of|0.49451 San|0.48352 Jose|0.47253 In|0.46154 2008|0.45055 60|0.43956 of|0.42857 this|0.41758 land|0.40659 remained|0.3956 undeveloped|0.38462 91|0.37363 The|0.36264 main|0.35165 campus|0.34066 is|0.32967 adjacent|0.31868 to|0.30769 Palo|0.2967 Alto|0.28571 bounded|0.27473 by|0.26374 El|0.25275 Camino|0.24176 Real|0.23077 Stanford|0.21978 Avenue|0.20879 Junipero|0.1978 Serra|0.18681 Boulevard|0.17582 and|0.16484 Sand|0.15385 Hill|0.14286 Road|0.13187 The|0.12088 university|0.10989 also|0.098901 operates|0.087912 at|0.076923 several|0.065934 more|0.054945 remote|0.043956 locations|0.032967 see|0.021978 below|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "36b9d9dace9d7a07c505588000c6f81e7555996cdab0fdfa2fa952fd7b302b69",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cruikshank_Pierce%27_Egan%27s_Real_Life_-_Drury_Lane_Theatre_1821.jpg/250px-Cruikshank_Pierce%27_Egan%27s_Real_Life_-_Drury_Lane_Theatre_1821.jpg",
+			"previous": " ",
+			"after": " While most modern theatre companies rehearse one piece of theatre at a time perform that piece for a set run retire the piece and begin rehearsing a new show repertory companies rehearse multiple shows at one time These companies are able to perform these various pieces upon request and often perform works for years before retiring them Most dance companies operate on this repertory system The Royal National Theatre in London performs on a repertory system ",
+			"after_weights": " While|1 most|0.98684 modern|0.97368 theatre|0.96053 companies|0.94737 rehearse|0.93421 one|0.92105 piece|0.90789 of|0.89474 theatre|0.88158 at|0.86842 a|0.85526 time|0.84211 perform|0.82895 that|0.81579 piece|0.80263 for|0.78947 a|0.77632 set|0.76316 run|0.75 retire|0.73684 the|0.72368 piece|0.71053 and|0.69737 begin|0.68421 rehearsing|0.67105 a|0.65789 new|0.64474 show|0.63158 repertory|0.61842 companies|0.60526 rehearse|0.59211 multiple|0.57895 shows|0.56579 at|0.55263 one|0.53947 time|0.52632 These|0.51316 companies|0.5 are|0.48684 able|0.47368 to|0.46053 perform|0.44737 these|0.43421 various|0.42105 pieces|0.40789 upon|0.39474 request|0.38158 and|0.36842 often|0.35526 perform|0.34211 works|0.32895 for|0.31579 years|0.30263 before|0.28947 retiring|0.27632 them|0.26316 Most|0.25 dance|0.23684 companies|0.22368 operate|0.21053 on|0.19737 this|0.18421 repertory|0.17105 system|0.15789 The|0.14474 Royal|0.13158 National|0.11842 Theatre|0.10526 in|0.092105 London|0.078947 performs|0.065789 on|0.052632 a|0.039474 repertory|0.026316 system|0.013158 |0",
+			"previous_weights": " "
+		}
+	}
+}

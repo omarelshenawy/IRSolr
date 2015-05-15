@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e0e08f9386a136b72d4f5778cdaa67fc5ec86c4c452277026f80092f970d1c1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Uhuru_Monument_Aug_2011.jpg/170px-Uhuru_Monument_Aug_2011.jpg",
+			"previous": " ",
+			"after": " British rule came to an end on 9 December 1961 but for the first year of independence Tanganyika had a governor general who represented the British monarch 31 page 6 On 9 December 1962 Tanganyika became a democratic republic under an executive president 31 page 6",
+			"after_weights": " British|1 rule|0.97778 came|0.95556 to|0.93333 an|0.91111 end|0.88889 on|0.86667 9|0.84444 December|0.82222 1961|0.8 but|0.77778 for|0.75556 the|0.73333 first|0.71111 year|0.68889 of|0.66667 independence|0.64444 Tanganyika|0.62222 had|0.6 a|0.57778 governor|0.55556 general|0.53333 who|0.51111 represented|0.48889 the|0.46667 British|0.44444 monarch|0.42222 31|0.4 page|0.37778 6|0.35556 On|0.33333 9|0.31111 December|0.28889 1962|0.26667 Tanganyika|0.24444 became|0.22222 a|0.2 democratic|0.17778 republic|0.15556 under|0.13333 an|0.11111 executive|0.088889 president|0.066667 31|0.044444 page|0.022222 6|0",
+			"previous_weights": " "
+		}
+	}
+}

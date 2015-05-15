@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fceba3f43f89047df5e79555184ec85aa2c6a83d6e83357af9978754d29f4f38",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Egyptian_presidential_referendum_1981_Akhbar_newspaper.jpeg/220px-Egyptian_presidential_referendum_1981_Akhbar_newspaper.jpeg",
+			"previous": " ",
+			"after": " Mubarak was injured during the assassination of President Sadat in October 1981 by soldiers led by Lieutenant Khalid Islambouli Following Sadat s death Mubarak became the fourth president of Egypt and the chairman of the National Democratic Party NDP citation needed ",
+			"after_weights": " Mubarak|1 was|0.97561 injured|0.95122 during|0.92683 the|0.90244 assassination|0.87805 of|0.85366 President|0.82927 Sadat|0.80488 in|0.78049 October|0.7561 1981|0.73171 by|0.70732 soldiers|0.68293 led|0.65854 by|0.63415 Lieutenant|0.60976 Khalid|0.58537 Islambouli|0.56098 Following|0.53659 Sadat|0.5122 s|0.4878 death|0.46341 Mubarak|0.43902 became|0.41463 the|0.39024 fourth|0.36585 president|0.34146 of|0.31707 Egypt|0.29268 and|0.26829 the|0.2439 chairman|0.21951 of|0.19512 the|0.17073 National|0.14634 Democratic|0.12195 Party|0.097561 NDP|0.073171 citation|0.04878 needed|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

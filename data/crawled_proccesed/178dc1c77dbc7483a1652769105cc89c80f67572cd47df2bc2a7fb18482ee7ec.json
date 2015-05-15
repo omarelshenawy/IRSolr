@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "178dc1c77dbc7483a1652769105cc89c80f67572cd47df2bc2a7fb18482ee7ec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Life_expectancy_in_select_Southern_African_countries_1960-2012.svg/280px-Life_expectancy_in_select_Southern_African_countries_1960-2012.svg.png",
+			"previous": " ",
+			"after": " According to the South African Institute of Race Relations the life expectancy in 2009 was 71 years for a white South African and 48 years for a black South African 167 The healthcare spending in the country is about 9 of GDP 168 ",
+			"after_weights": " According|1 to|0.97674 the|0.95349 South|0.93023 African|0.90698 Institute|0.88372 of|0.86047 Race|0.83721 Relations|0.81395 the|0.7907 life|0.76744 expectancy|0.74419 in|0.72093 2009|0.69767 was|0.67442 71|0.65116 years|0.62791 for|0.60465 a|0.5814 white|0.55814 South|0.53488 African|0.51163 and|0.48837 48|0.46512 years|0.44186 for|0.4186 a|0.39535 black|0.37209 South|0.34884 African|0.32558 167|0.30233 The|0.27907 healthcare|0.25581 spending|0.23256 in|0.2093 the|0.18605 country|0.16279 is|0.13953 about|0.11628 9|0.093023 of|0.069767 GDP|0.046512 168|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

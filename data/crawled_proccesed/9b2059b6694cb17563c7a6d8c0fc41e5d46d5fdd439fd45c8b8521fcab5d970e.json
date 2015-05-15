@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b2059b6694cb17563c7a6d8c0fc41e5d46d5fdd439fd45c8b8521fcab5d970e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wikipedia-logo-v2-hu-200k-500px.png/150px-Wikipedia-logo-v2-hu-200k-500px.png",
+			"previous": " ",
+			"after": " The Hungarian Wikipedia reached the 50 000 article milestone on February 7 2007 the 100 000th on July 17 2 2008 and the 150 000th article on December 25 2009 by which it matched the size of the first complete Hungarian encyclopedia the Pallas s Great Lexicon 6 The 200 000 article milestone was reached in September 2011 1 and it was marked by a new version of the Wikipedia globe showing 200000 moving onward ",
+			"after_weights": " The|1 Hungarian|0.98667 Wikipedia|0.97333 reached|0.96 the|0.94667 50|0.93333 000|0.92 article|0.90667 milestone|0.89333 on|0.88 February|0.86667 7|0.85333 2007|0.84 the|0.82667 100|0.81333 000th|0.8 on|0.78667 July|0.77333 17|0.76 2|0.74667 2008|0.73333 and|0.72 the|0.70667 150|0.69333 000th|0.68 article|0.66667 on|0.65333 December|0.64 25|0.62667 2009|0.61333 by|0.6 which|0.58667 it|0.57333 matched|0.56 the|0.54667 size|0.53333 of|0.52 the|0.50667 first|0.49333 complete|0.48 Hungarian|0.46667 encyclopedia|0.45333 the|0.44 Pallas|0.42667 s|0.41333 Great|0.4 Lexicon|0.38667 6|0.37333 The|0.36 200|0.34667 000|0.33333 article|0.32 milestone|0.30667 was|0.29333 reached|0.28 in|0.26667 September|0.25333 2011|0.24 1|0.22667 and|0.21333 it|0.2 was|0.18667 marked|0.17333 by|0.16 a|0.14667 new|0.13333 version|0.12 of|0.10667 the|0.093333 Wikipedia|0.08 globe|0.066667 showing|0.053333 200000|0.04 moving|0.026667 onward|0.013333 |0",
+			"previous_weights": " "
+		}
+	}
+}

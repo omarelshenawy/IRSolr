@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a6a2a7a554ade720e3f523c77910814e79372066385cfc8c87d2c04df17c39f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The-Last-Supper-large.jpg/250px-The-Last-Supper-large.jpg",
+			"previous": " ",
+			"after": " Judas Iscariot was one of the twelve original disciples of Jesus Christ and son of Simon Iscariot He is known for the kiss and betrayal of Jesus to the Sanhedrin for thirty silver coins 1 His name is often invoked to accuse someone of betrayal He is sometimes confused with Jude Thaddeus ",
+			"after_weights": " Judas|1 Iscariot|0.98077 was|0.96154 one|0.94231 of|0.92308 the|0.90385 twelve|0.88462 original|0.86538 disciples|0.84615 of|0.82692 Jesus|0.80769 Christ|0.78846 and|0.76923 son|0.75 of|0.73077 Simon|0.71154 Iscariot|0.69231 He|0.67308 is|0.65385 known|0.63462 for|0.61538 the|0.59615 kiss|0.57692 and|0.55769 betrayal|0.53846 of|0.51923 Jesus|0.5 to|0.48077 the|0.46154 Sanhedrin|0.44231 for|0.42308 thirty|0.40385 silver|0.38462 coins|0.36538 1|0.34615 His|0.32692 name|0.30769 is|0.28846 often|0.26923 invoked|0.25 to|0.23077 accuse|0.21154 someone|0.19231 of|0.17308 betrayal|0.15385 He|0.13462 is|0.11538 sometimes|0.096154 confused|0.076923 with|0.057692 Jude|0.038462 Thaddeus|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

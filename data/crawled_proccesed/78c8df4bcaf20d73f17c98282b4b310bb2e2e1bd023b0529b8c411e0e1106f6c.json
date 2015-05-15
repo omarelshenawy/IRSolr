@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "78c8df4bcaf20d73f17c98282b4b310bb2e2e1bd023b0529b8c411e0e1106f6c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NoPoopHoustonTX.jpg/170px-NoPoopHoustonTX.jpg",
+			"previous": " ",
+			"after": " Pets can be trained to use litter boxes or wait to be allowed outside to defecate Training can be done in several ways especially dependent on species An example is crate training for dogs Several companies market cleaning products for pet owners whose pets have soiled carpets in the home ",
+			"after_weights": " Pets|1 can|0.98 be|0.96 trained|0.94 to|0.92 use|0.9 litter|0.88 boxes|0.86 or|0.84 wait|0.82 to|0.8 be|0.78 allowed|0.76 outside|0.74 to|0.72 defecate|0.7 Training|0.68 can|0.66 be|0.64 done|0.62 in|0.6 several|0.58 ways|0.56 especially|0.54 dependent|0.52 on|0.5 species|0.48 An|0.46 example|0.44 is|0.42 crate|0.4 training|0.38 for|0.36 dogs|0.34 Several|0.32 companies|0.3 market|0.28 cleaning|0.26 products|0.24 for|0.22 pet|0.2 owners|0.18 whose|0.16 pets|0.14 have|0.12 soiled|0.1 carpets|0.08 in|0.06 the|0.04 home|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

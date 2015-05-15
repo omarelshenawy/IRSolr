@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "42b3235ec4b62d8e1d899ebd18ea7e7a7cfa80379f605f24a2bc8bd94b505cf7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/11px-Cscr-featured.svg.png",
+			"previous": " Earth sciences Atmospheric sciences Earthquakes Environment Fire Global warming Tropical cyclones Volcanoes and Volcanology Weather Water  Chemistry Analytical chemistry Organic chemistry Physical chemistry Crystallography ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Earth|0 sciences|0.04 Atmospheric|0.08 sciences|0.12 Earthquakes|0.16 Environment|0.2 Fire|0.24 Global|0.28 warming|0.32 Tropical|0.36 cyclones|0.4 Volcanoes|0.44 and|0.48 Volcanology|0.52 Weather|0.56 Water|0.6 |0.64 Chemistry|0.68 Analytical|0.72 chemistry|0.76 Organic|0.8 chemistry|0.84 Physical|0.88 chemistry|0.92 Crystallography|0.96 |1"
+		}
+	}
+}

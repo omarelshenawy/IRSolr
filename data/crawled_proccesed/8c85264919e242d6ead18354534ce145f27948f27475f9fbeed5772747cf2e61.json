@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c85264919e242d6ead18354534ce145f27948f27475f9fbeed5772747cf2e61",
+			"url": "https://upload.wikimedia.org/math/f/2/4/f24515e961039ffaa249c5f5588c0e5a.png",
+			"previous": " After observing the sample we find values x for X and s for S from which we compute the confidence interval",
+			"after": " an interval with fixed numbers as endpoints of which we can no longer say there is a certain probability it contains the parameter either is in this interval or isn t ",
+			"after_weights": " an|1 interval|0.96774 with|0.93548 fixed|0.90323 numbers|0.87097 as|0.83871 endpoints|0.80645 of|0.77419 which|0.74194 we|0.70968 can|0.67742 no|0.64516 longer|0.6129 say|0.58065 there|0.54839 is|0.51613 a|0.48387 certain|0.45161 probability|0.41935 it|0.3871 contains|0.35484 the|0.32258 parameter|0.29032 either|0.25806 is|0.22581 in|0.19355 this|0.16129 interval|0.12903 or|0.096774 isn|0.064516 t|0.032258 |0",
+			"previous_weights": " After|0 observing|0.05 the|0.1 sample|0.15 we|0.2 find|0.25 values|0.3 x|0.35 for|0.4 X|0.45 and|0.5 s|0.55 for|0.6 S|0.65 from|0.7 which|0.75 we|0.8 compute|0.85 the|0.9 confidence|0.95 interval|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b24008490296883681d9f863777c99ce965559ad0ca1cb2253409c36815c663",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/300px-Muammar_al-Gaddafi_at_the_AU_summit.jpg",
+			"previous": " Portal Biography Selected picture 21",
+			"after": " Muammar Muhammad Abu Minyar al Gaddafi Arabic c 1942 20 October 2011 commonly known as Colonel Gaddafi was a Libyan revolutionary and politician and the de facto ruler of Libya for 42 years Taking power in a 1969 coup d etat he ruled from 1977 to 2011 when he was ousted and killed in the Libyan Civil War ",
+			"after_weights": " Muammar|1 Muhammad|0.98276 Abu|0.96552 Minyar|0.94828 al|0.93103 Gaddafi|0.91379 Arabic|0.89655 c|0.87931 1942|0.86207 20|0.84483 October|0.82759 2011|0.81034 commonly|0.7931 known|0.77586 as|0.75862 Colonel|0.74138 Gaddafi|0.72414 was|0.7069 a|0.68966 Libyan|0.67241 revolutionary|0.65517 and|0.63793 politician|0.62069 and|0.60345 the|0.58621 de|0.56897 facto|0.55172 ruler|0.53448 of|0.51724 Libya|0.5 for|0.48276 42|0.46552 years|0.44828 Taking|0.43103 power|0.41379 in|0.39655 a|0.37931 1969|0.36207 coup|0.34483 d|0.32759 etat|0.31034 he|0.2931 ruled|0.27586 from|0.25862 1977|0.24138 to|0.22414 2011|0.2069 when|0.18966 he|0.17241 was|0.15517 ousted|0.13793 and|0.12069 killed|0.10345 in|0.086207 the|0.068966 Libyan|0.051724 Civil|0.034483 War|0.017241 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 21|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "44c7581959676971cc4c12305b39c6340a0ff3286895e6c4f013c898fca9a943",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/300px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
+			"previous": " Portal Biography Selected picture 19",
+			"after": " Fyodor Mikhailovich Dostoyevsky Russian 11 November 1821 9 February 1881 was a Russian novelist short story writer essayist and philosopher Dostoyevsky s literary works explore human psychology in the context of the troubled political social and spiritual atmosphere of 19th century Russia and include Crime and Punishment The Idiot and The Brothers Karamazov ",
+			"after_weights": " Fyodor|1 Mikhailovich|0.98113 Dostoyevsky|0.96226 Russian|0.9434 11|0.92453 November|0.90566 1821|0.88679 9|0.86792 February|0.84906 1881|0.83019 was|0.81132 a|0.79245 Russian|0.77358 novelist|0.75472 short|0.73585 story|0.71698 writer|0.69811 essayist|0.67925 and|0.66038 philosopher|0.64151 Dostoyevsky|0.62264 s|0.60377 literary|0.58491 works|0.56604 explore|0.54717 human|0.5283 psychology|0.50943 in|0.49057 the|0.4717 context|0.45283 of|0.43396 the|0.41509 troubled|0.39623 political|0.37736 social|0.35849 and|0.33962 spiritual|0.32075 atmosphere|0.30189 of|0.28302 19th|0.26415 century|0.24528 Russia|0.22642 and|0.20755 include|0.18868 Crime|0.16981 and|0.15094 Punishment|0.13208 The|0.11321 Idiot|0.09434 and|0.075472 The|0.056604 Brothers|0.037736 Karamazov|0.018868 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 19|1"
+		}
+	}
+}

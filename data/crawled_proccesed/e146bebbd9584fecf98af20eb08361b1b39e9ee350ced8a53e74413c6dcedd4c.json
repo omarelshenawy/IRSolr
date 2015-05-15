@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e146bebbd9584fecf98af20eb08361b1b39e9ee350ced8a53e74413c6dcedd4c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pitcairn_Islanders%2C_1916.jpg/225px-Pitcairn_Islanders%2C_1916.jpg",
+			"previous": " Pitcairn s population has drastically decreased since its peak of over 250 in 1936 to 56 in 2013 59 ",
+			"after": "  1856 Immigration to Norfolk Island left Pitcairn uninhabited 1859 First group returns from Norfolk Island As of July 2014",
+			"after_weights": " |1 1856|0.94737 Immigration|0.89474 to|0.84211 Norfolk|0.78947 Island|0.73684 left|0.68421 Pitcairn|0.63158 uninhabited|0.57895 1859|0.52632 First|0.47368 group|0.42105 returns|0.36842 from|0.31579 Norfolk|0.26316 Island|0.21053 As|0.15789 of|0.10526 July|0.052632 2014|0",
+			"previous_weights": " Pitcairn|0 s|0.052632 population|0.10526 has|0.15789 drastically|0.21053 decreased|0.26316 since|0.31579 its|0.36842 peak|0.42105 of|0.47368 over|0.52632 250|0.57895 in|0.63158 1936|0.68421 to|0.73684 56|0.78947 in|0.84211 2013|0.89474 59|0.94737 |1"
+		}
+	}
+}

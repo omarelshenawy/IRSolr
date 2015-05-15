@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b71c1a0b497970bcd3516183b9955974cbc41dd1fe171873bf601d522ab2112",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IbnSaud.jpg/52px-IbnSaud.jpg",
+			"previous": " May 20 Day of Remembrance in Cambodia National Day in Cameroon 1972 Independence Day in East Timor 2002 National Awakening Day in Indonesia 1908 ",
+			"after": " More anniversaries May 19 May 20 May 21 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 19|0.72727 May|0.63636 20|0.54545 May|0.45455 21|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 20|0.041667 Day|0.083333 of|0.125 Remembrance|0.16667 in|0.20833 Cambodia|0.25 National|0.29167 Day|0.33333 in|0.375 Cameroon|0.41667 1972|0.45833 Independence|0.5 Day|0.54167 in|0.58333 East|0.625 Timor|0.66667 2002|0.70833 National|0.75 Awakening|0.79167 Day|0.83333 in|0.875 Indonesia|0.91667 1908|0.95833 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5115fd4b9f6e0febc886b9f09af31ec94accce3c032586f0fb5cefc7656177f3",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Crystal_personal.svg/50px-Crystal_personal.svg.png",
+			"previous": " See WikiProject Musicians Article alerts",
+			"after": " Rate the articles according to the 1 0 Assessment guidelines See Category Unassessed biography musicians articles for articles that need a rating You can also request an assessment  The purpose of this sub project is to find articles related to this subject and edit them so as to comply with the guidelines set forth by this project ",
+			"after_weights": " Rate|1 the|0.98276 articles|0.96552 according|0.94828 to|0.93103 the|0.91379 1|0.89655 0|0.87931 Assessment|0.86207 guidelines|0.84483 See|0.82759 Category|0.81034 Unassessed|0.7931 biography|0.77586 musicians|0.75862 articles|0.74138 for|0.72414 articles|0.7069 that|0.68966 need|0.67241 a|0.65517 rating|0.63793 You|0.62069 can|0.60345 also|0.58621 request|0.56897 an|0.55172 assessment|0.53448 |0.51724 The|0.5 purpose|0.48276 of|0.46552 this|0.44828 sub|0.43103 project|0.41379 is|0.39655 to|0.37931 find|0.36207 articles|0.34483 related|0.32759 to|0.31034 this|0.2931 subject|0.27586 and|0.25862 edit|0.24138 them|0.22414 so|0.2069 as|0.18966 to|0.17241 comply|0.15517 with|0.13793 the|0.12069 guidelines|0.10345 set|0.086207 forth|0.068966 by|0.051724 this|0.034483 project|0.017241 |0",
+			"previous_weights": " See|0 WikiProject|0.25 Musicians|0.5 Article|0.75 alerts|1"
+		}
+	}
+}

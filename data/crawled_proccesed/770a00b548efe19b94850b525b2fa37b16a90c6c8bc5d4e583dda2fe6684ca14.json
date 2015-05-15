@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "770a00b548efe19b94850b525b2fa37b16a90c6c8bc5d4e583dda2fe6684ca14",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Europe_topography_map.png/155px-Europe_topography_map.png",
+			"previous": " ",
+			"after": " In its contemporary definition topographic mapping shows relief In the United States USGS topographic maps show relief using contour lines The USGS calls maps based on topographic surveys but without contours planimetric maps ",
+			"after_weights": " In|1 its|0.9697 contemporary|0.93939 definition|0.90909 topographic|0.87879 mapping|0.84848 shows|0.81818 relief|0.78788 In|0.75758 the|0.72727 United|0.69697 States|0.66667 USGS|0.63636 topographic|0.60606 maps|0.57576 show|0.54545 relief|0.51515 using|0.48485 contour|0.45455 lines|0.42424 The|0.39394 USGS|0.36364 calls|0.33333 maps|0.30303 based|0.27273 on|0.24242 topographic|0.21212 surveys|0.18182 but|0.15152 without|0.12121 contours|0.090909 planimetric|0.060606 maps|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

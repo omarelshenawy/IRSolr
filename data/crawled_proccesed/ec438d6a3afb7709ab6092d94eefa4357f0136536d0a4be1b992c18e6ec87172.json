@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ec438d6a3afb7709ab6092d94eefa4357f0136536d0a4be1b992c18e6ec87172",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Richard_Matthew_Stallman_working_on_his_Lemote_Machine.JPG/220px-Richard_Matthew_Stallman_working_on_his_Lemote_Machine.JPG",
+			"previous": " He recognized the Sony BMG copy protection rootkit scandal to be a criminal act by Sony Stallman supports a general boycott of Sony for its legal actions against George Hotz 77 ",
+			"after": " Stallman has suggested that the United States government may encourage the use of software as a service because this would allow them to access users data without needing a search warrant 78 79 80 81 ",
+			"after_weights": " Stallman|1 has|0.97143 suggested|0.94286 that|0.91429 the|0.88571 United|0.85714 States|0.82857 government|0.8 may|0.77143 encourage|0.74286 the|0.71429 use|0.68571 of|0.65714 software|0.62857 as|0.6 a|0.57143 service|0.54286 because|0.51429 this|0.48571 would|0.45714 allow|0.42857 them|0.4 to|0.37143 access|0.34286 users|0.31429 data|0.28571 without|0.25714 needing|0.22857 a|0.2 search|0.17143 warrant|0.14286 78|0.11429 79|0.085714 80|0.057143 81|0.028571 |0",
+			"previous_weights": " He|0 recognized|0.032258 the|0.064516 Sony|0.096774 BMG|0.12903 copy|0.16129 protection|0.19355 rootkit|0.22581 scandal|0.25806 to|0.29032 be|0.32258 a|0.35484 criminal|0.3871 act|0.41935 by|0.45161 Sony|0.48387 Stallman|0.51613 supports|0.54839 a|0.58065 general|0.6129 boycott|0.64516 of|0.67742 Sony|0.70968 for|0.74194 its|0.77419 legal|0.80645 actions|0.83871 against|0.87097 George|0.90323 Hotz|0.93548 77|0.96774 |1"
+		}
+	}
+}

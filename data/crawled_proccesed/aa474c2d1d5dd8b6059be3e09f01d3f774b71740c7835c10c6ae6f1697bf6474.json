@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "aa474c2d1d5dd8b6059be3e09f01d3f774b71740c7835c10c6ae6f1697bf6474",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cornish_Language_Shift.svg/250px-Cornish_Language_Shift.svg.png",
+			"previous": " ",
+			"after": " Although the English language gradually spread into Cornwall after approximately the 13th century a complete language shift to English took centuries more The linguistic boundary between English in the east and Cornish in the west shifted markedly in the county between 1300 and 1750 see figure This is not to be thought of as a sharp boundary and it should not be inferred that there were no Cornish speakers to the east of a line and no English speakers to the west Nor should it be inferred that the boundary suddenly moved a great distance every 50 years ",
+			"after_weights": " Although|1 the|0.9898 English|0.97959 language|0.96939 gradually|0.95918 spread|0.94898 into|0.93878 Cornwall|0.92857 after|0.91837 approximately|0.90816 the|0.89796 13th|0.88776 century|0.87755 a|0.86735 complete|0.85714 language|0.84694 shift|0.83673 to|0.82653 English|0.81633 took|0.80612 centuries|0.79592 more|0.78571 The|0.77551 linguistic|0.76531 boundary|0.7551 between|0.7449 English|0.73469 in|0.72449 the|0.71429 east|0.70408 and|0.69388 Cornish|0.68367 in|0.67347 the|0.66327 west|0.65306 shifted|0.64286 markedly|0.63265 in|0.62245 the|0.61224 county|0.60204 between|0.59184 1300|0.58163 and|0.57143 1750|0.56122 see|0.55102 figure|0.54082 This|0.53061 is|0.52041 not|0.5102 to|0.5 be|0.4898 thought|0.47959 of|0.46939 as|0.45918 a|0.44898 sharp|0.43878 boundary|0.42857 and|0.41837 it|0.40816 should|0.39796 not|0.38776 be|0.37755 inferred|0.36735 that|0.35714 there|0.34694 were|0.33673 no|0.32653 Cornish|0.31633 speakers|0.30612 to|0.29592 the|0.28571 east|0.27551 of|0.26531 a|0.2551 line|0.2449 and|0.23469 no|0.22449 English|0.21429 speakers|0.20408 to|0.19388 the|0.18367 west|0.17347 Nor|0.16327 should|0.15306 it|0.14286 be|0.13265 inferred|0.12245 that|0.11224 the|0.10204 boundary|0.091837 suddenly|0.081633 moved|0.071429 a|0.061224 great|0.05102 distance|0.040816 every|0.030612 50|0.020408 years|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

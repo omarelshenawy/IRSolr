@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2e8563c5ed20d5906016df038f59f236c45acb6ee412d5127bcbe8550eaff41c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%9Altima_Cena_-_Juan_de_Juanes.jpg/220px-%C3%9Altima_Cena_-_Juan_de_Juanes.jpg",
+			"previous": " ",
+			"after": " The Last Supper is the final meal that Jesus shares with his 12 apostles in Jerusalem before his crucifixion The Last Supper is mentioned in all four canonical gospels Paul s First Epistle to the Corinthians 11 23 26 also refers to it 56 57 176 During the meal Jesus predicts that one of his apostles will betray him 177 Despite each Apostle s assertion that he would not betray him Jesus reiterates that the betrayer would be one of those present Matthew 26 23 25 and John 13 26 27 specifically identify Judas as the traitor 56 57 177 ",
+			"after_weights": " The|1 Last|0.99 Supper|0.98 is|0.97 the|0.96 final|0.95 meal|0.94 that|0.93 Jesus|0.92 shares|0.91 with|0.9 his|0.89 12|0.88 apostles|0.87 in|0.86 Jerusalem|0.85 before|0.84 his|0.83 crucifixion|0.82 The|0.81 Last|0.8 Supper|0.79 is|0.78 mentioned|0.77 in|0.76 all|0.75 four|0.74 canonical|0.73 gospels|0.72 Paul|0.71 s|0.7 First|0.69 Epistle|0.68 to|0.67 the|0.66 Corinthians|0.65 11|0.64 23|0.63 26|0.62 also|0.61 refers|0.6 to|0.59 it|0.58 56|0.57 57|0.56 176|0.55 During|0.54 the|0.53 meal|0.52 Jesus|0.51 predicts|0.5 that|0.49 one|0.48 of|0.47 his|0.46 apostles|0.45 will|0.44 betray|0.43 him|0.42 177|0.41 Despite|0.4 each|0.39 Apostle|0.38 s|0.37 assertion|0.36 that|0.35 he|0.34 would|0.33 not|0.32 betray|0.31 him|0.3 Jesus|0.29 reiterates|0.28 that|0.27 the|0.26 betrayer|0.25 would|0.24 be|0.23 one|0.22 of|0.21 those|0.2 present|0.19 Matthew|0.18 26|0.17 23|0.16 25|0.15 and|0.14 John|0.13 13|0.12 26|0.11 27|0.1 specifically|0.09 identify|0.08 Judas|0.07 as|0.06 the|0.05 traitor|0.04 56|0.03 57|0.02 177|0.01 |0",
+			"previous_weights": " "
+		}
+	}
+}

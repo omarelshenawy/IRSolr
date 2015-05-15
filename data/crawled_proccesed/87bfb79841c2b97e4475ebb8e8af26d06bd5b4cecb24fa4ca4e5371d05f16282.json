@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "87bfb79841c2b97e4475ebb8e8af26d06bd5b4cecb24fa4ca4e5371d05f16282",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/GLAM_Wiki_Boot_Camp_DC_2013_-_The_ed17_and_Ocaasi.JPG/200px-GLAM_Wiki_Boot_Camp_DC_2013_-_The_ed17_and_Ocaasi.JPG",
+			"previous": "  User wikipedia weekly is our hosts userbox",
+			"after": " People who are regular contributors or who have contributed regularly in the past  Add your name here if you want to be on a podcast or two Then please join the Skype chat group so we can see who is available when we are able to record ",
+			"after_weights": " People|1 who|0.97917 are|0.95833 regular|0.9375 contributors|0.91667 or|0.89583 who|0.875 have|0.85417 contributed|0.83333 regularly|0.8125 in|0.79167 the|0.77083 past|0.75 |0.72917 Add|0.70833 your|0.6875 name|0.66667 here|0.64583 if|0.625 you|0.60417 want|0.58333 to|0.5625 be|0.54167 on|0.52083 a|0.5 podcast|0.47917 or|0.45833 two|0.4375 Then|0.41667 please|0.39583 join|0.375 the|0.35417 Skype|0.33333 chat|0.3125 group|0.29167 so|0.27083 we|0.25 can|0.22917 see|0.20833 who|0.1875 is|0.16667 available|0.14583 when|0.125 we|0.10417 are|0.083333 able|0.0625 to|0.041667 record|0.020833 |0",
+			"previous_weights": " |0 User|0.14286 wikipedia|0.28571 weekly|0.42857 is|0.57143 our|0.71429 hosts|0.85714 userbox|1"
+		}
+	}
+}

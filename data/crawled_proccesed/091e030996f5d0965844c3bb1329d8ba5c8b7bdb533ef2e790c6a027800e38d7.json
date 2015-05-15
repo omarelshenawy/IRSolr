@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "091e030996f5d0965844c3bb1329d8ba5c8b7bdb533ef2e790c6a027800e38d7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/SexEquality.png/220px-SexEquality.png",
+			"previous": " ",
+			"after": " Gender studies is a field of interdisciplinary study which analyzes the phenomenon of gender It examines both cultural representations of gender and people s lived experience Gender Studies is sometimes related to studies of class race ethnicity and location ",
+			"after_weights": " Gender|1 studies|0.97436 is|0.94872 a|0.92308 field|0.89744 of|0.87179 interdisciplinary|0.84615 study|0.82051 which|0.79487 analyzes|0.76923 the|0.74359 phenomenon|0.71795 of|0.69231 gender|0.66667 It|0.64103 examines|0.61538 both|0.58974 cultural|0.5641 representations|0.53846 of|0.51282 gender|0.48718 and|0.46154 people|0.4359 s|0.41026 lived|0.38462 experience|0.35897 Gender|0.33333 Studies|0.30769 is|0.28205 sometimes|0.25641 related|0.23077 to|0.20513 studies|0.17949 of|0.15385 class|0.12821 race|0.10256 ethnicity|0.076923 and|0.051282 location|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

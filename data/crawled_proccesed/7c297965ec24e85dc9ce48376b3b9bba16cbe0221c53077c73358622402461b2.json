@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c297965ec24e85dc9ce48376b3b9bba16cbe0221c53077c73358622402461b2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cbs-building.jpg/220px-Cbs-building.jpg",
+			"previous": " ",
+			"after": " CBS s involvement in television dates back to the opening of experimental station W2XAB in New York City on July 21 1931 using the mechanical television system that had been more or less perfected in the late 1920s Its initial broadcast featured New York Mayor Jimmy Walker Kate Smith and George Gershwin The station boasted the first regular seven day broadcasting schedule in American television broadcasting 28 hours a week ",
+			"after_weights": " CBS|1 s|0.98571 involvement|0.97143 in|0.95714 television|0.94286 dates|0.92857 back|0.91429 to|0.9 the|0.88571 opening|0.87143 of|0.85714 experimental|0.84286 station|0.82857 W2XAB|0.81429 in|0.8 New|0.78571 York|0.77143 City|0.75714 on|0.74286 July|0.72857 21|0.71429 1931|0.7 using|0.68571 the|0.67143 mechanical|0.65714 television|0.64286 system|0.62857 that|0.61429 had|0.6 been|0.58571 more|0.57143 or|0.55714 less|0.54286 perfected|0.52857 in|0.51429 the|0.5 late|0.48571 1920s|0.47143 Its|0.45714 initial|0.44286 broadcast|0.42857 featured|0.41429 New|0.4 York|0.38571 Mayor|0.37143 Jimmy|0.35714 Walker|0.34286 Kate|0.32857 Smith|0.31429 and|0.3 George|0.28571 Gershwin|0.27143 The|0.25714 station|0.24286 boasted|0.22857 the|0.21429 first|0.2 regular|0.18571 seven|0.17143 day|0.15714 broadcasting|0.14286 schedule|0.12857 in|0.11429 American|0.1 television|0.085714 broadcasting|0.071429 28|0.057143 hours|0.042857 a|0.028571 week|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

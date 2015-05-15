@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f33055fe10308e210717a7e2e354dbad0d4e969595e0f30fb1941023093a74a5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Guinea_Liberia_Sierra_Leone_Ebola_Map_August_8_2014.jpg/350px-Guinea_Liberia_Sierra_Leone_Ebola_Map_August_8_2014.jpg",
+			"previous": " ",
+			"after": " The CIA estimated average life expectancy in Sierra Leone was 57 39 years 146  The prevalence of HIV AIDS in the population is 1 6 higher than the world average of 1 but lower than the average of 6 1 across Sub Saharan Africa 147 ",
+			"after_weights": " The|1 CIA|0.97826 estimated|0.95652 average|0.93478 life|0.91304 expectancy|0.8913 in|0.86957 Sierra|0.84783 Leone|0.82609 was|0.80435 57|0.78261 39|0.76087 years|0.73913 146|0.71739 |0.69565 The|0.67391 prevalence|0.65217 of|0.63043 HIV|0.6087 AIDS|0.58696 in|0.56522 the|0.54348 population|0.52174 is|0.5 1|0.47826 6|0.45652 higher|0.43478 than|0.41304 the|0.3913 world|0.36957 average|0.34783 of|0.32609 1|0.30435 but|0.28261 lower|0.26087 than|0.23913 the|0.21739 average|0.19565 of|0.17391 6|0.15217 1|0.13043 across|0.1087 Sub|0.086957 Saharan|0.065217 Africa|0.043478 147|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9bbe825fe2a25a8a66c7aa33ae50641cc462af2e9b84503324de9a67fef883e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Ancient_Rome_271_AD.svg/350px-Map_of_Ancient_Rome_271_AD.svg.png",
+			"previous": " ",
+			"after": " A disastrous scenario emerged after the death of Alexander Severus the Roman state was plagued by civil wars external invasions political chaos pandemics and economic depression 121 122 The old Roman values had fallen and Mithraism and Christianity had begun to spread through the populace Emperors were no longer men linked with nobility they usually were born in lower classes of distant parts of the Empire These men rose to prominence through military ranks and became emperors through civil wars ",
+			"after_weights": " A|1 disastrous|0.9875 scenario|0.975 emerged|0.9625 after|0.95 the|0.9375 death|0.925 of|0.9125 Alexander|0.9 Severus|0.8875 the|0.875 Roman|0.8625 state|0.85 was|0.8375 plagued|0.825 by|0.8125 civil|0.8 wars|0.7875 external|0.775 invasions|0.7625 political|0.75 chaos|0.7375 pandemics|0.725 and|0.7125 economic|0.7 depression|0.6875 121|0.675 122|0.6625 The|0.65 old|0.6375 Roman|0.625 values|0.6125 had|0.6 fallen|0.5875 and|0.575 Mithraism|0.5625 and|0.55 Christianity|0.5375 had|0.525 begun|0.5125 to|0.5 spread|0.4875 through|0.475 the|0.4625 populace|0.45 Emperors|0.4375 were|0.425 no|0.4125 longer|0.4 men|0.3875 linked|0.375 with|0.3625 nobility|0.35 they|0.3375 usually|0.325 were|0.3125 born|0.3 in|0.2875 lower|0.275 classes|0.2625 of|0.25 distant|0.2375 parts|0.225 of|0.2125 the|0.2 Empire|0.1875 These|0.175 men|0.1625 rose|0.15 to|0.1375 prominence|0.125 through|0.1125 military|0.1 ranks|0.0875 and|0.075 became|0.0625 emperors|0.05 through|0.0375 civil|0.025 wars|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

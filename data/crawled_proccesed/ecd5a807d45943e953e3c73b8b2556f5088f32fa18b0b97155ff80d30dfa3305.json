@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ecd5a807d45943e953e3c73b8b2556f5088f32fa18b0b97155ff80d30dfa3305",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/CIA_map_of_the_Caribbean.png/300px-CIA_map_of_the_Caribbean.png",
+			"previous": " ",
+			"after": " The word Caribbean has multiple uses Its principal ones are geographical and political The Caribbean can also be expanded to include territories with strong cultural and historical connections to slavery European colonisation and the plantation system ",
+			"after_weights": " The|1 word|0.97222 Caribbean|0.94444 has|0.91667 multiple|0.88889 uses|0.86111 Its|0.83333 principal|0.80556 ones|0.77778 are|0.75 geographical|0.72222 and|0.69444 political|0.66667 The|0.63889 Caribbean|0.61111 can|0.58333 also|0.55556 be|0.52778 expanded|0.5 to|0.47222 include|0.44444 territories|0.41667 with|0.38889 strong|0.36111 cultural|0.33333 and|0.30556 historical|0.27778 connections|0.25 to|0.22222 slavery|0.19444 European|0.16667 colonisation|0.13889 and|0.11111 the|0.083333 plantation|0.055556 system|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

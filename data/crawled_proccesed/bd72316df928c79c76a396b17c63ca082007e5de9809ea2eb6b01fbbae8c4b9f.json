@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bd72316df928c79c76a396b17c63ca082007e5de9809ea2eb6b01fbbae8c4b9f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roman_school.jpg/330px-Roman_school.jpg",
+			"previous": " ",
+			"after": " Traditional Roman education was moral and practical Stories about great men and women or cautionary tales about individual failures were meant to instill Roman values mores maiorum Parents and family members were expected to act as role models and parents who worked for a living passed their skills on to their children who might also enter apprenticeships for more advanced training in crafts or trades 487 Formal education was available only to children from families who could pay for it and the lack of state intervention in access to education contributed to the low rate of literacy 488 ",
+			"after_weights": " Traditional|1 Roman|0.9898 education|0.97959 was|0.96939 moral|0.95918 and|0.94898 practical|0.93878 Stories|0.92857 about|0.91837 great|0.90816 men|0.89796 and|0.88776 women|0.87755 or|0.86735 cautionary|0.85714 tales|0.84694 about|0.83673 individual|0.82653 failures|0.81633 were|0.80612 meant|0.79592 to|0.78571 instill|0.77551 Roman|0.76531 values|0.7551 mores|0.7449 maiorum|0.73469 Parents|0.72449 and|0.71429 family|0.70408 members|0.69388 were|0.68367 expected|0.67347 to|0.66327 act|0.65306 as|0.64286 role|0.63265 models|0.62245 and|0.61224 parents|0.60204 who|0.59184 worked|0.58163 for|0.57143 a|0.56122 living|0.55102 passed|0.54082 their|0.53061 skills|0.52041 on|0.5102 to|0.5 their|0.4898 children|0.47959 who|0.46939 might|0.45918 also|0.44898 enter|0.43878 apprenticeships|0.42857 for|0.41837 more|0.40816 advanced|0.39796 training|0.38776 in|0.37755 crafts|0.36735 or|0.35714 trades|0.34694 487|0.33673 Formal|0.32653 education|0.31633 was|0.30612 available|0.29592 only|0.28571 to|0.27551 children|0.26531 from|0.2551 families|0.2449 who|0.23469 could|0.22449 pay|0.21429 for|0.20408 it|0.19388 and|0.18367 the|0.17347 lack|0.16327 of|0.15306 state|0.14286 intervention|0.13265 in|0.12245 access|0.11224 to|0.10204 education|0.091837 contributed|0.081633 to|0.071429 the|0.061224 low|0.05102 rate|0.040816 of|0.030612 literacy|0.020408 488|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

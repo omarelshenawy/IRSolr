@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "60f3fe09a13f3fa60d5d038aa1b4fabd796fef272a8c05088bf0da6c0e642369",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pompeii_family_feast_painting_Naples.jpg/280px-Pompeii_family_feast_painting_Naples.jpg",
+			"previous": " ",
+			"after": " The Roman Empire was remarkably multicultural with a rather astonishing cohesive capacity to create a sense of shared identity while encompassing diverse peoples within its political system over a long span of time 68 The Roman attention to creating public monuments and communal spaces open to all such as forums amphitheaters racetracks and baths helped foster a sense of Romanness 69 ",
+			"after_weights": " The|1 Roman|0.98361 Empire|0.96721 was|0.95082 remarkably|0.93443 multicultural|0.91803 with|0.90164 a|0.88525 rather|0.86885 astonishing|0.85246 cohesive|0.83607 capacity|0.81967 to|0.80328 create|0.78689 a|0.77049 sense|0.7541 of|0.7377 shared|0.72131 identity|0.70492 while|0.68852 encompassing|0.67213 diverse|0.65574 peoples|0.63934 within|0.62295 its|0.60656 political|0.59016 system|0.57377 over|0.55738 a|0.54098 long|0.52459 span|0.5082 of|0.4918 time|0.47541 68|0.45902 The|0.44262 Roman|0.42623 attention|0.40984 to|0.39344 creating|0.37705 public|0.36066 monuments|0.34426 and|0.32787 communal|0.31148 spaces|0.29508 open|0.27869 to|0.2623 all|0.2459 such|0.22951 as|0.21311 forums|0.19672 amphitheaters|0.18033 racetracks|0.16393 and|0.14754 baths|0.13115 helped|0.11475 foster|0.098361 a|0.081967 sense|0.065574 of|0.04918 Romanness|0.032787 69|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

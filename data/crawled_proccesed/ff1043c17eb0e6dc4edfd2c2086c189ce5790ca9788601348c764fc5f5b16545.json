@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ff1043c17eb0e6dc4edfd2c2086c189ce5790ca9788601348c764fc5f5b16545",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TrumanFuneralWreath.jpg/220px-TrumanFuneralWreath.jpg",
+			"previous": " ",
+			"after": " On December 5 1972 Truman was admitted to Kansas City s Research Hospital and Medical Center with lung congestion from pneumonia He developed multiple organ failure and died at 7 50 am on December 26 at the age of 88 176 Bess Truman opted for a simple private service at the library for her husband rather than a state funeral in Washington A week after the funeral foreign dignitaries and Washington officials attended a memorial service at Washington National Cathedral Bess died in 1982 they both are buried at the Harry S Truman Library Museum in Independence 192 193 ",
+			"after_weights": " On|1 December|0.9899 5|0.9798 1972|0.9697 Truman|0.9596 was|0.94949 admitted|0.93939 to|0.92929 Kansas|0.91919 City|0.90909 s|0.89899 Research|0.88889 Hospital|0.87879 and|0.86869 Medical|0.85859 Center|0.84848 with|0.83838 lung|0.82828 congestion|0.81818 from|0.80808 pneumonia|0.79798 He|0.78788 developed|0.77778 multiple|0.76768 organ|0.75758 failure|0.74747 and|0.73737 died|0.72727 at|0.71717 7|0.70707 50|0.69697 am|0.68687 on|0.67677 December|0.66667 26|0.65657 at|0.64646 the|0.63636 age|0.62626 of|0.61616 88|0.60606 176|0.59596 Bess|0.58586 Truman|0.57576 opted|0.56566 for|0.55556 a|0.54545 simple|0.53535 private|0.52525 service|0.51515 at|0.50505 the|0.49495 library|0.48485 for|0.47475 her|0.46465 husband|0.45455 rather|0.44444 than|0.43434 a|0.42424 state|0.41414 funeral|0.40404 in|0.39394 Washington|0.38384 A|0.37374 week|0.36364 after|0.35354 the|0.34343 funeral|0.33333 foreign|0.32323 dignitaries|0.31313 and|0.30303 Washington|0.29293 officials|0.28283 attended|0.27273 a|0.26263 memorial|0.25253 service|0.24242 at|0.23232 Washington|0.22222 National|0.21212 Cathedral|0.20202 Bess|0.19192 died|0.18182 in|0.17172 1982|0.16162 they|0.15152 both|0.14141 are|0.13131 buried|0.12121 at|0.11111 the|0.10101 Harry|0.090909 S|0.080808 Truman|0.070707 Library|0.060606 Museum|0.050505 in|0.040404 Independence|0.030303 192|0.020202 193|0.010101 |0",
+			"previous_weights": " "
+		}
+	}
+}

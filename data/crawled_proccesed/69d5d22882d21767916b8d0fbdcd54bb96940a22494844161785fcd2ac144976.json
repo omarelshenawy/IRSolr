@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "69d5d22882d21767916b8d0fbdcd54bb96940a22494844161785fcd2ac144976",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Circle_Interchange_Chicago.jpg/220px-Circle_Interchange_Chicago.jpg",
+			"previous": " ",
+			"after": " Chicago is a major transportation hub in the United States It is an important component in global distribution as it is the third largest inter modal port in the world after Hong Kong and Singapore 229 ",
+			"after_weights": " Chicago|1 is|0.97222 a|0.94444 major|0.91667 transportation|0.88889 hub|0.86111 in|0.83333 the|0.80556 United|0.77778 States|0.75 It|0.72222 is|0.69444 an|0.66667 important|0.63889 component|0.61111 in|0.58333 global|0.55556 distribution|0.52778 as|0.5 it|0.47222 is|0.44444 the|0.41667 third|0.38889 largest|0.36111 inter|0.33333 modal|0.30556 port|0.27778 in|0.25 the|0.22222 world|0.19444 after|0.16667 Hong|0.13889 Kong|0.11111 and|0.083333 Singapore|0.055556 229|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

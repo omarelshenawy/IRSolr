@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "409a6be6a641abb32470f4208d3a6c456ce581a733580fc9bd388e2bfb7dfa34",
+			"url": "https://upload.wikimedia.org/math/5/8/5/5859f1fc939332183b4ed7e76f8971de.png",
+			"previous": " In order to deduce the Kriging system for the assumptions of the model the following error committed while estimating in is declared ",
+			"after": " Lack of bias  Since the random function is stationary the following constraint is observed ",
+			"after_weights": " Lack|1 of|0.93333 bias|0.86667 |0.8 Since|0.73333 the|0.66667 random|0.6 function|0.53333 is|0.46667 stationary|0.4 the|0.33333 following|0.26667 constraint|0.2 is|0.13333 observed|0.066667 |0",
+			"previous_weights": " In|0 order|0.045455 to|0.090909 deduce|0.13636 the|0.18182 Kriging|0.22727 system|0.27273 for|0.31818 the|0.36364 assumptions|0.40909 of|0.45455 the|0.5 model|0.54545 the|0.59091 following|0.63636 error|0.68182 committed|0.72727 while|0.77273 estimating|0.81818 in|0.86364 is|0.90909 declared|0.95455 |1"
+		}
+	}
+}

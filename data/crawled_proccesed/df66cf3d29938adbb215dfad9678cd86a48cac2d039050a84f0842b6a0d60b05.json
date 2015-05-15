@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "df66cf3d29938adbb215dfad9678cd86a48cac2d039050a84f0842b6a0d60b05",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sydney_Trains.JPG/220px-Sydney_Trains.JPG",
+			"previous": " ",
+			"after": " The majority of railways in New South Wales are currently operated by the state government Some lines began as branch lines of railways starting in other states For instance Balranald near the Victorian border was connected by a rail line coming up from Victoria and into New South Wales Another line beginning in Adelaide crossed over the border and stopped at Broken Hill ",
+			"after_weights": " The|1 majority|0.98413 of|0.96825 railways|0.95238 in|0.93651 New|0.92063 South|0.90476 Wales|0.88889 are|0.87302 currently|0.85714 operated|0.84127 by|0.8254 the|0.80952 state|0.79365 government|0.77778 Some|0.7619 lines|0.74603 began|0.73016 as|0.71429 branch|0.69841 lines|0.68254 of|0.66667 railways|0.65079 starting|0.63492 in|0.61905 other|0.60317 states|0.5873 For|0.57143 instance|0.55556 Balranald|0.53968 near|0.52381 the|0.50794 Victorian|0.49206 border|0.47619 was|0.46032 connected|0.44444 by|0.42857 a|0.4127 rail|0.39683 line|0.38095 coming|0.36508 up|0.34921 from|0.33333 Victoria|0.31746 and|0.30159 into|0.28571 New|0.26984 South|0.25397 Wales|0.2381 Another|0.22222 line|0.20635 beginning|0.19048 in|0.1746 Adelaide|0.15873 crossed|0.14286 over|0.12698 the|0.11111 border|0.095238 and|0.079365 stopped|0.063492 at|0.047619 Broken|0.031746 Hill|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

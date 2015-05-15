@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c919ebb91fea262ba718ccb06df600765fd2f7adc9883ecc3f5e52c2f077ab20",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mise_au_jeu_BOS_%40_MTL_Faceoff.JPG/220px-Mise_au_jeu_BOS_%40_MTL_Faceoff.JPG",
+			"previous": " ",
+			"after": " The most popular sport is ice hockey The professional hockey team the Montreal Canadiens is one of the Original Six teams of the National Hockey League NHL and boasts an NHL record 24 Stanley Cup championships The Canadiens most recent Stanley Cup victory came in 1993 They have major rivalries with the Toronto Maple Leafs and Boston Bruins both of which are also Original Six hockey teams The Canadiens have played at the Bell Centre since 1996 Prior to that they played at the Montreal Forum ",
+			"after_weights": " The|1 most|0.98837 popular|0.97674 sport|0.96512 is|0.95349 ice|0.94186 hockey|0.93023 The|0.9186 professional|0.90698 hockey|0.89535 team|0.88372 the|0.87209 Montreal|0.86047 Canadiens|0.84884 is|0.83721 one|0.82558 of|0.81395 the|0.80233 Original|0.7907 Six|0.77907 teams|0.76744 of|0.75581 the|0.74419 National|0.73256 Hockey|0.72093 League|0.7093 NHL|0.69767 and|0.68605 boasts|0.67442 an|0.66279 NHL|0.65116 record|0.63953 24|0.62791 Stanley|0.61628 Cup|0.60465 championships|0.59302 The|0.5814 Canadiens|0.56977 most|0.55814 recent|0.54651 Stanley|0.53488 Cup|0.52326 victory|0.51163 came|0.5 in|0.48837 1993|0.47674 They|0.46512 have|0.45349 major|0.44186 rivalries|0.43023 with|0.4186 the|0.40698 Toronto|0.39535 Maple|0.38372 Leafs|0.37209 and|0.36047 Boston|0.34884 Bruins|0.33721 both|0.32558 of|0.31395 which|0.30233 are|0.2907 also|0.27907 Original|0.26744 Six|0.25581 hockey|0.24419 teams|0.23256 The|0.22093 Canadiens|0.2093 have|0.19767 played|0.18605 at|0.17442 the|0.16279 Bell|0.15116 Centre|0.13953 since|0.12791 1996|0.11628 Prior|0.10465 to|0.093023 that|0.081395 they|0.069767 played|0.05814 at|0.046512 the|0.034884 Montreal|0.023256 Forum|0.011628 |0",
+			"previous_weights": " "
+		}
+	}
+}

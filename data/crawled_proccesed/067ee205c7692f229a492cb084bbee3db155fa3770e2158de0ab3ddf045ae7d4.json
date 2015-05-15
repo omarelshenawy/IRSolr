@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "067ee205c7692f229a492cb084bbee3db155fa3770e2158de0ab3ddf045ae7d4",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Erasmus_logo.svg/200px-Erasmus_logo.svg.png",
+			"previous": " ",
+			"after": " Basic education is an area where the EU s role is limited to supporting national governments In higher education the policy was developed in the 1980s in programmes supporting exchanges and mobility The most visible of these has been the Erasmus Programme a university exchange programme which began in 1987 In its first 20 years it has supported international exchange opportunities for well over 1 5 million university and college students and has become a symbol of European student life 216 ",
+			"after_weights": " Basic|1 education|0.98765 is|0.97531 an|0.96296 area|0.95062 where|0.93827 the|0.92593 EU|0.91358 s|0.90123 role|0.88889 is|0.87654 limited|0.8642 to|0.85185 supporting|0.83951 national|0.82716 governments|0.81481 In|0.80247 higher|0.79012 education|0.77778 the|0.76543 policy|0.75309 was|0.74074 developed|0.7284 in|0.71605 the|0.7037 1980s|0.69136 in|0.67901 programmes|0.66667 supporting|0.65432 exchanges|0.64198 and|0.62963 mobility|0.61728 The|0.60494 most|0.59259 visible|0.58025 of|0.5679 these|0.55556 has|0.54321 been|0.53086 the|0.51852 Erasmus|0.50617 Programme|0.49383 a|0.48148 university|0.46914 exchange|0.45679 programme|0.44444 which|0.4321 began|0.41975 in|0.40741 1987|0.39506 In|0.38272 its|0.37037 first|0.35802 20|0.34568 years|0.33333 it|0.32099 has|0.30864 supported|0.2963 international|0.28395 exchange|0.2716 opportunities|0.25926 for|0.24691 well|0.23457 over|0.22222 1|0.20988 5|0.19753 million|0.18519 university|0.17284 and|0.16049 college|0.14815 students|0.1358 and|0.12346 has|0.11111 become|0.098765 a|0.08642 symbol|0.074074 of|0.061728 European|0.049383 student|0.037037 life|0.024691 216|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

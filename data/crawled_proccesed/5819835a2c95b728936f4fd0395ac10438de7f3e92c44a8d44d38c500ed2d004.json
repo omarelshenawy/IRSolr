@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5819835a2c95b728936f4fd0395ac10438de7f3e92c44a8d44d38c500ed2d004",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oxford_Advanced_Learner%27s_Dictionary_of_Current_English.jpg/220px-Oxford_Advanced_Learner%27s_Dictionary_of_Current_English.jpg",
+			"previous": " ",
+			"after": " The first advanced learner s dictionary was the Oxford Advanced Learner s Dictionary OALD first published 67 years ago It is the largest English language dictionary from Oxford University Press aimed at a non native audience Users with a more linguistic interest requiring etymologies or copious references usually prefer the Concise Oxford English Dictionary or indeed the magnum opus the Oxford English Dictionary or other dictionaries aimed at speakers of English with native level competence ",
+			"after_weights": " The|1 first|0.98667 advanced|0.97333 learner|0.96 s|0.94667 dictionary|0.93333 was|0.92 the|0.90667 Oxford|0.89333 Advanced|0.88 Learner|0.86667 s|0.85333 Dictionary|0.84 OALD|0.82667 first|0.81333 published|0.8 67|0.78667 years|0.77333 ago|0.76 It|0.74667 is|0.73333 the|0.72 largest|0.70667 English|0.69333 language|0.68 dictionary|0.66667 from|0.65333 Oxford|0.64 University|0.62667 Press|0.61333 aimed|0.6 at|0.58667 a|0.57333 non|0.56 native|0.54667 audience|0.53333 Users|0.52 with|0.50667 a|0.49333 more|0.48 linguistic|0.46667 interest|0.45333 requiring|0.44 etymologies|0.42667 or|0.41333 copious|0.4 references|0.38667 usually|0.37333 prefer|0.36 the|0.34667 Concise|0.33333 Oxford|0.32 English|0.30667 Dictionary|0.29333 or|0.28 indeed|0.26667 the|0.25333 magnum|0.24 opus|0.22667 the|0.21333 Oxford|0.2 English|0.18667 Dictionary|0.17333 or|0.16 other|0.14667 dictionaries|0.13333 aimed|0.12 at|0.10667 speakers|0.093333 of|0.08 English|0.066667 with|0.053333 native|0.04 level|0.026667 competence|0.013333 |0",
+			"previous_weights": " "
+		}
+	}
+}

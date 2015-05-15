@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2ed308e2d9bf17004e3a05b111ff8a61334d4c07a4ad91b5b3ee138e919ffc88",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/2/27/E.-coli-growth.gif",
+			"previous": "  where x0 is the value of x at time 0 For example with a growth rate of r 5 0 05 going from any integer value of time to the next integer causes x at the second time to be 1 05 times i e 5 larger than what it was at the previous time ",
+			"after": " A quantity x depends exponentially on time t if",
+			"after_weights": " A|1 quantity|0.875 x|0.75 depends|0.625 exponentially|0.5 on|0.375 time|0.25 t|0.125 if|0",
+			"previous_weights": " |0 where|0.017857 x0|0.035714 is|0.053571 the|0.071429 value|0.089286 of|0.10714 x|0.125 at|0.14286 time|0.16071 0|0.17857 For|0.19643 example|0.21429 with|0.23214 a|0.25 growth|0.26786 rate|0.28571 of|0.30357 r|0.32143 5|0.33929 0|0.35714 05|0.375 going|0.39286 from|0.41071 any|0.42857 integer|0.44643 value|0.46429 of|0.48214 time|0.5 to|0.51786 the|0.53571 next|0.55357 integer|0.57143 causes|0.58929 x|0.60714 at|0.625 the|0.64286 second|0.66071 time|0.67857 to|0.69643 be|0.71429 1|0.73214 05|0.75 times|0.76786 i|0.78571 e|0.80357 5|0.82143 larger|0.83929 than|0.85714 what|0.875 it|0.89286 was|0.91071 at|0.92857 the|0.94643 previous|0.96429 time|0.98214 |1"
+		}
+	}
+}

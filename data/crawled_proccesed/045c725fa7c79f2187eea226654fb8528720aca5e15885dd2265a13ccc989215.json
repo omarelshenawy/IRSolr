@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "045c725fa7c79f2187eea226654fb8528720aca5e15885dd2265a13ccc989215",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Leonard-Kleinrock-and-IMP1.png/170px-Leonard-Kleinrock-and-IMP1.png",
+			"previous": " The term Interweb is a portmanteau of Internet and World Wide Web typically used sarcastically to parody a technically unsavvy user ",
+			"after": " Research into packet switching started in the early 1960s and packet switched networks such as Mark I at NPL in the UK 15 ARPANET CYCLADES 16 17 Merit Network 18 Tymnet and Telenet were developed in the late 1960s and early 1970s using a variety of protocols The ARPANET in particular led to the development of protocols for internetworking where multiple separate networks could be joined together into a network of networks 19 ",
+			"after_weights": " Research|1 into|0.9863 packet|0.9726 switching|0.9589 started|0.94521 in|0.93151 the|0.91781 early|0.90411 1960s|0.89041 and|0.87671 packet|0.86301 switched|0.84932 networks|0.83562 such|0.82192 as|0.80822 Mark|0.79452 I|0.78082 at|0.76712 NPL|0.75342 in|0.73973 the|0.72603 UK|0.71233 15|0.69863 ARPANET|0.68493 CYCLADES|0.67123 16|0.65753 17|0.64384 Merit|0.63014 Network|0.61644 18|0.60274 Tymnet|0.58904 and|0.57534 Telenet|0.56164 were|0.54795 developed|0.53425 in|0.52055 the|0.50685 late|0.49315 1960s|0.47945 and|0.46575 early|0.45205 1970s|0.43836 using|0.42466 a|0.41096 variety|0.39726 of|0.38356 protocols|0.36986 The|0.35616 ARPANET|0.34247 in|0.32877 particular|0.31507 led|0.30137 to|0.28767 the|0.27397 development|0.26027 of|0.24658 protocols|0.23288 for|0.21918 internetworking|0.20548 where|0.19178 multiple|0.17808 separate|0.16438 networks|0.15068 could|0.13699 be|0.12329 joined|0.10959 together|0.09589 into|0.082192 a|0.068493 network|0.054795 of|0.041096 networks|0.027397 19|0.013699 |0",
+			"previous_weights": " The|0 term|0.047619 Interweb|0.095238 is|0.14286 a|0.19048 portmanteau|0.2381 of|0.28571 Internet|0.33333 and|0.38095 World|0.42857 Wide|0.47619 Web|0.52381 typically|0.57143 used|0.61905 sarcastically|0.66667 to|0.71429 parody|0.7619 a|0.80952 technically|0.85714 unsavvy|0.90476 user|0.95238 |1"
+		}
+	}
+}

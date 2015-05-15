@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "385c73d7f567cd7ef34766aa4305274fea5967a7e1bc4d8432320d91b3aefc24",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stpeteconservatory.jpg/275px-Stpeteconservatory.jpg",
+			"previous": " ",
+			"after": " The N A Rimsky Korsakov Saint Petersburg State Conservatory Russian is a music school in Saint Petersburg In 2004 the conservatory had around 275 faculty members and 1 400 students ",
+			"after_weights": " The|1 N|0.96667 A|0.93333 Rimsky|0.9 Korsakov|0.86667 Saint|0.83333 Petersburg|0.8 State|0.76667 Conservatory|0.73333 Russian|0.7 is|0.66667 a|0.63333 music|0.6 school|0.56667 in|0.53333 Saint|0.5 Petersburg|0.46667 In|0.43333 2004|0.4 the|0.36667 conservatory|0.33333 had|0.3 around|0.26667 275|0.23333 faculty|0.2 members|0.16667 and|0.13333 1|0.1 400|0.066667 students|0.033333 |0",
+			"previous_weights": " "
+		}
+	}
+}

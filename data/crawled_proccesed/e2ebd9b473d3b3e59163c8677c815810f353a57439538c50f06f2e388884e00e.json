@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e2ebd9b473d3b3e59163c8677c815810f353a57439538c50f06f2e388884e00e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fragonard%2C_The_Reader.jpg/220px-Fragonard%2C_The_Reader.jpg",
+			"previous": " ",
+			"after": " Literary works have been protected by copyright law from unauthorised reproduction since at least 1710 65 Literary works are defined by copyright law to mean any work other than a dramatic or musical work which is written spoken or sung and accordingly includes a a table or compilation other than a database b a computer program c preparatory design material for a computer program and d a database ",
+			"after_weights": " Literary|1 works|0.98529 have|0.97059 been|0.95588 protected|0.94118 by|0.92647 copyright|0.91176 law|0.89706 from|0.88235 unauthorised|0.86765 reproduction|0.85294 since|0.83824 at|0.82353 least|0.80882 1710|0.79412 65|0.77941 Literary|0.76471 works|0.75 are|0.73529 defined|0.72059 by|0.70588 copyright|0.69118 law|0.67647 to|0.66176 mean|0.64706 any|0.63235 work|0.61765 other|0.60294 than|0.58824 a|0.57353 dramatic|0.55882 or|0.54412 musical|0.52941 work|0.51471 which|0.5 is|0.48529 written|0.47059 spoken|0.45588 or|0.44118 sung|0.42647 and|0.41176 accordingly|0.39706 includes|0.38235 a|0.36765 a|0.35294 table|0.33824 or|0.32353 compilation|0.30882 other|0.29412 than|0.27941 a|0.26471 database|0.25 b|0.23529 a|0.22059 computer|0.20588 program|0.19118 c|0.17647 preparatory|0.16176 design|0.14706 material|0.13235 for|0.11765 a|0.10294 computer|0.088235 program|0.073529 and|0.058824 d|0.044118 a|0.029412 database|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

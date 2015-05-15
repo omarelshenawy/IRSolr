@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "52a06b11dabe1134ac2dc1660e4e8545a0b69d5015ec1ba7cc1a5d9e144c3a5d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Map_of_Bangladesh-en.svg/81px-Map_of_Bangladesh-en.svg.png",
+			"previous": " Portal Geography Selected anniversaries November Portal Geography Selected anniversaries October Portal Geography Selected anniversaries September Portal Geography Selected anniversaries August",
+			"after": " Portal Geography Selected anniversaries December",
+			"after_weights": " Portal|1 Geography|0.75 Selected|0.5 anniversaries|0.25 December|0",
+			"previous_weights": " Portal|0 Geography|0.052632 Selected|0.10526 anniversaries|0.15789 November|0.21053 Portal|0.26316 Geography|0.31579 Selected|0.36842 anniversaries|0.42105 October|0.47368 Portal|0.52632 Geography|0.57895 Selected|0.63158 anniversaries|0.68421 September|0.73684 Portal|0.78947 Geography|0.84211 Selected|0.89474 anniversaries|0.94737 August|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e8d0677cd914fafbbfd184840bb05ab0e0a9a96f9f538eb276db5ca547b49c7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flickr_-_ggallice_-_Village_boys.jpg/220px-Flickr_-_ggallice_-_Village_boys.jpg",
+			"previous": " ",
+			"after": " Malawi has a population of over 15 million with a growth rate of 2 75 according to 2009 estimates 32 The population is forecast to grow to over 45 million people by 2050 nearly tripling the estimated 16 million in 2010 61 ",
+			"after_weights": " Malawi|1 has|0.97619 a|0.95238 population|0.92857 of|0.90476 over|0.88095 15|0.85714 million|0.83333 with|0.80952 a|0.78571 growth|0.7619 rate|0.7381 of|0.71429 2|0.69048 75|0.66667 according|0.64286 to|0.61905 2009|0.59524 estimates|0.57143 32|0.54762 The|0.52381 population|0.5 is|0.47619 forecast|0.45238 to|0.42857 grow|0.40476 to|0.38095 over|0.35714 45|0.33333 million|0.30952 people|0.28571 by|0.2619 2050|0.2381 nearly|0.21429 tripling|0.19048 the|0.16667 estimated|0.14286 16|0.11905 million|0.095238 in|0.071429 2010|0.047619 61|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

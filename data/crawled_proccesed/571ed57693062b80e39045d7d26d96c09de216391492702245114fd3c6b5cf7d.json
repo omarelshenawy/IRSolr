@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "571ed57693062b80e39045d7d26d96c09de216391492702245114fd3c6b5cf7d",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png",
+			"previous": " ",
+			"after": "  accessdate requires url error message hidden by default  The access date or its alias accessdate is the date that the web resource addressed by url was added to the article If access date has been included in the citation without url then this message appears If the citation does not use a web link then access date is redundant and should be removed ",
+			"after_weights": " |1 accessdate|0.98462 requires|0.96923 url|0.95385 error|0.93846 message|0.92308 hidden|0.90769 by|0.89231 default|0.87692 |0.86154 The|0.84615 access|0.83077 date|0.81538 or|0.8 its|0.78462 alias|0.76923 accessdate|0.75385 is|0.73846 the|0.72308 date|0.70769 that|0.69231 the|0.67692 web|0.66154 resource|0.64615 addressed|0.63077 by|0.61538 url|0.6 was|0.58462 added|0.56923 to|0.55385 the|0.53846 article|0.52308 If|0.50769 access|0.49231 date|0.47692 has|0.46154 been|0.44615 included|0.43077 in|0.41538 the|0.4 citation|0.38462 without|0.36923 url|0.35385 then|0.33846 this|0.32308 message|0.30769 appears|0.29231 If|0.27692 the|0.26154 citation|0.24615 does|0.23077 not|0.21538 use|0.2 a|0.18462 web|0.16923 link|0.15385 then|0.13846 access|0.12308 date|0.10769 is|0.092308 redundant|0.076923 and|0.061538 should|0.046154 be|0.030769 removed|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

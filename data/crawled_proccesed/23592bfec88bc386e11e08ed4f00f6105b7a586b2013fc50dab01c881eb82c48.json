@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "23592bfec88bc386e11e08ed4f00f6105b7a586b2013fc50dab01c881eb82c48",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BayeuxTapestryScene39.jpg/220px-BayeuxTapestryScene39.jpg",
+			"previous": " ",
+			"after": " The Normans crossed to England a few days after Harold s victory over the Norwegians at Stamford Bridge on 25 September following the dispersal of Harold s naval force They landed at Pevensey in Sussex on 28 September and erected a wooden castle at Hastings from which they raided the surrounding area 30 This ensured supplies for the army and as Harold and his family held many of the lands in the area it weakened William s opponent and made him more likely to attack to put an end to the raiding 41 ",
+			"after_weights": " The|1 Normans|0.98925 crossed|0.97849 to|0.96774 England|0.95699 a|0.94624 few|0.93548 days|0.92473 after|0.91398 Harold|0.90323 s|0.89247 victory|0.88172 over|0.87097 the|0.86022 Norwegians|0.84946 at|0.83871 Stamford|0.82796 Bridge|0.8172 on|0.80645 25|0.7957 September|0.78495 following|0.77419 the|0.76344 dispersal|0.75269 of|0.74194 Harold|0.73118 s|0.72043 naval|0.70968 force|0.69892 They|0.68817 landed|0.67742 at|0.66667 Pevensey|0.65591 in|0.64516 Sussex|0.63441 on|0.62366 28|0.6129 September|0.60215 and|0.5914 erected|0.58065 a|0.56989 wooden|0.55914 castle|0.54839 at|0.53763 Hastings|0.52688 from|0.51613 which|0.50538 they|0.49462 raided|0.48387 the|0.47312 surrounding|0.46237 area|0.45161 30|0.44086 This|0.43011 ensured|0.41935 supplies|0.4086 for|0.39785 the|0.3871 army|0.37634 and|0.36559 as|0.35484 Harold|0.34409 and|0.33333 his|0.32258 family|0.31183 held|0.30108 many|0.29032 of|0.27957 the|0.26882 lands|0.25806 in|0.24731 the|0.23656 area|0.22581 it|0.21505 weakened|0.2043 William|0.19355 s|0.1828 opponent|0.17204 and|0.16129 made|0.15054 him|0.13978 more|0.12903 likely|0.11828 to|0.10753 attack|0.096774 to|0.086022 put|0.075269 an|0.064516 end|0.053763 to|0.043011 the|0.032258 raiding|0.021505 41|0.010753 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f51f83072a032525443cfa24074f09307b2ce0ed14ca4fd9b9767ce610474be0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Great_Feeling.ogv/170px-seek%3D82-Great_Feeling.ogv.jpg",
+			"previous": " ",
+			"after": " Wikipedia is the product of thousands of editors contributions each one bringing something different to the table whether it be researching skills technical expertise writing prowess or tidbits of information but most importantly a willingness to help Nobody owns articles so if you see a problem that you can fix do so Everyone is encouraged to copyedit articles add content and create new articles if they have knowledge about the topic at hand or are willing to do the necessary research to improve it ",
+			"after_weights": " Wikipedia|1 is|0.9881 the|0.97619 product|0.96429 of|0.95238 thousands|0.94048 of|0.92857 editors|0.91667 contributions|0.90476 each|0.89286 one|0.88095 bringing|0.86905 something|0.85714 different|0.84524 to|0.83333 the|0.82143 table|0.80952 whether|0.79762 it|0.78571 be|0.77381 researching|0.7619 skills|0.75 technical|0.7381 expertise|0.72619 writing|0.71429 prowess|0.70238 or|0.69048 tidbits|0.67857 of|0.66667 information|0.65476 but|0.64286 most|0.63095 importantly|0.61905 a|0.60714 willingness|0.59524 to|0.58333 help|0.57143 Nobody|0.55952 owns|0.54762 articles|0.53571 so|0.52381 if|0.5119 you|0.5 see|0.4881 a|0.47619 problem|0.46429 that|0.45238 you|0.44048 can|0.42857 fix|0.41667 do|0.40476 so|0.39286 Everyone|0.38095 is|0.36905 encouraged|0.35714 to|0.34524 copyedit|0.33333 articles|0.32143 add|0.30952 content|0.29762 and|0.28571 create|0.27381 new|0.2619 articles|0.25 if|0.2381 they|0.22619 have|0.21429 knowledge|0.20238 about|0.19048 the|0.17857 topic|0.16667 at|0.15476 hand|0.14286 or|0.13095 are|0.11905 willing|0.10714 to|0.095238 do|0.083333 the|0.071429 necessary|0.059524 research|0.047619 to|0.035714 improve|0.02381 it|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "afb87a8f2542653cd9b5707e32a385a3504cfee20400de39a761be9ccb46a2c4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flight_77_CVR.jpg/220px-Flight_77_CVR.jpg",
+			"previous": " ",
+			"after": " According to the 9 11 Commission Report both black boxes from Flight 77 and both black boxes from Flight 93 were recovered However the CVR from Flight 77 was said to be too damaged to yield any data On April 18 2002 the FBI allowed the families of victims from Flight 93 to listen to the voice recordings 181 In April 2006 a transcript of the CVR was released as part of the Zacarias Moussaoui trial 182 ",
+			"after_weights": " According|1 to|0.98701 the|0.97403 9|0.96104 11|0.94805 Commission|0.93506 Report|0.92208 both|0.90909 black|0.8961 boxes|0.88312 from|0.87013 Flight|0.85714 77|0.84416 and|0.83117 both|0.81818 black|0.80519 boxes|0.79221 from|0.77922 Flight|0.76623 93|0.75325 were|0.74026 recovered|0.72727 However|0.71429 the|0.7013 CVR|0.68831 from|0.67532 Flight|0.66234 77|0.64935 was|0.63636 said|0.62338 to|0.61039 be|0.5974 too|0.58442 damaged|0.57143 to|0.55844 yield|0.54545 any|0.53247 data|0.51948 On|0.50649 April|0.49351 18|0.48052 2002|0.46753 the|0.45455 FBI|0.44156 allowed|0.42857 the|0.41558 families|0.4026 of|0.38961 victims|0.37662 from|0.36364 Flight|0.35065 93|0.33766 to|0.32468 listen|0.31169 to|0.2987 the|0.28571 voice|0.27273 recordings|0.25974 181|0.24675 In|0.23377 April|0.22078 2006|0.20779 a|0.19481 transcript|0.18182 of|0.16883 the|0.15584 CVR|0.14286 was|0.12987 released|0.11688 as|0.1039 part|0.090909 of|0.077922 the|0.064935 Zacarias|0.051948 Moussaoui|0.038961 trial|0.025974 182|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

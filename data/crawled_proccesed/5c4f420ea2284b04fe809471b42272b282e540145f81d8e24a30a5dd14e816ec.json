@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5c4f420ea2284b04fe809471b42272b282e540145f81d8e24a30a5dd14e816ec",
+			"url": "https://upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png",
+			"previous": " ",
+			"after": " Some authors choose to interpolate the function to reduce the impact of wiggles in the curve 8 9 For example the PASCAL Visual Object Classes challenge a benchmark for computer vision object detection computes average precision by averaging the precision over a set of evenly spaced recall levels 0 0 1 0 2 1 0 8 9 ",
+			"after_weights": " Some|1 authors|0.98246 choose|0.96491 to|0.94737 interpolate|0.92982 the|0.91228 function|0.89474 to|0.87719 reduce|0.85965 the|0.84211 impact|0.82456 of|0.80702 wiggles|0.78947 in|0.77193 the|0.75439 curve|0.73684 8|0.7193 9|0.70175 For|0.68421 example|0.66667 the|0.64912 PASCAL|0.63158 Visual|0.61404 Object|0.59649 Classes|0.57895 challenge|0.5614 a|0.54386 benchmark|0.52632 for|0.50877 computer|0.49123 vision|0.47368 object|0.45614 detection|0.4386 computes|0.42105 average|0.40351 precision|0.38596 by|0.36842 averaging|0.35088 the|0.33333 precision|0.31579 over|0.29825 a|0.2807 set|0.26316 of|0.24561 evenly|0.22807 spaced|0.21053 recall|0.19298 levels|0.17544 0|0.15789 0|0.14035 1|0.12281 0|0.10526 2|0.087719 1|0.070175 0|0.052632 8|0.035088 9|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "05da5dbbac44ebe6c452ab423eac4c37dae19736d96d6d9d59f8d6c57ea2aa63",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Balanceamento_de_carga_%28NAT%29.jpg/220px-Balanceamento_de_carga_%28NAT%29.jpg",
+			"previous": " ",
+			"after": " Computer clusters may be configured for different purposes ranging from general purpose business needs such as web service support to computation intensive scientific calculations In either case the cluster may use a high availability approach Note that the attributes described below are not exclusive and a computer cluster may also use a high availability approach etc ",
+			"after_weights": " Computer|1 clusters|0.98214 may|0.96429 be|0.94643 configured|0.92857 for|0.91071 different|0.89286 purposes|0.875 ranging|0.85714 from|0.83929 general|0.82143 purpose|0.80357 business|0.78571 needs|0.76786 such|0.75 as|0.73214 web|0.71429 service|0.69643 support|0.67857 to|0.66071 computation|0.64286 intensive|0.625 scientific|0.60714 calculations|0.58929 In|0.57143 either|0.55357 case|0.53571 the|0.51786 cluster|0.5 may|0.48214 use|0.46429 a|0.44643 high|0.42857 availability|0.41071 approach|0.39286 Note|0.375 that|0.35714 the|0.33929 attributes|0.32143 described|0.30357 below|0.28571 are|0.26786 not|0.25 exclusive|0.23214 and|0.21429 a|0.19643 computer|0.17857 cluster|0.16071 may|0.14286 also|0.125 use|0.10714 a|0.089286 high|0.071429 availability|0.053571 approach|0.035714 etc|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

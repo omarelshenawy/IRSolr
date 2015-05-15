@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5961e6b581a8a45c8043b905f2c3a13efa5da01b200804883132ceb3e0f69e7b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sleeptoon.png/100px-Sleeptoon.png",
+			"previous": " ",
+			"after": " Many dialects of Limburgish and of Ripuarian 18 have a pitch accent having two different accents used in stressed syllables The difference between these two accents is used for differentiating both various grammatical forms of a single lexeme and minimal tone pairs one from the other 19 ",
+			"after_weights": " Many|1 dialects|0.97872 of|0.95745 Limburgish|0.93617 and|0.91489 of|0.89362 Ripuarian|0.87234 18|0.85106 have|0.82979 a|0.80851 pitch|0.78723 accent|0.76596 having|0.74468 two|0.7234 different|0.70213 accents|0.68085 used|0.65957 in|0.6383 stressed|0.61702 syllables|0.59574 The|0.57447 difference|0.55319 between|0.53191 these|0.51064 two|0.48936 accents|0.46809 is|0.44681 used|0.42553 for|0.40426 differentiating|0.38298 both|0.3617 various|0.34043 grammatical|0.31915 forms|0.29787 of|0.2766 a|0.25532 single|0.23404 lexeme|0.21277 and|0.19149 minimal|0.17021 tone|0.14894 pairs|0.12766 one|0.10638 from|0.085106 the|0.06383 other|0.042553 19|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

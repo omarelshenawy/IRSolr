@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b698c0aeef68cdcfde222f939eef41d6288ceb9a650446cdcbf905f75769b714",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thomas_Jefferson_University_Hospital.jpg/220px-Thomas_Jefferson_University_Hospital.jpg",
+			"previous": " ",
+			"after": " The University is affiliated with Thomas Jefferson University Hospitals TJUH including Thomas Jefferson University Hospital Jefferson Hospital for Neuroscience and Methodist Hospital Philadelphia ",
+			"after_weights": " The|1 University|0.95652 is|0.91304 affiliated|0.86957 with|0.82609 Thomas|0.78261 Jefferson|0.73913 University|0.69565 Hospitals|0.65217 TJUH|0.6087 including|0.56522 Thomas|0.52174 Jefferson|0.47826 University|0.43478 Hospital|0.3913 Jefferson|0.34783 Hospital|0.30435 for|0.26087 Neuroscience|0.21739 and|0.17391 Methodist|0.13043 Hospital|0.086957 Philadelphia|0.043478 |0",
+			"previous_weights": " "
+		}
+	}
+}

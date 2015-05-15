@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cf227443d5b97d43900224952700e828bac8c5c66fa0b3543e400d058f8bcc1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Americas_Koppen_Map.png/250px-Americas_Koppen_Map.png",
+			"previous": " ",
+			"after": " The climate of the Americas varies significantly from region to region Tropical rainforest climate occurs in the latitudes of the Amazon American cloud forests Florida and Darien Gap In the Rocky Mountains and Andes a similar climate is observed Often the higher altitudes of these mountains are snow capped ",
+			"after_weights": " The|1 climate|0.97959 of|0.95918 the|0.93878 Americas|0.91837 varies|0.89796 significantly|0.87755 from|0.85714 region|0.83673 to|0.81633 region|0.79592 Tropical|0.77551 rainforest|0.7551 climate|0.73469 occurs|0.71429 in|0.69388 the|0.67347 latitudes|0.65306 of|0.63265 the|0.61224 Amazon|0.59184 American|0.57143 cloud|0.55102 forests|0.53061 Florida|0.5102 and|0.4898 Darien|0.46939 Gap|0.44898 In|0.42857 the|0.40816 Rocky|0.38776 Mountains|0.36735 and|0.34694 Andes|0.32653 a|0.30612 similar|0.28571 climate|0.26531 is|0.2449 observed|0.22449 Often|0.20408 the|0.18367 higher|0.16327 altitudes|0.14286 of|0.12245 these|0.10204 mountains|0.081633 are|0.061224 snow|0.040816 capped|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

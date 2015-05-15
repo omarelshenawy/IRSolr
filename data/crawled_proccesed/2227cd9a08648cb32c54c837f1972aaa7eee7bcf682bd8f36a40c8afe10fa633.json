@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2227cd9a08648cb32c54c837f1972aaa7eee7bcf682bd8f36a40c8afe10fa633",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lldigraph.png/220px-Lldigraph.png",
+			"previous": " ",
+			"after": " A digraph or digram from the Greek d s double and gr ph to write is a pair of characters used to write one phoneme distinct sound or a sequence of phonemes that does not correspond to the normal values of the two characters combined The sound is often but not necessarily one which cannot be expressed using a single character in the orthography used by the language Usually the term digraph is reserved for graphemes whose pronunciation is always or nearly always the same ",
+			"after_weights": " A|1 digraph|0.98824 or|0.97647 digram|0.96471 from|0.95294 the|0.94118 Greek|0.92941 d|0.91765 s|0.90588 double|0.89412 and|0.88235 gr|0.87059 ph|0.85882 to|0.84706 write|0.83529 is|0.82353 a|0.81176 pair|0.8 of|0.78824 characters|0.77647 used|0.76471 to|0.75294 write|0.74118 one|0.72941 phoneme|0.71765 distinct|0.70588 sound|0.69412 or|0.68235 a|0.67059 sequence|0.65882 of|0.64706 phonemes|0.63529 that|0.62353 does|0.61176 not|0.6 correspond|0.58824 to|0.57647 the|0.56471 normal|0.55294 values|0.54118 of|0.52941 the|0.51765 two|0.50588 characters|0.49412 combined|0.48235 The|0.47059 sound|0.45882 is|0.44706 often|0.43529 but|0.42353 not|0.41176 necessarily|0.4 one|0.38824 which|0.37647 cannot|0.36471 be|0.35294 expressed|0.34118 using|0.32941 a|0.31765 single|0.30588 character|0.29412 in|0.28235 the|0.27059 orthography|0.25882 used|0.24706 by|0.23529 the|0.22353 language|0.21176 Usually|0.2 the|0.18824 term|0.17647 digraph|0.16471 is|0.15294 reserved|0.14118 for|0.12941 graphemes|0.11765 whose|0.10588 pronunciation|0.094118 is|0.082353 always|0.070588 or|0.058824 nearly|0.047059 always|0.035294 the|0.023529 same|0.011765 |0",
+			"previous_weights": " "
+		}
+	}
+}

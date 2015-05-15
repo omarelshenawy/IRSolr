@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bcf3230993a7b03e95c50a7f2bf72f45bbf9d3e9d3fbf61965faf5cfda857c81",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Oxford_Airport_ATC_Tower.jpg/220px-Oxford_Airport_ATC_Tower.jpg",
+			"previous": " ",
+			"after": " In addition to the larger airports in the region Oxford is served by nearby London Oxford Airport in Kidlington The airport is also home to Oxford Aviation Academy an airline pilot flight training centre and several private jet companies ",
+			"after_weights": " In|1 addition|0.97436 to|0.94872 the|0.92308 larger|0.89744 airports|0.87179 in|0.84615 the|0.82051 region|0.79487 Oxford|0.76923 is|0.74359 served|0.71795 by|0.69231 nearby|0.66667 London|0.64103 Oxford|0.61538 Airport|0.58974 in|0.5641 Kidlington|0.53846 The|0.51282 airport|0.48718 is|0.46154 also|0.4359 home|0.41026 to|0.38462 Oxford|0.35897 Aviation|0.33333 Academy|0.30769 an|0.28205 airline|0.25641 pilot|0.23077 flight|0.20513 training|0.17949 centre|0.15385 and|0.12821 several|0.10256 private|0.076923 jet|0.051282 companies|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

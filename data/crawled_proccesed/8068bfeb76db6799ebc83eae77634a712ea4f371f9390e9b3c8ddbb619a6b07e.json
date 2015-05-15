@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8068bfeb76db6799ebc83eae77634a712ea4f371f9390e9b3c8ddbb619a6b07e",
+			"url": "https://upload.wikimedia.org/math/3/2/e/32e19d3fdb2211a7feb702e28c87d684.png",
+			"previous": " A prediction interval for a random variable is defined similarly to a confidence interval for a statistical parameter Consider an additional random variable Y which may or may not be statistically dependent on the random sample X Then u X v X provides a prediction interval for the as yet to be observed value y of Y if",
+			"after": " Here Pr indicates the joint probability distribution of the random variables X Y where this distribution depends on the statistical parameters ",
+			"after_weights": " Here|1 Pr|0.95238 indicates|0.90476 the|0.85714 joint|0.80952 probability|0.7619 distribution|0.71429 of|0.66667 the|0.61905 random|0.57143 variables|0.52381 X|0.47619 Y|0.42857 where|0.38095 this|0.33333 distribution|0.28571 depends|0.2381 on|0.19048 the|0.14286 statistical|0.095238 parameters|0.047619 |0",
+			"previous_weights": " A|0 prediction|0.017544 interval|0.035088 for|0.052632 a|0.070175 random|0.087719 variable|0.10526 is|0.12281 defined|0.14035 similarly|0.15789 to|0.17544 a|0.19298 confidence|0.21053 interval|0.22807 for|0.24561 a|0.26316 statistical|0.2807 parameter|0.29825 Consider|0.31579 an|0.33333 additional|0.35088 random|0.36842 variable|0.38596 Y|0.40351 which|0.42105 may|0.4386 or|0.45614 may|0.47368 not|0.49123 be|0.50877 statistically|0.52632 dependent|0.54386 on|0.5614 the|0.57895 random|0.59649 sample|0.61404 X|0.63158 Then|0.64912 u|0.66667 X|0.68421 v|0.70175 X|0.7193 provides|0.73684 a|0.75439 prediction|0.77193 interval|0.78947 for|0.80702 the|0.82456 as|0.84211 yet|0.85965 to|0.87719 be|0.89474 observed|0.91228 value|0.92982 y|0.94737 of|0.96491 Y|0.98246 if|1"
+		}
+	}
+}

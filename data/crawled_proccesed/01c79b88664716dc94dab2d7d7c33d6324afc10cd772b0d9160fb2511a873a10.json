@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "01c79b88664716dc94dab2d7d7c33d6324afc10cd772b0d9160fb2511a873a10",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cardrona01_gobeirne.jpg/220px-Cardrona01_gobeirne.jpg",
+			"previous": " Fiordland National Park Abel Tasman National Park Westland National Park Aoraki Mount Cook National Park Queenstown Kaikoura and the Marlborough Sounds are regarded as the main tourism destinations in the South Island and amongst the Top 10 destinations in New Zealand 56 ",
+			"after": " This is a list of ski areas and resorts in the South Island ",
+			"after_weights": " This|1 is|0.92308 a|0.84615 list|0.76923 of|0.69231 ski|0.61538 areas|0.53846 and|0.46154 resorts|0.38462 in|0.30769 the|0.23077 South|0.15385 Island|0.076923 |0",
+			"previous_weights": " Fiordland|0 National|0.02381 Park|0.047619 Abel|0.071429 Tasman|0.095238 National|0.11905 Park|0.14286 Westland|0.16667 National|0.19048 Park|0.21429 Aoraki|0.2381 Mount|0.2619 Cook|0.28571 National|0.30952 Park|0.33333 Queenstown|0.35714 Kaikoura|0.38095 and|0.40476 the|0.42857 Marlborough|0.45238 Sounds|0.47619 are|0.5 regarded|0.52381 as|0.54762 the|0.57143 main|0.59524 tourism|0.61905 destinations|0.64286 in|0.66667 the|0.69048 South|0.71429 Island|0.7381 and|0.7619 amongst|0.78571 the|0.80952 Top|0.83333 10|0.85714 destinations|0.88095 in|0.90476 New|0.92857 Zealand|0.95238 56|0.97619 |1"
+		}
+	}
+}

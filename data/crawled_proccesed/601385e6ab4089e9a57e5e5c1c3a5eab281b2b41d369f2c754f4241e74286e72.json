@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "601385e6ab4089e9a57e5e5c1c3a5eab281b2b41d369f2c754f4241e74286e72",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Commuters_in_Maplewood_NJ.jpg/300px-Commuters_in_Maplewood_NJ.jpg",
+			"previous": " ",
+			"after": " A commuter town is a town whose residents normally work elsewhere although they live and sleep in these neighborhoods The name also suggests that these communities have little commercial or industrial activity beyond a small amount of retail oriented toward serving the residents ",
+			"after_weights": " A|1 commuter|0.97674 town|0.95349 is|0.93023 a|0.90698 town|0.88372 whose|0.86047 residents|0.83721 normally|0.81395 work|0.7907 elsewhere|0.76744 although|0.74419 they|0.72093 live|0.69767 and|0.67442 sleep|0.65116 in|0.62791 these|0.60465 neighborhoods|0.5814 The|0.55814 name|0.53488 also|0.51163 suggests|0.48837 that|0.46512 these|0.44186 communities|0.4186 have|0.39535 little|0.37209 commercial|0.34884 or|0.32558 industrial|0.30233 activity|0.27907 beyond|0.25581 a|0.23256 small|0.2093 amount|0.18605 of|0.16279 retail|0.13953 oriented|0.11628 toward|0.093023 serving|0.069767 the|0.046512 residents|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bce3d504d0065bcaeb891990a04deedeb357cac76a04b7fdbd7acfd2851206d6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/File-Top_and_left_side_of_iPhone_3G_white_showing_the_standby_button%2C_sim_tray%2C_headphone_plug%2C_silent_switch_and_volume_buttons_showing_the_sim_tray_half_pulled_out.JPG/220px-thumbnail.jpg",
+			"previous": " ",
+			"after": " Most iPhones were and are still sold with a SIM lock which restricts the use of the phone to one particular carrier a common practice with subsidized GSM phones Unlike most GSM phones however the phone cannot be officially unlocked by entering a code citation needed The locked unlocked state is maintained on Apple s servers per IMEI and is set when the iPhone is activated ",
+			"after_weights": " Most|1 iPhones|0.98485 were|0.9697 and|0.95455 are|0.93939 still|0.92424 sold|0.90909 with|0.89394 a|0.87879 SIM|0.86364 lock|0.84848 which|0.83333 restricts|0.81818 the|0.80303 use|0.78788 of|0.77273 the|0.75758 phone|0.74242 to|0.72727 one|0.71212 particular|0.69697 carrier|0.68182 a|0.66667 common|0.65152 practice|0.63636 with|0.62121 subsidized|0.60606 GSM|0.59091 phones|0.57576 Unlike|0.56061 most|0.54545 GSM|0.5303 phones|0.51515 however|0.5 the|0.48485 phone|0.4697 cannot|0.45455 be|0.43939 officially|0.42424 unlocked|0.40909 by|0.39394 entering|0.37879 a|0.36364 code|0.34848 citation|0.33333 needed|0.31818 The|0.30303 locked|0.28788 unlocked|0.27273 state|0.25758 is|0.24242 maintained|0.22727 on|0.21212 Apple|0.19697 s|0.18182 servers|0.16667 per|0.15152 IMEI|0.13636 and|0.12121 is|0.10606 set|0.090909 when|0.075758 the|0.060606 iPhone|0.045455 is|0.030303 activated|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

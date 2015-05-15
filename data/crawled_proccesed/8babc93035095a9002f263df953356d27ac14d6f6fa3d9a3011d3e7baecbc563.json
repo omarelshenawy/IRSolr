@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8babc93035095a9002f263df953356d27ac14d6f6fa3d9a3011d3e7baecbc563",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Guadeloupe_creole_2010-03-30.JPG/220px-Guadeloupe_creole_2010-03-30.JPG",
+			"previous": " ",
+			"after": " A creole language or simply a creole is a stable natural language that has developed from a pidgin i e a simplified version of a language Creoles differ from pidgins because creoles have been nativized by children as their primary language with the result that they have features of natural languages that are normally missing from pidgins which are not anyone s first language ",
+			"after_weights": " A|1 creole|0.98438 language|0.96875 or|0.95312 simply|0.9375 a|0.92188 creole|0.90625 is|0.89062 a|0.875 stable|0.85938 natural|0.84375 language|0.82812 that|0.8125 has|0.79688 developed|0.78125 from|0.76562 a|0.75 pidgin|0.73438 i|0.71875 e|0.70312 a|0.6875 simplified|0.67188 version|0.65625 of|0.64062 a|0.625 language|0.60938 Creoles|0.59375 differ|0.57812 from|0.5625 pidgins|0.54688 because|0.53125 creoles|0.51562 have|0.5 been|0.48438 nativized|0.46875 by|0.45312 children|0.4375 as|0.42188 their|0.40625 primary|0.39062 language|0.375 with|0.35938 the|0.34375 result|0.32812 that|0.3125 they|0.29688 have|0.28125 features|0.26562 of|0.25 natural|0.23438 languages|0.21875 that|0.20312 are|0.1875 normally|0.17188 missing|0.15625 from|0.14062 pidgins|0.125 which|0.10938 are|0.09375 not|0.078125 anyone|0.0625 s|0.046875 first|0.03125 language|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

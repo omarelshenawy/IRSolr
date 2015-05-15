@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fbe90b33ecf5537c3bde313505d25d3eb82372d029cde07e099022db23b836c0",
+			"url": "https://upload.wikimedia.org/math/c/1/d/c1d6b4681168a7a1bb7459c179166f89.png",
+			"previous": " A Bayesian interval estimate is called a credible interval Using much of the same notation as above the definition of a credible interval for the unknown true value of is for a given 22 ",
+			"after": " Here is used to emphasize that the unknown value of is being treated as a random variable The definitions of the two types of intervals may be compared as follows ",
+			"after_weights": " Here|1 is|0.96667 used|0.93333 to|0.9 emphasize|0.86667 that|0.83333 the|0.8 unknown|0.76667 value|0.73333 of|0.7 is|0.66667 being|0.63333 treated|0.6 as|0.56667 a|0.53333 random|0.5 variable|0.46667 The|0.43333 definitions|0.4 of|0.36667 the|0.33333 two|0.3 types|0.26667 of|0.23333 intervals|0.2 may|0.16667 be|0.13333 compared|0.1 as|0.066667 follows|0.033333 |0",
+			"previous_weights": " A|0 Bayesian|0.029412 interval|0.058824 estimate|0.088235 is|0.11765 called|0.14706 a|0.17647 credible|0.20588 interval|0.23529 Using|0.26471 much|0.29412 of|0.32353 the|0.35294 same|0.38235 notation|0.41176 as|0.44118 above|0.47059 the|0.5 definition|0.52941 of|0.55882 a|0.58824 credible|0.61765 interval|0.64706 for|0.67647 the|0.70588 unknown|0.73529 true|0.76471 value|0.79412 of|0.82353 is|0.85294 for|0.88235 a|0.91176 given|0.94118 22|0.97059 |1"
+		}
+	}
+}

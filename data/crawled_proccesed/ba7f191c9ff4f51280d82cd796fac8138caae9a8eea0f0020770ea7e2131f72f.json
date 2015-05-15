@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ba7f191c9ff4f51280d82cd796fac8138caae9a8eea0f0020770ea7e2131f72f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/WikidPad_Screenshot.gif/200px-WikidPad_Screenshot.gif",
+			"previous": " There are also wiki applications specifically designed for personal use 5 apps for mobile use 6 and apps for USB stick use 7 Their feature set often differs from traditional wikis examples are ",
+			"after": " Notable examples of such software include ",
+			"after_weights": " Notable|1 examples|0.83333 of|0.66667 such|0.5 software|0.33333 include|0.16667 |0",
+			"previous_weights": " There|0 are|0.030303 also|0.060606 wiki|0.090909 applications|0.12121 specifically|0.15152 designed|0.18182 for|0.21212 personal|0.24242 use|0.27273 5|0.30303 apps|0.33333 for|0.36364 mobile|0.39394 use|0.42424 6|0.45455 and|0.48485 apps|0.51515 for|0.54545 USB|0.57576 stick|0.60606 use|0.63636 7|0.66667 Their|0.69697 feature|0.72727 set|0.75758 often|0.78788 differs|0.81818 from|0.84848 traditional|0.87879 wikis|0.90909 examples|0.93939 are|0.9697 |1"
+		}
+	}
+}

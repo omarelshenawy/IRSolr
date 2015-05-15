@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "33b4f66d9d6962ff8710efc0858243117419fad69022ca4774f715c937bec765",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/180px-Seal_of_the_President_of_the_United_States.svg.png",
+			"previous": " ",
+			"after": " There have been 43 presidents over the history of the United States Grover Cleveland served twice but is counted once here We cover all of their biographies and six more articles relating to the president ",
+			"after_weights": " There|1 have|0.97143 been|0.94286 43|0.91429 presidents|0.88571 over|0.85714 the|0.82857 history|0.8 of|0.77143 the|0.74286 United|0.71429 States|0.68571 Grover|0.65714 Cleveland|0.62857 served|0.6 twice|0.57143 but|0.54286 is|0.51429 counted|0.48571 once|0.45714 here|0.42857 We|0.4 cover|0.37143 all|0.34286 of|0.31429 their|0.28571 biographies|0.25714 and|0.22857 six|0.2 more|0.17143 articles|0.14286 relating|0.11429 to|0.085714 the|0.057143 president|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

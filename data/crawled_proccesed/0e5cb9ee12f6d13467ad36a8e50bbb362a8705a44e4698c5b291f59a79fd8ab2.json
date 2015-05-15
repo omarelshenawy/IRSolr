@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e5cb9ee12f6d13467ad36a8e50bbb362a8705a44e4698c5b291f59a79fd8ab2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kaikoura_whalewatching.JPG/220px-Kaikoura_whalewatching.JPG",
+			"previous": " ",
+			"after": " Tourism is a huge earner for the South Island Popular tourist activities include sightseeing adventure tourism such as glacier climbing and Bungee jumping tramping hiking kayaking and camping Numerous walking and hiking paths such as the Milford Track have huge international recognition ",
+			"after_weights": " Tourism|1 is|0.97619 a|0.95238 huge|0.92857 earner|0.90476 for|0.88095 the|0.85714 South|0.83333 Island|0.80952 Popular|0.78571 tourist|0.7619 activities|0.7381 include|0.71429 sightseeing|0.69048 adventure|0.66667 tourism|0.64286 such|0.61905 as|0.59524 glacier|0.57143 climbing|0.54762 and|0.52381 Bungee|0.5 jumping|0.47619 tramping|0.45238 hiking|0.42857 kayaking|0.40476 and|0.38095 camping|0.35714 Numerous|0.33333 walking|0.30952 and|0.28571 hiking|0.2619 paths|0.2381 such|0.21429 as|0.19048 the|0.16667 Milford|0.14286 Track|0.11905 have|0.095238 huge|0.071429 international|0.047619 recognition|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

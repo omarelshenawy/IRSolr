@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "782c26ec248c289ed2d3a82fe46dfcd21cc719e6eb7de61d5a7ec2a19161eaeb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Louise_Rayner_Chester_Eastgate_Street.jpg/220px-Louise_Rayner_Chester_Eastgate_Street.jpg",
+			"previous": " ",
+			"after": " The major museum in Chester is the Grosvenor Museum which includes a collection of Roman tombstones and an art gallery Associated with the museum is 20 Castle Street in which rooms are furnished in different historical styles 64 The Dewa Roman Experience has hands on exhibits and a reconstructed Roman street One of the blocks in the forecourt of Chester Castle houses the Cheshire Military Museum 65 ",
+			"after_weights": " The|1 major|0.98507 museum|0.97015 in|0.95522 Chester|0.9403 is|0.92537 the|0.91045 Grosvenor|0.89552 Museum|0.8806 which|0.86567 includes|0.85075 a|0.83582 collection|0.8209 of|0.80597 Roman|0.79104 tombstones|0.77612 and|0.76119 an|0.74627 art|0.73134 gallery|0.71642 Associated|0.70149 with|0.68657 the|0.67164 museum|0.65672 is|0.64179 20|0.62687 Castle|0.61194 Street|0.59701 in|0.58209 which|0.56716 rooms|0.55224 are|0.53731 furnished|0.52239 in|0.50746 different|0.49254 historical|0.47761 styles|0.46269 64|0.44776 The|0.43284 Dewa|0.41791 Roman|0.40299 Experience|0.38806 has|0.37313 hands|0.35821 on|0.34328 exhibits|0.32836 and|0.31343 a|0.29851 reconstructed|0.28358 Roman|0.26866 street|0.25373 One|0.23881 of|0.22388 the|0.20896 blocks|0.19403 in|0.1791 the|0.16418 forecourt|0.14925 of|0.13433 Chester|0.1194 Castle|0.10448 houses|0.089552 the|0.074627 Cheshire|0.059701 Military|0.044776 Museum|0.029851 65|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

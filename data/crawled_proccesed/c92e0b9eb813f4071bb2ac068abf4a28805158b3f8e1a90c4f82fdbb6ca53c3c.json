@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c92e0b9eb813f4071bb2ac068abf4a28805158b3f8e1a90c4f82fdbb6ca53c3c",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Padlock-black.svg/75px-Padlock-black.svg.png",
+			"previous": " ",
+			"after": " As outlined at Wikipedia Office actions pages may be protected by Wikimedia Foundation staff in response to issues such as copyright or libel Such actions override community consensus Administrators should not edit or unprotect such pages without permission from Wikimedia Foundation staff A list of pages under the scrutiny of the Wikimedia Foundation can be found here ",
+			"after_weights": " As|1 outlined|0.98246 at|0.96491 Wikipedia|0.94737 Office|0.92982 actions|0.91228 pages|0.89474 may|0.87719 be|0.85965 protected|0.84211 by|0.82456 Wikimedia|0.80702 Foundation|0.78947 staff|0.77193 in|0.75439 response|0.73684 to|0.7193 issues|0.70175 such|0.68421 as|0.66667 copyright|0.64912 or|0.63158 libel|0.61404 Such|0.59649 actions|0.57895 override|0.5614 community|0.54386 consensus|0.52632 Administrators|0.50877 should|0.49123 not|0.47368 edit|0.45614 or|0.4386 unprotect|0.42105 such|0.40351 pages|0.38596 without|0.36842 permission|0.35088 from|0.33333 Wikimedia|0.31579 Foundation|0.29825 staff|0.2807 A|0.26316 list|0.24561 of|0.22807 pages|0.21053 under|0.19298 the|0.17544 scrutiny|0.15789 of|0.14035 the|0.12281 Wikimedia|0.10526 Foundation|0.087719 can|0.070175 be|0.052632 found|0.035088 here|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

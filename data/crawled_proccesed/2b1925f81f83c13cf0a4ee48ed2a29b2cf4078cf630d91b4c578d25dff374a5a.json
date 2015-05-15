@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2b1925f81f83c13cf0a4ee48ed2a29b2cf4078cf630d91b4c578d25dff374a5a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Broadband_Affordability.png/400px-Broadband_Affordability.png",
+			"previous": " ",
+			"after": " The term broadband includes a broad range of technologies all of which provide higher data rate access to the Internet These technologies use wires or cables in contrast to wireless broadband described later ",
+			"after_weights": " The|1 term|0.9697 broadband|0.93939 includes|0.90909 a|0.87879 broad|0.84848 range|0.81818 of|0.78788 technologies|0.75758 all|0.72727 of|0.69697 which|0.66667 provide|0.63636 higher|0.60606 data|0.57576 rate|0.54545 access|0.51515 to|0.48485 the|0.45455 Internet|0.42424 These|0.39394 technologies|0.36364 use|0.33333 wires|0.30303 or|0.27273 cables|0.24242 in|0.21212 contrast|0.18182 to|0.15152 wireless|0.12121 broadband|0.090909 described|0.060606 later|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

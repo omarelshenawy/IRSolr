@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ee2d01cb2e456cfe215ebfff0c3c569d7e89016435c0028793d4914403a8c6f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/UNESCO_Tag_der_Muttersprache_2010.png/220px-UNESCO_Tag_der_Muttersprache_2010.png",
+			"previous": " ",
+			"after": " A multilingual person is someone who can communicate in more than one language either actively through speaking writing or signing or passively through listening reading or perceiving More specifically the terms bilingual and trilingual are used to describe comparable situations in which two or three languages are involved A multilingual person is generally referred to as a polyglot ",
+			"after_weights": " A|1 multilingual|0.98276 person|0.96552 is|0.94828 someone|0.93103 who|0.91379 can|0.89655 communicate|0.87931 in|0.86207 more|0.84483 than|0.82759 one|0.81034 language|0.7931 either|0.77586 actively|0.75862 through|0.74138 speaking|0.72414 writing|0.7069 or|0.68966 signing|0.67241 or|0.65517 passively|0.63793 through|0.62069 listening|0.60345 reading|0.58621 or|0.56897 perceiving|0.55172 More|0.53448 specifically|0.51724 the|0.5 terms|0.48276 bilingual|0.46552 and|0.44828 trilingual|0.43103 are|0.41379 used|0.39655 to|0.37931 describe|0.36207 comparable|0.34483 situations|0.32759 in|0.31034 which|0.2931 two|0.27586 or|0.25862 three|0.24138 languages|0.22414 are|0.2069 involved|0.18966 A|0.17241 multilingual|0.15517 person|0.13793 is|0.12069 generally|0.10345 referred|0.086207 to|0.068966 as|0.051724 a|0.034483 polyglot|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

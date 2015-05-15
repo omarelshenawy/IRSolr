@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "43e178918a77bda492d60badb7cd4d65f1966ee5ba44c2a81a1c5e7f9680c6eb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Warrington_town_hall.jpg/250px-Warrington_town_hall.jpg",
+			"previous": " The Manchester Japanese School Manchesut Nihonjin Hosh Jugy K a weekend Japanese educational programme is held at the Language Centre at Lymm High School 17 ",
+			"after": " Sites of interest in Warrington include ",
+			"after_weights": " Sites|1 of|0.83333 interest|0.66667 in|0.5 Warrington|0.33333 include|0.16667 |0",
+			"previous_weights": " The|0 Manchester|0.04 Japanese|0.08 School|0.12 Manchesut|0.16 Nihonjin|0.2 Hosh|0.24 Jugy|0.28 K|0.32 a|0.36 weekend|0.4 Japanese|0.44 educational|0.48 programme|0.52 is|0.56 held|0.6 at|0.64 the|0.68 Language|0.72 Centre|0.76 at|0.8 Lymm|0.84 High|0.88 School|0.92 17|0.96 |1"
+		}
+	}
+}

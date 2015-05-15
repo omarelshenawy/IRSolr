@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9945fd096ef1f5bede5d48593d04da1ac677d63b5bb6c9eb6cebc0844ec125ae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Erythema_migrans_-_erythematous_rash_in_Lyme_disease_-_PHIL_9875.jpg/170px-Erythema_migrans_-_erythematous_rash_in_Lyme_disease_-_PHIL_9875.jpg",
+			"previous": " Epidermal nevi neoplasms cysts are skin lesions that develop from the epidermal layer of the skin 8 26 ",
+			"after": " Erythemas are reactive skin conditions in which there is blanchable redness 1 9  Genodermatoses are inherited genetic skin conditions often grouped into three categories chromosomal single gene and polygenetic 64 65 ",
+			"after_weights": " Erythemas|1 are|0.96875 reactive|0.9375 skin|0.90625 conditions|0.875 in|0.84375 which|0.8125 there|0.78125 is|0.75 blanchable|0.71875 redness|0.6875 1|0.65625 9|0.625 |0.59375 Genodermatoses|0.5625 are|0.53125 inherited|0.5 genetic|0.46875 skin|0.4375 conditions|0.40625 often|0.375 grouped|0.34375 into|0.3125 three|0.28125 categories|0.25 chromosomal|0.21875 single|0.1875 gene|0.15625 and|0.125 polygenetic|0.09375 64|0.0625 65|0.03125 |0",
+			"previous_weights": " Epidermal|0 nevi|0.055556 neoplasms|0.11111 cysts|0.16667 are|0.22222 skin|0.27778 lesions|0.33333 that|0.38889 develop|0.44444 from|0.5 the|0.55556 epidermal|0.61111 layer|0.66667 of|0.72222 the|0.77778 skin|0.83333 8|0.88889 26|0.94444 |1"
+		}
+	}
+}

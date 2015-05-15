@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "af733bb3b853735ae6af3b945291034546442dd02d1570770f743587c775e2bf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AbelTasmanNP.jpg/220px-AbelTasmanNP.jpg",
+			"previous": " There are six forest parks in the South Island which are on public land administered by the Department of Conservation ",
+			"after": " The South Island has ten national parks established under the National Parks Act 1980 and which are administered by the Department of Conservation  From north to south the National Parks are ",
+			"after_weights": " The|1 South|0.96875 Island|0.9375 has|0.90625 ten|0.875 national|0.84375 parks|0.8125 established|0.78125 under|0.75 the|0.71875 National|0.6875 Parks|0.65625 Act|0.625 1980|0.59375 and|0.5625 which|0.53125 are|0.5 administered|0.46875 by|0.4375 the|0.40625 Department|0.375 of|0.34375 Conservation|0.3125 |0.28125 From|0.25 north|0.21875 to|0.1875 south|0.15625 the|0.125 National|0.09375 Parks|0.0625 are|0.03125 |0",
+			"previous_weights": " There|0 are|0.05 six|0.1 forest|0.15 parks|0.2 in|0.25 the|0.3 South|0.35 Island|0.4 which|0.45 are|0.5 on|0.55 public|0.6 land|0.65 administered|0.7 by|0.75 the|0.8 Department|0.85 of|0.9 Conservation|0.95 |1"
+		}
+	}
+}

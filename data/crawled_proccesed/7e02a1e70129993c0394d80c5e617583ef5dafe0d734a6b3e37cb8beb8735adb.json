@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e02a1e70129993c0394d80c5e617583ef5dafe0d734a6b3e37cb8beb8735adb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pacific_parlour_car.jpg/220px-Pacific_parlour_car.jpg",
+			"previous": " ",
+			"after": " Sleeper Service rooms are considered First Class on long distance trains Rooms are classified into roomettes bedrooms family bedrooms and accessible bedrooms Included in the price of a room are full meals and attendant service At night attendants convert rooms into sleeping areas with fold down beds and fresh linens Complimentary juice coffee and bottled water are included as well Sleeper car passengers have access to all passenger facilities aboard the train ",
+			"after_weights": " Sleeper|1 Service|0.98611 rooms|0.97222 are|0.95833 considered|0.94444 First|0.93056 Class|0.91667 on|0.90278 long|0.88889 distance|0.875 trains|0.86111 Rooms|0.84722 are|0.83333 classified|0.81944 into|0.80556 roomettes|0.79167 bedrooms|0.77778 family|0.76389 bedrooms|0.75 and|0.73611 accessible|0.72222 bedrooms|0.70833 Included|0.69444 in|0.68056 the|0.66667 price|0.65278 of|0.63889 a|0.625 room|0.61111 are|0.59722 full|0.58333 meals|0.56944 and|0.55556 attendant|0.54167 service|0.52778 At|0.51389 night|0.5 attendants|0.48611 convert|0.47222 rooms|0.45833 into|0.44444 sleeping|0.43056 areas|0.41667 with|0.40278 fold|0.38889 down|0.375 beds|0.36111 and|0.34722 fresh|0.33333 linens|0.31944 Complimentary|0.30556 juice|0.29167 coffee|0.27778 and|0.26389 bottled|0.25 water|0.23611 are|0.22222 included|0.20833 as|0.19444 well|0.18056 Sleeper|0.16667 car|0.15278 passengers|0.13889 have|0.125 access|0.11111 to|0.097222 all|0.083333 passenger|0.069444 facilities|0.055556 aboard|0.041667 the|0.027778 train|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

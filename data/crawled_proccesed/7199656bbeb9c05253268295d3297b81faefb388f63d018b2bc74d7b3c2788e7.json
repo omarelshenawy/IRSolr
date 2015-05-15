@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7199656bbeb9c05253268295d3297b81faefb388f63d018b2bc74d7b3c2788e7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AMT_Train_Vaudreuil.jpg/220px-AMT_Train_Vaudreuil.jpg",
+			"previous": " ",
+			"after": " Montreal based VIA Rail provides rail service to other cities in Canada particularly to Quebec City and Toronto along the Quebec City Windsor Corridor Amtrak the U S national passenger rail system operates its Adirondack daily to New York City All intercity trains and most commuter trains operate out of Central Station ",
+			"after_weights": " Montreal|1 based|0.98077 VIA|0.96154 Rail|0.94231 provides|0.92308 rail|0.90385 service|0.88462 to|0.86538 other|0.84615 cities|0.82692 in|0.80769 Canada|0.78846 particularly|0.76923 to|0.75 Quebec|0.73077 City|0.71154 and|0.69231 Toronto|0.67308 along|0.65385 the|0.63462 Quebec|0.61538 City|0.59615 Windsor|0.57692 Corridor|0.55769 Amtrak|0.53846 the|0.51923 U|0.5 S|0.48077 national|0.46154 passenger|0.44231 rail|0.42308 system|0.40385 operates|0.38462 its|0.36538 Adirondack|0.34615 daily|0.32692 to|0.30769 New|0.28846 York|0.26923 City|0.25 All|0.23077 intercity|0.21154 trains|0.19231 and|0.17308 most|0.15385 commuter|0.13462 trains|0.11538 operate|0.096154 out|0.076923 of|0.057692 Central|0.038462 Station|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

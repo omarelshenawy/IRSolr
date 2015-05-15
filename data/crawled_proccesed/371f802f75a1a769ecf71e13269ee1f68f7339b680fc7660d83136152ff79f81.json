@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "371f802f75a1a769ecf71e13269ee1f68f7339b680fc7660d83136152ff79f81",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Wiki_discussion_tab.png",
+			"previous": " ",
+			"after": " If you have a question concern or comment related to improving a Wikipedia article put a note on that article s talk page  You get to the talk page by clicking the Talk tab at the top of the article If the tab shows up in red it just means no one has commented yet feel free to start the discussion ",
+			"after_weights": " If|1 you|0.98387 have|0.96774 a|0.95161 question|0.93548 concern|0.91935 or|0.90323 comment|0.8871 related|0.87097 to|0.85484 improving|0.83871 a|0.82258 Wikipedia|0.80645 article|0.79032 put|0.77419 a|0.75806 note|0.74194 on|0.72581 that|0.70968 article|0.69355 s|0.67742 talk|0.66129 page|0.64516 |0.62903 You|0.6129 get|0.59677 to|0.58065 the|0.56452 talk|0.54839 page|0.53226 by|0.51613 clicking|0.5 the|0.48387 Talk|0.46774 tab|0.45161 at|0.43548 the|0.41935 top|0.40323 of|0.3871 the|0.37097 article|0.35484 If|0.33871 the|0.32258 tab|0.30645 shows|0.29032 up|0.27419 in|0.25806 red|0.24194 it|0.22581 just|0.20968 means|0.19355 no|0.17742 one|0.16129 has|0.14516 commented|0.12903 yet|0.1129 feel|0.096774 free|0.080645 to|0.064516 start|0.048387 the|0.032258 discussion|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "85c5421ea0ddb938dd153f55d5e400368391ee2fe8d74167e5fe57da7a485401",
+			"url": "https://upload.wikimedia.org/math/d/1/f/d1fb0f2a42781f6dd88d4635e2db41c4.png",
+			"previous": " The differential equation is solved by direct integration  saying that the growth rate of x at time t is proportional to the value of x t and it has the initial value",
+			"after": " so that For a nonlinear variation of this growth model see logistic function  The difference equation",
+			"after_weights": " so|1 that|0.9375 For|0.875 a|0.8125 nonlinear|0.75 variation|0.6875 of|0.625 this|0.5625 growth|0.5 model|0.4375 see|0.375 logistic|0.3125 function|0.25 |0.1875 The|0.125 difference|0.0625 equation|0",
+			"previous_weights": " The|0 differential|0.03125 equation|0.0625 is|0.09375 solved|0.125 by|0.15625 direct|0.1875 integration|0.21875 |0.25 saying|0.28125 that|0.3125 the|0.34375 growth|0.375 rate|0.40625 of|0.4375 x|0.46875 at|0.5 time|0.53125 t|0.5625 is|0.59375 proportional|0.625 to|0.65625 the|0.6875 value|0.71875 of|0.75 x|0.78125 t|0.8125 and|0.84375 it|0.875 has|0.90625 the|0.9375 initial|0.96875 value|1"
+		}
+	}
+}

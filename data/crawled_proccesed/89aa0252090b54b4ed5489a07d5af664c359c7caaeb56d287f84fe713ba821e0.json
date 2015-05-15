@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "89aa0252090b54b4ed5489a07d5af664c359c7caaeb56d287f84fe713ba821e0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Email.svg/400px-Email.svg.png",
+			"previous": " Despite the complex format of some such addresses in this case an Internet email address to route mail to a user with a bang path address at a UUCP host they did lead to the universal connectivity that is the key feature of modern email ",
+			"after": " This server may need to forward the message to other MTAs before the message reaches the final message delivery agent MDA ",
+			"after_weights": " This|1 server|0.95238 may|0.90476 need|0.85714 to|0.80952 forward|0.7619 the|0.71429 message|0.66667 to|0.61905 other|0.57143 MTAs|0.52381 before|0.47619 the|0.42857 message|0.38095 reaches|0.33333 the|0.28571 final|0.2381 message|0.19048 delivery|0.14286 agent|0.095238 MDA|0.047619 |0",
+			"previous_weights": " Despite|0 the|0.022222 complex|0.044444 format|0.066667 of|0.088889 some|0.11111 such|0.13333 addresses|0.15556 in|0.17778 this|0.2 case|0.22222 an|0.24444 Internet|0.26667 email|0.28889 address|0.31111 to|0.33333 route|0.35556 mail|0.37778 to|0.4 a|0.42222 user|0.44444 with|0.46667 a|0.48889 bang|0.51111 path|0.53333 address|0.55556 at|0.57778 a|0.6 UUCP|0.62222 host|0.64444 they|0.66667 did|0.68889 lead|0.71111 to|0.73333 the|0.75556 universal|0.77778 connectivity|0.8 that|0.82222 is|0.84444 the|0.86667 key|0.88889 feature|0.91111 of|0.93333 modern|0.95556 email|0.97778 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a41b35465a74a0267f58d60a3ac00aa649526973d45b21df0d4b876b25dafbe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Transfigurationbloch.jpg/220px-Transfigurationbloch.jpg",
+			"previous": " ",
+			"after": " At about the middle of each of the three Synoptic Gospels two related episodes mark a turning point in the narrative the Confession of Peter and the Transfiguration of Jesus 134 162 These events mark the beginnings of the gradual disclosure of the identity of Jesus to his disciples and his prediction of his own suffering and death 119 120 134 ",
+			"after_weights": " At|1 about|0.98361 the|0.96721 middle|0.95082 of|0.93443 each|0.91803 of|0.90164 the|0.88525 three|0.86885 Synoptic|0.85246 Gospels|0.83607 two|0.81967 related|0.80328 episodes|0.78689 mark|0.77049 a|0.7541 turning|0.7377 point|0.72131 in|0.70492 the|0.68852 narrative|0.67213 the|0.65574 Confession|0.63934 of|0.62295 Peter|0.60656 and|0.59016 the|0.57377 Transfiguration|0.55738 of|0.54098 Jesus|0.52459 134|0.5082 162|0.4918 These|0.47541 events|0.45902 mark|0.44262 the|0.42623 beginnings|0.40984 of|0.39344 the|0.37705 gradual|0.36066 disclosure|0.34426 of|0.32787 the|0.31148 identity|0.29508 of|0.27869 Jesus|0.2623 to|0.2459 his|0.22951 disciples|0.21311 and|0.19672 his|0.18033 prediction|0.16393 of|0.14754 his|0.13115 own|0.11475 suffering|0.098361 and|0.081967 death|0.065574 119|0.04918 120|0.032787 134|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

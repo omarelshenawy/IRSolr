@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c6ad749fe71afbc99320ddbbd1e53a063ed0cf1ff1d8c9cd369a0303c83e51df",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Rfam_alignment2.PNG/220px-Rfam_alignment2.PNG",
+			"previous": " ",
+			"after": " In the database the information of the secondary structure and the primary sequence represented by the MSA is combined in statistical models called profile stochastic context free grammars SCFGs also known as covariance models These are analogous to hidden Markov models used for protein family annotation in the Pfam database 1 Each family in the database is represented by two multiple sequence alignments in Stockholm format and a SCFG ",
+			"after_weights": " In|1 the|0.98551 database|0.97101 the|0.95652 information|0.94203 of|0.92754 the|0.91304 secondary|0.89855 structure|0.88406 and|0.86957 the|0.85507 primary|0.84058 sequence|0.82609 represented|0.81159 by|0.7971 the|0.78261 MSA|0.76812 is|0.75362 combined|0.73913 in|0.72464 statistical|0.71014 models|0.69565 called|0.68116 profile|0.66667 stochastic|0.65217 context|0.63768 free|0.62319 grammars|0.6087 SCFGs|0.5942 also|0.57971 known|0.56522 as|0.55072 covariance|0.53623 models|0.52174 These|0.50725 are|0.49275 analogous|0.47826 to|0.46377 hidden|0.44928 Markov|0.43478 models|0.42029 used|0.4058 for|0.3913 protein|0.37681 family|0.36232 annotation|0.34783 in|0.33333 the|0.31884 Pfam|0.30435 database|0.28986 1|0.27536 Each|0.26087 family|0.24638 in|0.23188 the|0.21739 database|0.2029 is|0.18841 represented|0.17391 by|0.15942 two|0.14493 multiple|0.13043 sequence|0.11594 alignments|0.10145 in|0.086957 Stockholm|0.072464 format|0.057971 and|0.043478 a|0.028986 SCFG|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

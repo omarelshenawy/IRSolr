@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5dcb6c26000f372e99ef9c5e25ac2d681bc785a4c296adb6d613c0ac58d6bd5c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PlotEditorsOR.png/220px-PlotEditorsOR.png",
+			"previous": "  15  The table below contains a details sorted by the number of edits per article   14  The table below contains details of the official Wikipedia statistics under the auspices of the Wikimedia Foundation for Oriya language the given information is the current numbers Test Wikipedias are listed at the Wikimedia Incubator Wiki project ",
+			"after": " Wikipedia Report Card summaries for Oriya  17 ",
+			"after_weights": " Wikipedia|1 Report|0.875 Card|0.75 summaries|0.625 for|0.5 Oriya|0.375 |0.25 17|0.125 |0",
+			"previous_weights": " |0 15|0.017241 |0.034483 The|0.051724 table|0.068966 below|0.086207 contains|0.10345 a|0.12069 details|0.13793 sorted|0.15517 by|0.17241 the|0.18966 number|0.2069 of|0.22414 edits|0.24138 per|0.25862 article|0.27586 |0.2931 |0.31034 14|0.32759 |0.34483 The|0.36207 table|0.37931 below|0.39655 contains|0.41379 details|0.43103 of|0.44828 the|0.46552 official|0.48276 Wikipedia|0.5 statistics|0.51724 under|0.53448 the|0.55172 auspices|0.56897 of|0.58621 the|0.60345 Wikimedia|0.62069 Foundation|0.63793 for|0.65517 Oriya|0.67241 language|0.68966 the|0.7069 given|0.72414 information|0.74138 is|0.75862 the|0.77586 current|0.7931 numbers|0.81034 Test|0.82759 Wikipedias|0.84483 are|0.86207 listed|0.87931 at|0.89655 the|0.91379 Wikimedia|0.93103 Incubator|0.94828 Wiki|0.96552 project|0.98276 |1"
+		}
+	}
+}

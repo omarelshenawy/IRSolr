@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f8f813e26afaeae16db9fdfaffa0927aaa1ab22f881820c507a4d81fd6b58e84",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/James_I_and_his_royal_progeny_by_Willem_van_de_Passe_cropped.jpg/220px-James_I_and_his_royal_progeny_by_Willem_van_de_Passe_cropped.jpg",
+			"previous": " As royal badges James used the Tudor rose the thistle for Scotland first used by James III of Scotland the Tudor rose dimidiated with the thistle ensigned with the royal crown a harp for Ireland and a fleur de lys for France 169 ",
+			"after": " James s queen Anne of Denmark gave birth to seven children who survived beyond birth of which three reached adulthood 170 ",
+			"after_weights": " James|1 s|0.95238 queen|0.90476 Anne|0.85714 of|0.80952 Denmark|0.7619 gave|0.71429 birth|0.66667 to|0.61905 seven|0.57143 children|0.52381 who|0.47619 survived|0.42857 beyond|0.38095 birth|0.33333 of|0.28571 which|0.2381 three|0.19048 reached|0.14286 adulthood|0.095238 170|0.047619 |0",
+			"previous_weights": " As|0 royal|0.023256 badges|0.046512 James|0.069767 used|0.093023 the|0.11628 Tudor|0.13953 rose|0.16279 the|0.18605 thistle|0.2093 for|0.23256 Scotland|0.25581 first|0.27907 used|0.30233 by|0.32558 James|0.34884 III|0.37209 of|0.39535 Scotland|0.4186 the|0.44186 Tudor|0.46512 rose|0.48837 dimidiated|0.51163 with|0.53488 the|0.55814 thistle|0.5814 ensigned|0.60465 with|0.62791 the|0.65116 royal|0.67442 crown|0.69767 a|0.72093 harp|0.74419 for|0.76744 Ireland|0.7907 and|0.81395 a|0.83721 fleur|0.86047 de|0.88372 lys|0.90698 for|0.93023 France|0.95349 169|0.97674 |1"
+		}
+	}
+}

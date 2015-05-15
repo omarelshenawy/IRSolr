@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f8f958864d4105726dbb2872b721ebe46263423bcb169c6021aa9bc10d19c64",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/De_Zoeker_LCD.jpg/500px-De_Zoeker_LCD.jpg",
+			"previous": " Portal Geography Featured picture 19",
+			"after": " De Zoeker The Seeker is a windmill located in the Zaanse Schans Zaanstad Netherlands used to extract oil from seeds Built in 1672 it is the only such mill still in operation and is one of five remaining oil mills in the area ",
+			"after_weights": " De|1 Zoeker|0.97674 The|0.95349 Seeker|0.93023 is|0.90698 a|0.88372 windmill|0.86047 located|0.83721 in|0.81395 the|0.7907 Zaanse|0.76744 Schans|0.74419 Zaanstad|0.72093 Netherlands|0.69767 used|0.67442 to|0.65116 extract|0.62791 oil|0.60465 from|0.5814 seeds|0.55814 Built|0.53488 in|0.51163 1672|0.48837 it|0.46512 is|0.44186 the|0.4186 only|0.39535 such|0.37209 mill|0.34884 still|0.32558 in|0.30233 operation|0.27907 and|0.25581 is|0.23256 one|0.2093 of|0.18605 five|0.16279 remaining|0.13953 oil|0.11628 mills|0.093023 in|0.069767 the|0.046512 area|0.023256 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 19|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9318ca657c8cc61d052f7cfab47967a79bda25c07b6124f5d523e7e63db36b2c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Side_p%C3%A5_Wikikilden.png/220px-Side_p%C3%A5_Wikikilden.png",
+			"previous": " ",
+			"after": " A MediaWiki extension called ProofreadPage was developed for Wikisource by developer ThomasV to improve the vetting of transcriptions by the project This displays pages of scanned works side by side with the text relating to that page allowing the text to be proofread and its accuracy later verified independently by any other editor 10 11 12 Once a book or other text has been scanned the raw images can be modified with image processing software to correct for page rotations and other problems The retouched images can then be converted into a PDF or DjVu file and uploaded to either Wikisource or Wikimedia Commons 10 ",
+			"after_weights": " A|1 MediaWiki|0.99048 extension|0.98095 called|0.97143 ProofreadPage|0.9619 was|0.95238 developed|0.94286 for|0.93333 Wikisource|0.92381 by|0.91429 developer|0.90476 ThomasV|0.89524 to|0.88571 improve|0.87619 the|0.86667 vetting|0.85714 of|0.84762 transcriptions|0.8381 by|0.82857 the|0.81905 project|0.80952 This|0.8 displays|0.79048 pages|0.78095 of|0.77143 scanned|0.7619 works|0.75238 side|0.74286 by|0.73333 side|0.72381 with|0.71429 the|0.70476 text|0.69524 relating|0.68571 to|0.67619 that|0.66667 page|0.65714 allowing|0.64762 the|0.6381 text|0.62857 to|0.61905 be|0.60952 proofread|0.6 and|0.59048 its|0.58095 accuracy|0.57143 later|0.5619 verified|0.55238 independently|0.54286 by|0.53333 any|0.52381 other|0.51429 editor|0.50476 10|0.49524 11|0.48571 12|0.47619 Once|0.46667 a|0.45714 book|0.44762 or|0.4381 other|0.42857 text|0.41905 has|0.40952 been|0.4 scanned|0.39048 the|0.38095 raw|0.37143 images|0.3619 can|0.35238 be|0.34286 modified|0.33333 with|0.32381 image|0.31429 processing|0.30476 software|0.29524 to|0.28571 correct|0.27619 for|0.26667 page|0.25714 rotations|0.24762 and|0.2381 other|0.22857 problems|0.21905 The|0.20952 retouched|0.2 images|0.19048 can|0.18095 then|0.17143 be|0.1619 converted|0.15238 into|0.14286 a|0.13333 PDF|0.12381 or|0.11429 DjVu|0.10476 file|0.095238 and|0.085714 uploaded|0.07619 to|0.066667 either|0.057143 Wikisource|0.047619 or|0.038095 Wikimedia|0.028571 Commons|0.019048 10|0.0095238 |0",
+			"previous_weights": " "
+		}
+	}
+}

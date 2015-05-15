@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "75abd0c5b722b8ad846df7a18d5321d91cd21a9ff92bbc9353a4338eea295031",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Giza_pyramid_complex_%28map%29.svg/300px-Giza_pyramid_complex_%28map%29.svg.png",
+			"previous": " ",
+			"after": " Giza is the location of the Pyramid of Khufu also known as the Great Pyramid and the Pyramid of Cheops the somewhat smaller Pyramid of Khafre or Kephren the relatively modest sized Pyramid of Menkaure or Mykerinus along with a number of smaller satellite edifices known as Queen s pyramids and the Great Sphinx ",
+			"after_weights": " Giza|1 is|0.98148 the|0.96296 location|0.94444 of|0.92593 the|0.90741 Pyramid|0.88889 of|0.87037 Khufu|0.85185 also|0.83333 known|0.81481 as|0.7963 the|0.77778 Great|0.75926 Pyramid|0.74074 and|0.72222 the|0.7037 Pyramid|0.68519 of|0.66667 Cheops|0.64815 the|0.62963 somewhat|0.61111 smaller|0.59259 Pyramid|0.57407 of|0.55556 Khafre|0.53704 or|0.51852 Kephren|0.5 the|0.48148 relatively|0.46296 modest|0.44444 sized|0.42593 Pyramid|0.40741 of|0.38889 Menkaure|0.37037 or|0.35185 Mykerinus|0.33333 along|0.31481 with|0.2963 a|0.27778 number|0.25926 of|0.24074 smaller|0.22222 satellite|0.2037 edifices|0.18519 known|0.16667 as|0.14815 Queen|0.12963 s|0.11111 pyramids|0.092593 and|0.074074 the|0.055556 Great|0.037037 Sphinx|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fe34a8fda2acc050eab4a759bdcfd53b496c2cac507639f2a1123db62431c551",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/220px-The_Great_Wave_off_Kanagawa.jpg",
+			"previous": " Religious Islamic art often forbids depictions of people as they may be misused as idols Religious ideas are thus often represented through geometric designs instead However there are many Islamic paintings which display religious themes and scenes of stories common among the three main monotheistic faiths of Islam Christianity and Judaism ",
+			"after": " Eastern civilization broadly includes Asia and it also includes a complex tradition of art making One Eastern art history survey textbook is John Laplante s Asian Art It divides the field by nation with units on India China and Japan ",
+			"after_weights": " Eastern|1 civilization|0.975 broadly|0.95 includes|0.925 Asia|0.9 and|0.875 it|0.85 also|0.825 includes|0.8 a|0.775 complex|0.75 tradition|0.725 of|0.7 art|0.675 making|0.65 One|0.625 Eastern|0.6 art|0.575 history|0.55 survey|0.525 textbook|0.5 is|0.475 John|0.45 Laplante|0.425 s|0.4 Asian|0.375 Art|0.35 It|0.325 divides|0.3 the|0.275 field|0.25 by|0.225 nation|0.2 with|0.175 units|0.15 on|0.125 India|0.1 China|0.075 and|0.05 Japan|0.025 |0",
+			"previous_weights": " Religious|0 Islamic|0.019608 art|0.039216 often|0.058824 forbids|0.078431 depictions|0.098039 of|0.11765 people|0.13725 as|0.15686 they|0.17647 may|0.19608 be|0.21569 misused|0.23529 as|0.2549 idols|0.27451 Religious|0.29412 ideas|0.31373 are|0.33333 thus|0.35294 often|0.37255 represented|0.39216 through|0.41176 geometric|0.43137 designs|0.45098 instead|0.47059 However|0.4902 there|0.5098 are|0.52941 many|0.54902 Islamic|0.56863 paintings|0.58824 which|0.60784 display|0.62745 religious|0.64706 themes|0.66667 and|0.68627 scenes|0.70588 of|0.72549 stories|0.7451 common|0.76471 among|0.78431 the|0.80392 three|0.82353 main|0.84314 monotheistic|0.86275 faiths|0.88235 of|0.90196 Islam|0.92157 Christianity|0.94118 and|0.96078 Judaism|0.98039 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e47724287bd53759d7b3232b2e1d7782a18518886257b25c2bb638decb84bd9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Conversations-Lexicon-1812.png/300px-Conversations-Lexicon-1812.png",
+			"previous": " In 1808 the rights to the publication were bought by Friedrich Arnold Brockhaus who paid 1 800 thalers ",
+			"after": " Thirteen editions were issued during the 19th century The articles often very brief were considered excellent and trustworthy especially on German subjects gave references to the best books and included biographies of living men ",
+			"after_weights": " Thirteen|1 editions|0.97059 were|0.94118 issued|0.91176 during|0.88235 the|0.85294 19th|0.82353 century|0.79412 The|0.76471 articles|0.73529 often|0.70588 very|0.67647 brief|0.64706 were|0.61765 considered|0.58824 excellent|0.55882 and|0.52941 trustworthy|0.5 especially|0.47059 on|0.44118 German|0.41176 subjects|0.38235 gave|0.35294 references|0.32353 to|0.29412 the|0.26471 best|0.23529 books|0.20588 and|0.17647 included|0.14706 biographies|0.11765 of|0.088235 living|0.058824 men|0.029412 |0",
+			"previous_weights": " In|0 1808|0.055556 the|0.11111 rights|0.16667 to|0.22222 the|0.27778 publication|0.33333 were|0.38889 bought|0.44444 by|0.5 Friedrich|0.55556 Arnold|0.61111 Brockhaus|0.66667 who|0.72222 paid|0.77778 1|0.83333 800|0.88889 thalers|0.94444 |1"
+		}
+	}
+}

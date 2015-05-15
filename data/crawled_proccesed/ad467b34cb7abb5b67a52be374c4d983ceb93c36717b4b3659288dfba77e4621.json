@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ad467b34cb7abb5b67a52be374c4d983ceb93c36717b4b3659288dfba77e4621",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LAMP_software_bundle.svg/300px-LAMP_software_bundle.svg.png",
+			"previous": " ",
+			"after": " Squid is a caching and forwarding web proxy It has a wide variety of uses from speeding up a web server by caching repeated requests to caching web DNS and other computer network lookups for a group of people sharing network resources to aiding security by filtering traffic Although primarily used for HTTP and FTP Squid includes limited support for several other protocols including TLS SSL Internet Gopher and HTTPS 3 ",
+			"after_weights": " Squid|1 is|0.98592 a|0.97183 caching|0.95775 and|0.94366 forwarding|0.92958 web|0.91549 proxy|0.90141 It|0.88732 has|0.87324 a|0.85915 wide|0.84507 variety|0.83099 of|0.8169 uses|0.80282 from|0.78873 speeding|0.77465 up|0.76056 a|0.74648 web|0.73239 server|0.71831 by|0.70423 caching|0.69014 repeated|0.67606 requests|0.66197 to|0.64789 caching|0.6338 web|0.61972 DNS|0.60563 and|0.59155 other|0.57746 computer|0.56338 network|0.5493 lookups|0.53521 for|0.52113 a|0.50704 group|0.49296 of|0.47887 people|0.46479 sharing|0.4507 network|0.43662 resources|0.42254 to|0.40845 aiding|0.39437 security|0.38028 by|0.3662 filtering|0.35211 traffic|0.33803 Although|0.32394 primarily|0.30986 used|0.29577 for|0.28169 HTTP|0.26761 and|0.25352 FTP|0.23944 Squid|0.22535 includes|0.21127 limited|0.19718 support|0.1831 for|0.16901 several|0.15493 other|0.14085 protocols|0.12676 including|0.11268 TLS|0.098592 SSL|0.084507 Internet|0.070423 Gopher|0.056338 and|0.042254 HTTPS|0.028169 3|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

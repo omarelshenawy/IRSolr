@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "125dfcb509faa069118b0eeb97eea64721c2ad96f3fe1356f6389b0176029520",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/LPA_at_night.jpg/350px-LPA_at_night.jpg",
+			"previous": " ",
+			"after": " The New York Public Library for the Performing Arts Dorothy and Lewis B Cullman Center at 40 Lincoln Center Plaza is located in Manhattan New York City at the Lincoln Center for the Performing Arts on the Upper West Side between the Metropolitan Opera House and the Vivian Beaumont Theater It houses one of the world s largest collections of materials relating to the performing arts 1 2 3 It is one of the four research centers of the New York Public Library s Research library system and it is also one of the branch libraries ",
+			"after_weights": " The|1 New|0.98958 York|0.97917 Public|0.96875 Library|0.95833 for|0.94792 the|0.9375 Performing|0.92708 Arts|0.91667 Dorothy|0.90625 and|0.89583 Lewis|0.88542 B|0.875 Cullman|0.86458 Center|0.85417 at|0.84375 40|0.83333 Lincoln|0.82292 Center|0.8125 Plaza|0.80208 is|0.79167 located|0.78125 in|0.77083 Manhattan|0.76042 New|0.75 York|0.73958 City|0.72917 at|0.71875 the|0.70833 Lincoln|0.69792 Center|0.6875 for|0.67708 the|0.66667 Performing|0.65625 Arts|0.64583 on|0.63542 the|0.625 Upper|0.61458 West|0.60417 Side|0.59375 between|0.58333 the|0.57292 Metropolitan|0.5625 Opera|0.55208 House|0.54167 and|0.53125 the|0.52083 Vivian|0.51042 Beaumont|0.5 Theater|0.48958 It|0.47917 houses|0.46875 one|0.45833 of|0.44792 the|0.4375 world|0.42708 s|0.41667 largest|0.40625 collections|0.39583 of|0.38542 materials|0.375 relating|0.36458 to|0.35417 the|0.34375 performing|0.33333 arts|0.32292 1|0.3125 2|0.30208 3|0.29167 It|0.28125 is|0.27083 one|0.26042 of|0.25 the|0.23958 four|0.22917 research|0.21875 centers|0.20833 of|0.19792 the|0.1875 New|0.17708 York|0.16667 Public|0.15625 Library|0.14583 s|0.13542 Research|0.125 library|0.11458 system|0.10417 and|0.09375 it|0.083333 is|0.072917 also|0.0625 one|0.052083 of|0.041667 the|0.03125 branch|0.020833 libraries|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

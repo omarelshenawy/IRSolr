@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "134d6a7be1cc168cf558c8ee339e3d826b8ee60f53cd20898b7da41ebcf89931",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Defense.gov_News_Photo_010917-D-9880W-034.jpg/220px-Defense.gov_News_Photo_010917-D-9880W-034.jpg",
+			"previous": " ",
+			"after": " Though Bush originally outlined an ambitious domestic agenda his priorities were significantly altered following the September 11 terrorist attacks in 2001 100 Wars were waged in Afghanistan and Iraq with significant domestic debates regarding immigration healthcare Social Security economic policy and treatment of terrorist detainees Over an eight year period Bush s once high approval ratings 101 steadily declined while his disapproval numbers increased significantly 102 In 2007 the United States entered the longest post World War II recession 103 ",
+			"after_weights": " Though|1 Bush|0.9875 originally|0.975 outlined|0.9625 an|0.95 ambitious|0.9375 domestic|0.925 agenda|0.9125 his|0.9 priorities|0.8875 were|0.875 significantly|0.8625 altered|0.85 following|0.8375 the|0.825 September|0.8125 11|0.8 terrorist|0.7875 attacks|0.775 in|0.7625 2001|0.75 100|0.7375 Wars|0.725 were|0.7125 waged|0.7 in|0.6875 Afghanistan|0.675 and|0.6625 Iraq|0.65 with|0.6375 significant|0.625 domestic|0.6125 debates|0.6 regarding|0.5875 immigration|0.575 healthcare|0.5625 Social|0.55 Security|0.5375 economic|0.525 policy|0.5125 and|0.5 treatment|0.4875 of|0.475 terrorist|0.4625 detainees|0.45 Over|0.4375 an|0.425 eight|0.4125 year|0.4 period|0.3875 Bush|0.375 s|0.3625 once|0.35 high|0.3375 approval|0.325 ratings|0.3125 101|0.3 steadily|0.2875 declined|0.275 while|0.2625 his|0.25 disapproval|0.2375 numbers|0.225 increased|0.2125 significantly|0.2 102|0.1875 In|0.175 2007|0.1625 the|0.15 United|0.1375 States|0.125 entered|0.1125 the|0.1 longest|0.0875 post|0.075 World|0.0625 War|0.05 II|0.0375 recession|0.025 103|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bd942c207a4685d25e833433b0abb472731a28d5d439e9760a7879483c6419ea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/C%C3%ADrculo_de_Bellas_Artes_%28Madrid%29_06.jpg/160px-C%C3%ADrculo_de_Bellas_Artes_%28Madrid%29_06.jpg",
+			"previous": " Major cultural centres organize parallel cultural events and they are housed in unique buildings ",
+			"after": " Centrocentro is an exhibition space in Cibeles Palace formerly the Palace of Communications and now the City Hall Two social areas have been set up and offer catalogues and publications about current exhibitions and cultural events along the Art Walk Near these social areas are two large street maps showing the 59 institutions monuments and buildings of special interest that make the Art Walk such a diverse experience ",
+			"after_weights": " Centrocentro|1 is|0.98529 an|0.97059 exhibition|0.95588 space|0.94118 in|0.92647 Cibeles|0.91176 Palace|0.89706 formerly|0.88235 the|0.86765 Palace|0.85294 of|0.83824 Communications|0.82353 and|0.80882 now|0.79412 the|0.77941 City|0.76471 Hall|0.75 Two|0.73529 social|0.72059 areas|0.70588 have|0.69118 been|0.67647 set|0.66176 up|0.64706 and|0.63235 offer|0.61765 catalogues|0.60294 and|0.58824 publications|0.57353 about|0.55882 current|0.54412 exhibitions|0.52941 and|0.51471 cultural|0.5 events|0.48529 along|0.47059 the|0.45588 Art|0.44118 Walk|0.42647 Near|0.41176 these|0.39706 social|0.38235 areas|0.36765 are|0.35294 two|0.33824 large|0.32353 street|0.30882 maps|0.29412 showing|0.27941 the|0.26471 59|0.25 institutions|0.23529 monuments|0.22059 and|0.20588 buildings|0.19118 of|0.17647 special|0.16176 interest|0.14706 that|0.13235 make|0.11765 the|0.10294 Art|0.088235 Walk|0.073529 such|0.058824 a|0.044118 diverse|0.029412 experience|0.014706 |0",
+			"previous_weights": " Major|0 cultural|0.071429 centres|0.14286 organize|0.21429 parallel|0.28571 cultural|0.35714 events|0.42857 and|0.5 they|0.57143 are|0.64286 housed|0.71429 in|0.78571 unique|0.85714 buildings|0.92857 |1"
+		}
+	}
+}

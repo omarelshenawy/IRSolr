@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c94a8431dbab75c9fc33241f4463cae70be65d63458d18e0872ee5267833d67",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Psoriasisplaque.jpg/220px-Psoriasisplaque.jpg",
+			"previous": " Psoriasis is a common chronic and recurrent inflammatory disease of the skin characterized by circumscribed erythematous dry scaling plaques 94 95 96 ",
+			"after": " Reactive neutrophilic cutaneous conditions constitute a spectrum of disease mediated by neutrophils and typically associated with underlying diseases such as inflammatory bowel disease and hematologic malignancy 97 98 ",
+			"after_weights": " Reactive|1 neutrophilic|0.96429 cutaneous|0.92857 conditions|0.89286 constitute|0.85714 a|0.82143 spectrum|0.78571 of|0.75 disease|0.71429 mediated|0.67857 by|0.64286 neutrophils|0.60714 and|0.57143 typically|0.53571 associated|0.5 with|0.46429 underlying|0.42857 diseases|0.39286 such|0.35714 as|0.32143 inflammatory|0.28571 bowel|0.25 disease|0.21429 and|0.17857 hematologic|0.14286 malignancy|0.10714 97|0.071429 98|0.035714 |0",
+			"previous_weights": " Psoriasis|0 is|0.045455 a|0.090909 common|0.13636 chronic|0.18182 and|0.22727 recurrent|0.27273 inflammatory|0.31818 disease|0.36364 of|0.40909 the|0.45455 skin|0.5 characterized|0.54545 by|0.59091 circumscribed|0.63636 erythematous|0.68182 dry|0.72727 scaling|0.77273 plaques|0.81818 94|0.86364 95|0.90909 96|0.95455 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "227c4a5f69dbb6902acea0b934dd688a8cc628e3c580c0bc3861e1ecf35c1d04",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Mobile_Wikipedia_on_iPhone%27s_Safari.png/220px-Mobile_Wikipedia_on_iPhone%27s_Safari.png",
+			"previous": " ",
+			"after": " Internet access is available when the iPhone is connected to a local area Wi Fi or a wide area GSM or EDGE network both second generation 2G wireless data standards The iPhone 3G introduced support for third generation UMTS and HSDPA 3 6 187 the iPhone 4S introduced support for HSUPA networks 14 4 Mbit s and support for HSDPA 7 2 was introduced in the iPhone 3GS 188 ",
+			"after_weights": " Internet|1 access|0.98551 is|0.97101 available|0.95652 when|0.94203 the|0.92754 iPhone|0.91304 is|0.89855 connected|0.88406 to|0.86957 a|0.85507 local|0.84058 area|0.82609 Wi|0.81159 Fi|0.7971 or|0.78261 a|0.76812 wide|0.75362 area|0.73913 GSM|0.72464 or|0.71014 EDGE|0.69565 network|0.68116 both|0.66667 second|0.65217 generation|0.63768 2G|0.62319 wireless|0.6087 data|0.5942 standards|0.57971 The|0.56522 iPhone|0.55072 3G|0.53623 introduced|0.52174 support|0.50725 for|0.49275 third|0.47826 generation|0.46377 UMTS|0.44928 and|0.43478 HSDPA|0.42029 3|0.4058 6|0.3913 187|0.37681 the|0.36232 iPhone|0.34783 4S|0.33333 introduced|0.31884 support|0.30435 for|0.28986 HSUPA|0.27536 networks|0.26087 14|0.24638 4|0.23188 Mbit|0.21739 s|0.2029 and|0.18841 support|0.17391 for|0.15942 HSDPA|0.14493 7|0.13043 2|0.11594 was|0.10145 introduced|0.086957 in|0.072464 the|0.057971 iPhone|0.043478 3GS|0.028986 188|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d09991454166cf2cfbc5bd359bb2a1100e355c08c01b9c92e3b19acbdb8a3d7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Anglo-Saxon_burhs.svg/220px-Anglo-Saxon_burhs.svg.png",
+			"previous": " ",
+			"after": " At the centre of Alfred s reformed military defence system was the network of burhs distributed at strategic points throughout the kingdom 47 There were thirty three in total spaced approximately 30 kilometres 19 miles apart enabling the military to confront attacks anywhere in the kingdom within a single day 48 49 ",
+			"after_weights": " At|1 the|0.98077 centre|0.96154 of|0.94231 Alfred|0.92308 s|0.90385 reformed|0.88462 military|0.86538 defence|0.84615 system|0.82692 was|0.80769 the|0.78846 network|0.76923 of|0.75 burhs|0.73077 distributed|0.71154 at|0.69231 strategic|0.67308 points|0.65385 throughout|0.63462 the|0.61538 kingdom|0.59615 47|0.57692 There|0.55769 were|0.53846 thirty|0.51923 three|0.5 in|0.48077 total|0.46154 spaced|0.44231 approximately|0.42308 30|0.40385 kilometres|0.38462 19|0.36538 miles|0.34615 apart|0.32692 enabling|0.30769 the|0.28846 military|0.26923 to|0.25 confront|0.23077 attacks|0.21154 anywhere|0.19231 in|0.17308 the|0.15385 kingdom|0.13462 within|0.11538 a|0.096154 single|0.076923 day|0.057692 48|0.038462 49|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

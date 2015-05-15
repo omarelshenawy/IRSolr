@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "dcdacecf2418e9977dbae646cc92a6d22a34e592e3585da461e7ab91b946c04a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lucubrationes_Horoscope_p_86.png/220px-Lucubrationes_Horoscope_p_86.png",
+			"previous": " ",
+			"after": " Joachim Sterck van Ringelbergh Joachimus Fortius Ringelbergius Antwerp c 1499 c 1531 was a Flemish scholar humanist mathematician and astrologer  He is credited with inventing the term encyclopedia More precisely cyclopedia in the book title Lucubrationes vel potius absolutissima kyklopaideia Basileae Westheimer 1538 ",
+			"after_weights": " Joachim|1 Sterck|0.97727 van|0.95455 Ringelbergh|0.93182 Joachimus|0.90909 Fortius|0.88636 Ringelbergius|0.86364 Antwerp|0.84091 c|0.81818 1499|0.79545 c|0.77273 1531|0.75 was|0.72727 a|0.70455 Flemish|0.68182 scholar|0.65909 humanist|0.63636 mathematician|0.61364 and|0.59091 astrologer|0.56818 |0.54545 He|0.52273 is|0.5 credited|0.47727 with|0.45455 inventing|0.43182 the|0.40909 term|0.38636 encyclopedia|0.36364 More|0.34091 precisely|0.31818 cyclopedia|0.29545 in|0.27273 the|0.25 book|0.22727 title|0.20455 Lucubrationes|0.18182 vel|0.15909 potius|0.13636 absolutissima|0.11364 kyklopaideia|0.090909 Basileae|0.068182 Westheimer|0.045455 1538|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

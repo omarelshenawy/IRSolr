@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f69d387ff693066a1f4191d55bb57b5981d6feb2a5411221191f0efb1a74a2a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wikipedia-Crystal_clear-advancedsetting.png/220px-Wikipedia-Crystal_clear-advancedsetting.png",
+			"previous": " ",
+			"after": " The Edit filter is a tool used to allow trusted users to set specific controls on user activity and create automated reactions for certain behaviors Edits that trigger an edit filter are listed in a log ",
+			"after_weights": " The|1 Edit|0.97222 filter|0.94444 is|0.91667 a|0.88889 tool|0.86111 used|0.83333 to|0.80556 allow|0.77778 trusted|0.75 users|0.72222 to|0.69444 set|0.66667 specific|0.63889 controls|0.61111 on|0.58333 user|0.55556 activity|0.52778 and|0.5 create|0.47222 automated|0.44444 reactions|0.41667 for|0.38889 certain|0.36111 behaviors|0.33333 Edits|0.30556 that|0.27778 trigger|0.25 an|0.22222 edit|0.19444 filter|0.16667 are|0.13889 listed|0.11111 in|0.083333 a|0.055556 log|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

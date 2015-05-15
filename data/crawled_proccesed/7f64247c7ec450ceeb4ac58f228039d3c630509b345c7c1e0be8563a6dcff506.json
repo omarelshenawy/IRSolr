@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f64247c7ec450ceeb4ac58f228039d3c630509b345c7c1e0be8563a6dcff506",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Mikado-1917.jpg/220px-Mikado-1917.jpg",
+			"previous": " ",
+			"after": " The first commercial recordings of Sullivan s music beginning in 1898 were of individual numbers from the Savoy operas n 28 In 1917 the Gramophone Company also known as HMV produced the first album of a complete musical score of a Gilbert and Sullivan opera The Mikado followed by recordings of eight more of the operas 285 Electrical recordings of the complete musical scores of most of the operas were then issued by the Gramophone Company and Victor Talking Machine Company beginning in the late 1920s These recordings were supervised by Rupert D Oyly Carte 286 The D Oyly Carte Opera Company continued to produce recordings until 1979 287 Between 1988 and 2003 after the company was revived it recorded seven of the operas 288 ",
+			"after_weights": " The|1 first|0.992 commercial|0.984 recordings|0.976 of|0.968 Sullivan|0.96 s|0.952 music|0.944 beginning|0.936 in|0.928 1898|0.92 were|0.912 of|0.904 individual|0.896 numbers|0.888 from|0.88 the|0.872 Savoy|0.864 operas|0.856 n|0.848 28|0.84 In|0.832 1917|0.824 the|0.816 Gramophone|0.808 Company|0.8 also|0.792 known|0.784 as|0.776 HMV|0.768 produced|0.76 the|0.752 first|0.744 album|0.736 of|0.728 a|0.72 complete|0.712 musical|0.704 score|0.696 of|0.688 a|0.68 Gilbert|0.672 and|0.664 Sullivan|0.656 opera|0.648 The|0.64 Mikado|0.632 followed|0.624 by|0.616 recordings|0.608 of|0.6 eight|0.592 more|0.584 of|0.576 the|0.568 operas|0.56 285|0.552 Electrical|0.544 recordings|0.536 of|0.528 the|0.52 complete|0.512 musical|0.504 scores|0.496 of|0.488 most|0.48 of|0.472 the|0.464 operas|0.456 were|0.448 then|0.44 issued|0.432 by|0.424 the|0.416 Gramophone|0.408 Company|0.4 and|0.392 Victor|0.384 Talking|0.376 Machine|0.368 Company|0.36 beginning|0.352 in|0.344 the|0.336 late|0.328 1920s|0.32 These|0.312 recordings|0.304 were|0.296 supervised|0.288 by|0.28 Rupert|0.272 D|0.264 Oyly|0.256 Carte|0.248 286|0.24 The|0.232 D|0.224 Oyly|0.216 Carte|0.208 Opera|0.2 Company|0.192 continued|0.184 to|0.176 produce|0.168 recordings|0.16 until|0.152 1979|0.144 287|0.136 Between|0.128 1988|0.12 and|0.112 2003|0.104 after|0.096 the|0.088 company|0.08 was|0.072 revived|0.064 it|0.056 recorded|0.048 seven|0.04 of|0.032 the|0.024 operas|0.016 288|0.008 |0",
+			"previous_weights": " "
+		}
+	}
+}

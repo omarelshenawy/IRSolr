@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a22115bacf145b06f5c6e7eef7043e0bafb1a18ce0221bff9080aef0d377d928",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Remise_du_Prix_Sakharov_%C3%A0_Aung_San_Suu_Kyi_Strasbourg_22_octobre_2013-14.jpg/220px-Remise_du_Prix_Sakharov_%C3%A0_Aung_San_Suu_Kyi_Strasbourg_22_octobre_2013-14.jpg",
+			"previous": " ",
+			"after": " The treaties declare that the EU itself is founded on the values of respect for human dignity freedom democracy equality the rule of law and respect for human rights including the rights of persons belonging to minorities in a society in which pluralism non discrimination tolerance justice solidarity and equality between women and men prevail 109 ",
+			"after_weights": " The|1 treaties|0.98214 declare|0.96429 that|0.94643 the|0.92857 EU|0.91071 itself|0.89286 is|0.875 founded|0.85714 on|0.83929 the|0.82143 values|0.80357 of|0.78571 respect|0.76786 for|0.75 human|0.73214 dignity|0.71429 freedom|0.69643 democracy|0.67857 equality|0.66071 the|0.64286 rule|0.625 of|0.60714 law|0.58929 and|0.57143 respect|0.55357 for|0.53571 human|0.51786 rights|0.5 including|0.48214 the|0.46429 rights|0.44643 of|0.42857 persons|0.41071 belonging|0.39286 to|0.375 minorities|0.35714 in|0.33929 a|0.32143 society|0.30357 in|0.28571 which|0.26786 pluralism|0.25 non|0.23214 discrimination|0.21429 tolerance|0.19643 justice|0.17857 solidarity|0.16071 and|0.14286 equality|0.125 between|0.10714 women|0.089286 and|0.071429 men|0.053571 prevail|0.035714 109|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

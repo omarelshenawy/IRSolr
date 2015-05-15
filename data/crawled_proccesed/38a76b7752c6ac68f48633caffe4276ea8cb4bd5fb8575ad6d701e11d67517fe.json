@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "38a76b7752c6ac68f48633caffe4276ea8cb4bd5fb8575ad6d701e11d67517fe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/VanderbiltMedEntranceNashville.JPG/185px-VanderbiltMedEntranceNashville.JPG",
+			"previous": " ",
+			"after": " The Vanderbilt University Medical Center is a component of the university and is the only Level I Trauma Center in Middle Tennessee 7 VUMC comprises the following units Vanderbilt University Hospital Monroe Carell Jr Children s Hospital at Vanderbilt Vanderbilt Ingram Cancer Center Vanderbilt Psychiatric Hospital Vanderbilt Clinic Vanderbilt Bill Wilkerson Center Vanderbilt Stallworth Rehabilitation Hospital Eskind Biomedical Library Vanderbilt Sports Medicine Dayani Human Performance Center Vanderbilt Page Campbell Heart Institute Vanderbilt University School of Medicine and Vanderbilt University School of Nursing 38 ",
+			"after_weights": " The|1 Vanderbilt|0.98795 University|0.9759 Medical|0.96386 Center|0.95181 is|0.93976 a|0.92771 component|0.91566 of|0.90361 the|0.89157 university|0.87952 and|0.86747 is|0.85542 the|0.84337 only|0.83133 Level|0.81928 I|0.80723 Trauma|0.79518 Center|0.78313 in|0.77108 Middle|0.75904 Tennessee|0.74699 7|0.73494 VUMC|0.72289 comprises|0.71084 the|0.6988 following|0.68675 units|0.6747 Vanderbilt|0.66265 University|0.6506 Hospital|0.63855 Monroe|0.62651 Carell|0.61446 Jr|0.60241 Children|0.59036 s|0.57831 Hospital|0.56627 at|0.55422 Vanderbilt|0.54217 Vanderbilt|0.53012 Ingram|0.51807 Cancer|0.50602 Center|0.49398 Vanderbilt|0.48193 Psychiatric|0.46988 Hospital|0.45783 Vanderbilt|0.44578 Clinic|0.43373 Vanderbilt|0.42169 Bill|0.40964 Wilkerson|0.39759 Center|0.38554 Vanderbilt|0.37349 Stallworth|0.36145 Rehabilitation|0.3494 Hospital|0.33735 Eskind|0.3253 Biomedical|0.31325 Library|0.3012 Vanderbilt|0.28916 Sports|0.27711 Medicine|0.26506 Dayani|0.25301 Human|0.24096 Performance|0.22892 Center|0.21687 Vanderbilt|0.20482 Page|0.19277 Campbell|0.18072 Heart|0.16867 Institute|0.15663 Vanderbilt|0.14458 University|0.13253 School|0.12048 of|0.10843 Medicine|0.096386 and|0.084337 Vanderbilt|0.072289 University|0.060241 School|0.048193 of|0.036145 Nursing|0.024096 38|0.012048 |0",
+			"previous_weights": " "
+		}
+	}
+}

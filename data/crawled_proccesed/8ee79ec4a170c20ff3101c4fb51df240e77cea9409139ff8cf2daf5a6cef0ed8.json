@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ee79ec4a170c20ff3101c4fb51df240e77cea9409139ff8cf2daf5a6cef0ed8",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/ClientSideTemplates.gif/220px-ClientSideTemplates.gif",
+			"previous": " ",
+			"after": " Many web browsers can apply an XSLT stylesheet to XML data that transforms the data into an XHTML document thereby providing template functionality in the browser itself Other systems implement template functionality in the browser using JavaScript or another client side scripting language including ",
+			"after_weights": " Many|1 web|0.97727 browsers|0.95455 can|0.93182 apply|0.90909 an|0.88636 XSLT|0.86364 stylesheet|0.84091 to|0.81818 XML|0.79545 data|0.77273 that|0.75 transforms|0.72727 the|0.70455 data|0.68182 into|0.65909 an|0.63636 XHTML|0.61364 document|0.59091 thereby|0.56818 providing|0.54545 template|0.52273 functionality|0.5 in|0.47727 the|0.45455 browser|0.43182 itself|0.40909 Other|0.38636 systems|0.36364 implement|0.34091 template|0.31818 functionality|0.29545 in|0.27273 the|0.25 browser|0.22727 using|0.20455 JavaScript|0.18182 or|0.15909 another|0.13636 client|0.11364 side|0.090909 scripting|0.068182 language|0.045455 including|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

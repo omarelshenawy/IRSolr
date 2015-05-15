@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a02d05cac96d47cbea44b8b19fa124a5708d3602406d408389a23a033dab4aa7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png",
+			"previous": " O Reilly owns the image as a trademark but licenses it for non commercial use requiring only an acknowledgement and a link to www perl com Licensing for commercial use is decided on a case by case basis 53 O Reilly also provides Programming Republic of Perl logos for non commercial sites and Powered by Perl buttons for any site that uses Perl 53 ",
+			"after": " The Perl Foundation owns an alternative symbol an onion which it licenses to its subsidiaries Perl Mongers PerlMonks Perl org and others 54 The symbol is a visual pun on pearl onion 55 ",
+			"after_weights": " The|1 Perl|0.9697 Foundation|0.93939 owns|0.90909 an|0.87879 alternative|0.84848 symbol|0.81818 an|0.78788 onion|0.75758 which|0.72727 it|0.69697 licenses|0.66667 to|0.63636 its|0.60606 subsidiaries|0.57576 Perl|0.54545 Mongers|0.51515 PerlMonks|0.48485 Perl|0.45455 org|0.42424 and|0.39394 others|0.36364 54|0.33333 The|0.30303 symbol|0.27273 is|0.24242 a|0.21212 visual|0.18182 pun|0.15152 on|0.12121 pearl|0.090909 onion|0.060606 55|0.030303 |0",
+			"previous_weights": " O|0 Reilly|0.015625 owns|0.03125 the|0.046875 image|0.0625 as|0.078125 a|0.09375 trademark|0.10938 but|0.125 licenses|0.14062 it|0.15625 for|0.17188 non|0.1875 commercial|0.20312 use|0.21875 requiring|0.23438 only|0.25 an|0.26562 acknowledgement|0.28125 and|0.29688 a|0.3125 link|0.32812 to|0.34375 www|0.35938 perl|0.375 com|0.39062 Licensing|0.40625 for|0.42188 commercial|0.4375 use|0.45312 is|0.46875 decided|0.48438 on|0.5 a|0.51562 case|0.53125 by|0.54688 case|0.5625 basis|0.57812 53|0.59375 O|0.60938 Reilly|0.625 also|0.64062 provides|0.65625 Programming|0.67188 Republic|0.6875 of|0.70312 Perl|0.71875 logos|0.73438 for|0.75 non|0.76562 commercial|0.78125 sites|0.79688 and|0.8125 Powered|0.82812 by|0.84375 Perl|0.85938 buttons|0.875 for|0.89062 any|0.90625 site|0.92188 that|0.9375 uses|0.95312 Perl|0.96875 53|0.98438 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "354b83a6d97e772c005972c4e7b3427fd9ac7424c6016c8e220e0df85a00a4bf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Palais_Universitaire_de_Strasbourg-10_ao%C3%BBt_1949.jpg/220px-Palais_Universitaire_de_Strasbourg-10_ao%C3%BBt_1949.jpg",
+			"previous": " ",
+			"after": " In a speech at the University of Zurich on 19 September 1946 Sir Winston Churchill called for a kind of United States of Europe and the creation of a Council of Europe 2 3 He had spoken of a Council of Europe as early as 1943 in a radio broadcast 2 ",
+			"after_weights": " In|1 a|0.98039 speech|0.96078 at|0.94118 the|0.92157 University|0.90196 of|0.88235 Zurich|0.86275 on|0.84314 19|0.82353 September|0.80392 1946|0.78431 Sir|0.76471 Winston|0.7451 Churchill|0.72549 called|0.70588 for|0.68627 a|0.66667 kind|0.64706 of|0.62745 United|0.60784 States|0.58824 of|0.56863 Europe|0.54902 and|0.52941 the|0.5098 creation|0.4902 of|0.47059 a|0.45098 Council|0.43137 of|0.41176 Europe|0.39216 2|0.37255 3|0.35294 He|0.33333 had|0.31373 spoken|0.29412 of|0.27451 a|0.2549 Council|0.23529 of|0.21569 Europe|0.19608 as|0.17647 early|0.15686 as|0.13725 1943|0.11765 in|0.098039 a|0.078431 radio|0.058824 broadcast|0.039216 2|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

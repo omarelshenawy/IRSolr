@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1517846de407603d79bd5b054a76ba9a1283f19dbcfd117098fcdc4aa23e23df",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wikibooks_growth.png/220px-Wikibooks_growth.png",
+			"previous": " ",
+			"after": " Wikibooks previously called Wikimedia Free Textbook Project and Wikimedia Textbooks is a wiki based Wikimedia project hosted by the Wikimedia Foundation for the creation of free content textbooks and annotated texts that anyone can edit ",
+			"after_weights": " Wikibooks|1 previously|0.97143 called|0.94286 Wikimedia|0.91429 Free|0.88571 Textbook|0.85714 Project|0.82857 and|0.8 Wikimedia|0.77143 Textbooks|0.74286 is|0.71429 a|0.68571 wiki|0.65714 based|0.62857 Wikimedia|0.6 project|0.57143 hosted|0.54286 by|0.51429 the|0.48571 Wikimedia|0.45714 Foundation|0.42857 for|0.4 the|0.37143 creation|0.34286 of|0.31429 free|0.28571 content|0.25714 textbooks|0.22857 and|0.2 annotated|0.17143 texts|0.14286 that|0.11429 anyone|0.085714 can|0.057143 edit|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

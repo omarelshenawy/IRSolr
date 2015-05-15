@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fe387ab9c7f082e90cc0f5c383c73375cc8ffe7af6ba23dc8f6d227c4deaa1e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hunting_Island_2.jpg/300px-Hunting_Island_2.jpg",
+			"previous": " ",
+			"after": " The Lowcountry sometimes Low Country or just low country is a geographic and cultural region along South Carolina s coast including the Sea Islands Once known for its agricultural wealth due to its mild subtropical climate the Lowcountry today is known for its historic cities and communities natural beauty cultural heritage and tourism industry ",
+			"after_weights": " The|1 Lowcountry|0.98148 sometimes|0.96296 Low|0.94444 Country|0.92593 or|0.90741 just|0.88889 low|0.87037 country|0.85185 is|0.83333 a|0.81481 geographic|0.7963 and|0.77778 cultural|0.75926 region|0.74074 along|0.72222 South|0.7037 Carolina|0.68519 s|0.66667 coast|0.64815 including|0.62963 the|0.61111 Sea|0.59259 Islands|0.57407 Once|0.55556 known|0.53704 for|0.51852 its|0.5 agricultural|0.48148 wealth|0.46296 due|0.44444 to|0.42593 its|0.40741 mild|0.38889 subtropical|0.37037 climate|0.35185 the|0.33333 Lowcountry|0.31481 today|0.2963 is|0.27778 known|0.25926 for|0.24074 its|0.22222 historic|0.2037 cities|0.18519 and|0.16667 communities|0.14815 natural|0.12963 beauty|0.11111 cultural|0.092593 heritage|0.074074 and|0.055556 tourism|0.037037 industry|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

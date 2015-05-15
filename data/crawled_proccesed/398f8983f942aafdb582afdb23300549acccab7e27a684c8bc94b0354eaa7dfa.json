@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "398f8983f942aafdb582afdb23300549acccab7e27a684c8bc94b0354eaa7dfa",
+			"url": "https://upload.wikimedia.org/math/2/2/e/22ebf0b8c6cd57a8fd70d61e257fcb46.png",
+			"previous": "  The calculation of the overall 3x3 grid slope S and aspect A for methods that determine east west and north south component use the following formulas respectively ",
+			"after": " Zhou and Liu 25 describe another algorithm for calculating aspect as follows  ",
+			"after_weights": " Zhou|1 and|0.92308 Liu|0.84615 25|0.76923 describe|0.69231 another|0.61538 algorithm|0.53846 for|0.46154 calculating|0.38462 aspect|0.30769 as|0.23077 follows|0.15385 |0.076923 |0",
+			"previous_weights": " |0 The|0.035714 calculation|0.071429 of|0.10714 the|0.14286 overall|0.17857 3x3|0.21429 grid|0.25 slope|0.28571 S|0.32143 and|0.35714 aspect|0.39286 A|0.42857 for|0.46429 methods|0.5 that|0.53571 determine|0.57143 east|0.60714 west|0.64286 and|0.67857 north|0.71429 south|0.75 component|0.78571 use|0.82143 the|0.85714 following|0.89286 formulas|0.92857 respectively|0.96429 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "65903d5a7b5999cfd6a8160c1b14556133665885c3f2e56470fde7e7e6cf0c96",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Viajes_de_colon_en.svg/550px-Viajes_de_colon_en.svg.png",
+			"previous": " ",
+			"after": " Between 1492 and 1503 Columbus completed four round trip voyages between Spain and the Americas all of them under the sponsorship of the Crown of Castile These voyages marked the beginning of the European exploration and colonization of the American continents and are thus of enormous significance in Western history 9 ",
+			"after_weights": " Between|1 1492|0.98039 and|0.96078 1503|0.94118 Columbus|0.92157 completed|0.90196 four|0.88235 round|0.86275 trip|0.84314 voyages|0.82353 between|0.80392 Spain|0.78431 and|0.76471 the|0.7451 Americas|0.72549 all|0.70588 of|0.68627 them|0.66667 under|0.64706 the|0.62745 sponsorship|0.60784 of|0.58824 the|0.56863 Crown|0.54902 of|0.52941 Castile|0.5098 These|0.4902 voyages|0.47059 marked|0.45098 the|0.43137 beginning|0.41176 of|0.39216 the|0.37255 European|0.35294 exploration|0.33333 and|0.31373 colonization|0.29412 of|0.27451 the|0.2549 American|0.23529 continents|0.21569 and|0.19608 are|0.17647 thus|0.15686 of|0.13725 enormous|0.11765 significance|0.098039 in|0.078431 Western|0.058824 history|0.039216 9|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

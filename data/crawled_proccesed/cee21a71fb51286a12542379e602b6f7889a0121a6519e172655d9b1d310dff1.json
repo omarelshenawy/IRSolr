@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cee21a71fb51286a12542379e602b6f7889a0121a6519e172655d9b1d310dff1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kapsowarhospital1.jpg/220px-Kapsowarhospital1.jpg",
+			"previous": " ",
+			"after": " Nurses treat 80 of the population who visit dispensaries health centres and private clinics in rural and under served urban areas Complicated cases are referred to clinical officers medical officers and consultants specialists According to the Kenya National Bureau of Statistics in 2011 there were 65 000 qualified nurses registered in the country 8 600 clinical officers and 7 000 doctors for the population of 43 million people These figures from official registers include those who have died or left the profession hence the actual number of these workers may be lower ",
+			"after_weights": " Nurses|1 treat|0.98913 80|0.97826 of|0.96739 the|0.95652 population|0.94565 who|0.93478 visit|0.92391 dispensaries|0.91304 health|0.90217 centres|0.8913 and|0.88043 private|0.86957 clinics|0.8587 in|0.84783 rural|0.83696 and|0.82609 under|0.81522 served|0.80435 urban|0.79348 areas|0.78261 Complicated|0.77174 cases|0.76087 are|0.75 referred|0.73913 to|0.72826 clinical|0.71739 officers|0.70652 medical|0.69565 officers|0.68478 and|0.67391 consultants|0.66304 specialists|0.65217 According|0.6413 to|0.63043 the|0.61957 Kenya|0.6087 National|0.59783 Bureau|0.58696 of|0.57609 Statistics|0.56522 in|0.55435 2011|0.54348 there|0.53261 were|0.52174 65|0.51087 000|0.5 qualified|0.48913 nurses|0.47826 registered|0.46739 in|0.45652 the|0.44565 country|0.43478 8|0.42391 600|0.41304 clinical|0.40217 officers|0.3913 and|0.38043 7|0.36957 000|0.3587 doctors|0.34783 for|0.33696 the|0.32609 population|0.31522 of|0.30435 43|0.29348 million|0.28261 people|0.27174 These|0.26087 figures|0.25 from|0.23913 official|0.22826 registers|0.21739 include|0.20652 those|0.19565 who|0.18478 have|0.17391 died|0.16304 or|0.15217 left|0.1413 the|0.13043 profession|0.11957 hence|0.1087 the|0.097826 actual|0.086957 number|0.076087 of|0.065217 these|0.054348 workers|0.043478 may|0.032609 be|0.021739 lower|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

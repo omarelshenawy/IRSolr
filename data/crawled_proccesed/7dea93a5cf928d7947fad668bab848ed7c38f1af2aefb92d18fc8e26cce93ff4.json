@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7dea93a5cf928d7947fad668bab848ed7c38f1af2aefb92d18fc8e26cce93ff4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Philadelphia_Art_Museum.jpg/250px-Philadelphia_Art_Museum.jpg",
+			"previous": " ",
+			"after": " Philadelphia s architectural history dates back to Colonial times and includes a wide range of styles The earliest structures were of logs construction but brick structures were common by 1700 During the 18th century the cityscape was dominated by Georgian architecture including Independence Hall and Christ Church ",
+			"after_weights": " Philadelphia|1 s|0.97872 architectural|0.95745 history|0.93617 dates|0.91489 back|0.89362 to|0.87234 Colonial|0.85106 times|0.82979 and|0.80851 includes|0.78723 a|0.76596 wide|0.74468 range|0.7234 of|0.70213 styles|0.68085 The|0.65957 earliest|0.6383 structures|0.61702 were|0.59574 of|0.57447 logs|0.55319 construction|0.53191 but|0.51064 brick|0.48936 structures|0.46809 were|0.44681 common|0.42553 by|0.40426 1700|0.38298 During|0.3617 the|0.34043 18th|0.31915 century|0.29787 the|0.2766 cityscape|0.25532 was|0.23404 dominated|0.21277 by|0.19149 Georgian|0.17021 architecture|0.14894 including|0.12766 Independence|0.10638 Hall|0.085106 and|0.06383 Christ|0.042553 Church|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

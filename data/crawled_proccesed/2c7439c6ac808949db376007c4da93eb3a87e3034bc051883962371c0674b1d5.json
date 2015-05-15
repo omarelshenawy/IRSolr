@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c7439c6ac808949db376007c4da93eb3a87e3034bc051883962371c0674b1d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/WM2006_0018.jpg/220px-WM2006_0018.jpg",
+			"previous": " Sponsors of the event included Answers com SocialText Sun Microsystems DocCheck 12 and Logos Group ",
+			"after": " Wikimania 2006 took place from August 6 to 8 2006 at Harvard Law School s Berkman Center for Internet Society in Cambridge Massachusetts in the United States It had about 400 2 500 13 attendees ",
+			"after_weights": " Wikimania|1 2006|0.97143 took|0.94286 place|0.91429 from|0.88571 August|0.85714 6|0.82857 to|0.8 8|0.77143 2006|0.74286 at|0.71429 Harvard|0.68571 Law|0.65714 School|0.62857 s|0.6 Berkman|0.57143 Center|0.54286 for|0.51429 Internet|0.48571 Society|0.45714 in|0.42857 Cambridge|0.4 Massachusetts|0.37143 in|0.34286 the|0.31429 United|0.28571 States|0.25714 It|0.22857 had|0.2 about|0.17143 400|0.14286 2|0.11429 500|0.085714 13|0.057143 attendees|0.028571 |0",
+			"previous_weights": " Sponsors|0 of|0.066667 the|0.13333 event|0.2 included|0.26667 Answers|0.33333 com|0.4 SocialText|0.46667 Sun|0.53333 Microsystems|0.6 DocCheck|0.66667 12|0.73333 and|0.8 Logos|0.86667 Group|0.93333 |1"
+		}
+	}
+}

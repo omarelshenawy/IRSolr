@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ed03eba5a650570375d5c0fa687488f30a40e162621e5d0d47c1e7bbb0f48b22",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Caravaggio_-_Taking_of_Christ_-_Dublin_-_2.jpg/300px-Caravaggio_-_Taking_of_Christ_-_Dublin_-_2.jpg",
+			"previous": " ",
+			"after": " The arrest of Jesus is a pivotal event recorded in the canonical gospels The event ultimately leads in the Gospel accounts to Jesus crucifixion Jesus was arrested by the Temple guards of the Sanhedrin in the Garden of Gethsemane shortly after the Last Supper during which Jesus gave his final sermon and immediately after the kiss of Judas which is traditionally said to have been an act of betrayal ",
+			"after_weights": " The|1 arrest|0.98551 of|0.97101 Jesus|0.95652 is|0.94203 a|0.92754 pivotal|0.91304 event|0.89855 recorded|0.88406 in|0.86957 the|0.85507 canonical|0.84058 gospels|0.82609 The|0.81159 event|0.7971 ultimately|0.78261 leads|0.76812 in|0.75362 the|0.73913 Gospel|0.72464 accounts|0.71014 to|0.69565 Jesus|0.68116 crucifixion|0.66667 Jesus|0.65217 was|0.63768 arrested|0.62319 by|0.6087 the|0.5942 Temple|0.57971 guards|0.56522 of|0.55072 the|0.53623 Sanhedrin|0.52174 in|0.50725 the|0.49275 Garden|0.47826 of|0.46377 Gethsemane|0.44928 shortly|0.43478 after|0.42029 the|0.4058 Last|0.3913 Supper|0.37681 during|0.36232 which|0.34783 Jesus|0.33333 gave|0.31884 his|0.30435 final|0.28986 sermon|0.27536 and|0.26087 immediately|0.24638 after|0.23188 the|0.21739 kiss|0.2029 of|0.18841 Judas|0.17391 which|0.15942 is|0.14493 traditionally|0.13043 said|0.11594 to|0.10145 have|0.086957 been|0.072464 an|0.057971 act|0.043478 of|0.028986 betrayal|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

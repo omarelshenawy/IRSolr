@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cd2f913c45e4fb6950e50c7cdb6cf7d043081d1f76d053f9c69c8dbbdbaed011",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ncell_free_Wikipedia.png/220px-Ncell_free_Wikipedia.png",
+			"previous": " ",
+			"after": " Wikipedia Zero is a project by the Wikimedia Foundation to provide Wikipedia free of charge on mobile phones particularly in developing markets 1 2 The program was launched in 2012 3 and won a 2013 SXSW Interactive Award for activism 4 The objective of the program is to reduce barriers in access to free knowledge in particular with data usage cost ",
+			"after_weights": " Wikipedia|1 Zero|0.98361 is|0.96721 a|0.95082 project|0.93443 by|0.91803 the|0.90164 Wikimedia|0.88525 Foundation|0.86885 to|0.85246 provide|0.83607 Wikipedia|0.81967 free|0.80328 of|0.78689 charge|0.77049 on|0.7541 mobile|0.7377 phones|0.72131 particularly|0.70492 in|0.68852 developing|0.67213 markets|0.65574 1|0.63934 2|0.62295 The|0.60656 program|0.59016 was|0.57377 launched|0.55738 in|0.54098 2012|0.52459 3|0.5082 and|0.4918 won|0.47541 a|0.45902 2013|0.44262 SXSW|0.42623 Interactive|0.40984 Award|0.39344 for|0.37705 activism|0.36066 4|0.34426 The|0.32787 objective|0.31148 of|0.29508 the|0.27869 program|0.2623 is|0.2459 to|0.22951 reduce|0.21311 barriers|0.19672 in|0.18033 access|0.16393 to|0.14754 free|0.13115 knowledge|0.11475 in|0.098361 particular|0.081967 with|0.065574 data|0.04918 usage|0.032787 cost|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

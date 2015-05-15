@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "799d8b767f72ed6b166e26ce7d77ec064ce245cf8cf420be5d88798ecf0513a5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Christmas_flood_1717.jpg/220px-Christmas_flood_1717.jpg",
+			"previous": " ",
+			"after": " Over the centuries the Dutch coastline has changed considerably as a result of natural disasters and human intervention Most notable in terms of land loss was the storm of 1134 which created the archipelago of Zeeland in the south west ",
+			"after_weights": " Over|1 the|0.975 centuries|0.95 the|0.925 Dutch|0.9 coastline|0.875 has|0.85 changed|0.825 considerably|0.8 as|0.775 a|0.75 result|0.725 of|0.7 natural|0.675 disasters|0.65 and|0.625 human|0.6 intervention|0.575 Most|0.55 notable|0.525 in|0.5 terms|0.475 of|0.45 land|0.425 loss|0.4 was|0.375 the|0.35 storm|0.325 of|0.3 1134|0.275 which|0.25 created|0.225 the|0.2 archipelago|0.175 of|0.15 Zeeland|0.125 in|0.1 the|0.075 south|0.05 west|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

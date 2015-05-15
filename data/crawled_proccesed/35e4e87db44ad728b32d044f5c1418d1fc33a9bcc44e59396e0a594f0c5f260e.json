@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "35e4e87db44ad728b32d044f5c1418d1fc33a9bcc44e59396e0a594f0c5f260e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/China_administrative.gif/300px-China_administrative.gif",
+			"previous": " Artificial geographic feature a thing that was made by humans that may be indicated on a map It may be physical and exist in the real world like a bridge or city or it may be abstract and exist only on maps such as the Equator which has a defined location but cannot be seen where it lies ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Artificial|0 geographic|0.017241 feature|0.034483 a|0.051724 thing|0.068966 that|0.086207 was|0.10345 made|0.12069 by|0.13793 humans|0.15517 that|0.17241 may|0.18966 be|0.2069 indicated|0.22414 on|0.24138 a|0.25862 map|0.27586 It|0.2931 may|0.31034 be|0.32759 physical|0.34483 and|0.36207 exist|0.37931 in|0.39655 the|0.41379 real|0.43103 world|0.44828 like|0.46552 a|0.48276 bridge|0.5 or|0.51724 city|0.53448 or|0.55172 it|0.56897 may|0.58621 be|0.60345 abstract|0.62069 and|0.63793 exist|0.65517 only|0.67241 on|0.68966 maps|0.7069 such|0.72414 as|0.74138 the|0.75862 Equator|0.77586 which|0.7931 has|0.81034 a|0.82759 defined|0.84483 location|0.86207 but|0.87931 cannot|0.89655 be|0.91379 seen|0.93103 where|0.94828 it|0.96552 lies|0.98276 |1"
+		}
+	}
+}

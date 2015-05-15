@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bc491e0a3ca9efe2ece0d1ca488bd4998c013a6e39d180a1ae5db81b4b2ad192",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SouthIsland_rrMap_v02.svg/220px-SouthIsland_rrMap_v02.svg.png",
+			"previous": " The South Island has a State Highway network of 4 921 km ",
+			"after": " The South Island s railway network has two main lines two secondary lines and a few branch lines The Main North Line from Picton to Christchurch and the Main South Line from Lyttelton to Invercargill via Dunedin together comprise the South Island Main Trunk Railway The secondary Midland Line branches from the Main South Line in Rolleston and passes through the Southern Alps via the Otira Tunnel to the West Coast and its terminus in Greymouth In Stillwater it meets the other secondary route the Stillwater Westport Line which now includes the Ngakawau Branch ",
+			"after_weights": " The|1 South|0.98936 Island|0.97872 s|0.96809 railway|0.95745 network|0.94681 has|0.93617 two|0.92553 main|0.91489 lines|0.90426 two|0.89362 secondary|0.88298 lines|0.87234 and|0.8617 a|0.85106 few|0.84043 branch|0.82979 lines|0.81915 The|0.80851 Main|0.79787 North|0.78723 Line|0.7766 from|0.76596 Picton|0.75532 to|0.74468 Christchurch|0.73404 and|0.7234 the|0.71277 Main|0.70213 South|0.69149 Line|0.68085 from|0.67021 Lyttelton|0.65957 to|0.64894 Invercargill|0.6383 via|0.62766 Dunedin|0.61702 together|0.60638 comprise|0.59574 the|0.58511 South|0.57447 Island|0.56383 Main|0.55319 Trunk|0.54255 Railway|0.53191 The|0.52128 secondary|0.51064 Midland|0.5 Line|0.48936 branches|0.47872 from|0.46809 the|0.45745 Main|0.44681 South|0.43617 Line|0.42553 in|0.41489 Rolleston|0.40426 and|0.39362 passes|0.38298 through|0.37234 the|0.3617 Southern|0.35106 Alps|0.34043 via|0.32979 the|0.31915 Otira|0.30851 Tunnel|0.29787 to|0.28723 the|0.2766 West|0.26596 Coast|0.25532 and|0.24468 its|0.23404 terminus|0.2234 in|0.21277 Greymouth|0.20213 In|0.19149 Stillwater|0.18085 it|0.17021 meets|0.15957 the|0.14894 other|0.1383 secondary|0.12766 route|0.11702 the|0.10638 Stillwater|0.095745 Westport|0.085106 Line|0.074468 which|0.06383 now|0.053191 includes|0.042553 the|0.031915 Ngakawau|0.021277 Branch|0.010638 |0",
+			"previous_weights": " The|0 South|0.083333 Island|0.16667 has|0.25 a|0.33333 State|0.41667 Highway|0.5 network|0.58333 of|0.66667 4|0.75 921|0.83333 km|0.91667 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7366caa17b13fe6f0e3c80ada5cc0fb57e03bc16be4396ab1641b9d72849d87c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kiwix_on_a_Raspberry_Pi.webm/220px--Kiwix_on_a_Raspberry_Pi.webm.jpg",
+			"previous": " ",
+			"after": " Kiwix is free software developed in order to offer an offline access to the content of any website meaning it does not use any Internet connection  It was firstly launched to give access to Wikipedia but then used to spread other kind of free content The program is available for the following operating systems Windows Mac OS X Linux and Android ",
+			"after_weights": " Kiwix|1 is|0.98387 free|0.96774 software|0.95161 developed|0.93548 in|0.91935 order|0.90323 to|0.8871 offer|0.87097 an|0.85484 offline|0.83871 access|0.82258 to|0.80645 the|0.79032 content|0.77419 of|0.75806 any|0.74194 website|0.72581 meaning|0.70968 it|0.69355 does|0.67742 not|0.66129 use|0.64516 any|0.62903 Internet|0.6129 connection|0.59677 |0.58065 It|0.56452 was|0.54839 firstly|0.53226 launched|0.51613 to|0.5 give|0.48387 access|0.46774 to|0.45161 Wikipedia|0.43548 but|0.41935 then|0.40323 used|0.3871 to|0.37097 spread|0.35484 other|0.33871 kind|0.32258 of|0.30645 free|0.29032 content|0.27419 The|0.25806 program|0.24194 is|0.22581 available|0.20968 for|0.19355 the|0.17742 following|0.16129 operating|0.14516 systems|0.12903 Windows|0.1129 Mac|0.096774 OS|0.080645 X|0.064516 Linux|0.048387 and|0.032258 Android|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

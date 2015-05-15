@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f4fabb7f19efa0e0434fb2c3682cb8e373a35625144fa4199e4624b0fa5e0d98",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pleniere.JPG/220px-Pleniere.JPG",
+			"previous": " Both the Human Rights Watch and the European Stability Initiative have called on the Council of Europe to undertake concrete actions to show that it is willing and able to return to its original mission to protect and ensure human rights 15 ",
+			"after": " The institutions of the Council of Europe are ",
+			"after_weights": " The|1 institutions|0.875 of|0.75 the|0.625 Council|0.5 of|0.375 Europe|0.25 are|0.125 |0",
+			"previous_weights": " Both|0 the|0.02381 Human|0.047619 Rights|0.071429 Watch|0.095238 and|0.11905 the|0.14286 European|0.16667 Stability|0.19048 Initiative|0.21429 have|0.2381 called|0.2619 on|0.28571 the|0.30952 Council|0.33333 of|0.35714 Europe|0.38095 to|0.40476 undertake|0.42857 concrete|0.45238 actions|0.47619 to|0.5 show|0.52381 that|0.54762 it|0.57143 is|0.59524 willing|0.61905 and|0.64286 able|0.66667 to|0.69048 return|0.71429 to|0.7381 its|0.7619 original|0.78571 mission|0.80952 to|0.83333 protect|0.85714 and|0.88095 ensure|0.90476 human|0.92857 rights|0.95238 15|0.97619 |1"
+		}
+	}
+}

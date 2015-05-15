@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a02115c2256d026f958861265d27a43b00307da5e0a21ee4135ad8f63e856ec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ULS_LangSet_mr-wiki_help_4.png/100px-ULS_LangSet_mr-wiki_help_4.png",
+			"previous": " Any one of Unicode Marathi fonts input system is fine for Marathi Wikipedia Some people use inscript Majority uses either Google phonetic transliteration or input facility Universal Language Selector provided on Marathi Wikipedia ",
+			"after": " Phonetic facility provided initially was java based later supported by Narayam extension for phonetic input facility Currently Marathi Wikipedia is supported by Universal Language Selector ULS that offers both phonetic keyboard Aksharantaran Marathi and InScript keyboard Marathi ",
+			"after_weights": " Phonetic|1 facility|0.97297 provided|0.94595 initially|0.91892 was|0.89189 java|0.86486 based|0.83784 later|0.81081 supported|0.78378 by|0.75676 Narayam|0.72973 extension|0.7027 for|0.67568 phonetic|0.64865 input|0.62162 facility|0.59459 Currently|0.56757 Marathi|0.54054 Wikipedia|0.51351 is|0.48649 supported|0.45946 by|0.43243 Universal|0.40541 Language|0.37838 Selector|0.35135 ULS|0.32432 that|0.2973 offers|0.27027 both|0.24324 phonetic|0.21622 keyboard|0.18919 Aksharantaran|0.16216 Marathi|0.13514 and|0.10811 InScript|0.081081 keyboard|0.054054 Marathi|0.027027 |0",
+			"previous_weights": " Any|0 one|0.030303 of|0.060606 Unicode|0.090909 Marathi|0.12121 fonts|0.15152 input|0.18182 system|0.21212 is|0.24242 fine|0.27273 for|0.30303 Marathi|0.33333 Wikipedia|0.36364 Some|0.39394 people|0.42424 use|0.45455 inscript|0.48485 Majority|0.51515 uses|0.54545 either|0.57576 Google|0.60606 phonetic|0.63636 transliteration|0.66667 or|0.69697 input|0.72727 facility|0.75758 Universal|0.78788 Language|0.81818 Selector|0.84848 provided|0.87879 on|0.90909 Marathi|0.93939 Wikipedia|0.9697 |1"
+		}
+	}
+}

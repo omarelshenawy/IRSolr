@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0d496856e89d192e73e4d676d8722916961dc2d7b456af2f5f66373926068d1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flickr_-_The_U.S._Army_-_Surfing_the_%27net_at_Forward_Operating_Base_Yusifiyah%2C_Iraq.jpg/250px-Flickr_-_The_U.S._Army_-_Surfing_the_%27net_at_Forward_Operating_Base_Yusifiyah%2C_Iraq.jpg",
+			"previous": " ",
+			"after": " The Internet is a global system of interconnected computer networks that use the standard Internet protocol suite TCP IP to link several billion devices worldwide It is a network of networks 1 that consists of millions of private public academic business and government networks of local to global scope linked by a broad array of electronic wireless and optical networking technologies The Internet carries an extensive range of information resources and services such as the inter linked hypertext documents and applications of the World Wide Web WWW the infrastructure to support email and peer to peer networks for file sharing and telephony ",
+			"after_weights": " The|1 Internet|0.9902 is|0.98039 a|0.97059 global|0.96078 system|0.95098 of|0.94118 interconnected|0.93137 computer|0.92157 networks|0.91176 that|0.90196 use|0.89216 the|0.88235 standard|0.87255 Internet|0.86275 protocol|0.85294 suite|0.84314 TCP|0.83333 IP|0.82353 to|0.81373 link|0.80392 several|0.79412 billion|0.78431 devices|0.77451 worldwide|0.76471 It|0.7549 is|0.7451 a|0.73529 network|0.72549 of|0.71569 networks|0.70588 1|0.69608 that|0.68627 consists|0.67647 of|0.66667 millions|0.65686 of|0.64706 private|0.63725 public|0.62745 academic|0.61765 business|0.60784 and|0.59804 government|0.58824 networks|0.57843 of|0.56863 local|0.55882 to|0.54902 global|0.53922 scope|0.52941 linked|0.51961 by|0.5098 a|0.5 broad|0.4902 array|0.48039 of|0.47059 electronic|0.46078 wireless|0.45098 and|0.44118 optical|0.43137 networking|0.42157 technologies|0.41176 The|0.40196 Internet|0.39216 carries|0.38235 an|0.37255 extensive|0.36275 range|0.35294 of|0.34314 information|0.33333 resources|0.32353 and|0.31373 services|0.30392 such|0.29412 as|0.28431 the|0.27451 inter|0.26471 linked|0.2549 hypertext|0.2451 documents|0.23529 and|0.22549 applications|0.21569 of|0.20588 the|0.19608 World|0.18627 Wide|0.17647 Web|0.16667 WWW|0.15686 the|0.14706 infrastructure|0.13725 to|0.12745 support|0.11765 email|0.10784 and|0.098039 peer|0.088235 to|0.078431 peer|0.068627 networks|0.058824 for|0.04902 file|0.039216 sharing|0.029412 and|0.019608 telephony|0.0098039 |0",
+			"previous_weights": " "
+		}
+	}
+}

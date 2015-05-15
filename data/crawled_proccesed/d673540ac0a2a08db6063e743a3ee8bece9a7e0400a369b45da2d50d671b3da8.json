@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d673540ac0a2a08db6063e743a3ee8bece9a7e0400a369b45da2d50d671b3da8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/XV_Cimeira_Ibero-Americana_-_Salamanca%2C_Espanha.jpg/220px-XV_Cimeira_Ibero-Americana_-_Salamanca%2C_Espanha.jpg",
+			"previous": " Juan Carlos was married in Athens at the Church of Saint Dennis on 14 May 1962 to Princess Sophia of Greece and Denmark daughter of King Paul of Greece She converted from her Greek Orthodox religion to Roman Catholicism Also in 1962 a Roman Catholic wedding was performed in the Pauline Chapel the Basilica of Santa Maria Maggiore in Rome ",
+			"after": " They have two daughters and one son ",
+			"after_weights": " They|1 have|0.85714 two|0.71429 daughters|0.57143 and|0.42857 one|0.28571 son|0.14286 |0",
+			"previous_weights": " Juan|0 Carlos|0.016667 was|0.033333 married|0.05 in|0.066667 Athens|0.083333 at|0.1 the|0.11667 Church|0.13333 of|0.15 Saint|0.16667 Dennis|0.18333 on|0.2 14|0.21667 May|0.23333 1962|0.25 to|0.26667 Princess|0.28333 Sophia|0.3 of|0.31667 Greece|0.33333 and|0.35 Denmark|0.36667 daughter|0.38333 of|0.4 King|0.41667 Paul|0.43333 of|0.45 Greece|0.46667 She|0.48333 converted|0.5 from|0.51667 her|0.53333 Greek|0.55 Orthodox|0.56667 religion|0.58333 to|0.6 Roman|0.61667 Catholicism|0.63333 Also|0.65 in|0.66667 1962|0.68333 a|0.7 Roman|0.71667 Catholic|0.73333 wedding|0.75 was|0.76667 performed|0.78333 in|0.8 the|0.81667 Pauline|0.83333 Chapel|0.85 the|0.86667 Basilica|0.88333 of|0.9 Santa|0.91667 Maria|0.93333 Maggiore|0.95 in|0.96667 Rome|0.98333 |1"
+		}
+	}
+}

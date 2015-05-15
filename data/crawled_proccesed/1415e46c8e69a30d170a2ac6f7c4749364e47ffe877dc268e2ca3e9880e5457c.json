@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1415e46c8e69a30d170a2ac6f7c4749364e47ffe877dc268e2ca3e9880e5457c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Linux_0_12.jpg/220px-Linux_0_12.jpg",
+			"previous": " ",
+			"after": " Linus Torvalds had wanted to call his invention Freax a portmanteau of free freak and x as an allusion to Unix During the start of his work on the system he stored the files under the name Freax for about half of a year Torvalds had already considered the name Linux but initially dismissed it as too egotistical 31 ",
+			"after_weights": " Linus|1 Torvalds|0.98305 had|0.9661 wanted|0.94915 to|0.9322 call|0.91525 his|0.89831 invention|0.88136 Freax|0.86441 a|0.84746 portmanteau|0.83051 of|0.81356 free|0.79661 freak|0.77966 and|0.76271 x|0.74576 as|0.72881 an|0.71186 allusion|0.69492 to|0.67797 Unix|0.66102 During|0.64407 the|0.62712 start|0.61017 of|0.59322 his|0.57627 work|0.55932 on|0.54237 the|0.52542 system|0.50847 he|0.49153 stored|0.47458 the|0.45763 files|0.44068 under|0.42373 the|0.40678 name|0.38983 Freax|0.37288 for|0.35593 about|0.33898 half|0.32203 of|0.30508 a|0.28814 year|0.27119 Torvalds|0.25424 had|0.23729 already|0.22034 considered|0.20339 the|0.18644 name|0.16949 Linux|0.15254 but|0.13559 initially|0.11864 dismissed|0.10169 it|0.084746 as|0.067797 too|0.050847 egotistical|0.033898 31|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

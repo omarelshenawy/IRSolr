@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9999aae97dec8b1d4258fe7f91ccd1509abeb48d92065aa5a53a8573dd198b00",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Phablet.jpg/220px-Phablet.jpg",
+			"previous": " ",
+			"after": " Several operating systems for smart devices e g smartphones tablet computers smart TVs and in vehicle infotainment IVI systems are Linux based The three major platforms are mer Tizen and Android ",
+			"after_weights": " Several|1 operating|0.96774 systems|0.93548 for|0.90323 smart|0.87097 devices|0.83871 e|0.80645 g|0.77419 smartphones|0.74194 tablet|0.70968 computers|0.67742 smart|0.64516 TVs|0.6129 and|0.58065 in|0.54839 vehicle|0.51613 infotainment|0.48387 IVI|0.45161 systems|0.41935 are|0.3871 Linux|0.35484 based|0.32258 The|0.29032 three|0.25806 major|0.22581 platforms|0.19355 are|0.16129 mer|0.12903 Tizen|0.096774 and|0.064516 Android|0.032258 |0",
+			"previous_weights": " "
+		}
+	}
+}

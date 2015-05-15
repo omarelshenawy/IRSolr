@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "622eae5e9a3d01436457f73b95d4805e674deae0729ec479e9e596cfbab0c98b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Map_of_the_Low_German_Dialects.svg/220px-Map_of_the_Low_German_Dialects.svg.png",
+			"previous": " ",
+			"after": " A lot of these dialects have been affected by the Hollandic expansion of the seventeenth century All of them are lexically dependent on Dutch rather than German for neologisms When written down they use a Dutch based orthography ",
+			"after_weights": " A|1 lot|0.97368 of|0.94737 these|0.92105 dialects|0.89474 have|0.86842 been|0.84211 affected|0.81579 by|0.78947 the|0.76316 Hollandic|0.73684 expansion|0.71053 of|0.68421 the|0.65789 seventeenth|0.63158 century|0.60526 All|0.57895 of|0.55263 them|0.52632 are|0.5 lexically|0.47368 dependent|0.44737 on|0.42105 Dutch|0.39474 rather|0.36842 than|0.34211 German|0.31579 for|0.28947 neologisms|0.26316 When|0.23684 written|0.21053 down|0.18421 they|0.15789 use|0.13158 a|0.10526 Dutch|0.078947 based|0.052632 orthography|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

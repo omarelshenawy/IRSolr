@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a5a6701c43b9df8fcc5cf8abefd4061abeba0c4ed35cd0c882fb05ec7ee9d92e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Za-map.png/300px-Za-map.png",
+			"previous": " ",
+			"after": " Zambia is a landlocked country in southern Africa with a tropical climate and consists mostly of high plateaus with some hills and mountains dissected by river valleys At 752 614 km2 290 586 sq mi it is the 39th largest country in the world slightly smaller than Chile The country lies mostly between latitudes 8 and 18 S and longitudes 22 and 34 E ",
+			"after_weights": " Zambia|1 is|0.98438 a|0.96875 landlocked|0.95312 country|0.9375 in|0.92188 southern|0.90625 Africa|0.89062 with|0.875 a|0.85938 tropical|0.84375 climate|0.82812 and|0.8125 consists|0.79688 mostly|0.78125 of|0.76562 high|0.75 plateaus|0.73438 with|0.71875 some|0.70312 hills|0.6875 and|0.67188 mountains|0.65625 dissected|0.64062 by|0.625 river|0.60938 valleys|0.59375 At|0.57812 752|0.5625 614|0.54688 km2|0.53125 290|0.51562 586|0.5 sq|0.48438 mi|0.46875 it|0.45312 is|0.4375 the|0.42188 39th|0.40625 largest|0.39062 country|0.375 in|0.35938 the|0.34375 world|0.32812 slightly|0.3125 smaller|0.29688 than|0.28125 Chile|0.26562 The|0.25 country|0.23438 lies|0.21875 mostly|0.20312 between|0.1875 latitudes|0.17188 8|0.15625 and|0.14062 18|0.125 S|0.10938 and|0.09375 longitudes|0.078125 22|0.0625 and|0.046875 34|0.03125 E|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

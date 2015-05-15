@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6eec0fe4285db335e1f259726276f75a3945095c95a8af7c416b6d8891e003d4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2010_RSA_Conference_-_EFF_booth.jpg/220px-2010_RSA_Conference_-_EFF_booth.jpg",
+			"previous": " ",
+			"after": " The EFF regularly brings and defends lawsuits at all levels of the US legal system in pursuit of its goals and objectives Many of the most significant technology law cases have involved the EFF including MGM Studios Inc v Grokster Ltd Apple v Does and others ",
+			"after_weights": " The|1 EFF|0.97826 regularly|0.95652 brings|0.93478 and|0.91304 defends|0.8913 lawsuits|0.86957 at|0.84783 all|0.82609 levels|0.80435 of|0.78261 the|0.76087 US|0.73913 legal|0.71739 system|0.69565 in|0.67391 pursuit|0.65217 of|0.63043 its|0.6087 goals|0.58696 and|0.56522 objectives|0.54348 Many|0.52174 of|0.5 the|0.47826 most|0.45652 significant|0.43478 technology|0.41304 law|0.3913 cases|0.36957 have|0.34783 involved|0.32609 the|0.30435 EFF|0.28261 including|0.26087 MGM|0.23913 Studios|0.21739 Inc|0.19565 v|0.17391 Grokster|0.15217 Ltd|0.13043 Apple|0.1087 v|0.086957 Does|0.065217 and|0.043478 others|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

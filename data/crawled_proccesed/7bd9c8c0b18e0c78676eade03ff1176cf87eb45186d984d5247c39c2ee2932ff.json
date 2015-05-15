@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bd9c8c0b18e0c78676eade03ff1176cf87eb45186d984d5247c39c2ee2932ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/POS_Redhouse.JPG/220px-POS_Redhouse.JPG",
+			"previous": " ",
+			"after": " Trinidad and Tobago is a republic with a two party system and a bicameral parliamentary system based on the Westminster System The head of state of Trinidad and Tobago is the President currently Anthony Carmona The head of government is the Prime Minister currently Kamla Persad Bissessar The President is elected by an Electoral College consisting of the full membership of both houses of Parliament ",
+			"after_weights": " Trinidad|1 and|0.98462 Tobago|0.96923 is|0.95385 a|0.93846 republic|0.92308 with|0.90769 a|0.89231 two|0.87692 party|0.86154 system|0.84615 and|0.83077 a|0.81538 bicameral|0.8 parliamentary|0.78462 system|0.76923 based|0.75385 on|0.73846 the|0.72308 Westminster|0.70769 System|0.69231 The|0.67692 head|0.66154 of|0.64615 state|0.63077 of|0.61538 Trinidad|0.6 and|0.58462 Tobago|0.56923 is|0.55385 the|0.53846 President|0.52308 currently|0.50769 Anthony|0.49231 Carmona|0.47692 The|0.46154 head|0.44615 of|0.43077 government|0.41538 is|0.4 the|0.38462 Prime|0.36923 Minister|0.35385 currently|0.33846 Kamla|0.32308 Persad|0.30769 Bissessar|0.29231 The|0.27692 President|0.26154 is|0.24615 elected|0.23077 by|0.21538 an|0.2 Electoral|0.18462 College|0.16923 consisting|0.15385 of|0.13846 the|0.12308 full|0.10769 membership|0.092308 of|0.076923 both|0.061538 houses|0.046154 of|0.030769 Parliament|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

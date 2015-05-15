@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "69f32d1f53a9d4e9328ac1da9ba108fb57ceb4b8088c56346435304de82278ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Susan_B_Anthony_3c_1936_issue.JPG/220px-Susan_B_Anthony_3c_1936_issue.JPG",
+			"previous": " ",
+			"after": " Susan B Anthony died at the age of 86 of heart failure and pneumonia in her home in Rochester New York on March 13 1906 178 She was buried at Mount Hope Cemetery Rochester At her birthday celebration in Washington a few days earlier Anthony had spoken of those who had worked with her for women s rights There have been others also just as true and devoted to the cause I wish I could name every one but with such women consecrating their lives failure is impossible 179 Failure is impossible quickly became a watchword for the women s movement ",
+			"after_weights": " Susan|1 B|0.9901 Anthony|0.9802 died|0.9703 at|0.9604 the|0.9505 age|0.94059 of|0.93069 86|0.92079 of|0.91089 heart|0.90099 failure|0.89109 and|0.88119 pneumonia|0.87129 in|0.86139 her|0.85149 home|0.84158 in|0.83168 Rochester|0.82178 New|0.81188 York|0.80198 on|0.79208 March|0.78218 13|0.77228 1906|0.76238 178|0.75248 She|0.74257 was|0.73267 buried|0.72277 at|0.71287 Mount|0.70297 Hope|0.69307 Cemetery|0.68317 Rochester|0.67327 At|0.66337 her|0.65347 birthday|0.64356 celebration|0.63366 in|0.62376 Washington|0.61386 a|0.60396 few|0.59406 days|0.58416 earlier|0.57426 Anthony|0.56436 had|0.55446 spoken|0.54455 of|0.53465 those|0.52475 who|0.51485 had|0.50495 worked|0.49505 with|0.48515 her|0.47525 for|0.46535 women|0.45545 s|0.44554 rights|0.43564 There|0.42574 have|0.41584 been|0.40594 others|0.39604 also|0.38614 just|0.37624 as|0.36634 true|0.35644 and|0.34653 devoted|0.33663 to|0.32673 the|0.31683 cause|0.30693 I|0.29703 wish|0.28713 I|0.27723 could|0.26733 name|0.25743 every|0.24752 one|0.23762 but|0.22772 with|0.21782 such|0.20792 women|0.19802 consecrating|0.18812 their|0.17822 lives|0.16832 failure|0.15842 is|0.14851 impossible|0.13861 179|0.12871 Failure|0.11881 is|0.10891 impossible|0.09901 quickly|0.089109 became|0.079208 a|0.069307 watchword|0.059406 for|0.049505 the|0.039604 women|0.029703 s|0.019802 movement|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

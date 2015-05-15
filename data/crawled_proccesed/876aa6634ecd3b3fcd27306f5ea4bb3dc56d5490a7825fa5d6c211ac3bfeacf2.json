@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "876aa6634ecd3b3fcd27306f5ea4bb3dc56d5490a7825fa5d6c211ac3bfeacf2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Desktop-Linux-Mint.png/300px-Desktop-Linux-Mint.png",
+			"previous": " ",
+			"after": " The Free Software Directory maintains a large database of free software packages Some of the best known examples include the Linux Kernel the BSD and GNU Linux operating systems the GNU Compiler Collection and C library the MySQL relational database the Apache web server and the Sendmail mail transport agent Other influential examples include the emacs text editor the GIMP raster drawing and image editor the X Window System graphical display system the LibreOffice office suite and the TeX and LaTeX typesetting systems ",
+			"after_weights": " The|1 Free|0.98795 Software|0.9759 Directory|0.96386 maintains|0.95181 a|0.93976 large|0.92771 database|0.91566 of|0.90361 free|0.89157 software|0.87952 packages|0.86747 Some|0.85542 of|0.84337 the|0.83133 best|0.81928 known|0.80723 examples|0.79518 include|0.78313 the|0.77108 Linux|0.75904 Kernel|0.74699 the|0.73494 BSD|0.72289 and|0.71084 GNU|0.6988 Linux|0.68675 operating|0.6747 systems|0.66265 the|0.6506 GNU|0.63855 Compiler|0.62651 Collection|0.61446 and|0.60241 C|0.59036 library|0.57831 the|0.56627 MySQL|0.55422 relational|0.54217 database|0.53012 the|0.51807 Apache|0.50602 web|0.49398 server|0.48193 and|0.46988 the|0.45783 Sendmail|0.44578 mail|0.43373 transport|0.42169 agent|0.40964 Other|0.39759 influential|0.38554 examples|0.37349 include|0.36145 the|0.3494 emacs|0.33735 text|0.3253 editor|0.31325 the|0.3012 GIMP|0.28916 raster|0.27711 drawing|0.26506 and|0.25301 image|0.24096 editor|0.22892 the|0.21687 X|0.20482 Window|0.19277 System|0.18072 graphical|0.16867 display|0.15663 system|0.14458 the|0.13253 LibreOffice|0.12048 office|0.10843 suite|0.096386 and|0.084337 the|0.072289 TeX|0.060241 and|0.048193 LaTeX|0.036145 typesetting|0.024096 systems|0.012048 |0",
+			"previous_weights": " "
+		}
+	}
+}

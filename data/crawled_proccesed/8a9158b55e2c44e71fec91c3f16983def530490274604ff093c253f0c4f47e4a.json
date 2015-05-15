@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a9158b55e2c44e71fec91c3f16983def530490274604ff093c253f0c4f47e4a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Calliope_on_the_Minnie-Ha-Ha.jpg/220px-Calliope_on_the_Minnie-Ha-Ha.jpg",
+			"previous": " Virtual pipe organs use MIDI to access samples of real pipe organs stored on a computer as opposed to digital organs that use DSP and processor hardware inside a console to produce the sounds or deliver the sound samples Touch screen monitors allows the user to control the virtual organ console a traditional console and its physical stop and coupler controls is not required In such a basic form a virtual organ can be obtained at a much lower cost than other digital classical organs ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Virtual|0 pipe|0.011765 organs|0.023529 use|0.035294 MIDI|0.047059 to|0.058824 access|0.070588 samples|0.082353 of|0.094118 real|0.10588 pipe|0.11765 organs|0.12941 stored|0.14118 on|0.15294 a|0.16471 computer|0.17647 as|0.18824 opposed|0.2 to|0.21176 digital|0.22353 organs|0.23529 that|0.24706 use|0.25882 DSP|0.27059 and|0.28235 processor|0.29412 hardware|0.30588 inside|0.31765 a|0.32941 console|0.34118 to|0.35294 produce|0.36471 the|0.37647 sounds|0.38824 or|0.4 deliver|0.41176 the|0.42353 sound|0.43529 samples|0.44706 Touch|0.45882 screen|0.47059 monitors|0.48235 allows|0.49412 the|0.50588 user|0.51765 to|0.52941 control|0.54118 the|0.55294 virtual|0.56471 organ|0.57647 console|0.58824 a|0.6 traditional|0.61176 console|0.62353 and|0.63529 its|0.64706 physical|0.65882 stop|0.67059 and|0.68235 coupler|0.69412 controls|0.70588 is|0.71765 not|0.72941 required|0.74118 In|0.75294 such|0.76471 a|0.77647 basic|0.78824 form|0.8 a|0.81176 virtual|0.82353 organ|0.83529 can|0.84706 be|0.85882 obtained|0.87059 at|0.88235 a|0.89412 much|0.90588 lower|0.91765 cost|0.92941 than|0.94118 other|0.95294 digital|0.96471 classical|0.97647 organs|0.98824 |1"
+		}
+	}
+}

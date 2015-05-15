@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bb9575e2badb6cbf99455d658bf7c36db3ce8026628bbf891f3478df0295e612",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Apple_Store_Yonkers%2C_NY_January_8%2C_2013.jpg/220px-Apple_Store_Yonkers%2C_NY_January_8%2C_2013.jpg",
+			"previous": " In October 2010 Apple shares hit an all time high eclipsing 300 107 ",
+			"after": " On January 6 2011 the company opened their Mac App Store a digital software distribution platform similar to the existing iOS App Store 108 Alongside peer entities such as Atari and Cisco Systems Apple was featured in the documentary Something Ventured which premiered in 2011 and explored the three decade era that led to the establishment and dominance of Silicon Valley 109 ",
+			"after_weights": " On|1 January|0.98387 6|0.96774 2011|0.95161 the|0.93548 company|0.91935 opened|0.90323 their|0.8871 Mac|0.87097 App|0.85484 Store|0.83871 a|0.82258 digital|0.80645 software|0.79032 distribution|0.77419 platform|0.75806 similar|0.74194 to|0.72581 the|0.70968 existing|0.69355 iOS|0.67742 App|0.66129 Store|0.64516 108|0.62903 Alongside|0.6129 peer|0.59677 entities|0.58065 such|0.56452 as|0.54839 Atari|0.53226 and|0.51613 Cisco|0.5 Systems|0.48387 Apple|0.46774 was|0.45161 featured|0.43548 in|0.41935 the|0.40323 documentary|0.3871 Something|0.37097 Ventured|0.35484 which|0.33871 premiered|0.32258 in|0.30645 2011|0.29032 and|0.27419 explored|0.25806 the|0.24194 three|0.22581 decade|0.20968 era|0.19355 that|0.17742 led|0.16129 to|0.14516 the|0.12903 establishment|0.1129 and|0.096774 dominance|0.080645 of|0.064516 Silicon|0.048387 Valley|0.032258 109|0.016129 |0",
+			"previous_weights": " In|0 October|0.076923 2010|0.15385 Apple|0.23077 shares|0.30769 hit|0.38462 an|0.46154 all|0.53846 time|0.61538 high|0.69231 eclipsing|0.76923 300|0.84615 107|0.92308 |1"
+		}
+	}
+}

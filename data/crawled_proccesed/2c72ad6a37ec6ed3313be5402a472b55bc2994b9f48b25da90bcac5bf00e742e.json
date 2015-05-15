@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2c72ad6a37ec6ed3313be5402a472b55bc2994b9f48b25da90bcac5bf00e742e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Superliner_north_%28305482048%29.jpg/220px-Superliner_north_%28305482048%29.jpg",
+			"previous": " Amtrak has a variety of coaches that suit a variety of needs Class choices are similar to those used by airlines ",
+			"after": " First Class service is currently offered on the Acela Express only Previously First Class was offered on the Northeast Direct predecessor to the Northeast Regional as well as the Metroliner up until that service s discontinuation in 2006 ",
+			"after_weights": " First|1 Class|0.97368 service|0.94737 is|0.92105 currently|0.89474 offered|0.86842 on|0.84211 the|0.81579 Acela|0.78947 Express|0.76316 only|0.73684 Previously|0.71053 First|0.68421 Class|0.65789 was|0.63158 offered|0.60526 on|0.57895 the|0.55263 Northeast|0.52632 Direct|0.5 predecessor|0.47368 to|0.44737 the|0.42105 Northeast|0.39474 Regional|0.36842 as|0.34211 well|0.31579 as|0.28947 the|0.26316 Metroliner|0.23684 up|0.21053 until|0.18421 that|0.15789 service|0.13158 s|0.10526 discontinuation|0.078947 in|0.052632 2006|0.026316 |0",
+			"previous_weights": " Amtrak|0 has|0.047619 a|0.095238 variety|0.14286 of|0.19048 coaches|0.2381 that|0.28571 suit|0.33333 a|0.38095 variety|0.42857 of|0.47619 needs|0.52381 Class|0.57143 choices|0.61905 are|0.66667 similar|0.71429 to|0.7619 those|0.80952 used|0.85714 by|0.90476 airlines|0.95238 |1"
+		}
+	}
+}

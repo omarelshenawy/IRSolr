@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7eeb5b68f4bf92037ba7de72e4ff9994ac40884e31014fa0588ba05c9dea3011",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Daytona_International_Speedway_2011.jpg/220px-Daytona_International_Speedway_2011.jpg",
+			"previous": " ",
+			"after": " Florida has three NFL teams two MLB teams two NBA teams and two NHL teams and will gain an MLS team in Orlando in 2015 Florida gained its first permanent major league professional sports team in 1966 when the American Football League added the Miami Dolphins The state of Florida has given professional sports franchises some subsidies in the form of tax breaks since 1991 194 ",
+			"after_weights": " Florida|1 has|0.98485 three|0.9697 NFL|0.95455 teams|0.93939 two|0.92424 MLB|0.90909 teams|0.89394 two|0.87879 NBA|0.86364 teams|0.84848 and|0.83333 two|0.81818 NHL|0.80303 teams|0.78788 and|0.77273 will|0.75758 gain|0.74242 an|0.72727 MLS|0.71212 team|0.69697 in|0.68182 Orlando|0.66667 in|0.65152 2015|0.63636 Florida|0.62121 gained|0.60606 its|0.59091 first|0.57576 permanent|0.56061 major|0.54545 league|0.5303 professional|0.51515 sports|0.5 team|0.48485 in|0.4697 1966|0.45455 when|0.43939 the|0.42424 American|0.40909 Football|0.39394 League|0.37879 added|0.36364 the|0.34848 Miami|0.33333 Dolphins|0.31818 The|0.30303 state|0.28788 of|0.27273 Florida|0.25758 has|0.24242 given|0.22727 professional|0.21212 sports|0.19697 franchises|0.18182 some|0.16667 subsidies|0.15152 in|0.13636 the|0.12121 form|0.10606 of|0.090909 tax|0.075758 breaks|0.060606 since|0.045455 1991|0.030303 194|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

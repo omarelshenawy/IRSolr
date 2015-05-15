@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c730c5d233a8819e17c08724a2c8b16f8d6f73b2e44b0d5405c6b2d2b56517cc",
+			"url": "https://upload.wikimedia.org/math/3/8/7/387d9be240b561a79f71ad6e47e6361b.png",
+			"previous": " A common choice for the activation or squashing functions used to clip for large magnitudes to keep the response of the neural network bounded 6 is",
+			"after": " which is a logistic function These relationships result in simplified implementations of artificial neural networks with artificial neurons Practitioners caution that sigmoidal functions which are antisymmetric about the origin e g the hyperbolic tangent lead to faster convergence when training networks with backpropagation 7 ",
+			"after_weights": " which|1 is|0.97727 a|0.95455 logistic|0.93182 function|0.90909 These|0.88636 relationships|0.86364 result|0.84091 in|0.81818 simplified|0.79545 implementations|0.77273 of|0.75 artificial|0.72727 neural|0.70455 networks|0.68182 with|0.65909 artificial|0.63636 neurons|0.61364 Practitioners|0.59091 caution|0.56818 that|0.54545 sigmoidal|0.52273 functions|0.5 which|0.47727 are|0.45455 antisymmetric|0.43182 about|0.40909 the|0.38636 origin|0.36364 e|0.34091 g|0.31818 the|0.29545 hyperbolic|0.27273 tangent|0.25 lead|0.22727 to|0.20455 faster|0.18182 convergence|0.15909 when|0.13636 training|0.11364 networks|0.090909 with|0.068182 backpropagation|0.045455 7|0.022727 |0",
+			"previous_weights": " A|0 common|0.04 choice|0.08 for|0.12 the|0.16 activation|0.2 or|0.24 squashing|0.28 functions|0.32 used|0.36 to|0.4 clip|0.44 for|0.48 large|0.52 magnitudes|0.56 to|0.6 keep|0.64 the|0.68 response|0.72 of|0.76 the|0.8 neural|0.84 network|0.88 bounded|0.92 6|0.96 is|1"
+		}
+	}
+}

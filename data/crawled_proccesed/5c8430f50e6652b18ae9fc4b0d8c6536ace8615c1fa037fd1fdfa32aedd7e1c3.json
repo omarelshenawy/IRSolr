@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5c8430f50e6652b18ae9fc4b0d8c6536ace8615c1fa037fd1fdfa32aedd7e1c3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/WAP_Push_Process.jpg/300px-WAP_Push_Process.jpg",
+			"previous": " ",
+			"after": " WAP Push was incorporated into the specification to allow the WAP content to be pushed to the mobile handset with minimum user intervention A WAP Push is basically a specially encoded message which includes a link to a WAP address 3 ",
+			"after_weights": " WAP|1 Push|0.97561 was|0.95122 incorporated|0.92683 into|0.90244 the|0.87805 specification|0.85366 to|0.82927 allow|0.80488 the|0.78049 WAP|0.7561 content|0.73171 to|0.70732 be|0.68293 pushed|0.65854 to|0.63415 the|0.60976 mobile|0.58537 handset|0.56098 with|0.53659 minimum|0.5122 user|0.4878 intervention|0.46341 A|0.43902 WAP|0.41463 Push|0.39024 is|0.36585 basically|0.34146 a|0.31707 specially|0.29268 encoded|0.26829 message|0.2439 which|0.21951 includes|0.19512 a|0.17073 link|0.14634 to|0.12195 a|0.097561 WAP|0.073171 address|0.04878 3|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "714b437603addfd28857050ef31d0b973c42e581a577d6cb44b42dc63cc39f9e",
+			"url": "https://upload.wikimedia.org/math/1/3/8/13899aa46204b02713a854702142955d.png",
+			"previous": " For we have the particular case with which we started  Now setting gives the differential equation",
+			"after": " where Which is to say that K is the limiting value of P the highest value that the population can reach given infinite time or come close to reaching in finite time It is important to stress that the carrying capacity is asymptotically reached independently of the initial value P 0 0 also in case that P 0 K ",
+			"after_weights": " where|1 Which|0.98305 is|0.9661 to|0.94915 say|0.9322 that|0.91525 K|0.89831 is|0.88136 the|0.86441 limiting|0.84746 value|0.83051 of|0.81356 P|0.79661 the|0.77966 highest|0.76271 value|0.74576 that|0.72881 the|0.71186 population|0.69492 can|0.67797 reach|0.66102 given|0.64407 infinite|0.62712 time|0.61017 or|0.59322 come|0.57627 close|0.55932 to|0.54237 reaching|0.52542 in|0.50847 finite|0.49153 time|0.47458 It|0.45763 is|0.44068 important|0.42373 to|0.40678 stress|0.38983 that|0.37288 the|0.35593 carrying|0.33898 capacity|0.32203 is|0.30508 asymptotically|0.28814 reached|0.27119 independently|0.25424 of|0.23729 the|0.22034 initial|0.20339 value|0.18644 P|0.16949 0|0.15254 0|0.13559 also|0.11864 in|0.10169 case|0.084746 that|0.067797 P|0.050847 0|0.033898 K|0.016949 |0",
+			"previous_weights": " For|0 we|0.0625 have|0.125 the|0.1875 particular|0.25 case|0.3125 with|0.375 which|0.4375 we|0.5 started|0.5625 |0.625 Now|0.6875 setting|0.75 gives|0.8125 the|0.875 differential|0.9375 equation|1"
+		}
+	}
+}

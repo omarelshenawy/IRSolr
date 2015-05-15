@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ee9876741d422787d617668049f91cafe88801b049b23fcad20a5eda64fb779a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Richard_Stallman_00.jpg/170px-Richard_Stallman_00.jpg",
+			"previous": " ",
+			"after": " Stallman announced the plan for the GNU operating system in September 1983 on several ARPANET mailing lists and USENET 28  Stallman started the project on his own and describes As an operating system developer I had the right skills for this job So even though I could not take success for granted I realized that I was elected to do the job I chose to make the system compatible with Unix so that it would be portable and so that Unix users could easily switch to it 29 ",
+			"after_weights": " Stallman|1 announced|0.98876 the|0.97753 plan|0.96629 for|0.95506 the|0.94382 GNU|0.93258 operating|0.92135 system|0.91011 in|0.89888 September|0.88764 1983|0.8764 on|0.86517 several|0.85393 ARPANET|0.8427 mailing|0.83146 lists|0.82022 and|0.80899 USENET|0.79775 28|0.78652 |0.77528 Stallman|0.76404 started|0.75281 the|0.74157 project|0.73034 on|0.7191 his|0.70787 own|0.69663 and|0.68539 describes|0.67416 As|0.66292 an|0.65169 operating|0.64045 system|0.62921 developer|0.61798 I|0.60674 had|0.59551 the|0.58427 right|0.57303 skills|0.5618 for|0.55056 this|0.53933 job|0.52809 So|0.51685 even|0.50562 though|0.49438 I|0.48315 could|0.47191 not|0.46067 take|0.44944 success|0.4382 for|0.42697 granted|0.41573 I|0.40449 realized|0.39326 that|0.38202 I|0.37079 was|0.35955 elected|0.34831 to|0.33708 do|0.32584 the|0.31461 job|0.30337 I|0.29213 chose|0.2809 to|0.26966 make|0.25843 the|0.24719 system|0.23596 compatible|0.22472 with|0.21348 Unix|0.20225 so|0.19101 that|0.17978 it|0.16854 would|0.1573 be|0.14607 portable|0.13483 and|0.1236 so|0.11236 that|0.10112 Unix|0.089888 users|0.078652 could|0.067416 easily|0.05618 switch|0.044944 to|0.033708 it|0.022472 29|0.011236 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d088fe5bff5a26a587e7f62d5c7947ba7cb5350dc4cb034d7baf63fca7f8bbd6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Qantas_A380_VH-OQB_Sydney.jpg/220px-Qantas_A380_VH-OQB_Sydney.jpg",
+			"previous": " ",
+			"after": " Kingsford Smith Airport commonly Sydney Airport and locally referred to as Mascot Airport or just Mascot located in the southern Sydney suburb of Mascot is the major airport for not just the state but the whole nation It is a hub for Australia s national airline Qantas ",
+			"after_weights": " Kingsford|1 Smith|0.97872 Airport|0.95745 commonly|0.93617 Sydney|0.91489 Airport|0.89362 and|0.87234 locally|0.85106 referred|0.82979 to|0.80851 as|0.78723 Mascot|0.76596 Airport|0.74468 or|0.7234 just|0.70213 Mascot|0.68085 located|0.65957 in|0.6383 the|0.61702 southern|0.59574 Sydney|0.57447 suburb|0.55319 of|0.53191 Mascot|0.51064 is|0.48936 the|0.46809 major|0.44681 airport|0.42553 for|0.40426 not|0.38298 just|0.3617 the|0.34043 state|0.31915 but|0.29787 the|0.2766 whole|0.25532 nation|0.23404 It|0.21277 is|0.19149 a|0.17021 hub|0.14894 for|0.12766 Australia|0.10638 s|0.085106 national|0.06383 airline|0.042553 Qantas|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

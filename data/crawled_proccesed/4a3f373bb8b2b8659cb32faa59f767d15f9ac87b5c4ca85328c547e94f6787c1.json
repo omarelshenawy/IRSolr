@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a3f373bb8b2b8659cb32faa59f767d15f9ac87b5c4ca85328c547e94f6787c1",
+			"url": "https://upload.wikimedia.org/math/c/4/8/c48e22b1e13e4648a6d0b41a6ac0eeee.png",
+			"previous": " Combining yields Now Using y as the disk radius the volume of the sphere can be calculated as",
+			"after": "   The cone is a type of pyramidal shape The fundamental equation for pyramids one third times base times altitude applies to cones as well ",
+			"after_weights": " |1 |0.96154 The|0.92308 cone|0.88462 is|0.84615 a|0.80769 type|0.76923 of|0.73077 pyramidal|0.69231 shape|0.65385 The|0.61538 fundamental|0.57692 equation|0.53846 for|0.5 pyramids|0.46154 one|0.42308 third|0.38462 times|0.34615 base|0.30769 times|0.26923 altitude|0.23077 applies|0.19231 to|0.15385 cones|0.11538 as|0.076923 well|0.038462 |0",
+			"previous_weights": " Combining|0 yields|0.058824 Now|0.11765 Using|0.17647 y|0.23529 as|0.29412 the|0.35294 disk|0.41176 radius|0.47059 the|0.52941 volume|0.58824 of|0.64706 the|0.70588 sphere|0.76471 can|0.82353 be|0.88235 calculated|0.94118 as|1"
+		}
+	}
+}

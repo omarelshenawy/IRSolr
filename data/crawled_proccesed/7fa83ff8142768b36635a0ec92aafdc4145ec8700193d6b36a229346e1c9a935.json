@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fa83ff8142768b36635a0ec92aafdc4145ec8700193d6b36a229346e1c9a935",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Countries_by_population_density.svg/350px-Countries_by_population_density.svg.png",
+			"previous": " ",
+			"after": " The continent of Asia covers 29 4 of the Earth s land area and has a population of over 4 billion accounting for about 56 of the world population Together China s and India s populations are estimated to be around 2 6 billion people ",
+			"after_weights": " The|1 continent|0.97778 of|0.95556 Asia|0.93333 covers|0.91111 29|0.88889 4|0.86667 of|0.84444 the|0.82222 Earth|0.8 s|0.77778 land|0.75556 area|0.73333 and|0.71111 has|0.68889 a|0.66667 population|0.64444 of|0.62222 over|0.6 4|0.57778 billion|0.55556 accounting|0.53333 for|0.51111 about|0.48889 56|0.46667 of|0.44444 the|0.42222 world|0.4 population|0.37778 Together|0.35556 China|0.33333 s|0.31111 and|0.28889 India|0.26667 s|0.24444 populations|0.22222 are|0.2 estimated|0.17778 to|0.15556 be|0.13333 around|0.11111 2|0.088889 6|0.066667 billion|0.044444 people|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

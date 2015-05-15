@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e1d168f170c883d71ba255b6f11d612609bcfcb143406f3c313d0ea276e1c9ce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CurratExcoffierNeandethalmtDNA.png/350px-CurratExcoffierNeandethalmtDNA.png",
+			"previous": " ",
+			"after": " As Paul Jordan notes A natural sympathy for the underdog and the disadvantaged lends a sad poignancy to the fate of the Neanderthal folk however it came about Jordan though does say that there was perhaps interbreeding to some extent but that populations that remained totally Neanderthal were probably out competed and marginalized to extinction by the Aurignacians 64 ",
+			"after_weights": " As|1 Paul|0.98305 Jordan|0.9661 notes|0.94915 A|0.9322 natural|0.91525 sympathy|0.89831 for|0.88136 the|0.86441 underdog|0.84746 and|0.83051 the|0.81356 disadvantaged|0.79661 lends|0.77966 a|0.76271 sad|0.74576 poignancy|0.72881 to|0.71186 the|0.69492 fate|0.67797 of|0.66102 the|0.64407 Neanderthal|0.62712 folk|0.61017 however|0.59322 it|0.57627 came|0.55932 about|0.54237 Jordan|0.52542 though|0.50847 does|0.49153 say|0.47458 that|0.45763 there|0.44068 was|0.42373 perhaps|0.40678 interbreeding|0.38983 to|0.37288 some|0.35593 extent|0.33898 but|0.32203 that|0.30508 populations|0.28814 that|0.27119 remained|0.25424 totally|0.23729 Neanderthal|0.22034 were|0.20339 probably|0.18644 out|0.16949 competed|0.15254 and|0.13559 marginalized|0.11864 to|0.10169 extinction|0.084746 by|0.067797 the|0.050847 Aurignacians|0.033898 64|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

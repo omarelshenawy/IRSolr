@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "649b602ec691f278af2fad3e3d160d1258bb45d2bc42ec582e1299f83e888a93",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Population_Distribution_of_Tuvalu_by_Age_Group_%282014%29.png/220px-Population_Distribution_of_Tuvalu_by_Age_Group_%282014%29.png",
+			"previous": " ",
+			"after": " The country s population has more than doubled since 1980 with a growth rate of 0 702 The population at the 2002 census was 9 561 97 and the population at the 2012 census was 10 837 2012 Population Housing Census Preliminary Analytical Report 1 The population of Tuvalu is primarily of Polynesian ethnicity with approximately 4 of the population being Micronesian 98 The net migration rate is estimated at 7 02 migrant s 1 000 population 2011 est 98 ",
+			"after_weights": " The|1 country|0.9875 s|0.975 population|0.9625 has|0.95 more|0.9375 than|0.925 doubled|0.9125 since|0.9 1980|0.8875 with|0.875 a|0.8625 growth|0.85 rate|0.8375 of|0.825 0|0.8125 702|0.8 The|0.7875 population|0.775 at|0.7625 the|0.75 2002|0.7375 census|0.725 was|0.7125 9|0.7 561|0.6875 97|0.675 and|0.6625 the|0.65 population|0.6375 at|0.625 the|0.6125 2012|0.6 census|0.5875 was|0.575 10|0.5625 837|0.55 2012|0.5375 Population|0.525 Housing|0.5125 Census|0.5 Preliminary|0.4875 Analytical|0.475 Report|0.4625 1|0.45 The|0.4375 population|0.425 of|0.4125 Tuvalu|0.4 is|0.3875 primarily|0.375 of|0.3625 Polynesian|0.35 ethnicity|0.3375 with|0.325 approximately|0.3125 4|0.3 of|0.2875 the|0.275 population|0.2625 being|0.25 Micronesian|0.2375 98|0.225 The|0.2125 net|0.2 migration|0.1875 rate|0.175 is|0.1625 estimated|0.15 at|0.1375 7|0.125 02|0.1125 migrant|0.1 s|0.0875 1|0.075 000|0.0625 population|0.05 2011|0.0375 est|0.025 98|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

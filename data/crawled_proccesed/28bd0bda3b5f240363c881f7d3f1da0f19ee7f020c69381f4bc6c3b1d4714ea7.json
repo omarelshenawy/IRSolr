@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "28bd0bda3b5f240363c881f7d3f1da0f19ee7f020c69381f4bc6c3b1d4714ea7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Example-of-Article-Plagiarism-Diagram.png/220px-Example-of-Article-Plagiarism-Diagram.png",
+			"previous": " For professors and researchers plagiarism is punished by sanctions ranging from suspension to termination along with the loss of credibility and perceived integrity 15 16 Charges of plagiarism against students and professors are typically heard by internal disciplinary committees by which students and professors have agreed to be bound 17 ",
+			"after": " No universally adopted definition of academic plagiarism exists however this section provides several definitions to exemplify the most common characteristics of academic plagiarism  According to Bela Gipp 18 academic plagiarism encompasses ",
+			"after_weights": " No|1 universally|0.96875 adopted|0.9375 definition|0.90625 of|0.875 academic|0.84375 plagiarism|0.8125 exists|0.78125 however|0.75 this|0.71875 section|0.6875 provides|0.65625 several|0.625 definitions|0.59375 to|0.5625 exemplify|0.53125 the|0.5 most|0.46875 common|0.4375 characteristics|0.40625 of|0.375 academic|0.34375 plagiarism|0.3125 |0.28125 According|0.25 to|0.21875 Bela|0.1875 Gipp|0.15625 18|0.125 academic|0.09375 plagiarism|0.0625 encompasses|0.03125 |0",
+			"previous_weights": " For|0 professors|0.02 and|0.04 researchers|0.06 plagiarism|0.08 is|0.1 punished|0.12 by|0.14 sanctions|0.16 ranging|0.18 from|0.2 suspension|0.22 to|0.24 termination|0.26 along|0.28 with|0.3 the|0.32 loss|0.34 of|0.36 credibility|0.38 and|0.4 perceived|0.42 integrity|0.44 15|0.46 16|0.48 Charges|0.5 of|0.52 plagiarism|0.54 against|0.56 students|0.58 and|0.6 professors|0.62 are|0.64 typically|0.66 heard|0.68 by|0.7 internal|0.72 disciplinary|0.74 committees|0.76 by|0.78 which|0.8 students|0.82 and|0.84 professors|0.86 have|0.88 agreed|0.9 to|0.92 be|0.94 bound|0.96 17|0.98 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c6f9a9e042812149ad6dd30a29441f41f150c73a9d57b810e8a4b63496880a8b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png",
+			"previous": " ",
+			"after": " African American culture African Americans in Omaha Nebraska Anarchism in Cuba Anarchy in Somalia Community Culture Est and The Forum in popular culture Fair trade Ferdinand T nnies Gender Homosexuality Long hair Mork Goes Erk On the Internet nobody knows you re a dog Politics Smoking Social class in the United States Technological singularity Tony Boles",
+			"after_weights": " African|1 American|0.98182 culture|0.96364 African|0.94545 Americans|0.92727 in|0.90909 Omaha|0.89091 Nebraska|0.87273 Anarchism|0.85455 in|0.83636 Cuba|0.81818 Anarchy|0.8 in|0.78182 Somalia|0.76364 Community|0.74545 Culture|0.72727 Est|0.70909 and|0.69091 The|0.67273 Forum|0.65455 in|0.63636 popular|0.61818 culture|0.6 Fair|0.58182 trade|0.56364 Ferdinand|0.54545 T|0.52727 nnies|0.50909 Gender|0.49091 Homosexuality|0.47273 Long|0.45455 hair|0.43636 Mork|0.41818 Goes|0.4 Erk|0.38182 On|0.36364 the|0.34545 Internet|0.32727 nobody|0.30909 knows|0.29091 you|0.27273 re|0.25455 a|0.23636 dog|0.21818 Politics|0.2 Smoking|0.18182 Social|0.16364 class|0.14545 in|0.12727 the|0.10909 United|0.090909 States|0.072727 Technological|0.054545 singularity|0.036364 Tony|0.018182 Boles|0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ed356fd39e09e76b922f543f1b0b03c616cc50d0d8cb47687f72a870be6ff5a",
+			"url": "https://upload.wikimedia.org/math/9/7/f/97f763db9558f0b4898955a17bb21f06.png",
+			"previous": " This allows an exponentially growing variable to be modeled with a log linear model For example if one wishes to empirically estimate the growth rate from intertemporal data on x one can linearly regress log x on t ",
+			"after": " saying that the growth rate of x at time t is proportional to the value of x t and it has the initial value",
+			"after_weights": " saying|1 that|0.95652 the|0.91304 growth|0.86957 rate|0.82609 of|0.78261 x|0.73913 at|0.69565 time|0.65217 t|0.6087 is|0.56522 proportional|0.52174 to|0.47826 the|0.43478 value|0.3913 of|0.34783 x|0.30435 t|0.26087 and|0.21739 it|0.17391 has|0.13043 the|0.086957 initial|0.043478 value|0",
+			"previous_weights": " This|0 allows|0.026316 an|0.052632 exponentially|0.078947 growing|0.10526 variable|0.13158 to|0.15789 be|0.18421 modeled|0.21053 with|0.23684 a|0.26316 log|0.28947 linear|0.31579 model|0.34211 For|0.36842 example|0.39474 if|0.42105 one|0.44737 wishes|0.47368 to|0.5 empirically|0.52632 estimate|0.55263 the|0.57895 growth|0.60526 rate|0.63158 from|0.65789 intertemporal|0.68421 data|0.71053 on|0.73684 x|0.76316 one|0.78947 can|0.81579 linearly|0.84211 regress|0.86842 log|0.89474 x|0.92105 on|0.94737 t|0.97368 |1"
+		}
+	}
+}

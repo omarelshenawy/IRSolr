@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "759b7372d0594aaca29de9ee2a31204f3c462b7f6b139fb0252d5af851d2fa25",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Question_dropshade.png/30px-Question_dropshade.png",
+			"previous": " This list has been moved to its own page  The Geography Portal is associated with WikiProject Geography ",
+			"after": " In general coordinates should be added to any article about a location structure or geographic feature that is more or less fixed in one place Such items can vary in size from a single tree or smaller to entire oceans or continents Coordinates should also be added to articles about events that are associated with a single location for example the Ufa train disaster Guidelines for less obvious situations are given below ",
+			"after_weights": " In|1 general|0.98611 coordinates|0.97222 should|0.95833 be|0.94444 added|0.93056 to|0.91667 any|0.90278 article|0.88889 about|0.875 a|0.86111 location|0.84722 structure|0.83333 or|0.81944 geographic|0.80556 feature|0.79167 that|0.77778 is|0.76389 more|0.75 or|0.73611 less|0.72222 fixed|0.70833 in|0.69444 one|0.68056 place|0.66667 Such|0.65278 items|0.63889 can|0.625 vary|0.61111 in|0.59722 size|0.58333 from|0.56944 a|0.55556 single|0.54167 tree|0.52778 or|0.51389 smaller|0.5 to|0.48611 entire|0.47222 oceans|0.45833 or|0.44444 continents|0.43056 Coordinates|0.41667 should|0.40278 also|0.38889 be|0.375 added|0.36111 to|0.34722 articles|0.33333 about|0.31944 events|0.30556 that|0.29167 are|0.27778 associated|0.26389 with|0.25 a|0.23611 single|0.22222 location|0.20833 for|0.19444 example|0.18056 the|0.16667 Ufa|0.15278 train|0.13889 disaster|0.125 Guidelines|0.11111 for|0.097222 less|0.083333 obvious|0.069444 situations|0.055556 are|0.041667 given|0.027778 below|0.013889 |0",
+			"previous_weights": " This|0 list|0.055556 has|0.11111 been|0.16667 moved|0.22222 to|0.27778 its|0.33333 own|0.38889 page|0.44444 |0.5 The|0.55556 Geography|0.61111 Portal|0.66667 is|0.72222 associated|0.77778 with|0.83333 WikiProject|0.88889 Geography|0.94444 |1"
+		}
+	}
+}

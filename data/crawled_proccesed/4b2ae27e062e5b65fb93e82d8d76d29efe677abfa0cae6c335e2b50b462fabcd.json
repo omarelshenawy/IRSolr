@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b2ae27e062e5b65fb93e82d8d76d29efe677abfa0cae6c335e2b50b462fabcd",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/CamPress1.jpg/220px-CamPress1.jpg",
+			"previous": " The Education group delivers educational products and solutions for primary secondary and international schools and Education Ministries worldwide ",
+			"after": " Owing to the changes taking place in the way that books and content are bought and accessed Cambridge believes that digital products services and solutions could account for two thirds of its sales by 2020 12 ",
+			"after_weights": " Owing|1 to|0.97222 the|0.94444 changes|0.91667 taking|0.88889 place|0.86111 in|0.83333 the|0.80556 way|0.77778 that|0.75 books|0.72222 and|0.69444 content|0.66667 are|0.63889 bought|0.61111 and|0.58333 accessed|0.55556 Cambridge|0.52778 believes|0.5 that|0.47222 digital|0.44444 products|0.41667 services|0.38889 and|0.36111 solutions|0.33333 could|0.30556 account|0.27778 for|0.25 two|0.22222 thirds|0.19444 of|0.16667 its|0.13889 sales|0.11111 by|0.083333 2020|0.055556 12|0.027778 |0",
+			"previous_weights": " The|0 Education|0.055556 group|0.11111 delivers|0.16667 educational|0.22222 products|0.27778 and|0.33333 solutions|0.38889 for|0.44444 primary|0.5 secondary|0.55556 and|0.61111 international|0.66667 schools|0.72222 and|0.77778 Education|0.83333 Ministries|0.88889 worldwide|0.94444 |1"
+		}
+	}
+}

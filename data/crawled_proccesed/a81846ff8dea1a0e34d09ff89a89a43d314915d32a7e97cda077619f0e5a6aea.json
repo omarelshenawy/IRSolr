@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a81846ff8dea1a0e34d09ff89a89a43d314915d32a7e97cda077619f0e5a6aea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Philippines_Population_Density_Map.svg/220px-Philippines_Population_Density_Map.svg.png",
+			"previous": " ",
+			"after": " The population of the Philippines increased from 1990 to 2008 by approximately 28 million a 45 growth in that time frame 317 The first official census in the Philippines was carried out in 1877 and recorded a population of 5 567 685 318 ",
+			"after_weights": " The|1 population|0.97674 of|0.95349 the|0.93023 Philippines|0.90698 increased|0.88372 from|0.86047 1990|0.83721 to|0.81395 2008|0.7907 by|0.76744 approximately|0.74419 28|0.72093 million|0.69767 a|0.67442 45|0.65116 growth|0.62791 in|0.60465 that|0.5814 time|0.55814 frame|0.53488 317|0.51163 The|0.48837 first|0.46512 official|0.44186 census|0.4186 in|0.39535 the|0.37209 Philippines|0.34884 was|0.32558 carried|0.30233 out|0.27907 in|0.25581 1877|0.23256 and|0.2093 recorded|0.18605 a|0.16279 population|0.13953 of|0.11628 5|0.093023 567|0.069767 685|0.046512 318|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

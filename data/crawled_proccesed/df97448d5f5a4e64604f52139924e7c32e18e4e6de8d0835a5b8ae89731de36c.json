@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "df97448d5f5a4e64604f52139924e7c32e18e4e6de8d0835a5b8ae89731de36c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Shostakovich.jpg/250px-Shostakovich.jpg",
+			"previous": " Shostakovich died of lung cancer on 9 August 1975 and after a civic funeral was interred in the Novodevichy Cemetery Moscow Even before his death he had been commemorated with the naming of the Shostakovich Peninsula on Alexander Island Antarctica ",
+			"after": " He was survived by his third wife Irina his daughter Galina and his son Maxim a pianist and conductor who was the dedicatee and first performer of some of his father s works Shostakovich himself left behind several recordings of his own piano works while other noted interpreters of his music include his friends Emil Gilels Mstislav Rostropovich Tatiana Nikolayeva Maria Yudina David Oistrakh and members of the Beethoven Quartet ",
+			"after_weights": " He|1 was|0.98571 survived|0.97143 by|0.95714 his|0.94286 third|0.92857 wife|0.91429 Irina|0.9 his|0.88571 daughter|0.87143 Galina|0.85714 and|0.84286 his|0.82857 son|0.81429 Maxim|0.8 a|0.78571 pianist|0.77143 and|0.75714 conductor|0.74286 who|0.72857 was|0.71429 the|0.7 dedicatee|0.68571 and|0.67143 first|0.65714 performer|0.64286 of|0.62857 some|0.61429 of|0.6 his|0.58571 father|0.57143 s|0.55714 works|0.54286 Shostakovich|0.52857 himself|0.51429 left|0.5 behind|0.48571 several|0.47143 recordings|0.45714 of|0.44286 his|0.42857 own|0.41429 piano|0.4 works|0.38571 while|0.37143 other|0.35714 noted|0.34286 interpreters|0.32857 of|0.31429 his|0.3 music|0.28571 include|0.27143 his|0.25714 friends|0.24286 Emil|0.22857 Gilels|0.21429 Mstislav|0.2 Rostropovich|0.18571 Tatiana|0.17143 Nikolayeva|0.15714 Maria|0.14286 Yudina|0.12857 David|0.11429 Oistrakh|0.1 and|0.085714 members|0.071429 of|0.057143 the|0.042857 Beethoven|0.028571 Quartet|0.014286 |0",
+			"previous_weights": " Shostakovich|0 died|0.025 of|0.05 lung|0.075 cancer|0.1 on|0.125 9|0.15 August|0.175 1975|0.2 and|0.225 after|0.25 a|0.275 civic|0.3 funeral|0.325 was|0.35 interred|0.375 in|0.4 the|0.425 Novodevichy|0.45 Cemetery|0.475 Moscow|0.5 Even|0.525 before|0.55 his|0.575 death|0.6 he|0.625 had|0.65 been|0.675 commemorated|0.7 with|0.725 the|0.75 naming|0.775 of|0.8 the|0.825 Shostakovich|0.85 Peninsula|0.875 on|0.9 Alexander|0.925 Island|0.95 Antarctica|0.975 |1"
+		}
+	}
+}

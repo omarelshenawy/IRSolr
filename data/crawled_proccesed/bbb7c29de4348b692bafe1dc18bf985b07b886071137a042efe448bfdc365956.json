@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bbb7c29de4348b692bafe1dc18bf985b07b886071137a042efe448bfdc365956",
+			"url": "https://upload.wikimedia.org/math/4/e/7/4e739481952130536669746e7c52ca5b.png",
+			"previous": " Logistic functions are used in logistic regression to model how the probability p of an event may be affected by one or more explanatory variables an example would be to have the model",
+			"after": " where x is the explanatory variable and a and b are model parameters to be fitted ",
+			"after_weights": " where|1 x|0.9375 is|0.875 the|0.8125 explanatory|0.75 variable|0.6875 and|0.625 a|0.5625 and|0.5 b|0.4375 are|0.375 model|0.3125 parameters|0.25 to|0.1875 be|0.125 fitted|0.0625 |0",
+			"previous_weights": " Logistic|0 functions|0.03125 are|0.0625 used|0.09375 in|0.125 logistic|0.15625 regression|0.1875 to|0.21875 model|0.25 how|0.28125 the|0.3125 probability|0.34375 p|0.375 of|0.40625 an|0.4375 event|0.46875 may|0.5 be|0.53125 affected|0.5625 by|0.59375 one|0.625 or|0.65625 more|0.6875 explanatory|0.71875 variables|0.75 an|0.78125 example|0.8125 would|0.84375 be|0.875 to|0.90625 have|0.9375 the|0.96875 model|1"
+		}
+	}
+}

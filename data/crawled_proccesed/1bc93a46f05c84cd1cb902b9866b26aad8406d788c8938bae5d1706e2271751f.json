@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bc93a46f05c84cd1cb902b9866b26aad8406d788c8938bae5d1706e2271751f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Rosina_Galli_3_-_Dec_1919_Shadowland.jpg/67px-Rosina_Galli_3_-_Dec_1919_Shadowland.jpg",
+			"previous": " ",
+			"after": "  that Rosina Galli pictured was the prima ballerina at La Scala Theatre Ballet before she became the premi re danseuse at the Metropolitan Opera House   that LeRoy Prinz who staged dances in dozens of Hollywood movies in the 1930s and 1940s was more an idea man than a choreographer using simple steps and dance routines ",
+			"after_weights": " |1 that|0.98276 Rosina|0.96552 Galli|0.94828 pictured|0.93103 was|0.91379 the|0.89655 prima|0.87931 ballerina|0.86207 at|0.84483 La|0.82759 Scala|0.81034 Theatre|0.7931 Ballet|0.77586 before|0.75862 she|0.74138 became|0.72414 the|0.7069 premi|0.68966 re|0.67241 danseuse|0.65517 at|0.63793 the|0.62069 Metropolitan|0.60345 Opera|0.58621 House|0.56897 |0.55172 |0.53448 that|0.51724 LeRoy|0.5 Prinz|0.48276 who|0.46552 staged|0.44828 dances|0.43103 in|0.41379 dozens|0.39655 of|0.37931 Hollywood|0.36207 movies|0.34483 in|0.32759 the|0.31034 1930s|0.2931 and|0.27586 1940s|0.25862 was|0.24138 more|0.22414 an|0.2069 idea|0.18966 man|0.17241 than|0.15517 a|0.13793 choreographer|0.12069 using|0.10345 simple|0.086207 steps|0.068966 and|0.051724 dance|0.034483 routines|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

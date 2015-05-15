@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fe18c33ac5c5b48219afe912d71d1be13c6db7522b9fe885d1701f9ccb9d474",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_in_Nuremberg_Chronicle.jpg/170px-Aristotle_in_Nuremberg_Chronicle.jpg",
+			"previous": " In general the details of the life of Aristotle are not well established The biographies of Aristotle written in ancient times are often speculative and historians only agree on a few salient points 22 ",
+			"after": " With the Prior Analytics Aristotle is credited with the earliest study of formal logic 23 and his conception of it was the dominant form of Western logic until 19th century advances in mathematical logic 24 Kant stated in the Critique of Pure Reason that Aristotle s theory of logic completely accounted for the core of deductive inference ",
+			"after_weights": " With|1 the|0.98246 Prior|0.96491 Analytics|0.94737 Aristotle|0.92982 is|0.91228 credited|0.89474 with|0.87719 the|0.85965 earliest|0.84211 study|0.82456 of|0.80702 formal|0.78947 logic|0.77193 23|0.75439 and|0.73684 his|0.7193 conception|0.70175 of|0.68421 it|0.66667 was|0.64912 the|0.63158 dominant|0.61404 form|0.59649 of|0.57895 Western|0.5614 logic|0.54386 until|0.52632 19th|0.50877 century|0.49123 advances|0.47368 in|0.45614 mathematical|0.4386 logic|0.42105 24|0.40351 Kant|0.38596 stated|0.36842 in|0.35088 the|0.33333 Critique|0.31579 of|0.29825 Pure|0.2807 Reason|0.26316 that|0.24561 Aristotle|0.22807 s|0.21053 theory|0.19298 of|0.17544 logic|0.15789 completely|0.14035 accounted|0.12281 for|0.10526 the|0.087719 core|0.070175 of|0.052632 deductive|0.035088 inference|0.017544 |0",
+			"previous_weights": " In|0 general|0.029412 the|0.058824 details|0.088235 of|0.11765 the|0.14706 life|0.17647 of|0.20588 Aristotle|0.23529 are|0.26471 not|0.29412 well|0.32353 established|0.35294 The|0.38235 biographies|0.41176 of|0.44118 Aristotle|0.47059 written|0.5 in|0.52941 ancient|0.55882 times|0.58824 are|0.61765 often|0.64706 speculative|0.67647 and|0.70588 historians|0.73529 only|0.76471 agree|0.79412 on|0.82353 a|0.85294 few|0.88235 salient|0.91176 points|0.94118 22|0.97059 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b29fb58196f6b52cad164089f22dbe24793a4e21b5181ef94bc9a022401327d8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Andrew_Dalby.JPG/220px-Andrew_Dalby.JPG",
+			"previous": " ",
+			"after": " Andrew Dalby born 1947 in Liverpool is an English linguist translator and historian who has written articles and several books on a wide range of topics including food history language and Classical texts ",
+			"after_weights": " Andrew|1 Dalby|0.9697 born|0.93939 1947|0.90909 in|0.87879 Liverpool|0.84848 is|0.81818 an|0.78788 English|0.75758 linguist|0.72727 translator|0.69697 and|0.66667 historian|0.63636 who|0.60606 has|0.57576 written|0.54545 articles|0.51515 and|0.48485 several|0.45455 books|0.42424 on|0.39394 a|0.36364 wide|0.33333 range|0.30303 of|0.27273 topics|0.24242 including|0.21212 food|0.18182 history|0.15152 language|0.12121 and|0.090909 Classical|0.060606 texts|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

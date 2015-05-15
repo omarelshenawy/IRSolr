@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b3b3ebbb5a6a87cf557f030b6808fca6177110dfd5f930a4ae992638f884f621",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Wikipedia_Loves_Libraries_at_Multnomah_County_%28OR%29_Library_%282nd_photo%29.jpg/220px-Wikipedia_Loves_Libraries_at_Multnomah_County_%28OR%29_Library_%282nd_photo%29.jpg",
+			"previous": " Click on the following links for details by year  Everyone is free to start a Wikipedia Loves Libraries page for your local institution and please sign up at your event s meetup page ",
+			"after": " Individual participants might include for instance Wikipedians and or non Wikipedians working offline and or online  Events can be organized by Wikipedians or by librarians or any interested members of the public ",
+			"after_weights": " Individual|1 participants|0.9697 might|0.93939 include|0.90909 for|0.87879 instance|0.84848 Wikipedians|0.81818 and|0.78788 or|0.75758 non|0.72727 Wikipedians|0.69697 working|0.66667 offline|0.63636 and|0.60606 or|0.57576 online|0.54545 |0.51515 Events|0.48485 can|0.45455 be|0.42424 organized|0.39394 by|0.36364 Wikipedians|0.33333 or|0.30303 by|0.27273 librarians|0.24242 or|0.21212 any|0.18182 interested|0.15152 members|0.12121 of|0.090909 the|0.060606 public|0.030303 |0",
+			"previous_weights": " Click|0 on|0.029412 the|0.058824 following|0.088235 links|0.11765 for|0.14706 details|0.17647 by|0.20588 year|0.23529 |0.26471 Everyone|0.29412 is|0.32353 free|0.35294 to|0.38235 start|0.41176 a|0.44118 Wikipedia|0.47059 Loves|0.5 Libraries|0.52941 page|0.55882 for|0.58824 your|0.61765 local|0.64706 institution|0.67647 and|0.70588 please|0.73529 sign|0.76471 up|0.79412 at|0.82353 your|0.85294 event|0.88235 s|0.91176 meetup|0.94118 page|0.97059 |1"
+		}
+	}
+}

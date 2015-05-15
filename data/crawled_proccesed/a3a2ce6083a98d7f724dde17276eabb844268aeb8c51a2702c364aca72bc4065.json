@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a3a2ce6083a98d7f724dde17276eabb844268aeb8c51a2702c364aca72bc4065",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Xerox_Alto_mit_Rechner.JPG/220px-Xerox_Alto_mit_Rechner.JPG",
+			"previous": " ",
+			"after": " Most of these developments were included in the Alto which added the now familiar SRI developed mouse 5 unifying into a single model most aspects of now standard personal computer use The integration of Ethernet prompted the development of the PARC Universal Packet architecture much like today s Internet ",
+			"after_weights": " Most|1 of|0.97959 these|0.95918 developments|0.93878 were|0.91837 included|0.89796 in|0.87755 the|0.85714 Alto|0.83673 which|0.81633 added|0.79592 the|0.77551 now|0.7551 familiar|0.73469 SRI|0.71429 developed|0.69388 mouse|0.67347 5|0.65306 unifying|0.63265 into|0.61224 a|0.59184 single|0.57143 model|0.55102 most|0.53061 aspects|0.5102 of|0.4898 now|0.46939 standard|0.44898 personal|0.42857 computer|0.40816 use|0.38776 The|0.36735 integration|0.34694 of|0.32653 Ethernet|0.30612 prompted|0.28571 the|0.26531 development|0.2449 of|0.22449 the|0.20408 PARC|0.18367 Universal|0.16327 Packet|0.14286 architecture|0.12245 much|0.10204 like|0.081633 today|0.061224 s|0.040816 Internet|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

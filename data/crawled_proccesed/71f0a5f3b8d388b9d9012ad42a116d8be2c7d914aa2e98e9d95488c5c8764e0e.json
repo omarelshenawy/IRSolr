@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "71f0a5f3b8d388b9d9012ad42a116d8be2c7d914aa2e98e9d95488c5c8764e0e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jacqueline_Cochran_in_P-40.jpg/100px-Jacqueline_Cochran_in_P-40.jpg",
+			"previous": " May 18 Victoria Day in Canada 2015 Flag and Universities Day in Haiti Day of Revival Unity and the Poetry of Magtymguly in Turkmenistan",
+			"after": " More anniversaries May 17 May 18 May 19 view talk edit history",
+			"after_weights": " More|1 anniversaries|0.90909 May|0.81818 17|0.72727 May|0.63636 18|0.54545 May|0.45455 19|0.36364 view|0.27273 talk|0.18182 edit|0.090909 history|0",
+			"previous_weights": " May|0 18|0.043478 Victoria|0.086957 Day|0.13043 in|0.17391 Canada|0.21739 2015|0.26087 Flag|0.30435 and|0.34783 Universities|0.3913 Day|0.43478 in|0.47826 Haiti|0.52174 Day|0.56522 of|0.6087 Revival|0.65217 Unity|0.69565 and|0.73913 the|0.78261 Poetry|0.82609 of|0.86957 Magtymguly|0.91304 in|0.95652 Turkmenistan|1"
+		}
+	}
+}

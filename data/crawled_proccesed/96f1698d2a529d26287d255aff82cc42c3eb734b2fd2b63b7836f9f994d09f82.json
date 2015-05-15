@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "96f1698d2a529d26287d255aff82cc42c3eb734b2fd2b63b7836f9f994d09f82",
+			"url": "https://upload.wikimedia.org/math/b/5/2/b527318cd458c97c9d4961ae96a73686.png",
+			"previous": " The standard logistic function k 1 x0 0 L 1 has an easily calculated derivative  In practice due to the nature of the exponential function e x it is often sufficient to compute x over a small range of real numbers such as 6 6 ",
+			"after": " It also has the property that Thus is an odd function ",
+			"after_weights": " It|1 also|0.90909 has|0.81818 the|0.72727 property|0.63636 that|0.54545 Thus|0.45455 is|0.36364 an|0.27273 odd|0.18182 function|0.090909 |0",
+			"previous_weights": " The|0 standard|0.021739 logistic|0.043478 function|0.065217 k|0.086957 1|0.1087 x0|0.13043 0|0.15217 L|0.17391 1|0.19565 has|0.21739 an|0.23913 easily|0.26087 calculated|0.28261 derivative|0.30435 |0.32609 In|0.34783 practice|0.36957 due|0.3913 to|0.41304 the|0.43478 nature|0.45652 of|0.47826 the|0.5 exponential|0.52174 function|0.54348 e|0.56522 x|0.58696 it|0.6087 is|0.63043 often|0.65217 sufficient|0.67391 to|0.69565 compute|0.71739 x|0.73913 over|0.76087 a|0.78261 small|0.80435 range|0.82609 of|0.84783 real|0.86957 numbers|0.8913 such|0.91304 as|0.93478 6|0.95652 6|0.97826 |1"
+		}
+	}
+}

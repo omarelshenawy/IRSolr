@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4994c41f1aaf6022b012a34f1598203bbca893be2093872998d01101a993ed1e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Internet_Censorship_and_Surveillance_World_Map.svg/400px-Internet_Censorship_and_Surveillance_World_Map.svg.png",
+			"previous": " Similar systems are now operated by Iranian secret police to identify and suppress dissidents All required hardware and software has been allegedly installed by German Siemens AG and Finnish Nokia 107 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Similar|0 systems|0.032258 are|0.064516 now|0.096774 operated|0.12903 by|0.16129 Iranian|0.19355 secret|0.22581 police|0.25806 to|0.29032 identify|0.32258 and|0.35484 suppress|0.3871 dissidents|0.41935 All|0.45161 required|0.48387 hardware|0.51613 and|0.54839 software|0.58065 has|0.6129 been|0.64516 allegedly|0.67742 installed|0.70968 by|0.74194 German|0.77419 Siemens|0.80645 AG|0.83871 and|0.87097 Finnish|0.90323 Nokia|0.93548 107|0.96774 |1"
+		}
+	}
+}

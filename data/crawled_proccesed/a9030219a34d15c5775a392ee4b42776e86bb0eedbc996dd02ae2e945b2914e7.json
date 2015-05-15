@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a9030219a34d15c5775a392ee4b42776e86bb0eedbc996dd02ae2e945b2914e7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gargoyles_on_a_mosaic_in_the_Museum_Capitolini.png/220px-Gargoyles_on_a_mosaic_in_the_Museum_Capitolini.png",
+			"previous": " Musical theatre may be produced on an intimate scale Off Broadway in regional theatres and elsewhere but it often includes spectacle For instance Broadway and West End musicals often include lavish costumes and sets supported by multi million dollar budgets ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Musical|0 theatre|0.025 may|0.05 be|0.075 produced|0.1 on|0.125 an|0.15 intimate|0.175 scale|0.2 Off|0.225 Broadway|0.25 in|0.275 regional|0.3 theatres|0.325 and|0.35 elsewhere|0.375 but|0.4 it|0.425 often|0.45 includes|0.475 spectacle|0.5 For|0.525 instance|0.55 Broadway|0.575 and|0.6 West|0.625 End|0.65 musicals|0.675 often|0.7 include|0.725 lavish|0.75 costumes|0.775 and|0.8 sets|0.825 supported|0.85 by|0.875 multi|0.9 million|0.925 dollar|0.95 budgets|0.975 |1"
+		}
+	}
+}

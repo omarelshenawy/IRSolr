@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "356e90da1550e73eeceaf489bffac52b1a30c72fb81bb7ff0670ef306b992ef7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rectified_Languages_of_Europe_map.png/220px-Rectified_Languages_of_Europe_map.png",
+			"previous": " ",
+			"after": " European languages mostly fall within three Indo European language groups the Romance languages derived from the Latin of the Roman Empire the Germanic languages whose ancestor language came from southern Scandinavia and the Slavic languages 169 ",
+			"after_weights": " European|1 languages|0.97222 mostly|0.94444 fall|0.91667 within|0.88889 three|0.86111 Indo|0.83333 European|0.80556 language|0.77778 groups|0.75 the|0.72222 Romance|0.69444 languages|0.66667 derived|0.63889 from|0.61111 the|0.58333 Latin|0.55556 of|0.52778 the|0.5 Roman|0.47222 Empire|0.44444 the|0.41667 Germanic|0.38889 languages|0.36111 whose|0.33333 ancestor|0.30556 language|0.27778 came|0.25 from|0.22222 southern|0.19444 Scandinavia|0.16667 and|0.13889 the|0.11111 Slavic|0.083333 languages|0.055556 169|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "63f1d7ffe6140879843a53907ee0adeb0cd3e3b28634d09cb0ebeff7c58ec400",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/JMSB.jpg/170px-JMSB.jpg",
+			"previous": " ",
+			"after": " The education system in the province of Quebec is slightly different from other systems in North America Between the high school and university levels there is an additional college level called CEGEP It is at the same time a preparatory school preparing students for admission to university and a technical school offering courses which lead to technical diplomas and specializations In Montreal seventeen CEGEPs offer courses in French and five in English ",
+			"after_weights": " The|1 education|0.98611 system|0.97222 in|0.95833 the|0.94444 province|0.93056 of|0.91667 Quebec|0.90278 is|0.88889 slightly|0.875 different|0.86111 from|0.84722 other|0.83333 systems|0.81944 in|0.80556 North|0.79167 America|0.77778 Between|0.76389 the|0.75 high|0.73611 school|0.72222 and|0.70833 university|0.69444 levels|0.68056 there|0.66667 is|0.65278 an|0.63889 additional|0.625 college|0.61111 level|0.59722 called|0.58333 CEGEP|0.56944 It|0.55556 is|0.54167 at|0.52778 the|0.51389 same|0.5 time|0.48611 a|0.47222 preparatory|0.45833 school|0.44444 preparing|0.43056 students|0.41667 for|0.40278 admission|0.38889 to|0.375 university|0.36111 and|0.34722 a|0.33333 technical|0.31944 school|0.30556 offering|0.29167 courses|0.27778 which|0.26389 lead|0.25 to|0.23611 technical|0.22222 diplomas|0.20833 and|0.19444 specializations|0.18056 In|0.16667 Montreal|0.15278 seventeen|0.13889 CEGEPs|0.125 offer|0.11111 courses|0.097222 in|0.083333 French|0.069444 and|0.055556 five|0.041667 in|0.027778 English|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

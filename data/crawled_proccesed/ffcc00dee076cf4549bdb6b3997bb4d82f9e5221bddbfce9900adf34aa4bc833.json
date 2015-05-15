@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ffcc00dee076cf4549bdb6b3997bb4d82f9e5221bddbfce9900adf34aa4bc833",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/GD-FR-Paris-Louvre-Sculptures034.JPG/320px-GD-FR-Paris-Louvre-Sculptures034.JPG",
+			"previous": " ",
+			"after": " Funerary art is any work of art forming or placed in a repository for the remains of the dead The term also encompasses cenotaphs empty tombs tomb like monuments which do not contain human remains and communal memorials to the dead such as war memorials which may or may not contain human remains ",
+			"after_weights": " Funerary|1 art|0.98113 is|0.96226 any|0.9434 work|0.92453 of|0.90566 art|0.88679 forming|0.86792 or|0.84906 placed|0.83019 in|0.81132 a|0.79245 repository|0.77358 for|0.75472 the|0.73585 remains|0.71698 of|0.69811 the|0.67925 dead|0.66038 The|0.64151 term|0.62264 also|0.60377 encompasses|0.58491 cenotaphs|0.56604 empty|0.54717 tombs|0.5283 tomb|0.50943 like|0.49057 monuments|0.4717 which|0.45283 do|0.43396 not|0.41509 contain|0.39623 human|0.37736 remains|0.35849 and|0.33962 communal|0.32075 memorials|0.30189 to|0.28302 the|0.26415 dead|0.24528 such|0.22642 as|0.20755 war|0.18868 memorials|0.16981 which|0.15094 may|0.13208 or|0.11321 may|0.09434 not|0.075472 contain|0.056604 human|0.037736 remains|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1534f6473d101ee7c82b0da2d4cd09604f79bfe4da282299b125b8ddfeb8b9c0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kenya_Export_Treemap.jpg/220px-Kenya_Export_Treemap.jpg",
+			"previous": " Privatisation of state corporations like the defunct Kenya Post and Telecommunications Company which resulted in East Africa s most profitable company Safaricom has led to their revival because of massive private investment ",
+			"after": " As of May 2011 economic prospects are positive with 4 5 GDP growth expected largely because of expansions in tourism telecommunications transport construction and a recovery in agriculture The World Bank estimated growth of 4 3 in 2012 79 ",
+			"after_weights": " As|1 of|0.97436 May|0.94872 2011|0.92308 economic|0.89744 prospects|0.87179 are|0.84615 positive|0.82051 with|0.79487 4|0.76923 5|0.74359 GDP|0.71795 growth|0.69231 expected|0.66667 largely|0.64103 because|0.61538 of|0.58974 expansions|0.5641 in|0.53846 tourism|0.51282 telecommunications|0.48718 transport|0.46154 construction|0.4359 and|0.41026 a|0.38462 recovery|0.35897 in|0.33333 agriculture|0.30769 The|0.28205 World|0.25641 Bank|0.23077 estimated|0.20513 growth|0.17949 of|0.15385 4|0.12821 3|0.10256 in|0.076923 2012|0.051282 79|0.025641 |0",
+			"previous_weights": " Privatisation|0 of|0.03125 state|0.0625 corporations|0.09375 like|0.125 the|0.15625 defunct|0.1875 Kenya|0.21875 Post|0.25 and|0.28125 Telecommunications|0.3125 Company|0.34375 which|0.375 resulted|0.40625 in|0.4375 East|0.46875 Africa|0.5 s|0.53125 most|0.5625 profitable|0.59375 company|0.625 Safaricom|0.65625 has|0.6875 led|0.71875 to|0.75 their|0.78125 revival|0.8125 because|0.84375 of|0.875 massive|0.90625 private|0.9375 investment|0.96875 |1"
+		}
+	}
+}

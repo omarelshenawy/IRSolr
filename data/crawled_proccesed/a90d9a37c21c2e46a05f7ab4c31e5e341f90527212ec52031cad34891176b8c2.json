@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a90d9a37c21c2e46a05f7ab4c31e5e341f90527212ec52031cad34891176b8c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GeorgieHenley.jpg/100px-GeorgieHenley.jpg",
+			"previous": "   Second praise   220 255 47 5 talk 08 22 19 October 2014 UTC ",
+			"after": " You are invited to Narnia LOL Stay Alive and Avoid Vandalism Wikipedia  Keep up Hope you remove more than 5 000 000 pieces of vandalism ",
+			"after_weights": " You|1 are|0.96154 invited|0.92308 to|0.88462 Narnia|0.84615 LOL|0.80769 Stay|0.76923 Alive|0.73077 and|0.69231 Avoid|0.65385 Vandalism|0.61538 Wikipedia|0.57692 |0.53846 Keep|0.5 up|0.46154 Hope|0.42308 you|0.38462 remove|0.34615 more|0.30769 than|0.26923 5|0.23077 000|0.19231 000|0.15385 pieces|0.11538 of|0.076923 vandalism|0.038462 |0",
+			"previous_weights": " |0 |0.058824 Second|0.11765 praise|0.17647 |0.23529 |0.29412 220|0.35294 255|0.41176 47|0.47059 5|0.52941 talk|0.58824 08|0.64706 22|0.70588 19|0.76471 October|0.82353 2014|0.88235 UTC|0.94118 |1"
+		}
+	}
+}

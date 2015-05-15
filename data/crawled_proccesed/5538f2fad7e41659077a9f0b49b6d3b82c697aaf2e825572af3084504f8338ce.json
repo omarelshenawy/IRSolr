@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5538f2fad7e41659077a9f0b49b6d3b82c697aaf2e825572af3084504f8338ce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Wikimedia-logo-meta.png",
+			"previous": " ",
+			"after": " Meta or Wikimedia s Meta Wiki at meta wikimedia org is a wiki based web site that is auxiliary for coordination of all the Wikimedia Foundation projects  Created as Meta Wikipedia in November 2001 it now serves several distinct roles ",
+			"after_weights": " Meta|1 or|0.97561 Wikimedia|0.95122 s|0.92683 Meta|0.90244 Wiki|0.87805 at|0.85366 meta|0.82927 wikimedia|0.80488 org|0.78049 is|0.7561 a|0.73171 wiki|0.70732 based|0.68293 web|0.65854 site|0.63415 that|0.60976 is|0.58537 auxiliary|0.56098 for|0.53659 coordination|0.5122 of|0.4878 all|0.46341 the|0.43902 Wikimedia|0.41463 Foundation|0.39024 projects|0.36585 |0.34146 Created|0.31707 as|0.29268 Meta|0.26829 Wikipedia|0.2439 in|0.21951 November|0.19512 2001|0.17073 it|0.14634 now|0.12195 serves|0.097561 several|0.073171 distinct|0.04878 roles|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

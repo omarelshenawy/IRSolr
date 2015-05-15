@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d1acfc4dd4e9c62d492f04ad55c84a8dcbef8cc5d5d7b028be55a053f138f7e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Worcester_corner_Manchester.jpg/250px-Worcester_corner_Manchester.jpg",
+			"previous": " The epicentre was located 40 kilometres 25 mi west of Christchurch 10 kilometres 6 2 mi south east of Darfield 17 190 kilometres 120 mi south southeast of Westport 295 kilometres 183 mi south west of Wellington and 320 kilometres 200 mi north northeast of Dunedin ",
+			"after": " Sewers were damaged 18 gas and water lines were broken and power to up to 75 of the city was disrupted 19 Among the facilities impacted by lack of power was the Christchurch Hospital which was forced to use emergency generators in the immediate aftermath of the quake 19 ",
+			"after_weights": " Sewers|1 were|0.97959 damaged|0.95918 18|0.93878 gas|0.91837 and|0.89796 water|0.87755 lines|0.85714 were|0.83673 broken|0.81633 and|0.79592 power|0.77551 to|0.7551 up|0.73469 to|0.71429 75|0.69388 of|0.67347 the|0.65306 city|0.63265 was|0.61224 disrupted|0.59184 19|0.57143 Among|0.55102 the|0.53061 facilities|0.5102 impacted|0.4898 by|0.46939 lack|0.44898 of|0.42857 power|0.40816 was|0.38776 the|0.36735 Christchurch|0.34694 Hospital|0.32653 which|0.30612 was|0.28571 forced|0.26531 to|0.2449 use|0.22449 emergency|0.20408 generators|0.18367 in|0.16327 the|0.14286 immediate|0.12245 aftermath|0.10204 of|0.081633 the|0.061224 quake|0.040816 19|0.020408 |0",
+			"previous_weights": " The|0 epicentre|0.021739 was|0.043478 located|0.065217 40|0.086957 kilometres|0.1087 25|0.13043 mi|0.15217 west|0.17391 of|0.19565 Christchurch|0.21739 10|0.23913 kilometres|0.26087 6|0.28261 2|0.30435 mi|0.32609 south|0.34783 east|0.36957 of|0.3913 Darfield|0.41304 17|0.43478 190|0.45652 kilometres|0.47826 120|0.5 mi|0.52174 south|0.54348 southeast|0.56522 of|0.58696 Westport|0.6087 295|0.63043 kilometres|0.65217 183|0.67391 mi|0.69565 south|0.71739 west|0.73913 of|0.76087 Wellington|0.78261 and|0.80435 320|0.82609 kilometres|0.84783 200|0.86957 mi|0.8913 north|0.91304 northeast|0.93478 of|0.95652 Dunedin|0.97826 |1"
+		}
+	}
+}

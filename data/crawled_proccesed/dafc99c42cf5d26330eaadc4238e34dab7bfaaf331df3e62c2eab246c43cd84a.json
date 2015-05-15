@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "dafc99c42cf5d26330eaadc4238e34dab7bfaaf331df3e62c2eab246c43cd84a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Procession_of_Characters_from_Shakespeare%27s_Plays_-_Google_Art_Project.jpg/800px-Procession_of_Characters_from_Shakespeare%27s_Plays_-_Google_Art_Project.jpg",
+			"previous": " Shakespeare has been commemorated in many statues and memorials around the world including funeral monuments in Southwark Cathedral and Poets Corner in Westminster Abbey ",
+			"after": " Most playwrights of the period typically collaborated with others at some point and critics agree that Shakespeare did the same mostly early and late in his career 83 Some attributions such as Titus Andronicus and the early history plays remain controversial while The Two Noble Kinsmen and the lost Cardenio have well attested contemporary documentation Textual evidence also supports the view that several of the plays were revised by other writers after their original composition ",
+			"after_weights": " Most|1 playwrights|0.98667 of|0.97333 the|0.96 period|0.94667 typically|0.93333 collaborated|0.92 with|0.90667 others|0.89333 at|0.88 some|0.86667 point|0.85333 and|0.84 critics|0.82667 agree|0.81333 that|0.8 Shakespeare|0.78667 did|0.77333 the|0.76 same|0.74667 mostly|0.73333 early|0.72 and|0.70667 late|0.69333 in|0.68 his|0.66667 career|0.65333 83|0.64 Some|0.62667 attributions|0.61333 such|0.6 as|0.58667 Titus|0.57333 Andronicus|0.56 and|0.54667 the|0.53333 early|0.52 history|0.50667 plays|0.49333 remain|0.48 controversial|0.46667 while|0.45333 The|0.44 Two|0.42667 Noble|0.41333 Kinsmen|0.4 and|0.38667 the|0.37333 lost|0.36 Cardenio|0.34667 have|0.33333 well|0.32 attested|0.30667 contemporary|0.29333 documentation|0.28 Textual|0.26667 evidence|0.25333 also|0.24 supports|0.22667 the|0.21333 view|0.2 that|0.18667 several|0.17333 of|0.16 the|0.14667 plays|0.13333 were|0.12 revised|0.10667 by|0.093333 other|0.08 writers|0.066667 after|0.053333 their|0.04 original|0.026667 composition|0.013333 |0",
+			"previous_weights": " Shakespeare|0 has|0.041667 been|0.083333 commemorated|0.125 in|0.16667 many|0.20833 statues|0.25 and|0.29167 memorials|0.33333 around|0.375 the|0.41667 world|0.45833 including|0.5 funeral|0.54167 monuments|0.58333 in|0.625 Southwark|0.66667 Cathedral|0.70833 and|0.75 Poets|0.79167 Corner|0.83333 in|0.875 Westminster|0.91667 Abbey|0.95833 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2539eb7412916ea7b8564532713c44b206a07a43082b970be7bcfeaeea977898",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Primary_Human_Language_Families_Map.png/550px-Primary_Human_Language_Families_Map.png",
+			"previous": " ",
+			"after": " A language family is a group of languages related through descent from a common ancestor called the proto language of that family The term family reflects the tree model of language origination in historical linguistics which makes use of a metaphor comparing languages to people in a biological family tree or in a subsequent modification to species in a phylogenetic tree of evolutionary taxonomy No actual biological relationship between speakers is implied by the metaphor ",
+			"after_weights": " A|1 language|0.98667 family|0.97333 is|0.96 a|0.94667 group|0.93333 of|0.92 languages|0.90667 related|0.89333 through|0.88 descent|0.86667 from|0.85333 a|0.84 common|0.82667 ancestor|0.81333 called|0.8 the|0.78667 proto|0.77333 language|0.76 of|0.74667 that|0.73333 family|0.72 The|0.70667 term|0.69333 family|0.68 reflects|0.66667 the|0.65333 tree|0.64 model|0.62667 of|0.61333 language|0.6 origination|0.58667 in|0.57333 historical|0.56 linguistics|0.54667 which|0.53333 makes|0.52 use|0.50667 of|0.49333 a|0.48 metaphor|0.46667 comparing|0.45333 languages|0.44 to|0.42667 people|0.41333 in|0.4 a|0.38667 biological|0.37333 family|0.36 tree|0.34667 or|0.33333 in|0.32 a|0.30667 subsequent|0.29333 modification|0.28 to|0.26667 species|0.25333 in|0.24 a|0.22667 phylogenetic|0.21333 tree|0.2 of|0.18667 evolutionary|0.17333 taxonomy|0.16 No|0.14667 actual|0.13333 biological|0.12 relationship|0.10667 between|0.093333 speakers|0.08 is|0.066667 implied|0.053333 by|0.04 the|0.026667 metaphor|0.013333 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ec081e89b836735f4727abc68ae3c1baf24836cde6c21630d64fe75e844b08c0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/4%2C_5_and_6_Abbey_Square.jpg/220px-4%2C_5_and_6_Abbey_Square.jpg",
+			"previous": " Coordinates 53 11 25 N 2 53 30 W 53 1903 N 2 8916 W 53 1903 2 8916",
+			"after": " Chester t st r CHESS t r is a city in Cheshire England Lying on the River Dee close to the border with Wales it is the largest and most populous settlement of the unitary authority area of Cheshire West and Chester which had a population of 328 100 according to the 2001 Census 2 Chester was granted city status in 1541 ",
+			"after_weights": " Chester|1 t|0.98387 st|0.96774 r|0.95161 CHESS|0.93548 t|0.91935 r|0.90323 is|0.8871 a|0.87097 city|0.85484 in|0.83871 Cheshire|0.82258 England|0.80645 Lying|0.79032 on|0.77419 the|0.75806 River|0.74194 Dee|0.72581 close|0.70968 to|0.69355 the|0.67742 border|0.66129 with|0.64516 Wales|0.62903 it|0.6129 is|0.59677 the|0.58065 largest|0.56452 and|0.54839 most|0.53226 populous|0.51613 settlement|0.5 of|0.48387 the|0.46774 unitary|0.45161 authority|0.43548 area|0.41935 of|0.40323 Cheshire|0.3871 West|0.37097 and|0.35484 Chester|0.33871 which|0.32258 had|0.30645 a|0.29032 population|0.27419 of|0.25806 328|0.24194 100|0.22581 according|0.20968 to|0.19355 the|0.17742 2001|0.16129 Census|0.14516 2|0.12903 Chester|0.1129 was|0.096774 granted|0.080645 city|0.064516 status|0.048387 in|0.032258 1541|0.016129 |0",
+			"previous_weights": " Coordinates|0 53|0.055556 11|0.11111 25|0.16667 N|0.22222 2|0.27778 53|0.33333 30|0.38889 W|0.44444 53|0.5 1903|0.55556 N|0.61111 2|0.66667 8916|0.72222 W|0.77778 53|0.83333 1903|0.88889 2|0.94444 8916|1"
+		}
+	}
+}

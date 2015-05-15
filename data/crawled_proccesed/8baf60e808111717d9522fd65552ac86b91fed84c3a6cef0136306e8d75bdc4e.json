@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8baf60e808111717d9522fd65552ac86b91fed84c3a6cef0136306e8d75bdc4e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BillboardLogo2013.svg/220px-BillboardLogo2013.svg.png",
+			"previous": " ",
+			"after": " The Billboard Hot 100 is the music industry standard record chart in the United States for singles published weekly by Billboard magazine Chart rankings are based on radio play streaming online and sales a new chart is compiled and officially released to the public by Billboard on Thursday Example ",
+			"after_weights": " The|1 Billboard|0.97959 Hot|0.95918 100|0.93878 is|0.91837 the|0.89796 music|0.87755 industry|0.85714 standard|0.83673 record|0.81633 chart|0.79592 in|0.77551 the|0.7551 United|0.73469 States|0.71429 for|0.69388 singles|0.67347 published|0.65306 weekly|0.63265 by|0.61224 Billboard|0.59184 magazine|0.57143 Chart|0.55102 rankings|0.53061 are|0.5102 based|0.4898 on|0.46939 radio|0.44898 play|0.42857 streaming|0.40816 online|0.38776 and|0.36735 sales|0.34694 a|0.32653 new|0.30612 chart|0.28571 is|0.26531 compiled|0.2449 and|0.22449 officially|0.20408 released|0.18367 to|0.16327 the|0.14286 public|0.12245 by|0.10204 Billboard|0.081633 on|0.061224 Thursday|0.040816 Example|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

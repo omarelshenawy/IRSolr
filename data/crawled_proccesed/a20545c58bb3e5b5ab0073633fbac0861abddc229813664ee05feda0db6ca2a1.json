@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a20545c58bb3e5b5ab0073633fbac0861abddc229813664ee05feda0db6ca2a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alexander_von_Humboldt-selfportrait.jpg/120px-Alexander_von_Humboldt-selfportrait.jpg",
+			"previous": " A geographer is a scientist who studies Earth s physical environment and human habitat Geographers are historically known for making maps the subdiscipline of geography known as cartography They study the physical details of the environment and also its impact on human and wildlife ecologies weather and climate patterns economics and culture Geographers focus on the spatial relationships between these elements ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " A|0 geographer|0.016393 is|0.032787 a|0.04918 scientist|0.065574 who|0.081967 studies|0.098361 Earth|0.11475 s|0.13115 physical|0.14754 environment|0.16393 and|0.18033 human|0.19672 habitat|0.21311 Geographers|0.22951 are|0.2459 historically|0.2623 known|0.27869 for|0.29508 making|0.31148 maps|0.32787 the|0.34426 subdiscipline|0.36066 of|0.37705 geography|0.39344 known|0.40984 as|0.42623 cartography|0.44262 They|0.45902 study|0.47541 the|0.4918 physical|0.5082 details|0.52459 of|0.54098 the|0.55738 environment|0.57377 and|0.59016 also|0.60656 its|0.62295 impact|0.63934 on|0.65574 human|0.67213 and|0.68852 wildlife|0.70492 ecologies|0.72131 weather|0.7377 and|0.7541 climate|0.77049 patterns|0.78689 economics|0.80328 and|0.81967 culture|0.83607 Geographers|0.85246 focus|0.86885 on|0.88525 the|0.90164 spatial|0.91803 relationships|0.93443 between|0.95082 these|0.96721 elements|0.98361 |1"
+		}
+	}
+}

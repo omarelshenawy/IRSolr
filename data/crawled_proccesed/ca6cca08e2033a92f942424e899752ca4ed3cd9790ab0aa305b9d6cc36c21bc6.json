@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ca6cca08e2033a92f942424e899752ca4ed3cd9790ab0aa305b9d6cc36c21bc6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Victorian_Post_Box_of_1887_in_use_at_Gibraltar_in_2008.jpg/170px-Victorian_Post_Box_of_1887_in_use_at_Gibraltar_in_2008.jpg",
+			"previous": " ",
+			"after": " Gibraltar has a digital telephone exchange supported by a fibre optic and copper infrastructure the telephone operator Gibtelecom also operates a GSM network Internet connectivity is available across the fixed network Gibraltar s top level domain code is gi ",
+			"after_weights": " Gibraltar|1 has|0.97436 a|0.94872 digital|0.92308 telephone|0.89744 exchange|0.87179 supported|0.84615 by|0.82051 a|0.79487 fibre|0.76923 optic|0.74359 and|0.71795 copper|0.69231 infrastructure|0.66667 the|0.64103 telephone|0.61538 operator|0.58974 Gibtelecom|0.5641 also|0.53846 operates|0.51282 a|0.48718 GSM|0.46154 network|0.4359 Internet|0.41026 connectivity|0.38462 is|0.35897 available|0.33333 across|0.30769 the|0.28205 fixed|0.25641 network|0.23077 Gibraltar|0.20513 s|0.17949 top|0.15385 level|0.12821 domain|0.10256 code|0.076923 is|0.051282 gi|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

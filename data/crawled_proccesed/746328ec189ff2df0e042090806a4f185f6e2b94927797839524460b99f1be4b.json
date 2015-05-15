@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "746328ec189ff2df0e042090806a4f185f6e2b94927797839524460b99f1be4b",
+			"url": "https://upload.wikimedia.org/math/e/c/6/ec652a6e75077557eb4c2deb1b6e783d.png",
+			"previous": " Best  You can also calculate the kilometers per degree of longitude using one of the following approximation formulas is the latitude in degrees 6378 km is the equatorial radius and 6357 km is the polar radius ",
+			"after": " Sufficient ",
+			"after_weights": " Sufficient|1 |0",
+			"previous_weights": " Best|0 |0.027027 You|0.054054 can|0.081081 also|0.10811 calculate|0.13514 the|0.16216 kilometers|0.18919 per|0.21622 degree|0.24324 of|0.27027 longitude|0.2973 using|0.32432 one|0.35135 of|0.37838 the|0.40541 following|0.43243 approximation|0.45946 formulas|0.48649 is|0.51351 the|0.54054 latitude|0.56757 in|0.59459 degrees|0.62162 6378|0.64865 km|0.67568 is|0.7027 the|0.72973 equatorial|0.75676 radius|0.78378 and|0.81081 6357|0.83784 km|0.86486 is|0.89189 the|0.91892 polar|0.94595 radius|0.97297 |1"
+		}
+	}
+}

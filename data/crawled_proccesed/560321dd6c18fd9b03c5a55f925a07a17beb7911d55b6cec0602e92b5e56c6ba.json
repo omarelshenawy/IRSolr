@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "560321dd6c18fd9b03c5a55f925a07a17beb7911d55b6cec0602e92b5e56c6ba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dead_magpie.jpg/220px-Dead_magpie.jpg",
+			"previous": " ",
+			"after": " Almost all animals who survive external hazards to their biological functioning eventually die from biological aging known in life sciences as senescence Some organisms experience negligible senescence even exhibiting biological immortality These include the jellyfish Turritopsis dohrnii 3 the hydra and the planarian Unnatural causes of death include suicide and homicide From all causes roughly 150 000 people die around the world each day 4 Of these two thirds die directly or indirectly due to senescence but in industrialized countries such as the United States the United Kingdom and Germany the rate approaches 90 i e nearly nine out of ten of all deaths are related to senescence 4 ",
+			"after_weights": " Almost|1 all|0.99083 animals|0.98165 who|0.97248 survive|0.9633 external|0.95413 hazards|0.94495 to|0.93578 their|0.92661 biological|0.91743 functioning|0.90826 eventually|0.89908 die|0.88991 from|0.88073 biological|0.87156 aging|0.86239 known|0.85321 in|0.84404 life|0.83486 sciences|0.82569 as|0.81651 senescence|0.80734 Some|0.79817 organisms|0.78899 experience|0.77982 negligible|0.77064 senescence|0.76147 even|0.75229 exhibiting|0.74312 biological|0.73394 immortality|0.72477 These|0.7156 include|0.70642 the|0.69725 jellyfish|0.68807 Turritopsis|0.6789 dohrnii|0.66972 3|0.66055 the|0.65138 hydra|0.6422 and|0.63303 the|0.62385 planarian|0.61468 Unnatural|0.6055 causes|0.59633 of|0.58716 death|0.57798 include|0.56881 suicide|0.55963 and|0.55046 homicide|0.54128 From|0.53211 all|0.52294 causes|0.51376 roughly|0.50459 150|0.49541 000|0.48624 people|0.47706 die|0.46789 around|0.45872 the|0.44954 world|0.44037 each|0.43119 day|0.42202 4|0.41284 Of|0.40367 these|0.3945 two|0.38532 thirds|0.37615 die|0.36697 directly|0.3578 or|0.34862 indirectly|0.33945 due|0.33028 to|0.3211 senescence|0.31193 but|0.30275 in|0.29358 industrialized|0.2844 countries|0.27523 such|0.26606 as|0.25688 the|0.24771 United|0.23853 States|0.22936 the|0.22018 United|0.21101 Kingdom|0.20183 and|0.19266 Germany|0.18349 the|0.17431 rate|0.16514 approaches|0.15596 90|0.14679 i|0.13761 e|0.12844 nearly|0.11927 nine|0.11009 out|0.10092 of|0.091743 ten|0.082569 of|0.073394 all|0.06422 deaths|0.055046 are|0.045872 related|0.036697 to|0.027523 senescence|0.018349 4|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

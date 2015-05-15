@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0eb52eb12d45c4d64a7b3efdb4b596f8e8a1907f6d6a79dfc1eb84cbb2ef696e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Santa_Fe_Route_Map_1891.jpg/220px-Santa_Fe_Route_Map_1891.jpg",
+			"previous": " ",
+			"after": " A gazetteer is a geographical dictionary or directory used in conjunction with a map or atlas 1 They typically contain information concerning the geographical makeup social statistics and physical features of a country region or continent Content of a gazetteer can include a subject s location dimensions of peaks and waterways population GDP and literacy rate This information is generally divided into topics with entries listed in alphabetical order ",
+			"after_weights": " A|1 gazetteer|0.98551 is|0.97101 a|0.95652 geographical|0.94203 dictionary|0.92754 or|0.91304 directory|0.89855 used|0.88406 in|0.86957 conjunction|0.85507 with|0.84058 a|0.82609 map|0.81159 or|0.7971 atlas|0.78261 1|0.76812 They|0.75362 typically|0.73913 contain|0.72464 information|0.71014 concerning|0.69565 the|0.68116 geographical|0.66667 makeup|0.65217 social|0.63768 statistics|0.62319 and|0.6087 physical|0.5942 features|0.57971 of|0.56522 a|0.55072 country|0.53623 region|0.52174 or|0.50725 continent|0.49275 Content|0.47826 of|0.46377 a|0.44928 gazetteer|0.43478 can|0.42029 include|0.4058 a|0.3913 subject|0.37681 s|0.36232 location|0.34783 dimensions|0.33333 of|0.31884 peaks|0.30435 and|0.28986 waterways|0.27536 population|0.26087 GDP|0.24638 and|0.23188 literacy|0.21739 rate|0.2029 This|0.18841 information|0.17391 is|0.15942 generally|0.14493 divided|0.13043 into|0.11594 topics|0.10145 with|0.086957 entries|0.072464 listed|0.057971 in|0.043478 alphabetical|0.028986 order|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

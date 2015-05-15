@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bbdfc310ec3a3dd899068a913fade5367b8e8684bc18792c4a3eb4255944077a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lead_Photo_For_Swimming_pool_sanitation0-46353521407581866.jpg/200px-Lead_Photo_For_Swimming_pool_sanitation0-46353521407581866.jpg",
+			"previous": " ",
+			"after": " Examples of vandalism include salting lawns cutting trees without permission egg throwing breaking windows arson spraying paint on others properties tagging placing glue into locks tire slashing keying scratching paint ransacking a property and flooding a house by clogging a sink and leaving the water running ",
+			"after_weights": " Examples|1 of|0.97826 vandalism|0.95652 include|0.93478 salting|0.91304 lawns|0.8913 cutting|0.86957 trees|0.84783 without|0.82609 permission|0.80435 egg|0.78261 throwing|0.76087 breaking|0.73913 windows|0.71739 arson|0.69565 spraying|0.67391 paint|0.65217 on|0.63043 others|0.6087 properties|0.58696 tagging|0.56522 placing|0.54348 glue|0.52174 into|0.5 locks|0.47826 tire|0.45652 slashing|0.43478 keying|0.41304 scratching|0.3913 paint|0.36957 ransacking|0.34783 a|0.32609 property|0.30435 and|0.28261 flooding|0.26087 a|0.23913 house|0.21739 by|0.19565 clogging|0.17391 a|0.15217 sink|0.13043 and|0.1087 leaving|0.086957 the|0.065217 water|0.043478 running|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

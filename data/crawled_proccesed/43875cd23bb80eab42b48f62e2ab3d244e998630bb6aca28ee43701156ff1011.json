@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "43875cd23bb80eab42b48f62e2ab3d244e998630bb6aca28ee43701156ff1011",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Africa_satellite_orthographic.jpg/300px-Africa_satellite_orthographic.jpg",
+			"previous": " One common approach categorises Africa directionally e g by cardinal direction compass direction ",
+			"after": " Another common approach divides Africa by using features such as landforms climatic regions or vegetation types ",
+			"after_weights": " Another|1 common|0.9375 approach|0.875 divides|0.8125 Africa|0.75 by|0.6875 using|0.625 features|0.5625 such|0.5 as|0.4375 landforms|0.375 climatic|0.3125 regions|0.25 or|0.1875 vegetation|0.125 types|0.0625 |0",
+			"previous_weights": " One|0 common|0.076923 approach|0.15385 categorises|0.23077 Africa|0.30769 directionally|0.38462 e|0.46154 g|0.53846 by|0.61538 cardinal|0.69231 direction|0.76923 compass|0.84615 direction|0.92308 |1"
+		}
+	}
+}

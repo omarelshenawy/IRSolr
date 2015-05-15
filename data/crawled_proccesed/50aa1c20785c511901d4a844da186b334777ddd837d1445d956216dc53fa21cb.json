@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "50aa1c20785c511901d4a844da186b334777ddd837d1445d956216dc53fa21cb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Homo-Stammbaum%2C_Version_Stringer-en.svg/360px-Homo-Stammbaum%2C_Version_Stringer-en.svg.png",
+			"previous": " ",
+			"after": " An alternative to extinction is that Neanderthals were absorbed into the Cro Magnon population by interbreeding This would be counter to strict versions of the Recent African Origin since it would imply that at least part of the genome of Europeans would descend from Neanderthals ",
+			"after_weights": " An|1 alternative|0.97778 to|0.95556 extinction|0.93333 is|0.91111 that|0.88889 Neanderthals|0.86667 were|0.84444 absorbed|0.82222 into|0.8 the|0.77778 Cro|0.75556 Magnon|0.73333 population|0.71111 by|0.68889 interbreeding|0.66667 This|0.64444 would|0.62222 be|0.6 counter|0.57778 to|0.55556 strict|0.53333 versions|0.51111 of|0.48889 the|0.46667 Recent|0.44444 African|0.42222 Origin|0.4 since|0.37778 it|0.35556 would|0.33333 imply|0.31111 that|0.28889 at|0.26667 least|0.24444 part|0.22222 of|0.2 the|0.17778 genome|0.15556 of|0.13333 Europeans|0.11111 would|0.088889 descend|0.066667 from|0.044444 Neanderthals|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

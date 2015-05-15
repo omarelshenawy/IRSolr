@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "358e7257feec88a1a49dd0ec153ff9312c309771242e8e36d92f43ad4cb65bda",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Crayon_sketch_of_Leonor_Rivera_by_Rizal.jpg/220px-Crayon_sketch_of_Leonor_Rivera_by_Rizal.jpg",
+			"previous": " ",
+			"after": " Leonor Rivera is thought to be the inspiration for the character of Maria Clara in Noli Me T ngere and El Filibusterismo 23 Rivera and Rizal first met in Manila when Rivera was only 14 years old When Rizal left for Europe on May 3 1882 Rivera was 16 years of age Their correspondence began when Rizal left a poem for Rivera saying farewell 24 ",
+			"after_weights": " Leonor|1 Rivera|0.98462 is|0.96923 thought|0.95385 to|0.93846 be|0.92308 the|0.90769 inspiration|0.89231 for|0.87692 the|0.86154 character|0.84615 of|0.83077 Maria|0.81538 Clara|0.8 in|0.78462 Noli|0.76923 Me|0.75385 T|0.73846 ngere|0.72308 and|0.70769 El|0.69231 Filibusterismo|0.67692 23|0.66154 Rivera|0.64615 and|0.63077 Rizal|0.61538 first|0.6 met|0.58462 in|0.56923 Manila|0.55385 when|0.53846 Rivera|0.52308 was|0.50769 only|0.49231 14|0.47692 years|0.46154 old|0.44615 When|0.43077 Rizal|0.41538 left|0.4 for|0.38462 Europe|0.36923 on|0.35385 May|0.33846 3|0.32308 1882|0.30769 Rivera|0.29231 was|0.27692 16|0.26154 years|0.24615 of|0.23077 age|0.21538 Their|0.2 correspondence|0.18462 began|0.16923 when|0.15385 Rizal|0.13846 left|0.12308 a|0.10769 poem|0.092308 for|0.076923 Rivera|0.061538 saying|0.046154 farewell|0.030769 24|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

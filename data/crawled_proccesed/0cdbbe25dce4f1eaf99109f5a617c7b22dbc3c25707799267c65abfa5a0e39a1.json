@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cdbbe25dce4f1eaf99109f5a617c7b22dbc3c25707799267c65abfa5a0e39a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Prince_and_the_Pedlar_by_Ellen_Pickering.JPG/220px-The_Prince_and_the_Pedlar_by_Ellen_Pickering.JPG",
+			"previous": " Cultural historian Mary Poovey notes that Pickering enjoyed success among her contemporaries but achieved no lasting legacy 2 Contemporary feminist scholars have debated the value of her work 4 5 6 ",
+			"after": " Pickering published a total of sixteen novels The Grandfather was published posthumously 2 7 ",
+			"after_weights": " Pickering|1 published|0.92857 a|0.85714 total|0.78571 of|0.71429 sixteen|0.64286 novels|0.57143 The|0.5 Grandfather|0.42857 was|0.35714 published|0.28571 posthumously|0.21429 2|0.14286 7|0.071429 |0",
+			"previous_weights": " Cultural|0 historian|0.032258 Mary|0.064516 Poovey|0.096774 notes|0.12903 that|0.16129 Pickering|0.19355 enjoyed|0.22581 success|0.25806 among|0.29032 her|0.32258 contemporaries|0.35484 but|0.3871 achieved|0.41935 no|0.45161 lasting|0.48387 legacy|0.51613 2|0.54839 Contemporary|0.58065 feminist|0.6129 scholars|0.64516 have|0.67742 debated|0.70968 the|0.74194 value|0.77419 of|0.80645 her|0.83871 work|0.87097 4|0.90323 5|0.93548 6|0.96774 |1"
+		}
+	}
+}

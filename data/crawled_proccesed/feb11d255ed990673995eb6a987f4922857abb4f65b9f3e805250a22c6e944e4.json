@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "feb11d255ed990673995eb6a987f4922857abb4f65b9f3e805250a22c6e944e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Map_of_USA_showing_regions.png/450px-Map_of_USA_showing_regions.png",
+			"previous": " ",
+			"after": " The northern and southern borders of the Thirteen Colonies on the East Coast were largely determined by colonial charters and anchoring coastal settlements The western boundaries were determined by the limits of transportation the infeasibility of settling areas dominated by Native Americans and foreign powers and the decision to create new states out of western territories ",
+			"after_weights": " The|1 northern|0.98214 and|0.96429 southern|0.94643 borders|0.92857 of|0.91071 the|0.89286 Thirteen|0.875 Colonies|0.85714 on|0.83929 the|0.82143 East|0.80357 Coast|0.78571 were|0.76786 largely|0.75 determined|0.73214 by|0.71429 colonial|0.69643 charters|0.67857 and|0.66071 anchoring|0.64286 coastal|0.625 settlements|0.60714 The|0.58929 western|0.57143 boundaries|0.55357 were|0.53571 determined|0.51786 by|0.5 the|0.48214 limits|0.46429 of|0.44643 transportation|0.42857 the|0.41071 infeasibility|0.39286 of|0.375 settling|0.35714 areas|0.33929 dominated|0.32143 by|0.30357 Native|0.28571 Americans|0.26786 and|0.25 foreign|0.23214 powers|0.21429 and|0.19643 the|0.17857 decision|0.16071 to|0.14286 create|0.125 new|0.10714 states|0.089286 out|0.071429 of|0.053571 western|0.035714 territories|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

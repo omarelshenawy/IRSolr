@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c0a2ac84478cc1e7334559229ff8980872264f1f251eeb06e133e0053c0ecf7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Countries_where_over_50%25_of_the_population_are_native_English_speakers.png/300px-Countries_where_over_50%25_of_the_population_are_native_English_speakers.png",
+			"previous": " ",
+			"after": " There are six countries with a majority of native speakers of English the United Kingdom 97 64 million 6 Ireland 94 4 3 million 7 Australia 87 17 million 8 New Zealand 82 3 7 million 9 the United States 79 255 million 10 and Canada 59 19 million 11 These six countries are also summarized under the term Anglosphere ",
+			"after_weights": " There|1 are|0.98333 six|0.96667 countries|0.95 with|0.93333 a|0.91667 majority|0.9 of|0.88333 native|0.86667 speakers|0.85 of|0.83333 English|0.81667 the|0.8 United|0.78333 Kingdom|0.76667 97|0.75 64|0.73333 million|0.71667 6|0.7 Ireland|0.68333 94|0.66667 4|0.65 3|0.63333 million|0.61667 7|0.6 Australia|0.58333 87|0.56667 17|0.55 million|0.53333 8|0.51667 New|0.5 Zealand|0.48333 82|0.46667 3|0.45 7|0.43333 million|0.41667 9|0.4 the|0.38333 United|0.36667 States|0.35 79|0.33333 255|0.31667 million|0.3 10|0.28333 and|0.26667 Canada|0.25 59|0.23333 19|0.21667 million|0.2 11|0.18333 These|0.16667 six|0.15 countries|0.13333 are|0.11667 also|0.1 summarized|0.083333 under|0.066667 the|0.05 term|0.033333 Anglosphere|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

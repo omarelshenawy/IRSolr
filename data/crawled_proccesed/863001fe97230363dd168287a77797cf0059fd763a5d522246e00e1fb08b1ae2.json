@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "863001fe97230363dd168287a77797cf0059fd763a5d522246e00e1fb08b1ae2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wikivoyage.jpg/220px-Wikivoyage.jpg",
+			"previous": " The choice of the Creative Commons Attribution ShareAlike license is intended to allow simplified distribution by mention of the authors without the need to state the complete license text ",
+			"after": " Many Wikivoyage authors and administrators started by working on Wikitravel which launched its German version on October 7 2004 On April 20 2006 Wikitravel was acquired by the for profit Internet Brands an operator of media and e commerce sites Discontent increased in response to the management style of the new owners and this led to the decision by most German administrators and authors to continue the project as a fork ",
+			"after_weights": " Many|1 Wikivoyage|0.98592 authors|0.97183 and|0.95775 administrators|0.94366 started|0.92958 by|0.91549 working|0.90141 on|0.88732 Wikitravel|0.87324 which|0.85915 launched|0.84507 its|0.83099 German|0.8169 version|0.80282 on|0.78873 October|0.77465 7|0.76056 2004|0.74648 On|0.73239 April|0.71831 20|0.70423 2006|0.69014 Wikitravel|0.67606 was|0.66197 acquired|0.64789 by|0.6338 the|0.61972 for|0.60563 profit|0.59155 Internet|0.57746 Brands|0.56338 an|0.5493 operator|0.53521 of|0.52113 media|0.50704 and|0.49296 e|0.47887 commerce|0.46479 sites|0.4507 Discontent|0.43662 increased|0.42254 in|0.40845 response|0.39437 to|0.38028 the|0.3662 management|0.35211 style|0.33803 of|0.32394 the|0.30986 new|0.29577 owners|0.28169 and|0.26761 this|0.25352 led|0.23944 to|0.22535 the|0.21127 decision|0.19718 by|0.1831 most|0.16901 German|0.15493 administrators|0.14085 and|0.12676 authors|0.11268 to|0.098592 continue|0.084507 the|0.070423 project|0.056338 as|0.042254 a|0.028169 fork|0.014085 |0",
+			"previous_weights": " The|0 choice|0.034483 of|0.068966 the|0.10345 Creative|0.13793 Commons|0.17241 Attribution|0.2069 ShareAlike|0.24138 license|0.27586 is|0.31034 intended|0.34483 to|0.37931 allow|0.41379 simplified|0.44828 distribution|0.48276 by|0.51724 mention|0.55172 of|0.58621 the|0.62069 authors|0.65517 without|0.68966 the|0.72414 need|0.75862 to|0.7931 state|0.82759 the|0.86207 complete|0.89655 license|0.93103 text|0.96552 |1"
+		}
+	}
+}

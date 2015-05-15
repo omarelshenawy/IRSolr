@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "df5c98e40e14a92df6d95e48b8984566daf534ce7b1657cfcd3c07111f3d8756",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Booster-Layout.jpg/200px-Booster-Layout.jpg",
+			"previous": " ",
+			"after": " Engineers use their knowledge of science mathematics logic economics and appropriate experience or tacit knowledge to find suitable solutions to a problem Creating an appropriate mathematical model of a problem allows them to analyze it sometimes definitively and to test potential solutions ",
+			"after_weights": " Engineers|1 use|0.97619 their|0.95238 knowledge|0.92857 of|0.90476 science|0.88095 mathematics|0.85714 logic|0.83333 economics|0.80952 and|0.78571 appropriate|0.7619 experience|0.7381 or|0.71429 tacit|0.69048 knowledge|0.66667 to|0.64286 find|0.61905 suitable|0.59524 solutions|0.57143 to|0.54762 a|0.52381 problem|0.5 Creating|0.47619 an|0.45238 appropriate|0.42857 mathematical|0.40476 model|0.38095 of|0.35714 a|0.33333 problem|0.30952 allows|0.28571 them|0.2619 to|0.2381 analyze|0.21429 it|0.19048 sometimes|0.16667 definitively|0.14286 and|0.11905 to|0.095238 test|0.071429 potential|0.047619 solutions|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

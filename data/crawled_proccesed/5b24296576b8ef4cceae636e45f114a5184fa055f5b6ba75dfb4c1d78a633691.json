@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5b24296576b8ef4cceae636e45f114a5184fa055f5b6ba75dfb4c1d78a633691",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Judas_se_ahorca_en_san_simon_texcoco.JPG/220px-Judas_se_ahorca_en_san_simon_texcoco.JPG",
+			"previous": " ",
+			"after": " The betrayal of Jesus by one of his disciples is widely regarded by scholars as authentic based on the criterion of embarrassment it is considered unlikely that the early church would have invented this tradition since it appears to reflect badly on Jesus 60 ",
+			"after_weights": " The|1 betrayal|0.97727 of|0.95455 Jesus|0.93182 by|0.90909 one|0.88636 of|0.86364 his|0.84091 disciples|0.81818 is|0.79545 widely|0.77273 regarded|0.75 by|0.72727 scholars|0.70455 as|0.68182 authentic|0.65909 based|0.63636 on|0.61364 the|0.59091 criterion|0.56818 of|0.54545 embarrassment|0.52273 it|0.5 is|0.47727 considered|0.45455 unlikely|0.43182 that|0.40909 the|0.38636 early|0.36364 church|0.34091 would|0.31818 have|0.29545 invented|0.27273 this|0.25 tradition|0.22727 since|0.20455 it|0.18182 appears|0.15909 to|0.13636 reflect|0.11364 badly|0.090909 on|0.068182 Jesus|0.045455 60|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

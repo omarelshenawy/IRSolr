@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a8fdd0d5c227f7470dfb73a139dce0ae6c5edb9e99b0d6268b6e66825a9e062",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_University_of_Texas_at_Austin_-_Littlefield_Fountain_and_Main_Building.jpg/220px-The_University_of_Texas_at_Austin_-_Littlefield_Fountain_and_Main_Building.jpg",
+			"previous": " ",
+			"after": " Austin is home to the University of Texas at Austin the flagship institution of the University of Texas System with over 38 000 undergraduate students and 12 000 graduate students In 2015 rankings the university was ranked 53rd among National Universities 17th among public universities by U S News World Report 168 UT has annual research expenditures of over 595 million 169 and has the highest ranked business engineering and law programs of any university in the state of Texas 170 171 172 ",
+			"after_weights": " Austin|1 is|0.98795 home|0.9759 to|0.96386 the|0.95181 University|0.93976 of|0.92771 Texas|0.91566 at|0.90361 Austin|0.89157 the|0.87952 flagship|0.86747 institution|0.85542 of|0.84337 the|0.83133 University|0.81928 of|0.80723 Texas|0.79518 System|0.78313 with|0.77108 over|0.75904 38|0.74699 000|0.73494 undergraduate|0.72289 students|0.71084 and|0.6988 12|0.68675 000|0.6747 graduate|0.66265 students|0.6506 In|0.63855 2015|0.62651 rankings|0.61446 the|0.60241 university|0.59036 was|0.57831 ranked|0.56627 53rd|0.55422 among|0.54217 National|0.53012 Universities|0.51807 17th|0.50602 among|0.49398 public|0.48193 universities|0.46988 by|0.45783 U|0.44578 S|0.43373 News|0.42169 World|0.40964 Report|0.39759 168|0.38554 UT|0.37349 has|0.36145 annual|0.3494 research|0.33735 expenditures|0.3253 of|0.31325 over|0.3012 595|0.28916 million|0.27711 169|0.26506 and|0.25301 has|0.24096 the|0.22892 highest|0.21687 ranked|0.20482 business|0.19277 engineering|0.18072 and|0.16867 law|0.15663 programs|0.14458 of|0.13253 any|0.12048 university|0.10843 in|0.096386 the|0.084337 state|0.072289 of|0.060241 Texas|0.048193 170|0.036145 171|0.024096 172|0.012048 |0",
+			"previous_weights": " "
+		}
+	}
+}

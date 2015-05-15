@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "39d9d45b8a2718b0451252bf75bd33c7a6b1a5187db798f7b7eadcb1ab8304d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/170px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+			"previous": " Copernicus formulated a heliocentric model of the solar system unlike the geocentric model of Ptolemy s Almagest ",
+			"after": " Galileo made innovative use of experiment and mathematics However his persecution began after Pope Urban VIII blessed Galileo to write about the Copernican system Galileo had used arguments from the Pope and put them in the voice of the simpleton in the work Dialogue Concerning the Two Chief World Systems which caused great offense to him 28 ",
+			"after_weights": " Galileo|1 made|0.98246 innovative|0.96491 use|0.94737 of|0.92982 experiment|0.91228 and|0.89474 mathematics|0.87719 However|0.85965 his|0.84211 persecution|0.82456 began|0.80702 after|0.78947 Pope|0.77193 Urban|0.75439 VIII|0.73684 blessed|0.7193 Galileo|0.70175 to|0.68421 write|0.66667 about|0.64912 the|0.63158 Copernican|0.61404 system|0.59649 Galileo|0.57895 had|0.5614 used|0.54386 arguments|0.52632 from|0.50877 the|0.49123 Pope|0.47368 and|0.45614 put|0.4386 them|0.42105 in|0.40351 the|0.38596 voice|0.36842 of|0.35088 the|0.33333 simpleton|0.31579 in|0.29825 the|0.2807 work|0.26316 Dialogue|0.24561 Concerning|0.22807 the|0.21053 Two|0.19298 Chief|0.17544 World|0.15789 Systems|0.14035 which|0.12281 caused|0.10526 great|0.087719 offense|0.070175 to|0.052632 him|0.035088 28|0.017544 |0",
+			"previous_weights": " Copernicus|0 formulated|0.058824 a|0.11765 heliocentric|0.17647 model|0.23529 of|0.29412 the|0.35294 solar|0.41176 system|0.47059 unlike|0.52941 the|0.58824 geocentric|0.64706 model|0.70588 of|0.76471 Ptolemy|0.82353 s|0.88235 Almagest|0.94118 |1"
+		}
+	}
+}

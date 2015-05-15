@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d8841e403cafaec9830c69c17bcd956288b8aa19588aa7b8ad8ab1eabde869ed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wyspy_Cooka.png/220px-Wyspy_Cooka.png",
+			"previous": " ",
+			"after": " The Cook Islands are in the South Pacific Ocean northeast of New Zealand between French Polynesia and American Samoa There are 15 major islands spread over 2 200 000 km2 849 425 sq mi of ocean divided into two distinct groups the Southern Cook Islands and the Northern Cook Islands of coral atolls 8 ",
+			"after_weights": " The|1 Cook|0.98148 Islands|0.96296 are|0.94444 in|0.92593 the|0.90741 South|0.88889 Pacific|0.87037 Ocean|0.85185 northeast|0.83333 of|0.81481 New|0.7963 Zealand|0.77778 between|0.75926 French|0.74074 Polynesia|0.72222 and|0.7037 American|0.68519 Samoa|0.66667 There|0.64815 are|0.62963 15|0.61111 major|0.59259 islands|0.57407 spread|0.55556 over|0.53704 2|0.51852 200|0.5 000|0.48148 km2|0.46296 849|0.44444 425|0.42593 sq|0.40741 mi|0.38889 of|0.37037 ocean|0.35185 divided|0.33333 into|0.31481 two|0.2963 distinct|0.27778 groups|0.25926 the|0.24074 Southern|0.22222 Cook|0.2037 Islands|0.18519 and|0.16667 the|0.14815 Northern|0.12963 Cook|0.11111 Islands|0.092593 of|0.074074 coral|0.055556 atolls|0.037037 8|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

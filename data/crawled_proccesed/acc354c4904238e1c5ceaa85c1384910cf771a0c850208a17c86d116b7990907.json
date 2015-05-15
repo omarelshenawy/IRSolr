@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "acc354c4904238e1c5ceaa85c1384910cf771a0c850208a17c86d116b7990907",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Poll_Closing_Times_2008.svg/220px-Poll_Closing_Times_2008.svg.png",
+			"previous": " ",
+			"after": " Election Day was on November 4 2008 The majority of states allowed early voting with all states allowing some form of absentee voting 208 Voters cast votes for listed presidential candidates but were actually selecting representatives for their state s Electoral College slate ",
+			"after_weights": " Election|1 Day|0.97674 was|0.95349 on|0.93023 November|0.90698 4|0.88372 2008|0.86047 The|0.83721 majority|0.81395 of|0.7907 states|0.76744 allowed|0.74419 early|0.72093 voting|0.69767 with|0.67442 all|0.65116 states|0.62791 allowing|0.60465 some|0.5814 form|0.55814 of|0.53488 absentee|0.51163 voting|0.48837 208|0.46512 Voters|0.44186 cast|0.4186 votes|0.39535 for|0.37209 listed|0.34884 presidential|0.32558 candidates|0.30233 but|0.27907 were|0.25581 actually|0.23256 selecting|0.2093 representatives|0.18605 for|0.16279 their|0.13953 state|0.11628 s|0.093023 Electoral|0.069767 College|0.046512 slate|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "976d8102c467053a511daabce681e79db606e41b362c516ce753bbdfd6d26df2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Marshall_Islands_treemap.png/220px-Marshall_Islands_treemap.png",
+			"previous": " The Marshall Islands are threatened by the potential effects of sea level rise 32 According to the president of Nauru the Marshall Islands are the nation ranked as the most endangered due to flooding from climate change 33 ",
+			"after": " The islands have few natural resources and imports far exceed exports  In 2007 the Marshall Islands joined the International Labor Organization which means its labor laws will comply with international benchmarks This may impact business conditions in the islands 34 ",
+			"after_weights": " The|1 islands|0.97561 have|0.95122 few|0.92683 natural|0.90244 resources|0.87805 and|0.85366 imports|0.82927 far|0.80488 exceed|0.78049 exports|0.7561 |0.73171 In|0.70732 2007|0.68293 the|0.65854 Marshall|0.63415 Islands|0.60976 joined|0.58537 the|0.56098 International|0.53659 Labor|0.5122 Organization|0.4878 which|0.46341 means|0.43902 its|0.41463 labor|0.39024 laws|0.36585 will|0.34146 comply|0.31707 with|0.29268 international|0.26829 benchmarks|0.2439 This|0.21951 may|0.19512 impact|0.17073 business|0.14634 conditions|0.12195 in|0.097561 the|0.073171 islands|0.04878 34|0.02439 |0",
+			"previous_weights": " The|0 Marshall|0.026316 Islands|0.052632 are|0.078947 threatened|0.10526 by|0.13158 the|0.15789 potential|0.18421 effects|0.21053 of|0.23684 sea|0.26316 level|0.28947 rise|0.31579 32|0.34211 According|0.36842 to|0.39474 the|0.42105 president|0.44737 of|0.47368 Nauru|0.5 the|0.52632 Marshall|0.55263 Islands|0.57895 are|0.60526 the|0.63158 nation|0.65789 ranked|0.68421 as|0.71053 the|0.73684 most|0.76316 endangered|0.78947 due|0.81579 to|0.84211 flooding|0.86842 from|0.89474 climate|0.92105 change|0.94737 33|0.97368 |1"
+		}
+	}
+}

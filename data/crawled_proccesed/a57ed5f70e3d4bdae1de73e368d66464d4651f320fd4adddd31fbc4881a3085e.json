@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a57ed5f70e3d4bdae1de73e368d66464d4651f320fd4adddd31fbc4881a3085e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Transclusion_simple.svg/250px-Transclusion_simple.svg.png",
+			"previous": " ",
+			"after": " In computer science transclusion is the inclusion of part or all of an electronic document into one or more other documents by reference  For example an article giving a overview of a country might include a chart or paragraph image or another type of data describing that country s agricultural exports that chart could be from a different article about agriculture in general with sub sections about agriculture in different countries Rather than copying the included data and storing it in two places a transclusion enables modular design by allowing the data to be stored only once and perhaps corrected and updated if the link type supports doing so and to be viewed in different contexts The reference also serves to link both articles ",
+			"after_weights": " In|1 computer|0.992 science|0.984 transclusion|0.976 is|0.968 the|0.96 inclusion|0.952 of|0.944 part|0.936 or|0.928 all|0.92 of|0.912 an|0.904 electronic|0.896 document|0.888 into|0.88 one|0.872 or|0.864 more|0.856 other|0.848 documents|0.84 by|0.832 reference|0.824 |0.816 For|0.808 example|0.8 an|0.792 article|0.784 giving|0.776 a|0.768 overview|0.76 of|0.752 a|0.744 country|0.736 might|0.728 include|0.72 a|0.712 chart|0.704 or|0.696 paragraph|0.688 image|0.68 or|0.672 another|0.664 type|0.656 of|0.648 data|0.64 describing|0.632 that|0.624 country|0.616 s|0.608 agricultural|0.6 exports|0.592 that|0.584 chart|0.576 could|0.568 be|0.56 from|0.552 a|0.544 different|0.536 article|0.528 about|0.52 agriculture|0.512 in|0.504 general|0.496 with|0.488 sub|0.48 sections|0.472 about|0.464 agriculture|0.456 in|0.448 different|0.44 countries|0.432 Rather|0.424 than|0.416 copying|0.408 the|0.4 included|0.392 data|0.384 and|0.376 storing|0.368 it|0.36 in|0.352 two|0.344 places|0.336 a|0.328 transclusion|0.32 enables|0.312 modular|0.304 design|0.296 by|0.288 allowing|0.28 the|0.272 data|0.264 to|0.256 be|0.248 stored|0.24 only|0.232 once|0.224 and|0.216 perhaps|0.208 corrected|0.2 and|0.192 updated|0.184 if|0.176 the|0.168 link|0.16 type|0.152 supports|0.144 doing|0.136 so|0.128 and|0.12 to|0.112 be|0.104 viewed|0.096 in|0.088 different|0.08 contexts|0.072 The|0.064 reference|0.056 also|0.048 serves|0.04 to|0.032 link|0.024 both|0.016 articles|0.008 |0",
+			"previous_weights": " "
+		}
+	}
+}

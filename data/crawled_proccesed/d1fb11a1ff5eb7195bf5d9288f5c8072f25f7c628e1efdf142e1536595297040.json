@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d1fb11a1ff5eb7195bf5d9288f5c8072f25f7c628e1efdf142e1536595297040",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Homo_habilis-2.JPG/220px-Homo_habilis-2.JPG",
+			"previous": " ",
+			"after": " Human evolution is characterized by a number of morphological developmental physiological and behavioral changes that have taken place since the split between the last common ancestor of humans and chimpanzees The most significant of these adaptations are 1 bipedalism 2 increased brain size 3 lengthened ontogeny gestation and infancy 4 decreased sexual dimorphism The relationship between all these changes is the subject of ongoing debate 31 Other significant morphological changes included the evolution of a power and precision grip a change first occurring in H erectus 32 ",
+			"after_weights": " Human|1 evolution|0.98851 is|0.97701 characterized|0.96552 by|0.95402 a|0.94253 number|0.93103 of|0.91954 morphological|0.90805 developmental|0.89655 physiological|0.88506 and|0.87356 behavioral|0.86207 changes|0.85057 that|0.83908 have|0.82759 taken|0.81609 place|0.8046 since|0.7931 the|0.78161 split|0.77011 between|0.75862 the|0.74713 last|0.73563 common|0.72414 ancestor|0.71264 of|0.70115 humans|0.68966 and|0.67816 chimpanzees|0.66667 The|0.65517 most|0.64368 significant|0.63218 of|0.62069 these|0.6092 adaptations|0.5977 are|0.58621 1|0.57471 bipedalism|0.56322 2|0.55172 increased|0.54023 brain|0.52874 size|0.51724 3|0.50575 lengthened|0.49425 ontogeny|0.48276 gestation|0.47126 and|0.45977 infancy|0.44828 4|0.43678 decreased|0.42529 sexual|0.41379 dimorphism|0.4023 The|0.3908 relationship|0.37931 between|0.36782 all|0.35632 these|0.34483 changes|0.33333 is|0.32184 the|0.31034 subject|0.29885 of|0.28736 ongoing|0.27586 debate|0.26437 31|0.25287 Other|0.24138 significant|0.22989 morphological|0.21839 changes|0.2069 included|0.1954 the|0.18391 evolution|0.17241 of|0.16092 a|0.14943 power|0.13793 and|0.12644 precision|0.11494 grip|0.10345 a|0.091954 change|0.08046 first|0.068966 occurring|0.057471 in|0.045977 H|0.034483 erectus|0.022989 32|0.011494 |0",
+			"previous_weights": " "
+		}
+	}
+}

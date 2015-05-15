@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7acd0be0fb51bec9570e051e8026603170eb5d3cff4602cf6a94577c67c440d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SourceForge.net_-_Download_Forbidden.png/220px-SourceForge.net_-_Download_Forbidden.png",
+			"previous": " ",
+			"after": " As of May 2013 update the SourceForge repository hosts more than 300 000 projects and has more than 3 million registered users 3 although not all are active The domain sourceforge net attracted at least 33 million visitors by August 2009 according to a Compete com survey 4 ",
+			"after_weights": " As|1 of|0.97917 May|0.95833 2013|0.9375 update|0.91667 the|0.89583 SourceForge|0.875 repository|0.85417 hosts|0.83333 more|0.8125 than|0.79167 300|0.77083 000|0.75 projects|0.72917 and|0.70833 has|0.6875 more|0.66667 than|0.64583 3|0.625 million|0.60417 registered|0.58333 users|0.5625 3|0.54167 although|0.52083 not|0.5 all|0.47917 are|0.45833 active|0.4375 The|0.41667 domain|0.39583 sourceforge|0.375 net|0.35417 attracted|0.33333 at|0.3125 least|0.29167 33|0.27083 million|0.25 visitors|0.22917 by|0.20833 August|0.1875 2009|0.16667 according|0.14583 to|0.125 a|0.10417 Compete|0.083333 com|0.0625 survey|0.041667 4|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

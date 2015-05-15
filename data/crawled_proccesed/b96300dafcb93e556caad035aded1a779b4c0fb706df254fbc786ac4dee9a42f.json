@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b96300dafcb93e556caad035aded1a779b4c0fb706df254fbc786ac4dee9a42f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/B.B._King_Presidential_Medal_of_Freedom.jpg/170px-B.B._King_Presidential_Medal_of_Freedom.jpg",
+			"previous": " King s favorite singer was Frank Sinatra In his autobiography he spoke about how he was a Sinatra nut and how he went to bed every night listening to Sinatra s classic album In the Wee Small Hours Sinatra had gotten King into the main clubs in Las Vegas during the 1960s He credited Sinatra for opening doors to black entertainers who were not given the chance to play in white dominated venues 88 page needed ",
+			"after": " Years reflect the year in which the Grammy was awarded for music released in the previous year ",
+			"after_weights": " Years|1 reflect|0.94118 the|0.88235 year|0.82353 in|0.76471 which|0.70588 the|0.64706 Grammy|0.58824 was|0.52941 awarded|0.47059 for|0.41176 music|0.35294 released|0.29412 in|0.23529 the|0.17647 previous|0.11765 year|0.058824 |0",
+			"previous_weights": " King|0 s|0.013158 favorite|0.026316 singer|0.039474 was|0.052632 Frank|0.065789 Sinatra|0.078947 In|0.092105 his|0.10526 autobiography|0.11842 he|0.13158 spoke|0.14474 about|0.15789 how|0.17105 he|0.18421 was|0.19737 a|0.21053 Sinatra|0.22368 nut|0.23684 and|0.25 how|0.26316 he|0.27632 went|0.28947 to|0.30263 bed|0.31579 every|0.32895 night|0.34211 listening|0.35526 to|0.36842 Sinatra|0.38158 s|0.39474 classic|0.40789 album|0.42105 In|0.43421 the|0.44737 Wee|0.46053 Small|0.47368 Hours|0.48684 Sinatra|0.5 had|0.51316 gotten|0.52632 King|0.53947 into|0.55263 the|0.56579 main|0.57895 clubs|0.59211 in|0.60526 Las|0.61842 Vegas|0.63158 during|0.64474 the|0.65789 1960s|0.67105 He|0.68421 credited|0.69737 Sinatra|0.71053 for|0.72368 opening|0.73684 doors|0.75 to|0.76316 black|0.77632 entertainers|0.78947 who|0.80263 were|0.81579 not|0.82895 given|0.84211 the|0.85526 chance|0.86842 to|0.88158 play|0.89474 in|0.90789 white|0.92105 dominated|0.93421 venues|0.94737 88|0.96053 page|0.97368 needed|0.98684 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7075fc108236aad73174a0c8b11e1dc5785fe911c41580454a64f648fcf3527c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Amtrak_Regional_viewed_from_NJ_Transit_train.jpg/220px-Amtrak_Regional_viewed_from_NJ_Transit_train.jpg",
+			"previous": " ",
+			"after": " The Northeast Corridor between Washington D C and Boston via Baltimore Philadelphia Newark New York and Providence is largely owned by Amtrak working cooperatively with several state and regional commuter agencies ",
+			"after_weights": " The|1 Northeast|0.96774 Corridor|0.93548 between|0.90323 Washington|0.87097 D|0.83871 C|0.80645 and|0.77419 Boston|0.74194 via|0.70968 Baltimore|0.67742 Philadelphia|0.64516 Newark|0.6129 New|0.58065 York|0.54839 and|0.51613 Providence|0.48387 is|0.45161 largely|0.41935 owned|0.3871 by|0.35484 Amtrak|0.32258 working|0.29032 cooperatively|0.25806 with|0.22581 several|0.19355 state|0.16129 and|0.12903 regional|0.096774 commuter|0.064516 agencies|0.032258 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8828e672980a3d87a023a16aea3143a0cc80c9a66453d952f1926e74233d452e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wikimedia_Server_Architecture_%28simplified%29.svg/300px-Wikimedia_Server_Architecture_%28simplified%29.svg.png",
+			"previous": " LVS implements several balancing schedulers listed below with the relevant source files 3 ",
+			"after": " The userland utility program used to configure LVS is ipvsadm 8 It can be executed by the superuser only  Commonly used terms are the following 4 ",
+			"after_weights": " The|1 userland|0.96296 utility|0.92593 program|0.88889 used|0.85185 to|0.81481 configure|0.77778 LVS|0.74074 is|0.7037 ipvsadm|0.66667 8|0.62963 It|0.59259 can|0.55556 be|0.51852 executed|0.48148 by|0.44444 the|0.40741 superuser|0.37037 only|0.33333 |0.2963 Commonly|0.25926 used|0.22222 terms|0.18519 are|0.14815 the|0.11111 following|0.074074 4|0.037037 |0",
+			"previous_weights": " LVS|0 implements|0.076923 several|0.15385 balancing|0.23077 schedulers|0.30769 listed|0.38462 below|0.46154 with|0.53846 the|0.61538 relevant|0.69231 source|0.76923 files|0.84615 3|0.92308 |1"
+		}
+	}
+}

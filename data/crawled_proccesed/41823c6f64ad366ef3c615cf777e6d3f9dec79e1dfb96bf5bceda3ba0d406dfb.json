@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "41823c6f64ad366ef3c615cf777e6d3f9dec79e1dfb96bf5bceda3ba0d406dfb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/John_Trevisa_%281342-1402%29.png",
+			"previous": " ",
+			"after": " John Trevisa or John of Trevisa 1342 1402 was a Cornish writer and translator  Trevisa was born at Trevessa in the parish of St Enoder in mid Cornwall and was a native Cornish speaker 1 He was educated at Exeter College Oxford and became Vicar of Berkeley Gloucestershire chaplain to the 5th Lord Berkeley and Canon of Westbury on Trym ",
+			"after_weights": " John|1 Trevisa|0.98361 or|0.96721 John|0.95082 of|0.93443 Trevisa|0.91803 1342|0.90164 1402|0.88525 was|0.86885 a|0.85246 Cornish|0.83607 writer|0.81967 and|0.80328 translator|0.78689 |0.77049 Trevisa|0.7541 was|0.7377 born|0.72131 at|0.70492 Trevessa|0.68852 in|0.67213 the|0.65574 parish|0.63934 of|0.62295 St|0.60656 Enoder|0.59016 in|0.57377 mid|0.55738 Cornwall|0.54098 and|0.52459 was|0.5082 a|0.4918 native|0.47541 Cornish|0.45902 speaker|0.44262 1|0.42623 He|0.40984 was|0.39344 educated|0.37705 at|0.36066 Exeter|0.34426 College|0.32787 Oxford|0.31148 and|0.29508 became|0.27869 Vicar|0.2623 of|0.2459 Berkeley|0.22951 Gloucestershire|0.21311 chaplain|0.19672 to|0.18033 the|0.16393 5th|0.14754 Lord|0.13115 Berkeley|0.11475 and|0.098361 Canon|0.081967 of|0.065574 Westbury|0.04918 on|0.032787 Trym|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

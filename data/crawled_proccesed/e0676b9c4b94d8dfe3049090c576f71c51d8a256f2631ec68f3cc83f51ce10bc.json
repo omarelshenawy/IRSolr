@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e0676b9c4b94d8dfe3049090c576f71c51d8a256f2631ec68f3cc83f51ce10bc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_will_of_Sir_Thomas_Browne.jpg/220px-The_will_of_Sir_Thomas_Browne.jpg",
+			"previous": " ",
+			"after": " Sir Thomas Browne died on his 77th birthday 19 October 1682 His Library was held in the care of his eldest son Edward until 1708 The auction of Browne and his son Edward s libraries in January 1711 was attended by Hans Sloane Editions from Sir Thomas Browne s Library subsequently became included in the founding collection of the British Library 5 ",
+			"after_weights": " Sir|1 Thomas|0.98387 Browne|0.96774 died|0.95161 on|0.93548 his|0.91935 77th|0.90323 birthday|0.8871 19|0.87097 October|0.85484 1682|0.83871 His|0.82258 Library|0.80645 was|0.79032 held|0.77419 in|0.75806 the|0.74194 care|0.72581 of|0.70968 his|0.69355 eldest|0.67742 son|0.66129 Edward|0.64516 until|0.62903 1708|0.6129 The|0.59677 auction|0.58065 of|0.56452 Browne|0.54839 and|0.53226 his|0.51613 son|0.5 Edward|0.48387 s|0.46774 libraries|0.45161 in|0.43548 January|0.41935 1711|0.40323 was|0.3871 attended|0.37097 by|0.35484 Hans|0.33871 Sloane|0.32258 Editions|0.30645 from|0.29032 Sir|0.27419 Thomas|0.25806 Browne|0.24194 s|0.22581 Library|0.20968 subsequently|0.19355 became|0.17742 included|0.16129 in|0.14516 the|0.12903 founding|0.1129 collection|0.096774 of|0.080645 the|0.064516 British|0.048387 Library|0.032258 5|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

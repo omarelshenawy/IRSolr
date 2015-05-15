@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b953a4f2240ab2c8ec800afacd21d301c559761a843c985ba0e6655c1dc96a57",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Doutzen_Kroes_Praat_mar_Frysk.jpg/170px-Doutzen_Kroes_Praat_mar_Frysk.jpg",
+			"previous": " ",
+			"after": " Most speakers of West Frisian live in the province of Friesland in the north of the Netherlands This province was formerly officially called Friesland but officially changed its name to Frysl n in 1997 The province has 643 000 inhabitants 2005 of these 94 can understand spoken Frisian 74 can speak Frisian 75 can read Frisian and 27 can write it 3 ",
+			"after_weights": " Most|1 speakers|0.98387 of|0.96774 West|0.95161 Frisian|0.93548 live|0.91935 in|0.90323 the|0.8871 province|0.87097 of|0.85484 Friesland|0.83871 in|0.82258 the|0.80645 north|0.79032 of|0.77419 the|0.75806 Netherlands|0.74194 This|0.72581 province|0.70968 was|0.69355 formerly|0.67742 officially|0.66129 called|0.64516 Friesland|0.62903 but|0.6129 officially|0.59677 changed|0.58065 its|0.56452 name|0.54839 to|0.53226 Frysl|0.51613 n|0.5 in|0.48387 1997|0.46774 The|0.45161 province|0.43548 has|0.41935 643|0.40323 000|0.3871 inhabitants|0.37097 2005|0.35484 of|0.33871 these|0.32258 94|0.30645 can|0.29032 understand|0.27419 spoken|0.25806 Frisian|0.24194 74|0.22581 can|0.20968 speak|0.19355 Frisian|0.17742 75|0.16129 can|0.14516 read|0.12903 Frisian|0.1129 and|0.096774 27|0.080645 can|0.064516 write|0.048387 it|0.032258 3|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

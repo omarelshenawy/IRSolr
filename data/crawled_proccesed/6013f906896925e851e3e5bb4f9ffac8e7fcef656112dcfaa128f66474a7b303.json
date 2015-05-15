@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6013f906896925e851e3e5bb4f9ffac8e7fcef656112dcfaa128f66474a7b303",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Macintosh_128k_transparency.png/220px-Macintosh_128k_transparency.png",
+			"previous": " ",
+			"after": " In 1984 Apple launched the Macintosh the first personal computer to be sold without a programming language at all 35 Its debut was signified by 1984 a 1 5 million television commercial directed by Ridley Scott that aired during the third quarter of Super Bowl XVIII on January 22 1984 36 The commercial is now hailed as a watershed event for Apple s success 37 and a masterpiece 38 39 ",
+			"after_weights": " In|1 1984|0.98571 Apple|0.97143 launched|0.95714 the|0.94286 Macintosh|0.92857 the|0.91429 first|0.9 personal|0.88571 computer|0.87143 to|0.85714 be|0.84286 sold|0.82857 without|0.81429 a|0.8 programming|0.78571 language|0.77143 at|0.75714 all|0.74286 35|0.72857 Its|0.71429 debut|0.7 was|0.68571 signified|0.67143 by|0.65714 1984|0.64286 a|0.62857 1|0.61429 5|0.6 million|0.58571 television|0.57143 commercial|0.55714 directed|0.54286 by|0.52857 Ridley|0.51429 Scott|0.5 that|0.48571 aired|0.47143 during|0.45714 the|0.44286 third|0.42857 quarter|0.41429 of|0.4 Super|0.38571 Bowl|0.37143 XVIII|0.35714 on|0.34286 January|0.32857 22|0.31429 1984|0.3 36|0.28571 The|0.27143 commercial|0.25714 is|0.24286 now|0.22857 hailed|0.21429 as|0.2 a|0.18571 watershed|0.17143 event|0.15714 for|0.14286 Apple|0.12857 s|0.11429 success|0.1 37|0.085714 and|0.071429 a|0.057143 masterpiece|0.042857 38|0.028571 39|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

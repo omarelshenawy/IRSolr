@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8254c7ff841cb82e3ae9c87d097ae82fd5f96fc3a5ca02c3d5dd46a8ac2044ea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1989_Grytvikken_hg.jpg/250px-1989_Grytvikken_hg.jpg",
+			"previous": " Smaller islands and islets off the coast of South Georgia Island include  Geologically the island consists of gneiss and argillaceous schists There are no traces of fossils indicating that the island like the Falkland Islands is a fragment of some greater land mass now vanished It was probably a former extension of the Andean system ",
+			"after": " The following remote rocks are also considered part of the South Georgia Group ",
+			"after_weights": " The|1 following|0.92308 remote|0.84615 rocks|0.76923 are|0.69231 also|0.61538 considered|0.53846 part|0.46154 of|0.38462 the|0.30769 South|0.23077 Georgia|0.15385 Group|0.076923 |0",
+			"previous_weights": " Smaller|0 islands|0.017857 and|0.035714 islets|0.053571 off|0.071429 the|0.089286 coast|0.10714 of|0.125 South|0.14286 Georgia|0.16071 Island|0.17857 include|0.19643 |0.21429 Geologically|0.23214 the|0.25 island|0.26786 consists|0.28571 of|0.30357 gneiss|0.32143 and|0.33929 argillaceous|0.35714 schists|0.375 There|0.39286 are|0.41071 no|0.42857 traces|0.44643 of|0.46429 fossils|0.48214 indicating|0.5 that|0.51786 the|0.53571 island|0.55357 like|0.57143 the|0.58929 Falkland|0.60714 Islands|0.625 is|0.64286 a|0.66071 fragment|0.67857 of|0.69643 some|0.71429 greater|0.73214 land|0.75 mass|0.76786 now|0.78571 vanished|0.80357 It|0.82143 was|0.83929 probably|0.85714 a|0.875 former|0.89286 extension|0.91071 of|0.92857 the|0.94643 Andean|0.96429 system|0.98214 |1"
+		}
+	}
+}

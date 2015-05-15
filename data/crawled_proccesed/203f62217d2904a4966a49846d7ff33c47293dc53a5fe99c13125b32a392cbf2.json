@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "203f62217d2904a4966a49846d7ff33c47293dc53a5fe99c13125b32a392cbf2",
+			"url": "https://upload.wikimedia.org/math/3/c/4/3c4236b424d21470033f3fd173c5f172.png",
+			"previous": " In type theory and programming language theory the colon sign after a term is used to indicate its type sometimes as a replacement to the symbol Example ",
+			"after": " Some languages like Haskell use a double colon to indicate type instead ",
+			"after_weights": " Some|1 languages|0.91667 like|0.83333 Haskell|0.75 use|0.66667 a|0.58333 double|0.5 colon|0.41667 to|0.33333 indicate|0.25 type|0.16667 instead|0.083333 |0",
+			"previous_weights": " In|0 type|0.037037 theory|0.074074 and|0.11111 programming|0.14815 language|0.18519 theory|0.22222 the|0.25926 colon|0.2963 sign|0.33333 after|0.37037 a|0.40741 term|0.44444 is|0.48148 used|0.51852 to|0.55556 indicate|0.59259 its|0.62963 type|0.66667 sometimes|0.7037 as|0.74074 a|0.77778 replacement|0.81481 to|0.85185 the|0.88889 symbol|0.92593 Example|0.96296 |1"
+		}
+	}
+}

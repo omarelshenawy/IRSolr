@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d6096c97b9bfc5e332244c0b6a3541f795aefb18f4b6a0cbf0a45c79636e88e2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/WP_Offline_Proccess_en.svg/800px-WP_Offline_Proccess_en.svg.png",
+			"previous": " ",
+			"after": " On the English Wikipedia we use the Selection Bot as part of the selection process using the WikiProject assessments to indicate the state of each article The online version is held on the Kiwix server while undergoing cleanup The offline format we use is ZIM format and the conversion is performed by User Kelson Currently Linterweb a French software company is publishing our material ",
+			"after_weights": " On|1 the|0.98438 English|0.96875 Wikipedia|0.95312 we|0.9375 use|0.92188 the|0.90625 Selection|0.89062 Bot|0.875 as|0.85938 part|0.84375 of|0.82812 the|0.8125 selection|0.79688 process|0.78125 using|0.76562 the|0.75 WikiProject|0.73438 assessments|0.71875 to|0.70312 indicate|0.6875 the|0.67188 state|0.65625 of|0.64062 each|0.625 article|0.60938 The|0.59375 online|0.57812 version|0.5625 is|0.54688 held|0.53125 on|0.51562 the|0.5 Kiwix|0.48438 server|0.46875 while|0.45312 undergoing|0.4375 cleanup|0.42188 The|0.40625 offline|0.39062 format|0.375 we|0.35938 use|0.34375 is|0.32812 ZIM|0.3125 format|0.29688 and|0.28125 the|0.26562 conversion|0.25 is|0.23438 performed|0.21875 by|0.20312 User|0.1875 Kelson|0.17188 Currently|0.15625 Linterweb|0.14062 a|0.125 French|0.10938 software|0.09375 company|0.078125 is|0.0625 publishing|0.046875 our|0.03125 material|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

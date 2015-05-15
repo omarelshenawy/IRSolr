@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "238123750e4114d7a1ab3879a26155f72eb50d1f73a358b00919d78f2229e6e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Barack_Obama_singing_in_the_East_Room.jpg/220px-Barack_Obama_singing_in_the_East_Room.jpg",
+			"previous": " King performed at the Mawazine festival in Rabat Morocco on May 27 2010 52 In June 2010 King performed at the Crossroads Guitar Festival with Robert Cray Jimmie Vaughan and Eric Clapton 53 He also contributed to Cyndi Lauper s album Memphis Blues which was released on June 22 2010 54 ",
+			"after": " In 2011 King played at the Glastonbury Music Festival 55 and in the Royal Albert Hall in London where he recorded a concert video 56 ",
+			"after_weights": " In|1 2011|0.96 King|0.92 played|0.88 at|0.84 the|0.8 Glastonbury|0.76 Music|0.72 Festival|0.68 55|0.64 and|0.6 in|0.56 the|0.52 Royal|0.48 Albert|0.44 Hall|0.4 in|0.36 London|0.32 where|0.28 he|0.24 recorded|0.2 a|0.16 concert|0.12 video|0.08 56|0.04 |0",
+			"previous_weights": " King|0 performed|0.019608 at|0.039216 the|0.058824 Mawazine|0.078431 festival|0.098039 in|0.11765 Rabat|0.13725 Morocco|0.15686 on|0.17647 May|0.19608 27|0.21569 2010|0.23529 52|0.2549 In|0.27451 June|0.29412 2010|0.31373 King|0.33333 performed|0.35294 at|0.37255 the|0.39216 Crossroads|0.41176 Guitar|0.43137 Festival|0.45098 with|0.47059 Robert|0.4902 Cray|0.5098 Jimmie|0.52941 Vaughan|0.54902 and|0.56863 Eric|0.58824 Clapton|0.60784 53|0.62745 He|0.64706 also|0.66667 contributed|0.68627 to|0.70588 Cyndi|0.72549 Lauper|0.7451 s|0.76471 album|0.78431 Memphis|0.80392 Blues|0.82353 which|0.84314 was|0.86275 released|0.88235 on|0.90196 June|0.92157 22|0.94118 2010|0.96078 54|0.98039 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ab2dc5ee6a8ed96e17654c5e233905e8517322d08167f9f98477903ed8a6d4e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VirgilGriffithFace.jpg/250px-VirgilGriffithFace.jpg",
+			"previous": " ",
+			"after": " In 2007 Virgil Griffith a Caltech computation and neural systems graduate student created a searchable database that linked changes made by anonymous Wikipedia editors to companies and organizations from which the changes were made The database cross referenced logs of Wikipedia edits with publicly available records pertaining to the internet IP addresses edits were made from 32 ",
+			"after_weights": " In|1 2007|0.98246 Virgil|0.96491 Griffith|0.94737 a|0.92982 Caltech|0.91228 computation|0.89474 and|0.87719 neural|0.85965 systems|0.84211 graduate|0.82456 student|0.80702 created|0.78947 a|0.77193 searchable|0.75439 database|0.73684 that|0.7193 linked|0.70175 changes|0.68421 made|0.66667 by|0.64912 anonymous|0.63158 Wikipedia|0.61404 editors|0.59649 to|0.57895 companies|0.5614 and|0.54386 organizations|0.52632 from|0.50877 which|0.49123 the|0.47368 changes|0.45614 were|0.4386 made|0.42105 The|0.40351 database|0.38596 cross|0.36842 referenced|0.35088 logs|0.33333 of|0.31579 Wikipedia|0.29825 edits|0.2807 with|0.26316 publicly|0.24561 available|0.22807 records|0.21053 pertaining|0.19298 to|0.17544 the|0.15789 internet|0.14035 IP|0.12281 addresses|0.10526 edits|0.087719 were|0.070175 made|0.052632 from|0.035088 32|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

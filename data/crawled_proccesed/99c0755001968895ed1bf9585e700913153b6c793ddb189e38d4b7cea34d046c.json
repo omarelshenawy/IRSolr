@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "99c0755001968895ed1bf9585e700913153b6c793ddb189e38d4b7cea34d046c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/O%27Keeffe-%28hands%29.jpg/79px-O%27Keeffe-%28hands%29.jpg",
+			"previous": " Portal Arts Selected anniversaries November Portal Arts Selected anniversaries October Portal Arts Selected anniversaries September Portal Arts Selected anniversaries August",
+			"after": " Portal Arts Selected anniversaries December",
+			"after_weights": " Portal|1 Arts|0.75 Selected|0.5 anniversaries|0.25 December|0",
+			"previous_weights": " Portal|0 Arts|0.052632 Selected|0.10526 anniversaries|0.15789 November|0.21053 Portal|0.26316 Arts|0.31579 Selected|0.36842 anniversaries|0.42105 October|0.47368 Portal|0.52632 Arts|0.57895 Selected|0.63158 anniversaries|0.68421 September|0.73684 Portal|0.78947 Arts|0.84211 Selected|0.89474 anniversaries|0.94737 August|1"
+		}
+	}
+}

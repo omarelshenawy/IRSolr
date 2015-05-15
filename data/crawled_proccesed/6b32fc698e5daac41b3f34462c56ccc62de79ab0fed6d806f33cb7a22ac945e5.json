@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b32fc698e5daac41b3f34462c56ccc62de79ab0fed6d806f33cb7a22ac945e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Peter-Gabriel-2011I2.jpg/220px-Peter-Gabriel-2011I2.jpg",
+			"previous": " ",
+			"after": " Gabriel actively coordinated and performed at the Eden Project Live 8 concert in July 2005 In his earliest days Gabriel played flute on Cat Stevens s first album on the Island records label Mona Bone Jakon as a nervous session musician Stevens now known as Yusuf Islam joined him on stage 33 years after that experience in Johannesburg during Nelson Mandela s 46664 concert The two performed the Stevens hit Wild World ",
+			"after_weights": " Gabriel|1 actively|0.98611 coordinated|0.97222 and|0.95833 performed|0.94444 at|0.93056 the|0.91667 Eden|0.90278 Project|0.88889 Live|0.875 8|0.86111 concert|0.84722 in|0.83333 July|0.81944 2005|0.80556 In|0.79167 his|0.77778 earliest|0.76389 days|0.75 Gabriel|0.73611 played|0.72222 flute|0.70833 on|0.69444 Cat|0.68056 Stevens|0.66667 s|0.65278 first|0.63889 album|0.625 on|0.61111 the|0.59722 Island|0.58333 records|0.56944 label|0.55556 Mona|0.54167 Bone|0.52778 Jakon|0.51389 as|0.5 a|0.48611 nervous|0.47222 session|0.45833 musician|0.44444 Stevens|0.43056 now|0.41667 known|0.40278 as|0.38889 Yusuf|0.375 Islam|0.36111 joined|0.34722 him|0.33333 on|0.31944 stage|0.30556 33|0.29167 years|0.27778 after|0.26389 that|0.25 experience|0.23611 in|0.22222 Johannesburg|0.20833 during|0.19444 Nelson|0.18056 Mandela|0.16667 s|0.15278 46664|0.13889 concert|0.125 The|0.11111 two|0.097222 performed|0.083333 the|0.069444 Stevens|0.055556 hit|0.041667 Wild|0.027778 World|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

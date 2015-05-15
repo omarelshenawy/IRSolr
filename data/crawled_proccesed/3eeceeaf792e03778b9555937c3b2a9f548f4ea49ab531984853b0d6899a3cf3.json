@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "3eeceeaf792e03778b9555937c3b2a9f548f4ea49ab531984853b0d6899a3cf3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Old_Harbor_Life_Saving_Station%2C_Sunset.JPG/275px-Old_Harbor_Life_Saving_Station%2C_Sunset.JPG",
+			"previous": " To the south of Cape Cod lie Nantucket Sound Nantucket and Martha s Vineyard both large islands and the mostly privately owned Elizabeth Islands ",
+			"after": " For most of the 18th 19th and 20th centuries Cape Cod was considered to consist of three sections see map ",
+			"after_weights": " For|1 most|0.95 of|0.9 the|0.85 18th|0.8 19th|0.75 and|0.7 20th|0.65 centuries|0.6 Cape|0.55 Cod|0.5 was|0.45 considered|0.4 to|0.35 consist|0.3 of|0.25 three|0.2 sections|0.15 see|0.1 map|0.05 |0",
+			"previous_weights": " To|0 the|0.041667 south|0.083333 of|0.125 Cape|0.16667 Cod|0.20833 lie|0.25 Nantucket|0.29167 Sound|0.33333 Nantucket|0.375 and|0.41667 Martha|0.45833 s|0.5 Vineyard|0.54167 both|0.58333 large|0.625 islands|0.66667 and|0.70833 the|0.75 mostly|0.79167 privately|0.83333 owned|0.875 Elizabeth|0.91667 Islands|0.95833 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bf1604d6c47ddf29fa839232e71114189abc5c16cd308f442c63c813444c124",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Piratpartiet.svg/220px-Piratpartiet.svg.png",
+			"previous": " ",
+			"after": " Pirate Party is a label adopted by political parties in different countries Pirate parties support civil rights direct democracy and participation in government reform of copyright and patent law free sharing of knowledge open content information privacy transparency freedom of information anti corruption and network neutrality citation needed ",
+			"after_weights": " Pirate|1 Party|0.97917 is|0.95833 a|0.9375 label|0.91667 adopted|0.89583 by|0.875 political|0.85417 parties|0.83333 in|0.8125 different|0.79167 countries|0.77083 Pirate|0.75 parties|0.72917 support|0.70833 civil|0.6875 rights|0.66667 direct|0.64583 democracy|0.625 and|0.60417 participation|0.58333 in|0.5625 government|0.54167 reform|0.52083 of|0.5 copyright|0.47917 and|0.45833 patent|0.4375 law|0.41667 free|0.39583 sharing|0.375 of|0.35417 knowledge|0.33333 open|0.3125 content|0.29167 information|0.27083 privacy|0.25 transparency|0.22917 freedom|0.20833 of|0.1875 information|0.16667 anti|0.14583 corruption|0.125 and|0.10417 network|0.083333 neutrality|0.0625 citation|0.041667 needed|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

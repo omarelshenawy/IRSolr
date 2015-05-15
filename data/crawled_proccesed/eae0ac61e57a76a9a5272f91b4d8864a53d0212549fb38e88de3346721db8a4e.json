@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "eae0ac61e57a76a9a5272f91b4d8864a53d0212549fb38e88de3346721db8a4e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG/150px-1933_Nobel_Peace_Prize_awarded_to_Norman_Angell.JPG",
+			"previous": " ",
+			"after": " The Chairman of the Norwegian Nobel Committee presents the Nobel Peace Prize in the presence of the King of Norway on 10 December each year the anniversary of Nobel s death The Peace Prize is the only Nobel Prize not presented in Stockholm The Nobel laureate receives a diploma a medal and a document confirming the prize amount 14 As of 2013 the prize was worth 10 million SEK about US 1 5 million Since 1990 the Nobel Peace Prize Ceremony is held at Oslo City Hall ",
+			"after_weights": " The|1 Chairman|0.98851 of|0.97701 the|0.96552 Norwegian|0.95402 Nobel|0.94253 Committee|0.93103 presents|0.91954 the|0.90805 Nobel|0.89655 Peace|0.88506 Prize|0.87356 in|0.86207 the|0.85057 presence|0.83908 of|0.82759 the|0.81609 King|0.8046 of|0.7931 Norway|0.78161 on|0.77011 10|0.75862 December|0.74713 each|0.73563 year|0.72414 the|0.71264 anniversary|0.70115 of|0.68966 Nobel|0.67816 s|0.66667 death|0.65517 The|0.64368 Peace|0.63218 Prize|0.62069 is|0.6092 the|0.5977 only|0.58621 Nobel|0.57471 Prize|0.56322 not|0.55172 presented|0.54023 in|0.52874 Stockholm|0.51724 The|0.50575 Nobel|0.49425 laureate|0.48276 receives|0.47126 a|0.45977 diploma|0.44828 a|0.43678 medal|0.42529 and|0.41379 a|0.4023 document|0.3908 confirming|0.37931 the|0.36782 prize|0.35632 amount|0.34483 14|0.33333 As|0.32184 of|0.31034 2013|0.29885 the|0.28736 prize|0.27586 was|0.26437 worth|0.25287 10|0.24138 million|0.22989 SEK|0.21839 about|0.2069 US|0.1954 1|0.18391 5|0.17241 million|0.16092 Since|0.14943 1990|0.13793 the|0.12644 Nobel|0.11494 Peace|0.10345 Prize|0.091954 Ceremony|0.08046 is|0.068966 held|0.057471 at|0.045977 Oslo|0.034483 City|0.022989 Hall|0.011494 |0",
+			"previous_weights": " "
+		}
+	}
+}

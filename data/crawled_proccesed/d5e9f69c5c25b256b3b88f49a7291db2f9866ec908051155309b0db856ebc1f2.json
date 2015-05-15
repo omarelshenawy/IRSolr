@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d5e9f69c5c25b256b3b88f49a7291db2f9866ec908051155309b0db856ebc1f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Full_moon_partially_obscured_by_atmosphere.jpg/220px-Full_moon_partially_obscured_by_atmosphere.jpg",
+			"previous": " ",
+			"after": " Above the troposphere the atmosphere is usually divided into the stratosphere mesosphere and thermosphere 149 Each layer has a different lapse rate defining the rate of change in temperature with height Beyond these the exosphere thins out into the magnetosphere where the geomagnetic fields interact with the solar wind 157 Within the stratosphere is the ozone layer a component that partially shields the surface from ultraviolet light and thus is important for life on Earth The K rm n line defined as 100 km above Earth s surface is a working definition for the boundary between the atmosphere and outer space 158 ",
+			"after_weights": " Above|1 the|0.9902 troposphere|0.98039 the|0.97059 atmosphere|0.96078 is|0.95098 usually|0.94118 divided|0.93137 into|0.92157 the|0.91176 stratosphere|0.90196 mesosphere|0.89216 and|0.88235 thermosphere|0.87255 149|0.86275 Each|0.85294 layer|0.84314 has|0.83333 a|0.82353 different|0.81373 lapse|0.80392 rate|0.79412 defining|0.78431 the|0.77451 rate|0.76471 of|0.7549 change|0.7451 in|0.73529 temperature|0.72549 with|0.71569 height|0.70588 Beyond|0.69608 these|0.68627 the|0.67647 exosphere|0.66667 thins|0.65686 out|0.64706 into|0.63725 the|0.62745 magnetosphere|0.61765 where|0.60784 the|0.59804 geomagnetic|0.58824 fields|0.57843 interact|0.56863 with|0.55882 the|0.54902 solar|0.53922 wind|0.52941 157|0.51961 Within|0.5098 the|0.5 stratosphere|0.4902 is|0.48039 the|0.47059 ozone|0.46078 layer|0.45098 a|0.44118 component|0.43137 that|0.42157 partially|0.41176 shields|0.40196 the|0.39216 surface|0.38235 from|0.37255 ultraviolet|0.36275 light|0.35294 and|0.34314 thus|0.33333 is|0.32353 important|0.31373 for|0.30392 life|0.29412 on|0.28431 Earth|0.27451 The|0.26471 K|0.2549 rm|0.2451 n|0.23529 line|0.22549 defined|0.21569 as|0.20588 100|0.19608 km|0.18627 above|0.17647 Earth|0.16667 s|0.15686 surface|0.14706 is|0.13725 a|0.12745 working|0.11765 definition|0.10784 for|0.098039 the|0.088235 boundary|0.078431 between|0.068627 the|0.058824 atmosphere|0.04902 and|0.039216 outer|0.029412 space|0.019608 158|0.0098039 |0",
+			"previous_weights": " "
+		}
+	}
+}

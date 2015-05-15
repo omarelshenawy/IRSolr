@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "df28a2fee8eafaaf59aadd7ae31f6dcc8d4f0b498baab7d62f8f4adfc48d79a9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prince_George_Wharf_in_Nassau_Harbor.jpg/300px-Prince_George_Wharf_in_Nassau_Harbor.jpg",
+			"previous": " ",
+			"after": " The Bahamas relies on tourism to generate most of its economic activity Tourism as an industry not only accounts for over 60 percent of the Bahamian GDP but provides jobs for more than half the country s workforce 53 The Bahamas attracted 5 8 million visitors in 2012 more than 70 percent of which were cruise visitors ",
+			"after_weights": " The|1 Bahamas|0.98246 relies|0.96491 on|0.94737 tourism|0.92982 to|0.91228 generate|0.89474 most|0.87719 of|0.85965 its|0.84211 economic|0.82456 activity|0.80702 Tourism|0.78947 as|0.77193 an|0.75439 industry|0.73684 not|0.7193 only|0.70175 accounts|0.68421 for|0.66667 over|0.64912 60|0.63158 percent|0.61404 of|0.59649 the|0.57895 Bahamian|0.5614 GDP|0.54386 but|0.52632 provides|0.50877 jobs|0.49123 for|0.47368 more|0.45614 than|0.4386 half|0.42105 the|0.40351 country|0.38596 s|0.36842 workforce|0.35088 53|0.33333 The|0.31579 Bahamas|0.29825 attracted|0.2807 5|0.26316 8|0.24561 million|0.22807 visitors|0.21053 in|0.19298 2012|0.17544 more|0.15789 than|0.14035 70|0.12281 percent|0.10526 of|0.087719 which|0.070175 were|0.052632 cruise|0.035088 visitors|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

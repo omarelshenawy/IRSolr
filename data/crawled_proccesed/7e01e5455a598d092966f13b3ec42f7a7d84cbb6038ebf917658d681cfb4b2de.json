@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e01e5455a598d092966f13b3ec42f7a7d84cbb6038ebf917658d681cfb4b2de",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Editathon_das_minas.jpg/220px-Editathon_das_minas.jpg",
+			"previous": " ",
+			"after": " In the online communities of projects such as Wikipedia and OpenStreetMap an edit a thon sometimes written editathon is an event where editors get together to edit and improve a specific topic or type of content typically including basic editing training for new editors The word is a portmanteau of edit and marathon ",
+			"after_weights": " In|1 the|0.98113 online|0.96226 communities|0.9434 of|0.92453 projects|0.90566 such|0.88679 as|0.86792 Wikipedia|0.84906 and|0.83019 OpenStreetMap|0.81132 an|0.79245 edit|0.77358 a|0.75472 thon|0.73585 sometimes|0.71698 written|0.69811 editathon|0.67925 is|0.66038 an|0.64151 event|0.62264 where|0.60377 editors|0.58491 get|0.56604 together|0.54717 to|0.5283 edit|0.50943 and|0.49057 improve|0.4717 a|0.45283 specific|0.43396 topic|0.41509 or|0.39623 type|0.37736 of|0.35849 content|0.33962 typically|0.32075 including|0.30189 basic|0.28302 editing|0.26415 training|0.24528 for|0.22642 new|0.20755 editors|0.18868 The|0.16981 word|0.15094 is|0.13208 a|0.11321 portmanteau|0.09434 of|0.075472 edit|0.056604 and|0.037736 marathon|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

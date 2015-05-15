@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ce6ddfd4d3b2f5e67347750f555a474e9cf54c9906d3aa0212a5b9c1eb55aa96",
+			"url": "https://upload.wikimedia.org/math/3/d/7/3d772925f7b5bb7dc2118e0910ed0372.png",
+			"previous": " the volume of the sphere is Let the radius be r and the height be h which is 2r for the sphere then the volume of cone is",
+			"after": " while the volume of the cylinder is The discovery of the 2 3 ratio of the volumes of the sphere and cylinder is credited to Archimedes 5 ",
+			"after_weights": " while|1 the|0.96296 volume|0.92593 of|0.88889 the|0.85185 cylinder|0.81481 is|0.77778 The|0.74074 discovery|0.7037 of|0.66667 the|0.62963 2|0.59259 3|0.55556 ratio|0.51852 of|0.48148 the|0.44444 volumes|0.40741 of|0.37037 the|0.33333 sphere|0.2963 and|0.25926 cylinder|0.22222 is|0.18519 credited|0.14815 to|0.11111 Archimedes|0.074074 5|0.037037 |0",
+			"previous_weights": " the|0 volume|0.037037 of|0.074074 the|0.11111 sphere|0.14815 is|0.18519 Let|0.22222 the|0.25926 radius|0.2963 be|0.33333 r|0.37037 and|0.40741 the|0.44444 height|0.48148 be|0.51852 h|0.55556 which|0.59259 is|0.62963 2r|0.66667 for|0.7037 the|0.74074 sphere|0.77778 then|0.81481 the|0.85185 volume|0.88889 of|0.92593 cone|0.96296 is|1"
+		}
+	}
+}

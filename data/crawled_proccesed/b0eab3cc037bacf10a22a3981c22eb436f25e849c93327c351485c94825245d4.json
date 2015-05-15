@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b0eab3cc037bacf10a22a3981c22eb436f25e849c93327c351485c94825245d4",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/StaticTemplates.gif/220px-StaticTemplates.gif",
+			"previous": " ",
+			"after": " HTML editors often use web template systems to produce only static web pages These can be viewed as a ready made web design used to mass produce cookie cutter websites for rapid deployment They also commonly include themes in place of CSS styles In general the template language is to be used only with the editor s software ",
+			"after_weights": " HTML|1 editors|0.98276 often|0.96552 use|0.94828 web|0.93103 template|0.91379 systems|0.89655 to|0.87931 produce|0.86207 only|0.84483 static|0.82759 web|0.81034 pages|0.7931 These|0.77586 can|0.75862 be|0.74138 viewed|0.72414 as|0.7069 a|0.68966 ready|0.67241 made|0.65517 web|0.63793 design|0.62069 used|0.60345 to|0.58621 mass|0.56897 produce|0.55172 cookie|0.53448 cutter|0.51724 websites|0.5 for|0.48276 rapid|0.46552 deployment|0.44828 They|0.43103 also|0.41379 commonly|0.39655 include|0.37931 themes|0.36207 in|0.34483 place|0.32759 of|0.31034 CSS|0.2931 styles|0.27586 In|0.25862 general|0.24138 the|0.22414 template|0.2069 language|0.18966 is|0.17241 to|0.15517 be|0.13793 used|0.12069 only|0.10345 with|0.086207 the|0.068966 editor|0.051724 s|0.034483 software|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

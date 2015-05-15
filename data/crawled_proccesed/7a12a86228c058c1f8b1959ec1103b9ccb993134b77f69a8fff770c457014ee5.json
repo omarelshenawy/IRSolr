@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a12a86228c058c1f8b1959ec1103b9ccb993134b77f69a8fff770c457014ee5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NASA_Website_Homepage_-_April_25%2C_2015.png/240px-NASA_Website_Homepage_-_April_25%2C_2015.png",
+			"previous": " ",
+			"after": " A website also written as web site 1 or simply site 2 is a set of related web pages typically served from a single web domain A website is hosted on at least one web server accessible via a network such as the Internet or a private local area network through an Internet address known as a uniform resource locator URL All publicly accessible websites collectively constitute the World Wide Web ",
+			"after_weights": " A|1 website|0.98592 also|0.97183 written|0.95775 as|0.94366 web|0.92958 site|0.91549 1|0.90141 or|0.88732 simply|0.87324 site|0.85915 2|0.84507 is|0.83099 a|0.8169 set|0.80282 of|0.78873 related|0.77465 web|0.76056 pages|0.74648 typically|0.73239 served|0.71831 from|0.70423 a|0.69014 single|0.67606 web|0.66197 domain|0.64789 A|0.6338 website|0.61972 is|0.60563 hosted|0.59155 on|0.57746 at|0.56338 least|0.5493 one|0.53521 web|0.52113 server|0.50704 accessible|0.49296 via|0.47887 a|0.46479 network|0.4507 such|0.43662 as|0.42254 the|0.40845 Internet|0.39437 or|0.38028 a|0.3662 private|0.35211 local|0.33803 area|0.32394 network|0.30986 through|0.29577 an|0.28169 Internet|0.26761 address|0.25352 known|0.23944 as|0.22535 a|0.21127 uniform|0.19718 resource|0.1831 locator|0.16901 URL|0.15493 All|0.14085 publicly|0.12676 accessible|0.11268 websites|0.098592 collectively|0.084507 constitute|0.070423 the|0.056338 World|0.042254 Wide|0.028169 Web|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

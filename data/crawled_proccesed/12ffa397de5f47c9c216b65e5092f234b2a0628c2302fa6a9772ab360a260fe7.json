@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "12ffa397de5f47c9c216b65e5092f234b2a0628c2302fa6a9772ab360a260fe7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Opera_House_%28Manchester%29.jpg/170px-Opera_House_%28Manchester%29.jpg",
+			"previous": " ",
+			"after": " Manchester has a thriving theatre opera and dance scene and is home to a number of large performance venues including the Manchester Opera House which feature large scale touring shows and West End productions the Palace Theatre and the Royal Exchange Theatre in Manchester s former cotton exchange The Royal Exchange is the largest theatre in the round space in the UK ",
+			"after_weights": " Manchester|1 has|0.98387 a|0.96774 thriving|0.95161 theatre|0.93548 opera|0.91935 and|0.90323 dance|0.8871 scene|0.87097 and|0.85484 is|0.83871 home|0.82258 to|0.80645 a|0.79032 number|0.77419 of|0.75806 large|0.74194 performance|0.72581 venues|0.70968 including|0.69355 the|0.67742 Manchester|0.66129 Opera|0.64516 House|0.62903 which|0.6129 feature|0.59677 large|0.58065 scale|0.56452 touring|0.54839 shows|0.53226 and|0.51613 West|0.5 End|0.48387 productions|0.46774 the|0.45161 Palace|0.43548 Theatre|0.41935 and|0.40323 the|0.3871 Royal|0.37097 Exchange|0.35484 Theatre|0.33871 in|0.32258 Manchester|0.30645 s|0.29032 former|0.27419 cotton|0.25806 exchange|0.24194 The|0.22581 Royal|0.20968 Exchange|0.19355 is|0.17742 the|0.16129 largest|0.14516 theatre|0.12903 in|0.1129 the|0.096774 round|0.080645 space|0.064516 in|0.048387 the|0.032258 UK|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

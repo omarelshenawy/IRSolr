@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5230aa248099c438bbbbf37d8d542404e6a961001878a8d052761654b8f9c9a4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/George_%26_Laura_Bush_board_Air_Force_One_1-20-09_hires_091220-F-0194C-001a.jpg/220px-George_%26_Laura_Bush_board_Air_Force_One_1-20-09_hires_091220-F-0194C-001a.jpg",
+			"previous": " ",
+			"after": " Following the inauguration of Barack Obama Bush and his family flew from Andrews Air Force Base to a homecoming celebration in Midland Texas following which they returned to their ranch in Crawford Texas 403 They bought a home in the Preston Hollow neighborhood of Dallas Texas where they settled down 404 ",
+			"after_weights": " Following|1 the|0.98039 inauguration|0.96078 of|0.94118 Barack|0.92157 Obama|0.90196 Bush|0.88235 and|0.86275 his|0.84314 family|0.82353 flew|0.80392 from|0.78431 Andrews|0.76471 Air|0.7451 Force|0.72549 Base|0.70588 to|0.68627 a|0.66667 homecoming|0.64706 celebration|0.62745 in|0.60784 Midland|0.58824 Texas|0.56863 following|0.54902 which|0.52941 they|0.5098 returned|0.4902 to|0.47059 their|0.45098 ranch|0.43137 in|0.41176 Crawford|0.39216 Texas|0.37255 403|0.35294 They|0.33333 bought|0.31373 a|0.29412 home|0.27451 in|0.2549 the|0.23529 Preston|0.21569 Hollow|0.19608 neighborhood|0.17647 of|0.15686 Dallas|0.13725 Texas|0.11765 where|0.098039 they|0.078431 settled|0.058824 down|0.039216 404|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

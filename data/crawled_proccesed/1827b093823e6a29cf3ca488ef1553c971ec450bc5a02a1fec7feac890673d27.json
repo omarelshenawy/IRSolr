@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1827b093823e6a29cf3ca488ef1553c971ec450bc5a02a1fec7feac890673d27",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Citizens_Bank_Park%2C_May_2009.jpg/250px-Citizens_Bank_Park%2C_May_2009.jpg",
+			"previous": " ",
+			"after": " Philadelphia s professional sports teams date at least to the 1860 founding of baseball s Athletics The city is one of 12 U S cities to have all four major sports the Philadelphia Eagles of the National Football League the Philadelphia Flyers of the National Hockey League the Philadelphia Phillies in the National League of Major League Baseball and the Philadelphia 76ers in the National Basketball Association ",
+			"after_weights": " Philadelphia|1 s|0.98507 professional|0.97015 sports|0.95522 teams|0.9403 date|0.92537 at|0.91045 least|0.89552 to|0.8806 the|0.86567 1860|0.85075 founding|0.83582 of|0.8209 baseball|0.80597 s|0.79104 Athletics|0.77612 The|0.76119 city|0.74627 is|0.73134 one|0.71642 of|0.70149 12|0.68657 U|0.67164 S|0.65672 cities|0.64179 to|0.62687 have|0.61194 all|0.59701 four|0.58209 major|0.56716 sports|0.55224 the|0.53731 Philadelphia|0.52239 Eagles|0.50746 of|0.49254 the|0.47761 National|0.46269 Football|0.44776 League|0.43284 the|0.41791 Philadelphia|0.40299 Flyers|0.38806 of|0.37313 the|0.35821 National|0.34328 Hockey|0.32836 League|0.31343 the|0.29851 Philadelphia|0.28358 Phillies|0.26866 in|0.25373 the|0.23881 National|0.22388 League|0.20896 of|0.19403 Major|0.1791 League|0.16418 Baseball|0.14925 and|0.13433 the|0.1194 Philadelphia|0.10448 76ers|0.089552 in|0.074627 the|0.059701 National|0.044776 Basketball|0.029851 Association|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

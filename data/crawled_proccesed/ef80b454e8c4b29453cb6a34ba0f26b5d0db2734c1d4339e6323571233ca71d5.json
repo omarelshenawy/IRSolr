@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ef80b454e8c4b29453cb6a34ba0f26b5d0db2734c1d4339e6323571233ca71d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Map_of_Dominica.gif/220px-Map_of_Dominica.gif",
+			"previous": " ",
+			"after": " Dominica is an island nation in the Caribbean Sea the northernmost of the Windward Islands though it is sometimes considered the southernmost of the Leeward Islands The size of the country is about 289 5 square miles 750 km2 The capital is Roseau ",
+			"after_weights": " Dominica|1 is|0.97674 an|0.95349 island|0.93023 nation|0.90698 in|0.88372 the|0.86047 Caribbean|0.83721 Sea|0.81395 the|0.7907 northernmost|0.76744 of|0.74419 the|0.72093 Windward|0.69767 Islands|0.67442 though|0.65116 it|0.62791 is|0.60465 sometimes|0.5814 considered|0.55814 the|0.53488 southernmost|0.51163 of|0.48837 the|0.46512 Leeward|0.44186 Islands|0.4186 The|0.39535 size|0.37209 of|0.34884 the|0.32558 country|0.30233 is|0.27907 about|0.25581 289|0.23256 5|0.2093 square|0.18605 miles|0.16279 750|0.13953 km2|0.11628 The|0.093023 capital|0.069767 is|0.046512 Roseau|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

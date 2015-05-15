@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a14eeb355bfbc487c7e9cfdd1313e113fbe45a84f9b129ff7f2e13aee7a1481",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BBC_Speakerthon_logo_r_d_2.jpg/100px-BBC_Speakerthon_logo_r_d_2.jpg",
+			"previous": " ",
+			"after": " This excerpt from a BBC radio programme has been uploaded as part of the BBC voice project Please note that the BBC retains copyright on the full programmes and only excerpts which the BBC have explicitly released under an open licence may be uploaded to Wikimedia Commons ",
+			"after_weights": " This|1 excerpt|0.97872 from|0.95745 a|0.93617 BBC|0.91489 radio|0.89362 programme|0.87234 has|0.85106 been|0.82979 uploaded|0.80851 as|0.78723 part|0.76596 of|0.74468 the|0.7234 BBC|0.70213 voice|0.68085 project|0.65957 Please|0.6383 note|0.61702 that|0.59574 the|0.57447 BBC|0.55319 retains|0.53191 copyright|0.51064 on|0.48936 the|0.46809 full|0.44681 programmes|0.42553 and|0.40426 only|0.38298 excerpts|0.3617 which|0.34043 the|0.31915 BBC|0.29787 have|0.2766 explicitly|0.25532 released|0.23404 under|0.21277 an|0.19149 open|0.17021 licence|0.14894 may|0.12766 be|0.10638 uploaded|0.085106 to|0.06383 Wikimedia|0.042553 Commons|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

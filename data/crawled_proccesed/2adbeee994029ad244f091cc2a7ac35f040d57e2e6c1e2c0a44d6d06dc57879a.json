@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2adbeee994029ad244f091cc2a7ac35f040d57e2e6c1e2c0a44d6d06dc57879a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Mt_Leinster.jpg/220px-Mt_Leinster.jpg",
+			"previous": " ",
+			"after": " Largely low lying fertile land is the characteristic landscape of the county The highest point in the county is Mount Leinster 795 m 23 2610 ft in the Blackstairs Mountains in the north west on the boundary with County Carlow ",
+			"after_weights": " Largely|1 low|0.975 lying|0.95 fertile|0.925 land|0.9 is|0.875 the|0.85 characteristic|0.825 landscape|0.8 of|0.775 the|0.75 county|0.725 The|0.7 highest|0.675 point|0.65 in|0.625 the|0.6 county|0.575 is|0.55 Mount|0.525 Leinster|0.5 795|0.475 m|0.45 23|0.425 2610|0.4 ft|0.375 in|0.35 the|0.325 Blackstairs|0.3 Mountains|0.275 in|0.25 the|0.225 north|0.2 west|0.175 on|0.15 the|0.125 boundary|0.1 with|0.075 County|0.05 Carlow|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

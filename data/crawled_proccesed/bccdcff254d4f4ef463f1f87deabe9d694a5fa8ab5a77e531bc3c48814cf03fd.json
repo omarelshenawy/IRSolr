@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bccdcff254d4f4ef463f1f87deabe9d694a5fa8ab5a77e531bc3c48814cf03fd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Isadora_Duncan_%28grayscale%29.jpg/150px-Isadora_Duncan_%28grayscale%29.jpg",
+			"previous": " The 19th century was a period of growth for the performing arts for all social classes technical advances such as the introduction of gaslight to theatres burlesque minstrel dancing and variety theatre In ballet women make great progress in the previously male dominated art ",
+			"after": " Modern dance began in the late 19th century and early 20th century in response to the restrictions of traditional ballet ",
+			"after_weights": " Modern|1 dance|0.95 began|0.9 in|0.85 the|0.8 late|0.75 19th|0.7 century|0.65 and|0.6 early|0.55 20th|0.5 century|0.45 in|0.4 response|0.35 to|0.3 the|0.25 restrictions|0.2 of|0.15 traditional|0.1 ballet|0.05 |0",
+			"previous_weights": " The|0 19th|0.022727 century|0.045455 was|0.068182 a|0.090909 period|0.11364 of|0.13636 growth|0.15909 for|0.18182 the|0.20455 performing|0.22727 arts|0.25 for|0.27273 all|0.29545 social|0.31818 classes|0.34091 technical|0.36364 advances|0.38636 such|0.40909 as|0.43182 the|0.45455 introduction|0.47727 of|0.5 gaslight|0.52273 to|0.54545 theatres|0.56818 burlesque|0.59091 minstrel|0.61364 dancing|0.63636 and|0.65909 variety|0.68182 theatre|0.70455 In|0.72727 ballet|0.75 women|0.77273 make|0.79545 great|0.81818 progress|0.84091 in|0.86364 the|0.88636 previously|0.90909 male|0.93182 dominated|0.95455 art|0.97727 |1"
+		}
+	}
+}

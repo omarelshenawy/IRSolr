@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "15a07ee837768420e8b235984bdc81edadc3176676d21468f48f2e99778d012e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikipedia_Rollbacker.svg/150px-Wikipedia_Rollbacker.svg.png",
+			"previous": " ",
+			"after": " Rollback is a feature of the MediaWiki software that runs Wikipedia It allows the last user s consecutive edits on a given page to be undone with a single mouse click On Wikipedia rollback is used to undo problematic edits such as vandalism ",
+			"after_weights": " Rollback|1 is|0.97674 a|0.95349 feature|0.93023 of|0.90698 the|0.88372 MediaWiki|0.86047 software|0.83721 that|0.81395 runs|0.7907 Wikipedia|0.76744 It|0.74419 allows|0.72093 the|0.69767 last|0.67442 user|0.65116 s|0.62791 consecutive|0.60465 edits|0.5814 on|0.55814 a|0.53488 given|0.51163 page|0.48837 to|0.46512 be|0.44186 undone|0.4186 with|0.39535 a|0.37209 single|0.34884 mouse|0.32558 click|0.30233 On|0.27907 Wikipedia|0.25581 rollback|0.23256 is|0.2093 used|0.18605 to|0.16279 undo|0.13953 problematic|0.11628 edits|0.093023 such|0.069767 as|0.046512 vandalism|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

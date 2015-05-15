@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "71efde2944c68947b06c489bdeac6b64ba3a2942d95aa9e62af8c60c572ff781",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Economic_template.svg/80px-Economic_template.svg.png",
+			"previous": " ",
+			"after": " Copyright is a legal right created by the law of a country that grants the creator of an original work exclusive rights to its use and distribution usually for a limited time The exclusive rights are not absolute they are limited by limitations and exceptions to copyright law including fair use ",
+			"after_weights": " Copyright|1 is|0.98039 a|0.96078 legal|0.94118 right|0.92157 created|0.90196 by|0.88235 the|0.86275 law|0.84314 of|0.82353 a|0.80392 country|0.78431 that|0.76471 grants|0.7451 the|0.72549 creator|0.70588 of|0.68627 an|0.66667 original|0.64706 work|0.62745 exclusive|0.60784 rights|0.58824 to|0.56863 its|0.54902 use|0.52941 and|0.5098 distribution|0.4902 usually|0.47059 for|0.45098 a|0.43137 limited|0.41176 time|0.39216 The|0.37255 exclusive|0.35294 rights|0.33333 are|0.31373 not|0.29412 absolute|0.27451 they|0.2549 are|0.23529 limited|0.21569 by|0.19608 limitations|0.17647 and|0.15686 exceptions|0.13725 to|0.11765 copyright|0.098039 law|0.078431 including|0.058824 fair|0.039216 use|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

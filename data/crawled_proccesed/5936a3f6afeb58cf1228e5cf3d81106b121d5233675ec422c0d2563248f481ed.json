@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5936a3f6afeb58cf1228e5cf3d81106b121d5233675ec422c0d2563248f481ed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/1271754717_william-e.-gladstone.jpg/170px-1271754717_william-e.-gladstone.jpg",
+			"previous": " ",
+			"after": " 26 British prime ministers have attended Oxford including William Gladstone Herbert Asquith Clement Attlee Harold Macmillan Edward Heath Harold Wilson Margaret Thatcher Tony Blair 14 and most recently David Cameron 106 Of all the post war Prime Ministers only one was educated at a university other than Oxford 107 ",
+			"after_weights": " 26|1 British|0.97959 prime|0.95918 ministers|0.93878 have|0.91837 attended|0.89796 Oxford|0.87755 including|0.85714 William|0.83673 Gladstone|0.81633 Herbert|0.79592 Asquith|0.77551 Clement|0.7551 Attlee|0.73469 Harold|0.71429 Macmillan|0.69388 Edward|0.67347 Heath|0.65306 Harold|0.63265 Wilson|0.61224 Margaret|0.59184 Thatcher|0.57143 Tony|0.55102 Blair|0.53061 14|0.5102 and|0.4898 most|0.46939 recently|0.44898 David|0.42857 Cameron|0.40816 106|0.38776 Of|0.36735 all|0.34694 the|0.32653 post|0.30612 war|0.28571 Prime|0.26531 Ministers|0.2449 only|0.22449 one|0.20408 was|0.18367 educated|0.16327 at|0.14286 a|0.12245 university|0.10204 other|0.081633 than|0.061224 Oxford|0.040816 107|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

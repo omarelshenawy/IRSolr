@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "dd159bd9142b9455e4fbf39886984383b5d7edf3ead6a8e4c49edc97129d92da",
+			"url": "https://upload.wikimedia.org/math/f/d/a/fdad94e42e7ae515ea88b13a20bd54ce.png",
+			"previous": " It also has the property that The standard logistic function k 1 x0 0 L 1 has an easily calculated derivative ",
+			"after": " The logistic function is the solution of the simple first order non linear differential equation with boundary condition f 0 1 2 This equation is the continuous version of the logistic map ",
+			"after_weights": " The|1 logistic|0.96875 function|0.9375 is|0.90625 the|0.875 solution|0.84375 of|0.8125 the|0.78125 simple|0.75 first|0.71875 order|0.6875 non|0.65625 linear|0.625 differential|0.59375 equation|0.5625 with|0.53125 boundary|0.5 condition|0.46875 f|0.4375 0|0.40625 1|0.375 2|0.34375 This|0.3125 equation|0.28125 is|0.25 the|0.21875 continuous|0.1875 version|0.15625 of|0.125 the|0.09375 logistic|0.0625 map|0.03125 |0",
+			"previous_weights": " It|0 also|0.047619 has|0.095238 the|0.14286 property|0.19048 that|0.2381 The|0.28571 standard|0.33333 logistic|0.38095 function|0.42857 k|0.47619 1|0.52381 x0|0.57143 0|0.61905 L|0.66667 1|0.71429 has|0.7619 an|0.80952 easily|0.85714 calculated|0.90476 derivative|0.95238 |1"
+		}
+	}
+}

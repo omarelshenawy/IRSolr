@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "aedcd4410773f89d395e1a972d53f47a48075fb9c34c36c2ace9be96662a2b93",
+			"url": "https://upload.wikimedia.org/math/7/4/6/7467a68c1c33737350488a8a6a3d0da5.png",
+			"previous": " One may readily find the symbolic solution to be The qualitative behavior is easily understood in terms of the phase line the derivative is null when function is unit and the derivative is positive for f between 0 and 1 and negative for f above 1 or less than 0 though negative populations do not generally accord with a physical model This yields an unstable equilibrium at 0 and a stable equilibrium at 1 and thus for any function value greater than zero and less than unit it grows to unit ",
+			"after": " Choosing the constant of integration ex0 1 gives the other well known form of the definition of the logistic curve",
+			"after_weights": " Choosing|1 the|0.94737 constant|0.89474 of|0.84211 integration|0.78947 ex0|0.73684 1|0.68421 gives|0.63158 the|0.57895 other|0.52632 well|0.47368 known|0.42105 form|0.36842 of|0.31579 the|0.26316 definition|0.21053 of|0.15789 the|0.10526 logistic|0.052632 curve|0",
+			"previous_weights": " One|0 may|0.010989 readily|0.021978 find|0.032967 the|0.043956 symbolic|0.054945 solution|0.065934 to|0.076923 be|0.087912 The|0.098901 qualitative|0.10989 behavior|0.12088 is|0.13187 easily|0.14286 understood|0.15385 in|0.16484 terms|0.17582 of|0.18681 the|0.1978 phase|0.20879 line|0.21978 the|0.23077 derivative|0.24176 is|0.25275 null|0.26374 when|0.27473 function|0.28571 is|0.2967 unit|0.30769 and|0.31868 the|0.32967 derivative|0.34066 is|0.35165 positive|0.36264 for|0.37363 f|0.38462 between|0.3956 0|0.40659 and|0.41758 1|0.42857 and|0.43956 negative|0.45055 for|0.46154 f|0.47253 above|0.48352 1|0.49451 or|0.50549 less|0.51648 than|0.52747 0|0.53846 though|0.54945 negative|0.56044 populations|0.57143 do|0.58242 not|0.59341 generally|0.6044 accord|0.61538 with|0.62637 a|0.63736 physical|0.64835 model|0.65934 This|0.67033 yields|0.68132 an|0.69231 unstable|0.7033 equilibrium|0.71429 at|0.72527 0|0.73626 and|0.74725 a|0.75824 stable|0.76923 equilibrium|0.78022 at|0.79121 1|0.8022 and|0.81319 thus|0.82418 for|0.83516 any|0.84615 function|0.85714 value|0.86813 greater|0.87912 than|0.89011 zero|0.9011 and|0.91209 less|0.92308 than|0.93407 unit|0.94505 it|0.95604 grows|0.96703 to|0.97802 unit|0.98901 |1"
+		}
+	}
+}

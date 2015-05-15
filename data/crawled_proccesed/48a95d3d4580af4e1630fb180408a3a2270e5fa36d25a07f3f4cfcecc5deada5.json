@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "48a95d3d4580af4e1630fb180408a3a2270e5fa36d25a07f3f4cfcecc5deada5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Jolla_smartphones.jpg/150px-Jolla_smartphones.jpg",
+			"previous": " Canonical has released Ubuntu Touch its own mobile operating system that aims to bring convergence to the user experience on the operating system and its desktop counterpart Ubuntu The operating system also provides a full Ubuntu desktop when connected to an external monitor 97 ",
+			"after": " Due to its low cost and ease of customization Linux is often used in embedded systems In the non mobile telecommunications equipment sector the majority of customer premises equipment CPE hardware runs some Linux based operating system OpenWrt is a community driven example upon which many of the OEM firmwares are based ",
+			"after_weights": " Due|1 to|0.98077 its|0.96154 low|0.94231 cost|0.92308 and|0.90385 ease|0.88462 of|0.86538 customization|0.84615 Linux|0.82692 is|0.80769 often|0.78846 used|0.76923 in|0.75 embedded|0.73077 systems|0.71154 In|0.69231 the|0.67308 non|0.65385 mobile|0.63462 telecommunications|0.61538 equipment|0.59615 sector|0.57692 the|0.55769 majority|0.53846 of|0.51923 customer|0.5 premises|0.48077 equipment|0.46154 CPE|0.44231 hardware|0.42308 runs|0.40385 some|0.38462 Linux|0.36538 based|0.34615 operating|0.32692 system|0.30769 OpenWrt|0.28846 is|0.26923 a|0.25 community|0.23077 driven|0.21154 example|0.19231 upon|0.17308 which|0.15385 many|0.13462 of|0.11538 the|0.096154 OEM|0.076923 firmwares|0.057692 are|0.038462 based|0.019231 |0",
+			"previous_weights": " Canonical|0 has|0.022727 released|0.045455 Ubuntu|0.068182 Touch|0.090909 its|0.11364 own|0.13636 mobile|0.15909 operating|0.18182 system|0.20455 that|0.22727 aims|0.25 to|0.27273 bring|0.29545 convergence|0.31818 to|0.34091 the|0.36364 user|0.38636 experience|0.40909 on|0.43182 the|0.45455 operating|0.47727 system|0.5 and|0.52273 its|0.54545 desktop|0.56818 counterpart|0.59091 Ubuntu|0.61364 The|0.63636 operating|0.65909 system|0.68182 also|0.70455 provides|0.72727 a|0.75 full|0.77273 Ubuntu|0.79545 desktop|0.81818 when|0.84091 connected|0.86364 to|0.88636 an|0.90909 external|0.93182 monitor|0.95455 97|0.97727 |1"
+		}
+	}
+}

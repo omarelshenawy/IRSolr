@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "84cb8a8fa87366b391ff1a239a0e91a988811ea2779f338efdab9867169dc5b5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/GoldeneLP.jpg/220px-GoldeneLP.jpg",
+			"previous": " ",
+			"after": " Music recording sales certification is a system of certifying that a music recording has shipped or sold a certain number of copies The threshold quantity varies by type such as album single music video and by nation or territory see List of music recording certifications ",
+			"after_weights": " Music|1 recording|0.97778 sales|0.95556 certification|0.93333 is|0.91111 a|0.88889 system|0.86667 of|0.84444 certifying|0.82222 that|0.8 a|0.77778 music|0.75556 recording|0.73333 has|0.71111 shipped|0.68889 or|0.66667 sold|0.64444 a|0.62222 certain|0.6 number|0.57778 of|0.55556 copies|0.53333 The|0.51111 threshold|0.48889 quantity|0.46667 varies|0.44444 by|0.42222 type|0.4 such|0.37778 as|0.35556 album|0.33333 single|0.31111 music|0.28889 video|0.26667 and|0.24444 by|0.22222 nation|0.2 or|0.17778 territory|0.15556 see|0.13333 List|0.11111 of|0.088889 music|0.066667 recording|0.044444 certifications|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fb5f4a712eb6b9a2a9cc9574e5aa569465fd453478f6d3bd26cb56ef421e791",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Goya_Maja_naga2.jpg/100px-Goya_Maja_naga2.jpg",
+			"previous": " Portal Arts Selected anniversaries March Portal Arts Selected anniversaries February Portal Arts Selected anniversaries January",
+			"after": " Portal Arts Selected anniversaries April Portal Arts Selected anniversaries May",
+			"after_weights": " Portal|1 Arts|0.88889 Selected|0.77778 anniversaries|0.66667 April|0.55556 Portal|0.44444 Arts|0.33333 Selected|0.22222 anniversaries|0.11111 May|0",
+			"previous_weights": " Portal|0 Arts|0.071429 Selected|0.14286 anniversaries|0.21429 March|0.28571 Portal|0.35714 Arts|0.42857 Selected|0.5 anniversaries|0.57143 February|0.64286 Portal|0.71429 Arts|0.78571 Selected|0.85714 anniversaries|0.92857 January|1"
+		}
+	}
+}

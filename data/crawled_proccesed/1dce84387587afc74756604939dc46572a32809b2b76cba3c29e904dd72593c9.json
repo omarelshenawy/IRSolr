@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dce84387587afc74756604939dc46572a32809b2b76cba3c29e904dd72593c9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Diagram_Damage_to_Cancer_Wiki_300dpi.svg/220px-Diagram_Damage_to_Cancer_Wiki_300dpi.svg.png",
+			"previous": " ",
+			"after": " Classically cancer has been viewed as a set of diseases that are driven by progressive genetic abnormalities that include mutations in tumor suppressor genes and oncogenes and chromosomal abnormalities However it has become apparent that cancer is also driven by epigenetic alterations 63 ",
+			"after_weights": " Classically|1 cancer|0.97674 has|0.95349 been|0.93023 viewed|0.90698 as|0.88372 a|0.86047 set|0.83721 of|0.81395 diseases|0.7907 that|0.76744 are|0.74419 driven|0.72093 by|0.69767 progressive|0.67442 genetic|0.65116 abnormalities|0.62791 that|0.60465 include|0.5814 mutations|0.55814 in|0.53488 tumor|0.51163 suppressor|0.48837 genes|0.46512 and|0.44186 oncogenes|0.4186 and|0.39535 chromosomal|0.37209 abnormalities|0.34884 However|0.32558 it|0.30233 has|0.27907 become|0.25581 apparent|0.23256 that|0.2093 cancer|0.18605 is|0.16279 also|0.13953 driven|0.11628 by|0.093023 epigenetic|0.069767 alterations|0.046512 63|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

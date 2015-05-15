@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "53bdf18a54435f2fe037167f2a04d0e06f597dda42450cc9dd464a1cb14e271c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MobileBroadbandInternetPenetrationWorldMap.svg/400px-MobileBroadbandInternetPenetrationWorldMap.svg.png",
+			"previous": " ",
+			"after": " Despite its tremendous growth Internet access is not distributed equally within or between countries 89 90 The digital divide refers to the gap between people with effective access to information and communications technology ICT and those with very limited or no access The gap between people with Internet access and those without is one of many aspects of the digital divide 91 Whether someone has access to the Internet can depend greatly on financial status geographical location as well as government policies Low income rural and minority populations have received special scrutiny as the technological have nots 92 ",
+			"after_weights": " Despite|1 its|0.9898 tremendous|0.97959 growth|0.96939 Internet|0.95918 access|0.94898 is|0.93878 not|0.92857 distributed|0.91837 equally|0.90816 within|0.89796 or|0.88776 between|0.87755 countries|0.86735 89|0.85714 90|0.84694 The|0.83673 digital|0.82653 divide|0.81633 refers|0.80612 to|0.79592 the|0.78571 gap|0.77551 between|0.76531 people|0.7551 with|0.7449 effective|0.73469 access|0.72449 to|0.71429 information|0.70408 and|0.69388 communications|0.68367 technology|0.67347 ICT|0.66327 and|0.65306 those|0.64286 with|0.63265 very|0.62245 limited|0.61224 or|0.60204 no|0.59184 access|0.58163 The|0.57143 gap|0.56122 between|0.55102 people|0.54082 with|0.53061 Internet|0.52041 access|0.5102 and|0.5 those|0.4898 without|0.47959 is|0.46939 one|0.45918 of|0.44898 many|0.43878 aspects|0.42857 of|0.41837 the|0.40816 digital|0.39796 divide|0.38776 91|0.37755 Whether|0.36735 someone|0.35714 has|0.34694 access|0.33673 to|0.32653 the|0.31633 Internet|0.30612 can|0.29592 depend|0.28571 greatly|0.27551 on|0.26531 financial|0.2551 status|0.2449 geographical|0.23469 location|0.22449 as|0.21429 well|0.20408 as|0.19388 government|0.18367 policies|0.17347 Low|0.16327 income|0.15306 rural|0.14286 and|0.13265 minority|0.12245 populations|0.11224 have|0.10204 received|0.091837 special|0.081633 scrutiny|0.071429 as|0.061224 the|0.05102 technological|0.040816 have|0.030612 nots|0.020408 92|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

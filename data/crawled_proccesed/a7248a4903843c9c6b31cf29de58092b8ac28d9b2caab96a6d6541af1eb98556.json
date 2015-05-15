@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a7248a4903843c9c6b31cf29de58092b8ac28d9b2caab96a6d6541af1eb98556",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Political_System_of_the_United_States.svg/350px-Political_System_of_the_United_States.svg.png",
+			"previous": " In the American federalist system citizens are usually subject to three levels of government federal state and local The local government s duties are commonly split between county and municipal governments In almost all cases executive and legislative officials are elected by a plurality vote of citizens by district There is no proportional representation at the federal level and it is very rare at lower levels 255 ",
+			"after": " The federal government is composed of three branches ",
+			"after_weights": " The|1 federal|0.875 government|0.75 is|0.625 composed|0.5 of|0.375 three|0.25 branches|0.125 |0",
+			"previous_weights": " In|0 the|0.014925 American|0.029851 federalist|0.044776 system|0.059701 citizens|0.074627 are|0.089552 usually|0.10448 subject|0.1194 to|0.13433 three|0.14925 levels|0.16418 of|0.1791 government|0.19403 federal|0.20896 state|0.22388 and|0.23881 local|0.25373 The|0.26866 local|0.28358 government|0.29851 s|0.31343 duties|0.32836 are|0.34328 commonly|0.35821 split|0.37313 between|0.38806 county|0.40299 and|0.41791 municipal|0.43284 governments|0.44776 In|0.46269 almost|0.47761 all|0.49254 cases|0.50746 executive|0.52239 and|0.53731 legislative|0.55224 officials|0.56716 are|0.58209 elected|0.59701 by|0.61194 a|0.62687 plurality|0.64179 vote|0.65672 of|0.67164 citizens|0.68657 by|0.70149 district|0.71642 There|0.73134 is|0.74627 no|0.76119 proportional|0.77612 representation|0.79104 at|0.80597 the|0.8209 federal|0.83582 level|0.85075 and|0.86567 it|0.8806 is|0.89552 very|0.91045 rare|0.92537 at|0.9403 lower|0.95522 levels|0.97015 255|0.98507 |1"
+		}
+	}
+}

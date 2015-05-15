@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5f3879b48a0a7d289b8e89e4c650f2b14eb15a6985c045b312603dcd84ff9038",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Stu_in_2008.jpg/220px-Stu_in_2008.jpg",
+			"previous": " ",
+			"after": " Hi my name is Stu West I ve been an editor on the English Wikipedia since 2003 and logged in since 2007 My edits reflect habits from university when I studied history and edited an international affairs magazine I m zealous about sources and strive for consistent precise prose I live with my wife and daughters in the San Francisco Bay Area where I am an inconsistent guitar student ",
+			"after_weights": " Hi|1 my|0.98551 name|0.97101 is|0.95652 Stu|0.94203 West|0.92754 I|0.91304 ve|0.89855 been|0.88406 an|0.86957 editor|0.85507 on|0.84058 the|0.82609 English|0.81159 Wikipedia|0.7971 since|0.78261 2003|0.76812 and|0.75362 logged|0.73913 in|0.72464 since|0.71014 2007|0.69565 My|0.68116 edits|0.66667 reflect|0.65217 habits|0.63768 from|0.62319 university|0.6087 when|0.5942 I|0.57971 studied|0.56522 history|0.55072 and|0.53623 edited|0.52174 an|0.50725 international|0.49275 affairs|0.47826 magazine|0.46377 I|0.44928 m|0.43478 zealous|0.42029 about|0.4058 sources|0.3913 and|0.37681 strive|0.36232 for|0.34783 consistent|0.33333 precise|0.31884 prose|0.30435 I|0.28986 live|0.27536 with|0.26087 my|0.24638 wife|0.23188 and|0.21739 daughters|0.2029 in|0.18841 the|0.17391 San|0.15942 Francisco|0.14493 Bay|0.13043 Area|0.11594 where|0.10145 I|0.086957 am|0.072464 an|0.057971 inconsistent|0.043478 guitar|0.028986 student|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

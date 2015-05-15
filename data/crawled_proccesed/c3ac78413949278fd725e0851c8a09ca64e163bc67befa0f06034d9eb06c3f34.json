@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c3ac78413949278fd725e0851c8a09ca64e163bc67befa0f06034d9eb06c3f34",
+			"url": "https://upload.wikimedia.org/math/6/f/e/6fe1413d25503e18655dedc5e4f7f266.png",
+			"previous": " For example for an ISBN 10 of 0 306 40615 2  The 2001 edition of the official manual of the International ISBN Agency says that the ISBN 10 check digit 26 which is the last digit of the ten digit ISBN must range from 0 to 10 the symbol X is used for 10 and must be such that the sum of all the ten digits each multiplied by its integer weight descending from 10 to 1 is a multiple of 11 ",
+			"after": " Formally using modular arithmetic we can say ",
+			"after_weights": " Formally|1 using|0.85714 modular|0.71429 arithmetic|0.57143 we|0.42857 can|0.28571 say|0.14286 |0",
+			"previous_weights": " For|0 example|0.012048 for|0.024096 an|0.036145 ISBN|0.048193 10|0.060241 of|0.072289 0|0.084337 306|0.096386 40615|0.10843 2|0.12048 |0.13253 The|0.14458 2001|0.15663 edition|0.16867 of|0.18072 the|0.19277 official|0.20482 manual|0.21687 of|0.22892 the|0.24096 International|0.25301 ISBN|0.26506 Agency|0.27711 says|0.28916 that|0.3012 the|0.31325 ISBN|0.3253 10|0.33735 check|0.3494 digit|0.36145 26|0.37349 which|0.38554 is|0.39759 the|0.40964 last|0.42169 digit|0.43373 of|0.44578 the|0.45783 ten|0.46988 digit|0.48193 ISBN|0.49398 must|0.50602 range|0.51807 from|0.53012 0|0.54217 to|0.55422 10|0.56627 the|0.57831 symbol|0.59036 X|0.60241 is|0.61446 used|0.62651 for|0.63855 10|0.6506 and|0.66265 must|0.6747 be|0.68675 such|0.6988 that|0.71084 the|0.72289 sum|0.73494 of|0.74699 all|0.75904 the|0.77108 ten|0.78313 digits|0.79518 each|0.80723 multiplied|0.81928 by|0.83133 its|0.84337 integer|0.85542 weight|0.86747 descending|0.87952 from|0.89157 10|0.90361 to|0.91566 1|0.92771 is|0.93976 a|0.95181 multiple|0.96386 of|0.9759 11|0.98795 |1"
+		}
+	}
+}

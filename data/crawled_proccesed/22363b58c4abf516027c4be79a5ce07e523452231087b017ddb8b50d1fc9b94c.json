@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "22363b58c4abf516027c4be79a5ce07e523452231087b017ddb8b50d1fc9b94c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Solomon_Isles.jpg/300px-Solomon_Isles.jpg",
+			"previous": " ",
+			"after": " Solomon Islands is an island nation that lies east of Papua New Guinea and consists of many islands Choiseul the Shortland Islands the New Georgia Islands Santa Isabel the Russell Islands Nggela the Florida Islands Malaita Guadalcanal Sikaiana Maramasike Ulawa Uki Makira San Cristobal Santa Ana Rennell and Bellona the Santa Cruz Islands and three remote tiny outliers Tikopia Anuta and Fatutaka ",
+			"after_weights": " Solomon|1 Islands|0.98387 is|0.96774 an|0.95161 island|0.93548 nation|0.91935 that|0.90323 lies|0.8871 east|0.87097 of|0.85484 Papua|0.83871 New|0.82258 Guinea|0.80645 and|0.79032 consists|0.77419 of|0.75806 many|0.74194 islands|0.72581 Choiseul|0.70968 the|0.69355 Shortland|0.67742 Islands|0.66129 the|0.64516 New|0.62903 Georgia|0.6129 Islands|0.59677 Santa|0.58065 Isabel|0.56452 the|0.54839 Russell|0.53226 Islands|0.51613 Nggela|0.5 the|0.48387 Florida|0.46774 Islands|0.45161 Malaita|0.43548 Guadalcanal|0.41935 Sikaiana|0.40323 Maramasike|0.3871 Ulawa|0.37097 Uki|0.35484 Makira|0.33871 San|0.32258 Cristobal|0.30645 Santa|0.29032 Ana|0.27419 Rennell|0.25806 and|0.24194 Bellona|0.22581 the|0.20968 Santa|0.19355 Cruz|0.17742 Islands|0.16129 and|0.14516 three|0.12903 remote|0.1129 tiny|0.096774 outliers|0.080645 Tikopia|0.064516 Anuta|0.048387 and|0.032258 Fatutaka|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

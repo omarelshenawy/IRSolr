@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e434594a062f994bb3931599b262cdfa1b485a270f11b8778b928bf642501bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Topographic_map_of_Liberia-en.svg/650px-Topographic_map_of_Liberia-en.svg.png",
+			"previous": " ",
+			"after": " Liberia is situated in West Africa bordering the North Atlantic Ocean to the country s southwest It lies between latitudes 4 and 9 N and longitudes 7 and 12 W  The landscape is characterized by mostly flat to rolling coastal plains that contain mangroves and swamps which rise to a rolling plateau and low mountains in the northeast 39 ",
+			"after_weights": " Liberia|1 is|0.98333 situated|0.96667 in|0.95 West|0.93333 Africa|0.91667 bordering|0.9 the|0.88333 North|0.86667 Atlantic|0.85 Ocean|0.83333 to|0.81667 the|0.8 country|0.78333 s|0.76667 southwest|0.75 It|0.73333 lies|0.71667 between|0.7 latitudes|0.68333 4|0.66667 and|0.65 9|0.63333 N|0.61667 and|0.6 longitudes|0.58333 7|0.56667 and|0.55 12|0.53333 W|0.51667 |0.5 The|0.48333 landscape|0.46667 is|0.45 characterized|0.43333 by|0.41667 mostly|0.4 flat|0.38333 to|0.36667 rolling|0.35 coastal|0.33333 plains|0.31667 that|0.3 contain|0.28333 mangroves|0.26667 and|0.25 swamps|0.23333 which|0.21667 rise|0.2 to|0.18333 a|0.16667 rolling|0.15 plateau|0.13333 and|0.11667 low|0.1 mountains|0.083333 in|0.066667 the|0.05 northeast|0.033333 39|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

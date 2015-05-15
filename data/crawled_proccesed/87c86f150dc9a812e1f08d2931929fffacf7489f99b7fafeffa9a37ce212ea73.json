@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "87c86f150dc9a812e1f08d2931929fffacf7489f99b7fafeffa9a37ce212ea73",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Oceanic_languages.svg/240px-Oceanic_languages.svg.png",
+			"previous": " ",
+			"after": " Native languages of Oceania fall into three major geographic groups  Contact between Austronesian and Papuan resulted in several instances in mixed languages such as Maisin  Colonial languages include English in Australia New Zealand Hawaii and many other territories French in New Caledonia and French Polynesia Japanese in the Bonin Islands Spanish on Easter Island ",
+			"after_weights": " Native|1 languages|0.98214 of|0.96429 Oceania|0.94643 fall|0.92857 into|0.91071 three|0.89286 major|0.875 geographic|0.85714 groups|0.83929 |0.82143 Contact|0.80357 between|0.78571 Austronesian|0.76786 and|0.75 Papuan|0.73214 resulted|0.71429 in|0.69643 several|0.67857 instances|0.66071 in|0.64286 mixed|0.625 languages|0.60714 such|0.58929 as|0.57143 Maisin|0.55357 |0.53571 Colonial|0.51786 languages|0.5 include|0.48214 English|0.46429 in|0.44643 Australia|0.42857 New|0.41071 Zealand|0.39286 Hawaii|0.375 and|0.35714 many|0.33929 other|0.32143 territories|0.30357 French|0.28571 in|0.26786 New|0.25 Caledonia|0.23214 and|0.21429 French|0.19643 Polynesia|0.17857 Japanese|0.16071 in|0.14286 the|0.125 Bonin|0.10714 Islands|0.089286 Spanish|0.071429 on|0.053571 Easter|0.035714 Island|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

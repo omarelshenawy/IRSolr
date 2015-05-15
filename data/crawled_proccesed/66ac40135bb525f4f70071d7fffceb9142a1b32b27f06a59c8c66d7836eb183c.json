@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "66ac40135bb525f4f70071d7fffceb9142a1b32b27f06a59c8c66d7836eb183c",
+			"url": "https://upload.wikimedia.org/math/2/1/6/21671b816ceee7af00799848030b8859.png",
+			"previous": " Example If a species of bacteria doubles every ten minutes starting out with only one bacterium how many bacteria would be present after one hour The question implies a 1 b 2 and 10 min  If 0 and b 1 then x has exponential growth If 0 and b 1 or 0 and 0 b 1 then x has exponential decay ",
+			"after": " After one hour or six ten minute intervals there would be sixty four bacteria ",
+			"after_weights": " After|1 one|0.92857 hour|0.85714 or|0.78571 six|0.71429 ten|0.64286 minute|0.57143 intervals|0.5 there|0.42857 would|0.35714 be|0.28571 sixty|0.21429 four|0.14286 bacteria|0.071429 |0",
+			"previous_weights": " Example|0 If|0.016129 a|0.032258 species|0.048387 of|0.064516 bacteria|0.080645 doubles|0.096774 every|0.1129 ten|0.12903 minutes|0.14516 starting|0.16129 out|0.17742 with|0.19355 only|0.20968 one|0.22581 bacterium|0.24194 how|0.25806 many|0.27419 bacteria|0.29032 would|0.30645 be|0.32258 present|0.33871 after|0.35484 one|0.37097 hour|0.3871 The|0.40323 question|0.41935 implies|0.43548 a|0.45161 1|0.46774 b|0.48387 2|0.5 and|0.51613 10|0.53226 min|0.54839 |0.56452 If|0.58065 0|0.59677 and|0.6129 b|0.62903 1|0.64516 then|0.66129 x|0.67742 has|0.69355 exponential|0.70968 growth|0.72581 If|0.74194 0|0.75806 and|0.77419 b|0.79032 1|0.80645 or|0.82258 0|0.83871 and|0.85484 0|0.87097 b|0.8871 1|0.90323 then|0.91935 x|0.93548 has|0.95161 exponential|0.96774 decay|0.98387 |1"
+		}
+	}
+}

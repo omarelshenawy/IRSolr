@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "855a3ca34dd8fcc1143e069cf24073b8038c22245b0d9bb7fa6887215b528317",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/RoothOrdinary.jpg/220px-RoothOrdinary.jpg",
+			"previous": "  9 Mary only likes SUE f  Beginning with Rooth 20 21 the effects of focus on semantics can be said to be the introduction of a set of alternatives that contrasts with the ordinary semantic meaning of a sentence Consider the following example ",
+			"after": " The ordinary semantic meaning of 9 is the binary relation ",
+			"after_weights": " The|1 ordinary|0.9 semantic|0.8 meaning|0.7 of|0.6 9|0.5 is|0.4 the|0.3 binary|0.2 relation|0.1 |0",
+			"previous_weights": " |0 9|0.022222 Mary|0.044444 only|0.066667 likes|0.088889 SUE|0.11111 f|0.13333 |0.15556 Beginning|0.17778 with|0.2 Rooth|0.22222 20|0.24444 21|0.26667 the|0.28889 effects|0.31111 of|0.33333 focus|0.35556 on|0.37778 semantics|0.4 can|0.42222 be|0.44444 said|0.46667 to|0.48889 be|0.51111 the|0.53333 introduction|0.55556 of|0.57778 a|0.6 set|0.62222 of|0.64444 alternatives|0.66667 that|0.68889 contrasts|0.71111 with|0.73333 the|0.75556 ordinary|0.77778 semantic|0.8 meaning|0.82222 of|0.84444 a|0.86667 sentence|0.88889 Consider|0.91111 the|0.93333 following|0.95556 example|0.97778 |1"
+		}
+	}
+}

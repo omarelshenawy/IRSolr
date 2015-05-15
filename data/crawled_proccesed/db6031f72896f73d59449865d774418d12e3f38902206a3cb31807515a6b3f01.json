@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "db6031f72896f73d59449865d774418d12e3f38902206a3cb31807515a6b3f01",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cubieboard_HADOOP_cluster.JPG/220px-Cubieboard_HADOOP_cluster.JPG",
+			"previous": " ",
+			"after": " One of the challenges in the use of a computer cluster is the cost of administrating it which can at times be as high as the cost of administrating N independent machines if the cluster has N nodes 25 In some cases this provides an advantage to shared memory architectures with lower administration costs 25 This has also made virtual machines popular due to the ease of administration 25 ",
+			"after_weights": " One|1 of|0.98551 the|0.97101 challenges|0.95652 in|0.94203 the|0.92754 use|0.91304 of|0.89855 a|0.88406 computer|0.86957 cluster|0.85507 is|0.84058 the|0.82609 cost|0.81159 of|0.7971 administrating|0.78261 it|0.76812 which|0.75362 can|0.73913 at|0.72464 times|0.71014 be|0.69565 as|0.68116 high|0.66667 as|0.65217 the|0.63768 cost|0.62319 of|0.6087 administrating|0.5942 N|0.57971 independent|0.56522 machines|0.55072 if|0.53623 the|0.52174 cluster|0.50725 has|0.49275 N|0.47826 nodes|0.46377 25|0.44928 In|0.43478 some|0.42029 cases|0.4058 this|0.3913 provides|0.37681 an|0.36232 advantage|0.34783 to|0.33333 shared|0.31884 memory|0.30435 architectures|0.28986 with|0.27536 lower|0.26087 administration|0.24638 costs|0.23188 25|0.21739 This|0.2029 has|0.18841 also|0.17391 made|0.15942 virtual|0.14493 machines|0.13043 popular|0.11594 due|0.10145 to|0.086957 the|0.072464 ease|0.057971 of|0.043478 administration|0.028986 25|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

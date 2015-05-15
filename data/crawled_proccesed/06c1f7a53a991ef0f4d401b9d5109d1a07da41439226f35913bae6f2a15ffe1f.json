@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "06c1f7a53a991ef0f4d401b9d5109d1a07da41439226f35913bae6f2a15ffe1f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wikimedia-servers-2010-12-28.svg/700px-Wikimedia-servers-2010-12-28.svg.png",
+			"previous": " Wikipedia currently runs on dedicated clusters of Linux servers mainly Ubuntu 246 247 As of December 2009 there were 300 in Florida and 44 in Amsterdam 248 By January 22 2013 Wikipedia had migrated its primary data center to an Equinix facility in Ashburn Virginia 249 250 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Wikipedia|0 currently|0.021277 runs|0.042553 on|0.06383 dedicated|0.085106 clusters|0.10638 of|0.12766 Linux|0.14894 servers|0.17021 mainly|0.19149 Ubuntu|0.21277 246|0.23404 247|0.25532 As|0.2766 of|0.29787 December|0.31915 2009|0.34043 there|0.3617 were|0.38298 300|0.40426 in|0.42553 Florida|0.44681 and|0.46809 44|0.48936 in|0.51064 Amsterdam|0.53191 248|0.55319 By|0.57447 January|0.59574 22|0.61702 2013|0.6383 Wikipedia|0.65957 had|0.68085 migrated|0.70213 its|0.7234 primary|0.74468 data|0.76596 center|0.78723 to|0.80851 an|0.82979 Equinix|0.85106 facility|0.87234 in|0.89362 Ashburn|0.91489 Virginia|0.93617 249|0.95745 250|0.97872 |1"
+		}
+	}
+}

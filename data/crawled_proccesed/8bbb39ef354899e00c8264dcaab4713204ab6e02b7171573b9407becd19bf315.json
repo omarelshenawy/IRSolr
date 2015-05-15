@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8bbb39ef354899e00c8264dcaab4713204ab6e02b7171573b9407becd19bf315",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Internet_Key_Layers.png/400px-Internet_Key_Layers.png",
+			"previous": " ",
+			"after": " The terms Internet and World Wide Web are often used without much distinction However the two things are not the same The Internet is a global system of interconnected computer networks In contrast the World Wide Web is one of the services transferred over these networks It is a collection of text documents and other resources linked by hyperlinks and URLs usually accessed by web browsers from web servers 30 ",
+			"after_weights": " The|1 terms|0.98571 Internet|0.97143 and|0.95714 World|0.94286 Wide|0.92857 Web|0.91429 are|0.9 often|0.88571 used|0.87143 without|0.85714 much|0.84286 distinction|0.82857 However|0.81429 the|0.8 two|0.78571 things|0.77143 are|0.75714 not|0.74286 the|0.72857 same|0.71429 The|0.7 Internet|0.68571 is|0.67143 a|0.65714 global|0.64286 system|0.62857 of|0.61429 interconnected|0.6 computer|0.58571 networks|0.57143 In|0.55714 contrast|0.54286 the|0.52857 World|0.51429 Wide|0.5 Web|0.48571 is|0.47143 one|0.45714 of|0.44286 the|0.42857 services|0.41429 transferred|0.4 over|0.38571 these|0.37143 networks|0.35714 It|0.34286 is|0.32857 a|0.31429 collection|0.3 of|0.28571 text|0.27143 documents|0.25714 and|0.24286 other|0.22857 resources|0.21429 linked|0.2 by|0.18571 hyperlinks|0.17143 and|0.15714 URLs|0.14286 usually|0.12857 accessed|0.11429 by|0.1 web|0.085714 browsers|0.071429 from|0.057143 web|0.042857 servers|0.028571 30|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

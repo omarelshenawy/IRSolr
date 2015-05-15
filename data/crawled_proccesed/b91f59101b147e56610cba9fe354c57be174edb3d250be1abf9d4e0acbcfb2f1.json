@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b91f59101b147e56610cba9fe354c57be174edb3d250be1abf9d4e0acbcfb2f1",
+			"url": "https://upload.wikimedia.org/math/8/5/e/85ef9beab02a9572b0188cf25aed774a.png",
+			"previous": " The surface area of the circular disk is then The radius of each circular disk is r if x 0 and 0 if x h and varying linearly in between that is ",
+			"after": " and after extraction of the constants  Integrating gives us",
+			"after_weights": " and|1 after|0.88889 extraction|0.77778 of|0.66667 the|0.55556 constants|0.44444 |0.33333 Integrating|0.22222 gives|0.11111 us|0",
+			"previous_weights": " The|0 surface|0.03125 area|0.0625 of|0.09375 the|0.125 circular|0.15625 disk|0.1875 is|0.21875 then|0.25 The|0.28125 radius|0.3125 of|0.34375 each|0.375 circular|0.40625 disk|0.4375 is|0.46875 r|0.5 if|0.53125 x|0.5625 0|0.59375 and|0.625 0|0.65625 if|0.6875 x|0.71875 h|0.75 and|0.78125 varying|0.8125 linearly|0.84375 in|0.875 between|0.90625 that|0.9375 is|0.96875 |1"
+		}
+	}
+}

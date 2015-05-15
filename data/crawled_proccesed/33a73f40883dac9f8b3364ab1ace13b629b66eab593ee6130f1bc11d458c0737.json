@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "33a73f40883dac9f8b3364ab1ace13b629b66eab593ee6130f1bc11d458c0737",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Huntbeginsinlobby7.jpg/220px-Huntbeginsinlobby7.jpg",
+			"previous": " ",
+			"after": " MIT has over 380 recognized student activity groups 275 including a campus radio station The Tech student newspaper an annual entrepreneurship competition and weekly screenings of popular films by the Lecture Series Committee Less traditional activities include the world s largest open shelf collection of science fiction in English a model railroad club and a vibrant folk dance scene Students faculty and staff are involved in over 50 educational outreach and public service programs through the MIT Museum Edgerton Center and MIT Public Service Center 276 ",
+			"after_weights": " MIT|1 has|0.98837 over|0.97674 380|0.96512 recognized|0.95349 student|0.94186 activity|0.93023 groups|0.9186 275|0.90698 including|0.89535 a|0.88372 campus|0.87209 radio|0.86047 station|0.84884 The|0.83721 Tech|0.82558 student|0.81395 newspaper|0.80233 an|0.7907 annual|0.77907 entrepreneurship|0.76744 competition|0.75581 and|0.74419 weekly|0.73256 screenings|0.72093 of|0.7093 popular|0.69767 films|0.68605 by|0.67442 the|0.66279 Lecture|0.65116 Series|0.63953 Committee|0.62791 Less|0.61628 traditional|0.60465 activities|0.59302 include|0.5814 the|0.56977 world|0.55814 s|0.54651 largest|0.53488 open|0.52326 shelf|0.51163 collection|0.5 of|0.48837 science|0.47674 fiction|0.46512 in|0.45349 English|0.44186 a|0.43023 model|0.4186 railroad|0.40698 club|0.39535 and|0.38372 a|0.37209 vibrant|0.36047 folk|0.34884 dance|0.33721 scene|0.32558 Students|0.31395 faculty|0.30233 and|0.2907 staff|0.27907 are|0.26744 involved|0.25581 in|0.24419 over|0.23256 50|0.22093 educational|0.2093 outreach|0.19767 and|0.18605 public|0.17442 service|0.16279 programs|0.15116 through|0.13953 the|0.12791 MIT|0.11628 Museum|0.10465 Edgerton|0.093023 Center|0.081395 and|0.069767 MIT|0.05814 Public|0.046512 Service|0.034884 Center|0.023256 276|0.011628 |0",
+			"previous_weights": " "
+		}
+	}
+}

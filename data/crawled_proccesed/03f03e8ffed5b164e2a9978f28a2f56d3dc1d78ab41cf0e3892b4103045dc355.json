@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "03f03e8ffed5b164e2a9978f28a2f56d3dc1d78ab41cf0e3892b4103045dc355",
+			"url": "https://upload.wikimedia.org/wikipedia/en/timeline/d18ad23ff5064920be4839c34162c8ca.png",
+			"previous": " The following chart provides an overview of various MySQL versions and their current development statuses 99 100 101 102 103 104 105 106  Notable milestones in MySQL development include  In January 2009 prior to Oracle s acquisition of MySQL Monty Widenius started a GPL only fork MariaDB MariaDB is based on the same code base as MySQL server 5 1 and strives to maintain compatibility with Oracle provided versions 84 ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " The|0 following|0.013889 chart|0.027778 provides|0.041667 an|0.055556 overview|0.069444 of|0.083333 various|0.097222 MySQL|0.11111 versions|0.125 and|0.13889 their|0.15278 current|0.16667 development|0.18056 statuses|0.19444 99|0.20833 100|0.22222 101|0.23611 102|0.25 103|0.26389 104|0.27778 105|0.29167 106|0.30556 |0.31944 Notable|0.33333 milestones|0.34722 in|0.36111 MySQL|0.375 development|0.38889 include|0.40278 |0.41667 In|0.43056 January|0.44444 2009|0.45833 prior|0.47222 to|0.48611 Oracle|0.5 s|0.51389 acquisition|0.52778 of|0.54167 MySQL|0.55556 Monty|0.56944 Widenius|0.58333 started|0.59722 a|0.61111 GPL|0.625 only|0.63889 fork|0.65278 MariaDB|0.66667 MariaDB|0.68056 is|0.69444 based|0.70833 on|0.72222 the|0.73611 same|0.75 code|0.76389 base|0.77778 as|0.79167 MySQL|0.80556 server|0.81944 5|0.83333 1|0.84722 and|0.86111 strives|0.875 to|0.88889 maintain|0.90278 compatibility|0.91667 with|0.93056 Oracle|0.94444 provided|0.95833 versions|0.97222 84|0.98611 |1"
+		}
+	}
+}

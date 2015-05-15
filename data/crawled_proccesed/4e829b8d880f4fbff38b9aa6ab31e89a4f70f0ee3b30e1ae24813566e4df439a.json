@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e829b8d880f4fbff38b9aa6ab31e89a4f70f0ee3b30e1ae24813566e4df439a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aldford.jpg/300px-Aldford.jpg",
+			"previous": " Aldford is a village and civil parish in the county of Cheshire England south of Chester grid reference SJ420592 It has a population of 213 1 ",
+			"after": " The village lies on the east bank of the River Dee The Aldford Brook joins the Dee just north of the village ",
+			"after_weights": " The|1 village|0.95455 lies|0.90909 on|0.86364 the|0.81818 east|0.77273 bank|0.72727 of|0.68182 the|0.63636 River|0.59091 Dee|0.54545 The|0.5 Aldford|0.45455 Brook|0.40909 joins|0.36364 the|0.31818 Dee|0.27273 just|0.22727 north|0.18182 of|0.13636 the|0.090909 village|0.045455 |0",
+			"previous_weights": " Aldford|0 is|0.038462 a|0.076923 village|0.11538 and|0.15385 civil|0.19231 parish|0.23077 in|0.26923 the|0.30769 county|0.34615 of|0.38462 Cheshire|0.42308 England|0.46154 south|0.5 of|0.53846 Chester|0.57692 grid|0.61538 reference|0.65385 SJ420592|0.69231 It|0.73077 has|0.76923 a|0.80769 population|0.84615 of|0.88462 213|0.92308 1|0.96154 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "cac52347d2a44c8c1c077d0b99c6d5c9b29407591c1dc5c8b68ca6fcb20fd288",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nile_River_and_delta_from_orbit.jpg/450px-Nile_River_and_delta_from_orbit.jpg",
+			"previous": " Portal Geography Featured picture 16",
+			"after": " The Nile Delta is the delta formed in Northern Egypt where the Nile River spreads out and drains into the Mediterranean Sea It is one of the world s largest river deltas from Alexandria in the west to Port Said in the east it covers 240 km of Mediterranean coastline and is a rich agricultural region From north to south the delta is approximately 160 km in length The Delta begins slightly down river from Cairo ",
+			"after_weights": " The|1 Nile|0.98684 Delta|0.97368 is|0.96053 the|0.94737 delta|0.93421 formed|0.92105 in|0.90789 Northern|0.89474 Egypt|0.88158 where|0.86842 the|0.85526 Nile|0.84211 River|0.82895 spreads|0.81579 out|0.80263 and|0.78947 drains|0.77632 into|0.76316 the|0.75 Mediterranean|0.73684 Sea|0.72368 It|0.71053 is|0.69737 one|0.68421 of|0.67105 the|0.65789 world|0.64474 s|0.63158 largest|0.61842 river|0.60526 deltas|0.59211 from|0.57895 Alexandria|0.56579 in|0.55263 the|0.53947 west|0.52632 to|0.51316 Port|0.5 Said|0.48684 in|0.47368 the|0.46053 east|0.44737 it|0.43421 covers|0.42105 240|0.40789 km|0.39474 of|0.38158 Mediterranean|0.36842 coastline|0.35526 and|0.34211 is|0.32895 a|0.31579 rich|0.30263 agricultural|0.28947 region|0.27632 From|0.26316 north|0.25 to|0.23684 south|0.22368 the|0.21053 delta|0.19737 is|0.18421 approximately|0.17105 160|0.15789 km|0.14474 in|0.13158 length|0.11842 The|0.10526 Delta|0.092105 begins|0.078947 slightly|0.065789 down|0.052632 river|0.039474 from|0.026316 Cairo|0.013158 |0",
+			"previous_weights": " Portal|0 Geography|0.25 Featured|0.5 picture|0.75 16|1"
+		}
+	}
+}

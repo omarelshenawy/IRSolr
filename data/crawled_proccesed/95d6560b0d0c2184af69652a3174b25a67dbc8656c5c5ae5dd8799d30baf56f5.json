@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "95d6560b0d0c2184af69652a3174b25a67dbc8656c5c5ae5dd8799d30baf56f5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tim_Starling_June08.jpg/220px-Tim_Starling_June08.jpg",
+			"previous": " ",
+			"after": " Among the most popular extensions is a parser function extension ParserFunctions that allows different content to be rendered based on the result of conditional statements 98 These conditional statements can perform functions such as evaluating whether a parameter is empty comparing strings evaluating mathematical expressions and returning one of two values depending on whether a page exists It was designed as a replacement for a notoriously inefficient template called Qif 99 Schindler recounts the history of the ParserFunctions extension as follows 25 ",
+			"after_weights": " Among|1 the|0.9878 most|0.97561 popular|0.96341 extensions|0.95122 is|0.93902 a|0.92683 parser|0.91463 function|0.90244 extension|0.89024 ParserFunctions|0.87805 that|0.86585 allows|0.85366 different|0.84146 content|0.82927 to|0.81707 be|0.80488 rendered|0.79268 based|0.78049 on|0.76829 the|0.7561 result|0.7439 of|0.73171 conditional|0.71951 statements|0.70732 98|0.69512 These|0.68293 conditional|0.67073 statements|0.65854 can|0.64634 perform|0.63415 functions|0.62195 such|0.60976 as|0.59756 evaluating|0.58537 whether|0.57317 a|0.56098 parameter|0.54878 is|0.53659 empty|0.52439 comparing|0.5122 strings|0.5 evaluating|0.4878 mathematical|0.47561 expressions|0.46341 and|0.45122 returning|0.43902 one|0.42683 of|0.41463 two|0.40244 values|0.39024 depending|0.37805 on|0.36585 whether|0.35366 a|0.34146 page|0.32927 exists|0.31707 It|0.30488 was|0.29268 designed|0.28049 as|0.26829 a|0.2561 replacement|0.2439 for|0.23171 a|0.21951 notoriously|0.20732 inefficient|0.19512 template|0.18293 called|0.17073 Qif|0.15854 99|0.14634 Schindler|0.13415 recounts|0.12195 the|0.10976 history|0.097561 of|0.085366 the|0.073171 ParserFunctions|0.060976 extension|0.04878 as|0.036585 follows|0.02439 25|0.012195 |0",
+			"previous_weights": " "
+		}
+	}
+}

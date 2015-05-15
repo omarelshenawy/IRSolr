@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a17abae011b01f90c6c9f21d6a31060b3c55b77b636da709ae764bf6513e5874",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Millais_Ruskin.jpg/220px-Millais_Ruskin.jpg",
+			"previous": " ",
+			"after": " John Everett Millais William Holman Hunt and Dante Gabriel Rossetti had established the Pre Raphaelite Brotherhood in 1848 The Pre Raphaelite commitment to naturalism paint ing from nature only 42 depicting nature in fine detail had been influenced by Ruskin ",
+			"after_weights": " John|1 Everett|0.975 Millais|0.95 William|0.925 Holman|0.9 Hunt|0.875 and|0.85 Dante|0.825 Gabriel|0.8 Rossetti|0.775 had|0.75 established|0.725 the|0.7 Pre|0.675 Raphaelite|0.65 Brotherhood|0.625 in|0.6 1848|0.575 The|0.55 Pre|0.525 Raphaelite|0.5 commitment|0.475 to|0.45 naturalism|0.425 paint|0.4 ing|0.375 from|0.35 nature|0.325 only|0.3 42|0.275 depicting|0.25 nature|0.225 in|0.2 fine|0.175 detail|0.15 had|0.125 been|0.1 influenced|0.075 by|0.05 Ruskin|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

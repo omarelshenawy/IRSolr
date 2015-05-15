@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "14a9c9cbb6a0a900fa5245eb6b37ed78cb6d81755fd411d5cce25ae5641616fb",
+			"url": "https://upload.wikimedia.org/math/5/e/c/5ec452425bbe4f4269bb96944eb8654f.png",
+			"previous": " For example the check digit for an ISBN 10 of 0 306 40615 is calculated as follows ",
+			"after": " Thus the check digit is 2 and the complete sequence is ISBN 0 306 40615 2 The value required to satisfy this condition might be 10 if so an X should be used ",
+			"after_weights": " Thus|1 the|0.9697 check|0.93939 digit|0.90909 is|0.87879 2|0.84848 and|0.81818 the|0.78788 complete|0.75758 sequence|0.72727 is|0.69697 ISBN|0.66667 0|0.63636 306|0.60606 40615|0.57576 2|0.54545 The|0.51515 value|0.48485 required|0.45455 to|0.42424 satisfy|0.39394 this|0.36364 condition|0.33333 might|0.30303 be|0.27273 10|0.24242 if|0.21212 so|0.18182 an|0.15152 X|0.12121 should|0.090909 be|0.060606 used|0.030303 |0",
+			"previous_weights": " For|0 example|0.058824 the|0.11765 check|0.17647 digit|0.23529 for|0.29412 an|0.35294 ISBN|0.41176 10|0.47059 of|0.52941 0|0.58824 306|0.64706 40615|0.70588 is|0.76471 calculated|0.82353 as|0.88235 follows|0.94118 |1"
+		}
+	}
+}

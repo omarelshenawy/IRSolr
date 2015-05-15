@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "510568eaaf2c468020b58877b01fdf58146134d8d57ac792d784186c76fe0b0e",
+			"url": "https://upload.wikimedia.org/math/d/3/a/d3a48fe750f63df5610185d58609f554.png",
+			"previous": " Spatial inference or estimation of a quantity at an unobserved location is calculated from a linear combination of the observed values and weights ",
+			"after": " The weights are intended to summarize two extremely important procedures in a spatial inference process ",
+			"after_weights": " The|1 weights|0.93333 are|0.86667 intended|0.8 to|0.73333 summarize|0.66667 two|0.6 extremely|0.53333 important|0.46667 procedures|0.4 in|0.33333 a|0.26667 spatial|0.2 inference|0.13333 process|0.066667 |0",
+			"previous_weights": " Spatial|0 inference|0.043478 or|0.086957 estimation|0.13043 of|0.17391 a|0.21739 quantity|0.26087 at|0.30435 an|0.34783 unobserved|0.3913 location|0.43478 is|0.47826 calculated|0.52174 from|0.56522 a|0.6087 linear|0.65217 combination|0.69565 of|0.73913 the|0.78261 observed|0.82609 values|0.86957 and|0.91304 weights|0.95652 |1"
+		}
+	}
+}

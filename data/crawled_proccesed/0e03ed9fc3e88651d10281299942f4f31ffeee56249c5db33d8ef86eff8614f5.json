@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e03ed9fc3e88651d10281299942f4f31ffeee56249c5db33d8ef86eff8614f5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Douglas_Isle_of_Man_welcome_sign.jpg/220px-Douglas_Isle_of_Man_welcome_sign.jpg",
+			"previous": " ",
+			"after": " The official language of the Isle of Man is English while Manx Gaelic has also had official status since 1985 71 Manx has traditionally been spoken but is now considered critically endangered 72 ",
+			"after_weights": " The|1 official|0.9697 language|0.93939 of|0.90909 the|0.87879 Isle|0.84848 of|0.81818 Man|0.78788 is|0.75758 English|0.72727 while|0.69697 Manx|0.66667 Gaelic|0.63636 has|0.60606 also|0.57576 had|0.54545 official|0.51515 status|0.48485 since|0.45455 1985|0.42424 71|0.39394 Manx|0.36364 has|0.33333 traditionally|0.30303 been|0.27273 spoken|0.24242 but|0.21212 is|0.18182 now|0.15152 considered|0.12121 critically|0.090909 endangered|0.060606 72|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

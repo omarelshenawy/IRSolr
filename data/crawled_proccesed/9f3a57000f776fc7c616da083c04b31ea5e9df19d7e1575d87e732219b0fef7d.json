@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f3a57000f776fc7c616da083c04b31ea5e9df19d7e1575d87e732219b0fef7d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LandnamabokManuscriptPage.jpg",
+			"previous": " ",
+			"after": " The oldest preserved texts in Icelandic were written around 1100 AD Much of the texts are based on poetry and laws traditionally preserved orally The most famous of the texts which were written in Iceland from the 12th century onward are the Icelandic Sagas They comprise the historical works and the eddaic poems ",
+			"after_weights": " The|1 oldest|0.98113 preserved|0.96226 texts|0.9434 in|0.92453 Icelandic|0.90566 were|0.88679 written|0.86792 around|0.84906 1100|0.83019 AD|0.81132 Much|0.79245 of|0.77358 the|0.75472 texts|0.73585 are|0.71698 based|0.69811 on|0.67925 poetry|0.66038 and|0.64151 laws|0.62264 traditionally|0.60377 preserved|0.58491 orally|0.56604 The|0.54717 most|0.5283 famous|0.50943 of|0.49057 the|0.4717 texts|0.45283 which|0.43396 were|0.41509 written|0.39623 in|0.37736 Iceland|0.35849 from|0.33962 the|0.32075 12th|0.30189 century|0.28302 onward|0.26415 are|0.24528 the|0.22642 Icelandic|0.20755 Sagas|0.18868 They|0.16981 comprise|0.15094 the|0.13208 historical|0.11321 works|0.09434 and|0.075472 the|0.056604 eddaic|0.037736 poems|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

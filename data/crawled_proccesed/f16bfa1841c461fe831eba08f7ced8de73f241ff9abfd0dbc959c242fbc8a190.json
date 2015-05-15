@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f16bfa1841c461fe831eba08f7ced8de73f241ff9abfd0dbc959c242fbc8a190",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/293_GD-Preis_5524_crop.jpg/220px-293_GD-Preis_5524_crop.jpg",
+			"previous": " Wales is an atheist In an interview with Big Think he said his personal philosophy is firmly rooted in reason and he is a complete non believer 123 As of 2012 update he lives in London England 1 ",
+			"after": " Wales is a member of the Berkman Center for Internet Society at Harvard Law School 17 the advisory board of the MIT Center for Collective Intelligence 124 and the board of directors at Creative Commons 125 and Hunch com 126 He is a former co chair of the World Economic Forum on the Middle East 2008 127 and a former board member of Socialtext 128 ",
+			"after_weights": " Wales|1 is|0.98462 a|0.96923 member|0.95385 of|0.93846 the|0.92308 Berkman|0.90769 Center|0.89231 for|0.87692 Internet|0.86154 Society|0.84615 at|0.83077 Harvard|0.81538 Law|0.8 School|0.78462 17|0.76923 the|0.75385 advisory|0.73846 board|0.72308 of|0.70769 the|0.69231 MIT|0.67692 Center|0.66154 for|0.64615 Collective|0.63077 Intelligence|0.61538 124|0.6 and|0.58462 the|0.56923 board|0.55385 of|0.53846 directors|0.52308 at|0.50769 Creative|0.49231 Commons|0.47692 125|0.46154 and|0.44615 Hunch|0.43077 com|0.41538 126|0.4 He|0.38462 is|0.36923 a|0.35385 former|0.33846 co|0.32308 chair|0.30769 of|0.29231 the|0.27692 World|0.26154 Economic|0.24615 Forum|0.23077 on|0.21538 the|0.2 Middle|0.18462 East|0.16923 2008|0.15385 127|0.13846 and|0.12308 a|0.10769 former|0.092308 board|0.076923 member|0.061538 of|0.046154 Socialtext|0.030769 128|0.015385 |0",
+			"previous_weights": " Wales|0 is|0.026316 an|0.052632 atheist|0.078947 In|0.10526 an|0.13158 interview|0.15789 with|0.18421 Big|0.21053 Think|0.23684 he|0.26316 said|0.28947 his|0.31579 personal|0.34211 philosophy|0.36842 is|0.39474 firmly|0.42105 rooted|0.44737 in|0.47368 reason|0.5 and|0.52632 he|0.55263 is|0.57895 a|0.60526 complete|0.63158 non|0.65789 believer|0.68421 123|0.71053 As|0.73684 of|0.76316 2012|0.78947 update|0.81579 he|0.84211 lives|0.86842 in|0.89474 London|0.92105 England|0.94737 1|0.97368 |1"
+		}
+	}
+}

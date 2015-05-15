@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "40af8b454c6ad2f128fc86ba882213d0b9a136de85e48ea6ee645e28c20ece73",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Prologus_Ioanni_Vulgata_Clementina.jpg/220px-Prologus_Ioanni_Vulgata_Clementina.jpg",
+			"previous": " ",
+			"after": " The Christian concept of the Logos is derived from the first chapter of the Gospel of John where the Logos often translated as Word is described in terms that resemble but likely surpass the ideas of Philo 35 ",
+			"after_weights": " The|1 Christian|0.97368 concept|0.94737 of|0.92105 the|0.89474 Logos|0.86842 is|0.84211 derived|0.81579 from|0.78947 the|0.76316 first|0.73684 chapter|0.71053 of|0.68421 the|0.65789 Gospel|0.63158 of|0.60526 John|0.57895 where|0.55263 the|0.52632 Logos|0.5 often|0.47368 translated|0.44737 as|0.42105 Word|0.39474 is|0.36842 described|0.34211 in|0.31579 terms|0.28947 that|0.26316 resemble|0.23684 but|0.21053 likely|0.18421 surpass|0.15789 the|0.13158 ideas|0.10526 of|0.078947 Philo|0.052632 35|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

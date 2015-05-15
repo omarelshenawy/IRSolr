@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e04db7dd255711fe4a1f4fa30421623ad0a01b42f7f0e1749325c4cf4d0950b5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Linux_Distribution_Timeline.svg/220px-Linux_Distribution_Timeline.svg.png",
+			"previous": " ",
+			"after": " In software engineering a project fork happens when developers take a copy of source code from one software package and start independent development on it creating a distinct and separate piece of software The term often implies not merely a development branch but a split in the developer community a form of schism 1 ",
+			"after_weights": " In|1 software|0.98148 engineering|0.96296 a|0.94444 project|0.92593 fork|0.90741 happens|0.88889 when|0.87037 developers|0.85185 take|0.83333 a|0.81481 copy|0.7963 of|0.77778 source|0.75926 code|0.74074 from|0.72222 one|0.7037 software|0.68519 package|0.66667 and|0.64815 start|0.62963 independent|0.61111 development|0.59259 on|0.57407 it|0.55556 creating|0.53704 a|0.51852 distinct|0.5 and|0.48148 separate|0.46296 piece|0.44444 of|0.42593 software|0.40741 The|0.38889 term|0.37037 often|0.35185 implies|0.33333 not|0.31481 merely|0.2963 a|0.27778 development|0.25926 branch|0.24074 but|0.22222 a|0.2037 split|0.18519 in|0.16667 the|0.14815 developer|0.12963 community|0.11111 a|0.092593 form|0.074074 of|0.055556 schism|0.037037 1|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

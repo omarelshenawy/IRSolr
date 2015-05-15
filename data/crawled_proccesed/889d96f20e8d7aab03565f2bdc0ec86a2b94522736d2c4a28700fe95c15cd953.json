@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "889d96f20e8d7aab03565f2bdc0ec86a2b94522736d2c4a28700fe95c15cd953",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Comiclogo.svg/50px-Comiclogo.svg.png",
+			"previous": " ",
+			"after": " Welcome to WikiProject Comics WP CMC a project formed by Wikipedians to increase expand improve and better organize articles related to comics in Wikipedia the largest encyclopedia in the world We rely on comics enthusiasts worldwide to make this the best comics encyclopaedia on the web If you are interested in participating why not see how you can get involved ",
+			"after_weights": " Welcome|1 to|0.98333 WikiProject|0.96667 Comics|0.95 WP|0.93333 CMC|0.91667 a|0.9 project|0.88333 formed|0.86667 by|0.85 Wikipedians|0.83333 to|0.81667 increase|0.8 expand|0.78333 improve|0.76667 and|0.75 better|0.73333 organize|0.71667 articles|0.7 related|0.68333 to|0.66667 comics|0.65 in|0.63333 Wikipedia|0.61667 the|0.6 largest|0.58333 encyclopedia|0.56667 in|0.55 the|0.53333 world|0.51667 We|0.5 rely|0.48333 on|0.46667 comics|0.45 enthusiasts|0.43333 worldwide|0.41667 to|0.4 make|0.38333 this|0.36667 the|0.35 best|0.33333 comics|0.31667 encyclopaedia|0.3 on|0.28333 the|0.26667 web|0.25 If|0.23333 you|0.21667 are|0.2 interested|0.18333 in|0.16667 participating|0.15 why|0.13333 not|0.11667 see|0.1 how|0.083333 you|0.066667 can|0.05 get|0.033333 involved|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

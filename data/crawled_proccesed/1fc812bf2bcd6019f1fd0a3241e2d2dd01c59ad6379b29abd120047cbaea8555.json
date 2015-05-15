@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc812bf2bcd6019f1fd0a3241e2d2dd01c59ad6379b29abd120047cbaea8555",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Renfrewshire_House.jpg/220px-Renfrewshire_House.jpg",
+			"previous": " ",
+			"after": " Renfrewshire Council Scottish Gaelic Comhairle Shiorrachd Rinn Fri is the elected local authority for Renfrewshire which is one of 32 local council areas in Scotland The council is based at Renfrewshire House in Paisley ",
+			"after_weights": " Renfrewshire|1 Council|0.97059 Scottish|0.94118 Gaelic|0.91176 Comhairle|0.88235 Shiorrachd|0.85294 Rinn|0.82353 Fri|0.79412 is|0.76471 the|0.73529 elected|0.70588 local|0.67647 authority|0.64706 for|0.61765 Renfrewshire|0.58824 which|0.55882 is|0.52941 one|0.5 of|0.47059 32|0.44118 local|0.41176 council|0.38235 areas|0.35294 in|0.32353 Scotland|0.29412 The|0.26471 council|0.23529 is|0.20588 based|0.17647 at|0.14706 Renfrewshire|0.11765 House|0.088235 in|0.058824 Paisley|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

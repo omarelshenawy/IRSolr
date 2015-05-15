@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d1e10a6ab51ffa7820431b506537f7ab0e731c3b437eaeaaf3721c1542626b86",
+			"url": "https://upload.wikimedia.org/math/1/8/a/18a2ae59fb719dbfcf195b9b28e23f6f.png",
+			"previous": " The general formula for non negative real is ",
+			"after": " Two other commonly used F measures are the measure which weights recall twice as much as precision and the measure which weights precision twice as much as recall ",
+			"after_weights": " Two|1 other|0.96429 commonly|0.92857 used|0.89286 F|0.85714 measures|0.82143 are|0.78571 the|0.75 measure|0.71429 which|0.67857 weights|0.64286 recall|0.60714 twice|0.57143 as|0.53571 much|0.5 as|0.46429 precision|0.42857 and|0.39286 the|0.35714 measure|0.32143 which|0.28571 weights|0.25 precision|0.21429 twice|0.17857 as|0.14286 much|0.10714 as|0.071429 recall|0.035714 |0",
+			"previous_weights": " The|0 general|0.125 formula|0.25 for|0.375 non|0.5 negative|0.625 real|0.75 is|0.875 |1"
+		}
+	}
+}

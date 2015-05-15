@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "76b0daf67f46f79bdb32f5945b343dcd73bd8af776de5105770608fc8b87d4b6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ClimateMajuroMarshallIslands.PNG/150px-ClimateMajuroMarshallIslands.PNG",
+			"previous": " ",
+			"after": " The climate is hot and humid with a wet season from May to November Many Pacific typhoons begin as tropical storms in the Marshall Islands region and grow stronger as they move west toward the Mariana Islands and the Philippines ",
+			"after_weights": " The|1 climate|0.975 is|0.95 hot|0.925 and|0.9 humid|0.875 with|0.85 a|0.825 wet|0.8 season|0.775 from|0.75 May|0.725 to|0.7 November|0.675 Many|0.65 Pacific|0.625 typhoons|0.6 begin|0.575 as|0.55 tropical|0.525 storms|0.5 in|0.475 the|0.45 Marshall|0.425 Islands|0.4 region|0.375 and|0.35 grow|0.325 stronger|0.3 as|0.275 they|0.25 move|0.225 west|0.2 toward|0.175 the|0.15 Mariana|0.125 Islands|0.1 and|0.075 the|0.05 Philippines|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

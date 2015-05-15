@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b04956c06a693131ed9bf980a6a6ec6b1eeee30f0f1992635e2bc1cb0fcf5b2c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/46px-C_Puzzle.png",
+			"previous": " ",
+			"after": " Biography People By association By behavior By ethnicity By gender By language By nationality By occupation  By place By political orientation By religion By status  By time Lists of people",
+			"after_weights": " Biography|1 People|0.96774 By|0.93548 association|0.90323 By|0.87097 behavior|0.83871 By|0.80645 ethnicity|0.77419 By|0.74194 gender|0.70968 By|0.67742 language|0.64516 By|0.6129 nationality|0.58065 By|0.54839 occupation|0.51613 |0.48387 By|0.45161 place|0.41935 By|0.3871 political|0.35484 orientation|0.32258 By|0.29032 religion|0.25806 By|0.22581 status|0.19355 |0.16129 By|0.12903 time|0.096774 Lists|0.064516 of|0.032258 people|0",
+			"previous_weights": " "
+		}
+	}
+}

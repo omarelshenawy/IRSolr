@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a5594cb8ffa92e0a3409f88f7f824635743b52cc0dbee9cb4a6ff51b88830d9b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deyo-map.jpg/275px-Deyo-map.jpg",
+			"previous": " ",
+			"after": " Cape Cod incorporates all of Barnstable County which comprises 15 towns Bourne Sandwich Falmouth Mashpee Barnstable Yarmouth Harwich Dennis Brewster Chatham Orleans Eastham Wellfleet Truro and Provincetown Each of these towns include a number of villages see Barnstable County for a complete list ",
+			"after_weights": " Cape|1 Cod|0.97674 incorporates|0.95349 all|0.93023 of|0.90698 Barnstable|0.88372 County|0.86047 which|0.83721 comprises|0.81395 15|0.7907 towns|0.76744 Bourne|0.74419 Sandwich|0.72093 Falmouth|0.69767 Mashpee|0.67442 Barnstable|0.65116 Yarmouth|0.62791 Harwich|0.60465 Dennis|0.5814 Brewster|0.55814 Chatham|0.53488 Orleans|0.51163 Eastham|0.48837 Wellfleet|0.46512 Truro|0.44186 and|0.4186 Provincetown|0.39535 Each|0.37209 of|0.34884 these|0.32558 towns|0.30233 include|0.27907 a|0.25581 number|0.23256 of|0.2093 villages|0.18605 see|0.16279 Barnstable|0.13953 County|0.11628 for|0.093023 a|0.069767 complete|0.046512 list|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

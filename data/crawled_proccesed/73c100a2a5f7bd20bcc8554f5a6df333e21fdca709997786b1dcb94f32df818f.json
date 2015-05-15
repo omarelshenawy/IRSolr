@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "73c100a2a5f7bd20bcc8554f5a6df333e21fdca709997786b1dcb94f32df818f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Team_work.jpg/220px-Team_work.jpg",
+			"previous": " ",
+			"after": " A team comprises a group of people or other animals linked in a common purpose Human teams are especially appropriate for conducting tasks that are high in complexity and have many interdependent subtasks ",
+			"after_weights": " A|1 team|0.9697 comprises|0.93939 a|0.90909 group|0.87879 of|0.84848 people|0.81818 or|0.78788 other|0.75758 animals|0.72727 linked|0.69697 in|0.66667 a|0.63636 common|0.60606 purpose|0.57576 Human|0.54545 teams|0.51515 are|0.48485 especially|0.45455 appropriate|0.42424 for|0.39394 conducting|0.36364 tasks|0.33333 that|0.30303 are|0.27273 high|0.24242 in|0.21212 complexity|0.18182 and|0.15152 have|0.12121 many|0.090909 interdependent|0.060606 subtasks|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "acd9b901212cac03d35671e04378bc1ac3204bd25fc52d5b90e2df10ab7a6c2f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/South_Sudan-CIA_WFB_Map.png",
+			"previous": " Recruiting child soldiers has also been cited as a serious problem in the country 86 In April 2014 Navi Pillay then the UN High Commissioner for Human Rights stated that more than 9 000 child soldiers had been fighting in South Sudan s civil war 87 ",
+			"after": " South Sudan lies between latitudes 3 and 13 N and longitudes 24 and 36 E It is covered in tropical forest swamps and grassland The White Nile passes through the country passing by Juba 54 ",
+			"after_weights": " South|1 Sudan|0.97143 lies|0.94286 between|0.91429 latitudes|0.88571 3|0.85714 and|0.82857 13|0.8 N|0.77143 and|0.74286 longitudes|0.71429 24|0.68571 and|0.65714 36|0.62857 E|0.6 It|0.57143 is|0.54286 covered|0.51429 in|0.48571 tropical|0.45714 forest|0.42857 swamps|0.4 and|0.37143 grassland|0.34286 The|0.31429 White|0.28571 Nile|0.25714 passes|0.22857 through|0.2 the|0.17143 country|0.14286 passing|0.11429 by|0.085714 Juba|0.057143 54|0.028571 |0",
+			"previous_weights": " Recruiting|0 child|0.021739 soldiers|0.043478 has|0.065217 also|0.086957 been|0.1087 cited|0.13043 as|0.15217 a|0.17391 serious|0.19565 problem|0.21739 in|0.23913 the|0.26087 country|0.28261 86|0.30435 In|0.32609 April|0.34783 2014|0.36957 Navi|0.3913 Pillay|0.41304 then|0.43478 the|0.45652 UN|0.47826 High|0.5 Commissioner|0.52174 for|0.54348 Human|0.56522 Rights|0.58696 stated|0.6087 that|0.63043 more|0.65217 than|0.67391 9|0.69565 000|0.71739 child|0.73913 soldiers|0.76087 had|0.78261 been|0.80435 fighting|0.82609 in|0.84783 South|0.86957 Sudan|0.8913 s|0.91304 civil|0.93478 war|0.95652 87|0.97826 |1"
+		}
+	}
+}

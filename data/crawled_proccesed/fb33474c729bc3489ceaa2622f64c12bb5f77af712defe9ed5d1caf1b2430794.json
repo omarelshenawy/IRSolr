@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "fb33474c729bc3489ceaa2622f64c12bb5f77af712defe9ed5d1caf1b2430794",
+			"url": "https://upload.wikimedia.org/math/d/8/3/d83bc85324d5d3d68d5779f7edbe9559.png",
+			"previous": " where is an interpolated precision that takes the maximum precision over all recalls greater than ",
+			"after": " An alternative is to derive an analytical function by assuming a particular parametric distribution for the underlying decision values For example a binormal precision recall curve can be obtained by assuming decision values in both classes to follow a Gaussian distribution 10 ",
+			"after_weights": " An|1 alternative|0.97619 is|0.95238 to|0.92857 derive|0.90476 an|0.88095 analytical|0.85714 function|0.83333 by|0.80952 assuming|0.78571 a|0.7619 particular|0.7381 parametric|0.71429 distribution|0.69048 for|0.66667 the|0.64286 underlying|0.61905 decision|0.59524 values|0.57143 For|0.54762 example|0.52381 a|0.5 binormal|0.47619 precision|0.45238 recall|0.42857 curve|0.40476 can|0.38095 be|0.35714 obtained|0.33333 by|0.30952 assuming|0.28571 decision|0.2619 values|0.2381 in|0.21429 both|0.19048 classes|0.16667 to|0.14286 follow|0.11905 a|0.095238 Gaussian|0.071429 distribution|0.047619 10|0.02381 |0",
+			"previous_weights": " where|0 is|0.066667 an|0.13333 interpolated|0.2 precision|0.26667 that|0.33333 takes|0.4 the|0.46667 maximum|0.53333 precision|0.6 over|0.66667 all|0.73333 recalls|0.8 greater|0.86667 than|0.93333 |1"
+		}
+	}
+}

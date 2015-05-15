@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f8d199f9eb39225995c675db9fd7b09af93ca9711b72f749e699b615f8821bba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wikipedia_help.png/46px-Wikipedia_help.png",
+			"previous": " ",
+			"after": " This page provides assistance with the most common questions about Wikipedia  To start please click on a relevant link to what you want assistance for below or simply search for other available help pages that are not linked here using the search box to the right If you wish you can browse for your desired help page instead ",
+			"after_weights": " This|1 page|0.98305 provides|0.9661 assistance|0.94915 with|0.9322 the|0.91525 most|0.89831 common|0.88136 questions|0.86441 about|0.84746 Wikipedia|0.83051 |0.81356 To|0.79661 start|0.77966 please|0.76271 click|0.74576 on|0.72881 a|0.71186 relevant|0.69492 link|0.67797 to|0.66102 what|0.64407 you|0.62712 want|0.61017 assistance|0.59322 for|0.57627 below|0.55932 or|0.54237 simply|0.52542 search|0.50847 for|0.49153 other|0.47458 available|0.45763 help|0.44068 pages|0.42373 that|0.40678 are|0.38983 not|0.37288 linked|0.35593 here|0.33898 using|0.32203 the|0.30508 search|0.28814 box|0.27119 to|0.25424 the|0.23729 right|0.22034 If|0.20339 you|0.18644 wish|0.16949 you|0.15254 can|0.13559 browse|0.11864 for|0.10169 your|0.084746 desired|0.067797 help|0.050847 page|0.033898 instead|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

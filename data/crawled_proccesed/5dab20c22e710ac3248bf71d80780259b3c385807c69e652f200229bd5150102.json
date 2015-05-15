@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5dab20c22e710ac3248bf71d80780259b3c385807c69e652f200229bd5150102",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wikimania_globalvoicespanel.jpg/220px-Wikimania_globalvoicespanel.jpg",
+			"previous": " ",
+			"after": " The first Wikimania conference was held in the Haus der Jugend at Frankfurt Germany August 4 8 2005 It had attracted about 380 attendees 1  The week of the conference included four Hacking Days August 1 4 when some 25 developers gathered to work on code and discuss the technical aspects of MediaWiki and of running the Wikimedia projects The main days of the conference despite its billing as being August 4 8 were Friday to Sunday of that week August 5 7 Presentation sessions were scheduled all day during those three days ",
+			"after_weights": " The|1 first|0.98936 Wikimania|0.97872 conference|0.96809 was|0.95745 held|0.94681 in|0.93617 the|0.92553 Haus|0.91489 der|0.90426 Jugend|0.89362 at|0.88298 Frankfurt|0.87234 Germany|0.8617 August|0.85106 4|0.84043 8|0.82979 2005|0.81915 It|0.80851 had|0.79787 attracted|0.78723 about|0.7766 380|0.76596 attendees|0.75532 1|0.74468 |0.73404 The|0.7234 week|0.71277 of|0.70213 the|0.69149 conference|0.68085 included|0.67021 four|0.65957 Hacking|0.64894 Days|0.6383 August|0.62766 1|0.61702 4|0.60638 when|0.59574 some|0.58511 25|0.57447 developers|0.56383 gathered|0.55319 to|0.54255 work|0.53191 on|0.52128 code|0.51064 and|0.5 discuss|0.48936 the|0.47872 technical|0.46809 aspects|0.45745 of|0.44681 MediaWiki|0.43617 and|0.42553 of|0.41489 running|0.40426 the|0.39362 Wikimedia|0.38298 projects|0.37234 The|0.3617 main|0.35106 days|0.34043 of|0.32979 the|0.31915 conference|0.30851 despite|0.29787 its|0.28723 billing|0.2766 as|0.26596 being|0.25532 August|0.24468 4|0.23404 8|0.2234 were|0.21277 Friday|0.20213 to|0.19149 Sunday|0.18085 of|0.17021 that|0.15957 week|0.14894 August|0.1383 5|0.12766 7|0.11702 Presentation|0.10638 sessions|0.095745 were|0.085106 scheduled|0.074468 all|0.06383 day|0.053191 during|0.042553 those|0.031915 three|0.021277 days|0.010638 |0",
+			"previous_weights": " "
+		}
+	}
+}

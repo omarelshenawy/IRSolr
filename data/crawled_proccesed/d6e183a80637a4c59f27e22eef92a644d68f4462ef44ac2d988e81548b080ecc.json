@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d6e183a80637a4c59f27e22eef92a644d68f4462ef44ac2d988e81548b080ecc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Structured_%28DHT%29_peer-to-peer_network_diagram.png/300px-Structured_%28DHT%29_peer-to-peer_network_diagram.png",
+			"previous": " ",
+			"after": " In structured peer to peer networks the overlay is organized into a specific topology and the protocol ensures that any node can efficiently 17 search the network for a file resource even if the resource is extremely rare ",
+			"after_weights": " In|1 structured|0.97368 peer|0.94737 to|0.92105 peer|0.89474 networks|0.86842 the|0.84211 overlay|0.81579 is|0.78947 organized|0.76316 into|0.73684 a|0.71053 specific|0.68421 topology|0.65789 and|0.63158 the|0.60526 protocol|0.57895 ensures|0.55263 that|0.52632 any|0.5 node|0.47368 can|0.44737 efficiently|0.42105 17|0.39474 search|0.36842 the|0.34211 network|0.31579 for|0.28947 a|0.26316 file|0.23684 resource|0.21053 even|0.18421 if|0.15789 the|0.13158 resource|0.10526 is|0.078947 extremely|0.052632 rare|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

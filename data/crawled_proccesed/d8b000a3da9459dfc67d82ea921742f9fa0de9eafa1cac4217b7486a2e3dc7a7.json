@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d8b000a3da9459dfc67d82ea921742f9fa0de9eafa1cac4217b7486a2e3dc7a7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dmitri1.jpg/170px-Dmitri1.jpg",
+			"previous": " ",
+			"after": " Dmitri Dmitriyevich Shostakovich Russian help info tr Dmitriy Dmitrievich Shostakovich pronounced dm itr j dm itr v t st kov t 25 September 1 1906 9 August 1975 was a Russian composer and pianist and a prominent figure of 20th century music 2 ",
+			"after_weights": " Dmitri|1 Dmitriyevich|0.97674 Shostakovich|0.95349 Russian|0.93023 help|0.90698 info|0.88372 tr|0.86047 Dmitriy|0.83721 Dmitrievich|0.81395 Shostakovich|0.7907 pronounced|0.76744 dm|0.74419 itr|0.72093 j|0.69767 dm|0.67442 itr|0.65116 v|0.62791 t|0.60465 st|0.5814 kov|0.55814 t|0.53488 25|0.51163 September|0.48837 1|0.46512 1906|0.44186 9|0.4186 August|0.39535 1975|0.37209 was|0.34884 a|0.32558 Russian|0.30233 composer|0.27907 and|0.25581 pianist|0.23256 and|0.2093 a|0.18605 prominent|0.16279 figure|0.13953 of|0.11628 20th|0.093023 century|0.069767 music|0.046512 2|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

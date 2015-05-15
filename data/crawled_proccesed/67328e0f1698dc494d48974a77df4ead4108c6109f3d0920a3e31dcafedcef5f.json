@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "67328e0f1698dc494d48974a77df4ead4108c6109f3d0920a3e31dcafedcef5f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oxford_Malmaison_Hotel.jpg/220px-Oxford_Malmaison_Hotel.jpg",
+			"previous": " ",
+			"after": " The University of Oxford is the oldest university in the English speaking world 41 and one of the most famous and prestigious higher education institutions of the world averaging five applications to every available place and attracting 40 of its academic staff and 15 of undergraduates from overseas 42 It is currently ranked as fifth best university in the world according to QS World Rankings 43 behind its main UK rival Cambridge in first place ",
+			"after_weights": " The|1 University|0.98667 of|0.97333 Oxford|0.96 is|0.94667 the|0.93333 oldest|0.92 university|0.90667 in|0.89333 the|0.88 English|0.86667 speaking|0.85333 world|0.84 41|0.82667 and|0.81333 one|0.8 of|0.78667 the|0.77333 most|0.76 famous|0.74667 and|0.73333 prestigious|0.72 higher|0.70667 education|0.69333 institutions|0.68 of|0.66667 the|0.65333 world|0.64 averaging|0.62667 five|0.61333 applications|0.6 to|0.58667 every|0.57333 available|0.56 place|0.54667 and|0.53333 attracting|0.52 40|0.50667 of|0.49333 its|0.48 academic|0.46667 staff|0.45333 and|0.44 15|0.42667 of|0.41333 undergraduates|0.4 from|0.38667 overseas|0.37333 42|0.36 It|0.34667 is|0.33333 currently|0.32 ranked|0.30667 as|0.29333 fifth|0.28 best|0.26667 university|0.25333 in|0.24 the|0.22667 world|0.21333 according|0.2 to|0.18667 QS|0.17333 World|0.16 Rankings|0.14667 43|0.13333 behind|0.12 its|0.10667 main|0.093333 UK|0.08 rival|0.066667 Cambridge|0.053333 in|0.04 first|0.026667 place|0.013333 |0",
+			"previous_weights": " "
+		}
+	}
+}

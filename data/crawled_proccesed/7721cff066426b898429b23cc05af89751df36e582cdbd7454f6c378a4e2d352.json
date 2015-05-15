@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7721cff066426b898429b23cc05af89751df36e582cdbd7454f6c378a4e2d352",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Nuvola_apps_important.svg/20px-Nuvola_apps_important.svg.png",
+			"previous": "  Fourth praise   220 255 47 5 talk 10 10 19 October 2014 UTC  VANDALISM AVOID",
+			"after": " chips and or barnstars  LOL Just kidding but keep up the good work and remove more vandalism 220 255 47 5 talk 10 34 19 October 2014 UTC ",
+			"after_weights": " chips|1 and|0.96552 or|0.93103 barnstars|0.89655 |0.86207 LOL|0.82759 Just|0.7931 kidding|0.75862 but|0.72414 keep|0.68966 up|0.65517 the|0.62069 good|0.58621 work|0.55172 and|0.51724 remove|0.48276 more|0.44828 vandalism|0.41379 220|0.37931 255|0.34483 47|0.31034 5|0.27586 talk|0.24138 10|0.2069 34|0.17241 19|0.13793 October|0.10345 2014|0.068966 UTC|0.034483 |0",
+			"previous_weights": " |0 Fourth|0.055556 praise|0.11111 |0.16667 |0.22222 220|0.27778 255|0.33333 47|0.38889 5|0.44444 talk|0.5 10|0.55556 10|0.61111 19|0.66667 October|0.72222 2014|0.77778 UTC|0.83333 |0.88889 VANDALISM|0.94444 AVOID|1"
+		}
+	}
+}

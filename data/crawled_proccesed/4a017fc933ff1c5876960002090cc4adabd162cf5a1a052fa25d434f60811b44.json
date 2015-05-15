@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a017fc933ff1c5876960002090cc4adabd162cf5a1a052fa25d434f60811b44",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MR_Wikimania_1-28.jpg/220px-MR_Wikimania_1-28.jpg",
+			"previous": " ",
+			"after": " Lih worked as a software engineer for AT T Bell Labs from 1990 to 1993 He founded the new media startup Mediabridge Infosystems in 1994 He also obtained a Masters degree in Computer Science from Columbia University in 1994 9 ",
+			"after_weights": " Lih|1 worked|0.975 as|0.95 a|0.925 software|0.9 engineer|0.875 for|0.85 AT|0.825 T|0.8 Bell|0.775 Labs|0.75 from|0.725 1990|0.7 to|0.675 1993|0.65 He|0.625 founded|0.6 the|0.575 new|0.55 media|0.525 startup|0.5 Mediabridge|0.475 Infosystems|0.45 in|0.425 1994|0.4 He|0.375 also|0.35 obtained|0.325 a|0.3 Masters|0.275 degree|0.25 in|0.225 Computer|0.2 Science|0.175 from|0.15 Columbia|0.125 University|0.1 in|0.075 1994|0.05 9|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "63a4479e145b895d649a82ef6a51d5216d6b6477cc8ba12fb3107838c841ad97",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Map_of_current_Interstates.svg/250px-Map_of_current_Interstates.svg.png",
+			"previous": " ",
+			"after": " Personal transportation is dominated by automobiles which operate on a network of 4 million miles of public roads 495 including one of the world s longest highway systems 496 The world s second largest automobile market 497 the United States has the highest rate of per capita vehicle ownership in the world with 765 vehicles per 1 000 Americans 498 About 40 of personal vehicles are vans SUVs or light trucks 499 The average American adult accounting for all drivers and non drivers spends 55 minutes driving every day traveling 29 miles 47 km 500 ",
+			"after_weights": " Personal|1 transportation|0.98947 is|0.97895 dominated|0.96842 by|0.95789 automobiles|0.94737 which|0.93684 operate|0.92632 on|0.91579 a|0.90526 network|0.89474 of|0.88421 4|0.87368 million|0.86316 miles|0.85263 of|0.84211 public|0.83158 roads|0.82105 495|0.81053 including|0.8 one|0.78947 of|0.77895 the|0.76842 world|0.75789 s|0.74737 longest|0.73684 highway|0.72632 systems|0.71579 496|0.70526 The|0.69474 world|0.68421 s|0.67368 second|0.66316 largest|0.65263 automobile|0.64211 market|0.63158 497|0.62105 the|0.61053 United|0.6 States|0.58947 has|0.57895 the|0.56842 highest|0.55789 rate|0.54737 of|0.53684 per|0.52632 capita|0.51579 vehicle|0.50526 ownership|0.49474 in|0.48421 the|0.47368 world|0.46316 with|0.45263 765|0.44211 vehicles|0.43158 per|0.42105 1|0.41053 000|0.4 Americans|0.38947 498|0.37895 About|0.36842 40|0.35789 of|0.34737 personal|0.33684 vehicles|0.32632 are|0.31579 vans|0.30526 SUVs|0.29474 or|0.28421 light|0.27368 trucks|0.26316 499|0.25263 The|0.24211 average|0.23158 American|0.22105 adult|0.21053 accounting|0.2 for|0.18947 all|0.17895 drivers|0.16842 and|0.15789 non|0.14737 drivers|0.13684 spends|0.12632 55|0.11579 minutes|0.10526 driving|0.094737 every|0.084211 day|0.073684 traveling|0.063158 29|0.052632 miles|0.042105 47|0.031579 km|0.021053 500|0.010526 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ee4c1ba3428850fb44c46b0373540e50cc9f08165b3bdc8a30641dbefadec08a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wgretz_edit2.jpg/300px-Wgretz_edit2.jpg",
+			"previous": " Portal Biography Selected picture 18",
+			"after": " Wayne Douglas Gretzky OC born January 26 1961 is a Canadian former professional ice hockey player and former head coach He played 20 seasons in the National Hockey League NHL for four teams from 1979 to 1999 Nicknamed The Great One he has been called the greatest hockey player ever by many sportswriters players and the NHL itself ",
+			"after_weights": " Wayne|1 Douglas|0.98276 Gretzky|0.96552 OC|0.94828 born|0.93103 January|0.91379 26|0.89655 1961|0.87931 is|0.86207 a|0.84483 Canadian|0.82759 former|0.81034 professional|0.7931 ice|0.77586 hockey|0.75862 player|0.74138 and|0.72414 former|0.7069 head|0.68966 coach|0.67241 He|0.65517 played|0.63793 20|0.62069 seasons|0.60345 in|0.58621 the|0.56897 National|0.55172 Hockey|0.53448 League|0.51724 NHL|0.5 for|0.48276 four|0.46552 teams|0.44828 from|0.43103 1979|0.41379 to|0.39655 1999|0.37931 Nicknamed|0.36207 The|0.34483 Great|0.32759 One|0.31034 he|0.2931 has|0.27586 been|0.25862 called|0.24138 the|0.22414 greatest|0.2069 hockey|0.18966 player|0.17241 ever|0.15517 by|0.13793 many|0.12069 sportswriters|0.10345 players|0.086207 and|0.068966 the|0.051724 NHL|0.034483 itself|0.017241 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 18|1"
+		}
+	}
+}

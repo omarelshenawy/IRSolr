@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a816da2da94c4471314e4e0598597e8ef7bf458ad09e532c425af594e1261bc",
+			"url": "https://upload.wikimedia.org/math/f/3/a/f3a2410ea200d6d9a342fc9093e0e623.png",
+			"previous": " Some conclusions can be asserted from this expression The variance of estimation  Once defined the covariance model or variogram or valid in all field of analysis of than we can write an expression for the estimation variance of any estimator in function of the covariance between the samples and the covariances between the samples and the point to estimate ",
+			"after": " Solving this optimization problem see Lagrange multipliers results in the Kriging system  the additional parameter is a Lagrange multiplier used in the minimization of the Kriging error to honor the unbiasedness condition ",
+			"after_weights": " Solving|1 this|0.9697 optimization|0.93939 problem|0.90909 see|0.87879 Lagrange|0.84848 multipliers|0.81818 results|0.78788 in|0.75758 the|0.72727 Kriging|0.69697 system|0.66667 |0.63636 the|0.60606 additional|0.57576 parameter|0.54545 is|0.51515 a|0.48485 Lagrange|0.45455 multiplier|0.42424 used|0.39394 in|0.36364 the|0.33333 minimization|0.30303 of|0.27273 the|0.24242 Kriging|0.21212 error|0.18182 to|0.15152 honor|0.12121 the|0.090909 unbiasedness|0.060606 condition|0.030303 |0",
+			"previous_weights": " Some|0 conclusions|0.016667 can|0.033333 be|0.05 asserted|0.066667 from|0.083333 this|0.1 expression|0.11667 The|0.13333 variance|0.15 of|0.16667 estimation|0.18333 |0.2 Once|0.21667 defined|0.23333 the|0.25 covariance|0.26667 model|0.28333 or|0.3 variogram|0.31667 or|0.33333 valid|0.35 in|0.36667 all|0.38333 field|0.4 of|0.41667 analysis|0.43333 of|0.45 than|0.46667 we|0.48333 can|0.5 write|0.51667 an|0.53333 expression|0.55 for|0.56667 the|0.58333 estimation|0.6 variance|0.61667 of|0.63333 any|0.65 estimator|0.66667 in|0.68333 function|0.7 of|0.71667 the|0.73333 covariance|0.75 between|0.76667 the|0.78333 samples|0.8 and|0.81667 the|0.83333 covariances|0.85 between|0.86667 the|0.88333 samples|0.9 and|0.91667 the|0.93333 point|0.95 to|0.96667 estimate|0.98333 |1"
+		}
+	}
+}

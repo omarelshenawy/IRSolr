@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "88015eb2033acc54b5e6e383bc74835f04531f92637e8dc93fcad03e8200bcb6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GiacomoPuccini.jpg/170px-GiacomoPuccini.jpg",
+			"previous": " ",
+			"after": " From folk music to classical music has always played an important role in Italian culture Instruments associated with classical music including the piano and violin were invented in Italy and many of the prevailing classical music forms such as the symphony concerto and sonata can trace their roots back to innovations of 16th and 17th century Italian music ",
+			"after_weights": " From|1 folk|0.98276 music|0.96552 to|0.94828 classical|0.93103 music|0.91379 has|0.89655 always|0.87931 played|0.86207 an|0.84483 important|0.82759 role|0.81034 in|0.7931 Italian|0.77586 culture|0.75862 Instruments|0.74138 associated|0.72414 with|0.7069 classical|0.68966 music|0.67241 including|0.65517 the|0.63793 piano|0.62069 and|0.60345 violin|0.58621 were|0.56897 invented|0.55172 in|0.53448 Italy|0.51724 and|0.5 many|0.48276 of|0.46552 the|0.44828 prevailing|0.43103 classical|0.41379 music|0.39655 forms|0.37931 such|0.36207 as|0.34483 the|0.32759 symphony|0.31034 concerto|0.2931 and|0.27586 sonata|0.25862 can|0.24138 trace|0.22414 their|0.2069 roots|0.18966 back|0.17241 to|0.15517 innovations|0.13793 of|0.12069 16th|0.10345 and|0.086207 17th|0.068966 century|0.051724 Italian|0.034483 music|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

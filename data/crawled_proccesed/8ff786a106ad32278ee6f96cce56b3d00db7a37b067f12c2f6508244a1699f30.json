@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ff786a106ad32278ee6f96cce56b3d00db7a37b067f12c2f6508244a1699f30",
+			"url": "https://upload.wikimedia.org/math/2/2/2/22260199e69f69ccfd9561f0ffd41ffa.png",
+			"previous": " Suppose X1 Xn is an independent sample from a normally distributed population with parameters mean and variance 2 Let The figure on the right shows 50 realizations of a confidence interval for a given population mean If we randomly choose one realization the probability is 95 we end up having chosen an interval that contains the parameter however we may be unlucky and have picked the wrong one We will never know we are stuck with our interval ",
+			"after": " Where X is the sample mean and S2 is the sample variance Then",
+			"after_weights": " Where|1 X|0.91667 is|0.83333 the|0.75 sample|0.66667 mean|0.58333 and|0.5 S2|0.41667 is|0.33333 the|0.25 sample|0.16667 variance|0.083333 Then|0",
+			"previous_weights": " Suppose|0 X1|0.012821 Xn|0.025641 is|0.038462 an|0.051282 independent|0.064103 sample|0.076923 from|0.089744 a|0.10256 normally|0.11538 distributed|0.12821 population|0.14103 with|0.15385 parameters|0.16667 mean|0.17949 and|0.19231 variance|0.20513 2|0.21795 Let|0.23077 The|0.24359 figure|0.25641 on|0.26923 the|0.28205 right|0.29487 shows|0.30769 50|0.32051 realizations|0.33333 of|0.34615 a|0.35897 confidence|0.37179 interval|0.38462 for|0.39744 a|0.41026 given|0.42308 population|0.4359 mean|0.44872 If|0.46154 we|0.47436 randomly|0.48718 choose|0.5 one|0.51282 realization|0.52564 the|0.53846 probability|0.55128 is|0.5641 95|0.57692 we|0.58974 end|0.60256 up|0.61538 having|0.62821 chosen|0.64103 an|0.65385 interval|0.66667 that|0.67949 contains|0.69231 the|0.70513 parameter|0.71795 however|0.73077 we|0.74359 may|0.75641 be|0.76923 unlucky|0.78205 and|0.79487 have|0.80769 picked|0.82051 the|0.83333 wrong|0.84615 one|0.85897 We|0.87179 will|0.88462 never|0.89744 know|0.91026 we|0.92308 are|0.9359 stuck|0.94872 with|0.96154 our|0.97436 interval|0.98718 |1"
+		}
+	}
+}

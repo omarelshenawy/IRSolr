@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "55edd4a2974cdba3541837fcd28dc941b72e08d8b913bc26a4f5ef49a8909f3b",
+			"url": "https://upload.wikimedia.org/math/7/9/1/791ce768510cf6b95c0daae852d7a279.png",
+			"previous": " Since the random function is stationary the following constraint is observed  Lack of bias  The two quality criteria referred to previously can now be expressed in terms of the mean and variance of the new random variable ",
+			"after": " In order to ensure that the model is unbiased the weights must sum to one  Minimum Variance  Two estimators can have but the dispersion around their mean determines the difference between the quality of estimators To find an estimator with minimum variance we need to minimize ",
+			"after_weights": " In|1 order|0.97917 to|0.95833 ensure|0.9375 that|0.91667 the|0.89583 model|0.875 is|0.85417 unbiased|0.83333 the|0.8125 weights|0.79167 must|0.77083 sum|0.75 to|0.72917 one|0.70833 |0.6875 Minimum|0.66667 Variance|0.64583 |0.625 Two|0.60417 estimators|0.58333 can|0.5625 have|0.54167 but|0.52083 the|0.5 dispersion|0.47917 around|0.45833 their|0.4375 mean|0.41667 determines|0.39583 the|0.375 difference|0.35417 between|0.33333 the|0.3125 quality|0.29167 of|0.27083 estimators|0.25 To|0.22917 find|0.20833 an|0.1875 estimator|0.16667 with|0.14583 minimum|0.125 variance|0.10417 we|0.083333 need|0.0625 to|0.041667 minimize|0.020833 |0",
+			"previous_weights": " Since|0 the|0.025641 random|0.051282 function|0.076923 is|0.10256 stationary|0.12821 the|0.15385 following|0.17949 constraint|0.20513 is|0.23077 observed|0.25641 |0.28205 Lack|0.30769 of|0.33333 bias|0.35897 |0.38462 The|0.41026 two|0.4359 quality|0.46154 criteria|0.48718 referred|0.51282 to|0.53846 previously|0.5641 can|0.58974 now|0.61538 be|0.64103 expressed|0.66667 in|0.69231 terms|0.71795 of|0.74359 the|0.76923 mean|0.79487 and|0.82051 variance|0.84615 of|0.87179 the|0.89744 new|0.92308 random|0.94872 variable|0.97436 |1"
+		}
+	}
+}

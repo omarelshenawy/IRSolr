@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "28f1aefd746cd54e521b5911c582a342b82c88336f0ff503aad73cc1cb0eab48",
+			"url": "https://upload.wikimedia.org/math/b/b/0/bb023ed55f15888142470b4239a3ad1b.png",
+			"previous": " A particularly important case is that of carrying capacity that varies periodically with period T ",
+			"after": " It can be shown that in such a case independently from the initial value P 0 0 P t will tend to a unique periodic solution P t whose period is T ",
+			"after_weights": " It|1 can|0.96875 be|0.9375 shown|0.90625 that|0.875 in|0.84375 such|0.8125 a|0.78125 case|0.75 independently|0.71875 from|0.6875 the|0.65625 initial|0.625 value|0.59375 P|0.5625 0|0.53125 0|0.5 P|0.46875 t|0.4375 will|0.40625 tend|0.375 to|0.34375 a|0.3125 unique|0.28125 periodic|0.25 solution|0.21875 P|0.1875 t|0.15625 whose|0.125 period|0.09375 is|0.0625 T|0.03125 |0",
+			"previous_weights": " A|0 particularly|0.066667 important|0.13333 case|0.2 is|0.26667 that|0.33333 of|0.4 carrying|0.46667 capacity|0.53333 that|0.6 varies|0.66667 periodically|0.73333 with|0.8 period|0.86667 T|0.93333 |1"
+		}
+	}
+}

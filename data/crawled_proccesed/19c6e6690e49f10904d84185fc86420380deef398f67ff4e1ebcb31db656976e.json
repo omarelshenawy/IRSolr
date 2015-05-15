@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "19c6e6690e49f10904d84185fc86420380deef398f67ff4e1ebcb31db656976e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Earth-Moon.svg/220px-Earth-Moon.svg.png",
+			"previous": " ",
+			"after": " The Moon is a relatively large terrestrial planet like satellite with a diameter about one quarter of Earth s It is the largest moon in the Solar System relative to the size of its planet although Charon is larger relative to the dwarf planet Pluto The natural satellites of other planets are also referred to as moons after Earth s ",
+			"after_weights": " The|1 Moon|0.98333 is|0.96667 a|0.95 relatively|0.93333 large|0.91667 terrestrial|0.9 planet|0.88333 like|0.86667 satellite|0.85 with|0.83333 a|0.81667 diameter|0.8 about|0.78333 one|0.76667 quarter|0.75 of|0.73333 Earth|0.71667 s|0.7 It|0.68333 is|0.66667 the|0.65 largest|0.63333 moon|0.61667 in|0.6 the|0.58333 Solar|0.56667 System|0.55 relative|0.53333 to|0.51667 the|0.5 size|0.48333 of|0.46667 its|0.45 planet|0.43333 although|0.41667 Charon|0.4 is|0.38333 larger|0.36667 relative|0.35 to|0.33333 the|0.31667 dwarf|0.3 planet|0.28333 Pluto|0.26667 The|0.25 natural|0.23333 satellites|0.21667 of|0.2 other|0.18333 planets|0.16667 are|0.15 also|0.13333 referred|0.11667 to|0.1 as|0.083333 moons|0.066667 after|0.05 Earth|0.033333 s|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

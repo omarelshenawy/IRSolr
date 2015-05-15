@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f96e110bcb61ab8d51c975ab6e4d84385cfaef272d1fc77faa685d6514ad79bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Amtrak_logo_%281971%29.png",
+			"previous": " Until 1966 most U S Postal Service mail was transported on passenger trains The mail contracts kept many passenger trains economically viable In 1966 the U S Postal Service switched to trucks and airplanes subsidizing planes instead of trains which no longer had mail as a source of revenue ",
+			"after": " ",
+			"after_weights": " ",
+			"previous_weights": " Until|0 1966|0.020408 most|0.040816 U|0.061224 S|0.081633 Postal|0.10204 Service|0.12245 mail|0.14286 was|0.16327 transported|0.18367 on|0.20408 passenger|0.22449 trains|0.2449 The|0.26531 mail|0.28571 contracts|0.30612 kept|0.32653 many|0.34694 passenger|0.36735 trains|0.38776 economically|0.40816 viable|0.42857 In|0.44898 1966|0.46939 the|0.4898 U|0.5102 S|0.53061 Postal|0.55102 Service|0.57143 switched|0.59184 to|0.61224 trucks|0.63265 and|0.65306 airplanes|0.67347 subsidizing|0.69388 planes|0.71429 instead|0.73469 of|0.7551 trains|0.77551 which|0.79592 no|0.81633 longer|0.83673 had|0.85714 mail|0.87755 as|0.89796 a|0.91837 source|0.93878 of|0.95918 revenue|0.97959 |1"
+		}
+	}
+}

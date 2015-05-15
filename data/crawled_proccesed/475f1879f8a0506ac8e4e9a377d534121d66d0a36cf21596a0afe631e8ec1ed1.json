@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "475f1879f8a0506ac8e4e9a377d534121d66d0a36cf21596a0afe631e8ec1ed1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/300px-Ada_Lovelace_portrait.jpg",
+			"previous": " Portal Biography Selected picture 10",
+			"after": " Augusta Ada King Countess of Lovelace 10 December 1815 27 November 1852 born Augusta Ada Byron and now commonly known as Ada Lovelace was an English mathematician and writer chiefly known for her work on Charles Babbage s early mechanical general purpose computer the Analytical Engine She is often described as the world s first computer programmer ",
+			"after_weights": " Augusta|1 Ada|0.98246 King|0.96491 Countess|0.94737 of|0.92982 Lovelace|0.91228 10|0.89474 December|0.87719 1815|0.85965 27|0.84211 November|0.82456 1852|0.80702 born|0.78947 Augusta|0.77193 Ada|0.75439 Byron|0.73684 and|0.7193 now|0.70175 commonly|0.68421 known|0.66667 as|0.64912 Ada|0.63158 Lovelace|0.61404 was|0.59649 an|0.57895 English|0.5614 mathematician|0.54386 and|0.52632 writer|0.50877 chiefly|0.49123 known|0.47368 for|0.45614 her|0.4386 work|0.42105 on|0.40351 Charles|0.38596 Babbage|0.36842 s|0.35088 early|0.33333 mechanical|0.31579 general|0.29825 purpose|0.2807 computer|0.26316 the|0.24561 Analytical|0.22807 Engine|0.21053 She|0.19298 is|0.17544 often|0.15789 described|0.14035 as|0.12281 the|0.10526 world|0.087719 s|0.070175 first|0.052632 computer|0.035088 programmer|0.017544 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 10|1"
+		}
+	}
+}

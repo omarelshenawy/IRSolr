@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0793940a5def0ec1b4873ee4e6c99131fa6bcd67ac1202f27ed9903851c10da8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2011_Egyptian_protests_Facebook_%26_jan25_card.jpg/220px-2011_Egyptian_protests_Facebook_%26_jan25_card.jpg",
+			"previous": " ",
+			"after": " Facebook s role in the American political process was demonstrated in January 2008 shortly before the New Hampshire primary when Facebook teamed up with ABC and Saint Anselm College to allow users to give live feedback about the back to back January 5 Republican and Democratic debates 331 332 333 Charles Gibson moderated both debates held at the Dana Center for the Humanities at Saint Anselm College Facebook users took part in debate groups organized around specific topics register to vote and message questions 334 ",
+			"after_weights": " Facebook|1 s|0.98824 role|0.97647 in|0.96471 the|0.95294 American|0.94118 political|0.92941 process|0.91765 was|0.90588 demonstrated|0.89412 in|0.88235 January|0.87059 2008|0.85882 shortly|0.84706 before|0.83529 the|0.82353 New|0.81176 Hampshire|0.8 primary|0.78824 when|0.77647 Facebook|0.76471 teamed|0.75294 up|0.74118 with|0.72941 ABC|0.71765 and|0.70588 Saint|0.69412 Anselm|0.68235 College|0.67059 to|0.65882 allow|0.64706 users|0.63529 to|0.62353 give|0.61176 live|0.6 feedback|0.58824 about|0.57647 the|0.56471 back|0.55294 to|0.54118 back|0.52941 January|0.51765 5|0.50588 Republican|0.49412 and|0.48235 Democratic|0.47059 debates|0.45882 331|0.44706 332|0.43529 333|0.42353 Charles|0.41176 Gibson|0.4 moderated|0.38824 both|0.37647 debates|0.36471 held|0.35294 at|0.34118 the|0.32941 Dana|0.31765 Center|0.30588 for|0.29412 the|0.28235 Humanities|0.27059 at|0.25882 Saint|0.24706 Anselm|0.23529 College|0.22353 Facebook|0.21176 users|0.2 took|0.18824 part|0.17647 in|0.16471 debate|0.15294 groups|0.14118 organized|0.12941 around|0.11765 specific|0.10588 topics|0.094118 register|0.082353 to|0.070588 vote|0.058824 and|0.047059 message|0.035294 questions|0.023529 334|0.011765 |0",
+			"previous_weights": " "
+		}
+	}
+}

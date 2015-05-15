@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f6ebd9e9d010349feb1df89496834a8567afebf2654a14790e1f57d187e5503",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ellen_Johnson-Sirleaf3.jpg/220px-Ellen_Johnson-Sirleaf3.jpg",
+			"previous": " ",
+			"after": " The government of Liberia modeled on the government of the United States is a unitary constitutional republic and representative democracy as established by the Constitution The government has three co equal branches of government the executive headed by the president the legislative consisting of the bicameral Legislature of Liberia and the judicial consisting of the Supreme Court and several lower courts ",
+			"after_weights": " The|1 government|0.98361 of|0.96721 Liberia|0.95082 modeled|0.93443 on|0.91803 the|0.90164 government|0.88525 of|0.86885 the|0.85246 United|0.83607 States|0.81967 is|0.80328 a|0.78689 unitary|0.77049 constitutional|0.7541 republic|0.7377 and|0.72131 representative|0.70492 democracy|0.68852 as|0.67213 established|0.65574 by|0.63934 the|0.62295 Constitution|0.60656 The|0.59016 government|0.57377 has|0.55738 three|0.54098 co|0.52459 equal|0.5082 branches|0.4918 of|0.47541 government|0.45902 the|0.44262 executive|0.42623 headed|0.40984 by|0.39344 the|0.37705 president|0.36066 the|0.34426 legislative|0.32787 consisting|0.31148 of|0.29508 the|0.27869 bicameral|0.2623 Legislature|0.2459 of|0.22951 Liberia|0.21311 and|0.19672 the|0.18033 judicial|0.16393 consisting|0.14754 of|0.13115 the|0.11475 Supreme|0.098361 Court|0.081967 and|0.065574 several|0.04918 lower|0.032787 courts|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

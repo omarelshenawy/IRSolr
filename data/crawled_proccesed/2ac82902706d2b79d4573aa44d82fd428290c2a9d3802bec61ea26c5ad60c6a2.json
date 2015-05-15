@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2ac82902706d2b79d4573aa44d82fd428290c2a9d3802bec61ea26c5ad60c6a2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bildhuggarkonst%2C_Sofokles%2C_Nordisk_familjebok.png/150px-Bildhuggarkonst%2C_Sofokles%2C_Nordisk_familjebok.png",
+			"previous": " ",
+			"after": " Starting in the 6th century BC the Classical period of performing art began in Greece ushered in by the tragic poets such as Sophocles These poets wrote plays which in some cases incorporated dance see Euripides The Hellenistic period began the widespread use of comedy ",
+			"after_weights": " Starting|1 in|0.97778 the|0.95556 6th|0.93333 century|0.91111 BC|0.88889 the|0.86667 Classical|0.84444 period|0.82222 of|0.8 performing|0.77778 art|0.75556 began|0.73333 in|0.71111 Greece|0.68889 ushered|0.66667 in|0.64444 by|0.62222 the|0.6 tragic|0.57778 poets|0.55556 such|0.53333 as|0.51111 Sophocles|0.48889 These|0.46667 poets|0.44444 wrote|0.42222 plays|0.4 which|0.37778 in|0.35556 some|0.33333 cases|0.31111 incorporated|0.28889 dance|0.26667 see|0.24444 Euripides|0.22222 The|0.2 Hellenistic|0.17778 period|0.15556 began|0.13333 the|0.11111 widespread|0.088889 use|0.066667 of|0.044444 comedy|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ce8f071224eb3ffca104ba7832e9a404f4b1e31987f7c310841b7c4770d205dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mollweide-projection.jpg/300px-Mollweide-projection.jpg",
+			"previous": " Topics common to the various branches of geography include ",
+			"after": " Geographic feature component of a planet that can be referred to as a location place site area or region and therefore may show up on a map A geographic feature may be natural or artificial ",
+			"after_weights": " Geographic|1 feature|0.97143 component|0.94286 of|0.91429 a|0.88571 planet|0.85714 that|0.82857 can|0.8 be|0.77143 referred|0.74286 to|0.71429 as|0.68571 a|0.65714 location|0.62857 place|0.6 site|0.57143 area|0.54286 or|0.51429 region|0.48571 and|0.45714 therefore|0.42857 may|0.4 show|0.37143 up|0.34286 on|0.31429 a|0.28571 map|0.25714 A|0.22857 geographic|0.2 feature|0.17143 may|0.14286 be|0.11429 natural|0.085714 or|0.057143 artificial|0.028571 |0",
+			"previous_weights": " Topics|0 common|0.11111 to|0.22222 the|0.33333 various|0.44444 branches|0.55556 of|0.66667 geography|0.77778 include|0.88889 |1"
+		}
+	}
+}

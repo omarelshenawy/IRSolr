@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2fe911aeb9c2e59282e1df11eb7f23f82c06d7454a109525693b400723a3cddb",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/CNET.svg/120px-CNET.svg.png",
+			"previous": " In 1998 CNET was sued by Snap Technologies operators of the education service CollegeEdge for trademark infringement relating to CNET s ownership of the domain name Snap com due to Snap Technologies already owning a trademark on its name 35 ",
+			"after": " In 2005 Google representatives refused to be interviewed by all CNET reporters for an entire year after CNET published Google s CEO Eric Schmidt s salary named the neighborhood where he lives some of his hobbies and political donations 36 All the information had been gleaned from Google searches 37 38 ",
+			"after_weights": " In|1 2005|0.98039 Google|0.96078 representatives|0.94118 refused|0.92157 to|0.90196 be|0.88235 interviewed|0.86275 by|0.84314 all|0.82353 CNET|0.80392 reporters|0.78431 for|0.76471 an|0.7451 entire|0.72549 year|0.70588 after|0.68627 CNET|0.66667 published|0.64706 Google|0.62745 s|0.60784 CEO|0.58824 Eric|0.56863 Schmidt|0.54902 s|0.52941 salary|0.5098 named|0.4902 the|0.47059 neighborhood|0.45098 where|0.43137 he|0.41176 lives|0.39216 some|0.37255 of|0.35294 his|0.33333 hobbies|0.31373 and|0.29412 political|0.27451 donations|0.2549 36|0.23529 All|0.21569 the|0.19608 information|0.17647 had|0.15686 been|0.13725 gleaned|0.11765 from|0.098039 Google|0.078431 searches|0.058824 37|0.039216 38|0.019608 |0",
+			"previous_weights": " In|0 1998|0.025 CNET|0.05 was|0.075 sued|0.1 by|0.125 Snap|0.15 Technologies|0.175 operators|0.2 of|0.225 the|0.25 education|0.275 service|0.3 CollegeEdge|0.325 for|0.35 trademark|0.375 infringement|0.4 relating|0.425 to|0.45 CNET|0.475 s|0.5 ownership|0.525 of|0.55 the|0.575 domain|0.6 name|0.625 Snap|0.65 com|0.675 due|0.7 to|0.725 Snap|0.75 Technologies|0.775 already|0.8 owning|0.825 a|0.85 trademark|0.875 on|0.9 its|0.925 name|0.95 35|0.975 |1"
+		}
+	}
+}

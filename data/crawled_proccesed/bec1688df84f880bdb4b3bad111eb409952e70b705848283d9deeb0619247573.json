@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "bec1688df84f880bdb4b3bad111eb409952e70b705848283d9deeb0619247573",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Entrance_hall_of_Uppsala_University_main_building.jpg/170px-Entrance_hall_of_Uppsala_University_main_building.jpg",
+			"previous": " ",
+			"after": " Children aged 1 5 years old are guaranteed a place in a public kindergarten Swedish f rskola or colloquially dagis Between the ages of 6 and 16 children attend compulsory comprehensive school In the Programme for International Student Assessment PISA Swedish 15 year old pupils score close to the OECD average 223 After completing the 9th grade about 90 of the students continue with a three year upper secondary school gymnasium which can lead to both a job qualification or entrance eligibility to university The school system is largely financed by taxes ",
+			"after_weights": " Children|1 aged|0.98913 1|0.97826 5|0.96739 years|0.95652 old|0.94565 are|0.93478 guaranteed|0.92391 a|0.91304 place|0.90217 in|0.8913 a|0.88043 public|0.86957 kindergarten|0.8587 Swedish|0.84783 f|0.83696 rskola|0.82609 or|0.81522 colloquially|0.80435 dagis|0.79348 Between|0.78261 the|0.77174 ages|0.76087 of|0.75 6|0.73913 and|0.72826 16|0.71739 children|0.70652 attend|0.69565 compulsory|0.68478 comprehensive|0.67391 school|0.66304 In|0.65217 the|0.6413 Programme|0.63043 for|0.61957 International|0.6087 Student|0.59783 Assessment|0.58696 PISA|0.57609 Swedish|0.56522 15|0.55435 year|0.54348 old|0.53261 pupils|0.52174 score|0.51087 close|0.5 to|0.48913 the|0.47826 OECD|0.46739 average|0.45652 223|0.44565 After|0.43478 completing|0.42391 the|0.41304 9th|0.40217 grade|0.3913 about|0.38043 90|0.36957 of|0.3587 the|0.34783 students|0.33696 continue|0.32609 with|0.31522 a|0.30435 three|0.29348 year|0.28261 upper|0.27174 secondary|0.26087 school|0.25 gymnasium|0.23913 which|0.22826 can|0.21739 lead|0.20652 to|0.19565 both|0.18478 a|0.17391 job|0.16304 qualification|0.15217 or|0.1413 entrance|0.13043 eligibility|0.11957 to|0.1087 university|0.097826 The|0.086957 school|0.076087 system|0.065217 is|0.054348 largely|0.043478 financed|0.032609 by|0.021739 taxes|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

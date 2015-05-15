@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1eca2f2b1b786f453fa69dfbd69641db45ac6ab5c70acb1b165a852b95835f9d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Einhard.jpg/220px-Einhard.jpg",
+			"previous": " ",
+			"after": " One of the earliest biographers was Plutarch and his Parallel Lives published about 80 A D covers prominent figures in the classical world In 44 B C Cornelius Nepos published a biographical work his Vitae Imperatorum Lives of Commanders 2 ",
+			"after_weights": " One|1 of|0.975 the|0.95 earliest|0.925 biographers|0.9 was|0.875 Plutarch|0.85 and|0.825 his|0.8 Parallel|0.775 Lives|0.75 published|0.725 about|0.7 80|0.675 A|0.65 D|0.625 covers|0.6 prominent|0.575 figures|0.55 in|0.525 the|0.5 classical|0.475 world|0.45 In|0.425 44|0.4 B|0.375 C|0.35 Cornelius|0.325 Nepos|0.3 published|0.275 a|0.25 biographical|0.225 work|0.2 his|0.175 Vitae|0.15 Imperatorum|0.125 Lives|0.1 of|0.075 Commanders|0.05 2|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

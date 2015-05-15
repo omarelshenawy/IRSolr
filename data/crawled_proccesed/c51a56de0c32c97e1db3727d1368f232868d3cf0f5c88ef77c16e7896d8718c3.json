@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c51a56de0c32c97e1db3727d1368f232868d3cf0f5c88ef77c16e7896d8718c3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vanuatu_demography.png/350px-Vanuatu_demography.png",
+			"previous": " ",
+			"after": " Vanuatu has a population of 221 506 15 Males outnumber females in 1999 according to the Vanuatu Statistics Office there were 95 682 males and 90 996 females The population is predominantly rural although Port Vila and Luganville have populations in the tens of thousands ",
+			"after_weights": " Vanuatu|1 has|0.97778 a|0.95556 population|0.93333 of|0.91111 221|0.88889 506|0.86667 15|0.84444 Males|0.82222 outnumber|0.8 females|0.77778 in|0.75556 1999|0.73333 according|0.71111 to|0.68889 the|0.66667 Vanuatu|0.64444 Statistics|0.62222 Office|0.6 there|0.57778 were|0.55556 95|0.53333 682|0.51111 males|0.48889 and|0.46667 90|0.44444 996|0.42222 females|0.4 The|0.37778 population|0.35556 is|0.33333 predominantly|0.31111 rural|0.28889 although|0.26667 Port|0.24444 Vila|0.22222 and|0.2 Luganville|0.17778 have|0.15556 populations|0.13333 in|0.11111 the|0.088889 tens|0.066667 of|0.044444 thousands|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

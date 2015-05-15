@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8895e303149ea376a171ab4edb31a17c6c1f7dec64392590c8b738e53ecc908a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/George_W._Bush_%26_Hosni_Mubarak.jpg/220px-George_W._Bush_%26_Hosni_Mubarak.jpg",
+			"previous": " ",
+			"after": " President Mubarak spoke out against the 2003 Iraq War arguing that the Israeli Palestinian conflict should have been resolved first He also said the war would cause 100 Bin Ladens 34 However as President he did not support an immediate US withdrawal from Iraq because he believed it would probably lead to chaos 35 ",
+			"after_weights": " President|1 Mubarak|0.98148 spoke|0.96296 out|0.94444 against|0.92593 the|0.90741 2003|0.88889 Iraq|0.87037 War|0.85185 arguing|0.83333 that|0.81481 the|0.7963 Israeli|0.77778 Palestinian|0.75926 conflict|0.74074 should|0.72222 have|0.7037 been|0.68519 resolved|0.66667 first|0.64815 He|0.62963 also|0.61111 said|0.59259 the|0.57407 war|0.55556 would|0.53704 cause|0.51852 100|0.5 Bin|0.48148 Ladens|0.46296 34|0.44444 However|0.42593 as|0.40741 President|0.38889 he|0.37037 did|0.35185 not|0.33333 support|0.31481 an|0.2963 immediate|0.27778 US|0.25926 withdrawal|0.24074 from|0.22222 Iraq|0.2037 because|0.18519 he|0.16667 believed|0.14815 it|0.12963 would|0.11111 probably|0.092593 lead|0.074074 to|0.055556 chaos|0.037037 35|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c2541aad90323528a5915bd095773dd7a88022b7a8abf3c59cc5516fb880d435",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hipp_hipp_hurra%21_Konstn%C3%A4rsfest_p%C3%A5_Skagen_-_Peder_Severin_Kr%C3%B8yer.jpg/220px-Hipp_hipp_hurra%21_Konstn%C3%A4rsfest_p%C3%A5_Skagen_-_Peder_Severin_Kr%C3%B8yer.jpg",
+			"previous": " The influence of the French Impressionists lasted long after most of them had died Artists like J D Kirszenbaum were borrowing Impressionist techniques throughout the 1900s ",
+			"after": " As the influence of Impressionism spread beyond France artists too numerous to list became identified as practitioners of the new style Some of the more important examples are ",
+			"after_weights": " As|1 the|0.96429 influence|0.92857 of|0.89286 Impressionism|0.85714 spread|0.82143 beyond|0.78571 France|0.75 artists|0.71429 too|0.67857 numerous|0.64286 to|0.60714 list|0.57143 became|0.53571 identified|0.5 as|0.46429 practitioners|0.42857 of|0.39286 the|0.35714 new|0.32143 style|0.28571 Some|0.25 of|0.21429 the|0.17857 more|0.14286 important|0.10714 examples|0.071429 are|0.035714 |0",
+			"previous_weights": " The|0 influence|0.038462 of|0.076923 the|0.11538 French|0.15385 Impressionists|0.19231 lasted|0.23077 long|0.26923 after|0.30769 most|0.34615 of|0.38462 them|0.42308 had|0.46154 died|0.5 Artists|0.53846 like|0.57692 J|0.61538 D|0.65385 Kirszenbaum|0.69231 were|0.73077 borrowing|0.76923 Impressionist|0.80769 techniques|0.84615 throughout|0.88462 the|0.92308 1900s|0.96154 |1"
+		}
+	}
+}

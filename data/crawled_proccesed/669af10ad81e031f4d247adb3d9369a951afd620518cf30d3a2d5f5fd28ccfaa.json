@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "669af10ad81e031f4d247adb3d9369a951afd620518cf30d3a2d5f5fd28ccfaa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CFD_Shuttle.jpg/225px-CFD_Shuttle.jpg",
+			"previous": " ",
+			"after": " As with all modern scientific and technological endeavors computers and software play an increasingly important role As well as the typical business application software there are a number of computer aided applications computer aided technologies specifically for engineering Computers can be used to generate models of fundamental physical processes which can be solved using numerical methods ",
+			"after_weights": " As|1 with|0.98214 all|0.96429 modern|0.94643 scientific|0.92857 and|0.91071 technological|0.89286 endeavors|0.875 computers|0.85714 and|0.83929 software|0.82143 play|0.80357 an|0.78571 increasingly|0.76786 important|0.75 role|0.73214 As|0.71429 well|0.69643 as|0.67857 the|0.66071 typical|0.64286 business|0.625 application|0.60714 software|0.58929 there|0.57143 are|0.55357 a|0.53571 number|0.51786 of|0.5 computer|0.48214 aided|0.46429 applications|0.44643 computer|0.42857 aided|0.41071 technologies|0.39286 specifically|0.375 for|0.35714 engineering|0.33929 Computers|0.32143 can|0.30357 be|0.28571 used|0.26786 to|0.25 generate|0.23214 models|0.21429 of|0.19643 fundamental|0.17857 physical|0.16071 processes|0.14286 which|0.125 can|0.10714 be|0.089286 solved|0.071429 using|0.053571 numerical|0.035714 methods|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

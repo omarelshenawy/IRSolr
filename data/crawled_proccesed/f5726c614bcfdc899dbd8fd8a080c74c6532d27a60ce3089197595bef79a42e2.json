@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f5726c614bcfdc899dbd8fd8a080c74c6532d27a60ce3089197595bef79a42e2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Malta-halfar-containers-nov2009.jpg/220px-Malta-halfar-containers-nov2009.jpg",
+			"previous": " There is one Muslim mosque A Muslim primary school recently opened its existence remains a point of some controversy Of the estimated 3 000 Muslims in Malta approximately 2 250 are foreigners approximately 600 are naturalised citizens and approximately 150 are native born Maltese 149 ",
+			"after": " As an EU member state and a party to the Schengen Agreement Malta applies the EU s visa policy This means that to enter the country  The estimated net inflow using data for 2002 to 2004 was of 1 913 persons yearly Over the last 10 years Malta accepted back a yearly average of 425 returning emigrants 132 ",
+			"after_weights": " As|1 an|0.98305 EU|0.9661 member|0.94915 state|0.9322 and|0.91525 a|0.89831 party|0.88136 to|0.86441 the|0.84746 Schengen|0.83051 Agreement|0.81356 Malta|0.79661 applies|0.77966 the|0.76271 EU|0.74576 s|0.72881 visa|0.71186 policy|0.69492 This|0.67797 means|0.66102 that|0.64407 to|0.62712 enter|0.61017 the|0.59322 country|0.57627 |0.55932 The|0.54237 estimated|0.52542 net|0.50847 inflow|0.49153 using|0.47458 data|0.45763 for|0.44068 2002|0.42373 to|0.40678 2004|0.38983 was|0.37288 of|0.35593 1|0.33898 913|0.32203 persons|0.30508 yearly|0.28814 Over|0.27119 the|0.25424 last|0.23729 10|0.22034 years|0.20339 Malta|0.18644 accepted|0.16949 back|0.15254 a|0.13559 yearly|0.11864 average|0.10169 of|0.084746 425|0.067797 returning|0.050847 emigrants|0.033898 132|0.016949 |0",
+			"previous_weights": " There|0 is|0.022222 one|0.044444 Muslim|0.066667 mosque|0.088889 A|0.11111 Muslim|0.13333 primary|0.15556 school|0.17778 recently|0.2 opened|0.22222 its|0.24444 existence|0.26667 remains|0.28889 a|0.31111 point|0.33333 of|0.35556 some|0.37778 controversy|0.4 Of|0.42222 the|0.44444 estimated|0.46667 3|0.48889 000|0.51111 Muslims|0.53333 in|0.55556 Malta|0.57778 approximately|0.6 2|0.62222 250|0.64444 are|0.66667 foreigners|0.68889 approximately|0.71111 600|0.73333 are|0.75556 naturalised|0.77778 citizens|0.8 and|0.82222 approximately|0.84444 150|0.86667 are|0.88889 native|0.91111 born|0.93333 Maltese|0.95556 149|0.97778 |1"
+		}
+	}
+}

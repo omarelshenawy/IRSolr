@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5b5e51ecf4ce89c78e80ccb424a1d0696db1d951030fc1e3fc9cd47937fefac9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BBKINGSignBealeStreet.JPG/220px-BBKINGSignBealeStreet.JPG",
+			"previous": " ",
+			"after": " In 1991 B B King s Blues Club opened on Beale Street in Memphis and in 1994 a second club was launched at Universal City Walk in Los Angeles A third club in New York City s Times Square opened in June 2000 Two further clubs opened at Foxwoods Casino in Connecticut in January 2002 70 and another in Nashville in 2003 71 Another club opened in Orlando in 2007 72 A club in West Palm Beach opened in the fall of 2009 73 and an additional one based in the Mirage Hotel Las Vegas opened in the winter of 2009 74 ",
+			"after_weights": " In|1 1991|0.9902 B|0.98039 B|0.97059 King|0.96078 s|0.95098 Blues|0.94118 Club|0.93137 opened|0.92157 on|0.91176 Beale|0.90196 Street|0.89216 in|0.88235 Memphis|0.87255 and|0.86275 in|0.85294 1994|0.84314 a|0.83333 second|0.82353 club|0.81373 was|0.80392 launched|0.79412 at|0.78431 Universal|0.77451 City|0.76471 Walk|0.7549 in|0.7451 Los|0.73529 Angeles|0.72549 A|0.71569 third|0.70588 club|0.69608 in|0.68627 New|0.67647 York|0.66667 City|0.65686 s|0.64706 Times|0.63725 Square|0.62745 opened|0.61765 in|0.60784 June|0.59804 2000|0.58824 Two|0.57843 further|0.56863 clubs|0.55882 opened|0.54902 at|0.53922 Foxwoods|0.52941 Casino|0.51961 in|0.5098 Connecticut|0.5 in|0.4902 January|0.48039 2002|0.47059 70|0.46078 and|0.45098 another|0.44118 in|0.43137 Nashville|0.42157 in|0.41176 2003|0.40196 71|0.39216 Another|0.38235 club|0.37255 opened|0.36275 in|0.35294 Orlando|0.34314 in|0.33333 2007|0.32353 72|0.31373 A|0.30392 club|0.29412 in|0.28431 West|0.27451 Palm|0.26471 Beach|0.2549 opened|0.2451 in|0.23529 the|0.22549 fall|0.21569 of|0.20588 2009|0.19608 73|0.18627 and|0.17647 an|0.16667 additional|0.15686 one|0.14706 based|0.13725 in|0.12745 the|0.11765 Mirage|0.10784 Hotel|0.098039 Las|0.088235 Vegas|0.078431 opened|0.068627 in|0.058824 the|0.04902 winter|0.039216 of|0.029412 2009|0.019608 74|0.0098039 |0",
+			"previous_weights": " "
+		}
+	}
+}

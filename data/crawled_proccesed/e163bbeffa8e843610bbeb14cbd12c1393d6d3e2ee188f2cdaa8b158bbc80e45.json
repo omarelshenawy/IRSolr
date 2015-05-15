@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e163bbeffa8e843610bbeb14cbd12c1393d6d3e2ee188f2cdaa8b158bbc80e45",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mary_Stevenson_Cassatt.jpg/220px-Mary_Stevenson_Cassatt.jpg",
+			"previous": " ",
+			"after": " Cassatt and Degas had a long period of collaboration The two had studios close together Cassatt at 19 rue Laval 48 52 51 N 2 20 18 E 48 8808 N 2 3384 E 48 8808 2 3384 Degas at 4 rue Frochot 48 52 52 N 2 20 16 E 48 8811 N 2 3377 E 48 8811 2 3377 41 less than a five minute stroll apart and Degas got into the habit of looking in at Cassat s studio and offering her advice and helping her get models 42 ",
+			"after_weights": " Cassatt|1 and|0.98913 Degas|0.97826 had|0.96739 a|0.95652 long|0.94565 period|0.93478 of|0.92391 collaboration|0.91304 The|0.90217 two|0.8913 had|0.88043 studios|0.86957 close|0.8587 together|0.84783 Cassatt|0.83696 at|0.82609 19|0.81522 rue|0.80435 Laval|0.79348 48|0.78261 52|0.77174 51|0.76087 N|0.75 2|0.73913 20|0.72826 18|0.71739 E|0.70652 48|0.69565 8808|0.68478 N|0.67391 2|0.66304 3384|0.65217 E|0.6413 48|0.63043 8808|0.61957 2|0.6087 3384|0.59783 Degas|0.58696 at|0.57609 4|0.56522 rue|0.55435 Frochot|0.54348 48|0.53261 52|0.52174 52|0.51087 N|0.5 2|0.48913 20|0.47826 16|0.46739 E|0.45652 48|0.44565 8811|0.43478 N|0.42391 2|0.41304 3377|0.40217 E|0.3913 48|0.38043 8811|0.36957 2|0.3587 3377|0.34783 41|0.33696 less|0.32609 than|0.31522 a|0.30435 five|0.29348 minute|0.28261 stroll|0.27174 apart|0.26087 and|0.25 Degas|0.23913 got|0.22826 into|0.21739 the|0.20652 habit|0.19565 of|0.18478 looking|0.17391 in|0.16304 at|0.15217 Cassat|0.1413 s|0.13043 studio|0.11957 and|0.1087 offering|0.097826 her|0.086957 advice|0.076087 and|0.065217 helping|0.054348 her|0.043478 get|0.032609 models|0.021739 42|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

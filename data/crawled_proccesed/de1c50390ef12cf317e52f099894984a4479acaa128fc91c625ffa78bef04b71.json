@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "de1c50390ef12cf317e52f099894984a4479acaa128fc91c625ffa78bef04b71",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rectified_Languages_of_Europe_map.png/300px-Rectified_Languages_of_Europe_map.png",
+			"previous": " ",
+			"after": " The languages of the European Union are languages used by people within the member states of the European Union They include the twenty four official languages of the European Union along with a range of others The EU asserts that it is in favour of linguistic diversity ",
+			"after_weights": " The|1 languages|0.97872 of|0.95745 the|0.93617 European|0.91489 Union|0.89362 are|0.87234 languages|0.85106 used|0.82979 by|0.80851 people|0.78723 within|0.76596 the|0.74468 member|0.7234 states|0.70213 of|0.68085 the|0.65957 European|0.6383 Union|0.61702 They|0.59574 include|0.57447 the|0.55319 twenty|0.53191 four|0.51064 official|0.48936 languages|0.46809 of|0.44681 the|0.42553 European|0.40426 Union|0.38298 along|0.3617 with|0.34043 a|0.31915 range|0.29787 of|0.2766 others|0.25532 The|0.23404 EU|0.21277 asserts|0.19149 that|0.17021 it|0.14894 is|0.12766 in|0.10638 favour|0.085106 of|0.06383 linguistic|0.042553 diversity|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

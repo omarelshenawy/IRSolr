@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "07b0df0c7fb6a66b05225c4d655a77228b6fa02a84e93fb530af6e9027512eb4",
+			"url": "https://upload.wikimedia.org/math/f/8/2/f82bae62876e9b80c006985e978a07c5.png",
+			"previous": " Letting P represent population size N is often used in ecology instead and t represent time this model is formalized by the differential equation ",
+			"after": " where the constant r defines the growth rate and K is the carrying capacity ",
+			"after_weights": " where|1 the|0.92857 constant|0.85714 r|0.78571 defines|0.71429 the|0.64286 growth|0.57143 rate|0.5 and|0.42857 K|0.35714 is|0.28571 the|0.21429 carrying|0.14286 capacity|0.071429 |0",
+			"previous_weights": " Letting|0 P|0.041667 represent|0.083333 population|0.125 size|0.16667 N|0.20833 is|0.25 often|0.29167 used|0.33333 in|0.375 ecology|0.41667 instead|0.45833 and|0.5 t|0.54167 represent|0.58333 time|0.625 this|0.66667 model|0.70833 is|0.75 formalized|0.79167 by|0.83333 the|0.875 differential|0.91667 equation|0.95833 |1"
+		}
+	}
+}

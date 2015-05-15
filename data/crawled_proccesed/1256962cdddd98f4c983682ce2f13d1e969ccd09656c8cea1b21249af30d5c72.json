@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1256962cdddd98f4c983682ce2f13d1e969ccd09656c8cea1b21249af30d5c72",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Population_density_map_of_Nigerian_states_-_English.png/450px-Population_density_map_of_Nigerian_states_-_English.png",
+			"previous": " ",
+			"after": " Population in Nigeria increased from 1990 to 2008 by 57 million a 60 growth rate 131 Almost half of the country s population is 14 years old or younger 132 Nigeria is the most populous country in Africa and accounts for about 18 of the continent s total population however exactly how populous is a subject of speculation 133 ",
+			"after_weights": " Population|1 in|0.98305 Nigeria|0.9661 increased|0.94915 from|0.9322 1990|0.91525 to|0.89831 2008|0.88136 by|0.86441 57|0.84746 million|0.83051 a|0.81356 60|0.79661 growth|0.77966 rate|0.76271 131|0.74576 Almost|0.72881 half|0.71186 of|0.69492 the|0.67797 country|0.66102 s|0.64407 population|0.62712 is|0.61017 14|0.59322 years|0.57627 old|0.55932 or|0.54237 younger|0.52542 132|0.50847 Nigeria|0.49153 is|0.47458 the|0.45763 most|0.44068 populous|0.42373 country|0.40678 in|0.38983 Africa|0.37288 and|0.35593 accounts|0.33898 for|0.32203 about|0.30508 18|0.28814 of|0.27119 the|0.25424 continent|0.23729 s|0.22034 total|0.20339 population|0.18644 however|0.16949 exactly|0.15254 how|0.13559 populous|0.11864 is|0.10169 a|0.084746 subject|0.067797 of|0.050847 speculation|0.033898 133|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

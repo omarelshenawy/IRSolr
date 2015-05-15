@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dbde892d7f2b95a31b674eb56963bdb5313a393e48416198ba381f0d43d0961",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Marathi_Wikipedia_banner_in_India_Wikiconference.jpg/220px-Marathi_Wikipedia_banner_in_India_Wikiconference.jpg",
+			"previous": " Marathi language Wikipedia peaked up growth from 2006 onwards On 13 January 2006 Marathi Wikipedia had 1500 articles ",
+			"after": " Marathi Daily news paper Maharashtra Times was the first to cover and recommend Marathi language Wikipedia on 27 July 2006 6 ",
+			"after_weights": " Marathi|1 Daily|0.95238 news|0.90476 paper|0.85714 Maharashtra|0.80952 Times|0.7619 was|0.71429 the|0.66667 first|0.61905 to|0.57143 cover|0.52381 and|0.47619 recommend|0.42857 Marathi|0.38095 language|0.33333 Wikipedia|0.28571 on|0.2381 27|0.19048 July|0.14286 2006|0.095238 6|0.047619 |0",
+			"previous_weights": " Marathi|0 language|0.055556 Wikipedia|0.11111 peaked|0.16667 up|0.22222 growth|0.27778 from|0.33333 2006|0.38889 onwards|0.44444 On|0.5 13|0.55556 January|0.61111 2006|0.66667 Marathi|0.72222 Wikipedia|0.77778 had|0.83333 1500|0.88889 articles|0.94444 |1"
+		}
+	}
+}

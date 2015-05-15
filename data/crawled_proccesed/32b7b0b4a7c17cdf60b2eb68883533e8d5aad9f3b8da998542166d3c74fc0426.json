@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "32b7b0b4a7c17cdf60b2eb68883533e8d5aad9f3b8da998542166d3c74fc0426",
+			"url": "https://upload.wikimedia.org/math/b/0/a/b0a666b01244b770e410318542265e18.png",
+			"previous": " total rooted trees and",
+			"after": " total unrooted trees where represents the number of leaf nodes Among labeled bifurcating trees the number of unrooted trees with leaves is equal to the number of rooted trees with leaves 4 ",
+			"after_weights": " total|1 unrooted|0.96875 trees|0.9375 where|0.90625 represents|0.875 the|0.84375 number|0.8125 of|0.78125 leaf|0.75 nodes|0.71875 Among|0.6875 labeled|0.65625 bifurcating|0.625 trees|0.59375 the|0.5625 number|0.53125 of|0.5 unrooted|0.46875 trees|0.4375 with|0.40625 leaves|0.375 is|0.34375 equal|0.3125 to|0.28125 the|0.25 number|0.21875 of|0.1875 rooted|0.15625 trees|0.125 with|0.09375 leaves|0.0625 4|0.03125 |0",
+			"previous_weights": " total|0 rooted|0.33333 trees|0.66667 and|1"
+		}
+	}
+}

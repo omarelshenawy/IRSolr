@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d06237de865a2d8008909f040adf8b95cdce2eb37c2aec1aef5d2a6436838e75",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wikipedia_Accountcreators.png/220px-Wikipedia_Accountcreators.png",
+			"previous": " ",
+			"after": " The account creator user right grants access to a tool which permits trusted Wikipedia contributors to make a large number of accounts for other people who request them  The userright alleviates removes restrictions in relation to creating new accounts The account creator permission removes the limit on the number of accounts that can be created with the Special CreateAccount tool in a 24 hour period currently 6 and also to use this tool to create usernames similar to those of pre existing accounts as the override antispoof permission allows them to override anti spoof checks on account creation ",
+			"after_weights": " The|1 account|0.9899 creator|0.9798 user|0.9697 right|0.9596 grants|0.94949 access|0.93939 to|0.92929 a|0.91919 tool|0.90909 which|0.89899 permits|0.88889 trusted|0.87879 Wikipedia|0.86869 contributors|0.85859 to|0.84848 make|0.83838 a|0.82828 large|0.81818 number|0.80808 of|0.79798 accounts|0.78788 for|0.77778 other|0.76768 people|0.75758 who|0.74747 request|0.73737 them|0.72727 |0.71717 The|0.70707 userright|0.69697 alleviates|0.68687 removes|0.67677 restrictions|0.66667 in|0.65657 relation|0.64646 to|0.63636 creating|0.62626 new|0.61616 accounts|0.60606 The|0.59596 account|0.58586 creator|0.57576 permission|0.56566 removes|0.55556 the|0.54545 limit|0.53535 on|0.52525 the|0.51515 number|0.50505 of|0.49495 accounts|0.48485 that|0.47475 can|0.46465 be|0.45455 created|0.44444 with|0.43434 the|0.42424 Special|0.41414 CreateAccount|0.40404 tool|0.39394 in|0.38384 a|0.37374 24|0.36364 hour|0.35354 period|0.34343 currently|0.33333 6|0.32323 and|0.31313 also|0.30303 to|0.29293 use|0.28283 this|0.27273 tool|0.26263 to|0.25253 create|0.24242 usernames|0.23232 similar|0.22222 to|0.21212 those|0.20202 of|0.19192 pre|0.18182 existing|0.17172 accounts|0.16162 as|0.15152 the|0.14141 override|0.13131 antispoof|0.12121 permission|0.11111 allows|0.10101 them|0.090909 to|0.080808 override|0.070707 anti|0.060606 spoof|0.050505 checks|0.040404 on|0.030303 account|0.020202 creation|0.010101 |0",
+			"previous_weights": " "
+		}
+	}
+}

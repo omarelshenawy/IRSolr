@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0151fabcc9caba818ffa1f351922465ba75ac3b60088fa0a9371f17742f6342a",
+			"url": "https://upload.wikimedia.org/math/2/9/b/29b5c6c0f0b78acca08cf5cf1dbc6ce8.png",
+			"previous": " The difference equation For a nonlinear variation of this growth model see logistic function  so that",
+			"after": " has solution showing that x experiences exponential growth  In the long run exponential growth of any kind will overtake linear growth of any kind the basis of the Malthusian catastrophe as well as any polynomial growth i e for all ",
+			"after_weights": " has|1 solution|0.97561 showing|0.95122 that|0.92683 x|0.90244 experiences|0.87805 exponential|0.85366 growth|0.82927 |0.80488 In|0.78049 the|0.7561 long|0.73171 run|0.70732 exponential|0.68293 growth|0.65854 of|0.63415 any|0.60976 kind|0.58537 will|0.56098 overtake|0.53659 linear|0.5122 growth|0.4878 of|0.46341 any|0.43902 kind|0.41463 the|0.39024 basis|0.36585 of|0.34146 the|0.31707 Malthusian|0.29268 catastrophe|0.26829 as|0.2439 well|0.21951 as|0.19512 any|0.17073 polynomial|0.14634 growth|0.12195 i|0.097561 e|0.073171 for|0.04878 all|0.02439 |0",
+			"previous_weights": " The|0 difference|0.0625 equation|0.125 For|0.1875 a|0.25 nonlinear|0.3125 variation|0.375 of|0.4375 this|0.5 growth|0.5625 model|0.625 see|0.6875 logistic|0.75 function|0.8125 |0.875 so|0.9375 that|1"
+		}
+	}
+}

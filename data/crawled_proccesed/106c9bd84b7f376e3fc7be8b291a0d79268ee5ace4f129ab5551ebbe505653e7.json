@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "106c9bd84b7f376e3fc7be8b291a0d79268ee5ace4f129ab5551ebbe505653e7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/7/76/Wapedia.jpg",
+			"previous": " ",
+			"after": " Wapedia was a mobile version of Wikipedia It was started in August 2004 by Florian Amrhein and shut down on 4 November 2013 It was operated by Taptu 1  Wapedia was originally a Wireless Application Protocol WAP site for use on mobile phones of the very early 2000s The URL for Wapedia was http wapedia mobi which was one of the early examples of a mobi website 2 ",
+			"after_weights": " Wapedia|1 was|0.98551 a|0.97101 mobile|0.95652 version|0.94203 of|0.92754 Wikipedia|0.91304 It|0.89855 was|0.88406 started|0.86957 in|0.85507 August|0.84058 2004|0.82609 by|0.81159 Florian|0.7971 Amrhein|0.78261 and|0.76812 shut|0.75362 down|0.73913 on|0.72464 4|0.71014 November|0.69565 2013|0.68116 It|0.66667 was|0.65217 operated|0.63768 by|0.62319 Taptu|0.6087 1|0.5942 |0.57971 Wapedia|0.56522 was|0.55072 originally|0.53623 a|0.52174 Wireless|0.50725 Application|0.49275 Protocol|0.47826 WAP|0.46377 site|0.44928 for|0.43478 use|0.42029 on|0.4058 mobile|0.3913 phones|0.37681 of|0.36232 the|0.34783 very|0.33333 early|0.31884 2000s|0.30435 The|0.28986 URL|0.27536 for|0.26087 Wapedia|0.24638 was|0.23188 http|0.21739 wapedia|0.2029 mobi|0.18841 which|0.17391 was|0.15942 one|0.14493 of|0.13043 the|0.11594 early|0.10145 examples|0.086957 of|0.072464 a|0.057971 mobi|0.043478 website|0.028986 2|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

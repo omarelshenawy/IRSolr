@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2467977ba3865d76ad60ba0baf8f58f3e39e5614bc5bc2ee7e1f375eac4ec53b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wikimedia_Foundation_Offices_in_San_Francisco.webm/220px--Wikimedia_Foundation_Offices_in_San_Francisco.webm.jpg",
+			"previous": " ",
+			"after": " In 2004 the foundation appointed Tim Starling as developer liaison to help improve the MediaWiki software Daniel Mayer as chief financial officer finance budgeting and coordination of fund drives and Erik M ller as content partnership coordinator In May 2005 the foundation announced seven more official appointments 81 better source needed ",
+			"after_weights": " In|1 2004|0.98039 the|0.96078 foundation|0.94118 appointed|0.92157 Tim|0.90196 Starling|0.88235 as|0.86275 developer|0.84314 liaison|0.82353 to|0.80392 help|0.78431 improve|0.76471 the|0.7451 MediaWiki|0.72549 software|0.70588 Daniel|0.68627 Mayer|0.66667 as|0.64706 chief|0.62745 financial|0.60784 officer|0.58824 finance|0.56863 budgeting|0.54902 and|0.52941 coordination|0.5098 of|0.4902 fund|0.47059 drives|0.45098 and|0.43137 Erik|0.41176 M|0.39216 ller|0.37255 as|0.35294 content|0.33333 partnership|0.31373 coordinator|0.29412 In|0.27451 May|0.2549 2005|0.23529 the|0.21569 foundation|0.19608 announced|0.17647 seven|0.15686 more|0.13725 official|0.11765 appointments|0.098039 81|0.078431 better|0.058824 source|0.039216 needed|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

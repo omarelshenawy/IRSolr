@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7759f621d8d531d9252edb9357c67761a1f5a93f732b05310a0b98a5a5720c6c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vandalised_glass_cage.jpg/300px-Vandalised_glass_cage.jpg",
+			"previous": " ",
+			"after": " Vandalism is action involving deliberate destruction of or damage to public or private property 1  The term also includes criminal damage such as graffiti and defacement directed towards any property without permission of the owner The term finds its roots in an Enlightenment view that the Germanic Vandals were a uniquely destructive people ",
+			"after_weights": " Vandalism|1 is|0.98148 action|0.96296 involving|0.94444 deliberate|0.92593 destruction|0.90741 of|0.88889 or|0.87037 damage|0.85185 to|0.83333 public|0.81481 or|0.7963 private|0.77778 property|0.75926 1|0.74074 |0.72222 The|0.7037 term|0.68519 also|0.66667 includes|0.64815 criminal|0.62963 damage|0.61111 such|0.59259 as|0.57407 graffiti|0.55556 and|0.53704 defacement|0.51852 directed|0.5 towards|0.48148 any|0.46296 property|0.44444 without|0.42593 permission|0.40741 of|0.38889 the|0.37037 owner|0.35185 The|0.33333 term|0.31481 finds|0.2963 its|0.27778 roots|0.25926 in|0.24074 an|0.22222 Enlightenment|0.2037 view|0.18519 that|0.16667 the|0.14815 Germanic|0.12963 Vandals|0.11111 were|0.092593 a|0.074074 uniquely|0.055556 destructive|0.037037 people|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

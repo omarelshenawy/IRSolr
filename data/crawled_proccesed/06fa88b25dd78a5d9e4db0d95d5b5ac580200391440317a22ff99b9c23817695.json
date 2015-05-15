@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "06fa88b25dd78a5d9e4db0d95d5b5ac580200391440317a22ff99b9c23817695",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Geoservices_server_with_apps.png/347px-Geoservices_server_with_apps.png",
+			"previous": " GIS products are broken down by the OGC into two categories based on how completely and accurately the software follows the OGC specifications ",
+			"after": " Compliant Products are software products that comply to OGC s OpenGIS Specifications When a product has been tested and certified as compliant through the OGC Testing Program the product is automatically registered as compliant on this site ",
+			"after_weights": " Compliant|1 Products|0.97297 are|0.94595 software|0.91892 products|0.89189 that|0.86486 comply|0.83784 to|0.81081 OGC|0.78378 s|0.75676 OpenGIS|0.72973 Specifications|0.7027 When|0.67568 a|0.64865 product|0.62162 has|0.59459 been|0.56757 tested|0.54054 and|0.51351 certified|0.48649 as|0.45946 compliant|0.43243 through|0.40541 the|0.37838 OGC|0.35135 Testing|0.32432 Program|0.2973 the|0.27027 product|0.24324 is|0.21622 automatically|0.18919 registered|0.16216 as|0.13514 compliant|0.10811 on|0.081081 this|0.054054 site|0.027027 |0",
+			"previous_weights": " GIS|0 products|0.043478 are|0.086957 broken|0.13043 down|0.17391 by|0.21739 the|0.26087 OGC|0.30435 into|0.34783 two|0.3913 categories|0.43478 based|0.47826 on|0.52174 how|0.56522 completely|0.6087 and|0.65217 accurately|0.69565 the|0.73913 software|0.78261 follows|0.82609 the|0.86957 OGC|0.91304 specifications|0.95652 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d9162e3c5cae16cf6651fae896ce73b371c75f90d99f8217c1d44ac54e105ba6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Marshallese_Rito_Fans.jpg/220px-Marshallese_Rito_Fans.jpg",
+			"previous": " The Marshall Islands have several AM and FM radio stations  In 2005 Aloha Airlines canceled its flight services to the Marshall Islands ",
+			"after": " Although the ancient skills are now in decline the Marshallese were once able navigators using the stars and stick and shell charts ",
+			"after_weights": " Although|1 the|0.95455 ancient|0.90909 skills|0.86364 are|0.81818 now|0.77273 in|0.72727 decline|0.68182 the|0.63636 Marshallese|0.59091 were|0.54545 once|0.5 able|0.45455 navigators|0.40909 using|0.36364 the|0.31818 stars|0.27273 and|0.22727 stick|0.18182 and|0.13636 shell|0.090909 charts|0.045455 |0",
+			"previous_weights": " The|0 Marshall|0.043478 Islands|0.086957 have|0.13043 several|0.17391 AM|0.21739 and|0.26087 FM|0.30435 radio|0.34783 stations|0.3913 |0.43478 In|0.47826 2005|0.52174 Aloha|0.56522 Airlines|0.6087 canceled|0.65217 its|0.69565 flight|0.73913 services|0.78261 to|0.82609 the|0.86957 Marshall|0.91304 Islands|0.95652 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6112504589cfd614aeed19507e8fbb9db9f891663ef12f1553fb25e6334ba887",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vera_Stravinsky_by_Serge_Sudeikine.jpg/170px-Vera_Stravinsky_by_Serge_Sudeikine.jpg",
+			"previous": " Patronage was never far away In the early 1920s Leopold Stokowski gave Stravinsky regular support through a pseudonymous benefactor 47 ",
+			"after": " Stravinsky met Vera de Bosset in Paris in February 1921 48 while she was married to the painter and stage designer Serge Sudeikin and they began an affair that led to Vera leaving her husband 49 ",
+			"after_weights": " Stravinsky|1 met|0.97222 Vera|0.94444 de|0.91667 Bosset|0.88889 in|0.86111 Paris|0.83333 in|0.80556 February|0.77778 1921|0.75 48|0.72222 while|0.69444 she|0.66667 was|0.63889 married|0.61111 to|0.58333 the|0.55556 painter|0.52778 and|0.5 stage|0.47222 designer|0.44444 Serge|0.41667 Sudeikin|0.38889 and|0.36111 they|0.33333 began|0.30556 an|0.27778 affair|0.25 that|0.22222 led|0.19444 to|0.16667 Vera|0.13889 leaving|0.11111 her|0.083333 husband|0.055556 49|0.027778 |0",
+			"previous_weights": " Patronage|0 was|0.05 never|0.1 far|0.15 away|0.2 In|0.25 the|0.3 early|0.35 1920s|0.4 Leopold|0.45 Stokowski|0.5 gave|0.55 Stravinsky|0.6 regular|0.65 support|0.7 through|0.75 a|0.8 pseudonymous|0.85 benefactor|0.9 47|0.95 |1"
+		}
+	}
+}

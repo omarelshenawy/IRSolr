@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5dcabcaaf762a4a42cef5b0df88ddfabe8ff98db47660e6b9997101a6a915978",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Russian_Wikipedia_%E2%80%93_Most_popular_edition_of_Wikipedia_by_country_%E2%80%93_Wikimedia_Traffic_Analysis_Report_%E2%80%93_1_Jul_2009-31_Oct_2013.svg/220px-Russian_Wikipedia_%E2%80%93_Most_popular_edition_of_Wikipedia_by_country_%E2%80%93_Wikimedia_Traffic_Analysis_Report_%E2%80%93_1_Jul_2009-31_Oct_2013.svg.png",
+			"previous": " The Russian Wikipedia was created on 20 May 2001 in the first wave of non English Wikipedias along with editions in Catalan Chinese Dutch German Esperanto French Hebrew Italian Japanese Portuguese Spanish and Swedish ",
+			"after": " The first edit of the Russian Wikipedia was on 24 May 2001 and consisted of the line Russia is a great nation The following edit changed it to the joke Russia is the motherland of elephants big eared improved cross country capability see Mammoth 6 ",
+			"after_weights": " The|1 first|0.97778 edit|0.95556 of|0.93333 the|0.91111 Russian|0.88889 Wikipedia|0.86667 was|0.84444 on|0.82222 24|0.8 May|0.77778 2001|0.75556 and|0.73333 consisted|0.71111 of|0.68889 the|0.66667 line|0.64444 Russia|0.62222 is|0.6 a|0.57778 great|0.55556 nation|0.53333 The|0.51111 following|0.48889 edit|0.46667 changed|0.44444 it|0.42222 to|0.4 the|0.37778 joke|0.35556 Russia|0.33333 is|0.31111 the|0.28889 motherland|0.26667 of|0.24444 elephants|0.22222 big|0.2 eared|0.17778 improved|0.15556 cross|0.13333 country|0.11111 capability|0.088889 see|0.066667 Mammoth|0.044444 6|0.022222 |0",
+			"previous_weights": " The|0 Russian|0.029412 Wikipedia|0.058824 was|0.088235 created|0.11765 on|0.14706 20|0.17647 May|0.20588 2001|0.23529 in|0.26471 the|0.29412 first|0.32353 wave|0.35294 of|0.38235 non|0.41176 English|0.44118 Wikipedias|0.47059 along|0.5 with|0.52941 editions|0.55882 in|0.58824 Catalan|0.61765 Chinese|0.64706 Dutch|0.67647 German|0.70588 Esperanto|0.73529 French|0.76471 Hebrew|0.79412 Italian|0.82353 Japanese|0.85294 Portuguese|0.88235 Spanish|0.91176 and|0.94118 Swedish|0.97059 |1"
+		}
+	}
+}

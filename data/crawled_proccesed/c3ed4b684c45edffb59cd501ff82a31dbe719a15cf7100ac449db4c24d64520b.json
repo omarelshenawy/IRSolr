@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "c3ed4b684c45edffb59cd501ff82a31dbe719a15cf7100ac449db4c24d64520b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maastricht%2C_Fort_Willem%2C_MSV_Tragos4.jpg/261px-Maastricht%2C_Fort_Willem%2C_MSV_Tragos4.jpg",
+			"previous": " ",
+			"after": " In 2013 nearly 16 000 students studied at Maastricht University 47 of whom were foreign Students in Maastricht can affiliate with a number of student associations international associations or debating societies They present themselves during the annual INKOM the general introduction week for new Maastricht students Furthermore Maastricht offers several cultural and sports activities in and around the city ",
+			"after_weights": " In|1 2013|0.98305 nearly|0.9661 16|0.94915 000|0.9322 students|0.91525 studied|0.89831 at|0.88136 Maastricht|0.86441 University|0.84746 47|0.83051 of|0.81356 whom|0.79661 were|0.77966 foreign|0.76271 Students|0.74576 in|0.72881 Maastricht|0.71186 can|0.69492 affiliate|0.67797 with|0.66102 a|0.64407 number|0.62712 of|0.61017 student|0.59322 associations|0.57627 international|0.55932 associations|0.54237 or|0.52542 debating|0.50847 societies|0.49153 They|0.47458 present|0.45763 themselves|0.44068 during|0.42373 the|0.40678 annual|0.38983 INKOM|0.37288 the|0.35593 general|0.33898 introduction|0.32203 week|0.30508 for|0.28814 new|0.27119 Maastricht|0.25424 students|0.23729 Furthermore|0.22034 Maastricht|0.20339 offers|0.18644 several|0.16949 cultural|0.15254 and|0.13559 sports|0.11864 activities|0.10169 in|0.084746 and|0.067797 around|0.050847 the|0.033898 city|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

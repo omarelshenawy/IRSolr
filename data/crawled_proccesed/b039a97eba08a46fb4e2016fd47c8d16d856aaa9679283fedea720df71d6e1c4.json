@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b039a97eba08a46fb4e2016fd47c8d16d856aaa9679283fedea720df71d6e1c4",
+			"url": "https://upload.wikimedia.org/math/b/4/3/b43cb2dbb709c4932e8dd8b9b0c491fe.png",
+			"previous": " Recall is the fraction of the documents that are relevant to the query that are successfully retrieved ",
+			"after": " In binary classification recall is often called sensitivity So it can be looked at as the probability that a relevant document is retrieved by the query ",
+			"after_weights": " In|1 binary|0.96154 classification|0.92308 recall|0.88462 is|0.84615 often|0.80769 called|0.76923 sensitivity|0.73077 So|0.69231 it|0.65385 can|0.61538 be|0.57692 looked|0.53846 at|0.5 as|0.46154 the|0.42308 probability|0.38462 that|0.34615 a|0.30769 relevant|0.26923 document|0.23077 is|0.19231 retrieved|0.15385 by|0.11538 the|0.076923 query|0.038462 |0",
+			"previous_weights": " Recall|0 is|0.058824 the|0.11765 fraction|0.17647 of|0.23529 the|0.29412 documents|0.35294 that|0.41176 are|0.47059 relevant|0.52941 to|0.58824 the|0.64706 query|0.70588 that|0.76471 are|0.82353 successfully|0.88235 retrieved|0.94118 |1"
+		}
+	}
+}

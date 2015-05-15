@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "50810c2fde2f5c03916f7b4c65c1cbab62f109f6c6cc80e5ed83ea274aa91272",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/MIT_2006_Standard_Prechamp_Final_2.jpg/267px-MIT_2006_Standard_Prechamp_Final_2.jpg",
+			"previous": " ",
+			"after": " A dance competition is an organized event in which contestants perform dances before a judge or judges for awards and in some cases monetary prizes There are several major types of dance competitions distinguished primarily by the style or styles of dances performed Major types of dance competitions include ",
+			"after_weights": " A|1 dance|0.97959 competition|0.95918 is|0.93878 an|0.91837 organized|0.89796 event|0.87755 in|0.85714 which|0.83673 contestants|0.81633 perform|0.79592 dances|0.77551 before|0.7551 a|0.73469 judge|0.71429 or|0.69388 judges|0.67347 for|0.65306 awards|0.63265 and|0.61224 in|0.59184 some|0.57143 cases|0.55102 monetary|0.53061 prizes|0.5102 There|0.4898 are|0.46939 several|0.44898 major|0.42857 types|0.40816 of|0.38776 dance|0.36735 competitions|0.34694 distinguished|0.32653 primarily|0.30612 by|0.28571 the|0.26531 style|0.2449 or|0.22449 styles|0.20408 of|0.18367 dances|0.16327 performed|0.14286 Major|0.12245 types|0.10204 of|0.081633 dance|0.061224 competitions|0.040816 include|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

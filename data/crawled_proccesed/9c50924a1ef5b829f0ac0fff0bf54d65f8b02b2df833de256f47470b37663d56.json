@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c50924a1ef5b829f0ac0fff0bf54d65f8b02b2df833de256f47470b37663d56",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Palacio_de_las_Artes_e_Industrias_%28Madrid%29_01.jpg/250px-Palacio_de_las_Artes_e_Industrias_%28Madrid%29_01.jpg",
+			"previous": " The Museum of the Americas Museo de Am rica is a National museum that holds artistic archaeological and ethnographic collections from the whole American continent ranging from the Paleolithic period to the present day The permanent exhibit is divided into five major thematical areas an awareness of America the reality of America society religion and communication 85 ",
+			"after": " The National Museum of Natural Sciences Museo Nacional de Ciencias Naturales is the National Museum of Natural History of Spain The research departments of the museum are Biodiversity and Evolutionary Biology Evolutionary Ecology Paleobiology Vulcanology and Geology 86 ",
+			"after_weights": " The|1 National|0.97368 Museum|0.94737 of|0.92105 Natural|0.89474 Sciences|0.86842 Museo|0.84211 Nacional|0.81579 de|0.78947 Ciencias|0.76316 Naturales|0.73684 is|0.71053 the|0.68421 National|0.65789 Museum|0.63158 of|0.60526 Natural|0.57895 History|0.55263 of|0.52632 Spain|0.5 The|0.47368 research|0.44737 departments|0.42105 of|0.39474 the|0.36842 museum|0.34211 are|0.31579 Biodiversity|0.28947 and|0.26316 Evolutionary|0.23684 Biology|0.21053 Evolutionary|0.18421 Ecology|0.15789 Paleobiology|0.13158 Vulcanology|0.10526 and|0.078947 Geology|0.052632 86|0.026316 |0",
+			"previous_weights": " The|0 Museum|0.017544 of|0.035088 the|0.052632 Americas|0.070175 Museo|0.087719 de|0.10526 Am|0.12281 rica|0.14035 is|0.15789 a|0.17544 National|0.19298 museum|0.21053 that|0.22807 holds|0.24561 artistic|0.26316 archaeological|0.2807 and|0.29825 ethnographic|0.31579 collections|0.33333 from|0.35088 the|0.36842 whole|0.38596 American|0.40351 continent|0.42105 ranging|0.4386 from|0.45614 the|0.47368 Paleolithic|0.49123 period|0.50877 to|0.52632 the|0.54386 present|0.5614 day|0.57895 The|0.59649 permanent|0.61404 exhibit|0.63158 is|0.64912 divided|0.66667 into|0.68421 five|0.70175 major|0.7193 thematical|0.73684 areas|0.75439 an|0.77193 awareness|0.78947 of|0.80702 America|0.82456 the|0.84211 reality|0.85965 of|0.87719 America|0.89474 society|0.91228 religion|0.92982 and|0.94737 communication|0.96491 85|0.98246 |1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a86b4de24ec93e59e1e0f233c9018dd207121c60bf68fbb3b9dec5892d155e0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Knowledge_of_Spanish_in_European_Union.svg/220px-Knowledge_of_Spanish_in_European_Union.svg.png",
+			"previous": " ",
+			"after": " In Europe Spanish is an official language of Spain the country after which it is named and from which it originated It is widely spoken in Gibraltar although English is the official international language 38 It is also commonly spoken in Andorra although Catalan is the official language 39 ",
+			"after_weights": " In|1 Europe|0.97959 Spanish|0.95918 is|0.93878 an|0.91837 official|0.89796 language|0.87755 of|0.85714 Spain|0.83673 the|0.81633 country|0.79592 after|0.77551 which|0.7551 it|0.73469 is|0.71429 named|0.69388 and|0.67347 from|0.65306 which|0.63265 it|0.61224 originated|0.59184 It|0.57143 is|0.55102 widely|0.53061 spoken|0.5102 in|0.4898 Gibraltar|0.46939 although|0.44898 English|0.42857 is|0.40816 the|0.38776 official|0.36735 international|0.34694 language|0.32653 38|0.30612 It|0.28571 is|0.26531 also|0.2449 commonly|0.22449 spoken|0.20408 in|0.18367 Andorra|0.16327 although|0.14286 Catalan|0.12245 is|0.10204 the|0.081633 official|0.061224 language|0.040816 39|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

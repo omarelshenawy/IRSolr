@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f4591fe3850f86617402f631a6bf69a31c32c319f1ecab6a77f4c3da180c2b1f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtrak_California.JPG/220px-Amtrak_California.JPG",
+			"previous": " ",
+			"after": " Amtrak s loyalty program Guest Rewards 85 is similar to the frequent flyer programs of many airlines Guest Rewards members accumulate points by riding Amtrak and through other activities and can redeem these points for free or discounted Amtrak tickets and other rewards ",
+			"after_weights": " Amtrak|1 s|0.97674 loyalty|0.95349 program|0.93023 Guest|0.90698 Rewards|0.88372 85|0.86047 is|0.83721 similar|0.81395 to|0.7907 the|0.76744 frequent|0.74419 flyer|0.72093 programs|0.69767 of|0.67442 many|0.65116 airlines|0.62791 Guest|0.60465 Rewards|0.5814 members|0.55814 accumulate|0.53488 points|0.51163 by|0.48837 riding|0.46512 Amtrak|0.44186 and|0.4186 through|0.39535 other|0.37209 activities|0.34884 and|0.32558 can|0.30233 redeem|0.27907 these|0.25581 points|0.23256 for|0.2093 free|0.18605 or|0.16279 discounted|0.13953 Amtrak|0.11628 tickets|0.093023 and|0.069767 other|0.046512 rewards|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

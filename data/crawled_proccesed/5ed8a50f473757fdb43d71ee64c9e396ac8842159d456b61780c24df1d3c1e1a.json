@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5ed8a50f473757fdb43d71ee64c9e396ac8842159d456b61780c24df1d3c1e1a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/University_of_South_Pacific%2C_Kiribati_Campus.jpg/220px-University_of_South_Pacific%2C_Kiribati_Campus.jpg",
+			"previous": " ",
+			"after": " Primary education is free and compulsory for the first six years now being extended to nine years Mission schools are slowly being absorbed into the government primary school system Higher education is expanding students may seek technical teacher or marine training or study in other countries To date most choosing to do the latter have gone to Fiji to attend University of South Pacific and those wishing to complete medical training have been sent to Cuba 86 ",
+			"after_weights": " Primary|1 education|0.98701 is|0.97403 free|0.96104 and|0.94805 compulsory|0.93506 for|0.92208 the|0.90909 first|0.8961 six|0.88312 years|0.87013 now|0.85714 being|0.84416 extended|0.83117 to|0.81818 nine|0.80519 years|0.79221 Mission|0.77922 schools|0.76623 are|0.75325 slowly|0.74026 being|0.72727 absorbed|0.71429 into|0.7013 the|0.68831 government|0.67532 primary|0.66234 school|0.64935 system|0.63636 Higher|0.62338 education|0.61039 is|0.5974 expanding|0.58442 students|0.57143 may|0.55844 seek|0.54545 technical|0.53247 teacher|0.51948 or|0.50649 marine|0.49351 training|0.48052 or|0.46753 study|0.45455 in|0.44156 other|0.42857 countries|0.41558 To|0.4026 date|0.38961 most|0.37662 choosing|0.36364 to|0.35065 do|0.33766 the|0.32468 latter|0.31169 have|0.2987 gone|0.28571 to|0.27273 Fiji|0.25974 to|0.24675 attend|0.23377 University|0.22078 of|0.20779 South|0.19481 Pacific|0.18182 and|0.16883 those|0.15584 wishing|0.14286 to|0.12987 complete|0.11688 medical|0.1039 training|0.090909 have|0.077922 been|0.064935 sent|0.051948 to|0.038961 Cuba|0.025974 86|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

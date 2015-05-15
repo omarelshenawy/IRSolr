@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ede381a25b47bf71ad77bc19576738b27b2c0f967143ba514f438ca3dd2770a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Political_world2.jpg/300px-Political_world2.jpg",
+			"previous": " Geography is the study of earth and its people 1  The following outline is provided as an overview of and topical guide to geography ",
+			"after": " Etymology of geography from Greek geographia lit earth describe write 3 ",
+			"after_weights": " Etymology|1 of|0.90909 geography|0.81818 from|0.72727 Greek|0.63636 geographia|0.54545 lit|0.45455 earth|0.36364 describe|0.27273 write|0.18182 3|0.090909 |0",
+			"previous_weights": " Geography|0 is|0.04 the|0.08 study|0.12 of|0.16 earth|0.2 and|0.24 its|0.28 people|0.32 1|0.36 |0.4 The|0.44 following|0.48 outline|0.52 is|0.56 provided|0.6 as|0.64 an|0.68 overview|0.72 of|0.76 and|0.8 topical|0.84 guide|0.88 to|0.92 geography|0.96 |1"
+		}
+	}
+}

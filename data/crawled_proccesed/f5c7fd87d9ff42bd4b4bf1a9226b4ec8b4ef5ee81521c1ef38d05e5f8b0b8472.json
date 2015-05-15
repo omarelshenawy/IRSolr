@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f5c7fd87d9ff42bd4b4bf1a9226b4ec8b4ef5ee81521c1ef38d05e5f8b0b8472",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/FalconHeightsBGSU.jpg/220px-FalconHeightsBGSU.jpg",
+			"previous": " ",
+			"after": " During the 1990s the university renovated and constructed many buildings The BGSU Fine Arts Center received a 9 8 million addition in the early 1990s Founders Hall was reopened in 1994 after extensive renovations at a cost of 15 million That same year BGSU opened Olscamp Hall East Hall opened in 1998 All residence halls received wiring for Ethernet connections 48 ",
+			"after_weights": " During|1 the|0.98361 1990s|0.96721 the|0.95082 university|0.93443 renovated|0.91803 and|0.90164 constructed|0.88525 many|0.86885 buildings|0.85246 The|0.83607 BGSU|0.81967 Fine|0.80328 Arts|0.78689 Center|0.77049 received|0.7541 a|0.7377 9|0.72131 8|0.70492 million|0.68852 addition|0.67213 in|0.65574 the|0.63934 early|0.62295 1990s|0.60656 Founders|0.59016 Hall|0.57377 was|0.55738 reopened|0.54098 in|0.52459 1994|0.5082 after|0.4918 extensive|0.47541 renovations|0.45902 at|0.44262 a|0.42623 cost|0.40984 of|0.39344 15|0.37705 million|0.36066 That|0.34426 same|0.32787 year|0.31148 BGSU|0.29508 opened|0.27869 Olscamp|0.2623 Hall|0.2459 East|0.22951 Hall|0.21311 opened|0.19672 in|0.18033 1998|0.16393 All|0.14754 residence|0.13115 halls|0.11475 received|0.098361 wiring|0.081967 for|0.065574 Ethernet|0.04918 connections|0.032787 48|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

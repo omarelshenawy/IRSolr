@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e39233970a4a07b0ec9127e3ac7e299b8ab3635a2e7fcd58e7e6ce8558223ac",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Earthquake_Leads_Office_Evacuation_-_Bengal_Intelligent_Park_-_Sector-V_-_Salt_Lake_City_-_Kolkata_2015-05-12_7092.JPG/170px-Earthquake_Leads_Office_Evacuation_-_Bengal_Intelligent_Park_-_Sector-V_-_Salt_Lake_City_-_Kolkata_2015-05-12_7092.JPG",
+			"previous": " ",
+			"after": " The aftershock caused mass panic as many people were living in the open air after the 25 April quake 12 For the first seconds it was complete silence By the fifth second everybody started to scream said an eyewitness It was really really intense Even when the shaking stopped people were still screaming 11 The tremor caused fresh landslides and destroyed some buildings which survived the first quake 11 ",
+			"after_weights": " The|1 aftershock|0.98551 caused|0.97101 mass|0.95652 panic|0.94203 as|0.92754 many|0.91304 people|0.89855 were|0.88406 living|0.86957 in|0.85507 the|0.84058 open|0.82609 air|0.81159 after|0.7971 the|0.78261 25|0.76812 April|0.75362 quake|0.73913 12|0.72464 For|0.71014 the|0.69565 first|0.68116 seconds|0.66667 it|0.65217 was|0.63768 complete|0.62319 silence|0.6087 By|0.5942 the|0.57971 fifth|0.56522 second|0.55072 everybody|0.53623 started|0.52174 to|0.50725 scream|0.49275 said|0.47826 an|0.46377 eyewitness|0.44928 It|0.43478 was|0.42029 really|0.4058 really|0.3913 intense|0.37681 Even|0.36232 when|0.34783 the|0.33333 shaking|0.31884 stopped|0.30435 people|0.28986 were|0.27536 still|0.26087 screaming|0.24638 11|0.23188 The|0.21739 tremor|0.2029 caused|0.18841 fresh|0.17391 landslides|0.15942 and|0.14493 destroyed|0.13043 some|0.11594 buildings|0.10145 which|0.086957 survived|0.072464 the|0.057971 first|0.043478 quake|0.028986 11|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

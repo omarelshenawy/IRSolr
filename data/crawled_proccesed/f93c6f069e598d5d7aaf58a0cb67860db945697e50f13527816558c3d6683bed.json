@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f93c6f069e598d5d7aaf58a0cb67860db945697e50f13527816558c3d6683bed",
+			"url": "https://upload.wikimedia.org/math/a/a/f/aaf1f1c47dc24d0dfe99f3a3d3f42c07.png",
+			"previous": " The proportion of non relevant documents that are retrieved out of all non relevant documents available  It is trivial to achieve recall of 100 by returning all documents in response to any query Therefore recall alone is not enough but one needs to measure the number of non relevant documents also for example by computing the precision ",
+			"after": " It is trivial to achieve fall out of 0 by returning zero documents in response to any query  The weighted harmonic mean of precision and recall the traditional F measure or balanced F score is ",
+			"after_weights": " It|1 is|0.97222 trivial|0.94444 to|0.91667 achieve|0.88889 fall|0.86111 out|0.83333 of|0.80556 0|0.77778 by|0.75 returning|0.72222 zero|0.69444 documents|0.66667 in|0.63889 response|0.61111 to|0.58333 any|0.55556 query|0.52778 |0.5 The|0.47222 weighted|0.44444 harmonic|0.41667 mean|0.38889 of|0.36111 precision|0.33333 and|0.30556 recall|0.27778 the|0.25 traditional|0.22222 F|0.19444 measure|0.16667 or|0.13889 balanced|0.11111 F|0.083333 score|0.055556 is|0.027778 |0",
+			"previous_weights": " The|0 proportion|0.017241 of|0.034483 non|0.051724 relevant|0.068966 documents|0.086207 that|0.10345 are|0.12069 retrieved|0.13793 out|0.15517 of|0.17241 all|0.18966 non|0.2069 relevant|0.22414 documents|0.24138 available|0.25862 |0.27586 It|0.2931 is|0.31034 trivial|0.32759 to|0.34483 achieve|0.36207 recall|0.37931 of|0.39655 100|0.41379 by|0.43103 returning|0.44828 all|0.46552 documents|0.48276 in|0.5 response|0.51724 to|0.53448 any|0.55172 query|0.56897 Therefore|0.58621 recall|0.60345 alone|0.62069 is|0.63793 not|0.65517 enough|0.67241 but|0.68966 one|0.7069 needs|0.72414 to|0.74138 measure|0.75862 the|0.77586 number|0.7931 of|0.81034 non|0.82759 relevant|0.84483 documents|0.86207 also|0.87931 for|0.89655 example|0.91379 by|0.93103 computing|0.94828 the|0.96552 precision|0.98276 |1"
+		}
+	}
+}

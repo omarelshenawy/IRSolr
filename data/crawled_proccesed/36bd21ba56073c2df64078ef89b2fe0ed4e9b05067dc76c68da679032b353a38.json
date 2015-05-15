@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "36bd21ba56073c2df64078ef89b2fe0ed4e9b05067dc76c68da679032b353a38",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions%2C_picked_out_of_his_books%2C_crowded_into_his_imagination%22.jpg/300px-thumbnail.jpg",
+			"previous": " ",
+			"after": " Don Quixote is a Spanish novel by Miguel de Cervantes Saavedra Widely considered one of the greatest works of fiction ever published it follows the adventures of Alonso Quijano an hidalgo who reads so many chivalric novels that he decides to set out to revive chivalry under the name Don Quixote This illustration depicts Quijano before he begins his quest ",
+			"after_weights": " Don|1 Quixote|0.98333 is|0.96667 a|0.95 Spanish|0.93333 novel|0.91667 by|0.9 Miguel|0.88333 de|0.86667 Cervantes|0.85 Saavedra|0.83333 Widely|0.81667 considered|0.8 one|0.78333 of|0.76667 the|0.75 greatest|0.73333 works|0.71667 of|0.7 fiction|0.68333 ever|0.66667 published|0.65 it|0.63333 follows|0.61667 the|0.6 adventures|0.58333 of|0.56667 Alonso|0.55 Quijano|0.53333 an|0.51667 hidalgo|0.5 who|0.48333 reads|0.46667 so|0.45 many|0.43333 chivalric|0.41667 novels|0.4 that|0.38333 he|0.36667 decides|0.35 to|0.33333 set|0.31667 out|0.3 to|0.28333 revive|0.26667 chivalry|0.25 under|0.23333 the|0.21667 name|0.2 Don|0.18333 Quixote|0.16667 This|0.15 illustration|0.13333 depicts|0.11667 Quijano|0.1 before|0.083333 he|0.066667 begins|0.05 his|0.033333 quest|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

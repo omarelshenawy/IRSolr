@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "53db9fe72842b88c13caf3c256726ff7fcd6d0de8ce80d4c2259e013902f5d2e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Widener_Library%2C_Harvard_University%2C_Cambridge_MA.jpg/220px-Widener_Library%2C_Harvard_University%2C_Cambridge_MA.jpg",
+			"previous": " Harvard is a founding member of the Association of American Universities 94 and remains a research university with very high research activity and a comprehensive doctoral program across the arts sciences engineering and medicine 19 Research and development expenditures in 2011 totaled 649 7 million 27th among American universities 95 ",
+			"after": " The Harvard University Library System is centered in Widener Library in Harvard Yard and comprises nearly 80 individual libraries holding over 18 million volumes 21 22 According to the American Library Association this makes it the largest academic library in the United States and one of the largest in the world 22 ",
+			"after_weights": " The|1 Harvard|0.98077 University|0.96154 Library|0.94231 System|0.92308 is|0.90385 centered|0.88462 in|0.86538 Widener|0.84615 Library|0.82692 in|0.80769 Harvard|0.78846 Yard|0.76923 and|0.75 comprises|0.73077 nearly|0.71154 80|0.69231 individual|0.67308 libraries|0.65385 holding|0.63462 over|0.61538 18|0.59615 million|0.57692 volumes|0.55769 21|0.53846 22|0.51923 According|0.5 to|0.48077 the|0.46154 American|0.44231 Library|0.42308 Association|0.40385 this|0.38462 makes|0.36538 it|0.34615 the|0.32692 largest|0.30769 academic|0.28846 library|0.26923 in|0.25 the|0.23077 United|0.21154 States|0.19231 and|0.17308 one|0.15385 of|0.13462 the|0.11538 largest|0.096154 in|0.076923 the|0.057692 world|0.038462 22|0.019231 |0",
+			"previous_weights": " Harvard|0 is|0.02 a|0.04 founding|0.06 member|0.08 of|0.1 the|0.12 Association|0.14 of|0.16 American|0.18 Universities|0.2 94|0.22 and|0.24 remains|0.26 a|0.28 research|0.3 university|0.32 with|0.34 very|0.36 high|0.38 research|0.4 activity|0.42 and|0.44 a|0.46 comprehensive|0.48 doctoral|0.5 program|0.52 across|0.54 the|0.56 arts|0.58 sciences|0.6 engineering|0.62 and|0.64 medicine|0.66 19|0.68 Research|0.7 and|0.72 development|0.74 expenditures|0.76 in|0.78 2011|0.8 totaled|0.82 649|0.84 7|0.86 million|0.88 27th|0.9 among|0.92 American|0.94 universities|0.96 95|0.98 |1"
+		}
+	}
+}

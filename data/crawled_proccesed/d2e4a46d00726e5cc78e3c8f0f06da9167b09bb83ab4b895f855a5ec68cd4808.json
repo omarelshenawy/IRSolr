@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d2e4a46d00726e5cc78e3c8f0f06da9167b09bb83ab4b895f855a5ec68cd4808",
+			"url": "https://upload.wikimedia.org/math/8/b/1/8b1b133388ee1376b8b0496939cba3e3.png",
+			"previous": " which leads to the generalised least squares version of the Gauss Markov theorem Chiles Delfiner 1999 p 159  The Kriging error is given by  The interpolation by simple Kriging is given by ",
+			"after": "  Cressie 1993 Chiles Delfiner 1999 Wackernagel 1995 ",
+			"after_weights": " |1 Cressie|0.875 1993|0.75 Chiles|0.625 Delfiner|0.5 1999|0.375 Wackernagel|0.25 1995|0.125 |0",
+			"previous_weights": " which|0 leads|0.029412 to|0.058824 the|0.088235 generalised|0.11765 least|0.14706 squares|0.17647 version|0.20588 of|0.23529 the|0.26471 Gauss|0.29412 Markov|0.32353 theorem|0.35294 Chiles|0.38235 Delfiner|0.41176 1999|0.44118 p|0.47059 159|0.5 |0.52941 The|0.55882 Kriging|0.58824 error|0.61765 is|0.64706 given|0.67647 by|0.70588 |0.73529 The|0.76471 interpolation|0.79412 by|0.82353 simple|0.85294 Kriging|0.88235 is|0.91176 given|0.94118 by|0.97059 |1"
+		}
+	}
+}

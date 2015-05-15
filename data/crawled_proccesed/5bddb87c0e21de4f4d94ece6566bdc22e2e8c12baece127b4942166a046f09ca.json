@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5bddb87c0e21de4f4d94ece6566bdc22e2e8c12baece127b4942166a046f09ca",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Print_vs._bytes.jpg/220px-Print_vs._bytes.jpg",
+			"previous": " ",
+			"after": " CD ROM capacities are normally expressed with binary prefixes subtracting the space used for error correction data A standard 120 mm 700 MB CD ROM can actually hold about 737 MB 703 MiB of data with error correction or 847 MB total In comparison a single layer DVD ROM can hold 4 7 GB of error protected data more than 6 CD ROMs ",
+			"after_weights": " CD|1 ROM|0.98413 capacities|0.96825 are|0.95238 normally|0.93651 expressed|0.92063 with|0.90476 binary|0.88889 prefixes|0.87302 subtracting|0.85714 the|0.84127 space|0.8254 used|0.80952 for|0.79365 error|0.77778 correction|0.7619 data|0.74603 A|0.73016 standard|0.71429 120|0.69841 mm|0.68254 700|0.66667 MB|0.65079 CD|0.63492 ROM|0.61905 can|0.60317 actually|0.5873 hold|0.57143 about|0.55556 737|0.53968 MB|0.52381 703|0.50794 MiB|0.49206 of|0.47619 data|0.46032 with|0.44444 error|0.42857 correction|0.4127 or|0.39683 847|0.38095 MB|0.36508 total|0.34921 In|0.33333 comparison|0.31746 a|0.30159 single|0.28571 layer|0.26984 DVD|0.25397 ROM|0.2381 can|0.22222 hold|0.20635 4|0.19048 7|0.1746 GB|0.15873 of|0.14286 error|0.12698 protected|0.11111 data|0.095238 more|0.079365 than|0.063492 6|0.047619 CD|0.031746 ROMs|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

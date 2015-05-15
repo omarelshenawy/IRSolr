@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e3685d6c09269b545653bea86026273f12069992af51bb0b0bb133b9fb9b67d1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Direktorium_LDE.jpg/250px-Direktorium_LDE.jpg",
+			"previous": " ",
+			"after": " A board of directors is a body of elected or appointed members who jointly oversee the activities of a company or organization Other names include board of governors board of managers board of regents board of trustees and board of visitors It is often simply referred to as the board ",
+			"after_weights": " A|1 board|0.98 of|0.96 directors|0.94 is|0.92 a|0.9 body|0.88 of|0.86 elected|0.84 or|0.82 appointed|0.8 members|0.78 who|0.76 jointly|0.74 oversee|0.72 the|0.7 activities|0.68 of|0.66 a|0.64 company|0.62 or|0.6 organization|0.58 Other|0.56 names|0.54 include|0.52 board|0.5 of|0.48 governors|0.46 board|0.44 of|0.42 managers|0.4 board|0.38 of|0.36 regents|0.34 board|0.32 of|0.3 trustees|0.28 and|0.26 board|0.24 of|0.22 visitors|0.2 It|0.18 is|0.16 often|0.14 simply|0.12 referred|0.1 to|0.08 as|0.06 the|0.04 board|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

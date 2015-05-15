@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e63443ca651cc72bac392f8d77fe52fea58607439194a3dc7017605b6db2f34",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MediaWiki_1.24.1_database_schema.svg/300px-MediaWiki_1.24.1_database_schema.svg.png",
+			"previous": " ",
+			"after": " MediaWiki can use either the MySQL MariaDB PostgreSQL or SQLite relational database management system There is limited support for Oracle Database 129 A MediaWiki database contains several dozen tables including a page table that contains page titles page ids and other metadata 130 and a revision table to which is added a new row every time an edit is made containing the page id a brief textual summary of the change performed the user name of the article editor or its IP address the case of an unregistered user and a timestamp 131 132 ",
+			"after_weights": " MediaWiki|1 can|0.98936 use|0.97872 either|0.96809 the|0.95745 MySQL|0.94681 MariaDB|0.93617 PostgreSQL|0.92553 or|0.91489 SQLite|0.90426 relational|0.89362 database|0.88298 management|0.87234 system|0.8617 There|0.85106 is|0.84043 limited|0.82979 support|0.81915 for|0.80851 Oracle|0.79787 Database|0.78723 129|0.7766 A|0.76596 MediaWiki|0.75532 database|0.74468 contains|0.73404 several|0.7234 dozen|0.71277 tables|0.70213 including|0.69149 a|0.68085 page|0.67021 table|0.65957 that|0.64894 contains|0.6383 page|0.62766 titles|0.61702 page|0.60638 ids|0.59574 and|0.58511 other|0.57447 metadata|0.56383 130|0.55319 and|0.54255 a|0.53191 revision|0.52128 table|0.51064 to|0.5 which|0.48936 is|0.47872 added|0.46809 a|0.45745 new|0.44681 row|0.43617 every|0.42553 time|0.41489 an|0.40426 edit|0.39362 is|0.38298 made|0.37234 containing|0.3617 the|0.35106 page|0.34043 id|0.32979 a|0.31915 brief|0.30851 textual|0.29787 summary|0.28723 of|0.2766 the|0.26596 change|0.25532 performed|0.24468 the|0.23404 user|0.2234 name|0.21277 of|0.20213 the|0.19149 article|0.18085 editor|0.17021 or|0.15957 its|0.14894 IP|0.1383 address|0.12766 the|0.11702 case|0.10638 of|0.095745 an|0.085106 unregistered|0.074468 user|0.06383 and|0.053191 a|0.042553 timestamp|0.031915 131|0.021277 132|0.010638 |0",
+			"previous_weights": " "
+		}
+	}
+}

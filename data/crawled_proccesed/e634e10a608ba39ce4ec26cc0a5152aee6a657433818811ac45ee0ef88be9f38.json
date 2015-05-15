@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e634e10a608ba39ce4ec26cc0a5152aee6a657433818811ac45ee0ef88be9f38",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/220px-Harbour_Town_July_2007.jpg",
+			"previous": " ",
+			"after": " Tourism dominates the economy in much of the Lowcountry Among the attractions are resorts historic and cultural sites and natural features including Hunting Island State Park Edisto State Park and other local state and federally protected or preserved lands and wetlands ",
+			"after_weights": " Tourism|1 dominates|0.97561 the|0.95122 economy|0.92683 in|0.90244 much|0.87805 of|0.85366 the|0.82927 Lowcountry|0.80488 Among|0.78049 the|0.7561 attractions|0.73171 are|0.70732 resorts|0.68293 historic|0.65854 and|0.63415 cultural|0.60976 sites|0.58537 and|0.56098 natural|0.53659 features|0.5122 including|0.4878 Hunting|0.46341 Island|0.43902 State|0.41463 Park|0.39024 Edisto|0.36585 State|0.34146 Park|0.31707 and|0.29268 other|0.26829 local|0.2439 state|0.21951 and|0.19512 federally|0.17073 protected|0.14634 or|0.12195 preserved|0.097561 lands|0.073171 and|0.04878 wetlands|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

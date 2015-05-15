@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "a3217257790905a086f1c1c9116b31942eee5a7f198dc04b579598d5dcc36758",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Poonsaan1v2.jpg/220px-Poonsaan1v2.jpg",
+			"previous": " Daniel Beeckman made the next recorded visit chronicled in his 1718 book A Voyage to and from the Island of Borneo in the East Indies ",
+			"after": " The first attempt at exploring the island was in 1857 by the crew of the Amethyst They tried to reach the summit of the island but found the cliffs impassable ",
+			"after_weights": " The|1 first|0.96667 attempt|0.93333 at|0.9 exploring|0.86667 the|0.83333 island|0.8 was|0.76667 in|0.73333 1857|0.7 by|0.66667 the|0.63333 crew|0.6 of|0.56667 the|0.53333 Amethyst|0.5 They|0.46667 tried|0.43333 to|0.4 reach|0.36667 the|0.33333 summit|0.3 of|0.26667 the|0.23333 island|0.2 but|0.16667 found|0.13333 the|0.1 cliffs|0.066667 impassable|0.033333 |0",
+			"previous_weights": " Daniel|0 Beeckman|0.04 made|0.08 the|0.12 next|0.16 recorded|0.2 visit|0.24 chronicled|0.28 in|0.32 his|0.36 1718|0.4 book|0.44 A|0.48 Voyage|0.52 to|0.56 and|0.6 from|0.64 the|0.68 Island|0.72 of|0.76 Borneo|0.8 in|0.84 the|0.88 East|0.92 Indies|0.96 |1"
+		}
+	}
+}

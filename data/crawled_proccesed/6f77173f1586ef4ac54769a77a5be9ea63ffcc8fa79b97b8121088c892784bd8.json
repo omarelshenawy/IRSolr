@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f77173f1586ef4ac54769a77a5be9ea63ffcc8fa79b97b8121088c892784bd8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BB_King_pick.jpg",
+			"previous": " ",
+			"after": " Years reflect the year in which the Grammy was awarded for music released in the previous year  King was given a Grammy Lifetime Achievement Award in 1987 101  A Grammy Hall of Fame Award was given to The Thrill is Gone in 1998 an award given to recordings that are at least 25 years old and that have qualitative or historical significance 102 ",
+			"after_weights": " Years|1 reflect|0.98462 the|0.96923 year|0.95385 in|0.93846 which|0.92308 the|0.90769 Grammy|0.89231 was|0.87692 awarded|0.86154 for|0.84615 music|0.83077 released|0.81538 in|0.8 the|0.78462 previous|0.76923 year|0.75385 |0.73846 King|0.72308 was|0.70769 given|0.69231 a|0.67692 Grammy|0.66154 Lifetime|0.64615 Achievement|0.63077 Award|0.61538 in|0.6 1987|0.58462 101|0.56923 |0.55385 A|0.53846 Grammy|0.52308 Hall|0.50769 of|0.49231 Fame|0.47692 Award|0.46154 was|0.44615 given|0.43077 to|0.41538 The|0.4 Thrill|0.38462 is|0.36923 Gone|0.35385 in|0.33846 1998|0.32308 an|0.30769 award|0.29231 given|0.27692 to|0.26154 recordings|0.24615 that|0.23077 are|0.21538 at|0.2 least|0.18462 25|0.16923 years|0.15385 old|0.13846 and|0.12308 that|0.10769 have|0.092308 qualitative|0.076923 or|0.061538 historical|0.046154 significance|0.030769 102|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

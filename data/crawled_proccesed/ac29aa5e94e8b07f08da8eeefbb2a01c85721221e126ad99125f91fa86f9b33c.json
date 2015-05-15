@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ac29aa5e94e8b07f08da8eeefbb2a01c85721221e126ad99125f91fa86f9b33c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Susan-b-anthony-house.jpg/220px-Susan-b-anthony-house.jpg",
+			"previous": " ",
+			"after": " Having lived for years in hotels and with friends and relatives Anthony agreed to settle into her sister Mary Stafford Anthony s house in Rochester in 1891 at the age of 71 136 Her energy and stamina which sometimes exhausted her co workers continued at a remarkable level At age 75 she toured Yosemite National Park on the back of a mule 137 ",
+			"after_weights": " Having|1 lived|0.98413 for|0.96825 years|0.95238 in|0.93651 hotels|0.92063 and|0.90476 with|0.88889 friends|0.87302 and|0.85714 relatives|0.84127 Anthony|0.8254 agreed|0.80952 to|0.79365 settle|0.77778 into|0.7619 her|0.74603 sister|0.73016 Mary|0.71429 Stafford|0.69841 Anthony|0.68254 s|0.66667 house|0.65079 in|0.63492 Rochester|0.61905 in|0.60317 1891|0.5873 at|0.57143 the|0.55556 age|0.53968 of|0.52381 71|0.50794 136|0.49206 Her|0.47619 energy|0.46032 and|0.44444 stamina|0.42857 which|0.4127 sometimes|0.39683 exhausted|0.38095 her|0.36508 co|0.34921 workers|0.33333 continued|0.31746 at|0.30159 a|0.28571 remarkable|0.26984 level|0.25397 At|0.2381 age|0.22222 75|0.20635 she|0.19048 toured|0.1746 Yosemite|0.15873 National|0.14286 Park|0.12698 on|0.11111 the|0.095238 back|0.079365 of|0.063492 a|0.047619 mule|0.031746 137|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

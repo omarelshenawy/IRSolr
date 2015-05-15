@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f0f4e7d162453b74ee3ad53b4d0e10486921a2f24809fcb8644d791df95b5dc2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Conlangflag.svg/250px-Conlangflag.svg.png",
+			"previous": " ",
+			"after": " A planned or constructed language sometimes called a conlang is a language whose phonology grammar and vocabulary have been consciously devised for human or human like communication instead of having developed naturally It is also referred to as an artificial or invented language 2 There are many possible reasons to create a constructed language such as to ease human communication see international auxiliary language and code to give fiction or an associated constructed world an added layer of realism for experimentation in the fields of linguistics cognitive science and machine learning for artistic creation and for language games ",
+			"after_weights": " A|1 planned|0.9898 or|0.97959 constructed|0.96939 language|0.95918 sometimes|0.94898 called|0.93878 a|0.92857 conlang|0.91837 is|0.90816 a|0.89796 language|0.88776 whose|0.87755 phonology|0.86735 grammar|0.85714 and|0.84694 vocabulary|0.83673 have|0.82653 been|0.81633 consciously|0.80612 devised|0.79592 for|0.78571 human|0.77551 or|0.76531 human|0.7551 like|0.7449 communication|0.73469 instead|0.72449 of|0.71429 having|0.70408 developed|0.69388 naturally|0.68367 It|0.67347 is|0.66327 also|0.65306 referred|0.64286 to|0.63265 as|0.62245 an|0.61224 artificial|0.60204 or|0.59184 invented|0.58163 language|0.57143 2|0.56122 There|0.55102 are|0.54082 many|0.53061 possible|0.52041 reasons|0.5102 to|0.5 create|0.4898 a|0.47959 constructed|0.46939 language|0.45918 such|0.44898 as|0.43878 to|0.42857 ease|0.41837 human|0.40816 communication|0.39796 see|0.38776 international|0.37755 auxiliary|0.36735 language|0.35714 and|0.34694 code|0.33673 to|0.32653 give|0.31633 fiction|0.30612 or|0.29592 an|0.28571 associated|0.27551 constructed|0.26531 world|0.2551 an|0.2449 added|0.23469 layer|0.22449 of|0.21429 realism|0.20408 for|0.19388 experimentation|0.18367 in|0.17347 the|0.16327 fields|0.15306 of|0.14286 linguistics|0.13265 cognitive|0.12245 science|0.11224 and|0.10204 machine|0.091837 learning|0.081633 for|0.071429 artistic|0.061224 creation|0.05102 and|0.040816 for|0.030612 language|0.020408 games|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

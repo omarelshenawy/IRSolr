@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e1af2310ff6aefd27fb08bfbd138c6721060c9a605ca2ffadb3969db9549d6a2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MC_Chris.jpg/220px-MC_Chris.jpg",
+			"previous": " ",
+			"after": " Two feature length documentaries about the world of nerdcore hip hop were completed in early 2008 Nerdcore Rising and Nerdcore For Life Nerdcore Rising directed by New York filmmakers Negin Farsad and Kimmy Gatewood follows nerdcore pioneer MC Frontalot as he embarked on his first US tour in 2006 11 Nerdcore For Life by Chicago director Dan Lamoureux examines the genre as a whole and contains appearances by over three dozen of the best known performers in the scene 12 ",
+			"after_weights": " Two|1 feature|0.9875 length|0.975 documentaries|0.9625 about|0.95 the|0.9375 world|0.925 of|0.9125 nerdcore|0.9 hip|0.8875 hop|0.875 were|0.8625 completed|0.85 in|0.8375 early|0.825 2008|0.8125 Nerdcore|0.8 Rising|0.7875 and|0.775 Nerdcore|0.7625 For|0.75 Life|0.7375 Nerdcore|0.725 Rising|0.7125 directed|0.7 by|0.6875 New|0.675 York|0.6625 filmmakers|0.65 Negin|0.6375 Farsad|0.625 and|0.6125 Kimmy|0.6 Gatewood|0.5875 follows|0.575 nerdcore|0.5625 pioneer|0.55 MC|0.5375 Frontalot|0.525 as|0.5125 he|0.5 embarked|0.4875 on|0.475 his|0.4625 first|0.45 US|0.4375 tour|0.425 in|0.4125 2006|0.4 11|0.3875 Nerdcore|0.375 For|0.3625 Life|0.35 by|0.3375 Chicago|0.325 director|0.3125 Dan|0.3 Lamoureux|0.2875 examines|0.275 the|0.2625 genre|0.25 as|0.2375 a|0.225 whole|0.2125 and|0.2 contains|0.1875 appearances|0.175 by|0.1625 over|0.15 three|0.1375 dozen|0.125 of|0.1125 the|0.1 best|0.0875 known|0.075 performers|0.0625 in|0.05 the|0.0375 scene|0.025 12|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

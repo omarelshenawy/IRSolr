@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "e9f6f5d4949fd95be993ab99939db3a435227d15e44e9b79c4032524e6af08e2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Woodward_light_bulb.JPG/220px-Woodward_light_bulb.JPG",
+			"previous": " ",
+			"after": " Patent trolls are neither using nor marketing the inventions covered by their patents but instead plan to make money by threatening or filing lawsuits 70 Using the justice system to make money gives patent trolls a financial advantage because patent troll plaintiffs are typically immune from defense strategies large business employ against legitimate smaller patent plaintiffs e g litigation costs are significantly higher for the defendant infringer than for a purported damaged plaintiff who has a no recovery no fee contingency fee lawyer trolls have an almost unrestricted ability to choose plaintiff friendly forums frequently the Eastern District of Texas 40 ",
+			"after_weights": " Patent|1 trolls|0.9901 are|0.9802 neither|0.9703 using|0.9604 nor|0.9505 marketing|0.94059 the|0.93069 inventions|0.92079 covered|0.91089 by|0.90099 their|0.89109 patents|0.88119 but|0.87129 instead|0.86139 plan|0.85149 to|0.84158 make|0.83168 money|0.82178 by|0.81188 threatening|0.80198 or|0.79208 filing|0.78218 lawsuits|0.77228 70|0.76238 Using|0.75248 the|0.74257 justice|0.73267 system|0.72277 to|0.71287 make|0.70297 money|0.69307 gives|0.68317 patent|0.67327 trolls|0.66337 a|0.65347 financial|0.64356 advantage|0.63366 because|0.62376 patent|0.61386 troll|0.60396 plaintiffs|0.59406 are|0.58416 typically|0.57426 immune|0.56436 from|0.55446 defense|0.54455 strategies|0.53465 large|0.52475 business|0.51485 employ|0.50495 against|0.49505 legitimate|0.48515 smaller|0.47525 patent|0.46535 plaintiffs|0.45545 e|0.44554 g|0.43564 litigation|0.42574 costs|0.41584 are|0.40594 significantly|0.39604 higher|0.38614 for|0.37624 the|0.36634 defendant|0.35644 infringer|0.34653 than|0.33663 for|0.32673 a|0.31683 purported|0.30693 damaged|0.29703 plaintiff|0.28713 who|0.27723 has|0.26733 a|0.25743 no|0.24752 recovery|0.23762 no|0.22772 fee|0.21782 contingency|0.20792 fee|0.19802 lawyer|0.18812 trolls|0.17822 have|0.16832 an|0.15842 almost|0.14851 unrestricted|0.13861 ability|0.12871 to|0.11881 choose|0.10891 plaintiff|0.09901 friendly|0.089109 forums|0.079208 frequently|0.069307 the|0.059406 Eastern|0.049505 District|0.039604 of|0.029703 Texas|0.019802 40|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

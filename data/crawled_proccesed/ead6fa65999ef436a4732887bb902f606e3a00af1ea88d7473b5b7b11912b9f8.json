@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ead6fa65999ef436a4732887bb902f606e3a00af1ea88d7473b5b7b11912b9f8",
+			"url": "https://upload.wikimedia.org/wikipedia/en/0/00/Perl-camel-small.png",
+			"previous": " ",
+			"after": " Programming Perl published by O Reilly Media features a picture of a dromedary camel on the cover and is commonly called the Camel Book 52 This image of a camel has become an unofficial symbol of Perl as well as a general hacker emblem appearing on T shirts and other clothing items ",
+			"after_weights": " Programming|1 Perl|0.98077 published|0.96154 by|0.94231 O|0.92308 Reilly|0.90385 Media|0.88462 features|0.86538 a|0.84615 picture|0.82692 of|0.80769 a|0.78846 dromedary|0.76923 camel|0.75 on|0.73077 the|0.71154 cover|0.69231 and|0.67308 is|0.65385 commonly|0.63462 called|0.61538 the|0.59615 Camel|0.57692 Book|0.55769 52|0.53846 This|0.51923 image|0.5 of|0.48077 a|0.46154 camel|0.44231 has|0.42308 become|0.40385 an|0.38462 unofficial|0.36538 symbol|0.34615 of|0.32692 Perl|0.30769 as|0.28846 well|0.26923 as|0.25 a|0.23077 general|0.21154 hacker|0.19231 emblem|0.17308 appearing|0.15385 on|0.13462 T|0.11538 shirts|0.096154 and|0.076923 other|0.057692 clothing|0.038462 items|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

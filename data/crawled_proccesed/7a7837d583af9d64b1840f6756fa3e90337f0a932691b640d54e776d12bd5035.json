@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a7837d583af9d64b1840f6756fa3e90337f0a932691b640d54e776d12bd5035",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wiki_markup_article_screenshot.png/400px-Wiki_markup_article_screenshot.png",
+			"previous": " ",
+			"after": " Wiki markup also known as wikitext language and wikicode is a lightweight markup language used to write pages at wiki based websites such as Wikipedia that is a simplified alternative intermediate to HTML Its ultimate purpose is to be converted by wiki software into HTML which in turn is served to web browsers It was originally created in 1995 to format pages on the original wiki site WikiWikiWeb ",
+			"after_weights": " Wiki|1 markup|0.98529 also|0.97059 known|0.95588 as|0.94118 wikitext|0.92647 language|0.91176 and|0.89706 wikicode|0.88235 is|0.86765 a|0.85294 lightweight|0.83824 markup|0.82353 language|0.80882 used|0.79412 to|0.77941 write|0.76471 pages|0.75 at|0.73529 wiki|0.72059 based|0.70588 websites|0.69118 such|0.67647 as|0.66176 Wikipedia|0.64706 that|0.63235 is|0.61765 a|0.60294 simplified|0.58824 alternative|0.57353 intermediate|0.55882 to|0.54412 HTML|0.52941 Its|0.51471 ultimate|0.5 purpose|0.48529 is|0.47059 to|0.45588 be|0.44118 converted|0.42647 by|0.41176 wiki|0.39706 software|0.38235 into|0.36765 HTML|0.35294 which|0.33824 in|0.32353 turn|0.30882 is|0.29412 served|0.27941 to|0.26471 web|0.25 browsers|0.23529 It|0.22059 was|0.20588 originally|0.19118 created|0.17647 in|0.16176 1995|0.14706 to|0.13235 format|0.11765 pages|0.10294 on|0.088235 the|0.073529 original|0.058824 wiki|0.044118 site|0.029412 WikiWikiWeb|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

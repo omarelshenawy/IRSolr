@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "1db419ce02495ffa3e8bb890b9ae45f3bb43b14a2e856048d5f1b623904bb211",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikipedia_scale_of_justice.png/200px-Wikipedia_scale_of_justice.png",
+			"previous": " ",
+			"after": " All encyclopedic content on Wikipedia must be written from a neutral point of view NPOV which means representing fairly proportionately and as far as possible without bias all of the significant views that have been published by reliable sources on a topic ",
+			"after_weights": " All|1 encyclopedic|0.97619 content|0.95238 on|0.92857 Wikipedia|0.90476 must|0.88095 be|0.85714 written|0.83333 from|0.80952 a|0.78571 neutral|0.7619 point|0.7381 of|0.71429 view|0.69048 NPOV|0.66667 which|0.64286 means|0.61905 representing|0.59524 fairly|0.57143 proportionately|0.54762 and|0.52381 as|0.5 far|0.47619 as|0.45238 possible|0.42857 without|0.40476 bias|0.38095 all|0.35714 of|0.33333 the|0.30952 significant|0.28571 views|0.2619 that|0.2381 have|0.21429 been|0.19048 published|0.16667 by|0.14286 reliable|0.11905 sources|0.095238 on|0.071429 a|0.047619 topic|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

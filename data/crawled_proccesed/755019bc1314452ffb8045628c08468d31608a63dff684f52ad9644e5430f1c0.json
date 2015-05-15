@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "755019bc1314452ffb8045628c08468d31608a63dff684f52ad9644e5430f1c0",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Cork_Airport_Terminal_Landside.jpg/220px-Cork_Airport_Terminal_Landside.jpg",
+			"previous": " ",
+			"after": " Cork Airport is one of Ireland s main airports It is situated on the south side of Cork City in an area known as Ballygarvan Over 15 airlines fly to over 68 destinations with over 60 flights a day Scheduled Airlines using Cork airport include Aer Lingus Aer Lingus Regional and Ryanair ",
+			"after_weights": " Cork|1 Airport|0.98077 is|0.96154 one|0.94231 of|0.92308 Ireland|0.90385 s|0.88462 main|0.86538 airports|0.84615 It|0.82692 is|0.80769 situated|0.78846 on|0.76923 the|0.75 south|0.73077 side|0.71154 of|0.69231 Cork|0.67308 City|0.65385 in|0.63462 an|0.61538 area|0.59615 known|0.57692 as|0.55769 Ballygarvan|0.53846 Over|0.51923 15|0.5 airlines|0.48077 fly|0.46154 to|0.44231 over|0.42308 68|0.40385 destinations|0.38462 with|0.36538 over|0.34615 60|0.32692 flights|0.30769 a|0.28846 day|0.26923 Scheduled|0.25 Airlines|0.23077 using|0.21154 Cork|0.19231 airport|0.17308 include|0.15385 Aer|0.13462 Lingus|0.11538 Aer|0.096154 Lingus|0.076923 Regional|0.057692 and|0.038462 Ryanair|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

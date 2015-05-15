@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "5acf80ae472d1a26a51b605c355556ec414666fb6d9784fe76fdc5b2ed84241c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Donald_Pleasence_Allan_Warren_edit.jpg/300px-Donald_Pleasence_Allan_Warren_edit.jpg",
+			"previous": " Portal Biography Selected picture 20",
+			"after": " Donald Henry Pleasence OBE 5 October 1919 2 February 1995 was an English film television and stage actor His most notable film roles include psychiatrist Dr Sam Loomis in the Halloween series the villain Ernst Stavro Blofeld in the James Bond film You Only Live Twice and RAF Flight Lieutenant Colin Blythe in The Great Escape ",
+			"after_weights": " Donald|1 Henry|0.98214 Pleasence|0.96429 OBE|0.94643 5|0.92857 October|0.91071 1919|0.89286 2|0.875 February|0.85714 1995|0.83929 was|0.82143 an|0.80357 English|0.78571 film|0.76786 television|0.75 and|0.73214 stage|0.71429 actor|0.69643 His|0.67857 most|0.66071 notable|0.64286 film|0.625 roles|0.60714 include|0.58929 psychiatrist|0.57143 Dr|0.55357 Sam|0.53571 Loomis|0.51786 in|0.5 the|0.48214 Halloween|0.46429 series|0.44643 the|0.42857 villain|0.41071 Ernst|0.39286 Stavro|0.375 Blofeld|0.35714 in|0.33929 the|0.32143 James|0.30357 Bond|0.28571 film|0.26786 You|0.25 Only|0.23214 Live|0.21429 Twice|0.19643 and|0.17857 RAF|0.16071 Flight|0.14286 Lieutenant|0.125 Colin|0.10714 Blythe|0.089286 in|0.071429 The|0.053571 Great|0.035714 Escape|0.017857 |0",
+			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 20|1"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2e794528b5dd99ad2de29842e7b84bd170aa435f67dc0e7cced2871781c0ca66",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GFP_Mice_01.jpg/220px-GFP_Mice_01.jpg",
+			"previous": " The study of the human body albeit from different directions and for different purposes is an important common link between medicine and some engineering disciplines Medicine aims to sustain repair enhance and even replace functions of the human body if necessary through the use of technology ",
+			"after": " Modern medicine can replace several of the body s functions through the use of artificial organs and can significantly alter the function of the human body through artificial devices such as for example brain implants and pacemakers 35 36 The fields of bionics and medical bionics are dedicated to the study of synthetic implants pertaining to natural systems ",
+			"after_weights": " Modern|1 medicine|0.98276 can|0.96552 replace|0.94828 several|0.93103 of|0.91379 the|0.89655 body|0.87931 s|0.86207 functions|0.84483 through|0.82759 the|0.81034 use|0.7931 of|0.77586 artificial|0.75862 organs|0.74138 and|0.72414 can|0.7069 significantly|0.68966 alter|0.67241 the|0.65517 function|0.63793 of|0.62069 the|0.60345 human|0.58621 body|0.56897 through|0.55172 artificial|0.53448 devices|0.51724 such|0.5 as|0.48276 for|0.46552 example|0.44828 brain|0.43103 implants|0.41379 and|0.39655 pacemakers|0.37931 35|0.36207 36|0.34483 The|0.32759 fields|0.31034 of|0.2931 bionics|0.27586 and|0.25862 medical|0.24138 bionics|0.22414 are|0.2069 dedicated|0.18966 to|0.17241 the|0.15517 study|0.13793 of|0.12069 synthetic|0.10345 implants|0.086207 pertaining|0.068966 to|0.051724 natural|0.034483 systems|0.017241 |0",
+			"previous_weights": " The|0 study|0.021739 of|0.043478 the|0.065217 human|0.086957 body|0.1087 albeit|0.13043 from|0.15217 different|0.17391 directions|0.19565 and|0.21739 for|0.23913 different|0.26087 purposes|0.28261 is|0.30435 an|0.32609 important|0.34783 common|0.36957 link|0.3913 between|0.41304 medicine|0.43478 and|0.45652 some|0.47826 engineering|0.5 disciplines|0.52174 Medicine|0.54348 aims|0.56522 to|0.58696 sustain|0.6087 repair|0.63043 enhance|0.65217 and|0.67391 even|0.69565 replace|0.71739 functions|0.73913 of|0.76087 the|0.78261 human|0.80435 body|0.82609 if|0.84783 necessary|0.86957 through|0.8913 the|0.91304 use|0.93478 of|0.95652 technology|0.97826 |1"
+		}
+	}
+}

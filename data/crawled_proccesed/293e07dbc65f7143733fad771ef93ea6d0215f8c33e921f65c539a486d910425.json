@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "293e07dbc65f7143733fad771ef93ea6d0215f8c33e921f65c539a486d910425",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edward_Burne-Jones.The_last_sleep_of_Arthur.jpg/220px-Edward_Burne-Jones.The_last_sleep_of_Arthur.jpg",
+			"previous": " ",
+			"after": " Le Morte d Arthur originally spelled Le Morte Darthur Middle French for the death of Arthur 1 is a compilation by Sir Thomas Malory of traditional tales about the legendary King Arthur Guinevere Lancelot and the Knights of the Round Table Malory interprets existing French and English stories about these figures and adds original material the Gareth story ",
+			"after_weights": " Le|1 Morte|0.98276 d|0.96552 Arthur|0.94828 originally|0.93103 spelled|0.91379 Le|0.89655 Morte|0.87931 Darthur|0.86207 Middle|0.84483 French|0.82759 for|0.81034 the|0.7931 death|0.77586 of|0.75862 Arthur|0.74138 1|0.72414 is|0.7069 a|0.68966 compilation|0.67241 by|0.65517 Sir|0.63793 Thomas|0.62069 Malory|0.60345 of|0.58621 traditional|0.56897 tales|0.55172 about|0.53448 the|0.51724 legendary|0.5 King|0.48276 Arthur|0.46552 Guinevere|0.44828 Lancelot|0.43103 and|0.41379 the|0.39655 Knights|0.37931 of|0.36207 the|0.34483 Round|0.32759 Table|0.31034 Malory|0.2931 interprets|0.27586 existing|0.25862 French|0.24138 and|0.22414 English|0.2069 stories|0.18966 about|0.17241 these|0.15517 figures|0.13793 and|0.12069 adds|0.10345 original|0.086207 material|0.068966 the|0.051724 Gareth|0.034483 story|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

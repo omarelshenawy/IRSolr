@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "f7c9b7431c9e5acd8664d7eb73711c6ffe4f7ec13e55e89540cdf9f4cf27aacb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Beachside_Barbeque_%286831739276%29.jpg/220px-Beachside_Barbeque_%286831739276%29.jpg",
+			"previous": " Main article see Liberian cuisine",
+			"after": " Liberian cuisine heavily incorporates rice the country s staple food Other ingredients include cassava fish bananas citrus fruit plantains coconut okra and sweet potatoes 134 Heavy stews spiced with habanero and scotch bonnet chillies are popular and eaten with fufu 135 Liberia also has a tradition of baking imported from the United States that is unique in West Africa 136 ",
+			"after_weights": " Liberian|1 cuisine|0.98333 heavily|0.96667 incorporates|0.95 rice|0.93333 the|0.91667 country|0.9 s|0.88333 staple|0.86667 food|0.85 Other|0.83333 ingredients|0.81667 include|0.8 cassava|0.78333 fish|0.76667 bananas|0.75 citrus|0.73333 fruit|0.71667 plantains|0.7 coconut|0.68333 okra|0.66667 and|0.65 sweet|0.63333 potatoes|0.61667 134|0.6 Heavy|0.58333 stews|0.56667 spiced|0.55 with|0.53333 habanero|0.51667 and|0.5 scotch|0.48333 bonnet|0.46667 chillies|0.45 are|0.43333 popular|0.41667 and|0.4 eaten|0.38333 with|0.36667 fufu|0.35 135|0.33333 Liberia|0.31667 also|0.3 has|0.28333 a|0.26667 tradition|0.25 of|0.23333 baking|0.21667 imported|0.2 from|0.18333 the|0.16667 United|0.15 States|0.13333 that|0.11667 is|0.1 unique|0.083333 in|0.066667 West|0.05 Africa|0.033333 136|0.016667 |0",
+			"previous_weights": " Main|0 article|0.25 see|0.5 Liberian|0.75 cuisine|1"
+		}
+	}
+}

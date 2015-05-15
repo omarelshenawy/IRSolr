@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "b19ad62b92a097979c2904361d18ece08c7a374ee68b451a0a5e16bfdd78f37c",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Failwhale.png/220px-Failwhale.png",
+			"previous": " ",
+			"after": " When Twitter experiences an outage users once saw the fail whale error message image created by Yiying Lu 190 illustrating eight orange birds using a net to hoist a whale from the ocean captioned Too many tweets Please wait a moment and try again 191 In a November 2013 WIRED interview Chris Fry VP of Engineering at that time noted that the company had taken the fail whale out of production as the platform was now more stable ",
+			"after_weights": " When|1 Twitter|0.98718 experiences|0.97436 an|0.96154 outage|0.94872 users|0.9359 once|0.92308 saw|0.91026 the|0.89744 fail|0.88462 whale|0.87179 error|0.85897 message|0.84615 image|0.83333 created|0.82051 by|0.80769 Yiying|0.79487 Lu|0.78205 190|0.76923 illustrating|0.75641 eight|0.74359 orange|0.73077 birds|0.71795 using|0.70513 a|0.69231 net|0.67949 to|0.66667 hoist|0.65385 a|0.64103 whale|0.62821 from|0.61538 the|0.60256 ocean|0.58974 captioned|0.57692 Too|0.5641 many|0.55128 tweets|0.53846 Please|0.52564 wait|0.51282 a|0.5 moment|0.48718 and|0.47436 try|0.46154 again|0.44872 191|0.4359 In|0.42308 a|0.41026 November|0.39744 2013|0.38462 WIRED|0.37179 interview|0.35897 Chris|0.34615 Fry|0.33333 VP|0.32051 of|0.30769 Engineering|0.29487 at|0.28205 that|0.26923 time|0.25641 noted|0.24359 that|0.23077 the|0.21795 company|0.20513 had|0.19231 taken|0.17949 the|0.16667 fail|0.15385 whale|0.14103 out|0.12821 of|0.11538 production|0.10256 as|0.089744 the|0.076923 platform|0.064103 was|0.051282 now|0.038462 more|0.025641 stable|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

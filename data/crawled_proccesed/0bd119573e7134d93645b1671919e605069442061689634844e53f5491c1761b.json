@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "0bd119573e7134d93645b1671919e605069442061689634844e53f5491c1761b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/English-2nd_grade-Vereshchagina-Russian-textbook-page_39.png/300px-English-2nd_grade-Vereshchagina-Russian-textbook-page_39.png",
+			"previous": " ",
+			"after": " Some language study programs use the IPA to teach pronunciation For example in Russia and earlier in the Soviet Union and mainland China textbooks for children 25 and adults 26 for studying English and French consistently use the IPA English teachers and textbooks in Taiwan tend to use the Kenyon and Knott system an IPA with slight typographical variations ",
+			"after_weights": " Some|1 language|0.98305 study|0.9661 programs|0.94915 use|0.9322 the|0.91525 IPA|0.89831 to|0.88136 teach|0.86441 pronunciation|0.84746 For|0.83051 example|0.81356 in|0.79661 Russia|0.77966 and|0.76271 earlier|0.74576 in|0.72881 the|0.71186 Soviet|0.69492 Union|0.67797 and|0.66102 mainland|0.64407 China|0.62712 textbooks|0.61017 for|0.59322 children|0.57627 25|0.55932 and|0.54237 adults|0.52542 26|0.50847 for|0.49153 studying|0.47458 English|0.45763 and|0.44068 French|0.42373 consistently|0.40678 use|0.38983 the|0.37288 IPA|0.35593 English|0.33898 teachers|0.32203 and|0.30508 textbooks|0.28814 in|0.27119 Taiwan|0.25424 tend|0.23729 to|0.22034 use|0.20339 the|0.18644 Kenyon|0.16949 and|0.15254 Knott|0.13559 system|0.11864 an|0.10169 IPA|0.084746 with|0.067797 slight|0.050847 typographical|0.033898 variations|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

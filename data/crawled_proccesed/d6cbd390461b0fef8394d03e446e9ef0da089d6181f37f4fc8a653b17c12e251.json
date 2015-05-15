@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "d6cbd390461b0fef8394d03e446e9ef0da089d6181f37f4fc8a653b17c12e251",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sargis_Pitsak.jpg/250px-Sargis_Pitsak.jpg",
+			"previous": " ",
+			"after": " A gospel is an account describing the life death and resurrection of Jesus of Nazareth The most widely known examples are the four canonical gospels of Matthew Mark Luke and John which are included in the New Testament but the term is also used to refer to apocryphal gospels non canonical gospels Jewish Christian gospels and gnostic gospels ",
+			"after_weights": " A|1 gospel|0.98276 is|0.96552 an|0.94828 account|0.93103 describing|0.91379 the|0.89655 life|0.87931 death|0.86207 and|0.84483 resurrection|0.82759 of|0.81034 Jesus|0.7931 of|0.77586 Nazareth|0.75862 The|0.74138 most|0.72414 widely|0.7069 known|0.68966 examples|0.67241 are|0.65517 the|0.63793 four|0.62069 canonical|0.60345 gospels|0.58621 of|0.56897 Matthew|0.55172 Mark|0.53448 Luke|0.51724 and|0.5 John|0.48276 which|0.46552 are|0.44828 included|0.43103 in|0.41379 the|0.39655 New|0.37931 Testament|0.36207 but|0.34483 the|0.32759 term|0.31034 is|0.2931 also|0.27586 used|0.25862 to|0.24138 refer|0.22414 to|0.2069 apocryphal|0.18966 gospels|0.17241 non|0.15517 canonical|0.13793 gospels|0.12069 Jewish|0.10345 Christian|0.086207 gospels|0.068966 and|0.051724 gnostic|0.034483 gospels|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

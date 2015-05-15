@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a754f21ce208bd29eb6c87df85deb952162a5eb4fa63ca7e7c08b5de6ac91ae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jamaica-demography.png/350px-Jamaica-demography.png",
+			"previous": " Insects and other invertebrates are abundant including the world s largest centipede the Amazonian giant centipede and the Homerus swallowtail the western hemisphere s largest butterfly ",
+			"after": " According to the 2011 census 54 the data is as follows  Much of the Jamaican Black population are of African or partially African descent with many being able to trace their origins to West Africa 55 as well as Europe 56 and Asia 57 Many Mixed Jamaicans self report as Black as is the case with many other anglophone Caribbean islands ",
+			"after_weights": " According|1 to|0.98387 the|0.96774 2011|0.95161 census|0.93548 54|0.91935 the|0.90323 data|0.8871 is|0.87097 as|0.85484 follows|0.83871 |0.82258 Much|0.80645 of|0.79032 the|0.77419 Jamaican|0.75806 Black|0.74194 population|0.72581 are|0.70968 of|0.69355 African|0.67742 or|0.66129 partially|0.64516 African|0.62903 descent|0.6129 with|0.59677 many|0.58065 being|0.56452 able|0.54839 to|0.53226 trace|0.51613 their|0.5 origins|0.48387 to|0.46774 West|0.45161 Africa|0.43548 55|0.41935 as|0.40323 well|0.3871 as|0.37097 Europe|0.35484 56|0.33871 and|0.32258 Asia|0.30645 57|0.29032 Many|0.27419 Mixed|0.25806 Jamaicans|0.24194 self|0.22581 report|0.20968 as|0.19355 Black|0.17742 as|0.16129 is|0.14516 the|0.12903 case|0.1129 with|0.096774 many|0.080645 other|0.064516 anglophone|0.048387 Caribbean|0.032258 islands|0.016129 |0",
+			"previous_weights": " Insects|0 and|0.038462 other|0.076923 invertebrates|0.11538 are|0.15385 abundant|0.19231 including|0.23077 the|0.26923 world|0.30769 s|0.34615 largest|0.38462 centipede|0.42308 the|0.46154 Amazonian|0.5 giant|0.53846 centipede|0.57692 and|0.61538 the|0.65385 Homerus|0.69231 swallowtail|0.73077 the|0.76923 western|0.80769 hemisphere|0.84615 s|0.88462 largest|0.92308 butterfly|0.96154 |1"
+		}
+	}
+}

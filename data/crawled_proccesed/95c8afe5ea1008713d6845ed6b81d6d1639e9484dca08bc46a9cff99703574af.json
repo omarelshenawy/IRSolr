@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "95c8afe5ea1008713d6845ed6b81d6d1639e9484dca08bc46a9cff99703574af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AmtrakAcela2035atNewHavenUnion.jpg/220px-AmtrakAcela2035atNewHavenUnion.jpg",
+			"previous": " ",
+			"after": " Ridership stagnated at roughly 20 million passengers per year amid uncertain government aid from 1981 to about 2000 35 39  In the 1990s Amtrak s stated goal remained operational self sufficiency By this time however Amtrak had a large overhang of debt from years of underfunding and in the mid 1990s Amtrak suffered through a serious cash crunch To resolve the crisis Congress issued funding but instituted a glide path to financial self sufficiency excluding railroad retirement tax act payments 40 ",
+			"after_weights": " Ridership|1 stagnated|0.9878 at|0.97561 roughly|0.96341 20|0.95122 million|0.93902 passengers|0.92683 per|0.91463 year|0.90244 amid|0.89024 uncertain|0.87805 government|0.86585 aid|0.85366 from|0.84146 1981|0.82927 to|0.81707 about|0.80488 2000|0.79268 35|0.78049 39|0.76829 |0.7561 In|0.7439 the|0.73171 1990s|0.71951 Amtrak|0.70732 s|0.69512 stated|0.68293 goal|0.67073 remained|0.65854 operational|0.64634 self|0.63415 sufficiency|0.62195 By|0.60976 this|0.59756 time|0.58537 however|0.57317 Amtrak|0.56098 had|0.54878 a|0.53659 large|0.52439 overhang|0.5122 of|0.5 debt|0.4878 from|0.47561 years|0.46341 of|0.45122 underfunding|0.43902 and|0.42683 in|0.41463 the|0.40244 mid|0.39024 1990s|0.37805 Amtrak|0.36585 suffered|0.35366 through|0.34146 a|0.32927 serious|0.31707 cash|0.30488 crunch|0.29268 To|0.28049 resolve|0.26829 the|0.2561 crisis|0.2439 Congress|0.23171 issued|0.21951 funding|0.20732 but|0.19512 instituted|0.18293 a|0.17073 glide|0.15854 path|0.14634 to|0.13415 financial|0.12195 self|0.10976 sufficiency|0.097561 excluding|0.085366 railroad|0.073171 retirement|0.060976 tax|0.04878 act|0.036585 payments|0.02439 40|0.012195 |0",
+			"previous_weights": " "
+		}
+	}
+}

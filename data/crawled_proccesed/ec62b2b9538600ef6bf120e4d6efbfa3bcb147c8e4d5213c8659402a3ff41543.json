@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "ec62b2b9538600ef6bf120e4d6efbfa3bcb147c8e4d5213c8659402a3ff41543",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Necksaundersisland2.jpg/220px-Necksaundersisland2.jpg",
+			"previous": " ",
+			"after": " The Falkland Islands are a biogeographical part of the mild Antarctic zone 105 with strong connections to the flora and fauna of Patagonia in mainland South America 106 Land birds make up most of the Falklands avifauna 63 species breed on the islands including 16 endemic species 107 There is also abundant arthropod diversity on the islands 108 The Falklands flora consists of 163 native vascular species 109 The islands only native terrestrial mammal the warrah was hunted to extinction by European settlers 110 ",
+			"after_weights": " The|1 Falkland|0.9881 Islands|0.97619 are|0.96429 a|0.95238 biogeographical|0.94048 part|0.92857 of|0.91667 the|0.90476 mild|0.89286 Antarctic|0.88095 zone|0.86905 105|0.85714 with|0.84524 strong|0.83333 connections|0.82143 to|0.80952 the|0.79762 flora|0.78571 and|0.77381 fauna|0.7619 of|0.75 Patagonia|0.7381 in|0.72619 mainland|0.71429 South|0.70238 America|0.69048 106|0.67857 Land|0.66667 birds|0.65476 make|0.64286 up|0.63095 most|0.61905 of|0.60714 the|0.59524 Falklands|0.58333 avifauna|0.57143 63|0.55952 species|0.54762 breed|0.53571 on|0.52381 the|0.5119 islands|0.5 including|0.4881 16|0.47619 endemic|0.46429 species|0.45238 107|0.44048 There|0.42857 is|0.41667 also|0.40476 abundant|0.39286 arthropod|0.38095 diversity|0.36905 on|0.35714 the|0.34524 islands|0.33333 108|0.32143 The|0.30952 Falklands|0.29762 flora|0.28571 consists|0.27381 of|0.2619 163|0.25 native|0.2381 vascular|0.22619 species|0.21429 109|0.20238 The|0.19048 islands|0.17857 only|0.16667 native|0.15476 terrestrial|0.14286 mammal|0.13095 the|0.11905 warrah|0.10714 was|0.095238 hunted|0.083333 to|0.071429 extinction|0.059524 by|0.047619 European|0.035714 settlers|0.02381 110|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

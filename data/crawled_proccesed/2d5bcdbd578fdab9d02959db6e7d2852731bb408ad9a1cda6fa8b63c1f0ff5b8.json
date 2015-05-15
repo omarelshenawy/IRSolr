@@ -1,0 +1,12 @@
+{
+	"add": {
+		"doc": {
+			"id": "2d5bcdbd578fdab9d02959db6e7d2852731bb408ad9a1cda6fa8b63c1f0ff5b8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Great_Feeling.ogv/250px--Great_Feeling.ogv.jpg",
+			"previous": " What is Wikipedia ",
+			"after": " Wikipedia is a free encyclopedia written collaboratively by the people who use it It is a special type of website designed to make collaboration easy called a wiki Many people are constantly improving Wikipedia making thousands of changes per hour All of these changes are recorded in article histories and recent changes For a more detailed account of the project see About Wikipedia How you can contribute",
+			"after_weights": " Wikipedia|1 is|0.98485 a|0.9697 free|0.95455 encyclopedia|0.93939 written|0.92424 collaboratively|0.90909 by|0.89394 the|0.87879 people|0.86364 who|0.84848 use|0.83333 it|0.81818 It|0.80303 is|0.78788 a|0.77273 special|0.75758 type|0.74242 of|0.72727 website|0.71212 designed|0.69697 to|0.68182 make|0.66667 collaboration|0.65152 easy|0.63636 called|0.62121 a|0.60606 wiki|0.59091 Many|0.57576 people|0.56061 are|0.54545 constantly|0.5303 improving|0.51515 Wikipedia|0.5 making|0.48485 thousands|0.4697 of|0.45455 changes|0.43939 per|0.42424 hour|0.40909 All|0.39394 of|0.37879 these|0.36364 changes|0.34848 are|0.33333 recorded|0.31818 in|0.30303 article|0.28788 histories|0.27273 and|0.25758 recent|0.24242 changes|0.22727 For|0.21212 a|0.19697 more|0.18182 detailed|0.16667 account|0.15152 of|0.13636 the|0.12121 project|0.10606 see|0.090909 About|0.075758 Wikipedia|0.060606 How|0.045455 you|0.030303 can|0.015152 contribute|0",
+			"previous_weights": " What|0 is|0.33333 Wikipedia|0.66667 |1"
+		}
+	}
+}
