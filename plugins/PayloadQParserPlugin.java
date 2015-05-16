@@ -95,8 +95,8 @@ class PayloadQueryParser extends QueryParser {
     // One could easily parameterize this in the config files to
     // avoid hard-coding the values.
     if (sf != null && sf.getType().getTypeName().equalsIgnoreCase("payloads")) {
-      return new PayloadTermQuery(new Term(field, queryText), new AveragePayloadFunction(), true);
+      return new PayloadTermQuery(new Term(field, queryText.toLowerCase()), new AveragePayloadFunction(), true);
     }
-    return super.getFieldQuery(field, queryText, quoted);
+    return super.getFieldQuery(field, queryText.toLowerCase(), quoted);
   }
 }
