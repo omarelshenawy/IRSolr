@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e10d56c2a7d51e73aa3b78d0481ef1984b48e700c2ae1ade71107e46fd9fc92",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SJ100-RA-89034.JPG/220px-SJ100-RA-89034.JPG",
+			"previous": " The UTair Aviation fleet consists of the following aircraft as of January 2015 1 12 13 14 15 16 ",
+			"after": " Included in the fleet figures above are aircraft operated by the UTair Aviation subsidiaries UTair Express and UTair Ukraine ",
+			"color": "silver|0.18227 light|0.15834 gray|0.15834 light|0.15834 grey|0.15834 gainsboro|0.12468 dark|0.10281 gray|0.10281 dark|0.10281 grey|0.10281 dim|0.08674 gray|0.08674 dim|0.08674 grey|0.08674 white|0.035028 smoke|0.035028 gray|0.03372 grey|0.03372 alice|0.03132 blue|0.03132 black|0.029426 azure|0.021019 dark|0.020691 slate|0.020691 gray|0.020691 ghost|0.020393 white|0.020393 mint|0.018054 cream|0.018054 snow|0.014754 white|0.012562 light|0.011794 slate|0.011794 gray|0.011794 light|0.010229 steel|0.010229 blue|0.010229 sea|0.0098346 shell|0.0098346 slate|0.0089895 gray|0.0089895 light|0.0085289 blue|0.0085289 linen|0.007286 lavender|0.00714 floral|0.0062152 white|0.0062152 light|0.0059592 cyan|0.0059592 steel|0.0052436 blue|0.0052436  ",
+			"after_weights": " Included|1 in|0.94737 the|0.89474 fleet|0.84211 figures|0.78947 above|0.73684 are|0.68421 aircraft|0.63158 operated|0.57895 by|0.52632 the|0.47368 UTair|0.42105 Aviation|0.36842 subsidiaries|0.31579 UTair|0.26316 Express|0.21053 and|0.15789 UTair|0.10526 Ukraine|0.052632 |0",
+			"previous_weights": " The|0 UTair|0.052632 Aviation|0.10526 fleet|0.15789 consists|0.21053 of|0.26316 the|0.31579 following|0.36842 aircraft|0.42105 as|0.47368 of|0.52632 January|0.57895 2015|0.63158 1|0.68421 12|0.73684 13|0.78947 14|0.84211 15|0.89474 16|0.94737 |1"
+		}
+	}
+}

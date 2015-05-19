@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ec53a8858f36c844bc74a90b31b4ae8a9a6146ad45b17968c5eed880d038949",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Airport_Express_Train.jpg/220px-Airport_Express_Train.jpg",
+			"previous": " Commuter rail type service directly from a city centre to the airport without needing to change trains and sometimes without intermediate stops  In some airports such as San Francisco International Airport the rail link only serves one terminal or concourse directly passengers using other terminals must use an people mover airport circulator Circulators typically also serve parking lots and sometimes airport hotels and off site car rental locations ",
+			"after": " ",
+			"color": "dim|0.17375 gray|0.17375 dim|0.17375 grey|0.17375 dark|0.16464 gray|0.16464 dark|0.16464 grey|0.16464 silver|0.12724 gray|0.10851 grey|0.10851 dark|0.106 olive|0.106 green|0.106 light|0.068302 gray|0.068302 light|0.068302 grey|0.068302 black|0.057775 gainsboro|0.038651 dark|0.020466 slate|0.020466 gray|0.020466 steel|0.020025 blue|0.020025 slate|0.018177 gray|0.018177 light|0.013705 slate|0.013705 gray|0.013705  ",
+			"after_weights": " ",
+			"previous_weights": " Commuter|0 rail|0.014493 type|0.028986 service|0.043478 directly|0.057971 from|0.072464 a|0.086957 city|0.10145 centre|0.11594 to|0.13043 the|0.14493 airport|0.15942 without|0.17391 needing|0.18841 to|0.2029 change|0.21739 trains|0.23188 and|0.24638 sometimes|0.26087 without|0.27536 intermediate|0.28986 stops|0.30435 |0.31884 In|0.33333 some|0.34783 airports|0.36232 such|0.37681 as|0.3913 San|0.4058 Francisco|0.42029 International|0.43478 Airport|0.44928 the|0.46377 rail|0.47826 link|0.49275 only|0.50725 serves|0.52174 one|0.53623 terminal|0.55072 or|0.56522 concourse|0.57971 directly|0.5942 passengers|0.6087 using|0.62319 other|0.63768 terminals|0.65217 must|0.66667 use|0.68116 an|0.69565 people|0.71014 mover|0.72464 airport|0.73913 circulator|0.75362 Circulators|0.76812 typically|0.78261 also|0.7971 serve|0.81159 parking|0.82609 lots|0.84058 and|0.85507 sometimes|0.86957 airport|0.88406 hotels|0.89855 and|0.91304 off|0.92754 site|0.94203 car|0.95652 rental|0.97101 locations|0.98551 |1"
+		}
+	}
+}

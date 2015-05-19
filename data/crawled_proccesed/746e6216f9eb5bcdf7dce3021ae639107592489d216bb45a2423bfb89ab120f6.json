@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "746e6216f9eb5bcdf7dce3021ae639107592489d216bb45a2423bfb89ab120f6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Douglas_DC-2_Uiver.jpg/220px-Douglas_DC-2_Uiver.jpg",
+			"previous": " ",
+			"after": " There are no longer DC 2s in commercial service however several aircraft have survived into the 21st century  The DC 2 was the Good Ship Lollipop that Shirley Temple sang about in the film Bright Eyes 1934 49 A DC 2 appears in the 1937 film Lost Horizon the footage includes taxiing takeoff and landing as well as views in flight 50 ",
+			"color": "black|0.21418 dark|0.17921 gray|0.17921 dark|0.17921 grey|0.17921 gray|0.12517 grey|0.12517 silver|0.11915 dim|0.10231 gray|0.10231 dim|0.10231 grey|0.10231 light|0.089555 gray|0.089555 light|0.089555 grey|0.089555 gainsboro|0.066401 linen|0.014431 white|0.012911 smoke|0.012911 lavender|0.010323 blush|0.010323 sea|0.010168 shell|0.010168 misty|0.0091275 rose|0.0091275  ",
+			"after_weights": " There|1 are|0.98413 no|0.96825 longer|0.95238 DC|0.93651 2s|0.92063 in|0.90476 commercial|0.88889 service|0.87302 however|0.85714 several|0.84127 aircraft|0.8254 have|0.80952 survived|0.79365 into|0.77778 the|0.7619 21st|0.74603 century|0.73016 |0.71429 The|0.69841 DC|0.68254 2|0.66667 was|0.65079 the|0.63492 Good|0.61905 Ship|0.60317 Lollipop|0.5873 that|0.57143 Shirley|0.55556 Temple|0.53968 sang|0.52381 about|0.50794 in|0.49206 the|0.47619 film|0.46032 Bright|0.44444 Eyes|0.42857 1934|0.4127 49|0.39683 A|0.38095 DC|0.36508 2|0.34921 appears|0.33333 in|0.31746 the|0.30159 1937|0.28571 film|0.26984 Lost|0.25397 Horizon|0.2381 the|0.22222 footage|0.20635 includes|0.19048 taxiing|0.1746 takeoff|0.15873 and|0.14286 landing|0.12698 as|0.11111 well|0.095238 as|0.079365 views|0.063492 in|0.047619 flight|0.031746 50|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

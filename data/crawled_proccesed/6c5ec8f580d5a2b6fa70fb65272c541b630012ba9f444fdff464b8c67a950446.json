@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c5ec8f580d5a2b6fa70fb65272c541b630012ba9f444fdff464b8c67a950446",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Calendar-leapyeardate.jpg/220px-Calendar-leapyeardate.jpg",
+			"previous": " ",
+			"after": " February 29 is a date that usually occurs every four years and is called leap day This day is added to the calendar in leap years as a corrective measure because the Earth does not orbit around the sun in precisely 365 days ",
+			"color": "tan|0.66535 burly|0.1594 wood|0.1594 peach|0.04516 puff|0.04516 dim|0.025062 gray|0.025062 dim|0.025062 grey|0.025062 navajo|0.022681 white|0.022681 black|0.017445 wheat|0.017257 moccasin|0.013534 bisque|0.0089454 gray|0.0064789 grey|0.0064789  ",
+			"after_weights": " February|1 29|0.97674 is|0.95349 a|0.93023 date|0.90698 that|0.88372 usually|0.86047 occurs|0.83721 every|0.81395 four|0.7907 years|0.76744 and|0.74419 is|0.72093 called|0.69767 leap|0.67442 day|0.65116 This|0.62791 day|0.60465 is|0.5814 added|0.55814 to|0.53488 the|0.51163 calendar|0.48837 in|0.46512 leap|0.44186 years|0.4186 as|0.39535 a|0.37209 corrective|0.34884 measure|0.32558 because|0.30233 the|0.27907 Earth|0.25581 does|0.23256 not|0.2093 orbit|0.18605 around|0.16279 the|0.13953 sun|0.11628 in|0.093023 precisely|0.069767 365|0.046512 days|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

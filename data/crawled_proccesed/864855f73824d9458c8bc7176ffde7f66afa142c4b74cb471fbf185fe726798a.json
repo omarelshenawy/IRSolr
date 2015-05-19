@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "864855f73824d9458c8bc7176ffde7f66afa142c4b74cb471fbf185fe726798a",
+			"url": "https://upload.wikimedia.org/math/7/b/8/7b82fe19e7751a66744630e3f1a8ec41.png",
+			"previous": " The simplest example of a four vector is the position of an event in spacetime which constitutes a timelike component ct and spacelike component x x y z in a contravariant position four vector with components ",
+			"after": " where we define X0 ct so that the time coordinate has the same dimension of distance as the other spatial dimensions so that space and time are treated equally 43 44 45 Now the transformation of the contravariant components of the position 4 vector can be compactly written as ",
+			"color": "dim|0.36305 gray|0.36305 dim|0.36305 grey|0.36305 gray|0.29256 grey|0.29256 dark|0.18568 gray|0.18568 dark|0.18568 grey|0.18568 silver|0.077948 light|0.037313 gray|0.037313 light|0.037313 grey|0.037313 gainsboro|0.025942 white|0.0045318 smoke|0.0045318  ",
+			"after_weights": " where|1 we|0.97959 define|0.95918 X0|0.93878 ct|0.91837 so|0.89796 that|0.87755 the|0.85714 time|0.83673 coordinate|0.81633 has|0.79592 the|0.77551 same|0.7551 dimension|0.73469 of|0.71429 distance|0.69388 as|0.67347 the|0.65306 other|0.63265 spatial|0.61224 dimensions|0.59184 so|0.57143 that|0.55102 space|0.53061 and|0.5102 time|0.4898 are|0.46939 treated|0.44898 equally|0.42857 43|0.40816 44|0.38776 45|0.36735 Now|0.34694 the|0.32653 transformation|0.30612 of|0.28571 the|0.26531 contravariant|0.2449 components|0.22449 of|0.20408 the|0.18367 position|0.16327 4|0.14286 vector|0.12245 can|0.10204 be|0.081633 compactly|0.061224 written|0.040816 as|0.020408 |0",
+			"previous_weights": " The|0 simplest|0.027778 example|0.055556 of|0.083333 a|0.11111 four|0.13889 vector|0.16667 is|0.19444 the|0.22222 position|0.25 of|0.27778 an|0.30556 event|0.33333 in|0.36111 spacetime|0.38889 which|0.41667 constitutes|0.44444 a|0.47222 timelike|0.5 component|0.52778 ct|0.55556 and|0.58333 spacelike|0.61111 component|0.63889 x|0.66667 x|0.69444 y|0.72222 z|0.75 in|0.77778 a|0.80556 contravariant|0.83333 position|0.86111 four|0.88889 vector|0.91667 with|0.94444 components|0.97222 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f5ba7fde37337f93e564d7f7f25ae93d10e35e8c45cfa8bd481a6a542440f1d",
+			"url": "https://upload.wikimedia.org/math/b/7/9/b79851a1c48b5fd9445a3040fb65f8d3.png",
+			"previous": " A handle decomposition of an m manifold M is a union",
+			"after": " Local flatness is a property of a submanifold in a topological manifold of larger dimension In the category of topological manifolds locally flat submanifolds play a role similar to that of embedded submanifolds in the category of smooth manifolds ",
+			"color": "gray|0.26952 grey|0.26952 dark|0.23458 gray|0.23458 dark|0.23458 grey|0.23458 dim|0.20631 gray|0.20631 dim|0.20631 grey|0.20631 silver|0.13257 light|0.07597 gray|0.07597 light|0.07597 grey|0.07597 gainsboro|0.053251 white|0.0074601 smoke|0.0074601 linen|0.00419 lavender|0.0031973 blush|0.0031973 alice|0.0029988 blue|0.0029988 ghost|0.0028236 white|0.0028236 sea|0.0025817 shell|0.0025817  ",
+			"after_weights": " Local|1 flatness|0.97436 is|0.94872 a|0.92308 property|0.89744 of|0.87179 a|0.84615 submanifold|0.82051 in|0.79487 a|0.76923 topological|0.74359 manifold|0.71795 of|0.69231 larger|0.66667 dimension|0.64103 In|0.61538 the|0.58974 category|0.5641 of|0.53846 topological|0.51282 manifolds|0.48718 locally|0.46154 flat|0.4359 submanifolds|0.41026 play|0.38462 a|0.35897 role|0.33333 similar|0.30769 to|0.28205 that|0.25641 of|0.23077 embedded|0.20513 submanifolds|0.17949 in|0.15385 the|0.12821 category|0.10256 of|0.076923 smooth|0.051282 manifolds|0.025641 |0",
+			"previous_weights": " A|0 handle|0.1 decomposition|0.2 of|0.3 an|0.4 m|0.5 manifold|0.6 M|0.7 is|0.8 a|0.9 union|1"
+		}
+	}
+}

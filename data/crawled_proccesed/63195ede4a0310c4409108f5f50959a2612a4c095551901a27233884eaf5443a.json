@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63195ede4a0310c4409108f5f50959a2612a4c095551901a27233884eaf5443a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canning_Dam%2C_Perth_%281%29.jpg/100px-Canning_Dam%2C_Perth_%281%29.jpg",
+			"previous": " ",
+			"after": " Since its completion in 1940 the Canning Dam has contributed to a wide range of environmental and ecological problems in surrounding regions problems include more common algal blooms habitat loss and sedimentation Despite these issues Canning Dam and the adjacent parks and forests provide a variety of recreational activities for the public such as bushwalking historic walks and picnic facilities ",
+			"color": "dim|0.45474 gray|0.45474 dim|0.45474 grey|0.45474 gray|0.32331 grey|0.32331 black|0.20475 dark|0.017168 gray|0.017168 dark|0.017168 grey|0.017168  ",
+			"after_weights": " Since|1 its|0.98333 completion|0.96667 in|0.95 1940|0.93333 the|0.91667 Canning|0.9 Dam|0.88333 has|0.86667 contributed|0.85 to|0.83333 a|0.81667 wide|0.8 range|0.78333 of|0.76667 environmental|0.75 and|0.73333 ecological|0.71667 problems|0.7 in|0.68333 surrounding|0.66667 regions|0.65 problems|0.63333 include|0.61667 more|0.6 common|0.58333 algal|0.56667 blooms|0.55 habitat|0.53333 loss|0.51667 and|0.5 sedimentation|0.48333 Despite|0.46667 these|0.45 issues|0.43333 Canning|0.41667 Dam|0.4 and|0.38333 the|0.36667 adjacent|0.35 parks|0.33333 and|0.31667 forests|0.3 provide|0.28333 a|0.26667 variety|0.25 of|0.23333 recreational|0.21667 activities|0.2 for|0.18333 the|0.16667 public|0.15 such|0.13333 as|0.11667 bushwalking|0.1 historic|0.083333 walks|0.066667 and|0.05 picnic|0.033333 facilities|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

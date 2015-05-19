@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bfab4173cca16376db9640a70663531c817e25871cc5f07977b5786bf0b4376",
+			"url": "https://upload.wikimedia.org/math/0/d/b/0dbbcb0507a59c9b6a2345557df6dd8c.png",
+			"previous": " A quartic equation or equation of the fourth degree is an equation consisting in equating to zero a quartic polynomial of the form",
+			"after": " where a 0  The derivative of a quartic function is a cubic function ",
+			"color": "black|0.3695 dim|0.25356 gray|0.25356 dim|0.25356 grey|0.25356 gray|0.16759 grey|0.16759 dark|0.11131 gray|0.11131 dark|0.11131 grey|0.11131 silver|0.048677 light|0.023768 gray|0.023768 light|0.023768 grey|0.023768 gainsboro|0.016354  ",
+			"after_weights": " where|1 a|0.92857 0|0.85714 |0.78571 The|0.71429 derivative|0.64286 of|0.57143 a|0.5 quartic|0.42857 function|0.35714 is|0.28571 a|0.21429 cubic|0.14286 function|0.071429 |0",
+			"previous_weights": " A|0 quartic|0.045455 equation|0.090909 or|0.13636 equation|0.18182 of|0.22727 the|0.27273 fourth|0.31818 degree|0.36364 is|0.40909 an|0.45455 equation|0.5 consisting|0.54545 in|0.59091 equating|0.63636 to|0.68182 zero|0.72727 a|0.77273 quartic|0.81818 polynomial|0.86364 of|0.90909 the|0.95455 form|1"
+		}
+	}
+}

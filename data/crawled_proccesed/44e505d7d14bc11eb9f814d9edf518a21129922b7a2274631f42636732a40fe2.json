@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "44e505d7d14bc11eb9f814d9edf518a21129922b7a2274631f42636732a40fe2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/MIAT_Boeing_737-800_at_ULN.jpg/220px-MIAT_Boeing_737-800_at_ULN.jpg",
+			"previous": " MIAT Mongolian Airlines has the following codeshares as of December 2012 ",
+			"after": " As of April 2015 the MIAT Mongolian Airlines fleet consists of the following aircraft with an average age of 11 5 years 10 11 12 ",
+			"color": "black|0.26171 dark|0.23145 slate|0.23145 gray|0.23145 light|0.1208 slate|0.1208 gray|0.1208 slate|0.12022 gray|0.12022 dim|0.088496 gray|0.088496 dim|0.088496 grey|0.088496 light|0.048662 steel|0.048662 blue|0.048662 gray|0.04607 grey|0.04607 dark|0.035614 gray|0.035614 dark|0.035614 grey|0.035614 light|0.019177 blue|0.019177  ",
+			"after_weights": " As|1 of|0.96 April|0.92 2015|0.88 the|0.84 MIAT|0.8 Mongolian|0.76 Airlines|0.72 fleet|0.68 consists|0.64 of|0.6 the|0.56 following|0.52 aircraft|0.48 with|0.44 an|0.4 average|0.36 age|0.32 of|0.28 11|0.24 5|0.2 years|0.16 10|0.12 11|0.08 12|0.04 |0",
+			"previous_weights": " MIAT|0 Mongolian|0.090909 Airlines|0.18182 has|0.27273 the|0.36364 following|0.45455 codeshares|0.54545 as|0.63636 of|0.72727 December|0.81818 2012|0.90909 |1"
+		}
+	}
+}

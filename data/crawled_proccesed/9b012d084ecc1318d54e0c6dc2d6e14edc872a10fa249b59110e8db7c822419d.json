@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b012d084ecc1318d54e0c6dc2d6e14edc872a10fa249b59110e8db7c822419d",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Blackpool_Trams.jpg/125px-Blackpool_Trams.jpg",
+			"previous": " ",
+			"after": " The Blackpool tramway serves Blackpool and Fleetwood and is the only surviving first generation tramway in the UK dating back to 1885 It is one of the oldest electric tramways in the world and is run by Blackpool Transport owned by Blackpool Borough Council ",
+			"color": "black|0.27538 dim|0.13065 gray|0.13065 dim|0.13065 grey|0.13065 dark|0.097218 gray|0.097218 dark|0.097218 grey|0.097218 gray|0.086915 grey|0.086915 brown|0.062392 silver|0.03663 dark|0.03299 slate|0.03299 gray|0.03299 dark|0.029659 khaki|0.029659 light|0.025324 slate|0.025324 gray|0.025324 light|0.023317 gray|0.023317 light|0.023317 grey|0.023317 burly|0.02068 wood|0.02068 gainsboro|0.017854 dark|0.017103 olive|0.017103 green|0.017103 slate|0.01658 gray|0.01658 cadet|0.016399 blue|0.016399 tan|0.010703 antique|0.0090672 white|0.0090672  ",
+			"after_weights": " The|1 Blackpool|0.97727 tramway|0.95455 serves|0.93182 Blackpool|0.90909 and|0.88636 Fleetwood|0.86364 and|0.84091 is|0.81818 the|0.79545 only|0.77273 surviving|0.75 first|0.72727 generation|0.70455 tramway|0.68182 in|0.65909 the|0.63636 UK|0.61364 dating|0.59091 back|0.56818 to|0.54545 1885|0.52273 It|0.5 is|0.47727 one|0.45455 of|0.43182 the|0.40909 oldest|0.38636 electric|0.36364 tramways|0.34091 in|0.31818 the|0.29545 world|0.27273 and|0.25 is|0.22727 run|0.20455 by|0.18182 Blackpool|0.15909 Transport|0.13636 owned|0.11364 by|0.090909 Blackpool|0.068182 Borough|0.045455 Council|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

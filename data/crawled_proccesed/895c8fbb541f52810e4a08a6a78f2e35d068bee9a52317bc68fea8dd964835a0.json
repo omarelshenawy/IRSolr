@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "895c8fbb541f52810e4a08a6a78f2e35d068bee9a52317bc68fea8dd964835a0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ASPCA_Rogers_Memorial_233_Butler_St_Bk_jeh.jpg/100px-ASPCA_Rogers_Memorial_233_Butler_St_Bk_jeh.jpg",
+			"previous": " Portal Society Selected anniversaries April Portal Society Selected anniversaries March Portal Society Selected anniversaries February",
+			"after": " Portal Society Selected anniversaries May Portal Society Selected anniversaries June",
+			"color": "gray|0.4019 grey|0.4019 dim|0.23048 gray|0.23048 dim|0.23048 grey|0.23048 dark|0.19977 gray|0.19977 dark|0.19977 grey|0.19977 silver|0.060744 light|0.023081 gray|0.023081 light|0.023081 grey|0.023081 light|0.019957 slate|0.019957 gray|0.019957 black|0.018224 slate|0.013632 gray|0.013632 gainsboro|0.010238 dark|0.0079286 slate|0.0079286 gray|0.0079286  ",
+			"after_weights": " Portal|1 Society|0.88889 Selected|0.77778 anniversaries|0.66667 May|0.55556 Portal|0.44444 Society|0.33333 Selected|0.22222 anniversaries|0.11111 June|0",
+			"previous_weights": " Portal|0 Society|0.071429 Selected|0.14286 anniversaries|0.21429 April|0.28571 Portal|0.35714 Society|0.42857 Selected|0.5 anniversaries|0.57143 March|0.64286 Portal|0.71429 Society|0.78571 Selected|0.85714 anniversaries|0.92857 February|1"
+		}
+	}
+}

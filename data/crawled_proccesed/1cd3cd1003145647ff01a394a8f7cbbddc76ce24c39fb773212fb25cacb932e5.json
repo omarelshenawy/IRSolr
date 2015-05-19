@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1cd3cd1003145647ff01a394a8f7cbbddc76ce24c39fb773212fb25cacb932e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/18butt~1.png/200px-18butt~1.png",
+			"previous": " ",
+			"after": " A method used for telephone traffic analysis may fit some circumstances One evaluation looked at 1 peak of busy hour usage 2 average hourly usage 3 message length in seconds 4 maximum delay or wait time desirable and 5 maximum percent of users being delayed Traffic analysis can be applied to radio or telephone communications 8 ",
+			"color": "dim|0.54551 gray|0.54551 dim|0.54551 grey|0.54551 gray|0.26163 grey|0.26163 dark|0.078301 gray|0.078301 dark|0.078301 grey|0.078301 black|0.049882 silver|0.027632 light|0.010919 gray|0.010919 light|0.010919 grey|0.010919 gainsboro|0.0070445  ",
+			"after_weights": " A|1 method|0.98214 used|0.96429 for|0.94643 telephone|0.92857 traffic|0.91071 analysis|0.89286 may|0.875 fit|0.85714 some|0.83929 circumstances|0.82143 One|0.80357 evaluation|0.78571 looked|0.76786 at|0.75 1|0.73214 peak|0.71429 of|0.69643 busy|0.67857 hour|0.66071 usage|0.64286 2|0.625 average|0.60714 hourly|0.58929 usage|0.57143 3|0.55357 message|0.53571 length|0.51786 in|0.5 seconds|0.48214 4|0.46429 maximum|0.44643 delay|0.42857 or|0.41071 wait|0.39286 time|0.375 desirable|0.35714 and|0.33929 5|0.32143 maximum|0.30357 percent|0.28571 of|0.26786 users|0.25 being|0.23214 delayed|0.21429 Traffic|0.19643 analysis|0.17857 can|0.16071 be|0.14286 applied|0.125 to|0.10714 radio|0.089286 or|0.071429 telephone|0.053571 communications|0.035714 8|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

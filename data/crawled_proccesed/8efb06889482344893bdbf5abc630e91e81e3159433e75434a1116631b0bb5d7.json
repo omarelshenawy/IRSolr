@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8efb06889482344893bdbf5abc630e91e81e3159433e75434a1116631b0bb5d7",
+			"url": "https://upload.wikimedia.org/math/4/0/4/404c402c77b501896976dfe60acbff18.png",
+			"previous": " The Riemann zeta function s is defined as an infinite sum",
+			"after": " where s is a complex number with real part bigger than 1 It is a consequence of the fundamental theorem of arithmetic that this sum agrees with the infinite product",
+			"color": "dim|0.32677 gray|0.32677 dim|0.32677 grey|0.32677 gray|0.29012 grey|0.29012 dark|0.20991 gray|0.20991 dark|0.20991 grey|0.20991 silver|0.090912 light|0.036917 gray|0.036917 light|0.036917 grey|0.036917 gainsboro|0.02577 white|0.0046207 smoke|0.0046207  ",
+			"after_weights": " where|1 s|0.96552 is|0.93103 a|0.89655 complex|0.86207 number|0.82759 with|0.7931 real|0.75862 part|0.72414 bigger|0.68966 than|0.65517 1|0.62069 It|0.58621 is|0.55172 a|0.51724 consequence|0.48276 of|0.44828 the|0.41379 fundamental|0.37931 theorem|0.34483 of|0.31034 arithmetic|0.27586 that|0.24138 this|0.2069 sum|0.17241 agrees|0.13793 with|0.10345 the|0.068966 infinite|0.034483 product|0",
+			"previous_weights": " The|0 Riemann|0.1 zeta|0.2 function|0.3 s|0.4 is|0.5 defined|0.6 as|0.7 an|0.8 infinite|0.9 sum|1"
+		}
+	}
+}

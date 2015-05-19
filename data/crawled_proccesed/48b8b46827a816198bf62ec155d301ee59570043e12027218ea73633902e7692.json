@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48b8b46827a816198bf62ec155d301ee59570043e12027218ea73633902e7692",
+			"url": "https://upload.wikimedia.org/math/3/5/c/35c8d82873a0bdb795b0fdecc838bc41.png",
+			"previous": " The four acceleration is the proper time derivative of 4 velocity ",
+			"after": " The transformation rules for three dimensional velocities and accelerations are very awkward even above in standard configuration the velocity equations are quite complicated owing to their non linearity On the other hand the transformation of four velocity and four acceleration are simpler by means of the Lorentz transformation matrix ",
+			"color": "dim|0.3935 gray|0.3935 dim|0.3935 grey|0.3935 gray|0.28348 grey|0.28348 dark|0.16853 gray|0.16853 dark|0.16853 grey|0.16853 silver|0.07251 light|0.035137 gray|0.035137 light|0.035137 grey|0.035137 gainsboro|0.02498 white|0.0047127 smoke|0.0047127  ",
+			"after_weights": " The|1 transformation|0.97959 rules|0.95918 for|0.93878 three|0.91837 dimensional|0.89796 velocities|0.87755 and|0.85714 accelerations|0.83673 are|0.81633 very|0.79592 awkward|0.77551 even|0.7551 above|0.73469 in|0.71429 standard|0.69388 configuration|0.67347 the|0.65306 velocity|0.63265 equations|0.61224 are|0.59184 quite|0.57143 complicated|0.55102 owing|0.53061 to|0.5102 their|0.4898 non|0.46939 linearity|0.44898 On|0.42857 the|0.40816 other|0.38776 hand|0.36735 the|0.34694 transformation|0.32653 of|0.30612 four|0.28571 velocity|0.26531 and|0.2449 four|0.22449 acceleration|0.20408 are|0.18367 simpler|0.16327 by|0.14286 means|0.12245 of|0.10204 the|0.081633 Lorentz|0.061224 transformation|0.040816 matrix|0.020408 |0",
+			"previous_weights": " The|0 four|0.090909 acceleration|0.18182 is|0.27273 the|0.36364 proper|0.45455 time|0.54545 derivative|0.63636 of|0.72727 4|0.81818 velocity|0.90909 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9788cfe505b0705b98110eaa5a7c5f8ccc89015e04b56d6c683f5035de7ef40b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kansai_International_Airport_%281%29.jpg/220px-Kansai_International_Airport_%281%29.jpg",
+			"previous": " ",
+			"after": " Japan Airlines serves 33 international destinations in Asia the Americas Europe and Oceania excluding codeshares The airline s international hubs are Tokyo s Narita International Airport and Haneda Airport Osaka s Kansai International Airport and Osaka International Airport in Itami The airline group also serves 59 domestic destinations within Japan 118 ",
+			"color": "dim|0.2005 gray|0.2005 dim|0.2005 grey|0.2005 firebrick|0.19108 gray|0.13687 grey|0.13687 dark|0.10692 gray|0.10692 dark|0.10692 grey|0.10692 silver|0.04577 brown|0.04381 maroon|0.039982 dark|0.036867 red|0.036867 light|0.027205 slate|0.027205 gray|0.027205 slate|0.024733 gray|0.024733 black|0.020023 light|0.018599 gray|0.018599 light|0.018599 grey|0.018599 crimson|0.016364 dark|0.014776 slate|0.014776 gray|0.014776 light|0.012186 steel|0.012186 blue|0.012186 gainsboro|0.010914 lavender|0.004836 steel|0.0043959 blue|0.0043959  ",
+			"after_weights": " Japan|1 Airlines|0.98039 serves|0.96078 33|0.94118 international|0.92157 destinations|0.90196 in|0.88235 Asia|0.86275 the|0.84314 Americas|0.82353 Europe|0.80392 and|0.78431 Oceania|0.76471 excluding|0.7451 codeshares|0.72549 The|0.70588 airline|0.68627 s|0.66667 international|0.64706 hubs|0.62745 are|0.60784 Tokyo|0.58824 s|0.56863 Narita|0.54902 International|0.52941 Airport|0.5098 and|0.4902 Haneda|0.47059 Airport|0.45098 Osaka|0.43137 s|0.41176 Kansai|0.39216 International|0.37255 Airport|0.35294 and|0.33333 Osaka|0.31373 International|0.29412 Airport|0.27451 in|0.2549 Itami|0.23529 The|0.21569 airline|0.19608 group|0.17647 also|0.15686 serves|0.13725 59|0.11765 domestic|0.098039 destinations|0.078431 within|0.058824 Japan|0.039216 118|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

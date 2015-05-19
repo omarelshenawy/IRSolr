@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40ab13187b65b4a6366fb5b36ba395f956f4c84f1042f173bae96a952dcd9d91",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hinklefieldhouse5.JPG/220px-Hinklefieldhouse5.JPG",
+			"previous": " The following is a table of sports venues in Indiana that have a capacity in excess of 30 000 ",
+			"after": " Indiana has had great sports success at the collegiate level Schools fielding NCAA Division I athletic programs include ",
+			"color": "dark|0.4174 gray|0.4174 dark|0.4174 grey|0.4174 gray|0.14466 grey|0.14466 silver|0.12605 rosy|0.088791 brown|0.088791 dim|0.060108 gray|0.060108 dim|0.060108 grey|0.060108 light|0.045524 gray|0.045524 light|0.045524 grey|0.045524 black|0.038589 gainsboro|0.023773 slate|0.012931 gray|0.012931 light|0.010952 slate|0.010952 gray|0.010952 light|0.010511 steel|0.010511 blue|0.010511  ",
+			"after_weights": " Indiana|1 has|0.94444 had|0.88889 great|0.83333 sports|0.77778 success|0.72222 at|0.66667 the|0.61111 collegiate|0.55556 level|0.5 Schools|0.44444 fielding|0.38889 NCAA|0.33333 Division|0.27778 I|0.22222 athletic|0.16667 programs|0.11111 include|0.055556 |0",
+			"previous_weights": " The|0 following|0.052632 is|0.10526 a|0.15789 table|0.21053 of|0.26316 sports|0.31579 venues|0.36842 in|0.42105 Indiana|0.47368 that|0.52632 have|0.57895 a|0.63158 capacity|0.68421 in|0.73684 excess|0.78947 of|0.84211 30|0.89474 000|0.94737 |1"
+		}
+	}
+}

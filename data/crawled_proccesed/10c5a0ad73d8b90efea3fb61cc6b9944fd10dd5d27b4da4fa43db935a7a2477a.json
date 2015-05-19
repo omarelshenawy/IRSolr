@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "10c5a0ad73d8b90efea3fb61cc6b9944fd10dd5d27b4da4fa43db935a7a2477a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Siberia-FederalSubjects.svg/300px-Siberia-FederalSubjects.svg.png",
+			"previous": " Coordinates 60 0 N 105 0 E 60 000 N 105 000 E 60 000 105 000",
+			"after": " Siberia sa b ri Russian tr Sibir IPA s b ir listen is an extensive geographical region and by the broadest definition is also known as North Asia Siberia has been historically part of Russia since the seventeenth century ",
+			"color": "orange|0.86255 red|0.86255 dark|0.039283 red|0.039283 maroon|0.034414 gray|0.012079 grey|0.012079 firebrick|0.010339 dark|0.0094506 gray|0.0094506 dark|0.0094506 grey|0.0094506 dim|0.0089415 gray|0.0089415 dim|0.0089415 grey|0.0089415 sienna|0.0065256  ",
+			"after_weights": " Siberia|1 sa|0.97436 b|0.94872 ri|0.92308 Russian|0.89744 tr|0.87179 Sibir|0.84615 IPA|0.82051 s|0.79487 b|0.76923 ir|0.74359 listen|0.71795 is|0.69231 an|0.66667 extensive|0.64103 geographical|0.61538 region|0.58974 and|0.5641 by|0.53846 the|0.51282 broadest|0.48718 definition|0.46154 is|0.4359 also|0.41026 known|0.38462 as|0.35897 North|0.33333 Asia|0.30769 Siberia|0.28205 has|0.25641 been|0.23077 historically|0.20513 part|0.17949 of|0.15385 Russia|0.12821 since|0.10256 the|0.076923 seventeenth|0.051282 century|0.025641 |0",
+			"previous_weights": " Coordinates|0 60|0.0625 0|0.125 N|0.1875 105|0.25 0|0.3125 E|0.375 60|0.4375 000|0.5 N|0.5625 105|0.625 000|0.6875 E|0.75 60|0.8125 000|0.875 105|0.9375 000|1"
+		}
+	}
+}

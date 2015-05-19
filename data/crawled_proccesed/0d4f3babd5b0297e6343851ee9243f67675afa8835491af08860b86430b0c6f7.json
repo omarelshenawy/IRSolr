@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d4f3babd5b0297e6343851ee9243f67675afa8835491af08860b86430b0c6f7",
+			"url": "https://upload.wikimedia.org/math/b/7/9/b79f987ed976cac803df73435011eda9.png",
+			"previous": " which is a meromorphic function on the complex plane with values in the vector space of matrices The eigenvalues of A are precisely the poles of R z Since by assumption A has no eigenvalues the function R z is an entire function and Cauchy theorem implies that",
+			"after": " On the other hand R z expanded as a geometric series gives ",
+			"color": "dim|0.42027 gray|0.42027 dim|0.42027 grey|0.42027 gray|0.29713 grey|0.29713 dark|0.15282 gray|0.15282 dark|0.15282 grey|0.15282 silver|0.062725 light|0.030355 gray|0.030355 light|0.030355 grey|0.030355 gainsboro|0.021586 white|0.0040301 smoke|0.0040301  ",
+			"after_weights": " On|1 the|0.91667 other|0.83333 hand|0.75 R|0.66667 z|0.58333 expanded|0.5 as|0.41667 a|0.33333 geometric|0.25 series|0.16667 gives|0.083333 |0",
+			"previous_weights": " which|0 is|0.021277 a|0.042553 meromorphic|0.06383 function|0.085106 on|0.10638 the|0.12766 complex|0.14894 plane|0.17021 with|0.19149 values|0.21277 in|0.23404 the|0.25532 vector|0.2766 space|0.29787 of|0.31915 matrices|0.34043 The|0.3617 eigenvalues|0.38298 of|0.40426 A|0.42553 are|0.44681 precisely|0.46809 the|0.48936 poles|0.51064 of|0.53191 R|0.55319 z|0.57447 Since|0.59574 by|0.61702 assumption|0.6383 A|0.65957 has|0.68085 no|0.70213 eigenvalues|0.7234 the|0.74468 function|0.76596 R|0.78723 z|0.80851 is|0.82979 an|0.85106 entire|0.87234 function|0.89362 and|0.91489 Cauchy|0.93617 theorem|0.95745 implies|0.97872 that|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "722d9734245a421d7182df13ff33f918b6d43572f27a382d4d591f42eb41775f",
+			"url": "https://upload.wikimedia.org/math/a/3/0/a30701972d1a348e35f2def11ec2d344.png",
+			"previous": " For example let be the matrix The left hand side of this equation can be seen using Leibniz rule for the determinant to be a polynomial function of the variable The degree of this polynomial is the order of the matrix Its coefficients depend on the entries of except that its term of degree is always This polynomial is called the characteristic polynomial of and the above equation is called the characteristic equation or less often the secular equation of ",
+			"after": " The characteristic polynomial of is",
+			"color": "dim|0.3908 gray|0.3908 dim|0.3908 grey|0.3908 gray|0.20323 grey|0.20323 dark|0.13907 gray|0.13907 dark|0.13907 grey|0.13907 black|0.13688 silver|0.072357 light|0.027191 gray|0.027191 light|0.027191 grey|0.027191 gainsboro|0.019711  ",
+			"after_weights": " The|1 characteristic|0.75 polynomial|0.5 of|0.25 is|0",
+			"previous_weights": " For|0 example|0.0125 let|0.025 be|0.0375 the|0.05 matrix|0.0625 The|0.075 left|0.0875 hand|0.1 side|0.1125 of|0.125 this|0.1375 equation|0.15 can|0.1625 be|0.175 seen|0.1875 using|0.2 Leibniz|0.2125 rule|0.225 for|0.2375 the|0.25 determinant|0.2625 to|0.275 be|0.2875 a|0.3 polynomial|0.3125 function|0.325 of|0.3375 the|0.35 variable|0.3625 The|0.375 degree|0.3875 of|0.4 this|0.4125 polynomial|0.425 is|0.4375 the|0.45 order|0.4625 of|0.475 the|0.4875 matrix|0.5 Its|0.5125 coefficients|0.525 depend|0.5375 on|0.55 the|0.5625 entries|0.575 of|0.5875 except|0.6 that|0.6125 its|0.625 term|0.6375 of|0.65 degree|0.6625 is|0.675 always|0.6875 This|0.7 polynomial|0.7125 is|0.725 called|0.7375 the|0.75 characteristic|0.7625 polynomial|0.775 of|0.7875 and|0.8 the|0.8125 above|0.825 equation|0.8375 is|0.85 called|0.8625 the|0.875 characteristic|0.8875 equation|0.9 or|0.9125 less|0.925 often|0.9375 the|0.95 secular|0.9625 equation|0.975 of|0.9875 |1"
+		}
+	}
+}

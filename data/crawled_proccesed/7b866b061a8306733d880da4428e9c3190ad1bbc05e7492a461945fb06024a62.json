@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b866b061a8306733d880da4428e9c3190ad1bbc05e7492a461945fb06024a62",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mumbai_airport_domestic_departure_terminal_1C_%284%29.JPG/220px-Mumbai_airport_domestic_departure_terminal_1C_%284%29.JPG",
+			"previous": " ",
+			"after": " A domestic airport is an airport that handles only domestic flights flights within the same country Domestic airports do not have customs and immigration facilities and so cannot handle flights to or from a foreign airport ",
+			"color": "dark|0.27736 gray|0.27736 dark|0.27736 grey|0.27736 silver|0.25024 dim|0.13466 gray|0.13466 dim|0.13466 grey|0.13466 light|0.082145 gray|0.082145 light|0.082145 grey|0.082145 black|0.0808 gray|0.061412 grey|0.061412 gainsboro|0.039986 light|0.0076846 slate|0.0076846 gray|0.0076846 slate|0.0070025 gray|0.0070025 white|0.0066826 smoke|0.0066826  ",
+			"after_weights": " A|1 domestic|0.97222 airport|0.94444 is|0.91667 an|0.88889 airport|0.86111 that|0.83333 handles|0.80556 only|0.77778 domestic|0.75 flights|0.72222 flights|0.69444 within|0.66667 the|0.63889 same|0.61111 country|0.58333 Domestic|0.55556 airports|0.52778 do|0.5 not|0.47222 have|0.44444 customs|0.41667 and|0.38889 immigration|0.36111 facilities|0.33333 and|0.30556 so|0.27778 cannot|0.25 handle|0.22222 flights|0.19444 to|0.16667 or|0.13889 from|0.11111 a|0.083333 foreign|0.055556 airport|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

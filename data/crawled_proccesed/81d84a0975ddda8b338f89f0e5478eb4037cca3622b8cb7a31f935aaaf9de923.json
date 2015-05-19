@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d84a0975ddda8b338f89f0e5478eb4037cca3622b8cb7a31f935aaaf9de923",
+			"url": "https://upload.wikimedia.org/math/6/2/6/62642c5f1cc6c27d4bd29b3a7284edbd.png",
+			"previous": " The other type of wave to be considered is one with localized structure described by an envelope which may be expressed mathematically as for example ",
+			"after": " where now A k1 the integral is the inverse fourier transform of A k1 is a function exhibiting a sharp peak in a region of wave vectors k surrounding the point k1 k In exponential form ",
+			"color": "dim|0.36216 gray|0.36216 dim|0.36216 grey|0.36216 gray|0.28574 grey|0.28574 dark|0.1807 gray|0.1807 dark|0.1807 grey|0.1807 silver|0.078641 light|0.039757 gray|0.039757 light|0.039757 grey|0.039757 gainsboro|0.028279 white|0.0054782 smoke|0.0054782  ",
+			"after_weights": " where|1 now|0.97222 A|0.94444 k1|0.91667 the|0.88889 integral|0.86111 is|0.83333 the|0.80556 inverse|0.77778 fourier|0.75 transform|0.72222 of|0.69444 A|0.66667 k1|0.63889 is|0.61111 a|0.58333 function|0.55556 exhibiting|0.52778 a|0.5 sharp|0.47222 peak|0.44444 in|0.41667 a|0.38889 region|0.36111 of|0.33333 wave|0.30556 vectors|0.27778 k|0.25 surrounding|0.22222 the|0.19444 point|0.16667 k1|0.13889 k|0.11111 In|0.083333 exponential|0.055556 form|0.027778 |0",
+			"previous_weights": " The|0 other|0.04 type|0.08 of|0.12 wave|0.16 to|0.2 be|0.24 considered|0.28 is|0.32 one|0.36 with|0.4 localized|0.44 structure|0.48 described|0.52 by|0.56 an|0.6 envelope|0.64 which|0.68 may|0.72 be|0.76 expressed|0.8 mathematically|0.84 as|0.88 for|0.92 example|0.96 |1"
+		}
+	}
+}

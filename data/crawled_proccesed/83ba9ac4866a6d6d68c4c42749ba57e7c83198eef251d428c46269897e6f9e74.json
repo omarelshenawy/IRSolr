@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "83ba9ac4866a6d6d68c4c42749ba57e7c83198eef251d428c46269897e6f9e74",
+			"url": "https://upload.wikimedia.org/math/d/a/7/da7870e835d1ec5459f6539e37474d26.png",
+			"previous": " The norm on Hurwitz quaternions satisfies a form of the Euclidean property for any quaternion with rational coefficients we can choose a Hurwitz quaternion so that by first choosing so that and then so that for Then we obtain",
+			"after": " The ring of Hurwitz quaternions is not commutative hence it is not an actual Euclidean domain and it does not have unique factorization in the usual sense Nevertheless the property above implies that every right ideal is principal Thus there is a Hurwitz quaternion such that",
+			"color": "dim|0.24242 gray|0.24242 dim|0.24242 grey|0.24242 gray|0.23077 grey|0.23077 black|0.22204 dark|0.2109 gray|0.2109 dark|0.2109 grey|0.2109 silver|0.076749 light|0.013535 gray|0.013535 light|0.013535 grey|0.013535 gainsboro|0.0035917  ",
+			"after_weights": " The|1 ring|0.97778 of|0.95556 Hurwitz|0.93333 quaternions|0.91111 is|0.88889 not|0.86667 commutative|0.84444 hence|0.82222 it|0.8 is|0.77778 not|0.75556 an|0.73333 actual|0.71111 Euclidean|0.68889 domain|0.66667 and|0.64444 it|0.62222 does|0.6 not|0.57778 have|0.55556 unique|0.53333 factorization|0.51111 in|0.48889 the|0.46667 usual|0.44444 sense|0.42222 Nevertheless|0.4 the|0.37778 property|0.35556 above|0.33333 implies|0.31111 that|0.28889 every|0.26667 right|0.24444 ideal|0.22222 is|0.2 principal|0.17778 Thus|0.15556 there|0.13333 is|0.11111 a|0.088889 Hurwitz|0.066667 quaternion|0.044444 such|0.022222 that|0",
+			"previous_weights": " The|0 norm|0.026316 on|0.052632 Hurwitz|0.078947 quaternions|0.10526 satisfies|0.13158 a|0.15789 form|0.18421 of|0.21053 the|0.23684 Euclidean|0.26316 property|0.28947 for|0.31579 any|0.34211 quaternion|0.36842 with|0.39474 rational|0.42105 coefficients|0.44737 we|0.47368 can|0.5 choose|0.52632 a|0.55263 Hurwitz|0.57895 quaternion|0.60526 so|0.63158 that|0.65789 by|0.68421 first|0.71053 choosing|0.73684 so|0.76316 that|0.78947 and|0.81579 then|0.84211 so|0.86842 that|0.89474 for|0.92105 Then|0.94737 we|0.97368 obtain|1"
+		}
+	}
+}

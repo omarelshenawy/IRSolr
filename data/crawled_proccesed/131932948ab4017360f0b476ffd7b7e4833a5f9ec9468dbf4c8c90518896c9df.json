@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "131932948ab4017360f0b476ffd7b7e4833a5f9ec9468dbf4c8c90518896c9df",
+			"url": "https://upload.wikimedia.org/math/3/a/b/3ab16bf0c438d3b6ff3eda29ffc877be.png",
+			"previous": " A computationally more convenient form follows by substituting into the trigonometric identity  The result is a usable relationship between the eccentric anomaly E and the true anomaly ",
+			"after": " Get Multiplying by 1 gives the result",
+			"color": "dim|0.36511 gray|0.36511 dim|0.36511 grey|0.36511 gray|0.2883 grey|0.2883 dark|0.17332 gray|0.17332 dark|0.17332 grey|0.17332 silver|0.081776 light|0.040961 gray|0.040961 light|0.040961 grey|0.040961 gainsboro|0.030393 white|0.0045417 smoke|0.0045417  ",
+			"after_weights": " Get|1 Multiplying|0.83333 by|0.66667 1|0.5 gives|0.33333 the|0.16667 result|0",
+			"previous_weights": " A|0 computationally|0.035714 more|0.071429 convenient|0.10714 form|0.14286 follows|0.17857 by|0.21429 substituting|0.25 into|0.28571 the|0.32143 trigonometric|0.35714 identity|0.39286 |0.42857 The|0.46429 result|0.5 is|0.53571 a|0.57143 usable|0.60714 relationship|0.64286 between|0.67857 the|0.71429 eccentric|0.75 anomaly|0.78571 E|0.82143 and|0.85714 the|0.89286 true|0.92857 anomaly|0.96429 |1"
+		}
+	}
+}

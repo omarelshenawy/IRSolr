@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28cd876f47bbae9981744eafd9a8a623b7c84a7718560d349692825ef19e9a41",
+			"url": "https://upload.wikimedia.org/math/0/c/8/0c8f538f61acf893cfa5885b443dd13f.png",
+			"previous": " The cdf necessarily satisfies the following properties ",
+			"after": " If is absolutely continuous i e its derivative exists and integrating the derivative gives us the cdf back again then the random variable X is said to have a probability density function or pdf or simply density",
+			"color": "dim|0.37374 gray|0.37374 dim|0.37374 grey|0.37374 gray|0.29446 grey|0.29446 dark|0.17413 gray|0.17413 dark|0.17413 grey|0.17413 silver|0.073318 light|0.036744 gray|0.036744 light|0.036744 grey|0.036744 gainsboro|0.026073 white|0.0051651 smoke|0.0051651  ",
+			"after_weights": " If|1 is|0.97222 absolutely|0.94444 continuous|0.91667 i|0.88889 e|0.86111 its|0.83333 derivative|0.80556 exists|0.77778 and|0.75 integrating|0.72222 the|0.69444 derivative|0.66667 gives|0.63889 us|0.61111 the|0.58333 cdf|0.55556 back|0.52778 again|0.5 then|0.47222 the|0.44444 random|0.41667 variable|0.38889 X|0.36111 is|0.33333 said|0.30556 to|0.27778 have|0.25 a|0.22222 probability|0.19444 density|0.16667 function|0.13889 or|0.11111 pdf|0.083333 or|0.055556 simply|0.027778 density|0",
+			"previous_weights": " The|0 cdf|0.14286 necessarily|0.28571 satisfies|0.42857 the|0.57143 following|0.71429 properties|0.85714 |1"
+		}
+	}
+}

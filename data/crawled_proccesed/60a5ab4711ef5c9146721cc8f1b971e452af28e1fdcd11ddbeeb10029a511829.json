@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "60a5ab4711ef5c9146721cc8f1b971e452af28e1fdcd11ddbeeb10029a511829",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aer_Lingus_A321%2C_EI-CPF%2C_%22St._Ida%22_%283864805943%29.jpg/220px-Aer_Lingus_A321%2C_EI-CPF%2C_%22St._Ida%22_%283864805943%29.jpg",
+			"previous": " Aer Lingus has codeshare agreements with the following airlines ",
+			"after": " As of 31 March 2015 Aer Lingus uses an all Airbus fleet composed of the following aircraft 93  On 13 March 2007 Aer Lingus announced that it had requested proposals from Boeing and Airbus for sales of the 787 and the A350 XWB and intended to make an order for 14 long haul aircraft in the second quarter of 2007 ",
+			"color": "dark|0.52919 gray|0.52919 dark|0.52919 grey|0.52919 dim|0.07602 gray|0.07602 dim|0.07602 grey|0.07602 black|0.06884 silver|0.067324 gray|0.043972 grey|0.043972 teal|0.036827 dark|0.035826 slate|0.035826 gray|0.035826 light|0.024144 slate|0.024144 gray|0.024144 light|0.016108 steel|0.016108 blue|0.016108 light|0.013366 gray|0.013366 light|0.013366 grey|0.013366 dark|0.012717 cyan|0.012717 slate|0.011977 gray|0.011977 cadet|0.010843 blue|0.010843 gainsboro|0.010002  ",
+			"after_weights": " As|1 of|0.98361 31|0.96721 March|0.95082 2015|0.93443 Aer|0.91803 Lingus|0.90164 uses|0.88525 an|0.86885 all|0.85246 Airbus|0.83607 fleet|0.81967 composed|0.80328 of|0.78689 the|0.77049 following|0.7541 aircraft|0.7377 93|0.72131 |0.70492 On|0.68852 13|0.67213 March|0.65574 2007|0.63934 Aer|0.62295 Lingus|0.60656 announced|0.59016 that|0.57377 it|0.55738 had|0.54098 requested|0.52459 proposals|0.5082 from|0.4918 Boeing|0.47541 and|0.45902 Airbus|0.44262 for|0.42623 sales|0.40984 of|0.39344 the|0.37705 787|0.36066 and|0.34426 the|0.32787 A350|0.31148 XWB|0.29508 and|0.27869 intended|0.2623 to|0.2459 make|0.22951 an|0.21311 order|0.19672 for|0.18033 14|0.16393 long|0.14754 haul|0.13115 aircraft|0.11475 in|0.098361 the|0.081967 second|0.065574 quarter|0.04918 of|0.032787 2007|0.016393 |0",
+			"previous_weights": " Aer|0 Lingus|0.11111 has|0.22222 codeshare|0.33333 agreements|0.44444 with|0.55556 the|0.66667 following|0.77778 airlines|0.88889 |1"
+		}
+	}
+}

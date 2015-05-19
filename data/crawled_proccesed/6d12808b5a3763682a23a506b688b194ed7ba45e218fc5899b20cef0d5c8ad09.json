@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d12808b5a3763682a23a506b688b194ed7ba45e218fc5899b20cef0d5c8ad09",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ng-GII-bams-N82CR-070709-01-16.jpg/220px-Ng-GII-bams-N82CR-070709-01-16.jpg",
+			"previous": " ",
+			"after": " The Gulfstream II G II is an American twin engine business jet designed and built by Grumman and then in succession Grumman American and finally Gulfstream American Its Grumman model number is G 1159 and its US military designation is C 11 Gulfstream II It has been succeeded by the Gulfstream III The first Gulfstream II flew on October 2 1966 1 ",
+			"color": "dim|0.6761 gray|0.6761 dim|0.6761 grey|0.6761 gray|0.19129 grey|0.19129 black|0.042353 dark|0.037963 gray|0.037963 dark|0.037963 grey|0.037963 silver|0.015343 slate|0.013045 gray|0.013045 light|0.010306 slate|0.010306 gray|0.010306 light|0.006925 gray|0.006925 light|0.006925 grey|0.006925  ",
+			"after_weights": " The|1 Gulfstream|0.98387 II|0.96774 G|0.95161 II|0.93548 is|0.91935 an|0.90323 American|0.8871 twin|0.87097 engine|0.85484 business|0.83871 jet|0.82258 designed|0.80645 and|0.79032 built|0.77419 by|0.75806 Grumman|0.74194 and|0.72581 then|0.70968 in|0.69355 succession|0.67742 Grumman|0.66129 American|0.64516 and|0.62903 finally|0.6129 Gulfstream|0.59677 American|0.58065 Its|0.56452 Grumman|0.54839 model|0.53226 number|0.51613 is|0.5 G|0.48387 1159|0.46774 and|0.45161 its|0.43548 US|0.41935 military|0.40323 designation|0.3871 is|0.37097 C|0.35484 11|0.33871 Gulfstream|0.32258 II|0.30645 It|0.29032 has|0.27419 been|0.25806 succeeded|0.24194 by|0.22581 the|0.20968 Gulfstream|0.19355 III|0.17742 The|0.16129 first|0.14516 Gulfstream|0.12903 II|0.1129 flew|0.096774 on|0.080645 October|0.064516 2|0.048387 1966|0.032258 1|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

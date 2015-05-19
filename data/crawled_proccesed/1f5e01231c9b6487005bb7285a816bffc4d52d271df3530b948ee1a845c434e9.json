@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f5e01231c9b6487005bb7285a816bffc4d52d271df3530b948ee1a845c434e9",
+			"url": "https://upload.wikimedia.org/math/e/a/b/eabbf66d59fba93b387bd69756c6a918.png",
+			"previous": " Programming language theory is a branch of computer science that deals with the design implementation analysis characterization and classification of programming languages and their individual features It falls within the discipline of computer science both depending on and affecting mathematics software engineering and linguistics It is an active research area with numerous dedicated academic journals ",
+			"after": " ",
+			"color": "dim|0.40138 gray|0.40138 dim|0.40138 grey|0.40138 gray|0.3311 grey|0.3311 dark|0.16577 gray|0.16577 dark|0.16577 grey|0.16577 silver|0.045392 light|0.02366 gray|0.02366 light|0.02366 grey|0.02366 gainsboro|0.016551 white|0.003242 smoke|0.003242  ",
+			"after_weights": " ",
+			"previous_weights": " Programming|0 language|0.018182 theory|0.036364 is|0.054545 a|0.072727 branch|0.090909 of|0.10909 computer|0.12727 science|0.14545 that|0.16364 deals|0.18182 with|0.2 the|0.21818 design|0.23636 implementation|0.25455 analysis|0.27273 characterization|0.29091 and|0.30909 classification|0.32727 of|0.34545 programming|0.36364 languages|0.38182 and|0.4 their|0.41818 individual|0.43636 features|0.45455 It|0.47273 falls|0.49091 within|0.50909 the|0.52727 discipline|0.54545 of|0.56364 computer|0.58182 science|0.6 both|0.61818 depending|0.63636 on|0.65455 and|0.67273 affecting|0.69091 mathematics|0.70909 software|0.72727 engineering|0.74545 and|0.76364 linguistics|0.78182 It|0.8 is|0.81818 an|0.83636 active|0.85455 research|0.87273 area|0.89091 with|0.90909 numerous|0.92727 dedicated|0.94545 academic|0.96364 journals|0.98182 |1"
+		}
+	}
+}

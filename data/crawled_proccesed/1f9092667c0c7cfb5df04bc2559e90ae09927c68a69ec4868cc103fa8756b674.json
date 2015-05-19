@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f9092667c0c7cfb5df04bc2559e90ae09927c68a69ec4868cc103fa8756b674",
+			"url": "https://upload.wikimedia.org/math/f/4/1/f41045155001811a338e8688a430f5bc.png",
+			"previous": " If either event A or event B occurs on a single performance of an experiment this is called the union of the events A and B denoted as If two events are mutually exclusive then the probability of either occurring is",
+			"after": " For example the chance of rolling a 1 or 2 on a six sided die is",
+			"color": "dim|0.41149 gray|0.41149 dim|0.41149 grey|0.41149 gray|0.28123 grey|0.28123 dark|0.16526 gray|0.16526 dark|0.16526 grey|0.16526 silver|0.070491 light|0.033874 gray|0.033874 light|0.033874 grey|0.033874 gainsboro|0.023534 white|0.0036652 smoke|0.0036652  ",
+			"after_weights": " For|1 example|0.93333 the|0.86667 chance|0.8 of|0.73333 rolling|0.66667 a|0.6 1|0.53333 or|0.46667 2|0.4 on|0.33333 a|0.26667 six|0.2 sided|0.13333 die|0.066667 is|0",
+			"previous_weights": " If|0 either|0.025 event|0.05 A|0.075 or|0.1 event|0.125 B|0.15 occurs|0.175 on|0.2 a|0.225 single|0.25 performance|0.275 of|0.3 an|0.325 experiment|0.35 this|0.375 is|0.4 called|0.425 the|0.45 union|0.475 of|0.5 the|0.525 events|0.55 A|0.575 and|0.6 B|0.625 denoted|0.65 as|0.675 If|0.7 two|0.725 events|0.75 are|0.775 mutually|0.8 exclusive|0.825 then|0.85 the|0.875 probability|0.9 of|0.925 either|0.95 occurring|0.975 is|1"
+		}
+	}
+}

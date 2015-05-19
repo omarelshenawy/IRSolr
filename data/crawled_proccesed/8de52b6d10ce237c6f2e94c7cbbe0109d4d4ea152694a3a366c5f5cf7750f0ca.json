@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8de52b6d10ce237c6f2e94c7cbbe0109d4d4ea152694a3a366c5f5cf7750f0ca",
+			"url": "https://upload.wikimedia.org/math/9/8/8/988e2ddf95a081f5b5f26c7f5f03830e.png",
+			"previous": " and",
+			"after": " A lattice element y is said to cover another element x if y x but there does not exist a z such that y z x Here y x means x y and x y  A lattice L is called graded sometimes ranked but see this article for an alternative meaning if it can be equipped with a rank function r from L to sometimes to compatible with the ordering so r x r y whenever x y such that whenever y covers x then r y r x 1 The value of the rank function for a lattice element is called its rank ",
+			"color": "dim|0.31759 gray|0.31759 dim|0.31759 grey|0.31759 gray|0.24866 grey|0.24866 dark|0.14817 gray|0.14817 dark|0.14817 grey|0.14817 black|0.14084 silver|0.066622 light|0.03487 gray|0.03487 light|0.03487 grey|0.03487 gainsboro|0.025411 white|0.0038941 smoke|0.0038941  ",
+			"after_weights": " A|1 lattice|0.99048 element|0.98095 y|0.97143 is|0.9619 said|0.95238 to|0.94286 cover|0.93333 another|0.92381 element|0.91429 x|0.90476 if|0.89524 y|0.88571 x|0.87619 but|0.86667 there|0.85714 does|0.84762 not|0.8381 exist|0.82857 a|0.81905 z|0.80952 such|0.8 that|0.79048 y|0.78095 z|0.77143 x|0.7619 Here|0.75238 y|0.74286 x|0.73333 means|0.72381 x|0.71429 y|0.70476 and|0.69524 x|0.68571 y|0.67619 |0.66667 A|0.65714 lattice|0.64762 L|0.6381 is|0.62857 called|0.61905 graded|0.60952 sometimes|0.6 ranked|0.59048 but|0.58095 see|0.57143 this|0.5619 article|0.55238 for|0.54286 an|0.53333 alternative|0.52381 meaning|0.51429 if|0.50476 it|0.49524 can|0.48571 be|0.47619 equipped|0.46667 with|0.45714 a|0.44762 rank|0.4381 function|0.42857 r|0.41905 from|0.40952 L|0.4 to|0.39048 sometimes|0.38095 to|0.37143 compatible|0.3619 with|0.35238 the|0.34286 ordering|0.33333 so|0.32381 r|0.31429 x|0.30476 r|0.29524 y|0.28571 whenever|0.27619 x|0.26667 y|0.25714 such|0.24762 that|0.2381 whenever|0.22857 y|0.21905 covers|0.20952 x|0.2 then|0.19048 r|0.18095 y|0.17143 r|0.1619 x|0.15238 1|0.14286 The|0.13333 value|0.12381 of|0.11429 the|0.10476 rank|0.095238 function|0.085714 for|0.07619 a|0.066667 lattice|0.057143 element|0.047619 is|0.038095 called|0.028571 its|0.019048 rank|0.0095238 |0",
+			"previous_weights": " and|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4828438fb616292f4db6ab12734739da8264d04363e9698b83b8545d989f688f",
+			"url": "https://upload.wikimedia.org/math/1/a/9/1a9f11a369c36ead474e94b557b03c57.png",
+			"previous": " The camber line is defined in two sections 8  For example the NACA 23112 profile describes an airfoil with design lift coefficient of 0 3 0 15 2 the point of maximum camber located at 15 chord 5 3 reflex camber 1 and maximum thickness of 12 of chord length 12 ",
+			"after": " 3 digit camber lines provide a very far forward location for the maximum camber ",
+			"color": " ",
+			"after_weights": " 3|1 digit|0.92857 camber|0.85714 lines|0.78571 provide|0.71429 a|0.64286 very|0.57143 far|0.5 forward|0.42857 location|0.35714 for|0.28571 the|0.21429 maximum|0.14286 camber|0.071429 |0",
+			"previous_weights": " The|0 camber|0.019231 line|0.038462 is|0.057692 defined|0.076923 in|0.096154 two|0.11538 sections|0.13462 8|0.15385 |0.17308 For|0.19231 example|0.21154 the|0.23077 NACA|0.25 23112|0.26923 profile|0.28846 describes|0.30769 an|0.32692 airfoil|0.34615 with|0.36538 design|0.38462 lift|0.40385 coefficient|0.42308 of|0.44231 0|0.46154 3|0.48077 0|0.5 15|0.51923 2|0.53846 the|0.55769 point|0.57692 of|0.59615 maximum|0.61538 camber|0.63462 located|0.65385 at|0.67308 15|0.69231 chord|0.71154 5|0.73077 3|0.75 reflex|0.76923 camber|0.78846 1|0.80769 and|0.82692 maximum|0.84615 thickness|0.86538 of|0.88462 12|0.90385 of|0.92308 chord|0.94231 length|0.96154 12|0.98077 |1"
+		}
+	}
+}

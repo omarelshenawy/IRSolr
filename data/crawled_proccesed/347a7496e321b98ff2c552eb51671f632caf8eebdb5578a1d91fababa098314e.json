@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "347a7496e321b98ff2c552eb51671f632caf8eebdb5578a1d91fababa098314e",
+			"url": "https://upload.wikimedia.org/math/1/e/6/1e6c18c310de9e5628fb78b73182416f.png",
+			"previous": " where is the quotient",
+			"after": " The next smallest eigenvalue and eigenfunction can be obtained by minimizing Q under the additional constraint This procedure can be extended to obtain the complete sequence of eigenvalues and eigenfunctions for the problem ",
+			"color": "dark|0.29075 gray|0.29075 dark|0.29075 grey|0.29075 gray|0.27124 grey|0.27124 silver|0.15216 dim|0.11902 gray|0.11902 dim|0.11902 grey|0.11902 light|0.082135 gray|0.082135 light|0.082135 grey|0.082135 gainsboro|0.056661 white|0.0078491 smoke|0.0078491 linen|0.0038164 lavender|0.0030584 blush|0.0030584 alice|0.0029661 blue|0.0029661 ghost|0.002825 white|0.002825 sea|0.0026271 shell|0.0026271 snow|0.002502  ",
+			"after_weights": " The|1 next|0.9697 smallest|0.93939 eigenvalue|0.90909 and|0.87879 eigenfunction|0.84848 can|0.81818 be|0.78788 obtained|0.75758 by|0.72727 minimizing|0.69697 Q|0.66667 under|0.63636 the|0.60606 additional|0.57576 constraint|0.54545 This|0.51515 procedure|0.48485 can|0.45455 be|0.42424 extended|0.39394 to|0.36364 obtain|0.33333 the|0.30303 complete|0.27273 sequence|0.24242 of|0.21212 eigenvalues|0.18182 and|0.15152 eigenfunctions|0.12121 for|0.090909 the|0.060606 problem|0.030303 |0",
+			"previous_weights": " where|0 is|0.33333 the|0.66667 quotient|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e0f17f714b59e686079f6235f41222e1de67584edf983aa3c51f57f91e0120c",
+			"url": "https://upload.wikimedia.org/math/8/6/e/86e2431bc784d1b00f46c2a6ad2cfcbe.png",
+			"previous": " The area of the ellipse is The eccentricity is the coefficient of variation between rmin and rmax ",
+			"after": " The special case of a circle is 0 resulting in r p rmin rmax a b and A r2  The orbital radius and angular velocity of the planet in the elliptical orbit will vary This is shown in the animation the planet travels faster when closer to the sun then slower when farther from the sun Kepler s second law states that the blue sector has constant area ",
+			"color": "black|0.39136 dim|0.25123 gray|0.25123 dim|0.25123 grey|0.25123 gray|0.16004 grey|0.16004 dark|0.099259 gray|0.099259 dark|0.099259 grey|0.099259 silver|0.045112 light|0.023307 gray|0.023307 light|0.023307 grey|0.023307 gainsboro|0.016758  ",
+			"after_weights": " The|1 special|0.98551 case|0.97101 of|0.95652 a|0.94203 circle|0.92754 is|0.91304 0|0.89855 resulting|0.88406 in|0.86957 r|0.85507 p|0.84058 rmin|0.82609 rmax|0.81159 a|0.7971 b|0.78261 and|0.76812 A|0.75362 r2|0.73913 |0.72464 The|0.71014 orbital|0.69565 radius|0.68116 and|0.66667 angular|0.65217 velocity|0.63768 of|0.62319 the|0.6087 planet|0.5942 in|0.57971 the|0.56522 elliptical|0.55072 orbit|0.53623 will|0.52174 vary|0.50725 This|0.49275 is|0.47826 shown|0.46377 in|0.44928 the|0.43478 animation|0.42029 the|0.4058 planet|0.3913 travels|0.37681 faster|0.36232 when|0.34783 closer|0.33333 to|0.31884 the|0.30435 sun|0.28986 then|0.27536 slower|0.26087 when|0.24638 farther|0.23188 from|0.21739 the|0.2029 sun|0.18841 Kepler|0.17391 s|0.15942 second|0.14493 law|0.13043 states|0.11594 that|0.10145 the|0.086957 blue|0.072464 sector|0.057971 has|0.043478 constant|0.028986 area|0.014493 |0",
+			"previous_weights": " The|0 area|0.058824 of|0.11765 the|0.17647 ellipse|0.23529 is|0.29412 The|0.35294 eccentricity|0.41176 is|0.47059 the|0.52941 coefficient|0.58824 of|0.64706 variation|0.70588 between|0.76471 rmin|0.82353 and|0.88235 rmax|0.94118 |1"
+		}
+	}
+}

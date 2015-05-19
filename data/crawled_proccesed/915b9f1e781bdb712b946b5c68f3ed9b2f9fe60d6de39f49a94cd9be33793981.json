@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "915b9f1e781bdb712b946b5c68f3ed9b2f9fe60d6de39f49a94cd9be33793981",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LAX_LA.jpg/220px-LAX_LA.jpg",
+			"previous": " ",
+			"after": " The main international and domestic airport serving Los Angeles is Los Angeles International Airport IATA LAX ICAO KLAX commonly referred to by its airport code LAX The sixth busiest commercial airport in the world and the third busiest in the United States LAX handled over 66 million passengers and close to 2 million tons of cargo in 2013 ",
+			"color": "corn|0.19672 flower|0.19672 blue|0.19672 dodger|0.14609 blue|0.14609 dim|0.083945 gray|0.083945 dim|0.083945 grey|0.083945 royal|0.067498 blue|0.067498 burly|0.044635 wood|0.044635 gray|0.039359 grey|0.039359 tan|0.036372 light|0.027926 sky|0.027926 blue|0.027926 midnight|0.024257 blue|0.024257  ",
+			"after_weights": " The|1 main|0.98276 international|0.96552 and|0.94828 domestic|0.93103 airport|0.91379 serving|0.89655 Los|0.87931 Angeles|0.86207 is|0.84483 Los|0.82759 Angeles|0.81034 International|0.7931 Airport|0.77586 IATA|0.75862 LAX|0.74138 ICAO|0.72414 KLAX|0.7069 commonly|0.68966 referred|0.67241 to|0.65517 by|0.63793 its|0.62069 airport|0.60345 code|0.58621 LAX|0.56897 The|0.55172 sixth|0.53448 busiest|0.51724 commercial|0.5 airport|0.48276 in|0.46552 the|0.44828 world|0.43103 and|0.41379 the|0.39655 third|0.37931 busiest|0.36207 in|0.34483 the|0.32759 United|0.31034 States|0.2931 LAX|0.27586 handled|0.25862 over|0.24138 66|0.22414 million|0.2069 passengers|0.18966 and|0.17241 close|0.15517 to|0.13793 2|0.12069 million|0.10345 tons|0.086207 of|0.068966 cargo|0.051724 in|0.034483 2013|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

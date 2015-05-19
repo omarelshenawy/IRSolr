@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a2a812b03f0eee93af0253005de49ebf7ca757f617fb7a1e94cc708960c08ca",
+			"url": "https://upload.wikimedia.org/math/1/1/9/11967b4334be4dbc249cb66d2325db4f.png",
+			"previous": " or",
+			"after": " In either case the roots of Q are the roots of the factors which may be computed by solving quadratic or cubic equations  Detecting such factorizations can be done by using the factor function of every computer algebra system But in many cases it may be done by hand written computation In the preceding section we have already seen that the polynomial is always reducible if its discriminant is zero this is true for polynomials of every degree ",
+			"color": "gray|0.25649 grey|0.25649 dim|0.25428 gray|0.25428 dim|0.25428 grey|0.25428 dark|0.21967 gray|0.21967 dark|0.21967 grey|0.21967 black|0.17039 silver|0.078808 light|0.01608 gray|0.01608 light|0.01608 grey|0.01608 gainsboro|0.0042822  ",
+			"after_weights": " In|1 either|0.98734 case|0.97468 the|0.96203 roots|0.94937 of|0.93671 Q|0.92405 are|0.91139 the|0.89873 roots|0.88608 of|0.87342 the|0.86076 factors|0.8481 which|0.83544 may|0.82278 be|0.81013 computed|0.79747 by|0.78481 solving|0.77215 quadratic|0.75949 or|0.74684 cubic|0.73418 equations|0.72152 |0.70886 Detecting|0.6962 such|0.68354 factorizations|0.67089 can|0.65823 be|0.64557 done|0.63291 by|0.62025 using|0.60759 the|0.59494 factor|0.58228 function|0.56962 of|0.55696 every|0.5443 computer|0.53165 algebra|0.51899 system|0.50633 But|0.49367 in|0.48101 many|0.46835 cases|0.4557 it|0.44304 may|0.43038 be|0.41772 done|0.40506 by|0.39241 hand|0.37975 written|0.36709 computation|0.35443 In|0.34177 the|0.32911 preceding|0.31646 section|0.3038 we|0.29114 have|0.27848 already|0.26582 seen|0.25316 that|0.24051 the|0.22785 polynomial|0.21519 is|0.20253 always|0.18987 reducible|0.17722 if|0.16456 its|0.1519 discriminant|0.13924 is|0.12658 zero|0.11392 this|0.10127 is|0.088608 true|0.075949 for|0.063291 polynomials|0.050633 of|0.037975 every|0.025316 degree|0.012658 |0",
+			"previous_weights": " or|1"
+		}
+	}
+}

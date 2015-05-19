@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e66ed723f1bf48167ec0c661a0e849407b2d30fa38f9172160e58bc3bda31b5",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/MarlinPark.jpg/200px-MarlinPark.jpg",
+			"previous": " ",
+			"after": " Miami Dade County holds the majority of sports arenas stadiums and complexes in South Florida Some of these sports facilities are  Former venues include  Miami Dade County includes 35 incorporated areas 38 census designated places and 16 unincorporated regions ",
+			"color": "dark|0.46671 green|0.46671 dark|0.18948 olive|0.18948 green|0.18948 saddle|0.12435 brown|0.12435 olive|0.033941 drab|0.033941 black|0.021774 green|0.020581 forest|0.017567 green|0.017567 olive|0.015558 dark|0.013863 slate|0.013863 gray|0.013863  ",
+			"after_weights": " Miami|1 Dade|0.97561 County|0.95122 holds|0.92683 the|0.90244 majority|0.87805 of|0.85366 sports|0.82927 arenas|0.80488 stadiums|0.78049 and|0.7561 complexes|0.73171 in|0.70732 South|0.68293 Florida|0.65854 Some|0.63415 of|0.60976 these|0.58537 sports|0.56098 facilities|0.53659 are|0.5122 |0.4878 Former|0.46341 venues|0.43902 include|0.41463 |0.39024 Miami|0.36585 Dade|0.34146 County|0.31707 includes|0.29268 35|0.26829 incorporated|0.2439 areas|0.21951 38|0.19512 census|0.17073 designated|0.14634 places|0.12195 and|0.097561 16|0.073171 unincorporated|0.04878 regions|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

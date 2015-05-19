@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "247ff71dc7c25f8ff04acfe4986b0edc83d8fcf8ec87ac097dc730157b4f407c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Collared.dove.jpg/150px-Collared.dove.jpg",
+			"previous": " Alcids are superficially similar to penguins due to their black and white colors their upright posture and some of their habits however they are not closely related to penguins and are with one extinct exception able to fly Auks live on the open sea only deliberately coming ashore to breed ",
+			"after": " Order Columbiformes Family Columbidae Pigeons and doves are stout bodied birds with short necks and short slender bills with a fleshy cere ",
+			"color": "dim|0.20023 gray|0.20023 dim|0.20023 grey|0.20023 dark|0.14773 gray|0.14773 dark|0.14773 grey|0.14773 gray|0.13571 grey|0.13571 black|0.10661 silver|0.08334 light|0.048136 gray|0.048136 light|0.048136 grey|0.048136 gainsboro|0.03429 misty|0.026496 rose|0.026496 rosy|0.020752 brown|0.020752 linen|0.015173 slate|0.013919 gray|0.013919 antique|0.013576 white|0.013576 sea|0.012904 shell|0.012904 lavender|0.012648 blush|0.012648 light|0.012505 slate|0.012505 gray|0.012505 white|0.011363 smoke|0.011363 lavender|0.010082 snow|0.009575 floral|0.0093995 white|0.0093995 old|0.0093002 lace|0.0093002 ghost|0.0069431 white|0.0069431 white|0.0065015 papaya|0.0054816 whip|0.0054816 peach|0.0054435 puff|0.0054435  ",
+			"after_weights": " Order|1 Columbiformes|0.95455 Family|0.90909 Columbidae|0.86364 Pigeons|0.81818 and|0.77273 doves|0.72727 are|0.68182 stout|0.63636 bodied|0.59091 birds|0.54545 with|0.5 short|0.45455 necks|0.40909 and|0.36364 short|0.31818 slender|0.27273 bills|0.22727 with|0.18182 a|0.13636 fleshy|0.090909 cere|0.045455 |0",
+			"previous_weights": " Alcids|0 are|0.02 superficially|0.04 similar|0.06 to|0.08 penguins|0.1 due|0.12 to|0.14 their|0.16 black|0.18 and|0.2 white|0.22 colors|0.24 their|0.26 upright|0.28 posture|0.3 and|0.32 some|0.34 of|0.36 their|0.38 habits|0.4 however|0.42 they|0.44 are|0.46 not|0.48 closely|0.5 related|0.52 to|0.54 penguins|0.56 and|0.58 are|0.6 with|0.62 one|0.64 extinct|0.66 exception|0.68 able|0.7 to|0.72 fly|0.74 Auks|0.76 live|0.78 on|0.8 the|0.82 open|0.84 sea|0.86 only|0.88 deliberately|0.9 coming|0.92 ashore|0.94 to|0.96 breed|0.98 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "26d048b7a02c45af28b09c4b428ce3c007c8667e3100f60cce8debd88a896a57",
+			"url": "https://upload.wikimedia.org/math/0/0/c/00c018f67a550233c4427bb9b8f9e20f.png",
+			"previous": " Newton metres and joules are dimensionally equivalent in the sense that they have the same expression in SI base units ",
+			"after": " Again N m and J are distinguished in order to avoid misunderstandings where a torque is mistaken for an energy or vice versa Similar examples of dimensionally equivalent units include Pa versus J m Bq versus Hz and ohms versus ohms per square ",
+			"color": "dim|0.41307 gray|0.41307 dim|0.41307 grey|0.41307 gray|0.27612 grey|0.27612 dark|0.1679 gray|0.1679 dark|0.1679 grey|0.1679 silver|0.068216 light|0.032573 gray|0.032573 light|0.032573 grey|0.032573 gainsboro|0.021947 white|0.0047698 smoke|0.0047698  ",
+			"after_weights": " Again|1 N|0.97674 m|0.95349 and|0.93023 J|0.90698 are|0.88372 distinguished|0.86047 in|0.83721 order|0.81395 to|0.7907 avoid|0.76744 misunderstandings|0.74419 where|0.72093 a|0.69767 torque|0.67442 is|0.65116 mistaken|0.62791 for|0.60465 an|0.5814 energy|0.55814 or|0.53488 vice|0.51163 versa|0.48837 Similar|0.46512 examples|0.44186 of|0.4186 dimensionally|0.39535 equivalent|0.37209 units|0.34884 include|0.32558 Pa|0.30233 versus|0.27907 J|0.25581 m|0.23256 Bq|0.2093 versus|0.18605 Hz|0.16279 and|0.13953 ohms|0.11628 versus|0.093023 ohms|0.069767 per|0.046512 square|0.023256 |0",
+			"previous_weights": " Newton|0 metres|0.05 and|0.1 joules|0.15 are|0.2 dimensionally|0.25 equivalent|0.3 in|0.35 the|0.4 sense|0.45 that|0.5 they|0.55 have|0.6 the|0.65 same|0.7 expression|0.75 in|0.8 SI|0.85 base|0.9 units|0.95 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "75139b783f9b3a8b3dc2e68a738dd5d4352351b190d541f685f71d56ec60dc6b",
+			"url": "https://upload.wikimedia.org/math/2/a/1/2a155c7c1fade846c3315ec855bf26ce.png",
+			"previous": " The derivative for a curve of order n is",
+			"after": " The t in the function for a linear B zier curve can be thought of as describing how far B t is from P0 to P1 For example when t 0 25 B t is one quarter of the way from point P0 to P1 As t varies from 0 to 1 B t describes a straight line from P0 to P1 ",
+			"color": "dim|0.37336 gray|0.37336 dim|0.37336 grey|0.37336 gray|0.28369 grey|0.28369 dark|0.17295 gray|0.17295 dark|0.17295 grey|0.17295 silver|0.082394 light|0.043928 gray|0.043928 light|0.043928 grey|0.043928 gainsboro|0.028866 white|0.0044525 smoke|0.0044525  ",
+			"after_weights": " The|1 t|0.98387 in|0.96774 the|0.95161 function|0.93548 for|0.91935 a|0.90323 linear|0.8871 B|0.87097 zier|0.85484 curve|0.83871 can|0.82258 be|0.80645 thought|0.79032 of|0.77419 as|0.75806 describing|0.74194 how|0.72581 far|0.70968 B|0.69355 t|0.67742 is|0.66129 from|0.64516 P0|0.62903 to|0.6129 P1|0.59677 For|0.58065 example|0.56452 when|0.54839 t|0.53226 0|0.51613 25|0.5 B|0.48387 t|0.46774 is|0.45161 one|0.43548 quarter|0.41935 of|0.40323 the|0.3871 way|0.37097 from|0.35484 point|0.33871 P0|0.32258 to|0.30645 P1|0.29032 As|0.27419 t|0.25806 varies|0.24194 from|0.22581 0|0.20968 to|0.19355 1|0.17742 B|0.16129 t|0.14516 describes|0.12903 a|0.1129 straight|0.096774 line|0.080645 from|0.064516 P0|0.048387 to|0.032258 P1|0.016129 |0",
+			"previous_weights": " The|0 derivative|0.125 for|0.25 a|0.375 curve|0.5 of|0.625 order|0.75 n|0.875 is|1"
+		}
+	}
+}

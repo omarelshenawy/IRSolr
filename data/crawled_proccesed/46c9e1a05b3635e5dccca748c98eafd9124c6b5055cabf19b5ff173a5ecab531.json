@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "46c9e1a05b3635e5dccca748c98eafd9124c6b5055cabf19b5ff173a5ecab531",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Observing_The_Sun.OGG/220px--Observing_The_Sun.OGG.jpg",
+			"previous": " ",
+			"after": " In the early first millennium BC Babylonian astronomers observed that the Sun s motion along the ecliptic is not uniform though they did not know why it is today known that this is due to the movement of Earth in an elliptic orbit around the Sun with Earth moving faster when it is nearer to the Sun at perihelion and moving slower when it is farther away at aphelion 143 ",
+			"color": "green|0.33486 yellow|0.33486 green|0.23855 forest|0.23033 green|0.23033 dark|0.11745 green|0.11745 lime|0.046663 green|0.046663 dim|0.010405 gray|0.010405 dim|0.010405 grey|0.010405  ",
+			"after_weights": " In|1 the|0.98571 early|0.97143 first|0.95714 millennium|0.94286 BC|0.92857 Babylonian|0.91429 astronomers|0.9 observed|0.88571 that|0.87143 the|0.85714 Sun|0.84286 s|0.82857 motion|0.81429 along|0.8 the|0.78571 ecliptic|0.77143 is|0.75714 not|0.74286 uniform|0.72857 though|0.71429 they|0.7 did|0.68571 not|0.67143 know|0.65714 why|0.64286 it|0.62857 is|0.61429 today|0.6 known|0.58571 that|0.57143 this|0.55714 is|0.54286 due|0.52857 to|0.51429 the|0.5 movement|0.48571 of|0.47143 Earth|0.45714 in|0.44286 an|0.42857 elliptic|0.41429 orbit|0.4 around|0.38571 the|0.37143 Sun|0.35714 with|0.34286 Earth|0.32857 moving|0.31429 faster|0.3 when|0.28571 it|0.27143 is|0.25714 nearer|0.24286 to|0.22857 the|0.21429 Sun|0.2 at|0.18571 perihelion|0.17143 and|0.15714 moving|0.14286 slower|0.12857 when|0.11429 it|0.1 is|0.085714 farther|0.071429 away|0.057143 at|0.042857 aphelion|0.028571 143|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

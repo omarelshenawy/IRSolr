@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "361f598aab3181ab5d37b26acfbaad07aa9a066ed7d8b27cb744d1973c6ee16d",
+			"url": "https://upload.wikimedia.org/math/f/f/c/ffc1c12124651f59f29b87c405c92a3d.png",
+			"previous": " As in the classical case the potential for the quantum harmonic oscillator is given by",
+			"after": " This problem can either be treated by directly solving the Schr dinger which is not trivial or by using the more elegant ladder method first proposed by Paul Dirac The eigenstates are given by",
+			"color": "dim|0.36726 gray|0.36726 dim|0.36726 grey|0.36726 gray|0.28363 grey|0.28363 dark|0.18531 gray|0.18531 dark|0.18531 grey|0.18531 silver|0.077726 light|0.038708 gray|0.038708 light|0.038708 grey|0.038708 gainsboro|0.026814 white|0.0047164 smoke|0.0047164  ",
+			"after_weights": " This|1 problem|0.9697 can|0.93939 either|0.90909 be|0.87879 treated|0.84848 by|0.81818 directly|0.78788 solving|0.75758 the|0.72727 Schr|0.69697 dinger|0.66667 which|0.63636 is|0.60606 not|0.57576 trivial|0.54545 or|0.51515 by|0.48485 using|0.45455 the|0.42424 more|0.39394 elegant|0.36364 ladder|0.33333 method|0.30303 first|0.27273 proposed|0.24242 by|0.21212 Paul|0.18182 Dirac|0.15152 The|0.12121 eigenstates|0.090909 are|0.060606 given|0.030303 by|0",
+			"previous_weights": " As|0 in|0.071429 the|0.14286 classical|0.21429 case|0.28571 the|0.35714 potential|0.42857 for|0.5 the|0.57143 quantum|0.64286 harmonic|0.71429 oscillator|0.78571 is|0.85714 given|0.92857 by|1"
+		}
+	}
+}

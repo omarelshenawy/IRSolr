@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "739cf08d494c5bb28e46a2aaf82f51e8bfbb79297a67b812225ad5c366a53e60",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ju52DuxfordJM.jpg/220px-Ju52DuxfordJM.jpg",
+			"previous": " Data from Junkers Aircraft Engines 1913 1945 27 ",
+			"after": " As of 2008 eight Ju 52 remain in operation four of which operate pleasure flights from D bendorf airport in Switzerland 32 Lufthansa operates one Ju 52 3m D AQUI for air shows and pleasure flights 33 ",
+			"color": "black|0.76745 golden|0.054943 rod|0.054943 dim|0.051473 gray|0.051473 dim|0.051473 grey|0.051473 tan|0.028527 gray|0.023777 grey|0.023777 dark|0.015335 gray|0.015335 dark|0.015335 grey|0.015335 silver|0.0083576 dark|0.0066623 slate|0.0066623 gray|0.0066623  ",
+			"after_weights": " As|1 of|0.97297 2008|0.94595 eight|0.91892 Ju|0.89189 52|0.86486 remain|0.83784 in|0.81081 operation|0.78378 four|0.75676 of|0.72973 which|0.7027 operate|0.67568 pleasure|0.64865 flights|0.62162 from|0.59459 D|0.56757 bendorf|0.54054 airport|0.51351 in|0.48649 Switzerland|0.45946 32|0.43243 Lufthansa|0.40541 operates|0.37838 one|0.35135 Ju|0.32432 52|0.2973 3m|0.27027 D|0.24324 AQUI|0.21622 for|0.18919 air|0.16216 shows|0.13514 and|0.10811 pleasure|0.081081 flights|0.054054 33|0.027027 |0",
+			"previous_weights": " Data|0 from|0.125 Junkers|0.25 Aircraft|0.375 Engines|0.5 1913|0.625 1945|0.75 27|0.875 |1"
+		}
+	}
+}

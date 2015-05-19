@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41bd555a89b0edec9d5dc76df7e349b083d4f56d5c0320b4e80cfc605398cda6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/GA_reflection_along_vector.svg/200px-GA_reflection_along_vector.svg.png",
+			"previous": " ",
+			"after": " The reflection c of a vector c along a vector m or equivalently in the hyperplane orthogonal to m is the same as negating the component of a vector parallel to m The result of the reflection will be",
+			"color": "medium|0.22397 slate|0.22397 blue|0.22397 steel|0.16496 blue|0.16496 lime|0.11679 blue|0.063504 violet|0.063504 medium|0.057908 sea|0.057908 green|0.057908 dark|0.053771 violet|0.053771 corn|0.050365 flower|0.050365 blue|0.050365 dark|0.035523 orchid|0.035523 medium|0.034793 orchid|0.034793 lawn|0.033942 green|0.033942 cadet|0.028954 blue|0.028954  ",
+			"after_weights": " The|1 reflection|0.97368 c|0.94737 of|0.92105 a|0.89474 vector|0.86842 c|0.84211 along|0.81579 a|0.78947 vector|0.76316 m|0.73684 or|0.71053 equivalently|0.68421 in|0.65789 the|0.63158 hyperplane|0.60526 orthogonal|0.57895 to|0.55263 m|0.52632 is|0.5 the|0.47368 same|0.44737 as|0.42105 negating|0.39474 the|0.36842 component|0.34211 of|0.31579 a|0.28947 vector|0.26316 parallel|0.23684 to|0.21053 m|0.18421 The|0.15789 result|0.13158 of|0.10526 the|0.078947 reflection|0.052632 will|0.026316 be|0",
+			"previous_weights": " "
+		}
+	}
+}

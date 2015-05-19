@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b066cf4d16139be3e00da94ff20ce73d512dc43bb818162b9b93987efe04f33",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/1898_Huia_3_pence_brown.JPG/170px-1898_Huia_3_pence_brown.JPG",
+			"previous": " The bird was also kept by M ori as a pet and like the tui it could be trained to say a few words 8 There is also a record of a tame huia kept by European settlers in a small village in the Forty Mile Bush in the 19th century 11 ",
+			"after": " New Zealand has released several postage stamps portraying the huia 39 40 and the New Zealand sixpence circulated from 1933 to 1966 featured a female huia on the reverse ",
+			"color": "burly|0.26363 wood|0.26363 peru|0.18853 navajo|0.099873 white|0.099873 peach|0.078016 puff|0.078016 tan|0.060624 sienna|0.059817 sandy|0.054841 brown|0.054841 wheat|0.05239 moccasin|0.047906 bisque|0.033221 blanched|0.01265 almond|0.01265 dark|0.011511 salmon|0.011511 saddle|0.011494 brown|0.011494 chocolate|0.006623 papaya|0.0048325 whip|0.0048325  ",
+			"after_weights": " New|1 Zealand|0.96552 has|0.93103 released|0.89655 several|0.86207 postage|0.82759 stamps|0.7931 portraying|0.75862 the|0.72414 huia|0.68966 39|0.65517 40|0.62069 and|0.58621 the|0.55172 New|0.51724 Zealand|0.48276 sixpence|0.44828 circulated|0.41379 from|0.37931 1933|0.34483 to|0.31034 1966|0.27586 featured|0.24138 a|0.2069 female|0.17241 huia|0.13793 on|0.10345 the|0.068966 reverse|0.034483 |0",
+			"previous_weights": " The|0 bird|0.019231 was|0.038462 also|0.057692 kept|0.076923 by|0.096154 M|0.11538 ori|0.13462 as|0.15385 a|0.17308 pet|0.19231 and|0.21154 like|0.23077 the|0.25 tui|0.26923 it|0.28846 could|0.30769 be|0.32692 trained|0.34615 to|0.36538 say|0.38462 a|0.40385 few|0.42308 words|0.44231 8|0.46154 There|0.48077 is|0.5 also|0.51923 a|0.53846 record|0.55769 of|0.57692 a|0.59615 tame|0.61538 huia|0.63462 kept|0.65385 by|0.67308 European|0.69231 settlers|0.71154 in|0.73077 a|0.75 small|0.76923 village|0.78846 in|0.80769 the|0.82692 Forty|0.84615 Mile|0.86538 Bush|0.88462 in|0.90385 the|0.92308 19th|0.94231 century|0.96154 11|0.98077 |1"
+		}
+	}
+}

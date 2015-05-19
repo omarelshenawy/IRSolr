@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "94d7e3f598e4371f6605e7f852fa9aced7c395f7e747a90a2daec73346364a8b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/HamiltonOntarioSkylineB.JPG/210px-HamiltonOntarioSkylineB.JPG",
+			"previous": " ",
+			"after": " From the beginning what is now Hamilton has benefited from its geographical proximity to major land and water transportation routes along the Niagara Peninsula and Lake Ontario Its strategic importance has created by Canadian standards a rich military history which the city preserves ",
+			"color": "black|0.38088 dim|0.17414 gray|0.17414 dim|0.17414 grey|0.17414 dark|0.14268 olive|0.14268 green|0.14268 gray|0.11797 grey|0.11797 dark|0.052947 gray|0.052947 dark|0.052947 grey|0.052947 slate|0.049589 gray|0.049589 light|0.047068 slate|0.047068 gray|0.047068 silver|0.014762  ",
+			"after_weights": " From|1 the|0.97674 beginning|0.95349 what|0.93023 is|0.90698 now|0.88372 Hamilton|0.86047 has|0.83721 benefited|0.81395 from|0.7907 its|0.76744 geographical|0.74419 proximity|0.72093 to|0.69767 major|0.67442 land|0.65116 and|0.62791 water|0.60465 transportation|0.5814 routes|0.55814 along|0.53488 the|0.51163 Niagara|0.48837 Peninsula|0.46512 and|0.44186 Lake|0.4186 Ontario|0.39535 Its|0.37209 strategic|0.34884 importance|0.32558 has|0.30233 created|0.27907 by|0.25581 Canadian|0.23256 standards|0.2093 a|0.18605 rich|0.16279 military|0.13953 history|0.11628 which|0.093023 the|0.069767 city|0.046512 preserves|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

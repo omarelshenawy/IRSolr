@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a2df33a8b179dc3f83bb4cf680eb5b32639c488c718ca879255c541cce4d955",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ego_Likeness_high_res_%28Kyle_Cassidy%29.jpg/400px-Ego_Likeness_high_res_%28Kyle_Cassidy%29.jpg",
+			"previous": " Portal Society Featured picture 22",
+			"after": " Husband and wife Steven Archer and Donna Lynch of the American darkwave industrial rock band Ego Likeness Taking their name from Frank Herbert s science fiction novel Dune the band formed in 1999 and has been touring and recording albums since ",
+			"color": "black|0.64391 dark|0.063872 gray|0.063872 dark|0.063872 grey|0.063872 silver|0.052269 light|0.044844 gray|0.044844 light|0.044844 grey|0.044844 gray|0.04137 grey|0.04137 gainsboro|0.036453 dim|0.034078 gray|0.034078 dim|0.034078 grey|0.034078 white|0.0094529 smoke|0.0094529 linen|0.0065422 maroon|0.0054757 sea|0.005202 shell|0.005202 rosy|0.0047277 brown|0.0047277 snow|0.0046781 dark|0.0044158 slate|0.0044158 gray|0.0044158 alice|0.0042785 blue|0.0042785 ghost|0.0040077 white|0.0040077 lavender|0.0037311 blush|0.0037311 floral|0.0034131 white|0.0034131 white|0.0031209  ",
+			"after_weights": " Husband|1 and|0.97561 wife|0.95122 Steven|0.92683 Archer|0.90244 and|0.87805 Donna|0.85366 Lynch|0.82927 of|0.80488 the|0.78049 American|0.7561 darkwave|0.73171 industrial|0.70732 rock|0.68293 band|0.65854 Ego|0.63415 Likeness|0.60976 Taking|0.58537 their|0.56098 name|0.53659 from|0.5122 Frank|0.4878 Herbert|0.46341 s|0.43902 science|0.41463 fiction|0.39024 novel|0.36585 Dune|0.34146 the|0.31707 band|0.29268 formed|0.26829 in|0.2439 1999|0.21951 and|0.19512 has|0.17073 been|0.14634 touring|0.12195 and|0.097561 recording|0.073171 albums|0.04878 since|0.02439 |0",
+			"previous_weights": " Portal|0 Society|0.25 Featured|0.5 picture|0.75 22|1"
+		}
+	}
+}

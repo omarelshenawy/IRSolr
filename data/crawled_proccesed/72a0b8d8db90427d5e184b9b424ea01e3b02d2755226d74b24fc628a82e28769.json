@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72a0b8d8db90427d5e184b9b424ea01e3b02d2755226d74b24fc628a82e28769",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heathrow_Terminal_5_037.JPG/220px-Heathrow_Terminal_5_037.JPG",
+			"previous": " Because Terminal 5 is close to the boundary of Greater London some local buses are part of the London Buses network whilst others are run by operators from outside the London Buses area As of November 2008 update the following local buses serve T5 25 ",
+			"after": " ",
+			"color": "dim|0.55505 gray|0.55505 dim|0.55505 grey|0.55505 black|0.10671 gray|0.08162 grey|0.08162 dark|0.033417 slate|0.033417 blue|0.033417 slate|0.020762 gray|0.020762 light|0.014868 steel|0.014868 blue|0.014868 midnight|0.01394 blue|0.01394 dark|0.010952 gray|0.010952 dark|0.010952 grey|0.010952 lavender|0.010255 tan|0.009255 antique|0.0077851 white|0.0077851 beige|0.007696 light|0.0072612 slate|0.0072612 gray|0.0072612  ",
+			"after_weights": " ",
+			"previous_weights": " Because|0 Terminal|0.022222 5|0.044444 is|0.066667 close|0.088889 to|0.11111 the|0.13333 boundary|0.15556 of|0.17778 Greater|0.2 London|0.22222 some|0.24444 local|0.26667 buses|0.28889 are|0.31111 part|0.33333 of|0.35556 the|0.37778 London|0.4 Buses|0.42222 network|0.44444 whilst|0.46667 others|0.48889 are|0.51111 run|0.53333 by|0.55556 operators|0.57778 from|0.6 outside|0.62222 the|0.64444 London|0.66667 Buses|0.68889 area|0.71111 As|0.73333 of|0.75556 November|0.77778 2008|0.8 update|0.82222 the|0.84444 following|0.86667 local|0.88889 buses|0.91111 serve|0.93333 T5|0.95556 25|0.97778 |1"
+		}
+	}
+}

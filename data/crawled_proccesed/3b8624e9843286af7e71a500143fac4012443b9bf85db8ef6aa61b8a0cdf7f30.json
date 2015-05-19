@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b8624e9843286af7e71a500143fac4012443b9bf85db8ef6aa61b8a0cdf7f30",
+			"url": "https://upload.wikimedia.org/math/0/f/e/0fe0bfe59f75db3a88ff9e3c61a64d01.png",
+			"previous": " In mathematics notation functions that have multi letter names should always be in an upright font The most well known functions trigonometric functions logarithms etc are often written without parentheses For example ",
+			"after": " but not",
+			"color": "dim|0.45125 gray|0.45125 dim|0.45125 grey|0.45125 gray|0.27122 grey|0.27122 dark|0.15138 gray|0.15138 dark|0.15138 grey|0.15138 silver|0.062899 light|0.029595 gray|0.029595 light|0.029595 grey|0.029595 gainsboro|0.020243 white|0.0035059 smoke|0.0035059  ",
+			"after_weights": " but|1 not|0",
+			"previous_weights": " In|0 mathematics|0.03125 notation|0.0625 functions|0.09375 that|0.125 have|0.15625 multi|0.1875 letter|0.21875 names|0.25 should|0.28125 always|0.3125 be|0.34375 in|0.375 an|0.40625 upright|0.4375 font|0.46875 The|0.5 most|0.53125 well|0.5625 known|0.59375 functions|0.625 trigonometric|0.65625 functions|0.6875 logarithms|0.71875 etc|0.75 are|0.78125 often|0.8125 written|0.84375 without|0.875 parentheses|0.90625 For|0.9375 example|0.96875 |1"
+		}
+	}
+}

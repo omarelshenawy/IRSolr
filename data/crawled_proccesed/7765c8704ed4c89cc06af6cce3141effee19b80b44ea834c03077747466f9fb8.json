@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7765c8704ed4c89cc06af6cce3141effee19b80b44ea834c03077747466f9fb8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/S7-S7-World-Dest.svg/220px-S7-S7-World-Dest.svg.png",
+			"previous": " As of November 2008 all Soviet made aircraft had left the fleet 12 ",
+			"after": " S7 has operated scheduled passenger flights to destinations in Russia as well as international services to Austria Armenia Azerbaijan Bulgaria PR China Czech Republic Egypt Georgia Germany Hong Kong Ireland Italy Kazakhstan Korea South Spain Tajikistan Thailand Turkey Turkmenistan Uzbekistan Ukraine and the United Arab Emirates ",
+			"color": "red|0.36162 white|0.064994 smoke|0.064994 gainsboro|0.050397 light|0.046551 gray|0.046551 light|0.046551 grey|0.046551 linen|0.04414 alice|0.036682 blue|0.036682 ghost|0.035647 white|0.035647 lavender|0.035278 blush|0.035278 dodger|0.033664 blue|0.033664 sea|0.033194 shell|0.033194 snow|0.032884 corn|0.026747 flower|0.026747 blue|0.026747 white|0.025214 lavender|0.02441 light|0.022904 steel|0.022904 blue|0.022904 floral|0.020993 white|0.020993 mint|0.020178 cream|0.020178 azure|0.016923 misty|0.012021 rose|0.012021 light|0.01149 coral|0.01149 pink|0.011106 light|0.0084928 pink|0.0084928 salmon|0.0070325 royal|0.0043041 blue|0.0043041 ivory|0.0036175  ",
+			"after_weights": " S7|1 has|0.97826 operated|0.95652 scheduled|0.93478 passenger|0.91304 flights|0.8913 to|0.86957 destinations|0.84783 in|0.82609 Russia|0.80435 as|0.78261 well|0.76087 as|0.73913 international|0.71739 services|0.69565 to|0.67391 Austria|0.65217 Armenia|0.63043 Azerbaijan|0.6087 Bulgaria|0.58696 PR|0.56522 China|0.54348 Czech|0.52174 Republic|0.5 Egypt|0.47826 Georgia|0.45652 Germany|0.43478 Hong|0.41304 Kong|0.3913 Ireland|0.36957 Italy|0.34783 Kazakhstan|0.32609 Korea|0.30435 South|0.28261 Spain|0.26087 Tajikistan|0.23913 Thailand|0.21739 Turkey|0.19565 Turkmenistan|0.17391 Uzbekistan|0.15217 Ukraine|0.13043 and|0.1087 the|0.086957 United|0.065217 Arab|0.043478 Emirates|0.021739 |0",
+			"previous_weights": " As|0 of|0.076923 November|0.15385 2008|0.23077 all|0.30769 Soviet|0.38462 made|0.46154 aircraft|0.53846 had|0.61538 left|0.69231 the|0.76923 fleet|0.84615 12|0.92308 |1"
+		}
+	}
+}

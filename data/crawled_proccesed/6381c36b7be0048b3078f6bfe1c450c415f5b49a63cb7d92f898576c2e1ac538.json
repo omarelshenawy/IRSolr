@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6381c36b7be0048b3078f6bfe1c450c415f5b49a63cb7d92f898576c2e1ac538",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AntelopePlaque.jpg/450px-AntelopePlaque.jpg",
+			"previous": " ",
+			"after": " The 1984 Rajneeshee bioterror attack was the first bioterrorism attack in the United States and the single largest bioterrorist attack in United States history The attack is one of only two confirmed terrorist uses of biological weapons to harm humans ",
+			"color": "dim|0.39591 gray|0.39591 dim|0.39591 grey|0.39591 gray|0.22994 grey|0.22994 dark|0.095555 gray|0.095555 dark|0.095555 grey|0.095555 dark|0.072911 slate|0.072911 gray|0.072911 black|0.069209 silver|0.032635 slate|0.027054 gray|0.027054 light|0.016562 slate|0.016562 gray|0.016562 light|0.012536 gray|0.012536 light|0.012536 grey|0.012536 tan|0.010149  ",
+			"after_weights": " The|1 1984|0.975 Rajneeshee|0.95 bioterror|0.925 attack|0.9 was|0.875 the|0.85 first|0.825 bioterrorism|0.8 attack|0.775 in|0.75 the|0.725 United|0.7 States|0.675 and|0.65 the|0.625 single|0.6 largest|0.575 bioterrorist|0.55 attack|0.525 in|0.5 United|0.475 States|0.45 history|0.425 The|0.4 attack|0.375 is|0.35 one|0.325 of|0.3 only|0.275 two|0.25 confirmed|0.225 terrorist|0.2 uses|0.175 of|0.15 biological|0.125 weapons|0.1 to|0.075 harm|0.05 humans|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

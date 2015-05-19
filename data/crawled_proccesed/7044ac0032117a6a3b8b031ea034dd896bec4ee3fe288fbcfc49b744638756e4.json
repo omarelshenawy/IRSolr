@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7044ac0032117a6a3b8b031ea034dd896bec4ee3fe288fbcfc49b744638756e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lockheed_Hudson_ExCC.jpg/220px-Lockheed_Hudson_ExCC.jpg",
+			"previous": " The type formed the basis for development of the Lockheed Ventura resulting in them being withdrawn from front line service from 1944 though many survived the war to be used as civil transports primarily in Australia and a single example was briefly used as an airline crew trainer in New Zealand ",
+			"after": " ",
+			"color": "dim|0.57432 gray|0.57432 dim|0.57432 grey|0.57432 black|0.23923 gray|0.081674 grey|0.081674 dark|0.049232 gray|0.049232 dark|0.049232 grey|0.049232 silver|0.027372 light|0.013438 gray|0.013438 light|0.013438 grey|0.013438 gainsboro|0.0091874  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 type|0.019608 formed|0.039216 the|0.058824 basis|0.078431 for|0.098039 development|0.11765 of|0.13725 the|0.15686 Lockheed|0.17647 Ventura|0.19608 resulting|0.21569 in|0.23529 them|0.2549 being|0.27451 withdrawn|0.29412 from|0.31373 front|0.33333 line|0.35294 service|0.37255 from|0.39216 1944|0.41176 though|0.43137 many|0.45098 survived|0.47059 the|0.4902 war|0.5098 to|0.52941 be|0.54902 used|0.56863 as|0.58824 civil|0.60784 transports|0.62745 primarily|0.64706 in|0.66667 Australia|0.68627 and|0.70588 a|0.72549 single|0.7451 example|0.76471 was|0.78431 briefly|0.80392 used|0.82353 as|0.84314 an|0.86275 airline|0.88235 crew|0.90196 trainer|0.92157 in|0.94118 New|0.96078 Zealand|0.98039 |1"
+		}
+	}
+}

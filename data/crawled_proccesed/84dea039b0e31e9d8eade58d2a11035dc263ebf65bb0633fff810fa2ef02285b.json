@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "84dea039b0e31e9d8eade58d2a11035dc263ebf65bb0633fff810fa2ef02285b",
+			"url": "https://upload.wikimedia.org/math/2/8/a/28a6f85fdcaa6864ef724e060c46847a.png",
+			"previous": " If r is any root of the cubic then we may factor out x r using polynomial long division to obtain The rational root test is particularly useful when there are three real roots because the algebraic solution unhelpfully expresses the real roots in terms of complex entities The rational root test is also helpful in the presence of one real and two complex roots because it allows all of the roots to be written without the use of cube roots ",
+			"after": " for the other two roots ",
+			"color": "black|0.33316 dim|0.26917 gray|0.26917 dim|0.26917 grey|0.26917 gray|0.17846 grey|0.17846 dark|0.11422 gray|0.11422 dark|0.11422 grey|0.11422 silver|0.049597 light|0.024255 gray|0.024255 light|0.024255 grey|0.024255 gainsboro|0.016985  ",
+			"after_weights": " for|1 the|0.8 other|0.6 two|0.4 roots|0.2 |0",
+			"previous_weights": " If|0 r|0.012346 is|0.024691 any|0.037037 root|0.049383 of|0.061728 the|0.074074 cubic|0.08642 then|0.098765 we|0.11111 may|0.12346 factor|0.1358 out|0.14815 x|0.16049 r|0.17284 using|0.18519 polynomial|0.19753 long|0.20988 division|0.22222 to|0.23457 obtain|0.24691 The|0.25926 rational|0.2716 root|0.28395 test|0.2963 is|0.30864 particularly|0.32099 useful|0.33333 when|0.34568 there|0.35802 are|0.37037 three|0.38272 real|0.39506 roots|0.40741 because|0.41975 the|0.4321 algebraic|0.44444 solution|0.45679 unhelpfully|0.46914 expresses|0.48148 the|0.49383 real|0.50617 roots|0.51852 in|0.53086 terms|0.54321 of|0.55556 complex|0.5679 entities|0.58025 The|0.59259 rational|0.60494 root|0.61728 test|0.62963 is|0.64198 also|0.65432 helpful|0.66667 in|0.67901 the|0.69136 presence|0.7037 of|0.71605 one|0.7284 real|0.74074 and|0.75309 two|0.76543 complex|0.77778 roots|0.79012 because|0.80247 it|0.81481 allows|0.82716 all|0.83951 of|0.85185 the|0.8642 roots|0.87654 to|0.88889 be|0.90123 written|0.91358 without|0.92593 the|0.93827 use|0.95062 of|0.96296 cube|0.97531 roots|0.98765 |1"
+		}
+	}
+}

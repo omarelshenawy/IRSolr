@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78ac9c4640d09432e421a6c03bc8479ee5ecc5b052c808ffd1deb74f2e190172",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/AAR_A320-200_HL7762_MYJ_20090811-001.jpg/220px-AAR_A320-200_HL7762_MYJ_20090811-001.jpg",
+			"previous": " In addition to Star Alliance members Asiana Airlines now also have new codeshare agreements with the following airlines as of April 2014 17 ",
+			"after": " As of May 2015 Asiana Airlines fleet consists of the following aircraft 21 22 23  The company has previously operated the following aircraft ",
+			"color": "silver|0.32672 dark|0.23015 gray|0.23015 dark|0.23015 grey|0.23015 light|0.17925 gray|0.17925 light|0.17925 grey|0.17925 gray|0.079708 grey|0.079708 dim|0.053877 gray|0.053877 dim|0.053877 grey|0.053877 gainsboro|0.049392 black|0.01031 slate|0.0070362 gray|0.0070362 light|0.0069791 slate|0.0069791 gray|0.0069791 olive|0.0062875 drab|0.0062875 light|0.0044624 steel|0.0044624 blue|0.0044624 rosy|0.0037844 brown|0.0037844  ",
+			"after_weights": " As|1 of|0.95833 May|0.91667 2015|0.875 Asiana|0.83333 Airlines|0.79167 fleet|0.75 consists|0.70833 of|0.66667 the|0.625 following|0.58333 aircraft|0.54167 21|0.5 22|0.45833 23|0.41667 |0.375 The|0.33333 company|0.29167 has|0.25 previously|0.20833 operated|0.16667 the|0.125 following|0.083333 aircraft|0.041667 |0",
+			"previous_weights": " In|0 addition|0.043478 to|0.086957 Star|0.13043 Alliance|0.17391 members|0.21739 Asiana|0.26087 Airlines|0.30435 now|0.34783 also|0.3913 have|0.43478 new|0.47826 codeshare|0.52174 agreements|0.56522 with|0.6087 the|0.65217 following|0.69565 airlines|0.73913 as|0.78261 of|0.82609 April|0.86957 2014|0.91304 17|0.95652 |1"
+		}
+	}
+}

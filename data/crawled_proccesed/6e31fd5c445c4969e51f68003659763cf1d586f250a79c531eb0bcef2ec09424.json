@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e31fd5c445c4969e51f68003659763cf1d586f250a79c531eb0bcef2ec09424",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AquariumOfAmericasFromRiver3May07.jpg/150px-AquariumOfAmericasFromRiver3May07.jpg",
+			"previous": " ",
+			"after": " The Audubon Aquarium of the Americas is a renowned aquarium in New Orleans Louisiana USA  Recognized as one of the leading aquariums in the United States the Aquarium of the Americas is run by the Audubon Institute which also supervises the Audubon Zoo and Audubon Park in a different part of the city The Aquarium is located along the banks of the Mississippi River by the edge of the historic French Quarter off Canal Street and opened in 1990 ",
+			"color": "dim|0.75484 gray|0.75484 dim|0.75484 grey|0.75484 gray|0.2053 grey|0.2053 dark|0.028106 slate|0.028106 gray|0.028106 slate|0.0050101 gray|0.0050101  ",
+			"after_weights": " The|1 Audubon|0.9875 Aquarium|0.975 of|0.9625 the|0.95 Americas|0.9375 is|0.925 a|0.9125 renowned|0.9 aquarium|0.8875 in|0.875 New|0.8625 Orleans|0.85 Louisiana|0.8375 USA|0.825 |0.8125 Recognized|0.8 as|0.7875 one|0.775 of|0.7625 the|0.75 leading|0.7375 aquariums|0.725 in|0.7125 the|0.7 United|0.6875 States|0.675 the|0.6625 Aquarium|0.65 of|0.6375 the|0.625 Americas|0.6125 is|0.6 run|0.5875 by|0.575 the|0.5625 Audubon|0.55 Institute|0.5375 which|0.525 also|0.5125 supervises|0.5 the|0.4875 Audubon|0.475 Zoo|0.4625 and|0.45 Audubon|0.4375 Park|0.425 in|0.4125 a|0.4 different|0.3875 part|0.375 of|0.3625 the|0.35 city|0.3375 The|0.325 Aquarium|0.3125 is|0.3 located|0.2875 along|0.275 the|0.2625 banks|0.25 of|0.2375 the|0.225 Mississippi|0.2125 River|0.2 by|0.1875 the|0.175 edge|0.1625 of|0.15 the|0.1375 historic|0.125 French|0.1125 Quarter|0.1 off|0.0875 Canal|0.075 Street|0.0625 and|0.05 opened|0.0375 in|0.025 1990|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

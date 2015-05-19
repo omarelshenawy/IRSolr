@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ae633963ffa1995ee65c21a512c18ffce1f65403a1c99d56e4241d231c6f976",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/HeronG-ANXB-4.jpg/220px-HeronG-ANXB-4.jpg",
+			"previous": " ",
+			"after": " The Dragon Rapides BEA had inherited from Scottish Airways and other former independent airlines it had taken over in early 1947 initially operated the corporation s Scottish routes including services to remote communities in the Highlands and Islands 2 ",
+			"color": "dim|0.43682 gray|0.43682 dim|0.43682 grey|0.43682 black|0.19527 dark|0.098963 olive|0.098963 green|0.098963 gray|0.075776 grey|0.075776 slate|0.060866 gray|0.060866 dark|0.056444 gray|0.056444 dark|0.056444 grey|0.056444 light|0.050771 slate|0.050771 gray|0.050771 silver|0.016668  ",
+			"after_weights": " The|1 Dragon|0.97436 Rapides|0.94872 BEA|0.92308 had|0.89744 inherited|0.87179 from|0.84615 Scottish|0.82051 Airways|0.79487 and|0.76923 other|0.74359 former|0.71795 independent|0.69231 airlines|0.66667 it|0.64103 had|0.61538 taken|0.58974 over|0.5641 in|0.53846 early|0.51282 1947|0.48718 initially|0.46154 operated|0.4359 the|0.41026 corporation|0.38462 s|0.35897 Scottish|0.33333 routes|0.30769 including|0.28205 services|0.25641 to|0.23077 remote|0.20513 communities|0.17949 in|0.15385 the|0.12821 Highlands|0.10256 and|0.076923 Islands|0.051282 2|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

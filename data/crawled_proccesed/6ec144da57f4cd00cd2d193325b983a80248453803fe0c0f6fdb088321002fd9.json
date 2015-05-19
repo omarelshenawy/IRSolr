@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ec144da57f4cd00cd2d193325b983a80248453803fe0c0f6fdb088321002fd9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bing_Crosby_and_family_1974_Christmas_special.JPG/220px-Bing_Crosby_and_family_1974_Christmas_special.JPG",
+			"previous": " ",
+			"after": " The Fireside Theater 1950 was Crosby s first television production The series of 26 minute shows was filmed at Hal Roach Studios rather than performed live on the air The telefilms were syndicated to individual television stations ",
+			"color": " ",
+			"after_weights": " The|1 Fireside|0.97297 Theater|0.94595 1950|0.91892 was|0.89189 Crosby|0.86486 s|0.83784 first|0.81081 television|0.78378 production|0.75676 The|0.72973 series|0.7027 of|0.67568 26|0.64865 minute|0.62162 shows|0.59459 was|0.56757 filmed|0.54054 at|0.51351 Hal|0.48649 Roach|0.45946 Studios|0.43243 rather|0.40541 than|0.37838 performed|0.35135 live|0.32432 on|0.2973 the|0.27027 air|0.24324 The|0.21622 telefilms|0.18919 were|0.16216 syndicated|0.13514 to|0.10811 individual|0.081081 television|0.054054 stations|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

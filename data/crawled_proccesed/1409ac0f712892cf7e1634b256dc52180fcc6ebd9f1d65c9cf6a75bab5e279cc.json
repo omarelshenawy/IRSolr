@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1409ac0f712892cf7e1634b256dc52180fcc6ebd9f1d65c9cf6a75bab5e279cc",
+			"url": "https://upload.wikimedia.org/math/9/0/c/90c58cf5c1a4d02645a87169b2ebebf4.png",
+			"previous": " Which can also be written The measured stagnation pressure cannot itself be used to determine the fluid flow velocity airspeed in aviation However Bernoulli s equation states ",
+			"after": " Solving that for flow velocity  NOTE The above equation applies only to fluids that can be treated as incompressible Liquids are treated as incompressible under almost all conditions Gases under certain conditions can be approximated as incompressible See Compressibility ",
+			"color": "dim|0.38848 gray|0.38848 dim|0.38848 grey|0.38848 gray|0.29704 grey|0.29704 dark|0.16397 gray|0.16397 dark|0.16397 grey|0.16397 silver|0.06863 light|0.034633 gray|0.034633 light|0.034633 grey|0.034633 gainsboro|0.025032 white|0.0046168 smoke|0.0046168  ",
+			"after_weights": " Solving|1 that|0.975 for|0.95 flow|0.925 velocity|0.9 |0.875 NOTE|0.85 The|0.825 above|0.8 equation|0.775 applies|0.75 only|0.725 to|0.7 fluids|0.675 that|0.65 can|0.625 be|0.6 treated|0.575 as|0.55 incompressible|0.525 Liquids|0.5 are|0.475 treated|0.45 as|0.425 incompressible|0.4 under|0.375 almost|0.35 all|0.325 conditions|0.3 Gases|0.275 under|0.25 certain|0.225 conditions|0.2 can|0.175 be|0.15 approximated|0.125 as|0.1 incompressible|0.075 See|0.05 Compressibility|0.025 |0",
+			"previous_weights": " Which|0 can|0.037037 also|0.074074 be|0.11111 written|0.14815 The|0.18519 measured|0.22222 stagnation|0.25926 pressure|0.2963 cannot|0.33333 itself|0.37037 be|0.40741 used|0.44444 to|0.48148 determine|0.51852 the|0.55556 fluid|0.59259 flow|0.62963 velocity|0.66667 airspeed|0.7037 in|0.74074 aviation|0.77778 However|0.81481 Bernoulli|0.85185 s|0.88889 equation|0.92593 states|0.96296 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12ae1d5f020d7b89479a88a2634742ded9d0d46b6898baaa08a6a67cafb04ee0",
+			"url": "https://upload.wikimedia.org/math/0/c/f/0cf28d29fb778a9f0c8c0e7c9962e8ec.png",
+			"previous": " The observed velocities predicted by the Michaelis Menten equation can be used to directly model the time course disappearance of substrate and the production of product through incorporation of the Michaelis Menten equation into the equation for first order chemical kinetics This can only be achieved however if one recognises the problem associated with the use of Euler s number in the description of first order chemical kinetics i e e k is a split constant that introduces a systematic error into calculations and can be rewritten as a single constant which represents the remaining substrate after each time period 11 ",
+			"after": " ",
+			"color": "dim|0.31716 gray|0.31716 dim|0.31716 grey|0.31716 gray|0.2629 grey|0.2629 dark|0.18021 gray|0.18021 dark|0.18021 grey|0.18021 silver|0.090924 light|0.05674 gray|0.05674 light|0.05674 grey|0.05674 gainsboro|0.043746 white|0.011445 smoke|0.011445 linen|0.0058188 lavender|0.0056512 blush|0.0056512 alice|0.0055915 blue|0.0055915 ghost|0.0055035 white|0.0055035 sea|0.0054247 shell|0.0054247 snow|0.0047158  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 observed|0.009901 velocities|0.019802 predicted|0.029703 by|0.039604 the|0.049505 Michaelis|0.059406 Menten|0.069307 equation|0.079208 can|0.089109 be|0.09901 used|0.10891 to|0.11881 directly|0.12871 model|0.13861 the|0.14851 time|0.15842 course|0.16832 disappearance|0.17822 of|0.18812 substrate|0.19802 and|0.20792 the|0.21782 production|0.22772 of|0.23762 product|0.24752 through|0.25743 incorporation|0.26733 of|0.27723 the|0.28713 Michaelis|0.29703 Menten|0.30693 equation|0.31683 into|0.32673 the|0.33663 equation|0.34653 for|0.35644 first|0.36634 order|0.37624 chemical|0.38614 kinetics|0.39604 This|0.40594 can|0.41584 only|0.42574 be|0.43564 achieved|0.44554 however|0.45545 if|0.46535 one|0.47525 recognises|0.48515 the|0.49505 problem|0.50495 associated|0.51485 with|0.52475 the|0.53465 use|0.54455 of|0.55446 Euler|0.56436 s|0.57426 number|0.58416 in|0.59406 the|0.60396 description|0.61386 of|0.62376 first|0.63366 order|0.64356 chemical|0.65347 kinetics|0.66337 i|0.67327 e|0.68317 e|0.69307 k|0.70297 is|0.71287 a|0.72277 split|0.73267 constant|0.74257 that|0.75248 introduces|0.76238 a|0.77228 systematic|0.78218 error|0.79208 into|0.80198 calculations|0.81188 and|0.82178 can|0.83168 be|0.84158 rewritten|0.85149 as|0.86139 a|0.87129 single|0.88119 constant|0.89109 which|0.90099 represents|0.91089 the|0.92079 remaining|0.93069 substrate|0.94059 after|0.9505 each|0.9604 time|0.9703 period|0.9802 11|0.9901 |1"
+		}
+	}
+}

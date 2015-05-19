@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "680e0c9594997b71b0ff2eae674e0e6017455bb761ac1f6216b3993059a8caeb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viking_-_Whale-Bone_Plaque_-_Walters_711169.jpg/220px-Viking_-_Whale-Bone_Plaque_-_Walters_711169.jpg",
+			"previous": " ",
+			"after": " The Vikings regional origins lay in Scandinavia the northern most peninsula of continental Europe while the term Viking likely derived from their own term for coastal raiding the activity by which many neighbouring cultures became acquainted with the inhabitants of the region The alternative name for the Viking people Norse or Norsemen North men clearly reflects their northern homelands ",
+			"color": "dim|0.1908 gray|0.1908 dim|0.1908 grey|0.1908 gainsboro|0.15445 light|0.1534 gray|0.1534 light|0.1534 grey|0.1534 lavender|0.10263 white|0.070829 smoke|0.070829 gray|0.064483 grey|0.064483 lavender|0.048423 blush|0.048423 dark|0.038988 gray|0.038988 dark|0.038988 grey|0.038988 ghost|0.035729 white|0.035729 alice|0.03544 blue|0.03544 tan|0.032756 silver|0.018104 black|0.017923  ",
+			"after_weights": " The|1 Vikings|0.98305 regional|0.9661 origins|0.94915 lay|0.9322 in|0.91525 Scandinavia|0.89831 the|0.88136 northern|0.86441 most|0.84746 peninsula|0.83051 of|0.81356 continental|0.79661 Europe|0.77966 while|0.76271 the|0.74576 term|0.72881 Viking|0.71186 likely|0.69492 derived|0.67797 from|0.66102 their|0.64407 own|0.62712 term|0.61017 for|0.59322 coastal|0.57627 raiding|0.55932 the|0.54237 activity|0.52542 by|0.50847 which|0.49153 many|0.47458 neighbouring|0.45763 cultures|0.44068 became|0.42373 acquainted|0.40678 with|0.38983 the|0.37288 inhabitants|0.35593 of|0.33898 the|0.32203 region|0.30508 The|0.28814 alternative|0.27119 name|0.25424 for|0.23729 the|0.22034 Viking|0.20339 people|0.18644 Norse|0.16949 or|0.15254 Norsemen|0.13559 North|0.11864 men|0.10169 clearly|0.084746 reflects|0.067797 their|0.050847 northern|0.033898 homelands|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "778375b790622db4c010eb6d23a6b9b12de1d2f5985cc4082958f52cd06755ce",
+			"url": "https://upload.wikimedia.org/math/f/a/3/fa3cc54f086645f04394511b70f94163.png",
+			"previous": " In the example of the 3 3 cyclic permutation matrix above the characteristic polynomial has two additional non real roots namely",
+			"after": " Therefore the vectors and are eigenvectors of with eigenvalues and respectively ",
+			"color": "dim|0.38079 gray|0.38079 dim|0.38079 grey|0.38079 gray|0.28108 grey|0.28108 dark|0.15721 gray|0.15721 dark|0.15721 grey|0.15721 silver|0.058132 black|0.057861 light|0.02708 gray|0.02708 light|0.02708 grey|0.02708 gainsboro|0.019673 white|0.0044869 smoke|0.0044869  ",
+			"after_weights": " Therefore|1 the|0.90909 vectors|0.81818 and|0.72727 are|0.63636 eigenvectors|0.54545 of|0.45455 with|0.36364 eigenvalues|0.27273 and|0.18182 respectively|0.090909 |0",
+			"previous_weights": " In|0 the|0.05 example|0.1 of|0.15 the|0.2 3|0.25 3|0.3 cyclic|0.35 permutation|0.4 matrix|0.45 above|0.5 the|0.55 characteristic|0.6 polynomial|0.65 has|0.7 two|0.75 additional|0.8 non|0.85 real|0.9 roots|0.95 namely|1"
+		}
+	}
+}

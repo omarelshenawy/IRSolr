@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b3498e7a5bdbfb2a03fad688c7ae3273d59261f5a157e8f08d501f6e9b42904",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paddlefish_distribution.png/260px-Paddlefish_distribution.png",
+			"previous": " ",
+			"after": " American paddlefish are highly mobile and well adapted to living in rivers 5 They inhabit many types of riverine habitats throughout much of the Mississippi Valley and adjacent Gulf slope drainages They occur most frequently in deeper low current areas such as side channels oxbows backwater lakes bayous and tailwaters below dams They have been observed to move more than 2 000 mi 3 200 km in a river system 5 ",
+			"color": "dodger|0.47147 blue|0.47147 yellow|0.22133 olive|0.091144 blue|0.062085 violet|0.062085 dark|0.022882 violet|0.022882 dark|0.020356 red|0.020356 maroon|0.01734  ",
+			"after_weights": " American|1 paddlefish|0.98592 are|0.97183 highly|0.95775 mobile|0.94366 and|0.92958 well|0.91549 adapted|0.90141 to|0.88732 living|0.87324 in|0.85915 rivers|0.84507 5|0.83099 They|0.8169 inhabit|0.80282 many|0.78873 types|0.77465 of|0.76056 riverine|0.74648 habitats|0.73239 throughout|0.71831 much|0.70423 of|0.69014 the|0.67606 Mississippi|0.66197 Valley|0.64789 and|0.6338 adjacent|0.61972 Gulf|0.60563 slope|0.59155 drainages|0.57746 They|0.56338 occur|0.5493 most|0.53521 frequently|0.52113 in|0.50704 deeper|0.49296 low|0.47887 current|0.46479 areas|0.4507 such|0.43662 as|0.42254 side|0.40845 channels|0.39437 oxbows|0.38028 backwater|0.3662 lakes|0.35211 bayous|0.33803 and|0.32394 tailwaters|0.30986 below|0.29577 dams|0.28169 They|0.26761 have|0.25352 been|0.23944 observed|0.22535 to|0.21127 move|0.19718 more|0.1831 than|0.16901 2|0.15493 000|0.14085 mi|0.12676 3|0.11268 200|0.098592 km|0.084507 in|0.070423 a|0.056338 river|0.042254 system|0.028169 5|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

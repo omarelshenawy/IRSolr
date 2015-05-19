@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8bc72ea3b7c2b267a71b753c5d98230917b8ca0ff09a78aebaefba9159866f94",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/G-GDFC_%288003738675%29.jpg/220px-G-GDFC_%288003738675%29.jpg",
+			"previous": " Passenger traffic at Glasgow Airport peaked in 2006 when over 8 8 million passengers passed through the airport Numbers subsequently declined until 2010 with 6 5 million passengers that year but have since increased to nearly 7 4 million in 2013 2 ",
+			"after": " ",
+			"color": "dark|0.53786 olive|0.53786 green|0.53786 dark|0.053181 gray|0.053181 dark|0.053181 grey|0.053181 dark|0.038479 slate|0.038479 gray|0.038479 light|0.031405 steel|0.031405 blue|0.031405 crimson|0.029664 gray|0.028209 grey|0.028209 dim|0.025845 gray|0.025845 dim|0.025845 grey|0.025845 lavender|0.023488 silver|0.023435 thistle|0.018367 light|0.01699 gray|0.01699 light|0.01699 grey|0.01699 gainsboro|0.015737 light|0.013246 slate|0.013246 gray|0.013246 slate|0.013236 gray|0.013236 lavender|0.012182 blush|0.012182 ghost|0.010171 white|0.010171 alice|0.0097812 blue|0.0097812 white|0.0093654 smoke|0.0093654 pale|0.00914 violet|0.00914 red|0.00914 pink|0.0083594  ",
+			"after_weights": " ",
+			"previous_weights": " Passenger|0 traffic|0.02381 at|0.047619 Glasgow|0.071429 Airport|0.095238 peaked|0.11905 in|0.14286 2006|0.16667 when|0.19048 over|0.21429 8|0.2381 8|0.2619 million|0.28571 passengers|0.30952 passed|0.33333 through|0.35714 the|0.38095 airport|0.40476 Numbers|0.42857 subsequently|0.45238 declined|0.47619 until|0.5 2010|0.52381 with|0.54762 6|0.57143 5|0.59524 million|0.61905 passengers|0.64286 that|0.66667 year|0.69048 but|0.71429 have|0.7381 since|0.7619 increased|0.78571 to|0.80952 nearly|0.83333 7|0.85714 4|0.88095 million|0.90476 in|0.92857 2013|0.95238 2|0.97619 |1"
+		}
+	}
+}

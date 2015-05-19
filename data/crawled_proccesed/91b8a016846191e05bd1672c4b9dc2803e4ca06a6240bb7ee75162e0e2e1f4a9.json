@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "91b8a016846191e05bd1672c4b9dc2803e4ca06a6240bb7ee75162e0e2e1f4a9",
+			"url": "https://upload.wikimedia.org/math/7/3/3/73303c7dae44c3d7f251ee0ff5dae87d.png",
+			"previous": " Classical definition The classical definition breaks down when confronted with the continuous case See Bertrand s paradox  Continuous probability theory deals with events that occur in a continuous sample space ",
+			"after": " The cdf necessarily satisfies the following properties ",
+			"color": "dim|0.37273 gray|0.37273 dim|0.37273 grey|0.37273 gray|0.2855 grey|0.2855 dark|0.18359 gray|0.18359 dark|0.18359 grey|0.18359 silver|0.077875 light|0.037948 gray|0.037948 light|0.037948 grey|0.037948 gainsboro|0.026435 white|0.0045748 smoke|0.0045748  ",
+			"after_weights": " The|1 cdf|0.85714 necessarily|0.71429 satisfies|0.57143 the|0.42857 following|0.28571 properties|0.14286 |0",
+			"previous_weights": " Classical|0 definition|0.032258 The|0.064516 classical|0.096774 definition|0.12903 breaks|0.16129 down|0.19355 when|0.22581 confronted|0.25806 with|0.29032 the|0.32258 continuous|0.35484 case|0.3871 See|0.41935 Bertrand|0.45161 s|0.48387 paradox|0.51613 |0.54839 Continuous|0.58065 probability|0.6129 theory|0.64516 deals|0.67742 with|0.70968 events|0.74194 that|0.77419 occur|0.80645 in|0.83871 a|0.87097 continuous|0.90323 sample|0.93548 space|0.96774 |1"
+		}
+	}
+}

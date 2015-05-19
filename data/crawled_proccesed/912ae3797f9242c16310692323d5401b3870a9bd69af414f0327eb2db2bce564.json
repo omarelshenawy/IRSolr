@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "912ae3797f9242c16310692323d5401b3870a9bd69af414f0327eb2db2bce564",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/F18Efamilyweb.jpg/170px-F18Efamilyweb.jpg",
+			"previous": " A US Navy F A 18F from VFA 122 Tactical Demonstration team crashed on 6 April 2011 killing both crew members The crash occurred when the crew attempted to perform a loaded roll with too much speed and insufficient angle of attack The loaded roll has since been removed from the Navy s F A 18F flight demonstration routine 144 ",
+			"after": " Data from U S Navy fact file 14 others 145 146  General characteristics Performance",
+			"color": "dark|0.29663 gray|0.29663 dark|0.29663 grey|0.29663 silver|0.16842 dim|0.15736 gray|0.15736 dim|0.15736 grey|0.15736 gray|0.13026 grey|0.13026 light|0.046974 gray|0.046974 light|0.046974 grey|0.046974 light|0.045883 slate|0.045883 gray|0.045883 slate|0.045492 gray|0.045492 black|0.044561 gainsboro|0.018507 brown|0.0092603 light|0.0082645 steel|0.0082645 blue|0.0082645 dark|0.0041322 slate|0.0041322 gray|0.0041322  ",
+			"after_weights": " Data|1 from|0.92857 U|0.85714 S|0.78571 Navy|0.71429 fact|0.64286 file|0.57143 14|0.5 others|0.42857 145|0.35714 146|0.28571 |0.21429 General|0.14286 characteristics|0.071429 Performance|0",
+			"previous_weights": " A|0 US|0.016667 Navy|0.033333 F|0.05 A|0.066667 18F|0.083333 from|0.1 VFA|0.11667 122|0.13333 Tactical|0.15 Demonstration|0.16667 team|0.18333 crashed|0.2 on|0.21667 6|0.23333 April|0.25 2011|0.26667 killing|0.28333 both|0.3 crew|0.31667 members|0.33333 The|0.35 crash|0.36667 occurred|0.38333 when|0.4 the|0.41667 crew|0.43333 attempted|0.45 to|0.46667 perform|0.48333 a|0.5 loaded|0.51667 roll|0.53333 with|0.55 too|0.56667 much|0.58333 speed|0.6 and|0.61667 insufficient|0.63333 angle|0.65 of|0.66667 attack|0.68333 The|0.7 loaded|0.71667 roll|0.73333 has|0.75 since|0.76667 been|0.78333 removed|0.8 from|0.81667 the|0.83333 Navy|0.85 s|0.86667 F|0.88333 A|0.9 18F|0.91667 flight|0.93333 demonstration|0.95 routine|0.96667 144|0.98333 |1"
+		}
+	}
+}

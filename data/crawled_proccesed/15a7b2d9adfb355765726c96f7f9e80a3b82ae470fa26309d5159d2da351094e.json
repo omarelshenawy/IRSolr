@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15a7b2d9adfb355765726c96f7f9e80a3b82ae470fa26309d5159d2da351094e",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/15px-Red_x.svg.png",
+			"previous": " Links should not be placed in the boldface reiteration of the title in the opening sentence of a lead 9 ",
+			"after": "  Disambiguation pages however use bolding for the link to the primary topic if there is one ",
+			"color": "red|0.93381 salmon|0.038562 light|0.027001 coral|0.027001  ",
+			"after_weights": " |1 Disambiguation|0.94118 pages|0.88235 however|0.82353 use|0.76471 bolding|0.70588 for|0.64706 the|0.58824 link|0.52941 to|0.47059 the|0.41176 primary|0.35294 topic|0.29412 if|0.23529 there|0.17647 is|0.11765 one|0.058824 |0",
+			"previous_weights": " Links|0 should|0.05 not|0.1 be|0.15 placed|0.2 in|0.25 the|0.3 boldface|0.35 reiteration|0.4 of|0.45 the|0.5 title|0.55 in|0.6 the|0.65 opening|0.7 sentence|0.75 of|0.8 a|0.85 lead|0.9 9|0.95 |1"
+		}
+	}
+}

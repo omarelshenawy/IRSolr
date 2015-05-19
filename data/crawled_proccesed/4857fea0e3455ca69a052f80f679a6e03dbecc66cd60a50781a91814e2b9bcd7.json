@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4857fea0e3455ca69a052f80f679a6e03dbecc66cd60a50781a91814e2b9bcd7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Monte_Alb%C3%A1n_archeological_site%2C_Oaxaca.jpg/220px-Monte_Alb%C3%A1n_archeological_site%2C_Oaxaca.jpg",
+			"previous": " ",
+			"after": " The archaeological project then continues or alternatively begins with a field survey Regional survey is the attempt to systematically locate previously unknown sites in a region Site survey is the attempt to systematically locate features of interest such as houses and middens within a site Each of these two goals may be accomplished with largely the same methods ",
+			"color": "dark|0.45627 gray|0.45627 dark|0.45627 grey|0.45627 dim|0.29954 gray|0.29954 dim|0.29954 grey|0.29954 gray|0.22284 grey|0.22284 silver|0.012499  ",
+			"after_weights": " The|1 archaeological|0.98276 project|0.96552 then|0.94828 continues|0.93103 or|0.91379 alternatively|0.89655 begins|0.87931 with|0.86207 a|0.84483 field|0.82759 survey|0.81034 Regional|0.7931 survey|0.77586 is|0.75862 the|0.74138 attempt|0.72414 to|0.7069 systematically|0.68966 locate|0.67241 previously|0.65517 unknown|0.63793 sites|0.62069 in|0.60345 a|0.58621 region|0.56897 Site|0.55172 survey|0.53448 is|0.51724 the|0.5 attempt|0.48276 to|0.46552 systematically|0.44828 locate|0.43103 features|0.41379 of|0.39655 interest|0.37931 such|0.36207 as|0.34483 houses|0.32759 and|0.31034 middens|0.2931 within|0.27586 a|0.25862 site|0.24138 Each|0.22414 of|0.2069 these|0.18966 two|0.17241 goals|0.15517 may|0.13793 be|0.12069 accomplished|0.10345 with|0.086207 largely|0.068966 the|0.051724 same|0.034483 methods|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

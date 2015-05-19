@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "43be083ab24f0e75b3a31f63c5380aedbf444c84cf5c892911340f78c71372fd",
+			"url": "https://upload.wikimedia.org/math/7/b/5/7b5d0dfed04dd70af5578b22a011e6ff.png",
+			"previous": " ",
+			"after": " The basic problem of knot theory the recognition problem is determining the equivalence of two knots Algorithms exist to solve this problem with the first given by Wolfgang Haken in the late 1960s Hass 1998 Nonetheless these algorithms can be extremely time consuming and a major issue in the theory is to understand how hard this problem really is Hass 1998 The special case of recognizing the unknot called the unknotting problem is of particular interest Hoste 2005 ",
+			"color": "dark|0.27987 gray|0.27987 dark|0.27987 grey|0.27987 gray|0.27098 grey|0.27098 silver|0.14924 dim|0.14803 gray|0.14803 dim|0.14803 grey|0.14803 light|0.080693 gray|0.080693 light|0.080693 grey|0.080693 gainsboro|0.051989 white|0.0054431 smoke|0.0054431 linen|0.0027301  ",
+			"after_weights": " The|1 basic|0.98718 problem|0.97436 of|0.96154 knot|0.94872 theory|0.9359 the|0.92308 recognition|0.91026 problem|0.89744 is|0.88462 determining|0.87179 the|0.85897 equivalence|0.84615 of|0.83333 two|0.82051 knots|0.80769 Algorithms|0.79487 exist|0.78205 to|0.76923 solve|0.75641 this|0.74359 problem|0.73077 with|0.71795 the|0.70513 first|0.69231 given|0.67949 by|0.66667 Wolfgang|0.65385 Haken|0.64103 in|0.62821 the|0.61538 late|0.60256 1960s|0.58974 Hass|0.57692 1998|0.5641 Nonetheless|0.55128 these|0.53846 algorithms|0.52564 can|0.51282 be|0.5 extremely|0.48718 time|0.47436 consuming|0.46154 and|0.44872 a|0.4359 major|0.42308 issue|0.41026 in|0.39744 the|0.38462 theory|0.37179 is|0.35897 to|0.34615 understand|0.33333 how|0.32051 hard|0.30769 this|0.29487 problem|0.28205 really|0.26923 is|0.25641 Hass|0.24359 1998|0.23077 The|0.21795 special|0.20513 case|0.19231 of|0.17949 recognizing|0.16667 the|0.15385 unknot|0.14103 called|0.12821 the|0.11538 unknotting|0.10256 problem|0.089744 is|0.076923 of|0.064103 particular|0.051282 interest|0.038462 Hoste|0.025641 2005|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

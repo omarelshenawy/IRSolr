@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b8595e2de70a1cbdfeab492772006b9f886a4e36b43ab95e72642df105d75c05",
+			"url": "https://upload.wikimedia.org/math/2/f/3/2f3c93d461d2b1506608ff9dfa5b2649.png",
+			"previous": " A single payment C at future time m has the following future value at future time n  The formula for the present value of a regular stream of future payments an annuity is derived from a sum of the formula for future value of a single future payment as below where C is the payment amount and n the period ",
+			"after": " Summing over all payments from time 1 to time n then reversing t",
+			"color": "dim|0.40603 gray|0.40603 dim|0.40603 grey|0.40603 gray|0.27633 grey|0.27633 dark|0.17676 gray|0.17676 dark|0.17676 grey|0.17676 silver|0.070212 light|0.033101 gray|0.033101 light|0.033101 grey|0.033101 gainsboro|0.02292 white|0.0041759 smoke|0.0041759  ",
+			"after_weights": " Summing|1 over|0.91667 all|0.83333 payments|0.75 from|0.66667 time|0.58333 1|0.5 to|0.41667 time|0.33333 n|0.25 then|0.16667 reversing|0.083333 t|0",
+			"previous_weights": " A|0 single|0.016393 payment|0.032787 C|0.04918 at|0.065574 future|0.081967 time|0.098361 m|0.11475 has|0.13115 the|0.14754 following|0.16393 future|0.18033 value|0.19672 at|0.21311 future|0.22951 time|0.2459 n|0.2623 |0.27869 The|0.29508 formula|0.31148 for|0.32787 the|0.34426 present|0.36066 value|0.37705 of|0.39344 a|0.40984 regular|0.42623 stream|0.44262 of|0.45902 future|0.47541 payments|0.4918 an|0.5082 annuity|0.52459 is|0.54098 derived|0.55738 from|0.57377 a|0.59016 sum|0.60656 of|0.62295 the|0.63934 formula|0.65574 for|0.67213 future|0.68852 value|0.70492 of|0.72131 a|0.7377 single|0.7541 future|0.77049 payment|0.78689 as|0.80328 below|0.81967 where|0.83607 C|0.85246 is|0.86885 the|0.88525 payment|0.90164 amount|0.91803 and|0.93443 n|0.95082 the|0.96721 period|0.98361 |1"
+		}
+	}
+}

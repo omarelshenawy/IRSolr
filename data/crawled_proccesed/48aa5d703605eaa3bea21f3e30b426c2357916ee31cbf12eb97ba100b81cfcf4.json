@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48aa5d703605eaa3bea21f3e30b426c2357916ee31cbf12eb97ba100b81cfcf4",
+			"url": "https://upload.wikimedia.org/math/3/0/8/3089f4c2850416e58127c229f583c963.png",
+			"previous": " does not grow to infinity as n goes to infinity see Basel problem In this sense prime numbers occur more often than squares of natural numbers Brun s theorem states that the sum of the reciprocals of twin primes ",
+			"after": " is finite ",
+			"color": "dim|0.42864 gray|0.42864 dim|0.42864 grey|0.42864 gray|0.26962 grey|0.26962 dark|0.15088 gray|0.15088 dark|0.15088 grey|0.15088 silver|0.058071 black|0.033138 light|0.028024 gray|0.028024 light|0.028024 grey|0.028024 gainsboro|0.019383  ",
+			"after_weights": " is|1 finite|0.5 |0",
+			"previous_weights": " does|0 not|0.025641 grow|0.051282 to|0.076923 infinity|0.10256 as|0.12821 n|0.15385 goes|0.17949 to|0.20513 infinity|0.23077 see|0.25641 Basel|0.28205 problem|0.30769 In|0.33333 this|0.35897 sense|0.38462 prime|0.41026 numbers|0.4359 occur|0.46154 more|0.48718 often|0.51282 than|0.53846 squares|0.5641 of|0.58974 natural|0.61538 numbers|0.64103 Brun|0.66667 s|0.69231 theorem|0.71795 states|0.74359 that|0.76923 the|0.79487 sum|0.82051 of|0.84615 the|0.87179 reciprocals|0.89744 of|0.92308 twin|0.94872 primes|0.97436 |1"
+		}
+	}
+}

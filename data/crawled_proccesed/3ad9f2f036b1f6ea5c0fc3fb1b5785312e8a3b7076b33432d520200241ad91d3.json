@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ad9f2f036b1f6ea5c0fc3fb1b5785312e8a3b7076b33432d520200241ad91d3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/X-Window-System.png/220px-X-Window-System.png",
+			"previous": " ",
+			"after": " In computing a graphical user interface GUI 1 pronounced jee you eye 2 or sometimes u i gooey 3 is a type of interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation as opposed to text based interfaces typed command labels or text navigation GUIs were introduced in reaction to the perceived steep learning curve of command line interfaces CLIs 4 5 6 which require commands to be typed on the keyboard ",
+			"color": "white|0.081813 smoke|0.081813 alice|0.074055 blue|0.074055 ghost|0.073768 white|0.073768 sea|0.073467 shell|0.073467 snow|0.073194 lavender|0.072785 blush|0.072785 white|0.071173 mint|0.068408 cream|0.068408 floral|0.065114 white|0.065114 azure|0.063079 light|0.060771 gray|0.060771 light|0.060771 grey|0.060771 silver|0.060061 gainsboro|0.054411 dark|0.043817 gray|0.043817 dark|0.043817 grey|0.043817 black|0.029675 linen|0.012889 gray|0.0096864 grey|0.0096864 cadet|0.0040128 blue|0.0040128 dim|0.003731 gray|0.003731 dim|0.003731 grey|0.003731  ",
+			"after_weights": " In|1 computing|0.9878 a|0.97561 graphical|0.96341 user|0.95122 interface|0.93902 GUI|0.92683 1|0.91463 pronounced|0.90244 jee|0.89024 you|0.87805 eye|0.86585 2|0.85366 or|0.84146 sometimes|0.82927 u|0.81707 i|0.80488 gooey|0.79268 3|0.78049 is|0.76829 a|0.7561 type|0.7439 of|0.73171 interface|0.71951 that|0.70732 allows|0.69512 users|0.68293 to|0.67073 interact|0.65854 with|0.64634 electronic|0.63415 devices|0.62195 through|0.60976 graphical|0.59756 icons|0.58537 and|0.57317 visual|0.56098 indicators|0.54878 such|0.53659 as|0.52439 secondary|0.5122 notation|0.5 as|0.4878 opposed|0.47561 to|0.46341 text|0.45122 based|0.43902 interfaces|0.42683 typed|0.41463 command|0.40244 labels|0.39024 or|0.37805 text|0.36585 navigation|0.35366 GUIs|0.34146 were|0.32927 introduced|0.31707 in|0.30488 reaction|0.29268 to|0.28049 the|0.26829 perceived|0.2561 steep|0.2439 learning|0.23171 curve|0.21951 of|0.20732 command|0.19512 line|0.18293 interfaces|0.17073 CLIs|0.15854 4|0.14634 5|0.13415 6|0.12195 which|0.10976 require|0.097561 commands|0.085366 to|0.073171 be|0.060976 typed|0.04878 on|0.036585 the|0.02439 keyboard|0.012195 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f6695d1d4068aadbceeea53059f22c741b4a797d53ed01178d66e9987bb6f0a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Plug-InExample.png/260px-Plug-InExample.png",
+			"previous": " ",
+			"after": " As shown in the figure the host application provides services which the plug in can use including a way for plug ins to register themselves with the host application and a protocol for the exchange of data with plug ins Plug ins depend on the services provided by the host application and do not usually work by themselves Conversely the host application operates independently of the plug ins making it possible for end users to add and update plug ins dynamically without needing to make changes to the host application 1 2 ",
+			"color": "lemon|0.11318 chiffon|0.11318 light|0.11315 golden|0.11315 rod|0.11315 yellow|0.11315 white|0.069588 smoke|0.069588 sea|0.06859 shell|0.06859 alice|0.068568 blue|0.068568 ghost|0.068557 white|0.068557 snow|0.068388 white|0.067986 mint|0.067466 cream|0.067466 floral|0.066997 white|0.066997 lavender|0.066543 blush|0.066543 azure|0.066203 dark|0.017482 gray|0.017482 dark|0.017482 grey|0.017482 silver|0.010582 light|0.0095944 gray|0.0095944 light|0.0095944 grey|0.0095944 gainsboro|0.0093419 dim|0.0085531 gray|0.0085531 dim|0.0085531 grey|0.0085531 gray|0.0085228 grey|0.0085228 misty|0.0039401 rose|0.0039401 ivory|0.0031748 tan|0.0029024 linen|0.0027603  ",
+			"after_weights": " As|1 shown|0.98913 in|0.97826 the|0.96739 figure|0.95652 the|0.94565 host|0.93478 application|0.92391 provides|0.91304 services|0.90217 which|0.8913 the|0.88043 plug|0.86957 in|0.8587 can|0.84783 use|0.83696 including|0.82609 a|0.81522 way|0.80435 for|0.79348 plug|0.78261 ins|0.77174 to|0.76087 register|0.75 themselves|0.73913 with|0.72826 the|0.71739 host|0.70652 application|0.69565 and|0.68478 a|0.67391 protocol|0.66304 for|0.65217 the|0.6413 exchange|0.63043 of|0.61957 data|0.6087 with|0.59783 plug|0.58696 ins|0.57609 Plug|0.56522 ins|0.55435 depend|0.54348 on|0.53261 the|0.52174 services|0.51087 provided|0.5 by|0.48913 the|0.47826 host|0.46739 application|0.45652 and|0.44565 do|0.43478 not|0.42391 usually|0.41304 work|0.40217 by|0.3913 themselves|0.38043 Conversely|0.36957 the|0.3587 host|0.34783 application|0.33696 operates|0.32609 independently|0.31522 of|0.30435 the|0.29348 plug|0.28261 ins|0.27174 making|0.26087 it|0.25 possible|0.23913 for|0.22826 end|0.21739 users|0.20652 to|0.19565 add|0.18478 and|0.17391 update|0.16304 plug|0.15217 ins|0.1413 dynamically|0.13043 without|0.11957 needing|0.1087 to|0.097826 make|0.086957 changes|0.076087 to|0.065217 the|0.054348 host|0.043478 application|0.032609 1|0.021739 2|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

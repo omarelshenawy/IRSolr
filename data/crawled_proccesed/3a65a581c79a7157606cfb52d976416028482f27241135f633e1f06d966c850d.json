@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a65a581c79a7157606cfb52d976416028482f27241135f633e1f06d966c850d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AirTransat-A330atYUL.jpg/220px-AirTransat-A330atYUL.jpg",
+			"previous": " Air Transat has previously operated Airbus A320 200 Boeing 727 200 737 400 757 200 Lockheed L 1011 150 and Lockheed L 1011 500 aircraft  The A310s will gradually leave the fleet by the end of the decade ",
+			"after": " ",
+			"color": "dark|0.1412 gray|0.1412 dark|0.1412 grey|0.1412 light|0.13166 gray|0.13166 light|0.13166 grey|0.13166 black|0.12875 silver|0.12128 gainsboro|0.10731 gray|0.08191 grey|0.08191 dim|0.048157 gray|0.048157 dim|0.048157 grey|0.048157 white|0.03097 smoke|0.03097 linen|0.027232 sea|0.0178 shell|0.0178 snow|0.013639 light|0.013542 slate|0.013542 gray|0.013542 floral|0.013395 white|0.013395 mint|0.012466 cream|0.012466 alice|0.012139 blue|0.012139  ",
+			"after_weights": " ",
+			"previous_weights": " Air|0 Transat|0.025641 has|0.051282 previously|0.076923 operated|0.10256 Airbus|0.12821 A320|0.15385 200|0.17949 Boeing|0.20513 727|0.23077 200|0.25641 737|0.28205 400|0.30769 757|0.33333 200|0.35897 Lockheed|0.38462 L|0.41026 1011|0.4359 150|0.46154 and|0.48718 Lockheed|0.51282 L|0.53846 1011|0.5641 500|0.58974 aircraft|0.61538 |0.64103 The|0.66667 A310s|0.69231 will|0.71795 gradually|0.74359 leave|0.76923 the|0.79487 fleet|0.82051 by|0.84615 the|0.87179 end|0.89744 of|0.92308 the|0.94872 decade|0.97436 |1"
+		}
+	}
+}

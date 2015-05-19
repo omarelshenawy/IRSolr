@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "929c95d2e18e9a56e0092a75412200255d28e4f04d24f4a8d9f5af7ce2237e95",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Qsicon_L%C3%BCcke.svg/15px-Qsicon_L%C3%BCcke.svg.png",
+			"previous": " Tyrol state North Tyrol East Tyrol",
+			"after": " Ursprung Pass Tyrolean Zugspitze Cable Car Staller Sattel Pustertal Pied North Tyrol K htai Saddle Kartitscher Sattel History of the Jews in Innsbruck Iselsberg Pass Hasegg Castle Gerlos Pass Itter Castle Grie en Pass",
+			"color": "pink|0.41706 firebrick|0.20908 brown|0.095725 indian|0.091805 red|0.091805 light|0.078892 pink|0.078892 misty|0.064846 rose|0.064846 light|0.042599 coral|0.042599  ",
+			"after_weights": " Ursprung|1 Pass|0.9697 Tyrolean|0.93939 Zugspitze|0.90909 Cable|0.87879 Car|0.84848 Staller|0.81818 Sattel|0.78788 Pustertal|0.75758 Pied|0.72727 North|0.69697 Tyrol|0.66667 K|0.63636 htai|0.60606 Saddle|0.57576 Kartitscher|0.54545 Sattel|0.51515 History|0.48485 of|0.45455 the|0.42424 Jews|0.39394 in|0.36364 Innsbruck|0.33333 Iselsberg|0.30303 Pass|0.27273 Hasegg|0.24242 Castle|0.21212 Gerlos|0.18182 Pass|0.15152 Itter|0.12121 Castle|0.090909 Grie|0.060606 en|0.030303 Pass|0",
+			"previous_weights": " Tyrol|0 state|0.2 North|0.4 Tyrol|0.6 East|0.8 Tyrol|1"
+		}
+	}
+}

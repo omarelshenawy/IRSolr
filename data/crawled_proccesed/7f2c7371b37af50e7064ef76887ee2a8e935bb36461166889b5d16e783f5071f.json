@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f2c7371b37af50e7064ef76887ee2a8e935bb36461166889b5d16e783f5071f",
+			"url": "https://upload.wikimedia.org/math/d/d/d/ddd4c682ee1fc0f4255153b2e9d725f2.png",
+			"previous": " The following table presents some example transformations in the plane along with their 2 2 matrices eigenvalues and eigenvectors ",
+			"after": " Note that the characteristic equation for a rotation is a quadratic equation with discriminant which is a negative number whenever is not an integer multiple of 180 Therefore except for these special cases the two eigenvalues are complex numbers and all eigenvectors have non real entries Indeed except for those special cases a rotation changes the direction of every nonzero vector in the plane ",
+			"color": "dim|0.34438 gray|0.34438 dim|0.34438 grey|0.34438 black|0.23371 gray|0.2076 grey|0.2076 dark|0.11747 gray|0.11747 dark|0.11747 grey|0.11747 silver|0.04896 light|0.023325 gray|0.023325 light|0.023325 grey|0.023325 gainsboro|0.016112  ",
+			"after_weights": " Note|1 that|0.98438 the|0.96875 characteristic|0.95312 equation|0.9375 for|0.92188 a|0.90625 rotation|0.89062 is|0.875 a|0.85938 quadratic|0.84375 equation|0.82812 with|0.8125 discriminant|0.79688 which|0.78125 is|0.76562 a|0.75 negative|0.73438 number|0.71875 whenever|0.70312 is|0.6875 not|0.67188 an|0.65625 integer|0.64062 multiple|0.625 of|0.60938 180|0.59375 Therefore|0.57812 except|0.5625 for|0.54688 these|0.53125 special|0.51562 cases|0.5 the|0.48438 two|0.46875 eigenvalues|0.45312 are|0.4375 complex|0.42188 numbers|0.40625 and|0.39062 all|0.375 eigenvectors|0.35938 have|0.34375 non|0.32812 real|0.3125 entries|0.29688 Indeed|0.28125 except|0.26562 for|0.25 those|0.23438 special|0.21875 cases|0.20312 a|0.1875 rotation|0.17188 changes|0.15625 the|0.14062 direction|0.125 of|0.10938 every|0.09375 nonzero|0.078125 vector|0.0625 in|0.046875 the|0.03125 plane|0.015625 |0",
+			"previous_weights": " The|0 following|0.052632 table|0.10526 presents|0.15789 some|0.21053 example|0.26316 transformations|0.31579 in|0.36842 the|0.42105 plane|0.47368 along|0.52632 with|0.57895 their|0.63158 2|0.68421 2|0.73684 matrices|0.78947 eigenvalues|0.84211 and|0.89474 eigenvectors|0.94737 |1"
+		}
+	}
+}

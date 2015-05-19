@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "150b93ae995c80c23bea44b8a02c2514af9a7ad68aef71f64857a611d3695964",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vagon-741-outside.jpg/220px-Vagon-741-outside.jpg",
+			"previous": " ",
+			"after": " Public transport North American English public transportation or public transit is a shared passenger transport service which is available for use by the general public as distinct from modes such as taxicab carpooling or hired buses which are not shared by strangers without private arrangement ",
+			"color": "dim|0.38373 gray|0.38373 dim|0.38373 grey|0.38373 gray|0.18028 grey|0.18028 black|0.16859 dark|0.071914 gray|0.071914 dark|0.071914 grey|0.071914 slate|0.04416 gray|0.04416 light|0.028457 slate|0.028457 gray|0.028457 silver|0.021975 steel|0.02 blue|0.02 dark|0.019185 slate|0.019185 gray|0.019185  ",
+			"after_weights": " Public|1 transport|0.97778 North|0.95556 American|0.93333 English|0.91111 public|0.88889 transportation|0.86667 or|0.84444 public|0.82222 transit|0.8 is|0.77778 a|0.75556 shared|0.73333 passenger|0.71111 transport|0.68889 service|0.66667 which|0.64444 is|0.62222 available|0.6 for|0.57778 use|0.55556 by|0.53333 the|0.51111 general|0.48889 public|0.46667 as|0.44444 distinct|0.42222 from|0.4 modes|0.37778 such|0.35556 as|0.33333 taxicab|0.31111 carpooling|0.28889 or|0.26667 hired|0.24444 buses|0.22222 which|0.2 are|0.17778 not|0.15556 shared|0.13333 by|0.11111 strangers|0.088889 without|0.066667 private|0.044444 arrangement|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52c610b330bebbd295a3fcafde2c8f3cbbb971ad34773d0dbfd79a5c548fd26a",
+			"url": "https://upload.wikimedia.org/math/7/3/8/7389b27658403ed4e3133ec166cfe1a4.png",
+			"previous": " For example if The conjugate momenta P are defined by",
+			"after": " then Hamiltonian mechanics results if the conjugate momenta are introduced in place of and the Lagrangian L is replaced by the Hamiltonian H defined by",
+			"color": "dim|0.37789 gray|0.37789 dim|0.37789 grey|0.37789 gray|0.2806 grey|0.2806 dark|0.17378 gray|0.17378 dark|0.17378 grey|0.17378 silver|0.07602 light|0.038101 gray|0.038101 light|0.038101 grey|0.038101 gainsboro|0.027493 white|0.0059102 smoke|0.0059102  ",
+			"after_weights": " then|1 Hamiltonian|0.95833 mechanics|0.91667 results|0.875 if|0.83333 the|0.79167 conjugate|0.75 momenta|0.70833 are|0.66667 introduced|0.625 in|0.58333 place|0.54167 of|0.5 and|0.45833 the|0.41667 Lagrangian|0.375 L|0.33333 is|0.29167 replaced|0.25 by|0.20833 the|0.16667 Hamiltonian|0.125 H|0.083333 defined|0.041667 by|0",
+			"previous_weights": " For|0 example|0.11111 if|0.22222 The|0.33333 conjugate|0.44444 momenta|0.55556 P|0.66667 are|0.77778 defined|0.88889 by|1"
+		}
+	}
+}

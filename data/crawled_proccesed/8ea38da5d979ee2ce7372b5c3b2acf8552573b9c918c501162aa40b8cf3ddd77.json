@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ea38da5d979ee2ce7372b5c3b2acf8552573b9c918c501162aa40b8cf3ddd77",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Air_Malta_Pre_Flight_Inspection_Airbus_A320.jpg/300px-Air_Malta_Pre_Flight_Inspection_Airbus_A320.jpg",
+			"previous": " ",
+			"after": " Aviation safety is a term encompassing the theory investigation and categorization of flight failures and the prevention of such failures through regulation education and training It can also be applied in the context of campaigns that inform the public as to the safety of air travel ",
+			"color": "gray|0.29963 grey|0.29963 dim|0.27838 gray|0.27838 dim|0.27838 grey|0.27838 black|0.16085 dark|0.14027 gray|0.14027 dark|0.14027 grey|0.14027 silver|0.083382 light|0.021108 gray|0.021108 light|0.021108 grey|0.021108 gainsboro|0.0076846  ",
+			"after_weights": " Aviation|1 safety|0.97826 is|0.95652 a|0.93478 term|0.91304 encompassing|0.8913 the|0.86957 theory|0.84783 investigation|0.82609 and|0.80435 categorization|0.78261 of|0.76087 flight|0.73913 failures|0.71739 and|0.69565 the|0.67391 prevention|0.65217 of|0.63043 such|0.6087 failures|0.58696 through|0.56522 regulation|0.54348 education|0.52174 and|0.5 training|0.47826 It|0.45652 can|0.43478 also|0.41304 be|0.3913 applied|0.36957 in|0.34783 the|0.32609 context|0.30435 of|0.28261 campaigns|0.26087 that|0.23913 inform|0.21739 the|0.19565 public|0.17391 as|0.15217 to|0.13043 the|0.1087 safety|0.086957 of|0.065217 air|0.043478 travel|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

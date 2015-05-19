@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80948b53952e293da118d5e6f857def4baa7cd7d22a010fd5cce9b53fa558db1",
+			"url": "https://upload.wikimedia.org/math/d/0/1/d017f2399a65e63a6bb54ec8d34036c5.png",
+			"previous": " The prime counting function n is defined as the number of primes not greater than n For example 11 5 since there are five primes less than or equal to 11 There are known algorithms to compute exact values of n faster than it would be possible to compute each prime up to n The prime number theorem states that n is approximately given by",
+			"after": " in the sense that the ratio of n and the right hand fraction approaches 1 when n grows to infinity This implies that the likelihood that a number less than n is prime is approximately inversely proportional to the number of digits in n A more accurate estimate for n is given by the offset logarithmic integral",
+			"color": "dim|0.38715 gray|0.38715 dim|0.38715 grey|0.38715 gray|0.30154 grey|0.30154 dark|0.16439 gray|0.16439 dark|0.16439 grey|0.16439 silver|0.068283 light|0.033036 gray|0.033036 light|0.033036 grey|0.033036 gainsboro|0.023369 white|0.0048875 smoke|0.0048875  ",
+			"after_weights": " in|1 the|0.98214 sense|0.96429 that|0.94643 the|0.92857 ratio|0.91071 of|0.89286 n|0.875 and|0.85714 the|0.83929 right|0.82143 hand|0.80357 fraction|0.78571 approaches|0.76786 1|0.75 when|0.73214 n|0.71429 grows|0.69643 to|0.67857 infinity|0.66071 This|0.64286 implies|0.625 that|0.60714 the|0.58929 likelihood|0.57143 that|0.55357 a|0.53571 number|0.51786 less|0.5 than|0.48214 n|0.46429 is|0.44643 prime|0.42857 is|0.41071 approximately|0.39286 inversely|0.375 proportional|0.35714 to|0.33929 the|0.32143 number|0.30357 of|0.28571 digits|0.26786 in|0.25 n|0.23214 A|0.21429 more|0.19643 accurate|0.17857 estimate|0.16071 for|0.14286 n|0.125 is|0.10714 given|0.089286 by|0.071429 the|0.053571 offset|0.035714 logarithmic|0.017857 integral|0",
+			"previous_weights": " The|0 prime|0.015625 counting|0.03125 function|0.046875 n|0.0625 is|0.078125 defined|0.09375 as|0.10938 the|0.125 number|0.14062 of|0.15625 primes|0.17188 not|0.1875 greater|0.20312 than|0.21875 n|0.23438 For|0.25 example|0.26562 11|0.28125 5|0.29688 since|0.3125 there|0.32812 are|0.34375 five|0.35938 primes|0.375 less|0.39062 than|0.40625 or|0.42188 equal|0.4375 to|0.45312 11|0.46875 There|0.48438 are|0.5 known|0.51562 algorithms|0.53125 to|0.54688 compute|0.5625 exact|0.57812 values|0.59375 of|0.60938 n|0.625 faster|0.64062 than|0.65625 it|0.67188 would|0.6875 be|0.70312 possible|0.71875 to|0.73438 compute|0.75 each|0.76562 prime|0.78125 up|0.79688 to|0.8125 n|0.82812 The|0.84375 prime|0.85938 number|0.875 theorem|0.89062 states|0.90625 that|0.92188 n|0.9375 is|0.95312 approximately|0.96875 given|0.98438 by|1"
+		}
+	}
+}

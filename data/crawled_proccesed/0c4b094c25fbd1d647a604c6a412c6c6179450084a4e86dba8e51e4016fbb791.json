@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c4b094c25fbd1d647a604c6a412c6c6179450084a4e86dba8e51e4016fbb791",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Air_France_Boeing_747-400%3B_F-GITI%40MIA%3B17.10.2011_626lu_%286697942627%29.jpg/220px-Air_France_Boeing_747-400%3B_F-GITI%40MIA%3B17.10.2011_626lu_%286697942627%29.jpg",
+			"previous": " ",
+			"after": " As of April 2015 the Air France fleet consists of the following aircraft 82  Air France is one of three airlines along with Avianca and British Airways to operate each variant of the Airbus A320 family ",
+			"color": "dark|0.23733 gray|0.23733 dark|0.23733 grey|0.23733 silver|0.21251 light|0.19197 gray|0.19197 light|0.19197 grey|0.19197 gray|0.10022 grey|0.10022 black|0.087587 dim|0.07963 gray|0.07963 dim|0.07963 grey|0.07963 gainsboro|0.043504 white|0.0070164 smoke|0.0070164 linen|0.0051369 sea|0.0038304 shell|0.0038304  ",
+			"after_weights": " As|1 of|0.97297 April|0.94595 2015|0.91892 the|0.89189 Air|0.86486 France|0.83784 fleet|0.81081 consists|0.78378 of|0.75676 the|0.72973 following|0.7027 aircraft|0.67568 82|0.64865 |0.62162 Air|0.59459 France|0.56757 is|0.54054 one|0.51351 of|0.48649 three|0.45946 airlines|0.43243 along|0.40541 with|0.37838 Avianca|0.35135 and|0.32432 British|0.2973 Airways|0.27027 to|0.24324 operate|0.21622 each|0.18919 variant|0.16216 of|0.13514 the|0.10811 Airbus|0.081081 A320|0.054054 family|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

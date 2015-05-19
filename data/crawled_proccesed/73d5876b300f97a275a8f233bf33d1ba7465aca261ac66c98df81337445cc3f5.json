@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73d5876b300f97a275a8f233bf33d1ba7465aca261ac66c98df81337445cc3f5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DOF-ShallowDepthofField.jpg/220px-DOF-ShallowDepthofField.jpg",
+			"previous": " ",
+			"after": " In geometrical optics a focus also called an image point is the point where light rays originating from a point on the object converge 1 Although the focus is conceptually a point physically the focus has a spatial extent called the blur circle This non ideal focusing may be caused by aberrations of the imaging optics In the absence of significant aberrations the smallest possible blur circle is the Airy disc which is caused by diffraction from the optical system s aperture Aberrations tend to get worse as the aperture diameter increases while the Airy circle is smallest for large apertures ",
+			"color": "black|0.6437 dim|0.18394 gray|0.18394 dim|0.18394 grey|0.18394 gray|0.10296 grey|0.10296 dark|0.026796 gray|0.026796 dark|0.026796 grey|0.026796 light|0.012171 slate|0.012171 gray|0.012171 slate|0.011288 gray|0.011288  ",
+			"after_weights": " In|1 geometrical|0.9901 optics|0.9802 a|0.9703 focus|0.9604 also|0.9505 called|0.94059 an|0.93069 image|0.92079 point|0.91089 is|0.90099 the|0.89109 point|0.88119 where|0.87129 light|0.86139 rays|0.85149 originating|0.84158 from|0.83168 a|0.82178 point|0.81188 on|0.80198 the|0.79208 object|0.78218 converge|0.77228 1|0.76238 Although|0.75248 the|0.74257 focus|0.73267 is|0.72277 conceptually|0.71287 a|0.70297 point|0.69307 physically|0.68317 the|0.67327 focus|0.66337 has|0.65347 a|0.64356 spatial|0.63366 extent|0.62376 called|0.61386 the|0.60396 blur|0.59406 circle|0.58416 This|0.57426 non|0.56436 ideal|0.55446 focusing|0.54455 may|0.53465 be|0.52475 caused|0.51485 by|0.50495 aberrations|0.49505 of|0.48515 the|0.47525 imaging|0.46535 optics|0.45545 In|0.44554 the|0.43564 absence|0.42574 of|0.41584 significant|0.40594 aberrations|0.39604 the|0.38614 smallest|0.37624 possible|0.36634 blur|0.35644 circle|0.34653 is|0.33663 the|0.32673 Airy|0.31683 disc|0.30693 which|0.29703 is|0.28713 caused|0.27723 by|0.26733 diffraction|0.25743 from|0.24752 the|0.23762 optical|0.22772 system|0.21782 s|0.20792 aperture|0.19802 Aberrations|0.18812 tend|0.17822 to|0.16832 get|0.15842 worse|0.14851 as|0.13861 the|0.12871 aperture|0.11881 diameter|0.10891 increases|0.09901 while|0.089109 the|0.079208 Airy|0.069307 circle|0.059406 is|0.049505 smallest|0.039604 for|0.029703 large|0.019802 apertures|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

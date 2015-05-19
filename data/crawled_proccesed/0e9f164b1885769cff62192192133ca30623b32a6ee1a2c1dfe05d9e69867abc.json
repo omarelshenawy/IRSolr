@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e9f164b1885769cff62192192133ca30623b32a6ee1a2c1dfe05d9e69867abc",
+			"url": "https://upload.wikimedia.org/math/f/c/3/fc38548f1b412d1c51fca71595226f95.png",
+			"previous": " The difference between being uniformly continuous and being simply continuous at every point is that in uniform continuity the value of depends only on and not on the point in the domain  If X and Y are subsets of the real numbers a function f X Y is called uniformly continuous if for all 0 there exists a 0 such that for all x y X x y implies f x f y ",
+			"after": " then The collection of all absolutely continuous functions on I is denoted AC I ",
+			"color": "gray|0.31783 grey|0.31783 dim|0.25947 gray|0.25947 dim|0.25947 grey|0.25947 dark|0.2228 gray|0.2228 dark|0.2228 grey|0.2228 silver|0.098853 light|0.046883 gray|0.046883 light|0.046883 grey|0.046883 gainsboro|0.03179 white|0.0058504 smoke|0.0058504 linen|0.0028553  ",
+			"after_weights": " then|1 The|0.92857 collection|0.85714 of|0.78571 all|0.71429 absolutely|0.64286 continuous|0.57143 functions|0.5 on|0.42857 I|0.35714 is|0.28571 denoted|0.21429 AC|0.14286 I|0.071429 |0",
+			"previous_weights": " The|0 difference|0.013514 between|0.027027 being|0.040541 uniformly|0.054054 continuous|0.067568 and|0.081081 being|0.094595 simply|0.10811 continuous|0.12162 at|0.13514 every|0.14865 point|0.16216 is|0.17568 that|0.18919 in|0.2027 uniform|0.21622 continuity|0.22973 the|0.24324 value|0.25676 of|0.27027 depends|0.28378 only|0.2973 on|0.31081 and|0.32432 not|0.33784 on|0.35135 the|0.36486 point|0.37838 in|0.39189 the|0.40541 domain|0.41892 |0.43243 If|0.44595 X|0.45946 and|0.47297 Y|0.48649 are|0.5 subsets|0.51351 of|0.52703 the|0.54054 real|0.55405 numbers|0.56757 a|0.58108 function|0.59459 f|0.60811 X|0.62162 Y|0.63514 is|0.64865 called|0.66216 uniformly|0.67568 continuous|0.68919 if|0.7027 for|0.71622 all|0.72973 0|0.74324 there|0.75676 exists|0.77027 a|0.78378 0|0.7973 such|0.81081 that|0.82432 for|0.83784 all|0.85135 x|0.86486 y|0.87838 X|0.89189 x|0.90541 y|0.91892 implies|0.93243 f|0.94595 x|0.95946 f|0.97297 y|0.98649 |1"
+		}
+	}
+}

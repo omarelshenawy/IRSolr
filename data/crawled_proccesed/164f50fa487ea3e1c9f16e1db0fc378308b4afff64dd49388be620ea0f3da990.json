@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "164f50fa487ea3e1c9f16e1db0fc378308b4afff64dd49388be620ea0f3da990",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shenzhen_B-2669.jpg/220px-Shenzhen_B-2669.jpg",
+			"previous": "  Shenzhen Airlines has the following codeshare agreements as of January 2015 8  At one time the airline had its headquarters in the Lintian Building at Shenzhen Airport 6 7 ",
+			"after": " As of May 2015 the Shenzhen Airlines fleet consists of the following aircraft 11 ",
+			"color": "dark|0.68952 gray|0.68952 dark|0.68952 grey|0.68952 light|0.064108 slate|0.064108 gray|0.064108 black|0.030553 dim|0.019736 gray|0.019736 dim|0.019736 grey|0.019736 gray|0.017626 grey|0.017626 light|0.013643 steel|0.013643 blue|0.013643 silver|0.011097 antique|0.010858 white|0.010858 linen|0.0085811 old|0.008428 lace|0.008428 light|0.0082975 gray|0.0082975 light|0.0082975 grey|0.0082975 beige|0.0081672 floral|0.006579 white|0.006579 slate|0.0064982 gray|0.0064982 sea|0.0062946 shell|0.0062946 ivory|0.0060389 gainsboro|0.0059438 papaya|0.0057204 whip|0.0057204  ",
+			"after_weights": " As|1 of|0.92857 May|0.85714 2015|0.78571 the|0.71429 Shenzhen|0.64286 Airlines|0.57143 fleet|0.5 consists|0.42857 of|0.35714 the|0.28571 following|0.21429 aircraft|0.14286 11|0.071429 |0",
+			"previous_weights": " |0 Shenzhen|0.032258 Airlines|0.064516 has|0.096774 the|0.12903 following|0.16129 codeshare|0.19355 agreements|0.22581 as|0.25806 of|0.29032 January|0.32258 2015|0.35484 8|0.3871 |0.41935 At|0.45161 one|0.48387 time|0.51613 the|0.54839 airline|0.58065 had|0.6129 its|0.64516 headquarters|0.67742 in|0.70968 the|0.74194 Lintian|0.77419 Building|0.80645 at|0.83871 Shenzhen|0.87097 Airport|0.90323 6|0.93548 7|0.96774 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4500cf8e8500c28f2e4ebafed968c56d1f02a5374e61558e7e11f6ceca9c78d8",
+			"url": "https://upload.wikimedia.org/math/8/e/a/8ea771387220823627b44e73ea14b99e.png",
+			"previous": " Any such row vector is called a left eigenvector of ",
+			"after": " It follows that if is Hermitian its left and right eigenvectors are complex conjugates In particular if is a real symmetric matrix they are the same except for transposition ",
+			"color": "dim|0.4498 gray|0.4498 dim|0.4498 grey|0.4498 gray|0.24898 grey|0.24898 dark|0.15389 gray|0.15389 dark|0.15389 grey|0.15389 silver|0.070078 light|0.035071 gray|0.035071 light|0.035071 grey|0.035071 gainsboro|0.025441 white|0.0036468 smoke|0.0036468  ",
+			"after_weights": " It|1 follows|0.96552 that|0.93103 if|0.89655 is|0.86207 Hermitian|0.82759 its|0.7931 left|0.75862 and|0.72414 right|0.68966 eigenvectors|0.65517 are|0.62069 complex|0.58621 conjugates|0.55172 In|0.51724 particular|0.48276 if|0.44828 is|0.41379 a|0.37931 real|0.34483 symmetric|0.31034 matrix|0.27586 they|0.24138 are|0.2069 the|0.17241 same|0.13793 except|0.10345 for|0.068966 transposition|0.034483 |0",
+			"previous_weights": " Any|0 such|0.1 row|0.2 vector|0.3 is|0.4 called|0.5 a|0.6 left|0.7 eigenvector|0.8 of|0.9 |1"
+		}
+	}
+}

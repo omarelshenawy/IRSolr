@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d93eb6afd38cb1491c9442b89765950ac74991f8cf1b91dd541408df83b815e",
+			"url": "https://upload.wikimedia.org/math/4/4/2/4421a6b97db13d9297c01f294cc1cd7b.png",
+			"previous": " One of the most useful tools in multiplicative number theory are Dirichlet series which are functions of a complex variable defined by an infinite series of the form",
+			"after": " Depending on the choice of coefficients this series may converge everywhere nowhere or on some half plane In many cases even where the series does not converge everywhere the holomorphic function it defines may be analytically continued to a meromorphic function on the entire complex plane The utility of functions like this in multiplicative problems can be seen in the formal identity",
+			"color": "dim|0.32384 gray|0.32384 dim|0.32384 grey|0.32384 gray|0.28861 grey|0.28861 dark|0.21463 gray|0.21463 dark|0.21463 grey|0.21463 silver|0.090872 light|0.036753 gray|0.036753 light|0.036753 grey|0.036753 gainsboro|0.026128 white|0.0047824 smoke|0.0047824  ",
+			"after_weights": " Depending|1 on|0.98361 the|0.96721 choice|0.95082 of|0.93443 coefficients|0.91803 this|0.90164 series|0.88525 may|0.86885 converge|0.85246 everywhere|0.83607 nowhere|0.81967 or|0.80328 on|0.78689 some|0.77049 half|0.7541 plane|0.7377 In|0.72131 many|0.70492 cases|0.68852 even|0.67213 where|0.65574 the|0.63934 series|0.62295 does|0.60656 not|0.59016 converge|0.57377 everywhere|0.55738 the|0.54098 holomorphic|0.52459 function|0.5082 it|0.4918 defines|0.47541 may|0.45902 be|0.44262 analytically|0.42623 continued|0.40984 to|0.39344 a|0.37705 meromorphic|0.36066 function|0.34426 on|0.32787 the|0.31148 entire|0.29508 complex|0.27869 plane|0.2623 The|0.2459 utility|0.22951 of|0.21311 functions|0.19672 like|0.18033 this|0.16393 in|0.14754 multiplicative|0.13115 problems|0.11475 can|0.098361 be|0.081967 seen|0.065574 in|0.04918 the|0.032787 formal|0.016393 identity|0",
+			"previous_weights": " One|0 of|0.037037 the|0.074074 most|0.11111 useful|0.14815 tools|0.18519 in|0.22222 multiplicative|0.25926 number|0.2963 theory|0.33333 are|0.37037 Dirichlet|0.40741 series|0.44444 which|0.48148 are|0.51852 functions|0.55556 of|0.59259 a|0.62963 complex|0.66667 variable|0.7037 defined|0.74074 by|0.77778 an|0.81481 infinite|0.85185 series|0.88889 of|0.92593 the|0.96296 form|1"
+		}
+	}
+}

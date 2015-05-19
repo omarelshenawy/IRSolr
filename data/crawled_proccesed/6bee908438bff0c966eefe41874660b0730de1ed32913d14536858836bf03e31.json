@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bee908438bff0c966eefe41874660b0730de1ed32913d14536858836bf03e31",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/9/90/QuantumHarmonicOscillatorAnimation.gif",
+			"previous": " The finite potential well problem is mathematically more complicated than the infinite particle in a box problem as the wavefunction is not pinned to zero at the walls of the well Instead the wavefunction must satisfy more complicated mathematical boundary conditions as it is nonzero in regions outside the well ",
+			"after": " As in the classical case the potential for the quantum harmonic oscillator is given by This problem can either be treated by directly solving the Schr dinger which is not trivial or by using the more elegant ladder method first proposed by Paul Dirac The eigenstates are given by",
+			"color": " ",
+			"after_weights": " As|1 in|0.97917 the|0.95833 classical|0.9375 case|0.91667 the|0.89583 potential|0.875 for|0.85417 the|0.83333 quantum|0.8125 harmonic|0.79167 oscillator|0.77083 is|0.75 given|0.72917 by|0.70833 This|0.6875 problem|0.66667 can|0.64583 either|0.625 be|0.60417 treated|0.58333 by|0.5625 directly|0.54167 solving|0.52083 the|0.5 Schr|0.47917 dinger|0.45833 which|0.4375 is|0.41667 not|0.39583 trivial|0.375 or|0.35417 by|0.33333 using|0.3125 the|0.29167 more|0.27083 elegant|0.25 ladder|0.22917 method|0.20833 first|0.1875 proposed|0.16667 by|0.14583 Paul|0.125 Dirac|0.10417 The|0.083333 eigenstates|0.0625 are|0.041667 given|0.020833 by|0",
+			"previous_weights": " The|0 finite|0.02 potential|0.04 well|0.06 problem|0.08 is|0.1 mathematically|0.12 more|0.14 complicated|0.16 than|0.18 the|0.2 infinite|0.22 particle|0.24 in|0.26 a|0.28 box|0.3 problem|0.32 as|0.34 the|0.36 wavefunction|0.38 is|0.4 not|0.42 pinned|0.44 to|0.46 zero|0.48 at|0.5 the|0.52 walls|0.54 of|0.56 the|0.58 well|0.6 Instead|0.62 the|0.64 wavefunction|0.66 must|0.68 satisfy|0.7 more|0.72 complicated|0.74 mathematical|0.76 boundary|0.78 conditions|0.8 as|0.82 it|0.84 is|0.86 nonzero|0.88 in|0.9 regions|0.92 outside|0.94 the|0.96 well|0.98 |1"
+		}
+	}
+}

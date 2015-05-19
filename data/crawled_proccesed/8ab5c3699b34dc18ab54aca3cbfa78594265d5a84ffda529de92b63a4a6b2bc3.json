@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ab5c3699b34dc18ab54aca3cbfa78594265d5a84ffda529de92b63a4a6b2bc3",
+			"url": "https://upload.wikimedia.org/math/7/3/a/73a727466b283c979a582669a68bb284.png",
+			"previous": " The pressure ratio across the turbine can be calculated assuming a turbine polytropic efficiency  A simplifying assumption sometimes made is for the addition of fuel flow to be exactly offset by an overboard compressor bleed so mass flow remains constant throughout the cycle ",
+			"after": " Obviously  ",
+			"color": "dim|0.34292 gray|0.34292 dim|0.34292 grey|0.34292 gray|0.30157 grey|0.30157 dark|0.19325 gray|0.19325 dark|0.19325 grey|0.19325 silver|0.08114 light|0.037662 gray|0.037662 light|0.037662 grey|0.037662 gainsboro|0.026174 white|0.0043723 smoke|0.0043723  ",
+			"after_weights": " Obviously|1 |0.5 |0",
+			"previous_weights": " The|0 pressure|0.022727 ratio|0.045455 across|0.068182 the|0.090909 turbine|0.11364 can|0.13636 be|0.15909 calculated|0.18182 assuming|0.20455 a|0.22727 turbine|0.25 polytropic|0.27273 efficiency|0.29545 |0.31818 A|0.34091 simplifying|0.36364 assumption|0.38636 sometimes|0.40909 made|0.43182 is|0.45455 for|0.47727 the|0.5 addition|0.52273 of|0.54545 fuel|0.56818 flow|0.59091 to|0.61364 be|0.63636 exactly|0.65909 offset|0.68182 by|0.70455 an|0.72727 overboard|0.75 compressor|0.77273 bleed|0.79545 so|0.81818 mass|0.84091 flow|0.86364 remains|0.88636 constant|0.90909 throughout|0.93182 the|0.95455 cycle|0.97727 |1"
+		}
+	}
+}

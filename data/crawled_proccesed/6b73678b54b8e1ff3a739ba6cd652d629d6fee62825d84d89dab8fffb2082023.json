@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b73678b54b8e1ff3a739ba6cd652d629d6fee62825d84d89dab8fffb2082023",
+			"url": "https://upload.wikimedia.org/math/d/4/d/d4d49bead125261b226eaa867bd016ce.png",
+			"previous": " Restricting one s study to varieties rules out ",
+			"after": " In this narrower definition universal algebra can be seen as a special branch of model theory typically dealing with structures having operations only i e the type can have symbols for functions but not for relations other than equality and in which the language used to talk about these structures uses equations only ",
+			"color": "dark|0.36595 gray|0.36595 dark|0.36595 grey|0.36595 silver|0.22241 light|0.13464 gray|0.13464 light|0.13464 grey|0.13464 gray|0.12322 grey|0.12322 gainsboro|0.098526 white|0.018056 smoke|0.018056 linen|0.008277 lavender|0.0058671 blush|0.0058671 alice|0.005448 blue|0.005448 ghost|0.0050987 white|0.0050987 sea|0.0047395 shell|0.0047395 snow|0.0043727  ",
+			"after_weights": " In|1 this|0.98113 narrower|0.96226 definition|0.9434 universal|0.92453 algebra|0.90566 can|0.88679 be|0.86792 seen|0.84906 as|0.83019 a|0.81132 special|0.79245 branch|0.77358 of|0.75472 model|0.73585 theory|0.71698 typically|0.69811 dealing|0.67925 with|0.66038 structures|0.64151 having|0.62264 operations|0.60377 only|0.58491 i|0.56604 e|0.54717 the|0.5283 type|0.50943 can|0.49057 have|0.4717 symbols|0.45283 for|0.43396 functions|0.41509 but|0.39623 not|0.37736 for|0.35849 relations|0.33962 other|0.32075 than|0.30189 equality|0.28302 and|0.26415 in|0.24528 which|0.22642 the|0.20755 language|0.18868 used|0.16981 to|0.15094 talk|0.13208 about|0.11321 these|0.09434 structures|0.075472 uses|0.056604 equations|0.037736 only|0.018868 |0",
+			"previous_weights": " Restricting|0 one|0.125 s|0.25 study|0.375 to|0.5 varieties|0.625 rules|0.75 out|0.875 |1"
+		}
+	}
+}

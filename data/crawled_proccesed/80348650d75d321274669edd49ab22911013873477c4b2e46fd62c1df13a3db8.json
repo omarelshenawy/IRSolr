@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80348650d75d321274669edd49ab22911013873477c4b2e46fd62c1df13a3db8",
+			"url": "https://upload.wikimedia.org/math/7/9/0/7902736879ad29b6380c50d4681bd537.png",
+			"previous": " we split the B zier curve into three separate equations with When evaluating a B zier curve of degree n in 3 dimensional space with n 1 control points Pi",
+			"after": " which we evaluate individually using De Casteljau s algorithm  The geometric interpretation of De Casteljau s algorithm is straightforward  The following picture shows this process for a cubic B zier curve ",
+			"color": "dim|0.33129 gray|0.33129 dim|0.33129 grey|0.33129 gray|0.29762 grey|0.29762 dark|0.19031 gray|0.19031 dark|0.19031 grey|0.19031 silver|0.086605 light|0.034565 gray|0.034565 light|0.034565 grey|0.034565 gainsboro|0.024508 white|0.005918 smoke|0.005918 alice|0.0041129 blue|0.0041129 lavender|0.0040923 blush|0.0040923 ghost|0.0039836 white|0.0039836 linen|0.0031458 sea|0.0031118 shell|0.0031118 snow|0.0030601  ",
+			"after_weights": " which|1 we|0.9697 evaluate|0.93939 individually|0.90909 using|0.87879 De|0.84848 Casteljau|0.81818 s|0.78788 algorithm|0.75758 |0.72727 The|0.69697 geometric|0.66667 interpretation|0.63636 of|0.60606 De|0.57576 Casteljau|0.54545 s|0.51515 algorithm|0.48485 is|0.45455 straightforward|0.42424 |0.39394 The|0.36364 following|0.33333 picture|0.30303 shows|0.27273 this|0.24242 process|0.21212 for|0.18182 a|0.15152 cubic|0.12121 B|0.090909 zier|0.060606 curve|0.030303 |0",
+			"previous_weights": " we|0 split|0.034483 the|0.068966 B|0.10345 zier|0.13793 curve|0.17241 into|0.2069 three|0.24138 separate|0.27586 equations|0.31034 with|0.34483 When|0.37931 evaluating|0.41379 a|0.44828 B|0.48276 zier|0.51724 curve|0.55172 of|0.58621 degree|0.62069 n|0.65517 in|0.68966 3|0.72414 dimensional|0.75862 space|0.7931 with|0.82759 n|0.86207 1|0.89655 control|0.93103 points|0.96552 Pi|1"
+		}
+	}
+}

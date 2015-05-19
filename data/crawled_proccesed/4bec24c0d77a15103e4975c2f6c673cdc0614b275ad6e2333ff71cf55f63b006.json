@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4bec24c0d77a15103e4975c2f6c673cdc0614b275ad6e2333ff71cf55f63b006",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Brymon_Twin_Otter.jpg/220px-Brymon_Twin_Otter.jpg",
+			"previous": " On 28 March 2002 the airline was merged with British Regional Airlines and was renamed British Airways Citiexpress Limited operating as British Airways Citiexpress On 1 February 2006 the airline was renamed BA Connect Limited operating as BA Connect BA Connect in turn was sold to Flybe in 2007 ",
+			"after": " Brymon Airways fleet consisted of the following aircraft throughout operations ",
+			"color": "dim|0.44527 gray|0.44527 dim|0.44527 grey|0.44527 slate|0.15845 gray|0.15845 black|0.072008 gray|0.058442 grey|0.058442 light|0.049603 slate|0.049603 gray|0.049603 dark|0.033252 slate|0.033252 gray|0.033252 light|0.029694 steel|0.029694 blue|0.029694 silver|0.014903 dark|0.014574 gray|0.014574 dark|0.014574 grey|0.014574 khaki|0.01134 gold|0.0081972 light|0.0078596 gray|0.0078596 light|0.0078596 grey|0.0078596 pale|0.0076638 golden|0.0076638 rod|0.0076638 steel|0.0063144 blue|0.0063144  ",
+			"after_weights": " Brymon|1 Airways|0.9 fleet|0.8 consisted|0.7 of|0.6 the|0.5 following|0.4 aircraft|0.3 throughout|0.2 operations|0.1 |0",
+			"previous_weights": " On|0 28|0.020408 March|0.040816 2002|0.061224 the|0.081633 airline|0.10204 was|0.12245 merged|0.14286 with|0.16327 British|0.18367 Regional|0.20408 Airlines|0.22449 and|0.2449 was|0.26531 renamed|0.28571 British|0.30612 Airways|0.32653 Citiexpress|0.34694 Limited|0.36735 operating|0.38776 as|0.40816 British|0.42857 Airways|0.44898 Citiexpress|0.46939 On|0.4898 1|0.5102 February|0.53061 2006|0.55102 the|0.57143 airline|0.59184 was|0.61224 renamed|0.63265 BA|0.65306 Connect|0.67347 Limited|0.69388 operating|0.71429 as|0.73469 BA|0.7551 Connect|0.77551 BA|0.79592 Connect|0.81633 in|0.83673 turn|0.85714 was|0.87755 sold|0.89796 to|0.91837 Flybe|0.93878 in|0.95918 2007|0.97959 |1"
+		}
+	}
+}

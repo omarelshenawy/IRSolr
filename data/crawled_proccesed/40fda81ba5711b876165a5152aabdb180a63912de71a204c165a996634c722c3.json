@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40fda81ba5711b876165a5152aabdb180a63912de71a204c165a996634c722c3",
+			"url": "https://upload.wikimedia.org/math/f/c/2/fc2f48c729ffe9c49c0947e1d2d16994.png",
+			"previous": " and identify the divergence and curl as",
+			"after": " Note however that these two operators are considerably weaker than the geometric derivative counterpart for several reasons Neither the interior derivative operator nor the exterior derivative operator is invertible ",
+			"color": "dim|0.45244 gray|0.45244 dim|0.45244 grey|0.45244 gray|0.26655 grey|0.26655 dark|0.16271 gray|0.16271 dark|0.16271 grey|0.16271 silver|0.061237 light|0.025469 gray|0.025469 light|0.025469 grey|0.025469 gainsboro|0.017715 white|0.0032811 smoke|0.0032811  ",
+			"after_weights": " Note|1 however|0.96552 that|0.93103 these|0.89655 two|0.86207 operators|0.82759 are|0.7931 considerably|0.75862 weaker|0.72414 than|0.68966 the|0.65517 geometric|0.62069 derivative|0.58621 counterpart|0.55172 for|0.51724 several|0.48276 reasons|0.44828 Neither|0.41379 the|0.37931 interior|0.34483 derivative|0.31034 operator|0.27586 nor|0.24138 the|0.2069 exterior|0.17241 derivative|0.13793 operator|0.10345 is|0.068966 invertible|0.034483 |0",
+			"previous_weights": " and|0 identify|0.16667 the|0.33333 divergence|0.5 and|0.66667 curl|0.83333 as|1"
+		}
+	}
+}

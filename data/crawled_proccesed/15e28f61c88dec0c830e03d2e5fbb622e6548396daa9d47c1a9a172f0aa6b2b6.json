@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15e28f61c88dec0c830e03d2e5fbb622e6548396daa9d47c1a9a172f0aa6b2b6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/March_on_Washington_edit.jpg/220px-March_on_Washington_edit.jpg",
+			"previous": " ",
+			"after": " The March on Washington for Jobs and Freedom was a large political rally that took place on August 28 1963 It was organized principally by A Philip Randolph Bayard Rustin and Martin Luther King Jr During this March King delivered his famous I Have a Dream speech at the Lincoln Memorial Between 200 000 and 500 000 people were in attendance read more ",
+			"color": " ",
+			"after_weights": " The|1 March|0.98413 on|0.96825 Washington|0.95238 for|0.93651 Jobs|0.92063 and|0.90476 Freedom|0.88889 was|0.87302 a|0.85714 large|0.84127 political|0.8254 rally|0.80952 that|0.79365 took|0.77778 place|0.7619 on|0.74603 August|0.73016 28|0.71429 1963|0.69841 It|0.68254 was|0.66667 organized|0.65079 principally|0.63492 by|0.61905 A|0.60317 Philip|0.5873 Randolph|0.57143 Bayard|0.55556 Rustin|0.53968 and|0.52381 Martin|0.50794 Luther|0.49206 King|0.47619 Jr|0.46032 During|0.44444 this|0.42857 March|0.4127 King|0.39683 delivered|0.38095 his|0.36508 famous|0.34921 I|0.33333 Have|0.31746 a|0.30159 Dream|0.28571 speech|0.26984 at|0.25397 the|0.2381 Lincoln|0.22222 Memorial|0.20635 Between|0.19048 200|0.1746 000|0.15873 and|0.14286 500|0.12698 000|0.11111 people|0.095238 were|0.079365 in|0.063492 attendance|0.047619 read|0.031746 more|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

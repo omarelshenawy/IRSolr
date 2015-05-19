@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "131515e838c2d8e8fab37299ed0519c4bda06539cca160925a3e084c5d8eff40",
+			"url": "https://upload.wikimedia.org/math/7/1/f/71f333b5ca3c4e52ee0b7c80c67d84d6.png",
+			"previous": " If the functional J y attains a local minimum at f and x is an arbitrary function that has at least one derivative and vanishes at the endpoints x1 and x2 then for any number close to 0 ",
+			"after": " The term is called the variation of the function f and is denoted by f 11 ",
+			"color": "dim|0.29581 gray|0.29581 dim|0.29581 grey|0.29581 gray|0.26215 grey|0.26215 dark|0.18797 gray|0.18797 dark|0.18797 grey|0.18797 silver|0.093637 light|0.059849 gray|0.059849 light|0.059849 grey|0.059849 gainsboro|0.046755 white|0.014106 smoke|0.014106 linen|0.0077982 lavender|0.0075365 blush|0.0075365 alice|0.0055661 blue|0.0055661 ghost|0.0053164 white|0.0053164 sea|0.0052489 shell|0.0052489 snow|0.0051822  ",
+			"after_weights": " The|1 term|0.9375 is|0.875 called|0.8125 the|0.75 variation|0.6875 of|0.625 the|0.5625 function|0.5 f|0.4375 and|0.375 is|0.3125 denoted|0.25 by|0.1875 f|0.125 11|0.0625 |0",
+			"previous_weights": " If|0 the|0.026316 functional|0.052632 J|0.078947 y|0.10526 attains|0.13158 a|0.15789 local|0.18421 minimum|0.21053 at|0.23684 f|0.26316 and|0.28947 x|0.31579 is|0.34211 an|0.36842 arbitrary|0.39474 function|0.42105 that|0.44737 has|0.47368 at|0.5 least|0.52632 one|0.55263 derivative|0.57895 and|0.60526 vanishes|0.63158 at|0.65789 the|0.68421 endpoints|0.71053 x1|0.73684 and|0.76316 x2|0.78947 then|0.81579 for|0.84211 any|0.86842 number|0.89474 close|0.92105 to|0.94737 0|0.97368 |1"
+		}
+	}
+}

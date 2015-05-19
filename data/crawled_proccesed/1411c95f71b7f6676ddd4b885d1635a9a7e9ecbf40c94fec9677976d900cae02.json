@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1411c95f71b7f6676ddd4b885d1635a9a7e9ecbf40c94fec9677976d900cae02",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flytoget_Oslo_S.jpg/220px-Flytoget_Oslo_S.jpg",
+			"previous": " ",
+			"after": " Many cities also provide a link to their airports through their rapid transit or light rail systems which unlike express trains often make numerous stops on the way to the airport At some airports such as O Hare in Chicago or Hartsfield Jackson in Atlanta the rapid transit train only visits one terminal or concourse passengers must transfer to an airport circulator people mover system to reach other terminals or concourses ",
+			"color": "gray|0.32702 grey|0.32702 dim|0.312 gray|0.312 dim|0.312 grey|0.312 black|0.12747 dark|0.11044 gray|0.11044 dark|0.11044 grey|0.11044 slate|0.029059 gray|0.029059 light|0.024783 steel|0.024783 blue|0.024783 silver|0.022545 light|0.022429 slate|0.022429 gray|0.022429 light|0.006079 gray|0.006079 light|0.006079 grey|0.006079  ",
+			"after_weights": " Many|1 cities|0.98592 also|0.97183 provide|0.95775 a|0.94366 link|0.92958 to|0.91549 their|0.90141 airports|0.88732 through|0.87324 their|0.85915 rapid|0.84507 transit|0.83099 or|0.8169 light|0.80282 rail|0.78873 systems|0.77465 which|0.76056 unlike|0.74648 express|0.73239 trains|0.71831 often|0.70423 make|0.69014 numerous|0.67606 stops|0.66197 on|0.64789 the|0.6338 way|0.61972 to|0.60563 the|0.59155 airport|0.57746 At|0.56338 some|0.5493 airports|0.53521 such|0.52113 as|0.50704 O|0.49296 Hare|0.47887 in|0.46479 Chicago|0.4507 or|0.43662 Hartsfield|0.42254 Jackson|0.40845 in|0.39437 Atlanta|0.38028 the|0.3662 rapid|0.35211 transit|0.33803 train|0.32394 only|0.30986 visits|0.29577 one|0.28169 terminal|0.26761 or|0.25352 concourse|0.23944 passengers|0.22535 must|0.21127 transfer|0.19718 to|0.1831 an|0.16901 airport|0.15493 circulator|0.14085 people|0.12676 mover|0.11268 system|0.098592 to|0.084507 reach|0.070423 other|0.056338 terminals|0.042254 or|0.028169 concourses|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

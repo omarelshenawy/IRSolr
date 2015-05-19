@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c583668dfa8c02498d51d71071bda275992abbbe94e3f7c3662e0ccf153cb73",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kci-airpot1.jpg/250px-Kci-airpot1.jpg",
+			"previous": " ",
+			"after": " Kansas City International Airport IATA MCI ICAO KMCI FAA LID MCI originally Mid Continent International Airport is a public airport 15 miles 24 km northwest of downtown Kansas City in Platte County Missouri 2 In 2014 10 2 million passengers used the airport 3 ",
+			"color": "dim|0.31787 gray|0.31787 dim|0.31787 grey|0.31787 gray|0.1562 grey|0.1562 black|0.13108 slate|0.12548 gray|0.12548 dark|0.080058 gray|0.080058 dark|0.080058 grey|0.080058 light|0.071613 slate|0.071613 gray|0.071613 silver|0.028587 dark|0.022032 slate|0.022032 gray|0.022032 light|0.01411 gray|0.01411 light|0.01411 grey|0.01411 gainsboro|0.0084276  ",
+			"after_weights": " Kansas|1 City|0.97727 International|0.95455 Airport|0.93182 IATA|0.90909 MCI|0.88636 ICAO|0.86364 KMCI|0.84091 FAA|0.81818 LID|0.79545 MCI|0.77273 originally|0.75 Mid|0.72727 Continent|0.70455 International|0.68182 Airport|0.65909 is|0.63636 a|0.61364 public|0.59091 airport|0.56818 15|0.54545 miles|0.52273 24|0.5 km|0.47727 northwest|0.45455 of|0.43182 downtown|0.40909 Kansas|0.38636 City|0.36364 in|0.34091 Platte|0.31818 County|0.29545 Missouri|0.27273 2|0.25 In|0.22727 2014|0.20455 10|0.18182 2|0.15909 million|0.13636 passengers|0.11364 used|0.090909 the|0.068182 airport|0.045455 3|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

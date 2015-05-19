@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "418e9d85bce44c8c8301ea81ed86fa4475828e26605ec8d984a90214735a91c4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Airbus_onboard_entertainment.JPG/170px-Airbus_onboard_entertainment.JPG",
+			"previous": " ",
+			"after": " An airline seat is a seat on an airliner in which passengers are accommodated for the duration of the journey Such seats are usually arranged in rows running across the airplane s fuselage A diagram of such seats in an aircraft is called an aircraft seat map ",
+			"color": "light|0.25526 slate|0.25526 gray|0.25526 slate|0.22631 gray|0.22631 light|0.09115 steel|0.09115 blue|0.09115 dark|0.085059 gray|0.085059 dark|0.085059 grey|0.085059 dim|0.07568 gray|0.07568 dim|0.07568 grey|0.07568 silver|0.069798 black|0.066393 gray|0.043638 grey|0.043638 light|0.036352 gray|0.036352 light|0.036352 grey|0.036352 gainsboro|0.022699 lavender|0.0070724 steel|0.0060937 blue|0.0060937  ",
+			"after_weights": " An|1 airline|0.97872 seat|0.95745 is|0.93617 a|0.91489 seat|0.89362 on|0.87234 an|0.85106 airliner|0.82979 in|0.80851 which|0.78723 passengers|0.76596 are|0.74468 accommodated|0.7234 for|0.70213 the|0.68085 duration|0.65957 of|0.6383 the|0.61702 journey|0.59574 Such|0.57447 seats|0.55319 are|0.53191 usually|0.51064 arranged|0.48936 in|0.46809 rows|0.44681 running|0.42553 across|0.40426 the|0.38298 airplane|0.3617 s|0.34043 fuselage|0.31915 A|0.29787 diagram|0.2766 of|0.25532 such|0.23404 seats|0.21277 in|0.19149 an|0.17021 aircraft|0.14894 is|0.12766 called|0.10638 an|0.085106 aircraft|0.06383 seat|0.042553 map|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

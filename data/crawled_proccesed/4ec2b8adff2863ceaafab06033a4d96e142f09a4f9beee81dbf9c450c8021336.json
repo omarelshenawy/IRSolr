@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ec2b8adff2863ceaafab06033a4d96e142f09a4f9beee81dbf9c450c8021336",
+			"url": "https://upload.wikimedia.org/math/5/2/b/52b4c96d5963d1ec4a0ab5477ab53759.png",
+			"previous": " By Newton s second law the gravitational force that acts on the planet is  The inverse square law is a differential equation The solutions to this differential equation include the Keplerian motions as shown but they also include motions where the orbit is a hyperbola or parabola or a straight line See Kepler orbit ",
+			"after": " where is the gravitational constant  The acceleration of solar system body number i is according to Newton s laws ",
+			"color": "black|0.32433 dim|0.26681 gray|0.26681 dim|0.26681 grey|0.26681 gray|0.17314 grey|0.17314 dark|0.12601 gray|0.12601 dark|0.12601 grey|0.12601 silver|0.055838 light|0.026232 gray|0.026232 light|0.026232 grey|0.026232 gainsboro|0.018326  ",
+			"after_weights": " where|1 is|0.95 the|0.9 gravitational|0.85 constant|0.8 |0.75 The|0.7 acceleration|0.65 of|0.6 solar|0.55 system|0.5 body|0.45 number|0.4 i|0.35 is|0.3 according|0.25 to|0.2 Newton|0.15 s|0.1 laws|0.05 |0",
+			"previous_weights": " By|0 Newton|0.018182 s|0.036364 second|0.054545 law|0.072727 the|0.090909 gravitational|0.10909 force|0.12727 that|0.14545 acts|0.16364 on|0.18182 the|0.2 planet|0.21818 is|0.23636 |0.25455 The|0.27273 inverse|0.29091 square|0.30909 law|0.32727 is|0.34545 a|0.36364 differential|0.38182 equation|0.4 The|0.41818 solutions|0.43636 to|0.45455 this|0.47273 differential|0.49091 equation|0.50909 include|0.52727 the|0.54545 Keplerian|0.56364 motions|0.58182 as|0.6 shown|0.61818 but|0.63636 they|0.65455 also|0.67273 include|0.69091 motions|0.70909 where|0.72727 the|0.74545 orbit|0.76364 is|0.78182 a|0.8 hyperbola|0.81818 or|0.83636 parabola|0.85455 or|0.87273 a|0.89091 straight|0.90909 line|0.92727 See|0.94545 Kepler|0.96364 orbit|0.98182 |1"
+		}
+	}
+}

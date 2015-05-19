@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28e06c5f237e0890e3296e8a267037ec390eda8c13ea34a0e8a72a94857c842c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dagr_by_Arbo.jpg/220px-Dagr_by_Arbo.jpg",
+			"previous": " ",
+			"after": " Besides the day of 24 hours 86 400 seconds the word day is used for several different spans of time based on the rotation of the Earth around its axis An important one is the solar day defined as the time it takes for the sun to return to its culmination point its highest point in the sky Because the Earth orbits the Sun elliptically as the Earth spins on an inclined axis this period can be up to 7 9 seconds more than or less than 24 hours On average over the year this day is equivalent to 24 hours 86 400 seconds ",
+			"color": "tan|0.30859 burly|0.23021 wood|0.23021 wheat|0.11927 dim|0.085018 gray|0.085018 dim|0.085018 grey|0.085018 dark|0.070859 khaki|0.070859 black|0.049341 sienna|0.037284 dark|0.021703 slate|0.021703 gray|0.021703  ",
+			"after_weights": " Besides|1 the|0.99038 day|0.98077 of|0.97115 24|0.96154 hours|0.95192 86|0.94231 400|0.93269 seconds|0.92308 the|0.91346 word|0.90385 day|0.89423 is|0.88462 used|0.875 for|0.86538 several|0.85577 different|0.84615 spans|0.83654 of|0.82692 time|0.81731 based|0.80769 on|0.79808 the|0.78846 rotation|0.77885 of|0.76923 the|0.75962 Earth|0.75 around|0.74038 its|0.73077 axis|0.72115 An|0.71154 important|0.70192 one|0.69231 is|0.68269 the|0.67308 solar|0.66346 day|0.65385 defined|0.64423 as|0.63462 the|0.625 time|0.61538 it|0.60577 takes|0.59615 for|0.58654 the|0.57692 sun|0.56731 to|0.55769 return|0.54808 to|0.53846 its|0.52885 culmination|0.51923 point|0.50962 its|0.5 highest|0.49038 point|0.48077 in|0.47115 the|0.46154 sky|0.45192 Because|0.44231 the|0.43269 Earth|0.42308 orbits|0.41346 the|0.40385 Sun|0.39423 elliptically|0.38462 as|0.375 the|0.36538 Earth|0.35577 spins|0.34615 on|0.33654 an|0.32692 inclined|0.31731 axis|0.30769 this|0.29808 period|0.28846 can|0.27885 be|0.26923 up|0.25962 to|0.25 7|0.24038 9|0.23077 seconds|0.22115 more|0.21154 than|0.20192 or|0.19231 less|0.18269 than|0.17308 24|0.16346 hours|0.15385 On|0.14423 average|0.13462 over|0.125 the|0.11538 year|0.10577 this|0.096154 day|0.086538 is|0.076923 equivalent|0.067308 to|0.057692 24|0.048077 hours|0.038462 86|0.028846 400|0.019231 seconds|0.0096154 |0",
+			"previous_weights": " "
+		}
+	}
+}

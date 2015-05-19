@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "66f5649313b5131026b592c485b499076a007cb6045069fedab05df541b1c356",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DLR-Forschungsflieger_A320-232_D-ATRA.jpg/220px-DLR-Forschungsflieger_A320-232_D-ATRA.jpg",
+			"previous": " Examples of DLR or parent institution manned spaceflight missions 20  Weilheim Oberbayern ",
+			"after": " Examples of research aircraft 21  Examples of DLR or parent institution current and past space missions 23 Many of these are also joint or international missions ",
+			"color": "dark|0.27639 gray|0.27639 dark|0.27639 grey|0.27639 gray|0.23397 grey|0.23397 black|0.14014 light|0.0971 slate|0.0971 gray|0.0971 slate|0.062203 gray|0.062203 dim|0.058971 gray|0.058971 dim|0.058971 grey|0.058971 silver|0.032894 light|0.014058 gray|0.014058 light|0.014058 grey|0.014058 light|0.012374 steel|0.012374 blue|0.012374 gainsboro|0.0091173 firebrick|0.0047301  ",
+			"after_weights": " Examples|1 of|0.96296 research|0.92593 aircraft|0.88889 21|0.85185 |0.81481 Examples|0.77778 of|0.74074 DLR|0.7037 or|0.66667 parent|0.62963 institution|0.59259 current|0.55556 and|0.51852 past|0.48148 space|0.44444 missions|0.40741 23|0.37037 Many|0.33333 of|0.2963 these|0.25926 are|0.22222 also|0.18519 joint|0.14815 or|0.11111 international|0.074074 missions|0.037037 |0",
+			"previous_weights": " Examples|0 of|0.076923 DLR|0.15385 or|0.23077 parent|0.30769 institution|0.38462 manned|0.46154 spaceflight|0.53846 missions|0.61538 20|0.69231 |0.76923 Weilheim|0.84615 Oberbayern|0.92308 |1"
+		}
+	}
+}

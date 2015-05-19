@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a069a7f95874691e363dc915dca82a83e79d94987e8881e6ac4049597b97008",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Austrian_Airlines_air_ticket_cover.jpg/220px-Austrian_Airlines_air_ticket_cover.jpg",
+			"previous": " ",
+			"after": " An airline ticket is a document issued by an airline or a travel agency to confirm that an individual has purchased a seat on a flight on an aircraft This document is then used to obtain a boarding pass at the airport Then with the boarding pass and the attached ticket the passenger is allowed to board the aircraft ",
+			"color": "red|0.16272 beige|0.065724 corn|0.058166 silk|0.058166 papaya|0.054369 whip|0.054369 antique|0.054221 white|0.054221 light|0.05262 yellow|0.05262 blanched|0.048115 almond|0.048115 old|0.046535 lace|0.046535 light|0.045624 golden|0.045624 rod|0.045624 yellow|0.045624 bisque|0.035365 lemon|0.028996 chiffon|0.028996 honeydew|0.028347 ivory|0.027245 salmon|0.021543 linen|0.020847 indian|0.01779 red|0.01779 floral|0.016738 white|0.016738 light|0.015577 coral|0.015577 crimson|0.012483 dark|0.011602 gray|0.011602 dark|0.011602 grey|0.011602 gray|0.010864 grey|0.010864 mint|0.010728 cream|0.010728 tomato|0.0097493 light|0.0096997 gray|0.0096997 light|0.0096997 grey|0.0096997 sea|0.0095157 shell|0.0095157 silver|0.0094015 light|0.0093419 cyan|0.0093419 misty|0.00846 rose|0.00846 gainsboro|0.0077973 dark|0.0075488 salmon|0.0075488 dim|0.0075308 gray|0.0075308 dim|0.0075308 grey|0.0075308 peach|0.007194 puff|0.007194 wheat|0.0071321 azure|0.0070181 dark|0.0056481 slate|0.0056481 gray|0.0056481 black|0.0050005 white|0.0046265 smoke|0.0046265  ",
+			"after_weights": " An|1 airline|0.98305 ticket|0.9661 is|0.94915 a|0.9322 document|0.91525 issued|0.89831 by|0.88136 an|0.86441 airline|0.84746 or|0.83051 a|0.81356 travel|0.79661 agency|0.77966 to|0.76271 confirm|0.74576 that|0.72881 an|0.71186 individual|0.69492 has|0.67797 purchased|0.66102 a|0.64407 seat|0.62712 on|0.61017 a|0.59322 flight|0.57627 on|0.55932 an|0.54237 aircraft|0.52542 This|0.50847 document|0.49153 is|0.47458 then|0.45763 used|0.44068 to|0.42373 obtain|0.40678 a|0.38983 boarding|0.37288 pass|0.35593 at|0.33898 the|0.32203 airport|0.30508 Then|0.28814 with|0.27119 the|0.25424 boarding|0.23729 pass|0.22034 and|0.20339 the|0.18644 attached|0.16949 ticket|0.15254 the|0.13559 passenger|0.11864 is|0.10169 allowed|0.084746 to|0.067797 board|0.050847 the|0.033898 aircraft|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

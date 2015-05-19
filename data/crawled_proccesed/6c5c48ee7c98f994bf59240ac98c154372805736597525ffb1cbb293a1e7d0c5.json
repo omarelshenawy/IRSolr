@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c5c48ee7c98f994bf59240ac98c154372805736597525ffb1cbb293a1e7d0c5",
+			"url": "https://upload.wikimedia.org/math/d/b/7/db7735d03f8de6082982164856a0d8ba.png",
+			"previous": " If the lift coefficient for a wing at a specified angle of attack is known or estimated using a method such as thin airfoil theory then the lift produced for specific flow conditions can be determined using the following equation 62 ",
+			"after": " where",
+			"color": "dim|0.33832 gray|0.33832 dim|0.33832 grey|0.33832 gray|0.28744 grey|0.28744 dark|0.19973 gray|0.19973 dark|0.19973 grey|0.19973 silver|0.087561 light|0.041376 gray|0.041376 light|0.041376 grey|0.041376 gainsboro|0.02959 white|0.0042782 smoke|0.0042782  ",
+			"after_weights": " where|0",
+			"previous_weights": " If|0 the|0.02439 lift|0.04878 coefficient|0.073171 for|0.097561 a|0.12195 wing|0.14634 at|0.17073 a|0.19512 specified|0.21951 angle|0.2439 of|0.26829 attack|0.29268 is|0.31707 known|0.34146 or|0.36585 estimated|0.39024 using|0.41463 a|0.43902 method|0.46341 such|0.4878 as|0.5122 thin|0.53659 airfoil|0.56098 theory|0.58537 then|0.60976 the|0.63415 lift|0.65854 produced|0.68293 for|0.70732 specific|0.73171 flow|0.7561 conditions|0.78049 can|0.80488 be|0.82927 determined|0.85366 using|0.87805 the|0.90244 following|0.92683 equation|0.95122 62|0.97561 |1"
+		}
+	}
+}

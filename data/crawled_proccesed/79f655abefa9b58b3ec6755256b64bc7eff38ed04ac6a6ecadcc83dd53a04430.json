@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "79f655abefa9b58b3ec6755256b64bc7eff38ed04ac6a6ecadcc83dd53a04430",
+			"url": "https://upload.wikimedia.org/math/6/4/5/645ee2b259201cc4a65d4827c945341c.png",
+			"previous": " The code word of the empty string is the empty string itself  The concatenation of code words   Expected length of a code is",
+			"after": " Entropy of a source is the measure of information Basically source codes try to reduce the redundancy present in the source and represent the source with fewer bits that carry more information ",
+			"color": "dim|0.41918 gray|0.41918 dim|0.41918 grey|0.41918 gray|0.2903 grey|0.2903 dark|0.16278 gray|0.16278 dark|0.16278 grey|0.16278 silver|0.061678 light|0.030249 gray|0.030249 light|0.030249 grey|0.030249 gainsboro|0.021428 white|0.0039525 smoke|0.0039525  ",
+			"after_weights": " Entropy|1 of|0.96875 a|0.9375 source|0.90625 is|0.875 the|0.84375 measure|0.8125 of|0.78125 information|0.75 Basically|0.71875 source|0.6875 codes|0.65625 try|0.625 to|0.59375 reduce|0.5625 the|0.53125 redundancy|0.5 present|0.46875 in|0.4375 the|0.40625 source|0.375 and|0.34375 represent|0.3125 the|0.28125 source|0.25 with|0.21875 fewer|0.1875 bits|0.15625 that|0.125 carry|0.09375 more|0.0625 information|0.03125 |0",
+			"previous_weights": " The|0 code|0.04 word|0.08 of|0.12 the|0.16 empty|0.2 string|0.24 is|0.28 the|0.32 empty|0.36 string|0.4 itself|0.44 |0.48 The|0.52 concatenation|0.56 of|0.6 code|0.64 words|0.68 |0.72 |0.76 Expected|0.8 length|0.84 of|0.88 a|0.92 code|0.96 is|1"
+		}
+	}
+}

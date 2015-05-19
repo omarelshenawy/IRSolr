@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "207fc4be84f2dd92e24edd0f799ffdb0bfc5a28e94aab5cf160ffbae1d2db478",
+			"url": "https://upload.wikimedia.org/math/1/8/3/183e36da23a7e00f3c81a78504748233.png",
+			"previous": " In the limit as x approaches zero 3 this equation becomes  The total volume is the summation of all incremental volumes ",
+			"after": " At any given x a right angled triangle connects x y and r to the origin hence applying the Pythagorean theorem yields  Thus substituting y with a function of x gives ",
+			"color": "dim|0.36375 gray|0.36375 dim|0.36375 grey|0.36375 gray|0.28809 grey|0.28809 dark|0.18454 gray|0.18454 dark|0.18454 grey|0.18454 silver|0.079631 light|0.038879 gray|0.038879 light|0.038879 grey|0.038879 gainsboro|0.026442 white|0.0047103 smoke|0.0047103  ",
+			"after_weights": " At|1 any|0.96875 given|0.9375 x|0.90625 a|0.875 right|0.84375 angled|0.8125 triangle|0.78125 connects|0.75 x|0.71875 y|0.6875 and|0.65625 r|0.625 to|0.59375 the|0.5625 origin|0.53125 hence|0.5 applying|0.46875 the|0.4375 Pythagorean|0.40625 theorem|0.375 yields|0.34375 |0.3125 Thus|0.28125 substituting|0.25 y|0.21875 with|0.1875 a|0.15625 function|0.125 of|0.09375 x|0.0625 gives|0.03125 |0",
+			"previous_weights": " In|0 the|0.045455 limit|0.090909 as|0.13636 x|0.18182 approaches|0.22727 zero|0.27273 3|0.31818 this|0.36364 equation|0.40909 becomes|0.45455 |0.5 The|0.54545 total|0.59091 volume|0.63636 is|0.68182 the|0.72727 summation|0.77273 of|0.81818 all|0.86364 incremental|0.90909 volumes|0.95455 |1"
+		}
+	}
+}

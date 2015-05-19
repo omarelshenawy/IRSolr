@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "67070d15c8f4b634f62268dc3969a2efc502f079b4e1926eda73616265de787d",
+			"url": "https://upload.wikimedia.org/math/c/4/d/c4d30708ab60423b897ec3bac6e6b988.png",
+			"previous": " which is the natural basis vector Thus ",
+			"after": " and the matrix K is found to be a diagonal matrix with the eigenvalues i as its diagonal elements  This shows that a matrix A with a linearly independent system of eigenvectors is similar to a diagonal matrix formed from its eigenvalues ",
+			"color": "dim|0.37956 gray|0.37956 dim|0.37956 grey|0.37956 gray|0.29191 grey|0.29191 dark|0.18121 gray|0.18121 dark|0.18121 grey|0.18121 silver|0.075464 light|0.036505 gray|0.036505 light|0.036505 grey|0.036505 gainsboro|0.02456  ",
+			"after_weights": " and|1 the|0.97674 matrix|0.95349 K|0.93023 is|0.90698 found|0.88372 to|0.86047 be|0.83721 a|0.81395 diagonal|0.7907 matrix|0.76744 with|0.74419 the|0.72093 eigenvalues|0.69767 i|0.67442 as|0.65116 its|0.62791 diagonal|0.60465 elements|0.5814 |0.55814 This|0.53488 shows|0.51163 that|0.48837 a|0.46512 matrix|0.44186 A|0.4186 with|0.39535 a|0.37209 linearly|0.34884 independent|0.32558 system|0.30233 of|0.27907 eigenvectors|0.25581 is|0.23256 similar|0.2093 to|0.18605 a|0.16279 diagonal|0.13953 matrix|0.11628 formed|0.093023 from|0.069767 its|0.046512 eigenvalues|0.023256 |0",
+			"previous_weights": " which|0 is|0.14286 the|0.28571 natural|0.42857 basis|0.57143 vector|0.71429 Thus|0.85714 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "494d03107f6ad0cbd6b4578a977a4e217eeef1ccac80ef106457b32a57fec4aa",
+			"url": "https://upload.wikimedia.org/math/a/6/f/a6f47ff4b24f2abb2836f4ba1e46ecd2.png",
+			"previous": " He included the second term on the right to make sure that for small velocities the energy would be the same as in classical mechanics thus satisfying the correspondence principle ",
+			"after": " Without this second term there would be an additional contribution in the energy when the particle is not moving ",
+			"color": "dim|0.41285 gray|0.41285 dim|0.41285 grey|0.41285 gray|0.26875 grey|0.26875 dark|0.17387 gray|0.17387 dark|0.17387 grey|0.17387 silver|0.070537 light|0.031429 gray|0.031429 light|0.031429 grey|0.031429 gainsboro|0.021778 white|0.0047878 smoke|0.0047878  ",
+			"after_weights": " Without|1 this|0.94737 second|0.89474 term|0.84211 there|0.78947 would|0.73684 be|0.68421 an|0.63158 additional|0.57895 contribution|0.52632 in|0.47368 the|0.42105 energy|0.36842 when|0.31579 the|0.26316 particle|0.21053 is|0.15789 not|0.10526 moving|0.052632 |0",
+			"previous_weights": " He|0 included|0.033333 the|0.066667 second|0.1 term|0.13333 on|0.16667 the|0.2 right|0.23333 to|0.26667 make|0.3 sure|0.33333 that|0.36667 for|0.4 small|0.43333 velocities|0.46667 the|0.5 energy|0.53333 would|0.56667 be|0.6 the|0.63333 same|0.66667 as|0.7 in|0.73333 classical|0.76667 mechanics|0.8 thus|0.83333 satisfying|0.86667 the|0.9 correspondence|0.93333 principle|0.96667 |1"
+		}
+	}
+}

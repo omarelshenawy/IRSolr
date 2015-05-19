@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18500e2ef2c8f1320b7419fe2f778e71d0f8d81774de51ccb7d63585b7d7f54c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_Electric-747-N747GE-020918-03.jpg/220px-General_Electric-747-N747GE-020918-03.jpg",
+			"previous": " ",
+			"after": " Then GEAE and competitor Rolls Royce were selected by Boeing to power its new 787 GE Aviation s offering is the GEnx a development of the GE90 GE Aviation also has a two year exclusivity on the Boeing 747 8 ",
+			"color": "gray|0.32216 grey|0.32216 dark|0.1402 gray|0.1402 dark|0.1402 grey|0.1402 silver|0.10677 dim|0.090034 gray|0.090034 dim|0.090034 grey|0.090034 light|0.083443 gray|0.083443 light|0.083443 grey|0.083443 black|0.071981 gainsboro|0.070081 dark|0.020359 slate|0.020359 gray|0.020359 linen|0.01274 sea|0.0090369 shell|0.0090369 old|0.008211 lace|0.008211 white|0.0080566 smoke|0.0080566 antique|0.0079933 white|0.0079933 floral|0.0077759 white|0.0077759  ",
+			"after_weights": " Then|1 GEAE|0.975 and|0.95 competitor|0.925 Rolls|0.9 Royce|0.875 were|0.85 selected|0.825 by|0.8 Boeing|0.775 to|0.75 power|0.725 its|0.7 new|0.675 787|0.65 GE|0.625 Aviation|0.6 s|0.575 offering|0.55 is|0.525 the|0.5 GEnx|0.475 a|0.45 development|0.425 of|0.4 the|0.375 GE90|0.35 GE|0.325 Aviation|0.3 also|0.275 has|0.25 a|0.225 two|0.2 year|0.175 exclusivity|0.15 on|0.125 the|0.1 Boeing|0.075 747|0.05 8|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

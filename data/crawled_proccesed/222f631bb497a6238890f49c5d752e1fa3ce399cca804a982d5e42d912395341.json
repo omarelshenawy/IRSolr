@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "222f631bb497a6238890f49c5d752e1fa3ce399cca804a982d5e42d912395341",
+			"url": "https://upload.wikimedia.org/math/d/e/8/de83b4778b8582d6b501555da17bd8e7.png",
+			"previous": " The following table presents the various camber line profile coefficients   from",
+			"after": " Four and five digit series airfoils can be modified with a two digit code preceded by a hyphen in the following sequence ",
+			"color": "dark|0.2986 gray|0.2986 dark|0.2986 grey|0.2986 silver|0.20398 gray|0.1651 grey|0.1651 light|0.12846 gray|0.12846 light|0.12846 grey|0.12846 gainsboro|0.097242 white|0.017327 smoke|0.017327 lavender|0.010978 blush|0.010978 alice|0.010693 blue|0.010693 ghost|0.01032 white|0.01032 sea|0.010029 shell|0.010029 snow|0.0097485 linen|0.0080449 white|0.0080057 dim|0.0066205 gray|0.0066205 dim|0.0066205 grey|0.0066205 mint|0.0061723 cream|0.0061723 floral|0.0046242 white|0.0046242 azure|0.0040538  ",
+			"after_weights": " Four|1 and|0.95455 five|0.90909 digit|0.86364 series|0.81818 airfoils|0.77273 can|0.72727 be|0.68182 modified|0.63636 with|0.59091 a|0.54545 two|0.5 digit|0.45455 code|0.40909 preceded|0.36364 by|0.31818 a|0.27273 hyphen|0.22727 in|0.18182 the|0.13636 following|0.090909 sequence|0.045455 |0",
+			"previous_weights": " The|0 following|0.083333 table|0.16667 presents|0.25 the|0.33333 various|0.41667 camber|0.5 line|0.58333 profile|0.66667 coefficients|0.75 |0.83333 |0.91667 from|1"
+		}
+	}
+}

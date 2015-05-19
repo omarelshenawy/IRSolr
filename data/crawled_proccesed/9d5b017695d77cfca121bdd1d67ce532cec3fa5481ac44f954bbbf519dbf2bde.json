@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d5b017695d77cfca121bdd1d67ce532cec3fa5481ac44f954bbbf519dbf2bde",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Canadian_CF-18.jpg/220px-Canadian_CF-18.jpg",
+			"previous": " In March 2015 six F A 18As from No 75 Squadron were deployed to the Middle East as part of Operation Okra replacing a detachment of Super Hornets 44 ",
+			"after": " Canada was the first export customer for the Hornet replacing the CF 104 Starfighter air reconnaissance and strike the McDonnell CF 101 Voodoo air interception and the CF 116 Freedom Fighter ground attack The Canadian Forces Air Command ordered 98 A models Canadian designation CF 188A CF 18A and 40 B models designation CF 188B CF 18B ",
+			"color": "dark|0.58394 slate|0.58394 gray|0.58394 black|0.093206 dim|0.074399 gray|0.074399 dim|0.074399 grey|0.074399 silver|0.041601 dark|0.037333 gray|0.037333 dark|0.037333 grey|0.037333 gray|0.033645 grey|0.033645 light|0.02709 gray|0.02709 light|0.02709 grey|0.02709 slate|0.017386 gray|0.017386 gainsboro|0.017336 light|0.016396 slate|0.016396 gray|0.016396 light|0.012842 steel|0.012842 blue|0.012842 lavender|0.0057666  ",
+			"after_weights": " Canada|1 was|0.98246 the|0.96491 first|0.94737 export|0.92982 customer|0.91228 for|0.89474 the|0.87719 Hornet|0.85965 replacing|0.84211 the|0.82456 CF|0.80702 104|0.78947 Starfighter|0.77193 air|0.75439 reconnaissance|0.73684 and|0.7193 strike|0.70175 the|0.68421 McDonnell|0.66667 CF|0.64912 101|0.63158 Voodoo|0.61404 air|0.59649 interception|0.57895 and|0.5614 the|0.54386 CF|0.52632 116|0.50877 Freedom|0.49123 Fighter|0.47368 ground|0.45614 attack|0.4386 The|0.42105 Canadian|0.40351 Forces|0.38596 Air|0.36842 Command|0.35088 ordered|0.33333 98|0.31579 A|0.29825 models|0.2807 Canadian|0.26316 designation|0.24561 CF|0.22807 188A|0.21053 CF|0.19298 18A|0.17544 and|0.15789 40|0.14035 B|0.12281 models|0.10526 designation|0.087719 CF|0.070175 188B|0.052632 CF|0.035088 18B|0.017544 |0",
+			"previous_weights": " In|0 March|0.034483 2015|0.068966 six|0.10345 F|0.13793 A|0.17241 18As|0.2069 from|0.24138 No|0.27586 75|0.31034 Squadron|0.34483 were|0.37931 deployed|0.41379 to|0.44828 the|0.48276 Middle|0.51724 East|0.55172 as|0.58621 part|0.62069 of|0.65517 Operation|0.68966 Okra|0.72414 replacing|0.75862 a|0.7931 detachment|0.82759 of|0.86207 Super|0.89655 Hornets|0.93103 44|0.96552 |1"
+		}
+	}
+}

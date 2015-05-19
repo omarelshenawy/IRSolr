@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d76ba356e6297c5af3cfd2e72151cc18c3b56ee540768668dd93d1339e86a9f",
+			"url": "https://upload.wikimedia.org/math/9/a/2/9a2f53f64937da6bd187d79e36af9007.png",
+			"previous": " In the case that q is a conserved quantity that cannot be created or destroyed such as energy 0 and the equations becomes  This general equation may be used to derive any continuity equation ranging from as simple as the volume continuity equation to as complicated as the Navier Stokes equations This equation also generalizes the advection equation Other equations in physics such as Gauss s law of the electric field and Gauss s law for gravity have a similar mathematical form to the continuity equation but are not usually called by the term continuity equation because j in those cases does not represent the flow of a real physical quantity ",
+			"after": " ",
+			"color": "dim|0.4511 gray|0.4511 dim|0.4511 grey|0.4511 gray|0.2745 grey|0.2745 dark|0.15874 gray|0.15874 dark|0.15874 grey|0.15874 silver|0.062614 light|0.025505 gray|0.025505 light|0.025505 grey|0.025505 gainsboro|0.016768  ",
+			"after_weights": " ",
+			"previous_weights": " In|0 the|0.0089286 case|0.017857 that|0.026786 q|0.035714 is|0.044643 a|0.053571 conserved|0.0625 quantity|0.071429 that|0.080357 cannot|0.089286 be|0.098214 created|0.10714 or|0.11607 destroyed|0.125 such|0.13393 as|0.14286 energy|0.15179 0|0.16071 and|0.16964 the|0.17857 equations|0.1875 becomes|0.19643 |0.20536 This|0.21429 general|0.22321 equation|0.23214 may|0.24107 be|0.25 used|0.25893 to|0.26786 derive|0.27679 any|0.28571 continuity|0.29464 equation|0.30357 ranging|0.3125 from|0.32143 as|0.33036 simple|0.33929 as|0.34821 the|0.35714 volume|0.36607 continuity|0.375 equation|0.38393 to|0.39286 as|0.40179 complicated|0.41071 as|0.41964 the|0.42857 Navier|0.4375 Stokes|0.44643 equations|0.45536 This|0.46429 equation|0.47321 also|0.48214 generalizes|0.49107 the|0.5 advection|0.50893 equation|0.51786 Other|0.52679 equations|0.53571 in|0.54464 physics|0.55357 such|0.5625 as|0.57143 Gauss|0.58036 s|0.58929 law|0.59821 of|0.60714 the|0.61607 electric|0.625 field|0.63393 and|0.64286 Gauss|0.65179 s|0.66071 law|0.66964 for|0.67857 gravity|0.6875 have|0.69643 a|0.70536 similar|0.71429 mathematical|0.72321 form|0.73214 to|0.74107 the|0.75 continuity|0.75893 equation|0.76786 but|0.77679 are|0.78571 not|0.79464 usually|0.80357 called|0.8125 by|0.82143 the|0.83036 term|0.83929 continuity|0.84821 equation|0.85714 because|0.86607 j|0.875 in|0.88393 those|0.89286 cases|0.90179 does|0.91071 not|0.91964 represent|0.92857 the|0.9375 flow|0.94643 of|0.95536 a|0.96429 real|0.97321 physical|0.98214 quantity|0.99107 |1"
+		}
+	}
+}

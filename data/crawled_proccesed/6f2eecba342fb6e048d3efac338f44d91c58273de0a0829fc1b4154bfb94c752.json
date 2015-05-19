@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f2eecba342fb6e048d3efac338f44d91c58273de0a0829fc1b4154bfb94c752",
+			"url": "https://upload.wikimedia.org/math/4/2/b/42bd981d33a2bd968ba3e5541f4dbb15.png",
+			"previous": "  ",
+			"after": " It should be noted that the transient model described above is pretty crude since it only takes into account inertia effects other effects being ignored For instance under transient conditions the entry mass flow to a volume e g jetpipe needn t be the same as the exit mass flow i e the volume could be acting as an accumulator storing or discharging gas Similarly part of the engine structure e g nozzle wall could be extracting or adding heat to the gas flow which would affect that component s discharge temperature ",
+			"color": "black|0.57262 dim|0.18644 gray|0.18644 dim|0.18644 grey|0.18644 gray|0.11569 grey|0.11569 dark|0.070364 gray|0.070364 dark|0.070364 grey|0.070364 silver|0.028022 light|0.01235 gray|0.01235 light|0.01235 grey|0.01235 gainsboro|0.0082646  ",
+			"after_weights": " It|1 should|0.98913 be|0.97826 noted|0.96739 that|0.95652 the|0.94565 transient|0.93478 model|0.92391 described|0.91304 above|0.90217 is|0.8913 pretty|0.88043 crude|0.86957 since|0.8587 it|0.84783 only|0.83696 takes|0.82609 into|0.81522 account|0.80435 inertia|0.79348 effects|0.78261 other|0.77174 effects|0.76087 being|0.75 ignored|0.73913 For|0.72826 instance|0.71739 under|0.70652 transient|0.69565 conditions|0.68478 the|0.67391 entry|0.66304 mass|0.65217 flow|0.6413 to|0.63043 a|0.61957 volume|0.6087 e|0.59783 g|0.58696 jetpipe|0.57609 needn|0.56522 t|0.55435 be|0.54348 the|0.53261 same|0.52174 as|0.51087 the|0.5 exit|0.48913 mass|0.47826 flow|0.46739 i|0.45652 e|0.44565 the|0.43478 volume|0.42391 could|0.41304 be|0.40217 acting|0.3913 as|0.38043 an|0.36957 accumulator|0.3587 storing|0.34783 or|0.33696 discharging|0.32609 gas|0.31522 Similarly|0.30435 part|0.29348 of|0.28261 the|0.27174 engine|0.26087 structure|0.25 e|0.23913 g|0.22826 nozzle|0.21739 wall|0.20652 could|0.19565 be|0.18478 extracting|0.17391 or|0.16304 adding|0.15217 heat|0.1413 to|0.13043 the|0.11957 gas|0.1087 flow|0.097826 which|0.086957 would|0.076087 affect|0.065217 that|0.054348 component|0.043478 s|0.032609 discharge|0.021739 temperature|0.01087 |0",
+			"previous_weights": " |0 |1"
+		}
+	}
+}

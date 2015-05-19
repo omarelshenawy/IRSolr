@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47d664ab44c3512621ca2dded40e871e75e070cdcda569b7491ac3e8ea2a4d28",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bath_Abbey_%28Roman_Bath_view%29.jpg/150px-Bath_Abbey_%28Roman_Bath_view%29.jpg",
+			"previous": " ",
+			"after": " The church is cruciform in plan and is able to seat 1200 An active place of worship with hundreds of congregation members and hundreds of thousands of visitors each year it is used for religious services secular civic ceremonies concerts and lectures The choir performs in the abbey and elsewhere There is a heritage museum in the vaults ",
+			"color": "dark|0.31075 gray|0.31075 dark|0.31075 grey|0.31075 gray|0.29376 grey|0.29376 dim|0.19293 gray|0.19293 dim|0.19293 grey|0.19293 silver|0.11148 black|0.029548 light|0.027808 gray|0.027808 light|0.027808 grey|0.027808 gainsboro|0.011503  ",
+			"after_weights": " The|1 church|0.98276 is|0.96552 cruciform|0.94828 in|0.93103 plan|0.91379 and|0.89655 is|0.87931 able|0.86207 to|0.84483 seat|0.82759 1200|0.81034 An|0.7931 active|0.77586 place|0.75862 of|0.74138 worship|0.72414 with|0.7069 hundreds|0.68966 of|0.67241 congregation|0.65517 members|0.63793 and|0.62069 hundreds|0.60345 of|0.58621 thousands|0.56897 of|0.55172 visitors|0.53448 each|0.51724 year|0.5 it|0.48276 is|0.46552 used|0.44828 for|0.43103 religious|0.41379 services|0.39655 secular|0.37931 civic|0.36207 ceremonies|0.34483 concerts|0.32759 and|0.31034 lectures|0.2931 The|0.27586 choir|0.25862 performs|0.24138 in|0.22414 the|0.2069 abbey|0.18966 and|0.17241 elsewhere|0.15517 There|0.13793 is|0.12069 a|0.10345 heritage|0.086207 museum|0.068966 in|0.051724 the|0.034483 vaults|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27bcc1e12ecd42c975ab769ffb41ffd02dd13ce45bb45490ab7f1683a3aee2e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dun%2C_St_Kilda.jpg/220px-Dun%2C_St_Kilda.jpg",
+			"previous": " ",
+			"after": " D n means fort and there is but a single ruined wall of a structure said to have been built in the far distant past by the Fir Bolg 143 The only habitation is Sean Taigh old house a natural cavern sometimes used as a shelter by the St Kildans when they were tending the sheep or catching birds ",
+			"color": "gray|0.25661 grey|0.25661 dim|0.21301 gray|0.21301 dim|0.21301 grey|0.21301 dark|0.15415 olive|0.15415 green|0.15415 light|0.131 slate|0.131 gray|0.131 slate|0.10641 gray|0.10641 dark|0.10131 gray|0.10131 dark|0.10131 grey|0.10131 silver|0.020481 black|0.012391  ",
+			"after_weights": " D|1 n|0.98305 means|0.9661 fort|0.94915 and|0.9322 there|0.91525 is|0.89831 but|0.88136 a|0.86441 single|0.84746 ruined|0.83051 wall|0.81356 of|0.79661 a|0.77966 structure|0.76271 said|0.74576 to|0.72881 have|0.71186 been|0.69492 built|0.67797 in|0.66102 the|0.64407 far|0.62712 distant|0.61017 past|0.59322 by|0.57627 the|0.55932 Fir|0.54237 Bolg|0.52542 143|0.50847 The|0.49153 only|0.47458 habitation|0.45763 is|0.44068 Sean|0.42373 Taigh|0.40678 old|0.38983 house|0.37288 a|0.35593 natural|0.33898 cavern|0.32203 sometimes|0.30508 used|0.28814 as|0.27119 a|0.25424 shelter|0.23729 by|0.22034 the|0.20339 St|0.18644 Kildans|0.16949 when|0.15254 they|0.13559 were|0.11864 tending|0.10169 the|0.084746 sheep|0.067797 or|0.050847 catching|0.033898 birds|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

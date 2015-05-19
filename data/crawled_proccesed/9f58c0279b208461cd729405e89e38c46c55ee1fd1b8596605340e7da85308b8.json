@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f58c0279b208461cd729405e89e38c46c55ee1fd1b8596605340e7da85308b8",
+			"url": "https://upload.wikimedia.org/math/6/a/6/6a636dcc318ce37f8b43893089e8269c.png",
+			"previous": " where Consider the functional Finding the extrema of functionals is similar to finding the maxima and minima of functions The maxima and minima of a function may be located by finding the points where its derivative vanishes i e is equal to zero The extrema of functionals may be obtained by finding functions where the functional derivative is equal to zero This leads to solving the associated Euler Lagrange equation Note 3 ",
+			"after": " It follows from the definition that P satisfies Therefore the integral may also be written as",
+			"color": "gray|0.30618 grey|0.30618 dim|0.29358 gray|0.29358 dim|0.29358 grey|0.29358 dark|0.21962 gray|0.21962 dark|0.21962 grey|0.21962 silver|0.089435 light|0.041392 gray|0.041392 light|0.041392 grey|0.041392 gainsboro|0.028728 white|0.0056049 smoke|0.0056049  ",
+			"after_weights": " It|1 follows|0.93333 from|0.86667 the|0.8 definition|0.73333 that|0.66667 P|0.6 satisfies|0.53333 Therefore|0.46667 the|0.4 integral|0.33333 may|0.26667 also|0.2 be|0.13333 written|0.066667 as|0",
+			"previous_weights": " where|0 Consider|0.013889 the|0.027778 functional|0.041667 Finding|0.055556 the|0.069444 extrema|0.083333 of|0.097222 functionals|0.11111 is|0.125 similar|0.13889 to|0.15278 finding|0.16667 the|0.18056 maxima|0.19444 and|0.20833 minima|0.22222 of|0.23611 functions|0.25 The|0.26389 maxima|0.27778 and|0.29167 minima|0.30556 of|0.31944 a|0.33333 function|0.34722 may|0.36111 be|0.375 located|0.38889 by|0.40278 finding|0.41667 the|0.43056 points|0.44444 where|0.45833 its|0.47222 derivative|0.48611 vanishes|0.5 i|0.51389 e|0.52778 is|0.54167 equal|0.55556 to|0.56944 zero|0.58333 The|0.59722 extrema|0.61111 of|0.625 functionals|0.63889 may|0.65278 be|0.66667 obtained|0.68056 by|0.69444 finding|0.70833 functions|0.72222 where|0.73611 the|0.75 functional|0.76389 derivative|0.77778 is|0.79167 equal|0.80556 to|0.81944 zero|0.83333 This|0.84722 leads|0.86111 to|0.875 solving|0.88889 the|0.90278 associated|0.91667 Euler|0.93056 Lagrange|0.94444 equation|0.95833 Note|0.97222 3|0.98611 |1"
+		}
+	}
+}

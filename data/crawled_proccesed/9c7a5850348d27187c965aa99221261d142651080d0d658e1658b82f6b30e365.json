@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7a5850348d27187c965aa99221261d142651080d0d658e1658b82f6b30e365",
+			"url": "https://upload.wikimedia.org/math/f/c/5/fc55876bb9ef95d8e952c2d9d8e7b33d.png",
+			"previous": " A torus with major radius R and minor radius r may be defined parametrically as",
+			"after": " where the two parameters t and u both vary between 0 and 2  As u varies from 0 to 2 the point on the surface moves about a short circle passing through the hole in the torus As t varies from 0 to 2 the point on the surface moves about a long circle around the hole in the torus ",
+			"color": "dim|0.36269 gray|0.36269 dim|0.36269 grey|0.36269 gray|0.30076 grey|0.30076 dark|0.17815 gray|0.17815 dark|0.17815 grey|0.17815 silver|0.073775 light|0.036908 gray|0.036908 light|0.036908 grey|0.036908 gainsboro|0.026041 white|0.0049172 smoke|0.0049172  ",
+			"after_weights": " where|1 the|0.98361 two|0.96721 parameters|0.95082 t|0.93443 and|0.91803 u|0.90164 both|0.88525 vary|0.86885 between|0.85246 0|0.83607 and|0.81967 2|0.80328 |0.78689 As|0.77049 u|0.7541 varies|0.7377 from|0.72131 0|0.70492 to|0.68852 2|0.67213 the|0.65574 point|0.63934 on|0.62295 the|0.60656 surface|0.59016 moves|0.57377 about|0.55738 a|0.54098 short|0.52459 circle|0.5082 passing|0.4918 through|0.47541 the|0.45902 hole|0.44262 in|0.42623 the|0.40984 torus|0.39344 As|0.37705 t|0.36066 varies|0.34426 from|0.32787 0|0.31148 to|0.29508 2|0.27869 the|0.2623 point|0.2459 on|0.22951 the|0.21311 surface|0.19672 moves|0.18033 about|0.16393 a|0.14754 long|0.13115 circle|0.11475 around|0.098361 the|0.081967 hole|0.065574 in|0.04918 the|0.032787 torus|0.016393 |0",
+			"previous_weights": " A|0 torus|0.071429 with|0.14286 major|0.21429 radius|0.28571 R|0.35714 and|0.42857 minor|0.5 radius|0.57143 r|0.64286 may|0.71429 be|0.78571 defined|0.85714 parametrically|0.92857 as|1"
+		}
+	}
+}

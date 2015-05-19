@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f386f079c878f5562fbed82ab78139ef3f9a5a075cc245b1959eb5664d322ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Har_Avital.jpg/220px-Har_Avital.jpg",
+			"previous": " ",
+			"after": " Intercepting written but encrypted communications and extracting information probably did not lag long after the development of writing A simple encryption system for example is the Caesar cipher ",
+			"color": "silver|0.30306 dark|0.18426 gray|0.18426 dark|0.18426 grey|0.18426 black|0.17826 light|0.1412 gray|0.1412 light|0.1412 grey|0.1412 dim|0.077038 gray|0.077038 dim|0.077038 grey|0.077038 gray|0.069626 grey|0.069626 gainsboro|0.027415  ",
+			"after_weights": " Intercepting|1 written|0.96429 but|0.92857 encrypted|0.89286 communications|0.85714 and|0.82143 extracting|0.78571 information|0.75 probably|0.71429 did|0.67857 not|0.64286 lag|0.60714 long|0.57143 after|0.53571 the|0.5 development|0.46429 of|0.42857 writing|0.39286 A|0.35714 simple|0.32143 encryption|0.28571 system|0.25 for|0.21429 example|0.17857 is|0.14286 the|0.10714 Caesar|0.071429 cipher|0.035714 |0",
+			"previous_weights": " "
+		}
+	}
+}

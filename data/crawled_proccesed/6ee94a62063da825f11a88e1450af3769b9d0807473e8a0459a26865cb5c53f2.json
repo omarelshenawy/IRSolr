@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ee94a62063da825f11a88e1450af3769b9d0807473e8a0459a26865cb5c53f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CU3title.jpg/280px-CU3title.jpg",
+			"previous": " ",
+			"after": " Bach wrote many works for harpsichord some of which may have been played on the clavichord Many of his keyboard works are anthologies that encompass whole theoretical systems in an encyclopaedic fashion ",
+			"color": "beige|0.14145 corn|0.11474 silk|0.11474 papaya|0.11292 whip|0.11292 blanched|0.10788 almond|0.10788 light|0.10516 golden|0.10516 rod|0.10516 yellow|0.10516 antique|0.094912 white|0.094912 light|0.094678 yellow|0.094678 old|0.055812 lace|0.055812 lemon|0.038537 chiffon|0.038537 ivory|0.038438 linen|0.034339 wheat|0.026756 floral|0.01742 white|0.01742 honeydew|0.0091291  ",
+			"after_weights": " Bach|1 wrote|0.96875 many|0.9375 works|0.90625 for|0.875 harpsichord|0.84375 some|0.8125 of|0.78125 which|0.75 may|0.71875 have|0.6875 been|0.65625 played|0.625 on|0.59375 the|0.5625 clavichord|0.53125 Many|0.5 of|0.46875 his|0.4375 keyboard|0.40625 works|0.375 are|0.34375 anthologies|0.3125 that|0.28125 encompass|0.25 whole|0.21875 theoretical|0.1875 systems|0.15625 in|0.125 an|0.09375 encyclopaedic|0.0625 fashion|0.03125 |0",
+			"previous_weights": " "
+		}
+	}
+}

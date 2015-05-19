@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8409ed766bd87ca17a3ba6f02216697b897b6472519a141933c37fedea964493",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sadat_-_Mubarak.jpg/220px-Sadat_-_Mubarak.jpg",
+			"previous": " Hosni Mubarak came to power after the assassination of Sadat in a referendum in which he was the only candidate 59 ",
+			"after": " Hosni Mubarak reaffirmed Egypt s relationship with Israel yet eased the tensions with Egypt s Arab neighbours as well Domestically Mubarak faced many serious problems Even though farm and industry output expanded the economy could not keep pace with the population boom Mass poverty and unemployment led rural families to stream into cities like Cairo where they ended up in crowded slums barely managing to survive ",
+			"color": "dark|0.38496 slate|0.38496 gray|0.38496 black|0.14218 dim|0.11019 gray|0.11019 dim|0.11019 grey|0.11019 gray|0.084928 grey|0.084928 rosy|0.082422 brown|0.082422 dark|0.046796 gray|0.046796 dark|0.046796 grey|0.046796 light|0.042206 slate|0.042206 gray|0.042206 slate|0.040476 gray|0.040476 light|0.015981 steel|0.015981 blue|0.015981 silver|0.015124  ",
+			"after_weights": " Hosni|1 Mubarak|0.98485 reaffirmed|0.9697 Egypt|0.95455 s|0.93939 relationship|0.92424 with|0.90909 Israel|0.89394 yet|0.87879 eased|0.86364 the|0.84848 tensions|0.83333 with|0.81818 Egypt|0.80303 s|0.78788 Arab|0.77273 neighbours|0.75758 as|0.74242 well|0.72727 Domestically|0.71212 Mubarak|0.69697 faced|0.68182 many|0.66667 serious|0.65152 problems|0.63636 Even|0.62121 though|0.60606 farm|0.59091 and|0.57576 industry|0.56061 output|0.54545 expanded|0.5303 the|0.51515 economy|0.5 could|0.48485 not|0.4697 keep|0.45455 pace|0.43939 with|0.42424 the|0.40909 population|0.39394 boom|0.37879 Mass|0.36364 poverty|0.34848 and|0.33333 unemployment|0.31818 led|0.30303 rural|0.28788 families|0.27273 to|0.25758 stream|0.24242 into|0.22727 cities|0.21212 like|0.19697 Cairo|0.18182 where|0.16667 they|0.15152 ended|0.13636 up|0.12121 in|0.10606 crowded|0.090909 slums|0.075758 barely|0.060606 managing|0.045455 to|0.030303 survive|0.015152 |0",
+			"previous_weights": " Hosni|0 Mubarak|0.047619 came|0.095238 to|0.14286 power|0.19048 after|0.2381 the|0.28571 assassination|0.33333 of|0.38095 Sadat|0.42857 in|0.47619 a|0.52381 referendum|0.57143 in|0.61905 which|0.66667 he|0.71429 was|0.7619 the|0.80952 only|0.85714 candidate|0.90476 59|0.95238 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9362373b9f549c5c9eeb7be990513094ce0ee8fb1e9880bf276f678e9311c2a4",
+			"url": "https://upload.wikimedia.org/math/7/b/3/7b305e6b1e42dafe9e6e88df5ccc3946.png",
+			"previous": " A pure quantum state is a state which can be described by a single ket vector as described above A mixed quantum state is a statistical ensemble of pure states see quantum statistical mechanics Mixed states inevitably arise from pure states when for a composite quantum system with an entangled state on it the part is inaccessible to the observer The state of the part is expressed then as the partial trace over ",
+			"after": " The density matrix describing a mixed state is defined to be an operator of the form",
+			"color": " ",
+			"after_weights": " The|1 density|0.93333 matrix|0.86667 describing|0.8 a|0.73333 mixed|0.66667 state|0.6 is|0.53333 defined|0.46667 to|0.4 be|0.33333 an|0.26667 operator|0.2 of|0.13333 the|0.066667 form|0",
+			"previous_weights": " A|0 pure|0.013699 quantum|0.027397 state|0.041096 is|0.054795 a|0.068493 state|0.082192 which|0.09589 can|0.10959 be|0.12329 described|0.13699 by|0.15068 a|0.16438 single|0.17808 ket|0.19178 vector|0.20548 as|0.21918 described|0.23288 above|0.24658 A|0.26027 mixed|0.27397 quantum|0.28767 state|0.30137 is|0.31507 a|0.32877 statistical|0.34247 ensemble|0.35616 of|0.36986 pure|0.38356 states|0.39726 see|0.41096 quantum|0.42466 statistical|0.43836 mechanics|0.45205 Mixed|0.46575 states|0.47945 inevitably|0.49315 arise|0.50685 from|0.52055 pure|0.53425 states|0.54795 when|0.56164 for|0.57534 a|0.58904 composite|0.60274 quantum|0.61644 system|0.63014 with|0.64384 an|0.65753 entangled|0.67123 state|0.68493 on|0.69863 it|0.71233 the|0.72603 part|0.73973 is|0.75342 inaccessible|0.76712 to|0.78082 the|0.79452 observer|0.80822 The|0.82192 state|0.83562 of|0.84932 the|0.86301 part|0.87671 is|0.89041 expressed|0.90411 then|0.91781 as|0.93151 the|0.94521 partial|0.9589 trace|0.9726 over|0.9863 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e838d508b479885f5f5f26ad721553900f4010600645682c499f75ae59cddf4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/C.M._Gilbert._-_John_Hay%2C_c._1904.jpg/220px-C.M._Gilbert._-_John_Hay%2C_c._1904.jpg",
+			"previous": " ",
+			"after": " Hay never fully recovered from the death of his son Adelbert writing in 1904 to his close friend Lizzie Cameron that the death of our boy made my wife and me old at once and for the rest of our lives 185 Gale described Hay in his final years as a saddened slowly dying old man 186 ",
+			"color": "black|0.96318 tan|0.024243  ",
+			"after_weights": " Hay|1 never|0.98246 fully|0.96491 recovered|0.94737 from|0.92982 the|0.91228 death|0.89474 of|0.87719 his|0.85965 son|0.84211 Adelbert|0.82456 writing|0.80702 in|0.78947 1904|0.77193 to|0.75439 his|0.73684 close|0.7193 friend|0.70175 Lizzie|0.68421 Cameron|0.66667 that|0.64912 the|0.63158 death|0.61404 of|0.59649 our|0.57895 boy|0.5614 made|0.54386 my|0.52632 wife|0.50877 and|0.49123 me|0.47368 old|0.45614 at|0.4386 once|0.42105 and|0.40351 for|0.38596 the|0.36842 rest|0.35088 of|0.33333 our|0.31579 lives|0.29825 185|0.2807 Gale|0.26316 described|0.24561 Hay|0.22807 in|0.21053 his|0.19298 final|0.17544 years|0.15789 as|0.14035 a|0.12281 saddened|0.10526 slowly|0.087719 dying|0.070175 old|0.052632 man|0.035088 186|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ae32c6cd44e9fc4d9ea5b8a606f780567cd7951ae8bb735ff058e0f28a4ac3b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/WindowsCE7.png/250px-WindowsCE7.png",
+			"previous": " ",
+			"after": " Windows CE officially known as Windows Embedded Compact is an edition of Windows that runs on minimalistic computers like satellite navigation systems and some mobile phones Windows Embedded Compact is based on its own dedicated kernel dubbed Windows CE kernel Microsoft licenses Windows CE to OEMs and device makers The OEMs and device makers can modify and create their own user interfaces and experiences while Windows CE provides the technical foundation to do so ",
+			"color": "indigo|0.45678 thistle|0.1237 black|0.10064 lavender|0.053598  ",
+			"after_weights": " Windows|1 CE|0.98649 officially|0.97297 known|0.95946 as|0.94595 Windows|0.93243 Embedded|0.91892 Compact|0.90541 is|0.89189 an|0.87838 edition|0.86486 of|0.85135 Windows|0.83784 that|0.82432 runs|0.81081 on|0.7973 minimalistic|0.78378 computers|0.77027 like|0.75676 satellite|0.74324 navigation|0.72973 systems|0.71622 and|0.7027 some|0.68919 mobile|0.67568 phones|0.66216 Windows|0.64865 Embedded|0.63514 Compact|0.62162 is|0.60811 based|0.59459 on|0.58108 its|0.56757 own|0.55405 dedicated|0.54054 kernel|0.52703 dubbed|0.51351 Windows|0.5 CE|0.48649 kernel|0.47297 Microsoft|0.45946 licenses|0.44595 Windows|0.43243 CE|0.41892 to|0.40541 OEMs|0.39189 and|0.37838 device|0.36486 makers|0.35135 The|0.33784 OEMs|0.32432 and|0.31081 device|0.2973 makers|0.28378 can|0.27027 modify|0.25676 and|0.24324 create|0.22973 their|0.21622 own|0.2027 user|0.18919 interfaces|0.17568 and|0.16216 experiences|0.14865 while|0.13514 Windows|0.12162 CE|0.10811 provides|0.094595 the|0.081081 technical|0.067568 foundation|0.054054 to|0.040541 do|0.027027 so|0.013514 |0",
+			"previous_weights": " "
+		}
+	}
+}

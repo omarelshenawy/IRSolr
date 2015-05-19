@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "29313aa694a385dbe9d217912efac63ccb9acf40fcfc955118067fd372510131",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Moncton_New_Brunswick_1.jpg/260px-Moncton_New_Brunswick_1.jpg",
+			"previous": " ",
+			"after": " The city is situated in southeastern New Brunswick within the Petitcodiac River Valley and lies at the geographic centre of the Maritime Provinces The community has gained the nickname Hub City because of its central location and also because Moncton has historically been the railway and land transportation hub for the Maritime Provinces ",
+			"color": "rosy|0.19495 brown|0.19495 dim|0.18466 gray|0.18466 dim|0.18466 grey|0.18466 gray|0.12482 grey|0.12482 black|0.089802 dark|0.081329 gray|0.081329 dark|0.081329 grey|0.081329 corn|0.05984 flower|0.05984 blue|0.05984 slate|0.043422 gray|0.043422 lavender|0.038942 light|0.033749 slate|0.033749 gray|0.033749 light|0.033192 steel|0.033192 blue|0.033192 silver|0.026976 light|0.012507 gray|0.012507 light|0.012507 grey|0.012507  ",
+			"after_weights": " The|1 city|0.98113 is|0.96226 situated|0.9434 in|0.92453 southeastern|0.90566 New|0.88679 Brunswick|0.86792 within|0.84906 the|0.83019 Petitcodiac|0.81132 River|0.79245 Valley|0.77358 and|0.75472 lies|0.73585 at|0.71698 the|0.69811 geographic|0.67925 centre|0.66038 of|0.64151 the|0.62264 Maritime|0.60377 Provinces|0.58491 The|0.56604 community|0.54717 has|0.5283 gained|0.50943 the|0.49057 nickname|0.4717 Hub|0.45283 City|0.43396 because|0.41509 of|0.39623 its|0.37736 central|0.35849 location|0.33962 and|0.32075 also|0.30189 because|0.28302 Moncton|0.26415 has|0.24528 historically|0.22642 been|0.20755 the|0.18868 railway|0.16981 and|0.15094 land|0.13208 transportation|0.11321 hub|0.09434 for|0.075472 the|0.056604 Maritime|0.037736 Provinces|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8caa07518e7c09df42b768133862132e97595736a5c4d207e74211c6c8c85dd5",
+			"url": "https://upload.wikimedia.org/math/e/2/3/e23e800b9c04ae4e7007c54c9f3c2c84.png",
+			"previous": " Mathematically an ellipse can be represented by the formula ",
+			"after": " where is the semi latus rectum and is the eccentricity of the ellipse and r is the distance from the Sun to the planet and is the angle to the planet s current position from its closest approach as seen from the Sun So r are polar coordinates ",
+			"color": "dim|0.40207 gray|0.40207 dim|0.40207 grey|0.40207 gray|0.27785 grey|0.27785 dark|0.16237 gray|0.16237 dark|0.16237 grey|0.16237 silver|0.073066 light|0.037888 gray|0.037888 light|0.037888 grey|0.037888 gainsboro|0.026918 white|0.0046972 smoke|0.0046972  ",
+			"after_weights": " where|1 is|0.97917 the|0.95833 semi|0.9375 latus|0.91667 rectum|0.89583 and|0.875 is|0.85417 the|0.83333 eccentricity|0.8125 of|0.79167 the|0.77083 ellipse|0.75 and|0.72917 r|0.70833 is|0.6875 the|0.66667 distance|0.64583 from|0.625 the|0.60417 Sun|0.58333 to|0.5625 the|0.54167 planet|0.52083 and|0.5 is|0.47917 the|0.45833 angle|0.4375 to|0.41667 the|0.39583 planet|0.375 s|0.35417 current|0.33333 position|0.3125 from|0.29167 its|0.27083 closest|0.25 approach|0.22917 as|0.20833 seen|0.1875 from|0.16667 the|0.14583 Sun|0.125 So|0.10417 r|0.083333 are|0.0625 polar|0.041667 coordinates|0.020833 |0",
+			"previous_weights": " Mathematically|0 an|0.11111 ellipse|0.22222 can|0.33333 be|0.44444 represented|0.55556 by|0.66667 the|0.77778 formula|0.88889 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "840a720a02f57a8413dc4cb84b540094d28d7b97890d30aabbde916224be345e",
+			"url": "https://upload.wikimedia.org/math/e/8/0/e80edf8119ca177d27e69e6caa10e13b.png",
+			"previous": " ",
+			"after": " The proof of the main theorem begins by reduction to the case of prime numbers Euler s four square identity implies that if Langrange s four square theorem holds for two numbers it holds for the product of the two numbers Since any natural number can be factored into powers of primes it suffices to prove the theorem for prime numbers It is true for To show this for an odd prime integer represent it as a quaternion and assume for now as we shall show later that it is not a Hurwitz irreducible that is it can be factored into two non unit Hurwitz quaternions",
+			"color": "dim|0.38267 gray|0.38267 dim|0.38267 grey|0.38267 gray|0.26111 grey|0.26111 dark|0.19317 gray|0.19317 dark|0.19317 grey|0.19317 silver|0.090512 light|0.03814 gray|0.03814 light|0.03814 grey|0.03814 gainsboro|0.019539 white|0.0035466 smoke|0.0035466  ",
+			"after_weights": " The|1 proof|0.99048 of|0.98095 the|0.97143 main|0.9619 theorem|0.95238 begins|0.94286 by|0.93333 reduction|0.92381 to|0.91429 the|0.90476 case|0.89524 of|0.88571 prime|0.87619 numbers|0.86667 Euler|0.85714 s|0.84762 four|0.8381 square|0.82857 identity|0.81905 implies|0.80952 that|0.8 if|0.79048 Langrange|0.78095 s|0.77143 four|0.7619 square|0.75238 theorem|0.74286 holds|0.73333 for|0.72381 two|0.71429 numbers|0.70476 it|0.69524 holds|0.68571 for|0.67619 the|0.66667 product|0.65714 of|0.64762 the|0.6381 two|0.62857 numbers|0.61905 Since|0.60952 any|0.6 natural|0.59048 number|0.58095 can|0.57143 be|0.5619 factored|0.55238 into|0.54286 powers|0.53333 of|0.52381 primes|0.51429 it|0.50476 suffices|0.49524 to|0.48571 prove|0.47619 the|0.46667 theorem|0.45714 for|0.44762 prime|0.4381 numbers|0.42857 It|0.41905 is|0.40952 true|0.4 for|0.39048 To|0.38095 show|0.37143 this|0.3619 for|0.35238 an|0.34286 odd|0.33333 prime|0.32381 integer|0.31429 represent|0.30476 it|0.29524 as|0.28571 a|0.27619 quaternion|0.26667 and|0.25714 assume|0.24762 for|0.2381 now|0.22857 as|0.21905 we|0.20952 shall|0.2 show|0.19048 later|0.18095 that|0.17143 it|0.1619 is|0.15238 not|0.14286 a|0.13333 Hurwitz|0.12381 irreducible|0.11429 that|0.10476 is|0.095238 it|0.085714 can|0.07619 be|0.066667 factored|0.057143 into|0.047619 two|0.038095 non|0.028571 unit|0.019048 Hurwitz|0.0095238 quaternions|0",
+			"previous_weights": " "
+		}
+	}
+}

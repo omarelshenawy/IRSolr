@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1777671068dcc5472372eb24a535df80c91c3dd9b92ccc40799c8b8f35eb6c43",
+			"url": "https://upload.wikimedia.org/math/4/0/a/40ad0fc546822ed6b6cee39fc3263ff7.png",
+			"previous": " Manipulating this equation gives It can be shown that",
+			"after": " Substituting the above into 1 results in According to the mean value theorem for integration there exists a real number in x1 x1 x such that",
+			"color": "dim|0.37495 gray|0.37495 dim|0.37495 grey|0.37495 gray|0.29557 grey|0.29557 dark|0.18413 gray|0.18413 dark|0.18413 grey|0.18413 silver|0.069668 light|0.033755 gray|0.033755 light|0.033755 grey|0.033755 gainsboro|0.023918 white|0.0043721 smoke|0.0043721  ",
+			"after_weights": " Substituting|1 the|0.96 above|0.92 into|0.88 1|0.84 results|0.8 in|0.76 According|0.72 to|0.68 the|0.64 mean|0.6 value|0.56 theorem|0.52 for|0.48 integration|0.44 there|0.4 exists|0.36 a|0.32 real|0.28 number|0.24 in|0.2 x1|0.16 x1|0.12 x|0.08 such|0.04 that|0",
+			"previous_weights": " Manipulating|0 this|0.125 equation|0.25 gives|0.375 It|0.5 can|0.625 be|0.75 shown|0.875 that|1"
+		}
+	}
+}

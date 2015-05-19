@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f4fed2ab954c2d994d2da926392f0d3c03853260e360d0d2ddc68d75fd7c855",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Space_Shuttle_Discovery_Tribute.jpg/650px-Space_Shuttle_Discovery_Tribute.jpg",
+			"previous": "  Longest shuttle mission for Discovery shortest shuttle mission for Discovery",
+			"after": " The Flow Director was responsible for the overall preparation of the shuttle for launch and processing it after landing and remained permanently assigned to head the spacecraft s ground crew while the astronaut flight crews changed for every mission Each shuttle s Flow Director was supported by a Vehicle Manager for the same spacecraft Space shuttle Discovery s Flow Directors were ",
+			"color": "black|0.18837 steel|0.15981 blue|0.15981 dim|0.13458 gray|0.13458 dim|0.13458 grey|0.13458 gray|0.10251 grey|0.10251 dark|0.076794 gray|0.076794 dark|0.076794 grey|0.076794 slate|0.050181 gray|0.050181 light|0.044817 slate|0.044817 gray|0.044817 silver|0.044278 light|0.027195 gray|0.027195 light|0.027195 grey|0.027195  ",
+			"after_weights": " The|1 Flow|0.98361 Director|0.96721 was|0.95082 responsible|0.93443 for|0.91803 the|0.90164 overall|0.88525 preparation|0.86885 of|0.85246 the|0.83607 shuttle|0.81967 for|0.80328 launch|0.78689 and|0.77049 processing|0.7541 it|0.7377 after|0.72131 landing|0.70492 and|0.68852 remained|0.67213 permanently|0.65574 assigned|0.63934 to|0.62295 head|0.60656 the|0.59016 spacecraft|0.57377 s|0.55738 ground|0.54098 crew|0.52459 while|0.5082 the|0.4918 astronaut|0.47541 flight|0.45902 crews|0.44262 changed|0.42623 for|0.40984 every|0.39344 mission|0.37705 Each|0.36066 shuttle|0.34426 s|0.32787 Flow|0.31148 Director|0.29508 was|0.27869 supported|0.2623 by|0.2459 a|0.22951 Vehicle|0.21311 Manager|0.19672 for|0.18033 the|0.16393 same|0.14754 spacecraft|0.13115 Space|0.11475 shuttle|0.098361 Discovery|0.081967 s|0.065574 Flow|0.04918 Directors|0.032787 were|0.016393 |0",
+			"previous_weights": " |0 Longest|0.1 shuttle|0.2 mission|0.3 for|0.4 Discovery|0.5 shortest|0.6 shuttle|0.7 mission|0.8 for|0.9 Discovery|1"
+		}
+	}
+}

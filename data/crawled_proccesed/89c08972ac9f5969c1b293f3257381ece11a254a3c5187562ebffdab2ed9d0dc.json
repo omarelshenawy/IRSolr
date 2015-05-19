@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89c08972ac9f5969c1b293f3257381ece11a254a3c5187562ebffdab2ed9d0dc",
+			"url": "https://upload.wikimedia.org/math/f/0/3/f035947a24cbeb316aed5a7976272b7f.png",
+			"previous": " So the length of a curve from p to q is a functional of the curve given by provided we allow to take on arbitrary real values The infinitesimal arc length in these coordinates is",
+			"after": " Note that S is at least the length of the meridian from p to q  Since the starting point and ending point are fixed S is minimized if and only if 0 so the curve must lie on a meridian of the sphere 0 constant In Cartesian coordinates this is",
+			"color": "dim|0.36776 gray|0.36776 dim|0.36776 grey|0.36776 gray|0.28085 grey|0.28085 dark|0.18144 gray|0.18144 dark|0.18144 grey|0.18144 silver|0.078297 light|0.037966 gray|0.037966 light|0.037966 grey|0.037966 gainsboro|0.027537 white|0.0054808 smoke|0.0054808 linen|0.0034821 lavender|0.0031539 blush|0.0031539 alice|0.0030668 blue|0.0030668  ",
+			"after_weights": " Note|1 that|0.98 S|0.96 is|0.94 at|0.92 least|0.9 the|0.88 length|0.86 of|0.84 the|0.82 meridian|0.8 from|0.78 p|0.76 to|0.74 q|0.72 |0.7 Since|0.68 the|0.66 starting|0.64 point|0.62 and|0.6 ending|0.58 point|0.56 are|0.54 fixed|0.52 S|0.5 is|0.48 minimized|0.46 if|0.44 and|0.42 only|0.4 if|0.38 0|0.36 so|0.34 the|0.32 curve|0.3 must|0.28 lie|0.26 on|0.24 a|0.22 meridian|0.2 of|0.18 the|0.16 sphere|0.14 0|0.12 constant|0.1 In|0.08 Cartesian|0.06 coordinates|0.04 this|0.02 is|0",
+			"previous_weights": " So|0 the|0.029412 length|0.058824 of|0.088235 a|0.11765 curve|0.14706 from|0.17647 p|0.20588 to|0.23529 q|0.26471 is|0.29412 a|0.32353 functional|0.35294 of|0.38235 the|0.41176 curve|0.44118 given|0.47059 by|0.5 provided|0.52941 we|0.55882 allow|0.58824 to|0.61765 take|0.64706 on|0.67647 arbitrary|0.70588 real|0.73529 values|0.76471 The|0.79412 infinitesimal|0.82353 arc|0.85294 length|0.88235 in|0.91176 these|0.94118 coordinates|0.97059 is|1"
+		}
+	}
+}

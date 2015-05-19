@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e77741706959b792df7c1c443d950879d15f8dbcd21f66c85cf580ec1210b91",
+			"url": "https://upload.wikimedia.org/math/a/e/a/aea6c0ff4b655d7a70a931eb1719e874.png",
+			"previous": " or more verbosely  which means ",
+			"after": "",
+			"color": "gray|0.25611 grey|0.25611 dim|0.24876 gray|0.24876 dim|0.24876 grey|0.24876 dark|0.22309 gray|0.22309 dark|0.22309 grey|0.22309 black|0.18388 silver|0.072139 light|0.012957 gray|0.012957 light|0.012957 grey|0.012957  ",
+			"after_weights": "",
+			"previous_weights": " or|0 more|0.16667 verbosely|0.33333 |0.5 which|0.66667 means|0.83333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81562cfe740b652479c5ee539fe298c412eab43c2cd747d6d7319f29d7339881",
+			"url": "https://upload.wikimedia.org/math/d/e/a/deab8a7142ec7402e7ded2ae8f3a8fc2.png",
+			"previous": " Hence  Dividing by length of time of motion we get  where F is the force and d is the distance moved ",
+			"after": " where P is the useful power and v is the speed  Hence you want v to be as high as possible and a stationary engine does no useful work 1 ",
+			"color": "dim|0.37773 gray|0.37773 dim|0.37773 grey|0.37773 gray|0.27563 grey|0.27563 dark|0.18573 gray|0.18573 dark|0.18573 grey|0.18573 silver|0.078992 light|0.036333 gray|0.036333 light|0.036333 grey|0.036333 gainsboro|0.025604 white|0.0048508 smoke|0.0048508  ",
+			"after_weights": " where|1 P|0.96774 is|0.93548 the|0.90323 useful|0.87097 power|0.83871 and|0.80645 v|0.77419 is|0.74194 the|0.70968 speed|0.67742 |0.64516 Hence|0.6129 you|0.58065 want|0.54839 v|0.51613 to|0.48387 be|0.45161 as|0.41935 high|0.3871 as|0.35484 possible|0.32258 and|0.29032 a|0.25806 stationary|0.22581 engine|0.19355 does|0.16129 no|0.12903 useful|0.096774 work|0.064516 1|0.032258 |0",
+			"previous_weights": " Hence|0 |0.043478 Dividing|0.086957 by|0.13043 length|0.17391 of|0.21739 time|0.26087 of|0.30435 motion|0.34783 we|0.3913 get|0.43478 |0.47826 where|0.52174 F|0.56522 is|0.6087 the|0.65217 force|0.69565 and|0.73913 d|0.78261 is|0.82609 the|0.86957 distance|0.91304 moved|0.95652 |1"
+		}
+	}
+}

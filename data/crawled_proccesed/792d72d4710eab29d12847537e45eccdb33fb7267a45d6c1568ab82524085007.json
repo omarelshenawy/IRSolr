@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "792d72d4710eab29d12847537e45eccdb33fb7267a45d6c1568ab82524085007",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EmperorPenguinColonyClose.jpg/220px-EmperorPenguinColonyClose.jpg",
+			"previous": " ",
+			"after": " The emperor penguin is a social animal in its nesting and its foraging behaviour birds hunting together may coordinate their diving and surfacing 50 Individuals may be active day or night A mature adult travels throughout most of the year between the nesting area and ocean foraging areas the species disperses into the oceans from January to March 13 ",
+			"color": "black|0.63012 light|0.11391 slate|0.11391 gray|0.11391 slate|0.1053 gray|0.1053 dark|0.054161 slate|0.054161 gray|0.054161 steel|0.045845 blue|0.045845 dark|0.016917 gray|0.016917 dark|0.016917 grey|0.016917 dim|0.013045 gray|0.013045 dim|0.013045 grey|0.013045 gray|0.0089957 grey|0.0089957  ",
+			"after_weights": " The|1 emperor|0.98305 penguin|0.9661 is|0.94915 a|0.9322 social|0.91525 animal|0.89831 in|0.88136 its|0.86441 nesting|0.84746 and|0.83051 its|0.81356 foraging|0.79661 behaviour|0.77966 birds|0.76271 hunting|0.74576 together|0.72881 may|0.71186 coordinate|0.69492 their|0.67797 diving|0.66102 and|0.64407 surfacing|0.62712 50|0.61017 Individuals|0.59322 may|0.57627 be|0.55932 active|0.54237 day|0.52542 or|0.50847 night|0.49153 A|0.47458 mature|0.45763 adult|0.44068 travels|0.42373 throughout|0.40678 most|0.38983 of|0.37288 the|0.35593 year|0.33898 between|0.32203 the|0.30508 nesting|0.28814 area|0.27119 and|0.25424 ocean|0.23729 foraging|0.22034 areas|0.20339 the|0.18644 species|0.16949 disperses|0.15254 into|0.13559 the|0.11864 oceans|0.10169 from|0.084746 January|0.067797 to|0.050847 March|0.033898 13|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

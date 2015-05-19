@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1be60fbb2e1a3f02933c380c841c43532ca8bdd1c11b26f7e3116ead64aae19d",
+			"url": "https://upload.wikimedia.org/math/d/c/0/dc06e9716e7af876326bb80c57725b16.png",
+			"previous": " Another expression for the surface area is where z is Euler s Gamma function ",
+			"after": " More generally in a metric space E d the sphere of center x and radius r 0 is the set of points y such that d x y r ",
+			"color": " ",
+			"after_weights": " More|1 generally|0.96552 in|0.93103 a|0.89655 metric|0.86207 space|0.82759 E|0.7931 d|0.75862 the|0.72414 sphere|0.68966 of|0.65517 center|0.62069 x|0.58621 and|0.55172 radius|0.51724 r|0.48276 0|0.44828 is|0.41379 the|0.37931 set|0.34483 of|0.31034 points|0.27586 y|0.24138 such|0.2069 that|0.17241 d|0.13793 x|0.10345 y|0.068966 r|0.034483 |0",
+			"previous_weights": " Another|0 expression|0.071429 for|0.14286 the|0.21429 surface|0.28571 area|0.35714 is|0.42857 where|0.5 z|0.57143 is|0.64286 Euler|0.71429 s|0.78571 Gamma|0.85714 function|0.92857 |1"
+		}
+	}
+}

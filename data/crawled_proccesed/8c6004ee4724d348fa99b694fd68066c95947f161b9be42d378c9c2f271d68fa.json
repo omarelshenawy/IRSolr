@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c6004ee4724d348fa99b694fd68066c95947f161b9be42d378c9c2f271d68fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lufthansa.b737-500.d-abjf.arp.jpg/220px-Lufthansa.b737-500.d-abjf.arp.jpg",
+			"previous": " On December 13 2007 Lufthansa and JetBlue Airways announced the beginning of a partnership initiated through the 19 stake purchase in Jetblue shares by Lufthansa This is the first major ownership investment by a European carrier in an American carrier since the EU U S Open Skies Agreement became effective in 2008 ",
+			"after": " ",
+			"color": "light|0.6436 steel|0.6436 blue|0.6436 black|0.034118 dark|0.033456 gray|0.033456 dark|0.033456 grey|0.033456 gray|0.031605 grey|0.031605 dim|0.029882 gray|0.029882 dim|0.029882 grey|0.029882 silver|0.02241 light|0.020361 gray|0.020361 light|0.020361 grey|0.020361 dark|0.020009 slate|0.020009 gray|0.020009 gainsboro|0.016695 sea|0.011681 shell|0.011681 white|0.011233 smoke|0.011233 linen|0.011028 floral|0.010475 white|0.010475 snow|0.0094397 light|0.0087567 slate|0.0087567 gray|0.0087567 white|0.0080996 mint|0.0080004 cream|0.0080004 old|0.0075466 lace|0.0075466 slate|0.0072194 gray|0.0072194 ivory|0.0065563 antique|0.0062693 white|0.0062693 ghost|0.0061345 white|0.0061345 azure|0.004957 alice|0.0046817 blue|0.0046817  ",
+			"after_weights": " ",
+			"previous_weights": " On|0 December|0.019231 13|0.038462 2007|0.057692 Lufthansa|0.076923 and|0.096154 JetBlue|0.11538 Airways|0.13462 announced|0.15385 the|0.17308 beginning|0.19231 of|0.21154 a|0.23077 partnership|0.25 initiated|0.26923 through|0.28846 the|0.30769 19|0.32692 stake|0.34615 purchase|0.36538 in|0.38462 Jetblue|0.40385 shares|0.42308 by|0.44231 Lufthansa|0.46154 This|0.48077 is|0.5 the|0.51923 first|0.53846 major|0.55769 ownership|0.57692 investment|0.59615 by|0.61538 a|0.63462 European|0.65385 carrier|0.67308 in|0.69231 an|0.71154 American|0.73077 carrier|0.75 since|0.76923 the|0.78846 EU|0.80769 U|0.82692 S|0.84615 Open|0.86538 Skies|0.88462 Agreement|0.90385 became|0.92308 effective|0.94231 in|0.96154 2008|0.98077 |1"
+		}
+	}
+}

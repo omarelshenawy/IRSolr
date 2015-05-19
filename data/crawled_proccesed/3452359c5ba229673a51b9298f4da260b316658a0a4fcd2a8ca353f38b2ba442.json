@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3452359c5ba229673a51b9298f4da260b316658a0a4fcd2a8ca353f38b2ba442",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Transbrasil_Boeing_767-200_PT-TAI_JFK_1994-6-13.png/220px-Transbrasil_Boeing_767-200_PT-TAI_JFK_1994-6-13.png",
+			"previous": " In 2010 the debt which caused the bankruptcy of Transbrasil was invalidated by the Court of Justice of S o Paulo 14 ",
+			"after": " TransPass was Transbrasil s Frequent flyer program Points could be used on Transbrasil and Interbrasil STAR services Points held at the time of the airline s collapse lost their value as no other airline took over the program citation needed ",
+			"color": "light|0.11649 gray|0.11649 light|0.11649 grey|0.11649 gainsboro|0.11433 white|0.10766 smoke|0.10766 lavender|0.10103 blush|0.10103 alice|0.092221 blue|0.092221 ghost|0.092065 white|0.092065 linen|0.083165 snow|0.075633 sea|0.070278 shell|0.070278 black|0.032703 dark|0.026068 gray|0.026068 dark|0.026068 grey|0.026068 silver|0.020537 lavender|0.015621 white|0.013842 floral|0.0061699 white|0.0061699 gray|0.0058025 grey|0.0058025 dim|0.0042925 gray|0.0042925 dim|0.0042925 grey|0.0042925 golden|0.0038957 rod|0.0038957 mint|0.0031459 cream|0.0031459 azure|0.0029548  ",
+			"after_weights": " TransPass|1 was|0.975 Transbrasil|0.95 s|0.925 Frequent|0.9 flyer|0.875 program|0.85 Points|0.825 could|0.8 be|0.775 used|0.75 on|0.725 Transbrasil|0.7 and|0.675 Interbrasil|0.65 STAR|0.625 services|0.6 Points|0.575 held|0.55 at|0.525 the|0.5 time|0.475 of|0.45 the|0.425 airline|0.4 s|0.375 collapse|0.35 lost|0.325 their|0.3 value|0.275 as|0.25 no|0.225 other|0.2 airline|0.175 took|0.15 over|0.125 the|0.1 program|0.075 citation|0.05 needed|0.025 |0",
+			"previous_weights": " In|0 2010|0.045455 the|0.090909 debt|0.13636 which|0.18182 caused|0.22727 the|0.27273 bankruptcy|0.31818 of|0.36364 Transbrasil|0.40909 was|0.45455 invalidated|0.5 by|0.54545 the|0.59091 Court|0.63636 of|0.68182 Justice|0.72727 of|0.77273 S|0.81818 o|0.86364 Paulo|0.90909 14|0.95455 |1"
+		}
+	}
+}

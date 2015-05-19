@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4766100e11599e471952df8585f69b9f6381d7eee8faeb13469c886bbf347ea3",
+			"url": "https://upload.wikimedia.org/math/7/6/1/761f767815ae5f4e323639d04d188610.png",
+			"previous": " This is demonstrated by the following relationship  At a given core size adding a stage to the front of the compressor not only increases the cycle overall pressure ratio but increases the core mass flow ",
+			"after": " where  core mass flow ",
+			"color": "dim|0.32111 gray|0.32111 dim|0.32111 grey|0.32111 gray|0.30442 grey|0.30442 dark|0.20255 gray|0.20255 dark|0.20255 grey|0.20255 silver|0.082599 light|0.0403 gray|0.0403 light|0.0403 grey|0.0403 gainsboro|0.028515 white|0.0053018 smoke|0.0053018  ",
+			"after_weights": " where|1 |0.8 core|0.6 mass|0.4 flow|0.2 |0",
+			"previous_weights": " This|0 is|0.027778 demonstrated|0.055556 by|0.083333 the|0.11111 following|0.13889 relationship|0.16667 |0.19444 At|0.22222 a|0.25 given|0.27778 core|0.30556 size|0.33333 adding|0.36111 a|0.38889 stage|0.41667 to|0.44444 the|0.47222 front|0.5 of|0.52778 the|0.55556 compressor|0.58333 not|0.61111 only|0.63889 increases|0.66667 the|0.69444 cycle|0.72222 overall|0.75 pressure|0.77778 ratio|0.80556 but|0.83333 increases|0.86111 the|0.88889 core|0.91667 mass|0.94444 flow|0.97222 |1"
+		}
+	}
+}

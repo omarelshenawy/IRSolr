@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f2a3f728a591eee65b4cfc15a1727fbe854b272f4ac9eeed9db3e6593e0c72d",
+			"url": "https://upload.wikimedia.org/math/1/b/4/1b4ce95750d51b77072bd70fdadcdca5.png",
+			"previous": " These can be generalized into the equation that was presented in the previous section ",
+			"after": " An interesting effect was predicted by Lord Rayleigh in his classic book on sound if the source is moving at twice the speed of sound a musical piece emitted by that source would be heard in correct time and tune but backwards 6 ",
+			"color": "dim|0.38208 gray|0.38208 dim|0.38208 grey|0.38208 gray|0.29256 grey|0.29256 dark|0.18353 gray|0.18353 dark|0.18353 grey|0.18353 silver|0.074151 light|0.032811 gray|0.032811 light|0.032811 grey|0.032811 gainsboro|0.022598 white|0.0037448 smoke|0.0037448  ",
+			"after_weights": " An|1 interesting|0.97674 effect|0.95349 was|0.93023 predicted|0.90698 by|0.88372 Lord|0.86047 Rayleigh|0.83721 in|0.81395 his|0.7907 classic|0.76744 book|0.74419 on|0.72093 sound|0.69767 if|0.67442 the|0.65116 source|0.62791 is|0.60465 moving|0.5814 at|0.55814 twice|0.53488 the|0.51163 speed|0.48837 of|0.46512 sound|0.44186 a|0.4186 musical|0.39535 piece|0.37209 emitted|0.34884 by|0.32558 that|0.30233 source|0.27907 would|0.25581 be|0.23256 heard|0.2093 in|0.18605 correct|0.16279 time|0.13953 and|0.11628 tune|0.093023 but|0.069767 backwards|0.046512 6|0.023256 |0",
+			"previous_weights": " These|0 can|0.071429 be|0.14286 generalized|0.21429 into|0.28571 the|0.35714 equation|0.42857 that|0.5 was|0.57143 presented|0.64286 in|0.71429 the|0.78571 previous|0.85714 section|0.92857 |1"
+		}
+	}
+}

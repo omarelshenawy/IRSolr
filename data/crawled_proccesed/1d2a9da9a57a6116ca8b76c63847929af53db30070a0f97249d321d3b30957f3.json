@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d2a9da9a57a6116ca8b76c63847929af53db30070a0f97249d321d3b30957f3",
+			"url": "https://upload.wikimedia.org/math/3/b/a/3baf1600ae50930a155f58ae172b51bd.png",
+			"previous": " Likewise there are several important theorems related to these operators which generalize the fundamental theorem of calculus to higher dimensions ",
+			"after": " The right hand side is the equation of the plane tangent to the graph of at For a continuously differentiable function of several real variables a point P that is a set of values for the input variables which is viewed as a point in Rn is critical if all of the partial derivatives of the function are zero at P or equivalently if its gradient is zero The critical values are the values of the function at the critical points ",
+			"color": "gray|0.30398 grey|0.30398 dark|0.27053 gray|0.27053 dark|0.27053 grey|0.27053 dim|0.17353 gray|0.17353 dim|0.17353 grey|0.17353 silver|0.12289 light|0.060088 gray|0.060088 light|0.060088 grey|0.060088 gainsboro|0.041718 white|0.0072667 smoke|0.0072667 linen|0.0032591 lavender|0.0031277 blush|0.0031277 alice|0.0029275 blue|0.0029275 ghost|0.0027294 white|0.0027294 sea|0.002506 shell|0.002506  ",
+			"after_weights": " The|1 right|0.98765 hand|0.97531 side|0.96296 is|0.95062 the|0.93827 equation|0.92593 of|0.91358 the|0.90123 plane|0.88889 tangent|0.87654 to|0.8642 the|0.85185 graph|0.83951 of|0.82716 at|0.81481 For|0.80247 a|0.79012 continuously|0.77778 differentiable|0.76543 function|0.75309 of|0.74074 several|0.7284 real|0.71605 variables|0.7037 a|0.69136 point|0.67901 P|0.66667 that|0.65432 is|0.64198 a|0.62963 set|0.61728 of|0.60494 values|0.59259 for|0.58025 the|0.5679 input|0.55556 variables|0.54321 which|0.53086 is|0.51852 viewed|0.50617 as|0.49383 a|0.48148 point|0.46914 in|0.45679 Rn|0.44444 is|0.4321 critical|0.41975 if|0.40741 all|0.39506 of|0.38272 the|0.37037 partial|0.35802 derivatives|0.34568 of|0.33333 the|0.32099 function|0.30864 are|0.2963 zero|0.28395 at|0.2716 P|0.25926 or|0.24691 equivalently|0.23457 if|0.22222 its|0.20988 gradient|0.19753 is|0.18519 zero|0.17284 The|0.16049 critical|0.14815 values|0.1358 are|0.12346 the|0.11111 values|0.098765 of|0.08642 the|0.074074 function|0.061728 at|0.049383 the|0.037037 critical|0.024691 points|0.012346 |0",
+			"previous_weights": " Likewise|0 there|0.05 are|0.1 several|0.15 important|0.2 theorems|0.25 related|0.3 to|0.35 these|0.4 operators|0.45 which|0.5 generalize|0.55 the|0.6 fundamental|0.65 theorem|0.7 of|0.75 calculus|0.8 to|0.85 higher|0.9 dimensions|0.95 |1"
+		}
+	}
+}

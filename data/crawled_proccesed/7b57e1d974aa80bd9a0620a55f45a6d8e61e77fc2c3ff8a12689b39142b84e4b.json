@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b57e1d974aa80bd9a0620a55f45a6d8e61e77fc2c3ff8a12689b39142b84e4b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dc-6-g-apsa-far2008-01.jpg/220px-Dc-6-g-apsa-far2008-01.jpg",
+			"previous": " ",
+			"after": " Today most DC 6s are inactive stored or preserved in museums although a number are still flying in northern bush operations in Alaska and Canada while several are based in Europe and a few other DC 6s are still in operation for small carriers in South America ",
+			"color": "dark|0.40573 olive|0.40573 green|0.40573 dim|0.34194 gray|0.34194 dim|0.34194 grey|0.34194 gray|0.15629 grey|0.15629 black|0.030186 dark|0.020717 gray|0.020717 dark|0.020717 grey|0.020717 dark|0.020492 slate|0.020492 gray|0.020492 slate|0.014577 gray|0.014577  ",
+			"after_weights": " Today|1 most|0.97872 DC|0.95745 6s|0.93617 are|0.91489 inactive|0.89362 stored|0.87234 or|0.85106 preserved|0.82979 in|0.80851 museums|0.78723 although|0.76596 a|0.74468 number|0.7234 are|0.70213 still|0.68085 flying|0.65957 in|0.6383 northern|0.61702 bush|0.59574 operations|0.57447 in|0.55319 Alaska|0.53191 and|0.51064 Canada|0.48936 while|0.46809 several|0.44681 are|0.42553 based|0.40426 in|0.38298 Europe|0.3617 and|0.34043 a|0.31915 few|0.29787 other|0.2766 DC|0.25532 6s|0.23404 are|0.21277 still|0.19149 in|0.17021 operation|0.14894 for|0.12766 small|0.10638 carriers|0.085106 in|0.06383 South|0.042553 America|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

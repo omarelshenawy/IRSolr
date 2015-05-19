@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ff0337c223c29aa9b2f35fbe09e9aa9fb44401e87d0564824d8dda73ec189e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Uzbekistan_Airways_Ilyushin_Il-114_Dyubin.jpg/220px-Uzbekistan_Airways_Ilyushin_Il-114_Dyubin.jpg",
+			"previous": " ",
+			"after": " Since Vyborg was forced to shut down in July 2010 Uzbekistan Airways remains as the sole operator of the type As of January 2014 no further orders have been placed for the Ilyushin 114 Uzbekistan Airways currently operates four of their seven aircraft of the type with three being stored or used as backup in Tashkent ",
+			"color": "dim|0.24916 gray|0.24916 dim|0.24916 grey|0.24916 slate|0.15148 gray|0.15148 light|0.13579 slate|0.13579 gray|0.13579 light|0.10388 steel|0.10388 blue|0.10388 gray|0.1026 grey|0.1026 dark|0.056422 slate|0.056422 gray|0.056422 dark|0.042234 gray|0.042234 dark|0.042234 grey|0.042234 black|0.03236 silver|0.024228 light|0.018164 gray|0.018164 light|0.018164 grey|0.018164 lavender|0.014703 gainsboro|0.01407  ",
+			"after_weights": " Since|1 Vyborg|0.98214 was|0.96429 forced|0.94643 to|0.92857 shut|0.91071 down|0.89286 in|0.875 July|0.85714 2010|0.83929 Uzbekistan|0.82143 Airways|0.80357 remains|0.78571 as|0.76786 the|0.75 sole|0.73214 operator|0.71429 of|0.69643 the|0.67857 type|0.66071 As|0.64286 of|0.625 January|0.60714 2014|0.58929 no|0.57143 further|0.55357 orders|0.53571 have|0.51786 been|0.5 placed|0.48214 for|0.46429 the|0.44643 Ilyushin|0.42857 114|0.41071 Uzbekistan|0.39286 Airways|0.375 currently|0.35714 operates|0.33929 four|0.32143 of|0.30357 their|0.28571 seven|0.26786 aircraft|0.25 of|0.23214 the|0.21429 type|0.19643 with|0.17857 three|0.16071 being|0.14286 stored|0.125 or|0.10714 used|0.089286 as|0.071429 backup|0.053571 in|0.035714 Tashkent|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

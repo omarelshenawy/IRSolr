@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "91530112f4ae33c6e03537e7d6d8e5e4b6c745542b903386cea4856775eae4e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerry_Yang_and_David_Filo.jpg/220px-Jerry_Yang_and_David_Filo.jpg",
+			"previous": " ",
+			"after": " In January 1994 Yang and Filo were electrical engineering graduate students at Stanford University when they created a website named Jerry and David s guide to the World Wide Web 13 14 The site was a directory of other websites organized in a hierarchy as opposed to a searchable index of pages In March 1994 Jerry and David s Guide to the World Wide Web was renamed Yahoo 15 16 The yahoo com domain was created on January 18 1995 17 ",
+			"color": "black|0.53171 rosy|0.39451 brown|0.39451 dim|0.026319 gray|0.026319 dim|0.026319 grey|0.026319 gray|0.013887 grey|0.013887  ",
+			"after_weights": " In|1 January|0.98765 1994|0.97531 Yang|0.96296 and|0.95062 Filo|0.93827 were|0.92593 electrical|0.91358 engineering|0.90123 graduate|0.88889 students|0.87654 at|0.8642 Stanford|0.85185 University|0.83951 when|0.82716 they|0.81481 created|0.80247 a|0.79012 website|0.77778 named|0.76543 Jerry|0.75309 and|0.74074 David|0.7284 s|0.71605 guide|0.7037 to|0.69136 the|0.67901 World|0.66667 Wide|0.65432 Web|0.64198 13|0.62963 14|0.61728 The|0.60494 site|0.59259 was|0.58025 a|0.5679 directory|0.55556 of|0.54321 other|0.53086 websites|0.51852 organized|0.50617 in|0.49383 a|0.48148 hierarchy|0.46914 as|0.45679 opposed|0.44444 to|0.4321 a|0.41975 searchable|0.40741 index|0.39506 of|0.38272 pages|0.37037 In|0.35802 March|0.34568 1994|0.33333 Jerry|0.32099 and|0.30864 David|0.2963 s|0.28395 Guide|0.2716 to|0.25926 the|0.24691 World|0.23457 Wide|0.22222 Web|0.20988 was|0.19753 renamed|0.18519 Yahoo|0.17284 15|0.16049 16|0.14815 The|0.1358 yahoo|0.12346 com|0.11111 domain|0.098765 was|0.08642 created|0.074074 on|0.061728 January|0.049383 18|0.037037 1995|0.024691 17|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ed043ff08ae013c6e63c011bf79cc7d3ad079885151e268e83fbc73d0d4c412",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Houghton_portrait_16th_century.jpg/220px-Houghton_portrait_16th_century.jpg",
+			"previous": " ",
+			"after": " The portrait is undated and unattributed It is thought to have been completed in the 1590s some forty years after Jane s death probably as a copy of a lost portrait contemporaneous with Jane 15 dendrochronology dates the wood panel to c 1593 13 ",
+			"color": "black|0.75522 dim|0.11364 gray|0.11364 dim|0.11364 grey|0.11364 gray|0.06965 grey|0.06965 dark|0.042497 gray|0.042497 dark|0.042497 grey|0.042497 silver|0.013341  ",
+			"after_weights": " The|1 portrait|0.97727 is|0.95455 undated|0.93182 and|0.90909 unattributed|0.88636 It|0.86364 is|0.84091 thought|0.81818 to|0.79545 have|0.77273 been|0.75 completed|0.72727 in|0.70455 the|0.68182 1590s|0.65909 some|0.63636 forty|0.61364 years|0.59091 after|0.56818 Jane|0.54545 s|0.52273 death|0.5 probably|0.47727 as|0.45455 a|0.43182 copy|0.40909 of|0.38636 a|0.36364 lost|0.34091 portrait|0.31818 contemporaneous|0.29545 with|0.27273 Jane|0.25 15|0.22727 dendrochronology|0.20455 dates|0.18182 the|0.15909 wood|0.13636 panel|0.11364 to|0.090909 c|0.068182 1593|0.045455 13|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

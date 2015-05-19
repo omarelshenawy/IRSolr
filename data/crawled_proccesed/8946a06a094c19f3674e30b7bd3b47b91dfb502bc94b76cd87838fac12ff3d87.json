@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8946a06a094c19f3674e30b7bd3b47b91dfb502bc94b76cd87838fac12ff3d87",
+			"url": "https://upload.wikimedia.org/math/1/6/1/161cb375c1c28d3ebb676cefd54ba9d3.png",
+			"previous": " The following table shows a number of 2 by 2 matrices with the associated linear maps of R2 The blue original is mapped to the green grid and shapes The origin 0 0 is marked with a black point ",
+			"after": " Under the 1 to 1 correspondence between matrices and linear maps matrix multiplication corresponds to composition of maps 24 if a k by m matrix B represents another linear map g Rm Rk then the composition g f is represented by BA since",
+			"color": "dark|0.27526 gray|0.27526 dark|0.27526 grey|0.27526 gray|0.23557 grey|0.23557 dim|0.19819 gray|0.19819 dim|0.19819 grey|0.19819 silver|0.13092 light|0.065663 gray|0.065663 light|0.065663 grey|0.065663 gainsboro|0.046282 white|0.017095 smoke|0.017095 linen|0.0048798 lavender|0.004604 blush|0.004604 alice|0.004555 blue|0.004555 ghost|0.0044732 white|0.0044732 sea|0.0043507 shell|0.0043507 snow|0.0042434 white|0.0037259  ",
+			"after_weights": " Under|1 the|0.97619 1|0.95238 to|0.92857 1|0.90476 correspondence|0.88095 between|0.85714 matrices|0.83333 and|0.80952 linear|0.78571 maps|0.7619 matrix|0.7381 multiplication|0.71429 corresponds|0.69048 to|0.66667 composition|0.64286 of|0.61905 maps|0.59524 24|0.57143 if|0.54762 a|0.52381 k|0.5 by|0.47619 m|0.45238 matrix|0.42857 B|0.40476 represents|0.38095 another|0.35714 linear|0.33333 map|0.30952 g|0.28571 Rm|0.2619 Rk|0.2381 then|0.21429 the|0.19048 composition|0.16667 g|0.14286 f|0.11905 is|0.095238 represented|0.071429 by|0.047619 BA|0.02381 since|0",
+			"previous_weights": " The|0 following|0.025641 table|0.051282 shows|0.076923 a|0.10256 number|0.12821 of|0.15385 2|0.17949 by|0.20513 2|0.23077 matrices|0.25641 with|0.28205 the|0.30769 associated|0.33333 linear|0.35897 maps|0.38462 of|0.41026 R2|0.4359 The|0.46154 blue|0.48718 original|0.51282 is|0.53846 mapped|0.5641 to|0.58974 the|0.61538 green|0.64103 grid|0.66667 and|0.69231 shapes|0.71795 The|0.74359 origin|0.76923 0|0.79487 0|0.82051 is|0.84615 marked|0.87179 with|0.89744 a|0.92308 black|0.94872 point|0.97436 |1"
+		}
+	}
+}

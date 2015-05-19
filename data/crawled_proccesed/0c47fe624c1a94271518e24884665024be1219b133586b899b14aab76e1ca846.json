@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c47fe624c1a94271518e24884665024be1219b133586b899b14aab76e1ca846",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Boeing_737-73V%2C_Meridiana_JP7661406.jpg/220px-Boeing_737-73V%2C_Meridiana_JP7661406.jpg",
+			"previous": " As of December 2014 Meridiana maintained codeshare agreements with Air Malta Iberia and S7 Airlines 3 ",
+			"after": " As of April 2015 the Meridiana fleet consists of the following aircraft 4  Meridiana also used to operate the following aircraft types which have since been retired ",
+			"color": "black|0.066843 dark|0.061727 gray|0.061727 dark|0.061727 grey|0.061727 dim|0.058273 gray|0.058273 dim|0.058273 grey|0.058273 light|0.057475 gray|0.057475 light|0.057475 grey|0.057475 crimson|0.057424 silver|0.054685 gainsboro|0.052502 gray|0.042143 grey|0.042143 white|0.0395 smoke|0.0395 slate|0.035887 gray|0.035887 alice|0.035147 blue|0.035147 azure|0.031138 mint|0.030824 cream|0.030824 ghost|0.03023 white|0.03023 snow|0.029793 white|0.028236 steel|0.02763 blue|0.02763 dark|0.023514 slate|0.023514 gray|0.023514 floral|0.023174 white|0.023174 light|0.022363 slate|0.022363 gray|0.022363 sea|0.021955 shell|0.021955 indian|0.017478 red|0.017478 lavender|0.014401 blush|0.014401 firebrick|0.013205 light|0.013017 cyan|0.013017  ",
+			"after_weights": " As|1 of|0.96429 April|0.92857 2015|0.89286 the|0.85714 Meridiana|0.82143 fleet|0.78571 consists|0.75 of|0.71429 the|0.67857 following|0.64286 aircraft|0.60714 4|0.57143 |0.53571 Meridiana|0.5 also|0.46429 used|0.42857 to|0.39286 operate|0.35714 the|0.32143 following|0.28571 aircraft|0.25 types|0.21429 which|0.17857 have|0.14286 since|0.10714 been|0.071429 retired|0.035714 |0",
+			"previous_weights": " As|0 of|0.0625 December|0.125 2014|0.1875 Meridiana|0.25 maintained|0.3125 codeshare|0.375 agreements|0.4375 with|0.5 Air|0.5625 Malta|0.625 Iberia|0.6875 and|0.75 S7|0.8125 Airlines|0.875 3|0.9375 |1"
+		}
+	}
+}

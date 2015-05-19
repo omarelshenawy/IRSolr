@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d8cf51cf288026ade9e2f8ea87e50d6a64bf61dde73e06266030c0a79c19a90",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FlashPAC.jpg/220px-FlashPAC.jpg",
+			"previous": " ",
+			"after": " In 1996 AT T developed the FlashPAC digital audio player which initially utilized AT T Perceptual Audio Coding PAC 10 for music compression but in 1997 switched to AAC 11 At about the same time AT T also developed an internal Web based music streaming service that had the ability to download music to FlashPAC 12 AAC and such music downloading services later formed the foundation for the Apple iPod and iTunes 13 ",
+			"color": "black|0.5221 light|0.060511 gray|0.060511 light|0.060511 grey|0.060511 gainsboro|0.058813 silver|0.040308 dim|0.027081 gray|0.027081 dim|0.027081 grey|0.027081 linen|0.025311 dark|0.024157 gray|0.024157 dark|0.024157 grey|0.024157 white|0.02386 smoke|0.02386 sea|0.023795 shell|0.023795 gray|0.021029 grey|0.021029 floral|0.01996 white|0.01996 snow|0.01787 white|0.013606 dark|0.013371 slate|0.013371 gray|0.013371 old|0.013178 lace|0.013178 antique|0.013151 white|0.013151 mint|0.012047 cream|0.012047 ivory|0.010955 lavender|0.010679 blush|0.010679 ghost|0.010654 white|0.010654 azure|0.0092242 alice|0.009177 blue|0.009177 misty|0.0080148 rose|0.0080148 slate|0.0036525 gray|0.0036525  ",
+			"after_weights": " In|1 1996|0.9863 AT|0.9726 T|0.9589 developed|0.94521 the|0.93151 FlashPAC|0.91781 digital|0.90411 audio|0.89041 player|0.87671 which|0.86301 initially|0.84932 utilized|0.83562 AT|0.82192 T|0.80822 Perceptual|0.79452 Audio|0.78082 Coding|0.76712 PAC|0.75342 10|0.73973 for|0.72603 music|0.71233 compression|0.69863 but|0.68493 in|0.67123 1997|0.65753 switched|0.64384 to|0.63014 AAC|0.61644 11|0.60274 At|0.58904 about|0.57534 the|0.56164 same|0.54795 time|0.53425 AT|0.52055 T|0.50685 also|0.49315 developed|0.47945 an|0.46575 internal|0.45205 Web|0.43836 based|0.42466 music|0.41096 streaming|0.39726 service|0.38356 that|0.36986 had|0.35616 the|0.34247 ability|0.32877 to|0.31507 download|0.30137 music|0.28767 to|0.27397 FlashPAC|0.26027 12|0.24658 AAC|0.23288 and|0.21918 such|0.20548 music|0.19178 downloading|0.17808 services|0.16438 later|0.15068 formed|0.13699 the|0.12329 foundation|0.10959 for|0.09589 the|0.082192 Apple|0.068493 iPod|0.054795 and|0.041096 iTunes|0.027397 13|0.013699 |0",
+			"previous_weights": " "
+		}
+	}
+}

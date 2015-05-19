@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89038876d3184b7815f4131eb7ee90411c2c67d09c33eeb41e482522258c2e46",
+			"url": "https://upload.wikimedia.org/math/0/9/d/09da5f4a4b88b357e9b83de5151cd794.png",
+			"previous": " If the average value of a quantity is denoted by an overbar then the average Eulerian velocity vector E and average Lagrangian velocity vector L are ",
+			"after": " Different definitions of the average may be used depending on the subject of study see ergodic theory ",
+			"color": "dim|0.3733 gray|0.3733 dim|0.3733 grey|0.3733 gray|0.29442 grey|0.29442 dark|0.18351 gray|0.18351 dark|0.18351 grey|0.18351 silver|0.074545 light|0.033387 gray|0.033387 light|0.033387 grey|0.033387 gainsboro|0.02393 white|0.0041187 smoke|0.0041187  ",
+			"after_weights": " Different|1 definitions|0.94118 of|0.88235 the|0.82353 average|0.76471 may|0.70588 be|0.64706 used|0.58824 depending|0.52941 on|0.47059 the|0.41176 subject|0.35294 of|0.29412 study|0.23529 see|0.17647 ergodic|0.11765 theory|0.058824 |0",
+			"previous_weights": " If|0 the|0.038462 average|0.076923 value|0.11538 of|0.15385 a|0.19231 quantity|0.23077 is|0.26923 denoted|0.30769 by|0.34615 an|0.38462 overbar|0.42308 then|0.46154 the|0.5 average|0.53846 Eulerian|0.57692 velocity|0.61538 vector|0.65385 E|0.69231 and|0.73077 average|0.76923 Lagrangian|0.80769 velocity|0.84615 vector|0.88462 L|0.92308 are|0.96154 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e166ffbb8de021c962d53aaf4cbe3050662475742155b5675d52ac8d9e0872e",
+			"url": "https://upload.wikimedia.org/math/2/7/f/27ffd2fe52b5c78dc11ac9c4dc654d98.png",
+			"previous": " Classical variables that do not change upon time reversal include  In physical and chemical kinetics T symmetry of the mechanical microscopic equations implies two important laws the principle of detailed balance and the Onsager reciprocal relations T symmetry of the microscopic description together with its kinetic consequences are called microscopic reversibility ",
+			"after": " Classical variables that time reversal negates include ",
+			"color": "dark|0.3106 gray|0.3106 dark|0.3106 grey|0.3106 gray|0.27454 grey|0.27454 silver|0.16464 light|0.092674 gray|0.092674 light|0.092674 grey|0.092674 gainsboro|0.064881 dim|0.044177 gray|0.044177 dim|0.044177 grey|0.044177 white|0.012331 smoke|0.012331 linen|0.006068 lavender|0.005391 blush|0.005391 alice|0.0051879 blue|0.0051879 ghost|0.0049058 white|0.0049058 sea|0.0045673 shell|0.0045673 snow|0.0043557 white|0.0027759  ",
+			"after_weights": " Classical|1 variables|0.85714 that|0.71429 time|0.57143 reversal|0.42857 negates|0.28571 include|0.14286 |0",
+			"previous_weights": " Classical|0 variables|0.019231 that|0.038462 do|0.057692 not|0.076923 change|0.096154 upon|0.11538 time|0.13462 reversal|0.15385 include|0.17308 |0.19231 In|0.21154 physical|0.23077 and|0.25 chemical|0.26923 kinetics|0.28846 T|0.30769 symmetry|0.32692 of|0.34615 the|0.36538 mechanical|0.38462 microscopic|0.40385 equations|0.42308 implies|0.44231 two|0.46154 important|0.48077 laws|0.5 the|0.51923 principle|0.53846 of|0.55769 detailed|0.57692 balance|0.59615 and|0.61538 the|0.63462 Onsager|0.65385 reciprocal|0.67308 relations|0.69231 T|0.71154 symmetry|0.73077 of|0.75 the|0.76923 microscopic|0.78846 description|0.80769 together|0.82692 with|0.84615 its|0.86538 kinetic|0.88462 consequences|0.90385 are|0.92308 called|0.94231 microscopic|0.96154 reversibility|0.98077 |1"
+		}
+	}
+}

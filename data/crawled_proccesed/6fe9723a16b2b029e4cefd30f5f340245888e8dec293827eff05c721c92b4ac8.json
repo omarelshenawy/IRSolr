@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6fe9723a16b2b029e4cefd30f5f340245888e8dec293827eff05c721c92b4ac8",
+			"url": "https://upload.wikimedia.org/math/1/5/d/15df402d99d5ae494c0eec6b149b3dd9.png",
+			"previous": " By the first law of thermodynamics  Where is the specific enthalpy drop of steam in the nozzle ",
+			"after": " Nozzle efficiency is given by where the enthalpy in J Kg of steam at the entrance of the nozzle is and the enthalpy of steam at the exit of the nozzle is  The ratio of the cosines of the blade angles at the outlet and inlet can be taken and denoted The ratio of steam velocities relative to the rotor speed at the outlet to the inlet of the blade is defined by the friction coefficient ",
+			"color": "gray|0.32638 grey|0.32638 dark|0.25365 gray|0.25365 dark|0.25365 grey|0.25365 dim|0.1694 gray|0.1694 dim|0.1694 grey|0.1694 silver|0.12855 light|0.068963 gray|0.068963 light|0.068963 grey|0.068963 gainsboro|0.043492 white|0.002917 smoke|0.002917  ",
+			"after_weights": " Nozzle|1 efficiency|0.98701 is|0.97403 given|0.96104 by|0.94805 where|0.93506 the|0.92208 enthalpy|0.90909 in|0.8961 J|0.88312 Kg|0.87013 of|0.85714 steam|0.84416 at|0.83117 the|0.81818 entrance|0.80519 of|0.79221 the|0.77922 nozzle|0.76623 is|0.75325 and|0.74026 the|0.72727 enthalpy|0.71429 of|0.7013 steam|0.68831 at|0.67532 the|0.66234 exit|0.64935 of|0.63636 the|0.62338 nozzle|0.61039 is|0.5974 |0.58442 The|0.57143 ratio|0.55844 of|0.54545 the|0.53247 cosines|0.51948 of|0.50649 the|0.49351 blade|0.48052 angles|0.46753 at|0.45455 the|0.44156 outlet|0.42857 and|0.41558 inlet|0.4026 can|0.38961 be|0.37662 taken|0.36364 and|0.35065 denoted|0.33766 The|0.32468 ratio|0.31169 of|0.2987 steam|0.28571 velocities|0.27273 relative|0.25974 to|0.24675 the|0.23377 rotor|0.22078 speed|0.20779 at|0.19481 the|0.18182 outlet|0.16883 to|0.15584 the|0.14286 inlet|0.12987 of|0.11688 the|0.1039 blade|0.090909 is|0.077922 defined|0.064935 by|0.051948 the|0.038961 friction|0.025974 coefficient|0.012987 |0",
+			"previous_weights": " By|0 the|0.055556 first|0.11111 law|0.16667 of|0.22222 thermodynamics|0.27778 |0.33333 Where|0.38889 is|0.44444 the|0.5 specific|0.55556 enthalpy|0.61111 drop|0.66667 of|0.72222 steam|0.77778 in|0.83333 the|0.88889 nozzle|0.94444 |1"
+		}
+	}
+}

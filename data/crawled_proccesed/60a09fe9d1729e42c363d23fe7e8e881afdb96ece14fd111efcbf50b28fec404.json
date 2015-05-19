@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "60a09fe9d1729e42c363d23fe7e8e881afdb96ece14fd111efcbf50b28fec404",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MIAT_plane.jpg/220px-MIAT_plane.jpg",
+			"previous": " As of April 2015 the MIAT Mongolian Airlines fleet consists of the following aircraft with an average age of 11 5 years 10 11 12 ",
+			"after": " MIAT has operated a variety of aircraft types including 13  MIAT Mongolian Airlines has suffered the following incidents and accidents since commencing operations 16 ",
+			"color": "dim|0.54719 gray|0.54719 dim|0.54719 grey|0.54719 dark|0.12843 gray|0.12843 dark|0.12843 grey|0.12843 gray|0.12561 grey|0.12561 black|0.0814 silver|0.056701 light|0.02984 gray|0.02984 light|0.02984 grey|0.02984 gainsboro|0.018908 slate|0.0039102 gray|0.0039102 light|0.0038605 slate|0.0038605 gray|0.0038605  ",
+			"after_weights": " MIAT|1 has|0.96 operated|0.92 a|0.88 variety|0.84 of|0.8 aircraft|0.76 types|0.72 including|0.68 13|0.64 |0.6 MIAT|0.56 Mongolian|0.52 Airlines|0.48 has|0.44 suffered|0.4 the|0.36 following|0.32 incidents|0.28 and|0.24 accidents|0.2 since|0.16 commencing|0.12 operations|0.08 16|0.04 |0",
+			"previous_weights": " As|0 of|0.04 April|0.08 2015|0.12 the|0.16 MIAT|0.2 Mongolian|0.24 Airlines|0.28 fleet|0.32 consists|0.36 of|0.4 the|0.44 following|0.48 aircraft|0.52 with|0.56 an|0.6 average|0.64 age|0.68 of|0.72 11|0.76 5|0.8 years|0.84 10|0.88 11|0.92 12|0.96 |1"
+		}
+	}
+}

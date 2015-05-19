@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7aa67304b2fe4f88cccc9dae608a9cf75ee413ac846d0a912d0c30a95d1fd715",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/M%C3%A1laga_Centre_Pompidou.20150418.jpg/220px-M%C3%A1laga_Centre_Pompidou.20150418.jpg",
+			"previous": " Other sights include  The Bas lica y Real Santuario de Santa Mar a de la Victoria built in the late 17th century has a chapel in which the vertical volume is filled with elaborate Baroque plasterwork ",
+			"after": " Notable museums include ",
+			"color": "silver|0.26458 light|0.1737 gray|0.1737 light|0.1737 grey|0.1737 dark|0.16974 gray|0.16974 dark|0.16974 grey|0.16974 gainsboro|0.11672 dim|0.089037 gray|0.089037 dim|0.089037 grey|0.089037 gray|0.067526 grey|0.067526 slate|0.022489 gray|0.022489 light|0.021307 slate|0.021307 gray|0.021307 black|0.021007 dark|0.012463 slate|0.012463 gray|0.012463 linen|0.007626 misty|0.0040918 rose|0.0040918  ",
+			"after_weights": " Notable|1 museums|0.66667 include|0.33333 |0",
+			"previous_weights": " Other|0 sights|0.027027 include|0.054054 |0.081081 The|0.10811 Bas|0.13514 lica|0.16216 y|0.18919 Real|0.21622 Santuario|0.24324 de|0.27027 Santa|0.2973 Mar|0.32432 a|0.35135 de|0.37838 la|0.40541 Victoria|0.43243 built|0.45946 in|0.48649 the|0.51351 late|0.54054 17th|0.56757 century|0.59459 has|0.62162 a|0.64865 chapel|0.67568 in|0.7027 which|0.72973 the|0.75676 vertical|0.78378 volume|0.81081 is|0.83784 filled|0.86486 with|0.89189 elaborate|0.91892 Baroque|0.94595 plasterwork|0.97297 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81f3ce72e24d4e1e0738620873c8b0d16a54025d532bb5374aa167661ae82e7c",
+			"url": "https://upload.wikimedia.org/math/a/1/0/a10c1027b764b30bff6b52d1c586f672.png",
+			"previous": " which has the solution",
+			"after": " where c is any constant value These two examples illustrate that general solutions of ordinary differential equations ODEs involve arbitrary constants but solutions of PDEs involve arbitrary functions A solution of a PDE is generally not unique additional conditions must generally be specified on the boundary of the region where the solution is defined For instance in the simple example above the function f y can be determined if u is specified on the line x 0 ",
+			"color": "dim|0.3543 gray|0.3543 dim|0.3543 grey|0.3543 gray|0.29204 grey|0.29204 dark|0.18242 gray|0.18242 dark|0.18242 grey|0.18242 silver|0.081134 light|0.041374 gray|0.041374 light|0.041374 grey|0.041374 gainsboro|0.029359 white|0.0049425 smoke|0.0049425  ",
+			"after_weights": " where|1 c|0.98701 is|0.97403 any|0.96104 constant|0.94805 value|0.93506 These|0.92208 two|0.90909 examples|0.8961 illustrate|0.88312 that|0.87013 general|0.85714 solutions|0.84416 of|0.83117 ordinary|0.81818 differential|0.80519 equations|0.79221 ODEs|0.77922 involve|0.76623 arbitrary|0.75325 constants|0.74026 but|0.72727 solutions|0.71429 of|0.7013 PDEs|0.68831 involve|0.67532 arbitrary|0.66234 functions|0.64935 A|0.63636 solution|0.62338 of|0.61039 a|0.5974 PDE|0.58442 is|0.57143 generally|0.55844 not|0.54545 unique|0.53247 additional|0.51948 conditions|0.50649 must|0.49351 generally|0.48052 be|0.46753 specified|0.45455 on|0.44156 the|0.42857 boundary|0.41558 of|0.4026 the|0.38961 region|0.37662 where|0.36364 the|0.35065 solution|0.33766 is|0.32468 defined|0.31169 For|0.2987 instance|0.28571 in|0.27273 the|0.25974 simple|0.24675 example|0.23377 above|0.22078 the|0.20779 function|0.19481 f|0.18182 y|0.16883 can|0.15584 be|0.14286 determined|0.12987 if|0.11688 u|0.1039 is|0.090909 specified|0.077922 on|0.064935 the|0.051948 line|0.038961 x|0.025974 0|0.012987 |0",
+			"previous_weights": " which|0 has|0.33333 the|0.66667 solution|1"
+		}
+	}
+}

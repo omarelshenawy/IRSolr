@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4607d9c2ae5ad60286e458373d49684dc69da2388d6660ea7b1ed7c0b924f38f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/220px-Venn1010.svg.png",
+			"previous": " ",
+			"after": " Two sets can also be subtracted The relative complement of B in A also called the set theoretic difference of A and B denoted by A B or A B is the set of all elements that are members of A but not members of B Note that it is valid to subtract members of a set that are not in the set such as removing the element green from the set 1 2 3 doing so has no effect ",
+			"color": "black|0.18091 white|0.078287 smoke|0.078287 snow|0.078097 white|0.07797 ghost|0.077935 white|0.077935 mint|0.077719 cream|0.077719 alice|0.077629 blue|0.077629 sea|0.077452 shell|0.077452 floral|0.077216 white|0.077216 azure|0.077186 lavender|0.075484 blush|0.075484 dim|0.0076445 gray|0.0076445 dim|0.0076445 grey|0.0076445 dark|0.0073601 gray|0.0073601 dark|0.0073601 grey|0.0073601 gray|0.0068149 grey|0.0068149 silver|0.0049265 maroon|0.004646 light|0.0039176 gray|0.0039176 light|0.0039176 grey|0.0039176 gainsboro|0.0033155  ",
+			"after_weights": " Two|1 sets|0.9875 can|0.975 also|0.9625 be|0.95 subtracted|0.9375 The|0.925 relative|0.9125 complement|0.9 of|0.8875 B|0.875 in|0.8625 A|0.85 also|0.8375 called|0.825 the|0.8125 set|0.8 theoretic|0.7875 difference|0.775 of|0.7625 A|0.75 and|0.7375 B|0.725 denoted|0.7125 by|0.7 A|0.6875 B|0.675 or|0.6625 A|0.65 B|0.6375 is|0.625 the|0.6125 set|0.6 of|0.5875 all|0.575 elements|0.5625 that|0.55 are|0.5375 members|0.525 of|0.5125 A|0.5 but|0.4875 not|0.475 members|0.4625 of|0.45 B|0.4375 Note|0.425 that|0.4125 it|0.4 is|0.3875 valid|0.375 to|0.3625 subtract|0.35 members|0.3375 of|0.325 a|0.3125 set|0.3 that|0.2875 are|0.275 not|0.2625 in|0.25 the|0.2375 set|0.225 such|0.2125 as|0.2 removing|0.1875 the|0.175 element|0.1625 green|0.15 from|0.1375 the|0.125 set|0.1125 1|0.1 2|0.0875 3|0.075 doing|0.0625 so|0.05 has|0.0375 no|0.025 effect|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97e4c1f254a85d89a522258e599166fd17d80509005cc9a5ec0ef54313f7d5a6",
+			"url": "https://upload.wikimedia.org/math/f/7/a/f7a3cc0de59ebb80116efe28f31171b7.png",
+			"previous": " where ",
+			"after": " The actual useful power of any traction engine can be calculated using a dynamometer to measure torque and rotational speed with peak power sustained when transmission and or operator keeps the product of torque and rotational speed maximised For jet engines there is often a cruise speed and power can be usefully calculated there for rockets there is typically no cruise speed so it is less meaningful ",
+			"color": "gray|0.25457 grey|0.25457 dark|0.24714 gray|0.24714 dark|0.24714 grey|0.24714 silver|0.17258 dim|0.13013 gray|0.13013 dim|0.13013 grey|0.13013 light|0.10082 gray|0.10082 light|0.10082 grey|0.10082 gainsboro|0.07629 white|0.004634 smoke|0.004634  ",
+			"after_weights": " The|1 actual|0.98507 useful|0.97015 power|0.95522 of|0.9403 any|0.92537 traction|0.91045 engine|0.89552 can|0.8806 be|0.86567 calculated|0.85075 using|0.83582 a|0.8209 dynamometer|0.80597 to|0.79104 measure|0.77612 torque|0.76119 and|0.74627 rotational|0.73134 speed|0.71642 with|0.70149 peak|0.68657 power|0.67164 sustained|0.65672 when|0.64179 transmission|0.62687 and|0.61194 or|0.59701 operator|0.58209 keeps|0.56716 the|0.55224 product|0.53731 of|0.52239 torque|0.50746 and|0.49254 rotational|0.47761 speed|0.46269 maximised|0.44776 For|0.43284 jet|0.41791 engines|0.40299 there|0.38806 is|0.37313 often|0.35821 a|0.34328 cruise|0.32836 speed|0.31343 and|0.29851 power|0.28358 can|0.26866 be|0.25373 usefully|0.23881 calculated|0.22388 there|0.20896 for|0.19403 rockets|0.1791 there|0.16418 is|0.14925 typically|0.13433 no|0.1194 cruise|0.10448 speed|0.089552 so|0.074627 it|0.059701 is|0.044776 less|0.029851 meaningful|0.014925 |0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

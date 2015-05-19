@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0bb715d9e0708684db4639cdb792c5d885ae8b66a1103cafd1433b6d6a5d2c20",
+			"url": "https://upload.wikimedia.org/math/f/b/1/fb18da1c3c83e7515fd373f95f16424e.png",
+			"previous": " There is no need for higher order derivatives in the equation nor for time dependence in v x because these can be eliminated by considering systems of higher dimensions Other types of differential equations can be used to define the evolution rule ",
+			"after": " is an example of an equation that arises from the modeling of mechanical systems with complicated constraints ",
+			"color": "gray|0.30974 grey|0.30974 dim|0.28864 gray|0.28864 dim|0.28864 grey|0.28864 dark|0.20237 gray|0.20237 dark|0.20237 grey|0.20237 silver|0.093644 light|0.048452 gray|0.048452 light|0.048452 grey|0.048452 gainsboro|0.033917 white|0.0059662 smoke|0.0059662 linen|0.0029234  ",
+			"after_weights": " is|1 an|0.94118 example|0.88235 of|0.82353 an|0.76471 equation|0.70588 that|0.64706 arises|0.58824 from|0.52941 the|0.47059 modeling|0.41176 of|0.35294 mechanical|0.29412 systems|0.23529 with|0.17647 complicated|0.11765 constraints|0.058824 |0",
+			"previous_weights": " There|0 is|0.02381 no|0.047619 need|0.071429 for|0.095238 higher|0.11905 order|0.14286 derivatives|0.16667 in|0.19048 the|0.21429 equation|0.2381 nor|0.2619 for|0.28571 time|0.30952 dependence|0.33333 in|0.35714 v|0.38095 x|0.40476 because|0.42857 these|0.45238 can|0.47619 be|0.5 eliminated|0.52381 by|0.54762 considering|0.57143 systems|0.59524 of|0.61905 higher|0.64286 dimensions|0.66667 Other|0.69048 types|0.71429 of|0.7381 differential|0.7619 equations|0.78571 can|0.80952 be|0.83333 used|0.85714 to|0.88095 define|0.90476 the|0.92857 evolution|0.95238 rule|0.97619 |1"
+		}
+	}
+}

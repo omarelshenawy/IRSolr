@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28e8a6f95e997d49338acc00bb82705d0256879a6eab612b826ed8f7bc082468",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Larus_delawarensis_portrait.JPG/150px-Larus_delawarensis_portrait.JPG",
+			"previous": " ",
+			"after": " Order Charadriiformes Family Laridae The Laridae are a family of medium to large seabirds and containing the gulls terns kittiwakes and skimmers They are typically gray or white often with black markings on the head or wings They have stout longish bills and webbed feet ",
+			"color": "dim|0.54831 gray|0.54831 dim|0.54831 grey|0.54831 gray|0.25486 grey|0.25486 dark|0.070771 gray|0.070771 dark|0.070771 grey|0.070771 silver|0.023488 light|0.017366 gray|0.017366 light|0.017366 grey|0.017366 gainsboro|0.013853 black|0.01068 slate|0.0075469 gray|0.0075469 linen|0.0070224 white|0.0062947 smoke|0.0062947 sea|0.0055035 shell|0.0055035 floral|0.0047697 white|0.0047697 snow|0.0045201 mint|0.0040853 cream|0.0040853 white|0.0038463 old|0.0037156 lace|0.0037156 ivory|0.0029657  ",
+			"after_weights": " Order|1 Charadriiformes|0.97778 Family|0.95556 Laridae|0.93333 The|0.91111 Laridae|0.88889 are|0.86667 a|0.84444 family|0.82222 of|0.8 medium|0.77778 to|0.75556 large|0.73333 seabirds|0.71111 and|0.68889 containing|0.66667 the|0.64444 gulls|0.62222 terns|0.6 kittiwakes|0.57778 and|0.55556 skimmers|0.53333 They|0.51111 are|0.48889 typically|0.46667 gray|0.44444 or|0.42222 white|0.4 often|0.37778 with|0.35556 black|0.33333 markings|0.31111 on|0.28889 the|0.26667 head|0.24444 or|0.22222 wings|0.2 They|0.17778 have|0.15556 stout|0.13333 longish|0.11111 bills|0.088889 and|0.066667 webbed|0.044444 feet|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

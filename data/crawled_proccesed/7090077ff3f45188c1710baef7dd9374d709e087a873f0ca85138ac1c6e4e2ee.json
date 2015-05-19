@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7090077ff3f45188c1710baef7dd9374d709e087a873f0ca85138ac1c6e4e2ee",
+			"url": "https://upload.wikimedia.org/math/c/d/8/cd8d87b41855c45c3d6b625afc0aa207.png",
+			"previous": " or Integrating we find  is the small signal gain coefficient in units of radians per meter We can solve the differential equation using separation of variables ",
+			"after": " which is identical to the small signal gain equation see above  For large input signals where the gain approaches unity",
+			"color": "dim|0.37502 gray|0.37502 dim|0.37502 grey|0.37502 gray|0.26914 grey|0.26914 dark|0.16775 gray|0.16775 dark|0.16775 grey|0.16775 silver|0.067166 black|0.057995 light|0.031139 gray|0.031139 light|0.031139 grey|0.031139 gainsboro|0.020757  ",
+			"after_weights": " which|1 is|0.95 identical|0.9 to|0.85 the|0.8 small|0.75 signal|0.7 gain|0.65 equation|0.6 see|0.55 above|0.5 |0.45 For|0.4 large|0.35 input|0.3 signals|0.25 where|0.2 the|0.15 gain|0.1 approaches|0.05 unity|0",
+			"previous_weights": " or|0 Integrating|0.037037 we|0.074074 find|0.11111 |0.14815 is|0.18519 the|0.22222 small|0.25926 signal|0.2963 gain|0.33333 coefficient|0.37037 in|0.40741 units|0.44444 of|0.48148 radians|0.51852 per|0.55556 meter|0.59259 We|0.62963 can|0.66667 solve|0.7037 the|0.74074 differential|0.77778 equation|0.81481 using|0.85185 separation|0.88889 of|0.92593 variables|0.96296 |1"
+		}
+	}
+}

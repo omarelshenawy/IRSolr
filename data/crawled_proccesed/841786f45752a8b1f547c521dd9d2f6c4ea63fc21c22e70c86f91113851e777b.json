@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "841786f45752a8b1f547c521dd9d2f6c4ea63fc21c22e70c86f91113851e777b",
+			"url": "https://upload.wikimedia.org/math/c/4/4/c444a3234802626a3a1571a76355266d.png",
+			"previous": " Because of this two vectors satisfying are called orthogonal An important variant of the standard dot product is used in Minkowski space R4 endowed with the Lorentz product",
+			"after": " Convergence questions are treated by considering vector spaces V carrying a compatible topology a structure that allows one to talk about elements being close to each other 49 50 Compatible here means that addition and scalar multiplication have to be continuous maps Roughly if x and y in V and a in F vary by a bounded amount then so do x y and ax nb 8 To make sense of specifying the amount a scalar changes the field F also has to carry a topology in this context a common choice are the reals or the complex numbers ",
+			"color": " ",
+			"after_weights": " Convergence|1 questions|0.9899 are|0.9798 treated|0.9697 by|0.9596 considering|0.94949 vector|0.93939 spaces|0.92929 V|0.91919 carrying|0.90909 a|0.89899 compatible|0.88889 topology|0.87879 a|0.86869 structure|0.85859 that|0.84848 allows|0.83838 one|0.82828 to|0.81818 talk|0.80808 about|0.79798 elements|0.78788 being|0.77778 close|0.76768 to|0.75758 each|0.74747 other|0.73737 49|0.72727 50|0.71717 Compatible|0.70707 here|0.69697 means|0.68687 that|0.67677 addition|0.66667 and|0.65657 scalar|0.64646 multiplication|0.63636 have|0.62626 to|0.61616 be|0.60606 continuous|0.59596 maps|0.58586 Roughly|0.57576 if|0.56566 x|0.55556 and|0.54545 y|0.53535 in|0.52525 V|0.51515 and|0.50505 a|0.49495 in|0.48485 F|0.47475 vary|0.46465 by|0.45455 a|0.44444 bounded|0.43434 amount|0.42424 then|0.41414 so|0.40404 do|0.39394 x|0.38384 y|0.37374 and|0.36364 ax|0.35354 nb|0.34343 8|0.33333 To|0.32323 make|0.31313 sense|0.30303 of|0.29293 specifying|0.28283 the|0.27273 amount|0.26263 a|0.25253 scalar|0.24242 changes|0.23232 the|0.22222 field|0.21212 F|0.20202 also|0.19192 has|0.18182 to|0.17172 carry|0.16162 a|0.15152 topology|0.14141 in|0.13131 this|0.12121 context|0.11111 a|0.10101 common|0.090909 choice|0.080808 are|0.070707 the|0.060606 reals|0.050505 or|0.040404 the|0.030303 complex|0.020202 numbers|0.010101 |0",
+			"previous_weights": " Because|0 of|0.037037 this|0.074074 two|0.11111 vectors|0.14815 satisfying|0.18519 are|0.22222 called|0.25926 orthogonal|0.2963 An|0.33333 important|0.37037 variant|0.40741 of|0.44444 the|0.48148 standard|0.51852 dot|0.55556 product|0.59259 is|0.62963 used|0.66667 in|0.7037 Minkowski|0.74074 space|0.77778 R4|0.81481 endowed|0.85185 with|0.88889 the|0.92593 Lorentz|0.96296 product|1"
+		}
+	}
+}

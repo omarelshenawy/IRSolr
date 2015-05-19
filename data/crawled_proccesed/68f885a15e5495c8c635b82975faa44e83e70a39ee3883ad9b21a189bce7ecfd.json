@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68f885a15e5495c8c635b82975faa44e83e70a39ee3883ad9b21a189bce7ecfd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/College_Football_CSU_AF.jpg/350px-College_Football_CSU_AF.jpg",
+			"previous": " ",
+			"after": " College football is gridiron football played by teams of student athletes fielded by American universities colleges and military academies or Canadian football played by teams of student athletes fielded by Canadian universities It was through college football play that American football rules first gained popularity in the United States ",
+			"color": "dark|0.12543 slate|0.12543 gray|0.12543 light|0.066133 cyan|0.066133 azure|0.061337 dark|0.057364 sea|0.057364 green|0.057364 mint|0.053452 cream|0.053452 alice|0.048898 blue|0.048898 light|0.04377 blue|0.04377 powder|0.040764 blue|0.040764 white|0.040044 smoke|0.040044 white|0.037442 honeydew|0.03711 light|0.035146 steel|0.035146 blue|0.035146 dim|0.033523 gray|0.033523 dim|0.033523 grey|0.033523 ghost|0.032715 white|0.032715 snow|0.031992 floral|0.027055 white|0.027055 slate|0.025831 gray|0.025831 light|0.025504 slate|0.025504 gray|0.025504 sea|0.018858 shell|0.018858 dark|0.015819 olive|0.015819 green|0.015819 ivory|0.013341 gray|0.01298 grey|0.01298 dark|0.012808 slate|0.012808 blue|0.012808 cadet|0.0095425 blue|0.0095425 pale|0.0095032 turquoise|0.0095032  ",
+			"after_weights": " College|1 football|0.97959 is|0.95918 gridiron|0.93878 football|0.91837 played|0.89796 by|0.87755 teams|0.85714 of|0.83673 student|0.81633 athletes|0.79592 fielded|0.77551 by|0.7551 American|0.73469 universities|0.71429 colleges|0.69388 and|0.67347 military|0.65306 academies|0.63265 or|0.61224 Canadian|0.59184 football|0.57143 played|0.55102 by|0.53061 teams|0.5102 of|0.4898 student|0.46939 athletes|0.44898 fielded|0.42857 by|0.40816 Canadian|0.38776 universities|0.36735 It|0.34694 was|0.32653 through|0.30612 college|0.28571 football|0.26531 play|0.2449 that|0.22449 American|0.20408 football|0.18367 rules|0.16327 first|0.14286 gained|0.12245 popularity|0.10204 in|0.081633 the|0.061224 United|0.040816 States|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

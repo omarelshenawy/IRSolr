@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "151c208a406414268c99d4450980529d76311e6365799bab40493738b4b31e63",
+			"url": "https://upload.wikimedia.org/math/f/3/f/f3f16731f22e8507325ef859445c1ad2.png",
+			"previous": " A univariate quadratic function can be expressed in three formats 2 ",
+			"after": " To convert the standard form to factored form one needs only the quadratic formula to determine the two roots x1 and x2 To convert the standard form to vertex form one needs a process called completing the square To convert the factored form or vertex form to standard form one needs to multiply expand and or distribute the factors ",
+			"color": "dim|0.34235 gray|0.34235 dim|0.34235 grey|0.34235 gray|0.28942 grey|0.28942 dark|0.18467 gray|0.18467 dark|0.18467 grey|0.18467 silver|0.085502 light|0.043946 gray|0.043946 light|0.043946 grey|0.043946 gainsboro|0.031535 white|0.0057335 smoke|0.0057335 linen|0.0028092  ",
+			"after_weights": " To|1 convert|0.98305 the|0.9661 standard|0.94915 form|0.9322 to|0.91525 factored|0.89831 form|0.88136 one|0.86441 needs|0.84746 only|0.83051 the|0.81356 quadratic|0.79661 formula|0.77966 to|0.76271 determine|0.74576 the|0.72881 two|0.71186 roots|0.69492 x1|0.67797 and|0.66102 x2|0.64407 To|0.62712 convert|0.61017 the|0.59322 standard|0.57627 form|0.55932 to|0.54237 vertex|0.52542 form|0.50847 one|0.49153 needs|0.47458 a|0.45763 process|0.44068 called|0.42373 completing|0.40678 the|0.38983 square|0.37288 To|0.35593 convert|0.33898 the|0.32203 factored|0.30508 form|0.28814 or|0.27119 vertex|0.25424 form|0.23729 to|0.22034 standard|0.20339 form|0.18644 one|0.16949 needs|0.15254 to|0.13559 multiply|0.11864 expand|0.10169 and|0.084746 or|0.067797 distribute|0.050847 the|0.033898 factors|0.016949 |0",
+			"previous_weights": " A|0 univariate|0.090909 quadratic|0.18182 function|0.27273 can|0.36364 be|0.45455 expressed|0.54545 in|0.63636 three|0.72727 formats|0.81818 2|0.90909 |1"
+		}
+	}
+}

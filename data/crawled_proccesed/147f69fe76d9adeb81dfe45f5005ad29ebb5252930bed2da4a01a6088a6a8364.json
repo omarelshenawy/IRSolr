@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "147f69fe76d9adeb81dfe45f5005ad29ebb5252930bed2da4a01a6088a6a8364",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/PD_with_outside_option.svg/250px-PD_with_outside_option.svg.png",
+			"previous": " ",
+			"after": " An important subset of sequential games consists of games of perfect information A game is one of perfect information if all players know the moves previously made by all other players Thus only sequential games can be games of perfect information because players in simultaneous games do not know the actions of the other players Most games studied in game theory are imperfect information games Interesting examples of perfect information games include the ultimatum game and centipede game Recreational games of perfect information games include chess go and mancala Many card games are games of imperfect information such as poker or contract bridge ",
+			"color": "gray|0.32035 grey|0.32035 dim|0.28359 gray|0.28359 dim|0.28359 grey|0.28359 dark|0.24069 gray|0.24069 dark|0.24069 grey|0.24069 silver|0.095197 light|0.030796 gray|0.030796 light|0.030796 grey|0.030796 black|0.015644 gainsboro|0.013732  ",
+			"after_weights": " An|1 important|0.99029 subset|0.98058 of|0.97087 sequential|0.96117 games|0.95146 consists|0.94175 of|0.93204 games|0.92233 of|0.91262 perfect|0.90291 information|0.8932 A|0.8835 game|0.87379 is|0.86408 one|0.85437 of|0.84466 perfect|0.83495 information|0.82524 if|0.81553 all|0.80583 players|0.79612 know|0.78641 the|0.7767 moves|0.76699 previously|0.75728 made|0.74757 by|0.73786 all|0.72816 other|0.71845 players|0.70874 Thus|0.69903 only|0.68932 sequential|0.67961 games|0.6699 can|0.66019 be|0.65049 games|0.64078 of|0.63107 perfect|0.62136 information|0.61165 because|0.60194 players|0.59223 in|0.58252 simultaneous|0.57282 games|0.56311 do|0.5534 not|0.54369 know|0.53398 the|0.52427 actions|0.51456 of|0.50485 the|0.49515 other|0.48544 players|0.47573 Most|0.46602 games|0.45631 studied|0.4466 in|0.43689 game|0.42718 theory|0.41748 are|0.40777 imperfect|0.39806 information|0.38835 games|0.37864 Interesting|0.36893 examples|0.35922 of|0.34951 perfect|0.33981 information|0.3301 games|0.32039 include|0.31068 the|0.30097 ultimatum|0.29126 game|0.28155 and|0.27184 centipede|0.26214 game|0.25243 Recreational|0.24272 games|0.23301 of|0.2233 perfect|0.21359 information|0.20388 games|0.19417 include|0.18447 chess|0.17476 go|0.16505 and|0.15534 mancala|0.14563 Many|0.13592 card|0.12621 games|0.1165 are|0.1068 games|0.097087 of|0.087379 imperfect|0.07767 information|0.067961 such|0.058252 as|0.048544 poker|0.038835 or|0.029126 contract|0.019417 bridge|0.0097087 |0",
+			"previous_weights": " "
+		}
+	}
+}

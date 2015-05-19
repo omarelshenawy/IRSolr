@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8567f0978aa0c994b5ef6ed0c562b2a3d5f8cd917419683e15c46e098b83c568",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/MMSA_Checking_Blood_Pressure.JPG/220px-MMSA_Checking_Blood_Pressure.JPG",
+			"previous": " ",
+			"after": " A person accepted into a medical school and enrolled in an educational program in medicine with the goal of becoming a medical doctor is referred to as a medical student Medical students are generally considered to be at the earliest stage of the medical career pathway In some locations they are required to be registered with a government body ",
+			"color": "black|0.28492 dark|0.084194 gray|0.084194 dark|0.084194 grey|0.084194 silver|0.075865 light|0.065036 gray|0.065036 light|0.065036 grey|0.065036 gainsboro|0.052061 gray|0.038265 grey|0.038265 white|0.033242 smoke|0.033242 sea|0.029311 shell|0.029311 snow|0.027702 dim|0.025753 gray|0.025753 dim|0.025753 grey|0.025753 floral|0.025681 white|0.025681 white|0.025077 ghost|0.023813 white|0.023813 mint|0.023299 cream|0.023299 linen|0.020919 crimson|0.020879 alice|0.020652 blue|0.020652 lavender|0.019089 blush|0.019089 azure|0.016993 old|0.012205 lace|0.012205 ivory|0.011761 lavender|0.011031 antique|0.0081529 white|0.0081529 misty|0.0050037 rose|0.0050037 dark|0.0038441 slate|0.0038441 gray|0.0038441 honeydew|0.0037174  ",
+			"after_weights": " A|1 person|0.98305 accepted|0.9661 into|0.94915 a|0.9322 medical|0.91525 school|0.89831 and|0.88136 enrolled|0.86441 in|0.84746 an|0.83051 educational|0.81356 program|0.79661 in|0.77966 medicine|0.76271 with|0.74576 the|0.72881 goal|0.71186 of|0.69492 becoming|0.67797 a|0.66102 medical|0.64407 doctor|0.62712 is|0.61017 referred|0.59322 to|0.57627 as|0.55932 a|0.54237 medical|0.52542 student|0.50847 Medical|0.49153 students|0.47458 are|0.45763 generally|0.44068 considered|0.42373 to|0.40678 be|0.38983 at|0.37288 the|0.35593 earliest|0.33898 stage|0.32203 of|0.30508 the|0.28814 medical|0.27119 career|0.25424 pathway|0.23729 In|0.22034 some|0.20339 locations|0.18644 they|0.16949 are|0.15254 required|0.13559 to|0.11864 be|0.10169 registered|0.084746 with|0.067797 a|0.050847 government|0.033898 body|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

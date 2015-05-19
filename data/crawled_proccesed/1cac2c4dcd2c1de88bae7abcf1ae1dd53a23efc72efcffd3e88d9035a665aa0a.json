@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1cac2c4dcd2c1de88bae7abcf1ae1dd53a23efc72efcffd3e88d9035a665aa0a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/British_Airways_%28G-BTPM%29%2C_Belfast_International%2C_May_1994_%2802%29.jpg/220px-British_Airways_%28G-BTPM%29%2C_Belfast_International%2C_May_1994_%2802%29.jpg",
+			"previous": " The AEW was a 1986 proposal for an Airborne Early Warning aircraft for Australia with two EMI Skymaster radars in nose and tail radomes similar in appearance to the Nimrod AEW 3 None were built ",
+			"after": " Data from Jane s All the World s Aircraft 1988 1989 3 ",
+			"color": "black|0.49682 dark|0.16328 gray|0.16328 dark|0.16328 grey|0.16328 gray|0.1036 grey|0.1036 dim|0.09454 gray|0.09454 dim|0.09454 grey|0.09454 silver|0.086665 light|0.029424 gray|0.029424 light|0.029424 grey|0.029424 gainsboro|0.013903  ",
+			"after_weights": " Data|1 from|0.91667 Jane|0.83333 s|0.75 All|0.66667 the|0.58333 World|0.5 s|0.41667 Aircraft|0.33333 1988|0.25 1989|0.16667 3|0.083333 |0",
+			"previous_weights": " The|0 AEW|0.028571 was|0.057143 a|0.085714 1986|0.11429 proposal|0.14286 for|0.17143 an|0.2 Airborne|0.22857 Early|0.25714 Warning|0.28571 aircraft|0.31429 for|0.34286 Australia|0.37143 with|0.4 two|0.42857 EMI|0.45714 Skymaster|0.48571 radars|0.51429 in|0.54286 nose|0.57143 and|0.6 tail|0.62857 radomes|0.65714 similar|0.68571 in|0.71429 appearance|0.74286 to|0.77143 the|0.8 Nimrod|0.82857 AEW|0.85714 3|0.88571 None|0.91429 were|0.94286 built|0.97143 |1"
+		}
+	}
+}

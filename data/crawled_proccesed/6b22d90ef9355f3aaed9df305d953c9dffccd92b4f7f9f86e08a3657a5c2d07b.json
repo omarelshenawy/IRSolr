@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b22d90ef9355f3aaed9df305d953c9dffccd92b4f7f9f86e08a3657a5c2d07b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Boeing_737-800_%289527930171%29_%283%29.jpg/220px-Boeing_737-800_%289527930171%29_%283%29.jpg",
+			"previous": " As of January 2015 the following scheduled destinations are served by PrivatAir 13 ",
+			"after": " As of April 2015 the PrivatAir fleet consists of the following aircraft 15  Additionally PrivatAir operates several more smaller business jets from Dassault Bombardier and Gulfstream 17  Media related to PrivatAir at Wikimedia Commons",
+			"color": "slate|0.58842 gray|0.58842 light|0.18016 slate|0.18016 gray|0.18016 black|0.031353 dark|0.031243 gray|0.031243 dark|0.031243 grey|0.031243 gray|0.024416 grey|0.024416 dim|0.020744 gray|0.020744 dim|0.020744 grey|0.020744 light|0.018255 gray|0.018255 light|0.018255 grey|0.018255 gainsboro|0.016592 silver|0.016288 firebrick|0.014484 brown|0.006797 white|0.0066191 smoke|0.0066191 linen|0.0055628 sea|0.0041405 shell|0.0041405 lavender|0.0039816 blush|0.0039816  ",
+			"after_weights": " As|1 of|0.97143 April|0.94286 2015|0.91429 the|0.88571 PrivatAir|0.85714 fleet|0.82857 consists|0.8 of|0.77143 the|0.74286 following|0.71429 aircraft|0.68571 15|0.65714 |0.62857 Additionally|0.6 PrivatAir|0.57143 operates|0.54286 several|0.51429 more|0.48571 smaller|0.45714 business|0.42857 jets|0.4 from|0.37143 Dassault|0.34286 Bombardier|0.31429 and|0.28571 Gulfstream|0.25714 17|0.22857 |0.2 Media|0.17143 related|0.14286 to|0.11429 PrivatAir|0.085714 at|0.057143 Wikimedia|0.028571 Commons|0",
+			"previous_weights": " As|0 of|0.076923 January|0.15385 2015|0.23077 the|0.30769 following|0.38462 scheduled|0.46154 destinations|0.53846 are|0.61538 served|0.69231 by|0.76923 PrivatAir|0.84615 13|0.92308 |1"
+		}
+	}
+}

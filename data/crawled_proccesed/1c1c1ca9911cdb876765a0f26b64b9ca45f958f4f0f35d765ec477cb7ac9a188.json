@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c1c1ca9911cdb876765a0f26b64b9ca45f958f4f0f35d765ec477cb7ac9a188",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiki_dell_lcd.jpg/220px-Wiki_dell_lcd.jpg",
+			"previous": " Super IPS was later introduced after in plane switching with even better response times and color reproduction 37 ",
+			"after": " Known as fringe field switching FFS until 2003 38 advanced fringe field switching is similar to IPS or S IPS offering superior performance and color gamut with high luminosity AFFS was developed by Hydis Technologies Co Ltd Korea formally Hyundai Electronics LCD Task Force 39 ",
+			"color": "steel|0.097843 blue|0.097843 light|0.094106 green|0.094106 indian|0.059665 red|0.059665 light|0.045857 sea|0.045857 green|0.045857 turquoise|0.043776 medium|0.042127 sea|0.042127 green|0.042127 medium|0.041178 purple|0.041178 dark|0.038814 khaki|0.038814 slate|0.032232 blue|0.032232 midnight|0.031935 blue|0.031935 aqua|0.030873 marine|0.030873 medium|0.03054 turquoise|0.03054 medium|0.028184 aqua|0.028184 marine|0.028184 dark|0.027561 cyan|0.027561 teal|0.024758 peru|0.024588 sea|0.022932 green|0.022932 medium|0.020214 orchid|0.020214 medium|0.018261 violet|0.018261 red|0.018261 maroon|0.017524 dark|0.01664 turquoise|0.01664 dark|0.016194 red|0.016194 lime|0.014354 green|0.014354 dark|0.013759 slate|0.013759 blue|0.013759 royal|0.012499 blue|0.012499  ",
+			"after_weights": " Known|1 as|0.97778 fringe|0.95556 field|0.93333 switching|0.91111 FFS|0.88889 until|0.86667 2003|0.84444 38|0.82222 advanced|0.8 fringe|0.77778 field|0.75556 switching|0.73333 is|0.71111 similar|0.68889 to|0.66667 IPS|0.64444 or|0.62222 S|0.6 IPS|0.57778 offering|0.55556 superior|0.53333 performance|0.51111 and|0.48889 color|0.46667 gamut|0.44444 with|0.42222 high|0.4 luminosity|0.37778 AFFS|0.35556 was|0.33333 developed|0.31111 by|0.28889 Hydis|0.26667 Technologies|0.24444 Co|0.22222 Ltd|0.2 Korea|0.17778 formally|0.15556 Hyundai|0.13333 Electronics|0.11111 LCD|0.088889 Task|0.066667 Force|0.044444 39|0.022222 |0",
+			"previous_weights": " Super|0 IPS|0.055556 was|0.11111 later|0.16667 introduced|0.22222 after|0.27778 in|0.33333 plane|0.38889 switching|0.44444 with|0.5 even|0.55556 better|0.61111 response|0.66667 times|0.72222 and|0.77778 color|0.83333 reproduction|0.88889 37|0.94444 |1"
+		}
+	}
+}

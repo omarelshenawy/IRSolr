@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81b118b7e23acafb5df72f264dbcfd0c382ab27e7d15c2b5850d90c98b452690",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Word_clock_wallpaper_with_comic_speech_bubble_style.png/220px-Word_clock_wallpaper_with_comic_speech_bubble_style.png",
+			"previous": " For convenience distance telephony or blindness auditory clocks present the time as sounds The sound is either spoken natural language e g The time is twelve thirty five or as auditory codes e g number of sequential bell rings on the hour represents the number of the hour like the bell Big Ben Most telecommunication companies also provide a speaking clock service as well ",
+			"after": " Word clocks are clocks that display the time visually using sentences E g It s about three o clock These clocks can be implemented in hardware or software ",
+			"color": "black|0.99881  ",
+			"after_weights": " Word|1 clocks|0.96429 are|0.92857 clocks|0.89286 that|0.85714 display|0.82143 the|0.78571 time|0.75 visually|0.71429 using|0.67857 sentences|0.64286 E|0.60714 g|0.57143 It|0.53571 s|0.5 about|0.46429 three|0.42857 o|0.39286 clock|0.35714 These|0.32143 clocks|0.28571 can|0.25 be|0.21429 implemented|0.17857 in|0.14286 hardware|0.10714 or|0.071429 software|0.035714 |0",
+			"previous_weights": " For|0 convenience|0.015625 distance|0.03125 telephony|0.046875 or|0.0625 blindness|0.078125 auditory|0.09375 clocks|0.10938 present|0.125 the|0.14062 time|0.15625 as|0.17188 sounds|0.1875 The|0.20312 sound|0.21875 is|0.23438 either|0.25 spoken|0.26562 natural|0.28125 language|0.29688 e|0.3125 g|0.32812 The|0.34375 time|0.35938 is|0.375 twelve|0.39062 thirty|0.40625 five|0.42188 or|0.4375 as|0.45312 auditory|0.46875 codes|0.48438 e|0.5 g|0.51562 number|0.53125 of|0.54688 sequential|0.5625 bell|0.57812 rings|0.59375 on|0.60938 the|0.625 hour|0.64062 represents|0.65625 the|0.67188 number|0.6875 of|0.70312 the|0.71875 hour|0.73438 like|0.75 the|0.76562 bell|0.78125 Big|0.79688 Ben|0.8125 Most|0.82812 telecommunication|0.84375 companies|0.85938 also|0.875 provide|0.89062 a|0.90625 speaking|0.92188 clock|0.9375 service|0.95312 as|0.96875 well|0.98438 |1"
+		}
+	}
+}

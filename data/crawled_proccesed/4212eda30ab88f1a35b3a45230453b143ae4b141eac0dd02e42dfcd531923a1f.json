@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4212eda30ab88f1a35b3a45230453b143ae4b141eac0dd02e42dfcd531923a1f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badderend_goudhaantje-4962039.webm/220px--Badderend_goudhaantje-4962039.webm.jpg",
+			"previous": " ",
+			"after": " The goldcrest Regulus regulus is a very small passerine bird in the kinglet family Its colourful golden crest feathers gives rise to its English and scientific names and possibly to it being called the king of the birds in European folklore Several subspecies are recognised across the very large distribution range that includes much of Eurasia and the islands of Macaronesia Birds from the north and east of its breeding range migrate to winter further south ",
+			"color": "dim|0.41289 gray|0.41289 dim|0.41289 grey|0.41289 black|0.25378 gray|0.22961 grey|0.22961  ",
+			"after_weights": " The|1 goldcrest|0.98684 Regulus|0.97368 regulus|0.96053 is|0.94737 a|0.93421 very|0.92105 small|0.90789 passerine|0.89474 bird|0.88158 in|0.86842 the|0.85526 kinglet|0.84211 family|0.82895 Its|0.81579 colourful|0.80263 golden|0.78947 crest|0.77632 feathers|0.76316 gives|0.75 rise|0.73684 to|0.72368 its|0.71053 English|0.69737 and|0.68421 scientific|0.67105 names|0.65789 and|0.64474 possibly|0.63158 to|0.61842 it|0.60526 being|0.59211 called|0.57895 the|0.56579 king|0.55263 of|0.53947 the|0.52632 birds|0.51316 in|0.5 European|0.48684 folklore|0.47368 Several|0.46053 subspecies|0.44737 are|0.43421 recognised|0.42105 across|0.40789 the|0.39474 very|0.38158 large|0.36842 distribution|0.35526 range|0.34211 that|0.32895 includes|0.31579 much|0.30263 of|0.28947 Eurasia|0.27632 and|0.26316 the|0.25 islands|0.23684 of|0.22368 Macaronesia|0.21053 Birds|0.19737 from|0.18421 the|0.17105 north|0.15789 and|0.14474 east|0.13158 of|0.11842 its|0.10526 breeding|0.092105 range|0.078947 migrate|0.065789 to|0.052632 winter|0.039474 further|0.026316 south|0.013158 |0",
+			"previous_weights": " "
+		}
+	}
+}

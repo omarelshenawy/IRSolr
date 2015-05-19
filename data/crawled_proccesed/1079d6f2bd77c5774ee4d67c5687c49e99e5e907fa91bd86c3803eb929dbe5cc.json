@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1079d6f2bd77c5774ee4d67c5687c49e99e5e907fa91bd86c3803eb929dbe5cc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/325px-Astrolabe-Persian-18C.jpg",
+			"previous": " Portal Science Featured picture 6",
+			"after": " An 18th Century Persian astrolabe used for determining the time at both day and night The points of the curved spikes on the front rete plate mark the positions of the brightest stars The name of each star being labeled at the base of each spike The back plate or mater is engraved with projected coordinate lines From the Whipple Museum of the History of Science collection ",
+			"color": "dark|0.43387 golden|0.43387 rod|0.43387 black|0.19449 golden|0.13208 rod|0.13208 yellow|0.08499 gold|0.04424 khaki|0.035703 olive|0.012749 pale|0.011357 golden|0.011357 rod|0.011357  ",
+			"after_weights": " An|1 18th|0.98507 Century|0.97015 Persian|0.95522 astrolabe|0.9403 used|0.92537 for|0.91045 determining|0.89552 the|0.8806 time|0.86567 at|0.85075 both|0.83582 day|0.8209 and|0.80597 night|0.79104 The|0.77612 points|0.76119 of|0.74627 the|0.73134 curved|0.71642 spikes|0.70149 on|0.68657 the|0.67164 front|0.65672 rete|0.64179 plate|0.62687 mark|0.61194 the|0.59701 positions|0.58209 of|0.56716 the|0.55224 brightest|0.53731 stars|0.52239 The|0.50746 name|0.49254 of|0.47761 each|0.46269 star|0.44776 being|0.43284 labeled|0.41791 at|0.40299 the|0.38806 base|0.37313 of|0.35821 each|0.34328 spike|0.32836 The|0.31343 back|0.29851 plate|0.28358 or|0.26866 mater|0.25373 is|0.23881 engraved|0.22388 with|0.20896 projected|0.19403 coordinate|0.1791 lines|0.16418 From|0.14925 the|0.13433 Whipple|0.1194 Museum|0.10448 of|0.089552 the|0.074627 History|0.059701 of|0.044776 Science|0.029851 collection|0.014925 |0",
+			"previous_weights": " Portal|0 Science|0.25 Featured|0.5 picture|0.75 6|1"
+		}
+	}
+}

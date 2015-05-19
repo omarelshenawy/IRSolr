@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9697f06486dd9c1af35aff39c3132646e14ec3e7d934becc5b0d609eae1faaf6",
+			"url": "https://upload.wikimedia.org/math/6/e/2/6e2d2eb63f9ba9dfe2e45b86092cf020.png",
+			"previous": " A B zier curve B of degree n with control points can be written in Bernstein form as follows ",
+			"after": " where b is a Bernstein basis polynomial The curve at point t0 can be evaluated with the recurrence relation",
+			"color": "dim|0.32474 gray|0.32474 dim|0.32474 grey|0.32474 gray|0.3095 grey|0.3095 dark|0.20716 gray|0.20716 dark|0.20716 grey|0.20716 silver|0.091491 light|0.032993 gray|0.032993 light|0.032993 grey|0.032993 gainsboro|0.021432 white|0.0037478 smoke|0.0037478  ",
+			"after_weights": " where|1 b|0.94444 is|0.88889 a|0.83333 Bernstein|0.77778 basis|0.72222 polynomial|0.66667 The|0.61111 curve|0.55556 at|0.5 point|0.44444 t0|0.38889 can|0.33333 be|0.27778 evaluated|0.22222 with|0.16667 the|0.11111 recurrence|0.055556 relation|0",
+			"previous_weights": " A|0 B|0.052632 zier|0.10526 curve|0.15789 B|0.21053 of|0.26316 degree|0.31579 n|0.36842 with|0.42105 control|0.47368 points|0.52632 can|0.57895 be|0.63158 written|0.68421 in|0.73684 Bernstein|0.78947 form|0.84211 as|0.89474 follows|0.94737 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bbdebc22dc7f3cbcd9a1488cac3ca722653033b14a96bfaa154cd043f7fbb62",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Afleet.JPG/220px-Afleet.JPG",
+			"previous": " Trap pony trap Tie stall US stall UK  Stall US stable UK  Stable hand US stable lad lass UK  Silhouette or outline diagram Ridgling rig",
+			"after": " Veterinarian US veterinary surgeon UK informal vet",
+			"color": "dim|0.52199 gray|0.52199 dim|0.52199 grey|0.52199 black|0.23301 gray|0.1576 grey|0.1576 dark|0.043674 gray|0.043674 dark|0.043674 grey|0.043674 silver|0.015414  ",
+			"after_weights": " Veterinarian|1 US|0.83333 veterinary|0.66667 surgeon|0.5 UK|0.33333 informal|0.16667 vet|0",
+			"previous_weights": " Trap|0 pony|0.037037 trap|0.074074 Tie|0.11111 stall|0.14815 US|0.18519 stall|0.22222 UK|0.25926 |0.2963 Stall|0.33333 US|0.37037 stable|0.40741 UK|0.44444 |0.48148 Stable|0.51852 hand|0.55556 US|0.59259 stable|0.62963 lad|0.66667 lass|0.7037 UK|0.74074 |0.77778 Silhouette|0.81481 or|0.85185 outline|0.88889 diagram|0.92593 Ridgling|0.96296 rig|1"
+		}
+	}
+}

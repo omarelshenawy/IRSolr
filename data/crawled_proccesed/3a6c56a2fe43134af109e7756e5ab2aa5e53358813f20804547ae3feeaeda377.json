@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a6c56a2fe43134af109e7756e5ab2aa5e53358813f20804547ae3feeaeda377",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joni_Mitchell_2004_140x190.jpg",
+			"previous": " ",
+			"after": " Finally settling in Southern California Mitchell played a key part in the folk rock movement then sweeping the musical landscape Blue her starkly personal 1971 album is regarded as one of the strongest and most influential records of the time ",
+			"color": "black|0.53603 tan|0.12056 burly|0.11139 wood|0.11139 wheat|0.04693 sienna|0.042085 saddle|0.028417 brown|0.028417 peru|0.015785 beige|0.014263 gainsboro|0.012383 light|0.011714 gray|0.011714 light|0.011714 grey|0.011714 antique|0.0097761 white|0.0097761 pale|0.0096234 golden|0.0096234 rod|0.0096234  ",
+			"after_weights": " Finally|1 settling|0.975 in|0.95 Southern|0.925 California|0.9 Mitchell|0.875 played|0.85 a|0.825 key|0.8 part|0.775 in|0.75 the|0.725 folk|0.7 rock|0.675 movement|0.65 then|0.625 sweeping|0.6 the|0.575 musical|0.55 landscape|0.525 Blue|0.5 her|0.475 starkly|0.45 personal|0.425 1971|0.4 album|0.375 is|0.35 regarded|0.325 as|0.3 one|0.275 of|0.25 the|0.225 strongest|0.2 and|0.175 most|0.15 influential|0.125 records|0.1 of|0.075 the|0.05 time|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

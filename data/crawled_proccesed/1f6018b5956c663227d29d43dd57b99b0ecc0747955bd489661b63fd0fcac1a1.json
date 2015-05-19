@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f6018b5956c663227d29d43dd57b99b0ecc0747955bd489661b63fd0fcac1a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IRCd_software_implementations3.svg/220px-IRCd_software_implementations3.svg.png",
+			"previous": " ",
+			"after": " An IRCd short for Internet Relay Chat daemon is server software that implements the IRC protocol enabling people to talk to each other via the Internet exchanging textual messages in real time It is distinct from an IRC bot that connects outbound to an IRC channel ",
+			"color": "dark|0.3809 gray|0.3809 dark|0.3809 grey|0.3809 silver|0.20344 gray|0.19594 grey|0.19594 dim|0.11306 gray|0.11306 dim|0.11306 grey|0.11306 light|0.066319 gray|0.066319 light|0.066319 grey|0.066319 gainsboro|0.03723  ",
+			"after_weights": " An|1 IRCd|0.97826 short|0.95652 for|0.93478 Internet|0.91304 Relay|0.8913 Chat|0.86957 daemon|0.84783 is|0.82609 server|0.80435 software|0.78261 that|0.76087 implements|0.73913 the|0.71739 IRC|0.69565 protocol|0.67391 enabling|0.65217 people|0.63043 to|0.6087 talk|0.58696 to|0.56522 each|0.54348 other|0.52174 via|0.5 the|0.47826 Internet|0.45652 exchanging|0.43478 textual|0.41304 messages|0.3913 in|0.36957 real|0.34783 time|0.32609 It|0.30435 is|0.28261 distinct|0.26087 from|0.23913 an|0.21739 IRC|0.19565 bot|0.17391 that|0.15217 connects|0.13043 outbound|0.1087 to|0.086957 an|0.065217 IRC|0.043478 channel|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

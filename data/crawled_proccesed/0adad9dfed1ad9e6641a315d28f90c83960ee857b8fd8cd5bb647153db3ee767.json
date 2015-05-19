@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/math/c/e/f/cefd728131f7e2e03ded75b15c074cfd.png",
 			"previous": " ",
 			"after": " The F measure was derived by van Rijsbergen 1979 so that measures the effectiveness of retrieval with respect to a user who attaches times as much importance to recall as precision It is based on van Rijsbergen s effectiveness measure Their relationship is where ",
+			"color": "gray|0.28077 grey|0.28077 dark|0.22597 gray|0.22597 dark|0.22597 grey|0.22597 dim|0.17301 gray|0.17301 dim|0.17301 grey|0.17301 silver|0.096795 black|0.092594 light|0.048392 gray|0.048392 light|0.048392 grey|0.048392 gainsboro|0.037493 white|0.0094644 smoke|0.0094644 linen|0.0051139 lavender|0.0049666 blush|0.0049666 alice|0.004796 blue|0.004796 ghost|0.0046279 white|0.0046279 sea|0.0044507 shell|0.0044507 snow|0.0043247 white|0.0032648  ",
 			"after_weights": " The|1 F|0.97727 measure|0.95455 was|0.93182 derived|0.90909 by|0.88636 van|0.86364 Rijsbergen|0.84091 1979|0.81818 so|0.79545 that|0.77273 measures|0.75 the|0.72727 effectiveness|0.70455 of|0.68182 retrieval|0.65909 with|0.63636 respect|0.61364 to|0.59091 a|0.56818 user|0.54545 who|0.52273 attaches|0.5 times|0.47727 as|0.45455 much|0.43182 importance|0.40909 to|0.38636 recall|0.36364 as|0.34091 precision|0.31818 It|0.29545 is|0.27273 based|0.25 on|0.22727 van|0.20455 Rijsbergen|0.18182 s|0.15909 effectiveness|0.13636 measure|0.11364 Their|0.090909 relationship|0.068182 is|0.045455 where|0.022727 |0",
 			"previous_weights": " "
 		}

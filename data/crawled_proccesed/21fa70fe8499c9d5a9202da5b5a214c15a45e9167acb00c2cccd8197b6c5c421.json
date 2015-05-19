@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21fa70fe8499c9d5a9202da5b5a214c15a45e9167acb00c2cccd8197b6c5c421",
+			"url": "https://upload.wikimedia.org/math/5/a/0/5a0fc0fe3f288d710fb7e839ec425607.png",
+			"previous": " with boundary conditions An example of pathological behavior is the sequence depending upon n of Cauchy problems for the Laplace equation",
+			"after": " where n is an integer The derivative of u with respect to y approaches 0 uniformly in x as n increases but the solution is This solution approaches infinity if nx is not an integer multiple of for any non zero value of y The Cauchy problem for the Laplace equation is called ill posed or not well posed since the solution does not depend continuously upon the data of the problem Such ill posed problems are not usually satisfactory for physical applications ",
+			"color": "dim|0.3243 gray|0.3243 dim|0.3243 grey|0.3243 gray|0.30969 grey|0.30969 dark|0.18499 gray|0.18499 dark|0.18499 grey|0.18499 silver|0.083282 light|0.043418 gray|0.043418 light|0.043418 grey|0.043418 gainsboro|0.031232 white|0.0057943 smoke|0.0057943 linen|0.0028597  ",
+			"after_weights": " where|1 n|0.98795 is|0.9759 an|0.96386 integer|0.95181 The|0.93976 derivative|0.92771 of|0.91566 u|0.90361 with|0.89157 respect|0.87952 to|0.86747 y|0.85542 approaches|0.84337 0|0.83133 uniformly|0.81928 in|0.80723 x|0.79518 as|0.78313 n|0.77108 increases|0.75904 but|0.74699 the|0.73494 solution|0.72289 is|0.71084 This|0.6988 solution|0.68675 approaches|0.6747 infinity|0.66265 if|0.6506 nx|0.63855 is|0.62651 not|0.61446 an|0.60241 integer|0.59036 multiple|0.57831 of|0.56627 for|0.55422 any|0.54217 non|0.53012 zero|0.51807 value|0.50602 of|0.49398 y|0.48193 The|0.46988 Cauchy|0.45783 problem|0.44578 for|0.43373 the|0.42169 Laplace|0.40964 equation|0.39759 is|0.38554 called|0.37349 ill|0.36145 posed|0.3494 or|0.33735 not|0.3253 well|0.31325 posed|0.3012 since|0.28916 the|0.27711 solution|0.26506 does|0.25301 not|0.24096 depend|0.22892 continuously|0.21687 upon|0.20482 the|0.19277 data|0.18072 of|0.16867 the|0.15663 problem|0.14458 Such|0.13253 ill|0.12048 posed|0.10843 problems|0.096386 are|0.084337 not|0.072289 usually|0.060241 satisfactory|0.048193 for|0.036145 physical|0.024096 applications|0.012048 |0",
+			"previous_weights": " with|0 boundary|0.05 conditions|0.1 An|0.15 example|0.2 of|0.25 pathological|0.3 behavior|0.35 is|0.4 the|0.45 sequence|0.5 depending|0.55 upon|0.6 n|0.65 of|0.7 Cauchy|0.75 problems|0.8 for|0.85 the|0.9 Laplace|0.95 equation|1"
+		}
+	}
+}

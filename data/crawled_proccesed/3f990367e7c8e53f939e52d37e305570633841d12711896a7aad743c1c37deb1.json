@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f990367e7c8e53f939e52d37e305570633841d12711896a7aad743c1c37deb1",
+			"url": "https://upload.wikimedia.org/math/2/9/1/291b561fca6ad9c00d3ed5c352ec4b52.png",
+			"previous": " The polynomial Let and be the roots of q Then the roots of our quartic Q are",
+			"after": " is almost palindromic as  it is palindromic if m 1  The change of variables in produces the quadratic equation As x2 xz m 0 the quartic equation",
+			"color": "black|0.33304 dim|0.26621 gray|0.26621 dim|0.26621 grey|0.26621 gray|0.17729 grey|0.17729 dark|0.11751 gray|0.11751 dark|0.11751 grey|0.11751 silver|0.051974 light|0.025149 gray|0.025149 light|0.025149 grey|0.025149 gainsboro|0.017555  ",
+			"after_weights": " is|1 almost|0.96429 palindromic|0.92857 as|0.89286 |0.85714 it|0.82143 is|0.78571 palindromic|0.75 if|0.71429 m|0.67857 1|0.64286 |0.60714 The|0.57143 change|0.53571 of|0.5 variables|0.46429 in|0.42857 produces|0.39286 the|0.35714 quadratic|0.32143 equation|0.28571 As|0.25 x2|0.21429 xz|0.17857 m|0.14286 0|0.10714 the|0.071429 quartic|0.035714 equation|0",
+			"previous_weights": " The|0 polynomial|0.0625 Let|0.125 and|0.1875 be|0.25 the|0.3125 roots|0.375 of|0.4375 q|0.5 Then|0.5625 the|0.625 roots|0.6875 of|0.75 our|0.8125 quartic|0.875 Q|0.9375 are|1"
+		}
+	}
+}

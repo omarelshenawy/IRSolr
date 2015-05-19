@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "102c79843a862701b5fc93e7cbc40c6eeb0610111f960595ffb392b38149ea72",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Oran_Santa_Cruz.JPG/80px-Oran_Santa_Cruz.JPG",
+			"previous": "  that in 1861 the impressionism painter Claude Monet joined the First Regiment of African Light Cavalry in Algeria where he stayed for two years ",
+			"after": "  that in defying Spanish dominance locals built a chapel at a higher elevation next to Fort Santa Cruz pictured in Oran Algeria ",
+			"color": "dim|0.65752 gray|0.65752 dim|0.65752 grey|0.65752 black|0.21611 gray|0.08221 grey|0.08221 slate|0.018149 gray|0.018149  ",
+			"after_weights": " |1 that|0.95652 in|0.91304 defying|0.86957 Spanish|0.82609 dominance|0.78261 locals|0.73913 built|0.69565 a|0.65217 chapel|0.6087 at|0.56522 a|0.52174 higher|0.47826 elevation|0.43478 next|0.3913 to|0.34783 Fort|0.30435 Santa|0.26087 Cruz|0.21739 pictured|0.17391 in|0.13043 Oran|0.086957 Algeria|0.043478 |0",
+			"previous_weights": " |0 that|0.04 in|0.08 1861|0.12 the|0.16 impressionism|0.2 painter|0.24 Claude|0.28 Monet|0.32 joined|0.36 the|0.4 First|0.44 Regiment|0.48 of|0.52 African|0.56 Light|0.6 Cavalry|0.64 in|0.68 Algeria|0.72 where|0.76 he|0.8 stayed|0.84 for|0.88 two|0.92 years|0.96 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de380235462ea68f6cbfe846cc4c8ede8e5127387991348f62875dfbcfc17fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Typical_North_Atlantic_Tropical_Cyclone_Formation_in_August.png/220px-Typical_North_Atlantic_Tropical_Cyclone_Formation_in_August.png",
+			"previous": " ",
+			"after": " Decrease in wind shear from July to August contributes to a significant increase of tropical activity 24 An average of 2 8 Atlantic tropical storms develop annually in August On average four named tropical storms including one hurricane occur by August 30 and the first intense hurricane develops by 4 September 6 ",
+			"color": "blue|0.62563 dark|0.10244 orange|0.10244 steel|0.070538 blue|0.070538 medium|0.070144 blue|0.070144 dark|0.058027 olive|0.058027 green|0.058027 light|0.02226 steel|0.02226 blue|0.02226 dark|0.014989 slate|0.014989 gray|0.014989 forest|0.011448 green|0.011448  ",
+			"after_weights": " Decrease|1 in|0.98077 wind|0.96154 shear|0.94231 from|0.92308 July|0.90385 to|0.88462 August|0.86538 contributes|0.84615 to|0.82692 a|0.80769 significant|0.78846 increase|0.76923 of|0.75 tropical|0.73077 activity|0.71154 24|0.69231 An|0.67308 average|0.65385 of|0.63462 2|0.61538 8|0.59615 Atlantic|0.57692 tropical|0.55769 storms|0.53846 develop|0.51923 annually|0.5 in|0.48077 August|0.46154 On|0.44231 average|0.42308 four|0.40385 named|0.38462 tropical|0.36538 storms|0.34615 including|0.32692 one|0.30769 hurricane|0.28846 occur|0.26923 by|0.25 August|0.23077 30|0.21154 and|0.19231 the|0.17308 first|0.15385 intense|0.13462 hurricane|0.11538 develops|0.096154 by|0.076923 4|0.057692 September|0.038462 6|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

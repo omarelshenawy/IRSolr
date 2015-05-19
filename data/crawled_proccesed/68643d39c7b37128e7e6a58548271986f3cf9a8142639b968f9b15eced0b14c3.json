@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68643d39c7b37128e7e6a58548271986f3cf9a8142639b968f9b15eced0b14c3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Alexandria_harbour_%28February_2007%29.jpg/220px-Alexandria_harbour_%28February_2007%29.jpg",
+			"previous": " Several other territories also border the Mediterranean Sea from west to east The British overseas territory of Gibraltar the Spanish autonomous cities of Ceuta and Melilla and nearby islands and the Sovereign Base Areas on Cyprus",
+			"after": " Major cities municipalities with populations larger than 200 000 people bordering the Mediterranean Sea are ",
+			"color": "steel|0.45734 blue|0.45734 light|0.14591 slate|0.14591 gray|0.14591 slate|0.12566 gray|0.12566 dim|0.055526 gray|0.055526 dim|0.055526 grey|0.055526 black|0.047122 dark|0.041417 gray|0.041417 dark|0.041417 grey|0.041417 gray|0.038538 grey|0.038538 dark|0.034325 slate|0.034325 gray|0.034325 silver|0.016406 light|0.0070358 gray|0.0070358 light|0.0070358 grey|0.0070358 antique|0.0060773 white|0.0060773  ",
+			"after_weights": " Major|1 cities|0.93333 municipalities|0.86667 with|0.8 populations|0.73333 larger|0.66667 than|0.6 200|0.53333 000|0.46667 people|0.4 bordering|0.33333 the|0.26667 Mediterranean|0.2 Sea|0.13333 are|0.066667 |0",
+			"previous_weights": " Several|0 other|0.028571 territories|0.057143 also|0.085714 border|0.11429 the|0.14286 Mediterranean|0.17143 Sea|0.2 from|0.22857 west|0.25714 to|0.28571 east|0.31429 The|0.34286 British|0.37143 overseas|0.4 territory|0.42857 of|0.45714 Gibraltar|0.48571 the|0.51429 Spanish|0.54286 autonomous|0.57143 cities|0.6 of|0.62857 Ceuta|0.65714 and|0.68571 Melilla|0.71429 and|0.74286 nearby|0.77143 islands|0.8 and|0.82857 the|0.85714 Sovereign|0.88571 Base|0.91429 Areas|0.94286 on|0.97143 Cyprus|1"
+		}
+	}
+}

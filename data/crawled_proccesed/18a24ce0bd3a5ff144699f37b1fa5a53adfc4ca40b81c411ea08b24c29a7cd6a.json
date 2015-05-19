@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18a24ce0bd3a5ff144699f37b1fa5a53adfc4ca40b81c411ea08b24c29a7cd6a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MBTA_Blue_Line_Airport_Subway_Station.jpg/180px-MBTA_Blue_Line_Airport_Subway_Station.jpg",
+			"previous": " ",
+			"after": " Massport s Airport Shuttle provides free service between all terminals to the Airport Station on the Blue Line and the newly opened Rental Car Center as well as additional service to the water transportation dock located on Harborside Drive 89 ",
+			"color": "dim|0.45142 gray|0.45142 dim|0.45142 grey|0.45142 dark|0.16011 slate|0.16011 gray|0.16011 gray|0.13357 grey|0.13357 slate|0.040195 gray|0.040195 dark|0.03125 gray|0.03125 dark|0.03125 grey|0.03125 silver|0.029461 light|0.020427 gray|0.020427 light|0.020427 grey|0.020427 light|0.019503 slate|0.019503 gray|0.019503 gainsboro|0.014133 white|0.0077164 smoke|0.0077164 sea|0.0075328 shell|0.0075328 lavender|0.0069495 blush|0.0069495 snow|0.0069179 floral|0.0064046 white|0.0064046 ghost|0.0062702 white|0.0062702 white|0.0058531 linen|0.0057509 alice|0.0048992 blue|0.0048992 misty|0.0048922 rose|0.0048922 mint|0.0048358 cream|0.0048358 antique|0.0040351 white|0.0040351 azure|0.0036119 black|0.0034898  ",
+			"after_weights": " Massport|1 s|0.975 Airport|0.95 Shuttle|0.925 provides|0.9 free|0.875 service|0.85 between|0.825 all|0.8 terminals|0.775 to|0.75 the|0.725 Airport|0.7 Station|0.675 on|0.65 the|0.625 Blue|0.6 Line|0.575 and|0.55 the|0.525 newly|0.5 opened|0.475 Rental|0.45 Car|0.425 Center|0.4 as|0.375 well|0.35 as|0.325 additional|0.3 service|0.275 to|0.25 the|0.225 water|0.2 transportation|0.175 dock|0.15 located|0.125 on|0.1 Harborside|0.075 Drive|0.05 89|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "16931d1eb654e55a4fe1c86c4fb7569e7d6650903646c485a10f55580f4e4694",
+			"url": "https://upload.wikimedia.org/math/f/4/2/f429b8552dce42e9f57e52a8e9cce33d.png",
+			"previous": "  The ram drag must be deducted from the nozzle gross thrust ",
+			"after": " To retain accuracy only the final answer should be rounded off 7  The above calculations assume that the fuel flow added in the combustor completely offsets the bleed air extracted at compressor delivery to cool the turbine system This is pessimistic since the bleed air is assumed to be dumped directly overboard thereby bypassing the propulsion nozzle and unable to contribute to the thrust of the engine ",
+			"color": "dim|0.33602 gray|0.33602 dim|0.33602 grey|0.33602 gray|0.32185 grey|0.32185 dark|0.19527 gray|0.19527 dark|0.19527 grey|0.19527 silver|0.075476 light|0.034617 gray|0.034617 light|0.034617 grey|0.034617 gainsboro|0.023693 white|0.0036485 smoke|0.0036485  ",
+			"after_weights": " To|1 retain|0.98529 accuracy|0.97059 only|0.95588 the|0.94118 final|0.92647 answer|0.91176 should|0.89706 be|0.88235 rounded|0.86765 off|0.85294 7|0.83824 |0.82353 The|0.80882 above|0.79412 calculations|0.77941 assume|0.76471 that|0.75 the|0.73529 fuel|0.72059 flow|0.70588 added|0.69118 in|0.67647 the|0.66176 combustor|0.64706 completely|0.63235 offsets|0.61765 the|0.60294 bleed|0.58824 air|0.57353 extracted|0.55882 at|0.54412 compressor|0.52941 delivery|0.51471 to|0.5 cool|0.48529 the|0.47059 turbine|0.45588 system|0.44118 This|0.42647 is|0.41176 pessimistic|0.39706 since|0.38235 the|0.36765 bleed|0.35294 air|0.33824 is|0.32353 assumed|0.30882 to|0.29412 be|0.27941 dumped|0.26471 directly|0.25 overboard|0.23529 thereby|0.22059 bypassing|0.20588 the|0.19118 propulsion|0.17647 nozzle|0.16176 and|0.14706 unable|0.13235 to|0.11765 contribute|0.10294 to|0.088235 the|0.073529 thrust|0.058824 of|0.044118 the|0.029412 engine|0.014706 |0",
+			"previous_weights": " |0 The|0.083333 ram|0.16667 drag|0.25 must|0.33333 be|0.41667 deducted|0.5 from|0.58333 the|0.66667 nozzle|0.75 gross|0.83333 thrust|0.91667 |1"
+		}
+	}
+}

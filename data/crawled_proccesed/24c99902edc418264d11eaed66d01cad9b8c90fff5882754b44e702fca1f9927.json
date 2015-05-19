@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "24c99902edc418264d11eaed66d01cad9b8c90fff5882754b44e702fca1f9927",
+			"url": "https://upload.wikimedia.org/math/6/3/7/637a45082cc0ab374afca233b99bb2b8.png",
+			"previous": " A theory T has quantifier elimination if every first order formula x1 xn over its signature is equivalent modulo T to a first order formula x1 xn without quantifiers i e holds in all models of T For example the theory of algebraically closed fields in the signature ring 0 1 has quantifier elimination because every formula is equivalent to a Boolean combination of equations between polynomials ",
+			"after": " If a theory does not have quantifier elimination one can add additional symbols to its signature so that it does Early model theory spent much effort on proving axiomatizability and quantifier elimination results for specific theories especially in algebra But often instead of quantifier elimination a weaker property suffices ",
+			"color": " ",
+			"after_weights": " If|1 a|0.97959 theory|0.95918 does|0.93878 not|0.91837 have|0.89796 quantifier|0.87755 elimination|0.85714 one|0.83673 can|0.81633 add|0.79592 additional|0.77551 symbols|0.7551 to|0.73469 its|0.71429 signature|0.69388 so|0.67347 that|0.65306 it|0.63265 does|0.61224 Early|0.59184 model|0.57143 theory|0.55102 spent|0.53061 much|0.5102 effort|0.4898 on|0.46939 proving|0.44898 axiomatizability|0.42857 and|0.40816 quantifier|0.38776 elimination|0.36735 results|0.34694 for|0.32653 specific|0.30612 theories|0.28571 especially|0.26531 in|0.2449 algebra|0.22449 But|0.20408 often|0.18367 instead|0.16327 of|0.14286 quantifier|0.12245 elimination|0.10204 a|0.081633 weaker|0.061224 property|0.040816 suffices|0.020408 |0",
+			"previous_weights": " A|0 theory|0.014925 T|0.029851 has|0.044776 quantifier|0.059701 elimination|0.074627 if|0.089552 every|0.10448 first|0.1194 order|0.13433 formula|0.14925 x1|0.16418 xn|0.1791 over|0.19403 its|0.20896 signature|0.22388 is|0.23881 equivalent|0.25373 modulo|0.26866 T|0.28358 to|0.29851 a|0.31343 first|0.32836 order|0.34328 formula|0.35821 x1|0.37313 xn|0.38806 without|0.40299 quantifiers|0.41791 i|0.43284 e|0.44776 holds|0.46269 in|0.47761 all|0.49254 models|0.50746 of|0.52239 T|0.53731 For|0.55224 example|0.56716 the|0.58209 theory|0.59701 of|0.61194 algebraically|0.62687 closed|0.64179 fields|0.65672 in|0.67164 the|0.68657 signature|0.70149 ring|0.71642 0|0.73134 1|0.74627 has|0.76119 quantifier|0.77612 elimination|0.79104 because|0.80597 every|0.8209 formula|0.83582 is|0.85075 equivalent|0.86567 to|0.8806 a|0.89552 Boolean|0.91045 combination|0.92537 of|0.9403 equations|0.95522 between|0.97015 polynomials|0.98507 |1"
+		}
+	}
+}

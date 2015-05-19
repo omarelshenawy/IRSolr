@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6be5556a49e2bf2319a37a51931f0554a89d53a76d423a41d286f880e51b82d3",
+			"url": "https://upload.wikimedia.org/math/b/9/4/b947937b6854dc0da79669860300553a.png",
+			"previous": " The Blasius solution uses boundary conditions in a dimensionless form   the thickness of the boundary layer the region of flow where the velocity is less than 99 of the far field velocity is position along the semi infinite plate and is the Reynolds Number given by density and dynamic viscosity ",
+			"after": "  at and",
+			"color": "dim|0.3462 gray|0.3462 dim|0.3462 grey|0.3462 gray|0.28156 grey|0.28156 dark|0.18928 gray|0.18928 dark|0.18928 grey|0.18928 silver|0.090727 light|0.046134 gray|0.046134 light|0.046134 grey|0.046134 gainsboro|0.029357 white|0.0041663 smoke|0.0041663  ",
+			"after_weights": " |1 at|0.5 and|0",
+			"previous_weights": " The|0 Blasius|0.019231 solution|0.038462 uses|0.057692 boundary|0.076923 conditions|0.096154 in|0.11538 a|0.13462 dimensionless|0.15385 form|0.17308 |0.19231 |0.21154 the|0.23077 thickness|0.25 of|0.26923 the|0.28846 boundary|0.30769 layer|0.32692 the|0.34615 region|0.36538 of|0.38462 flow|0.40385 where|0.42308 the|0.44231 velocity|0.46154 is|0.48077 less|0.5 than|0.51923 99|0.53846 of|0.55769 the|0.57692 far|0.59615 field|0.61538 velocity|0.63462 is|0.65385 position|0.67308 along|0.69231 the|0.71154 semi|0.73077 infinite|0.75 plate|0.76923 and|0.78846 is|0.80769 the|0.82692 Reynolds|0.84615 Number|0.86538 given|0.88462 by|0.90385 density|0.92308 and|0.94231 dynamic|0.96154 viscosity|0.98077 |1"
+		}
+	}
+}

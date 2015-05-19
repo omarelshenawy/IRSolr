@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "995e035f84119adeb7aaa3b83c6ed21f4da6083ded9dd82b46d7d7df319bd0c0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/B_telmatiaea_dist_map.png/220px-B_telmatiaea_dist_map.png",
+			"previous": " ",
+			"after": " B telmatiaea grows only in the Swan Coastal Plain Geraldton Sandplains and Jarrah Forest biogeographic regions inland from the coast but never east of the Darling Scarp It occurs from Hill River near Badgingarra in the north to Serpentine in the south Most populations occur north of Moore River or south of Cannington there being only a few scattered populations in between 4 ",
+			"color": "silver|0.3402 dark|0.33336 gray|0.33336 dark|0.33336 grey|0.33336 light|0.30945 gray|0.30945 light|0.30945 grey|0.30945 gainsboro|0.008758 gray|0.005747 grey|0.005747  ",
+			"after_weights": " B|1 telmatiaea|0.98413 grows|0.96825 only|0.95238 in|0.93651 the|0.92063 Swan|0.90476 Coastal|0.88889 Plain|0.87302 Geraldton|0.85714 Sandplains|0.84127 and|0.8254 Jarrah|0.80952 Forest|0.79365 biogeographic|0.77778 regions|0.7619 inland|0.74603 from|0.73016 the|0.71429 coast|0.69841 but|0.68254 never|0.66667 east|0.65079 of|0.63492 the|0.61905 Darling|0.60317 Scarp|0.5873 It|0.57143 occurs|0.55556 from|0.53968 Hill|0.52381 River|0.50794 near|0.49206 Badgingarra|0.47619 in|0.46032 the|0.44444 north|0.42857 to|0.4127 Serpentine|0.39683 in|0.38095 the|0.36508 south|0.34921 Most|0.33333 populations|0.31746 occur|0.30159 north|0.28571 of|0.26984 Moore|0.25397 River|0.2381 or|0.22222 south|0.20635 of|0.19048 Cannington|0.1746 there|0.15873 being|0.14286 only|0.12698 a|0.11111 few|0.095238 scattered|0.079365 populations|0.063492 in|0.047619 between|0.031746 4|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

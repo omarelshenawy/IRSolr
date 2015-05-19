@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11b94a13b109738bf1cad19b83ab917ea1645ce9b0924052e9f2fc5a3494cb83",
+			"url": "https://upload.wikimedia.org/math/c/f/c/cfcd208495d565ef66e7dff9f98764da.png",
+			"previous": " Much of probabilistic number theory can be seen as an important special case of the study of variables that are almost but not quite mutually independent For example the event that a random integer between one and a million be divisible by two and the event that it be divisible by three are almost independent but not quite ",
+			"after": " At times a non rigorous probabilistic approach leads to a number of heuristic algorithms and open problems notably Cram r s conjecture ",
+			"color": " ",
+			"after_weights": " At|1 times|0.95455 a|0.90909 non|0.86364 rigorous|0.81818 probabilistic|0.77273 approach|0.72727 leads|0.68182 to|0.63636 a|0.59091 number|0.54545 of|0.5 heuristic|0.45455 algorithms|0.40909 and|0.36364 open|0.31818 problems|0.27273 notably|0.22727 Cram|0.18182 r|0.13636 s|0.090909 conjecture|0.045455 |0",
+			"previous_weights": " Much|0 of|0.017241 probabilistic|0.034483 number|0.051724 theory|0.068966 can|0.086207 be|0.10345 seen|0.12069 as|0.13793 an|0.15517 important|0.17241 special|0.18966 case|0.2069 of|0.22414 the|0.24138 study|0.25862 of|0.27586 variables|0.2931 that|0.31034 are|0.32759 almost|0.34483 but|0.36207 not|0.37931 quite|0.39655 mutually|0.41379 independent|0.43103 For|0.44828 example|0.46552 the|0.48276 event|0.5 that|0.51724 a|0.53448 random|0.55172 integer|0.56897 between|0.58621 one|0.60345 and|0.62069 a|0.63793 million|0.65517 be|0.67241 divisible|0.68966 by|0.7069 two|0.72414 and|0.74138 the|0.75862 event|0.77586 that|0.7931 it|0.81034 be|0.82759 divisible|0.84483 by|0.86207 three|0.87931 are|0.89655 almost|0.91379 independent|0.93103 but|0.94828 not|0.96552 quite|0.98276 |1"
+		}
+	}
+}

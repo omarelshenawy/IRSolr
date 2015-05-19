@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "69db20d159537efb388822c7e2e4a78eb01124522814397e8c2e982d4f016d59",
+			"url": "https://upload.wikimedia.org/math/b/a/a/baabf73794878a2f3e3b5e03b1a9d9a7.png",
+			"previous": " where and are the wave functions of the two states involved in the transition and is the transition moment operator If the value of this integral is zero the transition is forbidden In practice the integral itself does not need to be calculated to determine a selection rule It is sufficient to determine the symmetry of transition moment function If the symmetry of this function spans the totally symmetric representation of the point group to which the atom or molecule belongs then its value is in general not zero and the transition is allowed Otherwise the transition is forbidden ",
+			"after": " ",
+			"color": "dim|0.26168 gray|0.26168 dim|0.26168 grey|0.26168 black|0.2497 gray|0.19045 grey|0.19045 dark|0.1377 gray|0.1377 dark|0.1377 grey|0.1377 silver|0.067417 light|0.036846 gray|0.036846 light|0.036846 grey|0.036846 gainsboro|0.027257 white|0.0063274 smoke|0.0063274 linen|0.003614  ",
+			"after_weights": " ",
+			"previous_weights": " where|0 and|0.010101 are|0.020202 the|0.030303 wave|0.040404 functions|0.050505 of|0.060606 the|0.070707 two|0.080808 states|0.090909 involved|0.10101 in|0.11111 the|0.12121 transition|0.13131 and|0.14141 is|0.15152 the|0.16162 transition|0.17172 moment|0.18182 operator|0.19192 If|0.20202 the|0.21212 value|0.22222 of|0.23232 this|0.24242 integral|0.25253 is|0.26263 zero|0.27273 the|0.28283 transition|0.29293 is|0.30303 forbidden|0.31313 In|0.32323 practice|0.33333 the|0.34343 integral|0.35354 itself|0.36364 does|0.37374 not|0.38384 need|0.39394 to|0.40404 be|0.41414 calculated|0.42424 to|0.43434 determine|0.44444 a|0.45455 selection|0.46465 rule|0.47475 It|0.48485 is|0.49495 sufficient|0.50505 to|0.51515 determine|0.52525 the|0.53535 symmetry|0.54545 of|0.55556 transition|0.56566 moment|0.57576 function|0.58586 If|0.59596 the|0.60606 symmetry|0.61616 of|0.62626 this|0.63636 function|0.64646 spans|0.65657 the|0.66667 totally|0.67677 symmetric|0.68687 representation|0.69697 of|0.70707 the|0.71717 point|0.72727 group|0.73737 to|0.74747 which|0.75758 the|0.76768 atom|0.77778 or|0.78788 molecule|0.79798 belongs|0.80808 then|0.81818 its|0.82828 value|0.83838 is|0.84848 in|0.85859 general|0.86869 not|0.87879 zero|0.88889 and|0.89899 the|0.90909 transition|0.91919 is|0.92929 allowed|0.93939 Otherwise|0.94949 the|0.9596 transition|0.9697 is|0.9798 forbidden|0.9899 |1"
+		}
+	}
+}

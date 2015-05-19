@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f55b093f69f90393a3a483da6335eb5bc1c8741e87e8a1c29c17ba01c50aded",
+			"url": "https://upload.wikimedia.org/math/7/1/e/71e623347b1518bab512c1acb52a401b.png",
+			"previous": " so Alternatively this formula is found using spherical coordinates with volume element",
+			"after": " In higher dimensions the analog of a sphere is called a hypersphere which encloses an n ball General recursive and non recursive formulas exist for the volume of an n ball  In analytic geometry a sphere with center x0 y0 z0 and radius r is the locus of all points x y z such that",
+			"color": "gray|0.32461 grey|0.32461 dim|0.28384 gray|0.28384 dim|0.28384 grey|0.28384 dark|0.2143 gray|0.2143 dark|0.2143 grey|0.2143 silver|0.086878 light|0.040033 gray|0.040033 light|0.040033 grey|0.040033 gainsboro|0.028345 white|0.0052603 smoke|0.0052603 linen|0.0027548  ",
+			"after_weights": " In|1 higher|0.98182 dimensions|0.96364 the|0.94545 analog|0.92727 of|0.90909 a|0.89091 sphere|0.87273 is|0.85455 called|0.83636 a|0.81818 hypersphere|0.8 which|0.78182 encloses|0.76364 an|0.74545 n|0.72727 ball|0.70909 General|0.69091 recursive|0.67273 and|0.65455 non|0.63636 recursive|0.61818 formulas|0.6 exist|0.58182 for|0.56364 the|0.54545 volume|0.52727 of|0.50909 an|0.49091 n|0.47273 ball|0.45455 |0.43636 In|0.41818 analytic|0.4 geometry|0.38182 a|0.36364 sphere|0.34545 with|0.32727 center|0.30909 x0|0.29091 y0|0.27273 z0|0.25455 and|0.23636 radius|0.21818 r|0.2 is|0.18182 the|0.16364 locus|0.14545 of|0.12727 all|0.10909 points|0.090909 x|0.072727 y|0.054545 z|0.036364 such|0.018182 that|0",
+			"previous_weights": " so|0 Alternatively|0.090909 this|0.18182 formula|0.27273 is|0.36364 found|0.45455 using|0.54545 spherical|0.63636 coordinates|0.72727 with|0.81818 volume|0.90909 element|1"
+		}
+	}
+}

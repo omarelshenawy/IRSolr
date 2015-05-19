@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f2b094f18664333cf888447bcb807288ce3d7eb14b35ec437e352d1f85cbc02",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MRT_Kaohsiung_Int%27l_Airport_Station_Exit6.jpg/220px-MRT_Kaohsiung_Int%27l_Airport_Station_Exit6.jpg",
+			"previous": " Many cities also provide a link to their airports through their rapid transit or light rail systems which unlike express trains often make numerous stops on the way to the airport At some airports such as O Hare in Chicago or Hartsfield Jackson in Atlanta the rapid transit train only visits one terminal or concourse passengers must transfer to an airport circulator people mover system to reach other terminals or concourses ",
+			"after": " ",
+			"color": "dark|0.29513 gray|0.29513 dark|0.29513 grey|0.29513 gray|0.22239 grey|0.22239 dim|0.13732 gray|0.13732 dim|0.13732 grey|0.13732 silver|0.12363 light|0.042675 gray|0.042675 light|0.042675 grey|0.042675 black|0.040937 gainsboro|0.026556 light|0.013476 slate|0.013476 gray|0.013476 slate|0.011001 gray|0.011001 cadet|0.0072493 blue|0.0072493 white|0.0044082 smoke|0.0044082 dark|0.0038217 slate|0.0038217 gray|0.0038217  ",
+			"after_weights": " ",
+			"previous_weights": " Many|0 cities|0.014085 also|0.028169 provide|0.042254 a|0.056338 link|0.070423 to|0.084507 their|0.098592 airports|0.11268 through|0.12676 their|0.14085 rapid|0.15493 transit|0.16901 or|0.1831 light|0.19718 rail|0.21127 systems|0.22535 which|0.23944 unlike|0.25352 express|0.26761 trains|0.28169 often|0.29577 make|0.30986 numerous|0.32394 stops|0.33803 on|0.35211 the|0.3662 way|0.38028 to|0.39437 the|0.40845 airport|0.42254 At|0.43662 some|0.4507 airports|0.46479 such|0.47887 as|0.49296 O|0.50704 Hare|0.52113 in|0.53521 Chicago|0.5493 or|0.56338 Hartsfield|0.57746 Jackson|0.59155 in|0.60563 Atlanta|0.61972 the|0.6338 rapid|0.64789 transit|0.66197 train|0.67606 only|0.69014 visits|0.70423 one|0.71831 terminal|0.73239 or|0.74648 concourse|0.76056 passengers|0.77465 must|0.78873 transfer|0.80282 to|0.8169 an|0.83099 airport|0.84507 circulator|0.85915 people|0.87324 mover|0.88732 system|0.90141 to|0.91549 reach|0.92958 other|0.94366 terminals|0.95775 or|0.97183 concourses|0.98592 |1"
+		}
+	}
+}

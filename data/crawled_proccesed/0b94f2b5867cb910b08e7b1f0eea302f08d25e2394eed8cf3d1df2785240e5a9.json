@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b94f2b5867cb910b08e7b1f0eea302f08d25e2394eed8cf3d1df2785240e5a9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/USA_Massachusetts_Boston_Foliage.jpg/220px-USA_Massachusetts_Boston_Foliage.jpg",
+			"previous": " ",
+			"after": " Boston is sometimes called a city of neighborhoods because of the profusion of diverse subsections the city government s Office of Neighborhood Services has officially designated 23 neighborhoods 78 ",
+			"color": "saddle|0.20497 brown|0.20497 peru|0.17822 sienna|0.12709 chocolate|0.12016 sandy|0.052831 brown|0.052831 dim|0.045884 gray|0.045884 dim|0.045884 grey|0.045884 black|0.042234 steel|0.033389 blue|0.033389 light|0.031195 slate|0.031195 gray|0.031195 slate|0.029198 gray|0.029198 gray|0.02686 grey|0.02686 dark|0.024335 slate|0.024335 gray|0.024335 maroon|0.010781  ",
+			"after_weights": " Boston|1 is|0.96552 sometimes|0.93103 called|0.89655 a|0.86207 city|0.82759 of|0.7931 neighborhoods|0.75862 because|0.72414 of|0.68966 the|0.65517 profusion|0.62069 of|0.58621 diverse|0.55172 subsections|0.51724 the|0.48276 city|0.44828 government|0.41379 s|0.37931 Office|0.34483 of|0.31034 Neighborhood|0.27586 Services|0.24138 has|0.2069 officially|0.17241 designated|0.13793 23|0.10345 neighborhoods|0.068966 78|0.034483 |0",
+			"previous_weights": " "
+		}
+	}
+}

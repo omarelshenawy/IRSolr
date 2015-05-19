@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a0ac5841292bb1bccc89cdd8b5392edc244b96348970f899b8d8dd13101c07a",
+			"url": "https://upload.wikimedia.org/math/d/1/4/d141720bee6abcb33d5b75963745fe1d.png",
+			"previous": " Given an infinite sequence of numbers an a series is informally the result of adding all those terms together a1 a2 a3 These can be written more compactly using the summation symbol An example is the famous series from Zeno s dichotomy and its mathematical representation ",
+			"after": " The terms of the series are often produced according to a certain rule such as by a formula or by an algorithm ",
+			"color": " ",
+			"after_weights": " The|1 terms|0.95455 of|0.90909 the|0.86364 series|0.81818 are|0.77273 often|0.72727 produced|0.68182 according|0.63636 to|0.59091 a|0.54545 certain|0.5 rule|0.45455 such|0.40909 as|0.36364 by|0.31818 a|0.27273 formula|0.22727 or|0.18182 by|0.13636 an|0.090909 algorithm|0.045455 |0",
+			"previous_weights": " Given|0 an|0.021739 infinite|0.043478 sequence|0.065217 of|0.086957 numbers|0.1087 an|0.13043 a|0.15217 series|0.17391 is|0.19565 informally|0.21739 the|0.23913 result|0.26087 of|0.28261 adding|0.30435 all|0.32609 those|0.34783 terms|0.36957 together|0.3913 a1|0.41304 a2|0.43478 a3|0.45652 These|0.47826 can|0.5 be|0.52174 written|0.54348 more|0.56522 compactly|0.58696 using|0.6087 the|0.63043 summation|0.65217 symbol|0.67391 An|0.69565 example|0.71739 is|0.73913 the|0.76087 famous|0.78261 series|0.80435 from|0.82609 Zeno|0.84783 s|0.86957 dichotomy|0.8913 and|0.91304 its|0.93478 mathematical|0.95652 representation|0.97826 |1"
+		}
+	}
+}

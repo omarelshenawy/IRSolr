@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "90fc54720b99bae4f9cfca0866775988711509cf0933b0396b7a19e1d83cca50",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Betacam_SP_camera.jpg/300px-Betacam_SP_camera.jpg",
+			"previous": " ",
+			"after": " A Professional video camera often called a television camera even though the use has spread is a high end device for recording electronic moving images as opposed to a movie camera that records the images on film ",
+			"color": "dim|0.2348 gray|0.2348 dim|0.2348 grey|0.2348 gray|0.22639 grey|0.22639 black|0.13849 slate|0.09647 gray|0.09647 dark|0.093812 gray|0.093812 dark|0.093812 grey|0.093812 light|0.080112 slate|0.080112 gray|0.080112 dark|0.031857 slate|0.031857 gray|0.031857 silver|0.029681 light|0.016948 gray|0.016948 light|0.016948 grey|0.016948 gainsboro|0.012118  ",
+			"after_weights": " A|1 Professional|0.97297 video|0.94595 camera|0.91892 often|0.89189 called|0.86486 a|0.83784 television|0.81081 camera|0.78378 even|0.75676 though|0.72973 the|0.7027 use|0.67568 has|0.64865 spread|0.62162 is|0.59459 a|0.56757 high|0.54054 end|0.51351 device|0.48649 for|0.45946 recording|0.43243 electronic|0.40541 moving|0.37838 images|0.35135 as|0.32432 opposed|0.2973 to|0.27027 a|0.24324 movie|0.21622 camera|0.18919 that|0.16216 records|0.13514 the|0.10811 images|0.081081 on|0.054054 film|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

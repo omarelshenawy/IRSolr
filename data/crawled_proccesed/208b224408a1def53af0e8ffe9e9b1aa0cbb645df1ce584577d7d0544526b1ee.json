@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "208b224408a1def53af0e8ffe9e9b1aa0cbb645df1ce584577d7d0544526b1ee",
+			"url": "https://upload.wikimedia.org/math/3/1/c/31cb93555fa279224f98bb5f18243920.png",
+			"previous": " Certain homogeneous linear integral equations can be viewed as the continuum limit of eigenvalue equations Using index notation an eigenvalue equation can be written as",
+			"after": " where M Mi j is a matrix v is one of its eigenvectors and is the associated eigenvalue ",
+			"color": "dim|0.37441 gray|0.37441 dim|0.37441 grey|0.37441 gray|0.27587 grey|0.27587 dark|0.20012 gray|0.20012 dark|0.20012 grey|0.20012 silver|0.084815 light|0.032609 gray|0.032609 light|0.032609 grey|0.032609 gainsboro|0.020815 white|0.0031555 smoke|0.0031555  ",
+			"after_weights": " where|1 M|0.94444 Mi|0.88889 j|0.83333 is|0.77778 a|0.72222 matrix|0.66667 v|0.61111 is|0.55556 one|0.5 of|0.44444 its|0.38889 eigenvectors|0.33333 and|0.27778 is|0.22222 the|0.16667 associated|0.11111 eigenvalue|0.055556 |0",
+			"previous_weights": " Certain|0 homogeneous|0.041667 linear|0.083333 integral|0.125 equations|0.16667 can|0.20833 be|0.25 viewed|0.29167 as|0.33333 the|0.375 continuum|0.41667 limit|0.45833 of|0.5 eigenvalue|0.54167 equations|0.58333 Using|0.625 index|0.66667 notation|0.70833 an|0.75 eigenvalue|0.79167 equation|0.83333 can|0.875 be|0.91667 written|0.95833 as|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f17aa1f2e395d6ee3def4e80b2de01e415c04980abf0ba96e8fe64339c583f7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Air_China_Domestic_Service_Check.JPG/220px-Air_China_Domestic_Service_Check.JPG",
+			"previous": " ",
+			"after": " An airline ticket is a document issued by an airline or a travel agency to confirm that an individual has purchased a seat on a flight on an aircraft This document is then used to obtain a boarding pass at the airport Then with the boarding pass and the attached ticket the passenger is allowed to board the aircraft ",
+			"color": "dim|0.64655 gray|0.64655 dim|0.64655 grey|0.64655 gray|0.24185 grey|0.24185 slate|0.070963 gray|0.070963 black|0.015611 dark|0.012194 slate|0.012194 gray|0.012194 light|0.012081 slate|0.012081 gray|0.012081  ",
+			"after_weights": " An|1 airline|0.98305 ticket|0.9661 is|0.94915 a|0.9322 document|0.91525 issued|0.89831 by|0.88136 an|0.86441 airline|0.84746 or|0.83051 a|0.81356 travel|0.79661 agency|0.77966 to|0.76271 confirm|0.74576 that|0.72881 an|0.71186 individual|0.69492 has|0.67797 purchased|0.66102 a|0.64407 seat|0.62712 on|0.61017 a|0.59322 flight|0.57627 on|0.55932 an|0.54237 aircraft|0.52542 This|0.50847 document|0.49153 is|0.47458 then|0.45763 used|0.44068 to|0.42373 obtain|0.40678 a|0.38983 boarding|0.37288 pass|0.35593 at|0.33898 the|0.32203 airport|0.30508 Then|0.28814 with|0.27119 the|0.25424 boarding|0.23729 pass|0.22034 and|0.20339 the|0.18644 attached|0.16949 ticket|0.15254 the|0.13559 passenger|0.11864 is|0.10169 allowed|0.084746 to|0.067797 board|0.050847 the|0.033898 aircraft|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

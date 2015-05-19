@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "727f1414b0467829ef44f8284520c962deabc87076f1c5e4c76acbf37ac58f59",
+			"url": "https://upload.wikimedia.org/math/e/6/3/e6384b0ee3faddc93a135be3e78067ab.png",
+			"previous": " In the plane a horizontal shear or shear parallel to the x axis is a function that takes a generic point with coordinates to the point where is a fixed parameter called the shear factor ",
+			"after": " Straight lines parallel to the axis remain where they are while all other lines are turned by various angles about the point where they cross the axis Vertical lines in particular become oblique lines with slope Therefore the shear factor is the cotangent of the angle by which the vertical lines tilt called the shear angle ",
+			"color": "dim|0.32672 gray|0.32672 dim|0.32672 grey|0.32672 gray|0.3086 grey|0.3086 dark|0.18593 gray|0.18593 dark|0.18593 grey|0.18593 silver|0.082066 light|0.041431 gray|0.041431 light|0.041431 grey|0.041431 gainsboro|0.028606 white|0.0057104 smoke|0.0057104 linen|0.0029963 lavender|0.0028208 blush|0.0028208 alice|0.0027828 blue|0.0027828 ghost|0.0026785 white|0.0026785  ",
+			"after_weights": " Straight|1 lines|0.98214 parallel|0.96429 to|0.94643 the|0.92857 axis|0.91071 remain|0.89286 where|0.875 they|0.85714 are|0.83929 while|0.82143 all|0.80357 other|0.78571 lines|0.76786 are|0.75 turned|0.73214 by|0.71429 various|0.69643 angles|0.67857 about|0.66071 the|0.64286 point|0.625 where|0.60714 they|0.58929 cross|0.57143 the|0.55357 axis|0.53571 Vertical|0.51786 lines|0.5 in|0.48214 particular|0.46429 become|0.44643 oblique|0.42857 lines|0.41071 with|0.39286 slope|0.375 Therefore|0.35714 the|0.33929 shear|0.32143 factor|0.30357 is|0.28571 the|0.26786 cotangent|0.25 of|0.23214 the|0.21429 angle|0.19643 by|0.17857 which|0.16071 the|0.14286 vertical|0.125 lines|0.10714 tilt|0.089286 called|0.071429 the|0.053571 shear|0.035714 angle|0.017857 |0",
+			"previous_weights": " In|0 the|0.028571 plane|0.057143 a|0.085714 horizontal|0.11429 shear|0.14286 or|0.17143 shear|0.2 parallel|0.22857 to|0.25714 the|0.28571 x|0.31429 axis|0.34286 is|0.37143 a|0.4 function|0.42857 that|0.45714 takes|0.48571 a|0.51429 generic|0.54286 point|0.57143 with|0.6 coordinates|0.62857 to|0.65714 the|0.68571 point|0.71429 where|0.74286 is|0.77143 a|0.8 fixed|0.82857 parameter|0.85714 called|0.88571 the|0.91429 shear|0.94286 factor|0.97143 |1"
+		}
+	}
+}

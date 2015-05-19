@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9623c54574281b5fa64b26a3da0751ccfb40a8acbd3e0d3dc7480843516f2f1e",
+			"url": "https://upload.wikimedia.org/math/9/d/0/9d0767c45b1ad299aec69c265ec93a5e.png",
+			"previous": "  The following two can be derived from the first ",
+			"after": " Certain equations involving trigonometric functions are true for all angles and are known as trigonometric identities Some identities equate an expression to a different expression involving the same angles These are listed in List of trigonometric identities Triangle identities that relate the sides and angles of a given triangle are listed below ",
+			"color": "dim|0.42119 gray|0.42119 dim|0.42119 grey|0.42119 gray|0.27389 grey|0.27389 dark|0.1586 gray|0.1586 dark|0.1586 grey|0.1586 silver|0.070715 light|0.035041 gray|0.035041 light|0.035041 grey|0.035041 gainsboro|0.024472 white|0.0034341 smoke|0.0034341  ",
+			"after_weights": " Certain|1 equations|0.98077 involving|0.96154 trigonometric|0.94231 functions|0.92308 are|0.90385 true|0.88462 for|0.86538 all|0.84615 angles|0.82692 and|0.80769 are|0.78846 known|0.76923 as|0.75 trigonometric|0.73077 identities|0.71154 Some|0.69231 identities|0.67308 equate|0.65385 an|0.63462 expression|0.61538 to|0.59615 a|0.57692 different|0.55769 expression|0.53846 involving|0.51923 the|0.5 same|0.48077 angles|0.46154 These|0.44231 are|0.42308 listed|0.40385 in|0.38462 List|0.36538 of|0.34615 trigonometric|0.32692 identities|0.30769 Triangle|0.28846 identities|0.26923 that|0.25 relate|0.23077 the|0.21154 sides|0.19231 and|0.17308 angles|0.15385 of|0.13462 a|0.11538 given|0.096154 triangle|0.076923 are|0.057692 listed|0.038462 below|0.019231 |0",
+			"previous_weights": " |0 The|0.1 following|0.2 two|0.3 can|0.4 be|0.5 derived|0.6 from|0.7 the|0.8 first|0.9 |1"
+		}
+	}
+}

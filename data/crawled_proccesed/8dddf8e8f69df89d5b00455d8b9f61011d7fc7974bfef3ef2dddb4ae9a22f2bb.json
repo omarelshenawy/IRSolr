@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8dddf8e8f69df89d5b00455d8b9f61011d7fc7974bfef3ef2dddb4ae9a22f2bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shanghai_Airlines_B757-200_takeoff.jpg/220px-Shanghai_Airlines_B757-200_takeoff.jpg",
+			"previous": " ",
+			"after": " Shanghai Airlines was established in 1985 It is China s first commercial airline of multidimensional investment funded by the Shanghai municipal government and Shanghai local enterprises The airline was initially restricted to domestic flights but has operated international services since 1997 3 ",
+			"color": "dim|0.32768 gray|0.32768 dim|0.32768 grey|0.32768 gray|0.29533 grey|0.29533 black|0.13311 dark|0.10057 gray|0.10057 dark|0.10057 grey|0.10057 silver|0.026813 dark|0.02512 olive|0.02512 green|0.02512 rosy|0.017819 brown|0.017819 light|0.017449 slate|0.017449 gray|0.017449 slate|0.016938 gray|0.016938 light|0.01094 gray|0.01094 light|0.01094 grey|0.01094  ",
+			"after_weights": " Shanghai|1 Airlines|0.97619 was|0.95238 established|0.92857 in|0.90476 1985|0.88095 It|0.85714 is|0.83333 China|0.80952 s|0.78571 first|0.7619 commercial|0.7381 airline|0.71429 of|0.69048 multidimensional|0.66667 investment|0.64286 funded|0.61905 by|0.59524 the|0.57143 Shanghai|0.54762 municipal|0.52381 government|0.5 and|0.47619 Shanghai|0.45238 local|0.42857 enterprises|0.40476 The|0.38095 airline|0.35714 was|0.33333 initially|0.30952 restricted|0.28571 to|0.2619 domestic|0.2381 flights|0.21429 but|0.19048 has|0.16667 operated|0.14286 international|0.11905 services|0.095238 since|0.071429 1997|0.047619 3|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

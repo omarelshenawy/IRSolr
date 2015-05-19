@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "752ce51fb35621b0d212b0e2e0ebd51772ac93bba5ef78800c3799fa8cab54cb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TCAS_Envelope.JPG/220px-TCAS_Envelope.JPG",
+			"previous": " TCAS works in a coordinated manner so when an RA is issued to conflicting aircraft a required action i e Climb Climb has to be immediately performed by one of the aircraft while the other one receives a similar RA in the opposite direction i e Descend Descend ",
+			"after": " TCAS II issues the following types of aural annunciations ",
+			"color": "yellow|0.39724 orange|0.32225 red|0.32225 red|0.20665 dark|0.0097867 red|0.0097867 maroon|0.0084936 firebrick|0.0079743 khaki|0.005946 brown|0.0053496 olive|0.004473  ",
+			"after_weights": " TCAS|1 II|0.88889 issues|0.77778 the|0.66667 following|0.55556 types|0.44444 of|0.33333 aural|0.22222 annunciations|0.11111 |0",
+			"previous_weights": " TCAS|0 works|0.020833 in|0.041667 a|0.0625 coordinated|0.083333 manner|0.10417 so|0.125 when|0.14583 an|0.16667 RA|0.1875 is|0.20833 issued|0.22917 to|0.25 conflicting|0.27083 aircraft|0.29167 a|0.3125 required|0.33333 action|0.35417 i|0.375 e|0.39583 Climb|0.41667 Climb|0.4375 has|0.45833 to|0.47917 be|0.5 immediately|0.52083 performed|0.54167 by|0.5625 one|0.58333 of|0.60417 the|0.625 aircraft|0.64583 while|0.66667 the|0.6875 other|0.70833 one|0.72917 receives|0.75 a|0.77083 similar|0.79167 RA|0.8125 in|0.83333 the|0.85417 opposite|0.875 direction|0.89583 i|0.91667 e|0.9375 Descend|0.95833 Descend|0.97917 |1"
+		}
+	}
+}

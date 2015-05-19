@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97b03e766e8f285b5d512dabd49c899cf306e8f99ef179461565b4866d1b9366",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pomona_Valley.jpg/1200px-Pomona_Valley.jpg",
+			"previous": " The residents of the Pomona Valley are predominantly White and Latino In contrast to the San Gabriel Valley the population of Asian Americans is much smaller  The cities of Pomona Valley include ",
+			"after": " The Pomona Valley is served by freeways ",
+			"color": "black|0.37883 light|0.20535 slate|0.20535 gray|0.20535 slate|0.17694 gray|0.17694 dark|0.16336 gray|0.16336 dark|0.16336 grey|0.16336 gray|0.07356 grey|0.07356  ",
+			"after_weights": " The|1 Pomona|0.85714 Valley|0.71429 is|0.57143 served|0.42857 by|0.28571 freeways|0.14286 |0",
+			"previous_weights": " The|0 residents|0.030303 of|0.060606 the|0.090909 Pomona|0.12121 Valley|0.15152 are|0.18182 predominantly|0.21212 White|0.24242 and|0.27273 Latino|0.30303 In|0.33333 contrast|0.36364 to|0.39394 the|0.42424 San|0.45455 Gabriel|0.48485 Valley|0.51515 the|0.54545 population|0.57576 of|0.60606 Asian|0.63636 Americans|0.66667 is|0.69697 much|0.72727 smaller|0.75758 |0.78788 The|0.81818 cities|0.84848 of|0.87879 Pomona|0.90909 Valley|0.93939 include|0.9697 |1"
+		}
+	}
+}

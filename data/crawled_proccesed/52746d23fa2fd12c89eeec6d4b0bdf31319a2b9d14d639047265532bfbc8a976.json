@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52746d23fa2fd12c89eeec6d4b0bdf31319a2b9d14d639047265532bfbc8a976",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Royal_mail_bicycle_messenger_Ilminster.JPG/220px-Royal_mail_bicycle_messenger_Ilminster.JPG",
+			"previous": " ",
+			"after": " As of 2013 Royal Mail employs around 150 000 permanent postal workers 84 An additional 18 000 casual workers are employed during November and December to assist with the additional Christmas post 85 ",
+			"color": "black|0.3649 dim|0.25688 gray|0.25688 dim|0.25688 grey|0.25688 gray|0.093396 grey|0.093396 dark|0.038054 gray|0.038054 dark|0.038054 grey|0.038054 silver|0.027116 light|0.025289 gray|0.025289 light|0.025289 grey|0.025289 gainsboro|0.021502 maroon|0.011706 white|0.0093384 smoke|0.0093384 firebrick|0.0089253 linen|0.0085985 sea|0.0082321 shell|0.0082321 brown|0.0079692 rosy|0.0068626 brown|0.0068626 snow|0.006644 floral|0.0064856 white|0.0064856 dark|0.0060528 red|0.0060528  ",
+			"after_weights": " As|1 of|0.9697 2013|0.93939 Royal|0.90909 Mail|0.87879 employs|0.84848 around|0.81818 150|0.78788 000|0.75758 permanent|0.72727 postal|0.69697 workers|0.66667 84|0.63636 An|0.60606 additional|0.57576 18|0.54545 000|0.51515 casual|0.48485 workers|0.45455 are|0.42424 employed|0.39394 during|0.36364 November|0.33333 and|0.30303 December|0.27273 to|0.24242 assist|0.21212 with|0.18182 the|0.15152 additional|0.12121 Christmas|0.090909 post|0.060606 85|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8317cc64b50dbaf8b49e07a9b032539c06514a4d669a57b44802a3939ec18f90",
+			"url": "https://upload.wikimedia.org/math/7/9/e/79e817270abc06634a21dac22704a4fd.png",
+			"previous": " The instantaneous mechanical pushing pulling power delivered to the body from the powerplant is then where ",
+			"after": " where  The instantaneous mechanical pushing pulling power delivered to the body from the powerplant is then",
+			"color": "dim|0.35202 gray|0.35202 dim|0.35202 grey|0.35202 gray|0.28825 grey|0.28825 dark|0.19807 gray|0.19807 dark|0.19807 grey|0.19807 silver|0.078603 light|0.038514 gray|0.038514 light|0.038514 grey|0.038514 gainsboro|0.026813 white|0.0043326 smoke|0.0043326  ",
+			"after_weights": " where|1 |0.9375 The|0.875 instantaneous|0.8125 mechanical|0.75 pushing|0.6875 pulling|0.625 power|0.5625 delivered|0.5 to|0.4375 the|0.375 body|0.3125 from|0.25 the|0.1875 powerplant|0.125 is|0.0625 then|0",
+			"previous_weights": " The|0 instantaneous|0.0625 mechanical|0.125 pushing|0.1875 pulling|0.25 power|0.3125 delivered|0.375 to|0.4375 the|0.5 body|0.5625 from|0.625 the|0.6875 powerplant|0.75 is|0.8125 then|0.875 where|0.9375 |1"
+		}
+	}
+}

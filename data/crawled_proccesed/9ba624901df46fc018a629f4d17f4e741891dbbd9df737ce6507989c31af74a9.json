@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ba624901df46fc018a629f4d17f4e741891dbbd9df737ce6507989c31af74a9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CLSUjf.JPG/220px-CLSUjf.JPG",
+			"previous": " ",
+			"after": " Science museums and technology centers or technology museums revolve around scientific achievements and marvels and their history To explain complicated inventions a combination of demonstrations interactive programs and thought provoking media are used Some museums may have exhibits on topics such as computers aviation railway museums physics astronomy and the animal kingdom ",
+			"color": "gray|0.30525 grey|0.30525 dim|0.23547 gray|0.23547 dim|0.23547 grey|0.23547 dark|0.18005 olive|0.18005 green|0.18005 dark|0.069834 gray|0.069834 dark|0.069834 grey|0.069834 slate|0.050051 gray|0.050051 black|0.045366 dark|0.043864 slate|0.043864 gray|0.043864 silver|0.026747 light|0.014262 slate|0.014262 gray|0.014262 light|0.010158 gray|0.010158 light|0.010158 grey|0.010158  ",
+			"after_weights": " Science|1 museums|0.98077 and|0.96154 technology|0.94231 centers|0.92308 or|0.90385 technology|0.88462 museums|0.86538 revolve|0.84615 around|0.82692 scientific|0.80769 achievements|0.78846 and|0.76923 marvels|0.75 and|0.73077 their|0.71154 history|0.69231 To|0.67308 explain|0.65385 complicated|0.63462 inventions|0.61538 a|0.59615 combination|0.57692 of|0.55769 demonstrations|0.53846 interactive|0.51923 programs|0.5 and|0.48077 thought|0.46154 provoking|0.44231 media|0.42308 are|0.40385 used|0.38462 Some|0.36538 museums|0.34615 may|0.32692 have|0.30769 exhibits|0.28846 on|0.26923 topics|0.25 such|0.23077 as|0.21154 computers|0.19231 aviation|0.17308 railway|0.15385 museums|0.13462 physics|0.11538 astronomy|0.096154 and|0.076923 the|0.057692 animal|0.038462 kingdom|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

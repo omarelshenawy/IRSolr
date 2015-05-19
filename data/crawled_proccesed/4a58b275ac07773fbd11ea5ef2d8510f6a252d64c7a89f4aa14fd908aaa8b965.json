@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a58b275ac07773fbd11ea5ef2d8510f6a252d64c7a89f4aa14fd908aaa8b965",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geomagnetic_late_cenozoic.png/240px-Geomagnetic_late_cenozoic.png",
+			"previous": " Paleomagnetism is studied on a number of scales ",
+			"after": " The study of paleomagnetism is possible because iron bearing minerals such as magnetite may record past directions of the Earth s magnetic field Magnetic signatures in rocks can be recorded by several different mechanisms ",
+			"color": " ",
+			"after_weights": " The|1 study|0.97059 of|0.94118 paleomagnetism|0.91176 is|0.88235 possible|0.85294 because|0.82353 iron|0.79412 bearing|0.76471 minerals|0.73529 such|0.70588 as|0.67647 magnetite|0.64706 may|0.61765 record|0.58824 past|0.55882 directions|0.52941 of|0.5 the|0.47059 Earth|0.44118 s|0.41176 magnetic|0.38235 field|0.35294 Magnetic|0.32353 signatures|0.29412 in|0.26471 rocks|0.23529 can|0.20588 be|0.17647 recorded|0.14706 by|0.11765 several|0.088235 different|0.058824 mechanisms|0.029412 |0",
+			"previous_weights": " Paleomagnetism|0 is|0.125 studied|0.25 on|0.375 a|0.5 number|0.625 of|0.75 scales|0.875 |1"
+		}
+	}
+}

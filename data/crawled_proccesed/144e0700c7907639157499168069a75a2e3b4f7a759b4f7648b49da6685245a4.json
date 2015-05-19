@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "144e0700c7907639157499168069a75a2e3b4f7a759b4f7648b49da6685245a4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Southern_Appalachian_bog_May_2010.jpg/220px-Southern_Appalachian_bog_May_2010.jpg",
+			"previous": " ",
+			"after": " The northern and southern bog turtle populations are separated by a 400 kilometer 250 mi gap over much of Virginia which lacks bog turtle colonies 11 29 In both areas the bog turtle colonies tend to occupy widely scattered ranges 23 ",
+			"color": "dark|0.75775 olive|0.75775 green|0.75775 olive|0.21073 drab|0.21073 dim|0.0092347 gray|0.0092347 dim|0.0092347 grey|0.0092347 gray|0.0081827 grey|0.0081827  ",
+			"after_weights": " The|1 northern|0.97561 and|0.95122 southern|0.92683 bog|0.90244 turtle|0.87805 populations|0.85366 are|0.82927 separated|0.80488 by|0.78049 a|0.7561 400|0.73171 kilometer|0.70732 250|0.68293 mi|0.65854 gap|0.63415 over|0.60976 much|0.58537 of|0.56098 Virginia|0.53659 which|0.5122 lacks|0.4878 bog|0.46341 turtle|0.43902 colonies|0.41463 11|0.39024 29|0.36585 In|0.34146 both|0.31707 areas|0.29268 the|0.26829 bog|0.2439 turtle|0.21951 colonies|0.19512 tend|0.17073 to|0.14634 occupy|0.12195 widely|0.097561 scattered|0.073171 ranges|0.04878 23|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

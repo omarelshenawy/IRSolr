@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11bd40cb2ceaa2e7feaafa3302e0f282c2c06aa7aaf8ff78f19482f028c5d0ed",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Apple_Macintosh_Desktop.png/256px-Apple_Macintosh_Desktop.png",
+			"previous": " ",
+			"after": " The first microcomputers did not have the capacity or need for the elaborate operating systems that had been developed for mainframes and minis minimalistic operating systems were developed often loaded from ROM and known as monitors One notable early disk operating system was CP M which was supported on many early microcomputers and was closely imitated by Microsoft s MS DOS which became widely popular as the operating system chosen for the IBM PC IBM s version of it was called IBM DOS or PC DOS In the 80s Apple Computer Inc now Apple Inc abandoned its popular Apple II series of microcomputers to introduce the Apple Macintosh computer with an innovative Graphical User Interface GUI to the Mac OS ",
+			"color": " ",
+			"after_weights": " The|1 first|0.99167 microcomputers|0.98333 did|0.975 not|0.96667 have|0.95833 the|0.95 capacity|0.94167 or|0.93333 need|0.925 for|0.91667 the|0.90833 elaborate|0.9 operating|0.89167 systems|0.88333 that|0.875 had|0.86667 been|0.85833 developed|0.85 for|0.84167 mainframes|0.83333 and|0.825 minis|0.81667 minimalistic|0.80833 operating|0.8 systems|0.79167 were|0.78333 developed|0.775 often|0.76667 loaded|0.75833 from|0.75 ROM|0.74167 and|0.73333 known|0.725 as|0.71667 monitors|0.70833 One|0.7 notable|0.69167 early|0.68333 disk|0.675 operating|0.66667 system|0.65833 was|0.65 CP|0.64167 M|0.63333 which|0.625 was|0.61667 supported|0.60833 on|0.6 many|0.59167 early|0.58333 microcomputers|0.575 and|0.56667 was|0.55833 closely|0.55 imitated|0.54167 by|0.53333 Microsoft|0.525 s|0.51667 MS|0.50833 DOS|0.5 which|0.49167 became|0.48333 widely|0.475 popular|0.46667 as|0.45833 the|0.45 operating|0.44167 system|0.43333 chosen|0.425 for|0.41667 the|0.40833 IBM|0.4 PC|0.39167 IBM|0.38333 s|0.375 version|0.36667 of|0.35833 it|0.35 was|0.34167 called|0.33333 IBM|0.325 DOS|0.31667 or|0.30833 PC|0.3 DOS|0.29167 In|0.28333 the|0.275 80s|0.26667 Apple|0.25833 Computer|0.25 Inc|0.24167 now|0.23333 Apple|0.225 Inc|0.21667 abandoned|0.20833 its|0.2 popular|0.19167 Apple|0.18333 II|0.175 series|0.16667 of|0.15833 microcomputers|0.15 to|0.14167 introduce|0.13333 the|0.125 Apple|0.11667 Macintosh|0.10833 computer|0.1 with|0.091667 an|0.083333 innovative|0.075 Graphical|0.066667 User|0.058333 Interface|0.05 GUI|0.041667 to|0.033333 the|0.025 Mac|0.016667 OS|0.0083333 |0",
+			"previous_weights": " "
+		}
+	}
+}

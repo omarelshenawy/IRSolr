@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1975c19a0dce713f348f47ca8df141b5d7c8770b14ca233c3b1456d04a1b78f3",
+			"url": "https://upload.wikimedia.org/math/8/c/a/8ca53cf67667d5703a0224b1fb60668a.png",
+			"previous": " for example if two coins are flipped the chance of both being heads is 22  If two events A and B are independent then the joint probability is",
+			"after": " For example the chance of rolling a 1 or 2 on a six sided die is If the events are not mutually exclusive then",
+			"color": "dim|0.37341 gray|0.37341 dim|0.37341 grey|0.37341 gray|0.29037 grey|0.29037 dark|0.17892 gray|0.17892 dark|0.17892 grey|0.17892 silver|0.078857 light|0.038369 gray|0.038369 light|0.038369 grey|0.038369 gainsboro|0.026186 white|0.0036303 smoke|0.0036303  ",
+			"after_weights": " For|1 example|0.95652 the|0.91304 chance|0.86957 of|0.82609 rolling|0.78261 a|0.73913 1|0.69565 or|0.65217 2|0.6087 on|0.56522 a|0.52174 six|0.47826 sided|0.43478 die|0.3913 is|0.34783 If|0.30435 the|0.26087 events|0.21739 are|0.17391 not|0.13043 mutually|0.086957 exclusive|0.043478 then|0",
+			"previous_weights": " for|0 example|0.035714 if|0.071429 two|0.10714 coins|0.14286 are|0.17857 flipped|0.21429 the|0.25 chance|0.28571 of|0.32143 both|0.35714 being|0.39286 heads|0.42857 is|0.46429 22|0.5 |0.53571 If|0.57143 two|0.60714 events|0.64286 A|0.67857 and|0.71429 B|0.75 are|0.78571 independent|0.82143 then|0.85714 the|0.89286 joint|0.92857 probability|0.96429 is|1"
+		}
+	}
+}

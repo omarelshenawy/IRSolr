@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "696a6639e99b5186696d35a42cb3f34c558d39cf958d77501f423b4ce5c131b1",
+			"url": "https://upload.wikimedia.org/math/e/2/0/e20a6fcf3531116b3aea0187d783fa7c.png",
+			"previous": " This equation has solutions only if the determinant A I equals zero which yields the characteristic polynomial ",
+			"after": " with the roots 1 2 and 3  Associated with the roots 1 2 and 3 are the respective eigenvectors ",
+			"color": "dim|0.37292 gray|0.37292 dim|0.37292 grey|0.37292 gray|0.27399 grey|0.27399 dark|0.17505 gray|0.17505 dark|0.17505 grey|0.17505 silver|0.087594 light|0.046137 gray|0.046137 light|0.046137 grey|0.046137 gainsboro|0.032539  ",
+			"after_weights": " with|1 the|0.95 roots|0.9 1|0.85 2|0.8 and|0.75 3|0.7 |0.65 Associated|0.6 with|0.55 the|0.5 roots|0.45 1|0.4 2|0.35 and|0.3 3|0.25 are|0.2 the|0.15 respective|0.1 eigenvectors|0.05 |0",
+			"previous_weights": " This|0 equation|0.058824 has|0.11765 solutions|0.17647 only|0.23529 if|0.29412 the|0.35294 determinant|0.41176 A|0.47059 I|0.52941 equals|0.58824 zero|0.64706 which|0.70588 yields|0.76471 the|0.82353 characteristic|0.88235 polynomial|0.94118 |1"
+		}
+	}
+}

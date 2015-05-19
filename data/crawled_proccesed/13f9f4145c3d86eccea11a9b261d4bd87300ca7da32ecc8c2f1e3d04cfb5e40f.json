@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "13f9f4145c3d86eccea11a9b261d4bd87300ca7da32ecc8c2f1e3d04cfb5e40f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Germany_location_map.svg/300px-Germany_location_map.svg.png",
+			"previous": " The Uppsala DLR Trojan Survey UDTS was a search for asteroids near Jupiter in the 1990s in collaboration with the Swedish Uppsala Astronomical Observatory When it concluded there was another survey the UAO DLR Asteroid Survey this time with a focus on Near Earth asteroids and both surveys discovered numerous objects ",
+			"after": " DLR is present in Germany at fourteen locations  Augsburg",
+			"color": "antique|0.1019 white|0.1019 linen|0.1009 beige|0.10079 old|0.10039 lace|0.10039 papaya|0.097337 whip|0.097337 floral|0.097322 white|0.097322 ivory|0.097018 corn|0.096971 silk|0.096971 honeydew|0.096656 light|0.094474 yellow|0.094474 gainsboro|0.0071277 light|0.0044309 gray|0.0044309 light|0.0044309 grey|0.0044309 sea|0.0025968 shell|0.0025968  ",
+			"after_weights": " DLR|1 is|0.88889 present|0.77778 in|0.66667 Germany|0.55556 at|0.44444 fourteen|0.33333 locations|0.22222 |0.11111 Augsburg|0",
+			"previous_weights": " The|0 Uppsala|0.019608 DLR|0.039216 Trojan|0.058824 Survey|0.078431 UDTS|0.098039 was|0.11765 a|0.13725 search|0.15686 for|0.17647 asteroids|0.19608 near|0.21569 Jupiter|0.23529 in|0.2549 the|0.27451 1990s|0.29412 in|0.31373 collaboration|0.33333 with|0.35294 the|0.37255 Swedish|0.39216 Uppsala|0.41176 Astronomical|0.43137 Observatory|0.45098 When|0.47059 it|0.4902 concluded|0.5098 there|0.52941 was|0.54902 another|0.56863 survey|0.58824 the|0.60784 UAO|0.62745 DLR|0.64706 Asteroid|0.66667 Survey|0.68627 this|0.70588 time|0.72549 with|0.7451 a|0.76471 focus|0.78431 on|0.80392 Near|0.82353 Earth|0.84314 asteroids|0.86275 and|0.88235 both|0.90196 surveys|0.92157 discovered|0.94118 numerous|0.96078 objects|0.98039 |1"
+		}
+	}
+}

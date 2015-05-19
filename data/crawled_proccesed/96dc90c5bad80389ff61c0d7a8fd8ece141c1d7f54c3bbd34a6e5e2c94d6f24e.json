@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "96dc90c5bad80389ff61c0d7a8fd8ece141c1d7f54c3bbd34a6e5e2c94d6f24e",
+			"url": "https://upload.wikimedia.org/math/9/2/b/92b695027a2ab5b29bc3b2e6f4ac233b.png",
+			"previous": " For example if J y is a functional with the function y y x as its argument and there is a small change in its argument from y to y h where h h x is a function in the same function space as y then the corresponding change in the functional is",
+			"after": " The functional J y is said to be differentiable if",
+			"color": "dim|0.32202 gray|0.32202 dim|0.32202 grey|0.32202 gray|0.25856 grey|0.25856 dark|0.17113 gray|0.17113 dark|0.17113 grey|0.17113 silver|0.087511 light|0.053077 gray|0.053077 light|0.053077 grey|0.053077 gainsboro|0.040345 white|0.014074 smoke|0.014074 lavender|0.0081942 blush|0.0081942 alice|0.0068693 blue|0.0068693 linen|0.0068347 ghost|0.0066618 white|0.0066618 sea|0.0065868 shell|0.0065868 snow|0.0065505 white|0.0045113 mint|0.0029389 cream|0.0029389  ",
+			"after_weights": " The|1 functional|0.88889 J|0.77778 y|0.66667 is|0.55556 said|0.44444 to|0.33333 be|0.22222 differentiable|0.11111 if|0",
+			"previous_weights": " For|0 example|0.019231 if|0.038462 J|0.057692 y|0.076923 is|0.096154 a|0.11538 functional|0.13462 with|0.15385 the|0.17308 function|0.19231 y|0.21154 y|0.23077 x|0.25 as|0.26923 its|0.28846 argument|0.30769 and|0.32692 there|0.34615 is|0.36538 a|0.38462 small|0.40385 change|0.42308 in|0.44231 its|0.46154 argument|0.48077 from|0.5 y|0.51923 to|0.53846 y|0.55769 h|0.57692 where|0.59615 h|0.61538 h|0.63462 x|0.65385 is|0.67308 a|0.69231 function|0.71154 in|0.73077 the|0.75 same|0.76923 function|0.78846 space|0.80769 as|0.82692 y|0.84615 then|0.86538 the|0.88462 corresponding|0.90385 change|0.92308 in|0.94231 the|0.96154 functional|0.98077 is|1"
+		}
+	}
+}

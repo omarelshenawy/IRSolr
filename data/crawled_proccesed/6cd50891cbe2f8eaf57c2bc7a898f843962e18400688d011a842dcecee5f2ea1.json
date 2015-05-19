@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cd50891cbe2f8eaf57c2bc7a898f843962e18400688d011a842dcecee5f2ea1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Busan_Tower_360_Degree_Panorama_001.jpg/1200px-Busan_Tower_360_Degree_Panorama_001.jpg",
+			"previous": " In 1995 Busan became a Metropolitan City Gwangyeoksi  In 1963 Busan separated from Gyeongsangnam do to become a Directly Governed City Jikhalsi In 1983 the provincial capitol of Gyeongsangnam do was moved from Busan to Changwon ",
+			"after": " ",
+			"color": "dim|0.23175 gray|0.23175 dim|0.23175 grey|0.23175 gray|0.19036 grey|0.19036 dark|0.15406 slate|0.15406 gray|0.15406 dark|0.13327 gray|0.13327 dark|0.13327 grey|0.13327 slate|0.068353 gray|0.068353 light|0.058281 slate|0.058281 gray|0.058281 silver|0.036158 black|0.032971 light|0.010258 gray|0.010258 light|0.010258 grey|0.010258 cadet|0.0076751 blue|0.0076751  ",
+			"after_weights": " ",
+			"previous_weights": " In|0 1995|0.027027 Busan|0.054054 became|0.081081 a|0.10811 Metropolitan|0.13514 City|0.16216 Gwangyeoksi|0.18919 |0.21622 In|0.24324 1963|0.27027 Busan|0.2973 separated|0.32432 from|0.35135 Gyeongsangnam|0.37838 do|0.40541 to|0.43243 become|0.45946 a|0.48649 Directly|0.51351 Governed|0.54054 City|0.56757 Jikhalsi|0.59459 In|0.62162 1983|0.64865 the|0.67568 provincial|0.7027 capitol|0.72973 of|0.75676 Gyeongsangnam|0.78378 do|0.81081 was|0.83784 moved|0.86486 from|0.89189 Busan|0.91892 to|0.94595 Changwon|0.97297 |1"
+		}
+	}
+}

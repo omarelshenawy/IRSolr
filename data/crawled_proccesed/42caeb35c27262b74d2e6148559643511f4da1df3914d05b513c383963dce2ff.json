@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42caeb35c27262b74d2e6148559643511f4da1df3914d05b513c383963dce2ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beaver_signs.JPG/220px-Beaver_signs.JPG",
+			"previous": " ",
+			"after": " The habitat of the beaver is the riparian zone inclusive of stream bed The actions of beavers for hundreds of thousands of years not specific enough to verify in the Northern Hemisphere have kept these watery systems healthy and in good repair although a human observing all the downed trees might think that the beavers were doing just the opposite ",
+			"color": "dim|0.35017 gray|0.35017 dim|0.35017 grey|0.35017 gray|0.25914 grey|0.25914 dark|0.087535 gray|0.087535 dark|0.087535 grey|0.087535 light|0.069865 slate|0.069865 gray|0.069865 slate|0.063119 gray|0.063119 black|0.036002 silver|0.03129 light|0.02398 steel|0.02398 blue|0.02398 light|0.017575 gray|0.017575 light|0.017575 grey|0.017575 lavender|0.015629 gainsboro|0.011928 light|0.0064196 blue|0.0064196  ",
+			"after_weights": " The|1 habitat|0.98333 of|0.96667 the|0.95 beaver|0.93333 is|0.91667 the|0.9 riparian|0.88333 zone|0.86667 inclusive|0.85 of|0.83333 stream|0.81667 bed|0.8 The|0.78333 actions|0.76667 of|0.75 beavers|0.73333 for|0.71667 hundreds|0.7 of|0.68333 thousands|0.66667 of|0.65 years|0.63333 not|0.61667 specific|0.6 enough|0.58333 to|0.56667 verify|0.55 in|0.53333 the|0.51667 Northern|0.5 Hemisphere|0.48333 have|0.46667 kept|0.45 these|0.43333 watery|0.41667 systems|0.4 healthy|0.38333 and|0.36667 in|0.35 good|0.33333 repair|0.31667 although|0.3 a|0.28333 human|0.26667 observing|0.25 all|0.23333 the|0.21667 downed|0.2 trees|0.18333 might|0.16667 think|0.15 that|0.13333 the|0.11667 beavers|0.1 were|0.083333 doing|0.066667 just|0.05 the|0.033333 opposite|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

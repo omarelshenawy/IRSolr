@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3680f2e7b051d512c288b052b34dd6abf525fa3d76d9c740044ef8779c01b49d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/12-05-08_AS1.JPG/220px-12-05-08_AS1.JPG",
+			"previous": " ",
+			"after": " Many renewable energy sources most notably solar and wind produce intermittent power 2 Wherever intermittent power sources reach high levels of grid penetration energy storage becomes one option to provide reliable energy supplies Individual energy storage projects augment electrical grids by capturing excess electrical energy during periods of low demand and storing it in other forms until needed on an electrical grid The energy is later converted back to its electrical form and returned to the grid as needed ",
+			"color": "dim|0.4824 gray|0.4824 dim|0.4824 grey|0.4824 gray|0.33379 grey|0.33379 dark|0.087466 gray|0.087466 dark|0.087466 grey|0.087466 silver|0.04166 slate|0.025951 gray|0.025951 dark|0.014674 slate|0.014674 gray|0.014674  ",
+			"after_weights": " Many|1 renewable|0.98734 energy|0.97468 sources|0.96203 most|0.94937 notably|0.93671 solar|0.92405 and|0.91139 wind|0.89873 produce|0.88608 intermittent|0.87342 power|0.86076 2|0.8481 Wherever|0.83544 intermittent|0.82278 power|0.81013 sources|0.79747 reach|0.78481 high|0.77215 levels|0.75949 of|0.74684 grid|0.73418 penetration|0.72152 energy|0.70886 storage|0.6962 becomes|0.68354 one|0.67089 option|0.65823 to|0.64557 provide|0.63291 reliable|0.62025 energy|0.60759 supplies|0.59494 Individual|0.58228 energy|0.56962 storage|0.55696 projects|0.5443 augment|0.53165 electrical|0.51899 grids|0.50633 by|0.49367 capturing|0.48101 excess|0.46835 electrical|0.4557 energy|0.44304 during|0.43038 periods|0.41772 of|0.40506 low|0.39241 demand|0.37975 and|0.36709 storing|0.35443 it|0.34177 in|0.32911 other|0.31646 forms|0.3038 until|0.29114 needed|0.27848 on|0.26582 an|0.25316 electrical|0.24051 grid|0.22785 The|0.21519 energy|0.20253 is|0.18987 later|0.17722 converted|0.16456 back|0.1519 to|0.13924 its|0.12658 electrical|0.11392 form|0.10127 and|0.088608 returned|0.075949 to|0.063291 the|0.050633 grid|0.037975 as|0.025316 needed|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

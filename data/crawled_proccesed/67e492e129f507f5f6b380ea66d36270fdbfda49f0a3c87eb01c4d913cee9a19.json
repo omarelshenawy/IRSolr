@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "67e492e129f507f5f6b380ea66d36270fdbfda49f0a3c87eb01c4d913cee9a19",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/IBERIA_Boeing_747-256B%28SCD%29_%28EC-DLD22455515%29.jpg/220px-IBERIA_Boeing_747-256B%28SCD%29_%28EC-DLD22455515%29.jpg",
+			"previous": " In 1974 it launched Europe s first walk on shuttle service linking Madrid and Barcelona That year it established the Serviberia telephone information service the precursor of today s popular call centres as well as the Red Jackets uniformed ground staff with the mission of providing special service to customers and to resolve any problems that might arise ",
+			"after": " ",
+			"color": "silver|0.15281 light|0.1438 steel|0.1438 blue|0.1438 light|0.12545 gray|0.12545 light|0.12545 grey|0.12545 gainsboro|0.10115 dark|0.07949 gray|0.07949 dark|0.07949 grey|0.07949 lavender|0.061709 white|0.038929 smoke|0.038929 ghost|0.032046 white|0.032046 alice|0.031971 blue|0.031971 black|0.030084 lavender|0.026378 blush|0.026378 snow|0.024588 sea|0.020447 shell|0.020447 white|0.020211 gray|0.018728 grey|0.018728 dim|0.016134 gray|0.016134 dim|0.016134 grey|0.016134 mint|0.014321 cream|0.014321 linen|0.013072 floral|0.012658 white|0.012658 azure|0.012073  ",
+			"after_weights": " ",
+			"previous_weights": " In|0 1974|0.017241 it|0.034483 launched|0.051724 Europe|0.068966 s|0.086207 first|0.10345 walk|0.12069 on|0.13793 shuttle|0.15517 service|0.17241 linking|0.18966 Madrid|0.2069 and|0.22414 Barcelona|0.24138 That|0.25862 year|0.27586 it|0.2931 established|0.31034 the|0.32759 Serviberia|0.34483 telephone|0.36207 information|0.37931 service|0.39655 the|0.41379 precursor|0.43103 of|0.44828 today|0.46552 s|0.48276 popular|0.5 call|0.51724 centres|0.53448 as|0.55172 well|0.56897 as|0.58621 the|0.60345 Red|0.62069 Jackets|0.63793 uniformed|0.65517 ground|0.67241 staff|0.68966 with|0.7069 the|0.72414 mission|0.74138 of|0.75862 providing|0.77586 special|0.7931 service|0.81034 to|0.82759 customers|0.84483 and|0.86207 to|0.87931 resolve|0.89655 any|0.91379 problems|0.93103 that|0.94828 might|0.96552 arise|0.98276 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f9e65cb56fc9252f302221a83bb53e69c2f093c7f467d0b34803defc8d962f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/B18AwingsMus.jpg/220px-B18AwingsMus.jpg",
+			"previous": "  Note Most aircraft destroyed 7 8 December 1941 at outbreak of World War II",
+			"after": " Only five B 18s still exist preserved or under restoration in museums in the United States 11  Data from McDonnell Douglas Aircraft since 1920 17 ",
+			"color": "black|0.58784 dim|0.20736 gray|0.20736 dim|0.20736 grey|0.20736 gray|0.075006 grey|0.075006 dark|0.033499 gray|0.033499 dark|0.033499 grey|0.033499 midnight|0.014251 blue|0.014251 silver|0.012104 slate|0.010685 gray|0.010685 light|0.0089825 slate|0.0089825 gray|0.0089825  ",
+			"after_weights": " Only|1 five|0.96154 B|0.92308 18s|0.88462 still|0.84615 exist|0.80769 preserved|0.76923 or|0.73077 under|0.69231 restoration|0.65385 in|0.61538 museums|0.57692 in|0.53846 the|0.5 United|0.46154 States|0.42308 11|0.38462 |0.34615 Data|0.30769 from|0.26923 McDonnell|0.23077 Douglas|0.19231 Aircraft|0.15385 since|0.11538 1920|0.076923 17|0.038462 |0",
+			"previous_weights": " |0 Note|0.071429 Most|0.14286 aircraft|0.21429 destroyed|0.28571 7|0.35714 8|0.42857 December|0.5 1941|0.57143 at|0.64286 outbreak|0.71429 of|0.78571 World|0.85714 War|0.92857 II|1"
+		}
+	}
+}

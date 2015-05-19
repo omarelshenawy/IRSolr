@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fbe0c51c242c398225796ab2faf3652a97fce121e2f0c49e150c5a97f401d28",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/YorkMinsterWest.jpg/140px-YorkMinsterWest.jpg",
+			"previous": " ",
+			"after": " In the weeks immediately leading up to the Battle of Hastings in 1066 AD Harold II of England was distracted by events in Yorkshire His brother Tostig and Harold Hardrada King of Norway attempted a takeover in the north having won the Battle of Fulford The King of England marched North where the two armies met at the Battle of Stamford Bridge Tostig and Hardrada were both killed and their army was defeated decisively However Harold Godwinson was forced immediately to march his army back down to the South where William the Conqueror was landing The King was defeated at Hastings which led to the Norman conquest of England ",
+			"color": "dim|0.44843 gray|0.44843 dim|0.44843 grey|0.44843 gray|0.35896 grey|0.35896 dark|0.11741 gray|0.11741 dark|0.11741 grey|0.11741 black|0.018553 slate|0.017003 gray|0.017003 light|0.013581 slate|0.013581 gray|0.013581 silver|0.010917 dark|0.010691 slate|0.010691 gray|0.010691  ",
+			"after_weights": " In|1 the|0.99083 weeks|0.98165 immediately|0.97248 leading|0.9633 up|0.95413 to|0.94495 the|0.93578 Battle|0.92661 of|0.91743 Hastings|0.90826 in|0.89908 1066|0.88991 AD|0.88073 Harold|0.87156 II|0.86239 of|0.85321 England|0.84404 was|0.83486 distracted|0.82569 by|0.81651 events|0.80734 in|0.79817 Yorkshire|0.78899 His|0.77982 brother|0.77064 Tostig|0.76147 and|0.75229 Harold|0.74312 Hardrada|0.73394 King|0.72477 of|0.7156 Norway|0.70642 attempted|0.69725 a|0.68807 takeover|0.6789 in|0.66972 the|0.66055 north|0.65138 having|0.6422 won|0.63303 the|0.62385 Battle|0.61468 of|0.6055 Fulford|0.59633 The|0.58716 King|0.57798 of|0.56881 England|0.55963 marched|0.55046 North|0.54128 where|0.53211 the|0.52294 two|0.51376 armies|0.50459 met|0.49541 at|0.48624 the|0.47706 Battle|0.46789 of|0.45872 Stamford|0.44954 Bridge|0.44037 Tostig|0.43119 and|0.42202 Hardrada|0.41284 were|0.40367 both|0.3945 killed|0.38532 and|0.37615 their|0.36697 army|0.3578 was|0.34862 defeated|0.33945 decisively|0.33028 However|0.3211 Harold|0.31193 Godwinson|0.30275 was|0.29358 forced|0.2844 immediately|0.27523 to|0.26606 march|0.25688 his|0.24771 army|0.23853 back|0.22936 down|0.22018 to|0.21101 the|0.20183 South|0.19266 where|0.18349 William|0.17431 the|0.16514 Conqueror|0.15596 was|0.14679 landing|0.13761 The|0.12844 King|0.11927 was|0.11009 defeated|0.10092 at|0.091743 Hastings|0.082569 which|0.073394 led|0.06422 to|0.055046 the|0.045872 Norman|0.036697 conquest|0.027523 of|0.018349 England|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f6868509bdeb05f308ac93744146d64727a3fa2790082e99f859e1524607d63",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Private.b737-800.oe-ilx.arp.jpg/220px-Private.b737-800.oe-ilx.arp.jpg",
+			"previous": " Airliners are sometimes converted into luxury business jets Such converted aircraft are often used by celebrities with a large entourage or press corps or by sports teams but such airplanes often face operational restrictions based on runway length or local noise restrictions ",
+			"after": " ",
+			"color": "dark|0.40297 olive|0.40297 green|0.40297 dim|0.070405 gray|0.070405 dim|0.070405 grey|0.070405 black|0.055293 white|0.032772 smoke|0.032772 snow|0.028891 sea|0.028525 shell|0.028525 gray|0.027994 grey|0.027994 white|0.027549 mint|0.026656 cream|0.026656 floral|0.026391 white|0.026391 ghost|0.026018 white|0.026018 light|0.025922 gray|0.025922 light|0.025922 grey|0.025922 alice|0.024929 blue|0.024929 silver|0.024334 gainsboro|0.023931 azure|0.022472 dark|0.020026 gray|0.020026 dark|0.020026 grey|0.020026 lavender|0.017479 blush|0.017479 linen|0.013793 light|0.012372 slate|0.012372 gray|0.012372 ivory|0.010289 slate|0.010007 gray|0.010007 dark|0.0087838 slate|0.0087838 gray|0.0087838  ",
+			"after_weights": " ",
+			"previous_weights": " Airliners|0 are|0.02381 sometimes|0.047619 converted|0.071429 into|0.095238 luxury|0.11905 business|0.14286 jets|0.16667 Such|0.19048 converted|0.21429 aircraft|0.2381 are|0.2619 often|0.28571 used|0.30952 by|0.33333 celebrities|0.35714 with|0.38095 a|0.40476 large|0.42857 entourage|0.45238 or|0.47619 press|0.5 corps|0.52381 or|0.54762 by|0.57143 sports|0.59524 teams|0.61905 but|0.64286 such|0.66667 airplanes|0.69048 often|0.71429 face|0.7381 operational|0.7619 restrictions|0.78571 based|0.80952 on|0.83333 runway|0.85714 length|0.88095 or|0.90476 local|0.92857 noise|0.95238 restrictions|0.97619 |1"
+		}
+	}
+}

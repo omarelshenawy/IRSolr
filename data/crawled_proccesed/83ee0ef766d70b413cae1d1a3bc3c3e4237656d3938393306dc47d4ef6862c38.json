@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "83ee0ef766d70b413cae1d1a3bc3c3e4237656d3938393306dc47d4ef6862c38",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Luxury_Car_2.jpg/220px-Luxury_Car_2.jpg",
+			"previous": " ",
+			"after": " There are over 1 billion bicycles in use worldwide 22 According to 2002 estimates there are around 590 million cars in service in the world and 205 million motorcycles 23 24 The most popular vehicle model in history is the Chinese Flying Pigeon bicycle with on the order of 500 million in service 25 The most popular motor vehicle is the Honda Super Cub motorcycle having passed 60 million units in 2008 26 27 The top selling car in history is the Toyota Corolla with at least 35 million produced 28 29 ",
+			"color": "dim|0.26719 gray|0.26719 dim|0.26719 grey|0.26719 black|0.20404 gray|0.15463 grey|0.15463 dark|0.14516 gray|0.14516 dark|0.14516 grey|0.14516 light|0.068483 slate|0.068483 gray|0.068483 slate|0.044416 gray|0.044416 silver|0.035394 dark|0.020986 slate|0.020986 gray|0.020986 light|0.0137 gray|0.0137 light|0.0137 grey|0.0137 gainsboro|0.0090824  ",
+			"after_weights": " There|1 are|0.98913 over|0.97826 1|0.96739 billion|0.95652 bicycles|0.94565 in|0.93478 use|0.92391 worldwide|0.91304 22|0.90217 According|0.8913 to|0.88043 2002|0.86957 estimates|0.8587 there|0.84783 are|0.83696 around|0.82609 590|0.81522 million|0.80435 cars|0.79348 in|0.78261 service|0.77174 in|0.76087 the|0.75 world|0.73913 and|0.72826 205|0.71739 million|0.70652 motorcycles|0.69565 23|0.68478 24|0.67391 The|0.66304 most|0.65217 popular|0.6413 vehicle|0.63043 model|0.61957 in|0.6087 history|0.59783 is|0.58696 the|0.57609 Chinese|0.56522 Flying|0.55435 Pigeon|0.54348 bicycle|0.53261 with|0.52174 on|0.51087 the|0.5 order|0.48913 of|0.47826 500|0.46739 million|0.45652 in|0.44565 service|0.43478 25|0.42391 The|0.41304 most|0.40217 popular|0.3913 motor|0.38043 vehicle|0.36957 is|0.3587 the|0.34783 Honda|0.33696 Super|0.32609 Cub|0.31522 motorcycle|0.30435 having|0.29348 passed|0.28261 60|0.27174 million|0.26087 units|0.25 in|0.23913 2008|0.22826 26|0.21739 27|0.20652 The|0.19565 top|0.18478 selling|0.17391 car|0.16304 in|0.15217 history|0.1413 is|0.13043 the|0.11957 Toyota|0.1087 Corolla|0.097826 with|0.086957 at|0.076087 least|0.065217 35|0.054348 million|0.043478 produced|0.032609 28|0.021739 29|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

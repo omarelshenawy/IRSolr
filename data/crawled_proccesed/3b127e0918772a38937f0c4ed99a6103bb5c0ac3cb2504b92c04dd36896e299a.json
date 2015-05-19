@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b127e0918772a38937f0c4ed99a6103bb5c0ac3cb2504b92c04dd36896e299a",
+			"url": "https://upload.wikimedia.org/math/5/3/b/53b34a2ecaacf2761e0ae41f6d10f35f.png",
+			"previous": " The present value of the annuity PVA is obtained by simply dividing by ",
+			"after": " Another simple and intuitive way to derive the future value of an annuity is to consider an endowment whose interest is paid as the annuity and whose principal remains constant The principal of this hypothetical endowment can be computed as that whose interest equals the annuity payment amount ",
+			"color": "dim|0.38228 gray|0.38228 dim|0.38228 grey|0.38228 gray|0.28019 grey|0.28019 dark|0.17811 gray|0.17811 dark|0.17811 grey|0.17811 silver|0.076586 light|0.038691 gray|0.038691 light|0.038691 grey|0.038691 gainsboro|0.027126 white|0.0042193 smoke|0.0042193  ",
+			"after_weights": " Another|1 simple|0.97917 and|0.95833 intuitive|0.9375 way|0.91667 to|0.89583 derive|0.875 the|0.85417 future|0.83333 value|0.8125 of|0.79167 an|0.77083 annuity|0.75 is|0.72917 to|0.70833 consider|0.6875 an|0.66667 endowment|0.64583 whose|0.625 interest|0.60417 is|0.58333 paid|0.5625 as|0.54167 the|0.52083 annuity|0.5 and|0.47917 whose|0.45833 principal|0.4375 remains|0.41667 constant|0.39583 The|0.375 principal|0.35417 of|0.33333 this|0.3125 hypothetical|0.29167 endowment|0.27083 can|0.25 be|0.22917 computed|0.20833 as|0.1875 that|0.16667 whose|0.14583 interest|0.125 equals|0.10417 the|0.083333 annuity|0.0625 payment|0.041667 amount|0.020833 |0",
+			"previous_weights": " The|0 present|0.076923 value|0.15385 of|0.23077 the|0.30769 annuity|0.38462 PVA|0.46154 is|0.53846 obtained|0.61538 by|0.69231 simply|0.76923 dividing|0.84615 by|0.92308 |1"
+		}
+	}
+}

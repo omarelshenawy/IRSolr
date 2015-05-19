@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d702cc03485d7e0a0b86ae5fea327cf5141a2cf604cf7ef39c1e31581682d29",
+			"url": "https://upload.wikimedia.org/math/6/a/6/6a6a11d6cd4983866cda7439d3069240.png",
+			"previous": " where the coefficients A B C etc may depend upon x and y If over a region of the xy plane the PDE is second order in that region This form is analogous to the equation for a conic section ",
+			"after": " More precisely replacing x by X and likewise for other variables formally this is done by a Fourier transform converts a constant coefficient PDE into a polynomial of the same degree with the top degree a homogeneous polynomial here a quadratic form being most significant for the classification ",
+			"color": "dim|0.39522 gray|0.39522 dim|0.39522 grey|0.39522 gray|0.28149 grey|0.28149 dark|0.1699 gray|0.1699 dark|0.1699 grey|0.1699 silver|0.072394 light|0.03596 gray|0.03596 light|0.03596 grey|0.03596 gainsboro|0.025162 white|0.0047771 smoke|0.0047771  ",
+			"after_weights": " More|1 precisely|0.97917 replacing|0.95833 x|0.9375 by|0.91667 X|0.89583 and|0.875 likewise|0.85417 for|0.83333 other|0.8125 variables|0.79167 formally|0.77083 this|0.75 is|0.72917 done|0.70833 by|0.6875 a|0.66667 Fourier|0.64583 transform|0.625 converts|0.60417 a|0.58333 constant|0.5625 coefficient|0.54167 PDE|0.52083 into|0.5 a|0.47917 polynomial|0.45833 of|0.4375 the|0.41667 same|0.39583 degree|0.375 with|0.35417 the|0.33333 top|0.3125 degree|0.29167 a|0.27083 homogeneous|0.25 polynomial|0.22917 here|0.20833 a|0.1875 quadratic|0.16667 form|0.14583 being|0.125 most|0.10417 significant|0.083333 for|0.0625 the|0.041667 classification|0.020833 |0",
+			"previous_weights": " where|0 the|0.025 coefficients|0.05 A|0.075 B|0.1 C|0.125 etc|0.15 may|0.175 depend|0.2 upon|0.225 x|0.25 and|0.275 y|0.3 If|0.325 over|0.35 a|0.375 region|0.4 of|0.425 the|0.45 xy|0.475 plane|0.5 the|0.525 PDE|0.55 is|0.575 second|0.6 order|0.625 in|0.65 that|0.675 region|0.7 This|0.725 form|0.75 is|0.775 analogous|0.8 to|0.825 the|0.85 equation|0.875 for|0.9 a|0.925 conic|0.95 section|0.975 |1"
+		}
+	}
+}

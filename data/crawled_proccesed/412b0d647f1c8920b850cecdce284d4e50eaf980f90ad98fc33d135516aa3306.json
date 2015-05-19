@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "412b0d647f1c8920b850cecdce284d4e50eaf980f90ad98fc33d135516aa3306",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fotothek_df_roe-neg_0002629_002_Tr%C3%BCmmerbeseitigung.jpg/275px-Fotothek_df_roe-neg_0002629_002_Tr%C3%BCmmerbeseitigung.jpg",
+			"previous": " The city s mayor from 1930 to 1937 Carl Friedrich Goerdeler was a noted opponent of the Nazi regime in Germany He resigned in 1937 when in his absence his Nazi deputy ordered the destruction of the city s statue of Felix Mendelssohn On Kristallnacht in 1938 one of the city s most architecturally significant buildings the 1855 Moorish Revival Leipzig synagogue was deliberately destroyed ",
+			"after": " Several thousand forced laborers were stationed in Leipzig during World War II ",
+			"color": "gray|0.37832 grey|0.37832 dim|0.31611 gray|0.31611 dim|0.31611 grey|0.31611 dark|0.1598 gray|0.1598 dark|0.1598 grey|0.1598 black|0.040289 silver|0.031662 light|0.006831 gray|0.006831 light|0.006831 grey|0.006831 white|0.0065295 smoke|0.0065295 alice|0.0063535 blue|0.0063535 ghost|0.0063509 white|0.0063509 snow|0.0063438 sea|0.0063303 shell|0.0063303 white|0.0063129 mint|0.0062892 cream|0.0062892 floral|0.0062421 white|0.0062421 azure|0.0062136 lavender|0.0060133 blush|0.0060133 gainsboro|0.0035033  ",
+			"after_weights": " Several|1 thousand|0.91667 forced|0.83333 laborers|0.75 were|0.66667 stationed|0.58333 in|0.5 Leipzig|0.41667 during|0.33333 World|0.25 War|0.16667 II|0.083333 |0",
+			"previous_weights": " The|0 city|0.015385 s|0.030769 mayor|0.046154 from|0.061538 1930|0.076923 to|0.092308 1937|0.10769 Carl|0.12308 Friedrich|0.13846 Goerdeler|0.15385 was|0.16923 a|0.18462 noted|0.2 opponent|0.21538 of|0.23077 the|0.24615 Nazi|0.26154 regime|0.27692 in|0.29231 Germany|0.30769 He|0.32308 resigned|0.33846 in|0.35385 1937|0.36923 when|0.38462 in|0.4 his|0.41538 absence|0.43077 his|0.44615 Nazi|0.46154 deputy|0.47692 ordered|0.49231 the|0.50769 destruction|0.52308 of|0.53846 the|0.55385 city|0.56923 s|0.58462 statue|0.6 of|0.61538 Felix|0.63077 Mendelssohn|0.64615 On|0.66154 Kristallnacht|0.67692 in|0.69231 1938|0.70769 one|0.72308 of|0.73846 the|0.75385 city|0.76923 s|0.78462 most|0.8 architecturally|0.81538 significant|0.83077 buildings|0.84615 the|0.86154 1855|0.87692 Moorish|0.89231 Revival|0.90769 Leipzig|0.92308 synagogue|0.93846 was|0.95385 deliberately|0.96923 destroyed|0.98462 |1"
+		}
+	}
+}

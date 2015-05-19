@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d2d411861fc176bba5c1fb8aa67edbca8a225d893116157c7cc95332362f906",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Henry_Clay%27s_law_office.jpg/220px-Henry_Clay%27s_law_office.jpg",
+			"previous": " ",
+			"after": " In November 1797 Clay relocated to Lexington Kentucky the growing town near where his family then resided in Woodford County He soon established a reputation for his legal skills and courtroom oratory 14 Some of his clients paid him with horses and others with land Clay came to own town lots and the Kentucky Hotel ",
+			"color": "dark|0.31491 gray|0.31491 dark|0.31491 grey|0.31491 gray|0.21757 grey|0.21757 dim|0.17806 gray|0.17806 dim|0.17806 grey|0.17806 black|0.092905 silver|0.06346 light|0.054564 slate|0.054564 gray|0.054564 slate|0.042232 gray|0.042232 rosy|0.015812 brown|0.015812 light|0.0098206 gray|0.0098206 light|0.0098206 grey|0.0098206  ",
+			"after_weights": " In|1 November|0.98182 1797|0.96364 Clay|0.94545 relocated|0.92727 to|0.90909 Lexington|0.89091 Kentucky|0.87273 the|0.85455 growing|0.83636 town|0.81818 near|0.8 where|0.78182 his|0.76364 family|0.74545 then|0.72727 resided|0.70909 in|0.69091 Woodford|0.67273 County|0.65455 He|0.63636 soon|0.61818 established|0.6 a|0.58182 reputation|0.56364 for|0.54545 his|0.52727 legal|0.50909 skills|0.49091 and|0.47273 courtroom|0.45455 oratory|0.43636 14|0.41818 Some|0.4 of|0.38182 his|0.36364 clients|0.34545 paid|0.32727 him|0.30909 with|0.29091 horses|0.27273 and|0.25455 others|0.23636 with|0.21818 land|0.2 Clay|0.18182 came|0.16364 to|0.14545 own|0.12727 town|0.10909 lots|0.090909 and|0.072727 the|0.054545 Kentucky|0.036364 Hotel|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

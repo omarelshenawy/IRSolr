@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e0a103a09c957109eb5bb269f4a70eb57fed2166e8d886228b22edd33761167",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/C-32.jpg/220px-C-32.jpg",
+			"previous": " The C 32 has better short field capacity than the VC 25 making it preferable when flying to locations without a runway long enough to accommodate the VC 25 ",
+			"after": " United States Air Force Air Mobility Command",
+			"color": "black|0.32999 dark|0.17009 gray|0.17009 dark|0.17009 grey|0.17009 gray|0.12326 grey|0.12326 dim|0.1119 gray|0.1119 dim|0.1119 grey|0.1119 silver|0.087921 light|0.041454 gray|0.041454 light|0.041454 grey|0.041454 light|0.031171 slate|0.031171 gray|0.031171 slate|0.030349 gray|0.030349 gainsboro|0.021101 dark|0.018312 slate|0.018312 gray|0.018312 steel|0.011922 blue|0.011922 dark|0.0075865 olive|0.0075865 green|0.0075865  ",
+			"after_weights": " United|1 States|0.83333 Air|0.66667 Force|0.5 Air|0.33333 Mobility|0.16667 Command|0",
+			"previous_weights": " The|0 C|0.034483 32|0.068966 has|0.10345 better|0.13793 short|0.17241 field|0.2069 capacity|0.24138 than|0.27586 the|0.31034 VC|0.34483 25|0.37931 making|0.41379 it|0.44828 preferable|0.48276 when|0.51724 flying|0.55172 to|0.58621 locations|0.62069 without|0.65517 a|0.68966 runway|0.72414 long|0.75862 enough|0.7931 to|0.82759 accommodate|0.86207 the|0.89655 VC|0.93103 25|0.96552 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72d50e91f8b9954621b6bed33a7e84d8325d648ca654de292970c1603d180886",
+			"url": "https://upload.wikimedia.org/math/c/2/4/c245e8eb55963762afe2557d6a0aaaae.png",
+			"previous": " The corresponding SFC is calculated as follows ",
+			"after": " At a given point on the Husk Plot SFC falls with decreasing ambient temperature e g increasing altitude or colder climate The basic reason why SFC increases with flight speed is the implied increase in ram drag ",
+			"color": "gray|0.33152 grey|0.33152 dim|0.28929 gray|0.28929 dim|0.28929 grey|0.28929 dark|0.21375 gray|0.21375 dark|0.21375 grey|0.21375 silver|0.083039 light|0.038692 gray|0.038692 light|0.038692 grey|0.038692 gainsboro|0.026787 white|0.0048079 smoke|0.0048079  ",
+			"after_weights": " At|1 a|0.97297 given|0.94595 point|0.91892 on|0.89189 the|0.86486 Husk|0.83784 Plot|0.81081 SFC|0.78378 falls|0.75676 with|0.72973 decreasing|0.7027 ambient|0.67568 temperature|0.64865 e|0.62162 g|0.59459 increasing|0.56757 altitude|0.54054 or|0.51351 colder|0.48649 climate|0.45946 The|0.43243 basic|0.40541 reason|0.37838 why|0.35135 SFC|0.32432 increases|0.2973 with|0.27027 flight|0.24324 speed|0.21622 is|0.18919 the|0.16216 implied|0.13514 increase|0.10811 in|0.081081 ram|0.054054 drag|0.027027 |0",
+			"previous_weights": " The|0 corresponding|0.14286 SFC|0.28571 is|0.42857 calculated|0.57143 as|0.71429 follows|0.85714 |1"
+		}
+	}
+}

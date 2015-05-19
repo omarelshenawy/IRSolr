@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78670609a9ff60aafaf5efb4032272e70da473cdea7df276e758c3c37a61aa02",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monmouth_Park.jpg/220px-Monmouth_Park.jpg",
+			"previous": "",
+			"after": " Livery stable or Livery yard Longeing US or lungeing UK Australasia informal US  Putting to BI hitching NA  Ridgling rig Silhouette or outline diagram",
+			"color": "dim|0.3119 gray|0.3119 dim|0.3119 grey|0.3119 dark|0.25107 olive|0.25107 green|0.25107 gray|0.10704 grey|0.10704 black|0.076011 dark|0.059687 gray|0.059687 dark|0.059687 grey|0.059687 silver|0.033097 dark|0.022782 slate|0.022782 gray|0.022782 light|0.020363 gray|0.020363 light|0.020363 grey|0.020363 sea|0.019183 green|0.019183 slate|0.013879 gray|0.013879 gainsboro|0.011364 light|0.01107 slate|0.01107 gray|0.01107 olive|0.0080457 drab|0.0080457  ",
+			"after_weights": " Livery|1 stable|0.96 or|0.92 Livery|0.88 yard|0.84 Longeing|0.8 US|0.76 or|0.72 lungeing|0.68 UK|0.64 Australasia|0.6 informal|0.56 US|0.52 |0.48 Putting|0.44 to|0.4 BI|0.36 hitching|0.32 NA|0.28 |0.24 Ridgling|0.2 rig|0.16 Silhouette|0.12 or|0.08 outline|0.04 diagram|0",
+			"previous_weights": ""
+		}
+	}
+}

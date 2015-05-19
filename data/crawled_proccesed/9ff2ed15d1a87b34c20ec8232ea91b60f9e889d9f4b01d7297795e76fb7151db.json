@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ff2ed15d1a87b34c20ec8232ea91b60f9e889d9f4b01d7297795e76fb7151db",
+			"url": "https://upload.wikimedia.org/math/1/a/8/1a852d0882c7563459f968b0b5e57ed1.png",
+			"previous": " The fundamental theorem is often employed to compute the definite integral of a function f for which an antiderivative F is known Specifically if f is a real valued continuous function on a b and F is an antiderivative of f in a b then",
+			"after": " The corollary assumes continuity on the whole interval This result is strengthened slightly in the following part of the theorem ",
+			"color": "dim|0.35238 gray|0.35238 dim|0.35238 grey|0.35238 gray|0.29808 grey|0.29808 dark|0.19207 gray|0.19207 dark|0.19207 grey|0.19207 silver|0.078535 light|0.037466 gray|0.037466 light|0.037466 grey|0.037466 gainsboro|0.025221 white|0.0043767 smoke|0.0043767  ",
+			"after_weights": " The|1 corollary|0.95 assumes|0.9 continuity|0.85 on|0.8 the|0.75 whole|0.7 interval|0.65 This|0.6 result|0.55 is|0.5 strengthened|0.45 slightly|0.4 in|0.35 the|0.3 following|0.25 part|0.2 of|0.15 the|0.1 theorem|0.05 |0",
+			"previous_weights": " The|0 fundamental|0.022727 theorem|0.045455 is|0.068182 often|0.090909 employed|0.11364 to|0.13636 compute|0.15909 the|0.18182 definite|0.20455 integral|0.22727 of|0.25 a|0.27273 function|0.29545 f|0.31818 for|0.34091 which|0.36364 an|0.38636 antiderivative|0.40909 F|0.43182 is|0.45455 known|0.47727 Specifically|0.5 if|0.52273 f|0.54545 is|0.56818 a|0.59091 real|0.61364 valued|0.63636 continuous|0.65909 function|0.68182 on|0.70455 a|0.72727 b|0.75 and|0.77273 F|0.79545 is|0.81818 an|0.84091 antiderivative|0.86364 of|0.88636 f|0.90909 in|0.93182 a|0.95455 b|0.97727 then|1"
+		}
+	}
+}

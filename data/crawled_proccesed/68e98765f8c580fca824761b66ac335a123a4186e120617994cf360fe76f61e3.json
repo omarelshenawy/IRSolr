@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68e98765f8c580fca824761b66ac335a123a4186e120617994cf360fe76f61e3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/World_operators_of_the_Il-76.png/350px-World_operators_of_the_Il-76.png",
+			"previous": " On 14 June 2014 a Ukrainian Air Force IL 76 was shot down by ground fire from pro Russian separatists while on approach to landing at Lugansk resulting in the deaths of 40 soldiers and 9 crew members on board 18 19 20 21 ",
+			"after": " ",
+			"color": "forest|0.29306 green|0.29306 green|0.26997 red|0.1744 dodger|0.14176 blue|0.14176 corn|0.033503 flower|0.033503 blue|0.033503 dark|0.031091 sea|0.031091 green|0.031091 light|0.020239 sky|0.020239 blue|0.020239 light|0.0073063 coral|0.0073063  ",
+			"after_weights": " ",
+			"previous_weights": " On|0 14|0.022727 June|0.045455 2014|0.068182 a|0.090909 Ukrainian|0.11364 Air|0.13636 Force|0.15909 IL|0.18182 76|0.20455 was|0.22727 shot|0.25 down|0.27273 by|0.29545 ground|0.31818 fire|0.34091 from|0.36364 pro|0.38636 Russian|0.40909 separatists|0.43182 while|0.45455 on|0.47727 approach|0.5 to|0.52273 landing|0.54545 at|0.56818 Lugansk|0.59091 resulting|0.61364 in|0.63636 the|0.65909 deaths|0.68182 of|0.70455 40|0.72727 soldiers|0.75 and|0.77273 9|0.79545 crew|0.81818 members|0.84091 on|0.86364 board|0.88636 18|0.90909 19|0.93182 20|0.95455 21|0.97727 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a4264a58972e732f0be564b1bfd1236c679ff563d2e0abb49f3d4cdf732c78b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Highsmithlaxlightsdnc2000.jpg/220px-Highsmithlaxlightsdnc2000.jpg",
+			"previous": " ",
+			"after": " The Flight Path Learning Center is a museum located at 6661 Imperial Highway and was formerly known as the West Imperial Terminal This building used to house some charter flights Condor Airlines and regular scheduled flights by MGM Grand Air It sat empty for 10 years until it was re opened as a learning center for LAX ",
+			"color": "black|0.83305 dim|0.017722 gray|0.017722 dim|0.017722 grey|0.017722 dark|0.016465 khaki|0.016465 dark|0.015552 slate|0.015552 gray|0.015552 gray|0.011315 grey|0.011315 tan|0.0085717 dark|0.0072689 gray|0.0072689 dark|0.0072689 grey|0.0072689  ",
+			"after_weights": " The|1 Flight|0.98246 Path|0.96491 Learning|0.94737 Center|0.92982 is|0.91228 a|0.89474 museum|0.87719 located|0.85965 at|0.84211 6661|0.82456 Imperial|0.80702 Highway|0.78947 and|0.77193 was|0.75439 formerly|0.73684 known|0.7193 as|0.70175 the|0.68421 West|0.66667 Imperial|0.64912 Terminal|0.63158 This|0.61404 building|0.59649 used|0.57895 to|0.5614 house|0.54386 some|0.52632 charter|0.50877 flights|0.49123 Condor|0.47368 Airlines|0.45614 and|0.4386 regular|0.42105 scheduled|0.40351 flights|0.38596 by|0.36842 MGM|0.35088 Grand|0.33333 Air|0.31579 It|0.29825 sat|0.2807 empty|0.26316 for|0.24561 10|0.22807 years|0.21053 until|0.19298 it|0.17544 was|0.15789 re|0.14035 opened|0.12281 as|0.10526 a|0.087719 learning|0.070175 center|0.052632 for|0.035088 LAX|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

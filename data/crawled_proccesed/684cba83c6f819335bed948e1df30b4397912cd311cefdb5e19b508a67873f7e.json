@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "684cba83c6f819335bed948e1df30b4397912cd311cefdb5e19b508a67873f7e",
+			"url": "https://upload.wikimedia.org/math/c/8/0/c806043941ca4067b55be9903759ac1a.png",
+			"previous": " This pencil contains three reducible quadratics each corresponding to a pair of lines each passing through two of the four points which can be done different ways Denote these Given any two of these their intersection is exactly the four points ",
+			"after": " ",
+			"color": "gray|0.30533 grey|0.30533 dim|0.27821 gray|0.27821 dim|0.27821 grey|0.27821 dark|0.21341 gray|0.21341 dark|0.21341 grey|0.21341 silver|0.095994 light|0.046062 gray|0.046062 light|0.046062 grey|0.046062 gainsboro|0.033907 white|0.0063275 smoke|0.0063275 linen|0.003408 lavender|0.0029918 blush|0.0029918 alice|0.0028989 blue|0.0028989 ghost|0.0027773 white|0.0027773 sea|0.0026588 shell|0.0026588 snow|0.0025345  ",
+			"after_weights": " ",
+			"previous_weights": " This|0 pencil|0.02439 contains|0.04878 three|0.073171 reducible|0.097561 quadratics|0.12195 each|0.14634 corresponding|0.17073 to|0.19512 a|0.21951 pair|0.2439 of|0.26829 lines|0.29268 each|0.31707 passing|0.34146 through|0.36585 two|0.39024 of|0.41463 the|0.43902 four|0.46341 points|0.4878 which|0.5122 can|0.53659 be|0.56098 done|0.58537 different|0.60976 ways|0.63415 Denote|0.65854 these|0.68293 Given|0.70732 any|0.73171 two|0.7561 of|0.78049 these|0.80488 their|0.82927 intersection|0.85366 is|0.87805 exactly|0.90244 the|0.92683 four|0.95122 points|0.97561 |1"
+		}
+	}
+}

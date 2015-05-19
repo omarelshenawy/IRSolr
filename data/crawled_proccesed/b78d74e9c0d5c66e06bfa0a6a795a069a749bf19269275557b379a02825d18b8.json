@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b78d74e9c0d5c66e06bfa0a6a795a069a749bf19269275557b379a02825d18b8",
+			"url": "https://upload.wikimedia.org/math/c/8/3/c83e30cdfc936db5d5e1bc007868b9c2.png",
+			"previous": " Therefore the integral may also be written as",
+			"after": " This form suggests that if we can find a function whose gradient is given by P then the integral A is given by the difference of at the endpoints of the interval of integration Thus the problem of studying the curves that make the integral stationary can be related to the study of the level surfaces of In order to find such a function we turn to the wave equation which governs the propagation of light This formalism is used in the context of Lagrangian optics and Hamiltonian optics ",
+			"color": "dim|0.35663 gray|0.35663 dim|0.35663 grey|0.35663 gray|0.26684 grey|0.26684 dark|0.17786 gray|0.17786 dark|0.17786 grey|0.17786 silver|0.068935 light|0.041649 gray|0.041649 light|0.041649 grey|0.041649 black|0.029823 gainsboro|0.029498 white|0.0098037 smoke|0.0098037  ",
+			"after_weights": " This|1 form|0.98876 suggests|0.97753 that|0.96629 if|0.95506 we|0.94382 can|0.93258 find|0.92135 a|0.91011 function|0.89888 whose|0.88764 gradient|0.8764 is|0.86517 given|0.85393 by|0.8427 P|0.83146 then|0.82022 the|0.80899 integral|0.79775 A|0.78652 is|0.77528 given|0.76404 by|0.75281 the|0.74157 difference|0.73034 of|0.7191 at|0.70787 the|0.69663 endpoints|0.68539 of|0.67416 the|0.66292 interval|0.65169 of|0.64045 integration|0.62921 Thus|0.61798 the|0.60674 problem|0.59551 of|0.58427 studying|0.57303 the|0.5618 curves|0.55056 that|0.53933 make|0.52809 the|0.51685 integral|0.50562 stationary|0.49438 can|0.48315 be|0.47191 related|0.46067 to|0.44944 the|0.4382 study|0.42697 of|0.41573 the|0.40449 level|0.39326 surfaces|0.38202 of|0.37079 In|0.35955 order|0.34831 to|0.33708 find|0.32584 such|0.31461 a|0.30337 function|0.29213 we|0.2809 turn|0.26966 to|0.25843 the|0.24719 wave|0.23596 equation|0.22472 which|0.21348 governs|0.20225 the|0.19101 propagation|0.17978 of|0.16854 light|0.1573 This|0.14607 formalism|0.13483 is|0.1236 used|0.11236 in|0.10112 the|0.089888 context|0.078652 of|0.067416 Lagrangian|0.05618 optics|0.044944 and|0.033708 Hamiltonian|0.022472 optics|0.011236 |0",
+			"previous_weights": " Therefore|0 the|0.14286 integral|0.28571 may|0.42857 also|0.57143 be|0.71429 written|0.85714 as|1"
+		}
+	}
+}

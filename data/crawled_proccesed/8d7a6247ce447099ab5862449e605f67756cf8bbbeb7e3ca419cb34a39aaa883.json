@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d7a6247ce447099ab5862449e605f67756cf8bbbeb7e3ca419cb34a39aaa883",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/LAX_terminal_map.jpg/220px-LAX_terminal_map.jpg",
+			"previous": " ",
+			"after": " LAX has nine passenger terminals arranged in the shape of the letter U or a horseshoe The terminals are served by a shuttle bus Terminals 4 5 6 7 and 8 are all connected airside via an underground tunnel between Terminals 4 5 and 6 and above ground walkways between Terminals 6 7 and 8 An additional airside shuttle bus operates among Terminals 4 6 and the American Eagle remote terminal There are no physical airside connections between any of the other terminals ",
+			"color": "red|0.19641 forest|0.16365 green|0.16365 green|0.15856 dark|0.11269 green|0.11269 yellow|0.044663 green|0.044663 chocolate|0.033282 deep|0.02966 sky|0.02966 blue|0.02966 sandy|0.029057 brown|0.029057 steel|0.024142 blue|0.024142 medium|0.019659 blue|0.019659 black|0.019141 indian|0.017129 red|0.017129 peru|0.014313 blue|0.012071 olive|0.0098293 drab|0.0098293 firebrick|0.0086365 sky|0.0082773 blue|0.0082773 dark|0.0075875 sea|0.0075875 green|0.0075875  ",
+			"after_weights": " LAX|1 has|0.98795 nine|0.9759 passenger|0.96386 terminals|0.95181 arranged|0.93976 in|0.92771 the|0.91566 shape|0.90361 of|0.89157 the|0.87952 letter|0.86747 U|0.85542 or|0.84337 a|0.83133 horseshoe|0.81928 The|0.80723 terminals|0.79518 are|0.78313 served|0.77108 by|0.75904 a|0.74699 shuttle|0.73494 bus|0.72289 Terminals|0.71084 4|0.6988 5|0.68675 6|0.6747 7|0.66265 and|0.6506 8|0.63855 are|0.62651 all|0.61446 connected|0.60241 airside|0.59036 via|0.57831 an|0.56627 underground|0.55422 tunnel|0.54217 between|0.53012 Terminals|0.51807 4|0.50602 5|0.49398 and|0.48193 6|0.46988 and|0.45783 above|0.44578 ground|0.43373 walkways|0.42169 between|0.40964 Terminals|0.39759 6|0.38554 7|0.37349 and|0.36145 8|0.3494 An|0.33735 additional|0.3253 airside|0.31325 shuttle|0.3012 bus|0.28916 operates|0.27711 among|0.26506 Terminals|0.25301 4|0.24096 6|0.22892 and|0.21687 the|0.20482 American|0.19277 Eagle|0.18072 remote|0.16867 terminal|0.15663 There|0.14458 are|0.13253 no|0.12048 physical|0.10843 airside|0.096386 connections|0.084337 between|0.072289 any|0.060241 of|0.048193 the|0.036145 other|0.024096 terminals|0.012048 |0",
+			"previous_weights": " "
+		}
+	}
+}

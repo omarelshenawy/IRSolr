@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "91813523362fe5dbb370c72f7e406e9f9110d60e2dbf2843ee20e538c1aafb86",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Baltimore_light_rail_at_BWI.agr.jpg/220px-Baltimore_light_rail_at_BWI.agr.jpg",
+			"previous": " ",
+			"after": " A hybrid solution adopted in some cities is a direct rail connection to an airport train station instead of to the airport itself At the airport train station the passenger switches to a people mover or other train that goes to the airport terminals The same system can also serve passengers moving between different terminals and traveling between the terminals and car rental lots or parking areas Several very large airports have rail stations near some terminals but people movers are used by many to get to some other terminals Examples Paris de Gaulle and Oakland ",
+			"color": "black|0.34752 dim|0.32987 gray|0.32987 dim|0.32987 grey|0.32987 gray|0.18974 grey|0.18974 dark|0.056121 gray|0.056121 dark|0.056121 grey|0.056121 light|0.032559 slate|0.032559 gray|0.032559 slate|0.021702 gray|0.021702 silver|0.0078301 dark|0.0064777 slate|0.0064777 gray|0.0064777  ",
+			"after_weights": " A|1 hybrid|0.98958 solution|0.97917 adopted|0.96875 in|0.95833 some|0.94792 cities|0.9375 is|0.92708 a|0.91667 direct|0.90625 rail|0.89583 connection|0.88542 to|0.875 an|0.86458 airport|0.85417 train|0.84375 station|0.83333 instead|0.82292 of|0.8125 to|0.80208 the|0.79167 airport|0.78125 itself|0.77083 At|0.76042 the|0.75 airport|0.73958 train|0.72917 station|0.71875 the|0.70833 passenger|0.69792 switches|0.6875 to|0.67708 a|0.66667 people|0.65625 mover|0.64583 or|0.63542 other|0.625 train|0.61458 that|0.60417 goes|0.59375 to|0.58333 the|0.57292 airport|0.5625 terminals|0.55208 The|0.54167 same|0.53125 system|0.52083 can|0.51042 also|0.5 serve|0.48958 passengers|0.47917 moving|0.46875 between|0.45833 different|0.44792 terminals|0.4375 and|0.42708 traveling|0.41667 between|0.40625 the|0.39583 terminals|0.38542 and|0.375 car|0.36458 rental|0.35417 lots|0.34375 or|0.33333 parking|0.32292 areas|0.3125 Several|0.30208 very|0.29167 large|0.28125 airports|0.27083 have|0.26042 rail|0.25 stations|0.23958 near|0.22917 some|0.21875 terminals|0.20833 but|0.19792 people|0.1875 movers|0.17708 are|0.16667 used|0.15625 by|0.14583 many|0.13542 to|0.125 get|0.11458 to|0.10417 some|0.09375 other|0.083333 terminals|0.072917 Examples|0.0625 Paris|0.052083 de|0.041667 Gaulle|0.03125 and|0.020833 Oakland|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

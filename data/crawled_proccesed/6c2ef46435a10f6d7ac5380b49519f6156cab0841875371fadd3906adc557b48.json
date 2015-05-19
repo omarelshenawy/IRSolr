@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c2ef46435a10f6d7ac5380b49519f6156cab0841875371fadd3906adc557b48",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PSC_members_on_strike.jpg/220px-PSC_members_on_strike.jpg",
+			"previous": " In November 2004 PCS workers across government departments undertook a one day strike in protest against government plans to cut the Civil Service by 20 This action was followed by further one day strikes on 31 January and 1 May 2007 ",
+			"after": " Three one day strikes over pay in National Museums Liverpool 9 ",
+			"color": "black|0.60139 lavender|0.029999 light|0.02867 gray|0.02867 light|0.02867 grey|0.02867 silver|0.026685 gainsboro|0.026528 dark|0.024934 gray|0.024934 dark|0.024934 grey|0.024934 lavender|0.022219 blush|0.022219 ghost|0.022031 white|0.022031 white|0.022001 smoke|0.022001 snow|0.019159 alice|0.019076 blue|0.019076 white|0.016048 sea|0.014734 shell|0.014734 floral|0.0099494 white|0.0099494 mint|0.0097225 cream|0.0097225 tan|0.0094318 light|0.0093693 steel|0.0093693 blue|0.0093693 gray|0.0091087 grey|0.0091087 linen|0.0088073 azure|0.0084079 light|0.0082645 slate|0.0082645 gray|0.0082645 thistle|0.0080717 slate|0.006842 gray|0.006842 dim|0.0064564 gray|0.0064564 dim|0.0064564 grey|0.0064564 misty|0.0056172 rose|0.0056172 burly|0.0039968 wood|0.0039968  ",
+			"after_weights": " Three|1 one|0.90909 day|0.81818 strikes|0.72727 over|0.63636 pay|0.54545 in|0.45455 National|0.36364 Museums|0.27273 Liverpool|0.18182 9|0.090909 |0",
+			"previous_weights": " In|0 November|0.02439 2004|0.04878 PCS|0.073171 workers|0.097561 across|0.12195 government|0.14634 departments|0.17073 undertook|0.19512 a|0.21951 one|0.2439 day|0.26829 strike|0.29268 in|0.31707 protest|0.34146 against|0.36585 government|0.39024 plans|0.41463 to|0.43902 cut|0.46341 the|0.4878 Civil|0.5122 Service|0.53659 by|0.56098 20|0.58537 This|0.60976 action|0.63415 was|0.65854 followed|0.68293 by|0.70732 further|0.73171 one|0.7561 day|0.78049 strikes|0.80488 on|0.82927 31|0.85366 January|0.87805 and|0.90244 1|0.92683 May|0.95122 2007|0.97561 |1"
+		}
+	}
+}

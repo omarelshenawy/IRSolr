@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a270b9524fe274983a19c67e5fea81de653f2296dae625faa9cb38d8439039b",
+			"url": "https://upload.wikimedia.org/math/f/a/2/fa282ae3b6a80007ef0a9b7a17f1e17e.png",
+			"previous": " and An appropriate coordinate conversion done against the Minkowski metric creates coordinates where an object on a rotating disk stays in the same spatial coordinate position The new coordinates are",
+			"after": " The t and z coordinates remain unchanged In this new coordinate system the incremental proper time equation is With r and z being constant over time this simplifies to",
+			"color": "dim|0.23331 gray|0.23331 dim|0.23331 grey|0.23331 gray|0.2277 grey|0.2277 black|0.2156 dark|0.21042 gray|0.21042 dark|0.21042 grey|0.21042 silver|0.077871 light|0.023844 gray|0.023844 light|0.023844 grey|0.023844 gainsboro|0.01125  ",
+			"after_weights": " The|1 t|0.96429 and|0.92857 z|0.89286 coordinates|0.85714 remain|0.82143 unchanged|0.78571 In|0.75 this|0.71429 new|0.67857 coordinate|0.64286 system|0.60714 the|0.57143 incremental|0.53571 proper|0.5 time|0.46429 equation|0.42857 is|0.39286 With|0.35714 r|0.32143 and|0.28571 z|0.25 being|0.21429 constant|0.17857 over|0.14286 time|0.10714 this|0.071429 simplifies|0.035714 to|0",
+			"previous_weights": " and|0 An|0.034483 appropriate|0.068966 coordinate|0.10345 conversion|0.13793 done|0.17241 against|0.2069 the|0.24138 Minkowski|0.27586 metric|0.31034 creates|0.34483 coordinates|0.37931 where|0.41379 an|0.44828 object|0.48276 on|0.51724 a|0.55172 rotating|0.58621 disk|0.62069 stays|0.65517 in|0.68966 the|0.72414 same|0.75862 spatial|0.7931 coordinate|0.82759 position|0.86207 The|0.89655 new|0.93103 coordinates|0.96552 are|1"
+		}
+	}
+}

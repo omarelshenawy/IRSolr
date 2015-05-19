@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1259a7301a0c97d126b4c7d8532fb74e87d566a053c16ea28f59fffb942f82b4",
+			"url": "https://upload.wikimedia.org/math/0/3/5/035bc41ae9aa24cf66630087f17cc0a8.png",
+			"previous": " a function u I R R is called the solution or integral curve for F if u is n times differentiable on I and",
+			"after": " Given two solutions u J R R and v I R R u is called an extension of v if I J and",
+			"color": "dim|0.35369 gray|0.35369 dim|0.35369 grey|0.35369 gray|0.24988 grey|0.24988 dark|0.1537 gray|0.1537 dark|0.1537 grey|0.1537 black|0.087086 silver|0.071153 light|0.036917 gray|0.036917 light|0.036917 grey|0.036917 gainsboro|0.026477 white|0.0047391 smoke|0.0047391  ",
+			"after_weights": " Given|1 two|0.95455 solutions|0.90909 u|0.86364 J|0.81818 R|0.77273 R|0.72727 and|0.68182 v|0.63636 I|0.59091 R|0.54545 R|0.5 u|0.45455 is|0.40909 called|0.36364 an|0.31818 extension|0.27273 of|0.22727 v|0.18182 if|0.13636 I|0.090909 J|0.045455 and|0",
+			"previous_weights": " a|0 function|0.043478 u|0.086957 I|0.13043 R|0.17391 R|0.21739 is|0.26087 called|0.30435 the|0.34783 solution|0.3913 or|0.43478 integral|0.47826 curve|0.52174 for|0.56522 F|0.6087 if|0.65217 u|0.69565 is|0.73913 n|0.78261 times|0.82609 differentiable|0.86957 on|0.91304 I|0.95652 and|1"
+		}
+	}
+}

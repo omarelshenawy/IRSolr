@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "848d6989d879e8f542cb74c5bf6a1da916e6168e6bedd5146aaf4f5f8c4eb010",
+			"url": "https://upload.wikimedia.org/math/6/e/4/6e40f98496a5ddbe8f35e2112f96fb99.png",
+			"previous": " where is given by the ratio as previously After integration by parts  where and are arbitrary If we set the first variation for the ratio is",
+			"after": " If we first require that v vanish at the endpoints the first variation will vanish for all such v only if If u satisfies this condition then the first variation will vanish for arbitrary v only if",
+			"color": "dim|0.34917 gray|0.34917 dim|0.34917 grey|0.34917 gray|0.28213 grey|0.28213 dark|0.17774 gray|0.17774 dark|0.17774 grey|0.17774 silver|0.089074 light|0.045631 gray|0.045631 light|0.045631 grey|0.045631 gainsboro|0.032302 white|0.0052853 smoke|0.0052853 linen|0.0033328 lavender|0.0029389 blush|0.0029389 alice|0.0028733 blue|0.0028733  ",
+			"after_weights": " If|1 we|0.97222 first|0.94444 require|0.91667 that|0.88889 v|0.86111 vanish|0.83333 at|0.80556 the|0.77778 endpoints|0.75 the|0.72222 first|0.69444 variation|0.66667 will|0.63889 vanish|0.61111 for|0.58333 all|0.55556 such|0.52778 v|0.5 only|0.47222 if|0.44444 If|0.41667 u|0.38889 satisfies|0.36111 this|0.33333 condition|0.30556 then|0.27778 the|0.25 first|0.22222 variation|0.19444 will|0.16667 vanish|0.13889 for|0.11111 arbitrary|0.083333 v|0.055556 only|0.027778 if|0",
+			"previous_weights": " where|0 is|0.038462 given|0.076923 by|0.11538 the|0.15385 ratio|0.19231 as|0.23077 previously|0.26923 After|0.30769 integration|0.34615 by|0.38462 parts|0.42308 |0.46154 where|0.5 and|0.53846 are|0.57692 arbitrary|0.61538 If|0.65385 we|0.69231 set|0.73077 the|0.76923 first|0.80769 variation|0.84615 for|0.88462 the|0.92308 ratio|0.96154 is|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "410fc24447735e4852a08efbc874c75e1202d7c43b070dbcbf8edb70aeaa6b25",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Barack_Obama_with_John_Bryson_and_Ron_Kirk.jpg/220px-Barack_Obama_with_John_Bryson_and_Ron_Kirk.jpg",
+			"previous": " ",
+			"after": " On May 31 2011 President Barack Obama nominated Bryson to succeed Gary Locke as the United States Secretary of Commerce 12 Citing Bryson s environmental views United States Senator James Inhofe a Republican from Oklahoma put a hold on his nomination in July 13 The Senate later reached a unanimous consent agreement to vote on Bryson s nomination and the Senate confirmed Bryson by a 74 26 vote on October 20 2011 2 He was sworn in on October 21 2011 becoming the 37th Secretary of the Department of Commerce 14 ",
+			"color": "black|0.62657 rosy|0.123 brown|0.123 dim|0.057386 gray|0.057386 dim|0.057386 grey|0.057386 gray|0.02724 grey|0.02724 slate|0.019351 gray|0.019351 dark|0.016083 gray|0.016083 dark|0.016083 grey|0.016083 lavender|0.015657  ",
+			"after_weights": " On|1 May|0.98901 31|0.97802 2011|0.96703 President|0.95604 Barack|0.94505 Obama|0.93407 nominated|0.92308 Bryson|0.91209 to|0.9011 succeed|0.89011 Gary|0.87912 Locke|0.86813 as|0.85714 the|0.84615 United|0.83516 States|0.82418 Secretary|0.81319 of|0.8022 Commerce|0.79121 12|0.78022 Citing|0.76923 Bryson|0.75824 s|0.74725 environmental|0.73626 views|0.72527 United|0.71429 States|0.7033 Senator|0.69231 James|0.68132 Inhofe|0.67033 a|0.65934 Republican|0.64835 from|0.63736 Oklahoma|0.62637 put|0.61538 a|0.6044 hold|0.59341 on|0.58242 his|0.57143 nomination|0.56044 in|0.54945 July|0.53846 13|0.52747 The|0.51648 Senate|0.50549 later|0.49451 reached|0.48352 a|0.47253 unanimous|0.46154 consent|0.45055 agreement|0.43956 to|0.42857 vote|0.41758 on|0.40659 Bryson|0.3956 s|0.38462 nomination|0.37363 and|0.36264 the|0.35165 Senate|0.34066 confirmed|0.32967 Bryson|0.31868 by|0.30769 a|0.2967 74|0.28571 26|0.27473 vote|0.26374 on|0.25275 October|0.24176 20|0.23077 2011|0.21978 2|0.20879 He|0.1978 was|0.18681 sworn|0.17582 in|0.16484 on|0.15385 October|0.14286 21|0.13187 2011|0.12088 becoming|0.10989 the|0.098901 37th|0.087912 Secretary|0.076923 of|0.065934 the|0.054945 Department|0.043956 of|0.032967 Commerce|0.021978 14|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

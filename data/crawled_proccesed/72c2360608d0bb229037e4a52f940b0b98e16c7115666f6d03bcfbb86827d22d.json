@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72c2360608d0bb229037e4a52f940b0b98e16c7115666f6d03bcfbb86827d22d",
+			"url": "https://upload.wikimedia.org/math/0/9/b/09b4e174ef04570aad990cad78502554.png",
+			"previous": " From the heliocentric point of view consider the vector to the planet where is the distance to the planet and the direction is a unit vector When the planet moves the directions change ",
+			"after": " where is the unit vector orthogonal to and pointing in the direction of rotation and is the polar angle and where a dot on top of the variable signifies differentiation with respect to time ",
+			"color": "black|0.42243 dim|0.24425 gray|0.24425 dim|0.24425 grey|0.24425 gray|0.16429 grey|0.16429 dark|0.089471 gray|0.089471 dark|0.089471 grey|0.089471 silver|0.038701 light|0.018794 gray|0.018794 light|0.018794 grey|0.018794 gainsboro|0.013429  ",
+			"after_weights": " where|1 is|0.97059 the|0.94118 unit|0.91176 vector|0.88235 orthogonal|0.85294 to|0.82353 and|0.79412 pointing|0.76471 in|0.73529 the|0.70588 direction|0.67647 of|0.64706 rotation|0.61765 and|0.58824 is|0.55882 the|0.52941 polar|0.5 angle|0.47059 and|0.44118 where|0.41176 a|0.38235 dot|0.35294 on|0.32353 top|0.29412 of|0.26471 the|0.23529 variable|0.20588 signifies|0.17647 differentiation|0.14706 with|0.11765 respect|0.088235 to|0.058824 time|0.029412 |0",
+			"previous_weights": " From|0 the|0.030303 heliocentric|0.060606 point|0.090909 of|0.12121 view|0.15152 consider|0.18182 the|0.21212 vector|0.24242 to|0.27273 the|0.30303 planet|0.33333 where|0.36364 is|0.39394 the|0.42424 distance|0.45455 to|0.48485 the|0.51515 planet|0.54545 and|0.57576 the|0.60606 direction|0.63636 is|0.66667 a|0.69697 unit|0.72727 vector|0.75758 When|0.78788 the|0.81818 planet|0.84848 moves|0.87879 the|0.90909 directions|0.93939 change|0.9697 |1"
+		}
+	}
+}

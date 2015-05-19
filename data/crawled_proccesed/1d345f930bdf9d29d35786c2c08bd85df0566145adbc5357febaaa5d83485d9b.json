@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d345f930bdf9d29d35786c2c08bd85df0566145adbc5357febaaa5d83485d9b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Travis_letter_page_1_adj.jpg/150px-Travis_letter_page_1_adj.jpg",
+			"previous": " Portal History Featured article 7",
+			"after": " On February 23 the Alamo Mission in San Antonio Texas had been besieged by Mexican forces led by General Antonio L pez de Santa Anna Fearing that his small group of men could not withstand an assault Travis wrote this letter seeking reinforcements and supplies from supporters The letter closes with Travis s vow of Victory or Death an emotion which has been both praised and derided by historians ",
+			"color": " ",
+			"after_weights": " On|1 February|0.98551 23|0.97101 the|0.95652 Alamo|0.94203 Mission|0.92754 in|0.91304 San|0.89855 Antonio|0.88406 Texas|0.86957 had|0.85507 been|0.84058 besieged|0.82609 by|0.81159 Mexican|0.7971 forces|0.78261 led|0.76812 by|0.75362 General|0.73913 Antonio|0.72464 L|0.71014 pez|0.69565 de|0.68116 Santa|0.66667 Anna|0.65217 Fearing|0.63768 that|0.62319 his|0.6087 small|0.5942 group|0.57971 of|0.56522 men|0.55072 could|0.53623 not|0.52174 withstand|0.50725 an|0.49275 assault|0.47826 Travis|0.46377 wrote|0.44928 this|0.43478 letter|0.42029 seeking|0.4058 reinforcements|0.3913 and|0.37681 supplies|0.36232 from|0.34783 supporters|0.33333 The|0.31884 letter|0.30435 closes|0.28986 with|0.27536 Travis|0.26087 s|0.24638 vow|0.23188 of|0.21739 Victory|0.2029 or|0.18841 Death|0.17391 an|0.15942 emotion|0.14493 which|0.13043 has|0.11594 been|0.10145 both|0.086957 praised|0.072464 and|0.057971 derided|0.043478 by|0.028986 historians|0.014493 |0",
+			"previous_weights": " Portal|0 History|0.25 Featured|0.5 article|0.75 7|1"
+		}
+	}
+}

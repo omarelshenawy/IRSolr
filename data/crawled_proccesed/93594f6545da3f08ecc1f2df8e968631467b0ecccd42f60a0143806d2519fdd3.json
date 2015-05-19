@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93594f6545da3f08ecc1f2df8e968631467b0ecccd42f60a0143806d2519fdd3",
+			"url": "https://upload.wikimedia.org/math/c/0/9/c094563ca5b9e951687555f0c1844028.png",
+			"previous": " The t and z coordinates remain unchanged In this new coordinate system the incremental proper time equation is and",
+			"after": " With r and z being constant over time this simplifies to which is the same as in Example 2 ",
+			"color": "black|0.29307 gray|0.2415 grey|0.2415 dim|0.2308 gray|0.2308 dim|0.2308 grey|0.2308 dark|0.18555 gray|0.18555 dark|0.18555 grey|0.18555 silver|0.038507 light|0.0088247 gray|0.0088247 light|0.0088247 grey|0.0088247  ",
+			"after_weights": " With|1 r|0.94737 and|0.89474 z|0.84211 being|0.78947 constant|0.73684 over|0.68421 time|0.63158 this|0.57895 simplifies|0.52632 to|0.47368 which|0.42105 is|0.36842 the|0.31579 same|0.26316 as|0.21053 in|0.15789 Example|0.10526 2|0.052632 |0",
+			"previous_weights": " The|0 t|0.055556 and|0.11111 z|0.16667 coordinates|0.22222 remain|0.27778 unchanged|0.33333 In|0.38889 this|0.44444 new|0.5 coordinate|0.55556 system|0.61111 the|0.66667 incremental|0.72222 proper|0.77778 time|0.83333 equation|0.88889 is|0.94444 and|1"
+		}
+	}
+}

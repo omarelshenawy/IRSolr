@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "86be870a22bc699f53618ee1591d4cb6aeee507723becabde93b6671724fd0ef",
+			"url": "https://upload.wikimedia.org/math/7/9/c/79c40dd2b43f3c03eaf88b5fc4c199b8.png",
+			"previous": " Gluing edges of polygons is a special kind of quotient space process The quotient concept can be applied in greater generality to produce new or alternative constructions of surfaces For example the real projective plane can be obtained as the quotient of the sphere by identifying all pairs of opposite points on the sphere Another example of a quotient is the connected sum ",
+			"after": " The sphere S is an identity element for the connected sum meaning that S M M This is because deleting a disk from the sphere leaves a disk which simply replaces the disk deleted from M upon gluing ",
+			"color": " ",
+			"after_weights": " The|1 sphere|0.97368 S|0.94737 is|0.92105 an|0.89474 identity|0.86842 element|0.84211 for|0.81579 the|0.78947 connected|0.76316 sum|0.73684 meaning|0.71053 that|0.68421 S|0.65789 M|0.63158 M|0.60526 This|0.57895 is|0.55263 because|0.52632 deleting|0.5 a|0.47368 disk|0.44737 from|0.42105 the|0.39474 sphere|0.36842 leaves|0.34211 a|0.31579 disk|0.28947 which|0.26316 simply|0.23684 replaces|0.21053 the|0.18421 disk|0.15789 deleted|0.13158 from|0.10526 M|0.078947 upon|0.052632 gluing|0.026316 |0",
+			"previous_weights": " Gluing|0 edges|0.015873 of|0.031746 polygons|0.047619 is|0.063492 a|0.079365 special|0.095238 kind|0.11111 of|0.12698 quotient|0.14286 space|0.15873 process|0.1746 The|0.19048 quotient|0.20635 concept|0.22222 can|0.2381 be|0.25397 applied|0.26984 in|0.28571 greater|0.30159 generality|0.31746 to|0.33333 produce|0.34921 new|0.36508 or|0.38095 alternative|0.39683 constructions|0.4127 of|0.42857 surfaces|0.44444 For|0.46032 example|0.47619 the|0.49206 real|0.50794 projective|0.52381 plane|0.53968 can|0.55556 be|0.57143 obtained|0.5873 as|0.60317 the|0.61905 quotient|0.63492 of|0.65079 the|0.66667 sphere|0.68254 by|0.69841 identifying|0.71429 all|0.73016 pairs|0.74603 of|0.7619 opposite|0.77778 points|0.79365 on|0.80952 the|0.8254 sphere|0.84127 Another|0.85714 example|0.87302 of|0.88889 a|0.90476 quotient|0.92063 is|0.93651 the|0.95238 connected|0.96825 sum|0.98413 |1"
+		}
+	}
+}

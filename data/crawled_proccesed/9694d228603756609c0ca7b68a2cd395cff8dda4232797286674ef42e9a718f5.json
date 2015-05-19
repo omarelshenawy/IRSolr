@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9694d228603756609c0ca7b68a2cd395cff8dda4232797286674ef42e9a718f5",
+			"url": "https://upload.wikimedia.org/math/6/b/7/6b75469d05a5c90b0d48a88db24d9ee2.png",
+			"previous": " It should be noted that the transient model described above is pretty crude since it only takes into account inertia effects other effects being ignored For instance under transient conditions the entry mass flow to a volume e g jetpipe needn t be the same as the exit mass flow i e the volume could be acting as an accumulator storing or discharging gas Similarly part of the engine structure e g nozzle wall could be extracting or adding heat to the gas flow which would affect that component s discharge temperature ",
+			"after": " During a Slam Deceleration the opposite trend is observed the transient compressor working line goes below the steady state line ",
+			"color": "gray|0.32446 grey|0.32446 dark|0.23146 gray|0.23146 dark|0.23146 grey|0.23146 dim|0.23091 gray|0.23091 dim|0.23091 grey|0.23091 silver|0.10188 light|0.051449 gray|0.051449 light|0.051449 grey|0.051449 gainsboro|0.035999 white|0.0064581 smoke|0.0064581 linen|0.0033841 lavender|0.0026789 blush|0.0026789 alice|0.0025899 blue|0.0025899  ",
+			"after_weights": " During|1 a|0.95 Slam|0.9 Deceleration|0.85 the|0.8 opposite|0.75 trend|0.7 is|0.65 observed|0.6 the|0.55 transient|0.5 compressor|0.45 working|0.4 line|0.35 goes|0.3 below|0.25 the|0.2 steady|0.15 state|0.1 line|0.05 |0",
+			"previous_weights": " It|0 should|0.01087 be|0.021739 noted|0.032609 that|0.043478 the|0.054348 transient|0.065217 model|0.076087 described|0.086957 above|0.097826 is|0.1087 pretty|0.11957 crude|0.13043 since|0.1413 it|0.15217 only|0.16304 takes|0.17391 into|0.18478 account|0.19565 inertia|0.20652 effects|0.21739 other|0.22826 effects|0.23913 being|0.25 ignored|0.26087 For|0.27174 instance|0.28261 under|0.29348 transient|0.30435 conditions|0.31522 the|0.32609 entry|0.33696 mass|0.34783 flow|0.3587 to|0.36957 a|0.38043 volume|0.3913 e|0.40217 g|0.41304 jetpipe|0.42391 needn|0.43478 t|0.44565 be|0.45652 the|0.46739 same|0.47826 as|0.48913 the|0.5 exit|0.51087 mass|0.52174 flow|0.53261 i|0.54348 e|0.55435 the|0.56522 volume|0.57609 could|0.58696 be|0.59783 acting|0.6087 as|0.61957 an|0.63043 accumulator|0.6413 storing|0.65217 or|0.66304 discharging|0.67391 gas|0.68478 Similarly|0.69565 part|0.70652 of|0.71739 the|0.72826 engine|0.73913 structure|0.75 e|0.76087 g|0.77174 nozzle|0.78261 wall|0.79348 could|0.80435 be|0.81522 extracting|0.82609 or|0.83696 adding|0.84783 heat|0.8587 to|0.86957 the|0.88043 gas|0.8913 flow|0.90217 which|0.91304 would|0.92391 affect|0.93478 that|0.94565 component|0.95652 s|0.96739 discharge|0.97826 temperature|0.98913 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fdb383ea96ea0dbd9cb7dc201811f7e3609440888f7f94e1bdc03bfa26fe53f",
+			"url": "https://upload.wikimedia.org/math/b/0/d/b0dd542c9dadf93bc17ce3af7b953ff6.png",
+			"previous": " The exponential map and the Lie algebra determine the local group structure of every connected Lie group because of the Baker Campbell Hausdorff formula there exists a neighborhood U of the zero element of such that for u v in U we have",
+			"after": " where the omitted terms are known and involve Lie brackets of four or more elements In case u and v commute this formula reduces to the familiar exponential law exp u exp v exp u v ",
+			"color": "dim|0.34069 gray|0.34069 dim|0.34069 grey|0.34069 gray|0.23179 grey|0.23179 dark|0.14553 gray|0.14553 dark|0.14553 grey|0.14553 black|0.10295 silver|0.075314 light|0.042261 gray|0.042261 light|0.042261 grey|0.042261 gainsboro|0.03178 white|0.0072437 smoke|0.0072437 linen|0.0038445 lavender|0.0036909 blush|0.0036909 alice|0.0036584 blue|0.0036584 ghost|0.0035712 white|0.0035712  ",
+			"after_weights": " where|1 the|0.97222 omitted|0.94444 terms|0.91667 are|0.88889 known|0.86111 and|0.83333 involve|0.80556 Lie|0.77778 brackets|0.75 of|0.72222 four|0.69444 or|0.66667 more|0.63889 elements|0.61111 In|0.58333 case|0.55556 u|0.52778 and|0.5 v|0.47222 commute|0.44444 this|0.41667 formula|0.38889 reduces|0.36111 to|0.33333 the|0.30556 familiar|0.27778 exponential|0.25 law|0.22222 exp|0.19444 u|0.16667 exp|0.13889 v|0.11111 exp|0.083333 u|0.055556 v|0.027778 |0",
+			"previous_weights": " The|0 exponential|0.02381 map|0.047619 and|0.071429 the|0.095238 Lie|0.11905 algebra|0.14286 determine|0.16667 the|0.19048 local|0.21429 group|0.2381 structure|0.2619 of|0.28571 every|0.30952 connected|0.33333 Lie|0.35714 group|0.38095 because|0.40476 of|0.42857 the|0.45238 Baker|0.47619 Campbell|0.5 Hausdorff|0.52381 formula|0.54762 there|0.57143 exists|0.59524 a|0.61905 neighborhood|0.64286 U|0.66667 of|0.69048 the|0.71429 zero|0.7381 element|0.7619 of|0.78571 such|0.80952 that|0.83333 for|0.85714 u|0.88095 v|0.90476 in|0.92857 U|0.95238 we|0.97619 have|1"
+		}
+	}
+}

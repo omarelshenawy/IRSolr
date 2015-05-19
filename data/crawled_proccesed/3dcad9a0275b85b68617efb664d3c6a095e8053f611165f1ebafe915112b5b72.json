@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3dcad9a0275b85b68617efb664d3c6a095e8053f611165f1ebafe915112b5b72",
+			"url": "https://upload.wikimedia.org/math/6/e/0/6e01249f9ee4c004af49a014a2e7025f.png",
+			"previous": " The orbital radius and angular velocity of the planet in the elliptical orbit will vary This is shown in the animation the planet travels faster when closer to the sun then slower when farther from the sun Kepler s second law states that the blue sector has constant area ",
+			"after": " The area enclosed by the elliptical orbit is So the period satisfies",
+			"color": "black|0.55452 dim|0.19337 gray|0.19337 dim|0.19337 grey|0.19337 gray|0.12599 grey|0.12599 dark|0.078549 gray|0.078549 dark|0.078549 grey|0.078549 silver|0.02666 light|0.010747 gray|0.010747 light|0.010747 grey|0.010747 gainsboro|0.0067309  ",
+			"after_weights": " The|1 area|0.90909 enclosed|0.81818 by|0.72727 the|0.63636 elliptical|0.54545 orbit|0.45455 is|0.36364 So|0.27273 the|0.18182 period|0.090909 satisfies|0",
+			"previous_weights": " The|0 orbital|0.020408 radius|0.040816 and|0.061224 angular|0.081633 velocity|0.10204 of|0.12245 the|0.14286 planet|0.16327 in|0.18367 the|0.20408 elliptical|0.22449 orbit|0.2449 will|0.26531 vary|0.28571 This|0.30612 is|0.32653 shown|0.34694 in|0.36735 the|0.38776 animation|0.40816 the|0.42857 planet|0.44898 travels|0.46939 faster|0.4898 when|0.5102 closer|0.53061 to|0.55102 the|0.57143 sun|0.59184 then|0.61224 slower|0.63265 when|0.65306 farther|0.67347 from|0.69388 the|0.71429 sun|0.73469 Kepler|0.7551 s|0.77551 second|0.79592 law|0.81633 states|0.83673 that|0.85714 the|0.87755 blue|0.89796 sector|0.91837 has|0.93878 constant|0.95918 area|0.97959 |1"
+		}
+	}
+}

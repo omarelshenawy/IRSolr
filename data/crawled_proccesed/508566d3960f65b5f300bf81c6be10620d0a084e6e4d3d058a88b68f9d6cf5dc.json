@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "508566d3960f65b5f300bf81c6be10620d0a084e6e4d3d058a88b68f9d6cf5dc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zwei_M%C3%A4use.JPG/220px-Zwei_M%C3%A4use.JPG",
+			"previous": " ",
+			"after": " Rodents use scent marking in many social contexts including inter and intra species communication the marking of trails and the establishment of territories Their urine provides genetic information about individuals including the species the sex and individual identity and metabolic information on dominance reproductive status and health Compounds derived from the major histocompatibility complex MHC are bound to several urinary proteins The odor of a predator depresses scent marking behavior 44 ",
+			"color": "dim|0.39104 gray|0.39104 dim|0.39104 grey|0.39104 gray|0.19607 grey|0.19607 black|0.10181 dark|0.073519 sea|0.073519 green|0.073519 dark|0.057037 gray|0.057037 dark|0.057037 grey|0.057037 dark|0.051132 slate|0.051132 gray|0.051132 slate|0.050927 gray|0.050927 light|0.037333 slate|0.037333 gray|0.037333 silver|0.018007 light|0.0076497 gray|0.0076497 light|0.0076497 grey|0.0076497 gainsboro|0.0054393  ",
+			"after_weights": " Rodents|1 use|0.98592 scent|0.97183 marking|0.95775 in|0.94366 many|0.92958 social|0.91549 contexts|0.90141 including|0.88732 inter|0.87324 and|0.85915 intra|0.84507 species|0.83099 communication|0.8169 the|0.80282 marking|0.78873 of|0.77465 trails|0.76056 and|0.74648 the|0.73239 establishment|0.71831 of|0.70423 territories|0.69014 Their|0.67606 urine|0.66197 provides|0.64789 genetic|0.6338 information|0.61972 about|0.60563 individuals|0.59155 including|0.57746 the|0.56338 species|0.5493 the|0.53521 sex|0.52113 and|0.50704 individual|0.49296 identity|0.47887 and|0.46479 metabolic|0.4507 information|0.43662 on|0.42254 dominance|0.40845 reproductive|0.39437 status|0.38028 and|0.3662 health|0.35211 Compounds|0.33803 derived|0.32394 from|0.30986 the|0.29577 major|0.28169 histocompatibility|0.26761 complex|0.25352 MHC|0.23944 are|0.22535 bound|0.21127 to|0.19718 several|0.1831 urinary|0.16901 proteins|0.15493 The|0.14085 odor|0.12676 of|0.11268 a|0.098592 predator|0.084507 depresses|0.070423 scent|0.056338 marking|0.042254 behavior|0.028169 44|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

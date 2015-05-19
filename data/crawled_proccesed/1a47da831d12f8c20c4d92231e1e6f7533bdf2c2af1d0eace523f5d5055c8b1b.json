@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a47da831d12f8c20c4d92231e1e6f7533bdf2c2af1d0eace523f5d5055c8b1b",
+			"url": "https://upload.wikimedia.org/math/1/f/4/1f44b165bdb4245f2438ff65687ce6bd.png",
+			"previous": " when the carrier is locked  which results in  where ",
+			"after": " when the annulus is locked   Compound planetary gear is a general concept and it refers to any planetary gears involving one or more of the following three types of structures meshed planet there are at least two more planets in mesh with each other in each planet train stepped planet there exists a shaft connection between two planets in each planet train and multi stage structures the system contains two or more planet sets ",
+			"color": "dim|0.35407 gray|0.35407 dim|0.35407 grey|0.35407 gray|0.28845 grey|0.28845 dark|0.18317 gray|0.18317 dark|0.18317 grey|0.18317 silver|0.082563 light|0.043529 gray|0.043529 light|0.043529 grey|0.043529 gainsboro|0.030491 white|0.00469 smoke|0.00469  ",
+			"after_weights": " when|1 the|0.98684 annulus|0.97368 is|0.96053 locked|0.94737 |0.93421 |0.92105 Compound|0.90789 planetary|0.89474 gear|0.88158 is|0.86842 a|0.85526 general|0.84211 concept|0.82895 and|0.81579 it|0.80263 refers|0.78947 to|0.77632 any|0.76316 planetary|0.75 gears|0.73684 involving|0.72368 one|0.71053 or|0.69737 more|0.68421 of|0.67105 the|0.65789 following|0.64474 three|0.63158 types|0.61842 of|0.60526 structures|0.59211 meshed|0.57895 planet|0.56579 there|0.55263 are|0.53947 at|0.52632 least|0.51316 two|0.5 more|0.48684 planets|0.47368 in|0.46053 mesh|0.44737 with|0.43421 each|0.42105 other|0.40789 in|0.39474 each|0.38158 planet|0.36842 train|0.35526 stepped|0.34211 planet|0.32895 there|0.31579 exists|0.30263 a|0.28947 shaft|0.27632 connection|0.26316 between|0.25 two|0.23684 planets|0.22368 in|0.21053 each|0.19737 planet|0.18421 train|0.17105 and|0.15789 multi|0.14474 stage|0.13158 structures|0.11842 the|0.10526 system|0.092105 contains|0.078947 two|0.065789 or|0.052632 more|0.039474 planet|0.026316 sets|0.013158 |0",
+			"previous_weights": " when|0 the|0.090909 carrier|0.18182 is|0.27273 locked|0.36364 |0.45455 which|0.54545 results|0.63636 in|0.72727 |0.81818 where|0.90909 |1"
+		}
+	}
+}

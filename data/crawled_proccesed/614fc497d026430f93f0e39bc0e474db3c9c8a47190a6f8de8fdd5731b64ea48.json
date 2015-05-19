@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Johann_von_Venningen_Bischof_Basel.jpg/200px-Johann_von_Venningen_Bischof_Basel.jpg",
 			"previous": " ",
 			"after": " Basel hosts Switzerland s oldest university the University of Basel dating from 1460 Erasmus Paracelsus Daniel Bernoulli Leonhard Euler Jacob Burckhardt Friedrich Nietzsche and Karl Barth worked here ",
+			"color": "dark|0.40829 gray|0.40829 dark|0.40829 grey|0.40829 silver|0.35462 gray|0.10417 grey|0.10417 dim|0.052674 gray|0.052674 dim|0.052674 grey|0.052674 light|0.039589 gray|0.039589 light|0.039589 grey|0.039589 slate|0.0099478 gray|0.0099478  ",
 			"after_weights": " Basel|1 hosts|0.96429 Switzerland|0.92857 s|0.89286 oldest|0.85714 university|0.82143 the|0.78571 University|0.75 of|0.71429 Basel|0.67857 dating|0.64286 from|0.60714 1460|0.57143 Erasmus|0.53571 Paracelsus|0.5 Daniel|0.46429 Bernoulli|0.42857 Leonhard|0.39286 Euler|0.35714 Jacob|0.32143 Burckhardt|0.28571 Friedrich|0.25 Nietzsche|0.21429 and|0.17857 Karl|0.14286 Barth|0.10714 worked|0.071429 here|0.035714 |0",
 			"previous_weights": " "
 		}

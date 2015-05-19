@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "200d767a5c0c3a57dced89aea369c2964b9bc73a9f0d39a5b8b3f5b00e70a446",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AOE423.jpg/220px-AOE423.jpg",
+			"previous": " ",
+			"after": " In June 1992 the National Diet passed a UN Peacekeeping Cooperation Law which permitted the SDF to participate in UN medical refugee repatriation logistical support infrastructural reconstruction election monitoring and policing operations under strictly limited conditions citation needed ",
+			"color": "dark|0.21599 gray|0.21599 dark|0.21599 grey|0.21599 dim|0.21579 gray|0.21579 dim|0.21579 grey|0.21579 gray|0.17023 grey|0.17023 light|0.13222 steel|0.13222 blue|0.13222 black|0.096773 slate|0.070477 gray|0.070477 light|0.043966 slate|0.043966 gray|0.043966 silver|0.043239 light|0.0037699 gray|0.0037699 light|0.0037699 grey|0.0037699  ",
+			"after_weights": " In|1 June|0.97368 1992|0.94737 the|0.92105 National|0.89474 Diet|0.86842 passed|0.84211 a|0.81579 UN|0.78947 Peacekeeping|0.76316 Cooperation|0.73684 Law|0.71053 which|0.68421 permitted|0.65789 the|0.63158 SDF|0.60526 to|0.57895 participate|0.55263 in|0.52632 UN|0.5 medical|0.47368 refugee|0.44737 repatriation|0.42105 logistical|0.39474 support|0.36842 infrastructural|0.34211 reconstruction|0.31579 election|0.28947 monitoring|0.26316 and|0.23684 policing|0.21053 operations|0.18421 under|0.15789 strictly|0.13158 limited|0.10526 conditions|0.078947 citation|0.052632 needed|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

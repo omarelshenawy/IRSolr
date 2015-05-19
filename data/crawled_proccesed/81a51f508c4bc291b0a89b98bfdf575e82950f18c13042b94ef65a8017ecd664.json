@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81a51f508c4bc291b0a89b98bfdf575e82950f18c13042b94ef65a8017ecd664",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ElliottHallOWU.jpg/250px-ElliottHallOWU.jpg",
+			"previous": " ",
+			"after": " During the mid 19th century Ohio Wesleyan focused on attracting students adding fields of study and fundraising by which it significantly increased its endowment 28 Sturges Hall was constructed as the University s first library in 1855 29 In 1873 the school added the Department of Natural History housed in Merrick Hall 30 The Ohio Wesleyan Female College established in 1853 merged with the university in 1877 31 32 Between 1876 and 1888 enrollment tripled and music education greatly increased yet no major buildings were built in this time 33 34 ",
+			"color": "black|0.21968 dark|0.19017 gray|0.19017 dark|0.19017 grey|0.19017 dim|0.18033 gray|0.18033 dim|0.18033 grey|0.18033 gray|0.1764 grey|0.1764 silver|0.10467 light|0.044692 gray|0.044692 light|0.044692 grey|0.044692 gainsboro|0.02393 linen|0.0048857  ",
+			"after_weights": " During|1 the|0.98901 mid|0.97802 19th|0.96703 century|0.95604 Ohio|0.94505 Wesleyan|0.93407 focused|0.92308 on|0.91209 attracting|0.9011 students|0.89011 adding|0.87912 fields|0.86813 of|0.85714 study|0.84615 and|0.83516 fundraising|0.82418 by|0.81319 which|0.8022 it|0.79121 significantly|0.78022 increased|0.76923 its|0.75824 endowment|0.74725 28|0.73626 Sturges|0.72527 Hall|0.71429 was|0.7033 constructed|0.69231 as|0.68132 the|0.67033 University|0.65934 s|0.64835 first|0.63736 library|0.62637 in|0.61538 1855|0.6044 29|0.59341 In|0.58242 1873|0.57143 the|0.56044 school|0.54945 added|0.53846 the|0.52747 Department|0.51648 of|0.50549 Natural|0.49451 History|0.48352 housed|0.47253 in|0.46154 Merrick|0.45055 Hall|0.43956 30|0.42857 The|0.41758 Ohio|0.40659 Wesleyan|0.3956 Female|0.38462 College|0.37363 established|0.36264 in|0.35165 1853|0.34066 merged|0.32967 with|0.31868 the|0.30769 university|0.2967 in|0.28571 1877|0.27473 31|0.26374 32|0.25275 Between|0.24176 1876|0.23077 and|0.21978 1888|0.20879 enrollment|0.1978 tripled|0.18681 and|0.17582 music|0.16484 education|0.15385 greatly|0.14286 increased|0.13187 yet|0.12088 no|0.10989 major|0.098901 buildings|0.087912 were|0.076923 built|0.065934 in|0.054945 this|0.043956 time|0.032967 33|0.021978 34|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

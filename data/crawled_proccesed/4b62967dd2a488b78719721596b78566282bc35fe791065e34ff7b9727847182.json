@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b62967dd2a488b78719721596b78566282bc35fe791065e34ff7b9727847182",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stonehenge_1877.JPG/250px-Stonehenge_1877.JPG",
+			"previous": " ",
+			"after": " One of the first sites to undergo archaeological excavation was Stonehenge and other megalithic monuments in England John Aubrey was a pioneer archaeologist who recorded numerous megalithic and other field monuments in southern England He was also ahead of his time in the analysis of his findings He attempted to chart the chronological stylistic evolution of handwriting medieval architecture costume and shield shapes 12 ",
+			"color": "black|0.38153 gray|0.2614 grey|0.2614 dim|0.20175 gray|0.20175 dim|0.20175 grey|0.20175 dark|0.12816 gray|0.12816 dark|0.12816 grey|0.12816  ",
+			"after_weights": " One|1 of|0.98438 the|0.96875 first|0.95312 sites|0.9375 to|0.92188 undergo|0.90625 archaeological|0.89062 excavation|0.875 was|0.85938 Stonehenge|0.84375 and|0.82812 other|0.8125 megalithic|0.79688 monuments|0.78125 in|0.76562 England|0.75 John|0.73438 Aubrey|0.71875 was|0.70312 a|0.6875 pioneer|0.67188 archaeologist|0.65625 who|0.64062 recorded|0.625 numerous|0.60938 megalithic|0.59375 and|0.57812 other|0.5625 field|0.54688 monuments|0.53125 in|0.51562 southern|0.5 England|0.48438 He|0.46875 was|0.45312 also|0.4375 ahead|0.42188 of|0.40625 his|0.39062 time|0.375 in|0.35938 the|0.34375 analysis|0.32812 of|0.3125 his|0.29688 findings|0.28125 He|0.26562 attempted|0.25 to|0.23438 chart|0.21875 the|0.20312 chronological|0.1875 stylistic|0.17188 evolution|0.15625 of|0.14062 handwriting|0.125 medieval|0.10938 architecture|0.09375 costume|0.078125 and|0.0625 shield|0.046875 shapes|0.03125 12|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

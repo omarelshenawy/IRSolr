@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64f4ccdbb0c092b5e440a8ad1acab5486b7cf87273262eac2fc9a273b8c9eeb6",
+			"url": "https://upload.wikimedia.org/math/2/4/1/241f802fbefb6dcb6c521ca99db494e2.png",
+			"previous": " The outer product is naturally extended as a completely antisymmetric multilinear operator between any number of vectors ",
+			"after": " where the sum is over all permutations of the indices with the sign of the permutation ",
+			"color": "dim|0.32772 gray|0.32772 dim|0.32772 grey|0.32772 gray|0.22721 grey|0.22721 black|0.18461 dark|0.13352 gray|0.13352 dark|0.13352 grey|0.13352 silver|0.059573 light|0.029526 gray|0.029526 light|0.029526 grey|0.029526 gainsboro|0.020752 white|0.0038588 smoke|0.0038588  ",
+			"after_weights": " where|1 the|0.9375 sum|0.875 is|0.8125 over|0.75 all|0.6875 permutations|0.625 of|0.5625 the|0.5 indices|0.4375 with|0.375 the|0.3125 sign|0.25 of|0.1875 the|0.125 permutation|0.0625 |0",
+			"previous_weights": " The|0 outer|0.058824 product|0.11765 is|0.17647 naturally|0.23529 extended|0.29412 as|0.35294 a|0.41176 completely|0.47059 antisymmetric|0.52941 multilinear|0.58824 operator|0.64706 between|0.70588 any|0.76471 number|0.82353 of|0.88235 vectors|0.94118 |1"
+		}
+	}
+}

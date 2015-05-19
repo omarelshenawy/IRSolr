@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f94688c23a28ba180322b0b03fc4dd4358f97c665468276fae1e959ecee45a0",
+			"url": "https://upload.wikimedia.org/math/f/9/b/f9b2cca0d819d4e3509ca9d976880be2.png",
+			"previous": " The nozzle static temperature is calculated from the nozzle total static pressure ratio   Once unchoked the nozzle static pressure is equal to ambient pressure ",
+			"after": " The nozzle throat velocity squared is calculated as before using the steady flow energy equation   The density of the gases at the nozzle throat is given by ",
+			"color": "dim|0.36203 gray|0.36203 dim|0.36203 grey|0.36203 gray|0.2839 grey|0.2839 dark|0.16331 gray|0.16331 dark|0.16331 grey|0.16331 silver|0.06598 black|0.063654 light|0.030022 gray|0.030022 light|0.030022 grey|0.030022 gainsboro|0.020454  ",
+			"after_weights": " The|1 nozzle|0.96552 throat|0.93103 velocity|0.89655 squared|0.86207 is|0.82759 calculated|0.7931 as|0.75862 before|0.72414 using|0.68966 the|0.65517 steady|0.62069 flow|0.58621 energy|0.55172 equation|0.51724 |0.48276 |0.44828 The|0.41379 density|0.37931 of|0.34483 the|0.31034 gases|0.27586 at|0.24138 the|0.2069 nozzle|0.17241 throat|0.13793 is|0.10345 given|0.068966 by|0.034483 |0",
+			"previous_weights": " The|0 nozzle|0.038462 static|0.076923 temperature|0.11538 is|0.15385 calculated|0.19231 from|0.23077 the|0.26923 nozzle|0.30769 total|0.34615 static|0.38462 pressure|0.42308 ratio|0.46154 |0.5 |0.53846 Once|0.57692 unchoked|0.61538 the|0.65385 nozzle|0.69231 static|0.73077 pressure|0.76923 is|0.80769 equal|0.84615 to|0.88462 ambient|0.92308 pressure|0.96154 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "36aba01fa6f77d364385390371b0743bce6527c2772c1d7e77f11fd18eac9848",
+			"url": "https://upload.wikimedia.org/math/6/8/7/68760f0f0e72d15e089a1f050d0833b9.png",
+			"previous": "        Assuming the nozzle is choked the nozzle static temperature is calculated as follows ",
+			"after": "    NOTE inclusion of 144 in ft to obtain density in lb ft    NOTE inclusion of 144 in ft to obtain area in in  Gross Thrust",
+			"color": "dim|0.31558 gray|0.31558 dim|0.31558 grey|0.31558 gray|0.31066 grey|0.31066 dark|0.20018 gray|0.20018 dark|0.20018 grey|0.20018 silver|0.082145 light|0.040138 gray|0.040138 light|0.040138 grey|0.040138 gainsboro|0.028438 white|0.0048504 smoke|0.0048504 black|0.0035619  ",
+			"after_weights": " |1 |0.96774 |0.93548 NOTE|0.90323 inclusion|0.87097 of|0.83871 144|0.80645 in|0.77419 ft|0.74194 to|0.70968 obtain|0.67742 density|0.64516 in|0.6129 lb|0.58065 ft|0.54839 |0.51613 |0.48387 |0.45161 NOTE|0.41935 inclusion|0.3871 of|0.35484 144|0.32258 in|0.29032 ft|0.25806 to|0.22581 obtain|0.19355 area|0.16129 in|0.12903 in|0.096774 |0.064516 Gross|0.032258 Thrust|0",
+			"previous_weights": " |0 |0.05 |0.1 |0.15 |0.2 |0.25 |0.3 Assuming|0.35 the|0.4 nozzle|0.45 is|0.5 choked|0.55 the|0.6 nozzle|0.65 static|0.7 temperature|0.75 is|0.8 calculated|0.85 as|0.9 follows|0.95 |1"
+		}
+	}
+}

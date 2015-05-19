@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bf74285b051ac570139d7282153bb868e40d3e78bc86b28970af999c68d6184",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Headquarters_US_Army_SSI.png/25px-Headquarters_US_Army_SSI.png",
+			"previous": " Since the adoption of the total force policy in the aftermath of the Vietnam War reserve component soldiers have taken a more active role in U S military operations For example Reserve and Guard units took part in the Gulf War peacekeeping in Kosovo Afghanistan and the 2003 invasion of Iraq ",
+			"after": " Source U S Army organization 47 ",
+			"color": "dark|0.99517 slate|0.99517 gray|0.99517  ",
+			"after_weights": " Source|1 U|0.83333 S|0.66667 Army|0.5 organization|0.33333 47|0.16667 |0",
+			"previous_weights": " Since|0 the|0.019608 adoption|0.039216 of|0.058824 the|0.078431 total|0.098039 force|0.11765 policy|0.13725 in|0.15686 the|0.17647 aftermath|0.19608 of|0.21569 the|0.23529 Vietnam|0.2549 War|0.27451 reserve|0.29412 component|0.31373 soldiers|0.33333 have|0.35294 taken|0.37255 a|0.39216 more|0.41176 active|0.43137 role|0.45098 in|0.47059 U|0.4902 S|0.5098 military|0.52941 operations|0.54902 For|0.56863 example|0.58824 Reserve|0.60784 and|0.62745 Guard|0.64706 units|0.66667 took|0.68627 part|0.70588 in|0.72549 the|0.7451 Gulf|0.76471 War|0.78431 peacekeeping|0.80392 in|0.82353 Kosovo|0.84314 Afghanistan|0.86275 and|0.88235 the|0.90196 2003|0.92157 invasion|0.94118 of|0.96078 Iraq|0.98039 |1"
+		}
+	}
+}

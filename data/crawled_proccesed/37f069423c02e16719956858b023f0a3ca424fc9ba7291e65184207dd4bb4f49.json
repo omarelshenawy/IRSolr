@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "37f069423c02e16719956858b023f0a3ca424fc9ba7291e65184207dd4bb4f49",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Boac_707_at_london_airport_in_1964_arp.jpg/220px-Boac_707_at_london_airport_in_1964_arp.jpg",
+			"previous": " ",
+			"after": " Boeing developed military jets such as the B 47 Stratojet and B 52 Stratofortress bombers in the late 1940s and into the 1950s During the early 1950s Boeing used company funds to develop the 367 80 jet airliner demonstrator that led to the KC 135 Stratotanker and Boeing 707 jetliner ",
+			"color": "gray|0.36276 grey|0.36276 dim|0.30475 gray|0.30475 dim|0.30475 grey|0.30475 black|0.12547 dark|0.11334 gray|0.11334 dark|0.11334 grey|0.11334 silver|0.03837 light|0.017285 gray|0.017285 light|0.017285 grey|0.017285 gainsboro|0.010556 light|0.0051413 slate|0.0051413 gray|0.0051413  ",
+			"after_weights": " Boeing|1 developed|0.98 military|0.96 jets|0.94 such|0.92 as|0.9 the|0.88 B|0.86 47|0.84 Stratojet|0.82 and|0.8 B|0.78 52|0.76 Stratofortress|0.74 bombers|0.72 in|0.7 the|0.68 late|0.66 1940s|0.64 and|0.62 into|0.6 the|0.58 1950s|0.56 During|0.54 the|0.52 early|0.5 1950s|0.48 Boeing|0.46 used|0.44 company|0.42 funds|0.4 to|0.38 develop|0.36 the|0.34 367|0.32 80|0.3 jet|0.28 airliner|0.26 demonstrator|0.24 that|0.22 led|0.2 to|0.18 the|0.16 KC|0.14 135|0.12 Stratotanker|0.1 and|0.08 Boeing|0.06 707|0.04 jetliner|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

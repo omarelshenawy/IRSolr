@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21008239596a5f16b11f869d03d56aebc554855ad2ffc6d9852d0f6ec7cef795",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Obama_at_Joint_Base_Andrews.jpg/220px-Obama_at_Joint_Base_Andrews.jpg",
+			"previous": " ",
+			"after": " Union American Civil War troops used a country church near Camp Springs Maryland for sleeping quarters now named Chapel Two 8 and on 25 August 1941 President Roosevelt directed use of the land for an airfield citation needed ",
+			"color": "dark|0.61031 gray|0.61031 dark|0.61031 grey|0.61031 gray|0.15232 grey|0.15232 black|0.12988 dim|0.047858 gray|0.047858 dim|0.047858 grey|0.047858 silver|0.038721 rosy|0.009286 brown|0.009286  ",
+			"after_weights": " Union|1 American|0.97368 Civil|0.94737 War|0.92105 troops|0.89474 used|0.86842 a|0.84211 country|0.81579 church|0.78947 near|0.76316 Camp|0.73684 Springs|0.71053 Maryland|0.68421 for|0.65789 sleeping|0.63158 quarters|0.60526 now|0.57895 named|0.55263 Chapel|0.52632 Two|0.5 8|0.47368 and|0.44737 on|0.42105 25|0.39474 August|0.36842 1941|0.34211 President|0.31579 Roosevelt|0.28947 directed|0.26316 use|0.23684 of|0.21053 the|0.18421 land|0.15789 for|0.13158 an|0.10526 airfield|0.078947 citation|0.052632 needed|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fb17001b5b89f8df00d787f6dc80573944d528d6ad6242c3efa05e9d21218af",
+			"url": "https://upload.wikimedia.org/math/6/c/7/6c78c32290edee501f7ef21141fbf2b3.png",
+			"previous": " The corresponding freestream stagnation or total pressure is   The stagnation or total temperature in the freestream approaching the engine can be estimated using the following equation derived from the Steady Flow Energy Equation ",
+			"after": " Since there is no work or heat loss in the intake under steady state conditions  ",
+			"color": "dim|0.37712 gray|0.37712 dim|0.37712 grey|0.37712 gray|0.28348 grey|0.28348 dark|0.17906 gray|0.17906 dark|0.17906 grey|0.17906 silver|0.079591 light|0.038463 gray|0.038463 light|0.038463 grey|0.038463 gainsboro|0.027234 white|0.0035729 smoke|0.0035729  ",
+			"after_weights": " Since|1 there|0.9375 is|0.875 no|0.8125 work|0.75 or|0.6875 heat|0.625 loss|0.5625 in|0.5 the|0.4375 intake|0.375 under|0.3125 steady|0.25 state|0.1875 conditions|0.125 |0.0625 |0",
+			"previous_weights": " The|0 corresponding|0.028571 freestream|0.057143 stagnation|0.085714 or|0.11429 total|0.14286 pressure|0.17143 is|0.2 |0.22857 |0.25714 The|0.28571 stagnation|0.31429 or|0.34286 total|0.37143 temperature|0.4 in|0.42857 the|0.45714 freestream|0.48571 approaching|0.51429 the|0.54286 engine|0.57143 can|0.6 be|0.62857 estimated|0.65714 using|0.68571 the|0.71429 following|0.74286 equation|0.77143 derived|0.8 from|0.82857 the|0.85714 Steady|0.88571 Flow|0.91429 Energy|0.94286 Equation|0.97143 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6082638c6ba8281c05723130dcf14f42c85b6bcd75c40cdcb6bcd5f9b348f521",
+			"url": "https://upload.wikimedia.org/math/d/7/1/d716d370adc6c76f346d972d35fe769e.png",
+			"previous": " General solutions of the heat equation can be found by the method of separation of variables Some examples appear in the heat equation article They are examples of Fourier series for periodic f and Fourier transforms for non periodic f Using the Fourier transform a general solution of the heat equation has the form",
+			"after": " where F is an arbitrary function To satisfy the initial condition F is given by the Fourier transform of f that is",
+			"color": "dim|0.38708 gray|0.38708 dim|0.38708 grey|0.38708 gray|0.28901 grey|0.28901 dark|0.17905 gray|0.17905 dark|0.17905 grey|0.17905 silver|0.070687 light|0.032897 gray|0.032897 light|0.032897 grey|0.032897 gainsboro|0.02285 white|0.0043579 smoke|0.0043579  ",
+			"after_weights": " where|1 F|0.95238 is|0.90476 an|0.85714 arbitrary|0.80952 function|0.7619 To|0.71429 satisfy|0.66667 the|0.61905 initial|0.57143 condition|0.52381 F|0.47619 is|0.42857 given|0.38095 by|0.33333 the|0.28571 Fourier|0.2381 transform|0.19048 of|0.14286 f|0.095238 that|0.047619 is|0",
+			"previous_weights": " General|0 solutions|0.018868 of|0.037736 the|0.056604 heat|0.075472 equation|0.09434 can|0.11321 be|0.13208 found|0.15094 by|0.16981 the|0.18868 method|0.20755 of|0.22642 separation|0.24528 of|0.26415 variables|0.28302 Some|0.30189 examples|0.32075 appear|0.33962 in|0.35849 the|0.37736 heat|0.39623 equation|0.41509 article|0.43396 They|0.45283 are|0.4717 examples|0.49057 of|0.50943 Fourier|0.5283 series|0.54717 for|0.56604 periodic|0.58491 f|0.60377 and|0.62264 Fourier|0.64151 transforms|0.66038 for|0.67925 non|0.69811 periodic|0.71698 f|0.73585 Using|0.75472 the|0.77358 Fourier|0.79245 transform|0.81132 a|0.83019 general|0.84906 solution|0.86792 of|0.88679 the|0.90566 heat|0.92453 equation|0.9434 has|0.96226 the|0.98113 form|1"
+		}
+	}
+}

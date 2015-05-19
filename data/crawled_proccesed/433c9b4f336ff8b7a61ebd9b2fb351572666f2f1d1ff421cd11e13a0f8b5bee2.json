@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "433c9b4f336ff8b7a61ebd9b2fb351572666f2f1d1ff421cd11e13a0f8b5bee2",
+			"url": "https://upload.wikimedia.org/math/8/4/7/847cf973b3b81fe33c7a6a7b332a2a25.png",
+			"previous": " which we know is unique Now p1 appears in the prime factorization of t and it is not equal to any q so it must be one of the r s That means p1 is a factor of q1 p1 so there exists a positive integer k such that p1k q1 p1 and therefore",
+			"after": " But that means q1 has a proper factorization so it is not a prime number This contradiction shows that s does not actually have two different prime factorizations As a result there is no smallest positive integer with multiple prime factorizations hence all positive integers greater than 1 factor uniquely into primes ",
+			"color": "dim|0.4037 gray|0.4037 dim|0.4037 grey|0.4037 gray|0.27155 grey|0.27155 dark|0.16201 gray|0.16201 dark|0.16201 grey|0.16201 silver|0.076037 light|0.039695 gray|0.039695 light|0.039695 grey|0.039695 gainsboro|0.028047 white|0.0040654 smoke|0.0040654  ",
+			"after_weights": " But|1 that|0.98077 means|0.96154 q1|0.94231 has|0.92308 a|0.90385 proper|0.88462 factorization|0.86538 so|0.84615 it|0.82692 is|0.80769 not|0.78846 a|0.76923 prime|0.75 number|0.73077 This|0.71154 contradiction|0.69231 shows|0.67308 that|0.65385 s|0.63462 does|0.61538 not|0.59615 actually|0.57692 have|0.55769 two|0.53846 different|0.51923 prime|0.5 factorizations|0.48077 As|0.46154 a|0.44231 result|0.42308 there|0.40385 is|0.38462 no|0.36538 smallest|0.34615 positive|0.32692 integer|0.30769 with|0.28846 multiple|0.26923 prime|0.25 factorizations|0.23077 hence|0.21154 all|0.19231 positive|0.17308 integers|0.15385 greater|0.13462 than|0.11538 1|0.096154 factor|0.076923 uniquely|0.057692 into|0.038462 primes|0.019231 |0",
+			"previous_weights": " which|0 we|0.018868 know|0.037736 is|0.056604 unique|0.075472 Now|0.09434 p1|0.11321 appears|0.13208 in|0.15094 the|0.16981 prime|0.18868 factorization|0.20755 of|0.22642 t|0.24528 and|0.26415 it|0.28302 is|0.30189 not|0.32075 equal|0.33962 to|0.35849 any|0.37736 q|0.39623 so|0.41509 it|0.43396 must|0.45283 be|0.4717 one|0.49057 of|0.50943 the|0.5283 r|0.54717 s|0.56604 That|0.58491 means|0.60377 p1|0.62264 is|0.64151 a|0.66038 factor|0.67925 of|0.69811 q1|0.71698 p1|0.73585 so|0.75472 there|0.77358 exists|0.79245 a|0.81132 positive|0.83019 integer|0.84906 k|0.86792 such|0.88679 that|0.90566 p1k|0.92453 q1|0.9434 p1|0.96226 and|0.98113 therefore|1"
+		}
+	}
+}

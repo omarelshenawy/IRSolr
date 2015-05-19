@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "67e423d0c58432efc5509ae3b9348efdc4a46230e406849a2b0907a135137d3e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Religious_syms.svg/220px-Religious_syms.svg.png",
+			"previous": " ",
+			"after": " Religious studies is the academic field of multi disciplinary secular study of religious beliefs behaviors and institutions It describes compares interprets and explains religion emphasizing systematic historically based and cross cultural perspectives ",
+			"color": "black|0.92714 dim|0.042074 gray|0.042074 dim|0.042074 grey|0.042074 gray|0.028049 grey|0.028049  ",
+			"after_weights": " Religious|1 studies|0.96875 is|0.9375 the|0.90625 academic|0.875 field|0.84375 of|0.8125 multi|0.78125 disciplinary|0.75 secular|0.71875 study|0.6875 of|0.65625 religious|0.625 beliefs|0.59375 behaviors|0.5625 and|0.53125 institutions|0.5 It|0.46875 describes|0.4375 compares|0.40625 interprets|0.375 and|0.34375 explains|0.3125 religion|0.28125 emphasizing|0.25 systematic|0.21875 historically|0.1875 based|0.15625 and|0.125 cross|0.09375 cultural|0.0625 perspectives|0.03125 |0",
+			"previous_weights": " "
+		}
+	}
+}

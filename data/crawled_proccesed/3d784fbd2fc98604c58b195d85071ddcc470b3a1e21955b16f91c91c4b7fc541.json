@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d784fbd2fc98604c58b195d85071ddcc470b3a1e21955b16f91c91c4b7fc541",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Knight_Triceratops.jpg/220px-Knight_Triceratops.jpg",
+			"previous": " ",
+			"after": " The distinctive appearance of Triceratops has led to them being frequently depicted in films computer games and documentaries such as the 1993 film Jurassic Park and the 1999 BBC television documentary Walking with Dinosaurs Triceratops the species are not identified is the official state fossil of South Dakota 102 and the official state dinosaur of Wyoming 103 ",
+			"color": "dark|0.1859 slate|0.1859 gray|0.1859 dark|0.18263 olive|0.18263 green|0.18263 tan|0.14162 dim|0.096933 gray|0.096933 dim|0.096933 grey|0.096933 gray|0.09104 grey|0.09104 dark|0.083821 gray|0.083821 dark|0.083821 grey|0.083821 black|0.070709  ",
+			"after_weights": " The|1 distinctive|0.98246 appearance|0.96491 of|0.94737 Triceratops|0.92982 has|0.91228 led|0.89474 to|0.87719 them|0.85965 being|0.84211 frequently|0.82456 depicted|0.80702 in|0.78947 films|0.77193 computer|0.75439 games|0.73684 and|0.7193 documentaries|0.70175 such|0.68421 as|0.66667 the|0.64912 1993|0.63158 film|0.61404 Jurassic|0.59649 Park|0.57895 and|0.5614 the|0.54386 1999|0.52632 BBC|0.50877 television|0.49123 documentary|0.47368 Walking|0.45614 with|0.4386 Dinosaurs|0.42105 Triceratops|0.40351 the|0.38596 species|0.36842 are|0.35088 not|0.33333 identified|0.31579 is|0.29825 the|0.2807 official|0.26316 state|0.24561 fossil|0.22807 of|0.21053 South|0.19298 Dakota|0.17544 102|0.15789 and|0.14035 the|0.12281 official|0.10526 state|0.087719 dinosaur|0.070175 of|0.052632 Wyoming|0.035088 103|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

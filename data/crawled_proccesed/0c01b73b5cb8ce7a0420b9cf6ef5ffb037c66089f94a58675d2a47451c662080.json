@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cyclone_barnstar.png/40px-Cyclone_barnstar.png",
 			"previous": " ",
 			"after": " You can award the Tropical Cyclone Barnstar by writing subst tropical cyclone barnstar text on the talk page of a user you feel has excelled in contributions on the subject of tropical cyclones ",
+			"color": "dark|0.8403 slate|0.8403 gray|0.8403 dark|0.058527 gray|0.058527 dark|0.058527 grey|0.058527 gray|0.050845 grey|0.050845 dim|0.03304 gray|0.03304 dim|0.03304 grey|0.03304 silver|0.0076392 cadet|0.0050871 blue|0.0050871  ",
 			"after_weights": " You|1 can|0.9697 award|0.93939 the|0.90909 Tropical|0.87879 Cyclone|0.84848 Barnstar|0.81818 by|0.78788 writing|0.75758 subst|0.72727 tropical|0.69697 cyclone|0.66667 barnstar|0.63636 text|0.60606 on|0.57576 the|0.54545 talk|0.51515 page|0.48485 of|0.45455 a|0.42424 user|0.39394 you|0.36364 feel|0.33333 has|0.30303 excelled|0.27273 in|0.24242 contributions|0.21212 on|0.18182 the|0.15152 subject|0.12121 of|0.090909 tropical|0.060606 cyclones|0.030303 |0",
 			"previous_weights": " "
 		}

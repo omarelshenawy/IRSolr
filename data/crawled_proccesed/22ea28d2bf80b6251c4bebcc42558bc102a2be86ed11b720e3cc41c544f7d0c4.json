@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22ea28d2bf80b6251c4bebcc42558bc102a2be86ed11b720e3cc41c544f7d0c4",
+			"url": "https://upload.wikimedia.org/math/e/6/6/e66bc679b47d61f3a5f2fbef0f121746.png",
+			"previous": " The thrust T and torque Q depend on the propeller s diameter D revolutions N and rate of advance together with the character of the fluid in which the propeller is operating and gravity These factors create the following non dimensional relationship ",
+			"after": " For two identical propellers the expression for both will be the same So with the propellers and using the same subscripts to indicate each propeller ",
+			"color": "dark|0.26671 gray|0.26671 dark|0.26671 grey|0.26671 gray|0.18139 grey|0.18139 silver|0.17076 light|0.11129 gray|0.11129 light|0.11129 grey|0.11129 gainsboro|0.086278 dim|0.081772 gray|0.081772 dim|0.081772 grey|0.081772 white|0.02324 smoke|0.02324 linen|0.010742 lavender|0.010729 blush|0.010729 alice|0.010476 blue|0.010476 ghost|0.010012 white|0.010012 sea|0.0096864 shell|0.0096864 snow|0.0094965 white|0.0071899 mint|0.0048608 cream|0.0048608 floral|0.0029114 white|0.0029114  ",
+			"after_weights": " For|1 two|0.96 identical|0.92 propellers|0.88 the|0.84 expression|0.8 for|0.76 both|0.72 will|0.68 be|0.64 the|0.6 same|0.56 So|0.52 with|0.48 the|0.44 propellers|0.4 and|0.36 using|0.32 the|0.28 same|0.24 subscripts|0.2 to|0.16 indicate|0.12 each|0.08 propeller|0.04 |0",
+			"previous_weights": " The|0 thrust|0.02381 T|0.047619 and|0.071429 torque|0.095238 Q|0.11905 depend|0.14286 on|0.16667 the|0.19048 propeller|0.21429 s|0.2381 diameter|0.2619 D|0.28571 revolutions|0.30952 N|0.33333 and|0.35714 rate|0.38095 of|0.40476 advance|0.42857 together|0.45238 with|0.47619 the|0.5 character|0.52381 of|0.54762 the|0.57143 fluid|0.59524 in|0.61905 which|0.64286 the|0.66667 propeller|0.69048 is|0.71429 operating|0.7381 and|0.7619 gravity|0.78571 These|0.80952 factors|0.83333 create|0.85714 the|0.88095 following|0.90476 non|0.92857 dimensional|0.95238 relationship|0.97619 |1"
+		}
+	}
+}

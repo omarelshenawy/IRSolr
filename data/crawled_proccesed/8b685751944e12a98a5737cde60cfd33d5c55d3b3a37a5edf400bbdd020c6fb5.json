@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b685751944e12a98a5737cde60cfd33d5c55d3b3a37a5edf400bbdd020c6fb5",
+			"url": "https://upload.wikimedia.org/math/9/a/a/9aa6ce5a7c2877269d2c3ed191903fe1.png",
+			"previous": " Here and we can use as the antiderivative Therefore  As an example suppose the following is to be calculated ",
+			"after": " Or more generally suppose that is to be calculated Here and can be used as the antiderivative Therefore ",
+			"color": "dim|0.38722 gray|0.38722 dim|0.38722 grey|0.38722 gray|0.2919 grey|0.2919 dark|0.17451 gray|0.17451 dark|0.17451 grey|0.17451 silver|0.072954 light|0.034269 gray|0.034269 light|0.034269 grey|0.034269 gainsboro|0.024347 white|0.0041226 smoke|0.0041226  ",
+			"after_weights": " Or|1 more|0.94444 generally|0.88889 suppose|0.83333 that|0.77778 is|0.72222 to|0.66667 be|0.61111 calculated|0.55556 Here|0.5 and|0.44444 can|0.38889 be|0.33333 used|0.27778 as|0.22222 the|0.16667 antiderivative|0.11111 Therefore|0.055556 |0",
+			"previous_weights": " Here|0 and|0.05 we|0.1 can|0.15 use|0.2 as|0.25 the|0.3 antiderivative|0.35 Therefore|0.4 |0.45 As|0.5 an|0.55 example|0.6 suppose|0.65 the|0.7 following|0.75 is|0.8 to|0.85 be|0.9 calculated|0.95 |1"
+		}
+	}
+}

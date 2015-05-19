@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21c48adfca4b3805e096d7c2c9b9ea51d7e696b5a02f4c984b2dded990a58050",
+			"url": "https://upload.wikimedia.org/math/5/4/c/54c78daf6b3d617e2f13fd5e18dde702.png",
+			"previous": " One of the ways to prove the theorem relies on Hurwitz quaternions which are the analog of integers for quaternions 7 The Hurwitz quaternions consist of all quaternions with integer components and all quaternions with half integer components These two sets can be combined into a single formula",
+			"after": " where are integers Thus the quaternion components are either all integers or all half integers depending on whether is even or odd respectively The set of Hurwitz quaternions forms a ring that is to say the sum or product of any two Hurwitz quaternions is likewise a Hurwitz quaternion ",
+			"color": "dim|0.39599 gray|0.39599 dim|0.39599 grey|0.39599 gray|0.27198 grey|0.27198 dark|0.17234 gray|0.17234 dark|0.17234 grey|0.17234 silver|0.079195 light|0.039776 gray|0.039776 light|0.039776 grey|0.039776 gainsboro|0.027545  ",
+			"after_weights": " where|1 are|0.97959 integers|0.95918 Thus|0.93878 the|0.91837 quaternion|0.89796 components|0.87755 are|0.85714 either|0.83673 all|0.81633 integers|0.79592 or|0.77551 all|0.7551 half|0.73469 integers|0.71429 depending|0.69388 on|0.67347 whether|0.65306 is|0.63265 even|0.61224 or|0.59184 odd|0.57143 respectively|0.55102 The|0.53061 set|0.5102 of|0.4898 Hurwitz|0.46939 quaternions|0.44898 forms|0.42857 a|0.40816 ring|0.38776 that|0.36735 is|0.34694 to|0.32653 say|0.30612 the|0.28571 sum|0.26531 or|0.2449 product|0.22449 of|0.20408 any|0.18367 two|0.16327 Hurwitz|0.14286 quaternions|0.12245 is|0.10204 likewise|0.081633 a|0.061224 Hurwitz|0.040816 quaternion|0.020408 |0",
+			"previous_weights": " One|0 of|0.021277 the|0.042553 ways|0.06383 to|0.085106 prove|0.10638 the|0.12766 theorem|0.14894 relies|0.17021 on|0.19149 Hurwitz|0.21277 quaternions|0.23404 which|0.25532 are|0.2766 the|0.29787 analog|0.31915 of|0.34043 integers|0.3617 for|0.38298 quaternions|0.40426 7|0.42553 The|0.44681 Hurwitz|0.46809 quaternions|0.48936 consist|0.51064 of|0.53191 all|0.55319 quaternions|0.57447 with|0.59574 integer|0.61702 components|0.6383 and|0.65957 all|0.68085 quaternions|0.70213 with|0.7234 half|0.74468 integer|0.76596 components|0.78723 These|0.80851 two|0.82979 sets|0.85106 can|0.87234 be|0.89362 combined|0.91489 into|0.93617 a|0.95745 single|0.97872 formula|1"
+		}
+	}
+}

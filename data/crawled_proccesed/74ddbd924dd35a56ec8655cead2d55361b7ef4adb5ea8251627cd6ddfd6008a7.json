@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "74ddbd924dd35a56ec8655cead2d55361b7ef4adb5ea8251627cd6ddfd6008a7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BrantaLeucopsisMigration.jpg/300px-BrantaLeucopsisMigration.jpg",
+			"previous": " ",
+			"after": " Bird migration is the regular seasonal movement often north and south along a flyway between breeding and wintering grounds Many species of bird migrate Migration carries high costs in predation and mortality including from hunting by humans Migration is driven primarily by availability of food It occurs mainly in the northern hemisphere where birds are funnelled on to specific routes by natural barriers such as the Mediterranean Sea or the Caribbean Sea ",
+			"color": "dark|0.7504 gray|0.7504 dark|0.7504 grey|0.7504 gray|0.22134 grey|0.22134 silver|0.01034 dim|0.0076183 gray|0.0076183 dim|0.0076183 grey|0.0076183 black|0.0075669  ",
+			"after_weights": " Bird|1 migration|0.98611 is|0.97222 the|0.95833 regular|0.94444 seasonal|0.93056 movement|0.91667 often|0.90278 north|0.88889 and|0.875 south|0.86111 along|0.84722 a|0.83333 flyway|0.81944 between|0.80556 breeding|0.79167 and|0.77778 wintering|0.76389 grounds|0.75 Many|0.73611 species|0.72222 of|0.70833 bird|0.69444 migrate|0.68056 Migration|0.66667 carries|0.65278 high|0.63889 costs|0.625 in|0.61111 predation|0.59722 and|0.58333 mortality|0.56944 including|0.55556 from|0.54167 hunting|0.52778 by|0.51389 humans|0.5 Migration|0.48611 is|0.47222 driven|0.45833 primarily|0.44444 by|0.43056 availability|0.41667 of|0.40278 food|0.38889 It|0.375 occurs|0.36111 mainly|0.34722 in|0.33333 the|0.31944 northern|0.30556 hemisphere|0.29167 where|0.27778 birds|0.26389 are|0.25 funnelled|0.23611 on|0.22222 to|0.20833 specific|0.19444 routes|0.18056 by|0.16667 natural|0.15278 barriers|0.13889 such|0.125 as|0.11111 the|0.097222 Mediterranean|0.083333 Sea|0.069444 or|0.055556 the|0.041667 Caribbean|0.027778 Sea|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

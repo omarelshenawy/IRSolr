@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "102ec26fd4c706fe872bd26f164c12cff23629ebd6e41e8d7908dae6b7df61a9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rainbow_Street_-_23_July_2008_%287%29.JPG/220px-Rainbow_Street_-_23_July_2008_%287%29.JPG",
+			"previous": " The city is administered as the Greater Amman Municipality GAM and covers 27 districts which include 12 ",
+			"after": " The city s largest airport Queen Alia International Airport situated about 30 km 18 64 mi south of Amman is the major international airport in Jordan and the hub for Royal Jordanian the flag carrier The airport expanding was recently done and modified including the decommissiong of the old terminals and the commission a new terminal costing 700M to handle over 12 million passengers Amman Civil Airport is a one terminal airport that serves primarily domestic and nearby international routes and the military 13 ",
+			"color": "black|0.57559 dim|0.20323 gray|0.20323 dim|0.20323 grey|0.20323 gray|0.097844 grey|0.097844 dark|0.028366 gray|0.028366 dark|0.028366 grey|0.028366 light|0.022165 slate|0.022165 gray|0.022165 slate|0.02026 gray|0.02026 tan|0.010892 silver|0.010049  ",
+			"after_weights": " The|1 city|0.9881 s|0.97619 largest|0.96429 airport|0.95238 Queen|0.94048 Alia|0.92857 International|0.91667 Airport|0.90476 situated|0.89286 about|0.88095 30|0.86905 km|0.85714 18|0.84524 64|0.83333 mi|0.82143 south|0.80952 of|0.79762 Amman|0.78571 is|0.77381 the|0.7619 major|0.75 international|0.7381 airport|0.72619 in|0.71429 Jordan|0.70238 and|0.69048 the|0.67857 hub|0.66667 for|0.65476 Royal|0.64286 Jordanian|0.63095 the|0.61905 flag|0.60714 carrier|0.59524 The|0.58333 airport|0.57143 expanding|0.55952 was|0.54762 recently|0.53571 done|0.52381 and|0.5119 modified|0.5 including|0.4881 the|0.47619 decommissiong|0.46429 of|0.45238 the|0.44048 old|0.42857 terminals|0.41667 and|0.40476 the|0.39286 commission|0.38095 a|0.36905 new|0.35714 terminal|0.34524 costing|0.33333 700M|0.32143 to|0.30952 handle|0.29762 over|0.28571 12|0.27381 million|0.2619 passengers|0.25 Amman|0.2381 Civil|0.22619 Airport|0.21429 is|0.20238 a|0.19048 one|0.17857 terminal|0.16667 airport|0.15476 that|0.14286 serves|0.13095 primarily|0.11905 domestic|0.10714 and|0.095238 nearby|0.083333 international|0.071429 routes|0.059524 and|0.047619 the|0.035714 military|0.02381 13|0.011905 |0",
+			"previous_weights": " The|0 city|0.058824 is|0.11765 administered|0.17647 as|0.23529 the|0.29412 Greater|0.35294 Amman|0.41176 Municipality|0.47059 GAM|0.52941 and|0.58824 covers|0.64706 27|0.70588 districts|0.76471 which|0.82353 include|0.88235 12|0.94118 |1"
+		}
+	}
+}

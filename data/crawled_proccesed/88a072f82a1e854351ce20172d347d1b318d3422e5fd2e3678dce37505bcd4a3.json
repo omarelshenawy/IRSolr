@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "88a072f82a1e854351ce20172d347d1b318d3422e5fd2e3678dce37505bcd4a3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yellow_sunset_at_Tsavo_East_National_Park.jpg/140px-Yellow_sunset_at_Tsavo_East_National_Park.jpg",
+			"previous": " ",
+			"after": " Kitui County is a county of Kenya Its capital and largest town is Kitui although Mwingi is also another major urban centre The county has a population of 1 012 709 2009 census and an area of 20 402 km Read more ",
+			"color": "black|0.8282 dark|0.064432 golden|0.064432 rod|0.064432 golden|0.056276 rod|0.056276 saddle|0.026877 brown|0.026877 khaki|0.005392  ",
+			"after_weights": " Kitui|1 County|0.97619 is|0.95238 a|0.92857 county|0.90476 of|0.88095 Kenya|0.85714 Its|0.83333 capital|0.80952 and|0.78571 largest|0.7619 town|0.7381 is|0.71429 Kitui|0.69048 although|0.66667 Mwingi|0.64286 is|0.61905 also|0.59524 another|0.57143 major|0.54762 urban|0.52381 centre|0.5 The|0.47619 county|0.45238 has|0.42857 a|0.40476 population|0.38095 of|0.35714 1|0.33333 012|0.30952 709|0.28571 2009|0.2619 census|0.2381 and|0.21429 an|0.19048 area|0.16667 of|0.14286 20|0.11905 402|0.095238 km|0.071429 Read|0.047619 more|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

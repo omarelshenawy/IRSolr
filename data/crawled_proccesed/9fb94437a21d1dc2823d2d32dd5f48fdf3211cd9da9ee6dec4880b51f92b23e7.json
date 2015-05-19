@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fb94437a21d1dc2823d2d32dd5f48fdf3211cd9da9ee6dec4880b51f92b23e7",
+			"url": "https://upload.wikimedia.org/math/d/d/9/dd93fe3e225ca2f990b60b6bc1575ee4.png",
+			"previous": " Once the exact value of an eigenvalue is known the corresponding eigenvectors can be found by finding non zero solutions of the eigenvalue equation that becomes a system of linear equations with known coefficients For example once it is known that 6 is an eigenvalue of the matrix",
+			"after": " we can find its eigenvectors by solving the equation that is",
+			"color": "dark|0.27241 gray|0.27241 dark|0.27241 grey|0.27241 dim|0.25167 gray|0.25167 dim|0.25167 grey|0.25167 gray|0.22739 grey|0.22739 silver|0.1019 light|0.051767 gray|0.051767 light|0.051767 grey|0.051767 gainsboro|0.042696 white|0.0086681 smoke|0.0086681 linen|0.0073257 alice|0.0071185 blue|0.0071185 lavender|0.0071185 blush|0.0071185 ghost|0.0070477 white|0.0070477 sea|0.0070021 shell|0.0070021 snow|0.0069623  ",
+			"after_weights": " we|1 can|0.9 find|0.8 its|0.7 eigenvectors|0.6 by|0.5 solving|0.4 the|0.3 equation|0.2 that|0.1 is|0",
+			"previous_weights": " Once|0 the|0.021277 exact|0.042553 value|0.06383 of|0.085106 an|0.10638 eigenvalue|0.12766 is|0.14894 known|0.17021 the|0.19149 corresponding|0.21277 eigenvectors|0.23404 can|0.25532 be|0.2766 found|0.29787 by|0.31915 finding|0.34043 non|0.3617 zero|0.38298 solutions|0.40426 of|0.42553 the|0.44681 eigenvalue|0.46809 equation|0.48936 that|0.51064 becomes|0.53191 a|0.55319 system|0.57447 of|0.59574 linear|0.61702 equations|0.6383 with|0.65957 known|0.68085 coefficients|0.70213 For|0.7234 example|0.74468 once|0.76596 it|0.78723 is|0.80851 known|0.82979 that|0.85106 6|0.87234 is|0.89362 an|0.91489 eigenvalue|0.93617 of|0.95745 the|0.97872 matrix|1"
+		}
+	}
+}

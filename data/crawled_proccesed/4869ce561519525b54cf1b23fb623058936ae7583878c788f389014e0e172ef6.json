@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4869ce561519525b54cf1b23fb623058936ae7583878c788f389014e0e172ef6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/STL_Terminal_1_MetroLink_Station.jpg/220px-STL_Terminal_1_MetroLink_Station.jpg",
+			"previous": " ",
+			"after": " The airport is connected to MetroLink s Red Line via a station at both Terminal 1 and Terminal 2 One ride and all day tickets can be purchased from vending machines on the platforms MetroLink lines provide direct or indirect service to downtown St Louis the Clayton area and Illinois suburbs in St Clair County ",
+			"color": "dim|0.32529 gray|0.32529 dim|0.32529 grey|0.32529 gray|0.23431 grey|0.23431 slate|0.1532 gray|0.1532 light|0.14229 slate|0.14229 gray|0.14229 black|0.049247 dark|0.043054 gray|0.043054 dark|0.043054 grey|0.043054 dark|0.011578 slate|0.011578 gray|0.011578 silver|0.008975  ",
+			"after_weights": " The|1 airport|0.98182 is|0.96364 connected|0.94545 to|0.92727 MetroLink|0.90909 s|0.89091 Red|0.87273 Line|0.85455 via|0.83636 a|0.81818 station|0.8 at|0.78182 both|0.76364 Terminal|0.74545 1|0.72727 and|0.70909 Terminal|0.69091 2|0.67273 One|0.65455 ride|0.63636 and|0.61818 all|0.6 day|0.58182 tickets|0.56364 can|0.54545 be|0.52727 purchased|0.50909 from|0.49091 vending|0.47273 machines|0.45455 on|0.43636 the|0.41818 platforms|0.4 MetroLink|0.38182 lines|0.36364 provide|0.34545 direct|0.32727 or|0.30909 indirect|0.29091 service|0.27273 to|0.25455 downtown|0.23636 St|0.21818 Louis|0.2 the|0.18182 Clayton|0.16364 area|0.14545 and|0.12727 Illinois|0.10909 suburbs|0.090909 in|0.072727 St|0.054545 Clair|0.036364 County|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

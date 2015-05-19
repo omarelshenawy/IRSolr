@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47a823040567ef013709d67d587ba5b11a4c116d49319dd666bc994eeca79303",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/United_States_Navy_SEALs_81.jpg/220px-United_States_Navy_SEALs_81.jpg",
+			"previous": " On March 16 2014 US Navy SEALs took control of MV Morning Glory a tanker full of oil loaded from a rebel held port in Libya The raid by Navy SEALs took place in international waters off the coast of Cyprus 40 ",
+			"after": " ",
+			"color": "black|0.58042 dark|0.10238 slate|0.10238 gray|0.10238 dim|0.097776 gray|0.097776 dim|0.097776 grey|0.097776 dark|0.036683 khaki|0.036683 gray|0.036171 grey|0.036171 dark|0.021069 gray|0.021069 dark|0.021069 grey|0.021069 silver|0.01314 light|0.010191 gray|0.010191 light|0.010191 grey|0.010191  ",
+			"after_weights": " ",
+			"previous_weights": " On|0 March|0.02381 16|0.047619 2014|0.071429 US|0.095238 Navy|0.11905 SEALs|0.14286 took|0.16667 control|0.19048 of|0.21429 MV|0.2381 Morning|0.2619 Glory|0.28571 a|0.30952 tanker|0.33333 full|0.35714 of|0.38095 oil|0.40476 loaded|0.42857 from|0.45238 a|0.47619 rebel|0.5 held|0.52381 port|0.54762 in|0.57143 Libya|0.59524 The|0.61905 raid|0.64286 by|0.66667 Navy|0.69048 SEALs|0.71429 took|0.7381 place|0.7619 in|0.78571 international|0.80952 waters|0.83333 off|0.85714 the|0.88095 coast|0.90476 of|0.92857 Cyprus|0.95238 40|0.97619 |1"
+		}
+	}
+}

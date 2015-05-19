@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22ba1e3ea6f6c7f97933ce40edf15baff8165c504eee0294699557dec28d59ce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MorrisWaterMaze.jpg/220px-MorrisWaterMaze.jpg",
+			"previous": " ",
+			"after": " A classic and popular tool used to relate mental and neural activity is the electroencephalogram EEG a technique using amplified electrodes on a person s scalp to measure voltage changes in different parts of the brain Hans Berger the first researcher to use EEG on an unopened skull quickly found that brains exhibit signature brain waves electric oscillations which correspond to different states of consciousness Researchers subsequently refined statistical methods for synthesizing the electrode data and identified unique brain wave patterns such as the delta wave observed during non REM sleep 170 ",
+			"color": "gray|0.4453 grey|0.4453 dim|0.32294 gray|0.32294 dim|0.32294 grey|0.32294 slate|0.07819 gray|0.07819 dark|0.046631 gray|0.046631 dark|0.046631 grey|0.046631 light|0.034139 slate|0.034139 gray|0.034139 black|0.029699  ",
+			"after_weights": " A|1 classic|0.98913 and|0.97826 popular|0.96739 tool|0.95652 used|0.94565 to|0.93478 relate|0.92391 mental|0.91304 and|0.90217 neural|0.8913 activity|0.88043 is|0.86957 the|0.8587 electroencephalogram|0.84783 EEG|0.83696 a|0.82609 technique|0.81522 using|0.80435 amplified|0.79348 electrodes|0.78261 on|0.77174 a|0.76087 person|0.75 s|0.73913 scalp|0.72826 to|0.71739 measure|0.70652 voltage|0.69565 changes|0.68478 in|0.67391 different|0.66304 parts|0.65217 of|0.6413 the|0.63043 brain|0.61957 Hans|0.6087 Berger|0.59783 the|0.58696 first|0.57609 researcher|0.56522 to|0.55435 use|0.54348 EEG|0.53261 on|0.52174 an|0.51087 unopened|0.5 skull|0.48913 quickly|0.47826 found|0.46739 that|0.45652 brains|0.44565 exhibit|0.43478 signature|0.42391 brain|0.41304 waves|0.40217 electric|0.3913 oscillations|0.38043 which|0.36957 correspond|0.3587 to|0.34783 different|0.33696 states|0.32609 of|0.31522 consciousness|0.30435 Researchers|0.29348 subsequently|0.28261 refined|0.27174 statistical|0.26087 methods|0.25 for|0.23913 synthesizing|0.22826 the|0.21739 electrode|0.20652 data|0.19565 and|0.18478 identified|0.17391 unique|0.16304 brain|0.15217 wave|0.1413 patterns|0.13043 such|0.11957 as|0.1087 the|0.097826 delta|0.086957 wave|0.076087 observed|0.065217 during|0.054348 non|0.043478 REM|0.032609 sleep|0.021739 170|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

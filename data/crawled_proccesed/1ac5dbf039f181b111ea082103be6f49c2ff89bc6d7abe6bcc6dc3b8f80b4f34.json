@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ac5dbf039f181b111ea082103be6f49c2ff89bc6d7abe6bcc6dc3b8f80b4f34",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Miami_International_Airport_Transportation.JPG/220px-Miami_International_Airport_Transportation.JPG",
+			"previous": " ",
+			"after": " The most expensive transportation options aside from renting a car are taxis shuttle services and limousines Taxis and shuttles provide flat rates to popular destinations within Miami such as Brickell Downtown and South Beach Taxis and shuttles can be hailed at the ground floor arrivals or at the Miami Central Station by taking the MIA Mover to the train station ",
+			"color": "dim|0.45764 gray|0.45764 dim|0.45764 grey|0.45764 gray|0.17698 grey|0.17698 dark|0.078303 gray|0.078303 dark|0.078303 grey|0.078303 black|0.07812 dark|0.043355 slate|0.043355 gray|0.043355 saddle|0.034707 brown|0.034707 silver|0.028241 peru|0.019256 light|0.017212 gray|0.017212 light|0.017212 grey|0.017212 sienna|0.011877 gainsboro|0.011576  ",
+			"after_weights": " The|1 most|0.98333 expensive|0.96667 transportation|0.95 options|0.93333 aside|0.91667 from|0.9 renting|0.88333 a|0.86667 car|0.85 are|0.83333 taxis|0.81667 shuttle|0.8 services|0.78333 and|0.76667 limousines|0.75 Taxis|0.73333 and|0.71667 shuttles|0.7 provide|0.68333 flat|0.66667 rates|0.65 to|0.63333 popular|0.61667 destinations|0.6 within|0.58333 Miami|0.56667 such|0.55 as|0.53333 Brickell|0.51667 Downtown|0.5 and|0.48333 South|0.46667 Beach|0.45 Taxis|0.43333 and|0.41667 shuttles|0.4 can|0.38333 be|0.36667 hailed|0.35 at|0.33333 the|0.31667 ground|0.3 floor|0.28333 arrivals|0.26667 or|0.25 at|0.23333 the|0.21667 Miami|0.2 Central|0.18333 Station|0.16667 by|0.15 taking|0.13333 the|0.11667 MIA|0.1 Mover|0.083333 to|0.066667 the|0.05 train|0.033333 station|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

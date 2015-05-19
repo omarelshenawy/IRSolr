@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78ffbecd4f05b6262ccca8ed729fba21b20729f06f06c8c1f25c6fcf62dc71c2",
+			"url": "https://upload.wikimedia.org/math/3/e/5/3e54b38aad9b7485a83f170ad39af677.png",
+			"previous": " The basic formula of glottochronology in its shortest form is ",
+			"after": " where t a given period of time from one stage of the language to another c proportion of wordlist items retained at the end of that period and L rate of replacement for that word list ",
+			"color": "dim|0.35519 gray|0.35519 dim|0.35519 grey|0.35519 gray|0.2904 grey|0.2904 dark|0.18979 gray|0.18979 dark|0.18979 grey|0.18979 silver|0.083059 light|0.041527 gray|0.041527 light|0.041527 grey|0.041527 gainsboro|0.028021 white|0.0035315 smoke|0.0035315  ",
+			"after_weights": " where|1 t|0.97222 a|0.94444 given|0.91667 period|0.88889 of|0.86111 time|0.83333 from|0.80556 one|0.77778 stage|0.75 of|0.72222 the|0.69444 language|0.66667 to|0.63889 another|0.61111 c|0.58333 proportion|0.55556 of|0.52778 wordlist|0.5 items|0.47222 retained|0.44444 at|0.41667 the|0.38889 end|0.36111 of|0.33333 that|0.30556 period|0.27778 and|0.25 L|0.22222 rate|0.19444 of|0.16667 replacement|0.13889 for|0.11111 that|0.083333 word|0.055556 list|0.027778 |0",
+			"previous_weights": " The|0 basic|0.1 formula|0.2 of|0.3 glottochronology|0.4 in|0.5 its|0.6 shortest|0.7 form|0.8 is|0.9 |1"
+		}
+	}
+}

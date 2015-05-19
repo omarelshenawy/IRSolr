@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6125da2e268eb34249199404aed58f602677d9b0a0bc8586f9b102e3ffbb3228",
+			"url": "https://upload.wikimedia.org/math/4/8/e/48e521c066599b45109fb389010e6d62.png",
+			"previous": " The space hierarchy theorem states that",
+			"after": " The time and space hierarchy theorems form the basis for most separation results of complexity classes For instance the time hierarchy theorem tells us that P is strictly contained in EXPTIME and the space hierarchy theorem tells us that L is strictly contained in PSPACE ",
+			"color": "gray|0.34479 grey|0.34479 dim|0.2686 gray|0.2686 dim|0.2686 grey|0.2686 dark|0.23172 gray|0.23172 dark|0.23172 grey|0.23172 silver|0.077525 light|0.036314 gray|0.036314 light|0.036314 grey|0.036314 gainsboro|0.025266 white|0.0044269 smoke|0.0044269  ",
+			"after_weights": " The|1 time|0.97778 and|0.95556 space|0.93333 hierarchy|0.91111 theorems|0.88889 form|0.86667 the|0.84444 basis|0.82222 for|0.8 most|0.77778 separation|0.75556 results|0.73333 of|0.71111 complexity|0.68889 classes|0.66667 For|0.64444 instance|0.62222 the|0.6 time|0.57778 hierarchy|0.55556 theorem|0.53333 tells|0.51111 us|0.48889 that|0.46667 P|0.44444 is|0.42222 strictly|0.4 contained|0.37778 in|0.35556 EXPTIME|0.33333 and|0.31111 the|0.28889 space|0.26667 hierarchy|0.24444 theorem|0.22222 tells|0.2 us|0.17778 that|0.15556 L|0.13333 is|0.11111 strictly|0.088889 contained|0.066667 in|0.044444 PSPACE|0.022222 |0",
+			"previous_weights": " The|0 space|0.2 hierarchy|0.4 theorem|0.6 states|0.8 that|1"
+		}
+	}
+}

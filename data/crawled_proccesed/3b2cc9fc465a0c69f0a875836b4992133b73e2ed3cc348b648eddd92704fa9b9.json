@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b2cc9fc465a0c69f0a875836b4992133b73e2ed3cc348b648eddd92704fa9b9",
+			"url": "https://upload.wikimedia.org/math/b/9/1/b91f0b6f4061e59d0249f5a42902b107.png",
+			"previous": " where",
+			"after": " The Coulomb friction may take any value from zero up to and the direction of the frictional force against a surface is opposite to the motion that surface would experience in the absence of friction Thus in the static case the frictional force is exactly what it must be in order to prevent motion between the surfaces it balances the net force tending to cause such motion In this case rather than providing an estimate of the actual frictional force the Coulomb approximation provides a threshold value for this force above which motion would commence This maximum force is known as traction ",
+			"color": "dim|0.34808 gray|0.34808 dim|0.34808 grey|0.34808 black|0.22006 gray|0.18268 grey|0.18268 dark|0.13298 gray|0.13298 dark|0.13298 grey|0.13298 silver|0.05748 light|0.024864 gray|0.024864 light|0.024864 grey|0.024864 gainsboro|0.017873 white|0.0036879 smoke|0.0036879  ",
+			"after_weights": " The|1 Coulomb|0.9902 friction|0.98039 may|0.97059 take|0.96078 any|0.95098 value|0.94118 from|0.93137 zero|0.92157 up|0.91176 to|0.90196 and|0.89216 the|0.88235 direction|0.87255 of|0.86275 the|0.85294 frictional|0.84314 force|0.83333 against|0.82353 a|0.81373 surface|0.80392 is|0.79412 opposite|0.78431 to|0.77451 the|0.76471 motion|0.7549 that|0.7451 surface|0.73529 would|0.72549 experience|0.71569 in|0.70588 the|0.69608 absence|0.68627 of|0.67647 friction|0.66667 Thus|0.65686 in|0.64706 the|0.63725 static|0.62745 case|0.61765 the|0.60784 frictional|0.59804 force|0.58824 is|0.57843 exactly|0.56863 what|0.55882 it|0.54902 must|0.53922 be|0.52941 in|0.51961 order|0.5098 to|0.5 prevent|0.4902 motion|0.48039 between|0.47059 the|0.46078 surfaces|0.45098 it|0.44118 balances|0.43137 the|0.42157 net|0.41176 force|0.40196 tending|0.39216 to|0.38235 cause|0.37255 such|0.36275 motion|0.35294 In|0.34314 this|0.33333 case|0.32353 rather|0.31373 than|0.30392 providing|0.29412 an|0.28431 estimate|0.27451 of|0.26471 the|0.2549 actual|0.2451 frictional|0.23529 force|0.22549 the|0.21569 Coulomb|0.20588 approximation|0.19608 provides|0.18627 a|0.17647 threshold|0.16667 value|0.15686 for|0.14706 this|0.13725 force|0.12745 above|0.11765 which|0.10784 motion|0.098039 would|0.088235 commence|0.078431 This|0.068627 maximum|0.058824 force|0.04902 is|0.039216 known|0.029412 as|0.019608 traction|0.0098039 |0",
+			"previous_weights": " where|1"
+		}
+	}
+}

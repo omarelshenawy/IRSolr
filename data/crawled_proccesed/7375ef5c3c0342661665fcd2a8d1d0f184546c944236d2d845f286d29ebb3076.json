@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7375ef5c3c0342661665fcd2a8d1d0f184546c944236d2d845f286d29ebb3076",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Domain_name_space.svg/220px-Domain_name_space.svg.png",
+			"previous": " Today the Internet Corporation for Assigned Names and Numbers ICANN manages the top level development and architecture of the Internet domain name space It authorizes domain name registrars through which domain names may be registered and reassigned ",
+			"after": " The domain name space consists of a tree of domain names Each node in the tree holds information associated with the domain name The tree sub divides into zones beginning at the DNS root zone ",
+			"color": "white|0.084496 smoke|0.084496 sea|0.08081 shell|0.08081 snow|0.080702 ghost|0.080639 white|0.080639 alice|0.080507 blue|0.080507 white|0.079849 mint|0.078949 cream|0.078949 floral|0.077903 white|0.077903 azure|0.076818 lavender|0.074003 blush|0.074003 dark|0.041993 gray|0.041993 dark|0.041993 grey|0.041993 silver|0.033103 light|0.027009 gray|0.027009 light|0.027009 grey|0.027009 gainsboro|0.022866 pale|0.021448 golden|0.021448 rod|0.021448 gray|0.019854 grey|0.019854 dim|0.010583 gray|0.010583 dim|0.010583 grey|0.010583 lemon|0.0094332 chiffon|0.0094332 ivory|0.0065271 linen|0.0059255  ",
+			"after_weights": " The|1 domain|0.97143 name|0.94286 space|0.91429 consists|0.88571 of|0.85714 a|0.82857 tree|0.8 of|0.77143 domain|0.74286 names|0.71429 Each|0.68571 node|0.65714 in|0.62857 the|0.6 tree|0.57143 holds|0.54286 information|0.51429 associated|0.48571 with|0.45714 the|0.42857 domain|0.4 name|0.37143 The|0.34286 tree|0.31429 sub|0.28571 divides|0.25714 into|0.22857 zones|0.2 beginning|0.17143 at|0.14286 the|0.11429 DNS|0.085714 root|0.057143 zone|0.028571 |0",
+			"previous_weights": " Today|0 the|0.027027 Internet|0.054054 Corporation|0.081081 for|0.10811 Assigned|0.13514 Names|0.16216 and|0.18919 Numbers|0.21622 ICANN|0.24324 manages|0.27027 the|0.2973 top|0.32432 level|0.35135 development|0.37838 and|0.40541 architecture|0.43243 of|0.45946 the|0.48649 Internet|0.51351 domain|0.54054 name|0.56757 space|0.59459 It|0.62162 authorizes|0.64865 domain|0.67568 name|0.7027 registrars|0.72973 through|0.75676 which|0.78378 domain|0.81081 names|0.83784 may|0.86486 be|0.89189 registered|0.91892 and|0.94595 reassigned|0.97297 |1"
+		}
+	}
+}

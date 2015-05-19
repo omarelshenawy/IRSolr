@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "438a1e9748947fea85a6ce76b83e20cb95b06b3ba3dfa6f640aa75e87a77932d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/350px-William_Simpson_-_Attack_on_the_Malakoff.jpg",
+			"previous": " Portal Society Featured picture 7",
+			"after": " The Battle of Malakoff during the Crimean War was fought between the Russian and the allied French British armies on 7 September 1855 In one of the war s defining moments a French zouave installed the French flag on the top of the Russian redoubt as depicted here The battle brought about the capture of Sevastopol after an 11 month siege ",
+			"color": "light|0.14244 gray|0.14244 light|0.14244 grey|0.14244 silver|0.12548 dim|0.11873 gray|0.11873 dim|0.11873 grey|0.11873 gainsboro|0.10859 gray|0.073782 grey|0.073782 dark|0.062714 gray|0.062714 dark|0.062714 grey|0.062714 black|0.044148 linen|0.040549 misty|0.03525 rose|0.03525 white|0.034398 smoke|0.034398 lavender|0.032013 blush|0.032013 sea|0.031774 shell|0.031774 tan|0.027103 snow|0.023669 floral|0.019781 white|0.019781 ghost|0.015187 white|0.015187 old|0.014749 lace|0.014749 white|0.0090281 antique|0.0070723 white|0.0070723 mint|0.0057177 cream|0.0057177  ",
+			"after_weights": " The|1 Battle|0.98361 of|0.96721 Malakoff|0.95082 during|0.93443 the|0.91803 Crimean|0.90164 War|0.88525 was|0.86885 fought|0.85246 between|0.83607 the|0.81967 Russian|0.80328 and|0.78689 the|0.77049 allied|0.7541 French|0.7377 British|0.72131 armies|0.70492 on|0.68852 7|0.67213 September|0.65574 1855|0.63934 In|0.62295 one|0.60656 of|0.59016 the|0.57377 war|0.55738 s|0.54098 defining|0.52459 moments|0.5082 a|0.4918 French|0.47541 zouave|0.45902 installed|0.44262 the|0.42623 French|0.40984 flag|0.39344 on|0.37705 the|0.36066 top|0.34426 of|0.32787 the|0.31148 Russian|0.29508 redoubt|0.27869 as|0.2623 depicted|0.2459 here|0.22951 The|0.21311 battle|0.19672 brought|0.18033 about|0.16393 the|0.14754 capture|0.13115 of|0.11475 Sevastopol|0.098361 after|0.081967 an|0.065574 11|0.04918 month|0.032787 siege|0.016393 |0",
+			"previous_weights": " Portal|0 Society|0.25 Featured|0.5 picture|0.75 7|1"
+		}
+	}
+}

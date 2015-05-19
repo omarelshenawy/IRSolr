@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e929f59f11945dcb8d691c09c7755d884970cb3adbab51f80ee019e1470bfd9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Brace_position.jpg/220px-Brace_position.jpg",
+			"previous": " There are many different ways to adopt the brace position with many countries adopting their own version based on research performed by their own aviation authority or that of other countries There is commonality among all brace positions despite these variations ",
+			"after": " For a forward seated passenger wearing only a lap belt common recommendations for the brace position include ",
+			"color": "black|0.27032 rosy|0.18903 brown|0.18903 dim|0.1289 gray|0.1289 dim|0.1289 grey|0.1289 deep|0.093116 sky|0.093116 blue|0.093116 slate|0.086781 gray|0.086781 misty|0.053412 rose|0.053412 light|0.033132 slate|0.033132 gray|0.033132 steel|0.032907 blue|0.032907 thistle|0.024891 pink|0.019621 gray|0.017668 grey|0.017668 dark|0.013679 gray|0.013679 dark|0.013679 grey|0.013679  ",
+			"after_weights": " For|1 a|0.94118 forward|0.88235 seated|0.82353 passenger|0.76471 wearing|0.70588 only|0.64706 a|0.58824 lap|0.52941 belt|0.47059 common|0.41176 recommendations|0.35294 for|0.29412 the|0.23529 brace|0.17647 position|0.11765 include|0.058824 |0",
+			"previous_weights": " There|0 are|0.02439 many|0.04878 different|0.073171 ways|0.097561 to|0.12195 adopt|0.14634 the|0.17073 brace|0.19512 position|0.21951 with|0.2439 many|0.26829 countries|0.29268 adopting|0.31707 their|0.34146 own|0.36585 version|0.39024 based|0.41463 on|0.43902 research|0.46341 performed|0.4878 by|0.5122 their|0.53659 own|0.56098 aviation|0.58537 authority|0.60976 or|0.63415 that|0.65854 of|0.68293 other|0.70732 countries|0.73171 There|0.7561 is|0.78049 commonality|0.80488 among|0.82927 all|0.85366 brace|0.87805 positions|0.90244 despite|0.92683 these|0.95122 variations|0.97561 |1"
+		}
+	}
+}

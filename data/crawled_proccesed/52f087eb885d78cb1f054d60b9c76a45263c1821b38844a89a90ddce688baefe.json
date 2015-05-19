@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52f087eb885d78cb1f054d60b9c76a45263c1821b38844a89a90ddce688baefe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rutgers_Newark_campus_003.jpg/220px-Rutgers_Newark_campus_003.jpg",
+			"previous": " A diverse collection of languages has since evolved amongst the state s population given that New Jersey has become cosmopolitan and is home to ethnic enclaves of non English speaking communities 79 80 81 82 ",
+			"after": " ",
+			"color": "black|0.38081 light|0.13499 gray|0.13499 light|0.13499 grey|0.13499 silver|0.12901 gainsboro|0.083173 dim|0.033323 gray|0.033323 dim|0.033323 grey|0.033323 tan|0.027545 saddle|0.025044 brown|0.025044 sienna|0.023916 antique|0.021338 white|0.021338 misty|0.019554 rose|0.019554 burly|0.014446 wood|0.014446  ",
+			"after_weights": " ",
+			"previous_weights": " A|0 diverse|0.028571 collection|0.057143 of|0.085714 languages|0.11429 has|0.14286 since|0.17143 evolved|0.2 amongst|0.22857 the|0.25714 state|0.28571 s|0.31429 population|0.34286 given|0.37143 that|0.4 New|0.42857 Jersey|0.45714 has|0.48571 become|0.51429 cosmopolitan|0.54286 and|0.57143 is|0.6 home|0.62857 to|0.65714 ethnic|0.68571 enclaves|0.71429 of|0.74286 non|0.77143 English|0.8 speaking|0.82857 communities|0.85714 79|0.88571 80|0.91429 81|0.94286 82|0.97143 |1"
+		}
+	}
+}

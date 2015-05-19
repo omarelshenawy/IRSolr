@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1da365ea5597fac62da0f79f626bb53d58dd99c20f6495f424fedaed5eff53f9",
+			"url": "https://upload.wikimedia.org/math/c/f/c/cfc2ae21d61fbfc0ed3a41c536779e67.png",
+			"previous": " Design component performance assumptions   factor up by 1 8 if working with degrees Rankine  Turbine rotor inlet temperature ",
+			"after": " Compressor polytropic efficiency  Turbine polytropic efficiency  Combustor pressure loss 5 so the combustor pressure ratio",
+			"color": "dim|0.56187 gray|0.56187 dim|0.56187 grey|0.56187 gray|0.35271 grey|0.35271 dark|0.079001 gray|0.079001 dark|0.079001 grey|0.079001 silver|0.0064247  ",
+			"after_weights": " Compressor|1 polytropic|0.9375 efficiency|0.875 |0.8125 Turbine|0.75 polytropic|0.6875 efficiency|0.625 |0.5625 Combustor|0.5 pressure|0.4375 loss|0.375 5|0.3125 so|0.25 the|0.1875 combustor|0.125 pressure|0.0625 ratio|0",
+			"previous_weights": " Design|0 component|0.047619 performance|0.095238 assumptions|0.14286 |0.19048 |0.2381 factor|0.28571 up|0.33333 by|0.38095 1|0.42857 8|0.47619 if|0.52381 working|0.57143 with|0.61905 degrees|0.66667 Rankine|0.71429 |0.7619 Turbine|0.80952 rotor|0.85714 inlet|0.90476 temperature|0.95238 |1"
+		}
+	}
+}

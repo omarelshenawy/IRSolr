@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ad86bb87a3cecf7ed95559806ed22c84eb45db1257d5aa81b8160bc2542356a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tiffany_Education_%28center%29.JPG/300px-Tiffany_Education_%28center%29.JPG",
+			"previous": " ",
+			"after": " The center third of Education 1890 a stained glass window by Louis Comfort Tiffany depicts Science personified by Devotion Labor Truth Research and Intuition and Religion personified by Purity Faith Hope Reverence and Inspiration in harmony presided over by Love ",
+			"color": "black|0.84129 dark|0.01762 slate|0.01762 gray|0.01762 saddle|0.014717 brown|0.014717 midnight|0.0055435 blue|0.0055435 teal|0.0053895 steel|0.0049495 blue|0.0049495  ",
+			"after_weights": " The|1 center|0.975 third|0.95 of|0.925 Education|0.9 1890|0.875 a|0.85 stained|0.825 glass|0.8 window|0.775 by|0.75 Louis|0.725 Comfort|0.7 Tiffany|0.675 depicts|0.65 Science|0.625 personified|0.6 by|0.575 Devotion|0.55 Labor|0.525 Truth|0.5 Research|0.475 and|0.45 Intuition|0.425 and|0.4 Religion|0.375 personified|0.35 by|0.325 Purity|0.3 Faith|0.275 Hope|0.25 Reverence|0.225 and|0.2 Inspiration|0.175 in|0.15 harmony|0.125 presided|0.1 over|0.075 by|0.05 Love|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

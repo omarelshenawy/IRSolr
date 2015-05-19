@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "284bcc1d6205420a2a01dca798e99974f20dd7a15762f7a61ba161bcd2143fa5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Puget_Sound_from_Space_Needle_High_Rex.jpg/1250px-Puget_Sound_from_Space_Needle_High_Rex.jpg",
+			"previous": " A state run ferry system Washington State Ferries connects the larger islands to the Washington mainland as well as both sides of the sound allowing cars and people to move about the greater Puget Sound region ",
+			"after": " ",
+			"color": "dim|0.52808 gray|0.52808 dim|0.52808 grey|0.52808 slate|0.16051 gray|0.16051 light|0.097123 slate|0.097123 gray|0.097123 gray|0.065004 grey|0.065004 black|0.056524 dark|0.052139 gray|0.052139 dark|0.052139 grey|0.052139 silver|0.02695  ",
+			"after_weights": " ",
+			"previous_weights": " A|0 state|0.027778 run|0.055556 ferry|0.083333 system|0.11111 Washington|0.13889 State|0.16667 Ferries|0.19444 connects|0.22222 the|0.25 larger|0.27778 islands|0.30556 to|0.33333 the|0.36111 Washington|0.38889 mainland|0.41667 as|0.44444 well|0.47222 as|0.5 both|0.52778 sides|0.55556 of|0.58333 the|0.61111 sound|0.63889 allowing|0.66667 cars|0.69444 and|0.72222 people|0.75 to|0.77778 move|0.80556 about|0.83333 the|0.86111 greater|0.88889 Puget|0.91667 Sound|0.94444 region|0.97222 |1"
+		}
+	}
+}

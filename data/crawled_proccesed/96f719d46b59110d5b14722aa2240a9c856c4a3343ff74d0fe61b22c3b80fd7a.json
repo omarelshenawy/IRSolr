@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "96f719d46b59110d5b14722aa2240a9c856c4a3343ff74d0fe61b22c3b80fd7a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christ_the_King_church.jpg/170px-Christ_the_King_church.jpg",
+			"previous": " ",
+			"after": " Churches include Christ the King Roman Catholic built in 1952 48 Destiny Knowles Pentecostal Church Pentecostal 49 St Barnabas Church of England built in 1938 50 Holy Cross Church of God of Prophecy 51 and the Salvation Army 52 ",
+			"color": "dim|0.4498 gray|0.4498 dim|0.4498 grey|0.4498 gray|0.27848 grey|0.27848 dark|0.18184 gray|0.18184 dark|0.18184 grey|0.18184 black|0.073095 silver|0.010592  ",
+			"after_weights": " Churches|1 include|0.97436 Christ|0.94872 the|0.92308 King|0.89744 Roman|0.87179 Catholic|0.84615 built|0.82051 in|0.79487 1952|0.76923 48|0.74359 Destiny|0.71795 Knowles|0.69231 Pentecostal|0.66667 Church|0.64103 Pentecostal|0.61538 49|0.58974 St|0.5641 Barnabas|0.53846 Church|0.51282 of|0.48718 England|0.46154 built|0.4359 in|0.41026 1938|0.38462 50|0.35897 Holy|0.33333 Cross|0.30769 Church|0.28205 of|0.25641 God|0.23077 of|0.20513 Prophecy|0.17949 51|0.15385 and|0.12821 the|0.10256 Salvation|0.076923 Army|0.051282 52|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

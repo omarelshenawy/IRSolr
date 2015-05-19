@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6aebc5274a41c74421b5115ebcb9cc99d0494dbbc96245dbf10fa64721b6bf56",
+			"url": "https://upload.wikimedia.org/math/d/c/6/dc60363fb5029e4c29d2a8185d6f7153.png",
+			"previous": " that can be written also as  The language recognized by M is the regular language given by the regular expression 1 0 1 0 1 where is the Kleene star e g 1 denotes any non negative number possibly zero of symbols 1 ",
+			"after": " Modeling requires selecting and identifying relevant aspects of a situation in the real world ",
+			"color": "dim|0.34691 gray|0.34691 dim|0.34691 grey|0.34691 gray|0.28516 grey|0.28516 dark|0.1885 gray|0.1885 dark|0.1885 grey|0.1885 silver|0.083533 light|0.042983 gray|0.042983 light|0.042983 grey|0.042983 gainsboro|0.030411 white|0.0053615 smoke|0.0053615  ",
+			"after_weights": " Modeling|1 requires|0.92857 selecting|0.85714 and|0.78571 identifying|0.71429 relevant|0.64286 aspects|0.57143 of|0.5 a|0.42857 situation|0.35714 in|0.28571 the|0.21429 real|0.14286 world|0.071429 |0",
+			"previous_weights": " that|0 can|0.022727 be|0.045455 written|0.068182 also|0.090909 as|0.11364 |0.13636 The|0.15909 language|0.18182 recognized|0.20455 by|0.22727 M|0.25 is|0.27273 the|0.29545 regular|0.31818 language|0.34091 given|0.36364 by|0.38636 the|0.40909 regular|0.43182 expression|0.45455 1|0.47727 0|0.5 1|0.52273 0|0.54545 1|0.56818 where|0.59091 is|0.61364 the|0.63636 Kleene|0.65909 star|0.68182 e|0.70455 g|0.72727 1|0.75 denotes|0.77273 any|0.79545 non|0.81818 negative|0.84091 number|0.86364 possibly|0.88636 zero|0.90909 of|0.93182 symbols|0.95455 1|0.97727 |1"
+		}
+	}
+}

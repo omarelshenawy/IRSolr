@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fef783d5899c59fc8c9b653db3504f44a18eb96ace6c17ac029d14b8615e14d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Glass_tesseract_still.png/200px-Glass_tesseract_still.png",
+			"previous": " ",
+			"after": " The tesseract the four dimensional analog of the cube To see an animated version click here  This project aims to enable Wikipedians to cooperate make suggestions and share ideas on the organization and improvement of the mathematics coverage of Wikipedia Everyone is welcome to join in this endeavor ",
+			"color": "steel|0.49628 blue|0.49628 black|0.44286 light|0.060376 steel|0.060376 blue|0.060376  ",
+			"after_weights": " The|1 tesseract|0.97959 the|0.95918 four|0.93878 dimensional|0.91837 analog|0.89796 of|0.87755 the|0.85714 cube|0.83673 To|0.81633 see|0.79592 an|0.77551 animated|0.7551 version|0.73469 click|0.71429 here|0.69388 |0.67347 This|0.65306 project|0.63265 aims|0.61224 to|0.59184 enable|0.57143 Wikipedians|0.55102 to|0.53061 cooperate|0.5102 make|0.4898 suggestions|0.46939 and|0.44898 share|0.42857 ideas|0.40816 on|0.38776 the|0.36735 organization|0.34694 and|0.32653 improvement|0.30612 of|0.28571 the|0.26531 mathematics|0.2449 coverage|0.22449 of|0.20408 Wikipedia|0.18367 Everyone|0.16327 is|0.14286 welcome|0.12245 to|0.10204 join|0.081633 in|0.061224 this|0.040816 endeavor|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

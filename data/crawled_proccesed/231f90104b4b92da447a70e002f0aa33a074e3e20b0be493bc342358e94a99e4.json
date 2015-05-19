@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "231f90104b4b92da447a70e002f0aa33a074e3e20b0be493bc342358e94a99e4",
+			"url": "https://upload.wikimedia.org/math/5/9/4/594accdf606fb1c82265cdc92e988d71.png",
+			"previous": " Also as a consequence of 3 the section lift coefficient of a cambered airfoil of infinite wingspan is ",
+			"after": " Thin airfoil theory does not account for the stall of the airfoil which usually occurs at an angle of attack between 10 and 15 for typical airfoils 14 ",
+			"color": "dim|0.40468 gray|0.40468 dim|0.40468 grey|0.40468 gray|0.2597 grey|0.2597 dark|0.14926 gray|0.14926 dark|0.14926 grey|0.14926 silver|0.06391 black|0.054563 light|0.031909 gray|0.031909 light|0.031909 grey|0.031909 gainsboro|0.022178  ",
+			"after_weights": " Thin|1 airfoil|0.96429 theory|0.92857 does|0.89286 not|0.85714 account|0.82143 for|0.78571 the|0.75 stall|0.71429 of|0.67857 the|0.64286 airfoil|0.60714 which|0.57143 usually|0.53571 occurs|0.5 at|0.46429 an|0.42857 angle|0.39286 of|0.35714 attack|0.32143 between|0.28571 10|0.25 and|0.21429 15|0.17857 for|0.14286 typical|0.10714 airfoils|0.071429 14|0.035714 |0",
+			"previous_weights": " Also|0 as|0.055556 a|0.11111 consequence|0.16667 of|0.22222 3|0.27778 the|0.33333 section|0.38889 lift|0.44444 coefficient|0.5 of|0.55556 a|0.61111 cambered|0.66667 airfoil|0.72222 of|0.77778 infinite|0.83333 wingspan|0.88889 is|0.94444 |1"
+		}
+	}
+}

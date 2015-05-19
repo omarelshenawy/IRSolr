@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6812e998a2a73f9cd5c6d00cb8c37c6f88c9c4e17f1aeb1cde8c18434f1f629c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mughal_Historical_Map.png/220px-Mughal_Historical_Map.png",
+			"previous": " ",
+			"after": " On the Indian subcontinent the Lodhi Dynasty ruled over the Delhi Sultanate during its last phase The dynasty founded by Bhalul Lodhi ruled from 1451 to 1526 The dynasty s last ruler Ibrahim Lodhi was defeated and killed by Babur in the first Battle of Panipat ",
+			"color": "sky|0.37509 blue|0.37509 pale|0.11071 turquoise|0.11071 light|0.10203 cyan|0.10203 light|0.098512 green|0.098512 dark|0.079471 khaki|0.079471 powder|0.064231 blue|0.064231 orange|0.047769 dark|0.021421 sea|0.021421 green|0.021421 medium|0.021355 aqua|0.021355 marine|0.021355 light|0.017543 blue|0.017543 red|0.01719  ",
+			"after_weights": " On|1 the|0.97826 Indian|0.95652 subcontinent|0.93478 the|0.91304 Lodhi|0.8913 Dynasty|0.86957 ruled|0.84783 over|0.82609 the|0.80435 Delhi|0.78261 Sultanate|0.76087 during|0.73913 its|0.71739 last|0.69565 phase|0.67391 The|0.65217 dynasty|0.63043 founded|0.6087 by|0.58696 Bhalul|0.56522 Lodhi|0.54348 ruled|0.52174 from|0.5 1451|0.47826 to|0.45652 1526|0.43478 The|0.41304 dynasty|0.3913 s|0.36957 last|0.34783 ruler|0.32609 Ibrahim|0.30435 Lodhi|0.28261 was|0.26087 defeated|0.23913 and|0.21739 killed|0.19565 by|0.17391 Babur|0.15217 in|0.13043 the|0.1087 first|0.086957 Battle|0.065217 of|0.043478 Panipat|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

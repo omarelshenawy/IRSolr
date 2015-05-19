@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "666ef4b583497a11db6216481a0c10fd58e82ff2370d9039342f2d43c7885a20",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Eurocopter_EC-120B_Colibri_AN1995429.jpg/220px-Eurocopter_EC-120B_Colibri_AN1995429.jpg",
+			"previous": " Since 2011 the EC 120 B has been used by the traffic police in Kurdistan Iraq 9 In a first step new pilots are trained on gyroplanes and then further trained on helicopters 10 ",
+			"after": " The EC120 is used by both private individuals and companies helicopter charter and training organizations as well as law enforcement and government use ",
+			"color": "tan|0.2775 dim|0.1208 gray|0.1208 dim|0.1208 grey|0.1208 dark|0.084525 gray|0.084525 dark|0.084525 grey|0.084525 gray|0.076757 grey|0.076757 burly|0.072198 wood|0.072198 black|0.062647 slate|0.056228 gray|0.056228 silver|0.051276 light|0.042001 slate|0.042001 gray|0.042001 light|0.022042 gray|0.022042 light|0.022042 grey|0.022042  ",
+			"after_weights": " The|1 EC120|0.95652 is|0.91304 used|0.86957 by|0.82609 both|0.78261 private|0.73913 individuals|0.69565 and|0.65217 companies|0.6087 helicopter|0.56522 charter|0.52174 and|0.47826 training|0.43478 organizations|0.3913 as|0.34783 well|0.30435 as|0.26087 law|0.21739 enforcement|0.17391 and|0.13043 government|0.086957 use|0.043478 |0",
+			"previous_weights": " Since|0 2011|0.029412 the|0.058824 EC|0.088235 120|0.11765 B|0.14706 has|0.17647 been|0.20588 used|0.23529 by|0.26471 the|0.29412 traffic|0.32353 police|0.35294 in|0.38235 Kurdistan|0.41176 Iraq|0.44118 9|0.47059 In|0.5 a|0.52941 first|0.55882 step|0.58824 new|0.61765 pilots|0.64706 are|0.67647 trained|0.70588 on|0.73529 gyroplanes|0.76471 and|0.79412 then|0.82353 further|0.85294 trained|0.88235 on|0.91176 helicopters|0.94118 10|0.97059 |1"
+		}
+	}
+}

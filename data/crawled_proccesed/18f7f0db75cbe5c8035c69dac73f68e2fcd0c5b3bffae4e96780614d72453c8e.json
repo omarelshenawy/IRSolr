@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18f7f0db75cbe5c8035c69dac73f68e2fcd0c5b3bffae4e96780614d72453c8e",
+			"url": "https://upload.wikimedia.org/math/1/9/2/1922a5a44c54a11c01f63a4e06344f90.png",
+			"previous": " ",
+			"after": " The use of matrices with a single column rather than a single row to represent vectors is traditional in many disciplines For that reason the word eigenvector almost always means a right eigenvector namely a column vector that must be placed to the right of the matrix in the defining equation",
+			"color": "gray|0.29297 grey|0.29297 dim|0.29275 gray|0.29275 dim|0.29275 grey|0.29275 dark|0.21156 gray|0.21156 dark|0.21156 grey|0.21156 silver|0.092986 light|0.046719 gray|0.046719 light|0.046719 grey|0.046719 gainsboro|0.032544 white|0.006631 smoke|0.006631 linen|0.0034252 lavender|0.003351 blush|0.003351 alice|0.0032424 blue|0.0032424 ghost|0.0030553 white|0.0030553 sea|0.0029467 shell|0.0029467 snow|0.0028561  ",
+			"after_weights": " The|1 use|0.98 of|0.96 matrices|0.94 with|0.92 a|0.9 single|0.88 column|0.86 rather|0.84 than|0.82 a|0.8 single|0.78 row|0.76 to|0.74 represent|0.72 vectors|0.7 is|0.68 traditional|0.66 in|0.64 many|0.62 disciplines|0.6 For|0.58 that|0.56 reason|0.54 the|0.52 word|0.5 eigenvector|0.48 almost|0.46 always|0.44 means|0.42 a|0.4 right|0.38 eigenvector|0.36 namely|0.34 a|0.32 column|0.3 vector|0.28 that|0.26 must|0.24 be|0.22 placed|0.2 to|0.18 the|0.16 right|0.14 of|0.12 the|0.1 matrix|0.08 in|0.06 the|0.04 defining|0.02 equation|0",
+			"previous_weights": " "
+		}
+	}
+}

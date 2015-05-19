@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "132e7b4ad6541c6556acf87ec9473ad1a60cb19722cb11d5b6b63135cac70a7e",
+			"url": "https://upload.wikimedia.org/math/f/a/d/fad8e0c6904c7c0d09150c54207dbf06.png",
+			"previous": " The possible cases for the nature of the roots are as follows 11 ",
+			"after": " There are some cases that do not seem to be covered but they can not occur For example 0 P 0 and D 0 is not one of the cases However if 0 and P 0 then D 0 so this combination is not possible ",
+			"color": "dim|0.39364 gray|0.39364 dim|0.39364 grey|0.39364 gray|0.29745 grey|0.29745 dark|0.16581 gray|0.16581 dark|0.16581 grey|0.16581 silver|0.074059 light|0.034777 gray|0.034777 light|0.034777 grey|0.034777 gainsboro|0.021928 white|0.0029532 smoke|0.0029532  ",
+			"after_weights": " There|1 are|0.97778 some|0.95556 cases|0.93333 that|0.91111 do|0.88889 not|0.86667 seem|0.84444 to|0.82222 be|0.8 covered|0.77778 but|0.75556 they|0.73333 can|0.71111 not|0.68889 occur|0.66667 For|0.64444 example|0.62222 0|0.6 P|0.57778 0|0.55556 and|0.53333 D|0.51111 0|0.48889 is|0.46667 not|0.44444 one|0.42222 of|0.4 the|0.37778 cases|0.35556 However|0.33333 if|0.31111 0|0.28889 and|0.26667 P|0.24444 0|0.22222 then|0.2 D|0.17778 0|0.15556 so|0.13333 this|0.11111 combination|0.088889 is|0.066667 not|0.044444 possible|0.022222 |0",
+			"previous_weights": " The|0 possible|0.076923 cases|0.15385 for|0.23077 the|0.30769 nature|0.38462 of|0.46154 the|0.53846 roots|0.61538 are|0.69231 as|0.76923 follows|0.84615 11|0.92308 |1"
+		}
+	}
+}

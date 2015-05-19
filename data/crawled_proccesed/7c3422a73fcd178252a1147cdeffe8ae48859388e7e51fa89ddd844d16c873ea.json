@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c3422a73fcd178252a1147cdeffe8ae48859388e7e51fa89ddd844d16c873ea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Reef_247.jpg/220px-Reef_247.jpg",
+			"previous": " ",
+			"after": " The Caribbean region has seen a significant increase in human activity since the colonisation period The sea is one of the largest oil production areas in the world producing approximately 170 million tons per year 22 The area also generates a large fishing industry for the surrounding countries accounting for half a million metric tons of fish a year 23 ",
+			"color": "dark|0.23797 slate|0.23797 gray|0.23797 sea|0.17795 green|0.17795 black|0.16858 medium|0.10856 sea|0.10856 green|0.10856 teal|0.091528 dark|0.053427 cyan|0.053427 turquoise|0.047751 light|0.04697 sea|0.04697 green|0.04697  ",
+			"after_weights": " The|1 Caribbean|0.98333 region|0.96667 has|0.95 seen|0.93333 a|0.91667 significant|0.9 increase|0.88333 in|0.86667 human|0.85 activity|0.83333 since|0.81667 the|0.8 colonisation|0.78333 period|0.76667 The|0.75 sea|0.73333 is|0.71667 one|0.7 of|0.68333 the|0.66667 largest|0.65 oil|0.63333 production|0.61667 areas|0.6 in|0.58333 the|0.56667 world|0.55 producing|0.53333 approximately|0.51667 170|0.5 million|0.48333 tons|0.46667 per|0.45 year|0.43333 22|0.41667 The|0.4 area|0.38333 also|0.36667 generates|0.35 a|0.33333 large|0.31667 fishing|0.3 industry|0.28333 for|0.26667 the|0.25 surrounding|0.23333 countries|0.21667 accounting|0.2 for|0.18333 half|0.16667 a|0.15 million|0.13333 metric|0.11667 tons|0.1 of|0.083333 fish|0.066667 a|0.05 year|0.033333 23|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

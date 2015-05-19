@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b7aca51335aa4eac294550ab3747f480309680d01ce374baaf87444a1a40bc0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nca1.jpg/220px-Nca1.jpg",
+			"previous": " Nippon Cargo Airlines serves the following destinations as of August 2014 4  The airline is owned by Nippon Y sen 100 ",
+			"after": " NCA s fleet consists of the following aircraft as of November 2014 6 7  Nippon Cargo Airlines has also operated the following ",
+			"color": "light|0.4195 slate|0.4195 gray|0.4195 slate|0.39919 gray|0.39919 dim|0.055359 gray|0.055359 dim|0.055359 grey|0.055359 black|0.042302 dark|0.03678 gray|0.03678 dark|0.03678 grey|0.03678 gray|0.032943 grey|0.032943 dark|0.0049703 slate|0.0049703 gray|0.0049703 light|0.004539 steel|0.004539 blue|0.004539 silver|0.0041734  ",
+			"after_weights": " NCA|1 s|0.95652 fleet|0.91304 consists|0.86957 of|0.82609 the|0.78261 following|0.73913 aircraft|0.69565 as|0.65217 of|0.6087 November|0.56522 2014|0.52174 6|0.47826 7|0.43478 |0.3913 Nippon|0.34783 Cargo|0.30435 Airlines|0.26087 has|0.21739 also|0.17391 operated|0.13043 the|0.086957 following|0.043478 |0",
+			"previous_weights": " Nippon|0 Cargo|0.045455 Airlines|0.090909 serves|0.13636 the|0.18182 following|0.22727 destinations|0.27273 as|0.31818 of|0.36364 August|0.40909 2014|0.45455 4|0.5 |0.54545 The|0.59091 airline|0.63636 is|0.68182 owned|0.72727 by|0.77273 Nippon|0.81818 Y|0.86364 sen|0.90909 100|0.95455 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9e5bec28c43fbd4b587514e37882ea3c24f681738bff4e55faa0b9241c8e1f5a",
+			"url": "https://upload.wikimedia.org/math/b/b/0/bb043524aaa6301684d3042ad4dbd1c0.png",
+			"previous": " Both Fredholm and Volterra equations are linear integral equations due to the linear behaviour of x under the integral A nonlinear Volterra integral equation has the general form ",
+			"after": " where F is a known function ",
+			"color": "dim|0.34787 gray|0.34787 dim|0.34787 grey|0.34787 gray|0.30324 grey|0.30324 dark|0.19182 gray|0.19182 dark|0.19182 grey|0.19182 silver|0.078087 light|0.037395 gray|0.037395 light|0.037395 grey|0.037395 gainsboro|0.025683 white|0.0044304 smoke|0.0044304  ",
+			"after_weights": " where|1 F|0.83333 is|0.66667 a|0.5 known|0.33333 function|0.16667 |0",
+			"previous_weights": " Both|0 Fredholm|0.035714 and|0.071429 Volterra|0.10714 equations|0.14286 are|0.17857 linear|0.21429 integral|0.25 equations|0.28571 due|0.32143 to|0.35714 the|0.39286 linear|0.42857 behaviour|0.46429 of|0.5 x|0.53571 under|0.57143 the|0.60714 integral|0.64286 A|0.67857 nonlinear|0.71429 Volterra|0.75 integral|0.78571 equation|0.82143 has|0.85714 the|0.89286 general|0.92857 form|0.96429 |1"
+		}
+	}
+}

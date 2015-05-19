@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a877896978082c637b0c9d44dbfe5fbf4bddcdd82edde2672c3df6eb3f64bcf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelican_taking_off_Vero_Beach.jpg/150px-Pelican_taking_off_Vero_Beach.jpg",
+			"previous": " Anhingas also known as darters or snakebirds are cormorant like water birds with long necks and long straight beaks They are fish eaters diving for long periods and often swim with only their neck above the water looking rather like a water snake ",
+			"after": " Order Pelecaniformes Family Pelecanidae Pelicans are very large water birds with a distinctive pouch under their beak Like other birds in the order Pelecaniformes they have four webbed toes ",
+			"color": "black|0.39747 dark|0.22111 gray|0.22111 dark|0.22111 grey|0.22111 gray|0.14954 grey|0.14954 dim|0.11307 gray|0.11307 dim|0.11307 grey|0.11307 silver|0.049646 thistle|0.019288 light|0.017893 gray|0.017893 light|0.017893 grey|0.017893 gainsboro|0.010533  ",
+			"after_weights": " Order|1 Pelecaniformes|0.96552 Family|0.93103 Pelecanidae|0.89655 Pelicans|0.86207 are|0.82759 very|0.7931 large|0.75862 water|0.72414 birds|0.68966 with|0.65517 a|0.62069 distinctive|0.58621 pouch|0.55172 under|0.51724 their|0.48276 beak|0.44828 Like|0.41379 other|0.37931 birds|0.34483 in|0.31034 the|0.27586 order|0.24138 Pelecaniformes|0.2069 they|0.17241 have|0.13793 four|0.10345 webbed|0.068966 toes|0.034483 |0",
+			"previous_weights": " Anhingas|0 also|0.023256 known|0.046512 as|0.069767 darters|0.093023 or|0.11628 snakebirds|0.13953 are|0.16279 cormorant|0.18605 like|0.2093 water|0.23256 birds|0.25581 with|0.27907 long|0.30233 necks|0.32558 and|0.34884 long|0.37209 straight|0.39535 beaks|0.4186 They|0.44186 are|0.46512 fish|0.48837 eaters|0.51163 diving|0.53488 for|0.55814 long|0.5814 periods|0.60465 and|0.62791 often|0.65116 swim|0.67442 with|0.69767 only|0.72093 their|0.74419 neck|0.76744 above|0.7907 the|0.81395 water|0.83721 looking|0.86047 rather|0.88372 like|0.90698 a|0.93023 water|0.95349 snake|0.97674 |1"
+		}
+	}
+}

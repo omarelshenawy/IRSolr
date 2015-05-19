@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0713448859f87fb4f6b321cd4f78d25d8e0c37ae885fb1d87e2b5d47244feae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Giant_planes_comparison.svg/200px-Giant_planes_comparison.svg.png",
+			"previous": " The wings of a 747 have been recycled as roofs of a house in Malibu California 212 213 214 215 ",
+			"after": " Sources Boeing 747 specifications 151 747 airport planning report 125 747 8 airport brochure 218 Lufthansa 747 8 data 219 Being fact sheet 220 ",
+			"color": "dim|0.41117 gray|0.41117 dim|0.41117 grey|0.41117 light|0.28419 green|0.28419 khaki|0.046344 pink|0.037796 pale|0.028159 golden|0.028159 rod|0.028159 cadet|0.018874 blue|0.018874 honeydew|0.017321 light|0.015563 pink|0.015563 misty|0.010274 rose|0.010274 slate|0.0090744 gray|0.0090744 peru|0.0073123 wheat|0.0068333 dark|0.0065217 sea|0.0065217 green|0.0065217  ",
+			"after_weights": " Sources|1 Boeing|0.95833 747|0.91667 specifications|0.875 151|0.83333 747|0.79167 airport|0.75 planning|0.70833 report|0.66667 125|0.625 747|0.58333 8|0.54167 airport|0.5 brochure|0.45833 218|0.41667 Lufthansa|0.375 747|0.33333 8|0.29167 data|0.25 219|0.20833 Being|0.16667 fact|0.125 sheet|0.083333 220|0.041667 |0",
+			"previous_weights": " The|0 wings|0.05 of|0.1 a|0.15 747|0.2 have|0.25 been|0.3 recycled|0.35 as|0.4 roofs|0.45 of|0.5 a|0.55 house|0.6 in|0.65 Malibu|0.7 California|0.75 212|0.8 213|0.85 214|0.9 215|0.95 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc1b07a3ae9d7f1d914a3b7027cf9ca99f7911c678649db7c16d37f9963a37d",
+			"url": "https://upload.wikimedia.org/math/2/5/a/25a4dfe2c08ce72a5d7706dc2ddea7ec.png",
+			"previous": " We want to evaluate the Bernstein polynomial of degree 2 with the Bernstein coefficients and into",
+			"after": " at the point t0  We start the recursion with and with the second iteration the recursion stops with which is the expected Bernstein polynomial of degree 2 ",
+			"color": "black|0.4171 dim|0.22803 gray|0.22803 dim|0.22803 grey|0.22803 gray|0.16008 grey|0.16008 dark|0.1009 gray|0.1009 dark|0.1009 grey|0.1009 silver|0.041504 light|0.020706 gray|0.020706 light|0.020706 grey|0.020706 gainsboro|0.015551 white|0.0037383 smoke|0.0037383  ",
+			"after_weights": " at|1 the|0.96429 point|0.92857 t0|0.89286 |0.85714 We|0.82143 start|0.78571 the|0.75 recursion|0.71429 with|0.67857 and|0.64286 with|0.60714 the|0.57143 second|0.53571 iteration|0.5 the|0.46429 recursion|0.42857 stops|0.39286 with|0.35714 which|0.32143 is|0.28571 the|0.25 expected|0.21429 Bernstein|0.17857 polynomial|0.14286 of|0.10714 degree|0.071429 2|0.035714 |0",
+			"previous_weights": " We|0 want|0.066667 to|0.13333 evaluate|0.2 the|0.26667 Bernstein|0.33333 polynomial|0.4 of|0.46667 degree|0.53333 2|0.6 with|0.66667 the|0.73333 Bernstein|0.8 coefficients|0.86667 and|0.93333 into|1"
+		}
+	}
+}

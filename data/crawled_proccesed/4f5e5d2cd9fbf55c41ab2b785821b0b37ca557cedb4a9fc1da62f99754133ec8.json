@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f5e5d2cd9fbf55c41ab2b785821b0b37ca557cedb4a9fc1da62f99754133ec8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Airline_hub-1995.svg/220px-Airline_hub-1995.svg.png",
+			"previous": " ",
+			"after": " The spoke hub distribution paradigm or model or network is a system of connections arranged like a chariot wheel in which all traffic moves along spokes connected to the hub at the center The model is commonly used in industry in particular in transport telecommunications and freight as well as in distributed computing where it is known as a star network ",
+			"color": "black|0.53343 dim|0.23446 gray|0.23446 dim|0.23446 grey|0.23446 gray|0.14148 grey|0.14148 dark|0.052417 gray|0.052417 dark|0.052417 grey|0.052417 silver|0.015144 light|0.0061914 gray|0.0061914 light|0.0061914 grey|0.0061914 gainsboro|0.0047162  ",
+			"after_weights": " The|1 spoke|0.98361 hub|0.96721 distribution|0.95082 paradigm|0.93443 or|0.91803 model|0.90164 or|0.88525 network|0.86885 is|0.85246 a|0.83607 system|0.81967 of|0.80328 connections|0.78689 arranged|0.77049 like|0.7541 a|0.7377 chariot|0.72131 wheel|0.70492 in|0.68852 which|0.67213 all|0.65574 traffic|0.63934 moves|0.62295 along|0.60656 spokes|0.59016 connected|0.57377 to|0.55738 the|0.54098 hub|0.52459 at|0.5082 the|0.4918 center|0.47541 The|0.45902 model|0.44262 is|0.42623 commonly|0.40984 used|0.39344 in|0.37705 industry|0.36066 in|0.34426 particular|0.32787 in|0.31148 transport|0.29508 telecommunications|0.27869 and|0.2623 freight|0.2459 as|0.22951 well|0.21311 as|0.19672 in|0.18033 distributed|0.16393 computing|0.14754 where|0.13115 it|0.11475 is|0.098361 known|0.081967 as|0.065574 a|0.04918 star|0.032787 network|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

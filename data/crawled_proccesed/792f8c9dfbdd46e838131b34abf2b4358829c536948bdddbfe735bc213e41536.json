@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "792f8c9dfbdd46e838131b34abf2b4358829c536948bdddbfe735bc213e41536",
+			"url": "https://upload.wikimedia.org/math/8/c/2/8c2cd4173136921fd472a6057bd32d3a.png",
+			"previous": " The distance from the equator to the pole is The function in the first integral is the meridional radius of curvature ",
+			"after": " For WGS84 this distance is 10 001 965729 km  The evaluation of the meridian distance integral is central to many studies in geodesy and map projection It can be evaluated by expanding the integral by the binomial series and integrating term by term see Meridian arc for details The length of the meridian arc between two given latitudes is given by replacing the limits of the integral by the latitudes concerned The length of a small meridian arc is given by 7 8 ",
+			"color": "dim|0.39668 gray|0.39668 dim|0.39668 grey|0.39668 gray|0.295 grey|0.295 dark|0.16894 gray|0.16894 dark|0.16894 grey|0.16894 silver|0.067571 light|0.0312 gray|0.0312 light|0.0312 grey|0.0312 gainsboro|0.021673 white|0.0043189 smoke|0.0043189  ",
+			"after_weights": " For|1 WGS84|0.9881 this|0.97619 distance|0.96429 is|0.95238 10|0.94048 001|0.92857 965729|0.91667 km|0.90476 |0.89286 The|0.88095 evaluation|0.86905 of|0.85714 the|0.84524 meridian|0.83333 distance|0.82143 integral|0.80952 is|0.79762 central|0.78571 to|0.77381 many|0.7619 studies|0.75 in|0.7381 geodesy|0.72619 and|0.71429 map|0.70238 projection|0.69048 It|0.67857 can|0.66667 be|0.65476 evaluated|0.64286 by|0.63095 expanding|0.61905 the|0.60714 integral|0.59524 by|0.58333 the|0.57143 binomial|0.55952 series|0.54762 and|0.53571 integrating|0.52381 term|0.5119 by|0.5 term|0.4881 see|0.47619 Meridian|0.46429 arc|0.45238 for|0.44048 details|0.42857 The|0.41667 length|0.40476 of|0.39286 the|0.38095 meridian|0.36905 arc|0.35714 between|0.34524 two|0.33333 given|0.32143 latitudes|0.30952 is|0.29762 given|0.28571 by|0.27381 replacing|0.2619 the|0.25 limits|0.2381 of|0.22619 the|0.21429 integral|0.20238 by|0.19048 the|0.17857 latitudes|0.16667 concerned|0.15476 The|0.14286 length|0.13095 of|0.11905 a|0.10714 small|0.095238 meridian|0.083333 arc|0.071429 is|0.059524 given|0.047619 by|0.035714 7|0.02381 8|0.011905 |0",
+			"previous_weights": " The|0 distance|0.047619 from|0.095238 the|0.14286 equator|0.19048 to|0.2381 the|0.28571 pole|0.33333 is|0.38095 The|0.42857 function|0.47619 in|0.52381 the|0.57143 first|0.61905 integral|0.66667 is|0.71429 the|0.7619 meridional|0.80952 radius|0.85714 of|0.90476 curvature|0.95238 |1"
+		}
+	}
+}

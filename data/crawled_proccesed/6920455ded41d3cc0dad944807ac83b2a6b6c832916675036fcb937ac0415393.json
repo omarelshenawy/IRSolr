@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6920455ded41d3cc0dad944807ac83b2a6b6c832916675036fcb937ac0415393",
+			"url": "https://upload.wikimedia.org/math/e/0/d/e0d1aa39791b585141891f1dde37d46d.png",
+			"previous": " Moreover the B zier curve can be split at point into two curves with respective control points  Then the evaluation of at point can be evaluated in steps of the algorithm The result is given by ",
+			"after": " Here is an example implementation of De Casteljau s algorithm in Haskell ",
+			"color": "dim|0.30881 gray|0.30881 dim|0.30881 grey|0.30881 gray|0.30102 grey|0.30102 dark|0.19736 gray|0.19736 dark|0.19736 grey|0.19736 silver|0.087529 light|0.044551 gray|0.044551 light|0.044551 grey|0.044551 gainsboro|0.032804 white|0.0067206 smoke|0.0067206 linen|0.0033735 lavender|0.0030982 blush|0.0030982 alice|0.0030064 blue|0.0030064 ghost|0.0028374 white|0.0028374  ",
+			"after_weights": " Here|1 is|0.91667 an|0.83333 example|0.75 implementation|0.66667 of|0.58333 De|0.5 Casteljau|0.41667 s|0.33333 algorithm|0.25 in|0.16667 Haskell|0.083333 |0",
+			"previous_weights": " Moreover|0 the|0.027027 B|0.054054 zier|0.081081 curve|0.10811 can|0.13514 be|0.16216 split|0.18919 at|0.21622 point|0.24324 into|0.27027 two|0.2973 curves|0.32432 with|0.35135 respective|0.37838 control|0.40541 points|0.43243 |0.45946 Then|0.48649 the|0.51351 evaluation|0.54054 of|0.56757 at|0.59459 point|0.62162 can|0.64865 be|0.67568 evaluated|0.7027 in|0.72973 steps|0.75676 of|0.78378 the|0.81081 algorithm|0.83784 The|0.86486 result|0.89189 is|0.91892 given|0.94595 by|0.97297 |1"
+		}
+	}
+}

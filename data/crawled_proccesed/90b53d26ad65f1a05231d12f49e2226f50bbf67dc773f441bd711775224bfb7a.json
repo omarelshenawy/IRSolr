@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "90b53d26ad65f1a05231d12f49e2226f50bbf67dc773f441bd711775224bfb7a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KTPA-FAA.pdf/page1-220px-KTPA-FAA.pdf.jpg",
+			"previous": " ",
+			"after": " Tampa International Airport IATA TPA ICAO KTPA FAA LID TPA is a public airport six miles west of Downtown Tampa in Hillsborough County Florida United States This airport is publicly owned by Hillsborough County Aviation Authority 1 It has been praised for its architecture and Landside Airside design of a central terminal landside connected by people movers to satellite gates airsides a pioneering concept when designed in the late 1960s The airport was called Drew Field Municipal Airport until 1952 2 ",
+			"color": " ",
+			"after_weights": " Tampa|1 International|0.98765 Airport|0.97531 IATA|0.96296 TPA|0.95062 ICAO|0.93827 KTPA|0.92593 FAA|0.91358 LID|0.90123 TPA|0.88889 is|0.87654 a|0.8642 public|0.85185 airport|0.83951 six|0.82716 miles|0.81481 west|0.80247 of|0.79012 Downtown|0.77778 Tampa|0.76543 in|0.75309 Hillsborough|0.74074 County|0.7284 Florida|0.71605 United|0.7037 States|0.69136 This|0.67901 airport|0.66667 is|0.65432 publicly|0.64198 owned|0.62963 by|0.61728 Hillsborough|0.60494 County|0.59259 Aviation|0.58025 Authority|0.5679 1|0.55556 It|0.54321 has|0.53086 been|0.51852 praised|0.50617 for|0.49383 its|0.48148 architecture|0.46914 and|0.45679 Landside|0.44444 Airside|0.4321 design|0.41975 of|0.40741 a|0.39506 central|0.38272 terminal|0.37037 landside|0.35802 connected|0.34568 by|0.33333 people|0.32099 movers|0.30864 to|0.2963 satellite|0.28395 gates|0.2716 airsides|0.25926 a|0.24691 pioneering|0.23457 concept|0.22222 when|0.20988 designed|0.19753 in|0.18519 the|0.17284 late|0.16049 1960s|0.14815 The|0.1358 airport|0.12346 was|0.11111 called|0.098765 Drew|0.08642 Field|0.074074 Municipal|0.061728 Airport|0.049383 until|0.037037 1952|0.024691 2|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

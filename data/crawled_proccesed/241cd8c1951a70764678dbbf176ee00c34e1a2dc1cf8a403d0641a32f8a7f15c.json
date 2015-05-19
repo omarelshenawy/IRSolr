@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "241cd8c1951a70764678dbbf176ee00c34e1a2dc1cf8a403d0641a32f8a7f15c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Luxavia_747SP_Wallner.jpg/220px-Luxavia_747SP_Wallner.jpg",
+			"previous": " This list also includes organizations that used the aircraft temporarily besides main operators ",
+			"after": " There were three significant commercial around the world record setting flights flown by 747SP two operated by Pan Am and the other operated by United Airlines with the aircraft being loaned to Friendship Foundation in order to raise money for the foundation Those flights are ",
+			"color": "dim|0.29261 gray|0.29261 dim|0.29261 grey|0.29261 black|0.23197 slate|0.059481 gray|0.059481 light|0.052941 slate|0.052941 gray|0.052941 gainsboro|0.033004 gray|0.030378 grey|0.030378 lavender|0.02868 dark|0.028476 gray|0.028476 dark|0.028476 grey|0.028476 alice|0.02813 blue|0.02813 ghost|0.025682 white|0.025682 light|0.024904 gray|0.024904 light|0.024904 grey|0.024904 white|0.024821 smoke|0.024821 snow|0.019154 silver|0.0189 lavender|0.018789 blush|0.018789 light|0.018557 steel|0.018557 blue|0.018557 azure|0.01775 white|0.017168 mint|0.012764 cream|0.012764  ",
+			"after_weights": " There|1 were|0.97778 three|0.95556 significant|0.93333 commercial|0.91111 around|0.88889 the|0.86667 world|0.84444 record|0.82222 setting|0.8 flights|0.77778 flown|0.75556 by|0.73333 747SP|0.71111 two|0.68889 operated|0.66667 by|0.64444 Pan|0.62222 Am|0.6 and|0.57778 the|0.55556 other|0.53333 operated|0.51111 by|0.48889 United|0.46667 Airlines|0.44444 with|0.42222 the|0.4 aircraft|0.37778 being|0.35556 loaned|0.33333 to|0.31111 Friendship|0.28889 Foundation|0.26667 in|0.24444 order|0.22222 to|0.2 raise|0.17778 money|0.15556 for|0.13333 the|0.11111 foundation|0.088889 Those|0.066667 flights|0.044444 are|0.022222 |0",
+			"previous_weights": " This|0 list|0.076923 also|0.15385 includes|0.23077 organizations|0.30769 that|0.38462 used|0.46154 the|0.53846 aircraft|0.61538 temporarily|0.69231 besides|0.76923 main|0.84615 operators|0.92308 |1"
+		}
+	}
+}

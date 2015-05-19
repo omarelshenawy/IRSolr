@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b8387a90af534f253e46898a36042d631571c0c8f1cd559b8ec92115228a1baa",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Chetnik_fighters%2C_Ukraine_2014.jpg/220px-Chetnik_fighters%2C_Ukraine_2014.jpg",
+			"previous": " ",
+			"after": " In March 2014 Serbian volunteers self identifying as Chetniks travelled to Sevastopol in Crimea to support the pro Russian side of the Crimean crisis Chetnik forces are led by a Serb national and Chetnik Bratislav Zivkovic They spoke of common Slavic blood and Orthodox faith cited similarities with the Cossacks and claimed to be returning the favour of Russian volunteers who fought on the Serbian side of the Yugoslav Wars 236 ",
+			"color": "dim|0.36153 gray|0.36153 dim|0.36153 grey|0.36153 gray|0.28024 grey|0.28024 dark|0.17174 gray|0.17174 dark|0.17174 grey|0.17174 black|0.078515 silver|0.042095 tan|0.016936  ",
+			"after_weights": " In|1 March|0.98592 2014|0.97183 Serbian|0.95775 volunteers|0.94366 self|0.92958 identifying|0.91549 as|0.90141 Chetniks|0.88732 travelled|0.87324 to|0.85915 Sevastopol|0.84507 in|0.83099 Crimea|0.8169 to|0.80282 support|0.78873 the|0.77465 pro|0.76056 Russian|0.74648 side|0.73239 of|0.71831 the|0.70423 Crimean|0.69014 crisis|0.67606 Chetnik|0.66197 forces|0.64789 are|0.6338 led|0.61972 by|0.60563 a|0.59155 Serb|0.57746 national|0.56338 and|0.5493 Chetnik|0.53521 Bratislav|0.52113 Zivkovic|0.50704 They|0.49296 spoke|0.47887 of|0.46479 common|0.4507 Slavic|0.43662 blood|0.42254 and|0.40845 Orthodox|0.39437 faith|0.38028 cited|0.3662 similarities|0.35211 with|0.33803 the|0.32394 Cossacks|0.30986 and|0.29577 claimed|0.28169 to|0.26761 be|0.25352 returning|0.23944 the|0.22535 favour|0.21127 of|0.19718 Russian|0.1831 volunteers|0.16901 who|0.15493 fought|0.14085 on|0.12676 the|0.11268 Serbian|0.098592 side|0.084507 of|0.070423 the|0.056338 Yugoslav|0.042254 Wars|0.028169 236|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

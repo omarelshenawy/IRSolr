@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fe45ef112d314591ce98dd1db12d877315b7f882598bec1658d8bccd6a994d8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Air_Seychelles_new_livery.jpg/220px-Air_Seychelles_new_livery.jpg",
+			"previous": " ",
+			"after": " The airline was established by the Seychelles government on 15 September 1977 following the merger of Air Mah and Inter Island Airways as Seychelles Airlines and adopted the present title in September 1978 It started international routes in 1983 to Frankfurt and London ",
+			"color": "gray|0.29064 grey|0.29064 dim|0.18946 gray|0.18946 dim|0.18946 grey|0.18946 black|0.092213 dark|0.059089 gray|0.059089 dark|0.059089 grey|0.059089 lavender|0.049623 light|0.037458 gray|0.037458 light|0.037458 grey|0.037458 silver|0.036356 light|0.035507 steel|0.035507 blue|0.035507 gainsboro|0.031514 alice|0.022424 blue|0.022424 ghost|0.015936 white|0.015936 white|0.012403 smoke|0.012403 maroon|0.010431 slate|0.0089164 gray|0.0089164 dark|0.008726 slate|0.008726 gray|0.008726 light|0.0087153 slate|0.0087153 gray|0.0087153 steel|0.0086747 blue|0.0086747 azure|0.0086199 dark|0.0071626 red|0.0071626 firebrick|0.0069273 brown|0.0069188 light|0.0057703 blue|0.0057703  ",
+			"after_weights": " The|1 airline|0.97674 was|0.95349 established|0.93023 by|0.90698 the|0.88372 Seychelles|0.86047 government|0.83721 on|0.81395 15|0.7907 September|0.76744 1977|0.74419 following|0.72093 the|0.69767 merger|0.67442 of|0.65116 Air|0.62791 Mah|0.60465 and|0.5814 Inter|0.55814 Island|0.53488 Airways|0.51163 as|0.48837 Seychelles|0.46512 Airlines|0.44186 and|0.4186 adopted|0.39535 the|0.37209 present|0.34884 title|0.32558 in|0.30233 September|0.27907 1978|0.25581 It|0.23256 started|0.2093 international|0.18605 routes|0.16279 in|0.13953 1983|0.11628 to|0.093023 Frankfurt|0.069767 and|0.046512 London|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

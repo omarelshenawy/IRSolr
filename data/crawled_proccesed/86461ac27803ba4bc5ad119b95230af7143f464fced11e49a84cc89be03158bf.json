@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "86461ac27803ba4bc5ad119b95230af7143f464fced11e49a84cc89be03158bf",
+			"url": "https://upload.wikimedia.org/math/1/3/6/136b9276ef7cc3bc2103eb72ab609ebf.png",
+			"previous": " Assuming air to be an ideal gas the formula to compute Mach number in a subsonic compressible flow is found from Bernoulli s equation for M 1 above 6 ",
+			"after": " The formula to compute Mach number in a supersonic compressible flow can be found from the Rayleigh Supersonic Pitot equation above using parameters for air ",
+			"color": "black|0.31923 dim|0.22965 gray|0.22965 dim|0.22965 grey|0.22965 gray|0.21011 grey|0.21011 dark|0.17396 gray|0.17396 dark|0.17396 grey|0.17396 silver|0.052304 light|0.012954 gray|0.012954 light|0.012954 grey|0.012954  ",
+			"after_weights": " The|1 formula|0.96 to|0.92 compute|0.88 Mach|0.84 number|0.8 in|0.76 a|0.72 supersonic|0.68 compressible|0.64 flow|0.6 can|0.56 be|0.52 found|0.48 from|0.44 the|0.4 Rayleigh|0.36 Supersonic|0.32 Pitot|0.28 equation|0.24 above|0.2 using|0.16 parameters|0.12 for|0.08 air|0.04 |0",
+			"previous_weights": " Assuming|0 air|0.034483 to|0.068966 be|0.10345 an|0.13793 ideal|0.17241 gas|0.2069 the|0.24138 formula|0.27586 to|0.31034 compute|0.34483 Mach|0.37931 number|0.41379 in|0.44828 a|0.48276 subsonic|0.51724 compressible|0.55172 flow|0.58621 is|0.62069 found|0.65517 from|0.68966 Bernoulli|0.72414 s|0.75862 equation|0.7931 for|0.82759 M|0.86207 1|0.89655 above|0.93103 6|0.96552 |1"
+		}
+	}
+}

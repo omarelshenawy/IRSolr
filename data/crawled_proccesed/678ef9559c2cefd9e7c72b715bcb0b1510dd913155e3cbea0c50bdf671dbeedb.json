@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "678ef9559c2cefd9e7c72b715bcb0b1510dd913155e3cbea0c50bdf671dbeedb",
+			"url": "https://upload.wikimedia.org/math/1/6/c/16ced14ad381d0c55f46a750367db2ed.png",
+			"previous": " If the index set of the process is N the natural numbers and the range is R the real numbers there are some natural questions to ask about the sample sequences of a process Xi i N where a sample sequence is Xi i N ",
+			"after": " Main applications of discrete time continuous state stochastic models include Markov chain Monte Carlo MCMC and the analysis of Time Series ",
+			"color": "dark|0.32662 gray|0.32662 dark|0.32662 grey|0.32662 gray|0.2518 grey|0.2518 silver|0.1661 light|0.090955 gray|0.090955 light|0.090955 grey|0.090955 gainsboro|0.063664 dim|0.058259 gray|0.058259 dim|0.058259 grey|0.058259 white|0.011957 smoke|0.011957 linen|0.0057765 lavender|0.0046885 blush|0.0046885 alice|0.0045171 blue|0.0045171 ghost|0.0041459 white|0.0041459 sea|0.0039011 shell|0.0039011 snow|0.0037297  ",
+			"after_weights": " Main|1 applications|0.95238 of|0.90476 discrete|0.85714 time|0.80952 continuous|0.7619 state|0.71429 stochastic|0.66667 models|0.61905 include|0.57143 Markov|0.52381 chain|0.47619 Monte|0.42857 Carlo|0.38095 MCMC|0.33333 and|0.28571 the|0.2381 analysis|0.19048 of|0.14286 Time|0.095238 Series|0.047619 |0",
+			"previous_weights": " If|0 the|0.022222 index|0.044444 set|0.066667 of|0.088889 the|0.11111 process|0.13333 is|0.15556 N|0.17778 the|0.2 natural|0.22222 numbers|0.24444 and|0.26667 the|0.28889 range|0.31111 is|0.33333 R|0.35556 the|0.37778 real|0.4 numbers|0.42222 there|0.44444 are|0.46667 some|0.48889 natural|0.51111 questions|0.53333 to|0.55556 ask|0.57778 about|0.6 the|0.62222 sample|0.64444 sequences|0.66667 of|0.68889 a|0.71111 process|0.73333 Xi|0.75556 i|0.77778 N|0.8 where|0.82222 a|0.84444 sample|0.86667 sequence|0.88889 is|0.91111 Xi|0.93333 i|0.95556 N|0.97778 |1"
+		}
+	}
+}

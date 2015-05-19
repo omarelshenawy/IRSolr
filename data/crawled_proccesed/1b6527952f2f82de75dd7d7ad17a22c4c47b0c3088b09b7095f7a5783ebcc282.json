@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b6527952f2f82de75dd7d7ad17a22c4c47b0c3088b09b7095f7a5783ebcc282",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png",
+			"previous": " Specific types of SLBMs current past and under development include ",
+			"after": " Some former Russian SLBMs have been converted into Volna and Shtil launch vehicles to launch satellites either from a submarine or from a launch site on land ",
+			"color": "light|0.44601 coral|0.44601 light|0.16365 pink|0.16365 pink|0.13719 crimson|0.078048 misty|0.062318 rose|0.062318 salmon|0.032576  ",
+			"after_weights": " Some|1 former|0.96296 Russian|0.92593 SLBMs|0.88889 have|0.85185 been|0.81481 converted|0.77778 into|0.74074 Volna|0.7037 and|0.66667 Shtil|0.62963 launch|0.59259 vehicles|0.55556 to|0.51852 launch|0.48148 satellites|0.44444 either|0.40741 from|0.37037 a|0.33333 submarine|0.2963 or|0.25926 from|0.22222 a|0.18519 launch|0.14815 site|0.11111 on|0.074074 land|0.037037 |0",
+			"previous_weights": " Specific|0 types|0.1 of|0.2 SLBMs|0.3 current|0.4 past|0.5 and|0.6 under|0.7 development|0.8 include|0.9 |1"
+		}
+	}
+}

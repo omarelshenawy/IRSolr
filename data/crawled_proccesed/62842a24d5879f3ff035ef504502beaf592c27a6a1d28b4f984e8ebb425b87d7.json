@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "62842a24d5879f3ff035ef504502beaf592c27a6a1d28b4f984e8ebb425b87d7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Linear-regression.svg/100px-Linear-regression.svg.png",
+			"previous": " Extrapolation If the gross domestic product of a country has been growing an average of 5 per year and was 100 billion dollars last year we might extrapolate that it will be 105 billion dollars this year ",
+			"after": " Regression In linear regression given n points we compute a line that passes as close as possible to those n points ",
+			"color": "white|0.089066 smoke|0.089066 ghost|0.088733 white|0.088733 alice|0.088134 blue|0.088134 snow|0.087742 white|0.087256 sea|0.086466 shell|0.086466 mint|0.086335 cream|0.086335 floral|0.085589 white|0.085589 azure|0.08527 lavender|0.081413 blush|0.081413 dark|0.018208 gray|0.018208 dark|0.018208 grey|0.018208 lavender|0.017243 silver|0.014637 gray|0.012518 grey|0.012518 light|0.012143 gray|0.012143 light|0.012143 grey|0.012143 gainsboro|0.011626 dim|0.010218 gray|0.010218 dim|0.010218 grey|0.010218 light|0.009874 steel|0.009874 blue|0.009874 ivory|0.0070469 light|0.0035544 pink|0.0035544 light|0.0033778 coral|0.0033778 pink|0.0033226 misty|0.0031268 rose|0.0031268 linen|0.0031059  ",
+			"after_weights": " Regression|1 In|0.95238 linear|0.90476 regression|0.85714 given|0.80952 n|0.7619 points|0.71429 we|0.66667 compute|0.61905 a|0.57143 line|0.52381 that|0.47619 passes|0.42857 as|0.38095 close|0.33333 as|0.28571 possible|0.2381 to|0.19048 those|0.14286 n|0.095238 points|0.047619 |0",
+			"previous_weights": " Extrapolation|0 If|0.027027 the|0.054054 gross|0.081081 domestic|0.10811 product|0.13514 of|0.16216 a|0.18919 country|0.21622 has|0.24324 been|0.27027 growing|0.2973 an|0.32432 average|0.35135 of|0.37838 5|0.40541 per|0.43243 year|0.45946 and|0.48649 was|0.51351 100|0.54054 billion|0.56757 dollars|0.59459 last|0.62162 year|0.64865 we|0.67568 might|0.7027 extrapolate|0.72973 that|0.75676 it|0.78378 will|0.81081 be|0.83784 105|0.86486 billion|0.89189 dollars|0.91892 this|0.94595 year|0.97297 |1"
+		}
+	}
+}

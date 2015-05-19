@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1116b477727947a147736f834beb284ba3f4b56ec58eafa6fd628e415fcc6152",
+			"url": "https://upload.wikimedia.org/math/e/5/b/e5b9920a96621aaa3ec30b28d61e788d.png",
+			"previous": " The quality of the TeX code at Fujita Storm equation is still deficient but far better than it was originally If Gisling would improve his or her TeX skills that would be a step in the right direction For example ",
+			"after": " should be changed to",
+			"color": "dim|0.39581 gray|0.39581 dim|0.39581 grey|0.39581 gray|0.28187 grey|0.28187 dark|0.17274 gray|0.17274 dark|0.17274 grey|0.17274 silver|0.072115 light|0.034857 gray|0.034857 light|0.034857 grey|0.034857 gainsboro|0.024513 white|0.0042142 smoke|0.0042142 black|0.0038996  ",
+			"after_weights": " should|1 be|0.66667 changed|0.33333 to|0",
+			"previous_weights": " The|0 quality|0.025 of|0.05 the|0.075 TeX|0.1 code|0.125 at|0.15 Fujita|0.175 Storm|0.2 equation|0.225 is|0.25 still|0.275 deficient|0.3 but|0.325 far|0.35 better|0.375 than|0.4 it|0.425 was|0.45 originally|0.475 If|0.5 Gisling|0.525 would|0.55 improve|0.575 his|0.6 or|0.625 her|0.65 TeX|0.675 skills|0.7 that|0.725 would|0.75 be|0.775 a|0.8 step|0.825 in|0.85 the|0.875 right|0.9 direction|0.925 For|0.95 example|0.975 |1"
+		}
+	}
+}

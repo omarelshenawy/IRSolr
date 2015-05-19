@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "43437b4d847b49b2b9488ff53fedb26e586eb3321f6566b1d9cfeae06caa2762",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/P2-AND_Fokker_100_Air_Niugini-1.jpg/220px-P2-AND_Fokker_100_Air_Niugini-1.jpg",
+			"previous": " International destinations Cairns Brisbane Sydney Bali Denpasar Honiara Nadi Hong Kong Singapore Manila Cebu Tokyo Narita ",
+			"after": " The Air Niugini fleet consists of the following aircraft as of 4 November 2014 16 17 18 ",
+			"color": "black|0.24131 dim|0.15373 gray|0.15373 dim|0.15373 grey|0.15373 gray|0.13816 grey|0.13816 dark|0.12583 gray|0.12583 dark|0.12583 grey|0.12583 silver|0.07258 light|0.05079 gray|0.05079 light|0.05079 grey|0.05079 gainsboro|0.043187 white|0.017735 smoke|0.017735 ghost|0.015223 white|0.015223 alice|0.01521 blue|0.01521 lavender|0.013936 blush|0.013936 lavender|0.013907 light|0.013588 slate|0.013588 gray|0.013588 slate|0.013411 gray|0.013411 snow|0.012595 white|0.010052  ",
+			"after_weights": " The|1 Air|0.94118 Niugini|0.88235 fleet|0.82353 consists|0.76471 of|0.70588 the|0.64706 following|0.58824 aircraft|0.52941 as|0.47059 of|0.41176 4|0.35294 November|0.29412 2014|0.23529 16|0.17647 17|0.11765 18|0.058824 |0",
+			"previous_weights": " International|0 destinations|0.0625 Cairns|0.125 Brisbane|0.1875 Sydney|0.25 Bali|0.3125 Denpasar|0.375 Honiara|0.4375 Nadi|0.5 Hong|0.5625 Kong|0.625 Singapore|0.6875 Manila|0.75 Cebu|0.8125 Tokyo|0.875 Narita|0.9375 |1"
+		}
+	}
+}

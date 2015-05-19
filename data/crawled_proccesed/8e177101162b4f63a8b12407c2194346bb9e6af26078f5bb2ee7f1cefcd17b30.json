@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e177101162b4f63a8b12407c2194346bb9e6af26078f5bb2ee7f1cefcd17b30",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/UNDMedSchool.jpg/220px-UNDMedSchool.jpg",
+			"previous": " ",
+			"after": " The University of North Dakota School of Medicine and Health Sciences is located in Grand Forks North Dakota at the University of North Dakota UND and is the only school of medicine in the state of North Dakota ",
+			"color": "gray|0.23669 grey|0.23669 dark|0.1606 gray|0.1606 dark|0.1606 grey|0.1606 dim|0.12173 gray|0.12173 dim|0.12173 grey|0.12173 silver|0.092706 black|0.065962 light|0.058055 gray|0.058055 light|0.058055 grey|0.058055 light|0.054899 slate|0.054899 gray|0.054899 slate|0.046783 gray|0.046783 gainsboro|0.041319 white|0.010844 smoke|0.010844 steel|0.0089128 blue|0.0089128 light|0.0086238 steel|0.0086238 blue|0.0086238 sea|0.0084372 shell|0.0084372 snow|0.0084205 ghost|0.008251 white|0.008251 alice|0.0081467 blue|0.0081467 white|0.0074795 floral|0.0071911 white|0.0071911 mint|0.0071463 cream|0.0071463 azure|0.0064933 lavender|0.0062661 blush|0.0062661 dark|0.0055141 slate|0.0055141 gray|0.0055141 lavender|0.0050121 linen|0.00479  ",
+			"after_weights": " The|1 University|0.97368 of|0.94737 North|0.92105 Dakota|0.89474 School|0.86842 of|0.84211 Medicine|0.81579 and|0.78947 Health|0.76316 Sciences|0.73684 is|0.71053 located|0.68421 in|0.65789 Grand|0.63158 Forks|0.60526 North|0.57895 Dakota|0.55263 at|0.52632 the|0.5 University|0.47368 of|0.44737 North|0.42105 Dakota|0.39474 UND|0.36842 and|0.34211 is|0.31579 the|0.28947 only|0.26316 school|0.23684 of|0.21053 medicine|0.18421 in|0.15789 the|0.13158 state|0.10526 of|0.078947 North|0.052632 Dakota|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

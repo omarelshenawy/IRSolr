@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51536843c0ab8f2e28695a74bef164df18f0760268bbad3d4c371c2f8fa6b366",
+			"url": "https://upload.wikimedia.org/math/d/4/6/d46626e1b23185b4d353fd61a0dcb47e.png",
+			"previous": " ",
+			"after": " The standard technique tool in the analysis of ODEs is the use of Green s functions from which other solutions can be built In terms of time value of money the Green s function for the time value ODE is the value of a bond paying 1 at a single point in time u the value of any other stream of cash flows can then be obtained by taking combinations of this basic cash flow In mathematical terms this instantaneous cash flow is modeled as a Dirac delta function",
+			"color": "dim|0.40181 gray|0.40181 dim|0.40181 grey|0.40181 gray|0.29819 grey|0.29819 dark|0.16906 gray|0.16906 dark|0.16906 grey|0.16906 silver|0.069432 light|0.031515 gray|0.031515 light|0.031515 grey|0.031515 gainsboro|0.020392 white|0.0030131 smoke|0.0030131  ",
+			"after_weights": " The|1 standard|0.98864 technique|0.97727 tool|0.96591 in|0.95455 the|0.94318 analysis|0.93182 of|0.92045 ODEs|0.90909 is|0.89773 the|0.88636 use|0.875 of|0.86364 Green|0.85227 s|0.84091 functions|0.82955 from|0.81818 which|0.80682 other|0.79545 solutions|0.78409 can|0.77273 be|0.76136 built|0.75 In|0.73864 terms|0.72727 of|0.71591 time|0.70455 value|0.69318 of|0.68182 money|0.67045 the|0.65909 Green|0.64773 s|0.63636 function|0.625 for|0.61364 the|0.60227 time|0.59091 value|0.57955 ODE|0.56818 is|0.55682 the|0.54545 value|0.53409 of|0.52273 a|0.51136 bond|0.5 paying|0.48864 1|0.47727 at|0.46591 a|0.45455 single|0.44318 point|0.43182 in|0.42045 time|0.40909 u|0.39773 the|0.38636 value|0.375 of|0.36364 any|0.35227 other|0.34091 stream|0.32955 of|0.31818 cash|0.30682 flows|0.29545 can|0.28409 then|0.27273 be|0.26136 obtained|0.25 by|0.23864 taking|0.22727 combinations|0.21591 of|0.20455 this|0.19318 basic|0.18182 cash|0.17045 flow|0.15909 In|0.14773 mathematical|0.13636 terms|0.125 this|0.11364 instantaneous|0.10227 cash|0.090909 flow|0.079545 is|0.068182 modeled|0.056818 as|0.045455 a|0.034091 Dirac|0.022727 delta|0.011364 function|0",
+			"previous_weights": " "
+		}
+	}
+}

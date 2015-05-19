@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "283d503c14e03346cad29974e62b41c0abb0ef36dc67cf27bfe8121a127b2aa5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Belavia_Boeing_737-500_EW-250PA_in_FRA.jpg/220px-Belavia_Boeing_737-500_EW-250PA_in_FRA.jpg",
+			"previous": " Belavia has codeshare agreement with the following airlines as of June 2013 6 ",
+			"after": " The current Belavia fleet consists mostly of newer western regional and short to medium range twinjets and Tupolev trijets Western built aircraft are used on all routes unlike the Tupolevs which are used mostly for charter services The fleet also includes governmental Boeing 767 Boeing BBJ2 Bombardier Challenger 850 and Tupolev Tu 154M ",
+			"color": "dark|0.41965 olive|0.41965 green|0.41965 dark|0.092833 gray|0.092833 dark|0.092833 grey|0.092833 gray|0.066255 grey|0.066255 dim|0.058622 gray|0.058622 dim|0.058622 grey|0.058622 silver|0.051184 light|0.035437 gray|0.035437 light|0.035437 grey|0.035437 gainsboro|0.029786 light|0.020163 steel|0.020163 blue|0.020163 white|0.016928 smoke|0.016928 snow|0.013356 black|0.013243 ghost|0.013055 white|0.013055 alice|0.012924 blue|0.012924 sea|0.012685 shell|0.012685 lavender|0.012681 white|0.012314 mint|0.011374 cream|0.011374 lavender|0.011346 blush|0.011346 floral|0.010975 white|0.010975 slate|0.0089769 gray|0.0089769 linen|0.0088457 azure|0.0084575 light|0.0075133 slate|0.0075133 gray|0.0075133  ",
+			"after_weights": " The|1 current|0.98113 Belavia|0.96226 fleet|0.9434 consists|0.92453 mostly|0.90566 of|0.88679 newer|0.86792 western|0.84906 regional|0.83019 and|0.81132 short|0.79245 to|0.77358 medium|0.75472 range|0.73585 twinjets|0.71698 and|0.69811 Tupolev|0.67925 trijets|0.66038 Western|0.64151 built|0.62264 aircraft|0.60377 are|0.58491 used|0.56604 on|0.54717 all|0.5283 routes|0.50943 unlike|0.49057 the|0.4717 Tupolevs|0.45283 which|0.43396 are|0.41509 used|0.39623 mostly|0.37736 for|0.35849 charter|0.33962 services|0.32075 The|0.30189 fleet|0.28302 also|0.26415 includes|0.24528 governmental|0.22642 Boeing|0.20755 767|0.18868 Boeing|0.16981 BBJ2|0.15094 Bombardier|0.13208 Challenger|0.11321 850|0.09434 and|0.075472 Tupolev|0.056604 Tu|0.037736 154M|0.018868 |0",
+			"previous_weights": " Belavia|0 has|0.076923 codeshare|0.15385 agreement|0.23077 with|0.30769 the|0.38462 following|0.46154 airlines|0.53846 as|0.61538 of|0.69231 June|0.76923 2013|0.84615 6|0.92308 |1"
+		}
+	}
+}

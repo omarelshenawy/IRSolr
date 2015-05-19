@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73887457a9d2ef663e8335d0bf644fdca8d667f014f55281e1db23e54ad443a9",
+			"url": "https://upload.wikimedia.org/math/c/f/7/cf7204f67bacfa08d1df375d6cb43c3f.png",
+			"previous": " A matrix that is not diagonalizable is said to be defective For defective matrices the notion of eigenvector can be generalized to generalized eigenvectors and that of diagonal matrix to a Jordan form matrix Over an algebraically closed field any matrix has a Jordan form and therefore admits a basis of generalized eigenvectors and a decomposition into generalized eigenspaces",
+			"after": " ",
+			"color": "black|1  ",
+			"after_weights": " ",
+			"previous_weights": " A|0 matrix|0.017241 that|0.034483 is|0.051724 not|0.068966 diagonalizable|0.086207 is|0.10345 said|0.12069 to|0.13793 be|0.15517 defective|0.17241 For|0.18966 defective|0.2069 matrices|0.22414 the|0.24138 notion|0.25862 of|0.27586 eigenvector|0.2931 can|0.31034 be|0.32759 generalized|0.34483 to|0.36207 generalized|0.37931 eigenvectors|0.39655 and|0.41379 that|0.43103 of|0.44828 diagonal|0.46552 matrix|0.48276 to|0.5 a|0.51724 Jordan|0.53448 form|0.55172 matrix|0.56897 Over|0.58621 an|0.60345 algebraically|0.62069 closed|0.63793 field|0.65517 any|0.67241 matrix|0.68966 has|0.7069 a|0.72414 Jordan|0.74138 form|0.75862 and|0.77586 therefore|0.7931 admits|0.81034 a|0.82759 basis|0.84483 of|0.86207 generalized|0.87931 eigenvectors|0.89655 and|0.91379 a|0.93103 decomposition|0.94828 into|0.96552 generalized|0.98276 eigenspaces|1"
+		}
+	}
+}

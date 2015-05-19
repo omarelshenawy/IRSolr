@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "480ae2a603099c61d21c1b0edf4675f96fec176c9b57255e9460cbe7b83a5903",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bezier_basis.svg/300px-Bezier_basis.svg.png",
+			"previous": " ",
+			"after": " A B zier curve is a parametric curve frequently used in computer graphics and related fields Generalizations of B zier curves to higher dimensions are called B zier surfaces of which the B zier triangle is a special case ",
+			"color": "white|0.095301 smoke|0.095301 snow|0.094953 ghost|0.094784 white|0.094784 white|0.094741 alice|0.094723 blue|0.094723 sea|0.094678 shell|0.094678 mint|0.093998 cream|0.093998 floral|0.092823 white|0.092823 azure|0.092715 lavender|0.091649 blush|0.091649 dark|0.015385 gray|0.015385 dark|0.015385 grey|0.015385 gray|0.0063643 grey|0.0063643 silver|0.0041489 ivory|0.0035514 linen|0.003102 pale|0.0030852 turquoise|0.0030852 gainsboro|0.0030851  ",
+			"after_weights": " A|1 B|0.97436 zier|0.94872 curve|0.92308 is|0.89744 a|0.87179 parametric|0.84615 curve|0.82051 frequently|0.79487 used|0.76923 in|0.74359 computer|0.71795 graphics|0.69231 and|0.66667 related|0.64103 fields|0.61538 Generalizations|0.58974 of|0.5641 B|0.53846 zier|0.51282 curves|0.48718 to|0.46154 higher|0.4359 dimensions|0.41026 are|0.38462 called|0.35897 B|0.33333 zier|0.30769 surfaces|0.28205 of|0.25641 which|0.23077 the|0.20513 B|0.17949 zier|0.15385 triangle|0.12821 is|0.10256 a|0.076923 special|0.051282 case|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

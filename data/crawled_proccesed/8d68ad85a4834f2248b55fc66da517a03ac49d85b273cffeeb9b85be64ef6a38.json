@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d68ad85a4834f2248b55fc66da517a03ac49d85b273cffeeb9b85be64ef6a38",
+			"url": "https://upload.wikimedia.org/math/4/0/6/4060bb5e34aec89c3bcb5ac94c8ed153.png",
+			"previous": " where ",
+			"after": " If the speed of the jet is equal to sonic velocity the nozzle is said to be choked If the nozzle is choked the pressure at the nozzle exit plane is greater than atmospheric pressure and extra terms must be added to the above equation to account for the pressure thrust 12 ",
+			"color": "dark|0.30271 gray|0.30271 dark|0.30271 grey|0.30271 gray|0.2374 grey|0.2374 silver|0.15931 light|0.093702 gray|0.093702 light|0.093702 grey|0.093702 gainsboro|0.070146 dim|0.050789 gray|0.050789 dim|0.050789 grey|0.050789 white|0.018164 smoke|0.018164 linen|0.0094393 lavender|0.0094298 blush|0.0094298 alice|0.0091634 blue|0.0091634 ghost|0.0088464 white|0.0088464 sea|0.008466 shell|0.008466 snow|0.0083233 white|0.0061252 mint|0.0041659 cream|0.0041659  ",
+			"after_weights": " If|1 the|0.98077 speed|0.96154 of|0.94231 the|0.92308 jet|0.90385 is|0.88462 equal|0.86538 to|0.84615 sonic|0.82692 velocity|0.80769 the|0.78846 nozzle|0.76923 is|0.75 said|0.73077 to|0.71154 be|0.69231 choked|0.67308 If|0.65385 the|0.63462 nozzle|0.61538 is|0.59615 choked|0.57692 the|0.55769 pressure|0.53846 at|0.51923 the|0.5 nozzle|0.48077 exit|0.46154 plane|0.44231 is|0.42308 greater|0.40385 than|0.38462 atmospheric|0.36538 pressure|0.34615 and|0.32692 extra|0.30769 terms|0.28846 must|0.26923 be|0.25 added|0.23077 to|0.21154 the|0.19231 above|0.17308 equation|0.15385 to|0.13462 account|0.11538 for|0.096154 the|0.076923 pressure|0.057692 thrust|0.038462 12|0.019231 |0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

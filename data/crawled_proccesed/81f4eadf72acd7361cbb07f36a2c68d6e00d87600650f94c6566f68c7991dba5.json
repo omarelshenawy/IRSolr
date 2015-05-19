@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81f4eadf72acd7361cbb07f36a2c68d6e00d87600650f94c6566f68c7991dba5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DF-ST-92-07383-C.jpg/220px-DF-ST-92-07383-C.jpg",
+			"previous": " The RSAF units are divided into Wings that are dispersed across the seven air bases ",
+			"after": " On 11 August 2011 The Saudi Royal Air Force received 48 Typhoons from British Royal Air Force Taif Airbase On 12 August 2009 UPI reported that Saudi Arabia was seeking upgrades for their E 3 fleet and aerial refuelling tanker aircraft 7 ",
+			"color": "dim|0.55632 gray|0.55632 dim|0.55632 grey|0.55632 gray|0.085094 grey|0.085094 black|0.085031 slate|0.051983 gray|0.051983 light|0.042224 slate|0.042224 gray|0.042224 dark|0.026649 gray|0.026649 dark|0.026649 grey|0.026649 silver|0.017524 light|0.016475 gray|0.016475 light|0.016475 grey|0.016475 dark|0.015834 slate|0.015834 gray|0.015834 gainsboro|0.014591 white|0.010056 smoke|0.010056 linen|0.0092403 sea|0.008624 shell|0.008624 floral|0.008304 white|0.008304 mint|0.0079762 cream|0.0079762 snow|0.0076217 white|0.0067535 old|0.005498 lace|0.005498 azure|0.0051454 ivory|0.0051126 ghost|0.0039124 white|0.0039124  ",
+			"after_weights": " On|1 11|0.97619 August|0.95238 2011|0.92857 The|0.90476 Saudi|0.88095 Royal|0.85714 Air|0.83333 Force|0.80952 received|0.78571 48|0.7619 Typhoons|0.7381 from|0.71429 British|0.69048 Royal|0.66667 Air|0.64286 Force|0.61905 Taif|0.59524 Airbase|0.57143 On|0.54762 12|0.52381 August|0.5 2009|0.47619 UPI|0.45238 reported|0.42857 that|0.40476 Saudi|0.38095 Arabia|0.35714 was|0.33333 seeking|0.30952 upgrades|0.28571 for|0.2619 their|0.2381 E|0.21429 3|0.19048 fleet|0.16667 and|0.14286 aerial|0.11905 refuelling|0.095238 tanker|0.071429 aircraft|0.047619 7|0.02381 |0",
+			"previous_weights": " The|0 RSAF|0.066667 units|0.13333 are|0.2 divided|0.26667 into|0.33333 Wings|0.4 that|0.46667 are|0.53333 dispersed|0.6 across|0.66667 the|0.73333 seven|0.8 air|0.86667 bases|0.93333 |1"
+		}
+	}
+}

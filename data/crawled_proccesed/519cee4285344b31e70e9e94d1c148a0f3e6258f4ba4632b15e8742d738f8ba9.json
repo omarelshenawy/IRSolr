@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "519cee4285344b31e70e9e94d1c148a0f3e6258f4ba4632b15e8742d738f8ba9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LTU_DeHavilland_Dove_D-INKA.jpg/220px-LTU_DeHavilland_Dove_D-INKA.jpg",
+			"previous": " The average age of the LTU fleet was 6 7 years  By the time Air Berlin took over LTU in March 2007 their fleet contained the following aircraft  Before taken over by Air Berlin LTU served 56 destinations in 22 countries on four continents during winter schedule season 2006 2007 Further destinations were reachable with codeshare partner Bangkok Airways ",
+			"after": " All aircraft operated by LTU until March 2007 ",
+			"color": "gray|0.28502 grey|0.28502 silver|0.17991 dark|0.14443 gray|0.14443 dark|0.14443 grey|0.14443 dim|0.10532 gray|0.10532 dim|0.10532 grey|0.10532 black|0.075364 light|0.026698 gray|0.026698 light|0.026698 grey|0.026698 slate|0.016424 gray|0.016424 light|0.01609 slate|0.01609 gray|0.01609 lavender|0.012777 light|0.01185 steel|0.01185 blue|0.01185 gainsboro|0.010929 thistle|0.010146 white|0.0079855 smoke|0.0079855 alice|0.0075626 blue|0.0075626 ghost|0.0074239 white|0.0074239 snow|0.0066579 lavender|0.0066184 blush|0.0066184 white|0.0061755  ",
+			"after_weights": " All|1 aircraft|0.875 operated|0.75 by|0.625 LTU|0.5 until|0.375 March|0.25 2007|0.125 |0",
+			"previous_weights": " The|0 average|0.016393 age|0.032787 of|0.04918 the|0.065574 LTU|0.081967 fleet|0.098361 was|0.11475 6|0.13115 7|0.14754 years|0.16393 |0.18033 By|0.19672 the|0.21311 time|0.22951 Air|0.2459 Berlin|0.2623 took|0.27869 over|0.29508 LTU|0.31148 in|0.32787 March|0.34426 2007|0.36066 their|0.37705 fleet|0.39344 contained|0.40984 the|0.42623 following|0.44262 aircraft|0.45902 |0.47541 Before|0.4918 taken|0.5082 over|0.52459 by|0.54098 Air|0.55738 Berlin|0.57377 LTU|0.59016 served|0.60656 56|0.62295 destinations|0.63934 in|0.65574 22|0.67213 countries|0.68852 on|0.70492 four|0.72131 continents|0.7377 during|0.7541 winter|0.77049 schedule|0.78689 season|0.80328 2006|0.81967 2007|0.83607 Further|0.85246 destinations|0.86885 were|0.88525 reachable|0.90164 with|0.91803 codeshare|0.93443 partner|0.95082 Bangkok|0.96721 Airways|0.98361 |1"
+		}
+	}
+}

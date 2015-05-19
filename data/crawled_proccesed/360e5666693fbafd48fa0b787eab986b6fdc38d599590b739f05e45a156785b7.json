@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "360e5666693fbafd48fa0b787eab986b6fdc38d599590b739f05e45a156785b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/U_978%2C_Gamla_Uppsala.JPG/150px-U_978%2C_Gamla_Uppsala.JPG",
+			"previous": " ",
+			"after": " This stone is located in the wall of the church of Gamla Uppsala It is carved in runestone style Pr2 and made of sandstone It was made by a man who called himself traveller to England in memory of his father ",
+			"color": "gray|0.38697 grey|0.38697 rosy|0.22192 brown|0.22192 dim|0.20136 gray|0.20136 dim|0.20136 grey|0.20136 dark|0.11256 gray|0.11256 dark|0.11256 grey|0.11256 silver|0.023299 light|0.022977 slate|0.022977 gray|0.022977 slate|0.017474 gray|0.017474  ",
+			"after_weights": " This|1 stone|0.97561 is|0.95122 located|0.92683 in|0.90244 the|0.87805 wall|0.85366 of|0.82927 the|0.80488 church|0.78049 of|0.7561 Gamla|0.73171 Uppsala|0.70732 It|0.68293 is|0.65854 carved|0.63415 in|0.60976 runestone|0.58537 style|0.56098 Pr2|0.53659 and|0.5122 made|0.4878 of|0.46341 sandstone|0.43902 It|0.41463 was|0.39024 made|0.36585 by|0.34146 a|0.31707 man|0.29268 who|0.26829 called|0.2439 himself|0.21951 traveller|0.19512 to|0.17073 England|0.14634 in|0.12195 memory|0.097561 of|0.073171 his|0.04878 father|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

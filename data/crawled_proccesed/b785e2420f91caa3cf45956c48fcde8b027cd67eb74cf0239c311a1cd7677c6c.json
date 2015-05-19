@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b785e2420f91caa3cf45956c48fcde8b027cd67eb74cf0239c311a1cd7677c6c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Subhas_Chandra_Bose.jpg/170px-Subhas_Chandra_Bose.jpg",
+			"previous": " ",
+			"after": " Bengal played a major role in the Indian independence movement in which revolutionary groups such as Anushilan Samiti and Jugantar were dominant Armed attempts against the British Raj from Bengal reached a climax when Subhas Chandra Bose led the Indian National Army from Southeast Asia against the British ",
+			"color": "dark|0.12632 gray|0.12632 dark|0.12632 grey|0.12632 silver|0.10269 light|0.089854 gray|0.089854 light|0.089854 grey|0.089854 gainsboro|0.085376 gray|0.057187 grey|0.057187 alice|0.052698 blue|0.052698 white|0.051602 smoke|0.051602 azure|0.049654 dark|0.04713 slate|0.04713 gray|0.04713 mint|0.045515 cream|0.045515 dim|0.043992 gray|0.043992 dim|0.043992 grey|0.043992 ghost|0.040487 white|0.040487 light|0.040314 cyan|0.040314 white|0.038705 snow|0.037824 floral|0.026362 white|0.026362 honeydew|0.023513 black|0.014437 ivory|0.0096719 sea|0.0083604 shell|0.0083604 slate|0.0030109 gray|0.0030109  ",
+			"after_weights": " Bengal|1 played|0.97917 a|0.95833 major|0.9375 role|0.91667 in|0.89583 the|0.875 Indian|0.85417 independence|0.83333 movement|0.8125 in|0.79167 which|0.77083 revolutionary|0.75 groups|0.72917 such|0.70833 as|0.6875 Anushilan|0.66667 Samiti|0.64583 and|0.625 Jugantar|0.60417 were|0.58333 dominant|0.5625 Armed|0.54167 attempts|0.52083 against|0.5 the|0.47917 British|0.45833 Raj|0.4375 from|0.41667 Bengal|0.39583 reached|0.375 a|0.35417 climax|0.33333 when|0.3125 Subhas|0.29167 Chandra|0.27083 Bose|0.25 led|0.22917 the|0.20833 Indian|0.1875 National|0.16667 Army|0.14583 from|0.125 Southeast|0.10417 Asia|0.083333 against|0.0625 the|0.041667 British|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

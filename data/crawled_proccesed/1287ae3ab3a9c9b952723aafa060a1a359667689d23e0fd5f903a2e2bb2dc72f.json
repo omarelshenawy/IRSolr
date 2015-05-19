@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1287ae3ab3a9c9b952723aafa060a1a359667689d23e0fd5f903a2e2bb2dc72f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bankrupt_computer_store.jpg/220px-Bankrupt_computer_store.jpg",
+			"previous": " ",
+			"after": " Bankruptcy is a legal status of a person or other entity that cannot repay the debts it owes to creditors In most jurisdictions bankruptcy is imposed by a court order often initiated by the debtor ",
+			"color": "black|0.20727 gray|0.16392 grey|0.16392 dim|0.13313 gray|0.13313 dim|0.13313 grey|0.13313 dark|0.1061 gray|0.1061 dark|0.1061 grey|0.1061 silver|0.046152 light|0.041695 gray|0.041695 light|0.041695 grey|0.041695 gainsboro|0.035795 slate|0.030052 gray|0.030052 light|0.02819 steel|0.02819 blue|0.02819 light|0.024276 slate|0.024276 gray|0.024276 lavender|0.021543 white|0.0089348 smoke|0.0089348 linen|0.0089118 pale|0.0079782 golden|0.0079782 rod|0.0079782 alice|0.0071927 blue|0.0071927 light|0.0070185 blue|0.0070185  ",
+			"after_weights": " Bankruptcy|1 is|0.97143 a|0.94286 legal|0.91429 status|0.88571 of|0.85714 a|0.82857 person|0.8 or|0.77143 other|0.74286 entity|0.71429 that|0.68571 cannot|0.65714 repay|0.62857 the|0.6 debts|0.57143 it|0.54286 owes|0.51429 to|0.48571 creditors|0.45714 In|0.42857 most|0.4 jurisdictions|0.37143 bankruptcy|0.34286 is|0.31429 imposed|0.28571 by|0.25714 a|0.22857 court|0.2 order|0.17143 often|0.14286 initiated|0.11429 by|0.085714 the|0.057143 debtor|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

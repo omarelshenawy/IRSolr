@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47556bc110ced8d4ecea73f0faf2e260f1fc16f29b6f8f3f09f40447400ab209",
+			"url": "https://upload.wikimedia.org/math/7/7/a/77ab316b5ff2a83ca452c13d25db103c.png",
+			"previous": " substituting into the time derivative of ",
+			"after": " The Laplacian operators 2 in the above result suggest that the right hand side is the divergence of j and the reversed order of terms imply this is the negative of j altogether ",
+			"color": " ",
+			"after_weights": " The|1 Laplacian|0.9697 operators|0.93939 2|0.90909 in|0.87879 the|0.84848 above|0.81818 result|0.78788 suggest|0.75758 that|0.72727 the|0.69697 right|0.66667 hand|0.63636 side|0.60606 is|0.57576 the|0.54545 divergence|0.51515 of|0.48485 j|0.45455 and|0.42424 the|0.39394 reversed|0.36364 order|0.33333 of|0.30303 terms|0.27273 imply|0.24242 this|0.21212 is|0.18182 the|0.15152 negative|0.12121 of|0.090909 j|0.060606 altogether|0.030303 |0",
+			"previous_weights": " substituting|0 into|0.16667 the|0.33333 time|0.5 derivative|0.66667 of|0.83333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "43571bc89d16ba763c32d853ccb3897c5db8078aeadd6e359f35145c6cd7f923",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PNA_en.svg/203px-PNA_en.svg.png",
+			"previous": " ",
+			"after": " Peptide nucleic acid PNA is an artificially synthesized polymer similar to DNA or RNA invented by Peter E Nielsen Univ Copenhagen Michael Egholm Univ Copenhagen Rolf H Berg Ris National Lab and Ole Buchardt Univ Copenhagen in 1991 1 The name is somewhat of a misnomer as PNA is not an acid ",
+			"color": "white|0.09464 smoke|0.09464 white|0.094134 snow|0.093881 ghost|0.093288 white|0.093288 mint|0.092827 cream|0.092827 alice|0.092818 blue|0.092818 sea|0.092514 shell|0.092514 azure|0.091544 floral|0.091393 white|0.091393 lavender|0.089125 blush|0.089125 gray|0.016402 grey|0.016402 dark|0.014555 gray|0.014555 dark|0.014555 grey|0.014555 dim|0.010277 gray|0.010277 dim|0.010277 grey|0.010277 silver|0.008588 light|0.0071505 gray|0.0071505 light|0.0071505 grey|0.0071505 gainsboro|0.0068059 black|0.0045629 ivory|0.003416  ",
+			"after_weights": " Peptide|1 nucleic|0.98077 acid|0.96154 PNA|0.94231 is|0.92308 an|0.90385 artificially|0.88462 synthesized|0.86538 polymer|0.84615 similar|0.82692 to|0.80769 DNA|0.78846 or|0.76923 RNA|0.75 invented|0.73077 by|0.71154 Peter|0.69231 E|0.67308 Nielsen|0.65385 Univ|0.63462 Copenhagen|0.61538 Michael|0.59615 Egholm|0.57692 Univ|0.55769 Copenhagen|0.53846 Rolf|0.51923 H|0.5 Berg|0.48077 Ris|0.46154 National|0.44231 Lab|0.42308 and|0.40385 Ole|0.38462 Buchardt|0.36538 Univ|0.34615 Copenhagen|0.32692 in|0.30769 1991|0.28846 1|0.26923 The|0.25 name|0.23077 is|0.21154 somewhat|0.19231 of|0.17308 a|0.15385 misnomer|0.13462 as|0.11538 PNA|0.096154 is|0.076923 not|0.057692 an|0.038462 acid|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7c2ee7123cb4e230bd79c635102881a534908e877187231b8772706bc9651f4",
+			"url": "https://upload.wikimedia.org/math/6/f/5/6f524b4437cb68758b1881eb35d65956.png",
+			"previous": " A high specific thrust engine has a high jet velocity by definition as the following approximate equation for net thrust implies 1  The next generation of Supersonic transport SST may require some form of VCE SST engines require a high Specific Thrust net thrust airflow at supersonic cruise to keep the cross sectional area of the powerplant to a minimum so as to reduce aircraft drag Unfortunately this implies a high jet velocity not only at supersonic cruise but at take off which makes the aircraft noisy ",
+			"after": " where  intake mass flow rate",
+			"color": "dim|0.41169 gray|0.41169 dim|0.41169 grey|0.41169 gray|0.26413 grey|0.26413 dark|0.16844 gray|0.16844 dark|0.16844 grey|0.16844 silver|0.075253 light|0.037078 gray|0.037078 light|0.037078 grey|0.037078 gainsboro|0.026185 white|0.0041482 smoke|0.0041482  ",
+			"after_weights": " where|1 |0.8 intake|0.6 mass|0.4 flow|0.2 rate|0",
+			"previous_weights": " A|0 high|0.011364 specific|0.022727 thrust|0.034091 engine|0.045455 has|0.056818 a|0.068182 high|0.079545 jet|0.090909 velocity|0.10227 by|0.11364 definition|0.125 as|0.13636 the|0.14773 following|0.15909 approximate|0.17045 equation|0.18182 for|0.19318 net|0.20455 thrust|0.21591 implies|0.22727 1|0.23864 |0.25 The|0.26136 next|0.27273 generation|0.28409 of|0.29545 Supersonic|0.30682 transport|0.31818 SST|0.32955 may|0.34091 require|0.35227 some|0.36364 form|0.375 of|0.38636 VCE|0.39773 SST|0.40909 engines|0.42045 require|0.43182 a|0.44318 high|0.45455 Specific|0.46591 Thrust|0.47727 net|0.48864 thrust|0.5 airflow|0.51136 at|0.52273 supersonic|0.53409 cruise|0.54545 to|0.55682 keep|0.56818 the|0.57955 cross|0.59091 sectional|0.60227 area|0.61364 of|0.625 the|0.63636 powerplant|0.64773 to|0.65909 a|0.67045 minimum|0.68182 so|0.69318 as|0.70455 to|0.71591 reduce|0.72727 aircraft|0.73864 drag|0.75 Unfortunately|0.76136 this|0.77273 implies|0.78409 a|0.79545 high|0.80682 jet|0.81818 velocity|0.82955 not|0.84091 only|0.85227 at|0.86364 supersonic|0.875 cruise|0.88636 but|0.89773 at|0.90909 take|0.92045 off|0.93182 which|0.94318 makes|0.95455 the|0.96591 aircraft|0.97727 noisy|0.98864 |1"
+		}
+	}
+}

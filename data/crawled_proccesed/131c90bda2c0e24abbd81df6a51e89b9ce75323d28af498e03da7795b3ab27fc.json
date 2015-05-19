@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "131c90bda2c0e24abbd81df6a51e89b9ce75323d28af498e03da7795b3ab27fc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PinguinusImpennus.jpg/220px-PinguinusImpennus.jpg",
+			"previous": " ",
+			"after": " The great auk was never observed and described by modern scientists during its existence and is only known from the accounts of laymen such as sailors so its behaviour is therefore not well known and hard to reconstruct However much can also be inferred from its close living relative the razorbill as well as from remaining soft tissue 5 ",
+			"color": "black|0.35713 gray|0.13073 grey|0.13073 dark|0.11804 gray|0.11804 dark|0.11804 grey|0.11804 dim|0.048834 gray|0.048834 dim|0.048834 grey|0.048834 silver|0.044979 gainsboro|0.033792 light|0.032561 gray|0.032561 light|0.032561 grey|0.032561 linen|0.028686 white|0.027363 smoke|0.027363 sea|0.026297 shell|0.026297 floral|0.024259 white|0.024259 snow|0.023539 old|0.021087 lace|0.021087 mint|0.020083 cream|0.020083 white|0.01868 ghost|0.01323 white|0.01323  ",
+			"after_weights": " The|1 great|0.98305 auk|0.9661 was|0.94915 never|0.9322 observed|0.91525 and|0.89831 described|0.88136 by|0.86441 modern|0.84746 scientists|0.83051 during|0.81356 its|0.79661 existence|0.77966 and|0.76271 is|0.74576 only|0.72881 known|0.71186 from|0.69492 the|0.67797 accounts|0.66102 of|0.64407 laymen|0.62712 such|0.61017 as|0.59322 sailors|0.57627 so|0.55932 its|0.54237 behaviour|0.52542 is|0.50847 therefore|0.49153 not|0.47458 well|0.45763 known|0.44068 and|0.42373 hard|0.40678 to|0.38983 reconstruct|0.37288 However|0.35593 much|0.33898 can|0.32203 also|0.30508 be|0.28814 inferred|0.27119 from|0.25424 its|0.23729 close|0.22034 living|0.20339 relative|0.18644 the|0.16949 razorbill|0.15254 as|0.13559 well|0.11864 as|0.10169 from|0.084746 remaining|0.067797 soft|0.050847 tissue|0.033898 5|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

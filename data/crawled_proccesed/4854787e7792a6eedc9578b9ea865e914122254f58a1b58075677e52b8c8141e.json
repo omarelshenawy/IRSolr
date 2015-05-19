@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4854787e7792a6eedc9578b9ea865e914122254f58a1b58075677e52b8c8141e",
+			"url": "https://upload.wikimedia.org/math/9/c/a/9cae4437756a15b8e44ec23e07fb1f65.png",
+			"previous": " The converse is also true Given an algebraically defined lattice L one can define a partial order on L by setting",
+			"after": " Since the two definitions of a lattice are equivalent one may freely invoke aspects of either definition in any way that suits the purpose at hand ",
+			"color": " ",
+			"after_weights": " Since|1 the|0.96154 two|0.92308 definitions|0.88462 of|0.84615 a|0.80769 lattice|0.76923 are|0.73077 equivalent|0.69231 one|0.65385 may|0.61538 freely|0.57692 invoke|0.53846 aspects|0.5 of|0.46154 either|0.42308 definition|0.38462 in|0.34615 any|0.30769 way|0.26923 that|0.23077 suits|0.19231 the|0.15385 purpose|0.11538 at|0.076923 hand|0.038462 |0",
+			"previous_weights": " The|0 converse|0.05 is|0.1 also|0.15 true|0.2 Given|0.25 an|0.3 algebraically|0.35 defined|0.4 lattice|0.45 L|0.5 one|0.55 can|0.6 define|0.65 a|0.7 partial|0.75 order|0.8 on|0.85 L|0.9 by|0.95 setting|1"
+		}
+	}
+}

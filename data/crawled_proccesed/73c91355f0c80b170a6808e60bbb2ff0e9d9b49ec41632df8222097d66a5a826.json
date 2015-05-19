@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73c91355f0c80b170a6808e60bbb2ff0e9d9b49ec41632df8222097d66a5a826",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Afterburner.jpg/220px-Afterburner.jpg",
+			"previous": " For a subsonic application of a fixed geometry C D nozzle see section Low ratio nozzle ",
+			"after": " Non afterburning subsonic engines have nozzles of a fixed size because the changes in engine performance with altitude and subsonic flight speeds are acceptable with a fixed nozzle This is not the case at supersonic speeds as described for Concorde in section Nozzle area control during dry operation ",
+			"color": "black|0.39919 dim|0.061052 gray|0.061052 dim|0.061052 grey|0.061052 gray|0.052957 grey|0.052957 dark|0.052748 gray|0.052748 dark|0.052748 grey|0.052748 silver|0.039561 light|0.03613 steel|0.03613 blue|0.03613 steel|0.033386 blue|0.033386 corn|0.029317 flower|0.029317 blue|0.029317 light|0.028693 gray|0.028693 light|0.028693 grey|0.028693 gainsboro|0.025922 white|0.023421 smoke|0.023421 snow|0.018893 sea|0.018017 shell|0.018017 ghost|0.01758 white|0.01758 white|0.017565 alice|0.017162 blue|0.017162 mint|0.016633 cream|0.016633 floral|0.015362 white|0.015362 lavender|0.014894 azure|0.01293 lavender|0.01246 blush|0.01246 linen|0.012117 ivory|0.0064001 old|0.005975 lace|0.005975  ",
+			"after_weights": " Non|1 afterburning|0.97917 subsonic|0.95833 engines|0.9375 have|0.91667 nozzles|0.89583 of|0.875 a|0.85417 fixed|0.83333 size|0.8125 because|0.79167 the|0.77083 changes|0.75 in|0.72917 engine|0.70833 performance|0.6875 with|0.66667 altitude|0.64583 and|0.625 subsonic|0.60417 flight|0.58333 speeds|0.5625 are|0.54167 acceptable|0.52083 with|0.5 a|0.47917 fixed|0.45833 nozzle|0.4375 This|0.41667 is|0.39583 not|0.375 the|0.35417 case|0.33333 at|0.3125 supersonic|0.29167 speeds|0.27083 as|0.25 described|0.22917 for|0.20833 Concorde|0.1875 in|0.16667 section|0.14583 Nozzle|0.125 area|0.10417 control|0.083333 during|0.0625 dry|0.041667 operation|0.020833 |0",
+			"previous_weights": " For|0 a|0.0625 subsonic|0.125 application|0.1875 of|0.25 a|0.3125 fixed|0.375 geometry|0.4375 C|0.5 D|0.5625 nozzle|0.625 see|0.6875 section|0.75 Low|0.8125 ratio|0.875 nozzle|0.9375 |1"
+		}
+	}
+}

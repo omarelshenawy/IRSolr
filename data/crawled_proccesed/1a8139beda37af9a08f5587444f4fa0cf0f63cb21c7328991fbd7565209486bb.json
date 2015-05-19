@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a8139beda37af9a08f5587444f4fa0cf0f63cb21c7328991fbd7565209486bb",
+			"url": "https://upload.wikimedia.org/math/5/4/4/544a5b923c4355132762e58830a849f5.png",
+			"previous": " where  The formula for the shape of a NACA 00xx foil with xx being replaced by the percentage of thickness to chord is 3  The NACA 0015 airfoil is symmetrical the 00 indicating that it has no camber The 15 indicates that the airfoil has a 15 thickness to chord length ratio it is 15 as thick as it is long ",
+			"after": " where The NACA five digit series describes more complex airfoil shapes 7 ",
+			"color": "dim|0.32628 gray|0.32628 dim|0.32628 grey|0.32628 gray|0.29985 grey|0.29985 dark|0.19216 gray|0.19216 dark|0.19216 grey|0.19216 silver|0.087097 light|0.044625 gray|0.044625 light|0.044625 grey|0.044625 gainsboro|0.030836 white|0.0052494 smoke|0.0052494  ",
+			"after_weights": " where|1 The|0.91667 NACA|0.83333 five|0.75 digit|0.66667 series|0.58333 describes|0.5 more|0.41667 complex|0.33333 airfoil|0.25 shapes|0.16667 7|0.083333 |0",
+			"previous_weights": " where|0 |0.015873 The|0.031746 formula|0.047619 for|0.063492 the|0.079365 shape|0.095238 of|0.11111 a|0.12698 NACA|0.14286 00xx|0.15873 foil|0.1746 with|0.19048 xx|0.20635 being|0.22222 replaced|0.2381 by|0.25397 the|0.26984 percentage|0.28571 of|0.30159 thickness|0.31746 to|0.33333 chord|0.34921 is|0.36508 3|0.38095 |0.39683 The|0.4127 NACA|0.42857 0015|0.44444 airfoil|0.46032 is|0.47619 symmetrical|0.49206 the|0.50794 00|0.52381 indicating|0.53968 that|0.55556 it|0.57143 has|0.5873 no|0.60317 camber|0.61905 The|0.63492 15|0.65079 indicates|0.66667 that|0.68254 the|0.69841 airfoil|0.71429 has|0.73016 a|0.74603 15|0.7619 thickness|0.77778 to|0.79365 chord|0.80952 length|0.8254 ratio|0.84127 it|0.85714 is|0.87302 15|0.88889 as|0.90476 thick|0.92063 as|0.93651 it|0.95238 is|0.96825 long|0.98413 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "878f57b461af25e8f0b5949c42fa50cb0ada2718a231a7830ee4abbedb5923b3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BoeingFieldSeattle.jpg/220px-BoeingFieldSeattle.jpg",
+			"previous": " Helijet a helicopter airline based at Vancouver International Airport in British Columbia scheduled Sikorsky S 76s to the Victoria Harbour Heliport in British Columbia and on to Helijet s Vancouver Harbour Heliport near downtown Vancouver B C before ceasing service on the route ",
+			"after": " ",
+			"color": "gray|0.36818 grey|0.36818 dim|0.3055 gray|0.3055 dim|0.3055 grey|0.3055 slate|0.090005 gray|0.090005 light|0.071965 slate|0.071965 gray|0.071965 dark|0.05922 gray|0.05922 dark|0.05922 grey|0.05922 dark|0.028029 slate|0.028029 gray|0.028029 silver|0.019435 cadet|0.013155 blue|0.013155 light|0.0082743 gray|0.0082743 light|0.0082743 grey|0.0082743  ",
+			"after_weights": " ",
+			"previous_weights": " Helijet|0 a|0.023256 helicopter|0.046512 airline|0.069767 based|0.093023 at|0.11628 Vancouver|0.13953 International|0.16279 Airport|0.18605 in|0.2093 British|0.23256 Columbia|0.25581 scheduled|0.27907 Sikorsky|0.30233 S|0.32558 76s|0.34884 to|0.37209 the|0.39535 Victoria|0.4186 Harbour|0.44186 Heliport|0.46512 in|0.48837 British|0.51163 Columbia|0.53488 and|0.55814 on|0.5814 to|0.60465 Helijet|0.62791 s|0.65116 Vancouver|0.67442 Harbour|0.69767 Heliport|0.72093 near|0.74419 downtown|0.76744 Vancouver|0.7907 B|0.81395 C|0.83721 before|0.86047 ceasing|0.88372 service|0.90698 on|0.93023 the|0.95349 route|0.97674 |1"
+		}
+	}
+}

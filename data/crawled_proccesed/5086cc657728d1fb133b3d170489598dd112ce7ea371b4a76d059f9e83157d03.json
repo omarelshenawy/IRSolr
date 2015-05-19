@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5086cc657728d1fb133b3d170489598dd112ce7ea371b4a76d059f9e83157d03",
+			"url": "https://upload.wikimedia.org/math/c/f/d/cfdfbdd8fd620bac3532b2c01df18ecc.png",
+			"previous": " Solving for delta gives   Setting them equal to each other gives ",
+			"after": " In dimensionless form   Where Womersley Number density velocity length of transient boundary layer viscosity characteristic length ",
+			"color": "dim|0.35572 gray|0.35572 dim|0.35572 grey|0.35572 gray|0.282 grey|0.282 dark|0.20826 gray|0.20826 dark|0.20826 grey|0.20826 silver|0.080332 light|0.036599 gray|0.036599 light|0.036599 grey|0.036599 gainsboro|0.023826 white|0.0033912 smoke|0.0033912  ",
+			"after_weights": " In|1 dimensionless|0.94444 form|0.88889 |0.83333 |0.77778 Where|0.72222 Womersley|0.66667 Number|0.61111 density|0.55556 velocity|0.5 length|0.44444 of|0.38889 transient|0.33333 boundary|0.27778 layer|0.22222 viscosity|0.16667 characteristic|0.11111 length|0.055556 |0",
+			"previous_weights": " Solving|0 for|0.076923 delta|0.15385 gives|0.23077 |0.30769 |0.38462 Setting|0.46154 them|0.53846 equal|0.61538 to|0.69231 each|0.76923 other|0.84615 gives|0.92308 |1"
+		}
+	}
+}

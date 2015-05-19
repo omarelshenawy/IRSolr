@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "84a3510f2b63f9e9cb9ce52eca35f4e38212a92f6c8b5c2b3f692be9e36ebec2",
+			"url": "https://upload.wikimedia.org/math/9/d/d/9dd44594057365955adf6c2a0e27f03d.png",
+			"previous": " Since the exponential factor is common to all terms we omit it and simplify  Substituting these into the equations of motion gives us ",
+			"after": " And in matrix representation  For this to be generically true for any amplitude the matrix on the left must be singular i e must not be invertible such that one cannot multiply both sides of the equation by the inverse leaving the right matrix equal to zero It follows that the determinant of the matrix must be equal to 0 so ",
+			"color": "dim|0.3604 gray|0.3604 dim|0.3604 grey|0.3604 gray|0.28207 grey|0.28207 dark|0.17496 gray|0.17496 dark|0.17496 grey|0.17496 silver|0.084423 light|0.043846 gray|0.043846 light|0.043846 grey|0.043846 gainsboro|0.031075 white|0.0052992 smoke|0.0052992  ",
+			"after_weights": " And|1 in|0.98387 matrix|0.96774 representation|0.95161 |0.93548 For|0.91935 this|0.90323 to|0.8871 be|0.87097 generically|0.85484 true|0.83871 for|0.82258 any|0.80645 amplitude|0.79032 the|0.77419 matrix|0.75806 on|0.74194 the|0.72581 left|0.70968 must|0.69355 be|0.67742 singular|0.66129 i|0.64516 e|0.62903 must|0.6129 not|0.59677 be|0.58065 invertible|0.56452 such|0.54839 that|0.53226 one|0.51613 cannot|0.5 multiply|0.48387 both|0.46774 sides|0.45161 of|0.43548 the|0.41935 equation|0.40323 by|0.3871 the|0.37097 inverse|0.35484 leaving|0.33871 the|0.32258 right|0.30645 matrix|0.29032 equal|0.27419 to|0.25806 zero|0.24194 It|0.22581 follows|0.20968 that|0.19355 the|0.17742 determinant|0.16129 of|0.14516 the|0.12903 matrix|0.1129 must|0.096774 be|0.080645 equal|0.064516 to|0.048387 0|0.032258 so|0.016129 |0",
+			"previous_weights": " Since|0 the|0.041667 exponential|0.083333 factor|0.125 is|0.16667 common|0.20833 to|0.25 all|0.29167 terms|0.33333 we|0.375 omit|0.41667 it|0.45833 and|0.5 simplify|0.54167 |0.58333 Substituting|0.625 these|0.66667 into|0.70833 the|0.75 equations|0.79167 of|0.83333 motion|0.875 gives|0.91667 us|0.95833 |1"
+		}
+	}
+}

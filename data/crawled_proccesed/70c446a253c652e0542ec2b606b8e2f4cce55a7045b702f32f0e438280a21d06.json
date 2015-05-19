@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "70c446a253c652e0542ec2b606b8e2f4cce55a7045b702f32f0e438280a21d06",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Main_apron_-_Teesside_airport_-_geograph.org.uk_-_155851.jpg/220px-Main_apron_-_Teesside_airport_-_geograph.org.uk_-_155851.jpg",
+			"previous": " ",
+			"after": " A total of 77 DC 9 aircraft all variants were in commercial service as of January 2014 including USA Jet Airlines 10 Insel Air 7 Everts Air Cargo 3 Aeronaves TSM 6 Aserca Airlines 4 LASER Airlines 3 Fly SAX 2 African Express Airways 2 Fly540 2 and other operators with fewer aircraft 16 ",
+			"color": "gainsboro|0.14836 light|0.14447 gray|0.14447 light|0.14447 grey|0.14447 misty|0.12986 rose|0.12986 antique|0.092914 white|0.092914 linen|0.089269 old|0.05124 lace|0.05124 silver|0.050438 sea|0.049949 shell|0.049949 dark|0.048577 gray|0.048577 dark|0.048577 grey|0.048577 floral|0.031458 white|0.031458 gray|0.02549 grey|0.02549 black|0.021809 white|0.021492 smoke|0.021492 dim|0.017298 gray|0.017298 dim|0.017298 grey|0.017298 papaya|0.01694 whip|0.01694 lavender|0.015708 blush|0.015708 snow|0.012965 light|0.0095049 slate|0.0095049 gray|0.0095049 ivory|0.008903 slate|0.0074114 gray|0.0074114  ",
+			"after_weights": " A|1 total|0.98148 of|0.96296 77|0.94444 DC|0.92593 9|0.90741 aircraft|0.88889 all|0.87037 variants|0.85185 were|0.83333 in|0.81481 commercial|0.7963 service|0.77778 as|0.75926 of|0.74074 January|0.72222 2014|0.7037 including|0.68519 USA|0.66667 Jet|0.64815 Airlines|0.62963 10|0.61111 Insel|0.59259 Air|0.57407 7|0.55556 Everts|0.53704 Air|0.51852 Cargo|0.5 3|0.48148 Aeronaves|0.46296 TSM|0.44444 6|0.42593 Aserca|0.40741 Airlines|0.38889 4|0.37037 LASER|0.35185 Airlines|0.33333 3|0.31481 Fly|0.2963 SAX|0.27778 2|0.25926 African|0.24074 Express|0.22222 Airways|0.2037 2|0.18519 Fly540|0.16667 2|0.14815 and|0.12963 other|0.11111 operators|0.092593 with|0.074074 fewer|0.055556 aircraft|0.037037 16|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

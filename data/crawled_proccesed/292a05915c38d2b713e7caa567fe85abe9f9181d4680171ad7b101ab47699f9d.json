@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "292a05915c38d2b713e7caa567fe85abe9f9181d4680171ad7b101ab47699f9d",
+			"url": "https://upload.wikimedia.org/math/6/2/b/62b0fdc05fd90dfbf4dd97db4f32592c.png",
+			"previous": " Or one could use the following simpler approximation ",
+			"after": " Time runs slower the stronger the gravitational field and hence acceleration is The predictions of time dilation are confirmed by particle acceleration experiments and cosmic ray evidence where moving particles decay more slowly than their less energetic counterparts Gravitational time dilation gives rise to the phenomenon of gravitational redshift and delays in signal travel time near massive objects such as the sun The Global Positioning System must also adjust signals to account for this effect ",
+			"color": "dim|0.34486 gray|0.34486 dim|0.34486 grey|0.34486 gray|0.2828 grey|0.2828 dark|0.19621 gray|0.19621 dark|0.19621 grey|0.19621 silver|0.082626 light|0.041329 gray|0.041329 light|0.041329 grey|0.041329 gainsboro|0.030495 white|0.0049532 smoke|0.0049532  ",
+			"after_weights": " Time|1 runs|0.98667 slower|0.97333 the|0.96 stronger|0.94667 the|0.93333 gravitational|0.92 field|0.90667 and|0.89333 hence|0.88 acceleration|0.86667 is|0.85333 The|0.84 predictions|0.82667 of|0.81333 time|0.8 dilation|0.78667 are|0.77333 confirmed|0.76 by|0.74667 particle|0.73333 acceleration|0.72 experiments|0.70667 and|0.69333 cosmic|0.68 ray|0.66667 evidence|0.65333 where|0.64 moving|0.62667 particles|0.61333 decay|0.6 more|0.58667 slowly|0.57333 than|0.56 their|0.54667 less|0.53333 energetic|0.52 counterparts|0.50667 Gravitational|0.49333 time|0.48 dilation|0.46667 gives|0.45333 rise|0.44 to|0.42667 the|0.41333 phenomenon|0.4 of|0.38667 gravitational|0.37333 redshift|0.36 and|0.34667 delays|0.33333 in|0.32 signal|0.30667 travel|0.29333 time|0.28 near|0.26667 massive|0.25333 objects|0.24 such|0.22667 as|0.21333 the|0.2 sun|0.18667 The|0.17333 Global|0.16 Positioning|0.14667 System|0.13333 must|0.12 also|0.10667 adjust|0.093333 signals|0.08 to|0.066667 account|0.053333 for|0.04 this|0.026667 effect|0.013333 |0",
+			"previous_weights": " Or|0 one|0.125 could|0.25 use|0.375 the|0.5 following|0.625 simpler|0.75 approximation|0.875 |1"
+		}
+	}
+}

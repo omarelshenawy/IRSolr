@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a02162d95ec14180bf84dec929bc844b40d9f89006bc8a8248c9321a85b19f5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_York_City%2C_Southern_RI_and_CT%2C_illuminated_at_night.jpg/300px-New_York_City%2C_Southern_RI_and_CT%2C_illuminated_at_night.jpg",
+			"previous": " ",
+			"after": " The city is home to the American Hockey League team Providence Bruins which plays at the Dunkin Donuts Center formerly the Providence Civic Center From 1926 to 1972 the AHL s Providence Reds renamed the Rhode Island Reds in their last years 119 played at the Rhode Island Auditorium In 1972 the team relocated to the Providence Civic Center where they played until moving to Binghamton New York in 1977 ",
+			"color": "black|0.86852 golden|0.017805 rod|0.017805 peru|0.01657 dark|0.011187 golden|0.011187 rod|0.011187 saddle|0.011187 brown|0.011187 khaki|0.010323 dim|0.0068858 gray|0.0068858 dim|0.0068858 grey|0.0068858 orange|0.006717  ",
+			"after_weights": " The|1 city|0.98571 is|0.97143 home|0.95714 to|0.94286 the|0.92857 American|0.91429 Hockey|0.9 League|0.88571 team|0.87143 Providence|0.85714 Bruins|0.84286 which|0.82857 plays|0.81429 at|0.8 the|0.78571 Dunkin|0.77143 Donuts|0.75714 Center|0.74286 formerly|0.72857 the|0.71429 Providence|0.7 Civic|0.68571 Center|0.67143 From|0.65714 1926|0.64286 to|0.62857 1972|0.61429 the|0.6 AHL|0.58571 s|0.57143 Providence|0.55714 Reds|0.54286 renamed|0.52857 the|0.51429 Rhode|0.5 Island|0.48571 Reds|0.47143 in|0.45714 their|0.44286 last|0.42857 years|0.41429 119|0.4 played|0.38571 at|0.37143 the|0.35714 Rhode|0.34286 Island|0.32857 Auditorium|0.31429 In|0.3 1972|0.28571 the|0.27143 team|0.25714 relocated|0.24286 to|0.22857 the|0.21429 Providence|0.2 Civic|0.18571 Center|0.17143 where|0.15714 they|0.14286 played|0.12857 until|0.11429 moving|0.1 to|0.085714 Binghamton|0.071429 New|0.057143 York|0.042857 in|0.028571 1977|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

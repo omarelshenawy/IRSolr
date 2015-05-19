@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "852a3fd2040813f0163e6847282f1c40e91656b1af6b694ec386e4561ed10343",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DNS-names-ru.svg/220px-DNS-names-ru.svg.png",
+			"previous": " ",
+			"after": " A domain name is an identification string that defines a realm of administrative autonomy authority or control within the Internet Domain names are formed by the rules and procedures of the Domain Name System DNS Any name registered in the DNS is a domain name ",
+			"color": "gainsboro|0.17433 light|0.17322 gray|0.17322 light|0.17322 grey|0.17322 lavender|0.158 alice|0.15647 blue|0.15647 beige|0.080907 light|0.07658 steel|0.07658 blue|0.07658 light|0.073782 blue|0.073782 white|0.025261 smoke|0.025261 ghost|0.018553 white|0.018553 indian|0.01373 red|0.01373 steel|0.0090606 blue|0.0090606 sky|0.009005 blue|0.009005 azure|0.0085993 light|0.0071994 golden|0.0071994 rod|0.0071994 yellow|0.0071994  ",
+			"after_weights": " A|1 domain|0.97778 name|0.95556 is|0.93333 an|0.91111 identification|0.88889 string|0.86667 that|0.84444 defines|0.82222 a|0.8 realm|0.77778 of|0.75556 administrative|0.73333 autonomy|0.71111 authority|0.68889 or|0.66667 control|0.64444 within|0.62222 the|0.6 Internet|0.57778 Domain|0.55556 names|0.53333 are|0.51111 formed|0.48889 by|0.46667 the|0.44444 rules|0.42222 and|0.4 procedures|0.37778 of|0.35556 the|0.33333 Domain|0.31111 Name|0.28889 System|0.26667 DNS|0.24444 Any|0.22222 name|0.2 registered|0.17778 in|0.15556 the|0.13333 DNS|0.11111 is|0.088889 a|0.066667 domain|0.044444 name|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

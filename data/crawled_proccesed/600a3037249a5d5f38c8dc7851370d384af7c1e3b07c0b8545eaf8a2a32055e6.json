@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "600a3037249a5d5f38c8dc7851370d384af7c1e3b07c0b8545eaf8a2a32055e6",
+			"url": "https://upload.wikimedia.org/math/9/e/2/9e274e66d1b322f22269fab4b49f5a14.png",
+			"previous": " So the torque the rate of change of work W due to a force F is",
+			"after": " Unlike the cross product description of torque the geometric algebra description does not introduce a vector in the normal direction a vector that does not exist in two and that is not unique in greater than three dimensions The unit bivector describes the plane and the orientation of the rotation and the sense of the rotation is relative to the angle between the vectors and ",
+			"color": "dim|0.38527 gray|0.38527 dim|0.38527 grey|0.38527 gray|0.27988 grey|0.27988 dark|0.17776 gray|0.17776 dark|0.17776 grey|0.17776 silver|0.07495 light|0.036469 gray|0.036469 light|0.036469 grey|0.036469 gainsboro|0.024989 white|0.0045914 smoke|0.0045914  ",
+			"after_weights": " Unlike|1 the|0.98462 cross|0.96923 product|0.95385 description|0.93846 of|0.92308 torque|0.90769 the|0.89231 geometric|0.87692 algebra|0.86154 description|0.84615 does|0.83077 not|0.81538 introduce|0.8 a|0.78462 vector|0.76923 in|0.75385 the|0.73846 normal|0.72308 direction|0.70769 a|0.69231 vector|0.67692 that|0.66154 does|0.64615 not|0.63077 exist|0.61538 in|0.6 two|0.58462 and|0.56923 that|0.55385 is|0.53846 not|0.52308 unique|0.50769 in|0.49231 greater|0.47692 than|0.46154 three|0.44615 dimensions|0.43077 The|0.41538 unit|0.4 bivector|0.38462 describes|0.36923 the|0.35385 plane|0.33846 and|0.32308 the|0.30769 orientation|0.29231 of|0.27692 the|0.26154 rotation|0.24615 and|0.23077 the|0.21538 sense|0.2 of|0.18462 the|0.16923 rotation|0.15385 is|0.13846 relative|0.12308 to|0.10769 the|0.092308 angle|0.076923 between|0.061538 the|0.046154 vectors|0.030769 and|0.015385 |0",
+			"previous_weights": " So|0 the|0.066667 torque|0.13333 the|0.2 rate|0.26667 of|0.33333 change|0.4 of|0.46667 work|0.53333 W|0.6 due|0.66667 to|0.73333 a|0.8 force|0.86667 F|0.93333 is|1"
+		}
+	}
+}

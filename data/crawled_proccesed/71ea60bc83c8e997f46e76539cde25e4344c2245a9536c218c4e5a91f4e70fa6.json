@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71ea60bc83c8e997f46e76539cde25e4344c2245a9536c218c4e5a91f4e70fa6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/HumBack2.jpg/300px-HumBack2.jpg",
+			"previous": " ",
+			"after": " Both male and female humpback whales vocalize but only males produce the long loud complex songs for which the species is famous Each song consists of several sounds in a low register varying in amplitude and frequency and typically lasting from 10 to 20 minutes 35 Humpbacks may sing continuously for more than 24 hours Cetaceans have no vocal cords so whales generate their songs by forcing air through their massive nasal cavities ",
+			"color": "black|0.663 maroon|0.097574 dark|0.092192 red|0.092192 firebrick|0.054914 orange|0.018966 red|0.018966 red|0.014777 brown|0.013145 dark|0.0066979 orange|0.0066979 chocolate|0.005796 tomato|0.0048754  ",
+			"after_weights": " Both|1 male|0.9863 and|0.9726 female|0.9589 humpback|0.94521 whales|0.93151 vocalize|0.91781 but|0.90411 only|0.89041 males|0.87671 produce|0.86301 the|0.84932 long|0.83562 loud|0.82192 complex|0.80822 songs|0.79452 for|0.78082 which|0.76712 the|0.75342 species|0.73973 is|0.72603 famous|0.71233 Each|0.69863 song|0.68493 consists|0.67123 of|0.65753 several|0.64384 sounds|0.63014 in|0.61644 a|0.60274 low|0.58904 register|0.57534 varying|0.56164 in|0.54795 amplitude|0.53425 and|0.52055 frequency|0.50685 and|0.49315 typically|0.47945 lasting|0.46575 from|0.45205 10|0.43836 to|0.42466 20|0.41096 minutes|0.39726 35|0.38356 Humpbacks|0.36986 may|0.35616 sing|0.34247 continuously|0.32877 for|0.31507 more|0.30137 than|0.28767 24|0.27397 hours|0.26027 Cetaceans|0.24658 have|0.23288 no|0.21918 vocal|0.20548 cords|0.19178 so|0.17808 whales|0.16438 generate|0.15068 their|0.13699 songs|0.12329 by|0.10959 forcing|0.09589 air|0.082192 through|0.068493 their|0.054795 massive|0.041096 nasal|0.027397 cavities|0.013699 |0",
+			"previous_weights": " "
+		}
+	}
+}

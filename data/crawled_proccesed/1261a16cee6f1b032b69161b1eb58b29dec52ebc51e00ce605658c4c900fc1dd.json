@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1261a16cee6f1b032b69161b1eb58b29dec52ebc51e00ce605658c4c900fc1dd",
+			"url": "https://upload.wikimedia.org/math/f/e/f/fef2a2112255693023f46a64ce17152e.png",
+			"previous": " Note that this is not the only way to solve this specific system in this case as well could have been solved before ",
+			"after": " In the above example a solution exists However there are also systems of equations which do not have any solution Such a system is called inconsistent An obvious example is",
+			"color": " ",
+			"after_weights": " In|1 the|0.96552 above|0.93103 example|0.89655 a|0.86207 solution|0.82759 exists|0.7931 However|0.75862 there|0.72414 are|0.68966 also|0.65517 systems|0.62069 of|0.58621 equations|0.55172 which|0.51724 do|0.48276 not|0.44828 have|0.41379 any|0.37931 solution|0.34483 Such|0.31034 a|0.27586 system|0.24138 is|0.2069 called|0.17241 inconsistent|0.13793 An|0.10345 obvious|0.068966 example|0.034483 is|0",
+			"previous_weights": " Note|0 that|0.043478 this|0.086957 is|0.13043 not|0.17391 the|0.21739 only|0.26087 way|0.30435 to|0.34783 solve|0.3913 this|0.43478 specific|0.47826 system|0.52174 in|0.56522 this|0.6087 case|0.65217 as|0.69565 well|0.73913 could|0.78261 have|0.82609 been|0.86957 solved|0.91304 before|0.95652 |1"
+		}
+	}
+}

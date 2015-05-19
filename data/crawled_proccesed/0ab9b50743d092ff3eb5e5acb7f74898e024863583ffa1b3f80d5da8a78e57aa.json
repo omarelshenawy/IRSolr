@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ab9b50743d092ff3eb5e5acb7f74898e024863583ffa1b3f80d5da8a78e57aa",
+			"url": "https://upload.wikimedia.org/math/1/2/8/1281312c0f745856936ddcdc0d793f57.png",
+			"previous": " The surface area of the n 1 sphere of radius 1 is The n sphere of unit radius centered at the origin is denoted Sn and is often referred to as the n sphere Note that the ordinary sphere is a 2 sphere because it is a 2 dimensional surface which is embedded in 3 dimensional space ",
+			"after": " where z is Euler s Gamma function  Another expression for the surface area is",
+			"color": "gray|0.29508 grey|0.29508 dark|0.24323 gray|0.24323 dark|0.24323 grey|0.24323 dim|0.20314 gray|0.20314 dim|0.20314 grey|0.20314 silver|0.11417 light|0.061186 gray|0.061186 light|0.061186 grey|0.061186 gainsboro|0.044341 white|0.0099179 smoke|0.0099179 linen|0.0051052 lavender|0.0043606 blush|0.0043606 alice|0.0041663 blue|0.0041663 ghost|0.0037887 white|0.0037887 sea|0.0035574 shell|0.0035574 snow|0.0033956  ",
+			"after_weights": " where|1 z|0.92857 is|0.85714 Euler|0.78571 s|0.71429 Gamma|0.64286 function|0.57143 |0.5 Another|0.42857 expression|0.35714 for|0.28571 the|0.21429 surface|0.14286 area|0.071429 is|0",
+			"previous_weights": " The|0 surface|0.017544 area|0.035088 of|0.052632 the|0.070175 n|0.087719 1|0.10526 sphere|0.12281 of|0.14035 radius|0.15789 1|0.17544 is|0.19298 The|0.21053 n|0.22807 sphere|0.24561 of|0.26316 unit|0.2807 radius|0.29825 centered|0.31579 at|0.33333 the|0.35088 origin|0.36842 is|0.38596 denoted|0.40351 Sn|0.42105 and|0.4386 is|0.45614 often|0.47368 referred|0.49123 to|0.50877 as|0.52632 the|0.54386 n|0.5614 sphere|0.57895 Note|0.59649 that|0.61404 the|0.63158 ordinary|0.64912 sphere|0.66667 is|0.68421 a|0.70175 2|0.7193 sphere|0.73684 because|0.75439 it|0.77193 is|0.78947 a|0.80702 2|0.82456 dimensional|0.84211 surface|0.85965 which|0.87719 is|0.89474 embedded|0.91228 in|0.92982 3|0.94737 dimensional|0.96491 space|0.98246 |1"
+		}
+	}
+}

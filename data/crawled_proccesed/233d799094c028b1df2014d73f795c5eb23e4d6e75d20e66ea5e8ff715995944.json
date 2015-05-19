@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "233d799094c028b1df2014d73f795c5eb23e4d6e75d20e66ea5e8ff715995944",
+			"url": "https://upload.wikimedia.org/math/3/a/a/3aa02425732dbc4757f74a5d2156ecb0.png",
+			"previous": " This could be practical if can be computed prior to many evaluations of however one should use caution as high order curves may lack numeric stability de Casteljau s algorithm should be used if this occurs Note that the empty product is 1 ",
+			"after": " The derivative for a curve of order n is",
+			"color": "gray|0.33357 grey|0.33357 dark|0.24235 gray|0.24235 dark|0.24235 grey|0.24235 dim|0.24093 gray|0.24093 dim|0.24093 grey|0.24093 silver|0.10082 light|0.040023 gray|0.040023 light|0.040023 grey|0.040023 gainsboro|0.026877 white|0.0039821 smoke|0.0039821  ",
+			"after_weights": " The|1 derivative|0.875 for|0.75 a|0.625 curve|0.5 of|0.375 order|0.25 n|0.125 is|0",
+			"previous_weights": " This|0 could|0.023256 be|0.046512 practical|0.069767 if|0.093023 can|0.11628 be|0.13953 computed|0.16279 prior|0.18605 to|0.2093 many|0.23256 evaluations|0.25581 of|0.27907 however|0.30233 one|0.32558 should|0.34884 use|0.37209 caution|0.39535 as|0.4186 high|0.44186 order|0.46512 curves|0.48837 may|0.51163 lack|0.53488 numeric|0.55814 stability|0.5814 de|0.60465 Casteljau|0.62791 s|0.65116 algorithm|0.67442 should|0.69767 be|0.72093 used|0.74419 if|0.76744 this|0.7907 occurs|0.81395 Note|0.83721 that|0.86047 the|0.88372 empty|0.90698 product|0.93023 is|0.95349 1|0.97674 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41a815664996ac59a6af707c72db54b5bc5437040a34a9b9af6f110c265ffc0e",
+			"url": "https://upload.wikimedia.org/math/c/a/7/ca7c0b1dea5eb68797b630c6ff8a7caa.png",
+			"previous": " The distance formula is simpler when written in terms of the parametric latitude ",
+			"after": " Even though latitude is normally confined to the range all the formulas given here apply to measuring distance around the complete meridian ellipse including the anti meridian Thus the ranges of and the rectifying latitude are unrestricted ",
+			"color": "dim|0.44137 gray|0.44137 dim|0.44137 grey|0.44137 gray|0.27569 grey|0.27569 dark|0.14808 gray|0.14808 dark|0.14808 grey|0.14808 silver|0.064762 light|0.032349 gray|0.032349 light|0.032349 grey|0.032349 gainsboro|0.023034 white|0.0036913 smoke|0.0036913  ",
+			"after_weights": " Even|1 though|0.97297 latitude|0.94595 is|0.91892 normally|0.89189 confined|0.86486 to|0.83784 the|0.81081 range|0.78378 all|0.75676 the|0.72973 formulas|0.7027 given|0.67568 here|0.64865 apply|0.62162 to|0.59459 measuring|0.56757 distance|0.54054 around|0.51351 the|0.48649 complete|0.45946 meridian|0.43243 ellipse|0.40541 including|0.37838 the|0.35135 anti|0.32432 meridian|0.2973 Thus|0.27027 the|0.24324 ranges|0.21622 of|0.18919 and|0.16216 the|0.13514 rectifying|0.10811 latitude|0.081081 are|0.054054 unrestricted|0.027027 |0",
+			"previous_weights": " The|0 distance|0.076923 formula|0.15385 is|0.23077 simpler|0.30769 when|0.38462 written|0.46154 in|0.53846 terms|0.61538 of|0.69231 the|0.76923 parametric|0.84615 latitude|0.92308 |1"
+		}
+	}
+}

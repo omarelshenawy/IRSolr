@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "442a2b6435bd5461743e66ae7497277286268fffb8e489014806bf6191dbe50b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Martin_Luther_King_cornerstone_memorial_%28Omaha%2C_Nebraska%29.jpg/200px-Martin_Luther_King_cornerstone_memorial_%28Omaha%2C_Nebraska%29.jpg",
+			"previous": " ",
+			"after": " The civil rights movement brought calls for black power and against racism to Omaha While youth throughout the city were being drafted to fight in the Vietnam War funding for education and youth programs were being cut and policing tactics were targeting African American youth This led to a series of protests and riots the repercussions of which are still felt today in some communities 70 ",
+			"color": "dim|0.21519 gray|0.21519 dim|0.21519 grey|0.21519 slate|0.18097 gray|0.18097 dark|0.16449 gray|0.16449 dark|0.16449 grey|0.16449 light|0.10881 slate|0.10881 gray|0.10881 gray|0.086707 grey|0.086707 dark|0.082411 slate|0.082411 gray|0.082411 silver|0.076613 black|0.051948 light|0.016436 gray|0.016436 light|0.016436 grey|0.016436 light|0.007509 steel|0.007509 blue|0.007509  ",
+			"after_weights": " The|1 civil|0.98485 rights|0.9697 movement|0.95455 brought|0.93939 calls|0.92424 for|0.90909 black|0.89394 power|0.87879 and|0.86364 against|0.84848 racism|0.83333 to|0.81818 Omaha|0.80303 While|0.78788 youth|0.77273 throughout|0.75758 the|0.74242 city|0.72727 were|0.71212 being|0.69697 drafted|0.68182 to|0.66667 fight|0.65152 in|0.63636 the|0.62121 Vietnam|0.60606 War|0.59091 funding|0.57576 for|0.56061 education|0.54545 and|0.5303 youth|0.51515 programs|0.5 were|0.48485 being|0.4697 cut|0.45455 and|0.43939 policing|0.42424 tactics|0.40909 were|0.39394 targeting|0.37879 African|0.36364 American|0.34848 youth|0.33333 This|0.31818 led|0.30303 to|0.28788 a|0.27273 series|0.25758 of|0.24242 protests|0.22727 and|0.21212 riots|0.19697 the|0.18182 repercussions|0.16667 of|0.15152 which|0.13636 are|0.12121 still|0.10606 felt|0.090909 today|0.075758 in|0.060606 some|0.045455 communities|0.030303 70|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

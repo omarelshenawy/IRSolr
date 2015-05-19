@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "796f06ad51f03242534ae6bfbb10b9fbb884918139559450c09cfc3c9bb0795e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/256px-World-airline-routemap-2009.png",
+			"previous": " ",
+			"after": " The pattern of ownership has been privatized in the recent years that is the ownership has gradually changed from governments to private and individual sectors or organizations This occurs as regulators permit greater freedom and non government ownership in steps that are usually decades apart This pattern is not seen for all airlines in all regions citation needed ",
+			"color": "dark|0.20555 gray|0.20555 dark|0.20555 grey|0.20555 olive|0.16758 drab|0.16758 silver|0.11408 green|0.099796 yellow|0.099796 yellow|0.07892 green|0.07892 dark|0.063212 olive|0.063212 green|0.063212 gray|0.057234 grey|0.057234 light|0.048794 gray|0.048794 light|0.048794 grey|0.048794 light|0.022995 slate|0.022995 gray|0.022995 slate|0.02136 gray|0.02136 dim|0.017637 gray|0.017637 dim|0.017637 grey|0.017637 gainsboro|0.016834 khaki|0.015562 olive|0.013358 dark|0.0094015 khaki|0.0094015  ",
+			"after_weights": " The|1 pattern|0.98276 of|0.96552 ownership|0.94828 has|0.93103 been|0.91379 privatized|0.89655 in|0.87931 the|0.86207 recent|0.84483 years|0.82759 that|0.81034 is|0.7931 the|0.77586 ownership|0.75862 has|0.74138 gradually|0.72414 changed|0.7069 from|0.68966 governments|0.67241 to|0.65517 private|0.63793 and|0.62069 individual|0.60345 sectors|0.58621 or|0.56897 organizations|0.55172 This|0.53448 occurs|0.51724 as|0.5 regulators|0.48276 permit|0.46552 greater|0.44828 freedom|0.43103 and|0.41379 non|0.39655 government|0.37931 ownership|0.36207 in|0.34483 steps|0.32759 that|0.31034 are|0.2931 usually|0.27586 decades|0.25862 apart|0.24138 This|0.22414 pattern|0.2069 is|0.18966 not|0.17241 seen|0.15517 for|0.13793 all|0.12069 airlines|0.10345 in|0.086207 all|0.068966 regions|0.051724 citation|0.034483 needed|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

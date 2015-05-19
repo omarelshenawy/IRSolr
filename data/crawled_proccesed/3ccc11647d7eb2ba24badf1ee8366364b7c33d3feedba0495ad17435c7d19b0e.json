@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ccc11647d7eb2ba24badf1ee8366364b7c33d3feedba0495ad17435c7d19b0e",
+			"url": "https://upload.wikimedia.org/math/a/3/e/a3e5233a73b83de635a1cf1bdba01d26.png",
+			"previous": " with In 1837 Bessel obtained one such series 11 which was put into a simpler form by Helmert 12 13 ",
+			"after": " Because this series provides an expansion for the elliptic integral of the second kind it can be used to write the arc length in terms of the geographic latitude as",
+			"color": "dim|0.34249 gray|0.34249 dim|0.34249 grey|0.34249 gray|0.27346 grey|0.27346 dark|0.18551 gray|0.18551 dark|0.18551 grey|0.18551 silver|0.09643 light|0.041302 gray|0.041302 light|0.041302 grey|0.041302 gainsboro|0.030524 black|0.0096493 white|0.0046851 smoke|0.0046851  ",
+			"after_weights": " Because|1 this|0.96552 series|0.93103 provides|0.89655 an|0.86207 expansion|0.82759 for|0.7931 the|0.75862 elliptic|0.72414 integral|0.68966 of|0.65517 the|0.62069 second|0.58621 kind|0.55172 it|0.51724 can|0.48276 be|0.44828 used|0.41379 to|0.37931 write|0.34483 the|0.31034 arc|0.27586 length|0.24138 in|0.2069 terms|0.17241 of|0.13793 the|0.10345 geographic|0.068966 latitude|0.034483 as|0",
+			"previous_weights": " with|0 In|0.05 1837|0.1 Bessel|0.15 obtained|0.2 one|0.25 such|0.3 series|0.35 11|0.4 which|0.45 was|0.5 put|0.55 into|0.6 a|0.65 simpler|0.7 form|0.75 by|0.8 Helmert|0.85 12|0.9 13|0.95 |1"
+		}
+	}
+}

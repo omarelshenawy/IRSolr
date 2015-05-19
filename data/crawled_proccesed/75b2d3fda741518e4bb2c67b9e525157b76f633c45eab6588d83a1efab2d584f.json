@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "75b2d3fda741518e4bb2c67b9e525157b76f633c45eab6588d83a1efab2d584f",
+			"url": "https://upload.wikimedia.org/math/3/c/8/3c81329bbfbb9ea8763ead7e5bd663db.png",
+			"previous": " has as a general solution and also u 0 as a particular solution corresponding to the limit of the general solution when C tends to the infinity The equation is nonlinear because it may be written as",
+			"after": " and the left hand side of the equation is not a linear function of u and its derivatives Note that if the u2 term were replaced with u the problem would be linear the exponential decay problem ",
+			"color": "dim|0.37627 gray|0.37627 dim|0.37627 grey|0.37627 gray|0.28663 grey|0.28663 dark|0.1711 gray|0.1711 dark|0.1711 grey|0.1711 silver|0.078851 light|0.040204 gray|0.040204 light|0.040204 grey|0.040204 gainsboro|0.028587 white|0.0048886 smoke|0.0048886  ",
+			"after_weights": " and|1 the|0.97297 left|0.94595 hand|0.91892 side|0.89189 of|0.86486 the|0.83784 equation|0.81081 is|0.78378 not|0.75676 a|0.72973 linear|0.7027 function|0.67568 of|0.64865 u|0.62162 and|0.59459 its|0.56757 derivatives|0.54054 Note|0.51351 that|0.48649 if|0.45946 the|0.43243 u2|0.40541 term|0.37838 were|0.35135 replaced|0.32432 with|0.2973 u|0.27027 the|0.24324 problem|0.21622 would|0.18919 be|0.16216 linear|0.13514 the|0.10811 exponential|0.081081 decay|0.054054 problem|0.027027 |0",
+			"previous_weights": " has|0 as|0.027778 a|0.055556 general|0.083333 solution|0.11111 and|0.13889 also|0.16667 u|0.19444 0|0.22222 as|0.25 a|0.27778 particular|0.30556 solution|0.33333 corresponding|0.36111 to|0.38889 the|0.41667 limit|0.44444 of|0.47222 the|0.5 general|0.52778 solution|0.55556 when|0.58333 C|0.61111 tends|0.63889 to|0.66667 the|0.69444 infinity|0.72222 The|0.75 equation|0.77778 is|0.80556 nonlinear|0.83333 because|0.86111 it|0.88889 may|0.91667 be|0.94444 written|0.97222 as|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "83b675562c660c5477e640c0d7dd1a200f806166ae3a49db243cb519348976d6",
+			"url": "https://upload.wikimedia.org/math/7/6/1/7615ce76a0ba72fd2bb80fdf3e440ddf.png",
+			"previous": " Recall that the eigenvectors vi of A satisfy the eigenvalue equation ",
+			"after": " Assemble these eigenvectors into the matrix V which is invertible because these vectors are assumed to be linearly independent This means the coordinates of x and X relative to the basis vi can be computed to be ",
+			"color": "dim|0.40826 gray|0.40826 dim|0.40826 grey|0.40826 gray|0.28695 grey|0.28695 dark|0.16081 gray|0.16081 dark|0.16081 grey|0.16081 silver|0.065634 light|0.033354 gray|0.033354 light|0.033354 grey|0.033354 gainsboro|0.023587 white|0.0046506 smoke|0.0046506  ",
+			"after_weights": " Assemble|1 these|0.97297 eigenvectors|0.94595 into|0.91892 the|0.89189 matrix|0.86486 V|0.83784 which|0.81081 is|0.78378 invertible|0.75676 because|0.72973 these|0.7027 vectors|0.67568 are|0.64865 assumed|0.62162 to|0.59459 be|0.56757 linearly|0.54054 independent|0.51351 This|0.48649 means|0.45946 the|0.43243 coordinates|0.40541 of|0.37838 x|0.35135 and|0.32432 X|0.2973 relative|0.27027 to|0.24324 the|0.21622 basis|0.18919 vi|0.16216 can|0.13514 be|0.10811 computed|0.081081 to|0.054054 be|0.027027 |0",
+			"previous_weights": " Recall|0 that|0.090909 the|0.18182 eigenvectors|0.27273 vi|0.36364 of|0.45455 A|0.54545 satisfy|0.63636 the|0.72727 eigenvalue|0.81818 equation|0.90909 |1"
+		}
+	}
+}

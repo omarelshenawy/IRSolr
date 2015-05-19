@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b09aa559cb3c87418ef383b1e86f8670c1e1cefd57320f7b1ebdb9400b7d9b2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Centrale-intertielle_missile_S3_Musee_du_Bourget_P1010652.JPG/220px-Centrale-intertielle_missile_S3_Musee_du_Bourget_P1010652.JPG",
+			"previous": " ",
+			"after": " INSs contain Inertial Measurement Units IMUs which have angular and linear accelerometers for changes in position some IMUs include a gyroscopic element for maintaining an absolute angular reference ",
+			"color": "dim|0.34738 gray|0.34738 dim|0.34738 grey|0.34738 gray|0.18645 grey|0.18645 black|0.075075 dark|0.073318 gray|0.073318 dark|0.073318 grey|0.073318 tan|0.06484 dark|0.050028 slate|0.050028 gray|0.050028 slate|0.043249 gray|0.043249 silver|0.036268 burly|0.02713 wood|0.02713 light|0.019936 slate|0.019936 gray|0.019936 light|0.012862 gray|0.012862 light|0.012862 grey|0.012862  ",
+			"after_weights": " INSs|1 contain|0.96429 Inertial|0.92857 Measurement|0.89286 Units|0.85714 IMUs|0.82143 which|0.78571 have|0.75 angular|0.71429 and|0.67857 linear|0.64286 accelerometers|0.60714 for|0.57143 changes|0.53571 in|0.5 position|0.46429 some|0.42857 IMUs|0.39286 include|0.35714 a|0.32143 gyroscopic|0.28571 element|0.25 for|0.21429 maintaining|0.17857 an|0.14286 absolute|0.10714 angular|0.071429 reference|0.035714 |0",
+			"previous_weights": " "
+		}
+	}
+}

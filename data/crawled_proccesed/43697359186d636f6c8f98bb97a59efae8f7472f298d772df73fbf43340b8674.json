@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "43697359186d636f6c8f98bb97a59efae8f7472f298d772df73fbf43340b8674",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Departing_JFK.JPG/220px-Departing_JFK.JPG",
+			"previous": " ",
+			"after": " John F Kennedy International Airport IATA JFK ICAO KJFK FAA LID JFK is an airport in Queens New York 12 miles 20 km southeast of Lower Manhattan It is the busiest international air passenger gateway in the United States 3 4 handling 53 254 362 passengers in 2014 5 ",
+			"color": "gray|0.22683 grey|0.22683 dim|0.20398 gray|0.20398 dim|0.20398 grey|0.20398 light|0.18576 steel|0.18576 blue|0.18576 light|0.14629 slate|0.14629 gray|0.14629 slate|0.12257 gray|0.12257 dark|0.067182 gray|0.067182 dark|0.067182 grey|0.067182 silver|0.016217  ",
+			"after_weights": " John|1 F|0.97959 Kennedy|0.95918 International|0.93878 Airport|0.91837 IATA|0.89796 JFK|0.87755 ICAO|0.85714 KJFK|0.83673 FAA|0.81633 LID|0.79592 JFK|0.77551 is|0.7551 an|0.73469 airport|0.71429 in|0.69388 Queens|0.67347 New|0.65306 York|0.63265 12|0.61224 miles|0.59184 20|0.57143 km|0.55102 southeast|0.53061 of|0.5102 Lower|0.4898 Manhattan|0.46939 It|0.44898 is|0.42857 the|0.40816 busiest|0.38776 international|0.36735 air|0.34694 passenger|0.32653 gateway|0.30612 in|0.28571 the|0.26531 United|0.2449 States|0.22449 3|0.20408 4|0.18367 handling|0.16327 53|0.14286 254|0.12245 362|0.10204 passengers|0.081633 in|0.061224 2014|0.040816 5|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

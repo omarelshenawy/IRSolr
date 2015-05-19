@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "109098af1b863319fe9bdc4eb90e0557b97e644400b17fc437a4309d84a24027",
+			"url": "https://upload.wikimedia.org/math/e/d/c/edca5e46dcfbe12267545178cf309ec7.png",
+			"previous": " Where   The overall gear ratio of a simple planetary gearset can be reliably calculated using the following two equations 6 representing the sun planet and planet annulus interactions respectively ",
+			"after": " From which we can deduce that   OR",
+			"color": "dark|0.28747 gray|0.28747 dark|0.28747 grey|0.28747 gray|0.26716 grey|0.26716 dim|0.21364 gray|0.21364 dim|0.21364 grey|0.21364 silver|0.14734 light|0.057017 gray|0.057017 light|0.057017 grey|0.057017 gainsboro|0.016594 white|0.0026395 smoke|0.0026395  ",
+			"after_weights": " From|1 which|0.875 we|0.75 can|0.625 deduce|0.5 that|0.375 |0.25 |0.125 OR|0",
+			"previous_weights": " Where|0 |0.032258 |0.064516 The|0.096774 overall|0.12903 gear|0.16129 ratio|0.19355 of|0.22581 a|0.25806 simple|0.29032 planetary|0.32258 gearset|0.35484 can|0.3871 be|0.41935 reliably|0.45161 calculated|0.48387 using|0.51613 the|0.54839 following|0.58065 two|0.6129 equations|0.64516 6|0.67742 representing|0.70968 the|0.74194 sun|0.77419 planet|0.80645 and|0.83871 planet|0.87097 annulus|0.90323 interactions|0.93548 respectively|0.96774 |1"
+		}
+	}
+}

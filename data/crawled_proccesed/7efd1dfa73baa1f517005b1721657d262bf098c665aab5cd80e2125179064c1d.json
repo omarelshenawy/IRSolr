@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7efd1dfa73baa1f517005b1721657d262bf098c665aab5cd80e2125179064c1d",
+			"url": "https://upload.wikimedia.org/math/b/0/6/b061e48932533cbed03972d6bf87c848.png",
+			"previous": " We report here the proof of the above bounds which is short and elementary Let be a root of the polynomial in order to prove the inequality Rp we can assume of course 1 Writing the equation as and using the H lder s inequality we find Now if p 1 this is thus In the case 1 p taking into account the summation formula for a geometric progression we have",
+			"after": " ",
+			"color": "gray|0.27419 grey|0.27419 dark|0.27288 gray|0.27288 dark|0.27288 grey|0.27288 dim|0.19373 gray|0.19373 dim|0.19373 grey|0.19373 silver|0.12726 light|0.070875 gray|0.070875 light|0.070875 grey|0.070875 gainsboro|0.04967 white|0.0037554 smoke|0.0037554  ",
+			"after_weights": " ",
+			"previous_weights": " We|0 report|0.014286 here|0.028571 the|0.042857 proof|0.057143 of|0.071429 the|0.085714 above|0.1 bounds|0.11429 which|0.12857 is|0.14286 short|0.15714 and|0.17143 elementary|0.18571 Let|0.2 be|0.21429 a|0.22857 root|0.24286 of|0.25714 the|0.27143 polynomial|0.28571 in|0.3 order|0.31429 to|0.32857 prove|0.34286 the|0.35714 inequality|0.37143 Rp|0.38571 we|0.4 can|0.41429 assume|0.42857 of|0.44286 course|0.45714 1|0.47143 Writing|0.48571 the|0.5 equation|0.51429 as|0.52857 and|0.54286 using|0.55714 the|0.57143 H|0.58571 lder|0.6 s|0.61429 inequality|0.62857 we|0.64286 find|0.65714 Now|0.67143 if|0.68571 p|0.7 1|0.71429 this|0.72857 is|0.74286 thus|0.75714 In|0.77143 the|0.78571 case|0.8 1|0.81429 p|0.82857 taking|0.84286 into|0.85714 account|0.87143 the|0.88571 summation|0.9 formula|0.91429 for|0.92857 a|0.94286 geometric|0.95714 progression|0.97143 we|0.98571 have|1"
+		}
+	}
+}

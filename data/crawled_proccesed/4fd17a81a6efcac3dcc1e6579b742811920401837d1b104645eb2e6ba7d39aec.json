@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fd17a81a6efcac3dcc1e6579b742811920401837d1b104645eb2e6ba7d39aec",
+			"url": "https://upload.wikimedia.org/math/4/7/7/47789cf0dbfb6845361d1ff147276052.png",
+			"previous": " Assuming that all atoms in a crystal vibrate with the same frequency the average thermal energy can be estimated using the equipartition theorem as 12 ",
+			"after": " where m is the atomic mass is the frequency u is the average vibration amplitude kB is the Boltzmann constant and T is the absolute temperature If the threshold value of u2 is c2a2 where c is the Lindemann constant and a is the atomic spacing then the melting point is estimated as",
+			"color": "dim|0.32799 gray|0.32799 dim|0.32799 grey|0.32799 gray|0.28442 grey|0.28442 dark|0.19603 gray|0.19603 dark|0.19603 grey|0.19603 silver|0.089888 light|0.043703 gray|0.043703 light|0.043703 grey|0.043703 gainsboro|0.030921 white|0.0060951 smoke|0.0060951 linen|0.0032389 lavender|0.0030115 blush|0.0030115 alice|0.0029182 blue|0.0029182 ghost|0.0028183 white|0.0028183  ",
+			"after_weights": " where|1 m|0.98077 is|0.96154 the|0.94231 atomic|0.92308 mass|0.90385 is|0.88462 the|0.86538 frequency|0.84615 u|0.82692 is|0.80769 the|0.78846 average|0.76923 vibration|0.75 amplitude|0.73077 kB|0.71154 is|0.69231 the|0.67308 Boltzmann|0.65385 constant|0.63462 and|0.61538 T|0.59615 is|0.57692 the|0.55769 absolute|0.53846 temperature|0.51923 If|0.5 the|0.48077 threshold|0.46154 value|0.44231 of|0.42308 u2|0.40385 is|0.38462 c2a2|0.36538 where|0.34615 c|0.32692 is|0.30769 the|0.28846 Lindemann|0.26923 constant|0.25 and|0.23077 a|0.21154 is|0.19231 the|0.17308 atomic|0.15385 spacing|0.13462 then|0.11538 the|0.096154 melting|0.076923 point|0.057692 is|0.038462 estimated|0.019231 as|0",
+			"previous_weights": " Assuming|0 that|0.04 all|0.08 atoms|0.12 in|0.16 a|0.2 crystal|0.24 vibrate|0.28 with|0.32 the|0.36 same|0.4 frequency|0.44 the|0.48 average|0.52 thermal|0.56 energy|0.6 can|0.64 be|0.68 estimated|0.72 using|0.76 the|0.8 equipartition|0.84 theorem|0.88 as|0.92 12|0.96 |1"
+		}
+	}
+}

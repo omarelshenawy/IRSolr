@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "90c42230dc2ae8d25f1fbed06ed05b744817c807b9cd892c681b18c59badf476",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NAND_scaling_timeline.png/350px-NAND_scaling_timeline.png",
+			"previous": " ",
+			"after": " Due to its relatively simple structure and high demand for higher capacity NAND flash memory is the most aggressively scaled technology among electronic devices The heavy competition among the top few manufacturers only adds to the aggressiveness in shrinking the design rule or process technology node 28 While the expected shrink timeline is a factor of two every three years per original version of Moore s law this has recently been accelerated in the case of NAND flash to a factor of two every two years ",
+			"color": "white|0.09208 smoke|0.09208 alice|0.086351 blue|0.086351 ghost|0.086195 white|0.086195 sea|0.085971 shell|0.085971 snow|0.085817 white|0.084343 lavender|0.083408 blush|0.083408 mint|0.082732 cream|0.082732 floral|0.080521 white|0.080521 azure|0.079363 light|0.036062 gray|0.036062 light|0.036062 grey|0.036062 silver|0.035794 gainsboro|0.032919 dark|0.02679 gray|0.02679 dark|0.02679 grey|0.02679 linen|0.008484 gray|0.0057073 grey|0.0057073 ivory|0.0032274  ",
+			"after_weights": " Due|1 to|0.98837 its|0.97674 relatively|0.96512 simple|0.95349 structure|0.94186 and|0.93023 high|0.9186 demand|0.90698 for|0.89535 higher|0.88372 capacity|0.87209 NAND|0.86047 flash|0.84884 memory|0.83721 is|0.82558 the|0.81395 most|0.80233 aggressively|0.7907 scaled|0.77907 technology|0.76744 among|0.75581 electronic|0.74419 devices|0.73256 The|0.72093 heavy|0.7093 competition|0.69767 among|0.68605 the|0.67442 top|0.66279 few|0.65116 manufacturers|0.63953 only|0.62791 adds|0.61628 to|0.60465 the|0.59302 aggressiveness|0.5814 in|0.56977 shrinking|0.55814 the|0.54651 design|0.53488 rule|0.52326 or|0.51163 process|0.5 technology|0.48837 node|0.47674 28|0.46512 While|0.45349 the|0.44186 expected|0.43023 shrink|0.4186 timeline|0.40698 is|0.39535 a|0.38372 factor|0.37209 of|0.36047 two|0.34884 every|0.33721 three|0.32558 years|0.31395 per|0.30233 original|0.2907 version|0.27907 of|0.26744 Moore|0.25581 s|0.24419 law|0.23256 this|0.22093 has|0.2093 recently|0.19767 been|0.18605 accelerated|0.17442 in|0.16279 the|0.15116 case|0.13953 of|0.12791 NAND|0.11628 flash|0.10465 to|0.093023 a|0.081395 factor|0.069767 of|0.05814 two|0.046512 every|0.034884 two|0.023256 years|0.011628 |0",
+			"previous_weights": " "
+		}
+	}
+}

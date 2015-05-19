@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b85a0e2d1b09e0250b277ddeaa95109312691e7d5698e9da1845f3181946bd4",
+			"url": "https://upload.wikimedia.org/math/9/c/5/9c51472bba31f25cd6b465ae765ef6de.png",
+			"previous": " Special care is needed with subscripted labels to distinguish the purpose of the subscript as this is a common error variables and constants in subscripts should be italic while textual labels should be in normal text font Roman upright For example ",
+			"after": " and",
+			"color": "black|0.47343 dim|0.27301 gray|0.27301 dim|0.27301 grey|0.27301 gray|0.12725 grey|0.12725 dark|0.072869 gray|0.072869 dark|0.072869 grey|0.072869 silver|0.028018 light|0.012053 gray|0.012053 light|0.012053 grey|0.012053 gainsboro|0.0083326  ",
+			"after_weights": " and|0",
+			"previous_weights": " Special|0 care|0.02439 is|0.04878 needed|0.073171 with|0.097561 subscripted|0.12195 labels|0.14634 to|0.17073 distinguish|0.19512 the|0.21951 purpose|0.2439 of|0.26829 the|0.29268 subscript|0.31707 as|0.34146 this|0.36585 is|0.39024 a|0.41463 common|0.43902 error|0.46341 variables|0.4878 and|0.5122 constants|0.53659 in|0.56098 subscripts|0.58537 should|0.60976 be|0.63415 italic|0.65854 while|0.68293 textual|0.70732 labels|0.73171 should|0.7561 be|0.78049 in|0.80488 normal|0.82927 text|0.85366 font|0.87805 Roman|0.90244 upright|0.92683 For|0.95122 example|0.97561 |1"
+		}
+	}
+}

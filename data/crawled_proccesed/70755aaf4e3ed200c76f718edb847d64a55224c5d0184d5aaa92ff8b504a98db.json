@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "70755aaf4e3ed200c76f718edb847d64a55224c5d0184d5aaa92ff8b504a98db",
+			"url": "https://upload.wikimedia.org/math/3/7/7/377bc70c345bab286d35625efb7834da.png",
+			"previous": " However if the impulse response was which has a pole in zero imaginary part This system is BIBO asymptotically stable since the pole is inside the unit circle ",
+			"after": " then the Z transform is which has a pole at and is not BIBO stable since the pole has a modulus strictly greater than one ",
+			"color": "dim|0.30702 gray|0.30702 dim|0.30702 grey|0.30702 gray|0.24955 grey|0.24955 dark|0.16736 gray|0.16736 dark|0.16736 grey|0.16736 silver|0.083956 light|0.055557 gray|0.055557 light|0.055557 grey|0.055557 gainsboro|0.043657 white|0.017585 smoke|0.017585 lavender|0.010596 blush|0.010596 alice|0.0094601 blue|0.0094601 ghost|0.0092778 white|0.0092778 sea|0.0091614 shell|0.0091614 snow|0.0091148 linen|0.0081741 white|0.0071131 mint|0.0052394 cream|0.0052394 floral|0.0042595 white|0.0042595 azure|0.0029165  ",
+			"after_weights": " then|1 the|0.96 Z|0.92 transform|0.88 is|0.84 which|0.8 has|0.76 a|0.72 pole|0.68 at|0.64 and|0.6 is|0.56 not|0.52 BIBO|0.48 stable|0.44 since|0.4 the|0.36 pole|0.32 has|0.28 a|0.24 modulus|0.2 strictly|0.16 greater|0.12 than|0.08 one|0.04 |0",
+			"previous_weights": " However|0 if|0.035714 the|0.071429 impulse|0.10714 response|0.14286 was|0.17857 which|0.21429 has|0.25 a|0.28571 pole|0.32143 in|0.35714 zero|0.39286 imaginary|0.42857 part|0.46429 This|0.5 system|0.53571 is|0.57143 BIBO|0.60714 asymptotically|0.64286 stable|0.67857 since|0.71429 the|0.75 pole|0.78571 is|0.82143 inside|0.85714 the|0.89286 unit|0.92857 circle|0.96429 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3585846900f534b78b2c5bac267c87ff3c2d8be6dc36d74062ee6a5872989bf9",
+			"url": "https://upload.wikimedia.org/math/c/8/b/c8b205a463fb4a5db9723b51b3c00884.png",
+			"previous": " ",
+			"after": " The concept of eigenvectors and eigenvalues extends naturally to abstract linear transformations on abstract vector spaces Namely let be any vector space over some field of scalars and let be a linear transformation mapping into We say that a non zero vector of is an eigenvector of if and only if there is a scalar in such that",
+			"color": " ",
+			"after_weights": " The|1 concept|0.98246 of|0.96491 eigenvectors|0.94737 and|0.92982 eigenvalues|0.91228 extends|0.89474 naturally|0.87719 to|0.85965 abstract|0.84211 linear|0.82456 transformations|0.80702 on|0.78947 abstract|0.77193 vector|0.75439 spaces|0.73684 Namely|0.7193 let|0.70175 be|0.68421 any|0.66667 vector|0.64912 space|0.63158 over|0.61404 some|0.59649 field|0.57895 of|0.5614 scalars|0.54386 and|0.52632 let|0.50877 be|0.49123 a|0.47368 linear|0.45614 transformation|0.4386 mapping|0.42105 into|0.40351 We|0.38596 say|0.36842 that|0.35088 a|0.33333 non|0.31579 zero|0.29825 vector|0.2807 of|0.26316 is|0.24561 an|0.22807 eigenvector|0.21053 of|0.19298 if|0.17544 and|0.15789 only|0.14035 if|0.12281 there|0.10526 is|0.087719 a|0.070175 scalar|0.052632 in|0.035088 such|0.017544 that|0",
+			"previous_weights": " "
+		}
+	}
+}

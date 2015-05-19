@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f32b7ee47c52e9be427af2b5c87bc5a2d1c094940e12f8718c5413ea39b0a67",
+			"url": "https://upload.wikimedia.org/math/5/5/2/5529c9016251b1255c9ff607c2265ddf.png",
+			"previous": " The four gradient of a scalar field transforms covariantly rather than contravariantly  The transformation rules for three dimensional velocities and accelerations are very awkward even above in standard configuration the velocity equations are quite complicated owing to their non linearity On the other hand the transformation of four velocity and four acceleration are simpler by means of the Lorentz transformation matrix ",
+			"after": " that is ",
+			"color": "black|0.27215 dim|0.25397 gray|0.25397 dim|0.25397 grey|0.25397 gray|0.22594 grey|0.22594 dark|0.16675 gray|0.16675 dark|0.16675 grey|0.16675 silver|0.060406 light|0.015119 gray|0.015119 light|0.015119 grey|0.015119 gainsboro|0.0056175  ",
+			"after_weights": " that|1 is|0.5 |0",
+			"previous_weights": " The|0 four|0.016129 gradient|0.032258 of|0.048387 a|0.064516 scalar|0.080645 field|0.096774 transforms|0.1129 covariantly|0.12903 rather|0.14516 than|0.16129 contravariantly|0.17742 |0.19355 The|0.20968 transformation|0.22581 rules|0.24194 for|0.25806 three|0.27419 dimensional|0.29032 velocities|0.30645 and|0.32258 accelerations|0.33871 are|0.35484 very|0.37097 awkward|0.3871 even|0.40323 above|0.41935 in|0.43548 standard|0.45161 configuration|0.46774 the|0.48387 velocity|0.5 equations|0.51613 are|0.53226 quite|0.54839 complicated|0.56452 owing|0.58065 to|0.59677 their|0.6129 non|0.62903 linearity|0.64516 On|0.66129 the|0.67742 other|0.69355 hand|0.70968 the|0.72581 transformation|0.74194 of|0.75806 four|0.77419 velocity|0.79032 and|0.80645 four|0.82258 acceleration|0.83871 are|0.85484 simpler|0.87097 by|0.8871 means|0.90323 of|0.91935 the|0.93548 Lorentz|0.95161 transformation|0.96774 matrix|0.98387 |1"
+		}
+	}
+}

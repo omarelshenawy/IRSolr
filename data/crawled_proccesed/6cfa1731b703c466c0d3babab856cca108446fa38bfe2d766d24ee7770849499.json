@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cfa1731b703c466c0d3babab856cca108446fa38bfe2d766d24ee7770849499",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Trisannabruecke_3%2C_1.jpg/200px-Trisannabruecke_3%2C_1.jpg",
+			"previous": " ",
+			"after": " Economy Swarovski Fritz Egger Transport Arlberg Railway Brenner Railway Innsbruck Airport Innsbruck Hauptbahnhof Inntal Motorway Kufstein railway station W rgl Hauptbahnhof Zillertal Railway",
+			"color": "dim|0.38664 gray|0.38664 dim|0.38664 grey|0.38664 gray|0.21717 grey|0.21717 dark|0.094753 gray|0.094753 dark|0.094753 grey|0.094753 black|0.047662 light|0.043571 steel|0.043571 blue|0.043571 light|0.036619 slate|0.036619 gray|0.036619 slate|0.036004 gray|0.036004 silver|0.034771 light|0.018687 gray|0.018687 light|0.018687 grey|0.018687 gainsboro|0.013946 lavender|0.011423 alice|0.0076241 blue|0.0076241 white|0.0072532 smoke|0.0072532  ",
+			"after_weights": " Economy|1 Swarovski|0.95455 Fritz|0.90909 Egger|0.86364 Transport|0.81818 Arlberg|0.77273 Railway|0.72727 Brenner|0.68182 Railway|0.63636 Innsbruck|0.59091 Airport|0.54545 Innsbruck|0.5 Hauptbahnhof|0.45455 Inntal|0.40909 Motorway|0.36364 Kufstein|0.31818 railway|0.27273 station|0.22727 W|0.18182 rgl|0.13636 Hauptbahnhof|0.090909 Zillertal|0.045455 Railway|0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a5f74d72ca10dd32ad236bf55072ffa54d5af3b08ffabbb4e645b717b79f8f8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Joyopis.svg/200px-Joyopis.svg.png",
+			"previous": " ",
+			"after": " A joystick is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling A joystick also known as the control column is the principal control device in the cockpit of many civilian and military aircraft either as a center stick or side stick It often has supplementary switches to control various aspects of the aircraft s flight ",
+			"color": "dim|0.43733 gray|0.43733 dim|0.43733 grey|0.43733 gray|0.41446 grey|0.41446 dark|0.090639 gray|0.090639 dark|0.090639 grey|0.090639 golden|0.022103 rod|0.022103 silver|0.010282 black|0.0051718 red|0.0041251  ",
+			"after_weights": " A|1 joystick|0.98592 is|0.97183 an|0.95775 input|0.94366 device|0.92958 consisting|0.91549 of|0.90141 a|0.88732 stick|0.87324 that|0.85915 pivots|0.84507 on|0.83099 a|0.8169 base|0.80282 and|0.78873 reports|0.77465 its|0.76056 angle|0.74648 or|0.73239 direction|0.71831 to|0.70423 the|0.69014 device|0.67606 it|0.66197 is|0.64789 controlling|0.6338 A|0.61972 joystick|0.60563 also|0.59155 known|0.57746 as|0.56338 the|0.5493 control|0.53521 column|0.52113 is|0.50704 the|0.49296 principal|0.47887 control|0.46479 device|0.4507 in|0.43662 the|0.42254 cockpit|0.40845 of|0.39437 many|0.38028 civilian|0.3662 and|0.35211 military|0.33803 aircraft|0.32394 either|0.30986 as|0.29577 a|0.28169 center|0.26761 stick|0.25352 or|0.23944 side|0.22535 stick|0.21127 It|0.19718 often|0.1831 has|0.16901 supplementary|0.15493 switches|0.14085 to|0.12676 control|0.11268 various|0.098592 aspects|0.084507 of|0.070423 the|0.056338 aircraft|0.042254 s|0.028169 flight|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71002b396483707d2e09643452e100d006e492d329639d7f55fc70607907ea2e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_entrance_of_Chunxi_street_Chengdu.jpg/220px-The_entrance_of_Chunxi_street_Chengdu.jpg",
+			"previous": " ",
+			"after": " China s state council has designated Chengdu as the country s western center of logistics commerce finance science and technology as well as a hub of transportation and communication It is also an important base for manufacturing and agriculture ",
+			"color": "black|0.52673 dark|0.082444 slate|0.082444 gray|0.082444 dim|0.035773 gray|0.035773 dim|0.035773 grey|0.035773 dark|0.019056 sea|0.019056 green|0.019056  ",
+			"after_weights": " China|1 s|0.97436 state|0.94872 council|0.92308 has|0.89744 designated|0.87179 Chengdu|0.84615 as|0.82051 the|0.79487 country|0.76923 s|0.74359 western|0.71795 center|0.69231 of|0.66667 logistics|0.64103 commerce|0.61538 finance|0.58974 science|0.5641 and|0.53846 technology|0.51282 as|0.48718 well|0.46154 as|0.4359 a|0.41026 hub|0.38462 of|0.35897 transportation|0.33333 and|0.30769 communication|0.28205 It|0.25641 is|0.23077 also|0.20513 an|0.17949 important|0.15385 base|0.12821 for|0.10256 manufacturing|0.076923 and|0.051282 agriculture|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

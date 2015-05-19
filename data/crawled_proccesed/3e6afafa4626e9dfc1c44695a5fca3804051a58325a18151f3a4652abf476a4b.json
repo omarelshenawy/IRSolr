@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e6afafa4626e9dfc1c44695a5fca3804051a58325a18151f3a4652abf476a4b",
+			"url": "https://upload.wikimedia.org/math/9/3/c/93c30ec1a85a9f94569edb8103d9e84a.png",
+			"previous": " The aim of source coding is to take the source data and make it smaller ",
+			"after": " Data are encoded by strings words over an alphabet  A code is a function  or if the empty string is not part of the alphabet  is the code word associated with ",
+			"color": "dim|0.29721 gray|0.29721 dim|0.29721 grey|0.29721 gray|0.23556 grey|0.23556 dark|0.19785 gray|0.19785 dark|0.19785 grey|0.19785 silver|0.09347 light|0.04727 gray|0.04727 light|0.04727 grey|0.04727 gainsboro|0.034717 white|0.015255 smoke|0.015255 lavender|0.0095222 blush|0.0095222 alice|0.0094377 blue|0.0094377 ghost|0.0093263 white|0.0093263 sea|0.0092459 shell|0.0092459 snow|0.0091711 white|0.0086315 mint|0.0073015 cream|0.0073015 floral|0.0061719 white|0.0061719 linen|0.0056533 azure|0.0041944  ",
+			"after_weights": " Data|1 are|0.97059 encoded|0.94118 by|0.91176 strings|0.88235 words|0.85294 over|0.82353 an|0.79412 alphabet|0.76471 |0.73529 A|0.70588 code|0.67647 is|0.64706 a|0.61765 function|0.58824 |0.55882 or|0.52941 if|0.5 the|0.47059 empty|0.44118 string|0.41176 is|0.38235 not|0.35294 part|0.32353 of|0.29412 the|0.26471 alphabet|0.23529 |0.20588 is|0.17647 the|0.14706 code|0.11765 word|0.088235 associated|0.058824 with|0.029412 |0",
+			"previous_weights": " The|0 aim|0.066667 of|0.13333 source|0.2 coding|0.26667 is|0.33333 to|0.4 take|0.46667 the|0.53333 source|0.6 data|0.66667 and|0.73333 make|0.8 it|0.86667 smaller|0.93333 |1"
+		}
+	}
+}

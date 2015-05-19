@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4629669fd2041acc10bd16eeb45203051e2246b3f649ce2f6d92e2c5e143ce6c",
+			"url": "https://upload.wikimedia.org/math/9/4/c/94c840af294dc8fb6e7d26830669530f.png",
+			"previous": " A bivariate quadratic function is a second degree polynomial of the form",
+			"after": " If the function has no maximum or minimum its graph forms an hyperbolic paraboloid  If the function has a minimum if A 0 and a maximum if A 0 its graph forms an elliptic paraboloid In this case the minimum or maximum occurs at where ",
+			"color": "gray|0.31509 grey|0.31509 dark|0.26432 gray|0.26432 dark|0.26432 grey|0.26432 dim|0.16622 gray|0.16622 dim|0.16622 grey|0.16622 silver|0.1212 light|0.0613 gray|0.0613 light|0.0613 grey|0.0613 gainsboro|0.043135 white|0.0076591 smoke|0.0076591 linen|0.003435 lavender|0.0032966 blush|0.0032966 alice|0.0030856 blue|0.0030856 ghost|0.0028768 white|0.0028768 sea|0.0026413 shell|0.0026413 snow|0.002526  ",
+			"after_weights": " If|1 the|0.97826 function|0.95652 has|0.93478 no|0.91304 maximum|0.8913 or|0.86957 minimum|0.84783 its|0.82609 graph|0.80435 forms|0.78261 an|0.76087 hyperbolic|0.73913 paraboloid|0.71739 |0.69565 If|0.67391 the|0.65217 function|0.63043 has|0.6087 a|0.58696 minimum|0.56522 if|0.54348 A|0.52174 0|0.5 and|0.47826 a|0.45652 maximum|0.43478 if|0.41304 A|0.3913 0|0.36957 its|0.34783 graph|0.32609 forms|0.30435 an|0.28261 elliptic|0.26087 paraboloid|0.23913 In|0.21739 this|0.19565 case|0.17391 the|0.15217 minimum|0.13043 or|0.1087 maximum|0.086957 occurs|0.065217 at|0.043478 where|0.021739 |0",
+			"previous_weights": " A|0 bivariate|0.090909 quadratic|0.18182 function|0.27273 is|0.36364 a|0.45455 second|0.54545 degree|0.63636 polynomial|0.72727 of|0.81818 the|0.90909 form|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "43ae673e53577f5d00b1797e6db921d59398567640c3d082c58f68cdead7ff36",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BoeingModel80A-1.jpg/260px-BoeingModel80A-1.jpg",
+			"previous": " ",
+			"after": " The Boeing 80 was an American airliner of the 1920s A three engined biplane the Model 80 was built by the Boeing Airplane Company for Boeing s own airline Boeing Air Transport successfully carrying both airmail and passengers on scheduled services ",
+			"color": "gray|0.29132 grey|0.29132 dim|0.17417 gray|0.17417 dim|0.17417 grey|0.17417 black|0.17022 dark|0.16637 gray|0.16637 dark|0.16637 grey|0.16637 silver|0.070022 dark|0.030546 slate|0.030546 gray|0.030546 light|0.020466 gray|0.020466 light|0.020466 grey|0.020466 gainsboro|0.015096 slate|0.0070434 gray|0.0070434 white|0.0064179 smoke|0.0064179 sea|0.0043859 shell|0.0043859 snow|0.0043836 alice|0.0043733 blue|0.0043733 ghost|0.0042784 white|0.0042784  ",
+			"after_weights": " The|1 Boeing|0.97561 80|0.95122 was|0.92683 an|0.90244 American|0.87805 airliner|0.85366 of|0.82927 the|0.80488 1920s|0.78049 A|0.7561 three|0.73171 engined|0.70732 biplane|0.68293 the|0.65854 Model|0.63415 80|0.60976 was|0.58537 built|0.56098 by|0.53659 the|0.5122 Boeing|0.4878 Airplane|0.46341 Company|0.43902 for|0.41463 Boeing|0.39024 s|0.36585 own|0.34146 airline|0.31707 Boeing|0.29268 Air|0.26829 Transport|0.2439 successfully|0.21951 carrying|0.19512 both|0.17073 airmail|0.14634 and|0.12195 passengers|0.097561 on|0.073171 scheduled|0.04878 services|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

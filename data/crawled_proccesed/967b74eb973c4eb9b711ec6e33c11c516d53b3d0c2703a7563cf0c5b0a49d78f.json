@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "967b74eb973c4eb9b711ec6e33c11c516d53b3d0c2703a7563cf0c5b0a49d78f",
+			"url": "https://upload.wikimedia.org/math/f/2/9/f296a521bff060cd02c3ef6ee7931dd7.png",
+			"previous": " ",
+			"after": " The best worst and average case complexity refer to three different ways of measuring the time complexity or any other complexity measure of different inputs of the same size Since some inputs of size n may be faster to solve than others we define the following complexities ",
+			"color": "gray|0.30475 grey|0.30475 dark|0.2759 gray|0.2759 dark|0.2759 grey|0.2759 dim|0.13826 gray|0.13826 dim|0.13826 grey|0.13826 silver|0.12688 light|0.067489 gray|0.067489 light|0.067489 grey|0.067489 gainsboro|0.047905 white|0.0097463 smoke|0.0097463 linen|0.0054271 lavender|0.0042705 blush|0.0042705 alice|0.0040781 blue|0.0040781 ghost|0.0038509 white|0.0038509 sea|0.0036791 shell|0.0036791 snow|0.0034986  ",
+			"after_weights": " The|1 best|0.97872 worst|0.95745 and|0.93617 average|0.91489 case|0.89362 complexity|0.87234 refer|0.85106 to|0.82979 three|0.80851 different|0.78723 ways|0.76596 of|0.74468 measuring|0.7234 the|0.70213 time|0.68085 complexity|0.65957 or|0.6383 any|0.61702 other|0.59574 complexity|0.57447 measure|0.55319 of|0.53191 different|0.51064 inputs|0.48936 of|0.46809 the|0.44681 same|0.42553 size|0.40426 Since|0.38298 some|0.3617 inputs|0.34043 of|0.31915 size|0.29787 n|0.2766 may|0.25532 be|0.23404 faster|0.21277 to|0.19149 solve|0.17021 than|0.14894 others|0.12766 we|0.10638 define|0.085106 the|0.06383 following|0.042553 complexities|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

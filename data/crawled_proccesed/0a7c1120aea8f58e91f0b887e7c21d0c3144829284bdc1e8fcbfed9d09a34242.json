@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a7c1120aea8f58e91f0b887e7c21d0c3144829284bdc1e8fcbfed9d09a34242",
+			"url": "https://upload.wikimedia.org/math/b/c/1/bc19c6086151e6bb769bca2e9111d0bf.png",
+			"previous": " then by adding 2 to both sides of the equation followed by dividing both sides by 4 we get For example if A logarithmic equation is an equation of the form for which has solution",
+			"after": " whence or A logarithmic equation is an equation of the form for which has solution",
+			"color": "dim|0.32675 gray|0.32675 dim|0.32675 grey|0.32675 gray|0.23085 grey|0.23085 black|0.18068 dark|0.13604 gray|0.13604 dark|0.13604 grey|0.13604 silver|0.060348 light|0.030951 gray|0.030951 light|0.030951 grey|0.030951 gainsboro|0.021873  ",
+			"after_weights": " whence|1 or|0.92857 A|0.85714 logarithmic|0.78571 equation|0.71429 is|0.64286 an|0.57143 equation|0.5 of|0.42857 the|0.35714 form|0.28571 for|0.21429 which|0.14286 has|0.071429 solution|0",
+			"previous_weights": " then|0 by|0.029412 adding|0.058824 2|0.088235 to|0.11765 both|0.14706 sides|0.17647 of|0.20588 the|0.23529 equation|0.26471 followed|0.29412 by|0.32353 dividing|0.35294 both|0.38235 sides|0.41176 by|0.44118 4|0.47059 we|0.5 get|0.52941 For|0.55882 example|0.58824 if|0.61765 A|0.64706 logarithmic|0.67647 equation|0.70588 is|0.73529 an|0.76471 equation|0.79412 of|0.82353 the|0.85294 form|0.88235 for|0.91176 which|0.94118 has|0.97059 solution|1"
+		}
+	}
+}

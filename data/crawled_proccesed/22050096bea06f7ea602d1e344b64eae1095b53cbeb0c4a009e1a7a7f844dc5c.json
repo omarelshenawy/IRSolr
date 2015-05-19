@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22050096bea06f7ea602d1e344b64eae1095b53cbeb0c4a009e1a7a7f844dc5c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg/250px-Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
+			"previous": " ",
+			"after": " The Last Supper Italian Il Cenacolo or L Ultima Cena is a 15th century mural painting in Milan created by Leonardo da Vinci for his patron Duke Ludovico Sforza and his duchess Beatrice d Este It represents the scene of The Last Supper from the final days of Jesus as narrated in the Gospel of John 13 21 when Jesus announces that one of his Twelve Apostles would betray him ",
+			"color": "dark|0.32095 gray|0.32095 dark|0.32095 grey|0.32095 dim|0.2266 gray|0.2266 dim|0.2266 grey|0.2266 gray|0.20302 grey|0.20302 silver|0.11745 light|0.034383 gray|0.034383 light|0.034383 grey|0.034383 slate|0.022116 gray|0.022116 gainsboro|0.019232 light|0.015242 slate|0.015242 gray|0.015242 black|0.013707  ",
+			"after_weights": " The|1 Last|0.98571 Supper|0.97143 Italian|0.95714 Il|0.94286 Cenacolo|0.92857 or|0.91429 L|0.9 Ultima|0.88571 Cena|0.87143 is|0.85714 a|0.84286 15th|0.82857 century|0.81429 mural|0.8 painting|0.78571 in|0.77143 Milan|0.75714 created|0.74286 by|0.72857 Leonardo|0.71429 da|0.7 Vinci|0.68571 for|0.67143 his|0.65714 patron|0.64286 Duke|0.62857 Ludovico|0.61429 Sforza|0.6 and|0.58571 his|0.57143 duchess|0.55714 Beatrice|0.54286 d|0.52857 Este|0.51429 It|0.5 represents|0.48571 the|0.47143 scene|0.45714 of|0.44286 The|0.42857 Last|0.41429 Supper|0.4 from|0.38571 the|0.37143 final|0.35714 days|0.34286 of|0.32857 Jesus|0.31429 as|0.3 narrated|0.28571 in|0.27143 the|0.25714 Gospel|0.24286 of|0.22857 John|0.21429 13|0.2 21|0.18571 when|0.17143 Jesus|0.15714 announces|0.14286 that|0.12857 one|0.11429 of|0.1 his|0.085714 Twelve|0.071429 Apostles|0.057143 would|0.042857 betray|0.028571 him|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a75c121162edf7df82c92c29c4ad4ac93ff2bfdba93f467133aabc5182bc4db",
+			"url": "https://upload.wikimedia.org/math/7/5/d/75d74aafb24d56cb4f052aba08f3a75f.png",
+			"previous": " The general form of a standing wave is  ",
+			"after": " where x y z represents the dependence of amplitude on location and the cosine sine are the oscillations in time  Physically standing waves are formed by the interference superposition of waves and their reflections although one may also say the opposite that a moving wave is a superposition of standing waves The geometric shape of the medium determines what would be the interference pattern thus determines the x y z form of the standing wave This space dependence is called a normal mode ",
+			"color": "gray|0.32433 grey|0.32433 dim|0.2983 gray|0.2983 dim|0.2983 grey|0.2983 dark|0.20954 gray|0.20954 dark|0.20954 grey|0.20954 silver|0.083934 light|0.038304 gray|0.038304 light|0.038304 grey|0.038304 gainsboro|0.0263 white|0.0047574 smoke|0.0047574  ",
+			"after_weights": " where|1 x|0.9881 y|0.97619 z|0.96429 represents|0.95238 the|0.94048 dependence|0.92857 of|0.91667 amplitude|0.90476 on|0.89286 location|0.88095 and|0.86905 the|0.85714 cosine|0.84524 sine|0.83333 are|0.82143 the|0.80952 oscillations|0.79762 in|0.78571 time|0.77381 |0.7619 Physically|0.75 standing|0.7381 waves|0.72619 are|0.71429 formed|0.70238 by|0.69048 the|0.67857 interference|0.66667 superposition|0.65476 of|0.64286 waves|0.63095 and|0.61905 their|0.60714 reflections|0.59524 although|0.58333 one|0.57143 may|0.55952 also|0.54762 say|0.53571 the|0.52381 opposite|0.5119 that|0.5 a|0.4881 moving|0.47619 wave|0.46429 is|0.45238 a|0.44048 superposition|0.42857 of|0.41667 standing|0.40476 waves|0.39286 The|0.38095 geometric|0.36905 shape|0.35714 of|0.34524 the|0.33333 medium|0.32143 determines|0.30952 what|0.29762 would|0.28571 be|0.27381 the|0.2619 interference|0.25 pattern|0.2381 thus|0.22619 determines|0.21429 the|0.20238 x|0.19048 y|0.17857 z|0.16667 form|0.15476 of|0.14286 the|0.13095 standing|0.11905 wave|0.10714 This|0.095238 space|0.083333 dependence|0.071429 is|0.059524 called|0.047619 a|0.035714 normal|0.02381 mode|0.011905 |0",
+			"previous_weights": " The|0 general|0.11111 form|0.22222 of|0.33333 a|0.44444 standing|0.55556 wave|0.66667 is|0.77778 |0.88889 |1"
+		}
+	}
+}

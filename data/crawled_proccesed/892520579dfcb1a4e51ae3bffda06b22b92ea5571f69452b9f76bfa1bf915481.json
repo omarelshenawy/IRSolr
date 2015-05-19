@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "892520579dfcb1a4e51ae3bffda06b22b92ea5571f69452b9f76bfa1bf915481",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ESC-JESC-EDC_XXXX_Map.svg/500px-ESC-JESC-EDC_XXXX_Map.svg.png",
+			"previous": " Place your cursor over a country on the map image below and click on it to access that country s Junior Eurovision article Or alternatively see the flag icons below the map for a full list of participating countries ",
+			"after": " ",
+			"color": "light|0.33462 gray|0.33462 light|0.33462 grey|0.33462 silver|0.32622 dark|0.29033 gray|0.29033 dark|0.29033 grey|0.29033 gainsboro|0.039396 white|0.0044012 smoke|0.0044012  ",
+			"after_weights": " ",
+			"previous_weights": " Place|0 your|0.025641 cursor|0.051282 over|0.076923 a|0.10256 country|0.12821 on|0.15385 the|0.17949 map|0.20513 image|0.23077 below|0.25641 and|0.28205 click|0.30769 on|0.33333 it|0.35897 to|0.38462 access|0.41026 that|0.4359 country|0.46154 s|0.48718 Junior|0.51282 Eurovision|0.53846 article|0.5641 Or|0.58974 alternatively|0.61538 see|0.64103 the|0.66667 flag|0.69231 icons|0.71795 below|0.74359 the|0.76923 map|0.79487 for|0.82051 a|0.84615 full|0.87179 list|0.89744 of|0.92308 participating|0.94872 countries|0.97436 |1"
+		}
+	}
+}

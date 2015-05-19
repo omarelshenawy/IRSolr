@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "378688ae7ab1118718e0591dd56dc0a0944998f2f1c207248e983c46e3154427",
+			"url": "https://upload.wikimedia.org/math/0/1/d/01d09c649abc4ff78a7d12f40ecca58e.png",
+			"previous": " Let be a set of basis vectors that span an n dimensional vector space From geometric algebra we interpret the pseudoscalar to be the signed volume of the n parallelotope subtended by these basis vectors If the basis vectors are orthonormal then this is the unit pseudoscalar ",
+			"after": " Even more generally we may consider a new set of vectors proportional to the k basis vectors where each of the is a component that scales one of the basis vectors We are free to choose components as infinitesimally small as we wish as long as they remain nonzero Since the outer product of these terms can be interpreted as a k volume a natural way to define a measure is",
+			"color": "dim|0.4116 gray|0.4116 dim|0.4116 grey|0.4116 gray|0.28609 grey|0.28609 dark|0.1641 gray|0.1641 dark|0.1641 grey|0.1641 silver|0.056369 black|0.02934 light|0.025073 gray|0.025073 light|0.025073 grey|0.025073 gainsboro|0.016276  ",
+			"after_weights": " Even|1 more|0.98571 generally|0.97143 we|0.95714 may|0.94286 consider|0.92857 a|0.91429 new|0.9 set|0.88571 of|0.87143 vectors|0.85714 proportional|0.84286 to|0.82857 the|0.81429 k|0.8 basis|0.78571 vectors|0.77143 where|0.75714 each|0.74286 of|0.72857 the|0.71429 is|0.7 a|0.68571 component|0.67143 that|0.65714 scales|0.64286 one|0.62857 of|0.61429 the|0.6 basis|0.58571 vectors|0.57143 We|0.55714 are|0.54286 free|0.52857 to|0.51429 choose|0.5 components|0.48571 as|0.47143 infinitesimally|0.45714 small|0.44286 as|0.42857 we|0.41429 wish|0.4 as|0.38571 long|0.37143 as|0.35714 they|0.34286 remain|0.32857 nonzero|0.31429 Since|0.3 the|0.28571 outer|0.27143 product|0.25714 of|0.24286 these|0.22857 terms|0.21429 can|0.2 be|0.18571 interpreted|0.17143 as|0.15714 a|0.14286 k|0.12857 volume|0.11429 a|0.1 natural|0.085714 way|0.071429 to|0.057143 define|0.042857 a|0.028571 measure|0.014286 is|0",
+			"previous_weights": " Let|0 be|0.021277 a|0.042553 set|0.06383 of|0.085106 basis|0.10638 vectors|0.12766 that|0.14894 span|0.17021 an|0.19149 n|0.21277 dimensional|0.23404 vector|0.25532 space|0.2766 From|0.29787 geometric|0.31915 algebra|0.34043 we|0.3617 interpret|0.38298 the|0.40426 pseudoscalar|0.42553 to|0.44681 be|0.46809 the|0.48936 signed|0.51064 volume|0.53191 of|0.55319 the|0.57447 n|0.59574 parallelotope|0.61702 subtended|0.6383 by|0.65957 these|0.68085 basis|0.70213 vectors|0.7234 If|0.74468 the|0.76596 basis|0.78723 vectors|0.80851 are|0.82979 orthonormal|0.85106 then|0.87234 this|0.89362 is|0.91489 the|0.93617 unit|0.95745 pseudoscalar|0.97872 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49f4884d40a6203f461de5c83dc6e6bcddff6346ee317916cc6d2a0bf870d37c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Island_near_Fiji.jpg/240px-Island_near_Fiji.jpg",
+			"previous": " ",
+			"after": " An island a l nd or isle a l is any piece of sub continental land that is surrounded by water Very small islands such as emergent land features on atolls can be called islets skerries cays or keys An island in a river or an island in a lake may be called an eyot a t also ait e t or holm A grouping of geographically or geologically related islands is called an archipelago There are two main types of islands continental islands and oceanic islands There are also artificial islands ",
+			"color": "steel|0.53595 blue|0.53595 light|0.075517 slate|0.075517 gray|0.075517 black|0.067292 slate|0.057305 gray|0.057305 dark|0.048906 slate|0.048906 gray|0.048906  ",
+			"after_weights": " An|1 island|0.98913 a|0.97826 l|0.96739 nd|0.95652 or|0.94565 isle|0.93478 a|0.92391 l|0.91304 is|0.90217 any|0.8913 piece|0.88043 of|0.86957 sub|0.8587 continental|0.84783 land|0.83696 that|0.82609 is|0.81522 surrounded|0.80435 by|0.79348 water|0.78261 Very|0.77174 small|0.76087 islands|0.75 such|0.73913 as|0.72826 emergent|0.71739 land|0.70652 features|0.69565 on|0.68478 atolls|0.67391 can|0.66304 be|0.65217 called|0.6413 islets|0.63043 skerries|0.61957 cays|0.6087 or|0.59783 keys|0.58696 An|0.57609 island|0.56522 in|0.55435 a|0.54348 river|0.53261 or|0.52174 an|0.51087 island|0.5 in|0.48913 a|0.47826 lake|0.46739 may|0.45652 be|0.44565 called|0.43478 an|0.42391 eyot|0.41304 a|0.40217 t|0.3913 also|0.38043 ait|0.36957 e|0.3587 t|0.34783 or|0.33696 holm|0.32609 A|0.31522 grouping|0.30435 of|0.29348 geographically|0.28261 or|0.27174 geologically|0.26087 related|0.25 islands|0.23913 is|0.22826 called|0.21739 an|0.20652 archipelago|0.19565 There|0.18478 are|0.17391 two|0.16304 main|0.15217 types|0.1413 of|0.13043 islands|0.11957 continental|0.1087 islands|0.097826 and|0.086957 oceanic|0.076087 islands|0.065217 There|0.054348 are|0.043478 also|0.032609 artificial|0.021739 islands|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

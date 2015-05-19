@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3be2798fbf3ba2bfbcd38af9ceeef48f4c9880c4880fbe5ea8f3d34ac0ea4f31",
+			"url": "https://upload.wikimedia.org/math/2/f/3/2f344ec023eb5a2db651e076393a8382.png",
+			"previous": " When the latitude difference is 1 degree corresponding to 180 radians the arc distance is about",
+			"after": " The distance in metres correct to 0 01 metre between latitudes deg and deg on the WGS84 spheroid is",
+			"color": "dim|0.34037 gray|0.34037 dim|0.34037 grey|0.34037 gray|0.28811 grey|0.28811 dark|0.19323 gray|0.19323 dark|0.19323 grey|0.19323 silver|0.087006 light|0.042986 gray|0.042986 light|0.042986 grey|0.042986 gainsboro|0.029479 white|0.0045477 smoke|0.0045477  ",
+			"after_weights": " The|1 distance|0.94444 in|0.88889 metres|0.83333 correct|0.77778 to|0.72222 0|0.66667 01|0.61111 metre|0.55556 between|0.5 latitudes|0.44444 deg|0.38889 and|0.33333 deg|0.27778 on|0.22222 the|0.16667 WGS84|0.11111 spheroid|0.055556 is|0",
+			"previous_weights": " When|0 the|0.066667 latitude|0.13333 difference|0.2 is|0.26667 1|0.33333 degree|0.4 corresponding|0.46667 to|0.53333 180|0.6 radians|0.66667 the|0.73333 arc|0.8 distance|0.86667 is|0.93333 about|1"
+		}
+	}
+}

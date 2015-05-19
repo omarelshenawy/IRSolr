@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "43705aae05f2c6f27fde760866e4b61782760a23815b0fd98ae717f5a4801021",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Link-trainer-ts.jpg/220px-Link-trainer-ts.jpg",
+			"previous": " ",
+			"after": " The best known early flight simulation device was the Link Trainer produced by Edwin Link in Binghamton New York USA which he started building in 1927 He later patented his design which was first available for sale in 1929 The Link Trainer was a basic metal frame flight simulator usually painted in its well known blue color Some of these early war era flight simulators still exist but it is becoming increasingly difficult to find working examples 3 ",
+			"color": "black|0.38905 slate|0.18106 gray|0.18106 dim|0.15116 gray|0.15116 dim|0.15116 grey|0.15116 light|0.1081 slate|0.1081 gray|0.1081 gray|0.052874 grey|0.052874 dark|0.02055 slate|0.02055 gray|0.02055 dark|0.017941 gray|0.017941 dark|0.017941 grey|0.017941 tan|0.011694 rosy|0.0085157 brown|0.0085157 sandy|0.0083574 brown|0.0083574  ",
+			"after_weights": " The|1 best|0.98718 known|0.97436 early|0.96154 flight|0.94872 simulation|0.9359 device|0.92308 was|0.91026 the|0.89744 Link|0.88462 Trainer|0.87179 produced|0.85897 by|0.84615 Edwin|0.83333 Link|0.82051 in|0.80769 Binghamton|0.79487 New|0.78205 York|0.76923 USA|0.75641 which|0.74359 he|0.73077 started|0.71795 building|0.70513 in|0.69231 1927|0.67949 He|0.66667 later|0.65385 patented|0.64103 his|0.62821 design|0.61538 which|0.60256 was|0.58974 first|0.57692 available|0.5641 for|0.55128 sale|0.53846 in|0.52564 1929|0.51282 The|0.5 Link|0.48718 Trainer|0.47436 was|0.46154 a|0.44872 basic|0.4359 metal|0.42308 frame|0.41026 flight|0.39744 simulator|0.38462 usually|0.37179 painted|0.35897 in|0.34615 its|0.33333 well|0.32051 known|0.30769 blue|0.29487 color|0.28205 Some|0.26923 of|0.25641 these|0.24359 early|0.23077 war|0.21795 era|0.20513 flight|0.19231 simulators|0.17949 still|0.16667 exist|0.15385 but|0.14103 it|0.12821 is|0.11538 becoming|0.10256 increasingly|0.089744 difficult|0.076923 to|0.064103 find|0.051282 working|0.038462 examples|0.025641 3|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

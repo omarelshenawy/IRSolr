@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4cb2e6435cc0239bbee05da24346148c07892daab3d83c8775f9f81d1b3fb7e8",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BIllboardWebsiteDecember2013.png/250px-BIllboardWebsiteDecember2013.png",
+			"previous": " ",
+			"after": " Billboard then titled The Billboard published its first music hit parade on January 4 1936 its first record chart was calculated on July 20 1940 The Billboard Hot 100 which documents individual singles was introduced on August 4 1958 the Billboard 200 which ranks full music albums was premiered on August 17 1963 Today the service provides over 100 charts which are updated on a weekly basis ",
+			"color": "firebrick|0.2183 dim|0.21291 gray|0.21291 dim|0.21291 grey|0.21291 black|0.20021 brown|0.092511 gray|0.082393 grey|0.082393 dark|0.031817 gray|0.031817 dark|0.031817 grey|0.031817 light|0.019639 steel|0.019639 blue|0.019639 indian|0.017968 red|0.017968 sienna|0.014655 dark|0.012596 slate|0.012596 gray|0.012596 peru|0.01167 rosy|0.010148 brown|0.010148 silver|0.0084667 light|0.0073424 coral|0.0073424 lavender|0.007187  ",
+			"after_weights": " Billboard|1 then|0.98507 titled|0.97015 The|0.95522 Billboard|0.9403 published|0.92537 its|0.91045 first|0.89552 music|0.8806 hit|0.86567 parade|0.85075 on|0.83582 January|0.8209 4|0.80597 1936|0.79104 its|0.77612 first|0.76119 record|0.74627 chart|0.73134 was|0.71642 calculated|0.70149 on|0.68657 July|0.67164 20|0.65672 1940|0.64179 The|0.62687 Billboard|0.61194 Hot|0.59701 100|0.58209 which|0.56716 documents|0.55224 individual|0.53731 singles|0.52239 was|0.50746 introduced|0.49254 on|0.47761 August|0.46269 4|0.44776 1958|0.43284 the|0.41791 Billboard|0.40299 200|0.38806 which|0.37313 ranks|0.35821 full|0.34328 music|0.32836 albums|0.31343 was|0.29851 premiered|0.28358 on|0.26866 August|0.25373 17|0.23881 1963|0.22388 Today|0.20896 the|0.19403 service|0.1791 provides|0.16418 over|0.14925 100|0.13433 charts|0.1194 which|0.10448 are|0.089552 updated|0.074627 on|0.059701 a|0.044776 weekly|0.029851 basis|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

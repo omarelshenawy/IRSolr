@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49311294f0102117e98fae8e1d8a4dc93aa3fdf580f2ed2bd84a0381706b3112",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TSP_Deutschland_3.png/200px-TSP_Deutschland_3.png",
+			"previous": " Combinatorial optimization problems can be viewed as searching for the best element of some set of discrete items therefore in principle any sort of search algorithm or metaheuristic can be used to solve them However generic search algorithms are not guaranteed to find an optimal solution nor are they guaranteed to run quickly in polynomial time Since some discrete optimization problems are NP complete such as the traveling salesman problem this is expected unless P NP ",
+			"after": " ",
+			"color": "antique|0.090178 white|0.090178 linen|0.081858 old|0.078236 lace|0.078236 papaya|0.077541 whip|0.077541 sea|0.075141 shell|0.075141 beige|0.074915 blanched|0.074004 almond|0.074004 floral|0.07396 white|0.07396 corn|0.072662 silk|0.072662 ivory|0.071495 dark|0.063049 gray|0.063049 dark|0.063049 grey|0.063049 silver|0.0377 gray|0.030676 grey|0.030676 light|0.021311 gray|0.021311 light|0.021311 grey|0.021311 light|0.015035 blue|0.015035 powder|0.01469 blue|0.01469 sky|0.013288 blue|0.013288 gainsboro|0.012837 dim|0.0066438 gray|0.0066438 dim|0.0066438 grey|0.0066438 white|0.002885 smoke|0.002885  ",
+			"after_weights": " ",
+			"previous_weights": " Combinatorial|0 optimization|0.013158 problems|0.026316 can|0.039474 be|0.052632 viewed|0.065789 as|0.078947 searching|0.092105 for|0.10526 the|0.11842 best|0.13158 element|0.14474 of|0.15789 some|0.17105 set|0.18421 of|0.19737 discrete|0.21053 items|0.22368 therefore|0.23684 in|0.25 principle|0.26316 any|0.27632 sort|0.28947 of|0.30263 search|0.31579 algorithm|0.32895 or|0.34211 metaheuristic|0.35526 can|0.36842 be|0.38158 used|0.39474 to|0.40789 solve|0.42105 them|0.43421 However|0.44737 generic|0.46053 search|0.47368 algorithms|0.48684 are|0.5 not|0.51316 guaranteed|0.52632 to|0.53947 find|0.55263 an|0.56579 optimal|0.57895 solution|0.59211 nor|0.60526 are|0.61842 they|0.63158 guaranteed|0.64474 to|0.65789 run|0.67105 quickly|0.68421 in|0.69737 polynomial|0.71053 time|0.72368 Since|0.73684 some|0.75 discrete|0.76316 optimization|0.77632 problems|0.78947 are|0.80263 NP|0.81579 complete|0.82895 such|0.84211 as|0.85526 the|0.86842 traveling|0.88158 salesman|0.89474 problem|0.90789 this|0.92105 is|0.93421 expected|0.94737 unless|0.96053 P|0.97368 NP|0.98684 |1"
+		}
+	}
+}

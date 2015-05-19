@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "66c1b4a7de46257f6ed1736603b4ba16b6ff406322cd18ffd380a95d2efd89ef",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Radar_composantes.svg/220px-Radar_composantes.svg.png",
+			"previous": " The non relevant real time returns can be removed from the displayed information and a single plot displayed In some radar systems or alternatively in the command and control system to which the radar is connected a radar tracker is used to associate the sequence of plots belonging to individual targets and estimate the targets headings and speeds ",
+			"after": " A radar s components are ",
+			"color": "white|0.090718 smoke|0.090718 sea|0.088848 shell|0.088848 snow|0.08884 ghost|0.088486 white|0.088486 white|0.088377 alice|0.088266 blue|0.088266 mint|0.08767 cream|0.08767 floral|0.086859 white|0.086859 azure|0.0858 lavender|0.084521 blush|0.084521 light|0.017313 gray|0.017313 light|0.017313 grey|0.017313 silver|0.017033 dark|0.015717 gray|0.015717 dark|0.015717 grey|0.015717 gainsboro|0.014377 gray|0.0098084 grey|0.0098084 dim|0.0062729 gray|0.0062729 dim|0.0062729 grey|0.0062729 black|0.0060854 wheat|0.0060605 linen|0.0045079 ivory|0.0043251 antique|0.0042488 white|0.0042488 blanched|0.0037999 almond|0.0037999 papaya|0.0026894 whip|0.0026894  ",
+			"after_weights": " A|1 radar|0.8 s|0.6 components|0.4 are|0.2 |0",
+			"previous_weights": " The|0 non|0.017241 relevant|0.034483 real|0.051724 time|0.068966 returns|0.086207 can|0.10345 be|0.12069 removed|0.13793 from|0.15517 the|0.17241 displayed|0.18966 information|0.2069 and|0.22414 a|0.24138 single|0.25862 plot|0.27586 displayed|0.2931 In|0.31034 some|0.32759 radar|0.34483 systems|0.36207 or|0.37931 alternatively|0.39655 in|0.41379 the|0.43103 command|0.44828 and|0.46552 control|0.48276 system|0.5 to|0.51724 which|0.53448 the|0.55172 radar|0.56897 is|0.58621 connected|0.60345 a|0.62069 radar|0.63793 tracker|0.65517 is|0.67241 used|0.68966 to|0.7069 associate|0.72414 the|0.74138 sequence|0.75862 of|0.77586 plots|0.7931 belonging|0.81034 to|0.82759 individual|0.84483 targets|0.86207 and|0.87931 estimate|0.89655 the|0.91379 targets|0.93103 headings|0.94828 and|0.96552 speeds|0.98276 |1"
+		}
+	}
+}

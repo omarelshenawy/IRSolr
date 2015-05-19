@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7557f26eb2c2275d31a5b5747b5924072e700cf4567c73ead52f8bbcd402c3c8",
+			"url": "https://upload.wikimedia.org/math/a/2/8/a285eaf7b54e3e827bf2deb9c12a6920.png",
+			"previous": " The expression for is the same with and exchanged Thus using we get Setting and the elementary symmetric polynomials we have using that ",
+			"after": " and a straightforward computation gives Similarly we have",
+			"color": "dim|0.29784 gray|0.29784 dim|0.29784 grey|0.29784 gray|0.28431 grey|0.28431 dark|0.21235 gray|0.21235 dark|0.21235 grey|0.21235 silver|0.099332 light|0.051231 gray|0.051231 light|0.051231 grey|0.051231 gainsboro|0.036466 white|0.0052494 smoke|0.0052494 linen|0.0026853  ",
+			"after_weights": " and|1 a|0.85714 straightforward|0.71429 computation|0.57143 gives|0.42857 Similarly|0.28571 we|0.14286 have|0",
+			"previous_weights": " The|0 expression|0.043478 for|0.086957 is|0.13043 the|0.17391 same|0.21739 with|0.26087 and|0.30435 exchanged|0.34783 Thus|0.3913 using|0.43478 we|0.47826 get|0.52174 Setting|0.56522 and|0.6087 the|0.65217 elementary|0.69565 symmetric|0.73913 polynomials|0.78261 we|0.82609 have|0.86957 using|0.91304 that|0.95652 |1"
+		}
+	}
+}

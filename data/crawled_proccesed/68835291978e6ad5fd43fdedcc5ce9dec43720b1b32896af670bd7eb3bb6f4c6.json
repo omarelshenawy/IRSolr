@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68835291978e6ad5fd43fdedcc5ce9dec43720b1b32896af670bd7eb3bb6f4c6",
+			"url": "https://upload.wikimedia.org/math/7/9/0/79074a36beee68f6ffca2cc4395e52f6.png",
+			"previous": " An ellipse in general position can be expressed as",
+			"after": " as the parameter t varies from 0 to 2 Here is the center of the ellipse and is the angle between the axis and the major axis of the ellipse  Both parameterizations may be made rational by using tangent half angle formula and setting",
+			"color": "dim|0.34582 gray|0.34582 dim|0.34582 grey|0.34582 black|0.23801 gray|0.20701 grey|0.20701 dark|0.11742 gray|0.11742 dark|0.11742 grey|0.11742 silver|0.046764 light|0.020909 gray|0.020909 light|0.020909 grey|0.020909 gainsboro|0.014355  ",
+			"after_weights": " as|1 the|0.97727 parameter|0.95455 t|0.93182 varies|0.90909 from|0.88636 0|0.86364 to|0.84091 2|0.81818 Here|0.79545 is|0.77273 the|0.75 center|0.72727 of|0.70455 the|0.68182 ellipse|0.65909 and|0.63636 is|0.61364 the|0.59091 angle|0.56818 between|0.54545 the|0.52273 axis|0.5 and|0.47727 the|0.45455 major|0.43182 axis|0.40909 of|0.38636 the|0.36364 ellipse|0.34091 |0.31818 Both|0.29545 parameterizations|0.27273 may|0.25 be|0.22727 made|0.20455 rational|0.18182 by|0.15909 using|0.13636 tangent|0.11364 half|0.090909 angle|0.068182 formula|0.045455 and|0.022727 setting|0",
+			"previous_weights": " An|0 ellipse|0.125 in|0.25 general|0.375 position|0.5 can|0.625 be|0.75 expressed|0.875 as|1"
+		}
+	}
+}

@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Padlock-purple.svg/75px-Padlock-purple.svg.png",
 			"previous": " ",
 			"after": " Upload protected files cannot be replaced with new versions except by an administrator Upload protection does not protect file pages from editing Upload protection may be applied by an administrator to ",
+			"color": "dark|0.2658 violet|0.2658 dark|0.20915 orchid|0.20915 blue|0.15195 violet|0.15195 medium|0.063528 orchid|0.063528 light|0.026546 gray|0.026546 light|0.026546 grey|0.026546 plum|0.025252 silver|0.025079 dark|0.0246 gray|0.0246 dark|0.0246 grey|0.0246 gainsboro|0.024248 white|0.018507 smoke|0.018507 lavender|0.018112 thistle|0.016539 lavender|0.015866 blush|0.015866 ghost|0.015655 white|0.015655 alice|0.014595 blue|0.014595 snow|0.013897 white|0.012305 sea|0.011578 shell|0.011578 mint|0.0088639 cream|0.0088639 linen|0.0085157 gray|0.0080709 grey|0.0080709 floral|0.0075753 white|0.0075753 azure|0.0065865 dim|0.0058392 gray|0.0058392 dim|0.0058392 grey|0.0058392  ",
 			"after_weights": " Upload|1 protected|0.96774 files|0.93548 cannot|0.90323 be|0.87097 replaced|0.83871 with|0.80645 new|0.77419 versions|0.74194 except|0.70968 by|0.67742 an|0.64516 administrator|0.6129 Upload|0.58065 protection|0.54839 does|0.51613 not|0.48387 protect|0.45161 file|0.41935 pages|0.3871 from|0.35484 editing|0.32258 Upload|0.29032 protection|0.25806 may|0.22581 be|0.19355 applied|0.16129 by|0.12903 an|0.096774 administrator|0.064516 to|0.032258 |0",
 			"previous_weights": " "
 		}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72e54205bc1f3788f6aa9e4b6c84c7c3015d666583dde1afa84155658e5bc5d1",
+			"url": "https://upload.wikimedia.org/math/3/a/c/3acb624168080635f311a62899b6e869.png",
+			"previous": " If  Then  where is a Sturm Liouville operator subject to the boundary conditions ",
+			"after": " where Spherical waves are waves whose amplitude depends only upon the radial distance r from a central point source For such waves the three dimensional wave equation takes the form",
+			"color": "gray|0.31973 grey|0.31973 dark|0.25173 gray|0.25173 dark|0.25173 grey|0.25173 dim|0.20756 gray|0.20756 dim|0.20756 grey|0.20756 silver|0.10727 light|0.05342 gray|0.05342 light|0.05342 grey|0.05342 gainsboro|0.037004 white|0.0064661 smoke|0.0064661 linen|0.00324 lavender|0.0026031 blush|0.0026031  ",
+			"after_weights": " where|1 Spherical|0.96552 waves|0.93103 are|0.89655 waves|0.86207 whose|0.82759 amplitude|0.7931 depends|0.75862 only|0.72414 upon|0.68966 the|0.65517 radial|0.62069 distance|0.58621 r|0.55172 from|0.51724 a|0.48276 central|0.44828 point|0.41379 source|0.37931 For|0.34483 such|0.31034 waves|0.27586 the|0.24138 three|0.2069 dimensional|0.17241 wave|0.13793 equation|0.10345 takes|0.068966 the|0.034483 form|0",
+			"previous_weights": " If|0 |0.066667 Then|0.13333 |0.2 where|0.26667 is|0.33333 a|0.4 Sturm|0.46667 Liouville|0.53333 operator|0.6 subject|0.66667 to|0.73333 the|0.8 boundary|0.86667 conditions|0.93333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2247444306691039dfc29474e4de97e1abcb8f65fbda4b736006a77a7cbd4724",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Henson_Airlines_Shorts_330_at_Baltimore_-_11_September_1983.jpg/220px-Henson_Airlines_Shorts_330_at_Baltimore_-_11_September_1983.jpg",
+			"previous": " Piedmont Airlines flights are expected to be rebranded as American Eagle in 2015 due to US Airways merger with American Airlines in December 2013 ",
+			"after": " As of April 2015 the Piedmont Airlines fleet consists of the following aircraft 6 7  In April 2015 Piedmont Airlines average fleet age was 24 8 years old 10 ",
+			"color": "light|0.14071 slate|0.14071 gray|0.14071 light|0.11975 steel|0.11975 blue|0.11975 slate|0.09406 gray|0.09406 black|0.052978 alice|0.0382 blue|0.0382 white|0.036813 smoke|0.036813 ghost|0.033888 white|0.033888 dark|0.033311 gray|0.033311 dark|0.033311 grey|0.033311 snow|0.031767 white|0.031068 azure|0.030924 silver|0.030913 mint|0.029853 cream|0.029853 light|0.029573 gray|0.029573 light|0.029573 grey|0.029573 gainsboro|0.026936 sea|0.025881 shell|0.025881 floral|0.024649 white|0.024649 light|0.024088 blue|0.024088 lavender|0.021681 lavender|0.020504 blush|0.020504 teal|0.017403 cadet|0.015057 blue|0.015057 gray|0.014388 grey|0.014388 dim|0.013285 gray|0.013285 dim|0.013285 grey|0.013285 light|0.01201 cyan|0.01201 linen|0.0091496 dark|0.0078084 slate|0.0078084 gray|0.0078084 ivory|0.0077369 powder|0.0074203 blue|0.0074203  ",
+			"after_weights": " As|1 of|0.96667 April|0.93333 2015|0.9 the|0.86667 Piedmont|0.83333 Airlines|0.8 fleet|0.76667 consists|0.73333 of|0.7 the|0.66667 following|0.63333 aircraft|0.6 6|0.56667 7|0.53333 |0.5 In|0.46667 April|0.43333 2015|0.4 Piedmont|0.36667 Airlines|0.33333 average|0.3 fleet|0.26667 age|0.23333 was|0.2 24|0.16667 8|0.13333 years|0.1 old|0.066667 10|0.033333 |0",
+			"previous_weights": " Piedmont|0 Airlines|0.041667 flights|0.083333 are|0.125 expected|0.16667 to|0.20833 be|0.25 rebranded|0.29167 as|0.33333 American|0.375 Eagle|0.41667 in|0.45833 2015|0.5 due|0.54167 to|0.58333 US|0.625 Airways|0.66667 merger|0.70833 with|0.75 American|0.79167 Airlines|0.83333 in|0.875 December|0.91667 2013|0.95833 |1"
+		}
+	}
+}

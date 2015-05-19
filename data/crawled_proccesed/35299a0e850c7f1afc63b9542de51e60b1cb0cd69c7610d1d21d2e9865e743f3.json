@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35299a0e850c7f1afc63b9542de51e60b1cb0cd69c7610d1d21d2e9865e743f3",
+			"url": "https://upload.wikimedia.org/math/9/8/6/986fafcd0a0eb320420977a89fc3eb7b.png",
+			"previous": " The power needed to generate thrust and the force of the thrust can be related in a non linear way In general The proportionality constant varies and can be solved for a uniform flow ",
+			"after": " Note that these calculations are only valid for when the incoming air is accelerated from a standstill for example when hovering  The inverse of the proportionality constant the efficiency of an otherwise perfect thruster is proportional to the area of the cross section of the propelled volume of fluid and the density of the fluid This helps to explain why moving through water is easier and why aircraft have much larger propellers than watercraft do ",
+			"color": "dim|0.4001 gray|0.4001 dim|0.4001 grey|0.4001 gray|0.26576 grey|0.26576 dark|0.17636 gray|0.17636 dark|0.17636 grey|0.17636 silver|0.071217 light|0.039768 gray|0.039768 light|0.039768 grey|0.039768 gainsboro|0.027957 white|0.0053193 smoke|0.0053193  ",
+			"after_weights": " Note|1 that|0.98684 these|0.97368 calculations|0.96053 are|0.94737 only|0.93421 valid|0.92105 for|0.90789 when|0.89474 the|0.88158 incoming|0.86842 air|0.85526 is|0.84211 accelerated|0.82895 from|0.81579 a|0.80263 standstill|0.78947 for|0.77632 example|0.76316 when|0.75 hovering|0.73684 |0.72368 The|0.71053 inverse|0.69737 of|0.68421 the|0.67105 proportionality|0.65789 constant|0.64474 the|0.63158 efficiency|0.61842 of|0.60526 an|0.59211 otherwise|0.57895 perfect|0.56579 thruster|0.55263 is|0.53947 proportional|0.52632 to|0.51316 the|0.5 area|0.48684 of|0.47368 the|0.46053 cross|0.44737 section|0.43421 of|0.42105 the|0.40789 propelled|0.39474 volume|0.38158 of|0.36842 fluid|0.35526 and|0.34211 the|0.32895 density|0.31579 of|0.30263 the|0.28947 fluid|0.27632 This|0.26316 helps|0.25 to|0.23684 explain|0.22368 why|0.21053 moving|0.19737 through|0.18421 water|0.17105 is|0.15789 easier|0.14474 and|0.13158 why|0.11842 aircraft|0.10526 have|0.092105 much|0.078947 larger|0.065789 propellers|0.052632 than|0.039474 watercraft|0.026316 do|0.013158 |0",
+			"previous_weights": " The|0 power|0.029412 needed|0.058824 to|0.088235 generate|0.11765 thrust|0.14706 and|0.17647 the|0.20588 force|0.23529 of|0.26471 the|0.29412 thrust|0.32353 can|0.35294 be|0.38235 related|0.41176 in|0.44118 a|0.47059 non|0.5 linear|0.52941 way|0.55882 In|0.58824 general|0.61765 The|0.64706 proportionality|0.67647 constant|0.70588 varies|0.73529 and|0.76471 can|0.79412 be|0.82353 solved|0.85294 for|0.88235 a|0.91176 uniform|0.94118 flow|0.97059 |1"
+		}
+	}
+}

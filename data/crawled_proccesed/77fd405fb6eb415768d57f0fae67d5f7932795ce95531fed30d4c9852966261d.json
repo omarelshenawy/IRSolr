@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77fd405fb6eb415768d57f0fae67d5f7932795ce95531fed30d4c9852966261d",
+			"url": "https://upload.wikimedia.org/math/2/5/5/25552fc10d732baed1ba8969c919aa09.png",
+			"previous": " When b is zero and A 0 the origin is an equilibrium or singular point of the flow that is if x0 0 then the orbit remains there For other initial conditions the equation of motion is given by the exponential of a matrix for an initial point x0 ",
+			"after": " When b 0 the eigenvalues of A determine the structure of the phase space From the eigenvalues and the eigenvectors of A it is possible to determine if an initial point will converge or diverge to the equilibrium point at the origin ",
+			"color": "dim|0.36384 gray|0.36384 dim|0.36384 grey|0.36384 gray|0.29456 grey|0.29456 dark|0.18777 gray|0.18777 dark|0.18777 grey|0.18777 silver|0.077691 light|0.03695 gray|0.03695 light|0.03695 grey|0.03695 gainsboro|0.025188 white|0.0039923 smoke|0.0039923  ",
+			"after_weights": " When|1 b|0.97619 0|0.95238 the|0.92857 eigenvalues|0.90476 of|0.88095 A|0.85714 determine|0.83333 the|0.80952 structure|0.78571 of|0.7619 the|0.7381 phase|0.71429 space|0.69048 From|0.66667 the|0.64286 eigenvalues|0.61905 and|0.59524 the|0.57143 eigenvectors|0.54762 of|0.52381 A|0.5 it|0.47619 is|0.45238 possible|0.42857 to|0.40476 determine|0.38095 if|0.35714 an|0.33333 initial|0.30952 point|0.28571 will|0.2619 converge|0.2381 or|0.21429 diverge|0.19048 to|0.16667 the|0.14286 equilibrium|0.11905 point|0.095238 at|0.071429 the|0.047619 origin|0.02381 |0",
+			"previous_weights": " When|0 b|0.020408 is|0.040816 zero|0.061224 and|0.081633 A|0.10204 0|0.12245 the|0.14286 origin|0.16327 is|0.18367 an|0.20408 equilibrium|0.22449 or|0.2449 singular|0.26531 point|0.28571 of|0.30612 the|0.32653 flow|0.34694 that|0.36735 is|0.38776 if|0.40816 x0|0.42857 0|0.44898 then|0.46939 the|0.4898 orbit|0.5102 remains|0.53061 there|0.55102 For|0.57143 other|0.59184 initial|0.61224 conditions|0.63265 the|0.65306 equation|0.67347 of|0.69388 motion|0.71429 is|0.73469 given|0.7551 by|0.77551 the|0.79592 exponential|0.81633 of|0.83673 a|0.85714 matrix|0.87755 for|0.89796 an|0.91837 initial|0.93878 point|0.95918 x0|0.97959 |1"
+		}
+	}
+}

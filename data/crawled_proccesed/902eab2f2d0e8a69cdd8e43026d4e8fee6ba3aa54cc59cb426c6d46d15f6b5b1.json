@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "902eab2f2d0e8a69cdd8e43026d4e8fee6ba3aa54cc59cb426c6d46d15f6b5b1",
+			"url": "https://upload.wikimedia.org/math/3/0/f/30f958353d44bed0d2e7f3bd2c872797.png",
+			"previous": " If B exists it is unique and is called the inverse matrix of A denoted A 1 ",
+			"after": " A symmetric n n matrix is called positive definite respectively negative definite indefinite if for all nonzero vectors x Rn the associated quadratic form given by",
+			"color": "dark|0.25884 gray|0.25884 dark|0.25884 grey|0.25884 gray|0.23848 grey|0.23848 dim|0.23324 gray|0.23324 dim|0.23324 grey|0.23324 silver|0.13108 light|0.059921 gray|0.059921 light|0.059921 grey|0.059921 gainsboro|0.043143 white|0.012843 smoke|0.012843 linen|0.0036466 lavender|0.0032358 blush|0.0032358 alice|0.0032185 blue|0.0032185 ghost|0.0032041 white|0.0032041 sea|0.0031547 shell|0.0031547 snow|0.0031115 white|0.0026983  ",
+			"after_weights": " A|1 symmetric|0.96 n|0.92 n|0.88 matrix|0.84 is|0.8 called|0.76 positive|0.72 definite|0.68 respectively|0.64 negative|0.6 definite|0.56 indefinite|0.52 if|0.48 for|0.44 all|0.4 nonzero|0.36 vectors|0.32 x|0.28 Rn|0.24 the|0.2 associated|0.16 quadratic|0.12 form|0.08 given|0.04 by|0",
+			"previous_weights": " If|0 B|0.058824 exists|0.11765 it|0.17647 is|0.23529 unique|0.29412 and|0.35294 is|0.41176 called|0.47059 the|0.52941 inverse|0.58824 matrix|0.64706 of|0.70588 A|0.76471 denoted|0.82353 A|0.88235 1|0.94118 |1"
+		}
+	}
+}

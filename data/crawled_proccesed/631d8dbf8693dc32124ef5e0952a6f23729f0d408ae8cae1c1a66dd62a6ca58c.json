@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "631d8dbf8693dc32124ef5e0952a6f23729f0d408ae8cae1c1a66dd62a6ca58c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Mig-29_operators.PNG/320px-All_Mig-29_operators.PNG",
+			"previous": " ",
+			"after": " There are several museums in Russia that display MiG 29s  In India 2 MiGs 29s are preserved 170  Several MiG 29s are on display in Europe  MiG 29s are currently on display in the United States at the following locations ",
+			"color": "blue|0.94099 medium|0.029682 slate|0.029682 blue|0.029682 medium|0.0046231 purple|0.0046231 silver|0.0042108 crimson|0.003828 light|0.0030892 gray|0.0030892 light|0.0030892 grey|0.0030892  ",
+			"after_weights": " There|1 are|0.97674 several|0.95349 museums|0.93023 in|0.90698 Russia|0.88372 that|0.86047 display|0.83721 MiG|0.81395 29s|0.7907 |0.76744 In|0.74419 India|0.72093 2|0.69767 MiGs|0.67442 29s|0.65116 are|0.62791 preserved|0.60465 170|0.5814 |0.55814 Several|0.53488 MiG|0.51163 29s|0.48837 are|0.46512 on|0.44186 display|0.4186 in|0.39535 Europe|0.37209 |0.34884 MiG|0.32558 29s|0.30233 are|0.27907 currently|0.25581 on|0.23256 display|0.2093 in|0.18605 the|0.16279 United|0.13953 States|0.11628 at|0.093023 the|0.069767 following|0.046512 locations|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

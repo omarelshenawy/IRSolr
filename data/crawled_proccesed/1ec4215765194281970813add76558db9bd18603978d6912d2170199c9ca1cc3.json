@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ec4215765194281970813add76558db9bd18603978d6912d2170199c9ca1cc3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Muskus.jpg/220px-Muskus.jpg",
+			"previous": " ",
+			"after": " Herbivores on the tundra include the Arctic hare lemming muskox and caribou They are preyed on by the snowy owl Arctic fox and wolf The polar bear is also a predator though it prefers to hunt for marine life from the ice There are also many birds and marine species endemic to the colder regions Other land animals include wolverines ermines and Arctic ground squirrels Marine mammals include seals walrus and several species of cetacean baleen whales and also narwhals killer whales and belugas An excellent and famous example of a ring species exists and has been described around the arctic circle in the form of the Larus gulls ",
+			"color": "black|0.35982 dim|0.15848 gray|0.15848 dim|0.15848 grey|0.15848 gray|0.14376 grey|0.14376 dark|0.12709 gray|0.12709 dark|0.12709 grey|0.12709 silver|0.06432 dark|0.029973 olive|0.029973 green|0.029973 light|0.026066 gray|0.026066 light|0.026066 grey|0.026066  ",
+			"after_weights": " Herbivores|1 on|0.99083 the|0.98165 tundra|0.97248 include|0.9633 the|0.95413 Arctic|0.94495 hare|0.93578 lemming|0.92661 muskox|0.91743 and|0.90826 caribou|0.89908 They|0.88991 are|0.88073 preyed|0.87156 on|0.86239 by|0.85321 the|0.84404 snowy|0.83486 owl|0.82569 Arctic|0.81651 fox|0.80734 and|0.79817 wolf|0.78899 The|0.77982 polar|0.77064 bear|0.76147 is|0.75229 also|0.74312 a|0.73394 predator|0.72477 though|0.7156 it|0.70642 prefers|0.69725 to|0.68807 hunt|0.6789 for|0.66972 marine|0.66055 life|0.65138 from|0.6422 the|0.63303 ice|0.62385 There|0.61468 are|0.6055 also|0.59633 many|0.58716 birds|0.57798 and|0.56881 marine|0.55963 species|0.55046 endemic|0.54128 to|0.53211 the|0.52294 colder|0.51376 regions|0.50459 Other|0.49541 land|0.48624 animals|0.47706 include|0.46789 wolverines|0.45872 ermines|0.44954 and|0.44037 Arctic|0.43119 ground|0.42202 squirrels|0.41284 Marine|0.40367 mammals|0.3945 include|0.38532 seals|0.37615 walrus|0.36697 and|0.3578 several|0.34862 species|0.33945 of|0.33028 cetacean|0.3211 baleen|0.31193 whales|0.30275 and|0.29358 also|0.2844 narwhals|0.27523 killer|0.26606 whales|0.25688 and|0.24771 belugas|0.23853 An|0.22936 excellent|0.22018 and|0.21101 famous|0.20183 example|0.19266 of|0.18349 a|0.17431 ring|0.16514 species|0.15596 exists|0.14679 and|0.13761 has|0.12844 been|0.11927 described|0.11009 around|0.10092 the|0.091743 arctic|0.082569 circle|0.073394 in|0.06422 the|0.055046 form|0.045872 of|0.036697 the|0.027523 Larus|0.018349 gulls|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

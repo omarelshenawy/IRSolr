@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "26a7055e7f68418f18d2ace35b8b1c188fa250c2c0c985131788dcec14d3a1fc",
+			"url": "https://upload.wikimedia.org/math/1/2/2/1226bfcc2c0f2dab32b20d454a43f954.png",
+			"previous": " Reliability is defined as the probability that a device will perform its intended function during a specified period of time under stated conditions Mathematically this may be expressed as ",
+			"after": " There are a few key elements of this definition ",
+			"color": "dim|0.3663 gray|0.3663 dim|0.3663 grey|0.3663 gray|0.29493 grey|0.29493 dark|0.18131 gray|0.18131 dark|0.18131 grey|0.18131 silver|0.075893 light|0.036611 gray|0.036611 light|0.036611 grey|0.036611 gainsboro|0.025722 white|0.0048417 smoke|0.0048417  ",
+			"after_weights": " There|1 are|0.88889 a|0.77778 few|0.66667 key|0.55556 elements|0.44444 of|0.33333 this|0.22222 definition|0.11111 |0",
+			"previous_weights": " Reliability|0 is|0.034483 defined|0.068966 as|0.10345 the|0.13793 probability|0.17241 that|0.2069 a|0.24138 device|0.27586 will|0.31034 perform|0.34483 its|0.37931 intended|0.41379 function|0.44828 during|0.48276 a|0.51724 specified|0.55172 period|0.58621 of|0.62069 time|0.65517 under|0.68966 stated|0.72414 conditions|0.75862 Mathematically|0.7931 this|0.82759 may|0.86207 be|0.89655 expressed|0.93103 as|0.96552 |1"
+		}
+	}
+}

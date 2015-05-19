@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "519d3651a8dbc8924df98a515c8a65ce1ba8b4a2b930212ab5ba329c280f2465",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MiG-29_FULCRUM_%28MIKOYAN-GUREVICH%29.png/400px-MiG-29_FULCRUM_%28MIKOYAN-GUREVICH%29.png",
+			"previous": " MiG 29s are currently on display in the United States at the following locations  Several MiG 29s are on display in Europe ",
+			"after": " Data from MiG specifications 184  General characteristics Performance Armament Avionics",
+			"color": "dark|0.11841 gray|0.11841 dark|0.11841 grey|0.11841 gray|0.10971 grey|0.10971 dim|0.071307 gray|0.071307 dim|0.071307 grey|0.071307 silver|0.0684 white|0.05802 smoke|0.05802 sea|0.053556 shell|0.053556 snow|0.053405 ghost|0.052453 white|0.052453 white|0.052408 mint|0.051534 cream|0.051534 floral|0.05095 white|0.05095 azure|0.04963 alice|0.048951 blue|0.048951 light|0.041408 gray|0.041408 light|0.041408 grey|0.041408 lavender|0.030802 blush|0.030802 gainsboro|0.030656 ivory|0.016971 linen|0.015932 black|0.015733 slate|0.0046407 gray|0.0046407  ",
+			"after_weights": " Data|1 from|0.9 MiG|0.8 specifications|0.7 184|0.6 |0.5 General|0.4 characteristics|0.3 Performance|0.2 Armament|0.1 Avionics|0",
+			"previous_weights": " MiG|0 29s|0.043478 are|0.086957 currently|0.13043 on|0.17391 display|0.21739 in|0.26087 the|0.30435 United|0.34783 States|0.3913 at|0.43478 the|0.47826 following|0.52174 locations|0.56522 |0.6087 Several|0.65217 MiG|0.69565 29s|0.73913 are|0.78261 on|0.82609 display|0.86957 in|0.91304 Europe|0.95652 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9191e232c26f28384e43342f85406fe2ff1252a303d0937a4b4d19e6041c76af",
+			"url": "https://upload.wikimedia.org/math/3/8/5/3855ebf75c82c42c8003ff7bcf0f80b2.png",
+			"previous": " If t x y z are parameterised by a parameter this can be written as where v t is the coordinate speed at coordinate time t and x t y t and z t are space coordinates It should be noted that the first expression is manifestly Lorentz invariant They are all Lorentz invariant as they must be since proper time and proper time intervals are coordinate independent by definition ",
+			"after": " If the motion is of the particle is constant the expression simplifies to",
+			"color": "black|0.34073 dim|0.26013 gray|0.26013 dim|0.26013 grey|0.26013 gray|0.2096 grey|0.2096 dark|0.13974 gray|0.13974 dark|0.13974 grey|0.13974 silver|0.040888 light|0.0079576 gray|0.0079576 light|0.0079576 grey|0.0079576  ",
+			"after_weights": " If|1 the|0.91667 motion|0.83333 is|0.75 of|0.66667 the|0.58333 particle|0.5 is|0.41667 constant|0.33333 the|0.25 expression|0.16667 simplifies|0.083333 to|0",
+			"previous_weights": " If|0 t|0.014286 x|0.028571 y|0.042857 z|0.057143 are|0.071429 parameterised|0.085714 by|0.1 a|0.11429 parameter|0.12857 this|0.14286 can|0.15714 be|0.17143 written|0.18571 as|0.2 where|0.21429 v|0.22857 t|0.24286 is|0.25714 the|0.27143 coordinate|0.28571 speed|0.3 at|0.31429 coordinate|0.32857 time|0.34286 t|0.35714 and|0.37143 x|0.38571 t|0.4 y|0.41429 t|0.42857 and|0.44286 z|0.45714 t|0.47143 are|0.48571 space|0.5 coordinates|0.51429 It|0.52857 should|0.54286 be|0.55714 noted|0.57143 that|0.58571 the|0.6 first|0.61429 expression|0.62857 is|0.64286 manifestly|0.65714 Lorentz|0.67143 invariant|0.68571 They|0.7 are|0.71429 all|0.72857 Lorentz|0.74286 invariant|0.75714 as|0.77143 they|0.78571 must|0.8 be|0.81429 since|0.82857 proper|0.84286 time|0.85714 and|0.87143 proper|0.88571 time|0.9 intervals|0.91429 are|0.92857 coordinate|0.94286 independent|0.95714 by|0.97143 definition|0.98571 |1"
+		}
+	}
+}

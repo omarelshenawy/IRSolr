@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ae00d6c78c4abc0624df8a110ad8fa45a8459b4b582d8be57b11bb7ba0e33b2",
+			"url": "https://upload.wikimedia.org/math/c/a/4/ca480877b829942c23f8e8d7db95e668.png",
+			"previous": " Eventually 9 10 it became possible to characterize the passage of time with instrumentation using operational definitions Simultaneously our conception of time has evolved as shown below 11 ",
+			"after": " The UTC timestamp in use worldwide is an atomic time standard The relative accuracy of such a time standard is currently on the order of 10 15 13 corresponding to 1 second in approximately 30 million years The smallest time step considered observable is called the Planck time which is approximately 5 391 10 44 seconds many orders of magnitude below the resolution of current time standards ",
+			"color": "black|0.90784 dim|0.078299 gray|0.078299 dim|0.078299 grey|0.078299 gray|0.013864 grey|0.013864  ",
+			"after_weights": " The|1 UTC|0.98507 timestamp|0.97015 in|0.95522 use|0.9403 worldwide|0.92537 is|0.91045 an|0.89552 atomic|0.8806 time|0.86567 standard|0.85075 The|0.83582 relative|0.8209 accuracy|0.80597 of|0.79104 such|0.77612 a|0.76119 time|0.74627 standard|0.73134 is|0.71642 currently|0.70149 on|0.68657 the|0.67164 order|0.65672 of|0.64179 10|0.62687 15|0.61194 13|0.59701 corresponding|0.58209 to|0.56716 1|0.55224 second|0.53731 in|0.52239 approximately|0.50746 30|0.49254 million|0.47761 years|0.46269 The|0.44776 smallest|0.43284 time|0.41791 step|0.40299 considered|0.38806 observable|0.37313 is|0.35821 called|0.34328 the|0.32836 Planck|0.31343 time|0.29851 which|0.28358 is|0.26866 approximately|0.25373 5|0.23881 391|0.22388 10|0.20896 44|0.19403 seconds|0.1791 many|0.16418 orders|0.14925 of|0.13433 magnitude|0.1194 below|0.10448 the|0.089552 resolution|0.074627 of|0.059701 current|0.044776 time|0.029851 standards|0.014925 |0",
+			"previous_weights": " Eventually|0 9|0.035714 10|0.071429 it|0.10714 became|0.14286 possible|0.17857 to|0.21429 characterize|0.25 the|0.28571 passage|0.32143 of|0.35714 time|0.39286 with|0.42857 instrumentation|0.46429 using|0.5 operational|0.53571 definitions|0.57143 Simultaneously|0.60714 our|0.64286 conception|0.67857 of|0.71429 time|0.75 has|0.78571 evolved|0.82143 as|0.85714 shown|0.89286 below|0.92857 11|0.96429 |1"
+		}
+	}
+}

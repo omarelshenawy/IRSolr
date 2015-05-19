@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "50a17bd41b01a92038358b303b687a5ad638b3455a5858983488864967d70de2",
+			"url": "https://upload.wikimedia.org/math/2/e/c/2ec2f2997f30c451d18fb9298fcfdc4b.png",
+			"previous": " leads to solutions of the form The method of separation of variables for the wave equation",
+			"after": " where Spherical waves are waves whose amplitude depends only upon the radial distance r from a central point source For such waves the three dimensional wave equation takes the form",
+			"color": "gray|0.32676 grey|0.32676 dim|0.27409 gray|0.27409 dim|0.27409 grey|0.27409 dark|0.21327 gray|0.21327 dark|0.21327 grey|0.21327 silver|0.089161 light|0.043756 gray|0.043756 light|0.043756 grey|0.043756 gainsboro|0.030848 white|0.0057453 smoke|0.0057453 linen|0.0027287  ",
+			"after_weights": " where|1 Spherical|0.96552 waves|0.93103 are|0.89655 waves|0.86207 whose|0.82759 amplitude|0.7931 depends|0.75862 only|0.72414 upon|0.68966 the|0.65517 radial|0.62069 distance|0.58621 r|0.55172 from|0.51724 a|0.48276 central|0.44828 point|0.41379 source|0.37931 For|0.34483 such|0.31034 waves|0.27586 the|0.24138 three|0.2069 dimensional|0.17241 wave|0.13793 equation|0.10345 takes|0.068966 the|0.034483 form|0",
+			"previous_weights": " leads|0 to|0.066667 solutions|0.13333 of|0.2 the|0.26667 form|0.33333 The|0.4 method|0.46667 of|0.53333 separation|0.6 of|0.66667 variables|0.73333 for|0.8 the|0.86667 wave|0.93333 equation|1"
+		}
+	}
+}

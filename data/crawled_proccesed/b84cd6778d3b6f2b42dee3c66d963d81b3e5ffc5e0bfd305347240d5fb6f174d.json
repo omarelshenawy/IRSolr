@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b84cd6778d3b6f2b42dee3c66d963d81b3e5ffc5e0bfd305347240d5fb6f174d",
+			"url": "https://upload.wikimedia.org/math/4/8/c/48cc8868e31fdc33c6fa2cd3c147a575.png",
+			"previous": " Hilbert s basis theorem has some immediate corollaries ",
+			"after": " An ideal Q of a ring is said to be primary if Q is proper and whenever xy Q either x Q or yn Q for some positive integer n In Z the primary ideals are precisely the ideals of the form pe where p is prime and e is a positive integer Thus a primary decomposition of n corresponds to representing n as the intersection of finitely many primary ideals ",
+			"color": "dim|0.34974 gray|0.34974 dim|0.34974 grey|0.34974 gray|0.24872 grey|0.24872 dark|0.176 gray|0.176 dark|0.176 grey|0.176 silver|0.078772 light|0.043541 gray|0.043541 light|0.043541 grey|0.043541 gainsboro|0.032653 white|0.011611 smoke|0.011611 lavender|0.0071962 blush|0.0071962 alice|0.0071241 blue|0.0071241 ghost|0.0070301 white|0.0070301 sea|0.0069722 shell|0.0069722 snow|0.0069271 white|0.0063636 mint|0.0053537 cream|0.0053537 floral|0.0045084 white|0.0045084 linen|0.0043063 azure|0.0031942  ",
+			"after_weights": " An|1 ideal|0.98592 Q|0.97183 of|0.95775 a|0.94366 ring|0.92958 is|0.91549 said|0.90141 to|0.88732 be|0.87324 primary|0.85915 if|0.84507 Q|0.83099 is|0.8169 proper|0.80282 and|0.78873 whenever|0.77465 xy|0.76056 Q|0.74648 either|0.73239 x|0.71831 Q|0.70423 or|0.69014 yn|0.67606 Q|0.66197 for|0.64789 some|0.6338 positive|0.61972 integer|0.60563 n|0.59155 In|0.57746 Z|0.56338 the|0.5493 primary|0.53521 ideals|0.52113 are|0.50704 precisely|0.49296 the|0.47887 ideals|0.46479 of|0.4507 the|0.43662 form|0.42254 pe|0.40845 where|0.39437 p|0.38028 is|0.3662 prime|0.35211 and|0.33803 e|0.32394 is|0.30986 a|0.29577 positive|0.28169 integer|0.26761 Thus|0.25352 a|0.23944 primary|0.22535 decomposition|0.21127 of|0.19718 n|0.1831 corresponds|0.16901 to|0.15493 representing|0.14085 n|0.12676 as|0.11268 the|0.098592 intersection|0.084507 of|0.070423 finitely|0.056338 many|0.042254 primary|0.028169 ideals|0.014085 |0",
+			"previous_weights": " Hilbert|0 s|0.125 basis|0.25 theorem|0.375 has|0.5 some|0.625 immediate|0.75 corollaries|0.875 |1"
+		}
+	}
+}

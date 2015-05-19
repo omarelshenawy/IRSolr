@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "216bdd08b85d259b7b29c0ffc8e2f1191ed9ced0f38e2a6cfb34ae620e578fc9",
+			"url": "https://upload.wikimedia.org/math/f/5/c/f5c5b089b5774be35c91f8a06cf0cf5d.png",
+			"previous": " From the Biot Savart law this vorticity produces a flow field where",
+			"after": " where is the location where induced velocity is produced is the location of the vortex element producing the velocity and is the chord length of the airfoil ",
+			"color": "dim|0.34319 gray|0.34319 dim|0.34319 grey|0.34319 gray|0.29471 grey|0.29471 dark|0.18746 gray|0.18746 dark|0.18746 grey|0.18746 silver|0.085652 light|0.042974 gray|0.042974 light|0.042974 grey|0.042974 gainsboro|0.029717 white|0.0045718 smoke|0.0045718  ",
+			"after_weights": " where|1 is|0.96296 the|0.92593 location|0.88889 where|0.85185 induced|0.81481 velocity|0.77778 is|0.74074 produced|0.7037 is|0.66667 the|0.62963 location|0.59259 of|0.55556 the|0.51852 vortex|0.48148 element|0.44444 producing|0.40741 the|0.37037 velocity|0.33333 and|0.2963 is|0.25926 the|0.22222 chord|0.18519 length|0.14815 of|0.11111 the|0.074074 airfoil|0.037037 |0",
+			"previous_weights": " From|0 the|0.090909 Biot|0.18182 Savart|0.27273 law|0.36364 this|0.45455 vorticity|0.54545 produces|0.63636 a|0.72727 flow|0.81818 field|0.90909 where|1"
+		}
+	}
+}

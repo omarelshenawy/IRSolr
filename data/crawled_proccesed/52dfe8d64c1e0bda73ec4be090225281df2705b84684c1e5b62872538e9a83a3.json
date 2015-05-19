@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52dfe8d64c1e0bda73ec4be090225281df2705b84684c1e5b62872538e9a83a3",
+			"url": "https://upload.wikimedia.org/math/3/5/3/35352148b4524799d7844e1e46a6d474.png",
+			"previous": " We can work out what this invariant is by first arguing that since it is a scalar it doesn t matter in which reference frame we calculate it and then by transforming to a frame where the total momentum is zero ",
+			"after": " We see that the rest energy is an independent invariant A rest energy can be calculated even for particles and systems in motion by translating to a frame in which momentum is zero ",
+			"color": "dim|0.35425 gray|0.35425 dim|0.35425 grey|0.35425 gray|0.28232 grey|0.28232 dark|0.1809 gray|0.1809 dark|0.1809 grey|0.1809 silver|0.087033 light|0.044901 gray|0.044901 light|0.044901 grey|0.044901 gainsboro|0.031199 white|0.0047047 smoke|0.0047047  ",
+			"after_weights": " We|1 see|0.9697 that|0.93939 the|0.90909 rest|0.87879 energy|0.84848 is|0.81818 an|0.78788 independent|0.75758 invariant|0.72727 A|0.69697 rest|0.66667 energy|0.63636 can|0.60606 be|0.57576 calculated|0.54545 even|0.51515 for|0.48485 particles|0.45455 and|0.42424 systems|0.39394 in|0.36364 motion|0.33333 by|0.30303 translating|0.27273 to|0.24242 a|0.21212 frame|0.18182 in|0.15152 which|0.12121 momentum|0.090909 is|0.060606 zero|0.030303 |0",
+			"previous_weights": " We|0 can|0.02439 work|0.04878 out|0.073171 what|0.097561 this|0.12195 invariant|0.14634 is|0.17073 by|0.19512 first|0.21951 arguing|0.2439 that|0.26829 since|0.29268 it|0.31707 is|0.34146 a|0.36585 scalar|0.39024 it|0.41463 doesn|0.43902 t|0.46341 matter|0.4878 in|0.5122 which|0.53659 reference|0.56098 frame|0.58537 we|0.60976 calculate|0.63415 it|0.65854 and|0.68293 then|0.70732 by|0.73171 transforming|0.7561 to|0.78049 a|0.80488 frame|0.82927 where|0.85366 the|0.87805 total|0.90244 momentum|0.92683 is|0.95122 zero|0.97561 |1"
+		}
+	}
+}

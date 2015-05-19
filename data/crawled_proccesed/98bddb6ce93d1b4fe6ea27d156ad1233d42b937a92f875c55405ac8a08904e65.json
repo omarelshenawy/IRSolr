@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "98bddb6ce93d1b4fe6ea27d156ad1233d42b937a92f875c55405ac8a08904e65",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Hoeven%2C_Official_Senate_Portrait%2C_112th_Congress.jpg/220px-John_Hoeven%2C_Official_Senate_Portrait%2C_112th_Congress.jpg",
+			"previous": " ",
+			"after": " The major political parties in North Dakota are the Democratic NPL and the Republican Party As of 2007 update the Constitution Party and the Libertarian Party are also organized parties in the state ",
+			"color": "black|0.63771 dark|0.05216 gray|0.05216 dark|0.05216 grey|0.05216 silver|0.030722 dim|0.029653 gray|0.029653 dim|0.029653 grey|0.029653 light|0.023944 gray|0.023944 light|0.023944 grey|0.023944 tan|0.023751 gray|0.021998 grey|0.021998 rosy|0.02087 brown|0.02087 gainsboro|0.019952 brown|0.019385 white|0.011725 smoke|0.011725  ",
+			"after_weights": " The|1 major|0.9697 political|0.93939 parties|0.90909 in|0.87879 North|0.84848 Dakota|0.81818 are|0.78788 the|0.75758 Democratic|0.72727 NPL|0.69697 and|0.66667 the|0.63636 Republican|0.60606 Party|0.57576 As|0.54545 of|0.51515 2007|0.48485 update|0.45455 the|0.42424 Constitution|0.39394 Party|0.36364 and|0.33333 the|0.30303 Libertarian|0.27273 Party|0.24242 are|0.21212 also|0.18182 organized|0.15152 parties|0.12121 in|0.090909 the|0.060606 state|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

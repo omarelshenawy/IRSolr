@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cc0f003b346451437cb05a78f5d8d90ea9a057a4137038ce9dfd355a4cf4e50",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tahrir_Square_during_Friday_of_Departure.png/220px-Tahrir_Square_during_Friday_of_Departure.png",
+			"previous": " ",
+			"after": " 25 January 2011 Day of Revolt Protests erupted throughout Egypt with tens of thousands gathering in Cairo and thousands more in other Egyptian cities The protests targeted the Mubarak government while mostly non violent there were some reports of civilian and police casualties ",
+			"color": "dim|0.40358 gray|0.40358 dim|0.40358 grey|0.40358 black|0.29624 gray|0.18429 grey|0.18429 dark|0.047734 gray|0.047734 dark|0.047734 grey|0.047734 slate|0.022149 gray|0.022149 light|0.016798 slate|0.016798 gray|0.016798 silver|0.0093938 dark|0.0076808 slate|0.0076808 gray|0.0076808  ",
+			"after_weights": " 25|1 January|0.97674 2011|0.95349 Day|0.93023 of|0.90698 Revolt|0.88372 Protests|0.86047 erupted|0.83721 throughout|0.81395 Egypt|0.7907 with|0.76744 tens|0.74419 of|0.72093 thousands|0.69767 gathering|0.67442 in|0.65116 Cairo|0.62791 and|0.60465 thousands|0.5814 more|0.55814 in|0.53488 other|0.51163 Egyptian|0.48837 cities|0.46512 The|0.44186 protests|0.4186 targeted|0.39535 the|0.37209 Mubarak|0.34884 government|0.32558 while|0.30233 mostly|0.27907 non|0.25581 violent|0.23256 there|0.2093 were|0.18605 some|0.16279 reports|0.13953 of|0.11628 civilian|0.093023 and|0.069767 police|0.046512 casualties|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

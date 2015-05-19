@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "602801133ac68f533a4e4137e47bc5034f9b95af656697f85db2d987ee448e77",
+			"url": "https://upload.wikimedia.org/math/8/b/3/8b30a01108fb34c158e5d8a630bb898d.png",
+			"previous": " If a spheroid is parameterized as The volume inside a spheroid of any kind is If A 2a is the equatorial diameter and C 2c is the polar diameter the volume is ",
+			"after": " where is the reduced or parametric latitude is the longitude and and then its Gaussian curvature is and its mean curvature is",
+			"color": "dim|0.33175 gray|0.33175 dim|0.33175 grey|0.33175 gray|0.30102 grey|0.30102 dark|0.1897 gray|0.1897 dark|0.1897 grey|0.1897 silver|0.081605 light|0.040922 gray|0.040922 light|0.040922 grey|0.040922 gainsboro|0.029057 white|0.005868 smoke|0.005868 linen|0.0029447  ",
+			"after_weights": " where|1 is|0.95238 the|0.90476 reduced|0.85714 or|0.80952 parametric|0.7619 latitude|0.71429 is|0.66667 the|0.61905 longitude|0.57143 and|0.52381 and|0.47619 then|0.42857 its|0.38095 Gaussian|0.33333 curvature|0.28571 is|0.2381 and|0.19048 its|0.14286 mean|0.095238 curvature|0.047619 is|0",
+			"previous_weights": " If|0 a|0.03125 spheroid|0.0625 is|0.09375 parameterized|0.125 as|0.15625 The|0.1875 volume|0.21875 inside|0.25 a|0.28125 spheroid|0.3125 of|0.34375 any|0.375 kind|0.40625 is|0.4375 If|0.46875 A|0.5 2a|0.53125 is|0.5625 the|0.59375 equatorial|0.625 diameter|0.65625 and|0.6875 C|0.71875 2c|0.75 is|0.78125 the|0.8125 polar|0.84375 diameter|0.875 the|0.90625 volume|0.9375 is|0.96875 |1"
+		}
+	}
+}

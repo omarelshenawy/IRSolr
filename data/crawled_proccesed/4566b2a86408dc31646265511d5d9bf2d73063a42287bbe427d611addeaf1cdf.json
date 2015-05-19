@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4566b2a86408dc31646265511d5d9bf2d73063a42287bbe427d611addeaf1cdf",
+			"url": "https://upload.wikimedia.org/math/d/6/6/d66eb31d41d542c0b5d21fcbe88ed07f.png",
+			"previous": " The general form of the gain equation which applies regardless of the input intensity derives from the general differential equation for the intensity I as a function of position z in the gain medium ",
+			"after": " where is saturation intensity To solve we first rearrange the equation in order to separate the variables intensity I and position z ",
+			"color": "dim|0.39747 gray|0.39747 dim|0.39747 grey|0.39747 gray|0.30243 grey|0.30243 dark|0.16764 gray|0.16764 dark|0.16764 grey|0.16764 silver|0.066005 light|0.03147 gray|0.03147 light|0.03147 grey|0.03147 gainsboro|0.021175 white|0.0037548 smoke|0.0037548  ",
+			"after_weights": " where|1 is|0.95455 saturation|0.90909 intensity|0.86364 To|0.81818 solve|0.77273 we|0.72727 first|0.68182 rearrange|0.63636 the|0.59091 equation|0.54545 in|0.5 order|0.45455 to|0.40909 separate|0.36364 the|0.31818 variables|0.27273 intensity|0.22727 I|0.18182 and|0.13636 position|0.090909 z|0.045455 |0",
+			"previous_weights": " The|0 general|0.029412 form|0.058824 of|0.088235 the|0.11765 gain|0.14706 equation|0.17647 which|0.20588 applies|0.23529 regardless|0.26471 of|0.29412 the|0.32353 input|0.35294 intensity|0.38235 derives|0.41176 from|0.44118 the|0.47059 general|0.5 differential|0.52941 equation|0.55882 for|0.58824 the|0.61765 intensity|0.64706 I|0.67647 as|0.70588 a|0.73529 function|0.76471 of|0.79412 position|0.82353 z|0.85294 in|0.88235 the|0.91176 gain|0.94118 medium|0.97059 |1"
+		}
+	}
+}

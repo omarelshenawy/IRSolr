@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e7af4fa56ea4841048f4e1bfac88fff957dac22e9751fac3193972c447bae5e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eurostar_at_St_Pancras_railway_station.jpg/220px-Eurostar_at_St_Pancras_railway_station.jpg",
+			"previous": " In Northern Ireland there is 212 miles 341 km of track at 1 600 mm 5 ft 3 in gauge 118 miles 190 km of it is double track ",
+			"after": " Eurostar operates trains via the Channel Tunnel to France and Belgium and Enterprise trains link Northern Ireland and the Republic of Ireland ",
+			"color": "black|0.40993 dim|0.1655 gray|0.1655 dim|0.1655 grey|0.1655 tan|0.14186 gray|0.10031 grey|0.10031 dark|0.033793 golden|0.033793 rod|0.033793 dark|0.020946 gray|0.020946 dark|0.020946 grey|0.020946 golden|0.020312 rod|0.020312 silver|0.014767 wheat|0.013461 dark|0.011887 slate|0.011887 gray|0.011887  ",
+			"after_weights": " Eurostar|1 operates|0.95455 trains|0.90909 via|0.86364 the|0.81818 Channel|0.77273 Tunnel|0.72727 to|0.68182 France|0.63636 and|0.59091 Belgium|0.54545 and|0.5 Enterprise|0.45455 trains|0.40909 link|0.36364 Northern|0.31818 Ireland|0.27273 and|0.22727 the|0.18182 Republic|0.13636 of|0.090909 Ireland|0.045455 |0",
+			"previous_weights": " In|0 Northern|0.034483 Ireland|0.068966 there|0.10345 is|0.13793 212|0.17241 miles|0.2069 341|0.24138 km|0.27586 of|0.31034 track|0.34483 at|0.37931 1|0.41379 600|0.44828 mm|0.48276 5|0.51724 ft|0.55172 3|0.58621 in|0.62069 gauge|0.65517 118|0.68966 miles|0.72414 190|0.75862 km|0.7931 of|0.82759 it|0.86207 is|0.89655 double|0.93103 track|0.96552 |1"
+		}
+	}
+}

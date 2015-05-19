@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d2bee7a441e44aa4eca0ff1dc07dd4252dabd60be5f5f2b600d3535a9c758f5",
+			"url": "https://upload.wikimedia.org/math/b/7/f/b7f667b3efbc578a50f1e1057c6f5d78.png",
+			"previous": " The ratio of the amount of 40Ar to that of 40K is directly related to the time elapsed since the rock was cool enough to trap the Ar by the following equation ",
+			"after": " The scale factor 0 109 corrects for the unmeasured fraction of 40K which decayed into 40Ca the sum of the measured 40K and the scaled amount of 40Ar gives the amount of 40K which was present at the beginning of the elapsed time period In practice each of these values may be expressed as a proportion of the total potassium present as only relative not absolute quantities are required ",
+			"color": "black|0.32867 dim|0.23353 gray|0.23353 dim|0.23353 grey|0.23353 gray|0.21877 grey|0.21877 dark|0.13356 gray|0.13356 dark|0.13356 grey|0.13356 silver|0.0645 light|0.016478 gray|0.016478 light|0.016478 grey|0.016478 gainsboro|0.0044941  ",
+			"after_weights": " The|1 scale|0.98551 factor|0.97101 0|0.95652 109|0.94203 corrects|0.92754 for|0.91304 the|0.89855 unmeasured|0.88406 fraction|0.86957 of|0.85507 40K|0.84058 which|0.82609 decayed|0.81159 into|0.7971 40Ca|0.78261 the|0.76812 sum|0.75362 of|0.73913 the|0.72464 measured|0.71014 40K|0.69565 and|0.68116 the|0.66667 scaled|0.65217 amount|0.63768 of|0.62319 40Ar|0.6087 gives|0.5942 the|0.57971 amount|0.56522 of|0.55072 40K|0.53623 which|0.52174 was|0.50725 present|0.49275 at|0.47826 the|0.46377 beginning|0.44928 of|0.43478 the|0.42029 elapsed|0.4058 time|0.3913 period|0.37681 In|0.36232 practice|0.34783 each|0.33333 of|0.31884 these|0.30435 values|0.28986 may|0.27536 be|0.26087 expressed|0.24638 as|0.23188 a|0.21739 proportion|0.2029 of|0.18841 the|0.17391 total|0.15942 potassium|0.14493 present|0.13043 as|0.11594 only|0.10145 relative|0.086957 not|0.072464 absolute|0.057971 quantities|0.043478 are|0.028986 required|0.014493 |0",
+			"previous_weights": " The|0 ratio|0.03125 of|0.0625 the|0.09375 amount|0.125 of|0.15625 40Ar|0.1875 to|0.21875 that|0.25 of|0.28125 40K|0.3125 is|0.34375 directly|0.375 related|0.40625 to|0.4375 the|0.46875 time|0.5 elapsed|0.53125 since|0.5625 the|0.59375 rock|0.625 was|0.65625 cool|0.6875 enough|0.71875 to|0.75 trap|0.78125 the|0.8125 Ar|0.84375 by|0.875 the|0.90625 following|0.9375 equation|0.96875 |1"
+		}
+	}
+}

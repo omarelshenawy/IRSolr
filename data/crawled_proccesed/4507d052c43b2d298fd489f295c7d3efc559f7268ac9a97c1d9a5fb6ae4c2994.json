@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4507d052c43b2d298fd489f295c7d3efc559f7268ac9a97c1d9a5fb6ae4c2994",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Particle_sys_fire.jpg/220px-Particle_sys_fire.jpg",
+			"previous": " ",
+			"after": " A particle system is a technique in game physics and computer graphics that uses a large number of very small sprites or other graphic objects to simulate certain kinds of fuzzy phenomena which are otherwise very hard to reproduce with conventional rendering techniques usually highly chaotic systems natural phenomena or processes caused by chemical reactions ",
+			"color": "black|0.097999 maroon|0.073105 dark|0.062283 red|0.062283 coral|0.056787 khaki|0.055948 chocolate|0.04903 sandy|0.047742 brown|0.047742 dim|0.047262 gray|0.047262 dim|0.047262 grey|0.047262 firebrick|0.03955 pale|0.026931 golden|0.026931 rod|0.026931 orange|0.025219 red|0.025219 tomato|0.022194 golden|0.021864 rod|0.021864 floral|0.021574 white|0.021574 sea|0.020522 shell|0.020522 mint|0.020429 cream|0.020429 white|0.019744 snow|0.019582 white|0.019309 smoke|0.019309 light|0.018869 salmon|0.018869 gray|0.018 grey|0.018 azure|0.017743 lemon|0.017044 chiffon|0.017044 ghost|0.016527 white|0.016527 alice|0.015095 blue|0.015095 peru|0.014047 light|0.013593 golden|0.013593 rod|0.013593 yellow|0.013593 salmon|0.012579 lavender|0.011902 blush|0.011902 ivory|0.010518 brown|0.0099786 light|0.0085678 yellow|0.0085678  ",
+			"after_weights": " A|1 particle|0.98182 system|0.96364 is|0.94545 a|0.92727 technique|0.90909 in|0.89091 game|0.87273 physics|0.85455 and|0.83636 computer|0.81818 graphics|0.8 that|0.78182 uses|0.76364 a|0.74545 large|0.72727 number|0.70909 of|0.69091 very|0.67273 small|0.65455 sprites|0.63636 or|0.61818 other|0.6 graphic|0.58182 objects|0.56364 to|0.54545 simulate|0.52727 certain|0.50909 kinds|0.49091 of|0.47273 fuzzy|0.45455 phenomena|0.43636 which|0.41818 are|0.4 otherwise|0.38182 very|0.36364 hard|0.34545 to|0.32727 reproduce|0.30909 with|0.29091 conventional|0.27273 rendering|0.25455 techniques|0.23636 usually|0.21818 highly|0.2 chaotic|0.18182 systems|0.16364 natural|0.14545 phenomena|0.12727 or|0.10909 processes|0.090909 caused|0.072727 by|0.054545 chemical|0.036364 reactions|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

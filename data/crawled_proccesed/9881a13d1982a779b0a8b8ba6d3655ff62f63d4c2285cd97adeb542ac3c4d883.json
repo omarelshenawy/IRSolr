@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9881a13d1982a779b0a8b8ba6d3655ff62f63d4c2285cd97adeb542ac3c4d883",
+			"url": "https://upload.wikimedia.org/math/c/3/f/c3f2416b0d1b1421f03fd9942f28c94d.png",
+			"previous": " The functionals and compute the components of x along the basis vectors v and w respectively that is  To solve this equation for we compute the linear coordinate functionals and for the basis v w which are given by 21 ",
+			"after": " which can be written in matrix form as These coordinate functionals have the properties ",
+			"color": "dim|0.36621 gray|0.36621 dim|0.36621 grey|0.36621 gray|0.27007 grey|0.27007 dark|0.17687 gray|0.17687 dark|0.17687 grey|0.17687 silver|0.081082 light|0.044144 gray|0.044144 light|0.044144 grey|0.044144 gainsboro|0.032544 white|0.0069631 smoke|0.0069631 linen|0.0036121  ",
+			"after_weights": " which|1 can|0.92857 be|0.85714 written|0.78571 in|0.71429 matrix|0.64286 form|0.57143 as|0.5 These|0.42857 coordinate|0.35714 functionals|0.28571 have|0.21429 the|0.14286 properties|0.071429 |0",
+			"previous_weights": " The|0 functionals|0.02439 and|0.04878 compute|0.073171 the|0.097561 components|0.12195 of|0.14634 x|0.17073 along|0.19512 the|0.21951 basis|0.2439 vectors|0.26829 v|0.29268 and|0.31707 w|0.34146 respectively|0.36585 that|0.39024 is|0.41463 |0.43902 To|0.46341 solve|0.4878 this|0.5122 equation|0.53659 for|0.56098 we|0.58537 compute|0.60976 the|0.63415 linear|0.65854 coordinate|0.68293 functionals|0.70732 and|0.73171 for|0.7561 the|0.78049 basis|0.80488 v|0.82927 w|0.85366 which|0.87805 are|0.90244 given|0.92683 by|0.95122 21|0.97561 |1"
+		}
+	}
+}

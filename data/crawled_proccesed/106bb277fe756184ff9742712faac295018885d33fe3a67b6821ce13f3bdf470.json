@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "106bb277fe756184ff9742712faac295018885d33fe3a67b6821ce13f3bdf470",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tel_Aviv_carrying_bricks.jpg/170px-Tel_Aviv_carrying_bricks.jpg",
+			"previous": " Napoleon besieged the city in 1799 and killed scores of inhabitants a plague epidemic followed decimating the remaining population 28 The surrendering garrison of several thousand Muslims was massacred 30 ",
+			"after": " Jaffa began to grow as an urban center in the early 18th century when the Ottoman government in Istanbul intervened to guard the port and reduce attacks by Bedouins and pirates 28 However the real expansion came during the 19th century when the population grew from 2 500 in 1806 to 17 000 in 1886 20 ",
+			"color": " ",
+			"after_weights": " Jaffa|1 began|0.98214 to|0.96429 grow|0.94643 as|0.92857 an|0.91071 urban|0.89286 center|0.875 in|0.85714 the|0.83929 early|0.82143 18th|0.80357 century|0.78571 when|0.76786 the|0.75 Ottoman|0.73214 government|0.71429 in|0.69643 Istanbul|0.67857 intervened|0.66071 to|0.64286 guard|0.625 the|0.60714 port|0.58929 and|0.57143 reduce|0.55357 attacks|0.53571 by|0.51786 Bedouins|0.5 and|0.48214 pirates|0.46429 28|0.44643 However|0.42857 the|0.41071 real|0.39286 expansion|0.375 came|0.35714 during|0.33929 the|0.32143 19th|0.30357 century|0.28571 when|0.26786 the|0.25 population|0.23214 grew|0.21429 from|0.19643 2|0.17857 500|0.16071 in|0.14286 1806|0.125 to|0.10714 17|0.089286 000|0.071429 in|0.053571 1886|0.035714 20|0.017857 |0",
+			"previous_weights": " Napoleon|0 besieged|0.033333 the|0.066667 city|0.1 in|0.13333 1799|0.16667 and|0.2 killed|0.23333 scores|0.26667 of|0.3 inhabitants|0.33333 a|0.36667 plague|0.4 epidemic|0.43333 followed|0.46667 decimating|0.5 the|0.53333 remaining|0.56667 population|0.6 28|0.63333 The|0.66667 surrendering|0.7 garrison|0.73333 of|0.76667 several|0.8 thousand|0.83333 Muslims|0.86667 was|0.9 massacred|0.93333 30|0.96667 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "362cc83607e032e5597d0787236d40acd505aed7d5e21ce3eb45e46593576071",
+			"url": "https://upload.wikimedia.org/math/4/8/a/48a1e629c14b23bf9ed7b5aa444fc09d.png",
+			"previous": " This matrix equation is equivalent to two linear equations",
+			"after": " Both equations reduce to the single linear equation Therefore any vector of the form for any non zero real number is an eigenvector of with eigenvalue ",
+			"color": "dim|0.30052 gray|0.30052 dim|0.30052 grey|0.30052 gray|0.28613 grey|0.28613 dark|0.22774 gray|0.22774 dark|0.22774 grey|0.22774 silver|0.10083 light|0.040983 gray|0.040983 light|0.040983 grey|0.040983 gainsboro|0.028992 white|0.0043175 smoke|0.0043175  ",
+			"after_weights": " Both|1 equations|0.96154 reduce|0.92308 to|0.88462 the|0.84615 single|0.80769 linear|0.76923 equation|0.73077 Therefore|0.69231 any|0.65385 vector|0.61538 of|0.57692 the|0.53846 form|0.5 for|0.46154 any|0.42308 non|0.38462 zero|0.34615 real|0.30769 number|0.26923 is|0.23077 an|0.19231 eigenvector|0.15385 of|0.11538 with|0.076923 eigenvalue|0.038462 |0",
+			"previous_weights": " This|0 matrix|0.125 equation|0.25 is|0.375 equivalent|0.5 to|0.625 two|0.75 linear|0.875 equations|1"
+		}
+	}
+}

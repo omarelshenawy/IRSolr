@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b5b847b1c7b4999b0feeaa8c39758069fbad6ca5a5cf0d55d1becc13d4fddbf",
+			"url": "https://upload.wikimedia.org/math/b/4/f/b4f68b322344e833f1e1bf8466b4feb9.png",
+			"previous": " ",
+			"after": " The map embodies the time evolution of the dynamical system Thus for discrete dynamical systems the iterates for integer n are studied For continuous dynamical systems the map is understood to be a finite time evolution map and the construction is more complicated ",
+			"color": "dim|0.34858 gray|0.34858 dim|0.34858 grey|0.34858 gray|0.27322 grey|0.27322 dark|0.18028 gray|0.18028 dark|0.18028 grey|0.18028 silver|0.091286 light|0.050694 gray|0.050694 light|0.050694 grey|0.050694 gainsboro|0.03606 white|0.0047748 smoke|0.0047748  ",
+			"after_weights": " The|1 map|0.97674 embodies|0.95349 the|0.93023 time|0.90698 evolution|0.88372 of|0.86047 the|0.83721 dynamical|0.81395 system|0.7907 Thus|0.76744 for|0.74419 discrete|0.72093 dynamical|0.69767 systems|0.67442 the|0.65116 iterates|0.62791 for|0.60465 integer|0.5814 n|0.55814 are|0.53488 studied|0.51163 For|0.48837 continuous|0.46512 dynamical|0.44186 systems|0.4186 the|0.39535 map|0.37209 is|0.34884 understood|0.32558 to|0.30233 be|0.27907 a|0.25581 finite|0.23256 time|0.2093 evolution|0.18605 map|0.16279 and|0.13953 the|0.11628 construction|0.093023 is|0.069767 more|0.046512 complicated|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

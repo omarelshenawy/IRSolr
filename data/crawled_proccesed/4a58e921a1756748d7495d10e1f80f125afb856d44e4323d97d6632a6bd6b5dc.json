@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a58e921a1756748d7495d10e1f80f125afb856d44e4323d97d6632a6bd6b5dc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Airside_at_Glasgow_-_geograph.org.uk_-_560639.jpg/220px-Airside_at_Glasgow_-_geograph.org.uk_-_560639.jpg",
+			"previous": " By 1996 Glasgow was handling over 5 5 million passengers per annum making it the fourth largest airport in the UK 8 ",
+			"after": " The terminal has three piers West International Central Domestic and East Low cost Ireland Scottish islands ",
+			"color": "dim|0.50524 gray|0.50524 dim|0.50524 grey|0.50524 dark|0.13212 slate|0.13212 gray|0.13212 gray|0.11711 grey|0.11711 black|0.10788 light|0.045558 slate|0.045558 gray|0.045558 dark|0.044307 gray|0.044307 dark|0.044307 grey|0.044307 slate|0.037448 gray|0.037448 silver|0.0067282  ",
+			"after_weights": " The|1 terminal|0.9375 has|0.875 three|0.8125 piers|0.75 West|0.6875 International|0.625 Central|0.5625 Domestic|0.5 and|0.4375 East|0.375 Low|0.3125 cost|0.25 Ireland|0.1875 Scottish|0.125 islands|0.0625 |0",
+			"previous_weights": " By|0 1996|0.045455 Glasgow|0.090909 was|0.13636 handling|0.18182 over|0.22727 5|0.27273 5|0.31818 million|0.36364 passengers|0.40909 per|0.45455 annum|0.5 making|0.54545 it|0.59091 the|0.63636 fourth|0.68182 largest|0.72727 airport|0.77273 in|0.81818 the|0.86364 UK|0.90909 8|0.95455 |1"
+		}
+	}
+}

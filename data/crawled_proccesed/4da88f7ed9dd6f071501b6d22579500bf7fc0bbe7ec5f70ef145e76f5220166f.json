@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4da88f7ed9dd6f071501b6d22579500bf7fc0bbe7ec5f70ef145e76f5220166f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pentium-mmx1.jpg/74px-Pentium-mmx1.jpg",
+			"previous": " ",
+			"after": " The aim of this project is to better organise information in articles related to electronics This page contains only suggestions with the hope to help other Wikipedians writing high quality articles with the minimum effort ",
+			"color": "dim|0.40998 gray|0.40998 dim|0.40998 grey|0.40998 gray|0.14788 grey|0.14788 dark|0.09966 khaki|0.09966 dark|0.070729 gray|0.070729 dark|0.070729 grey|0.070729 black|0.069619 dark|0.054336 slate|0.054336 gray|0.054336 khaki|0.031087 tan|0.024273 slate|0.024164 gray|0.024164  ",
+			"after_weights": " The|1 aim|0.97143 of|0.94286 this|0.91429 project|0.88571 is|0.85714 to|0.82857 better|0.8 organise|0.77143 information|0.74286 in|0.71429 articles|0.68571 related|0.65714 to|0.62857 electronics|0.6 This|0.57143 page|0.54286 contains|0.51429 only|0.48571 suggestions|0.45714 with|0.42857 the|0.4 hope|0.37143 to|0.34286 help|0.31429 other|0.28571 Wikipedians|0.25714 writing|0.22857 high|0.2 quality|0.17143 articles|0.14286 with|0.11429 the|0.085714 minimum|0.057143 effort|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e33b3d6fc179107f51960a976e7b24cd111c070588b028a5246832cd0aa77fe",
+			"url": "https://upload.wikimedia.org/math/0/d/c/0dc14b872ac4a2699d4ef5ba4e1b6dc7.png",
+			"previous": " As the first parenthesis vanishes in 3 we get and Thus and are the two roots of the equation",
+			"after": " Solving this equation and using the fact that and may be exchanged we find As these expressions are real their cube roots are well defined and like Cardano we get",
+			"color": " ",
+			"after_weights": " Solving|1 this|0.96552 equation|0.93103 and|0.89655 using|0.86207 the|0.82759 fact|0.7931 that|0.75862 and|0.72414 may|0.68966 be|0.65517 exchanged|0.62069 we|0.58621 find|0.55172 As|0.51724 these|0.48276 expressions|0.44828 are|0.41379 real|0.37931 their|0.34483 cube|0.31034 roots|0.27586 are|0.24138 well|0.2069 defined|0.17241 and|0.13793 like|0.10345 Cardano|0.068966 we|0.034483 get|0",
+			"previous_weights": " As|0 the|0.055556 first|0.11111 parenthesis|0.16667 vanishes|0.22222 in|0.27778 3|0.33333 we|0.38889 get|0.44444 and|0.5 Thus|0.55556 and|0.61111 are|0.66667 the|0.72222 two|0.77778 roots|0.83333 of|0.88889 the|0.94444 equation|1"
+		}
+	}
+}

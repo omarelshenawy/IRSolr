@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ff4b187cb9f13dd68f03a7eec160e91f99d2b7ce9864557b5512d1d5e1a01f1",
+			"url": "https://upload.wikimedia.org/math/7/e/9/7e991e3139a969558decdde7b56ca706.png",
+			"previous": " As the name suggests surge margin provides a measure of how close an operating point is to surge Unfortunately there are a number of different definitions of surge margin A popular one in use is defined as follows ",
+			"after": " where ",
+			"color": "dim|0.38219 gray|0.38219 dim|0.38219 grey|0.38219 gray|0.27745 grey|0.27745 dark|0.17086 gray|0.17086 dark|0.17086 grey|0.17086 silver|0.080499 light|0.043196 gray|0.043196 light|0.043196 grey|0.043196 gainsboro|0.0295 white|0.0043949 smoke|0.0043949  ",
+			"after_weights": " where|1 |0",
+			"previous_weights": " As|0 the|0.026316 name|0.052632 suggests|0.078947 surge|0.10526 margin|0.13158 provides|0.15789 a|0.18421 measure|0.21053 of|0.23684 how|0.26316 close|0.28947 an|0.31579 operating|0.34211 point|0.36842 is|0.39474 to|0.42105 surge|0.44737 Unfortunately|0.47368 there|0.5 are|0.52632 a|0.55263 number|0.57895 of|0.60526 different|0.63158 definitions|0.65789 of|0.68421 surge|0.71053 margin|0.73684 A|0.76316 popular|0.78947 one|0.81579 in|0.84211 use|0.86842 is|0.89474 defined|0.92105 as|0.94737 follows|0.97368 |1"
+		}
+	}
+}

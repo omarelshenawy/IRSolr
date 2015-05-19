@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89330bfb5d7918f6d8105959dffb175583a7058b3df849c3d8c84c5a0b1f564e",
+			"url": "https://upload.wikimedia.org/math/a/d/1/ad1c6b5d0b659b0dcc02cc87d263d4a4.png",
+			"previous": " In 1837 Bessel obtained one such series 11 which was put into a simpler form by Helmert 12 13  Series with considerably faster convergence can be obtained by expanding in terms of the third flattening instead of the eccentricity They are related by",
+			"after": " with Because changes sign when and are interchanged and because the initial factor is constant under this interchange half the terms in the expansions of vanish ",
+			"color": "dim|0.44371 gray|0.44371 dim|0.44371 grey|0.44371 gray|0.271 grey|0.271 dark|0.16058 gray|0.16058 dark|0.16058 grey|0.16058 silver|0.065308 light|0.027978 gray|0.027978 light|0.027978 grey|0.027978 gainsboro|0.01894  ",
+			"after_weights": " with|1 Because|0.96154 changes|0.92308 sign|0.88462 when|0.84615 and|0.80769 are|0.76923 interchanged|0.73077 and|0.69231 because|0.65385 the|0.61538 initial|0.57692 factor|0.53846 is|0.5 constant|0.46154 under|0.42308 this|0.38462 interchange|0.34615 half|0.30769 the|0.26923 terms|0.23077 in|0.19231 the|0.15385 expansions|0.11538 of|0.076923 vanish|0.038462 |0",
+			"previous_weights": " In|0 1837|0.023256 Bessel|0.046512 obtained|0.069767 one|0.093023 such|0.11628 series|0.13953 11|0.16279 which|0.18605 was|0.2093 put|0.23256 into|0.25581 a|0.27907 simpler|0.30233 form|0.32558 by|0.34884 Helmert|0.37209 12|0.39535 13|0.4186 |0.44186 Series|0.46512 with|0.48837 considerably|0.51163 faster|0.53488 convergence|0.55814 can|0.5814 be|0.60465 obtained|0.62791 by|0.65116 expanding|0.67442 in|0.69767 terms|0.72093 of|0.74419 the|0.76744 third|0.7907 flattening|0.81395 instead|0.83721 of|0.86047 the|0.88372 eccentricity|0.90698 They|0.93023 are|0.95349 related|0.97674 by|1"
+		}
+	}
+}

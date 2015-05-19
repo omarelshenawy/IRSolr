@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45b00e70413dade2a219e0b23ef03b6b8ae5a683a85ce91cc73e57223ae030ad",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/St._Georges_Chapel%2C_Windsor_Castle_%281%29.jpg/220px-St._Georges_Chapel%2C_Windsor_Castle_%281%29.jpg",
+			"previous": " ",
+			"after": " Windsor Castle continued to be favoured by monarchs in the 15th century despite England beginning to slip into increasing political violence 102 Henry IV seized the castle during his coup in 1399 although failing to catch Richard II who had escaped to London 102 Under Henry V the castle hosted a visit from the Holy Roman Emperor in 1417 a massive diplomatic event that stretched the accommodation of the castle to its limits 103 ",
+			"color": "dim|0.32104 gray|0.32104 dim|0.32104 grey|0.32104 gray|0.30197 grey|0.30197 black|0.18104 dark|0.090684 gray|0.090684 dark|0.090684 grey|0.090684 dark|0.034656 olive|0.034656 green|0.034656 tan|0.017601 silver|0.016197 slate|0.012505 gray|0.012505 light|0.011146 slate|0.011146 gray|0.011146  ",
+			"after_weights": " Windsor|1 Castle|0.98649 continued|0.97297 to|0.95946 be|0.94595 favoured|0.93243 by|0.91892 monarchs|0.90541 in|0.89189 the|0.87838 15th|0.86486 century|0.85135 despite|0.83784 England|0.82432 beginning|0.81081 to|0.7973 slip|0.78378 into|0.77027 increasing|0.75676 political|0.74324 violence|0.72973 102|0.71622 Henry|0.7027 IV|0.68919 seized|0.67568 the|0.66216 castle|0.64865 during|0.63514 his|0.62162 coup|0.60811 in|0.59459 1399|0.58108 although|0.56757 failing|0.55405 to|0.54054 catch|0.52703 Richard|0.51351 II|0.5 who|0.48649 had|0.47297 escaped|0.45946 to|0.44595 London|0.43243 102|0.41892 Under|0.40541 Henry|0.39189 V|0.37838 the|0.36486 castle|0.35135 hosted|0.33784 a|0.32432 visit|0.31081 from|0.2973 the|0.28378 Holy|0.27027 Roman|0.25676 Emperor|0.24324 in|0.22973 1417|0.21622 a|0.2027 massive|0.18919 diplomatic|0.17568 event|0.16216 that|0.14865 stretched|0.13514 the|0.12162 accommodation|0.10811 of|0.094595 the|0.081081 castle|0.067568 to|0.054054 its|0.040541 limits|0.027027 103|0.013514 |0",
+			"previous_weights": " "
+		}
+	}
+}

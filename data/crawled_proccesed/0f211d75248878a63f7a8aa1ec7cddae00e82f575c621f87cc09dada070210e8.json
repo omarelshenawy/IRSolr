@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f211d75248878a63f7a8aa1ec7cddae00e82f575c621f87cc09dada070210e8",
+			"url": "https://upload.wikimedia.org/math/c/1/9/c198bce010e9eec9dedd5c6043dd9867.png",
+			"previous": " According to the mean value theorem for integration there exists a real number in x1 x1 x such that",
+			"after": " To keep the notation simple we will continue writing c instead of but one should keep in mind that c does depend on Substituting the above into 2 we get",
+			"color": "dim|0.38448 gray|0.38448 dim|0.38448 grey|0.38448 gray|0.28993 grey|0.28993 dark|0.1793 gray|0.1793 dark|0.1793 grey|0.1793 silver|0.070834 light|0.035032 gray|0.035032 light|0.035032 grey|0.035032 gainsboro|0.02426 white|0.0041828 smoke|0.0041828  ",
+			"after_weights": " To|1 keep|0.96552 the|0.93103 notation|0.89655 simple|0.86207 we|0.82759 will|0.7931 continue|0.75862 writing|0.72414 c|0.68966 instead|0.65517 of|0.62069 but|0.58621 one|0.55172 should|0.51724 keep|0.48276 in|0.44828 mind|0.41379 that|0.37931 c|0.34483 does|0.31034 depend|0.27586 on|0.24138 Substituting|0.2069 the|0.17241 above|0.13793 into|0.10345 2|0.068966 we|0.034483 get|0",
+			"previous_weights": " According|0 to|0.055556 the|0.11111 mean|0.16667 value|0.22222 theorem|0.27778 for|0.33333 integration|0.38889 there|0.44444 exists|0.5 a|0.55556 real|0.61111 number|0.66667 in|0.72222 x1|0.77778 x1|0.83333 x|0.88889 such|0.94444 that|1"
+		}
+	}
+}

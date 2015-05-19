@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7eafd844d14b7a28b40d0439faad1fae58ad8ee94e59f4fdd01e3f72b78fa07e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/St_nicholas_blakeney_plan.jpg/220px-St_nicholas_blakeney_plan.jpg",
+			"previous": " ",
+			"after": " St Nicholas Blakeney is a large Gothic parish church with an aisled nave a deep chancel of two bays a large tower at the western end and a smaller tower at the eastern end to the north of the chancel The north porch was rebuilt in 1896 18 ",
+			"color": "burly|0.76378 wood|0.76378  ",
+			"after_weights": " St|1 Nicholas|0.97917 Blakeney|0.95833 is|0.9375 a|0.91667 large|0.89583 Gothic|0.875 parish|0.85417 church|0.83333 with|0.8125 an|0.79167 aisled|0.77083 nave|0.75 a|0.72917 deep|0.70833 chancel|0.6875 of|0.66667 two|0.64583 bays|0.625 a|0.60417 large|0.58333 tower|0.5625 at|0.54167 the|0.52083 western|0.5 end|0.47917 and|0.45833 a|0.4375 smaller|0.41667 tower|0.39583 at|0.375 the|0.35417 eastern|0.33333 end|0.3125 to|0.29167 the|0.27083 north|0.25 of|0.22917 the|0.20833 chancel|0.1875 The|0.16667 north|0.14583 porch|0.125 was|0.10417 rebuilt|0.083333 in|0.0625 1896|0.041667 18|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

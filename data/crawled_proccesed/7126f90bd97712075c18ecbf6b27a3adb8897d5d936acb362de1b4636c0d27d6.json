@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7126f90bd97712075c18ecbf6b27a3adb8897d5d936acb362de1b4636c0d27d6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Night_yamagata_city_2.jpg/250px-Night_yamagata_city_2.jpg",
+			"previous": " Phosphorescent materials can also be excited by bombarding them with subatomic particles Cathodoluminescence is one example This mechanism is used in cathode ray tube television sets and computer monitors ",
+			"after": " Certain other mechanisms can produce light ",
+			"color": "black|0.88542 dim|0.015018 gray|0.015018 dim|0.015018 grey|0.015018 gray|0.010549 grey|0.010549 dark|0.0078251 gray|0.0078251 dark|0.0078251 grey|0.0078251 silver|0.0055476  ",
+			"after_weights": " Certain|1 other|0.83333 mechanisms|0.66667 can|0.5 produce|0.33333 light|0.16667 |0",
+			"previous_weights": " Phosphorescent|0 materials|0.034483 can|0.068966 also|0.10345 be|0.13793 excited|0.17241 by|0.2069 bombarding|0.24138 them|0.27586 with|0.31034 subatomic|0.34483 particles|0.37931 Cathodoluminescence|0.41379 is|0.44828 one|0.48276 example|0.51724 This|0.55172 mechanism|0.58621 is|0.62069 used|0.65517 in|0.68966 cathode|0.72414 ray|0.75862 tube|0.7931 television|0.82759 sets|0.86207 and|0.89655 computer|0.93103 monitors|0.96552 |1"
+		}
+	}
+}

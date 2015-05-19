@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "848b2e86ec8a47012ba79bca167c24ef8738a0a527db194e78678b4019031d1f",
+			"url": "https://upload.wikimedia.org/math/6/6/c/66cb64301ce1edf081d4b0334dccf50d.png",
+			"previous": " Also any spreadsheet software can be used to solve simple problems relating to numerical analysis  Many computer algebra systems such as Mathematica also benefit from the availability of arbitrary precision arithmetic which can provide more accurate results ",
+			"after": " Journals",
+			"color": "gray|0.31328 grey|0.31328 dim|0.27685 gray|0.27685 dim|0.27685 grey|0.27685 dark|0.2162 gray|0.2162 dark|0.2162 grey|0.2162 silver|0.094939 light|0.04674 gray|0.04674 light|0.04674 grey|0.04674 gainsboro|0.032909 white|0.005563 smoke|0.005563 linen|0.0025599  ",
+			"after_weights": " Journals|0",
+			"previous_weights": " Also|0 any|0.026316 spreadsheet|0.052632 software|0.078947 can|0.10526 be|0.13158 used|0.15789 to|0.18421 solve|0.21053 simple|0.23684 problems|0.26316 relating|0.28947 to|0.31579 numerical|0.34211 analysis|0.36842 |0.39474 Many|0.42105 computer|0.44737 algebra|0.47368 systems|0.5 such|0.52632 as|0.55263 Mathematica|0.57895 also|0.60526 benefit|0.63158 from|0.65789 the|0.68421 availability|0.71053 of|0.73684 arbitrary|0.76316 precision|0.78947 arithmetic|0.81579 which|0.84211 can|0.86842 provide|0.89474 more|0.92105 accurate|0.94737 results|0.97368 |1"
+		}
+	}
+}

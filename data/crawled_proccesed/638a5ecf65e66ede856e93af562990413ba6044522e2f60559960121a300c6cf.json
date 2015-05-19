@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "638a5ecf65e66ede856e93af562990413ba6044522e2f60559960121a300c6cf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bolsa_Chica_Wetland_Reserves.jpg/220px-Bolsa_Chica_Wetland_Reserves.jpg",
+			"previous": " ",
+			"after": " Construction of any kind on the beach is prohibited without a vote of the people allowing Huntington Beach to retain its natural tie to the ocean rather than having the view obscured by residential and commercial developments ",
+			"color": "dark|0.35954 gray|0.35954 dark|0.35954 grey|0.35954 silver|0.17307 gray|0.14046 grey|0.14046 dim|0.108 gray|0.108 dim|0.108 grey|0.108 light|0.07601 slate|0.07601 gray|0.07601 slate|0.055321 gray|0.055321 black|0.038729 light|0.03503 gray|0.03503 light|0.03503 grey|0.03503 dark|0.006963 slate|0.006963 gray|0.006963  ",
+			"after_weights": " Construction|1 of|0.97297 any|0.94595 kind|0.91892 on|0.89189 the|0.86486 beach|0.83784 is|0.81081 prohibited|0.78378 without|0.75676 a|0.72973 vote|0.7027 of|0.67568 the|0.64865 people|0.62162 allowing|0.59459 Huntington|0.56757 Beach|0.54054 to|0.51351 retain|0.48649 its|0.45946 natural|0.43243 tie|0.40541 to|0.37838 the|0.35135 ocean|0.32432 rather|0.2973 than|0.27027 having|0.24324 the|0.21622 view|0.18919 obscured|0.16216 by|0.13514 residential|0.10811 and|0.081081 commercial|0.054054 developments|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

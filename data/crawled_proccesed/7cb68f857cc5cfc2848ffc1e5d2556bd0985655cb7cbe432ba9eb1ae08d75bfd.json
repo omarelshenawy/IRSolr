@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cb68f857cc5cfc2848ffc1e5d2556bd0985655cb7cbe432ba9eb1ae08d75bfd",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png",
+			"previous": "  Battle of Moscow Vkhutemas Aleksandr Vasilevsky Laika",
+			"after": "  Golos Truda  Moscow Monorail Emil Stang born 1882 Shkolnaya Street Stray dogs in Moscow Malchik Moscow International House of Music Coat of arms of Moscow 2010 Moscow Victory Day Parade Lobnoye Mesto 1904 Moscow tornado Moscow Orphanage Lenin s Mausoleum",
+			"color": "honeydew|0.2999 beige|0.27827 sea|0.182 green|0.182 dark|0.095673 sea|0.095673 green|0.095673 ivory|0.044585 mint|0.042186 cream|0.042186 old|0.020547 lace|0.020547 floral|0.015425 white|0.015425 azure|0.0077854 linen|0.0075362  ",
+			"after_weights": " |1 Golos|0.97561 Truda|0.95122 |0.92683 Moscow|0.90244 Monorail|0.87805 Emil|0.85366 Stang|0.82927 born|0.80488 1882|0.78049 Shkolnaya|0.7561 Street|0.73171 Stray|0.70732 dogs|0.68293 in|0.65854 Moscow|0.63415 Malchik|0.60976 Moscow|0.58537 International|0.56098 House|0.53659 of|0.5122 Music|0.4878 Coat|0.46341 of|0.43902 arms|0.41463 of|0.39024 Moscow|0.36585 2010|0.34146 Moscow|0.31707 Victory|0.29268 Day|0.26829 Parade|0.2439 Lobnoye|0.21951 Mesto|0.19512 1904|0.17073 Moscow|0.14634 tornado|0.12195 Moscow|0.097561 Orphanage|0.073171 Lenin|0.04878 s|0.02439 Mausoleum|0",
+			"previous_weights": " |0 Battle|0.14286 of|0.28571 Moscow|0.42857 Vkhutemas|0.57143 Aleksandr|0.71429 Vasilevsky|0.85714 Laika|1"
+		}
+	}
+}

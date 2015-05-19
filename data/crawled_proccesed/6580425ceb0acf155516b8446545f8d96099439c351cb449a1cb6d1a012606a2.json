@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6580425ceb0acf155516b8446545f8d96099439c351cb449a1cb6d1a012606a2",
+			"url": "https://upload.wikimedia.org/math/a/4/4/a44706ea4ef082b6ebb7c4c573b8b25b.png",
+			"previous": " Consider a set of r independent vectors spanning an r dimensional subspace of the vector space With these we can define a real symmetric matrix",
+			"after": " By the spectral theorem A can be diagonalized to diagonal matrix D by an orthogonal matrix O via",
+			"color": "dim|0.33312 gray|0.33312 dim|0.33312 grey|0.33312 gray|0.22231 grey|0.22231 black|0.14277 dark|0.13909 gray|0.13909 dark|0.13909 grey|0.13909 silver|0.066358 light|0.037141 gray|0.037141 light|0.037141 grey|0.037141 gainsboro|0.029027 white|0.0088566 smoke|0.0088566  ",
+			"after_weights": " By|1 the|0.94118 spectral|0.88235 theorem|0.82353 A|0.76471 can|0.70588 be|0.64706 diagonalized|0.58824 to|0.52941 diagonal|0.47059 matrix|0.41176 D|0.35294 by|0.29412 an|0.23529 orthogonal|0.17647 matrix|0.11765 O|0.058824 via|0",
+			"previous_weights": " Consider|0 a|0.041667 set|0.083333 of|0.125 r|0.16667 independent|0.20833 vectors|0.25 spanning|0.29167 an|0.33333 r|0.375 dimensional|0.41667 subspace|0.45833 of|0.5 the|0.54167 vector|0.58333 space|0.625 With|0.66667 these|0.70833 we|0.75 can|0.79167 define|0.83333 a|0.875 real|0.91667 symmetric|0.95833 matrix|1"
+		}
+	}
+}

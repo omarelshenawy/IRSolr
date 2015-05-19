@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "36b428460b845e143a057d9603b9c4e13dda5918d38ab4a45c53f44d5f1c225b",
+			"url": "https://upload.wikimedia.org/math/2/2/e/22e0e3cb76d5dbe6b6aa05a067ffac82.png",
+			"previous": " Then the evaluation of at point can be evaluated in steps of the algorithm The result is given by  The curve at point t0 can be evaluated with the recurrence relation",
+			"after": " Moreover the B zier curve can be split at point into two curves with respective control points ",
+			"color": "dim|0.35709 gray|0.35709 dim|0.35709 grey|0.35709 gray|0.30645 grey|0.30645 dark|0.18741 gray|0.18741 dark|0.18741 grey|0.18741 silver|0.072595 light|0.033846 gray|0.033846 light|0.033846 grey|0.033846 gainsboro|0.023896 white|0.0049851 smoke|0.0049851  ",
+			"after_weights": " Moreover|1 the|0.94118 B|0.88235 zier|0.82353 curve|0.76471 can|0.70588 be|0.64706 split|0.58824 at|0.52941 point|0.47059 into|0.41176 two|0.35294 curves|0.29412 with|0.23529 respective|0.17647 control|0.11765 points|0.058824 |0",
+			"previous_weights": " Then|0 the|0.032258 evaluation|0.064516 of|0.096774 at|0.12903 point|0.16129 can|0.19355 be|0.22581 evaluated|0.25806 in|0.29032 steps|0.32258 of|0.35484 the|0.3871 algorithm|0.41935 The|0.45161 result|0.48387 is|0.51613 given|0.54839 by|0.58065 |0.6129 The|0.64516 curve|0.67742 at|0.70968 point|0.74194 t0|0.77419 can|0.80645 be|0.83871 evaluated|0.87097 with|0.90323 the|0.93548 recurrence|0.96774 relation|1"
+		}
+	}
+}

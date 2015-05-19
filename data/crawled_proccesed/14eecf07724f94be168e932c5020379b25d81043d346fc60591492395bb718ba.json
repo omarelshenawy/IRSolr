@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14eecf07724f94be168e932c5020379b25d81043d346fc60591492395bb718ba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Feuerwehr.JPG/220px-Feuerwehr.JPG",
+			"previous": " The unimproved airfield remains a phenomenon in military aspects The DHC 4 Caribou served in the U S military in Vietnam designated as the CV 2 landing on rough unimproved airfields where the C 130 workhorse could not operate Earlier the Ju 52 and Fieseler Storch could do the same one example of the latter taking off from the F hrerbunker whilst completely surrounded by Russian troops ",
+			"after": " An airport is an aerodrome certificated for commercial flights ",
+			"color": "gray|0.25479 grey|0.25479 dim|0.23375 gray|0.23375 dim|0.23375 grey|0.23375 dark|0.1693 olive|0.1693 green|0.1693 dark|0.10363 gray|0.10363 dark|0.10363 grey|0.10363 slate|0.074834 gray|0.074834 light|0.041372 slate|0.041372 gray|0.041372 silver|0.024368 dark|0.021851 slate|0.021851 gray|0.021851 olive|0.01144 light|0.01058 gray|0.01058 light|0.01058 grey|0.01058  ",
+			"after_weights": " An|1 airport|0.88889 is|0.77778 an|0.66667 aerodrome|0.55556 certificated|0.44444 for|0.33333 commercial|0.22222 flights|0.11111 |0",
+			"previous_weights": " The|0 unimproved|0.014925 airfield|0.029851 remains|0.044776 a|0.059701 phenomenon|0.074627 in|0.089552 military|0.10448 aspects|0.1194 The|0.13433 DHC|0.14925 4|0.16418 Caribou|0.1791 served|0.19403 in|0.20896 the|0.22388 U|0.23881 S|0.25373 military|0.26866 in|0.28358 Vietnam|0.29851 designated|0.31343 as|0.32836 the|0.34328 CV|0.35821 2|0.37313 landing|0.38806 on|0.40299 rough|0.41791 unimproved|0.43284 airfields|0.44776 where|0.46269 the|0.47761 C|0.49254 130|0.50746 workhorse|0.52239 could|0.53731 not|0.55224 operate|0.56716 Earlier|0.58209 the|0.59701 Ju|0.61194 52|0.62687 and|0.64179 Fieseler|0.65672 Storch|0.67164 could|0.68657 do|0.70149 the|0.71642 same|0.73134 one|0.74627 example|0.76119 of|0.77612 the|0.79104 latter|0.80597 taking|0.8209 off|0.83582 from|0.85075 the|0.86567 F|0.8806 hrerbunker|0.89552 whilst|0.91045 completely|0.92537 surrounded|0.9403 by|0.95522 Russian|0.97015 troops|0.98507 |1"
+		}
+	}
+}

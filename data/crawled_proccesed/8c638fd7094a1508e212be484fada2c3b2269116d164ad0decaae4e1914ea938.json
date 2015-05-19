@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c638fd7094a1508e212be484fada2c3b2269116d164ad0decaae4e1914ea938",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flight_dynamics_with_text.png/200px-Flight_dynamics_with_text.png",
+			"previous": " ",
+			"after": " Flight dynamics is the science of air vehicle orientation and control in three dimensions The three critical flight dynamics parameters are the angles of rotation around three axes about the vehicle s center of mass known as pitch roll and yaw quite different from their use as Tait Bryan angles ",
+			"color": "gray|0.29539 grey|0.29539 dark|0.15951 gray|0.15951 dark|0.15951 grey|0.15951 dim|0.14883 gray|0.14883 dim|0.14883 grey|0.14883 dark|0.12071 magenta|0.12071 purple|0.049221 silver|0.048245 olive|0.041388 firebrick|0.025228 light|0.016016 gray|0.016016 light|0.016016 grey|0.016016 red|0.012785 dark|0.0083858 red|0.0083858 indian|0.0080435 red|0.0080435 gainsboro|0.0079878 light|0.0064117 coral|0.0064117 orchid|0.0061238 brown|0.006063 pale|0.0043385 golden|0.0043385 rod|0.0043385 dark|0.0042233 khaki|0.0042233  ",
+			"after_weights": " Flight|1 dynamics|0.98 is|0.96 the|0.94 science|0.92 of|0.9 air|0.88 vehicle|0.86 orientation|0.84 and|0.82 control|0.8 in|0.78 three|0.76 dimensions|0.74 The|0.72 three|0.7 critical|0.68 flight|0.66 dynamics|0.64 parameters|0.62 are|0.6 the|0.58 angles|0.56 of|0.54 rotation|0.52 around|0.5 three|0.48 axes|0.46 about|0.44 the|0.42 vehicle|0.4 s|0.38 center|0.36 of|0.34 mass|0.32 known|0.3 as|0.28 pitch|0.26 roll|0.24 and|0.22 yaw|0.2 quite|0.18 different|0.16 from|0.14 their|0.12 use|0.1 as|0.08 Tait|0.06 Bryan|0.04 angles|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

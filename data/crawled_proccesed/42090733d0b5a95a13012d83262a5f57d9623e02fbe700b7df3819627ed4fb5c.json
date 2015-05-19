@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42090733d0b5a95a13012d83262a5f57d9623e02fbe700b7df3819627ed4fb5c",
+			"url": "https://upload.wikimedia.org/math/2/e/6/2e65b1d9b73e39136c253b791e6fc443.png",
+			"previous": " Quantum mechanics is another domain where there is a continuity equation related to conservation of probability The terms in the equation require the following definitions and are slightly less obvious than the other examples above so they are outlined here ",
+			"after": " ",
+			"color": "dim|0.3858 gray|0.3858 dim|0.3858 grey|0.3858 gray|0.30751 grey|0.30751 dark|0.19321 gray|0.19321 dark|0.19321 grey|0.19321 silver|0.065501 light|0.022783 gray|0.022783 light|0.022783 grey|0.022783 gainsboro|0.015149  ",
+			"after_weights": " ",
+			"previous_weights": " Quantum|0 mechanics|0.025 is|0.05 another|0.075 domain|0.1 where|0.125 there|0.15 is|0.175 a|0.2 continuity|0.225 equation|0.25 related|0.275 to|0.3 conservation|0.325 of|0.35 probability|0.375 The|0.4 terms|0.425 in|0.45 the|0.475 equation|0.5 require|0.525 the|0.55 following|0.575 definitions|0.6 and|0.625 are|0.65 slightly|0.675 less|0.7 obvious|0.725 than|0.75 the|0.775 other|0.8 examples|0.825 above|0.85 so|0.875 they|0.9 are|0.925 outlined|0.95 here|0.975 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cbb38d5719f7406ad66bc0c0bd86f6bbc5c84a44fc72741bc210028e7110720",
+			"url": "https://upload.wikimedia.org/math/8/2/2/82291d3ac09c2ff5164bb27adb378c6d.png",
+			"previous": " ",
+			"after": " For this reason in functional analysis one defines the spectrum of a linear operator as the set of all scalars for which the operator has no bounded inverse Thus the spectrum of an operator always contains all its eigenvalues but is not limited to them ",
+			"color": "dim|0.35181 gray|0.35181 dim|0.35181 grey|0.35181 gray|0.28344 grey|0.28344 dark|0.17836 gray|0.17836 dark|0.17836 grey|0.17836 silver|0.09112 light|0.047172 gray|0.047172 light|0.047172 grey|0.047172 gainsboro|0.032522 white|0.0038761 smoke|0.0038761  ",
+			"after_weights": " For|1 this|0.97778 reason|0.95556 in|0.93333 functional|0.91111 analysis|0.88889 one|0.86667 defines|0.84444 the|0.82222 spectrum|0.8 of|0.77778 a|0.75556 linear|0.73333 operator|0.71111 as|0.68889 the|0.66667 set|0.64444 of|0.62222 all|0.6 scalars|0.57778 for|0.55556 which|0.53333 the|0.51111 operator|0.48889 has|0.46667 no|0.44444 bounded|0.42222 inverse|0.4 Thus|0.37778 the|0.35556 spectrum|0.33333 of|0.31111 an|0.28889 operator|0.26667 always|0.24444 contains|0.22222 all|0.2 its|0.17778 eigenvalues|0.15556 but|0.13333 is|0.11111 not|0.088889 limited|0.066667 to|0.044444 them|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

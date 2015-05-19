@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "795320797baf4711f43a373bcb4534986b4c33baeb6007530ac6385e2c60160f",
+			"url": "https://upload.wikimedia.org/math/9/3/7/9370e612c32406e6572ed5aead0a2a5f.png",
+			"previous": " A B zier curve of degree n can be converted into a B zier curve of degree n 1 with the same shape This is useful if software supports B zier curves only of specific degree For example systems that can only work with cubic B zier curves can implicitly work with quadratic curves by using their equivalent cubic representation ",
+			"after": " ",
+			"color": "gray|0.32391 grey|0.32391 dim|0.24059 gray|0.24059 dim|0.24059 grey|0.24059 dark|0.23786 gray|0.23786 dark|0.23786 grey|0.23786 silver|0.10213 light|0.05014 gray|0.05014 light|0.05014 grey|0.05014 gainsboro|0.033491 white|0.0032739 smoke|0.0032739  ",
+			"after_weights": " ",
+			"previous_weights": " A|0 B|0.016667 zier|0.033333 curve|0.05 of|0.066667 degree|0.083333 n|0.1 can|0.11667 be|0.13333 converted|0.15 into|0.16667 a|0.18333 B|0.2 zier|0.21667 curve|0.23333 of|0.25 degree|0.26667 n|0.28333 1|0.3 with|0.31667 the|0.33333 same|0.35 shape|0.36667 This|0.38333 is|0.4 useful|0.41667 if|0.43333 software|0.45 supports|0.46667 B|0.48333 zier|0.5 curves|0.51667 only|0.53333 of|0.55 specific|0.56667 degree|0.58333 For|0.6 example|0.61667 systems|0.63333 that|0.65 can|0.66667 only|0.68333 work|0.7 with|0.71667 cubic|0.73333 B|0.75 zier|0.76667 curves|0.78333 can|0.8 implicitly|0.81667 work|0.83333 with|0.85 quadratic|0.86667 curves|0.88333 by|0.9 using|0.91667 their|0.93333 equivalent|0.95 cubic|0.96667 representation|0.98333 |1"
+		}
+	}
+}

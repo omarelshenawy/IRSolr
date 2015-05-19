@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1233ed539e54a0507fa4683b9b0b2e5ac4db7c2fce62eba61dbb301a317637af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/163_North_Street%2C_Brighton_%28IoE_Code_480945%29.jpg/75px-163_North_Street%2C_Brighton_%28IoE_Code_480945%29.jpg",
+			"previous": " Portal Society DYK 1 These Did you know subpages are randomly displayed using Random portal component ",
+			"after": "",
+			"color": "dim|0.448 gray|0.448 dim|0.448 grey|0.448 gray|0.31111 grey|0.31111 black|0.11611 dark|0.097118 gray|0.097118 dark|0.097118 grey|0.097118 silver|0.013116 dark|0.0057662 slate|0.0057662 gray|0.0057662  ",
+			"after_weights": "",
+			"previous_weights": " Portal|0 Society|0.0625 DYK|0.125 1|0.1875 These|0.25 Did|0.3125 you|0.375 know|0.4375 subpages|0.5 are|0.5625 randomly|0.625 displayed|0.6875 using|0.75 Random|0.8125 portal|0.875 component|0.9375 |1"
+		}
+	}
+}

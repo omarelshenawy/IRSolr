@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a6930a28fdfee1d71356df3232d122cc155bffd80ddfdb84e47864366363a23",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/WikiProject_Scouting_fleur-de-lis_dark.svg/25px-WikiProject_Scouting_fleur-de-lis_dark.svg.png",
+			"previous": " ",
+			"after": " Eagle Scout is the highest rank attainable in the Boy Scouting program of the Boy Scouts of America BSA A Scout who attains this rank is called an Eagle Scout or Eagle Since its introduction in 1911 the Eagle Scout rank has been earned by more than two million young men 2 ",
+			"color": "golden|0.54295 rod|0.54295 sea|0.29515 green|0.29515 olive|0.059903 drab|0.059903 medium|0.052149 sea|0.052149 green|0.052149 khaki|0.014088 pale|0.0096044 golden|0.0096044 rod|0.0096044  ",
+			"after_weights": " Eagle|1 Scout|0.98077 is|0.96154 the|0.94231 highest|0.92308 rank|0.90385 attainable|0.88462 in|0.86538 the|0.84615 Boy|0.82692 Scouting|0.80769 program|0.78846 of|0.76923 the|0.75 Boy|0.73077 Scouts|0.71154 of|0.69231 America|0.67308 BSA|0.65385 A|0.63462 Scout|0.61538 who|0.59615 attains|0.57692 this|0.55769 rank|0.53846 is|0.51923 called|0.5 an|0.48077 Eagle|0.46154 Scout|0.44231 or|0.42308 Eagle|0.40385 Since|0.38462 its|0.36538 introduction|0.34615 in|0.32692 1911|0.30769 the|0.28846 Eagle|0.26923 Scout|0.25 rank|0.23077 has|0.21154 been|0.19231 earned|0.17308 by|0.15385 more|0.13462 than|0.11538 two|0.096154 million|0.076923 young|0.057692 men|0.038462 2|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

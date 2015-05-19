@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cd5bfb29d86b74c1aeb0678fe1a99ef9e4346fcfd2d30a32798ce1112ddb1f0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cessna_LC-126C.jpg/220px-Cessna_LC-126C.jpg",
+			"previous": " The difference between the 190 and the 195 models was the engine installed 4 ",
+			"after": " The Cessna 190 and 195 have been popular with private individuals and companies and have also been operated by some air charter companies and small feeder airlines ",
+			"color": "dark|0.28337 slate|0.28337 gray|0.28337 light|0.12065 gray|0.12065 light|0.12065 grey|0.12065 gainsboro|0.11429 dark|0.10442 gray|0.10442 dark|0.10442 grey|0.10442 silver|0.097189 gray|0.090051 grey|0.090051 light|0.057429 slate|0.057429 gray|0.057429 dim|0.049749 gray|0.049749 dim|0.049749 grey|0.049749 slate|0.049288 gray|0.049288 linen|0.010324  ",
+			"after_weights": " The|1 Cessna|0.96296 190|0.92593 and|0.88889 195|0.85185 have|0.81481 been|0.77778 popular|0.74074 with|0.7037 private|0.66667 individuals|0.62963 and|0.59259 companies|0.55556 and|0.51852 have|0.48148 also|0.44444 been|0.40741 operated|0.37037 by|0.33333 some|0.2963 air|0.25926 charter|0.22222 companies|0.18519 and|0.14815 small|0.11111 feeder|0.074074 airlines|0.037037 |0",
+			"previous_weights": " The|0 difference|0.071429 between|0.14286 the|0.21429 190|0.28571 and|0.35714 the|0.42857 195|0.5 models|0.57143 was|0.64286 the|0.71429 engine|0.78571 installed|0.85714 4|0.92857 |1"
+		}
+	}
+}

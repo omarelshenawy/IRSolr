@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47c1a7e97b08ec6d629fb3f9c65714eee01026153d07bddeb5b848292a2ccd86",
+			"url": "https://upload.wikimedia.org/math/5/8/0/580d42c14a54cbffb03a5c8b8ed46f5e.png",
+			"previous": " Fermat s principle states that light takes a path that locally minimizes the optical length between its endpoints If the x coordinate is chosen as the parameter along the path and along the path then the optical length is given by",
+			"after": " where the refractive index depends upon the material If we try then the first variation of A the derivative of A with respect to is",
+			"color": "dim|0.35201 gray|0.35201 dim|0.35201 grey|0.35201 gray|0.28819 grey|0.28819 dark|0.18312 gray|0.18312 dark|0.18312 grey|0.18312 silver|0.079097 light|0.042655 gray|0.042655 light|0.042655 grey|0.042655 gainsboro|0.031302 white|0.0056257 smoke|0.0056257 linen|0.0033632 lavender|0.0030296 blush|0.0030296 alice|0.0029522 blue|0.0029522  ",
+			"after_weights": " where|1 the|0.95833 refractive|0.91667 index|0.875 depends|0.83333 upon|0.79167 the|0.75 material|0.70833 If|0.66667 we|0.625 try|0.58333 then|0.54167 the|0.5 first|0.45833 variation|0.41667 of|0.375 A|0.33333 the|0.29167 derivative|0.25 of|0.20833 A|0.16667 with|0.125 respect|0.083333 to|0.041667 is|0",
+			"previous_weights": " Fermat|0 s|0.025 principle|0.05 states|0.075 that|0.1 light|0.125 takes|0.15 a|0.175 path|0.2 that|0.225 locally|0.25 minimizes|0.275 the|0.3 optical|0.325 length|0.35 between|0.375 its|0.4 endpoints|0.425 If|0.45 the|0.475 x|0.5 coordinate|0.525 is|0.55 chosen|0.575 as|0.6 the|0.625 parameter|0.65 along|0.675 the|0.7 path|0.725 and|0.75 along|0.775 the|0.8 path|0.825 then|0.85 the|0.875 optical|0.9 length|0.925 is|0.95 given|0.975 by|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a1d7aada27379eccc4504a08f6bd0471c177a3a7897b121f317444ebde2de10",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EnglandSouthEast.png/150px-EnglandSouthEast.png",
+			"previous": " ",
+			"after": " South East England is one of the nine official regions of England It was created in 1994 and was adopted for statistics in 1999 Its boundaries include Berkshire Buckinghamshire East Sussex Hampshire Isle of Wight Kent Oxfordshire Surrey and West Sussex ",
+			"color": "pink|0.74785 red|0.1259 rosy|0.070167 brown|0.070167 gray|0.021002 grey|0.021002 dark|0.013203 gray|0.013203 dark|0.013203 grey|0.013203 dim|0.0083117 gray|0.0083117 dim|0.0083117 grey|0.0083117 silver|0.0038961 firebrick|0.0033735 brown|0.0032127  ",
+			"after_weights": " South|1 East|0.97561 England|0.95122 is|0.92683 one|0.90244 of|0.87805 the|0.85366 nine|0.82927 official|0.80488 regions|0.78049 of|0.7561 England|0.73171 It|0.70732 was|0.68293 created|0.65854 in|0.63415 1994|0.60976 and|0.58537 was|0.56098 adopted|0.53659 for|0.5122 statistics|0.4878 in|0.46341 1999|0.43902 Its|0.41463 boundaries|0.39024 include|0.36585 Berkshire|0.34146 Buckinghamshire|0.31707 East|0.29268 Sussex|0.26829 Hampshire|0.2439 Isle|0.21951 of|0.19512 Wight|0.17073 Kent|0.14634 Oxfordshire|0.12195 Surrey|0.097561 and|0.073171 West|0.04878 Sussex|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

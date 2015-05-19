@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d31509d402f4763ca2abf8293b5196adbf54a4aaf387a4b97171eec6a277766",
+			"url": "https://upload.wikimedia.org/math/9/4/b/94b9e902fdc47686630ab8b4ba5efff8.png",
+			"previous": " Substitute V  In the limit as r approaches zero 3 this equation becomes  The total volume is the summation of all shell volumes ",
+			"after": " Differentiating both sides of this equation with respect to r yields A as a function of r  Which is generally abbreviated as  Alternatively the area element on the sphere is given in spherical coordinates by With Cartesian coordinates the area element More generally see area element ",
+			"color": "dim|0.36626 gray|0.36626 dim|0.36626 grey|0.36626 gray|0.29281 grey|0.29281 dark|0.1844 gray|0.1844 dark|0.1844 grey|0.1844 silver|0.077359 light|0.03481 gray|0.03481 light|0.03481 grey|0.03481 gainsboro|0.023881 white|0.0043936 smoke|0.0043936  ",
+			"after_weights": " Differentiating|1 both|0.97917 sides|0.95833 of|0.9375 this|0.91667 equation|0.89583 with|0.875 respect|0.85417 to|0.83333 r|0.8125 yields|0.79167 A|0.77083 as|0.75 a|0.72917 function|0.70833 of|0.6875 r|0.66667 |0.64583 Which|0.625 is|0.60417 generally|0.58333 abbreviated|0.5625 as|0.54167 |0.52083 Alternatively|0.5 the|0.47917 area|0.45833 element|0.4375 on|0.41667 the|0.39583 sphere|0.375 is|0.35417 given|0.33333 in|0.3125 spherical|0.29167 coordinates|0.27083 by|0.25 With|0.22917 Cartesian|0.20833 coordinates|0.1875 the|0.16667 area|0.14583 element|0.125 More|0.10417 generally|0.083333 see|0.0625 area|0.041667 element|0.020833 |0",
+			"previous_weights": " Substitute|0 V|0.04 |0.08 In|0.12 the|0.16 limit|0.2 as|0.24 r|0.28 approaches|0.32 zero|0.36 3|0.4 this|0.44 equation|0.48 becomes|0.52 |0.56 The|0.6 total|0.64 volume|0.68 is|0.72 the|0.76 summation|0.8 of|0.84 all|0.88 shell|0.92 volumes|0.96 |1"
+		}
+	}
+}

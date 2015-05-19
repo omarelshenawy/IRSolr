@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97855abb13a77c940f004957b2b5c6fc35f14cff9f6b18e1c977107e5153d713",
+			"url": "https://upload.wikimedia.org/math/6/8/0/680459a9c05d2f9ebbc190cc0b8b1d02.png",
+			"previous": " In the example of the 3 3 cyclic permutation matrix above the characteristic polynomial has two additional non real roots namely The non real roots of a real polynomial with real coefficients can be grouped into pairs of complex conjugate values namely with the two members of each pair having the same real part and imaginary parts that differ only in sign If the degree is odd then by the intermediate value theorem at least one of the roots will be real Therefore any real matrix with odd order will have at least one real eigenvalue whereas a real matrix with even order may have no real eigenvalues ",
+			"after": " where is the imaginary unit Note that and Then",
+			"color": "dim|0.39289 gray|0.39289 dim|0.39289 grey|0.39289 gray|0.30202 grey|0.30202 dark|0.16909 gray|0.16909 dark|0.16909 grey|0.16909 silver|0.068478 light|0.03318 gray|0.03318 light|0.03318 grey|0.03318 gainsboro|0.023157 white|0.0030661 smoke|0.0030661  ",
+			"after_weights": " where|1 is|0.875 the|0.75 imaginary|0.625 unit|0.5 Note|0.375 that|0.25 and|0.125 Then|0",
+			"previous_weights": " In|0 the|0.0092593 example|0.018519 of|0.027778 the|0.037037 3|0.046296 3|0.055556 cyclic|0.064815 permutation|0.074074 matrix|0.083333 above|0.092593 the|0.10185 characteristic|0.11111 polynomial|0.12037 has|0.12963 two|0.13889 additional|0.14815 non|0.15741 real|0.16667 roots|0.17593 namely|0.18519 The|0.19444 non|0.2037 real|0.21296 roots|0.22222 of|0.23148 a|0.24074 real|0.25 polynomial|0.25926 with|0.26852 real|0.27778 coefficients|0.28704 can|0.2963 be|0.30556 grouped|0.31481 into|0.32407 pairs|0.33333 of|0.34259 complex|0.35185 conjugate|0.36111 values|0.37037 namely|0.37963 with|0.38889 the|0.39815 two|0.40741 members|0.41667 of|0.42593 each|0.43519 pair|0.44444 having|0.4537 the|0.46296 same|0.47222 real|0.48148 part|0.49074 and|0.5 imaginary|0.50926 parts|0.51852 that|0.52778 differ|0.53704 only|0.5463 in|0.55556 sign|0.56481 If|0.57407 the|0.58333 degree|0.59259 is|0.60185 odd|0.61111 then|0.62037 by|0.62963 the|0.63889 intermediate|0.64815 value|0.65741 theorem|0.66667 at|0.67593 least|0.68519 one|0.69444 of|0.7037 the|0.71296 roots|0.72222 will|0.73148 be|0.74074 real|0.75 Therefore|0.75926 any|0.76852 real|0.77778 matrix|0.78704 with|0.7963 odd|0.80556 order|0.81481 will|0.82407 have|0.83333 at|0.84259 least|0.85185 one|0.86111 real|0.87037 eigenvalue|0.87963 whereas|0.88889 a|0.89815 real|0.90741 matrix|0.91667 with|0.92593 even|0.93519 order|0.94444 may|0.9537 have|0.96296 no|0.97222 real|0.98148 eigenvalues|0.99074 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fb7ce44ba8005d59f6b47327e0249e859815b6d672cf47e38e06aa67ae13109",
+			"url": "https://upload.wikimedia.org/math/3/c/c/3cc24f798ceeb66ccf9a098317c60dd3.png",
+			"previous": " ",
+			"after": " This equation does not satisfy the no slip condition at the wall Like Prandtl did for his boundary layer equations a new smaller length scale must be used to allow the viscous term to become leading order in the momentum equation By choosing as the y scale the leading order momentum equation for this inner boundary layer is given by ",
+			"color": "dim|0.32451 gray|0.32451 dim|0.32451 grey|0.32451 gray|0.31465 grey|0.31465 dark|0.19725 gray|0.19725 dark|0.19725 grey|0.19725 silver|0.077986 light|0.036819 gray|0.036819 light|0.036819 grey|0.036819 gainsboro|0.025622 white|0.0052782 smoke|0.0052782 linen|0.0028543 lavender|0.0025803 blush|0.0025803  ",
+			"after_weights": " This|1 equation|0.98333 does|0.96667 not|0.95 satisfy|0.93333 the|0.91667 no|0.9 slip|0.88333 condition|0.86667 at|0.85 the|0.83333 wall|0.81667 Like|0.8 Prandtl|0.78333 did|0.76667 for|0.75 his|0.73333 boundary|0.71667 layer|0.7 equations|0.68333 a|0.66667 new|0.65 smaller|0.63333 length|0.61667 scale|0.6 must|0.58333 be|0.56667 used|0.55 to|0.53333 allow|0.51667 the|0.5 viscous|0.48333 term|0.46667 to|0.45 become|0.43333 leading|0.41667 order|0.4 in|0.38333 the|0.36667 momentum|0.35 equation|0.33333 By|0.31667 choosing|0.3 as|0.28333 the|0.26667 y|0.25 scale|0.23333 the|0.21667 leading|0.2 order|0.18333 momentum|0.16667 equation|0.15 for|0.13333 this|0.11667 inner|0.1 boundary|0.083333 layer|0.066667 is|0.05 given|0.033333 by|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f903b01ad6e7e2b9d83cfd1d628990b67f13e5eb0d18edb5ec6dc8a58b757db",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Map_Tenerife_Disaster_EN.svg/220px-Map_Tenerife_Disaster_EN.svg.png",
+			"previous": " ",
+			"after": " Pilot error sometimes called cockpit error is a decision action or inaction by a pilot of an aircraft determined to be a cause or contributing factor in an accident or incident Pilot error can be a mistake oversight lapse in judgment or failure to exercise due diligence by pilots during the performance of their duties ",
+			"color": "gray|0.25696 grey|0.25696 black|0.24106 dim|0.061859 gray|0.061859 dim|0.061859 grey|0.061859 dark|0.053116 gray|0.053116 dark|0.053116 grey|0.053116 silver|0.034346 dark|0.028214 slate|0.028214 gray|0.028214 light|0.027975 gray|0.027975 light|0.027975 grey|0.027975 white|0.027357 smoke|0.027357 white|0.026323 snow|0.026241 ghost|0.025868 white|0.025868 alice|0.025798 blue|0.025798 sea|0.025752 shell|0.025752 mint|0.024054 cream|0.024054 floral|0.022454 white|0.022454 lavender|0.022229 blush|0.022229 azure|0.021365 gainsboro|0.020594 navy|0.0071782 linen|0.0051008 ivory|0.0036593  ",
+			"after_weights": " Pilot|1 error|0.98182 sometimes|0.96364 called|0.94545 cockpit|0.92727 error|0.90909 is|0.89091 a|0.87273 decision|0.85455 action|0.83636 or|0.81818 inaction|0.8 by|0.78182 a|0.76364 pilot|0.74545 of|0.72727 an|0.70909 aircraft|0.69091 determined|0.67273 to|0.65455 be|0.63636 a|0.61818 cause|0.6 or|0.58182 contributing|0.56364 factor|0.54545 in|0.52727 an|0.50909 accident|0.49091 or|0.47273 incident|0.45455 Pilot|0.43636 error|0.41818 can|0.4 be|0.38182 a|0.36364 mistake|0.34545 oversight|0.32727 lapse|0.30909 in|0.29091 judgment|0.27273 or|0.25455 failure|0.23636 to|0.21818 exercise|0.2 due|0.18182 diligence|0.16364 by|0.14545 pilots|0.12727 during|0.10909 the|0.090909 performance|0.072727 of|0.054545 their|0.036364 duties|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

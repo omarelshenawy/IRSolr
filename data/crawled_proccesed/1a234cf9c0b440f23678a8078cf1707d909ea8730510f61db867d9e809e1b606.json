@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a234cf9c0b440f23678a8078cf1707d909ea8730510f61db867d9e809e1b606",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/150px-Wireshark_icon.svg.png",
+			"previous": " ",
+			"after": " Wireshark is a free packet sniffer computer application It is used for network troubleshooting analysis software and communications protocol development and education In June 2006 the project was renamed from Ethereal due to trademark issues ",
+			"color": "steel|0.9089 blue|0.9089 light|0.038543 steel|0.038543 blue|0.038543 light|0.022559 blue|0.022559 sky|0.014275 blue|0.014275 silver|0.0073106 deep|0.0056451 sky|0.0056451 blue|0.0056451  ",
+			"after_weights": " Wireshark|1 is|0.97143 a|0.94286 free|0.91429 packet|0.88571 sniffer|0.85714 computer|0.82857 application|0.8 It|0.77143 is|0.74286 used|0.71429 for|0.68571 network|0.65714 troubleshooting|0.62857 analysis|0.6 software|0.57143 and|0.54286 communications|0.51429 protocol|0.48571 development|0.45714 and|0.42857 education|0.4 In|0.37143 June|0.34286 2006|0.31429 the|0.28571 project|0.25714 was|0.22857 renamed|0.2 from|0.17143 Ethereal|0.14286 due|0.11429 to|0.085714 trademark|0.057143 issues|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

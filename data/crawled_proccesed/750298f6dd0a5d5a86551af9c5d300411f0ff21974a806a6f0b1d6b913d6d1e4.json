@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "750298f6dd0a5d5a86551af9c5d300411f0ff21974a806a6f0b1d6b913d6d1e4",
+			"url": "https://upload.wikimedia.org/math/3/0/b/30b830ad4a100723381248b238199690.png",
+			"previous": " For a point x1 x2 xn and a point y1 y2 yn the Minkowski distance of order p p norm distance is defined as ",
+			"after": " p need not be an integer but it cannot be less than 1 because otherwise the triangle inequality does not hold ",
+			"color": "dim|0.28993 gray|0.28993 dim|0.28993 grey|0.28993 gray|0.27566 grey|0.27566 dark|0.21699 gray|0.21699 dark|0.21699 grey|0.21699 silver|0.11309 light|0.050295 gray|0.050295 light|0.050295 grey|0.050295 gainsboro|0.038945 white|0.0039471 smoke|0.0039471  ",
+			"after_weights": " p|1 need|0.95238 not|0.90476 be|0.85714 an|0.80952 integer|0.7619 but|0.71429 it|0.66667 cannot|0.61905 be|0.57143 less|0.52381 than|0.47619 1|0.42857 because|0.38095 otherwise|0.33333 the|0.28571 triangle|0.2381 inequality|0.19048 does|0.14286 not|0.095238 hold|0.047619 |0",
+			"previous_weights": " For|0 a|0.041667 point|0.083333 x1|0.125 x2|0.16667 xn|0.20833 and|0.25 a|0.29167 point|0.33333 y1|0.375 y2|0.41667 yn|0.45833 the|0.5 Minkowski|0.54167 distance|0.58333 of|0.625 order|0.66667 p|0.70833 p|0.75 norm|0.79167 distance|0.83333 is|0.875 defined|0.91667 as|0.95833 |1"
+		}
+	}
+}

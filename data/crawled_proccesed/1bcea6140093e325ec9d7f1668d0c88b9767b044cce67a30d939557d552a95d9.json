@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bcea6140093e325ec9d7f1668d0c88b9767b044cce67a30d939557d552a95d9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Featured_article_star_-_cross.svg/50px-Featured_article_star_-_cross.svg.png",
+			"previous": " Former featured articles",
+			"after": " This page lists articles that used to be featured articles but were demoted because they do not meet current featured article criteria Featured articles can only be demoted through a consensus derived through discussion at the Featured article review page The removal discussions for the former featured articles listed below can be found in the featured article review archive ",
+			"color": "dark|0.25887 red|0.25887 firebrick|0.15584 dim|0.10658 gray|0.10658 dim|0.10658 grey|0.10658 rosy|0.098093 brown|0.098093 brown|0.087484 indian|0.065683 red|0.065683 gray|0.061541 grey|0.061541 maroon|0.040517 dark|0.028167 gray|0.028167 dark|0.028167 grey|0.028167 black|0.018665 dark|0.017448 khaki|0.017448 light|0.013948 coral|0.013948 silver|0.010212  ",
+			"after_weights": " This|1 page|0.98305 lists|0.9661 articles|0.94915 that|0.9322 used|0.91525 to|0.89831 be|0.88136 featured|0.86441 articles|0.84746 but|0.83051 were|0.81356 demoted|0.79661 because|0.77966 they|0.76271 do|0.74576 not|0.72881 meet|0.71186 current|0.69492 featured|0.67797 article|0.66102 criteria|0.64407 Featured|0.62712 articles|0.61017 can|0.59322 only|0.57627 be|0.55932 demoted|0.54237 through|0.52542 a|0.50847 consensus|0.49153 derived|0.47458 through|0.45763 discussion|0.44068 at|0.42373 the|0.40678 Featured|0.38983 article|0.37288 review|0.35593 page|0.33898 The|0.32203 removal|0.30508 discussions|0.28814 for|0.27119 the|0.25424 former|0.23729 featured|0.22034 articles|0.20339 listed|0.18644 below|0.16949 can|0.15254 be|0.13559 found|0.11864 in|0.10169 the|0.084746 featured|0.067797 article|0.050847 review|0.033898 archive|0.016949 |0",
+			"previous_weights": " Former|0 featured|0.5 articles|1"
+		}
+	}
+}

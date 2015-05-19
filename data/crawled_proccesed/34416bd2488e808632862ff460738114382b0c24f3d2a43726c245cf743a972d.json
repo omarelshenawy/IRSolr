@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "34416bd2488e808632862ff460738114382b0c24f3d2a43726c245cf743a972d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/British_3rd_Infantry_Division2.svg/22px-British_3rd_Infantry_Division2.svg.png",
+			"previous": " Currently the British Army has two active divisions ",
+			"after": " The British Army previously had four other infantry divisions These are now disbanded and were placed under one single two star command Support Command ",
+			"color": "black|0.7167 red|0.21554 dark|0.022826 red|0.022826 maroon|0.022653 dim|0.0057436 gray|0.0057436 dim|0.0057436 grey|0.0057436 gray|0.0048172 grey|0.0048172 dark|0.0035285 gray|0.0035285 dark|0.0035285 grey|0.0035285  ",
+			"after_weights": " The|1 British|0.95833 Army|0.91667 previously|0.875 had|0.83333 four|0.79167 other|0.75 infantry|0.70833 divisions|0.66667 These|0.625 are|0.58333 now|0.54167 disbanded|0.5 and|0.45833 were|0.41667 placed|0.375 under|0.33333 one|0.29167 single|0.25 two|0.20833 star|0.16667 command|0.125 Support|0.083333 Command|0.041667 |0",
+			"previous_weights": " Currently|0 the|0.125 British|0.25 Army|0.375 has|0.5 two|0.625 active|0.75 divisions|0.875 |1"
+		}
+	}
+}

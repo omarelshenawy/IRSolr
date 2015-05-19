@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d3c8fae4a0d7a8f9e577a58a8e87943067e6b09c95aedc4868328e3478e8eea",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Divergerende_diamantaansluiting.png/100px-Divergerende_diamantaansluiting.png",
+			"previous": " ",
+			"after": " A diverging diamond interchange DDI or double crossover diamond interchange DCD is similar to a traditional diamond interchange except the non highway lanes cross each other twice once on each side of the highway This allows all highway entrances and exits to avoid crossing the opposite direction of travel and saves one signal phase of traffic lights each ",
+			"color": "alice|0.10306 blue|0.10306 light|0.088851 steel|0.088851 blue|0.088851 ghost|0.0842 white|0.0842 white|0.077904 smoke|0.077904 snow|0.07653 sea|0.067907 shell|0.067907 white|0.064151 mint|0.063622 cream|0.063622 floral|0.063419 white|0.063419 azure|0.063366 lavender|0.055809 blush|0.055809 gainsboro|0.052347 lavender|0.040169 light|0.021367 gray|0.021367 light|0.021367 grey|0.021367 ivory|0.021068 linen|0.01398 silver|0.0072843 rosy|0.0068045 brown|0.0068045 dark|0.0062811 gray|0.0062811 dark|0.0062811 grey|0.0062811 sea|0.0041874 green|0.0041874 royal|0.0034023 blue|0.0034023  ",
+			"after_weights": " A|1 diverging|0.98276 diamond|0.96552 interchange|0.94828 DDI|0.93103 or|0.91379 double|0.89655 crossover|0.87931 diamond|0.86207 interchange|0.84483 DCD|0.82759 is|0.81034 similar|0.7931 to|0.77586 a|0.75862 traditional|0.74138 diamond|0.72414 interchange|0.7069 except|0.68966 the|0.67241 non|0.65517 highway|0.63793 lanes|0.62069 cross|0.60345 each|0.58621 other|0.56897 twice|0.55172 once|0.53448 on|0.51724 each|0.5 side|0.48276 of|0.46552 the|0.44828 highway|0.43103 This|0.41379 allows|0.39655 all|0.37931 highway|0.36207 entrances|0.34483 and|0.32759 exits|0.31034 to|0.2931 avoid|0.27586 crossing|0.25862 the|0.24138 opposite|0.22414 direction|0.2069 of|0.18966 travel|0.17241 and|0.15517 saves|0.13793 one|0.12069 signal|0.10345 phase|0.086207 of|0.068966 traffic|0.051724 lights|0.034483 each|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

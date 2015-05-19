@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48bc3b3b47756acb5d5735016ea52ef367bf66699fff5c7d3a520ffd3063f5b9",
+			"url": "https://upload.wikimedia.org/math/5/3/0/530f393ce6badab9f57559b97da06537.png",
+			"previous": " The constant 63 025 is the approximation of When torque is in inch pounds ",
+			"after": " If torque and rotational speed are expressed in coherent SI units the power is calculated by  where is power in watts when is torque in newton metres and is angular speed in radians per second When using other units or if the speed is in revolutions per unit time rather than radians a conversion factor has to be included ",
+			"color": "dim|0.37968 gray|0.37968 dim|0.37968 grey|0.37968 gray|0.31899 grey|0.31899 dark|0.17032 gray|0.17032 dark|0.17032 grey|0.17032 silver|0.064342 light|0.029346 gray|0.029346 light|0.029346 grey|0.029346 gainsboro|0.020037 white|0.0038306 smoke|0.0038306  ",
+			"after_weights": " If|1 torque|0.98333 and|0.96667 rotational|0.95 speed|0.93333 are|0.91667 expressed|0.9 in|0.88333 coherent|0.86667 SI|0.85 units|0.83333 the|0.81667 power|0.8 is|0.78333 calculated|0.76667 by|0.75 |0.73333 where|0.71667 is|0.7 power|0.68333 in|0.66667 watts|0.65 when|0.63333 is|0.61667 torque|0.6 in|0.58333 newton|0.56667 metres|0.55 and|0.53333 is|0.51667 angular|0.5 speed|0.48333 in|0.46667 radians|0.45 per|0.43333 second|0.41667 When|0.4 using|0.38333 other|0.36667 units|0.35 or|0.33333 if|0.31667 the|0.3 speed|0.28333 is|0.26667 in|0.25 revolutions|0.23333 per|0.21667 unit|0.2 time|0.18333 rather|0.16667 than|0.15 radians|0.13333 a|0.11667 conversion|0.1 factor|0.083333 has|0.066667 to|0.05 be|0.033333 included|0.016667 |0",
+			"previous_weights": " The|0 constant|0.071429 63|0.14286 025|0.21429 is|0.28571 the|0.35714 approximation|0.42857 of|0.5 When|0.57143 torque|0.64286 is|0.71429 in|0.78571 inch|0.85714 pounds|0.92857 |1"
+		}
+	}
+}

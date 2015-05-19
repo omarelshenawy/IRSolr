@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a8e74013a0927c39b2a260454d97f76eaf685625a0bbbb94fa0e331a337852b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Roy_welensky.jpg/150px-Roy_welensky.jpg",
+			"previous": " Portal History Featured biography 11",
+			"after": " Becoming Prime Minister of the Federation in 1957 Welensky opposed British moves towards native African rule and used force to suppress politically motivated violence in the territories After the advent of African rule in two of the Federation s three territories Northern Rhodesia and Nyasaland now Zambia and Malawi respectively it collapsed in 1963 Welensky retired to Salisbury where he re entered politics and attempted to stop Rhodesia formerly Southern Rhodesia from unilaterally declaring itself independent With the end of white rule in 1979 and the independence of Rhodesia as Zimbabwe under Robert Mugabe in 1980 Welensky moved to England where he died in 1991 ",
+			"color": " ",
+			"after_weights": " Becoming|1 Prime|0.99048 Minister|0.98095 of|0.97143 the|0.9619 Federation|0.95238 in|0.94286 1957|0.93333 Welensky|0.92381 opposed|0.91429 British|0.90476 moves|0.89524 towards|0.88571 native|0.87619 African|0.86667 rule|0.85714 and|0.84762 used|0.8381 force|0.82857 to|0.81905 suppress|0.80952 politically|0.8 motivated|0.79048 violence|0.78095 in|0.77143 the|0.7619 territories|0.75238 After|0.74286 the|0.73333 advent|0.72381 of|0.71429 African|0.70476 rule|0.69524 in|0.68571 two|0.67619 of|0.66667 the|0.65714 Federation|0.64762 s|0.6381 three|0.62857 territories|0.61905 Northern|0.60952 Rhodesia|0.6 and|0.59048 Nyasaland|0.58095 now|0.57143 Zambia|0.5619 and|0.55238 Malawi|0.54286 respectively|0.53333 it|0.52381 collapsed|0.51429 in|0.50476 1963|0.49524 Welensky|0.48571 retired|0.47619 to|0.46667 Salisbury|0.45714 where|0.44762 he|0.4381 re|0.42857 entered|0.41905 politics|0.40952 and|0.4 attempted|0.39048 to|0.38095 stop|0.37143 Rhodesia|0.3619 formerly|0.35238 Southern|0.34286 Rhodesia|0.33333 from|0.32381 unilaterally|0.31429 declaring|0.30476 itself|0.29524 independent|0.28571 With|0.27619 the|0.26667 end|0.25714 of|0.24762 white|0.2381 rule|0.22857 in|0.21905 1979|0.20952 and|0.2 the|0.19048 independence|0.18095 of|0.17143 Rhodesia|0.1619 as|0.15238 Zimbabwe|0.14286 under|0.13333 Robert|0.12381 Mugabe|0.11429 in|0.10476 1980|0.095238 Welensky|0.085714 moved|0.07619 to|0.066667 England|0.057143 where|0.047619 he|0.038095 died|0.028571 in|0.019048 1991|0.0095238 |0",
+			"previous_weights": " Portal|0 History|0.25 Featured|0.5 biography|0.75 11|1"
+		}
+	}
+}

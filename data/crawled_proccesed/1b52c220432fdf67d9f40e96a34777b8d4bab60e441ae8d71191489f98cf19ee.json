@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b52c220432fdf67d9f40e96a34777b8d4bab60e441ae8d71191489f98cf19ee",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/16px-Flag_of_Germany.svg.png",
+			"previous": " Related portals Schleswig Holstein Schleswig Holstein Parliament North Sea Baltic Sea Coast Guard Quick start",
+			"after": " Related portals Portal Hamburg Portal Germany Portal Denmark Related portals Portal Hamburg Portal Germany Portal Denmark",
+			"color": "gold|0.77 dark|0.065 red|0.065 dark|0.055 orange|0.055 orange|0.055 orange|0.03 red|0.03 maroon|0.025  ",
+			"after_weights": " Related|1 portals|0.93333 Portal|0.86667 Hamburg|0.8 Portal|0.73333 Germany|0.66667 Portal|0.6 Denmark|0.53333 Related|0.46667 portals|0.4 Portal|0.33333 Hamburg|0.26667 Portal|0.2 Germany|0.13333 Portal|0.066667 Denmark|0",
+			"previous_weights": " Related|0 portals|0.071429 Schleswig|0.14286 Holstein|0.21429 Schleswig|0.28571 Holstein|0.35714 Parliament|0.42857 North|0.5 Sea|0.57143 Baltic|0.64286 Sea|0.71429 Coast|0.78571 Guard|0.85714 Quick|0.92857 start|1"
+		}
+	}
+}

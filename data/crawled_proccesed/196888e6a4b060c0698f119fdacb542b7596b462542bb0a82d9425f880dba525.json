@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "196888e6a4b060c0698f119fdacb542b7596b462542bb0a82d9425f880dba525",
+			"url": "https://upload.wikimedia.org/math/9/0/4/904bf55387e407c1969aa9035e0efa3d.png",
+			"previous": " There is another way to estimate the area of this same sliver As shown in the accompanying figure h is multiplied by f x to find the area of a rectangle that is approximately the same size as this sliver So ",
+			"after": " In fact this estimate becomes a perfect equality if we add the red portion of the excess area shown in the diagram So ",
+			"color": "dim|0.33432 gray|0.33432 dim|0.33432 grey|0.33432 gray|0.30257 grey|0.30257 dark|0.18663 gray|0.18663 dark|0.18663 grey|0.18663 silver|0.083303 light|0.043233 gray|0.043233 light|0.043233 grey|0.043233 gainsboro|0.031094 white|0.0050354 smoke|0.0050354  ",
+			"after_weights": " In|1 fact|0.95652 this|0.91304 estimate|0.86957 becomes|0.82609 a|0.78261 perfect|0.73913 equality|0.69565 if|0.65217 we|0.6087 add|0.56522 the|0.52174 red|0.47826 portion|0.43478 of|0.3913 the|0.34783 excess|0.30435 area|0.26087 shown|0.21739 in|0.17391 the|0.13043 diagram|0.086957 So|0.043478 |0",
+			"previous_weights": " There|0 is|0.02439 another|0.04878 way|0.073171 to|0.097561 estimate|0.12195 the|0.14634 area|0.17073 of|0.19512 this|0.21951 same|0.2439 sliver|0.26829 As|0.29268 shown|0.31707 in|0.34146 the|0.36585 accompanying|0.39024 figure|0.41463 h|0.43902 is|0.46341 multiplied|0.4878 by|0.5122 f|0.53659 x|0.56098 to|0.58537 find|0.60976 the|0.63415 area|0.65854 of|0.68293 a|0.70732 rectangle|0.73171 that|0.7561 is|0.78049 approximately|0.80488 the|0.82927 same|0.85366 size|0.87805 as|0.90244 this|0.92683 sliver|0.95122 So|0.97561 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "79c8ad986099bcb7bab43c5e96d639b177545150978036bf4f59a19f783da1ca",
+			"url": "https://upload.wikimedia.org/math/2/2/0/220a07ebbda1f123bb92e376de6c6d95.png",
+			"previous": " We can use this functional equation to prove that g given by Let us now assume that n 0 and p z a0 a1z anzn 0 for each complex number z Let us define p z znp 1 z a0zn a1zn 1 an Obviously p z 0 for all z in C Consider the polynomial f z p z p z Then f z 0 for each z in C Furthermore ",
+			"after": " for w in C and for w S2 0 is a well defined Riemannian metric over the sphere S2 which we identify with the extended complex plane C ",
+			"color": "black|0.26013 dim|0.25214 gray|0.25214 dim|0.25214 grey|0.25214 gray|0.18879 grey|0.18879 dark|0.14391 gray|0.14391 dark|0.14391 grey|0.14391 silver|0.076908 light|0.038828 gray|0.038828 light|0.038828 grey|0.038828 gainsboro|0.029117  ",
+			"after_weights": " for|1 w|0.96429 in|0.92857 C|0.89286 and|0.85714 for|0.82143 w|0.78571 S2|0.75 0|0.71429 is|0.67857 a|0.64286 well|0.60714 defined|0.57143 Riemannian|0.53571 metric|0.5 over|0.46429 the|0.42857 sphere|0.39286 S2|0.35714 which|0.32143 we|0.28571 identify|0.25 with|0.21429 the|0.17857 extended|0.14286 complex|0.10714 plane|0.071429 C|0.035714 |0",
+			"previous_weights": " We|0 can|0.014085 use|0.028169 this|0.042254 functional|0.056338 equation|0.070423 to|0.084507 prove|0.098592 that|0.11268 g|0.12676 given|0.14085 by|0.15493 Let|0.16901 us|0.1831 now|0.19718 assume|0.21127 that|0.22535 n|0.23944 0|0.25352 and|0.26761 p|0.28169 z|0.29577 a0|0.30986 a1z|0.32394 anzn|0.33803 0|0.35211 for|0.3662 each|0.38028 complex|0.39437 number|0.40845 z|0.42254 Let|0.43662 us|0.4507 define|0.46479 p|0.47887 z|0.49296 znp|0.50704 1|0.52113 z|0.53521 a0zn|0.5493 a1zn|0.56338 1|0.57746 an|0.59155 Obviously|0.60563 p|0.61972 z|0.6338 0|0.64789 for|0.66197 all|0.67606 z|0.69014 in|0.70423 C|0.71831 Consider|0.73239 the|0.74648 polynomial|0.76056 f|0.77465 z|0.78873 p|0.80282 z|0.8169 p|0.83099 z|0.84507 Then|0.85915 f|0.87324 z|0.88732 0|0.90141 for|0.91549 each|0.92958 z|0.94366 in|0.95775 C|0.97183 Furthermore|0.98592 |1"
+		}
+	}
+}

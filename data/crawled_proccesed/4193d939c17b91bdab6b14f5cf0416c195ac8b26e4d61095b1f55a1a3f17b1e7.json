@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4193d939c17b91bdab6b14f5cf0416c195ac8b26e4d61095b1f55a1a3f17b1e7",
+			"url": "https://upload.wikimedia.org/math/5/4/1/541989ed023b2d307af74fc1c8fc73ff.png",
+			"previous": " The rate of flow of fuel entering the engine is very small compared with the rate of flow of air 25 If the contribution of fuel to the nozzle gross thrust is ignored the net thrust is ",
+			"after": " The velocity of the jet ve must exceed the true airspeed of the aircraft v if there is to be a net forward thrust on the aircraft The velocity ve can be calculated thermodynamically based on adiabatic expansion 26 ",
+			"color": "dim|0.40555 gray|0.40555 dim|0.40555 grey|0.40555 gray|0.25683 grey|0.25683 dark|0.15812 gray|0.15812 dark|0.15812 grey|0.15812 silver|0.069692 black|0.037492 light|0.034401 gray|0.034401 light|0.034401 grey|0.034401 gainsboro|0.02359  ",
+			"after_weights": " The|1 velocity|0.97436 of|0.94872 the|0.92308 jet|0.89744 ve|0.87179 must|0.84615 exceed|0.82051 the|0.79487 true|0.76923 airspeed|0.74359 of|0.71795 the|0.69231 aircraft|0.66667 v|0.64103 if|0.61538 there|0.58974 is|0.5641 to|0.53846 be|0.51282 a|0.48718 net|0.46154 forward|0.4359 thrust|0.41026 on|0.38462 the|0.35897 aircraft|0.33333 The|0.30769 velocity|0.28205 ve|0.25641 can|0.23077 be|0.20513 calculated|0.17949 thermodynamically|0.15385 based|0.12821 on|0.10256 adiabatic|0.076923 expansion|0.051282 26|0.025641 |0",
+			"previous_weights": " The|0 rate|0.027027 of|0.054054 flow|0.081081 of|0.10811 fuel|0.13514 entering|0.16216 the|0.18919 engine|0.21622 is|0.24324 very|0.27027 small|0.2973 compared|0.32432 with|0.35135 the|0.37838 rate|0.40541 of|0.43243 flow|0.45946 of|0.48649 air|0.51351 25|0.54054 If|0.56757 the|0.59459 contribution|0.62162 of|0.64865 fuel|0.67568 to|0.7027 the|0.72973 nozzle|0.75676 gross|0.78378 thrust|0.81081 is|0.83784 ignored|0.86486 the|0.89189 net|0.91892 thrust|0.94595 is|0.97297 |1"
+		}
+	}
+}

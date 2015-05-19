@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bf67817d33c513b10f782748ea6123473b8705d084a25a6d18d7673807734b4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mobile_lounge_Washington_Dulles_Airport_2010.jpg/220px-Mobile_lounge_Washington_Dulles_Airport_2010.jpg",
+			"previous": " ",
+			"after": "  discuss  The airport s terminal complex consists of a main terminal and two midfield terminal buildings Concourses A B and C D The entire terminal complex has 123 gates and 16 hardstand locations 34 from which passengers can board or disembark using the airport s plane mate vehicles 3 ",
+			"color": "black|0.21629 silver|0.18612 dark|0.17175 gray|0.17175 dark|0.17175 grey|0.17175 dim|0.14794 gray|0.14794 dim|0.14794 grey|0.14794 light|0.12867 gray|0.12867 light|0.12867 grey|0.12867 gainsboro|0.071917 gray|0.046275 grey|0.046275 dark|0.017521 slate|0.017521 gray|0.017521  ",
+			"after_weights": " |1 discuss|0.98039 |0.96078 The|0.94118 airport|0.92157 s|0.90196 terminal|0.88235 complex|0.86275 consists|0.84314 of|0.82353 a|0.80392 main|0.78431 terminal|0.76471 and|0.7451 two|0.72549 midfield|0.70588 terminal|0.68627 buildings|0.66667 Concourses|0.64706 A|0.62745 B|0.60784 and|0.58824 C|0.56863 D|0.54902 The|0.52941 entire|0.5098 terminal|0.4902 complex|0.47059 has|0.45098 123|0.43137 gates|0.41176 and|0.39216 16|0.37255 hardstand|0.35294 locations|0.33333 34|0.31373 from|0.29412 which|0.27451 passengers|0.2549 can|0.23529 board|0.21569 or|0.19608 disembark|0.17647 using|0.15686 the|0.13725 airport|0.11765 s|0.098039 plane|0.078431 mate|0.058824 vehicles|0.039216 3|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

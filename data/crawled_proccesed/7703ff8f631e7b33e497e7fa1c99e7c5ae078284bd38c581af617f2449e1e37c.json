@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7703ff8f631e7b33e497e7fa1c99e7c5ae078284bd38c581af617f2449e1e37c",
+			"url": "https://upload.wikimedia.org/math/6/a/1/6a1b45e554e2c5efc0fbe08e8f1e9dc3.png",
+			"previous": " where Delambre in 1799 9 derived a widely used expansion on the eccentricity squared ",
+			"after": " Rapp 10 gives a detailed derivation of this result  Series with considerably faster convergence can be obtained by expanding in terms of the third flattening instead of the eccentricity They are related by",
+			"color": " ",
+			"after_weights": " Rapp|1 10|0.9697 gives|0.93939 a|0.90909 detailed|0.87879 derivation|0.84848 of|0.81818 this|0.78788 result|0.75758 |0.72727 Series|0.69697 with|0.66667 considerably|0.63636 faster|0.60606 convergence|0.57576 can|0.54545 be|0.51515 obtained|0.48485 by|0.45455 expanding|0.42424 in|0.39394 terms|0.36364 of|0.33333 the|0.30303 third|0.27273 flattening|0.24242 instead|0.21212 of|0.18182 the|0.15152 eccentricity|0.12121 They|0.090909 are|0.060606 related|0.030303 by|0",
+			"previous_weights": " where|0 Delambre|0.071429 in|0.14286 1799|0.21429 9|0.28571 derived|0.35714 a|0.42857 widely|0.5 used|0.57143 expansion|0.64286 on|0.71429 the|0.78571 eccentricity|0.85714 squared|0.92857 |1"
+		}
+	}
+}

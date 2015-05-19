@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "861ea278e96be1446e58c68b754b27d4cdc24c5ccdb34b2d461e8c37724ba368",
+			"url": "https://upload.wikimedia.org/math/9/9/a/99a7fa8da2d1abbcb3fb8a5723eb75bb.png",
+			"previous": " Let denote the B zier curve determined by any selection of points P0 P1 Pn Then to start  A recursive definition for the B zier curve of degree n expresses it as a point to point linear combination linear interpolation of a pair of corresponding points in two B zier curves of degree n 1 ",
+			"after": " This recursion is elucidated in the animations below  The formula can be expressed explicitly as follows ",
+			"color": "dim|0.39802 gray|0.39802 dim|0.39802 grey|0.39802 gray|0.2965 grey|0.2965 dark|0.16137 gray|0.16137 dark|0.16137 grey|0.16137 silver|0.062662 light|0.033537 gray|0.033537 light|0.033537 grey|0.033537 gainsboro|0.024202 white|0.0062103 smoke|0.0062103  ",
+			"after_weights": " This|1 recursion|0.94118 is|0.88235 elucidated|0.82353 in|0.76471 the|0.70588 animations|0.64706 below|0.58824 |0.52941 The|0.47059 formula|0.41176 can|0.35294 be|0.29412 expressed|0.23529 explicitly|0.17647 as|0.11765 follows|0.058824 |0",
+			"previous_weights": " Let|0 denote|0.017857 the|0.035714 B|0.053571 zier|0.071429 curve|0.089286 determined|0.10714 by|0.125 any|0.14286 selection|0.16071 of|0.17857 points|0.19643 P0|0.21429 P1|0.23214 Pn|0.25 Then|0.26786 to|0.28571 start|0.30357 |0.32143 A|0.33929 recursive|0.35714 definition|0.375 for|0.39286 the|0.41071 B|0.42857 zier|0.44643 curve|0.46429 of|0.48214 degree|0.5 n|0.51786 expresses|0.53571 it|0.55357 as|0.57143 a|0.58929 point|0.60714 to|0.625 point|0.64286 linear|0.66071 combination|0.67857 linear|0.69643 interpolation|0.71429 of|0.73214 a|0.75 pair|0.76786 of|0.78571 corresponding|0.80357 points|0.82143 in|0.83929 two|0.85714 B|0.875 zier|0.89286 curves|0.91071 of|0.92857 degree|0.94643 n|0.96429 1|0.98214 |1"
+		}
+	}
+}

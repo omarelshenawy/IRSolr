@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51bfb5400e2aad635750da5790d3e2352f1b3d8ff450610d8ba0b473342369aa",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Largest_Cat.jpg/220px-Largest_Cat.jpg",
+			"previous": " ",
+			"after": " The term big cat or great cat while not a biological classification is used informally to distinguish the larger felid species from smaller ones A narrower definition of includes five members of the genus Panthera the tiger lion jaguar leopard and snow leopard Only members of this genus are able to roar A more expansive definition additionally includes the cougar and cheetah Another cat the clouded leopard is considered an evolutionary link between big and small cats ",
+			"color": "black|0.22684 dark|0.21001 slate|0.21001 gray|0.21001 slate|0.13676 gray|0.13676 dim|0.10723 gray|0.10723 dim|0.10723 grey|0.10723 light|0.10481 slate|0.10481 gray|0.10481 gray|0.073348 grey|0.073348 dark|0.049973 gray|0.049973 dark|0.049973 grey|0.049973 silver|0.011198 sandy|0.0080913 brown|0.0080913 burly|0.0072513 wood|0.0072513 tan|0.0069632 navajo|0.0056422 white|0.0056422  ",
+			"after_weights": " The|1 term|0.98701 big|0.97403 cat|0.96104 or|0.94805 great|0.93506 cat|0.92208 while|0.90909 not|0.8961 a|0.88312 biological|0.87013 classification|0.85714 is|0.84416 used|0.83117 informally|0.81818 to|0.80519 distinguish|0.79221 the|0.77922 larger|0.76623 felid|0.75325 species|0.74026 from|0.72727 smaller|0.71429 ones|0.7013 A|0.68831 narrower|0.67532 definition|0.66234 of|0.64935 includes|0.63636 five|0.62338 members|0.61039 of|0.5974 the|0.58442 genus|0.57143 Panthera|0.55844 the|0.54545 tiger|0.53247 lion|0.51948 jaguar|0.50649 leopard|0.49351 and|0.48052 snow|0.46753 leopard|0.45455 Only|0.44156 members|0.42857 of|0.41558 this|0.4026 genus|0.38961 are|0.37662 able|0.36364 to|0.35065 roar|0.33766 A|0.32468 more|0.31169 expansive|0.2987 definition|0.28571 additionally|0.27273 includes|0.25974 the|0.24675 cougar|0.23377 and|0.22078 cheetah|0.20779 Another|0.19481 cat|0.18182 the|0.16883 clouded|0.15584 leopard|0.14286 is|0.12987 considered|0.11688 an|0.1039 evolutionary|0.090909 link|0.077922 between|0.064935 big|0.051948 and|0.038961 small|0.025974 cats|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

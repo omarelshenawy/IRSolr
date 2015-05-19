@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e0e18d5e3820b320e73b1899a03de3364e41798e0820c4866c5863c3f84da17",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bendixen_-_Carl_Friedrich_Gau%C3%9F%2C_1828.jpg/140px-Bendixen_-_Carl_Friedrich_Gau%C3%9F%2C_1828.jpg",
+			"previous": " Daniel Bernoulli 1778 introduced the principle of the maximum product of the probabilities of a system of concurrent errors ",
+			"after": " Adrien Marie Legendre 1805 developed the method of least squares and introduced it in his Nouvelles m thodes pour la d termination des orbites des com tes New Methods for Determining the Orbits of Comets citation needed In ignorance of Legendre s contribution an Irish American writer Robert Adrain editor of The Analyst 1808 first deduced the law of facility of error ",
+			"color": "dim|0.19572 gray|0.19572 dim|0.19572 grey|0.19572 dark|0.11684 slate|0.11684 gray|0.11684 silver|0.1085 gray|0.10708 grey|0.10708 dark|0.10678 gray|0.10678 dark|0.10678 grey|0.10678 light|0.097921 gray|0.097921 light|0.097921 grey|0.097921 gainsboro|0.079778 white|0.024215 smoke|0.024215 slate|0.019615 gray|0.019615 alice|0.015532 blue|0.015532 sea|0.015282 shell|0.015282 snow|0.014696 ghost|0.014364 white|0.014364 mint|0.013335 cream|0.013335 white|0.012663 floral|0.011709 white|0.011709 azure|0.01142 linen|0.010643 lavender|0.0092628 blush|0.0092628 light|0.0069223 slate|0.0069223 gray|0.0069223 black|0.0054096  ",
+			"after_weights": " Adrien|1 Marie|0.98387 Legendre|0.96774 1805|0.95161 developed|0.93548 the|0.91935 method|0.90323 of|0.8871 least|0.87097 squares|0.85484 and|0.83871 introduced|0.82258 it|0.80645 in|0.79032 his|0.77419 Nouvelles|0.75806 m|0.74194 thodes|0.72581 pour|0.70968 la|0.69355 d|0.67742 termination|0.66129 des|0.64516 orbites|0.62903 des|0.6129 com|0.59677 tes|0.58065 New|0.56452 Methods|0.54839 for|0.53226 Determining|0.51613 the|0.5 Orbits|0.48387 of|0.46774 Comets|0.45161 citation|0.43548 needed|0.41935 In|0.40323 ignorance|0.3871 of|0.37097 Legendre|0.35484 s|0.33871 contribution|0.32258 an|0.30645 Irish|0.29032 American|0.27419 writer|0.25806 Robert|0.24194 Adrain|0.22581 editor|0.20968 of|0.19355 The|0.17742 Analyst|0.16129 1808|0.14516 first|0.12903 deduced|0.1129 the|0.096774 law|0.080645 of|0.064516 facility|0.048387 of|0.032258 error|0.016129 |0",
+			"previous_weights": " Daniel|0 Bernoulli|0.052632 1778|0.10526 introduced|0.15789 the|0.21053 principle|0.26316 of|0.31579 the|0.36842 maximum|0.42105 product|0.47368 of|0.52632 the|0.57895 probabilities|0.63158 of|0.68421 a|0.73684 system|0.78947 of|0.84211 concurrent|0.89474 errors|0.94737 |1"
+		}
+	}
+}

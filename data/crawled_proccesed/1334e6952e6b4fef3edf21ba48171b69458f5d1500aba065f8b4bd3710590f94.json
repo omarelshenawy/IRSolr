@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1334e6952e6b4fef3edf21ba48171b69458f5d1500aba065f8b4bd3710590f94",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hawaiian_Airlines_A330-200_N382HA_HND_2011-10-25.png/220px-Hawaiian_Airlines_A330-200_N382HA_HND_2011-10-25.png",
+			"previous": " On June 4 2012 Hawaiian expanded to the east coast with daily flights to New York s John F Kennedy International Airport 36 ",
+			"after": " On November 17 2011 Hawaiian ordered five additional Airbus A330 200 aircraft 37 ",
+			"color": "black|0.40719 dark|0.14693 gray|0.14693 dark|0.14693 grey|0.14693 dim|0.14157 gray|0.14157 dim|0.14157 grey|0.14157 gray|0.073999 grey|0.073999 silver|0.07278 dark|0.019337 slate|0.019337 gray|0.019337 burly|0.013121 wood|0.013121 tan|0.012477 light|0.012132 gray|0.012132 light|0.012132 grey|0.012132 slate|0.01196 gray|0.01196 light|0.011083 slate|0.011083 gray|0.011083  ",
+			"after_weights": " On|1 November|0.92308 17|0.84615 2011|0.76923 Hawaiian|0.69231 ordered|0.61538 five|0.53846 additional|0.46154 Airbus|0.38462 A330|0.30769 200|0.23077 aircraft|0.15385 37|0.076923 |0",
+			"previous_weights": " On|0 June|0.043478 4|0.086957 2012|0.13043 Hawaiian|0.17391 expanded|0.21739 to|0.26087 the|0.30435 east|0.34783 coast|0.3913 with|0.43478 daily|0.47826 flights|0.52174 to|0.56522 New|0.6087 York|0.65217 s|0.69565 John|0.73913 F|0.78261 Kennedy|0.82609 International|0.86957 Airport|0.91304 36|0.95652 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "65a47283133b037a69bf59301d57e7a812043c323fc1f96fbe7d576ab2bb62d1",
+			"url": "https://upload.wikimedia.org/math/b/2/c/b2cbef5d7d936e3199eaf2cd22708856.png",
+			"previous": " or Integrating we find ",
+			"after": " where Under certain conditions stimulated emission can provide a physical mechanism for optical amplification An external source of energy stimulates atoms in the ground state to transition to the excited state creating what is called a population inversion When light of the appropriate frequency passes through the inverted medium the photons stimulate the excited atoms to emit additional photons of the same frequency phase and direction resulting in an amplification of the input intensity ",
+			"color": "dim|0.40302 gray|0.40302 dim|0.40302 grey|0.40302 gray|0.27412 grey|0.27412 dark|0.15491 gray|0.15491 dark|0.15491 grey|0.15491 silver|0.061443 black|0.046073 light|0.028933 gray|0.028933 light|0.028933 grey|0.028933 gainsboro|0.01993  ",
+			"after_weights": " where|1 Under|0.98649 certain|0.97297 conditions|0.95946 stimulated|0.94595 emission|0.93243 can|0.91892 provide|0.90541 a|0.89189 physical|0.87838 mechanism|0.86486 for|0.85135 optical|0.83784 amplification|0.82432 An|0.81081 external|0.7973 source|0.78378 of|0.77027 energy|0.75676 stimulates|0.74324 atoms|0.72973 in|0.71622 the|0.7027 ground|0.68919 state|0.67568 to|0.66216 transition|0.64865 to|0.63514 the|0.62162 excited|0.60811 state|0.59459 creating|0.58108 what|0.56757 is|0.55405 called|0.54054 a|0.52703 population|0.51351 inversion|0.5 When|0.48649 light|0.47297 of|0.45946 the|0.44595 appropriate|0.43243 frequency|0.41892 passes|0.40541 through|0.39189 the|0.37838 inverted|0.36486 medium|0.35135 the|0.33784 photons|0.32432 stimulate|0.31081 the|0.2973 excited|0.28378 atoms|0.27027 to|0.25676 emit|0.24324 additional|0.22973 photons|0.21622 of|0.2027 the|0.18919 same|0.17568 frequency|0.16216 phase|0.14865 and|0.13514 direction|0.12162 resulting|0.10811 in|0.094595 an|0.081081 amplification|0.067568 of|0.054054 the|0.040541 input|0.027027 intensity|0.013514 |0",
+			"previous_weights": " or|0 Integrating|0.25 we|0.5 find|0.75 |1"
+		}
+	}
+}

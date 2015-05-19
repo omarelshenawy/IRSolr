@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fc92ecc68e664733ddcf3ff4c83b180f8e2ccbc23d221c17ba9e64f43a0ffb6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/British_Raj_Red_Ensign.svg/23px-British_Raj_Red_Ensign.svg.png",
+			"previous": " The alliance was formalised in the Declaration by United Nations on 1 January 1942 There were 26 signatories ",
+			"after": " The United Nations began growing immediately after their formation In 1942 Mexico the Philippines and Ethiopia adhered to the declaration The African nation had been restored in its independence by British forces after the Italian defeat on Amba Alagi in 1941 while the Philippines still dependent on Washington but granted international diplomatic recognition was allowed to join on 10 June despite their occupation by Japan ",
+			"color": "crimson|0.74327 chocolate|0.1222 dark|0.059047 golden|0.059047 rod|0.059047 golden|0.029366 rod|0.029366 dark|0.015759 khaki|0.015759 peru|0.007541 dark|0.0074201 gray|0.0074201 dark|0.0074201 grey|0.0074201 gray|0.0056356 grey|0.0056356  ",
+			"after_weights": " The|1 United|0.98462 Nations|0.96923 began|0.95385 growing|0.93846 immediately|0.92308 after|0.90769 their|0.89231 formation|0.87692 In|0.86154 1942|0.84615 Mexico|0.83077 the|0.81538 Philippines|0.8 and|0.78462 Ethiopia|0.76923 adhered|0.75385 to|0.73846 the|0.72308 declaration|0.70769 The|0.69231 African|0.67692 nation|0.66154 had|0.64615 been|0.63077 restored|0.61538 in|0.6 its|0.58462 independence|0.56923 by|0.55385 British|0.53846 forces|0.52308 after|0.50769 the|0.49231 Italian|0.47692 defeat|0.46154 on|0.44615 Amba|0.43077 Alagi|0.41538 in|0.4 1941|0.38462 while|0.36923 the|0.35385 Philippines|0.33846 still|0.32308 dependent|0.30769 on|0.29231 Washington|0.27692 but|0.26154 granted|0.24615 international|0.23077 diplomatic|0.21538 recognition|0.2 was|0.18462 allowed|0.16923 to|0.15385 join|0.13846 on|0.12308 10|0.10769 June|0.092308 despite|0.076923 their|0.061538 occupation|0.046154 by|0.030769 Japan|0.015385 |0",
+			"previous_weights": " The|0 alliance|0.055556 was|0.11111 formalised|0.16667 in|0.22222 the|0.27778 Declaration|0.33333 by|0.38889 United|0.44444 Nations|0.5 on|0.55556 1|0.61111 January|0.66667 1942|0.72222 There|0.77778 were|0.83333 26|0.88889 signatories|0.94444 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a5b3d58dc157d2a41aea6cfc7863f6a2e60e25ce547eab126a0243ecfc066bc",
+			"url": "https://upload.wikimedia.org/math/3/c/d/3cdf28e87e8fcddc34ed0ee71529a29c.png",
+			"previous": " such that However this only helps us with first order initial value problems Suppose we had a linear initial value problem of the nth order  For first order initial value problems it is easy to tell whether a unique solution exists Given any point in the xy plane define some rectangular region such that and is in If we are given a differential equation and an initial condition then there is a unique solution to this initial value problem if and are both continuous on This unique solution exists on some interval with its center at ",
+			"after": "  11 ",
+			"color": " ",
+			"after_weights": " |1 11|0.5 |0",
+			"previous_weights": " such|0 that|0.010309 However|0.020619 this|0.030928 only|0.041237 helps|0.051546 us|0.061856 with|0.072165 first|0.082474 order|0.092784 initial|0.10309 value|0.1134 problems|0.12371 Suppose|0.13402 we|0.14433 had|0.15464 a|0.16495 linear|0.17526 initial|0.18557 value|0.19588 problem|0.20619 of|0.21649 the|0.2268 nth|0.23711 order|0.24742 |0.25773 For|0.26804 first|0.27835 order|0.28866 initial|0.29897 value|0.30928 problems|0.31959 it|0.3299 is|0.34021 easy|0.35052 to|0.36082 tell|0.37113 whether|0.38144 a|0.39175 unique|0.40206 solution|0.41237 exists|0.42268 Given|0.43299 any|0.4433 point|0.45361 in|0.46392 the|0.47423 xy|0.48454 plane|0.49485 define|0.50515 some|0.51546 rectangular|0.52577 region|0.53608 such|0.54639 that|0.5567 and|0.56701 is|0.57732 in|0.58763 If|0.59794 we|0.60825 are|0.61856 given|0.62887 a|0.63918 differential|0.64948 equation|0.65979 and|0.6701 an|0.68041 initial|0.69072 condition|0.70103 then|0.71134 there|0.72165 is|0.73196 a|0.74227 unique|0.75258 solution|0.76289 to|0.7732 this|0.78351 initial|0.79381 value|0.80412 problem|0.81443 if|0.82474 and|0.83505 are|0.84536 both|0.85567 continuous|0.86598 on|0.87629 This|0.8866 unique|0.89691 solution|0.90722 exists|0.91753 on|0.92784 some|0.93814 interval|0.94845 with|0.95876 its|0.96907 center|0.97938 at|0.98969 |1"
+		}
+	}
+}

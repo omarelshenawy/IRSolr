@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a2d51bc3dffd096e369462e6c18e3b1512387ec1c4bbfc0a2bc596bcb0df898",
+			"url": "https://upload.wikimedia.org/math/5/4/d/54dd581c01594167fa455ea6ee4b47d1.png",
+			"previous": " where ",
+			"after": " The turbine pressure ratio is a function of and the turbine efficiency  Modern turbine design carries the calculations further Computational fluid dynamics dispenses with many of the simplifying assumptions used to derive classical formulas and computer software facilitates optimization These tools have led to steady improvements in turbine design over the last forty years ",
+			"color": "dim|0.37238 gray|0.37238 dim|0.37238 grey|0.37238 gray|0.28555 grey|0.28555 dark|0.16439 gray|0.16439 dark|0.16439 grey|0.16439 silver|0.079255 light|0.042126 gray|0.042126 light|0.042126 grey|0.042126 gainsboro|0.030734 white|0.0061669 smoke|0.0061669 linen|0.0035686  ",
+			"after_weights": " The|1 turbine|0.98182 pressure|0.96364 ratio|0.94545 is|0.92727 a|0.90909 function|0.89091 of|0.87273 and|0.85455 the|0.83636 turbine|0.81818 efficiency|0.8 |0.78182 Modern|0.76364 turbine|0.74545 design|0.72727 carries|0.70909 the|0.69091 calculations|0.67273 further|0.65455 Computational|0.63636 fluid|0.61818 dynamics|0.6 dispenses|0.58182 with|0.56364 many|0.54545 of|0.52727 the|0.50909 simplifying|0.49091 assumptions|0.47273 used|0.45455 to|0.43636 derive|0.41818 classical|0.4 formulas|0.38182 and|0.36364 computer|0.34545 software|0.32727 facilitates|0.30909 optimization|0.29091 These|0.27273 tools|0.25455 have|0.23636 led|0.21818 to|0.2 steady|0.18182 improvements|0.16364 in|0.14545 turbine|0.12727 design|0.10909 over|0.090909 the|0.072727 last|0.054545 forty|0.036364 years|0.018182 |0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

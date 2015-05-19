@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21804830c49c841afb4d1ca2d3bd8b606e98d0940804f4859e23817367a457a1",
+			"url": "https://upload.wikimedia.org/math/a/7/9/a792a10ed1e6fd3ba7112ba98da0481b.png",
+			"previous": " The figure on the right shows the effect of this transformation on point coordinates in the plane The eigenvectors v of this transformation satisfy the equation  Consider the transformation matrix A given by ",
+			"after": " Rearrange this equation to obtain which has a solution only when its determinant A I equals zero ",
+			"color": "dim|0.41346 gray|0.41346 dim|0.41346 grey|0.41346 gray|0.29614 grey|0.29614 dark|0.15511 gray|0.15511 dark|0.15511 grey|0.15511 silver|0.063824 light|0.032045 gray|0.032045 light|0.032045 grey|0.032045 gainsboro|0.0232 white|0.0041751 smoke|0.0041751  ",
+			"after_weights": " Rearrange|1 this|0.94118 equation|0.88235 to|0.82353 obtain|0.76471 which|0.70588 has|0.64706 a|0.58824 solution|0.52941 only|0.47059 when|0.41176 its|0.35294 determinant|0.29412 A|0.23529 I|0.17647 equals|0.11765 zero|0.058824 |0",
+			"previous_weights": " The|0 figure|0.029412 on|0.058824 the|0.088235 right|0.11765 shows|0.14706 the|0.17647 effect|0.20588 of|0.23529 this|0.26471 transformation|0.29412 on|0.32353 point|0.35294 coordinates|0.38235 in|0.41176 the|0.44118 plane|0.47059 The|0.5 eigenvectors|0.52941 v|0.55882 of|0.58824 this|0.61765 transformation|0.64706 satisfy|0.67647 the|0.70588 equation|0.73529 |0.76471 Consider|0.79412 the|0.82353 transformation|0.85294 matrix|0.88235 A|0.91176 given|0.94118 by|0.97059 |1"
+		}
+	}
+}

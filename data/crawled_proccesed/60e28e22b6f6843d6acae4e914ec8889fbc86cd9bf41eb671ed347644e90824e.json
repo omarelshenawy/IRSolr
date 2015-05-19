@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "60e28e22b6f6843d6acae4e914ec8889fbc86cd9bf41eb671ed347644e90824e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DLO.svg/20px-DLO.svg.png",
+			"previous": " Today the German Army has five active divisions ",
+			"after": " 1 Panzerdivision includes the main part of the rapid reaction forces The DSO is specialized in airborne and commando operations the DLO covers army aviation airmobile forces and combat support troops 10 Panzerdivision and 13 Panzergrenadierdivision are planned for peace keeping missions Each division is structured as two brigades and divisional troops ",
+			"color": "gray|0.53599 grey|0.53599 dim|0.2065 gray|0.2065 dim|0.2065 grey|0.2065 black|0.19438 dark|0.061935 gray|0.061935 dark|0.061935 grey|0.061935  ",
+			"after_weights": " 1|1 Panzerdivision|0.98077 includes|0.96154 the|0.94231 main|0.92308 part|0.90385 of|0.88462 the|0.86538 rapid|0.84615 reaction|0.82692 forces|0.80769 The|0.78846 DSO|0.76923 is|0.75 specialized|0.73077 in|0.71154 airborne|0.69231 and|0.67308 commando|0.65385 operations|0.63462 the|0.61538 DLO|0.59615 covers|0.57692 army|0.55769 aviation|0.53846 airmobile|0.51923 forces|0.5 and|0.48077 combat|0.46154 support|0.44231 troops|0.42308 10|0.40385 Panzerdivision|0.38462 and|0.36538 13|0.34615 Panzergrenadierdivision|0.32692 are|0.30769 planned|0.28846 for|0.26923 peace|0.25 keeping|0.23077 missions|0.21154 Each|0.19231 division|0.17308 is|0.15385 structured|0.13462 as|0.11538 two|0.096154 brigades|0.076923 and|0.057692 divisional|0.038462 troops|0.019231 |0",
+			"previous_weights": " Today|0 the|0.125 German|0.25 Army|0.375 has|0.5 five|0.625 active|0.75 divisions|0.875 |1"
+		}
+	}
+}

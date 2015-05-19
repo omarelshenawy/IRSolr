@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a0fa4a5cdec0dd66d06587440d46323793ed14be6461a77d4d7d83d02f9e9c5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1531_Nuestra_Se%C3%B1ora_de_Guadalupe_anagoria.jpg/120px-1531_Nuestra_Se%C3%B1ora_de_Guadalupe_anagoria.jpg",
+			"previous": " ",
+			"after": " Our Lady of Guadalupe Spanish Nuestra Se ora de Guadalupe also known as the Virgin of Guadalupe Spanish Virgen de Guadalupe is a title of the Virgin Mary associated with a celebrated pictorial image housed in the Basilica of Our Lady of Guadalupe in M xico City ",
+			"color": "tan|0.42521 black|0.20057 dark|0.17443 slate|0.17443 gray|0.17443 dim|0.055556 gray|0.055556 dim|0.055556 grey|0.055556 burly|0.053139 wood|0.053139 sienna|0.046569  ",
+			"after_weights": " Our|1 Lady|0.97872 of|0.95745 Guadalupe|0.93617 Spanish|0.91489 Nuestra|0.89362 Se|0.87234 ora|0.85106 de|0.82979 Guadalupe|0.80851 also|0.78723 known|0.76596 as|0.74468 the|0.7234 Virgin|0.70213 of|0.68085 Guadalupe|0.65957 Spanish|0.6383 Virgen|0.61702 de|0.59574 Guadalupe|0.57447 is|0.55319 a|0.53191 title|0.51064 of|0.48936 the|0.46809 Virgin|0.44681 Mary|0.42553 associated|0.40426 with|0.38298 a|0.3617 celebrated|0.34043 pictorial|0.31915 image|0.29787 housed|0.2766 in|0.25532 the|0.23404 Basilica|0.21277 of|0.19149 Our|0.17021 Lady|0.14894 of|0.12766 Guadalupe|0.10638 in|0.085106 M|0.06383 xico|0.042553 City|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

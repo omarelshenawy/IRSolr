@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f6c28e980b45cb3b96166a157993d2953ccf8b39906f5d67842fdbd619c24db",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orca_porpoising.jpg/220px-Orca_porpoising.jpg",
+			"previous": " ",
+			"after": " Killer whales are found in all oceans and most seas Due to their enormous range numbers and density distributional estimates are difficult to compare 90 but they clearly prefer higher latitudes and coastal areas over pelagic environments 91 ",
+			"color": "dark|0.24826 gray|0.24826 dark|0.24826 grey|0.24826 silver|0.15243 gray|0.15124 grey|0.15124 slate|0.12449 gray|0.12449 light|0.12221 slate|0.12221 gray|0.12221 dim|0.10659 gray|0.10659 dim|0.10659 grey|0.10659 light|0.045426 gray|0.045426 light|0.045426 grey|0.045426 black|0.03366 gainsboro|0.014944  ",
+			"after_weights": " Killer|1 whales|0.97368 are|0.94737 found|0.92105 in|0.89474 all|0.86842 oceans|0.84211 and|0.81579 most|0.78947 seas|0.76316 Due|0.73684 to|0.71053 their|0.68421 enormous|0.65789 range|0.63158 numbers|0.60526 and|0.57895 density|0.55263 distributional|0.52632 estimates|0.5 are|0.47368 difficult|0.44737 to|0.42105 compare|0.39474 90|0.36842 but|0.34211 they|0.31579 clearly|0.28947 prefer|0.26316 higher|0.23684 latitudes|0.21053 and|0.18421 coastal|0.15789 areas|0.13158 over|0.10526 pelagic|0.078947 environments|0.052632 91|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

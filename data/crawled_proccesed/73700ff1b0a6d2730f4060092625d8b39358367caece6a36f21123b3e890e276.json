@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73700ff1b0a6d2730f4060092625d8b39358367caece6a36f21123b3e890e276",
+			"url": "https://upload.wikimedia.org/math/c/f/0/cf0ba5ee4a563a4998150f104e50f8c6.png",
+			"previous": " For Earth the authalic radius is 6 371 0072 kilometers 3 958 7603 mi 9  where and is the surface area of the spheroid ",
+			"after": " For Earth the volumetric radius equals 6 371 0008 kilometers 3 958 7564 mi 9 ",
+			"color": "dim|0.26676 gray|0.26676 dim|0.26676 grey|0.26676 black|0.24668 gray|0.23924 grey|0.23924 dark|0.14193 gray|0.14193 dark|0.14193 grey|0.14193 silver|0.052243 light|0.023353 gray|0.023353 light|0.023353 grey|0.023353 gainsboro|0.016506 white|0.0035175 smoke|0.0035175  ",
+			"after_weights": " For|1 Earth|0.93333 the|0.86667 volumetric|0.8 radius|0.73333 equals|0.66667 6|0.6 371|0.53333 0008|0.46667 kilometers|0.4 3|0.33333 958|0.26667 7564|0.2 mi|0.13333 9|0.066667 |0",
+			"previous_weights": " For|0 Earth|0.04 the|0.08 authalic|0.12 radius|0.16 is|0.2 6|0.24 371|0.28 0072|0.32 kilometers|0.36 3|0.4 958|0.44 7603|0.48 mi|0.52 9|0.56 |0.6 where|0.64 and|0.68 is|0.72 the|0.76 surface|0.8 area|0.84 of|0.88 the|0.92 spheroid|0.96 |1"
+		}
+	}
+}

@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/math/c/9/4/c94636d11627d5e3c550d96b16442ce7.png",
 			"previous": " A containment hierarchy is a direct extrapolation of the nested hierarchy concept All of the ordered sets are still nested but every set must be strict no two sets can be identical The shapes example above can be modified to demonstrate this ",
 			"after": " The notation means x is a subset of y but is not equal to y ",
+			"color": "gray|0.26128 grey|0.26128 dim|0.2559 gray|0.2559 dim|0.2559 grey|0.2559 black|0.23792 dark|0.19205 gray|0.19205 dark|0.19205 grey|0.19205 silver|0.048671 light|0.0038278 gray|0.0038278 light|0.0038278 grey|0.0038278  ",
 			"after_weights": " The|1 notation|0.93333 means|0.86667 x|0.8 is|0.73333 a|0.66667 subset|0.6 of|0.53333 y|0.46667 but|0.4 is|0.33333 not|0.26667 equal|0.2 to|0.13333 y|0.066667 |0",
 			"previous_weights": " A|0 containment|0.02381 hierarchy|0.047619 is|0.071429 a|0.095238 direct|0.11905 extrapolation|0.14286 of|0.16667 the|0.19048 nested|0.21429 hierarchy|0.2381 concept|0.2619 All|0.28571 of|0.30952 the|0.33333 ordered|0.35714 sets|0.38095 are|0.40476 still|0.42857 nested|0.45238 but|0.47619 every|0.5 set|0.52381 must|0.54762 be|0.57143 strict|0.59524 no|0.61905 two|0.64286 sets|0.66667 can|0.69048 be|0.71429 identical|0.7381 The|0.7619 shapes|0.78571 example|0.80952 above|0.83333 can|0.85714 be|0.88095 modified|0.90476 to|0.92857 demonstrate|0.95238 this|0.97619 |1"
 		}

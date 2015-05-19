@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "401103cd439e02fc5d0ef2209a3923056a72ea1af6a815875b46d5888f4639eb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Anthus-rubescens-001.jpg/150px-Anthus-rubescens-001.jpg",
+			"previous": " ",
+			"after": " Order Passeriformes Family Motacillidae Motacillidae is a family of small passerine birds with medium to long tails They include the wagtails longclaws and pipits They are slender ground feeding insectivores of open country ",
+			"color": "dim|0.36995 gray|0.36995 dim|0.36995 grey|0.36995 gray|0.29231 grey|0.29231 dark|0.10747 gray|0.10747 dark|0.10747 grey|0.10747 tan|0.082406 silver|0.036046 light|0.016831 gray|0.016831 light|0.016831 grey|0.016831 black|0.011708 gainsboro|0.010025  ",
+			"after_weights": " Order|1 Passeriformes|0.9697 Family|0.93939 Motacillidae|0.90909 Motacillidae|0.87879 is|0.84848 a|0.81818 family|0.78788 of|0.75758 small|0.72727 passerine|0.69697 birds|0.66667 with|0.63636 medium|0.60606 to|0.57576 long|0.54545 tails|0.51515 They|0.48485 include|0.45455 the|0.42424 wagtails|0.39394 longclaws|0.36364 and|0.33333 pipits|0.30303 They|0.27273 are|0.24242 slender|0.21212 ground|0.18182 feeding|0.15152 insectivores|0.12121 of|0.090909 open|0.060606 country|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

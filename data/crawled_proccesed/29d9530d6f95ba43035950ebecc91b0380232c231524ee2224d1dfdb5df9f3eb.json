@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "29d9530d6f95ba43035950ebecc91b0380232c231524ee2224d1dfdb5df9f3eb",
+			"url": "https://upload.wikimedia.org/math/c/b/3/cb31149cc8490759b4d473729cee1ff2.png",
+			"previous": " Mathematically incompressibility is expressed by saying that the density of a fluid parcel does not change as it moves in the flow field i e ",
+			"after": " where D Dt is the substantial derivative which is the sum of local and convective derivatives This additional constraint simplifies the governing equations especially in the case when the fluid has a uniform density ",
+			"color": "dim|0.33914 gray|0.33914 dim|0.33914 grey|0.33914 gray|0.32903 grey|0.32903 dark|0.23122 gray|0.23122 dark|0.23122 grey|0.23122 silver|0.048679 light|0.022062 gray|0.022062 light|0.022062 grey|0.022062 gainsboro|0.01616 white|0.0031092 smoke|0.0031092  ",
+			"after_weights": " where|1 D|0.97059 Dt|0.94118 is|0.91176 the|0.88235 substantial|0.85294 derivative|0.82353 which|0.79412 is|0.76471 the|0.73529 sum|0.70588 of|0.67647 local|0.64706 and|0.61765 convective|0.58824 derivatives|0.55882 This|0.52941 additional|0.5 constraint|0.47059 simplifies|0.44118 the|0.41176 governing|0.38235 equations|0.35294 especially|0.32353 in|0.29412 the|0.26471 case|0.23529 when|0.20588 the|0.17647 fluid|0.14706 has|0.11765 a|0.088235 uniform|0.058824 density|0.029412 |0",
+			"previous_weights": " Mathematically|0 incompressibility|0.04 is|0.08 expressed|0.12 by|0.16 saying|0.2 that|0.24 the|0.28 density|0.32 of|0.36 a|0.4 fluid|0.44 parcel|0.48 does|0.52 not|0.56 change|0.6 as|0.64 it|0.68 moves|0.72 in|0.76 the|0.8 flow|0.84 field|0.88 i|0.92 e|0.96 |1"
+		}
+	}
+}

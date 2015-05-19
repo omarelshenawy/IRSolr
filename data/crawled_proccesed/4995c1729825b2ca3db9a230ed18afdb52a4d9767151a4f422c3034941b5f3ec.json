@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4995c1729825b2ca3db9a230ed18afdb52a4d9767151a4f422c3034941b5f3ec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Era_of_flight_F-15_f-86_P-38.jpg/300px-Era_of_flight_F-15_f-86_P-38.jpg",
+			"previous": " ",
+			"after": " A fighter aircraft is a military aircraft designed primarily for air to air combat against other aircraft 1 as opposed to bombers and attack aircraft whose main mission is to attack ground targets The hallmarks of a fighter are its speed maneuverability and small size relative to other combat aircraft ",
+			"color": "light|0.78008 sky|0.78008 blue|0.78008 dim|0.082531 gray|0.082531 dim|0.082531 grey|0.082531 light|0.027014 steel|0.027014 blue|0.027014 sky|0.019868 blue|0.019868 light|0.017138 blue|0.017138 gray|0.015765 grey|0.015765 slate|0.011234 gray|0.011234 light|0.010406 slate|0.010406 gray|0.010406 dark|0.0099342 slate|0.0099342 gray|0.0099342 dark|0.0065481 gray|0.0065481 dark|0.0065481 grey|0.0065481  ",
+			"after_weights": " A|1 fighter|0.98 aircraft|0.96 is|0.94 a|0.92 military|0.9 aircraft|0.88 designed|0.86 primarily|0.84 for|0.82 air|0.8 to|0.78 air|0.76 combat|0.74 against|0.72 other|0.7 aircraft|0.68 1|0.66 as|0.64 opposed|0.62 to|0.6 bombers|0.58 and|0.56 attack|0.54 aircraft|0.52 whose|0.5 main|0.48 mission|0.46 is|0.44 to|0.42 attack|0.4 ground|0.38 targets|0.36 The|0.34 hallmarks|0.32 of|0.3 a|0.28 fighter|0.26 are|0.24 its|0.22 speed|0.2 maneuverability|0.18 and|0.16 small|0.14 size|0.12 relative|0.1 to|0.08 other|0.06 combat|0.04 aircraft|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

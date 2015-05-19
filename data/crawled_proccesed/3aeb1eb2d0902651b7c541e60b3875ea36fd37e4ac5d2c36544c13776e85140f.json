@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3aeb1eb2d0902651b7c541e60b3875ea36fd37e4ac5d2c36544c13776e85140f",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/CNN_Gulf_War_nightscope_January_1991.jpg/220px-CNN_Gulf_War_nightscope_January_1991.jpg",
+			"previous": " The first Persian Gulf War in 1991 was a watershed event for CNN that catapulted the channel past the Big Three American networks for the first time in its history largely due to an unprecedented historical scoop CNN was the only news outlet with the ability to communicate from inside Iraq during the initial hours of the Coalition bombing campaign with live reports from the al Rashid Hotel in Baghdad by reporters Bernard Shaw John Holliman Peter Arnett and Charles Jaco ",
+			"after": " The moment when bombing began was announced on CNN by Bernard Shaw on January 16 1991 as follows 12 ",
+			"color": "black|0.59412 dark|0.074467 gray|0.074467 dark|0.074467 grey|0.074467 dim|0.067598 gray|0.067598 dim|0.067598 grey|0.067598 gray|0.06423 grey|0.06423 silver|0.043343 sea|0.033188 green|0.033188 light|0.027384 gray|0.027384 light|0.027384 grey|0.027384 gainsboro|0.019768  ",
+			"after_weights": " The|1 moment|0.94737 when|0.89474 bombing|0.84211 began|0.78947 was|0.73684 announced|0.68421 on|0.63158 CNN|0.57895 by|0.52632 Bernard|0.47368 Shaw|0.42105 on|0.36842 January|0.31579 16|0.26316 1991|0.21053 as|0.15789 follows|0.10526 12|0.052632 |0",
+			"previous_weights": " The|0 first|0.012346 Persian|0.024691 Gulf|0.037037 War|0.049383 in|0.061728 1991|0.074074 was|0.08642 a|0.098765 watershed|0.11111 event|0.12346 for|0.1358 CNN|0.14815 that|0.16049 catapulted|0.17284 the|0.18519 channel|0.19753 past|0.20988 the|0.22222 Big|0.23457 Three|0.24691 American|0.25926 networks|0.2716 for|0.28395 the|0.2963 first|0.30864 time|0.32099 in|0.33333 its|0.34568 history|0.35802 largely|0.37037 due|0.38272 to|0.39506 an|0.40741 unprecedented|0.41975 historical|0.4321 scoop|0.44444 CNN|0.45679 was|0.46914 the|0.48148 only|0.49383 news|0.50617 outlet|0.51852 with|0.53086 the|0.54321 ability|0.55556 to|0.5679 communicate|0.58025 from|0.59259 inside|0.60494 Iraq|0.61728 during|0.62963 the|0.64198 initial|0.65432 hours|0.66667 of|0.67901 the|0.69136 Coalition|0.7037 bombing|0.71605 campaign|0.7284 with|0.74074 live|0.75309 reports|0.76543 from|0.77778 the|0.79012 al|0.80247 Rashid|0.81481 Hotel|0.82716 in|0.83951 Baghdad|0.85185 by|0.8642 reporters|0.87654 Bernard|0.88889 Shaw|0.90123 John|0.91358 Holliman|0.92593 Peter|0.93827 Arnett|0.95062 and|0.96296 Charles|0.97531 Jaco|0.98765 |1"
+		}
+	}
+}

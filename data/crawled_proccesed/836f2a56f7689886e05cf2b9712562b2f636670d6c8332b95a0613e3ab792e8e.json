@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "836f2a56f7689886e05cf2b9712562b2f636670d6c8332b95a0613e3ab792e8e",
+			"url": "https://upload.wikimedia.org/math/8/1/8/818908330f001989d23765c52b3c124c.png",
+			"previous": " For the purposes of comparing stereoscopic images only the relative message length matters Based on this the information measure I called the Sum of Squares of Differences SSD is  so ",
+			"after": " where  Because of the cost in processing time of squaring numbers in SSD many implementations use Sum of Absolute Difference SAD as the basis for computing the information measure Other methods use normalized cross correlation NCC ",
+			"color": "dim|0.34334 gray|0.34334 dim|0.34334 grey|0.34334 gray|0.28425 grey|0.28425 dark|0.18981 gray|0.18981 dark|0.18981 grey|0.18981 silver|0.08812 light|0.043649 gray|0.043649 light|0.043649 grey|0.043649 gainsboro|0.031956 white|0.0048484 smoke|0.0048484  ",
+			"after_weights": " where|1 |0.97297 Because|0.94595 of|0.91892 the|0.89189 cost|0.86486 in|0.83784 processing|0.81081 time|0.78378 of|0.75676 squaring|0.72973 numbers|0.7027 in|0.67568 SSD|0.64865 many|0.62162 implementations|0.59459 use|0.56757 Sum|0.54054 of|0.51351 Absolute|0.48649 Difference|0.45946 SAD|0.43243 as|0.40541 the|0.37838 basis|0.35135 for|0.32432 computing|0.2973 the|0.27027 information|0.24324 measure|0.21622 Other|0.18919 methods|0.16216 use|0.13514 normalized|0.10811 cross|0.081081 correlation|0.054054 NCC|0.027027 |0",
+			"previous_weights": " For|0 the|0.032258 purposes|0.064516 of|0.096774 comparing|0.12903 stereoscopic|0.16129 images|0.19355 only|0.22581 the|0.25806 relative|0.29032 message|0.32258 length|0.35484 matters|0.3871 Based|0.41935 on|0.45161 this|0.48387 the|0.51613 information|0.54839 measure|0.58065 I|0.6129 called|0.64516 the|0.67742 Sum|0.70968 of|0.74194 Squares|0.77419 of|0.80645 Differences|0.83871 SSD|0.87097 is|0.90323 |0.93548 so|0.96774 |1"
+		}
+	}
+}

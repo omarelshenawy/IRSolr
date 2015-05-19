@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40390ac516a5933f1b20de3f1faad93e8c70c339983d64a4a510e7a686cef67f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Byzantiumby650AD.svg/400px-Byzantiumby650AD.svg.png",
+			"previous": " ",
+			"after": " After Maurice s murder by Phocas Khosrau used the pretext to reconquer the Roman province of Mesopotamia 49 Phocas an unpopular ruler invariably described in Byzantine sources as a tyrant was the target of a number of Senate led plots He was eventually deposed in 610 by Heraclius who sailed to Constantinople from Carthage with an icon affixed to the prow of his ship 50 ",
+			"color": "dark|0.4851 sea|0.4851 green|0.4851 dark|0.39627 salmon|0.39627 indian|0.052989 red|0.052989 salmon|0.01726 khaki|0.016762 light|0.0090279 coral|0.0090279 dim|0.0076732 gray|0.0076732 dim|0.0076732 grey|0.0076732 black|0.0051435  ",
+			"after_weights": " After|1 Maurice|0.98462 s|0.96923 murder|0.95385 by|0.93846 Phocas|0.92308 Khosrau|0.90769 used|0.89231 the|0.87692 pretext|0.86154 to|0.84615 reconquer|0.83077 the|0.81538 Roman|0.8 province|0.78462 of|0.76923 Mesopotamia|0.75385 49|0.73846 Phocas|0.72308 an|0.70769 unpopular|0.69231 ruler|0.67692 invariably|0.66154 described|0.64615 in|0.63077 Byzantine|0.61538 sources|0.6 as|0.58462 a|0.56923 tyrant|0.55385 was|0.53846 the|0.52308 target|0.50769 of|0.49231 a|0.47692 number|0.46154 of|0.44615 Senate|0.43077 led|0.41538 plots|0.4 He|0.38462 was|0.36923 eventually|0.35385 deposed|0.33846 in|0.32308 610|0.30769 by|0.29231 Heraclius|0.27692 who|0.26154 sailed|0.24615 to|0.23077 Constantinople|0.21538 from|0.2 Carthage|0.18462 with|0.16923 an|0.15385 icon|0.13846 affixed|0.12308 to|0.10769 the|0.092308 prow|0.076923 of|0.061538 his|0.046154 ship|0.030769 50|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

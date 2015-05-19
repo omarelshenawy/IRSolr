@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bf50b0ff34c28c4769b18727144caa53de3be08d02b5ffea737eb120ceb25ad",
+			"url": "https://upload.wikimedia.org/math/1/7/f/17f7a22a35eb2a7eb016cc9a1f6a7625.png",
+			"previous": " The canonical representation when it is known is convenient for easily computing products gcd and lcm ",
+			"after": " However as Integer factorization of large integers is much harder than computing their product gcd or lcm these formulas have in practice a limited usage ",
+			"color": "dim|0.34969 gray|0.34969 dim|0.34969 grey|0.34969 gray|0.21931 grey|0.21931 black|0.20731 dark|0.12119 gray|0.12119 dark|0.12119 grey|0.12119 silver|0.048205 light|0.023818 gray|0.023818 light|0.023818 grey|0.023818 gainsboro|0.016523  ",
+			"after_weights": " However|1 as|0.96 Integer|0.92 factorization|0.88 of|0.84 large|0.8 integers|0.76 is|0.72 much|0.68 harder|0.64 than|0.6 computing|0.56 their|0.52 product|0.48 gcd|0.44 or|0.4 lcm|0.36 these|0.32 formulas|0.28 have|0.24 in|0.2 practice|0.16 a|0.12 limited|0.08 usage|0.04 |0",
+			"previous_weights": " The|0 canonical|0.0625 representation|0.125 when|0.1875 it|0.25 is|0.3125 known|0.375 is|0.4375 convenient|0.5 for|0.5625 easily|0.625 computing|0.6875 products|0.75 gcd|0.8125 and|0.875 lcm|0.9375 |1"
+		}
+	}
+}

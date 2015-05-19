@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c5ddbe2195f7f28f9137f7d4e047d5e96dbb1683eac8f8e8d4cfc72cf011edf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Song_Thrush_cracking_a_snail_shell.ogg/220px--Song_Thrush_cracking_a_snail_shell.ogg.jpg",
+			"previous": " ",
+			"after": " The song thrush is not usually gregarious although several birds may roost together in winter or be loosely associated in suitable feeding habitats perhaps with other thrushes such as the blackbird fieldfare redwing and dark throated thrush 9 Unlike the more nomadic fieldfare and redwing the song thrush tends to return regularly to the same wintering areas 20 ",
+			"color": "dim|0.68616 gray|0.68616 dim|0.68616 grey|0.68616 gray|0.15015 grey|0.15015 dark|0.14228 olive|0.14228 green|0.14228 black|0.018289  ",
+			"after_weights": " The|1 song|0.98276 thrush|0.96552 is|0.94828 not|0.93103 usually|0.91379 gregarious|0.89655 although|0.87931 several|0.86207 birds|0.84483 may|0.82759 roost|0.81034 together|0.7931 in|0.77586 winter|0.75862 or|0.74138 be|0.72414 loosely|0.7069 associated|0.68966 in|0.67241 suitable|0.65517 feeding|0.63793 habitats|0.62069 perhaps|0.60345 with|0.58621 other|0.56897 thrushes|0.55172 such|0.53448 as|0.51724 the|0.5 blackbird|0.48276 fieldfare|0.46552 redwing|0.44828 and|0.43103 dark|0.41379 throated|0.39655 thrush|0.37931 9|0.36207 Unlike|0.34483 the|0.32759 more|0.31034 nomadic|0.2931 fieldfare|0.27586 and|0.25862 redwing|0.24138 the|0.22414 song|0.2069 thrush|0.18966 tends|0.17241 to|0.15517 return|0.13793 regularly|0.12069 to|0.10345 the|0.086207 same|0.068966 wintering|0.051724 areas|0.034483 20|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

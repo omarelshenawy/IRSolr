@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "437e61dd7e3ddd86a3ce8dcc5875501effd401e88655500d79c53b87d5d61ac9",
+			"url": "https://upload.wikimedia.org/math/3/0/f/30f45e48e78607044344b551f9accc3f.png",
+			"previous": " There are two sources of heat input The dominant source is the input of heat at the surface primarily due to evaporation The bulk aerodynamic formula for the rate of heat input per unit area at the surface is given by",
+			"after": " Thus the total rate of net energy production per unit surface area is given by",
+			"color": "dim|0.35147 gray|0.35147 dim|0.35147 grey|0.35147 gray|0.22949 grey|0.22949 dark|0.13587 gray|0.13587 dark|0.13587 grey|0.13587 black|0.12301 silver|0.067438 light|0.036286 gray|0.036286 light|0.036286 grey|0.036286 gainsboro|0.026109 white|0.0055372 smoke|0.0055372  ",
+			"after_weights": " Thus|1 the|0.92857 total|0.85714 rate|0.78571 of|0.71429 net|0.64286 energy|0.57143 production|0.5 per|0.42857 unit|0.35714 surface|0.28571 area|0.21429 is|0.14286 given|0.071429 by|0",
+			"previous_weights": " There|0 are|0.025 two|0.05 sources|0.075 of|0.1 heat|0.125 input|0.15 The|0.175 dominant|0.2 source|0.225 is|0.25 the|0.275 input|0.3 of|0.325 heat|0.35 at|0.375 the|0.4 surface|0.425 primarily|0.45 due|0.475 to|0.5 evaporation|0.525 The|0.55 bulk|0.575 aerodynamic|0.6 formula|0.625 for|0.65 the|0.675 rate|0.7 of|0.725 heat|0.75 input|0.775 per|0.8 unit|0.825 area|0.85 at|0.875 the|0.9 surface|0.925 is|0.95 given|0.975 by|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bd627c05546a61b1b0654f29128cd4c67a36813f56e5332fc58f963667ebb2a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nalanda.jpg/220px-Nalanda.jpg",
+			"previous": " ",
+			"after": " Education began in the earliest prehistory as adults trained the young in the knowledge and skills deemed necessary in their society In pre literate societies this was achieved orally and through imitation Story telling passed knowledge values and skills from one generation to the next As cultures began to extend their knowledge beyond skills that could be readily learned through imitation formal education developed Schools existed in Egypt at the time of the Middle Kingdom 4 ",
+			"color": "black|0.33626 gainsboro|0.070664 light|0.055927 gray|0.055927 light|0.055927 grey|0.055927 linen|0.052868 white|0.050401 smoke|0.050401 honeydew|0.045764 mint|0.042719 cream|0.042719 floral|0.042559 white|0.042559 sea|0.039947 shell|0.039947 old|0.039331 lace|0.039331 ivory|0.036203 azure|0.036191 dim|0.03485 gray|0.03485 dim|0.03485 grey|0.03485 white|0.019429 sienna|0.018955 gray|0.012835 grey|0.012835 saddle|0.012555 brown|0.012555 beige|0.011564 silver|0.01069 snow|0.010134  ",
+			"after_weights": " Education|1 began|0.98684 in|0.97368 the|0.96053 earliest|0.94737 prehistory|0.93421 as|0.92105 adults|0.90789 trained|0.89474 the|0.88158 young|0.86842 in|0.85526 the|0.84211 knowledge|0.82895 and|0.81579 skills|0.80263 deemed|0.78947 necessary|0.77632 in|0.76316 their|0.75 society|0.73684 In|0.72368 pre|0.71053 literate|0.69737 societies|0.68421 this|0.67105 was|0.65789 achieved|0.64474 orally|0.63158 and|0.61842 through|0.60526 imitation|0.59211 Story|0.57895 telling|0.56579 passed|0.55263 knowledge|0.53947 values|0.52632 and|0.51316 skills|0.5 from|0.48684 one|0.47368 generation|0.46053 to|0.44737 the|0.43421 next|0.42105 As|0.40789 cultures|0.39474 began|0.38158 to|0.36842 extend|0.35526 their|0.34211 knowledge|0.32895 beyond|0.31579 skills|0.30263 that|0.28947 could|0.27632 be|0.26316 readily|0.25 learned|0.23684 through|0.22368 imitation|0.21053 formal|0.19737 education|0.18421 developed|0.17105 Schools|0.15789 existed|0.14474 in|0.13158 Egypt|0.11842 at|0.10526 the|0.092105 time|0.078947 of|0.065789 the|0.052632 Middle|0.039474 Kingdom|0.026316 4|0.013158 |0",
+			"previous_weights": " "
+		}
+	}
+}

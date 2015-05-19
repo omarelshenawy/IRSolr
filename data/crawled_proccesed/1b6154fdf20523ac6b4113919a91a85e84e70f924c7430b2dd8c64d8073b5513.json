@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b6154fdf20523ac6b4113919a91a85e84e70f924c7430b2dd8c64d8073b5513",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BirdstrikeRV.jpg/220px-BirdstrikeRV.jpg",
+			"previous": " The Space Shuttle Discovery also hit a bird a vulture during the launch of STS 114 on July 26 2005 although the collision occurred soon after lift off and at low speed with no obvious damage to the shuttle 57 ",
+			"after": " On November 10 2008 Ryanair Flight 4102 from Frankfurt to Rome made an emergency landing at Ciampino Airport after multiple bird strikes caused both engines to fail After touchdown the left main landing gear collapsed and the aircraft briefly veered off the runway Passengers and crew were evacuated through the starboard emergency exits 59 ",
+			"color": "dim|0.45396 gray|0.45396 dim|0.45396 grey|0.45396 gray|0.29895 grey|0.29895 dark|0.1343 gray|0.1343 dark|0.1343 grey|0.1343 black|0.047096 silver|0.032411 light|0.013011 gray|0.013011 light|0.013011 grey|0.013011 slate|0.0069195 gray|0.0069195  ",
+			"after_weights": " On|1 November|0.98148 10|0.96296 2008|0.94444 Ryanair|0.92593 Flight|0.90741 4102|0.88889 from|0.87037 Frankfurt|0.85185 to|0.83333 Rome|0.81481 made|0.7963 an|0.77778 emergency|0.75926 landing|0.74074 at|0.72222 Ciampino|0.7037 Airport|0.68519 after|0.66667 multiple|0.64815 bird|0.62963 strikes|0.61111 caused|0.59259 both|0.57407 engines|0.55556 to|0.53704 fail|0.51852 After|0.5 touchdown|0.48148 the|0.46296 left|0.44444 main|0.42593 landing|0.40741 gear|0.38889 collapsed|0.37037 and|0.35185 the|0.33333 aircraft|0.31481 briefly|0.2963 veered|0.27778 off|0.25926 the|0.24074 runway|0.22222 Passengers|0.2037 and|0.18519 crew|0.16667 were|0.14815 evacuated|0.12963 through|0.11111 the|0.092593 starboard|0.074074 emergency|0.055556 exits|0.037037 59|0.018519 |0",
+			"previous_weights": " The|0 Space|0.025 Shuttle|0.05 Discovery|0.075 also|0.1 hit|0.125 a|0.15 bird|0.175 a|0.2 vulture|0.225 during|0.25 the|0.275 launch|0.3 of|0.325 STS|0.35 114|0.375 on|0.4 July|0.425 26|0.45 2005|0.475 although|0.5 the|0.525 collision|0.55 occurred|0.575 soon|0.6 after|0.625 lift|0.65 off|0.675 and|0.7 at|0.725 low|0.75 speed|0.775 with|0.8 no|0.825 obvious|0.85 damage|0.875 to|0.9 the|0.925 shuttle|0.95 57|0.975 |1"
+		}
+	}
+}

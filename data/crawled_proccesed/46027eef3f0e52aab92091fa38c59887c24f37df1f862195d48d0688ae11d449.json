@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "46027eef3f0e52aab92091fa38c59887c24f37df1f862195d48d0688ae11d449",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/SaM146_back.jpg/220px-SaM146_back.jpg",
+			"previous": " Powerjet has already delivered more than 100 SaM146 engines to Russian airframer SCAC for the SSJ100 program and plans to raise the production rate towards a goal of building 100 engines in 2015 7 ",
+			"after": " Data from 8 Specifications labeled with are from the type certification here 9 ",
+			"color": "dim|0.22654 gray|0.22654 dim|0.22654 grey|0.22654 black|0.14435 gray|0.12997 grey|0.12997 dark|0.1093 gray|0.1093 dark|0.1093 grey|0.1093 silver|0.076675 light|0.061401 gray|0.061401 light|0.061401 grey|0.061401 gainsboro|0.048711 white|0.02033 smoke|0.02033 alice|0.018473 blue|0.018473 ghost|0.016597 white|0.016597 slate|0.015037 gray|0.015037 light|0.014575 slate|0.014575 gray|0.014575 lavender|0.013722 blush|0.013722 snow|0.013623 white|0.012057 sea|0.011348 shell|0.011348 azure|0.011109 lavender|0.010296 mint|0.010071 cream|0.010071 light|0.0084169 steel|0.0084169 blue|0.0084169 floral|0.0075512 white|0.0075512 dark|0.0049162 slate|0.0049162 gray|0.0049162  ",
+			"after_weights": " Data|1 from|0.92308 8|0.84615 Specifications|0.76923 labeled|0.69231 with|0.61538 are|0.53846 from|0.46154 the|0.38462 type|0.30769 certification|0.23077 here|0.15385 9|0.076923 |0",
+			"previous_weights": " Powerjet|0 has|0.029412 already|0.058824 delivered|0.088235 more|0.11765 than|0.14706 100|0.17647 SaM146|0.20588 engines|0.23529 to|0.26471 Russian|0.29412 airframer|0.32353 SCAC|0.35294 for|0.38235 the|0.41176 SSJ100|0.44118 program|0.47059 and|0.5 plans|0.52941 to|0.55882 raise|0.58824 the|0.61765 production|0.64706 rate|0.67647 towards|0.70588 a|0.73529 goal|0.76471 of|0.79412 building|0.82353 100|0.85294 engines|0.88235 in|0.91176 2015|0.94118 7|0.97059 |1"
+		}
+	}
+}

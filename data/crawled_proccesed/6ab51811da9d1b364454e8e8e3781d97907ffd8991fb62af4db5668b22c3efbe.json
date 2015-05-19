@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ab51811da9d1b364454e8e8e3781d97907ffd8991fb62af4db5668b22c3efbe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Irist_expo_mount.JPG/220px-Irist_expo_mount.JPG",
+			"previous": " By June 2014 there had been two fatal crashes in about 240 000 flight hours flown by 406 aircraft delivered to six different Air Forces 283 ",
+			"after": " Data from RAF Typhoon data 299 Air Forces Monthly 133 Superfighters 300 and Brassey s Modern Fighters 301  General characteristics Performance Armament Avionics",
+			"color": "black|0.33582 dim|0.09564 gray|0.09564 dim|0.09564 grey|0.09564 gray|0.056634 grey|0.056634 dark|0.053245 gray|0.053245 dark|0.053245 grey|0.053245 slate|0.048895 gray|0.048895 light|0.035187 slate|0.035187 gray|0.035187 silver|0.028702 white|0.01612 smoke|0.01612 snow|0.015613 white|0.015508 light|0.015395 gray|0.015395 light|0.015395 grey|0.015395 sea|0.015127 shell|0.015127 floral|0.014983 white|0.014983 mint|0.014902 cream|0.014902 dark|0.014723 khaki|0.014723 pale|0.01461 golden|0.01461 rod|0.01461 ghost|0.014239 white|0.014239 khaki|0.013466 alice|0.013341 blue|0.013341 rosy|0.013272 brown|0.013272 azure|0.012946 lavender|0.011415 blush|0.011415 gainsboro|0.010427 tan|0.0088996  ",
+			"after_weights": " Data|1 from|0.95652 RAF|0.91304 Typhoon|0.86957 data|0.82609 299|0.78261 Air|0.73913 Forces|0.69565 Monthly|0.65217 133|0.6087 Superfighters|0.56522 300|0.52174 and|0.47826 Brassey|0.43478 s|0.3913 Modern|0.34783 Fighters|0.30435 301|0.26087 |0.21739 General|0.17391 characteristics|0.13043 Performance|0.086957 Armament|0.043478 Avionics|0",
+			"previous_weights": " By|0 June|0.038462 2014|0.076923 there|0.11538 had|0.15385 been|0.19231 two|0.23077 fatal|0.26923 crashes|0.30769 in|0.34615 about|0.38462 240|0.42308 000|0.46154 flight|0.5 hours|0.53846 flown|0.57692 by|0.61538 406|0.65385 aircraft|0.69231 delivered|0.73077 to|0.76923 six|0.80769 different|0.84615 Air|0.88462 Forces|0.92308 283|0.96154 |1"
+		}
+	}
+}

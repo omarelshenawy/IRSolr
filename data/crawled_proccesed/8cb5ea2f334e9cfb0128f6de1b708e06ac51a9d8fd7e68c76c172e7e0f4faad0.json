@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cb5ea2f334e9cfb0128f6de1b708e06ac51a9d8fd7e68c76c172e7e0f4faad0",
+			"url": "https://upload.wikimedia.org/math/f/9/6/f9698612ee55b6456c9bc025c1362de3.png",
+			"previous": " Length of the code word is written as is the code word associated with   or if the empty string is not part of the alphabet  A code is a function",
+			"after": " Expected length of a code is  The concatenation of code words  The code word of the empty string is the empty string itself ",
+			"color": "gray|0.34281 grey|0.34281 dim|0.23923 gray|0.23923 dim|0.23923 grey|0.23923 dark|0.22908 gray|0.22908 dark|0.22908 grey|0.22908 silver|0.093781 light|0.045366 gray|0.045366 light|0.045366 grey|0.045366 gainsboro|0.030949 white|0.0053736 smoke|0.0053736  ",
+			"after_weights": " Expected|1 length|0.96 of|0.92 a|0.88 code|0.84 is|0.8 |0.76 The|0.72 concatenation|0.68 of|0.64 code|0.6 words|0.56 |0.52 The|0.48 code|0.44 word|0.4 of|0.36 the|0.32 empty|0.28 string|0.24 is|0.2 the|0.16 empty|0.12 string|0.08 itself|0.04 |0",
+			"previous_weights": " Length|0 of|0.03125 the|0.0625 code|0.09375 word|0.125 is|0.15625 written|0.1875 as|0.21875 is|0.25 the|0.28125 code|0.3125 word|0.34375 associated|0.375 with|0.40625 |0.4375 |0.46875 or|0.5 if|0.53125 the|0.5625 empty|0.59375 string|0.625 is|0.65625 not|0.6875 part|0.71875 of|0.75 the|0.78125 alphabet|0.8125 |0.84375 A|0.875 code|0.90625 is|0.9375 a|0.96875 function|1"
+		}
+	}
+}

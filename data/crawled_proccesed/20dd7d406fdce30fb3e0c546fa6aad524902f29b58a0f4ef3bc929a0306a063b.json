@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "20dd7d406fdce30fb3e0c546fa6aad524902f29b58a0f4ef3bc929a0306a063b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Heteralocha_acutirostris.jpg/220px-Heteralocha_acutirostris.jpg",
+			"previous": " ",
+			"after": " The genus name Heteralocha derives from Ancient Greek different and wife 2 It refers to the striking difference in bill shape between male and female The specific name acutirostris derives from Latin acutus meaning sharp pointed and rostrum meaning beak and refers to the beak of the female 3 ",
+			"color": "black|0.8678 dim|0.041016 gray|0.041016 dim|0.041016 grey|0.041016 gray|0.021545 grey|0.021545 dark|0.0197 gray|0.0197 dark|0.0197 grey|0.0197 slate|0.0081992 gray|0.0081992 silver|0.0069722 light|0.0067402 slate|0.0067402 gray|0.0067402  ",
+			"after_weights": " The|1 genus|0.97959 name|0.95918 Heteralocha|0.93878 derives|0.91837 from|0.89796 Ancient|0.87755 Greek|0.85714 different|0.83673 and|0.81633 wife|0.79592 2|0.77551 It|0.7551 refers|0.73469 to|0.71429 the|0.69388 striking|0.67347 difference|0.65306 in|0.63265 bill|0.61224 shape|0.59184 between|0.57143 male|0.55102 and|0.53061 female|0.5102 The|0.4898 specific|0.46939 name|0.44898 acutirostris|0.42857 derives|0.40816 from|0.38776 Latin|0.36735 acutus|0.34694 meaning|0.32653 sharp|0.30612 pointed|0.28571 and|0.26531 rostrum|0.2449 meaning|0.22449 beak|0.20408 and|0.18367 refers|0.16327 to|0.14286 the|0.12245 beak|0.10204 of|0.081633 the|0.061224 female|0.040816 3|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

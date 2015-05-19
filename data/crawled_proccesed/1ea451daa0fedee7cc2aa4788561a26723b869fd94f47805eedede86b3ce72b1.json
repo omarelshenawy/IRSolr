@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ea451daa0fedee7cc2aa4788561a26723b869fd94f47805eedede86b3ce72b1",
+			"url": "https://upload.wikimedia.org/math/9/d/2/9d2aacea572e53e8e0e95f926855a366.png",
+			"previous": " Method Using ISO weekday numbers running from 1 for Monday to 7 for Sunday subtract the weekday from the ordinal date then add 10 Divide the result by 7 Ignore the remainder the quotient equals the week number If the week number thus obtained equals 0 it means that the given date belongs to the preceding week based year If a week number of 53 is obtained one must check that the date is not actually in week 1 of the following year ",
+			"after": " Example Friday 26 September 2008",
+			"color": "dim|0.29378 gray|0.29378 dim|0.29378 grey|0.29378 black|0.27546 gray|0.20109 grey|0.20109 dark|0.12505 gray|0.12505 dark|0.12505 grey|0.12505 silver|0.051635 light|0.023885 gray|0.023885 light|0.023885 grey|0.023885 gainsboro|0.016068  ",
+			"after_weights": " Example|1 Friday|0.75 26|0.5 September|0.25 2008|0",
+			"previous_weights": " Method|0 Using|0.012048 ISO|0.024096 weekday|0.036145 numbers|0.048193 running|0.060241 from|0.072289 1|0.084337 for|0.096386 Monday|0.10843 to|0.12048 7|0.13253 for|0.14458 Sunday|0.15663 subtract|0.16867 the|0.18072 weekday|0.19277 from|0.20482 the|0.21687 ordinal|0.22892 date|0.24096 then|0.25301 add|0.26506 10|0.27711 Divide|0.28916 the|0.3012 result|0.31325 by|0.3253 7|0.33735 Ignore|0.3494 the|0.36145 remainder|0.37349 the|0.38554 quotient|0.39759 equals|0.40964 the|0.42169 week|0.43373 number|0.44578 If|0.45783 the|0.46988 week|0.48193 number|0.49398 thus|0.50602 obtained|0.51807 equals|0.53012 0|0.54217 it|0.55422 means|0.56627 that|0.57831 the|0.59036 given|0.60241 date|0.61446 belongs|0.62651 to|0.63855 the|0.6506 preceding|0.66265 week|0.6747 based|0.68675 year|0.6988 If|0.71084 a|0.72289 week|0.73494 number|0.74699 of|0.75904 53|0.77108 is|0.78313 obtained|0.79518 one|0.80723 must|0.81928 check|0.83133 that|0.84337 the|0.85542 date|0.86747 is|0.87952 not|0.89157 actually|0.90361 in|0.91566 week|0.92771 1|0.93976 of|0.95181 the|0.96386 following|0.9759 year|0.98795 |1"
+		}
+	}
+}

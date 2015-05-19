@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9564dd379c624096e01597b1066ad8cc37d80da4d5e00393b8efe1fd9051a2bf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kidsflight_1.jpg/220px-Kidsflight_1.jpg",
+			"previous": " NOTE The last variant of the BK117 was the C 1 The BK117 C 2 is actually the brand name for the EC 145 for the Australasian market and as such is an EC 145 not a BK117 ",
+			"after": " The majority of the helicopters are operated by various emergency services although it is also operated by private individuals companies and executive charter operators ",
+			"color": "gray|0.25992 grey|0.25992 dim|0.23354 gray|0.23354 dim|0.23354 grey|0.23354 black|0.16987 dark|0.10527 gray|0.10527 dark|0.10527 grey|0.10527 silver|0.067142 light|0.035831 gray|0.035831 light|0.035831 grey|0.035831 gainsboro|0.023199 slate|0.0098545 gray|0.0098545 light|0.0073609 slate|0.0073609 gray|0.0073609 sienna|0.0072457 dark|0.0068195 slate|0.0068195 gray|0.0068195  ",
+			"after_weights": " The|1 majority|0.95833 of|0.91667 the|0.875 helicopters|0.83333 are|0.79167 operated|0.75 by|0.70833 various|0.66667 emergency|0.625 services|0.58333 although|0.54167 it|0.5 is|0.45833 also|0.41667 operated|0.375 by|0.33333 private|0.29167 individuals|0.25 companies|0.20833 and|0.16667 executive|0.125 charter|0.083333 operators|0.041667 |0",
+			"previous_weights": " NOTE|0 The|0.026316 last|0.052632 variant|0.078947 of|0.10526 the|0.13158 BK117|0.15789 was|0.18421 the|0.21053 C|0.23684 1|0.26316 The|0.28947 BK117|0.31579 C|0.34211 2|0.36842 is|0.39474 actually|0.42105 the|0.44737 brand|0.47368 name|0.5 for|0.52632 the|0.55263 EC|0.57895 145|0.60526 for|0.63158 the|0.65789 Australasian|0.68421 market|0.71053 and|0.73684 as|0.76316 such|0.78947 is|0.81579 an|0.84211 EC|0.86842 145|0.89474 not|0.92105 a|0.94737 BK117|0.97368 |1"
+		}
+	}
+}

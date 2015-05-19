@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fd2d0055da8608a01ebda6515bfe7231e07585c6fc53c911419b69b2d0e3a30",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Aeroflot-Don_Ilyushin_Il-86_passenger_cabin_Kustov.jpg/220px-Aeroflot-Don_Ilyushin_Il-86_passenger_cabin_Kustov.jpg",
+			"previous": " ",
+			"after": " Many airports had terminals too small for aerobuses 9 In the West the solution to this involved constructing greater airport capacity 10 By contrast Soviet aviation research institutes addressed ways of increasing passenger throughput without the need for additional airport capacity ",
+			"color": "black|0.61411 dim|0.19082 gray|0.19082 dim|0.19082 grey|0.19082 gray|0.11095 grey|0.11095 dark|0.043784 gray|0.043784 dark|0.043784 grey|0.043784 dark|0.022362 slate|0.022362 gray|0.022362 silver|0.0076144  ",
+			"after_weights": " Many|1 airports|0.97561 had|0.95122 terminals|0.92683 too|0.90244 small|0.87805 for|0.85366 aerobuses|0.82927 9|0.80488 In|0.78049 the|0.7561 West|0.73171 the|0.70732 solution|0.68293 to|0.65854 this|0.63415 involved|0.60976 constructing|0.58537 greater|0.56098 airport|0.53659 capacity|0.5122 10|0.4878 By|0.46341 contrast|0.43902 Soviet|0.41463 aviation|0.39024 research|0.36585 institutes|0.34146 addressed|0.31707 ways|0.29268 of|0.26829 increasing|0.2439 passenger|0.21951 throughput|0.19512 without|0.17073 the|0.14634 need|0.12195 for|0.097561 additional|0.073171 airport|0.04878 capacity|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

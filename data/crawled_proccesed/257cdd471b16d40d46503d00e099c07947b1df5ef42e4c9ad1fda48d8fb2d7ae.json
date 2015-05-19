@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "257cdd471b16d40d46503d00e099c07947b1df5ef42e4c9ad1fda48d8fb2d7ae",
+			"url": "https://upload.wikimedia.org/math/a/e/6/ae6244904cc7672e37961f6105a6040f.png",
+			"previous": " These coordinate functionals have the properties  which can be written in matrix form as",
+			"after": " These equations can be assembled into the single matrix equation  Thus the matrix formed by the coordinate linear functionals is the inverse of the matrix formed by the basis vectors 20 22 ",
+			"color": "dim|0.39898 gray|0.39898 dim|0.39898 grey|0.39898 gray|0.28204 grey|0.28204 dark|0.15711 gray|0.15711 dark|0.15711 grey|0.15711 silver|0.071124 light|0.037541 gray|0.037541 light|0.037541 grey|0.037541 gainsboro|0.027098 white|0.0058142 smoke|0.0058142  ",
+			"after_weights": " These|1 equations|0.9697 can|0.93939 be|0.90909 assembled|0.87879 into|0.84848 the|0.81818 single|0.78788 matrix|0.75758 equation|0.72727 |0.69697 Thus|0.66667 the|0.63636 matrix|0.60606 formed|0.57576 by|0.54545 the|0.51515 coordinate|0.48485 linear|0.45455 functionals|0.42424 is|0.39394 the|0.36364 inverse|0.33333 of|0.30303 the|0.27273 matrix|0.24242 formed|0.21212 by|0.18182 the|0.15152 basis|0.12121 vectors|0.090909 20|0.060606 22|0.030303 |0",
+			"previous_weights": " These|0 coordinate|0.071429 functionals|0.14286 have|0.21429 the|0.28571 properties|0.35714 |0.42857 which|0.5 can|0.57143 be|0.64286 written|0.71429 in|0.78571 matrix|0.85714 form|0.92857 as|1"
+		}
+	}
+}

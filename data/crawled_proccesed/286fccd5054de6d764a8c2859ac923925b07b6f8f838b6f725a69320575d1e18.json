@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "286fccd5054de6d764a8c2859ac923925b07b6f8f838b6f725a69320575d1e18",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Louis_Auguste_Blanqui.JPG/170px-Louis_Auguste_Blanqui.JPG",
+			"previous": " ",
+			"after": " Paris is the traditional home of French radical movements Revolutionaries had gone into the streets to oppose their governments during the 1789 French Revolution the popular uprisings of July 1830 and June 1848 all were violently repressed by the government ",
+			"color": "silver|0.52544 dark|0.45181 gray|0.45181 dark|0.45181 grey|0.45181 rosy|0.0097418 brown|0.0097418  ",
+			"after_weights": " Paris|1 is|0.975 the|0.95 traditional|0.925 home|0.9 of|0.875 French|0.85 radical|0.825 movements|0.8 Revolutionaries|0.775 had|0.75 gone|0.725 into|0.7 the|0.675 streets|0.65 to|0.625 oppose|0.6 their|0.575 governments|0.55 during|0.525 the|0.5 1789|0.475 French|0.45 Revolution|0.425 the|0.4 popular|0.375 uprisings|0.35 of|0.325 July|0.3 1830|0.275 and|0.25 June|0.225 1848|0.2 all|0.175 were|0.15 violently|0.125 repressed|0.1 by|0.075 the|0.05 government|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

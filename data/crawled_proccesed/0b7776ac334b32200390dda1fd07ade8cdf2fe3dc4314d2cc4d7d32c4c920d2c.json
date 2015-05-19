@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b7776ac334b32200390dda1fd07ade8cdf2fe3dc4314d2cc4d7d32c4c920d2c",
+			"url": "https://upload.wikimedia.org/math/c/c/4/cc4bbbbbb23b45d0a3a01174b7311dd9.png",
+			"previous": " If we denote acceleration the second derivative of x t with respect to time as the equations of motion are ",
+			"after": " Since we expect oscillatory motion of a normal mode where is the same for both masses we try ",
+			"color": "black|0.30801 dim|0.26211 gray|0.26211 dim|0.26211 grey|0.26211 gray|0.1787 grey|0.1787 dark|0.1197 gray|0.1197 dark|0.1197 grey|0.1197 silver|0.060144 light|0.032919 gray|0.032919 light|0.032919 grey|0.032919 gainsboro|0.023738 white|0.0035393 smoke|0.0035393  ",
+			"after_weights": " Since|1 we|0.94444 expect|0.88889 oscillatory|0.83333 motion|0.77778 of|0.72222 a|0.66667 normal|0.61111 mode|0.55556 where|0.5 is|0.44444 the|0.38889 same|0.33333 for|0.27778 both|0.22222 masses|0.16667 we|0.11111 try|0.055556 |0",
+			"previous_weights": " If|0 we|0.05 denote|0.1 acceleration|0.15 the|0.2 second|0.25 derivative|0.3 of|0.35 x|0.4 t|0.45 with|0.5 respect|0.55 to|0.6 time|0.65 as|0.7 the|0.75 equations|0.8 of|0.85 motion|0.9 are|0.95 |1"
+		}
+	}
+}

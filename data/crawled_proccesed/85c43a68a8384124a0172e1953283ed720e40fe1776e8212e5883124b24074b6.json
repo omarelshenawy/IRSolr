@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "85c43a68a8384124a0172e1953283ed720e40fe1776e8212e5883124b24074b6",
+			"url": "https://upload.wikimedia.org/math/f/e/b/feb8c90327fd0249966eec4aa841c653.png",
+			"previous": " More generally most physical quantities are best described as components of tensors So to transform from one frame to another we use the well known tensor transformation law 46 ",
+			"after": " where is the reciprocal matrix of All tensors transform by this rule ",
+			"color": "gray|0.24573 grey|0.24573 dim|0.24154 gray|0.24154 dim|0.24154 grey|0.24154 dark|0.22416 gray|0.22416 dark|0.22416 grey|0.22416 black|0.1725 silver|0.083904 light|0.023085 gray|0.023085 light|0.023085 grey|0.023085 gainsboro|0.0087546  ",
+			"after_weights": " where|1 is|0.91667 the|0.83333 reciprocal|0.75 matrix|0.66667 of|0.58333 All|0.5 tensors|0.41667 transform|0.33333 by|0.25 this|0.16667 rule|0.083333 |0",
+			"previous_weights": " More|0 generally|0.034483 most|0.068966 physical|0.10345 quantities|0.13793 are|0.17241 best|0.2069 described|0.24138 as|0.27586 components|0.31034 of|0.34483 tensors|0.37931 So|0.41379 to|0.44828 transform|0.48276 from|0.51724 one|0.55172 frame|0.58621 to|0.62069 another|0.65517 we|0.68966 use|0.72414 the|0.75862 well|0.7931 known|0.82759 tensor|0.86207 transformation|0.89655 law|0.93103 46|0.96552 |1"
+		}
+	}
+}

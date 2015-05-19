@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ad0bc241092772e01d4ee33c4b2145f66634688e7f42f743717b92a1242750f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Crystal_Clear_app_package_network.png/20px-Crystal_Clear_app_package_network.png",
+			"previous": " History Thracians Bulgars Slavs Bulgarians Old Great Bulgaria First Bulgarian Empire Second Bulgarian Empire History of Ottoman Bulgaria National awakening History of Independent Bulgaria Balkan Wars During World War I During World War II History of the People s Republic of Bulgaria History since 1989",
+			"after": " Politics Government Presidents Prime Ministers National Assembly Elections Parties Foreign relations",
+			"color": "light|0.28118 steel|0.28118 blue|0.28118 lavender|0.2419 gainsboro|0.11384 light|0.07133 gray|0.07133 light|0.07133 grey|0.07133 alice|0.053395 blue|0.053395 ghost|0.048757 white|0.048757 white|0.039103 smoke|0.039103 lavender|0.035968 blush|0.035968 snow|0.0233 white|0.018193 azure|0.015437 silver|0.01386 light|0.01361 slate|0.01361 gray|0.01361 dark|0.012423 gray|0.012423 dark|0.012423 grey|0.012423 mint|0.0088222 cream|0.0088222  ",
+			"after_weights": " Politics|1 Government|0.9 Presidents|0.8 Prime|0.7 Ministers|0.6 National|0.5 Assembly|0.4 Elections|0.3 Parties|0.2 Foreign|0.1 relations|0",
+			"previous_weights": " History|0 Thracians|0.022727 Bulgars|0.045455 Slavs|0.068182 Bulgarians|0.090909 Old|0.11364 Great|0.13636 Bulgaria|0.15909 First|0.18182 Bulgarian|0.20455 Empire|0.22727 Second|0.25 Bulgarian|0.27273 Empire|0.29545 History|0.31818 of|0.34091 Ottoman|0.36364 Bulgaria|0.38636 National|0.40909 awakening|0.43182 History|0.45455 of|0.47727 Independent|0.5 Bulgaria|0.52273 Balkan|0.54545 Wars|0.56818 During|0.59091 World|0.61364 War|0.63636 I|0.65909 During|0.68182 World|0.70455 War|0.72727 II|0.75 History|0.77273 of|0.79545 the|0.81818 People|0.84091 s|0.86364 Republic|0.88636 of|0.90909 Bulgaria|0.93182 History|0.95455 since|0.97727 1989|1"
+		}
+	}
+}

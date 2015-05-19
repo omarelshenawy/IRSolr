@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ac41a055c3187e7f09a530a593aab975d944a342487a04263168a319e900afe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Boeing_Stearman_N2S_Kaydet_drawings.PNG/190px-Boeing_Stearman_N2S_Kaydet_drawings.PNG",
+			"previous": " A considerable number of Stearmans remain in flying condition throughout the world as the type remains a popular sport plane and warbird ",
+			"after": " Data from United States Military Aircraft since 1909 26  General characteristics Performance",
+			"color": "dark|0.25209 gray|0.25209 dark|0.25209 grey|0.25209 silver|0.18371 gray|0.15715 grey|0.15715 light|0.12838 gray|0.12838 light|0.12838 grey|0.12838 gainsboro|0.099937 dim|0.059598 gray|0.059598 dim|0.059598 grey|0.059598 white|0.022146 smoke|0.022146 lavender|0.012348 blush|0.012348 alice|0.012348 blue|0.012348 ghost|0.012035 white|0.012035 sea|0.011407 shell|0.011407 snow|0.011251 white|0.0097867 linen|0.0086784 mint|0.0081556 cream|0.0081556 floral|0.0059598 white|0.0059598 azure|0.0048934  ",
+			"after_weights": " Data|1 from|0.91667 United|0.83333 States|0.75 Military|0.66667 Aircraft|0.58333 since|0.5 1909|0.41667 26|0.33333 |0.25 General|0.16667 characteristics|0.083333 Performance|0",
+			"previous_weights": " A|0 considerable|0.045455 number|0.090909 of|0.13636 Stearmans|0.18182 remain|0.22727 in|0.27273 flying|0.31818 condition|0.36364 throughout|0.40909 the|0.45455 world|0.5 as|0.54545 the|0.59091 type|0.63636 remains|0.68182 a|0.72727 popular|0.77273 sport|0.81818 plane|0.86364 and|0.90909 warbird|0.95455 |1"
+		}
+	}
+}

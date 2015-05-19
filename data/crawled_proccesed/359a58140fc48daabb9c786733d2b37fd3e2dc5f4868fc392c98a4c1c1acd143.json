@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "359a58140fc48daabb9c786733d2b37fd3e2dc5f4868fc392c98a4c1c1acd143",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Beginning_C1938.jpg/220px-The_Beginning_C1938.jpg",
+			"previous": " ",
+			"after": " In February 1935 the Government of Canada announced its intention to build an airport in Toronto A site near Malton Ontario northwest of Toronto was chosen as the location for the new airport 17 ",
+			"color": "dim|0.40985 gray|0.40985 dim|0.40985 grey|0.40985 gray|0.37469 grey|0.37469 dark|0.16302 gray|0.16302 dark|0.16302 grey|0.16302 silver|0.028917 light|0.0076121 gray|0.0076121 light|0.0076121 grey|0.0076121 gainsboro|0.0047096  ",
+			"after_weights": " In|1 February|0.97059 1935|0.94118 the|0.91176 Government|0.88235 of|0.85294 Canada|0.82353 announced|0.79412 its|0.76471 intention|0.73529 to|0.70588 build|0.67647 an|0.64706 airport|0.61765 in|0.58824 Toronto|0.55882 A|0.52941 site|0.5 near|0.47059 Malton|0.44118 Ontario|0.41176 northwest|0.38235 of|0.35294 Toronto|0.32353 was|0.29412 chosen|0.26471 as|0.23529 the|0.20588 location|0.17647 for|0.14706 the|0.11765 new|0.088235 airport|0.058824 17|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

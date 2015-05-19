@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78c8685f16b3f3fb30e0d5643dbee3d391726004b17a5ccc7ad0ca4307f5a641",
+			"url": "https://upload.wikimedia.org/math/1/2/6/1266f54b398379b7484a373c8200f4c9.png",
+			"previous": " The cumulative present value of future cash flows can be calculated by summing the contributions of FVt the value of cash flow at time t",
+			"after": " Note that this series can be summed for a given value of n or when n is 7 This is a very general formula which leads to several important special cases given below ",
+			"color": "dim|0.35493 gray|0.35493 dim|0.35493 grey|0.35493 gray|0.28301 grey|0.28301 dark|0.20921 gray|0.20921 dark|0.20921 grey|0.20921 silver|0.083883 light|0.032468 gray|0.032468 light|0.032468 grey|0.032468 gainsboro|0.023146 white|0.0033793 smoke|0.0033793  ",
+			"after_weights": " Note|1 that|0.9697 this|0.93939 series|0.90909 can|0.87879 be|0.84848 summed|0.81818 for|0.78788 a|0.75758 given|0.72727 value|0.69697 of|0.66667 n|0.63636 or|0.60606 when|0.57576 n|0.54545 is|0.51515 7|0.48485 This|0.45455 is|0.42424 a|0.39394 very|0.36364 general|0.33333 formula|0.30303 which|0.27273 leads|0.24242 to|0.21212 several|0.18182 important|0.15152 special|0.12121 cases|0.090909 given|0.060606 below|0.030303 |0",
+			"previous_weights": " The|0 cumulative|0.041667 present|0.083333 value|0.125 of|0.16667 future|0.20833 cash|0.25 flows|0.29167 can|0.33333 be|0.375 calculated|0.41667 by|0.45833 summing|0.5 the|0.54167 contributions|0.58333 of|0.625 FVt|0.66667 the|0.70833 value|0.75 of|0.79167 cash|0.83333 flow|0.875 at|0.91667 time|0.95833 t|1"
+		}
+	}
+}

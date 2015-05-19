@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "804f6742bfd760d61d1c154cf847380ce878fd3fd70601481a15d0540dc8077d",
+			"url": "https://upload.wikimedia.org/math/5/2/b/52b0544979e522028263701b69199fe3.png",
+			"previous": " The distribution of primes in the large such as the question how many primes are smaller than a given large threshold is described by the prime number theorem but no efficient formula for the n th prime is known ",
+			"after": " Dirichlet s theorem on arithmetic progressions in its basic form asserts that linear polynomials",
+			"color": "dim|0.4052 gray|0.4052 dim|0.4052 grey|0.4052 gray|0.27492 grey|0.27492 dark|0.15846 gray|0.15846 dark|0.15846 grey|0.15846 silver|0.070864 light|0.037374 gray|0.037374 light|0.037374 grey|0.037374 gainsboro|0.027178 white|0.0059686 smoke|0.0059686  ",
+			"after_weights": " Dirichlet|1 s|0.92308 theorem|0.84615 on|0.76923 arithmetic|0.69231 progressions|0.61538 in|0.53846 its|0.46154 basic|0.38462 form|0.30769 asserts|0.23077 that|0.15385 linear|0.076923 polynomials|0",
+			"previous_weights": " The|0 distribution|0.025641 of|0.051282 primes|0.076923 in|0.10256 the|0.12821 large|0.15385 such|0.17949 as|0.20513 the|0.23077 question|0.25641 how|0.28205 many|0.30769 primes|0.33333 are|0.35897 smaller|0.38462 than|0.41026 a|0.4359 given|0.46154 large|0.48718 threshold|0.51282 is|0.53846 described|0.5641 by|0.58974 the|0.61538 prime|0.64103 number|0.66667 theorem|0.69231 but|0.71795 no|0.74359 efficient|0.76923 formula|0.79487 for|0.82051 the|0.84615 n|0.87179 th|0.89744 prime|0.92308 is|0.94872 known|0.97436 |1"
+		}
+	}
+}

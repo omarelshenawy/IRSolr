@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4744a153f401d3fa29358add3638123badd247a9eab82f6d4b4209e4dd738f95",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lbj2.jpg/220px-Lbj2.jpg",
+			"previous": " On March 23 2007 President George W Bush signed legislation naming the United States Department of Education headquarters after President Johnson 255 ",
+			"after": " 2008 was the celebration of the Johnson Centennial featuring special programs events and parties across Texas and in Washington D C Johnson would have been 100 years old on August 27 2008 ",
+			"color": "black|0.20458 dim|0.11381 gray|0.11381 dim|0.11381 grey|0.11381 firebrick|0.087799 dark|0.067514 salmon|0.067514 dark|0.052466 slate|0.052466 gray|0.052466 gray|0.041857 grey|0.041857 brown|0.040976 dark|0.027555 gray|0.027555 dark|0.027555 grey|0.027555 maroon|0.02381 rosy|0.022471 brown|0.022471 misty|0.02024 rose|0.02024 silver|0.018353 light|0.016334 gray|0.016334 light|0.016334 grey|0.016334 gainsboro|0.013769 antique|0.01305 white|0.01305 dark|0.012439 red|0.012439 linen|0.011005 slate|0.010185 gray|0.010185  ",
+			"after_weights": " 2008|1 was|0.96875 the|0.9375 celebration|0.90625 of|0.875 the|0.84375 Johnson|0.8125 Centennial|0.78125 featuring|0.75 special|0.71875 programs|0.6875 events|0.65625 and|0.625 parties|0.59375 across|0.5625 Texas|0.53125 and|0.5 in|0.46875 Washington|0.4375 D|0.40625 C|0.375 Johnson|0.34375 would|0.3125 have|0.28125 been|0.25 100|0.21875 years|0.1875 old|0.15625 on|0.125 August|0.09375 27|0.0625 2008|0.03125 |0",
+			"previous_weights": " On|0 March|0.045455 23|0.090909 2007|0.13636 President|0.18182 George|0.22727 W|0.27273 Bush|0.31818 signed|0.36364 legislation|0.40909 naming|0.45455 the|0.5 United|0.54545 States|0.59091 Department|0.63636 of|0.68182 Education|0.72727 headquarters|0.77273 after|0.81818 President|0.86364 Johnson|0.90909 255|0.95455 |1"
+		}
+	}
+}

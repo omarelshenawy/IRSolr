@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e35a92607914b77f5bd3d6a8b88be65aca5c873be53776b5e32e6d0d8bccd9e",
+			"url": "https://upload.wikimedia.org/math/c/c/4/cc4dc168b2858b9edc86e81f780931a8.png",
+			"previous": " Often the Lagrangian coordinates are chosen to coincide with the Eulerian coordinates x at the initial time t t0 4 ",
+			"after": " But also other ways of labeling the fluid parcels are possible  If the average value of a quantity is denoted by an overbar then the average Eulerian velocity vector E and average Lagrangian velocity vector L are ",
+			"color": "dim|0.37124 gray|0.37124 dim|0.37124 grey|0.37124 gray|0.29268 grey|0.29268 dark|0.18868 gray|0.18868 dark|0.18868 grey|0.18868 silver|0.073883 light|0.033657 gray|0.033657 light|0.033657 grey|0.033657 gainsboro|0.023778 white|0.0042872 smoke|0.0042872  ",
+			"after_weights": " But|1 also|0.97368 other|0.94737 ways|0.92105 of|0.89474 labeling|0.86842 the|0.84211 fluid|0.81579 parcels|0.78947 are|0.76316 possible|0.73684 |0.71053 If|0.68421 the|0.65789 average|0.63158 value|0.60526 of|0.57895 a|0.55263 quantity|0.52632 is|0.5 denoted|0.47368 by|0.44737 an|0.42105 overbar|0.39474 then|0.36842 the|0.34211 average|0.31579 Eulerian|0.28947 velocity|0.26316 vector|0.23684 E|0.21053 and|0.18421 average|0.15789 Lagrangian|0.13158 velocity|0.10526 vector|0.078947 L|0.052632 are|0.026316 |0",
+			"previous_weights": " Often|0 the|0.05 Lagrangian|0.1 coordinates|0.15 are|0.2 chosen|0.25 to|0.3 coincide|0.35 with|0.4 the|0.45 Eulerian|0.5 coordinates|0.55 x|0.6 at|0.65 the|0.7 initial|0.75 time|0.8 t|0.85 t0|0.9 4|0.95 |1"
+		}
+	}
+}

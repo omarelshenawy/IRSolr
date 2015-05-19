@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4137f7ede4c760fc5a422e636b79273d13e4a1a85f2e3441bfa78b7fd27cf95c",
+			"url": "https://upload.wikimedia.org/math/1/4/e/14e853a522a4b902e97bbc63774e5481.png",
+			"previous": " The degree of the product of a polynomial by a non zero scalar is equal to the degree of the polynomial i e  E g ",
+			"after": " E g  The degree of the product of a polynomial by a non zero scalar is equal to the degree of the polynomial i e ",
+			"color": "gray|0.31237 grey|0.31237 dim|0.27262 gray|0.27262 dim|0.27262 grey|0.27262 dark|0.22445 gray|0.22445 dark|0.22445 grey|0.22445 silver|0.097967 light|0.044751 gray|0.044751 light|0.044751 grey|0.044751 gainsboro|0.029849 white|0.0049177 smoke|0.0049177  ",
+			"after_weights": " E|1 g|0.96154 |0.92308 The|0.88462 degree|0.84615 of|0.80769 the|0.76923 product|0.73077 of|0.69231 a|0.65385 polynomial|0.61538 by|0.57692 a|0.53846 non|0.5 zero|0.46154 scalar|0.42308 is|0.38462 equal|0.34615 to|0.30769 the|0.26923 degree|0.23077 of|0.19231 the|0.15385 polynomial|0.11538 i|0.076923 e|0.038462 |0",
+			"previous_weights": " The|0 degree|0.038462 of|0.076923 the|0.11538 product|0.15385 of|0.19231 a|0.23077 polynomial|0.26923 by|0.30769 a|0.34615 non|0.38462 zero|0.42308 scalar|0.46154 is|0.5 equal|0.53846 to|0.57692 the|0.61538 degree|0.65385 of|0.69231 the|0.73077 polynomial|0.76923 i|0.80769 e|0.84615 |0.88462 E|0.92308 g|0.96154 |1"
+		}
+	}
+}

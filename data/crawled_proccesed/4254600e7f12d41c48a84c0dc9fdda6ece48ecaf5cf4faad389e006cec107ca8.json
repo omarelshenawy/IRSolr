@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Metro_Amsterdam_M5_Kraaiennest.jpg/220px-Metro_Amsterdam_M5_Kraaiennest.jpg",
 			"previous": " ",
 			"after": " Currently there are sixteen tram routes and four metro routes with a fifth route to be added when the North South metro line is completed due in 2017 All are operated by municipal public transport operator GVB which also runs the city bus network ",
+			"color": "dim|0.30292 gray|0.30292 dim|0.30292 grey|0.30292 gray|0.27412 grey|0.27412 dark|0.14283 gray|0.14283 dark|0.14283 grey|0.14283 black|0.12897 silver|0.055008 light|0.024045 gray|0.024045 light|0.024045 grey|0.024045 slate|0.016187 gray|0.016187 gainsboro|0.015129 light|0.0055791 slate|0.0055791 gray|0.0055791 dark|0.0054881 slate|0.0054881 gray|0.0054881  ",
 			"after_weights": " Currently|1 there|0.97727 are|0.95455 sixteen|0.93182 tram|0.90909 routes|0.88636 and|0.86364 four|0.84091 metro|0.81818 routes|0.79545 with|0.77273 a|0.75 fifth|0.72727 route|0.70455 to|0.68182 be|0.65909 added|0.63636 when|0.61364 the|0.59091 North|0.56818 South|0.54545 metro|0.52273 line|0.5 is|0.47727 completed|0.45455 due|0.43182 in|0.40909 2017|0.38636 All|0.36364 are|0.34091 operated|0.31818 by|0.29545 municipal|0.27273 public|0.25 transport|0.22727 operator|0.20455 GVB|0.18182 which|0.15909 also|0.13636 runs|0.11364 the|0.090909 city|0.068182 bus|0.045455 network|0.022727 |0",
 			"previous_weights": " "
 		}

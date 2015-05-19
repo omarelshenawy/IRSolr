@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3870793c61e6768b43c8040e96707e3ca5556703bed0d3af8e4dc7c9087982b7",
+			"url": "https://upload.wikimedia.org/math/1/7/b/17bff71fc275ecfd45a37c6152a276f8.png",
+			"previous": " can be obtained where can be easily computed as So by induction ",
+			"after": " Finally we have as the solution  See Topological conjugacy for more detail about the relationship between f and g And see Complex quadratic polynomial for the chaotic behavior in the general iteration ",
+			"color": "dim|0.35802 gray|0.35802 dim|0.35802 grey|0.35802 gray|0.28727 grey|0.28727 dark|0.18681 gray|0.18681 dark|0.18681 grey|0.18681 silver|0.080857 light|0.040036 gray|0.040036 light|0.040036 grey|0.040036 gainsboro|0.028473 white|0.0047558 smoke|0.0047558  ",
+			"after_weights": " Finally|1 we|0.9697 have|0.93939 as|0.90909 the|0.87879 solution|0.84848 |0.81818 See|0.78788 Topological|0.75758 conjugacy|0.72727 for|0.69697 more|0.66667 detail|0.63636 about|0.60606 the|0.57576 relationship|0.54545 between|0.51515 f|0.48485 and|0.45455 g|0.42424 And|0.39394 see|0.36364 Complex|0.33333 quadratic|0.30303 polynomial|0.27273 for|0.24242 the|0.21212 chaotic|0.18182 behavior|0.15152 in|0.12121 the|0.090909 general|0.060606 iteration|0.030303 |0",
+			"previous_weights": " can|0 be|0.083333 obtained|0.16667 where|0.25 can|0.33333 be|0.41667 easily|0.5 computed|0.58333 as|0.66667 So|0.75 by|0.83333 induction|0.91667 |1"
+		}
+	}
+}

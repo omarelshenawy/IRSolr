@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b25eaab1df1e29b0dda5c7eed9fd2e45f6221bea045e14dcd168e82187316be",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/F18Ffamilyweb.jpg/170px-F18Ffamilyweb.jpg",
+			"previous": " A US Navy F A 18F from VFA 122 Tactical Demonstration team crashed on 6 April 2011 killing both crew members The crash occurred when the crew attempted to perform a loaded roll with too much speed and insufficient angle of attack The loaded roll has since been removed from the Navy s F A 18F flight demonstration routine 144 ",
+			"after": " Data from U S Navy fact file 14 others 145 146  General characteristics Performance Armament",
+			"color": "dark|0.28416 gray|0.28416 dark|0.28416 grey|0.28416 silver|0.16031 dim|0.14946 gray|0.14946 dim|0.14946 grey|0.14946 gray|0.11534 grey|0.11534 black|0.04654 light|0.042547 gray|0.042547 light|0.042547 grey|0.042547 light|0.033658 slate|0.033658 gray|0.033658 slate|0.031713 gray|0.031713 gainsboro|0.017936 firebrick|0.014919 light|0.01485 steel|0.01485 blue|0.01485 brown|0.0091296 indian|0.0084203 red|0.0084203 dark|0.0080999 slate|0.0080999 gray|0.0080999 rosy|0.0071389 brown|0.0071389 thistle|0.006361 red|0.0050796 powder|0.0049881 blue|0.0049881 light|0.0049195 blue|0.0049195  ",
+			"after_weights": " Data|1 from|0.93333 U|0.86667 S|0.8 Navy|0.73333 fact|0.66667 file|0.6 14|0.53333 others|0.46667 145|0.4 146|0.33333 |0.26667 General|0.2 characteristics|0.13333 Performance|0.066667 Armament|0",
+			"previous_weights": " A|0 US|0.016667 Navy|0.033333 F|0.05 A|0.066667 18F|0.083333 from|0.1 VFA|0.11667 122|0.13333 Tactical|0.15 Demonstration|0.16667 team|0.18333 crashed|0.2 on|0.21667 6|0.23333 April|0.25 2011|0.26667 killing|0.28333 both|0.3 crew|0.31667 members|0.33333 The|0.35 crash|0.36667 occurred|0.38333 when|0.4 the|0.41667 crew|0.43333 attempted|0.45 to|0.46667 perform|0.48333 a|0.5 loaded|0.51667 roll|0.53333 with|0.55 too|0.56667 much|0.58333 speed|0.6 and|0.61667 insufficient|0.63333 angle|0.65 of|0.66667 attack|0.68333 The|0.7 loaded|0.71667 roll|0.73333 has|0.75 since|0.76667 been|0.78333 removed|0.8 from|0.81667 the|0.83333 Navy|0.85 s|0.86667 F|0.88333 A|0.9 18F|0.91667 flight|0.93333 demonstration|0.95 routine|0.96667 144|0.98333 |1"
+		}
+	}
+}

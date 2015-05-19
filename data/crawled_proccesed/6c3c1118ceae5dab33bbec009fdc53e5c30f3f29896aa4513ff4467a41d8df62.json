@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/INEGI-Sede.jpg/100px-INEGI-Sede.jpg",
 			"previous": " Portal Geography Selected anniversaries January",
 			"after": " Portal Geography Selected anniversaries February Portal Geography Selected anniversaries March Portal Geography Selected anniversaries April Portal Geography Selected anniversaries May",
+			"color": "dim|0.44844 gray|0.44844 dim|0.44844 grey|0.44844 gray|0.12446 grey|0.12446 silver|0.10623 dark|0.078676 gray|0.078676 dark|0.078676 grey|0.078676 black|0.07188 dark|0.070648 olive|0.070648 green|0.070648 light|0.046923 gray|0.046923 light|0.046923 grey|0.046923 gainsboro|0.015311  ",
 			"after_weights": " Portal|1 Geography|0.94737 Selected|0.89474 anniversaries|0.84211 February|0.78947 Portal|0.73684 Geography|0.68421 Selected|0.63158 anniversaries|0.57895 March|0.52632 Portal|0.47368 Geography|0.42105 Selected|0.36842 anniversaries|0.31579 April|0.26316 Portal|0.21053 Geography|0.15789 Selected|0.10526 anniversaries|0.052632 May|0",
 			"previous_weights": " Portal|0 Geography|0.25 Selected|0.5 anniversaries|0.75 January|1"
 		}

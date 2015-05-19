@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77fb7c3ded69b2d73493f9a144f61854f85010d063bf5e1307fead6221328a10",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UR-PSC_LLBG_06-12-2013-2.jpg/220px-UR-PSC_LLBG_06-12-2013-2.jpg",
+			"previous": " Ukraine International Airlines had codeshare agreements with the following airlines as of April 2015 ",
+			"after": " The Ukraine International Airlines fleet consists of the following aircraft as of February 2015 11 12 ",
+			"color": "light|0.50248 slate|0.50248 gray|0.50248 slate|0.13752 gray|0.13752 dark|0.093912 gray|0.093912 dark|0.093912 grey|0.093912 silver|0.057169 gray|0.052078 grey|0.052078 dim|0.050368 gray|0.050368 dim|0.050368 grey|0.050368 light|0.032571 gray|0.032571 light|0.032571 grey|0.032571 gainsboro|0.02242 light|0.017998 steel|0.017998 blue|0.017998 black|0.015067  ",
+			"after_weights": " The|1 Ukraine|0.9375 International|0.875 Airlines|0.8125 fleet|0.75 consists|0.6875 of|0.625 the|0.5625 following|0.5 aircraft|0.4375 as|0.375 of|0.3125 February|0.25 2015|0.1875 11|0.125 12|0.0625 |0",
+			"previous_weights": " Ukraine|0 International|0.071429 Airlines|0.14286 had|0.21429 codeshare|0.28571 agreements|0.35714 with|0.42857 the|0.5 following|0.57143 airlines|0.64286 as|0.71429 of|0.78571 April|0.85714 2015|0.92857 |1"
+		}
+	}
+}

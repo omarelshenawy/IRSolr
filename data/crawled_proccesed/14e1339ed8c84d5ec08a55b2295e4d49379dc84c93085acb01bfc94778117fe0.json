@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14e1339ed8c84d5ec08a55b2295e4d49379dc84c93085acb01bfc94778117fe0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ATR_ATR-72-212%2C_B_%26_H_Airlines_AN1618156.jpg/220px-ATR_ATR-72-212%2C_B_%26_H_Airlines_AN1618156.jpg",
+			"previous": " As of March 2015 update B H Airlines operated scheduled flights to the following destinations 14 ",
+			"after": " As of March 2015 the B H Airlines fleet consists of the following aircraft with an average age of 19 5 years 15 16 17  During its existence B H Airlines also operated the following aircraft 18 ",
+			"color": "slate|0.40938 gray|0.40938 light|0.40325 slate|0.40325 gray|0.40325 black|0.033901 dark|0.024552 gray|0.024552 dark|0.024552 grey|0.024552 silver|0.021987 light|0.02188 gray|0.02188 light|0.02188 grey|0.02188 gainsboro|0.017476 dim|0.0134 gray|0.0134 dim|0.0134 grey|0.0134 gray|0.010824 grey|0.010824 golden|0.0059251 rod|0.0059251 linen|0.0050038 antique|0.003331 white|0.003331 white|0.0030523 smoke|0.0030523  ",
+			"after_weights": " As|1 of|0.97368 March|0.94737 2015|0.92105 the|0.89474 B|0.86842 H|0.84211 Airlines|0.81579 fleet|0.78947 consists|0.76316 of|0.73684 the|0.71053 following|0.68421 aircraft|0.65789 with|0.63158 an|0.60526 average|0.57895 age|0.55263 of|0.52632 19|0.5 5|0.47368 years|0.44737 15|0.42105 16|0.39474 17|0.36842 |0.34211 During|0.31579 its|0.28947 existence|0.26316 B|0.23684 H|0.21053 Airlines|0.18421 also|0.15789 operated|0.13158 the|0.10526 following|0.078947 aircraft|0.052632 18|0.026316 |0",
+			"previous_weights": " As|0 of|0.0625 March|0.125 2015|0.1875 update|0.25 B|0.3125 H|0.375 Airlines|0.4375 operated|0.5 scheduled|0.5625 flights|0.625 to|0.6875 the|0.75 following|0.8125 destinations|0.875 14|0.9375 |1"
+		}
+	}
+}

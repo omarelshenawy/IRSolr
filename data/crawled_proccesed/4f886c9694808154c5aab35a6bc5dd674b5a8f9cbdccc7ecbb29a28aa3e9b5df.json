@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f886c9694808154c5aab35a6bc5dd674b5a8f9cbdccc7ecbb29a28aa3e9b5df",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BMonSphere.jpg/220px-BMonSphere.jpg",
+			"previous": " ",
+			"after": " The infinitesimal generator and hence characteristic operator of a Brownian motion on Rn is easily calculated to be where denotes the Laplace operator This observation is useful in defining Brownian motion on an m dimensional Riemannian manifold M g a Brownian motion on M is defined to be a diffusion on M whose characteristic operator in local coordinates xi 1 i m is given by LB where LB is the Laplace Beltrami operator given in local coordinates by",
+			"color": "dark|0.78139 olive|0.78139 green|0.78139 black|0.14834  ",
+			"after_weights": " The|1 infinitesimal|0.98701 generator|0.97403 and|0.96104 hence|0.94805 characteristic|0.93506 operator|0.92208 of|0.90909 a|0.8961 Brownian|0.88312 motion|0.87013 on|0.85714 Rn|0.84416 is|0.83117 easily|0.81818 calculated|0.80519 to|0.79221 be|0.77922 where|0.76623 denotes|0.75325 the|0.74026 Laplace|0.72727 operator|0.71429 This|0.7013 observation|0.68831 is|0.67532 useful|0.66234 in|0.64935 defining|0.63636 Brownian|0.62338 motion|0.61039 on|0.5974 an|0.58442 m|0.57143 dimensional|0.55844 Riemannian|0.54545 manifold|0.53247 M|0.51948 g|0.50649 a|0.49351 Brownian|0.48052 motion|0.46753 on|0.45455 M|0.44156 is|0.42857 defined|0.41558 to|0.4026 be|0.38961 a|0.37662 diffusion|0.36364 on|0.35065 M|0.33766 whose|0.32468 characteristic|0.31169 operator|0.2987 in|0.28571 local|0.27273 coordinates|0.25974 xi|0.24675 1|0.23377 i|0.22078 m|0.20779 is|0.19481 given|0.18182 by|0.16883 LB|0.15584 where|0.14286 LB|0.12987 is|0.11688 the|0.1039 Laplace|0.090909 Beltrami|0.077922 operator|0.064935 given|0.051948 in|0.038961 local|0.025974 coordinates|0.012987 by|0",
+			"previous_weights": " "
+		}
+	}
+}

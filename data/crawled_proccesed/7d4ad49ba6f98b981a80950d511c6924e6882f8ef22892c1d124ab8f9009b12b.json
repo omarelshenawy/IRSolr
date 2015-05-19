@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d4ad49ba6f98b981a80950d511c6924e6882f8ef22892c1d124ab8f9009b12b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Landscape1.jpg/220px-Landscape1.jpg",
+			"previous": " The value of goods and services produced within a country  The production distribution and consumption of goods and services ",
+			"after": " The physical chemical and biotic factors that act upon an ecosystem  The Earth and its features ",
+			"color": "dark|0.30637 olive|0.30637 green|0.30637 light|0.214 slate|0.214 gray|0.214 slate|0.15699 gray|0.15699 light|0.064467 steel|0.064467 blue|0.064467 gray|0.060225 grey|0.060225 dim|0.044887 gray|0.044887 dim|0.044887 grey|0.044887 dark|0.036805 gray|0.036805 dark|0.036805 grey|0.036805 silver|0.02736 dark|0.020589 khaki|0.020589 olive|0.018071 drab|0.018071 dark|0.015464 slate|0.015464 gray|0.015464 black|0.012327 light|0.011481 gray|0.011481 light|0.011481 grey|0.011481  ",
+			"after_weights": " The|1 physical|0.94118 chemical|0.88235 and|0.82353 biotic|0.76471 factors|0.70588 that|0.64706 act|0.58824 upon|0.52941 an|0.47059 ecosystem|0.41176 |0.35294 The|0.29412 Earth|0.23529 and|0.17647 its|0.11765 features|0.058824 |0",
+			"previous_weights": " The|0 value|0.05 of|0.1 goods|0.15 and|0.2 services|0.25 produced|0.3 within|0.35 a|0.4 country|0.45 |0.5 The|0.55 production|0.6 distribution|0.65 and|0.7 consumption|0.75 of|0.8 goods|0.85 and|0.9 services|0.95 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1070f5efe552e9eb8cc8291e2708e058b960ef64966c83dc4d09d4986ea174bd",
+			"url": "https://upload.wikimedia.org/math/5/6/3/5639360c970cf84e09498ab09c2b81f3.png",
+			"previous": " The geometric interpretation of De Casteljau s algorithm is straightforward  which we evaluate individually using De Casteljau s algorithm ",
+			"after": " The following picture shows this process for a cubic B zier curve   Note that the intermediate points that were constructed are in fact the control points for two new B zier curves both exactly coincident with the old one This algorithm not only evaluates the curve at but splits the curve into two pieces at and provides the equations of the two sub curves in B zier form ",
+			"color": "dim|0.31128 gray|0.31128 dim|0.31128 grey|0.31128 gray|0.30021 grey|0.30021 dark|0.20097 gray|0.20097 dark|0.20097 grey|0.20097 silver|0.0903 light|0.04693 gray|0.04693 light|0.04693 grey|0.04693 gainsboro|0.032114 white|0.0042986 smoke|0.0042986  ",
+			"after_weights": " The|1 following|0.98571 picture|0.97143 shows|0.95714 this|0.94286 process|0.92857 for|0.91429 a|0.9 cubic|0.88571 B|0.87143 zier|0.85714 curve|0.84286 |0.82857 |0.81429 Note|0.8 that|0.78571 the|0.77143 intermediate|0.75714 points|0.74286 that|0.72857 were|0.71429 constructed|0.7 are|0.68571 in|0.67143 fact|0.65714 the|0.64286 control|0.62857 points|0.61429 for|0.6 two|0.58571 new|0.57143 B|0.55714 zier|0.54286 curves|0.52857 both|0.51429 exactly|0.5 coincident|0.48571 with|0.47143 the|0.45714 old|0.44286 one|0.42857 This|0.41429 algorithm|0.4 not|0.38571 only|0.37143 evaluates|0.35714 the|0.34286 curve|0.32857 at|0.31429 but|0.3 splits|0.28571 the|0.27143 curve|0.25714 into|0.24286 two|0.22857 pieces|0.21429 at|0.2 and|0.18571 provides|0.17143 the|0.15714 equations|0.14286 of|0.12857 the|0.11429 two|0.1 sub|0.085714 curves|0.071429 in|0.057143 B|0.042857 zier|0.028571 form|0.014286 |0",
+			"previous_weights": " The|0 geometric|0.05 interpretation|0.1 of|0.15 De|0.2 Casteljau|0.25 s|0.3 algorithm|0.35 is|0.4 straightforward|0.45 |0.5 which|0.55 we|0.6 evaluate|0.65 individually|0.7 using|0.75 De|0.8 Casteljau|0.85 s|0.9 algorithm|0.95 |1"
+		}
+	}
+}

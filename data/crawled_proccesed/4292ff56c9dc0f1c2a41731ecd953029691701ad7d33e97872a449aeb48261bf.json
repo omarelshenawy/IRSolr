@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4292ff56c9dc0f1c2a41731ecd953029691701ad7d33e97872a449aeb48261bf",
+			"url": "https://upload.wikimedia.org/math/8/f/9/8f99f51836d0dab516c2cfd5d4982163.png",
+			"previous": " The distance formula is simpler when written in terms of the parametric latitude  so that the arc length of an infinitesimal element of the meridian is with in radians Therefore the meridian distance from the equator to latitude is",
+			"after": " where and The distance from the equator to the pole the quarter meridian is Even though latitude is normally confined to the range all the formulas given here apply to measuring distance around the complete meridian ellipse including the anti meridian Thus the ranges of and the rectifying latitude are unrestricted ",
+			"color": "dim|0.38174 gray|0.38174 dim|0.38174 grey|0.38174 gray|0.28474 grey|0.28474 dark|0.17876 gray|0.17876 dark|0.17876 grey|0.17876 silver|0.074779 light|0.035347 gray|0.035347 light|0.035347 grey|0.035347 gainsboro|0.02513 white|0.0048344 smoke|0.0048344  ",
+			"after_weights": " where|1 and|0.98039 The|0.96078 distance|0.94118 from|0.92157 the|0.90196 equator|0.88235 to|0.86275 the|0.84314 pole|0.82353 the|0.80392 quarter|0.78431 meridian|0.76471 is|0.7451 Even|0.72549 though|0.70588 latitude|0.68627 is|0.66667 normally|0.64706 confined|0.62745 to|0.60784 the|0.58824 range|0.56863 all|0.54902 the|0.52941 formulas|0.5098 given|0.4902 here|0.47059 apply|0.45098 to|0.43137 measuring|0.41176 distance|0.39216 around|0.37255 the|0.35294 complete|0.33333 meridian|0.31373 ellipse|0.29412 including|0.27451 the|0.2549 anti|0.23529 meridian|0.21569 Thus|0.19608 the|0.17647 ranges|0.15686 of|0.13725 and|0.11765 the|0.098039 rectifying|0.078431 latitude|0.058824 are|0.039216 unrestricted|0.019608 |0",
+			"previous_weights": " The|0 distance|0.025641 formula|0.051282 is|0.076923 simpler|0.10256 when|0.12821 written|0.15385 in|0.17949 terms|0.20513 of|0.23077 the|0.25641 parametric|0.28205 latitude|0.30769 |0.33333 so|0.35897 that|0.38462 the|0.41026 arc|0.4359 length|0.46154 of|0.48718 an|0.51282 infinitesimal|0.53846 element|0.5641 of|0.58974 the|0.61538 meridian|0.64103 is|0.66667 with|0.69231 in|0.71795 radians|0.74359 Therefore|0.76923 the|0.79487 meridian|0.82051 distance|0.84615 from|0.87179 the|0.89744 equator|0.92308 to|0.94872 latitude|0.97436 is|1"
+		}
+	}
+}

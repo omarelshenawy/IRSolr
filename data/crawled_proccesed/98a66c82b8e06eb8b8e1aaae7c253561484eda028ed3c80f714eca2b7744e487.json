@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "98a66c82b8e06eb8b8e1aaae7c253561484eda028ed3c80f714eca2b7744e487",
+			"url": "https://upload.wikimedia.org/math/5/9/7/5973433feb127c1d47615259a3c0c83a.png",
+			"previous": " The formula for the shape of a NACA 00xx foil with xx being replaced by the percentage of thickness to chord is 3 ",
+			"after": " where  Note that in this equation at x c 1 the trailing edge of the airfoil the thickness is not quite zero If a zero thickness trailing edge is required for example for computational work one of the coefficients should be modified such that they sum to zero Modifying the last coefficient i e to 0 1036 will result in the smallest change to the overall shape of the airfoil The leading edge approximates a cylinder with a radius of ",
+			"color": "dim|0.33947 gray|0.33947 dim|0.33947 grey|0.33947 gray|0.28885 grey|0.28885 dark|0.19175 gray|0.19175 dark|0.19175 grey|0.19175 silver|0.087372 light|0.041102 gray|0.041102 light|0.041102 grey|0.041102 gainsboro|0.030203 white|0.0047421 smoke|0.0047421  ",
+			"after_weights": " where|1 |0.98765 Note|0.97531 that|0.96296 in|0.95062 this|0.93827 equation|0.92593 at|0.91358 x|0.90123 c|0.88889 1|0.87654 the|0.8642 trailing|0.85185 edge|0.83951 of|0.82716 the|0.81481 airfoil|0.80247 the|0.79012 thickness|0.77778 is|0.76543 not|0.75309 quite|0.74074 zero|0.7284 If|0.71605 a|0.7037 zero|0.69136 thickness|0.67901 trailing|0.66667 edge|0.65432 is|0.64198 required|0.62963 for|0.61728 example|0.60494 for|0.59259 computational|0.58025 work|0.5679 one|0.55556 of|0.54321 the|0.53086 coefficients|0.51852 should|0.50617 be|0.49383 modified|0.48148 such|0.46914 that|0.45679 they|0.44444 sum|0.4321 to|0.41975 zero|0.40741 Modifying|0.39506 the|0.38272 last|0.37037 coefficient|0.35802 i|0.34568 e|0.33333 to|0.32099 0|0.30864 1036|0.2963 will|0.28395 result|0.2716 in|0.25926 the|0.24691 smallest|0.23457 change|0.22222 to|0.20988 the|0.19753 overall|0.18519 shape|0.17284 of|0.16049 the|0.14815 airfoil|0.1358 The|0.12346 leading|0.11111 edge|0.098765 approximates|0.08642 a|0.074074 cylinder|0.061728 with|0.049383 a|0.037037 radius|0.024691 of|0.012346 |0",
+			"previous_weights": " The|0 formula|0.043478 for|0.086957 the|0.13043 shape|0.17391 of|0.21739 a|0.26087 NACA|0.30435 00xx|0.34783 foil|0.3913 with|0.43478 xx|0.47826 being|0.52174 replaced|0.56522 by|0.6087 the|0.65217 percentage|0.69565 of|0.73913 thickness|0.78261 to|0.82609 chord|0.86957 is|0.91304 3|0.95652 |1"
+		}
+	}
+}

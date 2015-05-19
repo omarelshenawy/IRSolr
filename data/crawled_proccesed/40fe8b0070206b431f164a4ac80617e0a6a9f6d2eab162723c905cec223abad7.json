@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40fe8b0070206b431f164a4ac80617e0a6a9f6d2eab162723c905cec223abad7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/AC-130U_Line_Drawing.svg/350px-AC-130U_Line_Drawing.svg.png",
+			"previous": " AC 130A Serial No 54 1623 c n 3010 named Ghost Rider served in Southeast Asia and later conflicts until being retired in 1997 to Dobbins AFB Georgia Ghost Rider eventually was transferred and displayed at the Lockheed Museum at Marietta Georgia ",
+			"after": " Data from USAF Fact Sheet 4 ",
+			"color": "gray|0.27609 grey|0.27609 dim|0.2441 gray|0.2441 dim|0.2441 grey|0.2441 black|0.19907 dark|0.14886 gray|0.14886 dark|0.14886 grey|0.14886 silver|0.057898 light|0.024995 gray|0.024995 light|0.024995 grey|0.024995 gainsboro|0.014166 white|0.0046961 smoke|0.0046961 snow|0.0041094 ghost|0.0037669 white|0.0037669 white|0.0035931 mint|0.0033072 cream|0.0033072 alice|0.0029108 blue|0.0029108  ",
+			"after_weights": " Data|1 from|0.83333 USAF|0.66667 Fact|0.5 Sheet|0.33333 4|0.16667 |0",
+			"previous_weights": " AC|0 130A|0.02381 Serial|0.047619 No|0.071429 54|0.095238 1623|0.11905 c|0.14286 n|0.16667 3010|0.19048 named|0.21429 Ghost|0.2381 Rider|0.2619 served|0.28571 in|0.30952 Southeast|0.33333 Asia|0.35714 and|0.38095 later|0.40476 conflicts|0.42857 until|0.45238 being|0.47619 retired|0.5 in|0.52381 1997|0.54762 to|0.57143 Dobbins|0.59524 AFB|0.61905 Georgia|0.64286 Ghost|0.66667 Rider|0.69048 eventually|0.71429 was|0.7381 transferred|0.7619 and|0.78571 displayed|0.80952 at|0.83333 the|0.85714 Lockheed|0.88095 Museum|0.90476 at|0.92857 Marietta|0.95238 Georgia|0.97619 |1"
+		}
+	}
+}

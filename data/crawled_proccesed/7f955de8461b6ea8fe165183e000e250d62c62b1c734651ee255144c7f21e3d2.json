@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f955de8461b6ea8fe165183e000e250d62c62b1c734651ee255144c7f21e3d2",
+			"url": "https://upload.wikimedia.org/math/5/9/4/5949217b5715c1a7bb7aa4f361efe95c.png",
+			"previous": " ",
+			"after": " For example the graphs shown to the right show the error in approximating log x and exp x for N 4 The red curves for the optimal polynomial are level that is they oscillate between and exactly Note that in each case the number of extrema is N 2 that is 6 Two of the extrema are at the end points of the interval at the left and right edges of the graphs ",
+			"color": "gray|0.28491 grey|0.28491 dim|0.22251 gray|0.22251 dim|0.22251 grey|0.22251 dark|0.21995 gray|0.21995 dark|0.21995 grey|0.21995 silver|0.1281 light|0.073192 gray|0.073192 light|0.073192 grey|0.073192 gainsboro|0.053943 white|0.0046734 smoke|0.0046734  ",
+			"after_weights": " For|1 example|0.9863 the|0.9726 graphs|0.9589 shown|0.94521 to|0.93151 the|0.91781 right|0.90411 show|0.89041 the|0.87671 error|0.86301 in|0.84932 approximating|0.83562 log|0.82192 x|0.80822 and|0.79452 exp|0.78082 x|0.76712 for|0.75342 N|0.73973 4|0.72603 The|0.71233 red|0.69863 curves|0.68493 for|0.67123 the|0.65753 optimal|0.64384 polynomial|0.63014 are|0.61644 level|0.60274 that|0.58904 is|0.57534 they|0.56164 oscillate|0.54795 between|0.53425 and|0.52055 exactly|0.50685 Note|0.49315 that|0.47945 in|0.46575 each|0.45205 case|0.43836 the|0.42466 number|0.41096 of|0.39726 extrema|0.38356 is|0.36986 N|0.35616 2|0.34247 that|0.32877 is|0.31507 6|0.30137 Two|0.28767 of|0.27397 the|0.26027 extrema|0.24658 are|0.23288 at|0.21918 the|0.20548 end|0.19178 points|0.17808 of|0.16438 the|0.15068 interval|0.13699 at|0.12329 the|0.10959 left|0.09589 and|0.082192 right|0.068493 edges|0.054795 of|0.041096 the|0.027397 graphs|0.013699 |0",
+			"previous_weights": " "
+		}
+	}
+}

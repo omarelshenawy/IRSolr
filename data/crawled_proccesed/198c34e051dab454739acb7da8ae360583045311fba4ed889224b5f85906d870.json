@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "198c34e051dab454739acb7da8ae360583045311fba4ed889224b5f85906d870",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/World_Bank_building_at_Washington.jpg/220px-World_Bank_building_at_Washington.jpg",
+			"previous": " Other generalist inter state organizations include  The Organisation of Islamic Cooperation OIC is an international organization consisting of 57 member states The organisation attempts to be the collective voice of the Muslim world Ummah and attempts to safeguard the interests and ensure the progress and well being of Muslims ",
+			"after": " ",
+			"color": "slate|0.29725 gray|0.29725 light|0.28388 slate|0.28388 gray|0.28388 dark|0.10233 gray|0.10233 dark|0.10233 grey|0.10233 gray|0.082572 grey|0.082572 dim|0.076579 gray|0.076579 dim|0.076579 grey|0.076579 light|0.04861 sky|0.04861 blue|0.04861 dark|0.022295 slate|0.022295 gray|0.022295 black|0.021456 silver|0.019658 steel|0.016302 blue|0.016302 light|0.0058615 steel|0.0058615 blue|0.0058615 light|0.005364 gray|0.005364 light|0.005364 grey|0.005364  ",
+			"after_weights": " ",
+			"previous_weights": " Other|0 generalist|0.02 inter|0.04 state|0.06 organizations|0.08 include|0.1 |0.12 The|0.14 Organisation|0.16 of|0.18 Islamic|0.2 Cooperation|0.22 OIC|0.24 is|0.26 an|0.28 international|0.3 organization|0.32 consisting|0.34 of|0.36 57|0.38 member|0.4 states|0.42 The|0.44 organisation|0.46 attempts|0.48 to|0.5 be|0.52 the|0.54 collective|0.56 voice|0.58 of|0.6 the|0.62 Muslim|0.64 world|0.66 Ummah|0.68 and|0.7 attempts|0.72 to|0.74 safeguard|0.76 the|0.78 interests|0.8 and|0.82 ensure|0.84 the|0.86 progress|0.88 and|0.9 well|0.92 being|0.94 of|0.96 Muslims|0.98 |1"
+		}
+	}
+}

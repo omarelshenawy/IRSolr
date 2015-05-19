@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3da208a48ad6edd7149dc9b3811140a77319c3da656adfab2299b513823887cf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/220px-Lorenz_attractor_yb.svg.png",
+			"previous": " ",
+			"after": " A dynamical system is a concept in mathematics where a fixed rule describes how a point in a geometrical space depends on time Examples include the mathematical models that describe the swinging of a clock pendulum the flow of water in a pipe and the number of fish each springtime in a lake ",
+			"color": "black|0.99043 dark|0.00938 golden|0.00938 rod|0.00938  ",
+			"after_weights": " A|1 dynamical|0.98113 system|0.96226 is|0.9434 a|0.92453 concept|0.90566 in|0.88679 mathematics|0.86792 where|0.84906 a|0.83019 fixed|0.81132 rule|0.79245 describes|0.77358 how|0.75472 a|0.73585 point|0.71698 in|0.69811 a|0.67925 geometrical|0.66038 space|0.64151 depends|0.62264 on|0.60377 time|0.58491 Examples|0.56604 include|0.54717 the|0.5283 mathematical|0.50943 models|0.49057 that|0.4717 describe|0.45283 the|0.43396 swinging|0.41509 of|0.39623 a|0.37736 clock|0.35849 pendulum|0.33962 the|0.32075 flow|0.30189 of|0.28302 water|0.26415 in|0.24528 a|0.22642 pipe|0.20755 and|0.18868 the|0.16981 number|0.15094 of|0.13208 fish|0.11321 each|0.09434 springtime|0.075472 in|0.056604 a|0.037736 lake|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

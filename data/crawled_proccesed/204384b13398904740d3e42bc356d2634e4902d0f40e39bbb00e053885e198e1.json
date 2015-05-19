@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "204384b13398904740d3e42bc356d2634e4902d0f40e39bbb00e053885e198e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aboriginal_War_Veterans_monument_%28close%29.JPG/70px-Aboriginal_War_Veterans_monument_%28close%29.JPG",
+			"previous": " ",
+			"after": " Aboriginal people in Canada are the indigenous peoples in North America within the boundaries of present day Canada They comprise the First Nations Inuit and M tis The descriptors Indian and Eskimo have largely fallen into disuse in Canada and are commonly considered pejorative ",
+			"color": "dim|0.38405 gray|0.38405 dim|0.38405 grey|0.38405 gray|0.23246 grey|0.23246 slate|0.15536 gray|0.15536 black|0.096982 light|0.076978 slate|0.076978 gray|0.076978 dark|0.03239 gray|0.03239 dark|0.03239 grey|0.03239 dark|0.017155 slate|0.017155 gray|0.017155  ",
+			"after_weights": " Aboriginal|1 people|0.97727 in|0.95455 Canada|0.93182 are|0.90909 the|0.88636 indigenous|0.86364 peoples|0.84091 in|0.81818 North|0.79545 America|0.77273 within|0.75 the|0.72727 boundaries|0.70455 of|0.68182 present|0.65909 day|0.63636 Canada|0.61364 They|0.59091 comprise|0.56818 the|0.54545 First|0.52273 Nations|0.5 Inuit|0.47727 and|0.45455 M|0.43182 tis|0.40909 The|0.38636 descriptors|0.36364 Indian|0.34091 and|0.31818 Eskimo|0.29545 have|0.27273 largely|0.25 fallen|0.22727 into|0.20455 disuse|0.18182 in|0.15909 Canada|0.13636 and|0.11364 are|0.090909 commonly|0.068182 considered|0.045455 pejorative|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

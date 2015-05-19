@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a573e7ee5797289f7139cf410d54bd9db4cf036163cb172a0a6e04e04684897",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sebastian_Coe_July_2013.JPG/220px-Sebastian_Coe_July_2013.JPG",
+			"previous": " Following the London Olympics Coe was appointed as Chairman of the British Olympic Association replacing Lord Moynihan 41 42 ",
+			"after": " Coe has been appointed a member of the Tokyo 2020 Olympic Games Coordination Commission 43 representing the Association of National Olympic Committees ",
+			"color": "light|0.28515 steel|0.28515 blue|0.28515 black|0.25288 lavender|0.1734 alice|0.036185 blue|0.036185 dark|0.030938 salmon|0.030938 ghost|0.023061 white|0.023061 white|0.016833 smoke|0.016833 azure|0.012328 white|0.011317 snow|0.011067 mint|0.010376 cream|0.010376 gainsboro|0.010273 light|0.010029 blue|0.010029 sea|0.0086276 shell|0.0086276 misty|0.0080229 rose|0.0080229 light|0.0079708 gray|0.0079708 light|0.0079708 grey|0.0079708 floral|0.0077249 white|0.0077249 light|0.0073723 cyan|0.0073723 linen|0.0073248 lavender|0.0071934 blush|0.0071934 rosy|0.0069676 brown|0.0069676 old|0.0054587 lace|0.0054587  ",
+			"after_weights": " Coe|1 has|0.95455 been|0.90909 appointed|0.86364 a|0.81818 member|0.77273 of|0.72727 the|0.68182 Tokyo|0.63636 2020|0.59091 Olympic|0.54545 Games|0.5 Coordination|0.45455 Commission|0.40909 43|0.36364 representing|0.31818 the|0.27273 Association|0.22727 of|0.18182 National|0.13636 Olympic|0.090909 Committees|0.045455 |0",
+			"previous_weights": " Following|0 the|0.052632 London|0.10526 Olympics|0.15789 Coe|0.21053 was|0.26316 appointed|0.31579 as|0.36842 Chairman|0.42105 of|0.47368 the|0.52632 British|0.57895 Olympic|0.63158 Association|0.68421 replacing|0.73684 Lord|0.78947 Moynihan|0.84211 41|0.89474 42|0.94737 |1"
+		}
+	}
+}

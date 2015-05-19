@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "789e5c8efea99923204c44050558511a3c1ae8e11588a03c91bf502e3025129f",
+			"url": "https://upload.wikimedia.org/math/d/4/e/d4e87ab03fe34cae7ed78d752679e1bd.png",
+			"previous": " Now the flow may be represented by a velocity potential satisfying the Laplace equation and 7 ",
+			"after": " In order to have non trivial solutions for this eigenvalue problem the wave length and wave period may not be chosen arbitrarily but must satisfy the deep water dispersion relation 10 ",
+			"color": "dim|0.32707 gray|0.32707 dim|0.32707 grey|0.32707 gray|0.20998 grey|0.20998 black|0.20289 dark|0.13058 gray|0.13058 dark|0.13058 grey|0.13058 silver|0.05965 light|0.030905 gray|0.030905 light|0.030905 grey|0.030905 gainsboro|0.021397 white|0.004213 smoke|0.004213  ",
+			"after_weights": " In|1 order|0.96774 to|0.93548 have|0.90323 non|0.87097 trivial|0.83871 solutions|0.80645 for|0.77419 this|0.74194 eigenvalue|0.70968 problem|0.67742 the|0.64516 wave|0.6129 length|0.58065 and|0.54839 wave|0.51613 period|0.48387 may|0.45161 not|0.41935 be|0.3871 chosen|0.35484 arbitrarily|0.32258 but|0.29032 must|0.25806 satisfy|0.22581 the|0.19355 deep|0.16129 water|0.12903 dispersion|0.096774 relation|0.064516 10|0.032258 |0",
+			"previous_weights": " Now|0 the|0.0625 flow|0.125 may|0.1875 be|0.25 represented|0.3125 by|0.375 a|0.4375 velocity|0.5 potential|0.5625 satisfying|0.625 the|0.6875 Laplace|0.75 equation|0.8125 and|0.875 7|0.9375 |1"
+		}
+	}
+}

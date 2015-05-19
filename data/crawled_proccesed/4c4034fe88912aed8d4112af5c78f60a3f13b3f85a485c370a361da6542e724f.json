@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c4034fe88912aed8d4112af5c78f60a3f13b3f85a485c370a361da6542e724f",
+			"url": "https://upload.wikimedia.org/math/0/1/a/01a9cdfd5d0a06e6a1d3a43542dc7d95.png",
+			"previous": " The degree of the sum or difference of two polynomials is equal to or less than the greater of their degrees the equality holds always when the degrees of the polynomials are different i e ",
+			"after": " E g  The degree of the product of a polynomial by a non zero scalar is equal to the degree of the polynomial i e ",
+			"color": "gray|0.32217 grey|0.32217 dim|0.28235 gray|0.28235 dim|0.28235 grey|0.28235 dark|0.21608 gray|0.21608 dark|0.21608 grey|0.21608 silver|0.091429 light|0.042067 gray|0.042067 light|0.042067 grey|0.042067 gainsboro|0.028239 white|0.0045491 smoke|0.0045491  ",
+			"after_weights": " E|1 g|0.96154 |0.92308 The|0.88462 degree|0.84615 of|0.80769 the|0.76923 product|0.73077 of|0.69231 a|0.65385 polynomial|0.61538 by|0.57692 a|0.53846 non|0.5 zero|0.46154 scalar|0.42308 is|0.38462 equal|0.34615 to|0.30769 the|0.26923 degree|0.23077 of|0.19231 the|0.15385 polynomial|0.11538 i|0.076923 e|0.038462 |0",
+			"previous_weights": " The|0 degree|0.028571 of|0.057143 the|0.085714 sum|0.11429 or|0.14286 difference|0.17143 of|0.2 two|0.22857 polynomials|0.25714 is|0.28571 equal|0.31429 to|0.34286 or|0.37143 less|0.4 than|0.42857 the|0.45714 greater|0.48571 of|0.51429 their|0.54286 degrees|0.57143 the|0.6 equality|0.62857 holds|0.65714 always|0.68571 when|0.71429 the|0.74286 degrees|0.77143 of|0.8 the|0.82857 polynomials|0.85714 are|0.88571 different|0.91429 i|0.94286 e|0.97143 |1"
+		}
+	}
+}

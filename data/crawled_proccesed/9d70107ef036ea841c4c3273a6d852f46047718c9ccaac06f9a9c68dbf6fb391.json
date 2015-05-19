@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d70107ef036ea841c4c3273a6d852f46047718c9ccaac06f9a9c68dbf6fb391",
+			"url": "https://upload.wikimedia.org/math/0/3/2/032f01739c41ac361063e8318f9733df.png",
+			"previous": " or a closed interval is a function defined on a subset I of the set R of real numbers This subset I is referred to as the domain of f Some possible choices include I R the whole set of real numbers an open interval",
+			"after": " Here a and b are real numbers ",
+			"color": "dim|0.33028 gray|0.33028 dim|0.33028 grey|0.33028 gray|0.2691 grey|0.2691 dark|0.18857 gray|0.18857 dark|0.18857 grey|0.18857 silver|0.09742 light|0.053385 gray|0.053385 light|0.053385 grey|0.053385 gainsboro|0.037465 white|0.0063629 smoke|0.0063629 linen|0.0033241 lavender|0.00309 blush|0.00309  ",
+			"after_weights": " Here|1 a|0.85714 and|0.71429 b|0.57143 are|0.42857 real|0.28571 numbers|0.14286 |0",
+			"previous_weights": " or|0 a|0.022727 closed|0.045455 interval|0.068182 is|0.090909 a|0.11364 function|0.13636 defined|0.15909 on|0.18182 a|0.20455 subset|0.22727 I|0.25 of|0.27273 the|0.29545 set|0.31818 R|0.34091 of|0.36364 real|0.38636 numbers|0.40909 This|0.43182 subset|0.45455 I|0.47727 is|0.5 referred|0.52273 to|0.54545 as|0.56818 the|0.59091 domain|0.61364 of|0.63636 f|0.65909 Some|0.68182 possible|0.70455 choices|0.72727 include|0.75 I|0.77273 R|0.79545 the|0.81818 whole|0.84091 set|0.86364 of|0.88636 real|0.90909 numbers|0.93182 an|0.95455 open|0.97727 interval|1"
+		}
+	}
+}

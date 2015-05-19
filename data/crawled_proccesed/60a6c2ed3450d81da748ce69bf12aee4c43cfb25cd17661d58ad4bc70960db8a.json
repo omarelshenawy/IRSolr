@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "60a6c2ed3450d81da748ce69bf12aee4c43cfb25cd17661d58ad4bc70960db8a",
+			"url": "https://upload.wikimedia.org/math/e/4/b/e4b4ab53851792bfb42f4a1b622e886a.png",
+			"previous": " Therefore  Isentropic compression in rotor blade ",
+			"after": " Degree of Reaction The pressure difference between the entry and exit of the rotor blade is called reaction pressure The change in pressure energy is calculated through Degree of Reaction ",
+			"color": "gray|0.26465 grey|0.26465 dim|0.23695 gray|0.23695 dim|0.23695 grey|0.23695 black|0.23294 dark|0.13615 gray|0.13615 dark|0.13615 grey|0.13615 silver|0.06632 light|0.033403 gray|0.033403 light|0.033403 grey|0.033403 gainsboro|0.027028  ",
+			"after_weights": " Degree|1 of|0.96667 Reaction|0.93333 The|0.9 pressure|0.86667 difference|0.83333 between|0.8 the|0.76667 entry|0.73333 and|0.7 exit|0.66667 of|0.63333 the|0.6 rotor|0.56667 blade|0.53333 is|0.5 called|0.46667 reaction|0.43333 pressure|0.4 The|0.36667 change|0.33333 in|0.3 pressure|0.26667 energy|0.23333 is|0.2 calculated|0.16667 through|0.13333 Degree|0.1 of|0.066667 Reaction|0.033333 |0",
+			"previous_weights": " Therefore|0 |0.14286 Isentropic|0.28571 compression|0.42857 in|0.57143 rotor|0.71429 blade|0.85714 |1"
+		}
+	}
+}

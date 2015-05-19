@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2795b2ff5041df6a8e105c10289fb5c2d9e1ffdd1124f3d1714f5baaaccb5e45",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jetblueboston.JPG/220px-Jetblueboston.JPG",
+			"previous": " Note All international arrivals except pre cleared flights from Canada and the Caribbean are handled at Terminal E ",
+			"after": " For the 12 month period ending January 31 2010 the airport had 337 229 aircraft operations an average of 924 per day 62 scheduled commercial 33 air taxi and 5 general aviation 3 ",
+			"color": "light|0.28575 slate|0.28575 gray|0.28575 dim|0.17316 gray|0.17316 dim|0.17316 grey|0.17316 gray|0.1557 grey|0.1557 dark|0.12538 gray|0.12538 dark|0.12538 grey|0.12538 black|0.093771 slate|0.065302 gray|0.065302 silver|0.021214 light|0.012252 gray|0.012252 light|0.012252 grey|0.012252 gainsboro|0.0099031 light|0.0065621 steel|0.0065621 blue|0.0065621 white|0.0056718 smoke|0.0056718 ghost|0.0048218 white|0.0048218 alice|0.0045668 blue|0.0045668  ",
+			"after_weights": " For|1 the|0.9697 12|0.93939 month|0.90909 period|0.87879 ending|0.84848 January|0.81818 31|0.78788 2010|0.75758 the|0.72727 airport|0.69697 had|0.66667 337|0.63636 229|0.60606 aircraft|0.57576 operations|0.54545 an|0.51515 average|0.48485 of|0.45455 924|0.42424 per|0.39394 day|0.36364 62|0.33333 scheduled|0.30303 commercial|0.27273 33|0.24242 air|0.21212 taxi|0.18182 and|0.15152 5|0.12121 general|0.090909 aviation|0.060606 3|0.030303 |0",
+			"previous_weights": " Note|0 All|0.055556 international|0.11111 arrivals|0.16667 except|0.22222 pre|0.27778 cleared|0.33333 flights|0.38889 from|0.44444 Canada|0.5 and|0.55556 the|0.61111 Caribbean|0.66667 are|0.72222 handled|0.77778 at|0.83333 Terminal|0.88889 E|0.94444 |1"
+		}
+	}
+}

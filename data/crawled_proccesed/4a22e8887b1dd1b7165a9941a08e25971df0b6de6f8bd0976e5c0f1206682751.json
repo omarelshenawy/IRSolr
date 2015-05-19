@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a22e8887b1dd1b7165a9941a08e25971df0b6de6f8bd0976e5c0f1206682751",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accuracy_of_Navigation_Systems.svg/300px-Accuracy_of_Navigation_Systems.svg.png",
+			"previous": " ",
+			"after": " An inertial navigation system INS is a navigation aid that uses a computer motion sensors accelerometers and rotation sensors gyroscopes to continuously calculate via dead reckoning the position orientation and velocity direction and speed of movement of a moving object without the need for external references 1 It is used on vehicles such as ships aircraft submarines guided missiles and spacecraft Other terms used to refer to inertial navigation systems or closely related devices include inertial guidance system inertial reference platform inertial instrument inertial measurement units IMU and many other variations ",
+			"color": "black|0.76682 dim|0.11935 gray|0.11935 dim|0.11935 grey|0.11935 gray|0.11382 grey|0.11382  ",
+			"after_weights": " An|1 inertial|0.98901 navigation|0.97802 system|0.96703 INS|0.95604 is|0.94505 a|0.93407 navigation|0.92308 aid|0.91209 that|0.9011 uses|0.89011 a|0.87912 computer|0.86813 motion|0.85714 sensors|0.84615 accelerometers|0.83516 and|0.82418 rotation|0.81319 sensors|0.8022 gyroscopes|0.79121 to|0.78022 continuously|0.76923 calculate|0.75824 via|0.74725 dead|0.73626 reckoning|0.72527 the|0.71429 position|0.7033 orientation|0.69231 and|0.68132 velocity|0.67033 direction|0.65934 and|0.64835 speed|0.63736 of|0.62637 movement|0.61538 of|0.6044 a|0.59341 moving|0.58242 object|0.57143 without|0.56044 the|0.54945 need|0.53846 for|0.52747 external|0.51648 references|0.50549 1|0.49451 It|0.48352 is|0.47253 used|0.46154 on|0.45055 vehicles|0.43956 such|0.42857 as|0.41758 ships|0.40659 aircraft|0.3956 submarines|0.38462 guided|0.37363 missiles|0.36264 and|0.35165 spacecraft|0.34066 Other|0.32967 terms|0.31868 used|0.30769 to|0.2967 refer|0.28571 to|0.27473 inertial|0.26374 navigation|0.25275 systems|0.24176 or|0.23077 closely|0.21978 related|0.20879 devices|0.1978 include|0.18681 inertial|0.17582 guidance|0.16484 system|0.15385 inertial|0.14286 reference|0.13187 platform|0.12088 inertial|0.10989 instrument|0.098901 inertial|0.087912 measurement|0.076923 units|0.065934 IMU|0.054945 and|0.043956 many|0.032967 other|0.021978 variations|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

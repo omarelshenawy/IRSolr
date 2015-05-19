@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8678e3da928a661c718ae442c3988c86e3faff6f747c3539b845b31631d277fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Madrid_1.JPG/220px-Madrid_1.JPG",
+			"previous": " ",
+			"after": " The Madrid Metro Line connects the airport with city centre station Nuevos Ministerios in the heart of Madrid s financial district The Barajas Line 8 provides a fast route from the underground stations at Terminal 2 access to T1 and T3 and Terminal 4 into central Madrid The metro also provides links to stations on the Spanish railway network The first ride in the morning leaves from Nuevos Ministerios around 6 05 am arriving at Terminals 1 2 3 around 6 20 and at Terminal 4 around 6 25 ",
+			"color": "dim|0.53703 gray|0.53703 dim|0.53703 grey|0.53703 gray|0.15752 grey|0.15752 dark|0.054954 gray|0.054954 dark|0.054954 grey|0.054954 slate|0.042012 gray|0.042012 light|0.041535 slate|0.041535 gray|0.041535 dark|0.029797 slate|0.029797 gray|0.029797 black|0.026712 silver|0.018774  ",
+			"after_weights": " The|1 Madrid|0.98876 Metro|0.97753 Line|0.96629 connects|0.95506 the|0.94382 airport|0.93258 with|0.92135 city|0.91011 centre|0.89888 station|0.88764 Nuevos|0.8764 Ministerios|0.86517 in|0.85393 the|0.8427 heart|0.83146 of|0.82022 Madrid|0.80899 s|0.79775 financial|0.78652 district|0.77528 The|0.76404 Barajas|0.75281 Line|0.74157 8|0.73034 provides|0.7191 a|0.70787 fast|0.69663 route|0.68539 from|0.67416 the|0.66292 underground|0.65169 stations|0.64045 at|0.62921 Terminal|0.61798 2|0.60674 access|0.59551 to|0.58427 T1|0.57303 and|0.5618 T3|0.55056 and|0.53933 Terminal|0.52809 4|0.51685 into|0.50562 central|0.49438 Madrid|0.48315 The|0.47191 metro|0.46067 also|0.44944 provides|0.4382 links|0.42697 to|0.41573 stations|0.40449 on|0.39326 the|0.38202 Spanish|0.37079 railway|0.35955 network|0.34831 The|0.33708 first|0.32584 ride|0.31461 in|0.30337 the|0.29213 morning|0.2809 leaves|0.26966 from|0.25843 Nuevos|0.24719 Ministerios|0.23596 around|0.22472 6|0.21348 05|0.20225 am|0.19101 arriving|0.17978 at|0.16854 Terminals|0.1573 1|0.14607 2|0.13483 3|0.1236 around|0.11236 6|0.10112 20|0.089888 and|0.078652 at|0.067416 Terminal|0.05618 4|0.044944 around|0.033708 6|0.022472 25|0.011236 |0",
+			"previous_weights": " "
+		}
+	}
+}

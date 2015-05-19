@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "96e0b667bfa642b5c3f617a5e0ca24e57f4942814101759ddf691ae7a9c6587e",
+			"url": "https://upload.wikimedia.org/math/8/a/8/8a826f776103126e610a820a56d5e102.png",
+			"previous": " The principal eigenvector is used to measure the centrality of its vertices An example is Google s PageRank algorithm The principal eigenvector of a modified adjacency matrix of the World Wide Web graph gives the page ranks as its components This vector corresponds to the stationary distribution of the Markov chain represented by the row normalized adjacency matrix however the adjacency matrix must first be modified to ensure a stationary distribution exists The second smallest eigenvector can be used to partition the graph into clusters via spectral clustering Other methods are also available for clustering ",
+			"after": " ",
+			"color": "dark|0.31757 gray|0.31757 dark|0.31757 grey|0.31757 gray|0.29216 grey|0.29216 silver|0.15653 light|0.083342 gray|0.083342 light|0.083342 grey|0.083342 dim|0.066403 gray|0.066403 dim|0.066403 grey|0.066403 gainsboro|0.054865 white|0.0094323 smoke|0.0094323 linen|0.0046564 lavender|0.0032788 blush|0.0032788 alice|0.0030951 blue|0.0030951 ghost|0.0028195 white|0.0028195 sea|0.0025834 shell|0.0025834  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 principal|0.010526 eigenvector|0.021053 is|0.031579 used|0.042105 to|0.052632 measure|0.063158 the|0.073684 centrality|0.084211 of|0.094737 its|0.10526 vertices|0.11579 An|0.12632 example|0.13684 is|0.14737 Google|0.15789 s|0.16842 PageRank|0.17895 algorithm|0.18947 The|0.2 principal|0.21053 eigenvector|0.22105 of|0.23158 a|0.24211 modified|0.25263 adjacency|0.26316 matrix|0.27368 of|0.28421 the|0.29474 World|0.30526 Wide|0.31579 Web|0.32632 graph|0.33684 gives|0.34737 the|0.35789 page|0.36842 ranks|0.37895 as|0.38947 its|0.4 components|0.41053 This|0.42105 vector|0.43158 corresponds|0.44211 to|0.45263 the|0.46316 stationary|0.47368 distribution|0.48421 of|0.49474 the|0.50526 Markov|0.51579 chain|0.52632 represented|0.53684 by|0.54737 the|0.55789 row|0.56842 normalized|0.57895 adjacency|0.58947 matrix|0.6 however|0.61053 the|0.62105 adjacency|0.63158 matrix|0.64211 must|0.65263 first|0.66316 be|0.67368 modified|0.68421 to|0.69474 ensure|0.70526 a|0.71579 stationary|0.72632 distribution|0.73684 exists|0.74737 The|0.75789 second|0.76842 smallest|0.77895 eigenvector|0.78947 can|0.8 be|0.81053 used|0.82105 to|0.83158 partition|0.84211 the|0.85263 graph|0.86316 into|0.87368 clusters|0.88421 via|0.89474 spectral|0.90526 clustering|0.91579 Other|0.92632 methods|0.93684 are|0.94737 also|0.95789 available|0.96842 for|0.97895 clustering|0.98947 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "85526d7fe48f726985d99fd40f88634f36ca6bbc44e41147ceb4c8463bf1ed1c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fist.svg/120px-Fist.svg.png",
+			"previous": " ",
+			"after": " Communism is a political ideology that seeks to establish a future without social class or formalized state structure and with social organization based upon common ownership of the means of production It can be classified as a branch of the broader socialist movement Communism also refers to a variety of political movements which claim the establishment of such a social organization as their ultimate goal ",
+			"color": "black|0.98133 dim|0.012049 gray|0.012049 dim|0.012049 grey|0.012049 gray|0.0061073 grey|0.0061073  ",
+			"after_weights": " Communism|1 is|0.98462 a|0.96923 political|0.95385 ideology|0.93846 that|0.92308 seeks|0.90769 to|0.89231 establish|0.87692 a|0.86154 future|0.84615 without|0.83077 social|0.81538 class|0.8 or|0.78462 formalized|0.76923 state|0.75385 structure|0.73846 and|0.72308 with|0.70769 social|0.69231 organization|0.67692 based|0.66154 upon|0.64615 common|0.63077 ownership|0.61538 of|0.6 the|0.58462 means|0.56923 of|0.55385 production|0.53846 It|0.52308 can|0.50769 be|0.49231 classified|0.47692 as|0.46154 a|0.44615 branch|0.43077 of|0.41538 the|0.4 broader|0.38462 socialist|0.36923 movement|0.35385 Communism|0.33846 also|0.32308 refers|0.30769 to|0.29231 a|0.27692 variety|0.26154 of|0.24615 political|0.23077 movements|0.21538 which|0.2 claim|0.18462 the|0.16923 establishment|0.15385 of|0.13846 such|0.12308 a|0.10769 social|0.092308 organization|0.076923 as|0.061538 their|0.046154 ultimate|0.030769 goal|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

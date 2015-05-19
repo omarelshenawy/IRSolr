@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "95dad5f20a659fd8253f059778c1e0d9c72fadf2de44f9181c2df8d1d0e8edfa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burn9582.JPG/220px-Burn9582.JPG",
+			"previous": " ",
+			"after": " Today forestry education typically includes training in general biology botany genetics soil science climatology hydrology economics and forest management Education in the basics of sociology and political science is often considered an advantage ",
+			"color": "dim|0.37584 gray|0.37584 dim|0.37584 grey|0.37584 gray|0.22243 grey|0.22243 dark|0.13621 gray|0.13621 dark|0.13621 grey|0.13621 black|0.066198 slate|0.044444 gray|0.044444 silver|0.039585 light|0.036642 slate|0.036642 gray|0.036642 rosy|0.024928 brown|0.024928 light|0.011968 gray|0.011968 light|0.011968 grey|0.011968 light|0.0087191 steel|0.0087191 blue|0.0087191  ",
+			"after_weights": " Today|1 forestry|0.9697 education|0.93939 typically|0.90909 includes|0.87879 training|0.84848 in|0.81818 general|0.78788 biology|0.75758 botany|0.72727 genetics|0.69697 soil|0.66667 science|0.63636 climatology|0.60606 hydrology|0.57576 economics|0.54545 and|0.51515 forest|0.48485 management|0.45455 Education|0.42424 in|0.39394 the|0.36364 basics|0.33333 of|0.30303 sociology|0.27273 and|0.24242 political|0.21212 science|0.18182 is|0.15152 often|0.12121 considered|0.090909 an|0.060606 advantage|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

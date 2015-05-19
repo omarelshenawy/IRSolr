@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3951fa0a45d25d895fbee118144c11b9ab3b127a1930728eb0701dfa1033869e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Downtown_Providence%2C_Rhode_Island.jpg/500px-Downtown_Providence%2C_Rhode_Island.jpg",
+			"previous": " ",
+			"after": " The Providence city limits enclose a small geographic region with a total area of 20 5 square miles 53 km2 18 5 square miles 48 km2 of it is land and the remaining 2 1 square miles 5 4 km2 roughly 10 of it is water ",
+			"color": "dim|0.37023 gray|0.37023 dim|0.37023 grey|0.37023 black|0.28682 gray|0.20465 grey|0.20465 dark|0.068157 gray|0.068157 dark|0.068157 grey|0.068157 silver|0.028213 light|0.012115 gray|0.012115 light|0.012115 grey|0.012115  ",
+			"after_weights": " The|1 Providence|0.97826 city|0.95652 limits|0.93478 enclose|0.91304 a|0.8913 small|0.86957 geographic|0.84783 region|0.82609 with|0.80435 a|0.78261 total|0.76087 area|0.73913 of|0.71739 20|0.69565 5|0.67391 square|0.65217 miles|0.63043 53|0.6087 km2|0.58696 18|0.56522 5|0.54348 square|0.52174 miles|0.5 48|0.47826 km2|0.45652 of|0.43478 it|0.41304 is|0.3913 land|0.36957 and|0.34783 the|0.32609 remaining|0.30435 2|0.28261 1|0.26087 square|0.23913 miles|0.21739 5|0.19565 4|0.17391 km2|0.15217 roughly|0.13043 10|0.1087 of|0.086957 it|0.065217 is|0.043478 water|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

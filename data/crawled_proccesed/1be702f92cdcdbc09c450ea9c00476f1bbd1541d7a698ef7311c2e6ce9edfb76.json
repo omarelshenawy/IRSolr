@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1be702f92cdcdbc09c450ea9c00476f1bbd1541d7a698ef7311c2e6ce9edfb76",
+			"url": "https://upload.wikimedia.org/math/a/a/6/aa64864600aef270ea30c9d70639e67e.png",
+			"previous": " As a consequence of 3 the section lift coefficient of a symmetric airfoil of infinite wingspan is ",
+			"after": "  The above expression is also applicable to a cambered airfoil where is the angle of attack measured relative to the zero lift line instead of the chord line ",
+			"color": " ",
+			"after_weights": " |1 The|0.96552 above|0.93103 expression|0.89655 is|0.86207 also|0.82759 applicable|0.7931 to|0.75862 a|0.72414 cambered|0.68966 airfoil|0.65517 where|0.62069 is|0.58621 the|0.55172 angle|0.51724 of|0.48276 attack|0.44828 measured|0.41379 relative|0.37931 to|0.34483 the|0.31034 zero|0.27586 lift|0.24138 line|0.2069 instead|0.17241 of|0.13793 the|0.10345 chord|0.068966 line|0.034483 |0",
+			"previous_weights": " As|0 a|0.058824 consequence|0.11765 of|0.17647 3|0.23529 the|0.29412 section|0.35294 lift|0.41176 coefficient|0.47059 of|0.52941 a|0.58824 symmetric|0.64706 airfoil|0.70588 of|0.76471 infinite|0.82353 wingspan|0.88235 is|0.94118 |1"
+		}
+	}
+}

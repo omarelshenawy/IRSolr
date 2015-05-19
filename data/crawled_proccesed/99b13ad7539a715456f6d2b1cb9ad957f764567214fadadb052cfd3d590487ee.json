@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "99b13ad7539a715456f6d2b1cb9ad957f764567214fadadb052cfd3d590487ee",
+			"url": "https://upload.wikimedia.org/math/1/5/e/15ee19c58d8bb3fc87a7aa4d7a3617ed.png",
+			"previous": " The metric can be used for raising and lowering indices on vectors and tensors Invariants can be constructed using the metric the inner product of a 4 vector T with another 4 vector S is ",
+			"after": " Invariant means that it takes the same value in all inertial frames because it is a scalar 0 rank tensor and so no appears in its trivial transformation The magnitude of the 4 vector T is the positive square root of the inner product with itself ",
+			"color": "dim|0.38995 gray|0.38995 dim|0.38995 grey|0.38995 gray|0.27336 grey|0.27336 dark|0.1462 gray|0.1462 dark|0.1462 grey|0.1462 silver|0.064448 black|0.056863 light|0.031455 gray|0.031455 light|0.031455 grey|0.031455 gainsboro|0.021783 white|0.0037929 smoke|0.0037929  ",
+			"after_weights": " Invariant|1 means|0.97826 that|0.95652 it|0.93478 takes|0.91304 the|0.8913 same|0.86957 value|0.84783 in|0.82609 all|0.80435 inertial|0.78261 frames|0.76087 because|0.73913 it|0.71739 is|0.69565 a|0.67391 scalar|0.65217 0|0.63043 rank|0.6087 tensor|0.58696 and|0.56522 so|0.54348 no|0.52174 appears|0.5 in|0.47826 its|0.45652 trivial|0.43478 transformation|0.41304 The|0.3913 magnitude|0.36957 of|0.34783 the|0.32609 4|0.30435 vector|0.28261 T|0.26087 is|0.23913 the|0.21739 positive|0.19565 square|0.17391 root|0.15217 of|0.13043 the|0.1087 inner|0.086957 product|0.065217 with|0.043478 itself|0.021739 |0",
+			"previous_weights": " The|0 metric|0.028571 can|0.057143 be|0.085714 used|0.11429 for|0.14286 raising|0.17143 and|0.2 lowering|0.22857 indices|0.25714 on|0.28571 vectors|0.31429 and|0.34286 tensors|0.37143 Invariants|0.4 can|0.42857 be|0.45714 constructed|0.48571 using|0.51429 the|0.54286 metric|0.57143 the|0.6 inner|0.62857 product|0.65714 of|0.68571 a|0.71429 4|0.74286 vector|0.77143 T|0.8 with|0.82857 another|0.85714 4|0.88571 vector|0.91429 S|0.94286 is|0.97143 |1"
+		}
+	}
+}

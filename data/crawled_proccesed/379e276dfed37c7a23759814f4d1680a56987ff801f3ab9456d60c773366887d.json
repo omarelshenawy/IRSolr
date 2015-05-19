@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "379e276dfed37c7a23759814f4d1680a56987ff801f3ab9456d60c773366887d",
+			"url": "https://upload.wikimedia.org/math/a/a/9/aa99a758014bbc58611de3db350befc0.png",
+			"previous": " to get Dividing by and inserting from Kepler s first law",
+			"after": " The result is a usable relationship between the eccentric anomaly E and the true anomaly  A computationally more convenient form follows by substituting into the trigonometric identity ",
+			"color": "dim|0.38957 gray|0.38957 dim|0.38957 grey|0.38957 gray|0.27071 grey|0.27071 dark|0.16881 gray|0.16881 dark|0.16881 grey|0.16881 silver|0.077171 light|0.04075 gray|0.04075 light|0.04075 grey|0.04075 gainsboro|0.028875 white|0.0052467 smoke|0.0052467 black|0.0038167  ",
+			"after_weights": " The|1 result|0.96429 is|0.92857 a|0.89286 usable|0.85714 relationship|0.82143 between|0.78571 the|0.75 eccentric|0.71429 anomaly|0.67857 E|0.64286 and|0.60714 the|0.57143 true|0.53571 anomaly|0.5 |0.46429 A|0.42857 computationally|0.39286 more|0.35714 convenient|0.32143 form|0.28571 follows|0.25 by|0.21429 substituting|0.17857 into|0.14286 the|0.10714 trigonometric|0.071429 identity|0.035714 |0",
+			"previous_weights": " to|0 get|0.1 Dividing|0.2 by|0.3 and|0.4 inserting|0.5 from|0.6 Kepler|0.7 s|0.8 first|0.9 law|1"
+		}
+	}
+}

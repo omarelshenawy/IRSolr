@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18f66752a1c7479042dc77ae3cc054a38fb87689258b84aa4902aed81ea2cf4a",
+			"url": "https://upload.wikimedia.org/math/4/e/3/4e3880bd3d9890971a0c5d23a706cb02.png",
+			"previous": " Note from the figure that Having computed the eccentric anomaly E the next step is to calculate the true anomaly  This equation gives M as a function of E Determining E for a given M is the inverse problem Iterative numerical algorithms are commonly used ",
+			"after": " so that Dividing by and inserting from Kepler s first law",
+			"color": "dim|0.28414 gray|0.28414 dim|0.28414 grey|0.28414 gray|0.27972 grey|0.27972 black|0.25025 dark|0.15801 gray|0.15801 dark|0.15801 grey|0.15801 silver|0.026929  ",
+			"after_weights": " so|1 that|0.9 Dividing|0.8 by|0.7 and|0.6 inserting|0.5 from|0.4 Kepler|0.3 s|0.2 first|0.1 law|0",
+			"previous_weights": " Note|0 from|0.021739 the|0.043478 figure|0.065217 that|0.086957 Having|0.1087 computed|0.13043 the|0.15217 eccentric|0.17391 anomaly|0.19565 E|0.21739 the|0.23913 next|0.26087 step|0.28261 is|0.30435 to|0.32609 calculate|0.34783 the|0.36957 true|0.3913 anomaly|0.41304 |0.43478 This|0.45652 equation|0.47826 gives|0.5 M|0.52174 as|0.54348 a|0.56522 function|0.58696 of|0.6087 E|0.63043 Determining|0.65217 E|0.67391 for|0.69565 a|0.71739 given|0.73913 M|0.76087 is|0.78261 the|0.80435 inverse|0.82609 problem|0.84783 Iterative|0.86957 numerical|0.8913 algorithms|0.91304 are|0.93478 commonly|0.95652 used|0.97826 |1"
+		}
+	}
+}

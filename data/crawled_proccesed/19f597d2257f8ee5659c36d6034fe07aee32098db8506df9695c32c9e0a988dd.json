@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "19f597d2257f8ee5659c36d6034fe07aee32098db8506df9695c32c9e0a988dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/220px-Venn0111.svg.png",
+			"previous": " There are several fundamental operations for constructing new sets from given sets ",
+			"after": " Two sets can be added together The union of A and B denoted by A B is the set of all things that are members of either A or B ",
+			"color": "red|0.89875 black|0.076308 dim|0.0069727 gray|0.0069727 dim|0.0069727 grey|0.0069727 maroon|0.0065039 dark|0.0064016 red|0.0064016 gray|0.0047906 grey|0.0047906  ",
+			"after_weights": " Two|1 sets|0.96667 can|0.93333 be|0.9 added|0.86667 together|0.83333 The|0.8 union|0.76667 of|0.73333 A|0.7 and|0.66667 B|0.63333 denoted|0.6 by|0.56667 A|0.53333 B|0.5 is|0.46667 the|0.43333 set|0.4 of|0.36667 all|0.33333 things|0.3 that|0.26667 are|0.23333 members|0.2 of|0.16667 either|0.13333 A|0.1 or|0.066667 B|0.033333 |0",
+			"previous_weights": " There|0 are|0.083333 several|0.16667 fundamental|0.25 operations|0.33333 for|0.41667 constructing|0.5 new|0.58333 sets|0.66667 from|0.75 given|0.83333 sets|0.91667 |1"
+		}
+	}
+}

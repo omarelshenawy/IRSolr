@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ce37da7235db3ee7a96a0056a797e8ba7006e9fec78111fef847c72b2b6122d",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Lancastrian-3-G-AGWH-Star-D.jpg/220px-Lancastrian-3-G-AGWH-Star-D.jpg",
+			"previous": " ",
+			"after": " On 2 August 1947 Lancastrian G AGWH Star Dust of British South American Airways was lost in the Argentine Andes whilst en route from Buenos Aires Argentina to Santiago Chile The probable cause of the crash was a navigation error due to the then unknown effect of the fast moving jetstream ",
+			"color": " ",
+			"after_weights": " On|1 2|0.98039 August|0.96078 1947|0.94118 Lancastrian|0.92157 G|0.90196 AGWH|0.88235 Star|0.86275 Dust|0.84314 of|0.82353 British|0.80392 South|0.78431 American|0.76471 Airways|0.7451 was|0.72549 lost|0.70588 in|0.68627 the|0.66667 Argentine|0.64706 Andes|0.62745 whilst|0.60784 en|0.58824 route|0.56863 from|0.54902 Buenos|0.52941 Aires|0.5098 Argentina|0.4902 to|0.47059 Santiago|0.45098 Chile|0.43137 The|0.41176 probable|0.39216 cause|0.37255 of|0.35294 the|0.33333 crash|0.31373 was|0.29412 a|0.27451 navigation|0.2549 error|0.23529 due|0.21569 to|0.19608 the|0.17647 then|0.15686 unknown|0.13725 effect|0.11765 of|0.098039 the|0.078431 fast|0.058824 moving|0.039216 jetstream|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63451a6836a169092c2d6e1a7f6f68c9c213166b37e7fcf6772d565afc227ae2",
+			"url": "https://upload.wikimedia.org/math/9/c/2/9c2cebe8ce19190d19dddc4bb9414c7f.png",
+			"previous": " The area swept since perihelion  The circular sector area The sector areas are related by",
+			"after": " is by Kepler s second law proportional to time since perihelion So the mean anomaly M is proportional to time since perihelion t  where n is the mean motion ",
+			"color": "dim|0.28945 gray|0.28945 dim|0.28945 grey|0.28945 black|0.24664 gray|0.19354 grey|0.19354 dark|0.13123 gray|0.13123 dark|0.13123 grey|0.13123 silver|0.067375 light|0.035548 gray|0.035548 light|0.035548 grey|0.035548 gainsboro|0.024963  ",
+			"after_weights": " is|1 by|0.96667 Kepler|0.93333 s|0.9 second|0.86667 law|0.83333 proportional|0.8 to|0.76667 time|0.73333 since|0.7 perihelion|0.66667 So|0.63333 the|0.6 mean|0.56667 anomaly|0.53333 M|0.5 is|0.46667 proportional|0.43333 to|0.4 time|0.36667 since|0.33333 perihelion|0.3 t|0.26667 |0.23333 where|0.2 n|0.16667 is|0.13333 the|0.1 mean|0.066667 motion|0.033333 |0",
+			"previous_weights": " The|0 area|0.066667 swept|0.13333 since|0.2 perihelion|0.26667 |0.33333 The|0.4 circular|0.46667 sector|0.53333 area|0.6 The|0.66667 sector|0.73333 areas|0.8 are|0.86667 related|0.93333 by|1"
+		}
+	}
+}

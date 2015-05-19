@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "99e47bc049eed65779420532a8f60aa80442a96d0e41fd158bd6ea860de5be98",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Latrobe_BigPlatypus.jpg/220px-Latrobe_BigPlatypus.jpg",
+			"previous": " The Platypus Trophy was made as an award for the winner of the college rivalry between the Oregon Ducks and the Oregon State Beavers ",
+			"after": " The platypus has also been featured in songs such as Green Day s Platypus I Hate You and Mr Bungle s Platypus It is the subject of a children s poem by Banjo Paterson 87 ",
+			"color": "black|0.25775 burly|0.17393 wood|0.17393 tan|0.15058 dark|0.077696 khaki|0.077696 sienna|0.066065 dark|0.044664 olive|0.044664 green|0.044664 gray|0.035878 grey|0.035878 dim|0.031109 gray|0.031109 dim|0.031109 grey|0.031109 peru|0.018005 saddle|0.0154 brown|0.0154 navajo|0.01474 white|0.01474 rosy|0.013399 brown|0.013399 dark|0.011554 gray|0.011554 dark|0.011554 grey|0.011554 light|0.010895 slate|0.010895 gray|0.010895 slate|0.0092119 gray|0.0092119 dark|0.0087234 salmon|0.0087234  ",
+			"after_weights": " The|1 platypus|0.97143 has|0.94286 also|0.91429 been|0.88571 featured|0.85714 in|0.82857 songs|0.8 such|0.77143 as|0.74286 Green|0.71429 Day|0.68571 s|0.65714 Platypus|0.62857 I|0.6 Hate|0.57143 You|0.54286 and|0.51429 Mr|0.48571 Bungle|0.45714 s|0.42857 Platypus|0.4 It|0.37143 is|0.34286 the|0.31429 subject|0.28571 of|0.25714 a|0.22857 children|0.2 s|0.17143 poem|0.14286 by|0.11429 Banjo|0.085714 Paterson|0.057143 87|0.028571 |0",
+			"previous_weights": " The|0 Platypus|0.041667 Trophy|0.083333 was|0.125 made|0.16667 as|0.20833 an|0.25 award|0.29167 for|0.33333 the|0.375 winner|0.41667 of|0.45833 the|0.5 college|0.54167 rivalry|0.58333 between|0.625 the|0.66667 Oregon|0.70833 Ducks|0.75 and|0.79167 the|0.83333 Oregon|0.875 State|0.91667 Beavers|0.95833 |1"
+		}
+	}
+}

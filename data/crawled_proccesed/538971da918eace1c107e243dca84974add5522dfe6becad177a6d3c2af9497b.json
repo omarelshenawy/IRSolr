@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "538971da918eace1c107e243dca84974add5522dfe6becad177a6d3c2af9497b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Compression_knee.svg/220px-Compression_knee.svg.png",
+			"previous": " ",
+			"after": " Another control a compressor might offer is hard soft knee This controls whether the bend in the response curve between below threshold and above threshold is abrupt hard or gradual soft A soft knee slowly increases the compression ratio as the level increases and eventually reaches the compression ratio set by the user A soft knee reduces the audible change from uncompressed to compressed especially for higher ratios where a hard knee changeover would be more noticeable 8 ",
+			"color": "white|0.097441 smoke|0.097441 ghost|0.094052 white|0.094052 alice|0.094003 blue|0.094003 snow|0.093914 white|0.092813 sea|0.092018 shell|0.092018 lavender|0.090892 blush|0.090892 mint|0.089222 cream|0.089222 floral|0.084705 white|0.084705 azure|0.083941 lime|0.016872 green|0.016872 gainsboro|0.014243 light|0.012231 gray|0.012231 light|0.012231 grey|0.012231 linen|0.011612 dark|0.0067995 gray|0.0067995 dark|0.0067995 grey|0.0067995 silver|0.0053552 ivory|0.0039293 light|0.0027392 green|0.0027392  ",
+			"after_weights": " Another|1 control|0.98718 a|0.97436 compressor|0.96154 might|0.94872 offer|0.9359 is|0.92308 hard|0.91026 soft|0.89744 knee|0.88462 This|0.87179 controls|0.85897 whether|0.84615 the|0.83333 bend|0.82051 in|0.80769 the|0.79487 response|0.78205 curve|0.76923 between|0.75641 below|0.74359 threshold|0.73077 and|0.71795 above|0.70513 threshold|0.69231 is|0.67949 abrupt|0.66667 hard|0.65385 or|0.64103 gradual|0.62821 soft|0.61538 A|0.60256 soft|0.58974 knee|0.57692 slowly|0.5641 increases|0.55128 the|0.53846 compression|0.52564 ratio|0.51282 as|0.5 the|0.48718 level|0.47436 increases|0.46154 and|0.44872 eventually|0.4359 reaches|0.42308 the|0.41026 compression|0.39744 ratio|0.38462 set|0.37179 by|0.35897 the|0.34615 user|0.33333 A|0.32051 soft|0.30769 knee|0.29487 reduces|0.28205 the|0.26923 audible|0.25641 change|0.24359 from|0.23077 uncompressed|0.21795 to|0.20513 compressed|0.19231 especially|0.17949 for|0.16667 higher|0.15385 ratios|0.14103 where|0.12821 a|0.11538 hard|0.10256 knee|0.089744 changeover|0.076923 would|0.064103 be|0.051282 more|0.038462 noticeable|0.025641 8|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

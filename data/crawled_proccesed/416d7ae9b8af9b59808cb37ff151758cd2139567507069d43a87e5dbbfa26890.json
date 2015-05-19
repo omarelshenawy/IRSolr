@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "416d7ae9b8af9b59808cb37ff151758cd2139567507069d43a87e5dbbfa26890",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2009_Jones_Beach_Airshow.jpg/220px-2009_Jones_Beach_Airshow.jpg",
+			"previous": " ",
+			"after": "  citation needed  A half a mile north of the beach overlooking Zachs Bay is the 15 200 seat Nikon at Jones Beach Theater This outdoor amphitheatre opened in 1952 and hosts numerous world famous musicians during the summer months It is directly across the street from the ocean and is outdoors in an open natural environment ",
+			"color": "light|0.30075 slate|0.30075 gray|0.30075 slate|0.26454 gray|0.26454 gray|0.19637 grey|0.19637 dark|0.19342 gray|0.19342 dark|0.19342 grey|0.19342 dim|0.021296 gray|0.021296 dim|0.021296 grey|0.021296 black|0.014087 dark|0.0037629 slate|0.0037629 gray|0.0037629  ",
+			"after_weights": " |1 citation|0.98276 needed|0.96552 |0.94828 A|0.93103 half|0.91379 a|0.89655 mile|0.87931 north|0.86207 of|0.84483 the|0.82759 beach|0.81034 overlooking|0.7931 Zachs|0.77586 Bay|0.75862 is|0.74138 the|0.72414 15|0.7069 200|0.68966 seat|0.67241 Nikon|0.65517 at|0.63793 Jones|0.62069 Beach|0.60345 Theater|0.58621 This|0.56897 outdoor|0.55172 amphitheatre|0.53448 opened|0.51724 in|0.5 1952|0.48276 and|0.46552 hosts|0.44828 numerous|0.43103 world|0.41379 famous|0.39655 musicians|0.37931 during|0.36207 the|0.34483 summer|0.32759 months|0.31034 It|0.2931 is|0.27586 directly|0.25862 across|0.24138 the|0.22414 street|0.2069 from|0.18966 the|0.17241 ocean|0.15517 and|0.13793 is|0.12069 outdoors|0.10345 in|0.086207 an|0.068966 open|0.051724 natural|0.034483 environment|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

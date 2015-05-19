@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "134bc8d7730b4b92f9a6f8b26fab52866f9b2e9a889d4a1143dc557f620ca4f4",
+			"url": "https://upload.wikimedia.org/math/0/3/3/033de42c487c084f8b0ea1f98665877e.png",
+			"previous": " The procedure for calculating the heliocentric polar coordinates r of a planet as a function of the time t since perihelion is the following four steps ",
+			"after": " The important special case of circular orbit 0 gives E M Because the uniform circular motion was considered to be normal a deviation from this motion was considered an anomaly ",
+			"color": "dim|0.32881 gray|0.32881 dim|0.32881 grey|0.32881 gray|0.2742 grey|0.2742 dark|0.19281 gray|0.19281 dark|0.19281 grey|0.19281 silver|0.095539 light|0.050715 gray|0.050715 light|0.050715 grey|0.050715 gainsboro|0.036739 white|0.0056365 smoke|0.0056365 linen|0.002936  ",
+			"after_weights": " The|1 important|0.96667 special|0.93333 case|0.9 of|0.86667 circular|0.83333 orbit|0.8 0|0.76667 gives|0.73333 E|0.7 M|0.66667 Because|0.63333 the|0.6 uniform|0.56667 circular|0.53333 motion|0.5 was|0.46667 considered|0.43333 to|0.4 be|0.36667 normal|0.33333 a|0.3 deviation|0.26667 from|0.23333 this|0.2 motion|0.16667 was|0.13333 considered|0.1 an|0.066667 anomaly|0.033333 |0",
+			"previous_weights": " The|0 procedure|0.038462 for|0.076923 calculating|0.11538 the|0.15385 heliocentric|0.19231 polar|0.23077 coordinates|0.26923 r|0.30769 of|0.34615 a|0.38462 planet|0.42308 as|0.46154 a|0.5 function|0.53846 of|0.57692 the|0.61538 time|0.65385 t|0.69231 since|0.73077 perihelion|0.76923 is|0.80769 the|0.84615 following|0.88462 four|0.92308 steps|0.96154 |1"
+		}
+	}
+}

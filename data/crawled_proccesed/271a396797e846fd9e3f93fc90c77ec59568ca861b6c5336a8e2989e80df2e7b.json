@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "271a396797e846fd9e3f93fc90c77ec59568ca861b6c5336a8e2989e80df2e7b",
+			"url": "https://upload.wikimedia.org/math/b/e/a/bead910452b1778118e67cb087eea6ac.png",
+			"previous": " As T1 increases along the SOT plateau the engines will throttle back causing both a decrease in corrected airflow and overall pressure ratio As shown the chart implies a common T3 limit for both the low and high design T1 cycles Roughly speaking the T3 limit will correspond to a common overall pressure ratio at the T3 breakpoint Although both cycles will increase throttle setting as T1 decreases the low design T1 cycle has a greater spool up before hitting the corrected speed limit Consequently the low design T1 cycle has a higher design overall pressure ratio 13 ",
+			"after": " ",
+			"color": "gray|0.32551 grey|0.32551 dark|0.24315 gray|0.24315 dark|0.24315 grey|0.24315 dim|0.23478 gray|0.23478 dim|0.23478 grey|0.23478 silver|0.097368 light|0.043878 gray|0.043878 light|0.043878 grey|0.043878 gainsboro|0.031086 white|0.0063617 smoke|0.0063617 linen|0.0029697 lavender|0.0025845 blush|0.0025845  ",
+			"after_weights": " ",
+			"previous_weights": " As|0 T1|0.010204 increases|0.020408 along|0.030612 the|0.040816 SOT|0.05102 plateau|0.061224 the|0.071429 engines|0.081633 will|0.091837 throttle|0.10204 back|0.11224 causing|0.12245 both|0.13265 a|0.14286 decrease|0.15306 in|0.16327 corrected|0.17347 airflow|0.18367 and|0.19388 overall|0.20408 pressure|0.21429 ratio|0.22449 As|0.23469 shown|0.2449 the|0.2551 chart|0.26531 implies|0.27551 a|0.28571 common|0.29592 T3|0.30612 limit|0.31633 for|0.32653 both|0.33673 the|0.34694 low|0.35714 and|0.36735 high|0.37755 design|0.38776 T1|0.39796 cycles|0.40816 Roughly|0.41837 speaking|0.42857 the|0.43878 T3|0.44898 limit|0.45918 will|0.46939 correspond|0.47959 to|0.4898 a|0.5 common|0.5102 overall|0.52041 pressure|0.53061 ratio|0.54082 at|0.55102 the|0.56122 T3|0.57143 breakpoint|0.58163 Although|0.59184 both|0.60204 cycles|0.61224 will|0.62245 increase|0.63265 throttle|0.64286 setting|0.65306 as|0.66327 T1|0.67347 decreases|0.68367 the|0.69388 low|0.70408 design|0.71429 T1|0.72449 cycle|0.73469 has|0.7449 a|0.7551 greater|0.76531 spool|0.77551 up|0.78571 before|0.79592 hitting|0.80612 the|0.81633 corrected|0.82653 speed|0.83673 limit|0.84694 Consequently|0.85714 the|0.86735 low|0.87755 design|0.88776 T1|0.89796 cycle|0.90816 has|0.91837 a|0.92857 higher|0.93878 design|0.94898 overall|0.95918 pressure|0.96939 ratio|0.97959 13|0.9898 |1"
+		}
+	}
+}

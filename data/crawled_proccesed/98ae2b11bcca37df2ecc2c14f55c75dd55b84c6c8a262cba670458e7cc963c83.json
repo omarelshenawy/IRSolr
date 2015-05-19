@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "98ae2b11bcca37df2ecc2c14f55c75dd55b84c6c8a262cba670458e7cc963c83",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/JohannHinrichGossler.jpg/170px-JohannHinrichGossler.jpg",
+			"previous": " ",
+			"after": " Hamburg has for centuries been a commercial centre of Northern Europe and is the most important banking city of Northern Germany The city is the seat of Germany s oldest bank the Berenberg Bank M M Warburg CO and HSH Nordbank ",
+			"color": "tan|0.36566 dim|0.19175 gray|0.19175 dim|0.19175 grey|0.19175 burly|0.12996 wood|0.12996 gray|0.054102 grey|0.054102 peach|0.031819 puff|0.031819 wheat|0.030583 dark|0.022946 gray|0.022946 dark|0.022946 grey|0.022946  ",
+			"after_weights": " Hamburg|1 has|0.97561 for|0.95122 centuries|0.92683 been|0.90244 a|0.87805 commercial|0.85366 centre|0.82927 of|0.80488 Northern|0.78049 Europe|0.7561 and|0.73171 is|0.70732 the|0.68293 most|0.65854 important|0.63415 banking|0.60976 city|0.58537 of|0.56098 Northern|0.53659 Germany|0.5122 The|0.4878 city|0.46341 is|0.43902 the|0.41463 seat|0.39024 of|0.36585 Germany|0.34146 s|0.31707 oldest|0.29268 bank|0.26829 the|0.2439 Berenberg|0.21951 Bank|0.19512 M|0.17073 M|0.14634 Warburg|0.12195 CO|0.097561 and|0.073171 HSH|0.04878 Nordbank|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

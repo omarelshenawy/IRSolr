@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42b4b54c8883f41ac8520f4a92377d028f320df9ebb8055afb6967f2c77180ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Infinite_potential_well.svg/220px-Infinite_potential_well.svg.png",
+			"previous": " This is a model for the quantum tunneling effect which plays an important role in the performance of modern technologies such as flash memory and scanning tunneling microscopy Quantum tunneling is central to physical phenomena involved in superlattices ",
+			"after": " The particle in a one dimensional potential energy box is the most mathematically simple example where restraints lead to the quantization of energy levels The box is defined as having zero potential energy everywhere inside a certain region and infinite potential energy everywhere outside that region For the one dimensional case in the direction the time independent Schr dinger equation may be written 75 ",
+			"color": "silver|0.47548 dark|0.46765 gray|0.46765 dark|0.46765 grey|0.46765 light|0.018258 gray|0.018258 light|0.018258 grey|0.018258 gray|0.014904 grey|0.014904 black|0.014224 dim|0.0041964 gray|0.0041964 dim|0.0041964 grey|0.0041964  ",
+			"after_weights": " The|1 particle|0.98438 in|0.96875 a|0.95312 one|0.9375 dimensional|0.92188 potential|0.90625 energy|0.89062 box|0.875 is|0.85938 the|0.84375 most|0.82812 mathematically|0.8125 simple|0.79688 example|0.78125 where|0.76562 restraints|0.75 lead|0.73438 to|0.71875 the|0.70312 quantization|0.6875 of|0.67188 energy|0.65625 levels|0.64062 The|0.625 box|0.60938 is|0.59375 defined|0.57812 as|0.5625 having|0.54688 zero|0.53125 potential|0.51562 energy|0.5 everywhere|0.48438 inside|0.46875 a|0.45312 certain|0.4375 region|0.42188 and|0.40625 infinite|0.39062 potential|0.375 energy|0.35938 everywhere|0.34375 outside|0.32812 that|0.3125 region|0.29688 For|0.28125 the|0.26562 one|0.25 dimensional|0.23438 case|0.21875 in|0.20312 the|0.1875 direction|0.17188 the|0.15625 time|0.14062 independent|0.125 Schr|0.10938 dinger|0.09375 equation|0.078125 may|0.0625 be|0.046875 written|0.03125 75|0.015625 |0",
+			"previous_weights": " This|0 is|0.026316 a|0.052632 model|0.078947 for|0.10526 the|0.13158 quantum|0.15789 tunneling|0.18421 effect|0.21053 which|0.23684 plays|0.26316 an|0.28947 important|0.31579 role|0.34211 in|0.36842 the|0.39474 performance|0.42105 of|0.44737 modern|0.47368 technologies|0.5 such|0.52632 as|0.55263 flash|0.57895 memory|0.60526 and|0.63158 scanning|0.65789 tunneling|0.68421 microscopy|0.71053 Quantum|0.73684 tunneling|0.76316 is|0.78947 central|0.81579 to|0.84211 physical|0.86842 phenomena|0.89474 involved|0.92105 in|0.94737 superlattices|0.97368 |1"
+		}
+	}
+}

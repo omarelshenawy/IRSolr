@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "467f46bbd351027d0b0cab31b19bc8f8b27cff9c27dadec49131500784b8f394",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fiscal_Philatelic_Society_advert.jpg/67px-Fiscal_Philatelic_Society_advert.jpg",
+			"previous": " Portal Society Selected anniversaries January",
+			"after": " Portal Society Selected anniversaries February Portal Society Selected anniversaries March Portal Society Selected anniversaries April Portal Society Selected anniversaries May",
+			"color": "old|0.083609 lace|0.083609 ivory|0.075321 linen|0.071853 floral|0.071367 white|0.071367 beige|0.065218 antique|0.06391 white|0.06391 honeydew|0.060924 silver|0.055031 light|0.054846 gray|0.054846 light|0.054846 grey|0.054846 sea|0.049617 shell|0.049617 corn|0.046226 silk|0.046226 gainsboro|0.042712 light|0.038438 yellow|0.038438 mint|0.036999 cream|0.036999 dark|0.034778 gray|0.034778 dark|0.034778 grey|0.034778 papaya|0.033943 whip|0.033943 white|0.027299 smoke|0.027299 snow|0.023091 white|0.021526 light|0.017383 golden|0.017383 rod|0.017383 yellow|0.017383 blanched|0.012025 almond|0.012025 gray|0.0063266 grey|0.0063266 lemon|0.0037817 chiffon|0.0037817 dim|0.0027641 gray|0.0027641 dim|0.0027641 grey|0.0027641  ",
+			"after_weights": " Portal|1 Society|0.94737 Selected|0.89474 anniversaries|0.84211 February|0.78947 Portal|0.73684 Society|0.68421 Selected|0.63158 anniversaries|0.57895 March|0.52632 Portal|0.47368 Society|0.42105 Selected|0.36842 anniversaries|0.31579 April|0.26316 Portal|0.21053 Society|0.15789 Selected|0.10526 anniversaries|0.052632 May|0",
+			"previous_weights": " Portal|0 Society|0.25 Selected|0.5 anniversaries|0.75 January|1"
+		}
+	}
+}

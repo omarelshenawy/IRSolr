@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35e7db5a1a9ea30c40e170a6e6ac40582b2ed18aa13834f6c48deb8ffa0dbc73",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TAPHQLisbon.JPG/220px-TAPHQLisbon.JPG",
+			"previous": " In May 2015 an over a week long pilot strike led to the cancellation of around 3 000 TAP Portugal flights 24 ",
+			"after": " TAP has its head office in Building 25 on the grounds of Portela Airport in Santa Maria dos Olivais Lisbon 25 26 ",
+			"color": "light|0.10222 steel|0.10222 blue|0.10222 light|0.091281 gray|0.091281 light|0.091281 grey|0.091281 silver|0.086369 gainsboro|0.077772 dark|0.068792 gray|0.068792 dark|0.068792 grey|0.068792 dim|0.058227 gray|0.058227 dim|0.058227 grey|0.058227 lavender|0.057008 tan|0.051924 gray|0.049478 grey|0.049478 burly|0.031239 wood|0.031239 alice|0.030651 blue|0.030651 wheat|0.02723 ghost|0.024426 white|0.024426 white|0.024175 smoke|0.024175 navajo|0.01552 white|0.01552 moccasin|0.01362 lavender|0.0133 blush|0.0133 snow|0.012838 black|0.01167 pale|0.011118 golden|0.011118 rod|0.011118 azure|0.010933 white|0.010774 antique|0.0084795 white|0.0084795 mint|0.0084286 cream|0.0084286 sea|0.0083027 shell|0.0083027 bisque|0.007596 peach|0.0072436 puff|0.0072436 blanched|0.0061255 almond|0.0061255 linen|0.0060785 floral|0.0056473 white|0.0056473 slate|0.0055585 gray|0.0055585 light|0.0050716 slate|0.0050716 gray|0.0050716 papaya|0.0049061 whip|0.0049061 light|0.0045952 blue|0.0045952  ",
+			"after_weights": " TAP|1 has|0.95455 its|0.90909 head|0.86364 office|0.81818 in|0.77273 Building|0.72727 25|0.68182 on|0.63636 the|0.59091 grounds|0.54545 of|0.5 Portela|0.45455 Airport|0.40909 in|0.36364 Santa|0.31818 Maria|0.27273 dos|0.22727 Olivais|0.18182 Lisbon|0.13636 25|0.090909 26|0.045455 |0",
+			"previous_weights": " In|0 May|0.045455 2015|0.090909 an|0.13636 over|0.18182 a|0.22727 week|0.27273 long|0.31818 pilot|0.36364 strike|0.40909 led|0.45455 to|0.5 the|0.54545 cancellation|0.59091 of|0.63636 around|0.68182 3|0.72727 000|0.77273 TAP|0.81818 Portugal|0.86364 flights|0.90909 24|0.95455 |1"
+		}
+	}
+}

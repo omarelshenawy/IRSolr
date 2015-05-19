@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f8db3c4e3251f059ab1767824429813867724a38248e220b39de233592e8a50",
+			"url": "https://upload.wikimedia.org/math/1/f/0/1f09e7d966bb658780859b4f487effe8.png",
+			"previous": " so",
+			"after": " For most practical purposes the volume inside a sphere inscribed in a cube can be approximated as 52 4 of the volume of the cube since For example a sphere with diameter 1m has 52 4 the volume of a cube with edge length 1m or about 0 524m3 ",
+			"color": "dim|0.36765 gray|0.36765 dim|0.36765 grey|0.36765 gray|0.28484 grey|0.28484 dark|0.18937 gray|0.18937 dark|0.18937 grey|0.18937 silver|0.079909 light|0.035718 gray|0.035718 light|0.035718 grey|0.035718 gainsboro|0.024525 white|0.004217 smoke|0.004217  ",
+			"after_weights": " For|1 most|0.97959 practical|0.95918 purposes|0.93878 the|0.91837 volume|0.89796 inside|0.87755 a|0.85714 sphere|0.83673 inscribed|0.81633 in|0.79592 a|0.77551 cube|0.7551 can|0.73469 be|0.71429 approximated|0.69388 as|0.67347 52|0.65306 4|0.63265 of|0.61224 the|0.59184 volume|0.57143 of|0.55102 the|0.53061 cube|0.5102 since|0.4898 For|0.46939 example|0.44898 a|0.42857 sphere|0.40816 with|0.38776 diameter|0.36735 1m|0.34694 has|0.32653 52|0.30612 4|0.28571 the|0.26531 volume|0.2449 of|0.22449 a|0.20408 cube|0.18367 with|0.16327 edge|0.14286 length|0.12245 1m|0.10204 or|0.081633 about|0.061224 0|0.040816 524m3|0.020408 |0",
+			"previous_weights": " so|1"
+		}
+	}
+}

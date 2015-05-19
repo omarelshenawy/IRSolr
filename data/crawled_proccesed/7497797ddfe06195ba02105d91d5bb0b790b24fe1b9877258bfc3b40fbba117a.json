@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7497797ddfe06195ba02105d91d5bb0b790b24fe1b9877258bfc3b40fbba117a",
+			"url": "https://upload.wikimedia.org/math/2/7/3/273a383345e167ee1791232c40eaf917.png",
+			"previous": " then the idea that distance equals speed times time corresponds to the statement",
+			"after": " There are two parts to the theorem Loosely put the first part deals with the derivative of an antiderivative while the second part deals with the relationship between antiderivatives and definite integrals ",
+			"color": "gray|0.335 grey|0.335 dark|0.29286 gray|0.29286 dark|0.29286 grey|0.29286 dim|0.14652 gray|0.14652 dim|0.14652 grey|0.14652 silver|0.12114 light|0.050893 gray|0.050893 light|0.050893 grey|0.050893 gainsboro|0.032999 white|0.0057054 smoke|0.0057054 linen|0.002505  ",
+			"after_weights": " There|1 are|0.96875 two|0.9375 parts|0.90625 to|0.875 the|0.84375 theorem|0.8125 Loosely|0.78125 put|0.75 the|0.71875 first|0.6875 part|0.65625 deals|0.625 with|0.59375 the|0.5625 derivative|0.53125 of|0.5 an|0.46875 antiderivative|0.4375 while|0.40625 the|0.375 second|0.34375 part|0.3125 deals|0.28125 with|0.25 the|0.21875 relationship|0.1875 between|0.15625 antiderivatives|0.125 and|0.09375 definite|0.0625 integrals|0.03125 |0",
+			"previous_weights": " then|0 the|0.083333 idea|0.16667 that|0.25 distance|0.33333 equals|0.41667 speed|0.5 times|0.58333 time|0.66667 corresponds|0.75 to|0.83333 the|0.91667 statement|1"
+		}
+	}
+}

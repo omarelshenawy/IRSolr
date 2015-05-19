@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e41c88078eea5c3e719edef9e758c4ddb5f740da368118b1a1324c9cee65572",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/B_707.svg/300px-B_707.svg.png",
+			"previous": " The following aircraft are on public display  The USAF purchased a number of 707s under the C 137 series of designations  The C 18 is the US military designation for the conversions of the 707 320B series ",
+			"after": " General characteristics Performance",
+			"color": "dim|0.27461 gray|0.27461 dim|0.27461 grey|0.27461 gray|0.24037 grey|0.24037 black|0.21969 dark|0.11888 gray|0.11888 dark|0.11888 grey|0.11888 silver|0.042558 light|0.02431 gray|0.02431 light|0.02431 grey|0.02431 gainsboro|0.015988 white|0.011138 smoke|0.011138 lavender|0.0064783 blush|0.0064783 ghost|0.0063356 white|0.0063356 alice|0.0063356 blue|0.0063356 linen|0.0060503 sea|0.005928 shell|0.005928 snow|0.005928 white|0.0051355 mint|0.0044223 cream|0.0044223  ",
+			"after_weights": " General|1 characteristics|0.5 Performance|0",
+			"previous_weights": " The|0 following|0.025641 aircraft|0.051282 are|0.076923 on|0.10256 public|0.12821 display|0.15385 |0.17949 The|0.20513 USAF|0.23077 purchased|0.25641 a|0.28205 number|0.30769 of|0.33333 707s|0.35897 under|0.38462 the|0.41026 C|0.4359 137|0.46154 series|0.48718 of|0.51282 designations|0.53846 |0.5641 The|0.58974 C|0.61538 18|0.64103 is|0.66667 the|0.69231 US|0.71795 military|0.74359 designation|0.76923 for|0.79487 the|0.82051 conversions|0.84615 of|0.87179 the|0.89744 707|0.92308 320B|0.94872 series|0.97436 |1"
+		}
+	}
+}

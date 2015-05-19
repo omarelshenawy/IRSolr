@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49a7b8f0d649e14f021a088f7232ef90d5fcbdbeb87b056fe6214a2a38775c39",
+			"url": "https://upload.wikimedia.org/math/e/5/1/e51d4095c1a1c553e12e8db395dcdf96.png",
+			"previous": " fully expanded jet velocity in the exhaust plume  intake mass flow rate where ",
+			"after": " Rearranging the above equation specific thrust is given by   So for zero flight velocity specific thrust is directly proportional to jet velocity ",
+			"color": "dim|0.43288 gray|0.43288 dim|0.43288 grey|0.43288 gray|0.29346 grey|0.29346 dark|0.15687 gray|0.15687 dark|0.15687 grey|0.15687 silver|0.058808 light|0.028891 gray|0.028891 light|0.028891 grey|0.028891 gainsboro|0.019814  ",
+			"after_weights": " Rearranging|1 the|0.95833 above|0.91667 equation|0.875 specific|0.83333 thrust|0.79167 is|0.75 given|0.70833 by|0.66667 |0.625 |0.58333 So|0.54167 for|0.5 zero|0.45833 flight|0.41667 velocity|0.375 specific|0.33333 thrust|0.29167 is|0.25 directly|0.20833 proportional|0.16667 to|0.125 jet|0.083333 velocity|0.041667 |0",
+			"previous_weights": " fully|0 expanded|0.071429 jet|0.14286 velocity|0.21429 in|0.28571 the|0.35714 exhaust|0.42857 plume|0.5 |0.57143 intake|0.64286 mass|0.71429 flow|0.78571 rate|0.85714 where|0.92857 |1"
+		}
+	}
+}

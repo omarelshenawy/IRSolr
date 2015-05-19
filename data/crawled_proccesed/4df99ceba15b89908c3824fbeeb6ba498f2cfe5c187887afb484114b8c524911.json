@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4df99ceba15b89908c3824fbeeb6ba498f2cfe5c187887afb484114b8c524911",
+			"url": "https://upload.wikimedia.org/math/d/a/5/da558173e1f2ddfeb273751d481f9a52.png",
+			"previous": " An optimization problem can be represented in the following way ",
+			"after": " Such a formulation is called an optimization problem or a mathematical programming problem a term not directly related to computer programming but still in use for example in linear programming see History below Many real world and theoretical problems may be modeled in this general framework Problems formulated using this technique in the fields of physics and computer vision may refer to the technique as energy minimization speaking of the value of the function f as representing the energy of the system being modeled ",
+			"color": "gray|0.22817 grey|0.22817 dark|0.22638 gray|0.22638 dark|0.22638 grey|0.22638 dim|0.18663 gray|0.18663 dim|0.18663 grey|0.18663 silver|0.15304 light|0.096897 gray|0.096897 light|0.096897 grey|0.096897 gainsboro|0.070062 white|0.0073582 smoke|0.0073582 linen|0.0045525 lavender|0.0042814 blush|0.0042814 alice|0.004161 blue|0.004161 ghost|0.003996 white|0.003996 sea|0.0038854 shell|0.0038854 snow|0.0037939 white|0.0029907  ",
+			"after_weights": " Such|1 a|0.9881 formulation|0.97619 is|0.96429 called|0.95238 an|0.94048 optimization|0.92857 problem|0.91667 or|0.90476 a|0.89286 mathematical|0.88095 programming|0.86905 problem|0.85714 a|0.84524 term|0.83333 not|0.82143 directly|0.80952 related|0.79762 to|0.78571 computer|0.77381 programming|0.7619 but|0.75 still|0.7381 in|0.72619 use|0.71429 for|0.70238 example|0.69048 in|0.67857 linear|0.66667 programming|0.65476 see|0.64286 History|0.63095 below|0.61905 Many|0.60714 real|0.59524 world|0.58333 and|0.57143 theoretical|0.55952 problems|0.54762 may|0.53571 be|0.52381 modeled|0.5119 in|0.5 this|0.4881 general|0.47619 framework|0.46429 Problems|0.45238 formulated|0.44048 using|0.42857 this|0.41667 technique|0.40476 in|0.39286 the|0.38095 fields|0.36905 of|0.35714 physics|0.34524 and|0.33333 computer|0.32143 vision|0.30952 may|0.29762 refer|0.28571 to|0.27381 the|0.2619 technique|0.25 as|0.2381 energy|0.22619 minimization|0.21429 speaking|0.20238 of|0.19048 the|0.17857 value|0.16667 of|0.15476 the|0.14286 function|0.13095 f|0.11905 as|0.10714 representing|0.095238 the|0.083333 energy|0.071429 of|0.059524 the|0.047619 system|0.035714 being|0.02381 modeled|0.011905 |0",
+			"previous_weights": " An|0 optimization|0.1 problem|0.2 can|0.3 be|0.4 represented|0.5 in|0.6 the|0.7 following|0.8 way|0.9 |1"
+		}
+	}
+}

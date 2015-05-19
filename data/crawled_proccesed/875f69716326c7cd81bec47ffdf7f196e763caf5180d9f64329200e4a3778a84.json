@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "875f69716326c7cd81bec47ffdf7f196e763caf5180d9f64329200e4a3778a84",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ILS_planes_coloured.svg/220px-ILS_planes_coloured.svg.png",
+			"previous": " ",
+			"after": " An instrument landing system ILS is a ground based instrument approach system that provides precision lateral and vertical guidance to an aircraft approaching and landing on a runway using a combination of radio signals and in many cases high intensity lighting arrays to enable a safe landing during instrument meteorological conditions IMC such as low ceilings or reduced visibility due to fog rain or blowing snow ",
+			"color": "light|0.85573 green|0.85573 light|0.11407 pink|0.11407 dim|0.0094775 gray|0.0094775 dim|0.0094775 grey|0.0094775 rosy|0.0080434 brown|0.0080434 gray|0.0045907 grey|0.0045907  ",
+			"after_weights": " An|1 instrument|0.98485 landing|0.9697 system|0.95455 ILS|0.93939 is|0.92424 a|0.90909 ground|0.89394 based|0.87879 instrument|0.86364 approach|0.84848 system|0.83333 that|0.81818 provides|0.80303 precision|0.78788 lateral|0.77273 and|0.75758 vertical|0.74242 guidance|0.72727 to|0.71212 an|0.69697 aircraft|0.68182 approaching|0.66667 and|0.65152 landing|0.63636 on|0.62121 a|0.60606 runway|0.59091 using|0.57576 a|0.56061 combination|0.54545 of|0.5303 radio|0.51515 signals|0.5 and|0.48485 in|0.4697 many|0.45455 cases|0.43939 high|0.42424 intensity|0.40909 lighting|0.39394 arrays|0.37879 to|0.36364 enable|0.34848 a|0.33333 safe|0.31818 landing|0.30303 during|0.28788 instrument|0.27273 meteorological|0.25758 conditions|0.24242 IMC|0.22727 such|0.21212 as|0.19697 low|0.18182 ceilings|0.16667 or|0.15152 reduced|0.13636 visibility|0.12121 due|0.10606 to|0.090909 fog|0.075758 rain|0.060606 or|0.045455 blowing|0.030303 snow|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

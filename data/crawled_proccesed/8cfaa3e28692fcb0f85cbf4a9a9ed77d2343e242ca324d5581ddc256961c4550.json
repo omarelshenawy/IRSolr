@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cfaa3e28692fcb0f85cbf4a9a9ed77d2343e242ca324d5581ddc256961c4550",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Southwest_Airlines_Flight_1248_-1.jpg/220px-Southwest_Airlines_Flight_1248_-1.jpg",
+			"previous": " Data through April 30 2015 Updated on May 9 2015 1 ",
+			"after": " According to the Aviation Safety Network the Boeing 737 Next Generation series has been involved in 14 hull loss accidents and 10 hijackings for a total of 527 fatalities 41 42 43 44 ",
+			"color": "dim|0.48018 gray|0.48018 dim|0.48018 grey|0.48018 gray|0.14258 grey|0.14258 slate|0.10918 gray|0.10918 light|0.090434 slate|0.090434 gray|0.090434 black|0.078954 dark|0.066997 gray|0.066997 dark|0.066997 grey|0.066997 silver|0.011048 dark|0.010955 slate|0.010955 gray|0.010955  ",
+			"after_weights": " According|1 to|0.9697 the|0.93939 Aviation|0.90909 Safety|0.87879 Network|0.84848 the|0.81818 Boeing|0.78788 737|0.75758 Next|0.72727 Generation|0.69697 series|0.66667 has|0.63636 been|0.60606 involved|0.57576 in|0.54545 14|0.51515 hull|0.48485 loss|0.45455 accidents|0.42424 and|0.39394 10|0.36364 hijackings|0.33333 for|0.30303 a|0.27273 total|0.24242 of|0.21212 527|0.18182 fatalities|0.15152 41|0.12121 42|0.090909 43|0.060606 44|0.030303 |0",
+			"previous_weights": " Data|0 through|0.090909 April|0.18182 30|0.27273 2015|0.36364 Updated|0.45455 on|0.54545 May|0.63636 9|0.72727 2015|0.81818 1|0.90909 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c43a2508d6c0060a7e7a21188bcf4192e0100e3ffdaab5f71e67a29adbd2cfb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/STS_134_Endeavour_Docked.jpg/220px-STS_134_Endeavour_Docked.jpg",
+			"previous": " ",
+			"after": " Endeavour flew its final mission STS 134 to the International Space Station ISS in May 2011 After the conclusion of STS 134 Endeavour was formally decommissioned citation needed  STS 134 was intended to launch in late 2010 but on July 1 NASA released a statement saying the Endeavour mission was rescheduled for February 27 2011 12 ",
+			"color": "black|0.30642 dim|0.20354 gray|0.20354 dim|0.20354 grey|0.20354 gray|0.070605 grey|0.070605 light|0.060461 steel|0.060461 blue|0.060461 dark|0.038872 gray|0.038872 dark|0.038872 grey|0.038872 slate|0.037956 gray|0.037956 lavender|0.036141 light|0.035071 slate|0.035071 gray|0.035071 silver|0.0283 alice|0.017682 blue|0.017682 ghost|0.016988 white|0.016988 white|0.015698 smoke|0.015698 snow|0.014043 white|0.013962 light|0.01346 gray|0.01346 light|0.01346 grey|0.01346 azure|0.013439 mint|0.012753 cream|0.012753 sea|0.011372 shell|0.011372 gainsboro|0.011317 floral|0.010684 white|0.010684 lavender|0.010241 blush|0.010241  ",
+			"after_weights": " Endeavour|1 flew|0.98246 its|0.96491 final|0.94737 mission|0.92982 STS|0.91228 134|0.89474 to|0.87719 the|0.85965 International|0.84211 Space|0.82456 Station|0.80702 ISS|0.78947 in|0.77193 May|0.75439 2011|0.73684 After|0.7193 the|0.70175 conclusion|0.68421 of|0.66667 STS|0.64912 134|0.63158 Endeavour|0.61404 was|0.59649 formally|0.57895 decommissioned|0.5614 citation|0.54386 needed|0.52632 |0.50877 STS|0.49123 134|0.47368 was|0.45614 intended|0.4386 to|0.42105 launch|0.40351 in|0.38596 late|0.36842 2010|0.35088 but|0.33333 on|0.31579 July|0.29825 1|0.2807 NASA|0.26316 released|0.24561 a|0.22807 statement|0.21053 saying|0.19298 the|0.17544 Endeavour|0.15789 mission|0.14035 was|0.12281 rescheduled|0.10526 for|0.087719 February|0.070175 27|0.052632 2011|0.035088 12|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

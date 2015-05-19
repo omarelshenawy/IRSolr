@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68e4239f7f1020f1953a82c18b49d6ae74f1333da0a3bf9e99379ff2838c406e",
+			"url": "https://upload.wikimedia.org/math/e/b/9/eb988f70299d82e26904e3fc2769f8ce.png",
+			"previous": " The solution of this equation for x in terms of t is found by using its characteristic equation",
+			"after": " which can be found by stacking into matrix form a set of equations consisting of the above difference equation and the k 1 equations giving a k dimensional system of the first order in the stacked variable vector in terms of its once lagged value and taking the characteristic equation of this system s matrix This equation gives k characteristic roots for use in the solution equation",
+			"color": "dim|0.33108 gray|0.33108 dim|0.33108 grey|0.33108 gray|0.22072 grey|0.22072 dark|0.16296 gray|0.16296 dark|0.16296 grey|0.16296 black|0.11802 silver|0.08127 light|0.042098 gray|0.042098 light|0.042098 grey|0.042098 gainsboro|0.02894  ",
+			"after_weights": " which|1 can|0.98485 be|0.9697 found|0.95455 by|0.93939 stacking|0.92424 into|0.90909 matrix|0.89394 form|0.87879 a|0.86364 set|0.84848 of|0.83333 equations|0.81818 consisting|0.80303 of|0.78788 the|0.77273 above|0.75758 difference|0.74242 equation|0.72727 and|0.71212 the|0.69697 k|0.68182 1|0.66667 equations|0.65152 giving|0.63636 a|0.62121 k|0.60606 dimensional|0.59091 system|0.57576 of|0.56061 the|0.54545 first|0.5303 order|0.51515 in|0.5 the|0.48485 stacked|0.4697 variable|0.45455 vector|0.43939 in|0.42424 terms|0.40909 of|0.39394 its|0.37879 once|0.36364 lagged|0.34848 value|0.33333 and|0.31818 taking|0.30303 the|0.28788 characteristic|0.27273 equation|0.25758 of|0.24242 this|0.22727 system|0.21212 s|0.19697 matrix|0.18182 This|0.16667 equation|0.15152 gives|0.13636 k|0.12121 characteristic|0.10606 roots|0.090909 for|0.075758 use|0.060606 in|0.045455 the|0.030303 solution|0.015152 equation|0",
+			"previous_weights": " The|0 solution|0.058824 of|0.11765 this|0.17647 equation|0.23529 for|0.29412 x|0.35294 in|0.41176 terms|0.47059 of|0.52941 t|0.58824 is|0.64706 found|0.70588 by|0.76471 using|0.82353 its|0.88235 characteristic|0.94118 equation|1"
+		}
+	}
+}

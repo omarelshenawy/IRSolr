@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73d963c3f1fcfbda3b7430a80394ac4b728993d158b232923cf6759e9b7c5d42",
+			"url": "https://upload.wikimedia.org/math/3/3/5/3351d905c1fc9a7d17869961a4181a15.png",
+			"previous": " The cardinality of the set of integers is equal to aleph null This is readily demonstrated by the construction of a bijection that is a function that is injective and surjective from Z to N If N 0 1 2 then consider the function ",
+			"after": "  4 8 3 6 2 4 1 2 0 0 1 1 2 3 3 5 ",
+			"color": "dim|0.36488 gray|0.36488 dim|0.36488 grey|0.36488 gray|0.27836 grey|0.27836 dark|0.1839 gray|0.1839 dark|0.1839 grey|0.1839 silver|0.08407 light|0.04489 gray|0.04489 light|0.04489 grey|0.04489 gainsboro|0.028943 white|0.0031688 smoke|0.0031688  ",
+			"after_weights": " |1 4|0.94118 8|0.88235 3|0.82353 6|0.76471 2|0.70588 4|0.64706 1|0.58824 2|0.52941 0|0.47059 0|0.41176 1|0.35294 1|0.29412 2|0.23529 3|0.17647 3|0.11765 5|0.058824 |0",
+			"previous_weights": " The|0 cardinality|0.022727 of|0.045455 the|0.068182 set|0.090909 of|0.11364 integers|0.13636 is|0.15909 equal|0.18182 to|0.20455 aleph|0.22727 null|0.25 This|0.27273 is|0.29545 readily|0.31818 demonstrated|0.34091 by|0.36364 the|0.38636 construction|0.40909 of|0.43182 a|0.45455 bijection|0.47727 that|0.5 is|0.52273 a|0.54545 function|0.56818 that|0.59091 is|0.61364 injective|0.63636 and|0.65909 surjective|0.68182 from|0.70455 Z|0.72727 to|0.75 N|0.77273 If|0.79545 N|0.81818 0|0.84091 1|0.86364 2|0.88636 then|0.90909 consider|0.93182 the|0.95455 function|0.97727 |1"
+		}
+	}
+}

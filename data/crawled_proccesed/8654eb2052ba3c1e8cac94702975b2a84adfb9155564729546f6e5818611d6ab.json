@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8654eb2052ba3c1e8cac94702975b2a84adfb9155564729546f6e5818611d6ab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Interstellar_robotic_probe.gif",
+			"previous": " ",
+			"after": " An extraterrestrial civilization may choose to communicate with humanity by means of artifacts or probes rather than by radio for various reasons While probes may take a long time to reach the Solar System once there they would be able to hold a sustained dialogue that would be impossible using radio from hundreds or thousands of light years away 62 Radio would be completely unsuitable for surveillance and continued monitoring of a civilization and should an extraterrestrial civilization wish to perform these activities on humanity artifacts may be the only option other than to send large crewed spacecraft to the Solar System 62 ",
+			"color": " ",
+			"after_weights": " An|1 extraterrestrial|0.99029 civilization|0.98058 may|0.97087 choose|0.96117 to|0.95146 communicate|0.94175 with|0.93204 humanity|0.92233 by|0.91262 means|0.90291 of|0.8932 artifacts|0.8835 or|0.87379 probes|0.86408 rather|0.85437 than|0.84466 by|0.83495 radio|0.82524 for|0.81553 various|0.80583 reasons|0.79612 While|0.78641 probes|0.7767 may|0.76699 take|0.75728 a|0.74757 long|0.73786 time|0.72816 to|0.71845 reach|0.70874 the|0.69903 Solar|0.68932 System|0.67961 once|0.6699 there|0.66019 they|0.65049 would|0.64078 be|0.63107 able|0.62136 to|0.61165 hold|0.60194 a|0.59223 sustained|0.58252 dialogue|0.57282 that|0.56311 would|0.5534 be|0.54369 impossible|0.53398 using|0.52427 radio|0.51456 from|0.50485 hundreds|0.49515 or|0.48544 thousands|0.47573 of|0.46602 light|0.45631 years|0.4466 away|0.43689 62|0.42718 Radio|0.41748 would|0.40777 be|0.39806 completely|0.38835 unsuitable|0.37864 for|0.36893 surveillance|0.35922 and|0.34951 continued|0.33981 monitoring|0.3301 of|0.32039 a|0.31068 civilization|0.30097 and|0.29126 should|0.28155 an|0.27184 extraterrestrial|0.26214 civilization|0.25243 wish|0.24272 to|0.23301 perform|0.2233 these|0.21359 activities|0.20388 on|0.19417 humanity|0.18447 artifacts|0.17476 may|0.16505 be|0.15534 the|0.14563 only|0.13592 option|0.12621 other|0.1165 than|0.1068 to|0.097087 send|0.087379 large|0.07767 crewed|0.067961 spacecraft|0.058252 to|0.048544 the|0.038835 Solar|0.029126 System|0.019417 62|0.0097087 |0",
+			"previous_weights": " "
+		}
+	}
+}

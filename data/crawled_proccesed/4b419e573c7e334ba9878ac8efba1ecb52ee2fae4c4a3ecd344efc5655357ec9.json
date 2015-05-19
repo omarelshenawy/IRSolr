@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b419e573c7e334ba9878ac8efba1ecb52ee2fae4c4a3ecd344efc5655357ec9",
+			"url": "https://upload.wikimedia.org/math/e/7/5/e753d7350377f0f322492ba79bd587cb.png",
+			"previous": " The classification of partial differential equations can be extended to systems of first order equations where the unknown u is now a vector with m components and the coefficient matrices A are m by m matrices for 1 n The partial differential equation takes the form",
+			"after": " where the coefficient matrices A and the vector B may depend upon x and u If a hypersurface S is given in the implicit form",
+			"color": "dim|0.38336 gray|0.38336 dim|0.38336 grey|0.38336 gray|0.28634 grey|0.28634 dark|0.1777 gray|0.1777 dark|0.1777 grey|0.1777 silver|0.083735 light|0.033808 gray|0.033808 light|0.033808 grey|0.033808 gainsboro|0.02326 white|0.0034218 smoke|0.0034218  ",
+			"after_weights": " where|1 the|0.95833 coefficient|0.91667 matrices|0.875 A|0.83333 and|0.79167 the|0.75 vector|0.70833 B|0.66667 may|0.625 depend|0.58333 upon|0.54167 x|0.5 and|0.45833 u|0.41667 If|0.375 a|0.33333 hypersurface|0.29167 S|0.25 is|0.20833 given|0.16667 in|0.125 the|0.083333 implicit|0.041667 form|0",
+			"previous_weights": " The|0 classification|0.022222 of|0.044444 partial|0.066667 differential|0.088889 equations|0.11111 can|0.13333 be|0.15556 extended|0.17778 to|0.2 systems|0.22222 of|0.24444 first|0.26667 order|0.28889 equations|0.31111 where|0.33333 the|0.35556 unknown|0.37778 u|0.4 is|0.42222 now|0.44444 a|0.46667 vector|0.48889 with|0.51111 m|0.53333 components|0.55556 and|0.57778 the|0.6 coefficient|0.62222 matrices|0.64444 A|0.66667 are|0.68889 m|0.71111 by|0.73333 m|0.75556 matrices|0.77778 for|0.8 1|0.82222 n|0.84444 The|0.86667 partial|0.88889 differential|0.91111 equation|0.93333 takes|0.95556 the|0.97778 form|1"
+		}
+	}
+}

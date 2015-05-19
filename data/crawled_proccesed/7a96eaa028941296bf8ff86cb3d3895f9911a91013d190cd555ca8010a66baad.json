@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a96eaa028941296bf8ff86cb3d3895f9911a91013d190cd555ca8010a66baad",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Germany_Luebeck_St_Petri_Turm.jpg/100px-Germany_Luebeck_St_Petri_Turm.jpg",
+			"previous": " ",
+			"after": " See also Culture of Schleswig Holstein Literature Matthias Claudius Gustav Frenssen G nter Grass Klaus Groth Friedrich Hebbel James Kr ss Siegfried Lenz Detlev von Liliencron Heinrich Mann Thomas Mann Theodor Mommsen Johann Rist Theodor Storm",
+			"color": "sienna|0.52005 black|0.14774 dim|0.052645 gray|0.052645 dim|0.052645 grey|0.052645 rosy|0.050202 brown|0.050202 dark|0.038831 salmon|0.038831 tan|0.035672 dark|0.027544 gray|0.027544 dark|0.027544 grey|0.027544 gray|0.027263 grey|0.027263 silver|0.022041  ",
+			"after_weights": " See|1 also|0.97143 Culture|0.94286 of|0.91429 Schleswig|0.88571 Holstein|0.85714 Literature|0.82857 Matthias|0.8 Claudius|0.77143 Gustav|0.74286 Frenssen|0.71429 G|0.68571 nter|0.65714 Grass|0.62857 Klaus|0.6 Groth|0.57143 Friedrich|0.54286 Hebbel|0.51429 James|0.48571 Kr|0.45714 ss|0.42857 Siegfried|0.4 Lenz|0.37143 Detlev|0.34286 von|0.31429 Liliencron|0.28571 Heinrich|0.25714 Mann|0.22857 Thomas|0.2 Mann|0.17143 Theodor|0.14286 Mommsen|0.11429 Johann|0.085714 Rist|0.057143 Theodor|0.028571 Storm|0",
+			"previous_weights": " "
+		}
+	}
+}

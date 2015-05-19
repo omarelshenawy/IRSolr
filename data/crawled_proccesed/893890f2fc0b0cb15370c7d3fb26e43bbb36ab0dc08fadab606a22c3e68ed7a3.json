@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "893890f2fc0b0cb15370c7d3fb26e43bbb36ab0dc08fadab606a22c3e68ed7a3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29-2.png/125px-Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29-2.png",
+			"previous": " Portal History Featured biography 9",
+			"after": " Brock s actions particularly his success at Detroit earned him a knighthood membership in the Order of the Bath accolades and the sobriquet The Hero of Upper Canada His name is often linked with that of the Native American leader Tecumseh although the two men collaborated in person only for a few days Brock died at the Battle of Queenston Heights which was nevertheless a British victory ",
+			"color": "dim|0.33402 gray|0.33402 dim|0.33402 grey|0.33402 gray|0.13285 grey|0.13285 light|0.073553 gray|0.073553 light|0.073553 grey|0.073553 gainsboro|0.058472 silver|0.049858 dark|0.046029 salmon|0.046029 dark|0.038673 gray|0.038673 dark|0.038673 grey|0.038673 brown|0.03787 indian|0.029166 red|0.029166 misty|0.027608 rose|0.027608 sienna|0.024908 burly|0.021265 wood|0.021265 firebrick|0.018928 tan|0.018469 rosy|0.011615 brown|0.011615 linen|0.0094024 lavender|0.0090864 blush|0.0090864  ",
+			"after_weights": " Brock|1 s|0.98507 actions|0.97015 particularly|0.95522 his|0.9403 success|0.92537 at|0.91045 Detroit|0.89552 earned|0.8806 him|0.86567 a|0.85075 knighthood|0.83582 membership|0.8209 in|0.80597 the|0.79104 Order|0.77612 of|0.76119 the|0.74627 Bath|0.73134 accolades|0.71642 and|0.70149 the|0.68657 sobriquet|0.67164 The|0.65672 Hero|0.64179 of|0.62687 Upper|0.61194 Canada|0.59701 His|0.58209 name|0.56716 is|0.55224 often|0.53731 linked|0.52239 with|0.50746 that|0.49254 of|0.47761 the|0.46269 Native|0.44776 American|0.43284 leader|0.41791 Tecumseh|0.40299 although|0.38806 the|0.37313 two|0.35821 men|0.34328 collaborated|0.32836 in|0.31343 person|0.29851 only|0.28358 for|0.26866 a|0.25373 few|0.23881 days|0.22388 Brock|0.20896 died|0.19403 at|0.1791 the|0.16418 Battle|0.14925 of|0.13433 Queenston|0.1194 Heights|0.10448 which|0.089552 was|0.074627 nevertheless|0.059701 a|0.044776 British|0.029851 victory|0.014925 |0",
+			"previous_weights": " Portal|0 History|0.25 Featured|0.5 biography|0.75 9|1"
+		}
+	}
+}

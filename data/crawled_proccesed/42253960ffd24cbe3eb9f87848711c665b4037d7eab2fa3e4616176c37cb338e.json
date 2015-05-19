@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42253960ffd24cbe3eb9f87848711c665b4037d7eab2fa3e4616176c37cb338e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dhaka%2C_Catholic_Cathedral_of_the_Immaculate_Conception.JPG/220px-Dhaka%2C_Catholic_Cathedral_of_the_Immaculate_Conception.JPG",
+			"previous": " ",
+			"after": " The literacy rate in Dhaka is also increasing fairly quickly It was estimated at 69 2 in 2001 The literacy rate had gone up to 74 6 by 2011 1 which is significantly higher than the national average of 51 77 76 ",
+			"color": "dim|0.35441 gray|0.35441 dim|0.35441 grey|0.35441 gray|0.24613 grey|0.24613 black|0.21391 dark|0.14381 gray|0.14381 dark|0.14381 grey|0.14381 slate|0.015723 gray|0.015723 silver|0.01521 light|0.0086917 slate|0.0086917 gray|0.0086917  ",
+			"after_weights": " The|1 literacy|0.97619 rate|0.95238 in|0.92857 Dhaka|0.90476 is|0.88095 also|0.85714 increasing|0.83333 fairly|0.80952 quickly|0.78571 It|0.7619 was|0.7381 estimated|0.71429 at|0.69048 69|0.66667 2|0.64286 in|0.61905 2001|0.59524 The|0.57143 literacy|0.54762 rate|0.52381 had|0.5 gone|0.47619 up|0.45238 to|0.42857 74|0.40476 6|0.38095 by|0.35714 2011|0.33333 1|0.30952 which|0.28571 is|0.2619 significantly|0.2381 higher|0.21429 than|0.19048 the|0.16667 national|0.14286 average|0.11905 of|0.095238 51|0.071429 77|0.047619 76|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

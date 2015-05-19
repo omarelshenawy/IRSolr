@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71d1e0df8a08f94e1b54266ba0c0a45074ab5d3b6d2488743a0c6dc0ab6b83b6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mesoamerica_english.PNG/280px-Mesoamerica_english.PNG",
+			"previous": " Why Mesoamerica ",
+			"after": " Mesoamerica refers to a geographical cultural historical region a territory bounded approximately to the north by the Tropic of Cancer across the present day central and western Mexico states and down through the Isthmus of Tehuantepec and the Yucat n peninsula to Guatemala Belize western Honduras El Salvador Nicaragua and northwestern Costa Rica ",
+			"color": "dark|0.64039 sea|0.64039 green|0.64039 dark|0.15891 khaki|0.15891 gray|0.049698 grey|0.049698 dim|0.048567 gray|0.048567 dim|0.048567 grey|0.048567 medium|0.029668 aqua|0.029668 marine|0.029668 pale|0.027923 golden|0.027923 rod|0.027923 dark|0.020878 gray|0.020878 dark|0.020878 grey|0.020878  ",
+			"after_weights": " Mesoamerica|1 refers|0.98113 to|0.96226 a|0.9434 geographical|0.92453 cultural|0.90566 historical|0.88679 region|0.86792 a|0.84906 territory|0.83019 bounded|0.81132 approximately|0.79245 to|0.77358 the|0.75472 north|0.73585 by|0.71698 the|0.69811 Tropic|0.67925 of|0.66038 Cancer|0.64151 across|0.62264 the|0.60377 present|0.58491 day|0.56604 central|0.54717 and|0.5283 western|0.50943 Mexico|0.49057 states|0.4717 and|0.45283 down|0.43396 through|0.41509 the|0.39623 Isthmus|0.37736 of|0.35849 Tehuantepec|0.33962 and|0.32075 the|0.30189 Yucat|0.28302 n|0.26415 peninsula|0.24528 to|0.22642 Guatemala|0.20755 Belize|0.18868 western|0.16981 Honduras|0.15094 El|0.13208 Salvador|0.11321 Nicaragua|0.09434 and|0.075472 northwestern|0.056604 Costa|0.037736 Rica|0.018868 |0",
+			"previous_weights": " Why|0 Mesoamerica|0.5 |1"
+		}
+	}
+}

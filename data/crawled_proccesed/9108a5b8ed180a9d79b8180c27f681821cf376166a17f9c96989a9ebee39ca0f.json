@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9108a5b8ed180a9d79b8180c27f681821cf376166a17f9c96989a9ebee39ca0f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Latitude_and_longitude_graticule_on_an_ellipsoid.svg/200px-Latitude_and_longitude_graticule_on_an_ellipsoid.svg.png",
+			"previous": " ",
+			"after": " The graticule on the ellipsoid is constructed in exactly the same way as on the sphere The normal at a point on the surface of an ellipsoid does not pass through the centre except for points on the equator or at the poles but the definition of latitude remains unchanged as the angle between the normal and the equatorial plane The terminology for latitude must be made more precise by distinguishing",
+			"color": "old|0.093626 lace|0.093626 floral|0.093206 white|0.093206 ivory|0.093154 honeydew|0.09272 mint|0.092393 cream|0.092393 sea|0.092334 shell|0.092334 linen|0.092261 beige|0.092175 white|0.088958 corn|0.084754 silk|0.084754 dark|0.014716 gray|0.014716 dark|0.014716 grey|0.014716 gray|0.012522 grey|0.012522 silver|0.011053 dim|0.011041 gray|0.011041 dim|0.011041 grey|0.011041 light|0.0077547 gray|0.0077547 light|0.0077547 grey|0.0077547 gainsboro|0.0057684 snow|0.004775 antique|0.0040007 white|0.0040007  ",
+			"after_weights": " The|1 graticule|0.98571 on|0.97143 the|0.95714 ellipsoid|0.94286 is|0.92857 constructed|0.91429 in|0.9 exactly|0.88571 the|0.87143 same|0.85714 way|0.84286 as|0.82857 on|0.81429 the|0.8 sphere|0.78571 The|0.77143 normal|0.75714 at|0.74286 a|0.72857 point|0.71429 on|0.7 the|0.68571 surface|0.67143 of|0.65714 an|0.64286 ellipsoid|0.62857 does|0.61429 not|0.6 pass|0.58571 through|0.57143 the|0.55714 centre|0.54286 except|0.52857 for|0.51429 points|0.5 on|0.48571 the|0.47143 equator|0.45714 or|0.44286 at|0.42857 the|0.41429 poles|0.4 but|0.38571 the|0.37143 definition|0.35714 of|0.34286 latitude|0.32857 remains|0.31429 unchanged|0.3 as|0.28571 the|0.27143 angle|0.25714 between|0.24286 the|0.22857 normal|0.21429 and|0.2 the|0.18571 equatorial|0.17143 plane|0.15714 The|0.14286 terminology|0.12857 for|0.11429 latitude|0.1 must|0.085714 be|0.071429 made|0.057143 more|0.042857 precise|0.028571 by|0.014286 distinguishing|0",
+			"previous_weights": " "
+		}
+	}
+}

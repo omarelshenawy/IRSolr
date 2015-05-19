@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d6d8040277eeb0344d19bfbcb1c3b7400adb7a83fcfdbb90d1da68375c695fa",
+			"url": "https://upload.wikimedia.org/math/5/b/3/5b33a34eafb0852dcb99e455733e3721.png",
+			"previous": "  Combustor    Compressor    Intake   So  Since the engine is static both the flight velocity and the flight Mach number are zero",
+			"after": " Turbine       Jetpipe     Is the nozzle choked The nozzle is choked when the throat Mach number 1 0 This occurs when the nozzle pressure ratio reaches or exceeds a critical level ",
+			"color": "dim|0.3601 gray|0.3601 dim|0.3601 grey|0.3601 gray|0.3023 grey|0.3023 dark|0.18471 gray|0.18471 dark|0.18471 grey|0.18471 silver|0.077547 light|0.034466 gray|0.034466 light|0.034466 grey|0.034466 gainsboro|0.02399 white|0.0041485 smoke|0.0041485  ",
+			"after_weights": " Turbine|1 |0.975 |0.95 |0.925 |0.9 |0.875 |0.85 Jetpipe|0.825 |0.8 |0.775 |0.75 |0.725 Is|0.7 the|0.675 nozzle|0.65 choked|0.625 The|0.6 nozzle|0.575 is|0.55 choked|0.525 when|0.5 the|0.475 throat|0.45 Mach|0.425 number|0.4 1|0.375 0|0.35 This|0.325 occurs|0.3 when|0.275 the|0.25 nozzle|0.225 pressure|0.2 ratio|0.175 reaches|0.15 or|0.125 exceeds|0.1 a|0.075 critical|0.05 level|0.025 |0",
+			"previous_weights": " |0 Combustor|0.034483 |0.068966 |0.10345 |0.13793 Compressor|0.17241 |0.2069 |0.24138 |0.27586 Intake|0.31034 |0.34483 |0.37931 So|0.41379 |0.44828 Since|0.48276 the|0.51724 engine|0.55172 is|0.58621 static|0.62069 both|0.65517 the|0.68966 flight|0.72414 velocity|0.75862 and|0.7931 the|0.82759 flight|0.86207 Mach|0.89655 number|0.93103 are|0.96552 zero|1"
+		}
+	}
+}

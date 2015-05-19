@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ecf26fae0db6c21b660aa63430e358da7ea0ed4578729990882d0caf83aa25d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Delta_Air_Lines_Boeing_767-400ER_N834MH_FRA_2011-11-26.png/220px-Delta_Air_Lines_Boeing_767-400ER_N834MH_FRA_2011-11-26.png",
+			"previous": " ",
+			"after": " Frankfurt Airport can easily be accessed by car taxi train or bus as it features an extensive transport network There are two train stations at the airport one for suburban regional trains and one for long distance trains ",
+			"color": "dim|0.13821 gray|0.13821 dim|0.13821 grey|0.13821 black|0.090058 gray|0.083548 grey|0.083548 antique|0.078692 white|0.078692 wheat|0.073267 tan|0.073179 blanched|0.063014 almond|0.063014 bisque|0.062591 papaya|0.055229 whip|0.055229 dark|0.049774 gray|0.049774 dark|0.049774 grey|0.049774 beige|0.033379 corn|0.030259 silk|0.030259 silver|0.029663 slate|0.02528 gray|0.02528 light|0.019263 gray|0.019263 light|0.019263 grey|0.019263 old|0.015242 lace|0.015242 light|0.010691 yellow|0.010691 maroon|0.010068 dark|0.0098958 red|0.0098958 light|0.0094839 slate|0.0094839 gray|0.0094839 light|0.0090663 golden|0.0090663 rod|0.0090663 yellow|0.0090663  ",
+			"after_weights": " Frankfurt|1 Airport|0.97368 can|0.94737 easily|0.92105 be|0.89474 accessed|0.86842 by|0.84211 car|0.81579 taxi|0.78947 train|0.76316 or|0.73684 bus|0.71053 as|0.68421 it|0.65789 features|0.63158 an|0.60526 extensive|0.57895 transport|0.55263 network|0.52632 There|0.5 are|0.47368 two|0.44737 train|0.42105 stations|0.39474 at|0.36842 the|0.34211 airport|0.31579 one|0.28947 for|0.26316 suburban|0.23684 regional|0.21053 trains|0.18421 and|0.15789 one|0.13158 for|0.10526 long|0.078947 distance|0.052632 trains|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40b249ef82c6e0177eedf741f84c33f0e1840c7ffebf34eaa32deac2fa0d877f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Air_France_Airbus_A318_F-GUGB.jpg/220px-Air_France_Airbus_A318_F-GUGB.jpg",
+			"previous": " ",
+			"after": " Frankfurt Airport can easily be accessed by car taxi train or bus as it features an extensive transport network There are two train stations at the airport one for suburban regional trains and one for long distance trains ",
+			"color": "dim|0.16429 gray|0.16429 dim|0.16429 grey|0.16429 dark|0.11671 gray|0.11671 dark|0.11671 grey|0.11671 light|0.11278 gray|0.11278 light|0.11278 grey|0.11278 gainsboro|0.10448 gray|0.099455 grey|0.099455 silver|0.074051 lavender|0.046522 slate|0.043932 gray|0.043932 light|0.042867 slate|0.042867 gray|0.042867 white|0.031166 smoke|0.031166 alice|0.027516 blue|0.027516 ghost|0.023711 white|0.023711 lavender|0.018285 blush|0.018285 black|0.013446 snow|0.012646 azure|0.009231 white|0.0091098 light|0.0090871 steel|0.0090871 blue|0.0090871  ",
+			"after_weights": " Frankfurt|1 Airport|0.97368 can|0.94737 easily|0.92105 be|0.89474 accessed|0.86842 by|0.84211 car|0.81579 taxi|0.78947 train|0.76316 or|0.73684 bus|0.71053 as|0.68421 it|0.65789 features|0.63158 an|0.60526 extensive|0.57895 transport|0.55263 network|0.52632 There|0.5 are|0.47368 two|0.44737 train|0.42105 stations|0.39474 at|0.36842 the|0.34211 airport|0.31579 one|0.28947 for|0.26316 suburban|0.23684 regional|0.21053 trains|0.18421 and|0.15789 one|0.13158 for|0.10526 long|0.078947 distance|0.052632 trains|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "82eb8661291ecb9b2aaa3e0ddbffc9b65762036f57e630b4f6aaba851d87fd93",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Safariacid2.png/220px-Safariacid2.png",
+			"previous": " ",
+			"after": " If rendered correctly Acid2 will appear as a smiley face below the text Hello World in the user s browser with the nose turning blue when the mouse cursor hovers over it At the time of the test s release every browser failed it 9 but now a number of browsers pass it See the list below ",
+			"color": "yellow|0.39564 black|0.11969 white|0.040364 smoke|0.040364 ghost|0.040227 white|0.040227 alice|0.040119 blue|0.040119 snow|0.03978 white|0.039405 sea|0.039142 shell|0.039142 mint|0.038807 cream|0.038807 azure|0.038316 floral|0.038068 white|0.038068 lavender|0.035537 blush|0.035537 dark|0.016312 gray|0.016312 dark|0.016312 grey|0.016312 silver|0.011895 dim|0.0096632 gray|0.0096632 dim|0.0096632 grey|0.0096632 gainsboro|0.0093681 light|0.00907 gray|0.00907 light|0.00907 grey|0.00907 light|0.0086278 steel|0.0086278 blue|0.0086278 olive|0.006212 lavender|0.0061662 ivory|0.0043243 thistle|0.0042104  ",
+			"after_weights": " If|1 rendered|0.98246 correctly|0.96491 Acid2|0.94737 will|0.92982 appear|0.91228 as|0.89474 a|0.87719 smiley|0.85965 face|0.84211 below|0.82456 the|0.80702 text|0.78947 Hello|0.77193 World|0.75439 in|0.73684 the|0.7193 user|0.70175 s|0.68421 browser|0.66667 with|0.64912 the|0.63158 nose|0.61404 turning|0.59649 blue|0.57895 when|0.5614 the|0.54386 mouse|0.52632 cursor|0.50877 hovers|0.49123 over|0.47368 it|0.45614 At|0.4386 the|0.42105 time|0.40351 of|0.38596 the|0.36842 test|0.35088 s|0.33333 release|0.31579 every|0.29825 browser|0.2807 failed|0.26316 it|0.24561 9|0.22807 but|0.21053 now|0.19298 a|0.17544 number|0.15789 of|0.14035 browsers|0.12281 pass|0.10526 it|0.087719 See|0.070175 the|0.052632 list|0.035088 below|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

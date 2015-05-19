@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c18e5f5653d26480daf1c1b6955b2d9ad6b92cb3de05c601bc65da02615fbd5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ILLIAC_4_parallel_computer.jpg/220px-ILLIAC_4_parallel_computer.jpg",
+			"previous": " ",
+			"after": " The origins of true MIMD parallelism go back to Federico Luigi Conte Menabrea and his Sketch of the Analytic Engine Invented by Charles Babbage 46 47 48 IBM introduced the 704 in 1954 through a project in which Gene Amdahl was one of the principal architects It became the first commercially available computer to use fully automatic floating point arithmetic commands 49 ",
+			"color": "black|0.24408 gray|0.14784 grey|0.14784 dim|0.1429 gray|0.1429 dim|0.1429 grey|0.1429 dark|0.12052 gray|0.12052 dark|0.12052 grey|0.12052 silver|0.061162 corn|0.04524 flower|0.04524 blue|0.04524 light|0.038724 gray|0.038724 light|0.038724 grey|0.038724 gainsboro|0.027683 light|0.010771 slate|0.010771 gray|0.010771 slate|0.0095232 gray|0.0095232 linen|0.0090627 dodger|0.0089689 blue|0.0089689 steel|0.0082363 blue|0.0082363 white|0.0080804 smoke|0.0080804 sea|0.0072417 shell|0.0072417 antique|0.007216 white|0.007216 floral|0.0064523 white|0.0064523 light|0.0058671 steel|0.0058671 blue|0.0058671 snow|0.0055924 old|0.0055883 lace|0.0055883  ",
+			"after_weights": " The|1 origins|0.98387 of|0.96774 true|0.95161 MIMD|0.93548 parallelism|0.91935 go|0.90323 back|0.8871 to|0.87097 Federico|0.85484 Luigi|0.83871 Conte|0.82258 Menabrea|0.80645 and|0.79032 his|0.77419 Sketch|0.75806 of|0.74194 the|0.72581 Analytic|0.70968 Engine|0.69355 Invented|0.67742 by|0.66129 Charles|0.64516 Babbage|0.62903 46|0.6129 47|0.59677 48|0.58065 IBM|0.56452 introduced|0.54839 the|0.53226 704|0.51613 in|0.5 1954|0.48387 through|0.46774 a|0.45161 project|0.43548 in|0.41935 which|0.40323 Gene|0.3871 Amdahl|0.37097 was|0.35484 one|0.33871 of|0.32258 the|0.30645 principal|0.29032 architects|0.27419 It|0.25806 became|0.24194 the|0.22581 first|0.20968 commercially|0.19355 available|0.17742 computer|0.16129 to|0.14516 use|0.12903 fully|0.1129 automatic|0.096774 floating|0.080645 point|0.064516 arithmetic|0.048387 commands|0.032258 49|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

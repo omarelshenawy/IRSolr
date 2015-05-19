@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "85c4e3b8578d2c99d80d959374e824a25704736c8304e4d8cfeaeeaca07f58b3",
+			"url": "https://upload.wikimedia.org/math/d/9/6/d96282297cf831cb8c53d313f2423819.png",
+			"previous": " The semi minor axis b is the geometric mean between rmin and rmax  The semi major axis a is the arithmetic mean between rmin and rmax ",
+			"after": " The semi latus rectum p is the harmonic mean between rmin and rmax ",
+			"color": "black|0.35342 dim|0.3316 gray|0.3316 dim|0.3316 grey|0.3316 gray|0.15863 grey|0.15863 dark|0.083615 gray|0.083615 dark|0.083615 grey|0.083615 silver|0.036639 light|0.015768 gray|0.015768 light|0.015768 grey|0.015768 gainsboro|0.010815  ",
+			"after_weights": " The|1 semi|0.92308 latus|0.84615 rectum|0.76923 p|0.69231 is|0.61538 the|0.53846 harmonic|0.46154 mean|0.38462 between|0.30769 rmin|0.23077 and|0.15385 rmax|0.076923 |0",
+			"previous_weights": " The|0 semi|0.037037 minor|0.074074 axis|0.11111 b|0.14815 is|0.18519 the|0.22222 geometric|0.25926 mean|0.2963 between|0.33333 rmin|0.37037 and|0.40741 rmax|0.44444 |0.48148 The|0.51852 semi|0.55556 major|0.59259 axis|0.62963 a|0.66667 is|0.7037 the|0.74074 arithmetic|0.77778 mean|0.81481 between|0.85185 rmin|0.88889 and|0.92593 rmax|0.96296 |1"
+		}
+	}
+}

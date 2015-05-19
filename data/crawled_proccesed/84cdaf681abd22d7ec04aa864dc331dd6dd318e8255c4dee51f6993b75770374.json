@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "84cdaf681abd22d7ec04aa864dc331dd6dd318e8255c4dee51f6993b75770374",
+			"url": "https://upload.wikimedia.org/math/3/d/f/3df468f46b8467790fdee6d5809be444.png",
+			"previous": " It is interesting to consider the case of three lines 1 2 and 3 which yield the matrix equation  if the rows of B are linearly independent i e 1 and 2 represent distinct lines Divide through by x3 to get Cramer s rule for the solution of a set of two linear equations in two unknowns 22 Notice that this yields a point in the z 1 plane only when the 2 2 submatrix associated with x3 has a non zero determinant ",
+			"after": " which in homogeneous form yields ",
+			"color": "black|0.40634 dim|0.22539 gray|0.22539 dim|0.22539 grey|0.22539 gray|0.19949 grey|0.19949 dark|0.13355 gray|0.13355 dark|0.13355 grey|0.13355 silver|0.032403  ",
+			"after_weights": " which|1 in|0.8 homogeneous|0.6 form|0.4 yields|0.2 |0",
+			"previous_weights": " It|0 is|0.011905 interesting|0.02381 to|0.035714 consider|0.047619 the|0.059524 case|0.071429 of|0.083333 three|0.095238 lines|0.10714 1|0.11905 2|0.13095 and|0.14286 3|0.15476 which|0.16667 yield|0.17857 the|0.19048 matrix|0.20238 equation|0.21429 |0.22619 if|0.2381 the|0.25 rows|0.2619 of|0.27381 B|0.28571 are|0.29762 linearly|0.30952 independent|0.32143 i|0.33333 e|0.34524 1|0.35714 and|0.36905 2|0.38095 represent|0.39286 distinct|0.40476 lines|0.41667 Divide|0.42857 through|0.44048 by|0.45238 x3|0.46429 to|0.47619 get|0.4881 Cramer|0.5 s|0.5119 rule|0.52381 for|0.53571 the|0.54762 solution|0.55952 of|0.57143 a|0.58333 set|0.59524 of|0.60714 two|0.61905 linear|0.63095 equations|0.64286 in|0.65476 two|0.66667 unknowns|0.67857 22|0.69048 Notice|0.70238 that|0.71429 this|0.72619 yields|0.7381 a|0.75 point|0.7619 in|0.77381 the|0.78571 z|0.79762 1|0.80952 plane|0.82143 only|0.83333 when|0.84524 the|0.85714 2|0.86905 2|0.88095 submatrix|0.89286 associated|0.90476 with|0.91667 x3|0.92857 has|0.94048 a|0.95238 non|0.96429 zero|0.97619 determinant|0.9881 |1"
+		}
+	}
+}

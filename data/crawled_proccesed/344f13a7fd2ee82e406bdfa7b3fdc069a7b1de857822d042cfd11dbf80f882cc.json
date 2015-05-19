@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "344f13a7fd2ee82e406bdfa7b3fdc069a7b1de857822d042cfd11dbf80f882cc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/P-51-Grenier-1949.jpg/220px-P-51-Grenier-1949.jpg",
+			"previous": " ",
+			"after": " From 1946 through 1949 what little money became available was used to buy new planes B 50 Superfortress B 36 Peacemaker for SAC and as the newer aircraft became available the older B 29s were sent to storage depots or sent to Air Force Reserve units for training missions ",
+			"color": "thistle|0.22324 dark|0.089404 gray|0.089404 dark|0.089404 grey|0.089404 light|0.082433 steel|0.082433 blue|0.082433 silver|0.08024 black|0.080069 dim|0.068028 gray|0.068028 dim|0.068028 grey|0.068028 gray|0.06395 grey|0.06395 dark|0.055412 slate|0.055412 gray|0.055412 lavender|0.04411 light|0.041222 gray|0.041222 light|0.041222 grey|0.041222 slate|0.040782 gray|0.040782 light|0.03928 slate|0.03928 gray|0.03928 gainsboro|0.022017 tan|0.013706 light|0.011893 blue|0.011893  ",
+			"after_weights": " From|1 1946|0.97959 through|0.95918 1949|0.93878 what|0.91837 little|0.89796 money|0.87755 became|0.85714 available|0.83673 was|0.81633 used|0.79592 to|0.77551 buy|0.7551 new|0.73469 planes|0.71429 B|0.69388 50|0.67347 Superfortress|0.65306 B|0.63265 36|0.61224 Peacemaker|0.59184 for|0.57143 SAC|0.55102 and|0.53061 as|0.5102 the|0.4898 newer|0.46939 aircraft|0.44898 became|0.42857 available|0.40816 the|0.38776 older|0.36735 B|0.34694 29s|0.32653 were|0.30612 sent|0.28571 to|0.26531 storage|0.2449 depots|0.22449 or|0.20408 sent|0.18367 to|0.16327 Air|0.14286 Force|0.12245 Reserve|0.10204 units|0.081633 for|0.061224 training|0.040816 missions|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

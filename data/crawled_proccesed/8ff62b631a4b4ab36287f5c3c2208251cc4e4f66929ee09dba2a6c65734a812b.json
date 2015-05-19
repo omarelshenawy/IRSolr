@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ff62b631a4b4ab36287f5c3c2208251cc4e4f66929ee09dba2a6c65734a812b",
+			"url": "https://upload.wikimedia.org/math/f/9/4/f94f4d2beeaecb91715fc2088748d664.png",
+			"previous": " To iterate a function one applies the function repeatedly using the output from one iteration as the input to the next  If then the equation describes either a circle or other ellipse or nothing at all If the ordinate of the maximum point of the corresponding parabola is positive then its square root describes an ellipse but if the ordinate is negative then it describes an empty locus of points ",
+			"after": " For example for the iterative equation one has",
+			"color": "gray|0.29666 grey|0.29666 dark|0.29494 gray|0.29494 dark|0.29494 grey|0.29494 silver|0.13628 dim|0.12232 gray|0.12232 dim|0.12232 grey|0.12232 light|0.070906 gray|0.070906 light|0.070906 grey|0.070906 gainsboro|0.049787 white|0.008819 smoke|0.008819 linen|0.0040719 lavender|0.0031202 blush|0.0031202 alice|0.0030195 blue|0.0030195 ghost|0.0028852 white|0.0028852 sea|0.002655 shell|0.002655 snow|0.0025291  ",
+			"after_weights": " For|1 example|0.85714 for|0.71429 the|0.57143 iterative|0.42857 equation|0.28571 one|0.14286 has|0",
+			"previous_weights": " To|0 iterate|0.014085 a|0.028169 function|0.042254 one|0.056338 applies|0.070423 the|0.084507 function|0.098592 repeatedly|0.11268 using|0.12676 the|0.14085 output|0.15493 from|0.16901 one|0.1831 iteration|0.19718 as|0.21127 the|0.22535 input|0.23944 to|0.25352 the|0.26761 next|0.28169 |0.29577 If|0.30986 then|0.32394 the|0.33803 equation|0.35211 describes|0.3662 either|0.38028 a|0.39437 circle|0.40845 or|0.42254 other|0.43662 ellipse|0.4507 or|0.46479 nothing|0.47887 at|0.49296 all|0.50704 If|0.52113 the|0.53521 ordinate|0.5493 of|0.56338 the|0.57746 maximum|0.59155 point|0.60563 of|0.61972 the|0.6338 corresponding|0.64789 parabola|0.66197 is|0.67606 positive|0.69014 then|0.70423 its|0.71831 square|0.73239 root|0.74648 describes|0.76056 an|0.77465 ellipse|0.78873 but|0.80282 if|0.8169 the|0.83099 ordinate|0.84507 is|0.85915 negative|0.87324 then|0.88732 it|0.90141 describes|0.91549 an|0.92958 empty|0.94366 locus|0.95775 of|0.97183 points|0.98592 |1"
+		}
+	}
+}

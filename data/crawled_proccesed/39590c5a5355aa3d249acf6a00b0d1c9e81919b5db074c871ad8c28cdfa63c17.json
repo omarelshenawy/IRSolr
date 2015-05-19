@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "39590c5a5355aa3d249acf6a00b0d1c9e81919b5db074c871ad8c28cdfa63c17",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vector_components_and_base_change.svg/200px-Vector_components_and_base_change.svg.png",
+			"previous": " ",
+			"after": " Bases allow to represent vectors by a sequence of scalars called coordinates or components A basis is a finite or infinite set B bi i I of vectors bi for convenience often indexed by some index set I that spans the whole space and is linearly independent Spanning the whole space means that any vector v can be expressed as a finite sum called a linear combination of the basis elements ",
+			"color": "white|0.085377 smoke|0.085377 ghost|0.08397 white|0.08397 snow|0.083955 alice|0.083671 blue|0.083671 sea|0.083386 shell|0.083386 white|0.082824 mint|0.081958 cream|0.081958 floral|0.08148 white|0.08148 azure|0.080927 lavender|0.079219 blush|0.079219 red|0.065225 black|0.019287 gray|0.010202 grey|0.010202 gainsboro|0.0091107 light|0.0087567 gray|0.0087567 light|0.0087567 grey|0.0087567 silver|0.0067395 misty|0.0065422 rose|0.0065422 dim|0.0064484 gray|0.0064484 dim|0.0064484 grey|0.0064484 pink|0.0057458 ivory|0.0056737 dark|0.0048122 gray|0.0048122 dark|0.0048122 grey|0.0048122 light|0.0047352 pink|0.0047352 light|0.0044754 coral|0.0044754 linen|0.0038594 light|0.0036236 steel|0.0036236 blue|0.0036236 salmon|0.0032627 lavender|0.0027561  ",
+			"after_weights": " Bases|1 allow|0.98592 to|0.97183 represent|0.95775 vectors|0.94366 by|0.92958 a|0.91549 sequence|0.90141 of|0.88732 scalars|0.87324 called|0.85915 coordinates|0.84507 or|0.83099 components|0.8169 A|0.80282 basis|0.78873 is|0.77465 a|0.76056 finite|0.74648 or|0.73239 infinite|0.71831 set|0.70423 B|0.69014 bi|0.67606 i|0.66197 I|0.64789 of|0.6338 vectors|0.61972 bi|0.60563 for|0.59155 convenience|0.57746 often|0.56338 indexed|0.5493 by|0.53521 some|0.52113 index|0.50704 set|0.49296 I|0.47887 that|0.46479 spans|0.4507 the|0.43662 whole|0.42254 space|0.40845 and|0.39437 is|0.38028 linearly|0.3662 independent|0.35211 Spanning|0.33803 the|0.32394 whole|0.30986 space|0.29577 means|0.28169 that|0.26761 any|0.25352 vector|0.23944 v|0.22535 can|0.21127 be|0.19718 expressed|0.1831 as|0.16901 a|0.15493 finite|0.14085 sum|0.12676 called|0.11268 a|0.098592 linear|0.084507 combination|0.070423 of|0.056338 the|0.042254 basis|0.028169 elements|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

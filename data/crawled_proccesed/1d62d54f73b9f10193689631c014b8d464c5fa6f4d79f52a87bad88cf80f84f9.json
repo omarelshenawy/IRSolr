@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d62d54f73b9f10193689631c014b8d464c5fa6f4d79f52a87bad88cf80f84f9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NYC_Subway_R160A_9237_on_the_E.jpg/220px-NYC_Subway_R160A_9237_on_the_E.jpg",
+			"previous": " ",
+			"after": " Public transport North American English public transportation or public transit is a shared passenger transport service which is available for use by the general public as distinct from modes such as taxicab carpooling or hired buses which are not shared by strangers without private arrangement ",
+			"color": "black|0.39157 dim|0.076704 gray|0.076704 dim|0.076704 grey|0.076704 gray|0.067564 grey|0.067564 dark|0.051661 gray|0.051661 dark|0.051661 grey|0.051661 burly|0.048122 wood|0.048122 silver|0.032719 light|0.029582 gray|0.029582 light|0.029582 grey|0.029582 gainsboro|0.023962 pale|0.016062 golden|0.016062 rod|0.016062 tan|0.015945 white|0.012385 smoke|0.012385 linen|0.012116 wheat|0.011288 sea|0.011207 shell|0.011207 moccasin|0.0099965 navajo|0.0099381 white|0.0099381 floral|0.0097312 white|0.0097312 maroon|0.009458 antique|0.0093708 white|0.0093708 snow|0.0089241 firebrick|0.0084684 mint|0.0078978 cream|0.0078978 white|0.0072927 old|0.0071831 lace|0.0071831 dark|0.007111 red|0.007111  ",
+			"after_weights": " Public|1 transport|0.97778 North|0.95556 American|0.93333 English|0.91111 public|0.88889 transportation|0.86667 or|0.84444 public|0.82222 transit|0.8 is|0.77778 a|0.75556 shared|0.73333 passenger|0.71111 transport|0.68889 service|0.66667 which|0.64444 is|0.62222 available|0.6 for|0.57778 use|0.55556 by|0.53333 the|0.51111 general|0.48889 public|0.46667 as|0.44444 distinct|0.42222 from|0.4 modes|0.37778 such|0.35556 as|0.33333 taxicab|0.31111 carpooling|0.28889 or|0.26667 hired|0.24444 buses|0.22222 which|0.2 are|0.17778 not|0.15556 shared|0.13333 by|0.11111 strangers|0.088889 without|0.066667 private|0.044444 arrangement|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

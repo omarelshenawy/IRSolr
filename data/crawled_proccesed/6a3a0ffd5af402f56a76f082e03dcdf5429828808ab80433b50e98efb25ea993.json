@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a3a0ffd5af402f56a76f082e03dcdf5429828808ab80433b50e98efb25ea993",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Open_black_Kiwi.JPG/220px-Open_black_Kiwi.JPG",
+			"previous": " ",
+			"after": " Shoe polish or boot polish is a waxy paste cream or liquid used to polish shine and waterproof leather shoes or boots to extend the footwear s life and restore maintain and improve their appearance ",
+			"color": "black|0.82411 dark|0.027354 gray|0.027354 dark|0.027354 grey|0.027354 dim|0.026487 gray|0.026487 dim|0.026487 grey|0.026487 gray|0.019658 grey|0.019658 maroon|0.018211 dark|0.017846 red|0.017846 silver|0.017339 firebrick|0.008027 light|0.0074546 gray|0.0074546 light|0.0074546 grey|0.0074546 brown|0.0056938 gainsboro|0.0045817  ",
+			"after_weights": " Shoe|1 polish|0.97143 or|0.94286 boot|0.91429 polish|0.88571 is|0.85714 a|0.82857 waxy|0.8 paste|0.77143 cream|0.74286 or|0.71429 liquid|0.68571 used|0.65714 to|0.62857 polish|0.6 shine|0.57143 and|0.54286 waterproof|0.51429 leather|0.48571 shoes|0.45714 or|0.42857 boots|0.4 to|0.37143 extend|0.34286 the|0.31429 footwear|0.28571 s|0.25714 life|0.22857 and|0.2 restore|0.17143 maintain|0.14286 and|0.11429 improve|0.085714 their|0.057143 appearance|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

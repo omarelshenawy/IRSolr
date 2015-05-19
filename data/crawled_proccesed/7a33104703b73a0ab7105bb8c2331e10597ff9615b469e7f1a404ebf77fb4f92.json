@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a33104703b73a0ab7105bb8c2331e10597ff9615b469e7f1a404ebf77fb4f92",
+			"url": "https://upload.wikimedia.org/math/d/3/0/d30c66507a7ac635fa295121ebd20de0.png",
+			"previous": " Geometrically affine transformations affinities preserve collinearity so they transform parallel lines into parallel lines and preserve ratios of distances along parallel lines ",
+			"after": " For example the theorem from the plane geometry of triangles about the concurrence of the lines joining each vertex to the midpoint of the opposite side at the centroid or barycenter depends on the notions of mid point and centroid as affine invariants Other examples include the theorems of Ceva and Menelaus ",
+			"color": "dim|0.38052 gray|0.38052 dim|0.38052 grey|0.38052 gray|0.31205 grey|0.31205 dark|0.17549 gray|0.17549 dark|0.17549 grey|0.17549 silver|0.066333 light|0.032128 gray|0.032128 light|0.032128 grey|0.032128 gainsboro|0.0215 white|0.0031992 smoke|0.0031992  ",
+			"after_weights": " For|1 example|0.98077 the|0.96154 theorem|0.94231 from|0.92308 the|0.90385 plane|0.88462 geometry|0.86538 of|0.84615 triangles|0.82692 about|0.80769 the|0.78846 concurrence|0.76923 of|0.75 the|0.73077 lines|0.71154 joining|0.69231 each|0.67308 vertex|0.65385 to|0.63462 the|0.61538 midpoint|0.59615 of|0.57692 the|0.55769 opposite|0.53846 side|0.51923 at|0.5 the|0.48077 centroid|0.46154 or|0.44231 barycenter|0.42308 depends|0.40385 on|0.38462 the|0.36538 notions|0.34615 of|0.32692 mid|0.30769 point|0.28846 and|0.26923 centroid|0.25 as|0.23077 affine|0.21154 invariants|0.19231 Other|0.17308 examples|0.15385 include|0.13462 the|0.11538 theorems|0.096154 of|0.076923 Ceva|0.057692 and|0.038462 Menelaus|0.019231 |0",
+			"previous_weights": " Geometrically|0 affine|0.045455 transformations|0.090909 affinities|0.13636 preserve|0.18182 collinearity|0.22727 so|0.27273 they|0.31818 transform|0.36364 parallel|0.40909 lines|0.45455 into|0.5 parallel|0.54545 lines|0.59091 and|0.63636 preserve|0.68182 ratios|0.72727 of|0.77273 distances|0.81818 along|0.86364 parallel|0.90909 lines|0.95455 |1"
+		}
+	}
+}

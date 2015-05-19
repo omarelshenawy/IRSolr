@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "674458c3c426c5770babe5dea44cd00618185f9e2de02a8e8d82c8f16c9ce9bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/News.svg/75px-News.svg.png",
+			"previous": " ",
+			"after": " Professional issues News Reportage Writing Ethics Objectivity Values Attribution Defamation Editorial independence Education Other topics Fields Arts Business Environment Fashion Music Science Sports Trade Video games Weather",
+			"color": "dim|0.15664 gray|0.15664 dim|0.15664 grey|0.15664 dark|0.13726 gray|0.13726 dark|0.13726 grey|0.13726 gray|0.13441 grey|0.13441 silver|0.099563 light|0.08997 gray|0.08997 light|0.08997 grey|0.08997 gainsboro|0.08234 white|0.045376 smoke|0.045376 alice|0.031156 blue|0.031156 ghost|0.030745 white|0.030745 lavender|0.030403 blush|0.030403 sea|0.030149 shell|0.030149 snow|0.029889 white|0.026811 mint|0.022814 cream|0.022814 linen|0.020538 floral|0.017394 white|0.017394 azure|0.013516  ",
+			"after_weights": " Professional|1 issues|0.96154 News|0.92308 Reportage|0.88462 Writing|0.84615 Ethics|0.80769 Objectivity|0.76923 Values|0.73077 Attribution|0.69231 Defamation|0.65385 Editorial|0.61538 independence|0.57692 Education|0.53846 Other|0.5 topics|0.46154 Fields|0.42308 Arts|0.38462 Business|0.34615 Environment|0.30769 Fashion|0.26923 Music|0.23077 Science|0.19231 Sports|0.15385 Trade|0.11538 Video|0.076923 games|0.038462 Weather|0",
+			"previous_weights": " "
+		}
+	}
+}

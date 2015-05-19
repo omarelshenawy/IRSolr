@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12977f67f96c69ba5d38e52277fc96304386b2723bfb8467d6a5889a68a1d9bf",
+			"url": "https://upload.wikimedia.org/math/0/1/1/011346749c8642449b4fb81bce3a5624.png",
+			"previous": " where  The pressure coefficient is a parameter for studying the flow of incompressible fluids such as water and also the low speed flow of compressible fluids such as air The relationship between the dimensionless coefficient and the dimensional numbers is 1 2 ",
+			"after": " Using Bernoulli s Equation the pressure coefficient can be further simplified for incompressible lossless and steady flow 3  where V is the velocity of the fluid at the point at which pressure coefficient is being evaluated ",
+			"color": "gray|0.27392 grey|0.27392 dark|0.26848 gray|0.26848 dark|0.26848 grey|0.26848 dim|0.17178 gray|0.17178 dim|0.17178 grey|0.17178 silver|0.13372 light|0.067705 gray|0.067705 light|0.067705 grey|0.067705 gainsboro|0.046305 white|0.0084509 smoke|0.0084509 lavender|0.0042259 blush|0.0042259 alice|0.0040275 blue|0.0040275 linen|0.0039594 ghost|0.0039139 white|0.0039139 sea|0.0037102 shell|0.0037102 snow|0.0035398 white|0.0026032  ",
+			"after_weights": " Using|1 Bernoulli|0.97297 s|0.94595 Equation|0.91892 the|0.89189 pressure|0.86486 coefficient|0.83784 can|0.81081 be|0.78378 further|0.75676 simplified|0.72973 for|0.7027 incompressible|0.67568 lossless|0.64865 and|0.62162 steady|0.59459 flow|0.56757 3|0.54054 |0.51351 where|0.48649 V|0.45946 is|0.43243 the|0.40541 velocity|0.37838 of|0.35135 the|0.32432 fluid|0.2973 at|0.27027 the|0.24324 point|0.21622 at|0.18919 which|0.16216 pressure|0.13514 coefficient|0.10811 is|0.081081 being|0.054054 evaluated|0.027027 |0",
+			"previous_weights": " where|0 |0.023256 The|0.046512 pressure|0.069767 coefficient|0.093023 is|0.11628 a|0.13953 parameter|0.16279 for|0.18605 studying|0.2093 the|0.23256 flow|0.25581 of|0.27907 incompressible|0.30233 fluids|0.32558 such|0.34884 as|0.37209 water|0.39535 and|0.4186 also|0.44186 the|0.46512 low|0.48837 speed|0.51163 flow|0.53488 of|0.55814 compressible|0.5814 fluids|0.60465 such|0.62791 as|0.65116 air|0.67442 The|0.69767 relationship|0.72093 between|0.74419 the|0.76744 dimensionless|0.7907 coefficient|0.81395 and|0.83721 the|0.86047 dimensional|0.88372 numbers|0.90698 is|0.93023 1|0.95349 2|0.97674 |1"
+		}
+	}
+}

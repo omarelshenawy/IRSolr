@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73a4a6d05e4388d7c87091e99bc62d8e4b7cd6181fded59385959461b9038755",
+			"url": "https://upload.wikimedia.org/math/f/0/9/f09564c9ca56850d4cd6b3319e541aee.png",
+			"previous": " If the sum of the geometric multiplicities of all eigenvalues is exactly then has a set of linearly independent eigenvectors Let be a square matrix whose columns are those eigenvectors in any order Then we will have where is the diagonal matrix such that is the eigenvalue associated to column of Since the columns of are linearly independent the matrix is invertible Premultiplying both sides by we get By definition therefore the matrix is diagonalizable ",
+			"after": " If is diagonalizable the space of all coordinate vectors can be decomposed into the direct sum of the eigenspaces of This decomposition is called the eigendecomposition of and it is preserved under change of coordinates ",
+			"color": " ",
+			"after_weights": " If|1 is|0.97143 diagonalizable|0.94286 the|0.91429 space|0.88571 of|0.85714 all|0.82857 coordinate|0.8 vectors|0.77143 can|0.74286 be|0.71429 decomposed|0.68571 into|0.65714 the|0.62857 direct|0.6 sum|0.57143 of|0.54286 the|0.51429 eigenspaces|0.48571 of|0.45714 This|0.42857 decomposition|0.4 is|0.37143 called|0.34286 the|0.31429 eigendecomposition|0.28571 of|0.25714 and|0.22857 it|0.2 is|0.17143 preserved|0.14286 under|0.11429 change|0.085714 of|0.057143 coordinates|0.028571 |0",
+			"previous_weights": " If|0 the|0.013333 sum|0.026667 of|0.04 the|0.053333 geometric|0.066667 multiplicities|0.08 of|0.093333 all|0.10667 eigenvalues|0.12 is|0.13333 exactly|0.14667 then|0.16 has|0.17333 a|0.18667 set|0.2 of|0.21333 linearly|0.22667 independent|0.24 eigenvectors|0.25333 Let|0.26667 be|0.28 a|0.29333 square|0.30667 matrix|0.32 whose|0.33333 columns|0.34667 are|0.36 those|0.37333 eigenvectors|0.38667 in|0.4 any|0.41333 order|0.42667 Then|0.44 we|0.45333 will|0.46667 have|0.48 where|0.49333 is|0.50667 the|0.52 diagonal|0.53333 matrix|0.54667 such|0.56 that|0.57333 is|0.58667 the|0.6 eigenvalue|0.61333 associated|0.62667 to|0.64 column|0.65333 of|0.66667 Since|0.68 the|0.69333 columns|0.70667 of|0.72 are|0.73333 linearly|0.74667 independent|0.76 the|0.77333 matrix|0.78667 is|0.8 invertible|0.81333 Premultiplying|0.82667 both|0.84 sides|0.85333 by|0.86667 we|0.88 get|0.89333 By|0.90667 definition|0.92 therefore|0.93333 the|0.94667 matrix|0.96 is|0.97333 diagonalizable|0.98667 |1"
+		}
+	}
+}

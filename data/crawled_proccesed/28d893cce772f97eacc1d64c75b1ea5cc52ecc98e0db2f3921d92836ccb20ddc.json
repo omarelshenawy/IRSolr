@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28d893cce772f97eacc1d64c75b1ea5cc52ecc98e0db2f3921d92836ccb20ddc",
+			"url": "https://upload.wikimedia.org/math/0/5/6/0565c61eab80933d04c2ea469aef0f82.png",
+			"previous": " The momentum of the object in the moving frame after the emission is reduced to this amount ",
+			"after": " So the change in the object s mass is equal to the total energy lost divided by c2 Since any emission of energy can be carried out by a two step process where first the energy is emitted as light and then the light is converted to some other form of energy any emission of energy is accompanied by a loss of mass Similarly by considering absorption a gain in energy is accompanied by a gain in mass ",
+			"color": "dim|0.3739 gray|0.3739 dim|0.3739 grey|0.3739 gray|0.27103 grey|0.27103 dark|0.18067 gray|0.18067 dark|0.18067 grey|0.18067 silver|0.086703 light|0.042033 gray|0.042033 light|0.042033 grey|0.042033 gainsboro|0.029995 white|0.0043403 smoke|0.0043403  ",
+			"after_weights": " So|1 the|0.98718 change|0.97436 in|0.96154 the|0.94872 object|0.9359 s|0.92308 mass|0.91026 is|0.89744 equal|0.88462 to|0.87179 the|0.85897 total|0.84615 energy|0.83333 lost|0.82051 divided|0.80769 by|0.79487 c2|0.78205 Since|0.76923 any|0.75641 emission|0.74359 of|0.73077 energy|0.71795 can|0.70513 be|0.69231 carried|0.67949 out|0.66667 by|0.65385 a|0.64103 two|0.62821 step|0.61538 process|0.60256 where|0.58974 first|0.57692 the|0.5641 energy|0.55128 is|0.53846 emitted|0.52564 as|0.51282 light|0.5 and|0.48718 then|0.47436 the|0.46154 light|0.44872 is|0.4359 converted|0.42308 to|0.41026 some|0.39744 other|0.38462 form|0.37179 of|0.35897 energy|0.34615 any|0.33333 emission|0.32051 of|0.30769 energy|0.29487 is|0.28205 accompanied|0.26923 by|0.25641 a|0.24359 loss|0.23077 of|0.21795 mass|0.20513 Similarly|0.19231 by|0.17949 considering|0.16667 absorption|0.15385 a|0.14103 gain|0.12821 in|0.11538 energy|0.10256 is|0.089744 accompanied|0.076923 by|0.064103 a|0.051282 gain|0.038462 in|0.025641 mass|0.012821 |0",
+			"previous_weights": " The|0 momentum|0.058824 of|0.11765 the|0.17647 object|0.23529 in|0.29412 the|0.35294 moving|0.41176 frame|0.47059 after|0.52941 the|0.58824 emission|0.64706 is|0.70588 reduced|0.76471 to|0.82353 this|0.88235 amount|0.94118 |1"
+		}
+	}
+}

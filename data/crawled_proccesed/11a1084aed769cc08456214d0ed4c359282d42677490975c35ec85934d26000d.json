@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11a1084aed769cc08456214d0ed4c359282d42677490975c35ec85934d26000d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/23px-Flag_of_New_York.svg.png",
+			"previous": " John Kenneth Galbraith received fifty Honorary Degrees from institutions around the world  In 2010 he became the first economist to have his works included in the prestigious Library of America series 65 ",
+			"after": " ",
+			"color": "midnight|0.36022 blue|0.36022 dim|0.12513 gray|0.12513 dim|0.12513 grey|0.12513 gray|0.11153 grey|0.11153 dark|0.081595 gray|0.081595 dark|0.081595 grey|0.081595 light|0.053735 slate|0.053735 gray|0.053735 slate|0.052122 gray|0.052122 steel|0.052101 blue|0.052101 dark|0.030342 slate|0.030342 gray|0.030342 golden|0.026649 rod|0.026649 dark|0.02106 sea|0.02106 green|0.02106 gold|0.02086 light|0.01592 steel|0.01592 blue|0.01592 dark|0.011977 khaki|0.011977 dark|0.0092824 slate|0.0092824 blue|0.0092824  ",
+			"after_weights": " ",
+			"previous_weights": " John|0 Kenneth|0.030303 Galbraith|0.060606 received|0.090909 fifty|0.12121 Honorary|0.15152 Degrees|0.18182 from|0.21212 institutions|0.24242 around|0.27273 the|0.30303 world|0.33333 |0.36364 In|0.39394 2010|0.42424 he|0.45455 became|0.48485 the|0.51515 first|0.54545 economist|0.57576 to|0.60606 have|0.63636 his|0.66667 works|0.69697 included|0.72727 in|0.75758 the|0.78788 prestigious|0.81818 Library|0.84848 of|0.87879 America|0.90909 series|0.93939 65|0.9697 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "472404fc88ef7b63e4469bbd57b97bdbe32afab4f8042026854df1126d1ee7e7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ISS013-E-44847.jpg/400px-ISS013-E-44847.jpg",
+			"previous": " ",
+			"after": " Port Said Egyptian Arabic Borsa d IPA bo s i d po s i d the first syllable has its pronunciation from French unurbanized local pronunciation b rsa d is a city that lies in north east Egypt extending about 30 kilometres 19 mi along the coast of the Mediterranean Sea north of the Suez Canal with an approximate population of 603 787 2010 1 The city was established in 1859 during the building of the Suez Canal ",
+			"color": "dim|0.28462 gray|0.28462 dim|0.28462 grey|0.28462 gray|0.17435 grey|0.17435 black|0.16068 rosy|0.089848 brown|0.089848 tan|0.037008 peach|0.027458 puff|0.027458 dark|0.021467 gray|0.021467 dark|0.021467 grey|0.021467  ",
+			"after_weights": " Port|1 Said|0.98718 Egyptian|0.97436 Arabic|0.96154 Borsa|0.94872 d|0.9359 IPA|0.92308 bo|0.91026 s|0.89744 i|0.88462 d|0.87179 po|0.85897 s|0.84615 i|0.83333 d|0.82051 the|0.80769 first|0.79487 syllable|0.78205 has|0.76923 its|0.75641 pronunciation|0.74359 from|0.73077 French|0.71795 unurbanized|0.70513 local|0.69231 pronunciation|0.67949 b|0.66667 rsa|0.65385 d|0.64103 is|0.62821 a|0.61538 city|0.60256 that|0.58974 lies|0.57692 in|0.5641 north|0.55128 east|0.53846 Egypt|0.52564 extending|0.51282 about|0.5 30|0.48718 kilometres|0.47436 19|0.46154 mi|0.44872 along|0.4359 the|0.42308 coast|0.41026 of|0.39744 the|0.38462 Mediterranean|0.37179 Sea|0.35897 north|0.34615 of|0.33333 the|0.32051 Suez|0.30769 Canal|0.29487 with|0.28205 an|0.26923 approximate|0.25641 population|0.24359 of|0.23077 603|0.21795 787|0.20513 2010|0.19231 1|0.17949 The|0.16667 city|0.15385 was|0.14103 established|0.12821 in|0.11538 1859|0.10256 during|0.089744 the|0.076923 building|0.064103 of|0.051282 the|0.038462 Suez|0.025641 Canal|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "951d05fcc99ace8c05c5eecd88ead48862def483ddc81fbea02748238744a22c",
+			"url": "https://upload.wikimedia.org/math/a/5/7/a5749ec33f2c95fe8c19d702d76d4968.png",
+			"previous": " Let there be an observer C on a disk rotating in the xy plane at a coordinate angular rate of and who is at a distance of r from the center of the disk with the center of the disk at x y z 0 The path of observer C is given by where is the current coordinate time When r and are constant and The incremental proper time formula then becomes",
+			"after": " As v r for a rotating observer this result is as expected given the time dilation formula above and shows the general application of the integral form of the proper time formula ",
+			"color": "dim|0.45984 gray|0.45984 dim|0.45984 grey|0.45984 gray|0.42418 grey|0.42418 dark|0.11598 gray|0.11598 dark|0.11598 grey|0.11598  ",
+			"after_weights": " As|1 v|0.96875 r|0.9375 for|0.90625 a|0.875 rotating|0.84375 observer|0.8125 this|0.78125 result|0.75 is|0.71875 as|0.6875 expected|0.65625 given|0.625 the|0.59375 time|0.5625 dilation|0.53125 formula|0.5 above|0.46875 and|0.4375 shows|0.40625 the|0.375 general|0.34375 application|0.3125 of|0.28125 the|0.25 integral|0.21875 form|0.1875 of|0.15625 the|0.125 proper|0.09375 time|0.0625 formula|0.03125 |0",
+			"previous_weights": " Let|0 there|0.014085 be|0.028169 an|0.042254 observer|0.056338 C|0.070423 on|0.084507 a|0.098592 disk|0.11268 rotating|0.12676 in|0.14085 the|0.15493 xy|0.16901 plane|0.1831 at|0.19718 a|0.21127 coordinate|0.22535 angular|0.23944 rate|0.25352 of|0.26761 and|0.28169 who|0.29577 is|0.30986 at|0.32394 a|0.33803 distance|0.35211 of|0.3662 r|0.38028 from|0.39437 the|0.40845 center|0.42254 of|0.43662 the|0.4507 disk|0.46479 with|0.47887 the|0.49296 center|0.50704 of|0.52113 the|0.53521 disk|0.5493 at|0.56338 x|0.57746 y|0.59155 z|0.60563 0|0.61972 The|0.6338 path|0.64789 of|0.66197 observer|0.67606 C|0.69014 is|0.70423 given|0.71831 by|0.73239 where|0.74648 is|0.76056 the|0.77465 current|0.78873 coordinate|0.80282 time|0.8169 When|0.83099 r|0.84507 and|0.85915 are|0.87324 constant|0.88732 and|0.90141 The|0.91549 incremental|0.92958 proper|0.94366 time|0.95775 formula|0.97183 then|0.98592 becomes|1"
+		}
+	}
+}

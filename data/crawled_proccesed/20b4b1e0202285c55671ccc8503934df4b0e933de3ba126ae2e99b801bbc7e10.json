@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "20b4b1e0202285c55671ccc8503934df4b0e933de3ba126ae2e99b801bbc7e10",
+			"url": "https://upload.wikimedia.org/math/6/8/1/68168fdf57a5083ce69731e345ac3ddf.png",
+			"previous": " To find a definition for the square root that allows us to consistently choose a single value called the principal value we start by observing that any complex number x iy can be viewed as a point in the plane x y expressed using Cartesian coordinates The same point may be reinterpreted using polar coordinates as the pair r where r 0 is the distance of the point from the origin and is the angle that the line from the origin to the point makes with the positive real x axis In complex analysis this value is conventionally written r ei If",
+			"after": " then we define the principal square root of z as follows ",
+			"color": "dim|0.42347 gray|0.42347 dim|0.42347 grey|0.42347 gray|0.27514 grey|0.27514 dark|0.15755 gray|0.15755 dark|0.15755 grey|0.15755 silver|0.068501 light|0.03392 gray|0.03392 light|0.03392 grey|0.03392 gainsboro|0.023303 white|0.0040207 smoke|0.0040207  ",
+			"after_weights": " then|1 we|0.90909 define|0.81818 the|0.72727 principal|0.63636 square|0.54545 root|0.45455 of|0.36364 z|0.27273 as|0.18182 follows|0.090909 |0",
+			"previous_weights": " To|0 find|0.009901 a|0.019802 definition|0.029703 for|0.039604 the|0.049505 square|0.059406 root|0.069307 that|0.079208 allows|0.089109 us|0.09901 to|0.10891 consistently|0.11881 choose|0.12871 a|0.13861 single|0.14851 value|0.15842 called|0.16832 the|0.17822 principal|0.18812 value|0.19802 we|0.20792 start|0.21782 by|0.22772 observing|0.23762 that|0.24752 any|0.25743 complex|0.26733 number|0.27723 x|0.28713 iy|0.29703 can|0.30693 be|0.31683 viewed|0.32673 as|0.33663 a|0.34653 point|0.35644 in|0.36634 the|0.37624 plane|0.38614 x|0.39604 y|0.40594 expressed|0.41584 using|0.42574 Cartesian|0.43564 coordinates|0.44554 The|0.45545 same|0.46535 point|0.47525 may|0.48515 be|0.49505 reinterpreted|0.50495 using|0.51485 polar|0.52475 coordinates|0.53465 as|0.54455 the|0.55446 pair|0.56436 r|0.57426 where|0.58416 r|0.59406 0|0.60396 is|0.61386 the|0.62376 distance|0.63366 of|0.64356 the|0.65347 point|0.66337 from|0.67327 the|0.68317 origin|0.69307 and|0.70297 is|0.71287 the|0.72277 angle|0.73267 that|0.74257 the|0.75248 line|0.76238 from|0.77228 the|0.78218 origin|0.79208 to|0.80198 the|0.81188 point|0.82178 makes|0.83168 with|0.84158 the|0.85149 positive|0.86139 real|0.87129 x|0.88119 axis|0.89109 In|0.90099 complex|0.91089 analysis|0.92079 this|0.93069 value|0.94059 is|0.9505 conventionally|0.9604 written|0.9703 r|0.9802 ei|0.9901 If|1"
+		}
+	}
+}

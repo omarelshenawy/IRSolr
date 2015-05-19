@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1241de74090fab3eac286cc695444de0905d9be3be4881e8356b7829167cf977",
+			"url": "https://upload.wikimedia.org/math/6/1/7/617506439b15f31f10080698d0599edc.png",
+			"previous": " For 3 the equation becomes  which has the solution  For 1 the equation becomes  known as the characteristic polynomial of the matrix A In this case it has the roots 1 and 3 ",
+			"after": " which has the solution  For 3 the equation becomes  which has the solution ",
+			"color": "dim|0.33969 gray|0.33969 dim|0.33969 grey|0.33969 gray|0.27152 grey|0.27152 dark|0.20922 gray|0.20922 dark|0.20922 grey|0.20922 silver|0.089362 light|0.041104 gray|0.041104 light|0.041104 grey|0.041104 gainsboro|0.02951 white|0.0065982 smoke|0.0065982  ",
+			"after_weights": " which|1 has|0.93333 the|0.86667 solution|0.8 |0.73333 For|0.66667 3|0.6 the|0.53333 equation|0.46667 becomes|0.4 |0.33333 which|0.26667 has|0.2 the|0.13333 solution|0.066667 |0",
+			"previous_weights": " For|0 3|0.027778 the|0.055556 equation|0.083333 becomes|0.11111 |0.13889 which|0.16667 has|0.19444 the|0.22222 solution|0.25 |0.27778 For|0.30556 1|0.33333 the|0.36111 equation|0.38889 becomes|0.41667 |0.44444 known|0.47222 as|0.5 the|0.52778 characteristic|0.55556 polynomial|0.58333 of|0.61111 the|0.63889 matrix|0.66667 A|0.69444 In|0.72222 this|0.75 case|0.77778 it|0.80556 has|0.83333 the|0.86111 roots|0.88889 1|0.91667 and|0.94444 3|0.97222 |1"
+		}
+	}
+}

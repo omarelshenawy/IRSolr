@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "76cb12758537a5de29c886eefd94fb2da9ed9c3153d8518d3e291279a98ce9fc",
+			"url": "https://upload.wikimedia.org/math/b/7/d/b7d2bd7fbc68bf644435d08b70697295.png",
+			"previous": " such that However this only helps us with first order initial value problems Suppose we had a linear initial value problem of the nth order ",
+			"after": " For any nonzero if and are continuous on some interval containing is unique and exists   11 ",
+			"color": "black|0.3126 dim|0.29122 gray|0.29122 dim|0.29122 grey|0.29122 gray|0.19526 grey|0.19526 dark|0.11407 gray|0.11407 dark|0.11407 grey|0.11407 silver|0.04519 light|0.019634 gray|0.019634 light|0.019634 grey|0.019634 gainsboro|0.013197  ",
+			"after_weights": " For|1 any|0.94444 nonzero|0.88889 if|0.83333 and|0.77778 are|0.72222 continuous|0.66667 on|0.61111 some|0.55556 interval|0.5 containing|0.44444 is|0.38889 unique|0.33333 and|0.27778 exists|0.22222 |0.16667 |0.11111 11|0.055556 |0",
+			"previous_weights": " such|0 that|0.04 However|0.08 this|0.12 only|0.16 helps|0.2 us|0.24 with|0.28 first|0.32 order|0.36 initial|0.4 value|0.44 problems|0.48 Suppose|0.52 we|0.56 had|0.6 a|0.64 linear|0.68 initial|0.72 value|0.76 problem|0.8 of|0.84 the|0.88 nth|0.92 order|0.96 |1"
+		}
+	}
+}

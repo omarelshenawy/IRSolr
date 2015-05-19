@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "652093006b99e3a91c42720e6ca4e8ad464bb2cc80026e415a6c0f7180f18dcf",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Intel_Inside_Logo.svg/200px-Intel_Inside_Logo.svg.png",
+			"previous": " The Intel Inside advertising campaign sought public brand loyalty and awareness of Intel processors in consumer computers 204 Intel paid some of the advertiser s costs for an ad that used the Intel Inside logo and xylo marimba jingle 205 ",
+			"after": " ",
+			"color": "light|0.61472 sky|0.61472 blue|0.61472 sky|0.35759 blue|0.35759  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 Intel|0.025 Inside|0.05 advertising|0.075 campaign|0.1 sought|0.125 public|0.15 brand|0.175 loyalty|0.2 and|0.225 awareness|0.25 of|0.275 Intel|0.3 processors|0.325 in|0.35 consumer|0.375 computers|0.4 204|0.425 Intel|0.45 paid|0.475 some|0.5 of|0.525 the|0.55 advertiser|0.575 s|0.6 costs|0.625 for|0.65 an|0.675 ad|0.7 that|0.725 used|0.75 the|0.775 Intel|0.8 Inside|0.825 logo|0.85 and|0.875 xylo|0.9 marimba|0.925 jingle|0.95 205|0.975 |1"
+		}
+	}
+}

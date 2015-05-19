@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80ad0c439fd509588468e97ab25a8c79b0a0708faf780fcbbf3c56ef29dfe761",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EK_tERMINAL_3_Trip_2009_242.jpg/220px-EK_tERMINAL_3_Trip_2009_242.jpg",
+			"previous": " ",
+			"after": " An airport is an aerodrome with facilities for commercial aviation flights to take off and land 1 2 Airports often have facilities to store and maintain aircraft and a control tower An airport consists of a landing area which comprises an aerially accessible open space including at least one operationally active surface such as a runway for a plane to take off 3 or a helipad 4 and often includes adjacent utility buildings such as control towers hangars 5 and terminals Larger airports may have fixed base operator services airport aprons air traffic control centres passenger facilities such as restaurants and lounges and emergency services ",
+			"color": "dim|0.65394 gray|0.65394 dim|0.65394 grey|0.65394 gray|0.29716 grey|0.29716 black|0.041007 dark|0.006428 gray|0.006428 dark|0.006428 grey|0.006428  ",
+			"after_weights": " An|1 airport|0.99048 is|0.98095 an|0.97143 aerodrome|0.9619 with|0.95238 facilities|0.94286 for|0.93333 commercial|0.92381 aviation|0.91429 flights|0.90476 to|0.89524 take|0.88571 off|0.87619 and|0.86667 land|0.85714 1|0.84762 2|0.8381 Airports|0.82857 often|0.81905 have|0.80952 facilities|0.8 to|0.79048 store|0.78095 and|0.77143 maintain|0.7619 aircraft|0.75238 and|0.74286 a|0.73333 control|0.72381 tower|0.71429 An|0.70476 airport|0.69524 consists|0.68571 of|0.67619 a|0.66667 landing|0.65714 area|0.64762 which|0.6381 comprises|0.62857 an|0.61905 aerially|0.60952 accessible|0.6 open|0.59048 space|0.58095 including|0.57143 at|0.5619 least|0.55238 one|0.54286 operationally|0.53333 active|0.52381 surface|0.51429 such|0.50476 as|0.49524 a|0.48571 runway|0.47619 for|0.46667 a|0.45714 plane|0.44762 to|0.4381 take|0.42857 off|0.41905 3|0.40952 or|0.4 a|0.39048 helipad|0.38095 4|0.37143 and|0.3619 often|0.35238 includes|0.34286 adjacent|0.33333 utility|0.32381 buildings|0.31429 such|0.30476 as|0.29524 control|0.28571 towers|0.27619 hangars|0.26667 5|0.25714 and|0.24762 terminals|0.2381 Larger|0.22857 airports|0.21905 may|0.20952 have|0.2 fixed|0.19048 base|0.18095 operator|0.17143 services|0.1619 airport|0.15238 aprons|0.14286 air|0.13333 traffic|0.12381 control|0.11429 centres|0.10476 passenger|0.095238 facilities|0.085714 such|0.07619 as|0.066667 restaurants|0.057143 and|0.047619 lounges|0.038095 and|0.028571 emergency|0.019048 services|0.0095238 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f7bc61627eac04ae2972f756c15e2eb76867443683041af9cdcc86f47a72b40",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rosetta%27s_Philae_touchdown.jpg/220px-Rosetta%27s_Philae_touchdown.jpg",
+			"previous": " ",
+			"after": " Spacecraft designed to land safely on extraterrestrial bodies such as the Moon or Mars usually have landing gear Such landers include the Apollo Lunar Module as well as a number of robotic space probe landers Examples include Viking 1 lander the first lander to successfully land on Mars November 1976 24 and Philae which is currently in orbit around comet 67P Churyumov Gerasimenko after a 10 year transit and landed on the comet on 12 November 2014 25 26 27 28 ",
+			"color": "gray|0.5185 grey|0.5185 dim|0.34938 gray|0.34938 dim|0.34938 grey|0.34938 dark|0.095335 gray|0.095335 dark|0.095335 grey|0.095335 black|0.014426 silver|0.0086788 slate|0.0055038 gray|0.0055038  ",
+			"after_weights": " Spacecraft|1 designed|0.98765 to|0.97531 land|0.96296 safely|0.95062 on|0.93827 extraterrestrial|0.92593 bodies|0.91358 such|0.90123 as|0.88889 the|0.87654 Moon|0.8642 or|0.85185 Mars|0.83951 usually|0.82716 have|0.81481 landing|0.80247 gear|0.79012 Such|0.77778 landers|0.76543 include|0.75309 the|0.74074 Apollo|0.7284 Lunar|0.71605 Module|0.7037 as|0.69136 well|0.67901 as|0.66667 a|0.65432 number|0.64198 of|0.62963 robotic|0.61728 space|0.60494 probe|0.59259 landers|0.58025 Examples|0.5679 include|0.55556 Viking|0.54321 1|0.53086 lander|0.51852 the|0.50617 first|0.49383 lander|0.48148 to|0.46914 successfully|0.45679 land|0.44444 on|0.4321 Mars|0.41975 November|0.40741 1976|0.39506 24|0.38272 and|0.37037 Philae|0.35802 which|0.34568 is|0.33333 currently|0.32099 in|0.30864 orbit|0.2963 around|0.28395 comet|0.2716 67P|0.25926 Churyumov|0.24691 Gerasimenko|0.23457 after|0.22222 a|0.20988 10|0.19753 year|0.18519 transit|0.17284 and|0.16049 landed|0.14815 on|0.1358 the|0.12346 comet|0.11111 on|0.098765 12|0.08642 November|0.074074 2014|0.061728 25|0.049383 26|0.037037 27|0.024691 28|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

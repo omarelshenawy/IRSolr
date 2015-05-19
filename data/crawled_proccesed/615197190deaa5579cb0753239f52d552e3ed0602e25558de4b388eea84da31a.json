@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "615197190deaa5579cb0753239f52d552e3ed0602e25558de4b388eea84da31a",
+			"url": "https://upload.wikimedia.org/math/6/7/0/670bd4ae4bd2108f3eecc51cfc44c128.png",
+			"previous": " Resolving a periodic function into a sum of trigonometric functions forms a Fourier series a technique much used in physics and engineering nb 13 76 The underlying vector space is usually the Hilbert space L2 0 2 for which the functions sin mx and cos mx m an integer form an orthogonal basis 77 The Fourier expansion of an L2 function f is",
+			"after": " The coefficients am and bm are called Fourier coefficients of f and are calculated by the formulas 78 ",
+			"color": "dim|0.36623 gray|0.36623 dim|0.36623 grey|0.36623 gray|0.27376 grey|0.27376 dark|0.1909 gray|0.1909 dark|0.1909 grey|0.1909 silver|0.07937 light|0.041317 gray|0.041317 light|0.041317 grey|0.041317 gainsboro|0.027981 white|0.0046173 smoke|0.0046173  ",
+			"after_weights": " The|1 coefficients|0.94444 am|0.88889 and|0.83333 bm|0.77778 are|0.72222 called|0.66667 Fourier|0.61111 coefficients|0.55556 of|0.5 f|0.44444 and|0.38889 are|0.33333 calculated|0.27778 by|0.22222 the|0.16667 formulas|0.11111 78|0.055556 |0",
+			"previous_weights": " Resolving|0 a|0.016129 periodic|0.032258 function|0.048387 into|0.064516 a|0.080645 sum|0.096774 of|0.1129 trigonometric|0.12903 functions|0.14516 forms|0.16129 a|0.17742 Fourier|0.19355 series|0.20968 a|0.22581 technique|0.24194 much|0.25806 used|0.27419 in|0.29032 physics|0.30645 and|0.32258 engineering|0.33871 nb|0.35484 13|0.37097 76|0.3871 The|0.40323 underlying|0.41935 vector|0.43548 space|0.45161 is|0.46774 usually|0.48387 the|0.5 Hilbert|0.51613 space|0.53226 L2|0.54839 0|0.56452 2|0.58065 for|0.59677 which|0.6129 the|0.62903 functions|0.64516 sin|0.66129 mx|0.67742 and|0.69355 cos|0.70968 mx|0.72581 m|0.74194 an|0.75806 integer|0.77419 form|0.79032 an|0.80645 orthogonal|0.82258 basis|0.83871 77|0.85484 The|0.87097 Fourier|0.8871 expansion|0.90323 of|0.91935 an|0.93548 L2|0.95161 function|0.96774 f|0.98387 is|1"
+		}
+	}
+}

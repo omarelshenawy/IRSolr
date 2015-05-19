@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7334152e50917db4e4563eac447362442a6b49c8cb19e65a8262223161afc58d",
+			"url": "https://upload.wikimedia.org/math/8/6/f/86fb36b146d748e5b5634600e280ef64.png",
+			"previous": " The five most well known potentials are ",
+			"after": " where is the temperature the entropy the pressure the volume the chemical potential the number of particles in the system and is the count of particles types in the system ",
+			"color": "gray|0.31876 grey|0.31876 dim|0.23454 gray|0.23454 dim|0.23454 grey|0.23454 dark|0.22908 gray|0.22908 dark|0.22908 grey|0.22908 silver|0.10398 light|0.052777 gray|0.052777 light|0.052777 grey|0.052777 gainsboro|0.036857 white|0.005962 smoke|0.005962 lavender|0.0026911 blush|0.0026911 linen|0.0026774 alice|0.002605 blue|0.002605  ",
+			"after_weights": " where|1 is|0.96667 the|0.93333 temperature|0.9 the|0.86667 entropy|0.83333 the|0.8 pressure|0.76667 the|0.73333 volume|0.7 the|0.66667 chemical|0.63333 potential|0.6 the|0.56667 number|0.53333 of|0.5 particles|0.46667 in|0.43333 the|0.4 system|0.36667 and|0.33333 is|0.3 the|0.26667 count|0.23333 of|0.2 particles|0.16667 types|0.13333 in|0.1 the|0.066667 system|0.033333 |0",
+			"previous_weights": " The|0 five|0.14286 most|0.28571 well|0.42857 known|0.57143 potentials|0.71429 are|0.85714 |1"
+		}
+	}
+}

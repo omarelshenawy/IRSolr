@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "90efeaa80981172efe95566fd5aac3861dae73dd78bbeb96a3bc4d0f0f91b32c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sunset_at_Huntington_Beach.jpg/220px-Sunset_at_Huntington_Beach.jpg",
+			"previous": " Meadowlark Airport a small general aviation airport existed in Huntington Beach from the 1940s until 1989 ",
+			"after": " According to the United States Census Bureau the city has a total area of 31 9 square miles 82 6 km2 26 7 sq mi 69 km2 of it is land and 5 1 sq mi 13 km2 of it 16 10 is water  The entire city of Huntington Beach lies in area codes 657 and 714 except for small parts of Huntington Harbour along with Sunset Beach the community adjacent to Huntington Harbour which is in the 562 Area Code ",
+			"color": "black|0.25645 gray|0.24262 grey|0.24262 dim|0.18783 gray|0.18783 dim|0.18783 grey|0.18783 rosy|0.078003 brown|0.078003 light|0.050677 salmon|0.050677 dark|0.043463 salmon|0.043463 navajo|0.042208 white|0.042208 slate|0.034754 gray|0.034754 sandy|0.026338 brown|0.026338 light|0.014588 slate|0.014588 gray|0.014588 dark|0.0060594 gray|0.0060594 dark|0.0060594 grey|0.0060594  ",
+			"after_weights": " According|1 to|0.9878 the|0.97561 United|0.96341 States|0.95122 Census|0.93902 Bureau|0.92683 the|0.91463 city|0.90244 has|0.89024 a|0.87805 total|0.86585 area|0.85366 of|0.84146 31|0.82927 9|0.81707 square|0.80488 miles|0.79268 82|0.78049 6|0.76829 km2|0.7561 26|0.7439 7|0.73171 sq|0.71951 mi|0.70732 69|0.69512 km2|0.68293 of|0.67073 it|0.65854 is|0.64634 land|0.63415 and|0.62195 5|0.60976 1|0.59756 sq|0.58537 mi|0.57317 13|0.56098 km2|0.54878 of|0.53659 it|0.52439 16|0.5122 10|0.5 is|0.4878 water|0.47561 |0.46341 The|0.45122 entire|0.43902 city|0.42683 of|0.41463 Huntington|0.40244 Beach|0.39024 lies|0.37805 in|0.36585 area|0.35366 codes|0.34146 657|0.32927 and|0.31707 714|0.30488 except|0.29268 for|0.28049 small|0.26829 parts|0.2561 of|0.2439 Huntington|0.23171 Harbour|0.21951 along|0.20732 with|0.19512 Sunset|0.18293 Beach|0.17073 the|0.15854 community|0.14634 adjacent|0.13415 to|0.12195 Huntington|0.10976 Harbour|0.097561 which|0.085366 is|0.073171 in|0.060976 the|0.04878 562|0.036585 Area|0.02439 Code|0.012195 |0",
+			"previous_weights": " Meadowlark|0 Airport|0.0625 a|0.125 small|0.1875 general|0.25 aviation|0.3125 airport|0.375 existed|0.4375 in|0.5 Huntington|0.5625 Beach|0.625 from|0.6875 the|0.75 1940s|0.8125 until|0.875 1989|0.9375 |1"
+		}
+	}
+}

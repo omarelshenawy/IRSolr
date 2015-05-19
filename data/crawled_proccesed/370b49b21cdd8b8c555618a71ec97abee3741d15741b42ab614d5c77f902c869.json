@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "370b49b21cdd8b8c555618a71ec97abee3741d15741b42ab614d5c77f902c869",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edinburgh_trams%2C_Shandwick_Place.JPG/150px-Edinburgh_trams%2C_Shandwick_Place.JPG",
+			"previous": " ",
+			"after": " Edinburgh Trams is a tramway in Edinburgh Scotland It consists of a 14 kilometre 8 7 mi route between York Place in New Town and Edinburgh Airport has sixteen stops and is operated by Transport for Edinburgh ",
+			"color": "dim|0.33443 gray|0.33443 dim|0.33443 grey|0.33443 gray|0.19609 grey|0.19609 black|0.13755 dark|0.09011 gray|0.09011 dark|0.09011 grey|0.09011 light|0.072617 sky|0.072617 blue|0.072617 light|0.047812 steel|0.047812 blue|0.047812 silver|0.021432 slate|0.014152 gray|0.014152 light|0.014094 slate|0.014094 gray|0.014094 corn|0.012298 flower|0.012298 blue|0.012298 light|0.0079478 gray|0.0079478 light|0.0079478 grey|0.0079478  ",
+			"after_weights": " Edinburgh|1 Trams|0.97297 is|0.94595 a|0.91892 tramway|0.89189 in|0.86486 Edinburgh|0.83784 Scotland|0.81081 It|0.78378 consists|0.75676 of|0.72973 a|0.7027 14|0.67568 kilometre|0.64865 8|0.62162 7|0.59459 mi|0.56757 route|0.54054 between|0.51351 York|0.48649 Place|0.45946 in|0.43243 New|0.40541 Town|0.37838 and|0.35135 Edinburgh|0.32432 Airport|0.2973 has|0.27027 sixteen|0.24324 stops|0.21622 and|0.18919 is|0.16216 operated|0.13514 by|0.10811 Transport|0.081081 for|0.054054 Edinburgh|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

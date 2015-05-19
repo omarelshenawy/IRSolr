@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1de485fd92a32e6eee9ecb6981d2905baad5461958a2c72ff70c16b0a1d41742",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Microsoft_CES_2009.jpg/270px-Microsoft_CES_2009.jpg",
+			"previous": " ",
+			"after": " Microsoft Corporation NASDAQ MSFT is an American public multinational corporation headquartered in Redmond Washington USA that develops manufactures licenses and supports a wide range of products and services predominantly related to computing through its various product divisions ",
+			"color": "royal|0.10099 blue|0.10099 midnight|0.070928 blue|0.070928 dodger|0.062446 blue|0.062446 white|0.051141 smoke|0.051141 snow|0.04492 lavender|0.04343 ghost|0.042465 white|0.042465 white|0.041353 sea|0.03952 shell|0.03952 mint|0.039149 cream|0.039149 alice|0.037794 blue|0.037794 floral|0.037343 white|0.037343 gainsboro|0.031871 azure|0.031257 lavender|0.029695 blush|0.029695 pale|0.029309 turquoise|0.029309 linen|0.026799 deep|0.026768 sky|0.026768 blue|0.026768 light|0.02632 gray|0.02632 light|0.02632 grey|0.02632 light|0.023654 steel|0.023654 blue|0.023654 silver|0.018263 ivory|0.015678 dark|0.014207 gray|0.014207 dark|0.014207 grey|0.014207 old|0.013541 lace|0.013541 dark|0.012167 slate|0.012167 blue|0.012167 slate|0.010199 blue|0.010199 corn|0.010056 flower|0.010056 blue|0.010056 honeydew|0.0085821 light|0.0071998 cyan|0.0071998  ",
+			"after_weights": " Microsoft|1 Corporation|0.97297 NASDAQ|0.94595 MSFT|0.91892 is|0.89189 an|0.86486 American|0.83784 public|0.81081 multinational|0.78378 corporation|0.75676 headquartered|0.72973 in|0.7027 Redmond|0.67568 Washington|0.64865 USA|0.62162 that|0.59459 develops|0.56757 manufactures|0.54054 licenses|0.51351 and|0.48649 supports|0.45946 a|0.43243 wide|0.40541 range|0.37838 of|0.35135 products|0.32432 and|0.2973 services|0.27027 predominantly|0.24324 related|0.21622 to|0.18919 computing|0.16216 through|0.13514 its|0.10811 various|0.081081 product|0.054054 divisions|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

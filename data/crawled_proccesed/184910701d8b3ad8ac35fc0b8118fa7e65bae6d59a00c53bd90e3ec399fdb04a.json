@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "184910701d8b3ad8ac35fc0b8118fa7e65bae6d59a00c53bd90e3ec399fdb04a",
+			"url": "https://upload.wikimedia.org/math/3/e/d/3ed5f4c762b71085d02be2816b80e512.png",
+			"previous": " Rearranging terms ",
+			"after": " As h approaches 0 in the limit the last fraction can be shown to go to zero 5 This is true because the area of the red portion of excess region is less than or equal to the area of the tiny black bordered rectangle the area of that tiny rectangle divided by h is simply the height of the tiny rectangle which can be seen to go to zero as h goes to zero ",
+			"color": "dim|0.36706 gray|0.36706 dim|0.36706 grey|0.36706 gray|0.29629 grey|0.29629 dark|0.18046 gray|0.18046 dark|0.18046 grey|0.18046 silver|0.073666 light|0.037951 gray|0.037951 light|0.037951 grey|0.037951 gainsboro|0.026967 white|0.0042535 smoke|0.0042535  ",
+			"after_weights": " As|1 h|0.98667 approaches|0.97333 0|0.96 in|0.94667 the|0.93333 limit|0.92 the|0.90667 last|0.89333 fraction|0.88 can|0.86667 be|0.85333 shown|0.84 to|0.82667 go|0.81333 to|0.8 zero|0.78667 5|0.77333 This|0.76 is|0.74667 true|0.73333 because|0.72 the|0.70667 area|0.69333 of|0.68 the|0.66667 red|0.65333 portion|0.64 of|0.62667 excess|0.61333 region|0.6 is|0.58667 less|0.57333 than|0.56 or|0.54667 equal|0.53333 to|0.52 the|0.50667 area|0.49333 of|0.48 the|0.46667 tiny|0.45333 black|0.44 bordered|0.42667 rectangle|0.41333 the|0.4 area|0.38667 of|0.37333 that|0.36 tiny|0.34667 rectangle|0.33333 divided|0.32 by|0.30667 h|0.29333 is|0.28 simply|0.26667 the|0.25333 height|0.24 of|0.22667 the|0.21333 tiny|0.2 rectangle|0.18667 which|0.17333 can|0.16 be|0.14667 seen|0.13333 to|0.12 go|0.10667 to|0.093333 zero|0.08 as|0.066667 h|0.053333 goes|0.04 to|0.026667 zero|0.013333 |0",
+			"previous_weights": " Rearranging|0 terms|0.5 |1"
+		}
+	}
+}

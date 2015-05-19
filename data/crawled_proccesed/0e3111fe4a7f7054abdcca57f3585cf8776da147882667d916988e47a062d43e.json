@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e3111fe4a7f7054abdcca57f3585cf8776da147882667d916988e47a062d43e",
+			"url": "https://upload.wikimedia.org/math/d/c/5/dc59d8ec8a43738af266cc48b60a4194.png",
+			"previous": " is equal to the kinetic energy supplied to the fixed blades f the kinetic energy supplied to the moving blades m ",
+			"after": " The effect of expansion of steam over the moving blades is to increase the relative velocity at the exit Therefore the relative velocity at the exit is always greater than the relative velocity at the inlet ",
+			"color": "gray|0.355 grey|0.355 dark|0.2639 gray|0.2639 dark|0.2639 grey|0.2639 dim|0.1511 gray|0.1511 dim|0.1511 grey|0.1511 silver|0.11183 light|0.054907 gray|0.054907 light|0.054907 grey|0.054907 gainsboro|0.039542 white|0.006681 smoke|0.006681 linen|0.0034703 lavender|0.0026289 blush|0.0026289 alice|0.0025593 blue|0.0025593  ",
+			"after_weights": " The|1 effect|0.97222 of|0.94444 expansion|0.91667 of|0.88889 steam|0.86111 over|0.83333 the|0.80556 moving|0.77778 blades|0.75 is|0.72222 to|0.69444 increase|0.66667 the|0.63889 relative|0.61111 velocity|0.58333 at|0.55556 the|0.52778 exit|0.5 Therefore|0.47222 the|0.44444 relative|0.41667 velocity|0.38889 at|0.36111 the|0.33333 exit|0.30556 is|0.27778 always|0.25 greater|0.22222 than|0.19444 the|0.16667 relative|0.13889 velocity|0.11111 at|0.083333 the|0.055556 inlet|0.027778 |0",
+			"previous_weights": " is|0 equal|0.047619 to|0.095238 the|0.14286 kinetic|0.19048 energy|0.2381 supplied|0.28571 to|0.33333 the|0.38095 fixed|0.42857 blades|0.47619 f|0.52381 the|0.57143 kinetic|0.61905 energy|0.66667 supplied|0.71429 to|0.7619 the|0.80952 moving|0.85714 blades|0.90476 m|0.95238 |1"
+		}
+	}
+}

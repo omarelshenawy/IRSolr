@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1cfea50157693e5ab7ac58b49247b12572b5e96ca36948eb1b2171761a5c4ad3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Operational_Navigation_Chart_C-8%2C_2nd_edition.jpg/300px-Operational_Navigation_Chart_C-8%2C_2nd_edition.jpg",
+			"previous": " ",
+			"after": " The polar bear is found on pack ice of the Chukchi Sea in fact the population of polar bears that is found in the sea and its pack ice is one of the five genetically distinct Eurasian populations of this species 3 ",
+			"color": "dark|0.355 sea|0.355 green|0.355 dark|0.18499 gray|0.18499 dark|0.18499 grey|0.18499 light|0.11448 slate|0.11448 gray|0.11448 gray|0.088134 grey|0.088134 silver|0.073839 slate|0.067129 gray|0.067129 light|0.028856 gray|0.028856 light|0.028856 grey|0.028856 gainsboro|0.021088 dim|0.017033 gray|0.017033 dim|0.017033 grey|0.017033 light|0.01139 steel|0.01139 blue|0.01139  ",
+			"after_weights": " The|1 polar|0.97619 bear|0.95238 is|0.92857 found|0.90476 on|0.88095 pack|0.85714 ice|0.83333 of|0.80952 the|0.78571 Chukchi|0.7619 Sea|0.7381 in|0.71429 fact|0.69048 the|0.66667 population|0.64286 of|0.61905 polar|0.59524 bears|0.57143 that|0.54762 is|0.52381 found|0.5 in|0.47619 the|0.45238 sea|0.42857 and|0.40476 its|0.38095 pack|0.35714 ice|0.33333 is|0.30952 one|0.28571 of|0.2619 the|0.2381 five|0.21429 genetically|0.19048 distinct|0.16667 Eurasian|0.14286 populations|0.11905 of|0.095238 this|0.071429 species|0.047619 3|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

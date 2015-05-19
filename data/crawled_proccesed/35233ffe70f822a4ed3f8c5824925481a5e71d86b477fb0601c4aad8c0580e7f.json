@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35233ffe70f822a4ed3f8c5824925481a5e71d86b477fb0601c4aad8c0580e7f",
+			"url": "https://upload.wikimedia.org/math/1/4/9/14949dab63d9c66f7721db1db9f56575.png",
+			"previous": " An important parameter when discussing band pass filters is the fractional bandwidth This is defined as the ratio of the bandwidth to the geometric centre frequency The inverse of this quantity is called the Q factor Q If 1 and 2 are the frequencies of the passband edges then 52 ",
+			"after": " ",
+			"color": "dim|0.37948 gray|0.37948 dim|0.37948 grey|0.37948 gray|0.25155 grey|0.25155 dark|0.17991 gray|0.17991 dark|0.17991 grey|0.17991 silver|0.091637 light|0.047688 gray|0.047688 light|0.047688 grey|0.047688 gainsboro|0.03205 white|0.0038222 smoke|0.0038222  ",
+			"after_weights": " ",
+			"previous_weights": " An|0 important|0.02 parameter|0.04 when|0.06 discussing|0.08 band|0.1 pass|0.12 filters|0.14 is|0.16 the|0.18 fractional|0.2 bandwidth|0.22 This|0.24 is|0.26 defined|0.28 as|0.3 the|0.32 ratio|0.34 of|0.36 the|0.38 bandwidth|0.4 to|0.42 the|0.44 geometric|0.46 centre|0.48 frequency|0.5 The|0.52 inverse|0.54 of|0.56 this|0.58 quantity|0.6 is|0.62 called|0.64 the|0.66 Q|0.68 factor|0.7 Q|0.72 If|0.74 1|0.76 and|0.78 2|0.8 are|0.82 the|0.84 frequencies|0.86 of|0.88 the|0.9 passband|0.92 edges|0.94 then|0.96 52|0.98 |1"
+		}
+	}
+}

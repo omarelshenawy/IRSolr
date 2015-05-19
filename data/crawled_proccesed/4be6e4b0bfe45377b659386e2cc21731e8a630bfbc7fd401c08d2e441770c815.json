@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Splitsection.svg/40px-Splitsection.svg.png",
 			"previous": " Under Wikipedia Decisions not subject to consensus of editors some disputes are resolved in different forums using those forums methods ",
 			"after": " WP DR redirects here You may also be looking for  For dispute resolution requests see Wikipedia Dispute resolution requests ",
+			"color": "dark|0.95962 orchid|0.95962 medium|0.038397 orchid|0.038397  ",
 			"after_weights": " WP|1 DR|0.95 redirects|0.9 here|0.85 You|0.8 may|0.75 also|0.7 be|0.65 looking|0.6 for|0.55 |0.5 For|0.45 dispute|0.4 resolution|0.35 requests|0.3 see|0.25 Wikipedia|0.2 Dispute|0.15 resolution|0.1 requests|0.05 |0",
 			"previous_weights": " Under|0 Wikipedia|0.05 Decisions|0.1 not|0.15 subject|0.2 to|0.25 consensus|0.3 of|0.35 editors|0.4 some|0.45 disputes|0.5 are|0.55 resolved|0.6 in|0.65 different|0.7 forums|0.75 using|0.8 those|0.85 forums|0.9 methods|0.95 |1"
 		}

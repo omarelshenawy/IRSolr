@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f28dacfc0401ab6b90de60800228c69a80842d725b11b510648c938d6c0008e",
+			"url": "https://upload.wikimedia.org/math/1/1/7/117e17b47d6de744fc5b7d79497cc6be.png",
+			"previous": " An extension of the complement is the symmetric difference defined for sets A B as Some basic properties of complements ",
+			"after": " For example the symmetric difference of 7 8 9 10 and 9 10 11 12 is the set 7 8 11 12 ",
+			"color": "dim|0.40218 gray|0.40218 dim|0.40218 grey|0.40218 gray|0.29135 grey|0.29135 dark|0.16448 gray|0.16448 dark|0.16448 grey|0.16448 silver|0.070905 light|0.034179 gray|0.034179 light|0.034179 grey|0.034179 gainsboro|0.023231 white|0.0034509 smoke|0.0034509  ",
+			"after_weights": " For|1 example|0.95455 the|0.90909 symmetric|0.86364 difference|0.81818 of|0.77273 7|0.72727 8|0.68182 9|0.63636 10|0.59091 and|0.54545 9|0.5 10|0.45455 11|0.40909 12|0.36364 is|0.31818 the|0.27273 set|0.22727 7|0.18182 8|0.13636 11|0.090909 12|0.045455 |0",
+			"previous_weights": " An|0 extension|0.05 of|0.1 the|0.15 complement|0.2 is|0.25 the|0.3 symmetric|0.35 difference|0.4 defined|0.45 for|0.5 sets|0.55 A|0.6 B|0.65 as|0.7 Some|0.75 basic|0.8 properties|0.85 of|0.9 complements|0.95 |1"
+		}
+	}
+}

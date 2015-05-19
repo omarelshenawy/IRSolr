@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73b0cdc1bb85c570713a276f2f7338a2060bc626f422b3ede22f904a08451691",
+			"url": "https://upload.wikimedia.org/math/f/4/3/f435d61eae4439f5d4f59f2e28856f42.png",
+			"previous": " The transversal acceleration is zero  is constant  Kepler s laws say that",
+			"after": " So the acceleration of a planet obeying Kepler s laws is directed towards the sun  The radial acceleration is Kepler s first law states that the orbit is described by the equation ",
+			"color": "dim|0.3817 gray|0.3817 dim|0.3817 grey|0.3817 gray|0.24478 grey|0.24478 dark|0.13496 gray|0.13496 dark|0.13496 grey|0.13496 black|0.12139 silver|0.055212 light|0.026293 gray|0.026293 light|0.026293 grey|0.026293 gainsboro|0.018053 white|0.0036688 smoke|0.0036688  ",
+			"after_weights": " So|1 the|0.9697 acceleration|0.93939 of|0.90909 a|0.87879 planet|0.84848 obeying|0.81818 Kepler|0.78788 s|0.75758 laws|0.72727 is|0.69697 directed|0.66667 towards|0.63636 the|0.60606 sun|0.57576 |0.54545 The|0.51515 radial|0.48485 acceleration|0.45455 is|0.42424 Kepler|0.39394 s|0.36364 first|0.33333 law|0.30303 states|0.27273 that|0.24242 the|0.21212 orbit|0.18182 is|0.15152 described|0.12121 by|0.090909 the|0.060606 equation|0.030303 |0",
+			"previous_weights": " The|0 transversal|0.076923 acceleration|0.15385 is|0.23077 zero|0.30769 |0.38462 is|0.46154 constant|0.53846 |0.61538 Kepler|0.69231 s|0.76923 laws|0.84615 say|0.92308 that|1"
+		}
+	}
+}

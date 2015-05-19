@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7adbdb9fb741c31eff0fbcda8d17d64ace269abc82441b19e3b2edfd357dd0bd",
+			"url": "https://upload.wikimedia.org/math/3/d/d/3dd8f5273fe470d5d3d3c5d67cc080fc.png",
+			"previous": " Suppose F is an antiderivative of f with f continuous on a b Let",
+			"after": " By the first part of the theorem we know G is also an antiderivative of f Since F G 0 the mean value theorem implies that F G is a constant function i e there is a number c such that G x F x c for all x in a b Letting x a we have",
+			"color": "dim|0.32915 gray|0.32915 dim|0.32915 grey|0.32915 gray|0.3137 grey|0.3137 dark|0.19991 gray|0.19991 dark|0.19991 grey|0.19991 silver|0.080801 light|0.03721 gray|0.03721 light|0.03721 grey|0.03721 gainsboro|0.024601 white|0.0041617 smoke|0.0041617  ",
+			"after_weights": " By|1 the|0.98214 first|0.96429 part|0.94643 of|0.92857 the|0.91071 theorem|0.89286 we|0.875 know|0.85714 G|0.83929 is|0.82143 also|0.80357 an|0.78571 antiderivative|0.76786 of|0.75 f|0.73214 Since|0.71429 F|0.69643 G|0.67857 0|0.66071 the|0.64286 mean|0.625 value|0.60714 theorem|0.58929 implies|0.57143 that|0.55357 F|0.53571 G|0.51786 is|0.5 a|0.48214 constant|0.46429 function|0.44643 i|0.42857 e|0.41071 there|0.39286 is|0.375 a|0.35714 number|0.33929 c|0.32143 such|0.30357 that|0.28571 G|0.26786 x|0.25 F|0.23214 x|0.21429 c|0.19643 for|0.17857 all|0.16071 x|0.14286 in|0.125 a|0.10714 b|0.089286 Letting|0.071429 x|0.053571 a|0.035714 we|0.017857 have|0",
+			"previous_weights": " Suppose|0 F|0.076923 is|0.15385 an|0.23077 antiderivative|0.30769 of|0.38462 f|0.46154 with|0.53846 f|0.61538 continuous|0.69231 on|0.76923 a|0.84615 b|0.92308 Let|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "358b7593fe11d84b4fe3062b5062091739a180e04b5f4b22754edc4fecb6f36d",
+			"url": "https://upload.wikimedia.org/math/9/e/6/9e6ff88fd159714dbd990bedb4fa14de.png",
+			"previous": " In Meridian arc and standard texts 2 7 8 it is shown that the distance along a meridian from latitude to the equator is given by in radians ",
+			"after": " The function in the first integral is the meridional radius of curvature ",
+			"color": "dim|0.38731 gray|0.38731 dim|0.38731 grey|0.38731 gray|0.24529 grey|0.24529 dark|0.15089 gray|0.15089 dark|0.15089 grey|0.15089 black|0.094513 silver|0.061823 light|0.029721 gray|0.029721 light|0.029721 grey|0.029721 gainsboro|0.01902  ",
+			"after_weights": " The|1 function|0.91667 in|0.83333 the|0.75 first|0.66667 integral|0.58333 is|0.5 the|0.41667 meridional|0.33333 radius|0.25 of|0.16667 curvature|0.083333 |0",
+			"previous_weights": " In|0 Meridian|0.035714 arc|0.071429 and|0.10714 standard|0.14286 texts|0.17857 2|0.21429 7|0.25 8|0.28571 it|0.32143 is|0.35714 shown|0.39286 that|0.42857 the|0.46429 distance|0.5 along|0.53571 a|0.57143 meridian|0.60714 from|0.64286 latitude|0.67857 to|0.71429 the|0.75 equator|0.78571 is|0.82143 given|0.85714 by|0.89286 in|0.92857 radians|0.96429 |1"
+		}
+	}
+}

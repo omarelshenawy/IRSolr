@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9129d8aa670a8e90c115d774c107fcbffc84abc0dba09757d32ef83bce62c3a5",
+			"url": "https://upload.wikimedia.org/math/9/9/4/994ee0e9b3aebf970a4389cbaf649838.png",
+			"previous": " This formula generalizes the concept of degree to some functions that are not polynomials For example  The degree of a polynomial f can be computed by the formula",
+			"after": " Another formula to compute the degree of f from its values is  This follows from L H pital s rule ",
+			"color": "dark|0.29283 gray|0.29283 dark|0.29283 grey|0.29283 gray|0.28822 grey|0.28822 silver|0.14721 dim|0.11513 gray|0.11513 dim|0.11513 grey|0.11513 light|0.077328 gray|0.077328 light|0.077328 grey|0.077328 gainsboro|0.052863 white|0.0079533 smoke|0.0079533 linen|0.0033985 lavender|0.0029683 blush|0.0029683 alice|0.0028719 blue|0.0028719 ghost|0.0026654 white|0.0026654  ",
+			"after_weights": " Another|1 formula|0.95238 to|0.90476 compute|0.85714 the|0.80952 degree|0.7619 of|0.71429 f|0.66667 from|0.61905 its|0.57143 values|0.52381 is|0.47619 |0.42857 This|0.38095 follows|0.33333 from|0.28571 L|0.2381 H|0.19048 pital|0.14286 s|0.095238 rule|0.047619 |0",
+			"previous_weights": " This|0 formula|0.035714 generalizes|0.071429 the|0.10714 concept|0.14286 of|0.17857 degree|0.21429 to|0.25 some|0.28571 functions|0.32143 that|0.35714 are|0.39286 not|0.42857 polynomials|0.46429 For|0.5 example|0.53571 |0.57143 The|0.60714 degree|0.64286 of|0.67857 a|0.71429 polynomial|0.75 f|0.78571 can|0.82143 be|0.85714 computed|0.89286 by|0.92857 the|0.96429 formula|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "09eaf6cb471a24aa32a9dd0e887fd5dba59e52791cb280c19da6bf5d583dc0c0",
+			"url": "https://upload.wikimedia.org/math/c/2/6/c26e5e674eddc7dcf4993cda58f1e226.png",
+			"previous": " In quantum physics quantum state refers to the state of a quantum system ",
+			"after": " involves superposition of joint spin states for two particles Mathematically a pure quantum state is represented by a state vector in a Hilbert space over complex numbers which is a generalization of our more usual three dimensional space 1 If this Hilbert space is represented as a function space then its elements are called wave functions ",
+			"color": " ",
+			"after_weights": " involves|1 superposition|0.98214 of|0.96429 joint|0.94643 spin|0.92857 states|0.91071 for|0.89286 two|0.875 particles|0.85714 Mathematically|0.83929 a|0.82143 pure|0.80357 quantum|0.78571 state|0.76786 is|0.75 represented|0.73214 by|0.71429 a|0.69643 state|0.67857 vector|0.66071 in|0.64286 a|0.625 Hilbert|0.60714 space|0.58929 over|0.57143 complex|0.55357 numbers|0.53571 which|0.51786 is|0.5 a|0.48214 generalization|0.46429 of|0.44643 our|0.42857 more|0.41071 usual|0.39286 three|0.375 dimensional|0.35714 space|0.33929 1|0.32143 If|0.30357 this|0.28571 Hilbert|0.26786 space|0.25 is|0.23214 represented|0.21429 as|0.19643 a|0.17857 function|0.16071 space|0.14286 then|0.125 its|0.10714 elements|0.089286 are|0.071429 called|0.053571 wave|0.035714 functions|0.017857 |0",
+			"previous_weights": " In|0 quantum|0.076923 physics|0.15385 quantum|0.23077 state|0.30769 refers|0.38462 to|0.46154 the|0.53846 state|0.61538 of|0.69231 a|0.76923 quantum|0.84615 system|0.92308 |1"
+		}
+	}
+}

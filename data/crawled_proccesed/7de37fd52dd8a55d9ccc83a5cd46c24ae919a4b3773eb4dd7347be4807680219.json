@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de37fd52dd8a55d9ccc83a5cd46c24ae919a4b3773eb4dd7347be4807680219",
+			"url": "https://upload.wikimedia.org/math/1/6/0/16006213ad984f38fa29d78a2f26769c.png",
+			"previous": " where the discriminant is defined as",
+			"after": " The square root of a univariate quadratic function gives rise to one of the four conic sections almost always either to an ellipse or to a hyperbola  If then the equation describes a hyperbola as can be seen by squaring both sides The directions of the axes of the hyperbola are determined by the ordinate of the minimum point of the corresponding parabola If the ordinate is negative then the hyperbola s major axis through its vertices is horizontal while if the ordinate is positive then the hyperbola s major axis is vertical ",
+			"color": "dim|0.44892 gray|0.44892 dim|0.44892 grey|0.44892 gray|0.30375 grey|0.30375 dark|0.15026 gray|0.15026 dark|0.15026 grey|0.15026 silver|0.05307 light|0.020737 gray|0.020737 light|0.020737 grey|0.020737 gainsboro|0.012807  ",
+			"after_weights": " The|1 square|0.98936 root|0.97872 of|0.96809 a|0.95745 univariate|0.94681 quadratic|0.93617 function|0.92553 gives|0.91489 rise|0.90426 to|0.89362 one|0.88298 of|0.87234 the|0.8617 four|0.85106 conic|0.84043 sections|0.82979 almost|0.81915 always|0.80851 either|0.79787 to|0.78723 an|0.7766 ellipse|0.76596 or|0.75532 to|0.74468 a|0.73404 hyperbola|0.7234 |0.71277 If|0.70213 then|0.69149 the|0.68085 equation|0.67021 describes|0.65957 a|0.64894 hyperbola|0.6383 as|0.62766 can|0.61702 be|0.60638 seen|0.59574 by|0.58511 squaring|0.57447 both|0.56383 sides|0.55319 The|0.54255 directions|0.53191 of|0.52128 the|0.51064 axes|0.5 of|0.48936 the|0.47872 hyperbola|0.46809 are|0.45745 determined|0.44681 by|0.43617 the|0.42553 ordinate|0.41489 of|0.40426 the|0.39362 minimum|0.38298 point|0.37234 of|0.3617 the|0.35106 corresponding|0.34043 parabola|0.32979 If|0.31915 the|0.30851 ordinate|0.29787 is|0.28723 negative|0.2766 then|0.26596 the|0.25532 hyperbola|0.24468 s|0.23404 major|0.2234 axis|0.21277 through|0.20213 its|0.19149 vertices|0.18085 is|0.17021 horizontal|0.15957 while|0.14894 if|0.1383 the|0.12766 ordinate|0.11702 is|0.10638 positive|0.095745 then|0.085106 the|0.074468 hyperbola|0.06383 s|0.053191 major|0.042553 axis|0.031915 is|0.021277 vertical|0.010638 |0",
+			"previous_weights": " where|0 the|0.2 discriminant|0.4 is|0.6 defined|0.8 as|1"
+		}
+	}
+}

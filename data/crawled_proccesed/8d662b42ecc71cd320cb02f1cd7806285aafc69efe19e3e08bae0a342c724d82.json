@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d662b42ecc71cd320cb02f1cd7806285aafc69efe19e3e08bae0a342c724d82",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Battle_of_Lepanto_1571.jpg/220px-Battle_of_Lepanto_1571.jpg",
+			"previous": " ",
+			"after": " Several ancient civilisations were located around its shores thus it has had a major influence on those cultures It provided routes for trade colonisation and war and provided food by fishing and the gathering of other seafood for numerous communities throughout the ages 7 ",
+			"color": "dim|0.39609 gray|0.39609 dim|0.39609 grey|0.39609 gray|0.29157 grey|0.29157 dark|0.093619 gray|0.093619 dark|0.093619 grey|0.093619 dark|0.084018 slate|0.084018 gray|0.084018 black|0.027113 silver|0.025505 slate|0.021683 gray|0.021683 tan|0.015357 light|0.013703 slate|0.013703 gray|0.013703  ",
+			"after_weights": " Several|1 ancient|0.97727 civilisations|0.95455 were|0.93182 located|0.90909 around|0.88636 its|0.86364 shores|0.84091 thus|0.81818 it|0.79545 has|0.77273 had|0.75 a|0.72727 major|0.70455 influence|0.68182 on|0.65909 those|0.63636 cultures|0.61364 It|0.59091 provided|0.56818 routes|0.54545 for|0.52273 trade|0.5 colonisation|0.47727 and|0.45455 war|0.43182 and|0.40909 provided|0.38636 food|0.36364 by|0.34091 fishing|0.31818 and|0.29545 the|0.27273 gathering|0.25 of|0.22727 other|0.20455 seafood|0.18182 for|0.15909 numerous|0.13636 communities|0.11364 throughout|0.090909 the|0.068182 ages|0.045455 7|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

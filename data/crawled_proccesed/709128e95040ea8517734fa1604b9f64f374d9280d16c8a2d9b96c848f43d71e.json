@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "709128e95040ea8517734fa1604b9f64f374d9280d16c8a2d9b96c848f43d71e",
+			"url": "https://upload.wikimedia.org/math/6/d/9/6d9b8785be50cfe84c37d6721f679cdb.png",
+			"previous": " If and the above expression for the roots is correct but misleading hiding the fact that no radical is needed to represent the roots In fact in this case there is a double root  If and the three roots are equal ",
+			"after": " and a simple root",
+			"color": "dim|0.3809 gray|0.3809 dim|0.3809 grey|0.3809 gray|0.26916 grey|0.26916 dark|0.18488 gray|0.18488 dark|0.18488 grey|0.18488 silver|0.082949 light|0.04083 gray|0.04083 light|0.04083 grey|0.04083 gainsboro|0.027817 white|0.0035482 smoke|0.0035482  ",
+			"after_weights": " and|1 a|0.66667 simple|0.33333 root|0",
+			"previous_weights": " If|0 and|0.02381 the|0.047619 above|0.071429 expression|0.095238 for|0.11905 the|0.14286 roots|0.16667 is|0.19048 correct|0.21429 but|0.2381 misleading|0.2619 hiding|0.28571 the|0.30952 fact|0.33333 that|0.35714 no|0.38095 radical|0.40476 is|0.42857 needed|0.45238 to|0.47619 represent|0.5 the|0.52381 roots|0.54762 In|0.57143 fact|0.59524 in|0.61905 this|0.64286 case|0.66667 there|0.69048 is|0.71429 a|0.7381 double|0.7619 root|0.78571 |0.80952 If|0.83333 and|0.85714 the|0.88095 three|0.90476 roots|0.92857 are|0.95238 equal|0.97619 |1"
+		}
+	}
+}

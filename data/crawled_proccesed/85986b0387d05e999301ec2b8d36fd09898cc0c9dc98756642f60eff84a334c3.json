@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "85986b0387d05e999301ec2b8d36fd09898cc0c9dc98756642f60eff84a334c3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/George_W._Bush_Cabinet_2008.jpg/350px-George_W._Bush_Cabinet_2008.jpg",
+			"previous": " ",
+			"after": " There is no explicit definition of the term Cabinet in either the United States Constitution the United States Code or the Code of Federal Regulations The name comes from a 17th century usage for a private room where advisors would meet which developed into the modern sense of a council of advisors 1 ",
+			"color": "black|0.90459 dark|0.016925 gray|0.016925 dark|0.016925 grey|0.016925 dim|0.016612 gray|0.016612 dim|0.016612 grey|0.016612 gray|0.013821 grey|0.013821 rosy|0.0095532 brown|0.0095532  ",
+			"after_weights": " There|1 is|0.98113 no|0.96226 explicit|0.9434 definition|0.92453 of|0.90566 the|0.88679 term|0.86792 Cabinet|0.84906 in|0.83019 either|0.81132 the|0.79245 United|0.77358 States|0.75472 Constitution|0.73585 the|0.71698 United|0.69811 States|0.67925 Code|0.66038 or|0.64151 the|0.62264 Code|0.60377 of|0.58491 Federal|0.56604 Regulations|0.54717 The|0.5283 name|0.50943 comes|0.49057 from|0.4717 a|0.45283 17th|0.43396 century|0.41509 usage|0.39623 for|0.37736 a|0.35849 private|0.33962 room|0.32075 where|0.30189 advisors|0.28302 would|0.26415 meet|0.24528 which|0.22642 developed|0.20755 into|0.18868 the|0.16981 modern|0.15094 sense|0.13208 of|0.11321 a|0.09434 council|0.075472 of|0.056604 advisors|0.037736 1|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

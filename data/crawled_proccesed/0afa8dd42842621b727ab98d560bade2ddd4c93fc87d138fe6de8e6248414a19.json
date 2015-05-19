@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0afa8dd42842621b727ab98d560bade2ddd4c93fc87d138fe6de8e6248414a19",
+			"url": "https://upload.wikimedia.org/math/6/9/8/6986b14089d2aedb931c847ad7f7b1cb.png",
+			"previous": " where the coefficient matrices A and the vector B may depend upon x and u If a hypersurface S is given in the implicit form",
+			"after": " where has a non zero gradient then S is a characteristic surface for the operator L at a given point if the characteristic form vanishes ",
+			"color": "dim|0.39674 gray|0.39674 dim|0.39674 grey|0.39674 gray|0.26682 grey|0.26682 dark|0.16801 gray|0.16801 dark|0.16801 grey|0.16801 silver|0.07712 light|0.040487 gray|0.040487 light|0.040487 grey|0.040487 gainsboro|0.028885 white|0.0049828 smoke|0.0049828  ",
+			"after_weights": " where|1 has|0.96 a|0.92 non|0.88 zero|0.84 gradient|0.8 then|0.76 S|0.72 is|0.68 a|0.64 characteristic|0.6 surface|0.56 for|0.52 the|0.48 operator|0.44 L|0.4 at|0.36 a|0.32 given|0.28 point|0.24 if|0.2 the|0.16 characteristic|0.12 form|0.08 vanishes|0.04 |0",
+			"previous_weights": " where|0 the|0.041667 coefficient|0.083333 matrices|0.125 A|0.16667 and|0.20833 the|0.25 vector|0.29167 B|0.33333 may|0.375 depend|0.41667 upon|0.45833 x|0.5 and|0.54167 u|0.58333 If|0.625 a|0.66667 hypersurface|0.70833 S|0.75 is|0.79167 given|0.83333 in|0.875 the|0.91667 implicit|0.95833 form|1"
+		}
+	}
+}

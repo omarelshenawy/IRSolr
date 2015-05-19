@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cf5b3ffbb0509a53263cc5b5c9535f6f6cb8c968446a8c8c5b204da2936e2b9",
+			"url": "https://upload.wikimedia.org/math/c/e/7/ce774d9cab3ae0bdf522cd0839bed364.png",
+			"previous": " Mutual information measures the amount of information that can be obtained about one random variable by observing another It is important in communication where it can be used to maximize the amount of information shared between sent and received signals The mutual information of relative to is given by ",
+			"after": " A basic property of the mutual information is that",
+			"color": " ",
+			"after_weights": " A|1 basic|0.875 property|0.75 of|0.625 the|0.5 mutual|0.375 information|0.25 is|0.125 that|0",
+			"previous_weights": " Mutual|0 information|0.020408 measures|0.040816 the|0.061224 amount|0.081633 of|0.10204 information|0.12245 that|0.14286 can|0.16327 be|0.18367 obtained|0.20408 about|0.22449 one|0.2449 random|0.26531 variable|0.28571 by|0.30612 observing|0.32653 another|0.34694 It|0.36735 is|0.38776 important|0.40816 in|0.42857 communication|0.44898 where|0.46939 it|0.4898 can|0.5102 be|0.53061 used|0.55102 to|0.57143 maximize|0.59184 the|0.61224 amount|0.63265 of|0.65306 information|0.67347 shared|0.69388 between|0.71429 sent|0.73469 and|0.7551 received|0.77551 signals|0.79592 The|0.81633 mutual|0.83673 information|0.85714 of|0.87755 relative|0.89796 to|0.91837 is|0.93878 given|0.95918 by|0.97959 |1"
+		}
+	}
+}

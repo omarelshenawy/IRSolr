@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f117fddb97ea25541f72bff09387cfcc4e23c1d25ae497e4ed0447225ac853d",
+			"url": "https://upload.wikimedia.org/math/4/a/f/4af9ade59467846fc3855b75b09be2df.png",
+			"previous": " Combustor    Compressor    Intake   So  Since the engine is static both the flight velocity and the flight Mach number are zero Freestream  Use 518 67 R if working with American units ",
+			"after": "  Turbine       Jetpipe     Is the nozzle choked The nozzle is choked when the throat Mach number 1 0 This occurs when the nozzle pressure ratio reaches or exceeds a critical level ",
+			"color": "dim|0.34508 gray|0.34508 dim|0.34508 grey|0.34508 gray|0.30551 grey|0.30551 dark|0.20217 gray|0.20217 dark|0.20217 grey|0.20217 silver|0.073236 light|0.034669 gray|0.034669 light|0.034669 grey|0.034669 gainsboro|0.023642 white|0.0039833 smoke|0.0039833  ",
+			"after_weights": " |1 Turbine|0.97561 |0.95122 |0.92683 |0.90244 |0.87805 |0.85366 |0.82927 Jetpipe|0.80488 |0.78049 |0.7561 |0.73171 |0.70732 Is|0.68293 the|0.65854 nozzle|0.63415 choked|0.60976 The|0.58537 nozzle|0.56098 is|0.53659 choked|0.5122 when|0.4878 the|0.46341 throat|0.43902 Mach|0.41463 number|0.39024 1|0.36585 0|0.34146 This|0.31707 occurs|0.29268 when|0.26829 the|0.2439 nozzle|0.21951 pressure|0.19512 ratio|0.17073 reaches|0.14634 or|0.12195 exceeds|0.097561 a|0.073171 critical|0.04878 level|0.02439 |0",
+			"previous_weights": " Combustor|0 |0.025 |0.05 |0.075 Compressor|0.1 |0.125 |0.15 |0.175 Intake|0.2 |0.225 |0.25 So|0.275 |0.3 Since|0.325 the|0.35 engine|0.375 is|0.4 static|0.425 both|0.45 the|0.475 flight|0.5 velocity|0.525 and|0.55 the|0.575 flight|0.6 Mach|0.625 number|0.65 are|0.675 zero|0.7 Freestream|0.725 |0.75 Use|0.775 518|0.8 67|0.825 R|0.85 if|0.875 working|0.9 with|0.925 American|0.95 units|0.975 |1"
+		}
+	}
+}

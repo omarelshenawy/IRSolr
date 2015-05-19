@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ad87f78da666fb1f073fab06d675ae200dba68f8c7f5aaa9d4d7a65903f4e21",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Navigation_Display_%28ND%29_on_Boeing_747-400.jpg/220px-Navigation_Display_%28ND%29_on_Boeing_747-400.jpg",
+			"previous": " ",
+			"after": " The MFD multi function display displays navigational and weather information from multiple systems MFDs are most frequently designed as chart centric where the aircrew can overlay different information over a map or chart Examples of MFD overlay information include the aircraft s current route plan weather information from either on board radar or lightning detection sensors or ground based sensors e g NEXRAD restricted airspace and aircraft traffic The MFD can also be used to view other non overlay type of data e g current route plan and calculated overlay type data e g the glide radius of the aircraft given current location over terrain winds and aircraft speed and altitude ",
+			"color": "black|0.98965  ",
+			"after_weights": " The|1 MFD|0.99099 multi|0.98198 function|0.97297 display|0.96396 displays|0.95495 navigational|0.94595 and|0.93694 weather|0.92793 information|0.91892 from|0.90991 multiple|0.9009 systems|0.89189 MFDs|0.88288 are|0.87387 most|0.86486 frequently|0.85586 designed|0.84685 as|0.83784 chart|0.82883 centric|0.81982 where|0.81081 the|0.8018 aircrew|0.79279 can|0.78378 overlay|0.77477 different|0.76577 information|0.75676 over|0.74775 a|0.73874 map|0.72973 or|0.72072 chart|0.71171 Examples|0.7027 of|0.69369 MFD|0.68468 overlay|0.67568 information|0.66667 include|0.65766 the|0.64865 aircraft|0.63964 s|0.63063 current|0.62162 route|0.61261 plan|0.6036 weather|0.59459 information|0.58559 from|0.57658 either|0.56757 on|0.55856 board|0.54955 radar|0.54054 or|0.53153 lightning|0.52252 detection|0.51351 sensors|0.5045 or|0.4955 ground|0.48649 based|0.47748 sensors|0.46847 e|0.45946 g|0.45045 NEXRAD|0.44144 restricted|0.43243 airspace|0.42342 and|0.41441 aircraft|0.40541 traffic|0.3964 The|0.38739 MFD|0.37838 can|0.36937 also|0.36036 be|0.35135 used|0.34234 to|0.33333 view|0.32432 other|0.31532 non|0.30631 overlay|0.2973 type|0.28829 of|0.27928 data|0.27027 e|0.26126 g|0.25225 current|0.24324 route|0.23423 plan|0.22523 and|0.21622 calculated|0.20721 overlay|0.1982 type|0.18919 data|0.18018 e|0.17117 g|0.16216 the|0.15315 glide|0.14414 radius|0.13514 of|0.12613 the|0.11712 aircraft|0.10811 given|0.099099 current|0.09009 location|0.081081 over|0.072072 terrain|0.063063 winds|0.054054 and|0.045045 aircraft|0.036036 speed|0.027027 and|0.018018 altitude|0.009009 |0",
+			"previous_weights": " "
+		}
+	}
+}

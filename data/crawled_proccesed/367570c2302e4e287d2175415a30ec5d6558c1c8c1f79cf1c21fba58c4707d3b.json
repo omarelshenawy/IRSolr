@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "367570c2302e4e287d2175415a30ec5d6558c1c8c1f79cf1c21fba58c4707d3b",
+			"url": "https://upload.wikimedia.org/math/c/b/1/cb189f3059c6f54a6d777b9c0363a4e1.png",
+			"previous": " Consider the lower triangular matrix A  A matrix with elements above the main diagonal that are all zeros is described as a triangular matrix or in this case lower triangular If the elements below the main diagonal are all zeros then the matrix is upper triangular The eigenvalues of triangular matrices are the elements of the main diagonal in the same way as for diagonal matrices ",
+			"after": " The characteristic polynomial of A is given by",
+			"color": "dim|0.57382 gray|0.57382 dim|0.57382 grey|0.57382 gray|0.22474 grey|0.22474 dark|0.11203 gray|0.11203 dark|0.11203 grey|0.11203 silver|0.043578 light|0.02021 gray|0.02021 light|0.02021 grey|0.02021 gainsboro|0.014881  ",
+			"after_weights": " The|1 characteristic|0.85714 polynomial|0.71429 of|0.57143 A|0.42857 is|0.28571 given|0.14286 by|0",
+			"previous_weights": " Consider|0 the|0.014925 lower|0.029851 triangular|0.044776 matrix|0.059701 A|0.074627 |0.089552 A|0.10448 matrix|0.1194 with|0.13433 elements|0.14925 above|0.16418 the|0.1791 main|0.19403 diagonal|0.20896 that|0.22388 are|0.23881 all|0.25373 zeros|0.26866 is|0.28358 described|0.29851 as|0.31343 a|0.32836 triangular|0.34328 matrix|0.35821 or|0.37313 in|0.38806 this|0.40299 case|0.41791 lower|0.43284 triangular|0.44776 If|0.46269 the|0.47761 elements|0.49254 below|0.50746 the|0.52239 main|0.53731 diagonal|0.55224 are|0.56716 all|0.58209 zeros|0.59701 then|0.61194 the|0.62687 matrix|0.64179 is|0.65672 upper|0.67164 triangular|0.68657 The|0.70149 eigenvalues|0.71642 of|0.73134 triangular|0.74627 matrices|0.76119 are|0.77612 the|0.79104 elements|0.80597 of|0.8209 the|0.83582 main|0.85075 diagonal|0.86567 in|0.8806 the|0.89552 same|0.91045 way|0.92537 as|0.9403 for|0.95522 diagonal|0.97015 matrices|0.98507 |1"
+		}
+	}
+}

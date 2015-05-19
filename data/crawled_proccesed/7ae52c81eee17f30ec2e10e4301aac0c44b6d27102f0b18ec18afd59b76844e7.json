@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ae52c81eee17f30ec2e10e4301aac0c44b6d27102f0b18ec18afd59b76844e7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTN_PeepHoles_052.JPG/220px-WTN_PeepHoles_052.JPG",
+			"previous": " Tennessee has a rich variety of public private charter and specialized education facilities ranging from pre school through university education ",
+			"after": " Public higher education is under the oversight of the Tennessee Higher Education Commission which provides guidance to two public university systems the University of Tennessee system and the Tennessee Board of Regents In addition a number of private colleges and universities are located throughout the state ",
+			"color": "light|0.16478 gray|0.16478 light|0.16478 grey|0.16478 gainsboro|0.15876 misty|0.094476 rose|0.094476 linen|0.083764 silver|0.063682 dark|0.052514 gray|0.052514 dark|0.052514 grey|0.052514 sea|0.042419 shell|0.042419 antique|0.032911 white|0.032911 white|0.02954 smoke|0.02954 black|0.027343 rosy|0.025595 brown|0.025595 old|0.024061 lace|0.024061 gray|0.023268 grey|0.023268 lavender|0.023094 blush|0.023094 dark|0.018974 olive|0.018974 green|0.018974 floral|0.01759 white|0.01759 dim|0.017179 gray|0.017179 dim|0.017179 grey|0.017179 tan|0.012808 snow|0.010874 white|0.0052988  ",
+			"after_weights": " Public|1 higher|0.97826 education|0.95652 is|0.93478 under|0.91304 the|0.8913 oversight|0.86957 of|0.84783 the|0.82609 Tennessee|0.80435 Higher|0.78261 Education|0.76087 Commission|0.73913 which|0.71739 provides|0.69565 guidance|0.67391 to|0.65217 two|0.63043 public|0.6087 university|0.58696 systems|0.56522 the|0.54348 University|0.52174 of|0.5 Tennessee|0.47826 system|0.45652 and|0.43478 the|0.41304 Tennessee|0.3913 Board|0.36957 of|0.34783 Regents|0.32609 In|0.30435 addition|0.28261 a|0.26087 number|0.23913 of|0.21739 private|0.19565 colleges|0.17391 and|0.15217 universities|0.13043 are|0.1087 located|0.086957 throughout|0.065217 the|0.043478 state|0.021739 |0",
+			"previous_weights": " Tennessee|0 has|0.05 a|0.1 rich|0.15 variety|0.2 of|0.25 public|0.3 private|0.35 charter|0.4 and|0.45 specialized|0.5 education|0.55 facilities|0.6 ranging|0.65 from|0.7 pre|0.75 school|0.8 through|0.85 university|0.9 education|0.95 |1"
+		}
+	}
+}

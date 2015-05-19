@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "172b1255643583bc9bfb2fb78ecf57dd2c6df8924ff13031c391b9420cd4dcf9",
+			"url": "https://upload.wikimedia.org/math/6/2/d/62d7100fd90a0a210f2ba8c5b33a0d1b.png",
+			"previous": " Dynamic equilibrium is established because the more that particles are pulled down by gravity the greater is the tendency for the particles to migrate to regions of lower concentration The flux is given by Fick s law ",
+			"after": " where J v Introducing the formula for we find that",
+			"color": "black|0.31948 dim|0.2497 gray|0.2497 dim|0.2497 grey|0.2497 gray|0.19056 grey|0.19056 dark|0.12476 gray|0.12476 dark|0.12476 grey|0.12476 silver|0.056536 light|0.02796 gray|0.02796 light|0.02796 grey|0.02796 gainsboro|0.01919  ",
+			"after_weights": " where|1 J|0.88889 v|0.77778 Introducing|0.66667 the|0.55556 formula|0.44444 for|0.33333 we|0.22222 find|0.11111 that|0",
+			"previous_weights": " Dynamic|0 equilibrium|0.027027 is|0.054054 established|0.081081 because|0.10811 the|0.13514 more|0.16216 that|0.18919 particles|0.21622 are|0.24324 pulled|0.27027 down|0.2973 by|0.32432 gravity|0.35135 the|0.37838 greater|0.40541 is|0.43243 the|0.45946 tendency|0.48649 for|0.51351 the|0.54054 particles|0.56757 to|0.59459 migrate|0.62162 to|0.64865 regions|0.67568 of|0.7027 lower|0.72973 concentration|0.75676 The|0.78378 flux|0.81081 is|0.83784 given|0.86486 by|0.89189 Fick|0.91892 s|0.94595 law|0.97297 |1"
+		}
+	}
+}

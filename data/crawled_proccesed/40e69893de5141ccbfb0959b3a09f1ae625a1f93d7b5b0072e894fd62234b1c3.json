@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40e69893de5141ccbfb0959b3a09f1ae625a1f93d7b5b0072e894fd62234b1c3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Acad%C3%A9mie_des_Sciences_1671.jpg/100px-Acad%C3%A9mie_des_Sciences_1671.jpg",
+			"previous": " ",
+			"after": " The French Academy of Sciences Acad mie des sciences is a learned society founded in 1666 by Louis XIV at the suggestion of Jean Baptiste Colbert to encourage and protect the spirit of French scientific research It was at the forefront of scientific developments in Europe in the 17th and 18th centuries ",
+			"color": " ",
+			"after_weights": " The|1 French|0.98077 Academy|0.96154 of|0.94231 Sciences|0.92308 Acad|0.90385 mie|0.88462 des|0.86538 sciences|0.84615 is|0.82692 a|0.80769 learned|0.78846 society|0.76923 founded|0.75 in|0.73077 1666|0.71154 by|0.69231 Louis|0.67308 XIV|0.65385 at|0.63462 the|0.61538 suggestion|0.59615 of|0.57692 Jean|0.55769 Baptiste|0.53846 Colbert|0.51923 to|0.5 encourage|0.48077 and|0.46154 protect|0.44231 the|0.42308 spirit|0.40385 of|0.38462 French|0.36538 scientific|0.34615 research|0.32692 It|0.30769 was|0.28846 at|0.26923 the|0.25 forefront|0.23077 of|0.21154 scientific|0.19231 developments|0.17308 in|0.15385 Europe|0.13462 in|0.11538 the|0.096154 17th|0.076923 and|0.057692 18th|0.038462 centuries|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

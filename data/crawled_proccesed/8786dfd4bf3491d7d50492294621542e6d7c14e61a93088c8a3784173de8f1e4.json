@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8786dfd4bf3491d7d50492294621542e6d7c14e61a93088c8a3784173de8f1e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Oil_flow_vis_on_straight_wing.jpg/220px-Oil_flow_vis_on_straight_wing.jpg",
+			"previous": " When oil is applied to the model surface it can clearly show the transition from laminar to turbulent flow as well as flow separation ",
+			"after": " Fog usually from water particles is created with an ultrasonic piezoelectric nebulizer The fog is transported inside the wind tunnel preferably of the closed circuit closed test section type An electrically heated grid is inserted before the test section which evaporates the water particles at its vicinity thus forming fog sheets The fog sheets function as streamlines over the test model when illuminated by a light sheet ",
+			"color": "gray|0.13088 grey|0.13088 dark|0.11593 gray|0.11593 dark|0.11593 grey|0.11593 dim|0.11119 gray|0.11119 dim|0.11119 grey|0.11119 black|0.096712 royal|0.082201 blue|0.082201 dark|0.078552 blue|0.078552 midnight|0.063412 blue|0.063412 navy|0.050117 slate|0.048929 gray|0.048929 light|0.048915 slate|0.048915 gray|0.048915 light|0.044861 steel|0.044861 blue|0.044861 silver|0.035306 corn|0.022228 flower|0.022228 blue|0.022228  ",
+			"after_weights": " Fog|1 usually|0.98507 from|0.97015 water|0.95522 particles|0.9403 is|0.92537 created|0.91045 with|0.89552 an|0.8806 ultrasonic|0.86567 piezoelectric|0.85075 nebulizer|0.83582 The|0.8209 fog|0.80597 is|0.79104 transported|0.77612 inside|0.76119 the|0.74627 wind|0.73134 tunnel|0.71642 preferably|0.70149 of|0.68657 the|0.67164 closed|0.65672 circuit|0.64179 closed|0.62687 test|0.61194 section|0.59701 type|0.58209 An|0.56716 electrically|0.55224 heated|0.53731 grid|0.52239 is|0.50746 inserted|0.49254 before|0.47761 the|0.46269 test|0.44776 section|0.43284 which|0.41791 evaporates|0.40299 the|0.38806 water|0.37313 particles|0.35821 at|0.34328 its|0.32836 vicinity|0.31343 thus|0.29851 forming|0.28358 fog|0.26866 sheets|0.25373 The|0.23881 fog|0.22388 sheets|0.20896 function|0.19403 as|0.1791 streamlines|0.16418 over|0.14925 the|0.13433 test|0.1194 model|0.10448 when|0.089552 illuminated|0.074627 by|0.059701 a|0.044776 light|0.029851 sheet|0.014925 |0",
+			"previous_weights": " When|0 oil|0.041667 is|0.083333 applied|0.125 to|0.16667 the|0.20833 model|0.25 surface|0.29167 it|0.33333 can|0.375 clearly|0.41667 show|0.45833 the|0.5 transition|0.54167 from|0.58333 laminar|0.625 to|0.66667 turbulent|0.70833 flow|0.75 as|0.79167 well|0.83333 as|0.875 flow|0.91667 separation|0.95833 |1"
+		}
+	}
+}

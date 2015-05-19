@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bc65c8bd6c5cedd44086e9c88660a0afafb2f51f8290a44aa3482882437b69a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DYK_questionmark_icon.svg/30px-DYK_questionmark_icon.svg.png",
+			"previous": "  Golos Truda",
+			"after": "  Moscow Monorail Emil Stang born 1882 Shkolnaya Street Stray dogs in Moscow Malchik Moscow International House of Music Coat of arms of Moscow 2010 Moscow Victory Day Parade Lobnoye Mesto 1904 Moscow tornado Moscow Orphanage Lenin s Mausoleum",
+			"color": "black|0.72612 dim|0.1073 gray|0.1073 dim|0.1073 grey|0.1073 gray|0.099823 grey|0.099823 dark|0.057427 gray|0.057427 dark|0.057427 grey|0.057427 silver|0.0087894  ",
+			"after_weights": " |1 Moscow|0.97368 Monorail|0.94737 Emil|0.92105 Stang|0.89474 born|0.86842 1882|0.84211 Shkolnaya|0.81579 Street|0.78947 Stray|0.76316 dogs|0.73684 in|0.71053 Moscow|0.68421 Malchik|0.65789 Moscow|0.63158 International|0.60526 House|0.57895 of|0.55263 Music|0.52632 Coat|0.5 of|0.47368 arms|0.44737 of|0.42105 Moscow|0.39474 2010|0.36842 Moscow|0.34211 Victory|0.31579 Day|0.28947 Parade|0.26316 Lobnoye|0.23684 Mesto|0.21053 1904|0.18421 Moscow|0.15789 tornado|0.13158 Moscow|0.10526 Orphanage|0.078947 Lenin|0.052632 s|0.026316 Mausoleum|0",
+			"previous_weights": " |0 Golos|0.5 Truda|1"
+		}
+	}
+}

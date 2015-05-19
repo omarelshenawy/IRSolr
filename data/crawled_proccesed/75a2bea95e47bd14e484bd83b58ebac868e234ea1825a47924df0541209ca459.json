@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "75a2bea95e47bd14e484bd83b58ebac868e234ea1825a47924df0541209ca459",
+			"url": "https://upload.wikimedia.org/wikipedia/en/0/07/Ic443_xopt.jpg",
+			"previous": " ",
+			"after": " The Supernova Remnant IC 443 The image combines optical data from the Digitized Sky Survey in yellow and X ray data from the XMM Newton Observatory in blue The bright spot is the star Eta Geminorum In the image North is up East is left Credit XMM Newton DSS",
+			"color": "black|0.75661 olive|0.047933 midnight|0.037125 blue|0.037125 yellow|0.036353 medium|0.024844 blue|0.024844 dark|0.016633 olive|0.016633 green|0.016633 navy|0.014668 dark|0.013124 blue|0.013124 dim|0.011059 gray|0.011059 dim|0.011059 grey|0.011059 dark|0.0072286 khaki|0.0072286  ",
+			"after_weights": " The|1 Supernova|0.97917 Remnant|0.95833 IC|0.9375 443|0.91667 The|0.89583 image|0.875 combines|0.85417 optical|0.83333 data|0.8125 from|0.79167 the|0.77083 Digitized|0.75 Sky|0.72917 Survey|0.70833 in|0.6875 yellow|0.66667 and|0.64583 X|0.625 ray|0.60417 data|0.58333 from|0.5625 the|0.54167 XMM|0.52083 Newton|0.5 Observatory|0.47917 in|0.45833 blue|0.4375 The|0.41667 bright|0.39583 spot|0.375 is|0.35417 the|0.33333 star|0.3125 Eta|0.29167 Geminorum|0.27083 In|0.25 the|0.22917 image|0.20833 North|0.1875 is|0.16667 up|0.14583 East|0.125 is|0.10417 left|0.083333 Credit|0.0625 XMM|0.041667 Newton|0.020833 DSS|0",
+			"previous_weights": " "
+		}
+	}
+}

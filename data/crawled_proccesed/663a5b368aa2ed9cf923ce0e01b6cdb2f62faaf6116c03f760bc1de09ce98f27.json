@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "663a5b368aa2ed9cf923ce0e01b6cdb2f62faaf6116c03f760bc1de09ce98f27",
+			"url": "https://upload.wikimedia.org/math/3/7/5/375ef9834f48aa57dba4ad26342636e2.png",
+			"previous": " Another one of Maxwell s equations Gauss s law states that but the divergence of a curl is zero so that Taking the divergence of both sides the divergence and partial derivative in time commute results in",
+			"after": " substitution into the previous equation yields the continuity equation",
+			"color": "dim|0.4143 gray|0.4143 dim|0.4143 grey|0.4143 gray|0.29487 grey|0.29487 dark|0.16218 gray|0.16218 dark|0.16218 grey|0.16218 silver|0.065024 light|0.030294 gray|0.030294 light|0.030294 grey|0.030294 gainsboro|0.021966  ",
+			"after_weights": " substitution|1 into|0.875 the|0.75 previous|0.625 equation|0.5 yields|0.375 the|0.25 continuity|0.125 equation|0",
+			"previous_weights": " Another|0 one|0.027778 of|0.055556 Maxwell|0.083333 s|0.11111 equations|0.13889 Gauss|0.16667 s|0.19444 law|0.22222 states|0.25 that|0.27778 but|0.30556 the|0.33333 divergence|0.36111 of|0.38889 a|0.41667 curl|0.44444 is|0.47222 zero|0.5 so|0.52778 that|0.55556 Taking|0.58333 the|0.61111 divergence|0.63889 of|0.66667 both|0.69444 sides|0.72222 the|0.75 divergence|0.77778 and|0.80556 partial|0.83333 derivative|0.86111 in|0.88889 time|0.91667 commute|0.94444 results|0.97222 in|1"
+		}
+	}
+}

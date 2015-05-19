@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d1fd5cb6d477b8ae1e5123b2b0a526269ae4cd1ee831c93cf77e8dcce1e040c",
+			"url": "https://upload.wikimedia.org/math/6/3/5/635783f055a9c09970c3c27140979699.png",
+			"previous": " To find the other limit we use the squeeze theorem The number c is in the interval x1 x1 x so x1 c x1 x  The expression on the left side of the equation is the definition of the derivative of F at x1 ",
+			"after": " Therefore according to the squeeze theorem  Substituting into 3 we get",
+			"color": "dim|0.3518 gray|0.3518 dim|0.3518 grey|0.3518 gray|0.27315 grey|0.27315 dark|0.18636 gray|0.18636 dark|0.18636 grey|0.18636 silver|0.08703 light|0.048896 gray|0.048896 light|0.048896 grey|0.048896 gainsboro|0.0343 white|0.0055413 smoke|0.0055413  ",
+			"after_weights": " Therefore|1 according|0.90909 to|0.81818 the|0.72727 squeeze|0.63636 theorem|0.54545 |0.45455 Substituting|0.36364 into|0.27273 3|0.18182 we|0.090909 get|0",
+			"previous_weights": " To|0 find|0.022222 the|0.044444 other|0.066667 limit|0.088889 we|0.11111 use|0.13333 the|0.15556 squeeze|0.17778 theorem|0.2 The|0.22222 number|0.24444 c|0.26667 is|0.28889 in|0.31111 the|0.33333 interval|0.35556 x1|0.37778 x1|0.4 x|0.42222 so|0.44444 x1|0.46667 c|0.48889 x1|0.51111 x|0.53333 |0.55556 The|0.57778 expression|0.6 on|0.62222 the|0.64444 left|0.66667 side|0.68889 of|0.71111 the|0.73333 equation|0.75556 is|0.77778 the|0.8 definition|0.82222 of|0.84444 the|0.86667 derivative|0.88889 of|0.91111 F|0.93333 at|0.95556 x1|0.97778 |1"
+		}
+	}
+}

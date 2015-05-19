@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11246f90a3c963ecc48fa2d00daab3fbd1a848deca1086358fd7be543e2b31b4",
+			"url": "https://upload.wikimedia.org/math/e/d/c/edcfd7520be5cdd8919403055ec97762.png",
+			"previous": " Note that it makes a difference whether the algorithm is allowed to be sub exponential in the size of the instance the number of vertices or the number of edges In parameterized complexity this difference is made explicit by considering pairs of decision problems and parameters k SUBEPT is the class of all parameterized problems that run in time sub exponential in k and polynomial in the input size n 20 ",
+			"after": " ",
+			"color": "dim|0.35759 gray|0.35759 dim|0.35759 grey|0.35759 gray|0.28952 grey|0.28952 dark|0.17454 gray|0.17454 dark|0.17454 grey|0.17454 silver|0.078186 light|0.039535 gray|0.039535 light|0.039535 grey|0.039535 gainsboro|0.028551 white|0.0068508 smoke|0.0068508 lavender|0.0034273 blush|0.0034273 alice|0.0033311 blue|0.0033311 ghost|0.0032349 white|0.0032349 sea|0.0031044 shell|0.0031044 linen|0.0030473 snow|0.0030081  ",
+			"after_weights": " ",
+			"previous_weights": " Note|0 that|0.014085 it|0.028169 makes|0.042254 a|0.056338 difference|0.070423 whether|0.084507 the|0.098592 algorithm|0.11268 is|0.12676 allowed|0.14085 to|0.15493 be|0.16901 sub|0.1831 exponential|0.19718 in|0.21127 the|0.22535 size|0.23944 of|0.25352 the|0.26761 instance|0.28169 the|0.29577 number|0.30986 of|0.32394 vertices|0.33803 or|0.35211 the|0.3662 number|0.38028 of|0.39437 edges|0.40845 In|0.42254 parameterized|0.43662 complexity|0.4507 this|0.46479 difference|0.47887 is|0.49296 made|0.50704 explicit|0.52113 by|0.53521 considering|0.5493 pairs|0.56338 of|0.57746 decision|0.59155 problems|0.60563 and|0.61972 parameters|0.6338 k|0.64789 SUBEPT|0.66197 is|0.67606 the|0.69014 class|0.70423 of|0.71831 all|0.73239 parameterized|0.74648 problems|0.76056 that|0.77465 run|0.78873 in|0.80282 time|0.8169 sub|0.83099 exponential|0.84507 in|0.85915 k|0.87324 and|0.88732 polynomial|0.90141 in|0.91549 the|0.92958 input|0.94366 size|0.95775 n|0.97183 20|0.98592 |1"
+		}
+	}
+}

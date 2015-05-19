@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6922d8f01b3eb5cb2bfec8f837166cb9eb36d93775c80ccea0d9b8e06867670b",
+			"url": "https://upload.wikimedia.org/math/c/7/8/c78779ccb8f8a6e50f71578826117a0b.png",
+			"previous": " The degree of a polynomial f can be computed by the formula",
+			"after": " This formula generalizes the concept of degree to some functions that are not polynomials For example  Another formula to compute the degree of f from its values is",
+			"color": "dim|0.30819 gray|0.30819 dim|0.30819 grey|0.30819 gray|0.28413 grey|0.28413 dark|0.20515 gray|0.20515 dark|0.20515 grey|0.20515 silver|0.097641 light|0.051067 gray|0.051067 light|0.051067 grey|0.051067 gainsboro|0.035458 white|0.0047169 smoke|0.0047169  ",
+			"after_weights": " This|1 formula|0.96429 generalizes|0.92857 the|0.89286 concept|0.85714 of|0.82143 degree|0.78571 to|0.75 some|0.71429 functions|0.67857 that|0.64286 are|0.60714 not|0.57143 polynomials|0.53571 For|0.5 example|0.46429 |0.42857 Another|0.39286 formula|0.35714 to|0.32143 compute|0.28571 the|0.25 degree|0.21429 of|0.17857 f|0.14286 from|0.10714 its|0.071429 values|0.035714 is|0",
+			"previous_weights": " The|0 degree|0.090909 of|0.18182 a|0.27273 polynomial|0.36364 f|0.45455 can|0.54545 be|0.63636 computed|0.72727 by|0.81818 the|0.90909 formula|1"
+		}
+	}
+}

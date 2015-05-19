@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5fffe4519c1f0ecbedde3fd05c74d25c1a6d87381774422fd0f41a3e78b970f0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lax_sign.jpg/220px-Lax_sign.jpg",
+			"previous": " ",
+			"after": " LAX s terminals are immediately west of the interchange between Century Boulevard and Sepulveda Boulevard State Route 1 The 405 Freeway can be reached to the east via Century Boulevard and the 105 Freeway can be reached to the south via Sepulveda Boulevard ",
+			"color": "dark|0.24173 gray|0.24173 dark|0.24173 grey|0.24173 gray|0.16503 grey|0.16503 silver|0.096334 dim|0.083302 gray|0.083302 dim|0.083302 grey|0.083302 light|0.062028 gray|0.062028 light|0.062028 grey|0.062028 light|0.053145 slate|0.053145 gray|0.053145 gainsboro|0.050099 slate|0.030785 gray|0.030785 white|0.025578 smoke|0.025578 light|0.023389 steel|0.023389 blue|0.023389 ghost|0.016797 white|0.016797 alice|0.016471 blue|0.016471 sea|0.016078 shell|0.016078 linen|0.015974 snow|0.015804 lavender|0.013768 blush|0.013768  ",
+			"after_weights": " LAX|1 s|0.97674 terminals|0.95349 are|0.93023 immediately|0.90698 west|0.88372 of|0.86047 the|0.83721 interchange|0.81395 between|0.7907 Century|0.76744 Boulevard|0.74419 and|0.72093 Sepulveda|0.69767 Boulevard|0.67442 State|0.65116 Route|0.62791 1|0.60465 The|0.5814 405|0.55814 Freeway|0.53488 can|0.51163 be|0.48837 reached|0.46512 to|0.44186 the|0.4186 east|0.39535 via|0.37209 Century|0.34884 Boulevard|0.32558 and|0.30233 the|0.27907 105|0.25581 Freeway|0.23256 can|0.2093 be|0.18605 reached|0.16279 to|0.13953 the|0.11628 south|0.093023 via|0.069767 Sepulveda|0.046512 Boulevard|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

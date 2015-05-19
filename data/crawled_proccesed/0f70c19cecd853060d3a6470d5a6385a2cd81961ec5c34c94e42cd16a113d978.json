@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f70c19cecd853060d3a6470d5a6385a2cd81961ec5c34c94e42cd16a113d978",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/15px-Wikipedia-logo-v2.svg.png",
+			"previous": " Schleswig Holstein Schleswig Holstein Parliament North Sea Baltic Sea Coast Guard Quick start",
+			"after": " Related portals Portal Hamburg Portal Germany Portal Denmark Related portals Portal Hamburg Portal Germany Portal Denmark",
+			"color": "dark|0.23377 gray|0.23377 dark|0.23377 grey|0.23377 silver|0.22962 light|0.17972 gray|0.17972 light|0.17972 grey|0.17972 gainsboro|0.15024 gray|0.048013 grey|0.048013 white|0.037793 smoke|0.037793 linen|0.018371 lavender|0.017847 blush|0.017847 alice|0.017558 blue|0.017558 ghost|0.016768 white|0.016768 snow|0.014636 sea|0.014518 shell|0.014518 white|0.010122 dim|0.0056012 gray|0.0056012 dim|0.0056012 grey|0.0056012 mint|0.0048251 cream|0.0048251  ",
+			"after_weights": " Related|1 portals|0.93333 Portal|0.86667 Hamburg|0.8 Portal|0.73333 Germany|0.66667 Portal|0.6 Denmark|0.53333 Related|0.46667 portals|0.4 Portal|0.33333 Hamburg|0.26667 Portal|0.2 Germany|0.13333 Portal|0.066667 Denmark|0",
+			"previous_weights": " Schleswig|0 Holstein|0.083333 Schleswig|0.16667 Holstein|0.25 Parliament|0.33333 North|0.41667 Sea|0.5 Baltic|0.58333 Sea|0.66667 Coast|0.75 Guard|0.83333 Quick|0.91667 start|1"
+		}
+	}
+}

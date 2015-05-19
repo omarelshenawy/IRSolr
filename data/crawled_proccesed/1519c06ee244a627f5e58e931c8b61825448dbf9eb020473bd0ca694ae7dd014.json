@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1519c06ee244a627f5e58e931c8b61825448dbf9eb020473bd0ca694ae7dd014",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SurinamAirwaysMD-82.jpg/220px-SurinamAirwaysMD-82.jpg",
+			"previous": " As of September 2014 update the Surinam Airways fleet comprises the following aircraft 24  Surinam Airways operates scheduled services to the following destinations as of May 2015 update 20 Terminated destinations are also listed ",
+			"after": " Surinam Airways operated the following aircraft throughout its history 19 25 26  ",
+			"color": "dark|0.68099 gray|0.68099 dark|0.68099 grey|0.68099 silver|0.13122 gray|0.043049 grey|0.043049 light|0.013173 gray|0.013173 light|0.013173 grey|0.013173 dim|0.0098087 gray|0.0098087 dim|0.0098087 grey|0.0098087 gainsboro|0.0094319 white|0.0080619 smoke|0.0080619 snow|0.0064339 sea|0.0060694 shell|0.0060694 ghost|0.0058554 white|0.0058554 white|0.005627 alice|0.0056197 blue|0.0056197 mint|0.0054829 cream|0.0054829 floral|0.0052048 white|0.0052048 lavender|0.0046663 blush|0.0046663 azure|0.0044757 linen|0.0043255 black|0.0036322 light|0.0032959 steel|0.0032959 blue|0.0032959  ",
+			"after_weights": " Surinam|1 Airways|0.92308 operated|0.84615 the|0.76923 following|0.69231 aircraft|0.61538 throughout|0.53846 its|0.46154 history|0.38462 19|0.30769 25|0.23077 26|0.15385 |0.076923 |0",
+			"previous_weights": " As|0 of|0.028571 September|0.057143 2014|0.085714 update|0.11429 the|0.14286 Surinam|0.17143 Airways|0.2 fleet|0.22857 comprises|0.25714 the|0.28571 following|0.31429 aircraft|0.34286 24|0.37143 |0.4 Surinam|0.42857 Airways|0.45714 operates|0.48571 scheduled|0.51429 services|0.54286 to|0.57143 the|0.6 following|0.62857 destinations|0.65714 as|0.68571 of|0.71429 May|0.74286 2015|0.77143 update|0.8 20|0.82857 Terminated|0.85714 destinations|0.88571 are|0.91429 also|0.94286 listed|0.97143 |1"
+		}
+	}
+}

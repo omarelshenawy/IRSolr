@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "234b1da9875e374e3aac03fa07e15ada37452362d6f9d405715dfe556ac6579c",
+			"url": "https://upload.wikimedia.org/math/2/0/6/206e8845c07a2dd98f128c1e49544f82.png",
+			"previous": " In 1825 Bessel 16 derived an expansion of the meridian distance in terms of the parametric latitude in connection with his work on geodesics  The series can be expressed with either or as the initial factor by writing for example and expanding the result as a series in Even though this results in more slowly converging series such series are used in the specification for the transverse Mercator projection by the National Geospatial Intelligence Agency 14 and the Ordnance Survey of Great Britain 15 ",
+			"after": " with Because changes sign when and are interchanged and because the initial factor is constant under this interchange half the terms in the expansions of vanish ",
+			"color": "dim|0.43401 gray|0.43401 dim|0.43401 grey|0.43401 gray|0.27107 grey|0.27107 dark|0.15899 gray|0.15899 dark|0.15899 grey|0.15899 silver|0.066704 light|0.031049 gray|0.031049 light|0.031049 grey|0.031049 gainsboro|0.021651 white|0.004123 smoke|0.004123  ",
+			"after_weights": " with|1 Because|0.96154 changes|0.92308 sign|0.88462 when|0.84615 and|0.80769 are|0.76923 interchanged|0.73077 and|0.69231 because|0.65385 the|0.61538 initial|0.57692 factor|0.53846 is|0.5 constant|0.46154 under|0.42308 this|0.38462 interchange|0.34615 half|0.30769 the|0.26923 terms|0.23077 in|0.19231 the|0.15385 expansions|0.11538 of|0.076923 vanish|0.038462 |0",
+			"previous_weights": " In|0 1825|0.011765 Bessel|0.023529 16|0.035294 derived|0.047059 an|0.058824 expansion|0.070588 of|0.082353 the|0.094118 meridian|0.10588 distance|0.11765 in|0.12941 terms|0.14118 of|0.15294 the|0.16471 parametric|0.17647 latitude|0.18824 in|0.2 connection|0.21176 with|0.22353 his|0.23529 work|0.24706 on|0.25882 geodesics|0.27059 |0.28235 The|0.29412 series|0.30588 can|0.31765 be|0.32941 expressed|0.34118 with|0.35294 either|0.36471 or|0.37647 as|0.38824 the|0.4 initial|0.41176 factor|0.42353 by|0.43529 writing|0.44706 for|0.45882 example|0.47059 and|0.48235 expanding|0.49412 the|0.50588 result|0.51765 as|0.52941 a|0.54118 series|0.55294 in|0.56471 Even|0.57647 though|0.58824 this|0.6 results|0.61176 in|0.62353 more|0.63529 slowly|0.64706 converging|0.65882 series|0.67059 such|0.68235 series|0.69412 are|0.70588 used|0.71765 in|0.72941 the|0.74118 specification|0.75294 for|0.76471 the|0.77647 transverse|0.78824 Mercator|0.8 projection|0.81176 by|0.82353 the|0.83529 National|0.84706 Geospatial|0.85882 Intelligence|0.87059 Agency|0.88235 14|0.89412 and|0.90588 the|0.91765 Ordnance|0.92941 Survey|0.94118 of|0.95294 Great|0.96471 Britain|0.97647 15|0.98824 |1"
+		}
+	}
+}

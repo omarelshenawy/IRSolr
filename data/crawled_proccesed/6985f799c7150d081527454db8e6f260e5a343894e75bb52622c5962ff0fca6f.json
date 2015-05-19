@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6985f799c7150d081527454db8e6f260e5a343894e75bb52622c5962ff0fca6f",
+			"url": "https://upload.wikimedia.org/math/2/c/e/2ce00d6769a702069265f3aa89672045.png",
+			"previous": " If a spheroid is parameterized as The volume inside a spheroid of any kind is If A 2a is the equatorial diameter and C 2c is the polar diameter the volume is ",
+			"after": " and its mean curvature is Both of these curvatures are always positive so that every point on a spheroid is elliptic ",
+			"color": "dim|0.38205 gray|0.38205 dim|0.38205 grey|0.38205 gray|0.27564 grey|0.27564 dark|0.17278 gray|0.17278 dark|0.17278 grey|0.17278 silver|0.077728 light|0.04108 gray|0.04108 light|0.04108 grey|0.04108 gainsboro|0.029419 white|0.0048885 smoke|0.0048885  ",
+			"after_weights": " and|1 its|0.95238 mean|0.90476 curvature|0.85714 is|0.80952 Both|0.7619 of|0.71429 these|0.66667 curvatures|0.61905 are|0.57143 always|0.52381 positive|0.47619 so|0.42857 that|0.38095 every|0.33333 point|0.28571 on|0.2381 a|0.19048 spheroid|0.14286 is|0.095238 elliptic|0.047619 |0",
+			"previous_weights": " If|0 a|0.03125 spheroid|0.0625 is|0.09375 parameterized|0.125 as|0.15625 The|0.1875 volume|0.21875 inside|0.25 a|0.28125 spheroid|0.3125 of|0.34375 any|0.375 kind|0.40625 is|0.4375 If|0.46875 A|0.5 2a|0.53125 is|0.5625 the|0.59375 equatorial|0.625 diameter|0.65625 and|0.6875 C|0.71875 2c|0.75 is|0.78125 the|0.8125 polar|0.84375 diameter|0.875 the|0.90625 volume|0.9375 is|0.96875 |1"
+		}
+	}
+}

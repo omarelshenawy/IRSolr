@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "288a165b60452a863421614d524f966a84505a3f71d170a8dacdac79a90d2e9f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Margaret_Thatcher_coffin_at_St._Pauls_X8A2604.jpg/220px-Margaret_Thatcher_coffin_at_St._Pauls_X8A2604.jpg",
+			"previous": " Thatcher died on 8 April 2013 at the age of 87 after suffering a stroke She had been staying at a suite in the Ritz Hotel in London since December 2012 after having difficulty with stairs at her Chester Square home 245 ",
+			"after": " Reactions to the news of Thatcher s death were mixed in the UK ranging from tributes lauding her as Britain s greatest ever peacetime Prime Minister to public celebrations of her death and expressions of personalised vitriol 246 ",
+			"color": "black|0.67141 dim|0.086958 gray|0.086958 dim|0.086958 grey|0.086958 firebrick|0.060874 gray|0.02737 grey|0.02737 brown|0.026088 dark|0.01373 red|0.01373 maroon|0.013636 dark|0.013312 gray|0.013312 dark|0.013312 grey|0.013312 crimson|0.011012 slate|0.010446 gray|0.010446 silver|0.007821 rosy|0.0073682 brown|0.0073682 dark|0.0057398 slate|0.0057398 gray|0.0057398 light|0.0045138 gray|0.0045138 light|0.0045138 grey|0.0045138 light|0.0043384 slate|0.0043384 gray|0.0043384  ",
+			"after_weights": " Reactions|1 to|0.97368 the|0.94737 news|0.92105 of|0.89474 Thatcher|0.86842 s|0.84211 death|0.81579 were|0.78947 mixed|0.76316 in|0.73684 the|0.71053 UK|0.68421 ranging|0.65789 from|0.63158 tributes|0.60526 lauding|0.57895 her|0.55263 as|0.52632 Britain|0.5 s|0.47368 greatest|0.44737 ever|0.42105 peacetime|0.39474 Prime|0.36842 Minister|0.34211 to|0.31579 public|0.28947 celebrations|0.26316 of|0.23684 her|0.21053 death|0.18421 and|0.15789 expressions|0.13158 of|0.10526 personalised|0.078947 vitriol|0.052632 246|0.026316 |0",
+			"previous_weights": " Thatcher|0 died|0.02381 on|0.047619 8|0.071429 April|0.095238 2013|0.11905 at|0.14286 the|0.16667 age|0.19048 of|0.21429 87|0.2381 after|0.2619 suffering|0.28571 a|0.30952 stroke|0.33333 She|0.35714 had|0.38095 been|0.40476 staying|0.42857 at|0.45238 a|0.47619 suite|0.5 in|0.52381 the|0.54762 Ritz|0.57143 Hotel|0.59524 in|0.61905 London|0.64286 since|0.66667 December|0.69048 2012|0.71429 after|0.7381 having|0.7619 difficulty|0.78571 with|0.80952 stairs|0.83333 at|0.85714 her|0.88095 Chester|0.90476 Square|0.92857 home|0.95238 245|0.97619 |1"
+		}
+	}
+}

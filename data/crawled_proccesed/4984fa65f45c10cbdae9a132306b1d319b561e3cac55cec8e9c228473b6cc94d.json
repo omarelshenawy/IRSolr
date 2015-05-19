@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4984fa65f45c10cbdae9a132306b1d319b561e3cac55cec8e9c228473b6cc94d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Turbofan_operation.svg/220px-Turbofan_operation.svg.png",
+			"previous": " ",
+			"after": " The low specific thrust high bypass ratio turbofans used in today s civil jetliners and some military transport aircraft evolved from the high specific thrust low bypass ratio turbofans used in such production aircraft back in the 1960s ",
+			"color": "light|0.20662 gray|0.20662 light|0.20662 grey|0.20662 gainsboro|0.19722 misty|0.19498 rose|0.19498 dark|0.059956 gray|0.059956 dark|0.059956 grey|0.059956 light|0.049792 cyan|0.049792 pale|0.047712 turquoise|0.047712 dark|0.04382 olive|0.04382 green|0.04382 gray|0.041158 grey|0.041158 silver|0.034865 light|0.022844 pink|0.022844 powder|0.019013 blue|0.019013 rosy|0.016505 brown|0.016505 dim|0.016443 gray|0.016443 dim|0.016443 grey|0.016443 azure|0.011696 lavender|0.0057814 blush|0.0057814  ",
+			"after_weights": " The|1 low|0.97368 specific|0.94737 thrust|0.92105 high|0.89474 bypass|0.86842 ratio|0.84211 turbofans|0.81579 used|0.78947 in|0.76316 today|0.73684 s|0.71053 civil|0.68421 jetliners|0.65789 and|0.63158 some|0.60526 military|0.57895 transport|0.55263 aircraft|0.52632 evolved|0.5 from|0.47368 the|0.44737 high|0.42105 specific|0.39474 thrust|0.36842 low|0.34211 bypass|0.31579 ratio|0.28947 turbofans|0.26316 used|0.23684 in|0.21053 such|0.18421 production|0.15789 aircraft|0.13158 back|0.10526 in|0.078947 the|0.052632 1960s|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

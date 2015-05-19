@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de62fba8df37b9ec4ae565a6a31fa4d3867d00c03033433a4808c6b7e9d0b13",
+			"url": "https://upload.wikimedia.org/math/2/5/4/254426a8418662a6445d5fb77315c5a7.png",
+			"previous": " Note that this is a geometric series with the initial value being a C the multiplicative factor being 1 i with n terms Applying the formula for geometric series we get",
+			"after": " Another simple and intuitive way to derive the future value of an annuity is to consider an endowment whose interest is paid as the annuity and whose principal remains constant The principal of this hypothetical endowment can be computed as that whose interest equals the annuity payment amount ",
+			"color": "dim|0.4114 gray|0.4114 dim|0.4114 grey|0.4114 gray|0.28174 grey|0.28174 dark|0.17244 gray|0.17244 dark|0.17244 grey|0.17244 silver|0.067815 light|0.031516 gray|0.031516 light|0.031516 grey|0.031516 gainsboro|0.021487 white|0.0038259 smoke|0.0038259  ",
+			"after_weights": " Another|1 simple|0.97917 and|0.95833 intuitive|0.9375 way|0.91667 to|0.89583 derive|0.875 the|0.85417 future|0.83333 value|0.8125 of|0.79167 an|0.77083 annuity|0.75 is|0.72917 to|0.70833 consider|0.6875 an|0.66667 endowment|0.64583 whose|0.625 interest|0.60417 is|0.58333 paid|0.5625 as|0.54167 the|0.52083 annuity|0.5 and|0.47917 whose|0.45833 principal|0.4375 remains|0.41667 constant|0.39583 The|0.375 principal|0.35417 of|0.33333 this|0.3125 hypothetical|0.29167 endowment|0.27083 can|0.25 be|0.22917 computed|0.20833 as|0.1875 that|0.16667 whose|0.14583 interest|0.125 equals|0.10417 the|0.083333 annuity|0.0625 payment|0.041667 amount|0.020833 |0",
+			"previous_weights": " Note|0 that|0.033333 this|0.066667 is|0.1 a|0.13333 geometric|0.16667 series|0.2 with|0.23333 the|0.26667 initial|0.3 value|0.33333 being|0.36667 a|0.4 C|0.43333 the|0.46667 multiplicative|0.5 factor|0.53333 being|0.56667 1|0.6 i|0.63333 with|0.66667 n|0.7 terms|0.73333 Applying|0.76667 the|0.8 formula|0.83333 for|0.86667 geometric|0.9 series|0.93333 we|0.96667 get|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "87f7f992c3615e6a5e3eebd108341a5d50cfa8f801cea2bbb6642fa83e63e66b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png",
+			"previous": " Free software license ",
+			"after": " Note if the screenshot shows any work that is not a direct result of the program code itself such as a text or graphics that are not part of the program the license for that work must be indicated separately ",
+			"color": "black|0.82462 dim|0.11778 gray|0.11778 dim|0.11778 grey|0.11778 gray|0.051709 grey|0.051709 dark|0.0057455 gray|0.0057455 dark|0.0057455 grey|0.0057455  ",
+			"after_weights": " Note|1 if|0.975 the|0.95 screenshot|0.925 shows|0.9 any|0.875 work|0.85 that|0.825 is|0.8 not|0.775 a|0.75 direct|0.725 result|0.7 of|0.675 the|0.65 program|0.625 code|0.6 itself|0.575 such|0.55 as|0.525 a|0.5 text|0.475 or|0.45 graphics|0.425 that|0.4 are|0.375 not|0.35 part|0.325 of|0.3 the|0.275 program|0.25 the|0.225 license|0.2 for|0.175 that|0.15 work|0.125 must|0.1 be|0.075 indicated|0.05 separately|0.025 |0",
+			"previous_weights": " Free|0 software|0.33333 license|0.66667 |1"
+		}
+	}
+}

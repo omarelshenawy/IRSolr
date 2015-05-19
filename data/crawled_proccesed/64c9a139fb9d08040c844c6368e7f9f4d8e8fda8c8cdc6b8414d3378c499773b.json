@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64c9a139fb9d08040c844c6368e7f9f4d8e8fda8c8cdc6b8414d3378c499773b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LOC_Main_Reading_Room_Highsmith.jpg/220px-LOC_Main_Reading_Room_Highsmith.jpg",
+			"previous": " Churches courtrooms legislatures and meeting halls may identify individual rows seats or sections but do not normally assign aisle numbers or display signs regarding aisles ",
+			"after": " Libraries are commonly divided into several areas ",
+			"color": "black|0.39037 dim|0.2524 gray|0.2524 dim|0.2524 grey|0.2524 gray|0.1302 grey|0.1302 dark|0.049463 gray|0.049463 dark|0.049463 grey|0.049463 tan|0.026472 silver|0.01754 saddle|0.015121 brown|0.015121  ",
+			"after_weights": " Libraries|1 are|0.85714 commonly|0.71429 divided|0.57143 into|0.42857 several|0.28571 areas|0.14286 |0",
+			"previous_weights": " Churches|0 courtrooms|0.04 legislatures|0.08 and|0.12 meeting|0.16 halls|0.2 may|0.24 identify|0.28 individual|0.32 rows|0.36 seats|0.4 or|0.44 sections|0.48 but|0.52 do|0.56 not|0.6 normally|0.64 assign|0.68 aisle|0.72 numbers|0.76 or|0.8 display|0.84 signs|0.88 regarding|0.92 aisles|0.96 |1"
+		}
+	}
+}

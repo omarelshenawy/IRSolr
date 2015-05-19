@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2585daeb1e8117af6f9382bbc157b677f5f5d1e57fe166c5aee03d05422d607e",
+			"url": "https://upload.wikimedia.org/math/5/5/d/55d59d5de0eca2f24e7081b21d9d0253.png",
+			"previous": " Parity is also preserved For electric multipole transitions and",
+			"after": " while for magnetic multipoles Thus parity does not change for E even or M odd multipoles while it changes for E odd or M even multipoles ",
+			"color": "dim|0.41825 gray|0.41825 dim|0.41825 grey|0.41825 gray|0.27764 grey|0.27764 dark|0.15869 gray|0.15869 dark|0.15869 grey|0.15869 silver|0.068528 light|0.034758 gray|0.034758 light|0.034758 grey|0.034758 gainsboro|0.024522 white|0.0041129 smoke|0.0041129  ",
+			"after_weights": " while|1 for|0.96154 magnetic|0.92308 multipoles|0.88462 Thus|0.84615 parity|0.80769 does|0.76923 not|0.73077 change|0.69231 for|0.65385 E|0.61538 even|0.57692 or|0.53846 M|0.5 odd|0.46154 multipoles|0.42308 while|0.38462 it|0.34615 changes|0.30769 for|0.26923 E|0.23077 odd|0.19231 or|0.15385 M|0.11538 even|0.076923 multipoles|0.038462 |0",
+			"previous_weights": " Parity|0 is|0.125 also|0.25 preserved|0.375 For|0.5 electric|0.625 multipole|0.75 transitions|0.875 and|1"
+		}
+	}
+}

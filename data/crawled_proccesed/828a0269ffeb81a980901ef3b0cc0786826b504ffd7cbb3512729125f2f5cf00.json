@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "828a0269ffeb81a980901ef3b0cc0786826b504ffd7cbb3512729125f2f5cf00",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ByzantineEmpire867AD4lightpurple.PNG/400px-ByzantineEmpire867AD4lightpurple.PNG",
+			"previous": " ",
+			"after": " The accession of Basil I to the throne in 867 marks the beginning of the Macedonian dynasty which would rule for the next two and a half centuries This dynasty included some of the most able emperors in Byzantium s history and the period is one of revival and resurgence The Empire moved from defending against external enemies to reconquest of territories formerly lost 71 ",
+			"color": "dim|0.30387 gray|0.30387 dim|0.30387 grey|0.30387 gray|0.2746 grey|0.2746 dark|0.20703 gray|0.20703 dark|0.20703 grey|0.20703 silver|0.08957 black|0.052632 thistle|0.029742 light|0.02085 gray|0.02085 light|0.02085 grey|0.02085  ",
+			"after_weights": " The|1 accession|0.98462 of|0.96923 Basil|0.95385 I|0.93846 to|0.92308 the|0.90769 throne|0.89231 in|0.87692 867|0.86154 marks|0.84615 the|0.83077 beginning|0.81538 of|0.8 the|0.78462 Macedonian|0.76923 dynasty|0.75385 which|0.73846 would|0.72308 rule|0.70769 for|0.69231 the|0.67692 next|0.66154 two|0.64615 and|0.63077 a|0.61538 half|0.6 centuries|0.58462 This|0.56923 dynasty|0.55385 included|0.53846 some|0.52308 of|0.50769 the|0.49231 most|0.47692 able|0.46154 emperors|0.44615 in|0.43077 Byzantium|0.41538 s|0.4 history|0.38462 and|0.36923 the|0.35385 period|0.33846 is|0.32308 one|0.30769 of|0.29231 revival|0.27692 and|0.26154 resurgence|0.24615 The|0.23077 Empire|0.21538 moved|0.2 from|0.18462 defending|0.16923 against|0.15385 external|0.13846 enemies|0.12308 to|0.10769 reconquest|0.092308 of|0.076923 territories|0.061538 formerly|0.046154 lost|0.030769 71|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "804ae2f57a98e794f0cd883fabebe830136bc7d38cd5849a74ab3baf6d584ff5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piper_Cub_cockpit.jpg/300px-Piper_Cub_cockpit.jpg",
+			"previous": " The aircraft has been popular with flying schools especially from the pre World War II existence of the Civilian Pilot Training Program using them in the United States and remains so with private individuals into the 21st century ",
+			"after": " Data from The Piper Cub Story 34  General characteristics Performance",
+			"color": "black|0.89278 dim|0.055039 gray|0.055039 dim|0.055039 grey|0.055039 gray|0.019905 grey|0.019905 dark|0.0089323 gray|0.0089323 dark|0.0089323 grey|0.0089323  ",
+			"after_weights": " Data|1 from|0.9 The|0.8 Piper|0.7 Cub|0.6 Story|0.5 34|0.4 |0.3 General|0.2 characteristics|0.1 Performance|0",
+			"previous_weights": " The|0 aircraft|0.026316 has|0.052632 been|0.078947 popular|0.10526 with|0.13158 flying|0.15789 schools|0.18421 especially|0.21053 from|0.23684 the|0.26316 pre|0.28947 World|0.31579 War|0.34211 II|0.36842 existence|0.39474 of|0.42105 the|0.44737 Civilian|0.47368 Pilot|0.5 Training|0.52632 Program|0.55263 using|0.57895 them|0.60526 in|0.63158 the|0.65789 United|0.68421 States|0.71053 and|0.73684 remains|0.76316 so|0.78947 with|0.81579 private|0.84211 individuals|0.86842 into|0.89474 the|0.92105 21st|0.94737 century|0.97368 |1"
+		}
+	}
+}

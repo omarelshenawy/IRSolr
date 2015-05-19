@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "74326328c3a8f75daafd3cc91750f06efcb495fb99184d88d954bf047c073ed0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Slovakia_Bojnice_Castle_2004_hires.jpg/375px-Slovakia_Bojnice_Castle_2004_hires.jpg",
+			"previous": " ",
+			"after": " Bojnice Castle is a castle in Bojnice Slovakia It hosts the single most popular museum in Slovakia and has been featured in many movies Bojnice Castle was first mentioned in written records in 1113 in a document held at the Zobor abbey Originally built as a wooden fort it was gradually replaced by stone with the outer walls being shaped according to the uneven rocky terrain ",
+			"color": "black|0.67029 gray|0.14342 grey|0.14342 dim|0.1143 gray|0.1143 dim|0.1143 grey|0.1143 dark|0.034562 gray|0.034562 dark|0.034562 grey|0.034562 dark|0.016898 slate|0.016898 gray|0.016898 silver|0.0062579  ",
+			"after_weights": " Bojnice|1 Castle|0.98485 is|0.9697 a|0.95455 castle|0.93939 in|0.92424 Bojnice|0.90909 Slovakia|0.89394 It|0.87879 hosts|0.86364 the|0.84848 single|0.83333 most|0.81818 popular|0.80303 museum|0.78788 in|0.77273 Slovakia|0.75758 and|0.74242 has|0.72727 been|0.71212 featured|0.69697 in|0.68182 many|0.66667 movies|0.65152 Bojnice|0.63636 Castle|0.62121 was|0.60606 first|0.59091 mentioned|0.57576 in|0.56061 written|0.54545 records|0.5303 in|0.51515 1113|0.5 in|0.48485 a|0.4697 document|0.45455 held|0.43939 at|0.42424 the|0.40909 Zobor|0.39394 abbey|0.37879 Originally|0.36364 built|0.34848 as|0.33333 a|0.31818 wooden|0.30303 fort|0.28788 it|0.27273 was|0.25758 gradually|0.24242 replaced|0.22727 by|0.21212 stone|0.19697 with|0.18182 the|0.16667 outer|0.15152 walls|0.13636 being|0.12121 shaped|0.10606 according|0.090909 to|0.075758 the|0.060606 uneven|0.045455 rocky|0.030303 terrain|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

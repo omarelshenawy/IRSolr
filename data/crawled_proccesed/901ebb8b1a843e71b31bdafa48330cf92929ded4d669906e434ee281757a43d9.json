@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "901ebb8b1a843e71b31bdafa48330cf92929ded4d669906e434ee281757a43d9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DigiGes_PRISM05.jpg/220px-DigiGes_PRISM05.jpg",
+			"previous": " ",
+			"after": " In September 2013 The Indian Express reported that Yahoo received 29 thousand requests for information about users from governments in the first six months of 2013 Over 12 thousand of the requests came from the United States 91 ",
+			"color": "gray|0.24657 grey|0.24657 dim|0.20725 gray|0.20725 dim|0.20725 grey|0.20725 light|0.12126 slate|0.12126 gray|0.12126 slate|0.11355 gray|0.11355 dark|0.10368 gray|0.10368 dark|0.10368 grey|0.10368 black|0.088436 firebrick|0.077034 brown|0.010903 dark|0.010041 red|0.010041 silver|0.0083574  ",
+			"after_weights": " In|1 September|0.97368 2013|0.94737 The|0.92105 Indian|0.89474 Express|0.86842 reported|0.84211 that|0.81579 Yahoo|0.78947 received|0.76316 29|0.73684 thousand|0.71053 requests|0.68421 for|0.65789 information|0.63158 about|0.60526 users|0.57895 from|0.55263 governments|0.52632 in|0.5 the|0.47368 first|0.44737 six|0.42105 months|0.39474 of|0.36842 2013|0.34211 Over|0.31579 12|0.28947 thousand|0.26316 of|0.23684 the|0.21053 requests|0.18421 came|0.15789 from|0.13158 the|0.10526 United|0.078947 States|0.052632 91|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

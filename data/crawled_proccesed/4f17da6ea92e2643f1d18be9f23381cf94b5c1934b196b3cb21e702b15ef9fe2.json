@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f17da6ea92e2643f1d18be9f23381cf94b5c1934b196b3cb21e702b15ef9fe2",
+			"url": "https://upload.wikimedia.org/math/4/b/f/4bfc0670100e61afa3223ab8e2af618e.png",
+			"previous": " For example the 2 2 matrix",
+			"after": " The following table shows a number of 2 by 2 matrices with the associated linear maps of R2 The blue original is mapped to the green grid and shapes The origin 0 0 is marked with a black point ",
+			"color": "dark|0.2004 gray|0.2004 dark|0.2004 grey|0.2004 silver|0.17208 dim|0.16654 gray|0.16654 dim|0.16654 grey|0.16654 light|0.15367 gray|0.15367 light|0.15367 grey|0.15367 gainsboro|0.096164 gray|0.089124 grey|0.089124 white|0.045371 smoke|0.045371 linen|0.01176 lavender|0.011194 blush|0.011194 alice|0.010892 blue|0.010892 ghost|0.010766 white|0.010766 sea|0.010658 shell|0.010658 snow|0.010658 white|0.010574  ",
+			"after_weights": " The|1 following|0.97436 table|0.94872 shows|0.92308 a|0.89744 number|0.87179 of|0.84615 2|0.82051 by|0.79487 2|0.76923 matrices|0.74359 with|0.71795 the|0.69231 associated|0.66667 linear|0.64103 maps|0.61538 of|0.58974 R2|0.5641 The|0.53846 blue|0.51282 original|0.48718 is|0.46154 mapped|0.4359 to|0.41026 the|0.38462 green|0.35897 grid|0.33333 and|0.30769 shapes|0.28205 The|0.25641 origin|0.23077 0|0.20513 0|0.17949 is|0.15385 marked|0.12821 with|0.10256 a|0.076923 black|0.051282 point|0.025641 |0",
+			"previous_weights": " For|0 example|0.2 the|0.4 2|0.6 2|0.8 matrix|1"
+		}
+	}
+}

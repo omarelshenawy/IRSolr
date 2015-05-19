@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d6b05daf38e9ab84a2900353510126ffd5e0e36669b964f489b7b906dd08567",
+			"url": "https://upload.wikimedia.org/math/2/4/5/245545be5020f92b961e187b48d93d61.png",
+			"previous": " where and are arbitrary If we set the first variation for the ratio is The variational problem also applies to more general boundary conditions Instead of requiring that vanish at the endpoints we may not impose any condition at the endpoints and set",
+			"after": " where is given by the ratio as previously After integration by parts  If we first require that v vanish at the endpoints the first variation will vanish for all such v only if",
+			"color": "dim|0.33533 gray|0.33533 dim|0.33533 grey|0.33533 gray|0.29218 grey|0.29218 dark|0.19066 gray|0.19066 dark|0.19066 grey|0.19066 silver|0.086864 light|0.043685 gray|0.043685 light|0.043685 grey|0.043685 gainsboro|0.031403 white|0.0052239 smoke|0.0052239 linen|0.0030706  ",
+			"after_weights": " where|1 is|0.9697 given|0.93939 by|0.90909 the|0.87879 ratio|0.84848 as|0.81818 previously|0.78788 After|0.75758 integration|0.72727 by|0.69697 parts|0.66667 |0.63636 If|0.60606 we|0.57576 first|0.54545 require|0.51515 that|0.48485 v|0.45455 vanish|0.42424 at|0.39394 the|0.36364 endpoints|0.33333 the|0.30303 first|0.27273 variation|0.24242 will|0.21212 vanish|0.18182 for|0.15152 all|0.12121 such|0.090909 v|0.060606 only|0.030303 if|0",
+			"previous_weights": " where|0 and|0.02381 are|0.047619 arbitrary|0.071429 If|0.095238 we|0.11905 set|0.14286 the|0.16667 first|0.19048 variation|0.21429 for|0.2381 the|0.2619 ratio|0.28571 is|0.30952 The|0.33333 variational|0.35714 problem|0.38095 also|0.40476 applies|0.42857 to|0.45238 more|0.47619 general|0.5 boundary|0.52381 conditions|0.54762 Instead|0.57143 of|0.59524 requiring|0.61905 that|0.64286 vanish|0.66667 at|0.69048 the|0.71429 endpoints|0.7381 we|0.7619 may|0.78571 not|0.80952 impose|0.83333 any|0.85714 condition|0.88095 at|0.90476 the|0.92857 endpoints|0.95238 and|0.97619 set|1"
+		}
+	}
+}

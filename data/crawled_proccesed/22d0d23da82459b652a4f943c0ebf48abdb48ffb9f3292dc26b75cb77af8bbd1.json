@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22d0d23da82459b652a4f943c0ebf48abdb48ffb9f3292dc26b75cb77af8bbd1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Airport_jetway_gate.ogv/220px--Airport_jetway_gate.ogv.jpg",
+			"previous": " ",
+			"after": " Before the introduction of jet bridges passengers normally boarded an aircraft by walking along the ground level ramp and climbing a set of movable stairs or up airstairs on aircraft so equipped Mobile staircases or ramp stairs are employed at many airports around the world particularly smaller airports and terminals supporting low cost carriers ",
+			"color": "dark|0.4395 slate|0.4395 gray|0.4395 black|0.18903 dim|0.11839 gray|0.11839 dim|0.11839 grey|0.11839 gray|0.10965 grey|0.10965 cadet|0.026769 blue|0.026769 dark|0.023502 gray|0.023502 dark|0.023502 grey|0.023502 powder|0.01438 blue|0.01438  ",
+			"after_weights": " Before|1 the|0.98148 introduction|0.96296 of|0.94444 jet|0.92593 bridges|0.90741 passengers|0.88889 normally|0.87037 boarded|0.85185 an|0.83333 aircraft|0.81481 by|0.7963 walking|0.77778 along|0.75926 the|0.74074 ground|0.72222 level|0.7037 ramp|0.68519 and|0.66667 climbing|0.64815 a|0.62963 set|0.61111 of|0.59259 movable|0.57407 stairs|0.55556 or|0.53704 up|0.51852 airstairs|0.5 on|0.48148 aircraft|0.46296 so|0.44444 equipped|0.42593 Mobile|0.40741 staircases|0.38889 or|0.37037 ramp|0.35185 stairs|0.33333 are|0.31481 employed|0.2963 at|0.27778 many|0.25926 airports|0.24074 around|0.22222 the|0.2037 world|0.18519 particularly|0.16667 smaller|0.14815 airports|0.12963 and|0.11111 terminals|0.092593 supporting|0.074074 low|0.055556 cost|0.037037 carriers|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12bb631db97b9c2663c26e33ba3bf54d5f93cfa983ed1e9174d6495b4813c89a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tupoljev_Tu-104.svg/300px-Tupoljev_Tu-104.svg.png",
+			"previous": " According to the American Flight Safety Foundation between 1958 and 1981 16 Tu 104s were lost in crashes out of 37 aircraft written off hull loss rate 18 Noted incidents include ",
+			"after": " Data from 4  General characteristics",
+			"color": "silver|0.11354 dark|0.1112 gray|0.1112 dark|0.1112 grey|0.1112 light|0.10247 gray|0.10247 light|0.10247 grey|0.10247 gainsboro|0.088217 white|0.070362 smoke|0.070362 alice|0.055364 blue|0.055364 ghost|0.054701 white|0.054701 sea|0.053868 shell|0.053868 snow|0.053467 white|0.050446 lavender|0.049748 blush|0.049748 mint|0.046407 cream|0.046407 floral|0.041467 white|0.041467 azure|0.038873 gray|0.03793 grey|0.03793 linen|0.019134 dim|0.0068919 gray|0.0068919 dim|0.0068919 grey|0.0068919 ivory|0.0059156  ",
+			"after_weights": " Data|1 from|0.8 4|0.6 |0.4 General|0.2 characteristics|0",
+			"previous_weights": " According|0 to|0.032258 the|0.064516 American|0.096774 Flight|0.12903 Safety|0.16129 Foundation|0.19355 between|0.22581 1958|0.25806 and|0.29032 1981|0.32258 16|0.35484 Tu|0.3871 104s|0.41935 were|0.45161 lost|0.48387 in|0.51613 crashes|0.54839 out|0.58065 of|0.6129 37|0.64516 aircraft|0.67742 written|0.70968 off|0.74194 hull|0.77419 loss|0.80645 rate|0.83871 18|0.87097 Noted|0.90323 incidents|0.93548 include|0.96774 |1"
+		}
+	}
+}

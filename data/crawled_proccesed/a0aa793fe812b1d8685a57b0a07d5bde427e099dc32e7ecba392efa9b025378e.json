@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0aa793fe812b1d8685a57b0a07d5bde427e099dc32e7ecba392efa9b025378e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Yang_Liwei.jpg/170px-Yang_Liwei.jpg",
+			"previous": " ",
+			"after": " The first human in space was Soviet Yuri Gagarin who was launched on April 12 1961 aboard Vostok 1 and orbited around the Earth for 108 minutes The first woman in space was Soviet Valentina Tereshkova who launched on June 16 1963 aboard Vostok 6 and orbited Earth for almost three days ",
+			"color": "rosy|0.2823 brown|0.2823 black|0.13681 dark|0.12957 gray|0.12957 dark|0.12957 grey|0.12957 silver|0.1001 dim|0.064253 gray|0.064253 dim|0.064253 grey|0.064253 light|0.060785 gray|0.060785 light|0.060785 grey|0.060785 thistle|0.04834 gray|0.046903 grey|0.046903 gainsboro|0.031153 slate|0.019216 gray|0.019216  ",
+			"after_weights": " The|1 first|0.98077 human|0.96154 in|0.94231 space|0.92308 was|0.90385 Soviet|0.88462 Yuri|0.86538 Gagarin|0.84615 who|0.82692 was|0.80769 launched|0.78846 on|0.76923 April|0.75 12|0.73077 1961|0.71154 aboard|0.69231 Vostok|0.67308 1|0.65385 and|0.63462 orbited|0.61538 around|0.59615 the|0.57692 Earth|0.55769 for|0.53846 108|0.51923 minutes|0.5 The|0.48077 first|0.46154 woman|0.44231 in|0.42308 space|0.40385 was|0.38462 Soviet|0.36538 Valentina|0.34615 Tereshkova|0.32692 who|0.30769 launched|0.28846 on|0.26923 June|0.25 16|0.23077 1963|0.21154 aboard|0.19231 Vostok|0.17308 6|0.15385 and|0.13462 orbited|0.11538 Earth|0.096154 for|0.076923 almost|0.057692 three|0.038462 days|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

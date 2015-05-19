@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/La_Reconquista_de_Buenos_Aires.jpg/200px-La_Reconquista_de_Buenos_Aires.jpg",
 			"previous": " ",
 			"after": " Europeans first arrived in the region with the 1502 voyage of Amerigo Vespucci The Spanish navigators Juan D az de Sol s and Sebastian Cabot visited the territory that is now Argentina in 1516 and 1526 respectively 11 In 1536 Pedro de Mendoza founded the small settlement of Buenos Aires which was abandoned in 1541 32 ",
+			"color": "black|0.21615 burly|0.18907 wood|0.18907 dim|0.11083 gray|0.11083 dim|0.11083 grey|0.11083 tan|0.093083 indian|0.057153 red|0.057153 dark|0.051875 khaki|0.051875 dark|0.047049 slate|0.047049 gray|0.047049 sienna|0.043229 dark|0.032372 salmon|0.032372  ",
 			"after_weights": " Europeans|1 first|0.98214 arrived|0.96429 in|0.94643 the|0.92857 region|0.91071 with|0.89286 the|0.875 1502|0.85714 voyage|0.83929 of|0.82143 Amerigo|0.80357 Vespucci|0.78571 The|0.76786 Spanish|0.75 navigators|0.73214 Juan|0.71429 D|0.69643 az|0.67857 de|0.66071 Sol|0.64286 s|0.625 and|0.60714 Sebastian|0.58929 Cabot|0.57143 visited|0.55357 the|0.53571 territory|0.51786 that|0.5 is|0.48214 now|0.46429 Argentina|0.44643 in|0.42857 1516|0.41071 and|0.39286 1526|0.375 respectively|0.35714 11|0.33929 In|0.32143 1536|0.30357 Pedro|0.28571 de|0.26786 Mendoza|0.25 founded|0.23214 the|0.21429 small|0.19643 settlement|0.17857 of|0.16071 Buenos|0.14286 Aires|0.125 which|0.10714 was|0.089286 abandoned|0.071429 in|0.053571 1541|0.035714 32|0.017857 |0",
 			"previous_weights": " "
 		}

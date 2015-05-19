@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a1309c4c4753e10b73c24c86d27a44b9a66349b8c2db534c0f7976d99b78bcb",
+			"url": "https://upload.wikimedia.org/math/7/a/a/7aa9dd2582bda438a9c010a77332dd2a.png",
+			"previous": " Since we expect oscillatory motion of a normal mode where is the same for both masses we try  If we denote acceleration the second derivative of x t with respect to time as the equations of motion are ",
+			"after": " Substituting these into the equations of motion gives us  Since the exponential factor is common to all terms we omit it and simplify ",
+			"color": "dim|0.39298 gray|0.39298 dim|0.39298 grey|0.39298 gray|0.28223 grey|0.28223 dark|0.17393 gray|0.17393 dark|0.17393 grey|0.17393 silver|0.076082 light|0.037442 gray|0.037442 light|0.037442 grey|0.037442 gainsboro|0.025087 white|0.0030708 smoke|0.0030708  ",
+			"after_weights": " Substituting|1 these|0.95833 into|0.91667 the|0.875 equations|0.83333 of|0.79167 motion|0.75 gives|0.70833 us|0.66667 |0.625 Since|0.58333 the|0.54167 exponential|0.5 factor|0.45833 is|0.41667 common|0.375 to|0.33333 all|0.29167 terms|0.25 we|0.20833 omit|0.16667 it|0.125 and|0.083333 simplify|0.041667 |0",
+			"previous_weights": " Since|0 we|0.025641 expect|0.051282 oscillatory|0.076923 motion|0.10256 of|0.12821 a|0.15385 normal|0.17949 mode|0.20513 where|0.23077 is|0.25641 the|0.28205 same|0.30769 for|0.33333 both|0.35897 masses|0.38462 we|0.41026 try|0.4359 |0.46154 If|0.48718 we|0.51282 denote|0.53846 acceleration|0.5641 the|0.58974 second|0.61538 derivative|0.64103 of|0.66667 x|0.69231 t|0.71795 with|0.74359 respect|0.76923 to|0.79487 time|0.82051 as|0.84615 the|0.87179 equations|0.89744 of|0.92308 motion|0.94872 are|0.97436 |1"
+		}
+	}
+}

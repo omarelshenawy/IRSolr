@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dd953b1ffc09e00e633b65448b40e4a660459168332805bb8acbff76c5fef7f",
+			"url": "https://upload.wikimedia.org/math/f/2/8/f28ee8573390c11378d08c860a79a761.png",
+			"previous": " or",
+			"after": " This term can then define the residual enzymatic activity present when the inhibitor is interacting with individual enzymes in the population However the inclusion of this term has the added value of allowing for the possibility of activation if the secondary Vmax term turns out to be higher than the initial term To account for the possibly of activation as well the notation can then be rewritten replacing the inhibitor I with a modifier term denoted here as X ",
+			"color": "dim|0.37193 gray|0.37193 dim|0.37193 grey|0.37193 gray|0.23635 grey|0.23635 dark|0.14807 gray|0.14807 dark|0.14807 grey|0.14807 black|0.079843 silver|0.071059 light|0.038567 gray|0.038567 light|0.038567 grey|0.038567 gainsboro|0.029581 white|0.00551 smoke|0.00551 linen|0.0043548  ",
+			"after_weights": " This|1 term|0.98734 can|0.97468 then|0.96203 define|0.94937 the|0.93671 residual|0.92405 enzymatic|0.91139 activity|0.89873 present|0.88608 when|0.87342 the|0.86076 inhibitor|0.8481 is|0.83544 interacting|0.82278 with|0.81013 individual|0.79747 enzymes|0.78481 in|0.77215 the|0.75949 population|0.74684 However|0.73418 the|0.72152 inclusion|0.70886 of|0.6962 this|0.68354 term|0.67089 has|0.65823 the|0.64557 added|0.63291 value|0.62025 of|0.60759 allowing|0.59494 for|0.58228 the|0.56962 possibility|0.55696 of|0.5443 activation|0.53165 if|0.51899 the|0.50633 secondary|0.49367 Vmax|0.48101 term|0.46835 turns|0.4557 out|0.44304 to|0.43038 be|0.41772 higher|0.40506 than|0.39241 the|0.37975 initial|0.36709 term|0.35443 To|0.34177 account|0.32911 for|0.31646 the|0.3038 possibly|0.29114 of|0.27848 activation|0.26582 as|0.25316 well|0.24051 the|0.22785 notation|0.21519 can|0.20253 then|0.18987 be|0.17722 rewritten|0.16456 replacing|0.1519 the|0.13924 inhibitor|0.12658 I|0.11392 with|0.10127 a|0.088608 modifier|0.075949 term|0.063291 denoted|0.050633 here|0.037975 as|0.025316 X|0.012658 |0",
+			"previous_weights": " or|1"
+		}
+	}
+}

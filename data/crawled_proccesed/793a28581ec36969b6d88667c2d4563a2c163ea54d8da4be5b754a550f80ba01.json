@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "793a28581ec36969b6d88667c2d4563a2c163ea54d8da4be5b754a550f80ba01",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edited_comparing_efficiencies.png/400px-Edited_comparing_efficiencies.png",
+			"previous": " Condition of maximum blade efficiency  Therefore the blade efficiency is given by Work done for unit mass flow per second   ",
+			"after": " If then  For maximum efficiency we get  and this finally gives Therefore is found by putting the value of in the expression of blade efficiency",
+			"color": "dim|0.07077 gray|0.07077 dim|0.07077 grey|0.07077 gray|0.067143 grey|0.067143 yellow|0.056371 green|0.056371 sea|0.052278 shell|0.052278 floral|0.051952 white|0.051952 white|0.051766 smoke|0.051766 white|0.051405 snow|0.051377 mint|0.050948 cream|0.050948 ghost|0.050234 white|0.050234 alice|0.049068 blue|0.049068 azure|0.049012 lavender|0.046254 blush|0.046254 dark|0.033823 gray|0.033823 dark|0.033823 grey|0.033823 light|0.025083 steel|0.025083 blue|0.025083 tan|0.024192 light|0.023794 slate|0.023794 gray|0.023794 misty|0.021986 rose|0.021986 slate|0.017764 gray|0.017764 steel|0.014421 blue|0.014421 light|0.014338 golden|0.014338 rod|0.014338 yellow|0.014338 black|0.013896 burly|0.011148 wood|0.011148 silver|0.010619 ivory|0.0086059 gainsboro|0.0062453 linen|0.0061301  ",
+			"after_weights": " If|1 then|0.96154 |0.92308 For|0.88462 maximum|0.84615 efficiency|0.80769 we|0.76923 get|0.73077 |0.69231 and|0.65385 this|0.61538 finally|0.57692 gives|0.53846 Therefore|0.5 is|0.46154 found|0.42308 by|0.38462 putting|0.34615 the|0.30769 value|0.26923 of|0.23077 in|0.19231 the|0.15385 expression|0.11538 of|0.076923 blade|0.038462 efficiency|0",
+			"previous_weights": " Condition|0 of|0.043478 maximum|0.086957 blade|0.13043 efficiency|0.17391 |0.21739 Therefore|0.26087 the|0.30435 blade|0.34783 efficiency|0.3913 is|0.43478 given|0.47826 by|0.52174 Work|0.56522 done|0.6087 for|0.65217 unit|0.69565 mass|0.73913 flow|0.78261 per|0.82609 second|0.86957 |0.91304 |0.95652 |1"
+		}
+	}
+}

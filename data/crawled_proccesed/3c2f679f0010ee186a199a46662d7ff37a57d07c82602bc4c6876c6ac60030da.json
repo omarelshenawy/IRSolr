@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c2f679f0010ee186a199a46662d7ff37a57d07c82602bc4c6876c6ac60030da",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Distance_between_sets.svg/220px-Distance_between_sets.svg.png",
+			"previous": " ",
+			"after": " Various distance definitions are possible between objects For example between celestial bodies one should not confuse the surface to surface distance and the center to center distance If the former is much less than the latter as for a LEO the first tends to be quoted altitude otherwise e g for the Earth Moon distance the latter ",
+			"color": "black|0.65291 gray|0.19552 grey|0.19552 dim|0.11738 gray|0.11738 dim|0.11738 grey|0.11738 dark|0.033374 gray|0.033374 dark|0.033374 grey|0.033374  ",
+			"after_weights": " Various|1 distance|0.98246 definitions|0.96491 are|0.94737 possible|0.92982 between|0.91228 objects|0.89474 For|0.87719 example|0.85965 between|0.84211 celestial|0.82456 bodies|0.80702 one|0.78947 should|0.77193 not|0.75439 confuse|0.73684 the|0.7193 surface|0.70175 to|0.68421 surface|0.66667 distance|0.64912 and|0.63158 the|0.61404 center|0.59649 to|0.57895 center|0.5614 distance|0.54386 If|0.52632 the|0.50877 former|0.49123 is|0.47368 much|0.45614 less|0.4386 than|0.42105 the|0.40351 latter|0.38596 as|0.36842 for|0.35088 a|0.33333 LEO|0.31579 the|0.29825 first|0.2807 tends|0.26316 to|0.24561 be|0.22807 quoted|0.21053 altitude|0.19298 otherwise|0.17544 e|0.15789 g|0.14035 for|0.12281 the|0.10526 Earth|0.087719 Moon|0.070175 distance|0.052632 the|0.035088 latter|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

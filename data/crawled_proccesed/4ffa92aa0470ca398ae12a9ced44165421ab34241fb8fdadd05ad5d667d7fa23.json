@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ffa92aa0470ca398ae12a9ced44165421ab34241fb8fdadd05ad5d667d7fa23",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PappusAffine.svg/220px-PappusAffine.svg.png",
+			"previous": " Several axiomatic approaches to affine geometry have been put forward ",
+			"after": " As affine geometry deals with parallel lines one of the properties of parallels noted by Pappus of Alexandria has been taken as a premise 10 11 ",
+			"color": "white|0.095106 smoke|0.095106 snow|0.093077 ghost|0.092957 white|0.092957 white|0.09278 alice|0.092474 blue|0.092474 sea|0.092444 shell|0.092444 mint|0.092209 cream|0.092209 floral|0.091187 white|0.091187 azure|0.090989 lavender|0.088828 blush|0.088828 light|0.01128 gray|0.01128 light|0.01128 grey|0.01128 gainsboro|0.011018 silver|0.0096332 dark|0.0044626 gray|0.0044626 dark|0.0044626 grey|0.0044626 ivory|0.0041115 linen|0.0037838 orange|0.0035588 red|0.0035588 dim|0.0034345 gray|0.0034345 dim|0.0034345 grey|0.0034345 lavender|0.0034136 tomato|0.0033667 gray|0.0032651 grey|0.0032651  ",
+			"after_weights": " As|1 affine|0.96154 geometry|0.92308 deals|0.88462 with|0.84615 parallel|0.80769 lines|0.76923 one|0.73077 of|0.69231 the|0.65385 properties|0.61538 of|0.57692 parallels|0.53846 noted|0.5 by|0.46154 Pappus|0.42308 of|0.38462 Alexandria|0.34615 has|0.30769 been|0.26923 taken|0.23077 as|0.19231 a|0.15385 premise|0.11538 10|0.076923 11|0.038462 |0",
+			"previous_weights": " Several|0 axiomatic|0.1 approaches|0.2 to|0.3 affine|0.4 geometry|0.5 have|0.6 been|0.7 put|0.8 forward|0.9 |1"
+		}
+	}
+}

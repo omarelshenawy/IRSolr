@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9abf6610ab47b3e5f3944004ae9ef879dbbe348cb552d3e721d579af773e86ac",
+			"url": "https://upload.wikimedia.org/math/1/5/d/15dac2a4979ad5bb298a540c7b1c1aa3.png",
+			"previous": " where the Hamiltonian is a second order differential operator and the wavefunction is one of its eigenfunctions corresponding to the eigenvalue interpreted as its energy ",
+			"after": " The bra ket notation is often used in this context A vector which represents a state of the system in the Hilbert space of square integrable functions is represented by In this notation the Schr dinger equation is ",
+			"color": "black|0.46571 dim|0.22829 gray|0.22829 dim|0.22829 grey|0.22829 gray|0.12597 grey|0.12597 dark|0.084636 gray|0.084636 dark|0.084636 grey|0.084636 silver|0.040355 light|0.022726 gray|0.022726 light|0.022726 grey|0.022726 gainsboro|0.016543 white|0.0039053 smoke|0.0039053  ",
+			"after_weights": " The|1 bra|0.97368 ket|0.94737 notation|0.92105 is|0.89474 often|0.86842 used|0.84211 in|0.81579 this|0.78947 context|0.76316 A|0.73684 vector|0.71053 which|0.68421 represents|0.65789 a|0.63158 state|0.60526 of|0.57895 the|0.55263 system|0.52632 in|0.5 the|0.47368 Hilbert|0.44737 space|0.42105 of|0.39474 square|0.36842 integrable|0.34211 functions|0.31579 is|0.28947 represented|0.26316 by|0.23684 In|0.21053 this|0.18421 notation|0.15789 the|0.13158 Schr|0.10526 dinger|0.078947 equation|0.052632 is|0.026316 |0",
+			"previous_weights": " where|0 the|0.04 Hamiltonian|0.08 is|0.12 a|0.16 second|0.2 order|0.24 differential|0.28 operator|0.32 and|0.36 the|0.4 wavefunction|0.44 is|0.48 one|0.52 of|0.56 its|0.6 eigenfunctions|0.64 corresponding|0.68 to|0.72 the|0.76 eigenvalue|0.8 interpreted|0.84 as|0.88 its|0.92 energy|0.96 |1"
+		}
+	}
+}

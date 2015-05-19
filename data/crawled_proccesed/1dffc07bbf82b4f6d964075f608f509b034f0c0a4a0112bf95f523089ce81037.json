@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dffc07bbf82b4f6d964075f608f509b034f0c0a4a0112bf95f523089ce81037",
+			"url": "https://upload.wikimedia.org/math/d/c/6/dc62991850953a7709eaec7ca4d01ce6.png",
+			"previous": " This depressed quartic can be solved by means of a method discovered by Lodovico Ferrari The depressed equation may be rewritten this is easily verified by expanding the square and regrouping all terms in the left hand side ",
+			"after": " which is equivalent to the original equation whichever value is given to y ",
+			"color": "black|0.35959 dim|0.26701 gray|0.26701 dim|0.26701 grey|0.26701 gray|0.18187 grey|0.18187 dark|0.10552 gray|0.10552 dark|0.10552 grey|0.10552 silver|0.042631 light|0.018813 gray|0.018813 light|0.018813 grey|0.018813 gainsboro|0.013073  ",
+			"after_weights": " which|1 is|0.92308 equivalent|0.84615 to|0.76923 the|0.69231 original|0.61538 equation|0.53846 whichever|0.46154 value|0.38462 is|0.30769 given|0.23077 to|0.15385 y|0.076923 |0",
+			"previous_weights": " This|0 depressed|0.026316 quartic|0.052632 can|0.078947 be|0.10526 solved|0.13158 by|0.15789 means|0.18421 of|0.21053 a|0.23684 method|0.26316 discovered|0.28947 by|0.31579 Lodovico|0.34211 Ferrari|0.36842 The|0.39474 depressed|0.42105 equation|0.44737 may|0.47368 be|0.5 rewritten|0.52632 this|0.55263 is|0.57895 easily|0.60526 verified|0.63158 by|0.65789 expanding|0.68421 the|0.71053 square|0.73684 and|0.76316 regrouping|0.78947 all|0.81579 terms|0.84211 in|0.86842 the|0.89474 left|0.92105 hand|0.94737 side|0.97368 |1"
+		}
+	}
+}

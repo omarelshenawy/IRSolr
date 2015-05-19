@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2262d61d7fd1bb82d6d04a1fd0adfdb2ec4cffe09d8ee7cb18991da264bc3cdc",
+			"url": "https://upload.wikimedia.org/math/6/a/0/6a05ff96c7336f9a0349f61ac6a2dbab.png",
+			"previous": " The square root of a univariate quadratic function gives rise to one of the four conic sections almost always either to an ellipse or to a hyperbola ",
+			"after": " If then the equation describes either a circle or other ellipse or nothing at all If the ordinate of the maximum point of the corresponding parabola is positive then its square root describes an ellipse but if the ordinate is negative then it describes an empty locus of points ",
+			"color": "dim|0.32066 gray|0.32066 dim|0.32066 grey|0.32066 gray|0.23665 grey|0.23665 black|0.17677 dark|0.13823 gray|0.13823 dark|0.13823 grey|0.13823 silver|0.060848 light|0.030067 gray|0.030067 light|0.030067 grey|0.030067 gainsboro|0.020142 white|0.0035692 smoke|0.0035692  ",
+			"after_weights": " If|1 then|0.97959 the|0.95918 equation|0.93878 describes|0.91837 either|0.89796 a|0.87755 circle|0.85714 or|0.83673 other|0.81633 ellipse|0.79592 or|0.77551 nothing|0.7551 at|0.73469 all|0.71429 If|0.69388 the|0.67347 ordinate|0.65306 of|0.63265 the|0.61224 maximum|0.59184 point|0.57143 of|0.55102 the|0.53061 corresponding|0.5102 parabola|0.4898 is|0.46939 positive|0.44898 then|0.42857 its|0.40816 square|0.38776 root|0.36735 describes|0.34694 an|0.32653 ellipse|0.30612 but|0.28571 if|0.26531 the|0.2449 ordinate|0.22449 is|0.20408 negative|0.18367 then|0.16327 it|0.14286 describes|0.12245 an|0.10204 empty|0.081633 locus|0.061224 of|0.040816 points|0.020408 |0",
+			"previous_weights": " The|0 square|0.037037 root|0.074074 of|0.11111 a|0.14815 univariate|0.18519 quadratic|0.22222 function|0.25926 gives|0.2963 rise|0.33333 to|0.37037 one|0.40741 of|0.44444 the|0.48148 four|0.51852 conic|0.55556 sections|0.59259 almost|0.62963 always|0.66667 either|0.7037 to|0.74074 an|0.77778 ellipse|0.81481 or|0.85185 to|0.88889 a|0.92593 hyperbola|0.96296 |1"
+		}
+	}
+}

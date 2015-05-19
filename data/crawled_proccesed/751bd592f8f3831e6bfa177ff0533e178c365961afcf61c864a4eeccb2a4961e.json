@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "751bd592f8f3831e6bfa177ff0533e178c365961afcf61c864a4eeccb2a4961e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/LostChord_sm.jpg",
+			"previous": " ",
+			"after": "  The Lost Chord is a song composed by Arthur Sullivan in 1877 at the bedside of his brother Fred during Fred s last illness The manuscript is dated 13 January 1877 Fred Sullivan died five days later The lyric was written as a poem by Adelaide Anne Procter called A Lost Chord published in 1858 in The English Woman s Journal ",
+			"color": "chocolate|0.64673 sienna|0.20331 peru|0.032284 burly|0.0309 wood|0.0309 coral|0.019891 sandy|0.018776 brown|0.018776 brown|0.01483 saddle|0.011959 brown|0.011959  ",
+			"after_weights": " |1 The|0.98387 Lost|0.96774 Chord|0.95161 is|0.93548 a|0.91935 song|0.90323 composed|0.8871 by|0.87097 Arthur|0.85484 Sullivan|0.83871 in|0.82258 1877|0.80645 at|0.79032 the|0.77419 bedside|0.75806 of|0.74194 his|0.72581 brother|0.70968 Fred|0.69355 during|0.67742 Fred|0.66129 s|0.64516 last|0.62903 illness|0.6129 The|0.59677 manuscript|0.58065 is|0.56452 dated|0.54839 13|0.53226 January|0.51613 1877|0.5 Fred|0.48387 Sullivan|0.46774 died|0.45161 five|0.43548 days|0.41935 later|0.40323 The|0.3871 lyric|0.37097 was|0.35484 written|0.33871 as|0.32258 a|0.30645 poem|0.29032 by|0.27419 Adelaide|0.25806 Anne|0.24194 Procter|0.22581 called|0.20968 A|0.19355 Lost|0.17742 Chord|0.16129 published|0.14516 in|0.12903 1858|0.1129 in|0.096774 The|0.080645 English|0.064516 Woman|0.048387 s|0.032258 Journal|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

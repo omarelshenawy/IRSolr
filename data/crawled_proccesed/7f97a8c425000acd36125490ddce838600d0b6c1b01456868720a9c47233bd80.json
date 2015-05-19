@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f97a8c425000acd36125490ddce838600d0b6c1b01456868720a9c47233bd80",
+			"url": "https://upload.wikimedia.org/math/6/7/0/6703e4c62e106143cf003abaf1888b84.png",
+			"previous": " where Consider the functional",
+			"after": " The minimizing u must also satisfy the natural boundary condition on the boundary B This result depends upon the regularity theory for elliptic partial differential equations see Jost and Li Jost 1998 for details Many extensions including completeness results asymptotic properties of the eigenvalues and results concerning the nodes of the eigenfunctions are in Courant and Hilbert 1953 ",
+			"color": "gray|0.26456 grey|0.26456 dark|0.21186 gray|0.21186 dark|0.21186 grey|0.21186 dim|0.20448 gray|0.20448 dim|0.20448 grey|0.20448 silver|0.11284 light|0.082224 gray|0.082224 light|0.082224 grey|0.082224 gainsboro|0.058609 white|0.016871 smoke|0.016871 linen|0.0088696 lavender|0.0083637 blush|0.0083637 alice|0.0081798 blue|0.0081798 ghost|0.0080776 white|0.0080776 sea|0.0057565 shell|0.0057565 snow|0.00545 white|0.0029123  ",
+			"after_weights": " The|1 minimizing|0.98276 u|0.96552 must|0.94828 also|0.93103 satisfy|0.91379 the|0.89655 natural|0.87931 boundary|0.86207 condition|0.84483 on|0.82759 the|0.81034 boundary|0.7931 B|0.77586 This|0.75862 result|0.74138 depends|0.72414 upon|0.7069 the|0.68966 regularity|0.67241 theory|0.65517 for|0.63793 elliptic|0.62069 partial|0.60345 differential|0.58621 equations|0.56897 see|0.55172 Jost|0.53448 and|0.51724 Li|0.5 Jost|0.48276 1998|0.46552 for|0.44828 details|0.43103 Many|0.41379 extensions|0.39655 including|0.37931 completeness|0.36207 results|0.34483 asymptotic|0.32759 properties|0.31034 of|0.2931 the|0.27586 eigenvalues|0.25862 and|0.24138 results|0.22414 concerning|0.2069 the|0.18966 nodes|0.17241 of|0.15517 the|0.13793 eigenfunctions|0.12069 are|0.10345 in|0.086207 Courant|0.068966 and|0.051724 Hilbert|0.034483 1953|0.017241 |0",
+			"previous_weights": " where|0 Consider|0.33333 the|0.66667 functional|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d47248ca0b6a113891897f8d2703ee7df0e08a1a374c58adbd0448bd31e4588",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CNN_Election_Express.jpg/220px-CNN_Election_Express.jpg",
+			"previous": " CNN began broadcasting in the high definition 1080i resolution format in September 2007 38 This format is now standard for CNN and is available on all major cable and satellite providers ",
+			"after": " CNN s political coverage in HD was first given mobility by the introduction of the CNN Election Express bus in October 2007 The Election Express vehicle capable of five simultaneous HD feeds was used for the channel s CNN YouTube presidential debates and for presidential candidate interviews 39 ",
+			"color": "dim|0.25123 gray|0.25123 dim|0.25123 grey|0.25123 slate|0.14872 gray|0.14872 light|0.14456 slate|0.14456 gray|0.14456 gray|0.14183 grey|0.14183 dark|0.10814 slate|0.10814 gray|0.10814 dark|0.097968 gray|0.097968 dark|0.097968 grey|0.097968 silver|0.026863 light|0.02336 steel|0.02336 blue|0.02336 indian|0.015449 red|0.015449  ",
+			"after_weights": " CNN|1 s|0.97917 political|0.95833 coverage|0.9375 in|0.91667 HD|0.89583 was|0.875 first|0.85417 given|0.83333 mobility|0.8125 by|0.79167 the|0.77083 introduction|0.75 of|0.72917 the|0.70833 CNN|0.6875 Election|0.66667 Express|0.64583 bus|0.625 in|0.60417 October|0.58333 2007|0.5625 The|0.54167 Election|0.52083 Express|0.5 vehicle|0.47917 capable|0.45833 of|0.4375 five|0.41667 simultaneous|0.39583 HD|0.375 feeds|0.35417 was|0.33333 used|0.3125 for|0.29167 the|0.27083 channel|0.25 s|0.22917 CNN|0.20833 YouTube|0.1875 presidential|0.16667 debates|0.14583 and|0.125 for|0.10417 presidential|0.083333 candidate|0.0625 interviews|0.041667 39|0.020833 |0",
+			"previous_weights": " CNN|0 began|0.032258 broadcasting|0.064516 in|0.096774 the|0.12903 high|0.16129 definition|0.19355 1080i|0.22581 resolution|0.25806 format|0.29032 in|0.32258 September|0.35484 2007|0.3871 38|0.41935 This|0.45161 format|0.48387 is|0.51613 now|0.54839 standard|0.58065 for|0.6129 CNN|0.64516 and|0.67742 is|0.70968 available|0.74194 on|0.77419 all|0.80645 major|0.83871 cable|0.87097 and|0.90323 satellite|0.93548 providers|0.96774 |1"
+		}
+	}
+}

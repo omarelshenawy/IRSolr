@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c2d479d4bc0fb7f52c7672f02e56a0703bad75e8401e212d2fed8a420bcac89",
+			"url": "https://upload.wikimedia.org/math/8/a/0/8a0e511cf9000c96dd656cd47a34fa5e.png",
+			"previous": " The graph of is changed by standard transformations as follows ",
+			"after": " There are other standard transformation not typically studied in elementary analytic geometry because the transformations change the shape of objects in ways not usually considered Skewing is an example of a transformation not usually considered For more information consult the Wikipedia article on affine transformations ",
+			"color": " ",
+			"after_weights": " There|1 are|0.97778 other|0.95556 standard|0.93333 transformation|0.91111 not|0.88889 typically|0.86667 studied|0.84444 in|0.82222 elementary|0.8 analytic|0.77778 geometry|0.75556 because|0.73333 the|0.71111 transformations|0.68889 change|0.66667 the|0.64444 shape|0.62222 of|0.6 objects|0.57778 in|0.55556 ways|0.53333 not|0.51111 usually|0.48889 considered|0.46667 Skewing|0.44444 is|0.42222 an|0.4 example|0.37778 of|0.35556 a|0.33333 transformation|0.31111 not|0.28889 usually|0.26667 considered|0.24444 For|0.22222 more|0.2 information|0.17778 consult|0.15556 the|0.13333 Wikipedia|0.11111 article|0.088889 on|0.066667 affine|0.044444 transformations|0.022222 |0",
+			"previous_weights": " The|0 graph|0.1 of|0.2 is|0.3 changed|0.4 by|0.5 standard|0.6 transformations|0.7 as|0.8 follows|0.9 |1"
+		}
+	}
+}

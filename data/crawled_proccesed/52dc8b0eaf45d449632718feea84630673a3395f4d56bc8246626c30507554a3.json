@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52dc8b0eaf45d449632718feea84630673a3395f4d56bc8246626c30507554a3",
+			"url": "https://upload.wikimedia.org/math/3/0/4/3040e4eba80a2decba5b853effbf9c6b.png",
+			"previous": " So  Since the engine is static both the flight velocity and the flight Mach number are zero Freestream",
+			"after": " Or approximating    This change in shaft speed is used to calculate a new frozen shaft speed for the next time interval ",
+			"color": "black|0.43597 dim|0.30162 gray|0.30162 dim|0.30162 grey|0.30162 gray|0.16524 grey|0.16524 dark|0.059246 gray|0.059246 dark|0.059246 grey|0.059246 silver|0.019756 light|0.006869 gray|0.006869 light|0.006869 grey|0.006869 gainsboro|0.0040058  ",
+			"after_weights": " Or|1 approximating|0.95833 |0.91667 |0.875 |0.83333 This|0.79167 change|0.75 in|0.70833 shaft|0.66667 speed|0.625 is|0.58333 used|0.54167 to|0.5 calculate|0.45833 a|0.41667 new|0.375 frozen|0.33333 shaft|0.29167 speed|0.25 for|0.20833 the|0.16667 next|0.125 time|0.083333 interval|0.041667 |0",
+			"previous_weights": " So|0 |0.055556 Since|0.11111 the|0.16667 engine|0.22222 is|0.27778 static|0.33333 both|0.38889 the|0.44444 flight|0.5 velocity|0.55556 and|0.61111 the|0.66667 flight|0.72222 Mach|0.77778 number|0.83333 are|0.88889 zero|0.94444 Freestream|1"
+		}
+	}
+}

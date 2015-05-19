@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b9746678e3e9d8d55a62f049294cf504190509451638a882f17931c47abbba5",
+			"url": "https://upload.wikimedia.org/math/8/d/e/8ded7ea696760aba6d32430587cafc81.png",
+			"previous": " The discussion thus far has assumed that extremal functions possess two continuous derivatives although the existence of the integral A requires only first derivatives of trial functions The condition that the first variation vanish at an extremal may be regarded as a weak form of the Euler Lagrange equation The theorem of Du Bois Reymond asserts that this weak form implies the strong form If L has continuous first and second derivatives with respect to all of its arguments and if",
+			"after": " then has two continuous derivatives and it satisfies the Euler Lagrange equation ",
+			"color": "black|0.28108 dim|0.27987 gray|0.27987 dim|0.27987 grey|0.27987 gray|0.24222 grey|0.24222 dark|0.14109 gray|0.14109 dark|0.14109 grey|0.14109 silver|0.049458 light|0.004844 gray|0.004844 light|0.004844 grey|0.004844  ",
+			"after_weights": " then|1 has|0.91667 two|0.83333 continuous|0.75 derivatives|0.66667 and|0.58333 it|0.5 satisfies|0.41667 the|0.33333 Euler|0.25 Lagrange|0.16667 equation|0.083333 |0",
+			"previous_weights": " The|0 discussion|0.0125 thus|0.025 far|0.0375 has|0.05 assumed|0.0625 that|0.075 extremal|0.0875 functions|0.1 possess|0.1125 two|0.125 continuous|0.1375 derivatives|0.15 although|0.1625 the|0.175 existence|0.1875 of|0.2 the|0.2125 integral|0.225 A|0.2375 requires|0.25 only|0.2625 first|0.275 derivatives|0.2875 of|0.3 trial|0.3125 functions|0.325 The|0.3375 condition|0.35 that|0.3625 the|0.375 first|0.3875 variation|0.4 vanish|0.4125 at|0.425 an|0.4375 extremal|0.45 may|0.4625 be|0.475 regarded|0.4875 as|0.5 a|0.5125 weak|0.525 form|0.5375 of|0.55 the|0.5625 Euler|0.575 Lagrange|0.5875 equation|0.6 The|0.6125 theorem|0.625 of|0.6375 Du|0.65 Bois|0.6625 Reymond|0.675 asserts|0.6875 that|0.7 this|0.7125 weak|0.725 form|0.7375 implies|0.75 the|0.7625 strong|0.775 form|0.7875 If|0.8 L|0.8125 has|0.825 continuous|0.8375 first|0.85 and|0.8625 second|0.875 derivatives|0.8875 with|0.9 respect|0.9125 to|0.925 all|0.9375 of|0.95 its|0.9625 arguments|0.975 and|0.9875 if|1"
+		}
+	}
+}

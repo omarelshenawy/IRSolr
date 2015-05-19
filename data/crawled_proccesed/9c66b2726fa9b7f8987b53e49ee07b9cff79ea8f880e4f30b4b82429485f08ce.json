@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c66b2726fa9b7f8987b53e49ee07b9cff79ea8f880e4f30b4b82429485f08ce",
+			"url": "https://upload.wikimedia.org/math/b/a/4/ba4c7db00b78082b944a8a85c9d1ec4e.png",
+			"previous": " where W is the Lambert W function 14 15 and where F t is",
+			"after": " This equation is encompassed by the equation below obtained by Berberan Santos MATCH Commun Math Comput Chem 63 2010 283 which is also valid when the initial substrate concentration is close to that of enzyme ",
+			"color": "gray|0.28583 grey|0.28583 dim|0.27239 gray|0.27239 dim|0.27239 grey|0.27239 dark|0.21351 gray|0.21351 dark|0.21351 grey|0.21351 silver|0.099275 light|0.054596 gray|0.054596 light|0.054596 grey|0.054596 gainsboro|0.039981 white|0.0093804 smoke|0.0093804 linen|0.0052365 lavender|0.0035864 blush|0.0035864 alice|0.0035669 blue|0.0035669 ghost|0.0033235 white|0.0033235 sea|0.0031566 shell|0.0031566 snow|0.0030471  ",
+			"after_weights": " This|1 equation|0.97143 is|0.94286 encompassed|0.91429 by|0.88571 the|0.85714 equation|0.82857 below|0.8 obtained|0.77143 by|0.74286 Berberan|0.71429 Santos|0.68571 MATCH|0.65714 Commun|0.62857 Math|0.6 Comput|0.57143 Chem|0.54286 63|0.51429 2010|0.48571 283|0.45714 which|0.42857 is|0.4 also|0.37143 valid|0.34286 when|0.31429 the|0.28571 initial|0.25714 substrate|0.22857 concentration|0.2 is|0.17143 close|0.14286 to|0.11429 that|0.085714 of|0.057143 enzyme|0.028571 |0",
+			"previous_weights": " where|0 W|0.076923 is|0.15385 the|0.23077 Lambert|0.30769 W|0.38462 function|0.46154 14|0.53846 15|0.61538 and|0.69231 where|0.76923 F|0.84615 t|0.92308 is|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a101eff9d51b9ebe66c4320a60baee7f64a2d826abec5825c6ae933c5b13b06",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/PEK_T3_train.jpg/220px-PEK_T3_train.jpg",
+			"previous": " ",
+			"after": " The terminal has gates and a nearby runway that can handle the Airbus A380 which were proven when Singapore Airlines briefly offered A380 flights to Beijing in August 2008 during the Summer Olympics Emirates airline has started its scheduled daily operation to Dubai as of 1 August 2010 Lufthansa uses these facilities since October 2010 to handle up to five A380 connections per week China Southern Airlines operates their A380 between Beijing Shanghai Beijing Guangzhou and Beijing Hong Kong Several other airlines in the near future will operate the A380 out of this terminal including Malaysia Airlines and British Airways ",
+			"color": "black|0.27846 dim|0.16092 gray|0.16092 dim|0.16092 grey|0.16092 gray|0.086932 grey|0.086932 dark|0.078188 slate|0.078188 gray|0.078188 slate|0.054537 gray|0.054537 dark|0.043001 gray|0.043001 dark|0.043001 grey|0.043001 light|0.036786 slate|0.036786 gray|0.036786 tan|0.032926 burly|0.029151 wood|0.029151 silver|0.020504 light|0.011518 gray|0.011518 light|0.011518 grey|0.011518 gainsboro|0.0093651  ",
+			"after_weights": " The|1 terminal|0.99 has|0.98 gates|0.97 and|0.96 a|0.95 nearby|0.94 runway|0.93 that|0.92 can|0.91 handle|0.9 the|0.89 Airbus|0.88 A380|0.87 which|0.86 were|0.85 proven|0.84 when|0.83 Singapore|0.82 Airlines|0.81 briefly|0.8 offered|0.79 A380|0.78 flights|0.77 to|0.76 Beijing|0.75 in|0.74 August|0.73 2008|0.72 during|0.71 the|0.7 Summer|0.69 Olympics|0.68 Emirates|0.67 airline|0.66 has|0.65 started|0.64 its|0.63 scheduled|0.62 daily|0.61 operation|0.6 to|0.59 Dubai|0.58 as|0.57 of|0.56 1|0.55 August|0.54 2010|0.53 Lufthansa|0.52 uses|0.51 these|0.5 facilities|0.49 since|0.48 October|0.47 2010|0.46 to|0.45 handle|0.44 up|0.43 to|0.42 five|0.41 A380|0.4 connections|0.39 per|0.38 week|0.37 China|0.36 Southern|0.35 Airlines|0.34 operates|0.33 their|0.32 A380|0.31 between|0.3 Beijing|0.29 Shanghai|0.28 Beijing|0.27 Guangzhou|0.26 and|0.25 Beijing|0.24 Hong|0.23 Kong|0.22 Several|0.21 other|0.2 airlines|0.19 in|0.18 the|0.17 near|0.16 future|0.15 will|0.14 operate|0.13 the|0.12 A380|0.11 out|0.1 of|0.09 this|0.08 terminal|0.07 including|0.06 Malaysia|0.05 Airlines|0.04 and|0.03 British|0.02 Airways|0.01 |0",
+			"previous_weights": " "
+		}
+	}
+}

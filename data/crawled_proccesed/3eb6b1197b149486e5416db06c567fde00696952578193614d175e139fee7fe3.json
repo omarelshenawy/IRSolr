@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3eb6b1197b149486e5416db06c567fde00696952578193614d175e139fee7fe3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mars_Hubble.jpg/125px-Mars_Hubble.jpg",
+			"previous": " Manned exploration of the Moon began in 1968 with the Apollo 8 mission that successfully orbited the Moon the first time any extraterrestrial object was orbited by humans In 1969 the Apollo 11 mission marked the first time humans set foot upon another world Manned exploration of the Moon did not continue for long however The Apollo 17 mission in 1972 marked the most recent human visit there and the next Exploration Mission 2 is due to orbit the Moon in 2021 Robotic missions are still pursued vigorously ",
+			"after": " ",
+			"color": "sandy|0.47472 brown|0.47472 dim|0.14586 gray|0.14586 dim|0.14586 grey|0.14586 peru|0.11385 light|0.054101 slate|0.054101 gray|0.054101 gray|0.049938 grey|0.049938 slate|0.043512 gray|0.043512 dark|0.03474 gray|0.03474 dark|0.03474 grey|0.03474 dark|0.02836 slate|0.02836 gray|0.02836 light|0.020983 steel|0.020983 blue|0.020983 silver|0.010021  ",
+			"after_weights": " ",
+			"previous_weights": " Manned|0 exploration|0.011364 of|0.022727 the|0.034091 Moon|0.045455 began|0.056818 in|0.068182 1968|0.079545 with|0.090909 the|0.10227 Apollo|0.11364 8|0.125 mission|0.13636 that|0.14773 successfully|0.15909 orbited|0.17045 the|0.18182 Moon|0.19318 the|0.20455 first|0.21591 time|0.22727 any|0.23864 extraterrestrial|0.25 object|0.26136 was|0.27273 orbited|0.28409 by|0.29545 humans|0.30682 In|0.31818 1969|0.32955 the|0.34091 Apollo|0.35227 11|0.36364 mission|0.375 marked|0.38636 the|0.39773 first|0.40909 time|0.42045 humans|0.43182 set|0.44318 foot|0.45455 upon|0.46591 another|0.47727 world|0.48864 Manned|0.5 exploration|0.51136 of|0.52273 the|0.53409 Moon|0.54545 did|0.55682 not|0.56818 continue|0.57955 for|0.59091 long|0.60227 however|0.61364 The|0.625 Apollo|0.63636 17|0.64773 mission|0.65909 in|0.67045 1972|0.68182 marked|0.69318 the|0.70455 most|0.71591 recent|0.72727 human|0.73864 visit|0.75 there|0.76136 and|0.77273 the|0.78409 next|0.79545 Exploration|0.80682 Mission|0.81818 2|0.82955 is|0.84091 due|0.85227 to|0.86364 orbit|0.875 the|0.88636 Moon|0.89773 in|0.90909 2021|0.92045 Robotic|0.93182 missions|0.94318 are|0.95455 still|0.96591 pursued|0.97727 vigorously|0.98864 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27eedf96f2b568fab6de3ba696f03a388a650ada610bf936c0ebf7e37c84629b",
+			"url": "https://upload.wikimedia.org/math/8/6/0/86009d53c1f55614a805171a0089d115.png",
+			"previous": " In the figure across the propeller disc velocities C1 and C2 cannot change abruptly across the propeller disc as that will create a shockwave but the fan creates the pressure difference across the propeller disc 1 ",
+			"after": " On subtracting the above equations 1  Comparing this thrust with the axial thrust due to change in momentum of air flow it is found that 1  A parameter a is defined such that 1  Using the previous equation and a an expression for Cs comes out to be ",
+			"color": "dim|0.33435 gray|0.33435 dim|0.33435 grey|0.33435 gray|0.30328 grey|0.30328 dark|0.20216 gray|0.20216 dark|0.20216 grey|0.20216 silver|0.081135 light|0.035649 gray|0.035649 light|0.035649 grey|0.035649 gainsboro|0.025636 white|0.0045696 smoke|0.0045696  ",
+			"after_weights": " On|1 subtracting|0.98039 the|0.96078 above|0.94118 equations|0.92157 1|0.90196 |0.88235 Comparing|0.86275 this|0.84314 thrust|0.82353 with|0.80392 the|0.78431 axial|0.76471 thrust|0.7451 due|0.72549 to|0.70588 change|0.68627 in|0.66667 momentum|0.64706 of|0.62745 air|0.60784 flow|0.58824 it|0.56863 is|0.54902 found|0.52941 that|0.5098 1|0.4902 |0.47059 A|0.45098 parameter|0.43137 a|0.41176 is|0.39216 defined|0.37255 such|0.35294 that|0.33333 1|0.31373 |0.29412 Using|0.27451 the|0.2549 previous|0.23529 equation|0.21569 and|0.19608 a|0.17647 an|0.15686 expression|0.13725 for|0.11765 Cs|0.098039 comes|0.078431 out|0.058824 to|0.039216 be|0.019608 |0",
+			"previous_weights": " In|0 the|0.027778 figure|0.055556 across|0.083333 the|0.11111 propeller|0.13889 disc|0.16667 velocities|0.19444 C1|0.22222 and|0.25 C2|0.27778 cannot|0.30556 change|0.33333 abruptly|0.36111 across|0.38889 the|0.41667 propeller|0.44444 disc|0.47222 as|0.5 that|0.52778 will|0.55556 create|0.58333 a|0.61111 shockwave|0.63889 but|0.66667 the|0.69444 fan|0.72222 creates|0.75 the|0.77778 pressure|0.80556 difference|0.83333 across|0.86111 the|0.88889 propeller|0.91667 disc|0.94444 1|0.97222 |1"
+		}
+	}
+}

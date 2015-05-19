@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73a863be6fcd06df27c19b3bccce5e7362904f5b660f7d1a35be84b25db5a17b",
+			"url": "https://upload.wikimedia.org/math/0/6/5/065dcf881e6b021e3326275207df6923.png",
+			"previous": " and",
+			"after": " Note that the sign of the square root does not affect the resulting because changing it amounts to exchanging and We have chosen the minus sign to have when and in order to avoid a division by zero With this choice the above expression for always works except when where the second term becomes 0 0 In this case there is a triple root ",
+			"color": "dim|0.36724 gray|0.36724 dim|0.36724 grey|0.36724 gray|0.28525 grey|0.28525 dark|0.17664 gray|0.17664 dark|0.17664 grey|0.17664 silver|0.083569 light|0.041755 gray|0.041755 light|0.041755 grey|0.041755 gainsboro|0.027769 white|0.0038843 smoke|0.0038843  ",
+			"after_weights": " Note|1 that|0.98438 the|0.96875 sign|0.95312 of|0.9375 the|0.92188 square|0.90625 root|0.89062 does|0.875 not|0.85938 affect|0.84375 the|0.82812 resulting|0.8125 because|0.79688 changing|0.78125 it|0.76562 amounts|0.75 to|0.73438 exchanging|0.71875 and|0.70312 We|0.6875 have|0.67188 chosen|0.65625 the|0.64062 minus|0.625 sign|0.60938 to|0.59375 have|0.57812 when|0.5625 and|0.54688 in|0.53125 order|0.51562 to|0.5 avoid|0.48438 a|0.46875 division|0.45312 by|0.4375 zero|0.42188 With|0.40625 this|0.39062 choice|0.375 the|0.35938 above|0.34375 expression|0.32812 for|0.3125 always|0.29688 works|0.28125 except|0.26562 when|0.25 where|0.23438 the|0.21875 second|0.20312 term|0.1875 becomes|0.17188 0|0.15625 0|0.14062 In|0.125 this|0.10938 case|0.09375 there|0.078125 is|0.0625 a|0.046875 triple|0.03125 root|0.015625 |0",
+			"previous_weights": " and|1"
+		}
+	}
+}

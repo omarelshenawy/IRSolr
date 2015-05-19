@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "188fec8078289c71b752ec653f63082623997c215fbc4105e89e8e8b6a364540",
+			"url": "https://upload.wikimedia.org/math/e/b/a/eba63aafcecd3b92bd8ac4cd7dc0bca8.png",
+			"previous": " Matrices are a useful notion to encode linear maps 31 They are written as a rectangular array of scalars as in the image at the right Any m by n matrix A gives rise to a linear map from Fn to Fm by the following",
+			"after": " or using the matrix multiplication of the matrix A with the coordinate vector x ",
+			"color": "dark|0.25819 gray|0.25819 dark|0.25819 grey|0.25819 gray|0.24521 grey|0.24521 silver|0.18635 dim|0.16154 gray|0.16154 dim|0.16154 grey|0.16154 light|0.098006 gray|0.098006 light|0.098006 grey|0.098006 gainsboro|0.041121 white|0.0025802 smoke|0.0025802  ",
+			"after_weights": " or|1 using|0.92857 the|0.85714 matrix|0.78571 multiplication|0.71429 of|0.64286 the|0.57143 matrix|0.5 A|0.42857 with|0.35714 the|0.28571 coordinate|0.21429 vector|0.14286 x|0.071429 |0",
+			"previous_weights": " Matrices|0 are|0.022727 a|0.045455 useful|0.068182 notion|0.090909 to|0.11364 encode|0.13636 linear|0.15909 maps|0.18182 31|0.20455 They|0.22727 are|0.25 written|0.27273 as|0.29545 a|0.31818 rectangular|0.34091 array|0.36364 of|0.38636 scalars|0.40909 as|0.43182 in|0.45455 the|0.47727 image|0.5 at|0.52273 the|0.54545 right|0.56818 Any|0.59091 m|0.61364 by|0.63636 n|0.65909 matrix|0.68182 A|0.70455 gives|0.72727 rise|0.75 to|0.77273 a|0.79545 linear|0.81818 map|0.84091 from|0.86364 Fn|0.88636 to|0.90909 Fm|0.93182 by|0.95455 the|0.97727 following|1"
+		}
+	}
+}

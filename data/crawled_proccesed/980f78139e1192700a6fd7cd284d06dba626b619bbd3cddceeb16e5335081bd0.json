@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "980f78139e1192700a6fd7cd284d06dba626b619bbd3cddceeb16e5335081bd0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ellipsoid_reduced_angle_definition.svg/200px-Ellipsoid_reduced_angle_definition.svg.png",
+			"previous": " ",
+			"after": " The reduced or parametric latitude is defined by the radius drawn from the centre of the ellipsoid to that point Q on the surrounding sphere of radius a which is the projection parallel to the Earth s axis of a point P on the ellipsoid at latitude It was introduced by Legendre 12 and Bessel 13 who solved problems for geodesics on the ellipsoid by transforming them to an equivalent problem for spherical geodesics by using this smaller latitude Bessel s notation is also used in the current literature The reduced latitude is related to the geodetic latitude by 7 8 ",
+			"color": "black|0.41657 dim|0.32677 gray|0.32677 dim|0.32677 grey|0.32677 gray|0.19786 grey|0.19786 dark|0.054944 gray|0.054944 dark|0.054944 grey|0.054944  ",
+			"after_weights": " The|1 reduced|0.9901 or|0.9802 parametric|0.9703 latitude|0.9604 is|0.9505 defined|0.94059 by|0.93069 the|0.92079 radius|0.91089 drawn|0.90099 from|0.89109 the|0.88119 centre|0.87129 of|0.86139 the|0.85149 ellipsoid|0.84158 to|0.83168 that|0.82178 point|0.81188 Q|0.80198 on|0.79208 the|0.78218 surrounding|0.77228 sphere|0.76238 of|0.75248 radius|0.74257 a|0.73267 which|0.72277 is|0.71287 the|0.70297 projection|0.69307 parallel|0.68317 to|0.67327 the|0.66337 Earth|0.65347 s|0.64356 axis|0.63366 of|0.62376 a|0.61386 point|0.60396 P|0.59406 on|0.58416 the|0.57426 ellipsoid|0.56436 at|0.55446 latitude|0.54455 It|0.53465 was|0.52475 introduced|0.51485 by|0.50495 Legendre|0.49505 12|0.48515 and|0.47525 Bessel|0.46535 13|0.45545 who|0.44554 solved|0.43564 problems|0.42574 for|0.41584 geodesics|0.40594 on|0.39604 the|0.38614 ellipsoid|0.37624 by|0.36634 transforming|0.35644 them|0.34653 to|0.33663 an|0.32673 equivalent|0.31683 problem|0.30693 for|0.29703 spherical|0.28713 geodesics|0.27723 by|0.26733 using|0.25743 this|0.24752 smaller|0.23762 latitude|0.22772 Bessel|0.21782 s|0.20792 notation|0.19802 is|0.18812 also|0.17822 used|0.16832 in|0.15842 the|0.14851 current|0.13861 literature|0.12871 The|0.11881 reduced|0.10891 latitude|0.09901 is|0.089109 related|0.079208 to|0.069307 the|0.059406 geodetic|0.049505 latitude|0.039604 by|0.029703 7|0.019802 8|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7190019e9224b630045fc8181492d8098ffad7fa74bbfe1ac91cd9144d578785",
+			"url": "https://upload.wikimedia.org/math/a/3/1/a31729334c35a30d17ddca0cceade7e5.png",
+			"previous": " The peak value of the Lorentzian line shape occurs at the line center A line shape function can be normalized so that its value at is unity in the case of a Lorentzian we obtain  where is the full width at half maximum or FWHM bandwidth ",
+			"after": " The stimulated emission cross section in square meters is",
+			"color": " ",
+			"after_weights": " The|1 stimulated|0.875 emission|0.75 cross|0.625 section|0.5 in|0.375 square|0.25 meters|0.125 is|0",
+			"previous_weights": " The|0 peak|0.021277 value|0.042553 of|0.06383 the|0.085106 Lorentzian|0.10638 line|0.12766 shape|0.14894 occurs|0.17021 at|0.19149 the|0.21277 line|0.23404 center|0.25532 A|0.2766 line|0.29787 shape|0.31915 function|0.34043 can|0.3617 be|0.38298 normalized|0.40426 so|0.42553 that|0.44681 its|0.46809 value|0.48936 at|0.51064 is|0.53191 unity|0.55319 in|0.57447 the|0.59574 case|0.61702 of|0.6383 a|0.65957 Lorentzian|0.68085 we|0.70213 obtain|0.7234 |0.74468 where|0.76596 is|0.78723 the|0.80851 full|0.82979 width|0.85106 at|0.87234 half|0.89362 maximum|0.91489 or|0.93617 FWHM|0.95745 bandwidth|0.97872 |1"
+		}
+	}
+}

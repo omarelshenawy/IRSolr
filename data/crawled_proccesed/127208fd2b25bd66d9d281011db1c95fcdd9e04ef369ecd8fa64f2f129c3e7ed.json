@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "127208fd2b25bd66d9d281011db1c95fcdd9e04ef369ecd8fa64f2f129c3e7ed",
+			"url": "https://upload.wikimedia.org/math/c/2/3/c235bfc9a5be2af7632945f90ffd5e46.png",
+			"previous": " This is the discrete Fourier transform of the roots observe that while the coefficients of the polynomial are symmetric in the roots in this formula an order has been chosen on the roots so these are not symmetric in the roots The roots may then be recovered from the three si by inverting the above linear transformation via the inverse discrete Fourier transform giving",
+			"after": " The polynomial is an elementary symmetric polynomial and is thus equal to in case of Equation 1 and to zero in case of Equation 2 so we only need to seek values for the other two ",
+			"color": "dim|0.34803 gray|0.34803 dim|0.34803 grey|0.34803 gray|0.23545 grey|0.23545 dark|0.14864 gray|0.14864 dark|0.14864 grey|0.14864 black|0.12684 silver|0.069292 light|0.034308 gray|0.034308 light|0.034308 grey|0.034308 gainsboro|0.024541 white|0.003421 smoke|0.003421  ",
+			"after_weights": " The|1 polynomial|0.97222 is|0.94444 an|0.91667 elementary|0.88889 symmetric|0.86111 polynomial|0.83333 and|0.80556 is|0.77778 thus|0.75 equal|0.72222 to|0.69444 in|0.66667 case|0.63889 of|0.61111 Equation|0.58333 1|0.55556 and|0.52778 to|0.5 zero|0.47222 in|0.44444 case|0.41667 of|0.38889 Equation|0.36111 2|0.33333 so|0.30556 we|0.27778 only|0.25 need|0.22222 to|0.19444 seek|0.16667 values|0.13889 for|0.11111 the|0.083333 other|0.055556 two|0.027778 |0",
+			"previous_weights": " This|0 is|0.015873 the|0.031746 discrete|0.047619 Fourier|0.063492 transform|0.079365 of|0.095238 the|0.11111 roots|0.12698 observe|0.14286 that|0.15873 while|0.1746 the|0.19048 coefficients|0.20635 of|0.22222 the|0.2381 polynomial|0.25397 are|0.26984 symmetric|0.28571 in|0.30159 the|0.31746 roots|0.33333 in|0.34921 this|0.36508 formula|0.38095 an|0.39683 order|0.4127 has|0.42857 been|0.44444 chosen|0.46032 on|0.47619 the|0.49206 roots|0.50794 so|0.52381 these|0.53968 are|0.55556 not|0.57143 symmetric|0.5873 in|0.60317 the|0.61905 roots|0.63492 The|0.65079 roots|0.66667 may|0.68254 then|0.69841 be|0.71429 recovered|0.73016 from|0.74603 the|0.7619 three|0.77778 si|0.79365 by|0.80952 inverting|0.8254 the|0.84127 above|0.85714 linear|0.87302 transformation|0.88889 via|0.90476 the|0.92063 inverse|0.93651 discrete|0.95238 Fourier|0.96825 transform|0.98413 giving|1"
+		}
+	}
+}

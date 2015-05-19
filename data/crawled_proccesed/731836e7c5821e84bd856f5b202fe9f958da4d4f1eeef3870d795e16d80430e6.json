@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "731836e7c5821e84bd856f5b202fe9f958da4d4f1eeef3870d795e16d80430e6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yoel_Brandt1961.jpg/125px-Yoel_Brandt1961.jpg",
+			"previous": " Portal History Featured biography 7",
+			"after": " The negotiations described by The Times as one of the most loathsome stories of the war became known as the blood for goods proposal Nothing came of it and historians can only guess whether Eichmann s offer was genuine There are theories that it was a trick intended to persuade the Jewish community to board the trains to Auschwitz thinking they were being resettled or that it was a cover for high ranking SS officials to negotiate a peace deal with the U S and Britain that excluded the Soviet Union and perhaps even Adolf Hitler himself ",
+			"color": "dim|0.21133 gray|0.21133 dim|0.21133 grey|0.21133 light|0.16787 gray|0.16787 light|0.16787 grey|0.16787 gainsboro|0.14542 silver|0.13924 gray|0.12751 grey|0.12751 dark|0.10439 gray|0.10439 dark|0.10439 grey|0.10439 lavender|0.070046 white|0.0057389 smoke|0.0057389 lavender|0.0052064 blush|0.0052064 ghost|0.004451 white|0.004451 alice|0.0043443 blue|0.0043443 black|0.0043269  ",
+			"after_weights": " The|1 negotiations|0.98969 described|0.97938 by|0.96907 The|0.95876 Times|0.94845 as|0.93814 one|0.92784 of|0.91753 the|0.90722 most|0.89691 loathsome|0.8866 stories|0.87629 of|0.86598 the|0.85567 war|0.84536 became|0.83505 known|0.82474 as|0.81443 the|0.80412 blood|0.79381 for|0.78351 goods|0.7732 proposal|0.76289 Nothing|0.75258 came|0.74227 of|0.73196 it|0.72165 and|0.71134 historians|0.70103 can|0.69072 only|0.68041 guess|0.6701 whether|0.65979 Eichmann|0.64948 s|0.63918 offer|0.62887 was|0.61856 genuine|0.60825 There|0.59794 are|0.58763 theories|0.57732 that|0.56701 it|0.5567 was|0.54639 a|0.53608 trick|0.52577 intended|0.51546 to|0.50515 persuade|0.49485 the|0.48454 Jewish|0.47423 community|0.46392 to|0.45361 board|0.4433 the|0.43299 trains|0.42268 to|0.41237 Auschwitz|0.40206 thinking|0.39175 they|0.38144 were|0.37113 being|0.36082 resettled|0.35052 or|0.34021 that|0.3299 it|0.31959 was|0.30928 a|0.29897 cover|0.28866 for|0.27835 high|0.26804 ranking|0.25773 SS|0.24742 officials|0.23711 to|0.2268 negotiate|0.21649 a|0.20619 peace|0.19588 deal|0.18557 with|0.17526 the|0.16495 U|0.15464 S|0.14433 and|0.13402 Britain|0.12371 that|0.1134 excluded|0.10309 the|0.092784 Soviet|0.082474 Union|0.072165 and|0.061856 perhaps|0.051546 even|0.041237 Adolf|0.030928 Hitler|0.020619 himself|0.010309 |0",
+			"previous_weights": " Portal|0 History|0.25 Featured|0.5 biography|0.75 7|1"
+		}
+	}
+}

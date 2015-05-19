@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64a9c72f6a951c46e839e9dc1360df6d16841cbb35ce2f0e31096bf43ed36173",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_map_of_Bulgaria.svg/20px-Flag_map_of_Bulgaria.svg.png",
+			"previous": " ",
+			"after": " Society Provinces Municipalities Cities and towns Geography Subdivisions Environment Buildings and structures Visitor attractions Rivers Extreme points Economy Companies Communication Science and technology Tourism Transport",
+			"color": "medium|0.31695 aqua|0.31695 marine|0.31695 sea|0.26085 green|0.26085 salmon|0.22563 light|0.13534 coral|0.13534  ",
+			"after_weights": " Society|1 Provinces|0.95833 Municipalities|0.91667 Cities|0.875 and|0.83333 towns|0.79167 Geography|0.75 Subdivisions|0.70833 Environment|0.66667 Buildings|0.625 and|0.58333 structures|0.54167 Visitor|0.5 attractions|0.45833 Rivers|0.41667 Extreme|0.375 points|0.33333 Economy|0.29167 Companies|0.25 Communication|0.20833 Science|0.16667 and|0.125 technology|0.083333 Tourism|0.041667 Transport|0",
+			"previous_weights": " "
+		}
+	}
+}

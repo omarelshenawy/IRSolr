@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "369a4518299679818f0e9bba7c83c3629d90eab04fc6e7b5aa108aa6bf34ddcd",
+			"url": "https://upload.wikimedia.org/math/c/e/a/cea107585606e4ed94ea0c7a226cc028.png",
+			"previous": " The PID controller is probably the most used feedback control design PID is an initialism for Proportional Integral Derivative referring to the three terms operating on the error signal to produce a control signal If u t is the control signal sent to the system y t is the measured output and r t is the desired output and tracking error a PID controller has the general form",
+			"after": " Applying Laplace transformation results in the transformed PID controller equation",
+			"color": "gray|0.2934 grey|0.2934 dark|0.26771 gray|0.26771 dark|0.26771 grey|0.26771 dim|0.15279 gray|0.15279 dim|0.15279 grey|0.15279 silver|0.12647 light|0.066229 gray|0.066229 light|0.066229 grey|0.066229 gainsboro|0.047401 white|0.010281 smoke|0.010281 lavender|0.0049355 blush|0.0049355 linen|0.0048549 alice|0.0048126 blue|0.0048126 ghost|0.0046206 white|0.0046206 sea|0.004434 shell|0.004434 snow|0.0042036 white|0.0031879  ",
+			"after_weights": " Applying|1 Laplace|0.88889 transformation|0.77778 results|0.66667 in|0.55556 the|0.44444 transformed|0.33333 PID|0.22222 controller|0.11111 equation|0",
+			"previous_weights": " The|0 PID|0.014925 controller|0.029851 is|0.044776 probably|0.059701 the|0.074627 most|0.089552 used|0.10448 feedback|0.1194 control|0.13433 design|0.14925 PID|0.16418 is|0.1791 an|0.19403 initialism|0.20896 for|0.22388 Proportional|0.23881 Integral|0.25373 Derivative|0.26866 referring|0.28358 to|0.29851 the|0.31343 three|0.32836 terms|0.34328 operating|0.35821 on|0.37313 the|0.38806 error|0.40299 signal|0.41791 to|0.43284 produce|0.44776 a|0.46269 control|0.47761 signal|0.49254 If|0.50746 u|0.52239 t|0.53731 is|0.55224 the|0.56716 control|0.58209 signal|0.59701 sent|0.61194 to|0.62687 the|0.64179 system|0.65672 y|0.67164 t|0.68657 is|0.70149 the|0.71642 measured|0.73134 output|0.74627 and|0.76119 r|0.77612 t|0.79104 is|0.80597 the|0.8209 desired|0.83582 output|0.85075 and|0.86567 tracking|0.8806 error|0.89552 a|0.91045 PID|0.92537 controller|0.9403 has|0.95522 the|0.97015 general|0.98507 form|1"
+		}
+	}
+}

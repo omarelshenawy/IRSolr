@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9aa54aad946fab37db659db4a027e37dbe7179983210dde48a2852917d83bf7e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vista-Login_Manager2.png/20px-Vista-Login_Manager2.png",
+			"previous": " Bulgaria Education Religion Sport Healthcare",
+			"after": " Geography Subdivisions Environment Buildings and structures Visitor attractions Rivers Extreme points Economy Companies Communication Science and technology Tourism Transport",
+			"color": "peru|0.28344 saddle|0.21724 brown|0.21724 dim|0.072817 gray|0.072817 dim|0.072817 grey|0.072817 tan|0.062958 gray|0.058937 grey|0.058937 black|0.05851 dark|0.049185 golden|0.049185 rod|0.049185 burly|0.036302 wood|0.036302 dark|0.024059 gray|0.024059 dark|0.024059 grey|0.024059 dark|0.017581 khaki|0.017581 dark|0.016941 olive|0.016941 green|0.016941 antique|0.01574 white|0.01574 silver|0.013951  ",
+			"after_weights": " Geography|1 Subdivisions|0.94444 Environment|0.88889 Buildings|0.83333 and|0.77778 structures|0.72222 Visitor|0.66667 attractions|0.61111 Rivers|0.55556 Extreme|0.5 points|0.44444 Economy|0.38889 Companies|0.33333 Communication|0.27778 Science|0.22222 and|0.16667 technology|0.11111 Tourism|0.055556 Transport|0",
+			"previous_weights": " Bulgaria|0 Education|0.25 Religion|0.5 Sport|0.75 Healthcare|1"
+		}
+	}
+}

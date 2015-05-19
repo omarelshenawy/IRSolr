@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cf62a36b830d99b2c9eacb51d7f62b10229379f3cb3efb1064a2c7acc1d59d7",
+			"url": "https://upload.wikimedia.org/math/7/5/b/75bf74d3b5a26d1f3bb9cb928fda3ba9.png",
+			"previous": " ",
+			"after": " The rational root test may also be used for a cubic equation with rational coefficients by multiplication by the lowest common denominator of the coefficients one gets an equation with integer coefficients which has exactly the same roots ",
+			"color": "black|0.37547 dim|0.25271 gray|0.25271 dim|0.25271 grey|0.25271 gray|0.16611 grey|0.16611 dark|0.10705 gray|0.10705 dark|0.10705 grey|0.10705 silver|0.048417 light|0.02443 gray|0.02443 light|0.02443 grey|0.02443 gainsboro|0.016706  ",
+			"after_weights": " The|1 rational|0.97368 root|0.94737 test|0.92105 may|0.89474 also|0.86842 be|0.84211 used|0.81579 for|0.78947 a|0.76316 cubic|0.73684 equation|0.71053 with|0.68421 rational|0.65789 coefficients|0.63158 by|0.60526 multiplication|0.57895 by|0.55263 the|0.52632 lowest|0.5 common|0.47368 denominator|0.44737 of|0.42105 the|0.39474 coefficients|0.36842 one|0.34211 gets|0.31579 an|0.28947 equation|0.26316 with|0.23684 integer|0.21053 coefficients|0.18421 which|0.15789 has|0.13158 exactly|0.10526 the|0.078947 same|0.052632 roots|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

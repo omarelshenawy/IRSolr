@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4cc4ccaaf386c098aa6481967ac582a287a10106b99100c4430b02974a7f9b69",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Spizella_passerina1.jpg/150px-Spizella_passerina1.jpg",
+			"previous": " ",
+			"after": " Order Passeriformes Family Emberizidae The Emberizidae is a large passerine family They are seed eating birds with distinctively shaped bills In Europe most species are called buntings In North America most of the species in this family are called sparrows although they are not closely related to the Old World sparrows in the family Passeridae Many emberizid species have distinctive head patterns ",
+			"color": "dim|0.25374 gray|0.25374 dim|0.25374 grey|0.25374 gray|0.2259 grey|0.2259 dark|0.19396 gray|0.19396 dark|0.19396 grey|0.19396 silver|0.10114 light|0.052778 gray|0.052778 light|0.052778 grey|0.052778 gainsboro|0.034455 dark|0.031929 sea|0.031929 green|0.031929 slate|0.019025 gray|0.019025 light|0.015352 slate|0.015352 gray|0.015352 dark|0.0088341 olive|0.0088341 green|0.0088341 white|0.0070691 smoke|0.0070691 lavender|0.0062808  ",
+			"after_weights": " Order|1 Passeriformes|0.98387 Family|0.96774 Emberizidae|0.95161 The|0.93548 Emberizidae|0.91935 is|0.90323 a|0.8871 large|0.87097 passerine|0.85484 family|0.83871 They|0.82258 are|0.80645 seed|0.79032 eating|0.77419 birds|0.75806 with|0.74194 distinctively|0.72581 shaped|0.70968 bills|0.69355 In|0.67742 Europe|0.66129 most|0.64516 species|0.62903 are|0.6129 called|0.59677 buntings|0.58065 In|0.56452 North|0.54839 America|0.53226 most|0.51613 of|0.5 the|0.48387 species|0.46774 in|0.45161 this|0.43548 family|0.41935 are|0.40323 called|0.3871 sparrows|0.37097 although|0.35484 they|0.33871 are|0.32258 not|0.30645 closely|0.29032 related|0.27419 to|0.25806 the|0.24194 Old|0.22581 World|0.20968 sparrows|0.19355 in|0.17742 the|0.16129 family|0.14516 Passeridae|0.12903 Many|0.1129 emberizid|0.096774 species|0.080645 have|0.064516 distinctive|0.048387 head|0.032258 patterns|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

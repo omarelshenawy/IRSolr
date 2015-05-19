@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a4a53afbebebb707822467ac801e5d89d7ad2d5aa030242aac4fae3a8db98fd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Communist-manifesto.png/220px-Communist-manifesto.png",
+			"previous": " At the end of the 19th century Social Darwinism was promoted and included the various ideologies based on a concept that competition among all individuals groups nations or ideas was a natural framework for social evolution in human societies In this view society s advancement is dependent on the survival of the fittest the term was in fact coined by Herbert Spencer and referred to in The Gospel of Wealth written by Andrew Carnegie ",
+			"after": " Karl Marx summarized his approach to history and politics in the opening line of the first chapter of The Communist Manifesto 1848 He wrote ",
+			"color": "tan|0.99833  ",
+			"after_weights": " Karl|1 Marx|0.95833 summarized|0.91667 his|0.875 approach|0.83333 to|0.79167 history|0.75 and|0.70833 politics|0.66667 in|0.625 the|0.58333 opening|0.54167 line|0.5 of|0.45833 the|0.41667 first|0.375 chapter|0.33333 of|0.29167 The|0.25 Communist|0.20833 Manifesto|0.16667 1848|0.125 He|0.083333 wrote|0.041667 |0",
+			"previous_weights": " At|0 the|0.013514 end|0.027027 of|0.040541 the|0.054054 19th|0.067568 century|0.081081 Social|0.094595 Darwinism|0.10811 was|0.12162 promoted|0.13514 and|0.14865 included|0.16216 the|0.17568 various|0.18919 ideologies|0.2027 based|0.21622 on|0.22973 a|0.24324 concept|0.25676 that|0.27027 competition|0.28378 among|0.2973 all|0.31081 individuals|0.32432 groups|0.33784 nations|0.35135 or|0.36486 ideas|0.37838 was|0.39189 a|0.40541 natural|0.41892 framework|0.43243 for|0.44595 social|0.45946 evolution|0.47297 in|0.48649 human|0.5 societies|0.51351 In|0.52703 this|0.54054 view|0.55405 society|0.56757 s|0.58108 advancement|0.59459 is|0.60811 dependent|0.62162 on|0.63514 the|0.64865 survival|0.66216 of|0.67568 the|0.68919 fittest|0.7027 the|0.71622 term|0.72973 was|0.74324 in|0.75676 fact|0.77027 coined|0.78378 by|0.7973 Herbert|0.81081 Spencer|0.82432 and|0.83784 referred|0.85135 to|0.86486 in|0.87838 The|0.89189 Gospel|0.90541 of|0.91892 Wealth|0.93243 written|0.94595 by|0.95946 Andrew|0.97297 Carnegie|0.98649 |1"
+		}
+	}
+}

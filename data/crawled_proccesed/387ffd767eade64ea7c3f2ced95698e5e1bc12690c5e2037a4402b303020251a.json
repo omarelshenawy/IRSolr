@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "387ffd767eade64ea7c3f2ced95698e5e1bc12690c5e2037a4402b303020251a",
+			"url": "https://upload.wikimedia.org/math/e/3/8/e3800023caf2f1fba4a7450416f63dbc.png",
+			"previous": " Given two combinatorial families and with generating functions F x and G x respectively the union of the two families has generating function F x G x ",
+			"after": " A sequence generalizes the idea of the pair as defined above Sequences are arbitrary Cartesian products of a combinatorial object with itself Formally ",
+			"color": "dim|0.31088 gray|0.31088 dim|0.31088 grey|0.31088 gray|0.29005 grey|0.29005 dark|0.18221 gray|0.18221 dark|0.18221 grey|0.18221 silver|0.088302 light|0.049893 gray|0.049893 light|0.049893 grey|0.049893 gainsboro|0.037646 white|0.0076698 smoke|0.0076698 alice|0.0040474 blue|0.0040474 ghost|0.004001 white|0.004001 snow|0.0039781 lavender|0.0039298 blush|0.0039298 sea|0.0036402 shell|0.0036402 linen|0.0036277 white|0.003055  ",
+			"after_weights": " A|1 sequence|0.95652 generalizes|0.91304 the|0.86957 idea|0.82609 of|0.78261 the|0.73913 pair|0.69565 as|0.65217 defined|0.6087 above|0.56522 Sequences|0.52174 are|0.47826 arbitrary|0.43478 Cartesian|0.3913 products|0.34783 of|0.30435 a|0.26087 combinatorial|0.21739 object|0.17391 with|0.13043 itself|0.086957 Formally|0.043478 |0",
+			"previous_weights": " Given|0 two|0.037037 combinatorial|0.074074 families|0.11111 and|0.14815 with|0.18519 generating|0.22222 functions|0.25926 F|0.2963 x|0.33333 and|0.37037 G|0.40741 x|0.44444 respectively|0.48148 the|0.51852 union|0.55556 of|0.59259 the|0.62963 two|0.66667 families|0.7037 has|0.74074 generating|0.77778 function|0.81481 F|0.85185 x|0.88889 G|0.92593 x|0.96296 |1"
+		}
+	}
+}

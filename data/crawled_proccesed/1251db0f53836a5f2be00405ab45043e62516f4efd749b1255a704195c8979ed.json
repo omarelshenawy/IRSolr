@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1251db0f53836a5f2be00405ab45043e62516f4efd749b1255a704195c8979ed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lufthansa_bombardier_crj-200_d-acrf_arp.jpg/220px-Lufthansa_bombardier_crj-200_d-acrf_arp.jpg",
+			"previous": " Because these aircraft are frequently operated by smaller airlines that are contracted to provide feed passengers from smaller cities to hub airports and reverse for a major or flag carrier regional airliners may be painted in the liveries of the major airline for whom they provide this feeder service so the regional airlines may offer and market a seamless transition between the larger airline to smaller airline ",
+			"after": " ",
+			"color": "black|0.16294 dim|0.141 gray|0.141 dim|0.141 grey|0.141 dark|0.089746 gray|0.089746 dark|0.089746 grey|0.089746 silver|0.07014 light|0.064518 gray|0.064518 light|0.064518 grey|0.064518 gray|0.06234 grey|0.06234 gainsboro|0.05545 light|0.054207 steel|0.054207 blue|0.054207 light|0.04998 slate|0.04998 gray|0.04998 slate|0.047625 gray|0.047625 lavender|0.027858 white|0.022497 smoke|0.022497 ghost|0.018177 white|0.018177 alice|0.018157 blue|0.018157 lavender|0.015677 blush|0.015677 snow|0.014063 sea|0.010724 shell|0.010724 white|0.010483  ",
+			"after_weights": " ",
+			"previous_weights": " Because|0 these|0.014925 aircraft|0.029851 are|0.044776 frequently|0.059701 operated|0.074627 by|0.089552 smaller|0.10448 airlines|0.1194 that|0.13433 are|0.14925 contracted|0.16418 to|0.1791 provide|0.19403 feed|0.20896 passengers|0.22388 from|0.23881 smaller|0.25373 cities|0.26866 to|0.28358 hub|0.29851 airports|0.31343 and|0.32836 reverse|0.34328 for|0.35821 a|0.37313 major|0.38806 or|0.40299 flag|0.41791 carrier|0.43284 regional|0.44776 airliners|0.46269 may|0.47761 be|0.49254 painted|0.50746 in|0.52239 the|0.53731 liveries|0.55224 of|0.56716 the|0.58209 major|0.59701 airline|0.61194 for|0.62687 whom|0.64179 they|0.65672 provide|0.67164 this|0.68657 feeder|0.70149 service|0.71642 so|0.73134 the|0.74627 regional|0.76119 airlines|0.77612 may|0.79104 offer|0.80597 and|0.8209 market|0.83582 a|0.85075 seamless|0.86567 transition|0.8806 between|0.89552 the|0.91045 larger|0.92537 airline|0.9403 to|0.95522 smaller|0.97015 airline|0.98507 |1"
+		}
+	}
+}

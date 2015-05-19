@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "60749124a5c05f5350368e31d676566a3d6af01ef9b3df52e4ba3acad2fb7704",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ultimatum_Game_Extensive_Form.svg/220px-Ultimatum_Game_Extensive_Form.svg.png",
+			"previous": " ",
+			"after": " The extensive form can be used to formalize games with a time sequencing of moves Games here are played on trees as pictured to the left Here each vertex or node represents a point of choice for a player The player is specified by a number listed by the vertex The lines out of the vertex represent a possible action for that player The payoffs are specified at the bottom of the tree The extensive form can be viewed as a multi player generalization of a decision tree 4 ",
+			"color": "black|0.43252 dim|0.19581 gray|0.19581 dim|0.19581 grey|0.19581 gray|0.19532 grey|0.19532 dark|0.14862 gray|0.14862 dark|0.14862 grey|0.14862 silver|0.025704  ",
+			"after_weights": " The|1 extensive|0.98876 form|0.97753 can|0.96629 be|0.95506 used|0.94382 to|0.93258 formalize|0.92135 games|0.91011 with|0.89888 a|0.88764 time|0.8764 sequencing|0.86517 of|0.85393 moves|0.8427 Games|0.83146 here|0.82022 are|0.80899 played|0.79775 on|0.78652 trees|0.77528 as|0.76404 pictured|0.75281 to|0.74157 the|0.73034 left|0.7191 Here|0.70787 each|0.69663 vertex|0.68539 or|0.67416 node|0.66292 represents|0.65169 a|0.64045 point|0.62921 of|0.61798 choice|0.60674 for|0.59551 a|0.58427 player|0.57303 The|0.5618 player|0.55056 is|0.53933 specified|0.52809 by|0.51685 a|0.50562 number|0.49438 listed|0.48315 by|0.47191 the|0.46067 vertex|0.44944 The|0.4382 lines|0.42697 out|0.41573 of|0.40449 the|0.39326 vertex|0.38202 represent|0.37079 a|0.35955 possible|0.34831 action|0.33708 for|0.32584 that|0.31461 player|0.30337 The|0.29213 payoffs|0.2809 are|0.26966 specified|0.25843 at|0.24719 the|0.23596 bottom|0.22472 of|0.21348 the|0.20225 tree|0.19101 The|0.17978 extensive|0.16854 form|0.1573 can|0.14607 be|0.13483 viewed|0.1236 as|0.11236 a|0.10112 multi|0.089888 player|0.078652 generalization|0.067416 of|0.05618 a|0.044944 decision|0.033708 tree|0.022472 4|0.011236 |0",
+			"previous_weights": " "
+		}
+	}
+}

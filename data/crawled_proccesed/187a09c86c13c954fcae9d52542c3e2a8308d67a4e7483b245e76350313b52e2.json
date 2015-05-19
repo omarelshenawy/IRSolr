@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "187a09c86c13c954fcae9d52542c3e2a8308d67a4e7483b245e76350313b52e2",
+			"url": "https://upload.wikimedia.org/math/d/1/6/d168fa438b65b5115782c9f9224e9fb4.png",
+			"previous": " E g  The degree of the sum or difference of two polynomials is equal to or less than the greater of their degrees the equality holds always when the degrees of the polynomials are different i e ",
+			"after": " Note that for polynomials over an arbitrary ring this is not necessarily true For example in but  The degree of the composition of two non constant polynomials and over a field or integral domain is the product of their degrees ",
+			"color": "dim|0.3974 gray|0.3974 dim|0.3974 grey|0.3974 gray|0.27594 grey|0.27594 dark|0.17072 gray|0.17072 dark|0.17072 grey|0.17072 silver|0.074725 light|0.037934 gray|0.037934 light|0.037934 grey|0.037934 gainsboro|0.027045 white|0.0048201 smoke|0.0048201  ",
+			"after_weights": " Note|1 that|0.97561 for|0.95122 polynomials|0.92683 over|0.90244 an|0.87805 arbitrary|0.85366 ring|0.82927 this|0.80488 is|0.78049 not|0.7561 necessarily|0.73171 true|0.70732 For|0.68293 example|0.65854 in|0.63415 but|0.60976 |0.58537 The|0.56098 degree|0.53659 of|0.5122 the|0.4878 composition|0.46341 of|0.43902 two|0.41463 non|0.39024 constant|0.36585 polynomials|0.34146 and|0.31707 over|0.29268 a|0.26829 field|0.2439 or|0.21951 integral|0.19512 domain|0.17073 is|0.14634 the|0.12195 product|0.097561 of|0.073171 their|0.04878 degrees|0.02439 |0",
+			"previous_weights": " E|0 g|0.026316 |0.052632 The|0.078947 degree|0.10526 of|0.13158 the|0.15789 sum|0.18421 or|0.21053 difference|0.23684 of|0.26316 two|0.28947 polynomials|0.31579 is|0.34211 equal|0.36842 to|0.39474 or|0.42105 less|0.44737 than|0.47368 the|0.5 greater|0.52632 of|0.55263 their|0.57895 degrees|0.60526 the|0.63158 equality|0.65789 holds|0.68421 always|0.71053 when|0.73684 the|0.76316 degrees|0.78947 of|0.81579 the|0.84211 polynomials|0.86842 are|0.89474 different|0.92105 i|0.94737 e|0.97368 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93f0c2ec3cfa221a7edfd49fd19a35d4417e1350ffb5b6cf36463e3759ead385",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Corendon_Kids_and_Co_B737-300_TC-TJB.jpg/220px-Corendon_Kids_and_Co_B737-300_TC-TJB.jpg",
+			"previous": " Corendon Airlines operates to 36 routes and 150 airports It also operates seasonal and charter flights to and from many European countries to Turkey and the Netherlands ",
+			"after": " As of May 2015 the Corendon Airlines fleet consists of the following aircraft 2 ",
+			"color": "dim|0.18336 gray|0.18336 dim|0.18336 grey|0.18336 light|0.12267 steel|0.12267 blue|0.12267 slate|0.078036 gray|0.078036 black|0.070241 light|0.063383 slate|0.063383 gray|0.063383 lavender|0.0418 gray|0.032516 grey|0.032516 gainsboro|0.028878 dark|0.027648 gray|0.027648 dark|0.027648 grey|0.027648 firebrick|0.027589 silver|0.026487 light|0.02626 gray|0.02626 light|0.02626 grey|0.02626 brown|0.023765 alice|0.022725 blue|0.022725 ghost|0.019502 white|0.019502  ",
+			"after_weights": " As|1 of|0.92857 May|0.85714 2015|0.78571 the|0.71429 Corendon|0.64286 Airlines|0.57143 fleet|0.5 consists|0.42857 of|0.35714 the|0.28571 following|0.21429 aircraft|0.14286 2|0.071429 |0",
+			"previous_weights": " Corendon|0 Airlines|0.037037 operates|0.074074 to|0.11111 36|0.14815 routes|0.18519 and|0.22222 150|0.25926 airports|0.2963 It|0.33333 also|0.37037 operates|0.40741 seasonal|0.44444 and|0.48148 charter|0.51852 flights|0.55556 to|0.59259 and|0.62963 from|0.66667 many|0.7037 European|0.74074 countries|0.77778 to|0.81481 Turkey|0.85185 and|0.88889 the|0.92593 Netherlands|0.96296 |1"
+		}
+	}
+}

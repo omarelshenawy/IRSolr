@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "66c64271fb9e22ff6a83adb537410f39e0a07f1413706c72289614a8afb13af2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jex_337j.JPG/220px-Jex_337j.JPG",
+			"previous": " JAL Express operated to the following destinations as of September 2014 9 ",
+			"after": " In addition to the normal scheduled passenger services JAL Express also operated to the following destinations on behalf of Japan Airlines under a wet lease agreement 9 ",
+			"color": "dim|0.070206 gray|0.070206 dim|0.070206 grey|0.070206 lavender|0.069166 gainsboro|0.065862 dark|0.065854 olive|0.065854 green|0.065854 gray|0.064432 grey|0.064432 alice|0.064018 blue|0.064018 ghost|0.059978 white|0.059978 light|0.056753 gray|0.056753 light|0.056753 grey|0.056753 white|0.055936 smoke|0.055936 dark|0.049082 gray|0.049082 dark|0.049082 grey|0.049082 silver|0.045714 lavender|0.039948 blush|0.039948 snow|0.038935 white|0.035321 azure|0.034186 mint|0.028639 cream|0.028639 sea|0.024128 shell|0.024128 dark|0.022643 slate|0.022643 gray|0.022643 light|0.022265 steel|0.022265 blue|0.022265 floral|0.018466 white|0.018466 light|0.011273 slate|0.011273 gray|0.011273 slate|0.010386 gray|0.010386  ",
+			"after_weights": " In|1 addition|0.96296 to|0.92593 the|0.88889 normal|0.85185 scheduled|0.81481 passenger|0.77778 services|0.74074 JAL|0.7037 Express|0.66667 also|0.62963 operated|0.59259 to|0.55556 the|0.51852 following|0.48148 destinations|0.44444 on|0.40741 behalf|0.37037 of|0.33333 Japan|0.2963 Airlines|0.25926 under|0.22222 a|0.18519 wet|0.14815 lease|0.11111 agreement|0.074074 9|0.037037 |0",
+			"previous_weights": " JAL|0 Express|0.083333 operated|0.16667 to|0.25 the|0.33333 following|0.41667 destinations|0.5 as|0.58333 of|0.66667 September|0.75 2014|0.83333 9|0.91667 |1"
+		}
+	}
+}

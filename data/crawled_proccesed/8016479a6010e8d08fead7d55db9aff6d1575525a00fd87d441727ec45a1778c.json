@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8016479a6010e8d08fead7d55db9aff6d1575525a00fd87d441727ec45a1778c",
+			"url": "https://upload.wikimedia.org/math/8/e/6/8e6ba967645c302e1f2a60ec9c341e5c.png",
+			"previous": " The variational problem also applies to more general boundary conditions Instead of requiring that vanish at the endpoints we may not impose any condition at the endpoints and set",
+			"after": " where is given by the ratio as previously After integration by parts ",
+			"color": "dark|0.29357 gray|0.29357 dark|0.29357 grey|0.29357 gray|0.22842 grey|0.22842 silver|0.20678 light|0.11574 gray|0.11574 light|0.11574 grey|0.11574 gainsboro|0.087028 dim|0.063901 gray|0.063901 dim|0.063901 grey|0.063901  ",
+			"after_weights": " where|1 is|0.91667 given|0.83333 by|0.75 the|0.66667 ratio|0.58333 as|0.5 previously|0.41667 After|0.33333 integration|0.25 by|0.16667 parts|0.083333 |0",
+			"previous_weights": " The|0 variational|0.035714 problem|0.071429 also|0.10714 applies|0.14286 to|0.17857 more|0.21429 general|0.25 boundary|0.28571 conditions|0.32143 Instead|0.35714 of|0.39286 requiring|0.42857 that|0.46429 vanish|0.5 at|0.53571 the|0.57143 endpoints|0.60714 we|0.64286 may|0.67857 not|0.71429 impose|0.75 any|0.78571 condition|0.82143 at|0.85714 the|0.89286 endpoints|0.92857 and|0.96429 set|1"
+		}
+	}
+}

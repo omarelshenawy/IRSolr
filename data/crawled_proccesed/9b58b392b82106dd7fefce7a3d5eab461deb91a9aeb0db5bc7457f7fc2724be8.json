@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b58b392b82106dd7fefce7a3d5eab461deb91a9aeb0db5bc7457f7fc2724be8",
+			"url": "https://upload.wikimedia.org/math/d/7/9/d7959a1a4e5af0c29600d66a7fac615b.png",
+			"previous": " Decryption is performed similarly ",
+			"after": "  There are different definitions for the modulo operation In the above the result is in the range 0 25 I e if x n or x n are not in the range 0 25 we have to subtract or add 26 ",
+			"color": "dim|0.40251 gray|0.40251 dim|0.40251 grey|0.40251 gray|0.27369 grey|0.27369 dark|0.17018 gray|0.17018 dark|0.17018 grey|0.17018 silver|0.07355 light|0.037546 gray|0.037546 light|0.037546 grey|0.037546 gainsboro|0.026662 white|0.0041214 smoke|0.0041214  ",
+			"after_weights": " |1 There|0.97619 are|0.95238 different|0.92857 definitions|0.90476 for|0.88095 the|0.85714 modulo|0.83333 operation|0.80952 In|0.78571 the|0.7619 above|0.7381 the|0.71429 result|0.69048 is|0.66667 in|0.64286 the|0.61905 range|0.59524 0|0.57143 25|0.54762 I|0.52381 e|0.5 if|0.47619 x|0.45238 n|0.42857 or|0.40476 x|0.38095 n|0.35714 are|0.33333 not|0.30952 in|0.28571 the|0.2619 range|0.2381 0|0.21429 25|0.19048 we|0.16667 have|0.14286 to|0.11905 subtract|0.095238 or|0.071429 add|0.047619 26|0.02381 |0",
+			"previous_weights": " Decryption|0 is|0.25 performed|0.5 similarly|0.75 |1"
+		}
+	}
+}

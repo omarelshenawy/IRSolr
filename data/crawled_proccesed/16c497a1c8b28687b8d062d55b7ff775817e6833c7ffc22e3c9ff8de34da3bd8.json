@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "16c497a1c8b28687b8d062d55b7ff775817e6833c7ffc22e3c9ff8de34da3bd8",
+			"url": "https://upload.wikimedia.org/math/b/0/1/b01a960971eee670ac89fc237e6437ef.png",
+			"previous": " If one limit of integration is variable it is called a Volterra equation The following are called Volterra equations of the first and second types respectively ",
+			"after": " In all of the above if the known function f is identically zero it is called a homogeneous integral equation If f is nonzero it is called an inhomogeneous integral equation ",
+			"color": "dim|0.35135 gray|0.35135 dim|0.35135 grey|0.35135 gray|0.30456 grey|0.30456 dark|0.19083 gray|0.19083 dark|0.19083 grey|0.19083 silver|0.077492 light|0.03612 gray|0.03612 light|0.03612 grey|0.03612 gainsboro|0.025074 white|0.0041317 smoke|0.0041317  ",
+			"after_weights": " In|1 all|0.96774 of|0.93548 the|0.90323 above|0.87097 if|0.83871 the|0.80645 known|0.77419 function|0.74194 f|0.70968 is|0.67742 identically|0.64516 zero|0.6129 it|0.58065 is|0.54839 called|0.51613 a|0.48387 homogeneous|0.45161 integral|0.41935 equation|0.3871 If|0.35484 f|0.32258 is|0.29032 nonzero|0.25806 it|0.22581 is|0.19355 called|0.16129 an|0.12903 inhomogeneous|0.096774 integral|0.064516 equation|0.032258 |0",
+			"previous_weights": " If|0 one|0.038462 limit|0.076923 of|0.11538 integration|0.15385 is|0.19231 variable|0.23077 it|0.26923 is|0.30769 called|0.34615 a|0.38462 Volterra|0.42308 equation|0.46154 The|0.5 following|0.53846 are|0.57692 called|0.61538 Volterra|0.65385 equations|0.69231 of|0.73077 the|0.76923 first|0.80769 and|0.84615 second|0.88462 types|0.92308 respectively|0.96154 |1"
+		}
+	}
+}

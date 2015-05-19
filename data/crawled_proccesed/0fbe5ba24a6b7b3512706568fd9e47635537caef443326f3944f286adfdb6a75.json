@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fbe5ba24a6b7b3512706568fd9e47635537caef443326f3944f286adfdb6a75",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lockheed_Hudson_III_Point_Cook_Vabre.jpg/220px-Lockheed_Hudson_III_Point_Cook_Vabre.jpg",
+			"previous": " The type formed the basis for development of the Lockheed Ventura resulting in them being withdrawn from front line service from 1944 though many survived the war to be used as civil transports primarily in Australia and a single example was briefly used as an airline crew trainer in New Zealand ",
+			"after": " Data from citation needed  General characteristics Performance Armament",
+			"color": "dim|0.31106 gray|0.31106 dim|0.31106 grey|0.31106 gray|0.20599 grey|0.20599 black|0.13515 dark|0.10263 gray|0.10263 dark|0.10263 grey|0.10263 slate|0.050719 gray|0.050719 silver|0.043227 light|0.036377 gray|0.036377 light|0.036377 grey|0.036377 gainsboro|0.029681 light|0.017012 slate|0.017012 gray|0.017012 lavender|0.01594 dark|0.015776 slate|0.015776 gray|0.015776 light|0.010917 steel|0.010917 blue|0.010917 alice|0.0048118 blue|0.0048118  ",
+			"after_weights": " Data|1 from|0.875 citation|0.75 needed|0.625 |0.5 General|0.375 characteristics|0.25 Performance|0.125 Armament|0",
+			"previous_weights": " The|0 type|0.019608 formed|0.039216 the|0.058824 basis|0.078431 for|0.098039 development|0.11765 of|0.13725 the|0.15686 Lockheed|0.17647 Ventura|0.19608 resulting|0.21569 in|0.23529 them|0.2549 being|0.27451 withdrawn|0.29412 from|0.31373 front|0.33333 line|0.35294 service|0.37255 from|0.39216 1944|0.41176 though|0.43137 many|0.45098 survived|0.47059 the|0.4902 war|0.5098 to|0.52941 be|0.54902 used|0.56863 as|0.58824 civil|0.60784 transports|0.62745 primarily|0.64706 in|0.66667 Australia|0.68627 and|0.70588 a|0.72549 single|0.7451 example|0.76471 was|0.78431 briefly|0.80392 used|0.82353 as|0.84314 an|0.86275 airline|0.88235 crew|0.90196 trainer|0.92157 in|0.94118 New|0.96078 Zealand|0.98039 |1"
+		}
+	}
+}

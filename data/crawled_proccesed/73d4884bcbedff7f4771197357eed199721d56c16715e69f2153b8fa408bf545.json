@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73d4884bcbedff7f4771197357eed199721d56c16715e69f2153b8fa408bf545",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spanair_EC-KET_09-05-18_PMI.jpg/220px-Spanair_EC-KET_09-05-18_PMI.jpg",
+			"previous": " ",
+			"after": " In January 1985 McDonnell Douglas announced it would produce a shorter fuselage MD 80 variant designated MD 87 DC 9 87 which would seat between 109 and 130 passengers depending upon configuration The designation was intended to indicate its planned date of entry into service 1987 ",
+			"color": "gray|0.3017 grey|0.3017 dark|0.15631 gray|0.15631 dark|0.15631 grey|0.15631 dim|0.12775 gray|0.12775 dim|0.12775 grey|0.12775 black|0.10146 silver|0.080141 light|0.077713 gray|0.077713 light|0.077713 grey|0.077713 gainsboro|0.066667 white|0.019038 smoke|0.019038 alice|0.0094313 blue|0.0094313 light|0.0071965 slate|0.0071965 gray|0.0071965 slate|0.0070587 gray|0.0070587  ",
+			"after_weights": " In|1 January|0.97826 1985|0.95652 McDonnell|0.93478 Douglas|0.91304 announced|0.8913 it|0.86957 would|0.84783 produce|0.82609 a|0.80435 shorter|0.78261 fuselage|0.76087 MD|0.73913 80|0.71739 variant|0.69565 designated|0.67391 MD|0.65217 87|0.63043 DC|0.6087 9|0.58696 87|0.56522 which|0.54348 would|0.52174 seat|0.5 between|0.47826 109|0.45652 and|0.43478 130|0.41304 passengers|0.3913 depending|0.36957 upon|0.34783 configuration|0.32609 The|0.30435 designation|0.28261 was|0.26087 intended|0.23913 to|0.21739 indicate|0.19565 its|0.17391 planned|0.15217 date|0.13043 of|0.1087 entry|0.086957 into|0.065217 service|0.043478 1987|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

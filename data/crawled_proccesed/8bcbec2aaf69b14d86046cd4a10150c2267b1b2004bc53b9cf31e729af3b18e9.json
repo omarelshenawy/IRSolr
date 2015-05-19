@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8bcbec2aaf69b14d86046cd4a10150c2267b1b2004bc53b9cf31e729af3b18e9",
+			"url": "https://upload.wikimedia.org/math/e/1/8/e18d67a0e9dc70832ddefb26553576b7.png",
+			"previous": " Matrices which have a single row are called row vectors and those which have a single column are called column vectors A matrix which has the same number of rows and columns is called a square matrix A matrix with an infinite number of rows or columns or both is called an infinite matrix In some contexts such as computer algebra programs it is useful to consider a matrix with no rows or no columns called an empty matrix ",
+			"after": " ",
+			"color": "dim|0.42524 gray|0.42524 dim|0.42524 grey|0.42524 gray|0.29139 grey|0.29139 dark|0.16239 gray|0.16239 dark|0.16239 grey|0.16239 silver|0.056376 light|0.027313 gray|0.027313 light|0.027313 grey|0.027313 gainsboro|0.020123 white|0.0038922 smoke|0.0038922  ",
+			"after_weights": " ",
+			"previous_weights": " Matrices|0 which|0.012658 have|0.025316 a|0.037975 single|0.050633 row|0.063291 are|0.075949 called|0.088608 row|0.10127 vectors|0.11392 and|0.12658 those|0.13924 which|0.1519 have|0.16456 a|0.17722 single|0.18987 column|0.20253 are|0.21519 called|0.22785 column|0.24051 vectors|0.25316 A|0.26582 matrix|0.27848 which|0.29114 has|0.3038 the|0.31646 same|0.32911 number|0.34177 of|0.35443 rows|0.36709 and|0.37975 columns|0.39241 is|0.40506 called|0.41772 a|0.43038 square|0.44304 matrix|0.4557 A|0.46835 matrix|0.48101 with|0.49367 an|0.50633 infinite|0.51899 number|0.53165 of|0.5443 rows|0.55696 or|0.56962 columns|0.58228 or|0.59494 both|0.60759 is|0.62025 called|0.63291 an|0.64557 infinite|0.65823 matrix|0.67089 In|0.68354 some|0.6962 contexts|0.70886 such|0.72152 as|0.73418 computer|0.74684 algebra|0.75949 programs|0.77215 it|0.78481 is|0.79747 useful|0.81013 to|0.82278 consider|0.83544 a|0.8481 matrix|0.86076 with|0.87342 no|0.88608 rows|0.89873 or|0.91139 no|0.92405 columns|0.93671 called|0.94937 an|0.96203 empty|0.97468 matrix|0.98734 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d9f74200f1d9a14b057aa184b6ef6922a17e4d9b9dbba05dbffa0c6e21d489f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UCLA-old-statenormal-campus.jpg/220px-UCLA-old-statenormal-campus.jpg",
+			"previous": " ",
+			"after": " There are three public universities located within the city limits California State University Los Angeles CSULA California State University Northridge CSUN and University of California Los Angeles UCLA ",
+			"color": " ",
+			"after_weights": " There|1 are|0.96429 three|0.92857 public|0.89286 universities|0.85714 located|0.82143 within|0.78571 the|0.75 city|0.71429 limits|0.67857 California|0.64286 State|0.60714 University|0.57143 Los|0.53571 Angeles|0.5 CSULA|0.46429 California|0.42857 State|0.39286 University|0.35714 Northridge|0.32143 CSUN|0.28571 and|0.25 University|0.21429 of|0.17857 California|0.14286 Los|0.10714 Angeles|0.071429 UCLA|0.035714 |0",
+			"previous_weights": " "
+		}
+	}
+}

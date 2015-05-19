@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e5f9f45a3949c201b8581bec41031d2a69f1f2161d1fcdd1a139e265b154863",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Geodetic_coordinates.svg/200px-Geodetic_coordinates.svg.png",
+			"previous": " ",
+			"after": " At an arbitrary point P consider the line PN which is normal to the reference ellipsoid The geodetic coordinates P h are the latitude and longitude of the point N on the ellipsoid and the distance PN This height differs from the height above the geoid or a reference height such as that above mean sea level at a specified location The direction of PN will also differ from the direction of a vertical plumb line The relation of these different heights requires knowledge of the shape of the geoid and also the gravity field of the Earth ",
+			"color": "gray|0.28285 grey|0.28285 dim|0.22961 gray|0.22961 dim|0.22961 grey|0.22961 dark|0.21555 gray|0.21555 dark|0.21555 grey|0.21555 black|0.1498 silver|0.087236 light|0.011284 gray|0.011284 light|0.011284 grey|0.011284 gainsboro|0.0045453  ",
+			"after_weights": " At|1 an|0.9898 arbitrary|0.97959 point|0.96939 P|0.95918 consider|0.94898 the|0.93878 line|0.92857 PN|0.91837 which|0.90816 is|0.89796 normal|0.88776 to|0.87755 the|0.86735 reference|0.85714 ellipsoid|0.84694 The|0.83673 geodetic|0.82653 coordinates|0.81633 P|0.80612 h|0.79592 are|0.78571 the|0.77551 latitude|0.76531 and|0.7551 longitude|0.7449 of|0.73469 the|0.72449 point|0.71429 N|0.70408 on|0.69388 the|0.68367 ellipsoid|0.67347 and|0.66327 the|0.65306 distance|0.64286 PN|0.63265 This|0.62245 height|0.61224 differs|0.60204 from|0.59184 the|0.58163 height|0.57143 above|0.56122 the|0.55102 geoid|0.54082 or|0.53061 a|0.52041 reference|0.5102 height|0.5 such|0.4898 as|0.47959 that|0.46939 above|0.45918 mean|0.44898 sea|0.43878 level|0.42857 at|0.41837 a|0.40816 specified|0.39796 location|0.38776 The|0.37755 direction|0.36735 of|0.35714 PN|0.34694 will|0.33673 also|0.32653 differ|0.31633 from|0.30612 the|0.29592 direction|0.28571 of|0.27551 a|0.26531 vertical|0.2551 plumb|0.2449 line|0.23469 The|0.22449 relation|0.21429 of|0.20408 these|0.19388 different|0.18367 heights|0.17347 requires|0.16327 knowledge|0.15306 of|0.14286 the|0.13265 shape|0.12245 of|0.11224 the|0.10204 geoid|0.091837 and|0.081633 also|0.071429 the|0.061224 gravity|0.05102 field|0.040816 of|0.030612 the|0.020408 Earth|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

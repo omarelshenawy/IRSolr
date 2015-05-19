@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c2fa8a9271a88260c3e82f83798a78c72872d80b6b34b1a561c584144a51a3f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/WhitebreastedNuthatch23.jpg/150px-WhitebreastedNuthatch23.jpg",
+			"previous": " ",
+			"after": " Order Passeriformes Family Sittidae Nuthatches are small woodland birds They have the unusual ability to climb down trees head first unlike most other birds which can only go upwards Nuthatches have big heads short tails and powerful bills and feet ",
+			"color": "dim|0.4733 gray|0.4733 dim|0.4733 grey|0.4733 gray|0.34021 grey|0.34021 black|0.1137 dark|0.053227 gray|0.053227 dark|0.053227 grey|0.053227 slate|0.0083126 gray|0.0083126  ",
+			"after_weights": " Order|1 Passeriformes|0.975 Family|0.95 Sittidae|0.925 Nuthatches|0.9 are|0.875 small|0.85 woodland|0.825 birds|0.8 They|0.775 have|0.75 the|0.725 unusual|0.7 ability|0.675 to|0.65 climb|0.625 down|0.6 trees|0.575 head|0.55 first|0.525 unlike|0.5 most|0.475 other|0.45 birds|0.425 which|0.4 can|0.375 only|0.35 go|0.325 upwards|0.3 Nuthatches|0.275 have|0.25 big|0.225 heads|0.2 short|0.175 tails|0.15 and|0.125 powerful|0.1 bills|0.075 and|0.05 feet|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

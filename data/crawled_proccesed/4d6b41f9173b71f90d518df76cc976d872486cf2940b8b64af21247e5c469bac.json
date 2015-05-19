@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d6b41f9173b71f90d518df76cc976d872486cf2940b8b64af21247e5c469bac",
+			"url": "https://upload.wikimedia.org/math/a/2/4/a24aa27b994ce36617f54190e57d0294.png",
+			"previous": " Another representation of similar formulas but using normal vectors instead of latitude longitude to describe the positions is found by means of 3D vector algebra i e utilizing the dot product cross product or a combination 5 ",
+			"after": " A line through three dimensional space between points of interest on a spherical Earth is the chord of the great circle between the points The central angle between the two points can be determined from the chord length The great circle distance is proportional to the central angle ",
+			"color": " ",
+			"after_weights": " A|1 line|0.97917 through|0.95833 three|0.9375 dimensional|0.91667 space|0.89583 between|0.875 points|0.85417 of|0.83333 interest|0.8125 on|0.79167 a|0.77083 spherical|0.75 Earth|0.72917 is|0.70833 the|0.6875 chord|0.66667 of|0.64583 the|0.625 great|0.60417 circle|0.58333 between|0.5625 the|0.54167 points|0.52083 The|0.5 central|0.47917 angle|0.45833 between|0.4375 the|0.41667 two|0.39583 points|0.375 can|0.35417 be|0.33333 determined|0.3125 from|0.29167 the|0.27083 chord|0.25 length|0.22917 The|0.20833 great|0.1875 circle|0.16667 distance|0.14583 is|0.125 proportional|0.10417 to|0.083333 the|0.0625 central|0.041667 angle|0.020833 |0",
+			"previous_weights": " Another|0 representation|0.027027 of|0.054054 similar|0.081081 formulas|0.10811 but|0.13514 using|0.16216 normal|0.18919 vectors|0.21622 instead|0.24324 of|0.27027 latitude|0.2973 longitude|0.32432 to|0.35135 describe|0.37838 the|0.40541 positions|0.43243 is|0.45946 found|0.48649 by|0.51351 means|0.54054 of|0.56757 3D|0.59459 vector|0.62162 algebra|0.64865 i|0.67568 e|0.7027 utilizing|0.72973 the|0.75676 dot|0.78378 product|0.81081 cross|0.83784 product|0.86486 or|0.89189 a|0.91892 combination|0.94595 5|0.97297 |1"
+		}
+	}
+}

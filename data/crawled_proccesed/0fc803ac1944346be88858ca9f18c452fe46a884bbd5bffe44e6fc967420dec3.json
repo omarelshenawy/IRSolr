@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fc803ac1944346be88858ca9f18c452fe46a884bbd5bffe44e6fc967420dec3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Ciskei.svg/23px-Flag_of_Ciskei.svg.png",
+			"previous": " The majority of the helicopters are operated by various emergency services although it is also operated by private individuals companies and executive charter operators ",
+			"after": " Data from Jane s All The World s Aircraft 1993 94 33 ",
+			"color": "light|0.19566 steel|0.19566 blue|0.19566 dark|0.15867 gray|0.15867 dark|0.15867 grey|0.15867 gray|0.11831 grey|0.11831 silver|0.082602 light|0.066065 gray|0.066065 light|0.066065 grey|0.066065 dim|0.065734 gray|0.065734 dim|0.065734 grey|0.065734 gainsboro|0.05773 lavender|0.046642 alice|0.027567 blue|0.027567 white|0.027285 smoke|0.027285 ghost|0.023756 white|0.023756 light|0.019516 slate|0.019516 gray|0.019516 snow|0.017881 lavender|0.017151 blush|0.017151 white|0.015682 sea|0.015237 shell|0.015237 mint|0.012567 cream|0.012567 azure|0.011016 linen|0.010653 floral|0.010197 white|0.010197  ",
+			"after_weights": " Data|1 from|0.91667 Jane|0.83333 s|0.75 All|0.66667 The|0.58333 World|0.5 s|0.41667 Aircraft|0.33333 1993|0.25 94|0.16667 33|0.083333 |0",
+			"previous_weights": " The|0 majority|0.041667 of|0.083333 the|0.125 helicopters|0.16667 are|0.20833 operated|0.25 by|0.29167 various|0.33333 emergency|0.375 services|0.41667 although|0.45833 it|0.5 is|0.54167 also|0.58333 operated|0.625 by|0.66667 private|0.70833 individuals|0.75 companies|0.79167 and|0.83333 executive|0.875 charter|0.91667 operators|0.95833 |1"
+		}
+	}
+}

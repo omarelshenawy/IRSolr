@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "50758336a26b48388a93a730bc260af22b3f24757dc388eaf439594d5d65a3a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Clocking_device.jpg/220px-Clocking_device.jpg",
+			"previous": " ",
+			"after": " A time clock sometimes known as a clock card machine or punch clock or time recorder is a mechanical or electronic timepiece used to assist in tracking the hours worked by an employee of a company ",
+			"color": "black|0.98011 dark|0.005761 slate|0.005761 gray|0.005761 gray|0.0055558 grey|0.0055558  ",
+			"after_weights": " A|1 time|0.97222 clock|0.94444 sometimes|0.91667 known|0.88889 as|0.86111 a|0.83333 clock|0.80556 card|0.77778 machine|0.75 or|0.72222 punch|0.69444 clock|0.66667 or|0.63889 time|0.61111 recorder|0.58333 is|0.55556 a|0.52778 mechanical|0.5 or|0.47222 electronic|0.44444 timepiece|0.41667 used|0.38889 to|0.36111 assist|0.33333 in|0.30556 tracking|0.27778 the|0.25 hours|0.22222 worked|0.19444 by|0.16667 an|0.13889 employee|0.11111 of|0.083333 a|0.055556 company|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

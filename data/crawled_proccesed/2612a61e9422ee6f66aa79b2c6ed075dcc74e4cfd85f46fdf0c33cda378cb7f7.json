@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2612a61e9422ee6f66aa79b2c6ed075dcc74e4cfd85f46fdf0c33cda378cb7f7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Raytheon_headquarters.jpg/220px-Raytheon_headquarters.jpg",
+			"previous": " ",
+			"after": " The Raytheon Company is a major American defense contractor and industrial corporation with core manufacturing concentrations in weapons and military and commercial electronics It was previously involved in corporate and special mission aircraft until early 2007 Raytheon is the world s largest producer of guided missiles 5 ",
+			"color": "dark|0.2477 slate|0.2477 gray|0.2477 gray|0.13889 grey|0.13889 black|0.1338 dim|0.10114 gray|0.10114 dim|0.10114 grey|0.10114 cadet|0.096553 blue|0.096553 light|0.078418 blue|0.078418 slate|0.055957 gray|0.055957 powder|0.052117 blue|0.052117 light|0.036787 slate|0.036787 gray|0.036787 dark|0.022372 olive|0.022372 green|0.022372 dark|0.016806 gray|0.016806 dark|0.016806 grey|0.016806  ",
+			"after_weights": " The|1 Raytheon|0.97872 Company|0.95745 is|0.93617 a|0.91489 major|0.89362 American|0.87234 defense|0.85106 contractor|0.82979 and|0.80851 industrial|0.78723 corporation|0.76596 with|0.74468 core|0.7234 manufacturing|0.70213 concentrations|0.68085 in|0.65957 weapons|0.6383 and|0.61702 military|0.59574 and|0.57447 commercial|0.55319 electronics|0.53191 It|0.51064 was|0.48936 previously|0.46809 involved|0.44681 in|0.42553 corporate|0.40426 and|0.38298 special|0.3617 mission|0.34043 aircraft|0.31915 until|0.29787 early|0.2766 2007|0.25532 Raytheon|0.23404 is|0.21277 the|0.19149 world|0.17021 s|0.14894 largest|0.12766 producer|0.10638 of|0.085106 guided|0.06383 missiles|0.042553 5|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

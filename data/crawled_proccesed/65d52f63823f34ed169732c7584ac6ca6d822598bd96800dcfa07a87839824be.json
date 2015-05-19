@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "65d52f63823f34ed169732c7584ac6ca6d822598bd96800dcfa07a87839824be",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Commodore-64-Computer.png/500px-Commodore-64-Computer.png",
+			"previous": " Portal Technology Selected pictures 12",
+			"after": " The Commodore 64 is an 8 bit home computer introduced in January 1982 by Commodore International It is sometimes compared to the Ford Model T automobile for its role in bringing a new technology to middle class households ",
+			"color": "black|0.46016 dim|0.17868 gray|0.17868 dim|0.17868 grey|0.17868 tan|0.099897 gray|0.048956 grey|0.048956 silver|0.031075  ",
+			"after_weights": " The|1 Commodore|0.97368 64|0.94737 is|0.92105 an|0.89474 8|0.86842 bit|0.84211 home|0.81579 computer|0.78947 introduced|0.76316 in|0.73684 January|0.71053 1982|0.68421 by|0.65789 Commodore|0.63158 International|0.60526 It|0.57895 is|0.55263 sometimes|0.52632 compared|0.5 to|0.47368 the|0.44737 Ford|0.42105 Model|0.39474 T|0.36842 automobile|0.34211 for|0.31579 its|0.28947 role|0.26316 in|0.23684 bringing|0.21053 a|0.18421 new|0.15789 technology|0.13158 to|0.10526 middle|0.078947 class|0.052632 households|0.026316 |0",
+			"previous_weights": " Portal|0 Technology|0.25 Selected|0.5 pictures|0.75 12|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "526815cd55ff0219e2e6843cca2be8e134e27d7137431929a372bb26a657d1f2",
+			"url": "https://upload.wikimedia.org/math/2/9/5/295ef20af7f8579853ff53873e88a016.png",
+			"previous": " For example the stress energy tensor is a second order tensor field containing energy momentum densities energy momentum fluxes and shear stresses of a mass energy distribution The differential form of energy momentum conservation in general relativity states that the covariant divergence of the stress energy tensor is zero ",
+			"after": " This is an important constraint on the form the Einstein field equations take in general relativity 4 ",
+			"color": "dim|0.4256 gray|0.4256 dim|0.4256 grey|0.4256 gray|0.28641 grey|0.28641 dark|0.13807 gray|0.13807 dark|0.13807 grey|0.13807 silver|0.06709 light|0.035774 gray|0.035774 light|0.035774 grey|0.035774 gainsboro|0.025314 white|0.0048865 smoke|0.0048865  ",
+			"after_weights": " This|1 is|0.94118 an|0.88235 important|0.82353 constraint|0.76471 on|0.70588 the|0.64706 form|0.58824 the|0.52941 Einstein|0.47059 field|0.41176 equations|0.35294 take|0.29412 in|0.23529 general|0.17647 relativity|0.11765 4|0.058824 |0",
+			"previous_weights": " For|0 example|0.020408 the|0.040816 stress|0.061224 energy|0.081633 tensor|0.10204 is|0.12245 a|0.14286 second|0.16327 order|0.18367 tensor|0.20408 field|0.22449 containing|0.2449 energy|0.26531 momentum|0.28571 densities|0.30612 energy|0.32653 momentum|0.34694 fluxes|0.36735 and|0.38776 shear|0.40816 stresses|0.42857 of|0.44898 a|0.46939 mass|0.4898 energy|0.5102 distribution|0.53061 The|0.55102 differential|0.57143 form|0.59184 of|0.61224 energy|0.63265 momentum|0.65306 conservation|0.67347 in|0.69388 general|0.71429 relativity|0.73469 states|0.7551 that|0.77551 the|0.79592 covariant|0.81633 divergence|0.83673 of|0.85714 the|0.87755 stress|0.89796 energy|0.91837 tensor|0.93878 is|0.95918 zero|0.97959 |1"
+		}
+	}
+}

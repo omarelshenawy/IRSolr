@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "408bc831a52b5fdcc879b65659c350ebb870306f1896e87795b13a4e428a1d5e",
+			"url": "https://upload.wikimedia.org/math/2/a/6/2a6aad2f3c5e05e9fde4c6233b4494f0.png",
+			"previous": " fraction of the enzyme population bound by inhibitor",
+			"after": " the effect of the inhibitor is a result of the percent of the enzyme population interacting with inhibitor The only problem with this equation in its present form is that it assumes absolute inhibition of the enzyme with inhibitor binding when in fact there can be a wide range of effects anywhere from 100 inhibition of substrate turn over to just 0 To account for this the equation can be easily modified to allow for different degrees of inhibition by including a delta Vmax term ",
+			"color": "dim|0.25128 gray|0.25128 dim|0.25128 grey|0.25128 gray|0.23852 grey|0.23852 dark|0.20423 gray|0.20423 dark|0.20423 grey|0.20423 light|0.095308 gray|0.095308 light|0.095308 grey|0.095308 silver|0.090869 gainsboro|0.063485 white|0.01536 smoke|0.01536 linen|0.0061608 lavender|0.0059363 blush|0.0059363 alice|0.0058138 blue|0.0058138 ghost|0.0057798 white|0.0057798 sea|0.0057506 shell|0.0057506 snow|0.0056996 white|0.005246  ",
+			"after_weights": " the|1 effect|0.98824 of|0.97647 the|0.96471 inhibitor|0.95294 is|0.94118 a|0.92941 result|0.91765 of|0.90588 the|0.89412 percent|0.88235 of|0.87059 the|0.85882 enzyme|0.84706 population|0.83529 interacting|0.82353 with|0.81176 inhibitor|0.8 The|0.78824 only|0.77647 problem|0.76471 with|0.75294 this|0.74118 equation|0.72941 in|0.71765 its|0.70588 present|0.69412 form|0.68235 is|0.67059 that|0.65882 it|0.64706 assumes|0.63529 absolute|0.62353 inhibition|0.61176 of|0.6 the|0.58824 enzyme|0.57647 with|0.56471 inhibitor|0.55294 binding|0.54118 when|0.52941 in|0.51765 fact|0.50588 there|0.49412 can|0.48235 be|0.47059 a|0.45882 wide|0.44706 range|0.43529 of|0.42353 effects|0.41176 anywhere|0.4 from|0.38824 100|0.37647 inhibition|0.36471 of|0.35294 substrate|0.34118 turn|0.32941 over|0.31765 to|0.30588 just|0.29412 0|0.28235 To|0.27059 account|0.25882 for|0.24706 this|0.23529 the|0.22353 equation|0.21176 can|0.2 be|0.18824 easily|0.17647 modified|0.16471 to|0.15294 allow|0.14118 for|0.12941 different|0.11765 degrees|0.10588 of|0.094118 inhibition|0.082353 by|0.070588 including|0.058824 a|0.047059 delta|0.035294 Vmax|0.023529 term|0.011765 |0",
+			"previous_weights": " fraction|0 of|0.14286 the|0.28571 enzyme|0.42857 population|0.57143 bound|0.71429 by|0.85714 inhibitor|1"
+		}
+	}
+}

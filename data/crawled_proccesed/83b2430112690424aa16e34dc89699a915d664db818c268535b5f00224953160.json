@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "83b2430112690424aa16e34dc89699a915d664db818c268535b5f00224953160",
+			"url": "https://upload.wikimedia.org/math/b/0/8/b088dcd0ff5b6673f991d4305a49806e.png",
+			"previous": " Let F be an r grade multivector Then we can define an additional pair of operators the interior and exterior derivatives  then the product rule for the geometric derivative is",
+			"after": " In particular if F is grade 1 vector valued function then we can write and identify the divergence and curl as",
+			"color": "dim|0.44357 gray|0.44357 dim|0.44357 grey|0.44357 gray|0.27636 grey|0.27636 dark|0.16503 gray|0.16503 dark|0.16503 grey|0.16503 silver|0.060886 light|0.024756 gray|0.024756 light|0.024756 grey|0.024756 gainsboro|0.01735  ",
+			"after_weights": " In|1 particular|0.95 if|0.9 F|0.85 is|0.8 grade|0.75 1|0.7 vector|0.65 valued|0.6 function|0.55 then|0.5 we|0.45 can|0.4 write|0.35 and|0.3 identify|0.25 the|0.2 divergence|0.15 and|0.1 curl|0.05 as|0",
+			"previous_weights": " Let|0 F|0.033333 be|0.066667 an|0.1 r|0.13333 grade|0.16667 multivector|0.2 Then|0.23333 we|0.26667 can|0.3 define|0.33333 an|0.36667 additional|0.4 pair|0.43333 of|0.46667 operators|0.5 the|0.53333 interior|0.56667 and|0.6 exterior|0.63333 derivatives|0.66667 |0.7 then|0.73333 the|0.76667 product|0.8 rule|0.83333 for|0.86667 the|0.9 geometric|0.93333 derivative|0.96667 is|1"
+		}
+	}
+}

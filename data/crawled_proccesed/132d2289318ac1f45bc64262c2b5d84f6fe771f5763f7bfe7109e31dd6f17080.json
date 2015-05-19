@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "132d2289318ac1f45bc64262c2b5d84f6fe771f5763f7bfe7109e31dd6f17080",
+			"url": "https://upload.wikimedia.org/math/6/c/a/6ca603b8e8f7aca6916337c708c8b4ac.png",
+			"previous": " This states that values decreases over time t at the discount rate r t Applied to a function it yields ",
+			"after": " For an instrument whose payment stream is described by f t the value V t satisfies the inhomogeneous first order ODE inhomogeneous is because one has f rather than 0 and first order is because one has first derivatives but no higher derivatives this encodes the fact that when any cash flow occurs the value of the instrument changes by the value of the cash flow if you receive a 10 coupon the remaining value decreases by exactly 10 ",
+			"color": "dim|0.33932 gray|0.33932 dim|0.33932 grey|0.33932 gray|0.31517 grey|0.31517 dark|0.18991 gray|0.18991 dark|0.18991 grey|0.18991 silver|0.077512 light|0.036148 gray|0.036148 light|0.036148 grey|0.036148 gainsboro|0.024995 white|0.004132 smoke|0.004132  ",
+			"after_weights": " For|1 an|0.98734 instrument|0.97468 whose|0.96203 payment|0.94937 stream|0.93671 is|0.92405 described|0.91139 by|0.89873 f|0.88608 t|0.87342 the|0.86076 value|0.8481 V|0.83544 t|0.82278 satisfies|0.81013 the|0.79747 inhomogeneous|0.78481 first|0.77215 order|0.75949 ODE|0.74684 inhomogeneous|0.73418 is|0.72152 because|0.70886 one|0.6962 has|0.68354 f|0.67089 rather|0.65823 than|0.64557 0|0.63291 and|0.62025 first|0.60759 order|0.59494 is|0.58228 because|0.56962 one|0.55696 has|0.5443 first|0.53165 derivatives|0.51899 but|0.50633 no|0.49367 higher|0.48101 derivatives|0.46835 this|0.4557 encodes|0.44304 the|0.43038 fact|0.41772 that|0.40506 when|0.39241 any|0.37975 cash|0.36709 flow|0.35443 occurs|0.34177 the|0.32911 value|0.31646 of|0.3038 the|0.29114 instrument|0.27848 changes|0.26582 by|0.25316 the|0.24051 value|0.22785 of|0.21519 the|0.20253 cash|0.18987 flow|0.17722 if|0.16456 you|0.1519 receive|0.13924 a|0.12658 10|0.11392 coupon|0.10127 the|0.088608 remaining|0.075949 value|0.063291 decreases|0.050633 by|0.037975 exactly|0.025316 10|0.012658 |0",
+			"previous_weights": " This|0 states|0.05 that|0.1 values|0.15 decreases|0.2 over|0.25 time|0.3 t|0.35 at|0.4 the|0.45 discount|0.5 rate|0.55 r|0.6 t|0.65 Applied|0.7 to|0.75 a|0.8 function|0.85 it|0.9 yields|0.95 |1"
+		}
+	}
+}

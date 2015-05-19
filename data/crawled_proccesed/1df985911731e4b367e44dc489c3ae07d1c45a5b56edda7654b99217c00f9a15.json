@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1df985911731e4b367e44dc489c3ae07d1c45a5b56edda7654b99217c00f9a15",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Guadalupe_Shrine.jpg/220px-Guadalupe_Shrine.jpg",
+			"previous": " ",
+			"after": " The percentage of Wisconsin residents who belong to various affiliations are 63 Christian 81 Protestant 50 Roman Catholic 29 Mormon 0 5 Jewish 0 5 Muslim 0 5 Buddhist 0 5 Hindu 0 5 and the unaffiliated at 15 ",
+			"color": "saddle|0.71396 brown|0.71396 black|0.17386 sienna|0.038328 peru|0.021153 tan|0.0191 burly|0.013892 wood|0.013892  ",
+			"after_weights": " The|1 percentage|0.97436 of|0.94872 Wisconsin|0.92308 residents|0.89744 who|0.87179 belong|0.84615 to|0.82051 various|0.79487 affiliations|0.76923 are|0.74359 63|0.71795 Christian|0.69231 81|0.66667 Protestant|0.64103 50|0.61538 Roman|0.58974 Catholic|0.5641 29|0.53846 Mormon|0.51282 0|0.48718 5|0.46154 Jewish|0.4359 0|0.41026 5|0.38462 Muslim|0.35897 0|0.33333 5|0.30769 Buddhist|0.28205 0|0.25641 5|0.23077 Hindu|0.20513 0|0.17949 5|0.15385 and|0.12821 the|0.10256 unaffiliated|0.076923 at|0.051282 15|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

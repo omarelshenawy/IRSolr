@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b872cd914ebd922675389c3a940b44577c1e2bc8c922c17c9b80be225b5bbb0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shanghai_crj2_b-3018_xiangfan_110420_1.jpg/220px-Shanghai_crj2_b-3018_xiangfan_110420_1.jpg",
+			"previous": " Shanghai Airlines with the contribution of its well recognized Flight Operations Quality Assurance FOQA program has had zero accidents fatalities or severe damage to its aircraft in its history making it one of the safest airlines in Asia 13 ",
+			"after": " ",
+			"color": "dim|0.45249 gray|0.45249 dim|0.45249 grey|0.45249 black|0.23613 gray|0.071224 grey|0.071224 dark|0.049413 gray|0.049413 dark|0.049413 grey|0.049413 dark|0.049101 slate|0.049101 gray|0.049101 silver|0.026388 light|0.022508 gray|0.022508 light|0.022508 grey|0.022508 gainsboro|0.018338 slate|0.016772 gray|0.016772 light|0.010484 slate|0.010484 gray|0.010484 white|0.0077009 smoke|0.0077009  ",
+			"after_weights": " ",
+			"previous_weights": " Shanghai|0 Airlines|0.025641 with|0.051282 the|0.076923 contribution|0.10256 of|0.12821 its|0.15385 well|0.17949 recognized|0.20513 Flight|0.23077 Operations|0.25641 Quality|0.28205 Assurance|0.30769 FOQA|0.33333 program|0.35897 has|0.38462 had|0.41026 zero|0.4359 accidents|0.46154 fatalities|0.48718 or|0.51282 severe|0.53846 damage|0.5641 to|0.58974 its|0.61538 aircraft|0.64103 in|0.66667 its|0.69231 history|0.71795 making|0.74359 it|0.76923 one|0.79487 of|0.82051 the|0.84615 safest|0.87179 airlines|0.89744 in|0.92308 Asia|0.94872 13|0.97436 |1"
+		}
+	}
+}

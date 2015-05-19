@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1439f210e6519f68e58025de3578eeae338ca96011cc33d843d259b57c25a047",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MBB_Kawasaki_BK_117.jpg/220px-MBB_Kawasaki_BK_117.jpg",
+			"previous": " NOTE The last variant of the BK117 was the C 1 The BK117 C 2 is actually the brand name for the EC 145 for the Australasian market and as such is an EC 145 not a BK117   P 2 prototype S 01 Pre production prototype",
+			"after": " The majority of the helicopters are operated by various emergency services although it is also operated by private individuals companies and executive charter operators ",
+			"color": "black|0.31556 midnight|0.18591 blue|0.18591 dim|0.11982 gray|0.11982 dim|0.11982 grey|0.11982 gray|0.038506 grey|0.038506 dark|0.032118 gray|0.032118 dark|0.032118 grey|0.032118 silver|0.024918 light|0.02324 gray|0.02324 light|0.02324 grey|0.02324 gainsboro|0.019926 tan|0.019398 saddle|0.019012 brown|0.019012 antique|0.012635 white|0.012635  ",
+			"after_weights": " The|1 majority|0.95833 of|0.91667 the|0.875 helicopters|0.83333 are|0.79167 operated|0.75 by|0.70833 various|0.66667 emergency|0.625 services|0.58333 although|0.54167 it|0.5 is|0.45833 also|0.41667 operated|0.375 by|0.33333 private|0.29167 individuals|0.25 companies|0.20833 and|0.16667 executive|0.125 charter|0.083333 operators|0.041667 |0",
+			"previous_weights": " NOTE|0 The|0.021277 last|0.042553 variant|0.06383 of|0.085106 the|0.10638 BK117|0.12766 was|0.14894 the|0.17021 C|0.19149 1|0.21277 The|0.23404 BK117|0.25532 C|0.2766 2|0.29787 is|0.31915 actually|0.34043 the|0.3617 brand|0.38298 name|0.40426 for|0.42553 the|0.44681 EC|0.46809 145|0.48936 for|0.51064 the|0.53191 Australasian|0.55319 market|0.57447 and|0.59574 as|0.61702 such|0.6383 is|0.65957 an|0.68085 EC|0.70213 145|0.7234 not|0.74468 a|0.76596 BK117|0.78723 |0.80851 |0.82979 P|0.85106 2|0.87234 prototype|0.89362 S|0.91489 01|0.93617 Pre|0.95745 production|0.97872 prototype|1"
+		}
+	}
+}

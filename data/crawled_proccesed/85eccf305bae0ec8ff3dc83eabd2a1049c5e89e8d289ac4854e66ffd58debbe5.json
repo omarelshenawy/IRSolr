@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "85eccf305bae0ec8ff3dc83eabd2a1049c5e89e8d289ac4854e66ffd58debbe5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Soyuz_and_the_Coastline_of_Africa.ogv/300px--Soyuz_and_the_Coastline_of_Africa.ogv.jpg",
+			"previous": " ",
+			"after": " Soyuz Russian IPA s j s Ukrainian IPA so jus Belarusian IPA sa jus Union is a series of spacecraft designed for the Soviet space programme by the Korolyov Design Bureau now RKK Energia in the 1960s that remains in service today The Soyuz succeeded the Voskhod spacecraft and was originally built as part of the Soviet Manned Lunar programme ",
+			"color": "dim|0.63012 gray|0.63012 dim|0.63012 grey|0.63012 black|0.28799  ",
+			"after_weights": " Soyuz|1 Russian|0.98333 IPA|0.96667 s|0.95 j|0.93333 s|0.91667 Ukrainian|0.9 IPA|0.88333 so|0.86667 jus|0.85 Belarusian|0.83333 IPA|0.81667 sa|0.8 jus|0.78333 Union|0.76667 is|0.75 a|0.73333 series|0.71667 of|0.7 spacecraft|0.68333 designed|0.66667 for|0.65 the|0.63333 Soviet|0.61667 space|0.6 programme|0.58333 by|0.56667 the|0.55 Korolyov|0.53333 Design|0.51667 Bureau|0.5 now|0.48333 RKK|0.46667 Energia|0.45 in|0.43333 the|0.41667 1960s|0.4 that|0.38333 remains|0.36667 in|0.35 service|0.33333 today|0.31667 The|0.3 Soyuz|0.28333 succeeded|0.26667 the|0.25 Voskhod|0.23333 spacecraft|0.21667 and|0.2 was|0.18333 originally|0.16667 built|0.15 as|0.13333 part|0.11667 of|0.1 the|0.083333 Soviet|0.066667 Manned|0.05 Lunar|0.033333 programme|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

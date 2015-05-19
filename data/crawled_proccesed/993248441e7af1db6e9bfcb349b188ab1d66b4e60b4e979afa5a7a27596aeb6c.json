@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "993248441e7af1db6e9bfcb349b188ab1d66b4e60b4e979afa5a7a27596aeb6c",
+			"url": "https://upload.wikimedia.org/math/5/f/7/5f78f51d1a52fdd3c13e7d36077d7c3c.png",
+			"previous": " Where denotes the number of combinatorial objects of size n The number of combinatorial objects of size n is therefore given by the coefficient of Some common operation on families of combinatorial objects and its effect on the generating function will now be developed The exponential generating function is also sometimes used In this case it would have the form ",
+			"after": " Once determined the generating function yields the information given by the previous approaches In addition the various natural operations on generating functions such as addition multiplication differentiation etc have a combinatorial significance this allows one to extend results from one combinatorial problem in order to solve others ",
+			"color": "gray|0.29862 grey|0.29862 dim|0.28961 gray|0.28961 dim|0.28961 grey|0.28961 dark|0.21792 gray|0.21792 dark|0.21792 grey|0.21792 silver|0.10372 light|0.040942 gray|0.040942 light|0.040942 grey|0.040942 gainsboro|0.028648 white|0.0051236 smoke|0.0051236  ",
+			"after_weights": " Once|1 determined|0.97872 the|0.95745 generating|0.93617 function|0.91489 yields|0.89362 the|0.87234 information|0.85106 given|0.82979 by|0.80851 the|0.78723 previous|0.76596 approaches|0.74468 In|0.7234 addition|0.70213 the|0.68085 various|0.65957 natural|0.6383 operations|0.61702 on|0.59574 generating|0.57447 functions|0.55319 such|0.53191 as|0.51064 addition|0.48936 multiplication|0.46809 differentiation|0.44681 etc|0.42553 have|0.40426 a|0.38298 combinatorial|0.3617 significance|0.34043 this|0.31915 allows|0.29787 one|0.2766 to|0.25532 extend|0.23404 results|0.21277 from|0.19149 one|0.17021 combinatorial|0.14894 problem|0.12766 in|0.10638 order|0.085106 to|0.06383 solve|0.042553 others|0.021277 |0",
+			"previous_weights": " Where|0 denotes|0.016667 the|0.033333 number|0.05 of|0.066667 combinatorial|0.083333 objects|0.1 of|0.11667 size|0.13333 n|0.15 The|0.16667 number|0.18333 of|0.2 combinatorial|0.21667 objects|0.23333 of|0.25 size|0.26667 n|0.28333 is|0.3 therefore|0.31667 given|0.33333 by|0.35 the|0.36667 coefficient|0.38333 of|0.4 Some|0.41667 common|0.43333 operation|0.45 on|0.46667 families|0.48333 of|0.5 combinatorial|0.51667 objects|0.53333 and|0.55 its|0.56667 effect|0.58333 on|0.6 the|0.61667 generating|0.63333 function|0.65 will|0.66667 now|0.68333 be|0.7 developed|0.71667 The|0.73333 exponential|0.75 generating|0.76667 function|0.78333 is|0.8 also|0.81667 sometimes|0.83333 used|0.85 In|0.86667 this|0.88333 case|0.9 it|0.91667 would|0.93333 have|0.95 the|0.96667 form|0.98333 |1"
+		}
+	}
+}

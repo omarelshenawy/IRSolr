@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e3153d89461882c62dff5ac5d109ffa950b6f0aea0774e0b882d80339ac9c6b",
+			"url": "https://upload.wikimedia.org/math/6/0/3/603bd84c02df458c38c08293805259af.png",
+			"previous": " This is a Gaussian integral It may be evaluated to obtain",
+			"after": " This result corresponds to the normal probability density for x with mean 0 and variance 2 t The heat equation and similar diffusion equations are useful tools to study random phenomena ",
+			"color": "dim|0.34257 gray|0.34257 dim|0.34257 grey|0.34257 gray|0.29481 grey|0.29481 dark|0.18912 gray|0.18912 dark|0.18912 grey|0.18912 silver|0.085849 light|0.040678 gray|0.040678 light|0.040678 grey|0.040678 gainsboro|0.028379 white|0.0046575 smoke|0.0046575  ",
+			"after_weights": " This|1 result|0.96774 corresponds|0.93548 to|0.90323 the|0.87097 normal|0.83871 probability|0.80645 density|0.77419 for|0.74194 x|0.70968 with|0.67742 mean|0.64516 0|0.6129 and|0.58065 variance|0.54839 2|0.51613 t|0.48387 The|0.45161 heat|0.41935 equation|0.3871 and|0.35484 similar|0.32258 diffusion|0.29032 equations|0.25806 are|0.22581 useful|0.19355 tools|0.16129 to|0.12903 study|0.096774 random|0.064516 phenomena|0.032258 |0",
+			"previous_weights": " This|0 is|0.1 a|0.2 Gaussian|0.3 integral|0.4 It|0.5 may|0.6 be|0.7 evaluated|0.8 to|0.9 obtain|1"
+		}
+	}
+}

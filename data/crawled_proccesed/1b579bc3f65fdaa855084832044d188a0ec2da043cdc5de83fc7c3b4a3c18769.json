@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b579bc3f65fdaa855084832044d188a0ec2da043cdc5de83fc7c3b4a3c18769",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DCA_River_Visual.png/220px-DCA_River_Visual.png",
+			"previous": " ",
+			"after": " Given Reagan National Airport s proximity to the city and high security facilities Reagan National has extra security precautions required by the Washington Air Defense Identification Zone that have been in place since the airport began operations 26 ",
+			"color": "dim|0.46837 gray|0.46837 dim|0.46837 grey|0.46837 gray|0.31634 grey|0.31634 dark|0.1075 gray|0.1075 dark|0.1075 grey|0.1075 black|0.082601 silver|0.022847  ",
+			"after_weights": " Given|1 Reagan|0.97368 National|0.94737 Airport|0.92105 s|0.89474 proximity|0.86842 to|0.84211 the|0.81579 city|0.78947 and|0.76316 high|0.73684 security|0.71053 facilities|0.68421 Reagan|0.65789 National|0.63158 has|0.60526 extra|0.57895 security|0.55263 precautions|0.52632 required|0.5 by|0.47368 the|0.44737 Washington|0.42105 Air|0.39474 Defense|0.36842 Identification|0.34211 Zone|0.31579 that|0.28947 have|0.26316 been|0.23684 in|0.21053 place|0.18421 since|0.15789 the|0.13158 airport|0.10526 began|0.078947 operations|0.052632 26|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "689c55a395c16a4e75f2375423fcfe5d7736da4e13beb872234af067521d32c2",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Punta_Maroma3.tif/lossy-page1-265px-Punta_Maroma3.tif.jpg",
+			"previous": " The International Hydrographic Organization defines the limits of the Caribbean Sea as follows 3 ",
+			"after": " Note that although Barbados is an island on the same continental shelf it is considered to be in the Atlantic Ocean rather than the Caribbean Sea ",
+			"color": "midnight|0.47952 blue|0.47952 dark|0.17797 turquoise|0.17797 steel|0.044378 blue|0.044378 medium|0.035377 turquoise|0.035377 powder|0.033372 blue|0.033372 light|0.028275 blue|0.028275 pale|0.027204 turquoise|0.027204 light|0.023835 cyan|0.023835 sky|0.017749 blue|0.017749 cadet|0.017471 blue|0.017471 azure|0.014501 alice|0.010923 blue|0.010923 mint|0.0097783 cream|0.0097783  ",
+			"after_weights": " Note|1 that|0.96154 although|0.92308 Barbados|0.88462 is|0.84615 an|0.80769 island|0.76923 on|0.73077 the|0.69231 same|0.65385 continental|0.61538 shelf|0.57692 it|0.53846 is|0.5 considered|0.46154 to|0.42308 be|0.38462 in|0.34615 the|0.30769 Atlantic|0.26923 Ocean|0.23077 rather|0.19231 than|0.15385 the|0.11538 Caribbean|0.076923 Sea|0.038462 |0",
+			"previous_weights": " The|0 International|0.071429 Hydrographic|0.14286 Organization|0.21429 defines|0.28571 the|0.35714 limits|0.42857 of|0.5 the|0.57143 Caribbean|0.64286 Sea|0.71429 as|0.78571 follows|0.85714 3|0.92857 |1"
+		}
+	}
+}

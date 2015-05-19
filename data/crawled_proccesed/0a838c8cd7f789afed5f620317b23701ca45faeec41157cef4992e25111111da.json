@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a838c8cd7f789afed5f620317b23701ca45faeec41157cef4992e25111111da",
+			"url": "https://upload.wikimedia.org/math/5/b/c/5bcdad425ae8859296ef8da43c9c6890.png",
+			"previous": " Usually when involving some sort of potential the wavefunction is decomposed into a superposition of energy eigenstates each oscillating with frequency of Thus we may write",
+			"after": " The eigenstates have a physical meaning further than an orthonormal basis When the energy of the system is measured the wavefunction collapses into one of its eigenstates and so the particle wavefunction is described by the pure eigenstate corresponding to the measured energy ",
+			"color": "gray|0.25978 grey|0.25978 dim|0.25551 gray|0.25551 dim|0.25551 grey|0.25551 dark|0.22493 gray|0.22493 dark|0.22493 grey|0.22493 black|0.14388 silver|0.086763 light|0.020961 gray|0.020961 light|0.020961 grey|0.020961 gainsboro|0.0081764  ",
+			"after_weights": " The|1 eigenstates|0.97674 have|0.95349 a|0.93023 physical|0.90698 meaning|0.88372 further|0.86047 than|0.83721 an|0.81395 orthonormal|0.7907 basis|0.76744 When|0.74419 the|0.72093 energy|0.69767 of|0.67442 the|0.65116 system|0.62791 is|0.60465 measured|0.5814 the|0.55814 wavefunction|0.53488 collapses|0.51163 into|0.48837 one|0.46512 of|0.44186 its|0.4186 eigenstates|0.39535 and|0.37209 so|0.34884 the|0.32558 particle|0.30233 wavefunction|0.27907 is|0.25581 described|0.23256 by|0.2093 the|0.18605 pure|0.16279 eigenstate|0.13953 corresponding|0.11628 to|0.093023 the|0.069767 measured|0.046512 energy|0.023256 |0",
+			"previous_weights": " Usually|0 when|0.04 involving|0.08 some|0.12 sort|0.16 of|0.2 potential|0.24 the|0.28 wavefunction|0.32 is|0.36 decomposed|0.4 into|0.44 a|0.48 superposition|0.52 of|0.56 energy|0.6 eigenstates|0.64 each|0.68 oscillating|0.72 with|0.76 frequency|0.8 of|0.84 Thus|0.88 we|0.92 may|0.96 write|1"
+		}
+	}
+}

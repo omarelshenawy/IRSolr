@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7adc68de3c2c18585c36e8736e2eb7cf7c9ec132459885d8464e04c807485d76",
+			"url": "https://upload.wikimedia.org/math/5/2/3/523159bda8e50c1efeb936233bcd6c50.png",
+			"previous": " and because 1 f x 2 is non zero  Taking the derivative d dx and simplifying gives ",
+			"after": " which implies that the shortest curve that connects two points x1 y1 and x2 y2 is and we have thus found the extremal function f x that minimizes the functional A y so that A f is a minimum Note that y f x is the equation for a straight line in other words the shortest distance between two points is a straight line Note 5 ",
+			"color": " ",
+			"after_weights": " which|1 implies|0.98485 that|0.9697 the|0.95455 shortest|0.93939 curve|0.92424 that|0.90909 connects|0.89394 two|0.87879 points|0.86364 x1|0.84848 y1|0.83333 and|0.81818 x2|0.80303 y2|0.78788 is|0.77273 and|0.75758 we|0.74242 have|0.72727 thus|0.71212 found|0.69697 the|0.68182 extremal|0.66667 function|0.65152 f|0.63636 x|0.62121 that|0.60606 minimizes|0.59091 the|0.57576 functional|0.56061 A|0.54545 y|0.5303 so|0.51515 that|0.5 A|0.48485 f|0.4697 is|0.45455 a|0.43939 minimum|0.42424 Note|0.40909 that|0.39394 y|0.37879 f|0.36364 x|0.34848 is|0.33333 the|0.31818 equation|0.30303 for|0.28788 a|0.27273 straight|0.25758 line|0.24242 in|0.22727 other|0.21212 words|0.19697 the|0.18182 shortest|0.16667 distance|0.15152 between|0.13636 two|0.12121 points|0.10606 is|0.090909 a|0.075758 straight|0.060606 line|0.045455 Note|0.030303 5|0.015152 |0",
+			"previous_weights": " and|0 because|0.055556 1|0.11111 f|0.16667 x|0.22222 2|0.27778 is|0.33333 non|0.38889 zero|0.44444 |0.5 Taking|0.55556 the|0.61111 derivative|0.66667 d|0.72222 dx|0.77778 and|0.83333 simplifying|0.88889 gives|0.94444 |1"
+		}
+	}
+}

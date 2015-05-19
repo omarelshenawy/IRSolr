@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "643d2869ddcd35c2ab0b736c48f9583b1bf160f580ef3295e4cc6f9f9872a59c",
+			"url": "https://upload.wikimedia.org/math/c/4/7/c474741b9f358225888aebae682fe2ce.png",
+			"previous": " Solving for we have two positive solutions ",
+			"after": " If we substitute 1 into the matrix and solve for A1 A2 we get 1 1 If we substitute 2 we get 1 1 These vectors are eigenvectors and the frequencies are eigenvalues ",
+			"color": "dim|0.32295 gray|0.32295 dim|0.32295 grey|0.32295 gray|0.28918 grey|0.28918 dark|0.20091 gray|0.20091 dark|0.20091 grey|0.20091 silver|0.084829 light|0.042279 gray|0.042279 light|0.042279 grey|0.042279 gainsboro|0.030009 white|0.0069768 smoke|0.0069768 linen|0.0034725 lavender|0.0031969 blush|0.0031969 alice|0.0031687 blue|0.0031687 ghost|0.0030038 white|0.0030038 sea|0.0028221 shell|0.0028221 snow|0.0027162  ",
+			"after_weights": " If|1 we|0.9697 substitute|0.93939 1|0.90909 into|0.87879 the|0.84848 matrix|0.81818 and|0.78788 solve|0.75758 for|0.72727 A1|0.69697 A2|0.66667 we|0.63636 get|0.60606 1|0.57576 1|0.54545 If|0.51515 we|0.48485 substitute|0.45455 2|0.42424 we|0.39394 get|0.36364 1|0.33333 1|0.30303 These|0.27273 vectors|0.24242 are|0.21212 eigenvectors|0.18182 and|0.15152 the|0.12121 frequencies|0.090909 are|0.060606 eigenvalues|0.030303 |0",
+			"previous_weights": " Solving|0 for|0.14286 we|0.28571 have|0.42857 two|0.57143 positive|0.71429 solutions|0.85714 |1"
+		}
+	}
+}

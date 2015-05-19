@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d4c2668e6bb4f9c8bd55602c53b67b016cee76d77d42998e8ef7ed5baa3a79f",
+			"url": "https://upload.wikimedia.org/math/3/4/8/348719b113d5b60c87ee28c5446ac4ff.png",
+			"previous": " defines a biquadratic equation which is easy to solve  If then the biquadratic function In the case of two quadratic factors or of large integer coefficients the factorization is harder to compute and in general it is better to use the factor function of a computer algebra system see polynomial factorization for a description of the algorithms that are involved ",
+			"after": " Let and be the roots of q Then the roots of our quartic Q are The polynomial",
+			"color": "gray|0.325 grey|0.325 dark|0.25299 gray|0.25299 dark|0.25299 grey|0.25299 dim|0.17372 gray|0.17372 dim|0.17372 grey|0.17372 silver|0.10176 light|0.053424 gray|0.053424 light|0.053424 grey|0.053424 gainsboro|0.039438 white|0.010069 smoke|0.010069 lavender|0.0059046 blush|0.0059046 alice|0.005713 blue|0.005713 ghost|0.0055267 white|0.0055267 sea|0.0053671 shell|0.0053671 snow|0.0051874 linen|0.0049706 white|0.0040875 mint|0.0031614 cream|0.0031614  ",
+			"after_weights": " Let|1 and|0.9375 be|0.875 the|0.8125 roots|0.75 of|0.6875 q|0.625 Then|0.5625 the|0.5 roots|0.4375 of|0.375 our|0.3125 quartic|0.25 Q|0.1875 are|0.125 The|0.0625 polynomial|0",
+			"previous_weights": " defines|0 a|0.016393 biquadratic|0.032787 equation|0.04918 which|0.065574 is|0.081967 easy|0.098361 to|0.11475 solve|0.13115 |0.14754 If|0.16393 then|0.18033 the|0.19672 biquadratic|0.21311 function|0.22951 In|0.2459 the|0.2623 case|0.27869 of|0.29508 two|0.31148 quadratic|0.32787 factors|0.34426 or|0.36066 of|0.37705 large|0.39344 integer|0.40984 coefficients|0.42623 the|0.44262 factorization|0.45902 is|0.47541 harder|0.4918 to|0.5082 compute|0.52459 and|0.54098 in|0.55738 general|0.57377 it|0.59016 is|0.60656 better|0.62295 to|0.63934 use|0.65574 the|0.67213 factor|0.68852 function|0.70492 of|0.72131 a|0.7377 computer|0.7541 algebra|0.77049 system|0.78689 see|0.80328 polynomial|0.81967 factorization|0.83607 for|0.85246 a|0.86885 description|0.88525 of|0.90164 the|0.91803 algorithms|0.93443 that|0.95082 are|0.96721 involved|0.98361 |1"
+		}
+	}
+}

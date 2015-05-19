@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d4bd5b04e2b9cc796e34a43f243bf2300d3a84b86d30ddf6e7550c57f95e99f",
+			"url": "https://upload.wikimedia.org/math/1/4/a/14a0ae9c866a0ac775608a340a5c2561.png",
+			"previous": " is continuous if and only if Moreover  That is to say given any element x of X that is in the closure of any subset A f x belongs to the closure of f A This is equivalent to the requirement that for all subsets A of X ",
+			"after": " for any subset A of X  If f X Y and g Y Z are continuous then so is the composition g f X Z If f X Y is continuous and The possible topologies on a fixed set X are partially ordered a topology 1 is said to be coarser than another topology 2 notation 1 2 if every open subset with respect to 1 is also open with respect to 2 Then the identity map",
+			"color": "dim|0.37281 gray|0.37281 dim|0.37281 grey|0.37281 gray|0.30522 grey|0.30522 dark|0.17434 gray|0.17434 dark|0.17434 grey|0.17434 silver|0.074138 light|0.03507 gray|0.03507 light|0.03507 grey|0.03507 gainsboro|0.024007 white|0.0034771 smoke|0.0034771  ",
+			"after_weights": " for|1 any|0.98701 subset|0.97403 A|0.96104 of|0.94805 X|0.93506 |0.92208 If|0.90909 f|0.8961 X|0.88312 Y|0.87013 and|0.85714 g|0.84416 Y|0.83117 Z|0.81818 are|0.80519 continuous|0.79221 then|0.77922 so|0.76623 is|0.75325 the|0.74026 composition|0.72727 g|0.71429 f|0.7013 X|0.68831 Z|0.67532 If|0.66234 f|0.64935 X|0.63636 Y|0.62338 is|0.61039 continuous|0.5974 and|0.58442 The|0.57143 possible|0.55844 topologies|0.54545 on|0.53247 a|0.51948 fixed|0.50649 set|0.49351 X|0.48052 are|0.46753 partially|0.45455 ordered|0.44156 a|0.42857 topology|0.41558 1|0.4026 is|0.38961 said|0.37662 to|0.36364 be|0.35065 coarser|0.33766 than|0.32468 another|0.31169 topology|0.2987 2|0.28571 notation|0.27273 1|0.25974 2|0.24675 if|0.23377 every|0.22078 open|0.20779 subset|0.19481 with|0.18182 respect|0.16883 to|0.15584 1|0.14286 is|0.12987 also|0.11688 open|0.1039 with|0.090909 respect|0.077922 to|0.064935 2|0.051948 Then|0.038961 the|0.025974 identity|0.012987 map|0",
+			"previous_weights": " is|0 continuous|0.020408 if|0.040816 and|0.061224 only|0.081633 if|0.10204 Moreover|0.12245 |0.14286 That|0.16327 is|0.18367 to|0.20408 say|0.22449 given|0.2449 any|0.26531 element|0.28571 x|0.30612 of|0.32653 X|0.34694 that|0.36735 is|0.38776 in|0.40816 the|0.42857 closure|0.44898 of|0.46939 any|0.4898 subset|0.5102 A|0.53061 f|0.55102 x|0.57143 belongs|0.59184 to|0.61224 the|0.63265 closure|0.65306 of|0.67347 f|0.69388 A|0.71429 This|0.73469 is|0.7551 equivalent|0.77551 to|0.79592 the|0.81633 requirement|0.83673 that|0.85714 for|0.87755 all|0.89796 subsets|0.91837 A|0.93878 of|0.95918 X|0.97959 |1"
+		}
+	}
+}

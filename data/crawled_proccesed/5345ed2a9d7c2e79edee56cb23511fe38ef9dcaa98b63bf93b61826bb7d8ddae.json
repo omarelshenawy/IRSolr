@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5345ed2a9d7c2e79edee56cb23511fe38ef9dcaa98b63bf93b61826bb7d8ddae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Royal_Standard_of_Saudi_Arabia.svg/220px-Royal_Standard_of_Saudi_Arabia.svg.png",
+			"previous": " All surviving males including Utaybi himself were beheaded publicly in four cities of Saudi Arabia 21 ",
+			"after": " The list of King Abdulaziz s surviving sons except for current Saudi monarch Salman are as follows ",
+			"color": "sea|0.33507 green|0.33507 gold|0.061779 white|0.053599 smoke|0.053599 mint|0.052663 cream|0.052663 white|0.050418 olive|0.049498 drab|0.049498 azure|0.049162 snow|0.048706 alice|0.046561 blue|0.046561 gainsboro|0.045854 floral|0.045604 white|0.045604 ghost|0.044922 white|0.044922 sea|0.041802 shell|0.041802 lavender|0.028714 blush|0.028714 honeydew|0.022221 linen|0.012915  ",
+			"after_weights": " The|1 list|0.94118 of|0.88235 King|0.82353 Abdulaziz|0.76471 s|0.70588 surviving|0.64706 sons|0.58824 except|0.52941 for|0.47059 current|0.41176 Saudi|0.35294 monarch|0.29412 Salman|0.23529 are|0.17647 as|0.11765 follows|0.058824 |0",
+			"previous_weights": " All|0 surviving|0.0625 males|0.125 including|0.1875 Utaybi|0.25 himself|0.3125 were|0.375 beheaded|0.4375 publicly|0.5 in|0.5625 four|0.625 cities|0.6875 of|0.75 Saudi|0.8125 Arabia|0.875 21|0.9375 |1"
+		}
+	}
+}

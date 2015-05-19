@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f8eb7931516d8ca3ae9403986efe2c958cfa79ae71356049d67bb94b1817e9e",
+			"url": "https://upload.wikimedia.org/math/5/6/9/569af854ba9ff3ebe2b7beb54427406a.png",
+			"previous": " where T is the multiplication operator ",
+			"after": " This is the beginning of the vast research area of functional analysis called operator theory see also the spectral measure  There is also an analogous spectral theorem for bounded normal operators on Hilbert spaces The only difference in the conclusion is that now may be complex valued ",
+			"color": "black|0.71519 dim|0.23347 gray|0.23347 dim|0.23347 grey|0.23347 gray|0.051334 grey|0.051334  ",
+			"after_weights": " This|1 is|0.97917 the|0.95833 beginning|0.9375 of|0.91667 the|0.89583 vast|0.875 research|0.85417 area|0.83333 of|0.8125 functional|0.79167 analysis|0.77083 called|0.75 operator|0.72917 theory|0.70833 see|0.6875 also|0.66667 the|0.64583 spectral|0.625 measure|0.60417 |0.58333 There|0.5625 is|0.54167 also|0.52083 an|0.5 analogous|0.47917 spectral|0.45833 theorem|0.4375 for|0.41667 bounded|0.39583 normal|0.375 operators|0.35417 on|0.33333 Hilbert|0.3125 spaces|0.29167 The|0.27083 only|0.25 difference|0.22917 in|0.20833 the|0.1875 conclusion|0.16667 is|0.14583 that|0.125 now|0.10417 may|0.083333 be|0.0625 complex|0.041667 valued|0.020833 |0",
+			"previous_weights": " where|0 T|0.16667 is|0.33333 the|0.5 multiplication|0.66667 operator|0.83333 |1"
+		}
+	}
+}

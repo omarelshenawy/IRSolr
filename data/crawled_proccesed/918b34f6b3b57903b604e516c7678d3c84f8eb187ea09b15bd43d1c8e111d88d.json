@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "918b34f6b3b57903b604e516c7678d3c84f8eb187ea09b15bd43d1c8e111d88d",
+			"url": "https://upload.wikimedia.org/math/5/c/4/5c4876312278817d93d409ef65e7f3f9.png",
+			"previous": " And the relativistic mass and the relativistic kinetic energy are related by the formula ",
+			"after": " Einstein wanted to omit the unnatural second term on the right hand side whose only purpose is to make the energy at rest zero and to declare that the particle has a total energy which obeys ",
+			"color": "dim|0.35645 gray|0.35645 dim|0.35645 grey|0.35645 gray|0.27376 grey|0.27376 dark|0.18748 gray|0.18748 dark|0.18748 grey|0.18748 silver|0.087128 light|0.043247 gray|0.043247 light|0.043247 grey|0.043247 gainsboro|0.030205 white|0.0050671 smoke|0.0050671  ",
+			"after_weights": " Einstein|1 wanted|0.97222 to|0.94444 omit|0.91667 the|0.88889 unnatural|0.86111 second|0.83333 term|0.80556 on|0.77778 the|0.75 right|0.72222 hand|0.69444 side|0.66667 whose|0.63889 only|0.61111 purpose|0.58333 is|0.55556 to|0.52778 make|0.5 the|0.47222 energy|0.44444 at|0.41667 rest|0.38889 zero|0.36111 and|0.33333 to|0.30556 declare|0.27778 that|0.25 the|0.22222 particle|0.19444 has|0.16667 a|0.13889 total|0.11111 energy|0.083333 which|0.055556 obeys|0.027778 |0",
+			"previous_weights": " And|0 the|0.071429 relativistic|0.14286 mass|0.21429 and|0.28571 the|0.35714 relativistic|0.42857 kinetic|0.5 energy|0.57143 are|0.64286 related|0.71429 by|0.78571 the|0.85714 formula|0.92857 |1"
+		}
+	}
+}

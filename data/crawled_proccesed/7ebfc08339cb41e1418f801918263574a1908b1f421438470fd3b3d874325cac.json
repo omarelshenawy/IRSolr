@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ebfc08339cb41e1418f801918263574a1908b1f421438470fd3b3d874325cac",
+			"url": "https://upload.wikimedia.org/math/e/8/a/e8af89aaae80953a275064a14c66b551.png",
+			"previous": " Using the streamline function Blasius obtained the following solution for the shear stress at the surface of the plate   at and  at ",
+			"after": " And via the boundary conditions it is known that  We are given the following relations for heat mass flux out of the surface of the plate",
+			"color": "dim|0.36092 gray|0.36092 dim|0.36092 grey|0.36092 gray|0.28997 grey|0.28997 dark|0.18836 gray|0.18836 dark|0.18836 grey|0.18836 silver|0.078323 light|0.037482 gray|0.037482 light|0.037482 grey|0.037482 gainsboro|0.026036 white|0.004719 smoke|0.004719  ",
+			"after_weights": " And|1 via|0.96154 the|0.92308 boundary|0.88462 conditions|0.84615 it|0.80769 is|0.76923 known|0.73077 that|0.69231 |0.65385 We|0.61538 are|0.57692 given|0.53846 the|0.5 following|0.46154 relations|0.42308 for|0.38462 heat|0.34615 mass|0.30769 flux|0.26923 out|0.23077 of|0.19231 the|0.15385 surface|0.11538 of|0.076923 the|0.038462 plate|0",
+			"previous_weights": " Using|0 the|0.04 streamline|0.08 function|0.12 Blasius|0.16 obtained|0.2 the|0.24 following|0.28 solution|0.32 for|0.36 the|0.4 shear|0.44 stress|0.48 at|0.52 the|0.56 surface|0.6 of|0.64 the|0.68 plate|0.72 |0.76 |0.8 at|0.84 and|0.88 |0.92 at|0.96 |1"
+		}
+	}
+}

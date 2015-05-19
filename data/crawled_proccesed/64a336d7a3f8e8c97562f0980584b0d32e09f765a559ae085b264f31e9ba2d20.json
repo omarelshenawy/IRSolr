@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64a336d7a3f8e8c97562f0980584b0d32e09f765a559ae085b264f31e9ba2d20",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MVCapeHenlopen.jpg/220px-MVCapeHenlopen.jpg",
+			"previous": " ",
+			"after": " On the Delaware Bay the Delaware River and Bay Authority operates the Cape May Lewes Ferry The agency also operates the Delaware City Salem Ferry for passengers across the Delaware River The Delaware River Port Authority operates the RiverLink Ferry between the Camden waterfront and Penn s Landing in Philadelphia Pennsylvania ",
+			"color": "dim|0.43771 gray|0.43771 dim|0.43771 grey|0.43771 gray|0.29073 grey|0.29073 slate|0.091357 gray|0.091357 light|0.063393 slate|0.063393 gray|0.063393 black|0.033421 dark|0.017847 gray|0.017847 dark|0.017847 grey|0.017847 light|0.010907 gray|0.010907 light|0.010907 grey|0.010907 gainsboro|0.0098174 silver|0.0089122 white|0.0051951 smoke|0.0051951 linen|0.0039456 sea|0.0031659 shell|0.0031659  ",
+			"after_weights": " On|1 the|0.98039 Delaware|0.96078 Bay|0.94118 the|0.92157 Delaware|0.90196 River|0.88235 and|0.86275 Bay|0.84314 Authority|0.82353 operates|0.80392 the|0.78431 Cape|0.76471 May|0.7451 Lewes|0.72549 Ferry|0.70588 The|0.68627 agency|0.66667 also|0.64706 operates|0.62745 the|0.60784 Delaware|0.58824 City|0.56863 Salem|0.54902 Ferry|0.52941 for|0.5098 passengers|0.4902 across|0.47059 the|0.45098 Delaware|0.43137 River|0.41176 The|0.39216 Delaware|0.37255 River|0.35294 Port|0.33333 Authority|0.31373 operates|0.29412 the|0.27451 RiverLink|0.2549 Ferry|0.23529 between|0.21569 the|0.19608 Camden|0.17647 waterfront|0.15686 and|0.13725 Penn|0.11765 s|0.098039 Landing|0.078431 in|0.058824 Philadelphia|0.039216 Pennsylvania|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

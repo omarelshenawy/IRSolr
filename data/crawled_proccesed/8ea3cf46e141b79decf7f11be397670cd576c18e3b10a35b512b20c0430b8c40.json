@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/math/4/9/1/4915f6560f256c666a59a254b39e8c68.png",
 			"previous": " By standardizing we get a random variable ",
 			"after": " dependent on the parameter to be estimated but with a standard normal distribution independent of the parameter Hence it is possible to find numbers z and z independent of between which Z lies with probability 1 a measure of how confident we want to be ",
+			"color": "dim|0.34921 gray|0.34921 dim|0.34921 grey|0.34921 gray|0.28414 grey|0.28414 dark|0.18967 gray|0.18967 dark|0.18967 grey|0.18967 silver|0.0869 light|0.042961 gray|0.042961 light|0.042961 grey|0.042961 gainsboro|0.030125 white|0.004565 smoke|0.004565  ",
 			"after_weights": " dependent|1 on|0.97778 the|0.95556 parameter|0.93333 to|0.91111 be|0.88889 estimated|0.86667 but|0.84444 with|0.82222 a|0.8 standard|0.77778 normal|0.75556 distribution|0.73333 independent|0.71111 of|0.68889 the|0.66667 parameter|0.64444 Hence|0.62222 it|0.6 is|0.57778 possible|0.55556 to|0.53333 find|0.51111 numbers|0.48889 z|0.46667 and|0.44444 z|0.42222 independent|0.4 of|0.37778 between|0.35556 which|0.33333 Z|0.31111 lies|0.28889 with|0.26667 probability|0.24444 1|0.22222 a|0.2 measure|0.17778 of|0.15556 how|0.13333 confident|0.11111 we|0.088889 want|0.066667 to|0.044444 be|0.022222 |0",
 			"previous_weights": " By|0 standardizing|0.14286 we|0.28571 get|0.42857 a|0.57143 random|0.71429 variable|0.85714 |1"
 		}

@@ -1,7 +1,7 @@
 clc
 clear all
 
-load_path = 'data/crawled/';
+load_path = 'data/processed/';
 save_path = 'data/crawled_proccesed/';
 
 %% Get all filenames in path
@@ -127,9 +127,9 @@ for file = 1:num_of_files
   
   %% Save
   %   t = savejson('', doc, [load_path 'test.json']);
-  t = savejson('', doc, [save_path dir_contents(file + 2).name '.json']);
+  t = savejson('', doc, [save_path dir_contents(file + 2).name]);
   files_proc = files_proc + 1;
-  if (mod(files_proc, 500) == 0)
+  if (mod(files_proc, 1000) == 0)
     disp(['files processed: ' int2str(files_proc)])
   end
 end

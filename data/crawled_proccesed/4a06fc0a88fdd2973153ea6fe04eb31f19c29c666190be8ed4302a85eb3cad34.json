@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a06fc0a88fdd2973153ea6fe04eb31f19c29c666190be8ed4302a85eb3cad34",
+			"url": "https://upload.wikimedia.org/math/0/6/3/0637b7e28a96a99cff153d4b20766e59.png",
+			"previous": " The general cubic equation has the form",
+			"after": " with This section describes how the roots of such an equation may be computed The coefficients a b c d are generally assumed to be real numbers but most of the results apply when they belong to any field of characteristic not 2 or 3 ",
+			"color": "black|0.33421 dim|0.26928 gray|0.26928 dim|0.26928 grey|0.26928 gray|0.17998 grey|0.17998 dark|0.11397 gray|0.11397 dark|0.11397 grey|0.11397 silver|0.050132 light|0.024985 gray|0.024985 light|0.024985 grey|0.024985 gainsboro|0.017569  ",
+			"after_weights": " with|1 This|0.97778 section|0.95556 describes|0.93333 how|0.91111 the|0.88889 roots|0.86667 of|0.84444 such|0.82222 an|0.8 equation|0.77778 may|0.75556 be|0.73333 computed|0.71111 The|0.68889 coefficients|0.66667 a|0.64444 b|0.62222 c|0.6 d|0.57778 are|0.55556 generally|0.53333 assumed|0.51111 to|0.48889 be|0.46667 real|0.44444 numbers|0.42222 but|0.4 most|0.37778 of|0.35556 the|0.33333 results|0.31111 apply|0.28889 when|0.26667 they|0.24444 belong|0.22222 to|0.2 any|0.17778 field|0.15556 of|0.13333 characteristic|0.11111 not|0.088889 2|0.066667 or|0.044444 3|0.022222 |0",
+			"previous_weights": " The|0 general|0.16667 cubic|0.33333 equation|0.5 has|0.66667 the|0.83333 form|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b70e20693e8524b756f64cb4738c2ed0a1e7619d895db9415509c2bc9451bf7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/New_Royal_Jordanian_Headquarters.JPG/220px-New_Royal_Jordanian_Headquarters.JPG",
+			"previous": " The operation of private charter flights using aircraft from the Royal Jordanian fleet is uncommon but may be arranged if aircraft of Royal Wings the subsidiary company of Royal Jordanian cannot meet customer requirements ",
+			"after": " ",
+			"color": "tan|0.15523 dim|0.14662 gray|0.14662 dim|0.14662 grey|0.14662 black|0.14266 dark|0.1251 slate|0.1251 gray|0.1251 gray|0.080107 grey|0.080107 dark|0.06235 gray|0.06235 dark|0.06235 grey|0.06235 wheat|0.054683 silver|0.029406 slate|0.017916 gray|0.017916 light|0.01773 slate|0.01773 gray|0.01773  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 operation|0.029412 of|0.058824 private|0.088235 charter|0.11765 flights|0.14706 using|0.17647 aircraft|0.20588 from|0.23529 the|0.26471 Royal|0.29412 Jordanian|0.32353 fleet|0.35294 is|0.38235 uncommon|0.41176 but|0.44118 may|0.47059 be|0.5 arranged|0.52941 if|0.55882 aircraft|0.58824 of|0.61765 Royal|0.64706 Wings|0.67647 the|0.70588 subsidiary|0.73529 company|0.76471 of|0.79412 Royal|0.82353 Jordanian|0.85294 cannot|0.88235 meet|0.91176 customer|0.94118 requirements|0.97059 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "931cd70b5bbcb4ed8ce7354918a19d561a220a9d91d4f58ce1dc53252da8d4f9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Relative_survival_of_ovarian_cancer_by_stage.png/300px-Relative_survival_of_ovarian_cancer_by_stage.png",
+			"previous": " ",
+			"after": " Ovarian cancer usually has a relatively poor prognosis It is disproportionately deadly because it lacks any clear early detection or screening test meaning most cases are not diagnosed until they have reached advanced stages 51 However in some cases ovarian cancer recurrences are chronically treatable 10 ",
+			"color": "royal|0.7073 blue|0.7073 corn|0.2623 flower|0.2623 blue|0.2623 light|0.030398 steel|0.030398 blue|0.030398  ",
+			"after_weights": " Ovarian|1 cancer|0.97826 usually|0.95652 has|0.93478 a|0.91304 relatively|0.8913 poor|0.86957 prognosis|0.84783 It|0.82609 is|0.80435 disproportionately|0.78261 deadly|0.76087 because|0.73913 it|0.71739 lacks|0.69565 any|0.67391 clear|0.65217 early|0.63043 detection|0.6087 or|0.58696 screening|0.56522 test|0.54348 meaning|0.52174 most|0.5 cases|0.47826 are|0.45652 not|0.43478 diagnosed|0.41304 until|0.3913 they|0.36957 have|0.34783 reached|0.32609 advanced|0.30435 stages|0.28261 51|0.26087 However|0.23913 in|0.21739 some|0.19565 cases|0.17391 ovarian|0.15217 cancer|0.13043 recurrences|0.1087 are|0.086957 chronically|0.065217 treatable|0.043478 10|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

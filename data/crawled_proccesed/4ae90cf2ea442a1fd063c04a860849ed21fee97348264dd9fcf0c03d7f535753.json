@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ae90cf2ea442a1fd063c04a860849ed21fee97348264dd9fcf0c03d7f535753",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/StaticPort.jpg/180px-StaticPort.jpg",
+			"previous": " ",
+			"after": " The pitot static system of instruments uses the principle of air pressure gradient It works by measuring pressures or pressure differences and using these values to assess the speed and altitude 1 These pressures can be measured either from the static port static pressure or the pitot tube pitot pressure The static pressure is used in all measurements while the pitot pressure is used only to determine airspeed ",
+			"color": "dark|0.63252 gray|0.63252 dark|0.63252 grey|0.63252 gray|0.22528 grey|0.22528 dark|0.038383 red|0.038383 brown|0.030954 maroon|0.027136 firebrick|0.024749 dark|0.010032 sea|0.010032 green|0.010032  ",
+			"after_weights": " The|1 pitot|0.98529 static|0.97059 system|0.95588 of|0.94118 instruments|0.92647 uses|0.91176 the|0.89706 principle|0.88235 of|0.86765 air|0.85294 pressure|0.83824 gradient|0.82353 It|0.80882 works|0.79412 by|0.77941 measuring|0.76471 pressures|0.75 or|0.73529 pressure|0.72059 differences|0.70588 and|0.69118 using|0.67647 these|0.66176 values|0.64706 to|0.63235 assess|0.61765 the|0.60294 speed|0.58824 and|0.57353 altitude|0.55882 1|0.54412 These|0.52941 pressures|0.51471 can|0.5 be|0.48529 measured|0.47059 either|0.45588 from|0.44118 the|0.42647 static|0.41176 port|0.39706 static|0.38235 pressure|0.36765 or|0.35294 the|0.33824 pitot|0.32353 tube|0.30882 pitot|0.29412 pressure|0.27941 The|0.26471 static|0.25 pressure|0.23529 is|0.22059 used|0.20588 in|0.19118 all|0.17647 measurements|0.16176 while|0.14706 the|0.13235 pitot|0.11765 pressure|0.10294 is|0.088235 used|0.073529 only|0.058824 to|0.044118 determine|0.029412 airspeed|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

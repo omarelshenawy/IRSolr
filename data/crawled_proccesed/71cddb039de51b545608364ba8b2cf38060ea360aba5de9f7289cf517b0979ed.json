@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71cddb039de51b545608364ba8b2cf38060ea360aba5de9f7289cf517b0979ed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vidyasagar_Setu_-_River_Hooghly_2014-01-01_1889.JPG/220px-Vidyasagar_Setu_-_River_Hooghly_2014-01-01_1889.JPG",
+			"previous": " ",
+			"after": " North Kolkata is the oldest part of the city Characterised by 19th century architecture and narrow alleyways it includes areas such as Shyambazar Shobhabazar Chitpur Cossipore Sinthee and Dum Dum 59 65 66 The north sub urban areas like Baranagar Belghoria Sodepur Khardah up to Barrackpur are also within the city of Kolkata as a metropolitan structure ",
+			"color": "dark|0.33562 gray|0.33562 dark|0.33562 grey|0.33562 gray|0.26973 grey|0.26973 dim|0.26882 gray|0.26882 dim|0.26882 grey|0.26882 black|0.077861 slate|0.022365 gray|0.022365 light|0.018708 slate|0.018708 gray|0.018708  ",
+			"after_weights": " North|1 Kolkata|0.98246 is|0.96491 the|0.94737 oldest|0.92982 part|0.91228 of|0.89474 the|0.87719 city|0.85965 Characterised|0.84211 by|0.82456 19th|0.80702 century|0.78947 architecture|0.77193 and|0.75439 narrow|0.73684 alleyways|0.7193 it|0.70175 includes|0.68421 areas|0.66667 such|0.64912 as|0.63158 Shyambazar|0.61404 Shobhabazar|0.59649 Chitpur|0.57895 Cossipore|0.5614 Sinthee|0.54386 and|0.52632 Dum|0.50877 Dum|0.49123 59|0.47368 65|0.45614 66|0.4386 The|0.42105 north|0.40351 sub|0.38596 urban|0.36842 areas|0.35088 like|0.33333 Baranagar|0.31579 Belghoria|0.29825 Sodepur|0.2807 Khardah|0.26316 up|0.24561 to|0.22807 Barrackpur|0.21053 are|0.19298 also|0.17544 within|0.15789 the|0.14035 city|0.12281 of|0.10526 Kolkata|0.087719 as|0.070175 a|0.052632 metropolitan|0.035088 structure|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

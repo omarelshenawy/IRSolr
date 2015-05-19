@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b58c86dd276413d4bdfcb045ac2f1b5438a7179f4c3cf7e929310fba665e2b1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/McCormick_Tribune_Zamboni.jpg/220px-McCormick_Tribune_Zamboni.jpg",
+			"previous": " ",
+			"after": " Through 2006 and 2007 the McCormick Tribune Ice Rink was one of several operated by the Chicago Park District 35 Since then although the Chicago Park District still operates ten public ice skating rinks 36 the Millennium Park ice rink is operated by a division of the Chicago Department of Cultural Affairs 37 38 itself a Department of the City of Chicago Government 39 40 ",
+			"color": "dark|0.44703 gray|0.44703 dark|0.44703 grey|0.44703 silver|0.3997 light|0.088503 gray|0.088503 light|0.088503 grey|0.088503 gainsboro|0.015806 gray|0.013648 grey|0.013648 khaki|0.0047475 tan|0.0034495  ",
+			"after_weights": " Through|1 2006|0.98462 and|0.96923 2007|0.95385 the|0.93846 McCormick|0.92308 Tribune|0.90769 Ice|0.89231 Rink|0.87692 was|0.86154 one|0.84615 of|0.83077 several|0.81538 operated|0.8 by|0.78462 the|0.76923 Chicago|0.75385 Park|0.73846 District|0.72308 35|0.70769 Since|0.69231 then|0.67692 although|0.66154 the|0.64615 Chicago|0.63077 Park|0.61538 District|0.6 still|0.58462 operates|0.56923 ten|0.55385 public|0.53846 ice|0.52308 skating|0.50769 rinks|0.49231 36|0.47692 the|0.46154 Millennium|0.44615 Park|0.43077 ice|0.41538 rink|0.4 is|0.38462 operated|0.36923 by|0.35385 a|0.33846 division|0.32308 of|0.30769 the|0.29231 Chicago|0.27692 Department|0.26154 of|0.24615 Cultural|0.23077 Affairs|0.21538 37|0.2 38|0.18462 itself|0.16923 a|0.15385 Department|0.13846 of|0.12308 the|0.10769 City|0.092308 of|0.076923 Chicago|0.061538 Government|0.046154 39|0.030769 40|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

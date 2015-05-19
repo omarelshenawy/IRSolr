@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "20c412b75c0802dc66b81b2eb817f25b0c35dcc534229d421e369c45cad4b0bc",
+			"url": "https://upload.wikimedia.org/math/b/c/b/bcb8782f66e28d0a43a2fb6cbe9f7c7e.png",
+			"previous": " or",
+			"after": " In this context the elements of X are called arguments of f For each argument x the corresponding unique y in the codomain is called the function value at x or the image of x under f It is written as f x One says that f associates y with x or maps x to y This is abbreviated by",
+			"color": "gray|0.28341 grey|0.28341 dark|0.24346 gray|0.24346 dark|0.24346 grey|0.24346 dim|0.20369 gray|0.20369 dim|0.20369 grey|0.20369 silver|0.12506 light|0.067072 gray|0.067072 light|0.067072 grey|0.067072 gainsboro|0.046155 white|0.0069978 smoke|0.0069978 linen|0.0036986 lavender|0.0033939 blush|0.0033939 alice|0.0033111 blue|0.0033111 ghost|0.0031435 white|0.0031435 sea|0.0030167 shell|0.0030167 snow|0.0028614  ",
+			"after_weights": " In|1 this|0.98305 context|0.9661 the|0.94915 elements|0.9322 of|0.91525 X|0.89831 are|0.88136 called|0.86441 arguments|0.84746 of|0.83051 f|0.81356 For|0.79661 each|0.77966 argument|0.76271 x|0.74576 the|0.72881 corresponding|0.71186 unique|0.69492 y|0.67797 in|0.66102 the|0.64407 codomain|0.62712 is|0.61017 called|0.59322 the|0.57627 function|0.55932 value|0.54237 at|0.52542 x|0.50847 or|0.49153 the|0.47458 image|0.45763 of|0.44068 x|0.42373 under|0.40678 f|0.38983 It|0.37288 is|0.35593 written|0.33898 as|0.32203 f|0.30508 x|0.28814 One|0.27119 says|0.25424 that|0.23729 f|0.22034 associates|0.20339 y|0.18644 with|0.16949 x|0.15254 or|0.13559 maps|0.11864 x|0.10169 to|0.084746 y|0.067797 This|0.050847 is|0.033898 abbreviated|0.016949 by|0",
+			"previous_weights": " or|1"
+		}
+	}
+}

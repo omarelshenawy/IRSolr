@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21d156510b925e61c48748586aeea74e241b1633d4903d1dd5a5b2b1e8bff829",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Boeing_737-823_American_Airlines_N803NN%2C_YYZ_Toronto%2C_ON_%28Lester_B._Pearson_International_Airport%29%2C_Canada_PP1379310331.jpg/220px-Boeing_737-823_American_Airlines_N803NN%2C_YYZ_Toronto%2C_ON_%28Lester_B._Pearson_International_Airport%29%2C_Canada_PP1379310331.jpg",
+			"previous": " During de icing a heated glycol and water mixture is applied to the aircraft to remove frozen contamination adhering to critical flight control surfaces With anti icing additional chemicals are applied to provide long term protection against icing 55 ",
+			"after": " ",
+			"color": "dark|0.45111 gray|0.45111 dark|0.45111 grey|0.45111 dark|0.31121 olive|0.31121 green|0.31121 gray|0.056343 grey|0.056343 dim|0.024214 gray|0.024214 dim|0.024214 grey|0.024214 silver|0.022301 light|0.020005 gray|0.020005 light|0.020005 grey|0.020005 gainsboro|0.018004 black|0.0087411 white|0.0086503 smoke|0.0086503 light|0.0083769 slate|0.0083769 gray|0.0083769 alice|0.0064728 blue|0.0064728 lavender|0.0064586 blush|0.0064586 ghost|0.0061764 white|0.0061764 slate|0.0055472 gray|0.0055472 snow|0.0051949 sea|0.0046294 shell|0.0046294 white|0.0038944  ",
+			"after_weights": " ",
+			"previous_weights": " During|0 de|0.025641 icing|0.051282 a|0.076923 heated|0.10256 glycol|0.12821 and|0.15385 water|0.17949 mixture|0.20513 is|0.23077 applied|0.25641 to|0.28205 the|0.30769 aircraft|0.33333 to|0.35897 remove|0.38462 frozen|0.41026 contamination|0.4359 adhering|0.46154 to|0.48718 critical|0.51282 flight|0.53846 control|0.5641 surfaces|0.58974 With|0.61538 anti|0.64103 icing|0.66667 additional|0.69231 chemicals|0.71795 are|0.74359 applied|0.76923 to|0.79487 provide|0.82051 long|0.84615 term|0.87179 protection|0.89744 against|0.92308 icing|0.94872 55|0.97436 |1"
+		}
+	}
+}

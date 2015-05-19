@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "115acce516050213ef2576ccd3b8172e873f2cabfdd68eb33ca36ee5c8e57849",
+			"url": "https://upload.wikimedia.org/math/a/f/0/af049b44d89484bcc6114dde940d4edc.png",
+			"previous": " Linear algebra provides the formal setting for the linear combination of equations used in the Gaussian method Suppose the goal is to find and describe the solution s if any of the following system of linear equations ",
+			"after": " The Gaussian elimination algorithm is as follows eliminate x from all equations below L1 and then eliminate y from all equations below L2 This will put the system into triangular form Then using back substitution each unknown can be solved for ",
+			"color": "dim|0.30188 gray|0.30188 dim|0.30188 grey|0.30188 gray|0.29103 grey|0.29103 dark|0.21054 gray|0.21054 dark|0.21054 grey|0.21054 silver|0.094569 light|0.053047 gray|0.053047 light|0.053047 grey|0.053047 gainsboro|0.034324 white|0.0041114 smoke|0.0041114  ",
+			"after_weights": " The|1 Gaussian|0.97561 elimination|0.95122 algorithm|0.92683 is|0.90244 as|0.87805 follows|0.85366 eliminate|0.82927 x|0.80488 from|0.78049 all|0.7561 equations|0.73171 below|0.70732 L1|0.68293 and|0.65854 then|0.63415 eliminate|0.60976 y|0.58537 from|0.56098 all|0.53659 equations|0.5122 below|0.4878 L2|0.46341 This|0.43902 will|0.41463 put|0.39024 the|0.36585 system|0.34146 into|0.31707 triangular|0.29268 form|0.26829 Then|0.2439 using|0.21951 back|0.19512 substitution|0.17073 each|0.14634 unknown|0.12195 can|0.097561 be|0.073171 solved|0.04878 for|0.02439 |0",
+			"previous_weights": " Linear|0 algebra|0.027027 provides|0.054054 the|0.081081 formal|0.10811 setting|0.13514 for|0.16216 the|0.18919 linear|0.21622 combination|0.24324 of|0.27027 equations|0.2973 used|0.32432 in|0.35135 the|0.37838 Gaussian|0.40541 method|0.43243 Suppose|0.45946 the|0.48649 goal|0.51351 is|0.54054 to|0.56757 find|0.59459 and|0.62162 describe|0.64865 the|0.67568 solution|0.7027 s|0.72973 if|0.75676 any|0.78378 of|0.81081 the|0.83784 following|0.86486 system|0.89189 of|0.91892 linear|0.94595 equations|0.97297 |1"
+		}
+	}
+}

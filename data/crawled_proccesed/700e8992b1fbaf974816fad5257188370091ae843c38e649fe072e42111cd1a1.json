@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "700e8992b1fbaf974816fad5257188370091ae843c38e649fe072e42111cd1a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gemini_VI_Launch_-_GPN-2000-000612.jpg/200px-Gemini_VI_Launch_-_GPN-2000-000612.jpg",
+			"previous": " ",
+			"after": " The Space Race was an informal competition between the United States and the Soviet Union that lasted roughly from 1957 to 1975 It involved the parallel efforts by each of those countries to explore outer space with artificial satellites to send humans into space and to land people on the Moon ",
+			"color": "steel|0.25695 blue|0.25695 light|0.1135 slate|0.1135 gray|0.1135 slate|0.097304 gray|0.097304 dark|0.060918 gray|0.060918 dark|0.060918 grey|0.060918 silver|0.043007 light|0.041694 steel|0.041694 blue|0.041694 light|0.034364 gray|0.034364 light|0.034364 grey|0.034364 gainsboro|0.026915 gray|0.026173 grey|0.026173 brown|0.025297 light|0.019917 sky|0.019917 blue|0.019917 dim|0.019643 gray|0.019643 dim|0.019643 grey|0.019643  ",
+			"after_weights": " The|1 Space|0.98039 Race|0.96078 was|0.94118 an|0.92157 informal|0.90196 competition|0.88235 between|0.86275 the|0.84314 United|0.82353 States|0.80392 and|0.78431 the|0.76471 Soviet|0.7451 Union|0.72549 that|0.70588 lasted|0.68627 roughly|0.66667 from|0.64706 1957|0.62745 to|0.60784 1975|0.58824 It|0.56863 involved|0.54902 the|0.52941 parallel|0.5098 efforts|0.4902 by|0.47059 each|0.45098 of|0.43137 those|0.41176 countries|0.39216 to|0.37255 explore|0.35294 outer|0.33333 space|0.31373 with|0.29412 artificial|0.27451 satellites|0.2549 to|0.23529 send|0.21569 humans|0.19608 into|0.17647 space|0.15686 and|0.13725 to|0.11765 land|0.098039 people|0.078431 on|0.058824 the|0.039216 Moon|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47d50cca794c01ed1868095d0038101afc96790171afe3e9f8811a7310379793",
+			"url": "https://upload.wikimedia.org/math/c/e/8/ce878ab016e4775b084c9f4a7e45a312.png",
+			"previous": " and the corresponding energy levels are where Hn are the Hermite polynomials  This problem can either be treated by directly solving the Schr dinger which is not trivial or by using the more elegant ladder method first proposed by Paul Dirac The eigenstates are given by",
+			"after": " This is another example illustrating the quantization of energy for bound states ",
+			"color": "black|0.23304 dim|0.2303 gray|0.2303 dim|0.2303 grey|0.2303 gray|0.22667 grey|0.22667 dark|0.20732 gray|0.20732 dark|0.20732 grey|0.20732 silver|0.078461 light|0.017996 gray|0.017996 light|0.017996 grey|0.017996 gainsboro|0.0062174  ",
+			"after_weights": " This|1 is|0.91667 another|0.83333 example|0.75 illustrating|0.66667 the|0.58333 quantization|0.5 of|0.41667 energy|0.33333 for|0.25 bound|0.16667 states|0.083333 |0",
+			"previous_weights": " and|0 the|0.021739 corresponding|0.043478 energy|0.065217 levels|0.086957 are|0.1087 where|0.13043 Hn|0.15217 are|0.17391 the|0.19565 Hermite|0.21739 polynomials|0.23913 |0.26087 This|0.28261 problem|0.30435 can|0.32609 either|0.34783 be|0.36957 treated|0.3913 by|0.41304 directly|0.43478 solving|0.45652 the|0.47826 Schr|0.5 dinger|0.52174 which|0.54348 is|0.56522 not|0.58696 trivial|0.6087 or|0.63043 by|0.65217 using|0.67391 the|0.69565 more|0.71739 elegant|0.73913 ladder|0.76087 method|0.78261 first|0.80435 proposed|0.82609 by|0.84783 Paul|0.86957 Dirac|0.8913 The|0.91304 eigenstates|0.93478 are|0.95652 given|0.97826 by|1"
+		}
+	}
+}

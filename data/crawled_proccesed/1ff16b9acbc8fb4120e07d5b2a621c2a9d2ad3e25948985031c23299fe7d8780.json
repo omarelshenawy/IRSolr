@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ff16b9acbc8fb4120e07d5b2a621c2a9d2ad3e25948985031c23299fe7d8780",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heathrow_Terminal_5_012.jpg/220px-Heathrow_Terminal_5_012.jpg",
+			"previous": " ",
+			"after": " At the airport terminal the bridge is connected to a portal called a gate in the terminal wall behind the gate desk Once airplane boarding starts passengers hand their boarding passes to the gate s attendant who lets them pass through ",
+			"color": "dim|0.21305 gray|0.21305 dim|0.21305 grey|0.21305 dark|0.11591 gray|0.11591 dark|0.11591 grey|0.11591 gray|0.10642 grey|0.10642 silver|0.094748 light|0.087724 gray|0.087724 light|0.087724 grey|0.087724 gainsboro|0.073257 dark|0.063699 slate|0.063699 gray|0.063699 slate|0.056686 gray|0.056686 light|0.049579 slate|0.049579 gray|0.049579 white|0.015355 smoke|0.015355 alice|0.010107 blue|0.010107 black|0.0099513 misty|0.0098267 rose|0.0098267 rosy|0.0092146 brown|0.0092146 ghost|0.0091409 white|0.0091409 lavender|0.0089801 blush|0.0089801 snow|0.0083603 linen|0.0074956 sea|0.0074267 shell|0.0074267 white|0.0062743 mint|0.0062018 cream|0.0062018 azure|0.0059099 lavender|0.0058508 floral|0.0049356 white|0.0049356  ",
+			"after_weights": " At|1 the|0.97561 airport|0.95122 terminal|0.92683 the|0.90244 bridge|0.87805 is|0.85366 connected|0.82927 to|0.80488 a|0.78049 portal|0.7561 called|0.73171 a|0.70732 gate|0.68293 in|0.65854 the|0.63415 terminal|0.60976 wall|0.58537 behind|0.56098 the|0.53659 gate|0.5122 desk|0.4878 Once|0.46341 airplane|0.43902 boarding|0.41463 starts|0.39024 passengers|0.36585 hand|0.34146 their|0.31707 boarding|0.29268 passes|0.26829 to|0.2439 the|0.21951 gate|0.19512 s|0.17073 attendant|0.14634 who|0.12195 lets|0.097561 them|0.073171 pass|0.04878 through|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

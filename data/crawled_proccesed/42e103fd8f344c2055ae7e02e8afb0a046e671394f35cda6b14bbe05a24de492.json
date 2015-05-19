@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42e103fd8f344c2055ae7e02e8afb0a046e671394f35cda6b14bbe05a24de492",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Deviation_of_day_length_from_SI_day.svg/220px-Deviation_of_day_length_from_SI_day.svg.png",
+			"previous": " Not all clocks implement leap seconds in the same manner as UTC Leap seconds in Unix time are commonly implemented by repeating the last second of the day Network Time Protocol freezes time during the leap second Other experimental schemes warp time in the vicinity of a leap second 17 ",
+			"after": " Leap seconds are irregularly spaced because the Earth s rotation speed changes irregularly Indeed the Earth s rotation is quite unpredictable in the long term which explains why leap seconds are announced only six months in advance ",
+			"color": "silver|0.23864 light|0.22246 gray|0.22246 light|0.22246 grey|0.22246 gainsboro|0.18853 dark|0.14565 gray|0.14565 dark|0.14565 grey|0.14565 white|0.045665 smoke|0.045665 linen|0.02362 lavender|0.020895 blush|0.020895 alice|0.019931 blue|0.019931 ghost|0.019078 white|0.019078 sea|0.018294 shell|0.018294 snow|0.01741 white|0.012107 mint|0.0081457 cream|0.0081457 dark|0.0050564 sea|0.0050564 green|0.0050564 floral|0.004429 white|0.004429 misty|0.0028209 rose|0.0028209  ",
+			"after_weights": " Leap|1 seconds|0.97297 are|0.94595 irregularly|0.91892 spaced|0.89189 because|0.86486 the|0.83784 Earth|0.81081 s|0.78378 rotation|0.75676 speed|0.72973 changes|0.7027 irregularly|0.67568 Indeed|0.64865 the|0.62162 Earth|0.59459 s|0.56757 rotation|0.54054 is|0.51351 quite|0.48649 unpredictable|0.45946 in|0.43243 the|0.40541 long|0.37838 term|0.35135 which|0.32432 explains|0.2973 why|0.27027 leap|0.24324 seconds|0.21622 are|0.18919 announced|0.16216 only|0.13514 six|0.10811 months|0.081081 in|0.054054 advance|0.027027 |0",
+			"previous_weights": " Not|0 all|0.02 clocks|0.04 implement|0.06 leap|0.08 seconds|0.1 in|0.12 the|0.14 same|0.16 manner|0.18 as|0.2 UTC|0.22 Leap|0.24 seconds|0.26 in|0.28 Unix|0.3 time|0.32 are|0.34 commonly|0.36 implemented|0.38 by|0.4 repeating|0.42 the|0.44 last|0.46 second|0.48 of|0.5 the|0.52 day|0.54 Network|0.56 Time|0.58 Protocol|0.6 freezes|0.62 time|0.64 during|0.66 the|0.68 leap|0.7 second|0.72 Other|0.74 experimental|0.76 schemes|0.78 warp|0.8 time|0.82 in|0.84 the|0.86 vicinity|0.88 of|0.9 a|0.92 leap|0.94 second|0.96 17|0.98 |1"
+		}
+	}
+}

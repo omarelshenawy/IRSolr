@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11d231a78fe992ff4eebd70358293c998b6c96954ef9cb8b333206ae3246754d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fermilab.jpg/220px-Fermilab.jpg",
+			"previous": "  Big science usually implies one or more of these specific characteristics ",
+			"after": " Towards the end of the 20th century not only projects in basic physics and astronomy but also in life sciences became big sciences such as the massive Human Genome Project The heavy investment of government and industrial interests into academic science has also blurred the line between public and private research where entire academic departments even at public universities are often financed by private companies Not all Big Science is related to the military concerns which were at its origins ",
+			"color": "dark|0.42046 olive|0.42046 green|0.42046 dark|0.14529 slate|0.14529 gray|0.14529 gray|0.087479 grey|0.087479 dark|0.067617 gray|0.067617 dark|0.067617 grey|0.067617 dim|0.060252 gray|0.060252 dim|0.060252 grey|0.060252 silver|0.040341 slate|0.033423 gray|0.033423 light|0.026594 slate|0.026594 gray|0.026594 light|0.026499 gray|0.026499 light|0.026499 grey|0.026499 gainsboro|0.018754 black|0.013886  ",
+			"after_weights": " Towards|1 the|0.9875 end|0.975 of|0.9625 the|0.95 20th|0.9375 century|0.925 not|0.9125 only|0.9 projects|0.8875 in|0.875 basic|0.8625 physics|0.85 and|0.8375 astronomy|0.825 but|0.8125 also|0.8 in|0.7875 life|0.775 sciences|0.7625 became|0.75 big|0.7375 sciences|0.725 such|0.7125 as|0.7 the|0.6875 massive|0.675 Human|0.6625 Genome|0.65 Project|0.6375 The|0.625 heavy|0.6125 investment|0.6 of|0.5875 government|0.575 and|0.5625 industrial|0.55 interests|0.5375 into|0.525 academic|0.5125 science|0.5 has|0.4875 also|0.475 blurred|0.4625 the|0.45 line|0.4375 between|0.425 public|0.4125 and|0.4 private|0.3875 research|0.375 where|0.3625 entire|0.35 academic|0.3375 departments|0.325 even|0.3125 at|0.3 public|0.2875 universities|0.275 are|0.2625 often|0.25 financed|0.2375 by|0.225 private|0.2125 companies|0.2 Not|0.1875 all|0.175 Big|0.1625 Science|0.15 is|0.1375 related|0.125 to|0.1125 the|0.1 military|0.0875 concerns|0.075 which|0.0625 were|0.05 at|0.0375 its|0.025 origins|0.0125 |0",
+			"previous_weights": " |0 Big|0.083333 science|0.16667 usually|0.25 implies|0.33333 one|0.41667 or|0.5 more|0.58333 of|0.66667 these|0.75 specific|0.83333 characteristics|0.91667 |1"
+		}
+	}
+}

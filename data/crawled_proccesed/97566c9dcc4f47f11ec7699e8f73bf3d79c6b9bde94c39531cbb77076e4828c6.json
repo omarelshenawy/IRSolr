@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97566c9dcc4f47f11ec7699e8f73bf3d79c6b9bde94c39531cbb77076e4828c6",
+			"url": "https://upload.wikimedia.org/math/5/2/b/52bf02125bdde045526ddaa4152fa203.png",
+			"previous": " Multiplying by 2 both sides of the second equation and adding it to the first one results in As 0 2 the second equation in the system has no solution Therefore the system has no solution However not all inconsistent systems are recognized at first sight As an example let us consider the system",
+			"after": " which has clearly no solution  There are also systems which have infinitely many solutions in contrast to a system with a unique solution meaning a unique pair of values for and For example ",
+			"color": "dim|0.33814 gray|0.33814 dim|0.33814 grey|0.33814 gray|0.29608 grey|0.29608 dark|0.19678 gray|0.19678 dark|0.19678 grey|0.19678 silver|0.090615 light|0.038337 gray|0.038337 light|0.038337 grey|0.038337 gainsboro|0.02564 white|0.003582 smoke|0.003582  ",
+			"after_weights": " which|1 has|0.97059 clearly|0.94118 no|0.91176 solution|0.88235 |0.85294 There|0.82353 are|0.79412 also|0.76471 systems|0.73529 which|0.70588 have|0.67647 infinitely|0.64706 many|0.61765 solutions|0.58824 in|0.55882 contrast|0.52941 to|0.5 a|0.47059 system|0.44118 with|0.41176 a|0.38235 unique|0.35294 solution|0.32353 meaning|0.29412 a|0.26471 unique|0.23529 pair|0.20588 of|0.17647 values|0.14706 for|0.11765 and|0.088235 For|0.058824 example|0.029412 |0",
+			"previous_weights": " Multiplying|0 by|0.018868 2|0.037736 both|0.056604 sides|0.075472 of|0.09434 the|0.11321 second|0.13208 equation|0.15094 and|0.16981 adding|0.18868 it|0.20755 to|0.22642 the|0.24528 first|0.26415 one|0.28302 results|0.30189 in|0.32075 As|0.33962 0|0.35849 2|0.37736 the|0.39623 second|0.41509 equation|0.43396 in|0.45283 the|0.4717 system|0.49057 has|0.50943 no|0.5283 solution|0.54717 Therefore|0.56604 the|0.58491 system|0.60377 has|0.62264 no|0.64151 solution|0.66038 However|0.67925 not|0.69811 all|0.71698 inconsistent|0.73585 systems|0.75472 are|0.77358 recognized|0.79245 at|0.81132 first|0.83019 sight|0.84906 As|0.86792 an|0.88679 example|0.90566 let|0.92453 us|0.9434 consider|0.96226 the|0.98113 system|1"
+		}
+	}
+}

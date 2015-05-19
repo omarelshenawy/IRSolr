@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ad602c505ef2180c8f41ebac9424257c3114df11dc53affe1ba5283de45e5e3",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Multi-hole_waveguide_coupler.png/220px-Multi-hole_waveguide_coupler.png",
+			"previous": " ",
+			"after": " Directional couplers power splitters and power combiners are all essentially the same type of device at least when implemented with passive components A directional coupler splits a small amount of power from the main line to a third port A more strongly coupled but otherwise identical device may be called a power splitter One that couples exactly half the power to the third port a 3 dB coupler is the maximum coupling achievable without reversing the functions of the ports Many designs of power splitter can be used in reverse whereupon they become power combiners 76 ",
+			"color": "silver|0.24919 dark|0.22775 gray|0.22775 dark|0.22775 grey|0.22775 light|0.17784 gray|0.17784 light|0.17784 grey|0.17784 gainsboro|0.1255 medium|0.061877 aqua|0.061877 marine|0.061877 white|0.027153 smoke|0.027153 alice|0.012489 blue|0.012489 mint|0.012458 cream|0.012458 snow|0.011812 azure|0.011626 white|0.011555 ghost|0.01143 white|0.01143 sea|0.011186 shell|0.011186 floral|0.011076 white|0.011076 gray|0.009595 grey|0.009595 lavender|0.0092231 blush|0.0092231 honeydew|0.0055236  ",
+			"after_weights": " Directional|1 couplers|0.98958 power|0.97917 splitters|0.96875 and|0.95833 power|0.94792 combiners|0.9375 are|0.92708 all|0.91667 essentially|0.90625 the|0.89583 same|0.88542 type|0.875 of|0.86458 device|0.85417 at|0.84375 least|0.83333 when|0.82292 implemented|0.8125 with|0.80208 passive|0.79167 components|0.78125 A|0.77083 directional|0.76042 coupler|0.75 splits|0.73958 a|0.72917 small|0.71875 amount|0.70833 of|0.69792 power|0.6875 from|0.67708 the|0.66667 main|0.65625 line|0.64583 to|0.63542 a|0.625 third|0.61458 port|0.60417 A|0.59375 more|0.58333 strongly|0.57292 coupled|0.5625 but|0.55208 otherwise|0.54167 identical|0.53125 device|0.52083 may|0.51042 be|0.5 called|0.48958 a|0.47917 power|0.46875 splitter|0.45833 One|0.44792 that|0.4375 couples|0.42708 exactly|0.41667 half|0.40625 the|0.39583 power|0.38542 to|0.375 the|0.36458 third|0.35417 port|0.34375 a|0.33333 3|0.32292 dB|0.3125 coupler|0.30208 is|0.29167 the|0.28125 maximum|0.27083 coupling|0.26042 achievable|0.25 without|0.23958 reversing|0.22917 the|0.21875 functions|0.20833 of|0.19792 the|0.1875 ports|0.17708 Many|0.16667 designs|0.15625 of|0.14583 power|0.13542 splitter|0.125 can|0.11458 be|0.10417 used|0.09375 in|0.083333 reverse|0.072917 whereupon|0.0625 they|0.052083 become|0.041667 power|0.03125 combiners|0.020833 76|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

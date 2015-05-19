@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b6bce1503a54c68461d9c805afce0d9e87ef8ec9c25ed5577e9d5cf05b713fb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Twelfth_Air_Force_-_Emblem_%28World_War_II%29.png/150px-Twelfth_Air_Force_-_Emblem_%28World_War_II%29.png",
+			"previous": " ",
+			"after": " The origins of Twelfth Air Force are traced back to a series of mid 1942 Allied planners meetings to develop a strategy for the North African invasion or Operation TORCH Because this extensive operation required a new organization to provide enough manpower and equipment activation plans were prepared simultaneously with the invasion strategy ",
+			"color": "yellow|0.58522 corn|0.30021 flower|0.30021 blue|0.30021 red|0.029475 slate|0.02647 gray|0.02647 gray|0.021387 grey|0.021387 dim|0.019821 gray|0.019821 dim|0.019821 grey|0.019821  ",
+			"after_weights": " The|1 origins|0.98113 of|0.96226 Twelfth|0.9434 Air|0.92453 Force|0.90566 are|0.88679 traced|0.86792 back|0.84906 to|0.83019 a|0.81132 series|0.79245 of|0.77358 mid|0.75472 1942|0.73585 Allied|0.71698 planners|0.69811 meetings|0.67925 to|0.66038 develop|0.64151 a|0.62264 strategy|0.60377 for|0.58491 the|0.56604 North|0.54717 African|0.5283 invasion|0.50943 or|0.49057 Operation|0.4717 TORCH|0.45283 Because|0.43396 this|0.41509 extensive|0.39623 operation|0.37736 required|0.35849 a|0.33962 new|0.32075 organization|0.30189 to|0.28302 provide|0.26415 enough|0.24528 manpower|0.22642 and|0.20755 equipment|0.18868 activation|0.16981 plans|0.15094 were|0.13208 prepared|0.11321 simultaneously|0.09434 with|0.075472 the|0.056604 invasion|0.037736 strategy|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

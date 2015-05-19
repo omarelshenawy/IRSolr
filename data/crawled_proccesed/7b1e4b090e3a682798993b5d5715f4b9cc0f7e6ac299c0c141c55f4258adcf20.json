@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b1e4b090e3a682798993b5d5715f4b9cc0f7e6ac299c0c141c55f4258adcf20",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/American_Airlines_logo.svg/220px-American_Airlines_logo.svg.png",
+			"previous": " ",
+			"after": " In 1967 Massimo Vignelli designed the famous AA logo 99 100 Thirty years later in 1997 American Airlines was able to make its logo Internet compatible by buying the domain AA com AA is also American s two letter IATA airline designator ",
+			"color": "firebrick|0.82737 indian|0.1098 red|0.1098 light|0.042092 coral|0.042092 pink|0.0099749 light|0.0079029 pink|0.0079029  ",
+			"after_weights": " In|1 1967|0.97619 Massimo|0.95238 Vignelli|0.92857 designed|0.90476 the|0.88095 famous|0.85714 AA|0.83333 logo|0.80952 99|0.78571 100|0.7619 Thirty|0.7381 years|0.71429 later|0.69048 in|0.66667 1997|0.64286 American|0.61905 Airlines|0.59524 was|0.57143 able|0.54762 to|0.52381 make|0.5 its|0.47619 logo|0.45238 Internet|0.42857 compatible|0.40476 by|0.38095 buying|0.35714 the|0.33333 domain|0.30952 AA|0.28571 com|0.2619 AA|0.2381 is|0.21429 also|0.19048 American|0.16667 s|0.14286 two|0.11905 letter|0.095238 IATA|0.071429 airline|0.047619 designator|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

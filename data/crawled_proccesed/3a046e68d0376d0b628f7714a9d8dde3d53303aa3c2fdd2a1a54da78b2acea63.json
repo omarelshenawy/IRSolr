@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a046e68d0376d0b628f7714a9d8dde3d53303aa3c2fdd2a1a54da78b2acea63",
+			"url": "https://upload.wikimedia.org/math/f/8/5/f857125890f28f40d41e8cc429a8584d.png",
+			"previous": " Writing the Lorentz transformation and its inverse in terms of coordinate differences where for instance one event has coordinates x1 t1 and x 1 t 1 another event has coordinates x2 t2 and x 2 t 2 and the differences are defined as",
+			"after": " we get",
+			"color": "gray|0.29537 grey|0.29537 dim|0.23552 gray|0.23552 dim|0.23552 grey|0.23552 dark|0.22869 gray|0.22869 dark|0.22869 grey|0.22869 silver|0.12067 light|0.059181 gray|0.059181 light|0.059181 grey|0.059181 gainsboro|0.043499 white|0.0045103 smoke|0.0045103  ",
+			"after_weights": " we|1 get|0",
+			"previous_weights": " Writing|0 the|0.02381 Lorentz|0.047619 transformation|0.071429 and|0.095238 its|0.11905 inverse|0.14286 in|0.16667 terms|0.19048 of|0.21429 coordinate|0.2381 differences|0.2619 where|0.28571 for|0.30952 instance|0.33333 one|0.35714 event|0.38095 has|0.40476 coordinates|0.42857 x1|0.45238 t1|0.47619 and|0.5 x|0.52381 1|0.54762 t|0.57143 1|0.59524 another|0.61905 event|0.64286 has|0.66667 coordinates|0.69048 x2|0.71429 t2|0.7381 and|0.7619 x|0.78571 2|0.80952 t|0.83333 2|0.85714 and|0.88095 the|0.90476 differences|0.92857 are|0.95238 defined|0.97619 as|1"
+		}
+	}
+}

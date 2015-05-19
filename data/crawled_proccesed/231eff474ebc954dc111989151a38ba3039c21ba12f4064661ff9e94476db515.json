@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "231eff474ebc954dc111989151a38ba3039c21ba12f4064661ff9e94476db515",
+			"url": "https://upload.wikimedia.org/math/1/0/f/10f38ada76ece1475dfadf76a40255f7.png",
+			"previous": " The second normal mode is  Which corresponds to both masses moving in the same direction at the same time ",
+			"after": " This corresponds to the masses moving in the opposite directions while the center of mass remains stationary  The general solution is a superposition of the normal modes where c1 c2 1 and 2 are determined by the initial conditions of the problem ",
+			"color": "dim|0.30663 gray|0.30663 dim|0.30663 grey|0.30663 gray|0.30019 grey|0.30019 dark|0.20653 gray|0.20653 dark|0.20653 grey|0.20653 silver|0.088867 light|0.043609 gray|0.043609 light|0.043609 grey|0.043609 gainsboro|0.03164 white|0.005517 smoke|0.005517 linen|0.0030942  ",
+			"after_weights": " This|1 corresponds|0.97674 to|0.95349 the|0.93023 masses|0.90698 moving|0.88372 in|0.86047 the|0.83721 opposite|0.81395 directions|0.7907 while|0.76744 the|0.74419 center|0.72093 of|0.69767 mass|0.67442 remains|0.65116 stationary|0.62791 |0.60465 The|0.5814 general|0.55814 solution|0.53488 is|0.51163 a|0.48837 superposition|0.46512 of|0.44186 the|0.4186 normal|0.39535 modes|0.37209 where|0.34884 c1|0.32558 c2|0.30233 1|0.27907 and|0.25581 2|0.23256 are|0.2093 determined|0.18605 by|0.16279 the|0.13953 initial|0.11628 conditions|0.093023 of|0.069767 the|0.046512 problem|0.023256 |0",
+			"previous_weights": " The|0 second|0.05 normal|0.1 mode|0.15 is|0.2 |0.25 Which|0.3 corresponds|0.35 to|0.4 both|0.45 masses|0.5 moving|0.55 in|0.6 the|0.65 same|0.7 direction|0.75 at|0.8 the|0.85 same|0.9 time|0.95 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4aedf697bec6c7fbcbe5f3ccdb8cb33ef943e0119ee369e35c277fed95e8eb0a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/EJ200_inlet.jpg/220px-EJ200_inlet.jpg",
+			"previous": " An EJ200 engine together with a rocket engine will power the Bloodhound SSC for an attempt at the land speed record The target speed is at least 1000 mph 12  Stage 2  Stage 1 ",
+			"after": " Data from Rolls Royce plc 13 ",
+			"color": "gray|0.27837 grey|0.27837 dim|0.26673 gray|0.26673 dim|0.26673 grey|0.26673 dark|0.23594 gray|0.23594 dark|0.23594 grey|0.23594 silver|0.083156 light|0.036824 gray|0.036824 light|0.036824 grey|0.036824 black|0.031963 gainsboro|0.023542 slate|0.006192 gray|0.006192 white|0.0050048 smoke|0.0050048  ",
+			"after_weights": " Data|1 from|0.83333 Rolls|0.66667 Royce|0.5 plc|0.33333 13|0.16667 |0",
+			"previous_weights": " An|0 EJ200|0.027778 engine|0.055556 together|0.083333 with|0.11111 a|0.13889 rocket|0.16667 engine|0.19444 will|0.22222 power|0.25 the|0.27778 Bloodhound|0.30556 SSC|0.33333 for|0.36111 an|0.38889 attempt|0.41667 at|0.44444 the|0.47222 land|0.5 speed|0.52778 record|0.55556 The|0.58333 target|0.61111 speed|0.63889 is|0.66667 at|0.69444 least|0.72222 1000|0.75 mph|0.77778 12|0.80556 |0.83333 Stage|0.86111 2|0.88889 |0.91667 Stage|0.94444 1|0.97222 |1"
+		}
+	}
+}

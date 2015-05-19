@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ae233056f1139f9c2b95dd6f2af491930b05c15f6e65b7d5e604d43c10ecf07",
+			"url": "https://upload.wikimedia.org/math/e/b/6/eb6926572883e2f4465cb236e94c70b6.png",
+			"previous": " Note also that in several cases the solutions are expressed with fewer square or cube roots",
+			"after": " To pass from these roots of in Equation 2 to the general formulas for roots of in Equation 1 subtract and replace and by their expressions in terms of ",
+			"color": "dim|0.41353 gray|0.41353 dim|0.41353 grey|0.41353 gray|0.29368 grey|0.29368 dark|0.15497 gray|0.15497 dark|0.15497 grey|0.15497 silver|0.062679 light|0.03158 gray|0.03158 light|0.03158 grey|0.03158 gainsboro|0.023112 white|0.0046627 smoke|0.0046627  ",
+			"after_weights": " To|1 pass|0.96552 from|0.93103 these|0.89655 roots|0.86207 of|0.82759 in|0.7931 Equation|0.75862 2|0.72414 to|0.68966 the|0.65517 general|0.62069 formulas|0.58621 for|0.55172 roots|0.51724 of|0.48276 in|0.44828 Equation|0.41379 1|0.37931 subtract|0.34483 and|0.31034 replace|0.27586 and|0.24138 by|0.2069 their|0.17241 expressions|0.13793 in|0.10345 terms|0.068966 of|0.034483 |0",
+			"previous_weights": " Note|0 also|0.066667 that|0.13333 in|0.2 several|0.26667 cases|0.33333 the|0.4 solutions|0.46667 are|0.53333 expressed|0.6 with|0.66667 fewer|0.73333 square|0.8 or|0.86667 cube|0.93333 roots|1"
+		}
+	}
+}

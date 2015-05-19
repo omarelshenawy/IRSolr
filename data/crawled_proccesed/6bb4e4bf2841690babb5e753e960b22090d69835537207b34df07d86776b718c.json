@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bb4e4bf2841690babb5e753e960b22090d69835537207b34df07d86776b718c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Red_information_icon_with_gradient_background.svg/20px-Red_information_icon_with_gradient_background.svg.png",
+			"previous": " 182 66 43 127 talk 14 51 26 February 2015 UTC ",
+			"after": " Hello  In French Wikip dia there is Affinit math matiques in German Wikip dia there is Affinit t Mathematik There is no item in American british Wikip dia perhaps should you create the item ",
+			"color": "light|0.47049 coral|0.47049 salmon|0.22102 indian|0.1004 red|0.1004 light|0.068367 pink|0.068367 pink|0.053086 rosy|0.031742 brown|0.031742 misty|0.025553 rose|0.025553 lavender|0.0062508 blush|0.0062508  ",
+			"after_weights": " Hello|1 |0.97143 In|0.94286 French|0.91429 Wikip|0.88571 dia|0.85714 there|0.82857 is|0.8 Affinit|0.77143 math|0.74286 matiques|0.71429 in|0.68571 German|0.65714 Wikip|0.62857 dia|0.6 there|0.57143 is|0.54286 Affinit|0.51429 t|0.48571 Mathematik|0.45714 There|0.42857 is|0.4 no|0.37143 item|0.34286 in|0.31429 American|0.28571 british|0.25714 Wikip|0.22857 dia|0.2 perhaps|0.17143 should|0.14286 you|0.11429 create|0.085714 the|0.057143 item|0.028571 |0",
+			"previous_weights": " 182|0 66|0.090909 43|0.18182 127|0.27273 talk|0.36364 14|0.45455 51|0.54545 26|0.63636 February|0.72727 2015|0.81818 UTC|0.90909 |1"
+		}
+	}
+}

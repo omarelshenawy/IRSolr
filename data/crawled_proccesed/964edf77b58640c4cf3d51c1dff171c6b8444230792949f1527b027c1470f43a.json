@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "964edf77b58640c4cf3d51c1dff171c6b8444230792949f1527b027c1470f43a",
+			"url": "https://upload.wikimedia.org/math/c/4/0/c4020406e9b686bc27c255e14e468d77.png",
+			"previous": " since for This is a simple harmonic oscillator corresponding to oscillations of the pendulum near the bottom of its path Another linearization would be at corresponding to the pendulum being straight up ",
+			"after": " since for The solution to this problem involves hyperbolic sinusoids and note that unlike the small angle approximation this approximation is unstable meaning that will usually grow without limit though bounded solutions are possible This corresponds to the difficulty of balancing a pendulum upright it is literally an unstable state ",
+			"color": "dim|0.3756 gray|0.3756 dim|0.3756 grey|0.3756 gray|0.2753 grey|0.2753 dark|0.18547 gray|0.18547 dark|0.18547 grey|0.18547 silver|0.078915 light|0.040309 gray|0.040309 light|0.040309 grey|0.040309 gainsboro|0.02752 white|0.0040952 smoke|0.0040952  ",
+			"after_weights": " since|1 for|0.98 The|0.96 solution|0.94 to|0.92 this|0.9 problem|0.88 involves|0.86 hyperbolic|0.84 sinusoids|0.82 and|0.8 note|0.78 that|0.76 unlike|0.74 the|0.72 small|0.7 angle|0.68 approximation|0.66 this|0.64 approximation|0.62 is|0.6 unstable|0.58 meaning|0.56 that|0.54 will|0.52 usually|0.5 grow|0.48 without|0.46 limit|0.44 though|0.42 bounded|0.4 solutions|0.38 are|0.36 possible|0.34 This|0.32 corresponds|0.3 to|0.28 the|0.26 difficulty|0.24 of|0.22 balancing|0.2 a|0.18 pendulum|0.16 upright|0.14 it|0.12 is|0.1 literally|0.08 an|0.06 unstable|0.04 state|0.02 |0",
+			"previous_weights": " since|0 for|0.03125 This|0.0625 is|0.09375 a|0.125 simple|0.15625 harmonic|0.1875 oscillator|0.21875 corresponding|0.25 to|0.28125 oscillations|0.3125 of|0.34375 the|0.375 pendulum|0.40625 near|0.4375 the|0.46875 bottom|0.5 of|0.53125 its|0.5625 path|0.59375 Another|0.625 linearization|0.65625 would|0.6875 be|0.71875 at|0.75 corresponding|0.78125 to|0.8125 the|0.84375 pendulum|0.875 being|0.90625 straight|0.9375 up|0.96875 |1"
+		}
+	}
+}

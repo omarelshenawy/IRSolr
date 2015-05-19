@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fda786eec11c96ab96b34fda201c8e254c78937bfe889ffcbac208305e2c728",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Al-Shaab_Stadium3_%283%29.JPG/250px-Al-Shaab_Stadium3_%283%29.JPG",
+			"previous": " ",
+			"after": " Al Shaab Stadium Arabic also known as The People s Stadium is a multi purpose stadium in Baghdad Iraq It is used mostly for football soccer matches and is the home of the Iraq national football team The stadium has seating for 40 000 fans It was built in 1966 The opening match featured Iraq and Benfica for whom Eus bio was playing ",
+			"color": "dim|0.45375 gray|0.45375 dim|0.45375 grey|0.45375 gainsboro|0.089992 light|0.072406 gray|0.072406 light|0.072406 grey|0.072406 dark|0.072328 slate|0.072328 gray|0.072328 white|0.044138 smoke|0.044138 alice|0.043446 blue|0.043446 ghost|0.036182 white|0.036182 lavender|0.033117 azure|0.027811 silver|0.020561 snow|0.019413 gray|0.018497 grey|0.018497 white|0.017817 mint|0.017651 cream|0.017651 light|0.013835 cyan|0.013835 lavender|0.0077122 blush|0.0077122  ",
+			"after_weights": " Al|1 Shaab|0.98413 Stadium|0.96825 Arabic|0.95238 also|0.93651 known|0.92063 as|0.90476 The|0.88889 People|0.87302 s|0.85714 Stadium|0.84127 is|0.8254 a|0.80952 multi|0.79365 purpose|0.77778 stadium|0.7619 in|0.74603 Baghdad|0.73016 Iraq|0.71429 It|0.69841 is|0.68254 used|0.66667 mostly|0.65079 for|0.63492 football|0.61905 soccer|0.60317 matches|0.5873 and|0.57143 is|0.55556 the|0.53968 home|0.52381 of|0.50794 the|0.49206 Iraq|0.47619 national|0.46032 football|0.44444 team|0.42857 The|0.4127 stadium|0.39683 has|0.38095 seating|0.36508 for|0.34921 40|0.33333 000|0.31746 fans|0.30159 It|0.28571 was|0.26984 built|0.25397 in|0.2381 1966|0.22222 The|0.20635 opening|0.19048 match|0.1746 featured|0.15873 Iraq|0.14286 and|0.12698 Benfica|0.11111 for|0.095238 whom|0.079365 Eus|0.063492 bio|0.047619 was|0.031746 playing|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

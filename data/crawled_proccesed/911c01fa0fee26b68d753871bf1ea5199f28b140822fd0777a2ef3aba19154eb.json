@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "911c01fa0fee26b68d753871bf1ea5199f28b140822fd0777a2ef3aba19154eb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cedula_Identidad_Argentina.jpg/150px-Cedula_Identidad_Argentina.jpg",
+			"previous": " Between 2000 and 2010 the United Nations Interim Administration Mission in Kosovo UNMIK issued travel documents to residents of Kosovo as they were often not able to obtain a passport through other channels ",
+			"after": " ",
+			"color": "dark|0.40137 gray|0.40137 dark|0.40137 grey|0.40137 silver|0.29161 gray|0.076975 grey|0.076975 dim|0.05782 gray|0.05782 dim|0.05782 grey|0.05782 light|0.045073 gray|0.045073 light|0.045073 grey|0.045073 rosy|0.04136 brown|0.04136 black|0.02838 light|0.027491 slate|0.027491 gray|0.027491 slate|0.017796 gray|0.017796 gainsboro|0.0037837  ",
+			"after_weights": " ",
+			"previous_weights": " Between|0 2000|0.030303 and|0.060606 2010|0.090909 the|0.12121 United|0.15152 Nations|0.18182 Interim|0.21212 Administration|0.24242 Mission|0.27273 in|0.30303 Kosovo|0.33333 UNMIK|0.36364 issued|0.39394 travel|0.42424 documents|0.45455 to|0.48485 residents|0.51515 of|0.54545 Kosovo|0.57576 as|0.60606 they|0.63636 were|0.66667 often|0.69697 not|0.72727 able|0.75758 to|0.78788 obtain|0.81818 a|0.84848 passport|0.87879 through|0.90909 other|0.93939 channels|0.9697 |1"
+		}
+	}
+}

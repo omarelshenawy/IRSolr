@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48d05c20f00906bebe26e578338130e991738e018071832f4b572851a3edc623",
+			"url": "https://upload.wikimedia.org/math/e/2/1/e21bb37f90cfeb82babe43444b19d896.png",
+			"previous": " On the sphere the normal passes through the centre and the latitude is therefore equal to the angle subtended at the centre by the meridian arc from the equator to the point concerned If the meridian distance is denoted by m then",
+			"after": " where R denotes the mean radius of the Earth R is equal to 6 371 km or 3 959 miles No higher accuracy is appropriate for R since higher precision results necessitate an ellipsoid model With this value for R the meridian length of 1 degree of latitude on the sphere is 111 2 km or 69 miles The length of 1 minute of latitude is 1 853 km or 1 15 miles See nautical mile ",
+			"color": "dim|0.25373 gray|0.25373 dim|0.25373 grey|0.25373 gray|0.24465 grey|0.24465 dark|0.21449 gray|0.21449 dark|0.21449 grey|0.21449 black|0.15195 silver|0.091885 light|0.027733 gray|0.027733 light|0.027733 grey|0.027733 gainsboro|0.011961  ",
+			"after_weights": " where|1 R|0.98684 denotes|0.97368 the|0.96053 mean|0.94737 radius|0.93421 of|0.92105 the|0.90789 Earth|0.89474 R|0.88158 is|0.86842 equal|0.85526 to|0.84211 6|0.82895 371|0.81579 km|0.80263 or|0.78947 3|0.77632 959|0.76316 miles|0.75 No|0.73684 higher|0.72368 accuracy|0.71053 is|0.69737 appropriate|0.68421 for|0.67105 R|0.65789 since|0.64474 higher|0.63158 precision|0.61842 results|0.60526 necessitate|0.59211 an|0.57895 ellipsoid|0.56579 model|0.55263 With|0.53947 this|0.52632 value|0.51316 for|0.5 R|0.48684 the|0.47368 meridian|0.46053 length|0.44737 of|0.43421 1|0.42105 degree|0.40789 of|0.39474 latitude|0.38158 on|0.36842 the|0.35526 sphere|0.34211 is|0.32895 111|0.31579 2|0.30263 km|0.28947 or|0.27632 69|0.26316 miles|0.25 The|0.23684 length|0.22368 of|0.21053 1|0.19737 minute|0.18421 of|0.17105 latitude|0.15789 is|0.14474 1|0.13158 853|0.11842 km|0.10526 or|0.092105 1|0.078947 15|0.065789 miles|0.052632 See|0.039474 nautical|0.026316 mile|0.013158 |0",
+			"previous_weights": " On|0 the|0.02439 sphere|0.04878 the|0.073171 normal|0.097561 passes|0.12195 through|0.14634 the|0.17073 centre|0.19512 and|0.21951 the|0.2439 latitude|0.26829 is|0.29268 therefore|0.31707 equal|0.34146 to|0.36585 the|0.39024 angle|0.41463 subtended|0.43902 at|0.46341 the|0.4878 centre|0.5122 by|0.53659 the|0.56098 meridian|0.58537 arc|0.60976 from|0.63415 the|0.65854 equator|0.68293 to|0.70732 the|0.73171 point|0.7561 concerned|0.78049 If|0.80488 the|0.82927 meridian|0.85366 distance|0.87805 is|0.90244 denoted|0.92683 by|0.95122 m|0.97561 then|1"
+		}
+	}
+}

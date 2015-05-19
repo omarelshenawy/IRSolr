@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "76fbd044d2313f986c8b3491d5d237bd915010fcaf2205f80ac31c856ebac2e7",
+			"url": "https://upload.wikimedia.org/math/2/8/4/28421f231bad8da7c46de23e8a1c6a04.png",
+			"previous": " Get A computationally more convenient form follows by substituting into the trigonometric identity ",
+			"after": " Multiplying by 1 gives the result This is the third step in the connection between time and position in the orbit ",
+			"color": "gray|0.29945 grey|0.29945 dim|0.27292 gray|0.27292 dim|0.27292 grey|0.27292 dark|0.21283 gray|0.21283 dark|0.21283 grey|0.21283 silver|0.10053 light|0.051771 gray|0.051771 light|0.051771 grey|0.051771 gainsboro|0.03715 white|0.0063916 smoke|0.0063916 linen|0.0030659  ",
+			"after_weights": " Multiplying|1 by|0.95238 1|0.90476 gives|0.85714 the|0.80952 result|0.7619 This|0.71429 is|0.66667 the|0.61905 third|0.57143 step|0.52381 in|0.47619 the|0.42857 connection|0.38095 between|0.33333 time|0.28571 and|0.2381 position|0.19048 in|0.14286 the|0.095238 orbit|0.047619 |0",
+			"previous_weights": " Get|0 A|0.076923 computationally|0.15385 more|0.23077 convenient|0.30769 form|0.38462 follows|0.46154 by|0.53846 substituting|0.61538 into|0.69231 the|0.76923 trigonometric|0.84615 identity|0.92308 |1"
+		}
+	}
+}

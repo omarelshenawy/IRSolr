@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93c0ad1e1b8953262a1df9f3aba1ad39e49dcd189210ad77f6cfcb8bab553df3",
+			"url": "https://upload.wikimedia.org/math/5/5/1/551b06ca9a5fef2978d3fe5ed13dd01d.png",
+			"previous": " where is the imaginary unit Note that and Then",
+			"after": " Let be an eigenvalue of an matrix The algebraic multiplicity of is its multiplicity as a root of the characteristic polynomial that is the largest integer such that divides evenly that polynomial 17 18 ",
+			"color": "black|0.38449 dim|0.233 gray|0.233 dim|0.233 grey|0.233 gray|0.19176 grey|0.19176 dark|0.11053 gray|0.11053 dark|0.11053 grey|0.11053 silver|0.040151 light|0.017395 gray|0.017395 light|0.017395 grey|0.017395 gainsboro|0.012198  ",
+			"after_weights": " Let|1 be|0.97059 an|0.94118 eigenvalue|0.91176 of|0.88235 an|0.85294 matrix|0.82353 The|0.79412 algebraic|0.76471 multiplicity|0.73529 of|0.70588 is|0.67647 its|0.64706 multiplicity|0.61765 as|0.58824 a|0.55882 root|0.52941 of|0.5 the|0.47059 characteristic|0.44118 polynomial|0.41176 that|0.38235 is|0.35294 the|0.32353 largest|0.29412 integer|0.26471 such|0.23529 that|0.20588 divides|0.17647 evenly|0.14706 that|0.11765 polynomial|0.088235 17|0.058824 18|0.029412 |0",
+			"previous_weights": " where|0 is|0.125 the|0.25 imaginary|0.375 unit|0.5 Note|0.625 that|0.75 and|0.875 Then|1"
+		}
+	}
+}

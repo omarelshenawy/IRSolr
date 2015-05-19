@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "20e82006e70a64009fcd5ddd61901e545ae3be0b76cbae38c769e3449cf875b2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ConcordeBG.jpg/220px-ConcordeBG.jpg",
+			"previous": " ",
+			"after": " Concorde was normally perceived as a privilege of the rich but special circular or one way with return by other flight or ship charter flights were arranged to bring a trip within the means of moderately well off enthusiasts 245 ",
+			"color": "light|0.26575 gray|0.26575 light|0.26575 grey|0.26575 gainsboro|0.21704 silver|0.21395 dark|0.10736 gray|0.10736 dark|0.10736 grey|0.10736 white|0.038704 smoke|0.038704 black|0.024927 alice|0.022926 blue|0.022926 azure|0.018802 mint|0.01704 cream|0.01704 gray|0.016757 grey|0.016757 dim|0.013608 gray|0.013608 dim|0.013608 grey|0.013608 ghost|0.005593 white|0.005593 light|0.0044187 cyan|0.0044187 snow|0.0041259 light|0.0040742 blue|0.0040742 honeydew|0.0038703 linen|0.0036002 white|0.0032637 dark|0.0027273 slate|0.0027273 gray|0.0027273  ",
+			"after_weights": " Concorde|1 was|0.975 normally|0.95 perceived|0.925 as|0.9 a|0.875 privilege|0.85 of|0.825 the|0.8 rich|0.775 but|0.75 special|0.725 circular|0.7 or|0.675 one|0.65 way|0.625 with|0.6 return|0.575 by|0.55 other|0.525 flight|0.5 or|0.475 ship|0.45 charter|0.425 flights|0.4 were|0.375 arranged|0.35 to|0.325 bring|0.3 a|0.275 trip|0.25 within|0.225 the|0.2 means|0.175 of|0.15 moderately|0.125 well|0.1 off|0.075 enthusiasts|0.05 245|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

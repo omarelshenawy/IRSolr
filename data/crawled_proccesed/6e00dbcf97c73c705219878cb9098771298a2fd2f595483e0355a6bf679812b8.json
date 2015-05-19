@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e00dbcf97c73c705219878cb9098771298a2fd2f595483e0355a6bf679812b8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ron_Paul%2C_official_Congressional_photo_portrait%2C_2007.jpg/125px-Ron_Paul%2C_official_Congressional_photo_portrait%2C_2007.jpg",
+			"previous": " ",
+			"after": " Ronald Ernest Paul born August 20 1935 is a Republican United States Congressman from Lake Jackson Texas a physician a bestselling author and the last Republican candidate to withdraw from the 2008 U S presidential election ",
+			"color": "light|0.59428 steel|0.59428 blue|0.59428 black|0.097774 light|0.089862 blue|0.089862 rosy|0.044288 brown|0.044288 sky|0.027473 blue|0.027473 light|0.025915 slate|0.025915 gray|0.025915 dark|0.016518 gray|0.016518 dark|0.016518 grey|0.016518 gray|0.015517 grey|0.015517 steel|0.013279 blue|0.013279 silver|0.011115 slate|0.0098788 gray|0.0098788 dim|0.0094832 gray|0.0094832 dim|0.0094832 grey|0.0094832  ",
+			"after_weights": " Ronald|1 Ernest|0.97222 Paul|0.94444 born|0.91667 August|0.88889 20|0.86111 1935|0.83333 is|0.80556 a|0.77778 Republican|0.75 United|0.72222 States|0.69444 Congressman|0.66667 from|0.63889 Lake|0.61111 Jackson|0.58333 Texas|0.55556 a|0.52778 physician|0.5 a|0.47222 bestselling|0.44444 author|0.41667 and|0.38889 the|0.36111 last|0.33333 Republican|0.30556 candidate|0.27778 to|0.25 withdraw|0.22222 from|0.19444 the|0.16667 2008|0.13889 U|0.11111 S|0.083333 presidential|0.055556 election|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

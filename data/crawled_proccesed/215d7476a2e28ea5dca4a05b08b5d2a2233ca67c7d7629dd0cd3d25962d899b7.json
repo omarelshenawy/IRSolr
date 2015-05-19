@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "215d7476a2e28ea5dca4a05b08b5d2a2233ca67c7d7629dd0cd3d25962d899b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_B737-800_D-AGSA.jpg/220px-Sky_B737-800_D-AGSA.jpg",
+			"previous": "  On 4 June 2013 the airline filed for bankruptcy and ceased all flight operations with immediate effect 3  A subsidiary German Sky Airlines based in D sseldorf was launched in 2010 On 1 December 2012 it announced a suspension of services due to the economic downturn and returned two Boeing 737 800s to their lessors The airline hoped to resume services in Spring 2013 2 ",
+			"after": " The airline also operated scheduled services to the following as of December 2012 ",
+			"color": "dim|0.12328 gray|0.12328 dim|0.12328 grey|0.12328 dark|0.10431 gray|0.10431 dark|0.10431 grey|0.10431 silver|0.093066 gray|0.092951 grey|0.092951 light|0.055044 gray|0.055044 light|0.055044 grey|0.055044 gainsboro|0.045917 black|0.033292 white|0.032599 smoke|0.032599 sea|0.02815 shell|0.02815 lavender|0.027594 blush|0.027594 snow|0.027591 ghost|0.025926 white|0.025926 white|0.024422 floral|0.023789 white|0.023789 alice|0.023259 blue|0.023259 mint|0.020887 cream|0.020887 linen|0.017563 sky|0.01744 blue|0.01744 azure|0.015893 light|0.011339 sky|0.011339 blue|0.011339  ",
+			"after_weights": " The|1 airline|0.92308 also|0.84615 operated|0.76923 scheduled|0.69231 services|0.61538 to|0.53846 the|0.46154 following|0.38462 as|0.30769 of|0.23077 December|0.15385 2012|0.076923 |0",
+			"previous_weights": " |0 On|0.014925 4|0.029851 June|0.044776 2013|0.059701 the|0.074627 airline|0.089552 filed|0.10448 for|0.1194 bankruptcy|0.13433 and|0.14925 ceased|0.16418 all|0.1791 flight|0.19403 operations|0.20896 with|0.22388 immediate|0.23881 effect|0.25373 3|0.26866 |0.28358 A|0.29851 subsidiary|0.31343 German|0.32836 Sky|0.34328 Airlines|0.35821 based|0.37313 in|0.38806 D|0.40299 sseldorf|0.41791 was|0.43284 launched|0.44776 in|0.46269 2010|0.47761 On|0.49254 1|0.50746 December|0.52239 2012|0.53731 it|0.55224 announced|0.56716 a|0.58209 suspension|0.59701 of|0.61194 services|0.62687 due|0.64179 to|0.65672 the|0.67164 economic|0.68657 downturn|0.70149 and|0.71642 returned|0.73134 two|0.74627 Boeing|0.76119 737|0.77612 800s|0.79104 to|0.80597 their|0.8209 lessors|0.83582 The|0.85075 airline|0.86567 hoped|0.8806 to|0.89552 resume|0.91045 services|0.92537 in|0.9403 Spring|0.95522 2013|0.97015 2|0.98507 |1"
+		}
+	}
+}

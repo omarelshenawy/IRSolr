@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7529ae3633875eb7563f7ed586bda773ae1151a3ac7d1d56b04112352222d488",
+			"url": "https://upload.wikimedia.org/math/7/d/f/7dfd0f30500372580d9908a4576da9b6.png",
+			"previous": " We say that a polynomial vanishes at a point if evaluating it at that point gives zero Let S be a set of polynomials in k An The vanishing set of S or vanishing locus or zero set is the set V S of all points in An where every polynomial in S vanishes In other words ",
+			"after": " A subset of An which is V S for some S is called an algebraic set The V stands for variety a specific type of algebraic set to be defined below ",
+			"color": "dim|0.39727 gray|0.39727 dim|0.39727 grey|0.39727 gray|0.28006 grey|0.28006 dark|0.16642 gray|0.16642 dark|0.16642 grey|0.16642 silver|0.075861 light|0.037434 gray|0.037434 light|0.037434 grey|0.037434 gainsboro|0.025795 white|0.0038103 smoke|0.0038103  ",
+			"after_weights": " A|1 subset|0.96774 of|0.93548 An|0.90323 which|0.87097 is|0.83871 V|0.80645 S|0.77419 for|0.74194 some|0.70968 S|0.67742 is|0.64516 called|0.6129 an|0.58065 algebraic|0.54839 set|0.51613 The|0.48387 V|0.45161 stands|0.41935 for|0.3871 variety|0.35484 a|0.32258 specific|0.29032 type|0.25806 of|0.22581 algebraic|0.19355 set|0.16129 to|0.12903 be|0.096774 defined|0.064516 below|0.032258 |0",
+			"previous_weights": " We|0 say|0.017544 that|0.035088 a|0.052632 polynomial|0.070175 vanishes|0.087719 at|0.10526 a|0.12281 point|0.14035 if|0.15789 evaluating|0.17544 it|0.19298 at|0.21053 that|0.22807 point|0.24561 gives|0.26316 zero|0.2807 Let|0.29825 S|0.31579 be|0.33333 a|0.35088 set|0.36842 of|0.38596 polynomials|0.40351 in|0.42105 k|0.4386 An|0.45614 The|0.47368 vanishing|0.49123 set|0.50877 of|0.52632 S|0.54386 or|0.5614 vanishing|0.57895 locus|0.59649 or|0.61404 zero|0.63158 set|0.64912 is|0.66667 the|0.68421 set|0.70175 V|0.7193 S|0.73684 of|0.75439 all|0.77193 points|0.78947 in|0.80702 An|0.82456 where|0.84211 every|0.85965 polynomial|0.87719 in|0.89474 S|0.91228 vanishes|0.92982 In|0.94737 other|0.96491 words|0.98246 |1"
+		}
+	}
+}

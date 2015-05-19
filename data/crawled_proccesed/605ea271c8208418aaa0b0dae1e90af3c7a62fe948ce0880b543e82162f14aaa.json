@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "605ea271c8208418aaa0b0dae1e90af3c7a62fe948ce0880b543e82162f14aaa",
+			"url": "https://upload.wikimedia.org/math/1/f/e/1fee790ee7a07f88a576c516ce9e56ac.png",
+			"previous": " In order to determine the power signal of the delay doppler radar as a function of time we ll need to assume that the footprint of the pulsed radar is small enough to be considered two rectangles of width W 6 This allows the power function to be similarly see Pulse limited section above written as ",
+			"after": " Using the equation for the radius derived in the previous section see Pulse limited section above the power vs time function normalized by the time relative to the arrival time at the leading edge becomes ",
+			"color": "dim|0.36311 gray|0.36311 dim|0.36311 grey|0.36311 gray|0.31985 grey|0.31985 dark|0.17499 gray|0.17499 dark|0.17499 grey|0.17499 silver|0.068988 light|0.032292 gray|0.032292 light|0.032292 grey|0.032292 gainsboro|0.021949 white|0.0040778 smoke|0.0040778  ",
+			"after_weights": " Using|1 the|0.97143 equation|0.94286 for|0.91429 the|0.88571 radius|0.85714 derived|0.82857 in|0.8 the|0.77143 previous|0.74286 section|0.71429 see|0.68571 Pulse|0.65714 limited|0.62857 section|0.6 above|0.57143 the|0.54286 power|0.51429 vs|0.48571 time|0.45714 function|0.42857 normalized|0.4 by|0.37143 the|0.34286 time|0.31429 relative|0.28571 to|0.25714 the|0.22857 arrival|0.2 time|0.17143 at|0.14286 the|0.11429 leading|0.085714 edge|0.057143 becomes|0.028571 |0",
+			"previous_weights": " In|0 order|0.017857 to|0.035714 determine|0.053571 the|0.071429 power|0.089286 signal|0.10714 of|0.125 the|0.14286 delay|0.16071 doppler|0.17857 radar|0.19643 as|0.21429 a|0.23214 function|0.25 of|0.26786 time|0.28571 we|0.30357 ll|0.32143 need|0.33929 to|0.35714 assume|0.375 that|0.39286 the|0.41071 footprint|0.42857 of|0.44643 the|0.46429 pulsed|0.48214 radar|0.5 is|0.51786 small|0.53571 enough|0.55357 to|0.57143 be|0.58929 considered|0.60714 two|0.625 rectangles|0.64286 of|0.66071 width|0.67857 W|0.69643 6|0.71429 This|0.73214 allows|0.75 the|0.76786 power|0.78571 function|0.80357 to|0.82143 be|0.83929 similarly|0.85714 see|0.875 Pulse|0.89286 limited|0.91071 section|0.92857 above|0.94643 written|0.96429 as|0.98214 |1"
+		}
+	}
+}

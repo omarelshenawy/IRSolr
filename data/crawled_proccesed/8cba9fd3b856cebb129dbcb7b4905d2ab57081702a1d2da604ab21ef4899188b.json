@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cba9fd3b856cebb129dbcb7b4905d2ab57081702a1d2da604ab21ef4899188b",
+			"url": "https://upload.wikimedia.org/math/f/6/b/f6b2b1d65347613698570a86cdb55beb.png",
+			"previous": " ",
+			"after": " The second step of Remez algorithm consists of moving the test points to the approximate locations where the error function had its actual local maxima or minima For example one can tell from looking at the graph that the point at 0 1 should have been at about 0 28 The way to do this in the algorithm is to use a single round of Newton s method Since one knows the first and second derivatives of P x f x one can calculate approximately how far a test point has to be moved so that the derivative will be zero ",
+			"color": "dim|0.27769 gray|0.27769 dim|0.27769 grey|0.27769 gray|0.24901 grey|0.24901 dark|0.2079 gray|0.2079 dark|0.2079 grey|0.2079 silver|0.12307 light|0.070851 gray|0.070851 light|0.070851 grey|0.070851 gainsboro|0.050739 white|0.0052481 smoke|0.0052481 linen|0.0028672  ",
+			"after_weights": " The|1 second|0.9901 step|0.9802 of|0.9703 Remez|0.9604 algorithm|0.9505 consists|0.94059 of|0.93069 moving|0.92079 the|0.91089 test|0.90099 points|0.89109 to|0.88119 the|0.87129 approximate|0.86139 locations|0.85149 where|0.84158 the|0.83168 error|0.82178 function|0.81188 had|0.80198 its|0.79208 actual|0.78218 local|0.77228 maxima|0.76238 or|0.75248 minima|0.74257 For|0.73267 example|0.72277 one|0.71287 can|0.70297 tell|0.69307 from|0.68317 looking|0.67327 at|0.66337 the|0.65347 graph|0.64356 that|0.63366 the|0.62376 point|0.61386 at|0.60396 0|0.59406 1|0.58416 should|0.57426 have|0.56436 been|0.55446 at|0.54455 about|0.53465 0|0.52475 28|0.51485 The|0.50495 way|0.49505 to|0.48515 do|0.47525 this|0.46535 in|0.45545 the|0.44554 algorithm|0.43564 is|0.42574 to|0.41584 use|0.40594 a|0.39604 single|0.38614 round|0.37624 of|0.36634 Newton|0.35644 s|0.34653 method|0.33663 Since|0.32673 one|0.31683 knows|0.30693 the|0.29703 first|0.28713 and|0.27723 second|0.26733 derivatives|0.25743 of|0.24752 P|0.23762 x|0.22772 f|0.21782 x|0.20792 one|0.19802 can|0.18812 calculate|0.17822 approximately|0.16832 how|0.15842 far|0.14851 a|0.13861 test|0.12871 point|0.11881 has|0.10891 to|0.09901 be|0.089109 moved|0.079208 so|0.069307 that|0.059406 the|0.049505 derivative|0.039604 will|0.029703 be|0.019802 zero|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

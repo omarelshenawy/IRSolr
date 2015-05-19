@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "70c4f139138df9757b1f326c4eb6f4ffd344fc3cfd14de3a305fa55503342773",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CTA_O%27Hare_Blue_Line_Station.jpg/220px-CTA_O%27Hare_Blue_Line_Station.jpg",
+			"previous": " ",
+			"after": " Trains from the Blue Line of the Chicago Transit Authority s L terminate at the airport from an underground station accessible by pedestrian tunnels from Terminals 1 2 and 3 The station opened on September 3 1984 Trains run 24 hours a day 7 days a week providing connection via downtown Chicago to Forest Park 104 ",
+			"color": "dark|0.19728 gray|0.19728 dark|0.19728 grey|0.19728 gray|0.14333 grey|0.14333 dim|0.1339 gray|0.1339 dim|0.1339 grey|0.1339 silver|0.08693 black|0.053176 light|0.052672 slate|0.052672 gray|0.052672 light|0.048846 gray|0.048846 light|0.048846 grey|0.048846 slate|0.037852 gray|0.037852 gainsboro|0.0346 light|0.027028 steel|0.027028 blue|0.027028 lavender|0.01538 white|0.015115 smoke|0.015115 alice|0.014953 blue|0.014953 ghost|0.012576 white|0.012576 rosy|0.012007 brown|0.012007 azure|0.011756 mint|0.010912 cream|0.010912 snow|0.010343 white|0.010172 lavender|0.0076091 blush|0.0076091 sea|0.0061878 shell|0.0061878 floral|0.0056356 white|0.0056356 dark|0.0056328 slate|0.0056328 gray|0.0056328 light|0.0047624 cyan|0.0047624 dark|0.0044506 sea|0.0044506 green|0.0044506 thistle|0.0040411  ",
+			"after_weights": " Trains|1 from|0.98214 the|0.96429 Blue|0.94643 Line|0.92857 of|0.91071 the|0.89286 Chicago|0.875 Transit|0.85714 Authority|0.83929 s|0.82143 L|0.80357 terminate|0.78571 at|0.76786 the|0.75 airport|0.73214 from|0.71429 an|0.69643 underground|0.67857 station|0.66071 accessible|0.64286 by|0.625 pedestrian|0.60714 tunnels|0.58929 from|0.57143 Terminals|0.55357 1|0.53571 2|0.51786 and|0.5 3|0.48214 The|0.46429 station|0.44643 opened|0.42857 on|0.41071 September|0.39286 3|0.375 1984|0.35714 Trains|0.33929 run|0.32143 24|0.30357 hours|0.28571 a|0.26786 day|0.25 7|0.23214 days|0.21429 a|0.19643 week|0.17857 providing|0.16071 connection|0.14286 via|0.125 downtown|0.10714 Chicago|0.089286 to|0.071429 Forest|0.053571 Park|0.035714 104|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

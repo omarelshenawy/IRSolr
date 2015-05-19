@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "88e14ccc1f256951cab8700ab2088acf11ea794e0e7a1830e9a0b779da9976f0",
+			"url": "https://upload.wikimedia.org/math/9/6/5/9654d376704b1548e9ee1e7adb640345.png",
+			"previous": " Solving for Y s in terms of R s gives ",
+			"after": " The PID controller is probably the most used feedback control design PID is an initialism for Proportional Integral Derivative referring to the three terms operating on the error signal to produce a control signal If u t is the control signal sent to the system y t is the measured output and r t is the desired output and tracking error a PID controller has the general form",
+			"color": "gray|0.27984 grey|0.27984 dim|0.25807 gray|0.25807 dim|0.25807 grey|0.25807 dark|0.21541 gray|0.21541 dark|0.21541 grey|0.21541 silver|0.12481 light|0.062626 gray|0.062626 light|0.062626 grey|0.062626 gainsboro|0.042537 white|0.0041739 smoke|0.0041739  ",
+			"after_weights": " The|1 PID|0.98507 controller|0.97015 is|0.95522 probably|0.9403 the|0.92537 most|0.91045 used|0.89552 feedback|0.8806 control|0.86567 design|0.85075 PID|0.83582 is|0.8209 an|0.80597 initialism|0.79104 for|0.77612 Proportional|0.76119 Integral|0.74627 Derivative|0.73134 referring|0.71642 to|0.70149 the|0.68657 three|0.67164 terms|0.65672 operating|0.64179 on|0.62687 the|0.61194 error|0.59701 signal|0.58209 to|0.56716 produce|0.55224 a|0.53731 control|0.52239 signal|0.50746 If|0.49254 u|0.47761 t|0.46269 is|0.44776 the|0.43284 control|0.41791 signal|0.40299 sent|0.38806 to|0.37313 the|0.35821 system|0.34328 y|0.32836 t|0.31343 is|0.29851 the|0.28358 measured|0.26866 output|0.25373 and|0.23881 r|0.22388 t|0.20896 is|0.19403 the|0.1791 desired|0.16418 output|0.14925 and|0.13433 tracking|0.1194 error|0.10448 a|0.089552 PID|0.074627 controller|0.059701 has|0.044776 the|0.029851 general|0.014925 form|0",
+			"previous_weights": " Solving|0 for|0.1 Y|0.2 s|0.3 in|0.4 terms|0.5 of|0.6 R|0.7 s|0.8 gives|0.9 |1"
+		}
+	}
+}

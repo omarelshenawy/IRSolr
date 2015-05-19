@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b7a58b19d829afe4f5770d9fb8e5eae6f77b1746974c8944d1690db4f0ab253",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ancient_Regions_Mainland_Greece.png/280px-Ancient_Regions_Mainland_Greece.png",
+			"previous": " ",
+			"after": " The territory of Greece is mountainous and as a result ancient Greece consisted of many smaller regions each with its own dialect cultural peculiarities and identity Regionalism and regional conflicts were a prominent feature of ancient Greece Cities tended to be located in valleys between mountains or on coastal plains and dominated a certain area around them ",
+			"color": "dim|0.56 gray|0.56 dim|0.56 grey|0.56 gray|0.14667 grey|0.14667 tan|0.096667 dark|0.06 slate|0.06 gray|0.06 blanched|0.021675 almond|0.021675  ",
+			"after_weights": " The|1 territory|0.98246 of|0.96491 Greece|0.94737 is|0.92982 mountainous|0.91228 and|0.89474 as|0.87719 a|0.85965 result|0.84211 ancient|0.82456 Greece|0.80702 consisted|0.78947 of|0.77193 many|0.75439 smaller|0.73684 regions|0.7193 each|0.70175 with|0.68421 its|0.66667 own|0.64912 dialect|0.63158 cultural|0.61404 peculiarities|0.59649 and|0.57895 identity|0.5614 Regionalism|0.54386 and|0.52632 regional|0.50877 conflicts|0.49123 were|0.47368 a|0.45614 prominent|0.4386 feature|0.42105 of|0.40351 ancient|0.38596 Greece|0.36842 Cities|0.35088 tended|0.33333 to|0.31579 be|0.29825 located|0.2807 in|0.26316 valleys|0.24561 between|0.22807 mountains|0.21053 or|0.19298 on|0.17544 coastal|0.15789 plains|0.14035 and|0.12281 dominated|0.10526 a|0.087719 certain|0.070175 area|0.052632 around|0.035088 them|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "978fbd079ce9445c64bbcdc1b390e54d26d9e800560ef1d982922578378d739a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eurocopter_EC155_orthographical_image.svg/300px-Eurocopter_EC155_orthographical_image.svg.png",
+			"previous": "  United States The aircraft is operated by private individuals companies and charter operators It is also operated by government organisations and as an offshore transport for the gas and oil industry ",
+			"after": " Data from Eurocopter com 15 16  General characteristics Performance",
+			"color": "black|0.75724 dim|0.13709 gray|0.13709 dim|0.13709 grey|0.13709 gray|0.077942 grey|0.077942 dark|0.019511 gray|0.019511 dark|0.019511 grey|0.019511 silver|0.0066749  ",
+			"after_weights": " Data|1 from|0.88889 Eurocopter|0.77778 com|0.66667 15|0.55556 16|0.44444 |0.33333 General|0.22222 characteristics|0.11111 Performance|0",
+			"previous_weights": " |0 United|0.03125 States|0.0625 The|0.09375 aircraft|0.125 is|0.15625 operated|0.1875 by|0.21875 private|0.25 individuals|0.28125 companies|0.3125 and|0.34375 charter|0.375 operators|0.40625 It|0.4375 is|0.46875 also|0.5 operated|0.53125 by|0.5625 government|0.59375 organisations|0.625 and|0.65625 as|0.6875 an|0.71875 offshore|0.75 transport|0.78125 for|0.8125 the|0.84375 gas|0.875 and|0.90625 oil|0.9375 industry|0.96875 |1"
+		}
+	}
+}

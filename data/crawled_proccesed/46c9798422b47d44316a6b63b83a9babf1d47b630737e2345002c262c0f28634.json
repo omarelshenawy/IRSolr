@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "46c9798422b47d44316a6b63b83a9babf1d47b630737e2345002c262c0f28634",
+			"url": "https://upload.wikimedia.org/math/9/2/7/927c47aff713403165861566a393ec0e.png",
+			"previous": " As a simple example if f converts a temperature in degrees Celsius C to degrees Fahrenheit F the function converting degrees Fahrenheit to degrees Celsius would be a suitable f 1 ",
+			"after": " Such an inverse function exists if and only if f is bijective In this case f is called invertible The notation or in some texts just and f 1 are akin to multiplication and reciprocal notation With this analogy identity functions are like the multiplicative identity 1 and inverse functions are like reciprocals hence the notation ",
+			"color": "dim|0.30811 gray|0.30811 dim|0.30811 grey|0.30811 gray|0.30736 grey|0.30736 dark|0.21266 gray|0.21266 dark|0.21266 grey|0.21266 silver|0.089647 light|0.038907 gray|0.038907 light|0.038907 grey|0.038907 gainsboro|0.027801 white|0.0042319 smoke|0.0042319  ",
+			"after_weights": " Such|1 an|0.98214 inverse|0.96429 function|0.94643 exists|0.92857 if|0.91071 and|0.89286 only|0.875 if|0.85714 f|0.83929 is|0.82143 bijective|0.80357 In|0.78571 this|0.76786 case|0.75 f|0.73214 is|0.71429 called|0.69643 invertible|0.67857 The|0.66071 notation|0.64286 or|0.625 in|0.60714 some|0.58929 texts|0.57143 just|0.55357 and|0.53571 f|0.51786 1|0.5 are|0.48214 akin|0.46429 to|0.44643 multiplication|0.42857 and|0.41071 reciprocal|0.39286 notation|0.375 With|0.35714 this|0.33929 analogy|0.32143 identity|0.30357 functions|0.28571 are|0.26786 like|0.25 the|0.23214 multiplicative|0.21429 identity|0.19643 1|0.17857 and|0.16071 inverse|0.14286 functions|0.125 are|0.10714 like|0.089286 reciprocals|0.071429 hence|0.053571 the|0.035714 notation|0.017857 |0",
+			"previous_weights": " As|0 a|0.032258 simple|0.064516 example|0.096774 if|0.12903 f|0.16129 converts|0.19355 a|0.22581 temperature|0.25806 in|0.29032 degrees|0.32258 Celsius|0.35484 C|0.3871 to|0.41935 degrees|0.45161 Fahrenheit|0.48387 F|0.51613 the|0.54839 function|0.58065 converting|0.6129 degrees|0.64516 Fahrenheit|0.67742 to|0.70968 degrees|0.74194 Celsius|0.77419 would|0.80645 be|0.83871 a|0.87097 suitable|0.90323 f|0.93548 1|0.96774 |1"
+		}
+	}
+}

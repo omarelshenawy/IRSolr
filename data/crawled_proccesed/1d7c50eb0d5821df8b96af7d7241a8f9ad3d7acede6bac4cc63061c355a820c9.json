@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d7c50eb0d5821df8b96af7d7241a8f9ad3d7acede6bac4cc63061c355a820c9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/170px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+			"previous": " ",
+			"after": " Leonardo da Vinci began painting the Mona Lisa in 1503 or 1504 in Florence Italy 20 Although the Louvre states that it was doubtless painted between 1503 and 1506 4 the art historian Martin Kemp says there is some difficulty in confirming the actual dates with certainty 10 According to Leonardo s contemporary Giorgio Vasari after he had lingered over it four years he left it unfinished 6 Leonardo later in his life is said to have regretted never having completed a single work 21 ",
+			"color": "tan|0.31024 burly|0.22383 wood|0.22383 peach|0.19703 puff|0.19703 bisque|0.071621 wheat|0.069901 navajo|0.043087 white|0.043087 moccasin|0.029172 blanched|0.027319 almond|0.027319 papaya|0.011519 whip|0.011519 antique|0.0088894 white|0.0088894  ",
+			"after_weights": " Leonardo|1 da|0.98824 Vinci|0.97647 began|0.96471 painting|0.95294 the|0.94118 Mona|0.92941 Lisa|0.91765 in|0.90588 1503|0.89412 or|0.88235 1504|0.87059 in|0.85882 Florence|0.84706 Italy|0.83529 20|0.82353 Although|0.81176 the|0.8 Louvre|0.78824 states|0.77647 that|0.76471 it|0.75294 was|0.74118 doubtless|0.72941 painted|0.71765 between|0.70588 1503|0.69412 and|0.68235 1506|0.67059 4|0.65882 the|0.64706 art|0.63529 historian|0.62353 Martin|0.61176 Kemp|0.6 says|0.58824 there|0.57647 is|0.56471 some|0.55294 difficulty|0.54118 in|0.52941 confirming|0.51765 the|0.50588 actual|0.49412 dates|0.48235 with|0.47059 certainty|0.45882 10|0.44706 According|0.43529 to|0.42353 Leonardo|0.41176 s|0.4 contemporary|0.38824 Giorgio|0.37647 Vasari|0.36471 after|0.35294 he|0.34118 had|0.32941 lingered|0.31765 over|0.30588 it|0.29412 four|0.28235 years|0.27059 he|0.25882 left|0.24706 it|0.23529 unfinished|0.22353 6|0.21176 Leonardo|0.2 later|0.18824 in|0.17647 his|0.16471 life|0.15294 is|0.14118 said|0.12941 to|0.11765 have|0.10588 regretted|0.094118 never|0.082353 having|0.070588 completed|0.058824 a|0.047059 single|0.035294 work|0.023529 21|0.011765 |0",
+			"previous_weights": " "
+		}
+	}
+}

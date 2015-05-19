@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e33a7270c5cabd12db89255cc419ea1dcd7c6cf3196b46a58e25221d511cba9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HZ-AKE_in_Zurich.jpg/220px-HZ-AKE_in_Zurich.jpg",
+			"previous": " Saudia joined SkyTeam on 29 May 2012 but has not yet announced any new codeshare agreements with any of the members other than those stated above 3 10 ",
+			"after": " Saudia formerly operated the following aircraft 12 ",
+			"color": "silver|0.26602 light|0.25849 gray|0.25849 light|0.25849 grey|0.25849 gainsboro|0.23522 dim|0.065666 gray|0.065666 dim|0.065666 grey|0.065666 dark|0.050715 gray|0.050715 dark|0.050715 grey|0.050715 gray|0.03088 grey|0.03088 slate|0.023213 gray|0.023213 light|0.017761 slate|0.017761 gray|0.017761 black|0.0080062 antique|0.0039807 white|0.0039807 lavender|0.0038836  ",
+			"after_weights": " Saudia|1 formerly|0.85714 operated|0.71429 the|0.57143 following|0.42857 aircraft|0.28571 12|0.14286 |0",
+			"previous_weights": " Saudia|0 joined|0.035714 SkyTeam|0.071429 on|0.10714 29|0.14286 May|0.17857 2012|0.21429 but|0.25 has|0.28571 not|0.32143 yet|0.35714 announced|0.39286 any|0.42857 new|0.46429 codeshare|0.5 agreements|0.53571 with|0.57143 any|0.60714 of|0.64286 the|0.67857 members|0.71429 other|0.75 than|0.78571 those|0.82143 stated|0.85714 above|0.89286 3|0.92857 10|0.96429 |1"
+		}
+	}
+}

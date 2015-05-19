@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7af5118795774d55d87085a74936585001344d37eb72b0468e9b93f27cf58a8a",
+			"url": "https://upload.wikimedia.org/math/6/e/4/6e4eaac8b3371ca3e35a1846d9980945.png",
+			"previous": " As the first parenthesis vanishes in 3 we get and Thus and are the two roots of the equation",
+			"after": " At this point Cardano who did not know complex numbers supposed that the roots of this equation were real that is that",
+			"color": "dim|0.43449 gray|0.43449 dim|0.43449 grey|0.43449 gray|0.28228 grey|0.28228 dark|0.14859 gray|0.14859 dark|0.14859 grey|0.14859 silver|0.063194 light|0.033325 gray|0.033325 light|0.033325 grey|0.033325 gainsboro|0.023465 white|0.0038228 smoke|0.0038228  ",
+			"after_weights": " At|1 this|0.95238 point|0.90476 Cardano|0.85714 who|0.80952 did|0.7619 not|0.71429 know|0.66667 complex|0.61905 numbers|0.57143 supposed|0.52381 that|0.47619 the|0.42857 roots|0.38095 of|0.33333 this|0.28571 equation|0.2381 were|0.19048 real|0.14286 that|0.095238 is|0.047619 that|0",
+			"previous_weights": " As|0 the|0.055556 first|0.11111 parenthesis|0.16667 vanishes|0.22222 in|0.27778 3|0.33333 we|0.38889 get|0.44444 and|0.5 Thus|0.55556 and|0.61111 are|0.66667 the|0.72222 two|0.77778 roots|0.83333 of|0.88889 the|0.94444 equation|1"
+		}
+	}
+}

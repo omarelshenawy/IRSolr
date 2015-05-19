@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grondplan_citadel_Lille.JPG/220px-Grondplan_citadel_Lille.JPG",
 			"previous": " ",
 			"after": " Engineering has existed since ancient times as humans devised fundamental inventions such as the wedge lever wheel and pulley Each of these inventions is essentially consistent with the modern definition of engineering ",
+			"color": "gray|0.45827 grey|0.45827 dark|0.2452 gray|0.2452 dark|0.2452 grey|0.2452 dim|0.18069 gray|0.18069 dim|0.18069 grey|0.18069 silver|0.074791 light|0.022646 gray|0.022646 light|0.022646 grey|0.022646 gainsboro|0.011209  ",
 			"after_weights": " Engineering|1 has|0.96875 existed|0.9375 since|0.90625 ancient|0.875 times|0.84375 as|0.8125 humans|0.78125 devised|0.75 fundamental|0.71875 inventions|0.6875 such|0.65625 as|0.625 the|0.59375 wedge|0.5625 lever|0.53125 wheel|0.5 and|0.46875 pulley|0.4375 Each|0.40625 of|0.375 these|0.34375 inventions|0.3125 is|0.28125 essentially|0.25 consistent|0.21875 with|0.1875 the|0.15625 modern|0.125 definition|0.09375 of|0.0625 engineering|0.03125 |0",
 			"previous_weights": " "
 		}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fa2b93ba647fcee395dde8e491037fd67f5a0b3bb407072074d2ebcf0a4215f",
+			"url": "https://upload.wikimedia.org/math/e/b/d/ebd9deb2ab91a6adfc4e35e787ce651f.png",
+			"previous": " A simple example is Newton s second law of motion the relationship between the displacement x and the time t of the object under the force F which leads to the differential equation",
+			"after": " for the motion of a particle of constant mass m In general F depends on the position x t of the particle at time t and so the unknown function x t appears on both sides of the differential equation as is indicated in the notation F x t 2 3 4 5 ",
+			"color": "gray|0.32011 grey|0.32011 dim|0.27057 gray|0.27057 dim|0.27057 grey|0.27057 dark|0.22088 gray|0.22088 dark|0.22088 grey|0.22088 silver|0.091509 light|0.04417 gray|0.04417 light|0.04417 grey|0.04417 gainsboro|0.030913 white|0.0057921 smoke|0.0057921 linen|0.002929  ",
+			"after_weights": " for|1 the|0.98113 motion|0.96226 of|0.9434 a|0.92453 particle|0.90566 of|0.88679 constant|0.86792 mass|0.84906 m|0.83019 In|0.81132 general|0.79245 F|0.77358 depends|0.75472 on|0.73585 the|0.71698 position|0.69811 x|0.67925 t|0.66038 of|0.64151 the|0.62264 particle|0.60377 at|0.58491 time|0.56604 t|0.54717 and|0.5283 so|0.50943 the|0.49057 unknown|0.4717 function|0.45283 x|0.43396 t|0.41509 appears|0.39623 on|0.37736 both|0.35849 sides|0.33962 of|0.32075 the|0.30189 differential|0.28302 equation|0.26415 as|0.24528 is|0.22642 indicated|0.20755 in|0.18868 the|0.16981 notation|0.15094 F|0.13208 x|0.11321 t|0.09434 2|0.075472 3|0.056604 4|0.037736 5|0.018868 |0",
+			"previous_weights": " A|0 simple|0.03125 example|0.0625 is|0.09375 Newton|0.125 s|0.15625 second|0.1875 law|0.21875 of|0.25 motion|0.28125 the|0.3125 relationship|0.34375 between|0.375 the|0.40625 displacement|0.4375 x|0.46875 and|0.5 the|0.53125 time|0.5625 t|0.59375 of|0.625 the|0.65625 object|0.6875 under|0.71875 the|0.75 force|0.78125 F|0.8125 which|0.84375 leads|0.875 to|0.90625 the|0.9375 differential|0.96875 equation|1"
+		}
+	}
+}

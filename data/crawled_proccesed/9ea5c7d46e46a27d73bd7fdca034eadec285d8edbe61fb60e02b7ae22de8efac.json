@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ea5c7d46e46a27d73bd7fdca034eadec285d8edbe61fb60e02b7ae22de8efac",
+			"url": "https://upload.wikimedia.org/math/8/0/a/80ac78630bb4e8d2dd46182c168c7cd4.png",
+			"previous": " The standard symbol for the arcsecond is the double prime U 2033 though a double quote U 0022 is commonly used where only ASCII characters are permitted One arcsecond is thus written 1 It is also abbreviated as arcsec or asec ",
+			"after": " In celestial navigation seconds of arc are rarely used in calculations the preference usually being for degrees minutes and decimals of a minute written for example as 42 25 32 or 42 25 322 2 3 This notation has been carried over into marine GPS receivers which normally display latitude and longitude in the latter format by default 4 ",
+			"color": " ",
+			"after_weights": " In|1 celestial|0.98305 navigation|0.9661 seconds|0.94915 of|0.9322 arc|0.91525 are|0.89831 rarely|0.88136 used|0.86441 in|0.84746 calculations|0.83051 the|0.81356 preference|0.79661 usually|0.77966 being|0.76271 for|0.74576 degrees|0.72881 minutes|0.71186 and|0.69492 decimals|0.67797 of|0.66102 a|0.64407 minute|0.62712 written|0.61017 for|0.59322 example|0.57627 as|0.55932 42|0.54237 25|0.52542 32|0.50847 or|0.49153 42|0.47458 25|0.45763 322|0.44068 2|0.42373 3|0.40678 This|0.38983 notation|0.37288 has|0.35593 been|0.33898 carried|0.32203 over|0.30508 into|0.28814 marine|0.27119 GPS|0.25424 receivers|0.23729 which|0.22034 normally|0.20339 display|0.18644 latitude|0.16949 and|0.15254 longitude|0.13559 in|0.11864 the|0.10169 latter|0.084746 format|0.067797 by|0.050847 default|0.033898 4|0.016949 |0",
+			"previous_weights": " The|0 standard|0.02439 symbol|0.04878 for|0.073171 the|0.097561 arcsecond|0.12195 is|0.14634 the|0.17073 double|0.19512 prime|0.21951 U|0.2439 2033|0.26829 though|0.29268 a|0.31707 double|0.34146 quote|0.36585 U|0.39024 0022|0.41463 is|0.43902 commonly|0.46341 used|0.4878 where|0.5122 only|0.53659 ASCII|0.56098 characters|0.58537 are|0.60976 permitted|0.63415 One|0.65854 arcsecond|0.68293 is|0.70732 thus|0.73171 written|0.7561 1|0.78049 It|0.80488 is|0.82927 also|0.85366 abbreviated|0.87805 as|0.90244 arcsec|0.92683 or|0.95122 asec|0.97561 |1"
+		}
+	}
+}

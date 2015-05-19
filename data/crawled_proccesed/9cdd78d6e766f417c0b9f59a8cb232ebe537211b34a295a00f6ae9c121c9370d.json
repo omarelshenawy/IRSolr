@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cdd78d6e766f417c0b9f59a8cb232ebe537211b34a295a00f6ae9c121c9370d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Columbus_landing_on_Hispaniola_adj.jpg/220px-Columbus_landing_on_Hispaniola_adj.jpg",
+			"previous": " ",
+			"after": " Christopher Columbus inadvertently found the island during his first voyage across the Atlantic in 1492 where his flagship the Santa Maria sank after running aground on December 25 A contingent of men were left at an outpost christened La Navidad on the north coast of present day Haiti On his return the subsequent year following the destruction of La Navidad by the local population Columbus quickly established a second compound farther east in present day Dominican Republic La Isabela ",
+			"color": " ",
+			"after_weights": " Christopher|1 Columbus|0.98734 inadvertently|0.97468 found|0.96203 the|0.94937 island|0.93671 during|0.92405 his|0.91139 first|0.89873 voyage|0.88608 across|0.87342 the|0.86076 Atlantic|0.8481 in|0.83544 1492|0.82278 where|0.81013 his|0.79747 flagship|0.78481 the|0.77215 Santa|0.75949 Maria|0.74684 sank|0.73418 after|0.72152 running|0.70886 aground|0.6962 on|0.68354 December|0.67089 25|0.65823 A|0.64557 contingent|0.63291 of|0.62025 men|0.60759 were|0.59494 left|0.58228 at|0.56962 an|0.55696 outpost|0.5443 christened|0.53165 La|0.51899 Navidad|0.50633 on|0.49367 the|0.48101 north|0.46835 coast|0.4557 of|0.44304 present|0.43038 day|0.41772 Haiti|0.40506 On|0.39241 his|0.37975 return|0.36709 the|0.35443 subsequent|0.34177 year|0.32911 following|0.31646 the|0.3038 destruction|0.29114 of|0.27848 La|0.26582 Navidad|0.25316 by|0.24051 the|0.22785 local|0.21519 population|0.20253 Columbus|0.18987 quickly|0.17722 established|0.16456 a|0.1519 second|0.13924 compound|0.12658 farther|0.11392 east|0.10127 in|0.088608 present|0.075949 day|0.063291 Dominican|0.050633 Republic|0.037975 La|0.025316 Isabela|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2932d40561c8e34cf6586adabf55b04b82984acf051c39cc4fd87f9fb1a10f3e",
+			"url": "https://upload.wikimedia.org/math/6/c/1/6c15da432e828ca08a739f9e33938583.png",
+			"previous": " In particular the quantity",
+			"after": " and so we can call this quantity the cosine of the angle between the two vectors  Two vectors are orthogonal if An orthonormal basis is a basis where all basis vectors have length 1 and are orthogonal to each other Given any finite dimensional vector space an orthonormal basis could be found by the Gram Schmidt procedure Orthonormal bases are particularly nice to deal with since if v a1 v1 an vn then ",
+			"color": "dark|0.31005 gray|0.31005 dark|0.31005 grey|0.31005 gray|0.26758 grey|0.26758 dim|0.19722 gray|0.19722 dim|0.19722 grey|0.19722 silver|0.1557 light|0.036451 gray|0.036451 light|0.036451 grey|0.036451 gainsboro|0.025234  ",
+			"after_weights": " and|1 so|0.98649 we|0.97297 can|0.95946 call|0.94595 this|0.93243 quantity|0.91892 the|0.90541 cosine|0.89189 of|0.87838 the|0.86486 angle|0.85135 between|0.83784 the|0.82432 two|0.81081 vectors|0.7973 |0.78378 Two|0.77027 vectors|0.75676 are|0.74324 orthogonal|0.72973 if|0.71622 An|0.7027 orthonormal|0.68919 basis|0.67568 is|0.66216 a|0.64865 basis|0.63514 where|0.62162 all|0.60811 basis|0.59459 vectors|0.58108 have|0.56757 length|0.55405 1|0.54054 and|0.52703 are|0.51351 orthogonal|0.5 to|0.48649 each|0.47297 other|0.45946 Given|0.44595 any|0.43243 finite|0.41892 dimensional|0.40541 vector|0.39189 space|0.37838 an|0.36486 orthonormal|0.35135 basis|0.33784 could|0.32432 be|0.31081 found|0.2973 by|0.28378 the|0.27027 Gram|0.25676 Schmidt|0.24324 procedure|0.22973 Orthonormal|0.21622 bases|0.2027 are|0.18919 particularly|0.17568 nice|0.16216 to|0.14865 deal|0.13514 with|0.12162 since|0.10811 if|0.094595 v|0.081081 a1|0.067568 v1|0.054054 an|0.040541 vn|0.027027 then|0.013514 |0",
+			"previous_weights": " In|0 particular|0.33333 the|0.66667 quantity|1"
+		}
+	}
+}

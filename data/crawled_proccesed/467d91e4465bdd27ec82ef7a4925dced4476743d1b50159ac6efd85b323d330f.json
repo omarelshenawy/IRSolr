@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "467d91e4465bdd27ec82ef7a4925dced4476743d1b50159ac6efd85b323d330f",
+			"url": "https://upload.wikimedia.org/math/7/9/2/792bcade0a4a44c51ad43c8c79323c47.png",
+			"previous": " The relation gives the simple final result Substituting the equation of the ellipse gives",
+			"after": " where is a constant and is the unit vector pointing from the Sun towards the planet and is the distance between the planet and the Sun ",
+			"color": "dark|0.31158 gray|0.31158 dark|0.31158 grey|0.31158 gray|0.22415 grey|0.22415 silver|0.19403 light|0.11221 gray|0.11221 light|0.11221 grey|0.11221 gainsboro|0.081459 dim|0.040592 gray|0.040592 dim|0.040592 grey|0.040592 white|0.0095069 smoke|0.0095069 linen|0.0042591 lavender|0.0039563 blush|0.0039563 alice|0.0037769 blue|0.0037769 ghost|0.0036274 white|0.0036274 sea|0.0033391 shell|0.0033391 snow|0.0031148  ",
+			"after_weights": " where|1 is|0.96154 a|0.92308 constant|0.88462 and|0.84615 is|0.80769 the|0.76923 unit|0.73077 vector|0.69231 pointing|0.65385 from|0.61538 the|0.57692 Sun|0.53846 towards|0.5 the|0.46154 planet|0.42308 and|0.38462 is|0.34615 the|0.30769 distance|0.26923 between|0.23077 the|0.19231 planet|0.15385 and|0.11538 the|0.076923 Sun|0.038462 |0",
+			"previous_weights": " The|0 relation|0.076923 gives|0.15385 the|0.23077 simple|0.30769 final|0.38462 result|0.46154 Substituting|0.53846 the|0.61538 equation|0.69231 of|0.76923 the|0.84615 ellipse|0.92308 gives|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48defde3e635123ead88f36af374a008acb882a96766386db237d14156474822",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mode_7_Test-0000.png/220px-Mode_7_Test-0000.png",
+			"previous": " Background layers in most modes range from 32 x 32 to 64 64 tiles each of size 8 x 8 or 16 x 16 pixels with each tile on one of two planes foreground and background and using one of 8 palettes Tiles are taken from a per layer set of up to 1024 as VRAM permits and can be flipped horizontally and vertically Each layer may be scrolled both horizontally and vertically The number of background layers and the size of the palettes depends on the mode 50 51 ",
+			"after": " Background layers may be individually pixelized and layers and sprites can be individually clipped and combined by color addition or subtraction to generate more complex effects and greater color depths than can be specified directly 50 ",
+			"color": " ",
+			"after_weights": " Background|1 layers|0.97222 may|0.94444 be|0.91667 individually|0.88889 pixelized|0.86111 and|0.83333 layers|0.80556 and|0.77778 sprites|0.75 can|0.72222 be|0.69444 individually|0.66667 clipped|0.63889 and|0.61111 combined|0.58333 by|0.55556 color|0.52778 addition|0.5 or|0.47222 subtraction|0.44444 to|0.41667 generate|0.38889 more|0.36111 complex|0.33333 effects|0.30556 and|0.27778 greater|0.25 color|0.22222 depths|0.19444 than|0.16667 can|0.13889 be|0.11111 specified|0.083333 directly|0.055556 50|0.027778 |0",
+			"previous_weights": " Background|0 layers|0.011111 in|0.022222 most|0.033333 modes|0.044444 range|0.055556 from|0.066667 32|0.077778 x|0.088889 32|0.1 to|0.11111 64|0.12222 64|0.13333 tiles|0.14444 each|0.15556 of|0.16667 size|0.17778 8|0.18889 x|0.2 8|0.21111 or|0.22222 16|0.23333 x|0.24444 16|0.25556 pixels|0.26667 with|0.27778 each|0.28889 tile|0.3 on|0.31111 one|0.32222 of|0.33333 two|0.34444 planes|0.35556 foreground|0.36667 and|0.37778 background|0.38889 and|0.4 using|0.41111 one|0.42222 of|0.43333 8|0.44444 palettes|0.45556 Tiles|0.46667 are|0.47778 taken|0.48889 from|0.5 a|0.51111 per|0.52222 layer|0.53333 set|0.54444 of|0.55556 up|0.56667 to|0.57778 1024|0.58889 as|0.6 VRAM|0.61111 permits|0.62222 and|0.63333 can|0.64444 be|0.65556 flipped|0.66667 horizontally|0.67778 and|0.68889 vertically|0.7 Each|0.71111 layer|0.72222 may|0.73333 be|0.74444 scrolled|0.75556 both|0.76667 horizontally|0.77778 and|0.78889 vertically|0.8 The|0.81111 number|0.82222 of|0.83333 background|0.84444 layers|0.85556 and|0.86667 the|0.87778 size|0.88889 of|0.9 the|0.91111 palettes|0.92222 depends|0.93333 on|0.94444 the|0.95556 mode|0.96667 50|0.97778 51|0.98889 |1"
+		}
+	}
+}

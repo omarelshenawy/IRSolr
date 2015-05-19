@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "36619b0d4ad1dd0bbaa849a9a51cd7b4601cc85e203352a70e15ad7fcb83a0dd",
+			"url": "https://upload.wikimedia.org/math/9/4/b/94b8c96b442d92b00f3af885f88bc9a4.png",
+			"previous": " The determination of the meridian distance that is the distance from the equator to a point at a latitude on the ellipsoid is an important problem in the theory of map projections particularly the Transverse Mercator projection Ellipsoids are normally specified in terms of the parameters defined above but in theoretical work it is useful to define extra parameters particularly the eccentricity and the third flattening Only two of these parameters are independent and there are many relations between them ",
+			"after": " The meridian radius of curvature can be shown 3 4 to be equal to",
+			"color": "dim|0.36572 gray|0.36572 dim|0.36572 grey|0.36572 gray|0.26078 grey|0.26078 dark|0.20198 gray|0.20198 dark|0.20198 grey|0.20198 silver|0.086114 light|0.039947 gray|0.039947 light|0.039947 grey|0.039947 gainsboro|0.029451 white|0.003838 smoke|0.003838  ",
+			"after_weights": " The|1 meridian|0.92308 radius|0.84615 of|0.76923 curvature|0.69231 can|0.61538 be|0.53846 shown|0.46154 3|0.38462 4|0.30769 to|0.23077 be|0.15385 equal|0.076923 to|0",
+			"previous_weights": " The|0 determination|0.0125 of|0.025 the|0.0375 meridian|0.05 distance|0.0625 that|0.075 is|0.0875 the|0.1 distance|0.1125 from|0.125 the|0.1375 equator|0.15 to|0.1625 a|0.175 point|0.1875 at|0.2 a|0.2125 latitude|0.225 on|0.2375 the|0.25 ellipsoid|0.2625 is|0.275 an|0.2875 important|0.3 problem|0.3125 in|0.325 the|0.3375 theory|0.35 of|0.3625 map|0.375 projections|0.3875 particularly|0.4 the|0.4125 Transverse|0.425 Mercator|0.4375 projection|0.45 Ellipsoids|0.4625 are|0.475 normally|0.4875 specified|0.5 in|0.5125 terms|0.525 of|0.5375 the|0.55 parameters|0.5625 defined|0.575 above|0.5875 but|0.6 in|0.6125 theoretical|0.625 work|0.6375 it|0.65 is|0.6625 useful|0.675 to|0.6875 define|0.7 extra|0.7125 parameters|0.725 particularly|0.7375 the|0.75 eccentricity|0.7625 and|0.775 the|0.7875 third|0.8 flattening|0.8125 Only|0.825 two|0.8375 of|0.85 these|0.8625 parameters|0.875 are|0.8875 independent|0.9 and|0.9125 there|0.925 are|0.9375 many|0.95 relations|0.9625 between|0.975 them|0.9875 |1"
+		}
+	}
+}

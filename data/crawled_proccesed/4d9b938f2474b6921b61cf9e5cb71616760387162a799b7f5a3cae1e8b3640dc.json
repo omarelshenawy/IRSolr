@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d9b938f2474b6921b61cf9e5cb71616760387162a799b7f5a3cae1e8b3640dc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_march.jpg/225px-The_march.jpg",
+			"previous": " The union voted for a one day strike on 30 June 2011 11 ",
+			"after": " There were stints of hour strikes during the summer months of 2011 but these were not full walk outs citation needed  A further strike was voted for by members for 30 November 2011 over pensions negotiations with the government ",
+			"color": "black|0.56711 dim|0.047715 gray|0.047715 dim|0.047715 grey|0.047715 dark|0.04686 gray|0.04686 dark|0.04686 grey|0.04686 silver|0.037533 gray|0.034118 grey|0.034118 light|0.02543 gray|0.02543 light|0.02543 grey|0.02543 gainsboro|0.019393 lavender|0.012112 light|0.010651 slate|0.010651 gray|0.010651 slate|0.010553 gray|0.010553 thistle|0.010443 white|0.008169 smoke|0.008169 dark|0.007726 slate|0.007726 gray|0.007726 lavender|0.0073915 blush|0.0073915 ghost|0.0068796 white|0.0068796 alice|0.0065337 blue|0.0065337 snow|0.0062347  ",
+			"after_weights": " There|1 were|0.975 stints|0.95 of|0.925 hour|0.9 strikes|0.875 during|0.85 the|0.825 summer|0.8 months|0.775 of|0.75 2011|0.725 but|0.7 these|0.675 were|0.65 not|0.625 full|0.6 walk|0.575 outs|0.55 citation|0.525 needed|0.5 |0.475 A|0.45 further|0.425 strike|0.4 was|0.375 voted|0.35 for|0.325 by|0.3 members|0.275 for|0.25 30|0.225 November|0.2 2011|0.175 over|0.15 pensions|0.125 negotiations|0.1 with|0.075 the|0.05 government|0.025 |0",
+			"previous_weights": " The|0 union|0.076923 voted|0.15385 for|0.23077 a|0.30769 one|0.38462 day|0.46154 strike|0.53846 on|0.61538 30|0.69231 June|0.76923 2011|0.84615 11|0.92308 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1494ab8b129496eed4932afb5d59285766756bb590428c92b476263ea9d2cf31",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Crimea-Yalta_locator_map.png/100px-Crimea-Yalta_locator_map.png",
+			"previous": " ",
+			"after": " Yalta is a city in Crimea on the north coast of the Black Sea The city is located on the site of an ancient Greek colony said to have been founded by Greek sailors who were looking for a safe shore yalos in Greek on which to land It is situated on a shallow bay facing south towards the Black Sea surrounded by wooded mountains It enjoys a warm Mediterranean climate with many vineyards and orchards in the vicinity ",
+			"color": "sky|0.75212 blue|0.75212 light|0.17901 sky|0.17901 blue|0.17901 light|0.041461 blue|0.041461 powder|0.025731 blue|0.025731  ",
+			"after_weights": " Yalta|1 is|0.98734 a|0.97468 city|0.96203 in|0.94937 Crimea|0.93671 on|0.92405 the|0.91139 north|0.89873 coast|0.88608 of|0.87342 the|0.86076 Black|0.8481 Sea|0.83544 The|0.82278 city|0.81013 is|0.79747 located|0.78481 on|0.77215 the|0.75949 site|0.74684 of|0.73418 an|0.72152 ancient|0.70886 Greek|0.6962 colony|0.68354 said|0.67089 to|0.65823 have|0.64557 been|0.63291 founded|0.62025 by|0.60759 Greek|0.59494 sailors|0.58228 who|0.56962 were|0.55696 looking|0.5443 for|0.53165 a|0.51899 safe|0.50633 shore|0.49367 yalos|0.48101 in|0.46835 Greek|0.4557 on|0.44304 which|0.43038 to|0.41772 land|0.40506 It|0.39241 is|0.37975 situated|0.36709 on|0.35443 a|0.34177 shallow|0.32911 bay|0.31646 facing|0.3038 south|0.29114 towards|0.27848 the|0.26582 Black|0.25316 Sea|0.24051 surrounded|0.22785 by|0.21519 wooded|0.20253 mountains|0.18987 It|0.17722 enjoys|0.16456 a|0.1519 warm|0.13924 Mediterranean|0.12658 climate|0.11392 with|0.10127 many|0.088608 vineyards|0.075949 and|0.063291 orchards|0.050633 in|0.037975 the|0.025316 vicinity|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

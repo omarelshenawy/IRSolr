@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "95a8664154b43f98de4d398c12a45cfdeb89fe84ac6741303caebb9f814e77bf",
+			"url": "https://upload.wikimedia.org/math/3/f/8/3f827c511f30ae697948fafd96714fc9.png",
+			"previous": " Dividing by I Ki",
+			"after": " This notation demonstrates that similar to the Michaelis Menten equation where the rate of reaction depends on the percent of the enzyme population interacting with substrate sentence fragment  fraction of the enzyme population bound by substrate",
+			"color": "dim|0.32875 gray|0.32875 dim|0.32875 grey|0.32875 gray|0.26752 grey|0.26752 dark|0.18297 gray|0.18297 dark|0.18297 grey|0.18297 silver|0.090375 light|0.054446 gray|0.054446 light|0.054446 grey|0.054446 gainsboro|0.04009 white|0.010838 smoke|0.010838 linen|0.0061761 lavender|0.0035564 blush|0.0035564 alice|0.0034302 blue|0.0034302 ghost|0.003355 white|0.003355 sea|0.003252 shell|0.003252 snow|0.0031392  ",
+			"after_weights": " This|1 notation|0.97222 demonstrates|0.94444 that|0.91667 similar|0.88889 to|0.86111 the|0.83333 Michaelis|0.80556 Menten|0.77778 equation|0.75 where|0.72222 the|0.69444 rate|0.66667 of|0.63889 reaction|0.61111 depends|0.58333 on|0.55556 the|0.52778 percent|0.5 of|0.47222 the|0.44444 enzyme|0.41667 population|0.38889 interacting|0.36111 with|0.33333 substrate|0.30556 sentence|0.27778 fragment|0.25 |0.22222 fraction|0.19444 of|0.16667 the|0.13889 enzyme|0.11111 population|0.083333 bound|0.055556 by|0.027778 substrate|0",
+			"previous_weights": " Dividing|0 by|0.33333 I|0.66667 Ki|1"
+		}
+	}
+}

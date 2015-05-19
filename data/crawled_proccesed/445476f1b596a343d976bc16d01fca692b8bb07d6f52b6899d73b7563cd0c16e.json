@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "445476f1b596a343d976bc16d01fca692b8bb07d6f52b6899d73b7563cd0c16e",
+			"url": "https://upload.wikimedia.org/math/0/1/b/01b6a436312001ed03cdfe08aa75de97.png",
+			"previous": " which simplifies to Adding the two equations together to get ",
+			"after": " Using this value in one of the equations the same solution as in the previous method is obtained  Note that this is not the only way to solve this specific system could have been solved before ",
+			"color": "black|0.42029 dim|0.25252 gray|0.25252 dim|0.25252 grey|0.25252 gray|0.16253 grey|0.16253 dark|0.086365 gray|0.086365 dark|0.086365 grey|0.086365 silver|0.036016 light|0.017947 gray|0.017947 light|0.017947 grey|0.017947 gainsboro|0.012693  ",
+			"after_weights": " Using|1 this|0.97297 value|0.94595 in|0.91892 one|0.89189 of|0.86486 the|0.83784 equations|0.81081 the|0.78378 same|0.75676 solution|0.72973 as|0.7027 in|0.67568 the|0.64865 previous|0.62162 method|0.59459 is|0.56757 obtained|0.54054 |0.51351 Note|0.48649 that|0.45946 this|0.43243 is|0.40541 not|0.37838 the|0.35135 only|0.32432 way|0.2973 to|0.27027 solve|0.24324 this|0.21622 specific|0.18919 system|0.16216 could|0.13514 have|0.10811 been|0.081081 solved|0.054054 before|0.027027 |0",
+			"previous_weights": " which|0 simplifies|0.1 to|0.2 Adding|0.3 the|0.4 two|0.5 equations|0.6 together|0.7 to|0.8 get|0.9 |1"
+		}
+	}
+}

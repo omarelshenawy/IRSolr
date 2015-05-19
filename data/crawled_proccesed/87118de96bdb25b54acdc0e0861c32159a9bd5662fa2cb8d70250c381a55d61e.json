@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "87118de96bdb25b54acdc0e0861c32159a9bd5662fa2cb8d70250c381a55d61e",
+			"url": "https://upload.wikimedia.org/math/f/3/5/f356685bbb0bdac5fbffe93dc801f459.png",
+			"previous": " Consider the following notation  Optimization problems are often expressed with special notation Here are some examples ",
+			"after": " or equivalently This represents the value or values of the argument x in the interval that minimizes or minimize the objective function x2 1 the actual minimum value of that function is not what the problem asks for In this case the answer is x 1 since x 0 is infeasible i e does not belong to the feasible set ",
+			"color": "dim|0.31643 gray|0.31643 dim|0.31643 grey|0.31643 gray|0.30164 grey|0.30164 dark|0.21691 gray|0.21691 dark|0.21691 grey|0.21691 silver|0.07825 light|0.039477 gray|0.039477 light|0.039477 grey|0.039477 gainsboro|0.027698 white|0.0047713 smoke|0.0047713  ",
+			"after_weights": " or|1 equivalently|0.98333 This|0.96667 represents|0.95 the|0.93333 value|0.91667 or|0.9 values|0.88333 of|0.86667 the|0.85 argument|0.83333 x|0.81667 in|0.8 the|0.78333 interval|0.76667 that|0.75 minimizes|0.73333 or|0.71667 minimize|0.7 the|0.68333 objective|0.66667 function|0.65 x2|0.63333 1|0.61667 the|0.6 actual|0.58333 minimum|0.56667 value|0.55 of|0.53333 that|0.51667 function|0.5 is|0.48333 not|0.46667 what|0.45 the|0.43333 problem|0.41667 asks|0.4 for|0.38333 In|0.36667 this|0.35 case|0.33333 the|0.31667 answer|0.3 is|0.28333 x|0.26667 1|0.25 since|0.23333 x|0.21667 0|0.2 is|0.18333 infeasible|0.16667 i|0.15 e|0.13333 does|0.11667 not|0.1 belong|0.083333 to|0.066667 the|0.05 feasible|0.033333 set|0.016667 |0",
+			"previous_weights": " Consider|0 the|0.058824 following|0.11765 notation|0.17647 |0.23529 Optimization|0.29412 problems|0.35294 are|0.41176 often|0.47059 expressed|0.52941 with|0.58824 special|0.64706 notation|0.70588 Here|0.76471 are|0.82353 some|0.88235 examples|0.94118 |1"
+		}
+	}
+}

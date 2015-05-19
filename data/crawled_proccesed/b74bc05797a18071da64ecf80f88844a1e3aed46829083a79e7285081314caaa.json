@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b74bc05797a18071da64ecf80f88844a1e3aed46829083a79e7285081314caaa",
+			"url": "https://upload.wikimedia.org/math/f/8/d/f8d3f2088beebf3d392ca477a32010a4.png",
+			"previous": " Conditional probability is the probability of some event A given the occurrence of some other event B Conditional probability is written and is read the probability of A given B It is defined by 23 ",
+			"after": " If then is formally undefined by this expression However it is possible to define a conditional probability for some zero probability events using a algebra of such events such as those arising from a continuous random variable citation needed ",
+			"color": "dim|0.33905 gray|0.33905 dim|0.33905 grey|0.33905 gray|0.29516 grey|0.29516 dark|0.18497 gray|0.18497 dark|0.18497 grey|0.18497 silver|0.091937 light|0.044534 gray|0.044534 light|0.044534 grey|0.044534 gainsboro|0.030158 white|0.0037832 smoke|0.0037832  ",
+			"after_weights": " If|1 then|0.97436 is|0.94872 formally|0.92308 undefined|0.89744 by|0.87179 this|0.84615 expression|0.82051 However|0.79487 it|0.76923 is|0.74359 possible|0.71795 to|0.69231 define|0.66667 a|0.64103 conditional|0.61538 probability|0.58974 for|0.5641 some|0.53846 zero|0.51282 probability|0.48718 events|0.46154 using|0.4359 a|0.41026 algebra|0.38462 of|0.35897 such|0.33333 events|0.30769 such|0.28205 as|0.25641 those|0.23077 arising|0.20513 from|0.17949 a|0.15385 continuous|0.12821 random|0.10256 variable|0.076923 citation|0.051282 needed|0.025641 |0",
+			"previous_weights": " Conditional|0 probability|0.028571 is|0.057143 the|0.085714 probability|0.11429 of|0.14286 some|0.17143 event|0.2 A|0.22857 given|0.25714 the|0.28571 occurrence|0.31429 of|0.34286 some|0.37143 other|0.4 event|0.42857 B|0.45714 Conditional|0.48571 probability|0.51429 is|0.54286 written|0.57143 and|0.6 is|0.62857 read|0.65714 the|0.68571 probability|0.71429 of|0.74286 A|0.77143 given|0.8 B|0.82857 It|0.85714 is|0.88571 defined|0.91429 by|0.94286 23|0.97143 |1"
+		}
+	}
+}

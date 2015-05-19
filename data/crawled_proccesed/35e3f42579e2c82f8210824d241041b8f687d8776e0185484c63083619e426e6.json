@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35e3f42579e2c82f8210824d241041b8f687d8776e0185484c63083619e426e6",
+			"url": "https://upload.wikimedia.org/math/0/1/8/0184a954aa54758ca53ba83ae9571271.png",
+			"previous": " To solve a linear equation with two variables unknowns requires two related equations For example if I also revealed that ",
+			"after": " Now there are two related linear equations each with two unknowns which lets us produce a linear equation with just one variable by subtracting one from the other called the elimination method 34 ",
+			"color": "dim|0.4096 gray|0.4096 dim|0.4096 grey|0.4096 gray|0.28759 grey|0.28759 dark|0.15567 gray|0.15567 dark|0.15567 grey|0.15567 silver|0.073616 light|0.036307 gray|0.036307 light|0.036307 grey|0.036307 gainsboro|0.025543 white|0.0031604 smoke|0.0031604  ",
+			"after_weights": " Now|1 there|0.9697 are|0.93939 two|0.90909 related|0.87879 linear|0.84848 equations|0.81818 each|0.78788 with|0.75758 two|0.72727 unknowns|0.69697 which|0.66667 lets|0.63636 us|0.60606 produce|0.57576 a|0.54545 linear|0.51515 equation|0.48485 with|0.45455 just|0.42424 one|0.39394 variable|0.36364 by|0.33333 subtracting|0.30303 one|0.27273 from|0.24242 the|0.21212 other|0.18182 called|0.15152 the|0.12121 elimination|0.090909 method|0.060606 34|0.030303 |0",
+			"previous_weights": " To|0 solve|0.05 a|0.1 linear|0.15 equation|0.2 with|0.25 two|0.3 variables|0.35 unknowns|0.4 requires|0.45 two|0.5 related|0.55 equations|0.6 For|0.65 example|0.7 if|0.75 I|0.8 also|0.85 revealed|0.9 that|0.95 |1"
+		}
+	}
+}

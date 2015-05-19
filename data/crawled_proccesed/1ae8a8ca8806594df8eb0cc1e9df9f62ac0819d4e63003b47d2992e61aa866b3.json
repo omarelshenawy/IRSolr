@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ae8a8ca8806594df8eb0cc1e9df9f62ac0819d4e63003b47d2992e61aa866b3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Air_Nostrum_-_Bombardier_CRJ-1000_-_Fabrizio_Berni.jpg/220px-Air_Nostrum_-_Bombardier_CRJ-1000_-_Fabrizio_Berni.jpg",
+			"previous": " IAG has its operational headquarters which controls the management of both its Spanish and British subsidiaries at 2 World Business Centre on the property of London Heathrow Airport in the London Borough of Hillingdon 44 45 ",
+			"after": " The structure of the main operating companies is ",
+			"color": "slate|0.49674 gray|0.49674 steel|0.098554 blue|0.098554 dim|0.035976 gray|0.035976 dim|0.035976 grey|0.035976 dark|0.035682 gray|0.035682 dark|0.035682 grey|0.035682 silver|0.0308 light|0.024903 gray|0.024903 light|0.024903 grey|0.024903 gray|0.024345 grey|0.024345 black|0.021562 gainsboro|0.020737 light|0.016439 slate|0.016439 gray|0.016439  ",
+			"after_weights": " The|1 structure|0.875 of|0.75 the|0.625 main|0.5 operating|0.375 companies|0.25 is|0.125 |0",
+			"previous_weights": " IAG|0 has|0.027778 its|0.055556 operational|0.083333 headquarters|0.11111 which|0.13889 controls|0.16667 the|0.19444 management|0.22222 of|0.25 both|0.27778 its|0.30556 Spanish|0.33333 and|0.36111 British|0.38889 subsidiaries|0.41667 at|0.44444 2|0.47222 World|0.5 Business|0.52778 Centre|0.55556 on|0.58333 the|0.61111 property|0.63889 of|0.66667 London|0.69444 Heathrow|0.72222 Airport|0.75 in|0.77778 the|0.80556 London|0.83333 Borough|0.86111 of|0.88889 Hillingdon|0.91667 44|0.94444 45|0.97222 |1"
+		}
+	}
+}

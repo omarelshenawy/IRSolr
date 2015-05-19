@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "965ec7c9ade2672135d194c5b6e75f05536604a53fdf19310ff2b4ea419b6bfb",
+			"url": "https://upload.wikimedia.org/math/7/9/8/79846131289f93f21e015db8dd2c32cf.png",
+			"previous": " Using a similar order of magnitude analysis the above equations can be reduced to leading order terms By choosing length scales for changes in the transverse direction and for changes in the streamwise direction with the x momentum equation simplifies to ",
+			"after": " This equation does not satisfy the no slip condition at the wall Like Prandtl did for his boundary layer equations a new smaller length scale must be used to allow the viscous term to become leading order in the momentum equation By choosing as the y scale the leading order momentum equation for this inner boundary layer is given by ",
+			"color": "dim|0.7616 gray|0.7616 dim|0.7616 grey|0.7616 gray|0.2384 grey|0.2384  ",
+			"after_weights": " This|1 equation|0.98333 does|0.96667 not|0.95 satisfy|0.93333 the|0.91667 no|0.9 slip|0.88333 condition|0.86667 at|0.85 the|0.83333 wall|0.81667 Like|0.8 Prandtl|0.78333 did|0.76667 for|0.75 his|0.73333 boundary|0.71667 layer|0.7 equations|0.68333 a|0.66667 new|0.65 smaller|0.63333 length|0.61667 scale|0.6 must|0.58333 be|0.56667 used|0.55 to|0.53333 allow|0.51667 the|0.5 viscous|0.48333 term|0.46667 to|0.45 become|0.43333 leading|0.41667 order|0.4 in|0.38333 the|0.36667 momentum|0.35 equation|0.33333 By|0.31667 choosing|0.3 as|0.28333 the|0.26667 y|0.25 scale|0.23333 the|0.21667 leading|0.2 order|0.18333 momentum|0.16667 equation|0.15 for|0.13333 this|0.11667 inner|0.1 boundary|0.083333 layer|0.066667 is|0.05 given|0.033333 by|0.016667 |0",
+			"previous_weights": " Using|0 a|0.02439 similar|0.04878 order|0.073171 of|0.097561 magnitude|0.12195 analysis|0.14634 the|0.17073 above|0.19512 equations|0.21951 can|0.2439 be|0.26829 reduced|0.29268 to|0.31707 leading|0.34146 order|0.36585 terms|0.39024 By|0.41463 choosing|0.43902 length|0.46341 scales|0.4878 for|0.5122 changes|0.53659 in|0.56098 the|0.58537 transverse|0.60976 direction|0.63415 and|0.65854 for|0.68293 changes|0.70732 in|0.73171 the|0.7561 streamwise|0.78049 direction|0.80488 with|0.82927 the|0.85366 x|0.87805 momentum|0.90244 equation|0.92683 simplifies|0.95122 to|0.97561 |1"
+		}
+	}
+}

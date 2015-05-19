@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9027269e2849dbfd7288f6d84f15eebf0297702b5d2690c0447aaf7e85c17865",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Runway_Landing_Light.jpg/220px-Runway_Landing_Light.jpg",
+			"previous": " ",
+			"after": " The first runway lighting appeared in 1930 at Cleveland Municipal Airport now known as Cleveland Hopkins International Airport in Cleveland Ohio citation needed A line of lights on an airfield or elsewhere to guide aircraft in taking off or coming in to land or an illuminated runway is sometimes also known as a Flare Path ",
+			"color": "dim|0.48272 gray|0.48272 dim|0.48272 grey|0.48272 gray|0.32819 grey|0.32819 dark|0.07699 gray|0.07699 dark|0.07699 grey|0.07699 silver|0.026824 light|0.012504 gray|0.012504 light|0.012504 grey|0.012504 lavender|0.0089764 gainsboro|0.0089434 thistle|0.0084385  ",
+			"after_weights": " The|1 first|0.98182 runway|0.96364 lighting|0.94545 appeared|0.92727 in|0.90909 1930|0.89091 at|0.87273 Cleveland|0.85455 Municipal|0.83636 Airport|0.81818 now|0.8 known|0.78182 as|0.76364 Cleveland|0.74545 Hopkins|0.72727 International|0.70909 Airport|0.69091 in|0.67273 Cleveland|0.65455 Ohio|0.63636 citation|0.61818 needed|0.6 A|0.58182 line|0.56364 of|0.54545 lights|0.52727 on|0.50909 an|0.49091 airfield|0.47273 or|0.45455 elsewhere|0.43636 to|0.41818 guide|0.4 aircraft|0.38182 in|0.36364 taking|0.34545 off|0.32727 or|0.30909 coming|0.29091 in|0.27273 to|0.25455 land|0.23636 or|0.21818 an|0.2 illuminated|0.18182 runway|0.16364 is|0.14545 sometimes|0.12727 also|0.10909 known|0.090909 as|0.072727 a|0.054545 Flare|0.036364 Path|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

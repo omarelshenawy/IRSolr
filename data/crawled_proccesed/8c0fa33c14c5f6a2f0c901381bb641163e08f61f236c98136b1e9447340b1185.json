@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c0fa33c14c5f6a2f0c901381bb641163e08f61f236c98136b1e9447340b1185",
+			"url": "https://upload.wikimedia.org/math/b/3/a/b3aba48a7f1c33afe0df4cc2ac6c6db5.png",
+			"previous": " Although this operation is perfectly valid it is not always useful because itself is not necessarily on the manifold Therefore we define the covariant derivative to be the forced projection of the intrinsic derivative back onto the manifold ",
+			"after": " Since any general multivector can be expressed as a sum of a projection and a rejection in this case",
+			"color": "dim|0.3399 gray|0.3399 dim|0.3399 grey|0.3399 gray|0.30803 grey|0.30803 dark|0.2001 gray|0.2001 dark|0.2001 grey|0.2001 silver|0.078059 light|0.03372 gray|0.03372 light|0.03372 grey|0.03372 gainsboro|0.022706 white|0.0042241 smoke|0.0042241  ",
+			"after_weights": " Since|1 any|0.94444 general|0.88889 multivector|0.83333 can|0.77778 be|0.72222 expressed|0.66667 as|0.61111 a|0.55556 sum|0.5 of|0.44444 a|0.38889 projection|0.33333 and|0.27778 a|0.22222 rejection|0.16667 in|0.11111 this|0.055556 case|0",
+			"previous_weights": " Although|0 this|0.026316 operation|0.052632 is|0.078947 perfectly|0.10526 valid|0.13158 it|0.15789 is|0.18421 not|0.21053 always|0.23684 useful|0.26316 because|0.28947 itself|0.31579 is|0.34211 not|0.36842 necessarily|0.39474 on|0.42105 the|0.44737 manifold|0.47368 Therefore|0.5 we|0.52632 define|0.55263 the|0.57895 covariant|0.60526 derivative|0.63158 to|0.65789 be|0.68421 the|0.71053 forced|0.73684 projection|0.76316 of|0.78947 the|0.81579 intrinsic|0.84211 derivative|0.86842 back|0.89474 onto|0.92105 the|0.94737 manifold|0.97368 |1"
+		}
+	}
+}

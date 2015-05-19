@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "34c1546dca9bef341c538fb703627707cad4f391e474745dbec8c619860983fe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ISUZU_ELF%2C_6th_Gen%2C_HYBRID_Chassis.jpg/100px-ISUZU_ELF%2C_6th_Gen%2C_HYBRID_Chassis.jpg",
+			"previous": " ",
+			"after": " air brake air suspension axle battery pack brake bullbar chassis clutch compression release engine brake dashboard Diesel engine differential double clutch engine braking exhaust system fifth wheel coupling frame glowplug ignition system live axle non synchronous transmission piston radiator steering suspension tire transmission Fifth wheel coupling Ballast tractor",
+			"color": "black|0.3188 dim|0.16043 gray|0.16043 dim|0.16043 grey|0.16043 gray|0.12909 grey|0.12909 dark|0.12146 gray|0.12146 dark|0.12146 grey|0.12146 silver|0.069751 light|0.051656 gray|0.051656 light|0.051656 grey|0.051656 gainsboro|0.039962 white|0.0089164 smoke|0.0089164 light|0.0054415 coral|0.0054415 alice|0.0053133 blue|0.0053133 snow|0.0050586 linen|0.0050055 indian|0.0049657 red|0.0049657 sea|0.0049136 shell|0.0049136 slate|0.0048864 gray|0.0048864 ghost|0.0048641 white|0.0048641  ",
+			"after_weights": " air|1 brake|0.97872 air|0.95745 suspension|0.93617 axle|0.91489 battery|0.89362 pack|0.87234 brake|0.85106 bullbar|0.82979 chassis|0.80851 clutch|0.78723 compression|0.76596 release|0.74468 engine|0.7234 brake|0.70213 dashboard|0.68085 Diesel|0.65957 engine|0.6383 differential|0.61702 double|0.59574 clutch|0.57447 engine|0.55319 braking|0.53191 exhaust|0.51064 system|0.48936 fifth|0.46809 wheel|0.44681 coupling|0.42553 frame|0.40426 glowplug|0.38298 ignition|0.3617 system|0.34043 live|0.31915 axle|0.29787 non|0.2766 synchronous|0.25532 transmission|0.23404 piston|0.21277 radiator|0.19149 steering|0.17021 suspension|0.14894 tire|0.12766 transmission|0.10638 Fifth|0.085106 wheel|0.06383 coupling|0.042553 Ballast|0.021277 tractor|0",
+			"previous_weights": " "
+		}
+	}
+}

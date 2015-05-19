@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "342f0d8c316954788e837e99fde1ddaa82f9c8eda36efdf8a217c94a5a78a72d",
+			"url": "https://upload.wikimedia.org/math/f/a/2/fa2495adbf5d88f15501f8e3c3f02357.png",
+			"previous": " Heat engines transform thermal energy or heat Qin into mechanical energy or work Wout They cannot do this task perfectly so some of the input heat energy is not converted into work but is dissipated as waste heat Qout into the environment",
+			"after": " The thermal efficiency of a heat engine is the percentage of heat energy that is transformed into work Thermal efficiency is defined as",
+			"color": " ",
+			"after_weights": " The|1 thermal|0.95455 efficiency|0.90909 of|0.86364 a|0.81818 heat|0.77273 engine|0.72727 is|0.68182 the|0.63636 percentage|0.59091 of|0.54545 heat|0.5 energy|0.45455 that|0.40909 is|0.36364 transformed|0.31818 into|0.27273 work|0.22727 Thermal|0.18182 efficiency|0.13636 is|0.090909 defined|0.045455 as|0",
+			"previous_weights": " Heat|0 engines|0.02439 transform|0.04878 thermal|0.073171 energy|0.097561 or|0.12195 heat|0.14634 Qin|0.17073 into|0.19512 mechanical|0.21951 energy|0.2439 or|0.26829 work|0.29268 Wout|0.31707 They|0.34146 cannot|0.36585 do|0.39024 this|0.41463 task|0.43902 perfectly|0.46341 so|0.4878 some|0.5122 of|0.53659 the|0.56098 input|0.58537 heat|0.60976 energy|0.63415 is|0.65854 not|0.68293 converted|0.70732 into|0.73171 work|0.7561 but|0.78049 is|0.80488 dissipated|0.82927 as|0.85366 waste|0.87805 heat|0.90244 Qout|0.92683 into|0.95122 the|0.97561 environment|1"
+		}
+	}
+}

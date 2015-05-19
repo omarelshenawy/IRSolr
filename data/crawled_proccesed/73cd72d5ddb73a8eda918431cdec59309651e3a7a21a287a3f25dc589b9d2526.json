@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73cd72d5ddb73a8eda918431cdec59309651e3a7a21a287a3f25dc589b9d2526",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Copenhagen_Metro_escalators.jpg/538px-Copenhagen_Metro_escalators.jpg",
+			"previous": " Portal Technology Selected pictures 11",
+			"after": " An escalator is a moving staircase for carrying people between floors of a building The device consists of a motor driven chain of individual linked steps that move up or down on tracks allowing the step treads to remain horizontal ",
+			"color": "dim|0.44196 gray|0.44196 dim|0.44196 grey|0.44196 black|0.22336 gray|0.16545 grey|0.16545 dark|0.047155 gray|0.047155 dark|0.047155 grey|0.047155 slate|0.022921 gray|0.022921 light|0.021317 slate|0.021317 gray|0.021317 silver|0.015818 light|0.010261 gray|0.010261 light|0.010261 grey|0.010261 gainsboro|0.0066708  ",
+			"after_weights": " An|1 escalator|0.975 is|0.95 a|0.925 moving|0.9 staircase|0.875 for|0.85 carrying|0.825 people|0.8 between|0.775 floors|0.75 of|0.725 a|0.7 building|0.675 The|0.65 device|0.625 consists|0.6 of|0.575 a|0.55 motor|0.525 driven|0.5 chain|0.475 of|0.45 individual|0.425 linked|0.4 steps|0.375 that|0.35 move|0.325 up|0.3 or|0.275 down|0.25 on|0.225 tracks|0.2 allowing|0.175 the|0.15 step|0.125 treads|0.1 to|0.075 remain|0.05 horizontal|0.025 |0",
+			"previous_weights": " Portal|0 Technology|0.25 Selected|0.5 pictures|0.75 11|1"
+		}
+	}
+}

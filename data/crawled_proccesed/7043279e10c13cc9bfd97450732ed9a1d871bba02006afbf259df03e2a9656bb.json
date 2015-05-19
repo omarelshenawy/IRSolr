@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7043279e10c13cc9bfd97450732ed9a1d871bba02006afbf259df03e2a9656bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/OptischerTelegraf.jpg/200px-OptischerTelegraf.jpg",
+			"previous": " ",
+			"after": " Telegraphy from Greek tele at a distance and graphein to write is the long distance transmission of textual symbolic as opposed to verbal or audio messages without the physical exchange of an object bearing the message Thus semaphore is a method of telegraphy whereas pigeon post is not ",
+			"color": "dark|0.30487 olive|0.30487 green|0.30487 tan|0.26323 black|0.1964 wheat|0.036182 dark|0.023104 gray|0.023104 dark|0.023104 grey|0.023104 silver|0.021235 light|0.018394 gray|0.018394 light|0.018394 grey|0.018394 gray|0.01739 grey|0.01739 gainsboro|0.015232 dim|0.012169 gray|0.012169 dim|0.012169 grey|0.012169  ",
+			"after_weights": " Telegraphy|1 from|0.97917 Greek|0.95833 tele|0.9375 at|0.91667 a|0.89583 distance|0.875 and|0.85417 graphein|0.83333 to|0.8125 write|0.79167 is|0.77083 the|0.75 long|0.72917 distance|0.70833 transmission|0.6875 of|0.66667 textual|0.64583 symbolic|0.625 as|0.60417 opposed|0.58333 to|0.5625 verbal|0.54167 or|0.52083 audio|0.5 messages|0.47917 without|0.45833 the|0.4375 physical|0.41667 exchange|0.39583 of|0.375 an|0.35417 object|0.33333 bearing|0.3125 the|0.29167 message|0.27083 Thus|0.25 semaphore|0.22917 is|0.20833 a|0.1875 method|0.16667 of|0.14583 telegraphy|0.125 whereas|0.10417 pigeon|0.083333 post|0.0625 is|0.041667 not|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

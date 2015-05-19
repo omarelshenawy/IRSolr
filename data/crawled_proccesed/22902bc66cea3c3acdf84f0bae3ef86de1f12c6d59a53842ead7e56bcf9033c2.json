@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22902bc66cea3c3acdf84f0bae3ef86de1f12c6d59a53842ead7e56bcf9033c2",
+			"url": "https://upload.wikimedia.org/math/2/a/3/2a308ec6fc223fcd4e9d70df30a52a7f.png",
+			"previous": " The semi major axis a is the arithmetic mean between rmin and rmax  At 180 aphelion the distance is maximum by definition aphelion is invariably perihelion plus 180 ",
+			"after": " The semi minor axis b is the geometric mean between rmin and rmax ",
+			"color": "black|0.36245 dim|0.27742 gray|0.27742 dim|0.27742 grey|0.27742 gray|0.15434 grey|0.15434 dark|0.10302 gray|0.10302 dark|0.10302 grey|0.10302 silver|0.050126 light|0.025782 gray|0.025782 light|0.025782 grey|0.025782 gainsboro|0.016722  ",
+			"after_weights": " The|1 semi|0.92308 minor|0.84615 axis|0.76923 b|0.69231 is|0.61538 the|0.53846 geometric|0.46154 mean|0.38462 between|0.30769 rmin|0.23077 and|0.15385 rmax|0.076923 |0",
+			"previous_weights": " The|0 semi|0.034483 major|0.068966 axis|0.10345 a|0.13793 is|0.17241 the|0.2069 arithmetic|0.24138 mean|0.27586 between|0.31034 rmin|0.34483 and|0.37931 rmax|0.41379 |0.44828 At|0.48276 180|0.51724 aphelion|0.55172 the|0.58621 distance|0.62069 is|0.65517 maximum|0.68966 by|0.72414 definition|0.75862 aphelion|0.7931 is|0.82759 invariably|0.86207 perihelion|0.89655 plus|0.93103 180|0.96552 |1"
+		}
+	}
+}

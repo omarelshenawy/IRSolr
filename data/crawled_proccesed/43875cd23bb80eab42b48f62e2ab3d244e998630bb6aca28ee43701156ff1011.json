@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Africa_satellite_orthographic.jpg/300px-Africa_satellite_orthographic.jpg",
 			"previous": " One common approach categorises Africa directionally e g by cardinal direction compass direction ",
 			"after": " Another common approach divides Africa by using features such as landforms climatic regions or vegetation types ",
+			"color": "pale|0.18649 golden|0.18649 rod|0.18649 dark|0.17308 olive|0.17308 green|0.17308 burly|0.16233 wood|0.16233 navajo|0.1056 white|0.1056 tan|0.091322 moccasin|0.061676 wheat|0.051218 lemon|0.043492 chiffon|0.043492 light|0.024988 golden|0.024988 rod|0.024988 yellow|0.024988 peach|0.013017 puff|0.013017 dark|0.012081 khaki|0.012081 khaki|0.010654 bisque|0.0085788 light|0.0063895 yellow|0.0063895 blanched|0.0059632 almond|0.0059632  ",
 			"after_weights": " Another|1 common|0.9375 approach|0.875 divides|0.8125 Africa|0.75 by|0.6875 using|0.625 features|0.5625 such|0.5 as|0.4375 landforms|0.375 climatic|0.3125 regions|0.25 or|0.1875 vegetation|0.125 types|0.0625 |0",
 			"previous_weights": " One|0 common|0.076923 approach|0.15385 categorises|0.23077 Africa|0.30769 directionally|0.38462 e|0.46154 g|0.53846 by|0.61538 cardinal|0.69231 direction|0.76923 compass|0.84615 direction|0.92308 |1"
 		}

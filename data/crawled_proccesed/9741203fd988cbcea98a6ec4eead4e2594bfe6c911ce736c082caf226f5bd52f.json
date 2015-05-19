@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9741203fd988cbcea98a6ec4eead4e2594bfe6c911ce736c082caf226f5bd52f",
+			"url": "https://upload.wikimedia.org/math/b/9/5/b95429fee7617ea184e4b7e3e4e9b7b6.png",
+			"previous": " Now the Stokes drift velocity S equals 5 ",
+			"after": " In many situations the mapping of average quantities from some Eulerian position x to a corresponding Lagrangian position forms a problem Since a fluid parcel with label traverses along a path of many different Eulerian positions x it is not possible to assign to a unique x A mathematically sound basis for an unambiguous mapping between average Lagrangian and Eulerian quantities is provided by the theory of the Generalized Lagrangian Mean GLM by Andrews and McIntyre 1978 ",
+			"color": "dim|0.43785 gray|0.43785 dim|0.43785 grey|0.43785 gray|0.26054 grey|0.26054 dark|0.14631 gray|0.14631 dark|0.14631 grey|0.14631 silver|0.073201 light|0.038252 gray|0.038252 light|0.038252 grey|0.038252 gainsboro|0.026683  ",
+			"after_weights": " In|1 many|0.98701 situations|0.97403 the|0.96104 mapping|0.94805 of|0.93506 average|0.92208 quantities|0.90909 from|0.8961 some|0.88312 Eulerian|0.87013 position|0.85714 x|0.84416 to|0.83117 a|0.81818 corresponding|0.80519 Lagrangian|0.79221 position|0.77922 forms|0.76623 a|0.75325 problem|0.74026 Since|0.72727 a|0.71429 fluid|0.7013 parcel|0.68831 with|0.67532 label|0.66234 traverses|0.64935 along|0.63636 a|0.62338 path|0.61039 of|0.5974 many|0.58442 different|0.57143 Eulerian|0.55844 positions|0.54545 x|0.53247 it|0.51948 is|0.50649 not|0.49351 possible|0.48052 to|0.46753 assign|0.45455 to|0.44156 a|0.42857 unique|0.41558 x|0.4026 A|0.38961 mathematically|0.37662 sound|0.36364 basis|0.35065 for|0.33766 an|0.32468 unambiguous|0.31169 mapping|0.2987 between|0.28571 average|0.27273 Lagrangian|0.25974 and|0.24675 Eulerian|0.23377 quantities|0.22078 is|0.20779 provided|0.19481 by|0.18182 the|0.16883 theory|0.15584 of|0.14286 the|0.12987 Generalized|0.11688 Lagrangian|0.1039 Mean|0.090909 GLM|0.077922 by|0.064935 Andrews|0.051948 and|0.038961 McIntyre|0.025974 1978|0.012987 |0",
+			"previous_weights": " Now|0 the|0.125 Stokes|0.25 drift|0.375 velocity|0.5 S|0.625 equals|0.75 5|0.875 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "375241f37a0c4012b3e7805bde96c48c48afb80173aeaf4721abd119f626c87e",
+			"url": "https://upload.wikimedia.org/math/b/c/7/bc758899e5a20863d78ea626781d19ae.png",
+			"previous": " These forces contribute to thrust T on the blade  where  The forces of lift and drag on the blade dA where force normal to the surface is dL ",
+			"after": " where  These forces contribute to thrust T on the blade  where ",
+			"color": "dim|0.41181 gray|0.41181 dim|0.41181 grey|0.41181 gray|0.27156 grey|0.27156 dark|0.16825 gray|0.16825 dark|0.16825 grey|0.16825 silver|0.071432 light|0.035587 gray|0.035587 light|0.035587 grey|0.035587 gainsboro|0.023432 black|0.0048491 white|0.0035432 smoke|0.0035432  ",
+			"after_weights": " where|1 |0.92308 These|0.84615 forces|0.76923 contribute|0.69231 to|0.61538 thrust|0.53846 T|0.46154 on|0.38462 the|0.30769 blade|0.23077 |0.15385 where|0.076923 |0",
+			"previous_weights": " These|0 forces|0.033333 contribute|0.066667 to|0.1 thrust|0.13333 T|0.16667 on|0.2 the|0.23333 blade|0.26667 |0.3 where|0.33333 |0.36667 The|0.4 forces|0.43333 of|0.46667 lift|0.5 and|0.53333 drag|0.56667 on|0.6 the|0.63333 blade|0.66667 dA|0.7 where|0.73333 force|0.76667 normal|0.8 to|0.83333 the|0.86667 surface|0.9 is|0.93333 dL|0.96667 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "892294d283d28f3b76d90dc192ed5033bb4bb84bfd6a3f6a8ae4f0d69aec995f",
+			"url": "https://upload.wikimedia.org/math/2/f/c/2fc370e5971e3e3e284088486efa7f67.png",
+			"previous": " Let be a basis of V i e a set of n linearly independent vectors that span the n dimensional vector space V The basis that is dual to is the set of elements of the dual vector space V that forms a biorthogonal system with this basis thus being the elements denoted satisfying",
+			"after": " where is the Kronecker delta ",
+			"color": "dim|0.44011 gray|0.44011 dim|0.44011 grey|0.44011 gray|0.26516 grey|0.26516 dark|0.15123 gray|0.15123 dark|0.15123 grey|0.15123 silver|0.054957 black|0.03585 light|0.024723 gray|0.024723 light|0.024723 grey|0.024723 gainsboro|0.015813  ",
+			"after_weights": " where|1 is|0.8 the|0.6 Kronecker|0.4 delta|0.2 |0",
+			"previous_weights": " Let|0 be|0.018868 a|0.037736 basis|0.056604 of|0.075472 V|0.09434 i|0.11321 e|0.13208 a|0.15094 set|0.16981 of|0.18868 n|0.20755 linearly|0.22642 independent|0.24528 vectors|0.26415 that|0.28302 span|0.30189 the|0.32075 n|0.33962 dimensional|0.35849 vector|0.37736 space|0.39623 V|0.41509 The|0.43396 basis|0.45283 that|0.4717 is|0.49057 dual|0.50943 to|0.5283 is|0.54717 the|0.56604 set|0.58491 of|0.60377 elements|0.62264 of|0.64151 the|0.66038 dual|0.67925 vector|0.69811 space|0.71698 V|0.73585 that|0.75472 forms|0.77358 a|0.79245 biorthogonal|0.81132 system|0.83019 with|0.84906 this|0.86792 basis|0.88679 thus|0.90566 being|0.92453 the|0.9434 elements|0.96226 denoted|0.98113 satisfying|1"
+		}
+	}
+}

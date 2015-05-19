@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b2f617d1f7c0555307f08c4e9532af06f6a548078fec882e962d729574877a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/US_Registration_Closeup.jpg/220px-US_Registration_Closeup.jpg",
+			"previous": " ",
+			"after": " An older aircraft registered before 31 December 1948 may have a second letter in its identifier identifying the category of aircraft This additional letter is not actually part of the aircraft identification e g NC12345 is the same registration as N12345 Aircraft category letters have not been included on any registration numbers issued since 1 January 1949 but they still appear on antique aircraft for authenticity purposes The categories were ",
+			"color": "gray|0.41502 grey|0.41502 dark|0.094689 gray|0.094689 dark|0.094689 grey|0.094689 silver|0.063961 dim|0.061416 gray|0.061416 dim|0.061416 grey|0.061416 light|0.060568 gray|0.060568 light|0.060568 grey|0.060568 gainsboro|0.051613 linen|0.03282 antique|0.025168 white|0.025168 sea|0.025165 shell|0.025165 old|0.024083 lace|0.024083 white|0.020883 smoke|0.020883 floral|0.020749 white|0.020749 black|0.019825 misty|0.017048 rose|0.017048 snow|0.016635 ivory|0.01263 white|0.0092732 mint|0.0089534 cream|0.0089534 lavender|0.0087004 blush|0.0087004  ",
+			"after_weights": " An|1 older|0.98571 aircraft|0.97143 registered|0.95714 before|0.94286 31|0.92857 December|0.91429 1948|0.9 may|0.88571 have|0.87143 a|0.85714 second|0.84286 letter|0.82857 in|0.81429 its|0.8 identifier|0.78571 identifying|0.77143 the|0.75714 category|0.74286 of|0.72857 aircraft|0.71429 This|0.7 additional|0.68571 letter|0.67143 is|0.65714 not|0.64286 actually|0.62857 part|0.61429 of|0.6 the|0.58571 aircraft|0.57143 identification|0.55714 e|0.54286 g|0.52857 NC12345|0.51429 is|0.5 the|0.48571 same|0.47143 registration|0.45714 as|0.44286 N12345|0.42857 Aircraft|0.41429 category|0.4 letters|0.38571 have|0.37143 not|0.35714 been|0.34286 included|0.32857 on|0.31429 any|0.3 registration|0.28571 numbers|0.27143 issued|0.25714 since|0.24286 1|0.22857 January|0.21429 1949|0.2 but|0.18571 they|0.17143 still|0.15714 appear|0.14286 on|0.12857 antique|0.11429 aircraft|0.1 for|0.085714 authenticity|0.071429 purposes|0.057143 The|0.042857 categories|0.028571 were|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "37ca3dd513c51c4a90fb702cb0cbe7dd140f629dad62566363e6c2a94fb22298",
+			"url": "https://upload.wikimedia.org/math/1/c/d/1cd7ae30122d40383867a5609f1de332.png",
+			"previous": " Note that with Equation 2 we have and while in Cardano s method we have set and Thus we have up to the exchange of and ",
+			"after": " In other words in this case Cardano s and Lagrange s method compute exactly the same things up to a factor of three in the auxiliary variables the main difference being that Lagrange s method explains why these auxiliary variables appear in the problem ",
+			"color": "dim|0.38361 gray|0.38361 dim|0.38361 grey|0.38361 gray|0.28577 grey|0.28577 dark|0.17301 gray|0.17301 dark|0.17301 grey|0.17301 silver|0.076884 light|0.039456 gray|0.039456 light|0.039456 grey|0.039456 gainsboro|0.028374 white|0.0034929 smoke|0.0034929  ",
+			"after_weights": " In|1 other|0.97727 words|0.95455 in|0.93182 this|0.90909 case|0.88636 Cardano|0.86364 s|0.84091 and|0.81818 Lagrange|0.79545 s|0.77273 method|0.75 compute|0.72727 exactly|0.70455 the|0.68182 same|0.65909 things|0.63636 up|0.61364 to|0.59091 a|0.56818 factor|0.54545 of|0.52273 three|0.5 in|0.47727 the|0.45455 auxiliary|0.43182 variables|0.40909 the|0.38636 main|0.36364 difference|0.34091 being|0.31818 that|0.29545 Lagrange|0.27273 s|0.25 method|0.22727 explains|0.20455 why|0.18182 these|0.15909 auxiliary|0.13636 variables|0.11364 appear|0.090909 in|0.068182 the|0.045455 problem|0.022727 |0",
+			"previous_weights": " Note|0 that|0.038462 with|0.076923 Equation|0.11538 2|0.15385 we|0.19231 have|0.23077 and|0.26923 while|0.30769 in|0.34615 Cardano|0.38462 s|0.42308 method|0.46154 we|0.5 have|0.53846 set|0.57692 and|0.61538 Thus|0.65385 we|0.69231 have|0.73077 up|0.76923 to|0.80769 the|0.84615 exchange|0.88462 of|0.92308 and|0.96154 |1"
+		}
+	}
+}

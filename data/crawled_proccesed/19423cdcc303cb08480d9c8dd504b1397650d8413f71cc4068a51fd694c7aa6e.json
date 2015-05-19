@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "19423cdcc303cb08480d9c8dd504b1397650d8413f71cc4068a51fd694c7aa6e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/St_Helens_and_nearby_area_from_space.jpg/220px-St_Helens_and_nearby_area_from_space.jpg",
+			"previous": " ",
+			"after": " Mount St Helens is 45 miles 72 km west of Mount Adams in the western part of the Cascade Range These sister and brother volcanic mountains are approximately 50 miles 80 km from Mount Rainier the highest of Cascade volcanoes Mount Hood the nearest major volcanic peak in Oregon is 60 miles 100 km southeast of Mount St Helens ",
+			"color": "gray|0.44709 grey|0.44709 dim|0.27986 gray|0.27986 dim|0.27986 grey|0.27986 dark|0.085584 gray|0.085584 dark|0.085584 grey|0.085584 slate|0.074187 gray|0.074187 light|0.028896 slate|0.028896 gray|0.028896 rosy|0.019979 brown|0.019979 silver|0.014755 dark|0.01129 khaki|0.01129 yellow|0.0073101  ",
+			"after_weights": " Mount|1 St|0.98305 Helens|0.9661 is|0.94915 45|0.9322 miles|0.91525 72|0.89831 km|0.88136 west|0.86441 of|0.84746 Mount|0.83051 Adams|0.81356 in|0.79661 the|0.77966 western|0.76271 part|0.74576 of|0.72881 the|0.71186 Cascade|0.69492 Range|0.67797 These|0.66102 sister|0.64407 and|0.62712 brother|0.61017 volcanic|0.59322 mountains|0.57627 are|0.55932 approximately|0.54237 50|0.52542 miles|0.50847 80|0.49153 km|0.47458 from|0.45763 Mount|0.44068 Rainier|0.42373 the|0.40678 highest|0.38983 of|0.37288 Cascade|0.35593 volcanoes|0.33898 Mount|0.32203 Hood|0.30508 the|0.28814 nearest|0.27119 major|0.25424 volcanic|0.23729 peak|0.22034 in|0.20339 Oregon|0.18644 is|0.16949 60|0.15254 miles|0.13559 100|0.11864 km|0.10169 southeast|0.084746 of|0.067797 Mount|0.050847 St|0.033898 Helens|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

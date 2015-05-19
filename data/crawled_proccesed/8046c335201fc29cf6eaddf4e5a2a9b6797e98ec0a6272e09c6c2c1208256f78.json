@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8046c335201fc29cf6eaddf4e5a2a9b6797e98ec0a6272e09c6c2c1208256f78",
+			"url": "https://upload.wikimedia.org/math/3/8/7/387ee7157e0418cc08de488449882c79.png",
+			"previous": " The central angle is  The great circle chord length may be calculated as follows for the corresponding unit sphere by means of Cartesian subtraction ",
+			"after": " The great circle distance is  In this last formula the central angle must be in radians Alternatively when working in nautical miles the distance may be calculated directly by converting the central angle in degrees to minutes i e multiply by 60 ",
+			"color": "dim|0.44679 gray|0.44679 dim|0.44679 grey|0.44679 gray|0.28869 grey|0.28869 dark|0.15175 gray|0.15175 dark|0.15175 grey|0.15175 silver|0.058276 light|0.025381 gray|0.025381 light|0.025381 grey|0.025381 gainsboro|0.017083  ",
+			"after_weights": " The|1 great|0.97674 circle|0.95349 distance|0.93023 is|0.90698 |0.88372 In|0.86047 this|0.83721 last|0.81395 formula|0.7907 the|0.76744 central|0.74419 angle|0.72093 must|0.69767 be|0.67442 in|0.65116 radians|0.62791 Alternatively|0.60465 when|0.5814 working|0.55814 in|0.53488 nautical|0.51163 miles|0.48837 the|0.46512 distance|0.44186 may|0.4186 be|0.39535 calculated|0.37209 directly|0.34884 by|0.32558 converting|0.30233 the|0.27907 central|0.25581 angle|0.23256 in|0.2093 degrees|0.18605 to|0.16279 minutes|0.13953 i|0.11628 e|0.093023 multiply|0.069767 by|0.046512 60|0.023256 |0",
+			"previous_weights": " The|0 central|0.04 angle|0.08 is|0.12 |0.16 The|0.2 great|0.24 circle|0.28 chord|0.32 length|0.36 may|0.4 be|0.44 calculated|0.48 as|0.52 follows|0.56 for|0.6 the|0.64 corresponding|0.68 unit|0.72 sphere|0.76 by|0.8 means|0.84 of|0.88 Cartesian|0.92 subtraction|0.96 |1"
+		}
+	}
+}

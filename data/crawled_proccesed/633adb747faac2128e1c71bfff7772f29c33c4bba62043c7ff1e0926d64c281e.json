@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "633adb747faac2128e1c71bfff7772f29c33c4bba62043c7ff1e0926d64c281e",
+			"url": "https://upload.wikimedia.org/math/e/9/f/e9f864e79e4159d97e3e77133ead0796.png",
+			"previous": " Systems with more variables than the number of linear equations are called underdetermined Such a system if it has any solutions does not have a unique one but rather an infinitude of them An example of such a system is",
+			"after": " When trying to solve it one is led to express some variables as functions of the other ones if any solutions exist but cannot express all solutions numerically because there are an infinite number of them if there are any ",
+			"color": "dim|0.40657 gray|0.40657 dim|0.40657 grey|0.40657 gray|0.28442 grey|0.28442 dark|0.16702 gray|0.16702 dark|0.16702 grey|0.16702 silver|0.067303 light|0.033707 gray|0.033707 light|0.033707 grey|0.033707 gainsboro|0.022636 black|0.0058243  ",
+			"after_weights": " When|1 trying|0.975 to|0.95 solve|0.925 it|0.9 one|0.875 is|0.85 led|0.825 to|0.8 express|0.775 some|0.75 variables|0.725 as|0.7 functions|0.675 of|0.65 the|0.625 other|0.6 ones|0.575 if|0.55 any|0.525 solutions|0.5 exist|0.475 but|0.45 cannot|0.425 express|0.4 all|0.375 solutions|0.35 numerically|0.325 because|0.3 there|0.275 are|0.25 an|0.225 infinite|0.2 number|0.175 of|0.15 them|0.125 if|0.1 there|0.075 are|0.05 any|0.025 |0",
+			"previous_weights": " Systems|0 with|0.025641 more|0.051282 variables|0.076923 than|0.10256 the|0.12821 number|0.15385 of|0.17949 linear|0.20513 equations|0.23077 are|0.25641 called|0.28205 underdetermined|0.30769 Such|0.33333 a|0.35897 system|0.38462 if|0.41026 it|0.4359 has|0.46154 any|0.48718 solutions|0.51282 does|0.53846 not|0.5641 have|0.58974 a|0.61538 unique|0.64103 one|0.66667 but|0.69231 rather|0.71795 an|0.74359 infinitude|0.76923 of|0.79487 them|0.82051 An|0.84615 example|0.87179 of|0.89744 such|0.92308 a|0.94872 system|0.97436 is|1"
+		}
+	}
+}

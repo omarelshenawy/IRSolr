@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8db2b4cafa1a43d47389686d1cee16419355019de816066b4077aa7635b8b88b",
+			"url": "https://upload.wikimedia.org/math/f/a/3/fa3ccb4a5af5287a2b0d091d0875b201.png",
+			"previous": " ",
+			"after": " Conversely if is diagonalizable let be a non singular square matrix such that is some diagonal matrix Multiplying both sides on the left by we get Therefore each column of must be an eigenvector of whose eigenvalue is the corresponding element on the diagonal of Since the columns of must be linearly independent it follows that Thus is equal to if and only if is diagonalizable ",
+			"color": " ",
+			"after_weights": " Conversely|1 if|0.98485 is|0.9697 diagonalizable|0.95455 let|0.93939 be|0.92424 a|0.90909 non|0.89394 singular|0.87879 square|0.86364 matrix|0.84848 such|0.83333 that|0.81818 is|0.80303 some|0.78788 diagonal|0.77273 matrix|0.75758 Multiplying|0.74242 both|0.72727 sides|0.71212 on|0.69697 the|0.68182 left|0.66667 by|0.65152 we|0.63636 get|0.62121 Therefore|0.60606 each|0.59091 column|0.57576 of|0.56061 must|0.54545 be|0.5303 an|0.51515 eigenvector|0.5 of|0.48485 whose|0.4697 eigenvalue|0.45455 is|0.43939 the|0.42424 corresponding|0.40909 element|0.39394 on|0.37879 the|0.36364 diagonal|0.34848 of|0.33333 Since|0.31818 the|0.30303 columns|0.28788 of|0.27273 must|0.25758 be|0.24242 linearly|0.22727 independent|0.21212 it|0.19697 follows|0.18182 that|0.16667 Thus|0.15152 is|0.13636 equal|0.12121 to|0.10606 if|0.090909 and|0.075758 only|0.060606 if|0.045455 is|0.030303 diagonalizable|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

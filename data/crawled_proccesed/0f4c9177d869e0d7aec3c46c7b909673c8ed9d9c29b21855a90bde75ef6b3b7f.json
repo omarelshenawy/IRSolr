@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f4c9177d869e0d7aec3c46c7b909673c8ed9d9c29b21855a90bde75ef6b3b7f",
+			"url": "https://upload.wikimedia.org/math/1/9/2/1926b72edab70874defb54739c1d22c4.png",
+			"previous": " In order to illustrate this process consider the problem of finding the extremal function y f x which is the shortest curve that connects two points x1 y1 and x2 y2 The arc length of the curve is given by",
+			"after": " with",
+			"color": "dim|0.3188 gray|0.3188 dim|0.3188 grey|0.3188 gray|0.28567 grey|0.28567 dark|0.19268 gray|0.19268 dark|0.19268 grey|0.19268 silver|0.085747 light|0.048429 gray|0.048429 light|0.048429 grey|0.048429 gainsboro|0.035182 white|0.0072487 smoke|0.0072487 linen|0.0051542 lavender|0.0049139 blush|0.0049139 alice|0.0039006 blue|0.0039006 ghost|0.0037057 white|0.0037057 sea|0.0028892 shell|0.0028892  ",
+			"after_weights": " with|0",
+			"previous_weights": " In|0 order|0.025641 to|0.051282 illustrate|0.076923 this|0.10256 process|0.12821 consider|0.15385 the|0.17949 problem|0.20513 of|0.23077 finding|0.25641 the|0.28205 extremal|0.30769 function|0.33333 y|0.35897 f|0.38462 x|0.41026 which|0.4359 is|0.46154 the|0.48718 shortest|0.51282 curve|0.53846 that|0.5641 connects|0.58974 two|0.61538 points|0.64103 x1|0.66667 y1|0.69231 and|0.71795 x2|0.74359 y2|0.76923 The|0.79487 arc|0.82051 length|0.84615 of|0.87179 the|0.89744 curve|0.92308 is|0.94872 given|0.97436 by|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17f7992479c1545d4ec6738b921d20c0439eeabb69d0de020bb61b4e40849500",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fokker70-lba.jpg/220px-Fokker70-lba.jpg",
+			"previous": " KLM s head office is located in Amstelveen 35 36 on a 16 acre 6 5 ha site near Schiphol Airport The current KLM headquarters was built between 1968 and 1970 37 Before the opening of the new headquarters the airline s head office was on the property of Schiphol Airport in the Haarlemmermeer 38 ",
+			"after": " Companies with a major KLM stake include 39 ",
+			"color": "gray|0.25531 grey|0.25531 dim|0.24182 gray|0.24182 dim|0.24182 grey|0.24182 dark|0.1517 slate|0.1517 gray|0.1517 deep|0.067179 sky|0.067179 blue|0.067179 dark|0.066515 olive|0.066515 green|0.066515 dark|0.05367 gray|0.05367 dark|0.05367 grey|0.05367 black|0.039523 dodger|0.025764 blue|0.025764 slate|0.021461 gray|0.021461 light|0.020914 slate|0.020914 gray|0.020914 silver|0.013128 steel|0.0064911 blue|0.0064911  ",
+			"after_weights": " Companies|1 with|0.875 a|0.75 major|0.625 KLM|0.5 stake|0.375 include|0.25 39|0.125 |0",
+			"previous_weights": " KLM|0 s|0.018182 head|0.036364 office|0.054545 is|0.072727 located|0.090909 in|0.10909 Amstelveen|0.12727 35|0.14545 36|0.16364 on|0.18182 a|0.2 16|0.21818 acre|0.23636 6|0.25455 5|0.27273 ha|0.29091 site|0.30909 near|0.32727 Schiphol|0.34545 Airport|0.36364 The|0.38182 current|0.4 KLM|0.41818 headquarters|0.43636 was|0.45455 built|0.47273 between|0.49091 1968|0.50909 and|0.52727 1970|0.54545 37|0.56364 Before|0.58182 the|0.6 opening|0.61818 of|0.63636 the|0.65455 new|0.67273 headquarters|0.69091 the|0.70909 airline|0.72727 s|0.74545 head|0.76364 office|0.78182 was|0.8 on|0.81818 the|0.83636 property|0.85455 of|0.87273 Schiphol|0.89091 Airport|0.90909 in|0.92727 the|0.94545 Haarlemmermeer|0.96364 38|0.98182 |1"
+		}
+	}
+}

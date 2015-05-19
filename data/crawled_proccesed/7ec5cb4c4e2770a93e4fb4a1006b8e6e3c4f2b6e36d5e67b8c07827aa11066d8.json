@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ec5cb4c4e2770a93e4fb4a1006b8e6e3c4f2b6e36d5e67b8c07827aa11066d8",
+			"url": "https://upload.wikimedia.org/math/8/1/5/815d5cb81569cb98c8a4a3d87a2ca7b2.png",
+			"previous": " and the volume is the surface area times or Another expression for the surface area is",
+			"after": " More generally in a metric space E d the sphere of center x and radius r 0 is the set of points y such that d x y r  If the center is a distinguished point that is considered to be the origin of E as in a normed space it is not mentioned in the definition and notation The same applies for the radius if it is taken to equal one as in the case of a unit sphere ",
+			"color": "gray|0.34333 grey|0.34333 dim|0.26463 gray|0.26463 dim|0.26463 grey|0.26463 dark|0.2002 gray|0.2002 dark|0.2002 grey|0.2002 silver|0.093575 light|0.041896 gray|0.041896 light|0.041896 grey|0.041896 gainsboro|0.030504 white|0.0050132 smoke|0.0050132 alice|0.0028913 blue|0.0028913 lavender|0.0028913 blush|0.0028913 ghost|0.002786 white|0.002786  ",
+			"after_weights": " More|1 generally|0.98765 in|0.97531 a|0.96296 metric|0.95062 space|0.93827 E|0.92593 d|0.91358 the|0.90123 sphere|0.88889 of|0.87654 center|0.8642 x|0.85185 and|0.83951 radius|0.82716 r|0.81481 0|0.80247 is|0.79012 the|0.77778 set|0.76543 of|0.75309 points|0.74074 y|0.7284 such|0.71605 that|0.7037 d|0.69136 x|0.67901 y|0.66667 r|0.65432 |0.64198 If|0.62963 the|0.61728 center|0.60494 is|0.59259 a|0.58025 distinguished|0.5679 point|0.55556 that|0.54321 is|0.53086 considered|0.51852 to|0.50617 be|0.49383 the|0.48148 origin|0.46914 of|0.45679 E|0.44444 as|0.4321 in|0.41975 a|0.40741 normed|0.39506 space|0.38272 it|0.37037 is|0.35802 not|0.34568 mentioned|0.33333 in|0.32099 the|0.30864 definition|0.2963 and|0.28395 notation|0.2716 The|0.25926 same|0.24691 applies|0.23457 for|0.22222 the|0.20988 radius|0.19753 if|0.18519 it|0.17284 is|0.16049 taken|0.14815 to|0.1358 equal|0.12346 one|0.11111 as|0.098765 in|0.08642 the|0.074074 case|0.061728 of|0.049383 a|0.037037 unit|0.024691 sphere|0.012346 |0",
+			"previous_weights": " and|0 the|0.066667 volume|0.13333 is|0.2 the|0.26667 surface|0.33333 area|0.4 times|0.46667 or|0.53333 Another|0.6 expression|0.66667 for|0.73333 the|0.8 surface|0.86667 area|0.93333 is|1"
+		}
+	}
+}

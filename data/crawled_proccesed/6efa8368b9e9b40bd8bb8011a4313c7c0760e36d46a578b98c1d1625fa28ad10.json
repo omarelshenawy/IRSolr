@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6efa8368b9e9b40bd8bb8011a4313c7c0760e36d46a578b98c1d1625fa28ad10",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/WestJetYEG.jpg/400px-WestJetYEG.jpg",
+			"previous": " WestJet Encore is WestJet s subsidiary regional airline which commenced operations on June 24 2013 with a fleet of Bombardier Q400 twin turboprop aircraft 40 ",
+			"after": " WestJet and WestJet Encore currently fly to 90 destinations in 20 countries throughout North and Central America the Caribbean and Europe including 36 cities in Canada and 21 in the United States WestJet s largest hub in terms of daily departures is Toronto Pearson International Airport the airline s main connection point in Eastern Canada ",
+			"color": "dim|0.44766 gray|0.44766 dim|0.44766 grey|0.44766 gray|0.27324 grey|0.27324 black|0.088794 dark|0.064451 gray|0.064451 dark|0.064451 grey|0.064451 slate|0.039415 gray|0.039415 light|0.024953 slate|0.024953 gray|0.024953 silver|0.021959  ",
+			"after_weights": " WestJet|1 and|0.98182 WestJet|0.96364 Encore|0.94545 currently|0.92727 fly|0.90909 to|0.89091 90|0.87273 destinations|0.85455 in|0.83636 20|0.81818 countries|0.8 throughout|0.78182 North|0.76364 and|0.74545 Central|0.72727 America|0.70909 the|0.69091 Caribbean|0.67273 and|0.65455 Europe|0.63636 including|0.61818 36|0.6 cities|0.58182 in|0.56364 Canada|0.54545 and|0.52727 21|0.50909 in|0.49091 the|0.47273 United|0.45455 States|0.43636 WestJet|0.41818 s|0.4 largest|0.38182 hub|0.36364 in|0.34545 terms|0.32727 of|0.30909 daily|0.29091 departures|0.27273 is|0.25455 Toronto|0.23636 Pearson|0.21818 International|0.2 Airport|0.18182 the|0.16364 airline|0.14545 s|0.12727 main|0.10909 connection|0.090909 point|0.072727 in|0.054545 Eastern|0.036364 Canada|0.018182 |0",
+			"previous_weights": " WestJet|0 Encore|0.04 is|0.08 WestJet|0.12 s|0.16 subsidiary|0.2 regional|0.24 airline|0.28 which|0.32 commenced|0.36 operations|0.4 on|0.44 June|0.48 24|0.52 2013|0.56 with|0.6 a|0.64 fleet|0.68 of|0.72 Bombardier|0.76 Q400|0.8 twin|0.84 turboprop|0.88 aircraft|0.92 40|0.96 |1"
+		}
+	}
+}

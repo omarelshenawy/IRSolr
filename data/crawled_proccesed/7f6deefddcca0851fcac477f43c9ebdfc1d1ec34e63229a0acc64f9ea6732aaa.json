@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f6deefddcca0851fcac477f43c9ebdfc1d1ec34e63229a0acc64f9ea6732aaa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Croatian_Academy_of_Science_and_Arts.JPG/220px-Croatian_Academy_of_Science_and_Arts.JPG",
+			"previous": " Other museums and galleries",
+			"after": " Valuable historical collections are also found in the Croatian School Museum the Croatian Hunting Museum the Croatian Sports Museum the Croatian Post and Telecommunications Museum the HAZU Croatian Academy of Sciences and Arts Glyptotheque collection of monuments and the HAZU Graphics Cabinet ",
+			"color": "gray|0.30572 grey|0.30572 dim|0.26354 gray|0.26354 dim|0.26354 grey|0.26354 dark|0.14352 gray|0.14352 dark|0.14352 grey|0.14352 silver|0.049186 black|0.045551 light|0.028849 gray|0.028849 light|0.028849 grey|0.028849 gainsboro|0.021014 dark|0.017809 olive|0.017809 green|0.017809 slate|0.014998 gray|0.014998 dark|0.012952 slate|0.012952 gray|0.012952 light|0.011552 slate|0.011552 gray|0.011552 white|0.0075189 smoke|0.0075189 linen|0.0056873 olive|0.0056446 drab|0.0056446  ",
+			"after_weights": " Valuable|1 historical|0.97619 collections|0.95238 are|0.92857 also|0.90476 found|0.88095 in|0.85714 the|0.83333 Croatian|0.80952 School|0.78571 Museum|0.7619 the|0.7381 Croatian|0.71429 Hunting|0.69048 Museum|0.66667 the|0.64286 Croatian|0.61905 Sports|0.59524 Museum|0.57143 the|0.54762 Croatian|0.52381 Post|0.5 and|0.47619 Telecommunications|0.45238 Museum|0.42857 the|0.40476 HAZU|0.38095 Croatian|0.35714 Academy|0.33333 of|0.30952 Sciences|0.28571 and|0.2619 Arts|0.2381 Glyptotheque|0.21429 collection|0.19048 of|0.16667 monuments|0.14286 and|0.11905 the|0.095238 HAZU|0.071429 Graphics|0.047619 Cabinet|0.02381 |0",
+			"previous_weights": " Other|0 museums|0.33333 and|0.66667 galleries|1"
+		}
+	}
+}

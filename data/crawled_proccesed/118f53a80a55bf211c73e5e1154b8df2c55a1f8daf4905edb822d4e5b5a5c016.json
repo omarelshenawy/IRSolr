@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "118f53a80a55bf211c73e5e1154b8df2c55a1f8daf4905edb822d4e5b5a5c016",
+			"url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Compressors_Feed_Design.gif",
+			"previous": " ",
+			"after": " The signal entering a compressor is split one copy sent to a variable gain amplifier and the other to a side chain where a circuit controlled by the signal level applies the required gain to an amplifier stage This design known as a feed forward type is used today in most compressors Earlier designs were based on a feedback layout where the signal feeding the control circuit was taken after the amplifier ",
+			"color": " ",
+			"after_weights": " The|1 signal|0.98611 entering|0.97222 a|0.95833 compressor|0.94444 is|0.93056 split|0.91667 one|0.90278 copy|0.88889 sent|0.875 to|0.86111 a|0.84722 variable|0.83333 gain|0.81944 amplifier|0.80556 and|0.79167 the|0.77778 other|0.76389 to|0.75 a|0.73611 side|0.72222 chain|0.70833 where|0.69444 a|0.68056 circuit|0.66667 controlled|0.65278 by|0.63889 the|0.625 signal|0.61111 level|0.59722 applies|0.58333 the|0.56944 required|0.55556 gain|0.54167 to|0.52778 an|0.51389 amplifier|0.5 stage|0.48611 This|0.47222 design|0.45833 known|0.44444 as|0.43056 a|0.41667 feed|0.40278 forward|0.38889 type|0.375 is|0.36111 used|0.34722 today|0.33333 in|0.31944 most|0.30556 compressors|0.29167 Earlier|0.27778 designs|0.26389 were|0.25 based|0.23611 on|0.22222 a|0.20833 feedback|0.19444 layout|0.18056 where|0.16667 the|0.15278 signal|0.13889 feeding|0.125 the|0.11111 control|0.097222 circuit|0.083333 was|0.069444 taken|0.055556 after|0.041667 the|0.027778 amplifier|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

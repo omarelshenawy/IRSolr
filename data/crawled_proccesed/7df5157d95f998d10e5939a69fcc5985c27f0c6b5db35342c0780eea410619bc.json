@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7df5157d95f998d10e5939a69fcc5985c27f0c6b5db35342c0780eea410619bc",
+			"url": "https://upload.wikimedia.org/math/4/3/a/43af138a0672646cd8a635028b2434a5.png",
+			"previous": " This matrix shifts the coordinates of the vector up by one position and moves the first coordinate to the bottom Its characteristic polynomial is which has one real root Any vector with three equal non zero coordinates is an eigenvector for this eigenvalue For example ",
+			"after": " ",
+			"color": "dim|0.74676 gray|0.74676 dim|0.74676 grey|0.74676 gray|0.16762 grey|0.16762 dark|0.064063 gray|0.064063 dark|0.064063 grey|0.064063 silver|0.015268  ",
+			"after_weights": " ",
+			"previous_weights": " This|0 matrix|0.022222 shifts|0.044444 the|0.066667 coordinates|0.088889 of|0.11111 the|0.13333 vector|0.15556 up|0.17778 by|0.2 one|0.22222 position|0.24444 and|0.26667 moves|0.28889 the|0.31111 first|0.33333 coordinate|0.35556 to|0.37778 the|0.4 bottom|0.42222 Its|0.44444 characteristic|0.46667 polynomial|0.48889 is|0.51111 which|0.53333 has|0.55556 one|0.57778 real|0.6 root|0.62222 Any|0.64444 vector|0.66667 with|0.68889 three|0.71111 equal|0.73333 non|0.75556 zero|0.77778 coordinates|0.8 is|0.82222 an|0.84444 eigenvector|0.86667 for|0.88889 this|0.91111 eigenvalue|0.93333 For|0.95556 example|0.97778 |1"
+		}
+	}
+}

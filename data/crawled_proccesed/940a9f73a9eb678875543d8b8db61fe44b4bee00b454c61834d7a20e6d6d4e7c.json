@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "940a9f73a9eb678875543d8b8db61fe44b4bee00b454c61834d7a20e6d6d4e7c",
+			"url": "https://upload.wikimedia.org/math/8/9/c/89c2502a1145de93a7e37353d6c1600d.png",
+			"previous": " It follows from this definition that an almost complex manifold is even dimensional  Complex differential geometry is the study of complex manifolds An almost complex manifold is a real manifold endowed with a tensor of type 1 1 i e a vector bundle endomorphism called an almost complex structure ",
+			"after": " An almost Hermitian structure defines naturally a differential two form",
+			"color": "dim|0.32107 gray|0.32107 dim|0.32107 grey|0.32107 gray|0.3016 grey|0.3016 dark|0.17771 gray|0.17771 dark|0.17771 grey|0.17771 silver|0.091695 light|0.050944 gray|0.050944 light|0.050944 grey|0.050944 gainsboro|0.035936 white|0.0057145 smoke|0.0057145 linen|0.003089  ",
+			"after_weights": " An|1 almost|0.88889 Hermitian|0.77778 structure|0.66667 defines|0.55556 naturally|0.44444 a|0.33333 differential|0.22222 two|0.11111 form|0",
+			"previous_weights": " It|0 follows|0.02 from|0.04 this|0.06 definition|0.08 that|0.1 an|0.12 almost|0.14 complex|0.16 manifold|0.18 is|0.2 even|0.22 dimensional|0.24 |0.26 Complex|0.28 differential|0.3 geometry|0.32 is|0.34 the|0.36 study|0.38 of|0.4 complex|0.42 manifolds|0.44 An|0.46 almost|0.48 complex|0.5 manifold|0.52 is|0.54 a|0.56 real|0.58 manifold|0.6 endowed|0.62 with|0.64 a|0.66 tensor|0.68 of|0.7 type|0.72 1|0.74 1|0.76 i|0.78 e|0.8 a|0.82 vector|0.84 bundle|0.86 endomorphism|0.88 called|0.9 an|0.92 almost|0.94 complex|0.96 structure|0.98 |1"
+		}
+	}
+}

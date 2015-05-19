@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6714a07399304d46bc72aa8f628a45177951064f7e94563ef7c143774c9ba7b8",
+			"url": "https://upload.wikimedia.org/math/7/c/6/7c6519fd38b1dd0e47d5fc3bc6d923ec.png",
+			"previous": " When the latitude difference is 1 degree corresponding to 180 radians the arc distance is about",
+			"after": " The variation of this distance with latitude on WGS84 is shown in the table along with the length of a degree of longitude ",
+			"color": "dim|0.49425 gray|0.49425 dim|0.49425 grey|0.49425 gray|0.28039 grey|0.28039 dark|0.1329 gray|0.1329 dark|0.1329 grey|0.1329 silver|0.051799 light|0.02121 gray|0.02121 light|0.02121 grey|0.02121 gainsboro|0.013509  ",
+			"after_weights": " The|1 variation|0.95652 of|0.91304 this|0.86957 distance|0.82609 with|0.78261 latitude|0.73913 on|0.69565 WGS84|0.65217 is|0.6087 shown|0.56522 in|0.52174 the|0.47826 table|0.43478 along|0.3913 with|0.34783 the|0.30435 length|0.26087 of|0.21739 a|0.17391 degree|0.13043 of|0.086957 longitude|0.043478 |0",
+			"previous_weights": " When|0 the|0.066667 latitude|0.13333 difference|0.2 is|0.26667 1|0.33333 degree|0.4 corresponding|0.46667 to|0.53333 180|0.6 radians|0.66667 the|0.73333 arc|0.8 distance|0.86667 is|0.93333 about|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "53bab1b989b665282e1a42bf47f605024540ca9714e6c9d58dfb6f3c48d83456",
+			"url": "https://upload.wikimedia.org/math/9/f/1/9f145643dec897b150c7f5ff665cd36f.png",
+			"previous": " An important object of study in functional analysis are the continuous linear operators defined on Banach and Hilbert spaces These lead naturally to the definition of C algebras and other operator algebras ",
+			"after": " General Banach spaces are more complicated than Hilbert spaces and cannot be classified in such a simple manner as those In particular many Banach spaces lack a notion analogous to an orthonormal basis ",
+			"color": " ",
+			"after_weights": " General|1 Banach|0.9697 spaces|0.93939 are|0.90909 more|0.87879 complicated|0.84848 than|0.81818 Hilbert|0.78788 spaces|0.75758 and|0.72727 cannot|0.69697 be|0.66667 classified|0.63636 in|0.60606 such|0.57576 a|0.54545 simple|0.51515 manner|0.48485 as|0.45455 those|0.42424 In|0.39394 particular|0.36364 many|0.33333 Banach|0.30303 spaces|0.27273 lack|0.24242 a|0.21212 notion|0.18182 analogous|0.15152 to|0.12121 an|0.090909 orthonormal|0.060606 basis|0.030303 |0",
+			"previous_weights": " An|0 important|0.03125 object|0.0625 of|0.09375 study|0.125 in|0.15625 functional|0.1875 analysis|0.21875 are|0.25 the|0.28125 continuous|0.3125 linear|0.34375 operators|0.375 defined|0.40625 on|0.4375 Banach|0.46875 and|0.5 Hilbert|0.53125 spaces|0.5625 These|0.59375 lead|0.625 naturally|0.65625 to|0.6875 the|0.71875 definition|0.75 of|0.78125 C|0.8125 algebras|0.84375 and|0.875 other|0.90625 operator|0.9375 algebras|0.96875 |1"
+		}
+	}
+}

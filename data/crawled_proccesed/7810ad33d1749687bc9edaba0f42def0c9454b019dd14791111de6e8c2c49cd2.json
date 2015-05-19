@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7810ad33d1749687bc9edaba0f42def0c9454b019dd14791111de6e8c2c49cd2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lockheed_C-130_Hercules.jpg/220px-Lockheed_C-130_Hercules.jpg",
+			"previous": " ",
+			"after": " In 1943 Lockheed began in secrecy development of a new jet fighter at its Burbank facility This fighter the Lockheed P 80 Shooting Star became the first American jet fighter to score a kill It also recorded the first jet to jet aerial kill downing a Mikoyan Gurevich MiG 15 in Korea although by this time the F 80 as it was redesignated in June 1948 was already considered obsolescent 14 ",
+			"color": "light|0.30057 steel|0.30057 blue|0.30057 dark|0.1669 gray|0.1669 dark|0.1669 grey|0.1669 silver|0.13124 light|0.12683 slate|0.12683 gray|0.12683 slate|0.087811 gray|0.087811 light|0.049353 gray|0.049353 light|0.049353 grey|0.049353 gray|0.033738 grey|0.033738 dim|0.031917 gray|0.031917 dim|0.031917 grey|0.031917 gainsboro|0.022276 lavender|0.020264 black|0.01148  ",
+			"after_weights": " In|1 1943|0.98592 Lockheed|0.97183 began|0.95775 in|0.94366 secrecy|0.92958 development|0.91549 of|0.90141 a|0.88732 new|0.87324 jet|0.85915 fighter|0.84507 at|0.83099 its|0.8169 Burbank|0.80282 facility|0.78873 This|0.77465 fighter|0.76056 the|0.74648 Lockheed|0.73239 P|0.71831 80|0.70423 Shooting|0.69014 Star|0.67606 became|0.66197 the|0.64789 first|0.6338 American|0.61972 jet|0.60563 fighter|0.59155 to|0.57746 score|0.56338 a|0.5493 kill|0.53521 It|0.52113 also|0.50704 recorded|0.49296 the|0.47887 first|0.46479 jet|0.4507 to|0.43662 jet|0.42254 aerial|0.40845 kill|0.39437 downing|0.38028 a|0.3662 Mikoyan|0.35211 Gurevich|0.33803 MiG|0.32394 15|0.30986 in|0.29577 Korea|0.28169 although|0.26761 by|0.25352 this|0.23944 time|0.22535 the|0.21127 F|0.19718 80|0.1831 as|0.16901 it|0.15493 was|0.14085 redesignated|0.12676 in|0.11268 June|0.098592 1948|0.084507 was|0.070423 already|0.056338 considered|0.042254 obsolescent|0.028169 14|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

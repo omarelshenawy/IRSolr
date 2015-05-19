@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a7f90770580143d52f1d31ad1106847f7b6c4cbf7c9d2de76d8cfdc0e52f2af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/15px-Green_check.svg.png",
+			"previous": " However if an article is about an event involving a subject about which there is no main article especially if the article is the target of a redirect the subject should be in bold ",
+			"after": " Links should not be placed in the boldface reiteration of the title in the opening sentence of a lead 9 ",
+			"color": "forest|0.54518 green|0.54518 green|0.4015 dark|0.053321 sea|0.053321 green|0.053321  ",
+			"after_weights": " Links|1 should|0.95 not|0.9 be|0.85 placed|0.8 in|0.75 the|0.7 boldface|0.65 reiteration|0.6 of|0.55 the|0.5 title|0.45 in|0.4 the|0.35 opening|0.3 sentence|0.25 of|0.2 a|0.15 lead|0.1 9|0.05 |0",
+			"previous_weights": " However|0 if|0.029412 an|0.058824 article|0.088235 is|0.11765 about|0.14706 an|0.17647 event|0.20588 involving|0.23529 a|0.26471 subject|0.29412 about|0.32353 which|0.35294 there|0.38235 is|0.41176 no|0.44118 main|0.47059 article|0.5 especially|0.52941 if|0.55882 the|0.58824 article|0.61765 is|0.64706 the|0.67647 target|0.70588 of|0.73529 a|0.76471 redirect|0.79412 the|0.82353 subject|0.85294 should|0.88235 be|0.91176 in|0.94118 bold|0.97059 |1"
+		}
+	}
+}

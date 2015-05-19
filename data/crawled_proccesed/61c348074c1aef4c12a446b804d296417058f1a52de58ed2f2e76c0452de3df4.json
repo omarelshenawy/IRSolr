@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "61c348074c1aef4c12a446b804d296417058f1a52de58ed2f2e76c0452de3df4",
+			"url": "https://upload.wikimedia.org/math/8/0/a/80af2e5e2fe86d7344c4b335374c343c.png",
+			"previous": "  1  The performance of a compressor is defined according to its design But in actual practice the operating point of the compressor deviates from the design point which is known as off design operation ",
+			"after": " from equation 1 and 2  ",
+			"color": "black|0.35059 dim|0.28246 gray|0.28246 dim|0.28246 grey|0.28246 gray|0.17217 grey|0.17217 dark|0.10014 gray|0.10014 dark|0.10014 grey|0.10014 silver|0.044012 light|0.021938 gray|0.021938 light|0.021938 grey|0.021938 gainsboro|0.015481  ",
+			"after_weights": " from|1 equation|0.83333 1|0.66667 and|0.5 2|0.33333 |0.16667 |0",
+			"previous_weights": " |0 1|0.027778 |0.055556 The|0.083333 performance|0.11111 of|0.13889 a|0.16667 compressor|0.19444 is|0.22222 defined|0.25 according|0.27778 to|0.30556 its|0.33333 design|0.36111 But|0.38889 in|0.41667 actual|0.44444 practice|0.47222 the|0.5 operating|0.52778 point|0.55556 of|0.58333 the|0.61111 compressor|0.63889 deviates|0.66667 from|0.69444 the|0.72222 design|0.75 point|0.77778 which|0.80556 is|0.83333 known|0.86111 as|0.88889 off|0.91667 design|0.94444 operation|0.97222 |1"
+		}
+	}
+}

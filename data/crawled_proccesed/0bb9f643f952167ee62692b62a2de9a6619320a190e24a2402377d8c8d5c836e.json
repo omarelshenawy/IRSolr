@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0bb9f643f952167ee62692b62a2de9a6619320a190e24a2402377d8c8d5c836e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Turkey-2459_%282216286345%29.jpg/220px-Turkey-2459_%282216286345%29.jpg",
+			"previous": " ",
+			"after": " With a unique combination of pleasant climate beautiful coastline rich history and diverse culture the Mediterranean region is the most popular tourist destination in the world attracting approximately one third of the world s international tourists ",
+			"color": "dim|0.79222 gray|0.79222 dim|0.79222 grey|0.79222 gray|0.13466 grey|0.13466 black|0.015212 slate|0.011518 gray|0.011518 tan|0.010216 burly|0.0084708 wood|0.0084708 rosy|0.0069407 brown|0.0069407  ",
+			"after_weights": " With|1 a|0.97222 unique|0.94444 combination|0.91667 of|0.88889 pleasant|0.86111 climate|0.83333 beautiful|0.80556 coastline|0.77778 rich|0.75 history|0.72222 and|0.69444 diverse|0.66667 culture|0.63889 the|0.61111 Mediterranean|0.58333 region|0.55556 is|0.52778 the|0.5 most|0.47222 popular|0.44444 tourist|0.41667 destination|0.38889 in|0.36111 the|0.33333 world|0.30556 attracting|0.27778 approximately|0.25 one|0.22222 third|0.19444 of|0.16667 the|0.13889 world|0.11111 s|0.083333 international|0.055556 tourists|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

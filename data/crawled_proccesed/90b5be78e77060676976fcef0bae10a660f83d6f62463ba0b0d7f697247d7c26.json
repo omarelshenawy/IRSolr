@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "90b5be78e77060676976fcef0bae10a660f83d6f62463ba0b0d7f697247d7c26",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CDSCRATCHES.jpg/220px-CDSCRATCHES.jpg",
+			"previous": " ",
+			"after": " Coding theory is one of the most important and direct applications of information theory It can be subdivided into source coding theory and channel coding theory Using a statistical description for data information theory quantifies the number of bits needed to describe the data which is the information entropy of the source ",
+			"color": "light|0.97309 green|0.97309 dark|0.024378 sea|0.024378 green|0.024378  ",
+			"after_weights": " Coding|1 theory|0.98077 is|0.96154 one|0.94231 of|0.92308 the|0.90385 most|0.88462 important|0.86538 and|0.84615 direct|0.82692 applications|0.80769 of|0.78846 information|0.76923 theory|0.75 It|0.73077 can|0.71154 be|0.69231 subdivided|0.67308 into|0.65385 source|0.63462 coding|0.61538 theory|0.59615 and|0.57692 channel|0.55769 coding|0.53846 theory|0.51923 Using|0.5 a|0.48077 statistical|0.46154 description|0.44231 for|0.42308 data|0.40385 information|0.38462 theory|0.36538 quantifies|0.34615 the|0.32692 number|0.30769 of|0.28846 bits|0.26923 needed|0.25 to|0.23077 describe|0.21154 the|0.19231 data|0.17308 which|0.15385 is|0.13462 the|0.11538 information|0.096154 entropy|0.076923 of|0.057692 the|0.038462 source|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

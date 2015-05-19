@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "26c6a493565731378e67e65380216db56a43b90aaca6c9dac24f0cebea8ca2e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Universal_property_tensor_product.png/200px-Universal_property_tensor_product.png",
+			"previous": " ",
+			"after": " These rules ensure that the map f from the V W to V W that maps a tuple v w to v w is bilinear The universality states that given any vector space X and any bilinear map g V W X there exists a unique map u shown in the diagram with a dotted arrow whose composition with f equals g u v w g v w 44 This is called the universal property of the tensor product an instance of the method much used in advanced abstract algebra to indirectly define objects by specifying maps from or to this object ",
+			"color": " ",
+			"after_weights": " These|1 rules|0.9902 ensure|0.98039 that|0.97059 the|0.96078 map|0.95098 f|0.94118 from|0.93137 the|0.92157 V|0.91176 W|0.90196 to|0.89216 V|0.88235 W|0.87255 that|0.86275 maps|0.85294 a|0.84314 tuple|0.83333 v|0.82353 w|0.81373 to|0.80392 v|0.79412 w|0.78431 is|0.77451 bilinear|0.76471 The|0.7549 universality|0.7451 states|0.73529 that|0.72549 given|0.71569 any|0.70588 vector|0.69608 space|0.68627 X|0.67647 and|0.66667 any|0.65686 bilinear|0.64706 map|0.63725 g|0.62745 V|0.61765 W|0.60784 X|0.59804 there|0.58824 exists|0.57843 a|0.56863 unique|0.55882 map|0.54902 u|0.53922 shown|0.52941 in|0.51961 the|0.5098 diagram|0.5 with|0.4902 a|0.48039 dotted|0.47059 arrow|0.46078 whose|0.45098 composition|0.44118 with|0.43137 f|0.42157 equals|0.41176 g|0.40196 u|0.39216 v|0.38235 w|0.37255 g|0.36275 v|0.35294 w|0.34314 44|0.33333 This|0.32353 is|0.31373 called|0.30392 the|0.29412 universal|0.28431 property|0.27451 of|0.26471 the|0.2549 tensor|0.2451 product|0.23529 an|0.22549 instance|0.21569 of|0.20588 the|0.19608 method|0.18627 much|0.17647 used|0.16667 in|0.15686 advanced|0.14706 abstract|0.13725 algebra|0.12745 to|0.11765 indirectly|0.10784 define|0.098039 objects|0.088235 by|0.078431 specifying|0.068627 maps|0.058824 from|0.04902 or|0.039216 to|0.029412 this|0.019608 object|0.0098039 |0",
+			"previous_weights": " "
+		}
+	}
+}

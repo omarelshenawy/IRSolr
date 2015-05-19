@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "99cad5045d2cd060851d3673fb6626c5fa31d53204e55f0559275f3163528d70",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Dunebashing_group_Dubai.jpg/220px-Dunebashing_group_Dubai.jpg",
+			"previous": " ",
+			"after": " The United Arab Emirates is situated in Middle East bordering the Gulf of Oman and the Persian Gulf between Oman and Saudi Arabia it is in a strategic location along southern approaches to the Strait of Hormuz a vital transit point for world crude oil 57 ",
+			"color": "sienna|0.39878 sandy|0.14255 brown|0.14255 saddle|0.12142 brown|0.12142 peru|0.10888 dark|0.095941 salmon|0.095941 light|0.065782 salmon|0.065782 chocolate|0.043401 black|0.0074453  ",
+			"after_weights": " The|1 United|0.97826 Arab|0.95652 Emirates|0.93478 is|0.91304 situated|0.8913 in|0.86957 Middle|0.84783 East|0.82609 bordering|0.80435 the|0.78261 Gulf|0.76087 of|0.73913 Oman|0.71739 and|0.69565 the|0.67391 Persian|0.65217 Gulf|0.63043 between|0.6087 Oman|0.58696 and|0.56522 Saudi|0.54348 Arabia|0.52174 it|0.5 is|0.47826 in|0.45652 a|0.43478 strategic|0.41304 location|0.3913 along|0.36957 southern|0.34783 approaches|0.32609 to|0.30435 the|0.28261 Strait|0.26087 of|0.23913 Hormuz|0.21739 a|0.19565 vital|0.17391 transit|0.15217 point|0.13043 for|0.1087 world|0.086957 crude|0.065217 oil|0.043478 57|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

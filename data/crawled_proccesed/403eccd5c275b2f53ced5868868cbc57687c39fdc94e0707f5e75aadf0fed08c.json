@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "403eccd5c275b2f53ced5868868cbc57687c39fdc94e0707f5e75aadf0fed08c",
+			"url": "https://upload.wikimedia.org/math/2/f/2/2f2f2fb37d2b8e9364c74036deba96f3.png",
+			"previous": " Since there is no work or heat loss in the intake under steady state conditions   The corresponding freestream stagnation or total pressure is ",
+			"after": " However friction and shock losses in the intake system must be accounted for   The actual discharge temperature of the compressor assuming a polytropic efficiency is given by ",
+			"color": "dim|0.32145 gray|0.32145 dim|0.32145 grey|0.32145 gray|0.26187 grey|0.26187 dark|0.19366 gray|0.19366 dark|0.19366 grey|0.19366 silver|0.099186 light|0.055586 gray|0.055586 light|0.055586 grey|0.055586 gainsboro|0.039577 white|0.0065801 smoke|0.0065801 linen|0.0033914 lavender|0.0031433 blush|0.0031433 alice|0.003044 blue|0.003044 ghost|0.0029237 white|0.0029237 sea|0.0027883 shell|0.0027883  ",
+			"after_weights": " However|1 friction|0.96552 and|0.93103 shock|0.89655 losses|0.86207 in|0.82759 the|0.7931 intake|0.75862 system|0.72414 must|0.68966 be|0.65517 accounted|0.62069 for|0.58621 |0.55172 |0.51724 The|0.48276 actual|0.44828 discharge|0.41379 temperature|0.37931 of|0.34483 the|0.31034 compressor|0.27586 assuming|0.24138 a|0.2069 polytropic|0.17241 efficiency|0.13793 is|0.10345 given|0.068966 by|0.034483 |0",
+			"previous_weights": " Since|0 there|0.04 is|0.08 no|0.12 work|0.16 or|0.2 heat|0.24 loss|0.28 in|0.32 the|0.36 intake|0.4 under|0.44 steady|0.48 state|0.52 conditions|0.56 |0.6 |0.64 The|0.68 corresponding|0.72 freestream|0.76 stagnation|0.8 or|0.84 total|0.88 pressure|0.92 is|0.96 |1"
+		}
+	}
+}

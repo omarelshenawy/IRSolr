@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "61c97aaa8680d0d122548007fd52e40192c028263e822a3104520ac802de9f50",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/China_Eastern_A330-200_B-6121_FRA.jpg/220px-China_Eastern_A330-200_B-6121_FRA.jpg",
+			"previous": " ",
+			"after": " China Eastern Airlines was established on 25 June 1988 under the CAAC Huadong Administration In 1997 China Eastern took over unprofitable China General Aviation and also became the country s first airline to offer shares on the international market In 1998 it founded China Cargo Airlines in a joint venture with COSCO In March 2001 it completed the takeover of Great Wall Airlines 4 China Yunnan Airlines and China Northwest Airlines merged into China Eastern Airlines in 2003 ",
+			"color": "dim|0.41628 gray|0.41628 dim|0.41628 grey|0.41628 gray|0.23314 grey|0.23314 dark|0.21187 gray|0.21187 dark|0.21187 grey|0.21187 silver|0.031579 black|0.02967 light|0.017763 slate|0.017763 gray|0.017763 light|0.01251 gray|0.01251 light|0.01251 grey|0.01251 slate|0.011995 gray|0.011995  ",
+			"after_weights": " China|1 Eastern|0.98718 Airlines|0.97436 was|0.96154 established|0.94872 on|0.9359 25|0.92308 June|0.91026 1988|0.89744 under|0.88462 the|0.87179 CAAC|0.85897 Huadong|0.84615 Administration|0.83333 In|0.82051 1997|0.80769 China|0.79487 Eastern|0.78205 took|0.76923 over|0.75641 unprofitable|0.74359 China|0.73077 General|0.71795 Aviation|0.70513 and|0.69231 also|0.67949 became|0.66667 the|0.65385 country|0.64103 s|0.62821 first|0.61538 airline|0.60256 to|0.58974 offer|0.57692 shares|0.5641 on|0.55128 the|0.53846 international|0.52564 market|0.51282 In|0.5 1998|0.48718 it|0.47436 founded|0.46154 China|0.44872 Cargo|0.4359 Airlines|0.42308 in|0.41026 a|0.39744 joint|0.38462 venture|0.37179 with|0.35897 COSCO|0.34615 In|0.33333 March|0.32051 2001|0.30769 it|0.29487 completed|0.28205 the|0.26923 takeover|0.25641 of|0.24359 Great|0.23077 Wall|0.21795 Airlines|0.20513 4|0.19231 China|0.17949 Yunnan|0.16667 Airlines|0.15385 and|0.14103 China|0.12821 Northwest|0.11538 Airlines|0.10256 merged|0.089744 into|0.076923 China|0.064103 Eastern|0.051282 Airlines|0.038462 in|0.025641 2003|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

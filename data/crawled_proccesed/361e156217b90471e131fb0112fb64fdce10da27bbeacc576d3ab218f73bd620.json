@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "361e156217b90471e131fb0112fb64fdce10da27bbeacc576d3ab218f73bd620",
+			"url": "https://upload.wikimedia.org/math/3/6/d/36d4fd385d33fcbc133fe32d56c2ee58.png",
+			"previous": " Complete inner product spaces are known as Hilbert spaces in honor of David Hilbert 59 The Hilbert space L2 with inner product given by",
+			"after": " where denotes the complex conjugate of g x 60 nb 11 is a key case ",
+			"color": "dim|0.36716 gray|0.36716 dim|0.36716 grey|0.36716 gray|0.29538 grey|0.29538 dark|0.18318 gray|0.18318 dark|0.18318 grey|0.18318 silver|0.078162 light|0.036528 gray|0.036528 light|0.036528 grey|0.036528 gainsboro|0.024726 white|0.0041427 smoke|0.0041427  ",
+			"after_weights": " where|1 denotes|0.93333 the|0.86667 complex|0.8 conjugate|0.73333 of|0.66667 g|0.6 x|0.53333 60|0.46667 nb|0.4 11|0.33333 is|0.26667 a|0.2 key|0.13333 case|0.066667 |0",
+			"previous_weights": " Complete|0 inner|0.043478 product|0.086957 spaces|0.13043 are|0.17391 known|0.21739 as|0.26087 Hilbert|0.30435 spaces|0.34783 in|0.3913 honor|0.43478 of|0.47826 David|0.52174 Hilbert|0.56522 59|0.6087 The|0.65217 Hilbert|0.69565 space|0.73913 L2|0.78261 with|0.82609 inner|0.86957 product|0.91304 given|0.95652 by|1"
+		}
+	}
+}

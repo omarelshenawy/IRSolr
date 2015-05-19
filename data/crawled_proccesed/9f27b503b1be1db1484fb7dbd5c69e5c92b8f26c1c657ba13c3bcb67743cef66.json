@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f27b503b1be1db1484fb7dbd5c69e5c92b8f26c1c657ba13c3bcb67743cef66",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/British_airways_747_landing_sfo.jpg/220px-British_airways_747_landing_sfo.jpg",
+			"previous": " The family is divided into three distinct series ",
+			"after": " As well as a featuring a destaged IP compressor the 535E4 was the first engine to incorporate a hollow wide chord unsnubbered note 2 fan to improve efficiency It also featured the use of more advanced materials including titanium in the HP compressor and carbon composites in the nacelle Later engines incorporate some features e g FADEC from improved models of the 524 ",
+			"color": "light|0.63396 slate|0.63396 gray|0.63396 slate|0.18381 gray|0.18381 black|0.028824 cadet|0.019614 blue|0.019614 tan|0.019553 wheat|0.019488 moccasin|0.010349 navajo|0.0094078 white|0.0094078 burly|0.0082685 wood|0.0082685 dark|0.008073 gray|0.008073 dark|0.008073 grey|0.008073 gray|0.0068913 grey|0.0068913 pale|0.0067824 golden|0.0067824 rod|0.0067824 peach|0.0058146 puff|0.0058146 bisque|0.0054931  ",
+			"after_weights": " As|1 well|0.98413 as|0.96825 a|0.95238 featuring|0.93651 a|0.92063 destaged|0.90476 IP|0.88889 compressor|0.87302 the|0.85714 535E4|0.84127 was|0.8254 the|0.80952 first|0.79365 engine|0.77778 to|0.7619 incorporate|0.74603 a|0.73016 hollow|0.71429 wide|0.69841 chord|0.68254 unsnubbered|0.66667 note|0.65079 2|0.63492 fan|0.61905 to|0.60317 improve|0.5873 efficiency|0.57143 It|0.55556 also|0.53968 featured|0.52381 the|0.50794 use|0.49206 of|0.47619 more|0.46032 advanced|0.44444 materials|0.42857 including|0.4127 titanium|0.39683 in|0.38095 the|0.36508 HP|0.34921 compressor|0.33333 and|0.31746 carbon|0.30159 composites|0.28571 in|0.26984 the|0.25397 nacelle|0.2381 Later|0.22222 engines|0.20635 incorporate|0.19048 some|0.1746 features|0.15873 e|0.14286 g|0.12698 FADEC|0.11111 from|0.095238 improved|0.079365 models|0.063492 of|0.047619 the|0.031746 524|0.015873 |0",
+			"previous_weights": " The|0 family|0.125 is|0.25 divided|0.375 into|0.5 three|0.625 distinct|0.75 series|0.875 |1"
+		}
+	}
+}

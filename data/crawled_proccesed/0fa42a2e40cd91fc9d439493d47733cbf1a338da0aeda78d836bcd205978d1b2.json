@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fa42a2e40cd91fc9d439493d47733cbf1a338da0aeda78d836bcd205978d1b2",
+			"url": "https://upload.wikimedia.org/math/6/c/e/6cef7c6abc27ef640f8b75a6690d6c4e.png",
+			"previous": " and Eigenvalue problems in higher dimensions are defined in analogy with the one dimensional case For example given a domain D with boundary B in three dimensions we may define",
+			"after": " where If the functional J y attains a local minimum at f and x is an arbitrary function that has at least one derivative and vanishes at the endpoints x1 and x2 then for any number close to 0 ",
+			"color": "gray|0.25833 grey|0.25833 dark|0.23886 gray|0.23886 dark|0.23886 grey|0.23886 dim|0.16147 gray|0.16147 dim|0.16147 grey|0.16147 silver|0.1235 light|0.086803 gray|0.086803 light|0.086803 grey|0.086803 gainsboro|0.063248 white|0.014733 smoke|0.014733 linen|0.011899 lavender|0.0078707 blush|0.0078707 alice|0.0075752 blue|0.0075752 ghost|0.0073946 white|0.0073946 sea|0.0072632 shell|0.0072632 snow|0.007173 white|0.0028828  ",
+			"after_weights": " where|1 If|0.97436 the|0.94872 functional|0.92308 J|0.89744 y|0.87179 attains|0.84615 a|0.82051 local|0.79487 minimum|0.76923 at|0.74359 f|0.71795 and|0.69231 x|0.66667 is|0.64103 an|0.61538 arbitrary|0.58974 function|0.5641 that|0.53846 has|0.51282 at|0.48718 least|0.46154 one|0.4359 derivative|0.41026 and|0.38462 vanishes|0.35897 at|0.33333 the|0.30769 endpoints|0.28205 x1|0.25641 and|0.23077 x2|0.20513 then|0.17949 for|0.15385 any|0.12821 number|0.10256 close|0.076923 to|0.051282 0|0.025641 |0",
+			"previous_weights": " and|0 Eigenvalue|0.034483 problems|0.068966 in|0.10345 higher|0.13793 dimensions|0.17241 are|0.2069 defined|0.24138 in|0.27586 analogy|0.31034 with|0.34483 the|0.37931 one|0.41379 dimensional|0.44828 case|0.48276 For|0.51724 example|0.55172 given|0.58621 a|0.62069 domain|0.65517 D|0.68966 with|0.72414 boundary|0.75862 B|0.7931 in|0.82759 three|0.86207 dimensions|0.89655 we|0.93103 may|0.96552 define|1"
+		}
+	}
+}

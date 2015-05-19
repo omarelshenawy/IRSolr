@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "635d091157c24c6a19ab9cb4676c5fcd5c7c84f99912830ada52dd0305397202",
+			"url": "https://upload.wikimedia.org/wikipedia/en/9/99/Britannia_Airways_Logo.png",
+			"previous": "  Britannia Airways was the largest charter airline in the United Kingdom It was rebranded Thomsonfly in 2005 Its main bases were Gatwick London Luton Birmingham Manchester Newcastle and Glasgow It was headquartered on the grounds of the Britannia House in Luton Bedfordshire 1 ",
+			"after": " ",
+			"color": "firebrick|0.42291 brown|0.24796 salmon|0.10616 dark|0.05159 salmon|0.05159 tomato|0.049159 dim|0.026091 gray|0.026091 dim|0.026091 grey|0.026091  ",
+			"after_weights": " ",
+			"previous_weights": " |0 Britannia|0.022727 Airways|0.045455 was|0.068182 the|0.090909 largest|0.11364 charter|0.13636 airline|0.15909 in|0.18182 the|0.20455 United|0.22727 Kingdom|0.25 It|0.27273 was|0.29545 rebranded|0.31818 Thomsonfly|0.34091 in|0.36364 2005|0.38636 Its|0.40909 main|0.43182 bases|0.45455 were|0.47727 Gatwick|0.5 London|0.52273 Luton|0.54545 Birmingham|0.56818 Manchester|0.59091 Newcastle|0.61364 and|0.63636 Glasgow|0.65909 It|0.68182 was|0.70455 headquartered|0.72727 on|0.75 the|0.77273 grounds|0.79545 of|0.81818 the|0.84091 Britannia|0.86364 House|0.88636 in|0.90909 Luton|0.93182 Bedfordshire|0.95455 1|0.97727 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c473a6d3793cfa925a354187d8d0320a0ad8b9de3332198cfc4eb04e734a538",
+			"url": "https://upload.wikimedia.org/math/e/1/0/e107b975a6de6706fcc09a83b6ce7f4c.png",
+			"previous": " ",
+			"after": " Much effort has been put in the development of methods for solving systems of linear equations Standard direct methods i e methods that use some matrix decomposition are Gaussian elimination LU decomposition Cholesky decomposition for symmetric or hermitian and positive definite matrix and QR decomposition for non square matrices Iterative methods such as the Jacobi method Gauss Seidel method successive over relaxation and conjugate gradient method are usually preferred for large systems General iterative methods can be developed using a matrix splitting ",
+			"color": "dim|0.41371 gray|0.41371 dim|0.41371 grey|0.41371 gray|0.28887 grey|0.28887 dark|0.16836 gray|0.16836 dark|0.16836 grey|0.16836 silver|0.063765 light|0.029832 gray|0.029832 light|0.029832 grey|0.029832 gainsboro|0.020892 white|0.0039514 smoke|0.0039514  ",
+			"after_weights": " Much|1 effort|0.9878 has|0.97561 been|0.96341 put|0.95122 in|0.93902 the|0.92683 development|0.91463 of|0.90244 methods|0.89024 for|0.87805 solving|0.86585 systems|0.85366 of|0.84146 linear|0.82927 equations|0.81707 Standard|0.80488 direct|0.79268 methods|0.78049 i|0.76829 e|0.7561 methods|0.7439 that|0.73171 use|0.71951 some|0.70732 matrix|0.69512 decomposition|0.68293 are|0.67073 Gaussian|0.65854 elimination|0.64634 LU|0.63415 decomposition|0.62195 Cholesky|0.60976 decomposition|0.59756 for|0.58537 symmetric|0.57317 or|0.56098 hermitian|0.54878 and|0.53659 positive|0.52439 definite|0.5122 matrix|0.5 and|0.4878 QR|0.47561 decomposition|0.46341 for|0.45122 non|0.43902 square|0.42683 matrices|0.41463 Iterative|0.40244 methods|0.39024 such|0.37805 as|0.36585 the|0.35366 Jacobi|0.34146 method|0.32927 Gauss|0.31707 Seidel|0.30488 method|0.29268 successive|0.28049 over|0.26829 relaxation|0.2561 and|0.2439 conjugate|0.23171 gradient|0.21951 method|0.20732 are|0.19512 usually|0.18293 preferred|0.17073 for|0.15854 large|0.14634 systems|0.13415 General|0.12195 iterative|0.10976 methods|0.097561 can|0.085366 be|0.073171 developed|0.060976 using|0.04878 a|0.036585 matrix|0.02439 splitting|0.012195 |0",
+			"previous_weights": " "
+		}
+	}
+}

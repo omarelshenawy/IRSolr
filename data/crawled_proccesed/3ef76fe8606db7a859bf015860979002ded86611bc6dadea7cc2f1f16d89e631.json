@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ef76fe8606db7a859bf015860979002ded86611bc6dadea7cc2f1f16d89e631",
+			"url": "https://upload.wikimedia.org/math/9/5/a/95ab1e1548d36040013a4c4f9fe2bb07.png",
+			"previous": "  There are two terms in the nozzle gross thrust equation ideal momentum thrust and ideal pressure thrust The latter term is only non zero if the nozzle is choked ",
+			"after": "  The first term is the momentum thrust which contributes most of the nozzle gross thrust Because the nozzle is choked which is the norm on a turbojet the second term the pressure thrust is non zero ",
+			"color": "gray|0.32381 grey|0.32381 dim|0.26549 gray|0.26549 dim|0.26549 grey|0.26549 dark|0.21881 gray|0.21881 dark|0.21881 grey|0.21881 silver|0.094893 light|0.044357 gray|0.044357 light|0.044357 grey|0.044357 gainsboro|0.031105 white|0.0052589 smoke|0.0052589 linen|0.0027854  ",
+			"after_weights": " |1 The|0.97297 first|0.94595 term|0.91892 is|0.89189 the|0.86486 momentum|0.83784 thrust|0.81081 which|0.78378 contributes|0.75676 most|0.72973 of|0.7027 the|0.67568 nozzle|0.64865 gross|0.62162 thrust|0.59459 Because|0.56757 the|0.54054 nozzle|0.51351 is|0.48649 choked|0.45946 which|0.43243 is|0.40541 the|0.37838 norm|0.35135 on|0.32432 a|0.2973 turbojet|0.27027 the|0.24324 second|0.21622 term|0.18919 the|0.16216 pressure|0.13514 thrust|0.10811 is|0.081081 non|0.054054 zero|0.027027 |0",
+			"previous_weights": " |0 There|0.033333 are|0.066667 two|0.1 terms|0.13333 in|0.16667 the|0.2 nozzle|0.23333 gross|0.26667 thrust|0.3 equation|0.33333 ideal|0.36667 momentum|0.4 thrust|0.43333 and|0.46667 ideal|0.5 pressure|0.53333 thrust|0.56667 The|0.6 latter|0.63333 term|0.66667 is|0.7 only|0.73333 non|0.76667 zero|0.8 if|0.83333 the|0.86667 nozzle|0.9 is|0.93333 choked|0.96667 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a16b46e480f4b7696c1c124fdf2fd6c1e9080ef73be3af81d7d699d6473385d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bert_Blyleven.jpg/180px-Bert_Blyleven.jpg",
+			"previous": " In the city proper the Sou Cal A s of the Southern California Collegiate Baseball Association play in Athletic or Richland Field  The city roots for major league teams the Los Angeles Angels of Anaheim of baseball and the Anaheim Ducks of ice hockey right along the city borders across the Santa Ana River in Anaheim ",
+			"after": " Orange has five sister cities as designated by Sister Cities International ",
+			"color": "rosy|0.15448 brown|0.15448 pink|0.14807 light|0.1416 pink|0.1416 thistle|0.071021 lavender|0.04431 dark|0.034717 slate|0.034717 blue|0.034717 white|0.03278 smoke|0.03278 snow|0.031582 white|0.031283 ghost|0.03095 white|0.03095 sea|0.029119 shell|0.029119 mint|0.028962 cream|0.028962 alice|0.028454 blue|0.028454 floral|0.027267 white|0.027267 azure|0.025954 lavender|0.025208 blush|0.025208 dim|0.013529 gray|0.013529 dim|0.013529 grey|0.013529 black|0.013328  ",
+			"after_weights": " Orange|1 has|0.90909 five|0.81818 sister|0.72727 cities|0.63636 as|0.54545 designated|0.45455 by|0.36364 Sister|0.27273 Cities|0.18182 International|0.090909 |0",
+			"previous_weights": " In|0 the|0.017544 city|0.035088 proper|0.052632 the|0.070175 Sou|0.087719 Cal|0.10526 A|0.12281 s|0.14035 of|0.15789 the|0.17544 Southern|0.19298 California|0.21053 Collegiate|0.22807 Baseball|0.24561 Association|0.26316 play|0.2807 in|0.29825 Athletic|0.31579 or|0.33333 Richland|0.35088 Field|0.36842 |0.38596 The|0.40351 city|0.42105 roots|0.4386 for|0.45614 major|0.47368 league|0.49123 teams|0.50877 the|0.52632 Los|0.54386 Angeles|0.5614 Angels|0.57895 of|0.59649 Anaheim|0.61404 of|0.63158 baseball|0.64912 and|0.66667 the|0.68421 Anaheim|0.70175 Ducks|0.7193 of|0.73684 ice|0.75439 hockey|0.77193 right|0.78947 along|0.80702 the|0.82456 city|0.84211 borders|0.85965 across|0.87719 the|0.89474 Santa|0.91228 Ana|0.92982 River|0.94737 in|0.96491 Anaheim|0.98246 |1"
+		}
+	}
+}

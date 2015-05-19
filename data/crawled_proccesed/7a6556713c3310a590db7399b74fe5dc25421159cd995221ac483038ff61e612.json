@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a6556713c3310a590db7399b74fe5dc25421159cd995221ac483038ff61e612",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/EN003_Enceladus_Mosaic.jpg/220px-EN003_Enceladus_Mosaic.jpg",
+			"previous": " ",
+			"after": " On August 6 2012 NASA landed the rover Curiosity on Mars On August 27 2012 Curiosity transmitted the first pre recorded message from the surface of Mars back to Earth made by Administrator Charlie Bolden ",
+			"color": " ",
+			"after_weights": " On|1 August|0.97143 6|0.94286 2012|0.91429 NASA|0.88571 landed|0.85714 the|0.82857 rover|0.8 Curiosity|0.77143 on|0.74286 Mars|0.71429 On|0.68571 August|0.65714 27|0.62857 2012|0.6 Curiosity|0.57143 transmitted|0.54286 the|0.51429 first|0.48571 pre|0.45714 recorded|0.42857 message|0.4 from|0.37143 the|0.34286 surface|0.31429 of|0.28571 Mars|0.25714 back|0.22857 to|0.2 Earth|0.17143 made|0.14286 by|0.11429 Administrator|0.085714 Charlie|0.057143 Bolden|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f2410621a91632f6445486c39f664d001069d3d20c3b7c133d10b95103c21b9",
+			"url": "https://upload.wikimedia.org/math/d/f/f/dff576c6018b4f0bc040dd5da5771e39.png",
+			"previous": " Subtracting the two equalities gives and For any two numbers x1 and x1 x in a b we have For a given f t define the function F x as",
+			"after": " It can be shown that Manipulating this equation gives Substituting the above into 1 results in According to the mean value theorem for integration there exists a real number in x1 x1 x such that",
+			"color": "dim|0.39407 gray|0.39407 dim|0.39407 grey|0.39407 gray|0.2796 grey|0.2796 dark|0.1764 gray|0.1764 dark|0.1764 grey|0.1764 silver|0.07212 light|0.037867 gray|0.037867 light|0.037867 grey|0.037867 gainsboro|0.025378 white|0.0042195 smoke|0.0042195  ",
+			"after_weights": " It|1 can|0.97059 be|0.94118 shown|0.91176 that|0.88235 Manipulating|0.85294 this|0.82353 equation|0.79412 gives|0.76471 Substituting|0.73529 the|0.70588 above|0.67647 into|0.64706 1|0.61765 results|0.58824 in|0.55882 According|0.52941 to|0.5 the|0.47059 mean|0.44118 value|0.41176 theorem|0.38235 for|0.35294 integration|0.32353 there|0.29412 exists|0.26471 a|0.23529 real|0.20588 number|0.17647 in|0.14706 x1|0.11765 x1|0.088235 x|0.058824 such|0.029412 that|0",
+			"previous_weights": " Subtracting|0 the|0.034483 two|0.068966 equalities|0.10345 gives|0.13793 and|0.17241 For|0.2069 any|0.24138 two|0.27586 numbers|0.31034 x1|0.34483 and|0.37931 x1|0.41379 x|0.44828 in|0.48276 a|0.51724 b|0.55172 we|0.58621 have|0.62069 For|0.65517 a|0.68966 given|0.72414 f|0.75862 t|0.7931 define|0.82759 the|0.86207 function|0.89655 F|0.93103 x|0.96552 as|1"
+		}
+	}
+}

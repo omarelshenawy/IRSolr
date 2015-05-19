@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "939259f65d0a1756f66d8f1725bdf3d253335f46fd0808a23234c827772017f3",
+			"url": "https://upload.wikimedia.org/math/d/7/d/d7d0ef3c1269a99f1adc6c419b38c6df.png",
+			"previous": " ",
+			"after": " Stochastic matrices are square matrices whose rows are probability vectors i e whose entries are non negative and sum up to one Stochastic matrices are used to define Markov chains with finitely many states 83 A row of the stochastic matrix gives the probability distribution for the next position of some particle currently in the state that corresponds to the row Properties of the Markov chain like absorbing states i e states that any particle attains eventually can be read off the eigenvectors of the transition matrices 84 ",
+			"color": "dark|0.29018 gray|0.29018 dark|0.29018 grey|0.29018 gray|0.20656 grey|0.20656 silver|0.15152 dim|0.14379 gray|0.14379 dim|0.14379 grey|0.14379 light|0.08142 gray|0.08142 light|0.08142 grey|0.08142 gainsboro|0.057776 white|0.023905 smoke|0.023905 linen|0.0071655 lavender|0.0064001 blush|0.0064001 alice|0.006335 blue|0.006335 ghost|0.0061993 white|0.0061993 sea|0.006083 shell|0.006083 snow|0.0060016 white|0.0054226  ",
+			"after_weights": " Stochastic|1 matrices|0.98864 are|0.97727 square|0.96591 matrices|0.95455 whose|0.94318 rows|0.93182 are|0.92045 probability|0.90909 vectors|0.89773 i|0.88636 e|0.875 whose|0.86364 entries|0.85227 are|0.84091 non|0.82955 negative|0.81818 and|0.80682 sum|0.79545 up|0.78409 to|0.77273 one|0.76136 Stochastic|0.75 matrices|0.73864 are|0.72727 used|0.71591 to|0.70455 define|0.69318 Markov|0.68182 chains|0.67045 with|0.65909 finitely|0.64773 many|0.63636 states|0.625 83|0.61364 A|0.60227 row|0.59091 of|0.57955 the|0.56818 stochastic|0.55682 matrix|0.54545 gives|0.53409 the|0.52273 probability|0.51136 distribution|0.5 for|0.48864 the|0.47727 next|0.46591 position|0.45455 of|0.44318 some|0.43182 particle|0.42045 currently|0.40909 in|0.39773 the|0.38636 state|0.375 that|0.36364 corresponds|0.35227 to|0.34091 the|0.32955 row|0.31818 Properties|0.30682 of|0.29545 the|0.28409 Markov|0.27273 chain|0.26136 like|0.25 absorbing|0.23864 states|0.22727 i|0.21591 e|0.20455 states|0.19318 that|0.18182 any|0.17045 particle|0.15909 attains|0.14773 eventually|0.13636 can|0.125 be|0.11364 read|0.10227 off|0.090909 the|0.079545 eigenvectors|0.068182 of|0.056818 the|0.045455 transition|0.034091 matrices|0.022727 84|0.011364 |0",
+			"previous_weights": " "
+		}
+	}
+}

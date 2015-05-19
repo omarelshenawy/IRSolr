@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "630266b28192b9a3de6dd06df867f59d0804fec5b6f665335f8fdb0aac6fce9f",
+			"url": "https://upload.wikimedia.org/math/b/0/1/b0142de66cdf9722e80704815a8005f5.png",
+			"previous": " Combining with the above identity we get In fact choosing and dividing Equation 2 by we get",
+			"after": " and thus the roots are 30  This formula involves only real terms if and the argument of the arccosine is between 1 and 1 The last condition is equivalent to which implies also Thus the above formula for the roots involves only real terms if and only if the three roots are real ",
+			"color": "gray|0.30702 grey|0.30702 dim|0.30356 gray|0.30356 dim|0.30356 grey|0.30356 dark|0.21694 gray|0.21694 dark|0.21694 grey|0.21694 silver|0.088634 light|0.040147 gray|0.040147 light|0.040147 grey|0.040147 gainsboro|0.028391 white|0.0038425 smoke|0.0038425  ",
+			"after_weights": " and|1 thus|0.98148 the|0.96296 roots|0.94444 are|0.92593 30|0.90741 |0.88889 This|0.87037 formula|0.85185 involves|0.83333 only|0.81481 real|0.7963 terms|0.77778 if|0.75926 and|0.74074 the|0.72222 argument|0.7037 of|0.68519 the|0.66667 arccosine|0.64815 is|0.62963 between|0.61111 1|0.59259 and|0.57407 1|0.55556 The|0.53704 last|0.51852 condition|0.5 is|0.48148 equivalent|0.46296 to|0.44444 which|0.42593 implies|0.40741 also|0.38889 Thus|0.37037 the|0.35185 above|0.33333 formula|0.31481 for|0.2963 the|0.27778 roots|0.25926 involves|0.24074 only|0.22222 real|0.2037 terms|0.18519 if|0.16667 and|0.14815 only|0.12963 if|0.11111 the|0.092593 three|0.074074 roots|0.055556 are|0.037037 real|0.018519 |0",
+			"previous_weights": " Combining|0 with|0.0625 the|0.125 above|0.1875 identity|0.25 we|0.3125 get|0.375 In|0.4375 fact|0.5 choosing|0.5625 and|0.625 dividing|0.6875 Equation|0.75 2|0.8125 by|0.875 we|0.9375 get|1"
+		}
+	}
+}

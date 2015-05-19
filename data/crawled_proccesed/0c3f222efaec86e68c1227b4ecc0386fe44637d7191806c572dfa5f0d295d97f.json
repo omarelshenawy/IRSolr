@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c3f222efaec86e68c1227b4ecc0386fe44637d7191806c572dfa5f0d295d97f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fin_whale.jpg/220px-Fin_whale.jpg",
+			"previous": " ",
+			"after": " The fin whale is usually distinguished by its tall spout long back prominent dorsal fin and asymmetrical coloration  The animal s large size aids in identification and it is usually only confused with the blue whale the sei whale or in warmer waters Bryde s whale ",
+			"color": "black|0.34846 cadet|0.23387 blue|0.23387 dark|0.1373 slate|0.1373 gray|0.1373 teal|0.098705 dark|0.050951 cyan|0.050951 pale|0.022348 turquoise|0.022348 powder|0.016029 blue|0.016029 medium|0.0089996 turquoise|0.0089996 light|0.0074987 sea|0.0074987 green|0.0074987 honeydew|0.0056692 light|0.005649 cyan|0.005649  ",
+			"after_weights": " The|1 fin|0.97872 whale|0.95745 is|0.93617 usually|0.91489 distinguished|0.89362 by|0.87234 its|0.85106 tall|0.82979 spout|0.80851 long|0.78723 back|0.76596 prominent|0.74468 dorsal|0.7234 fin|0.70213 and|0.68085 asymmetrical|0.65957 coloration|0.6383 |0.61702 The|0.59574 animal|0.57447 s|0.55319 large|0.53191 size|0.51064 aids|0.48936 in|0.46809 identification|0.44681 and|0.42553 it|0.40426 is|0.38298 usually|0.3617 only|0.34043 confused|0.31915 with|0.29787 the|0.2766 blue|0.25532 whale|0.23404 the|0.21277 sei|0.19149 whale|0.17021 or|0.14894 in|0.12766 warmer|0.10638 waters|0.085106 Bryde|0.06383 s|0.042553 whale|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "894ac3f24d50d7e4b47bac101aa0f887a91e6b83c83cf009ecd162462db05411",
+			"url": "https://upload.wikimedia.org/math/d/c/6/dc6d295d55b070cf06498bc025684d5e.png",
+			"previous": " The swirling fluid enters the control volume at radius with tangential velocity and leaves at radius with tangential velocity  The law of moment of momentum states that the sum of the moments of external forces acting on a fluid which is temporarily occupying the control volume is equal to the net change of angular momentum flux through the control volume ",
+			"after": " is the guide vane angle and is the blade angle  Rate of change of momentum F is given by the equation ",
+			"color": "gray|0.32373 grey|0.32373 dark|0.24483 gray|0.24483 dark|0.24483 grey|0.24483 dim|0.2041 gray|0.2041 dim|0.2041 grey|0.2041 silver|0.10261 light|0.050922 gray|0.050922 light|0.050922 grey|0.050922 gainsboro|0.037488 white|0.0077961 smoke|0.0077961 linen|0.0041041 lavender|0.0039332 blush|0.0039332 alice|0.0037742 blue|0.0037742 ghost|0.0036284 white|0.0036284 sea|0.003458 shell|0.003458 snow|0.0033686 white|0.0025205  ",
+			"after_weights": " is|1 the|0.95455 guide|0.90909 vane|0.86364 angle|0.81818 and|0.77273 is|0.72727 the|0.68182 blade|0.63636 angle|0.59091 |0.54545 Rate|0.5 of|0.45455 change|0.40909 of|0.36364 momentum|0.31818 F|0.27273 is|0.22727 given|0.18182 by|0.13636 the|0.090909 equation|0.045455 |0",
+			"previous_weights": " The|0 swirling|0.016393 fluid|0.032787 enters|0.04918 the|0.065574 control|0.081967 volume|0.098361 at|0.11475 radius|0.13115 with|0.14754 tangential|0.16393 velocity|0.18033 and|0.19672 leaves|0.21311 at|0.22951 radius|0.2459 with|0.2623 tangential|0.27869 velocity|0.29508 |0.31148 The|0.32787 law|0.34426 of|0.36066 moment|0.37705 of|0.39344 momentum|0.40984 states|0.42623 that|0.44262 the|0.45902 sum|0.47541 of|0.4918 the|0.5082 moments|0.52459 of|0.54098 external|0.55738 forces|0.57377 acting|0.59016 on|0.60656 a|0.62295 fluid|0.63934 which|0.65574 is|0.67213 temporarily|0.68852 occupying|0.70492 the|0.72131 control|0.7377 volume|0.7541 is|0.77049 equal|0.78689 to|0.80328 the|0.81967 net|0.83607 change|0.85246 of|0.86885 angular|0.88525 momentum|0.90164 flux|0.91803 through|0.93443 the|0.95082 control|0.96721 volume|0.98361 |1"
+		}
+	}
+}

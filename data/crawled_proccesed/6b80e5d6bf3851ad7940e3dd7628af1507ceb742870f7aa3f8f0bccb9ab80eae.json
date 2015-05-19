@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b80e5d6bf3851ad7940e3dd7628af1507ceb742870f7aa3f8f0bccb9ab80eae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Amazonie_deforestation.jpg/220px-Amazonie_deforestation.jpg",
+			"previous": " ",
+			"after": " Habitat destruction caused by humans includes conversion of land to agriculture urban sprawl infrastructure development and other anthropogenic changes to the characteristics of land Habitat degradation fragmentation and pollution are aspects of habitat destruction caused by humans that do not necessarily involve overt destruction of habitat yet result in habitat collapse Desertification deforestation and coral reef degradation are specific types of habitat destruction for those areas deserts forests coral reefs ",
+			"color": "dark|0.45205 sea|0.45205 green|0.45205 black|0.34834  ",
+			"after_weights": " Habitat|1 destruction|0.98571 caused|0.97143 by|0.95714 humans|0.94286 includes|0.92857 conversion|0.91429 of|0.9 land|0.88571 to|0.87143 agriculture|0.85714 urban|0.84286 sprawl|0.82857 infrastructure|0.81429 development|0.8 and|0.78571 other|0.77143 anthropogenic|0.75714 changes|0.74286 to|0.72857 the|0.71429 characteristics|0.7 of|0.68571 land|0.67143 Habitat|0.65714 degradation|0.64286 fragmentation|0.62857 and|0.61429 pollution|0.6 are|0.58571 aspects|0.57143 of|0.55714 habitat|0.54286 destruction|0.52857 caused|0.51429 by|0.5 humans|0.48571 that|0.47143 do|0.45714 not|0.44286 necessarily|0.42857 involve|0.41429 overt|0.4 destruction|0.38571 of|0.37143 habitat|0.35714 yet|0.34286 result|0.32857 in|0.31429 habitat|0.3 collapse|0.28571 Desertification|0.27143 deforestation|0.25714 and|0.24286 coral|0.22857 reef|0.21429 degradation|0.2 are|0.18571 specific|0.17143 types|0.15714 of|0.14286 habitat|0.12857 destruction|0.11429 for|0.1 those|0.085714 areas|0.071429 deserts|0.057143 forests|0.042857 coral|0.028571 reefs|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

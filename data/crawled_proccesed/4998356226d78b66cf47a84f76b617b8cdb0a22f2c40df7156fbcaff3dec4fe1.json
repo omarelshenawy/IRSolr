@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4998356226d78b66cf47a84f76b617b8cdb0a22f2c40df7156fbcaff3dec4fe1",
+			"url": "https://upload.wikimedia.org/math/f/6/f/f6f3e6456fd4509a80bb75904489b745.png",
+			"previous": " The depth functions for the left and right images are the pair ",
+			"after": " Smoothness is a measure of how similar colors that are close together are There is an assumption that objects are more likely to be colored with a small number of colors So if we detect two pixels with the same color they most likely belong to the same object ",
+			"color": "dim|0.42229 gray|0.42229 dim|0.42229 grey|0.42229 gray|0.26558 grey|0.26558 dark|0.1392 gray|0.1392 dark|0.1392 grey|0.1392 silver|0.060978 black|0.043501 light|0.031181 gray|0.031181 light|0.031181 grey|0.031181 gainsboro|0.022233 white|0.0035756 smoke|0.0035756  ",
+			"after_weights": " Smoothness|1 is|0.97959 a|0.95918 measure|0.93878 of|0.91837 how|0.89796 similar|0.87755 colors|0.85714 that|0.83673 are|0.81633 close|0.79592 together|0.77551 are|0.7551 There|0.73469 is|0.71429 an|0.69388 assumption|0.67347 that|0.65306 objects|0.63265 are|0.61224 more|0.59184 likely|0.57143 to|0.55102 be|0.53061 colored|0.5102 with|0.4898 a|0.46939 small|0.44898 number|0.42857 of|0.40816 colors|0.38776 So|0.36735 if|0.34694 we|0.32653 detect|0.30612 two|0.28571 pixels|0.26531 with|0.2449 the|0.22449 same|0.20408 color|0.18367 they|0.16327 most|0.14286 likely|0.12245 belong|0.10204 to|0.081633 the|0.061224 same|0.040816 object|0.020408 |0",
+			"previous_weights": " The|0 depth|0.083333 functions|0.16667 for|0.25 the|0.33333 left|0.41667 and|0.5 right|0.58333 images|0.66667 are|0.75 the|0.83333 pair|0.91667 |1"
+		}
+	}
+}

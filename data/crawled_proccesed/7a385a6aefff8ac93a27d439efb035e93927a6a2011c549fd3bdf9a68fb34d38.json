@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a385a6aefff8ac93a27d439efb035e93927a6a2011c549fd3bdf9a68fb34d38",
+			"url": "https://upload.wikimedia.org/math/3/8/f/38f6f55349d709d7fc086fd811295515.png",
+			"previous": " The calculated Lift coefficient depends only on the first two terms of the Fourier series as and its moment M about the leading edge to",
+			"after": " The moment about the 1 4 chord point will thus be  From this it follows that the center of pressure is aft of the quarter chord point 0 25 c by",
+			"color": "dim|0.3436 gray|0.3436 dim|0.3436 grey|0.3436 gray|0.27471 grey|0.27471 dark|0.18826 gray|0.18826 dark|0.18826 grey|0.18826 silver|0.091804 light|0.048785 gray|0.048785 light|0.048785 grey|0.048785 gainsboro|0.033677 white|0.0041237 smoke|0.0041237  ",
+			"after_weights": " The|1 moment|0.96774 about|0.93548 the|0.90323 1|0.87097 4|0.83871 chord|0.80645 point|0.77419 will|0.74194 thus|0.70968 be|0.67742 |0.64516 From|0.6129 this|0.58065 it|0.54839 follows|0.51613 that|0.48387 the|0.45161 center|0.41935 of|0.3871 pressure|0.35484 is|0.32258 aft|0.29032 of|0.25806 the|0.22581 quarter|0.19355 chord|0.16129 point|0.12903 0|0.096774 25|0.064516 c|0.032258 by|0",
+			"previous_weights": " The|0 calculated|0.041667 Lift|0.083333 coefficient|0.125 depends|0.16667 only|0.20833 on|0.25 the|0.29167 first|0.33333 two|0.375 terms|0.41667 of|0.45833 the|0.5 Fourier|0.54167 series|0.58333 as|0.625 and|0.66667 its|0.70833 moment|0.75 M|0.79167 about|0.83333 the|0.875 leading|0.91667 edge|0.95833 to|1"
+		}
+	}
+}

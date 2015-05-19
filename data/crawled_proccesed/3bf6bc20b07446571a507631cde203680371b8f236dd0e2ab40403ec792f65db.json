@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bf6bc20b07446571a507631cde203680371b8f236dd0e2ab40403ec792f65db",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Saudi_Red_Crescent_Authority_Airbus_A318CJ_Arroyo.jpg/220px-Saudi_Red_Crescent_Authority_Airbus_A318CJ_Arroyo.jpg",
+			"previous": " The maiden flight of the Airbus A318 took place at Toulouse on 15 January 2002 and the first customer delivery was on 22 July 2003 to Frontier Airlines 15 As of July 2013 47 A318s remained in commercial service with 6 airlines 16 ",
+			"after": " Apart from private and executive operators airline operators include 5  Data through end of February 2014 Updated on 13 March 2014 5 5 ",
+			"color": "dim|0.52906 gray|0.52906 dim|0.52906 grey|0.52906 gray|0.17311 grey|0.17311 dark|0.081036 gray|0.081036 dark|0.081036 grey|0.081036 black|0.06277 silver|0.044384 light|0.02452 gray|0.02452 light|0.02452 grey|0.02452 gainsboro|0.020747  ",
+			"after_weights": " Apart|1 from|0.95833 private|0.91667 and|0.875 executive|0.83333 operators|0.79167 airline|0.75 operators|0.70833 include|0.66667 5|0.625 |0.58333 Data|0.54167 through|0.5 end|0.45833 of|0.41667 February|0.375 2014|0.33333 Updated|0.29167 on|0.25 13|0.20833 March|0.16667 2014|0.125 5|0.083333 5|0.041667 |0",
+			"previous_weights": " The|0 maiden|0.023256 flight|0.046512 of|0.069767 the|0.093023 Airbus|0.11628 A318|0.13953 took|0.16279 place|0.18605 at|0.2093 Toulouse|0.23256 on|0.25581 15|0.27907 January|0.30233 2002|0.32558 and|0.34884 the|0.37209 first|0.39535 customer|0.4186 delivery|0.44186 was|0.46512 on|0.48837 22|0.51163 July|0.53488 2003|0.55814 to|0.5814 Frontier|0.60465 Airlines|0.62791 15|0.65116 As|0.67442 of|0.69767 July|0.72093 2013|0.74419 47|0.76744 A318s|0.7907 remained|0.81395 in|0.83721 commercial|0.86047 service|0.88372 with|0.90698 6|0.93023 airlines|0.95349 16|0.97674 |1"
+		}
+	}
+}

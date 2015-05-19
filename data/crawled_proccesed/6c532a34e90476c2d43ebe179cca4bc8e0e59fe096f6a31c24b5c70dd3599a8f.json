@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c532a34e90476c2d43ebe179cca4bc8e0e59fe096f6a31c24b5c70dd3599a8f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tejas_LCA_2015.jpg/220px-Tejas_LCA_2015.jpg",
+			"previous": " The Tejas Mark 3 is planned to be stealthier than Mark 2 and have composite usage up to 70 percent of the aircraft It is to also feature reduced infrared signature 151 ",
+			"after": " Data from tejas gov in 157 DRDO Techfocus 158 Aero India 2011 159  General characteristics Performance",
+			"color": "gray|0.61283 grey|0.61283 black|0.11907 dim|0.069302 gray|0.069302 dim|0.069302 grey|0.069302 slate|0.046364 gray|0.046364 dark|0.022561 gray|0.022561 dark|0.022561 grey|0.022561 light|0.017441 slate|0.017441 gray|0.017441 silver|0.010538 dark|0.01039 slate|0.01039 gray|0.01039  ",
+			"after_weights": " Data|1 from|0.9375 tejas|0.875 gov|0.8125 in|0.75 157|0.6875 DRDO|0.625 Techfocus|0.5625 158|0.5 Aero|0.4375 India|0.375 2011|0.3125 159|0.25 |0.1875 General|0.125 characteristics|0.0625 Performance|0",
+			"previous_weights": " The|0 Tejas|0.03125 Mark|0.0625 3|0.09375 is|0.125 planned|0.15625 to|0.1875 be|0.21875 stealthier|0.25 than|0.28125 Mark|0.3125 2|0.34375 and|0.375 have|0.40625 composite|0.4375 usage|0.46875 up|0.5 to|0.53125 70|0.5625 percent|0.59375 of|0.625 the|0.65625 aircraft|0.6875 It|0.71875 is|0.75 to|0.78125 also|0.8125 feature|0.84375 reduced|0.875 infrared|0.90625 signature|0.9375 151|0.96875 |1"
+		}
+	}
+}

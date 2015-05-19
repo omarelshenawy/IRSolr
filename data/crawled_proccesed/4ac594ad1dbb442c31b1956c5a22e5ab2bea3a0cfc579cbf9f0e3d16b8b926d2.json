@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ac594ad1dbb442c31b1956c5a22e5ab2bea3a0cfc579cbf9f0e3d16b8b926d2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Education_index_UN_HDR_2007_2008.PNG/220px-Education_index_UN_HDR_2007_2008.PNG",
+			"previous": " A culture is beginning to form around distance learning for people who are looking to social connections enjoyed on traditional campuses citation needed For example students may create study groups meetups and movements such as UnCollege ",
+			"after": " Since 1909 the ratio of children in the developing world attending school has increased Before then a small minority of boys attended school By the start of the 21st century the majority of all children in most regions of the world attended school ",
+			"color": "lime|0.2246 green|0.2246 forest|0.20091 green|0.20091 lime|0.20045 green|0.18684 yellow|0.039226 dark|0.025996 orange|0.025996 black|0.024484 dark|0.012396 gray|0.012396 dark|0.012396 grey|0.012396 light|0.0090294 green|0.0090294 dark|0.0068456 sea|0.0068456 green|0.0068456 sandy|0.0065726 brown|0.0065726 red|0.0065306 firebrick|0.0054842  ",
+			"after_weights": " Since|1 1909|0.97674 the|0.95349 ratio|0.93023 of|0.90698 children|0.88372 in|0.86047 the|0.83721 developing|0.81395 world|0.7907 attending|0.76744 school|0.74419 has|0.72093 increased|0.69767 Before|0.67442 then|0.65116 a|0.62791 small|0.60465 minority|0.5814 of|0.55814 boys|0.53488 attended|0.51163 school|0.48837 By|0.46512 the|0.44186 start|0.4186 of|0.39535 the|0.37209 21st|0.34884 century|0.32558 the|0.30233 majority|0.27907 of|0.25581 all|0.23256 children|0.2093 in|0.18605 most|0.16279 regions|0.13953 of|0.11628 the|0.093023 world|0.069767 attended|0.046512 school|0.023256 |0",
+			"previous_weights": " A|0 culture|0.027778 is|0.055556 beginning|0.083333 to|0.11111 form|0.13889 around|0.16667 distance|0.19444 learning|0.22222 for|0.25 people|0.27778 who|0.30556 are|0.33333 looking|0.36111 to|0.38889 social|0.41667 connections|0.44444 enjoyed|0.47222 on|0.5 traditional|0.52778 campuses|0.55556 citation|0.58333 needed|0.61111 For|0.63889 example|0.66667 students|0.69444 may|0.72222 create|0.75 study|0.77778 groups|0.80556 meetups|0.83333 and|0.86111 movements|0.88889 such|0.91667 as|0.94444 UnCollege|0.97222 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "96b73a2f0c7c4f2be8dd0764bff6b8c0999df18d724f2049889ec7b1930fc119",
+			"url": "https://upload.wikimedia.org/math/e/4/b/e4bc03a5df86d84dd352326d42b2ad92.png",
+			"previous": " Even more generally we may consider a new set of vectors proportional to the k basis vectors where each of the is a component that scales one of the basis vectors We are free to choose components as infinitesimally small as we wish as long as they remain nonzero Since the outer product of these terms can be interpreted as a k volume a natural way to define a measure is",
+			"after": " The measure is therefore always proportional to the unit pseudoscalar of a k dimensional subspace of the vector space Compare the Riemannian volume form in the theory of differential forms The integral is taken with respect to this measure ",
+			"color": "gray|0.30994 grey|0.30994 dark|0.25569 gray|0.25569 dark|0.25569 grey|0.25569 dim|0.20885 gray|0.20885 dim|0.20885 grey|0.20885 silver|0.11261 light|0.054312 gray|0.054312 light|0.054312 grey|0.054312 gainsboro|0.037167 white|0.0058426 smoke|0.0058426 linen|0.0028354  ",
+			"after_weights": " The|1 measure|0.97436 is|0.94872 therefore|0.92308 always|0.89744 proportional|0.87179 to|0.84615 the|0.82051 unit|0.79487 pseudoscalar|0.76923 of|0.74359 a|0.71795 k|0.69231 dimensional|0.66667 subspace|0.64103 of|0.61538 the|0.58974 vector|0.5641 space|0.53846 Compare|0.51282 the|0.48718 Riemannian|0.46154 volume|0.4359 form|0.41026 in|0.38462 the|0.35897 theory|0.33333 of|0.30769 differential|0.28205 forms|0.25641 The|0.23077 integral|0.20513 is|0.17949 taken|0.15385 with|0.12821 respect|0.10256 to|0.076923 this|0.051282 measure|0.025641 |0",
+			"previous_weights": " Even|0 more|0.014286 generally|0.028571 we|0.042857 may|0.057143 consider|0.071429 a|0.085714 new|0.1 set|0.11429 of|0.12857 vectors|0.14286 proportional|0.15714 to|0.17143 the|0.18571 k|0.2 basis|0.21429 vectors|0.22857 where|0.24286 each|0.25714 of|0.27143 the|0.28571 is|0.3 a|0.31429 component|0.32857 that|0.34286 scales|0.35714 one|0.37143 of|0.38571 the|0.4 basis|0.41429 vectors|0.42857 We|0.44286 are|0.45714 free|0.47143 to|0.48571 choose|0.5 components|0.51429 as|0.52857 infinitesimally|0.54286 small|0.55714 as|0.57143 we|0.58571 wish|0.6 as|0.61429 long|0.62857 as|0.64286 they|0.65714 remain|0.67143 nonzero|0.68571 Since|0.7 the|0.71429 outer|0.72857 product|0.74286 of|0.75714 these|0.77143 terms|0.78571 can|0.8 be|0.81429 interpreted|0.82857 as|0.84286 a|0.85714 k|0.87143 volume|0.88571 a|0.9 natural|0.91429 way|0.92857 to|0.94286 define|0.95714 a|0.97143 measure|0.98571 is|1"
+		}
+	}
+}

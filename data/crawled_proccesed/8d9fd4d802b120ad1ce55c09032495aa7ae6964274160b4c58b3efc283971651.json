@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d9fd4d802b120ad1ce55c09032495aa7ae6964274160b4c58b3efc283971651",
+			"url": "https://upload.wikimedia.org/math/8/e/7/8e76121c3853600af9f2773c10b4d38b.png",
+			"previous": " Associated with these roots are the eigenvectors  which has the roots 1 2 and 3 ",
+			"after": " respectively  A matrix with elements above the main diagonal that are all zeros is described as a triangular matrix or in this case lower triangular If the elements below the main diagonal are all zeros then the matrix is upper triangular The eigenvalues of triangular matrices are the elements of the main diagonal in the same way as for diagonal matrices ",
+			"color": "black|0.44383 dim|0.1679 gray|0.1679 dim|0.1679 grey|0.1679 gray|0.16736 grey|0.16736 dark|0.14371 gray|0.14371 dark|0.14371 grey|0.14371 silver|0.059277 light|0.012536 gray|0.012536 light|0.012536 grey|0.012536 gainsboro|0.0053833  ",
+			"after_weights": " respectively|1 |0.98387 A|0.96774 matrix|0.95161 with|0.93548 elements|0.91935 above|0.90323 the|0.8871 main|0.87097 diagonal|0.85484 that|0.83871 are|0.82258 all|0.80645 zeros|0.79032 is|0.77419 described|0.75806 as|0.74194 a|0.72581 triangular|0.70968 matrix|0.69355 or|0.67742 in|0.66129 this|0.64516 case|0.62903 lower|0.6129 triangular|0.59677 If|0.58065 the|0.56452 elements|0.54839 below|0.53226 the|0.51613 main|0.5 diagonal|0.48387 are|0.46774 all|0.45161 zeros|0.43548 then|0.41935 the|0.40323 matrix|0.3871 is|0.37097 upper|0.35484 triangular|0.33871 The|0.32258 eigenvalues|0.30645 of|0.29032 triangular|0.27419 matrices|0.25806 are|0.24194 the|0.22581 elements|0.20968 of|0.19355 the|0.17742 main|0.16129 diagonal|0.14516 in|0.12903 the|0.1129 same|0.096774 way|0.080645 as|0.064516 for|0.048387 diagonal|0.032258 matrices|0.016129 |0",
+			"previous_weights": " Associated|0 with|0.0625 these|0.125 roots|0.1875 are|0.25 the|0.3125 eigenvectors|0.375 |0.4375 which|0.5 has|0.5625 the|0.625 roots|0.6875 1|0.75 2|0.8125 and|0.875 3|0.9375 |1"
+		}
+	}
+}

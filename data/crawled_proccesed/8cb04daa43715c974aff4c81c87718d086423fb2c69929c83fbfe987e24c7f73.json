@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cb04daa43715c974aff4c81c87718d086423fb2c69929c83fbfe987e24c7f73",
+			"url": "https://upload.wikimedia.org/math/2/d/d/2dd637cafb6f8ec0c0368339714855bf.png",
+			"previous": " Multiplying by w3 it becomes a sextic equation in w which is in fact a quadratic equation in w3 ",
+			"after": " The quadratic formula allows this to be solved for w3 If w1 w2 and w3 are the three cube roots of one of the solutions in w3 then the roots of the original depressed cubic are",
+			"color": "black|0.35305 dim|0.27154 gray|0.27154 dim|0.27154 grey|0.27154 gray|0.17961 grey|0.17961 dark|0.10701 gray|0.10701 dark|0.10701 grey|0.10701 silver|0.04446 light|0.022347 gray|0.022347 light|0.022347 grey|0.022347 gainsboro|0.014722  ",
+			"after_weights": " The|1 quadratic|0.97143 formula|0.94286 allows|0.91429 this|0.88571 to|0.85714 be|0.82857 solved|0.8 for|0.77143 w3|0.74286 If|0.71429 w1|0.68571 w2|0.65714 and|0.62857 w3|0.6 are|0.57143 the|0.54286 three|0.51429 cube|0.48571 roots|0.45714 of|0.42857 one|0.4 of|0.37143 the|0.34286 solutions|0.31429 in|0.28571 w3|0.25714 then|0.22857 the|0.2 roots|0.17143 of|0.14286 the|0.11429 original|0.085714 depressed|0.057143 cubic|0.028571 are|0",
+			"previous_weights": " Multiplying|0 by|0.052632 w3|0.10526 it|0.15789 becomes|0.21053 a|0.26316 sextic|0.31579 equation|0.36842 in|0.42105 w|0.47368 which|0.52632 is|0.57895 in|0.63158 fact|0.68421 a|0.73684 quadratic|0.78947 equation|0.84211 in|0.89474 w3|0.94737 |1"
+		}
+	}
+}

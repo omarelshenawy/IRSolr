@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49c923816b818b832f4942f3b93b1259badac7277204893664d77877fc2c6a50",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Blarney_Castle_01.jpg/220px-Blarney_Castle_01.jpg",
+			"previous": " edit",
+			"after": " The population of the island is slightly over 6 million 2007 with 4 4 million in the Republic of Ireland 3 1 7 million in Greater Dublin 4 and an estimated 1 75 million in Northern Ireland 5 800 000 in Greater Belfast 6 This is a significant increase from a modern historical low in the 1960s but still much lower than the peak population of over 8 million in the early 19th century prior to the Great Famine ",
+			"color": "black|0.45909 dim|0.3942 gray|0.3942 dim|0.3942 grey|0.3942 dark|0.074188 olive|0.074188 green|0.074188 gray|0.069237 grey|0.069237  ",
+			"after_weights": " The|1 population|0.98734 of|0.97468 the|0.96203 island|0.94937 is|0.93671 slightly|0.92405 over|0.91139 6|0.89873 million|0.88608 2007|0.87342 with|0.86076 4|0.8481 4|0.83544 million|0.82278 in|0.81013 the|0.79747 Republic|0.78481 of|0.77215 Ireland|0.75949 3|0.74684 1|0.73418 7|0.72152 million|0.70886 in|0.6962 Greater|0.68354 Dublin|0.67089 4|0.65823 and|0.64557 an|0.63291 estimated|0.62025 1|0.60759 75|0.59494 million|0.58228 in|0.56962 Northern|0.55696 Ireland|0.5443 5|0.53165 800|0.51899 000|0.50633 in|0.49367 Greater|0.48101 Belfast|0.46835 6|0.4557 This|0.44304 is|0.43038 a|0.41772 significant|0.40506 increase|0.39241 from|0.37975 a|0.36709 modern|0.35443 historical|0.34177 low|0.32911 in|0.31646 the|0.3038 1960s|0.29114 but|0.27848 still|0.26582 much|0.25316 lower|0.24051 than|0.22785 the|0.21519 peak|0.20253 population|0.18987 of|0.17722 over|0.16456 8|0.1519 million|0.13924 in|0.12658 the|0.11392 early|0.10127 19th|0.088608 century|0.075949 prior|0.063291 to|0.050633 the|0.037975 Great|0.025316 Famine|0.012658 |0",
+			"previous_weights": " edit|1"
+		}
+	}
+}

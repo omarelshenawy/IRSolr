@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "851bd10bb3585008d680e9936b223e46c1e9753f83bee4a686115b8acab1d0e2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png",
+			"previous": " Scotland Pakistan New Zealand Kenya Ireland India England",
+			"after": " South Africa Sri Lanka West Indies Zimbabwe For a full list of Warwickshire players see List of Warwickshire CCC players  Qualification at least 20 000 runs 2 ",
+			"color": " ",
+			"after_weights": " South|1 Africa|0.96429 Sri|0.92857 Lanka|0.89286 West|0.85714 Indies|0.82143 Zimbabwe|0.78571 For|0.75 a|0.71429 full|0.67857 list|0.64286 of|0.60714 Warwickshire|0.57143 players|0.53571 see|0.5 List|0.46429 of|0.42857 Warwickshire|0.39286 CCC|0.35714 players|0.32143 |0.28571 Qualification|0.25 at|0.21429 least|0.17857 20|0.14286 000|0.10714 runs|0.071429 2|0.035714 |0",
+			"previous_weights": " Scotland|0 Pakistan|0.14286 New|0.28571 Zealand|0.42857 Kenya|0.57143 Ireland|0.71429 India|0.85714 England|1"
+		}
+	}
+}

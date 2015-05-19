@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40ab0774634e9013afe1305e963091cdbce47a8451239e56a419308f5f00dfc4",
+			"url": "https://upload.wikimedia.org/math/1/d/c/1dc83ef3d6e2e4ab7b969dd95c160d05.png",
+			"previous": " inverse of core total head temperature ratio i e f  core total head pressure ratio  core size ",
+			"after": " core entry total temperature  So basically increasing increases  On the other hand adding a stage to the rear of the compressor increases overall pressure ratio decreases core size but has no effect on core flow This option also needs a turbine with a significantly smaller flow capacity to drive the compressor ",
+			"color": "black|0.23482 gray|0.20577 grey|0.20577 dim|0.18976 gray|0.18976 dim|0.18976 grey|0.18976 dark|0.16027 gray|0.16027 dark|0.16027 grey|0.16027 silver|0.080944 light|0.048448 gray|0.048448 light|0.048448 grey|0.048448 gainsboro|0.037756 white|0.0091151 smoke|0.0091151 linen|0.0046365 lavender|0.004576 blush|0.004576 alice|0.0043898 blue|0.0043898 ghost|0.0042656 white|0.0042656 sea|0.0040927 shell|0.0040927 snow|0.0039065  ",
+			"after_weights": " core|1 entry|0.98113 total|0.96226 temperature|0.9434 |0.92453 So|0.90566 basically|0.88679 increasing|0.86792 increases|0.84906 |0.83019 On|0.81132 the|0.79245 other|0.77358 hand|0.75472 adding|0.73585 a|0.71698 stage|0.69811 to|0.67925 the|0.66038 rear|0.64151 of|0.62264 the|0.60377 compressor|0.58491 increases|0.56604 overall|0.54717 pressure|0.5283 ratio|0.50943 decreases|0.49057 core|0.4717 size|0.45283 but|0.43396 has|0.41509 no|0.39623 effect|0.37736 on|0.35849 core|0.33962 flow|0.32075 This|0.30189 option|0.28302 also|0.26415 needs|0.24528 a|0.22642 turbine|0.20755 with|0.18868 a|0.16981 significantly|0.15094 smaller|0.13208 flow|0.11321 capacity|0.09434 to|0.075472 drive|0.056604 the|0.037736 compressor|0.018868 |0",
+			"previous_weights": " inverse|0 of|0.052632 core|0.10526 total|0.15789 head|0.21053 temperature|0.26316 ratio|0.31579 i|0.36842 e|0.42105 f|0.47368 |0.52632 core|0.57895 total|0.63158 head|0.68421 pressure|0.73684 ratio|0.78947 |0.84211 core|0.89474 size|0.94737 |1"
+		}
+	}
+}

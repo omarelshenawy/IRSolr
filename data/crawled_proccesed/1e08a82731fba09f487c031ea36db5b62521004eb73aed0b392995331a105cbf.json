@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e08a82731fba09f487c031ea36db5b62521004eb73aed0b392995331a105cbf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NACA_Profil_0.svg/350px-NACA_Profil_0.svg.png",
+			"previous": " ",
+			"after": " The NACA airfoils are airfoil shapes for aircraft wings developed by the National Advisory Committee for Aeronautics NACA The shape of the NACA airfoils is described using a series of digits following the word NACA The parameters in the numerical code can be entered into equations to precisely generate the cross section of the airfoil and calculate its properties ",
+			"color": "snow|0.091511 white|0.091447 smoke|0.091447 white|0.09138 ghost|0.090843 white|0.090843 alice|0.090464 blue|0.090464 mint|0.089856 cream|0.089856 sea|0.08955 shell|0.08955 azure|0.089289 floral|0.088079 white|0.088079 lavender|0.085732 blush|0.085732 light|0.022591 coral|0.022591 salmon|0.015313 light|0.011982 pink|0.011982 misty|0.0082323 rose|0.0082323 pink|0.0078624 ivory|0.0070532 lime|0.005974 green|0.005974 light|0.005562 green|0.005562  ",
+			"after_weights": " The|1 NACA|0.98305 airfoils|0.9661 are|0.94915 airfoil|0.9322 shapes|0.91525 for|0.89831 aircraft|0.88136 wings|0.86441 developed|0.84746 by|0.83051 the|0.81356 National|0.79661 Advisory|0.77966 Committee|0.76271 for|0.74576 Aeronautics|0.72881 NACA|0.71186 The|0.69492 shape|0.67797 of|0.66102 the|0.64407 NACA|0.62712 airfoils|0.61017 is|0.59322 described|0.57627 using|0.55932 a|0.54237 series|0.52542 of|0.50847 digits|0.49153 following|0.47458 the|0.45763 word|0.44068 NACA|0.42373 The|0.40678 parameters|0.38983 in|0.37288 the|0.35593 numerical|0.33898 code|0.32203 can|0.30508 be|0.28814 entered|0.27119 into|0.25424 equations|0.23729 to|0.22034 precisely|0.20339 generate|0.18644 the|0.16949 cross|0.15254 section|0.13559 of|0.11864 the|0.10169 airfoil|0.084746 and|0.067797 calculate|0.050847 its|0.033898 properties|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

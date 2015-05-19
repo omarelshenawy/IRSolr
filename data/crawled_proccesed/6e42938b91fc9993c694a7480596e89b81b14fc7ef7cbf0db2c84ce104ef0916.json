@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e42938b91fc9993c694a7480596e89b81b14fc7ef7cbf0db2c84ce104ef0916",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pingos_near_Tuk.jpg/210px-Pingos_near_Tuk.jpg",
+			"previous": " ",
+			"after": " The Landmark comprises an area roughly 16 km2 6 2 sq mi just 5 km 3 1 mi west of Tuktoyaktuk and includes Ibyuk pingo Canada s highest and the world s second highest at 49 m 161 ft The Landmark is managed by Parks Canada under the National Parks Act Although a nationwide Landmarks program was envisioned at its creation Pingo remains the country s only National Landmark ",
+			"color": "dim|0.22926 gray|0.22926 dim|0.22926 grey|0.22926 gray|0.19835 grey|0.19835 dark|0.14803 gray|0.14803 dark|0.14803 grey|0.14803 silver|0.098327 light|0.093535 gray|0.093535 light|0.093535 grey|0.093535 gainsboro|0.083165 lavender|0.044376 white|0.01905 smoke|0.01905 lavender|0.018904 blush|0.018904 ghost|0.017672 white|0.017672 alice|0.017421 blue|0.017421 slate|0.0083128 gray|0.0083128 snow|0.0062567  ",
+			"after_weights": " The|1 Landmark|0.98551 comprises|0.97101 an|0.95652 area|0.94203 roughly|0.92754 16|0.91304 km2|0.89855 6|0.88406 2|0.86957 sq|0.85507 mi|0.84058 just|0.82609 5|0.81159 km|0.7971 3|0.78261 1|0.76812 mi|0.75362 west|0.73913 of|0.72464 Tuktoyaktuk|0.71014 and|0.69565 includes|0.68116 Ibyuk|0.66667 pingo|0.65217 Canada|0.63768 s|0.62319 highest|0.6087 and|0.5942 the|0.57971 world|0.56522 s|0.55072 second|0.53623 highest|0.52174 at|0.50725 49|0.49275 m|0.47826 161|0.46377 ft|0.44928 The|0.43478 Landmark|0.42029 is|0.4058 managed|0.3913 by|0.37681 Parks|0.36232 Canada|0.34783 under|0.33333 the|0.31884 National|0.30435 Parks|0.28986 Act|0.27536 Although|0.26087 a|0.24638 nationwide|0.23188 Landmarks|0.21739 program|0.2029 was|0.18841 envisioned|0.17391 at|0.15942 its|0.14493 creation|0.13043 Pingo|0.11594 remains|0.10145 the|0.086957 country|0.072464 s|0.057971 only|0.043478 National|0.028986 Landmark|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

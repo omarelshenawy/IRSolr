@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "20f220cbaf93fe37b414ef39d940f910a790e56e5450af5a1c211bc800a148ae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/File-Asiana_B772_HL7597_%28cropped%29.jpg/220px-File-Asiana_B772_HL7597_%28cropped%29.jpg",
+			"previous": " In addition to Star Alliance members Asiana Airlines now also have new codeshare agreements with the following airlines as of April 2014 17 ",
+			"after": " As of May 2015 Asiana Airlines fleet consists of the following aircraft 21 22 23 ",
+			"color": "black|0.23047 dim|0.1468 gray|0.1468 dim|0.1468 grey|0.1468 gray|0.084145 grey|0.084145 dark|0.048138 gray|0.048138 dark|0.048138 grey|0.048138 antique|0.046445 white|0.046445 linen|0.032157 papaya|0.030682 whip|0.030682 old|0.029476 lace|0.029476 crimson|0.027544 silver|0.026615 blanched|0.024631 almond|0.024631 beige|0.023973 corn|0.022939 silk|0.022939 floral|0.020105 white|0.020105 sea|0.018464 shell|0.018464 ivory|0.017632 light|0.015142 gray|0.015142 light|0.015142 grey|0.015142 misty|0.014963 rose|0.014963 bisque|0.01328 dark|0.012861 slate|0.012861 gray|0.012861 gainsboro|0.010021 light|0.009911 yellow|0.009911 orange|0.0080663 red|0.0063192 tan|0.0060033 slate|0.0056997 gray|0.0056997  ",
+			"after_weights": " As|1 of|0.93333 May|0.86667 2015|0.8 Asiana|0.73333 Airlines|0.66667 fleet|0.6 consists|0.53333 of|0.46667 the|0.4 following|0.33333 aircraft|0.26667 21|0.2 22|0.13333 23|0.066667 |0",
+			"previous_weights": " In|0 addition|0.043478 to|0.086957 Star|0.13043 Alliance|0.17391 members|0.21739 Asiana|0.26087 Airlines|0.30435 now|0.34783 also|0.3913 have|0.43478 new|0.47826 codeshare|0.52174 agreements|0.56522 with|0.6087 the|0.65217 following|0.69565 airlines|0.73913 as|0.78261 of|0.82609 April|0.86957 2014|0.91304 17|0.95652 |1"
+		}
+	}
+}

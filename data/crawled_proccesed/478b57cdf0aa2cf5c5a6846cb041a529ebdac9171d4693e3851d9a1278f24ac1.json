@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "478b57cdf0aa2cf5c5a6846cb041a529ebdac9171d4693e3851d9a1278f24ac1",
+			"url": "https://upload.wikimedia.org/math/d/5/a/d5aef85b6b1cb8b0b18ea2c5420e4cd0.png",
+			"previous": " where L x y y L x f f when 0 and we have used integration by parts The last term vanishes because 0 at x1 and x2 by definition Also as previously mentioned the left side of the equation is zero so that",
+			"after": " According to the fundamental lemma of calculus of variations the part of the integrand in parentheses is zero i e ",
+			"color": "gray|0.29508 grey|0.29508 dim|0.27494 gray|0.27494 dim|0.27494 grey|0.27494 dark|0.22535 gray|0.22535 dark|0.22535 grey|0.22535 silver|0.1012 light|0.048285 gray|0.048285 light|0.048285 grey|0.048285 gainsboro|0.033742 white|0.005446 smoke|0.005446 linen|0.0027638  ",
+			"after_weights": " According|1 to|0.95 the|0.9 fundamental|0.85 lemma|0.8 of|0.75 calculus|0.7 of|0.65 variations|0.6 the|0.55 part|0.5 of|0.45 the|0.4 integrand|0.35 in|0.3 parentheses|0.25 is|0.2 zero|0.15 i|0.1 e|0.05 |0",
+			"previous_weights": " where|0 L|0.023256 x|0.046512 y|0.069767 y|0.093023 L|0.11628 x|0.13953 f|0.16279 f|0.18605 when|0.2093 0|0.23256 and|0.25581 we|0.27907 have|0.30233 used|0.32558 integration|0.34884 by|0.37209 parts|0.39535 The|0.4186 last|0.44186 term|0.46512 vanishes|0.48837 because|0.51163 0|0.53488 at|0.55814 x1|0.5814 and|0.60465 x2|0.62791 by|0.65116 definition|0.67442 Also|0.69767 as|0.72093 previously|0.74419 mentioned|0.76744 the|0.7907 left|0.81395 side|0.83721 of|0.86047 the|0.88372 equation|0.90698 is|0.93023 zero|0.95349 so|0.97674 that|1"
+		}
+	}
+}

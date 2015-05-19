@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c48bb8719675a5caa5bf9d87b7a205bd6387a434053d939d5d17c9eb31cf366",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/PeregrineFalconSilhouettes.svg/220px-PeregrineFalconSilhouettes.svg.png",
+			"previous": " ",
+			"after": " The peregrine falcon lives mostly along mountain ranges river valleys coastlines and increasingly in cities 11 In mild winter regions it is usually a permanent resident and some individuals especially adult males will remain on the breeding territory Only populations that breed in Arctic climates typically migrate great distances during the northern winter 47 ",
+			"color": "black|0.94786 dim|0.018648 gray|0.018648 dim|0.018648 grey|0.018648 gray|0.017076 grey|0.017076 dark|0.011794 gray|0.011794 dark|0.011794 grey|0.011794 silver|0.0036723  ",
+			"after_weights": " The|1 peregrine|0.98148 falcon|0.96296 lives|0.94444 mostly|0.92593 along|0.90741 mountain|0.88889 ranges|0.87037 river|0.85185 valleys|0.83333 coastlines|0.81481 and|0.7963 increasingly|0.77778 in|0.75926 cities|0.74074 11|0.72222 In|0.7037 mild|0.68519 winter|0.66667 regions|0.64815 it|0.62963 is|0.61111 usually|0.59259 a|0.57407 permanent|0.55556 resident|0.53704 and|0.51852 some|0.5 individuals|0.48148 especially|0.46296 adult|0.44444 males|0.42593 will|0.40741 remain|0.38889 on|0.37037 the|0.35185 breeding|0.33333 territory|0.31481 Only|0.2963 populations|0.27778 that|0.25926 breed|0.24074 in|0.22222 Arctic|0.2037 climates|0.18519 typically|0.16667 migrate|0.14815 great|0.12963 distances|0.11111 during|0.092593 the|0.074074 northern|0.055556 winter|0.037037 47|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

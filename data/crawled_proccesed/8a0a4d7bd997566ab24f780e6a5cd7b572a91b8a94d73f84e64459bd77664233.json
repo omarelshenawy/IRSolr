@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a0a4d7bd997566ab24f780e6a5cd7b572a91b8a94d73f84e64459bd77664233",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Io%2C_moon_of_Jupiter%2C_NASA.jpg/125px-Io%2C_moon_of_Jupiter%2C_NASA.jpg",
+			"previous": " ",
+			"after": " The exploration of Jupiter has consisted solely of a number of automated NASA spacecraft visiting the planet since 1973 A large majority of the missions have been flybys in which detailed observations are taken without the probe landing or entering orbit the Galileo spacecraft is the only one to have orbited the planet As Jupiter is believed to have only a relatively small rocky core and no real solid surface a landing mission is nearly impossible ",
+			"color": "golden|0.17481 rod|0.17481 dark|0.1446 golden|0.1446 rod|0.1446 peru|0.13921 burly|0.065959 wood|0.065959 tan|0.047059 sienna|0.041604 saddle|0.040809 brown|0.040809 dim|0.039087 gray|0.039087 dim|0.039087 grey|0.039087 gray|0.038998 grey|0.038998 dark|0.0212 khaki|0.0212 khaki|0.020228 chocolate|0.01908 navajo|0.015926 white|0.015926 rosy|0.013603 brown|0.013603 peach|0.013079 puff|0.013079  ",
+			"after_weights": " The|1 exploration|0.98684 of|0.97368 Jupiter|0.96053 has|0.94737 consisted|0.93421 solely|0.92105 of|0.90789 a|0.89474 number|0.88158 of|0.86842 automated|0.85526 NASA|0.84211 spacecraft|0.82895 visiting|0.81579 the|0.80263 planet|0.78947 since|0.77632 1973|0.76316 A|0.75 large|0.73684 majority|0.72368 of|0.71053 the|0.69737 missions|0.68421 have|0.67105 been|0.65789 flybys|0.64474 in|0.63158 which|0.61842 detailed|0.60526 observations|0.59211 are|0.57895 taken|0.56579 without|0.55263 the|0.53947 probe|0.52632 landing|0.51316 or|0.5 entering|0.48684 orbit|0.47368 the|0.46053 Galileo|0.44737 spacecraft|0.43421 is|0.42105 the|0.40789 only|0.39474 one|0.38158 to|0.36842 have|0.35526 orbited|0.34211 the|0.32895 planet|0.31579 As|0.30263 Jupiter|0.28947 is|0.27632 believed|0.26316 to|0.25 have|0.23684 only|0.22368 a|0.21053 relatively|0.19737 small|0.18421 rocky|0.17105 core|0.15789 and|0.14474 no|0.13158 real|0.11842 solid|0.10526 surface|0.092105 a|0.078947 landing|0.065789 mission|0.052632 is|0.039474 nearly|0.026316 impossible|0.013158 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22ef675c55b5bb551a43274ed1ae0bf7f5947ea4e760436ac07aff4e532b7988",
+			"url": "https://upload.wikimedia.org/math/7/9/0/790cf0fa08fc0156c87fa473a53a1fba.png",
+			"previous": " Let be an arbitrary matrix of complex numbers with eigenvalues Here it is understood that an eigenvalue with algebraic multiplicity occurs times in this list Then A matrix that is not diagonalizable is said to be defective For defective matrices the notion of eigenvector can be generalized to generalized eigenvectors and that of diagonal matrix to a Jordan form matrix Over an algebraically closed field any matrix has a Jordan form and therefore admits a basis of generalized eigenvectors and a decomposition into generalized eigenspaces",
+			"after": " ",
+			"color": "dim|0.41129 gray|0.41129 dim|0.41129 grey|0.41129 gray|0.28528 grey|0.28528 dark|0.16434 gray|0.16434 dark|0.16434 grey|0.16434 silver|0.06801 light|0.034343 gray|0.034343 light|0.034343 grey|0.034343 gainsboro|0.023366  ",
+			"after_weights": " ",
+			"previous_weights": " Let|0 be|0.011905 an|0.02381 arbitrary|0.035714 matrix|0.047619 of|0.059524 complex|0.071429 numbers|0.083333 with|0.095238 eigenvalues|0.10714 Here|0.11905 it|0.13095 is|0.14286 understood|0.15476 that|0.16667 an|0.17857 eigenvalue|0.19048 with|0.20238 algebraic|0.21429 multiplicity|0.22619 occurs|0.2381 times|0.25 in|0.2619 this|0.27381 list|0.28571 Then|0.29762 A|0.30952 matrix|0.32143 that|0.33333 is|0.34524 not|0.35714 diagonalizable|0.36905 is|0.38095 said|0.39286 to|0.40476 be|0.41667 defective|0.42857 For|0.44048 defective|0.45238 matrices|0.46429 the|0.47619 notion|0.4881 of|0.5 eigenvector|0.5119 can|0.52381 be|0.53571 generalized|0.54762 to|0.55952 generalized|0.57143 eigenvectors|0.58333 and|0.59524 that|0.60714 of|0.61905 diagonal|0.63095 matrix|0.64286 to|0.65476 a|0.66667 Jordan|0.67857 form|0.69048 matrix|0.70238 Over|0.71429 an|0.72619 algebraically|0.7381 closed|0.75 field|0.7619 any|0.77381 matrix|0.78571 has|0.79762 a|0.80952 Jordan|0.82143 form|0.83333 and|0.84524 therefore|0.85714 admits|0.86905 a|0.88095 basis|0.89286 of|0.90476 generalized|0.91667 eigenvectors|0.92857 and|0.94048 a|0.95238 decomposition|0.96429 into|0.97619 generalized|0.9881 eigenspaces|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b9a0f207abacca9a2d3fbdec9c336e6165a1058d6c494388535499c3cdd46a8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DowntownJC1.JPG/220px-DowntownJC1.JPG",
+			"previous": " A diverse collection of languages has since evolved amongst the state s population given that New Jersey has become cosmopolitan and is home to ethnic enclaves of non English speaking communities 79 80 81 82 ",
+			"after": "  Less than 0 5 ",
+			"color": "gray|0.18288 grey|0.18288 light|0.17057 steel|0.17057 blue|0.17057 dim|0.16058 gray|0.16058 dim|0.16058 grey|0.16058 dark|0.1486 gray|0.1486 dark|0.1486 grey|0.1486 slate|0.095442 gray|0.095442 silver|0.094713 light|0.08951 slate|0.08951 gray|0.08951 dark|0.022943 slate|0.022943 gray|0.022943 black|0.018235 light|0.0072199 gray|0.0072199 light|0.0072199 grey|0.0072199  ",
+			"after_weights": " |1 Less|0.8 than|0.6 0|0.4 5|0.2 |0",
+			"previous_weights": " A|0 diverse|0.028571 collection|0.057143 of|0.085714 languages|0.11429 has|0.14286 since|0.17143 evolved|0.2 amongst|0.22857 the|0.25714 state|0.28571 s|0.31429 population|0.34286 given|0.37143 that|0.4 New|0.42857 Jersey|0.45714 has|0.48571 become|0.51429 cosmopolitan|0.54286 and|0.57143 is|0.6 home|0.62857 to|0.65714 ethnic|0.68571 enclaves|0.71429 of|0.74286 non|0.77143 English|0.8 speaking|0.82857 communities|0.85714 79|0.88571 80|0.91429 81|0.94286 82|0.97143 |1"
+		}
+	}
+}

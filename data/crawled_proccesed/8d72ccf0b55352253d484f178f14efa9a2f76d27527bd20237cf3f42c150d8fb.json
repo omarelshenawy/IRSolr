@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d72ccf0b55352253d484f178f14efa9a2f76d27527bd20237cf3f42c150d8fb",
+			"url": "https://upload.wikimedia.org/math/0/9/8/098d007de57e27ec00546b3074364915.png",
+			"previous": " That is we define the sum of the ri to be the supremum of all the sums of finitely many of them ",
+			"after": " Note that the second condition is equivalent to the statement that the ideal of null sets is complete ",
+			"color": "gray|0.30025 grey|0.30025 dark|0.27903 gray|0.27903 dark|0.27903 grey|0.27903 dim|0.17252 gray|0.17252 dim|0.17252 grey|0.17252 silver|0.11941 light|0.05659 gray|0.05659 light|0.05659 grey|0.05659 gainsboro|0.039658 white|0.0080226 smoke|0.0080226 linen|0.0042058 lavender|0.0035376 blush|0.0035376 alice|0.003357 blue|0.003357 ghost|0.0032366 white|0.0032366 sea|0.0029915 shell|0.0029915 snow|0.0027883  ",
+			"after_weights": " Note|1 that|0.94444 the|0.88889 second|0.83333 condition|0.77778 is|0.72222 equivalent|0.66667 to|0.61111 the|0.55556 statement|0.5 that|0.44444 the|0.38889 ideal|0.33333 of|0.27778 null|0.22222 sets|0.16667 is|0.11111 complete|0.055556 |0",
+			"previous_weights": " That|0 is|0.045455 we|0.090909 define|0.13636 the|0.18182 sum|0.22727 of|0.27273 the|0.31818 ri|0.36364 to|0.40909 be|0.45455 the|0.5 supremum|0.54545 of|0.59091 all|0.63636 the|0.68182 sums|0.72727 of|0.77273 finitely|0.81818 many|0.86364 of|0.90909 them|0.95455 |1"
+		}
+	}
+}

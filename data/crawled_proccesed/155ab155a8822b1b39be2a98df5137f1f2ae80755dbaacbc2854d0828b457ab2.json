@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "155ab155a8822b1b39be2a98df5137f1f2ae80755dbaacbc2854d0828b457ab2",
+			"url": "https://upload.wikimedia.org/math/0/b/a/0babb4f970aecfce00f11f7e90938b6c.png",
+			"previous": " until convergence A suitable starting guess is given by where In some problems we need to be able to solve the inverse problem given determine This may be solved by Newton s method iterating",
+			"after": " Alternatively Helmert s series for the meridian distance can be reverted to give 20 21  where",
+			"color": " ",
+			"after_weights": " Alternatively|1 Helmert|0.9375 s|0.875 series|0.8125 for|0.75 the|0.6875 meridian|0.625 distance|0.5625 can|0.5 be|0.4375 reverted|0.375 to|0.3125 give|0.25 20|0.1875 21|0.125 |0.0625 where|0",
+			"previous_weights": " until|0 convergence|0.030303 A|0.060606 suitable|0.090909 starting|0.12121 guess|0.15152 is|0.18182 given|0.21212 by|0.24242 where|0.27273 In|0.30303 some|0.33333 problems|0.36364 we|0.39394 need|0.42424 to|0.45455 be|0.48485 able|0.51515 to|0.54545 solve|0.57576 the|0.60606 inverse|0.63636 problem|0.66667 given|0.69697 determine|0.72727 This|0.75758 may|0.78788 be|0.81818 solved|0.84848 by|0.87879 Newton|0.90909 s|0.93939 method|0.9697 iterating|1"
+		}
+	}
+}

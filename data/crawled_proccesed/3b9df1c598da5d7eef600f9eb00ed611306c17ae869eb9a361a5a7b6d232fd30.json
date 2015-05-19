@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b9df1c598da5d7eef600f9eb00ed611306c17ae869eb9a361a5a7b6d232fd30",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kharkov_Airport_Sokolniki.jpg/220px-Kharkov_Airport_Sokolniki.jpg",
+			"previous": " ",
+			"after": " The earliest aircraft takeoff and landing sites were grassy fields The plane could approach at any angle that provided a favorable wind direction A slight improvement was the dirt only field which eliminated the drag from grass However these only functioned well in dry conditions Later concrete surfaces would allow landings rain or shine day or night ",
+			"color": "dim|0.23232 gray|0.23232 dim|0.23232 grey|0.23232 gray|0.15308 grey|0.15308 dark|0.14229 gray|0.14229 dark|0.14229 grey|0.14229 silver|0.10606 light|0.076556 gray|0.076556 light|0.076556 grey|0.076556 gainsboro|0.057954 white|0.024325 smoke|0.024325 linen|0.023564 sea|0.022612 shell|0.022612 snow|0.019329 floral|0.017864 white|0.017864 white|0.015652 ghost|0.014218 white|0.014218 lavender|0.014145 blush|0.014145 mint|0.013978 cream|0.013978 alice|0.010759 blue|0.010759 misty|0.010223 rose|0.010223 old|0.0096018 lace|0.0096018 azure|0.0083629 ivory|0.0067175  ",
+			"after_weights": " The|1 earliest|0.98246 aircraft|0.96491 takeoff|0.94737 and|0.92982 landing|0.91228 sites|0.89474 were|0.87719 grassy|0.85965 fields|0.84211 The|0.82456 plane|0.80702 could|0.78947 approach|0.77193 at|0.75439 any|0.73684 angle|0.7193 that|0.70175 provided|0.68421 a|0.66667 favorable|0.64912 wind|0.63158 direction|0.61404 A|0.59649 slight|0.57895 improvement|0.5614 was|0.54386 the|0.52632 dirt|0.50877 only|0.49123 field|0.47368 which|0.45614 eliminated|0.4386 the|0.42105 drag|0.40351 from|0.38596 grass|0.36842 However|0.35088 these|0.33333 only|0.31579 functioned|0.29825 well|0.2807 in|0.26316 dry|0.24561 conditions|0.22807 Later|0.21053 concrete|0.19298 surfaces|0.17544 would|0.15789 allow|0.14035 landings|0.12281 rain|0.10526 or|0.087719 shine|0.070175 day|0.052632 or|0.035088 night|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

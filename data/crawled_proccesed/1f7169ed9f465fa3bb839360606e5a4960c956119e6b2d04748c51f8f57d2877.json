@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f7169ed9f465fa3bb839360606e5a4960c956119e6b2d04748c51f8f57d2877",
+			"url": "https://upload.wikimedia.org/math/c/f/c/cfc4fb4a3a1070ac466ef7f7ff7f2bb0.png",
+			"previous": " If the events are not mutually exclusive then",
+			"after": " Conditional probability is the probability of some event A given the occurrence of some other event B Conditional probability is written and is read the probability of A given B It is defined by 23 ",
+			"color": "black|1  ",
+			"after_weights": " Conditional|1 probability|0.97143 is|0.94286 the|0.91429 probability|0.88571 of|0.85714 some|0.82857 event|0.8 A|0.77143 given|0.74286 the|0.71429 occurrence|0.68571 of|0.65714 some|0.62857 other|0.6 event|0.57143 B|0.54286 Conditional|0.51429 probability|0.48571 is|0.45714 written|0.42857 and|0.4 is|0.37143 read|0.34286 the|0.31429 probability|0.28571 of|0.25714 A|0.22857 given|0.2 B|0.17143 It|0.14286 is|0.11429 defined|0.085714 by|0.057143 23|0.028571 |0",
+			"previous_weights": " If|0 the|0.14286 events|0.28571 are|0.42857 not|0.57143 mutually|0.71429 exclusive|0.85714 then|1"
+		}
+	}
+}

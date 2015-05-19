@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3618465ac0080791090f584d25d08f994df626cd8555836271caec18dd8f3c21",
+			"url": "https://upload.wikimedia.org/math/c/f/2/cf23c1be8e4a2a4cc242970e2fbe209b.png",
+			"previous": " A univariate single variable quadratic function has the form 1 ",
+			"after": " in the single variable x The graph of a univariate quadratic function is a parabola whose axis of symmetry is parallel to the y axis as shown at right ",
+			"color": "dim|0.2318 gray|0.2318 dim|0.2318 grey|0.2318 gray|0.22787 grey|0.22787 dark|0.22133 gray|0.22133 dark|0.22133 grey|0.22133 black|0.16563 silver|0.10319 light|0.034718 gray|0.034718 light|0.034718 grey|0.034718 gainsboro|0.015429  ",
+			"after_weights": " in|1 the|0.96552 single|0.93103 variable|0.89655 x|0.86207 The|0.82759 graph|0.7931 of|0.75862 a|0.72414 univariate|0.68966 quadratic|0.65517 function|0.62069 is|0.58621 a|0.55172 parabola|0.51724 whose|0.48276 axis|0.44828 of|0.41379 symmetry|0.37931 is|0.34483 parallel|0.31034 to|0.27586 the|0.24138 y|0.2069 axis|0.17241 as|0.13793 shown|0.10345 at|0.068966 right|0.034483 |0",
+			"previous_weights": " A|0 univariate|0.1 single|0.2 variable|0.3 quadratic|0.4 function|0.5 has|0.6 the|0.7 form|0.8 1|0.9 |1"
+		}
+	}
+}

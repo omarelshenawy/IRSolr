@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4759aad6bfa42a14805d16975f58e6f9562e6089bc1fe4fd6d526f239d53a3e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lightmatter_Hsi_Lai_Temple_2.jpg/250px-Lightmatter_Hsi_Lai_Temple_2.jpg",
+			"previous": "  The San Gabriel Valley is home to leading educational institutions including the California Institute of Technology Caltech and California State Polytechnic University Pomona Cal Poly 49 ",
+			"after": " Most of the San Gabriel Valley lies within the 626 area code Montebello Whittier and portions of its valley neighbors are in the 323 and 562 area codes Some of northwestern Pasadena is also serviced by the 818 area code Walnut and portions of some of its valley neighbors are in the 909 area code ",
+			"color": "black|0.30276 gray|0.10441 grey|0.10441 dark|0.097467 gray|0.097467 dark|0.097467 grey|0.097467 peru|0.078823 chocolate|0.074785 dim|0.039132 gray|0.039132 dim|0.039132 grey|0.039132 saddle|0.035898 brown|0.035898 dark|0.033302 olive|0.033302 green|0.033302 silver|0.022516 sienna|0.01749 olive|0.012954 drab|0.012954 light|0.01289 gray|0.01289 light|0.01289 grey|0.01289  ",
+			"after_weights": " Most|1 of|0.98182 the|0.96364 San|0.94545 Gabriel|0.92727 Valley|0.90909 lies|0.89091 within|0.87273 the|0.85455 626|0.83636 area|0.81818 code|0.8 Montebello|0.78182 Whittier|0.76364 and|0.74545 portions|0.72727 of|0.70909 its|0.69091 valley|0.67273 neighbors|0.65455 are|0.63636 in|0.61818 the|0.6 323|0.58182 and|0.56364 562|0.54545 area|0.52727 codes|0.50909 Some|0.49091 of|0.47273 northwestern|0.45455 Pasadena|0.43636 is|0.41818 also|0.4 serviced|0.38182 by|0.36364 the|0.34545 818|0.32727 area|0.30909 code|0.29091 Walnut|0.27273 and|0.25455 portions|0.23636 of|0.21818 some|0.2 of|0.18182 its|0.16364 valley|0.14545 neighbors|0.12727 are|0.10909 in|0.090909 the|0.072727 909|0.054545 area|0.036364 code|0.018182 |0",
+			"previous_weights": " |0 The|0.037037 San|0.074074 Gabriel|0.11111 Valley|0.14815 is|0.18519 home|0.22222 to|0.25926 leading|0.2963 educational|0.33333 institutions|0.37037 including|0.40741 the|0.44444 California|0.48148 Institute|0.51852 of|0.55556 Technology|0.59259 Caltech|0.62963 and|0.66667 California|0.7037 State|0.74074 Polytechnic|0.77778 University|0.81481 Pomona|0.85185 Cal|0.88889 Poly|0.92593 49|0.96296 |1"
+		}
+	}
+}

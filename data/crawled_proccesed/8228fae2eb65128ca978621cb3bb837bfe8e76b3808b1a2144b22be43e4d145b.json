@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8228fae2eb65128ca978621cb3bb837bfe8e76b3808b1a2144b22be43e4d145b",
+			"url": "https://upload.wikimedia.org/math/7/b/7/7b74bc7d8dd9bdd9446ef3681e8286fc.png",
+			"previous": " where is energy conversion efficiency is electrical input power and is mechanical output power ",
+			"after": " where is input voltage is input current is output torque and is output angular velocity It is possible to derive analytically the point of maximum efficiency It is typically at less than 1 2 the stall torque citation needed ",
+			"color": "dim|0.42189 gray|0.42189 dim|0.42189 grey|0.42189 gray|0.26911 grey|0.26911 dark|0.16678 gray|0.16678 dark|0.16678 grey|0.16678 silver|0.073063 light|0.034417 gray|0.034417 light|0.034417 grey|0.034417 gainsboro|0.023373 white|0.0034332 smoke|0.0034332  ",
+			"after_weights": " where|1 is|0.97436 input|0.94872 voltage|0.92308 is|0.89744 input|0.87179 current|0.84615 is|0.82051 output|0.79487 torque|0.76923 and|0.74359 is|0.71795 output|0.69231 angular|0.66667 velocity|0.64103 It|0.61538 is|0.58974 possible|0.5641 to|0.53846 derive|0.51282 analytically|0.48718 the|0.46154 point|0.4359 of|0.41026 maximum|0.38462 efficiency|0.35897 It|0.33333 is|0.30769 typically|0.28205 at|0.25641 less|0.23077 than|0.20513 1|0.17949 2|0.15385 the|0.12821 stall|0.10256 torque|0.076923 citation|0.051282 needed|0.025641 |0",
+			"previous_weights": " where|0 is|0.071429 energy|0.14286 conversion|0.21429 efficiency|0.28571 is|0.35714 electrical|0.42857 input|0.5 power|0.57143 and|0.64286 is|0.71429 mechanical|0.78571 output|0.85714 power|0.92857 |1"
+		}
+	}
+}

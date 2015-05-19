@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18d00a8844090d22d1416893f97ba1523422afa7cf1cb9080d089d93cb59bedd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Browns_Stadium-2.jpg/220px-Browns_Stadium-2.jpg",
+			"previous": " The Indians last reached the World Series in 1997 losing to the Florida Marlins and have not won the series since 1948 Between 1995 and 2001 Progressive Field then known as Jacobs Field sold out 455 consecutive games a Major League Baseball record until it was broken in 2008 132 ",
+			"after": " The Cavaliers won the Eastern Conference in 2007 but were defeated in the NBA Finals by the San Antonio Spurs Although the Browns are historically among the winningest franchises in the NFL the team has not won a championship since 1964 Cleveland facilities have hosted the Major League Baseball All Star Game five times and the NBA All Star Game twice ",
+			"color": "black|0.30524 dark|0.16228 olive|0.16228 green|0.16228 dim|0.13859 gray|0.13859 dim|0.13859 grey|0.13859 rosy|0.10798 brown|0.10798 gray|0.08389 grey|0.08389 dark|0.042708 gray|0.042708 dark|0.042708 grey|0.042708 dark|0.027606 slate|0.027606 gray|0.027606 slate|0.024088 gray|0.024088 light|0.016128 slate|0.016128 gray|0.016128 silver|0.015365  ",
+			"after_weights": " The|1 Cavaliers|0.98361 won|0.96721 the|0.95082 Eastern|0.93443 Conference|0.91803 in|0.90164 2007|0.88525 but|0.86885 were|0.85246 defeated|0.83607 in|0.81967 the|0.80328 NBA|0.78689 Finals|0.77049 by|0.7541 the|0.7377 San|0.72131 Antonio|0.70492 Spurs|0.68852 Although|0.67213 the|0.65574 Browns|0.63934 are|0.62295 historically|0.60656 among|0.59016 the|0.57377 winningest|0.55738 franchises|0.54098 in|0.52459 the|0.5082 NFL|0.4918 the|0.47541 team|0.45902 has|0.44262 not|0.42623 won|0.40984 a|0.39344 championship|0.37705 since|0.36066 1964|0.34426 Cleveland|0.32787 facilities|0.31148 have|0.29508 hosted|0.27869 the|0.2623 Major|0.2459 League|0.22951 Baseball|0.21311 All|0.19672 Star|0.18033 Game|0.16393 five|0.14754 times|0.13115 and|0.11475 the|0.098361 NBA|0.081967 All|0.065574 Star|0.04918 Game|0.032787 twice|0.016393 |0",
+			"previous_weights": " The|0 Indians|0.02 last|0.04 reached|0.06 the|0.08 World|0.1 Series|0.12 in|0.14 1997|0.16 losing|0.18 to|0.2 the|0.22 Florida|0.24 Marlins|0.26 and|0.28 have|0.3 not|0.32 won|0.34 the|0.36 series|0.38 since|0.4 1948|0.42 Between|0.44 1995|0.46 and|0.48 2001|0.5 Progressive|0.52 Field|0.54 then|0.56 known|0.58 as|0.6 Jacobs|0.62 Field|0.64 sold|0.66 out|0.68 455|0.7 consecutive|0.72 games|0.74 a|0.76 Major|0.78 League|0.8 Baseball|0.82 record|0.84 until|0.86 it|0.88 was|0.9 broken|0.92 in|0.94 2008|0.96 132|0.98 |1"
+		}
+	}
+}

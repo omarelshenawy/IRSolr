@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a11f93613ef22e838a1c5e4767a23120735399b9b05ea75d5b589bf574bd2fd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DNA_Overview2.png/140px-DNA_Overview2.png",
+			"previous": " ",
+			"after": " The observation that living things inherit traits from their parents has been used since prehistoric times to improve crop plants and animals through selective breeding 6 The modern science of genetics seeking to understand this process began with the work of Gregor Mendel in the mid 19th century 7 ",
+			"color": " ",
+			"after_weights": " The|1 observation|0.97959 that|0.95918 living|0.93878 things|0.91837 inherit|0.89796 traits|0.87755 from|0.85714 their|0.83673 parents|0.81633 has|0.79592 been|0.77551 used|0.7551 since|0.73469 prehistoric|0.71429 times|0.69388 to|0.67347 improve|0.65306 crop|0.63265 plants|0.61224 and|0.59184 animals|0.57143 through|0.55102 selective|0.53061 breeding|0.5102 6|0.4898 The|0.46939 modern|0.44898 science|0.42857 of|0.40816 genetics|0.38776 seeking|0.36735 to|0.34694 understand|0.32653 this|0.30612 process|0.28571 began|0.26531 with|0.2449 the|0.22449 work|0.20408 of|0.18367 Gregor|0.16327 Mendel|0.14286 in|0.12245 the|0.10204 mid|0.081633 19th|0.061224 century|0.040816 7|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

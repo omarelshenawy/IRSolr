@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d19a6a026a9af7ca93e9d6b38df7b17971bab54805ebeb7ade05e1a4382ca7",
+			"url": "https://upload.wikimedia.org/math/0/9/0/090550b2c9034f308c59f9d4d375a73d.png",
+			"previous": " Similarly the notation",
+			"after": " asks for the maximum value of the objective function 2x where x may be any real number In this case there is no such maximum as the objective function is unbounded so the answer is infinity or undefined ",
+			"color": "black|0.34129 dim|0.23465 gray|0.23465 dim|0.23465 grey|0.23465 gray|0.17992 grey|0.17992 dark|0.13004 gray|0.13004 dark|0.13004 grey|0.13004 silver|0.05381 light|0.027074 gray|0.027074 light|0.027074 grey|0.027074 gainsboro|0.019488 white|0.0035291 smoke|0.0035291  ",
+			"after_weights": " asks|1 for|0.97368 the|0.94737 maximum|0.92105 value|0.89474 of|0.86842 the|0.84211 objective|0.81579 function|0.78947 2x|0.76316 where|0.73684 x|0.71053 may|0.68421 be|0.65789 any|0.63158 real|0.60526 number|0.57895 In|0.55263 this|0.52632 case|0.5 there|0.47368 is|0.44737 no|0.42105 such|0.39474 maximum|0.36842 as|0.34211 the|0.31579 objective|0.28947 function|0.26316 is|0.23684 unbounded|0.21053 so|0.18421 the|0.15789 answer|0.13158 is|0.10526 infinity|0.078947 or|0.052632 undefined|0.026316 |0",
+			"previous_weights": " Similarly|0 the|0.5 notation|1"
+		}
+	}
+}

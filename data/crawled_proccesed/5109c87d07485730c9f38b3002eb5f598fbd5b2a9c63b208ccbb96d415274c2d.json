@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5109c87d07485730c9f38b3002eb5f598fbd5b2a9c63b208ccbb96d415274c2d",
+			"url": "https://upload.wikimedia.org/math/6/6/1/661a7700c75b3aaed871aef7bdff0ec8.png",
+			"previous": " Thrust power is the speed multiplied by the drag is obtained from the lift to drag ratio   The corresponding fuel weight flow rates can be computed now ",
+			"after": " The range integral assuming flight at constant lift to drag ratio becomes  To obtain an analytic expression for range it has to be noted that specific range and fuel weight flow rate can be related to the characteristics of the airplane and propulsion system if these are constant ",
+			"color": "dim|0.33242 gray|0.33242 dim|0.33242 grey|0.33242 gray|0.30538 grey|0.30538 dark|0.20482 gray|0.20482 dark|0.20482 grey|0.20482 silver|0.079145 light|0.037933 gray|0.037933 light|0.037933 grey|0.037933 gainsboro|0.024907 white|0.0042716 smoke|0.0042716  ",
+			"after_weights": " The|1 range|0.97959 integral|0.95918 assuming|0.93878 flight|0.91837 at|0.89796 constant|0.87755 lift|0.85714 to|0.83673 drag|0.81633 ratio|0.79592 becomes|0.77551 |0.7551 To|0.73469 obtain|0.71429 an|0.69388 analytic|0.67347 expression|0.65306 for|0.63265 range|0.61224 it|0.59184 has|0.57143 to|0.55102 be|0.53061 noted|0.5102 that|0.4898 specific|0.46939 range|0.44898 and|0.42857 fuel|0.40816 weight|0.38776 flow|0.36735 rate|0.34694 can|0.32653 be|0.30612 related|0.28571 to|0.26531 the|0.2449 characteristics|0.22449 of|0.20408 the|0.18367 airplane|0.16327 and|0.14286 propulsion|0.12245 system|0.10204 if|0.081633 these|0.061224 are|0.040816 constant|0.020408 |0",
+			"previous_weights": " Thrust|0 power|0.034483 is|0.068966 the|0.10345 speed|0.13793 multiplied|0.17241 by|0.2069 the|0.24138 drag|0.27586 is|0.31034 obtained|0.34483 from|0.37931 the|0.41379 lift|0.44828 to|0.48276 drag|0.51724 ratio|0.55172 |0.58621 |0.62069 The|0.65517 corresponding|0.68966 fuel|0.72414 weight|0.75862 flow|0.7931 rates|0.82759 can|0.86207 be|0.89655 computed|0.93103 now|0.96552 |1"
+		}
+	}
+}

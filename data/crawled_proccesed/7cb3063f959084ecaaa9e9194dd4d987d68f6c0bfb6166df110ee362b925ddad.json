@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cb3063f959084ecaaa9e9194dd4d987d68f6c0bfb6166df110ee362b925ddad",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ryan_White.jpg/130px-Ryan_White.jpg",
+			"previous": " ",
+			"after": " Ryan Wayne White 6 December 1971 8 April 1990 was an HIV positive American teenager who became a national spokesman for AIDS research and public education about HIV AIDS after being expelled from school because of his infection ",
+			"color": "silver|0.3499 light|0.2754 gray|0.2754 light|0.2754 grey|0.2754 dark|0.21107 gray|0.21107 dark|0.21107 grey|0.21107 gainsboro|0.15149 white|0.0092011 smoke|0.0092011  ",
+			"after_weights": " Ryan|1 Wayne|0.97368 White|0.94737 6|0.92105 December|0.89474 1971|0.86842 8|0.84211 April|0.81579 1990|0.78947 was|0.76316 an|0.73684 HIV|0.71053 positive|0.68421 American|0.65789 teenager|0.63158 who|0.60526 became|0.57895 a|0.55263 national|0.52632 spokesman|0.5 for|0.47368 AIDS|0.44737 research|0.42105 and|0.39474 public|0.36842 education|0.34211 about|0.31579 HIV|0.28947 AIDS|0.26316 after|0.23684 being|0.21053 expelled|0.18421 from|0.15789 school|0.13158 because|0.10526 of|0.078947 his|0.052632 infection|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6779c4a59e231171b580fcfc522ced14dc7f5adee1ffd9b51432d4f01c5e09d3",
+			"url": "https://upload.wikimedia.org/math/d/0/b/d0bef0a8067e81ca88f31c2dc1a88280.png",
+			"previous": " In many situations the mapping of average quantities from some Eulerian position x to a corresponding Lagrangian position forms a problem Since a fluid parcel with label traverses along a path of many different Eulerian positions x it is not possible to assign to a unique x A mathematically sound basis for an unambiguous mapping between average Lagrangian and Eulerian quantities is provided by the theory of the Generalized Lagrangian Mean GLM by Andrews and McIntyre 1978 ",
+			"after": " Here the last term describes the Stokes drift 6 ",
+			"color": "dim|0.42271 gray|0.42271 dim|0.42271 grey|0.42271 gray|0.28897 grey|0.28897 dark|0.15862 gray|0.15862 dark|0.15862 grey|0.15862 silver|0.061677 light|0.028304 gray|0.028304 light|0.028304 grey|0.028304 gainsboro|0.020371 white|0.0045043 smoke|0.0045043  ",
+			"after_weights": " Here|1 the|0.88889 last|0.77778 term|0.66667 describes|0.55556 the|0.44444 Stokes|0.33333 drift|0.22222 6|0.11111 |0",
+			"previous_weights": " In|0 many|0.012987 situations|0.025974 the|0.038961 mapping|0.051948 of|0.064935 average|0.077922 quantities|0.090909 from|0.1039 some|0.11688 Eulerian|0.12987 position|0.14286 x|0.15584 to|0.16883 a|0.18182 corresponding|0.19481 Lagrangian|0.20779 position|0.22078 forms|0.23377 a|0.24675 problem|0.25974 Since|0.27273 a|0.28571 fluid|0.2987 parcel|0.31169 with|0.32468 label|0.33766 traverses|0.35065 along|0.36364 a|0.37662 path|0.38961 of|0.4026 many|0.41558 different|0.42857 Eulerian|0.44156 positions|0.45455 x|0.46753 it|0.48052 is|0.49351 not|0.50649 possible|0.51948 to|0.53247 assign|0.54545 to|0.55844 a|0.57143 unique|0.58442 x|0.5974 A|0.61039 mathematically|0.62338 sound|0.63636 basis|0.64935 for|0.66234 an|0.67532 unambiguous|0.68831 mapping|0.7013 between|0.71429 average|0.72727 Lagrangian|0.74026 and|0.75325 Eulerian|0.76623 quantities|0.77922 is|0.79221 provided|0.80519 by|0.81818 the|0.83117 theory|0.84416 of|0.85714 the|0.87013 Generalized|0.88312 Lagrangian|0.8961 Mean|0.90909 GLM|0.92208 by|0.93506 Andrews|0.94805 and|0.96104 McIntyre|0.97403 1978|0.98701 |1"
+		}
+	}
+}

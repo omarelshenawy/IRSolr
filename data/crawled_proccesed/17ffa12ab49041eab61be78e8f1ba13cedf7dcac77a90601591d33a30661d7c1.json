@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17ffa12ab49041eab61be78e8f1ba13cedf7dcac77a90601591d33a30661d7c1",
+			"url": "https://upload.wikimedia.org/math/a/e/b/aebea827df1abe290aa44c2f214b4f13.png",
+			"previous": " So that our intersection has two points   ",
+			"after": "  So that our intersection has two points  Elimination Add or subtract a multiple of one equation to the other equation so that one of the variables is eliminated For our current example If we subtract the first equation from the second we get The in the first equation is subtracted from the in the second equation leaving no term The variable has been eliminated We then solve the remaining equation for in the same way as in the substitution method We next place this value of in either of the original equations and solve for ",
+			"color": "dim|0.35095 gray|0.35095 dim|0.35095 grey|0.35095 gray|0.2621 grey|0.2621 dark|0.18557 gray|0.18557 dark|0.18557 grey|0.18557 silver|0.096448 light|0.051558 gray|0.051558 light|0.051558 grey|0.051558 gainsboro|0.03586 white|0.00499 smoke|0.00499  ",
+			"after_weights": " |1 So|0.98969 that|0.97938 our|0.96907 intersection|0.95876 has|0.94845 two|0.93814 points|0.92784 |0.91753 Elimination|0.90722 Add|0.89691 or|0.8866 subtract|0.87629 a|0.86598 multiple|0.85567 of|0.84536 one|0.83505 equation|0.82474 to|0.81443 the|0.80412 other|0.79381 equation|0.78351 so|0.7732 that|0.76289 one|0.75258 of|0.74227 the|0.73196 variables|0.72165 is|0.71134 eliminated|0.70103 For|0.69072 our|0.68041 current|0.6701 example|0.65979 If|0.64948 we|0.63918 subtract|0.62887 the|0.61856 first|0.60825 equation|0.59794 from|0.58763 the|0.57732 second|0.56701 we|0.5567 get|0.54639 The|0.53608 in|0.52577 the|0.51546 first|0.50515 equation|0.49485 is|0.48454 subtracted|0.47423 from|0.46392 the|0.45361 in|0.4433 the|0.43299 second|0.42268 equation|0.41237 leaving|0.40206 no|0.39175 term|0.38144 The|0.37113 variable|0.36082 has|0.35052 been|0.34021 eliminated|0.3299 We|0.31959 then|0.30928 solve|0.29897 the|0.28866 remaining|0.27835 equation|0.26804 for|0.25773 in|0.24742 the|0.23711 same|0.2268 way|0.21649 as|0.20619 in|0.19588 the|0.18557 substitution|0.17526 method|0.16495 We|0.15464 next|0.14433 place|0.13402 this|0.12371 value|0.1134 of|0.10309 in|0.092784 either|0.082474 of|0.072165 the|0.061856 original|0.051546 equations|0.041237 and|0.030928 solve|0.020619 for|0.010309 |0",
+			"previous_weights": " So|0 that|0.11111 our|0.22222 intersection|0.33333 has|0.44444 two|0.55556 points|0.66667 |0.77778 |0.88889 |1"
+		}
+	}
+}

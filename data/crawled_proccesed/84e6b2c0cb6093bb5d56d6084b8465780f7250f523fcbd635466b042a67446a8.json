@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "84e6b2c0cb6093bb5d56d6084b8465780f7250f523fcbd635466b042a67446a8",
+			"url": "https://upload.wikimedia.org/math/2/a/b/2ab55fcf7d5365afda7af662599a1964.png",
+			"previous": " In subsonic flow the Mach meter can be calibrated according to  Some older mechanical Machmeters use an altitude aneroid and an airspeed capsule which together convert pitot static pressure into Mach number Modern electronic Machmeters use information from an air data computer system ",
+			"after": " where  When a shock wave forms across the pitot tube the required formula is derived from the Rayleigh Supersonic Pitot equation and is solved iteratively ",
+			"color": "black|0.30457 dim|0.22795 gray|0.22795 dim|0.22795 grey|0.22795 gray|0.21687 grey|0.21687 dark|0.16702 gray|0.16702 dark|0.16702 grey|0.16702 silver|0.060461 light|0.018182 gray|0.018182 light|0.018182 grey|0.018182 gainsboro|0.0049491  ",
+			"after_weights": " where|1 |0.96154 When|0.92308 a|0.88462 shock|0.84615 wave|0.80769 forms|0.76923 across|0.73077 the|0.69231 pitot|0.65385 tube|0.61538 the|0.57692 required|0.53846 formula|0.5 is|0.46154 derived|0.42308 from|0.38462 the|0.34615 Rayleigh|0.30769 Supersonic|0.26923 Pitot|0.23077 equation|0.19231 and|0.15385 is|0.11538 solved|0.076923 iteratively|0.038462 |0",
+			"previous_weights": " In|0 subsonic|0.022727 flow|0.045455 the|0.068182 Mach|0.090909 meter|0.11364 can|0.13636 be|0.15909 calibrated|0.18182 according|0.20455 to|0.22727 |0.25 Some|0.27273 older|0.29545 mechanical|0.31818 Machmeters|0.34091 use|0.36364 an|0.38636 altitude|0.40909 aneroid|0.43182 and|0.45455 an|0.47727 airspeed|0.5 capsule|0.52273 which|0.54545 together|0.56818 convert|0.59091 pitot|0.61364 static|0.63636 pressure|0.65909 into|0.68182 Mach|0.70455 number|0.72727 Modern|0.75 electronic|0.77273 Machmeters|0.79545 use|0.81818 information|0.84091 from|0.86364 an|0.88636 air|0.90909 data|0.93182 computer|0.95455 system|0.97727 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1351f13a01320f69b39fe2a8893fd5a2cd54066c6fefec5655b439872f6f8052",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lincoln_conspirators_execution2.jpg/250px-Lincoln_conspirators_execution2.jpg",
+			"previous": " Portal Society Featured picture 15",
+			"after": " On July 7 1865 at Fort McNair in Washington D C Mary Surratt Lewis Powell David Herold and George Atzerodt shown left to right were hanged for their roles in the assassination of U S President Abraham Lincoln Eight people were convicted for the crime three others were sentenced to life imprisonment with the last receiving a six year sentence Mary Surratt s son John was able to escape and was never convicted for his role His mother was the first woman to be executed by the United States federal government ",
+			"color": "dark|0.35367 gray|0.35367 dark|0.35367 grey|0.35367 gray|0.17356 grey|0.17356 silver|0.17028 dim|0.095373 gray|0.095373 dim|0.095373 grey|0.095373 light|0.067138 gray|0.067138 light|0.067138 grey|0.067138 gainsboro|0.041744 linen|0.017511 antique|0.014916 white|0.014916 old|0.011194 lace|0.011194 sea|0.0094183 shell|0.0094183  ",
+			"after_weights": " On|1 July|0.98901 7|0.97802 1865|0.96703 at|0.95604 Fort|0.94505 McNair|0.93407 in|0.92308 Washington|0.91209 D|0.9011 C|0.89011 Mary|0.87912 Surratt|0.86813 Lewis|0.85714 Powell|0.84615 David|0.83516 Herold|0.82418 and|0.81319 George|0.8022 Atzerodt|0.79121 shown|0.78022 left|0.76923 to|0.75824 right|0.74725 were|0.73626 hanged|0.72527 for|0.71429 their|0.7033 roles|0.69231 in|0.68132 the|0.67033 assassination|0.65934 of|0.64835 U|0.63736 S|0.62637 President|0.61538 Abraham|0.6044 Lincoln|0.59341 Eight|0.58242 people|0.57143 were|0.56044 convicted|0.54945 for|0.53846 the|0.52747 crime|0.51648 three|0.50549 others|0.49451 were|0.48352 sentenced|0.47253 to|0.46154 life|0.45055 imprisonment|0.43956 with|0.42857 the|0.41758 last|0.40659 receiving|0.3956 a|0.38462 six|0.37363 year|0.36264 sentence|0.35165 Mary|0.34066 Surratt|0.32967 s|0.31868 son|0.30769 John|0.2967 was|0.28571 able|0.27473 to|0.26374 escape|0.25275 and|0.24176 was|0.23077 never|0.21978 convicted|0.20879 for|0.1978 his|0.18681 role|0.17582 His|0.16484 mother|0.15385 was|0.14286 the|0.13187 first|0.12088 woman|0.10989 to|0.098901 be|0.087912 executed|0.076923 by|0.065934 the|0.054945 United|0.043956 States|0.032967 federal|0.021978 government|0.010989 |0",
+			"previous_weights": " Portal|0 Society|0.25 Featured|0.5 picture|0.75 15|1"
+		}
+	}
+}

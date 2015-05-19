@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a4b3f4eadbf8e056022a62c2fee452f5bf8466eeb5e8276468eec70bd9e9529",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/University_of_the_Virgin_Islands_view_from_campus.jpg/220px-University_of_the_Virgin_Islands_view_from_campus.jpg",
+			"previous": " ",
+			"after": " The St Croix School District operates public schools in St Croix 11 There also exist multiple private schools including but not limited to St Croix Montessori Star Apple Montessori School The Good Hope Country Day School AZ Academy St Mary s Catholic School Free Will Baptist and The Manor School The only colleges on island are the University of the Virgin Islands St Croix campus and Barry University also operates a small campus on the island training physician assistants ",
+			"color": "dim|0.36513 gray|0.36513 dim|0.36513 grey|0.36513 gray|0.164 grey|0.164 black|0.14625 dark|0.087954 gray|0.087954 dark|0.087954 grey|0.087954 dark|0.086743 olive|0.086743 green|0.086743 dark|0.073388 slate|0.073388 gray|0.073388 silver|0.028085  ",
+			"after_weights": " The|1 St|0.98734 Croix|0.97468 School|0.96203 District|0.94937 operates|0.93671 public|0.92405 schools|0.91139 in|0.89873 St|0.88608 Croix|0.87342 11|0.86076 There|0.8481 also|0.83544 exist|0.82278 multiple|0.81013 private|0.79747 schools|0.78481 including|0.77215 but|0.75949 not|0.74684 limited|0.73418 to|0.72152 St|0.70886 Croix|0.6962 Montessori|0.68354 Star|0.67089 Apple|0.65823 Montessori|0.64557 School|0.63291 The|0.62025 Good|0.60759 Hope|0.59494 Country|0.58228 Day|0.56962 School|0.55696 AZ|0.5443 Academy|0.53165 St|0.51899 Mary|0.50633 s|0.49367 Catholic|0.48101 School|0.46835 Free|0.4557 Will|0.44304 Baptist|0.43038 and|0.41772 The|0.40506 Manor|0.39241 School|0.37975 The|0.36709 only|0.35443 colleges|0.34177 on|0.32911 island|0.31646 are|0.3038 the|0.29114 University|0.27848 of|0.26582 the|0.25316 Virgin|0.24051 Islands|0.22785 St|0.21519 Croix|0.20253 campus|0.18987 and|0.17722 Barry|0.16456 University|0.1519 also|0.13924 operates|0.12658 a|0.11392 small|0.10127 campus|0.088608 on|0.075949 the|0.063291 island|0.050633 training|0.037975 physician|0.025316 assistants|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a0232dae22c982423c7c6f4d86204d4721195d39a6cfe17b681eff77f6de083",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rembrandt_lucretia.jpg/220px-Rembrandt_lucretia.jpg",
+			"previous": " ",
+			"after": " The Walker Art Center one of the five largest modern art museums in the U S sits atop Lowry Hill near the downtown area The size of the Center was doubled with an addition in 2005 by Herzog de Meuron and expanded with the conversion of a 15 acres 6 1 ha park designed by Michel Desvigne located across the street from the Minneapolis Sculpture Garden 81 ",
+			"color": "black|0.75729 tan|0.23831  ",
+			"after_weights": " The|1 Walker|0.98507 Art|0.97015 Center|0.95522 one|0.9403 of|0.92537 the|0.91045 five|0.89552 largest|0.8806 modern|0.86567 art|0.85075 museums|0.83582 in|0.8209 the|0.80597 U|0.79104 S|0.77612 sits|0.76119 atop|0.74627 Lowry|0.73134 Hill|0.71642 near|0.70149 the|0.68657 downtown|0.67164 area|0.65672 The|0.64179 size|0.62687 of|0.61194 the|0.59701 Center|0.58209 was|0.56716 doubled|0.55224 with|0.53731 an|0.52239 addition|0.50746 in|0.49254 2005|0.47761 by|0.46269 Herzog|0.44776 de|0.43284 Meuron|0.41791 and|0.40299 expanded|0.38806 with|0.37313 the|0.35821 conversion|0.34328 of|0.32836 a|0.31343 15|0.29851 acres|0.28358 6|0.26866 1|0.25373 ha|0.23881 park|0.22388 designed|0.20896 by|0.19403 Michel|0.1791 Desvigne|0.16418 located|0.14925 across|0.13433 the|0.1194 street|0.10448 from|0.089552 the|0.074627 Minneapolis|0.059701 Sculpture|0.044776 Garden|0.029851 81|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d2d924b582f102faed37df025404d546d63dda87bc9773417e0ad3679c97ee2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NTU_Hospital.JPG/220px-NTU_Hospital.JPG",
+			"previous": " Most scheduled international flights are served by Taiwan Taoyuan International Airport in nearby Taoyuan City Songshan Airport at the heart of the city in the Songshan District serves domestic flights and scheduled flights to Tokyo International Airport also known as Haneda Airport Gimpo International Airport in Seoul and about 15 destinations in the People s Republic of China Songshan Airport is accessible by the Taipei Metro Neihu Line Taiwan Taoyuan International Airport is not yet accessible by rail but a line is under construction ",
+			"after": " 24 universities have campuses located in Taipei ",
+			"color": "black|0.51805 dim|0.10651 gray|0.10651 dim|0.10651 grey|0.10651 gray|0.10612 grey|0.10612 dark|0.078533 gray|0.078533 dark|0.078533 grey|0.078533 tan|0.068442 sienna|0.04842 silver|0.027063  ",
+			"after_weights": " 24|1 universities|0.85714 have|0.71429 campuses|0.57143 located|0.42857 in|0.28571 Taipei|0.14286 |0",
+			"previous_weights": " Most|0 scheduled|0.011905 international|0.02381 flights|0.035714 are|0.047619 served|0.059524 by|0.071429 Taiwan|0.083333 Taoyuan|0.095238 International|0.10714 Airport|0.11905 in|0.13095 nearby|0.14286 Taoyuan|0.15476 City|0.16667 Songshan|0.17857 Airport|0.19048 at|0.20238 the|0.21429 heart|0.22619 of|0.2381 the|0.25 city|0.2619 in|0.27381 the|0.28571 Songshan|0.29762 District|0.30952 serves|0.32143 domestic|0.33333 flights|0.34524 and|0.35714 scheduled|0.36905 flights|0.38095 to|0.39286 Tokyo|0.40476 International|0.41667 Airport|0.42857 also|0.44048 known|0.45238 as|0.46429 Haneda|0.47619 Airport|0.4881 Gimpo|0.5 International|0.5119 Airport|0.52381 in|0.53571 Seoul|0.54762 and|0.55952 about|0.57143 15|0.58333 destinations|0.59524 in|0.60714 the|0.61905 People|0.63095 s|0.64286 Republic|0.65476 of|0.66667 China|0.67857 Songshan|0.69048 Airport|0.70238 is|0.71429 accessible|0.72619 by|0.7381 the|0.75 Taipei|0.7619 Metro|0.77381 Neihu|0.78571 Line|0.79762 Taiwan|0.80952 Taoyuan|0.82143 International|0.83333 Airport|0.84524 is|0.85714 not|0.86905 yet|0.88095 accessible|0.89286 by|0.90476 rail|0.91667 but|0.92857 a|0.94048 line|0.95238 is|0.96429 under|0.97619 construction|0.9881 |1"
+		}
+	}
+}

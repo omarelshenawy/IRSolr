@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12d39f779798f8e96e35ab2ec87af7d48df9c9b0248caac357d1a4cf57c81b93",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Function_x%5E2-bx.svg/350px-Function_x%5E2-bx.svg.png",
+			"previous": " ",
+			"after": " Regardless of the format the graph of a univariate quadratic function f x ax2 bx c is a parabola as shown at the right Equivalently this is the graph of the bivariate quadratic equation y ax2 bx c ",
+			"color": "black|0.35951 green|0.11656 red|0.076074 blue|0.074847 brown|0.073415 maroon|0.071575 forest|0.058896 green|0.058896 dark|0.053783 red|0.053783 dark|0.018405 green|0.018405 indian|0.0079755 red|0.0079755 light|0.0079755 coral|0.0079755 rosy|0.007362 brown|0.007362  ",
+			"after_weights": " Regardless|1 of|0.97368 the|0.94737 format|0.92105 the|0.89474 graph|0.86842 of|0.84211 a|0.81579 univariate|0.78947 quadratic|0.76316 function|0.73684 f|0.71053 x|0.68421 ax2|0.65789 bx|0.63158 c|0.60526 is|0.57895 a|0.55263 parabola|0.52632 as|0.5 shown|0.47368 at|0.44737 the|0.42105 right|0.39474 Equivalently|0.36842 this|0.34211 is|0.31579 the|0.28947 graph|0.26316 of|0.23684 the|0.21053 bivariate|0.18421 quadratic|0.15789 equation|0.13158 y|0.10526 ax2|0.078947 bx|0.052632 c|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

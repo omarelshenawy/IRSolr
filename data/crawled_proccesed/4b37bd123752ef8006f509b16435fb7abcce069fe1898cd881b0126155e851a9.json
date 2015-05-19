@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b37bd123752ef8006f509b16435fb7abcce069fe1898cd881b0126155e851a9",
+			"url": "https://upload.wikimedia.org/math/4/6/9/469479f5bff4b115edf1c6015eaeb526.png",
+			"previous": " It follows from the LLN that if an event of probability p is observed repeatedly during independent experiments the ratio of the observed frequency of that event to the total number of repetitions converges towards p ",
+			"after": " ",
+			"color": " ",
+			"after_weights": " ",
+			"previous_weights": " It|0 follows|0.027778 from|0.055556 the|0.083333 LLN|0.11111 that|0.13889 if|0.16667 an|0.19444 event|0.22222 of|0.25 probability|0.27778 p|0.30556 is|0.33333 observed|0.36111 repeatedly|0.38889 during|0.41667 independent|0.44444 experiments|0.47222 the|0.5 ratio|0.52778 of|0.55556 the|0.58333 observed|0.61111 frequency|0.63889 of|0.66667 that|0.69444 event|0.72222 to|0.75 the|0.77778 total|0.80556 number|0.83333 of|0.86111 repetitions|0.88889 converges|0.91667 towards|0.94444 p|0.97222 |1"
+		}
+	}
+}

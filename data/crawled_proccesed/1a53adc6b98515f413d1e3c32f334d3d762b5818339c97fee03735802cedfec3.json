@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a53adc6b98515f413d1e3c32f334d3d762b5818339c97fee03735802cedfec3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ringing_07_Measuring_wing.jpg/220px-Ringing_07_Measuring_wing.jpg",
+			"previous": " ",
+			"after": " A wing formula describes the shape of distal end of a bird s wing in a mathematical way It can be used to help distinguish between species with similar plumages and thus is particularly useful for those who ring band birds 11 ",
+			"color": "rosy|0.55585 brown|0.55585 gray|0.19714 grey|0.19714 dim|0.096656 gray|0.096656 dim|0.096656 grey|0.096656 dark|0.063907 gray|0.063907 dark|0.063907 grey|0.063907 black|0.061551 thistle|0.017615  ",
+			"after_weights": " A|1 wing|0.97619 formula|0.95238 describes|0.92857 the|0.90476 shape|0.88095 of|0.85714 distal|0.83333 end|0.80952 of|0.78571 a|0.7619 bird|0.7381 s|0.71429 wing|0.69048 in|0.66667 a|0.64286 mathematical|0.61905 way|0.59524 It|0.57143 can|0.54762 be|0.52381 used|0.5 to|0.47619 help|0.45238 distinguish|0.42857 between|0.40476 species|0.38095 with|0.35714 similar|0.33333 plumages|0.30952 and|0.28571 thus|0.2619 is|0.2381 particularly|0.21429 useful|0.19048 for|0.16667 those|0.14286 who|0.11905 ring|0.095238 band|0.071429 birds|0.047619 11|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "10ed3ee4193f9249c0b7786042ead73836653fbea1cd959090b243c117e4fbe7",
+			"url": "https://upload.wikimedia.org/math/1/e/7/1e71a42d562fb7b15c36745f0e03b041.png",
+			"previous": " Substituting the values for the semi major axis and eccentricity of the WGS84 ellipsoid gives",
+			"after": " The perimeter of a meridian ellipse is Therefore is the radius of the circle whose circumference is the same as the perimeter of a meridian ellipse This defines the mean Earth radius as ",
+			"color": "dim|0.38346 gray|0.38346 dim|0.38346 grey|0.38346 gray|0.29272 grey|0.29272 dark|0.18045 gray|0.18045 dark|0.18045 grey|0.18045 silver|0.070209 light|0.033087 gray|0.033087 light|0.033087 grey|0.033087 gainsboro|0.023668 white|0.0043167 smoke|0.0043167  ",
+			"after_weights": " The|1 perimeter|0.9697 of|0.93939 a|0.90909 meridian|0.87879 ellipse|0.84848 is|0.81818 Therefore|0.78788 is|0.75758 the|0.72727 radius|0.69697 of|0.66667 the|0.63636 circle|0.60606 whose|0.57576 circumference|0.54545 is|0.51515 the|0.48485 same|0.45455 as|0.42424 the|0.39394 perimeter|0.36364 of|0.33333 a|0.30303 meridian|0.27273 ellipse|0.24242 This|0.21212 defines|0.18182 the|0.15152 mean|0.12121 Earth|0.090909 radius|0.060606 as|0.030303 |0",
+			"previous_weights": " Substituting|0 the|0.071429 values|0.14286 for|0.21429 the|0.28571 semi|0.35714 major|0.42857 axis|0.5 and|0.57143 eccentricity|0.64286 of|0.71429 the|0.78571 WGS84|0.85714 ellipsoid|0.92857 gives|1"
+		}
+	}
+}

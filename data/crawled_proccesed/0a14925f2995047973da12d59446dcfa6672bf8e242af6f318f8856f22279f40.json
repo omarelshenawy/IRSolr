@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a14925f2995047973da12d59446dcfa6672bf8e242af6f318f8856f22279f40",
+			"url": "https://upload.wikimedia.org/math/7/2/1/7214aec843e9e72349fba4ac640f79bf.png",
+			"previous": " In two dimensional space R2 linear maps are described by 2 2 real matrices These are some examples ",
+			"after": " The composition of linear maps is linear if f V W and g W Z are linear then so is their composition g f V Z It follows from this that the class of all vector spaces over a given field K together with K linear maps as morphisms forms a category ",
+			"color": "dim|0.37497 gray|0.37497 dim|0.37497 grey|0.37497 gray|0.28632 grey|0.28632 dark|0.17582 gray|0.17582 dark|0.17582 grey|0.17582 silver|0.079705 light|0.039184 gray|0.039184 light|0.039184 grey|0.039184 gainsboro|0.028925 white|0.004233 smoke|0.004233  ",
+			"after_weights": " The|1 composition|0.98077 of|0.96154 linear|0.94231 maps|0.92308 is|0.90385 linear|0.88462 if|0.86538 f|0.84615 V|0.82692 W|0.80769 and|0.78846 g|0.76923 W|0.75 Z|0.73077 are|0.71154 linear|0.69231 then|0.67308 so|0.65385 is|0.63462 their|0.61538 composition|0.59615 g|0.57692 f|0.55769 V|0.53846 Z|0.51923 It|0.5 follows|0.48077 from|0.46154 this|0.44231 that|0.42308 the|0.40385 class|0.38462 of|0.36538 all|0.34615 vector|0.32692 spaces|0.30769 over|0.28846 a|0.26923 given|0.25 field|0.23077 K|0.21154 together|0.19231 with|0.17308 K|0.15385 linear|0.13462 maps|0.11538 as|0.096154 morphisms|0.076923 forms|0.057692 a|0.038462 category|0.019231 |0",
+			"previous_weights": " In|0 two|0.055556 dimensional|0.11111 space|0.16667 R2|0.22222 linear|0.27778 maps|0.33333 are|0.38889 described|0.44444 by|0.5 2|0.55556 2|0.61111 real|0.66667 matrices|0.72222 These|0.77778 are|0.83333 some|0.88889 examples|0.94444 |1"
+		}
+	}
+}

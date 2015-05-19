@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c6662691b170487a76285758b56a09a4ee10bb081b23b2a24e0d79a8519a346",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/28px-Aviacionavion.png",
+			"previous": " Sources Jane s All The World s Aircraft 1965 66 186 De Havilland Aircraft since 1909 193 and Flight International 150 156 187 188 189 192 ",
+			"after": " Other early jet powered commercial aircraft excluding pure prototypes ",
+			"color": "alice|0.084716 blue|0.084716 white|0.083125 smoke|0.083125 ghost|0.081064 white|0.081064 snow|0.077389 azure|0.076832 white|0.076645 mint|0.075649 cream|0.075649 lavender|0.074837 blush|0.074837 sea|0.074828 shell|0.074828 floral|0.071421 white|0.071421 gray|0.037006 grey|0.037006 dark|0.035242 gray|0.035242 dark|0.035242 grey|0.035242 dim|0.033571 gray|0.033571 dim|0.033571 grey|0.033571 gainsboro|0.027423 silver|0.023706 light|0.021323 gray|0.021323 light|0.021323 grey|0.021323 light|0.01709 blue|0.01709 lavender|0.014696 light|0.0052927 steel|0.0052927 blue|0.0052927 linen|0.0032792  ",
+			"after_weights": " Other|1 early|0.88889 jet|0.77778 powered|0.66667 commercial|0.55556 aircraft|0.44444 excluding|0.33333 pure|0.22222 prototypes|0.11111 |0",
+			"previous_weights": " Sources|0 Jane|0.038462 s|0.076923 All|0.11538 The|0.15385 World|0.19231 s|0.23077 Aircraft|0.26923 1965|0.30769 66|0.34615 186|0.38462 De|0.42308 Havilland|0.46154 Aircraft|0.5 since|0.53846 1909|0.57692 193|0.61538 and|0.65385 Flight|0.69231 International|0.73077 150|0.76923 156|0.80769 187|0.84615 188|0.88462 189|0.92308 192|0.96154 |1"
+		}
+	}
+}

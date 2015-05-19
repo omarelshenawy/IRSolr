@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25a497506ea33540b41053d6b5fc76c2d7be59c365f4dd922ad239e76a20fe0d",
+			"url": "https://upload.wikimedia.org/math/3/0/2/3025ba39155c31511fcc675edf2f4621.png",
+			"previous": " or simply Given n 1 control points Pi the rational B zier curve can be described by  The rational B zier curve adds adjustable weights to provide closer approximations to arbitrary shapes The numerator is a weighted Bernstein form B zier curve and the denominator is a weighted sum of Bernstein polynomials Rational B zier curves can among other uses be used to represent segments of conic sections exactly including circular arcs 13 ",
+			"after": " ",
+			"color": "gray|0.3074 grey|0.3074 dim|0.25626 gray|0.25626 dim|0.25626 grey|0.25626 dark|0.2321 gray|0.2321 dark|0.2321 grey|0.2321 silver|0.10745 light|0.047319 gray|0.047319 light|0.047319 grey|0.047319 gainsboro|0.033329 white|0.0042856 smoke|0.0042856  ",
+			"after_weights": " ",
+			"previous_weights": " or|0 simply|0.013514 Given|0.027027 n|0.040541 1|0.054054 control|0.067568 points|0.081081 Pi|0.094595 the|0.10811 rational|0.12162 B|0.13514 zier|0.14865 curve|0.16216 can|0.17568 be|0.18919 described|0.2027 by|0.21622 |0.22973 The|0.24324 rational|0.25676 B|0.27027 zier|0.28378 curve|0.2973 adds|0.31081 adjustable|0.32432 weights|0.33784 to|0.35135 provide|0.36486 closer|0.37838 approximations|0.39189 to|0.40541 arbitrary|0.41892 shapes|0.43243 The|0.44595 numerator|0.45946 is|0.47297 a|0.48649 weighted|0.5 Bernstein|0.51351 form|0.52703 B|0.54054 zier|0.55405 curve|0.56757 and|0.58108 the|0.59459 denominator|0.60811 is|0.62162 a|0.63514 weighted|0.64865 sum|0.66216 of|0.67568 Bernstein|0.68919 polynomials|0.7027 Rational|0.71622 B|0.72973 zier|0.74324 curves|0.75676 can|0.77027 among|0.78378 other|0.7973 uses|0.81081 be|0.82432 used|0.83784 to|0.85135 represent|0.86486 segments|0.87838 of|0.89189 conic|0.90541 sections|0.91892 exactly|0.93243 including|0.94595 circular|0.95946 arcs|0.97297 13|0.98649 |1"
+		}
+	}
+}

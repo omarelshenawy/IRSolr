@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bdb5c625d446522ec66ca1a7a2ee34497275bc8089a4ab035453d784e22c5f9",
+			"url": "https://upload.wikimedia.org/math/8/e/a/8ea889848aea5ef778754e6623b75c64.png",
+			"previous": " Refraction is the bending of light rays when passing through a surface between one transparent material and another It is described by Snell s Law ",
+			"after": " where is the angle between the ray and the surface normal in the first medium is the angle between the ray and the surface normal in the second medium and n1 and n2 are the indices of refraction n 1 in a vacuum and n 1 in a transparent substance ",
+			"color": "dim|0.34039 gray|0.34039 dim|0.34039 grey|0.34039 gray|0.29042 grey|0.29042 dark|0.18731 gray|0.18731 dark|0.18731 grey|0.18731 silver|0.08573 light|0.042867 gray|0.042867 light|0.042867 grey|0.042867 gainsboro|0.030602 white|0.0050506 smoke|0.0050506 linen|0.0027427  ",
+			"after_weights": " where|1 is|0.98 the|0.96 angle|0.94 between|0.92 the|0.9 ray|0.88 and|0.86 the|0.84 surface|0.82 normal|0.8 in|0.78 the|0.76 first|0.74 medium|0.72 is|0.7 the|0.68 angle|0.66 between|0.64 the|0.62 ray|0.6 and|0.58 the|0.56 surface|0.54 normal|0.52 in|0.5 the|0.48 second|0.46 medium|0.44 and|0.42 n1|0.4 and|0.38 n2|0.36 are|0.34 the|0.32 indices|0.3 of|0.28 refraction|0.26 n|0.24 1|0.22 in|0.2 a|0.18 vacuum|0.16 and|0.14 n|0.12 1|0.1 in|0.08 a|0.06 transparent|0.04 substance|0.02 |0",
+			"previous_weights": " Refraction|0 is|0.04 the|0.08 bending|0.12 of|0.16 light|0.2 rays|0.24 when|0.28 passing|0.32 through|0.36 a|0.4 surface|0.44 between|0.48 one|0.52 transparent|0.56 material|0.6 and|0.64 another|0.68 It|0.72 is|0.76 described|0.8 by|0.84 Snell|0.88 s|0.92 Law|0.96 |1"
+		}
+	}
+}

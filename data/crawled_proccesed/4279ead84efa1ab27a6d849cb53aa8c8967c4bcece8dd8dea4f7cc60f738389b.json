@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4279ead84efa1ab27a6d849cb53aa8c8967c4bcece8dd8dea4f7cc60f738389b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Transit_visa.jpg/220px-Transit_visa.jpg",
+			"previous": " Many countries frequently demand strong evidence of intent to return to the home country if the visa is for a temporary stay due to potential unwanted illegal immigration ",
+			"after": " Each country has a multitude of categories of visas and with various names The most common types and names of visas include  By purpose ",
+			"color": "tan|0.61034 wheat|0.2042 pale|0.10056 golden|0.10056 rod|0.10056  ",
+			"after_weights": " Each|1 country|0.96 has|0.92 a|0.88 multitude|0.84 of|0.8 categories|0.76 of|0.72 visas|0.68 and|0.64 with|0.6 various|0.56 names|0.52 The|0.48 most|0.44 common|0.4 types|0.36 and|0.32 names|0.28 of|0.24 visas|0.2 include|0.16 |0.12 By|0.08 purpose|0.04 |0",
+			"previous_weights": " Many|0 countries|0.035714 frequently|0.071429 demand|0.10714 strong|0.14286 evidence|0.17857 of|0.21429 intent|0.25 to|0.28571 return|0.32143 to|0.35714 the|0.39286 home|0.42857 country|0.46429 if|0.5 the|0.53571 visa|0.57143 is|0.60714 for|0.64286 a|0.67857 temporary|0.71429 stay|0.75 due|0.78571 to|0.82143 potential|0.85714 unwanted|0.89286 illegal|0.92857 immigration|0.96429 |1"
+		}
+	}
+}

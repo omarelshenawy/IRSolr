@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d053e3680e062cf00b82b15dbaa20d70d4a4f08c5c727093ad2cf70e79c7aa8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/CTWristImage.png/220px-CTWristImage.png",
+			"previous": " ",
+			"after": " Volume rendering is a technique used to display a 2D projection of a 3D discretely sampled data set A typical 3D data set is a group of 2D slice images acquired by a CT or MRI scanner  Usually these are acquired in a regular pattern e g one slice every millimeter and usually have a regular number of image pixels in a regular pattern This is an example of a regular volumetric grid with each volume element or voxel represented by a single value that is obtained by sampling the immediate area surrounding the voxel ",
+			"color": "peru|0.22575 chocolate|0.2203 dark|0.10475 golden|0.10475 rod|0.10475 tan|0.04166 burly|0.038657 wood|0.038657 wheat|0.036128 antique|0.024279 white|0.024279 sea|0.022553 shell|0.022553 floral|0.022181 white|0.022181 white|0.020396 smoke|0.020396 snow|0.019377 mint|0.018234 cream|0.018234 white|0.017928 ghost|0.015803 white|0.015803 azure|0.014683 linen|0.014669 alice|0.014331 blue|0.014331 lavender|0.012457 blush|0.012457 blanched|0.011338 almond|0.011338 old|0.011257 lace|0.011257 papaya|0.0098959 whip|0.0098959 bisque|0.0093497 beige|0.0084031 golden|0.0078129 rod|0.0078129 ivory|0.0077681 dark|0.0069322 khaki|0.0069322  ",
+			"after_weights": " Volume|1 rendering|0.98958 is|0.97917 a|0.96875 technique|0.95833 used|0.94792 to|0.9375 display|0.92708 a|0.91667 2D|0.90625 projection|0.89583 of|0.88542 a|0.875 3D|0.86458 discretely|0.85417 sampled|0.84375 data|0.83333 set|0.82292 A|0.8125 typical|0.80208 3D|0.79167 data|0.78125 set|0.77083 is|0.76042 a|0.75 group|0.73958 of|0.72917 2D|0.71875 slice|0.70833 images|0.69792 acquired|0.6875 by|0.67708 a|0.66667 CT|0.65625 or|0.64583 MRI|0.63542 scanner|0.625 |0.61458 Usually|0.60417 these|0.59375 are|0.58333 acquired|0.57292 in|0.5625 a|0.55208 regular|0.54167 pattern|0.53125 e|0.52083 g|0.51042 one|0.5 slice|0.48958 every|0.47917 millimeter|0.46875 and|0.45833 usually|0.44792 have|0.4375 a|0.42708 regular|0.41667 number|0.40625 of|0.39583 image|0.38542 pixels|0.375 in|0.36458 a|0.35417 regular|0.34375 pattern|0.33333 This|0.32292 is|0.3125 an|0.30208 example|0.29167 of|0.28125 a|0.27083 regular|0.26042 volumetric|0.25 grid|0.23958 with|0.22917 each|0.21875 volume|0.20833 element|0.19792 or|0.1875 voxel|0.17708 represented|0.16667 by|0.15625 a|0.14583 single|0.13542 value|0.125 that|0.11458 is|0.10417 obtained|0.09375 by|0.083333 sampling|0.072917 the|0.0625 immediate|0.052083 area|0.041667 surrounding|0.03125 the|0.020833 voxel|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

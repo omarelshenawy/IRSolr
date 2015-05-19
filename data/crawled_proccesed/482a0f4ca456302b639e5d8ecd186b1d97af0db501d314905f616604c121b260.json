@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "482a0f4ca456302b639e5d8ecd186b1d97af0db501d314905f616604c121b260",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/150px-Flag_of_North_Dakota.svg.png",
+			"previous": " ",
+			"after": " North Dakota is a state in the western and midwestern regions of the United States It is the northernmost of the Great Plains states and the northern half of the Dakotas Formerly part of the Dakota Territory named after the Dakotah tribe of the Sioux nation North Dakota became a state in 1889 ",
+			"color": "midnight|0.8179 blue|0.8179 dim|0.035261 gray|0.035261 dim|0.035261 grey|0.035261 black|0.014639 dark|0.014213 gray|0.014213 dark|0.014213 grey|0.014213 gray|0.011103 grey|0.011103 pink|0.011019 light|0.010646 pink|0.010646 silver|0.0088541 tomato|0.0079314  ",
+			"after_weights": " North|1 Dakota|0.98113 is|0.96226 a|0.9434 state|0.92453 in|0.90566 the|0.88679 western|0.86792 and|0.84906 midwestern|0.83019 regions|0.81132 of|0.79245 the|0.77358 United|0.75472 States|0.73585 It|0.71698 is|0.69811 the|0.67925 northernmost|0.66038 of|0.64151 the|0.62264 Great|0.60377 Plains|0.58491 states|0.56604 and|0.54717 the|0.5283 northern|0.50943 half|0.49057 of|0.4717 the|0.45283 Dakotas|0.43396 Formerly|0.41509 part|0.39623 of|0.37736 the|0.35849 Dakota|0.33962 Territory|0.32075 named|0.30189 after|0.28302 the|0.26415 Dakotah|0.24528 tribe|0.22642 of|0.20755 the|0.18868 Sioux|0.16981 nation|0.15094 North|0.13208 Dakota|0.11321 became|0.09434 a|0.075472 state|0.056604 in|0.037736 1889|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

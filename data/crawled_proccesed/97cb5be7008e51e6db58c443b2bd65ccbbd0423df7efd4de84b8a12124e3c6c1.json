@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97cb5be7008e51e6db58c443b2bd65ccbbd0423df7efd4de84b8a12124e3c6c1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Staphylococcus_aureus%2C_50%2C000x%2C_USDA%2C_ARS%2C_EMU.jpg/220px-Staphylococcus_aureus%2C_50%2C000x%2C_USDA%2C_ARS%2C_EMU.jpg",
+			"previous": " ",
+			"after": " A pathogen is only successful in infecting an organism if it can get past its defenses Pathogenic bacteria and protozoa have developed a variety of methods to resist attacks by phagocytes and many actually survive and replicate within phagocytic cells 100 101 ",
+			"color": " ",
+			"after_weights": " A|1 pathogen|0.97619 is|0.95238 only|0.92857 successful|0.90476 in|0.88095 infecting|0.85714 an|0.83333 organism|0.80952 if|0.78571 it|0.7619 can|0.7381 get|0.71429 past|0.69048 its|0.66667 defenses|0.64286 Pathogenic|0.61905 bacteria|0.59524 and|0.57143 protozoa|0.54762 have|0.52381 developed|0.5 a|0.47619 variety|0.45238 of|0.42857 methods|0.40476 to|0.38095 resist|0.35714 attacks|0.33333 by|0.30952 phagocytes|0.28571 and|0.2619 many|0.2381 actually|0.21429 survive|0.19048 and|0.16667 replicate|0.14286 within|0.11905 phagocytic|0.095238 cells|0.071429 100|0.047619 101|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

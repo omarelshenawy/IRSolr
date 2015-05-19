@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "19c4c0c5c4842dacd421cc88d15bf81df5d47d10a9777b2fb45df97a0475737e",
+			"url": "https://upload.wikimedia.org/math/a/f/d/afd8a52621b055ee3feb0233da893d7a.png",
+			"previous": " and define Let the Minkowski metric be defined by",
+			"after": " for arbitrary Lorentz frames  Consider an infinitesimal interval expressed in any Lorentz frame and here assumed timelike or lightlike separating points on a trajectory of a particle think clock The same interval can be expressed in coordinates such that at each moment the particle is at rest Such a frame is called an instantaneous rest frame Due to the invariance of the interval instantaneous rest frames taken at different times are related by Lorentz transformations one may write",
+			"color": "dim|0.31039 gray|0.31039 dim|0.31039 grey|0.31039 gray|0.29574 grey|0.29574 dark|0.20003 gray|0.20003 dark|0.20003 grey|0.20003 silver|0.091962 light|0.046977 gray|0.046977 light|0.046977 grey|0.046977 gainsboro|0.033079 white|0.0057345 smoke|0.0057345  ",
+			"after_weights": " for|1 arbitrary|0.98718 Lorentz|0.97436 frames|0.96154 |0.94872 Consider|0.9359 an|0.92308 infinitesimal|0.91026 interval|0.89744 expressed|0.88462 in|0.87179 any|0.85897 Lorentz|0.84615 frame|0.83333 and|0.82051 here|0.80769 assumed|0.79487 timelike|0.78205 or|0.76923 lightlike|0.75641 separating|0.74359 points|0.73077 on|0.71795 a|0.70513 trajectory|0.69231 of|0.67949 a|0.66667 particle|0.65385 think|0.64103 clock|0.62821 The|0.61538 same|0.60256 interval|0.58974 can|0.57692 be|0.5641 expressed|0.55128 in|0.53846 coordinates|0.52564 such|0.51282 that|0.5 at|0.48718 each|0.47436 moment|0.46154 the|0.44872 particle|0.4359 is|0.42308 at|0.41026 rest|0.39744 Such|0.38462 a|0.37179 frame|0.35897 is|0.34615 called|0.33333 an|0.32051 instantaneous|0.30769 rest|0.29487 frame|0.28205 Due|0.26923 to|0.25641 the|0.24359 invariance|0.23077 of|0.21795 the|0.20513 interval|0.19231 instantaneous|0.17949 rest|0.16667 frames|0.15385 taken|0.14103 at|0.12821 different|0.11538 times|0.10256 are|0.089744 related|0.076923 by|0.064103 Lorentz|0.051282 transformations|0.038462 one|0.025641 may|0.012821 write|0",
+			"previous_weights": " and|0 define|0.125 Let|0.25 the|0.375 Minkowski|0.5 metric|0.625 be|0.75 defined|0.875 by|1"
+		}
+	}
+}

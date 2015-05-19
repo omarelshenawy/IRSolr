@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97ea68167a04fcf284444586c1725df98e7b0a0dd6e026609793883509a63555",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Herriotts06-04.jpg",
+			"previous": " ",
+			"after": " The lake is designated a Site of Special Scientific Interest SSSI 13 and a Special Protection Area SPA Site Code UK9010041 largely because of the diversity of species and habitats Providing further protection much of the area around the lake also falls within the Mendip Hills Area of Outstanding Natural Beauty AONB ",
+			"color": "gray|0.27282 grey|0.27282 dim|0.25204 gray|0.25204 dim|0.25204 grey|0.25204 light|0.15846 slate|0.15846 gray|0.15846 slate|0.12614 gray|0.12614 dark|0.09109 gray|0.09109 dark|0.09109 grey|0.09109 dark|0.082359 olive|0.082359 green|0.082359 black|0.0093608 dark|0.0068743 slate|0.0068743 gray|0.0068743  ",
+			"after_weights": " The|1 lake|0.98077 is|0.96154 designated|0.94231 a|0.92308 Site|0.90385 of|0.88462 Special|0.86538 Scientific|0.84615 Interest|0.82692 SSSI|0.80769 13|0.78846 and|0.76923 a|0.75 Special|0.73077 Protection|0.71154 Area|0.69231 SPA|0.67308 Site|0.65385 Code|0.63462 UK9010041|0.61538 largely|0.59615 because|0.57692 of|0.55769 the|0.53846 diversity|0.51923 of|0.5 species|0.48077 and|0.46154 habitats|0.44231 Providing|0.42308 further|0.40385 protection|0.38462 much|0.36538 of|0.34615 the|0.32692 area|0.30769 around|0.28846 the|0.26923 lake|0.25 also|0.23077 falls|0.21154 within|0.19231 the|0.17308 Mendip|0.15385 Hills|0.13462 Area|0.11538 of|0.096154 Outstanding|0.076923 Natural|0.057692 Beauty|0.038462 AONB|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "607549ae6eb53d9de636906d630996a78c8832fee137e296bd422b843b079b62",
+			"url": "https://upload.wikimedia.org/math/1/0/0/1009dd134a8177ea4dac3997f031f10e.png",
+			"previous": "  at  The Blasius solution uses boundary conditions in a dimensionless form ",
+			"after": " Note that in many cases the no slip boundary condition holds that the fluid velocity at the surface of the plate equals the velocity of the plate at all locations If the plate is not moving then A much more complicated derivation is required if fluid slip is allowed 9 ",
+			"color": "dim|0.36169 gray|0.36169 dim|0.36169 grey|0.36169 gray|0.27511 grey|0.27511 dark|0.18515 gray|0.18515 dark|0.18515 grey|0.18515 silver|0.08777 light|0.045826 gray|0.045826 light|0.045826 grey|0.045826 gainsboro|0.029081 white|0.0038331 smoke|0.0038331  ",
+			"after_weights": " Note|1 that|0.98 in|0.96 many|0.94 cases|0.92 the|0.9 no|0.88 slip|0.86 boundary|0.84 condition|0.82 holds|0.8 that|0.78 the|0.76 fluid|0.74 velocity|0.72 at|0.7 the|0.68 surface|0.66 of|0.64 the|0.62 plate|0.6 equals|0.58 the|0.56 velocity|0.54 of|0.52 the|0.5 plate|0.48 at|0.46 all|0.44 locations|0.42 If|0.4 the|0.38 plate|0.36 is|0.34 not|0.32 moving|0.3 then|0.28 A|0.26 much|0.24 more|0.22 complicated|0.2 derivation|0.18 is|0.16 required|0.14 if|0.12 fluid|0.1 slip|0.08 is|0.06 allowed|0.04 9|0.02 |0",
+			"previous_weights": " |0 at|0.076923 |0.15385 The|0.23077 Blasius|0.30769 solution|0.38462 uses|0.46154 boundary|0.53846 conditions|0.61538 in|0.69231 a|0.76923 dimensionless|0.84615 form|0.92308 |1"
+		}
+	}
+}

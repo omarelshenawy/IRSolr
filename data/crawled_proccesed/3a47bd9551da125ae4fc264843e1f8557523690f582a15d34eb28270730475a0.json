@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a47bd9551da125ae4fc264843e1f8557523690f582a15d34eb28270730475a0",
+			"url": "https://upload.wikimedia.org/math/a/0/8/a0811d4ae8e66ee00cdfead80001203b.png",
+			"previous": " The Earth s radius of curvature along a course at an azimuth measured clockwise from north at is derived from Euler s curvature formula as follows 7 ",
+			"after": " The Earth s mean radius of curvature at latitude is 7 ",
+			"color": "dim|0.36273 gray|0.36273 dim|0.36273 grey|0.36273 gray|0.20842 grey|0.20842 black|0.19271 dark|0.12226 gray|0.12226 dark|0.12226 grey|0.12226 silver|0.05548 light|0.027889 gray|0.027889 light|0.027889 grey|0.027889 gainsboro|0.019408  ",
+			"after_weights": " The|1 Earth|0.90909 s|0.81818 mean|0.72727 radius|0.63636 of|0.54545 curvature|0.45455 at|0.36364 latitude|0.27273 is|0.18182 7|0.090909 |0",
+			"previous_weights": " The|0 Earth|0.037037 s|0.074074 radius|0.11111 of|0.14815 curvature|0.18519 along|0.22222 a|0.25926 course|0.2963 at|0.33333 an|0.37037 azimuth|0.40741 measured|0.44444 clockwise|0.48148 from|0.51852 north|0.55556 at|0.59259 is|0.62963 derived|0.66667 from|0.7037 Euler|0.74074 s|0.77778 curvature|0.81481 formula|0.85185 as|0.88889 follows|0.92593 7|0.96296 |1"
+		}
+	}
+}

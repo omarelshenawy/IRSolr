@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14a3ef1b74fc1472f2e661847fc3a34f7f5390a9957c4fcdbc3ef9ee4e0645c5",
+			"url": "https://upload.wikimedia.org/math/6/e/6/6e6be14027e9b8213bbc87640e488935.png",
+			"previous": " i e matrix multiplication is not commutative in marked contrast to rational real or complex numbers whose product is independent of the order of the factors An example of two matrices not commuting with each other is ",
+			"after": " whereas",
+			"color": "gray|0.26603 grey|0.26603 dark|0.24986 gray|0.24986 dark|0.24986 grey|0.24986 dim|0.22265 gray|0.22265 dim|0.22265 grey|0.22265 silver|0.088144 light|0.065744 gray|0.065744 light|0.065744 grey|0.065744 gainsboro|0.049881 white|0.01647 smoke|0.01647 linen|0.0068114 lavender|0.0066099 blush|0.0066099 alice|0.0065711 blue|0.0065711 ghost|0.0065387 white|0.0065387 sea|0.0064555 shell|0.0064555 snow|0.0048594 white|0.0030684  ",
+			"after_weights": " whereas|0",
+			"previous_weights": " i|0 e|0.027027 matrix|0.054054 multiplication|0.081081 is|0.10811 not|0.13514 commutative|0.16216 in|0.18919 marked|0.21622 contrast|0.24324 to|0.27027 rational|0.2973 real|0.32432 or|0.35135 complex|0.37838 numbers|0.40541 whose|0.43243 product|0.45946 is|0.48649 independent|0.51351 of|0.54054 the|0.56757 order|0.59459 of|0.62162 the|0.64865 factors|0.67568 An|0.7027 example|0.72973 of|0.75676 two|0.78378 matrices|0.81081 not|0.83784 commuting|0.86486 with|0.89189 each|0.91892 other|0.94595 is|0.97297 |1"
+		}
+	}
+}

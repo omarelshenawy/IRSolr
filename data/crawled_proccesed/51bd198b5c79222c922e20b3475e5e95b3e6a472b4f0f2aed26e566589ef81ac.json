@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51bd198b5c79222c922e20b3475e5e95b3e6a472b4f0f2aed26e566589ef81ac",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CDG_B737_B2961.jpg/220px-CDG_B737_B2961.jpg",
+			"previous": " Moreover the airline is planning to launch services to Delhi in 2015 from Jinan city via Kunming 5  Shandong Airlines operates to the following destinations as of January 2013 ",
+			"after": " As of May 2015 the Shandong Airlines fleet consists of the following aircraft 6 ",
+			"color": "dim|0.25636 gray|0.25636 dim|0.25636 grey|0.25636 gray|0.21325 grey|0.21325 light|0.063018 gray|0.063018 light|0.063018 grey|0.063018 dark|0.06216 gray|0.06216 dark|0.06216 grey|0.06216 gainsboro|0.056906 silver|0.052484 black|0.045237 linen|0.030019 white|0.026564 smoke|0.026564 sea|0.023701 shell|0.023701 floral|0.019944 white|0.019944 snow|0.018391 old|0.016318 lace|0.016318 mint|0.015185 cream|0.015185 slate|0.014964 gray|0.014964 white|0.012815 ghost|0.0098516 white|0.0098516 light|0.0091764 slate|0.0091764 gray|0.0091764 lavender|0.0078686 blush|0.0078686 ivory|0.0077138  ",
+			"after_weights": " As|1 of|0.92857 May|0.85714 2015|0.78571 the|0.71429 Shandong|0.64286 Airlines|0.57143 fleet|0.5 consists|0.42857 of|0.35714 the|0.28571 following|0.21429 aircraft|0.14286 6|0.071429 |0",
+			"previous_weights": " Moreover|0 the|0.033333 airline|0.066667 is|0.1 planning|0.13333 to|0.16667 launch|0.2 services|0.23333 to|0.26667 Delhi|0.3 in|0.33333 2015|0.36667 from|0.4 Jinan|0.43333 city|0.46667 via|0.5 Kunming|0.53333 5|0.56667 |0.6 Shandong|0.63333 Airlines|0.66667 operates|0.7 to|0.73333 the|0.76667 following|0.8 destinations|0.83333 as|0.86667 of|0.9 January|0.93333 2013|0.96667 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41a8ff6056223bb164f1df990b5ccf48f8188012742de0ff3f32896486f3e9cb",
+			"url": "https://upload.wikimedia.org/math/6/0/9/609a1bff6d5254c7a6aa0330a5f5a0b4.png",
+			"previous": " where a complex with the enzyme and an intermediate exists and the intermediate is converted into product in a second step In this case we have a very similar equation 21 ",
+			"after": " but the constants are different",
+			"color": "dim|0.28859 gray|0.28859 dim|0.28859 grey|0.28859 gray|0.25517 grey|0.25517 dark|0.20022 gray|0.20022 dark|0.20022 grey|0.20022 silver|0.095882 light|0.062411 gray|0.062411 light|0.062411 grey|0.062411 gainsboro|0.047595 white|0.010469 smoke|0.010469 linen|0.0077286 lavender|0.0056916 blush|0.0056916 alice|0.0056334 blue|0.0056334 ghost|0.0054758 white|0.0054758 sea|0.0053927 shell|0.0053927 snow|0.0053017 white|0.0029172  ",
+			"after_weights": " but|1 the|0.75 constants|0.5 are|0.25 different|0",
+			"previous_weights": " where|0 a|0.032258 complex|0.064516 with|0.096774 the|0.12903 enzyme|0.16129 and|0.19355 an|0.22581 intermediate|0.25806 exists|0.29032 and|0.32258 the|0.35484 intermediate|0.3871 is|0.41935 converted|0.45161 into|0.48387 product|0.51613 in|0.54839 a|0.58065 second|0.6129 step|0.64516 In|0.67742 this|0.70968 case|0.74194 we|0.77419 have|0.80645 a|0.83871 very|0.87097 similar|0.90323 equation|0.93548 21|0.96774 |1"
+		}
+	}
+}

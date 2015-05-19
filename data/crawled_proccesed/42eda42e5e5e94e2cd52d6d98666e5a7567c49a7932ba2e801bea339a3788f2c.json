@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42eda42e5e5e94e2cd52d6d98666e5a7567c49a7932ba2e801bea339a3788f2c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lawrence_Sullivan_Ross.jpg/220px-Lawrence_Sullivan_Ross.jpg",
+			"previous": " ",
+			"after": " Texas A M C president Lawrence Sullivan Ross known affectionately to students as Sully is credited for saving the school from closure and transforming it into a respected military institution 7 Ross the immediate past governor of Texas had been a well respected Confederate Brigadier General and enjoyed a good reputation among state residents 1 ",
+			"color": "dim|0.30675 gray|0.30675 dim|0.30675 grey|0.30675 dark|0.18752 slate|0.18752 gray|0.18752 sienna|0.16642 light|0.069145 gray|0.069145 light|0.069145 grey|0.069145 silver|0.065247 gainsboro|0.049471 tan|0.039036 gray|0.036795 grey|0.036795  ",
+			"after_weights": " Texas|1 A|0.98182 M|0.96364 C|0.94545 president|0.92727 Lawrence|0.90909 Sullivan|0.89091 Ross|0.87273 known|0.85455 affectionately|0.83636 to|0.81818 students|0.8 as|0.78182 Sully|0.76364 is|0.74545 credited|0.72727 for|0.70909 saving|0.69091 the|0.67273 school|0.65455 from|0.63636 closure|0.61818 and|0.6 transforming|0.58182 it|0.56364 into|0.54545 a|0.52727 respected|0.50909 military|0.49091 institution|0.47273 7|0.45455 Ross|0.43636 the|0.41818 immediate|0.4 past|0.38182 governor|0.36364 of|0.34545 Texas|0.32727 had|0.30909 been|0.29091 a|0.27273 well|0.25455 respected|0.23636 Confederate|0.21818 Brigadier|0.2 General|0.18182 and|0.16364 enjoyed|0.14545 a|0.12727 good|0.10909 reputation|0.090909 among|0.072727 state|0.054545 residents|0.036364 1|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

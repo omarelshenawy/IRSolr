@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/M_30_tunel.jpg/220px-M_30_tunel.jpg",
 			"previous": " Also Madrid road network includes four orbital ones at different distances from the centre ",
 			"after": " Due to the large amount of traffic Madrid built some new roads called Radiales R this roads connect different points of the bypass with the center of the city",
+			"color": "black|0.30722 dim|0.053331 gray|0.053331 dim|0.053331 grey|0.053331 dark|0.043971 gray|0.043971 dark|0.043971 grey|0.043971 gray|0.040083 grey|0.040083 light|0.037499 gray|0.037499 light|0.037499 grey|0.037499 lavender|0.034475 silver|0.033474 gainsboro|0.032871  ",
 			"after_weights": " Due|1 to|0.96429 the|0.92857 large|0.89286 amount|0.85714 of|0.82143 traffic|0.78571 Madrid|0.75 built|0.71429 some|0.67857 new|0.64286 roads|0.60714 called|0.57143 Radiales|0.53571 R|0.5 this|0.46429 roads|0.42857 connect|0.39286 different|0.35714 points|0.32143 of|0.28571 the|0.25 bypass|0.21429 with|0.17857 the|0.14286 center|0.10714 of|0.071429 the|0.035714 city|0",
 			"previous_weights": " Also|0 Madrid|0.071429 road|0.14286 network|0.21429 includes|0.28571 four|0.35714 orbital|0.42857 ones|0.5 at|0.57143 different|0.64286 distances|0.71429 from|0.78571 the|0.85714 centre|0.92857 |1"
 		}

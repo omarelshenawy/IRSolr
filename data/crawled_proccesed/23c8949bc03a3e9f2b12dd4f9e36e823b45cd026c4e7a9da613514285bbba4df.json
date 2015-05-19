@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "23c8949bc03a3e9f2b12dd4f9e36e823b45cd026c4e7a9da613514285bbba4df",
+			"url": "https://upload.wikimedia.org/math/f/2/6/f26e804921e762ceb49cfef17dd87dd5.png",
+			"previous": " And when a minimum of P f occurs at xi then",
+			"after": " So as can be seen in the graph P x f x Q x f x must alternate in sign for the N 2 values of xi But P x f x Q x f x reduces to P x Q x which is a polynomial of degree N This function changes sign at least N 1 times so by the Intermediate value theorem it has N 1 zeroes which is impossible for a polynomial of degree N ",
+			"color": "gray|0.30889 grey|0.30889 dim|0.25686 gray|0.25686 dim|0.25686 grey|0.25686 dark|0.21769 gray|0.21769 dark|0.21769 grey|0.21769 silver|0.10509 light|0.056133 gray|0.056133 light|0.056133 grey|0.056133 gainsboro|0.039205 white|0.0044187 smoke|0.0044187  ",
+			"after_weights": " So|1 as|0.98718 can|0.97436 be|0.96154 seen|0.94872 in|0.9359 the|0.92308 graph|0.91026 P|0.89744 x|0.88462 f|0.87179 x|0.85897 Q|0.84615 x|0.83333 f|0.82051 x|0.80769 must|0.79487 alternate|0.78205 in|0.76923 sign|0.75641 for|0.74359 the|0.73077 N|0.71795 2|0.70513 values|0.69231 of|0.67949 xi|0.66667 But|0.65385 P|0.64103 x|0.62821 f|0.61538 x|0.60256 Q|0.58974 x|0.57692 f|0.5641 x|0.55128 reduces|0.53846 to|0.52564 P|0.51282 x|0.5 Q|0.48718 x|0.47436 which|0.46154 is|0.44872 a|0.4359 polynomial|0.42308 of|0.41026 degree|0.39744 N|0.38462 This|0.37179 function|0.35897 changes|0.34615 sign|0.33333 at|0.32051 least|0.30769 N|0.29487 1|0.28205 times|0.26923 so|0.25641 by|0.24359 the|0.23077 Intermediate|0.21795 value|0.20513 theorem|0.19231 it|0.17949 has|0.16667 N|0.15385 1|0.14103 zeroes|0.12821 which|0.11538 is|0.10256 impossible|0.089744 for|0.076923 a|0.064103 polynomial|0.051282 of|0.038462 degree|0.025641 N|0.012821 |0",
+			"previous_weights": " And|0 when|0.1 a|0.2 minimum|0.3 of|0.4 P|0.5 f|0.6 occurs|0.7 at|0.8 xi|0.9 then|1"
+		}
+	}
+}

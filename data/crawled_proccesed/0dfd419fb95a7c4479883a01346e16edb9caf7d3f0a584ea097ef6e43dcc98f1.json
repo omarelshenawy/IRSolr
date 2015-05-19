@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0dfd419fb95a7c4479883a01346e16edb9caf7d3f0a584ea097ef6e43dcc98f1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/NYCS_IND_Rockaway_HowardBeach_night.jpg/220px-NYCS_IND_Rockaway_HowardBeach_night.jpg",
+			"previous": " ",
+			"after": " JFK Airport is connected to New York City Subway and Long Island Rail Road by AirTrain JFK It stops at all terminals parking lots hotel shuttle areas car rental lots the Jamaica LIRR station Howard Beach JFK Airport on the IND Rockaway Line A train and Sutphin Boulevard Archer Avenue JFK Airport on the Archer Avenue Line E J Z trains A Lower Manhattan Jamaica JFK Transportation Project has been proposed to connect the AirTrain to Lower Manhattan ",
+			"color": "black|0.8145 dim|0.039333 gray|0.039333 dim|0.039333 grey|0.039333 gray|0.024464 grey|0.024464 dark|0.015203 gray|0.015203 dark|0.015203 grey|0.015203 silver|0.0082577 light|0.005956 gray|0.005956 light|0.005956 grey|0.005956  ",
+			"after_weights": " JFK|1 Airport|0.98718 is|0.97436 connected|0.96154 to|0.94872 New|0.9359 York|0.92308 City|0.91026 Subway|0.89744 and|0.88462 Long|0.87179 Island|0.85897 Rail|0.84615 Road|0.83333 by|0.82051 AirTrain|0.80769 JFK|0.79487 It|0.78205 stops|0.76923 at|0.75641 all|0.74359 terminals|0.73077 parking|0.71795 lots|0.70513 hotel|0.69231 shuttle|0.67949 areas|0.66667 car|0.65385 rental|0.64103 lots|0.62821 the|0.61538 Jamaica|0.60256 LIRR|0.58974 station|0.57692 Howard|0.5641 Beach|0.55128 JFK|0.53846 Airport|0.52564 on|0.51282 the|0.5 IND|0.48718 Rockaway|0.47436 Line|0.46154 A|0.44872 train|0.4359 and|0.42308 Sutphin|0.41026 Boulevard|0.39744 Archer|0.38462 Avenue|0.37179 JFK|0.35897 Airport|0.34615 on|0.33333 the|0.32051 Archer|0.30769 Avenue|0.29487 Line|0.28205 E|0.26923 J|0.25641 Z|0.24359 trains|0.23077 A|0.21795 Lower|0.20513 Manhattan|0.19231 Jamaica|0.17949 JFK|0.16667 Transportation|0.15385 Project|0.14103 has|0.12821 been|0.11538 proposed|0.10256 to|0.089744 connect|0.076923 the|0.064103 AirTrain|0.051282 to|0.038462 Lower|0.025641 Manhattan|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

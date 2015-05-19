@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "535c0a89f315b1558245ae272657cb30eab8bf60f69fb04aa02d4c4505dadc6b",
+			"url": "https://upload.wikimedia.org/math/0/7/e/07ec65c5862d758b24ab3b74efee9519.png",
+			"previous": " where U is the potential function The partial derivative of with respect to t is ",
+			"after": " substituting into the time derivative of  The Laplacian operators 2 in the above result suggest that the right hand side is the divergence of j and the reversed order of terms imply this is the negative of j altogether ",
+			"color": "gray|0.27847 grey|0.27847 dark|0.22211 gray|0.22211 dark|0.22211 grey|0.22211 dim|0.19669 gray|0.19669 dim|0.19669 grey|0.19669 silver|0.10987 black|0.067346 light|0.056757 gray|0.056757 light|0.056757 grey|0.056757 gainsboro|0.039519 white|0.0068482 smoke|0.0068482 linen|0.0034946 lavender|0.0032004 blush|0.0032004 alice|0.003109 blue|0.003109 ghost|0.0029916 white|0.0029916 sea|0.0028121 shell|0.0028121  ",
+			"after_weights": " substituting|1 into|0.975 the|0.95 time|0.925 derivative|0.9 of|0.875 |0.85 The|0.825 Laplacian|0.8 operators|0.775 2|0.75 in|0.725 the|0.7 above|0.675 result|0.65 suggest|0.625 that|0.6 the|0.575 right|0.55 hand|0.525 side|0.5 is|0.475 the|0.45 divergence|0.425 of|0.4 j|0.375 and|0.35 the|0.325 reversed|0.3 order|0.275 of|0.25 terms|0.225 imply|0.2 this|0.175 is|0.15 the|0.125 negative|0.1 of|0.075 j|0.05 altogether|0.025 |0",
+			"previous_weights": " where|0 U|0.066667 is|0.13333 the|0.2 potential|0.26667 function|0.33333 The|0.4 partial|0.46667 derivative|0.53333 of|0.6 with|0.66667 respect|0.73333 to|0.8 t|0.86667 is|0.93333 |1"
+		}
+	}
+}

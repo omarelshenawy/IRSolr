@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7afc5f66fd32a0c480ffd2167e2ac6544ab353722b83e6ceb6b066cea9b4112e",
+			"url": "https://upload.wikimedia.org/math/7/8/1/78196b7ac325b6bbad5b8726a428e37d.png",
+			"previous": " More generally the covariant components of a 4 vector transform according to the inverse Lorentz transformation ",
+			"after": " The postulates of special relativity constrain the exact form the Lorentz transformation matrices take  More generally most physical quantities are best described as components of tensors So to transform from one frame to another we use the well known tensor transformation law 46 ",
+			"color": "gray|0.30651 grey|0.30651 dim|0.26959 gray|0.26959 dim|0.26959 grey|0.26959 dark|0.22571 gray|0.22571 dark|0.22571 grey|0.22571 silver|0.099868 light|0.047938 gray|0.047938 light|0.047938 grey|0.047938 gainsboro|0.033193 white|0.0052957 smoke|0.0052957 linen|0.0027664  ",
+			"after_weights": " The|1 postulates|0.97727 of|0.95455 special|0.93182 relativity|0.90909 constrain|0.88636 the|0.86364 exact|0.84091 form|0.81818 the|0.79545 Lorentz|0.77273 transformation|0.75 matrices|0.72727 take|0.70455 |0.68182 More|0.65909 generally|0.63636 most|0.61364 physical|0.59091 quantities|0.56818 are|0.54545 best|0.52273 described|0.5 as|0.47727 components|0.45455 of|0.43182 tensors|0.40909 So|0.38636 to|0.36364 transform|0.34091 from|0.31818 one|0.29545 frame|0.27273 to|0.25 another|0.22727 we|0.20455 use|0.18182 the|0.15909 well|0.13636 known|0.11364 tensor|0.090909 transformation|0.068182 law|0.045455 46|0.022727 |0",
+			"previous_weights": " More|0 generally|0.0625 the|0.125 covariant|0.1875 components|0.25 of|0.3125 a|0.375 4|0.4375 vector|0.5 transform|0.5625 according|0.625 to|0.6875 the|0.75 inverse|0.8125 Lorentz|0.875 transformation|0.9375 |1"
+		}
+	}
+}

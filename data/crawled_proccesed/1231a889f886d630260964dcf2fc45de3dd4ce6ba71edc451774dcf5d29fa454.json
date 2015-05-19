@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1231a889f886d630260964dcf2fc45de3dd4ce6ba71edc451774dcf5d29fa454",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/WAAF_RNZAF_1921.jpg/220px-WAAF_RNZAF_1921.jpg",
+			"previous": " ",
+			"after": " RNZAF rank titles and uniform remain similar to the Royal Air Force The rank structure of the RNZAF was established within the context of the desire to ensure that the service remained separate from both the Army and Navy The rank structure for the RNZAF came to be ",
+			"color": "burly|0.73836 wood|0.73836 tan|0.12348 navajo|0.064313 white|0.064313 wheat|0.015955 moccasin|0.015456 antique|0.0074427 white|0.0074427 peach|0.0061101 puff|0.0061101  ",
+			"after_weights": " RNZAF|1 rank|0.97917 titles|0.95833 and|0.9375 uniform|0.91667 remain|0.89583 similar|0.875 to|0.85417 the|0.83333 Royal|0.8125 Air|0.79167 Force|0.77083 The|0.75 rank|0.72917 structure|0.70833 of|0.6875 the|0.66667 RNZAF|0.64583 was|0.625 established|0.60417 within|0.58333 the|0.5625 context|0.54167 of|0.52083 the|0.5 desire|0.47917 to|0.45833 ensure|0.4375 that|0.41667 the|0.39583 service|0.375 remained|0.35417 separate|0.33333 from|0.3125 both|0.29167 the|0.27083 Army|0.25 and|0.22917 Navy|0.20833 The|0.1875 rank|0.16667 structure|0.14583 for|0.125 the|0.10417 RNZAF|0.083333 came|0.0625 to|0.041667 be|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

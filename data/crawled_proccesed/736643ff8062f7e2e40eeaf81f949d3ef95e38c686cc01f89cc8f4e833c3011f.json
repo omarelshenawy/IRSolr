@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "736643ff8062f7e2e40eeaf81f949d3ef95e38c686cc01f89cc8f4e833c3011f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Piper_Cherokee.svg/400px-Piper_Cherokee.svg.png",
+			"previous": " The Cherokee series has been popular with private owners and flying clubs with over 32 000 delivered ",
+			"after": " Data from Piper Aircraft Owner s Handbook 23  General characteristics Performance Avionics factory standard 1964 none",
+			"color": "dark|0.18038 gray|0.18038 dark|0.18038 grey|0.18038 silver|0.17698 light|0.12679 gray|0.12679 light|0.12679 grey|0.12679 gainsboro|0.11528 gray|0.065976 grey|0.065976 white|0.041916 smoke|0.041916 alice|0.035499 blue|0.035499 lavender|0.035499 blush|0.035499 ghost|0.035225 white|0.035225 sea|0.035037 shell|0.035037 snow|0.034544 white|0.030997 mint|0.02514 cream|0.02514 linen|0.024147 floral|0.015696 white|0.015696 azure|0.011846 dim|0.009049 gray|0.009049 dim|0.009049 grey|0.009049  ",
+			"after_weights": " Data|1 from|0.9375 Piper|0.875 Aircraft|0.8125 Owner|0.75 s|0.6875 Handbook|0.625 23|0.5625 |0.5 General|0.4375 characteristics|0.375 Performance|0.3125 Avionics|0.25 factory|0.1875 standard|0.125 1964|0.0625 none|0",
+			"previous_weights": " The|0 Cherokee|0.058824 series|0.11765 has|0.17647 been|0.23529 popular|0.29412 with|0.35294 private|0.41176 owners|0.47059 and|0.52941 flying|0.58824 clubs|0.64706 with|0.70588 over|0.76471 32|0.82353 000|0.88235 delivered|0.94118 |1"
+		}
+	}
+}

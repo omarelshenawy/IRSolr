@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b6c42ac4d88fa9985c5626068dbfaa996ba204431685b9af40d7e59f2c5d53f",
+			"url": "https://upload.wikimedia.org/wikipedia/en/timeline/f2726798397218661c461598a33553f8.png",
+			"previous": " Australia will hold the Ashes trophy until the next series in 2015 to be held in England ",
+			"after": "  A team must win a series to gain the right to hold the Ashes A drawn series results in the previous holders retaining the Ashes ",
+			"color": "gold|0.28114 white|0.049317 smoke|0.049317 snow|0.048062 ghost|0.047432 white|0.047432 alice|0.046204 blue|0.046204 sea|0.045545 shell|0.045545 white|0.044132 lavender|0.041325 blush|0.041325 mint|0.041302 cream|0.041302 floral|0.039465 white|0.039465 azure|0.038422 tan|0.037062 dim|0.03193 gray|0.03193 dim|0.03193 grey|0.03193 gray|0.030204 grey|0.030204 dark|0.027724 gray|0.027724 dark|0.027724 grey|0.027724 black|0.026196 light|0.021589 gray|0.021589 light|0.021589 grey|0.021589 gainsboro|0.020331 silver|0.019632 royal|0.016525 blue|0.016525 linen|0.010226 ivory|0.0056073 lavender|0.0038436  ",
+			"after_weights": " |1 A|0.96154 team|0.92308 must|0.88462 win|0.84615 a|0.80769 series|0.76923 to|0.73077 gain|0.69231 the|0.65385 right|0.61538 to|0.57692 hold|0.53846 the|0.5 Ashes|0.46154 A|0.42308 drawn|0.38462 series|0.34615 results|0.30769 in|0.26923 the|0.23077 previous|0.19231 holders|0.15385 retaining|0.11538 the|0.076923 Ashes|0.038462 |0",
+			"previous_weights": " Australia|0 will|0.058824 hold|0.11765 the|0.17647 Ashes|0.23529 trophy|0.29412 until|0.35294 the|0.41176 next|0.47059 series|0.52941 in|0.58824 2015|0.64706 to|0.70588 be|0.76471 held|0.82353 in|0.88235 England|0.94118 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6218e3e2decf78a4e030f1fb741775fdf12142155569d38aabb8a0970298a7f1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DaylightSaving-World-Subdivisions.png/370px-DaylightSaving-World-Subdivisions.png",
+			"previous": " ",
+			"after": " Daylight saving time DST or summer time is the practice of advancing clocks during summer months by one hour so that in the evening hours day light is experienced later while sacrificing normal sunrise times Typically users in regions with summer time adjust clocks forward one hour close to the start of spring and adjust them backward in the autumn to standard time 1 ",
+			"color": "dodger|0.55628 blue|0.55628 corn|0.14321 flower|0.14321 blue|0.14321 chocolate|0.090713 firebrick|0.070704 sandy|0.031018 brown|0.031018 indian|0.020338 red|0.020338 light|0.015569 coral|0.015569 steel|0.014879 blue|0.014879  ",
+			"after_weights": " Daylight|1 saving|0.98438 time|0.96875 DST|0.95312 or|0.9375 summer|0.92188 time|0.90625 is|0.89062 the|0.875 practice|0.85938 of|0.84375 advancing|0.82812 clocks|0.8125 during|0.79688 summer|0.78125 months|0.76562 by|0.75 one|0.73438 hour|0.71875 so|0.70312 that|0.6875 in|0.67188 the|0.65625 evening|0.64062 hours|0.625 day|0.60938 light|0.59375 is|0.57812 experienced|0.5625 later|0.54688 while|0.53125 sacrificing|0.51562 normal|0.5 sunrise|0.48438 times|0.46875 Typically|0.45312 users|0.4375 in|0.42188 regions|0.40625 with|0.39062 summer|0.375 time|0.35938 adjust|0.34375 clocks|0.32812 forward|0.3125 one|0.29688 hour|0.28125 close|0.26562 to|0.25 the|0.23438 start|0.21875 of|0.20312 spring|0.1875 and|0.17188 adjust|0.15625 them|0.14062 backward|0.125 in|0.10938 the|0.09375 autumn|0.078125 to|0.0625 standard|0.046875 time|0.03125 1|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a7f13c971a5fb447e9ed8b6a524947e507cff62c48848b5bdb8cbe8b07a0549",
+			"url": "https://upload.wikimedia.org/math/a/d/1/ad1d8fca4747fb86a8e9020d5fa39295.png",
+			"previous": "  Paul Richard Heinrich Blasius derived an exact solution to the above laminar boundary layer equations 8 The thickness of the boundary layer is a function of the Reynolds number for laminar flow ",
+			"after": " The Blasius solution uses boundary conditions in a dimensionless form   at ",
+			"color": "gray|0.3152 grey|0.3152 dark|0.28607 gray|0.28607 dark|0.28607 grey|0.28607 dim|0.14221 gray|0.14221 dim|0.14221 grey|0.14221 silver|0.12783 light|0.060241 gray|0.060241 light|0.060241 grey|0.060241 gainsboro|0.041442 white|0.0073703 smoke|0.0073703 linen|0.0035022 lavender|0.0029999 blush|0.0029999 alice|0.0028453 blue|0.0028453 ghost|0.0027165 white|0.0027165 sea|0.0025272 shell|0.0025272  ",
+			"after_weights": " The|1 Blasius|0.92308 solution|0.84615 uses|0.76923 boundary|0.69231 conditions|0.61538 in|0.53846 a|0.46154 dimensionless|0.38462 form|0.30769 |0.23077 |0.15385 at|0.076923 |0",
+			"previous_weights": " |0 Paul|0.030303 Richard|0.060606 Heinrich|0.090909 Blasius|0.12121 derived|0.15152 an|0.18182 exact|0.21212 solution|0.24242 to|0.27273 the|0.30303 above|0.33333 laminar|0.36364 boundary|0.39394 layer|0.42424 equations|0.45455 8|0.48485 The|0.51515 thickness|0.54545 of|0.57576 the|0.60606 boundary|0.63636 layer|0.66667 is|0.69697 a|0.72727 function|0.75758 of|0.78788 the|0.81818 Reynolds|0.84848 number|0.87879 for|0.90909 laminar|0.93939 flow|0.9697 |1"
+		}
+	}
+}

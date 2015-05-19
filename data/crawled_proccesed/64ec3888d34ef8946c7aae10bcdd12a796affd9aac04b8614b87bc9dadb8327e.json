@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64ec3888d34ef8946c7aae10bcdd12a796affd9aac04b8614b87bc9dadb8327e",
+			"url": "https://upload.wikimedia.org/math/e/4/0/e4012dbfe15999417b9b6e825b33f9c0.png",
+			"previous": " Therefore ",
+			"after": " Hence the flow can be modeled where the air flows through an imaginary diverging duct where diameter of propeller disc and diameter of the outlet are related 1 2 3  In this theory a small element dr is taken at a distance r from the root of the blade and all the forces acting on the element are analysed to get a solution It is assumed that the flow through each section of small radial thickness dr is assumed to be independent of the flow through other elements 1 4 ",
+			"color": "dim|0.40018 gray|0.40018 dim|0.40018 grey|0.40018 gray|0.27935 grey|0.27935 dark|0.16599 gray|0.16599 dark|0.16599 grey|0.16599 silver|0.068491 light|0.03298 gray|0.03298 light|0.03298 grey|0.03298 gainsboro|0.022675 black|0.012422 white|0.0044863 smoke|0.0044863  ",
+			"after_weights": " Hence|1 the|0.98901 flow|0.97802 can|0.96703 be|0.95604 modeled|0.94505 where|0.93407 the|0.92308 air|0.91209 flows|0.9011 through|0.89011 an|0.87912 imaginary|0.86813 diverging|0.85714 duct|0.84615 where|0.83516 diameter|0.82418 of|0.81319 propeller|0.8022 disc|0.79121 and|0.78022 diameter|0.76923 of|0.75824 the|0.74725 outlet|0.73626 are|0.72527 related|0.71429 1|0.7033 2|0.69231 3|0.68132 |0.67033 In|0.65934 this|0.64835 theory|0.63736 a|0.62637 small|0.61538 element|0.6044 dr|0.59341 is|0.58242 taken|0.57143 at|0.56044 a|0.54945 distance|0.53846 r|0.52747 from|0.51648 the|0.50549 root|0.49451 of|0.48352 the|0.47253 blade|0.46154 and|0.45055 all|0.43956 the|0.42857 forces|0.41758 acting|0.40659 on|0.3956 the|0.38462 element|0.37363 are|0.36264 analysed|0.35165 to|0.34066 get|0.32967 a|0.31868 solution|0.30769 It|0.2967 is|0.28571 assumed|0.27473 that|0.26374 the|0.25275 flow|0.24176 through|0.23077 each|0.21978 section|0.20879 of|0.1978 small|0.18681 radial|0.17582 thickness|0.16484 dr|0.15385 is|0.14286 assumed|0.13187 to|0.12088 be|0.10989 independent|0.098901 of|0.087912 the|0.076923 flow|0.065934 through|0.054945 other|0.043956 elements|0.032967 1|0.021978 4|0.010989 |0",
+			"previous_weights": " Therefore|0 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9708f95ad6e3598c95a2669cc18b28942adb8c06d173619441beaa89427b197b",
+			"url": "https://upload.wikimedia.org/math/3/b/9/3b94eac0666c444bb9cc2be3041c369c.png",
+			"previous": " and For any two numbers x1 and x1 x in a b we have For a given f t define the function F x as When an antiderivative F exists then there are infinitely many antiderivatives for f obtained by adding to F an arbitrary constant Also by the first part of the theorem antiderivatives of f always exist when f is continuous ",
+			"after": " Subtracting the two equalities gives It can be shown that Manipulating this equation gives Substituting the above into 1 results in",
+			"color": "dim|0.39768 gray|0.39768 dim|0.39768 grey|0.39768 gray|0.28026 grey|0.28026 dark|0.17341 gray|0.17341 dark|0.17341 grey|0.17341 silver|0.070339 light|0.037107 gray|0.037107 light|0.037107 grey|0.037107 gainsboro|0.024789 white|0.0048817 smoke|0.0048817  ",
+			"after_weights": " Subtracting|1 the|0.95 two|0.9 equalities|0.85 gives|0.8 It|0.75 can|0.7 be|0.65 shown|0.6 that|0.55 Manipulating|0.5 this|0.45 equation|0.4 gives|0.35 Substituting|0.3 the|0.25 above|0.2 into|0.15 1|0.1 results|0.05 in|0",
+			"previous_weights": " and|0 For|0.015873 any|0.031746 two|0.047619 numbers|0.063492 x1|0.079365 and|0.095238 x1|0.11111 x|0.12698 in|0.14286 a|0.15873 b|0.1746 we|0.19048 have|0.20635 For|0.22222 a|0.2381 given|0.25397 f|0.26984 t|0.28571 define|0.30159 the|0.31746 function|0.33333 F|0.34921 x|0.36508 as|0.38095 When|0.39683 an|0.4127 antiderivative|0.42857 F|0.44444 exists|0.46032 then|0.47619 there|0.49206 are|0.50794 infinitely|0.52381 many|0.53968 antiderivatives|0.55556 for|0.57143 f|0.5873 obtained|0.60317 by|0.61905 adding|0.63492 to|0.65079 F|0.66667 an|0.68254 arbitrary|0.69841 constant|0.71429 Also|0.73016 by|0.74603 the|0.7619 first|0.77778 part|0.79365 of|0.80952 the|0.8254 theorem|0.84127 antiderivatives|0.85714 of|0.87302 f|0.88889 always|0.90476 exist|0.92063 when|0.93651 f|0.95238 is|0.96825 continuous|0.98413 |1"
+		}
+	}
+}

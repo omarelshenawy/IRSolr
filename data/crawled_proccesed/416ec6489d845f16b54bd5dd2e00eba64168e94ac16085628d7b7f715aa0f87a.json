@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "416ec6489d845f16b54bd5dd2e00eba64168e94ac16085628d7b7f715aa0f87a",
+			"url": "https://upload.wikimedia.org/math/b/a/3/ba3e7d460d8cc3e6085210a755869265.png",
+			"previous": " Neither F b nor F a is dependent on so the limit on the left side remains F b F a ",
+			"after": " The expression on the right side of the equation defines the integral over f from a to b Therefore we obtain",
+			"color": "dim|0.35785 gray|0.35785 dim|0.35785 grey|0.35785 gray|0.28003 grey|0.28003 dark|0.19175 gray|0.19175 dark|0.19175 grey|0.19175 silver|0.081407 light|0.042535 gray|0.042535 light|0.042535 grey|0.042535 gainsboro|0.027515 white|0.0053497 smoke|0.0053497  ",
+			"after_weights": " The|1 expression|0.95 on|0.9 the|0.85 right|0.8 side|0.75 of|0.7 the|0.65 equation|0.6 defines|0.55 the|0.5 integral|0.45 over|0.4 f|0.35 from|0.3 a|0.25 to|0.2 b|0.15 Therefore|0.1 we|0.05 obtain|0",
+			"previous_weights": " Neither|0 F|0.047619 b|0.095238 nor|0.14286 F|0.19048 a|0.2381 is|0.28571 dependent|0.33333 on|0.38095 so|0.42857 the|0.47619 limit|0.52381 on|0.57143 the|0.61905 left|0.66667 side|0.71429 remains|0.7619 F|0.80952 b|0.85714 F|0.90476 a|0.95238 |1"
+		}
+	}
+}

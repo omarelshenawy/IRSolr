@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "223ead32c2e343d6f852bba4ddb8da337aad7f666be36a26d3773ba3b3f28f6b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Red-flush_Cattle_Egret.jpg/220px-Red-flush_Cattle_Egret.jpg",
+			"previous": " ",
+			"after": " The cattle egret was first described in 1758 by Linnaeus in his Systema naturae as Ardea ibis 2 but was moved to its current genus by Charles Lucien Bonaparte in 1855 3 Its genus name Bubulcus is Latin for herdsman referring like the English name to this species association with cattle 4 Ibis is a Latin and Greek word which originally referred to another white wading bird the sacred ibis 5 ",
+			"color": "dim|0.45375 gray|0.45375 dim|0.45375 grey|0.45375 dark|0.22317 gray|0.22317 dark|0.22317 grey|0.22317 gray|0.18489 grey|0.18489 silver|0.046413 light|0.023443 slate|0.023443 gray|0.023443 light|0.015432 gray|0.015432 light|0.015432 grey|0.015432 slate|0.012378 gray|0.012378 gainsboro|0.0095888 peru|0.0051217 light|0.003965 steel|0.003965 blue|0.003965  ",
+			"after_weights": " The|1 cattle|0.98592 egret|0.97183 was|0.95775 first|0.94366 described|0.92958 in|0.91549 1758|0.90141 by|0.88732 Linnaeus|0.87324 in|0.85915 his|0.84507 Systema|0.83099 naturae|0.8169 as|0.80282 Ardea|0.78873 ibis|0.77465 2|0.76056 but|0.74648 was|0.73239 moved|0.71831 to|0.70423 its|0.69014 current|0.67606 genus|0.66197 by|0.64789 Charles|0.6338 Lucien|0.61972 Bonaparte|0.60563 in|0.59155 1855|0.57746 3|0.56338 Its|0.5493 genus|0.53521 name|0.52113 Bubulcus|0.50704 is|0.49296 Latin|0.47887 for|0.46479 herdsman|0.4507 referring|0.43662 like|0.42254 the|0.40845 English|0.39437 name|0.38028 to|0.3662 this|0.35211 species|0.33803 association|0.32394 with|0.30986 cattle|0.29577 4|0.28169 Ibis|0.26761 is|0.25352 a|0.23944 Latin|0.22535 and|0.21127 Greek|0.19718 word|0.1831 which|0.16901 originally|0.15493 referred|0.14085 to|0.12676 another|0.11268 white|0.098592 wading|0.084507 bird|0.070423 the|0.056338 sacred|0.042254 ibis|0.028169 5|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

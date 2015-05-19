@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9aefe35c0d9553295dcb421feb5682451801aba1526ff5db2c44227805aa04d2",
+			"url": "https://upload.wikimedia.org/math/2/5/9/259054be82151ea69f3327490b69dd19.png",
+			"previous": " Resolving Forces in the figure 1  In this theory a small element dr is taken at a distance r from the root of the blade and all the forces acting on the element are analysed to get a solution It is assumed that the flow through each section of small radial thickness dr is assumed to be independent of the flow through other elements 1 4 ",
+			"after": " Lift Coefficient CL and Drag Coefficient CD are given as  Also from the figure 1 ",
+			"color": "dim|0.40854 gray|0.40854 dim|0.40854 grey|0.40854 gray|0.27876 grey|0.27876 dark|0.16351 gray|0.16351 dark|0.16351 grey|0.16351 silver|0.072158 light|0.035924 gray|0.035924 light|0.035924 grey|0.035924 gainsboro|0.024987 white|0.0040929 smoke|0.0040929  ",
+			"after_weights": " Lift|1 Coefficient|0.9375 CL|0.875 and|0.8125 Drag|0.75 Coefficient|0.6875 CD|0.625 are|0.5625 given|0.5 as|0.4375 |0.375 Also|0.3125 from|0.25 the|0.1875 figure|0.125 1|0.0625 |0",
+			"previous_weights": " Resolving|0 Forces|0.014925 in|0.029851 the|0.044776 figure|0.059701 1|0.074627 |0.089552 In|0.10448 this|0.1194 theory|0.13433 a|0.14925 small|0.16418 element|0.1791 dr|0.19403 is|0.20896 taken|0.22388 at|0.23881 a|0.25373 distance|0.26866 r|0.28358 from|0.29851 the|0.31343 root|0.32836 of|0.34328 the|0.35821 blade|0.37313 and|0.38806 all|0.40299 the|0.41791 forces|0.43284 acting|0.44776 on|0.46269 the|0.47761 element|0.49254 are|0.50746 analysed|0.52239 to|0.53731 get|0.55224 a|0.56716 solution|0.58209 It|0.59701 is|0.61194 assumed|0.62687 that|0.64179 the|0.65672 flow|0.67164 through|0.68657 each|0.70149 section|0.71642 of|0.73134 small|0.74627 radial|0.76119 thickness|0.77612 dr|0.79104 is|0.80597 assumed|0.8209 to|0.83582 be|0.85075 independent|0.86567 of|0.8806 the|0.89552 flow|0.91045 through|0.92537 other|0.9403 elements|0.95522 1|0.97015 4|0.98507 |1"
+		}
+	}
+}

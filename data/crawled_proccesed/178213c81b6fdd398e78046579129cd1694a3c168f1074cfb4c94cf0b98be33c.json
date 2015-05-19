@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "178213c81b6fdd398e78046579129cd1694a3c168f1074cfb4c94cf0b98be33c",
+			"url": "https://upload.wikimedia.org/math/7/6/5/765715c43fdb7fcf9727514f901de7ad.png",
+			"previous": " The rate of energy loss per unit surface area from surface friction is given by",
+			"after": " The rate of energy production per unit surface area is given by where is the heat engine efficiency and is the total rate of heat input into the system per unit surface area Given that a tropical cyclone may be idealized as a Carnot heat engine the Carnot heat engine efficiency is given by",
+			"color": "black|0.92469 dim|0.056958 gray|0.056958 dim|0.056958 grey|0.056958 gray|0.01719 grey|0.01719  ",
+			"after_weights": " The|1 rate|0.98113 of|0.96226 energy|0.9434 production|0.92453 per|0.90566 unit|0.88679 surface|0.86792 area|0.84906 is|0.83019 given|0.81132 by|0.79245 where|0.77358 is|0.75472 the|0.73585 heat|0.71698 engine|0.69811 efficiency|0.67925 and|0.66038 is|0.64151 the|0.62264 total|0.60377 rate|0.58491 of|0.56604 heat|0.54717 input|0.5283 into|0.50943 the|0.49057 system|0.4717 per|0.45283 unit|0.43396 surface|0.41509 area|0.39623 Given|0.37736 that|0.35849 a|0.33962 tropical|0.32075 cyclone|0.30189 may|0.28302 be|0.26415 idealized|0.24528 as|0.22642 a|0.20755 Carnot|0.18868 heat|0.16981 engine|0.15094 the|0.13208 Carnot|0.11321 heat|0.09434 engine|0.075472 efficiency|0.056604 is|0.037736 given|0.018868 by|0",
+			"previous_weights": " The|0 rate|0.071429 of|0.14286 energy|0.21429 loss|0.28571 per|0.35714 unit|0.42857 surface|0.5 area|0.57143 from|0.64286 surface|0.71429 friction|0.78571 is|0.85714 given|0.92857 by|1"
+		}
+	}
+}

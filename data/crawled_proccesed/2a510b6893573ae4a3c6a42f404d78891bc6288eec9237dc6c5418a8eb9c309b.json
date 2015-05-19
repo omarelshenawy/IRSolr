@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a510b6893573ae4a3c6a42f404d78891bc6288eec9237dc6c5418a8eb9c309b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Blender_2.45_screenshot.jpg/256px-Blender_2.45_screenshot.jpg",
+			"previous": " ",
+			"after": " Computer graphics are pictures and movies created using computers usually referring to image data created by a computer specifically with help from specialized graphic hardware and software It is a subset of computer science and a recent field The phrase was coined by computer graphics researcher William Fetter of Boeing in 1960 Another name for the field is computer generated imagery or simply CGI ",
+			"color": "light|0.36019 slate|0.36019 gray|0.36019 dark|0.19567 gray|0.19567 dark|0.19567 grey|0.19567 gray|0.12609 grey|0.12609 black|0.093666 dim|0.071858 gray|0.071858 dim|0.071858 grey|0.071858 slate|0.049472 gray|0.049472 silver|0.031948 light|0.014496 gray|0.014496 light|0.014496 grey|0.014496 thistle|0.010461 gainsboro|0.0089459 royal|0.0068968 blue|0.0068968  ",
+			"after_weights": " Computer|1 graphics|0.98438 are|0.96875 pictures|0.95312 and|0.9375 movies|0.92188 created|0.90625 using|0.89062 computers|0.875 usually|0.85938 referring|0.84375 to|0.82812 image|0.8125 data|0.79688 created|0.78125 by|0.76562 a|0.75 computer|0.73438 specifically|0.71875 with|0.70312 help|0.6875 from|0.67188 specialized|0.65625 graphic|0.64062 hardware|0.625 and|0.60938 software|0.59375 It|0.57812 is|0.5625 a|0.54688 subset|0.53125 of|0.51562 computer|0.5 science|0.48438 and|0.46875 a|0.45312 recent|0.4375 field|0.42188 The|0.40625 phrase|0.39062 was|0.375 coined|0.35938 by|0.34375 computer|0.32812 graphics|0.3125 researcher|0.29688 William|0.28125 Fetter|0.26562 of|0.25 Boeing|0.23438 in|0.21875 1960|0.20312 Another|0.1875 name|0.17188 for|0.15625 the|0.14062 field|0.125 is|0.10938 computer|0.09375 generated|0.078125 imagery|0.0625 or|0.046875 simply|0.03125 CGI|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "473b9a4116426c0c98882531a802589adff8d2ccab4a3f87a8bc42c0559471ce",
+			"url": "https://upload.wikimedia.org/math/a/f/6/af68da37bf3dec66158b99cf17ba5a0a.png",
+			"previous": " The ram drag must be deducted from the nozzle gross thrust ",
+			"after": " The calculation of the combustor fuel flow is beyond the scope of this text but is basically proportional to the combustor entry airflow and a function of the combustor temperature rise ",
+			"color": "dim|0.3586 gray|0.3586 dim|0.3586 grey|0.3586 gray|0.27168 grey|0.27168 dark|0.18759 gray|0.18759 dark|0.18759 grey|0.18759 silver|0.088104 light|0.042572 gray|0.042572 light|0.042572 grey|0.042572 gainsboro|0.030312 white|0.0051474 smoke|0.0051474 linen|0.0031916  ",
+			"after_weights": " The|1 calculation|0.96774 of|0.93548 the|0.90323 combustor|0.87097 fuel|0.83871 flow|0.80645 is|0.77419 beyond|0.74194 the|0.70968 scope|0.67742 of|0.64516 this|0.6129 text|0.58065 but|0.54839 is|0.51613 basically|0.48387 proportional|0.45161 to|0.41935 the|0.3871 combustor|0.35484 entry|0.32258 airflow|0.29032 and|0.25806 a|0.22581 function|0.19355 of|0.16129 the|0.12903 combustor|0.096774 temperature|0.064516 rise|0.032258 |0",
+			"previous_weights": " The|0 ram|0.090909 drag|0.18182 must|0.27273 be|0.36364 deducted|0.45455 from|0.54545 the|0.63636 nozzle|0.72727 gross|0.81818 thrust|0.90909 |1"
+		}
+	}
+}

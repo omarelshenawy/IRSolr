@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80fab21e53e3d9e43a569591299d448c3c7faf04604a3ca98723343a4acbefa6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Siberia_Airlines_Ilyushin_Il-86_Milinkovic.jpg/300px-Siberia_Airlines_Ilyushin_Il-86_Milinkovic.jpg",
+			"previous": " ",
+			"after": " After the collapse of the Soviet Union in 1991 national airlines emerged in the 15 successor republics Il 86s serving with Aeroflot administrations Directorates in these nations accrued to their airlines and many were traded ",
+			"color": "light|0.34987 slate|0.34987 gray|0.34987 slate|0.18542 gray|0.18542 dim|0.18282 gray|0.18282 dim|0.18282 grey|0.18282 gray|0.1243 grey|0.1243 dark|0.077039 gray|0.077039 dark|0.077039 grey|0.077039 black|0.039985 dark|0.02556 slate|0.02556 gray|0.02556 silver|0.0089443  ",
+			"after_weights": " After|1 the|0.97143 collapse|0.94286 of|0.91429 the|0.88571 Soviet|0.85714 Union|0.82857 in|0.8 1991|0.77143 national|0.74286 airlines|0.71429 emerged|0.68571 in|0.65714 the|0.62857 15|0.6 successor|0.57143 republics|0.54286 Il|0.51429 86s|0.48571 serving|0.45714 with|0.42857 Aeroflot|0.4 administrations|0.37143 Directorates|0.34286 in|0.31429 these|0.28571 nations|0.25714 accrued|0.22857 to|0.2 their|0.17143 airlines|0.14286 and|0.11429 many|0.085714 were|0.057143 traded|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

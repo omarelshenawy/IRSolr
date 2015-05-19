@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e287bc97d23c49a75b7cc91dd676a27252f46c2300752b02e98e1d2f103ce1c",
+			"url": "https://upload.wikimedia.org/math/f/2/b/f2b0fd1acf189ce110a1f41aa2d697fa.png",
+			"previous": " The second derivative of the B zier curve with respect to t is from which it can be concluded that the tangents to the curve at P0 and P2 intersect at P1 As t increases from 0 to 1 the curve departs from P0 in the direction of P1 then bends to arrive at P2 from the direction of P1 ",
+			"after": " B zier curves can be defined for any degree n ",
+			"color": "dim|0.37795 gray|0.37795 dim|0.37795 grey|0.37795 gray|0.2721 grey|0.2721 dark|0.17242 gray|0.17242 dark|0.17242 grey|0.17242 silver|0.085186 light|0.045411 gray|0.045411 light|0.045411 grey|0.045411 gainsboro|0.03273 white|0.0036921 smoke|0.0036921  ",
+			"after_weights": " B|1 zier|0.9 curves|0.8 can|0.7 be|0.6 defined|0.5 for|0.4 any|0.3 degree|0.2 n|0.1 |0",
+			"previous_weights": " The|0 second|0.016667 derivative|0.033333 of|0.05 the|0.066667 B|0.083333 zier|0.1 curve|0.11667 with|0.13333 respect|0.15 to|0.16667 t|0.18333 is|0.2 from|0.21667 which|0.23333 it|0.25 can|0.26667 be|0.28333 concluded|0.3 that|0.31667 the|0.33333 tangents|0.35 to|0.36667 the|0.38333 curve|0.4 at|0.41667 P0|0.43333 and|0.45 P2|0.46667 intersect|0.48333 at|0.5 P1|0.51667 As|0.53333 t|0.55 increases|0.56667 from|0.58333 0|0.6 to|0.61667 1|0.63333 the|0.65 curve|0.66667 departs|0.68333 from|0.7 P0|0.71667 in|0.73333 the|0.75 direction|0.76667 of|0.78333 P1|0.8 then|0.81667 bends|0.83333 to|0.85 arrive|0.86667 at|0.88333 P2|0.9 from|0.91667 the|0.93333 direction|0.95 of|0.96667 P1|0.98333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c069eb4f38bd338c8ef26f1d39f0719330786144dbdf542a9b1aa3f1570a09f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Edison_and_phonograph_edit1.jpg/170px-Edison_and_phonograph_edit1.jpg",
+			"previous": " Mina outlived Thomas Edison dying on August 24 1947 30 31 ",
+			"after": " Edison began his career as an inventor in Newark New Jersey with the automatic repeater and his other improved telegraphic devices but the invention that first gained him notice was the phonograph in 1877 32 This accomplishment was so unexpected by the public at large as to appear almost magical Edison became known as The Wizard of Menlo Park New Jersey 3 ",
+			"color": " ",
+			"after_weights": " Edison|1 began|0.98387 his|0.96774 career|0.95161 as|0.93548 an|0.91935 inventor|0.90323 in|0.8871 Newark|0.87097 New|0.85484 Jersey|0.83871 with|0.82258 the|0.80645 automatic|0.79032 repeater|0.77419 and|0.75806 his|0.74194 other|0.72581 improved|0.70968 telegraphic|0.69355 devices|0.67742 but|0.66129 the|0.64516 invention|0.62903 that|0.6129 first|0.59677 gained|0.58065 him|0.56452 notice|0.54839 was|0.53226 the|0.51613 phonograph|0.5 in|0.48387 1877|0.46774 32|0.45161 This|0.43548 accomplishment|0.41935 was|0.40323 so|0.3871 unexpected|0.37097 by|0.35484 the|0.33871 public|0.32258 at|0.30645 large|0.29032 as|0.27419 to|0.25806 appear|0.24194 almost|0.22581 magical|0.20968 Edison|0.19355 became|0.17742 known|0.16129 as|0.14516 The|0.12903 Wizard|0.1129 of|0.096774 Menlo|0.080645 Park|0.064516 New|0.048387 Jersey|0.032258 3|0.016129 |0",
+			"previous_weights": " Mina|0 outlived|0.090909 Thomas|0.18182 Edison|0.27273 dying|0.36364 on|0.45455 August|0.54545 24|0.63636 1947|0.72727 30|0.81818 31|0.90909 |1"
+		}
+	}
+}

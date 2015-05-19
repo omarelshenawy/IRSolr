@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "430dc357a4799a4816dc746f7da76d75b85933644fb12e1b992b7f97a097b3ed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2010-06-30_B757_Condor_D-ABON_EDDF_01.jpg/220px-2010-06-30_B757_Condor_D-ABON_EDDF_01.jpg",
+			"previous": " Aircraft maintenance is split between two wholly owned subsidiaries Condor Technik GmbH based at Frankfurt Airport with 160 employees for the medium long haul Boeing aircraft and Condor Berlin based at Berlin Sch nefeld Airport with 80 employees for the short medium haul Airbus aircraft ",
+			"after": " As of April 2015 the Condor fleet consists of the following aircraft with an average age of 15 6 years 29 30 ",
+			"color": "light|0.34051 slate|0.34051 gray|0.34051 slate|0.29661 gray|0.29661 dark|0.19196 gray|0.19196 dark|0.19196 grey|0.19196 gray|0.036729 grey|0.036729 black|0.027186 silver|0.017673 dim|0.014722 gray|0.014722 dim|0.014722 grey|0.014722 light|0.009195 gray|0.009195 light|0.009195 grey|0.009195 gainsboro|0.0074512 white|0.004704 smoke|0.004704 sea|0.0038675 shell|0.0038675 snow|0.0038633 ghost|0.0033052 white|0.0033052 white|0.0032792 lavender|0.0032516 blush|0.0032516 linen|0.0032462 floral|0.0032351 white|0.0032351 dark|0.0028262 slate|0.0028262 gray|0.0028262  ",
+			"after_weights": " As|1 of|0.95455 April|0.90909 2015|0.86364 the|0.81818 Condor|0.77273 fleet|0.72727 consists|0.68182 of|0.63636 the|0.59091 following|0.54545 aircraft|0.5 with|0.45455 an|0.40909 average|0.36364 age|0.31818 of|0.27273 15|0.22727 6|0.18182 years|0.13636 29|0.090909 30|0.045455 |0",
+			"previous_weights": " Aircraft|0 maintenance|0.022222 is|0.044444 split|0.066667 between|0.088889 two|0.11111 wholly|0.13333 owned|0.15556 subsidiaries|0.17778 Condor|0.2 Technik|0.22222 GmbH|0.24444 based|0.26667 at|0.28889 Frankfurt|0.31111 Airport|0.33333 with|0.35556 160|0.37778 employees|0.4 for|0.42222 the|0.44444 medium|0.46667 long|0.48889 haul|0.51111 Boeing|0.53333 aircraft|0.55556 and|0.57778 Condor|0.6 Berlin|0.62222 based|0.64444 at|0.66667 Berlin|0.68889 Sch|0.71111 nefeld|0.73333 Airport|0.75556 with|0.77778 80|0.8 employees|0.82222 for|0.84444 the|0.86667 short|0.88889 medium|0.91111 haul|0.93333 Airbus|0.95556 aircraft|0.97778 |1"
+		}
+	}
+}

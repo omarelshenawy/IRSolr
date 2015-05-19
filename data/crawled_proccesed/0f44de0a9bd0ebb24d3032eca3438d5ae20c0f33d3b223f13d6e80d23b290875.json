@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f44de0a9bd0ebb24d3032eca3438d5ae20c0f33d3b223f13d6e80d23b290875",
+			"url": "https://upload.wikimedia.org/math/0/2/c/02cc6e4798367f3f8d26ea525f07e7b2.png",
+			"previous": " For a linear operator with finite dimensional kernel and co kernel one may define index as ",
+			"after": " namely the degrees of freedom minus the number of constraints  For a transformation between finite dimensional vector spaces this is just the difference dim V dim W by rank nullity This gives an indication of how many solutions or how many constraints one has if mapping from a larger space to a smaller one the map may be onto and thus will have degrees of freedom even without constraints Conversely if mapping from a smaller space to a larger one the map cannot be onto and thus one will have constraints even without degrees of freedom ",
+			"color": "dim|0.3861 gray|0.3861 dim|0.3861 grey|0.3861 gray|0.30746 grey|0.30746 dark|0.17354 gray|0.17354 dark|0.17354 grey|0.17354 silver|0.067429 light|0.029835 gray|0.029835 light|0.029835 grey|0.029835 gainsboro|0.020372 black|0.0038614 white|0.0029479 smoke|0.0029479  ",
+			"after_weights": " namely|1 the|0.98969 degrees|0.97938 of|0.96907 freedom|0.95876 minus|0.94845 the|0.93814 number|0.92784 of|0.91753 constraints|0.90722 |0.89691 For|0.8866 a|0.87629 transformation|0.86598 between|0.85567 finite|0.84536 dimensional|0.83505 vector|0.82474 spaces|0.81443 this|0.80412 is|0.79381 just|0.78351 the|0.7732 difference|0.76289 dim|0.75258 V|0.74227 dim|0.73196 W|0.72165 by|0.71134 rank|0.70103 nullity|0.69072 This|0.68041 gives|0.6701 an|0.65979 indication|0.64948 of|0.63918 how|0.62887 many|0.61856 solutions|0.60825 or|0.59794 how|0.58763 many|0.57732 constraints|0.56701 one|0.5567 has|0.54639 if|0.53608 mapping|0.52577 from|0.51546 a|0.50515 larger|0.49485 space|0.48454 to|0.47423 a|0.46392 smaller|0.45361 one|0.4433 the|0.43299 map|0.42268 may|0.41237 be|0.40206 onto|0.39175 and|0.38144 thus|0.37113 will|0.36082 have|0.35052 degrees|0.34021 of|0.3299 freedom|0.31959 even|0.30928 without|0.29897 constraints|0.28866 Conversely|0.27835 if|0.26804 mapping|0.25773 from|0.24742 a|0.23711 smaller|0.2268 space|0.21649 to|0.20619 a|0.19588 larger|0.18557 one|0.17526 the|0.16495 map|0.15464 cannot|0.14433 be|0.13402 onto|0.12371 and|0.1134 thus|0.10309 one|0.092784 will|0.082474 have|0.072165 constraints|0.061856 even|0.051546 without|0.041237 degrees|0.030928 of|0.020619 freedom|0.010309 |0",
+			"previous_weights": " For|0 a|0.0625 linear|0.125 operator|0.1875 with|0.25 finite|0.3125 dimensional|0.375 kernel|0.4375 and|0.5 co|0.5625 kernel|0.625 one|0.6875 may|0.75 define|0.8125 index|0.875 as|0.9375 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "659a027bec5c12fe621c722d467aad0dd37cd6224d3d7e4119cb5881b663e379",
+			"url": "https://upload.wikimedia.org/math/8/1/5/8159dc7c7c95f21b7f577568b00bd1d4.png",
+			"previous": " The Laplacian operators 2 in the above result suggest that the right hand side is the divergence of j and the reversed order of terms imply this is the negative of j altogether ",
+			"after": " so the continuity equation is ",
+			"color": "gray|0.29491 grey|0.29491 dark|0.27549 gray|0.27549 dark|0.27549 grey|0.27549 dim|0.22801 gray|0.22801 dim|0.22801 grey|0.22801 silver|0.11213 light|0.040436 gray|0.040436 light|0.040436 grey|0.040436 gainsboro|0.028997 white|0.0093802 smoke|0.0093802  ",
+			"after_weights": " so|1 the|0.8 continuity|0.6 equation|0.4 is|0.2 |0",
+			"previous_weights": " The|0 Laplacian|0.030303 operators|0.060606 2|0.090909 in|0.12121 the|0.15152 above|0.18182 result|0.21212 suggest|0.24242 that|0.27273 the|0.30303 right|0.33333 hand|0.36364 side|0.39394 is|0.42424 the|0.45455 divergence|0.48485 of|0.51515 j|0.54545 and|0.57576 the|0.60606 reversed|0.63636 order|0.66667 of|0.69697 terms|0.72727 imply|0.75758 this|0.78788 is|0.81818 the|0.84848 negative|0.87879 of|0.90909 j|0.93939 altogether|0.9697 |1"
+		}
+	}
+}

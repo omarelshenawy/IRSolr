@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/math/9/8/5/985109343f50817c929110c8c251ecb3.png",
 			"previous": " The proportion of non relevant documents that are retrieved out of all non relevant documents available ",
 			"after": " In binary classification fall out is closely related to specificity and is equal to It can be looked at as the probability that a non relevant document is retrieved by the query ",
+			"color": "dim|0.33728 gray|0.33728 dim|0.33728 grey|0.33728 gray|0.31089 grey|0.31089 dark|0.18059 gray|0.18059 dark|0.18059 grey|0.18059 silver|0.084969 light|0.040828 gray|0.040828 light|0.040828 grey|0.040828 gainsboro|0.027592 black|0.0049832 white|0.0032841 smoke|0.0032841  ",
 			"after_weights": " In|1 binary|0.96875 classification|0.9375 fall|0.90625 out|0.875 is|0.84375 closely|0.8125 related|0.78125 to|0.75 specificity|0.71875 and|0.6875 is|0.65625 equal|0.625 to|0.59375 It|0.5625 can|0.53125 be|0.5 looked|0.46875 at|0.4375 as|0.40625 the|0.375 probability|0.34375 that|0.3125 a|0.28125 non|0.25 relevant|0.21875 document|0.1875 is|0.15625 retrieved|0.125 by|0.09375 the|0.0625 query|0.03125 |0",
 			"previous_weights": " The|0 proportion|0.0625 of|0.125 non|0.1875 relevant|0.25 documents|0.3125 that|0.375 are|0.4375 retrieved|0.5 out|0.5625 of|0.625 all|0.6875 non|0.75 relevant|0.8125 documents|0.875 available|0.9375 |1"
 		}

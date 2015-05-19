@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25ae7a1ef5e4b0c3b263599e01e978921f3d8909bf40d21a23a3aa16918bddb2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ILS_gauge.svg/240px-ILS_gauge.svg.png",
+			"previous": " ",
+			"after": " An aircraft approaching a runway is guided by the ILS receivers in the aircraft by performing modulation depth comparisons Many aircraft can route signals into the autopilot to fly the approach automatically An ILS consists of two independent sub systems The localizer provides lateral guidance the glide slope provides vertical guidance ",
+			"color": "black|0.86446 dim|0.093869 gray|0.093869 dim|0.093869 grey|0.093869 gray|0.038629 grey|0.038629  ",
+			"after_weights": " An|1 aircraft|0.98039 approaching|0.96078 a|0.94118 runway|0.92157 is|0.90196 guided|0.88235 by|0.86275 the|0.84314 ILS|0.82353 receivers|0.80392 in|0.78431 the|0.76471 aircraft|0.7451 by|0.72549 performing|0.70588 modulation|0.68627 depth|0.66667 comparisons|0.64706 Many|0.62745 aircraft|0.60784 can|0.58824 route|0.56863 signals|0.54902 into|0.52941 the|0.5098 autopilot|0.4902 to|0.47059 fly|0.45098 the|0.43137 approach|0.41176 automatically|0.39216 An|0.37255 ILS|0.35294 consists|0.33333 of|0.31373 two|0.29412 independent|0.27451 sub|0.2549 systems|0.23529 The|0.21569 localizer|0.19608 provides|0.17647 lateral|0.15686 guidance|0.13725 the|0.11765 glide|0.098039 slope|0.078431 provides|0.058824 vertical|0.039216 guidance|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

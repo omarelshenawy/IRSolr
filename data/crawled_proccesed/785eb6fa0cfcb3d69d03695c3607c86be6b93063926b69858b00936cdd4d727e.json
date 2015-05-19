@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "785eb6fa0cfcb3d69d03695c3607c86be6b93063926b69858b00936cdd4d727e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ioke_2006_track.png/250px-Ioke_2006_track.png",
+			"previous": " ",
+			"after": " Though a tropical cyclone typically moves from east to west in the tropics its track may shift poleward and eastward either as it moves west of the subtropical ridge axis or else if it interacts with the mid latitude flow such as the jet stream or an extratropical cyclone This motion termed recurvature commonly occurs near the western edge of the major ocean basins where the jet stream typically has a poleward component and extratropical cyclones are common 73 An example of tropical cyclone recurvature was Typhoon Ioke in 2006 74 ",
+			"color": "indian|0.14419 red|0.14419 dim|0.10388 gray|0.10388 dim|0.10388 grey|0.10388 sienna|0.1 chocolate|0.093023 steel|0.088372 blue|0.088372 gray|0.075969 grey|0.075969 dark|0.065116 khaki|0.065116 peru|0.051163 dark|0.050388 turquoise|0.050388 medium|0.043411 turquoise|0.043411 golden|0.032558 rod|0.032558 dark|0.032558 gray|0.032558 dark|0.032558 grey|0.032558  ",
+			"after_weights": " Though|1 a|0.98901 tropical|0.97802 cyclone|0.96703 typically|0.95604 moves|0.94505 from|0.93407 east|0.92308 to|0.91209 west|0.9011 in|0.89011 the|0.87912 tropics|0.86813 its|0.85714 track|0.84615 may|0.83516 shift|0.82418 poleward|0.81319 and|0.8022 eastward|0.79121 either|0.78022 as|0.76923 it|0.75824 moves|0.74725 west|0.73626 of|0.72527 the|0.71429 subtropical|0.7033 ridge|0.69231 axis|0.68132 or|0.67033 else|0.65934 if|0.64835 it|0.63736 interacts|0.62637 with|0.61538 the|0.6044 mid|0.59341 latitude|0.58242 flow|0.57143 such|0.56044 as|0.54945 the|0.53846 jet|0.52747 stream|0.51648 or|0.50549 an|0.49451 extratropical|0.48352 cyclone|0.47253 This|0.46154 motion|0.45055 termed|0.43956 recurvature|0.42857 commonly|0.41758 occurs|0.40659 near|0.3956 the|0.38462 western|0.37363 edge|0.36264 of|0.35165 the|0.34066 major|0.32967 ocean|0.31868 basins|0.30769 where|0.2967 the|0.28571 jet|0.27473 stream|0.26374 typically|0.25275 has|0.24176 a|0.23077 poleward|0.21978 component|0.20879 and|0.1978 extratropical|0.18681 cyclones|0.17582 are|0.16484 common|0.15385 73|0.14286 An|0.13187 example|0.12088 of|0.10989 tropical|0.098901 cyclone|0.087912 recurvature|0.076923 was|0.065934 Typhoon|0.054945 Ioke|0.043956 in|0.032967 2006|0.021978 74|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

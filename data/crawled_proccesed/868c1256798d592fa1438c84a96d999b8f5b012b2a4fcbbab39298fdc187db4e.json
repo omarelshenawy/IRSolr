@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "868c1256798d592fa1438c84a96d999b8f5b012b2a4fcbbab39298fdc187db4e",
+			"url": "https://upload.wikimedia.org/math/9/d/d/9dd6c05179403906880d2c028164cea8.png",
+			"previous": " The function composition of two functions takes the output of one function as the input of a second one More specifically the composition of f with a function g Y Z is the function defined by",
+			"after": " That is the order of the composition is important For example suppose f x x2 and g x x 1 Then g f x x2 1 while f g x x 1 2 which is x2 2x 1 a different function ",
+			"color": "black|0.37016 dim|0.2365 gray|0.2365 dim|0.2365 grey|0.2365 gray|0.16712 grey|0.16712 dark|0.11103 gray|0.11103 dark|0.11103 grey|0.11103 silver|0.050666 light|0.027043 gray|0.027043 light|0.027043 grey|0.027043 gainsboro|0.019172 white|0.0040666 smoke|0.0040666  ",
+			"after_weights": " That|1 is|0.97561 the|0.95122 order|0.92683 of|0.90244 the|0.87805 composition|0.85366 is|0.82927 important|0.80488 For|0.78049 example|0.7561 suppose|0.73171 f|0.70732 x|0.68293 x2|0.65854 and|0.63415 g|0.60976 x|0.58537 x|0.56098 1|0.53659 Then|0.5122 g|0.4878 f|0.46341 x|0.43902 x2|0.41463 1|0.39024 while|0.36585 f|0.34146 g|0.31707 x|0.29268 x|0.26829 1|0.2439 2|0.21951 which|0.19512 is|0.17073 x2|0.14634 2x|0.12195 1|0.097561 a|0.073171 different|0.04878 function|0.02439 |0",
+			"previous_weights": " The|0 function|0.028571 composition|0.057143 of|0.085714 two|0.11429 functions|0.14286 takes|0.17143 the|0.2 output|0.22857 of|0.25714 one|0.28571 function|0.31429 as|0.34286 the|0.37143 input|0.4 of|0.42857 a|0.45714 second|0.48571 one|0.51429 More|0.54286 specifically|0.57143 the|0.6 composition|0.62857 of|0.65714 f|0.68571 with|0.71429 a|0.74286 function|0.77143 g|0.8 Y|0.82857 Z|0.85714 is|0.88571 the|0.91429 function|0.94286 defined|0.97143 by|1"
+		}
+	}
+}

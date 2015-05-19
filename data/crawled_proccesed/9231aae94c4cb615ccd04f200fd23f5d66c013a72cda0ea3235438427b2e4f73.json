@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9231aae94c4cb615ccd04f200fd23f5d66c013a72cda0ea3235438427b2e4f73",
+			"url": "https://upload.wikimedia.org/math/5/2/e/52e858818a106466b5e8f6aa54152a11.png",
+			"previous": " The left eigenvectors of are transposes of the right eigenvectors of the transposed matrix since their defining equation is equivalent to",
+			"after": " It follows that if is Hermitian its left and right eigenvectors are complex conjugates In particular if is a real symmetric matrix they are the same except for transposition ",
+			"color": "dim|0.38799 gray|0.38799 dim|0.38799 grey|0.38799 gray|0.21135 grey|0.21135 black|0.17634 dark|0.11492 gray|0.11492 dark|0.11492 grey|0.11492 silver|0.051176 light|0.025977 gray|0.025977 light|0.025977 grey|0.025977 gainsboro|0.018744  ",
+			"after_weights": " It|1 follows|0.96552 that|0.93103 if|0.89655 is|0.86207 Hermitian|0.82759 its|0.7931 left|0.75862 and|0.72414 right|0.68966 eigenvectors|0.65517 are|0.62069 complex|0.58621 conjugates|0.55172 In|0.51724 particular|0.48276 if|0.44828 is|0.41379 a|0.37931 real|0.34483 symmetric|0.31034 matrix|0.27586 they|0.24138 are|0.2069 the|0.17241 same|0.13793 except|0.10345 for|0.068966 transposition|0.034483 |0",
+			"previous_weights": " The|0 left|0.05 eigenvectors|0.1 of|0.15 are|0.2 transposes|0.25 of|0.3 the|0.35 right|0.4 eigenvectors|0.45 of|0.5 the|0.55 transposed|0.6 matrix|0.65 since|0.7 their|0.75 defining|0.8 equation|0.85 is|0.9 equivalent|0.95 to|1"
+		}
+	}
+}

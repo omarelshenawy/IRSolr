@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8223b5a9784cdbd5e1462e0b6a3cc837c4988b5767d6cfc633eff8f967e66b16",
+			"url": "https://upload.wikimedia.org/math/b/a/b/bab99876b4623747e1ac2e933e713e54.png",
+			"previous": " It follows that This is a limit proof by Riemann sums Let f be Riemann integrable on the interval a b and let f admit an antiderivative F on a b Begin with the quantity F b F a Let there be numbers x1 xn such that",
+			"after": " Now we add each F xi along with its additive inverse so that the resulting quantity is equal  The above quantity can be written as the following sum ",
+			"color": "dim|0.3877 gray|0.3877 dim|0.3877 grey|0.3877 gray|0.27316 grey|0.27316 dark|0.17651 gray|0.17651 dark|0.17651 grey|0.17651 silver|0.077411 light|0.039285 gray|0.039285 light|0.039285 grey|0.039285 gainsboro|0.028031 white|0.0045365 smoke|0.0045365  ",
+			"after_weights": " Now|1 we|0.96552 add|0.93103 each|0.89655 F|0.86207 xi|0.82759 along|0.7931 with|0.75862 its|0.72414 additive|0.68966 inverse|0.65517 so|0.62069 that|0.58621 the|0.55172 resulting|0.51724 quantity|0.48276 is|0.44828 equal|0.41379 |0.37931 The|0.34483 above|0.31034 quantity|0.27586 can|0.24138 be|0.2069 written|0.17241 as|0.13793 the|0.10345 following|0.068966 sum|0.034483 |0",
+			"previous_weights": " It|0 follows|0.021739 that|0.043478 This|0.065217 is|0.086957 a|0.1087 limit|0.13043 proof|0.15217 by|0.17391 Riemann|0.19565 sums|0.21739 Let|0.23913 f|0.26087 be|0.28261 Riemann|0.30435 integrable|0.32609 on|0.34783 the|0.36957 interval|0.3913 a|0.41304 b|0.43478 and|0.45652 let|0.47826 f|0.5 admit|0.52174 an|0.54348 antiderivative|0.56522 F|0.58696 on|0.6087 a|0.63043 b|0.65217 Begin|0.67391 with|0.69565 the|0.71739 quantity|0.73913 F|0.76087 b|0.78261 F|0.80435 a|0.82609 Let|0.84783 there|0.86957 be|0.8913 numbers|0.91304 x1|0.93478 xn|0.95652 such|0.97826 that|1"
+		}
+	}
+}

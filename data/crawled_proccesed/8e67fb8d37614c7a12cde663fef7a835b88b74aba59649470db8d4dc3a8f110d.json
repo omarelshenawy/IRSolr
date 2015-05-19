@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e67fb8d37614c7a12cde663fef7a835b88b74aba59649470db8d4dc3a8f110d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1953_Cessna_195B_%28VH-VLD%29_on_Runway_36_at_Temora_Airport.jpg/220px-1953_Cessna_195B_%28VH-VLD%29_on_Runway_36_at_Temora_Airport.jpg",
+			"previous": " In August 2009 there were three Cessna 190s and 17 Cessna 195s registered in Canada 11 Other Cessna 190 and 195 aircraft have been purchased by private pilot owners resident in Brazil and the United Kingdom ",
+			"after": " The difference between the 190 and the 195 models was the engine installed 4 ",
+			"color": "dim|0.4121 gray|0.4121 dim|0.4121 grey|0.4121 gray|0.1351 grey|0.1351 dark|0.054043 gray|0.054043 dark|0.054043 grey|0.054043 black|0.045029 silver|0.033776 tan|0.03113 light|0.02807 gray|0.02807 light|0.02807 grey|0.02807 gainsboro|0.022636 slate|0.022329 gray|0.022329 gold|0.022129 white|0.017195 smoke|0.017195 light|0.015475 slate|0.015475 gray|0.015475 alice|0.014708 blue|0.014708 ghost|0.013524 white|0.013524 snow|0.012299 mint|0.012 cream|0.012 azure|0.011671 white|0.011483 sea|0.0114 shell|0.0114 floral|0.010586 white|0.010586 lavender|0.0091635 blush|0.0091635  ",
+			"after_weights": " The|1 difference|0.92857 between|0.85714 the|0.78571 190|0.71429 and|0.64286 the|0.57143 195|0.5 models|0.42857 was|0.35714 the|0.28571 engine|0.21429 installed|0.14286 4|0.071429 |0",
+			"previous_weights": " In|0 August|0.027778 2009|0.055556 there|0.083333 were|0.11111 three|0.13889 Cessna|0.16667 190s|0.19444 and|0.22222 17|0.25 Cessna|0.27778 195s|0.30556 registered|0.33333 in|0.36111 Canada|0.38889 11|0.41667 Other|0.44444 Cessna|0.47222 190|0.5 and|0.52778 195|0.55556 aircraft|0.58333 have|0.61111 been|0.63889 purchased|0.66667 by|0.69444 private|0.72222 pilot|0.75 owners|0.77778 resident|0.80556 in|0.83333 Brazil|0.86111 and|0.88889 the|0.91667 United|0.94444 Kingdom|0.97222 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1db6faf5ce4d53e9b179e1481c493569364b088a81027269ae68ff8f5ca8cf63",
+			"url": "https://upload.wikimedia.org/math/b/3/e/b3ed1422b656f26396e9d3f30011c7c1.png",
+			"previous": " A measure on is additive if for any and any family the following hold  That is we define the sum of the ri to be the supremum of all the sums of finitely many of them ",
+			"after": " Note that the second condition is equivalent to the statement that the ideal of null sets is complete ",
+			"color": "dim|0.25683 gray|0.25683 dim|0.25683 grey|0.25683 black|0.25299 gray|0.21714 grey|0.21714 dark|0.12837 gray|0.12837 dark|0.12837 grey|0.12837 silver|0.062589 light|0.035797 gray|0.035797 light|0.035797 grey|0.035797 gainsboro|0.026969 white|0.0070389 smoke|0.0070389  ",
+			"after_weights": " Note|1 that|0.94444 the|0.88889 second|0.83333 condition|0.77778 is|0.72222 equivalent|0.66667 to|0.61111 the|0.55556 statement|0.5 that|0.44444 the|0.38889 ideal|0.33333 of|0.27778 null|0.22222 sets|0.16667 is|0.11111 complete|0.055556 |0",
+			"previous_weights": " A|0 measure|0.027027 on|0.054054 is|0.081081 additive|0.10811 if|0.13514 for|0.16216 any|0.18919 and|0.21622 any|0.24324 family|0.27027 the|0.2973 following|0.32432 hold|0.35135 |0.37838 That|0.40541 is|0.43243 we|0.45946 define|0.48649 the|0.51351 sum|0.54054 of|0.56757 the|0.59459 ri|0.62162 to|0.64865 be|0.67568 the|0.7027 supremum|0.72973 of|0.75676 all|0.78378 the|0.81081 sums|0.83784 of|0.86486 finitely|0.89189 many|0.91892 of|0.94595 them|0.97297 |1"
+		}
+	}
+}

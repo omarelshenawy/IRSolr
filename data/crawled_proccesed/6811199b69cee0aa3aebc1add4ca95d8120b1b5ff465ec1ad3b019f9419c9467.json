@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6811199b69cee0aa3aebc1add4ca95d8120b1b5ff465ec1ad3b019f9419c9467",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/SonyCenterAtNight.jpg/220px-SonyCenterAtNight.jpg",
+			"previous": " ",
+			"after": " Some Neo Futurism artworks and cityscapes have been influenced by cyberpunk such as 12 the Sony Center in the Potsdamer Platz public square of Berlin Germany 43 Cyberport in Hong Kong and Shanghai 44 ",
+			"color": "black|0.79871 dark|0.051008 olive|0.051008 green|0.051008 dark|0.019283 sea|0.019283 green|0.019283 dark|0.010699 green|0.010699 dark|0.0098283 khaki|0.0098283 olive|0.0069669  ",
+			"after_weights": " Some|1 Neo|0.97059 Futurism|0.94118 artworks|0.91176 and|0.88235 cityscapes|0.85294 have|0.82353 been|0.79412 influenced|0.76471 by|0.73529 cyberpunk|0.70588 such|0.67647 as|0.64706 12|0.61765 the|0.58824 Sony|0.55882 Center|0.52941 in|0.5 the|0.47059 Potsdamer|0.44118 Platz|0.41176 public|0.38235 square|0.35294 of|0.32353 Berlin|0.29412 Germany|0.26471 43|0.23529 Cyberport|0.20588 in|0.17647 Hong|0.14706 Kong|0.11765 and|0.088235 Shanghai|0.058824 44|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

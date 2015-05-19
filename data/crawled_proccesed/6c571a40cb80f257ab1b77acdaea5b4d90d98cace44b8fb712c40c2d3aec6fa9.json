@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c571a40cb80f257ab1b77acdaea5b4d90d98cace44b8fb712c40c2d3aec6fa9",
+			"url": "https://upload.wikimedia.org/math/0/0/8/0088cc02c69967b7d2c1262b983caf14.png",
+			"previous": " The square roots of the perfect squares 1 4 9 16 etc are integers In all other cases the square roots of positive integers are irrational numbers and therefore their decimal representations are non repeating decimals ",
+			"after": " The square roots of the perfect squares 1 4 9 16 etc are integers In all other cases the square roots are irrational numbers and therefore their representations in any standard positional notation system are non repeating ",
+			"color": "dim|0.40329 gray|0.40329 dim|0.40329 grey|0.40329 gray|0.30616 grey|0.30616 dark|0.17409 gray|0.17409 dark|0.17409 grey|0.17409 silver|0.067213 light|0.025488 gray|0.025488 light|0.025488 grey|0.025488 gainsboro|0.016649  ",
+			"after_weights": " The|1 square|0.97297 roots|0.94595 of|0.91892 the|0.89189 perfect|0.86486 squares|0.83784 1|0.81081 4|0.78378 9|0.75676 16|0.72973 etc|0.7027 are|0.67568 integers|0.64865 In|0.62162 all|0.59459 other|0.56757 cases|0.54054 the|0.51351 square|0.48649 roots|0.45946 are|0.43243 irrational|0.40541 numbers|0.37838 and|0.35135 therefore|0.32432 their|0.2973 representations|0.27027 in|0.24324 any|0.21622 standard|0.18919 positional|0.16216 notation|0.13514 system|0.10811 are|0.081081 non|0.054054 repeating|0.027027 |0",
+			"previous_weights": " The|0 square|0.027778 roots|0.055556 of|0.083333 the|0.11111 perfect|0.13889 squares|0.16667 1|0.19444 4|0.22222 9|0.25 16|0.27778 etc|0.30556 are|0.33333 integers|0.36111 In|0.38889 all|0.41667 other|0.44444 cases|0.47222 the|0.5 square|0.52778 roots|0.55556 of|0.58333 positive|0.61111 integers|0.63889 are|0.66667 irrational|0.69444 numbers|0.72222 and|0.75 therefore|0.77778 their|0.80556 decimal|0.83333 representations|0.86111 are|0.88889 non|0.91667 repeating|0.94444 decimals|0.97222 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "92d28562e8d542bc2d2d896639192aa406bd398b63c45e7c19324e0b0a9c67bf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adam_Kotsko_reception_2011.jpg/220px-Adam_Kotsko_reception_2011.jpg",
+			"previous": " ",
+			"after": " As of 2014 Shimer had eleven full time faculty and one part time faculty member 3 and the student faculty ratio is eight to one 4 All full time faculty have doctoral degrees 86 Shimer instructors teach across disciplines the ideal is that any faculty member can teach any one of the core courses 41 ",
+			"color": "sienna|0.41368 black|0.19143 saddle|0.17536 brown|0.17536 peach|0.050414 puff|0.050414 peru|0.032972 burly|0.030646 wood|0.030646 tan|0.029412 bisque|0.023743  ",
+			"after_weights": " As|1 of|0.98182 2014|0.96364 Shimer|0.94545 had|0.92727 eleven|0.90909 full|0.89091 time|0.87273 faculty|0.85455 and|0.83636 one|0.81818 part|0.8 time|0.78182 faculty|0.76364 member|0.74545 3|0.72727 and|0.70909 the|0.69091 student|0.67273 faculty|0.65455 ratio|0.63636 is|0.61818 eight|0.6 to|0.58182 one|0.56364 4|0.54545 All|0.52727 full|0.50909 time|0.49091 faculty|0.47273 have|0.45455 doctoral|0.43636 degrees|0.41818 86|0.4 Shimer|0.38182 instructors|0.36364 teach|0.34545 across|0.32727 disciplines|0.30909 the|0.29091 ideal|0.27273 is|0.25455 that|0.23636 any|0.21818 faculty|0.2 member|0.18182 can|0.16364 teach|0.14545 any|0.12727 one|0.10909 of|0.090909 the|0.072727 core|0.054545 courses|0.036364 41|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

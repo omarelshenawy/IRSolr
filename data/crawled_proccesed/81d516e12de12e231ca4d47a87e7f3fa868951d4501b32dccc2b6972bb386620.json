@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d516e12de12e231ca4d47a87e7f3fa868951d4501b32dccc2b6972bb386620",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Main_entrance%2C_Baltimore_City_College_%282007%29.jpg/220px-Main_entrance%2C_Baltimore_City_College_%282007%29.jpg",
+			"previous": " ",
+			"after": " Following the landmark Supreme Court ruling in Brown v Board of Education the Baltimore City board of school commissioners was forced to desegregate the school system which had been racially divided since the 1860s As a result 10 African American students entered City College in September 1954 51 comprising 0 5 of the student population A decade later in the 1964 65 academic year African American students represented 30 of the student population 6 ",
+			"color": "silver|0.65231 light|0.19784 gray|0.19784 light|0.19784 grey|0.19784 dark|0.095453 gray|0.095453 dark|0.095453 grey|0.095453 misty|0.022781 rose|0.022781 gainsboro|0.015162  ",
+			"after_weights": " Following|1 the|0.98649 landmark|0.97297 Supreme|0.95946 Court|0.94595 ruling|0.93243 in|0.91892 Brown|0.90541 v|0.89189 Board|0.87838 of|0.86486 Education|0.85135 the|0.83784 Baltimore|0.82432 City|0.81081 board|0.7973 of|0.78378 school|0.77027 commissioners|0.75676 was|0.74324 forced|0.72973 to|0.71622 desegregate|0.7027 the|0.68919 school|0.67568 system|0.66216 which|0.64865 had|0.63514 been|0.62162 racially|0.60811 divided|0.59459 since|0.58108 the|0.56757 1860s|0.55405 As|0.54054 a|0.52703 result|0.51351 10|0.5 African|0.48649 American|0.47297 students|0.45946 entered|0.44595 City|0.43243 College|0.41892 in|0.40541 September|0.39189 1954|0.37838 51|0.36486 comprising|0.35135 0|0.33784 5|0.32432 of|0.31081 the|0.2973 student|0.28378 population|0.27027 A|0.25676 decade|0.24324 later|0.22973 in|0.21622 the|0.2027 1964|0.18919 65|0.17568 academic|0.16216 year|0.14865 African|0.13514 American|0.12162 students|0.10811 represented|0.094595 30|0.081081 of|0.067568 the|0.054054 student|0.040541 population|0.027027 6|0.013514 |0",
+			"previous_weights": " "
+		}
+	}
+}

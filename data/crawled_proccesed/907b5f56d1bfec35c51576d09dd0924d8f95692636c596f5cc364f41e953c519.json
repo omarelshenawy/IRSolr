@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "907b5f56d1bfec35c51576d09dd0924d8f95692636c596f5cc364f41e953c519",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Magneto_Resistive_Level_Sensor.jpg/220px-Magneto_Resistive_Level_Sensor.jpg",
+			"previous": " Some single engine aircraft use capacitive probes in the fuel tanks As fuel is burned more air enters the tank and the capacitance increases this is read by a computer and the fuel amount is calculated and displayed to the pilots ",
+			"after": " Recent advances in magnetoresistive technology have evolved new fuel level sensors for general aviation applications This system is not affected by any additive or fuel combination to replace 100LL for piston powered aircraft ",
+			"color": "gray|0.8013 grey|0.8013 dim|0.15963 gray|0.15963 dim|0.15963 grey|0.15963 black|0.0084954 tan|0.0060286 dark|0.003991 gray|0.003991 dark|0.003991 grey|0.003991  ",
+			"after_weights": " Recent|1 advances|0.9697 in|0.93939 magnetoresistive|0.90909 technology|0.87879 have|0.84848 evolved|0.81818 new|0.78788 fuel|0.75758 level|0.72727 sensors|0.69697 for|0.66667 general|0.63636 aviation|0.60606 applications|0.57576 This|0.54545 system|0.51515 is|0.48485 not|0.45455 affected|0.42424 by|0.39394 any|0.36364 additive|0.33333 or|0.30303 fuel|0.27273 combination|0.24242 to|0.21212 replace|0.18182 100LL|0.15152 for|0.12121 piston|0.090909 powered|0.060606 aircraft|0.030303 |0",
+			"previous_weights": " Some|0 single|0.02439 engine|0.04878 aircraft|0.073171 use|0.097561 capacitive|0.12195 probes|0.14634 in|0.17073 the|0.19512 fuel|0.21951 tanks|0.2439 As|0.26829 fuel|0.29268 is|0.31707 burned|0.34146 more|0.36585 air|0.39024 enters|0.41463 the|0.43902 tank|0.46341 and|0.4878 the|0.5122 capacitance|0.53659 increases|0.56098 this|0.58537 is|0.60976 read|0.63415 by|0.65854 a|0.68293 computer|0.70732 and|0.73171 the|0.7561 fuel|0.78049 amount|0.80488 is|0.82927 calculated|0.85366 and|0.87805 displayed|0.90244 to|0.92683 the|0.95122 pilots|0.97561 |1"
+		}
+	}
+}

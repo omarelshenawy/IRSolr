@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97f799fe3176147540704842d7b749e570f6292ab3e3f7a468f02fc4df623cf7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mona_Lisa_eigenvector_grid.png/320px-Mona_Lisa_eigenvector_grid.png",
+			"previous": " ",
+			"after": " In linear algebra an eigenvector or characteristic vector of a square matrix is a vector that points in a direction which is invariant under the associated linear transformation In other words if v is a vector which is not zero then it is an eigenvector of a square matrix A if Av is a scalar multiple of v This condition could be written as the equation",
+			"color": "black|0.79965 dark|0.066285 slate|0.066285 gray|0.066285 pale|0.025094 golden|0.025094 rod|0.025094 peru|0.015299 burly|0.013478 wood|0.013478 dim|0.0076627 gray|0.0076627 dim|0.0076627 grey|0.0076627 tan|0.0068777  ",
+			"after_weights": " In|1 linear|0.98462 algebra|0.96923 an|0.95385 eigenvector|0.93846 or|0.92308 characteristic|0.90769 vector|0.89231 of|0.87692 a|0.86154 square|0.84615 matrix|0.83077 is|0.81538 a|0.8 vector|0.78462 that|0.76923 points|0.75385 in|0.73846 a|0.72308 direction|0.70769 which|0.69231 is|0.67692 invariant|0.66154 under|0.64615 the|0.63077 associated|0.61538 linear|0.6 transformation|0.58462 In|0.56923 other|0.55385 words|0.53846 if|0.52308 v|0.50769 is|0.49231 a|0.47692 vector|0.46154 which|0.44615 is|0.43077 not|0.41538 zero|0.4 then|0.38462 it|0.36923 is|0.35385 an|0.33846 eigenvector|0.32308 of|0.30769 a|0.29231 square|0.27692 matrix|0.26154 A|0.24615 if|0.23077 Av|0.21538 is|0.2 a|0.18462 scalar|0.16923 multiple|0.15385 of|0.13846 v|0.12308 This|0.10769 condition|0.092308 could|0.076923 be|0.061538 written|0.046154 as|0.030769 the|0.015385 equation|0",
+			"previous_weights": " "
+		}
+	}
+}

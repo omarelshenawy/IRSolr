@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fa0cc5f03bc6c2b8d37b329441fcef73279852d871a0507136fc5ac4d1118a2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/EAT_LEJ_Hangar.jpg/220px-EAT_LEJ_Hangar.jpg",
+			"previous": " European Air Transport operates services to Europe Middle East and Africa as part of the DHL Aviation network Besides over 75 smaller air gateways the major operational bases of DHL Aviation in Europe are 6 ",
+			"after": " As of April 2015 the European Air Transport Leipzig fleet consists of the following cargo aircraft 7 ",
+			"color": "dark|0.31746 gray|0.31746 dark|0.31746 grey|0.31746 silver|0.21712 dim|0.19932 gray|0.19932 dim|0.19932 grey|0.19932 gray|0.11994 grey|0.11994 light|0.048409 gray|0.048409 light|0.048409 grey|0.048409 brown|0.016786 firebrick|0.010732 gainsboro|0.0085353 dark|0.0075704 slate|0.0075704 gray|0.0075704 golden|0.0066665 rod|0.0066665 black|0.006384 gold|0.0055083  ",
+			"after_weights": " As|1 of|0.94118 April|0.88235 2015|0.82353 the|0.76471 European|0.70588 Air|0.64706 Transport|0.58824 Leipzig|0.52941 fleet|0.47059 consists|0.41176 of|0.35294 the|0.29412 following|0.23529 cargo|0.17647 aircraft|0.11765 7|0.058824 |0",
+			"previous_weights": " European|0 Air|0.028571 Transport|0.057143 operates|0.085714 services|0.11429 to|0.14286 Europe|0.17143 Middle|0.2 East|0.22857 and|0.25714 Africa|0.28571 as|0.31429 part|0.34286 of|0.37143 the|0.4 DHL|0.42857 Aviation|0.45714 network|0.48571 Besides|0.51429 over|0.54286 75|0.57143 smaller|0.6 air|0.62857 gateways|0.65714 the|0.68571 major|0.71429 operational|0.74286 bases|0.77143 of|0.8 DHL|0.82857 Aviation|0.85714 in|0.88571 Europe|0.91429 are|0.94286 6|0.97143 |1"
+		}
+	}
+}

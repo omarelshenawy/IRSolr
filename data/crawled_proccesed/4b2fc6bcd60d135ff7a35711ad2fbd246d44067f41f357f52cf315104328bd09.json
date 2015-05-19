@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b2fc6bcd60d135ff7a35711ad2fbd246d44067f41f357f52cf315104328bd09",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/03-30-07-BostonCityHall.jpg/220px-03-30-07-BostonCityHall.jpg",
+			"previous": " ",
+			"after": " Boston has a strong mayor council government system in which the mayor elected every fourth year has extensive executive power Marty Walsh became Mayor in January 2014 his predecessor Thomas Menino s twenty year tenure having been the longest in the city s history 187 The Boston City Council is elected every two years there are nine district seats and four citywide at large seats 188 The School Committee which oversees the Boston Public Schools is appointed by the mayor 189 ",
+			"color": "dim|0.30386 gray|0.30386 dim|0.30386 grey|0.30386 gray|0.29657 grey|0.29657 black|0.19195 dark|0.070245 gray|0.070245 dark|0.070245 grey|0.070245 silver|0.0358 antique|0.013098 white|0.013098 rosy|0.012856 brown|0.012856 light|0.0095717 gray|0.0095717 light|0.0095717 grey|0.0095717 beige|0.0080613 papaya|0.0065162 whip|0.0065162 old|0.0055265 lace|0.0055265 linen|0.0053563 slate|0.0053305 gray|0.0053305 gainsboro|0.0051336  ",
+			"after_weights": " Boston|1 has|0.98765 a|0.97531 strong|0.96296 mayor|0.95062 council|0.93827 government|0.92593 system|0.91358 in|0.90123 which|0.88889 the|0.87654 mayor|0.8642 elected|0.85185 every|0.83951 fourth|0.82716 year|0.81481 has|0.80247 extensive|0.79012 executive|0.77778 power|0.76543 Marty|0.75309 Walsh|0.74074 became|0.7284 Mayor|0.71605 in|0.7037 January|0.69136 2014|0.67901 his|0.66667 predecessor|0.65432 Thomas|0.64198 Menino|0.62963 s|0.61728 twenty|0.60494 year|0.59259 tenure|0.58025 having|0.5679 been|0.55556 the|0.54321 longest|0.53086 in|0.51852 the|0.50617 city|0.49383 s|0.48148 history|0.46914 187|0.45679 The|0.44444 Boston|0.4321 City|0.41975 Council|0.40741 is|0.39506 elected|0.38272 every|0.37037 two|0.35802 years|0.34568 there|0.33333 are|0.32099 nine|0.30864 district|0.2963 seats|0.28395 and|0.2716 four|0.25926 citywide|0.24691 at|0.23457 large|0.22222 seats|0.20988 188|0.19753 The|0.18519 School|0.17284 Committee|0.16049 which|0.14815 oversees|0.1358 the|0.12346 Boston|0.11111 Public|0.098765 Schools|0.08642 is|0.074074 appointed|0.061728 by|0.049383 the|0.037037 mayor|0.024691 189|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

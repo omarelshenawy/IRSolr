@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "13e03ba910c10bf68c7cce32b8b4849046d2aec64dbe8a8354cc27d4ef690b2b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Distance_Formula.svg/250px-Distance_Formula.svg.png",
+			"previous": " Usually a single equation corresponds to a curve on the plane This is not always the case the trivial equation x x specifies the entire plane and the equation x2 y2 0 specifies only the single point 0 0 In three dimensions a single equation usually gives a surface and a curve must be specified as the intersection of two surfaces see below or as a system of parametric equations 16 The equation x2 y2 r2 is the equation for any circle with a radius of r ",
+			"after": " ",
+			"color": "alice|0.09907 blue|0.09907 white|0.095449 smoke|0.095449 ghost|0.09495 white|0.09495 snow|0.092675 sea|0.092527 shell|0.092527 lavender|0.089928 blush|0.089928 white|0.088253 mint|0.085509 cream|0.085509 azure|0.083691 floral|0.083615 white|0.083615 light|0.017022 sky|0.017022 blue|0.017022 sky|0.016838 blue|0.016838 linen|0.011764 gainsboro|0.011728 light|0.0095687 gray|0.0095687 light|0.0095687 grey|0.0095687 lavender|0.0070849 black|0.0064291 light|0.0054392 blue|0.0054392 ivory|0.0027798  ",
+			"after_weights": " ",
+			"previous_weights": " Usually|0 a|0.011494 single|0.022989 equation|0.034483 corresponds|0.045977 to|0.057471 a|0.068966 curve|0.08046 on|0.091954 the|0.10345 plane|0.11494 This|0.12644 is|0.13793 not|0.14943 always|0.16092 the|0.17241 case|0.18391 the|0.1954 trivial|0.2069 equation|0.21839 x|0.22989 x|0.24138 specifies|0.25287 the|0.26437 entire|0.27586 plane|0.28736 and|0.29885 the|0.31034 equation|0.32184 x2|0.33333 y2|0.34483 0|0.35632 specifies|0.36782 only|0.37931 the|0.3908 single|0.4023 point|0.41379 0|0.42529 0|0.43678 In|0.44828 three|0.45977 dimensions|0.47126 a|0.48276 single|0.49425 equation|0.50575 usually|0.51724 gives|0.52874 a|0.54023 surface|0.55172 and|0.56322 a|0.57471 curve|0.58621 must|0.5977 be|0.6092 specified|0.62069 as|0.63218 the|0.64368 intersection|0.65517 of|0.66667 two|0.67816 surfaces|0.68966 see|0.70115 below|0.71264 or|0.72414 as|0.73563 a|0.74713 system|0.75862 of|0.77011 parametric|0.78161 equations|0.7931 16|0.8046 The|0.81609 equation|0.82759 x2|0.83908 y2|0.85057 r2|0.86207 is|0.87356 the|0.88506 equation|0.89655 for|0.90805 any|0.91954 circle|0.93103 with|0.94253 a|0.95402 radius|0.96552 of|0.97701 r|0.98851 |1"
+		}
+	}
+}

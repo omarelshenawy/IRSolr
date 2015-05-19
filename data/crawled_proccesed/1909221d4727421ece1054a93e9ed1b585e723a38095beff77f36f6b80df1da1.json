@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1909221d4727421ece1054a93e9ed1b585e723a38095beff77f36f6b80df1da1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Everett_Station_%28New%29-1.jpg/220px-Everett_Station_%28New%29-1.jpg",
+			"previous": " ",
+			"after": " Everett is well connected consisting of an array of different transport options  Freeway access is via Interstate 5 which passes by the city Many highways also connect in Everett including US Highway 2 which begins in Everett ",
+			"color": "dark|0.38215 gray|0.38215 dark|0.38215 grey|0.38215 silver|0.18618 dim|0.075555 gray|0.075555 dim|0.075555 grey|0.075555 gray|0.056598 grey|0.056598 rosy|0.048151 brown|0.048151 black|0.030891 light|0.028259 gray|0.028259 light|0.028259 grey|0.028259 slate|0.023837 gray|0.023837 gainsboro|0.021308 dark|0.018084 slate|0.018084 gray|0.018084 light|0.017443 slate|0.017443 gray|0.017443 white|0.0081235 smoke|0.0081235 indian|0.0059691 red|0.0059691 misty|0.0058533 rose|0.0058533 light|0.0051355 coral|0.0051355 dark|0.0050799 salmon|0.0050799 linen|0.0050611  ",
+			"after_weights": " Everett|1 is|0.97368 well|0.94737 connected|0.92105 consisting|0.89474 of|0.86842 an|0.84211 array|0.81579 of|0.78947 different|0.76316 transport|0.73684 options|0.71053 |0.68421 Freeway|0.65789 access|0.63158 is|0.60526 via|0.57895 Interstate|0.55263 5|0.52632 which|0.5 passes|0.47368 by|0.44737 the|0.42105 city|0.39474 Many|0.36842 highways|0.34211 also|0.31579 connect|0.28947 in|0.26316 Everett|0.23684 including|0.21053 US|0.18421 Highway|0.15789 2|0.13158 which|0.10526 begins|0.078947 in|0.052632 Everett|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3808dc45d1bfad63199f3e1e724d70062bf23cf9ebf9d74422716a38ae9f1c53",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Benjamin_Franklin_Birthplace.jpg/220px-Benjamin_Franklin_Birthplace.jpg",
+			"previous": " ",
+			"after": " Benjamin Franklin was born on Milk Street in Boston Massachusetts on January 17 1706 1 Note 1 and baptized at Old South Meeting House He was one of seventeen children born to Josiah Franklin one of ten born by Josiah s second wife Abiah Folger Among Benjamin s siblings were his older brother James and his younger sister Jane ",
+			"color": "black|0.25746 dark|0.1914 gray|0.1914 dark|0.1914 grey|0.1914 silver|0.13841 dim|0.12129 gray|0.12129 dim|0.12129 grey|0.12129 light|0.066486 gray|0.066486 light|0.066486 grey|0.066486 gray|0.056985 grey|0.056985 gainsboro|0.024964 crimson|0.023884 slate|0.021301 gray|0.021301 thistle|0.017013 firebrick|0.016989 brown|0.016823 light|0.016515 slate|0.016515 gray|0.016515 light|0.0090039 steel|0.0090039 blue|0.0090039  ",
+			"after_weights": " Benjamin|1 Franklin|0.98305 was|0.9661 born|0.94915 on|0.9322 Milk|0.91525 Street|0.89831 in|0.88136 Boston|0.86441 Massachusetts|0.84746 on|0.83051 January|0.81356 17|0.79661 1706|0.77966 1|0.76271 Note|0.74576 1|0.72881 and|0.71186 baptized|0.69492 at|0.67797 Old|0.66102 South|0.64407 Meeting|0.62712 House|0.61017 He|0.59322 was|0.57627 one|0.55932 of|0.54237 seventeen|0.52542 children|0.50847 born|0.49153 to|0.47458 Josiah|0.45763 Franklin|0.44068 one|0.42373 of|0.40678 ten|0.38983 born|0.37288 by|0.35593 Josiah|0.33898 s|0.32203 second|0.30508 wife|0.28814 Abiah|0.27119 Folger|0.25424 Among|0.23729 Benjamin|0.22034 s|0.20339 siblings|0.18644 were|0.16949 his|0.15254 older|0.13559 brother|0.11864 James|0.10169 and|0.084746 his|0.067797 younger|0.050847 sister|0.033898 Jane|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

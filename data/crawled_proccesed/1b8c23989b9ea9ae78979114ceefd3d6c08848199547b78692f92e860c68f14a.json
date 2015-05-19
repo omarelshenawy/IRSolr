@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b8c23989b9ea9ae78979114ceefd3d6c08848199547b78692f92e860c68f14a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Virgin_Blue_logo.svg/200px-Virgin_Blue_logo.svg.png",
+			"previous": " Following the arrival of John Borghetti former Qantas senior executive as the CEO of Virgin Blue there was much speculation regarding a forthcoming rebrand of the airline 27 ",
+			"after": " A number of key Qantas staff moved to Virgin Blue while key Virgin Blue staff departed the airline 28 The airline further announced its intention to operate Airbus A330 aircraft between Perth and the East Coast starting in May 2011 29 ",
+			"color": "alice|0.090354 blue|0.090354 ghost|0.08993 white|0.08993 white|0.089863 smoke|0.089863 snow|0.089067 azure|0.089035 white|0.088971 mint|0.088868 cream|0.088868 sea|0.088226 shell|0.088226 floral|0.088131 white|0.088131 lavender|0.084318 blush|0.084318 steel|0.031317 blue|0.031317 pale|0.02585 violet|0.02585 red|0.02585 light|0.01489 blue|0.01489 light|0.011828 steel|0.011828 blue|0.011828 ivory|0.0051429 gainsboro|0.0050735 pink|0.0050384 light|0.0046432 pink|0.0046432  ",
+			"after_weights": " A|1 number|0.97561 of|0.95122 key|0.92683 Qantas|0.90244 staff|0.87805 moved|0.85366 to|0.82927 Virgin|0.80488 Blue|0.78049 while|0.7561 key|0.73171 Virgin|0.70732 Blue|0.68293 staff|0.65854 departed|0.63415 the|0.60976 airline|0.58537 28|0.56098 The|0.53659 airline|0.5122 further|0.4878 announced|0.46341 its|0.43902 intention|0.41463 to|0.39024 operate|0.36585 Airbus|0.34146 A330|0.31707 aircraft|0.29268 between|0.26829 Perth|0.2439 and|0.21951 the|0.19512 East|0.17073 Coast|0.14634 starting|0.12195 in|0.097561 May|0.073171 2011|0.04878 29|0.02439 |0",
+			"previous_weights": " Following|0 the|0.035714 arrival|0.071429 of|0.10714 John|0.14286 Borghetti|0.17857 former|0.21429 Qantas|0.25 senior|0.28571 executive|0.32143 as|0.35714 the|0.39286 CEO|0.42857 of|0.46429 Virgin|0.5 Blue|0.53571 there|0.57143 was|0.60714 much|0.64286 speculation|0.67857 regarding|0.71429 a|0.75 forthcoming|0.78571 rebrand|0.82143 of|0.85714 the|0.89286 airline|0.92857 27|0.96429 |1"
+		}
+	}
+}

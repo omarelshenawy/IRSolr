@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9aede77479bab92eb493407cd2f4526ac61f1043be282bdd0f15553e4e8f3aab",
+			"url": "https://upload.wikimedia.org/math/b/d/c/bdc78b124e1b4f2f0e2f7f5af4e2b54f.png",
+			"previous": " A logarithmic equation is an equation of the form for which has solution or whence then by subtracting 1 from both sides of the equation and then dividing both sides by 3 we obtain",
+			"after": " For example if then by adding 2 to both sides of the equation followed by dividing both sides by 4 we get whence or",
+			"color": "dim|0.31312 gray|0.31312 dim|0.31312 grey|0.31312 gray|0.21839 grey|0.21839 black|0.19351 dark|0.14921 gray|0.14921 dark|0.14921 grey|0.14921 silver|0.061062 light|0.029155 gray|0.029155 light|0.029155 grey|0.029155 gainsboro|0.020279 white|0.0039169 smoke|0.0039169  ",
+			"after_weights": " For|1 example|0.95652 if|0.91304 then|0.86957 by|0.82609 adding|0.78261 2|0.73913 to|0.69565 both|0.65217 sides|0.6087 of|0.56522 the|0.52174 equation|0.47826 followed|0.43478 by|0.3913 dividing|0.34783 both|0.30435 sides|0.26087 by|0.21739 4|0.17391 we|0.13043 get|0.086957 whence|0.043478 or|0",
+			"previous_weights": " A|0 logarithmic|0.030303 equation|0.060606 is|0.090909 an|0.12121 equation|0.15152 of|0.18182 the|0.21212 form|0.24242 for|0.27273 which|0.30303 has|0.33333 solution|0.36364 or|0.39394 whence|0.42424 then|0.45455 by|0.48485 subtracting|0.51515 1|0.54545 from|0.57576 both|0.60606 sides|0.63636 of|0.66667 the|0.69697 equation|0.72727 and|0.75758 then|0.78788 dividing|0.81818 both|0.84848 sides|0.87879 by|0.90909 3|0.93939 we|0.9697 obtain|1"
+		}
+	}
+}

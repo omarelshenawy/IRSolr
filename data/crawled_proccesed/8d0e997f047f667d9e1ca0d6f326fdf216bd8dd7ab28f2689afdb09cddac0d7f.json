@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d0e997f047f667d9e1ca0d6f326fdf216bd8dd7ab28f2689afdb09cddac0d7f",
+			"url": "https://upload.wikimedia.org/math/9/a/2/9a2da4fb1306ffce7f5ba28bc4f3d733.png",
+			"previous": " If two events A and B are independent then the joint probability is",
+			"after": " If either event A or event B occurs on a single performance of an experiment this is called the union of the events A and B denoted as If two events are mutually exclusive then the probability of either occurring is",
+			"color": "dim|0.26239 gray|0.26239 dim|0.26239 grey|0.26239 gray|0.2545 grey|0.2545 black|0.23347 dark|0.19262 gray|0.19262 dark|0.19262 grey|0.19262 silver|0.053256  ",
+			"after_weights": " If|1 either|0.975 event|0.95 A|0.925 or|0.9 event|0.875 B|0.85 occurs|0.825 on|0.8 a|0.775 single|0.75 performance|0.725 of|0.7 an|0.675 experiment|0.65 this|0.625 is|0.6 called|0.575 the|0.55 union|0.525 of|0.5 the|0.475 events|0.45 A|0.425 and|0.4 B|0.375 denoted|0.35 as|0.325 If|0.3 two|0.275 events|0.25 are|0.225 mutually|0.2 exclusive|0.175 then|0.15 the|0.125 probability|0.1 of|0.075 either|0.05 occurring|0.025 is|0",
+			"previous_weights": " If|0 two|0.083333 events|0.16667 A|0.25 and|0.33333 B|0.41667 are|0.5 independent|0.58333 then|0.66667 the|0.75 joint|0.83333 probability|0.91667 is|1"
+		}
+	}
+}

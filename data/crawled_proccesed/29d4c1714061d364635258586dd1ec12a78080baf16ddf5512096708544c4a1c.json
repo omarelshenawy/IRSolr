@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "29d4c1714061d364635258586dd1ec12a78080baf16ddf5512096708544c4a1c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Air_Combat_Command.png/100px-Air_Combat_Command.png",
+			"previous": " ",
+			"after": " Fifteen months after Operation Desert Storm the Air Force reorganized Eighth Air Force was relieved from assignment to Strategic Air Command and assigned to the new Air Combat Command ACC on 1 June 1992 ",
+			"color": "gold|0.46231 steel|0.1223 blue|0.1223 golden|0.063613 rod|0.063613 pink|0.0427 dark|0.036101 khaki|0.036101 light|0.035226 pink|0.035226 light|0.025127 steel|0.025127 blue|0.025127 pale|0.022106 violet|0.022106 red|0.022106 misty|0.019526 rose|0.019526 dim|0.019323 gray|0.019323 dim|0.019323 grey|0.019323 light|0.018819 blue|0.018819  ",
+			"after_weights": " Fifteen|1 months|0.97059 after|0.94118 Operation|0.91176 Desert|0.88235 Storm|0.85294 the|0.82353 Air|0.79412 Force|0.76471 reorganized|0.73529 Eighth|0.70588 Air|0.67647 Force|0.64706 was|0.61765 relieved|0.58824 from|0.55882 assignment|0.52941 to|0.5 Strategic|0.47059 Air|0.44118 Command|0.41176 and|0.38235 assigned|0.35294 to|0.32353 the|0.29412 new|0.26471 Air|0.23529 Combat|0.20588 Command|0.17647 ACC|0.14706 on|0.11765 1|0.088235 June|0.058824 1992|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

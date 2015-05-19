@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3df5ad539c5fd75ea42ec285202e45c57dc8a4826e40d6bcdb6c9db7f083c41c",
+			"url": "https://upload.wikimedia.org/math/4/f/6/4f645cef778354b6fc6e9a9fa63ed844.png",
+			"previous": " ",
+			"after": " A mixed state cannot be described as a ket vector Instead it is described by its associated density matrix or density operator usually denoted Note that density matrices can describe both mixed and pure states treating them on the same footing Moreover a mixed quantum state on a given quantum system described by a Hilbert space can be always represented as the partial trace of a pure quantum state called a purification on a larger bipartite system for a sufficiently large Hilbert space ",
+			"color": " ",
+			"after_weights": " A|1 mixed|0.98795 state|0.9759 cannot|0.96386 be|0.95181 described|0.93976 as|0.92771 a|0.91566 ket|0.90361 vector|0.89157 Instead|0.87952 it|0.86747 is|0.85542 described|0.84337 by|0.83133 its|0.81928 associated|0.80723 density|0.79518 matrix|0.78313 or|0.77108 density|0.75904 operator|0.74699 usually|0.73494 denoted|0.72289 Note|0.71084 that|0.6988 density|0.68675 matrices|0.6747 can|0.66265 describe|0.6506 both|0.63855 mixed|0.62651 and|0.61446 pure|0.60241 states|0.59036 treating|0.57831 them|0.56627 on|0.55422 the|0.54217 same|0.53012 footing|0.51807 Moreover|0.50602 a|0.49398 mixed|0.48193 quantum|0.46988 state|0.45783 on|0.44578 a|0.43373 given|0.42169 quantum|0.40964 system|0.39759 described|0.38554 by|0.37349 a|0.36145 Hilbert|0.3494 space|0.33735 can|0.3253 be|0.31325 always|0.3012 represented|0.28916 as|0.27711 the|0.26506 partial|0.25301 trace|0.24096 of|0.22892 a|0.21687 pure|0.20482 quantum|0.19277 state|0.18072 called|0.16867 a|0.15663 purification|0.14458 on|0.13253 a|0.12048 larger|0.10843 bipartite|0.096386 system|0.084337 for|0.072289 a|0.060241 sufficiently|0.048193 large|0.036145 Hilbert|0.024096 space|0.012048 |0",
+			"previous_weights": " "
+		}
+	}
+}

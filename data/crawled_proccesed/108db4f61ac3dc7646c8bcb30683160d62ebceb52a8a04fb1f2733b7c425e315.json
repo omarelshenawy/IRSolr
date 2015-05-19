@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "108db4f61ac3dc7646c8bcb30683160d62ebceb52a8a04fb1f2733b7c425e315",
+			"url": "https://upload.wikimedia.org/math/3/f/1/3f1509aa152534d951529f53463eeb8d.png",
+			"previous": " we make the following substitution known as Vieta s substitution  Starting from the depressed cubic",
+			"after": " This results in the equation Multiplying by w3 it becomes a sextic equation in w which is in fact a quadratic equation in w3 ",
+			"color": "dim|0.37208 gray|0.37208 dim|0.37208 grey|0.37208 gray|0.2869 grey|0.2869 dark|0.18406 gray|0.18406 dark|0.18406 grey|0.18406 silver|0.083228 light|0.038305 gray|0.038305 light|0.038305 grey|0.038305 gainsboro|0.024129  ",
+			"after_weights": " This|1 results|0.95833 in|0.91667 the|0.875 equation|0.83333 Multiplying|0.79167 by|0.75 w3|0.70833 it|0.66667 becomes|0.625 a|0.58333 sextic|0.54167 equation|0.5 in|0.45833 w|0.41667 which|0.375 is|0.33333 in|0.29167 fact|0.25 a|0.20833 quadratic|0.16667 equation|0.125 in|0.083333 w3|0.041667 |0",
+			"previous_weights": " we|0 make|0.066667 the|0.13333 following|0.2 substitution|0.26667 known|0.33333 as|0.4 Vieta|0.46667 s|0.53333 substitution|0.6 |0.66667 Starting|0.73333 from|0.8 the|0.86667 depressed|0.93333 cubic|1"
+		}
+	}
+}

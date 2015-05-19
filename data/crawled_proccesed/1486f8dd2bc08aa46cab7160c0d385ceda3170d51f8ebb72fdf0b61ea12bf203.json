@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1486f8dd2bc08aa46cab7160c0d385ceda3170d51f8ebb72fdf0b61ea12bf203",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Margaret_Thatcher_visiting_Salford.jpg/220px-Margaret_Thatcher_visiting_Salford.jpg",
+			"previous": " ",
+			"after": " The policy of privatisation has been called a crucial ingredient of Thatcherism 128 After the 1983 election the sale of state utilities accelerated 129 more than 29 billion was raised from the sale of nationalised industries and another 18 billion from the sale of council houses 130 ",
+			"color": "dark|0.5 gray|0.5 dark|0.5 grey|0.5 gray|0.4375 grey|0.4375 dim|0.0625 gray|0.0625 dim|0.0625 grey|0.0625  ",
+			"after_weights": " The|1 policy|0.97872 of|0.95745 privatisation|0.93617 has|0.91489 been|0.89362 called|0.87234 a|0.85106 crucial|0.82979 ingredient|0.80851 of|0.78723 Thatcherism|0.76596 128|0.74468 After|0.7234 the|0.70213 1983|0.68085 election|0.65957 the|0.6383 sale|0.61702 of|0.59574 state|0.57447 utilities|0.55319 accelerated|0.53191 129|0.51064 more|0.48936 than|0.46809 29|0.44681 billion|0.42553 was|0.40426 raised|0.38298 from|0.3617 the|0.34043 sale|0.31915 of|0.29787 nationalised|0.2766 industries|0.25532 and|0.23404 another|0.21277 18|0.19149 billion|0.17021 from|0.14894 the|0.12766 sale|0.10638 of|0.085106 council|0.06383 houses|0.042553 130|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

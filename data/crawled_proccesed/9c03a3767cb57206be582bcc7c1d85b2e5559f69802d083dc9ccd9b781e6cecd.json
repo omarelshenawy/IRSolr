@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c03a3767cb57206be582bcc7c1d85b2e5559f69802d083dc9ccd9b781e6cecd",
+			"url": "https://upload.wikimedia.org/math/0/6/2/062be3a27f9bff3d9651e5c9a9857fdc.png",
+			"previous": " The density of the gases at the nozzle throat is given by   The nozzle throat velocity squared is calculated using the Steady Flow Energy Equation ",
+			"after": " Nozzle throat effective area is estimated as follows  ",
+			"color": "dim|0.33689 gray|0.33689 dim|0.33689 grey|0.33689 black|0.22749 gray|0.22454 grey|0.22454 dark|0.11808 gray|0.11808 dark|0.11808 grey|0.11808 silver|0.046493 light|0.021887 gray|0.021887 light|0.021887 grey|0.021887 gainsboro|0.014948  ",
+			"after_weights": " Nozzle|1 throat|0.88889 effective|0.77778 area|0.66667 is|0.55556 estimated|0.44444 as|0.33333 follows|0.22222 |0.11111 |0",
+			"previous_weights": " The|0 density|0.037037 of|0.074074 the|0.11111 gases|0.14815 at|0.18519 the|0.22222 nozzle|0.25926 throat|0.2963 is|0.33333 given|0.37037 by|0.40741 |0.44444 |0.48148 The|0.51852 nozzle|0.55556 throat|0.59259 velocity|0.62963 squared|0.66667 is|0.7037 calculated|0.74074 using|0.77778 the|0.81481 Steady|0.85185 Flow|0.88889 Energy|0.92593 Equation|0.96296 |1"
+		}
+	}
+}

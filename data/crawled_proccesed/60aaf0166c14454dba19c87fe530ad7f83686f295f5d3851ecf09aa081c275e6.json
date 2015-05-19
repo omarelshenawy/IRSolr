@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "60aaf0166c14454dba19c87fe530ad7f83686f295f5d3851ecf09aa081c275e6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lunar_eclipse_April_15_2014_California_Alfredo_Garcia_Jr1.jpg/300px-Lunar_eclipse_April_15_2014_California_Alfredo_Garcia_Jr1.jpg",
+			"previous": " ",
+			"after": " A lunar eclipse occurs when the Moon passes directly behind the Earth into its umbra shadow This can occur only when the Sun Earth and Moon are aligned in syzygy exactly or very closely so with the Earth in the middle Hence a lunar eclipse can only occur the night of a full moon The type and length of an eclipse depend upon the Moon s location relative to its orbital nodes ",
+			"color": "sienna|0.64391 saddle|0.20266 brown|0.20266 peru|0.050476 dark|0.038693 salmon|0.038693 chocolate|0.027244  ",
+			"after_weights": " A|1 lunar|0.98611 eclipse|0.97222 occurs|0.95833 when|0.94444 the|0.93056 Moon|0.91667 passes|0.90278 directly|0.88889 behind|0.875 the|0.86111 Earth|0.84722 into|0.83333 its|0.81944 umbra|0.80556 shadow|0.79167 This|0.77778 can|0.76389 occur|0.75 only|0.73611 when|0.72222 the|0.70833 Sun|0.69444 Earth|0.68056 and|0.66667 Moon|0.65278 are|0.63889 aligned|0.625 in|0.61111 syzygy|0.59722 exactly|0.58333 or|0.56944 very|0.55556 closely|0.54167 so|0.52778 with|0.51389 the|0.5 Earth|0.48611 in|0.47222 the|0.45833 middle|0.44444 Hence|0.43056 a|0.41667 lunar|0.40278 eclipse|0.38889 can|0.375 only|0.36111 occur|0.34722 the|0.33333 night|0.31944 of|0.30556 a|0.29167 full|0.27778 moon|0.26389 The|0.25 type|0.23611 and|0.22222 length|0.20833 of|0.19444 an|0.18056 eclipse|0.16667 depend|0.15278 upon|0.13889 the|0.125 Moon|0.11111 s|0.097222 location|0.083333 relative|0.069444 to|0.055556 its|0.041667 orbital|0.027778 nodes|0.013889 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12a71ccf697925d088c9c4e56ec2754c70346ef7eeb57c21c30d0338dad32c08",
+			"url": "https://upload.wikimedia.org/math/a/6/6/a6622e8fbcdc41048b176fb0d8d8cdbd.png",
+			"previous": " With a geometric algebra given let a and b be vectors and let F a be a multivector valued function The directional derivative of F a along b is defined as",
+			"after": " provided that the limit exists where the limit is taken for scalar This is similar to the usual definition of a directional derivative but extends it to functions that are not necessarily scalar valued ",
+			"color": "dim|0.4077 gray|0.4077 dim|0.4077 grey|0.4077 gray|0.2809 grey|0.2809 dark|0.17384 gray|0.17384 dark|0.17384 grey|0.17384 silver|0.070356 light|0.030965 gray|0.030965 light|0.030965 grey|0.030965 gainsboro|0.022288 white|0.0037256 smoke|0.0037256  ",
+			"after_weights": " provided|1 that|0.97059 the|0.94118 limit|0.91176 exists|0.88235 where|0.85294 the|0.82353 limit|0.79412 is|0.76471 taken|0.73529 for|0.70588 scalar|0.67647 This|0.64706 is|0.61765 similar|0.58824 to|0.55882 the|0.52941 usual|0.5 definition|0.47059 of|0.44118 a|0.41176 directional|0.38235 derivative|0.35294 but|0.32353 extends|0.29412 it|0.26471 to|0.23529 functions|0.20588 that|0.17647 are|0.14706 not|0.11765 necessarily|0.088235 scalar|0.058824 valued|0.029412 |0",
+			"previous_weights": " With|0 a|0.033333 geometric|0.066667 algebra|0.1 given|0.13333 let|0.16667 a|0.2 and|0.23333 b|0.26667 be|0.3 vectors|0.33333 and|0.36667 let|0.4 F|0.43333 a|0.46667 be|0.5 a|0.53333 multivector|0.56667 valued|0.6 function|0.63333 The|0.66667 directional|0.7 derivative|0.73333 of|0.76667 F|0.8 a|0.83333 along|0.86667 b|0.9 is|0.93333 defined|0.96667 as|1"
+		}
+	}
+}

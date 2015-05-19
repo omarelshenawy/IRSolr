@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f5c95e5a4901f0fae6640dc6b10a4c7bcd5622980bf20bac0737ce2b1bc2056",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Multi-Layer_Neural_Network-Vector.svg/220px-Multi-Layer_Neural_Network-Vector.svg.png",
+			"previous": " Psychiatric interventions such as transcranial magnetic stimulation and of course drugs also provide information about brain mind interactions Psychopharmacology is the study of drug induced mental effects ",
+			"after": " ",
+			"color": "gray|0.44707 grey|0.44707 dim|0.41746 gray|0.41746 dim|0.41746 grey|0.41746 black|0.1326  ",
+			"after_weights": " ",
+			"previous_weights": " Psychiatric|0 interventions|0.037037 such|0.074074 as|0.11111 transcranial|0.14815 magnetic|0.18519 stimulation|0.22222 and|0.25926 of|0.2963 course|0.33333 drugs|0.37037 also|0.40741 provide|0.44444 information|0.48148 about|0.51852 brain|0.55556 mind|0.59259 interactions|0.62963 Psychopharmacology|0.66667 is|0.7037 the|0.74074 study|0.77778 of|0.81481 drug|0.85185 induced|0.88889 mental|0.92593 effects|0.96296 |1"
+		}
+	}
+}

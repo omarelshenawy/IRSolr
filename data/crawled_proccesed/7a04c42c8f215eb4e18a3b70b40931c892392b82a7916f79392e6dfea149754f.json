@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a04c42c8f215eb4e18a3b70b40931c892392b82a7916f79392e6dfea149754f",
+			"url": "https://upload.wikimedia.org/math/a/6/c/a6c0b24dbd3649898287744f49b3bc5a.png",
+			"previous": " Given a probability space a filtration is a weakly increasing collection of sigma algebras on indexed by some totally ordered set and bounded above by i e for s t with s t ",
+			"after": " A stochastic process on the same time set is said to be adapted to the filtration if for every t is measurable 2 ",
+			"color": "dim|0.36063 gray|0.36063 dim|0.36063 grey|0.36063 gray|0.28674 grey|0.28674 dark|0.15842 gray|0.15842 dark|0.15842 grey|0.15842 silver|0.079773 light|0.047548 gray|0.047548 light|0.047548 grey|0.047548 gainsboro|0.035975 white|0.0066742 smoke|0.0066742 linen|0.0036689 lavender|0.0034634 blush|0.0034634 alice|0.0033429 blue|0.0033429 ghost|0.0031386 white|0.0031386  ",
+			"after_weights": " A|1 stochastic|0.95652 process|0.91304 on|0.86957 the|0.82609 same|0.78261 time|0.73913 set|0.69565 is|0.65217 said|0.6087 to|0.56522 be|0.52174 adapted|0.47826 to|0.43478 the|0.3913 filtration|0.34783 if|0.30435 for|0.26087 every|0.21739 t|0.17391 is|0.13043 measurable|0.086957 2|0.043478 |0",
+			"previous_weights": " Given|0 a|0.030303 probability|0.060606 space|0.090909 a|0.12121 filtration|0.15152 is|0.18182 a|0.21212 weakly|0.24242 increasing|0.27273 collection|0.30303 of|0.33333 sigma|0.36364 algebras|0.39394 on|0.42424 indexed|0.45455 by|0.48485 some|0.51515 totally|0.54545 ordered|0.57576 set|0.60606 and|0.63636 bounded|0.66667 above|0.69697 by|0.72727 i|0.75758 e|0.78788 for|0.81818 s|0.84848 t|0.87879 with|0.90909 s|0.93939 t|0.9697 |1"
+		}
+	}
+}

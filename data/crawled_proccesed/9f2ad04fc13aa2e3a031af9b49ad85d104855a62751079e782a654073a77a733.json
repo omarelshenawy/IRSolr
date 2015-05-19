@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f2ad04fc13aa2e3a031af9b49ad85d104855a62751079e782a654073a77a733",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Astronaut-EVA.jpg/250px-Astronaut-EVA.jpg",
+			"previous": " ",
+			"after": " An astronaut or cosmonaut is a person trained by a human spaceflight program to command pilot or serve as a crew member of a spacecraft Although generally reserved for professional space travelers the terms are sometimes applied to anyone who travels into space including scientists politicians journalists and tourists 1 2 ",
+			"color": "light|0.24197 steel|0.24197 blue|0.24197 light|0.11236 gray|0.11236 light|0.11236 grey|0.11236 silver|0.1087 gainsboro|0.094665 dark|0.055637 gray|0.055637 dark|0.055637 grey|0.055637 slate|0.033538 blue|0.033538 corn|0.032674 flower|0.032674 blue|0.032674 white|0.030981 smoke|0.030981 linen|0.026345 thistle|0.024707 sea|0.022257 shell|0.022257 floral|0.018976 white|0.018976 mint|0.018883 cream|0.018883 snow|0.018193 lavender|0.016487 old|0.013867 lace|0.013867 white|0.013783 gray|0.013672 grey|0.013672 alice|0.011557 blue|0.011557 ghost|0.011005 white|0.011005 azure|0.010559  ",
+			"after_weights": " An|1 astronaut|0.98039 or|0.96078 cosmonaut|0.94118 is|0.92157 a|0.90196 person|0.88235 trained|0.86275 by|0.84314 a|0.82353 human|0.80392 spaceflight|0.78431 program|0.76471 to|0.7451 command|0.72549 pilot|0.70588 or|0.68627 serve|0.66667 as|0.64706 a|0.62745 crew|0.60784 member|0.58824 of|0.56863 a|0.54902 spacecraft|0.52941 Although|0.5098 generally|0.4902 reserved|0.47059 for|0.45098 professional|0.43137 space|0.41176 travelers|0.39216 the|0.37255 terms|0.35294 are|0.33333 sometimes|0.31373 applied|0.29412 to|0.27451 anyone|0.2549 who|0.23529 travels|0.21569 into|0.19608 space|0.17647 including|0.15686 scientists|0.13725 politicians|0.11765 journalists|0.098039 and|0.078431 tourists|0.058824 1|0.039216 2|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

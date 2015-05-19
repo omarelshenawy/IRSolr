@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72ea4bf58c4e6ed35f420bb918e04105669a820f0095f9fbaff2e9908112a6ce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Manhattan_from_Weehawken%2C_NJ.jpg/1100px-Manhattan_from_Weehawken%2C_NJ.jpg",
+			"previous": " The city s total area is 468 9 square miles 1 214 km2 164 1 sq mi 425 km2 of this is water and 304 8 sq mi 789 km2 is land 128 129 The highest point in the city is Todt Hill on Staten Island which at 409 8 feet 124 9 m above sea level is the highest point on the Eastern Seaboard south of Maine 130 The summit of the ridge is mostly covered in woodlands as part of the Staten Island Greenbelt 131 ",
+			"after": " ",
+			"color": "black|0.70691 dim|0.035844 gray|0.035844 dim|0.035844 grey|0.035844 gray|0.018799 grey|0.018799 tan|0.014012 dark|0.01381 gray|0.01381 dark|0.01381 grey|0.01381 saddle|0.013327 brown|0.013327  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 city|0.011494 s|0.022989 total|0.034483 area|0.045977 is|0.057471 468|0.068966 9|0.08046 square|0.091954 miles|0.10345 1|0.11494 214|0.12644 km2|0.13793 164|0.14943 1|0.16092 sq|0.17241 mi|0.18391 425|0.1954 km2|0.2069 of|0.21839 this|0.22989 is|0.24138 water|0.25287 and|0.26437 304|0.27586 8|0.28736 sq|0.29885 mi|0.31034 789|0.32184 km2|0.33333 is|0.34483 land|0.35632 128|0.36782 129|0.37931 The|0.3908 highest|0.4023 point|0.41379 in|0.42529 the|0.43678 city|0.44828 is|0.45977 Todt|0.47126 Hill|0.48276 on|0.49425 Staten|0.50575 Island|0.51724 which|0.52874 at|0.54023 409|0.55172 8|0.56322 feet|0.57471 124|0.58621 9|0.5977 m|0.6092 above|0.62069 sea|0.63218 level|0.64368 is|0.65517 the|0.66667 highest|0.67816 point|0.68966 on|0.70115 the|0.71264 Eastern|0.72414 Seaboard|0.73563 south|0.74713 of|0.75862 Maine|0.77011 130|0.78161 The|0.7931 summit|0.8046 of|0.81609 the|0.82759 ridge|0.83908 is|0.85057 mostly|0.86207 covered|0.87356 in|0.88506 woodlands|0.89655 as|0.90805 part|0.91954 of|0.93103 the|0.94253 Staten|0.95402 Island|0.96552 Greenbelt|0.97701 131|0.98851 |1"
+		}
+	}
+}

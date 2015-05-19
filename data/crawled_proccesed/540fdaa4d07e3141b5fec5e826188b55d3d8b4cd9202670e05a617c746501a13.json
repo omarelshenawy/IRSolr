@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "540fdaa4d07e3141b5fec5e826188b55d3d8b4cd9202670e05a617c746501a13",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Theoretical_computer_science.svg/700px-Theoretical_computer_science.svg.png",
+			"previous": " In 1967 Manuel Blum developed an axiomatic complexity theory based on his axioms and proved an important result the so called speed up theorem The field really began to flourish in 1971 when the US researcher Stephen Cook and working independently Leonid Levin in the USSR proved that there exist practically relevant problems that are NP complete In 1972 Richard Karp took this idea a leap forward with his landmark paper Reducibility Among Combinatorial Problems in which he showed that 21 diverse combinatorial and graph theoretical problems each infamous for its computational intractability are NP complete 15 ",
+			"after": " ",
+			"color": "black|0.56715 dim|0.21331 gray|0.21331 dim|0.21331 grey|0.21331 gray|0.14675 grey|0.14675 dark|0.035163 gray|0.035163 dark|0.035163 grey|0.035163 silver|0.01038 light|0.0086078 gray|0.0086078 light|0.0086078 grey|0.0086078 gainsboro|0.0075049  ",
+			"after_weights": " ",
+			"previous_weights": " In|0 1967|0.010309 Manuel|0.020619 Blum|0.030928 developed|0.041237 an|0.051546 axiomatic|0.061856 complexity|0.072165 theory|0.082474 based|0.092784 on|0.10309 his|0.1134 axioms|0.12371 and|0.13402 proved|0.14433 an|0.15464 important|0.16495 result|0.17526 the|0.18557 so|0.19588 called|0.20619 speed|0.21649 up|0.2268 theorem|0.23711 The|0.24742 field|0.25773 really|0.26804 began|0.27835 to|0.28866 flourish|0.29897 in|0.30928 1971|0.31959 when|0.3299 the|0.34021 US|0.35052 researcher|0.36082 Stephen|0.37113 Cook|0.38144 and|0.39175 working|0.40206 independently|0.41237 Leonid|0.42268 Levin|0.43299 in|0.4433 the|0.45361 USSR|0.46392 proved|0.47423 that|0.48454 there|0.49485 exist|0.50515 practically|0.51546 relevant|0.52577 problems|0.53608 that|0.54639 are|0.5567 NP|0.56701 complete|0.57732 In|0.58763 1972|0.59794 Richard|0.60825 Karp|0.61856 took|0.62887 this|0.63918 idea|0.64948 a|0.65979 leap|0.6701 forward|0.68041 with|0.69072 his|0.70103 landmark|0.71134 paper|0.72165 Reducibility|0.73196 Among|0.74227 Combinatorial|0.75258 Problems|0.76289 in|0.7732 which|0.78351 he|0.79381 showed|0.80412 that|0.81443 21|0.82474 diverse|0.83505 combinatorial|0.84536 and|0.85567 graph|0.86598 theoretical|0.87629 problems|0.8866 each|0.89691 infamous|0.90722 for|0.91753 its|0.92784 computational|0.93814 intractability|0.94845 are|0.95876 NP|0.96907 complete|0.97938 15|0.98969 |1"
+		}
+	}
+}

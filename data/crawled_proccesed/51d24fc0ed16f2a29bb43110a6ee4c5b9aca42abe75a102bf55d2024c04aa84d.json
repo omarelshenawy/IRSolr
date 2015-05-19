@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51d24fc0ed16f2a29bb43110a6ee4c5b9aca42abe75a102bf55d2024c04aa84d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Exterior_calc_cross_product.svg/220px-Exterior_calc_cross_product.svg.png",
+			"previous": " The mathematical description of rotational forces such as torque and angular momentum make use of the cross product ",
+			"after": " The cross product can be viewed in terms of the outer product allowing a more natural geometric interpretation of the cross product as a bivector using the dual relationship",
+			"color": "red|0.37559 medium|0.26896 sea|0.26896 green|0.26896  ",
+			"after_weights": " The|1 cross|0.96429 product|0.92857 can|0.89286 be|0.85714 viewed|0.82143 in|0.78571 terms|0.75 of|0.71429 the|0.67857 outer|0.64286 product|0.60714 allowing|0.57143 a|0.53571 more|0.5 natural|0.46429 geometric|0.42857 interpretation|0.39286 of|0.35714 the|0.32143 cross|0.28571 product|0.25 as|0.21429 a|0.17857 bivector|0.14286 using|0.10714 the|0.071429 dual|0.035714 relationship|0",
+			"previous_weights": " The|0 mathematical|0.055556 description|0.11111 of|0.16667 rotational|0.22222 forces|0.27778 such|0.33333 as|0.38889 torque|0.44444 and|0.5 angular|0.55556 momentum|0.61111 make|0.66667 use|0.72222 of|0.77778 the|0.83333 cross|0.88889 product|0.94444 |1"
+		}
+	}
+}

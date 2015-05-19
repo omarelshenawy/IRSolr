@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "402d4738f1caae8dfef8d7e86a8d4d2c7e3b9dd51057b30c12176ea5f8cd1d7c",
+			"url": "https://upload.wikimedia.org/math/5/b/7/5b787ce4ee80bbf5dbfec6f56815dac5.png",
+			"previous": " The outer product is naturally extended as a completely antisymmetric multilinear operator between any number of vectors ",
+			"after": " A multivector that is the outer product of r independent vectors is called a blade and the blade is said to be a multivector of grade r From the axioms with closure every multivector of the geometric algebra is a sum of blades ",
+			"color": "dark|0.30167 gray|0.30167 dark|0.30167 grey|0.30167 gray|0.26701 grey|0.26701 silver|0.15824 light|0.08783 gray|0.08783 light|0.08783 grey|0.08783 dim|0.07094 gray|0.07094 dim|0.07094 grey|0.07094 gainsboro|0.062191 white|0.013005 smoke|0.013005 linen|0.0063271 lavender|0.0057766 blush|0.0057766 alice|0.0056058 blue|0.0056058 ghost|0.0052894 white|0.0052894 sea|0.0048285 shell|0.0048285 snow|0.0046387 white|0.0030464  ",
+			"after_weights": " A|1 multivector|0.97674 that|0.95349 is|0.93023 the|0.90698 outer|0.88372 product|0.86047 of|0.83721 r|0.81395 independent|0.7907 vectors|0.76744 is|0.74419 called|0.72093 a|0.69767 blade|0.67442 and|0.65116 the|0.62791 blade|0.60465 is|0.5814 said|0.55814 to|0.53488 be|0.51163 a|0.48837 multivector|0.46512 of|0.44186 grade|0.4186 r|0.39535 From|0.37209 the|0.34884 axioms|0.32558 with|0.30233 closure|0.27907 every|0.25581 multivector|0.23256 of|0.2093 the|0.18605 geometric|0.16279 algebra|0.13953 is|0.11628 a|0.093023 sum|0.069767 of|0.046512 blades|0.023256 |0",
+			"previous_weights": " The|0 outer|0.058824 product|0.11765 is|0.17647 naturally|0.23529 extended|0.29412 as|0.35294 a|0.41176 completely|0.47059 antisymmetric|0.52941 multilinear|0.58824 operator|0.64706 between|0.70588 any|0.76471 number|0.82353 of|0.88235 vectors|0.94118 |1"
+		}
+	}
+}

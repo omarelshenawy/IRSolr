@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72147eed36781e2d9bea608f9974c758b5b0cdafcc539037e337b6806a7e8f1e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Humpbackwhale_singing.webm/220px--Humpbackwhale_singing.webm.jpg",
+			"previous": " ",
+			"after": " A humpback whale can easily be identified by its stocky body with an obvious hump and black dorsal coloring The head and lower jaw are covered with knobs called tubercles which are hair follicles and are characteristic of the species The fluked tail which it lifts above the surface in some dive sequences has wavy trailing edges 17 The four global populations all under study are North Pacific Atlantic and Southern Ocean humpbacks which have distinct populations which complete a migratory round trip each year and the Indian Ocean population which does not migrate prevented by that ocean s northern coastline ",
+			"color": "dodger|0.29174 blue|0.29174 royal|0.28123 blue|0.28123 corn|0.18211 flower|0.18211 blue|0.18211 deep|0.10749 sky|0.10749 blue|0.10749 aqua|0.04076 cyan|0.04076  ",
+			"after_weights": " A|1 humpback|0.9901 whale|0.9802 can|0.9703 easily|0.9604 be|0.9505 identified|0.94059 by|0.93069 its|0.92079 stocky|0.91089 body|0.90099 with|0.89109 an|0.88119 obvious|0.87129 hump|0.86139 and|0.85149 black|0.84158 dorsal|0.83168 coloring|0.82178 The|0.81188 head|0.80198 and|0.79208 lower|0.78218 jaw|0.77228 are|0.76238 covered|0.75248 with|0.74257 knobs|0.73267 called|0.72277 tubercles|0.71287 which|0.70297 are|0.69307 hair|0.68317 follicles|0.67327 and|0.66337 are|0.65347 characteristic|0.64356 of|0.63366 the|0.62376 species|0.61386 The|0.60396 fluked|0.59406 tail|0.58416 which|0.57426 it|0.56436 lifts|0.55446 above|0.54455 the|0.53465 surface|0.52475 in|0.51485 some|0.50495 dive|0.49505 sequences|0.48515 has|0.47525 wavy|0.46535 trailing|0.45545 edges|0.44554 17|0.43564 The|0.42574 four|0.41584 global|0.40594 populations|0.39604 all|0.38614 under|0.37624 study|0.36634 are|0.35644 North|0.34653 Pacific|0.33663 Atlantic|0.32673 and|0.31683 Southern|0.30693 Ocean|0.29703 humpbacks|0.28713 which|0.27723 have|0.26733 distinct|0.25743 populations|0.24752 which|0.23762 complete|0.22772 a|0.21782 migratory|0.20792 round|0.19802 trip|0.18812 each|0.17822 year|0.16832 and|0.15842 the|0.14851 Indian|0.13861 Ocean|0.12871 population|0.11881 which|0.10891 does|0.09901 not|0.089109 migrate|0.079208 prevented|0.069307 by|0.059406 that|0.049505 ocean|0.039604 s|0.029703 northern|0.019802 coastline|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3778d46f3ffd45057e32eebee723656d1c45d718a5f99daf4d6a18b1fe68d08c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/CanterburyRegionPopulationDensity.png/220px-CanterburyRegionPopulationDensity.png",
+			"previous": " ",
+			"after": " The New Zealand region of Canterbury M ori Waitaha is mainly composed of the Canterbury Plains and the surrounding mountains Its main city Christchurch hosts the main office of the Christchurch City Council the Canterbury Regional Council called Environment Canterbury ECAN and the University of Canterbury ",
+			"color": "medium|0.54258 sea|0.54258 green|0.54258 dark|0.15565 sea|0.15565 green|0.15565  ",
+			"after_weights": " The|1 New|0.97826 Zealand|0.95652 region|0.93478 of|0.91304 Canterbury|0.8913 M|0.86957 ori|0.84783 Waitaha|0.82609 is|0.80435 mainly|0.78261 composed|0.76087 of|0.73913 the|0.71739 Canterbury|0.69565 Plains|0.67391 and|0.65217 the|0.63043 surrounding|0.6087 mountains|0.58696 Its|0.56522 main|0.54348 city|0.52174 Christchurch|0.5 hosts|0.47826 the|0.45652 main|0.43478 office|0.41304 of|0.3913 the|0.36957 Christchurch|0.34783 City|0.32609 Council|0.30435 the|0.28261 Canterbury|0.26087 Regional|0.23913 Council|0.21739 called|0.19565 Environment|0.17391 Canterbury|0.15217 ECAN|0.13043 and|0.1087 the|0.086957 University|0.065217 of|0.043478 Canterbury|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

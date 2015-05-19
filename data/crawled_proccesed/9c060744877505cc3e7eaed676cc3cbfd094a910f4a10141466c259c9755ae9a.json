@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c060744877505cc3e7eaed676cc3cbfd094a910f4a10141466c259c9755ae9a",
+			"url": "https://upload.wikimedia.org/math/7/e/5/7e53ad3d249df6c021847244062b9e5c.png",
+			"previous": " and so we can call this quantity the cosine of the angle between the two vectors ",
+			"after": " The inner product facilitates the construction of many useful concepts For instance given a transform T we can define its Hermitian conjugate T as the linear transform satisfying",
+			"color": "dim|0.40394 gray|0.40394 dim|0.40394 grey|0.40394 gray|0.30017 grey|0.30017 dark|0.16018 gray|0.16018 dark|0.16018 grey|0.16018 silver|0.069677 light|0.03218 gray|0.03218 light|0.03218 grey|0.03218 gainsboro|0.020933 white|0.0032056 smoke|0.0032056  ",
+			"after_weights": " The|1 inner|0.96296 product|0.92593 facilitates|0.88889 the|0.85185 construction|0.81481 of|0.77778 many|0.74074 useful|0.7037 concepts|0.66667 For|0.62963 instance|0.59259 given|0.55556 a|0.51852 transform|0.48148 T|0.44444 we|0.40741 can|0.37037 define|0.33333 its|0.2963 Hermitian|0.25926 conjugate|0.22222 T|0.18519 as|0.14815 the|0.11111 linear|0.074074 transform|0.037037 satisfying|0",
+			"previous_weights": " and|0 so|0.0625 we|0.125 can|0.1875 call|0.25 this|0.3125 quantity|0.375 the|0.4375 cosine|0.5 of|0.5625 the|0.625 angle|0.6875 between|0.75 the|0.8125 two|0.875 vectors|0.9375 |1"
+		}
+	}
+}

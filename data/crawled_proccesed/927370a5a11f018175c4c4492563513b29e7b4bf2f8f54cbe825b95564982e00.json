@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "927370a5a11f018175c4c4492563513b29e7b4bf2f8f54cbe825b95564982e00",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/DeHavilland_Comet.jpg/220px-DeHavilland_Comet.jpg",
+			"previous": " Not only airplanes but also helicopters saw rapid development in the Second World War with the introduction of the Focke Achgelis Fa 223 the Flettner Fl 282 synchropter in 1941 in Germany and the Sikorsky R 4 in 1942 in the USA ",
+			"after": " ",
+			"color": "light|0.1697 gray|0.1697 light|0.1697 grey|0.1697 gainsboro|0.16592 lavender|0.12902 light|0.076133 steel|0.076133 blue|0.076133 black|0.075278 alice|0.066483 blue|0.066483 white|0.057823 smoke|0.057823 ghost|0.056052 white|0.056052 lavender|0.040669 blush|0.040669 silver|0.039093 snow|0.031139 azure|0.019996 white|0.019514 mint|0.011791 cream|0.011791 dark|0.0092233 gray|0.0092233 dark|0.0092233 grey|0.0092233 sea|0.0086817 shell|0.0086817 light|0.0059759 slate|0.0059759 gray|0.0059759 slate|0.005545 gray|0.005545 dim|0.0052804 gray|0.0052804 dim|0.0052804 grey|0.0052804 gray|0.0037169 grey|0.0037169  ",
+			"after_weights": " ",
+			"previous_weights": " Not|0 only|0.02381 airplanes|0.047619 but|0.071429 also|0.095238 helicopters|0.11905 saw|0.14286 rapid|0.16667 development|0.19048 in|0.21429 the|0.2381 Second|0.2619 World|0.28571 War|0.30952 with|0.33333 the|0.35714 introduction|0.38095 of|0.40476 the|0.42857 Focke|0.45238 Achgelis|0.47619 Fa|0.5 223|0.52381 the|0.54762 Flettner|0.57143 Fl|0.59524 282|0.61905 synchropter|0.64286 in|0.66667 1941|0.69048 in|0.71429 Germany|0.7381 and|0.7619 the|0.78571 Sikorsky|0.80952 R|0.83333 4|0.85714 in|0.88095 1942|0.90476 in|0.92857 the|0.95238 USA|0.97619 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41b0f51f28be155cbe4deecf5296ca3fb81833c0e63d48c207441c67c46639f8",
+			"url": "https://upload.wikimedia.org/math/9/5/f/95fff02452dd9ea258d284d5412a8daf.png",
+			"previous": " The entropy of a discrete random variable is a measure of the amount of uncertainty associated with the value of ",
+			"after": "  Here is the self information which is the entropy contribution of an individual message and is the expected value A property of entropy is that it is maximized when all the messages in the message space are equiprobable i e most unpredictable in which case ",
+			"color": "dark|0.35713 gray|0.35713 dark|0.35713 grey|0.35713 silver|0.25093 light|0.15028 gray|0.15028 light|0.15028 grey|0.15028 gainsboro|0.11433 gray|0.039411 grey|0.039411 white|0.023637 smoke|0.023637 linen|0.012225 lavender|0.0092394 blush|0.0092394 alice|0.008974 blue|0.008974 ghost|0.0085316 white|0.0085316 sea|0.0080009 shell|0.0080009 snow|0.0075696 white|0.0048567 mint|0.0031316 cream|0.0031316  ",
+			"after_weights": " |1 Here|0.97826 is|0.95652 the|0.93478 self|0.91304 information|0.8913 which|0.86957 is|0.84783 the|0.82609 entropy|0.80435 contribution|0.78261 of|0.76087 an|0.73913 individual|0.71739 message|0.69565 and|0.67391 is|0.65217 the|0.63043 expected|0.6087 value|0.58696 A|0.56522 property|0.54348 of|0.52174 entropy|0.5 is|0.47826 that|0.45652 it|0.43478 is|0.41304 maximized|0.3913 when|0.36957 all|0.34783 the|0.32609 messages|0.30435 in|0.28261 the|0.26087 message|0.23913 space|0.21739 are|0.19565 equiprobable|0.17391 i|0.15217 e|0.13043 most|0.1087 unpredictable|0.086957 in|0.065217 which|0.043478 case|0.021739 |0",
+			"previous_weights": " The|0 entropy|0.05 of|0.1 a|0.15 discrete|0.2 random|0.25 variable|0.3 is|0.35 a|0.4 measure|0.45 of|0.5 the|0.55 amount|0.6 of|0.65 uncertainty|0.7 associated|0.75 with|0.8 the|0.85 value|0.9 of|0.95 |1"
+		}
+	}
+}

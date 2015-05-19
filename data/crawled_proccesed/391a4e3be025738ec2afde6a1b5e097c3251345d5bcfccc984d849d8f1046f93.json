@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "391a4e3be025738ec2afde6a1b5e097c3251345d5bcfccc984d849d8f1046f93",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Luton_airport.jpg/200px-Luton_airport.jpg",
+			"previous": " ",
+			"after": " London Luton Airport is the fourth largest airport serving the London area Just over 10million passenger passed through the airport in 2008 making it the 5th busiest airport in the UK The airport serves as a hub for easyJet Monarch Airlines Thomson Airways Wizz Air and Ryanair ",
+			"color": "dim|0.33139 gray|0.33139 dim|0.33139 grey|0.33139 dark|0.22763 gray|0.22763 dark|0.22763 grey|0.22763 gray|0.099772 grey|0.099772 silver|0.086719 dark|0.072844 slate|0.072844 gray|0.072844 black|0.045373 light|0.04023 gray|0.04023 light|0.04023 grey|0.04023 slate|0.024544 gray|0.024544 light|0.021357 slate|0.021357 gray|0.021357 gainsboro|0.019902  ",
+			"after_weights": " London|1 Luton|0.97872 Airport|0.95745 is|0.93617 the|0.91489 fourth|0.89362 largest|0.87234 airport|0.85106 serving|0.82979 the|0.80851 London|0.78723 area|0.76596 Just|0.74468 over|0.7234 10million|0.70213 passenger|0.68085 passed|0.65957 through|0.6383 the|0.61702 airport|0.59574 in|0.57447 2008|0.55319 making|0.53191 it|0.51064 the|0.48936 5th|0.46809 busiest|0.44681 airport|0.42553 in|0.40426 the|0.38298 UK|0.3617 The|0.34043 airport|0.31915 serves|0.29787 as|0.2766 a|0.25532 hub|0.23404 for|0.21277 easyJet|0.19149 Monarch|0.17021 Airlines|0.14894 Thomson|0.12766 Airways|0.10638 Wizz|0.085106 Air|0.06383 and|0.042553 Ryanair|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

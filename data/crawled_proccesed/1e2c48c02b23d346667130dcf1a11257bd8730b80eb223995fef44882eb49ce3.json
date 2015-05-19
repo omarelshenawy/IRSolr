@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e2c48c02b23d346667130dcf1a11257bd8730b80eb223995fef44882eb49ce3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Neilyoung2.jpg/200px-Neilyoung2.jpg",
+			"previous": " ",
+			"after": " Neil Percival Young OC OM born November 12 1945 is a Canadian singer songwriter musician and film director He was inducted into the Rock and Roll Hall of Fame as a solo artist in 1995 and also as a member of Buffalo Springfield in 1997 ",
+			"color": " ",
+			"after_weights": " Neil|1 Percival|0.97778 Young|0.95556 OC|0.93333 OM|0.91111 born|0.88889 November|0.86667 12|0.84444 1945|0.82222 is|0.8 a|0.77778 Canadian|0.75556 singer|0.73333 songwriter|0.71111 musician|0.68889 and|0.66667 film|0.64444 director|0.62222 He|0.6 was|0.57778 inducted|0.55556 into|0.53333 the|0.51111 Rock|0.48889 and|0.46667 Roll|0.44444 Hall|0.42222 of|0.4 Fame|0.37778 as|0.35556 a|0.33333 solo|0.31111 artist|0.28889 in|0.26667 1995|0.24444 and|0.22222 also|0.2 as|0.17778 a|0.15556 member|0.13333 of|0.11111 Buffalo|0.088889 Springfield|0.066667 in|0.044444 1997|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

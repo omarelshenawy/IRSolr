@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "921d196fc5d7775de29cd8d9e1cf26ed8065deffa4990c15c6d0a86a86971917",
+			"url": "https://upload.wikimedia.org/math/2/0/9/20973ca76f183b5c91f7127b83037677.png",
+			"previous": " With r and z being constant over time this simplifies to",
+			"after": " which is the same as in Example 2  Now let there be an object off of the rotating disk and at inertial rest with respect to the center of the disk and at a distance of R from it This object has a coordinate motion described by d dt which describes the inertially at rest object of counter rotating in the view of the rotating observer Now the proper time equation becomes",
+			"color": "dim|0.3493 gray|0.3493 dim|0.3493 grey|0.3493 gray|0.28274 grey|0.28274 dark|0.1961 gray|0.1961 dark|0.1961 grey|0.1961 silver|0.083603 light|0.038949 gray|0.038949 light|0.038949 grey|0.038949 gainsboro|0.02825 white|0.0046426 smoke|0.0046426  ",
+			"after_weights": " which|1 is|0.98611 the|0.97222 same|0.95833 as|0.94444 in|0.93056 Example|0.91667 2|0.90278 |0.88889 Now|0.875 let|0.86111 there|0.84722 be|0.83333 an|0.81944 object|0.80556 off|0.79167 of|0.77778 the|0.76389 rotating|0.75 disk|0.73611 and|0.72222 at|0.70833 inertial|0.69444 rest|0.68056 with|0.66667 respect|0.65278 to|0.63889 the|0.625 center|0.61111 of|0.59722 the|0.58333 disk|0.56944 and|0.55556 at|0.54167 a|0.52778 distance|0.51389 of|0.5 R|0.48611 from|0.47222 it|0.45833 This|0.44444 object|0.43056 has|0.41667 a|0.40278 coordinate|0.38889 motion|0.375 described|0.36111 by|0.34722 d|0.33333 dt|0.31944 which|0.30556 describes|0.29167 the|0.27778 inertially|0.26389 at|0.25 rest|0.23611 object|0.22222 of|0.20833 counter|0.19444 rotating|0.18056 in|0.16667 the|0.15278 view|0.13889 of|0.125 the|0.11111 rotating|0.097222 observer|0.083333 Now|0.069444 the|0.055556 proper|0.041667 time|0.027778 equation|0.013889 becomes|0",
+			"previous_weights": " With|0 r|0.1 and|0.2 z|0.3 being|0.4 constant|0.5 over|0.6 time|0.7 this|0.8 simplifies|0.9 to|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9af963a363d8b7a220ffaf58115292e2711573518c820b298cfb0fadb96131ae",
+			"url": "https://upload.wikimedia.org/math/7/4/a/74aac744b90a678271c1beff90b1117c.png",
+			"previous": " then since the transformation is an involution we may express the roots in terms of the four si in exactly the same way Since we know the value s0 a 2 we only need the values for s1 s2 and s3 These are the roots of the polynomial",
+			"after": " Substituting the si by their values in term of the xi this polynomial may be expanded in a polynomial in s whose coefficients are symmetric polynomials in the xi By the fundamental theorem of symmetric polynomials these coefficients may be expressed as polynomials in the coefficients of the monic quartic If for simplification we suppose that the quartic is depressed that is a 0 this results in the polynomial",
+			"color": "gray|0.30129 grey|0.30129 dark|0.23392 gray|0.23392 dark|0.23392 grey|0.23392 dim|0.22991 gray|0.22991 dim|0.22991 grey|0.22991 silver|0.11229 light|0.058566 gray|0.058566 light|0.058566 grey|0.058566 gainsboro|0.041608 white|0.0060934 smoke|0.0060934 linen|0.0031948  ",
+			"after_weights": " Substituting|1 the|0.98529 si|0.97059 by|0.95588 their|0.94118 values|0.92647 in|0.91176 term|0.89706 of|0.88235 the|0.86765 xi|0.85294 this|0.83824 polynomial|0.82353 may|0.80882 be|0.79412 expanded|0.77941 in|0.76471 a|0.75 polynomial|0.73529 in|0.72059 s|0.70588 whose|0.69118 coefficients|0.67647 are|0.66176 symmetric|0.64706 polynomials|0.63235 in|0.61765 the|0.60294 xi|0.58824 By|0.57353 the|0.55882 fundamental|0.54412 theorem|0.52941 of|0.51471 symmetric|0.5 polynomials|0.48529 these|0.47059 coefficients|0.45588 may|0.44118 be|0.42647 expressed|0.41176 as|0.39706 polynomials|0.38235 in|0.36765 the|0.35294 coefficients|0.33824 of|0.32353 the|0.30882 monic|0.29412 quartic|0.27941 If|0.26471 for|0.25 simplification|0.23529 we|0.22059 suppose|0.20588 that|0.19118 the|0.17647 quartic|0.16176 is|0.14706 depressed|0.13235 that|0.11765 is|0.10294 a|0.088235 0|0.073529 this|0.058824 results|0.044118 in|0.029412 the|0.014706 polynomial|0",
+			"previous_weights": " then|0 since|0.021277 the|0.042553 transformation|0.06383 is|0.085106 an|0.10638 involution|0.12766 we|0.14894 may|0.17021 express|0.19149 the|0.21277 roots|0.23404 in|0.25532 terms|0.2766 of|0.29787 the|0.31915 four|0.34043 si|0.3617 in|0.38298 exactly|0.40426 the|0.42553 same|0.44681 way|0.46809 Since|0.48936 we|0.51064 know|0.53191 the|0.55319 value|0.57447 s0|0.59574 a|0.61702 2|0.6383 we|0.65957 only|0.68085 need|0.70213 the|0.7234 values|0.74468 for|0.76596 s1|0.78723 s2|0.80851 and|0.82979 s3|0.85106 These|0.87234 are|0.89362 the|0.91489 roots|0.93617 of|0.95745 the|0.97872 polynomial|1"
+		}
+	}
+}

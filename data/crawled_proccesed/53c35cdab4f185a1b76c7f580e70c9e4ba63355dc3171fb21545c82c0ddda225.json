@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "53c35cdab4f185a1b76c7f580e70c9e4ba63355dc3171fb21545c82c0ddda225",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/PulsarLED.jpg/220px-PulsarLED.jpg",
+			"previous": " ",
+			"after": " A digital display simply shows the time as a number e g 12 08 instead of a short hand pointing towards the number 12 and a long hand 8 60 of the way round the dial The digits are usually shown as a seven segment display ",
+			"color": "black|0.80608 dark|0.077613 slate|0.077613 gray|0.077613 dim|0.057089 gray|0.057089 dim|0.057089 grey|0.057089 gray|0.015331 grey|0.015331  ",
+			"after_weights": " A|1 digital|0.97826 display|0.95652 simply|0.93478 shows|0.91304 the|0.8913 time|0.86957 as|0.84783 a|0.82609 number|0.80435 e|0.78261 g|0.76087 12|0.73913 08|0.71739 instead|0.69565 of|0.67391 a|0.65217 short|0.63043 hand|0.6087 pointing|0.58696 towards|0.56522 the|0.54348 number|0.52174 12|0.5 and|0.47826 a|0.45652 long|0.43478 hand|0.41304 8|0.3913 60|0.36957 of|0.34783 the|0.32609 way|0.30435 round|0.28261 the|0.26087 dial|0.23913 The|0.21739 digits|0.19565 are|0.17391 usually|0.15217 shown|0.13043 as|0.1087 a|0.086957 seven|0.065217 segment|0.043478 display|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de8e4575348c33fca169985e23989cb8435a8510fb8166d9fe2ba83df76d304",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Linnuradarid_linnutee_r%C3%A4ndureid_seiramas.jpg/220px-Linnuradarid_linnutee_r%C3%A4ndureid_seiramas.jpg",
+			"previous": " Some predators take advantage of the concentration of birds during migration Greater noctule bats feed on nocturnal migrating passerines 15 Some birds of prey specialize on migrating waders 83 ",
+			"after": " Early studies on the timing of migration began in 1749 in Finland with Johannes Leche of Turku collecting the dates of arrivals of spring migrants 84  Bird migration routes have been studied by a variety of techniques including the oldest marking Swans have been marked with a nick on the beak since about 1560 in England Scientific ringing was pioneered by Hans Christian Cornelius Mortensen in 1899 85 Other techniques include radar 86 and satellite tracking 87 ",
+			"color": "dim|0.6321 gray|0.6321 dim|0.6321 grey|0.6321 gray|0.15682 grey|0.15682 saddle|0.057097 brown|0.057097  ",
+			"after_weights": " Early|1 studies|0.98718 on|0.97436 the|0.96154 timing|0.94872 of|0.9359 migration|0.92308 began|0.91026 in|0.89744 1749|0.88462 in|0.87179 Finland|0.85897 with|0.84615 Johannes|0.83333 Leche|0.82051 of|0.80769 Turku|0.79487 collecting|0.78205 the|0.76923 dates|0.75641 of|0.74359 arrivals|0.73077 of|0.71795 spring|0.70513 migrants|0.69231 84|0.67949 |0.66667 Bird|0.65385 migration|0.64103 routes|0.62821 have|0.61538 been|0.60256 studied|0.58974 by|0.57692 a|0.5641 variety|0.55128 of|0.53846 techniques|0.52564 including|0.51282 the|0.5 oldest|0.48718 marking|0.47436 Swans|0.46154 have|0.44872 been|0.4359 marked|0.42308 with|0.41026 a|0.39744 nick|0.38462 on|0.37179 the|0.35897 beak|0.34615 since|0.33333 about|0.32051 1560|0.30769 in|0.29487 England|0.28205 Scientific|0.26923 ringing|0.25641 was|0.24359 pioneered|0.23077 by|0.21795 Hans|0.20513 Christian|0.19231 Cornelius|0.17949 Mortensen|0.16667 in|0.15385 1899|0.14103 85|0.12821 Other|0.11538 techniques|0.10256 include|0.089744 radar|0.076923 86|0.064103 and|0.051282 satellite|0.038462 tracking|0.025641 87|0.012821 |0",
+			"previous_weights": " Some|0 predators|0.034483 take|0.068966 advantage|0.10345 of|0.13793 the|0.17241 concentration|0.2069 of|0.24138 birds|0.27586 during|0.31034 migration|0.34483 Greater|0.37931 noctule|0.41379 bats|0.44828 feed|0.48276 on|0.51724 nocturnal|0.55172 migrating|0.58621 passerines|0.62069 15|0.65517 Some|0.68966 birds|0.72414 of|0.75862 prey|0.7931 specialize|0.82759 on|0.86207 migrating|0.89655 waders|0.93103 83|0.96552 |1"
+		}
+	}
+}

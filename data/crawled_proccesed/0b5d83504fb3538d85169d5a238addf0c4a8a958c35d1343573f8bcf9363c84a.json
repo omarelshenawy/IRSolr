@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b5d83504fb3538d85169d5a238addf0c4a8a958c35d1343573f8bcf9363c84a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bulgarian_army_adrinople.jpg/250px-Bulgarian_army_adrinople.jpg",
+			"previous": " Bulgaria which had secured Ottoman recognition of her independence in April 1909 and enjoyed the friendship of Russia 8 also looked to districts of Ottoman Thrace and Macedonia In August 1910 Montenegro followed Bulgaria s precedent by becoming a kingdom ",
+			"after": " Following Italy s victory in the Italo Turkish War of 1911 1912 the Young Turks fell from power after a coup The Balkan countries saw this as an opportunity to attack the Ottoman Empire and fulfill their desires of expansion ",
+			"color": " ",
+			"after_weights": " Following|1 Italy|0.975 s|0.95 victory|0.925 in|0.9 the|0.875 Italo|0.85 Turkish|0.825 War|0.8 of|0.775 1911|0.75 1912|0.725 the|0.7 Young|0.675 Turks|0.65 fell|0.625 from|0.6 power|0.575 after|0.55 a|0.525 coup|0.5 The|0.475 Balkan|0.45 countries|0.425 saw|0.4 this|0.375 as|0.35 an|0.325 opportunity|0.3 to|0.275 attack|0.25 the|0.225 Ottoman|0.2 Empire|0.175 and|0.15 fulfill|0.125 their|0.1 desires|0.075 of|0.05 expansion|0.025 |0",
+			"previous_weights": " Bulgaria|0 which|0.025 had|0.05 secured|0.075 Ottoman|0.1 recognition|0.125 of|0.15 her|0.175 independence|0.2 in|0.225 April|0.25 1909|0.275 and|0.3 enjoyed|0.325 the|0.35 friendship|0.375 of|0.4 Russia|0.425 8|0.45 also|0.475 looked|0.5 to|0.525 districts|0.55 of|0.575 Ottoman|0.6 Thrace|0.625 and|0.65 Macedonia|0.675 In|0.7 August|0.725 1910|0.75 Montenegro|0.775 followed|0.8 Bulgaria|0.825 s|0.85 precedent|0.875 by|0.9 becoming|0.925 a|0.95 kingdom|0.975 |1"
+		}
+	}
+}

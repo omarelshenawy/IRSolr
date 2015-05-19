@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1025a6a559c1afbecd6b51572fe9d8827140fc9aa56e51ccffafdb23e72cdabc",
+			"url": "https://upload.wikimedia.org/math/5/2/b/52b3a6fbbfe01652d1920dcecb2de8a1.png",
+			"previous": "  This gives the local convective constant at one point on the semi infinite plane Integrating over the length of the plate gives an average ",
+			"after": "   These solutions apply for laminar flow with a Prandtl Schmidt number greater than 0 6 10 ",
+			"color": "dim|0.3412 gray|0.3412 dim|0.3412 grey|0.3412 gray|0.31243 grey|0.31243 dark|0.18909 gray|0.18909 dark|0.18909 grey|0.18909 silver|0.079823 light|0.038522 gray|0.038522 light|0.038522 grey|0.038522 gainsboro|0.026616 white|0.0038418 smoke|0.0038418  ",
+			"after_weights": " |1 |0.94444 These|0.88889 solutions|0.83333 apply|0.77778 for|0.72222 laminar|0.66667 flow|0.61111 with|0.55556 a|0.5 Prandtl|0.44444 Schmidt|0.38889 number|0.33333 greater|0.27778 than|0.22222 0|0.16667 6|0.11111 10|0.055556 |0",
+			"previous_weights": " |0 This|0.04 gives|0.08 the|0.12 local|0.16 convective|0.2 constant|0.24 at|0.28 one|0.32 point|0.36 on|0.4 the|0.44 semi|0.48 infinite|0.52 plane|0.56 Integrating|0.6 over|0.64 the|0.68 length|0.72 of|0.76 the|0.8 plate|0.84 gives|0.88 an|0.92 average|0.96 |1"
+		}
+	}
+}

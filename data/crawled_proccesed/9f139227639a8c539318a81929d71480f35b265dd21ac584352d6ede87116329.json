@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f139227639a8c539318a81929d71480f35b265dd21ac584352d6ede87116329",
+			"url": "https://upload.wikimedia.org/math/e/e/a/eeae6746c1cf4188d753932ef7e300d5.png",
+			"previous": " The choice of the main wheel tires is made on the basis of the static loading case The total main gear load is calculated assuming that the aircraft is taxiing at low speed without braking 7 ",
+			"after": " The choice of the nose wheel tires is based on the nose wheel load during braking at maximum effort 7 ",
+			"color": "dim|0.37702 gray|0.37702 dim|0.37702 grey|0.37702 black|0.28488 gray|0.16373 grey|0.16373 dark|0.094392 gray|0.094392 dark|0.094392 grey|0.094392 silver|0.044557 light|0.019493 gray|0.019493 light|0.019493 grey|0.019493 gainsboro|0.011284  ",
+			"after_weights": " The|1 choice|0.95 of|0.9 the|0.85 nose|0.8 wheel|0.75 tires|0.7 is|0.65 based|0.6 on|0.55 the|0.5 nose|0.45 wheel|0.4 load|0.35 during|0.3 braking|0.25 at|0.2 maximum|0.15 effort|0.1 7|0.05 |0",
+			"previous_weights": " The|0 choice|0.027778 of|0.055556 the|0.083333 main|0.11111 wheel|0.13889 tires|0.16667 is|0.19444 made|0.22222 on|0.25 the|0.27778 basis|0.30556 of|0.33333 the|0.36111 static|0.38889 loading|0.41667 case|0.44444 The|0.47222 total|0.5 main|0.52778 gear|0.55556 load|0.58333 is|0.61111 calculated|0.63889 assuming|0.66667 that|0.69444 the|0.72222 aircraft|0.75 is|0.77778 taxiing|0.80556 at|0.83333 low|0.86111 speed|0.88889 without|0.91667 braking|0.94444 7|0.97222 |1"
+		}
+	}
+}

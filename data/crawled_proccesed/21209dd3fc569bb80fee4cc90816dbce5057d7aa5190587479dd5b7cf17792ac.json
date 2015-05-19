@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21209dd3fc569bb80fee4cc90816dbce5057d7aa5190587479dd5b7cf17792ac",
+			"url": "https://upload.wikimedia.org/math/9/6/8/968e95c18b75a2e136c69e9ee66cbc9b.png",
+			"previous": " An inverse function for f denoted by f 1 is a function in the opposite direction from Y to X satisfying",
+			"after": " That is the two possible compositions of f and f 1 need to be the respective identity maps of X and Y ",
+			"color": "dim|0.41022 gray|0.41022 dim|0.41022 grey|0.41022 gray|0.26903 grey|0.26903 dark|0.17247 gray|0.17247 dark|0.17247 grey|0.17247 silver|0.075261 light|0.035994 gray|0.035994 light|0.035994 grey|0.035994 gainsboro|0.023925  ",
+			"after_weights": " That|1 is|0.95455 the|0.90909 two|0.86364 possible|0.81818 compositions|0.77273 of|0.72727 f|0.68182 and|0.63636 f|0.59091 1|0.54545 need|0.5 to|0.45455 be|0.40909 the|0.36364 respective|0.31818 identity|0.27273 maps|0.22727 of|0.18182 X|0.13636 and|0.090909 Y|0.045455 |0",
+			"previous_weights": " An|0 inverse|0.05 function|0.1 for|0.15 f|0.2 denoted|0.25 by|0.3 f|0.35 1|0.4 is|0.45 a|0.5 function|0.55 in|0.6 the|0.65 opposite|0.7 direction|0.75 from|0.8 Y|0.85 to|0.9 X|0.95 satisfying|1"
+		}
+	}
+}

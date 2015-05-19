@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52905293852a45414cc7a197e6911db7a37d63b91643dcfad0abbf84ee63944a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DOD_mobile_aircraft_firefighting_training_device.jpg/220px-DOD_mobile_aircraft_firefighting_training_device.jpg",
+			"previous": " There are specialized area of fire and rescue operations that are considered special operations These areas may require schools and classes to be attended for subject specific training 6 7 ",
+			"after": " Firefighters usually follow the 24 hour shift schedule Some fire departments work 8 or 12 hour shifts but the 24 hour shift is more common 8 Australian firefighters work a 10 14 shift in which the day shift works 10 hours and the night shift works 14 hours 9 ",
+			"color": "dim|0.51342 gray|0.51342 dim|0.51342 grey|0.51342 gray|0.16383 grey|0.16383 black|0.057839 slate|0.048413 gray|0.048413 coral|0.030559 chocolate|0.025656 sienna|0.023909 dark|0.023167 gray|0.023167 dark|0.023167 grey|0.023167 light|0.020262 slate|0.020262 gray|0.020262 sandy|0.012295 brown|0.012295  ",
+			"after_weights": " Firefighters|1 usually|0.97959 follow|0.95918 the|0.93878 24|0.91837 hour|0.89796 shift|0.87755 schedule|0.85714 Some|0.83673 fire|0.81633 departments|0.79592 work|0.77551 8|0.7551 or|0.73469 12|0.71429 hour|0.69388 shifts|0.67347 but|0.65306 the|0.63265 24|0.61224 hour|0.59184 shift|0.57143 is|0.55102 more|0.53061 common|0.5102 8|0.4898 Australian|0.46939 firefighters|0.44898 work|0.42857 a|0.40816 10|0.38776 14|0.36735 shift|0.34694 in|0.32653 which|0.30612 the|0.28571 day|0.26531 shift|0.2449 works|0.22449 10|0.20408 hours|0.18367 and|0.16327 the|0.14286 night|0.12245 shift|0.10204 works|0.081633 14|0.061224 hours|0.040816 9|0.020408 |0",
+			"previous_weights": " There|0 are|0.033333 specialized|0.066667 area|0.1 of|0.13333 fire|0.16667 and|0.2 rescue|0.23333 operations|0.26667 that|0.3 are|0.33333 considered|0.36667 special|0.4 operations|0.43333 These|0.46667 areas|0.5 may|0.53333 require|0.56667 schools|0.6 and|0.63333 classes|0.66667 to|0.7 be|0.73333 attended|0.76667 for|0.8 subject|0.83333 specific|0.86667 training|0.9 6|0.93333 7|0.96667 |1"
+		}
+	}
+}

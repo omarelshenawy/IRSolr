@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "13b265df6ea2f4824cc0c893e346ffc056dcc626d148d74286f665b3a7bb78ed",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Oman_Air_Embraer_ERJ-170-200LR_175LR_A4O-EB_DXB_2013-01-20.png/220px-Oman_Air_Embraer_ERJ-170-200LR_175LR_A4O-EB_DXB_2013-01-20.png",
+			"previous": " Oman Air has codeshare agreements with the following airlines as of 19 November 2013 ",
+			"after": " As of April 2015 the Oman Air fleet consists of the following aircraft 25  Oman Air operated the following aircraft previously 30 ",
+			"color": "slate|0.43337 gray|0.43337 light|0.43246 slate|0.43246 gray|0.43246 tan|0.014057 bisque|0.012926 wheat|0.012309 blanched|0.011506 almond|0.011506 peach|0.0097821 puff|0.0097821 papaya|0.0096634 whip|0.0096634 antique|0.0096173 white|0.0096173 dim|0.0079137 gray|0.0079137 dim|0.0079137 grey|0.0079137 black|0.007621 dark|0.0067606 slate|0.0067606 gray|0.0067606 corn|0.0051102 silk|0.0051102 beige|0.0039991 moccasin|0.0037505 gray|0.003512 grey|0.003512 dark|0.0031666 gray|0.0031666 dark|0.0031666 grey|0.0031666  ",
+			"after_weights": " As|1 of|0.95652 April|0.91304 2015|0.86957 the|0.82609 Oman|0.78261 Air|0.73913 fleet|0.69565 consists|0.65217 of|0.6087 the|0.56522 following|0.52174 aircraft|0.47826 25|0.43478 |0.3913 Oman|0.34783 Air|0.30435 operated|0.26087 the|0.21739 following|0.17391 aircraft|0.13043 previously|0.086957 30|0.043478 |0",
+			"previous_weights": " Oman|0 Air|0.071429 has|0.14286 codeshare|0.21429 agreements|0.28571 with|0.35714 the|0.42857 following|0.5 airlines|0.57143 as|0.64286 of|0.71429 19|0.78571 November|0.85714 2013|0.92857 |1"
+		}
+	}
+}

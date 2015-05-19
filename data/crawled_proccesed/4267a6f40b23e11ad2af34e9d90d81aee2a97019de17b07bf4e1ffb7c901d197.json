@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4267a6f40b23e11ad2af34e9d90d81aee2a97019de17b07bf4e1ffb7c901d197",
+			"url": "https://upload.wikimedia.org/math/a/7/9/a795e306bd41aec63bf71c77e677e9bd.png",
+			"previous": " This is true for any pair of vectors used to define coordinates in E Suppose we select a non orthogonal non unit vector basis v and w to define coordinates of vectors in E This means a vector x has coordinates such that x v w Then we have the linear functional",
+			"after": " where Av d and Aw e are the images of the basis vectors v and w This is written in matrix form as",
+			"color": "dim|0.40002 gray|0.40002 dim|0.40002 grey|0.40002 gray|0.26449 grey|0.26449 dark|0.18933 gray|0.18933 dark|0.18933 grey|0.18933 silver|0.077883 light|0.03086 gray|0.03086 light|0.03086 grey|0.03086 gainsboro|0.021979 white|0.0040356 smoke|0.0040356  ",
+			"after_weights": " where|1 Av|0.95455 d|0.90909 and|0.86364 Aw|0.81818 e|0.77273 are|0.72727 the|0.68182 images|0.63636 of|0.59091 the|0.54545 basis|0.5 vectors|0.45455 v|0.40909 and|0.36364 w|0.31818 This|0.27273 is|0.22727 written|0.18182 in|0.13636 matrix|0.090909 form|0.045455 as|0",
+			"previous_weights": " This|0 is|0.019608 true|0.039216 for|0.058824 any|0.078431 pair|0.098039 of|0.11765 vectors|0.13725 used|0.15686 to|0.17647 define|0.19608 coordinates|0.21569 in|0.23529 E|0.2549 Suppose|0.27451 we|0.29412 select|0.31373 a|0.33333 non|0.35294 orthogonal|0.37255 non|0.39216 unit|0.41176 vector|0.43137 basis|0.45098 v|0.47059 and|0.4902 w|0.5098 to|0.52941 define|0.54902 coordinates|0.56863 of|0.58824 vectors|0.60784 in|0.62745 E|0.64706 This|0.66667 means|0.68627 a|0.70588 vector|0.72549 x|0.7451 has|0.76471 coordinates|0.78431 such|0.80392 that|0.82353 x|0.84314 v|0.86275 w|0.88235 Then|0.90196 we|0.92157 have|0.94118 the|0.96078 linear|0.98039 functional|1"
+		}
+	}
+}

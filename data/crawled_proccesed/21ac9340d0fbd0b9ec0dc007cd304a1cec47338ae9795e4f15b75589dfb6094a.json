@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21ac9340d0fbd0b9ec0dc007cd304a1cec47338ae9795e4f15b75589dfb6094a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Southern_China_A380_LAX.jpg/220px-Southern_China_A380_LAX.jpg",
+			"previous": " LAX connects 87 domestic and 69 international destinations in North America Latin America Europe the Middle East Asia and Oceania Its most prominent airlines are American Airlines 15 71 of passenger traffic Delta Air Lines 15 69 and United Airlines 15 11 Other airlines with a presence on a lesser scale include Southwest Airlines 11 10 and Alaska Airlines 5 11 63 ",
+			"after": " ",
+			"color": "dim|0.40411 gray|0.40411 dim|0.40411 grey|0.40411 gray|0.22427 grey|0.22427 black|0.13955 dark|0.092885 gray|0.092885 dark|0.092885 grey|0.092885 steel|0.039801 blue|0.039801 slate|0.037517 gray|0.037517 light|0.030233 slate|0.030233 gray|0.030233 silver|0.014958  ",
+			"after_weights": " ",
+			"previous_weights": " LAX|0 connects|0.016129 87|0.032258 domestic|0.048387 and|0.064516 69|0.080645 international|0.096774 destinations|0.1129 in|0.12903 North|0.14516 America|0.16129 Latin|0.17742 America|0.19355 Europe|0.20968 the|0.22581 Middle|0.24194 East|0.25806 Asia|0.27419 and|0.29032 Oceania|0.30645 Its|0.32258 most|0.33871 prominent|0.35484 airlines|0.37097 are|0.3871 American|0.40323 Airlines|0.41935 15|0.43548 71|0.45161 of|0.46774 passenger|0.48387 traffic|0.5 Delta|0.51613 Air|0.53226 Lines|0.54839 15|0.56452 69|0.58065 and|0.59677 United|0.6129 Airlines|0.62903 15|0.64516 11|0.66129 Other|0.67742 airlines|0.69355 with|0.70968 a|0.72581 presence|0.74194 on|0.75806 a|0.77419 lesser|0.79032 scale|0.80645 include|0.82258 Southwest|0.83871 Airlines|0.85484 11|0.87097 10|0.8871 and|0.90323 Alaska|0.91935 Airlines|0.93548 5|0.95161 11|0.96774 63|0.98387 |1"
+		}
+	}
+}

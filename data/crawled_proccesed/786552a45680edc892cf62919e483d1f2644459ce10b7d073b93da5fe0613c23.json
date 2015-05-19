@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "786552a45680edc892cf62919e483d1f2644459ce10b7d073b93da5fe0613c23",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Korean_air_destinations.png/220px-Korean_air_destinations.png",
+			"previous": " ",
+			"after": " Korean Air serves 114 international destinations in 50 countries on 6 continents excluding codeshares The airlines s international hub is Incheon International Airport in Incheon The airline also flies 13 domestic destinations within South Korea KAL operates between Incheon and 22 cities in Mainland China and along with Asiana Airlines it is one of the two largest foreign airlines to operate into the People s Republic of China 21 ",
+			"color": "deep|0.65472 sky|0.65472 blue|0.65472 light|0.15588 sky|0.15588 blue|0.15588 sky|0.11887 blue|0.11887 light|0.02855 blue|0.02855 powder|0.025357 blue|0.025357  ",
+			"after_weights": " Korean|1 Air|0.98551 serves|0.97101 114|0.95652 international|0.94203 destinations|0.92754 in|0.91304 50|0.89855 countries|0.88406 on|0.86957 6|0.85507 continents|0.84058 excluding|0.82609 codeshares|0.81159 The|0.7971 airlines|0.78261 s|0.76812 international|0.75362 hub|0.73913 is|0.72464 Incheon|0.71014 International|0.69565 Airport|0.68116 in|0.66667 Incheon|0.65217 The|0.63768 airline|0.62319 also|0.6087 flies|0.5942 13|0.57971 domestic|0.56522 destinations|0.55072 within|0.53623 South|0.52174 Korea|0.50725 KAL|0.49275 operates|0.47826 between|0.46377 Incheon|0.44928 and|0.43478 22|0.42029 cities|0.4058 in|0.3913 Mainland|0.37681 China|0.36232 and|0.34783 along|0.33333 with|0.31884 Asiana|0.30435 Airlines|0.28986 it|0.27536 is|0.26087 one|0.24638 of|0.23188 the|0.21739 two|0.2029 largest|0.18841 foreign|0.17391 airlines|0.15942 to|0.14493 operate|0.13043 into|0.11594 the|0.10145 People|0.086957 s|0.072464 Republic|0.057971 of|0.043478 China|0.028986 21|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

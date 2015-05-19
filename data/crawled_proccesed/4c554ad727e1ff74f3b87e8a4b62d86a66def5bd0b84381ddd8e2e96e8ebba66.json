@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
 			"previous": " List of sister cities of Austin Texas designated by Sister Cities International 191 ",
 			"after": " The cities of Belo Horizonte Brazil and Elche Spain were formerly sister cities but upon a vote of the Austin City Council in 1991 their status was de activated 193 ",
+			"color": "dark|0.61654 blue|0.61654 indigo|0.10124 navy|0.059317 lavender|0.048597 light|0.036121 steel|0.036121 blue|0.036121 firebrick|0.030045 white|0.010953 ghost|0.010919 white|0.010919 alice|0.010301 blue|0.010301 snow|0.010136 mint|0.0097989 cream|0.0097989 white|0.0095096 smoke|0.0095096 floral|0.0087605 white|0.0087605 azure|0.007689 sea|0.0071644 shell|0.0071644 lavender|0.0070476 blush|0.0070476 ivory|0.0063194  ",
 			"after_weights": " The|1 cities|0.96667 of|0.93333 Belo|0.9 Horizonte|0.86667 Brazil|0.83333 and|0.8 Elche|0.76667 Spain|0.73333 were|0.7 formerly|0.66667 sister|0.63333 cities|0.6 but|0.56667 upon|0.53333 a|0.5 vote|0.46667 of|0.43333 the|0.4 Austin|0.36667 City|0.33333 Council|0.3 in|0.26667 1991|0.23333 their|0.2 status|0.16667 was|0.13333 de|0.1 activated|0.066667 193|0.033333 |0",
 			"previous_weights": " List|0 of|0.076923 sister|0.15385 cities|0.23077 of|0.30769 Austin|0.38462 Texas|0.46154 designated|0.53846 by|0.61538 Sister|0.69231 Cities|0.76923 International|0.84615 191|0.92308 |1"
 		}

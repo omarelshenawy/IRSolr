@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47d56e5aa1643002c58940ea3e49c72929dcd1dfea672436ad606f65d06c1670",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Battle_of_Antietam.png/220px-Battle_of_Antietam.png",
+			"previous": " ",
+			"after": " By 1860 Maryland s free black population comprised 49 of the total of African Americans in the state 55 This contributed to the state s remaining loyal to the Union during the Civil War citation needed discuss ",
+			"color": "tan|0.45345 burly|0.19217 wood|0.19217 olive|0.071745 peach|0.064536 puff|0.064536 dim|0.040559 gray|0.040559 dim|0.040559 grey|0.040559 gray|0.040161 grey|0.040161 bisque|0.034117  ",
+			"after_weights": " By|1 1860|0.97297 Maryland|0.94595 s|0.91892 free|0.89189 black|0.86486 population|0.83784 comprised|0.81081 49|0.78378 of|0.75676 the|0.72973 total|0.7027 of|0.67568 African|0.64865 Americans|0.62162 in|0.59459 the|0.56757 state|0.54054 55|0.51351 This|0.48649 contributed|0.45946 to|0.43243 the|0.40541 state|0.37838 s|0.35135 remaining|0.32432 loyal|0.2973 to|0.27027 the|0.24324 Union|0.21622 during|0.18919 the|0.16216 Civil|0.13514 War|0.10811 citation|0.081081 needed|0.054054 discuss|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

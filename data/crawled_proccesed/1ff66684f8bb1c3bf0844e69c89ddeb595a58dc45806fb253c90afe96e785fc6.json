@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ff66684f8bb1c3bf0844e69c89ddeb595a58dc45806fb253c90afe96e785fc6",
+			"url": "https://upload.wikimedia.org/math/5/4/d/54da65b27e2d2508cbae9ed7854efa69.png",
+			"previous": " One of the ways to prove the theorem relies on Hurwitz quaternions which are the analog of integers for quaternions 7 The Hurwitz quaternions consist of all quaternions with integer components and all quaternions with half integer components These two sets can be combined into a single formula",
+			"after": " The arithmetic or field norm of a rational quaternion is the nonnegative rational number",
+			"color": "gray|0.32596 grey|0.32596 dim|0.2533 gray|0.2533 dim|0.2533 grey|0.2533 dark|0.22746 gray|0.22746 dark|0.22746 grey|0.22746 silver|0.094893 light|0.045198 gray|0.045198 light|0.045198 grey|0.045198 gainsboro|0.031654 white|0.0052819 smoke|0.0052819  ",
+			"after_weights": " The|1 arithmetic|0.92308 or|0.84615 field|0.76923 norm|0.69231 of|0.61538 a|0.53846 rational|0.46154 quaternion|0.38462 is|0.30769 the|0.23077 nonnegative|0.15385 rational|0.076923 number|0",
+			"previous_weights": " One|0 of|0.021277 the|0.042553 ways|0.06383 to|0.085106 prove|0.10638 the|0.12766 theorem|0.14894 relies|0.17021 on|0.19149 Hurwitz|0.21277 quaternions|0.23404 which|0.25532 are|0.2766 the|0.29787 analog|0.31915 of|0.34043 integers|0.3617 for|0.38298 quaternions|0.40426 7|0.42553 The|0.44681 Hurwitz|0.46809 quaternions|0.48936 consist|0.51064 of|0.53191 all|0.55319 quaternions|0.57447 with|0.59574 integer|0.61702 components|0.6383 and|0.65957 all|0.68085 quaternions|0.70213 with|0.7234 half|0.74468 integer|0.76596 components|0.78723 These|0.80851 two|0.82979 sets|0.85106 can|0.87234 be|0.89362 combined|0.91489 into|0.93617 a|0.95745 single|0.97872 formula|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45d6c72ffd25cc455ec5c63ccf3d95d66c2135a9e5c1545fd949c8cca26ad293",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Harvard_Medical_School.JPG/220px-Harvard_Medical_School.JPG",
+			"previous": " The system of Medical education in Panama usually takes students from high school directly into Medical School for a 6 year course typically with a two years internship ",
+			"after": " In 2012 the Association of American Medical Colleges and American Association of Colleges of Osteopathic Medicine listed 141 accredited M D granting 13 and 30 accredited D O granting medical schools 14 in the United States ",
+			"color": "dark|0.38097 gray|0.38097 dark|0.38097 grey|0.38097 silver|0.13931 gray|0.07983 grey|0.07983 light|0.065049 steel|0.065049 blue|0.065049 light|0.059048 gray|0.059048 light|0.059048 grey|0.059048 lavender|0.043877 olive|0.042018 drab|0.042018 gainsboro|0.034108 dim|0.026663 gray|0.026663 dim|0.026663 grey|0.026663 olive|0.022114 alice|0.014095 blue|0.014095 dark|0.013368 khaki|0.013368 thistle|0.012119 dark|0.011692 olive|0.011692 green|0.011692 yellow|0.0067023 green|0.0067023 light|0.005596 blue|0.005596 azure|0.0054316 light|0.0053068 cyan|0.0053068 ghost|0.0047619 white|0.0047619  ",
+			"after_weights": " In|1 2012|0.97222 the|0.94444 Association|0.91667 of|0.88889 American|0.86111 Medical|0.83333 Colleges|0.80556 and|0.77778 American|0.75 Association|0.72222 of|0.69444 Colleges|0.66667 of|0.63889 Osteopathic|0.61111 Medicine|0.58333 listed|0.55556 141|0.52778 accredited|0.5 M|0.47222 D|0.44444 granting|0.41667 13|0.38889 and|0.36111 30|0.33333 accredited|0.30556 D|0.27778 O|0.25 granting|0.22222 medical|0.19444 schools|0.16667 14|0.13889 in|0.11111 the|0.083333 United|0.055556 States|0.027778 |0",
+			"previous_weights": " The|0 system|0.035714 of|0.071429 Medical|0.10714 education|0.14286 in|0.17857 Panama|0.21429 usually|0.25 takes|0.28571 students|0.32143 from|0.35714 high|0.39286 school|0.42857 directly|0.46429 into|0.5 Medical|0.53571 School|0.57143 for|0.60714 a|0.64286 6|0.67857 year|0.71429 course|0.75 typically|0.78571 with|0.82143 a|0.85714 two|0.89286 years|0.92857 internship|0.96429 |1"
+		}
+	}
+}

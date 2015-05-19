@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f91d6af9368a6308ddb2dfdecdde44740687a8ea9561b49987cd48090bac71c",
+			"url": "https://upload.wikimedia.org/math/c/f/1/cf18e57a127294769e3305585564ca0a.png",
+			"previous": " and its mean curvature is where is the reduced or parametric latitude is the longitude and and then its Gaussian curvature is",
+			"after": " Both of these curvatures are always positive so that every point on a spheroid is elliptic  The aspect ratio of an oblate spheroid ellipse b a is the ratio of the polar to equatorial lengths while the flattening also called oblateness f is the ratio of the equatorial polar length difference to the equatorial length ",
+			"color": "dim|0.30273 gray|0.30273 dim|0.30273 grey|0.30273 gray|0.26568 grey|0.26568 black|0.26079 dark|0.1266 gray|0.1266 dark|0.1266 grey|0.1266 silver|0.041812  ",
+			"after_weights": " Both|1 of|0.98214 these|0.96429 curvatures|0.94643 are|0.92857 always|0.91071 positive|0.89286 so|0.875 that|0.85714 every|0.83929 point|0.82143 on|0.80357 a|0.78571 spheroid|0.76786 is|0.75 elliptic|0.73214 |0.71429 The|0.69643 aspect|0.67857 ratio|0.66071 of|0.64286 an|0.625 oblate|0.60714 spheroid|0.58929 ellipse|0.57143 b|0.55357 a|0.53571 is|0.51786 the|0.5 ratio|0.48214 of|0.46429 the|0.44643 polar|0.42857 to|0.41071 equatorial|0.39286 lengths|0.375 while|0.35714 the|0.33929 flattening|0.32143 also|0.30357 called|0.28571 oblateness|0.26786 f|0.25 is|0.23214 the|0.21429 ratio|0.19643 of|0.17857 the|0.16071 equatorial|0.14286 polar|0.125 length|0.10714 difference|0.089286 to|0.071429 the|0.053571 equatorial|0.035714 length|0.017857 |0",
+			"previous_weights": " and|0 its|0.047619 mean|0.095238 curvature|0.14286 is|0.19048 where|0.2381 is|0.28571 the|0.33333 reduced|0.38095 or|0.42857 parametric|0.47619 latitude|0.52381 is|0.57143 the|0.61905 longitude|0.66667 and|0.71429 and|0.7619 then|0.80952 its|0.85714 Gaussian|0.90476 curvature|0.95238 is|1"
+		}
+	}
+}

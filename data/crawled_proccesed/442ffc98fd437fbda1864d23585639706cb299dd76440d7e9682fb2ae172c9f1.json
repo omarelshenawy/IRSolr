@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "442ffc98fd437fbda1864d23585639706cb299dd76440d7e9682fb2ae172c9f1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/IL112_sketch.svg/230px-IL112_sketch.svg.png",
+			"previous": " In August 2013 the General Designer of Ilyushin Viktor Livanov citing the First Deputy Defense Minister Yuri Borisov confirmed that work on the aircraft has been resumed 2 ",
+			"after": " Data from ilyushin org 8  General characteristics Performance",
+			"color": "dim|0.625 gray|0.625 dim|0.625 grey|0.625 gray|0.375 grey|0.375  ",
+			"after_weights": " Data|1 from|0.875 ilyushin|0.75 org|0.625 8|0.5 |0.375 General|0.25 characteristics|0.125 Performance|0",
+			"previous_weights": " In|0 August|0.035714 2013|0.071429 the|0.10714 General|0.14286 Designer|0.17857 of|0.21429 Ilyushin|0.25 Viktor|0.28571 Livanov|0.32143 citing|0.35714 the|0.39286 First|0.42857 Deputy|0.46429 Defense|0.5 Minister|0.53571 Yuri|0.57143 Borisov|0.60714 confirmed|0.64286 that|0.67857 work|0.71429 on|0.75 the|0.78571 aircraft|0.82143 has|0.85714 been|0.89286 resumed|0.92857 2|0.96429 |1"
+		}
+	}
+}

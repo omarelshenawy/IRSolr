@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "34c10b91aa9bcbe2e844653d1d18c4995a20d76248309a684bdc45f63e03d059",
+			"url": "https://upload.wikimedia.org/math/7/d/e/7de69d8cf3be4709f4e30684185fc561.png",
+			"previous": " that is the conditional entropy of a symbol given all the previous symbols generated For the more general case of a process that is not necessarily stationary the average rate is",
+			"after": " that is the limit of the joint entropy per symbol For stationary sources these two expressions give the same result 10 ",
+			"color": "dim|0.37956 gray|0.37956 dim|0.37956 grey|0.37956 gray|0.27651 grey|0.27651 dark|0.18317 gray|0.18317 dark|0.18317 grey|0.18317 silver|0.076441 light|0.036347 gray|0.036347 light|0.036347 grey|0.036347 gainsboro|0.026068 white|0.0050103 smoke|0.0050103  ",
+			"after_weights": " that|1 is|0.95238 the|0.90476 limit|0.85714 of|0.80952 the|0.7619 joint|0.71429 entropy|0.66667 per|0.61905 symbol|0.57143 For|0.52381 stationary|0.47619 sources|0.42857 these|0.38095 two|0.33333 expressions|0.28571 give|0.2381 the|0.19048 same|0.14286 result|0.095238 10|0.047619 |0",
+			"previous_weights": " that|0 is|0.033333 the|0.066667 conditional|0.1 entropy|0.13333 of|0.16667 a|0.2 symbol|0.23333 given|0.26667 all|0.3 the|0.33333 previous|0.36667 symbols|0.4 generated|0.43333 For|0.46667 the|0.5 more|0.53333 general|0.56667 case|0.6 of|0.63333 a|0.66667 process|0.7 that|0.73333 is|0.76667 not|0.8 necessarily|0.83333 stationary|0.86667 the|0.9 average|0.93333 rate|0.96667 is|1"
+		}
+	}
+}

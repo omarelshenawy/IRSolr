@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Midwestern_American_English_monophthongs_chart.svg/200px-Midwestern_American_English_monophthongs_chart.svg.png",
 			"previous": " A table containing the consonant phonemes is given below ",
 			"after": " General American has eleven or twelve pure vowel sounds or monophthongs that can be used in stressed syllables for some typically in diphthongized combinations as well as two to three vowels that can be heard only in unstressed syllables The monophthongs of General American are shown in the table below ",
+			"color": "black|0.64236 dim|0.26365 gray|0.26365 dim|0.26365 grey|0.26365 gray|0.067424 grey|0.067424 dark|0.024124 gray|0.024124 dark|0.024124 grey|0.024124  ",
 			"after_weights": " General|1 American|0.98 has|0.96 eleven|0.94 or|0.92 twelve|0.9 pure|0.88 vowel|0.86 sounds|0.84 or|0.82 monophthongs|0.8 that|0.78 can|0.76 be|0.74 used|0.72 in|0.7 stressed|0.68 syllables|0.66 for|0.64 some|0.62 typically|0.6 in|0.58 diphthongized|0.56 combinations|0.54 as|0.52 well|0.5 as|0.48 two|0.46 to|0.44 three|0.42 vowels|0.4 that|0.38 can|0.36 be|0.34 heard|0.32 only|0.3 in|0.28 unstressed|0.26 syllables|0.24 The|0.22 monophthongs|0.2 of|0.18 General|0.16 American|0.14 are|0.12 shown|0.1 in|0.08 the|0.06 table|0.04 below|0.02 |0",
 			"previous_weights": " A|0 table|0.11111 containing|0.22222 the|0.33333 consonant|0.44444 phonemes|0.55556 is|0.66667 given|0.77778 below|0.88889 |1"
 		}

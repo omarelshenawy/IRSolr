@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "83d9c4b214329edbc9f64df4c5a4a6f6a21211ccc51e817a53e76101b376376e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Towers_Schiphol_small.jpg/170px-Towers_Schiphol_small.jpg",
+			"previous": " ",
+			"after": " Air traffic control ATC involves communication with aircraft to help maintain separation that is they ensure that aircraft are sufficiently far enough apart horizontally or vertically for no risk of collision Controllers may co ordinate position reports provided by pilots or in high traffic areas such as the United States they may use radar to see aircraft positions ",
+			"color": "black|0.88953 dim|0.063663 gray|0.063663 dim|0.063663 grey|0.063663 gray|0.023891 grey|0.023891  ",
+			"after_weights": " Air|1 traffic|0.98276 control|0.96552 ATC|0.94828 involves|0.93103 communication|0.91379 with|0.89655 aircraft|0.87931 to|0.86207 help|0.84483 maintain|0.82759 separation|0.81034 that|0.7931 is|0.77586 they|0.75862 ensure|0.74138 that|0.72414 aircraft|0.7069 are|0.68966 sufficiently|0.67241 far|0.65517 enough|0.63793 apart|0.62069 horizontally|0.60345 or|0.58621 vertically|0.56897 for|0.55172 no|0.53448 risk|0.51724 of|0.5 collision|0.48276 Controllers|0.46552 may|0.44828 co|0.43103 ordinate|0.41379 position|0.39655 reports|0.37931 provided|0.36207 by|0.34483 pilots|0.32759 or|0.31034 in|0.2931 high|0.27586 traffic|0.25862 areas|0.24138 such|0.22414 as|0.2069 the|0.18966 United|0.17241 States|0.15517 they|0.13793 may|0.12069 use|0.10345 radar|0.086207 to|0.068966 see|0.051724 aircraft|0.034483 positions|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

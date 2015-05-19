@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "471545dfd43baad2618f7b1f0d6a61b468c7cc1e48881fbf0d7935cc0488e0db",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Royal_Jordanian_A330-200_AVOD.JPG/220px-Royal_Jordanian_A330-200_AVOD.JPG",
+			"previous": " Royal Jordanian s onboard entertainment system is called Sky Cinema  Royal Jordanian remains one of only five international airlines in the world to offer its Economy Class passengers three meal options to choose from beef fish or poultry on any flight of over two hours duration The other 4 airlines that offer Economy class passengers 3 choices are Singapore Airlines Etihad Airways Emirates and Virgin Atlantic ",
+			"after": " Interactive games are available in all classes on all flights as well as news provided by CNN on all flights ",
+			"color": "dim|0.27911 gray|0.27911 dim|0.27911 grey|0.27911 dark|0.2045 gray|0.2045 dark|0.2045 grey|0.2045 gray|0.18554 grey|0.18554 silver|0.090738 black|0.080532 light|0.041111 gray|0.041111 light|0.041111 grey|0.041111 gainsboro|0.027903 light|0.025704 slate|0.025704 gray|0.025704 slate|0.019616 gray|0.019616 light|0.012532 steel|0.012532 blue|0.012532 rosy|0.0098203 brown|0.0098203  ",
+			"after_weights": " Interactive|1 games|0.95 are|0.9 available|0.85 in|0.8 all|0.75 classes|0.7 on|0.65 all|0.6 flights|0.55 as|0.5 well|0.45 as|0.4 news|0.35 provided|0.3 by|0.25 CNN|0.2 on|0.15 all|0.1 flights|0.05 |0",
+			"previous_weights": " Royal|0 Jordanian|0.014925 s|0.029851 onboard|0.044776 entertainment|0.059701 system|0.074627 is|0.089552 called|0.10448 Sky|0.1194 Cinema|0.13433 |0.14925 Royal|0.16418 Jordanian|0.1791 remains|0.19403 one|0.20896 of|0.22388 only|0.23881 five|0.25373 international|0.26866 airlines|0.28358 in|0.29851 the|0.31343 world|0.32836 to|0.34328 offer|0.35821 its|0.37313 Economy|0.38806 Class|0.40299 passengers|0.41791 three|0.43284 meal|0.44776 options|0.46269 to|0.47761 choose|0.49254 from|0.50746 beef|0.52239 fish|0.53731 or|0.55224 poultry|0.56716 on|0.58209 any|0.59701 flight|0.61194 of|0.62687 over|0.64179 two|0.65672 hours|0.67164 duration|0.68657 The|0.70149 other|0.71642 4|0.73134 airlines|0.74627 that|0.76119 offer|0.77612 Economy|0.79104 class|0.80597 passengers|0.8209 3|0.83582 choices|0.85075 are|0.86567 Singapore|0.8806 Airlines|0.89552 Etihad|0.91045 Airways|0.92537 Emirates|0.9403 and|0.95522 Virgin|0.97015 Atlantic|0.98507 |1"
+		}
+	}
+}

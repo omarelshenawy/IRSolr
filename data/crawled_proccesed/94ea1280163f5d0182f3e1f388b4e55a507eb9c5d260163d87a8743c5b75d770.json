@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "94ea1280163f5d0182f3e1f388b4e55a507eb9c5d260163d87a8743c5b75d770",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Navy-e6-070403-03cr-6.jpg/220px-Navy-e6-070403-03cr-6.jpg",
+			"previous": " Codenamed Looking Glass it is United States Strategic Command USSTRATCOM s Airborne Command Post designed to take over in case the Global Operations Center GOC located at Offutt Air Force Base Nebraska is destroyed or incapable of communicating with strategic forces The term looking glass is used because it mirrors the abilities of the US Navy to control nuclear forces ",
+			"after": " Data from Navy Fact File 1  General characteristics",
+			"color": "dim|0.22302 gray|0.22302 dim|0.22302 grey|0.22302 slate|0.12092 gray|0.12092 light|0.11343 steel|0.11343 blue|0.11343 light|0.079516 slate|0.079516 gray|0.079516 gray|0.077575 grey|0.077575 lavender|0.070434 gainsboro|0.05635 light|0.045155 gray|0.045155 light|0.045155 grey|0.045155 black|0.039838 alice|0.034968 blue|0.034968 ghost|0.026186 white|0.026186 dark|0.023211 slate|0.023211 gray|0.023211 silver|0.022372 dark|0.020158 gray|0.020158 dark|0.020158 grey|0.020158 white|0.017511 smoke|0.017511 azure|0.008667 light|0.0043007 blue|0.0043007  ",
+			"after_weights": " Data|1 from|0.875 Navy|0.75 Fact|0.625 File|0.5 1|0.375 |0.25 General|0.125 characteristics|0",
+			"previous_weights": " Codenamed|0 Looking|0.016667 Glass|0.033333 it|0.05 is|0.066667 United|0.083333 States|0.1 Strategic|0.11667 Command|0.13333 USSTRATCOM|0.15 s|0.16667 Airborne|0.18333 Command|0.2 Post|0.21667 designed|0.23333 to|0.25 take|0.26667 over|0.28333 in|0.3 case|0.31667 the|0.33333 Global|0.35 Operations|0.36667 Center|0.38333 GOC|0.4 located|0.41667 at|0.43333 Offutt|0.45 Air|0.46667 Force|0.48333 Base|0.5 Nebraska|0.51667 is|0.53333 destroyed|0.55 or|0.56667 incapable|0.58333 of|0.6 communicating|0.61667 with|0.63333 strategic|0.65 forces|0.66667 The|0.68333 term|0.7 looking|0.71667 glass|0.73333 is|0.75 used|0.76667 because|0.78333 it|0.8 mirrors|0.81667 the|0.83333 abilities|0.85 of|0.86667 the|0.88333 US|0.9 Navy|0.91667 to|0.93333 control|0.95 nuclear|0.96667 forces|0.98333 |1"
+		}
+	}
+}

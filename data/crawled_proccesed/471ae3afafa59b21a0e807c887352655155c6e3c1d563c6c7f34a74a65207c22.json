@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "471ae3afafa59b21a0e807c887352655155c6e3c1d563c6c7f34a74a65207c22",
+			"url": "https://upload.wikimedia.org/math/c/8/2/c825a28b58e59254cebdcb0435b8d68c.png",
+			"previous": " As   where ",
+			"after": " From this total thrust can be obtained by integrating this expression along the blade The transverse force is found in a similar manner  Substituting for and multiplying by r gives torque as ",
+			"color": " ",
+			"after_weights": " From|1 this|0.9697 total|0.93939 thrust|0.90909 can|0.87879 be|0.84848 obtained|0.81818 by|0.78788 integrating|0.75758 this|0.72727 expression|0.69697 along|0.66667 the|0.63636 blade|0.60606 The|0.57576 transverse|0.54545 force|0.51515 is|0.48485 found|0.45455 in|0.42424 a|0.39394 similar|0.36364 manner|0.33333 |0.30303 Substituting|0.27273 for|0.24242 and|0.21212 multiplying|0.18182 by|0.15152 r|0.12121 gives|0.090909 torque|0.060606 as|0.030303 |0",
+			"previous_weights": " As|0 |0.25 |0.5 where|0.75 |1"
+		}
+	}
+}

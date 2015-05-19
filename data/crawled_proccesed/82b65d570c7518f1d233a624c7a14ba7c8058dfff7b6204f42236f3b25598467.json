@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "82b65d570c7518f1d233a624c7a14ba7c8058dfff7b6204f42236f3b25598467",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GoldenWhiteEye.jpg/220px-GoldenWhiteEye.jpg",
+			"previous": " ",
+			"after": " The range of the golden white eye has contracted considerably since the arrival of humans in the Mariana Islands Fossil bones of this species have been found on the nearby islands of Tinian and Rota and it may once have occurred on Guam and other islands in the Marianas 15 ",
+			"color": "gray|0.66253 grey|0.66253 dim|0.1505 gray|0.1505 dim|0.1505 grey|0.1505 dark|0.10898 gray|0.10898 dark|0.10898 grey|0.10898 dark|0.031571 slate|0.031571 gray|0.031571 light|0.025917 slate|0.025917 gray|0.025917 slate|0.013468 gray|0.013468  ",
+			"after_weights": " The|1 range|0.98 of|0.96 the|0.94 golden|0.92 white|0.9 eye|0.88 has|0.86 contracted|0.84 considerably|0.82 since|0.8 the|0.78 arrival|0.76 of|0.74 humans|0.72 in|0.7 the|0.68 Mariana|0.66 Islands|0.64 Fossil|0.62 bones|0.6 of|0.58 this|0.56 species|0.54 have|0.52 been|0.5 found|0.48 on|0.46 the|0.44 nearby|0.42 islands|0.4 of|0.38 Tinian|0.36 and|0.34 Rota|0.32 and|0.3 it|0.28 may|0.26 once|0.24 have|0.22 occurred|0.2 on|0.18 Guam|0.16 and|0.14 other|0.12 islands|0.1 in|0.08 the|0.06 Marianas|0.04 15|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

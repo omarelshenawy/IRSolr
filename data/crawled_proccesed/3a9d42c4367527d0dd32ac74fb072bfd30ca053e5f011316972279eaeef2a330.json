@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a9d42c4367527d0dd32ac74fb072bfd30ca053e5f011316972279eaeef2a330",
+			"url": "https://upload.wikimedia.org/math/6/a/a/6aa88ceeb8974c30c7da6e59d9fe7872.png",
+			"previous": " An aerofoil with a reflexed camber line is shown at right The thickness distribution for a NACA 4 series aerofoil was used with a 12 thickness ratio The equation for this thickness distribution is ",
+			"after": " Where t is the thickness ratio ",
+			"color": "dim|0.3673 gray|0.3673 dim|0.3673 grey|0.3673 gray|0.28678 grey|0.28678 dark|0.18008 gray|0.18008 dark|0.18008 grey|0.18008 silver|0.081252 light|0.039273 gray|0.039273 light|0.039273 grey|0.039273 gainsboro|0.02871 white|0.0043729 smoke|0.0043729  ",
+			"after_weights": " Where|1 t|0.83333 is|0.66667 the|0.5 thickness|0.33333 ratio|0.16667 |0",
+			"previous_weights": " An|0 aerofoil|0.029412 with|0.058824 a|0.088235 reflexed|0.11765 camber|0.14706 line|0.17647 is|0.20588 shown|0.23529 at|0.26471 right|0.29412 The|0.32353 thickness|0.35294 distribution|0.38235 for|0.41176 a|0.44118 NACA|0.47059 4|0.5 series|0.52941 aerofoil|0.55882 was|0.58824 used|0.61765 with|0.64706 a|0.67647 12|0.70588 thickness|0.73529 ratio|0.76471 The|0.79412 equation|0.82353 for|0.85294 this|0.88235 thickness|0.91176 distribution|0.94118 is|0.97059 |1"
+		}
+	}
+}

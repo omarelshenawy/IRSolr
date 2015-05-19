@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cebed359dbe25f7374c2ac675adc66bfe2a7e8a8b74fb10c12c72c75a186914",
+			"url": "https://upload.wikimedia.org/math/c/5/5/c551e541c87a4a9d1e3e9987e4fe1f88.png",
+			"previous": " It is expedient to use vector notation let let t be a parameter let be the parametric representation of a curve C and let be its tangent vector The optical length of the curve is given by",
+			"after": " Note that this integral is invariant with respect to changes in the parametric representation of C The Euler Lagrange equations for a minimizing curve have the symmetric form",
+			"color": "dim|0.34053 gray|0.34053 dim|0.34053 grey|0.34053 gray|0.28071 grey|0.28071 dark|0.1878 gray|0.1878 dark|0.1878 grey|0.1878 silver|0.073445 light|0.039718 gray|0.039718 light|0.039718 grey|0.039718 gainsboro|0.031094 black|0.020746 white|0.0086029 smoke|0.0086029 linen|0.0028753  ",
+			"after_weights": " Note|1 that|0.96296 this|0.92593 integral|0.88889 is|0.85185 invariant|0.81481 with|0.77778 respect|0.74074 to|0.7037 changes|0.66667 in|0.62963 the|0.59259 parametric|0.55556 representation|0.51852 of|0.48148 C|0.44444 The|0.40741 Euler|0.37037 Lagrange|0.33333 equations|0.2963 for|0.25926 a|0.22222 minimizing|0.18519 curve|0.14815 have|0.11111 the|0.074074 symmetric|0.037037 form|0",
+			"previous_weights": " It|0 is|0.027778 expedient|0.055556 to|0.083333 use|0.11111 vector|0.13889 notation|0.16667 let|0.19444 let|0.22222 t|0.25 be|0.27778 a|0.30556 parameter|0.33333 let|0.36111 be|0.38889 the|0.41667 parametric|0.44444 representation|0.47222 of|0.5 a|0.52778 curve|0.55556 C|0.58333 and|0.61111 let|0.63889 be|0.66667 its|0.69444 tangent|0.72222 vector|0.75 The|0.77778 optical|0.80556 length|0.83333 of|0.86111 the|0.88889 curve|0.91667 is|0.94444 given|0.97222 by|1"
+		}
+	}
+}

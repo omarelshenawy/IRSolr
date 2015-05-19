@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d4836d879eb5b20f8c3c6f119e000254449b6f21c45c9bee5bbeaa1b6896aa9",
+			"url": "https://upload.wikimedia.org/math/5/d/2/5d24df5a0bfbb13726b7fdb7587a487c.png",
+			"previous": " which is equivalent to",
+			"after": " where is the identity matrix It is a fundamental result of linear algebra that an equation has a non zero solution if and only if the determinant of the matrix is zero It follows that the eigenvalues of are precisely the real numbers that satisfy the equation",
+			"color": "dim|0.39942 gray|0.39942 dim|0.39942 grey|0.39942 gray|0.28046 grey|0.28046 dark|0.16677 gray|0.16677 dark|0.16677 grey|0.16677 silver|0.074495 light|0.038104 gray|0.038104 light|0.038104 grey|0.038104 gainsboro|0.026525 white|0.0035517 smoke|0.0035517  ",
+			"after_weights": " where|1 is|0.97826 the|0.95652 identity|0.93478 matrix|0.91304 It|0.8913 is|0.86957 a|0.84783 fundamental|0.82609 result|0.80435 of|0.78261 linear|0.76087 algebra|0.73913 that|0.71739 an|0.69565 equation|0.67391 has|0.65217 a|0.63043 non|0.6087 zero|0.58696 solution|0.56522 if|0.54348 and|0.52174 only|0.5 if|0.47826 the|0.45652 determinant|0.43478 of|0.41304 the|0.3913 matrix|0.36957 is|0.34783 zero|0.32609 It|0.30435 follows|0.28261 that|0.26087 the|0.23913 eigenvalues|0.21739 of|0.19565 are|0.17391 precisely|0.15217 the|0.13043 real|0.1087 numbers|0.086957 that|0.065217 satisfy|0.043478 the|0.021739 equation|0",
+			"previous_weights": " which|0 is|0.33333 equivalent|0.66667 to|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51c70bb0f5074d680f4348a597d9cf178df5530edc61bebd2c9443178db376ec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RunwayDiagram.png/650px-RunwayDiagram.png",
+			"previous": " There are runway markings and signs on most large runways Larger runways have a distance remaining sign black box with white numbers This sign uses a single number to indicate the thousands of feet remaining so 7 will indicate 7 000 ft 2 134 m remaining The runway threshold is marked by a line of green lights ",
+			"after": " There are three types of runways ",
+			"color": "chocolate|0.12295 sandy|0.12022 brown|0.12022 peach|0.084221 puff|0.084221 bisque|0.08324 saddle|0.04918 brown|0.04918 gray|0.044171 grey|0.044171 sea|0.035056 shell|0.035056 antique|0.033721 white|0.033721 papaya|0.032218 whip|0.032218 blanched|0.031839 almond|0.031839 sienna|0.030965 floral|0.030616 white|0.030616 snow|0.029916 white|0.029916 smoke|0.029916 linen|0.027786 white|0.025453 mint|0.024906 cream|0.024906 ghost|0.024178 white|0.024178 old|0.02305 lace|0.02305 lavender|0.018306 blush|0.018306 misty|0.0171 rose|0.0171 dim|0.015027 gray|0.015027 dim|0.015027 grey|0.015027 dark|0.013206 gray|0.013206 dark|0.013206 grey|0.013206 alice|0.012065 blue|0.012065 azure|0.011883 silver|0.011536 ivory|0.010565  ",
+			"after_weights": " There|1 are|0.83333 three|0.66667 types|0.5 of|0.33333 runways|0.16667 |0",
+			"previous_weights": " There|0 are|0.017544 runway|0.035088 markings|0.052632 and|0.070175 signs|0.087719 on|0.10526 most|0.12281 large|0.14035 runways|0.15789 Larger|0.17544 runways|0.19298 have|0.21053 a|0.22807 distance|0.24561 remaining|0.26316 sign|0.2807 black|0.29825 box|0.31579 with|0.33333 white|0.35088 numbers|0.36842 This|0.38596 sign|0.40351 uses|0.42105 a|0.4386 single|0.45614 number|0.47368 to|0.49123 indicate|0.50877 the|0.52632 thousands|0.54386 of|0.5614 feet|0.57895 remaining|0.59649 so|0.61404 7|0.63158 will|0.64912 indicate|0.66667 7|0.68421 000|0.70175 ft|0.7193 2|0.73684 134|0.75439 m|0.77193 remaining|0.78947 The|0.80702 runway|0.82456 threshold|0.84211 is|0.85965 marked|0.87719 by|0.89474 a|0.91228 line|0.92982 of|0.94737 green|0.96491 lights|0.98246 |1"
+		}
+	}
+}

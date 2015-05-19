@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6467809f6a4b14aabcea45ee4f63d1b436311e3dcb97846fcf12744a8cdd76ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Painted_turtle.jpg/150px-Painted_turtle.jpg",
+			"previous": " ",
+			"after": " The turtle eats aquatic vegetation algae and small water creatures including insects crustaceans and fish Although they are frequently consumed as eggs or hatchlings by rodents canines and snakes the adult turtles hard shells protect them from most predators except alligators and raccoons ",
+			"color": "black|0.20932 gray|0.17684 grey|0.17684 dark|0.14063 gray|0.14063 dark|0.14063 grey|0.14063 tan|0.095053 dim|0.059665 gray|0.059665 dim|0.059665 grey|0.059665 dark|0.056335 golden|0.056335 rod|0.056335 peru|0.047696 rosy|0.035817 brown|0.035817 silver|0.034707 golden|0.025738 rod|0.025738 peach|0.023973 puff|0.023973  ",
+			"after_weights": " The|1 turtle|0.97674 eats|0.95349 aquatic|0.93023 vegetation|0.90698 algae|0.88372 and|0.86047 small|0.83721 water|0.81395 creatures|0.7907 including|0.76744 insects|0.74419 crustaceans|0.72093 and|0.69767 fish|0.67442 Although|0.65116 they|0.62791 are|0.60465 frequently|0.5814 consumed|0.55814 as|0.53488 eggs|0.51163 or|0.48837 hatchlings|0.46512 by|0.44186 rodents|0.4186 canines|0.39535 and|0.37209 snakes|0.34884 the|0.32558 adult|0.30233 turtles|0.27907 hard|0.25581 shells|0.23256 protect|0.2093 them|0.18605 from|0.16279 most|0.13953 predators|0.11628 except|0.093023 alligators|0.069767 and|0.046512 raccoons|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

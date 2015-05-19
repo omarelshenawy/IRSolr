@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a2222a9c58bcde99d92aeb22e0ecf4517c62f4c62058f0b6028676b49ee586f",
+			"url": "https://upload.wikimedia.org/math/d/3/2/d32b2906f7ea23eb5baddfbc9e21d4fb.png",
+			"previous": " A north south opening hyperbola can be represented parametrically as",
+			"after": " In all formulae h k are the center coordinates of the hyperbola a is the length of the semi major axis and b is the length of the semi minor axis ",
+			"color": "dim|0.38241 gray|0.38241 dim|0.38241 grey|0.38241 gray|0.29194 grey|0.29194 dark|0.17426 gray|0.17426 dark|0.17426 grey|0.17426 silver|0.072938 light|0.035311 gray|0.035311 light|0.035311 grey|0.035311 gainsboro|0.024768 white|0.004079 smoke|0.004079  ",
+			"after_weights": " In|1 all|0.96774 formulae|0.93548 h|0.90323 k|0.87097 are|0.83871 the|0.80645 center|0.77419 coordinates|0.74194 of|0.70968 the|0.67742 hyperbola|0.64516 a|0.6129 is|0.58065 the|0.54839 length|0.51613 of|0.48387 the|0.45161 semi|0.41935 major|0.3871 axis|0.35484 and|0.32258 b|0.29032 is|0.25806 the|0.22581 length|0.19355 of|0.16129 the|0.12903 semi|0.096774 minor|0.064516 axis|0.032258 |0",
+			"previous_weights": " A|0 north|0.11111 south|0.22222 opening|0.33333 hyperbola|0.44444 can|0.55556 be|0.66667 represented|0.77778 parametrically|0.88889 as|1"
+		}
+	}
+}

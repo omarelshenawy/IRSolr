@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47f1b1c51a3187c4969d6ed8a716c62e9a3b8bd878c011ccb43ddda7b8fe9268",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Peel_Street%2C_Marsden%2C_West_Yorkshire.jpg/220px-Peel_Street%2C_Marsden%2C_West_Yorkshire.jpg",
+			"previous": " ",
+			"after": " Bus services run by First West Yorkshire operates the main services between Huddersfield and Marsden A local service run by JRT runs around the Marsden area before continuing to Slaithwaite A Trans Pennine service between Huddersfield and Manchester jointly operated by First Greater Manchester and First West Yorkshire passes through the village Until 1963 it was a Huddersfield trolleybus terminus ",
+			"color": "gray|0.2825 grey|0.2825 dim|0.24848 gray|0.24848 dim|0.24848 grey|0.24848 black|0.10818 dark|0.075373 gray|0.075373 dark|0.075373 grey|0.075373 slate|0.057821 gray|0.057821 silver|0.047387 light|0.024373 slate|0.024373 gray|0.024373 light|0.023227 gray|0.023227 light|0.023227 grey|0.023227 light|0.021698 steel|0.021698 blue|0.021698 tan|0.017954 gainsboro|0.013883  ",
+			"after_weights": " Bus|1 services|0.98333 run|0.96667 by|0.95 First|0.93333 West|0.91667 Yorkshire|0.9 operates|0.88333 the|0.86667 main|0.85 services|0.83333 between|0.81667 Huddersfield|0.8 and|0.78333 Marsden|0.76667 A|0.75 local|0.73333 service|0.71667 run|0.7 by|0.68333 JRT|0.66667 runs|0.65 around|0.63333 the|0.61667 Marsden|0.6 area|0.58333 before|0.56667 continuing|0.55 to|0.53333 Slaithwaite|0.51667 A|0.5 Trans|0.48333 Pennine|0.46667 service|0.45 between|0.43333 Huddersfield|0.41667 and|0.4 Manchester|0.38333 jointly|0.36667 operated|0.35 by|0.33333 First|0.31667 Greater|0.3 Manchester|0.28333 and|0.26667 First|0.25 West|0.23333 Yorkshire|0.21667 passes|0.2 through|0.18333 the|0.16667 village|0.15 Until|0.13333 1963|0.11667 it|0.1 was|0.083333 a|0.066667 Huddersfield|0.05 trolleybus|0.033333 terminus|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

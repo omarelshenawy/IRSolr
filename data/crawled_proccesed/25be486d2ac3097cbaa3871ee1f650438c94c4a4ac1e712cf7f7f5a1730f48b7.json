@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25be486d2ac3097cbaa3871ee1f650438c94c4a4ac1e712cf7f7f5a1730f48b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/C-8A_Buffalo.jpg/220px-C-8A_Buffalo.jpg",
+			"previous": " ",
+			"after": " In late 1965 one of the prototype DHC 5s operated by the U S Army was deployed to Bien Hoa Air Base in South Vietnam for a three month evaluation period assigned to the 2nd Flight Platoon of the 92nd Aviation Company 17 ",
+			"color": "dim|0.41114 gray|0.41114 dim|0.41114 grey|0.41114 gray|0.21986 grey|0.21986 dark|0.18732 gray|0.18732 dark|0.18732 grey|0.18732 silver|0.084678 light|0.044698 gray|0.044698 light|0.044698 grey|0.044698 gainsboro|0.032835 white|0.0039857 smoke|0.0039857  ",
+			"after_weights": " In|1 late|0.97674 1965|0.95349 one|0.93023 of|0.90698 the|0.88372 prototype|0.86047 DHC|0.83721 5s|0.81395 operated|0.7907 by|0.76744 the|0.74419 U|0.72093 S|0.69767 Army|0.67442 was|0.65116 deployed|0.62791 to|0.60465 Bien|0.5814 Hoa|0.55814 Air|0.53488 Base|0.51163 in|0.48837 South|0.46512 Vietnam|0.44186 for|0.4186 a|0.39535 three|0.37209 month|0.34884 evaluation|0.32558 period|0.30233 assigned|0.27907 to|0.25581 the|0.23256 2nd|0.2093 Flight|0.18605 Platoon|0.16279 of|0.13953 the|0.11628 92nd|0.093023 Aviation|0.069767 Company|0.046512 17|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

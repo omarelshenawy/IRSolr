@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "270d27186eced3a4529cfb4aed4e1b6f7e8dbdd497c9b0c476349f3df4887090",
+			"url": "https://upload.wikimedia.org/math/3/e/b/3eb90412968876ebfd0006dcc5281a0c.png",
+			"previous": " that is ",
+			"after": " only in Cartesian coordinates It s the covariant derivative which transforms in manifest covariance in Cartesian coordinates this happens to reduce to the partial derivatives but not in other coordinates ",
+			"color": "dim|0.3974 gray|0.3974 dim|0.3974 grey|0.3974 gray|0.26141 grey|0.26141 dark|0.15406 gray|0.15406 dark|0.15406 grey|0.15406 silver|0.066024 black|0.054339 light|0.031512 gray|0.031512 light|0.031512 grey|0.031512 gainsboro|0.021399  ",
+			"after_weights": " only|1 in|0.96667 Cartesian|0.93333 coordinates|0.9 It|0.86667 s|0.83333 the|0.8 covariant|0.76667 derivative|0.73333 which|0.7 transforms|0.66667 in|0.63333 manifest|0.6 covariance|0.56667 in|0.53333 Cartesian|0.5 coordinates|0.46667 this|0.43333 happens|0.4 to|0.36667 reduce|0.33333 to|0.3 the|0.26667 partial|0.23333 derivatives|0.2 but|0.16667 not|0.13333 in|0.1 other|0.066667 coordinates|0.033333 |0",
+			"previous_weights": " that|0 is|0.5 |1"
+		}
+	}
+}

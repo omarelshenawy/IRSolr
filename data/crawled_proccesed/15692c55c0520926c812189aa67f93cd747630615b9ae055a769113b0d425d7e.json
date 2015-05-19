@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15692c55c0520926c812189aa67f93cd747630615b9ae055a769113b0d425d7e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Douglas_DC-9-30_Allegheny_N993VJ.png/220px-Douglas_DC-9-30_Allegheny_N993VJ.png",
+			"previous": " As of March 2009 the DC 9 has been involved in 117 aviation occurrences including 101 hull loss accidents 24 with 2 135 fatalities combined 25 ",
+			"after": " Source Jane s All The World s Aircraft 1976 77 60 except where specified ",
+			"color": "dark|0.10822 gray|0.10822 dark|0.10822 grey|0.10822 gray|0.094994 grey|0.094994 dim|0.092162 gray|0.092162 dim|0.092162 grey|0.092162 light|0.064661 gray|0.064661 light|0.064661 grey|0.064661 silver|0.061929 gainsboro|0.059746 white|0.057096 smoke|0.057096 alice|0.046106 blue|0.046106 ghost|0.044833 white|0.044833 snow|0.043195 sea|0.042366 shell|0.042366 lavender|0.040222 blush|0.040222 white|0.035588 mint|0.031296 cream|0.031296 azure|0.027132 floral|0.026614 white|0.026614 midnight|0.023193 blue|0.023193 linen|0.021577 navy|0.015833 dark|0.012472 blue|0.012472 dark|0.012133 slate|0.012133 blue|0.012133 light|0.0072734 steel|0.0072734 blue|0.0072734 rosy|0.0063583 brown|0.0063583 ivory|0.0032628  ",
+			"after_weights": " Source|1 Jane|0.92857 s|0.85714 All|0.78571 The|0.71429 World|0.64286 s|0.57143 Aircraft|0.5 1976|0.42857 77|0.35714 60|0.28571 except|0.21429 where|0.14286 specified|0.071429 |0",
+			"previous_weights": " As|0 of|0.038462 March|0.076923 2009|0.11538 the|0.15385 DC|0.19231 9|0.23077 has|0.26923 been|0.30769 involved|0.34615 in|0.38462 117|0.42308 aviation|0.46154 occurrences|0.5 including|0.53846 101|0.57692 hull|0.61538 loss|0.65385 accidents|0.69231 24|0.73077 with|0.76923 2|0.80769 135|0.84615 fatalities|0.88462 combined|0.92308 25|0.96154 |1"
+		}
+	}
+}

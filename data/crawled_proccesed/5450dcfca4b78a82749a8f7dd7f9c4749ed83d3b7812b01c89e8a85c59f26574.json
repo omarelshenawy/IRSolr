@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5450dcfca4b78a82749a8f7dd7f9c4749ed83d3b7812b01c89e8a85c59f26574",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/BARRA_AIRPORT_ISLE_OF_BARRA_WESTERN_ISLES_SCOTLAND_SEP_2010_%285039545497%29.jpg/220px-BARRA_AIRPORT_ISLE_OF_BARRA_WESTERN_ISLES_SCOTLAND_SEP_2010_%285039545497%29.jpg",
+			"previous": " After CityJet had terminated its services between Dundee and London City Airport in January 2014 Loganair took over the route operating From Dundee to London Stansted Airport with the support of a PSO agreement 14 ",
+			"after": " ",
+			"color": "tan|0.56799 black|0.12624 peach|0.085904 puff|0.085904 burly|0.052535 wood|0.052535 bisque|0.040941 wheat|0.035498 blanched|0.016504 almond|0.016504  ",
+			"after_weights": " ",
+			"previous_weights": " After|0 CityJet|0.028571 had|0.057143 terminated|0.085714 its|0.11429 services|0.14286 between|0.17143 Dundee|0.2 and|0.22857 London|0.25714 City|0.28571 Airport|0.31429 in|0.34286 January|0.37143 2014|0.4 Loganair|0.42857 took|0.45714 over|0.48571 the|0.51429 route|0.54286 operating|0.57143 From|0.6 Dundee|0.62857 to|0.65714 London|0.68571 Stansted|0.71429 Airport|0.74286 with|0.77143 the|0.8 support|0.82857 of|0.85714 a|0.88571 PSO|0.91429 agreement|0.94286 14|0.97143 |1"
+		}
+	}
+}

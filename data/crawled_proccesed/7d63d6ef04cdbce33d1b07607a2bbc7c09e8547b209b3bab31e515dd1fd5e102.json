@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d63d6ef04cdbce33d1b07607a2bbc7c09e8547b209b3bab31e515dd1fd5e102",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Columbia.sts-1.01.jpg/300px-Columbia.sts-1.01.jpg",
+			"previous": " ",
+			"after": " Space Shuttle Columbia NASA Orbiter Vehicle Designation OV 102 was the first spaceworthy space shuttle in NASA s orbital fleet Its first mission STS 1 lasted from April 12 to April 14 1981 On February 1 2003 Columbia disintegrated during re entry over Texas on its 28th mission killing all seven crew members ",
+			"color": "black|0.61265 dim|0.083395 gray|0.083395 dim|0.083395 grey|0.083395 gray|0.052288 grey|0.052288 dark|0.034628 slate|0.034628 gray|0.034628 rosy|0.029672 brown|0.029672 dark|0.0207 gray|0.0207 dark|0.0207 grey|0.0207 tan|0.020505 silver|0.013267 light|0.008831 gray|0.008831 light|0.008831 grey|0.008831  ",
+			"after_weights": " Space|1 Shuttle|0.98113 Columbia|0.96226 NASA|0.9434 Orbiter|0.92453 Vehicle|0.90566 Designation|0.88679 OV|0.86792 102|0.84906 was|0.83019 the|0.81132 first|0.79245 spaceworthy|0.77358 space|0.75472 shuttle|0.73585 in|0.71698 NASA|0.69811 s|0.67925 orbital|0.66038 fleet|0.64151 Its|0.62264 first|0.60377 mission|0.58491 STS|0.56604 1|0.54717 lasted|0.5283 from|0.50943 April|0.49057 12|0.4717 to|0.45283 April|0.43396 14|0.41509 1981|0.39623 On|0.37736 February|0.35849 1|0.33962 2003|0.32075 Columbia|0.30189 disintegrated|0.28302 during|0.26415 re|0.24528 entry|0.22642 over|0.20755 Texas|0.18868 on|0.16981 its|0.15094 28th|0.13208 mission|0.11321 killing|0.09434 all|0.075472 seven|0.056604 crew|0.037736 members|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

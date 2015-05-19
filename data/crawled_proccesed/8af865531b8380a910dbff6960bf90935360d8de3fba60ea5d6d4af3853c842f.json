@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8af865531b8380a910dbff6960bf90935360d8de3fba60ea5d6d4af3853c842f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Skein-relation-link22-minus-sm.png",
+			"previous": " gives the unknot and the Hopf link Applying the relation to the Hopf link where indicated ",
+			"after": " gives a link deformable to one with 0 crossings it is actually the unlink of two components and an unknot The unlink takes a bit of sneakiness ",
+			"color": "black|0.423 dark|0.086758 khaki|0.086758 dim|0.044417 gray|0.044417 dim|0.044417 grey|0.044417 pale|0.041649 golden|0.041649 rod|0.041649 khaki|0.038398 gray|0.032932 grey|0.032932 lemon|0.029864 chiffon|0.029864 dark|0.029404 gray|0.029404 dark|0.029404 grey|0.029404 light|0.024042 golden|0.024042 rod|0.024042 yellow|0.024042 light|0.018649 yellow|0.018649 silver|0.01785 floral|0.016025 white|0.016025 ivory|0.015493 corn|0.014859 silk|0.014859 sea|0.013787 shell|0.013787 beige|0.013757 mint|0.013397 cream|0.013397 white|0.012636 smoke|0.012636 white|0.012207 snow|0.011991 light|0.011957 gray|0.011957 light|0.011957 grey|0.011957  ",
+			"after_weights": " gives|1 a|0.96296 link|0.92593 deformable|0.88889 to|0.85185 one|0.81481 with|0.77778 0|0.74074 crossings|0.7037 it|0.66667 is|0.62963 actually|0.59259 the|0.55556 unlink|0.51852 of|0.48148 two|0.44444 components|0.40741 and|0.37037 an|0.33333 unknot|0.2963 The|0.25926 unlink|0.22222 takes|0.18519 a|0.14815 bit|0.11111 of|0.074074 sneakiness|0.037037 |0",
+			"previous_weights": " gives|0 the|0.0625 unknot|0.125 and|0.1875 the|0.25 Hopf|0.3125 link|0.375 Applying|0.4375 the|0.5 relation|0.5625 to|0.625 the|0.6875 Hopf|0.75 link|0.8125 where|0.875 indicated|0.9375 |1"
+		}
+	}
+}

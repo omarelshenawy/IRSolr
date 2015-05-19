@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "150ddc534c288555d1cf1c50e20bf2bddd274758fafd0626d62ce29ffb2d7986",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Emirates_Boeing_777F_%28A6-EFM%29_arrives_London_Heathrow_11Apr2015_arp.jpg/220px-Emirates_Boeing_777F_%28A6-EFM%29_arrives_London_Heathrow_11Apr2015_arp.jpg",
+			"previous": " Freight divisions of passenger airlines operating their own or leased freighter aircraft some shut down or merged with others ",
+			"after": " Freight divisions without fleet using passenger aircraft belly hold or having other cargo airlines fly on their behalf some of these previously had freighters ",
+			"color": "light|0.18081 steel|0.18081 blue|0.18081 light|0.13875 slate|0.13875 gray|0.13875 dim|0.11727 gray|0.11727 dim|0.11727 grey|0.11727 dark|0.11603 gray|0.11603 dark|0.11603 grey|0.11603 silver|0.11449 light|0.069576 gray|0.069576 light|0.069576 grey|0.069576 black|0.0611 gray|0.059874 grey|0.059874 gainsboro|0.049743 slate|0.024545 gray|0.024545 lavender|0.018873  ",
+			"after_weights": " Freight|1 divisions|0.95833 without|0.91667 fleet|0.875 using|0.83333 passenger|0.79167 aircraft|0.75 belly|0.70833 hold|0.66667 or|0.625 having|0.58333 other|0.54167 cargo|0.5 airlines|0.45833 fly|0.41667 on|0.375 their|0.33333 behalf|0.29167 some|0.25 of|0.20833 these|0.16667 previously|0.125 had|0.083333 freighters|0.041667 |0",
+			"previous_weights": " Freight|0 divisions|0.052632 of|0.10526 passenger|0.15789 airlines|0.21053 operating|0.26316 their|0.31579 own|0.36842 or|0.42105 leased|0.47368 freighter|0.52632 aircraft|0.57895 some|0.63158 shut|0.68421 down|0.73684 or|0.78947 merged|0.84211 with|0.89474 others|0.94737 |1"
+		}
+	}
+}

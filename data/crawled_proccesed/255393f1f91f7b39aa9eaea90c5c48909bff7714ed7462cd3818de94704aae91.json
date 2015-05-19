@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "255393f1f91f7b39aa9eaea90c5c48909bff7714ed7462cd3818de94704aae91",
+			"url": "https://upload.wikimedia.org/math/4/8/2/482fe1f6bec9e4a2919383e9f0c37743.png",
+			"previous": " This can be simplified by starting again with a depressed quartic where which can be obtained by substituting for then and  By equating coefficients this results in the following set of simultaneous equations ",
+			"after": " One can now eliminate both and by doing the following  If we set then this equation turns into the resolvent cubic equation",
+			"color": " ",
+			"after_weights": " One|1 can|0.95455 now|0.90909 eliminate|0.86364 both|0.81818 and|0.77273 by|0.72727 doing|0.68182 the|0.63636 following|0.59091 |0.54545 If|0.5 we|0.45455 set|0.40909 then|0.36364 this|0.31818 equation|0.27273 turns|0.22727 into|0.18182 the|0.13636 resolvent|0.090909 cubic|0.045455 equation|0",
+			"previous_weights": " This|0 can|0.029412 be|0.058824 simplified|0.088235 by|0.11765 starting|0.14706 again|0.17647 with|0.20588 a|0.23529 depressed|0.26471 quartic|0.29412 where|0.32353 which|0.35294 can|0.38235 be|0.41176 obtained|0.44118 by|0.47059 substituting|0.5 for|0.52941 then|0.55882 and|0.58824 |0.61765 By|0.64706 equating|0.67647 coefficients|0.70588 this|0.73529 results|0.76471 in|0.79412 the|0.82353 following|0.85294 set|0.88235 of|0.91176 simultaneous|0.94118 equations|0.97059 |1"
+		}
+	}
+}

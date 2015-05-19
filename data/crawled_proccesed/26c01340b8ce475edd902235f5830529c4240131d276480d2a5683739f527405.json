@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "26c01340b8ce475edd902235f5830529c4240131d276480d2a5683739f527405",
+			"url": "https://upload.wikimedia.org/math/4/f/6/4f697c9cdd507ac00e6cb40e54ad9bd3.png",
+			"previous": " In the case of a simple planetary gear train formed by a carrier supporting a planet gear engaged with a sun and annular gear the fixed carrier train ratio is computed as the speed ratio of the gear train formed by the sun planet and annular gears on the fixed carrier This is given by ",
+			"after": " In this calculation the planet gear is an idler gear ",
+			"color": "dim|0.39373 gray|0.39373 dim|0.39373 grey|0.39373 gray|0.25107 grey|0.25107 dark|0.15361 gray|0.15361 dark|0.15361 grey|0.15361 silver|0.074905 light|0.040932 gray|0.040932 light|0.040932 grey|0.040932 black|0.035703 gainsboro|0.02909 white|0.0049828 smoke|0.0049828  ",
+			"after_weights": " In|1 this|0.9 calculation|0.8 the|0.7 planet|0.6 gear|0.5 is|0.4 an|0.3 idler|0.2 gear|0.1 |0",
+			"previous_weights": " In|0 the|0.018182 case|0.036364 of|0.054545 a|0.072727 simple|0.090909 planetary|0.10909 gear|0.12727 train|0.14545 formed|0.16364 by|0.18182 a|0.2 carrier|0.21818 supporting|0.23636 a|0.25455 planet|0.27273 gear|0.29091 engaged|0.30909 with|0.32727 a|0.34545 sun|0.36364 and|0.38182 annular|0.4 gear|0.41818 the|0.43636 fixed|0.45455 carrier|0.47273 train|0.49091 ratio|0.50909 is|0.52727 computed|0.54545 as|0.56364 the|0.58182 speed|0.6 ratio|0.61818 of|0.63636 the|0.65455 gear|0.67273 train|0.69091 formed|0.70909 by|0.72727 the|0.74545 sun|0.76364 planet|0.78182 and|0.8 annular|0.81818 gears|0.83636 on|0.85455 the|0.87273 fixed|0.89091 carrier|0.90909 This|0.92727 is|0.94545 given|0.96364 by|0.98182 |1"
+		}
+	}
+}

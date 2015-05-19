@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f8659126444c601bebfbf77294dffbaf1602a74ebe4926cf791e7da602590eb",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/WinnipesaukeeSunset.JPG/180px-WinnipesaukeeSunset.JPG",
+			"previous": " ",
+			"after": " Lake Winnipesaukee is the largest lake in New Hampshire It is approximately 21 miles 34 km long northwest southeast and from one to nine miles 1 6 to 15 km wide northeast southwest covering 69 square miles 180 km 71 square miles when Paugus Bay is included 1 with a maximum depth of 212 feet 64 6 meters ",
+			"color": "black|0.80229 dark|0.10721 salmon|0.10721 light|0.029339 salmon|0.029339 rosy|0.013889 brown|0.013889 dim|0.013494 gray|0.013494 dim|0.013494 grey|0.013494 gray|0.0076389 grey|0.0076389 sandy|0.0046428 brown|0.0046428  ",
+			"after_weights": " Lake|1 Winnipesaukee|0.98276 is|0.96552 the|0.94828 largest|0.93103 lake|0.91379 in|0.89655 New|0.87931 Hampshire|0.86207 It|0.84483 is|0.82759 approximately|0.81034 21|0.7931 miles|0.77586 34|0.75862 km|0.74138 long|0.72414 northwest|0.7069 southeast|0.68966 and|0.67241 from|0.65517 one|0.63793 to|0.62069 nine|0.60345 miles|0.58621 1|0.56897 6|0.55172 to|0.53448 15|0.51724 km|0.5 wide|0.48276 northeast|0.46552 southwest|0.44828 covering|0.43103 69|0.41379 square|0.39655 miles|0.37931 180|0.36207 km|0.34483 71|0.32759 square|0.31034 miles|0.2931 when|0.27586 Paugus|0.25862 Bay|0.24138 is|0.22414 included|0.2069 1|0.18966 with|0.17241 a|0.15517 maximum|0.13793 depth|0.12069 of|0.10345 212|0.086207 feet|0.068966 64|0.051724 6|0.034483 meters|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

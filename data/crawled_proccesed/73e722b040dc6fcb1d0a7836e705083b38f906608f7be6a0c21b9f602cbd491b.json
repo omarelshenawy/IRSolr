@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73e722b040dc6fcb1d0a7836e705083b38f906608f7be6a0c21b9f602cbd491b",
+			"url": "https://upload.wikimedia.org/math/3/e/6/3e61f4738d040f40016489a67e01b0ce.png",
+			"previous": " Eigenvalue problems in higher dimensions are defined in analogy with the one dimensional case For example given a domain D with boundary B in three dimensions we may define These latter conditions are the natural boundary conditions for this problem since they are not imposed on trial functions for the minimization but are instead a consequence of the minimization ",
+			"after": " and Let u be the function that minimizes the quotient with no condition prescribed on the boundary B The Euler Lagrange equation satisfied by u is",
+			"color": "dim|0.34071 gray|0.34071 dim|0.34071 grey|0.34071 gray|0.30057 grey|0.30057 dark|0.19659 gray|0.19659 dark|0.19659 grey|0.19659 silver|0.081193 light|0.03694 gray|0.03694 light|0.03694 grey|0.03694 gainsboro|0.026049 white|0.0044014 smoke|0.0044014  ",
+			"after_weights": " and|1 Let|0.96 u|0.92 be|0.88 the|0.84 function|0.8 that|0.76 minimizes|0.72 the|0.68 quotient|0.64 with|0.6 no|0.56 condition|0.52 prescribed|0.48 on|0.44 the|0.4 boundary|0.36 B|0.32 The|0.28 Euler|0.24 Lagrange|0.2 equation|0.16 satisfied|0.12 by|0.08 u|0.04 is|0",
+			"previous_weights": " Eigenvalue|0 problems|0.016949 in|0.033898 higher|0.050847 dimensions|0.067797 are|0.084746 defined|0.10169 in|0.11864 analogy|0.13559 with|0.15254 the|0.16949 one|0.18644 dimensional|0.20339 case|0.22034 For|0.23729 example|0.25424 given|0.27119 a|0.28814 domain|0.30508 D|0.32203 with|0.33898 boundary|0.35593 B|0.37288 in|0.38983 three|0.40678 dimensions|0.42373 we|0.44068 may|0.45763 define|0.47458 These|0.49153 latter|0.50847 conditions|0.52542 are|0.54237 the|0.55932 natural|0.57627 boundary|0.59322 conditions|0.61017 for|0.62712 this|0.64407 problem|0.66102 since|0.67797 they|0.69492 are|0.71186 not|0.72881 imposed|0.74576 on|0.76271 trial|0.77966 functions|0.79661 for|0.81356 the|0.83051 minimization|0.84746 but|0.86441 are|0.88136 instead|0.89831 a|0.91525 consequence|0.9322 of|0.94915 the|0.9661 minimization|0.98305 |1"
+		}
+	}
+}

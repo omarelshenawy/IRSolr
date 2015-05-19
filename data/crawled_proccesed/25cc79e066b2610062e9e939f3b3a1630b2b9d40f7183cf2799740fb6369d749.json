@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25cc79e066b2610062e9e939f3b3a1630b2b9d40f7183cf2799740fb6369d749",
+			"url": "https://upload.wikimedia.org/math/1/f/b/1fb051c209369b7f11cb7dea48c3088a.png",
+			"previous": " A number of theorems can be derived from inspecting Fp in this abstract way For example Fermat s little theorem stating",
+			"after": " for any integer a not divisible by p may be proved using these notions This implies",
+			"color": "dim|0.35255 gray|0.35255 dim|0.35255 grey|0.35255 gray|0.27526 grey|0.27526 dark|0.1837 gray|0.1837 dark|0.1837 grey|0.1837 silver|0.08728 light|0.044787 gray|0.044787 light|0.044787 grey|0.044787 gainsboro|0.033123 white|0.0053492 smoke|0.0053492  ",
+			"after_weights": " for|1 any|0.93333 integer|0.86667 a|0.8 not|0.73333 divisible|0.66667 by|0.6 p|0.53333 may|0.46667 be|0.4 proved|0.33333 using|0.26667 these|0.2 notions|0.13333 This|0.066667 implies|0",
+			"previous_weights": " A|0 number|0.05 of|0.1 theorems|0.15 can|0.2 be|0.25 derived|0.3 from|0.35 inspecting|0.4 Fp|0.45 in|0.5 this|0.55 abstract|0.6 way|0.65 For|0.7 example|0.75 Fermat|0.8 s|0.85 little|0.9 theorem|0.95 stating|1"
+		}
+	}
+}

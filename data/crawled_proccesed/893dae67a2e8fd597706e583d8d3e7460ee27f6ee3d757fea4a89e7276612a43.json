@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "893dae67a2e8fd597706e583d8d3e7460ee27f6ee3d757fea4a89e7276612a43",
+			"url": "https://upload.wikimedia.org/math/5/9/8/5989d34677ddf859c44500915c53b9b2.png",
+			"previous": " The rate of energy production per unit surface area is given by where is the density of near surface air kg m3 and is the near surface wind speed m s ",
+			"after": " Heat enthalpy per unit mass is given by where is the heat capacity of air is air temperature is the latent heat of vaporization and is the concentration of water vapor The first component corresponds to sensible heat and the second to latent heat ",
+			"color": "black|0.54112 dim|0.17762 gray|0.17762 dim|0.17762 grey|0.17762 gray|0.12647 grey|0.12647 dark|0.085946 gray|0.085946 dark|0.085946 grey|0.085946 silver|0.035916 light|0.017118 gray|0.017118 light|0.017118 grey|0.017118 gainsboro|0.01129  ",
+			"after_weights": " Heat|1 enthalpy|0.97727 per|0.95455 unit|0.93182 mass|0.90909 is|0.88636 given|0.86364 by|0.84091 where|0.81818 is|0.79545 the|0.77273 heat|0.75 capacity|0.72727 of|0.70455 air|0.68182 is|0.65909 air|0.63636 temperature|0.61364 is|0.59091 the|0.56818 latent|0.54545 heat|0.52273 of|0.5 vaporization|0.47727 and|0.45455 is|0.43182 the|0.40909 concentration|0.38636 of|0.36364 water|0.34091 vapor|0.31818 The|0.29545 first|0.27273 component|0.25 corresponds|0.22727 to|0.20455 sensible|0.18182 heat|0.15909 and|0.13636 the|0.11364 second|0.090909 to|0.068182 latent|0.045455 heat|0.022727 |0",
+			"previous_weights": " The|0 rate|0.032258 of|0.064516 energy|0.096774 production|0.12903 per|0.16129 unit|0.19355 surface|0.22581 area|0.25806 is|0.29032 given|0.32258 by|0.35484 where|0.3871 is|0.41935 the|0.45161 density|0.48387 of|0.51613 near|0.54839 surface|0.58065 air|0.6129 kg|0.64516 m3|0.67742 and|0.70968 is|0.74194 the|0.77419 near|0.80645 surface|0.83871 wind|0.87097 speed|0.90323 m|0.93548 s|0.96774 |1"
+		}
+	}
+}

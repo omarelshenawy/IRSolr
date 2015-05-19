@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4eae9e02c217dbf560206aa80ad9abe50054aaf75fdb4fed68671c5d58825796",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Royal_Brunei_A340_at_Canberra_Airport_in_May_2013.jpg/220px-Royal_Brunei_A340_at_Canberra_Airport_in_May_2013.jpg",
+			"previous": " ",
+			"after": " His Majesty The Sultan s Flight HMSF has several aircraft in VIP configuration designed by Reese Design and modified by L3 Communications on which to travel internationally The fleet of aircraft is used exclusively for the Sultan of Brunei and members of the Royal Family ",
+			"color": "dim|0.24919 gray|0.24919 dim|0.24919 grey|0.24919 dark|0.21177 gray|0.21177 dark|0.21177 grey|0.21177 silver|0.19654 light|0.1167 gray|0.1167 light|0.1167 grey|0.1167 gray|0.083149 grey|0.083149 gainsboro|0.078321 dark|0.023014 golden|0.023014 rod|0.023014  ",
+			"after_weights": " His|1 Majesty|0.97778 The|0.95556 Sultan|0.93333 s|0.91111 Flight|0.88889 HMSF|0.86667 has|0.84444 several|0.82222 aircraft|0.8 in|0.77778 VIP|0.75556 configuration|0.73333 designed|0.71111 by|0.68889 Reese|0.66667 Design|0.64444 and|0.62222 modified|0.6 by|0.57778 L3|0.55556 Communications|0.53333 on|0.51111 which|0.48889 to|0.46667 travel|0.44444 internationally|0.42222 The|0.4 fleet|0.37778 of|0.35556 aircraft|0.33333 is|0.31111 used|0.28889 exclusively|0.26667 for|0.24444 the|0.22222 Sultan|0.2 of|0.17778 Brunei|0.15556 and|0.13333 members|0.11111 of|0.088889 the|0.066667 Royal|0.044444 Family|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

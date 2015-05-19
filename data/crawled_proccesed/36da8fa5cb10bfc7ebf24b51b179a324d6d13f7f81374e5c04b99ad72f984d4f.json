@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "36da8fa5cb10bfc7ebf24b51b179a324d6d13f7f81374e5c04b99ad72f984d4f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haliaeetus-albicilla-002.jpg/220px-Haliaeetus-albicilla-002.jpg",
+			"previous": " ",
+			"after": " All but a few pairs of Britain s approximately 600 golden eagles are found in Scotland as are most of the breeding peregrine falcons 83 The hobby marsh harrier and Montagu s harrier although found in England and Wales are generally absent 84 ",
+			"color": "black|0.23087 dim|0.19074 gray|0.19074 dim|0.19074 grey|0.19074 gray|0.13943 grey|0.13943 dark|0.081345 gray|0.081345 dark|0.081345 grey|0.081345 silver|0.048237 light|0.045912 gray|0.045912 light|0.045912 grey|0.045912 gainsboro|0.043812 white|0.027047 smoke|0.027047 alice|0.024008 blue|0.024008 ghost|0.02358 white|0.02358 lavender|0.022685 blush|0.022685 snow|0.020651 white|0.018806 sea|0.017765 shell|0.017765 azure|0.017423 mint|0.015696 cream|0.015696 lavender|0.012236 floral|0.011485 white|0.011485  ",
+			"after_weights": " All|1 but|0.97674 a|0.95349 few|0.93023 pairs|0.90698 of|0.88372 Britain|0.86047 s|0.83721 approximately|0.81395 600|0.7907 golden|0.76744 eagles|0.74419 are|0.72093 found|0.69767 in|0.67442 Scotland|0.65116 as|0.62791 are|0.60465 most|0.5814 of|0.55814 the|0.53488 breeding|0.51163 peregrine|0.48837 falcons|0.46512 83|0.44186 The|0.4186 hobby|0.39535 marsh|0.37209 harrier|0.34884 and|0.32558 Montagu|0.30233 s|0.27907 harrier|0.25581 although|0.23256 found|0.2093 in|0.18605 England|0.16279 and|0.13953 Wales|0.11628 are|0.093023 generally|0.069767 absent|0.046512 84|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

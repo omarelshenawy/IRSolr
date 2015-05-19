@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c82815e93ec4087d7107e5eac8dc2c64e33912085be1236af3df95d17962d1c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WikipediaBinary.svg/150px-WikipediaBinary.svg.png",
+			"previous": " ",
+			"after": " Information theory involves the quantification of information Closely related is coding theory which is used to design efficient and reliable data transmission and storage methods Information theory also includes continuous topics such as analog signals analog coding analog encryption ",
+			"color": " ",
+			"after_weights": " Information|1 theory|0.97436 involves|0.94872 the|0.92308 quantification|0.89744 of|0.87179 information|0.84615 Closely|0.82051 related|0.79487 is|0.76923 coding|0.74359 theory|0.71795 which|0.69231 is|0.66667 used|0.64103 to|0.61538 design|0.58974 efficient|0.5641 and|0.53846 reliable|0.51282 data|0.48718 transmission|0.46154 and|0.4359 storage|0.41026 methods|0.38462 Information|0.35897 theory|0.33333 also|0.30769 includes|0.28205 continuous|0.25641 topics|0.23077 such|0.20513 as|0.17949 analog|0.15385 signals|0.12821 analog|0.10256 coding|0.076923 analog|0.051282 encryption|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

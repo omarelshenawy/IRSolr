@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fb2dd22558c3e738e22256f303021e705aa0794f0288bd07e607d647be18738",
+			"url": "https://upload.wikimedia.org/math/c/3/8/c380990c9cf10ed75a1ea44753af9ac6.png",
+			"previous": " Just as one classifies conic sections and quadratic forms into parabolic hyperbolic and elliptic based on the discriminant the same can be done for a second order PDE at a given point However the discriminant in a PDE is given by due to the convention of the xy term being 2B rather than B formally the discriminant of the associated quadratic form is with the factor of 4 dropped for simplicity ",
+			"after": " If there are n independent variables x1 x2 xn a general linear partial differential equation of second order has the form",
+			"color": "dim|0.36633 gray|0.36633 dim|0.36633 grey|0.36633 gray|0.27529 grey|0.27529 dark|0.17826 gray|0.17826 dark|0.17826 grey|0.17826 silver|0.085536 light|0.046696 gray|0.046696 light|0.046696 grey|0.046696 gainsboro|0.031881 white|0.0041367 smoke|0.0041367  ",
+			"after_weights": " If|1 there|0.95 are|0.9 n|0.85 independent|0.8 variables|0.75 x1|0.7 x2|0.65 xn|0.6 a|0.55 general|0.5 linear|0.45 partial|0.4 differential|0.35 equation|0.3 of|0.25 second|0.2 order|0.15 has|0.1 the|0.05 form|0",
+			"previous_weights": " Just|0 as|0.014085 one|0.028169 classifies|0.042254 conic|0.056338 sections|0.070423 and|0.084507 quadratic|0.098592 forms|0.11268 into|0.12676 parabolic|0.14085 hyperbolic|0.15493 and|0.16901 elliptic|0.1831 based|0.19718 on|0.21127 the|0.22535 discriminant|0.23944 the|0.25352 same|0.26761 can|0.28169 be|0.29577 done|0.30986 for|0.32394 a|0.33803 second|0.35211 order|0.3662 PDE|0.38028 at|0.39437 a|0.40845 given|0.42254 point|0.43662 However|0.4507 the|0.46479 discriminant|0.47887 in|0.49296 a|0.50704 PDE|0.52113 is|0.53521 given|0.5493 by|0.56338 due|0.57746 to|0.59155 the|0.60563 convention|0.61972 of|0.6338 the|0.64789 xy|0.66197 term|0.67606 being|0.69014 2B|0.70423 rather|0.71831 than|0.73239 B|0.74648 formally|0.76056 the|0.77465 discriminant|0.78873 of|0.80282 the|0.8169 associated|0.83099 quadratic|0.84507 form|0.85915 is|0.87324 with|0.88732 the|0.90141 factor|0.91549 of|0.92958 4|0.94366 dropped|0.95775 for|0.97183 simplicity|0.98592 |1"
+		}
+	}
+}

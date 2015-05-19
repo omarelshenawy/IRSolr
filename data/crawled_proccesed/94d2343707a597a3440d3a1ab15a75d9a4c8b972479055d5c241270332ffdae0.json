@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "94d2343707a597a3440d3a1ab15a75d9a4c8b972479055d5c241270332ffdae0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/OwatonnaBank.JPG/220px-OwatonnaBank.JPG",
+			"previous": " ",
+			"after": " Saint Paul located in east central Minnesota along the banks of the Mississippi River has been Minnesota s capital city since 1849 first as capital of the Territory of Minnesota and then as state capital since 1858 ",
+			"color": "gray|0.33801 grey|0.33801 dark|0.27485 gray|0.27485 dark|0.27485 grey|0.27485 dim|0.18781 gray|0.18781 dim|0.18781 grey|0.18781 slate|0.042591 gray|0.042591 silver|0.034962 light|0.033769 slate|0.033769 gray|0.033769 rosy|0.020848 brown|0.020848 dark|0.019683 slate|0.019683 gray|0.019683 black|0.013774  ",
+			"after_weights": " Saint|1 Paul|0.97297 located|0.94595 in|0.91892 east|0.89189 central|0.86486 Minnesota|0.83784 along|0.81081 the|0.78378 banks|0.75676 of|0.72973 the|0.7027 Mississippi|0.67568 River|0.64865 has|0.62162 been|0.59459 Minnesota|0.56757 s|0.54054 capital|0.51351 city|0.48649 since|0.45946 1849|0.43243 first|0.40541 as|0.37838 capital|0.35135 of|0.32432 the|0.2973 Territory|0.27027 of|0.24324 Minnesota|0.21622 and|0.18919 then|0.16216 as|0.13514 state|0.10811 capital|0.081081 since|0.054054 1858|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

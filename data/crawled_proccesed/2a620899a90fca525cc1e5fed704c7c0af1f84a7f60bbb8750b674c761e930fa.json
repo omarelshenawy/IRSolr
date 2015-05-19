@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a620899a90fca525cc1e5fed704c7c0af1f84a7f60bbb8750b674c761e930fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Old_sen_ch_1.jpg/250px-Old_sen_ch_1.jpg",
+			"previous": " ",
+			"after": " The Old Senate Chamber is a room in the United States Capitol that was the legislative chamber of the United States Senate from 1810 to 1859 and served as the Supreme Court chamber from 1860 until 1935 It was designed in Neoclassical style and is elaborately decorated 1 Restored in 1976 as part of United States Bicentennial celebrations it is preserved as a museum and for the Senate s use 1 ",
+			"color": "firebrick|0.12249 brown|0.10904 sienna|0.10392 maroon|0.078098 dark|0.066505 red|0.066505 burly|0.038436 wood|0.038436 saddle|0.036608 brown|0.036608 rosy|0.025347 brown|0.025347 tan|0.022681 dark|0.022632 salmon|0.022632 chocolate|0.015541 misty|0.014366 rose|0.014366 sea|0.012144 shell|0.012144 floral|0.011942 white|0.011942 linen|0.011533  ",
+			"after_weights": " The|1 Old|0.98592 Senate|0.97183 Chamber|0.95775 is|0.94366 a|0.92958 room|0.91549 in|0.90141 the|0.88732 United|0.87324 States|0.85915 Capitol|0.84507 that|0.83099 was|0.8169 the|0.80282 legislative|0.78873 chamber|0.77465 of|0.76056 the|0.74648 United|0.73239 States|0.71831 Senate|0.70423 from|0.69014 1810|0.67606 to|0.66197 1859|0.64789 and|0.6338 served|0.61972 as|0.60563 the|0.59155 Supreme|0.57746 Court|0.56338 chamber|0.5493 from|0.53521 1860|0.52113 until|0.50704 1935|0.49296 It|0.47887 was|0.46479 designed|0.4507 in|0.43662 Neoclassical|0.42254 style|0.40845 and|0.39437 is|0.38028 elaborately|0.3662 decorated|0.35211 1|0.33803 Restored|0.32394 in|0.30986 1976|0.29577 as|0.28169 part|0.26761 of|0.25352 United|0.23944 States|0.22535 Bicentennial|0.21127 celebrations|0.19718 it|0.1831 is|0.16901 preserved|0.15493 as|0.14085 a|0.12676 museum|0.11268 and|0.098592 for|0.084507 the|0.070423 Senate|0.056338 s|0.042254 use|0.028169 1|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

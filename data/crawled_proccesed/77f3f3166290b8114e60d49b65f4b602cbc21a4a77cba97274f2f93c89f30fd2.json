@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77f3f3166290b8114e60d49b65f4b602cbc21a4a77cba97274f2f93c89f30fd2",
+			"url": "https://upload.wikimedia.org/math/1/9/8/198b1f6cc5f5c501b3acfa72b9a91b35.png",
+			"previous": " The classification theorem of closed surfaces states that any connected closed surface is homeomorphic to some member of one of these three families ",
+			"after": " The surfaces in the first two families are orientable It is convenient to combine the two families by regarding the sphere as the connected sum of 0 tori The number g of tori involved is called the genus of the surface The sphere and the torus have Euler characteristics 2 and 0 respectively and in general the Euler characteristic of the connected sum of g tori is 2 2g ",
+			"color": "dim|0.32179 gray|0.32179 dim|0.32179 grey|0.32179 black|0.24021 gray|0.22672 grey|0.22672 dark|0.12022 gray|0.12022 dark|0.12022 grey|0.12022 silver|0.047877 light|0.020712 gray|0.020712 light|0.020712 grey|0.020712 gainsboro|0.014095  ",
+			"after_weights": " The|1 surfaces|0.98551 in|0.97101 the|0.95652 first|0.94203 two|0.92754 families|0.91304 are|0.89855 orientable|0.88406 It|0.86957 is|0.85507 convenient|0.84058 to|0.82609 combine|0.81159 the|0.7971 two|0.78261 families|0.76812 by|0.75362 regarding|0.73913 the|0.72464 sphere|0.71014 as|0.69565 the|0.68116 connected|0.66667 sum|0.65217 of|0.63768 0|0.62319 tori|0.6087 The|0.5942 number|0.57971 g|0.56522 of|0.55072 tori|0.53623 involved|0.52174 is|0.50725 called|0.49275 the|0.47826 genus|0.46377 of|0.44928 the|0.43478 surface|0.42029 The|0.4058 sphere|0.3913 and|0.37681 the|0.36232 torus|0.34783 have|0.33333 Euler|0.31884 characteristics|0.30435 2|0.28986 and|0.27536 0|0.26087 respectively|0.24638 and|0.23188 in|0.21739 general|0.2029 the|0.18841 Euler|0.17391 characteristic|0.15942 of|0.14493 the|0.13043 connected|0.11594 sum|0.10145 of|0.086957 g|0.072464 tori|0.057971 is|0.043478 2|0.028986 2g|0.014493 |0",
+			"previous_weights": " The|0 classification|0.043478 theorem|0.086957 of|0.13043 closed|0.17391 surfaces|0.21739 states|0.26087 that|0.30435 any|0.34783 connected|0.3913 closed|0.43478 surface|0.47826 is|0.52174 homeomorphic|0.56522 to|0.6087 some|0.65217 member|0.69565 of|0.73913 one|0.78261 of|0.82609 these|0.86957 three|0.91304 families|0.95652 |1"
+		}
+	}
+}

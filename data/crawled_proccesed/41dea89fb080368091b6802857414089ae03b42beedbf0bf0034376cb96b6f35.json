@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41dea89fb080368091b6802857414089ae03b42beedbf0bf0034376cb96b6f35",
+			"url": "https://upload.wikimedia.org/math/2/0/a/20aee712c85cf2b2f88e8c5f2f97d2b3.png",
+			"previous": " Lasker Noether Theorem Let R be a commutative Noetherian ring and let I be an ideal of R Then I may be written as the intersection of finitely many primary ideals with distinct radicals that is ",
+			"after": " with Qi primary for all i and Rad Qi Rad Qj for i j Furthermore if ",
+			"color": "dim|0.38026 gray|0.38026 dim|0.38026 grey|0.38026 gray|0.28517 grey|0.28517 dark|0.15877 gray|0.15877 dark|0.15877 grey|0.15877 silver|0.082845 light|0.04337 gray|0.04337 light|0.04337 grey|0.04337 gainsboro|0.029674 white|0.0038805 smoke|0.0038805  ",
+			"after_weights": " with|1 Qi|0.9375 primary|0.875 for|0.8125 all|0.75 i|0.6875 and|0.625 Rad|0.5625 Qi|0.5 Rad|0.4375 Qj|0.375 for|0.3125 i|0.25 j|0.1875 Furthermore|0.125 if|0.0625 |0",
+			"previous_weights": " Lasker|0 Noether|0.027778 Theorem|0.055556 Let|0.083333 R|0.11111 be|0.13889 a|0.16667 commutative|0.19444 Noetherian|0.22222 ring|0.25 and|0.27778 let|0.30556 I|0.33333 be|0.36111 an|0.38889 ideal|0.41667 of|0.44444 R|0.47222 Then|0.5 I|0.52778 may|0.55556 be|0.58333 written|0.61111 as|0.63889 the|0.66667 intersection|0.69444 of|0.72222 finitely|0.75 many|0.77778 primary|0.80556 ideals|0.83333 with|0.86111 distinct|0.88889 radicals|0.91667 that|0.94444 is|0.97222 |1"
+		}
+	}
+}

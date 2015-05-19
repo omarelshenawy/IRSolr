@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47a15a93b07525fdcae66ea411e1a97b5d4014e6ba28c6c08fd6acf76612784a",
+			"url": "https://upload.wikimedia.org/math/9/b/b/9bba03aabc295aca0bee5ce80c2e20e6.png",
+			"previous": "  The code word of the empty string is the empty string itself ",
+			"after": " Entropy of a source is the measure of information Basically source codes try to reduce the redundancy present in the source and represent the source with fewer bits that carry more information  Data compression which explicitly tries to minimize the average length of messages according to a particular assumed probability model is called entropy encoding ",
+			"color": "dim|0.35245 gray|0.35245 dim|0.35245 grey|0.35245 gray|0.27709 grey|0.27709 dark|0.18181 gray|0.18181 dark|0.18181 grey|0.18181 silver|0.08605 light|0.045985 gray|0.045985 light|0.045985 grey|0.045985 gainsboro|0.033305 white|0.0052856 smoke|0.0052856  ",
+			"after_weights": " Entropy|1 of|0.98214 a|0.96429 source|0.94643 is|0.92857 the|0.91071 measure|0.89286 of|0.875 information|0.85714 Basically|0.83929 source|0.82143 codes|0.80357 try|0.78571 to|0.76786 reduce|0.75 the|0.73214 redundancy|0.71429 present|0.69643 in|0.67857 the|0.66071 source|0.64286 and|0.625 represent|0.60714 the|0.58929 source|0.57143 with|0.55357 fewer|0.53571 bits|0.51786 that|0.5 carry|0.48214 more|0.46429 information|0.44643 |0.42857 Data|0.41071 compression|0.39286 which|0.375 explicitly|0.35714 tries|0.33929 to|0.32143 minimize|0.30357 the|0.28571 average|0.26786 length|0.25 of|0.23214 messages|0.21429 according|0.19643 to|0.17857 a|0.16071 particular|0.14286 assumed|0.125 probability|0.10714 model|0.089286 is|0.071429 called|0.053571 entropy|0.035714 encoding|0.017857 |0",
+			"previous_weights": " |0 The|0.076923 code|0.15385 word|0.23077 of|0.30769 the|0.38462 empty|0.46154 string|0.53846 is|0.61538 the|0.69231 empty|0.76923 string|0.84615 itself|0.92308 |1"
+		}
+	}
+}

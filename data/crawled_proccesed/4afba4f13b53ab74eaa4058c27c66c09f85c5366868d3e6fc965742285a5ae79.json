@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4afba4f13b53ab74eaa4058c27c66c09f85c5366868d3e6fc965742285a5ae79",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CX_First_Class_Suites_747_nose.jpg/275px-CX_First_Class_Suites_747_nose.jpg",
+			"previous": " ",
+			"after": " The first class section of a fixed wing jet airliner is typically toward the front of the aircraft Many airlines have removed first class altogether from their international flights offering business class as their highest level of international service First class passengers are usually allowed into lounges at airports while they wait for their flights ",
+			"color": "black|0.44751 rosy|0.13079 brown|0.13079 pink|0.10025 light|0.085395 pink|0.085395 plum|0.054855 misty|0.018488 rose|0.018488 light|0.013347 sky|0.013347 blue|0.013347 lavender|0.011438 lavender|0.010461 blush|0.010461  ",
+			"after_weights": " The|1 first|0.98182 class|0.96364 section|0.94545 of|0.92727 a|0.90909 fixed|0.89091 wing|0.87273 jet|0.85455 airliner|0.83636 is|0.81818 typically|0.8 toward|0.78182 the|0.76364 front|0.74545 of|0.72727 the|0.70909 aircraft|0.69091 Many|0.67273 airlines|0.65455 have|0.63636 removed|0.61818 first|0.6 class|0.58182 altogether|0.56364 from|0.54545 their|0.52727 international|0.50909 flights|0.49091 offering|0.47273 business|0.45455 class|0.43636 as|0.41818 their|0.4 highest|0.38182 level|0.36364 of|0.34545 international|0.32727 service|0.30909 First|0.29091 class|0.27273 passengers|0.25455 are|0.23636 usually|0.21818 allowed|0.2 into|0.18182 lounges|0.16364 at|0.14545 airports|0.12727 while|0.10909 they|0.090909 wait|0.072727 for|0.054545 their|0.036364 flights|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3922891287fab0befef613d499a7a0f34ad827118d095282306c7766c4bbd6ac",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Casa_presidencial_de_Bogot%C3%A1.jpg/220px-Casa_presidencial_de_Bogot%C3%A1.jpg",
+			"previous": " ",
+			"after": " The government of Colombia takes place within the framework of a presidential representative democratic republic as established in the Constitution of 1991 86 In accordance with the principle of separation of powers government is divided into three branches the executive branch the legislative branch and the judicial branch 116 ",
+			"color": "dark|0.30577 gray|0.30577 dark|0.30577 grey|0.30577 gray|0.23552 grey|0.23552 dim|0.19272 gray|0.19272 dim|0.19272 grey|0.19272 black|0.13826 silver|0.1002 light|0.018749 gray|0.018749 light|0.018749 grey|0.018749  ",
+			"after_weights": " The|1 government|0.97959 of|0.95918 Colombia|0.93878 takes|0.91837 place|0.89796 within|0.87755 the|0.85714 framework|0.83673 of|0.81633 a|0.79592 presidential|0.77551 representative|0.7551 democratic|0.73469 republic|0.71429 as|0.69388 established|0.67347 in|0.65306 the|0.63265 Constitution|0.61224 of|0.59184 1991|0.57143 86|0.55102 In|0.53061 accordance|0.5102 with|0.4898 the|0.46939 principle|0.44898 of|0.42857 separation|0.40816 of|0.38776 powers|0.36735 government|0.34694 is|0.32653 divided|0.30612 into|0.28571 three|0.26531 branches|0.2449 the|0.22449 executive|0.20408 branch|0.18367 the|0.16327 legislative|0.14286 branch|0.12245 and|0.10204 the|0.081633 judicial|0.061224 branch|0.040816 116|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

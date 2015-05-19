@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4056884bacd7b9839a70378e6e0ea7ed0f7b389462ca3bd2bed89353e6fc3ba9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rotavirus_with_antibody.jpg/220px-Rotavirus_with_antibody.jpg",
+			"previous": " ",
+			"after": " Specific immunity to viruses develops over time and white blood cells called lymphocytes play a central role Lymphocytes retain a memory of virus infections and produce many special molecules called antibodies These antibodies attach to viruses and stop the virus from infecting cells Antibodies are highly selective and attack only one type of virus The body makes many different antibodies especially during the initial infection however after the infection subsides some antibodies remain and continue to be produced often giving the host lifelong immunity to the virus 54 ",
+			"color": " ",
+			"after_weights": " Specific|1 immunity|0.98864 to|0.97727 viruses|0.96591 develops|0.95455 over|0.94318 time|0.93182 and|0.92045 white|0.90909 blood|0.89773 cells|0.88636 called|0.875 lymphocytes|0.86364 play|0.85227 a|0.84091 central|0.82955 role|0.81818 Lymphocytes|0.80682 retain|0.79545 a|0.78409 memory|0.77273 of|0.76136 virus|0.75 infections|0.73864 and|0.72727 produce|0.71591 many|0.70455 special|0.69318 molecules|0.68182 called|0.67045 antibodies|0.65909 These|0.64773 antibodies|0.63636 attach|0.625 to|0.61364 viruses|0.60227 and|0.59091 stop|0.57955 the|0.56818 virus|0.55682 from|0.54545 infecting|0.53409 cells|0.52273 Antibodies|0.51136 are|0.5 highly|0.48864 selective|0.47727 and|0.46591 attack|0.45455 only|0.44318 one|0.43182 type|0.42045 of|0.40909 virus|0.39773 The|0.38636 body|0.375 makes|0.36364 many|0.35227 different|0.34091 antibodies|0.32955 especially|0.31818 during|0.30682 the|0.29545 initial|0.28409 infection|0.27273 however|0.26136 after|0.25 the|0.23864 infection|0.22727 subsides|0.21591 some|0.20455 antibodies|0.19318 remain|0.18182 and|0.17045 continue|0.15909 to|0.14773 be|0.13636 produced|0.125 often|0.11364 giving|0.10227 the|0.090909 host|0.079545 lifelong|0.068182 immunity|0.056818 to|0.045455 the|0.034091 virus|0.022727 54|0.011364 |0",
+			"previous_weights": " "
+		}
+	}
+}

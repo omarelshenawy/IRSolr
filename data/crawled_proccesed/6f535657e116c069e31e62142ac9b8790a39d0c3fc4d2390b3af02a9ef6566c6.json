@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f535657e116c069e31e62142ac9b8790a39d0c3fc4d2390b3af02a9ef6566c6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hinton_blewett_church.JPG/220px-Hinton_blewett_church.JPG",
+			"previous": " ",
+			"after": " The villages tend to have been built at the points where it was possible to cross the rivers and streams Chew Magna is the business centre with a range of shops banks etc Other villages have local shops often combined with post offices Most villages have pubs and village halls which provide the majority of the social activity ",
+			"color": "gray|0.27049 grey|0.27049 dark|0.24852 olive|0.24852 green|0.24852 dim|0.20375 gray|0.20375 dim|0.20375 grey|0.20375 black|0.12079 dark|0.076595 slate|0.076595 gray|0.076595 dark|0.054716 gray|0.054716 dark|0.054716 grey|0.054716 slate|0.012458 gray|0.012458 light|0.0092157 slate|0.0092157 gray|0.0092157  ",
+			"after_weights": " The|1 villages|0.98276 tend|0.96552 to|0.94828 have|0.93103 been|0.91379 built|0.89655 at|0.87931 the|0.86207 points|0.84483 where|0.82759 it|0.81034 was|0.7931 possible|0.77586 to|0.75862 cross|0.74138 the|0.72414 rivers|0.7069 and|0.68966 streams|0.67241 Chew|0.65517 Magna|0.63793 is|0.62069 the|0.60345 business|0.58621 centre|0.56897 with|0.55172 a|0.53448 range|0.51724 of|0.5 shops|0.48276 banks|0.46552 etc|0.44828 Other|0.43103 villages|0.41379 have|0.39655 local|0.37931 shops|0.36207 often|0.34483 combined|0.32759 with|0.31034 post|0.2931 offices|0.27586 Most|0.25862 villages|0.24138 have|0.22414 pubs|0.2069 and|0.18966 village|0.17241 halls|0.15517 which|0.13793 provide|0.12069 the|0.10345 majority|0.086207 of|0.068966 the|0.051724 social|0.034483 activity|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

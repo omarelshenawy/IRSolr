@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1547d7d8fb8df1f64667e0a99f5c0b6818f745f0f6975f6c857d5c09b593dae4",
+			"url": "https://upload.wikimedia.org/math/1/1/0/110a451bff14cf0501f2ebb7c418a581.png",
+			"previous": " For a flow in which the static pressure also does not change in the direction of the flow then",
+			"after": " Therefore the equation of motion simplifies to become These approximations are used in a variety of practical flow problems of scientific and engineering interest The above analysis is for any instantaneous laminar or turbulent boundary layer but is used mainly in laminar flow studies since the mean flow is also the instantaneous flow because there are no velocity fluctuations present This simplified equations is parabolic PDE and can be solved using a similarity solution often referred to as the Blasius boundary layer",
+			"color": " ",
+			"after_weights": " Therefore|1 the|0.98765 equation|0.97531 of|0.96296 motion|0.95062 simplifies|0.93827 to|0.92593 become|0.91358 These|0.90123 approximations|0.88889 are|0.87654 used|0.8642 in|0.85185 a|0.83951 variety|0.82716 of|0.81481 practical|0.80247 flow|0.79012 problems|0.77778 of|0.76543 scientific|0.75309 and|0.74074 engineering|0.7284 interest|0.71605 The|0.7037 above|0.69136 analysis|0.67901 is|0.66667 for|0.65432 any|0.64198 instantaneous|0.62963 laminar|0.61728 or|0.60494 turbulent|0.59259 boundary|0.58025 layer|0.5679 but|0.55556 is|0.54321 used|0.53086 mainly|0.51852 in|0.50617 laminar|0.49383 flow|0.48148 studies|0.46914 since|0.45679 the|0.44444 mean|0.4321 flow|0.41975 is|0.40741 also|0.39506 the|0.38272 instantaneous|0.37037 flow|0.35802 because|0.34568 there|0.33333 are|0.32099 no|0.30864 velocity|0.2963 fluctuations|0.28395 present|0.2716 This|0.25926 simplified|0.24691 equations|0.23457 is|0.22222 parabolic|0.20988 PDE|0.19753 and|0.18519 can|0.17284 be|0.16049 solved|0.14815 using|0.1358 a|0.12346 similarity|0.11111 solution|0.098765 often|0.08642 referred|0.074074 to|0.061728 as|0.049383 the|0.037037 Blasius|0.024691 boundary|0.012346 layer|0",
+			"previous_weights": " For|0 a|0.055556 flow|0.11111 in|0.16667 which|0.22222 the|0.27778 static|0.33333 pressure|0.38889 also|0.44444 does|0.5 not|0.55556 change|0.61111 in|0.66667 the|0.72222 direction|0.77778 of|0.83333 the|0.88889 flow|0.94444 then|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25e26d77d4b741886caea3785b2bd5d586da6fb453ef18d24fa849a86c56773b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Concorde_at_Le_Bourget.jpg/220px-Concorde_at_Le_Bourget.jpg",
+			"previous": " This is a list of aerospace museums and museums that contain significant aerospace related exhibits throughout the world The museums are listed alphabetically by country and their article name ",
+			"after": " Aerospace museums Other museums with aerospace exhibits ",
+			"color": "black|0.12792 dim|0.090838 gray|0.090838 dim|0.090838 grey|0.090838 beige|0.073082 wheat|0.06895 light|0.04183 golden|0.04183 rod|0.04183 yellow|0.04183 gray|0.037936 grey|0.037936 corn|0.036062 silk|0.036062 dark|0.035032 slate|0.035032 gray|0.035032 lemon|0.031698 chiffon|0.031698 blanched|0.029978 almond|0.029978 light|0.029349 yellow|0.029349 papaya|0.029223 whip|0.029223 antique|0.026231 white|0.026231 tan|0.02564 dark|0.025153 gray|0.025153 dark|0.025153 grey|0.025153 pale|0.022506 golden|0.022506 rod|0.022506 light|0.022396 gray|0.022396 light|0.022396 grey|0.022396 gainsboro|0.020918 silver|0.018224 moccasin|0.017111 old|0.01662 lace|0.01662 honeydew|0.01548  ",
+			"after_weights": " Aerospace|1 museums|0.85714 Other|0.71429 museums|0.57143 with|0.42857 aerospace|0.28571 exhibits|0.14286 |0",
+			"previous_weights": " This|0 is|0.034483 a|0.068966 list|0.10345 of|0.13793 aerospace|0.17241 museums|0.2069 and|0.24138 museums|0.27586 that|0.31034 contain|0.34483 significant|0.37931 aerospace|0.41379 related|0.44828 exhibits|0.48276 throughout|0.51724 the|0.55172 world|0.58621 The|0.62069 museums|0.65517 are|0.68966 listed|0.72414 alphabetically|0.75862 by|0.7931 country|0.82759 and|0.86207 their|0.89655 article|0.93103 name|0.96552 |1"
+		}
+	}
+}

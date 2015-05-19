@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ec339d1a313764e05470a1e3857c153ef54eff266af845c4614e99d6402f6cc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aboriginal_farmers_at_Franklinford_1858.jpg/220px-Aboriginal_farmers_at_Franklinford_1858.jpg",
+			"previous": " ",
+			"after": " Throughout the history of the continent there have been many different Aboriginal groups each with its own individual language culture and belief structure At the time of British settlement there were over 200 distinct languages 139 ",
+			"color": "tan|0.53755 burly|0.24162 wood|0.24162 wheat|0.090468 black|0.041972 navajo|0.029132 white|0.029132 moccasin|0.025295 peach|0.014743 puff|0.014743  ",
+			"after_weights": " Throughout|1 the|0.97222 history|0.94444 of|0.91667 the|0.88889 continent|0.86111 there|0.83333 have|0.80556 been|0.77778 many|0.75 different|0.72222 Aboriginal|0.69444 groups|0.66667 each|0.63889 with|0.61111 its|0.58333 own|0.55556 individual|0.52778 language|0.5 culture|0.47222 and|0.44444 belief|0.41667 structure|0.38889 At|0.36111 the|0.33333 time|0.30556 of|0.27778 British|0.25 settlement|0.22222 there|0.19444 were|0.16667 over|0.13889 200|0.11111 distinct|0.083333 languages|0.055556 139|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

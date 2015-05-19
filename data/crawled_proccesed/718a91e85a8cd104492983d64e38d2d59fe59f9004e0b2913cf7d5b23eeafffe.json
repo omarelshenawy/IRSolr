@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "718a91e85a8cd104492983d64e38d2d59fe59f9004e0b2913cf7d5b23eeafffe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ALPS_Globe.jpg/200px-ALPS_Globe.jpg",
+			"previous": " ",
+			"after": " A geographic information system GIS is a system for capturing storing analyzing and managing data and associated attributes which are spatially referenced to the earth In the strictest sense it is a computer system capable of integrating storing editing analyzing sharing and displaying geographically referenced information In a more generic sense GIS is a tool that allows users to create interactive queries analyze the spatial information edit data maps and present the results of all these operations Geographic information science is the science underlying the geographic concepts applications and systems ",
+			"color": "black|0.69159 midnight|0.15846 blue|0.15846 dark|0.037005 olive|0.037005 green|0.037005 dark|0.022487 sea|0.022487 green|0.022487 corn|0.015755 flower|0.015755 blue|0.015755 forest|0.011268 green|0.011268 dark|0.0089146 slate|0.0089146 gray|0.0089146 steel|0.0082233 blue|0.0082233  ",
+			"after_weights": " A|1 geographic|0.98889 information|0.97778 system|0.96667 GIS|0.95556 is|0.94444 a|0.93333 system|0.92222 for|0.91111 capturing|0.9 storing|0.88889 analyzing|0.87778 and|0.86667 managing|0.85556 data|0.84444 and|0.83333 associated|0.82222 attributes|0.81111 which|0.8 are|0.78889 spatially|0.77778 referenced|0.76667 to|0.75556 the|0.74444 earth|0.73333 In|0.72222 the|0.71111 strictest|0.7 sense|0.68889 it|0.67778 is|0.66667 a|0.65556 computer|0.64444 system|0.63333 capable|0.62222 of|0.61111 integrating|0.6 storing|0.58889 editing|0.57778 analyzing|0.56667 sharing|0.55556 and|0.54444 displaying|0.53333 geographically|0.52222 referenced|0.51111 information|0.5 In|0.48889 a|0.47778 more|0.46667 generic|0.45556 sense|0.44444 GIS|0.43333 is|0.42222 a|0.41111 tool|0.4 that|0.38889 allows|0.37778 users|0.36667 to|0.35556 create|0.34444 interactive|0.33333 queries|0.32222 analyze|0.31111 the|0.3 spatial|0.28889 information|0.27778 edit|0.26667 data|0.25556 maps|0.24444 and|0.23333 present|0.22222 the|0.21111 results|0.2 of|0.18889 all|0.17778 these|0.16667 operations|0.15556 Geographic|0.14444 information|0.13333 science|0.12222 is|0.11111 the|0.1 science|0.088889 underlying|0.077778 the|0.066667 geographic|0.055556 concepts|0.044444 applications|0.033333 and|0.022222 systems|0.011111 |0",
+			"previous_weights": " "
+		}
+	}
+}

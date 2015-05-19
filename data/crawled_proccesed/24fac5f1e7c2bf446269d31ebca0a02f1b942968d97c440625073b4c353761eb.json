@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "24fac5f1e7c2bf446269d31ebca0a02f1b942968d97c440625073b4c353761eb",
+			"url": "https://upload.wikimedia.org/math/5/3/2/532fc767d8b4fac5b36c40cf4faa9215.png",
+			"previous": " From the first equation of the Lorentz transformation in terms of coordinate differences",
+			"after": " it is clear that two events that are simultaneous in frame S satisfying t 0 are not necessarily simultaneous in another inertial frame S satisfying t 0 Only if these events are additionally co local in frame S satisfying x 0 will they be simultaneous in another frame S ",
+			"color": "dim|0.39144 gray|0.39144 dim|0.39144 grey|0.39144 gray|0.28047 grey|0.28047 dark|0.17674 gray|0.17674 dark|0.17674 grey|0.17674 silver|0.079539 light|0.036934 gray|0.036934 light|0.036934 grey|0.036934 gainsboro|0.024104 white|0.0031513 smoke|0.0031513  ",
+			"after_weights": " it|1 is|0.97959 clear|0.95918 that|0.93878 two|0.91837 events|0.89796 that|0.87755 are|0.85714 simultaneous|0.83673 in|0.81633 frame|0.79592 S|0.77551 satisfying|0.7551 t|0.73469 0|0.71429 are|0.69388 not|0.67347 necessarily|0.65306 simultaneous|0.63265 in|0.61224 another|0.59184 inertial|0.57143 frame|0.55102 S|0.53061 satisfying|0.5102 t|0.4898 0|0.46939 Only|0.44898 if|0.42857 these|0.40816 events|0.38776 are|0.36735 additionally|0.34694 co|0.32653 local|0.30612 in|0.28571 frame|0.26531 S|0.2449 satisfying|0.22449 x|0.20408 0|0.18367 will|0.16327 they|0.14286 be|0.12245 simultaneous|0.10204 in|0.081633 another|0.061224 frame|0.040816 S|0.020408 |0",
+			"previous_weights": " From|0 the|0.083333 first|0.16667 equation|0.25 of|0.33333 the|0.41667 Lorentz|0.5 transformation|0.58333 in|0.66667 terms|0.75 of|0.83333 coordinate|0.91667 differences|1"
+		}
+	}
+}

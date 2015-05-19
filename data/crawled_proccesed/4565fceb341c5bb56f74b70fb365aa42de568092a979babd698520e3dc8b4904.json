@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4565fceb341c5bb56f74b70fb365aa42de568092a979babd698520e3dc8b4904",
+			"url": "https://upload.wikimedia.org/math/4/e/b/4eb3cb97f7232d7cf37bc56b03c91a81.png",
+			"previous": " ",
+			"after": " As the names indicate weak convergence is weaker than strong convergence In fact strong convergence implies convergence in probability and convergence in probability implies weak convergence The reverse statements are not always true ",
+			"color": "dim|0.41489 gray|0.41489 dim|0.41489 grey|0.41489 gray|0.27159 grey|0.27159 dark|0.17794 gray|0.17794 dark|0.17794 grey|0.17794 silver|0.068703 light|0.03143 gray|0.03143 light|0.03143 grey|0.03143 gainsboro|0.021703 white|0.0038367 smoke|0.0038367  ",
+			"after_weights": " As|1 the|0.9697 names|0.93939 indicate|0.90909 weak|0.87879 convergence|0.84848 is|0.81818 weaker|0.78788 than|0.75758 strong|0.72727 convergence|0.69697 In|0.66667 fact|0.63636 strong|0.60606 convergence|0.57576 implies|0.54545 convergence|0.51515 in|0.48485 probability|0.45455 and|0.42424 convergence|0.39394 in|0.36364 probability|0.33333 implies|0.30303 weak|0.27273 convergence|0.24242 The|0.21212 reverse|0.18182 statements|0.15152 are|0.12121 not|0.090909 always|0.060606 true|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

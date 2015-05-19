@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c07c6f7b7f5464fe7295346d1117c8d0c833abbdca96a6cfa769c7e66bcbd88",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vesalius_Fabrica_p190.jpg/250px-Vesalius_Fabrica_p190.jpg",
+			"previous": " ",
+			"after": " An allegorical anatomy engraving from Andreas Vesalius s De humani corporis fabrica 1543 imparting a moral lesson on the consequences of evil and a physical lesson on the internal structure of the body ",
+			"color": "gray|0.34276 grey|0.34276 dim|0.23728 gray|0.23728 dim|0.23728 grey|0.23728 dark|0.2287 gray|0.2287 dark|0.2287 grey|0.2287 silver|0.10698 light|0.045022 gray|0.045022 light|0.045022 grey|0.045022 gainsboro|0.017152 antique|0.011729 white|0.011729  ",
+			"after_weights": " An|1 allegorical|0.9697 anatomy|0.93939 engraving|0.90909 from|0.87879 Andreas|0.84848 Vesalius|0.81818 s|0.78788 De|0.75758 humani|0.72727 corporis|0.69697 fabrica|0.66667 1543|0.63636 imparting|0.60606 a|0.57576 moral|0.54545 lesson|0.51515 on|0.48485 the|0.45455 consequences|0.42424 of|0.39394 evil|0.36364 and|0.33333 a|0.30303 physical|0.27273 lesson|0.24242 on|0.21212 the|0.18182 internal|0.15152 structure|0.12121 of|0.090909 the|0.060606 body|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

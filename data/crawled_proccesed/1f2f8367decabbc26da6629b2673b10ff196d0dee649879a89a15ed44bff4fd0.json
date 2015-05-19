@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f2f8367decabbc26da6629b2673b10ff196d0dee649879a89a15ed44bff4fd0",
+			"url": "https://upload.wikimedia.org/math/1/a/4/1a43f1a9fb00b2b1f88b4eece64ed3b2.png",
+			"previous": " that can be written also as  The language recognized by M is the regular language given by the regular expression 1 0 1 0 1 where is the Kleene star e g 1 denotes any non negative number possibly zero of symbols 1 ",
+			"after": " ",
+			"color": "dim|0.33924 gray|0.33924 dim|0.33924 grey|0.33924 gray|0.28162 grey|0.28162 dark|0.18909 gray|0.18909 dark|0.18909 grey|0.18909 silver|0.084161 light|0.047195 gray|0.047195 light|0.047195 grey|0.047195 gainsboro|0.032877 white|0.0089551 smoke|0.0089551  ",
+			"after_weights": " ",
+			"previous_weights": " that|0 can|0.022727 be|0.045455 written|0.068182 also|0.090909 as|0.11364 |0.13636 The|0.15909 language|0.18182 recognized|0.20455 by|0.22727 M|0.25 is|0.27273 the|0.29545 regular|0.31818 language|0.34091 given|0.36364 by|0.38636 the|0.40909 regular|0.43182 expression|0.45455 1|0.47727 0|0.5 1|0.52273 0|0.54545 1|0.56818 where|0.59091 is|0.61364 the|0.63636 Kleene|0.65909 star|0.68182 e|0.70455 g|0.72727 1|0.75 denotes|0.77273 any|0.79545 non|0.81818 negative|0.84091 number|0.86364 possibly|0.88636 zero|0.90909 of|0.93182 symbols|0.95455 1|0.97727 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4737a262c9207be9b35467b23e22f5097d6ac642748cf537ddd02cdbf03576f3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Busan_Korea_Maritime_University.jpg/350px-Busan_Korea_Maritime_University.jpg",
+			"previous": " Centum City an industrial complex is a popular new shopping area with luxury department stores ",
+			"after": " Busan not only features a variety of antique and souvenir shops but also unique restaurants attractions and accommodations ",
+			"color": "dark|0.20677 slate|0.20677 gray|0.20677 light|0.18612 steel|0.18612 blue|0.18612 dark|0.11985 gray|0.11985 dark|0.11985 grey|0.11985 dim|0.1012 gray|0.1012 dim|0.1012 grey|0.1012 gray|0.083608 grey|0.083608 light|0.073848 slate|0.073848 gray|0.073848 silver|0.070816 light|0.039751 gray|0.039751 light|0.039751 grey|0.039751 slate|0.027536 gray|0.027536 gainsboro|0.026683 black|0.016321 light|0.006317 blue|0.006317  ",
+			"after_weights": " Busan|1 not|0.94444 only|0.88889 features|0.83333 a|0.77778 variety|0.72222 of|0.66667 antique|0.61111 and|0.55556 souvenir|0.5 shops|0.44444 but|0.38889 also|0.33333 unique|0.27778 restaurants|0.22222 attractions|0.16667 and|0.11111 accommodations|0.055556 |0",
+			"previous_weights": " Centum|0 City|0.066667 an|0.13333 industrial|0.2 complex|0.26667 is|0.33333 a|0.4 popular|0.46667 new|0.53333 shopping|0.6 area|0.66667 with|0.73333 luxury|0.8 department|0.86667 stores|0.93333 |1"
+		}
+	}
+}

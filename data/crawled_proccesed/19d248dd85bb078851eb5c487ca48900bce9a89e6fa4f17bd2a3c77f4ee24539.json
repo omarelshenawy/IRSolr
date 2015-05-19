@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "19d248dd85bb078851eb5c487ca48900bce9a89e6fa4f17bd2a3c77f4ee24539",
+			"url": "https://upload.wikimedia.org/math/e/8/2/e82f81d37315770b739665e462441a27.png",
+			"previous": " In the next group of examples the unknown function u depends on two variables x and t or x and y ",
+			"after": " Solving differential equations is not like solving algebraic equations Not only are their solutions oftentimes unclear but whether solutions are unique or exist at all are also notable subjects of interest ",
+			"color": " ",
+			"after_weights": " Solving|1 differential|0.96774 equations|0.93548 is|0.90323 not|0.87097 like|0.83871 solving|0.80645 algebraic|0.77419 equations|0.74194 Not|0.70968 only|0.67742 are|0.64516 their|0.6129 solutions|0.58065 oftentimes|0.54839 unclear|0.51613 but|0.48387 whether|0.45161 solutions|0.41935 are|0.3871 unique|0.35484 or|0.32258 exist|0.29032 at|0.25806 all|0.22581 are|0.19355 also|0.16129 notable|0.12903 subjects|0.096774 of|0.064516 interest|0.032258 |0",
+			"previous_weights": " In|0 the|0.047619 next|0.095238 group|0.14286 of|0.19048 examples|0.2381 the|0.28571 unknown|0.33333 function|0.38095 u|0.42857 depends|0.47619 on|0.52381 two|0.57143 variables|0.61905 x|0.66667 and|0.71429 t|0.7619 or|0.80952 x|0.85714 and|0.90476 y|0.95238 |1"
+		}
+	}
+}

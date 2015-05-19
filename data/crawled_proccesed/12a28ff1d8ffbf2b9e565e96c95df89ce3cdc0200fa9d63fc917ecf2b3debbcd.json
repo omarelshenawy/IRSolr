@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12a28ff1d8ffbf2b9e565e96c95df89ce3cdc0200fa9d63fc917ecf2b3debbcd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bubulcus_ibis_-_Cattle_egret_%28flock%29.jpg/220px-Bubulcus_ibis_-_Cattle_egret_%28flock%29.jpg",
+			"previous": " Young birds are known to disperse up to 5 000 km 3 100 mi from their breeding area Flocks may fly vast distances and have been seen over seas and oceans including in the middle of the Atlantic 37 ",
+			"after": " ",
+			"color": "dim|0.28553 gray|0.28553 dim|0.28553 grey|0.28553 gray|0.22259 grey|0.22259 dark|0.15527 gray|0.15527 dark|0.15527 grey|0.15527 black|0.13321 silver|0.07064 light|0.037985 gray|0.037985 light|0.037985 grey|0.037985 gainsboro|0.025675 linen|0.0091853  ",
+			"after_weights": " ",
+			"previous_weights": " Young|0 birds|0.025641 are|0.051282 known|0.076923 to|0.10256 disperse|0.12821 up|0.15385 to|0.17949 5|0.20513 000|0.23077 km|0.25641 3|0.28205 100|0.30769 mi|0.33333 from|0.35897 their|0.38462 breeding|0.41026 area|0.4359 Flocks|0.46154 may|0.48718 fly|0.51282 vast|0.53846 distances|0.5641 and|0.58974 have|0.61538 been|0.64103 seen|0.66667 over|0.69231 seas|0.71795 and|0.74359 oceans|0.76923 including|0.79487 in|0.82051 the|0.84615 middle|0.87179 of|0.89744 the|0.92308 Atlantic|0.94872 37|0.97436 |1"
+		}
+	}
+}

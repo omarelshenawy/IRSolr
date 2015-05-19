@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "664e20802bd538b9c1355404bed1cd830ee6d1584b4a38ee6d41bcd8343a4309",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Toll_booths_in_the_UK.jpg/220px-Toll_booths_in_the_UK.jpg",
+			"previous": " ",
+			"after": " A toll road also known as a turnpike or tollway is a public or private roadway for which a fee or toll is assessed for passage It is a form of road pricing typically implemented to help recuperate the cost of road construction and maintenance which on public roads amounts to a form of taxation ",
+			"color": "dim|0.33752 gray|0.33752 dim|0.33752 grey|0.33752 black|0.20238 gray|0.17563 grey|0.17563 dark|0.12507 gray|0.12507 dark|0.12507 grey|0.12507 slate|0.029091 gray|0.029091 silver|0.026476 dark|0.022805 slate|0.022805 gray|0.022805 light|0.011827 slate|0.011827 gray|0.011827  ",
+			"after_weights": " A|1 toll|0.98182 road|0.96364 also|0.94545 known|0.92727 as|0.90909 a|0.89091 turnpike|0.87273 or|0.85455 tollway|0.83636 is|0.81818 a|0.8 public|0.78182 or|0.76364 private|0.74545 roadway|0.72727 for|0.70909 which|0.69091 a|0.67273 fee|0.65455 or|0.63636 toll|0.61818 is|0.6 assessed|0.58182 for|0.56364 passage|0.54545 It|0.52727 is|0.50909 a|0.49091 form|0.47273 of|0.45455 road|0.43636 pricing|0.41818 typically|0.4 implemented|0.38182 to|0.36364 help|0.34545 recuperate|0.32727 the|0.30909 cost|0.29091 of|0.27273 road|0.25455 construction|0.23636 and|0.21818 maintenance|0.2 which|0.18182 on|0.16364 public|0.14545 roads|0.12727 amounts|0.10909 to|0.090909 a|0.072727 form|0.054545 of|0.036364 taxation|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

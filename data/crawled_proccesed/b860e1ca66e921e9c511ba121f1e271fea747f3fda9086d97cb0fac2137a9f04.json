@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b860e1ca66e921e9c511ba121f1e271fea747f3fda9086d97cb0fac2137a9f04",
+			"url": "https://upload.wikimedia.org/math/c/6/c/c6cf5cd3b09c7adf3decb3025fc2dcb1.png",
+			"previous": " which in homogeneous form yields ",
+			"after": " Clearly this equation has the solution x 0 0 0 which is not a point on the z 1 plane E For a solution to exist in the plane E the coefficient matrix C must have rank 2 which means its determinant must be zero Another way to say this is that the columns of the matrix must be linearly dependent ",
+			"color": " ",
+			"after_weights": " Clearly|1 this|0.98361 equation|0.96721 has|0.95082 the|0.93443 solution|0.91803 x|0.90164 0|0.88525 0|0.86885 0|0.85246 which|0.83607 is|0.81967 not|0.80328 a|0.78689 point|0.77049 on|0.7541 the|0.7377 z|0.72131 1|0.70492 plane|0.68852 E|0.67213 For|0.65574 a|0.63934 solution|0.62295 to|0.60656 exist|0.59016 in|0.57377 the|0.55738 plane|0.54098 E|0.52459 the|0.5082 coefficient|0.4918 matrix|0.47541 C|0.45902 must|0.44262 have|0.42623 rank|0.40984 2|0.39344 which|0.37705 means|0.36066 its|0.34426 determinant|0.32787 must|0.31148 be|0.29508 zero|0.27869 Another|0.2623 way|0.2459 to|0.22951 say|0.21311 this|0.19672 is|0.18033 that|0.16393 the|0.14754 columns|0.13115 of|0.11475 the|0.098361 matrix|0.081967 must|0.065574 be|0.04918 linearly|0.032787 dependent|0.016393 |0",
+			"previous_weights": " which|0 in|0.2 homogeneous|0.4 form|0.6 yields|0.8 |1"
+		}
+	}
+}

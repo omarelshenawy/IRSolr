@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fff7798f4544d33efdb80260c088e9c8253e58f0f21e64691537ceb5b6409bd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/YJAV72.JPG/220px-YJAV72.JPG",
+			"previous": " ",
+			"after": " Air Vanuatu is an airline with its head office in the Air Vanuatu House Port Vila Vanuatu 1 It is Vanuatu s national flag carrier operating to Australia New Zealand and points in the South Pacific Its main base is Bauerfield International Airport Port Vila 2 ",
+			"color": "black|0.29303 gray|0.11111 grey|0.11111 dark|0.10517 gray|0.10517 dark|0.10517 grey|0.10517 dim|0.10198 gray|0.10198 dim|0.10198 grey|0.10198 silver|0.078495 light|0.071175 gray|0.071175 light|0.071175 grey|0.071175 gainsboro|0.057772 dark|0.023544 olive|0.023544 green|0.023544 dark|0.018479 slate|0.018479 gray|0.018479  ",
+			"after_weights": " Air|1 Vanuatu|0.97826 is|0.95652 an|0.93478 airline|0.91304 with|0.8913 its|0.86957 head|0.84783 office|0.82609 in|0.80435 the|0.78261 Air|0.76087 Vanuatu|0.73913 House|0.71739 Port|0.69565 Vila|0.67391 Vanuatu|0.65217 1|0.63043 It|0.6087 is|0.58696 Vanuatu|0.56522 s|0.54348 national|0.52174 flag|0.5 carrier|0.47826 operating|0.45652 to|0.43478 Australia|0.41304 New|0.3913 Zealand|0.36957 and|0.34783 points|0.32609 in|0.30435 the|0.28261 South|0.26087 Pacific|0.23913 Its|0.21739 main|0.19565 base|0.17391 is|0.15217 Bauerfield|0.13043 International|0.1087 Airport|0.086957 Port|0.065217 Vila|0.043478 2|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

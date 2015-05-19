@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "978b6af75bad8a5b13d7ec387e9e8a7e0ac98c030fc3488bc82fd8203c096ece",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Brain_CT_scan.jpg/175px-Brain_CT_scan.jpg",
+			"previous": " ",
+			"after": " Computed tomography CT scanning is a medical imaging modality where tomographic images or slices of specific areas of the body are obtained from a large series of two dimensional X ray images taken in different directions 26 These cross sectional images can be combined into a three dimensional image of the inside of the body and used for diagnostic and therapeutic purposes in various medical disciplines ",
+			"color": "dim|0.52626 gray|0.52626 dim|0.52626 grey|0.52626 gray|0.11039 grey|0.11039 white|0.031742 smoke|0.031742 ghost|0.03048 white|0.03048 alice|0.030443 blue|0.030443 snow|0.030381 sea|0.030313 shell|0.030313 white|0.030231 mint|0.029795 cream|0.029795 floral|0.029235 white|0.029235 azure|0.028915 lavender|0.028876 blush|0.028876 dark|0.018711 gray|0.018711 dark|0.018711 grey|0.018711 black|0.012565 silver|0.011437 light|0.0091432 gray|0.0091432 light|0.0091432 grey|0.0091432 gainsboro|0.0077092  ",
+			"after_weights": " Computed|1 tomography|0.98485 CT|0.9697 scanning|0.95455 is|0.93939 a|0.92424 medical|0.90909 imaging|0.89394 modality|0.87879 where|0.86364 tomographic|0.84848 images|0.83333 or|0.81818 slices|0.80303 of|0.78788 specific|0.77273 areas|0.75758 of|0.74242 the|0.72727 body|0.71212 are|0.69697 obtained|0.68182 from|0.66667 a|0.65152 large|0.63636 series|0.62121 of|0.60606 two|0.59091 dimensional|0.57576 X|0.56061 ray|0.54545 images|0.5303 taken|0.51515 in|0.5 different|0.48485 directions|0.4697 26|0.45455 These|0.43939 cross|0.42424 sectional|0.40909 images|0.39394 can|0.37879 be|0.36364 combined|0.34848 into|0.33333 a|0.31818 three|0.30303 dimensional|0.28788 image|0.27273 of|0.25758 the|0.24242 inside|0.22727 of|0.21212 the|0.19697 body|0.18182 and|0.16667 used|0.15152 for|0.13636 diagnostic|0.12121 and|0.10606 therapeutic|0.090909 purposes|0.075758 in|0.060606 various|0.045455 medical|0.030303 disciplines|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

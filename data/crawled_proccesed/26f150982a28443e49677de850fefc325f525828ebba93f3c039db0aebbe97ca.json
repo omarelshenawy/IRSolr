@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "26f150982a28443e49677de850fefc325f525828ebba93f3c039db0aebbe97ca",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Boston_Globe_building_Sept_2009.jpg/250px-Boston_Globe_building_Sept_2009.jpg",
+			"previous": " The Boston Globe has consistently been ranked in the forefront of American journalism Time magazine listed it as one of the ten best US daily newspapers in 1974 and 1984 and the Globe tied for sixth in a national survey of top editors who chose America s Best Newspapers in the Columbia Journalism Review in 1999 ",
+			"after": " The Boston Globe hosts 28 blogs covering a variety of topics including Boston sports local politics and a blog made up of posts from the paper s opinion writers 11 ",
+			"color": "black|0.42285 dim|0.3497 gray|0.3497 dim|0.3497 grey|0.3497 slate|0.09368 gray|0.09368 gray|0.075876 grey|0.075876 light|0.04247 slate|0.04247 gray|0.04247  ",
+			"after_weights": " The|1 Boston|0.96667 Globe|0.93333 hosts|0.9 28|0.86667 blogs|0.83333 covering|0.8 a|0.76667 variety|0.73333 of|0.7 topics|0.66667 including|0.63333 Boston|0.6 sports|0.56667 local|0.53333 politics|0.5 and|0.46667 a|0.43333 blog|0.4 made|0.36667 up|0.33333 of|0.3 posts|0.26667 from|0.23333 the|0.2 paper|0.16667 s|0.13333 opinion|0.1 writers|0.066667 11|0.033333 |0",
+			"previous_weights": " The|0 Boston|0.017857 Globe|0.035714 has|0.053571 consistently|0.071429 been|0.089286 ranked|0.10714 in|0.125 the|0.14286 forefront|0.16071 of|0.17857 American|0.19643 journalism|0.21429 Time|0.23214 magazine|0.25 listed|0.26786 it|0.28571 as|0.30357 one|0.32143 of|0.33929 the|0.35714 ten|0.375 best|0.39286 US|0.41071 daily|0.42857 newspapers|0.44643 in|0.46429 1974|0.48214 and|0.5 1984|0.51786 and|0.53571 the|0.55357 Globe|0.57143 tied|0.58929 for|0.60714 sixth|0.625 in|0.64286 a|0.66071 national|0.67857 survey|0.69643 of|0.71429 top|0.73214 editors|0.75 who|0.76786 chose|0.78571 America|0.80357 s|0.82143 Best|0.83929 Newspapers|0.85714 in|0.875 the|0.89286 Columbia|0.91071 Journalism|0.92857 Review|0.94643 in|0.96429 1999|0.98214 |1"
+		}
+	}
+}

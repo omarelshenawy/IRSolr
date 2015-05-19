@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "113692cecc9182ca21ea64e3191f7d9ca163c043d0efb5209ff9815c85610ca7",
+			"url": "https://upload.wikimedia.org/math/3/9/f/39f7b1309331d9394ebf3f7f89056f91.png",
+			"previous": " As an example suppose the following is to be calculated  and there is no simpler expression for this function It is therefore important not to interpret the second part of the theorem as the definition of the integral Indeed there are many functions that are integrable but lack antiderivatives that can be written as an elementary function Conversely many functions that have antiderivatives are not Riemann integrable see Volterra s function ",
+			"after": " Here and we can use as the antiderivative Therefore  Or more generally suppose that",
+			"color": "gray|0.28712 grey|0.28712 dark|0.25186 gray|0.25186 dark|0.25186 grey|0.25186 dim|0.21391 gray|0.21391 dim|0.21391 grey|0.21391 silver|0.11704 light|0.057709 gray|0.057709 light|0.057709 grey|0.057709 gainsboro|0.041922 white|0.007655 smoke|0.007655 linen|0.0041286 lavender|0.0033868 blush|0.0033868 alice|0.0032835 blue|0.0032835 ghost|0.0031115 white|0.0031115 sea|0.0029272 shell|0.0029272 snow|0.0027337  ",
+			"after_weights": " Here|1 and|0.92857 we|0.85714 can|0.78571 use|0.71429 as|0.64286 the|0.57143 antiderivative|0.5 Therefore|0.42857 |0.35714 Or|0.28571 more|0.21429 generally|0.14286 suppose|0.071429 that|0",
+			"previous_weights": " As|0 an|0.013889 example|0.027778 suppose|0.041667 the|0.055556 following|0.069444 is|0.083333 to|0.097222 be|0.11111 calculated|0.125 |0.13889 and|0.15278 there|0.16667 is|0.18056 no|0.19444 simpler|0.20833 expression|0.22222 for|0.23611 this|0.25 function|0.26389 It|0.27778 is|0.29167 therefore|0.30556 important|0.31944 not|0.33333 to|0.34722 interpret|0.36111 the|0.375 second|0.38889 part|0.40278 of|0.41667 the|0.43056 theorem|0.44444 as|0.45833 the|0.47222 definition|0.48611 of|0.5 the|0.51389 integral|0.52778 Indeed|0.54167 there|0.55556 are|0.56944 many|0.58333 functions|0.59722 that|0.61111 are|0.625 integrable|0.63889 but|0.65278 lack|0.66667 antiderivatives|0.68056 that|0.69444 can|0.70833 be|0.72222 written|0.73611 as|0.75 an|0.76389 elementary|0.77778 function|0.79167 Conversely|0.80556 many|0.81944 functions|0.83333 that|0.84722 have|0.86111 antiderivatives|0.875 are|0.88889 not|0.90278 Riemann|0.91667 integrable|0.93056 see|0.94444 Volterra|0.95833 s|0.97222 function|0.98611 |1"
+		}
+	}
+}

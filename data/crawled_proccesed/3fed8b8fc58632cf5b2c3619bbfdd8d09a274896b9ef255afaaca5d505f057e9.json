@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fed8b8fc58632cf5b2c3619bbfdd8d09a274896b9ef255afaaca5d505f057e9",
+			"url": "https://upload.wikimedia.org/math/2/6/a/26ad295574b34d69c40d9ffac1f5b898.png",
+			"previous": " With these definitions the continuity equation reads ",
+			"after": " Either form may be quoted Intuitively the above quantities indicate this represents the flow of probability The chance of finding the particle at some position r and time t flows like a fluid hence the term probability current a vector field The particle itself does not flow deterministically in this vector field ",
+			"color": "dim|0.3808 gray|0.3808 dim|0.3808 grey|0.3808 gray|0.26672 grey|0.26672 dark|0.17492 gray|0.17492 dark|0.17492 grey|0.17492 silver|0.087753 light|0.043892 gray|0.043892 light|0.043892 grey|0.043892 gainsboro|0.028592 white|0.0047385 smoke|0.0047385  ",
+			"after_weights": " Either|1 form|0.98077 may|0.96154 be|0.94231 quoted|0.92308 Intuitively|0.90385 the|0.88462 above|0.86538 quantities|0.84615 indicate|0.82692 this|0.80769 represents|0.78846 the|0.76923 flow|0.75 of|0.73077 probability|0.71154 The|0.69231 chance|0.67308 of|0.65385 finding|0.63462 the|0.61538 particle|0.59615 at|0.57692 some|0.55769 position|0.53846 r|0.51923 and|0.5 time|0.48077 t|0.46154 flows|0.44231 like|0.42308 a|0.40385 fluid|0.38462 hence|0.36538 the|0.34615 term|0.32692 probability|0.30769 current|0.28846 a|0.26923 vector|0.25 field|0.23077 The|0.21154 particle|0.19231 itself|0.17308 does|0.15385 not|0.13462 flow|0.11538 deterministically|0.096154 in|0.076923 this|0.057692 vector|0.038462 field|0.019231 |0",
+			"previous_weights": " With|0 these|0.14286 definitions|0.28571 the|0.42857 continuity|0.57143 equation|0.71429 reads|0.85714 |1"
+		}
+	}
+}

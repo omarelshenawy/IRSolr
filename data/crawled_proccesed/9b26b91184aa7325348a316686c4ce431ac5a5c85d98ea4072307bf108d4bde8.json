@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b26b91184aa7325348a316686c4ce431ac5a5c85d98ea4072307bf108d4bde8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/September_11_attack_seen_from_space_by_nasa.jpg/220px-September_11_attack_seen_from_space_by_nasa.jpg",
+			"previous": " ",
+			"after": " At 8 46 a m five hijackers crashed American Airlines Flight 11 into the northern facade of the World Trade Center s North Tower 1 WTC and at 9 03 a m another five hijackers crashed United Airlines Flight 175 into the southern facade of the South Tower 2 WTC 81 82 Five hijackers flew American Airlines Flight 77 into the Pentagon at 9 37 a m 83 ",
+			"color": "gray|0.52713 grey|0.52713 dim|0.34573 gray|0.34573 dim|0.34573 grey|0.34573 dark|0.066902 gray|0.066902 dark|0.066902 grey|0.066902 black|0.026258 light|0.010357 slate|0.010357 gray|0.010357 slate|0.0093239 gray|0.0093239 silver|0.0073771  ",
+			"after_weights": " At|1 8|0.98529 46|0.97059 a|0.95588 m|0.94118 five|0.92647 hijackers|0.91176 crashed|0.89706 American|0.88235 Airlines|0.86765 Flight|0.85294 11|0.83824 into|0.82353 the|0.80882 northern|0.79412 facade|0.77941 of|0.76471 the|0.75 World|0.73529 Trade|0.72059 Center|0.70588 s|0.69118 North|0.67647 Tower|0.66176 1|0.64706 WTC|0.63235 and|0.61765 at|0.60294 9|0.58824 03|0.57353 a|0.55882 m|0.54412 another|0.52941 five|0.51471 hijackers|0.5 crashed|0.48529 United|0.47059 Airlines|0.45588 Flight|0.44118 175|0.42647 into|0.41176 the|0.39706 southern|0.38235 facade|0.36765 of|0.35294 the|0.33824 South|0.32353 Tower|0.30882 2|0.29412 WTC|0.27941 81|0.26471 82|0.25 Five|0.23529 hijackers|0.22059 flew|0.20588 American|0.19118 Airlines|0.17647 Flight|0.16176 77|0.14706 into|0.13235 the|0.11765 Pentagon|0.10294 at|0.088235 9|0.073529 37|0.058824 a|0.044118 m|0.029412 83|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

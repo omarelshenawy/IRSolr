@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a1c13f25937b5378d5ed0bd680e269a6b826310d54981a35199162f5df34c4c",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Quadratic-equation.svg/220px-Quadratic-equation.svg.png",
+			"previous": " ",
+			"after": " A quadratic equation is one which includes a term with an exponent of 2 for example 35 and no term with higher exponent The name derives from the Latin quadrus meaning square 36 In general a quadratic equation can be expressed in the form 37 where is not zero if it were zero then the equation would not be quadratic but linear Because of this a quadratic equation must contain the term which is known as the quadratic term Hence and so we may divide by and rearrange the equation into the standard form",
+			"color": "black|0.25169 light|0.16104 coral|0.16104 salmon|0.11572 red|0.093539 gray|0.092575 grey|0.092575 dim|0.082449 gray|0.082449 dim|0.082449 grey|0.082449 light|0.062199 pink|0.062199 dark|0.06027 gray|0.06027 dark|0.06027 grey|0.06027 pink|0.026519 silver|0.023144 light|0.0086789 gray|0.0086789 light|0.0086789 grey|0.0086789 rosy|0.0057859 brown|0.0057859 gainsboro|0.0053038  ",
+			"after_weights": " A|1 quadratic|0.98925 equation|0.97849 is|0.96774 one|0.95699 which|0.94624 includes|0.93548 a|0.92473 term|0.91398 with|0.90323 an|0.89247 exponent|0.88172 of|0.87097 2|0.86022 for|0.84946 example|0.83871 35|0.82796 and|0.8172 no|0.80645 term|0.7957 with|0.78495 higher|0.77419 exponent|0.76344 The|0.75269 name|0.74194 derives|0.73118 from|0.72043 the|0.70968 Latin|0.69892 quadrus|0.68817 meaning|0.67742 square|0.66667 36|0.65591 In|0.64516 general|0.63441 a|0.62366 quadratic|0.6129 equation|0.60215 can|0.5914 be|0.58065 expressed|0.56989 in|0.55914 the|0.54839 form|0.53763 37|0.52688 where|0.51613 is|0.50538 not|0.49462 zero|0.48387 if|0.47312 it|0.46237 were|0.45161 zero|0.44086 then|0.43011 the|0.41935 equation|0.4086 would|0.39785 not|0.3871 be|0.37634 quadratic|0.36559 but|0.35484 linear|0.34409 Because|0.33333 of|0.32258 this|0.31183 a|0.30108 quadratic|0.29032 equation|0.27957 must|0.26882 contain|0.25806 the|0.24731 term|0.23656 which|0.22581 is|0.21505 known|0.2043 as|0.19355 the|0.1828 quadratic|0.17204 term|0.16129 Hence|0.15054 and|0.13978 so|0.12903 we|0.11828 may|0.10753 divide|0.096774 by|0.086022 and|0.075269 rearrange|0.064516 the|0.053763 equation|0.043011 into|0.032258 the|0.021505 standard|0.010753 form|0",
+			"previous_weights": " "
+		}
+	}
+}

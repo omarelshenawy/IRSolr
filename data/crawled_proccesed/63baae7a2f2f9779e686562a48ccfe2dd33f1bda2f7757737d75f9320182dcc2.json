@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63baae7a2f2f9779e686562a48ccfe2dd33f1bda2f7757737d75f9320182dcc2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/A318.jpg/220px-A318.jpg",
+			"previous": " The maiden flight of the Airbus A318 took place at Toulouse on 15 January 2002 and the first customer delivery was on 22 July 2003 to Frontier Airlines 15 As of July 2013 47 A318s remained in commercial service with 6 airlines 16 ",
+			"after": " ",
+			"color": "dark|0.42629 gray|0.42629 dark|0.42629 grey|0.42629 gray|0.12827 grey|0.12827 silver|0.11477 dim|0.06588 gray|0.06588 dim|0.06588 grey|0.06588 black|0.034766 light|0.029277 gray|0.029277 light|0.029277 grey|0.029277 gainsboro|0.022294 slate|0.017306 gray|0.017306 white|0.016229 smoke|0.016229 alice|0.015809 blue|0.015809 light|0.01407 slate|0.01407 gray|0.01407 ghost|0.013869 white|0.013869 azure|0.013294 mint|0.012747 cream|0.012747 snow|0.012705 white|0.012254 sea|0.010321 shell|0.010321 floral|0.0094346 white|0.0094346 light|0.0067484 steel|0.0067484 blue|0.0067484 lavender|0.0057242 blush|0.0057242 lavender|0.0039924 linen|0.0030562  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 maiden|0.023256 flight|0.046512 of|0.069767 the|0.093023 Airbus|0.11628 A318|0.13953 took|0.16279 place|0.18605 at|0.2093 Toulouse|0.23256 on|0.25581 15|0.27907 January|0.30233 2002|0.32558 and|0.34884 the|0.37209 first|0.39535 customer|0.4186 delivery|0.44186 was|0.46512 on|0.48837 22|0.51163 July|0.53488 2003|0.55814 to|0.5814 Frontier|0.60465 Airlines|0.62791 15|0.65116 As|0.67442 of|0.69767 July|0.72093 2013|0.74419 47|0.76744 A318s|0.7907 remained|0.81395 in|0.83721 commercial|0.86047 service|0.88372 with|0.90698 6|0.93023 airlines|0.95349 16|0.97674 |1"
+		}
+	}
+}

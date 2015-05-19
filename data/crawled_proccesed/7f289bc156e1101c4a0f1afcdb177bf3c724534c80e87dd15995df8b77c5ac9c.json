@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f289bc156e1101c4a0f1afcdb177bf3c724534c80e87dd15995df8b77c5ac9c",
+			"url": "https://upload.wikimedia.org/math/a/e/1/ae16b1adcc95b94ab22fac971ab95bb2.png",
+			"previous": " From this it follows that the center of pressure is aft of the quarter chord point 0 25 c by",
+			"after": " The aerodynamic center AC is at the quarter chord point The AC is where the pitching moment M does not vary with angle of attack i e ",
+			"color": "dim|0.35127 gray|0.35127 dim|0.35127 grey|0.35127 gray|0.28909 grey|0.28909 dark|0.18905 gray|0.18905 dark|0.18905 grey|0.18905 silver|0.085092 light|0.042066 gray|0.042066 light|0.042066 grey|0.042066 gainsboro|0.028861 white|0.0038792 smoke|0.0038792  ",
+			"after_weights": " The|1 aerodynamic|0.96296 center|0.92593 AC|0.88889 is|0.85185 at|0.81481 the|0.77778 quarter|0.74074 chord|0.7037 point|0.66667 The|0.62963 AC|0.59259 is|0.55556 where|0.51852 the|0.48148 pitching|0.44444 moment|0.40741 M|0.37037 does|0.33333 not|0.2963 vary|0.25926 with|0.22222 angle|0.18519 of|0.14815 attack|0.11111 i|0.074074 e|0.037037 |0",
+			"previous_weights": " From|0 this|0.052632 it|0.10526 follows|0.15789 that|0.21053 the|0.26316 center|0.31579 of|0.36842 pressure|0.42105 is|0.47368 aft|0.52632 of|0.57895 the|0.63158 quarter|0.68421 chord|0.73684 point|0.78947 0|0.84211 25|0.89474 c|0.94737 by|1"
+		}
+	}
+}

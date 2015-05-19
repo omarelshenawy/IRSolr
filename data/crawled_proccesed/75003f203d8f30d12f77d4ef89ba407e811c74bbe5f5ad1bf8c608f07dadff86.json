@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "75003f203d8f30d12f77d4ef89ba407e811c74bbe5f5ad1bf8c608f07dadff86",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KLM_Airbus_A330-200_PH-AOA_Toronto_Pearson_International_Airport.jpg/220px-KLM_Airbus_A330-200_PH-AOA_Toronto_Pearson_International_Airport.jpg",
+			"previous": " ",
+			"after": " Pearson operates two primary cargo facilities The Cargo West Facilities are located between runways 15L 33R and 15R 33L and the Cargo Area 5 or VISTA Cargo Centres Incorporated are located north of Terminal 3 A third facility dedicated to FedEx operations occupies facilities at the north side of the airport near runway 05 23 65 ",
+			"color": "dim|0.15239 gray|0.15239 dim|0.15239 grey|0.15239 gray|0.10636 grey|0.10636 dark|0.092794 gray|0.092794 dark|0.092794 grey|0.092794 deep|0.071471 sky|0.071471 blue|0.071471 tan|0.067731 dark|0.057206 olive|0.057206 green|0.057206 burly|0.049549 wood|0.049549 silver|0.048485 slate|0.046957 gray|0.046957 light|0.036943 slate|0.036943 gray|0.036943 steel|0.032003 blue|0.032003 light|0.026593 gray|0.026593 light|0.026593 grey|0.026593 black|0.025647 antique|0.02076 white|0.02076 dark|0.015152 slate|0.015152 gray|0.015152 gainsboro|0.013168 linen|0.0097954 beige|0.0097909 old|0.0089694 lace|0.0089694  ",
+			"after_weights": " Pearson|1 operates|0.98214 two|0.96429 primary|0.94643 cargo|0.92857 facilities|0.91071 The|0.89286 Cargo|0.875 West|0.85714 Facilities|0.83929 are|0.82143 located|0.80357 between|0.78571 runways|0.76786 15L|0.75 33R|0.73214 and|0.71429 15R|0.69643 33L|0.67857 and|0.66071 the|0.64286 Cargo|0.625 Area|0.60714 5|0.58929 or|0.57143 VISTA|0.55357 Cargo|0.53571 Centres|0.51786 Incorporated|0.5 are|0.48214 located|0.46429 north|0.44643 of|0.42857 Terminal|0.41071 3|0.39286 A|0.375 third|0.35714 facility|0.33929 dedicated|0.32143 to|0.30357 FedEx|0.28571 operations|0.26786 occupies|0.25 facilities|0.23214 at|0.21429 the|0.19643 north|0.17857 side|0.16071 of|0.14286 the|0.125 airport|0.10714 near|0.089286 runway|0.071429 05|0.053571 23|0.035714 65|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

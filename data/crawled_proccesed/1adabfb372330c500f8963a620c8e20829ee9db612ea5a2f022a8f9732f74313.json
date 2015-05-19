@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1adabfb372330c500f8963a620c8e20829ee9db612ea5a2f022a8f9732f74313",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PAVE_PAWS_Radar_Clear_AFS_Alaska.jpg/220px-PAVE_PAWS_Radar_Clear_AFS_Alaska.jpg",
+			"previous": " ",
+			"after": " Raytheon is a developer and manufacturer of radars including AESAs electro optical sensors and other advanced electronics systems for airborne naval and ground based military applications Examples include ",
+			"color": "gray|0.30456 grey|0.30456 light|0.10009 gray|0.10009 light|0.10009 grey|0.10009 silver|0.076745 light|0.066682 steel|0.066682 blue|0.066682 dim|0.062975 gray|0.062975 dim|0.062975 grey|0.062975 gainsboro|0.061638 antique|0.03509 white|0.03509 linen|0.026328 white|0.0255 smoke|0.0255 dark|0.022184 gray|0.022184 dark|0.022184 grey|0.022184 sea|0.021876 shell|0.021876 snow|0.020017 floral|0.017796 white|0.017796 ghost|0.015646 white|0.015646 white|0.015445 mint|0.013352 cream|0.013352 old|0.013133 lace|0.013133 lavender|0.012873 blush|0.012873 light|0.012328 blue|0.012328 alice|0.012006 blue|0.012006 lavender|0.010922 slate|0.0088796 gray|0.0088796  ",
+			"after_weights": " Raytheon|1 is|0.96429 a|0.92857 developer|0.89286 and|0.85714 manufacturer|0.82143 of|0.78571 radars|0.75 including|0.71429 AESAs|0.67857 electro|0.64286 optical|0.60714 sensors|0.57143 and|0.53571 other|0.5 advanced|0.46429 electronics|0.42857 systems|0.39286 for|0.35714 airborne|0.32143 naval|0.28571 and|0.25 ground|0.21429 based|0.17857 military|0.14286 applications|0.10714 Examples|0.071429 include|0.035714 |0",
+			"previous_weights": " "
+		}
+	}
+}

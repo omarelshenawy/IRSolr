@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "692b14520f6e2a7a780ad5f93e7cb263e683cee4536e665146f50dd966714fab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/250px-OSI_Model_v1.svg.png",
+			"previous": " ",
+			"after": " The Internet is a worldwide network of computers and computer networks that communicate with each other using the Internet Protocol 56 Any computer on the Internet has a unique IP address that can be used by other computers to route information to it Hence any computer on the Internet can send a message to any other computer using its IP address These messages carry with them the originating computer s IP address allowing for two way communication The Internet is thus an exchange of messages between computers 57 ",
+			"color": "khaki|0.54252 dark|0.077521 khaki|0.077521 burly|0.073758 wood|0.073758 silver|0.045639 light|0.039809 gray|0.039809 light|0.039809 grey|0.039809 gainsboro|0.028105 dark|0.024272 gray|0.024272 dark|0.024272 grey|0.024272 white|0.022607 smoke|0.022607 alice|0.016007 blue|0.016007 ghost|0.015975 white|0.015975 sea|0.015961 shell|0.015961 snow|0.015936 white|0.015855 mint|0.013886 cream|0.013886 lavender|0.01383 blush|0.01383 floral|0.013823 white|0.013823 azure|0.013773  ",
+			"after_weights": " The|1 Internet|0.98864 is|0.97727 a|0.96591 worldwide|0.95455 network|0.94318 of|0.93182 computers|0.92045 and|0.90909 computer|0.89773 networks|0.88636 that|0.875 communicate|0.86364 with|0.85227 each|0.84091 other|0.82955 using|0.81818 the|0.80682 Internet|0.79545 Protocol|0.78409 56|0.77273 Any|0.76136 computer|0.75 on|0.73864 the|0.72727 Internet|0.71591 has|0.70455 a|0.69318 unique|0.68182 IP|0.67045 address|0.65909 that|0.64773 can|0.63636 be|0.625 used|0.61364 by|0.60227 other|0.59091 computers|0.57955 to|0.56818 route|0.55682 information|0.54545 to|0.53409 it|0.52273 Hence|0.51136 any|0.5 computer|0.48864 on|0.47727 the|0.46591 Internet|0.45455 can|0.44318 send|0.43182 a|0.42045 message|0.40909 to|0.39773 any|0.38636 other|0.375 computer|0.36364 using|0.35227 its|0.34091 IP|0.32955 address|0.31818 These|0.30682 messages|0.29545 carry|0.28409 with|0.27273 them|0.26136 the|0.25 originating|0.23864 computer|0.22727 s|0.21591 IP|0.20455 address|0.19318 allowing|0.18182 for|0.17045 two|0.15909 way|0.14773 communication|0.13636 The|0.125 Internet|0.11364 is|0.10227 thus|0.090909 an|0.079545 exchange|0.068182 of|0.056818 messages|0.045455 between|0.034091 computers|0.022727 57|0.011364 |0",
+			"previous_weights": " "
+		}
+	}
+}

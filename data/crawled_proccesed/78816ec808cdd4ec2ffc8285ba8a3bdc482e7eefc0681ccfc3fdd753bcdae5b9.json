@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78816ec808cdd4ec2ffc8285ba8a3bdc482e7eefc0681ccfc3fdd753bcdae5b9",
+			"url": "https://upload.wikimedia.org/math/4/4/5/445acf6e26718d765428150b05548f8d.png",
+			"previous": " The intuition is that a b stands for the result of subtracting b from a 8 To confirm our expectation that 1 2 and 4 5 denote the same number we define an equivalence relation on these pairs with the following rule ",
+			"after": " precisely when",
+			"color": "dim|0.37186 gray|0.37186 dim|0.37186 grey|0.37186 gray|0.29393 grey|0.29393 dark|0.17869 gray|0.17869 dark|0.17869 grey|0.17869 silver|0.075245 light|0.036172 gray|0.036172 light|0.036172 grey|0.036172 gainsboro|0.02473 white|0.0045155 smoke|0.0045155  ",
+			"after_weights": " precisely|1 when|0",
+			"previous_weights": " The|0 intuition|0.02381 is|0.047619 that|0.071429 a|0.095238 b|0.11905 stands|0.14286 for|0.16667 the|0.19048 result|0.21429 of|0.2381 subtracting|0.2619 b|0.28571 from|0.30952 a|0.33333 8|0.35714 To|0.38095 confirm|0.40476 our|0.42857 expectation|0.45238 that|0.47619 1|0.5 2|0.52381 and|0.54762 4|0.57143 5|0.59524 denote|0.61905 the|0.64286 same|0.66667 number|0.69048 we|0.71429 define|0.7381 an|0.7619 equivalence|0.78571 relation|0.80952 on|0.83333 these|0.85714 pairs|0.88095 with|0.90476 the|0.92857 following|0.95238 rule|0.97619 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f1ec9091a9dc42b5eb7c5722c7f54f4c738d9942ed29c69fed7d7b17b0ef711",
+			"url": "https://upload.wikimedia.org/math/3/f/d/3fdb281e30030ec394abee2a8d6a6bd7.png",
+			"previous": " More generally than sequences of real numbers functions f R are endowed with a norm that replaces the above sum by the Lebesgue integral",
+			"after": " The space of integrable functions on a given domain for example an interval satisfying f p and equipped with this norm are called Lebesgue spaces denoted Lp nb 9 These spaces are complete 57 If one uses the Riemann integral instead the space is not complete which may be seen as a justification for Lebesgue s integration theory nb 10 Concretely this means that for any sequence of Lebesgue integrable functions f1 f2 with fn p satisfying the condition",
+			"color": "dim|0.28691 gray|0.28691 dim|0.28691 grey|0.28691 gray|0.28019 grey|0.28019 dark|0.21972 gray|0.21972 dark|0.21972 grey|0.21972 silver|0.10483 light|0.053875 gray|0.053875 light|0.053875 grey|0.053875 gainsboro|0.038311 white|0.0041921 smoke|0.0041921  ",
+			"after_weights": " The|1 space|0.98718 of|0.97436 integrable|0.96154 functions|0.94872 on|0.9359 a|0.92308 given|0.91026 domain|0.89744 for|0.88462 example|0.87179 an|0.85897 interval|0.84615 satisfying|0.83333 f|0.82051 p|0.80769 and|0.79487 equipped|0.78205 with|0.76923 this|0.75641 norm|0.74359 are|0.73077 called|0.71795 Lebesgue|0.70513 spaces|0.69231 denoted|0.67949 Lp|0.66667 nb|0.65385 9|0.64103 These|0.62821 spaces|0.61538 are|0.60256 complete|0.58974 57|0.57692 If|0.5641 one|0.55128 uses|0.53846 the|0.52564 Riemann|0.51282 integral|0.5 instead|0.48718 the|0.47436 space|0.46154 is|0.44872 not|0.4359 complete|0.42308 which|0.41026 may|0.39744 be|0.38462 seen|0.37179 as|0.35897 a|0.34615 justification|0.33333 for|0.32051 Lebesgue|0.30769 s|0.29487 integration|0.28205 theory|0.26923 nb|0.25641 10|0.24359 Concretely|0.23077 this|0.21795 means|0.20513 that|0.19231 for|0.17949 any|0.16667 sequence|0.15385 of|0.14103 Lebesgue|0.12821 integrable|0.11538 functions|0.10256 f1|0.089744 f2|0.076923 with|0.064103 fn|0.051282 p|0.038462 satisfying|0.025641 the|0.012821 condition|0",
+			"previous_weights": " More|0 generally|0.043478 than|0.086957 sequences|0.13043 of|0.17391 real|0.21739 numbers|0.26087 functions|0.30435 f|0.34783 R|0.3913 are|0.43478 endowed|0.47826 with|0.52174 a|0.56522 norm|0.6087 that|0.65217 replaces|0.69565 the|0.73913 above|0.78261 sum|0.82609 by|0.86957 the|0.91304 Lebesgue|0.95652 integral|1"
+		}
+	}
+}

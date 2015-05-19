@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "912df52eba21e554bd7d6ca7f6cc534d38e8522b6bb2cf991b5e8d2d729b7a8e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rangifer_tarandus_Map_NA.svg/310px-Rangifer_tarandus_Map_NA.svg.png",
+			"previous": " ",
+			"after": " There are four living subspecies of R tarandus locally known in North America as caribou R t granti Porcupine caribou R t caribou subdivided into ecotypes woodland boreal woodland migratory woodland montane R t groenlandicus and R t pearyi ",
+			"color": "gold|0.58293 golden|0.19015 rod|0.19015 dark|0.088133 khaki|0.088133 wheat|0.05015 khaki|0.019084 pale|0.016262 golden|0.016262 rod|0.016262  ",
+			"after_weights": " There|1 are|0.97436 four|0.94872 living|0.92308 subspecies|0.89744 of|0.87179 R|0.84615 tarandus|0.82051 locally|0.79487 known|0.76923 in|0.74359 North|0.71795 America|0.69231 as|0.66667 caribou|0.64103 R|0.61538 t|0.58974 granti|0.5641 Porcupine|0.53846 caribou|0.51282 R|0.48718 t|0.46154 caribou|0.4359 subdivided|0.41026 into|0.38462 ecotypes|0.35897 woodland|0.33333 boreal|0.30769 woodland|0.28205 migratory|0.25641 woodland|0.23077 montane|0.20513 R|0.17949 t|0.15385 groenlandicus|0.12821 and|0.10256 R|0.076923 t|0.051282 pearyi|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

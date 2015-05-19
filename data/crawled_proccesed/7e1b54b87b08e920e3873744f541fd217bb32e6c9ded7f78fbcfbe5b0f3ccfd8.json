@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e1b54b87b08e920e3873744f541fd217bb32e6c9ded7f78fbcfbe5b0f3ccfd8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/National_Postal_Museum_Planes.jpg/220px-National_Postal_Museum_Planes.jpg",
+			"previous": " The SR 10 Reliant was available as a landplane seaplane and skidplane in the following configurations 2 ",
+			"after": " Data from General Dynamics Aircraft and their Predecessors 8  General characteristics Performance",
+			"color": "black|0.28191 gray|0.24875 grey|0.24875 dim|0.22746 gray|0.22746 dim|0.22746 grey|0.22746 dark|0.097775 gray|0.097775 dark|0.097775 grey|0.097775 silver|0.058799 light|0.029222 gray|0.029222 light|0.029222 grey|0.029222 dark|0.013663 slate|0.013663 gray|0.013663 gainsboro|0.012749 slate|0.0082331 gray|0.0082331 light|0.0073767 slate|0.0073767 gray|0.0073767  ",
+			"after_weights": " Data|1 from|0.91667 General|0.83333 Dynamics|0.75 Aircraft|0.66667 and|0.58333 their|0.5 Predecessors|0.41667 8|0.33333 |0.25 General|0.16667 characteristics|0.083333 Performance|0",
+			"previous_weights": " The|0 SR|0.058824 10|0.11765 Reliant|0.17647 was|0.23529 available|0.29412 as|0.35294 a|0.41176 landplane|0.47059 seaplane|0.52941 and|0.58824 skidplane|0.64706 in|0.70588 the|0.76471 following|0.82353 configurations|0.88235 2|0.94118 |1"
+		}
+	}
+}

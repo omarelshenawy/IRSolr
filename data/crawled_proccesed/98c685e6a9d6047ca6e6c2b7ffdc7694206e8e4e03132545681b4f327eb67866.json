@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "98c685e6a9d6047ca6e6c2b7ffdc7694206e8e4e03132545681b4f327eb67866",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-ABTE.jpg/220px-D-ABTE.jpg",
+			"previous": " Note All international arrivals except pre cleared flights from Canada and the Caribbean are handled at Terminal E  Emirates used to fly its departures out of Terminal E but due to space issues decided to move to Terminal C alongside its partner JetBlue Airways However Emirates does use Terminal E for passenger arrivals ",
+			"after": " ",
+			"color": "dim|0.36673 gray|0.36673 dim|0.36673 grey|0.36673 gray|0.098623 grey|0.098623 black|0.083451 dark|0.061921 gray|0.061921 dark|0.061921 grey|0.061921 silver|0.030293 white|0.02718 smoke|0.02718 snow|0.024266 sea|0.024113 shell|0.024113 light|0.024097 gray|0.024097 light|0.024097 grey|0.024097 white|0.023068 floral|0.022469 white|0.022469 mint|0.022265 cream|0.022265 ghost|0.020757 white|0.020757 gainsboro|0.020736 alice|0.018631 blue|0.018631 azure|0.017459 slate|0.016816 gray|0.016816 linen|0.014368 light|0.0135 slate|0.0135 gray|0.0135 lavender|0.013206 blush|0.013206 tan|0.010411  ",
+			"after_weights": " ",
+			"previous_weights": " Note|0 All|0.018519 international|0.037037 arrivals|0.055556 except|0.074074 pre|0.092593 cleared|0.11111 flights|0.12963 from|0.14815 Canada|0.16667 and|0.18519 the|0.2037 Caribbean|0.22222 are|0.24074 handled|0.25926 at|0.27778 Terminal|0.2963 E|0.31481 |0.33333 Emirates|0.35185 used|0.37037 to|0.38889 fly|0.40741 its|0.42593 departures|0.44444 out|0.46296 of|0.48148 Terminal|0.5 E|0.51852 but|0.53704 due|0.55556 to|0.57407 space|0.59259 issues|0.61111 decided|0.62963 to|0.64815 move|0.66667 to|0.68519 Terminal|0.7037 C|0.72222 alongside|0.74074 its|0.75926 partner|0.77778 JetBlue|0.7963 Airways|0.81481 However|0.83333 Emirates|0.85185 does|0.87037 use|0.88889 Terminal|0.90741 E|0.92593 for|0.94444 passenger|0.96296 arrivals|0.98148 |1"
+		}
+	}
+}

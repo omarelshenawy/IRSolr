@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "472c450c4693eb0a8162eeaf99b9614d9384825ef37c51e1515df23afc040794",
+			"url": "https://upload.wikimedia.org/math/f/b/7/fb79ff30783e419c7540db7eac104533.png",
+			"previous": " The preceding reasoning is not valid if vanishes identically on C In such a case we could allow a trial function where c is a constant For such a trial function ",
+			"after": " By appropriate choice of c V can assume any value unless the quantity inside the brackets vanishes Therefore the variational problem is meaningless unless",
+			"color": "dim|0.28409 gray|0.28409 dim|0.28409 grey|0.28409 gray|0.28233 grey|0.28233 dark|0.21917 gray|0.21917 dark|0.21917 grey|0.21917 silver|0.086378 light|0.049847 gray|0.049847 light|0.049847 grey|0.049847 gainsboro|0.039539 white|0.0078405 smoke|0.0078405 linen|0.0061122 lavender|0.0057496 blush|0.0057496 alice|0.0057045 blue|0.0057045 ghost|0.0056069 white|0.0056069 sea|0.003213 shell|0.003213 snow|0.0031623  ",
+			"after_weights": " By|1 appropriate|0.95652 choice|0.91304 of|0.86957 c|0.82609 V|0.78261 can|0.73913 assume|0.69565 any|0.65217 value|0.6087 unless|0.56522 the|0.52174 quantity|0.47826 inside|0.43478 the|0.3913 brackets|0.34783 vanishes|0.30435 Therefore|0.26087 the|0.21739 variational|0.17391 problem|0.13043 is|0.086957 meaningless|0.043478 unless|0",
+			"previous_weights": " The|0 preceding|0.032258 reasoning|0.064516 is|0.096774 not|0.12903 valid|0.16129 if|0.19355 vanishes|0.22581 identically|0.25806 on|0.29032 C|0.32258 In|0.35484 such|0.3871 a|0.41935 case|0.45161 we|0.48387 could|0.51613 allow|0.54839 a|0.58065 trial|0.6129 function|0.64516 where|0.67742 c|0.70968 is|0.74194 a|0.77419 constant|0.80645 For|0.83871 such|0.87097 a|0.90323 trial|0.93548 function|0.96774 |1"
+		}
+	}
+}

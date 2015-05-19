@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e7ed53df03949147c374de9b640caf6e96d5e1e4dab0ea217f4058f22a74b03",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kleinpolderplein.jpeg/220px-Kleinpolderplein.jpeg",
+			"previous": " ",
+			"after": " A further alternative found often is called a roundabout interchange This is a normal roundabout except one two level or both three level mainlines pass under or over the whole interchange The ramps of the interchanging highways meet at a roundabout or rotary on a separated level above below or in the middle of the two highways ",
+			"color": "dim|0.60977 gray|0.60977 dim|0.60977 grey|0.60977 gray|0.30519 grey|0.30519 dark|0.049521 gray|0.049521 dark|0.049521 grey|0.049521 silver|0.017796  ",
+			"after_weights": " A|1 further|0.98246 alternative|0.96491 found|0.94737 often|0.92982 is|0.91228 called|0.89474 a|0.87719 roundabout|0.85965 interchange|0.84211 This|0.82456 is|0.80702 a|0.78947 normal|0.77193 roundabout|0.75439 except|0.73684 one|0.7193 two|0.70175 level|0.68421 or|0.66667 both|0.64912 three|0.63158 level|0.61404 mainlines|0.59649 pass|0.57895 under|0.5614 or|0.54386 over|0.52632 the|0.50877 whole|0.49123 interchange|0.47368 The|0.45614 ramps|0.4386 of|0.42105 the|0.40351 interchanging|0.38596 highways|0.36842 meet|0.35088 at|0.33333 a|0.31579 roundabout|0.29825 or|0.2807 rotary|0.26316 on|0.24561 a|0.22807 separated|0.21053 level|0.19298 above|0.17544 below|0.15789 or|0.14035 in|0.12281 the|0.10526 middle|0.087719 of|0.070175 the|0.052632 two|0.035088 highways|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

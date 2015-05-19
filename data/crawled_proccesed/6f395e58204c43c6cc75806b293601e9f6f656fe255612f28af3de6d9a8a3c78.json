@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f395e58204c43c6cc75806b293601e9f6f656fe255612f28af3de6d9a8a3c78",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/High_Bridge_in_Kentucky.jpg/250px-High_Bridge_in_Kentucky.jpg",
+			"previous": " Greyhound provides bus service to most major cities in the state ",
+			"after": " Amtrak the national passenger rail system provides service to Ashland South Portsmouth Maysville and Fulton The Cardinal trains 50 and 51 is the line that offers Amtrak service to Ashland South Shore Maysville and South Portsmouth The City of New Orleans trains 58 and 59 serve Fulton The Northern Kentucky area is served by the Cardinal at the Cincinnati Museum Center at Union Terminal The Museum Center is just across the Ohio River in Cincinnati ",
+			"color": "dim|0.70497 gray|0.70497 dim|0.70497 grey|0.70497 gray|0.13081 grey|0.13081 black|0.10896 slate|0.027636 gray|0.027636 light|0.015079 slate|0.015079 gray|0.015079  ",
+			"after_weights": " Amtrak|1 the|0.98667 national|0.97333 passenger|0.96 rail|0.94667 system|0.93333 provides|0.92 service|0.90667 to|0.89333 Ashland|0.88 South|0.86667 Portsmouth|0.85333 Maysville|0.84 and|0.82667 Fulton|0.81333 The|0.8 Cardinal|0.78667 trains|0.77333 50|0.76 and|0.74667 51|0.73333 is|0.72 the|0.70667 line|0.69333 that|0.68 offers|0.66667 Amtrak|0.65333 service|0.64 to|0.62667 Ashland|0.61333 South|0.6 Shore|0.58667 Maysville|0.57333 and|0.56 South|0.54667 Portsmouth|0.53333 The|0.52 City|0.50667 of|0.49333 New|0.48 Orleans|0.46667 trains|0.45333 58|0.44 and|0.42667 59|0.41333 serve|0.4 Fulton|0.38667 The|0.37333 Northern|0.36 Kentucky|0.34667 area|0.33333 is|0.32 served|0.30667 by|0.29333 the|0.28 Cardinal|0.26667 at|0.25333 the|0.24 Cincinnati|0.22667 Museum|0.21333 Center|0.2 at|0.18667 Union|0.17333 Terminal|0.16 The|0.14667 Museum|0.13333 Center|0.12 is|0.10667 just|0.093333 across|0.08 the|0.066667 Ohio|0.053333 River|0.04 in|0.026667 Cincinnati|0.013333 |0",
+			"previous_weights": " Greyhound|0 provides|0.090909 bus|0.18182 service|0.27273 to|0.36364 most|0.45455 major|0.54545 cities|0.63636 in|0.72727 the|0.81818 state|0.90909 |1"
+		}
+	}
+}

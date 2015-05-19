@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "462797095afbab0e4f7f22c19ef948e1c8b5ddbd150f9fd1d3bc5ec43a19e1f8",
+			"url": "https://upload.wikimedia.org/math/c/8/0/c80bfe84fcd46c6a32758073a7b2bc5f.png",
+			"previous": " The intensity in watts per square meter of the stimulated emission is governed by the following differential equation ",
+			"after": " as long as the intensity I z is small enough so that it does not have a significant effect on the magnitude of the population inversion Grouping the first two factors together this equation simplifies as",
+			"color": "dim|0.40767 gray|0.40767 dim|0.40767 grey|0.40767 gray|0.28119 grey|0.28119 dark|0.16658 gray|0.16658 dark|0.16658 grey|0.16658 silver|0.0709 light|0.034908 gray|0.034908 light|0.034908 grey|0.034908 gainsboro|0.024384 white|0.0037576 smoke|0.0037576  ",
+			"after_weights": " as|1 long|0.97143 as|0.94286 the|0.91429 intensity|0.88571 I|0.85714 z|0.82857 is|0.8 small|0.77143 enough|0.74286 so|0.71429 that|0.68571 it|0.65714 does|0.62857 not|0.6 have|0.57143 a|0.54286 significant|0.51429 effect|0.48571 on|0.45714 the|0.42857 magnitude|0.4 of|0.37143 the|0.34286 population|0.31429 inversion|0.28571 Grouping|0.25714 the|0.22857 first|0.2 two|0.17143 factors|0.14286 together|0.11429 this|0.085714 equation|0.057143 simplifies|0.028571 as|0",
+			"previous_weights": " The|0 intensity|0.055556 in|0.11111 watts|0.16667 per|0.22222 square|0.27778 meter|0.33333 of|0.38889 the|0.44444 stimulated|0.5 emission|0.55556 is|0.61111 governed|0.66667 by|0.72222 the|0.77778 following|0.83333 differential|0.88889 equation|0.94444 |1"
+		}
+	}
+}

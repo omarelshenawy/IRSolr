@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "62f2452fa7fd3d18dc3d924f1dac62ba82a7390612e36e4d5dd62993b7e32f6c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Scientology_e_meter_blue.jpg/120px-Scientology_e_meter_blue.jpg",
+			"previous": " ",
+			"after": " Scientology is a body of beliefs and related practices created by Speculative Fiction author L Ron Hubbard 1911 1986 starting in 1952 as a successor to his earlier self help system Dianetics Hubbard characterized Scientology as a religion and in 1953 incorporated the Church of Scientology in Camden New Jersey ",
+			"color": "slate|0.38902 gray|0.38902 light|0.24544 slate|0.24544 gray|0.24544 dim|0.074298 gray|0.074298 dim|0.074298 grey|0.074298 dark|0.069853 gray|0.069853 dark|0.069853 grey|0.069853 black|0.06619 gray|0.049492 grey|0.049492 silver|0.03776  ",
+			"after_weights": " Scientology|1 is|0.98 a|0.96 body|0.94 of|0.92 beliefs|0.9 and|0.88 related|0.86 practices|0.84 created|0.82 by|0.8 Speculative|0.78 Fiction|0.76 author|0.74 L|0.72 Ron|0.7 Hubbard|0.68 1911|0.66 1986|0.64 starting|0.62 in|0.6 1952|0.58 as|0.56 a|0.54 successor|0.52 to|0.5 his|0.48 earlier|0.46 self|0.44 help|0.42 system|0.4 Dianetics|0.38 Hubbard|0.36 characterized|0.34 Scientology|0.32 as|0.3 a|0.28 religion|0.26 and|0.24 in|0.22 1953|0.2 incorporated|0.18 the|0.16 Church|0.14 of|0.12 Scientology|0.1 in|0.08 Camden|0.06 New|0.04 Jersey|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -3,10 +3,11 @@
 		"doc": {
 			"id": "7726e3b877387779cb0c74e9a2f3ecc95a1815f52ea4396b57a4b2f0d0e257d6",
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Henry_Clay_Senate3.jpg/300px-Henry_Clay_Senate3.jpg",
-			"previous": " Portal Arts Featured picture 6",
+			"previous": " ",
 			"after": " U S Senator Henry Clay gives a speech in the Old Senate Chamber calling for compromise on the issues dividing the United States The result was the Compromise of 1850 a package of five bills the first two of which were passed on September 9 Ironically these led to a breakdown in the spirit of compromise in the years preceding the Civil War particularly after the deaths of Clay and Daniel Webster ",
+			"color": "dim|0.40762 gray|0.40762 dim|0.40762 grey|0.40762 gray|0.31484 grey|0.31484 dark|0.16673 gray|0.16673 dark|0.16673 grey|0.16673 black|0.10182  ",
 			"after_weights": " U|1 S|0.98611 Senator|0.97222 Henry|0.95833 Clay|0.94444 gives|0.93056 a|0.91667 speech|0.90278 in|0.88889 the|0.875 Old|0.86111 Senate|0.84722 Chamber|0.83333 calling|0.81944 for|0.80556 compromise|0.79167 on|0.77778 the|0.76389 issues|0.75 dividing|0.73611 the|0.72222 United|0.70833 States|0.69444 The|0.68056 result|0.66667 was|0.65278 the|0.63889 Compromise|0.625 of|0.61111 1850|0.59722 a|0.58333 package|0.56944 of|0.55556 five|0.54167 bills|0.52778 the|0.51389 first|0.5 two|0.48611 of|0.47222 which|0.45833 were|0.44444 passed|0.43056 on|0.41667 September|0.40278 9|0.38889 Ironically|0.375 these|0.36111 led|0.34722 to|0.33333 a|0.31944 breakdown|0.30556 in|0.29167 the|0.27778 spirit|0.26389 of|0.25 compromise|0.23611 in|0.22222 the|0.20833 years|0.19444 preceding|0.18056 the|0.16667 Civil|0.15278 War|0.13889 particularly|0.125 after|0.11111 the|0.097222 deaths|0.083333 of|0.069444 Clay|0.055556 and|0.041667 Daniel|0.027778 Webster|0.013889 |0",
-			"previous_weights": " Portal|0 Arts|0.25 Featured|0.5 picture|0.75 6|1"
+			"previous_weights": " "
 		}
 	}
 }

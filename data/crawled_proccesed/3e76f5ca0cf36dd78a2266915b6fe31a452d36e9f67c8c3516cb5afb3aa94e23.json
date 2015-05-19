@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e76f5ca0cf36dd78a2266915b6fe31a452d36e9f67c8c3516cb5afb3aa94e23",
+			"url": "https://upload.wikimedia.org/math/a/7/4/a74384db64b7c9b5b51f084e58b8a155.png",
+			"previous": "  From this solution it is possible to characterize the convective heat mass transfer constants based on the region of boundary layer flow Fourier s law of conduction and Newton s Law of Cooling are combined with the flux term derived above and the boundary layer thickness ",
+			"after": " This gives the local convective constant at one point on the semi infinite plane Integrating over the length of the plate gives an average ",
+			"color": "dim|0.3314 gray|0.3314 dim|0.3314 grey|0.3314 gray|0.29868 grey|0.29868 dark|0.1921 gray|0.1921 dark|0.1921 grey|0.1921 silver|0.082146 light|0.04122 gray|0.04122 light|0.04122 grey|0.04122 gainsboro|0.029982 white|0.0058149 smoke|0.0058149 linen|0.0028504  ",
+			"after_weights": " This|1 gives|0.95833 the|0.91667 local|0.875 convective|0.83333 constant|0.79167 at|0.75 one|0.70833 point|0.66667 on|0.625 the|0.58333 semi|0.54167 infinite|0.5 plane|0.45833 Integrating|0.41667 over|0.375 the|0.33333 length|0.29167 of|0.25 the|0.20833 plate|0.16667 gives|0.125 an|0.083333 average|0.041667 |0",
+			"previous_weights": " |0 From|0.021277 this|0.042553 solution|0.06383 it|0.085106 is|0.10638 possible|0.12766 to|0.14894 characterize|0.17021 the|0.19149 convective|0.21277 heat|0.23404 mass|0.25532 transfer|0.2766 constants|0.29787 based|0.31915 on|0.34043 the|0.3617 region|0.38298 of|0.40426 boundary|0.42553 layer|0.44681 flow|0.46809 Fourier|0.48936 s|0.51064 law|0.53191 of|0.55319 conduction|0.57447 and|0.59574 Newton|0.61702 s|0.6383 Law|0.65957 of|0.68085 Cooling|0.70213 are|0.7234 combined|0.74468 with|0.76596 the|0.78723 flux|0.80851 term|0.82979 derived|0.85106 above|0.87234 and|0.89362 the|0.91489 boundary|0.93617 layer|0.95745 thickness|0.97872 |1"
+		}
+	}
+}

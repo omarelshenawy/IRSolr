@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3649ecacc53bbd22c96d3964cdd5854a5d5ca370dc57e5228533d67a122c0e76",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jailbird.jpg/220px-Jailbird.jpg",
+			"previous": " Performance",
+			"after": " A C 123K 54 709 N709RR since destroyed in a crash in 2010 was prominently featured in the action film Con Air 1997 other C 123s appeared in The Living Daylights 1987 Operation Dumbo Drop 1995 and Air America 1990 Each of these aircraft was previously used for spraying Agent Orange in Vietnam and sold by the Air Force and the General Services Administration before precautions were established to prohibit the surplus sale of such toxic contaminated aircraft ",
+			"color": "dim|0.49335 gray|0.49335 dim|0.49335 grey|0.49335 gray|0.24035 grey|0.24035 dark|0.12675 gray|0.12675 dark|0.12675 grey|0.12675 black|0.043953 silver|0.040429 dark|0.02847 slate|0.02847 gray|0.02847 light|0.012727 gray|0.012727 light|0.012727 grey|0.012727 slate|0.0056082 gray|0.0056082  ",
+			"after_weights": " A|1 C|0.98718 123K|0.97436 54|0.96154 709|0.94872 N709RR|0.9359 since|0.92308 destroyed|0.91026 in|0.89744 a|0.88462 crash|0.87179 in|0.85897 2010|0.84615 was|0.83333 prominently|0.82051 featured|0.80769 in|0.79487 the|0.78205 action|0.76923 film|0.75641 Con|0.74359 Air|0.73077 1997|0.71795 other|0.70513 C|0.69231 123s|0.67949 appeared|0.66667 in|0.65385 The|0.64103 Living|0.62821 Daylights|0.61538 1987|0.60256 Operation|0.58974 Dumbo|0.57692 Drop|0.5641 1995|0.55128 and|0.53846 Air|0.52564 America|0.51282 1990|0.5 Each|0.48718 of|0.47436 these|0.46154 aircraft|0.44872 was|0.4359 previously|0.42308 used|0.41026 for|0.39744 spraying|0.38462 Agent|0.37179 Orange|0.35897 in|0.34615 Vietnam|0.33333 and|0.32051 sold|0.30769 by|0.29487 the|0.28205 Air|0.26923 Force|0.25641 and|0.24359 the|0.23077 General|0.21795 Services|0.20513 Administration|0.19231 before|0.17949 precautions|0.16667 were|0.15385 established|0.14103 to|0.12821 prohibit|0.11538 the|0.10256 surplus|0.089744 sale|0.076923 of|0.064103 such|0.051282 toxic|0.038462 contaminated|0.025641 aircraft|0.012821 |0",
+			"previous_weights": " Performance|1"
+		}
+	}
+}

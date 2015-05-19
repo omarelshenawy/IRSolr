@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "46a077c41f27de2a6b2f9f21f59b2c3064dcf326124ea8586754e59163b496ba",
+			"url": "https://upload.wikimedia.org/math/e/0/6/e06bde5ce90bc36f54d4907095d86bb8.png",
+			"previous": " where c r is the circle centered at 0 with radius r oriented counterclockwise then the argument principle says that this number is the number N of zeros of p z in the open ball centered at 0 with radius r which since r R is the total number of zeros of p z On the other hand the integral of n z along c r divided by 2 i is equal to n But the difference between the two numbers is",
+			"after": " The numerator of the rational expression being integrated has degree at most n 1 and the degree of the denominator is n 1 Therefore the number above tends to 0 as r But the number is also equal to N n and so N n ",
+			"color": "gray|0.31129 grey|0.31129 dim|0.27762 gray|0.27762 dim|0.27762 grey|0.27762 dark|0.21539 gray|0.21539 dark|0.21539 grey|0.21539 silver|0.096516 light|0.046713 gray|0.046713 light|0.046713 grey|0.046713 gainsboro|0.032182 white|0.0049165 smoke|0.0049165 linen|0.0027437  ",
+			"after_weights": " The|1 numerator|0.97778 of|0.95556 the|0.93333 rational|0.91111 expression|0.88889 being|0.86667 integrated|0.84444 has|0.82222 degree|0.8 at|0.77778 most|0.75556 n|0.73333 1|0.71111 and|0.68889 the|0.66667 degree|0.64444 of|0.62222 the|0.6 denominator|0.57778 is|0.55556 n|0.53333 1|0.51111 Therefore|0.48889 the|0.46667 number|0.44444 above|0.42222 tends|0.4 to|0.37778 0|0.35556 as|0.33333 r|0.31111 But|0.28889 the|0.26667 number|0.24444 is|0.22222 also|0.2 equal|0.17778 to|0.15556 N|0.13333 n|0.11111 and|0.088889 so|0.066667 N|0.044444 n|0.022222 |0",
+			"previous_weights": " where|0 c|0.012346 r|0.024691 is|0.037037 the|0.049383 circle|0.061728 centered|0.074074 at|0.08642 0|0.098765 with|0.11111 radius|0.12346 r|0.1358 oriented|0.14815 counterclockwise|0.16049 then|0.17284 the|0.18519 argument|0.19753 principle|0.20988 says|0.22222 that|0.23457 this|0.24691 number|0.25926 is|0.2716 the|0.28395 number|0.2963 N|0.30864 of|0.32099 zeros|0.33333 of|0.34568 p|0.35802 z|0.37037 in|0.38272 the|0.39506 open|0.40741 ball|0.41975 centered|0.4321 at|0.44444 0|0.45679 with|0.46914 radius|0.48148 r|0.49383 which|0.50617 since|0.51852 r|0.53086 R|0.54321 is|0.55556 the|0.5679 total|0.58025 number|0.59259 of|0.60494 zeros|0.61728 of|0.62963 p|0.64198 z|0.65432 On|0.66667 the|0.67901 other|0.69136 hand|0.7037 the|0.71605 integral|0.7284 of|0.74074 n|0.75309 z|0.76543 along|0.77778 c|0.79012 r|0.80247 divided|0.81481 by|0.82716 2|0.83951 i|0.85185 is|0.8642 equal|0.87654 to|0.88889 n|0.90123 But|0.91358 the|0.92593 difference|0.93827 between|0.95062 the|0.96296 two|0.97531 numbers|0.98765 is|1"
+		}
+	}
+}

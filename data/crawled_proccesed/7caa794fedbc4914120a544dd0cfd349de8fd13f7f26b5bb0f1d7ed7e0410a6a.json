@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7caa794fedbc4914120a544dd0cfd349de8fd13f7f26b5bb0f1d7ed7e0410a6a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cirrus.sr22.n147vc.arp.jpg/220px-Cirrus.sr22.n147vc.arp.jpg",
+			"previous": " By 2014 the accident rate had been dramatically reduced with a 2013 fatality rate of 1 01 per 100 000 flight hours This was attributed to better training particularly in when to deploy the ballistic parachute system 38 ",
+			"after": " Data from Cirrus website 39 and The Incomplete Guide to Airfoil Usage 40 ",
+			"color": "dark|0.60186 olive|0.60186 green|0.60186 dim|0.035497 gray|0.035497 dim|0.035497 grey|0.035497 light|0.034479 gray|0.034479 light|0.034479 grey|0.034479 gainsboro|0.030766 gray|0.028685 grey|0.028685 dark|0.028478 gray|0.028478 dark|0.028478 grey|0.028478 silver|0.026832 dark|0.021774 slate|0.021774 gray|0.021774 linen|0.018597 black|0.017777 sea|0.013481 shell|0.013481 antique|0.013366 white|0.013366 old|0.013273 lace|0.013273 floral|0.012748 white|0.012748 white|0.011992 smoke|0.011992 ivory|0.0092117 snow|0.0089751 mint|0.0088266 cream|0.0088266 beige|0.0084434 white|0.0073751 slate|0.0057735 gray|0.0057735 honeydew|0.0048682 ghost|0.0048671 white|0.0048671 azure|0.004268 alice|0.0041624 blue|0.0041624  ",
+			"after_weights": " Data|1 from|0.92308 Cirrus|0.84615 website|0.76923 39|0.69231 and|0.61538 The|0.53846 Incomplete|0.46154 Guide|0.38462 to|0.30769 Airfoil|0.23077 Usage|0.15385 40|0.076923 |0",
+			"previous_weights": " By|0 2014|0.026316 the|0.052632 accident|0.078947 rate|0.10526 had|0.13158 been|0.15789 dramatically|0.18421 reduced|0.21053 with|0.23684 a|0.26316 2013|0.28947 fatality|0.31579 rate|0.34211 of|0.36842 1|0.39474 01|0.42105 per|0.44737 100|0.47368 000|0.5 flight|0.52632 hours|0.55263 This|0.57895 was|0.60526 attributed|0.63158 to|0.65789 better|0.68421 training|0.71053 particularly|0.73684 in|0.76316 when|0.78947 to|0.81579 deploy|0.84211 the|0.86842 ballistic|0.89474 parachute|0.92105 system|0.94737 38|0.97368 |1"
+		}
+	}
+}

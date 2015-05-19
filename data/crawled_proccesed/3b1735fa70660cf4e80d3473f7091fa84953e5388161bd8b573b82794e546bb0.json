@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b1735fa70660cf4e80d3473f7091fa84953e5388161bd8b573b82794e546bb0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_National_Archives_UK_-_CO_1069-215-94-Derivative01.jpg/220px-The_National_Archives_UK_-_CO_1069-215-94-Derivative01.jpg",
+			"previous": " Media related to Second Boer War concentration camps at Wikimedia Commons",
+			"after": " The term concentration camp was used to describe camps operated by the British in South Africa during this conflict and the term grew in prominence during this period ",
+			"color": "black|0.26362 dim|0.1972 gray|0.1972 dim|0.1972 grey|0.1972 gray|0.18671 grey|0.18671 dark|0.17296 gray|0.17296 dark|0.17296 grey|0.17296 silver|0.09429 light|0.045692 gray|0.045692 light|0.045692 grey|0.045692 gainsboro|0.032098  ",
+			"after_weights": " The|1 term|0.96429 concentration|0.92857 camp|0.89286 was|0.85714 used|0.82143 to|0.78571 describe|0.75 camps|0.71429 operated|0.67857 by|0.64286 the|0.60714 British|0.57143 in|0.53571 South|0.5 Africa|0.46429 during|0.42857 this|0.39286 conflict|0.35714 and|0.32143 the|0.28571 term|0.25 grew|0.21429 in|0.17857 prominence|0.14286 during|0.10714 this|0.071429 period|0.035714 |0",
+			"previous_weights": " Media|0 related|0.1 to|0.2 Second|0.3 Boer|0.4 War|0.5 concentration|0.6 camps|0.7 at|0.8 Wikimedia|0.9 Commons|1"
+		}
+	}
+}

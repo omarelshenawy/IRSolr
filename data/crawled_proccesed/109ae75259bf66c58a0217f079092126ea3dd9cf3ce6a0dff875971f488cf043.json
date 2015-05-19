@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "109ae75259bf66c58a0217f079092126ea3dd9cf3ce6a0dff875971f488cf043",
+			"url": "https://upload.wikimedia.org/math/e/8/e/e8e3673fa799043da86c4ec035e9b85d.png",
+			"previous": "   Nozzle   However the jetpipe pressure loss must be accounted for ",
+			"after": " Since the nozzle is CHOKED Choked Nozzle  Similarly for the nozzle static pressure   The nozzle throat velocity squared is calculated using the Steady Flow Energy Equation ",
+			"color": "dim|0.38046 gray|0.38046 dim|0.38046 grey|0.38046 gray|0.30355 grey|0.30355 dark|0.18058 gray|0.18058 dark|0.18058 grey|0.18058 silver|0.070671 light|0.031371 gray|0.031371 light|0.031371 grey|0.031371 gainsboro|0.021676 white|0.0032313 smoke|0.0032313  ",
+			"after_weights": " Since|1 the|0.96552 nozzle|0.93103 is|0.89655 CHOKED|0.86207 Choked|0.82759 Nozzle|0.7931 |0.75862 Similarly|0.72414 for|0.68966 the|0.65517 nozzle|0.62069 static|0.58621 pressure|0.55172 |0.51724 |0.48276 The|0.44828 nozzle|0.41379 throat|0.37931 velocity|0.34483 squared|0.31034 is|0.27586 calculated|0.24138 using|0.2069 the|0.17241 Steady|0.13793 Flow|0.10345 Energy|0.068966 Equation|0.034483 |0",
+			"previous_weights": " |0 |0.071429 Nozzle|0.14286 |0.21429 |0.28571 However|0.35714 the|0.42857 jetpipe|0.5 pressure|0.57143 loss|0.64286 must|0.71429 be|0.78571 accounted|0.85714 for|0.92857 |1"
+		}
+	}
+}

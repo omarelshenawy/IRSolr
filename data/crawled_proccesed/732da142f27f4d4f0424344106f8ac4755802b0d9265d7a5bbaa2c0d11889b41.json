@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "732da142f27f4d4f0424344106f8ac4755802b0d9265d7a5bbaa2c0d11889b41",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oxfordceremony.jpg/150px-Oxfordceremony.jpg",
+			"previous": " ",
+			"after": " A university is an institution of higher education and research which grants academic degrees in a variety of subjects A university is an organisation that provides both undergraduate education and postgraduate education The word university is derived from the Latin universitas magistrorum et scholarium which roughly means community of teachers and scholars ",
+			"color": "black|0.302 sienna|0.2762 crimson|0.13812 rosy|0.051461 brown|0.051461 saddle|0.019239 brown|0.019239 tan|0.014775 dim|0.014533 gray|0.014533 dim|0.014533 grey|0.014533 dark|0.01428 gray|0.01428 dark|0.01428 grey|0.01428 brown|0.012544 gray|0.012144 grey|0.012144 dark|0.011361 slate|0.011361 gray|0.011361 firebrick|0.0099405 silver|0.0097207  ",
+			"after_weights": " A|1 university|0.98077 is|0.96154 an|0.94231 institution|0.92308 of|0.90385 higher|0.88462 education|0.86538 and|0.84615 research|0.82692 which|0.80769 grants|0.78846 academic|0.76923 degrees|0.75 in|0.73077 a|0.71154 variety|0.69231 of|0.67308 subjects|0.65385 A|0.63462 university|0.61538 is|0.59615 an|0.57692 organisation|0.55769 that|0.53846 provides|0.51923 both|0.5 undergraduate|0.48077 education|0.46154 and|0.44231 postgraduate|0.42308 education|0.40385 The|0.38462 word|0.36538 university|0.34615 is|0.32692 derived|0.30769 from|0.28846 the|0.26923 Latin|0.25 universitas|0.23077 magistrorum|0.21154 et|0.19231 scholarium|0.17308 which|0.15385 roughly|0.13462 means|0.11538 community|0.096154 of|0.076923 teachers|0.057692 and|0.038462 scholars|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

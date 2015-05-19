@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e6e911045abdabd58233ee56d5fbf960d0f3884d90f50a793a3019c3fd83db7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tomahawk_Operators.svg/220px-Tomahawk_Operators.svg.png",
+			"previous": " DSMAC Digital Scene Matching Area Correlation A digitized image of an area is mapped and then inserted into a TLAM mission During the flight the missile will verify that the images that it has stored correlates with the image it sees below itself Based on comparison results the missile s inertial navigation system is updated and the missile corrects its course ",
+			"after": " ",
+			"color": "silver|0.41231 dark|0.31683 gray|0.31683 dark|0.31683 grey|0.31683 light|0.15369 gray|0.15369 light|0.15369 grey|0.15369 gainsboro|0.095178 white|0.0065226 smoke|0.0065226  ",
+			"after_weights": " ",
+			"previous_weights": " DSMAC|0 Digital|0.016393 Scene|0.032787 Matching|0.04918 Area|0.065574 Correlation|0.081967 A|0.098361 digitized|0.11475 image|0.13115 of|0.14754 an|0.16393 area|0.18033 is|0.19672 mapped|0.21311 and|0.22951 then|0.2459 inserted|0.2623 into|0.27869 a|0.29508 TLAM|0.31148 mission|0.32787 During|0.34426 the|0.36066 flight|0.37705 the|0.39344 missile|0.40984 will|0.42623 verify|0.44262 that|0.45902 the|0.47541 images|0.4918 that|0.5082 it|0.52459 has|0.54098 stored|0.55738 correlates|0.57377 with|0.59016 the|0.60656 image|0.62295 it|0.63934 sees|0.65574 below|0.67213 itself|0.68852 Based|0.70492 on|0.72131 comparison|0.7377 results|0.7541 the|0.77049 missile|0.78689 s|0.80328 inertial|0.81967 navigation|0.83607 system|0.85246 is|0.86885 updated|0.88525 and|0.90164 the|0.91803 missile|0.93443 corrects|0.95082 its|0.96721 course|0.98361 |1"
+		}
+	}
+}

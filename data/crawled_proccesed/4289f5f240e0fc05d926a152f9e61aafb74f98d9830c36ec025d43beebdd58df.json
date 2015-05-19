@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4289f5f240e0fc05d926a152f9e61aafb74f98d9830c36ec025d43beebdd58df",
+			"url": "https://upload.wikimedia.org/math/8/b/8/8b8db204d9b7eec164e64b377b85a102.png",
+			"previous": " where Delambre in 1799 9 derived a widely used expansion on the eccentricity squared ",
+			"after": " The coefficients in Helmert s series can similarly be expressed generally by This result was conjected by Helmert 17 and proved by Kawase 18  The factor results in poorer convergence of the series in terms compared to the one in ",
+			"color": " ",
+			"after_weights": " The|1 coefficients|0.97561 in|0.95122 Helmert|0.92683 s|0.90244 series|0.87805 can|0.85366 similarly|0.82927 be|0.80488 expressed|0.78049 generally|0.7561 by|0.73171 This|0.70732 result|0.68293 was|0.65854 conjected|0.63415 by|0.60976 Helmert|0.58537 17|0.56098 and|0.53659 proved|0.5122 by|0.4878 Kawase|0.46341 18|0.43902 |0.41463 The|0.39024 factor|0.36585 results|0.34146 in|0.31707 poorer|0.29268 convergence|0.26829 of|0.2439 the|0.21951 series|0.19512 in|0.17073 terms|0.14634 compared|0.12195 to|0.097561 the|0.073171 one|0.04878 in|0.02439 |0",
+			"previous_weights": " where|0 Delambre|0.071429 in|0.14286 1799|0.21429 9|0.28571 derived|0.35714 a|0.42857 widely|0.5 used|0.57143 expansion|0.64286 on|0.71429 the|0.78571 eccentricity|0.85714 squared|0.92857 |1"
+		}
+	}
+}

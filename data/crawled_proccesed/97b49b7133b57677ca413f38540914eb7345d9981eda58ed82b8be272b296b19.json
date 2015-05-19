@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97b49b7133b57677ca413f38540914eb7345d9981eda58ed82b8be272b296b19",
+			"url": "https://upload.wikimedia.org/math/2/2/6/2269e3e58ffb14a76393f3e945210588.png",
+			"previous": " Theorem 1 Let A be a bounded self adjoint operator on a Hilbert space H Then there is a measure space X and a real valued essentially bounded measurable function f on X and a unitary operator U H L2 X such that",
+			"after": " where T is the multiplication operator ",
+			"color": "dim|0.35913 gray|0.35913 dim|0.35913 grey|0.35913 gray|0.28665 grey|0.28665 dark|0.18536 gray|0.18536 dark|0.18536 grey|0.18536 silver|0.081605 light|0.038849 gray|0.038849 light|0.038849 grey|0.038849 gainsboro|0.026895 white|0.0050519 smoke|0.0050519  ",
+			"after_weights": " where|1 T|0.83333 is|0.66667 the|0.5 multiplication|0.33333 operator|0.16667 |0",
+			"previous_weights": " Theorem|0 1|0.02381 Let|0.047619 A|0.071429 be|0.095238 a|0.11905 bounded|0.14286 self|0.16667 adjoint|0.19048 operator|0.21429 on|0.2381 a|0.2619 Hilbert|0.28571 space|0.30952 H|0.33333 Then|0.35714 there|0.38095 is|0.40476 a|0.42857 measure|0.45238 space|0.47619 X|0.5 and|0.52381 a|0.54762 real|0.57143 valued|0.59524 essentially|0.61905 bounded|0.64286 measurable|0.66667 function|0.69048 f|0.71429 on|0.7381 X|0.7619 and|0.78571 a|0.80952 unitary|0.83333 operator|0.85714 U|0.88095 H|0.90476 L2|0.92857 X|0.95238 such|0.97619 that|1"
+		}
+	}
+}

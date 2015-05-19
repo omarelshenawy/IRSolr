@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b4fc8c093b68534ce26ad8d11186d268c91b8a57f30e7240a6c564e04c3a88a",
+			"url": "https://upload.wikimedia.org/math/2/8/a/28aed79e47133025e96e21ea75724f76.png",
+			"previous": " With Equation 2 we have and and thus  When solving Equation 1 we have",
+			"after": " Note that with Equation 2 we have and while in Cardano s method we have set and Thus we have up to the exchange of and  In other words in this case Cardano s and Lagrange s method compute exactly the same things up to a factor of three in the auxiliary variables the main difference being that Lagrange s method explains why these auxiliary variables appear in the problem ",
+			"color": "dim|0.30522 gray|0.30522 dim|0.30522 grey|0.30522 gray|0.22201 grey|0.22201 black|0.20416 dark|0.1371 gray|0.1371 dark|0.1371 grey|0.1371 silver|0.063888 light|0.033985 gray|0.033985 light|0.033985 grey|0.033985 gainsboro|0.024137  ",
+			"after_weights": " Note|1 that|0.98592 with|0.97183 Equation|0.95775 2|0.94366 we|0.92958 have|0.91549 and|0.90141 while|0.88732 in|0.87324 Cardano|0.85915 s|0.84507 method|0.83099 we|0.8169 have|0.80282 set|0.78873 and|0.77465 Thus|0.76056 we|0.74648 have|0.73239 up|0.71831 to|0.70423 the|0.69014 exchange|0.67606 of|0.66197 and|0.64789 |0.6338 In|0.61972 other|0.60563 words|0.59155 in|0.57746 this|0.56338 case|0.5493 Cardano|0.53521 s|0.52113 and|0.50704 Lagrange|0.49296 s|0.47887 method|0.46479 compute|0.4507 exactly|0.43662 the|0.42254 same|0.40845 things|0.39437 up|0.38028 to|0.3662 a|0.35211 factor|0.33803 of|0.32394 three|0.30986 in|0.29577 the|0.28169 auxiliary|0.26761 variables|0.25352 the|0.23944 main|0.22535 difference|0.21127 being|0.19718 that|0.1831 Lagrange|0.16901 s|0.15493 method|0.14085 explains|0.12676 why|0.11268 these|0.098592 auxiliary|0.084507 variables|0.070423 appear|0.056338 in|0.042254 the|0.028169 problem|0.014085 |0",
+			"previous_weights": " With|0 Equation|0.071429 2|0.14286 we|0.21429 have|0.28571 and|0.35714 and|0.42857 thus|0.5 |0.57143 When|0.64286 solving|0.71429 Equation|0.78571 1|0.85714 we|0.92857 have|1"
+		}
+	}
+}

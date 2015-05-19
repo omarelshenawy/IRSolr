@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9680862848fca6f504b4e9e8fa30ba46a2788dd6a2dab889d4b2e8501b7df99c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Superpositionprinciple.gif/220px-Superpositionprinciple.gif",
+			"previous": " Consider a traveling transverse wave which may be a pulse on a string the medium Consider the string to have a single spatial dimension Consider this wave as traveling",
+			"after": " This wave can then be described by the two dimensional functions",
+			"color": " ",
+			"after_weights": " This|1 wave|0.9 can|0.8 then|0.7 be|0.6 described|0.5 by|0.4 the|0.3 two|0.2 dimensional|0.1 functions|0",
+			"previous_weights": " Consider|0 a|0.035714 traveling|0.071429 transverse|0.10714 wave|0.14286 which|0.17857 may|0.21429 be|0.25 a|0.28571 pulse|0.32143 on|0.35714 a|0.39286 string|0.42857 the|0.46429 medium|0.5 Consider|0.53571 the|0.57143 string|0.60714 to|0.64286 have|0.67857 a|0.71429 single|0.75 spatial|0.78571 dimension|0.82143 Consider|0.85714 this|0.89286 wave|0.92857 as|0.96429 traveling|1"
+		}
+	}
+}

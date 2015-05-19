@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "87fc2e070bb61fe735701dba7c6ef2c971fbd9baea2927eead2d1eeb913fccef",
+			"url": "https://upload.wikimedia.org/math/7/5/0/750539386549d8c81841a92c62b7fcc9.png",
+			"previous": " Classical variables that time reversal negates include ",
+			"after": " Since most systems are asymmetric under time reversal it is interesting to ask whether there are phenomena that do have this symmetry In classical mechanics a velocity v reverses under the operation of T but an acceleration does not Therefore one models dissipative phenomena through terms that are odd in v However delicate experiments in which known sources of dissipation are removed reveal that the laws of mechanics are time reversal invariant Dissipation itself is originated in the second law of thermodynamics ",
+			"color": "dark|0.33207 gray|0.33207 dark|0.33207 grey|0.33207 silver|0.19918 gray|0.19834 grey|0.19834 light|0.11973 gray|0.11973 light|0.11973 grey|0.11973 gainsboro|0.08806 white|0.013044 smoke|0.013044 lavender|0.0063232 blush|0.0063232 alice|0.0062224 blue|0.0062224 linen|0.0060208 ghost|0.0056344 white|0.0056344 dim|0.0055444 gray|0.0055444 dim|0.0055444 grey|0.0055444 sea|0.0054183 shell|0.0054183 snow|0.0052923 white|0.0037802 mint|0.0025202 cream|0.0025202  ",
+			"after_weights": " Since|1 most|0.9878 systems|0.97561 are|0.96341 asymmetric|0.95122 under|0.93902 time|0.92683 reversal|0.91463 it|0.90244 is|0.89024 interesting|0.87805 to|0.86585 ask|0.85366 whether|0.84146 there|0.82927 are|0.81707 phenomena|0.80488 that|0.79268 do|0.78049 have|0.76829 this|0.7561 symmetry|0.7439 In|0.73171 classical|0.71951 mechanics|0.70732 a|0.69512 velocity|0.68293 v|0.67073 reverses|0.65854 under|0.64634 the|0.63415 operation|0.62195 of|0.60976 T|0.59756 but|0.58537 an|0.57317 acceleration|0.56098 does|0.54878 not|0.53659 Therefore|0.52439 one|0.5122 models|0.5 dissipative|0.4878 phenomena|0.47561 through|0.46341 terms|0.45122 that|0.43902 are|0.42683 odd|0.41463 in|0.40244 v|0.39024 However|0.37805 delicate|0.36585 experiments|0.35366 in|0.34146 which|0.32927 known|0.31707 sources|0.30488 of|0.29268 dissipation|0.28049 are|0.26829 removed|0.2561 reveal|0.2439 that|0.23171 the|0.21951 laws|0.20732 of|0.19512 mechanics|0.18293 are|0.17073 time|0.15854 reversal|0.14634 invariant|0.13415 Dissipation|0.12195 itself|0.10976 is|0.097561 originated|0.085366 in|0.073171 the|0.060976 second|0.04878 law|0.036585 of|0.02439 thermodynamics|0.012195 |0",
+			"previous_weights": " Classical|0 variables|0.14286 that|0.28571 time|0.42857 reversal|0.57143 negates|0.71429 include|0.85714 |1"
+		}
+	}
+}

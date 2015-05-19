@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8401382fd440d597f4f3d916ba6574d1933cdca6716ce40c966016caadfd2dc4",
+			"url": "https://upload.wikimedia.org/math/8/3/f/83f5b698bfe96de46b385e2e99dc40ba.png",
+			"previous": "  A generalization the random field is defined by letting the variables parameters be members of a topological space instead of limited to real values representing time ",
+			"after": " where each is an S valued random variable on The space S is then called the state space of the process  Let X be an S valued stochastic process For every finite sequence the k tuple is a random variable taking values in The distribution of this random variable is a probability measure on This is called a finite dimensional distribution of X ",
+			"color": "dim|0.37206 gray|0.37206 dim|0.37206 grey|0.37206 gray|0.3129 grey|0.3129 dark|0.17388 gray|0.17388 dark|0.17388 grey|0.17388 silver|0.068668 light|0.033603 gray|0.033603 light|0.033603 grey|0.033603 gainsboro|0.02295 white|0.004186 smoke|0.004186  ",
+			"after_weights": " where|1 each|0.98438 is|0.96875 an|0.95312 S|0.9375 valued|0.92188 random|0.90625 variable|0.89062 on|0.875 The|0.85938 space|0.84375 S|0.82812 is|0.8125 then|0.79688 called|0.78125 the|0.76562 state|0.75 space|0.73438 of|0.71875 the|0.70312 process|0.6875 |0.67188 Let|0.65625 X|0.64062 be|0.625 an|0.60938 S|0.59375 valued|0.57812 stochastic|0.5625 process|0.54688 For|0.53125 every|0.51562 finite|0.5 sequence|0.48438 the|0.46875 k|0.45312 tuple|0.4375 is|0.42188 a|0.40625 random|0.39062 variable|0.375 taking|0.35938 values|0.34375 in|0.32812 The|0.3125 distribution|0.29688 of|0.28125 this|0.26562 random|0.25 variable|0.23438 is|0.21875 a|0.20312 probability|0.1875 measure|0.17188 on|0.15625 This|0.14062 is|0.125 called|0.10938 a|0.09375 finite|0.078125 dimensional|0.0625 distribution|0.046875 of|0.03125 X|0.015625 |0",
+			"previous_weights": " |0 A|0.037037 generalization|0.074074 the|0.11111 random|0.14815 field|0.18519 is|0.22222 defined|0.25926 by|0.2963 letting|0.33333 the|0.37037 variables|0.40741 parameters|0.44444 be|0.48148 members|0.51852 of|0.55556 a|0.59259 topological|0.62963 space|0.66667 instead|0.7037 of|0.74074 limited|0.77778 to|0.81481 real|0.85185 values|0.88889 representing|0.92593 time|0.96296 |1"
+		}
+	}
+}

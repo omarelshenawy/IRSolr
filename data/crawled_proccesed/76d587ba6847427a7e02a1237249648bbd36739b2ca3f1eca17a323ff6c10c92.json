@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "76d587ba6847427a7e02a1237249648bbd36739b2ca3f1eca17a323ff6c10c92",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/111607sp1200.jpg/220px-111607sp1200.jpg",
+			"previous": " ",
+			"after": " Because these early drum machines came out before the introduction of MIDI in 1983 they use a variety of methods of having their rhythms synchronized to other electronic devices Some used a method of synchronization called DIN sync or Sync 24 Some of these machines also output analog CV Gate voltages that could be used to synchronize or control analog synthesizers and other music equipment The Oberheim DMX came with a feature allowing it to be synchronized to its proprietary Oberheim Parallel Buss interfacing system developed prior to the introduction of MIDI ",
+			"color": "black|0.40132 gray|0.23018 grey|0.23018 dark|0.19038 gray|0.19038 dark|0.19038 grey|0.19038 dim|0.14002 gray|0.14002 dim|0.14002 grey|0.14002 dark|0.021438 slate|0.021438 gray|0.021438 silver|0.0094135  ",
+			"after_weights": " Because|1 these|0.98913 early|0.97826 drum|0.96739 machines|0.95652 came|0.94565 out|0.93478 before|0.92391 the|0.91304 introduction|0.90217 of|0.8913 MIDI|0.88043 in|0.86957 1983|0.8587 they|0.84783 use|0.83696 a|0.82609 variety|0.81522 of|0.80435 methods|0.79348 of|0.78261 having|0.77174 their|0.76087 rhythms|0.75 synchronized|0.73913 to|0.72826 other|0.71739 electronic|0.70652 devices|0.69565 Some|0.68478 used|0.67391 a|0.66304 method|0.65217 of|0.6413 synchronization|0.63043 called|0.61957 DIN|0.6087 sync|0.59783 or|0.58696 Sync|0.57609 24|0.56522 Some|0.55435 of|0.54348 these|0.53261 machines|0.52174 also|0.51087 output|0.5 analog|0.48913 CV|0.47826 Gate|0.46739 voltages|0.45652 that|0.44565 could|0.43478 be|0.42391 used|0.41304 to|0.40217 synchronize|0.3913 or|0.38043 control|0.36957 analog|0.3587 synthesizers|0.34783 and|0.33696 other|0.32609 music|0.31522 equipment|0.30435 The|0.29348 Oberheim|0.28261 DMX|0.27174 came|0.26087 with|0.25 a|0.23913 feature|0.22826 allowing|0.21739 it|0.20652 to|0.19565 be|0.18478 synchronized|0.17391 to|0.16304 its|0.15217 proprietary|0.1413 Oberheim|0.13043 Parallel|0.11957 Buss|0.1087 interfacing|0.097826 system|0.086957 developed|0.076087 prior|0.065217 to|0.054348 the|0.043478 introduction|0.032609 of|0.021739 MIDI|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

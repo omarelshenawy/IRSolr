@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "85fa0d86470cc7eae74d2015b85660ad308039105a67e1445318df8a13047676",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Prince_of_Monaco_in_2013.jpg/170px-The_Prince_of_Monaco_in_2013.jpg",
+			"previous": " ",
+			"after": " Monaco has been governed under a constitutional monarchy since 1911 with the Sovereign Prince of Monaco as head of state 43 The executive branch consists of a Minister of State as the head of government who presides over a five member Council of Government 44 Until 2002 the Minister of State was a French citizen appointed by the prince from among candidates proposed by the French government since a constitutional amendment in 2002 the Minister of State can be French or Monegasque 16 However Prince Albert II appointed on 3 March 2010 the Frenchman Michel Roger as Minister of State 45 ",
+			"color": "corn|0.31447 flower|0.31447 blue|0.31447 black|0.29055 gray|0.1326 grey|0.1326 dark|0.082642 gray|0.082642 dark|0.082642 grey|0.082642 light|0.058661 slate|0.058661 gray|0.058661 dim|0.03714 gray|0.03714 dim|0.03714 grey|0.03714 dark|0.020608 salmon|0.020608 light|0.011142 sky|0.011142 blue|0.011142  ",
+			"after_weights": " Monaco|1 has|0.9901 been|0.9802 governed|0.9703 under|0.9604 a|0.9505 constitutional|0.94059 monarchy|0.93069 since|0.92079 1911|0.91089 with|0.90099 the|0.89109 Sovereign|0.88119 Prince|0.87129 of|0.86139 Monaco|0.85149 as|0.84158 head|0.83168 of|0.82178 state|0.81188 43|0.80198 The|0.79208 executive|0.78218 branch|0.77228 consists|0.76238 of|0.75248 a|0.74257 Minister|0.73267 of|0.72277 State|0.71287 as|0.70297 the|0.69307 head|0.68317 of|0.67327 government|0.66337 who|0.65347 presides|0.64356 over|0.63366 a|0.62376 five|0.61386 member|0.60396 Council|0.59406 of|0.58416 Government|0.57426 44|0.56436 Until|0.55446 2002|0.54455 the|0.53465 Minister|0.52475 of|0.51485 State|0.50495 was|0.49505 a|0.48515 French|0.47525 citizen|0.46535 appointed|0.45545 by|0.44554 the|0.43564 prince|0.42574 from|0.41584 among|0.40594 candidates|0.39604 proposed|0.38614 by|0.37624 the|0.36634 French|0.35644 government|0.34653 since|0.33663 a|0.32673 constitutional|0.31683 amendment|0.30693 in|0.29703 2002|0.28713 the|0.27723 Minister|0.26733 of|0.25743 State|0.24752 can|0.23762 be|0.22772 French|0.21782 or|0.20792 Monegasque|0.19802 16|0.18812 However|0.17822 Prince|0.16832 Albert|0.15842 II|0.14851 appointed|0.13861 on|0.12871 3|0.11881 March|0.10891 2010|0.09901 the|0.089109 Frenchman|0.079208 Michel|0.069307 Roger|0.059406 as|0.049505 Minister|0.039604 of|0.029703 State|0.019802 45|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

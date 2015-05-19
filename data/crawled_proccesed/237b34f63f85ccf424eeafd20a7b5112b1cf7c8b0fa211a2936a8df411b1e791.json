@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "237b34f63f85ccf424eeafd20a7b5112b1cf7c8b0fa211a2936a8df411b1e791",
+			"url": "https://upload.wikimedia.org/math/4/8/e/48eb1b219c5469ba72b738719b15adf0.png",
+			"previous": " which can be interpreted as the linear interpolant of corresponding points on the linear B zier curves from P0 to P1 and from P1 to P2 respectively Rearranging the preceding equation yields ",
+			"after": " The derivative of the B zier curve with respect to t is",
+			"color": "dim|0.38155 gray|0.38155 dim|0.38155 grey|0.38155 gray|0.27718 grey|0.27718 dark|0.17087 gray|0.17087 dark|0.17087 grey|0.17087 silver|0.080957 light|0.042255 gray|0.042255 light|0.042255 grey|0.042255 gainsboro|0.030347 white|0.0041204 smoke|0.0041204  ",
+			"after_weights": " The|1 derivative|0.90909 of|0.81818 the|0.72727 B|0.63636 zier|0.54545 curve|0.45455 with|0.36364 respect|0.27273 to|0.18182 t|0.090909 is|0",
+			"previous_weights": " which|0 can|0.03125 be|0.0625 interpreted|0.09375 as|0.125 the|0.15625 linear|0.1875 interpolant|0.21875 of|0.25 corresponding|0.28125 points|0.3125 on|0.34375 the|0.375 linear|0.40625 B|0.4375 zier|0.46875 curves|0.5 from|0.53125 P0|0.5625 to|0.59375 P1|0.625 and|0.65625 from|0.6875 P1|0.71875 to|0.75 P2|0.78125 respectively|0.8125 Rearranging|0.84375 the|0.875 preceding|0.90625 equation|0.9375 yields|0.96875 |1"
+		}
+	}
+}

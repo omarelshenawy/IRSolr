@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "380f72a39f64b234ddd0183ae49525e9a5876c9b88913f3f0747c2671b8433f2",
+			"url": "https://upload.wikimedia.org/math/1/c/d/1cdbc922ee64437602c70cdc96536629.png",
+			"previous": " Includes upside down letters ",
+			"after": " In mathematics written in Arabic some symbols may be reversed to make right to left writing and reading easier 13  Some Unicode charts of mathematical operators  Some Unicode cross references ",
+			"color": "gray|0.30454 grey|0.30454 dim|0.2903 gray|0.2903 dim|0.2903 grey|0.2903 dark|0.21193 gray|0.21193 dark|0.21193 grey|0.21193 silver|0.086232 light|0.039756 gray|0.039756 light|0.039756 grey|0.039756 gainsboro|0.029711 white|0.00702 smoke|0.00702 black|0.006563 lavender|0.0033931 blush|0.0033931 linen|0.0032944 alice|0.0032352 blue|0.0032352 ghost|0.0031447 white|0.0031447 sea|0.0029191 shell|0.0029191 snow|0.0028698  ",
+			"after_weights": " In|1 mathematics|0.96875 written|0.9375 in|0.90625 Arabic|0.875 some|0.84375 symbols|0.8125 may|0.78125 be|0.75 reversed|0.71875 to|0.6875 make|0.65625 right|0.625 to|0.59375 left|0.5625 writing|0.53125 and|0.5 reading|0.46875 easier|0.4375 13|0.40625 |0.375 Some|0.34375 Unicode|0.3125 charts|0.28125 of|0.25 mathematical|0.21875 operators|0.1875 |0.15625 Some|0.125 Unicode|0.09375 cross|0.0625 references|0.03125 |0",
+			"previous_weights": " Includes|0 upside|0.25 down|0.5 letters|0.75 |1"
+		}
+	}
+}

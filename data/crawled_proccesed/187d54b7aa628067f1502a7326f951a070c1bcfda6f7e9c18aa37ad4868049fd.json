@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "187d54b7aa628067f1502a7326f951a070c1bcfda6f7e9c18aa37ad4868049fd",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/TAROM23.jpg/220px-TAROM23.jpg",
+			"previous": " VIP transport and in flight inspection versions of the 500 also exist 13 14 ",
+			"after": " The largest operators of the ATR 42 are FedEx Express Airlinair TRIP Linhas A reas and Mexico City based Aeromar Operators with at least 5 aircraft as of 2015 ",
+			"color": "dim|0.42391 gray|0.42391 dim|0.42391 grey|0.42391 gray|0.19768 grey|0.19768 dark|0.059244 gray|0.059244 dark|0.059244 grey|0.059244 slate|0.049828 gray|0.049828 black|0.045171 lavender|0.0427 light|0.035299 slate|0.035299 gray|0.035299 light|0.03 steel|0.03 blue|0.03 silver|0.023153 light|0.014491 gray|0.014491 light|0.014491 grey|0.014491 alice|0.013515 blue|0.013515 ghost|0.010614 white|0.010614 gainsboro|0.010456 white|0.0071512 smoke|0.0071512 azure|0.0056113  ",
+			"after_weights": " The|1 largest|0.96552 operators|0.93103 of|0.89655 the|0.86207 ATR|0.82759 42|0.7931 are|0.75862 FedEx|0.72414 Express|0.68966 Airlinair|0.65517 TRIP|0.62069 Linhas|0.58621 A|0.55172 reas|0.51724 and|0.48276 Mexico|0.44828 City|0.41379 based|0.37931 Aeromar|0.34483 Operators|0.31034 with|0.27586 at|0.24138 least|0.2069 5|0.17241 aircraft|0.13793 as|0.10345 of|0.068966 2015|0.034483 |0",
+			"previous_weights": " VIP|0 transport|0.071429 and|0.14286 in|0.21429 flight|0.28571 inspection|0.35714 versions|0.42857 of|0.5 the|0.57143 500|0.64286 also|0.71429 exist|0.78571 13|0.85714 14|0.92857 |1"
+		}
+	}
+}

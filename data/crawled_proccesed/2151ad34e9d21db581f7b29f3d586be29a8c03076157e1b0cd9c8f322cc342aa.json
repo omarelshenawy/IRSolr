@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2151ad34e9d21db581f7b29f3d586be29a8c03076157e1b0cd9c8f322cc342aa",
+			"url": "https://upload.wikimedia.org/math/b/2/e/b2e59099ffb75885a4e49441e4d46f13.png",
+			"previous": " Then by the law of moment of momentum the torque on the fluid is given by ",
+			"after": " For an impulse steam turbine Therefore the tangential force on the blades is The work done per unit time or power developed ",
+			"color": "dim|0.37071 gray|0.37071 dim|0.37071 grey|0.37071 gray|0.27573 grey|0.27573 dark|0.17874 gray|0.17874 dark|0.17874 grey|0.17874 silver|0.081992 light|0.042638 gray|0.042638 light|0.042638 grey|0.042638 gainsboro|0.029711 white|0.0045193 smoke|0.0045193  ",
+			"after_weights": " For|1 an|0.95455 impulse|0.90909 steam|0.86364 turbine|0.81818 Therefore|0.77273 the|0.72727 tangential|0.68182 force|0.63636 on|0.59091 the|0.54545 blades|0.5 is|0.45455 The|0.40909 work|0.36364 done|0.31818 per|0.27273 unit|0.22727 time|0.18182 or|0.13636 power|0.090909 developed|0.045455 |0",
+			"previous_weights": " Then|0 by|0.0625 the|0.125 law|0.1875 of|0.25 moment|0.3125 of|0.375 momentum|0.4375 the|0.5 torque|0.5625 on|0.625 the|0.6875 fluid|0.75 is|0.8125 given|0.875 by|0.9375 |1"
+		}
+	}
+}

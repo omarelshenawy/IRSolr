@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d949b185d6eb39c711fda88426cd57fff7678013c7a99422cab746f1fc3c395",
+			"url": "https://upload.wikimedia.org/math/2/1/b/21bba5b4b8e8d6b47060140c145b451c.png",
+			"previous": " The ring of Hurwitz quaternions is not commutative hence it is not an actual Euclidean domain and it does not have unique factorization in the usual sense Nevertheless the property above implies that every right ideal is principal Thus there is a Hurwitz quaternion such that",
+			"after": " so divides which again contradicts the fact that is not a Hurwitz quaternion Thus is not Hurwitz irreducible as claimed ",
+			"color": "dim|0.31926 gray|0.31926 dim|0.31926 grey|0.31926 black|0.27554 gray|0.21588 grey|0.21588 dark|0.10767 gray|0.10767 dark|0.10767 grey|0.10767 silver|0.040588 light|0.017825 gray|0.017825 light|0.017825 grey|0.017825 gainsboro|0.011608  ",
+			"after_weights": " so|1 divides|0.95 which|0.9 again|0.85 contradicts|0.8 the|0.75 fact|0.7 that|0.65 is|0.6 not|0.55 a|0.5 Hurwitz|0.45 quaternion|0.4 Thus|0.35 is|0.3 not|0.25 Hurwitz|0.2 irreducible|0.15 as|0.1 claimed|0.05 |0",
+			"previous_weights": " The|0 ring|0.022222 of|0.044444 Hurwitz|0.066667 quaternions|0.088889 is|0.11111 not|0.13333 commutative|0.15556 hence|0.17778 it|0.2 is|0.22222 not|0.24444 an|0.26667 actual|0.28889 Euclidean|0.31111 domain|0.33333 and|0.35556 it|0.37778 does|0.4 not|0.42222 have|0.44444 unique|0.46667 factorization|0.48889 in|0.51111 the|0.53333 usual|0.55556 sense|0.57778 Nevertheless|0.6 the|0.62222 property|0.64444 above|0.66667 implies|0.68889 that|0.71111 every|0.73333 right|0.75556 ideal|0.77778 is|0.8 principal|0.82222 Thus|0.84444 there|0.86667 is|0.88889 a|0.91111 Hurwitz|0.93333 quaternion|0.95556 such|0.97778 that|1"
+		}
+	}
+}

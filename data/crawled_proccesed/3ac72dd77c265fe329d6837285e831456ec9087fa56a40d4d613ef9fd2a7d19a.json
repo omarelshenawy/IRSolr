@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ac72dd77c265fe329d6837285e831456ec9087fa56a40d4d613ef9fd2a7d19a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/d/dd/Air_New_Zealand_%28logo%29.jpg",
+			"previous": " The company previously had its head office in the Quay Tower in the CBD 21 In its history the airline had its head office in Airways House on Customs Street East 22 ",
+			"after": " The following are operations subsidiaries of Air New Zealand Limited ",
+			"color": "beige|0.12512 light|0.069885 golden|0.069885 rod|0.069885 yellow|0.069885 floral|0.066903 white|0.066903 ivory|0.062543 mint|0.060386 cream|0.060386 sea|0.059486 shell|0.059486 white|0.05249 smoke|0.05249 white|0.051479 snow|0.049033 old|0.048408 lace|0.048408 light|0.046072 yellow|0.046072 corn|0.045826 silk|0.045826 honeydew|0.045278 linen|0.041159 azure|0.039688 ghost|0.028368 white|0.028368 alice|0.022936 blue|0.022936 lemon|0.022914 chiffon|0.022914 antique|0.017858 white|0.017858 lavender|0.012228 blush|0.012228  ",
+			"after_weights": " The|1 following|0.9 are|0.8 operations|0.7 subsidiaries|0.6 of|0.5 Air|0.4 New|0.3 Zealand|0.2 Limited|0.1 |0",
+			"previous_weights": " The|0 company|0.03125 previously|0.0625 had|0.09375 its|0.125 head|0.15625 office|0.1875 in|0.21875 the|0.25 Quay|0.28125 Tower|0.3125 in|0.34375 the|0.375 CBD|0.40625 21|0.4375 In|0.46875 its|0.5 history|0.53125 the|0.5625 airline|0.59375 had|0.625 its|0.65625 head|0.6875 office|0.71875 in|0.75 Airways|0.78125 House|0.8125 on|0.84375 Customs|0.875 Street|0.90625 East|0.9375 22|0.96875 |1"
+		}
+	}
+}

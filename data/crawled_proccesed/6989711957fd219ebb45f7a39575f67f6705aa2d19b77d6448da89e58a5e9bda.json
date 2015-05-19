@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6989711957fd219ebb45f7a39575f67f6705aa2d19b77d6448da89e58a5e9bda",
+			"url": "https://upload.wikimedia.org/math/1/2/0/1201df693e27062ace4c8649684a2f41.png",
+			"previous": " and into When choosing a point t0 to evaluate a Bernstein polynomial we can use the two diagonals of the triangle scheme to construct a division of the polynomial",
+			"after": " We want to evaluate the Bernstein polynomial of degree 2 with the Bernstein coefficients at the point t0  We start the recursion with",
+			"color": "dim|0.36332 gray|0.36332 dim|0.36332 grey|0.36332 gray|0.28591 grey|0.28591 dark|0.18046 gray|0.18046 dark|0.18046 grey|0.18046 silver|0.08328 light|0.035381 gray|0.035381 light|0.035381 grey|0.035381 gainsboro|0.024674 white|0.0053259 smoke|0.0053259 lavender|0.0031079 blush|0.0031079 alice|0.0030274 blue|0.0030274  ",
+			"after_weights": " We|1 want|0.95652 to|0.91304 evaluate|0.86957 the|0.82609 Bernstein|0.78261 polynomial|0.73913 of|0.69565 degree|0.65217 2|0.6087 with|0.56522 the|0.52174 Bernstein|0.47826 coefficients|0.43478 at|0.3913 the|0.34783 point|0.30435 t0|0.26087 |0.21739 We|0.17391 start|0.13043 the|0.086957 recursion|0.043478 with|0",
+			"previous_weights": " and|0 into|0.035714 When|0.071429 choosing|0.10714 a|0.14286 point|0.17857 t0|0.21429 to|0.25 evaluate|0.28571 a|0.32143 Bernstein|0.35714 polynomial|0.39286 we|0.42857 can|0.46429 use|0.5 the|0.53571 two|0.57143 diagonals|0.60714 of|0.64286 the|0.67857 triangle|0.71429 scheme|0.75 to|0.78571 construct|0.82143 a|0.85714 division|0.89286 of|0.92857 the|0.96429 polynomial|1"
+		}
+	}
+}

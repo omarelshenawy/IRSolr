@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9629eda0b63c38513773d53559c257140e4de88d697991c15949c51f3d5a4fb4",
+			"url": "https://upload.wikimedia.org/math/1/7/e/17e595c7eb014a0864d67f7230443e82.png",
+			"previous": " The metric tensor allows one to define the inner product of two vectors which in turn allows one to assign a magnitude to the vector Given the four dimensional nature of spacetime the Minkowski metric has components valid in any inertial reference frame which can be arranged in a 4 4 matrix ",
+			"after": " which is equal to its reciprocal in those frames Throughout we use the signs as above different authors use different conventions see Minkowski metric alternative signs ",
+			"color": "black|0.36229 dim|0.22649 gray|0.22649 dim|0.22649 grey|0.22649 gray|0.19123 grey|0.19123 dark|0.15075 gray|0.15075 dark|0.15075 grey|0.15075 silver|0.050522 light|0.014059 gray|0.014059 light|0.014059 grey|0.014059 gainsboro|0.00455  ",
+			"after_weights": " which|1 is|0.96154 equal|0.92308 to|0.88462 its|0.84615 reciprocal|0.80769 in|0.76923 those|0.73077 frames|0.69231 Throughout|0.65385 we|0.61538 use|0.57692 the|0.53846 signs|0.5 as|0.46154 above|0.42308 different|0.38462 authors|0.34615 use|0.30769 different|0.26923 conventions|0.23077 see|0.19231 Minkowski|0.15385 metric|0.11538 alternative|0.076923 signs|0.038462 |0",
+			"previous_weights": " The|0 metric|0.019231 tensor|0.038462 allows|0.057692 one|0.076923 to|0.096154 define|0.11538 the|0.13462 inner|0.15385 product|0.17308 of|0.19231 two|0.21154 vectors|0.23077 which|0.25 in|0.26923 turn|0.28846 allows|0.30769 one|0.32692 to|0.34615 assign|0.36538 a|0.38462 magnitude|0.40385 to|0.42308 the|0.44231 vector|0.46154 Given|0.48077 the|0.5 four|0.51923 dimensional|0.53846 nature|0.55769 of|0.57692 spacetime|0.59615 the|0.61538 Minkowski|0.63462 metric|0.65385 has|0.67308 components|0.69231 valid|0.71154 in|0.73077 any|0.75 inertial|0.76923 reference|0.78846 frame|0.80769 which|0.82692 can|0.84615 be|0.86538 arranged|0.88462 in|0.90385 a|0.92308 4|0.94231 4|0.96154 matrix|0.98077 |1"
+		}
+	}
+}

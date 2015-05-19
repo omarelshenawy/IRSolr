@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "936be69996be0302c862d2fa012266d623b51c3ceeefdcb216bf6fba5a23fb3d",
+			"url": "https://upload.wikimedia.org/math/d/a/6/da6c6defb9876a8faa3e5e7734aff473.png",
+			"previous": " Assuming that N particles start from the origin at the initial time t 0 the diffusion equation has the solution",
+			"after": " This expression allowed Einstein to calculate the moments directly The first moment is seen to vanish meaning that the Brownian particle is equally likely to move to the left as it is to move to the right The second moment is however non vanishing being given by",
+			"color": "dim|0.36058 gray|0.36058 dim|0.36058 grey|0.36058 gray|0.29304 grey|0.29304 dark|0.18883 gray|0.18883 dark|0.18883 grey|0.18883 silver|0.079197 light|0.03649 gray|0.03649 light|0.03649 grey|0.03649 gainsboro|0.025465 white|0.0041074 smoke|0.0041074  ",
+			"after_weights": " This|1 expression|0.97826 allowed|0.95652 Einstein|0.93478 to|0.91304 calculate|0.8913 the|0.86957 moments|0.84783 directly|0.82609 The|0.80435 first|0.78261 moment|0.76087 is|0.73913 seen|0.71739 to|0.69565 vanish|0.67391 meaning|0.65217 that|0.63043 the|0.6087 Brownian|0.58696 particle|0.56522 is|0.54348 equally|0.52174 likely|0.5 to|0.47826 move|0.45652 to|0.43478 the|0.41304 left|0.3913 as|0.36957 it|0.34783 is|0.32609 to|0.30435 move|0.28261 to|0.26087 the|0.23913 right|0.21739 The|0.19565 second|0.17391 moment|0.15217 is|0.13043 however|0.1087 non|0.086957 vanishing|0.065217 being|0.043478 given|0.021739 by|0",
+			"previous_weights": " Assuming|0 that|0.052632 N|0.10526 particles|0.15789 start|0.21053 from|0.26316 the|0.31579 origin|0.36842 at|0.42105 the|0.47368 initial|0.52632 time|0.57895 t|0.63158 0|0.68421 the|0.73684 diffusion|0.78947 equation|0.84211 has|0.89474 the|0.94737 solution|1"
+		}
+	}
+}

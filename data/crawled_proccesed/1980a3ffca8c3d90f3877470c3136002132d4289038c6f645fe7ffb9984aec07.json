@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1980a3ffca8c3d90f3877470c3136002132d4289038c6f645fe7ffb9984aec07",
+			"url": "https://upload.wikimedia.org/math/3/f/4/3f44e350a2d0f0a9dd636b4e0049375a.png",
+			"previous": " The points on the sphere with radius r can be parameterized via In analytic geometry a sphere with center x0 y0 z0 and radius r is the locus of all points x y z such that",
+			"after": " A sphere of any radius centered at zero is an integral surface of the following differential form  This equation reflects that position and velocity vectors of a point traveling on the sphere are always orthogonal to each other ",
+			"color": "dim|0.33682 gray|0.33682 dim|0.33682 grey|0.33682 black|0.25891 gray|0.20214 grey|0.20214 dark|0.11184 gray|0.11184 dark|0.11184 grey|0.11184 silver|0.045785 light|0.020805 gray|0.020805 light|0.020805 grey|0.020805 gainsboro|0.014162  ",
+			"after_weights": " A|1 sphere|0.97436 of|0.94872 any|0.92308 radius|0.89744 centered|0.87179 at|0.84615 zero|0.82051 is|0.79487 an|0.76923 integral|0.74359 surface|0.71795 of|0.69231 the|0.66667 following|0.64103 differential|0.61538 form|0.58974 |0.5641 This|0.53846 equation|0.51282 reflects|0.48718 that|0.46154 position|0.4359 and|0.41026 velocity|0.38462 vectors|0.35897 of|0.33333 a|0.30769 point|0.28205 traveling|0.25641 on|0.23077 the|0.20513 sphere|0.17949 are|0.15385 always|0.12821 orthogonal|0.10256 to|0.076923 each|0.051282 other|0.025641 |0",
+			"previous_weights": " The|0 points|0.028571 on|0.057143 the|0.085714 sphere|0.11429 with|0.14286 radius|0.17143 r|0.2 can|0.22857 be|0.25714 parameterized|0.28571 via|0.31429 In|0.34286 analytic|0.37143 geometry|0.4 a|0.42857 sphere|0.45714 with|0.48571 center|0.51429 x0|0.54286 y0|0.57143 z0|0.6 and|0.62857 radius|0.65714 r|0.68571 is|0.71429 the|0.74286 locus|0.77143 of|0.8 all|0.82857 points|0.85714 x|0.88571 y|0.91429 z|0.94286 such|0.97143 that|1"
+		}
+	}
+}

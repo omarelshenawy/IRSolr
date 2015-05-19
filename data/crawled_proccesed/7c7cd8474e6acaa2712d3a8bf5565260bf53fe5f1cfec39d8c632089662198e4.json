@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c7cd8474e6acaa2712d3a8bf5565260bf53fe5f1cfec39d8c632089662198e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pan_Am_Building%2C_NYC%2C_1980s.jpg/170px-Pan_Am_Building%2C_NYC%2C_1980s.jpg",
+			"previous": " ",
+			"after": " Pan Am commissioned IBM to build PANAMAC a large computer that booked airline and hotel reservations which was installed in 1964 It also held large amounts of information about cities countries airports aircraft hotels and restaurants 63 ",
+			"color": "black|0.75896 dim|0.084391 gray|0.084391 dim|0.084391 grey|0.084391 gray|0.071842 grey|0.071842 dark|0.052009 gray|0.052009 dark|0.052009 grey|0.052009 silver|0.018983 light|0.007257 gray|0.007257 light|0.007257 grey|0.007257 gainsboro|0.0043658  ",
+			"after_weights": " Pan|1 Am|0.97297 commissioned|0.94595 IBM|0.91892 to|0.89189 build|0.86486 PANAMAC|0.83784 a|0.81081 large|0.78378 computer|0.75676 that|0.72973 booked|0.7027 airline|0.67568 and|0.64865 hotel|0.62162 reservations|0.59459 which|0.56757 was|0.54054 installed|0.51351 in|0.48649 1964|0.45946 It|0.43243 also|0.40541 held|0.37838 large|0.35135 amounts|0.32432 of|0.2973 information|0.27027 about|0.24324 cities|0.21622 countries|0.18919 airports|0.16216 aircraft|0.13514 hotels|0.10811 and|0.081081 restaurants|0.054054 63|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

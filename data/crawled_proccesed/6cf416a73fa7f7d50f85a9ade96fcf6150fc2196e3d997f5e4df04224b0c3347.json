@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cf416a73fa7f7d50f85a9ade96fcf6150fc2196e3d997f5e4df04224b0c3347",
+			"url": "https://upload.wikimedia.org/math/b/2/a/b2a6865301cdc438addafc92eb28c9f1.png",
+			"previous": " To prove this is true in general suppose P is a polynomial of degree N having the property described that is it gives rise to an error function that has N 2 extrema of alternating signs and equal magnitudes The red graph to the right shows what this error function might look like for N 4 Suppose Q x whose error function is shown in blue to the right is another N degree polynomial that is a better approximation to f than P In particular Q is closer to f than P for each value xi where an extreme of P f occurs so",
+			"after": " When a maximum of P f occurs at xi then",
+			"color": "gray|0.30165 grey|0.30165 dim|0.23431 gray|0.23431 dim|0.23431 grey|0.23431 dark|0.22416 gray|0.22416 dark|0.22416 grey|0.22416 silver|0.11861 light|0.062516 gray|0.062516 light|0.062516 grey|0.062516 gainsboro|0.042699 white|0.004362 smoke|0.004362  ",
+			"after_weights": " When|1 a|0.88889 maximum|0.77778 of|0.66667 P|0.55556 f|0.44444 occurs|0.33333 at|0.22222 xi|0.11111 then|0",
+			"previous_weights": " To|0 prove|0.0097087 this|0.019417 is|0.029126 true|0.038835 in|0.048544 general|0.058252 suppose|0.067961 P|0.07767 is|0.087379 a|0.097087 polynomial|0.1068 of|0.1165 degree|0.12621 N|0.13592 having|0.14563 the|0.15534 property|0.16505 described|0.17476 that|0.18447 is|0.19417 it|0.20388 gives|0.21359 rise|0.2233 to|0.23301 an|0.24272 error|0.25243 function|0.26214 that|0.27184 has|0.28155 N|0.29126 2|0.30097 extrema|0.31068 of|0.32039 alternating|0.3301 signs|0.33981 and|0.34951 equal|0.35922 magnitudes|0.36893 The|0.37864 red|0.38835 graph|0.39806 to|0.40777 the|0.41748 right|0.42718 shows|0.43689 what|0.4466 this|0.45631 error|0.46602 function|0.47573 might|0.48544 look|0.49515 like|0.50485 for|0.51456 N|0.52427 4|0.53398 Suppose|0.54369 Q|0.5534 x|0.56311 whose|0.57282 error|0.58252 function|0.59223 is|0.60194 shown|0.61165 in|0.62136 blue|0.63107 to|0.64078 the|0.65049 right|0.66019 is|0.6699 another|0.67961 N|0.68932 degree|0.69903 polynomial|0.70874 that|0.71845 is|0.72816 a|0.73786 better|0.74757 approximation|0.75728 to|0.76699 f|0.7767 than|0.78641 P|0.79612 In|0.80583 particular|0.81553 Q|0.82524 is|0.83495 closer|0.84466 to|0.85437 f|0.86408 than|0.87379 P|0.8835 for|0.8932 each|0.90291 value|0.91262 xi|0.92233 where|0.93204 an|0.94175 extreme|0.95146 of|0.96117 P|0.97087 f|0.98058 occurs|0.99029 so|1"
+		}
+	}
+}

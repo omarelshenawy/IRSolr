@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e86bcbafac423c5111e7ceac4157fd320a682862c66312f8db6fef8905b88f6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Corsur.JPG/300px-Corsur.JPG",
+			"previous": " Despite Panama s upper middle per capita GDP it remains a country of stark contrasts Perpetuated by dramatic educational disparities over 25 of Panama s population lived in national poverty in 2013 and 3 of the population lives in extreme poverty according to latest reports by the World Bank 32 33 ",
+			"after": " ",
+			"color": "dim|0.46622 gray|0.46622 dim|0.46622 grey|0.46622 gray|0.23359 grey|0.23359 dark|0.12225 gray|0.12225 dark|0.12225 grey|0.12225 slate|0.086733 gray|0.086733 light|0.063523 slate|0.063523 gray|0.063523 dark|0.02397 slate|0.02397 gray|0.02397  ",
+			"after_weights": " ",
+			"previous_weights": " Despite|0 Panama|0.019608 s|0.039216 upper|0.058824 middle|0.078431 per|0.098039 capita|0.11765 GDP|0.13725 it|0.15686 remains|0.17647 a|0.19608 country|0.21569 of|0.23529 stark|0.2549 contrasts|0.27451 Perpetuated|0.29412 by|0.31373 dramatic|0.33333 educational|0.35294 disparities|0.37255 over|0.39216 25|0.41176 of|0.43137 Panama|0.45098 s|0.47059 population|0.4902 lived|0.5098 in|0.52941 national|0.54902 poverty|0.56863 in|0.58824 2013|0.60784 and|0.62745 3|0.64706 of|0.66667 the|0.68627 population|0.70588 lives|0.72549 in|0.7451 extreme|0.76471 poverty|0.78431 according|0.80392 to|0.82353 latest|0.84314 reports|0.86275 by|0.88235 the|0.90196 World|0.92157 Bank|0.94118 32|0.96078 33|0.98039 |1"
+		}
+	}
+}

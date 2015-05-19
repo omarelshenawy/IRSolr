@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "943638779fe1b873ddb355eafa1374b6deed6887145ebe924b9b033a3bc147f9",
+			"url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Future_of_Flight_Aviation_Center_%26_Boeing_Tour_%28logo%29.png",
+			"previous": " Coordinates 47 55 30 N 122 16 19 W 47 925 N 122 272 W 47 925 122 272",
+			"after": " The Future of Flight Aviation Center is an aviation museum and education center located at the northwest corner of Paine Field in Mukilteo Washington It is the starting point for the Boeing Tour a tour of a portion of Boeing s Everett Washington production facility in which the models 747 767 777 and 787 are built It is also home of the Future of Flight Foundation a non profit organization that owns the museum s collection and engages in worldwide education outreach 1 2 ",
+			"color": "crimson|0.17869 gray|0.15008 grey|0.15008 dim|0.12836 gray|0.12836 dim|0.12836 grey|0.12836 dark|0.12817 gray|0.12817 dark|0.12817 grey|0.12817 light|0.12611 coral|0.12611 silver|0.075308 light|0.051807 pink|0.051807 black|0.046535 light|0.039446 gray|0.039446 light|0.039446 grey|0.039446 gainsboro|0.025434 pink|0.020596 white|0.004534 smoke|0.004534  ",
+			"after_weights": " The|1 Future|0.9881 of|0.97619 Flight|0.96429 Aviation|0.95238 Center|0.94048 is|0.92857 an|0.91667 aviation|0.90476 museum|0.89286 and|0.88095 education|0.86905 center|0.85714 located|0.84524 at|0.83333 the|0.82143 northwest|0.80952 corner|0.79762 of|0.78571 Paine|0.77381 Field|0.7619 in|0.75 Mukilteo|0.7381 Washington|0.72619 It|0.71429 is|0.70238 the|0.69048 starting|0.67857 point|0.66667 for|0.65476 the|0.64286 Boeing|0.63095 Tour|0.61905 a|0.60714 tour|0.59524 of|0.58333 a|0.57143 portion|0.55952 of|0.54762 Boeing|0.53571 s|0.52381 Everett|0.5119 Washington|0.5 production|0.4881 facility|0.47619 in|0.46429 which|0.45238 the|0.44048 models|0.42857 747|0.41667 767|0.40476 777|0.39286 and|0.38095 787|0.36905 are|0.35714 built|0.34524 It|0.33333 is|0.32143 also|0.30952 home|0.29762 of|0.28571 the|0.27381 Future|0.2619 of|0.25 Flight|0.2381 Foundation|0.22619 a|0.21429 non|0.20238 profit|0.19048 organization|0.17857 that|0.16667 owns|0.15476 the|0.14286 museum|0.13095 s|0.11905 collection|0.10714 and|0.095238 engages|0.083333 in|0.071429 worldwide|0.059524 education|0.047619 outreach|0.035714 1|0.02381 2|0.011905 |0",
+			"previous_weights": " Coordinates|0 47|0.055556 55|0.11111 30|0.16667 N|0.22222 122|0.27778 16|0.33333 19|0.38889 W|0.44444 47|0.5 925|0.55556 N|0.61111 122|0.66667 272|0.72222 W|0.77778 47|0.83333 925|0.88889 122|0.94444 272|1"
+		}
+	}
+}

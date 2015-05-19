@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b8036a28a9cec74d2468f9962427f15bcf03b177e9a92e80d9fc33fe115c0a50",
+			"url": "https://upload.wikimedia.org/math/a/5/a/a5a7fc955ec5c7f673d4c22e83d65fbf.png",
+			"previous": " There is a discontinuity of the refractive index when light enters or leaves a lens Let",
+			"after": " where and are constants Then the Euler Lagrange equation holds as before in the region where x 0 or x 0 and in fact the path is a straight line there since the refractive index is constant At the x 0 f must be continuous but f may be discontinuous After integration by parts in the separate regions and using the Euler Lagrange equations the first variation takes the form",
+			"color": "dim|0.41065 gray|0.41065 dim|0.41065 grey|0.41065 gray|0.28218 grey|0.28218 dark|0.16174 gray|0.16174 dark|0.16174 grey|0.16174 silver|0.069295 light|0.034179 gray|0.034179 light|0.034179 grey|0.034179 gainsboro|0.024014 white|0.0043995 smoke|0.0043995  ",
+			"after_weights": " where|1 and|0.98551 are|0.97101 constants|0.95652 Then|0.94203 the|0.92754 Euler|0.91304 Lagrange|0.89855 equation|0.88406 holds|0.86957 as|0.85507 before|0.84058 in|0.82609 the|0.81159 region|0.7971 where|0.78261 x|0.76812 0|0.75362 or|0.73913 x|0.72464 0|0.71014 and|0.69565 in|0.68116 fact|0.66667 the|0.65217 path|0.63768 is|0.62319 a|0.6087 straight|0.5942 line|0.57971 there|0.56522 since|0.55072 the|0.53623 refractive|0.52174 index|0.50725 is|0.49275 constant|0.47826 At|0.46377 the|0.44928 x|0.43478 0|0.42029 f|0.4058 must|0.3913 be|0.37681 continuous|0.36232 but|0.34783 f|0.33333 may|0.31884 be|0.30435 discontinuous|0.28986 After|0.27536 integration|0.26087 by|0.24638 parts|0.23188 in|0.21739 the|0.2029 separate|0.18841 regions|0.17391 and|0.15942 using|0.14493 the|0.13043 Euler|0.11594 Lagrange|0.10145 equations|0.086957 the|0.072464 first|0.057971 variation|0.043478 takes|0.028986 the|0.014493 form|0",
+			"previous_weights": " There|0 is|0.066667 a|0.13333 discontinuity|0.2 of|0.26667 the|0.33333 refractive|0.4 index|0.46667 when|0.53333 light|0.6 enters|0.66667 or|0.73333 leaves|0.8 a|0.86667 lens|0.93333 Let|1"
+		}
+	}
+}

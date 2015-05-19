@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b411130119d95ca923c9791ca22f3f3a3dac7f2e37ef114ae09189238f0ea84",
+			"url": "https://upload.wikimedia.org/math/6/d/f/6df890c01594fd61f5b7a9e7812df924.png",
+			"previous": " ",
+			"after": " If only the second and third conditions of the definition of measure above are met and takes on at most one of the values then is called a signed measure  The pair X is called a measurable space the members of are called measurable sets If and are two measurable spaces then a function is called measurable if for every Y measurable set the inverse image is X measurable i e The composition of measurable functions is measurable making the measurable spaces and measurable functions a category with the measurable spaces as objects and the set of measurable functions as arrows ",
+			"color": "dim|0.34409 gray|0.34409 dim|0.34409 grey|0.34409 gray|0.31589 grey|0.31589 dark|0.18584 gray|0.18584 dark|0.18584 grey|0.18584 silver|0.076425 light|0.036536 gray|0.036536 light|0.036536 grey|0.036536 gainsboro|0.025477 white|0.0043938 smoke|0.0043938  ",
+			"after_weights": " If|1 only|0.9902 the|0.98039 second|0.97059 and|0.96078 third|0.95098 conditions|0.94118 of|0.93137 the|0.92157 definition|0.91176 of|0.90196 measure|0.89216 above|0.88235 are|0.87255 met|0.86275 and|0.85294 takes|0.84314 on|0.83333 at|0.82353 most|0.81373 one|0.80392 of|0.79412 the|0.78431 values|0.77451 then|0.76471 is|0.7549 called|0.7451 a|0.73529 signed|0.72549 measure|0.71569 |0.70588 The|0.69608 pair|0.68627 X|0.67647 is|0.66667 called|0.65686 a|0.64706 measurable|0.63725 space|0.62745 the|0.61765 members|0.60784 of|0.59804 are|0.58824 called|0.57843 measurable|0.56863 sets|0.55882 If|0.54902 and|0.53922 are|0.52941 two|0.51961 measurable|0.5098 spaces|0.5 then|0.4902 a|0.48039 function|0.47059 is|0.46078 called|0.45098 measurable|0.44118 if|0.43137 for|0.42157 every|0.41176 Y|0.40196 measurable|0.39216 set|0.38235 the|0.37255 inverse|0.36275 image|0.35294 is|0.34314 X|0.33333 measurable|0.32353 i|0.31373 e|0.30392 The|0.29412 composition|0.28431 of|0.27451 measurable|0.26471 functions|0.2549 is|0.2451 measurable|0.23529 making|0.22549 the|0.21569 measurable|0.20588 spaces|0.19608 and|0.18627 measurable|0.17647 functions|0.16667 a|0.15686 category|0.14706 with|0.13725 the|0.12745 measurable|0.11765 spaces|0.10784 as|0.098039 objects|0.088235 and|0.078431 the|0.068627 set|0.058824 of|0.04902 measurable|0.039216 functions|0.029412 as|0.019608 arrows|0.0098039 |0",
+			"previous_weights": " "
+		}
+	}
+}

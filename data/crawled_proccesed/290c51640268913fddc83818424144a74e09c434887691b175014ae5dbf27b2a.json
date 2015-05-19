@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "290c51640268913fddc83818424144a74e09c434887691b175014ae5dbf27b2a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WindsorLowerBaileyJosephNash1848_edited.jpg/220px-WindsorLowerBaileyJosephNash1848_edited.jpg",
+			"previous": " ",
+			"after": " George IV came to the throne in 1820 intending to create a set of royal palaces that reflected his wealth and influence as the ruler of an increasingly powerful Britain 179 George s previous houses Carlton House and the Brighton Pavilion were too small for grand court events even after expensive extensions 179 George expanded the Royal Lodge in the castle park whilst he was Prince Regent and then began a programme of work to modernise the castle itself once he became king 179 ",
+			"color": "tan|0.35498 black|0.18353 dim|0.1158 gray|0.1158 dim|0.1158 grey|0.1158 burly|0.050895 wood|0.050895 gray|0.046256 grey|0.046256 dark|0.026325 gray|0.026325 dark|0.026325 grey|0.026325  ",
+			"after_weights": " George|1 IV|0.9881 came|0.97619 to|0.96429 the|0.95238 throne|0.94048 in|0.92857 1820|0.91667 intending|0.90476 to|0.89286 create|0.88095 a|0.86905 set|0.85714 of|0.84524 royal|0.83333 palaces|0.82143 that|0.80952 reflected|0.79762 his|0.78571 wealth|0.77381 and|0.7619 influence|0.75 as|0.7381 the|0.72619 ruler|0.71429 of|0.70238 an|0.69048 increasingly|0.67857 powerful|0.66667 Britain|0.65476 179|0.64286 George|0.63095 s|0.61905 previous|0.60714 houses|0.59524 Carlton|0.58333 House|0.57143 and|0.55952 the|0.54762 Brighton|0.53571 Pavilion|0.52381 were|0.5119 too|0.5 small|0.4881 for|0.47619 grand|0.46429 court|0.45238 events|0.44048 even|0.42857 after|0.41667 expensive|0.40476 extensions|0.39286 179|0.38095 George|0.36905 expanded|0.35714 the|0.34524 Royal|0.33333 Lodge|0.32143 in|0.30952 the|0.29762 castle|0.28571 park|0.27381 whilst|0.2619 he|0.25 was|0.2381 Prince|0.22619 Regent|0.21429 and|0.20238 then|0.19048 began|0.17857 a|0.16667 programme|0.15476 of|0.14286 work|0.13095 to|0.11905 modernise|0.10714 the|0.095238 castle|0.083333 itself|0.071429 once|0.059524 he|0.047619 became|0.035714 king|0.02381 179|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "344b4f0ca72b58468979c39a094679ca32a925b0000d40347b01ae6616ab7ed7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/G-TUIC_MAN.JPG/220px-G-TUIC_MAN.JPG",
+			"previous": " Passenger numbers at Manchester peaked in 2006 when over 22 4 million passed through the airport In 2014 around 22 million passengers used the airport an increase of 6 compared with 2013 making Manchester the third busiest airport in the UK in terms of annual passenger throughput 3 ",
+			"after": " ",
+			"color": "dim|0.37556 gray|0.37556 dim|0.37556 grey|0.37556 gray|0.19393 grey|0.19393 dark|0.14326 olive|0.14326 green|0.14326 black|0.12441 steel|0.066651 blue|0.066651 light|0.020952 sky|0.020952 blue|0.020952  ",
+			"after_weights": " ",
+			"previous_weights": " Passenger|0 numbers|0.020833 at|0.041667 Manchester|0.0625 peaked|0.083333 in|0.10417 2006|0.125 when|0.14583 over|0.16667 22|0.1875 4|0.20833 million|0.22917 passed|0.25 through|0.27083 the|0.29167 airport|0.3125 In|0.33333 2014|0.35417 around|0.375 22|0.39583 million|0.41667 passengers|0.4375 used|0.45833 the|0.47917 airport|0.5 an|0.52083 increase|0.54167 of|0.5625 6|0.58333 compared|0.60417 with|0.625 2013|0.64583 making|0.66667 Manchester|0.6875 the|0.70833 third|0.72917 busiest|0.75 airport|0.77083 in|0.79167 the|0.8125 UK|0.83333 in|0.85417 terms|0.875 of|0.89583 annual|0.91667 passenger|0.9375 throughput|0.95833 3|0.97917 |1"
+		}
+	}
+}

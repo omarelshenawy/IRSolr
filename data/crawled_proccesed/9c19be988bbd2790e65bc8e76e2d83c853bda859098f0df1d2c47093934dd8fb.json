@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c19be988bbd2790e65bc8e76e2d83c853bda859098f0df1d2c47093934dd8fb",
+			"url": "https://upload.wikimedia.org/math/9/3/d/93d059afc6942b4e72fda153df7104b3.png",
+			"previous": " The degree of the product of two polynomials over a field or an integral domain is the sum of their degrees The set of polynomials with coefficients from a given field F and degree smaller than or equal to a given number n thus forms a vector space Note however that this set is not a ring as it is not closed under multiplication as is seen below ",
+			"after": " E g ",
+			"color": "gray|0.31428 grey|0.31428 dim|0.28662 gray|0.28662 dim|0.28662 grey|0.28662 dark|0.2164 gray|0.2164 dark|0.2164 grey|0.2164 silver|0.093623 light|0.04306 gray|0.04306 light|0.04306 grey|0.04306 gainsboro|0.028709 white|0.0045057 smoke|0.0045057  ",
+			"after_weights": " E|1 g|0.5 |0",
+			"previous_weights": " The|0 degree|0.014706 of|0.029412 the|0.044118 product|0.058824 of|0.073529 two|0.088235 polynomials|0.10294 over|0.11765 a|0.13235 field|0.14706 or|0.16176 an|0.17647 integral|0.19118 domain|0.20588 is|0.22059 the|0.23529 sum|0.25 of|0.26471 their|0.27941 degrees|0.29412 The|0.30882 set|0.32353 of|0.33824 polynomials|0.35294 with|0.36765 coefficients|0.38235 from|0.39706 a|0.41176 given|0.42647 field|0.44118 F|0.45588 and|0.47059 degree|0.48529 smaller|0.5 than|0.51471 or|0.52941 equal|0.54412 to|0.55882 a|0.57353 given|0.58824 number|0.60294 n|0.61765 thus|0.63235 forms|0.64706 a|0.66176 vector|0.67647 space|0.69118 Note|0.70588 however|0.72059 that|0.73529 this|0.75 set|0.76471 is|0.77941 not|0.79412 a|0.80882 ring|0.82353 as|0.83824 it|0.85294 is|0.86765 not|0.88235 closed|0.89706 under|0.91176 multiplication|0.92647 as|0.94118 is|0.95588 seen|0.97059 below|0.98529 |1"
+		}
+	}
+}

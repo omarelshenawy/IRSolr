@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51535aa62d619068a0ea620cb475ca3761a95b471983abbb77fc4ed6e57796e7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/A_50%27s_Style_Diner.jpg/220px-A_50%27s_Style_Diner.jpg",
+			"previous": " New Jersey is the birthplace of modern inventions such as FM radio the motion picture camera the lithium battery the light bulb transistors and the electric train Other New Jersey creations include the drive in movie the cultivated blueberry cranberry sauce the postcard the boardwalk the zipper the phonograph saltwater taffy the dirigible the seedless watermelon 157 the first use of a submarine in warfare and the ice cream cone 158 ",
+			"after": " There are mineral museums in Franklin and Ogdensburg ",
+			"color": "dim|0.16602 gray|0.16602 dim|0.16602 grey|0.16602 dark|0.13949 gray|0.13949 dark|0.13949 grey|0.13949 gray|0.12598 grey|0.12598 slate|0.067852 gray|0.067852 light|0.062064 slate|0.062064 gray|0.062064 silver|0.061518 rosy|0.034024 brown|0.034024 light|0.033048 steel|0.033048 blue|0.033048 sienna|0.02777 light|0.026784 gray|0.026784 light|0.026784 grey|0.026784 black|0.023616 gainsboro|0.016608 dark|0.014301 slate|0.014301 gray|0.014301 sandy|0.01406 brown|0.01406 dark|0.012595 salmon|0.012595 tan|0.012344 peru|0.011983 burly|0.011712 wood|0.011712 lavender|0.010199  ",
+			"after_weights": " There|1 are|0.875 mineral|0.75 museums|0.625 in|0.5 Franklin|0.375 and|0.25 Ogdensburg|0.125 |0",
+			"previous_weights": " New|0 Jersey|0.014085 is|0.028169 the|0.042254 birthplace|0.056338 of|0.070423 modern|0.084507 inventions|0.098592 such|0.11268 as|0.12676 FM|0.14085 radio|0.15493 the|0.16901 motion|0.1831 picture|0.19718 camera|0.21127 the|0.22535 lithium|0.23944 battery|0.25352 the|0.26761 light|0.28169 bulb|0.29577 transistors|0.30986 and|0.32394 the|0.33803 electric|0.35211 train|0.3662 Other|0.38028 New|0.39437 Jersey|0.40845 creations|0.42254 include|0.43662 the|0.4507 drive|0.46479 in|0.47887 movie|0.49296 the|0.50704 cultivated|0.52113 blueberry|0.53521 cranberry|0.5493 sauce|0.56338 the|0.57746 postcard|0.59155 the|0.60563 boardwalk|0.61972 the|0.6338 zipper|0.64789 the|0.66197 phonograph|0.67606 saltwater|0.69014 taffy|0.70423 the|0.71831 dirigible|0.73239 the|0.74648 seedless|0.76056 watermelon|0.77465 157|0.78873 the|0.80282 first|0.8169 use|0.83099 of|0.84507 a|0.85915 submarine|0.87324 in|0.88732 warfare|0.90141 and|0.91549 the|0.92958 ice|0.94366 cream|0.95775 cone|0.97183 158|0.98592 |1"
+		}
+	}
+}

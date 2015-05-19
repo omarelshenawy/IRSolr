@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51a77b7553856374a17a64652971e1ffce3cf35753faff3dd0ff638ef2a31d0c",
+			"url": "https://upload.wikimedia.org/math/f/e/9/fe9afd6c8dbc28bb7ef6c2480398fcb4.png",
+			"previous": " By the first part of the theorem we know G is also an antiderivative of f Since F G 0 the mean value theorem implies that F G is a constant function i e there is a number c such that G x F x c for all x in a b Letting x a we have",
+			"after": " which means c F a In other words G x F x F a and so",
+			"color": "dim|0.36114 gray|0.36114 dim|0.36114 grey|0.36114 gray|0.24321 grey|0.24321 dark|0.14565 gray|0.14565 dark|0.14565 grey|0.14565 black|0.1362 silver|0.057749 light|0.026364 gray|0.026364 light|0.026364 grey|0.026364 gainsboro|0.017799  ",
+			"after_weights": " which|1 means|0.93333 c|0.86667 F|0.8 a|0.73333 In|0.66667 other|0.6 words|0.53333 G|0.46667 x|0.4 F|0.33333 x|0.26667 F|0.2 a|0.13333 and|0.066667 so|0",
+			"previous_weights": " By|0 the|0.017857 first|0.035714 part|0.053571 of|0.071429 the|0.089286 theorem|0.10714 we|0.125 know|0.14286 G|0.16071 is|0.17857 also|0.19643 an|0.21429 antiderivative|0.23214 of|0.25 f|0.26786 Since|0.28571 F|0.30357 G|0.32143 0|0.33929 the|0.35714 mean|0.375 value|0.39286 theorem|0.41071 implies|0.42857 that|0.44643 F|0.46429 G|0.48214 is|0.5 a|0.51786 constant|0.53571 function|0.55357 i|0.57143 e|0.58929 there|0.60714 is|0.625 a|0.64286 number|0.66071 c|0.67857 such|0.69643 that|0.71429 G|0.73214 x|0.75 F|0.76786 x|0.78571 c|0.80357 for|0.82143 all|0.83929 x|0.85714 in|0.875 a|0.89286 b|0.91071 Letting|0.92857 x|0.94643 a|0.96429 we|0.98214 have|1"
+		}
+	}
+}

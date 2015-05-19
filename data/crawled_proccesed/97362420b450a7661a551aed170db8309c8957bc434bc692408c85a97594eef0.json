@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97362420b450a7661a551aed170db8309c8957bc434bc692408c85a97594eef0",
+			"url": "https://upload.wikimedia.org/math/3/9/3/3930bc9c3b4898d45f3ed13600202c8e.png",
+			"previous": " Consider an oriented link diagram i e one in which every component of the link has a preferred direction indicated by an arrow For a given crossing of the diagram let be the oriented link diagrams resulting from changing the diagram as indicated in the figure ",
+			"after": " The second rule is what is often referred to as a skein relation To check that these rules give an invariant of an oriented link one should determine that the polynomial does not change under the three Reidemeister moves Many important knot polynomials can be defined in this way ",
+			"color": "dim|0.36675 gray|0.36675 dim|0.36675 grey|0.36675 gray|0.27379 grey|0.27379 dark|0.17864 gray|0.17864 dark|0.17864 grey|0.17864 silver|0.087939 light|0.044274 gray|0.044274 light|0.044274 grey|0.044274 gainsboro|0.031824 white|0.0051203 smoke|0.0051203 linen|0.0026237  ",
+			"after_weights": " The|1 second|0.97959 rule|0.95918 is|0.93878 what|0.91837 is|0.89796 often|0.87755 referred|0.85714 to|0.83673 as|0.81633 a|0.79592 skein|0.77551 relation|0.7551 To|0.73469 check|0.71429 that|0.69388 these|0.67347 rules|0.65306 give|0.63265 an|0.61224 invariant|0.59184 of|0.57143 an|0.55102 oriented|0.53061 link|0.5102 one|0.4898 should|0.46939 determine|0.44898 that|0.42857 the|0.40816 polynomial|0.38776 does|0.36735 not|0.34694 change|0.32653 under|0.30612 the|0.28571 three|0.26531 Reidemeister|0.2449 moves|0.22449 Many|0.20408 important|0.18367 knot|0.16327 polynomials|0.14286 can|0.12245 be|0.10204 defined|0.081633 in|0.061224 this|0.040816 way|0.020408 |0",
+			"previous_weights": " Consider|0 an|0.021739 oriented|0.043478 link|0.065217 diagram|0.086957 i|0.1087 e|0.13043 one|0.15217 in|0.17391 which|0.19565 every|0.21739 component|0.23913 of|0.26087 the|0.28261 link|0.30435 has|0.32609 a|0.34783 preferred|0.36957 direction|0.3913 indicated|0.41304 by|0.43478 an|0.45652 arrow|0.47826 For|0.5 a|0.52174 given|0.54348 crossing|0.56522 of|0.58696 the|0.6087 diagram|0.63043 let|0.65217 be|0.67391 the|0.69565 oriented|0.71739 link|0.73913 diagrams|0.76087 resulting|0.78261 from|0.80435 changing|0.82609 the|0.84783 diagram|0.86957 as|0.8913 indicated|0.91304 in|0.93478 the|0.95652 figure|0.97826 |1"
+		}
+	}
+}

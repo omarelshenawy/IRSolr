@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "65a9793f5b17246c1272477945bd93a1e17ee34cc0ec3e676a59be98150a51ba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Inglehart_Values_Map.svg/300px-Inglehart_Values_Map.svg.png",
+			"previous": " The first academic chair devoted to politics in the United States was the chair of history and political science at Columbia University first occupied by Prussian migr Francis Lieber in 1857 22 ",
+			"after": " Several different political spectrums have been proposed ",
+			"color": "light|0.64153 sea|0.64153 green|0.64153 dark|0.054762 khaki|0.054762 cadet|0.042276 blue|0.042276 firebrick|0.032253 light|0.029173 coral|0.029173 black|0.028389 gold|0.027129 gray|0.020284 grey|0.020284 teal|0.020018 slate|0.01474 gray|0.01474 dark|0.014195 slate|0.014195 gray|0.014195  ",
+			"after_weights": " Several|1 different|0.85714 political|0.71429 spectrums|0.57143 have|0.42857 been|0.28571 proposed|0.14286 |0",
+			"previous_weights": " The|0 first|0.03125 academic|0.0625 chair|0.09375 devoted|0.125 to|0.15625 politics|0.1875 in|0.21875 the|0.25 United|0.28125 States|0.3125 was|0.34375 the|0.375 chair|0.40625 of|0.4375 history|0.46875 and|0.5 political|0.53125 science|0.5625 at|0.59375 Columbia|0.625 University|0.65625 first|0.6875 occupied|0.71875 by|0.75 Prussian|0.78125 migr|0.8125 Francis|0.84375 Lieber|0.875 in|0.90625 1857|0.9375 22|0.96875 |1"
+		}
+	}
+}

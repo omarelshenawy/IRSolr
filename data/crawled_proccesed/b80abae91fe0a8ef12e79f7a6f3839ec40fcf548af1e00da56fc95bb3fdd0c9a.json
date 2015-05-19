@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b80abae91fe0a8ef12e79f7a6f3839ec40fcf548af1e00da56fc95bb3fdd0c9a",
+			"url": "https://upload.wikimedia.org/math/c/7/6/c767640595a3865d7bc7a2265f9fc0ba.png",
+			"previous": " and hence the quantity ru satisfies the one dimensional wave equation Therefore a general solution for spherical waves has the form",
+			"after": " where F and G are completely arbitrary functions Radiation from an antenna corresponds to the case where G is identically zero Thus the wave form transmitted from an antenna has no distortion in time the only distorting factor is 1 r This feature of undistorted propagation of waves is not present if there are two spatial dimensions ",
+			"color": "dim|0.37496 gray|0.37496 dim|0.37496 grey|0.37496 gray|0.27867 grey|0.27867 dark|0.17082 gray|0.17082 dark|0.17082 grey|0.17082 silver|0.077557 light|0.041616 gray|0.041616 light|0.041616 grey|0.041616 gainsboro|0.028995 white|0.0058508 smoke|0.0058508 linen|0.0037188 lavender|0.0036426 blush|0.0036426  ",
+			"after_weights": " where|1 F|0.98246 and|0.96491 G|0.94737 are|0.92982 completely|0.91228 arbitrary|0.89474 functions|0.87719 Radiation|0.85965 from|0.84211 an|0.82456 antenna|0.80702 corresponds|0.78947 to|0.77193 the|0.75439 case|0.73684 where|0.7193 G|0.70175 is|0.68421 identically|0.66667 zero|0.64912 Thus|0.63158 the|0.61404 wave|0.59649 form|0.57895 transmitted|0.5614 from|0.54386 an|0.52632 antenna|0.50877 has|0.49123 no|0.47368 distortion|0.45614 in|0.4386 time|0.42105 the|0.40351 only|0.38596 distorting|0.36842 factor|0.35088 is|0.33333 1|0.31579 r|0.29825 This|0.2807 feature|0.26316 of|0.24561 undistorted|0.22807 propagation|0.21053 of|0.19298 waves|0.17544 is|0.15789 not|0.14035 present|0.12281 if|0.10526 there|0.087719 are|0.070175 two|0.052632 spatial|0.035088 dimensions|0.017544 |0",
+			"previous_weights": " and|0 hence|0.05 the|0.1 quantity|0.15 ru|0.2 satisfies|0.25 the|0.3 one|0.35 dimensional|0.4 wave|0.45 equation|0.5 Therefore|0.55 a|0.6 general|0.65 solution|0.7 for|0.75 spherical|0.8 waves|0.85 has|0.9 the|0.95 form|1"
+		}
+	}
+}

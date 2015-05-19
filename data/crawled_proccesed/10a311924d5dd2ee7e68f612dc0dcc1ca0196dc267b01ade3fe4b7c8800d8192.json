@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "10a311924d5dd2ee7e68f612dc0dcc1ca0196dc267b01ade3fe4b7c8800d8192",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/A-10_firing_AGM-65.JPEG/220px-A-10_firing_AGM-65.JPEG",
+			"previous": " ",
+			"after": " Attack aircraft can be used to provide support for friendly ground troops Some are able to carry conventional or nuclear weapons far behind enemy lines to strike priority ground targets Attack helicopters attack enemy armor and provide close air support for ground troops An example historical ground attack aircraft is the Soviet Ilyushin Il 2 Shturmovik Several types of transport airplanes have been armed with sideways firing weapons as gunships for ground attack These include the AC 47 and AC 130 aircraft ",
+			"color": "dim|0.45313 gray|0.45313 dim|0.45313 grey|0.45313 silver|0.077724 dark|0.073578 slate|0.073578 gray|0.073578 dark|0.066968 gray|0.066968 dark|0.066968 grey|0.066968 light|0.066325 gray|0.066325 light|0.066325 grey|0.066325 gainsboro|0.050845 gray|0.050654 grey|0.050654 black|0.039224  ",
+			"after_weights": " Attack|1 aircraft|0.9878 can|0.97561 be|0.96341 used|0.95122 to|0.93902 provide|0.92683 support|0.91463 for|0.90244 friendly|0.89024 ground|0.87805 troops|0.86585 Some|0.85366 are|0.84146 able|0.82927 to|0.81707 carry|0.80488 conventional|0.79268 or|0.78049 nuclear|0.76829 weapons|0.7561 far|0.7439 behind|0.73171 enemy|0.71951 lines|0.70732 to|0.69512 strike|0.68293 priority|0.67073 ground|0.65854 targets|0.64634 Attack|0.63415 helicopters|0.62195 attack|0.60976 enemy|0.59756 armor|0.58537 and|0.57317 provide|0.56098 close|0.54878 air|0.53659 support|0.52439 for|0.5122 ground|0.5 troops|0.4878 An|0.47561 example|0.46341 historical|0.45122 ground|0.43902 attack|0.42683 aircraft|0.41463 is|0.40244 the|0.39024 Soviet|0.37805 Ilyushin|0.36585 Il|0.35366 2|0.34146 Shturmovik|0.32927 Several|0.31707 types|0.30488 of|0.29268 transport|0.28049 airplanes|0.26829 have|0.2561 been|0.2439 armed|0.23171 with|0.21951 sideways|0.20732 firing|0.19512 weapons|0.18293 as|0.17073 gunships|0.15854 for|0.14634 ground|0.13415 attack|0.12195 These|0.10976 include|0.097561 the|0.085366 AC|0.073171 47|0.060976 and|0.04878 AC|0.036585 130|0.02439 aircraft|0.012195 |0",
+			"previous_weights": " "
+		}
+	}
+}

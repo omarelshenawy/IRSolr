@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11c924a980c6b3fa4ab2da7f2dab2ec81a72e33c51a708ba54310248406d6bdd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/YC14-3Seiten.jpg/350px-YC14-3Seiten.jpg",
+			"previous": " Upper surface blowing remains a fairly rare concept in use and has been seen only on a few other aircraft such as the Antonov An 72 ",
+			"after": " Data from Boeing Aircraft since 1916 9  General characteristics Performance",
+			"color": "dark|0.14896 gray|0.14896 dark|0.14896 grey|0.14896 silver|0.14178 light|0.11291 gray|0.11291 light|0.11291 grey|0.11291 gainsboro|0.095088 gray|0.067561 grey|0.067561 white|0.053654 smoke|0.053654 alice|0.040756 blue|0.040756 ghost|0.040602 white|0.040602 sea|0.039908 shell|0.039908 snow|0.039814 white|0.037404 lavender|0.03622 blush|0.03622 mint|0.034049 cream|0.034049 dim|0.031704 gray|0.031704 dim|0.031704 grey|0.031704 floral|0.03077 white|0.03077 azure|0.028917 linen|0.015034 ivory|0.0047117  ",
+			"after_weights": " Data|1 from|0.9 Boeing|0.8 Aircraft|0.7 since|0.6 1916|0.5 9|0.4 |0.3 General|0.2 characteristics|0.1 Performance|0",
+			"previous_weights": " Upper|0 surface|0.038462 blowing|0.076923 remains|0.11538 a|0.15385 fairly|0.19231 rare|0.23077 concept|0.26923 in|0.30769 use|0.34615 and|0.38462 has|0.42308 been|0.46154 seen|0.5 only|0.53846 on|0.57692 a|0.61538 few|0.65385 other|0.69231 aircraft|0.73077 such|0.76923 as|0.80769 the|0.84615 Antonov|0.88462 An|0.92308 72|0.96154 |1"
+		}
+	}
+}

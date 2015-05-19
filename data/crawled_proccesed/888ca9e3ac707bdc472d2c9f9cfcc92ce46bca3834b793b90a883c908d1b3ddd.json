@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "888ca9e3ac707bdc472d2c9f9cfcc92ce46bca3834b793b90a883c908d1b3ddd",
+			"url": "https://upload.wikimedia.org/math/0/7/7/077bd41a8b65597290e3cb5cd869a74e.png",
+			"previous": " then v is an eigenvector of the linear transformation A and the scale factor is the eigenvalue corresponding to that eigenvector  If it occurs that w and v are scalar multiples that is if",
+			"after": " Consider the transformation matrix A given by ",
+			"color": "dim|0.28023 gray|0.28023 dim|0.28023 grey|0.28023 gray|0.20789 grey|0.20789 black|0.18686 dark|0.15977 gray|0.15977 dark|0.15977 grey|0.15977 silver|0.079176 light|0.043098 gray|0.043098 light|0.043098 grey|0.043098 gainsboro|0.029308  ",
+			"after_weights": " Consider|1 the|0.85714 transformation|0.71429 matrix|0.57143 A|0.42857 given|0.28571 by|0.14286 |0",
+			"previous_weights": " then|0 v|0.029412 is|0.058824 an|0.088235 eigenvector|0.11765 of|0.14706 the|0.17647 linear|0.20588 transformation|0.23529 A|0.26471 and|0.29412 the|0.32353 scale|0.35294 factor|0.38235 is|0.41176 the|0.44118 eigenvalue|0.47059 corresponding|0.5 to|0.52941 that|0.55882 eigenvector|0.58824 |0.61765 If|0.64706 it|0.67647 occurs|0.70588 that|0.73529 w|0.76471 and|0.79412 v|0.82353 are|0.85294 scalar|0.88235 multiples|0.91176 that|0.94118 is|0.97059 if|1"
+		}
+	}
+}

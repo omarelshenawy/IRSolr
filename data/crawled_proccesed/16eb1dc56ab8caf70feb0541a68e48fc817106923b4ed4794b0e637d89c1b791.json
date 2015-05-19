@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "16eb1dc56ab8caf70feb0541a68e48fc817106923b4ed4794b0e637d89c1b791",
+			"url": "https://upload.wikimedia.org/math/5/b/c/5bcae45e90b157b48189d638bdb0d244.png",
+			"previous": " thus each term of the sum is the area of a rectangle with height equal to the function value at the distinguished point of the given sub interval and width the same as the sub interval width Let i xi xi 1 be the width of sub interval i then the mesh of such a tagged partition is the width of the largest sub interval formed by the partition maxi 1 n i The Riemann integral of a function f over the interval a b is equal to S if ",
+			"after": " When the chosen tags give the maximum respectively minimum value of each interval the Riemann sum becomes an upper respectively lower Darboux sum suggesting the close connection between the Riemann integral and the Darboux integral ",
+			"color": " ",
+			"after_weights": " When|1 the|0.97143 chosen|0.94286 tags|0.91429 give|0.88571 the|0.85714 maximum|0.82857 respectively|0.8 minimum|0.77143 value|0.74286 of|0.71429 each|0.68571 interval|0.65714 the|0.62857 Riemann|0.6 sum|0.57143 becomes|0.54286 an|0.51429 upper|0.48571 respectively|0.45714 lower|0.42857 Darboux|0.4 sum|0.37143 suggesting|0.34286 the|0.31429 close|0.28571 connection|0.25714 between|0.22857 the|0.2 Riemann|0.17143 integral|0.14286 and|0.11429 the|0.085714 Darboux|0.057143 integral|0.028571 |0",
+			"previous_weights": " thus|0 each|0.011111 term|0.022222 of|0.033333 the|0.044444 sum|0.055556 is|0.066667 the|0.077778 area|0.088889 of|0.1 a|0.11111 rectangle|0.12222 with|0.13333 height|0.14444 equal|0.15556 to|0.16667 the|0.17778 function|0.18889 value|0.2 at|0.21111 the|0.22222 distinguished|0.23333 point|0.24444 of|0.25556 the|0.26667 given|0.27778 sub|0.28889 interval|0.3 and|0.31111 width|0.32222 the|0.33333 same|0.34444 as|0.35556 the|0.36667 sub|0.37778 interval|0.38889 width|0.4 Let|0.41111 i|0.42222 xi|0.43333 xi|0.44444 1|0.45556 be|0.46667 the|0.47778 width|0.48889 of|0.5 sub|0.51111 interval|0.52222 i|0.53333 then|0.54444 the|0.55556 mesh|0.56667 of|0.57778 such|0.58889 a|0.6 tagged|0.61111 partition|0.62222 is|0.63333 the|0.64444 width|0.65556 of|0.66667 the|0.67778 largest|0.68889 sub|0.7 interval|0.71111 formed|0.72222 by|0.73333 the|0.74444 partition|0.75556 maxi|0.76667 1|0.77778 n|0.78889 i|0.8 The|0.81111 Riemann|0.82222 integral|0.83333 of|0.84444 a|0.85556 function|0.86667 f|0.87778 over|0.88889 the|0.9 interval|0.91111 a|0.92222 b|0.93333 is|0.94444 equal|0.95556 to|0.96667 S|0.97778 if|0.98889 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b8625e2f6afe3a1047d506410cec3757576d2bde2d41d49e02e26ab94336508",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Iris_coupled_filter.svg/220px-Iris_coupled_filter.svg.png",
+			"previous": " ",
+			"after": " An iris coupled filter consists of a cascade of impedance transformers in the form of waveguide resonant cavities coupled together by irises 43 In high power applications capacitive irises are avoided The reduction in height of the waveguide the direction of the E field causes the electric field strength across the gap to increase and arcing or dielectric breakdown if the waveguide is filled with an insulator will occur at a lower power than it would otherwise 55 ",
+			"color": "silver|0.30926 dark|0.27341 gray|0.27341 dark|0.27341 grey|0.27341 gray|0.13297 grey|0.13297 light|0.12421 gray|0.12421 light|0.12421 grey|0.12421 gainsboro|0.09893 dim|0.057195 gray|0.057195 dim|0.057195 grey|0.057195  ",
+			"after_weights": " An|1 iris|0.98718 coupled|0.97436 filter|0.96154 consists|0.94872 of|0.9359 a|0.92308 cascade|0.91026 of|0.89744 impedance|0.88462 transformers|0.87179 in|0.85897 the|0.84615 form|0.83333 of|0.82051 waveguide|0.80769 resonant|0.79487 cavities|0.78205 coupled|0.76923 together|0.75641 by|0.74359 irises|0.73077 43|0.71795 In|0.70513 high|0.69231 power|0.67949 applications|0.66667 capacitive|0.65385 irises|0.64103 are|0.62821 avoided|0.61538 The|0.60256 reduction|0.58974 in|0.57692 height|0.5641 of|0.55128 the|0.53846 waveguide|0.52564 the|0.51282 direction|0.5 of|0.48718 the|0.47436 E|0.46154 field|0.44872 causes|0.4359 the|0.42308 electric|0.41026 field|0.39744 strength|0.38462 across|0.37179 the|0.35897 gap|0.34615 to|0.33333 increase|0.32051 and|0.30769 arcing|0.29487 or|0.28205 dielectric|0.26923 breakdown|0.25641 if|0.24359 the|0.23077 waveguide|0.21795 is|0.20513 filled|0.19231 with|0.17949 an|0.16667 insulator|0.15385 will|0.14103 occur|0.12821 at|0.11538 a|0.10256 lower|0.089744 power|0.076923 than|0.064103 it|0.051282 would|0.038462 otherwise|0.025641 55|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

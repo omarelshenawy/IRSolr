@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "741110cacfe7faf0bddc3cb371ef3dffbe27ecf0af6f133378210b3093f6a15c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AirBaltic_Boeing_757-200_at_RIX.jpg/220px-AirBaltic_Boeing_757-200_at_RIX.jpg",
+			"previous": " ",
+			"after": " A S Air Baltic Corporation operating as AirBaltic and styled as airBaltic is the Latvian flag carrier airline and a low cost carrier with its head office on the grounds of Riga International Airport in M rupe municipality near the capital Riga 2 Its main hub is at Riga International Airport It has been state owned since 30 November 2011 ",
+			"color": "black|0.1655 dim|0.091166 gray|0.091166 dim|0.091166 grey|0.091166 gray|0.079991 grey|0.079991 dark|0.052634 gray|0.052634 dark|0.052634 grey|0.052634 linen|0.050715 light|0.04725 gray|0.04725 light|0.04725 grey|0.04725 antique|0.04693 white|0.04693 gainsboro|0.045302 misty|0.042286 rose|0.042286 silver|0.041319 sea|0.040611 shell|0.040611 old|0.039273 lace|0.039273 floral|0.033554 white|0.033554 white|0.029938 smoke|0.029938 snow|0.025806 lavender|0.025777 blush|0.025777 ivory|0.019376 white|0.013365 papaya|0.012656 whip|0.012656 olive|0.011193 slate|0.010738 gray|0.010738  ",
+			"after_weights": " A|1 S|0.98333 Air|0.96667 Baltic|0.95 Corporation|0.93333 operating|0.91667 as|0.9 AirBaltic|0.88333 and|0.86667 styled|0.85 as|0.83333 airBaltic|0.81667 is|0.8 the|0.78333 Latvian|0.76667 flag|0.75 carrier|0.73333 airline|0.71667 and|0.7 a|0.68333 low|0.66667 cost|0.65 carrier|0.63333 with|0.61667 its|0.6 head|0.58333 office|0.56667 on|0.55 the|0.53333 grounds|0.51667 of|0.5 Riga|0.48333 International|0.46667 Airport|0.45 in|0.43333 M|0.41667 rupe|0.4 municipality|0.38333 near|0.36667 the|0.35 capital|0.33333 Riga|0.31667 2|0.3 Its|0.28333 main|0.26667 hub|0.25 is|0.23333 at|0.21667 Riga|0.2 International|0.18333 Airport|0.16667 It|0.15 has|0.13333 been|0.11667 state|0.1 owned|0.083333 since|0.066667 30|0.05 November|0.033333 2011|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

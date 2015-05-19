@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "472f122b616c35146f427e7eba8fb3e457b5c1bdf7409e3429064de14db60d73",
+			"url": "https://upload.wikimedia.org/math/c/f/5/cf5a2fc00891f31618da69ec9aed9d98.png",
+			"previous": " Since the total angular momentum has to be conserved during the transition we have that",
+			"after": " where and its z projection is given by and are respectively the initial and final angular momenta of the atom The corresponding quantum numbers and z axis angular momentum must satisfy",
+			"color": "dim|0.49738 gray|0.49738 dim|0.49738 grey|0.49738 gray|0.24645 grey|0.24645 dark|0.13716 gray|0.13716 dark|0.13716 grey|0.13716 silver|0.059165 light|0.027984 gray|0.027984 light|0.027984 grey|0.027984 gainsboro|0.018733  ",
+			"after_weights": " where|1 and|0.96667 its|0.93333 z|0.9 projection|0.86667 is|0.83333 given|0.8 by|0.76667 and|0.73333 are|0.7 respectively|0.66667 the|0.63333 initial|0.6 and|0.56667 final|0.53333 angular|0.5 momenta|0.46667 of|0.43333 the|0.4 atom|0.36667 The|0.33333 corresponding|0.3 quantum|0.26667 numbers|0.23333 and|0.2 z|0.16667 axis|0.13333 angular|0.1 momentum|0.066667 must|0.033333 satisfy|0",
+			"previous_weights": " Since|0 the|0.071429 total|0.14286 angular|0.21429 momentum|0.28571 has|0.35714 to|0.42857 be|0.5 conserved|0.57143 during|0.64286 the|0.71429 transition|0.78571 we|0.85714 have|0.92857 that|1"
+		}
+	}
+}

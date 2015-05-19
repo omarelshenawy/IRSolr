@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c2e8cb8128f3645f2796f00ba0af3bd5fdb0f4ecf79a28208a65e9695b05272",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Revi_C12-A.jpg/220px-Revi_C12-A.jpg",
+			"previous": " Newer micro display imaging technologies are being introduced including liquid crystal display LCD liquid crystal on silicon LCoS digital micro mirrors DMD and organic light emitting diode OLED ",
+			"after": " HUDs evolved from the reflector sight a pre World War II parallax free optical sight technology for military fighter aircraft 3 The gyro gunsight added a reticle that moved based on the speed and turn rate to solve the amount of lead needed to hit a target while maneuvering ",
+			"color": "black|0.20097 dim|0.12662 gray|0.12662 dim|0.12662 grey|0.12662 gray|0.12484 grey|0.12484 dark|0.12022 gray|0.12022 dark|0.12022 grey|0.12022 silver|0.063477 light|0.039919 gray|0.039919 light|0.039919 grey|0.039919 white|0.034119 smoke|0.034119 gainsboro|0.032773 snow|0.029442 ghost|0.029405 white|0.029405 alice|0.029265 blue|0.029265 white|0.02905 sea|0.028678 shell|0.028678 mint|0.026696 cream|0.026696 floral|0.024537 white|0.024537 azure|0.022804 linen|0.020863 lavender|0.012985 blush|0.012985 ivory|0.0033411  ",
+			"after_weights": " HUDs|1 evolved|0.97959 from|0.95918 the|0.93878 reflector|0.91837 sight|0.89796 a|0.87755 pre|0.85714 World|0.83673 War|0.81633 II|0.79592 parallax|0.77551 free|0.7551 optical|0.73469 sight|0.71429 technology|0.69388 for|0.67347 military|0.65306 fighter|0.63265 aircraft|0.61224 3|0.59184 The|0.57143 gyro|0.55102 gunsight|0.53061 added|0.5102 a|0.4898 reticle|0.46939 that|0.44898 moved|0.42857 based|0.40816 on|0.38776 the|0.36735 speed|0.34694 and|0.32653 turn|0.30612 rate|0.28571 to|0.26531 solve|0.2449 the|0.22449 amount|0.20408 of|0.18367 lead|0.16327 needed|0.14286 to|0.12245 hit|0.10204 a|0.081633 target|0.061224 while|0.040816 maneuvering|0.020408 |0",
+			"previous_weights": " Newer|0 micro|0.035714 display|0.071429 imaging|0.10714 technologies|0.14286 are|0.17857 being|0.21429 introduced|0.25 including|0.28571 liquid|0.32143 crystal|0.35714 display|0.39286 LCD|0.42857 liquid|0.46429 crystal|0.5 on|0.53571 silicon|0.57143 LCoS|0.60714 digital|0.64286 micro|0.67857 mirrors|0.71429 DMD|0.75 and|0.78571 organic|0.82143 light|0.85714 emitting|0.89286 diode|0.92857 OLED|0.96429 |1"
+		}
+	}
+}

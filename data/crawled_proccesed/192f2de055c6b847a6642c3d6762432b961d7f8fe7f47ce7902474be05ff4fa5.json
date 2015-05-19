@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "192f2de055c6b847a6642c3d6762432b961d7f8fe7f47ce7902474be05ff4fa5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/China_Eastern_Airlines_A330-300_B-6097_SVO_2011-6-17.png/220px-China_Eastern_Airlines_A330-300_B-6097_SVO_2011-6-17.png",
+			"previous": " As of January 2013 update beside SkyTeam members China Eastern Airlines has codeshare agreements with the following airlines ",
+			"after": " China Eastern Airlines was the first Chinese carrier to place an order with Airbus The backbone of the fleet is the A320 series which are used primarily on domestic flights ",
+			"color": "corn|0.8421 flower|0.8421 blue|0.8421 light|0.020205 gray|0.020205 light|0.020205 grey|0.020205 silver|0.018458 gainsboro|0.014726 dark|0.013245 gray|0.013245 dark|0.013245 grey|0.013245 black|0.0079895 dim|0.0065884 gray|0.0065884 dim|0.0065884 grey|0.0065884 linen|0.0062399 gray|0.0062022 grey|0.0062022 light|0.0058686 steel|0.0058686 blue|0.0058686 antique|0.0056237 white|0.0056237 old|0.0037342 lace|0.0037342 white|0.003592 smoke|0.003592 sea|0.0034422 shell|0.0034422 indian|0.0031742 red|0.0031742 slate|0.0029457 gray|0.0029457  ",
+			"after_weights": " China|1 Eastern|0.96667 Airlines|0.93333 was|0.9 the|0.86667 first|0.83333 Chinese|0.8 carrier|0.76667 to|0.73333 place|0.7 an|0.66667 order|0.63333 with|0.6 Airbus|0.56667 The|0.53333 backbone|0.5 of|0.46667 the|0.43333 fleet|0.4 is|0.36667 the|0.33333 A320|0.3 series|0.26667 which|0.23333 are|0.2 used|0.16667 primarily|0.13333 on|0.1 domestic|0.066667 flights|0.033333 |0",
+			"previous_weights": " As|0 of|0.055556 January|0.11111 2013|0.16667 update|0.22222 beside|0.27778 SkyTeam|0.33333 members|0.38889 China|0.44444 Eastern|0.5 Airlines|0.55556 has|0.61111 codeshare|0.66667 agreements|0.72222 with|0.77778 the|0.83333 following|0.88889 airlines|0.94444 |1"
+		}
+	}
+}

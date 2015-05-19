@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "53ed24f93cce2e9048abddfd776677a155036586f2f49c701552827b36bd90c3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Qsicon_image_red.svg/15px-Qsicon_image_red.svg.png",
+			"previous": " Ursprung Buam Wiesberg Castle Manharter Gaicht Pass Zillertal Stubaitalbahn Pertisau Operational Zone of the Alpine Foothills Innsbruck Airport History of Tyrol",
+			"after": " Polling in Tyrol File Im Bezirk IL png Articles needing attention",
+			"color": "pink|0.26223 indian|0.2496 red|0.2496 firebrick|0.14333 brown|0.14034 light|0.11383 pink|0.11383 light|0.082594 coral|0.082594 misty|0.0075227 rose|0.0075227  ",
+			"after_weights": " Polling|1 in|0.9 Tyrol|0.8 File|0.7 Im|0.6 Bezirk|0.5 IL|0.4 png|0.3 Articles|0.2 needing|0.1 attention|0",
+			"previous_weights": " Ursprung|0 Buam|0.05 Wiesberg|0.1 Castle|0.15 Manharter|0.2 Gaicht|0.25 Pass|0.3 Zillertal|0.35 Stubaitalbahn|0.4 Pertisau|0.45 Operational|0.5 Zone|0.55 of|0.6 the|0.65 Alpine|0.7 Foothills|0.75 Innsbruck|0.8 Airport|0.85 History|0.9 of|0.95 Tyrol|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "413a82364abb1b6ab84af6a75f8a1e9a038ad9260d00fc4ab325d2477a327e24",
+			"url": "https://upload.wikimedia.org/math/7/5/7/757d0394745376f4298688d0b4c2655c.png",
+			"previous": " This is immediate from the definition of matrix multiplication  The trace tr A of a square matrix A is the sum of its diagonal entries While matrix multiplication is not commutative as mentioned above the trace of the product of two matrices is independent of the order of the factors ",
+			"after": " Also the trace of a matrix is equal to that of its transpose i e ",
+			"color": "dim|0.32003 gray|0.32003 dim|0.32003 grey|0.32003 gray|0.31513 grey|0.31513 dark|0.20442 gray|0.20442 dark|0.20442 grey|0.20442 silver|0.078818 light|0.037022 gray|0.037022 light|0.037022 grey|0.037022 gainsboro|0.025632 white|0.0049387 smoke|0.0049387  ",
+			"after_weights": " Also|1 the|0.93333 trace|0.86667 of|0.8 a|0.73333 matrix|0.66667 is|0.6 equal|0.53333 to|0.46667 that|0.4 of|0.33333 its|0.26667 transpose|0.2 i|0.13333 e|0.066667 |0",
+			"previous_weights": " This|0 is|0.019608 immediate|0.039216 from|0.058824 the|0.078431 definition|0.098039 of|0.11765 matrix|0.13725 multiplication|0.15686 |0.17647 The|0.19608 trace|0.21569 tr|0.23529 A|0.2549 of|0.27451 a|0.29412 square|0.31373 matrix|0.33333 A|0.35294 is|0.37255 the|0.39216 sum|0.41176 of|0.43137 its|0.45098 diagonal|0.47059 entries|0.4902 While|0.5098 matrix|0.52941 multiplication|0.54902 is|0.56863 not|0.58824 commutative|0.60784 as|0.62745 mentioned|0.64706 above|0.66667 the|0.68627 trace|0.70588 of|0.72549 the|0.7451 product|0.76471 of|0.78431 two|0.80392 matrices|0.82353 is|0.84314 independent|0.86275 of|0.88235 the|0.90196 order|0.92157 of|0.94118 the|0.96078 factors|0.98039 |1"
+		}
+	}
+}

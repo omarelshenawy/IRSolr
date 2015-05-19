@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a659a0cf90afb182b8803478153309e2c68181717b61bc59eab1403ba2bfc24",
+			"url": "https://upload.wikimedia.org/math/4/4/b/44bb9ebc2a17748154f0e1142358b4aa.png",
+			"previous": " For jet aircraft the propulsive efficiency essentially energy efficiency is highest when the engine emits an exhaust jet at a speed that is the same as or nearly the same as the vehicle velocity The exact formula for air breathing engines as given in the literature 10 11 is",
+			"after": " where c is the exhaust speed and v is the speed of the aircraft ",
+			"color": "dim|0.4392 gray|0.4392 dim|0.4392 grey|0.4392 gray|0.28109 grey|0.28109 dark|0.1518 gray|0.1518 dark|0.1518 grey|0.1518 silver|0.063502 light|0.029977 gray|0.029977 light|0.029977 grey|0.029977 gainsboro|0.020591 white|0.0038039 smoke|0.0038039  ",
+			"after_weights": " where|1 c|0.92857 is|0.85714 the|0.78571 exhaust|0.71429 speed|0.64286 and|0.57143 v|0.5 is|0.42857 the|0.35714 speed|0.28571 of|0.21429 the|0.14286 aircraft|0.071429 |0",
+			"previous_weights": " For|0 jet|0.020833 aircraft|0.041667 the|0.0625 propulsive|0.083333 efficiency|0.10417 essentially|0.125 energy|0.14583 efficiency|0.16667 is|0.1875 highest|0.20833 when|0.22917 the|0.25 engine|0.27083 emits|0.29167 an|0.3125 exhaust|0.33333 jet|0.35417 at|0.375 a|0.39583 speed|0.41667 that|0.4375 is|0.45833 the|0.47917 same|0.5 as|0.52083 or|0.54167 nearly|0.5625 the|0.58333 same|0.60417 as|0.625 the|0.64583 vehicle|0.66667 velocity|0.6875 The|0.70833 exact|0.72917 formula|0.75 for|0.77083 air|0.79167 breathing|0.8125 engines|0.83333 as|0.85417 given|0.875 in|0.89583 the|0.91667 literature|0.9375 10|0.95833 11|0.97917 is|1"
+		}
+	}
+}

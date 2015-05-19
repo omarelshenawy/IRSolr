@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f50a1554ef78ad751893d3058f710af2302ca74c9944cf9fe89b143ec7d125a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/225px-Venn0111.svg.png",
+			"previous": " ",
+			"after": " The union of two sets is the set that contains everything that belongs to any of the sets but nothing else It is possible to define the union of several sets and even of an infinite family of sets ",
+			"color": "red|0.90635 black|0.07866 dark|0.0062567 red|0.0062567 maroon|0.0060329  ",
+			"after_weights": " The|1 union|0.97436 of|0.94872 two|0.92308 sets|0.89744 is|0.87179 the|0.84615 set|0.82051 that|0.79487 contains|0.76923 everything|0.74359 that|0.71795 belongs|0.69231 to|0.66667 any|0.64103 of|0.61538 the|0.58974 sets|0.5641 but|0.53846 nothing|0.51282 else|0.48718 It|0.46154 is|0.4359 possible|0.41026 to|0.38462 define|0.35897 the|0.33333 union|0.30769 of|0.28205 several|0.25641 sets|0.23077 and|0.20513 even|0.17949 of|0.15385 an|0.12821 infinite|0.10256 family|0.076923 of|0.051282 sets|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4370b7390e121b974dd77b7c75d659d6e4e957679e11e199d3f4dee8defbb02a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MOBAfacade1.JPG/220px-MOBAfacade1.JPG",
+			"previous": " ",
+			"after": " Museum visitors can sign a guest book and leave comments One Canadian visitor wrote This collection is disturbing yet I can t seem to look away Just like a hideous car accident Another visitor warns Her nipples follow you around the room Creepy 2 ",
+			"color": "dark|0.42132 gray|0.42132 dark|0.42132 grey|0.42132 silver|0.1953 dim|0.15349 gray|0.15349 dim|0.15349 grey|0.15349 gray|0.10479 grey|0.10479 black|0.032887 light|0.017967 slate|0.017967 gray|0.017967 light|0.01796 gray|0.01796 light|0.01796 grey|0.01796 slate|0.017902 gray|0.017902 gainsboro|0.0083769 rosy|0.0071353 brown|0.0071353 dark|0.0055479 slate|0.0055479 gray|0.0055479 light|0.0045938 steel|0.0045938 blue|0.0045938  ",
+			"after_weights": " Museum|1 visitors|0.97727 can|0.95455 sign|0.93182 a|0.90909 guest|0.88636 book|0.86364 and|0.84091 leave|0.81818 comments|0.79545 One|0.77273 Canadian|0.75 visitor|0.72727 wrote|0.70455 This|0.68182 collection|0.65909 is|0.63636 disturbing|0.61364 yet|0.59091 I|0.56818 can|0.54545 t|0.52273 seem|0.5 to|0.47727 look|0.45455 away|0.43182 Just|0.40909 like|0.38636 a|0.36364 hideous|0.34091 car|0.31818 accident|0.29545 Another|0.27273 visitor|0.25 warns|0.22727 Her|0.20455 nipples|0.18182 follow|0.15909 you|0.13636 around|0.11364 the|0.090909 room|0.068182 Creepy|0.045455 2|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b33d0009451bafa8d90f214ba01ad0b4b0b05fff94e4a3ce1f04598e3f7d922",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rocket_nozzle_V2.jpg/220px-Rocket_nozzle_V2.jpg",
+			"previous": " Nozzles for vectored thrust include fixed geometry Bristol Siddeley Pegasus and variable geometry F119 F 22 ",
+			"after": " Rocket motors also employ convergent divergent nozzles but these are usually of fixed geometry to minimize weight Because of the high pressure ratios associated with rocket flight rocket motor con di nozzles have a much greater area ratio exit throat than those fitted to jet engines ",
+			"color": "dim|0.3993 gray|0.3993 dim|0.3993 grey|0.3993 gray|0.2132 grey|0.2132 black|0.18044 dark|0.068278 gray|0.068278 dark|0.068278 grey|0.068278 silver|0.030302 dark|0.020001 slate|0.020001 gray|0.020001  ",
+			"after_weights": " Rocket|1 motors|0.97826 also|0.95652 employ|0.93478 convergent|0.91304 divergent|0.8913 nozzles|0.86957 but|0.84783 these|0.82609 are|0.80435 usually|0.78261 of|0.76087 fixed|0.73913 geometry|0.71739 to|0.69565 minimize|0.67391 weight|0.65217 Because|0.63043 of|0.6087 the|0.58696 high|0.56522 pressure|0.54348 ratios|0.52174 associated|0.5 with|0.47826 rocket|0.45652 flight|0.43478 rocket|0.41304 motor|0.3913 con|0.36957 di|0.34783 nozzles|0.32609 have|0.30435 a|0.28261 much|0.26087 greater|0.23913 area|0.21739 ratio|0.19565 exit|0.17391 throat|0.15217 than|0.13043 those|0.1087 fitted|0.086957 to|0.065217 jet|0.043478 engines|0.021739 |0",
+			"previous_weights": " Nozzles|0 for|0.0625 vectored|0.125 thrust|0.1875 include|0.25 fixed|0.3125 geometry|0.375 Bristol|0.4375 Siddeley|0.5 Pegasus|0.5625 and|0.625 variable|0.6875 geometry|0.75 F119|0.8125 F|0.875 22|0.9375 |1"
+		}
+	}
+}

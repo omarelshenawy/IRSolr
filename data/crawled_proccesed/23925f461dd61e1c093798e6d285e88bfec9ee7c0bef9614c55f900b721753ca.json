@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "23925f461dd61e1c093798e6d285e88bfec9ee7c0bef9614c55f900b721753ca",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/F-22_cockpit_close-up.jpg/300px-F-22_cockpit_close-up.jpg",
+			"previous": " ",
+			"after": " An aircraft canopy is the transparent enclosure over the cockpit of some types of aircraft The function of the canopy is to provide a weatherproof and reasonably quiet environment for the aircraft s occupants The canopy will be as aerodynamically shaped as possible to minimize aerodynamic drag ",
+			"color": "black|0.2171 light|0.19112 slate|0.19112 gray|0.19112 gray|0.16684 grey|0.16684 dim|0.16618 gray|0.16618 dim|0.16618 grey|0.16618 slate|0.14794 gray|0.14794 dark|0.063588 gray|0.063588 dark|0.063588 grey|0.063588 silver|0.012576 light|0.011868 steel|0.011868 blue|0.011868 dark|0.0082865 slate|0.0082865 gray|0.0082865  ",
+			"after_weights": " An|1 aircraft|0.97872 canopy|0.95745 is|0.93617 the|0.91489 transparent|0.89362 enclosure|0.87234 over|0.85106 the|0.82979 cockpit|0.80851 of|0.78723 some|0.76596 types|0.74468 of|0.7234 aircraft|0.70213 The|0.68085 function|0.65957 of|0.6383 the|0.61702 canopy|0.59574 is|0.57447 to|0.55319 provide|0.53191 a|0.51064 weatherproof|0.48936 and|0.46809 reasonably|0.44681 quiet|0.42553 environment|0.40426 for|0.38298 the|0.3617 aircraft|0.34043 s|0.31915 occupants|0.29787 The|0.2766 canopy|0.25532 will|0.23404 be|0.21277 as|0.19149 aerodynamically|0.17021 shaped|0.14894 as|0.12766 possible|0.10638 to|0.085106 minimize|0.06383 aerodynamic|0.042553 drag|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

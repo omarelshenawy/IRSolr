@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81ae38fd43248282b083016928f58e098ff7482931f445ceeaf57a06d41410b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2011-06-21_15-56-51_South_Africa_-_Crossroads_-_ZS-OKI.jpg/220px-2011-06-21_15-56-51_South_Africa_-_Crossroads_-_ZS-OKI.jpg",
+			"previous": " Comair British Airways has codeshare agreement with the following airlines ",
+			"after": " The Comair fleet includes the following aircraft as of 31 January 2015 18  As part of a R3 5 billion 23 investment in fleet upgrade Comair has ordered eight Boeing 737 800s to update its fleet 24 ",
+			"color": "silver|0.14588 black|0.13205 light|0.1296 gray|0.1296 light|0.1296 grey|0.1296 dim|0.1246 gray|0.1246 dim|0.1246 grey|0.1246 dark|0.11107 gray|0.11107 dark|0.11107 grey|0.11107 gainsboro|0.091968 gray|0.065737 grey|0.065737 dark|0.035893 slate|0.035893 gray|0.035893 slate|0.023437 gray|0.023437 light|0.015305 slate|0.015305 gray|0.015305 white|0.012822 smoke|0.012822  ",
+			"after_weights": " The|1 Comair|0.97368 fleet|0.94737 includes|0.92105 the|0.89474 following|0.86842 aircraft|0.84211 as|0.81579 of|0.78947 31|0.76316 January|0.73684 2015|0.71053 18|0.68421 |0.65789 As|0.63158 part|0.60526 of|0.57895 a|0.55263 R3|0.52632 5|0.5 billion|0.47368 23|0.44737 investment|0.42105 in|0.39474 fleet|0.36842 upgrade|0.34211 Comair|0.31579 has|0.28947 ordered|0.26316 eight|0.23684 Boeing|0.21053 737|0.18421 800s|0.15789 to|0.13158 update|0.10526 its|0.078947 fleet|0.052632 24|0.026316 |0",
+			"previous_weights": " Comair|0 British|0.1 Airways|0.2 has|0.3 codeshare|0.4 agreement|0.5 with|0.6 the|0.7 following|0.8 airlines|0.9 |1"
+		}
+	}
+}

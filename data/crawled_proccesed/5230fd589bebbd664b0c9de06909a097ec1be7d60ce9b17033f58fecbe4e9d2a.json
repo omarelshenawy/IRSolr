@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5230fd589bebbd664b0c9de06909a097ec1be7d60ce9b17033f58fecbe4e9d2a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The.circus.bath.arp.jpg/220px-The.circus.bath.arp.jpg",
+			"previous": " ",
+			"after": " By the 15th century Bath s abbey church was badly dilapidated 36 and Oliver King Bishop of Bath and Wells decided to rebuild it on a smaller scale in 1500 The new church was completed just a few years before Bath Priory was dissolved in 1539 by Henry VIII 37 The abbey church became derelict before being restored as the city s parish church in the Elizabethan era when the city experienced a revival as a spa The baths were improved and the city began to attract the aristocracy A Royal charter granted by Queen Elizabeth I in 1590 confirmed city status 38 ",
+			"color": "dim|0.33111 gray|0.33111 dim|0.33111 grey|0.33111 gray|0.29309 grey|0.29309 dark|0.14521 gray|0.14521 dark|0.14521 grey|0.14521 black|0.10249 slate|0.044167 gray|0.044167 light|0.034268 slate|0.034268 gray|0.034268 silver|0.028656 light|0.0075414 gray|0.0075414 light|0.0075414 grey|0.0075414  ",
+			"after_weights": " By|1 the|0.99029 15th|0.98058 century|0.97087 Bath|0.96117 s|0.95146 abbey|0.94175 church|0.93204 was|0.92233 badly|0.91262 dilapidated|0.90291 36|0.8932 and|0.8835 Oliver|0.87379 King|0.86408 Bishop|0.85437 of|0.84466 Bath|0.83495 and|0.82524 Wells|0.81553 decided|0.80583 to|0.79612 rebuild|0.78641 it|0.7767 on|0.76699 a|0.75728 smaller|0.74757 scale|0.73786 in|0.72816 1500|0.71845 The|0.70874 new|0.69903 church|0.68932 was|0.67961 completed|0.6699 just|0.66019 a|0.65049 few|0.64078 years|0.63107 before|0.62136 Bath|0.61165 Priory|0.60194 was|0.59223 dissolved|0.58252 in|0.57282 1539|0.56311 by|0.5534 Henry|0.54369 VIII|0.53398 37|0.52427 The|0.51456 abbey|0.50485 church|0.49515 became|0.48544 derelict|0.47573 before|0.46602 being|0.45631 restored|0.4466 as|0.43689 the|0.42718 city|0.41748 s|0.40777 parish|0.39806 church|0.38835 in|0.37864 the|0.36893 Elizabethan|0.35922 era|0.34951 when|0.33981 the|0.3301 city|0.32039 experienced|0.31068 a|0.30097 revival|0.29126 as|0.28155 a|0.27184 spa|0.26214 The|0.25243 baths|0.24272 were|0.23301 improved|0.2233 and|0.21359 the|0.20388 city|0.19417 began|0.18447 to|0.17476 attract|0.16505 the|0.15534 aristocracy|0.14563 A|0.13592 Royal|0.12621 charter|0.1165 granted|0.1068 by|0.097087 Queen|0.087379 Elizabeth|0.07767 I|0.067961 in|0.058252 1590|0.048544 confirmed|0.038835 city|0.029126 status|0.019417 38|0.0097087 |0",
+			"previous_weights": " "
+		}
+	}
+}

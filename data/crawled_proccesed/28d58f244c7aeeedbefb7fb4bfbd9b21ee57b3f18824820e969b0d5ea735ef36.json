@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28d58f244c7aeeedbefb7fb4bfbd9b21ee57b3f18824820e969b0d5ea735ef36",
+			"url": "https://upload.wikimedia.org/math/5/1/2/51231d82fdd5aa01ac0f849ed73df7a2.png",
+			"previous": " Since has even integer coefficients will have integer coefficients and can be used instead of the original to give a representation of as the sum of four squares ",
+			"after": " The number can be factored in Hurwitz quaternions ",
+			"color": "dim|0.32528 gray|0.32528 dim|0.32528 grey|0.32528 gray|0.25965 grey|0.25965 dark|0.18793 gray|0.18793 dark|0.18793 grey|0.18793 silver|0.11913 light|0.061017 gray|0.061017 light|0.061017 grey|0.061017 gainsboro|0.039462  ",
+			"after_weights": " The|1 number|0.875 can|0.75 be|0.625 factored|0.5 in|0.375 Hurwitz|0.25 quaternions|0.125 |0",
+			"previous_weights": " Since|0 has|0.035714 even|0.071429 integer|0.10714 coefficients|0.14286 will|0.17857 have|0.21429 integer|0.25 coefficients|0.28571 and|0.32143 can|0.35714 be|0.39286 used|0.42857 instead|0.46429 of|0.5 the|0.53571 original|0.57143 to|0.60714 give|0.64286 a|0.67857 representation|0.71429 of|0.75 as|0.78571 the|0.82143 sum|0.85714 of|0.89286 four|0.92857 squares|0.96429 |1"
+		}
+	}
+}

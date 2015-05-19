@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3564e08c488da8fce95e0bfd8f6d49b7f80a93dface95437eacd2db68b28b8f6",
+			"url": "https://upload.wikimedia.org/math/e/0/5/e053ba87adb8302c9007b4f1e1a71852.png",
+			"previous": "  Ram Drag  The first term is the momentum thrust which contributes most of the nozzle gross thrust Because the nozzle is choked which is the norm on a turbojet the second term the pressure thrust is non zero ",
+			"after": " The ram drag in this particular example is zero because the engine is stationary and the flight velocity is therefore zero  Net thrust  The calculation of the combustor fuel flow is beyond the scope of this text but is basically proportional to the combustor entry airflow and a function of the combustor temperature rise ",
+			"color": "dim|0.38081 gray|0.38081 dim|0.38081 grey|0.38081 gray|0.29646 grey|0.29646 dark|0.17073 gray|0.17073 dark|0.17073 grey|0.17073 silver|0.073574 light|0.034529 gray|0.034529 light|0.034529 grey|0.034529 gainsboro|0.024278 white|0.0043839 smoke|0.0043839  ",
+			"after_weights": " The|1 ram|0.98214 drag|0.96429 in|0.94643 this|0.92857 particular|0.91071 example|0.89286 is|0.875 zero|0.85714 because|0.83929 the|0.82143 engine|0.80357 is|0.78571 stationary|0.76786 and|0.75 the|0.73214 flight|0.71429 velocity|0.69643 is|0.67857 therefore|0.66071 zero|0.64286 |0.625 Net|0.60714 thrust|0.58929 |0.57143 The|0.55357 calculation|0.53571 of|0.51786 the|0.5 combustor|0.48214 fuel|0.46429 flow|0.44643 is|0.42857 beyond|0.41071 the|0.39286 scope|0.375 of|0.35714 this|0.33929 text|0.32143 but|0.30357 is|0.28571 basically|0.26786 proportional|0.25 to|0.23214 the|0.21429 combustor|0.19643 entry|0.17857 airflow|0.16071 and|0.14286 a|0.125 function|0.10714 of|0.089286 the|0.071429 combustor|0.053571 temperature|0.035714 rise|0.017857 |0",
+			"previous_weights": " |0 Ram|0.025 Drag|0.05 |0.075 The|0.1 first|0.125 term|0.15 is|0.175 the|0.2 momentum|0.225 thrust|0.25 which|0.275 contributes|0.3 most|0.325 of|0.35 the|0.375 nozzle|0.4 gross|0.425 thrust|0.45 Because|0.475 the|0.5 nozzle|0.525 is|0.55 choked|0.575 which|0.6 is|0.625 the|0.65 norm|0.675 on|0.7 a|0.725 turbojet|0.75 the|0.775 second|0.8 term|0.825 the|0.85 pressure|0.875 thrust|0.9 is|0.925 non|0.95 zero|0.975 |1"
+		}
+	}
+}

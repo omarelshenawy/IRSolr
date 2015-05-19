@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a726f51fc16b0673bc3be37f945a8c21ae7216e4bfdb52fb06cd3423e1df8f9",
+			"url": "https://upload.wikimedia.org/math/d/2/f/d2f4b40ad2b8c4714f41ebeffda218f5.png",
+			"previous": " Note that in R it is symmetric  that satisfies the following three axioms for all vectors u v w in V and all scalars a in F 16 17 ",
+			"after": " We can define the length of a vector v in V by and we can prove the Cauchy Schwarz inequality ",
+			"color": "black|0.29411 dim|0.29008 gray|0.29008 dim|0.29008 grey|0.29008 gray|0.20864 grey|0.20864 dark|0.11591 gray|0.11591 dark|0.11591 grey|0.11591 silver|0.048045 light|0.021204 gray|0.021204 light|0.021204 grey|0.021204 gainsboro|0.013629  ",
+			"after_weights": " We|1 can|0.95 define|0.9 the|0.85 length|0.8 of|0.75 a|0.7 vector|0.65 v|0.6 in|0.55 V|0.5 by|0.45 and|0.4 we|0.35 can|0.3 prove|0.25 the|0.2 Cauchy|0.15 Schwarz|0.1 inequality|0.05 |0",
+			"previous_weights": " Note|0 that|0.033333 in|0.066667 R|0.1 it|0.13333 is|0.16667 symmetric|0.2 |0.23333 that|0.26667 satisfies|0.3 the|0.33333 following|0.36667 three|0.4 axioms|0.43333 for|0.46667 all|0.5 vectors|0.53333 u|0.56667 v|0.6 w|0.63333 in|0.66667 V|0.7 and|0.73333 all|0.76667 scalars|0.8 a|0.83333 in|0.86667 F|0.9 16|0.93333 17|0.96667 |1"
+		}
+	}
+}

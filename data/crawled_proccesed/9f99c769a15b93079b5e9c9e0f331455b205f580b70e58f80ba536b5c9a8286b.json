@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f99c769a15b93079b5e9c9e0f331455b205f580b70e58f80ba536b5c9a8286b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/220px-Pleiades_large.jpg",
+			"previous": " ",
+			"after": " Author Graham Hancock in his book Fingerprints of the Gods interpreted Coe s remarks in Breaking the Maya Code 125 as evidence for the prophecy of a global cataclysm 126 Filmmaker Roland Emmerich later credited the book with inspiring his 2009 disaster film 2012 127 ",
+			"color": "steel|0.56411 blue|0.56411 black|0.15272 sky|0.10144 blue|0.10144  ",
+			"after_weights": " Author|1 Graham|0.97778 Hancock|0.95556 in|0.93333 his|0.91111 book|0.88889 Fingerprints|0.86667 of|0.84444 the|0.82222 Gods|0.8 interpreted|0.77778 Coe|0.75556 s|0.73333 remarks|0.71111 in|0.68889 Breaking|0.66667 the|0.64444 Maya|0.62222 Code|0.6 125|0.57778 as|0.55556 evidence|0.53333 for|0.51111 the|0.48889 prophecy|0.46667 of|0.44444 a|0.42222 global|0.4 cataclysm|0.37778 126|0.35556 Filmmaker|0.33333 Roland|0.31111 Emmerich|0.28889 later|0.26667 credited|0.24444 the|0.22222 book|0.2 with|0.17778 inspiring|0.15556 his|0.13333 2009|0.11111 disaster|0.088889 film|0.066667 2012|0.044444 127|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

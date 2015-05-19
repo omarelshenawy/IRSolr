@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e1e5a43f3fb8e576e98254533879fc1eefc88b57acf45c6647c1815fbedff95",
+			"url": "https://upload.wikimedia.org/math/9/8/e/98e72141aa162cbe04c1cb0af25d33a0.png",
+			"previous": " Nozzle   However the jetpipe pressure loss must be accounted for   Since under Steady State conditions there is no work or heat loss in the jetpipe ",
+			"after": "   Since the nozzle is CHOKED Choked Nozzle  Similarly for the nozzle static pressure ",
+			"color": "gray|0.3104 grey|0.3104 dim|0.31032 gray|0.31032 dim|0.31032 grey|0.31032 dark|0.20776 gray|0.20776 dark|0.20776 grey|0.20776 silver|0.085363 light|0.040275 gray|0.040275 light|0.040275 grey|0.040275 gainsboro|0.028073 white|0.0050326 smoke|0.0050326  ",
+			"after_weights": " |1 |0.9375 Since|0.875 the|0.8125 nozzle|0.75 is|0.6875 CHOKED|0.625 Choked|0.5625 Nozzle|0.5 |0.4375 Similarly|0.375 for|0.3125 the|0.25 nozzle|0.1875 static|0.125 pressure|0.0625 |0",
+			"previous_weights": " Nozzle|0 |0.034483 |0.068966 However|0.10345 the|0.13793 jetpipe|0.17241 pressure|0.2069 loss|0.24138 must|0.27586 be|0.31034 accounted|0.34483 for|0.37931 |0.41379 |0.44828 Since|0.48276 under|0.51724 Steady|0.55172 State|0.58621 conditions|0.62069 there|0.65517 is|0.68966 no|0.72414 work|0.75862 or|0.7931 heat|0.82759 loss|0.86207 in|0.89655 the|0.93103 jetpipe|0.96552 |1"
+		}
+	}
+}

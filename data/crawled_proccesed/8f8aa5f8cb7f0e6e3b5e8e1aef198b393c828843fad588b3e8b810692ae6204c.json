@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f8aa5f8cb7f0e6e3b5e8e1aef198b393c828843fad588b3e8b810692ae6204c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Qatar_Airways_Boeing_787-8_A7-BCH_ZRH_2014-03-30.png/220px-Qatar_Airways_Boeing_787-8_A7-BCH_ZRH_2014-03-30.png",
+			"previous": " Qatar Airways has codeshare agreements with the following airlines and train systems as of November 2013 129 ",
+			"after": " As of March 2015 update the Qatar Airways fleet consists of the following aircraft 137 ",
+			"color": "dark|0.19396 gray|0.19396 dark|0.19396 grey|0.19396 silver|0.17159 dim|0.12341 gray|0.12341 dim|0.12341 grey|0.12341 light|0.11546 gray|0.11546 light|0.11546 grey|0.11546 light|0.095745 slate|0.095745 gray|0.095745 gray|0.092688 grey|0.092688 gainsboro|0.089234 slate|0.024963 gray|0.024963 black|0.022721  ",
+			"after_weights": " As|1 of|0.93333 March|0.86667 2015|0.8 update|0.73333 the|0.66667 Qatar|0.6 Airways|0.53333 fleet|0.46667 consists|0.4 of|0.33333 the|0.26667 following|0.2 aircraft|0.13333 137|0.066667 |0",
+			"previous_weights": " Qatar|0 Airways|0.058824 has|0.11765 codeshare|0.17647 agreements|0.23529 with|0.29412 the|0.35294 following|0.41176 airlines|0.47059 and|0.52941 train|0.58824 systems|0.64706 as|0.70588 of|0.76471 November|0.82353 2013|0.88235 129|0.94118 |1"
+		}
+	}
+}

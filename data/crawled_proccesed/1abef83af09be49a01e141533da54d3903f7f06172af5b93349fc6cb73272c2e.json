@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1abef83af09be49a01e141533da54d3903f7f06172af5b93349fc6cb73272c2e",
+			"url": "https://upload.wikimedia.org/math/5/3/e/53ead87a6ffbda57732bed20b3fff10e.png",
+			"previous": " In order to calculate the internal energy and the specific heat we must know the number of normal vibrational modes a frequency between the values and d Allow this number to be f d Since the total number of normal modes is 3N the function f is given by ",
+			"after": " The integration is performed over all frequencies of the crystal Then the internal energy U will be given by ",
+			"color": "dim|0.35032 gray|0.35032 dim|0.35032 grey|0.35032 gray|0.28792 grey|0.28792 dark|0.18874 gray|0.18874 dark|0.18874 grey|0.18874 silver|0.083894 light|0.041831 gray|0.041831 light|0.041831 grey|0.041831 gainsboro|0.029545 white|0.0048435 smoke|0.0048435  ",
+			"after_weights": " The|1 integration|0.94737 is|0.89474 performed|0.84211 over|0.78947 all|0.73684 frequencies|0.68421 of|0.63158 the|0.57895 crystal|0.52632 Then|0.47368 the|0.42105 internal|0.36842 energy|0.31579 U|0.26316 will|0.21053 be|0.15789 given|0.10526 by|0.052632 |0",
+			"previous_weights": " In|0 order|0.020408 to|0.040816 calculate|0.061224 the|0.081633 internal|0.10204 energy|0.12245 and|0.14286 the|0.16327 specific|0.18367 heat|0.20408 we|0.22449 must|0.2449 know|0.26531 the|0.28571 number|0.30612 of|0.32653 normal|0.34694 vibrational|0.36735 modes|0.38776 a|0.40816 frequency|0.42857 between|0.44898 the|0.46939 values|0.4898 and|0.5102 d|0.53061 Allow|0.55102 this|0.57143 number|0.59184 to|0.61224 be|0.63265 f|0.65306 d|0.67347 Since|0.69388 the|0.71429 total|0.73469 number|0.7551 of|0.77551 normal|0.79592 modes|0.81633 is|0.83673 3N|0.85714 the|0.87755 function|0.89796 f|0.91837 is|0.93878 given|0.95918 by|0.97959 |1"
+		}
+	}
+}

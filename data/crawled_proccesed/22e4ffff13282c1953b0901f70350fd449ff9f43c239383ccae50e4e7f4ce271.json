@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "22e4ffff13282c1953b0901f70350fd449ff9f43c239383ccae50e4e7f4ce271",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/White_Airbus_A310-300_Verkuringen.jpg/220px-White_Airbus_A310-300_Verkuringen.jpg",
+			"previous": " As of December 2014 White Airways operated scheduled charter flights on behalf of tour operators to following destinations ",
+			"after": " As of May 2015 the White fleet consisted of the following aircraft 3  Media related to White Airways at Wikimedia Commons",
+			"color": "steel|0.085226 blue|0.085226 dark|0.081566 gray|0.081566 dark|0.081566 grey|0.081566 black|0.072649 silver|0.072518 light|0.069258 gray|0.069258 light|0.069258 grey|0.069258 gainsboro|0.065012 dim|0.058163 gray|0.058163 dim|0.058163 grey|0.058163 light|0.043573 slate|0.043573 gray|0.043573 gray|0.04326 grey|0.04326 light|0.035667 steel|0.035667 blue|0.035667 white|0.03554 smoke|0.03554 alice|0.032881 blue|0.032881 slate|0.030557 gray|0.030557 lavender|0.030371 corn|0.030286 flower|0.030286 blue|0.030286 ghost|0.028905 white|0.028905 snow|0.023345 azure|0.020246 white|0.020165 mint|0.018341 cream|0.018341 lavender|0.017948 blush|0.017948 sea|0.015341 shell|0.015341 dark|0.014955 slate|0.014955 gray|0.014955  ",
+			"after_weights": " As|1 of|0.95238 May|0.90476 2015|0.85714 the|0.80952 White|0.7619 fleet|0.71429 consisted|0.66667 of|0.61905 the|0.57143 following|0.52381 aircraft|0.47619 3|0.42857 |0.38095 Media|0.33333 related|0.28571 to|0.2381 White|0.19048 Airways|0.14286 at|0.095238 Wikimedia|0.047619 Commons|0",
+			"previous_weights": " As|0 of|0.055556 December|0.11111 2014|0.16667 White|0.22222 Airways|0.27778 operated|0.33333 scheduled|0.38889 charter|0.44444 flights|0.5 on|0.55556 behalf|0.61111 of|0.66667 tour|0.72222 operators|0.77778 to|0.83333 following|0.88889 destinations|0.94444 |1"
+		}
+	}
+}

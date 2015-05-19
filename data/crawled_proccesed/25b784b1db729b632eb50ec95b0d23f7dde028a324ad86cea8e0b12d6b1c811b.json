@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25b784b1db729b632eb50ec95b0d23f7dde028a324ad86cea8e0b12d6b1c811b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Greenwich_clock_1-manipulated.jpg/200px-Greenwich_clock_1-manipulated.jpg",
+			"previous": " In 2005 BBC Weather television forecasts used the 12 hour notation for several months after its graphical revamp After complaints from the public however this was switched to 24 hour notation citation needed ",
+			"after": " ",
+			"color": "alice|0.087074 blue|0.087074 light|0.080776 cyan|0.080776 azure|0.080499 black|0.077876 mint|0.071333 cream|0.071333 white|0.067496 smoke|0.067496 ghost|0.064953 white|0.064953 white|0.060661 snow|0.051398 light|0.039639 blue|0.039639 honeydew|0.039147 dark|0.033217 slate|0.033217 gray|0.033217 light|0.027625 slate|0.027625 gray|0.027625 light|0.025471 steel|0.025471 blue|0.025471 floral|0.025395 white|0.025395 silver|0.025102 slate|0.024531 gray|0.024531 gainsboro|0.024462 light|0.024323 gray|0.024323 light|0.024323 grey|0.024323 dark|0.023162 gray|0.023162 dark|0.023162 grey|0.023162 powder|0.012656 blue|0.012656 dim|0.0090979 gray|0.0090979 dim|0.0090979 grey|0.0090979 lavender|0.0068507 sea|0.0064954 shell|0.0064954 gray|0.0057115 grey|0.0057115  ",
+			"after_weights": " ",
+			"previous_weights": " In|0 2005|0.030303 BBC|0.060606 Weather|0.090909 television|0.12121 forecasts|0.15152 used|0.18182 the|0.21212 12|0.24242 hour|0.27273 notation|0.30303 for|0.33333 several|0.36364 months|0.39394 after|0.42424 its|0.45455 graphical|0.48485 revamp|0.51515 After|0.54545 complaints|0.57576 from|0.60606 the|0.63636 public|0.66667 however|0.69697 this|0.72727 was|0.75758 switched|0.78788 to|0.81818 24|0.84848 hour|0.87879 notation|0.90909 citation|0.93939 needed|0.9697 |1"
+		}
+	}
+}

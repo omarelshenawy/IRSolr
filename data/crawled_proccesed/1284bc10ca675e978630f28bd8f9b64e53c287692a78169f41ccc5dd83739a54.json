@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1284bc10ca675e978630f28bd8f9b64e53c287692a78169f41ccc5dd83739a54",
+			"url": "https://upload.wikimedia.org/math/e/3/f/e3f02f46abe5e83482fa2678a54e696a.png",
+			"previous": " Ambient temperature  Sea level ISA conditions i e Standard Day imply the following  Ambient pressure assume 101 325 kN m if working in SI units ",
+			"after": "  Use 518 67 R if working with American units  Freestream Since the engine is static both the flight velocity and the flight Mach number are zero",
+			"color": "dim|0.37195 gray|0.37195 dim|0.37195 grey|0.37195 gray|0.30132 grey|0.30132 dark|0.18059 gray|0.18059 dark|0.18059 grey|0.18059 silver|0.069117 light|0.032988 gray|0.032988 light|0.032988 grey|0.032988 gainsboro|0.024248 white|0.0052787 smoke|0.0052787  ",
+			"after_weights": " |1 Use|0.96296 518|0.92593 67|0.88889 R|0.85185 if|0.81481 working|0.77778 with|0.74074 American|0.7037 units|0.66667 |0.62963 Freestream|0.59259 Since|0.55556 the|0.51852 engine|0.48148 is|0.44444 static|0.40741 both|0.37037 the|0.33333 flight|0.2963 velocity|0.25926 and|0.22222 the|0.18519 flight|0.14815 Mach|0.11111 number|0.074074 are|0.037037 zero|0",
+			"previous_weights": " Ambient|0 temperature|0.037037 |0.074074 Sea|0.11111 level|0.14815 ISA|0.18519 conditions|0.22222 i|0.25926 e|0.2963 Standard|0.33333 Day|0.37037 imply|0.40741 the|0.44444 following|0.48148 |0.51852 Ambient|0.55556 pressure|0.59259 assume|0.62963 101|0.66667 325|0.7037 kN|0.74074 m|0.77778 if|0.81481 working|0.85185 in|0.88889 SI|0.92593 units|0.96296 |1"
+		}
+	}
+}

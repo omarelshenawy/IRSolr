@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "65b2b0c6be67c2691e4b16108e0093f174a9a67dc0d68a6795f5ce85e2ab7153",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LX-LGT_B737-8K5W_Luxair_PMI_26MAY12_%287275011274%29.jpg/220px-LX-LGT_B737-8K5W_Luxair_PMI_26MAY12_%287275011274%29.jpg",
+			"previous": " The key trends for Luxair Group over recent years are shown below as at year ending 31 December ",
+			"after": " The Luxair fleet includes the following aircraft with an average age of 5 1 years as of February 2015 12 ",
+			"color": "light|0.42499 slate|0.42499 gray|0.42499 slate|0.40798 gray|0.40798 dark|0.021385 gray|0.021385 dark|0.021385 grey|0.021385 silver|0.018554 dim|0.014469 gray|0.014469 dim|0.014469 grey|0.014469 gray|0.014396 grey|0.014396 light|0.014001 gray|0.014001 light|0.014001 grey|0.014001 black|0.011623 gainsboro|0.010083 white|0.005263 smoke|0.005263 sea|0.0041256 shell|0.0041256 snow|0.0040229 ghost|0.0037235 white|0.0037235 white|0.0035545 floral|0.0034171 white|0.0034171 alice|0.0034106 blue|0.0034106 linen|0.0033012 mint|0.0032424 cream|0.0032424 lavender|0.0031305 blush|0.0031305  ",
+			"after_weights": " The|1 Luxair|0.95 fleet|0.9 includes|0.85 the|0.8 following|0.75 aircraft|0.7 with|0.65 an|0.6 average|0.55 age|0.5 of|0.45 5|0.4 1|0.35 years|0.3 as|0.25 of|0.2 February|0.15 2015|0.1 12|0.05 |0",
+			"previous_weights": " The|0 key|0.055556 trends|0.11111 for|0.16667 Luxair|0.22222 Group|0.27778 over|0.33333 recent|0.38889 years|0.44444 are|0.5 shown|0.55556 below|0.61111 as|0.66667 at|0.72222 year|0.77778 ending|0.83333 31|0.88889 December|0.94444 |1"
+		}
+	}
+}

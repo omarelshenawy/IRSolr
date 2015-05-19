@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "368d41dc301948af6f9ad1cd8c6da7f380cbe75087c4e9d169c6e6982d1c5903",
+			"url": "https://upload.wikimedia.org/math/e/d/d/eddc7471e6140ed7b80b141c65d38400.png",
+			"previous": " is the probability density to measure the particle in place x at time t ",
+			"after": " The eigenstates have a physical meaning further than an orthonormal basis When the energy of the system is measured the wavefunction collapses into one of its eigenstates and so the particle wavefunction is described by the pure eigenstate corresponding to the measured energy ",
+			"color": "dim|0.2552 gray|0.2552 dim|0.2552 grey|0.2552 gray|0.25099 grey|0.25099 dark|0.2153 gray|0.2153 dark|0.2153 grey|0.2153 black|0.1939 silver|0.068964 light|0.013333 gray|0.013333 light|0.013333 grey|0.013333  ",
+			"after_weights": " The|1 eigenstates|0.97674 have|0.95349 a|0.93023 physical|0.90698 meaning|0.88372 further|0.86047 than|0.83721 an|0.81395 orthonormal|0.7907 basis|0.76744 When|0.74419 the|0.72093 energy|0.69767 of|0.67442 the|0.65116 system|0.62791 is|0.60465 measured|0.5814 the|0.55814 wavefunction|0.53488 collapses|0.51163 into|0.48837 one|0.46512 of|0.44186 its|0.4186 eigenstates|0.39535 and|0.37209 so|0.34884 the|0.32558 particle|0.30233 wavefunction|0.27907 is|0.25581 described|0.23256 by|0.2093 the|0.18605 pure|0.16279 eigenstate|0.13953 corresponding|0.11628 to|0.093023 the|0.069767 measured|0.046512 energy|0.023256 |0",
+			"previous_weights": " is|0 the|0.071429 probability|0.14286 density|0.21429 to|0.28571 measure|0.35714 the|0.42857 particle|0.5 in|0.57143 place|0.64286 x|0.71429 at|0.78571 time|0.85714 t|0.92857 |1"
+		}
+	}
+}

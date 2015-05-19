@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "811a79ae7ed3cafac67286b15953561958bc1a22cf1e51a1f0c50eda4fdc7bca",
+			"url": "https://upload.wikimedia.org/math/5/e/4/5e4ca21b08e8ee5f2f7c69508732eb29.png",
+			"previous": " The above quantity can be written as the following sum ",
+			"after": " Next we employ the mean value theorem Stated briefly  Let F be continuous on the closed interval a b and differentiable on the open interval a b Then there exists some c in a b such that",
+			"color": "dim|0.36672 gray|0.36672 dim|0.36672 grey|0.36672 gray|0.2744 grey|0.2744 dark|0.18271 gray|0.18271 dark|0.18271 grey|0.18271 silver|0.087113 light|0.040314 gray|0.040314 light|0.040314 grey|0.040314 gainsboro|0.028985 white|0.0043433 smoke|0.0043433  ",
+			"after_weights": " Next|1 we|0.97297 employ|0.94595 the|0.91892 mean|0.89189 value|0.86486 theorem|0.83784 Stated|0.81081 briefly|0.78378 |0.75676 Let|0.72973 F|0.7027 be|0.67568 continuous|0.64865 on|0.62162 the|0.59459 closed|0.56757 interval|0.54054 a|0.51351 b|0.48649 and|0.45946 differentiable|0.43243 on|0.40541 the|0.37838 open|0.35135 interval|0.32432 a|0.2973 b|0.27027 Then|0.24324 there|0.21622 exists|0.18919 some|0.16216 c|0.13514 in|0.10811 a|0.081081 b|0.054054 such|0.027027 that|0",
+			"previous_weights": " The|0 above|0.1 quantity|0.2 can|0.3 be|0.4 written|0.5 as|0.6 the|0.7 following|0.8 sum|0.9 |1"
+		}
+	}
+}

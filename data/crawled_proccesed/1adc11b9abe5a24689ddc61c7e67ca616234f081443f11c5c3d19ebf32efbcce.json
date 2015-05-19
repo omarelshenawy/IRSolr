@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1adc11b9abe5a24689ddc61c7e67ca616234f081443f11c5c3d19ebf32efbcce",
+			"url": "https://upload.wikimedia.org/math/3/e/e/3ee438943ff09139b75c50c86b515306.png",
+			"previous": " The coefficient which corresponds to a particular state in the linear combination is complex thus allowing interference effects between states The coefficients are time dependent How a quantum system changes in time is governed by the time evolution operator The symbols and 4 surrounding the are part of bra ket notation ",
+			"after": " The expectation value of an observable A is a statistical mean of measured values of the observable It is this mean and the distribution of probabilities that is predicted by physical theories ",
+			"color": "gray|0.34076 grey|0.34076 dark|0.27227 gray|0.27227 dark|0.27227 grey|0.27227 dim|0.14839 gray|0.14839 dim|0.14839 grey|0.14839 silver|0.12055 light|0.059889 gray|0.059889 light|0.059889 grey|0.059889 gainsboro|0.04147 white|0.0052537 smoke|0.0052537 linen|0.0027408  ",
+			"after_weights": " The|1 expectation|0.96875 value|0.9375 of|0.90625 an|0.875 observable|0.84375 A|0.8125 is|0.78125 a|0.75 statistical|0.71875 mean|0.6875 of|0.65625 measured|0.625 values|0.59375 of|0.5625 the|0.53125 observable|0.5 It|0.46875 is|0.4375 this|0.40625 mean|0.375 and|0.34375 the|0.3125 distribution|0.28125 of|0.25 probabilities|0.21875 that|0.1875 is|0.15625 predicted|0.125 by|0.09375 physical|0.0625 theories|0.03125 |0",
+			"previous_weights": " The|0 coefficient|0.019608 which|0.039216 corresponds|0.058824 to|0.078431 a|0.098039 particular|0.11765 state|0.13725 in|0.15686 the|0.17647 linear|0.19608 combination|0.21569 is|0.23529 complex|0.2549 thus|0.27451 allowing|0.29412 interference|0.31373 effects|0.33333 between|0.35294 states|0.37255 The|0.39216 coefficients|0.41176 are|0.43137 time|0.45098 dependent|0.47059 How|0.4902 a|0.5098 quantum|0.52941 system|0.54902 changes|0.56863 in|0.58824 time|0.60784 is|0.62745 governed|0.64706 by|0.66667 the|0.68627 time|0.70588 evolution|0.72549 operator|0.7451 The|0.76471 symbols|0.78431 and|0.80392 4|0.82353 surrounding|0.84314 the|0.86275 are|0.88235 part|0.90196 of|0.92157 bra|0.94118 ket|0.96078 notation|0.98039 |1"
+		}
+	}
+}

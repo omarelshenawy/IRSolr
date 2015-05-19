@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f57f6168ff0cdbe5d8dd7e0ed2b6e871434382abdfc6d18a8a801e3fb13ec15",
+			"url": "https://upload.wikimedia.org/math/2/c/0/2c0da1bdcfa600e111b4dd2c6db73242.png",
+			"previous": " Take the limit as x 0 on both sides of the equation  Dividing both sides by x gives",
+			"after": " The expression on the left side of the equation is the definition of the derivative of F at x1  To find the other limit we use the squeeze theorem The number c is in the interval x1 x1 x so x1 c x1 x ",
+			"color": "dim|0.38056 gray|0.38056 dim|0.38056 grey|0.38056 gray|0.27609 grey|0.27609 dark|0.17748 gray|0.17748 dark|0.17748 grey|0.17748 silver|0.0783 light|0.041409 gray|0.041409 light|0.041409 grey|0.041409 gainsboro|0.028824 white|0.0050435 smoke|0.0050435  ",
+			"after_weights": " The|1 expression|0.97778 on|0.95556 the|0.93333 left|0.91111 side|0.88889 of|0.86667 the|0.84444 equation|0.82222 is|0.8 the|0.77778 definition|0.75556 of|0.73333 the|0.71111 derivative|0.68889 of|0.66667 F|0.64444 at|0.62222 x1|0.6 |0.57778 To|0.55556 find|0.53333 the|0.51111 other|0.48889 limit|0.46667 we|0.44444 use|0.42222 the|0.4 squeeze|0.37778 theorem|0.35556 The|0.33333 number|0.31111 c|0.28889 is|0.26667 in|0.24444 the|0.22222 interval|0.2 x1|0.17778 x1|0.15556 x|0.13333 so|0.11111 x1|0.088889 c|0.066667 x1|0.044444 x|0.022222 |0",
+			"previous_weights": " Take|0 the|0.055556 limit|0.11111 as|0.16667 x|0.22222 0|0.27778 on|0.33333 both|0.38889 sides|0.44444 of|0.5 the|0.55556 equation|0.61111 |0.66667 Dividing|0.72222 both|0.77778 sides|0.83333 by|0.88889 x|0.94444 gives|1"
+		}
+	}
+}

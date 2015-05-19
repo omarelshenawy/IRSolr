@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48d074bb80f11b320992224cfc8e14bb71c1162fd46fa9b946f061e6b29c5016",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/San-Francisco_Bolivia.jpg/220px-San-Francisco_Bolivia.jpg",
+			"previous": " The home of the Bolivian government is located on Murillo Square and is known as Palacio Quemado Burnt Palace as it has been on fire several times The palace has been restored many times since but the name has remained untouched ",
+			"after": " ",
+			"color": "black|0.3344 dim|0.2029 gray|0.2029 dim|0.2029 grey|0.2029 gray|0.14324 grey|0.14324 dark|0.069269 gray|0.069269 dark|0.069269 grey|0.069269 slate|0.036979 gray|0.036979 light|0.026652 slate|0.026652 gray|0.026652 silver|0.025386 rosy|0.020151 brown|0.020151 dark|0.019002 slate|0.019002 gray|0.019002 antique|0.014134 white|0.014134 peach|0.014058 puff|0.014058 bisque|0.011483 light|0.011059 gray|0.011059 light|0.011059 grey|0.011059 tan|0.0090267 blanched|0.0090015 almond|0.0090015  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 home|0.02439 of|0.04878 the|0.073171 Bolivian|0.097561 government|0.12195 is|0.14634 located|0.17073 on|0.19512 Murillo|0.21951 Square|0.2439 and|0.26829 is|0.29268 known|0.31707 as|0.34146 Palacio|0.36585 Quemado|0.39024 Burnt|0.41463 Palace|0.43902 as|0.46341 it|0.4878 has|0.5122 been|0.53659 on|0.56098 fire|0.58537 several|0.60976 times|0.63415 The|0.65854 palace|0.68293 has|0.70732 been|0.73171 restored|0.7561 many|0.78049 times|0.80488 since|0.82927 but|0.85366 the|0.87805 name|0.90244 has|0.92683 remained|0.95122 untouched|0.97561 |1"
+		}
+	}
+}

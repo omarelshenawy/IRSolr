@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d5ca4746350a8ba559efdec6ac16b99b48ee3dc792fb42b198e9be37f6e93ba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wichita_Canyon.jpg/220px-Wichita_Canyon.jpg",
+			"previous": " ",
+			"after": " Among the most geographically diverse states Oklahoma is one of four to harbor more than 10 distinct ecological regions with 11 in its borders more per square mile than in any other state 17 Its western and eastern halves however are marked by extreme differences in geographical diversity Eastern Oklahoma touches eight ecological regions and its western half contains three 17 ",
+			"color": "dim|0.3233 gray|0.3233 dim|0.3233 grey|0.3233 gray|0.26937 grey|0.26937 dark|0.15098 gray|0.15098 dark|0.15098 grey|0.15098 black|0.073338 silver|0.041686 tan|0.030052 dark|0.029609 olive|0.029609 green|0.029609 slate|0.018156 gray|0.018156 dark|0.012544 slate|0.012544 gray|0.012544 light|0.011405 slate|0.011405 gray|0.011405 rosy|0.010162 brown|0.010162  ",
+			"after_weights": " Among|1 the|0.98361 most|0.96721 geographically|0.95082 diverse|0.93443 states|0.91803 Oklahoma|0.90164 is|0.88525 one|0.86885 of|0.85246 four|0.83607 to|0.81967 harbor|0.80328 more|0.78689 than|0.77049 10|0.7541 distinct|0.7377 ecological|0.72131 regions|0.70492 with|0.68852 11|0.67213 in|0.65574 its|0.63934 borders|0.62295 more|0.60656 per|0.59016 square|0.57377 mile|0.55738 than|0.54098 in|0.52459 any|0.5082 other|0.4918 state|0.47541 17|0.45902 Its|0.44262 western|0.42623 and|0.40984 eastern|0.39344 halves|0.37705 however|0.36066 are|0.34426 marked|0.32787 by|0.31148 extreme|0.29508 differences|0.27869 in|0.2623 geographical|0.2459 diversity|0.22951 Eastern|0.21311 Oklahoma|0.19672 touches|0.18033 eight|0.16393 ecological|0.14754 regions|0.13115 and|0.11475 its|0.098361 western|0.081967 half|0.065574 contains|0.04918 three|0.032787 17|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

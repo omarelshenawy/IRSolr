@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "92749f9cab8235967413ee407e90c083e52857a00c299e0d5cae1bcb8f6f1d47",
+			"url": "https://upload.wikimedia.org/math/5/2/9/529cd8508a11a635b84cc995396a94db.png",
+			"previous": " For each initial condition x0 y0 there exists a unique maximum possibly infinite open interval",
+			"after": " such that any solution that satisfies this initial condition is a restriction of the solution that satisfies this initial condition with domain Imax ",
+			"color": "dim|0.38412 gray|0.38412 dim|0.38412 grey|0.38412 gray|0.27846 grey|0.27846 dark|0.17688 gray|0.17688 dark|0.17688 grey|0.17688 silver|0.075742 light|0.039809 gray|0.039809 light|0.039809 grey|0.039809 gainsboro|0.028234 white|0.0044124 smoke|0.0044124  ",
+			"after_weights": " such|1 that|0.95652 any|0.91304 solution|0.86957 that|0.82609 satisfies|0.78261 this|0.73913 initial|0.69565 condition|0.65217 is|0.6087 a|0.56522 restriction|0.52174 of|0.47826 the|0.43478 solution|0.3913 that|0.34783 satisfies|0.30435 this|0.26087 initial|0.21739 condition|0.17391 with|0.13043 domain|0.086957 Imax|0.043478 |0",
+			"previous_weights": " For|0 each|0.071429 initial|0.14286 condition|0.21429 x0|0.28571 y0|0.35714 there|0.42857 exists|0.5 a|0.57143 unique|0.64286 maximum|0.71429 possibly|0.78571 infinite|0.85714 open|0.92857 interval|1"
+		}
+	}
+}

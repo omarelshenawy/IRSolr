@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f2cf5eb9442ef836bc321a54415eab8f475829bb3d0fe36d791e2d9c2294b1a",
+			"url": "https://upload.wikimedia.org/math/b/6/d/b6d15a11f07bf9fd1100fd46dd7155de.png",
+			"previous": " Lagrange s four square theorem is a special case of the Fermat polygonal number theorem and Waring s problem Another possible generalisation is the following problem Given natural numbers can we solve",
+			"after": " Michael O Rabin and Jeffrey Shallit 9 have found randomized polynomial time algorithms for computing a single representation for a given integer in expected running time ",
+			"color": "dim|0.34228 gray|0.34228 dim|0.34228 grey|0.34228 gray|0.30508 grey|0.30508 dark|0.19708 gray|0.19708 dark|0.19708 grey|0.19708 silver|0.080906 light|0.037718 gray|0.037718 light|0.037718 grey|0.037718 gainsboro|0.025227 white|0.0034827 smoke|0.0034827  ",
+			"after_weights": " Michael|1 O|0.96154 Rabin|0.92308 and|0.88462 Jeffrey|0.84615 Shallit|0.80769 9|0.76923 have|0.73077 found|0.69231 randomized|0.65385 polynomial|0.61538 time|0.57692 algorithms|0.53846 for|0.5 computing|0.46154 a|0.42308 single|0.38462 representation|0.34615 for|0.30769 a|0.26923 given|0.23077 integer|0.19231 in|0.15385 expected|0.11538 running|0.076923 time|0.038462 |0",
+			"previous_weights": " Lagrange|0 s|0.032258 four|0.064516 square|0.096774 theorem|0.12903 is|0.16129 a|0.19355 special|0.22581 case|0.25806 of|0.29032 the|0.32258 Fermat|0.35484 polygonal|0.3871 number|0.41935 theorem|0.45161 and|0.48387 Waring|0.51613 s|0.54839 problem|0.58065 Another|0.6129 possible|0.64516 generalisation|0.67742 is|0.70968 the|0.74194 following|0.77419 problem|0.80645 Given|0.83871 natural|0.87097 numbers|0.90323 can|0.93548 we|0.96774 solve|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "767853166a62a4f5caa1c539b24e4442da580699e050cdab1974cd4def0091b0",
+			"url": "https://upload.wikimedia.org/math/e/5/b/e5bb23797bfea314a3db43d07dbd6a74.png",
+			"previous": " As a simple example if f converts a temperature in degrees Celsius C to degrees Fahrenheit F the function converting degrees Fahrenheit to degrees Celsius would be a suitable f 1  That is the two possible compositions of f and f 1 need to be the respective identity maps of X and Y ",
+			"after": " ",
+			"color": "dark|0.34253 gray|0.34253 dark|0.34253 grey|0.34253 gray|0.23678 grey|0.23678 silver|0.18273 light|0.095993 gray|0.095993 light|0.095993 grey|0.095993 gainsboro|0.064873 dim|0.040591 gray|0.040591 dim|0.040591 grey|0.040591 white|0.011015 smoke|0.011015 linen|0.0056029 lavender|0.0039896 blush|0.0039896 alice|0.0038648 blue|0.0038648 ghost|0.0035872 white|0.0035872 sea|0.0033196 shell|0.0033196 snow|0.0030854  ",
+			"after_weights": " ",
+			"previous_weights": " As|0 a|0.018519 simple|0.037037 example|0.055556 if|0.074074 f|0.092593 converts|0.11111 a|0.12963 temperature|0.14815 in|0.16667 degrees|0.18519 Celsius|0.2037 C|0.22222 to|0.24074 degrees|0.25926 Fahrenheit|0.27778 F|0.2963 the|0.31481 function|0.33333 converting|0.35185 degrees|0.37037 Fahrenheit|0.38889 to|0.40741 degrees|0.42593 Celsius|0.44444 would|0.46296 be|0.48148 a|0.5 suitable|0.51852 f|0.53704 1|0.55556 |0.57407 That|0.59259 is|0.61111 the|0.62963 two|0.64815 possible|0.66667 compositions|0.68519 of|0.7037 f|0.72222 and|0.74074 f|0.75926 1|0.77778 need|0.7963 to|0.81481 be|0.83333 the|0.85185 respective|0.87037 identity|0.88889 maps|0.90741 of|0.92593 X|0.94444 and|0.96296 Y|0.98148 |1"
+		}
+	}
+}

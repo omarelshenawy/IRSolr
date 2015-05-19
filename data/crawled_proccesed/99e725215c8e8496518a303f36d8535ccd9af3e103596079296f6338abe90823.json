@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "99e725215c8e8496518a303f36d8535ccd9af3e103596079296f6338abe90823",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LaGloirePhotograph.jpg/220px-LaGloirePhotograph.jpg",
+			"previous": " ",
+			"after": " The adoption of steam power was only one of a number of technological advances which revolutionized warship design in the 19th century The ship of the line was overtaken by the ironclad powered by steam protected by metal armor and armed with guns firing high explosive shells ",
+			"color": "black|0.73132 dim|0.16104 gray|0.16104 dim|0.16104 grey|0.16104 gray|0.078027 grey|0.078027 dark|0.021794 gray|0.021794 dark|0.021794 grey|0.021794  ",
+			"after_weights": " The|1 adoption|0.97872 of|0.95745 steam|0.93617 power|0.91489 was|0.89362 only|0.87234 one|0.85106 of|0.82979 a|0.80851 number|0.78723 of|0.76596 technological|0.74468 advances|0.7234 which|0.70213 revolutionized|0.68085 warship|0.65957 design|0.6383 in|0.61702 the|0.59574 19th|0.57447 century|0.55319 The|0.53191 ship|0.51064 of|0.48936 the|0.46809 line|0.44681 was|0.42553 overtaken|0.40426 by|0.38298 the|0.3617 ironclad|0.34043 powered|0.31915 by|0.29787 steam|0.2766 protected|0.25532 by|0.23404 metal|0.21277 armor|0.19149 and|0.17021 armed|0.14894 with|0.12766 guns|0.10638 firing|0.085106 high|0.06383 explosive|0.042553 shells|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

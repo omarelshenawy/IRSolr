@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14cb4d6ba0676a6d3938d798a33d63542dc535566573367f429f660767a969f3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Purple_Swamphen_I_IMG_9278.jpg/150px-Purple_Swamphen_I_IMG_9278.jpg",
+			"previous": " The following species have been reviewed by the FOSRC and while confirmed in identification there is uncertainty as to whether they represent escaped individuals or genuine vagrants from established populations ",
+			"after": " The following introduced species while not considered officially established by the FOSRC have self sustaining populations and within range and proper habitat are likely to be encountered ",
+			"color": "dark|0.11826 gray|0.11826 dark|0.11826 grey|0.11826 silver|0.10407 black|0.10386 light|0.10368 gray|0.10368 light|0.10368 grey|0.10368 gray|0.092982 grey|0.092982 gainsboro|0.088632 dim|0.073086 gray|0.073086 dim|0.073086 grey|0.073086 lavender|0.065975 white|0.024396 smoke|0.024396 alice|0.024307 blue|0.024307 ghost|0.023752 white|0.023752 dark|0.021954 slate|0.021954 gray|0.021954 lavender|0.021252 blush|0.021252 slate|0.020241 gray|0.020241 light|0.018979 slate|0.018979 gray|0.018979 snow|0.011475 dark|0.011004 olive|0.011004 green|0.011004 rosy|0.008964 brown|0.008964 white|0.0082796 azure|0.0064198 thistle|0.006316 sea|0.0056882 shell|0.0056882  ",
+			"after_weights": " The|1 following|0.96296 introduced|0.92593 species|0.88889 while|0.85185 not|0.81481 considered|0.77778 officially|0.74074 established|0.7037 by|0.66667 the|0.62963 FOSRC|0.59259 have|0.55556 self|0.51852 sustaining|0.48148 populations|0.44444 and|0.40741 within|0.37037 range|0.33333 and|0.2963 proper|0.25926 habitat|0.22222 are|0.18519 likely|0.14815 to|0.11111 be|0.074074 encountered|0.037037 |0",
+			"previous_weights": " The|0 following|0.033333 species|0.066667 have|0.1 been|0.13333 reviewed|0.16667 by|0.2 the|0.23333 FOSRC|0.26667 and|0.3 while|0.33333 confirmed|0.36667 in|0.4 identification|0.43333 there|0.46667 is|0.5 uncertainty|0.53333 as|0.56667 to|0.6 whether|0.63333 they|0.66667 represent|0.7 escaped|0.73333 individuals|0.76667 or|0.8 genuine|0.83333 vagrants|0.86667 from|0.9 established|0.93333 populations|0.96667 |1"
+		}
+	}
+}

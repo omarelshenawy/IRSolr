@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e521d82ce009054720e7eaf4e84334fe2cd15eb793960ea29e6fef0239a9be6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29-3_new.jpg/280px-Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29-3_new.jpg",
+			"previous": " Portal Society Featured picture 24",
+			"after": " Mount Rushmore National Memorial is a sculpture carved into the granite face of Mount Rushmore near Keystone South Dakota United States Sculpted by Danish American Gutzon Borglum and his son Lincoln Borglum it features 60 foot 18 m sculptures of the heads of former United States presidents in order from left to right George Washington Thomas Jefferson Theodore Roosevelt and Abraham Lincoln ",
+			"color": "gray|0.29966 grey|0.29966 dim|0.2831 gray|0.2831 dim|0.2831 grey|0.2831 dark|0.17422 gray|0.17422 dark|0.17422 grey|0.17422 black|0.085601 silver|0.07221 light|0.041064 gray|0.041064 light|0.041064 grey|0.041064 gainsboro|0.026755 linen|0.0047238  ",
+			"after_weights": " Mount|1 Rushmore|0.98387 National|0.96774 Memorial|0.95161 is|0.93548 a|0.91935 sculpture|0.90323 carved|0.8871 into|0.87097 the|0.85484 granite|0.83871 face|0.82258 of|0.80645 Mount|0.79032 Rushmore|0.77419 near|0.75806 Keystone|0.74194 South|0.72581 Dakota|0.70968 United|0.69355 States|0.67742 Sculpted|0.66129 by|0.64516 Danish|0.62903 American|0.6129 Gutzon|0.59677 Borglum|0.58065 and|0.56452 his|0.54839 son|0.53226 Lincoln|0.51613 Borglum|0.5 it|0.48387 features|0.46774 60|0.45161 foot|0.43548 18|0.41935 m|0.40323 sculptures|0.3871 of|0.37097 the|0.35484 heads|0.33871 of|0.32258 former|0.30645 United|0.29032 States|0.27419 presidents|0.25806 in|0.24194 order|0.22581 from|0.20968 left|0.19355 to|0.17742 right|0.16129 George|0.14516 Washington|0.12903 Thomas|0.1129 Jefferson|0.096774 Theodore|0.080645 Roosevelt|0.064516 and|0.048387 Abraham|0.032258 Lincoln|0.016129 |0",
+			"previous_weights": " Portal|0 Society|0.25 Featured|0.5 picture|0.75 24|1"
+		}
+	}
+}

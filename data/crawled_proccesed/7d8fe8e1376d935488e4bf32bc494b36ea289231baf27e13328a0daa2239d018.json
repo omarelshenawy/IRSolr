@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d8fe8e1376d935488e4bf32bc494b36ea289231baf27e13328a0daa2239d018",
+			"url": "https://upload.wikimedia.org/math/7/6/0/7607beb5860739ec70d6eef9d63d6a04.png",
+			"previous": " then the Z transform is",
+			"after": " which has a pole at and is not BIBO stable since the pole has a modulus strictly greater than one  Numerous tools exist for the analysis of the poles of a system These include graphical systems like the root locus Bode plots or the Nyquist plots ",
+			"color": "dim|0.42595 gray|0.42595 dim|0.42595 grey|0.42595 gray|0.27428 grey|0.27428 dark|0.15478 gray|0.15478 dark|0.15478 grey|0.15478 silver|0.070647 light|0.036462 gray|0.036462 light|0.036462 grey|0.036462 gainsboro|0.025731 white|0.0037494 smoke|0.0037494  ",
+			"after_weights": " which|1 has|0.97872 a|0.95745 pole|0.93617 at|0.91489 and|0.89362 is|0.87234 not|0.85106 BIBO|0.82979 stable|0.80851 since|0.78723 the|0.76596 pole|0.74468 has|0.7234 a|0.70213 modulus|0.68085 strictly|0.65957 greater|0.6383 than|0.61702 one|0.59574 |0.57447 Numerous|0.55319 tools|0.53191 exist|0.51064 for|0.48936 the|0.46809 analysis|0.44681 of|0.42553 the|0.40426 poles|0.38298 of|0.3617 a|0.34043 system|0.31915 These|0.29787 include|0.2766 graphical|0.25532 systems|0.23404 like|0.21277 the|0.19149 root|0.17021 locus|0.14894 Bode|0.12766 plots|0.10638 or|0.085106 the|0.06383 Nyquist|0.042553 plots|0.021277 |0",
+			"previous_weights": " then|0 the|0.25 Z|0.5 transform|0.75 is|1"
+		}
+	}
+}

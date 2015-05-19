@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "38cd1d2b2e4985c5008fd4c34dee1c50bedd66db234b1998ca1382f52b29b797",
+			"url": "https://upload.wikimedia.org/math/8/3/7/837f623ef299a4cbd62ffcdf7b478cca.png",
+			"previous": " Solving for Y s in terms of R s gives ",
+			"after": " The expression is referred to as the closed loop transfer function of the system The numerator is the forward open loop gain from r to y and the denominator is one plus the gain in going around the feedback loop the so called loop gain If i e it has a large norm with each value of s and if then Y s is approximately equal to R s and the output closely tracks the reference input ",
+			"color": "dim|0.34615 gray|0.34615 dim|0.34615 grey|0.34615 gray|0.30277 grey|0.30277 dark|0.19044 gray|0.19044 dark|0.19044 grey|0.19044 silver|0.080034 light|0.038515 gray|0.038515 light|0.038515 grey|0.038515 gainsboro|0.026548 white|0.0044736 smoke|0.0044736  ",
+			"after_weights": " The|1 expression|0.98701 is|0.97403 referred|0.96104 to|0.94805 as|0.93506 the|0.92208 closed|0.90909 loop|0.8961 transfer|0.88312 function|0.87013 of|0.85714 the|0.84416 system|0.83117 The|0.81818 numerator|0.80519 is|0.79221 the|0.77922 forward|0.76623 open|0.75325 loop|0.74026 gain|0.72727 from|0.71429 r|0.7013 to|0.68831 y|0.67532 and|0.66234 the|0.64935 denominator|0.63636 is|0.62338 one|0.61039 plus|0.5974 the|0.58442 gain|0.57143 in|0.55844 going|0.54545 around|0.53247 the|0.51948 feedback|0.50649 loop|0.49351 the|0.48052 so|0.46753 called|0.45455 loop|0.44156 gain|0.42857 If|0.41558 i|0.4026 e|0.38961 it|0.37662 has|0.36364 a|0.35065 large|0.33766 norm|0.32468 with|0.31169 each|0.2987 value|0.28571 of|0.27273 s|0.25974 and|0.24675 if|0.23377 then|0.22078 Y|0.20779 s|0.19481 is|0.18182 approximately|0.16883 equal|0.15584 to|0.14286 R|0.12987 s|0.11688 and|0.1039 the|0.090909 output|0.077922 closely|0.064935 tracks|0.051948 the|0.038961 reference|0.025974 input|0.012987 |0",
+			"previous_weights": " Solving|0 for|0.1 Y|0.2 s|0.3 in|0.4 terms|0.5 of|0.6 R|0.7 s|0.8 gives|0.9 |1"
+		}
+	}
+}

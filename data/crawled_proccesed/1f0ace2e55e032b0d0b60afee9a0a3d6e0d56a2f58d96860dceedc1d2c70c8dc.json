@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f0ace2e55e032b0d0b60afee9a0a3d6e0d56a2f58d96860dceedc1d2c70c8dc",
+			"url": "https://upload.wikimedia.org/math/6/a/a/6aaed5eda68b23a85df908fdf8dd9903.png",
+			"previous": " In particular if F is grade 1 vector valued function then we can write Let F be an r grade multivector Then we can define an additional pair of operators the interior and exterior derivatives ",
+			"after": " and identify the divergence and curl as Note however that these two operators are considerably weaker than the geometric derivative counterpart for several reasons Neither the interior derivative operator nor the exterior derivative operator is invertible ",
+			"color": "dim|0.38164 gray|0.38164 dim|0.38164 grey|0.38164 gray|0.31662 grey|0.31662 dark|0.18939 gray|0.18939 dark|0.18939 grey|0.18939 silver|0.059907 light|0.02168 gray|0.02168 light|0.02168 grey|0.02168 gainsboro|0.015736 white|0.0035871 smoke|0.0035871  ",
+			"after_weights": " and|1 identify|0.97222 the|0.94444 divergence|0.91667 and|0.88889 curl|0.86111 as|0.83333 Note|0.80556 however|0.77778 that|0.75 these|0.72222 two|0.69444 operators|0.66667 are|0.63889 considerably|0.61111 weaker|0.58333 than|0.55556 the|0.52778 geometric|0.5 derivative|0.47222 counterpart|0.44444 for|0.41667 several|0.38889 reasons|0.36111 Neither|0.33333 the|0.30556 interior|0.27778 derivative|0.25 operator|0.22222 nor|0.19444 the|0.16667 exterior|0.13889 derivative|0.11111 operator|0.083333 is|0.055556 invertible|0.027778 |0",
+			"previous_weights": " In|0 particular|0.028571 if|0.057143 F|0.085714 is|0.11429 grade|0.14286 1|0.17143 vector|0.2 valued|0.22857 function|0.25714 then|0.28571 we|0.31429 can|0.34286 write|0.37143 Let|0.4 F|0.42857 be|0.45714 an|0.48571 r|0.51429 grade|0.54286 multivector|0.57143 Then|0.6 we|0.62857 can|0.65714 define|0.68571 an|0.71429 additional|0.74286 pair|0.77143 of|0.8 operators|0.82857 the|0.85714 interior|0.88571 and|0.91429 exterior|0.94286 derivatives|0.97143 |1"
+		}
+	}
+}

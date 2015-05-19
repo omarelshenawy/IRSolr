@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "341388b9cc193bbde2b1568277d1f264dd246096869d394c3bd19417d156fe4c",
+			"url": "https://upload.wikimedia.org/math/b/f/e/bfef5bcdab19147dbfbb68112da17044.png",
+			"previous": " Any fundamental polygon can be written symbolically as follows Begin at any vertex and proceed around the perimeter of the polygon in either direction until returning to the starting vertex During this traversal record the label on each edge in order with an exponent of 1 if the edge points opposite to the direction of traversal The four models above when traversed clockwise starting at the upper left yield",
+			"after": " Note that the sphere and the projective plane can both be realized as quotients of the 2 gon while the torus and Klein bottle require a 4 gon square ",
+			"color": " ",
+			"after_weights": " Note|1 that|0.96552 the|0.93103 sphere|0.89655 and|0.86207 the|0.82759 projective|0.7931 plane|0.75862 can|0.72414 both|0.68966 be|0.65517 realized|0.62069 as|0.58621 quotients|0.55172 of|0.51724 the|0.48276 2|0.44828 gon|0.41379 while|0.37931 the|0.34483 torus|0.31034 and|0.27586 Klein|0.24138 bottle|0.2069 require|0.17241 a|0.13793 4|0.10345 gon|0.068966 square|0.034483 |0",
+			"previous_weights": " Any|0 fundamental|0.014706 polygon|0.029412 can|0.044118 be|0.058824 written|0.073529 symbolically|0.088235 as|0.10294 follows|0.11765 Begin|0.13235 at|0.14706 any|0.16176 vertex|0.17647 and|0.19118 proceed|0.20588 around|0.22059 the|0.23529 perimeter|0.25 of|0.26471 the|0.27941 polygon|0.29412 in|0.30882 either|0.32353 direction|0.33824 until|0.35294 returning|0.36765 to|0.38235 the|0.39706 starting|0.41176 vertex|0.42647 During|0.44118 this|0.45588 traversal|0.47059 record|0.48529 the|0.5 label|0.51471 on|0.52941 each|0.54412 edge|0.55882 in|0.57353 order|0.58824 with|0.60294 an|0.61765 exponent|0.63235 of|0.64706 1|0.66176 if|0.67647 the|0.69118 edge|0.70588 points|0.72059 opposite|0.73529 to|0.75 the|0.76471 direction|0.77941 of|0.79412 traversal|0.80882 The|0.82353 four|0.83824 models|0.85294 above|0.86765 when|0.88235 traversed|0.89706 clockwise|0.91176 starting|0.92647 at|0.94118 the|0.95588 upper|0.97059 left|0.98529 yield|1"
+		}
+	}
+}

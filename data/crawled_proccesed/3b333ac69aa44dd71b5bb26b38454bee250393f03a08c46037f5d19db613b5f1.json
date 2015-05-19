@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b333ac69aa44dd71b5bb26b38454bee250393f03a08c46037f5d19db613b5f1",
+			"url": "https://upload.wikimedia.org/math/0/5/e/05e42209d67fe1eb15a055e9d3b3770e.png",
+			"previous": " An alternative solution using algebraic geometry is given in Faucette 1996 and proceeds as follows more detailed discussion in reference In brief one interprets the roots as the intersection of two quadratic curves then finds the three reducible quadratic curves pairs of lines that pass through these points this corresponds to the resolvent cubic the pairs of lines being the Lagrange resolvents and then use these linear equations to solve the quadratic ",
+			"after": " These four points are not collinear because they lie on the irreducible quadratic and thus there is a 1 parameter family of quadratics a pencil of curves passing through these points Writing the projectivization of the two quadratics as quadratic forms in three variables ",
+			"color": " ",
+			"after_weights": " These|1 four|0.97727 points|0.95455 are|0.93182 not|0.90909 collinear|0.88636 because|0.86364 they|0.84091 lie|0.81818 on|0.79545 the|0.77273 irreducible|0.75 quadratic|0.72727 and|0.70455 thus|0.68182 there|0.65909 is|0.63636 a|0.61364 1|0.59091 parameter|0.56818 family|0.54545 of|0.52273 quadratics|0.5 a|0.47727 pencil|0.45455 of|0.43182 curves|0.40909 passing|0.38636 through|0.36364 these|0.34091 points|0.31818 Writing|0.29545 the|0.27273 projectivization|0.25 of|0.22727 the|0.20455 two|0.18182 quadratics|0.15909 as|0.13636 quadratic|0.11364 forms|0.090909 in|0.068182 three|0.045455 variables|0.022727 |0",
+			"previous_weights": " An|0 alternative|0.013889 solution|0.027778 using|0.041667 algebraic|0.055556 geometry|0.069444 is|0.083333 given|0.097222 in|0.11111 Faucette|0.125 1996|0.13889 and|0.15278 proceeds|0.16667 as|0.18056 follows|0.19444 more|0.20833 detailed|0.22222 discussion|0.23611 in|0.25 reference|0.26389 In|0.27778 brief|0.29167 one|0.30556 interprets|0.31944 the|0.33333 roots|0.34722 as|0.36111 the|0.375 intersection|0.38889 of|0.40278 two|0.41667 quadratic|0.43056 curves|0.44444 then|0.45833 finds|0.47222 the|0.48611 three|0.5 reducible|0.51389 quadratic|0.52778 curves|0.54167 pairs|0.55556 of|0.56944 lines|0.58333 that|0.59722 pass|0.61111 through|0.625 these|0.63889 points|0.65278 this|0.66667 corresponds|0.68056 to|0.69444 the|0.70833 resolvent|0.72222 cubic|0.73611 the|0.75 pairs|0.76389 of|0.77778 lines|0.79167 being|0.80556 the|0.81944 Lagrange|0.83333 resolvents|0.84722 and|0.86111 then|0.875 use|0.88889 these|0.90278 linear|0.91667 equations|0.93056 to|0.94444 solve|0.95833 the|0.97222 quadratic|0.98611 |1"
+		}
+	}
+}

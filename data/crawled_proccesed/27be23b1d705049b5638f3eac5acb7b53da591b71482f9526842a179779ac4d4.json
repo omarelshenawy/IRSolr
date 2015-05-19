@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27be23b1d705049b5638f3eac5acb7b53da591b71482f9526842a179779ac4d4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/AmericanGoldfinch23.jpg/150px-AmericanGoldfinch23.jpg",
+			"previous": " ",
+			"after": " Order Passeriformes Family Fringillidae Finches are seed eating passerines They are small to moderately large and have strong usually conical and sometimes very large beaks All have twelve tail feathers and nine primaries They have a bouncing flight with alternating bouts of flapping and gliding on closed wings and most sing well ",
+			"color": "brown|0.2961 gold|0.23974 indian|0.16203 red|0.16203 golden|0.10997 rod|0.10997 tan|0.046295 dark|0.024611 golden|0.024611 rod|0.024611 burly|0.015096 wood|0.015096  ",
+			"after_weights": " Order|1 Passeriformes|0.98077 Family|0.96154 Fringillidae|0.94231 Finches|0.92308 are|0.90385 seed|0.88462 eating|0.86538 passerines|0.84615 They|0.82692 are|0.80769 small|0.78846 to|0.76923 moderately|0.75 large|0.73077 and|0.71154 have|0.69231 strong|0.67308 usually|0.65385 conical|0.63462 and|0.61538 sometimes|0.59615 very|0.57692 large|0.55769 beaks|0.53846 All|0.51923 have|0.5 twelve|0.48077 tail|0.46154 feathers|0.44231 and|0.42308 nine|0.40385 primaries|0.38462 They|0.36538 have|0.34615 a|0.32692 bouncing|0.30769 flight|0.28846 with|0.26923 alternating|0.25 bouts|0.23077 of|0.21154 flapping|0.19231 and|0.17308 gliding|0.15385 on|0.13462 closed|0.11538 wings|0.096154 and|0.076923 most|0.057692 sing|0.038462 well|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

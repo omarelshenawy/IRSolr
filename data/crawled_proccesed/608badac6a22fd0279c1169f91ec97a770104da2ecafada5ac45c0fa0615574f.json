@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "608badac6a22fd0279c1169f91ec97a770104da2ecafada5ac45c0fa0615574f",
+			"url": "https://upload.wikimedia.org/math/7/c/f/7cff65bd458d8bf93a775c7c206ebdf9.png",
+			"previous": " so the squared length of the differential of the position four vector dX constructed using",
+			"after": " is an invariant Notice that when the line element dX2 is negative that dX2 is the differential of proper time while when dX2 is positive dX2 is differential of the proper distance ",
+			"color": "dim|0.25069 gray|0.25069 dim|0.25069 grey|0.25069 gray|0.2452 grey|0.2452 black|0.22638 dark|0.20032 gray|0.20032 dark|0.20032 grey|0.20032 silver|0.063098 light|0.011998 gray|0.011998 light|0.011998 grey|0.011998  ",
+			"after_weights": " is|1 an|0.96875 invariant|0.9375 Notice|0.90625 that|0.875 when|0.84375 the|0.8125 line|0.78125 element|0.75 dX2|0.71875 is|0.6875 negative|0.65625 that|0.625 dX2|0.59375 is|0.5625 the|0.53125 differential|0.5 of|0.46875 proper|0.4375 time|0.40625 while|0.375 when|0.34375 dX2|0.3125 is|0.28125 positive|0.25 dX2|0.21875 is|0.1875 differential|0.15625 of|0.125 the|0.09375 proper|0.0625 distance|0.03125 |0",
+			"previous_weights": " so|0 the|0.071429 squared|0.14286 length|0.21429 of|0.28571 the|0.35714 differential|0.42857 of|0.5 the|0.57143 position|0.64286 four|0.71429 vector|0.78571 dX|0.85714 constructed|0.92857 using|1"
+		}
+	}
+}

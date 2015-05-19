@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9bac45da3570bd9b6a1ecf91e9634e315ca657a118d71d6785686dc6f7c94df9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Myeloid_cells.png/300px-Myeloid_cells.png",
+			"previous": " ",
+			"after": " Phagocytes of humans and other jawed vertebrates are divided into professional and non professional groups based on the efficiency with which they participate in phagocytosis 9 The professional phagocytes are the monocytes macrophages neutrophils tissue dendritic cells and mast cells 10 One litre of human blood contains about six billion phagocytes 5 ",
+			"color": "indigo|0.27319 thistle|0.22233 lavender|0.10474 light|0.063352 gray|0.063352 light|0.063352 grey|0.063352 light|0.058692 steel|0.058692 blue|0.058692 gainsboro|0.054029 sea|0.038978 green|0.038978 blue|0.028226 violet|0.028226 light|0.02789 slate|0.02789 gray|0.02789 medium|0.020833 purple|0.020833 teal|0.014785 lavender|0.014496 blush|0.014496 silver|0.010753 ghost|0.0099713 white|0.0099713 white|0.0087728 smoke|0.0087728 alice|0.008 blue|0.008  ",
+			"after_weights": " Phagocytes|1 of|0.98077 humans|0.96154 and|0.94231 other|0.92308 jawed|0.90385 vertebrates|0.88462 are|0.86538 divided|0.84615 into|0.82692 professional|0.80769 and|0.78846 non|0.76923 professional|0.75 groups|0.73077 based|0.71154 on|0.69231 the|0.67308 efficiency|0.65385 with|0.63462 which|0.61538 they|0.59615 participate|0.57692 in|0.55769 phagocytosis|0.53846 9|0.51923 The|0.5 professional|0.48077 phagocytes|0.46154 are|0.44231 the|0.42308 monocytes|0.40385 macrophages|0.38462 neutrophils|0.36538 tissue|0.34615 dendritic|0.32692 cells|0.30769 and|0.28846 mast|0.26923 cells|0.25 10|0.23077 One|0.21154 litre|0.19231 of|0.17308 human|0.15385 blood|0.13462 contains|0.11538 about|0.096154 six|0.076923 billion|0.057692 phagocytes|0.038462 5|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "828ef9688ac08c3ac458c2facf791f1bf1461f186c9b91f7a2957f4e42dfaa9f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Wedding_aisle.jpg/220px-Wedding_aisle.jpg",
+			"previous": "  Aisles are distinguished from corridors hallways walkways footpaths pavements American English sidewalks trails paths and enclosed open areas ",
+			"after": " Aisles have certain general physical characteristics ",
+			"color": "light|0.38005 steel|0.38005 blue|0.38005 crimson|0.1722 dark|0.10883 olive|0.10883 green|0.10883 thistle|0.093042 firebrick|0.057845 silver|0.039743 brown|0.030157 orange|0.02422 red|0.02422 dark|0.018224 gray|0.018224 dark|0.018224 grey|0.018224 sienna|0.014385 dark|0.0098074 red|0.0098074 tomato|0.0084131 maroon|0.0066554  ",
+			"after_weights": " Aisles|1 have|0.83333 certain|0.66667 general|0.5 physical|0.33333 characteristics|0.16667 |0",
+			"previous_weights": " |0 Aisles|0.052632 are|0.10526 distinguished|0.15789 from|0.21053 corridors|0.26316 hallways|0.31579 walkways|0.36842 footpaths|0.42105 pavements|0.47368 American|0.52632 English|0.57895 sidewalks|0.63158 trails|0.68421 paths|0.73684 and|0.78947 enclosed|0.84211 open|0.89474 areas|0.94737 |1"
+		}
+	}
+}

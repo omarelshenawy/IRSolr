@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11a2e641c9a508350afe7751466837ac18eb4213940b6d8a1a252c4b6917eac9",
+			"url": "https://upload.wikimedia.org/math/3/b/5/3b57497793f8cbb2626530777000a61b.png",
+			"previous": " For the special case of small spherical objects moving slowly through a viscous fluid and thus at small Reynolds number George Gabriel Stokes derived an expression for the drag constant  which asymptotically approaches the terminal velocity For a given heavier objects fall more quickly ",
+			"after": " where ",
+			"color": "dim|0.36317 gray|0.36317 dim|0.36317 grey|0.36317 gray|0.29014 grey|0.29014 dark|0.17775 gray|0.17775 dark|0.17775 grey|0.17775 silver|0.076923 light|0.038717 gray|0.038717 light|0.038717 grey|0.038717 gainsboro|0.027587 white|0.0057448 smoke|0.0057448 linen|0.0028776  ",
+			"after_weights": " where|1 |0",
+			"previous_weights": " For|0 the|0.022222 special|0.044444 case|0.066667 of|0.088889 small|0.11111 spherical|0.13333 objects|0.15556 moving|0.17778 slowly|0.2 through|0.22222 a|0.24444 viscous|0.26667 fluid|0.28889 and|0.31111 thus|0.33333 at|0.35556 small|0.37778 Reynolds|0.4 number|0.42222 George|0.44444 Gabriel|0.46667 Stokes|0.48889 derived|0.51111 an|0.53333 expression|0.55556 for|0.57778 the|0.6 drag|0.62222 constant|0.64444 |0.66667 which|0.68889 asymptotically|0.71111 approaches|0.73333 the|0.75556 terminal|0.77778 velocity|0.8 For|0.82222 a|0.84444 given|0.86667 heavier|0.88889 objects|0.91111 fall|0.93333 more|0.95556 quickly|0.97778 |1"
+		}
+	}
+}

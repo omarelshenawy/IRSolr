@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "96047bb6c2be7ae9aec08aa539e9618d2623cdd2bed69538f61372849e0195fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Belleair_A320_F-ORAE_Tirana.jpg/220px-Belleair_A320_F-ORAE_Tirana.jpg",
+			"previous": "  Belle Air Europe was a sister company to the airline founded in 2009 and based in Ancona Italy It ceased operations two days after the parent company 6 ",
+			"after": " As of November 2013 at the time when it ceased operations the Belle Air fleet consisted of the following aircraft ",
+			"color": "dim|0.50271 gray|0.50271 dim|0.50271 grey|0.50271 gray|0.28871 grey|0.28871 dark|0.067797 gray|0.067797 dark|0.067797 grey|0.067797 silver|0.042485 light|0.031974 gray|0.031974 light|0.031974 grey|0.031974 gainsboro|0.025152 black|0.0086603 white|0.0056658 smoke|0.0056658 rosy|0.0044185 brown|0.0044185  ",
+			"after_weights": " As|1 of|0.95 November|0.9 2013|0.85 at|0.8 the|0.75 time|0.7 when|0.65 it|0.6 ceased|0.55 operations|0.5 the|0.45 Belle|0.4 Air|0.35 fleet|0.3 consisted|0.25 of|0.2 the|0.15 following|0.1 aircraft|0.05 |0",
+			"previous_weights": " |0 Belle|0.034483 Air|0.068966 Europe|0.10345 was|0.13793 a|0.17241 sister|0.2069 company|0.24138 to|0.27586 the|0.31034 airline|0.34483 founded|0.37931 in|0.41379 2009|0.44828 and|0.48276 based|0.51724 in|0.55172 Ancona|0.58621 Italy|0.62069 It|0.65517 ceased|0.68966 operations|0.72414 two|0.75862 days|0.7931 after|0.82759 the|0.86207 parent|0.89655 company|0.93103 6|0.96552 |1"
+		}
+	}
+}

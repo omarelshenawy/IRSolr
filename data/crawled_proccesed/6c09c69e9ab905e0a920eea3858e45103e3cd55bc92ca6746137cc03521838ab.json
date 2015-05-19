@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c09c69e9ab905e0a920eea3858e45103e3cd55bc92ca6746137cc03521838ab",
+			"url": "https://upload.wikimedia.org/math/4/e/6/4e69b5912ec335e672bdd51625158578.png",
+			"previous": " which has the solution  For 1 the equation becomes  known as the characteristic polynomial of the matrix A In this case it has the roots 1 and 3 ",
+			"after": " For 3 the equation becomes  which has the solution ",
+			"color": "dim|0.38256 gray|0.38256 dim|0.38256 grey|0.38256 gray|0.25992 grey|0.25992 dark|0.20517 gray|0.20517 dark|0.20517 grey|0.20517 silver|0.090772 light|0.029892 gray|0.029892 light|0.029892 grey|0.029892 gainsboro|0.02199  ",
+			"after_weights": " For|1 3|0.9 the|0.8 equation|0.7 becomes|0.6 |0.5 which|0.4 has|0.3 the|0.2 solution|0.1 |0",
+			"previous_weights": " which|0 has|0.033333 the|0.066667 solution|0.1 |0.13333 For|0.16667 1|0.2 the|0.23333 equation|0.26667 becomes|0.3 |0.33333 known|0.36667 as|0.4 the|0.43333 characteristic|0.46667 polynomial|0.5 of|0.53333 the|0.56667 matrix|0.6 A|0.63333 In|0.66667 this|0.7 case|0.73333 it|0.76667 has|0.8 the|0.83333 roots|0.86667 1|0.9 and|0.93333 3|0.96667 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fb231aac1d5941112a1a8659f51a7442c8c40e0c3a918342c61d56bac87c86c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dolphin_FileManager.png/256px-Dolphin_FileManager.png",
+			"previous": " ",
+			"after": " Access to data stored on disks is a central feature of all operating systems Computers store data on disks using files which are structured in specific ways in order to allow for faster access higher reliability and to make better use out of the drive s available space The specific way in which files are stored on a disk is called a file system and enables files to have names and attributes It also allows them to be stored in a hierarchy of directories or folders arranged in a directory tree ",
+			"color": "black|0.54336 dim|0.13623 gray|0.13623 dim|0.13623 grey|0.13623 gray|0.049621 grey|0.049621 dark|0.048093 slate|0.048093 gray|0.048093 sienna|0.045968 chocolate|0.025747 peru|0.019128 slate|0.018531 gray|0.018531 rosy|0.014331 brown|0.014331 dark|0.012367 gray|0.012367 dark|0.012367 grey|0.012367 brown|0.0096956 light|0.0096652 slate|0.0096652 gray|0.0096652 orange|0.0077726 red|0.0077726  ",
+			"after_weights": " Access|1 to|0.98901 data|0.97802 stored|0.96703 on|0.95604 disks|0.94505 is|0.93407 a|0.92308 central|0.91209 feature|0.9011 of|0.89011 all|0.87912 operating|0.86813 systems|0.85714 Computers|0.84615 store|0.83516 data|0.82418 on|0.81319 disks|0.8022 using|0.79121 files|0.78022 which|0.76923 are|0.75824 structured|0.74725 in|0.73626 specific|0.72527 ways|0.71429 in|0.7033 order|0.69231 to|0.68132 allow|0.67033 for|0.65934 faster|0.64835 access|0.63736 higher|0.62637 reliability|0.61538 and|0.6044 to|0.59341 make|0.58242 better|0.57143 use|0.56044 out|0.54945 of|0.53846 the|0.52747 drive|0.51648 s|0.50549 available|0.49451 space|0.48352 The|0.47253 specific|0.46154 way|0.45055 in|0.43956 which|0.42857 files|0.41758 are|0.40659 stored|0.3956 on|0.38462 a|0.37363 disk|0.36264 is|0.35165 called|0.34066 a|0.32967 file|0.31868 system|0.30769 and|0.2967 enables|0.28571 files|0.27473 to|0.26374 have|0.25275 names|0.24176 and|0.23077 attributes|0.21978 It|0.20879 also|0.1978 allows|0.18681 them|0.17582 to|0.16484 be|0.15385 stored|0.14286 in|0.13187 a|0.12088 hierarchy|0.10989 of|0.098901 directories|0.087912 or|0.076923 folders|0.065934 arranged|0.054945 in|0.043956 a|0.032967 directory|0.021978 tree|0.010989 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b3ca51e8641e8cc990d60db65b7ddd70f7ab4fa093eff3f0e5746129e207e06",
+			"url": "https://upload.wikimedia.org/math/4/2/2/422ad74bddb492c0ef71fab1e60c51d2.png",
+			"previous": " or Now consider the linear transformation of n dimensional vectors defined by an n n matrix A that is  In this case 1 20 ",
+			"after": " where for each index  If it occurs that w and v are scalar multiples that is if",
+			"color": "gray|0.3328 grey|0.3328 dim|0.30196 gray|0.30196 dim|0.30196 grey|0.30196 dark|0.18065 gray|0.18065 dark|0.18065 grey|0.18065 silver|0.085608 light|0.044219 gray|0.044219 light|0.044219 grey|0.044219 gainsboro|0.027944 white|0.0052728 smoke|0.0052728 lavender|0.002945 blush|0.002945 alice|0.002945 blue|0.002945 linen|0.0028623 ghost|0.0027875 white|0.0027875 sea|0.0026862 shell|0.0026862 snow|0.0026271  ",
+			"after_weights": " where|1 for|0.94118 each|0.88235 index|0.82353 |0.76471 If|0.70588 it|0.64706 occurs|0.58824 that|0.52941 w|0.47059 and|0.41176 v|0.35294 are|0.29412 scalar|0.23529 multiples|0.17647 that|0.11765 is|0.058824 if|0",
+			"previous_weights": " or|0 Now|0.04 consider|0.08 the|0.12 linear|0.16 transformation|0.2 of|0.24 n|0.28 dimensional|0.32 vectors|0.36 defined|0.4 by|0.44 an|0.48 n|0.52 n|0.56 matrix|0.6 A|0.64 that|0.68 is|0.72 |0.76 In|0.8 this|0.84 case|0.88 1|0.92 20|0.96 |1"
+		}
+	}
+}

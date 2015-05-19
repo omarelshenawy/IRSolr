@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b57a15162337aaa045bb3fa531d62cb30e4a482308adad4b651ec4dbfefcb9f",
+			"url": "https://upload.wikimedia.org/math/b/0/3/b030c30d5f9fd842ee39b626acfeafe0.png",
+			"previous": " There are two sources of heat input The dominant source is the input of heat at the surface primarily due to evaporation The bulk aerodynamic formula for the rate of heat input per unit area at the surface is given by",
+			"after": " where represents the enthalpy difference between the ocean surface and the overlying air The second source is the internal sensible heat generated from frictional dissipation equal to which occurs near the surface within the tropical cyclone and is recycled to the system ",
+			"color": "dim|0.29352 gray|0.29352 dim|0.29352 grey|0.29352 gray|0.28826 grey|0.28826 dark|0.20707 gray|0.20707 dark|0.20707 grey|0.20707 silver|0.10855 light|0.052822 gray|0.052822 light|0.052822 grey|0.052822 gainsboro|0.034359 white|0.0037449 smoke|0.0037449  ",
+			"after_weights": " where|1 represents|0.97619 the|0.95238 enthalpy|0.92857 difference|0.90476 between|0.88095 the|0.85714 ocean|0.83333 surface|0.80952 and|0.78571 the|0.7619 overlying|0.7381 air|0.71429 The|0.69048 second|0.66667 source|0.64286 is|0.61905 the|0.59524 internal|0.57143 sensible|0.54762 heat|0.52381 generated|0.5 from|0.47619 frictional|0.45238 dissipation|0.42857 equal|0.40476 to|0.38095 which|0.35714 occurs|0.33333 near|0.30952 the|0.28571 surface|0.2619 within|0.2381 the|0.21429 tropical|0.19048 cyclone|0.16667 and|0.14286 is|0.11905 recycled|0.095238 to|0.071429 the|0.047619 system|0.02381 |0",
+			"previous_weights": " There|0 are|0.025 two|0.05 sources|0.075 of|0.1 heat|0.125 input|0.15 The|0.175 dominant|0.2 source|0.225 is|0.25 the|0.275 input|0.3 of|0.325 heat|0.35 at|0.375 the|0.4 surface|0.425 primarily|0.45 due|0.475 to|0.5 evaporation|0.525 The|0.55 bulk|0.575 aerodynamic|0.6 formula|0.625 for|0.65 the|0.675 rate|0.7 of|0.725 heat|0.75 input|0.775 per|0.8 unit|0.825 area|0.85 at|0.875 the|0.9 surface|0.925 is|0.95 given|0.975 by|1"
+		}
+	}
+}

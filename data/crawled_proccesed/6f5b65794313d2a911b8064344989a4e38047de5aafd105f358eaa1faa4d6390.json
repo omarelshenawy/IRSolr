@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f5b65794313d2a911b8064344989a4e38047de5aafd105f358eaa1faa4d6390",
+			"url": "https://upload.wikimedia.org/math/a/1/0/a10c7f2aa138b1565920d17c22062a35.png",
+			"previous": " from which we obtain whence then by subtracting 1 from both sides of the equation and then dividing both sides by 3 we obtain",
+			"after": " For example if  then There are different methods to solve a system of linear equations with two variables ",
+			"color": "dark|0.32617 gray|0.32617 dark|0.32617 grey|0.32617 gray|0.24637 grey|0.24637 silver|0.17239 light|0.094788 gray|0.094788 light|0.094788 grey|0.094788 gainsboro|0.066721 dim|0.05827 gray|0.05827 dim|0.05827 grey|0.05827 white|0.011328 smoke|0.011328 linen|0.0050553 lavender|0.0038899 blush|0.0038899 alice|0.0036828 blue|0.0036828 ghost|0.003395 white|0.003395 sea|0.0032224 shell|0.0032224 snow|0.0030713  ",
+			"after_weights": " For|1 example|0.94737 if|0.89474 |0.84211 then|0.78947 There|0.73684 are|0.68421 different|0.63158 methods|0.57895 to|0.52632 solve|0.47368 a|0.42105 system|0.36842 of|0.31579 linear|0.26316 equations|0.21053 with|0.15789 two|0.10526 variables|0.052632 |0",
+			"previous_weights": " from|0 which|0.043478 we|0.086957 obtain|0.13043 whence|0.17391 then|0.21739 by|0.26087 subtracting|0.30435 1|0.34783 from|0.3913 both|0.43478 sides|0.47826 of|0.52174 the|0.56522 equation|0.6087 and|0.65217 then|0.69565 dividing|0.73913 both|0.78261 sides|0.82609 by|0.86957 3|0.91304 we|0.95652 obtain|1"
+		}
+	}
+}

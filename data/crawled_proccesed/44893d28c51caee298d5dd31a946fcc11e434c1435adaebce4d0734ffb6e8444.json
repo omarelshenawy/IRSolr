@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "44893d28c51caee298d5dd31a946fcc11e434c1435adaebce4d0734ffb6e8444",
+			"url": "https://upload.wikimedia.org/math/e/0/0/e00ea30df50e9af0a68e4b4248885058.png",
+			"previous": " seemed capriciously inconsistent with the algebraic identity",
+			"after": " which is valid for positive real numbers a and b and was also used in complex number calculations with one of a b positive and the other negative The incorrect use of this identity and the related identity",
+			"color": "gray|0.32731 grey|0.32731 dim|0.30472 gray|0.30472 dim|0.30472 grey|0.30472 dark|0.21498 gray|0.21498 dark|0.21498 grey|0.21498 silver|0.082619 light|0.034384 gray|0.034384 light|0.034384 grey|0.034384 gainsboro|0.022548 white|0.0036658 smoke|0.0036658  ",
+			"after_weights": " which|1 is|0.97297 valid|0.94595 for|0.91892 positive|0.89189 real|0.86486 numbers|0.83784 a|0.81081 and|0.78378 b|0.75676 and|0.72973 was|0.7027 also|0.67568 used|0.64865 in|0.62162 complex|0.59459 number|0.56757 calculations|0.54054 with|0.51351 one|0.48649 of|0.45946 a|0.43243 b|0.40541 positive|0.37838 and|0.35135 the|0.32432 other|0.2973 negative|0.27027 The|0.24324 incorrect|0.21622 use|0.18919 of|0.16216 this|0.13514 identity|0.10811 and|0.081081 the|0.054054 related|0.027027 identity|0",
+			"previous_weights": " seemed|0 capriciously|0.16667 inconsistent|0.33333 with|0.5 the|0.66667 algebraic|0.83333 identity|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "724aed403b29ed1245ad037c7fa97b07df1b44592ce3ee829da92bd16b336d81",
+			"url": "https://upload.wikimedia.org/math/0/0/f/00fa91012c19f237403f36589a916e06.png",
+			"previous": " Fermat s principle states that light takes a path that locally minimizes the optical length between its endpoints If the x coordinate is chosen as the parameter along the path and along the path then the optical length is given by",
+			"after": " After integration by parts of the first term within brackets we obtain the Euler Lagrange equation",
+			"color": "gray|0.30989 grey|0.30989 dark|0.27979 gray|0.27979 dark|0.27979 grey|0.27979 dim|0.14048 gray|0.14048 dim|0.14048 grey|0.14048 silver|0.12779 light|0.064275 gray|0.064275 light|0.064275 grey|0.064275 gainsboro|0.044869 white|0.00814 smoke|0.00814 linen|0.0040061 lavender|0.0036663 blush|0.0036663 alice|0.0035291 blue|0.0035291 ghost|0.0033525 white|0.0033525 sea|0.0031654 shell|0.0031654 snow|0.0030095  ",
+			"after_weights": " After|1 integration|0.93333 by|0.86667 parts|0.8 of|0.73333 the|0.66667 first|0.6 term|0.53333 within|0.46667 brackets|0.4 we|0.33333 obtain|0.26667 the|0.2 Euler|0.13333 Lagrange|0.066667 equation|0",
+			"previous_weights": " Fermat|0 s|0.025 principle|0.05 states|0.075 that|0.1 light|0.125 takes|0.15 a|0.175 path|0.2 that|0.225 locally|0.25 minimizes|0.275 the|0.3 optical|0.325 length|0.35 between|0.375 its|0.4 endpoints|0.425 If|0.45 the|0.475 x|0.5 coordinate|0.525 is|0.55 chosen|0.575 as|0.6 the|0.625 parameter|0.65 along|0.675 the|0.7 path|0.725 and|0.75 along|0.775 the|0.8 path|0.825 then|0.85 the|0.875 optical|0.9 length|0.925 is|0.95 given|0.975 by|1"
+		}
+	}
+}

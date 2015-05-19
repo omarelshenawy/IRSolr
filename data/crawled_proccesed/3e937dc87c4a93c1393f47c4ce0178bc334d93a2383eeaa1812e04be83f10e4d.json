@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e937dc87c4a93c1393f47c4ce0178bc334d93a2383eeaa1812e04be83f10e4d",
+			"url": "https://upload.wikimedia.org/math/d/b/b/dbb551c0e0dbf23c75b37ef11a0a0192.png",
+			"previous": " Lines in a Cartesian plane or more generally in affine coordinates can be described algebraically by linear equations In two dimensions the equation for non vertical lines is often given in the slope intercept form ",
+			"after": " where ",
+			"color": "black|0.42397 dim|0.24466 gray|0.24466 dim|0.24466 grey|0.24466 gray|0.15567 grey|0.15567 dark|0.093952 gray|0.093952 dark|0.093952 grey|0.093952 silver|0.040444 light|0.018858 gray|0.018858 light|0.018858 grey|0.018858 gainsboro|0.013109  ",
+			"after_weights": " where|1 |0",
+			"previous_weights": " Lines|0 in|0.028571 a|0.057143 Cartesian|0.085714 plane|0.11429 or|0.14286 more|0.17143 generally|0.2 in|0.22857 affine|0.25714 coordinates|0.28571 can|0.31429 be|0.34286 described|0.37143 algebraically|0.4 by|0.42857 linear|0.45714 equations|0.48571 In|0.51429 two|0.54286 dimensions|0.57143 the|0.6 equation|0.62857 for|0.65714 non|0.68571 vertical|0.71429 lines|0.74286 is|0.77143 often|0.8 given|0.82857 in|0.85714 the|0.88571 slope|0.91429 intercept|0.94286 form|0.97143 |1"
+		}
+	}
+}

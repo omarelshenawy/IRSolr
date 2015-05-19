@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7d531db86119ab9d9f8b87bbb41fdcb9f0b5ba9b99b5d88dd35987017f616b",
+			"url": "https://upload.wikimedia.org/math/0/1/b/01b45805f45fc97e4d4934889a6c1117.png",
+			"previous": " A more general expression for the potential energy of a membrane is",
+			"after": " This corresponds to an external force density in D an external force on the boundary C and elastic forces with modulus acting on C The function that minimizes the potential energy with no restriction on its boundary values will be denoted by u Provided that f and g are continuous regularity theory implies that the minimizing function u will have two derivatives In taking the first variation no boundary condition need be imposed on the increment v The first variation of is given by",
+			"color": "dim|0.34667 gray|0.34667 dim|0.34667 grey|0.34667 gray|0.2803 grey|0.2803 dark|0.19644 gray|0.19644 dark|0.19644 grey|0.19644 silver|0.076217 light|0.041116 gray|0.041116 light|0.041116 grey|0.041116 gainsboro|0.030351 white|0.0071145 smoke|0.0071145 linen|0.0038572 lavender|0.00354 blush|0.00354 alice|0.0034946 blue|0.0034946 ghost|0.0034534 white|0.0034534 sea|0.0033592 shell|0.0033592  ",
+			"after_weights": " This|1 corresponds|0.98795 to|0.9759 an|0.96386 external|0.95181 force|0.93976 density|0.92771 in|0.91566 D|0.90361 an|0.89157 external|0.87952 force|0.86747 on|0.85542 the|0.84337 boundary|0.83133 C|0.81928 and|0.80723 elastic|0.79518 forces|0.78313 with|0.77108 modulus|0.75904 acting|0.74699 on|0.73494 C|0.72289 The|0.71084 function|0.6988 that|0.68675 minimizes|0.6747 the|0.66265 potential|0.6506 energy|0.63855 with|0.62651 no|0.61446 restriction|0.60241 on|0.59036 its|0.57831 boundary|0.56627 values|0.55422 will|0.54217 be|0.53012 denoted|0.51807 by|0.50602 u|0.49398 Provided|0.48193 that|0.46988 f|0.45783 and|0.44578 g|0.43373 are|0.42169 continuous|0.40964 regularity|0.39759 theory|0.38554 implies|0.37349 that|0.36145 the|0.3494 minimizing|0.33735 function|0.3253 u|0.31325 will|0.3012 have|0.28916 two|0.27711 derivatives|0.26506 In|0.25301 taking|0.24096 the|0.22892 first|0.21687 variation|0.20482 no|0.19277 boundary|0.18072 condition|0.16867 need|0.15663 be|0.14458 imposed|0.13253 on|0.12048 the|0.10843 increment|0.096386 v|0.084337 The|0.072289 first|0.060241 variation|0.048193 of|0.036145 is|0.024096 given|0.012048 by|0",
+			"previous_weights": " A|0 more|0.090909 general|0.18182 expression|0.27273 for|0.36364 the|0.45455 potential|0.54545 energy|0.63636 of|0.72727 a|0.81818 membrane|0.90909 is|1"
+		}
+	}
+}

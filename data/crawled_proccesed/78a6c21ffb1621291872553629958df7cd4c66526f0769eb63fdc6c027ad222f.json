@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78a6c21ffb1621291872553629958df7cd4c66526f0769eb63fdc6c027ad222f",
+			"url": "https://upload.wikimedia.org/math/c/b/1/cb1430042a6a9117419795f80c6c5c29.png",
+			"previous": " Similar interpretations are true for any number of vectors spanning an n dimensional parallelotope the outer product of vectors a1 a2 an that is has a magnitude equal to the volume of the n parallelotope An n vector doesn t necessarily have a shape of a parallelotope this is a convenient visualization It could be any shape although the volume equals that of the parallelotope ",
+			"after": " As an example assume that we get Scaling R so that RR 1 then",
+			"color": "dim|0.30287 gray|0.30287 dim|0.30287 grey|0.30287 black|0.24806 gray|0.19556 grey|0.19556 dark|0.12893 gray|0.12893 dark|0.12893 grey|0.12893 silver|0.05762 light|0.029072 gray|0.029072 light|0.029072 grey|0.029072 gainsboro|0.020477 white|0.003676 smoke|0.003676  ",
+			"after_weights": " As|1 an|0.92308 example|0.84615 assume|0.76923 that|0.69231 we|0.61538 get|0.53846 Scaling|0.46154 R|0.38462 so|0.30769 that|0.23077 RR|0.15385 1|0.076923 then|0",
+			"previous_weights": " Similar|0 interpretations|0.015385 are|0.030769 true|0.046154 for|0.061538 any|0.076923 number|0.092308 of|0.10769 vectors|0.12308 spanning|0.13846 an|0.15385 n|0.16923 dimensional|0.18462 parallelotope|0.2 the|0.21538 outer|0.23077 product|0.24615 of|0.26154 vectors|0.27692 a1|0.29231 a2|0.30769 an|0.32308 that|0.33846 is|0.35385 has|0.36923 a|0.38462 magnitude|0.4 equal|0.41538 to|0.43077 the|0.44615 volume|0.46154 of|0.47692 the|0.49231 n|0.50769 parallelotope|0.52308 An|0.53846 n|0.55385 vector|0.56923 doesn|0.58462 t|0.6 necessarily|0.61538 have|0.63077 a|0.64615 shape|0.66154 of|0.67692 a|0.69231 parallelotope|0.70769 this|0.72308 is|0.73846 a|0.75385 convenient|0.76923 visualization|0.78462 It|0.8 could|0.81538 be|0.83077 any|0.84615 shape|0.86154 although|0.87692 the|0.89231 volume|0.90769 equals|0.92308 that|0.93846 of|0.95385 the|0.96923 parallelotope|0.98462 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cd3e9eaac1c5b423a2d70d7e0d96bce94ce386f964bb8b43e072b116e9d24d2",
+			"url": "https://upload.wikimedia.org/math/e/6/f/e6ffada4224eada2e336a363346a0953.png",
+			"previous": " Where Drag divergence Mach numbers Mdd for a given family of propeller airfoils can be approximated by Korn s relation 3 ",
+			"after": " K 0 87 for conventional airfoils 6 series 4 K 0 95 for supercritical airfoils",
+			"color": "gray|0.30911 grey|0.30911 dim|0.3048 gray|0.3048 dim|0.3048 grey|0.3048 dark|0.21431 gray|0.21431 dark|0.21431 grey|0.21431 black|0.10906 silver|0.055302 light|0.0061345 gray|0.0061345 light|0.0061345 grey|0.0061345  ",
+			"after_weights": " K|1 0|0.92857 87|0.85714 for|0.78571 conventional|0.71429 airfoils|0.64286 6|0.57143 series|0.5 4|0.42857 K|0.35714 0|0.28571 95|0.21429 for|0.14286 supercritical|0.071429 airfoils|0",
+			"previous_weights": " Where|0 Drag|0.047619 divergence|0.095238 Mach|0.14286 numbers|0.19048 Mdd|0.2381 for|0.28571 a|0.33333 given|0.38095 family|0.42857 of|0.47619 propeller|0.52381 airfoils|0.57143 can|0.61905 be|0.66667 approximated|0.71429 by|0.7619 Korn|0.80952 s|0.85714 relation|0.90476 3|0.95238 |1"
+		}
+	}
+}

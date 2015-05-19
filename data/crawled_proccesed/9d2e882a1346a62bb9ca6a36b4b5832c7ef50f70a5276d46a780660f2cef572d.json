@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d2e882a1346a62bb9ca6a36b4b5832c7ef50f70a5276d46a780660f2cef572d",
+			"url": "https://upload.wikimedia.org/math/d/4/b/d4b23f63a9835eeb7a4de8f1b4e16cca.png",
+			"previous": " where is time remaining until cash flow ",
+			"after": " This formalizes time value of money to future values of cash flows with varying discount rates and is the basis of many formulas in financial mathematics such as the Black Scholes formula with varying interest rates ",
+			"color": "gray|0.31727 grey|0.31727 dim|0.31068 gray|0.31068 dim|0.31068 grey|0.31068 dark|0.1958 gray|0.1958 dark|0.1958 grey|0.1958 silver|0.082025 light|0.040318 gray|0.040318 light|0.040318 grey|0.040318 gainsboro|0.028256 white|0.0057267 smoke|0.0057267 lavender|0.0028511 blush|0.0028511 alice|0.0027881 blue|0.0027881 linen|0.0027184  ",
+			"after_weights": " This|1 formalizes|0.97222 time|0.94444 value|0.91667 of|0.88889 money|0.86111 to|0.83333 future|0.80556 values|0.77778 of|0.75 cash|0.72222 flows|0.69444 with|0.66667 varying|0.63889 discount|0.61111 rates|0.58333 and|0.55556 is|0.52778 the|0.5 basis|0.47222 of|0.44444 many|0.41667 formulas|0.38889 in|0.36111 financial|0.33333 mathematics|0.30556 such|0.27778 as|0.25 the|0.22222 Black|0.19444 Scholes|0.16667 formula|0.13889 with|0.11111 varying|0.083333 interest|0.055556 rates|0.027778 |0",
+			"previous_weights": " where|0 is|0.14286 time|0.28571 remaining|0.42857 until|0.57143 cash|0.71429 flow|0.85714 |1"
+		}
+	}
+}

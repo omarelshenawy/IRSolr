@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6fbc6d0c139690cdbfa55f38c83fe1c0d8dbcc5a2d9a20ce262938ff3de90420",
+			"url": "https://upload.wikimedia.org/math/0/b/1/0b1213c91b405c48d1a34aa5ae11465d.png",
+			"previous": " and the radius of the sphere is taken as and",
+			"after": " An example of the use of the authalic latitude is the Albers equal area conic projection Snyder 10 Section 14  The conformal latitude gives an angle preserving conformal transformation to the sphere ",
+			"color": "dim|0.3159 gray|0.3159 dim|0.3159 grey|0.3159 gray|0.22572 grey|0.22572 black|0.21529 dark|0.13425 gray|0.13425 dark|0.13425 grey|0.13425 silver|0.055132 light|0.025285 gray|0.025285 light|0.025285 grey|0.025285 gainsboro|0.017373  ",
+			"after_weights": " An|1 example|0.9697 of|0.93939 the|0.90909 use|0.87879 of|0.84848 the|0.81818 authalic|0.78788 latitude|0.75758 is|0.72727 the|0.69697 Albers|0.66667 equal|0.63636 area|0.60606 conic|0.57576 projection|0.54545 Snyder|0.51515 10|0.48485 Section|0.45455 14|0.42424 |0.39394 The|0.36364 conformal|0.33333 latitude|0.30303 gives|0.27273 an|0.24242 angle|0.21212 preserving|0.18182 conformal|0.15152 transformation|0.12121 to|0.090909 the|0.060606 sphere|0.030303 |0",
+			"previous_weights": " and|0 the|0.11111 radius|0.22222 of|0.33333 the|0.44444 sphere|0.55556 is|0.66667 taken|0.77778 as|0.88889 and|1"
+		}
+	}
+}

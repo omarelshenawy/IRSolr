@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b6ca92a1b1a2aad80ee581cfe84b9c6cbfbc39424d43ebccdbfe1f8702d98f3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Huddersfield_002.jpg/220px-Huddersfield_002.jpg",
+			"previous": " ",
+			"after": " Football and rugby league are the main spectator sports in Huddersfield Its professional football team Huddersfield Town F C play in the Championship In 1926 the club became the first in England to win three successive league titles a feat only three other clubs have matched ",
+			"color": "dark|0.79567 olive|0.79567 green|0.79567 black|0.069219 dim|0.032294 gray|0.032294 dim|0.032294 grey|0.032294 olive|0.021493 drab|0.021493 slate|0.015743 gray|0.015743 light|0.014672 slate|0.014672 gray|0.014672 gray|0.012781 grey|0.012781 dark|0.0093134 gray|0.0093134 dark|0.0093134 grey|0.0093134  ",
+			"after_weights": " Football|1 and|0.97826 rugby|0.95652 league|0.93478 are|0.91304 the|0.8913 main|0.86957 spectator|0.84783 sports|0.82609 in|0.80435 Huddersfield|0.78261 Its|0.76087 professional|0.73913 football|0.71739 team|0.69565 Huddersfield|0.67391 Town|0.65217 F|0.63043 C|0.6087 play|0.58696 in|0.56522 the|0.54348 Championship|0.52174 In|0.5 1926|0.47826 the|0.45652 club|0.43478 became|0.41304 the|0.3913 first|0.36957 in|0.34783 England|0.32609 to|0.30435 win|0.28261 three|0.26087 successive|0.23913 league|0.21739 titles|0.19565 a|0.17391 feat|0.15217 only|0.13043 three|0.1087 other|0.086957 clubs|0.065217 have|0.043478 matched|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

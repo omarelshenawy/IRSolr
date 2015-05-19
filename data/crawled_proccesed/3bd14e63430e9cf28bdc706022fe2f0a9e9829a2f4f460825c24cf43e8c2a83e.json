@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bd14e63430e9cf28bdc706022fe2f0a9e9829a2f4f460825c24cf43e8c2a83e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Flag_of_Venda.svg/23px-Flag_of_Venda.svg.png",
+			"previous": " The majority of the helicopters are operated by various emergency services although it is also operated by private individuals companies and executive charter operators ",
+			"after": " Data from Jane s All The World s Aircraft 1993 94 33  General characteristics Performance",
+			"color": "dark|0.33503 golden|0.33503 rod|0.33503 forest|0.27559 green|0.27559 gold|0.18073 yellow|0.16839 green|0.16839  ",
+			"after_weights": " Data|1 from|0.93333 Jane|0.86667 s|0.8 All|0.73333 The|0.66667 World|0.6 s|0.53333 Aircraft|0.46667 1993|0.4 94|0.33333 33|0.26667 |0.2 General|0.13333 characteristics|0.066667 Performance|0",
+			"previous_weights": " The|0 majority|0.041667 of|0.083333 the|0.125 helicopters|0.16667 are|0.20833 operated|0.25 by|0.29167 various|0.33333 emergency|0.375 services|0.41667 although|0.45833 it|0.5 is|0.54167 also|0.58333 operated|0.625 by|0.66667 private|0.70833 individuals|0.75 companies|0.79167 and|0.83333 executive|0.875 charter|0.91667 operators|0.95833 |1"
+		}
+	}
+}

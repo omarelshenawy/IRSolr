@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "634d6c01b5612f5b80d7403921bd1e9906ecce241166d8571d6c47653bcb9eef",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sandhill_Cranes_at_Hontoon_Island.jpg/220px-Sandhill_Cranes_at_Hontoon_Island.jpg",
+			"previous": " The limpkin is an odd bird that looks like a large rail but is skeletally closer to the cranes It is found in marshes with some trees or scrub in the Caribbean South America and southern Florida ",
+			"after": " Order Gruiformes Family Gruidae Cranes are large tall birds with long legs and long necks Unlike the similar looking but un related herons cranes fly with necks extended Most have elaborate and noisy courtship displays or dances When in a group they may also dance for no particular reason jumping up and down in an elegant manner seemingly just for pleasure or to attract a mate ",
+			"color": "dim|0.27244 gray|0.27244 dim|0.27244 grey|0.27244 gray|0.16045 grey|0.16045 black|0.15748 dark|0.11381 slate|0.11381 gray|0.11381 dark|0.065903 gray|0.065903 dark|0.065903 grey|0.065903 slate|0.064788 gray|0.064788 light|0.048185 slate|0.048185 gray|0.048185 dark|0.040667 olive|0.040667 green|0.040667 light|0.02366 steel|0.02366 blue|0.02366 silver|0.022939  ",
+			"after_weights": " Order|1 Gruiformes|0.98485 Family|0.9697 Gruidae|0.95455 Cranes|0.93939 are|0.92424 large|0.90909 tall|0.89394 birds|0.87879 with|0.86364 long|0.84848 legs|0.83333 and|0.81818 long|0.80303 necks|0.78788 Unlike|0.77273 the|0.75758 similar|0.74242 looking|0.72727 but|0.71212 un|0.69697 related|0.68182 herons|0.66667 cranes|0.65152 fly|0.63636 with|0.62121 necks|0.60606 extended|0.59091 Most|0.57576 have|0.56061 elaborate|0.54545 and|0.5303 noisy|0.51515 courtship|0.5 displays|0.48485 or|0.4697 dances|0.45455 When|0.43939 in|0.42424 a|0.40909 group|0.39394 they|0.37879 may|0.36364 also|0.34848 dance|0.33333 for|0.31818 no|0.30303 particular|0.28788 reason|0.27273 jumping|0.25758 up|0.24242 and|0.22727 down|0.21212 in|0.19697 an|0.18182 elegant|0.16667 manner|0.15152 seemingly|0.13636 just|0.12121 for|0.10606 pleasure|0.090909 or|0.075758 to|0.060606 attract|0.045455 a|0.030303 mate|0.015152 |0",
+			"previous_weights": " The|0 limpkin|0.027027 is|0.054054 an|0.081081 odd|0.10811 bird|0.13514 that|0.16216 looks|0.18919 like|0.21622 a|0.24324 large|0.27027 rail|0.2973 but|0.32432 is|0.35135 skeletally|0.37838 closer|0.40541 to|0.43243 the|0.45946 cranes|0.48649 It|0.51351 is|0.54054 found|0.56757 in|0.59459 marshes|0.62162 with|0.64865 some|0.67568 trees|0.7027 or|0.72973 scrub|0.75676 in|0.78378 the|0.81081 Caribbean|0.83784 South|0.86486 America|0.89189 and|0.91892 southern|0.94595 Florida|0.97297 |1"
+		}
+	}
+}

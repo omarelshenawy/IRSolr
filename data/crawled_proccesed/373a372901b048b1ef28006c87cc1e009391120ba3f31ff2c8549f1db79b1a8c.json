@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "373a372901b048b1ef28006c87cc1e009391120ba3f31ff2c8549f1db79b1a8c",
+			"url": "https://upload.wikimedia.org/math/8/f/7/8f79857769801defe1f2035c340d33ed.png",
+			"previous": " The quarter meridian can be expressed in terms of the complete elliptic integral of the second kind ",
+			"after": " The calculation to arbitrary precision of the elliptic integrals and approximations are also discussed in the NIST handbook These functions are also implemented in computer algebra programs such as Mathematica 6 and Maxima 7 ",
+			"color": "dim|0.34647 gray|0.34647 dim|0.34647 grey|0.34647 gray|0.31108 grey|0.31108 dark|0.19544 gray|0.19544 dark|0.19544 grey|0.19544 silver|0.075991 light|0.033484 gray|0.033484 light|0.033484 grey|0.033484 gainsboro|0.022153 white|0.004038 smoke|0.004038  ",
+			"after_weights": " The|1 calculation|0.97059 to|0.94118 arbitrary|0.91176 precision|0.88235 of|0.85294 the|0.82353 elliptic|0.79412 integrals|0.76471 and|0.73529 approximations|0.70588 are|0.67647 also|0.64706 discussed|0.61765 in|0.58824 the|0.55882 NIST|0.52941 handbook|0.5 These|0.47059 functions|0.44118 are|0.41176 also|0.38235 implemented|0.35294 in|0.32353 computer|0.29412 algebra|0.26471 programs|0.23529 such|0.20588 as|0.17647 Mathematica|0.14706 6|0.11765 and|0.088235 Maxima|0.058824 7|0.029412 |0",
+			"previous_weights": " The|0 quarter|0.058824 meridian|0.11765 can|0.17647 be|0.23529 expressed|0.29412 in|0.35294 terms|0.41176 of|0.47059 the|0.52941 complete|0.58824 elliptic|0.64706 integral|0.70588 of|0.76471 the|0.82353 second|0.88235 kind|0.94118 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b3827f927ff6d15d5717ebffcd8de4337c74d774b994e5a257ea11f04bce58a",
+			"url": "https://upload.wikimedia.org/math/3/d/4/3d4b110ed1a2e1f7cefc9823063685d2.png",
+			"previous": " A simple modern proof of the method is the following multiplying by x the equation and regrouping the terms gives",
+			"after": " The tangent lines to a cubic at three collinear points intercept the cubic again at collinear points 38 p 425 290",
+			"color": "dim|0.38689 gray|0.38689 dim|0.38689 grey|0.38689 gray|0.27265 grey|0.27265 dark|0.17756 gray|0.17756 dark|0.17756 grey|0.17756 silver|0.080208 light|0.039329 gray|0.039329 light|0.039329 grey|0.039329 gainsboro|0.027331 white|0.003964 smoke|0.003964  ",
+			"after_weights": " The|1 tangent|0.95 lines|0.9 to|0.85 a|0.8 cubic|0.75 at|0.7 three|0.65 collinear|0.6 points|0.55 intercept|0.5 the|0.45 cubic|0.4 again|0.35 at|0.3 collinear|0.25 points|0.2 38|0.15 p|0.1 425|0.05 290|0",
+			"previous_weights": " A|0 simple|0.052632 modern|0.10526 proof|0.15789 of|0.21053 the|0.26316 method|0.31579 is|0.36842 the|0.42105 following|0.47368 multiplying|0.52632 by|0.57895 x|0.63158 the|0.68421 equation|0.73684 and|0.78947 regrouping|0.84211 the|0.89474 terms|0.94737 gives|1"
+		}
+	}
+}

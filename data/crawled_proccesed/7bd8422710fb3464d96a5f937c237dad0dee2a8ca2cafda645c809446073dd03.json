@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bd8422710fb3464d96a5f937c237dad0dee2a8ca2cafda645c809446073dd03",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/4/43/NHL_Timeline_%281967-1992%29.PNG",
+			"previous": " The league reformatted the Amateur Draft into the NHL Entry Draft in 1979 and simultaneously lowered the draft age to 19 104 It was first opened to the public in 1980 when 2 500 fans attended the draft in the Montreal Forum The public draft has grown such that it is now held annually in NHL arenas and televised internationally 103 ",
+			"after": " Notes",
+			"color": "gray|0.25569 grey|0.25569 light|0.151 gray|0.151 light|0.151 grey|0.151 silver|0.14478 dark|0.13121 gray|0.13121 dark|0.13121 grey|0.13121 dim|0.055057 gray|0.055057 dim|0.055057 grey|0.055057 gainsboro|0.049391 white|0.029051 smoke|0.029051 alice|0.020861 blue|0.020861 ghost|0.020685 white|0.020685 sea|0.020616 shell|0.020616 snow|0.020574 lavender|0.020286 blush|0.020286 white|0.019343 mint|0.018626 cream|0.018626 floral|0.018182 white|0.018182 azure|0.018078 linen|0.0045902  ",
+			"after_weights": " Notes|0",
+			"previous_weights": " The|0 league|0.016393 reformatted|0.032787 the|0.04918 Amateur|0.065574 Draft|0.081967 into|0.098361 the|0.11475 NHL|0.13115 Entry|0.14754 Draft|0.16393 in|0.18033 1979|0.19672 and|0.21311 simultaneously|0.22951 lowered|0.2459 the|0.2623 draft|0.27869 age|0.29508 to|0.31148 19|0.32787 104|0.34426 It|0.36066 was|0.37705 first|0.39344 opened|0.40984 to|0.42623 the|0.44262 public|0.45902 in|0.47541 1980|0.4918 when|0.5082 2|0.52459 500|0.54098 fans|0.55738 attended|0.57377 the|0.59016 draft|0.60656 in|0.62295 the|0.63934 Montreal|0.65574 Forum|0.67213 The|0.68852 public|0.70492 draft|0.72131 has|0.7377 grown|0.7541 such|0.77049 that|0.78689 it|0.80328 is|0.81967 now|0.83607 held|0.85246 annually|0.86885 in|0.88525 NHL|0.90164 arenas|0.91803 and|0.93443 televised|0.95082 internationally|0.96721 103|0.98361 |1"
+		}
+	}
+}

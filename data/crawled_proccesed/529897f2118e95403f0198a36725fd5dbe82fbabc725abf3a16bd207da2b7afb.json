@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "529897f2118e95403f0198a36725fd5dbe82fbabc725abf3a16bd207da2b7afb",
+			"url": "https://upload.wikimedia.org/math/c/6/2/c62fceb1e1334ea82b2ba2f6ec8e8f13.png",
+			"previous": " The Krull dimension of a commutative ring R is the supremum of the lengths n of all the increasing chains of prime ideals For example the polynomial ring over a field k has dimension n The fundamental theorem in the dimension theory states the following numbers coincide for a noetherian local ring 4 ",
+			"after": " where is the height of It is a deep theorem of Ratliff that the converse is also true 5 ",
+			"color": "dim|0.28647 gray|0.28647 dim|0.28647 grey|0.28647 gray|0.24707 grey|0.24707 black|0.21405 dark|0.14298 gray|0.14298 dark|0.14298 grey|0.14298 silver|0.044027 light|0.027206 gray|0.027206 light|0.027206 grey|0.027206 gainsboro|0.020771 white|0.0046964 smoke|0.0046964  ",
+			"after_weights": " where|1 is|0.94737 the|0.89474 height|0.84211 of|0.78947 It|0.73684 is|0.68421 a|0.63158 deep|0.57895 theorem|0.52632 of|0.47368 Ratliff|0.42105 that|0.36842 the|0.31579 converse|0.26316 is|0.21053 also|0.15789 true|0.10526 5|0.052632 |0",
+			"previous_weights": " The|0 Krull|0.018868 dimension|0.037736 of|0.056604 a|0.075472 commutative|0.09434 ring|0.11321 R|0.13208 is|0.15094 the|0.16981 supremum|0.18868 of|0.20755 the|0.22642 lengths|0.24528 n|0.26415 of|0.28302 all|0.30189 the|0.32075 increasing|0.33962 chains|0.35849 of|0.37736 prime|0.39623 ideals|0.41509 For|0.43396 example|0.45283 the|0.4717 polynomial|0.49057 ring|0.50943 over|0.5283 a|0.54717 field|0.56604 k|0.58491 has|0.60377 dimension|0.62264 n|0.64151 The|0.66038 fundamental|0.67925 theorem|0.69811 in|0.71698 the|0.73585 dimension|0.75472 theory|0.77358 states|0.79245 the|0.81132 following|0.83019 numbers|0.84906 coincide|0.86792 for|0.88679 a|0.90566 noetherian|0.92453 local|0.9434 ring|0.96226 4|0.98113 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ae70155f4715f30c69f07b97a7b9728821bb0f1340f786458f1fd562839fb30",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Matrix_multiplication_diagram_2.svg/200px-Matrix_multiplication_diagram_2.svg.png",
+			"previous": " ",
+			"after": " Multiplication of two matrices is defined if and only if the number of columns of the left matrix is the same as the number of rows of the right matrix If A is an m by n matrix and B is an n by p matrix then their matrix product AB is the m by p matrix whose entries are given by dot product of the corresponding row of A and the corresponding column of B ",
+			"color": "white|0.068633 smoke|0.068633 snow|0.066684 ghost|0.065581 white|0.065581 gold|0.064813 alice|0.06456 blue|0.06456 white|0.064551 sea|0.062119 shell|0.062119 azure|0.061286 mint|0.06123 cream|0.06123 floral|0.060486 white|0.060486 lavender|0.051956 blush|0.051956 dark|0.03689 gray|0.03689 dark|0.03689 grey|0.03689 silver|0.033173 light|0.026637 gray|0.026637 light|0.026637 grey|0.026637 dim|0.02639 gray|0.02639 dim|0.02639 grey|0.02639 gray|0.024752 grey|0.024752 steel|0.019165 blue|0.019165 gainsboro|0.018661 light|0.016621 steel|0.016621 blue|0.016621 ivory|0.014623 light|0.00791 coral|0.00791 pale|0.0070156 golden|0.0070156 rod|0.0070156 light|0.0068994 pink|0.0068994 light|0.0068057 golden|0.0068057 rod|0.0068057 yellow|0.0068057 linen|0.0064576 lavender|0.0052767 lemon|0.0052307 chiffon|0.0052307 olive|0.0049481 misty|0.0048766 rose|0.0048766 olive|0.004739 drab|0.004739 khaki|0.0045996  ",
+			"after_weights": " Multiplication|1 of|0.98684 two|0.97368 matrices|0.96053 is|0.94737 defined|0.93421 if|0.92105 and|0.90789 only|0.89474 if|0.88158 the|0.86842 number|0.85526 of|0.84211 columns|0.82895 of|0.81579 the|0.80263 left|0.78947 matrix|0.77632 is|0.76316 the|0.75 same|0.73684 as|0.72368 the|0.71053 number|0.69737 of|0.68421 rows|0.67105 of|0.65789 the|0.64474 right|0.63158 matrix|0.61842 If|0.60526 A|0.59211 is|0.57895 an|0.56579 m|0.55263 by|0.53947 n|0.52632 matrix|0.51316 and|0.5 B|0.48684 is|0.47368 an|0.46053 n|0.44737 by|0.43421 p|0.42105 matrix|0.40789 then|0.39474 their|0.38158 matrix|0.36842 product|0.35526 AB|0.34211 is|0.32895 the|0.31579 m|0.30263 by|0.28947 p|0.27632 matrix|0.26316 whose|0.25 entries|0.23684 are|0.22368 given|0.21053 by|0.19737 dot|0.18421 product|0.17105 of|0.15789 the|0.14474 corresponding|0.13158 row|0.11842 of|0.10526 A|0.092105 and|0.078947 the|0.065789 corresponding|0.052632 column|0.039474 of|0.026316 B|0.013158 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b7b998d88d00118e4f0c1550e528466e3a43a3690c0fee00b88bf7fce59e71c",
+			"url": "https://upload.wikimedia.org/math/0/4/a/04a8b42f67a5c1fa84270228575a2cf4.png",
+			"previous": " If it happens that the chosen has half integer coefficients it can be replaced by another Hurwitz quaternion Choose in such a way that has even integer coefficients Then",
+			"after": " Since has even integer coefficients will have integer coefficients and can be used instead of the original to give a representation of as the sum of four squares ",
+			"color": "dim|0.38875 gray|0.38875 dim|0.38875 grey|0.38875 gray|0.2646 grey|0.2646 dark|0.17087 gray|0.17087 dark|0.17087 grey|0.17087 silver|0.081665 light|0.044805 gray|0.044805 light|0.044805 grey|0.044805 gainsboro|0.031187 white|0.0044641 smoke|0.0044641  ",
+			"after_weights": " Since|1 has|0.96429 even|0.92857 integer|0.89286 coefficients|0.85714 will|0.82143 have|0.78571 integer|0.75 coefficients|0.71429 and|0.67857 can|0.64286 be|0.60714 used|0.57143 instead|0.53571 of|0.5 the|0.46429 original|0.42857 to|0.39286 give|0.35714 a|0.32143 representation|0.28571 of|0.25 as|0.21429 the|0.17857 sum|0.14286 of|0.10714 four|0.071429 squares|0.035714 |0",
+			"previous_weights": " If|0 it|0.035714 happens|0.071429 that|0.10714 the|0.14286 chosen|0.17857 has|0.21429 half|0.25 integer|0.28571 coefficients|0.32143 it|0.35714 can|0.39286 be|0.42857 replaced|0.46429 by|0.5 another|0.53571 Hurwitz|0.57143 quaternion|0.60714 Choose|0.64286 in|0.67857 such|0.71429 a|0.75 way|0.78571 that|0.82143 has|0.85714 even|0.89286 integer|0.92857 coefficients|0.96429 Then|1"
+		}
+	}
+}

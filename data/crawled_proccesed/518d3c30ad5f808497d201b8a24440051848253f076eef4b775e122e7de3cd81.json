@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "518d3c30ad5f808497d201b8a24440051848253f076eef4b775e122e7de3cd81",
+			"url": "https://upload.wikimedia.org/math/f/c/0/fc0b3c34a7c3290ca2193e7e93159220.png",
+			"previous": " then if a and q are coprime ",
+			"after": " There are also many deep and wide ranging conjectures in number theory whose proofs seem too difficult for current techniques such as the Twin prime conjecture which asks whether there are infinitely many primes p such that p 2 is prime On the assumption of the Elliott Halberstam conjecture it has been proven recently that there are infinitely many primes p such that p k is prime for some positive even k at most 12 Also it has been proven unconditionally i e not depending on unproven conjectures that there are infinitely many primes p such that p k is prime for some positive even k at most 246 ",
+			"color": "dim|0.30356 gray|0.30356 dim|0.30356 grey|0.30356 gray|0.29828 grey|0.29828 dark|0.20604 gray|0.20604 dark|0.20604 grey|0.20604 silver|0.092201 light|0.046234 gray|0.046234 light|0.046234 grey|0.046234 gainsboro|0.031807 white|0.0058291 smoke|0.0058291 linen|0.0029445  ",
+			"after_weights": " There|1 are|0.99083 also|0.98165 many|0.97248 deep|0.9633 and|0.95413 wide|0.94495 ranging|0.93578 conjectures|0.92661 in|0.91743 number|0.90826 theory|0.89908 whose|0.88991 proofs|0.88073 seem|0.87156 too|0.86239 difficult|0.85321 for|0.84404 current|0.83486 techniques|0.82569 such|0.81651 as|0.80734 the|0.79817 Twin|0.78899 prime|0.77982 conjecture|0.77064 which|0.76147 asks|0.75229 whether|0.74312 there|0.73394 are|0.72477 infinitely|0.7156 many|0.70642 primes|0.69725 p|0.68807 such|0.6789 that|0.66972 p|0.66055 2|0.65138 is|0.6422 prime|0.63303 On|0.62385 the|0.61468 assumption|0.6055 of|0.59633 the|0.58716 Elliott|0.57798 Halberstam|0.56881 conjecture|0.55963 it|0.55046 has|0.54128 been|0.53211 proven|0.52294 recently|0.51376 that|0.50459 there|0.49541 are|0.48624 infinitely|0.47706 many|0.46789 primes|0.45872 p|0.44954 such|0.44037 that|0.43119 p|0.42202 k|0.41284 is|0.40367 prime|0.3945 for|0.38532 some|0.37615 positive|0.36697 even|0.3578 k|0.34862 at|0.33945 most|0.33028 12|0.3211 Also|0.31193 it|0.30275 has|0.29358 been|0.2844 proven|0.27523 unconditionally|0.26606 i|0.25688 e|0.24771 not|0.23853 depending|0.22936 on|0.22018 unproven|0.21101 conjectures|0.20183 that|0.19266 there|0.18349 are|0.17431 infinitely|0.16514 many|0.15596 primes|0.14679 p|0.13761 such|0.12844 that|0.11927 p|0.11009 k|0.10092 is|0.091743 prime|0.082569 for|0.073394 some|0.06422 positive|0.055046 even|0.045872 k|0.036697 at|0.027523 most|0.018349 246|0.0091743 |0",
+			"previous_weights": " then|0 if|0.14286 a|0.28571 and|0.42857 q|0.57143 are|0.71429 coprime|0.85714 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "29bed7fcb0fbaae629933170a3c785e9d5f0c8feea520c23bc82849157e23416",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamersley_radio_mast.jpg/220px-Hamersley_radio_mast.jpg",
+			"previous": " ",
+			"after": " Before European settlement Hamersley was part of a larger area of land that was occupied by the Mooro people an Indigenous Australian people who traversed the lakes and wetlands running parallel to the coast between what is now Perth and Yanchep 19 ",
+			"color": "light|0.399 steel|0.399 blue|0.399 corn|0.2266 flower|0.2266 blue|0.2266 light|0.18924 sky|0.18924 blue|0.18924 black|0.034612 light|0.032662 blue|0.032662 silver|0.02211 dim|0.021105 gray|0.021105 dim|0.021105 grey|0.021105  ",
+			"after_weights": " Before|1 European|0.97619 settlement|0.95238 Hamersley|0.92857 was|0.90476 part|0.88095 of|0.85714 a|0.83333 larger|0.80952 area|0.78571 of|0.7619 land|0.7381 that|0.71429 was|0.69048 occupied|0.66667 by|0.64286 the|0.61905 Mooro|0.59524 people|0.57143 an|0.54762 Indigenous|0.52381 Australian|0.5 people|0.47619 who|0.45238 traversed|0.42857 the|0.40476 lakes|0.38095 and|0.35714 wetlands|0.33333 running|0.30952 parallel|0.28571 to|0.2619 the|0.2381 coast|0.21429 between|0.19048 what|0.16667 is|0.14286 now|0.11905 Perth|0.095238 and|0.071429 Yanchep|0.047619 19|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

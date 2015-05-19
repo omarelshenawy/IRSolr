@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8eccce5150ce548fe1d696f5dcee622a8357bce4399b78d657cd9159c0bca118",
+			"url": "https://upload.wikimedia.org/math/4/b/a/4ba1a63bc63bd8aff27f139a1f5dcd7a.png",
+			"previous": " The equation for viscous resistance or linear drag is appropriate for objects or particles moving through a fluid at relatively slow speeds where there is no turbulence i e low Reynolds number 17 Note that purely laminar flow only exists up to Re 0 1 under this definition In this case the force of drag is approximately proportional to velocity but opposite in direction The equation for viscous resistance is 18 ",
+			"after": " where ",
+			"color": "dim|0.35487 gray|0.35487 dim|0.35487 grey|0.35487 gray|0.24562 grey|0.24562 dark|0.16963 gray|0.16963 dark|0.16963 grey|0.16963 silver|0.091216 light|0.051613 gray|0.051613 light|0.051613 grey|0.051613 black|0.043885 gainsboro|0.034672  ",
+			"after_weights": " where|1 |0",
+			"previous_weights": " The|0 equation|0.014085 for|0.028169 viscous|0.042254 resistance|0.056338 or|0.070423 linear|0.084507 drag|0.098592 is|0.11268 appropriate|0.12676 for|0.14085 objects|0.15493 or|0.16901 particles|0.1831 moving|0.19718 through|0.21127 a|0.22535 fluid|0.23944 at|0.25352 relatively|0.26761 slow|0.28169 speeds|0.29577 where|0.30986 there|0.32394 is|0.33803 no|0.35211 turbulence|0.3662 i|0.38028 e|0.39437 low|0.40845 Reynolds|0.42254 number|0.43662 17|0.4507 Note|0.46479 that|0.47887 purely|0.49296 laminar|0.50704 flow|0.52113 only|0.53521 exists|0.5493 up|0.56338 to|0.57746 Re|0.59155 0|0.60563 1|0.61972 under|0.6338 this|0.64789 definition|0.66197 In|0.67606 this|0.69014 case|0.70423 the|0.71831 force|0.73239 of|0.74648 drag|0.76056 is|0.77465 approximately|0.78873 proportional|0.80282 to|0.8169 velocity|0.83099 but|0.84507 opposite|0.85915 in|0.87324 direction|0.88732 The|0.90141 equation|0.91549 for|0.92958 viscous|0.94366 resistance|0.95775 is|0.97183 18|0.98592 |1"
+		}
+	}
+}

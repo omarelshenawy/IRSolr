@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "20d711a7ba7e4c6255d223b07a77609356f8dad27eda28356d1f6d32af3888d2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kepler-first-law.svg/220px-Kepler-first-law.svg.png",
+			"previous": " The mathematical model of the kinematics of a planet subject to the laws allows a large range of further calculations ",
+			"after": " Mathematically an ellipse can be represented by the formula  where is the semi latus rectum and is the eccentricity of the ellipse and r is the distance from the Sun to the planet and is the angle to the planet s current position from its closest approach as seen from the Sun So r are polar coordinates ",
+			"color": "black|0.26389 gray|0.17231 grey|0.17231 dim|0.16016 gray|0.16016 dim|0.16016 grey|0.16016 dark|0.15929 gray|0.15929 dark|0.15929 grey|0.15929 silver|0.070602 light|0.039191 gray|0.039191 light|0.039191 grey|0.039191 gainsboro|0.029035 white|0.011977 white|0.010382 smoke|0.010382 snow|0.0088428 mint|0.0079472 cream|0.0079472 ghost|0.0079083 white|0.0079083 alice|0.0075445 blue|0.0075445 sea|0.0074291 shell|0.0074291 floral|0.0065728 white|0.0065728 azure|0.0065077 lavender|0.005765 blush|0.005765 blue|0.0052083  ",
+			"after_weights": " Mathematically|1 an|0.98276 ellipse|0.96552 can|0.94828 be|0.93103 represented|0.91379 by|0.89655 the|0.87931 formula|0.86207 |0.84483 where|0.82759 is|0.81034 the|0.7931 semi|0.77586 latus|0.75862 rectum|0.74138 and|0.72414 is|0.7069 the|0.68966 eccentricity|0.67241 of|0.65517 the|0.63793 ellipse|0.62069 and|0.60345 r|0.58621 is|0.56897 the|0.55172 distance|0.53448 from|0.51724 the|0.5 Sun|0.48276 to|0.46552 the|0.44828 planet|0.43103 and|0.41379 is|0.39655 the|0.37931 angle|0.36207 to|0.34483 the|0.32759 planet|0.31034 s|0.2931 current|0.27586 position|0.25862 from|0.24138 its|0.22414 closest|0.2069 approach|0.18966 as|0.17241 seen|0.15517 from|0.13793 the|0.12069 Sun|0.10345 So|0.086207 r|0.068966 are|0.051724 polar|0.034483 coordinates|0.017241 |0",
+			"previous_weights": " The|0 mathematical|0.05 model|0.1 of|0.15 the|0.2 kinematics|0.25 of|0.3 a|0.35 planet|0.4 subject|0.45 to|0.5 the|0.55 laws|0.6 allows|0.65 a|0.7 large|0.75 range|0.8 of|0.85 further|0.9 calculations|0.95 |1"
+		}
+	}
+}

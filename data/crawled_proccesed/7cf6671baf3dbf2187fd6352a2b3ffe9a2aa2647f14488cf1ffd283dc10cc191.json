@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cf6671baf3dbf2187fd6352a2b3ffe9a2aa2647f14488cf1ffd283dc10cc191",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/University_Ave_Entrance%2C_CSUSB.JPG/300px-University_Ave_Entrance%2C_CSUSB.JPG",
+			"previous": " ",
+			"after": " San Bernardino is primarily served by the San Bernardino City Unified School District the eighth largest district in the state 73 although it is also served by Rim of the World far north mountains Redlands far south east and Rialto far west Unified School Districts ",
+			"color": "dim|0.34285 gray|0.34285 dim|0.34285 grey|0.34285 gray|0.23351 grey|0.23351 black|0.11491 dark|0.10003 olive|0.10003 green|0.10003 olive|0.0842 drab|0.0842 dark|0.041862 gray|0.041862 dark|0.041862 grey|0.041862 slate|0.023529 gray|0.023529 light|0.014656 slate|0.014656 gray|0.014656 silver|0.01167  ",
+			"after_weights": " San|1 Bernardino|0.97778 is|0.95556 primarily|0.93333 served|0.91111 by|0.88889 the|0.86667 San|0.84444 Bernardino|0.82222 City|0.8 Unified|0.77778 School|0.75556 District|0.73333 the|0.71111 eighth|0.68889 largest|0.66667 district|0.64444 in|0.62222 the|0.6 state|0.57778 73|0.55556 although|0.53333 it|0.51111 is|0.48889 also|0.46667 served|0.44444 by|0.42222 Rim|0.4 of|0.37778 the|0.35556 World|0.33333 far|0.31111 north|0.28889 mountains|0.26667 Redlands|0.24444 far|0.22222 south|0.2 east|0.17778 and|0.15556 Rialto|0.13333 far|0.11111 west|0.088889 Unified|0.066667 School|0.044444 Districts|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

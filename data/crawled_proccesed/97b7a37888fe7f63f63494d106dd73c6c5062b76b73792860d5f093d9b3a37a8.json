@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97b7a37888fe7f63f63494d106dd73c6c5062b76b73792860d5f093d9b3a37a8",
+			"url": "https://upload.wikimedia.org/math/3/d/8/3d8a826039e1e1354110d002d743a3b1.png",
+			"previous": " In the special case where the input signal is small compared to the saturation intensity in other words  Substituting this definition into the prior equation we find the general gain equation ",
+			"after": " then the general gain equation gives the small signal gain as or",
+			"color": "dim|0.27723 gray|0.27723 dim|0.27723 grey|0.27723 black|0.27054 gray|0.22047 grey|0.22047 dark|0.13021 gray|0.13021 dark|0.13021 grey|0.13021 silver|0.053721 light|0.02456 gray|0.02456 light|0.02456 grey|0.02456 gainsboro|0.016318  ",
+			"after_weights": " then|1 the|0.90909 general|0.81818 gain|0.72727 equation|0.63636 gives|0.54545 the|0.45455 small|0.36364 signal|0.27273 gain|0.18182 as|0.090909 or|0",
+			"previous_weights": " In|0 the|0.03125 special|0.0625 case|0.09375 where|0.125 the|0.15625 input|0.1875 signal|0.21875 is|0.25 small|0.28125 compared|0.3125 to|0.34375 the|0.375 saturation|0.40625 intensity|0.4375 in|0.46875 other|0.5 words|0.53125 |0.5625 Substituting|0.59375 this|0.625 definition|0.65625 into|0.6875 the|0.71875 prior|0.75 equation|0.78125 we|0.8125 find|0.84375 the|0.875 general|0.90625 gain|0.9375 equation|0.96875 |1"
+		}
+	}
+}

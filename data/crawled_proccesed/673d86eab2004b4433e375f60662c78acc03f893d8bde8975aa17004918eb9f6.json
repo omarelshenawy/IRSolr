@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "673d86eab2004b4433e375f60662c78acc03f893d8bde8975aa17004918eb9f6",
+			"url": "https://upload.wikimedia.org/math/1/6/f/16f13c6a2209ef6b9598a284ba22933f.png",
+			"previous": " The three constraints imposed would typically be  Iteration constraints or matching quantities  3 compressor pressure ratio i e ",
+			"after": " 2 nozzle area e g vs 3 turbine flow capacity e g vs The latter two are the physical constraints that must be met whilst the former is some measure of throttle setting ",
+			"color": "dim|0.33335 gray|0.33335 dim|0.33335 grey|0.33335 gray|0.29779 grey|0.29779 dark|0.18686 gray|0.18686 dark|0.18686 grey|0.18686 silver|0.080978 light|0.040154 gray|0.040154 light|0.040154 grey|0.040154 gainsboro|0.030204 white|0.0071231 smoke|0.0071231 linen|0.0041817 lavender|0.0034423 blush|0.0034423 alice|0.0033447 blue|0.0033447 ghost|0.0032633 white|0.0032633 sea|0.003096 shell|0.003096 snow|0.0029251  ",
+			"after_weights": " 2|1 nozzle|0.9697 area|0.93939 e|0.90909 g|0.87879 vs|0.84848 3|0.81818 turbine|0.78788 flow|0.75758 capacity|0.72727 e|0.69697 g|0.66667 vs|0.63636 The|0.60606 latter|0.57576 two|0.54545 are|0.51515 the|0.48485 physical|0.45455 constraints|0.42424 that|0.39394 must|0.36364 be|0.33333 met|0.30303 whilst|0.27273 the|0.24242 former|0.21212 is|0.18182 some|0.15152 measure|0.12121 of|0.090909 throttle|0.060606 setting|0.030303 |0",
+			"previous_weights": " The|0 three|0.05 constraints|0.1 imposed|0.15 would|0.2 typically|0.25 be|0.3 |0.35 Iteration|0.4 constraints|0.45 or|0.5 matching|0.55 quantities|0.6 |0.65 3|0.7 compressor|0.75 pressure|0.8 ratio|0.85 i|0.9 e|0.95 |1"
+		}
+	}
+}

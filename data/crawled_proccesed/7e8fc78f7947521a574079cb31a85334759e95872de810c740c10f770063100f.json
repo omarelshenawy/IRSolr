@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e8fc78f7947521a574079cb31a85334759e95872de810c740c10f770063100f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DeathofEnglishCricket.jpg/220px-DeathofEnglishCricket.jpg",
+			"previous": " On 31 August in the Charles Alcock edited magazine Cricket A Weekly Record of The Game there appeared a mock obituary ",
+			"after": " On 2 September a more celebrated mock obituary written by Reginald Brooks under the pseudonym Bloobs appeared in The Sporting Times It read ",
+			"color": "tan|0.8374 wheat|0.042099 bisque|0.039325 blanched|0.022261 almond|0.022261 antique|0.019387 white|0.019387 papaya|0.013489 whip|0.013489 black|0.0077525  ",
+			"after_weights": " On|1 2|0.95652 September|0.91304 a|0.86957 more|0.82609 celebrated|0.78261 mock|0.73913 obituary|0.69565 written|0.65217 by|0.6087 Reginald|0.56522 Brooks|0.52174 under|0.47826 the|0.43478 pseudonym|0.3913 Bloobs|0.34783 appeared|0.30435 in|0.26087 The|0.21739 Sporting|0.17391 Times|0.13043 It|0.086957 read|0.043478 |0",
+			"previous_weights": " On|0 31|0.047619 August|0.095238 in|0.14286 the|0.19048 Charles|0.2381 Alcock|0.28571 edited|0.33333 magazine|0.38095 Cricket|0.42857 A|0.47619 Weekly|0.52381 Record|0.57143 of|0.61905 The|0.66667 Game|0.71429 there|0.7619 appeared|0.80952 a|0.85714 mock|0.90476 obituary|0.95238 |1"
+		}
+	}
+}

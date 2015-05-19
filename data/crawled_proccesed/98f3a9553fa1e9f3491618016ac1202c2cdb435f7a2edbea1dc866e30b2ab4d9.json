@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "98f3a9553fa1e9f3491618016ac1202c2cdb435f7a2edbea1dc866e30b2ab4d9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Panthera_leo_stretching_%28Etosha%2C_2012%29.jpg/220px-Panthera_leo_stretching_%28Etosha%2C_2012%29.jpg",
+			"previous": " ",
+			"after": " Lions spend much of their time resting and are inactive for about 20 hours per day 61 Although lions can be active at any time their activity generally peaks after dusk with a period of socializing grooming and defecating Intermittent bursts of activity follow through the night hours until dawn when hunting most often takes place They spend an average of two hours a day walking and 50 minutes eating 62 ",
+			"color": "gray|0.40327 grey|0.40327 dim|0.3617 gray|0.3617 dim|0.3617 grey|0.3617 dark|0.13986 gray|0.13986 dark|0.13986 grey|0.13986 silver|0.024993 tan|0.016977 black|0.0088667 light|0.0061294 gray|0.0061294 light|0.0061294 grey|0.0061294 burly|0.0037136 wood|0.0037136 slate|0.0035005 gray|0.0035005  ",
+			"after_weights": " Lions|1 spend|0.98592 much|0.97183 of|0.95775 their|0.94366 time|0.92958 resting|0.91549 and|0.90141 are|0.88732 inactive|0.87324 for|0.85915 about|0.84507 20|0.83099 hours|0.8169 per|0.80282 day|0.78873 61|0.77465 Although|0.76056 lions|0.74648 can|0.73239 be|0.71831 active|0.70423 at|0.69014 any|0.67606 time|0.66197 their|0.64789 activity|0.6338 generally|0.61972 peaks|0.60563 after|0.59155 dusk|0.57746 with|0.56338 a|0.5493 period|0.53521 of|0.52113 socializing|0.50704 grooming|0.49296 and|0.47887 defecating|0.46479 Intermittent|0.4507 bursts|0.43662 of|0.42254 activity|0.40845 follow|0.39437 through|0.38028 the|0.3662 night|0.35211 hours|0.33803 until|0.32394 dawn|0.30986 when|0.29577 hunting|0.28169 most|0.26761 often|0.25352 takes|0.23944 place|0.22535 They|0.21127 spend|0.19718 an|0.1831 average|0.16901 of|0.15493 two|0.14085 hours|0.12676 a|0.11268 day|0.098592 walking|0.084507 and|0.070423 50|0.056338 minutes|0.042254 eating|0.028169 62|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

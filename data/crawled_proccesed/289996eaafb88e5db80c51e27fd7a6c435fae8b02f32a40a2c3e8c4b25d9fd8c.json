@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "289996eaafb88e5db80c51e27fd7a6c435fae8b02f32a40a2c3e8c4b25d9fd8c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cray_1_IMG_9126.jpg/220px-Cray_1_IMG_9126.jpg",
+			"previous": " ",
+			"after": " A vector processor is a CPU or computer system that can execute the same instruction on large sets of data Vector processors have high level operations that work on linear arrays of numbers or vectors An example vector operation is A B C where A B and C are each 64 element vectors of 64 bit floating point numbers 39 They are closely related to Flynn s SIMD classification 39 ",
+			"color": "black|0.38907 dim|0.12242 gray|0.12242 dim|0.12242 grey|0.12242 gray|0.085074 grey|0.085074 pale|0.049703 golden|0.049703 rod|0.049703 dark|0.047852 gray|0.047852 dark|0.047852 grey|0.047852 wheat|0.035092 dark|0.02457 khaki|0.02457 antique|0.017506 white|0.017506 burly|0.017336 wood|0.017336 silver|0.016164 beige|0.01398 linen|0.01268 tan|0.012516 old|0.010713 lace|0.010713 lemon|0.0098695 chiffon|0.0098695 papaya|0.0095784 whip|0.0095784 floral|0.0093406 white|0.0093406 light|0.0092298 gray|0.0092298 light|0.0092298 grey|0.0092298 sea|0.0088946 shell|0.0088946 moccasin|0.0088905 gainsboro|0.0087368  ",
+			"after_weights": " A|1 vector|0.98571 processor|0.97143 is|0.95714 a|0.94286 CPU|0.92857 or|0.91429 computer|0.9 system|0.88571 that|0.87143 can|0.85714 execute|0.84286 the|0.82857 same|0.81429 instruction|0.8 on|0.78571 large|0.77143 sets|0.75714 of|0.74286 data|0.72857 Vector|0.71429 processors|0.7 have|0.68571 high|0.67143 level|0.65714 operations|0.64286 that|0.62857 work|0.61429 on|0.6 linear|0.58571 arrays|0.57143 of|0.55714 numbers|0.54286 or|0.52857 vectors|0.51429 An|0.5 example|0.48571 vector|0.47143 operation|0.45714 is|0.44286 A|0.42857 B|0.41429 C|0.4 where|0.38571 A|0.37143 B|0.35714 and|0.34286 C|0.32857 are|0.31429 each|0.3 64|0.28571 element|0.27143 vectors|0.25714 of|0.24286 64|0.22857 bit|0.21429 floating|0.2 point|0.18571 numbers|0.17143 39|0.15714 They|0.14286 are|0.12857 closely|0.11429 related|0.1 to|0.085714 Flynn|0.071429 s|0.057143 SIMD|0.042857 classification|0.028571 39|0.014286 |0",
+			"previous_weights": " "
+		}
+	}
+}

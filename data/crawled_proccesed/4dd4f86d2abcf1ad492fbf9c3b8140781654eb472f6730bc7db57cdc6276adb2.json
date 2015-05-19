@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4dd4f86d2abcf1ad492fbf9c3b8140781654eb472f6730bc7db57cdc6276adb2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/QuaternionJuliaWP.png/250px-QuaternionJuliaWP.png",
+			"previous": " ",
+			"after": " In complex dynamics the Julia set of a holomorphic function informally consists of those points whose long time behavior under repeated iteration of can change drastically under arbitrarily small perturbations Above is a 3D slice of a 4D Julia set ",
+			"color": "peru|0.37528 black|0.31339 sandy|0.21567 brown|0.21567 dim|0.029419 gray|0.029419 dim|0.029419 grey|0.029419 slate|0.013089 gray|0.013089  ",
+			"after_weights": " In|1 complex|0.975 dynamics|0.95 the|0.925 Julia|0.9 set|0.875 of|0.85 a|0.825 holomorphic|0.8 function|0.775 informally|0.75 consists|0.725 of|0.7 those|0.675 points|0.65 whose|0.625 long|0.6 time|0.575 behavior|0.55 under|0.525 repeated|0.5 iteration|0.475 of|0.45 can|0.425 change|0.4 drastically|0.375 under|0.35 arbitrarily|0.325 small|0.3 perturbations|0.275 Above|0.25 is|0.225 a|0.2 3D|0.175 slice|0.15 of|0.125 a|0.1 4D|0.075 Julia|0.05 set|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

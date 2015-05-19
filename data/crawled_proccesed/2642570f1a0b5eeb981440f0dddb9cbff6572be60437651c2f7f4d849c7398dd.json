@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2642570f1a0b5eeb981440f0dddb9cbff6572be60437651c2f7f4d849c7398dd",
+			"url": "https://upload.wikimedia.org/math/9/8/b/98b3a4a46a8226a7fb4888c59bfb17ef.png",
+			"previous": " The other frame S will measure ",
+			"after": " Notice that if the object were moving at the speed of light in the S system i e u c then it would also be moving at the speed of light in the S system Also if both u and v are small with respect to the speed of light we will recover the intuitive Galilean transformation of velocities",
+			"color": "gray|0.31299 grey|0.31299 dim|0.30621 gray|0.30621 dim|0.30621 grey|0.30621 dark|0.20979 gray|0.20979 dark|0.20979 grey|0.20979 silver|0.086125 light|0.040397 gray|0.040397 light|0.040397 grey|0.040397 gainsboro|0.027476 white|0.0047471 smoke|0.0047471  ",
+			"after_weights": " Notice|1 that|0.98276 if|0.96552 the|0.94828 object|0.93103 were|0.91379 moving|0.89655 at|0.87931 the|0.86207 speed|0.84483 of|0.82759 light|0.81034 in|0.7931 the|0.77586 S|0.75862 system|0.74138 i|0.72414 e|0.7069 u|0.68966 c|0.67241 then|0.65517 it|0.63793 would|0.62069 also|0.60345 be|0.58621 moving|0.56897 at|0.55172 the|0.53448 speed|0.51724 of|0.5 light|0.48276 in|0.46552 the|0.44828 S|0.43103 system|0.41379 Also|0.39655 if|0.37931 both|0.36207 u|0.34483 and|0.32759 v|0.31034 are|0.2931 small|0.27586 with|0.25862 respect|0.24138 to|0.22414 the|0.2069 speed|0.18966 of|0.17241 light|0.15517 we|0.13793 will|0.12069 recover|0.10345 the|0.086207 intuitive|0.068966 Galilean|0.051724 transformation|0.034483 of|0.017241 velocities|0",
+			"previous_weights": " The|0 other|0.16667 frame|0.33333 S|0.5 will|0.66667 measure|0.83333 |1"
+		}
+	}
+}

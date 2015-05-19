@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ef8b6e195e9fc2273b724314ef175c2ba342ab3dc1c66e16b3038d87e2471f0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arpia_III.jpg/220px-Arpia_III.jpg",
+			"previous": " The tables below display the rank structures and rank insignias for the Colombian Air Force personnel 27 ",
+			"after": " Pervious aircraft operated by the Air Force consisted of the Gavil n G358 and the OV 10A Bronco 29 ",
+			"color": "light|0.23762 slate|0.23762 gray|0.23762 light|0.22668 steel|0.22668 blue|0.22668 slate|0.18909 gray|0.18909 dark|0.13321 gray|0.13321 dark|0.13321 grey|0.13321 black|0.085777 silver|0.077972 dim|0.016775 gray|0.016775 dim|0.016775 grey|0.016775 light|0.014547 gray|0.014547 light|0.014547 grey|0.014547 gainsboro|0.0070722 gray|0.0061125 grey|0.0061125  ",
+			"after_weights": " Pervious|1 aircraft|0.94737 operated|0.89474 by|0.84211 the|0.78947 Air|0.73684 Force|0.68421 consisted|0.63158 of|0.57895 the|0.52632 Gavil|0.47368 n|0.42105 G358|0.36842 and|0.31579 the|0.26316 OV|0.21053 10A|0.15789 Bronco|0.10526 29|0.052632 |0",
+			"previous_weights": " The|0 tables|0.058824 below|0.11765 display|0.17647 the|0.23529 rank|0.29412 structures|0.35294 and|0.41176 rank|0.47059 insignias|0.52941 for|0.58824 the|0.64706 Colombian|0.70588 Air|0.76471 Force|0.82353 personnel|0.88235 27|0.94118 |1"
+		}
+	}
+}

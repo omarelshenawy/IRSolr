@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "34465947c91a58dddd1dd81c4c94a550b2436d95ed471cc7a365ea7258af08df",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Car-kci.jpg/220px-Car-kci.jpg",
+			"previous": " In March 2010 the airport was announced as one of the first in the US to have full body scanners with the first one used at Southwest Airlines beginning in the summer of 2010 16 ",
+			"after": " A 258 million terminal improvement project was completed in November 2004 Under lead designer 360 Architecture the following improvements were made ",
+			"color": "dim|0.17058 gray|0.17058 dim|0.17058 grey|0.17058 black|0.12949 light|0.078788 steel|0.078788 blue|0.078788 gray|0.07809 grey|0.07809 dark|0.057958 gray|0.057958 dark|0.057958 grey|0.057958 light|0.056953 slate|0.056953 gray|0.056953 slate|0.053152 gray|0.053152 silver|0.037331 lavender|0.033413 light|0.029552 gray|0.029552 light|0.029552 grey|0.029552 gainsboro|0.026368 dark|0.023178 slate|0.023178 gray|0.023178 alice|0.021528 blue|0.021528 white|0.019378 smoke|0.019378 ghost|0.018013 white|0.018013 light|0.016826 blue|0.016826 azure|0.014877 snow|0.014824 white|0.014253 mint|0.014065 cream|0.014065 sea|0.01188 shell|0.01188 floral|0.011245 white|0.011245 lavender|0.0087257 blush|0.0087257  ",
+			"after_weights": " A|1 258|0.95238 million|0.90476 terminal|0.85714 improvement|0.80952 project|0.7619 was|0.71429 completed|0.66667 in|0.61905 November|0.57143 2004|0.52381 Under|0.47619 lead|0.42857 designer|0.38095 360|0.33333 Architecture|0.28571 the|0.2381 following|0.19048 improvements|0.14286 were|0.095238 made|0.047619 |0",
+			"previous_weights": " In|0 March|0.028571 2010|0.057143 the|0.085714 airport|0.11429 was|0.14286 announced|0.17143 as|0.2 one|0.22857 of|0.25714 the|0.28571 first|0.31429 in|0.34286 the|0.37143 US|0.4 to|0.42857 have|0.45714 full|0.48571 body|0.51429 scanners|0.54286 with|0.57143 the|0.6 first|0.62857 one|0.65714 used|0.68571 at|0.71429 Southwest|0.74286 Airlines|0.77143 beginning|0.8 in|0.82857 the|0.85714 summer|0.88571 of|0.91429 2010|0.94286 16|0.97143 |1"
+		}
+	}
+}

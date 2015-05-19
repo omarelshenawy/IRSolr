@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b9f0ff2e1609c545b00f9d5cc51df5660babc7c02fd653f043c37df835027e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/400px-Golconda_Fort_005.jpg",
+			"previous": " ",
+			"after": " The Golkanda Fort was first built by Kakatiyas as part of their western defenses in 945 CE 970 CE which later served as the capital of medieval Golconda Sultanate c 1518 1687 is situated 11 km west of Hyderabad ",
+			"color": "tan|0.32182 black|0.29826 dark|0.21359 olive|0.21359 green|0.21359 burly|0.036869 wood|0.036869 dim|0.021123 gray|0.021123 dim|0.021123 grey|0.021123 wheat|0.016691 peach|0.016458 puff|0.016458 olive|0.015253 drab|0.015253  ",
+			"after_weights": " The|1 Golkanda|0.97436 Fort|0.94872 was|0.92308 first|0.89744 built|0.87179 by|0.84615 Kakatiyas|0.82051 as|0.79487 part|0.76923 of|0.74359 their|0.71795 western|0.69231 defenses|0.66667 in|0.64103 945|0.61538 CE|0.58974 970|0.5641 CE|0.53846 which|0.51282 later|0.48718 served|0.46154 as|0.4359 the|0.41026 capital|0.38462 of|0.35897 medieval|0.33333 Golconda|0.30769 Sultanate|0.28205 c|0.25641 1518|0.23077 1687|0.20513 is|0.17949 situated|0.15385 11|0.12821 km|0.10256 west|0.076923 of|0.051282 Hyderabad|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

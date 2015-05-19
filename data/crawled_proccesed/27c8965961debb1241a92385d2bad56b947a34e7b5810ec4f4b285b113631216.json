@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27c8965961debb1241a92385d2bad56b947a34e7b5810ec4f4b285b113631216",
+			"url": "https://upload.wikimedia.org/math/4/3/d/43d9eb6076b570dd64f0d6b89bb92d28.png",
+			"previous": " By the Kutta Joukowski theorem the total lift force F is proportional to and",
+			"after": " and its moment M about the leading edge to The calculated Lift coefficient depends only on the first two terms of the Fourier series as",
+			"color": "dim|0.32092 gray|0.32092 dim|0.32092 grey|0.32092 gray|0.29673 grey|0.29673 dark|0.20385 gray|0.20385 dark|0.20385 grey|0.20385 silver|0.089187 light|0.042989 gray|0.042989 light|0.042989 grey|0.042989 gainsboro|0.029484 white|0.0050316 smoke|0.0050316  ",
+			"after_weights": " and|1 its|0.95833 moment|0.91667 M|0.875 about|0.83333 the|0.79167 leading|0.75 edge|0.70833 to|0.66667 The|0.625 calculated|0.58333 Lift|0.54167 coefficient|0.5 depends|0.45833 only|0.41667 on|0.375 the|0.33333 first|0.29167 two|0.25 terms|0.20833 of|0.16667 the|0.125 Fourier|0.083333 series|0.041667 as|0",
+			"previous_weights": " By|0 the|0.076923 Kutta|0.15385 Joukowski|0.23077 theorem|0.30769 the|0.38462 total|0.46154 lift|0.53846 force|0.61538 F|0.69231 is|0.76923 proportional|0.84615 to|0.92308 and|1"
+		}
+	}
+}

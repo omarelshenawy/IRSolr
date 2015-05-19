@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68338e56dfb3c2cd9439f206ee7c076dd7220dea9b9bfe852fedbf58cfcd0994",
+			"url": "https://upload.wikimedia.org/math/8/9/a/89a04135f3af4ad4c3456179f8437bbd.png",
+			"previous": " The Hessian matrix of a differentiable function Rn R consists of the second derivatives of with respect to the several coordinate directions i e 77 ",
+			"after": " Another matrix frequently used in geometrical situations is the Jacobi matrix of a differentiable map f Rn Rm If f1 fm denote the components of f then the Jacobi matrix is defined as 79  If n m and if the rank of the Jacobi matrix attains its maximal value m f is locally invertible at that point by the implicit function theorem 80 ",
+			"color": " ",
+			"after_weights": " Another|1 matrix|0.98438 frequently|0.96875 used|0.95312 in|0.9375 geometrical|0.92188 situations|0.90625 is|0.89062 the|0.875 Jacobi|0.85938 matrix|0.84375 of|0.82812 a|0.8125 differentiable|0.79688 map|0.78125 f|0.76562 Rn|0.75 Rm|0.73438 If|0.71875 f1|0.70312 fm|0.6875 denote|0.67188 the|0.65625 components|0.64062 of|0.625 f|0.60938 then|0.59375 the|0.57812 Jacobi|0.5625 matrix|0.54688 is|0.53125 defined|0.51562 as|0.5 79|0.48438 |0.46875 If|0.45312 n|0.4375 m|0.42188 and|0.40625 if|0.39062 the|0.375 rank|0.35938 of|0.34375 the|0.32812 Jacobi|0.3125 matrix|0.29688 attains|0.28125 its|0.26562 maximal|0.25 value|0.23438 m|0.21875 f|0.20312 is|0.1875 locally|0.17188 invertible|0.15625 at|0.14062 that|0.125 point|0.10938 by|0.09375 the|0.078125 implicit|0.0625 function|0.046875 theorem|0.03125 80|0.015625 |0",
+			"previous_weights": " The|0 Hessian|0.04 matrix|0.08 of|0.12 a|0.16 differentiable|0.2 function|0.24 Rn|0.28 R|0.32 consists|0.36 of|0.4 the|0.44 second|0.48 derivatives|0.52 of|0.56 with|0.6 respect|0.64 to|0.68 the|0.72 several|0.76 coordinate|0.8 directions|0.84 i|0.88 e|0.92 77|0.96 |1"
+		}
+	}
+}

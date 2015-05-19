@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "638a0b67e5aba44da405957da2664bb4cd6578a8cd6328af3716e415b5f05785",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Seaborne_-_N562CP_-_DHC_6-300.JPG/220px-Seaborne_-_N562CP_-_DHC_6-300.JPG",
+			"previous": " As of March 30 2015 Seaborne Airlines expanded American Airlines codeshare agreement to include St Thomas and St Croix 12 and adding Anguilla Services April 30 2015 ",
+			"after": " As of October 2014 the Seaborne Airlines fleet includes ",
+			"color": "steel|0.32048 blue|0.32048 light|0.28483 steel|0.28483 blue|0.28483 light|0.10978 slate|0.10978 gray|0.10978 black|0.10136 slate|0.071372 gray|0.071372 light|0.019837 sky|0.019837 blue|0.019837 dim|0.016323 gray|0.016323 dim|0.016323 grey|0.016323 lavender|0.015647 light|0.015161 blue|0.015161 dark|0.0074702 gray|0.0074702 dark|0.0074702 grey|0.0074702  ",
+			"after_weights": " As|1 of|0.88889 October|0.77778 2014|0.66667 the|0.55556 Seaborne|0.44444 Airlines|0.33333 fleet|0.22222 includes|0.11111 |0",
+			"previous_weights": " As|0 of|0.037037 March|0.074074 30|0.11111 2015|0.14815 Seaborne|0.18519 Airlines|0.22222 expanded|0.25926 American|0.2963 Airlines|0.33333 codeshare|0.37037 agreement|0.40741 to|0.44444 include|0.48148 St|0.51852 Thomas|0.55556 and|0.59259 St|0.62963 Croix|0.66667 12|0.7037 and|0.74074 adding|0.77778 Anguilla|0.81481 Services|0.85185 April|0.88889 30|0.92593 2015|0.96296 |1"
+		}
+	}
+}

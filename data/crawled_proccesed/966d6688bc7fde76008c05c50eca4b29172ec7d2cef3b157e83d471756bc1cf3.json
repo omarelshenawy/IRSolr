@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "966d6688bc7fde76008c05c50eca4b29172ec7d2cef3b157e83d471756bc1cf3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/1ukdiv.svg/22px-1ukdiv.svg.png",
+			"previous": " Currently the British Army has two active divisions ",
+			"after": " The British Army previously had four other infantry divisions These are now disbanded and were placed under one single two star command Support Command ",
+			"color": "black|0.40303 firebrick|0.14846 brown|0.077607 dark|0.054839 gray|0.054839 dark|0.054839 grey|0.054839 indian|0.052796 red|0.052796 dim|0.049739 gray|0.049739 dim|0.049739 grey|0.049739 gray|0.046266 grey|0.046266 silver|0.042964 light|0.030998 gray|0.030998 light|0.030998 grey|0.030998 gainsboro|0.023354 light|0.012787 coral|0.012787 white|0.0079214 smoke|0.0079214 white|0.0061965 snow|0.0057377 ghost|0.0052664 white|0.0052664 alice|0.005119 blue|0.005119 sea|0.0048128 shell|0.0048128 lavender|0.0043708 blush|0.0043708 mint|0.0042504 cream|0.0042504  ",
+			"after_weights": " The|1 British|0.95833 Army|0.91667 previously|0.875 had|0.83333 four|0.79167 other|0.75 infantry|0.70833 divisions|0.66667 These|0.625 are|0.58333 now|0.54167 disbanded|0.5 and|0.45833 were|0.41667 placed|0.375 under|0.33333 one|0.29167 single|0.25 two|0.20833 star|0.16667 command|0.125 Support|0.083333 Command|0.041667 |0",
+			"previous_weights": " Currently|0 the|0.125 British|0.25 Army|0.375 has|0.5 two|0.625 active|0.75 divisions|0.875 |1"
+		}
+	}
+}

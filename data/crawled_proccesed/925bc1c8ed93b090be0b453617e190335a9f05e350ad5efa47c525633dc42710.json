@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "925bc1c8ed93b090be0b453617e190335a9f05e350ad5efa47c525633dc42710",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gastornis.jpg/140px-Gastornis.jpg",
+			"previous": " ",
+			"after": " Birds began to re diversify during the epoch occupying new niches Most modern bird types had appeared by mid Cenozoic including perching birds cranes hawks pelicans herons owls ducks pigeons loons and woodpeckers ",
+			"color": "black|0.46705 dim|0.2404 gray|0.2404 dim|0.2404 grey|0.2404 gray|0.18987 grey|0.18987 dark|0.033868 gray|0.033868 dark|0.033868 grey|0.033868 rosy|0.015407 brown|0.015407 dark|0.013551 slate|0.013551 gray|0.013551 tan|0.010887  ",
+			"after_weights": " Birds|1 began|0.9697 to|0.93939 re|0.90909 diversify|0.87879 during|0.84848 the|0.81818 epoch|0.78788 occupying|0.75758 new|0.72727 niches|0.69697 Most|0.66667 modern|0.63636 bird|0.60606 types|0.57576 had|0.54545 appeared|0.51515 by|0.48485 mid|0.45455 Cenozoic|0.42424 including|0.39394 perching|0.36364 birds|0.33333 cranes|0.30303 hawks|0.27273 pelicans|0.24242 herons|0.21212 owls|0.18182 ducks|0.15152 pigeons|0.12121 loons|0.090909 and|0.060606 woodpeckers|0.030303 |0",
+			"previous_weights": " "
+		}
+	}
+}

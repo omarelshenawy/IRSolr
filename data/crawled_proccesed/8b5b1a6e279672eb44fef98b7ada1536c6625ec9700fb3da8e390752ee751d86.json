@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b5b1a6e279672eb44fef98b7ada1536c6625ec9700fb3da8e390752ee751d86",
+			"url": "https://upload.wikimedia.org/math/0/1/a/01a6fae9a049ed1d98e54d6e2934da91.png",
+			"previous": "  The intersection of and can be found by solving the simultaneous equations ",
+			"after": " Traditional methods for finding intersections include substitution and elimination  Substitution Solve the first equation for in terms of and then substitute the expression for into the second equation ",
+			"color": "dim|0.36395 gray|0.36395 dim|0.36395 grey|0.36395 gray|0.27436 grey|0.27436 dark|0.18286 gray|0.18286 dark|0.18286 grey|0.18286 silver|0.086287 light|0.043276 gray|0.043276 light|0.043276 grey|0.043276 gainsboro|0.03119 white|0.0047308 smoke|0.0047308  ",
+			"after_weights": " Traditional|1 methods|0.96552 for|0.93103 finding|0.89655 intersections|0.86207 include|0.82759 substitution|0.7931 and|0.75862 elimination|0.72414 |0.68966 Substitution|0.65517 Solve|0.62069 the|0.58621 first|0.55172 equation|0.51724 for|0.48276 in|0.44828 terms|0.41379 of|0.37931 and|0.34483 then|0.31034 substitute|0.27586 the|0.24138 expression|0.2069 for|0.17241 into|0.13793 the|0.10345 second|0.068966 equation|0.034483 |0",
+			"previous_weights": " |0 The|0.076923 intersection|0.15385 of|0.23077 and|0.30769 can|0.38462 be|0.46154 found|0.53846 by|0.61538 solving|0.69231 the|0.76923 simultaneous|0.84615 equations|0.92308 |1"
+		}
+	}
+}

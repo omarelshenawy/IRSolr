@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "94be8aa6642eccf67a4f654411b4091a5f97116c33a4af97ec68290762a65da6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/IL-18_Pyongyang_to_Samjiyon.jpg/230px-IL-18_Pyongyang_to_Samjiyon.jpg",
+			"previous": " Data from OKB Ilyushin 4  An Il 18 registration DDR STD belonging to Interflug and used as a transport by East German leaders including Erich Honecker has been converted into a static hotel suite in The Netherlands 3 ",
+			"after": " ",
+			"color": "dim|0.75075 gray|0.75075 dim|0.75075 grey|0.75075 gray|0.09709 grey|0.09709 black|0.053364 light|0.045041 steel|0.045041 blue|0.045041 dark|0.0095043 gray|0.0095043 dark|0.0095043 grey|0.0095043 light|0.0059863 slate|0.0059863 gray|0.0059863 silver|0.005953 slate|0.0044848 gray|0.0044848 light|0.004327 gray|0.004327 light|0.004327 grey|0.004327  ",
+			"after_weights": " ",
+			"previous_weights": " Data|0 from|0.025641 OKB|0.051282 Ilyushin|0.076923 4|0.10256 |0.12821 An|0.15385 Il|0.17949 18|0.20513 registration|0.23077 DDR|0.25641 STD|0.28205 belonging|0.30769 to|0.33333 Interflug|0.35897 and|0.38462 used|0.41026 as|0.4359 a|0.46154 transport|0.48718 by|0.51282 East|0.53846 German|0.5641 leaders|0.58974 including|0.61538 Erich|0.64103 Honecker|0.66667 has|0.69231 been|0.71795 converted|0.74359 into|0.76923 a|0.79487 static|0.82051 hotel|0.84615 suite|0.87179 in|0.89744 The|0.92308 Netherlands|0.94872 3|0.97436 |1"
+		}
+	}
+}

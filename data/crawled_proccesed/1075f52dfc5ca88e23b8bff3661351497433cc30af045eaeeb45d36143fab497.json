@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1075f52dfc5ca88e23b8bff3661351497433cc30af045eaeeb45d36143fab497",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Zagreb_Night.jpg/700px-Zagreb_Night.jpg",
+			"previous": " ",
+			"after": "  The city itself is not the only standalone settlement in the City of Zagreb administrative area there are a number of larger urban settlements like Sesvete and Lu ko and a number of smaller villages attached to it whose population is tracked separately 3 ",
+			"color": "black|0.81325 saddle|0.084313 brown|0.084313 sienna|0.037384  ",
+			"after_weights": " |1 The|0.97778 city|0.95556 itself|0.93333 is|0.91111 not|0.88889 the|0.86667 only|0.84444 standalone|0.82222 settlement|0.8 in|0.77778 the|0.75556 City|0.73333 of|0.71111 Zagreb|0.68889 administrative|0.66667 area|0.64444 there|0.62222 are|0.6 a|0.57778 number|0.55556 of|0.53333 larger|0.51111 urban|0.48889 settlements|0.46667 like|0.44444 Sesvete|0.42222 and|0.4 Lu|0.37778 ko|0.35556 and|0.33333 a|0.31111 number|0.28889 of|0.26667 smaller|0.24444 villages|0.22222 attached|0.2 to|0.17778 it|0.15556 whose|0.13333 population|0.11111 is|0.088889 tracked|0.066667 separately|0.044444 3|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

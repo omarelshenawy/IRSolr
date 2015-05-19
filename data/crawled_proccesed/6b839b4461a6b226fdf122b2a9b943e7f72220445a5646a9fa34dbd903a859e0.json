@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b839b4461a6b226fdf122b2a9b943e7f72220445a5646a9fa34dbd903a859e0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nike-Black_Brant_VC_XQC_launch.gif/300px-Nike-Black_Brant_VC_XQC_launch.gif",
+			"previous": " ",
+			"after": " Sounding rocket X ray astronomy is using a sounding rocket to carry an X ray detector to high altitudes The first evidence of X rays from the Sun and of an X radiation source from the Milky Way other than the Sun was detected by a sounding rocket These rockets have contributed significantly to our understanding of the Sun the solar system and the universe as a whole ",
+			"color": " ",
+			"after_weights": " Sounding|1 rocket|0.98529 X|0.97059 ray|0.95588 astronomy|0.94118 is|0.92647 using|0.91176 a|0.89706 sounding|0.88235 rocket|0.86765 to|0.85294 carry|0.83824 an|0.82353 X|0.80882 ray|0.79412 detector|0.77941 to|0.76471 high|0.75 altitudes|0.73529 The|0.72059 first|0.70588 evidence|0.69118 of|0.67647 X|0.66176 rays|0.64706 from|0.63235 the|0.61765 Sun|0.60294 and|0.58824 of|0.57353 an|0.55882 X|0.54412 radiation|0.52941 source|0.51471 from|0.5 the|0.48529 Milky|0.47059 Way|0.45588 other|0.44118 than|0.42647 the|0.41176 Sun|0.39706 was|0.38235 detected|0.36765 by|0.35294 a|0.33824 sounding|0.32353 rocket|0.30882 These|0.29412 rockets|0.27941 have|0.26471 contributed|0.25 significantly|0.23529 to|0.22059 our|0.20588 understanding|0.19118 of|0.17647 the|0.16176 Sun|0.14706 the|0.13235 solar|0.11765 system|0.10294 and|0.088235 the|0.073529 universe|0.058824 as|0.044118 a|0.029412 whole|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

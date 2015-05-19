@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ee95d28b69d8fb98abb994d755c05db6f5f868e0f36fabb5df419e3fa8129e8",
+			"url": "https://upload.wikimedia.org/math/0/5/f/05fb4b449238a4004f2bbcd96e8c3bdd.png",
+			"previous": " The method of separation of variables for the wave equation as well as the initial conditions If the string is stretched between two points where x 0 and x L and u denotes the amplitude of the displacement of the string then u satisfies the one dimensional wave equation in the region where 0 x L and t is unlimited Since the string is tied down at the ends u must also satisfy the boundary conditions",
+			"after": " leads to solutions of the form where",
+			"color": "black|0.34102 dim|0.26099 gray|0.26099 dim|0.26099 grey|0.26099 gray|0.18392 grey|0.18392 dark|0.10988 gray|0.10988 dark|0.10988 grey|0.10988 silver|0.047432 light|0.024504 gray|0.024504 light|0.024504 grey|0.024504 gainsboro|0.01772  ",
+			"after_weights": " leads|1 to|0.83333 solutions|0.66667 of|0.5 the|0.33333 form|0.16667 where|0",
+			"previous_weights": " The|0 method|0.013333 of|0.026667 separation|0.04 of|0.053333 variables|0.066667 for|0.08 the|0.093333 wave|0.10667 equation|0.12 as|0.13333 well|0.14667 as|0.16 the|0.17333 initial|0.18667 conditions|0.2 If|0.21333 the|0.22667 string|0.24 is|0.25333 stretched|0.26667 between|0.28 two|0.29333 points|0.30667 where|0.32 x|0.33333 0|0.34667 and|0.36 x|0.37333 L|0.38667 and|0.4 u|0.41333 denotes|0.42667 the|0.44 amplitude|0.45333 of|0.46667 the|0.48 displacement|0.49333 of|0.50667 the|0.52 string|0.53333 then|0.54667 u|0.56 satisfies|0.57333 the|0.58667 one|0.6 dimensional|0.61333 wave|0.62667 equation|0.64 in|0.65333 the|0.66667 region|0.68 where|0.69333 0|0.70667 x|0.72 L|0.73333 and|0.74667 t|0.76 is|0.77333 unlimited|0.78667 Since|0.8 the|0.81333 string|0.82667 is|0.84 tied|0.85333 down|0.86667 at|0.88 the|0.89333 ends|0.90667 u|0.92 must|0.93333 also|0.94667 satisfy|0.96 the|0.97333 boundary|0.98667 conditions|1"
+		}
+	}
+}

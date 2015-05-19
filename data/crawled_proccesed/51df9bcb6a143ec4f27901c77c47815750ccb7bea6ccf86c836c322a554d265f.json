@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51df9bcb6a143ec4f27901c77c47815750ccb7bea6ccf86c836c322a554d265f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CGN_Terminal1.jpg/220px-CGN_Terminal1.jpg",
+			"previous": " Cologne Bonn Airport is a major cargo hub in the world mainly due to its function as a hub for FedEx and UPS  The following airlines offer regular scheduled and charter flights at Cologne Bonn Airport 11 ",
+			"after": " ",
+			"color": "dark|0.17873 gray|0.17873 dark|0.17873 grey|0.17873 dim|0.14989 gray|0.14989 dim|0.14989 grey|0.14989 gray|0.14355 grey|0.14355 black|0.1061 silver|0.058908 white|0.03432 smoke|0.03432 alice|0.03258 blue|0.03258 ghost|0.032408 white|0.032408 sea|0.032126 shell|0.032126 snow|0.031953 lavender|0.031806 blush|0.031806 white|0.028918 mint|0.024878 cream|0.024878 gainsboro|0.023007 light|0.022036 gray|0.022036 light|0.022036 grey|0.022036 floral|0.019487 white|0.019487 linen|0.017476 azure|0.016556 slate|0.0063241 gray|0.0063241 dark|0.0045385 slate|0.0045385 gray|0.0045385 light|0.0035267 slate|0.0035267 gray|0.0035267  ",
+			"after_weights": " ",
+			"previous_weights": " Cologne|0 Bonn|0.026316 Airport|0.052632 is|0.078947 a|0.10526 major|0.13158 cargo|0.15789 hub|0.18421 in|0.21053 the|0.23684 world|0.26316 mainly|0.28947 due|0.31579 to|0.34211 its|0.36842 function|0.39474 as|0.42105 a|0.44737 hub|0.47368 for|0.5 FedEx|0.52632 and|0.55263 UPS|0.57895 |0.60526 The|0.63158 following|0.65789 airlines|0.68421 offer|0.71053 regular|0.73684 scheduled|0.76316 and|0.78947 charter|0.81579 flights|0.84211 at|0.86842 Cologne|0.89474 Bonn|0.92105 Airport|0.94737 11|0.97368 |1"
+		}
+	}
+}

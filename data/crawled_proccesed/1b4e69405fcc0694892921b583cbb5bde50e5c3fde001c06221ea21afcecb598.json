@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b4e69405fcc0694892921b583cbb5bde50e5c3fde001c06221ea21afcecb598",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Orlando_international_airport_atrium.jpg/220px-Orlando_international_airport_atrium.jpg",
+			"previous": " ",
+			"after": " The Orlando International Airport has a hub and spoke layout with a large main terminal building and four airside concourses accessible via elevated tram systems or people movers The main terminal building is divided into two terminals A and B There are passenger check in and baggage claim facilities on both the building s north side Terminal A and on the building s south side Terminal B Both terminals share two security checkpoints one in the West Hall leading to Airsides 1 and 3 and another in the East Atrium leading to Airsides 2 and 4 ",
+			"color": "dim|0.3821 gray|0.3821 dim|0.3821 grey|0.3821 gray|0.21649 grey|0.21649 black|0.20577 dark|0.037279 gray|0.037279 dark|0.037279 grey|0.037279 silver|0.016683 dark|0.015703 slate|0.015703 gray|0.015703 rosy|0.014705 brown|0.014705 misty|0.012093 rose|0.012093 light|0.010797 gray|0.010797 light|0.010797 grey|0.010797  ",
+			"after_weights": " The|1 Orlando|0.98958 International|0.97917 Airport|0.96875 has|0.95833 a|0.94792 hub|0.9375 and|0.92708 spoke|0.91667 layout|0.90625 with|0.89583 a|0.88542 large|0.875 main|0.86458 terminal|0.85417 building|0.84375 and|0.83333 four|0.82292 airside|0.8125 concourses|0.80208 accessible|0.79167 via|0.78125 elevated|0.77083 tram|0.76042 systems|0.75 or|0.73958 people|0.72917 movers|0.71875 The|0.70833 main|0.69792 terminal|0.6875 building|0.67708 is|0.66667 divided|0.65625 into|0.64583 two|0.63542 terminals|0.625 A|0.61458 and|0.60417 B|0.59375 There|0.58333 are|0.57292 passenger|0.5625 check|0.55208 in|0.54167 and|0.53125 baggage|0.52083 claim|0.51042 facilities|0.5 on|0.48958 both|0.47917 the|0.46875 building|0.45833 s|0.44792 north|0.4375 side|0.42708 Terminal|0.41667 A|0.40625 and|0.39583 on|0.38542 the|0.375 building|0.36458 s|0.35417 south|0.34375 side|0.33333 Terminal|0.32292 B|0.3125 Both|0.30208 terminals|0.29167 share|0.28125 two|0.27083 security|0.26042 checkpoints|0.25 one|0.23958 in|0.22917 the|0.21875 West|0.20833 Hall|0.19792 leading|0.1875 to|0.17708 Airsides|0.16667 1|0.15625 and|0.14583 3|0.13542 and|0.125 another|0.11458 in|0.10417 the|0.09375 East|0.083333 Atrium|0.072917 leading|0.0625 to|0.052083 Airsides|0.041667 2|0.03125 and|0.020833 4|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

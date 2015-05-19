@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "149eb371d2e01e22f07a9401c5ff4db32d12afa3c1d9c5b98a3bd585b664c898",
+			"url": "https://upload.wikimedia.org/math/9/a/c/9ace9b2df80519c6edabddcd8f579d91.png",
+			"previous": " In Fracture mechanics Anderson Gomez and Paris derived relationships for the stage II crack growth with cycles N in terms of the cyclical component K of the Stress Intensity Factor K 13 ",
+			"after": " where a is the crack length and m is typically in the range 3 to 5 for metals ",
+			"color": "dim|0.36715 gray|0.36715 dim|0.36715 grey|0.36715 gray|0.28411 grey|0.28411 dark|0.18824 gray|0.18824 dark|0.18824 grey|0.18824 silver|0.080195 light|0.037908 gray|0.037908 light|0.037908 grey|0.037908 gainsboro|0.025546 white|0.0040619 smoke|0.0040619 black|0.0030741  ",
+			"after_weights": " where|1 a|0.94444 is|0.88889 the|0.83333 crack|0.77778 length|0.72222 and|0.66667 m|0.61111 is|0.55556 typically|0.5 in|0.44444 the|0.38889 range|0.33333 3|0.27778 to|0.22222 5|0.16667 for|0.11111 metals|0.055556 |0",
+			"previous_weights": " In|0 Fracture|0.03125 mechanics|0.0625 Anderson|0.09375 Gomez|0.125 and|0.15625 Paris|0.1875 derived|0.21875 relationships|0.25 for|0.28125 the|0.3125 stage|0.34375 II|0.375 crack|0.40625 growth|0.4375 with|0.46875 cycles|0.5 N|0.53125 in|0.5625 terms|0.59375 of|0.625 the|0.65625 cyclical|0.6875 component|0.71875 K|0.75 of|0.78125 the|0.8125 Stress|0.84375 Intensity|0.875 Factor|0.90625 K|0.9375 13|0.96875 |1"
+		}
+	}
+}

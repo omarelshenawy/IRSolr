@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "95ef80ff3870b83a9313d0537a8df5be66ceec61d10aaacba44b49df07b2661a",
+			"url": "https://upload.wikimedia.org/math/5/9/0/590adac7438521ddc2cc897fd2717fb1.png",
+			"previous": " In complex reactions stoichiometries are often represented in a more compact form called the stoichiometry matrix The stoichiometry matrix is denoted by the symbol ",
+			"after": " For example consider the system of reactions shown below ",
+			"color": "dark|0.25767 gray|0.25767 dark|0.25767 grey|0.25767 silver|0.22754 light|0.1515 gray|0.1515 light|0.1515 grey|0.1515 gainsboro|0.11912 white|0.040249 smoke|0.040249 lavender|0.025455 blush|0.025455 alice|0.024966 blue|0.024966 ghost|0.02422 white|0.02422 sea|0.023638 shell|0.023638 snow|0.023028 white|0.019544 linen|0.018289 mint|0.015309 cream|0.015309 floral|0.011726 white|0.011726 azure|0.010016 gray|0.0077362 grey|0.0077362  ",
+			"after_weights": " For|1 example|0.88889 consider|0.77778 the|0.66667 system|0.55556 of|0.44444 reactions|0.33333 shown|0.22222 below|0.11111 |0",
+			"previous_weights": " In|0 complex|0.041667 reactions|0.083333 stoichiometries|0.125 are|0.16667 often|0.20833 represented|0.25 in|0.29167 a|0.33333 more|0.375 compact|0.41667 form|0.45833 called|0.5 the|0.54167 stoichiometry|0.58333 matrix|0.625 The|0.66667 stoichiometry|0.70833 matrix|0.75 is|0.79167 denoted|0.83333 by|0.875 the|0.91667 symbol|0.95833 |1"
+		}
+	}
+}

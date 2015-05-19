@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bc166e0f8b47af985a2bc9af385d196dcbac416f7d8a8619b97334c82c2754d",
+			"url": "https://upload.wikimedia.org/math/c/f/6/cf635938399838541de76d923b6d3147.png",
+			"previous": " Classical variables that do not change upon time reversal include  In physical and chemical kinetics T symmetry of the mechanical microscopic equations implies two important laws the principle of detailed balance and the Onsager reciprocal relations T symmetry of the microscopic description together with its kinetic consequences are called microscopic reversibility ",
+			"after": " Classical variables that time reversal negates include ",
+			"color": "dark|0.30996 gray|0.30996 dark|0.30996 grey|0.30996 gray|0.28352 grey|0.28352 silver|0.15717 light|0.085752 gray|0.085752 light|0.085752 grey|0.085752 gainsboro|0.061864 dim|0.051652 gray|0.051652 dim|0.051652 grey|0.051652 white|0.011616 smoke|0.011616 linen|0.0058839 lavender|0.0056248 blush|0.0056248 alice|0.005301 blue|0.005301 ghost|0.0049772 white|0.0049772 sea|0.0046533 shell|0.0046533 snow|0.0044509 white|0.0033355  ",
+			"after_weights": " Classical|1 variables|0.85714 that|0.71429 time|0.57143 reversal|0.42857 negates|0.28571 include|0.14286 |0",
+			"previous_weights": " Classical|0 variables|0.019231 that|0.038462 do|0.057692 not|0.076923 change|0.096154 upon|0.11538 time|0.13462 reversal|0.15385 include|0.17308 |0.19231 In|0.21154 physical|0.23077 and|0.25 chemical|0.26923 kinetics|0.28846 T|0.30769 symmetry|0.32692 of|0.34615 the|0.36538 mechanical|0.38462 microscopic|0.40385 equations|0.42308 implies|0.44231 two|0.46154 important|0.48077 laws|0.5 the|0.51923 principle|0.53846 of|0.55769 detailed|0.57692 balance|0.59615 and|0.61538 the|0.63462 Onsager|0.65385 reciprocal|0.67308 relations|0.69231 T|0.71154 symmetry|0.73077 of|0.75 the|0.76923 microscopic|0.78846 description|0.80769 together|0.82692 with|0.84615 its|0.86538 kinetic|0.88462 consequences|0.90385 are|0.92308 called|0.94231 microscopic|0.96154 reversibility|0.98077 |1"
+		}
+	}
+}

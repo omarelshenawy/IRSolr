@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63024256eac7d6441b1dfcd1a92dae1d1262cc448a1c61429d38631f32288f5b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Two_Rodeo1.jpg/220px-Two_Rodeo1.jpg",
+			"previous": " Shopping Beaches Promoted as the Entertainment Capital of the World Greater Los Angeles is one of the world s largest tourist destinations Major attractions include  Greater Los Angeles Area is the home of the US national headquarters of almost all Asian major car manufacturers except Nissan Toyota and Subaru Nissan moved to Tennessee Toyota moved to Texas Subaru first located in Philadelphia but moved to New Jersey Honda Mazda Mitsubishi Suzuki Hyundai and Kia have set up their national headquarters here citation needed ",
+			"after": " Motion picture studios Nightlife Amusement theme parks",
+			"color": "black|0.50046 dim|0.26348 gray|0.26348 dim|0.26348 grey|0.26348 gray|0.10154 grey|0.10154 dark|0.020543 gray|0.020543 dark|0.020543 grey|0.020543 rosy|0.019833 brown|0.019833 dark|0.018539 slate|0.018539 gray|0.018539 silver|0.011378 slate|0.010331 gray|0.010331 light|0.0078075 gray|0.0078075 light|0.0078075 grey|0.0078075 light|0.0075052 slate|0.0075052 gray|0.0075052  ",
+			"after_weights": " Motion|1 picture|0.83333 studios|0.66667 Nightlife|0.5 Amusement|0.33333 theme|0.16667 parks|0",
+			"previous_weights": " Shopping|0 Beaches|0.011905 Promoted|0.02381 as|0.035714 the|0.047619 Entertainment|0.059524 Capital|0.071429 of|0.083333 the|0.095238 World|0.10714 Greater|0.11905 Los|0.13095 Angeles|0.14286 is|0.15476 one|0.16667 of|0.17857 the|0.19048 world|0.20238 s|0.21429 largest|0.22619 tourist|0.2381 destinations|0.25 Major|0.2619 attractions|0.27381 include|0.28571 |0.29762 Greater|0.30952 Los|0.32143 Angeles|0.33333 Area|0.34524 is|0.35714 the|0.36905 home|0.38095 of|0.39286 the|0.40476 US|0.41667 national|0.42857 headquarters|0.44048 of|0.45238 almost|0.46429 all|0.47619 Asian|0.4881 major|0.5 car|0.5119 manufacturers|0.52381 except|0.53571 Nissan|0.54762 Toyota|0.55952 and|0.57143 Subaru|0.58333 Nissan|0.59524 moved|0.60714 to|0.61905 Tennessee|0.63095 Toyota|0.64286 moved|0.65476 to|0.66667 Texas|0.67857 Subaru|0.69048 first|0.70238 located|0.71429 in|0.72619 Philadelphia|0.7381 but|0.75 moved|0.7619 to|0.77381 New|0.78571 Jersey|0.79762 Honda|0.80952 Mazda|0.82143 Mitsubishi|0.83333 Suzuki|0.84524 Hyundai|0.85714 and|0.86905 Kia|0.88095 have|0.89286 set|0.90476 up|0.91667 their|0.92857 national|0.94048 headquarters|0.95238 here|0.96429 citation|0.97619 needed|0.9881 |1"
+		}
+	}
+}

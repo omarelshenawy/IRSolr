@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7efcf59c4f552c258e392e85f4d71ba5d3c284eb611720e7b15214ead15fdb9f",
+			"url": "https://upload.wikimedia.org/math/0/f/5/0f55bbda5aba69d856cd66d1d8bd4408.png",
+			"previous": " In some problems we need to be able to solve the inverse problem given determine This may be solved by Newton s method iterating",
+			"after": " until convergence A suitable starting guess is given by where is the rectifying latitude Note that it there is no need to differentiate the series for since the formula for the meridian radius of curvature can be used instead ",
+			"color": "dim|0.3498 gray|0.3498 dim|0.3498 grey|0.3498 gray|0.28734 grey|0.28734 dark|0.18984 gray|0.18984 dark|0.18984 grey|0.18984 silver|0.084343 light|0.043324 gray|0.043324 light|0.043324 grey|0.043324 gainsboro|0.029676 white|0.0037472 smoke|0.0037472  ",
+			"after_weights": " until|1 convergence|0.97436 A|0.94872 suitable|0.92308 starting|0.89744 guess|0.87179 is|0.84615 given|0.82051 by|0.79487 where|0.76923 is|0.74359 the|0.71795 rectifying|0.69231 latitude|0.66667 Note|0.64103 that|0.61538 it|0.58974 there|0.5641 is|0.53846 no|0.51282 need|0.48718 to|0.46154 differentiate|0.4359 the|0.41026 series|0.38462 for|0.35897 since|0.33333 the|0.30769 formula|0.28205 for|0.25641 the|0.23077 meridian|0.20513 radius|0.17949 of|0.15385 curvature|0.12821 can|0.10256 be|0.076923 used|0.051282 instead|0.025641 |0",
+			"previous_weights": " In|0 some|0.043478 problems|0.086957 we|0.13043 need|0.17391 to|0.21739 be|0.26087 able|0.30435 to|0.34783 solve|0.3913 the|0.43478 inverse|0.47826 problem|0.52174 given|0.56522 determine|0.6087 This|0.65217 may|0.69565 be|0.73913 solved|0.78261 by|0.82609 Newton|0.86957 s|0.91304 method|0.95652 iterating|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e0b65b33f4f9858a46a201c82a6358b90c1227e843bae5d6b09f186559eebea",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Koltsovo_Airport_Finnair.jpg/220px-Koltsovo_Airport_Finnair.jpg",
+			"previous": " On 13 August 2014 Finnair announced plans to initially deploy its A350 900 aircraft on services to Bangkok Beijing and Shanghai from 2015 with A350 services to Hong Kong and Singapore to be added in 2016 ",
+			"after": " On 3 December 2014 it was announced that Finnair had firmed up the contract for 8 additional Airbus A350 900 aircraft deliveries starting in 2018 17 ",
+			"color": "dim|0.40108 gray|0.40108 dim|0.40108 grey|0.40108 gray|0.15761 grey|0.15761 dark|0.085166 gray|0.085166 dark|0.085166 grey|0.085166 dark|0.083122 slate|0.083122 gray|0.083122 black|0.082928 silver|0.04951  ",
+			"after_weights": " On|1 3|0.96154 December|0.92308 2014|0.88462 it|0.84615 was|0.80769 announced|0.76923 that|0.73077 Finnair|0.69231 had|0.65385 firmed|0.61538 up|0.57692 the|0.53846 contract|0.5 for|0.46154 8|0.42308 additional|0.38462 Airbus|0.34615 A350|0.30769 900|0.26923 aircraft|0.23077 deliveries|0.19231 starting|0.15385 in|0.11538 2018|0.076923 17|0.038462 |0",
+			"previous_weights": " On|0 13|0.027778 August|0.055556 2014|0.083333 Finnair|0.11111 announced|0.13889 plans|0.16667 to|0.19444 initially|0.22222 deploy|0.25 its|0.27778 A350|0.30556 900|0.33333 aircraft|0.36111 on|0.38889 services|0.41667 to|0.44444 Bangkok|0.47222 Beijing|0.5 and|0.52778 Shanghai|0.55556 from|0.58333 2015|0.61111 with|0.63889 A350|0.66667 services|0.69444 to|0.72222 Hong|0.75 Kong|0.77778 and|0.80556 Singapore|0.83333 to|0.86111 be|0.88889 added|0.91667 in|0.94444 2016|0.97222 |1"
+		}
+	}
+}

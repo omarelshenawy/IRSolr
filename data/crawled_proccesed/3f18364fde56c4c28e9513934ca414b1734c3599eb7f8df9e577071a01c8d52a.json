@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f18364fde56c4c28e9513934ca414b1734c3599eb7f8df9e577071a01c8d52a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dolphins_11-11-2007_015.jpg/200px-Dolphins_11-11-2007_015.jpg",
+			"previous": " ",
+			"after": " The stadium has played host to five Super Bowls 1989 1995 1999 2007 and 2010 There has been a kickoff return for a touchdown in each Super Bowl played at the stadium except in the most recent game The stadium also hosted the 2010 Pro Bowl ",
+			"color": "dark|0.54814 olive|0.54814 green|0.54814 olive|0.22467 drab|0.22467 dark|0.049351 gray|0.049351 dark|0.049351 grey|0.049351 gray|0.043985 grey|0.043985 dim|0.035579 gray|0.035579 dim|0.035579 grey|0.035579 silver|0.024573 black|0.01671  ",
+			"after_weights": " The|1 stadium|0.97826 has|0.95652 played|0.93478 host|0.91304 to|0.8913 five|0.86957 Super|0.84783 Bowls|0.82609 1989|0.80435 1995|0.78261 1999|0.76087 2007|0.73913 and|0.71739 2010|0.69565 There|0.67391 has|0.65217 been|0.63043 a|0.6087 kickoff|0.58696 return|0.56522 for|0.54348 a|0.52174 touchdown|0.5 in|0.47826 each|0.45652 Super|0.43478 Bowl|0.41304 played|0.3913 at|0.36957 the|0.34783 stadium|0.32609 except|0.30435 in|0.28261 the|0.26087 most|0.23913 recent|0.21739 game|0.19565 The|0.17391 stadium|0.15217 also|0.13043 hosted|0.1087 the|0.086957 2010|0.065217 Pro|0.043478 Bowl|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

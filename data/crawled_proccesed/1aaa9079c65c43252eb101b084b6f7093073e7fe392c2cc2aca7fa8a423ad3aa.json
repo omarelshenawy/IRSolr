@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1aaa9079c65c43252eb101b084b6f7093073e7fe392c2cc2aca7fa8a423ad3aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Air-pollution-taiwan.JPG/220px-Air-pollution-taiwan.JPG",
+			"previous": " Pollution began to draw major public attention in the United States between the mid 1950s and early 1970s when Congress passed the Noise Control Act the Clean Air Act the Clean Water Act and the National Environmental Policy Act 14 ",
+			"after": " Severe incidents of pollution helped increase consciousness PCB dumping in the Hudson River resulted in a ban by the EPA on consumption of its fish in 1974 Long term dioxin contamination at Love Canal starting in 1947 became a national news story in 1978 and led to the Superfund legislation of 1980 15 The pollution of industrial land gave rise to the name brownfield a term now common in city planning ",
+			"color": "dim|0.81722 gray|0.81722 dim|0.81722 grey|0.81722 dark|0.079273 slate|0.079273 gray|0.079273 gray|0.055491 grey|0.055491 black|0.034282  ",
+			"after_weights": " Severe|1 incidents|0.98592 of|0.97183 pollution|0.95775 helped|0.94366 increase|0.92958 consciousness|0.91549 PCB|0.90141 dumping|0.88732 in|0.87324 the|0.85915 Hudson|0.84507 River|0.83099 resulted|0.8169 in|0.80282 a|0.78873 ban|0.77465 by|0.76056 the|0.74648 EPA|0.73239 on|0.71831 consumption|0.70423 of|0.69014 its|0.67606 fish|0.66197 in|0.64789 1974|0.6338 Long|0.61972 term|0.60563 dioxin|0.59155 contamination|0.57746 at|0.56338 Love|0.5493 Canal|0.53521 starting|0.52113 in|0.50704 1947|0.49296 became|0.47887 a|0.46479 national|0.4507 news|0.43662 story|0.42254 in|0.40845 1978|0.39437 and|0.38028 led|0.3662 to|0.35211 the|0.33803 Superfund|0.32394 legislation|0.30986 of|0.29577 1980|0.28169 15|0.26761 The|0.25352 pollution|0.23944 of|0.22535 industrial|0.21127 land|0.19718 gave|0.1831 rise|0.16901 to|0.15493 the|0.14085 name|0.12676 brownfield|0.11268 a|0.098592 term|0.084507 now|0.070423 common|0.056338 in|0.042254 city|0.028169 planning|0.014085 |0",
+			"previous_weights": " Pollution|0 began|0.025 to|0.05 draw|0.075 major|0.1 public|0.125 attention|0.15 in|0.175 the|0.2 United|0.225 States|0.25 between|0.275 the|0.3 mid|0.325 1950s|0.35 and|0.375 early|0.4 1970s|0.425 when|0.45 Congress|0.475 passed|0.5 the|0.525 Noise|0.55 Control|0.575 Act|0.6 the|0.625 Clean|0.65 Air|0.675 Act|0.7 the|0.725 Clean|0.75 Water|0.775 Act|0.8 and|0.825 the|0.85 National|0.875 Environmental|0.9 Policy|0.925 Act|0.95 14|0.975 |1"
+		}
+	}
+}

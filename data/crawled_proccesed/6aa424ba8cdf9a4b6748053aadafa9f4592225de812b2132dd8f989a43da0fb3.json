@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6aa424ba8cdf9a4b6748053aadafa9f4592225de812b2132dd8f989a43da0fb3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/KLM_777_pushback.jpg/220px-KLM_777_pushback.jpg",
+			"previous": " ",
+			"after": " Most airports have groundcrew handling the loading and unloading of passengers crew baggage and other services citation needed Some groundcrew are linked to specific airlines operating at the airport ",
+			"color": "dim|0.56028 gray|0.56028 dim|0.56028 grey|0.56028 gray|0.15003 grey|0.15003 black|0.058893 dark|0.048707 gray|0.048707 dark|0.048707 grey|0.048707 slate|0.029875 gray|0.029875 light|0.028227 slate|0.028227 gray|0.028227 silver|0.027105 light|0.021079 gray|0.021079 light|0.021079 grey|0.021079 gainsboro|0.017357 steel|0.014941 blue|0.014941 lavender|0.011362 light|0.0082836 steel|0.0082836 blue|0.0082836 light|0.0055756 sky|0.0055756 blue|0.0055756  ",
+			"after_weights": " Most|1 airports|0.96552 have|0.93103 groundcrew|0.89655 handling|0.86207 the|0.82759 loading|0.7931 and|0.75862 unloading|0.72414 of|0.68966 passengers|0.65517 crew|0.62069 baggage|0.58621 and|0.55172 other|0.51724 services|0.48276 citation|0.44828 needed|0.41379 Some|0.37931 groundcrew|0.34483 are|0.31034 linked|0.27586 to|0.24138 specific|0.2069 airlines|0.17241 operating|0.13793 at|0.10345 the|0.068966 airport|0.034483 |0",
+			"previous_weights": " "
+		}
+	}
+}

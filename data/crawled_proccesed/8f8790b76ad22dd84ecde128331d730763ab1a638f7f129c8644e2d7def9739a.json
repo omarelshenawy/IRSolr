@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f8790b76ad22dd84ecde128331d730763ab1a638f7f129c8644e2d7def9739a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Raf-sentinel-ZJ692-071029-08-16.jpg/220px-Raf-sentinel-ZJ692-071029-08-16.jpg",
+			"previous": " AEW C is also known by the older terms airborne early warning AEW and airborne warning and control system AWACS e w ks ay waks although AWACS is the name of a specific system currently used by NATO and the USAF and is often used in error to describe similar systems ",
+			"after": " Reconnaissance aircraft are primarily used to gather intelligence They are equipped with cameras and other sensors These aircraft may be specially designed or may be modified from a basic fighter or bomber type This role is increasingly being filled by satellites and unmanned aerial vehicles UAVs ",
+			"color": "dark|0.37755 gray|0.37755 dark|0.37755 grey|0.37755 light|0.19828 slate|0.19828 gray|0.19828 silver|0.15089 slate|0.092321 gray|0.092321 dim|0.078828 gray|0.078828 dim|0.078828 grey|0.078828 gray|0.051178 grey|0.051178 light|0.015571 gray|0.015571 light|0.015571 grey|0.015571 light|0.015333 steel|0.015333 blue|0.015333 black|0.0067066  ",
+			"after_weights": " Reconnaissance|1 aircraft|0.97826 are|0.95652 primarily|0.93478 used|0.91304 to|0.8913 gather|0.86957 intelligence|0.84783 They|0.82609 are|0.80435 equipped|0.78261 with|0.76087 cameras|0.73913 and|0.71739 other|0.69565 sensors|0.67391 These|0.65217 aircraft|0.63043 may|0.6087 be|0.58696 specially|0.56522 designed|0.54348 or|0.52174 may|0.5 be|0.47826 modified|0.45652 from|0.43478 a|0.41304 basic|0.3913 fighter|0.36957 or|0.34783 bomber|0.32609 type|0.30435 This|0.28261 role|0.26087 is|0.23913 increasingly|0.21739 being|0.19565 filled|0.17391 by|0.15217 satellites|0.13043 and|0.1087 unmanned|0.086957 aerial|0.065217 vehicles|0.043478 UAVs|0.021739 |0",
+			"previous_weights": " AEW|0 C|0.019608 is|0.039216 also|0.058824 known|0.078431 by|0.098039 the|0.11765 older|0.13725 terms|0.15686 airborne|0.17647 early|0.19608 warning|0.21569 AEW|0.23529 and|0.2549 airborne|0.27451 warning|0.29412 and|0.31373 control|0.33333 system|0.35294 AWACS|0.37255 e|0.39216 w|0.41176 ks|0.43137 ay|0.45098 waks|0.47059 although|0.4902 AWACS|0.5098 is|0.52941 the|0.54902 name|0.56863 of|0.58824 a|0.60784 specific|0.62745 system|0.64706 currently|0.66667 used|0.68627 by|0.70588 NATO|0.72549 and|0.7451 the|0.76471 USAF|0.78431 and|0.80392 is|0.82353 often|0.84314 used|0.86275 in|0.88235 error|0.90196 to|0.92157 describe|0.94118 similar|0.96078 systems|0.98039 |1"
+		}
+	}
+}

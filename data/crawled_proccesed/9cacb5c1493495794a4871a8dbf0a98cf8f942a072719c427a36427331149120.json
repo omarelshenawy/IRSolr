@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cacb5c1493495794a4871a8dbf0a98cf8f942a072719c427a36427331149120",
+			"url": "https://upload.wikimedia.org/math/3/2/8/3285ca0f951df0a46916395405998600.png",
+			"previous": " The ring of Hurwitz quaternions is not commutative hence it is not an actual Euclidean domain and it does not have unique factorization in the usual sense Nevertheless the property above implies that every right ideal is principal Thus there is a Hurwitz quaternion such that",
+			"after": " In particular for some Hurwitz quaternion If were a unit would be a multiple of however this is impossible as is not a Hurwitz quaternion for Similarly if were a unit we would have",
+			"color": "dim|0.38893 gray|0.38893 dim|0.38893 grey|0.38893 gray|0.27404 grey|0.27404 dark|0.16951 gray|0.16951 dark|0.16951 grey|0.16951 silver|0.081661 light|0.042497 gray|0.042497 light|0.042497 grey|0.042497 gainsboro|0.029411 white|0.0034059 smoke|0.0034059  ",
+			"after_weights": " In|1 particular|0.9697 for|0.93939 some|0.90909 Hurwitz|0.87879 quaternion|0.84848 If|0.81818 were|0.78788 a|0.75758 unit|0.72727 would|0.69697 be|0.66667 a|0.63636 multiple|0.60606 of|0.57576 however|0.54545 this|0.51515 is|0.48485 impossible|0.45455 as|0.42424 is|0.39394 not|0.36364 a|0.33333 Hurwitz|0.30303 quaternion|0.27273 for|0.24242 Similarly|0.21212 if|0.18182 were|0.15152 a|0.12121 unit|0.090909 we|0.060606 would|0.030303 have|0",
+			"previous_weights": " The|0 ring|0.022222 of|0.044444 Hurwitz|0.066667 quaternions|0.088889 is|0.11111 not|0.13333 commutative|0.15556 hence|0.17778 it|0.2 is|0.22222 not|0.24444 an|0.26667 actual|0.28889 Euclidean|0.31111 domain|0.33333 and|0.35556 it|0.37778 does|0.4 not|0.42222 have|0.44444 unique|0.46667 factorization|0.48889 in|0.51111 the|0.53333 usual|0.55556 sense|0.57778 Nevertheless|0.6 the|0.62222 property|0.64444 above|0.66667 implies|0.68889 that|0.71111 every|0.73333 right|0.75556 ideal|0.77778 is|0.8 principal|0.82222 Thus|0.84444 there|0.86667 is|0.88889 a|0.91111 Hurwitz|0.93333 quaternion|0.95556 such|0.97778 that|1"
+		}
+	}
+}

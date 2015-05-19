@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7d8f89d59d169cbe6bd2f0fdfc6b99de223c9c5b31930e4f2fc0dddabd47a5f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bush_cropped.jpg/220px-Bush_cropped.jpg",
+			"previous": " According to one exit poll people who voted for Bush cited the issues of terrorism and moral values as the most important factors in their decision 13 Kerry supporters cited the war in Iraq the economy and jobs and health care 13 ",
+			"after": " Over the course of Bush s first term in office his extremely high approval ratings immediately following the September 11 2001 terrorist attacks steadily dwindled peaking only during combat operations in Iraq in the spring of 2003 and again following the capture of Saddam Hussein in December the same year 14 Kerry supporters attempted to capitalize on the dwindling popularity to rally anti war sentiment ",
+			"color": "black|0.31695 light|0.12944 blue|0.12944 light|0.12708 steel|0.12708 blue|0.12708 light|0.11091 sky|0.11091 blue|0.11091 corn|0.096802 flower|0.096802 blue|0.096802 steel|0.065245 blue|0.065245 lavender|0.027168 powder|0.020114 blue|0.020114 sky|0.019314 blue|0.019314 light|0.015368 cyan|0.015368 alice|0.014572 blue|0.014572  ",
+			"after_weights": " Over|1 the|0.98462 course|0.96923 of|0.95385 Bush|0.93846 s|0.92308 first|0.90769 term|0.89231 in|0.87692 office|0.86154 his|0.84615 extremely|0.83077 high|0.81538 approval|0.8 ratings|0.78462 immediately|0.76923 following|0.75385 the|0.73846 September|0.72308 11|0.70769 2001|0.69231 terrorist|0.67692 attacks|0.66154 steadily|0.64615 dwindled|0.63077 peaking|0.61538 only|0.6 during|0.58462 combat|0.56923 operations|0.55385 in|0.53846 Iraq|0.52308 in|0.50769 the|0.49231 spring|0.47692 of|0.46154 2003|0.44615 and|0.43077 again|0.41538 following|0.4 the|0.38462 capture|0.36923 of|0.35385 Saddam|0.33846 Hussein|0.32308 in|0.30769 December|0.29231 the|0.27692 same|0.26154 year|0.24615 14|0.23077 Kerry|0.21538 supporters|0.2 attempted|0.18462 to|0.16923 capitalize|0.15385 on|0.13846 the|0.12308 dwindling|0.10769 popularity|0.092308 to|0.076923 rally|0.061538 anti|0.046154 war|0.030769 sentiment|0.015385 |0",
+			"previous_weights": " According|0 to|0.02381 one|0.047619 exit|0.071429 poll|0.095238 people|0.11905 who|0.14286 voted|0.16667 for|0.19048 Bush|0.21429 cited|0.2381 the|0.2619 issues|0.28571 of|0.30952 terrorism|0.33333 and|0.35714 moral|0.38095 values|0.40476 as|0.42857 the|0.45238 most|0.47619 important|0.5 factors|0.52381 in|0.54762 their|0.57143 decision|0.59524 13|0.61905 Kerry|0.64286 supporters|0.66667 cited|0.69048 the|0.71429 war|0.7381 in|0.7619 Iraq|0.78571 the|0.80952 economy|0.83333 and|0.85714 jobs|0.88095 and|0.90476 health|0.92857 care|0.95238 13|0.97619 |1"
+		}
+	}
+}

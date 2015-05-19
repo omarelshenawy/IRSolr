@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14b91e40a3e7611c281104c7dca5f247d293de26c86af7ac748560ed4ec5c103",
+			"url": "https://upload.wikimedia.org/math/7/4/8/748a979fee9d899ccbee0d2281de4294.png",
+			"previous": " It is common practice to extend the outer product on vectors to the entire algebra This may be done through the use of the grade projection operator ",
+			"after": " This generalization is consistent with the above definition involving antisymmetrization Another generalization related to the outer product is the commutator product ",
+			"color": "dim|0.37474 gray|0.37474 dim|0.37474 grey|0.37474 gray|0.30959 grey|0.30959 dark|0.17867 gray|0.17867 dark|0.17867 grey|0.17867 silver|0.071331 light|0.028698 gray|0.028698 light|0.028698 grey|0.028698 gainsboro|0.019525 white|0.0035459 smoke|0.0035459  ",
+			"after_weights": " This|1 generalization|0.95238 is|0.90476 consistent|0.85714 with|0.80952 the|0.7619 above|0.71429 definition|0.66667 involving|0.61905 antisymmetrization|0.57143 Another|0.52381 generalization|0.47619 related|0.42857 to|0.38095 the|0.33333 outer|0.28571 product|0.2381 is|0.19048 the|0.14286 commutator|0.095238 product|0.047619 |0",
+			"previous_weights": " It|0 is|0.037037 common|0.074074 practice|0.11111 to|0.14815 extend|0.18519 the|0.22222 outer|0.25926 product|0.2963 on|0.33333 vectors|0.37037 to|0.40741 the|0.44444 entire|0.48148 algebra|0.51852 This|0.55556 may|0.59259 be|0.62963 done|0.66667 through|0.7037 the|0.74074 use|0.77778 of|0.81481 the|0.85185 grade|0.88889 projection|0.92593 operator|0.96296 |1"
+		}
+	}
+}

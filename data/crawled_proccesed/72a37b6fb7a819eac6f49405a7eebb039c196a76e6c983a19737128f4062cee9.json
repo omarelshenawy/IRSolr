@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72a37b6fb7a819eac6f49405a7eebb039c196a76e6c983a19737128f4062cee9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PK-GPQ_%2816529833146%29.jpg/220px-PK-GPQ_%2816529833146%29.jpg",
+			"previous": " The dedicated Freight Terminal is located north of Terminal 1 It is used for international freight operations except for Tasman Cargo Airlines trans Tasman services It is also used as overflow parking when all Terminal 1 gates are occupied ",
+			"after": " ",
+			"color": "dim|0.32993 gray|0.32993 dim|0.32993 grey|0.32993 dark|0.15391 gray|0.15391 dark|0.15391 grey|0.15391 silver|0.099142 gray|0.081796 grey|0.081796 light|0.068029 gray|0.068029 light|0.068029 grey|0.068029 light|0.046422 slate|0.046422 gray|0.046422 gainsboro|0.045158 slate|0.03637 gray|0.03637 light|0.031304 steel|0.031304 blue|0.031304 lavender|0.023223 steel|0.018993 blue|0.018993 black|0.018174 dark|0.016809 slate|0.016809 gray|0.016809  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 dedicated|0.025641 Freight|0.051282 Terminal|0.076923 is|0.10256 located|0.12821 north|0.15385 of|0.17949 Terminal|0.20513 1|0.23077 It|0.25641 is|0.28205 used|0.30769 for|0.33333 international|0.35897 freight|0.38462 operations|0.41026 except|0.4359 for|0.46154 Tasman|0.48718 Cargo|0.51282 Airlines|0.53846 trans|0.5641 Tasman|0.58974 services|0.61538 It|0.64103 is|0.66667 also|0.69231 used|0.71795 as|0.74359 overflow|0.76923 parking|0.79487 when|0.82051 all|0.84615 Terminal|0.87179 1|0.89744 gates|0.92308 are|0.94872 occupied|0.97436 |1"
+		}
+	}
+}

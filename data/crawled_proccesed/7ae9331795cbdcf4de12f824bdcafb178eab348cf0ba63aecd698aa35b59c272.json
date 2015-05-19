@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ae9331795cbdcf4de12f824bdcafb178eab348cf0ba63aecd698aa35b59c272",
+			"url": "https://upload.wikimedia.org/math/4/3/0/430e7de2484db3b5a632379437c6cef7.png",
+			"previous": " A measure can be extended to a complete one by considering the algebra of subsets Y which differ by a negligible set from a measurable set X that is such that the symmetric difference of X and Y is contained in a null set One defines Y to equal X ",
+			"after": " That is we define the sum of the ri to be the supremum of all the sums of finitely many of them ",
+			"color": "gray|0.30667 grey|0.30667 dark|0.23336 gray|0.23336 dark|0.23336 grey|0.23336 dim|0.22747 gray|0.22747 dim|0.22747 grey|0.22747 silver|0.11299 light|0.059615 gray|0.059615 light|0.059615 grey|0.059615 gainsboro|0.042325 white|0.0049681 smoke|0.0049681  ",
+			"after_weights": " That|1 is|0.95455 we|0.90909 define|0.86364 the|0.81818 sum|0.77273 of|0.72727 the|0.68182 ri|0.63636 to|0.59091 be|0.54545 the|0.5 supremum|0.45455 of|0.40909 all|0.36364 the|0.31818 sums|0.27273 of|0.22727 finitely|0.18182 many|0.13636 of|0.090909 them|0.045455 |0",
+			"previous_weights": " A|0 measure|0.02 can|0.04 be|0.06 extended|0.08 to|0.1 a|0.12 complete|0.14 one|0.16 by|0.18 considering|0.2 the|0.22 algebra|0.24 of|0.26 subsets|0.28 Y|0.3 which|0.32 differ|0.34 by|0.36 a|0.38 negligible|0.4 set|0.42 from|0.44 a|0.46 measurable|0.48 set|0.5 X|0.52 that|0.54 is|0.56 such|0.58 that|0.6 the|0.62 symmetric|0.64 difference|0.66 of|0.68 X|0.7 and|0.72 Y|0.74 is|0.76 contained|0.78 in|0.8 a|0.82 null|0.84 set|0.86 One|0.88 defines|0.9 Y|0.92 to|0.94 equal|0.96 X|0.98 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "09f67524589a3b49f73651a3e58be3561f97430d65ad7b9590c22308e4a22e28",
+			"url": "https://upload.wikimedia.org/math/7/e/8/7e884aeee8a96805f82190b136e0b5da.png",
+			"previous": " and this quantity is the square of the Euclidean distance between z and the origin For instance z z z 1 is the unit circle  In analytic geometry a plane is described with Cartesian coordinates C x y x y in R The points are sometimes identified with complex numbers z x y where the square of is in 1 0 1 The Euclidean plane corresponds to the case 2 1 since the modulus of z is given by",
+			"after": " and z z z 1 is the unit hyperbola  When then z is a dual number 25 ",
+			"color": "dim|0.3869 gray|0.3869 dim|0.3869 grey|0.3869 gray|0.28049 grey|0.28049 dark|0.17255 gray|0.17255 dark|0.17255 grey|0.17255 silver|0.070829 light|0.038271 gray|0.038271 light|0.038271 grey|0.038271 gainsboro|0.027988 white|0.0061091 smoke|0.0061091  ",
+			"after_weights": " and|1 z|0.94444 z|0.88889 z|0.83333 1|0.77778 is|0.72222 the|0.66667 unit|0.61111 hyperbola|0.55556 |0.5 When|0.44444 then|0.38889 z|0.33333 is|0.27778 a|0.22222 dual|0.16667 number|0.11111 25|0.055556 |0",
+			"previous_weights": " and|0 this|0.012658 quantity|0.025316 is|0.037975 the|0.050633 square|0.063291 of|0.075949 the|0.088608 Euclidean|0.10127 distance|0.11392 between|0.12658 z|0.13924 and|0.1519 the|0.16456 origin|0.17722 For|0.18987 instance|0.20253 z|0.21519 z|0.22785 z|0.24051 1|0.25316 is|0.26582 the|0.27848 unit|0.29114 circle|0.3038 |0.31646 In|0.32911 analytic|0.34177 geometry|0.35443 a|0.36709 plane|0.37975 is|0.39241 described|0.40506 with|0.41772 Cartesian|0.43038 coordinates|0.44304 C|0.4557 x|0.46835 y|0.48101 x|0.49367 y|0.50633 in|0.51899 R|0.53165 The|0.5443 points|0.55696 are|0.56962 sometimes|0.58228 identified|0.59494 with|0.60759 complex|0.62025 numbers|0.63291 z|0.64557 x|0.65823 y|0.67089 where|0.68354 the|0.6962 square|0.70886 of|0.72152 is|0.73418 in|0.74684 1|0.75949 0|0.77215 1|0.78481 The|0.79747 Euclidean|0.81013 plane|0.82278 corresponds|0.83544 to|0.8481 the|0.86076 case|0.87342 2|0.88608 1|0.89873 since|0.91139 the|0.92405 modulus|0.93671 of|0.94937 z|0.96203 is|0.97468 given|0.98734 by|1"
+		}
+	}
+}

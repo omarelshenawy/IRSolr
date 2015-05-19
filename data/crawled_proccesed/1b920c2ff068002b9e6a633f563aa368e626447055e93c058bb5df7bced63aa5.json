@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b920c2ff068002b9e6a633f563aa368e626447055e93c058bb5df7bced63aa5",
+			"url": "https://upload.wikimedia.org/math/0/1/f/01f04899ce96ca79453bacf7c0dfcadd.png",
+			"previous": " The following two identities are also usually regarded as axioms even though they follow from the two absorption laws taken together note 1 ",
+			"after": " These axioms assert that both L and L are semilattices The absorption laws the only axioms above in which both meet and join appear distinguish a lattice from an arbitrary pair of semilattices and assure that the two semilattices interact appropriately In particular each semilattice is the dual of the other ",
+			"color": "black|0.39169 dim|0.25737 gray|0.25737 dim|0.25737 grey|0.25737 gray|0.16801 grey|0.16801 dark|0.10523 gray|0.10523 dark|0.10523 grey|0.10523 silver|0.041778 light|0.017892 gray|0.017892 light|0.017892 grey|0.017892 gainsboro|0.011209  ",
+			"after_weights": " These|1 axioms|0.98039 assert|0.96078 that|0.94118 both|0.92157 L|0.90196 and|0.88235 L|0.86275 are|0.84314 semilattices|0.82353 The|0.80392 absorption|0.78431 laws|0.76471 the|0.7451 only|0.72549 axioms|0.70588 above|0.68627 in|0.66667 which|0.64706 both|0.62745 meet|0.60784 and|0.58824 join|0.56863 appear|0.54902 distinguish|0.52941 a|0.5098 lattice|0.4902 from|0.47059 an|0.45098 arbitrary|0.43137 pair|0.41176 of|0.39216 semilattices|0.37255 and|0.35294 assure|0.33333 that|0.31373 the|0.29412 two|0.27451 semilattices|0.2549 interact|0.23529 appropriately|0.21569 In|0.19608 particular|0.17647 each|0.15686 semilattice|0.13725 is|0.11765 the|0.098039 dual|0.078431 of|0.058824 the|0.039216 other|0.019608 |0",
+			"previous_weights": " The|0 following|0.043478 two|0.086957 identities|0.13043 are|0.17391 also|0.21739 usually|0.26087 regarded|0.30435 as|0.34783 axioms|0.3913 even|0.43478 though|0.47826 they|0.52174 follow|0.56522 from|0.6087 the|0.65217 two|0.69565 absorption|0.73913 laws|0.78261 taken|0.82609 together|0.86957 note|0.91304 1|0.95652 |1"
+		}
+	}
+}

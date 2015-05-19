@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "958e66e464c5f21eb33f53fd16fc35b789748b40fb282789457c99bd28a407ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Packhorse_bridge_in_Marsden%2C_West_Yorkshire.jpg/170px-Packhorse_bridge_in_Marsden%2C_West_Yorkshire.jpg",
+			"previous": " ",
+			"after": " The Holme Valley Mountain Rescue Team has its headquarters in Marsden Operating from two bays of Marsden Fire Station the volunteer team provides rescue cover for surrounding moorland areas and also assists West Yorkshire Police with searches for missing people The team was founded in 1965 and was originally based in Meltham before relocating to Marsden in 2005 ",
+			"color": "dim|0.384 gray|0.384 dim|0.384 grey|0.384 dark|0.15795 olive|0.15795 green|0.15795 black|0.15398 gray|0.12501 grey|0.12501 dark|0.052063 khaki|0.052063 tan|0.030763 burly|0.028815 wood|0.028815  ",
+			"after_weights": " The|1 Holme|0.98276 Valley|0.96552 Mountain|0.94828 Rescue|0.93103 Team|0.91379 has|0.89655 its|0.87931 headquarters|0.86207 in|0.84483 Marsden|0.82759 Operating|0.81034 from|0.7931 two|0.77586 bays|0.75862 of|0.74138 Marsden|0.72414 Fire|0.7069 Station|0.68966 the|0.67241 volunteer|0.65517 team|0.63793 provides|0.62069 rescue|0.60345 cover|0.58621 for|0.56897 surrounding|0.55172 moorland|0.53448 areas|0.51724 and|0.5 also|0.48276 assists|0.46552 West|0.44828 Yorkshire|0.43103 Police|0.41379 with|0.39655 searches|0.37931 for|0.36207 missing|0.34483 people|0.32759 The|0.31034 team|0.2931 was|0.27586 founded|0.25862 in|0.24138 1965|0.22414 and|0.2069 was|0.18966 originally|0.17241 based|0.15517 in|0.13793 Meltham|0.12069 before|0.10345 relocating|0.086207 to|0.068966 Marsden|0.051724 in|0.034483 2005|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12e8aecba3faf759ef98819fcaeada395fc543ead00031318af66bda48de9736",
+			"url": "https://upload.wikimedia.org/math/f/d/7/fd7431ff725a2ac07fc4f650ea43121d.png",
+			"previous": " In analytic geometry a plane is described with Cartesian coordinates C x y x y in R The points are sometimes identified with complex numbers z x y where the square of is in 1 0 1 The Euclidean plane corresponds to the case 2 1 since the modulus of z is given by",
+			"after": " and this quantity is the square of the Euclidean distance between z and the origin For instance z z z 1 is the unit circle ",
+			"color": "dim|0.40463 gray|0.40463 dim|0.40463 grey|0.40463 gray|0.27327 grey|0.27327 dark|0.15699 gray|0.15699 dark|0.15699 grey|0.15699 silver|0.069669 light|0.034256 gray|0.034256 light|0.034256 grey|0.034256 gainsboro|0.024127 black|0.022412 white|0.0040381 smoke|0.0040381  ",
+			"after_weights": " and|1 this|0.96 quantity|0.92 is|0.88 the|0.84 square|0.8 of|0.76 the|0.72 Euclidean|0.68 distance|0.64 between|0.6 z|0.56 and|0.52 the|0.48 origin|0.44 For|0.4 instance|0.36 z|0.32 z|0.28 z|0.24 1|0.2 is|0.16 the|0.12 unit|0.08 circle|0.04 |0",
+			"previous_weights": " In|0 analytic|0.018868 geometry|0.037736 a|0.056604 plane|0.075472 is|0.09434 described|0.11321 with|0.13208 Cartesian|0.15094 coordinates|0.16981 C|0.18868 x|0.20755 y|0.22642 x|0.24528 y|0.26415 in|0.28302 R|0.30189 The|0.32075 points|0.33962 are|0.35849 sometimes|0.37736 identified|0.39623 with|0.41509 complex|0.43396 numbers|0.45283 z|0.4717 x|0.49057 y|0.50943 where|0.5283 the|0.54717 square|0.56604 of|0.58491 is|0.60377 in|0.62264 1|0.64151 0|0.66038 1|0.67925 The|0.69811 Euclidean|0.71698 plane|0.73585 corresponds|0.75472 to|0.77358 the|0.79245 case|0.81132 2|0.83019 1|0.84906 since|0.86792 the|0.88679 modulus|0.90566 of|0.92453 z|0.9434 is|0.96226 given|0.98113 by|1"
+		}
+	}
+}

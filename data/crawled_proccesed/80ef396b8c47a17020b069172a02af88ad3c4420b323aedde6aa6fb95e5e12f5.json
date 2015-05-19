@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80ef396b8c47a17020b069172a02af88ad3c4420b323aedde6aa6fb95e5e12f5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Luggage_carousel_at_Ben_Gurion_International_Airort.jpg/220px-Luggage_carousel_at_Ben_Gurion_International_Airort.jpg",
+			"previous": " ",
+			"after": " A baggage carousel is a device generally at an airport that delivers checked luggage to the passengers at the baggage claim area at their final destination Not all airports use these devices Airports that do not have carousels generally deliver baggage by placing it on the floor or sliding it through an opening in a wall 1 ",
+			"color": "black|0.37347 golden|0.087994 rod|0.087994 dim|0.077741 gray|0.077741 dim|0.077741 grey|0.077741 dark|0.050944 golden|0.050944 rod|0.050944  ",
+			"after_weights": " A|1 baggage|0.98246 carousel|0.96491 is|0.94737 a|0.92982 device|0.91228 generally|0.89474 at|0.87719 an|0.85965 airport|0.84211 that|0.82456 delivers|0.80702 checked|0.78947 luggage|0.77193 to|0.75439 the|0.73684 passengers|0.7193 at|0.70175 the|0.68421 baggage|0.66667 claim|0.64912 area|0.63158 at|0.61404 their|0.59649 final|0.57895 destination|0.5614 Not|0.54386 all|0.52632 airports|0.50877 use|0.49123 these|0.47368 devices|0.45614 Airports|0.4386 that|0.42105 do|0.40351 not|0.38596 have|0.36842 carousels|0.35088 generally|0.33333 deliver|0.31579 baggage|0.29825 by|0.2807 placing|0.26316 it|0.24561 on|0.22807 the|0.21053 floor|0.19298 or|0.17544 sliding|0.15789 it|0.14035 through|0.12281 an|0.10526 opening|0.087719 in|0.070175 a|0.052632 wall|0.035088 1|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f989802600a9bbe307173e2e468d07b7c8feb2b7d0d564bc461a3656fb2316d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/PetersCanyonPark.jpg/220px-PetersCanyonPark.jpg",
+			"previous": " ",
+			"after": " As of the census 24 of 2000 there were 128 821 people 40 930 households and 30 165 families residing in the city The population density is 5 506 4 inhabitants per square mile 2 126 5 km There were 41 904 housing units at an average density of 1 791 2 per square mile 691 7 km ",
+			"color": "dim|0.50385 gray|0.50385 dim|0.50385 grey|0.50385 dark|0.21472 olive|0.21472 green|0.21472 gray|0.1468 grey|0.1468  ",
+			"after_weights": " As|1 of|0.98276 the|0.96552 census|0.94828 24|0.93103 of|0.91379 2000|0.89655 there|0.87931 were|0.86207 128|0.84483 821|0.82759 people|0.81034 40|0.7931 930|0.77586 households|0.75862 and|0.74138 30|0.72414 165|0.7069 families|0.68966 residing|0.67241 in|0.65517 the|0.63793 city|0.62069 The|0.60345 population|0.58621 density|0.56897 is|0.55172 5|0.53448 506|0.51724 4|0.5 inhabitants|0.48276 per|0.46552 square|0.44828 mile|0.43103 2|0.41379 126|0.39655 5|0.37931 km|0.36207 There|0.34483 were|0.32759 41|0.31034 904|0.2931 housing|0.27586 units|0.25862 at|0.24138 an|0.22414 average|0.2069 density|0.18966 of|0.17241 1|0.15517 791|0.13793 2|0.12069 per|0.10345 square|0.086207 mile|0.068966 691|0.051724 7|0.034483 km|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

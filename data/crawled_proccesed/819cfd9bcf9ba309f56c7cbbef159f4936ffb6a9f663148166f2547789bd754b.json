@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "819cfd9bcf9ba309f56c7cbbef159f4936ffb6a9f663148166f2547789bd754b",
+			"url": "https://upload.wikimedia.org/math/e/7/b/e7b25039234acc191f9af03c4c46770f.png",
+			"previous": " Intake pressure recovery factor  Design component performance assumptions   factor up by 1 8 if working with degrees Rankine ",
+			"after": " Turbine polytropic efficiency  Combustor pressure loss 5 so the combustor pressure ratio Jetpipe pressure loss 1 so the jetpipe pressure ratio",
+			"color": "gray|0.31855 grey|0.31855 dim|0.27332 gray|0.27332 dim|0.27332 grey|0.27332 dark|0.22114 gray|0.22114 dark|0.22114 grey|0.22114 silver|0.094212 light|0.044476 gray|0.044476 light|0.044476 grey|0.044476 gainsboro|0.029646 white|0.0049261 smoke|0.0049261  ",
+			"after_weights": " Turbine|1 polytropic|0.95238 efficiency|0.90476 |0.85714 Combustor|0.80952 pressure|0.7619 loss|0.71429 5|0.66667 so|0.61905 the|0.57143 combustor|0.52381 pressure|0.47619 ratio|0.42857 Jetpipe|0.38095 pressure|0.33333 loss|0.28571 1|0.2381 so|0.19048 the|0.14286 jetpipe|0.095238 pressure|0.047619 ratio|0",
+			"previous_weights": " Intake|0 pressure|0.047619 recovery|0.095238 factor|0.14286 |0.19048 Design|0.2381 component|0.28571 performance|0.33333 assumptions|0.38095 |0.42857 |0.47619 factor|0.52381 up|0.57143 by|0.61905 1|0.66667 8|0.71429 if|0.7619 working|0.80952 with|0.85714 degrees|0.90476 Rankine|0.95238 |1"
+		}
+	}
+}

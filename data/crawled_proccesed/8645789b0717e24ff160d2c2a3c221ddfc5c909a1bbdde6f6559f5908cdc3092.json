@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Map_of_the_Federated_States_of_Micronesia_CIA.jpg/300px-Map_of_the_Federated_States_of_Micronesia_CIA.jpg",
 			"previous": " In international politics the Federated States of Micronesia has often voted with the United States with respect to United Nations General Assembly resolutions 5 ",
 			"after": " The four states in the federation are ",
+			"color": "light|0.68683 steel|0.68683 blue|0.68683 light|0.17607 blue|0.17607 wheat|0.028685 light|0.015828 slate|0.015828 gray|0.015828 bisque|0.014335 slate|0.013376 gray|0.013376 moccasin|0.0090886 peach|0.0089797 puff|0.0089797 powder|0.0069863 blue|0.0069863 tan|0.0058527 blanched|0.0052334 almond|0.0052334 navajo|0.0044735 white|0.0044735 lavender|0.0038427 sky|0.0037651 blue|0.0037651  ",
 			"after_weights": " The|1 four|0.85714 states|0.71429 in|0.57143 the|0.42857 federation|0.28571 are|0.14286 |0",
 			"previous_weights": " In|0 international|0.041667 politics|0.083333 the|0.125 Federated|0.16667 States|0.20833 of|0.25 Micronesia|0.29167 has|0.33333 often|0.375 voted|0.41667 with|0.45833 the|0.5 United|0.54167 States|0.58333 with|0.625 respect|0.66667 to|0.70833 United|0.75 Nations|0.79167 General|0.83333 Assembly|0.875 resolutions|0.91667 5|0.95833 |1"
 		}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28d884ccd399e17f56f21150dae33857a3aa6df4060a8196e83abe902df70f71",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_klipper.png/20px-Nuvola_apps_klipper.png",
+			"previous": " MOS guidelines help guide editing but do not trump our policies on BLP s and consensus ",
+			"after": " Please use these templates where applicable Beware of using too many templates on the same article which can clutter the page ",
+			"color": "light|0.10506 sky|0.10506 blue|0.10506 light|0.10429 steel|0.10429 blue|0.10429 lavender|0.062686 corn|0.057362 flower|0.057362 blue|0.057362 navajo|0.031898 white|0.031898 chocolate|0.030336 dark|0.025227 salmon|0.025227 peru|0.023963 misty|0.02321 rose|0.02321 moccasin|0.02254 gainsboro|0.02226 light|0.020712 gray|0.020712 light|0.020712 grey|0.020712 peach|0.020561 puff|0.020561 bisque|0.020405 wheat|0.020381 sandy|0.020118 brown|0.020118 alice|0.02 blue|0.02 antique|0.019692 white|0.019692 white|0.017076 smoke|0.017076 blanched|0.017 almond|0.017 papaya|0.015782 whip|0.015782 ghost|0.015072 white|0.015072 linen|0.014643 sea|0.0133 shell|0.0133 burly|0.013164 wood|0.013164 snow|0.012891 old|0.012328 lace|0.012328 floral|0.012107 white|0.012107 corn|0.011505 silk|0.011505 silver|0.011465 white|0.011414 dark|0.011335 gray|0.011335 dark|0.011335 grey|0.011335 azure|0.011332 indian|0.01086 red|0.01086 mint|0.010701 cream|0.010701 rosy|0.0093644 brown|0.0093644 tan|0.0093626 beige|0.0092094 lemon|0.008723 chiffon|0.008723 ivory|0.0085633 firebrick|0.0084268 dodger|0.0078334 blue|0.0078334 lavender|0.0076956 blush|0.0076956 light|0.0072342 golden|0.0072342 rod|0.0072342 yellow|0.0072342 orange|0.0063023 light|0.0061966 yellow|0.0061966 light|0.0056733 slate|0.0056733 gray|0.0056733  ",
+			"after_weights": " Please|1 use|0.95238 these|0.90476 templates|0.85714 where|0.80952 applicable|0.7619 Beware|0.71429 of|0.66667 using|0.61905 too|0.57143 many|0.52381 templates|0.47619 on|0.42857 the|0.38095 same|0.33333 article|0.28571 which|0.2381 can|0.19048 clutter|0.14286 the|0.095238 page|0.047619 |0",
+			"previous_weights": " MOS|0 guidelines|0.0625 help|0.125 guide|0.1875 editing|0.25 but|0.3125 do|0.375 not|0.4375 trump|0.5 our|0.5625 policies|0.625 on|0.6875 BLP|0.75 s|0.8125 and|0.875 consensus|0.9375 |1"
+		}
+	}
+}

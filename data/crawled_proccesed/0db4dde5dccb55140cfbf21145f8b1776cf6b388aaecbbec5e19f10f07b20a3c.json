@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0db4dde5dccb55140cfbf21145f8b1776cf6b388aaecbbec5e19f10f07b20a3c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hirth_2702V.JPG/220px-Hirth_2702V.JPG",
+			"previous": "  Heinkel Hirth Motoren G m b H   Hindustan Aircraft Limited Hindustan Aeronautics HAL ",
+			"after": "  Soci t Fran aise Hispano Suiza  Data from 16   Georg Goebel of Darmstadt ver Gandenbergesche Maschinen Fabrik Source RMV 1 ",
+			"color": "dark|0.25984 gray|0.25984 dark|0.25984 grey|0.25984 silver|0.21391 black|0.1991 dim|0.098909 gray|0.098909 dim|0.098909 grey|0.098909 light|0.065202 gray|0.065202 light|0.065202 grey|0.065202 gray|0.057082 grey|0.057082 gainsboro|0.038889 dark|0.023902 golden|0.023902 rod|0.023902 slate|0.01539 gray|0.01539 light|0.010983 slate|0.010983 gray|0.010983  ",
+			"after_weights": " |1 Soci|0.95833 t|0.91667 Fran|0.875 aise|0.83333 Hispano|0.79167 Suiza|0.75 |0.70833 Data|0.66667 from|0.625 16|0.58333 |0.54167 |0.5 Georg|0.45833 Goebel|0.41667 of|0.375 Darmstadt|0.33333 ver|0.29167 Gandenbergesche|0.25 Maschinen|0.20833 Fabrik|0.16667 Source|0.125 RMV|0.083333 1|0.041667 |0",
+			"previous_weights": " |0 Heinkel|0.0625 Hirth|0.125 Motoren|0.1875 G|0.25 m|0.3125 b|0.375 H|0.4375 |0.5 |0.5625 Hindustan|0.625 Aircraft|0.6875 Limited|0.75 Hindustan|0.8125 Aeronautics|0.875 HAL|0.9375 |1"
+		}
+	}
+}

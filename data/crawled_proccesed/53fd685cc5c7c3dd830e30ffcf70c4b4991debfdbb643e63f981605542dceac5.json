@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "53fd685cc5c7c3dd830e30ffcf70c4b4991debfdbb643e63f981605542dceac5",
+			"url": "https://upload.wikimedia.org/math/3/9/3/393f4d9beeb76ba76729cd07adee4aeb.png",
+			"previous": " On a manifold locally we may assign a tangent surface spanned by a set of basis vectors We can associate the components of a metric tensor the Christoffel symbols and the Riemann tensor as follows ",
+			"after": " These relations embed the theory of differential geometry within geometric calculus ",
+			"color": "dim|0.39871 gray|0.39871 dim|0.39871 grey|0.39871 gray|0.24149 grey|0.24149 dark|0.13696 gray|0.13696 dark|0.13696 grey|0.13696 black|0.12363 silver|0.052219 light|0.023173 gray|0.023173 light|0.023173 grey|0.023173 gainsboro|0.014747  ",
+			"after_weights": " These|1 relations|0.90909 embed|0.81818 the|0.72727 theory|0.63636 of|0.54545 differential|0.45455 geometry|0.36364 within|0.27273 geometric|0.18182 calculus|0.090909 |0",
+			"previous_weights": " On|0 a|0.028571 manifold|0.057143 locally|0.085714 we|0.11429 may|0.14286 assign|0.17143 a|0.2 tangent|0.22857 surface|0.25714 spanned|0.28571 by|0.31429 a|0.34286 set|0.37143 of|0.4 basis|0.42857 vectors|0.45714 We|0.48571 can|0.51429 associate|0.54286 the|0.57143 components|0.6 of|0.62857 a|0.65714 metric|0.68571 tensor|0.71429 the|0.74286 Christoffel|0.77143 symbols|0.8 and|0.82857 the|0.85714 Riemann|0.88571 tensor|0.91429 as|0.94286 follows|0.97143 |1"
+		}
+	}
+}

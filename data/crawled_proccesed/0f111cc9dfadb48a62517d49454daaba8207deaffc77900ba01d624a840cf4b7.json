@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f111cc9dfadb48a62517d49454daaba8207deaffc77900ba01d624a840cf4b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Transcription_label_en.jpg/200px-Transcription_label_en.jpg",
+			"previous": " ",
+			"after": " Gene expression first involves transcription in which DNA is used as a template to produce RNA In the case of genes encoding proteins that RNA produced from this process is messenger RNA mRNA which then needs to be translated by ribosomes to form a protein As ribosomes are located outside the nucleus mRNA produced needs to be exported 51 ",
+			"color": "silver|0.29195 dark|0.27949 gray|0.27949 dark|0.27949 grey|0.27949 light|0.16474 gray|0.16474 light|0.16474 grey|0.16474 gainsboro|0.098201 gray|0.051811 grey|0.051811 dim|0.02731 gray|0.02731 dim|0.02731 grey|0.02731 lavender|0.023735 light|0.018534 steel|0.018534 blue|0.018534 black|0.011794 thistle|0.0052654 white|0.0034782 smoke|0.0034782  ",
+			"after_weights": " Gene|1 expression|0.98305 first|0.9661 involves|0.94915 transcription|0.9322 in|0.91525 which|0.89831 DNA|0.88136 is|0.86441 used|0.84746 as|0.83051 a|0.81356 template|0.79661 to|0.77966 produce|0.76271 RNA|0.74576 In|0.72881 the|0.71186 case|0.69492 of|0.67797 genes|0.66102 encoding|0.64407 proteins|0.62712 that|0.61017 RNA|0.59322 produced|0.57627 from|0.55932 this|0.54237 process|0.52542 is|0.50847 messenger|0.49153 RNA|0.47458 mRNA|0.45763 which|0.44068 then|0.42373 needs|0.40678 to|0.38983 be|0.37288 translated|0.35593 by|0.33898 ribosomes|0.32203 to|0.30508 form|0.28814 a|0.27119 protein|0.25424 As|0.23729 ribosomes|0.22034 are|0.20339 located|0.18644 outside|0.16949 the|0.15254 nucleus|0.13559 mRNA|0.11864 produced|0.10169 needs|0.084746 to|0.067797 be|0.050847 exported|0.033898 51|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

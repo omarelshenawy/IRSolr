@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25ae8a07c7763039da768e8f5d425e1bb4805e7eb0c1ad783741a049511cc4ce",
+			"url": "https://upload.wikimedia.org/math/e/9/c/e9cdfc4fb7a69b0b6b2fd3aafb60fe3a.png",
+			"previous": " Triple differencing followed by numerical root finding and a mathematical technique called least squares can estimate the position of one receiver given the position of another First compute the difference between satellites then between receivers and finally between epochs Other orders of taking differences are equally valid Detailed discussion of the errors is omitted ",
+			"after": " ",
+			"color": "dim|0.38818 gray|0.38818 dim|0.38818 grey|0.38818 gray|0.2586 grey|0.2586 dark|0.15232 gray|0.15232 dark|0.15232 grey|0.15232 black|0.075039 silver|0.062895 light|0.028553 gray|0.028553 light|0.028553 grey|0.028553 gainsboro|0.019193 white|0.0033951 smoke|0.0033951  ",
+			"after_weights": " ",
+			"previous_weights": " Triple|0 differencing|0.018519 followed|0.037037 by|0.055556 numerical|0.074074 root|0.092593 finding|0.11111 and|0.12963 a|0.14815 mathematical|0.16667 technique|0.18519 called|0.2037 least|0.22222 squares|0.24074 can|0.25926 estimate|0.27778 the|0.2963 position|0.31481 of|0.33333 one|0.35185 receiver|0.37037 given|0.38889 the|0.40741 position|0.42593 of|0.44444 another|0.46296 First|0.48148 compute|0.5 the|0.51852 difference|0.53704 between|0.55556 satellites|0.57407 then|0.59259 between|0.61111 receivers|0.62963 and|0.64815 finally|0.66667 between|0.68519 epochs|0.7037 Other|0.72222 orders|0.74074 of|0.75926 taking|0.77778 differences|0.7963 are|0.81481 equally|0.83333 valid|0.85185 Detailed|0.87037 discussion|0.88889 of|0.90741 the|0.92593 errors|0.94444 is|0.96296 omitted|0.98148 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8af8e1abdfc1ab301b0eea57ff913fde1e99d29d2ec064b14011940447e8b63f",
+			"url": "https://upload.wikimedia.org/math/0/0/2/0026bae9a19d3f616f0abe8c18dd3664.png",
+			"previous": " where is the imaginary unit Note that and Then In the example of the 3 3 cyclic permutation matrix above the characteristic polynomial has two additional non real roots namely",
+			"after": " Therefore the vectors and are eigenvectors of with eigenvalues and respectively  Let be an eigenvalue of an matrix The algebraic multiplicity of is its multiplicity as a root of the characteristic polynomial that is the largest integer such that divides evenly that polynomial 17 18 ",
+			"color": "dim|0.60624 gray|0.60624 dim|0.60624 grey|0.60624 gray|0.2122 grey|0.2122 dark|0.10398 gray|0.10398 dark|0.10398 grey|0.10398 silver|0.037447 light|0.017686 gray|0.017686 light|0.017686 grey|0.017686 gainsboro|0.012999  ",
+			"after_weights": " Therefore|1 the|0.97826 vectors|0.95652 and|0.93478 are|0.91304 eigenvectors|0.8913 of|0.86957 with|0.84783 eigenvalues|0.82609 and|0.80435 respectively|0.78261 |0.76087 Let|0.73913 be|0.71739 an|0.69565 eigenvalue|0.67391 of|0.65217 an|0.63043 matrix|0.6087 The|0.58696 algebraic|0.56522 multiplicity|0.54348 of|0.52174 is|0.5 its|0.47826 multiplicity|0.45652 as|0.43478 a|0.41304 root|0.3913 of|0.36957 the|0.34783 characteristic|0.32609 polynomial|0.30435 that|0.28261 is|0.26087 the|0.23913 largest|0.21739 integer|0.19565 such|0.17391 that|0.15217 divides|0.13043 evenly|0.1087 that|0.086957 polynomial|0.065217 17|0.043478 18|0.021739 |0",
+			"previous_weights": " where|0 is|0.034483 the|0.068966 imaginary|0.10345 unit|0.13793 Note|0.17241 that|0.2069 and|0.24138 Then|0.27586 In|0.31034 the|0.34483 example|0.37931 of|0.41379 the|0.44828 3|0.48276 3|0.51724 cyclic|0.55172 permutation|0.58621 matrix|0.62069 above|0.65517 the|0.68966 characteristic|0.72414 polynomial|0.75862 has|0.7931 two|0.82759 additional|0.86207 non|0.89655 real|0.93103 roots|0.96552 namely|1"
+		}
+	}
+}

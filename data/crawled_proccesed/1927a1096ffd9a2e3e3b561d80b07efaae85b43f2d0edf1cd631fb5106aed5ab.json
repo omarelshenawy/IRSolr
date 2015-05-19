@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1927a1096ffd9a2e3e3b561d80b07efaae85b43f2d0edf1cd631fb5106aed5ab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Juancito2.png/220px-Juancito2.png",
+			"previous": " Longeing US or lungeing UK Australasia informal US  Livery stable or Livery yard Hard keeper US or poor doer UK ",
+			"after": " Putting to BI hitching NA  Ridgling rig Silhouette or outline diagram Stable hand US stable lad lass UK ",
+			"color": "dark|0.29582 gray|0.29582 dark|0.29582 grey|0.29582 silver|0.20259 gray|0.18924 grey|0.18924 dim|0.1447 gray|0.1447 dim|0.1447 grey|0.1447 light|0.104 gray|0.104 light|0.104 grey|0.104 gainsboro|0.044217 black|0.0098213  ",
+			"after_weights": " Putting|1 to|0.94737 BI|0.89474 hitching|0.84211 NA|0.78947 |0.73684 Ridgling|0.68421 rig|0.63158 Silhouette|0.57895 or|0.52632 outline|0.47368 diagram|0.42105 Stable|0.36842 hand|0.31579 US|0.26316 stable|0.21053 lad|0.15789 lass|0.10526 UK|0.052632 |0",
+			"previous_weights": " Longeing|0 US|0.047619 or|0.095238 lungeing|0.14286 UK|0.19048 Australasia|0.2381 informal|0.28571 US|0.33333 |0.38095 Livery|0.42857 stable|0.47619 or|0.52381 Livery|0.57143 yard|0.61905 Hard|0.66667 keeper|0.71429 US|0.7619 or|0.80952 poor|0.85714 doer|0.90476 UK|0.95238 |1"
+		}
+	}
+}

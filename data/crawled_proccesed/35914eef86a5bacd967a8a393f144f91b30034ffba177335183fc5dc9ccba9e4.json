@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35914eef86a5bacd967a8a393f144f91b30034ffba177335183fc5dc9ccba9e4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marjorie_Heins.jpg/170px-Marjorie_Heins.jpg",
+			"previous": " Author Marjorie Heins an attorney with a focus on civil liberties 1 received a Bachelor of Arts degree from Cornell University in 1967 1 ",
+			"after": " She graduated magna cum laude from Harvard Law School receiving a juris doctor degree in 1978 1 At the time of the book s publication Heins was director of the Free Expression Policy Project at the National Coalition Against Censorship 2 3 ",
+			"color": "black|0.49663 light|0.1154 gray|0.1154 light|0.1154 grey|0.1154 gainsboro|0.093117 silver|0.087118 rosy|0.045888 brown|0.045888 dark|0.032437 gray|0.032437 dark|0.032437 grey|0.032437 linen|0.026607 antique|0.018048 white|0.018048 dim|0.015585 gray|0.015585 dim|0.015585 grey|0.015585 gray|0.011617 grey|0.011617 old|0.010486 lace|0.010486 sea|0.010009 shell|0.010009 misty|0.0096777 rose|0.0096777 tan|0.0065364 white|0.0051711 smoke|0.0051711 floral|0.005073 white|0.005073  ",
+			"after_weights": " She|1 graduated|0.97619 magna|0.95238 cum|0.92857 laude|0.90476 from|0.88095 Harvard|0.85714 Law|0.83333 School|0.80952 receiving|0.78571 a|0.7619 juris|0.7381 doctor|0.71429 degree|0.69048 in|0.66667 1978|0.64286 1|0.61905 At|0.59524 the|0.57143 time|0.54762 of|0.52381 the|0.5 book|0.47619 s|0.45238 publication|0.42857 Heins|0.40476 was|0.38095 director|0.35714 of|0.33333 the|0.30952 Free|0.28571 Expression|0.2619 Policy|0.2381 Project|0.21429 at|0.19048 the|0.16667 National|0.14286 Coalition|0.11905 Against|0.095238 Censorship|0.071429 2|0.047619 3|0.02381 |0",
+			"previous_weights": " Author|0 Marjorie|0.041667 Heins|0.083333 an|0.125 attorney|0.16667 with|0.20833 a|0.25 focus|0.29167 on|0.33333 civil|0.375 liberties|0.41667 1|0.45833 received|0.5 a|0.54167 Bachelor|0.58333 of|0.625 Arts|0.66667 degree|0.70833 from|0.75 Cornell|0.79167 University|0.83333 in|0.875 1967|0.91667 1|0.95833 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d52ffe42560f2f04eaa34a0b9fefd01ded8035796c02128f6532e709b94391e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Norwegian_plane_at_Kiruna_airport_-_image_2.JPG/250px-Norwegian_plane_at_Kiruna_airport_-_image_2.JPG",
+			"previous": " ",
+			"after": " Boarding is the entry of passengers onto a vehicle usually in public transportation Boarding starts with entering the vehicle and ends with the seating of each passenger and closure of the doors The term is used in road water and air transport for example passengers board a coach ",
+			"color": "black|0.90563 dim|0.068778 gray|0.068778 dim|0.068778 grey|0.068778  ",
+			"after_weights": " Boarding|1 is|0.97917 the|0.95833 entry|0.9375 of|0.91667 passengers|0.89583 onto|0.875 a|0.85417 vehicle|0.83333 usually|0.8125 in|0.79167 public|0.77083 transportation|0.75 Boarding|0.72917 starts|0.70833 with|0.6875 entering|0.66667 the|0.64583 vehicle|0.625 and|0.60417 ends|0.58333 with|0.5625 the|0.54167 seating|0.52083 of|0.5 each|0.47917 passenger|0.45833 and|0.4375 closure|0.41667 of|0.39583 the|0.375 doors|0.35417 The|0.33333 term|0.3125 is|0.29167 used|0.27083 in|0.25 road|0.22917 water|0.20833 and|0.1875 air|0.16667 transport|0.14583 for|0.125 example|0.10417 passengers|0.083333 board|0.0625 a|0.041667 coach|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

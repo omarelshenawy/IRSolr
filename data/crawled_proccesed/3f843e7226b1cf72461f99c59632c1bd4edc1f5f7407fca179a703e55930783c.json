@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f843e7226b1cf72461f99c59632c1bd4edc1f5f7407fca179a703e55930783c",
+			"url": "https://upload.wikimedia.org/math/1/c/5/1c5d35301da4b5c7181fc74744a4d107.png",
+			"previous": " and For all non negative real numbers x and y ",
+			"after": " The square root function is continuous for all non negative x and differentiable for all positive x If f denotes the square root function its derivative is given by  The Taylor series of 1 x about x 0 converges for x 1 and is given by",
+			"color": "dim|0.33814 gray|0.33814 dim|0.33814 grey|0.33814 gray|0.2852 grey|0.2852 dark|0.19418 gray|0.19418 dark|0.19418 grey|0.19418 silver|0.088766 light|0.045499 gray|0.045499 light|0.045499 grey|0.045499 gainsboro|0.031515 white|0.0046344 smoke|0.0046344  ",
+			"after_weights": " The|1 square|0.97826 root|0.95652 function|0.93478 is|0.91304 continuous|0.8913 for|0.86957 all|0.84783 non|0.82609 negative|0.80435 x|0.78261 and|0.76087 differentiable|0.73913 for|0.71739 all|0.69565 positive|0.67391 x|0.65217 If|0.63043 f|0.6087 denotes|0.58696 the|0.56522 square|0.54348 root|0.52174 function|0.5 its|0.47826 derivative|0.45652 is|0.43478 given|0.41304 by|0.3913 |0.36957 The|0.34783 Taylor|0.32609 series|0.30435 of|0.28261 1|0.26087 x|0.23913 about|0.21739 x|0.19565 0|0.17391 converges|0.15217 for|0.13043 x|0.1087 1|0.086957 and|0.065217 is|0.043478 given|0.021739 by|0",
+			"previous_weights": " and|0 For|0.1 all|0.2 non|0.3 negative|0.4 real|0.5 numbers|0.6 x|0.7 and|0.8 y|0.9 |1"
+		}
+	}
+}

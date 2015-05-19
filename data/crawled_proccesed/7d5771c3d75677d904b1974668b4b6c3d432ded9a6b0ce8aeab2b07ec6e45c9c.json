@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d5771c3d75677d904b1974668b4b6c3d432ded9a6b0ce8aeab2b07ec6e45c9c",
+			"url": "https://upload.wikimedia.org/math/8/c/6/8c6ba93cea464ae2a16887447da67237.png",
+			"previous": " where the modifying factors and are defined by the inhibitor concentration and its two dissociation constants",
+			"after": " Thus in the presence of the inhibitor the enzyme s effective Km and Vmax become Km and 1 Vmax respectively However the modified Michaelis Menten equation assumes that binding of the inhibitor to the enzyme has reached equilibrium which may be a very slow process for inhibitors with sub nanomolar dissociation constants In these cases it is usually more practical to treat the tight binding inhibitor as an irreversible inhibitor see below however it can still be possible to estimate Ki kinetically if Ki is measured independently ",
+			"color": "dim|0.32266 gray|0.32266 dim|0.32266 grey|0.32266 gray|0.25693 grey|0.25693 dark|0.20797 gray|0.20797 dark|0.20797 grey|0.20797 silver|0.080322 light|0.059524 gray|0.059524 light|0.059524 grey|0.059524 gainsboro|0.037706 white|0.011336 smoke|0.011336 linen|0.0037137 lavender|0.0033009 blush|0.0033009 alice|0.0032697 blue|0.0032697 ghost|0.0032178 white|0.0032178  ",
+			"after_weights": " Thus|1 in|0.98851 the|0.97701 presence|0.96552 of|0.95402 the|0.94253 inhibitor|0.93103 the|0.91954 enzyme|0.90805 s|0.89655 effective|0.88506 Km|0.87356 and|0.86207 Vmax|0.85057 become|0.83908 Km|0.82759 and|0.81609 1|0.8046 Vmax|0.7931 respectively|0.78161 However|0.77011 the|0.75862 modified|0.74713 Michaelis|0.73563 Menten|0.72414 equation|0.71264 assumes|0.70115 that|0.68966 binding|0.67816 of|0.66667 the|0.65517 inhibitor|0.64368 to|0.63218 the|0.62069 enzyme|0.6092 has|0.5977 reached|0.58621 equilibrium|0.57471 which|0.56322 may|0.55172 be|0.54023 a|0.52874 very|0.51724 slow|0.50575 process|0.49425 for|0.48276 inhibitors|0.47126 with|0.45977 sub|0.44828 nanomolar|0.43678 dissociation|0.42529 constants|0.41379 In|0.4023 these|0.3908 cases|0.37931 it|0.36782 is|0.35632 usually|0.34483 more|0.33333 practical|0.32184 to|0.31034 treat|0.29885 the|0.28736 tight|0.27586 binding|0.26437 inhibitor|0.25287 as|0.24138 an|0.22989 irreversible|0.21839 inhibitor|0.2069 see|0.1954 below|0.18391 however|0.17241 it|0.16092 can|0.14943 still|0.13793 be|0.12644 possible|0.11494 to|0.10345 estimate|0.091954 Ki|0.08046 kinetically|0.068966 if|0.057471 Ki|0.045977 is|0.034483 measured|0.022989 independently|0.011494 |0",
+			"previous_weights": " where|0 the|0.066667 modifying|0.13333 factors|0.2 and|0.26667 are|0.33333 defined|0.4 by|0.46667 the|0.53333 inhibitor|0.6 concentration|0.66667 and|0.73333 its|0.8 two|0.86667 dissociation|0.93333 constants|1"
+		}
+	}
+}

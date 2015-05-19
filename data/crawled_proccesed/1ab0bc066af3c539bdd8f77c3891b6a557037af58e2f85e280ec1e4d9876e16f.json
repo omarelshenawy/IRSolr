@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ab0bc066af3c539bdd8f77c3891b6a557037af58e2f85e280ec1e4d9876e16f",
+			"url": "https://upload.wikimedia.org/math/e/b/3/eb3c1aef63050bdb0228dd8de2afe8ce.png",
+			"previous": " Isolating in the second equation  There are also systems which have infinitely many solutions in contrast to a system with a unique solution meaning a unique pair of values for and For example ",
+			"after": " And using this value in the first equation in the system  The equality is true but it does not provide a value for Indeed one can easily verify by just filling in some values of that for any there is a solution as long as There is an infinite number of solutions for this system ",
+			"color": "dim|0.38102 gray|0.38102 dim|0.38102 grey|0.38102 gray|0.27942 grey|0.27942 dark|0.17281 gray|0.17281 dark|0.17281 grey|0.17281 silver|0.082933 light|0.041885 gray|0.041885 light|0.041885 grey|0.041885 gainsboro|0.030011 white|0.0031759 smoke|0.0031759  ",
+			"after_weights": " And|1 using|0.98214 this|0.96429 value|0.94643 in|0.92857 the|0.91071 first|0.89286 equation|0.875 in|0.85714 the|0.83929 system|0.82143 |0.80357 The|0.78571 equality|0.76786 is|0.75 true|0.73214 but|0.71429 it|0.69643 does|0.67857 not|0.66071 provide|0.64286 a|0.625 value|0.60714 for|0.58929 Indeed|0.57143 one|0.55357 can|0.53571 easily|0.51786 verify|0.5 by|0.48214 just|0.46429 filling|0.44643 in|0.42857 some|0.41071 values|0.39286 of|0.375 that|0.35714 for|0.33929 any|0.32143 there|0.30357 is|0.28571 a|0.26786 solution|0.25 as|0.23214 long|0.21429 as|0.19643 There|0.17857 is|0.16071 an|0.14286 infinite|0.125 number|0.10714 of|0.089286 solutions|0.071429 for|0.053571 this|0.035714 system|0.017857 |0",
+			"previous_weights": " Isolating|0 in|0.029412 the|0.058824 second|0.088235 equation|0.11765 |0.14706 There|0.17647 are|0.20588 also|0.23529 systems|0.26471 which|0.29412 have|0.32353 infinitely|0.35294 many|0.38235 solutions|0.41176 in|0.44118 contrast|0.47059 to|0.5 a|0.52941 system|0.55882 with|0.58824 a|0.61765 unique|0.64706 solution|0.67647 meaning|0.70588 a|0.73529 unique|0.76471 pair|0.79412 of|0.82353 values|0.85294 for|0.88235 and|0.91176 For|0.94118 example|0.97059 |1"
+		}
+	}
+}

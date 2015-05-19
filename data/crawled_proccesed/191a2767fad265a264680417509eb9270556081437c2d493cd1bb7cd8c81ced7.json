@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "191a2767fad265a264680417509eb9270556081437c2d493cd1bb7cd8c81ced7",
+			"url": "https://upload.wikimedia.org/math/8/a/d/8ad3786ffe847fc6c64bc01f7a8440aa.png",
+			"previous": " Note that factors p0 1 may be inserted without changing the value of n e g 1000 23 30 53 In fact any positive integer can be uniquely represented as an infinite product taken over all the positive prime numbers ",
+			"after": " where a finite number of the ni are positive integers and the rest are zero Allowing negative exponents provides a canonical form for positive rational numbers ",
+			"color": "dim|0.41325 gray|0.41325 dim|0.41325 grey|0.41325 gray|0.28939 grey|0.28939 dark|0.1689 gray|0.1689 dark|0.1689 grey|0.1689 silver|0.064736 light|0.027531 gray|0.027531 light|0.027531 grey|0.027531 gainsboro|0.019087 white|0.003993 smoke|0.003993  ",
+			"after_weights": " where|1 a|0.96154 finite|0.92308 number|0.88462 of|0.84615 the|0.80769 ni|0.76923 are|0.73077 positive|0.69231 integers|0.65385 and|0.61538 the|0.57692 rest|0.53846 are|0.5 zero|0.46154 Allowing|0.42308 negative|0.38462 exponents|0.34615 provides|0.30769 a|0.26923 canonical|0.23077 form|0.19231 for|0.15385 positive|0.11538 rational|0.076923 numbers|0.038462 |0",
+			"previous_weights": " Note|0 that|0.025 factors|0.05 p0|0.075 1|0.1 may|0.125 be|0.15 inserted|0.175 without|0.2 changing|0.225 the|0.25 value|0.275 of|0.3 n|0.325 e|0.35 g|0.375 1000|0.4 23|0.425 30|0.45 53|0.475 In|0.5 fact|0.525 any|0.55 positive|0.575 integer|0.6 can|0.625 be|0.65 uniquely|0.675 represented|0.7 as|0.725 an|0.75 infinite|0.775 product|0.8 taken|0.825 over|0.85 all|0.875 the|0.9 positive|0.925 prime|0.95 numbers|0.975 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78e1d7959d742ae7fb1b53cd892ae6476bea05d510e4c7f26c2c1879328891e6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/EC-JHK_in_skyteam_livery.jpg/220px-EC-JHK_in_skyteam_livery.jpg",
+			"previous": " Air Europa has codeshare agreements with its SkyTeam partners ",
+			"after": " As of 12 April 2014 the Air Europa fleet consists of the following aircraft with an average age of 7 5 years 9  A Boeing 787 8 will be wet leased for a year from LOT Polish Airlines from April 2015 for use on Air Europa routes from Madrid to New York and Montevideo 13 ",
+			"color": "light|0.58464 steel|0.58464 blue|0.58464 silver|0.26201 black|0.021776 dark|0.021523 gray|0.021523 dark|0.021523 grey|0.021523 gray|0.013838 grey|0.013838 dim|0.012617 gray|0.012617 dim|0.012617 grey|0.012617 light|0.012153 gray|0.012153 light|0.012153 grey|0.012153 gainsboro|0.0097718 light|0.0053913 slate|0.0053913 gray|0.0053913 white|0.0052725 smoke|0.0052725 slate|0.0047822 gray|0.0047822 snow|0.004057 sea|0.0039154 shell|0.0039154 ghost|0.0037165 white|0.0037165 white|0.0034915 alice|0.0034374 blue|0.0034374 mint|0.0033021 cream|0.0033021 floral|0.0032711 white|0.0032711 linen|0.0032208  ",
+			"after_weights": " As|1 of|0.98214 12|0.96429 April|0.94643 2014|0.92857 the|0.91071 Air|0.89286 Europa|0.875 fleet|0.85714 consists|0.83929 of|0.82143 the|0.80357 following|0.78571 aircraft|0.76786 with|0.75 an|0.73214 average|0.71429 age|0.69643 of|0.67857 7|0.66071 5|0.64286 years|0.625 9|0.60714 |0.58929 A|0.57143 Boeing|0.55357 787|0.53571 8|0.51786 will|0.5 be|0.48214 wet|0.46429 leased|0.44643 for|0.42857 a|0.41071 year|0.39286 from|0.375 LOT|0.35714 Polish|0.33929 Airlines|0.32143 from|0.30357 April|0.28571 2015|0.26786 for|0.25 use|0.23214 on|0.21429 Air|0.19643 Europa|0.17857 routes|0.16071 from|0.14286 Madrid|0.125 to|0.10714 New|0.089286 York|0.071429 and|0.053571 Montevideo|0.035714 13|0.017857 |0",
+			"previous_weights": " Air|0 Europa|0.11111 has|0.22222 codeshare|0.33333 agreements|0.44444 with|0.55556 its|0.66667 SkyTeam|0.77778 partners|0.88889 |1"
+		}
+	}
+}

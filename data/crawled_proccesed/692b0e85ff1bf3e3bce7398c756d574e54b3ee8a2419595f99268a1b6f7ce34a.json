@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "692b0e85ff1bf3e3bce7398c756d574e54b3ee8a2419595f99268a1b6f7ce34a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Air_contractors_a300b4-200f_ei-saf_lands_london_heathrow_arp.jpg/220px-Air_contractors_a300b4-200f_ei-saf_lands_london_heathrow_arp.jpg",
+			"previous": " Deutsche Post owns five main airlines which provide services by region  ",
+			"after": " It also owns the following smaller airlines  Deutsche Post also has stakes in the following airlines some of which also operate under the DHL brand or livery 2 ",
+			"color": "light|0.26365 gray|0.26365 light|0.26365 grey|0.26365 light|0.26041 steel|0.26041 blue|0.26041 gainsboro|0.17066 light|0.1149 blue|0.1149 silver|0.034683 dim|0.028235 gray|0.028235 dim|0.028235 grey|0.028235 dark|0.021321 gray|0.021321 dark|0.021321 grey|0.021321 gray|0.018213 grey|0.018213 black|0.016384 lavender|0.0098844 dark|0.0081105 slate|0.0081105 gray|0.0081105 alice|0.005673 blue|0.005673 white|0.0054075 smoke|0.0054075 ghost|0.0044032 white|0.0044032 light|0.0038978 slate|0.0038978 gray|0.0038978 snow|0.0036836 slate|0.0034472 gray|0.0034472 white|0.0032697 azure|0.0031793 mint|0.0031483 cream|0.0031483 sea|0.0030966 shell|0.0030966  ",
+			"after_weights": " It|1 also|0.96552 owns|0.93103 the|0.89655 following|0.86207 smaller|0.82759 airlines|0.7931 |0.75862 Deutsche|0.72414 Post|0.68966 also|0.65517 has|0.62069 stakes|0.58621 in|0.55172 the|0.51724 following|0.48276 airlines|0.44828 some|0.41379 of|0.37931 which|0.34483 also|0.31034 operate|0.27586 under|0.24138 the|0.2069 DHL|0.17241 brand|0.13793 or|0.10345 livery|0.068966 2|0.034483 |0",
+			"previous_weights": " Deutsche|0 Post|0.083333 owns|0.16667 five|0.25 main|0.33333 airlines|0.41667 which|0.5 provide|0.58333 services|0.66667 by|0.75 region|0.83333 |0.91667 |1"
+		}
+	}
+}

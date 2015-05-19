@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "95081d3567d342c58e7a959ced738ad1833905e2125a6685ecb9dbdda5b4d36d",
+			"url": "https://upload.wikimedia.org/math/9/c/3/9c319ae1f4ffee27458ce77d40437d5d.png",
+			"previous": " Another expression for the surface area is where z is Euler s Gamma function  The surface area of the n 1 sphere of radius 1 is",
+			"after": " and the volume is the surface area times or More generally in a metric space E d the sphere of center x and radius r 0 is the set of points y such that d x y r ",
+			"color": "dim|0.28923 gray|0.28923 dim|0.28923 grey|0.28923 gray|0.27669 grey|0.27669 dark|0.21841 gray|0.21841 dark|0.21841 grey|0.21841 silver|0.10075 light|0.04984 gray|0.04984 light|0.04984 grey|0.04984 gainsboro|0.03709 white|0.0056646 smoke|0.0056646 linen|0.0032087 lavender|0.0031175 blush|0.0031175 alice|0.0030262 blue|0.0030262 ghost|0.0029882 white|0.0029882 sea|0.0028253 shell|0.0028253 snow|0.0026257  ",
+			"after_weights": " and|1 the|0.97368 volume|0.94737 is|0.92105 the|0.89474 surface|0.86842 area|0.84211 times|0.81579 or|0.78947 More|0.76316 generally|0.73684 in|0.71053 a|0.68421 metric|0.65789 space|0.63158 E|0.60526 d|0.57895 the|0.55263 sphere|0.52632 of|0.5 center|0.47368 x|0.44737 and|0.42105 radius|0.39474 r|0.36842 0|0.34211 is|0.31579 the|0.28947 set|0.26316 of|0.23684 points|0.21053 y|0.18421 such|0.15789 that|0.13158 d|0.10526 x|0.078947 y|0.052632 r|0.026316 |0",
+			"previous_weights": " Another|0 expression|0.038462 for|0.076923 the|0.11538 surface|0.15385 area|0.19231 is|0.23077 where|0.26923 z|0.30769 is|0.34615 Euler|0.38462 s|0.42308 Gamma|0.46154 function|0.5 |0.53846 The|0.57692 surface|0.61538 area|0.65385 of|0.69231 the|0.73077 n|0.76923 1|0.80769 sphere|0.84615 of|0.88462 radius|0.92308 1|0.96154 is|1"
+		}
+	}
+}

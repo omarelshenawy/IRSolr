@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3656a31e74dda827e2ce21179aae61155b74edb6bba46cadb7bab9d9f91b01c6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Whitestorkflock.jpg/220px-Whitestorkflock.jpg",
+			"previous": " ",
+			"after": " Systematic research into migration of white stork began with German ornithologist Johannes Thienemann who commenced ringing studies in 1906 at the Rossitten Bird Observatory on the Curonian Spit in what was then East Prussia Although not many storks passed through Rossitten itself the observatory coordinated the large scale ringing of the species throughout Germany and elsewhere in Europe Between 1906 and the Second World War about 100 000 mainly juvenile white storks were ringed with over 2 000 long distance recoveries of birds wearing Rossitten rings reported between 1908 and 1954 51 ",
+			"color": "light|0.73218 slate|0.73218 gray|0.73218 slate|0.13113 gray|0.13113 dark|0.08371 gray|0.08371 dark|0.08371 grey|0.08371 light|0.020649 steel|0.020649 blue|0.020649 gray|0.015582 grey|0.015582 dim|0.0098078 gray|0.0098078 dim|0.0098078 grey|0.0098078 silver|0.0062889  ",
+			"after_weights": " Systematic|1 research|0.98913 into|0.97826 migration|0.96739 of|0.95652 white|0.94565 stork|0.93478 began|0.92391 with|0.91304 German|0.90217 ornithologist|0.8913 Johannes|0.88043 Thienemann|0.86957 who|0.8587 commenced|0.84783 ringing|0.83696 studies|0.82609 in|0.81522 1906|0.80435 at|0.79348 the|0.78261 Rossitten|0.77174 Bird|0.76087 Observatory|0.75 on|0.73913 the|0.72826 Curonian|0.71739 Spit|0.70652 in|0.69565 what|0.68478 was|0.67391 then|0.66304 East|0.65217 Prussia|0.6413 Although|0.63043 not|0.61957 many|0.6087 storks|0.59783 passed|0.58696 through|0.57609 Rossitten|0.56522 itself|0.55435 the|0.54348 observatory|0.53261 coordinated|0.52174 the|0.51087 large|0.5 scale|0.48913 ringing|0.47826 of|0.46739 the|0.45652 species|0.44565 throughout|0.43478 Germany|0.42391 and|0.41304 elsewhere|0.40217 in|0.3913 Europe|0.38043 Between|0.36957 1906|0.3587 and|0.34783 the|0.33696 Second|0.32609 World|0.31522 War|0.30435 about|0.29348 100|0.28261 000|0.27174 mainly|0.26087 juvenile|0.25 white|0.23913 storks|0.22826 were|0.21739 ringed|0.20652 with|0.19565 over|0.18478 2|0.17391 000|0.16304 long|0.15217 distance|0.1413 recoveries|0.13043 of|0.11957 birds|0.1087 wearing|0.097826 Rossitten|0.086957 rings|0.076087 reported|0.065217 between|0.054348 1908|0.043478 and|0.032609 1954|0.021739 51|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

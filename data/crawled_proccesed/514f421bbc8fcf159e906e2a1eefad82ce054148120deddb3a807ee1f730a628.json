@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "514f421bbc8fcf159e906e2a1eefad82ce054148120deddb3a807ee1f730a628",
+			"url": "https://upload.wikimedia.org/math/5/a/5/5a5aacf6a5e0d5ee5885c91a79753805.png",
+			"previous": " 2 Wigner s Friend 1 Schr dinger s Cat The nature of the Copenhagen Interpretation is exposed by considering a number of experiments and paradoxes ",
+			"after": " 3 Double slit diffraction 4 EPR Einstein Podolsky Rosen paradox",
+			"color": "dim|0.28868 gray|0.28868 dim|0.28868 grey|0.28868 gray|0.27084 grey|0.27084 dark|0.19984 gray|0.19984 dark|0.19984 grey|0.19984 black|0.18441 silver|0.051792 light|0.0040284 gray|0.0040284 light|0.0040284 grey|0.0040284  ",
+			"after_weights": " 3|1 Double|0.88889 slit|0.77778 diffraction|0.66667 4|0.55556 EPR|0.44444 Einstein|0.33333 Podolsky|0.22222 Rosen|0.11111 paradox|0",
+			"previous_weights": " 2|0 Wigner|0.04 s|0.08 Friend|0.12 1|0.16 Schr|0.2 dinger|0.24 s|0.28 Cat|0.32 The|0.36 nature|0.4 of|0.44 the|0.48 Copenhagen|0.52 Interpretation|0.56 is|0.6 exposed|0.64 by|0.68 considering|0.72 a|0.76 number|0.8 of|0.84 experiments|0.88 and|0.92 paradoxes|0.96 |1"
+		}
+	}
+}

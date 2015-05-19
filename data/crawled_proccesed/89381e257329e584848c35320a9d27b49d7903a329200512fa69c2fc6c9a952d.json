@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89381e257329e584848c35320a9d27b49d7903a329200512fa69c2fc6c9a952d",
+			"url": "https://upload.wikimedia.org/math/2/5/8/2584ea557096f0f5e1f615ce409e396a.png",
+			"previous": " is the small signal gain coefficient in units of radians per meter We can solve the differential equation using separation of variables  where The stimulated emission cross section in square meters is",
+			"after": " Integrating we find  or where",
+			"color": "dim|0.4112 gray|0.4112 dim|0.4112 grey|0.4112 gray|0.29845 grey|0.29845 dark|0.16083 gray|0.16083 dark|0.16083 grey|0.16083 silver|0.063091 light|0.030282 gray|0.030282 light|0.030282 grey|0.030282 gainsboro|0.020993 white|0.0038568 smoke|0.0038568  ",
+			"after_weights": " Integrating|1 we|0.8 find|0.6 |0.4 or|0.2 where|0",
+			"previous_weights": " is|0 the|0.03125 small|0.0625 signal|0.09375 gain|0.125 coefficient|0.15625 in|0.1875 units|0.21875 of|0.25 radians|0.28125 per|0.3125 meter|0.34375 We|0.375 can|0.40625 solve|0.4375 the|0.46875 differential|0.5 equation|0.53125 using|0.5625 separation|0.59375 of|0.625 variables|0.65625 |0.6875 where|0.71875 The|0.75 stimulated|0.78125 emission|0.8125 cross|0.84375 section|0.875 in|0.90625 square|0.9375 meters|0.96875 is|1"
+		}
+	}
+}

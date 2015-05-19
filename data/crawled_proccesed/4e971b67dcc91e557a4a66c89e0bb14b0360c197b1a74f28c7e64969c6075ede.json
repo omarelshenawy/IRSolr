@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e971b67dcc91e557a4a66c89e0bb14b0360c197b1a74f28c7e64969c6075ede",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WestJet_737-700_at_YUL.jpeg/220px-WestJet_737-700_at_YUL.jpeg",
+			"previous": " WestJet currently has codeshare agreements with the following airlines 53 ",
+			"after": " The WestJet fleet consists of the following aircraft as of May 9 2015  Note Orders total 80 aircraft but 10 737 700 NG will be removed from the fleet and replaced with the 737 800 NG WestJet has an average fleet age of 6 7 years as of December 2012 56 ",
+			"color": "dark|0.13627 gray|0.13627 dark|0.13627 grey|0.13627 gray|0.097663 grey|0.097663 dim|0.09668 gray|0.09668 dim|0.09668 grey|0.09668 tan|0.083008 silver|0.069301 light|0.058096 gray|0.058096 light|0.058096 grey|0.058096 gainsboro|0.054045 black|0.044081 white|0.038396 smoke|0.038396 alice|0.029005 blue|0.029005 snow|0.027076 ghost|0.026771 white|0.026771 mint|0.0257 cream|0.0257 white|0.024861 sea|0.024497 shell|0.024497 azure|0.022867 floral|0.020064 white|0.020064 slate|0.017271 gray|0.017271 linen|0.016466 light|0.014563 slate|0.014563 gray|0.014563 dark|0.013322 slate|0.013322 gray|0.013322 lavender|0.011382 blush|0.011382 light|0.011377 steel|0.011377 blue|0.011377 ivory|0.0071427  ",
+			"after_weights": " The|1 WestJet|0.98077 fleet|0.96154 consists|0.94231 of|0.92308 the|0.90385 following|0.88462 aircraft|0.86538 as|0.84615 of|0.82692 May|0.80769 9|0.78846 2015|0.76923 |0.75 Note|0.73077 Orders|0.71154 total|0.69231 80|0.67308 aircraft|0.65385 but|0.63462 10|0.61538 737|0.59615 700|0.57692 NG|0.55769 will|0.53846 be|0.51923 removed|0.5 from|0.48077 the|0.46154 fleet|0.44231 and|0.42308 replaced|0.40385 with|0.38462 the|0.36538 737|0.34615 800|0.32692 NG|0.30769 WestJet|0.28846 has|0.26923 an|0.25 average|0.23077 fleet|0.21154 age|0.19231 of|0.17308 6|0.15385 7|0.13462 years|0.11538 as|0.096154 of|0.076923 December|0.057692 2012|0.038462 56|0.019231 |0",
+			"previous_weights": " WestJet|0 currently|0.1 has|0.2 codeshare|0.3 agreements|0.4 with|0.5 the|0.6 following|0.7 airlines|0.8 53|0.9 |1"
+		}
+	}
+}

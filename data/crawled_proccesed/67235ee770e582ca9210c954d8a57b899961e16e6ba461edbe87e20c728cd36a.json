@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "67235ee770e582ca9210c954d8a57b899961e16e6ba461edbe87e20c728cd36a",
+			"url": "https://upload.wikimedia.org/math/f/0/2/f0289af1b7f41de65451a085eaa383e2.png",
+			"previous": " ",
+			"after": " Another way to approach the problem is to linearize any nonlinearities the sine function term in this case at the various points of interest through Taylor expansions For example the linearization at called the small angle approximation is",
+			"color": " ",
+			"after_weights": " Another|1 way|0.97297 to|0.94595 approach|0.91892 the|0.89189 problem|0.86486 is|0.83784 to|0.81081 linearize|0.78378 any|0.75676 nonlinearities|0.72973 the|0.7027 sine|0.67568 function|0.64865 term|0.62162 in|0.59459 this|0.56757 case|0.54054 at|0.51351 the|0.48649 various|0.45946 points|0.43243 of|0.40541 interest|0.37838 through|0.35135 Taylor|0.32432 expansions|0.2973 For|0.27027 example|0.24324 the|0.21622 linearization|0.18919 at|0.16216 called|0.13514 the|0.10811 small|0.081081 angle|0.054054 approximation|0.027027 is|0",
+			"previous_weights": " "
+		}
+	}
+}

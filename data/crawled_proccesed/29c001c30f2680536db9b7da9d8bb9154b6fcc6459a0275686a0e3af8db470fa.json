@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "29c001c30f2680536db9b7da9d8bb9154b6fcc6459a0275686a0e3af8db470fa",
+			"url": "https://upload.wikimedia.org/math/9/e/f/9ef12de22303713d029632ec4e8e83af.png",
+			"previous": " Note that the intermediate points that were constructed are in fact the control points for two new B zier curves both exactly coincident with the old one This algorithm not only evaluates the curve at but splits the curve into two pieces at and provides the equations of the two sub curves in B zier form ",
+			"after": " In general operations on a rational curve or surface are equivalent to operations on a nonrational curve in a projective space This representation as the weighted control points and weights is often convenient when evaluating rational curves ",
+			"color": "gray|0.34503 grey|0.34503 dark|0.24446 gray|0.24446 dark|0.24446 grey|0.24446 dim|0.21269 gray|0.21269 dim|0.21269 grey|0.21269 silver|0.096968 light|0.043906 gray|0.043906 light|0.043906 grey|0.043906 gainsboro|0.029402 white|0.0058974 smoke|0.0058974 linen|0.003216 lavender|0.0031299 blush|0.0031299 alice|0.0029873 blue|0.0029873 ghost|0.0028685 white|0.0028685 sea|0.0026987 shell|0.0026987 snow|0.0026022  ",
+			"after_weights": " In|1 general|0.97297 operations|0.94595 on|0.91892 a|0.89189 rational|0.86486 curve|0.83784 or|0.81081 surface|0.78378 are|0.75676 equivalent|0.72973 to|0.7027 operations|0.67568 on|0.64865 a|0.62162 nonrational|0.59459 curve|0.56757 in|0.54054 a|0.51351 projective|0.48649 space|0.45946 This|0.43243 representation|0.40541 as|0.37838 the|0.35135 weighted|0.32432 control|0.2973 points|0.27027 and|0.24324 weights|0.21622 is|0.18919 often|0.16216 convenient|0.13514 when|0.10811 evaluating|0.081081 rational|0.054054 curves|0.027027 |0",
+			"previous_weights": " Note|0 that|0.017857 the|0.035714 intermediate|0.053571 points|0.071429 that|0.089286 were|0.10714 constructed|0.125 are|0.14286 in|0.16071 fact|0.17857 the|0.19643 control|0.21429 points|0.23214 for|0.25 two|0.26786 new|0.28571 B|0.30357 zier|0.32143 curves|0.33929 both|0.35714 exactly|0.375 coincident|0.39286 with|0.41071 the|0.42857 old|0.44643 one|0.46429 This|0.48214 algorithm|0.5 not|0.51786 only|0.53571 evaluates|0.55357 the|0.57143 curve|0.58929 at|0.60714 but|0.625 splits|0.64286 the|0.66071 curve|0.67857 into|0.69643 two|0.71429 pieces|0.73214 at|0.75 and|0.76786 provides|0.78571 the|0.80357 equations|0.82143 of|0.83929 the|0.85714 two|0.875 sub|0.89286 curves|0.91071 in|0.92857 B|0.94643 zier|0.96429 form|0.98214 |1"
+		}
+	}
+}

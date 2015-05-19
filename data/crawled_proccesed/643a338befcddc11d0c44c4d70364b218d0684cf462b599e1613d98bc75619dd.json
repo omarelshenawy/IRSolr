@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "643a338befcddc11d0c44c4d70364b218d0684cf462b599e1613d98bc75619dd",
+			"url": "https://upload.wikimedia.org/math/b/6/4/b64896486171a8933b87f1a0498c92a8.png",
+			"previous": " One can now eliminate both and by doing the following ",
+			"after": " which is solved elsewhere Then if p is a square root of a non zero root of this resolvent such a non zero root exists except for the quartic x4 which is trivially factored ",
+			"color": "dim|0.30655 gray|0.30655 dim|0.30655 grey|0.30655 black|0.25581 gray|0.20246 grey|0.20246 dark|0.12424 gray|0.12424 dark|0.12424 grey|0.12424 silver|0.053425 light|0.025497 gray|0.025497 light|0.025497 grey|0.025497 gainsboro|0.017509  ",
+			"after_weights": " which|1 is|0.97059 solved|0.94118 elsewhere|0.91176 Then|0.88235 if|0.85294 p|0.82353 is|0.79412 a|0.76471 square|0.73529 root|0.70588 of|0.67647 a|0.64706 non|0.61765 zero|0.58824 root|0.55882 of|0.52941 this|0.5 resolvent|0.47059 such|0.44118 a|0.41176 non|0.38235 zero|0.35294 root|0.32353 exists|0.29412 except|0.26471 for|0.23529 the|0.20588 quartic|0.17647 x4|0.14706 which|0.11765 is|0.088235 trivially|0.058824 factored|0.029412 |0",
+			"previous_weights": " One|0 can|0.1 now|0.2 eliminate|0.3 both|0.4 and|0.5 by|0.6 doing|0.7 the|0.8 following|0.9 |1"
+		}
+	}
+}

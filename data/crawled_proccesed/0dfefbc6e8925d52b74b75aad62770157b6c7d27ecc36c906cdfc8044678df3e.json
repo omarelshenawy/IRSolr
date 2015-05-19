@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0dfefbc6e8925d52b74b75aad62770157b6c7d27ecc36c906cdfc8044678df3e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nathu_La.jpg/220px-Nathu_La.jpg",
+			"previous": " ",
+			"after": " The pass is 54 km 34 mi east of Gangtok the capital of Sikkim and 430 km 270 mi from Lhasa the capital of Tibet 14 15 In the winter the pass is blocked by heavy snowfall Because there is no meteorological centre in Nathu La systematic measurements of meteorological data such as temperature and rainfall are not available for the region 16 However it is known that in the higher reaches of the Himalayas around the region summer temperature never exceeds 15 C 59 F 17 ",
+			"color": "black|0.27177 maroon|0.19973 sienna|0.092708 saddle|0.092228 brown|0.092228 dark|0.064444 red|0.064444 dark|0.047254 gray|0.047254 dark|0.047254 grey|0.047254  ",
+			"after_weights": " The|1 pass|0.98851 is|0.97701 54|0.96552 km|0.95402 34|0.94253 mi|0.93103 east|0.91954 of|0.90805 Gangtok|0.89655 the|0.88506 capital|0.87356 of|0.86207 Sikkim|0.85057 and|0.83908 430|0.82759 km|0.81609 270|0.8046 mi|0.7931 from|0.78161 Lhasa|0.77011 the|0.75862 capital|0.74713 of|0.73563 Tibet|0.72414 14|0.71264 15|0.70115 In|0.68966 the|0.67816 winter|0.66667 the|0.65517 pass|0.64368 is|0.63218 blocked|0.62069 by|0.6092 heavy|0.5977 snowfall|0.58621 Because|0.57471 there|0.56322 is|0.55172 no|0.54023 meteorological|0.52874 centre|0.51724 in|0.50575 Nathu|0.49425 La|0.48276 systematic|0.47126 measurements|0.45977 of|0.44828 meteorological|0.43678 data|0.42529 such|0.41379 as|0.4023 temperature|0.3908 and|0.37931 rainfall|0.36782 are|0.35632 not|0.34483 available|0.33333 for|0.32184 the|0.31034 region|0.29885 16|0.28736 However|0.27586 it|0.26437 is|0.25287 known|0.24138 that|0.22989 in|0.21839 the|0.2069 higher|0.1954 reaches|0.18391 of|0.17241 the|0.16092 Himalayas|0.14943 around|0.13793 the|0.12644 region|0.11494 summer|0.10345 temperature|0.091954 never|0.08046 exceeds|0.068966 15|0.057471 C|0.045977 59|0.034483 F|0.022989 17|0.011494 |0",
+			"previous_weights": " "
+		}
+	}
+}

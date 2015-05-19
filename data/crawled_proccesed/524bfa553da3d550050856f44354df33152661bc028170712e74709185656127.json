@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "524bfa553da3d550050856f44354df33152661bc028170712e74709185656127",
+			"url": "https://upload.wikimedia.org/math/c/b/4/cb4ee236bb8906b060e3861ec4ae15d7.png",
+			"previous": " The future value FV formula is similar and uses the same variables ",
+			"after": " The present value formula is the core formula for the time value of money each of the other formulae is derived from this formula For example the annuity formula is the sum of a series of present value calculations ",
+			"color": "dim|0.41083 gray|0.41083 dim|0.41083 grey|0.41083 gray|0.27403 grey|0.27403 dark|0.17382 gray|0.17382 dark|0.17382 grey|0.17382 silver|0.069791 light|0.032622 gray|0.032622 light|0.032622 grey|0.032622 gainsboro|0.022875 white|0.0041201 smoke|0.0041201  ",
+			"after_weights": " The|1 present|0.97436 value|0.94872 formula|0.92308 is|0.89744 the|0.87179 core|0.84615 formula|0.82051 for|0.79487 the|0.76923 time|0.74359 value|0.71795 of|0.69231 money|0.66667 each|0.64103 of|0.61538 the|0.58974 other|0.5641 formulae|0.53846 is|0.51282 derived|0.48718 from|0.46154 this|0.4359 formula|0.41026 For|0.38462 example|0.35897 the|0.33333 annuity|0.30769 formula|0.28205 is|0.25641 the|0.23077 sum|0.20513 of|0.17949 a|0.15385 series|0.12821 of|0.10256 present|0.076923 value|0.051282 calculations|0.025641 |0",
+			"previous_weights": " The|0 future|0.083333 value|0.16667 FV|0.25 formula|0.33333 is|0.41667 similar|0.5 and|0.58333 uses|0.66667 the|0.75 same|0.83333 variables|0.91667 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "955a69814b228be6191e23ecac3d863147fc655cdb9ec99eab27e8dde45a8cd4",
+			"url": "https://upload.wikimedia.org/math/f/e/e/feefe7119a0667ce8626f7bd5a7a3bcc.png",
+			"previous": " where F is an arbitrary function To satisfy the initial condition F is given by the Fourier transform of f that is",
+			"after": " If f represents a very small but intense source of heat then the preceding integral can be approximated by the delta distribution multiplied by the strength of the source For a source whose strength is normalized to 1 the result is",
+			"color": "dim|0.37551 gray|0.37551 dim|0.37551 grey|0.37551 gray|0.28975 grey|0.28975 dark|0.18218 gray|0.18218 dark|0.18218 grey|0.18218 silver|0.073882 light|0.035263 gray|0.035263 light|0.035263 grey|0.035263 gainsboro|0.024631 white|0.0045034 smoke|0.0045034  ",
+			"after_weights": " If|1 f|0.975 represents|0.95 a|0.925 very|0.9 small|0.875 but|0.85 intense|0.825 source|0.8 of|0.775 heat|0.75 then|0.725 the|0.7 preceding|0.675 integral|0.65 can|0.625 be|0.6 approximated|0.575 by|0.55 the|0.525 delta|0.5 distribution|0.475 multiplied|0.45 by|0.425 the|0.4 strength|0.375 of|0.35 the|0.325 source|0.3 For|0.275 a|0.25 source|0.225 whose|0.2 strength|0.175 is|0.15 normalized|0.125 to|0.1 1|0.075 the|0.05 result|0.025 is|0",
+			"previous_weights": " where|0 F|0.047619 is|0.095238 an|0.14286 arbitrary|0.19048 function|0.2381 To|0.28571 satisfy|0.33333 the|0.38095 initial|0.42857 condition|0.47619 F|0.52381 is|0.57143 given|0.61905 by|0.66667 the|0.71429 Fourier|0.7619 transform|0.80952 of|0.85714 f|0.90476 that|0.95238 is|1"
+		}
+	}
+}

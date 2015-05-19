@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ca1365c5d8732a1ac3d04be969106b2d9ae3da2c1198228ffd24fef6095c62e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/220px-Image-Grand_central_Station_Outside_Night_2.jpg",
+			"previous": " New York City s comprehensive transportation system is both complex and extensive ",
+			"after": " Mass transit in New York City most of which runs 24 hours a day accounts for one in every three users of mass transit in the United States and two thirds of the nation s rail riders live in the New York City Metropolitan Area 416 417 ",
+			"color": "burly|0.28443 wood|0.28443 tan|0.15028 dim|0.084579 gray|0.084579 dim|0.084579 grey|0.084579 black|0.079906 gray|0.056474 grey|0.056474 navajo|0.056167 white|0.056167 dark|0.039336 gray|0.039336 dark|0.039336 grey|0.039336 peach|0.035831 puff|0.035831 wheat|0.028659 moccasin|0.024872 silver|0.017043 bisque|0.01337  ",
+			"after_weights": " Mass|1 transit|0.97872 in|0.95745 New|0.93617 York|0.91489 City|0.89362 most|0.87234 of|0.85106 which|0.82979 runs|0.80851 24|0.78723 hours|0.76596 a|0.74468 day|0.7234 accounts|0.70213 for|0.68085 one|0.65957 in|0.6383 every|0.61702 three|0.59574 users|0.57447 of|0.55319 mass|0.53191 transit|0.51064 in|0.48936 the|0.46809 United|0.44681 States|0.42553 and|0.40426 two|0.38298 thirds|0.3617 of|0.34043 the|0.31915 nation|0.29787 s|0.2766 rail|0.25532 riders|0.23404 live|0.21277 in|0.19149 the|0.17021 New|0.14894 York|0.12766 City|0.10638 Metropolitan|0.085106 Area|0.06383 416|0.042553 417|0.021277 |0",
+			"previous_weights": " New|0 York|0.083333 City|0.16667 s|0.25 comprehensive|0.33333 transportation|0.41667 system|0.5 is|0.58333 both|0.66667 complex|0.75 and|0.83333 extensive|0.91667 |1"
+		}
+	}
+}

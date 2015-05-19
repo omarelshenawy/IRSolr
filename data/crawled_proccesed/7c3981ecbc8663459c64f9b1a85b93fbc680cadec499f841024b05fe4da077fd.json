@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c3981ecbc8663459c64f9b1a85b93fbc680cadec499f841024b05fe4da077fd",
+			"url": "https://upload.wikimedia.org/math/f/4/8/f48c400fb377386dea086590ddfc53d7.png",
+			"previous": " where C is the boundary of D s is arclength along C and is the normal derivative of u on C Since v vanishes on C and the first variation vanishes the result is",
+			"after": " for all smooth functions v that vanish on the boundary of D The proof for the case of one dimensional integrals may be adapted to this case to show that",
+			"color": "dim|0.38081 gray|0.38081 dim|0.38081 grey|0.38081 gray|0.28739 grey|0.28739 dark|0.18575 gray|0.18575 dark|0.18575 grey|0.18575 silver|0.075893 light|0.033252 gray|0.033252 light|0.033252 grey|0.033252 gainsboro|0.022494 white|0.0036607 smoke|0.0036607  ",
+			"after_weights": " for|1 all|0.96552 smooth|0.93103 functions|0.89655 v|0.86207 that|0.82759 vanish|0.7931 on|0.75862 the|0.72414 boundary|0.68966 of|0.65517 D|0.62069 The|0.58621 proof|0.55172 for|0.51724 the|0.48276 case|0.44828 of|0.41379 one|0.37931 dimensional|0.34483 integrals|0.31034 may|0.27586 be|0.24138 adapted|0.2069 to|0.17241 this|0.13793 case|0.10345 to|0.068966 show|0.034483 that|0",
+			"previous_weights": " where|0 C|0.030303 is|0.060606 the|0.090909 boundary|0.12121 of|0.15152 D|0.18182 s|0.21212 is|0.24242 arclength|0.27273 along|0.30303 C|0.33333 and|0.36364 is|0.39394 the|0.42424 normal|0.45455 derivative|0.48485 of|0.51515 u|0.54545 on|0.57576 C|0.60606 Since|0.63636 v|0.66667 vanishes|0.69697 on|0.72727 C|0.75758 and|0.78788 the|0.81818 first|0.84848 variation|0.87879 vanishes|0.90909 the|0.93939 result|0.9697 is|1"
+		}
+	}
+}

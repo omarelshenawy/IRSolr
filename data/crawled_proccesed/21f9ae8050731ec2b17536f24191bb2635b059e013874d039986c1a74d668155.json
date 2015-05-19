@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21f9ae8050731ec2b17536f24191bb2635b059e013874d039986c1a74d668155",
+			"url": "https://upload.wikimedia.org/math/0/d/3/0d33efdfab22473b291b4dac4ea9462d.png",
+			"previous": " Most pocket calculators have a square root key Computer spreadsheets and other software are also frequently used to calculate square roots Pocket calculators typically implement efficient routines such as the Newton s method frequently with an initial guess of 1 to compute the square root of a positive real number 12 13 When computing square roots with logarithm tables or slide rules one can exploit the identity",
+			"after": " where and are the natural and base 10 logarithms ",
+			"color": "dim|0.33293 gray|0.33293 dim|0.33293 grey|0.33293 black|0.23263 gray|0.22019 grey|0.22019 dark|0.12364 gray|0.12364 dark|0.12364 grey|0.12364 silver|0.045296 light|0.020762 gray|0.020762 light|0.020762 grey|0.020762 gainsboro|0.014569  ",
+			"after_weights": " where|1 and|0.88889 are|0.77778 the|0.66667 natural|0.55556 and|0.44444 base|0.33333 10|0.22222 logarithms|0.11111 |0",
+			"previous_weights": " Most|0 pocket|0.015152 calculators|0.030303 have|0.045455 a|0.060606 square|0.075758 root|0.090909 key|0.10606 Computer|0.12121 spreadsheets|0.13636 and|0.15152 other|0.16667 software|0.18182 are|0.19697 also|0.21212 frequently|0.22727 used|0.24242 to|0.25758 calculate|0.27273 square|0.28788 roots|0.30303 Pocket|0.31818 calculators|0.33333 typically|0.34848 implement|0.36364 efficient|0.37879 routines|0.39394 such|0.40909 as|0.42424 the|0.43939 Newton|0.45455 s|0.4697 method|0.48485 frequently|0.5 with|0.51515 an|0.5303 initial|0.54545 guess|0.56061 of|0.57576 1|0.59091 to|0.60606 compute|0.62121 the|0.63636 square|0.65152 root|0.66667 of|0.68182 a|0.69697 positive|0.71212 real|0.72727 number|0.74242 12|0.75758 13|0.77273 When|0.78788 computing|0.80303 square|0.81818 roots|0.83333 with|0.84848 logarithm|0.86364 tables|0.87879 or|0.89394 slide|0.90909 rules|0.92424 one|0.93939 can|0.95455 exploit|0.9697 the|0.98485 identity|1"
+		}
+	}
+}

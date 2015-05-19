@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c84e7e53498638864c121b56a75d3ef29c255687e973798458e9874e876161d",
+			"url": "https://upload.wikimedia.org/math/1/c/1/1c11cbb0875c282b3c0183d469f6b199.png",
+			"previous": " Let V and W be vector spaces over the same field K A function f V W is said to be a linear map if for any two vectors x and y in V and any scalar in K the following two conditions are satisfied ",
+			"after": " This is equivalent to requiring the same for any linear combination of vectors i e that for any vectors x1 xm V and scalars a1 am K the following equality holds ",
+			"color": "dim|0.37169 gray|0.37169 dim|0.37169 grey|0.37169 gray|0.30246 grey|0.30246 dark|0.17791 gray|0.17791 dark|0.17791 grey|0.17791 silver|0.072744 light|0.035655 gray|0.035655 light|0.035655 grey|0.035655 gainsboro|0.02466 white|0.0043994 smoke|0.0043994  ",
+			"after_weights": " This|1 is|0.96774 equivalent|0.93548 to|0.90323 requiring|0.87097 the|0.83871 same|0.80645 for|0.77419 any|0.74194 linear|0.70968 combination|0.67742 of|0.64516 vectors|0.6129 i|0.58065 e|0.54839 that|0.51613 for|0.48387 any|0.45161 vectors|0.41935 x1|0.3871 xm|0.35484 V|0.32258 and|0.29032 scalars|0.25806 a1|0.22581 am|0.19355 K|0.16129 the|0.12903 following|0.096774 equality|0.064516 holds|0.032258 |0",
+			"previous_weights": " Let|0 V|0.022222 and|0.044444 W|0.066667 be|0.088889 vector|0.11111 spaces|0.13333 over|0.15556 the|0.17778 same|0.2 field|0.22222 K|0.24444 A|0.26667 function|0.28889 f|0.31111 V|0.33333 W|0.35556 is|0.37778 said|0.4 to|0.42222 be|0.44444 a|0.46667 linear|0.48889 map|0.51111 if|0.53333 for|0.55556 any|0.57778 two|0.6 vectors|0.62222 x|0.64444 and|0.66667 y|0.68889 in|0.71111 V|0.73333 and|0.75556 any|0.77778 scalar|0.8 in|0.82222 K|0.84444 the|0.86667 following|0.88889 two|0.91111 conditions|0.93333 are|0.95556 satisfied|0.97778 |1"
+		}
+	}
+}

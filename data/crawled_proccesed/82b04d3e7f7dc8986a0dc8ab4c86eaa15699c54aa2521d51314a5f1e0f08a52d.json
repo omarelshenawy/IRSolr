@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "82b04d3e7f7dc8986a0dc8ab4c86eaa15699c54aa2521d51314a5f1e0f08a52d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/United_Airlines_Boeing_737.jpg/200px-United_Airlines_Boeing_737.jpg",
+			"previous": " ",
+			"after": " Despite requests from Kansas City the airport has been unable to change its original International Air Transport Association IATA Mid Continent designation of MCI which had already been registered on navigational charts Further complicating requests to change the designation the Federal Communications Commission FCC at the time reserved all call letters with K or W for radio and television stations so KCI was not viable 29 ",
+			"color": "black|0.37949 dim|0.19977 gray|0.19977 dim|0.19977 grey|0.19977 gray|0.17267 grey|0.17267 dark|0.12993 gray|0.12993 dark|0.12993 grey|0.12993 silver|0.05194 dark|0.025344 slate|0.025344 gray|0.025344 light|0.01031 gray|0.01031 light|0.01031 grey|0.01031  ",
+			"after_weights": " Despite|1 requests|0.98485 from|0.9697 Kansas|0.95455 City|0.93939 the|0.92424 airport|0.90909 has|0.89394 been|0.87879 unable|0.86364 to|0.84848 change|0.83333 its|0.81818 original|0.80303 International|0.78788 Air|0.77273 Transport|0.75758 Association|0.74242 IATA|0.72727 Mid|0.71212 Continent|0.69697 designation|0.68182 of|0.66667 MCI|0.65152 which|0.63636 had|0.62121 already|0.60606 been|0.59091 registered|0.57576 on|0.56061 navigational|0.54545 charts|0.5303 Further|0.51515 complicating|0.5 requests|0.48485 to|0.4697 change|0.45455 the|0.43939 designation|0.42424 the|0.40909 Federal|0.39394 Communications|0.37879 Commission|0.36364 FCC|0.34848 at|0.33333 the|0.31818 time|0.30303 reserved|0.28788 all|0.27273 call|0.25758 letters|0.24242 with|0.22727 K|0.21212 or|0.19697 W|0.18182 for|0.16667 radio|0.15152 and|0.13636 television|0.12121 stations|0.10606 so|0.090909 KCI|0.075758 was|0.060606 not|0.045455 viable|0.030303 29|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

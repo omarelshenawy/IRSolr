@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15a233239a79e826873c216166ed0470af33710b8b0763f31b51387dd36a7f8b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/C172_heading_indicator.jpg/220px-C172_heading_indicator.jpg",
+			"previous": " ",
+			"after": " The heading indicator also called an HI is a flight instrument used in an aircraft to inform the pilot of the aircraft s heading It is sometimes referred to by its older names the directional gyro or DG and also UK usage direction indicator or DI 1 ",
+			"color": "dim|0.33991 gray|0.33991 dim|0.33991 grey|0.33991 black|0.25041 gray|0.12444 grey|0.12444 dark|0.047502 gray|0.047502 dark|0.047502 grey|0.047502 silver|0.028897 light|0.023254 gray|0.023254 light|0.023254 grey|0.023254 gainsboro|0.019639 rosy|0.014497 brown|0.014497 white|0.014283 smoke|0.014283 snow|0.013003 white|0.012507 ghost|0.012163 white|0.012163 sea|0.01129 shell|0.01129 alice|0.01091 blue|0.01091 mint|0.0097985 cream|0.0097985 dark|0.009713 salmon|0.009713 lavender|0.0096019 blush|0.0096019 floral|0.009301 white|0.009301 azure|0.0078434 linen|0.0058422  ",
+			"after_weights": " The|1 heading|0.97872 indicator|0.95745 also|0.93617 called|0.91489 an|0.89362 HI|0.87234 is|0.85106 a|0.82979 flight|0.80851 instrument|0.78723 used|0.76596 in|0.74468 an|0.7234 aircraft|0.70213 to|0.68085 inform|0.65957 the|0.6383 pilot|0.61702 of|0.59574 the|0.57447 aircraft|0.55319 s|0.53191 heading|0.51064 It|0.48936 is|0.46809 sometimes|0.44681 referred|0.42553 to|0.40426 by|0.38298 its|0.3617 older|0.34043 names|0.31915 the|0.29787 directional|0.2766 gyro|0.25532 or|0.23404 DG|0.21277 and|0.19149 also|0.17021 UK|0.14894 usage|0.12766 direction|0.10638 indicator|0.085106 or|0.06383 DI|0.042553 1|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

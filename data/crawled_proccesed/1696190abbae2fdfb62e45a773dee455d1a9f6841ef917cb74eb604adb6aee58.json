@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1696190abbae2fdfb62e45a773dee455d1a9f6841ef917cb74eb604adb6aee58",
+			"url": "https://upload.wikimedia.org/math/b/6/7/b6757b8a4a6cef41fbcfed14a6fd0bb5.png",
+			"previous": " Therefore ",
+			"after": " where L x y y L x f f when 0 and we have used integration by parts The last term vanishes because 0 at x1 and x2 by definition Also as previously mentioned the left side of the equation is zero so that",
+			"color": "black|0.31286 dim|0.26366 gray|0.26366 dim|0.26366 grey|0.26366 gray|0.23225 grey|0.23225 dark|0.1446 gray|0.1446 dark|0.1446 grey|0.1446 silver|0.038794 light|0.0054602 gray|0.0054602 light|0.0054602 grey|0.0054602  ",
+			"after_weights": " where|1 L|0.97674 x|0.95349 y|0.93023 y|0.90698 L|0.88372 x|0.86047 f|0.83721 f|0.81395 when|0.7907 0|0.76744 and|0.74419 we|0.72093 have|0.69767 used|0.67442 integration|0.65116 by|0.62791 parts|0.60465 The|0.5814 last|0.55814 term|0.53488 vanishes|0.51163 because|0.48837 0|0.46512 at|0.44186 x1|0.4186 and|0.39535 x2|0.37209 by|0.34884 definition|0.32558 Also|0.30233 as|0.27907 previously|0.25581 mentioned|0.23256 the|0.2093 left|0.18605 side|0.16279 of|0.13953 the|0.11628 equation|0.093023 is|0.069767 zero|0.046512 so|0.023256 that|0",
+			"previous_weights": " Therefore|0 |1"
+		}
+	}
+}

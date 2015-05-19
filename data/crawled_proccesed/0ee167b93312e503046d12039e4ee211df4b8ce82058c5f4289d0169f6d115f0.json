@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ee167b93312e503046d12039e4ee211df4b8ce82058c5f4289d0169f6d115f0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Determinant_example.svg/300px-Determinant_example.svg.png",
+			"previous": " ",
+			"after": " The determinant det A or A of a square matrix A is a number encoding certain properties of the matrix A matrix is invertible if and only if its determinant is nonzero Its absolute value equals the area in R2 or volume in R3 of the image of the unit square or cube while its sign corresponds to the orientation of the corresponding linear map the determinant is positive if and only if the orientation is preserved ",
+			"color": "lime|0.4795 green|0.4795 deep|0.47264 sky|0.47264 blue|0.47264 dark|0.0086166 gray|0.0086166 dark|0.0086166 grey|0.0086166 gray|0.0083799 grey|0.0083799 dim|0.0077076 gray|0.0077076 dim|0.0077076 grey|0.0077076 forest|0.0056594 green|0.0056594 black|0.0042802 silver|0.003809  ",
+			"after_weights": " The|1 determinant|0.98701 det|0.97403 A|0.96104 or|0.94805 A|0.93506 of|0.92208 a|0.90909 square|0.8961 matrix|0.88312 A|0.87013 is|0.85714 a|0.84416 number|0.83117 encoding|0.81818 certain|0.80519 properties|0.79221 of|0.77922 the|0.76623 matrix|0.75325 A|0.74026 matrix|0.72727 is|0.71429 invertible|0.7013 if|0.68831 and|0.67532 only|0.66234 if|0.64935 its|0.63636 determinant|0.62338 is|0.61039 nonzero|0.5974 Its|0.58442 absolute|0.57143 value|0.55844 equals|0.54545 the|0.53247 area|0.51948 in|0.50649 R2|0.49351 or|0.48052 volume|0.46753 in|0.45455 R3|0.44156 of|0.42857 the|0.41558 image|0.4026 of|0.38961 the|0.37662 unit|0.36364 square|0.35065 or|0.33766 cube|0.32468 while|0.31169 its|0.2987 sign|0.28571 corresponds|0.27273 to|0.25974 the|0.24675 orientation|0.23377 of|0.22078 the|0.20779 corresponding|0.19481 linear|0.18182 map|0.16883 the|0.15584 determinant|0.14286 is|0.12987 positive|0.11688 if|0.1039 and|0.090909 only|0.077922 if|0.064935 the|0.051948 orientation|0.038961 is|0.025974 preserved|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

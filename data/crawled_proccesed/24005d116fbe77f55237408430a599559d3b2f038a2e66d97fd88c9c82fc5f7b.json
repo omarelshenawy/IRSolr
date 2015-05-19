@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "24005d116fbe77f55237408430a599559d3b2f038a2e66d97fd88c9c82fc5f7b",
+			"url": "https://upload.wikimedia.org/math/1/6/a/16aa8e14a3fa88f21ef6351563dbea61.png",
+			"previous": " Vector calculus studies various differential operators defined on scalar or vector fields which are typically expressed in terms of the del operator also known as nabla The five most important differential operations in vector calculus are ",
+			"after": " where the curl and divergence differ because the former uses a cross product and the latter a dot product denotes a scalar field and denotes a vector field A quantity called the Jacobian is useful for studying functions when both the domain and range of the function are multivariable such as a change of variables during integration ",
+			"color": "dim|0.42526 gray|0.42526 dim|0.42526 grey|0.42526 gray|0.26989 grey|0.26989 dark|0.17028 gray|0.17028 dark|0.17028 grey|0.17028 silver|0.071285 light|0.032275 gray|0.032275 light|0.032275 grey|0.032275 gainsboro|0.022373  ",
+			"after_weights": " where|1 the|0.98246 curl|0.96491 and|0.94737 divergence|0.92982 differ|0.91228 because|0.89474 the|0.87719 former|0.85965 uses|0.84211 a|0.82456 cross|0.80702 product|0.78947 and|0.77193 the|0.75439 latter|0.73684 a|0.7193 dot|0.70175 product|0.68421 denotes|0.66667 a|0.64912 scalar|0.63158 field|0.61404 and|0.59649 denotes|0.57895 a|0.5614 vector|0.54386 field|0.52632 A|0.50877 quantity|0.49123 called|0.47368 the|0.45614 Jacobian|0.4386 is|0.42105 useful|0.40351 for|0.38596 studying|0.36842 functions|0.35088 when|0.33333 both|0.31579 the|0.29825 domain|0.2807 and|0.26316 range|0.24561 of|0.22807 the|0.21053 function|0.19298 are|0.17544 multivariable|0.15789 such|0.14035 as|0.12281 a|0.10526 change|0.087719 of|0.070175 variables|0.052632 during|0.035088 integration|0.017544 |0",
+			"previous_weights": " Vector|0 calculus|0.027778 studies|0.055556 various|0.083333 differential|0.11111 operators|0.13889 defined|0.16667 on|0.19444 scalar|0.22222 or|0.25 vector|0.27778 fields|0.30556 which|0.33333 are|0.36111 typically|0.38889 expressed|0.41667 in|0.44444 terms|0.47222 of|0.5 the|0.52778 del|0.55556 operator|0.58333 also|0.61111 known|0.63889 as|0.66667 nabla|0.69444 The|0.72222 five|0.75 most|0.77778 important|0.80556 differential|0.83333 operations|0.86111 in|0.88889 vector|0.91667 calculus|0.94444 are|0.97222 |1"
+		}
+	}
+}

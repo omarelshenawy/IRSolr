@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7b564f90b6d9b62a006409f5a2867912720fc932fc932c9207616e51bd9ca3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GA_plane_subspace_and_projection.svg/300px-GA_plane_subspace_and_projection.svg.png",
+			"previous": " Some terms are used in geometric algebra with a meaning that differs from the use of those terms in other fields of mathematics Some of these are listed here ",
+			"after": " For any vector a and any invertible vector m  where the projection of a onto m or the parallel part is",
+			"color": "orange|0.16235 lime|0.13102 red|0.10254 green|0.097877 yellow|0.097877 medium|0.07522 slate|0.07522 blue|0.07522 medium|0.052822 sea|0.052822 green|0.052822 dark|0.047126 blue|0.047126  ",
+			"after_weights": " For|1 any|0.95238 vector|0.90476 a|0.85714 and|0.80952 any|0.7619 invertible|0.71429 vector|0.66667 m|0.61905 |0.57143 where|0.52381 the|0.47619 projection|0.42857 of|0.38095 a|0.33333 onto|0.28571 m|0.2381 or|0.19048 the|0.14286 parallel|0.095238 part|0.047619 is|0",
+			"previous_weights": " Some|0 terms|0.034483 are|0.068966 used|0.10345 in|0.13793 geometric|0.17241 algebra|0.2069 with|0.24138 a|0.27586 meaning|0.31034 that|0.34483 differs|0.37931 from|0.41379 the|0.44828 use|0.48276 of|0.51724 those|0.55172 terms|0.58621 in|0.62069 other|0.65517 fields|0.68966 of|0.72414 mathematics|0.75862 Some|0.7931 of|0.82759 these|0.86207 are|0.89655 listed|0.93103 here|0.96552 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64c32bf340f0427a2f8c75814d577f4cdbfa0f34e22397bdf12ba6f102ab4d25",
+			"url": "https://upload.wikimedia.org/math/1/4/d/14d71675d57c4d4ccc4fd2c852700bd5.png",
+			"previous": " Now consider the equations of the two lines 1 and 2  The linear equation has the important property that if x1 and x2 are homogeneous coordinates of points on the line then the point x1 x2 is also on the line for any real and ",
+			"after": " which forms a system of linear equations The intersection of these two lines is defined by x x y 1 that satisfy the matrix equation ",
+			"color": "dim|0.29749 gray|0.29749 dim|0.29749 grey|0.29749 black|0.25831 gray|0.20024 grey|0.20024 dark|0.12503 gray|0.12503 dark|0.12503 grey|0.12503 silver|0.057079 light|0.028717 gray|0.028717 light|0.028717 grey|0.028717 gainsboro|0.020306  ",
+			"after_weights": " which|1 forms|0.96 a|0.92 system|0.88 of|0.84 linear|0.8 equations|0.76 The|0.72 intersection|0.68 of|0.64 these|0.6 two|0.56 lines|0.52 is|0.48 defined|0.44 by|0.4 x|0.36 x|0.32 y|0.28 1|0.24 that|0.2 satisfy|0.16 the|0.12 matrix|0.08 equation|0.04 |0",
+			"previous_weights": " Now|0 consider|0.021739 the|0.043478 equations|0.065217 of|0.086957 the|0.1087 two|0.13043 lines|0.15217 1|0.17391 and|0.19565 2|0.21739 |0.23913 The|0.26087 linear|0.28261 equation|0.30435 has|0.32609 the|0.34783 important|0.36957 property|0.3913 that|0.41304 if|0.43478 x1|0.45652 and|0.47826 x2|0.5 are|0.52174 homogeneous|0.54348 coordinates|0.56522 of|0.58696 points|0.6087 on|0.63043 the|0.65217 line|0.67391 then|0.69565 the|0.71739 point|0.73913 x1|0.76087 x2|0.78261 is|0.80435 also|0.82609 on|0.84783 the|0.86957 line|0.8913 for|0.91304 any|0.93478 real|0.95652 and|0.97826 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4bdc64f1a917bed7924fc610a4185c79aa433e61347ad3678a089c0c24032167",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/A_Neopagan_Wicker_Man.JPG/200px-A_Neopagan_Wicker_Man.JPG",
+			"previous": " ",
+			"after": " A wicker man was a large wicker statue of a human used by the ancient Druids priests of Celtic paganism for human sacrifice by burning it in effigy according to Julius Caesar in his Commentarii de Bello Gallico Commentary on the Gallic War ",
+			"color": "dark|0.83051 sea|0.83051 green|0.83051 black|0.097544 dark|0.03632 olive|0.03632 green|0.03632  ",
+			"after_weights": " A|1 wicker|0.97674 man|0.95349 was|0.93023 a|0.90698 large|0.88372 wicker|0.86047 statue|0.83721 of|0.81395 a|0.7907 human|0.76744 used|0.74419 by|0.72093 the|0.69767 ancient|0.67442 Druids|0.65116 priests|0.62791 of|0.60465 Celtic|0.5814 paganism|0.55814 for|0.53488 human|0.51163 sacrifice|0.48837 by|0.46512 burning|0.44186 it|0.4186 in|0.39535 effigy|0.37209 according|0.34884 to|0.32558 Julius|0.30233 Caesar|0.27907 in|0.25581 his|0.23256 Commentarii|0.2093 de|0.18605 Bello|0.16279 Gallico|0.13953 Commentary|0.11628 on|0.093023 the|0.069767 Gallic|0.046512 War|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

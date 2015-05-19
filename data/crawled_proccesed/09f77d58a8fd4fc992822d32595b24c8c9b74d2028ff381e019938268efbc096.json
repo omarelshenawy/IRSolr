@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "09f77d58a8fd4fc992822d32595b24c8c9b74d2028ff381e019938268efbc096",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alaska-737-4QB-YVR.jpg/220px-Alaska-737-4QB-YVR.jpg",
+			"previous": " ",
+			"after": " The airline began the 1990s with plans to lease 24 Boeing 737 400s from International Lease Finance Corporation ILFC all of which remain in Alaska s fleet to this day 11 The first aircraft was delivered in April 1992 23 ",
+			"color": "light|0.81956 steel|0.81956 blue|0.81956 black|0.030235 gray|0.024104 grey|0.024104 light|0.021798 slate|0.021798 gray|0.021798 dim|0.021365 gray|0.021365 dim|0.021365 grey|0.021365 dark|0.017169 gray|0.017169 dark|0.017169 grey|0.017169 slate|0.012965 gray|0.012965 light|0.0078775 sky|0.0078775 blue|0.0078775 lavender|0.0077575 dark|0.0065547 slate|0.0065547 gray|0.0065547 silver|0.0058813 light|0.0039247 gray|0.0039247 light|0.0039247 grey|0.0039247 gainsboro|0.0036672  ",
+			"after_weights": " The|1 airline|0.975 began|0.95 the|0.925 1990s|0.9 with|0.875 plans|0.85 to|0.825 lease|0.8 24|0.775 Boeing|0.75 737|0.725 400s|0.7 from|0.675 International|0.65 Lease|0.625 Finance|0.6 Corporation|0.575 ILFC|0.55 all|0.525 of|0.5 which|0.475 remain|0.45 in|0.425 Alaska|0.4 s|0.375 fleet|0.35 to|0.325 this|0.3 day|0.275 11|0.25 The|0.225 first|0.2 aircraft|0.175 was|0.15 delivered|0.125 in|0.1 April|0.075 1992|0.05 23|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

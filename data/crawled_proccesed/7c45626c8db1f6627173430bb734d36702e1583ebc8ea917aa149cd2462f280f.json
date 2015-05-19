@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c45626c8db1f6627173430bb734d36702e1583ebc8ea917aa149cd2462f280f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Red-bellied_woodpecker_on_railing.JPG/150px-Red-bellied_woodpecker_on_railing.JPG",
+			"previous": " ",
+			"after": " Order Piciformes Family Picidae Woodpeckers are small to medium sized birds with chisel like beaks short legs stiff tails and long tongues used for capturing insects Some species have feet with two toes pointing forward and two backward while several species have only three toes Many woodpeckers have the habit of tapping noisily on tree trunks with their beaks ",
+			"color": "slate|0.20583 gray|0.20583 light|0.16856 slate|0.16856 gray|0.16856 light|0.11924 steel|0.11924 blue|0.11924 dim|0.11485 gray|0.11485 dim|0.11485 grey|0.11485 gray|0.087874 grey|0.087874 dark|0.03173 gray|0.03173 dark|0.03173 grey|0.03173 lavender|0.021088 dark|0.019129 slate|0.019129 gray|0.019129 silver|0.018495 black|0.017258 light|0.016633 gray|0.016633 light|0.016633 grey|0.016633 thistle|0.0159 steel|0.015387 blue|0.015387 gainsboro|0.015017 alice|0.011399 blue|0.011399 ghost|0.010169 white|0.010169 white|0.0098687 smoke|0.0098687 light|0.0092023 blue|0.0092023 snow|0.0077505 lavender|0.0073058 blush|0.0073058  ",
+			"after_weights": " Order|1 Piciformes|0.98305 Family|0.9661 Picidae|0.94915 Woodpeckers|0.9322 are|0.91525 small|0.89831 to|0.88136 medium|0.86441 sized|0.84746 birds|0.83051 with|0.81356 chisel|0.79661 like|0.77966 beaks|0.76271 short|0.74576 legs|0.72881 stiff|0.71186 tails|0.69492 and|0.67797 long|0.66102 tongues|0.64407 used|0.62712 for|0.61017 capturing|0.59322 insects|0.57627 Some|0.55932 species|0.54237 have|0.52542 feet|0.50847 with|0.49153 two|0.47458 toes|0.45763 pointing|0.44068 forward|0.42373 and|0.40678 two|0.38983 backward|0.37288 while|0.35593 several|0.33898 species|0.32203 have|0.30508 only|0.28814 three|0.27119 toes|0.25424 Many|0.23729 woodpeckers|0.22034 have|0.20339 the|0.18644 habit|0.16949 of|0.15254 tapping|0.13559 noisily|0.11864 on|0.10169 tree|0.084746 trunks|0.067797 with|0.050847 their|0.033898 beaks|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

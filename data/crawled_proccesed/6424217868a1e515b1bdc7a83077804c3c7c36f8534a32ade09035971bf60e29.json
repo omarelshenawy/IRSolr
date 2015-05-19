@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6424217868a1e515b1bdc7a83077804c3c7c36f8534a32ade09035971bf60e29",
+			"url": "https://upload.wikimedia.org/math/f/3/7/f37130aec708a1cbe5e10086d6dcdfee.png",
+			"previous": " When operator function names do not have a pre defined abbreviation we may use operatorname  but not",
+			"after": "  operatorname includes correct spacing that would not be present with other means such as rm  Special care is needed with subscripted labels to distinguish the purpose of the subscript as this is a common error variables and constants in subscripts should be italic while textual labels should be in normal text font Roman upright For example ",
+			"color": "dim|0.35046 gray|0.35046 dim|0.35046 grey|0.35046 gray|0.31917 grey|0.31917 dark|0.17863 gray|0.17863 dark|0.17863 grey|0.17863 silver|0.074966 light|0.034878 gray|0.034878 light|0.034878 grey|0.034878 gainsboro|0.023696 white|0.0042737 smoke|0.0042737  ",
+			"after_weights": " |1 operatorname|0.98276 includes|0.96552 correct|0.94828 spacing|0.93103 that|0.91379 would|0.89655 not|0.87931 be|0.86207 present|0.84483 with|0.82759 other|0.81034 means|0.7931 such|0.77586 as|0.75862 rm|0.74138 |0.72414 Special|0.7069 care|0.68966 is|0.67241 needed|0.65517 with|0.63793 subscripted|0.62069 labels|0.60345 to|0.58621 distinguish|0.56897 the|0.55172 purpose|0.53448 of|0.51724 the|0.5 subscript|0.48276 as|0.46552 this|0.44828 is|0.43103 a|0.41379 common|0.39655 error|0.37931 variables|0.36207 and|0.34483 constants|0.32759 in|0.31034 subscripts|0.2931 should|0.27586 be|0.25862 italic|0.24138 while|0.22414 textual|0.2069 labels|0.18966 should|0.17241 be|0.15517 in|0.13793 normal|0.12069 text|0.10345 font|0.086207 Roman|0.068966 upright|0.051724 For|0.034483 example|0.017241 |0",
+			"previous_weights": " When|0 operator|0.058824 function|0.11765 names|0.17647 do|0.23529 not|0.29412 have|0.35294 a|0.41176 pre|0.47059 defined|0.52941 abbreviation|0.58824 we|0.64706 may|0.70588 use|0.76471 operatorname|0.82353 |0.88235 but|0.94118 not|1"
+		}
+	}
+}

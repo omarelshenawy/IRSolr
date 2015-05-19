@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93373690c3722a86f20517f5d9d7a5d457bc1bd23921e9c80c48f187faeef9f5",
+			"url": "https://upload.wikimedia.org/math/0/9/b/09b9b7be97d599dfc2ff3e0696a5b2f8.png",
+			"previous": " The identity matrix In of size n is the n by n matrix in which all the elements on the main diagonal are equal to 1 and all other elements are equal to 0 e g ",
+			"after": " It is a square matrix of order n and also a special kind of diagonal matrix It is called identity matrix because multiplication with it leaves a matrix unchanged ",
+			"color": "dim|0.4846 gray|0.4846 dim|0.4846 grey|0.4846 gray|0.21902 grey|0.21902 dark|0.14073 gray|0.14073 dark|0.14073 grey|0.14073 silver|0.058123 light|0.036976 gray|0.036976 light|0.036976 grey|0.036976 gainsboro|0.022876 white|0.0065789 smoke|0.0065789 lavender|0.0045454 blush|0.0045454 alice|0.0044415 blue|0.0044415 ghost|0.0044127 white|0.0044127 linen|0.0043463 sea|0.0043138 shell|0.0043138 snow|0.0042921  ",
+			"after_weights": " It|1 is|0.96552 a|0.93103 square|0.89655 matrix|0.86207 of|0.82759 order|0.7931 n|0.75862 and|0.72414 also|0.68966 a|0.65517 special|0.62069 kind|0.58621 of|0.55172 diagonal|0.51724 matrix|0.48276 It|0.44828 is|0.41379 called|0.37931 identity|0.34483 matrix|0.31034 because|0.27586 multiplication|0.24138 with|0.2069 it|0.17241 leaves|0.13793 a|0.10345 matrix|0.068966 unchanged|0.034483 |0",
+			"previous_weights": " The|0 identity|0.027778 matrix|0.055556 In|0.083333 of|0.11111 size|0.13889 n|0.16667 is|0.19444 the|0.22222 n|0.25 by|0.27778 n|0.30556 matrix|0.33333 in|0.36111 which|0.38889 all|0.41667 the|0.44444 elements|0.47222 on|0.5 the|0.52778 main|0.55556 diagonal|0.58333 are|0.61111 equal|0.63889 to|0.66667 1|0.69444 and|0.72222 all|0.75 other|0.77778 elements|0.80556 are|0.83333 equal|0.86111 to|0.88889 0|0.91667 e|0.94444 g|0.97222 |1"
+		}
+	}
+}

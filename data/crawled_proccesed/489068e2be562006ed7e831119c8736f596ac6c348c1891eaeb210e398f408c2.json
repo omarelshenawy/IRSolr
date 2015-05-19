@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "489068e2be562006ed7e831119c8736f596ac6c348c1891eaeb210e398f408c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Basic_Training_Formation.jpg/350px-Basic_Training_Formation.jpg",
+			"previous": " ",
+			"after": " The 37th Training Wing is based at Lackland Air Force Base It was initially activated in 1940 and served in the Panama Canal Zone during World War II The wing saw extensive action during the Vietnam War as host unit of Phu Cat Air Base South Vietnam In the 1980s the wing trained Wild Weasel pilots in the F 4 Phantom II before taking over F 117 Nighthawk operations in 1989 and participating in Operation Just Cause and Operation Desert Storm The wing took over Air Force basic military training in 1993 ",
+			"color": "black|0.95221 dim|0.010168 gray|0.010168 dim|0.010168 grey|0.010168 dark|0.0069047 gray|0.0069047 dark|0.0069047 grey|0.0069047 gray|0.0053799 grey|0.0053799 silver|0.0044321  ",
+			"after_weights": " The|1 37th|0.98913 Training|0.97826 Wing|0.96739 is|0.95652 based|0.94565 at|0.93478 Lackland|0.92391 Air|0.91304 Force|0.90217 Base|0.8913 It|0.88043 was|0.86957 initially|0.8587 activated|0.84783 in|0.83696 1940|0.82609 and|0.81522 served|0.80435 in|0.79348 the|0.78261 Panama|0.77174 Canal|0.76087 Zone|0.75 during|0.73913 World|0.72826 War|0.71739 II|0.70652 The|0.69565 wing|0.68478 saw|0.67391 extensive|0.66304 action|0.65217 during|0.6413 the|0.63043 Vietnam|0.61957 War|0.6087 as|0.59783 host|0.58696 unit|0.57609 of|0.56522 Phu|0.55435 Cat|0.54348 Air|0.53261 Base|0.52174 South|0.51087 Vietnam|0.5 In|0.48913 the|0.47826 1980s|0.46739 the|0.45652 wing|0.44565 trained|0.43478 Wild|0.42391 Weasel|0.41304 pilots|0.40217 in|0.3913 the|0.38043 F|0.36957 4|0.3587 Phantom|0.34783 II|0.33696 before|0.32609 taking|0.31522 over|0.30435 F|0.29348 117|0.28261 Nighthawk|0.27174 operations|0.26087 in|0.25 1989|0.23913 and|0.22826 participating|0.21739 in|0.20652 Operation|0.19565 Just|0.18478 Cause|0.17391 and|0.16304 Operation|0.15217 Desert|0.1413 Storm|0.13043 The|0.11957 wing|0.1087 took|0.097826 over|0.086957 Air|0.076087 Force|0.065217 basic|0.054348 military|0.043478 training|0.032609 in|0.021739 1993|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

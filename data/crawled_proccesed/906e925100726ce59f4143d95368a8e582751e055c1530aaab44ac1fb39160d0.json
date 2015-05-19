@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "906e925100726ce59f4143d95368a8e582751e055c1530aaab44ac1fb39160d0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bobcat_skull_Pengo.jpg/220px-Bobcat_skull_Pengo.jpg",
+			"previous": " ",
+			"after": " The adult bobcat has few predators other than humans although it may be killed in interspecific conflict Cougars and gray wolves will kill adult bobcats a behavior repeatedly observed in Yellowstone National Park 50 Coyotes have killed adult bobcats and kittens 51 52 53 There is at least one confirmed observation of a bobcat and an American black bear Ursus americanus fighting over a carcass 54 Bobcat remains have occasionally been found in the resting sites of male fishers 55 ",
+			"color": "gray|0.4789 grey|0.4789 dim|0.43329 gray|0.43329 dim|0.43329 grey|0.43329 light|0.038555 steel|0.038555 blue|0.038555 light|0.019944 slate|0.019944 gray|0.019944 dark|0.011132 gray|0.011132 dark|0.011132 grey|0.011132 slate|0.010746 gray|0.010746  ",
+			"after_weights": " The|1 adult|0.9875 bobcat|0.975 has|0.9625 few|0.95 predators|0.9375 other|0.925 than|0.9125 humans|0.9 although|0.8875 it|0.875 may|0.8625 be|0.85 killed|0.8375 in|0.825 interspecific|0.8125 conflict|0.8 Cougars|0.7875 and|0.775 gray|0.7625 wolves|0.75 will|0.7375 kill|0.725 adult|0.7125 bobcats|0.7 a|0.6875 behavior|0.675 repeatedly|0.6625 observed|0.65 in|0.6375 Yellowstone|0.625 National|0.6125 Park|0.6 50|0.5875 Coyotes|0.575 have|0.5625 killed|0.55 adult|0.5375 bobcats|0.525 and|0.5125 kittens|0.5 51|0.4875 52|0.475 53|0.4625 There|0.45 is|0.4375 at|0.425 least|0.4125 one|0.4 confirmed|0.3875 observation|0.375 of|0.3625 a|0.35 bobcat|0.3375 and|0.325 an|0.3125 American|0.3 black|0.2875 bear|0.275 Ursus|0.2625 americanus|0.25 fighting|0.2375 over|0.225 a|0.2125 carcass|0.2 54|0.1875 Bobcat|0.175 remains|0.1625 have|0.15 occasionally|0.1375 been|0.125 found|0.1125 in|0.1 the|0.0875 resting|0.075 sites|0.0625 of|0.05 male|0.0375 fishers|0.025 55|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

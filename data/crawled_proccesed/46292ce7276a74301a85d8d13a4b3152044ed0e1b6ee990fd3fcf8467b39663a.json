@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "46292ce7276a74301a85d8d13a4b3152044ed0e1b6ee990fd3fcf8467b39663a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Pluto-map-hs-2010-06-a-faces.jpg/220px-Pluto-map-hs-2010-06-a-faces.jpg",
+			"previous": " ",
+			"after": " Pluto s distance from Earth makes in depth investigation difficult Many details about Pluto will remain unknown until 14 July 2015 and onwards when the New Horizons spacecraft will fly through the Pluto system sending data back to Earth for analysis 26 ",
+			"color": "black|0.62539 dark|0.26582 khaki|0.26582 dim|0.056327 gray|0.056327 dim|0.056327 grey|0.056327  ",
+			"after_weights": " Pluto|1 s|0.97619 distance|0.95238 from|0.92857 Earth|0.90476 makes|0.88095 in|0.85714 depth|0.83333 investigation|0.80952 difficult|0.78571 Many|0.7619 details|0.7381 about|0.71429 Pluto|0.69048 will|0.66667 remain|0.64286 unknown|0.61905 until|0.59524 14|0.57143 July|0.54762 2015|0.52381 and|0.5 onwards|0.47619 when|0.45238 the|0.42857 New|0.40476 Horizons|0.38095 spacecraft|0.35714 will|0.33333 fly|0.30952 through|0.28571 the|0.2619 Pluto|0.2381 system|0.21429 sending|0.19048 data|0.16667 back|0.14286 to|0.11905 Earth|0.095238 for|0.071429 analysis|0.047619 26|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

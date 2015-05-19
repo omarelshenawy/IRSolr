@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42f7f6560089195e76fc881b5c19d5df3307ef59474ca8ea8a4b6920f0040e49",
+			"url": "https://upload.wikimedia.org/math/b/c/c/bccfc7022dfb945174d9bcebad2297bb.png",
+			"previous": " ",
+			"after": " The eigenspaces of T always form a direct sum and as a consequence any family of eigenvectors for different eigenvalues is always linearly independent Therefore the sum of the dimensions of the eigenspaces cannot exceed the dimension n of the space on which T operates and in particular there cannot be more than n distinct eigenvalues 25 ",
+			"color": " ",
+			"after_weights": " The|1 eigenspaces|0.98246 of|0.96491 T|0.94737 always|0.92982 form|0.91228 a|0.89474 direct|0.87719 sum|0.85965 and|0.84211 as|0.82456 a|0.80702 consequence|0.78947 any|0.77193 family|0.75439 of|0.73684 eigenvectors|0.7193 for|0.70175 different|0.68421 eigenvalues|0.66667 is|0.64912 always|0.63158 linearly|0.61404 independent|0.59649 Therefore|0.57895 the|0.5614 sum|0.54386 of|0.52632 the|0.50877 dimensions|0.49123 of|0.47368 the|0.45614 eigenspaces|0.4386 cannot|0.42105 exceed|0.40351 the|0.38596 dimension|0.36842 n|0.35088 of|0.33333 the|0.31579 space|0.29825 on|0.2807 which|0.26316 T|0.24561 operates|0.22807 and|0.21053 in|0.19298 particular|0.17544 there|0.15789 cannot|0.14035 be|0.12281 more|0.10526 than|0.087719 n|0.070175 distinct|0.052632 eigenvalues|0.035088 25|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

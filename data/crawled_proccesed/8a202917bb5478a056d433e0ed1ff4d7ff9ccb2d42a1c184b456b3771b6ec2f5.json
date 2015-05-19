@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a202917bb5478a056d433e0ed1ff4d7ff9ccb2d42a1c184b456b3771b6ec2f5",
+			"url": "https://upload.wikimedia.org/math/c/7/9/c79a9b79a11b5eeb74bf7d4789a61e98.png",
+			"previous": " Since the meridians are mapped to lines of constant x we must have x R 0 and x R in radians Therefore in the limit of infinitesimally small elements",
+			"after": " The choice of the function y for the Mercator projection is determined by the demand that the projection be conformal a condition which can be defined in two equivalent ways ",
+			"color": "dim|0.41321 gray|0.41321 dim|0.41321 grey|0.41321 gray|0.25513 grey|0.25513 dark|0.13316 gray|0.13316 dark|0.13316 grey|0.13316 black|0.087959 silver|0.054966 light|0.025015 gray|0.025015 light|0.025015 grey|0.025015 gainsboro|0.016794  ",
+			"after_weights": " The|1 choice|0.96667 of|0.93333 the|0.9 function|0.86667 y|0.83333 for|0.8 the|0.76667 Mercator|0.73333 projection|0.7 is|0.66667 determined|0.63333 by|0.6 the|0.56667 demand|0.53333 that|0.5 the|0.46667 projection|0.43333 be|0.4 conformal|0.36667 a|0.33333 condition|0.3 which|0.26667 can|0.23333 be|0.2 defined|0.16667 in|0.13333 two|0.1 equivalent|0.066667 ways|0.033333 |0",
+			"previous_weights": " Since|0 the|0.035714 meridians|0.071429 are|0.10714 mapped|0.14286 to|0.17857 lines|0.21429 of|0.25 constant|0.28571 x|0.32143 we|0.35714 must|0.39286 have|0.42857 x|0.46429 R|0.5 0|0.53571 and|0.57143 x|0.60714 R|0.64286 in|0.67857 radians|0.71429 Therefore|0.75 in|0.78571 the|0.82143 limit|0.85714 of|0.89286 infinitesimally|0.92857 small|0.96429 elements|1"
+		}
+	}
+}

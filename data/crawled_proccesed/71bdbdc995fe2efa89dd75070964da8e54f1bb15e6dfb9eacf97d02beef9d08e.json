@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71bdbdc995fe2efa89dd75070964da8e54f1bb15e6dfb9eacf97d02beef9d08e",
+			"url": "https://upload.wikimedia.org/math/3/3/6/3362aa8d6eb04ceb5ab9a5db2a9789e0.png",
+			"previous": " A variation of this proof does not require the use of the maximum modulus principle in fact the same argument with minor changes also gives a proof of the maximum modulus principle for holomorphic functions If we assume by contradiction that a p z0 0 then expanding p z in powers of z z0 we can write",
+			"after": " When r is sufficiently close to 0 this upper bound for p z is strictly smaller than a in contradiction to the definition of z0 Geometrically we have found an explicit direction 0 such that if one approaches z0 from that direction one can obtain values p z smaller in absolute value than p z0 ",
+			"color": "dim|0.34254 gray|0.34254 dim|0.34254 grey|0.34254 gray|0.22942 grey|0.22942 black|0.17592 dark|0.13152 gray|0.13152 dark|0.13152 grey|0.13152 silver|0.05808 light|0.028649 gray|0.028649 light|0.028649 grey|0.028649 gainsboro|0.019848 white|0.0034673 smoke|0.0034673  ",
+			"after_weights": " When|1 r|0.98182 is|0.96364 sufficiently|0.94545 close|0.92727 to|0.90909 0|0.89091 this|0.87273 upper|0.85455 bound|0.83636 for|0.81818 p|0.8 z|0.78182 is|0.76364 strictly|0.74545 smaller|0.72727 than|0.70909 a|0.69091 in|0.67273 contradiction|0.65455 to|0.63636 the|0.61818 definition|0.6 of|0.58182 z0|0.56364 Geometrically|0.54545 we|0.52727 have|0.50909 found|0.49091 an|0.47273 explicit|0.45455 direction|0.43636 0|0.41818 such|0.4 that|0.38182 if|0.36364 one|0.34545 approaches|0.32727 z0|0.30909 from|0.29091 that|0.27273 direction|0.25455 one|0.23636 can|0.21818 obtain|0.2 values|0.18182 p|0.16364 z|0.14545 smaller|0.12727 in|0.10909 absolute|0.090909 value|0.072727 than|0.054545 p|0.036364 z0|0.018182 |0",
+			"previous_weights": " A|0 variation|0.017857 of|0.035714 this|0.053571 proof|0.071429 does|0.089286 not|0.10714 require|0.125 the|0.14286 use|0.16071 of|0.17857 the|0.19643 maximum|0.21429 modulus|0.23214 principle|0.25 in|0.26786 fact|0.28571 the|0.30357 same|0.32143 argument|0.33929 with|0.35714 minor|0.375 changes|0.39286 also|0.41071 gives|0.42857 a|0.44643 proof|0.46429 of|0.48214 the|0.5 maximum|0.51786 modulus|0.53571 principle|0.55357 for|0.57143 holomorphic|0.58929 functions|0.60714 If|0.625 we|0.64286 assume|0.66071 by|0.67857 contradiction|0.69643 that|0.71429 a|0.73214 p|0.75 z0|0.76786 0|0.78571 then|0.80357 expanding|0.82143 p|0.83929 z|0.85714 in|0.875 powers|0.89286 of|0.91071 z|0.92857 z0|0.94643 we|0.96429 can|0.98214 write|1"
+		}
+	}
+}

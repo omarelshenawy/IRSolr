@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2891f1017aaa94485814cfc7bb29556f19be7d9e8c50db36ae4aee3adbbc52a2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Phoenix_Exterior_0550.2009.jpg/220px-Phoenix_Exterior_0550.2009.jpg",
+			"previous": " ",
+			"after": " Valley Metro provides public transportation throughout the metropolitan area with its trains buses and a ride share program 3 38 of workers commute by public transit During the summer it is very difficult to wait for a bus in the heat as many of the stops have no canopies Valley Metro s 20 mile 32 km light rail project called METRO through north central Phoenix downtown and eastward through Tempe and Mesa opened December 27 2008 Future rail segments of more than 30 miles 48 km are planned to open by 2030 277 ",
+			"color": "dim|0.34777 gray|0.34777 dim|0.34777 grey|0.34777 gray|0.30746 grey|0.30746 dark|0.18094 gray|0.18094 dark|0.18094 grey|0.18094 silver|0.051416 black|0.043007 dark|0.027264 slate|0.027264 gray|0.027264 slate|0.017343 gray|0.017343 light|0.0096208 gray|0.0096208 light|0.0096208 grey|0.0096208 light|0.0087042 slate|0.0087042 gray|0.0087042  ",
+			"after_weights": " Valley|1 Metro|0.98925 provides|0.97849 public|0.96774 transportation|0.95699 throughout|0.94624 the|0.93548 metropolitan|0.92473 area|0.91398 with|0.90323 its|0.89247 trains|0.88172 buses|0.87097 and|0.86022 a|0.84946 ride|0.83871 share|0.82796 program|0.8172 3|0.80645 38|0.7957 of|0.78495 workers|0.77419 commute|0.76344 by|0.75269 public|0.74194 transit|0.73118 During|0.72043 the|0.70968 summer|0.69892 it|0.68817 is|0.67742 very|0.66667 difficult|0.65591 to|0.64516 wait|0.63441 for|0.62366 a|0.6129 bus|0.60215 in|0.5914 the|0.58065 heat|0.56989 as|0.55914 many|0.54839 of|0.53763 the|0.52688 stops|0.51613 have|0.50538 no|0.49462 canopies|0.48387 Valley|0.47312 Metro|0.46237 s|0.45161 20|0.44086 mile|0.43011 32|0.41935 km|0.4086 light|0.39785 rail|0.3871 project|0.37634 called|0.36559 METRO|0.35484 through|0.34409 north|0.33333 central|0.32258 Phoenix|0.31183 downtown|0.30108 and|0.29032 eastward|0.27957 through|0.26882 Tempe|0.25806 and|0.24731 Mesa|0.23656 opened|0.22581 December|0.21505 27|0.2043 2008|0.19355 Future|0.1828 rail|0.17204 segments|0.16129 of|0.15054 more|0.13978 than|0.12903 30|0.11828 miles|0.10753 48|0.096774 km|0.086022 are|0.075269 planned|0.064516 to|0.053763 open|0.043011 by|0.032258 2030|0.021505 277|0.010753 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c37c89e316f7ca0b0bf6719b9bd8b0c00e5778ca06983406f1a7ef23d153020",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Zagreb%2C_Main_Station.JPG/220px-Zagreb%2C_Main_Station.JPG",
+			"previous": " ",
+			"after": " The commuter rail network in Zagreb has existed since 1992 In 2005 suburban rail services were increased to a 15 minute frequency serving the middle and outer suburbs of Zagreb primarily in the east west direction and to the southern districts This has enhanced the commuting opportunities across the city 52 ",
+			"color": "dim|0.4528 gray|0.4528 dim|0.4528 grey|0.4528 gray|0.29603 grey|0.29603 black|0.16799 light|0.025413 sky|0.025413 blue|0.025413 slate|0.01204 gray|0.01204 dark|0.011624 slate|0.011624 gray|0.011624 corn|0.011544 flower|0.011544 blue|0.011544 light|0.0073242 slate|0.0073242 gray|0.0073242 dark|0.0068729 gray|0.0068729 dark|0.0068729 grey|0.0068729  ",
+			"after_weights": " The|1 commuter|0.98039 rail|0.96078 network|0.94118 in|0.92157 Zagreb|0.90196 has|0.88235 existed|0.86275 since|0.84314 1992|0.82353 In|0.80392 2005|0.78431 suburban|0.76471 rail|0.7451 services|0.72549 were|0.70588 increased|0.68627 to|0.66667 a|0.64706 15|0.62745 minute|0.60784 frequency|0.58824 serving|0.56863 the|0.54902 middle|0.52941 and|0.5098 outer|0.4902 suburbs|0.47059 of|0.45098 Zagreb|0.43137 primarily|0.41176 in|0.39216 the|0.37255 east|0.35294 west|0.33333 direction|0.31373 and|0.29412 to|0.27451 the|0.2549 southern|0.23529 districts|0.21569 This|0.19608 has|0.17647 enhanced|0.15686 the|0.13725 commuting|0.11765 opportunities|0.098039 across|0.078431 the|0.058824 city|0.039216 52|0.019608 |0",
+			"previous_weights": " "
+		}
+	}
+}

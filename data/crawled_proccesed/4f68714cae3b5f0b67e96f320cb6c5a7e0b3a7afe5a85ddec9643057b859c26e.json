@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f68714cae3b5f0b67e96f320cb6c5a7e0b3a7afe5a85ddec9643057b859c26e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/95TrainingDivSSI_SVG.svg/17px-95TrainingDivSSI_SVG.svg.png",
+			"previous": " There are two division within the Army Reserve that are responsible for training operations ",
+			"after": " The United States Marine Corps has a further three active divisions and one reserve division They consist of three infantry regiments one artillery regiment a tank battalion a Light Armored Reconnaissance battalion an Amphibious Assault Vehicle battalion a reconnaissance battalion a combat engineer battalion and a headquarters battalion ",
+			"color": "dark|0.36082 slate|0.36082 blue|0.36082 midnight|0.11114 blue|0.11114 indian|0.083613 red|0.083613 light|0.056524 steel|0.056524 blue|0.056524 thistle|0.045715 lavender|0.031504 crimson|0.028301 pink|0.022677 light|0.021954 coral|0.021954 gainsboro|0.020877 lavender|0.019572 blush|0.019572 misty|0.019414 rose|0.019414 light|0.017982 pink|0.017982 ghost|0.017635 white|0.017635 white|0.017436 smoke|0.017436 alice|0.016445 blue|0.016445 light|0.016373 gray|0.016373 light|0.016373 grey|0.016373 snow|0.016076 white|0.014132 sea|0.013715 shell|0.013715 floral|0.011186 white|0.011186 azure|0.0109 mint|0.010763 cream|0.010763  ",
+			"after_weights": " The|1 United|0.97917 States|0.95833 Marine|0.9375 Corps|0.91667 has|0.89583 a|0.875 further|0.85417 three|0.83333 active|0.8125 divisions|0.79167 and|0.77083 one|0.75 reserve|0.72917 division|0.70833 They|0.6875 consist|0.66667 of|0.64583 three|0.625 infantry|0.60417 regiments|0.58333 one|0.5625 artillery|0.54167 regiment|0.52083 a|0.5 tank|0.47917 battalion|0.45833 a|0.4375 Light|0.41667 Armored|0.39583 Reconnaissance|0.375 battalion|0.35417 an|0.33333 Amphibious|0.3125 Assault|0.29167 Vehicle|0.27083 battalion|0.25 a|0.22917 reconnaissance|0.20833 battalion|0.1875 a|0.16667 combat|0.14583 engineer|0.125 battalion|0.10417 and|0.083333 a|0.0625 headquarters|0.041667 battalion|0.020833 |0",
+			"previous_weights": " There|0 are|0.071429 two|0.14286 division|0.21429 within|0.28571 the|0.35714 Army|0.42857 Reserve|0.5 that|0.57143 are|0.64286 responsible|0.71429 for|0.78571 training|0.85714 operations|0.92857 |1"
+		}
+	}
+}

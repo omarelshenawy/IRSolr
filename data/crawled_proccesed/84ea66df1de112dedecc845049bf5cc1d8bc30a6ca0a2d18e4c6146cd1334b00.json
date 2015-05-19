@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "84ea66df1de112dedecc845049bf5cc1d8bc30a6ca0a2d18e4c6146cd1334b00",
+			"url": "https://upload.wikimedia.org/math/f/d/0/fd018836770dd637ce06b05c5591b00b.png",
+			"previous": " The indefinite integral or antiderivative is written ",
+			"after": " Functions differing by only a constant have the same derivative and it can be shown that the antiderivative of a given function is actually a family of functions differing only by a constant Since the derivative of the function y x2 C where C is any constant is y 2x the antiderivative of the latter given by ",
+			"color": "gray|0.31067 grey|0.31067 dim|0.23885 gray|0.23885 dim|0.23885 grey|0.23885 dark|0.23395 gray|0.23395 dark|0.23395 grey|0.23395 silver|0.10517 light|0.052865 gray|0.052865 light|0.052865 grey|0.052865 gainsboro|0.036301 white|0.0062864 smoke|0.0062864 linen|0.0029106  ",
+			"after_weights": " Functions|1 differing|0.98246 by|0.96491 only|0.94737 a|0.92982 constant|0.91228 have|0.89474 the|0.87719 same|0.85965 derivative|0.84211 and|0.82456 it|0.80702 can|0.78947 be|0.77193 shown|0.75439 that|0.73684 the|0.7193 antiderivative|0.70175 of|0.68421 a|0.66667 given|0.64912 function|0.63158 is|0.61404 actually|0.59649 a|0.57895 family|0.5614 of|0.54386 functions|0.52632 differing|0.50877 only|0.49123 by|0.47368 a|0.45614 constant|0.4386 Since|0.42105 the|0.40351 derivative|0.38596 of|0.36842 the|0.35088 function|0.33333 y|0.31579 x2|0.29825 C|0.2807 where|0.26316 C|0.24561 is|0.22807 any|0.21053 constant|0.19298 is|0.17544 y|0.15789 2x|0.14035 the|0.12281 antiderivative|0.10526 of|0.087719 the|0.070175 latter|0.052632 given|0.035088 by|0.017544 |0",
+			"previous_weights": " The|0 indefinite|0.14286 integral|0.28571 or|0.42857 antiderivative|0.57143 is|0.71429 written|0.85714 |1"
+		}
+	}
+}

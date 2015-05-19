@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b2491f68a80bfc660bfe2f036b7902246a632081eef5c561d9cc4b7aa06c6ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Akai_MPC1000.jpg/220px-Akai_MPC1000.jpg",
+			"previous": " ",
+			"after": " The MPC1000 is a 64 track sampler sequencer It comes with 16 MB sample memory as standard and can be expanded to 128 MB It supports a sampling rate of 44 1 kHz in stereo or mono Its features include a USB port an internal CompactFlash card reader two MIDI inputs and outputs and effects and multiple analog outputs as standard Its sequencer s resolution is 96 ppq ",
+			"color": "midnight|0.35603 blue|0.35603 dark|0.28755 gray|0.28755 dark|0.28755 grey|0.28755 silver|0.054426 gray|0.042445 grey|0.042445 light|0.041088 slate|0.041088 gray|0.041088 slate|0.017978 gray|0.017978 light|0.017134 steel|0.017134 blue|0.017134 light|0.016606 gray|0.016606 light|0.016606 grey|0.016606 light|0.014125 golden|0.014125 rod|0.014125 yellow|0.014125 dark|0.013146 slate|0.013146 blue|0.013146 thistle|0.011941 gainsboro|0.010091 indian|0.0097323 red|0.0097323  ",
+			"after_weights": " The|1 MPC1000|0.98529 is|0.97059 a|0.95588 64|0.94118 track|0.92647 sampler|0.91176 sequencer|0.89706 It|0.88235 comes|0.86765 with|0.85294 16|0.83824 MB|0.82353 sample|0.80882 memory|0.79412 as|0.77941 standard|0.76471 and|0.75 can|0.73529 be|0.72059 expanded|0.70588 to|0.69118 128|0.67647 MB|0.66176 It|0.64706 supports|0.63235 a|0.61765 sampling|0.60294 rate|0.58824 of|0.57353 44|0.55882 1|0.54412 kHz|0.52941 in|0.51471 stereo|0.5 or|0.48529 mono|0.47059 Its|0.45588 features|0.44118 include|0.42647 a|0.41176 USB|0.39706 port|0.38235 an|0.36765 internal|0.35294 CompactFlash|0.33824 card|0.32353 reader|0.30882 two|0.29412 MIDI|0.27941 inputs|0.26471 and|0.25 outputs|0.23529 and|0.22059 effects|0.20588 and|0.19118 multiple|0.17647 analog|0.16176 outputs|0.14706 as|0.13235 standard|0.11765 Its|0.10294 sequencer|0.088235 s|0.073529 resolution|0.058824 is|0.044118 96|0.029412 ppq|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

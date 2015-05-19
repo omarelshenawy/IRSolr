@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f76075bf84c57f3940edd6d813752d5f11c07592f2d3d7d93e730912bce30cc",
+			"url": "https://upload.wikimedia.org/math/7/3/2/7329c7d9f6328b3b31193447a5a9c0d5.png",
+			"previous": " The right side as well as its negative is indeed a square root of x since",
+			"after": " For every non zero complex number z there exist precisely two numbers w such that w2 z the principal square root of z defined below and its negative ",
+			"color": "dim|0.33439 gray|0.33439 dim|0.33439 grey|0.33439 gray|0.29152 grey|0.29152 dark|0.19217 gray|0.19217 dark|0.19217 grey|0.19217 silver|0.088517 light|0.044578 gray|0.044578 light|0.044578 grey|0.044578 gainsboro|0.031435 white|0.0049472 smoke|0.0049472  ",
+			"after_weights": " For|1 every|0.96429 non|0.92857 zero|0.89286 complex|0.85714 number|0.82143 z|0.78571 there|0.75 exist|0.71429 precisely|0.67857 two|0.64286 numbers|0.60714 w|0.57143 such|0.53571 that|0.5 w2|0.46429 z|0.42857 the|0.39286 principal|0.35714 square|0.32143 root|0.28571 of|0.25 z|0.21429 defined|0.17857 below|0.14286 and|0.10714 its|0.071429 negative|0.035714 |0",
+			"previous_weights": " The|0 right|0.066667 side|0.13333 as|0.2 well|0.26667 as|0.33333 its|0.4 negative|0.46667 is|0.53333 indeed|0.6 a|0.66667 square|0.73333 root|0.8 of|0.86667 x|0.93333 since|1"
+		}
+	}
+}

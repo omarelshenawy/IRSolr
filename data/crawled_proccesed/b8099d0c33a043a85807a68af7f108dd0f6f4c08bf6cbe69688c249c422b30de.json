@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b8099d0c33a043a85807a68af7f108dd0f6f4c08bf6cbe69688c249c422b30de",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Germanwings_-_Service.jpg/220px-Germanwings_-_Service.jpg",
+			"previous": " Cabin attendants typically do not have the supplies training or equipment e g credit card machines to comply with in flight requests for out of class services such as first class meals in a coach compartment ",
+			"after": " ",
+			"color": "dim|0.25521 gray|0.25521 dim|0.25521 grey|0.25521 black|0.15577 dark|0.081896 gray|0.081896 dark|0.081896 grey|0.081896 silver|0.074034 gray|0.049434 grey|0.049434 light|0.044542 gray|0.044542 light|0.044542 grey|0.044542 antique|0.031147 white|0.031147 gainsboro|0.028492 slate|0.028219 gray|0.028219 light|0.028044 slate|0.028044 gray|0.028044 light|0.02233 steel|0.02233 blue|0.02233 linen|0.015531 papaya|0.013944 whip|0.013944 tan|0.012791 old|0.012554 lace|0.012554 lavender|0.011435 beige|0.011107 blanched|0.010955 almond|0.010955 floral|0.010006 white|0.010006 sea|0.0097677 shell|0.0097677 corn|0.0086373 silk|0.0086373 ivory|0.007564 bisque|0.0069751 white|0.0069067 smoke|0.0069067 alice|0.006047 blue|0.006047 rosy|0.005639 brown|0.005639 ghost|0.0055645 white|0.0055645 snow|0.0055358 mint|0.0053069 cream|0.0053069 white|0.0050351  ",
+			"after_weights": " ",
+			"previous_weights": " Cabin|0 attendants|0.027778 typically|0.055556 do|0.083333 not|0.11111 have|0.13889 the|0.16667 supplies|0.19444 training|0.22222 or|0.25 equipment|0.27778 e|0.30556 g|0.33333 credit|0.36111 card|0.38889 machines|0.41667 to|0.44444 comply|0.47222 with|0.5 in|0.52778 flight|0.55556 requests|0.58333 for|0.61111 out|0.63889 of|0.66667 class|0.69444 services|0.72222 such|0.75 as|0.77778 first|0.80556 class|0.83333 meals|0.86111 in|0.88889 a|0.91667 coach|0.94444 compartment|0.97222 |1"
+		}
+	}
+}

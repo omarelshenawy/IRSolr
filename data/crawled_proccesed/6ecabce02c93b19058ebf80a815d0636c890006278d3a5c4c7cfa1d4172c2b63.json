@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ecabce02c93b19058ebf80a815d0636c890006278d3a5c4c7cfa1d4172c2b63",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Giant_eland_map.png/220px-Giant_eland_map.png",
+			"previous": " ",
+			"after": " Giant elands live in the broad leafed savanna woodlands and glades of central and western Africa which correspond to the two subspecies They also live in forests as well as on the fringes of deserts The giant elands can also live in deserts as they produce very dry dung 31 They are found in South Sudan and Central African Republic into northern Cameroon and southern Chad 15 ",
+			"color": "silver|0.45726 dark|0.45604 gray|0.45604 dark|0.45604 grey|0.45604 light|0.047797 gray|0.047797 light|0.047797 grey|0.047797 gainsboro|0.033965  ",
+			"after_weights": " Giant|1 elands|0.98507 live|0.97015 in|0.95522 the|0.9403 broad|0.92537 leafed|0.91045 savanna|0.89552 woodlands|0.8806 and|0.86567 glades|0.85075 of|0.83582 central|0.8209 and|0.80597 western|0.79104 Africa|0.77612 which|0.76119 correspond|0.74627 to|0.73134 the|0.71642 two|0.70149 subspecies|0.68657 They|0.67164 also|0.65672 live|0.64179 in|0.62687 forests|0.61194 as|0.59701 well|0.58209 as|0.56716 on|0.55224 the|0.53731 fringes|0.52239 of|0.50746 deserts|0.49254 The|0.47761 giant|0.46269 elands|0.44776 can|0.43284 also|0.41791 live|0.40299 in|0.38806 deserts|0.37313 as|0.35821 they|0.34328 produce|0.32836 very|0.31343 dry|0.29851 dung|0.28358 31|0.26866 They|0.25373 are|0.23881 found|0.22388 in|0.20896 South|0.19403 Sudan|0.1791 and|0.16418 Central|0.14925 African|0.13433 Republic|0.1194 into|0.10448 northern|0.089552 Cameroon|0.074627 and|0.059701 southern|0.044776 Chad|0.029851 15|0.014925 |0",
+			"previous_weights": " "
+		}
+	}
+}

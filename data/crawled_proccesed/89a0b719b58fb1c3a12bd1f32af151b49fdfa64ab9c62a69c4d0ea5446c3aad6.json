@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89a0b719b58fb1c3a12bd1f32af151b49fdfa64ab9c62a69c4d0ea5446c3aad6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/AA_terminal_at_MIA_14_2004.jpg/220px-AA_terminal_at_MIA_14_2004.jpg",
+			"previous": " ",
+			"after": " American Airlines serves four continents trailing Delta Air Lines and United Airlines which both serve six Hubs at Dallas Fort Worth and Miami serve as gateways to the Americas while American s Chicago hub has become the airline s primary gateway to Europe and Asia New York Kennedy JFK is a primary gateway for both the Americas and Europe while the Los Angeles hub LAX is the primary gateway to Asia Lambert St Louis International Airport served as a regional hub for several years However the airline s 2009 restructuring led to the airport being removed as a focus city on April 5 2010 132 In the U S American serves the third largest number of international destinations after United Airlines and Delta Air Lines ",
+			"color": "black|0.44023 dim|0.15069 gray|0.15069 dim|0.15069 grey|0.15069 tan|0.09991 dark|0.07764 slate|0.07764 gray|0.07764 burly|0.051221 wood|0.051221 gray|0.041423 grey|0.041423 wheat|0.021242 dark|0.013934 gray|0.013934 dark|0.013934 grey|0.013934  ",
+			"after_weights": " American|1 Airlines|0.992 serves|0.984 four|0.976 continents|0.968 trailing|0.96 Delta|0.952 Air|0.944 Lines|0.936 and|0.928 United|0.92 Airlines|0.912 which|0.904 both|0.896 serve|0.888 six|0.88 Hubs|0.872 at|0.864 Dallas|0.856 Fort|0.848 Worth|0.84 and|0.832 Miami|0.824 serve|0.816 as|0.808 gateways|0.8 to|0.792 the|0.784 Americas|0.776 while|0.768 American|0.76 s|0.752 Chicago|0.744 hub|0.736 has|0.728 become|0.72 the|0.712 airline|0.704 s|0.696 primary|0.688 gateway|0.68 to|0.672 Europe|0.664 and|0.656 Asia|0.648 New|0.64 York|0.632 Kennedy|0.624 JFK|0.616 is|0.608 a|0.6 primary|0.592 gateway|0.584 for|0.576 both|0.568 the|0.56 Americas|0.552 and|0.544 Europe|0.536 while|0.528 the|0.52 Los|0.512 Angeles|0.504 hub|0.496 LAX|0.488 is|0.48 the|0.472 primary|0.464 gateway|0.456 to|0.448 Asia|0.44 Lambert|0.432 St|0.424 Louis|0.416 International|0.408 Airport|0.4 served|0.392 as|0.384 a|0.376 regional|0.368 hub|0.36 for|0.352 several|0.344 years|0.336 However|0.328 the|0.32 airline|0.312 s|0.304 2009|0.296 restructuring|0.288 led|0.28 to|0.272 the|0.264 airport|0.256 being|0.248 removed|0.24 as|0.232 a|0.224 focus|0.216 city|0.208 on|0.2 April|0.192 5|0.184 2010|0.176 132|0.168 In|0.16 the|0.152 U|0.144 S|0.136 American|0.128 serves|0.12 the|0.112 third|0.104 largest|0.096 number|0.088 of|0.08 international|0.072 destinations|0.064 after|0.056 United|0.048 Airlines|0.04 and|0.032 Delta|0.024 Air|0.016 Lines|0.008 |0",
+			"previous_weights": " "
+		}
+	}
+}

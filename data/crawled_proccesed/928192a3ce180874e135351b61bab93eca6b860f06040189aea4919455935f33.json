@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "928192a3ce180874e135351b61bab93eca6b860f06040189aea4919455935f33",
+			"url": "https://upload.wikimedia.org/math/4/3/4/43425bdc3ff5c937703fede30661d3e6.png",
+			"previous": " If we define the reflection along a non null vector m of the product of vectors as the reflection of every vector in the product along the same vector we get for any product of an odd number of vectors that by way of example ",
+			"after": " and for the product of an even number of vectors that",
+			"color": "dim|0.38695 gray|0.38695 dim|0.38695 grey|0.38695 gray|0.26816 grey|0.26816 dark|0.16924 gray|0.16924 dark|0.16924 grey|0.16924 silver|0.08086 light|0.038933 gray|0.038933 light|0.038933 grey|0.038933 gainsboro|0.026907 black|0.012139 white|0.0038205 smoke|0.0038205  ",
+			"after_weights": " and|1 for|0.9 the|0.8 product|0.7 of|0.6 an|0.5 even|0.4 number|0.3 of|0.2 vectors|0.1 that|0",
+			"previous_weights": " If|0 we|0.022222 define|0.044444 the|0.066667 reflection|0.088889 along|0.11111 a|0.13333 non|0.15556 null|0.17778 vector|0.2 m|0.22222 of|0.24444 the|0.26667 product|0.28889 of|0.31111 vectors|0.33333 as|0.35556 the|0.37778 reflection|0.4 of|0.42222 every|0.44444 vector|0.46667 in|0.48889 the|0.51111 product|0.53333 along|0.55556 the|0.57778 same|0.6 vector|0.62222 we|0.64444 get|0.66667 for|0.68889 any|0.71111 product|0.73333 of|0.75556 an|0.77778 odd|0.8 number|0.82222 of|0.84444 vectors|0.86667 that|0.88889 by|0.91111 way|0.93333 of|0.95556 example|0.97778 |1"
+		}
+	}
+}

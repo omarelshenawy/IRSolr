@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b71420d5f7496862dc204a782c85cfa69b920101d5d66f1f9aca267a6a12094",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/A400M.jpg/220px-A400M.jpg",
+			"previous": " The A400M features deployable baffles in front of the rear side doors intended to give paratroops time to get clear of the aircraft before they are hit by the slipstream 76 ",
+			"after": " The French Air Force used the A400M on its first operational mission a flight to Mali on 29 December 2013 77 78 ",
+			"color": "dark|0.39997 gray|0.39997 dark|0.39997 grey|0.39997 gray|0.20961 grey|0.20961 dim|0.19638 gray|0.19638 dim|0.19638 grey|0.19638 silver|0.084769 slate|0.038087 gray|0.038087 light|0.03172 slate|0.03172 gray|0.03172 light|0.017098 gray|0.017098 light|0.017098 grey|0.017098 black|0.0090682 dark|0.0064611 slate|0.0064611 gray|0.0064611 gainsboro|0.006398  ",
+			"after_weights": " The|1 French|0.95455 Air|0.90909 Force|0.86364 used|0.81818 the|0.77273 A400M|0.72727 on|0.68182 its|0.63636 first|0.59091 operational|0.54545 mission|0.5 a|0.45455 flight|0.40909 to|0.36364 Mali|0.31818 on|0.27273 29|0.22727 December|0.18182 2013|0.13636 77|0.090909 78|0.045455 |0",
+			"previous_weights": " The|0 A400M|0.032258 features|0.064516 deployable|0.096774 baffles|0.12903 in|0.16129 front|0.19355 of|0.22581 the|0.25806 rear|0.29032 side|0.32258 doors|0.35484 intended|0.3871 to|0.41935 give|0.45161 paratroops|0.48387 time|0.51613 to|0.54839 get|0.58065 clear|0.6129 of|0.64516 the|0.67742 aircraft|0.70968 before|0.74194 they|0.77419 are|0.80645 hit|0.83871 by|0.87097 the|0.90323 slipstream|0.93548 76|0.96774 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17b52784e58028cadca98aa18d05f898a17989bffb9c4af20f67b02a3a5b8f59",
+			"url": "https://upload.wikimedia.org/math/d/7/8/d7836a197887c87a72a402cf44c3a390.png",
+			"previous": " If the unknown function occurs both inside and outside of the integral it is known as a Fredholm equation of the second type ",
+			"after": " The parameter is an unknown factor which plays the same role as the eigenvalue in linear algebra ",
+			"color": "dim|0.35801 gray|0.35801 dim|0.35801 grey|0.35801 gray|0.30442 grey|0.30442 dark|0.18779 gray|0.18779 dark|0.18779 grey|0.18779 silver|0.076102 light|0.035131 gray|0.035131 light|0.035131 grey|0.035131 gainsboro|0.024405 white|0.0038017 smoke|0.0038017  ",
+			"after_weights": " The|1 parameter|0.94118 is|0.88235 an|0.82353 unknown|0.76471 factor|0.70588 which|0.64706 plays|0.58824 the|0.52941 same|0.47059 role|0.41176 as|0.35294 the|0.29412 eigenvalue|0.23529 in|0.17647 linear|0.11765 algebra|0.058824 |0",
+			"previous_weights": " If|0 the|0.043478 unknown|0.086957 function|0.13043 occurs|0.17391 both|0.21739 inside|0.26087 and|0.30435 outside|0.34783 of|0.3913 the|0.43478 integral|0.47826 it|0.52174 is|0.56522 known|0.6087 as|0.65217 a|0.69565 Fredholm|0.73913 equation|0.78261 of|0.82609 the|0.86957 second|0.91304 type|0.95652 |1"
+		}
+	}
+}

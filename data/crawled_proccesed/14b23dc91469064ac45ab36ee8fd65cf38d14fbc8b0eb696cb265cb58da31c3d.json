@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14b23dc91469064ac45ab36ee8fd65cf38d14fbc8b0eb696cb265cb58da31c3d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/EmissionNebula_NGC6357.jpg/170px-EmissionNebula_NGC6357.jpg",
+			"previous": " ",
+			"after": " Anyone can apply for time on the telescope there are no restrictions on nationality or academic affiliation but funding for analysis is only available to US institutions 98 Competition for time on the telescope is intense with about one fifth of the proposals submitted in each cycle earning time on the schedule 99 100 ",
+			"color": "burly|0.21873 wood|0.21873 rosy|0.17493 brown|0.17493 tan|0.14078 black|0.10791 sienna|0.065224 navajo|0.047444 white|0.047444 peach|0.039686 puff|0.039686 moccasin|0.026259 wheat|0.024451 thistle|0.017233  ",
+			"after_weights": " Anyone|1 can|0.98148 apply|0.96296 for|0.94444 time|0.92593 on|0.90741 the|0.88889 telescope|0.87037 there|0.85185 are|0.83333 no|0.81481 restrictions|0.7963 on|0.77778 nationality|0.75926 or|0.74074 academic|0.72222 affiliation|0.7037 but|0.68519 funding|0.66667 for|0.64815 analysis|0.62963 is|0.61111 only|0.59259 available|0.57407 to|0.55556 US|0.53704 institutions|0.51852 98|0.5 Competition|0.48148 for|0.46296 time|0.44444 on|0.42593 the|0.40741 telescope|0.38889 is|0.37037 intense|0.35185 with|0.33333 about|0.31481 one|0.2963 fifth|0.27778 of|0.25926 the|0.24074 proposals|0.22222 submitted|0.2037 in|0.18519 each|0.16667 cycle|0.14815 earning|0.12963 time|0.11111 on|0.092593 the|0.074074 schedule|0.055556 99|0.037037 100|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

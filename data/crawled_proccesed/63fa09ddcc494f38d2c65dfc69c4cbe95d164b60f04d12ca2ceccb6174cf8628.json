@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63fa09ddcc494f38d2c65dfc69c4cbe95d164b60f04d12ca2ceccb6174cf8628",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Induced_drag_r.svg/150px-Induced_drag_r.svg.png",
+			"previous": " ",
+			"after": " Lift induced drag also called induced drag is drag which occurs as the result of the creation of lift on a three dimensional lifting body such as the wing or fuselage of an airplane Induced drag consists of two primary components including drag due to the creation of vortices vortex drag and the presence of additional viscous drag lift induced viscous drag The vortices in the flow field present in the wake of a lifting body derive from the turbulent mixing of air of varying pressure on the upper and lower surfaces of the body which is a necessary condition for the creation of lift ",
+			"color": "corn|0.74629 flower|0.74629 blue|0.74629 black|0.075029 red|0.034393 dodger|0.033569 blue|0.033569 dark|0.023223 gray|0.023223 dark|0.023223 grey|0.023223 light|0.01967 coral|0.01967 salmon|0.012839 dim|0.011131 gray|0.011131 dim|0.011131 grey|0.011131 light|0.010601 pink|0.010601 gray|0.0095406 grey|0.0095406 pink|0.0064782 light|0.0055359 sky|0.0055359 blue|0.0055359 silver|0.0043581  ",
+			"after_weights": " Lift|1 induced|0.99048 drag|0.98095 also|0.97143 called|0.9619 induced|0.95238 drag|0.94286 is|0.93333 drag|0.92381 which|0.91429 occurs|0.90476 as|0.89524 the|0.88571 result|0.87619 of|0.86667 the|0.85714 creation|0.84762 of|0.8381 lift|0.82857 on|0.81905 a|0.80952 three|0.8 dimensional|0.79048 lifting|0.78095 body|0.77143 such|0.7619 as|0.75238 the|0.74286 wing|0.73333 or|0.72381 fuselage|0.71429 of|0.70476 an|0.69524 airplane|0.68571 Induced|0.67619 drag|0.66667 consists|0.65714 of|0.64762 two|0.6381 primary|0.62857 components|0.61905 including|0.60952 drag|0.6 due|0.59048 to|0.58095 the|0.57143 creation|0.5619 of|0.55238 vortices|0.54286 vortex|0.53333 drag|0.52381 and|0.51429 the|0.50476 presence|0.49524 of|0.48571 additional|0.47619 viscous|0.46667 drag|0.45714 lift|0.44762 induced|0.4381 viscous|0.42857 drag|0.41905 The|0.40952 vortices|0.4 in|0.39048 the|0.38095 flow|0.37143 field|0.3619 present|0.35238 in|0.34286 the|0.33333 wake|0.32381 of|0.31429 a|0.30476 lifting|0.29524 body|0.28571 derive|0.27619 from|0.26667 the|0.25714 turbulent|0.24762 mixing|0.2381 of|0.22857 air|0.21905 of|0.20952 varying|0.2 pressure|0.19048 on|0.18095 the|0.17143 upper|0.1619 and|0.15238 lower|0.14286 surfaces|0.13333 of|0.12381 the|0.11429 body|0.10476 which|0.095238 is|0.085714 a|0.07619 necessary|0.066667 condition|0.057143 for|0.047619 the|0.038095 creation|0.028571 of|0.019048 lift|0.0095238 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45c52c1dfb4fbd9d80863a5f3475196b7d0e08baeca341ba0f596ad7c1a67eb7",
+			"url": "https://upload.wikimedia.org/math/2/3/5/2353f01f9bc6e90d4172b433a4e9ca89.png",
+			"previous": " for each root j repeated kj times   for j all different ",
+			"after": " for some j complex then setting j i j and using Euler s formula allows some terms in the previous results to be written in the form where j is an arbitrary constant phase shift ",
+			"color": "black|0.28166 gray|0.22986 grey|0.22986 dim|0.22352 gray|0.22352 dim|0.22352 grey|0.22352 dark|0.17461 gray|0.17461 dark|0.17461 grey|0.17461 silver|0.06436 light|0.016488 gray|0.016488 light|0.016488 grey|0.016488 gainsboro|0.0068337  ",
+			"after_weights": " for|1 some|0.97143 j|0.94286 complex|0.91429 then|0.88571 setting|0.85714 j|0.82857 i|0.8 j|0.77143 and|0.74286 using|0.71429 Euler|0.68571 s|0.65714 formula|0.62857 allows|0.6 some|0.57143 terms|0.54286 in|0.51429 the|0.48571 previous|0.45714 results|0.42857 to|0.4 be|0.37143 written|0.34286 in|0.31429 the|0.28571 form|0.25714 where|0.22857 j|0.2 is|0.17143 an|0.14286 arbitrary|0.11429 constant|0.085714 phase|0.057143 shift|0.028571 |0",
+			"previous_weights": " for|0 each|0.076923 root|0.15385 j|0.23077 repeated|0.30769 kj|0.38462 times|0.46154 |0.53846 |0.61538 for|0.69231 j|0.76923 all|0.84615 different|0.92308 |1"
+		}
+	}
+}

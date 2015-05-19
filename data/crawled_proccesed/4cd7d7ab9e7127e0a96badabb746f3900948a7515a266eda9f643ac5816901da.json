@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4cd7d7ab9e7127e0a96badabb746f3900948a7515a266eda9f643ac5816901da",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ContIO360engine.JPG/220px-ContIO360engine.JPG",
+			"previous": " By 2014 the accident rate had been dramatically reduced with a 2013 fatal rate of 1 01 per 100 000 flight hours This was attributed to better training particularly in when to deploy the ballistic parachute system 29 ",
+			"after": " Data from Cirrus SR20 Specifications Webpage 11  General characteristics",
+			"color": "silver|0.19187 dim|0.13177 gray|0.13177 dim|0.13177 grey|0.13177 gray|0.10673 grey|0.10673 dark|0.10313 gray|0.10313 dark|0.10313 grey|0.10313 salmon|0.070103 tan|0.040202 black|0.034952 light|0.026064 gray|0.026064 light|0.026064 grey|0.026064 wheat|0.020441 dark|0.016422 salmon|0.016422 burly|0.013297 wood|0.013297 light|0.013081 coral|0.013081 gainsboro|0.012986 bisque|0.012481 moccasin|0.012425 blanched|0.011062 almond|0.011062 navajo|0.0087645 white|0.0087645 lemon|0.0083399 chiffon|0.0083399 brown|0.0082404 antique|0.0082276 white|0.0082276 peach|0.0082062 puff|0.0082062 beige|0.0081079 papaya|0.0075518 whip|0.0075518 indian|0.0073391 red|0.0073391 light|0.007224 golden|0.007224 rod|0.007224 yellow|0.007224 linen|0.0071777 old|0.0070473 lace|0.0070473 corn|0.0065497 silk|0.0065497 rosy|0.0061177 brown|0.0061177 pale|0.0057454 golden|0.0057454 rod|0.0057454 light|0.0054772 yellow|0.0054772 maroon|0.0054391  ",
+			"after_weights": " Data|1 from|0.88889 Cirrus|0.77778 SR20|0.66667 Specifications|0.55556 Webpage|0.44444 11|0.33333 |0.22222 General|0.11111 characteristics|0",
+			"previous_weights": " By|0 2014|0.026316 the|0.052632 accident|0.078947 rate|0.10526 had|0.13158 been|0.15789 dramatically|0.18421 reduced|0.21053 with|0.23684 a|0.26316 2013|0.28947 fatal|0.31579 rate|0.34211 of|0.36842 1|0.39474 01|0.42105 per|0.44737 100|0.47368 000|0.5 flight|0.52632 hours|0.55263 This|0.57895 was|0.60526 attributed|0.63158 to|0.65789 better|0.68421 training|0.71053 particularly|0.73684 in|0.76316 when|0.78947 to|0.81579 deploy|0.84211 the|0.86842 ballistic|0.89474 parachute|0.92105 system|0.94737 29|0.97368 |1"
+		}
+	}
+}

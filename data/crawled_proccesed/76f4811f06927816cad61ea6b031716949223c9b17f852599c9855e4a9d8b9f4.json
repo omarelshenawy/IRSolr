@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "76f4811f06927816cad61ea6b031716949223c9b17f852599c9855e4a9d8b9f4",
+			"url": "https://upload.wikimedia.org/math/5/7/8/578534197fdbdda1524937a6a23b0f37.png",
+			"previous": " Jetpipe pressure loss 1 so the jetpipe pressure ratio Combustor pressure loss 5 so the combustor pressure ratio Turbine polytropic efficiency ",
+			"after": " Constants  Ratio of specific heats for air  Ratio of specific heats for combustion products ",
+			"color": " ",
+			"after_weights": " Constants|1 |0.9375 Ratio|0.875 of|0.8125 specific|0.75 heats|0.6875 for|0.625 air|0.5625 |0.5 Ratio|0.4375 of|0.375 specific|0.3125 heats|0.25 for|0.1875 combustion|0.125 products|0.0625 |0",
+			"previous_weights": " Jetpipe|0 pressure|0.047619 loss|0.095238 1|0.14286 so|0.19048 the|0.2381 jetpipe|0.28571 pressure|0.33333 ratio|0.38095 Combustor|0.42857 pressure|0.47619 loss|0.52381 5|0.57143 so|0.61905 the|0.66667 combustor|0.71429 pressure|0.7619 ratio|0.80952 Turbine|0.85714 polytropic|0.90476 efficiency|0.95238 |1"
+		}
+	}
+}

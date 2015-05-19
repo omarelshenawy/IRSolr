@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d6e3cc6eb86d06ac5bdc7665acd4c99e01d000ad329daf3aafaa806e41d132e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Heian_Jingu_Daigokuden.jpg/220px-Heian_Jingu_Daigokuden.jpg",
+			"previous": " The present day Kyoto Imperial Palace located in what was the north eastern corner of Heian ky reproduces much of the Heian period Dairi in particular the Shishinden and the Seiry den  One of the Imperial Regalia of Japan the emperor s replica of the sacred mirror was also housed in the Unmeiden hall of the Dairi 17 ",
+			"after": " ",
+			"color": "dark|0.4537 slate|0.4537 gray|0.4537 silver|0.10779 black|0.055941 gray|0.055087 grey|0.055087 dim|0.053562 gray|0.053562 dim|0.053562 grey|0.053562 dark|0.046596 gray|0.046596 dark|0.046596 grey|0.046596 tan|0.030323 light|0.022972 gray|0.022972 light|0.022972 grey|0.022972 rosy|0.019729 brown|0.019729 burly|0.019615 wood|0.019615 sienna|0.018463  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 present|0.016949 day|0.033898 Kyoto|0.050847 Imperial|0.067797 Palace|0.084746 located|0.10169 in|0.11864 what|0.13559 was|0.15254 the|0.16949 north|0.18644 eastern|0.20339 corner|0.22034 of|0.23729 Heian|0.25424 ky|0.27119 reproduces|0.28814 much|0.30508 of|0.32203 the|0.33898 Heian|0.35593 period|0.37288 Dairi|0.38983 in|0.40678 particular|0.42373 the|0.44068 Shishinden|0.45763 and|0.47458 the|0.49153 Seiry|0.50847 den|0.52542 |0.54237 One|0.55932 of|0.57627 the|0.59322 Imperial|0.61017 Regalia|0.62712 of|0.64407 Japan|0.66102 the|0.67797 emperor|0.69492 s|0.71186 replica|0.72881 of|0.74576 the|0.76271 sacred|0.77966 mirror|0.79661 was|0.81356 also|0.83051 housed|0.84746 in|0.86441 the|0.88136 Unmeiden|0.89831 hall|0.91525 of|0.9322 the|0.94915 Dairi|0.9661 17|0.98305 |1"
+		}
+	}
+}

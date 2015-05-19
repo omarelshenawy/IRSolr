@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a59ab0d50b8151a5d991cc77aeda85d530c3806eb068264ec0bafd08fb13159",
+			"url": "https://upload.wikimedia.org/math/6/4/5/645ffa935091ad6e63c76f274947522f.png",
+			"previous": " The composition of two bijections f X Y and g Y Z is a bijection The inverse of is ",
+			"after": " If X and Y are finite sets then there exists a bijection between the two sets X and Y if and only if X and Y have the same number of elements Indeed in axiomatic set theory this is taken as the definition of same number of elements equinumerosity and generalising this definition to infinite sets leads to the concept of cardinal number a way to distinguish the various sizes of infinite sets ",
+			"color": "gray|0.29589 grey|0.29589 dark|0.28993 gray|0.28993 dark|0.28993 grey|0.28993 silver|0.13707 dim|0.10987 gray|0.10987 dim|0.10987 grey|0.10987 light|0.069348 gray|0.069348 light|0.069348 grey|0.069348 gainsboro|0.051471 white|0.010673 smoke|0.010673 linen|0.006173 lavender|0.0052581 blush|0.0052581 alice|0.0051113 blue|0.0051113 ghost|0.0048911 white|0.0048911 sea|0.0046604 shell|0.0046604 snow|0.0043546 white|0.0029846  ",
+			"after_weights": " If|1 X|0.9863 and|0.9726 Y|0.9589 are|0.94521 finite|0.93151 sets|0.91781 then|0.90411 there|0.89041 exists|0.87671 a|0.86301 bijection|0.84932 between|0.83562 the|0.82192 two|0.80822 sets|0.79452 X|0.78082 and|0.76712 Y|0.75342 if|0.73973 and|0.72603 only|0.71233 if|0.69863 X|0.68493 and|0.67123 Y|0.65753 have|0.64384 the|0.63014 same|0.61644 number|0.60274 of|0.58904 elements|0.57534 Indeed|0.56164 in|0.54795 axiomatic|0.53425 set|0.52055 theory|0.50685 this|0.49315 is|0.47945 taken|0.46575 as|0.45205 the|0.43836 definition|0.42466 of|0.41096 same|0.39726 number|0.38356 of|0.36986 elements|0.35616 equinumerosity|0.34247 and|0.32877 generalising|0.31507 this|0.30137 definition|0.28767 to|0.27397 infinite|0.26027 sets|0.24658 leads|0.23288 to|0.21918 the|0.20548 concept|0.19178 of|0.17808 cardinal|0.16438 number|0.15068 a|0.13699 way|0.12329 to|0.10959 distinguish|0.09589 the|0.082192 various|0.068493 sizes|0.054795 of|0.041096 infinite|0.027397 sets|0.013699 |0",
+			"previous_weights": " The|0 composition|0.052632 of|0.10526 two|0.15789 bijections|0.21053 f|0.26316 X|0.31579 Y|0.36842 and|0.42105 g|0.47368 Y|0.52632 Z|0.57895 is|0.63158 a|0.68421 bijection|0.73684 The|0.78947 inverse|0.84211 of|0.89474 is|0.94737 |1"
+		}
+	}
+}

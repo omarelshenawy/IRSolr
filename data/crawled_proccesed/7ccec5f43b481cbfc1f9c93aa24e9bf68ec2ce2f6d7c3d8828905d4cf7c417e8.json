@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ccec5f43b481cbfc1f9c93aa24e9bf68ec2ce2f6d7c3d8828905d4cf7c417e8",
+			"url": "https://upload.wikimedia.org/math/a/1/0/a100432cfbaa6417ffccfab51609f53b.png",
+			"previous": " The wavelength of a sinusoidal waveform traveling at constant speed is given by 17 ",
+			"after": " where is called the phase speed magnitude of the phase velocity of the wave and is the wave s frequency  Wavelength can be a useful concept even if the wave is not periodic in space For example in an ocean wave approaching shore the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height The analysis of the wave can be based upon comparison of the local wavelength with the local water depth 18 ",
+			"color": "dim|0.42159 gray|0.42159 dim|0.42159 grey|0.42159 gray|0.28387 grey|0.28387 dark|0.16865 gray|0.16865 dark|0.16865 grey|0.16865 silver|0.064557 light|0.028862 gray|0.028862 light|0.028862 grey|0.028862 gainsboro|0.018225  ",
+			"after_weights": " where|1 is|0.98876 called|0.97753 the|0.96629 phase|0.95506 speed|0.94382 magnitude|0.93258 of|0.92135 the|0.91011 phase|0.89888 velocity|0.88764 of|0.8764 the|0.86517 wave|0.85393 and|0.8427 is|0.83146 the|0.82022 wave|0.80899 s|0.79775 frequency|0.78652 |0.77528 Wavelength|0.76404 can|0.75281 be|0.74157 a|0.73034 useful|0.7191 concept|0.70787 even|0.69663 if|0.68539 the|0.67416 wave|0.66292 is|0.65169 not|0.64045 periodic|0.62921 in|0.61798 space|0.60674 For|0.59551 example|0.58427 in|0.57303 an|0.5618 ocean|0.55056 wave|0.53933 approaching|0.52809 shore|0.51685 the|0.50562 incoming|0.49438 wave|0.48315 undulates|0.47191 with|0.46067 a|0.44944 varying|0.4382 local|0.42697 wavelength|0.41573 that|0.40449 depends|0.39326 in|0.38202 part|0.37079 on|0.35955 the|0.34831 depth|0.33708 of|0.32584 the|0.31461 sea|0.30337 floor|0.29213 compared|0.2809 to|0.26966 the|0.25843 wave|0.24719 height|0.23596 The|0.22472 analysis|0.21348 of|0.20225 the|0.19101 wave|0.17978 can|0.16854 be|0.1573 based|0.14607 upon|0.13483 comparison|0.1236 of|0.11236 the|0.10112 local|0.089888 wavelength|0.078652 with|0.067416 the|0.05618 local|0.044944 water|0.033708 depth|0.022472 18|0.011236 |0",
+			"previous_weights": " The|0 wavelength|0.071429 of|0.14286 a|0.21429 sinusoidal|0.28571 waveform|0.35714 traveling|0.42857 at|0.5 constant|0.57143 speed|0.64286 is|0.71429 given|0.78571 by|0.85714 17|0.92857 |1"
+		}
+	}
+}

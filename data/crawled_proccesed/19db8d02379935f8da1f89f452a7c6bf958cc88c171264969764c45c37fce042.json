@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "19db8d02379935f8da1f89f452a7c6bf958cc88c171264969764c45c37fce042",
+			"url": "https://upload.wikimedia.org/math/9/b/5/9b5af6888f2dfd68c0605985ca6e91b3.png",
+			"previous": " This can be generalized to discount rates that vary over time instead of a constant discount rate r one uses a function of time r t In that case the discount factor and thus the present value of a cash flow at time T is given by the integral of the continuously compounded rate r t ",
+			"after": " Indeed a key reason for using continuous compounding is to simplify the analysis of varying discount rates and to allow one to use the tools of calculus Further for interest accrued and capitalized overnight hence compounded daily continuous compounding is a close approximation for the actual daily compounding More sophisticated analysis includes the use of differential equations as detailed below ",
+			"color": "dim|0.36696 gray|0.36696 dim|0.36696 grey|0.36696 gray|0.31071 grey|0.31071 dark|0.18453 gray|0.18453 dark|0.18453 grey|0.18453 silver|0.06833 light|0.033047 gray|0.033047 light|0.033047 grey|0.033047 gainsboro|0.022964 white|0.0039864 smoke|0.0039864  ",
+			"after_weights": " Indeed|1 a|0.98333 key|0.96667 reason|0.95 for|0.93333 using|0.91667 continuous|0.9 compounding|0.88333 is|0.86667 to|0.85 simplify|0.83333 the|0.81667 analysis|0.8 of|0.78333 varying|0.76667 discount|0.75 rates|0.73333 and|0.71667 to|0.7 allow|0.68333 one|0.66667 to|0.65 use|0.63333 the|0.61667 tools|0.6 of|0.58333 calculus|0.56667 Further|0.55 for|0.53333 interest|0.51667 accrued|0.5 and|0.48333 capitalized|0.46667 overnight|0.45 hence|0.43333 compounded|0.41667 daily|0.4 continuous|0.38333 compounding|0.36667 is|0.35 a|0.33333 close|0.31667 approximation|0.3 for|0.28333 the|0.26667 actual|0.25 daily|0.23333 compounding|0.21667 More|0.2 sophisticated|0.18333 analysis|0.16667 includes|0.15 the|0.13333 use|0.11667 of|0.1 differential|0.083333 equations|0.066667 as|0.05 detailed|0.033333 below|0.016667 |0",
+			"previous_weights": " This|0 can|0.017857 be|0.035714 generalized|0.053571 to|0.071429 discount|0.089286 rates|0.10714 that|0.125 vary|0.14286 over|0.16071 time|0.17857 instead|0.19643 of|0.21429 a|0.23214 constant|0.25 discount|0.26786 rate|0.28571 r|0.30357 one|0.32143 uses|0.33929 a|0.35714 function|0.375 of|0.39286 time|0.41071 r|0.42857 t|0.44643 In|0.46429 that|0.48214 case|0.5 the|0.51786 discount|0.53571 factor|0.55357 and|0.57143 thus|0.58929 the|0.60714 present|0.625 value|0.64286 of|0.66071 a|0.67857 cash|0.69643 flow|0.71429 at|0.73214 time|0.75 T|0.76786 is|0.78571 given|0.80357 by|0.82143 the|0.83929 integral|0.85714 of|0.875 the|0.89286 continuously|0.91071 compounded|0.92857 rate|0.94643 r|0.96429 t|0.98214 |1"
+		}
+	}
+}

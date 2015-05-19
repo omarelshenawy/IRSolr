@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c1cccf4c87a6e7c43ef71ec4b05675f37b48e1212371404e8a05e52ff232f14",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Medal_lg.jpeg/220px-Medal_lg.jpeg",
+			"previous": " ",
+			"after": " The Unix system had significant impact on other operating systems It won its success by  It was written in a high level language rather than assembly language which had been thought necessary for systems implementation on early computers Although this followed the lead of Multics and Burroughs it was Unix that popularized the idea ",
+			"color": "firebrick|0.15942 brown|0.13984 tan|0.13456 silver|0.068334 dark|0.047431 gray|0.047431 dark|0.047431 grey|0.047431 light|0.040688 gray|0.040688 light|0.040688 grey|0.040688 dim|0.035994 gray|0.035994 dim|0.035994 grey|0.035994 dark|0.034864 slate|0.034864 gray|0.034864 black|0.032813 rosy|0.032182 brown|0.032182  ",
+			"after_weights": " The|1 Unix|0.98182 system|0.96364 had|0.94545 significant|0.92727 impact|0.90909 on|0.89091 other|0.87273 operating|0.85455 systems|0.83636 It|0.81818 won|0.8 its|0.78182 success|0.76364 by|0.74545 |0.72727 It|0.70909 was|0.69091 written|0.67273 in|0.65455 a|0.63636 high|0.61818 level|0.6 language|0.58182 rather|0.56364 than|0.54545 assembly|0.52727 language|0.50909 which|0.49091 had|0.47273 been|0.45455 thought|0.43636 necessary|0.41818 for|0.4 systems|0.38182 implementation|0.36364 on|0.34545 early|0.32727 computers|0.30909 Although|0.29091 this|0.27273 followed|0.25455 the|0.23636 lead|0.21818 of|0.2 Multics|0.18182 and|0.16364 Burroughs|0.14545 it|0.12727 was|0.10909 Unix|0.090909 that|0.072727 popularized|0.054545 the|0.036364 idea|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

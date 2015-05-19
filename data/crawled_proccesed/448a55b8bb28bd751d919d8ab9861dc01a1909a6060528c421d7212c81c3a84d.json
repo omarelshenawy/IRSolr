@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "448a55b8bb28bd751d919d8ab9861dc01a1909a6060528c421d7212c81c3a84d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/George_and_Laura_Bush_at_Bagram_Air_Base_in_Afghanistan.jpg/220px-George_and_Laura_Bush_at_Bagram_Air_Base_in_Afghanistan.jpg",
+			"previous": " The presidential air fleet is operated by the 89th Airlift Wing based at Andrews Field Maryland ",
+			"after": " Air Force One usually does not have fighter aircraft to escort the presidential aircraft over the United States but this has occurred In June 1974 while President Nixon was on his way to a scheduled stop in Syria Syrian fighter jets intercepted Air Force One to act as escorts However the Air Force One crew was not informed in advance and as a result took evasive action including a dive 30 ",
+			"color": "silver|0.35327 black|0.17072 light|0.1453 gray|0.1453 light|0.1453 grey|0.1453 dark|0.11599 gray|0.11599 dark|0.11599 grey|0.11599 gainsboro|0.057511 gray|0.04734 grey|0.04734 dim|0.040316 gray|0.040316 dim|0.040316 grey|0.040316 slate|0.013835 gray|0.013835 light|0.011516 slate|0.011516 gray|0.011516 linen|0.009892 antique|0.0064491 white|0.0064491 old|0.0035718 lace|0.0035718 sea|0.0034531 shell|0.0034531 dark|0.0031822 slate|0.0031822 gray|0.0031822  ",
+			"after_weights": " Air|1 Force|0.98592 One|0.97183 usually|0.95775 does|0.94366 not|0.92958 have|0.91549 fighter|0.90141 aircraft|0.88732 to|0.87324 escort|0.85915 the|0.84507 presidential|0.83099 aircraft|0.8169 over|0.80282 the|0.78873 United|0.77465 States|0.76056 but|0.74648 this|0.73239 has|0.71831 occurred|0.70423 In|0.69014 June|0.67606 1974|0.66197 while|0.64789 President|0.6338 Nixon|0.61972 was|0.60563 on|0.59155 his|0.57746 way|0.56338 to|0.5493 a|0.53521 scheduled|0.52113 stop|0.50704 in|0.49296 Syria|0.47887 Syrian|0.46479 fighter|0.4507 jets|0.43662 intercepted|0.42254 Air|0.40845 Force|0.39437 One|0.38028 to|0.3662 act|0.35211 as|0.33803 escorts|0.32394 However|0.30986 the|0.29577 Air|0.28169 Force|0.26761 One|0.25352 crew|0.23944 was|0.22535 not|0.21127 informed|0.19718 in|0.1831 advance|0.16901 and|0.15493 as|0.14085 a|0.12676 result|0.11268 took|0.098592 evasive|0.084507 action|0.070423 including|0.056338 a|0.042254 dive|0.028169 30|0.014085 |0",
+			"previous_weights": " The|0 presidential|0.0625 air|0.125 fleet|0.1875 is|0.25 operated|0.3125 by|0.375 the|0.4375 89th|0.5 Airlift|0.5625 Wing|0.625 based|0.6875 at|0.75 Andrews|0.8125 Field|0.875 Maryland|0.9375 |1"
+		}
+	}
+}

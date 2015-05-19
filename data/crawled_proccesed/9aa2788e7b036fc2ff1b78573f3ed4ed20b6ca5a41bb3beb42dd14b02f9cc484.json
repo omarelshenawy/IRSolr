@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9aa2788e7b036fc2ff1b78573f3ed4ed20b6ca5a41bb3beb42dd14b02f9cc484",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/RRGriffon.JPG/220px-RRGriffon.JPG",
+			"previous": " Preserved Griffon engines are on public display at the  The sole remaining technically airworthy Avro Shackleton is based at the South African Air Force Museum Air Force Base Ysterplaat Cape Town 36 ",
+			"after": " Data from Lumsden 37 The Aeroplane 38 ",
+			"color": "black|0.52804 dim|0.14482 gray|0.14482 dim|0.14482 grey|0.14482 gray|0.077449 grey|0.077449 dark|0.046487 gray|0.046487 dark|0.046487 grey|0.046487 tan|0.045067 burly|0.043317 wood|0.043317 silver|0.021597 peru|0.013815 light|0.009537 gray|0.009537 light|0.009537 grey|0.009537  ",
+			"after_weights": " Data|1 from|0.85714 Lumsden|0.71429 37|0.57143 The|0.42857 Aeroplane|0.28571 38|0.14286 |0",
+			"previous_weights": " Preserved|0 Griffon|0.030303 engines|0.060606 are|0.090909 on|0.12121 public|0.15152 display|0.18182 at|0.21212 the|0.24242 |0.27273 The|0.30303 sole|0.33333 remaining|0.36364 technically|0.39394 airworthy|0.42424 Avro|0.45455 Shackleton|0.48485 is|0.51515 based|0.54545 at|0.57576 the|0.60606 South|0.63636 African|0.66667 Air|0.69697 Force|0.72727 Museum|0.75758 Air|0.78788 Force|0.81818 Base|0.84848 Ysterplaat|0.87879 Cape|0.90909 Town|0.93939 36|0.9697 |1"
+		}
+	}
+}

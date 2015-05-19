@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cc073b178097b60f43c3eead550a51aa763b77a2da25a4cea9e6ff9c3ab33be",
+			"url": "https://upload.wikimedia.org/math/c/e/4/ce407038cdf4d9e67cb24a3276ed96c4.png",
+			"previous": " Constants  Nozzle thrust coefficient  Jetpipe pressure loss 1 so the jetpipe pressure ratio",
+			"after": " Ratio of specific heats for combustion products  Specific heat at constant pressure for air   use 1 004646 kW s kg K when working with SI units and use 0 3395 hp s lb R if working with American units ",
+			"color": "dim|0.36357 gray|0.36357 dim|0.36357 grey|0.36357 gray|0.25793 grey|0.25793 dark|0.19139 gray|0.19139 dark|0.19139 grey|0.19139 silver|0.095751 light|0.041996 gray|0.041996 light|0.041996 grey|0.041996 gainsboro|0.028633 white|0.0049576 smoke|0.0049576  ",
+			"after_weights": " Ratio|1 of|0.97619 specific|0.95238 heats|0.92857 for|0.90476 combustion|0.88095 products|0.85714 |0.83333 Specific|0.80952 heat|0.78571 at|0.7619 constant|0.7381 pressure|0.71429 for|0.69048 air|0.66667 |0.64286 |0.61905 use|0.59524 1|0.57143 004646|0.54762 kW|0.52381 s|0.5 kg|0.47619 K|0.45238 when|0.42857 working|0.40476 with|0.38095 SI|0.35714 units|0.33333 and|0.30952 use|0.28571 0|0.2619 3395|0.2381 hp|0.21429 s|0.19048 lb|0.16667 R|0.14286 if|0.11905 working|0.095238 with|0.071429 American|0.047619 units|0.02381 |0",
+			"previous_weights": " Constants|0 |0.071429 Nozzle|0.14286 thrust|0.21429 coefficient|0.28571 |0.35714 Jetpipe|0.42857 pressure|0.5 loss|0.57143 1|0.64286 so|0.71429 the|0.78571 jetpipe|0.85714 pressure|0.92857 ratio|1"
+		}
+	}
+}

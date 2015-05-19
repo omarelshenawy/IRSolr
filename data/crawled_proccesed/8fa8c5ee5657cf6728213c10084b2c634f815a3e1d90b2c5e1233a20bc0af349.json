@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fa8c5ee5657cf6728213c10084b2c634f815a3e1d90b2c5e1233a20bc0af349",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Dotted_m-rune.jpg/15px-Dotted_m-rune.jpg",
+			"previous": " In Sm land there are five or six runestones that mention voyages to England One of them Sm 77 mentions a man who was a marshal stallari in England ",
+			"after": " Latin transliteration  Old Norse transcription  English translation ",
+			"color": " ",
+			"after_weights": " Latin|1 transliteration|0.88889 |0.77778 Old|0.66667 Norse|0.55556 transcription|0.44444 |0.33333 English|0.22222 translation|0.11111 |0",
+			"previous_weights": " In|0 Sm|0.034483 land|0.068966 there|0.10345 are|0.13793 five|0.17241 or|0.2069 six|0.24138 runestones|0.27586 that|0.31034 mention|0.34483 voyages|0.37931 to|0.41379 England|0.44828 One|0.48276 of|0.51724 them|0.55172 Sm|0.58621 77|0.62069 mentions|0.65517 a|0.68966 man|0.72414 who|0.75862 was|0.7931 a|0.82759 marshal|0.86207 stallari|0.89655 in|0.93103 England|0.96552 |1"
+		}
+	}
+}

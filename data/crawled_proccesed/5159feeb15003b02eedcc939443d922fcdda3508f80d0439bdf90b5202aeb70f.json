@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5159feeb15003b02eedcc939443d922fcdda3508f80d0439bdf90b5202aeb70f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Longshan_Temple_-_Right_entrance.jpg/220px-Longshan_Temple_-_Right_entrance.jpg",
+			"previous": " Bitan is known for boating and water sports Tamsui is a popular sea side resort town Ocean beaches are accessible in several directions from Taipei ",
+			"after": " Taipei is rich in beautiful ornate temples housing Buddhist Taoist and Chinese folk religion deities The Longshan Temple built in 1738 and located in the Wanhua District demonstrates an example of architecture with southern Chinese influences commonly seen on older buildings in Taiwan ",
+			"color": "black|0.18827 light|0.16019 gray|0.16019 light|0.16019 grey|0.16019 silver|0.15529 dim|0.10801 gray|0.10801 dim|0.10801 grey|0.10801 gainsboro|0.10285 gray|0.07859 grey|0.07859 dark|0.054583 gray|0.054583 dark|0.054583 grey|0.054583 tan|0.021057 burly|0.011792 wood|0.011792 dark|0.011079 olive|0.011079 green|0.011079 rosy|0.0099171 brown|0.0099171 antique|0.0092967 white|0.0092967 slate|0.0063897 gray|0.0063897 linen|0.0060803  ",
+			"after_weights": " Taipei|1 is|0.97674 rich|0.95349 in|0.93023 beautiful|0.90698 ornate|0.88372 temples|0.86047 housing|0.83721 Buddhist|0.81395 Taoist|0.7907 and|0.76744 Chinese|0.74419 folk|0.72093 religion|0.69767 deities|0.67442 The|0.65116 Longshan|0.62791 Temple|0.60465 built|0.5814 in|0.55814 1738|0.53488 and|0.51163 located|0.48837 in|0.46512 the|0.44186 Wanhua|0.4186 District|0.39535 demonstrates|0.37209 an|0.34884 example|0.32558 of|0.30233 architecture|0.27907 with|0.25581 southern|0.23256 Chinese|0.2093 influences|0.18605 commonly|0.16279 seen|0.13953 on|0.11628 older|0.093023 buildings|0.069767 in|0.046512 Taiwan|0.023256 |0",
+			"previous_weights": " Bitan|0 is|0.04 known|0.08 for|0.12 boating|0.16 and|0.2 water|0.24 sports|0.28 Tamsui|0.32 is|0.36 a|0.4 popular|0.44 sea|0.48 side|0.52 resort|0.56 town|0.6 Ocean|0.64 beaches|0.68 are|0.72 accessible|0.76 in|0.8 several|0.84 directions|0.88 from|0.92 Taipei|0.96 |1"
+		}
+	}
+}

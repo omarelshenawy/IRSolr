@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89f1a0e11e4bb447f6e89764905a5f03ef63751d8760b4cbd59eabe0e0bf894e",
+			"url": "https://upload.wikimedia.org/math/e/a/f/eaf2f786b094a49cd4680ceda5529bdf.png",
+			"previous": " In the case that there are exactly two possibilities such that any solution that satisfies this initial condition is a restriction of the solution that satisfies this initial condition with domain Imax ",
+			"after": " where is the open set in which F is defined and is its boundary  Note that the maximum domain of the solution",
+			"color": "dim|0.32299 gray|0.32299 dim|0.32299 grey|0.32299 gray|0.29638 grey|0.29638 dark|0.20433 gray|0.20433 dark|0.20433 grey|0.20433 silver|0.08757 light|0.042593 gray|0.042593 light|0.042593 grey|0.042593 gainsboro|0.02849 white|0.0045825 smoke|0.0045825  ",
+			"after_weights": " where|1 is|0.95455 the|0.90909 open|0.86364 set|0.81818 in|0.77273 which|0.72727 F|0.68182 is|0.63636 defined|0.59091 and|0.54545 is|0.5 its|0.45455 boundary|0.40909 |0.36364 Note|0.31818 that|0.27273 the|0.22727 maximum|0.18182 domain|0.13636 of|0.090909 the|0.045455 solution|0",
+			"previous_weights": " In|0 the|0.03125 case|0.0625 that|0.09375 there|0.125 are|0.15625 exactly|0.1875 two|0.21875 possibilities|0.25 such|0.28125 that|0.3125 any|0.34375 solution|0.375 that|0.40625 satisfies|0.4375 this|0.46875 initial|0.5 condition|0.53125 is|0.5625 a|0.59375 restriction|0.625 of|0.65625 the|0.6875 solution|0.71875 that|0.75 satisfies|0.78125 this|0.8125 initial|0.84375 condition|0.875 with|0.90625 domain|0.9375 Imax|0.96875 |1"
+		}
+	}
+}

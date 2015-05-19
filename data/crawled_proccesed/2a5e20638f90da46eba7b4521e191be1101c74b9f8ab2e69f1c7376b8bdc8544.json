@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a5e20638f90da46eba7b4521e191be1101c74b9f8ab2e69f1c7376b8bdc8544",
+			"url": "https://upload.wikimedia.org/math/a/5/c/a5c80ea759238d9ed86546dbaeb5ae8f.png",
+			"previous": " In PDEs it is common to denote partial derivatives using subscripts That is ",
+			"after": " Especially in physics del or Nabla is often used to denote spatial derivatives and for time derivatives For example the wave equation described below can be written as",
+			"color": "black|0.45847 dim|0.22771 gray|0.22771 dim|0.22771 grey|0.22771 gray|0.14897 grey|0.14897 dark|0.086701 gray|0.086701 dark|0.086701 grey|0.086701 silver|0.037956 light|0.018528 gray|0.018528 light|0.018528 grey|0.018528 gainsboro|0.012983  ",
+			"after_weights": " Especially|1 in|0.96296 physics|0.92593 del|0.88889 or|0.85185 Nabla|0.81481 is|0.77778 often|0.74074 used|0.7037 to|0.66667 denote|0.62963 spatial|0.59259 derivatives|0.55556 and|0.51852 for|0.48148 time|0.44444 derivatives|0.40741 For|0.37037 example|0.33333 the|0.2963 wave|0.25926 equation|0.22222 described|0.18519 below|0.14815 can|0.11111 be|0.074074 written|0.037037 as|0",
+			"previous_weights": " In|0 PDEs|0.076923 it|0.15385 is|0.23077 common|0.30769 to|0.38462 denote|0.46154 partial|0.53846 derivatives|0.61538 using|0.69231 subscripts|0.76923 That|0.84615 is|0.92308 |1"
+		}
+	}
+}

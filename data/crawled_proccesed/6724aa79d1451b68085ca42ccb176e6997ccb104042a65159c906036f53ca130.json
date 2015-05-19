@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6724aa79d1451b68085ca42ccb176e6997ccb104042a65159c906036f53ca130",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WSmarket.jpg/170px-WSmarket.jpg",
+			"previous": " ",
+			"after": " Cleveland s melting pot of immigrant groups and their various culinary traditions have long played an important role in defining the local cuisine Examples of these can particularly be found in neighborhoods such as Little Italy Slavic Village and Tremont ",
+			"color": "black|0.21363 dim|0.19505 gray|0.19505 dim|0.19505 grey|0.19505 tan|0.08008 burly|0.073149 wood|0.073149 gray|0.062302 grey|0.062302 dark|0.050933 gray|0.050933 dark|0.050933 grey|0.050933 silver|0.041697 peru|0.027489 saddle|0.021275 brown|0.021275 light|0.019203 gray|0.019203 light|0.019203 grey|0.019203 wheat|0.016948 sienna|0.016596  ",
+			"after_weights": " Cleveland|1 s|0.975 melting|0.95 pot|0.925 of|0.9 immigrant|0.875 groups|0.85 and|0.825 their|0.8 various|0.775 culinary|0.75 traditions|0.725 have|0.7 long|0.675 played|0.65 an|0.625 important|0.6 role|0.575 in|0.55 defining|0.525 the|0.5 local|0.475 cuisine|0.45 Examples|0.425 of|0.4 these|0.375 can|0.35 particularly|0.325 be|0.3 found|0.275 in|0.25 neighborhoods|0.225 such|0.2 as|0.175 Little|0.15 Italy|0.125 Slavic|0.1 Village|0.075 and|0.05 Tremont|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

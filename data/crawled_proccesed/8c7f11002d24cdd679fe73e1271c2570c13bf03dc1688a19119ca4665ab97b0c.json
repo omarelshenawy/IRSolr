@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c7f11002d24cdd679fe73e1271c2570c13bf03dc1688a19119ca4665ab97b0c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prototype_Gemini_Hand_Controller.jpg/220px-Prototype_Gemini_Hand_Controller.jpg",
+			"previous": " ",
+			"after": " Joysticks originated as controls for aircraft ailerons and elevators and is first known to have been used as such on Louis Bleriot s Bleriot VIII aircraft of 1908 in combination with a foot operated rudder bar for the yaw control surface on the tail ",
+			"color": "silver|0.2024 light|0.20109 gray|0.20109 light|0.20109 grey|0.20109 gainsboro|0.16302 dark|0.1176 gray|0.1176 dark|0.1176 grey|0.1176 linen|0.041914 tan|0.040811 burly|0.033318 wood|0.033318 gray|0.029894 grey|0.029894 white|0.024879 smoke|0.024879 dim|0.022019 gray|0.022019 dim|0.022019 grey|0.022019 sea|0.020938 shell|0.020938 peach|0.013732 puff|0.013732 old|0.01052 lace|0.01052 floral|0.0099093 white|0.0099093 snow|0.0083405 lavender|0.0079509 blush|0.0079509 misty|0.0078526 rose|0.0078526 bisque|0.006369 wheat|0.0060261 antique|0.0053915 white|0.0053915 mint|0.0033367 cream|0.0033367  ",
+			"after_weights": " Joysticks|1 originated|0.97727 as|0.95455 controls|0.93182 for|0.90909 aircraft|0.88636 ailerons|0.86364 and|0.84091 elevators|0.81818 and|0.79545 is|0.77273 first|0.75 known|0.72727 to|0.70455 have|0.68182 been|0.65909 used|0.63636 as|0.61364 such|0.59091 on|0.56818 Louis|0.54545 Bleriot|0.52273 s|0.5 Bleriot|0.47727 VIII|0.45455 aircraft|0.43182 of|0.40909 1908|0.38636 in|0.36364 combination|0.34091 with|0.31818 a|0.29545 foot|0.27273 operated|0.25 rudder|0.22727 bar|0.20455 for|0.18182 the|0.15909 yaw|0.13636 control|0.11364 surface|0.090909 on|0.068182 the|0.045455 tail|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

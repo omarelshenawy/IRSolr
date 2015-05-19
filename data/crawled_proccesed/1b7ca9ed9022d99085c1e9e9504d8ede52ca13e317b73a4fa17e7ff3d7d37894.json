@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b7ca9ed9022d99085c1e9e9504d8ede52ca13e317b73a4fa17e7ff3d7d37894",
+			"url": "https://upload.wikimedia.org/math/e/3/0/e30e4709d0d55e361c5fd246693e4f76.png",
+			"previous": " Instead of specifying the open subsets of a topological space the topology can also be determined by a closure operator denoted cl which assigns to any subset A X its closure or an interior operator denoted int which assigns to any subset A of X its interior In these terms a function",
+			"after": " between topological spaces is continuous in the sense above if and only if for all subsets A of X",
+			"color": "dim|0.3683 gray|0.3683 dim|0.3683 grey|0.3683 gray|0.29511 grey|0.29511 dark|0.17988 gray|0.17988 dark|0.17988 grey|0.17988 silver|0.076315 light|0.037153 gray|0.037153 light|0.037153 grey|0.037153 gainsboro|0.02549 white|0.0042141 smoke|0.0042141  ",
+			"after_weights": " between|1 topological|0.94444 spaces|0.88889 is|0.83333 continuous|0.77778 in|0.72222 the|0.66667 sense|0.61111 above|0.55556 if|0.5 and|0.44444 only|0.38889 if|0.33333 for|0.27778 all|0.22222 subsets|0.16667 A|0.11111 of|0.055556 X|0",
+			"previous_weights": " Instead|0 of|0.019608 specifying|0.039216 the|0.058824 open|0.078431 subsets|0.098039 of|0.11765 a|0.13725 topological|0.15686 space|0.17647 the|0.19608 topology|0.21569 can|0.23529 also|0.2549 be|0.27451 determined|0.29412 by|0.31373 a|0.33333 closure|0.35294 operator|0.37255 denoted|0.39216 cl|0.41176 which|0.43137 assigns|0.45098 to|0.47059 any|0.4902 subset|0.5098 A|0.52941 X|0.54902 its|0.56863 closure|0.58824 or|0.60784 an|0.62745 interior|0.64706 operator|0.66667 denoted|0.68627 int|0.70588 which|0.72549 assigns|0.7451 to|0.76471 any|0.78431 subset|0.80392 A|0.82353 of|0.84314 X|0.86275 its|0.88235 interior|0.90196 In|0.92157 these|0.94118 terms|0.96078 a|0.98039 function|1"
+		}
+	}
+}

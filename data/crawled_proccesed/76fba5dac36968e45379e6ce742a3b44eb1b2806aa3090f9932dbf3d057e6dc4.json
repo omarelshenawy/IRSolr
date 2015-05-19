@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "76fba5dac36968e45379e6ce742a3b44eb1b2806aa3090f9932dbf3d057e6dc4",
+			"url": "https://upload.wikimedia.org/math/6/8/3/6832b40fae02972f7ab7473bf091b53d.png",
+			"previous": " For a device that converts energy from another form into thermal energy such as an electric heater boiler or furnace the thermal efficiency is",
+			"after": " where the quantities are heat equivalent values  So for a boiler that produces 210 kW or 700 000 BTU h output for each 300 kW or 1 000 000 BTU h heat equivalent input its thermal efficiency is 210 300 0 70 or 70 This means that 30 of the energy is lost to the environment ",
+			"color": "gray|0.27383 grey|0.27383 dark|0.24619 gray|0.24619 dark|0.24619 grey|0.24619 dim|0.19953 gray|0.19953 dim|0.19953 grey|0.19953 silver|0.12407 light|0.072651 gray|0.072651 light|0.072651 grey|0.072651 gainsboro|0.050315 white|0.0095943 smoke|0.0095943 linen|0.0037711 lavender|0.0034904 blush|0.0034904 alice|0.0033905 blue|0.0033905 ghost|0.0032658 white|0.0032658 sea|0.0031053 shell|0.0031053 snow|0.0029961  ",
+			"after_weights": " where|1 the|0.98246 quantities|0.96491 are|0.94737 heat|0.92982 equivalent|0.91228 values|0.89474 |0.87719 So|0.85965 for|0.84211 a|0.82456 boiler|0.80702 that|0.78947 produces|0.77193 210|0.75439 kW|0.73684 or|0.7193 700|0.70175 000|0.68421 BTU|0.66667 h|0.64912 output|0.63158 for|0.61404 each|0.59649 300|0.57895 kW|0.5614 or|0.54386 1|0.52632 000|0.50877 000|0.49123 BTU|0.47368 h|0.45614 heat|0.4386 equivalent|0.42105 input|0.40351 its|0.38596 thermal|0.36842 efficiency|0.35088 is|0.33333 210|0.31579 300|0.29825 0|0.2807 70|0.26316 or|0.24561 70|0.22807 This|0.21053 means|0.19298 that|0.17544 30|0.15789 of|0.14035 the|0.12281 energy|0.10526 is|0.087719 lost|0.070175 to|0.052632 the|0.035088 environment|0.017544 |0",
+			"previous_weights": " For|0 a|0.043478 device|0.086957 that|0.13043 converts|0.17391 energy|0.21739 from|0.26087 another|0.30435 form|0.34783 into|0.3913 thermal|0.43478 energy|0.47826 such|0.52174 as|0.56522 an|0.6087 electric|0.65217 heater|0.69565 boiler|0.73913 or|0.78261 furnace|0.82609 the|0.86957 thermal|0.91304 efficiency|0.95652 is|1"
+		}
+	}
+}

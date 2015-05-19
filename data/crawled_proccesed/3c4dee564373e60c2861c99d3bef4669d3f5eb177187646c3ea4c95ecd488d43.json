@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c4dee564373e60c2861c99d3bef4669d3f5eb177187646c3ea4c95ecd488d43",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/YamahaRMax.jpg/220px-YamahaRMax.jpg",
+			"previous": " ",
+			"after": " Japanese farmers have been using Yamaha s R 50 and RMAX unmanned helicopters to dust their crops since 1987 138 139 Some farming initiatives in the U S utilize UAVs for crop spraying as they are often cheaper than a full sized helicopter ",
+			"color": "dark|0.35229 gray|0.35229 dark|0.35229 grey|0.35229 light|0.18334 steel|0.18334 blue|0.18334 black|0.12761 dim|0.068606 gray|0.068606 dim|0.068606 grey|0.068606 silver|0.061942 light|0.048142 slate|0.048142 gray|0.048142 gray|0.047858 grey|0.047858 slate|0.019374 gray|0.019374 light|0.015367 gray|0.015367 light|0.015367 grey|0.015367  ",
+			"after_weights": " Japanese|1 farmers|0.97674 have|0.95349 been|0.93023 using|0.90698 Yamaha|0.88372 s|0.86047 R|0.83721 50|0.81395 and|0.7907 RMAX|0.76744 unmanned|0.74419 helicopters|0.72093 to|0.69767 dust|0.67442 their|0.65116 crops|0.62791 since|0.60465 1987|0.5814 138|0.55814 139|0.53488 Some|0.51163 farming|0.48837 initiatives|0.46512 in|0.44186 the|0.4186 U|0.39535 S|0.37209 utilize|0.34884 UAVs|0.32558 for|0.30233 crop|0.27907 spraying|0.25581 as|0.23256 they|0.2093 are|0.18605 often|0.16279 cheaper|0.13953 than|0.11628 a|0.093023 full|0.069767 sized|0.046512 helicopter|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

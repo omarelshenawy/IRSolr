@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "66fc2af6a1cb26d02ff74e10c6e19ad2da1d57c02c49eda39a547a360ae03716",
+			"url": "https://upload.wikimedia.org/math/1/a/6/1a6fbc649bf9931fbda4210347b75f28.png",
+			"previous": " Since the starting point and ending point are fixed S is minimized if and only if 0 so the curve must lie on a meridian of the sphere 0 constant In Cartesian coordinates this is",
+			"after": " which is a plane through the origin i e the center of the sphere ",
+			"color": "dim|0.34152 gray|0.34152 dim|0.34152 grey|0.34152 gray|0.21754 grey|0.21754 black|0.20929 dark|0.12481 gray|0.12481 dark|0.12481 grey|0.12481 silver|0.054206 light|0.025831 gray|0.025831 light|0.025831 grey|0.025831 gainsboro|0.017552  ",
+			"after_weights": " which|1 is|0.92857 a|0.85714 plane|0.78571 through|0.71429 the|0.64286 origin|0.57143 i|0.5 e|0.42857 the|0.35714 center|0.28571 of|0.21429 the|0.14286 sphere|0.071429 |0",
+			"previous_weights": " Since|0 the|0.029412 starting|0.058824 point|0.088235 and|0.11765 ending|0.14706 point|0.17647 are|0.20588 fixed|0.23529 S|0.26471 is|0.29412 minimized|0.32353 if|0.35294 and|0.38235 only|0.41176 if|0.44118 0|0.47059 so|0.5 the|0.52941 curve|0.55882 must|0.58824 lie|0.61765 on|0.64706 a|0.67647 meridian|0.70588 of|0.73529 the|0.76471 sphere|0.79412 0|0.82353 constant|0.85294 In|0.88235 Cartesian|0.91176 coordinates|0.94118 this|0.97059 is|1"
+		}
+	}
+}

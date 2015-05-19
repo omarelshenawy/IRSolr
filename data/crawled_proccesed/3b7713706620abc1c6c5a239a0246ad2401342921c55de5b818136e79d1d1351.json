@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b7713706620abc1c6c5a239a0246ad2401342921c55de5b818136e79d1d1351",
+			"url": "https://upload.wikimedia.org/math/d/7/d/d7df7aa8906c7832de1c24886caf3cb5.png",
+			"previous": " where is the commutator product In a local coordinate basis spanning the tangent surface the shape tensor is given by",
+			"after": " Importantly on a general manifold the covariant derivative does not commute In particular the commutator is related to the shape tensor by",
+			"color": "dim|0.37167 gray|0.37167 dim|0.37167 grey|0.37167 gray|0.3035 grey|0.3035 dark|0.18445 gray|0.18445 dark|0.18445 grey|0.18445 silver|0.071846 light|0.032277 gray|0.032277 light|0.032277 grey|0.032277 gainsboro|0.021185 white|0.0035785 smoke|0.0035785  ",
+			"after_weights": " Importantly|1 on|0.95238 a|0.90476 general|0.85714 manifold|0.80952 the|0.7619 covariant|0.71429 derivative|0.66667 does|0.61905 not|0.57143 commute|0.52381 In|0.47619 particular|0.42857 the|0.38095 commutator|0.33333 is|0.28571 related|0.2381 to|0.19048 the|0.14286 shape|0.095238 tensor|0.047619 by|0",
+			"previous_weights": " where|0 is|0.052632 the|0.10526 commutator|0.15789 product|0.21053 In|0.26316 a|0.31579 local|0.36842 coordinate|0.42105 basis|0.47368 spanning|0.52632 the|0.57895 tangent|0.63158 surface|0.68421 the|0.73684 shape|0.78947 tensor|0.84211 is|0.89474 given|0.94737 by|1"
+		}
+	}
+}

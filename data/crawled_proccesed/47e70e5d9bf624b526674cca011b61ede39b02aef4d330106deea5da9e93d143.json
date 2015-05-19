@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47e70e5d9bf624b526674cca011b61ede39b02aef4d330106deea5da9e93d143",
+			"url": "https://upload.wikimedia.org/math/8/0/5/805ef0580d70be22fead4c64e8940c77.png",
+			"previous": " An algorithm is said to be exponential time if T n is upper bounded by 2poly n where poly n is some polynomial in n More formally an algorithm is exponential time if T n is bounded by O 2nk for some constant k Problems which admit exponential time algorithms on a deterministic Turing machine form the complexity class known as EXP ",
+			"after": " Sometimes exponential time is used to refer to algorithms that have T n 2O n where the exponent is at most a linear function of n This gives rise to the complexity class E ",
+			"color": "dim|0.3528 gray|0.3528 dim|0.3528 grey|0.3528 gray|0.31847 grey|0.31847 dark|0.19785 gray|0.19785 dark|0.19785 grey|0.19785 silver|0.063327 light|0.029995 gray|0.029995 light|0.029995 grey|0.029995 gainsboro|0.019367 white|0.0040939 smoke|0.0040939  ",
+			"after_weights": " Sometimes|1 exponential|0.97059 time|0.94118 is|0.91176 used|0.88235 to|0.85294 refer|0.82353 to|0.79412 algorithms|0.76471 that|0.73529 have|0.70588 T|0.67647 n|0.64706 2O|0.61765 n|0.58824 where|0.55882 the|0.52941 exponent|0.5 is|0.47059 at|0.44118 most|0.41176 a|0.38235 linear|0.35294 function|0.32353 of|0.29412 n|0.26471 This|0.23529 gives|0.20588 rise|0.17647 to|0.14706 the|0.11765 complexity|0.088235 class|0.058824 E|0.029412 |0",
+			"previous_weights": " An|0 algorithm|0.016129 is|0.032258 said|0.048387 to|0.064516 be|0.080645 exponential|0.096774 time|0.1129 if|0.12903 T|0.14516 n|0.16129 is|0.17742 upper|0.19355 bounded|0.20968 by|0.22581 2poly|0.24194 n|0.25806 where|0.27419 poly|0.29032 n|0.30645 is|0.32258 some|0.33871 polynomial|0.35484 in|0.37097 n|0.3871 More|0.40323 formally|0.41935 an|0.43548 algorithm|0.45161 is|0.46774 exponential|0.48387 time|0.5 if|0.51613 T|0.53226 n|0.54839 is|0.56452 bounded|0.58065 by|0.59677 O|0.6129 2nk|0.62903 for|0.64516 some|0.66129 constant|0.67742 k|0.69355 Problems|0.70968 which|0.72581 admit|0.74194 exponential|0.75806 time|0.77419 algorithms|0.79032 on|0.80645 a|0.82258 deterministic|0.83871 Turing|0.85484 machine|0.87097 form|0.8871 the|0.90323 complexity|0.91935 class|0.93548 known|0.95161 as|0.96774 EXP|0.98387 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8861c01639faf397ed85adebc2b8106aefc523e0b81dbe5eeca34f36b04bed6f",
+			"url": "https://upload.wikimedia.org/math/c/1/0/c108806d2cbea9d51d351aa21b486e24.png",
+			"previous": " The result is  In the example x is eliminated from L2 by adding 3 2 L1 to L2 x is then eliminated from L3 by adding L1 to L3 Formally ",
+			"after": " Now y is eliminated from L3 by adding 4L2 to L3  The result is ",
+			"color": "dim|0.43309 gray|0.43309 dim|0.43309 grey|0.43309 gray|0.30875 grey|0.30875 dark|0.14077 gray|0.14077 dark|0.14077 grey|0.14077 silver|0.059572 light|0.028572 gray|0.028572 light|0.028572 grey|0.028572 gainsboro|0.018621  ",
+			"after_weights": " Now|1 y|0.93333 is|0.86667 eliminated|0.8 from|0.73333 L3|0.66667 by|0.6 adding|0.53333 4L2|0.46667 to|0.4 L3|0.33333 |0.26667 The|0.2 result|0.13333 is|0.066667 |0",
+			"previous_weights": " The|0 result|0.032258 is|0.064516 |0.096774 In|0.12903 the|0.16129 example|0.19355 x|0.22581 is|0.25806 eliminated|0.29032 from|0.32258 L2|0.35484 by|0.3871 adding|0.41935 3|0.45161 2|0.48387 L1|0.51613 to|0.54839 L2|0.58065 x|0.6129 is|0.64516 then|0.67742 eliminated|0.70968 from|0.74194 L3|0.77419 by|0.80645 adding|0.83871 L1|0.87097 to|0.90323 L3|0.93548 Formally|0.96774 |1"
+		}
+	}
+}

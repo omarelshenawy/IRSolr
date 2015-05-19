@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "75b0c19baf2f4415e942e4d7ed4e0e25749a0f908e5a63dc3a767b8ef188985e",
+			"url": "https://upload.wikimedia.org/math/a/6/5/a650203d0b3d0c38f4d1a4d501152ff4.png",
+			"previous": " which completes the proof ",
+			"after": " and there is no simpler expression for this function It is therefore important not to interpret the second part of the theorem as the definition of the integral Indeed there are many functions that are integrable but lack antiderivatives that can be written as an elementary function Conversely many functions that have antiderivatives are not Riemann integrable see Volterra s function ",
+			"color": "dim|0.33233 gray|0.33233 dim|0.33233 grey|0.33233 gray|0.30607 grey|0.30607 dark|0.19867 gray|0.19867 dark|0.19867 grey|0.19867 silver|0.083975 light|0.039123 gray|0.039123 light|0.039123 grey|0.039123 gainsboro|0.025687 white|0.0038818 smoke|0.0038818  ",
+			"after_weights": " and|1 there|0.98361 is|0.96721 no|0.95082 simpler|0.93443 expression|0.91803 for|0.90164 this|0.88525 function|0.86885 It|0.85246 is|0.83607 therefore|0.81967 important|0.80328 not|0.78689 to|0.77049 interpret|0.7541 the|0.7377 second|0.72131 part|0.70492 of|0.68852 the|0.67213 theorem|0.65574 as|0.63934 the|0.62295 definition|0.60656 of|0.59016 the|0.57377 integral|0.55738 Indeed|0.54098 there|0.52459 are|0.5082 many|0.4918 functions|0.47541 that|0.45902 are|0.44262 integrable|0.42623 but|0.40984 lack|0.39344 antiderivatives|0.37705 that|0.36066 can|0.34426 be|0.32787 written|0.31148 as|0.29508 an|0.27869 elementary|0.2623 function|0.2459 Conversely|0.22951 many|0.21311 functions|0.19672 that|0.18033 have|0.16393 antiderivatives|0.14754 are|0.13115 not|0.11475 Riemann|0.098361 integrable|0.081967 see|0.065574 Volterra|0.04918 s|0.032787 function|0.016393 |0",
+			"previous_weights": " which|0 completes|0.25 the|0.5 proof|0.75 |1"
+		}
+	}
+}

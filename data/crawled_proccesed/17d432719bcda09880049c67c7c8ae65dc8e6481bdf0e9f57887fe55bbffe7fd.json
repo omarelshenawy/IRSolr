@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17d432719bcda09880049c67c7c8ae65dc8e6481bdf0e9f57887fe55bbffe7fd",
+			"url": "https://upload.wikimedia.org/math/a/a/9/aa968370efc9797533259ffe70ad1192.png",
+			"previous": " where is the location where induced velocity is produced is the location of the vortex element producing the velocity and is the chord length of the airfoil ",
+			"after": " This integral equation can by solved for after replacing x by",
+			"color": "dark|0.30613 gray|0.30613 dark|0.30613 grey|0.30613 gray|0.27873 grey|0.27873 silver|0.14646 dim|0.1152 gray|0.1152 dim|0.1152 grey|0.1152 light|0.074371 gray|0.074371 light|0.074371 grey|0.074371 gainsboro|0.050758 white|0.0081005 smoke|0.0081005 linen|0.003757 lavender|0.0031151 blush|0.0031151 alice|0.0030103 blue|0.0030103 ghost|0.0028502 white|0.0028502 sea|0.002663 shell|0.002663  ",
+			"after_weights": " This|1 integral|0.9 equation|0.8 can|0.7 by|0.6 solved|0.5 for|0.4 after|0.3 replacing|0.2 x|0.1 by|0",
+			"previous_weights": " where|0 is|0.037037 the|0.074074 location|0.11111 where|0.14815 induced|0.18519 velocity|0.22222 is|0.25926 produced|0.2963 is|0.33333 the|0.37037 location|0.40741 of|0.44444 the|0.48148 vortex|0.51852 element|0.55556 producing|0.59259 the|0.62963 velocity|0.66667 and|0.7037 is|0.74074 the|0.77778 chord|0.81481 length|0.85185 of|0.88889 the|0.92593 airfoil|0.96296 |1"
+		}
+	}
+}

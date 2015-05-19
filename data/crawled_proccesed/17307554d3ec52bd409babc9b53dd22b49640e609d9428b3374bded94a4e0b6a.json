@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17307554d3ec52bd409babc9b53dd22b49640e609d9428b3374bded94a4e0b6a",
+			"url": "https://upload.wikimedia.org/math/a/e/5/ae57755df0a1f39f8625506c4cf2c27e.png",
+			"previous": " The solutions are superpositions of left and right moving waves  The potential in this case is given by ",
+			"after": " where the wave vectors are related to the energy via with coefficients A and B determined from the boundary conditions and by imposing a continuous derivative on the solution ",
+			"color": "dim|0.39571 gray|0.39571 dim|0.39571 grey|0.39571 gray|0.27514 grey|0.27514 dark|0.16893 gray|0.16893 dark|0.16893 grey|0.16893 silver|0.071047 light|0.036178 gray|0.036178 light|0.036178 grey|0.036178 gainsboro|0.02502 black|0.0084522 white|0.0050329 smoke|0.0050329  ",
+			"after_weights": " where|1 the|0.96552 wave|0.93103 vectors|0.89655 are|0.86207 related|0.82759 to|0.7931 the|0.75862 energy|0.72414 via|0.68966 with|0.65517 coefficients|0.62069 A|0.58621 and|0.55172 B|0.51724 determined|0.48276 from|0.44828 the|0.41379 boundary|0.37931 conditions|0.34483 and|0.31034 by|0.27586 imposing|0.24138 a|0.2069 continuous|0.17241 derivative|0.13793 on|0.10345 the|0.068966 solution|0.034483 |0",
+			"previous_weights": " The|0 solutions|0.052632 are|0.10526 superpositions|0.15789 of|0.21053 left|0.26316 and|0.31579 right|0.36842 moving|0.42105 waves|0.47368 |0.52632 The|0.57895 potential|0.63158 in|0.68421 this|0.73684 case|0.78947 is|0.84211 given|0.89474 by|0.94737 |1"
+		}
+	}
+}

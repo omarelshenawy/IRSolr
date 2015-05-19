@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6aed3fbd06da516226eb2699231b1248184b0f32d9c49cb8443449c4b7f1e66c",
+			"url": "https://upload.wikimedia.org/math/1/7/e/17e9e853ada1d862aabe741af5a82212.png",
+			"previous": " Compressor    Intake   So  Since the engine is static both the flight velocity and the flight Mach number are zero Freestream  Use 518 67 R if working with American units   Note this is an absolute temperature i e ",
+			"after": "   Combustor   Turbine      ",
+			"color": "dim|0.35615 gray|0.35615 dim|0.35615 grey|0.35615 gray|0.2978 grey|0.2978 dark|0.18979 gray|0.18979 dark|0.18979 grey|0.18979 silver|0.078519 light|0.036746 gray|0.036746 light|0.036746 grey|0.036746 gainsboro|0.025658 white|0.0040501 smoke|0.0040501  ",
+			"after_weights": " |1 |0.90909 Combustor|0.81818 |0.72727 |0.63636 Turbine|0.54545 |0.45455 |0.36364 |0.27273 |0.18182 |0.090909 |0",
+			"previous_weights": " Compressor|0 |0.021739 |0.043478 |0.065217 Intake|0.086957 |0.1087 |0.13043 So|0.15217 |0.17391 Since|0.19565 the|0.21739 engine|0.23913 is|0.26087 static|0.28261 both|0.30435 the|0.32609 flight|0.34783 velocity|0.36957 and|0.3913 the|0.41304 flight|0.43478 Mach|0.45652 number|0.47826 are|0.5 zero|0.52174 Freestream|0.54348 |0.56522 Use|0.58696 518|0.6087 67|0.63043 R|0.65217 if|0.67391 working|0.69565 with|0.71739 American|0.73913 units|0.76087 |0.78261 |0.80435 Note|0.82609 this|0.84783 is|0.86957 an|0.8913 absolute|0.91304 temperature|0.93478 i|0.95652 e|0.97826 |1"
+		}
+	}
+}

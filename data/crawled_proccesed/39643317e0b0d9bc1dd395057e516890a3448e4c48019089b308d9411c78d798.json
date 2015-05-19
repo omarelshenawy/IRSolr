@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "39643317e0b0d9bc1dd395057e516890a3448e4c48019089b308d9411c78d798",
+			"url": "https://upload.wikimedia.org/math/1/9/6/1966560affba628cbf253610da219163.png",
+			"previous": " Assume that s 1 is the smallest positive integer which is the product of prime numbers in two different ways If s were prime then it would factor uniquely as itself so there must be at least two primes in each factorization of s ",
+			"after": " If any pi qj then by cancellation s pi s qj would be a positive integer greater than 1 with two distinct factorizations But s pi is smaller than s meaning s would not actually be the smallest such integer Therefore every pi must be distinct from every qj ",
+			"color": " ",
+			"after_weights": " If|1 any|0.97959 pi|0.95918 qj|0.93878 then|0.91837 by|0.89796 cancellation|0.87755 s|0.85714 pi|0.83673 s|0.81633 qj|0.79592 would|0.77551 be|0.7551 a|0.73469 positive|0.71429 integer|0.69388 greater|0.67347 than|0.65306 1|0.63265 with|0.61224 two|0.59184 distinct|0.57143 factorizations|0.55102 But|0.53061 s|0.5102 pi|0.4898 is|0.46939 smaller|0.44898 than|0.42857 s|0.40816 meaning|0.38776 s|0.36735 would|0.34694 not|0.32653 actually|0.30612 be|0.28571 the|0.26531 smallest|0.2449 such|0.22449 integer|0.20408 Therefore|0.18367 every|0.16327 pi|0.14286 must|0.12245 be|0.10204 distinct|0.081633 from|0.061224 every|0.040816 qj|0.020408 |0",
+			"previous_weights": " Assume|0 that|0.022727 s|0.045455 1|0.068182 is|0.090909 the|0.11364 smallest|0.13636 positive|0.15909 integer|0.18182 which|0.20455 is|0.22727 the|0.25 product|0.27273 of|0.29545 prime|0.31818 numbers|0.34091 in|0.36364 two|0.38636 different|0.40909 ways|0.43182 If|0.45455 s|0.47727 were|0.5 prime|0.52273 then|0.54545 it|0.56818 would|0.59091 factor|0.61364 uniquely|0.63636 as|0.65909 itself|0.68182 so|0.70455 there|0.72727 must|0.75 be|0.77273 at|0.79545 least|0.81818 two|0.84091 primes|0.86364 in|0.88636 each|0.90909 factorization|0.93182 of|0.95455 s|0.97727 |1"
+		}
+	}
+}

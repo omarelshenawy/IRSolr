@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "961b2e090f8ca35d09f0a7b2823b53850d3534d4c2d661fc6424ab1400d81113",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saturn_%28planet%29_large.jpg/125px-Saturn_%28planet%29_large.jpg",
+			"previous": " Jupiter has over 60 known moons many of which have relatively little known information about them  Reaching Jupiter from Earth requires a delta v of 9 2 km s 27 which is comparable to the 9 7 km s delta v needed to reach low Earth orbit 28 Fortunately gravity assists through planetary flybys can be used to reduce the energy required at launch to reach Jupiter albeit at the cost of a significantly longer flight duration 27 ",
+			"after": " ",
+			"color": "gray|0.41764 grey|0.41764 dim|0.4065 gray|0.4065 dim|0.4065 grey|0.4065 tan|0.16314  ",
+			"after_weights": " ",
+			"previous_weights": " Jupiter|0 has|0.012658 over|0.025316 60|0.037975 known|0.050633 moons|0.063291 many|0.075949 of|0.088608 which|0.10127 have|0.11392 relatively|0.12658 little|0.13924 known|0.1519 information|0.16456 about|0.17722 them|0.18987 |0.20253 Reaching|0.21519 Jupiter|0.22785 from|0.24051 Earth|0.25316 requires|0.26582 a|0.27848 delta|0.29114 v|0.3038 of|0.31646 9|0.32911 2|0.34177 km|0.35443 s|0.36709 27|0.37975 which|0.39241 is|0.40506 comparable|0.41772 to|0.43038 the|0.44304 9|0.4557 7|0.46835 km|0.48101 s|0.49367 delta|0.50633 v|0.51899 needed|0.53165 to|0.5443 reach|0.55696 low|0.56962 Earth|0.58228 orbit|0.59494 28|0.60759 Fortunately|0.62025 gravity|0.63291 assists|0.64557 through|0.65823 planetary|0.67089 flybys|0.68354 can|0.6962 be|0.70886 used|0.72152 to|0.73418 reduce|0.74684 the|0.75949 energy|0.77215 required|0.78481 at|0.79747 launch|0.81013 to|0.82278 reach|0.83544 Jupiter|0.8481 albeit|0.86076 at|0.87342 the|0.88608 cost|0.89873 of|0.91139 a|0.92405 significantly|0.93671 longer|0.94937 flight|0.96203 duration|0.97468 27|0.98734 |1"
+		}
+	}
+}

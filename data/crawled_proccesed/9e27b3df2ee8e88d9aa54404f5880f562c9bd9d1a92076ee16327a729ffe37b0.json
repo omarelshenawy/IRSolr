@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9e27b3df2ee8e88d9aa54404f5880f562c9bd9d1a92076ee16327a729ffe37b0",
+			"url": "https://upload.wikimedia.org/math/d/5/f/d5f356ec83c34c5dd8308742727c8d18.png",
+			"previous": " where Delambre in 1799 9 derived a widely used expansion on the eccentricity squared  The above integral may be expressed as an infinite truncated series by expanding the integrand in a Taylor series performing the resulting integrals term by term and expressing the result as a trigonometric series In 1755 Euler 8 derived an expansion in the third eccentricity squared ",
+			"after": " Similarly Bessel s series for in terms of can be reverted to give 22  where Rapp 10 gives a detailed derivation of this result ",
+			"color": "dim|0.30597 gray|0.30597 dim|0.30597 grey|0.30597 gray|0.29103 grey|0.29103 dark|0.20184 gray|0.20184 dark|0.20184 grey|0.20184 silver|0.096738 light|0.045527 gray|0.045527 light|0.045527 grey|0.045527 gainsboro|0.03374 white|0.0055358 smoke|0.0055358 linen|0.0030062 lavender|0.0027991 blush|0.0027991  ",
+			"after_weights": " Similarly|1 Bessel|0.96 s|0.92 series|0.88 for|0.84 in|0.8 terms|0.76 of|0.72 can|0.68 be|0.64 reverted|0.6 to|0.56 give|0.52 22|0.48 |0.44 where|0.4 Rapp|0.36 10|0.32 gives|0.28 a|0.24 detailed|0.2 derivation|0.16 of|0.12 this|0.08 result|0.04 |0",
+			"previous_weights": " where|0 Delambre|0.016393 in|0.032787 1799|0.04918 9|0.065574 derived|0.081967 a|0.098361 widely|0.11475 used|0.13115 expansion|0.14754 on|0.16393 the|0.18033 eccentricity|0.19672 squared|0.21311 |0.22951 The|0.2459 above|0.2623 integral|0.27869 may|0.29508 be|0.31148 expressed|0.32787 as|0.34426 an|0.36066 infinite|0.37705 truncated|0.39344 series|0.40984 by|0.42623 expanding|0.44262 the|0.45902 integrand|0.47541 in|0.4918 a|0.5082 Taylor|0.52459 series|0.54098 performing|0.55738 the|0.57377 resulting|0.59016 integrals|0.60656 term|0.62295 by|0.63934 term|0.65574 and|0.67213 expressing|0.68852 the|0.70492 result|0.72131 as|0.7377 a|0.7541 trigonometric|0.77049 series|0.78689 In|0.80328 1755|0.81967 Euler|0.83607 8|0.85246 derived|0.86885 an|0.88525 expansion|0.90164 in|0.91803 the|0.93443 third|0.95082 eccentricity|0.96721 squared|0.98361 |1"
+		}
+	}
+}

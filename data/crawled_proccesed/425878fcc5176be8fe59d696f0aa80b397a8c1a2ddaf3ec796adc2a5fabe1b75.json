@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "425878fcc5176be8fe59d696f0aa80b397a8c1a2ddaf3ec796adc2a5fabe1b75",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/China_Xinjiang_Airlines_Ilyushin_Il-86_Spijkers.jpg/250px-China_Xinjiang_Airlines_Ilyushin_Il-86_Spijkers.jpg",
+			"previous": " Besides domestic routes China Xinjiang also served the following citation needed ",
+			"after": " China Xinjiang operated the following aircraft types when it was merged into China Southern Airlines  Former fleet included DHC 6 and Tupolev Tu 154 ",
+			"color": "dark|0.41458 gray|0.41458 dark|0.41458 grey|0.41458 gray|0.36686 grey|0.36686 dim|0.11 gray|0.11 dim|0.11 grey|0.11 silver|0.048279 black|0.011865 slate|0.011602 gray|0.011602 light|0.0095364 slate|0.0095364 gray|0.0095364 light|0.0089711 gray|0.0089711 light|0.0089711 grey|0.0089711 dark|0.008452 slate|0.008452 gray|0.008452 gainsboro|0.0048408  ",
+			"after_weights": " China|1 Xinjiang|0.96 operated|0.92 the|0.88 following|0.84 aircraft|0.8 types|0.76 when|0.72 it|0.68 was|0.64 merged|0.6 into|0.56 China|0.52 Southern|0.48 Airlines|0.44 |0.4 Former|0.36 fleet|0.32 included|0.28 DHC|0.24 6|0.2 and|0.16 Tupolev|0.12 Tu|0.08 154|0.04 |0",
+			"previous_weights": " Besides|0 domestic|0.090909 routes|0.18182 China|0.27273 Xinjiang|0.36364 also|0.45455 served|0.54545 the|0.63636 following|0.72727 citation|0.81818 needed|0.90909 |1"
+		}
+	}
+}

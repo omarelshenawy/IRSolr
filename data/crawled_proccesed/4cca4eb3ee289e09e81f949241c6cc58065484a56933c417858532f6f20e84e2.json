@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4cca4eb3ee289e09e81f949241c6cc58065484a56933c417858532f6f20e84e2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kapodistrias2.jpg/160px-Kapodistrias2.jpg",
+			"previous": " ",
+			"after": " Since the restoration of democracy the Greek party system has been dominated by the liberal conservative New Democracy ND and the social democratic Panhellenic Socialist Movement PASOK b Other significant parties include the Communist Party of Greece KKE the Coalition of the Radical Left SYRIZA the Popular Orthodox Rally LAOS and the Popular Association Golden Dawn ",
+			"color": "burly|0.39164 wood|0.39164 dark|0.26115 slate|0.26115 gray|0.26115 tan|0.1114 black|0.050779 wheat|0.048081  ",
+			"after_weights": " Since|1 the|0.98214 restoration|0.96429 of|0.94643 democracy|0.92857 the|0.91071 Greek|0.89286 party|0.875 system|0.85714 has|0.83929 been|0.82143 dominated|0.80357 by|0.78571 the|0.76786 liberal|0.75 conservative|0.73214 New|0.71429 Democracy|0.69643 ND|0.67857 and|0.66071 the|0.64286 social|0.625 democratic|0.60714 Panhellenic|0.58929 Socialist|0.57143 Movement|0.55357 PASOK|0.53571 b|0.51786 Other|0.5 significant|0.48214 parties|0.46429 include|0.44643 the|0.42857 Communist|0.41071 Party|0.39286 of|0.375 Greece|0.35714 KKE|0.33929 the|0.32143 Coalition|0.30357 of|0.28571 the|0.26786 Radical|0.25 Left|0.23214 SYRIZA|0.21429 the|0.19643 Popular|0.17857 Orthodox|0.16071 Rally|0.14286 LAOS|0.125 and|0.10714 the|0.089286 Popular|0.071429 Association|0.053571 Golden|0.035714 Dawn|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

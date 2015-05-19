@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11d9ebe91c3b94a3f19790539354e6205da809509549d3817f949931311c842f",
+			"url": "https://upload.wikimedia.org/math/2/f/2/2f23a21759518f96cfc68c8dcf2287dc.png",
+			"previous": " The force has two parts that normal to the direction of flow is lift L and that in the direction of flow is drag D Both can be expressed mathematically ",
+			"after": " where CL and CD are lift coefficient and drag coefficient respectively ",
+			"color": "dim|0.33707 gray|0.33707 dim|0.33707 grey|0.33707 gray|0.29049 grey|0.29049 dark|0.19462 gray|0.19462 dark|0.19462 grey|0.19462 silver|0.086799 light|0.042511 gray|0.042511 light|0.042511 grey|0.042511 gainsboro|0.030432 white|0.0046253 smoke|0.0046253  ",
+			"after_weights": " where|1 CL|0.90909 and|0.81818 CD|0.72727 are|0.63636 lift|0.54545 coefficient|0.45455 and|0.36364 drag|0.27273 coefficient|0.18182 respectively|0.090909 |0",
+			"previous_weights": " The|0 force|0.033333 has|0.066667 two|0.1 parts|0.13333 that|0.16667 normal|0.2 to|0.23333 the|0.26667 direction|0.3 of|0.33333 flow|0.36667 is|0.4 lift|0.43333 L|0.46667 and|0.5 that|0.53333 in|0.56667 the|0.6 direction|0.63333 of|0.66667 flow|0.7 is|0.73333 drag|0.76667 D|0.8 Both|0.83333 can|0.86667 be|0.9 expressed|0.93333 mathematically|0.96667 |1"
+		}
+	}
+}

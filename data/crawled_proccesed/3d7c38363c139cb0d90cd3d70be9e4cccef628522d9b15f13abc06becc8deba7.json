@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d7c38363c139cb0d90cd3d70be9e4cccef628522d9b15f13abc06becc8deba7",
+			"url": "https://upload.wikimedia.org/math/d/4/8/d48d6ab18336fc718ea239a0d6fbeb0d.png",
+			"previous": " This yields the change of coordinates Assemble these eigenvectors into the matrix V which is invertible because these vectors are assumed to be linearly independent This means the coordinates of x and X relative to the basis vi can be computed to be ",
+			"after": " To see the effect of this change of coordinates on A introduce I VV 1 into the eigenvalue equation and multiply both side by V 1 to obtain",
+			"color": "dim|0.36425 gray|0.36425 dim|0.36425 grey|0.36425 gray|0.27373 grey|0.27373 dark|0.18679 gray|0.18679 dark|0.18679 grey|0.18679 silver|0.085587 light|0.042862 gray|0.042862 light|0.042862 grey|0.042862 gainsboro|0.029004 white|0.0042706 smoke|0.0042706  ",
+			"after_weights": " To|1 see|0.96296 the|0.92593 effect|0.88889 of|0.85185 this|0.81481 change|0.77778 of|0.74074 coordinates|0.7037 on|0.66667 A|0.62963 introduce|0.59259 I|0.55556 VV|0.51852 1|0.48148 into|0.44444 the|0.40741 eigenvalue|0.37037 equation|0.33333 and|0.2963 multiply|0.25926 both|0.22222 side|0.18519 by|0.14815 V|0.11111 1|0.074074 to|0.037037 obtain|0",
+			"previous_weights": " This|0 yields|0.023256 the|0.046512 change|0.069767 of|0.093023 coordinates|0.11628 Assemble|0.13953 these|0.16279 eigenvectors|0.18605 into|0.2093 the|0.23256 matrix|0.25581 V|0.27907 which|0.30233 is|0.32558 invertible|0.34884 because|0.37209 these|0.39535 vectors|0.4186 are|0.44186 assumed|0.46512 to|0.48837 be|0.51163 linearly|0.53488 independent|0.55814 This|0.5814 means|0.60465 the|0.62791 coordinates|0.65116 of|0.67442 x|0.69767 and|0.72093 X|0.74419 relative|0.76744 to|0.7907 the|0.81395 basis|0.83721 vi|0.86047 can|0.88372 be|0.90698 computed|0.93023 to|0.95349 be|0.97674 |1"
+		}
+	}
+}

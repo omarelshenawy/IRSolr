@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9400ca2c6d18b8d71b5eeca545dd376de8ef7a3a6e8368743b0a5e3072c5d594",
+			"url": "https://upload.wikimedia.org/math/0/3/e/03ecbc6ee23e03c1c7472a14fc273d9d.png",
+			"previous": " For all reaction engines which carry their propellant onboard prior to use such as rocket engines and electric propulsion drives some energy must go into accelerating the reaction mass Every engine will waste some energy but even assuming 100 efficiency the engine will need energy amounting to",
+			"after": "  where M is the mass of propellent expended and is the exhaust velocity which is simply the energy to accelerate the exhaust ",
+			"color": "black|0.50097 dim|0.28612 gray|0.28612 dim|0.28612 grey|0.28612 gray|0.18432 grey|0.18432 dark|0.028459 gray|0.028459 dark|0.028459 grey|0.028459  ",
+			"after_weights": " |1 where|0.95652 M|0.91304 is|0.86957 the|0.82609 mass|0.78261 of|0.73913 propellent|0.69565 expended|0.65217 and|0.6087 is|0.56522 the|0.52174 exhaust|0.47826 velocity|0.43478 which|0.3913 is|0.34783 simply|0.30435 the|0.26087 energy|0.21739 to|0.17391 accelerate|0.13043 the|0.086957 exhaust|0.043478 |0",
+			"previous_weights": " For|0 all|0.021739 reaction|0.043478 engines|0.065217 which|0.086957 carry|0.1087 their|0.13043 propellant|0.15217 onboard|0.17391 prior|0.19565 to|0.21739 use|0.23913 such|0.26087 as|0.28261 rocket|0.30435 engines|0.32609 and|0.34783 electric|0.36957 propulsion|0.3913 drives|0.41304 some|0.43478 energy|0.45652 must|0.47826 go|0.5 into|0.52174 accelerating|0.54348 the|0.56522 reaction|0.58696 mass|0.6087 Every|0.63043 engine|0.65217 will|0.67391 waste|0.69565 some|0.71739 energy|0.73913 but|0.76087 even|0.78261 assuming|0.80435 100|0.82609 efficiency|0.84783 the|0.86957 engine|0.8913 will|0.91304 need|0.93478 energy|0.95652 amounting|0.97826 to|1"
+		}
+	}
+}

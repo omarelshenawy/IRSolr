@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "92bbbaf2f2ed607336a57d325b881cd17d0b3eb69655b1d31b319171d24ddf35",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Douglas_B-23_Dragon_JBLM.JPG/220px-Douglas_B-23_Dragon_JBLM.JPG",
+			"previous": " After World War II many examples were used as executive transports with appropriate internal modifications and as a result a large number have survived With its wartime experience with the type GE bought and used five of them Howard Hughes among others used converted B 23s as personal aircraft ",
+			"after": " ",
+			"color": "dark|0.50325 olive|0.50325 green|0.50325 dim|0.14664 gray|0.14664 dim|0.14664 grey|0.14664 black|0.14083 gray|0.058288 grey|0.058288 slate|0.032306 gray|0.032306 light|0.025579 slate|0.025579 gray|0.025579 dark|0.018968 gray|0.018968 dark|0.018968 grey|0.018968 dark|0.015493 slate|0.015493 gray|0.015493  ",
+			"after_weights": " ",
+			"previous_weights": " After|0 World|0.020408 War|0.040816 II|0.061224 many|0.081633 examples|0.10204 were|0.12245 used|0.14286 as|0.16327 executive|0.18367 transports|0.20408 with|0.22449 appropriate|0.2449 internal|0.26531 modifications|0.28571 and|0.30612 as|0.32653 a|0.34694 result|0.36735 a|0.38776 large|0.40816 number|0.42857 have|0.44898 survived|0.46939 With|0.4898 its|0.5102 wartime|0.53061 experience|0.55102 with|0.57143 the|0.59184 type|0.61224 GE|0.63265 bought|0.65306 and|0.67347 used|0.69388 five|0.71429 of|0.73469 them|0.7551 Howard|0.77551 Hughes|0.79592 among|0.81633 others|0.83673 used|0.85714 converted|0.87755 B|0.89796 23s|0.91837 as|0.93878 personal|0.95918 aircraft|0.97959 |1"
+		}
+	}
+}

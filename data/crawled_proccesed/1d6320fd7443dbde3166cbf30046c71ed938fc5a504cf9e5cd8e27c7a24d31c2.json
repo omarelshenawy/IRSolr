@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d6320fd7443dbde3166cbf30046c71ed938fc5a504cf9e5cd8e27c7a24d31c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reiseauswahl_Staatenlose1.jpg/150px-Reiseauswahl_Staatenlose1.jpg",
+			"previous": " Between 2000 and 2010 the United Nations Interim Administration Mission in Kosovo UNMIK issued travel documents to residents of Kosovo as they were often not able to obtain a passport through other channels ",
+			"after": " ",
+			"color": "corn|0.72407 flower|0.72407 blue|0.72407 midnight|0.20235 blue|0.20235 light|0.032703 sky|0.032703 blue|0.032703 steel|0.022994 blue|0.022994 dark|0.017374 slate|0.017374 blue|0.017374  ",
+			"after_weights": " ",
+			"previous_weights": " Between|0 2000|0.030303 and|0.060606 2010|0.090909 the|0.12121 United|0.15152 Nations|0.18182 Interim|0.21212 Administration|0.24242 Mission|0.27273 in|0.30303 Kosovo|0.33333 UNMIK|0.36364 issued|0.39394 travel|0.42424 documents|0.45455 to|0.48485 residents|0.51515 of|0.54545 Kosovo|0.57576 as|0.60606 they|0.63636 were|0.66667 often|0.69697 not|0.72727 able|0.75758 to|0.78788 obtain|0.81818 a|0.84848 passport|0.87879 through|0.90909 other|0.93939 channels|0.9697 |1"
+		}
+	}
+}

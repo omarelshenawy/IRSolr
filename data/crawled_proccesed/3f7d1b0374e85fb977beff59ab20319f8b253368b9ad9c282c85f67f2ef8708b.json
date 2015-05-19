@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f7d1b0374e85fb977beff59ab20319f8b253368b9ad9c282c85f67f2ef8708b",
+			"url": "https://upload.wikimedia.org/math/8/6/d/86d089c4cd0c12f98c26c289d52f2b49.png",
+			"previous": " where  In subsonic flow the Mach meter can be calibrated according to ",
+			"after": " When a shock wave forms across the pitot tube the required formula is derived from the Rayleigh Supersonic Pitot equation and is solved iteratively  where ",
+			"color": "dark|0.36077 gray|0.36077 dark|0.36077 grey|0.36077 silver|0.23413 light|0.14378 gray|0.14378 light|0.14378 grey|0.14378 gray|0.12624 grey|0.12624 gainsboro|0.10521 white|0.010989 smoke|0.010989 linen|0.0033731 lavender|0.0027873 blush|0.0027873 dim|0.0026362 gray|0.0026362 dim|0.0026362 grey|0.0026362  ",
+			"after_weights": " When|1 a|0.96154 shock|0.92308 wave|0.88462 forms|0.84615 across|0.80769 the|0.76923 pitot|0.73077 tube|0.69231 the|0.65385 required|0.61538 formula|0.57692 is|0.53846 derived|0.5 from|0.46154 the|0.42308 Rayleigh|0.38462 Supersonic|0.34615 Pitot|0.30769 equation|0.26923 and|0.23077 is|0.19231 solved|0.15385 iteratively|0.11538 |0.076923 where|0.038462 |0",
+			"previous_weights": " where|0 |0.076923 In|0.15385 subsonic|0.23077 flow|0.30769 the|0.38462 Mach|0.46154 meter|0.53846 can|0.61538 be|0.69231 calibrated|0.76923 according|0.84615 to|0.92308 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "987a7fe0f50ef27492e8128807f81d47115dad9e5809752fa774b179e2ea043e",
+			"url": "https://upload.wikimedia.org/math/1/9/c/19c34e34c8786299594f7c24c16a0a5c.png",
+			"previous": " Substituting this definition into the prior equation we find the general gain equation  The gain G of the amplifier is defined as the optical intensity I at position z divided by the input intensity ",
+			"after": " In the special case where the input signal is small compared to the saturation intensity in other words ",
+			"color": "dim|0.42845 gray|0.42845 dim|0.42845 grey|0.42845 gray|0.28267 grey|0.28267 dark|0.1603 gray|0.1603 dark|0.1603 grey|0.1603 silver|0.065059 light|0.03082 gray|0.03082 light|0.03082 grey|0.03082 gainsboro|0.02138  ",
+			"after_weights": " In|1 the|0.94444 special|0.88889 case|0.83333 where|0.77778 the|0.72222 input|0.66667 signal|0.61111 is|0.55556 small|0.5 compared|0.44444 to|0.38889 the|0.33333 saturation|0.27778 intensity|0.22222 in|0.16667 other|0.11111 words|0.055556 |0",
+			"previous_weights": " Substituting|0 this|0.028571 definition|0.057143 into|0.085714 the|0.11429 prior|0.14286 equation|0.17143 we|0.2 find|0.22857 the|0.25714 general|0.28571 gain|0.31429 equation|0.34286 |0.37143 The|0.4 gain|0.42857 G|0.45714 of|0.48571 the|0.51429 amplifier|0.54286 is|0.57143 defined|0.6 as|0.62857 the|0.65714 optical|0.68571 intensity|0.71429 I|0.74286 at|0.77143 position|0.8 z|0.82857 divided|0.85714 by|0.88571 the|0.91429 input|0.94286 intensity|0.97143 |1"
+		}
+	}
+}

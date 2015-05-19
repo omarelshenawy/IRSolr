@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a98772aab9b5a8974cdf2a87c0d2d2e15c8fb6c658ec8ea3ce3a82025d71fc9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Welcome_to_the_United_States_sign.jpg/220px-Welcome_to_the_United_States_sign.jpg",
+			"previous": " The Earth and its features  The physical chemical and biotic factors that act upon an ecosystem  The value of goods and services produced within a country ",
+			"after": " The label for the country  The process by which groups often governments make decisions  ",
+			"color": "black|0.84766 dim|0.029321 gray|0.029321 dim|0.029321 grey|0.029321 dark|0.029172 slate|0.029172 gray|0.029172 slate|0.02333 gray|0.02333 light|0.021752 slate|0.021752 gray|0.021752 dark|0.013662 olive|0.013662 green|0.013662 gray|0.011148 grey|0.011148  ",
+			"after_weights": " The|1 label|0.9375 for|0.875 the|0.8125 country|0.75 |0.6875 The|0.625 process|0.5625 by|0.5 which|0.4375 groups|0.375 often|0.3125 governments|0.25 make|0.1875 decisions|0.125 |0.0625 |0",
+			"previous_weights": " The|0 Earth|0.035714 and|0.071429 its|0.10714 features|0.14286 |0.17857 The|0.21429 physical|0.25 chemical|0.28571 and|0.32143 biotic|0.35714 factors|0.39286 that|0.42857 act|0.46429 upon|0.5 an|0.53571 ecosystem|0.57143 |0.60714 The|0.64286 value|0.67857 of|0.71429 goods|0.75 and|0.78571 services|0.82143 produced|0.85714 within|0.89286 a|0.92857 country|0.96429 |1"
+		}
+	}
+}

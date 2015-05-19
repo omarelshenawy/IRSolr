@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1605778c250a00b0b7d3ed747be97e7d7f0b21979415bffe6f8bac6e71a6c2d1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Training_Centre_of_Austrian_AIrlines.jpg/220px-Training_Centre_of_Austrian_AIrlines.jpg",
+			"previous": " Austrian announced the presentation of their overhauled concept called New Austrian for 26 March 2015 This includes a new corporate design and the announcement of new routes amongst other changes 26 On this date the airline presented their new advertising campaign including the new corporate design and a revised aircraft livery The new claim which will also be painted onto all of the aircraft s fuselages is my Austrian 27 ",
+			"after": " Austrian Airlines Group is wholly owned by Lufthansa  The Group owns shares in 24 companies including ",
+			"color": "slate|0.12447 gray|0.12447 dim|0.12393 gray|0.12393 dim|0.12393 grey|0.12393 black|0.1066 silver|0.10413 gray|0.098442 grey|0.098442 dark|0.097536 gray|0.097536 dark|0.097536 grey|0.097536 light|0.096295 slate|0.096295 gray|0.096295 light|0.07773 gray|0.07773 light|0.07773 grey|0.07773 gainsboro|0.058312 rosy|0.019981 brown|0.019981 light|0.018416 steel|0.018416 blue|0.018416 dark|0.015696 olive|0.015696 green|0.015696 dark|0.014844 slate|0.014844 gray|0.014844  ",
+			"after_weights": " Austrian|1 Airlines|0.94118 Group|0.88235 is|0.82353 wholly|0.76471 owned|0.70588 by|0.64706 Lufthansa|0.58824 |0.52941 The|0.47059 Group|0.41176 owns|0.35294 shares|0.29412 in|0.23529 24|0.17647 companies|0.11765 including|0.058824 |0",
+			"previous_weights": " Austrian|0 announced|0.014286 the|0.028571 presentation|0.042857 of|0.057143 their|0.071429 overhauled|0.085714 concept|0.1 called|0.11429 New|0.12857 Austrian|0.14286 for|0.15714 26|0.17143 March|0.18571 2015|0.2 This|0.21429 includes|0.22857 a|0.24286 new|0.25714 corporate|0.27143 design|0.28571 and|0.3 the|0.31429 announcement|0.32857 of|0.34286 new|0.35714 routes|0.37143 amongst|0.38571 other|0.4 changes|0.41429 26|0.42857 On|0.44286 this|0.45714 date|0.47143 the|0.48571 airline|0.5 presented|0.51429 their|0.52857 new|0.54286 advertising|0.55714 campaign|0.57143 including|0.58571 the|0.6 new|0.61429 corporate|0.62857 design|0.64286 and|0.65714 a|0.67143 revised|0.68571 aircraft|0.7 livery|0.71429 The|0.72857 new|0.74286 claim|0.75714 which|0.77143 will|0.78571 also|0.8 be|0.81429 painted|0.82857 onto|0.84286 all|0.85714 of|0.87143 the|0.88571 aircraft|0.9 s|0.91429 fuselages|0.92857 is|0.94286 my|0.95714 Austrian|0.97143 27|0.98571 |1"
+		}
+	}
+}

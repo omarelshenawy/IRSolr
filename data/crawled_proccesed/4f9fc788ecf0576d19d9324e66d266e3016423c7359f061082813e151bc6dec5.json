@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f9fc788ecf0576d19d9324e66d266e3016423c7359f061082813e151bc6dec5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zagreb_botanical_garden.jpg/220px-Zagreb_botanical_garden.jpg",
+			"previous": " ",
+			"after": " Zagreb s numerous museums reflect the history art and culture not only of Zagreb and Croatia but also of Europe and the world Around thirty collections in museums and galleries comprise more than 3 6 million various exhibits excluding church and private collections ",
+			"color": "black|0.55515 dark|0.21822 olive|0.21822 green|0.21822 dim|0.046193 gray|0.046193 dim|0.046193 grey|0.046193 gray|0.040738 grey|0.040738 dark|0.0405 gray|0.0405 dark|0.0405 grey|0.0405 silver|0.025597 dark|0.025498 sea|0.025498 green|0.025498  ",
+			"after_weights": " Zagreb|1 s|0.97674 numerous|0.95349 museums|0.93023 reflect|0.90698 the|0.88372 history|0.86047 art|0.83721 and|0.81395 culture|0.7907 not|0.76744 only|0.74419 of|0.72093 Zagreb|0.69767 and|0.67442 Croatia|0.65116 but|0.62791 also|0.60465 of|0.5814 Europe|0.55814 and|0.53488 the|0.51163 world|0.48837 Around|0.46512 thirty|0.44186 collections|0.4186 in|0.39535 museums|0.37209 and|0.34884 galleries|0.32558 comprise|0.30233 more|0.27907 than|0.25581 3|0.23256 6|0.2093 million|0.18605 various|0.16279 exhibits|0.13953 excluding|0.11628 church|0.093023 and|0.069767 private|0.046512 collections|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

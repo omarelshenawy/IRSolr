@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "87f3268cb869322584b6a5802bebe0debf07a2db34ab5fea682f441b871f1ff3",
+			"url": "https://upload.wikimedia.org/math/1/2/b/12baf8069a8cad1405cf9304a4329982.png",
+			"previous": " The 4 velocity U has an invariant form ",
+			"after": " which means all velocity four vectors have a magnitude of c This is an expression of the fact that there is no such thing as being at coordinate rest in relativity at the least you are always moving forward through time Differentiating the above equation by produces ",
+			"color": "dim|0.35948 gray|0.35948 dim|0.35948 grey|0.35948 gray|0.29107 grey|0.29107 dark|0.17465 gray|0.17465 dark|0.17465 grey|0.17465 silver|0.084442 light|0.043398 gray|0.043398 light|0.043398 grey|0.043398 gainsboro|0.030726 white|0.0043271 smoke|0.0043271  ",
+			"after_weights": " which|1 means|0.97872 all|0.95745 velocity|0.93617 four|0.91489 vectors|0.89362 have|0.87234 a|0.85106 magnitude|0.82979 of|0.80851 c|0.78723 This|0.76596 is|0.74468 an|0.7234 expression|0.70213 of|0.68085 the|0.65957 fact|0.6383 that|0.61702 there|0.59574 is|0.57447 no|0.55319 such|0.53191 thing|0.51064 as|0.48936 being|0.46809 at|0.44681 coordinate|0.42553 rest|0.40426 in|0.38298 relativity|0.3617 at|0.34043 the|0.31915 least|0.29787 you|0.2766 are|0.25532 always|0.23404 moving|0.21277 forward|0.19149 through|0.17021 time|0.14894 Differentiating|0.12766 the|0.10638 above|0.085106 equation|0.06383 by|0.042553 produces|0.021277 |0",
+			"previous_weights": " The|0 4|0.125 velocity|0.25 U|0.375 has|0.5 an|0.625 invariant|0.75 form|0.875 |1"
+		}
+	}
+}

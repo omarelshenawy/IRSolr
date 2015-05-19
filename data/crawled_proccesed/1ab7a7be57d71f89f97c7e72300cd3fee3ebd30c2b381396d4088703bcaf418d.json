@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ab7a7be57d71f89f97c7e72300cd3fee3ebd30c2b381396d4088703bcaf418d",
+			"url": "https://upload.wikimedia.org/math/7/0/7/707ad8b2243c370fc3bf52f5f53448b6.png",
+			"previous": " Without showing the formal derivation here the perpetuity formula is derived from the annuity formula Specifically the term ",
+			"after": " can be seen to approach the value of 1 as n grows larger At infinity it is equal to 1 leaving as the only term remaining ",
+			"color": "dim|0.3399 gray|0.3399 dim|0.3399 grey|0.3399 gray|0.28705 grey|0.28705 dark|0.18158 gray|0.18158 dark|0.18158 grey|0.18158 silver|0.086758 light|0.047966 gray|0.047966 light|0.047966 grey|0.047966 gainsboro|0.034376 white|0.0050436 smoke|0.0050436  ",
+			"after_weights": " can|1 be|0.96154 seen|0.92308 to|0.88462 approach|0.84615 the|0.80769 value|0.76923 of|0.73077 1|0.69231 as|0.65385 n|0.61538 grows|0.57692 larger|0.53846 At|0.5 infinity|0.46154 it|0.42308 is|0.38462 equal|0.34615 to|0.30769 1|0.26923 leaving|0.23077 as|0.19231 the|0.15385 only|0.11538 term|0.076923 remaining|0.038462 |0",
+			"previous_weights": " Without|0 showing|0.055556 the|0.11111 formal|0.16667 derivation|0.22222 here|0.27778 the|0.33333 perpetuity|0.38889 formula|0.44444 is|0.5 derived|0.55556 from|0.61111 the|0.66667 annuity|0.72222 formula|0.77778 Specifically|0.83333 the|0.88889 term|0.94444 |1"
+		}
+	}
+}

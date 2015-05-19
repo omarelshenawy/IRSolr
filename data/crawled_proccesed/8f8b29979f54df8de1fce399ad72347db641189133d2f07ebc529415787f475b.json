@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f8b29979f54df8de1fce399ad72347db641189133d2f07ebc529415787f475b",
+			"url": "https://upload.wikimedia.org/math/1/4/b/14b557f0d69c25a059228a4e4e52c4f0.png",
+			"previous": " Generalizing in a more categorical direction yields the field with one element and related objects ",
+			"after": " The concept of a field is of use for example in defining vectors and matrices two structures in linear algebra whose components can be elements of an arbitrary field ",
+			"color": " ",
+			"after_weights": " The|1 concept|0.96552 of|0.93103 a|0.89655 field|0.86207 is|0.82759 of|0.7931 use|0.75862 for|0.72414 example|0.68966 in|0.65517 defining|0.62069 vectors|0.58621 and|0.55172 matrices|0.51724 two|0.48276 structures|0.44828 in|0.41379 linear|0.37931 algebra|0.34483 whose|0.31034 components|0.27586 can|0.24138 be|0.2069 elements|0.17241 of|0.13793 an|0.10345 arbitrary|0.068966 field|0.034483 |0",
+			"previous_weights": " Generalizing|0 in|0.066667 a|0.13333 more|0.2 categorical|0.26667 direction|0.33333 yields|0.4 the|0.46667 field|0.53333 with|0.6 one|0.66667 element|0.73333 and|0.8 related|0.86667 objects|0.93333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6904be69b258fdab09940b489d6c325e2fa13fbfd46c46680a2679b2679ea3dd",
+			"url": "https://upload.wikimedia.org/math/f/9/6/f9606c222dd5e930ae46a587e494f37e.png",
+			"previous": " Linear approximations are used to replace complicated functions with linear functions that are almost the same Given a differentiable function with real values one can approximate for close to by the formula",
+			"after": " ",
+			"color": "gray|0.33066 grey|0.33066 dim|0.2455 gray|0.2455 dim|0.2455 grey|0.2455 dark|0.22653 gray|0.22653 dark|0.22653 grey|0.22653 silver|0.094745 light|0.044564 gray|0.044564 light|0.044564 grey|0.044564 gainsboro|0.030371 white|0.0060597 smoke|0.0060597 linen|0.0030777 lavender|0.002917 blush|0.002917 alice|0.0028552 blue|0.0028552 ghost|0.0028036 white|0.0028036 sea|0.0026888 shell|0.0026888 snow|0.0025884  ",
+			"after_weights": " ",
+			"previous_weights": " Linear|0 approximations|0.032258 are|0.064516 used|0.096774 to|0.12903 replace|0.16129 complicated|0.19355 functions|0.22581 with|0.25806 linear|0.29032 functions|0.32258 that|0.35484 are|0.3871 almost|0.41935 the|0.45161 same|0.48387 Given|0.51613 a|0.54839 differentiable|0.58065 function|0.6129 with|0.64516 real|0.67742 values|0.70968 one|0.74194 can|0.77419 approximate|0.80645 for|0.83871 close|0.87097 to|0.90323 by|0.93548 the|0.96774 formula|1"
+		}
+	}
+}

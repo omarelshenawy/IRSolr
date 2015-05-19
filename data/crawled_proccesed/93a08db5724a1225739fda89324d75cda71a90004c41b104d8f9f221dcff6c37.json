@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93a08db5724a1225739fda89324d75cda71a90004c41b104d8f9f221dcff6c37",
+			"url": "https://upload.wikimedia.org/math/7/f/6/7f68feea2e8797ebcfe2d7619fde3d08.png",
+			"previous": " If it occurs that w and v are scalar multiples that is if where for each index ",
+			"after": " then v is an eigenvector of the linear transformation A and the scale factor is the eigenvalue corresponding to that eigenvector ",
+			"color": "dim|0.40956 gray|0.40956 dim|0.40956 grey|0.40956 gray|0.29588 grey|0.29588 dark|0.16085 gray|0.16085 dark|0.16085 grey|0.16085 silver|0.063512 light|0.031617 gray|0.031617 light|0.031617 grey|0.031617 gainsboro|0.022763 white|0.0039119 smoke|0.0039119  ",
+			"after_weights": " then|1 v|0.95238 is|0.90476 an|0.85714 eigenvector|0.80952 of|0.7619 the|0.71429 linear|0.66667 transformation|0.61905 A|0.57143 and|0.52381 the|0.47619 scale|0.42857 factor|0.38095 is|0.33333 the|0.28571 eigenvalue|0.2381 corresponding|0.19048 to|0.14286 that|0.095238 eigenvector|0.047619 |0",
+			"previous_weights": " If|0 it|0.058824 occurs|0.11765 that|0.17647 w|0.23529 and|0.29412 v|0.35294 are|0.41176 scalar|0.47059 multiples|0.52941 that|0.58824 is|0.64706 if|0.70588 where|0.76471 for|0.82353 each|0.88235 index|0.94118 |1"
+		}
+	}
+}

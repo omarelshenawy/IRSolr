@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73c918c2d1452e13eec7c367c49816032d4a0d31b8c88be19ac63eb3884c5ac2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/23px-Flag_of_Sint_Eustatius.svg.png",
+			"previous": "  Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Saint Vincent and the Grenadines San Andr s y Providencia",
+			"after": "  Sint Maarten Trinidad and Tobago Turks and Caicos Islands United States United States Virgin Islands",
+			"color": "midnight|0.81794 blue|0.81794 dark|0.019324 sea|0.019324 green|0.019324 forest|0.015507 green|0.015507 medium|0.010418 sea|0.010418 green|0.010418 light|0.0080458 coral|0.0080458 indian|0.0077192 red|0.0077192 misty|0.0074729 rose|0.0074729 light|0.0072722 pink|0.0072722 pink|0.0070659 floral|0.0054681 white|0.0054681 white|0.0052514 smoke|0.0052514 sea|0.0051992 shell|0.0051992 mint|0.0051522 cream|0.0051522 snow|0.0050326 white|0.0047729 khaki|0.0046074  ",
+			"after_weights": " |1 Sint|0.93333 Maarten|0.86667 Trinidad|0.8 and|0.73333 Tobago|0.66667 Turks|0.6 and|0.53333 Caicos|0.46667 Islands|0.4 United|0.33333 States|0.26667 United|0.2 States|0.13333 Virgin|0.066667 Islands|0",
+			"previous_weights": " |0 Saint|0.045455 Kitts|0.090909 and|0.13636 Nevis|0.18182 Saint|0.22727 Lucia|0.27273 Saint|0.31818 Martin|0.36364 Saint|0.40909 Pierre|0.45455 and|0.5 Miquelon|0.54545 Saint|0.59091 Vincent|0.63636 and|0.68182 the|0.72727 Grenadines|0.77273 San|0.81818 Andr|0.86364 s|0.90909 y|0.95455 Providencia|1"
+		}
+	}
+}

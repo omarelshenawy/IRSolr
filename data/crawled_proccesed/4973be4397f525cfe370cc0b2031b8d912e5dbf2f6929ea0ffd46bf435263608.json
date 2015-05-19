@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4973be4397f525cfe370cc0b2031b8d912e5dbf2f6929ea0ffd46bf435263608",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamming.jpg/220px-Hamming.jpg",
+			"previous": " The binary Golay code was developed in 1949 More specifically it is an error correcting code capable of correcting up to three errors in each 24 bit word and detecting a fourth ",
+			"after": " Richard Hamming won the Turing Award in 1968 for his work at Bell Labs in numerical methods automatic coding systems and error detecting and error correcting codes He invented the concepts known as Hamming codes Hamming windows Hamming numbers and Hamming distance ",
+			"color": " ",
+			"after_weights": " Richard|1 Hamming|0.97619 won|0.95238 the|0.92857 Turing|0.90476 Award|0.88095 in|0.85714 1968|0.83333 for|0.80952 his|0.78571 work|0.7619 at|0.7381 Bell|0.71429 Labs|0.69048 in|0.66667 numerical|0.64286 methods|0.61905 automatic|0.59524 coding|0.57143 systems|0.54762 and|0.52381 error|0.5 detecting|0.47619 and|0.45238 error|0.42857 correcting|0.40476 codes|0.38095 He|0.35714 invented|0.33333 the|0.30952 concepts|0.28571 known|0.2619 as|0.2381 Hamming|0.21429 codes|0.19048 Hamming|0.16667 windows|0.14286 Hamming|0.11905 numbers|0.095238 and|0.071429 Hamming|0.047619 distance|0.02381 |0",
+			"previous_weights": " The|0 binary|0.03125 Golay|0.0625 code|0.09375 was|0.125 developed|0.15625 in|0.1875 1949|0.21875 More|0.25 specifically|0.28125 it|0.3125 is|0.34375 an|0.375 error|0.40625 correcting|0.4375 code|0.46875 capable|0.5 of|0.53125 correcting|0.5625 up|0.59375 to|0.625 three|0.65625 errors|0.6875 in|0.71875 each|0.75 24|0.78125 bit|0.8125 word|0.84375 and|0.875 detecting|0.90625 a|0.9375 fourth|0.96875 |1"
+		}
+	}
+}

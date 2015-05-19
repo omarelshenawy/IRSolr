@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81791863c5df2f9bdbade034990a59766744843a80e85a785be877e162f81a7d",
+			"url": "https://upload.wikimedia.org/math/0/b/5/0b531c2bbec3eebc56b97a9d3c9ed822.png",
+			"previous": " In mathematics a cubic function is a function of the form",
+			"after": " where a is nonzero In other words a cubic function is defined by a polynomial of degree three  Setting x 0 produces a cubic equation of the form ",
+			"color": "black|0.34197 dim|0.26196 gray|0.26196 dim|0.26196 grey|0.26196 gray|0.17657 grey|0.17657 dark|0.11524 gray|0.11524 dark|0.11524 grey|0.11524 silver|0.05054 light|0.025434 gray|0.025434 light|0.025434 grey|0.025434 gainsboro|0.017672  ",
+			"after_weights": " where|1 a|0.96552 is|0.93103 nonzero|0.89655 In|0.86207 other|0.82759 words|0.7931 a|0.75862 cubic|0.72414 function|0.68966 is|0.65517 defined|0.62069 by|0.58621 a|0.55172 polynomial|0.51724 of|0.48276 degree|0.44828 three|0.41379 |0.37931 Setting|0.34483 x|0.31034 0|0.27586 produces|0.24138 a|0.2069 cubic|0.17241 equation|0.13793 of|0.10345 the|0.068966 form|0.034483 |0",
+			"previous_weights": " In|0 mathematics|0.1 a|0.2 cubic|0.3 function|0.4 is|0.5 a|0.6 function|0.7 of|0.8 the|0.9 form|1"
+		}
+	}
+}

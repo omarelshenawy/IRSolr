@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2641a650d8c0ae4988a5e90fdcfc0544beaad0bb9b56703db4232bb134972207",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DSM-5_%26_DSM-IV-TR.jpg/200px-DSM-5_%26_DSM-IV-TR.jpg",
+			"previous": " ",
+			"after": " Psychiatry is the medical specialty devoted to the study diagnosis treatment and prevention of mental disorders These include various affective behavioural cognitive and perceptual abnormalities ",
+			"color": "sea|0.24292 green|0.24292 dark|0.16768 slate|0.16768 blue|0.16768 medium|0.12059 sea|0.12059 green|0.12059 lavender|0.087784 thistle|0.077422 midnight|0.054129 blue|0.054129 lavender|0.023598 blush|0.023598 medium|0.02166 aqua|0.02166 marine|0.02166 ghost|0.017965 white|0.017965 saddle|0.016609 brown|0.016609 teal|0.014234 slate|0.013323 blue|0.013323 alice|0.013114 blue|0.013114 gainsboro|0.010446 white|0.0099963 smoke|0.0099963  ",
+			"after_weights": " Psychiatry|1 is|0.96 the|0.92 medical|0.88 specialty|0.84 devoted|0.8 to|0.76 the|0.72 study|0.68 diagnosis|0.64 treatment|0.6 and|0.56 prevention|0.52 of|0.48 mental|0.44 disorders|0.4 These|0.36 include|0.32 various|0.28 affective|0.24 behavioural|0.2 cognitive|0.16 and|0.12 perceptual|0.08 abnormalities|0.04 |0",
+			"previous_weights": " "
+		}
+	}
+}

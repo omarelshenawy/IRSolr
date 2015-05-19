@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7413f918bb014f6ca39e07f038455ec1b9656f9ea82b153a446966150c4898c0",
+			"url": "https://upload.wikimedia.org/math/9/4/9/949dfd5a0c3040cbe78a7bd50c403ded.png",
+			"previous": "  Following the derivation with mass transfer terms convective mass transfer constant diffusivity of species A into species B the following solutions are obtained ",
+			"after": " These solutions apply for laminar flow with a Prandtl Schmidt number greater than 0 6 10 ",
+			"color": "dim|0.31271 gray|0.31271 dim|0.31271 grey|0.31271 gray|0.29608 grey|0.29608 dark|0.20013 gray|0.20013 dark|0.20013 grey|0.20013 silver|0.094596 light|0.045572 gray|0.045572 light|0.045572 grey|0.045572 gainsboro|0.031699 white|0.00446 smoke|0.00446  ",
+			"after_weights": " These|1 solutions|0.9375 apply|0.875 for|0.8125 laminar|0.75 flow|0.6875 with|0.625 a|0.5625 Prandtl|0.5 Schmidt|0.4375 number|0.375 greater|0.3125 than|0.25 0|0.1875 6|0.125 10|0.0625 |0",
+			"previous_weights": " |0 Following|0.041667 the|0.083333 derivation|0.125 with|0.16667 mass|0.20833 transfer|0.25 terms|0.29167 convective|0.33333 mass|0.375 transfer|0.41667 constant|0.45833 diffusivity|0.5 of|0.54167 species|0.58333 A|0.625 into|0.66667 species|0.70833 B|0.75 the|0.79167 following|0.83333 solutions|0.875 are|0.91667 obtained|0.95833 |1"
+		}
+	}
+}

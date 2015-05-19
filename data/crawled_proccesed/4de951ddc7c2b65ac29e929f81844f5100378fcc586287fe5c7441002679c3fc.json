@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4de951ddc7c2b65ac29e929f81844f5100378fcc586287fe5c7441002679c3fc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/World_operators_of_the_Il-14.png/400px-World_operators_of_the_Il-14.png",
+			"previous": " ",
+			"after": " The Il 14 operated in the Soviet Union until the 1980s and early 90s and other nations like Cuba and Vietnam However the unlicensed Chinese built Y 6 remained in the People s Liberation Army Air Force as a trainer until the late 1980s ",
+			"color": "maroon|0.46607 dark|0.42707 red|0.42707 brown|0.062099 rosy|0.041418 brown|0.041418  ",
+			"after_weights": " The|1 Il|0.97727 14|0.95455 operated|0.93182 in|0.90909 the|0.88636 Soviet|0.86364 Union|0.84091 until|0.81818 the|0.79545 1980s|0.77273 and|0.75 early|0.72727 90s|0.70455 and|0.68182 other|0.65909 nations|0.63636 like|0.61364 Cuba|0.59091 and|0.56818 Vietnam|0.54545 However|0.52273 the|0.5 unlicensed|0.47727 Chinese|0.45455 built|0.43182 Y|0.40909 6|0.38636 remained|0.36364 in|0.34091 the|0.31818 People|0.29545 s|0.27273 Liberation|0.25 Army|0.22727 Air|0.20455 Force|0.18182 as|0.15909 a|0.13636 trainer|0.11364 until|0.090909 the|0.068182 late|0.045455 1980s|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

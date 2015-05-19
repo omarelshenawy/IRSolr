@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "95cda893b3675a3c68dbb5166c684a63a44f65d18f8e4678653a83eaca5b6b15",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BCal_Boeing_747-200_Maiwald-1.jpg/220px-BCal_Boeing_747-200_Maiwald-1.jpg",
+			"previous": " BCal and its subsidiaries operated the following fixed wing aircraft types ",
+			"after": " In May 1972 BCal s fleet comprised 32 jet aircraft 8  5 300 people were employed 8  In March 1975 BCal s fleet comprised 24 jet aircraft 9 ",
+			"color": "black|0.13625 gainsboro|0.086593 white|0.084706 smoke|0.084706 linen|0.076596 sea|0.071501 shell|0.071501 lavender|0.069254 blush|0.069254 light|0.068641 gray|0.068641 light|0.068641 grey|0.068641 snow|0.056644 ghost|0.043011 white|0.043011 misty|0.040762 rose|0.040762 alice|0.036631 blue|0.036631 floral|0.031337 white|0.031337 white|0.028192 gray|0.024046 grey|0.024046 old|0.022979 lace|0.022979 lavender|0.014914 antique|0.014688 white|0.014688 dim|0.014044 gray|0.014044 dim|0.014044 grey|0.014044 dark|0.01361 gray|0.01361 dark|0.01361 grey|0.01361 peru|0.0095891 silver|0.0088016 ivory|0.0083627 mint|0.0079777 cream|0.0079777 tan|0.0072468 azure|0.0068014 burly|0.0044351 wood|0.0044351  ",
+			"after_weights": " In|1 May|0.96667 1972|0.93333 BCal|0.9 s|0.86667 fleet|0.83333 comprised|0.8 32|0.76667 jet|0.73333 aircraft|0.7 8|0.66667 |0.63333 5|0.6 300|0.56667 people|0.53333 were|0.5 employed|0.46667 8|0.43333 |0.4 In|0.36667 March|0.33333 1975|0.3 BCal|0.26667 s|0.23333 fleet|0.2 comprised|0.16667 24|0.13333 jet|0.1 aircraft|0.066667 9|0.033333 |0",
+			"previous_weights": " BCal|0 and|0.090909 its|0.18182 subsidiaries|0.27273 operated|0.36364 the|0.45455 following|0.54545 fixed|0.63636 wing|0.72727 aircraft|0.81818 types|0.90909 |1"
+		}
+	}
+}

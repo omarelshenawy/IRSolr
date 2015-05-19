@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4143dbff79499532325426fc2f4ee81659b9b6fccf00fc9882f727a78e9062d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Measure_illustration.png/220px-Measure_illustration.png",
+			"previous": " ",
+			"after": " In mathematical analysis a measure on a set is a systematic way to assign a number to each suitable subset of that set intuitively interpreted as its size In this sense a measure is a generalization of the concepts of length area and volume A particularly important example is the Lebesgue measure on a Euclidean space which assigns the conventional length area and volume of Euclidean geometry to suitable subsets of the n dimensional Euclidean space Rn For instance the Lebesgue measure of the interval 0 1 in the real numbers is its length in the everyday sense of the word specifically 1 ",
+			"color": "pale|0.79964 turquoise|0.79964 dodger|0.053887 blue|0.053887 deep|0.037805 sky|0.037805 blue|0.037805 turquoise|0.034411 dark|0.028259 turquoise|0.028259 sky|0.015996 blue|0.015996 light|0.010608 sky|0.010608 blue|0.010608 medium|0.0048371 turquoise|0.0048371  ",
+			"after_weights": " In|1 mathematical|0.99029 analysis|0.98058 a|0.97087 measure|0.96117 on|0.95146 a|0.94175 set|0.93204 is|0.92233 a|0.91262 systematic|0.90291 way|0.8932 to|0.8835 assign|0.87379 a|0.86408 number|0.85437 to|0.84466 each|0.83495 suitable|0.82524 subset|0.81553 of|0.80583 that|0.79612 set|0.78641 intuitively|0.7767 interpreted|0.76699 as|0.75728 its|0.74757 size|0.73786 In|0.72816 this|0.71845 sense|0.70874 a|0.69903 measure|0.68932 is|0.67961 a|0.6699 generalization|0.66019 of|0.65049 the|0.64078 concepts|0.63107 of|0.62136 length|0.61165 area|0.60194 and|0.59223 volume|0.58252 A|0.57282 particularly|0.56311 important|0.5534 example|0.54369 is|0.53398 the|0.52427 Lebesgue|0.51456 measure|0.50485 on|0.49515 a|0.48544 Euclidean|0.47573 space|0.46602 which|0.45631 assigns|0.4466 the|0.43689 conventional|0.42718 length|0.41748 area|0.40777 and|0.39806 volume|0.38835 of|0.37864 Euclidean|0.36893 geometry|0.35922 to|0.34951 suitable|0.33981 subsets|0.3301 of|0.32039 the|0.31068 n|0.30097 dimensional|0.29126 Euclidean|0.28155 space|0.27184 Rn|0.26214 For|0.25243 instance|0.24272 the|0.23301 Lebesgue|0.2233 measure|0.21359 of|0.20388 the|0.19417 interval|0.18447 0|0.17476 1|0.16505 in|0.15534 the|0.14563 real|0.13592 numbers|0.12621 is|0.1165 its|0.1068 length|0.097087 in|0.087379 the|0.07767 everyday|0.067961 sense|0.058252 of|0.048544 the|0.038835 word|0.029126 specifically|0.019417 1|0.0097087 |0",
+			"previous_weights": " "
+		}
+	}
+}

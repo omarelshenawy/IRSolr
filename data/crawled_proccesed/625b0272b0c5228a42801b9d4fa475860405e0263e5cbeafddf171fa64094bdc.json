@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "625b0272b0c5228a42801b9d4fa475860405e0263e5cbeafddf171fa64094bdc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MouseChromosomeTerritoriesBMC_Cell_Biol6-44Fig2e.jpg/200px-MouseChromosomeTerritoriesBMC_Cell_Biol6-44Fig2e.jpg",
+			"previous": " ",
+			"after": " The cell nucleus contains the majority of the cell s genetic material in the form of multiple linear DNA molecules organized into structures called chromosomes Each human cell contains roughly two meters of DNA During most of the cell cycle these are organized in a DNA protein complex known as chromatin and during cell division the chromatin can be seen to form the well defined chromosomes familiar from a karyotype A small fraction of the cell s genes are located instead in the mitochondria ",
+			"color": "navy|0.32523 dark|0.20746 blue|0.20746 medium|0.15902 blue|0.15902 midnight|0.065782 blue|0.065782 black|0.048624 blue|0.047588 indigo|0.043164 sea|0.024927 green|0.024927 medium|0.019424 sea|0.019424 green|0.019424 purple|0.012625 medium|0.011784 violet|0.011784 red|0.011784  ",
+			"after_weights": " The|1 cell|0.9881 nucleus|0.97619 contains|0.96429 the|0.95238 majority|0.94048 of|0.92857 the|0.91667 cell|0.90476 s|0.89286 genetic|0.88095 material|0.86905 in|0.85714 the|0.84524 form|0.83333 of|0.82143 multiple|0.80952 linear|0.79762 DNA|0.78571 molecules|0.77381 organized|0.7619 into|0.75 structures|0.7381 called|0.72619 chromosomes|0.71429 Each|0.70238 human|0.69048 cell|0.67857 contains|0.66667 roughly|0.65476 two|0.64286 meters|0.63095 of|0.61905 DNA|0.60714 During|0.59524 most|0.58333 of|0.57143 the|0.55952 cell|0.54762 cycle|0.53571 these|0.52381 are|0.5119 organized|0.5 in|0.4881 a|0.47619 DNA|0.46429 protein|0.45238 complex|0.44048 known|0.42857 as|0.41667 chromatin|0.40476 and|0.39286 during|0.38095 cell|0.36905 division|0.35714 the|0.34524 chromatin|0.33333 can|0.32143 be|0.30952 seen|0.29762 to|0.28571 form|0.27381 the|0.2619 well|0.25 defined|0.2381 chromosomes|0.22619 familiar|0.21429 from|0.20238 a|0.19048 karyotype|0.17857 A|0.16667 small|0.15476 fraction|0.14286 of|0.13095 the|0.11905 cell|0.10714 s|0.095238 genes|0.083333 are|0.071429 located|0.059524 instead|0.047619 in|0.035714 the|0.02381 mitochondria|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

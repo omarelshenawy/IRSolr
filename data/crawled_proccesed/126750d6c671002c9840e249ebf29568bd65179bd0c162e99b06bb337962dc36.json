@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "126750d6c671002c9840e249ebf29568bd65179bd0c162e99b06bb337962dc36",
+			"url": "https://upload.wikimedia.org/math/f/3/0/f306fc45bdfe6a7f8100560c3c60b108.png",
+			"previous": " Integrating we find  is the small signal gain coefficient in units of radians per meter We can solve the differential equation using separation of variables  where",
+			"after": " or where Under certain conditions stimulated emission can provide a physical mechanism for optical amplification An external source of energy stimulates atoms in the ground state to transition to the excited state creating what is called a population inversion When light of the appropriate frequency passes through the inverted medium the photons stimulate the excited atoms to emit additional photons of the same frequency phase and direction resulting in an amplification of the input intensity ",
+			"color": "dim|0.39233 gray|0.39233 dim|0.39233 grey|0.39233 gray|0.30144 grey|0.30144 dark|0.16435 gray|0.16435 dark|0.16435 grey|0.16435 silver|0.069489 light|0.033422 gray|0.033422 light|0.033422 grey|0.033422 gainsboro|0.02299 white|0.0041051 smoke|0.0041051  ",
+			"after_weights": " or|1 where|0.98667 Under|0.97333 certain|0.96 conditions|0.94667 stimulated|0.93333 emission|0.92 can|0.90667 provide|0.89333 a|0.88 physical|0.86667 mechanism|0.85333 for|0.84 optical|0.82667 amplification|0.81333 An|0.8 external|0.78667 source|0.77333 of|0.76 energy|0.74667 stimulates|0.73333 atoms|0.72 in|0.70667 the|0.69333 ground|0.68 state|0.66667 to|0.65333 transition|0.64 to|0.62667 the|0.61333 excited|0.6 state|0.58667 creating|0.57333 what|0.56 is|0.54667 called|0.53333 a|0.52 population|0.50667 inversion|0.49333 When|0.48 light|0.46667 of|0.45333 the|0.44 appropriate|0.42667 frequency|0.41333 passes|0.4 through|0.38667 the|0.37333 inverted|0.36 medium|0.34667 the|0.33333 photons|0.32 stimulate|0.30667 the|0.29333 excited|0.28 atoms|0.26667 to|0.25333 emit|0.24 additional|0.22667 photons|0.21333 of|0.2 the|0.18667 same|0.17333 frequency|0.16 phase|0.14667 and|0.13333 direction|0.12 resulting|0.10667 in|0.093333 an|0.08 amplification|0.066667 of|0.053333 the|0.04 input|0.026667 intensity|0.013333 |0",
+			"previous_weights": " Integrating|0 we|0.037037 find|0.074074 |0.11111 is|0.14815 the|0.18519 small|0.22222 signal|0.25926 gain|0.2963 coefficient|0.33333 in|0.37037 units|0.40741 of|0.44444 radians|0.48148 per|0.51852 meter|0.55556 We|0.59259 can|0.62963 solve|0.66667 the|0.7037 differential|0.74074 equation|0.77778 using|0.81481 separation|0.85185 of|0.88889 variables|0.92593 |0.96296 where|1"
+		}
+	}
+}

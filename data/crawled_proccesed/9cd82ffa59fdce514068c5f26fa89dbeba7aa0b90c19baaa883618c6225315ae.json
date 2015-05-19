@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cd82ffa59fdce514068c5f26fa89dbeba7aa0b90c19baaa883618c6225315ae",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hurricane_Alice_01_jan_1955_radar.jpg/250px-Hurricane_Alice_01_jan_1955_radar.jpg",
+			"previous": " ",
+			"after": " Hurricane Alice is the only known Atlantic hurricane to span two calendar years and one of only two named tropical cyclones to do so This image of the PPI scope of SPS 6 radar on the USS MIDWAY shows the rare January hurricane northeast of British Virgin Islands ",
+			"color": "dark|0.13226 gray|0.13226 dark|0.13226 grey|0.13226 black|0.12446 dim|0.1171 gray|0.1171 dim|0.1171 grey|0.1171 silver|0.084227 gray|0.077896 grey|0.077896 light|0.062831 gray|0.062831 light|0.062831 grey|0.062831 gainsboro|0.050458 white|0.037192 smoke|0.037192 sea|0.029501 shell|0.029501 snow|0.029237 mint|0.029008 cream|0.029008 linen|0.027683 slate|0.026974 gray|0.026974 white|0.026839 floral|0.026835 white|0.026835 light|0.022373 slate|0.022373 gray|0.022373 ivory|0.019043 old|0.018799 lace|0.018799 ghost|0.017965 white|0.017965 azure|0.017319 alice|0.012943 blue|0.012943 honeydew|0.0040395  ",
+			"after_weights": " Hurricane|1 Alice|0.97917 is|0.95833 the|0.9375 only|0.91667 known|0.89583 Atlantic|0.875 hurricane|0.85417 to|0.83333 span|0.8125 two|0.79167 calendar|0.77083 years|0.75 and|0.72917 one|0.70833 of|0.6875 only|0.66667 two|0.64583 named|0.625 tropical|0.60417 cyclones|0.58333 to|0.5625 do|0.54167 so|0.52083 This|0.5 image|0.47917 of|0.45833 the|0.4375 PPI|0.41667 scope|0.39583 of|0.375 SPS|0.35417 6|0.33333 radar|0.3125 on|0.29167 the|0.27083 USS|0.25 MIDWAY|0.22917 shows|0.20833 the|0.1875 rare|0.16667 January|0.14583 hurricane|0.125 northeast|0.10417 of|0.083333 British|0.0625 Virgin|0.041667 Islands|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41e3a06e7c788a88b68a2e26ace05d458181923b976eb387681e08f500ea9f14",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/SRMNCR.JPG/220px-SRMNCR.JPG",
+			"previous": " Considered the smallest of the SRM campuses is located in the center of Chennai city This campus houses the Faculty of Engineering and Technology Faculty of Management Sciences Faculty of MCA and the Sivaji Ganesan Film Institute SIMS SRM Institutes For Medical Science a Super Specialty Hospital is also located within the campus 3 ",
+			"after": " The 25 acre campus at Modinagar on Delhi Meerut highway houses the faculties of Engineering Technology Management and Teacher Education 3 ",
+			"color": "gray|0.22072 grey|0.22072 dim|0.15152 gray|0.15152 dim|0.15152 grey|0.15152 dark|0.1087 gray|0.1087 dark|0.1087 grey|0.1087 silver|0.089724 light|0.070271 gray|0.070271 light|0.070271 grey|0.070271 slate|0.068263 gray|0.068263 light|0.061984 slate|0.061984 gray|0.061984 black|0.058121 gainsboro|0.054993 dark|0.032593 slate|0.032593 gray|0.032593  ",
+			"after_weights": " The|1 25|0.95238 acre|0.90476 campus|0.85714 at|0.80952 Modinagar|0.7619 on|0.71429 Delhi|0.66667 Meerut|0.61905 highway|0.57143 houses|0.52381 the|0.47619 faculties|0.42857 of|0.38095 Engineering|0.33333 Technology|0.28571 Management|0.2381 and|0.19048 Teacher|0.14286 Education|0.095238 3|0.047619 |0",
+			"previous_weights": " Considered|0 the|0.018519 smallest|0.037037 of|0.055556 the|0.074074 SRM|0.092593 campuses|0.11111 is|0.12963 located|0.14815 in|0.16667 the|0.18519 center|0.2037 of|0.22222 Chennai|0.24074 city|0.25926 This|0.27778 campus|0.2963 houses|0.31481 the|0.33333 Faculty|0.35185 of|0.37037 Engineering|0.38889 and|0.40741 Technology|0.42593 Faculty|0.44444 of|0.46296 Management|0.48148 Sciences|0.5 Faculty|0.51852 of|0.53704 MCA|0.55556 and|0.57407 the|0.59259 Sivaji|0.61111 Ganesan|0.62963 Film|0.64815 Institute|0.66667 SIMS|0.68519 SRM|0.7037 Institutes|0.72222 For|0.74074 Medical|0.75926 Science|0.77778 a|0.7963 Super|0.81481 Specialty|0.83333 Hospital|0.85185 is|0.87037 also|0.88889 located|0.90741 within|0.92593 the|0.94444 campus|0.96296 3|0.98148 |1"
+		}
+	}
+}

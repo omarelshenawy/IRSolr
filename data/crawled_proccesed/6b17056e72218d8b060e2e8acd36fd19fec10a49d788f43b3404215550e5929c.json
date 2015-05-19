@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b17056e72218d8b060e2e8acd36fd19fec10a49d788f43b3404215550e5929c",
+			"url": "https://upload.wikimedia.org/math/8/1/b/81bf3fa889d14bda4814245cc6247575.png",
+			"previous": " An alternative formula is",
+			"after": " Cos decreases from 1 at the equator to zero at the poles so the length of a degree of longitude decreases likewise This contrasts with the small 1 increase in the length of a degree of latitude equator to pole The table shows both for the WGS84 ellipsoid with a 6 378 137 0 m and b 6 356 752 3142 m Note that the distance between two points 1 degree apart on the same circle of latitude measured along that circle of latitude is slightly more than the shortest geodesic distance between those points the difference is less than 0 6 m ",
+			"color": "black|0.33512 dim|0.32201 gray|0.32201 dim|0.32201 grey|0.32201 gray|0.17352 grey|0.17352 dark|0.090347 gray|0.090347 dark|0.090347 grey|0.090347 silver|0.037963 light|0.017795 gray|0.017795 light|0.017795 grey|0.017795 gainsboro|0.012144  ",
+			"after_weights": " Cos|1 decreases|0.99029 from|0.98058 1|0.97087 at|0.96117 the|0.95146 equator|0.94175 to|0.93204 zero|0.92233 at|0.91262 the|0.90291 poles|0.8932 so|0.8835 the|0.87379 length|0.86408 of|0.85437 a|0.84466 degree|0.83495 of|0.82524 longitude|0.81553 decreases|0.80583 likewise|0.79612 This|0.78641 contrasts|0.7767 with|0.76699 the|0.75728 small|0.74757 1|0.73786 increase|0.72816 in|0.71845 the|0.70874 length|0.69903 of|0.68932 a|0.67961 degree|0.6699 of|0.66019 latitude|0.65049 equator|0.64078 to|0.63107 pole|0.62136 The|0.61165 table|0.60194 shows|0.59223 both|0.58252 for|0.57282 the|0.56311 WGS84|0.5534 ellipsoid|0.54369 with|0.53398 a|0.52427 6|0.51456 378|0.50485 137|0.49515 0|0.48544 m|0.47573 and|0.46602 b|0.45631 6|0.4466 356|0.43689 752|0.42718 3142|0.41748 m|0.40777 Note|0.39806 that|0.38835 the|0.37864 distance|0.36893 between|0.35922 two|0.34951 points|0.33981 1|0.3301 degree|0.32039 apart|0.31068 on|0.30097 the|0.29126 same|0.28155 circle|0.27184 of|0.26214 latitude|0.25243 measured|0.24272 along|0.23301 that|0.2233 circle|0.21359 of|0.20388 latitude|0.19417 is|0.18447 slightly|0.17476 more|0.16505 than|0.15534 the|0.14563 shortest|0.13592 geodesic|0.12621 distance|0.1165 between|0.1068 those|0.097087 points|0.087379 the|0.07767 difference|0.067961 is|0.058252 less|0.048544 than|0.038835 0|0.029126 6|0.019417 m|0.0097087 |0",
+			"previous_weights": " An|0 alternative|0.33333 formula|0.66667 is|1"
+		}
+	}
+}

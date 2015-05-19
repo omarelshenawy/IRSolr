@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "88dda0a38b01428300329256805667e01f08631ab5bcc95b9c17a70b6246ee89",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bufo_marinus_%28Philippines%29.jpg/220px-Bufo_marinus_%28Philippines%29.jpg",
+			"previous": " ",
+			"after": " The cane toad was first introduced deliberately into the Philippines in 1930 as a biological control agent of pests in sugarcane plantations This was done after the success of the experimental introductions into Puerto Rico 90 91 It subsequently became the most ubiquitous amphibian in the islands It still retains the common name of kamprag in the Visayan languages a corruption of American frog referring to its origins 89 It is also commonly known as bullfrog in Philippine English 92 ",
+			"color": "black|0.3013 yellow|0.15007 green|0.15007 olive|0.093876 drab|0.093876 dark|0.083718 khaki|0.083718 tan|0.063761 pale|0.063264 golden|0.063264 rod|0.063264 dark|0.05036 olive|0.05036 green|0.05036 khaki|0.032781 burly|0.02802 wood|0.02802 dim|0.019272 gray|0.019272 dim|0.019272 grey|0.019272 lemon|0.017915 chiffon|0.017915  ",
+			"after_weights": " The|1 cane|0.9875 toad|0.975 was|0.9625 first|0.95 introduced|0.9375 deliberately|0.925 into|0.9125 the|0.9 Philippines|0.8875 in|0.875 1930|0.8625 as|0.85 a|0.8375 biological|0.825 control|0.8125 agent|0.8 of|0.7875 pests|0.775 in|0.7625 sugarcane|0.75 plantations|0.7375 This|0.725 was|0.7125 done|0.7 after|0.6875 the|0.675 success|0.6625 of|0.65 the|0.6375 experimental|0.625 introductions|0.6125 into|0.6 Puerto|0.5875 Rico|0.575 90|0.5625 91|0.55 It|0.5375 subsequently|0.525 became|0.5125 the|0.5 most|0.4875 ubiquitous|0.475 amphibian|0.4625 in|0.45 the|0.4375 islands|0.425 It|0.4125 still|0.4 retains|0.3875 the|0.375 common|0.3625 name|0.35 of|0.3375 kamprag|0.325 in|0.3125 the|0.3 Visayan|0.2875 languages|0.275 a|0.2625 corruption|0.25 of|0.2375 American|0.225 frog|0.2125 referring|0.2 to|0.1875 its|0.175 origins|0.1625 89|0.15 It|0.1375 is|0.125 also|0.1125 commonly|0.1 known|0.0875 as|0.075 bullfrog|0.0625 in|0.05 Philippine|0.0375 English|0.025 92|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

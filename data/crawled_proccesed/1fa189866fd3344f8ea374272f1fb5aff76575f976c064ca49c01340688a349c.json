@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fa189866fd3344f8ea374272f1fb5aff76575f976c064ca49c01340688a349c",
+			"url": "https://upload.wikimedia.org/wikipedia/en/timeline/fe5b433ab466770a69916ec5d1580a90.png",
+			"previous": " Xbox OS is an unofficial name given to the version of Windows that runs on the Xbox One 41 It is a more specific implementation with an emphasis on virtualization using Hyper V as it is three operating systems running at once consisting of the core operating system a second implemented for games and a more Windows like environment for applications 42 ",
+			"after": " ",
+			"color": "light|0.16324 golden|0.16324 rod|0.16324 yellow|0.16324 wheat|0.10685 moccasin|0.10602 navajo|0.10358 white|0.10358 lemon|0.10235 chiffon|0.10235 pale|0.095746 golden|0.095746 rod|0.095746 silver|0.019866 dark|0.018983 gray|0.018983 dark|0.018983 grey|0.018983 slate|0.01776 blue|0.01776 blanched|0.01661 almond|0.01661 floral|0.014435 white|0.014435 light|0.014225 yellow|0.014225 corn|0.014153 silk|0.014153 sea|0.014003 shell|0.014003 mint|0.013769 cream|0.013769 snow|0.013673 white|0.013587 smoke|0.013587 white|0.013519 papaya|0.013489 whip|0.013489 beige|0.013355 ghost|0.012881 white|0.012881 alice|0.012682 blue|0.012682 azure|0.01258 lavender|0.012289 blush|0.012289 bisque|0.012185 antique|0.007505 white|0.007505 peach|0.005589 puff|0.005589  ",
+			"after_weights": " ",
+			"previous_weights": " Xbox|0 OS|0.016129 is|0.032258 an|0.048387 unofficial|0.064516 name|0.080645 given|0.096774 to|0.1129 the|0.12903 version|0.14516 of|0.16129 Windows|0.17742 that|0.19355 runs|0.20968 on|0.22581 the|0.24194 Xbox|0.25806 One|0.27419 41|0.29032 It|0.30645 is|0.32258 a|0.33871 more|0.35484 specific|0.37097 implementation|0.3871 with|0.40323 an|0.41935 emphasis|0.43548 on|0.45161 virtualization|0.46774 using|0.48387 Hyper|0.5 V|0.51613 as|0.53226 it|0.54839 is|0.56452 three|0.58065 operating|0.59677 systems|0.6129 running|0.62903 at|0.64516 once|0.66129 consisting|0.67742 of|0.69355 the|0.70968 core|0.72581 operating|0.74194 system|0.75806 a|0.77419 second|0.79032 implemented|0.80645 for|0.82258 games|0.83871 and|0.85484 a|0.87097 more|0.8871 Windows|0.90323 like|0.91935 environment|0.93548 for|0.95161 applications|0.96774 42|0.98387 |1"
+		}
+	}
+}

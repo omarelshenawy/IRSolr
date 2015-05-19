@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4608ee4a8b84c6ba54f41f414b67b77bb68f6015f95d06eaecb6e67369b113dc",
+			"url": "https://upload.wikimedia.org/math/a/8/8/a886c2b7fb9e5897ba5863ae6e6f77d3.png",
+			"previous": " In PDEs it is common to denote partial derivatives using subscripts That is  This solution approaches infinity if nx is not an integer multiple of for any non zero value of y The Cauchy problem for the Laplace equation is called ill posed or not well posed since the solution does not depend continuously upon the data of the problem Such ill posed problems are not usually satisfactory for physical applications ",
+			"after": " or where is the Laplace operator ",
+			"color": "dark|0.33118 gray|0.33118 dark|0.33118 grey|0.33118 silver|0.19348 gray|0.17248 grey|0.17248 light|0.12043 gray|0.12043 light|0.12043 grey|0.12043 gainsboro|0.090499 white|0.019247 smoke|0.019247 linen|0.011158 lavender|0.0094091 blush|0.0094091 alice|0.0092676 blue|0.0092676 ghost|0.008897 white|0.008897 sea|0.008565 shell|0.008565 snow|0.0082238 dim|0.0062664 gray|0.0062664 dim|0.0062664 grey|0.0062664 white|0.006135 mint|0.0034061 cream|0.0034061  ",
+			"after_weights": " or|1 where|0.83333 is|0.66667 the|0.5 Laplace|0.33333 operator|0.16667 |0",
+			"previous_weights": " In|0 PDEs|0.013889 it|0.027778 is|0.041667 common|0.055556 to|0.069444 denote|0.083333 partial|0.097222 derivatives|0.11111 using|0.125 subscripts|0.13889 That|0.15278 is|0.16667 |0.18056 This|0.19444 solution|0.20833 approaches|0.22222 infinity|0.23611 if|0.25 nx|0.26389 is|0.27778 not|0.29167 an|0.30556 integer|0.31944 multiple|0.33333 of|0.34722 for|0.36111 any|0.375 non|0.38889 zero|0.40278 value|0.41667 of|0.43056 y|0.44444 The|0.45833 Cauchy|0.47222 problem|0.48611 for|0.5 the|0.51389 Laplace|0.52778 equation|0.54167 is|0.55556 called|0.56944 ill|0.58333 posed|0.59722 or|0.61111 not|0.625 well|0.63889 posed|0.65278 since|0.66667 the|0.68056 solution|0.69444 does|0.70833 not|0.72222 depend|0.73611 continuously|0.75 upon|0.76389 the|0.77778 data|0.79167 of|0.80556 the|0.81944 problem|0.83333 Such|0.84722 ill|0.86111 posed|0.875 problems|0.88889 are|0.90278 not|0.91667 usually|0.93056 satisfactory|0.94444 for|0.95833 physical|0.97222 applications|0.98611 |1"
+		}
+	}
+}

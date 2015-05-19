@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d327f189d6f74a0e6b8f4d1465fef708383570fa889bbf050efa21635a6f12b",
+			"url": "https://upload.wikimedia.org/math/d/8/d/d8d2b6c0e9d3c56090a2c5471aaeaceb.png",
+			"previous": "  Expected length of a code is   Length of the code word is written as is the code word associated with   or if the empty string is not part of the alphabet ",
+			"after": " The code word of the empty string is the empty string itself   Entropy of a source is the measure of information Basically source codes try to reduce the redundancy present in the source and represent the source with fewer bits that carry more information ",
+			"color": "gray|0.3093 grey|0.3093 dim|0.27347 gray|0.27347 dim|0.27347 grey|0.27347 dark|0.21579 gray|0.21579 dark|0.21579 grey|0.21579 silver|0.094653 light|0.048695 gray|0.048695 light|0.048695 grey|0.048695 gainsboro|0.034298 white|0.0060245 smoke|0.0060245 linen|0.0028447 lavender|0.0026207 blush|0.0026207  ",
+			"after_weights": " The|1 code|0.97826 word|0.95652 of|0.93478 the|0.91304 empty|0.8913 string|0.86957 is|0.84783 the|0.82609 empty|0.80435 string|0.78261 itself|0.76087 |0.73913 |0.71739 Entropy|0.69565 of|0.67391 a|0.65217 source|0.63043 is|0.6087 the|0.58696 measure|0.56522 of|0.54348 information|0.52174 Basically|0.5 source|0.47826 codes|0.45652 try|0.43478 to|0.41304 reduce|0.3913 the|0.36957 redundancy|0.34783 present|0.32609 in|0.30435 the|0.28261 source|0.26087 and|0.23913 represent|0.21739 the|0.19565 source|0.17391 with|0.15217 fewer|0.13043 bits|0.1087 that|0.086957 carry|0.065217 more|0.043478 information|0.021739 |0",
+			"previous_weights": " |0 Expected|0.027778 length|0.055556 of|0.083333 a|0.11111 code|0.13889 is|0.16667 |0.19444 |0.22222 Length|0.25 of|0.27778 the|0.30556 code|0.33333 word|0.36111 is|0.38889 written|0.41667 as|0.44444 is|0.47222 the|0.5 code|0.52778 word|0.55556 associated|0.58333 with|0.61111 |0.63889 |0.66667 or|0.69444 if|0.72222 the|0.75 empty|0.77778 string|0.80556 is|0.83333 not|0.86111 part|0.88889 of|0.91667 the|0.94444 alphabet|0.97222 |1"
+		}
+	}
+}

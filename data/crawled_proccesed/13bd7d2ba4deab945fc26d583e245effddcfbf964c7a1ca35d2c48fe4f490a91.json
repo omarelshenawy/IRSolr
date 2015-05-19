@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "13bd7d2ba4deab945fc26d583e245effddcfbf964c7a1ca35d2c48fe4f490a91",
+			"url": "https://upload.wikimedia.org/math/5/a/3/5a3ac9becf3397048a3d176a8c93f5ce.png",
+			"previous": " One of Maxwell s equations Amp re s law with Maxwell s correction states that",
+			"after": " Taking the divergence of both sides the divergence and partial derivative in time commute results in but the divergence of a curl is zero so that",
+			"color": "dim|0.42009 gray|0.42009 dim|0.42009 grey|0.42009 gray|0.27561 grey|0.27561 dark|0.16277 gray|0.16277 dark|0.16277 grey|0.16277 silver|0.074563 light|0.03344 gray|0.03344 light|0.03344 grey|0.03344 gainsboro|0.023611  ",
+			"after_weights": " Taking|1 the|0.96 divergence|0.92 of|0.88 both|0.84 sides|0.8 the|0.76 divergence|0.72 and|0.68 partial|0.64 derivative|0.6 in|0.56 time|0.52 commute|0.48 results|0.44 in|0.4 but|0.36 the|0.32 divergence|0.28 of|0.24 a|0.2 curl|0.16 is|0.12 zero|0.08 so|0.04 that|0",
+			"previous_weights": " One|0 of|0.071429 Maxwell|0.14286 s|0.21429 equations|0.28571 Amp|0.35714 re|0.42857 s|0.5 law|0.57143 with|0.64286 Maxwell|0.71429 s|0.78571 correction|0.85714 states|0.92857 that|1"
+		}
+	}
+}

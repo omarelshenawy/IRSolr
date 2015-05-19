@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80beee93997c196b8a20a194079cebcbf7105f9069ab63b4591e7da7fb75e4f3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Delta_World_HQ_-_Fly_Delta_Air_Lines_sign.JPG/220px-Delta_World_HQ_-_Fly_Delta_Air_Lines_sign.JPG",
+			"previous": " ",
+			"after": " Delta has ten domestic hubs and three international hubs 7 37 Delta carries more passengers than any other airline at Hartsfield Jackson Atlanta International Airport Cincinnati Northern Kentucky International Airport 38 Detroit Metropolitan Wayne County Airport 37 Minneapolis St Paul International Airport 37 New York JFK 39 New York LaGuardia Airport 40 Salt Lake City International Airport 37 ",
+			"color": "light|0.43567 steel|0.43567 blue|0.43567 black|0.14445 light|0.063615 gray|0.063615 light|0.063615 grey|0.063615 gainsboro|0.056354 lavender|0.04243 light|0.040139 blue|0.040139 dim|0.031387 gray|0.031387 dim|0.031387 grey|0.031387 silver|0.018297 white|0.017758 smoke|0.017758 dark|0.016324 gray|0.016324 dark|0.016324 grey|0.016324 light|0.015126 slate|0.015126 gray|0.015126 gray|0.014157 grey|0.014157 alice|0.012565 blue|0.012565 ghost|0.010769 white|0.010769 lavender|0.010323 blush|0.010323 slate|0.0090903 gray|0.0090903 thistle|0.0083158 tan|0.0079716 linen|0.0067739 snow|0.0066265 sea|0.0061685 shell|0.0061685  ",
+			"after_weights": " Delta|1 has|0.98276 ten|0.96552 domestic|0.94828 hubs|0.93103 and|0.91379 three|0.89655 international|0.87931 hubs|0.86207 7|0.84483 37|0.82759 Delta|0.81034 carries|0.7931 more|0.77586 passengers|0.75862 than|0.74138 any|0.72414 other|0.7069 airline|0.68966 at|0.67241 Hartsfield|0.65517 Jackson|0.63793 Atlanta|0.62069 International|0.60345 Airport|0.58621 Cincinnati|0.56897 Northern|0.55172 Kentucky|0.53448 International|0.51724 Airport|0.5 38|0.48276 Detroit|0.46552 Metropolitan|0.44828 Wayne|0.43103 County|0.41379 Airport|0.39655 37|0.37931 Minneapolis|0.36207 St|0.34483 Paul|0.32759 International|0.31034 Airport|0.2931 37|0.27586 New|0.25862 York|0.24138 JFK|0.22414 39|0.2069 New|0.18966 York|0.17241 LaGuardia|0.15517 Airport|0.13793 40|0.12069 Salt|0.10345 Lake|0.086207 City|0.068966 International|0.051724 Airport|0.034483 37|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

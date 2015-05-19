@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ea7cab663c055526cef42e5ca120c59d1d146c492ef024b2c7295a27f20be31",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chance_Vought_F7U-1.svg/300px-Chance_Vought_F7U-1.svg.png",
+			"previous": " Seven F7U 3 Cutlass aircraft are known to have survived  Following these incidents the two Cutlasses were deemed unsuitable for demonstration flying and were flown to Naval Air Station Memphis Tennessee where they were abandoned to become aircraft maintenance instructional airframes for the Naval Technical Training Center 8 ",
+			"after": " Data from Naval Fighters Number Six 16 Jane s Encyclopedia of Aviation 17  General characteristics Performance Armament",
+			"color": "silver|0.19526 dark|0.17119 gray|0.17119 dark|0.17119 grey|0.17119 light|0.1498 gray|0.1498 light|0.1498 grey|0.1498 gainsboro|0.10535 gray|0.046603 grey|0.046603 white|0.042001 smoke|0.042001 alice|0.033477 blue|0.033477 ghost|0.033206 white|0.033206 sea|0.033074 shell|0.033074 snow|0.032813 white|0.030932 mint|0.027176 cream|0.027176 lavender|0.025707 blush|0.025707 floral|0.024139 white|0.024139 azure|0.021102 linen|0.013326 ivory|0.0078831 dim|0.0069557 gray|0.0069557 dim|0.0069557 grey|0.0069557  ",
+			"after_weights": " Data|1 from|0.94118 Naval|0.88235 Fighters|0.82353 Number|0.76471 Six|0.70588 16|0.64706 Jane|0.58824 s|0.52941 Encyclopedia|0.47059 of|0.41176 Aviation|0.35294 17|0.29412 |0.23529 General|0.17647 characteristics|0.11765 Performance|0.058824 Armament|0",
+			"previous_weights": " Seven|0 F7U|0.020408 3|0.040816 Cutlass|0.061224 aircraft|0.081633 are|0.10204 known|0.12245 to|0.14286 have|0.16327 survived|0.18367 |0.20408 Following|0.22449 these|0.2449 incidents|0.26531 the|0.28571 two|0.30612 Cutlasses|0.32653 were|0.34694 deemed|0.36735 unsuitable|0.38776 for|0.40816 demonstration|0.42857 flying|0.44898 and|0.46939 were|0.4898 flown|0.5102 to|0.53061 Naval|0.55102 Air|0.57143 Station|0.59184 Memphis|0.61224 Tennessee|0.63265 where|0.65306 they|0.67347 were|0.69388 abandoned|0.71429 to|0.73469 become|0.7551 aircraft|0.77551 maintenance|0.79592 instructional|0.81633 airframes|0.83673 for|0.85714 the|0.87755 Naval|0.89796 Technical|0.91837 Training|0.93878 Center|0.95918 8|0.97959 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dc81e6e91bc358cf35cd13cbe4c6828d2dbdb3f3b41730f07233d6798153635",
+			"url": "https://upload.wikimedia.org/math/8/a/3/8a32dbbacc67e5d4dce3083011da2cde.png",
+			"previous": " The above lift equation neglects the skin friction forces which typically have a negligible contribution to the lift compared to the pressure forces By using the streamwise vector i parallel to the freestream in place of k in the integral we obtain an expression for the pressure drag Dp which includes the pressure portion of the profile drag and if the wing is three dimensional the induced drag If we use the spanwise vector j we obtain the side force Y ",
+			"after": " The validity of this integration generally requires the airfoil shape to be a closed curve that is piecewise smooth ",
+			"color": "dim|0.32411 gray|0.32411 dim|0.32411 grey|0.32411 gray|0.31075 grey|0.31075 dark|0.18705 gray|0.18705 dark|0.18705 grey|0.18705 silver|0.08792 light|0.041716 gray|0.041716 light|0.041716 grey|0.041716 gainsboro|0.030495 white|0.0034588 smoke|0.0034588  ",
+			"after_weights": " The|1 validity|0.94737 of|0.89474 this|0.84211 integration|0.78947 generally|0.73684 requires|0.68421 the|0.63158 airfoil|0.57895 shape|0.52632 to|0.47368 be|0.42105 a|0.36842 closed|0.31579 curve|0.26316 that|0.21053 is|0.15789 piecewise|0.10526 smooth|0.052632 |0",
+			"previous_weights": " The|0 above|0.012346 lift|0.024691 equation|0.037037 neglects|0.049383 the|0.061728 skin|0.074074 friction|0.08642 forces|0.098765 which|0.11111 typically|0.12346 have|0.1358 a|0.14815 negligible|0.16049 contribution|0.17284 to|0.18519 the|0.19753 lift|0.20988 compared|0.22222 to|0.23457 the|0.24691 pressure|0.25926 forces|0.2716 By|0.28395 using|0.2963 the|0.30864 streamwise|0.32099 vector|0.33333 i|0.34568 parallel|0.35802 to|0.37037 the|0.38272 freestream|0.39506 in|0.40741 place|0.41975 of|0.4321 k|0.44444 in|0.45679 the|0.46914 integral|0.48148 we|0.49383 obtain|0.50617 an|0.51852 expression|0.53086 for|0.54321 the|0.55556 pressure|0.5679 drag|0.58025 Dp|0.59259 which|0.60494 includes|0.61728 the|0.62963 pressure|0.64198 portion|0.65432 of|0.66667 the|0.67901 profile|0.69136 drag|0.7037 and|0.71605 if|0.7284 the|0.74074 wing|0.75309 is|0.76543 three|0.77778 dimensional|0.79012 the|0.80247 induced|0.81481 drag|0.82716 If|0.83951 we|0.85185 use|0.8642 the|0.87654 spanwise|0.88889 vector|0.90123 j|0.91358 we|0.92593 obtain|0.93827 the|0.95062 side|0.96296 force|0.97531 Y|0.98765 |1"
+		}
+	}
+}

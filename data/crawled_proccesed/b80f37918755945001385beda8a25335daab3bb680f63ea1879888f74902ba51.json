@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b80f37918755945001385beda8a25335daab3bb680f63ea1879888f74902ba51",
+			"url": "https://upload.wikimedia.org/math/2/a/1/2a1fae4789ea354904e7b3241eafc7ac.png",
+			"previous": " or equivalently",
+			"after": " represents the pair or pairs that maximizes or maximize the value of the objective function with the added constraint that x lie in the interval again the actual maximum value of the expression does not matter In this case the solutions are the pairs of the form 5 2k and 5 2k 1 where k ranges over all integers ",
+			"color": "dim|0.33978 gray|0.33978 dim|0.33978 grey|0.33978 gray|0.3021 grey|0.3021 dark|0.18511 gray|0.18511 dark|0.18511 grey|0.18511 silver|0.079868 light|0.04081 gray|0.04081 light|0.04081 grey|0.04081 gainsboro|0.02893 white|0.0055012 smoke|0.0055012  ",
+			"after_weights": " represents|1 the|0.98305 pair|0.9661 or|0.94915 pairs|0.9322 that|0.91525 maximizes|0.89831 or|0.88136 maximize|0.86441 the|0.84746 value|0.83051 of|0.81356 the|0.79661 objective|0.77966 function|0.76271 with|0.74576 the|0.72881 added|0.71186 constraint|0.69492 that|0.67797 x|0.66102 lie|0.64407 in|0.62712 the|0.61017 interval|0.59322 again|0.57627 the|0.55932 actual|0.54237 maximum|0.52542 value|0.50847 of|0.49153 the|0.47458 expression|0.45763 does|0.44068 not|0.42373 matter|0.40678 In|0.38983 this|0.37288 case|0.35593 the|0.33898 solutions|0.32203 are|0.30508 the|0.28814 pairs|0.27119 of|0.25424 the|0.23729 form|0.22034 5|0.20339 2k|0.18644 and|0.16949 5|0.15254 2k|0.13559 1|0.11864 where|0.10169 k|0.084746 ranges|0.067797 over|0.050847 all|0.033898 integers|0.016949 |0",
+			"previous_weights": " or|0 equivalently|1"
+		}
+	}
+}

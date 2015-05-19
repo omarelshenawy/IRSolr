@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fe85dae64f580ab9c2a1f28d25c21d60cba92aabe3d384c4773ebb5be5d6838",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Unfinished_portrait_of_Daniel_Boone_by_Chester_Harding_1820.jpg/150px-Unfinished_portrait_of_Daniel_Boone_by_Chester_Harding_1820.jpg",
+			"previous": " Portal History Featured biography 6",
+			"after": " Boone was a militia officer during the Revolutionary War 1775 82 which in Kentucky was fought primarily between the European settlers and the British aided Native Americans Boone was captured by Shawnee warriors in 1778 who after a while adopted him into their tribe Later he left the Indians and returned to Boonesborough to help defend the European settlements in Kentucky Virginia ",
+			"color": "dark|0.49115 khaki|0.49115 pale|0.18811 golden|0.18811 rod|0.18811 sienna|0.16116 saddle|0.090319 brown|0.090319  ",
+			"after_weights": " Boone|1 was|0.98387 a|0.96774 militia|0.95161 officer|0.93548 during|0.91935 the|0.90323 Revolutionary|0.8871 War|0.87097 1775|0.85484 82|0.83871 which|0.82258 in|0.80645 Kentucky|0.79032 was|0.77419 fought|0.75806 primarily|0.74194 between|0.72581 the|0.70968 European|0.69355 settlers|0.67742 and|0.66129 the|0.64516 British|0.62903 aided|0.6129 Native|0.59677 Americans|0.58065 Boone|0.56452 was|0.54839 captured|0.53226 by|0.51613 Shawnee|0.5 warriors|0.48387 in|0.46774 1778|0.45161 who|0.43548 after|0.41935 a|0.40323 while|0.3871 adopted|0.37097 him|0.35484 into|0.33871 their|0.32258 tribe|0.30645 Later|0.29032 he|0.27419 left|0.25806 the|0.24194 Indians|0.22581 and|0.20968 returned|0.19355 to|0.17742 Boonesborough|0.16129 to|0.14516 help|0.12903 defend|0.1129 the|0.096774 European|0.080645 settlements|0.064516 in|0.048387 Kentucky|0.032258 Virginia|0.016129 |0",
+			"previous_weights": " Portal|0 History|0.25 Featured|0.5 biography|0.75 6|1"
+		}
+	}
+}

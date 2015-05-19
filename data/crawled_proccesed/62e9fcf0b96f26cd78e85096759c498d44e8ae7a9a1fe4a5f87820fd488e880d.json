@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "62e9fcf0b96f26cd78e85096759c498d44e8ae7a9a1fe4a5f87820fd488e880d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/SmUsingGuiaBot.jpg",
+			"previous": " Lawyers have speculated that an increased prevalence of robots in the workplace could lead to the need to revise redundancy laws 86 ",
+			"after": " At present there are two main types of robots based on their use general purpose autonomous robots and dedicated robots ",
+			"color": "dim|0.29615 gray|0.29615 dim|0.29615 grey|0.29615 black|0.28164 silver|0.15879 gray|0.070862 grey|0.070862 light|0.070747 gray|0.070747 light|0.070747 grey|0.070747 slate|0.063611 gray|0.063611 dark|0.03184 gray|0.03184 dark|0.03184 grey|0.03184 light|0.018373 slate|0.018373 gray|0.018373  ",
+			"after_weights": " At|1 present|0.95 there|0.9 are|0.85 two|0.8 main|0.75 types|0.7 of|0.65 robots|0.6 based|0.55 on|0.5 their|0.45 use|0.4 general|0.35 purpose|0.3 autonomous|0.25 robots|0.2 and|0.15 dedicated|0.1 robots|0.05 |0",
+			"previous_weights": " Lawyers|0 have|0.045455 speculated|0.090909 that|0.13636 an|0.18182 increased|0.22727 prevalence|0.27273 of|0.31818 robots|0.36364 in|0.40909 the|0.45455 workplace|0.5 could|0.54545 lead|0.59091 to|0.63636 the|0.68182 need|0.72727 to|0.77273 revise|0.81818 redundancy|0.86364 laws|0.90909 86|0.95455 |1"
+		}
+	}
+}

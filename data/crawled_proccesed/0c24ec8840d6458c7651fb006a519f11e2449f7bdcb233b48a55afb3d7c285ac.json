@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c24ec8840d6458c7651fb006a519f11e2449f7bdcb233b48a55afb3d7c285ac",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Phalacrocorax-auritus-007.jpg/150px-Phalacrocorax-auritus-007.jpg",
+			"previous": " The sulids comprise the gannets and boobies Both groups are medium large coastal seabirds that plunge dive for fish ",
+			"after": " Order Suliformes Family Phalacrocoracidae Cormorants are medium to large aquatic birds usually with mainly dark plumage and areas of colored skin on the face The bill is long thin and sharply hooked Their feet are four toed and webbed a distinguishing feature among the Pelecaniformes order ",
+			"color": "dim|0.42926 gray|0.42926 dim|0.42926 grey|0.42926 black|0.39607 gray|0.10096 grey|0.10096 dark|0.030138 gray|0.030138 dark|0.030138 grey|0.030138 silver|0.013723  ",
+			"after_weights": " Order|1 Suliformes|0.97826 Family|0.95652 Phalacrocoracidae|0.93478 Cormorants|0.91304 are|0.8913 medium|0.86957 to|0.84783 large|0.82609 aquatic|0.80435 birds|0.78261 usually|0.76087 with|0.73913 mainly|0.71739 dark|0.69565 plumage|0.67391 and|0.65217 areas|0.63043 of|0.6087 colored|0.58696 skin|0.56522 on|0.54348 the|0.52174 face|0.5 The|0.47826 bill|0.45652 is|0.43478 long|0.41304 thin|0.3913 and|0.36957 sharply|0.34783 hooked|0.32609 Their|0.30435 feet|0.28261 are|0.26087 four|0.23913 toed|0.21739 and|0.19565 webbed|0.17391 a|0.15217 distinguishing|0.13043 feature|0.1087 among|0.086957 the|0.065217 Pelecaniformes|0.043478 order|0.021739 |0",
+			"previous_weights": " The|0 sulids|0.052632 comprise|0.10526 the|0.15789 gannets|0.21053 and|0.26316 boobies|0.31579 Both|0.36842 groups|0.42105 are|0.47368 medium|0.52632 large|0.57895 coastal|0.63158 seabirds|0.68421 that|0.73684 plunge|0.78947 dive|0.84211 for|0.89474 fish|0.94737 |1"
+		}
+	}
+}

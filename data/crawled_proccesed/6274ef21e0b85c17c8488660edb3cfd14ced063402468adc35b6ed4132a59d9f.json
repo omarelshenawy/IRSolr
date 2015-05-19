@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6274ef21e0b85c17c8488660edb3cfd14ced063402468adc35b6ed4132a59d9f",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rr-kestrel.JPG/220px-Rr-kestrel.JPG",
+			"previous": " Preserved examples of the Rolls Royce Kestrel engine are on public display at the  Several Rolls Royce Kestrel engines remain in service powering restored Hawker biplane types  From Lumsden the Kestrel may not be the main powerplant for these types ",
+			"after": " Data from Lumsden 13 ",
+			"color": "gray|0.19153 grey|0.19153 dark|0.18806 gray|0.18806 dark|0.18806 grey|0.18806 dim|0.15091 gray|0.15091 dim|0.15091 grey|0.15091 silver|0.092938 sky|0.083725 blue|0.083725 light|0.045466 gray|0.045466 light|0.045466 grey|0.045466 khaki|0.036994 light|0.027689 sky|0.027689 blue|0.027689 gainsboro|0.027177 black|0.024671 pale|0.018335 golden|0.018335 rod|0.018335 slate|0.015451 gray|0.015451 light|0.013548 slate|0.013548 gray|0.013548 dark|0.012426 slate|0.012426 gray|0.012426 cadet|0.0073157 blue|0.0073157 light|0.0069612 blue|0.0069612 white|0.0047493 smoke|0.0047493  ",
+			"after_weights": " Data|1 from|0.75 Lumsden|0.5 13|0.25 |0",
+			"previous_weights": " Preserved|0 examples|0.02381 of|0.047619 the|0.071429 Rolls|0.095238 Royce|0.11905 Kestrel|0.14286 engine|0.16667 are|0.19048 on|0.21429 public|0.2381 display|0.2619 at|0.28571 the|0.30952 |0.33333 Several|0.35714 Rolls|0.38095 Royce|0.40476 Kestrel|0.42857 engines|0.45238 remain|0.47619 in|0.5 service|0.52381 powering|0.54762 restored|0.57143 Hawker|0.59524 biplane|0.61905 types|0.64286 |0.66667 From|0.69048 Lumsden|0.71429 the|0.7381 Kestrel|0.7619 may|0.78571 not|0.80952 be|0.83333 the|0.85714 main|0.88095 powerplant|0.90476 for|0.92857 these|0.95238 types|0.97619 |1"
+		}
+	}
+}

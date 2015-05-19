@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b3ae3322a3c7b3e9b9340afb734f06091f8d86eab737545d188fceebe723b90",
+			"url": "https://upload.wikimedia.org/math/4/3/1/431bf0fb45f5fe349b70a084b2c0ef3c.png",
+			"previous": " Double differencing 116 computes the difference of receiver 1 s satellite difference from that of receiver 2 This approximately eliminates satellite clock errors This double difference is ",
+			"after": " Triple differencing 117 subtracts the receiver difference from time 1 from that of time 2 This eliminates the ambiguity associated with the integral number of wavelengths in carrier phase provided this ambiguity does not change with time Thus the triple difference result eliminates practically all clock bias errors and the integer ambiguity Atmospheric delay and satellite ephemeris errors have been significantly reduced This triple difference is ",
+			"color": "dim|0.37839 gray|0.37839 dim|0.37839 grey|0.37839 gray|0.23544 grey|0.23544 dark|0.14844 gray|0.14844 dark|0.14844 grey|0.14844 black|0.094987 silver|0.072765 light|0.036275 gray|0.036275 light|0.036275 grey|0.036275 gainsboro|0.024721  ",
+			"after_weights": " Triple|1 differencing|0.98485 117|0.9697 subtracts|0.95455 the|0.93939 receiver|0.92424 difference|0.90909 from|0.89394 time|0.87879 1|0.86364 from|0.84848 that|0.83333 of|0.81818 time|0.80303 2|0.78788 This|0.77273 eliminates|0.75758 the|0.74242 ambiguity|0.72727 associated|0.71212 with|0.69697 the|0.68182 integral|0.66667 number|0.65152 of|0.63636 wavelengths|0.62121 in|0.60606 carrier|0.59091 phase|0.57576 provided|0.56061 this|0.54545 ambiguity|0.5303 does|0.51515 not|0.5 change|0.48485 with|0.4697 time|0.45455 Thus|0.43939 the|0.42424 triple|0.40909 difference|0.39394 result|0.37879 eliminates|0.36364 practically|0.34848 all|0.33333 clock|0.31818 bias|0.30303 errors|0.28788 and|0.27273 the|0.25758 integer|0.24242 ambiguity|0.22727 Atmospheric|0.21212 delay|0.19697 and|0.18182 satellite|0.16667 ephemeris|0.15152 errors|0.13636 have|0.12121 been|0.10606 significantly|0.090909 reduced|0.075758 This|0.060606 triple|0.045455 difference|0.030303 is|0.015152 |0",
+			"previous_weights": " Double|0 differencing|0.037037 116|0.074074 computes|0.11111 the|0.14815 difference|0.18519 of|0.22222 receiver|0.25926 1|0.2963 s|0.33333 satellite|0.37037 difference|0.40741 from|0.44444 that|0.48148 of|0.51852 receiver|0.55556 2|0.59259 This|0.62963 approximately|0.66667 eliminates|0.7037 satellite|0.74074 clock|0.77778 errors|0.81481 This|0.85185 double|0.88889 difference|0.92593 is|0.96296 |1"
+		}
+	}
+}

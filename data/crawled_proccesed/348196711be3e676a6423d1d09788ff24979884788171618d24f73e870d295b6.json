@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "348196711be3e676a6423d1d09788ff24979884788171618d24f73e870d295b6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eurofighter_Typhoon_2.jpg/220px-Eurofighter_Typhoon_2.jpg",
+			"previous": " ",
+			"after": " BAE Systems has its head office and its registered office in City of Westminster London 126 127 In addition to its central London offices it has an office in Farnborough Hampshire that houses functional specialists and support functions 128 ",
+			"color": "light|0.52923 steel|0.52923 blue|0.52923 black|0.31318 dim|0.07466 gray|0.07466 dim|0.07466 grey|0.07466 gray|0.035312 grey|0.035312 light|0.014454 slate|0.014454 gray|0.014454 slate|0.01096 gray|0.01096 dark|0.0071906 gray|0.0071906 dark|0.0071906 grey|0.0071906  ",
+			"after_weights": " BAE|1 Systems|0.97436 has|0.94872 its|0.92308 head|0.89744 office|0.87179 and|0.84615 its|0.82051 registered|0.79487 office|0.76923 in|0.74359 City|0.71795 of|0.69231 Westminster|0.66667 London|0.64103 126|0.61538 127|0.58974 In|0.5641 addition|0.53846 to|0.51282 its|0.48718 central|0.46154 London|0.4359 offices|0.41026 it|0.38462 has|0.35897 an|0.33333 office|0.30769 in|0.28205 Farnborough|0.25641 Hampshire|0.23077 that|0.20513 houses|0.17949 functional|0.15385 specialists|0.12821 and|0.10256 support|0.076923 functions|0.051282 128|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

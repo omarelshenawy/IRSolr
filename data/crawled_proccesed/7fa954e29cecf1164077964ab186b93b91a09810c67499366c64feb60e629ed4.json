@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fa954e29cecf1164077964ab186b93b91a09810c67499366c64feb60e629ed4",
+			"url": "https://upload.wikimedia.org/math/7/4/8/748b478792bf8a4a00bdafbf8fbc7921.png",
+			"previous": " Using the concept of every multivector ultimately being expressed in terms of vectors the reflection of a general multivector A using any reflection versor M may be written",
+			"after": " where is the automorphism of reflection through the origin of the vector space v v extended through multilinearity to the whole algebra ",
+			"color": "black|0.25585 gray|0.24763 grey|0.24763 dim|0.24174 gray|0.24174 dim|0.24174 grey|0.24174 dark|0.19366 gray|0.19366 dark|0.19366 grey|0.19366 silver|0.053752 light|0.0062336 gray|0.0062336 light|0.0062336 grey|0.0062336  ",
+			"after_weights": " where|1 is|0.95455 the|0.90909 automorphism|0.86364 of|0.81818 reflection|0.77273 through|0.72727 the|0.68182 origin|0.63636 of|0.59091 the|0.54545 vector|0.5 space|0.45455 v|0.40909 v|0.36364 extended|0.31818 through|0.27273 multilinearity|0.22727 to|0.18182 the|0.13636 whole|0.090909 algebra|0.045455 |0",
+			"previous_weights": " Using|0 the|0.037037 concept|0.074074 of|0.11111 every|0.14815 multivector|0.18519 ultimately|0.22222 being|0.25926 expressed|0.2963 in|0.33333 terms|0.37037 of|0.40741 vectors|0.44444 the|0.48148 reflection|0.51852 of|0.55556 a|0.59259 general|0.62963 multivector|0.66667 A|0.7037 using|0.74074 any|0.77778 reflection|0.81481 versor|0.85185 M|0.88889 may|0.92593 be|0.96296 written|1"
+		}
+	}
+}

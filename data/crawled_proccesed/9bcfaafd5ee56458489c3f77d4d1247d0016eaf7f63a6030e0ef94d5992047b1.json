@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9bcfaafd5ee56458489c3f77d4d1247d0016eaf7f63a6030e0ef94d5992047b1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Akai_MPC2000.jpg/220px-Akai_MPC2000.jpg",
+			"previous": " ",
+			"after": " The MPC2000 is a 64 track sampler sequencer introduced in 1997 and discontinued in 2000 It comes with 2 MB sample memory as standard and can be expanded to 32 MB It supports a sampling rate of 44 1 kHz in 16 bit stereo or mono ",
+			"color": "gray|0.39842 grey|0.39842 dim|0.3349 gray|0.3349 dim|0.3349 grey|0.3349 dark|0.22758 gray|0.22758 dark|0.22758 grey|0.22758 silver|0.034041  ",
+			"after_weights": " The|1 MPC2000|0.97826 is|0.95652 a|0.93478 64|0.91304 track|0.8913 sampler|0.86957 sequencer|0.84783 introduced|0.82609 in|0.80435 1997|0.78261 and|0.76087 discontinued|0.73913 in|0.71739 2000|0.69565 It|0.67391 comes|0.65217 with|0.63043 2|0.6087 MB|0.58696 sample|0.56522 memory|0.54348 as|0.52174 standard|0.5 and|0.47826 can|0.45652 be|0.43478 expanded|0.41304 to|0.3913 32|0.36957 MB|0.34783 It|0.32609 supports|0.30435 a|0.28261 sampling|0.26087 rate|0.23913 of|0.21739 44|0.19565 1|0.17391 kHz|0.15217 in|0.13043 16|0.1087 bit|0.086957 stereo|0.065217 or|0.043478 mono|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

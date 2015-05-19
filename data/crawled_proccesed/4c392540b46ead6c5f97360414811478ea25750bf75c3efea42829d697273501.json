@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c392540b46ead6c5f97360414811478ea25750bf75c3efea42829d697273501",
+			"url": "https://upload.wikimedia.org/math/d/3/f/d3fe33644b33bcd72add5c12cf5e92f3.png",
+			"previous": " This may be refined by considering the signs of four other polynomials  with real coefficients and the nature of its roots is mainly determined by the sign of its discriminant",
+			"after": " such that is the second degree coefficient of the associated depressed quartic see below  such that is the first degree coefficient of the associated depressed quartic ",
+			"color": "black|0.44471 dim|0.21716 gray|0.21716 dim|0.21716 grey|0.21716 gray|0.1461 grey|0.1461 dark|0.099603 gray|0.099603 dark|0.099603 grey|0.099603 silver|0.044474 light|0.022197 gray|0.022197 light|0.022197 grey|0.022197 gainsboro|0.015249  ",
+			"after_weights": " such|1 that|0.96296 is|0.92593 the|0.88889 second|0.85185 degree|0.81481 coefficient|0.77778 of|0.74074 the|0.7037 associated|0.66667 depressed|0.62963 quartic|0.59259 see|0.55556 below|0.51852 |0.48148 such|0.44444 that|0.40741 is|0.37037 the|0.33333 first|0.2963 degree|0.25926 coefficient|0.22222 of|0.18519 the|0.14815 associated|0.11111 depressed|0.074074 quartic|0.037037 |0",
+			"previous_weights": " This|0 may|0.033333 be|0.066667 refined|0.1 by|0.13333 considering|0.16667 the|0.2 signs|0.23333 of|0.26667 four|0.3 other|0.33333 polynomials|0.36667 |0.4 with|0.43333 real|0.46667 coefficients|0.5 and|0.53333 the|0.56667 nature|0.6 of|0.63333 its|0.66667 roots|0.7 is|0.73333 mainly|0.76667 determined|0.8 by|0.83333 the|0.86667 sign|0.9 of|0.93333 its|0.96667 discriminant|1"
+		}
+	}
+}

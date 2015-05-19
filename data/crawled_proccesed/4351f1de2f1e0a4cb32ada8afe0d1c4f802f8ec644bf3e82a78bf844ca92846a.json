@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4351f1de2f1e0a4cb32ada8afe0d1c4f802f8ec644bf3e82a78bf844ca92846a",
+			"url": "https://upload.wikimedia.org/math/6/5/3/6531eee7f4221db622f7e491bed0283c.png",
+			"previous": " For this to be generically true for any amplitude the matrix on the left must be singular i e must not be invertible such that one cannot multiply both sides of the equation by the inverse leaving the right matrix equal to zero It follows that the determinant of the matrix must be equal to 0 so ",
+			"after": " Solving for we have two positive solutions ",
+			"color": "dim|0.32958 gray|0.32958 dim|0.32958 grey|0.32958 gray|0.28393 grey|0.28393 dark|0.18618 gray|0.18618 dark|0.18618 grey|0.18618 silver|0.092014 light|0.047645 gray|0.047645 light|0.047645 grey|0.047645 gainsboro|0.034196 white|0.0060041 smoke|0.0060041 linen|0.003042 lavender|0.0028921 blush|0.0028921 alice|0.0028172 blue|0.0028172  ",
+			"after_weights": " Solving|1 for|0.85714 we|0.71429 have|0.57143 two|0.42857 positive|0.28571 solutions|0.14286 |0",
+			"previous_weights": " For|0 this|0.017544 to|0.035088 be|0.052632 generically|0.070175 true|0.087719 for|0.10526 any|0.12281 amplitude|0.14035 the|0.15789 matrix|0.17544 on|0.19298 the|0.21053 left|0.22807 must|0.24561 be|0.26316 singular|0.2807 i|0.29825 e|0.31579 must|0.33333 not|0.35088 be|0.36842 invertible|0.38596 such|0.40351 that|0.42105 one|0.4386 cannot|0.45614 multiply|0.47368 both|0.49123 sides|0.50877 of|0.52632 the|0.54386 equation|0.5614 by|0.57895 the|0.59649 inverse|0.61404 leaving|0.63158 the|0.64912 right|0.66667 matrix|0.68421 equal|0.70175 to|0.7193 zero|0.73684 It|0.75439 follows|0.77193 that|0.78947 the|0.80702 determinant|0.82456 of|0.84211 the|0.85965 matrix|0.87719 must|0.89474 be|0.91228 equal|0.92982 to|0.94737 0|0.96491 so|0.98246 |1"
+		}
+	}
+}

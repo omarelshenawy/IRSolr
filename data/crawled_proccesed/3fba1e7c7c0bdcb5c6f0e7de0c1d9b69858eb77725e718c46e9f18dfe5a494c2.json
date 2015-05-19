@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fba1e7c7c0bdcb5c6f0e7de0c1d9b69858eb77725e718c46e9f18dfe5a494c2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Maltesisk_buss_1.jpg/350px-Maltesisk_buss_1.jpg",
+			"previous": " edit",
+			"after": " The old Maltese buses which were converted ex British Armed Forces vehicles were pressed into public transport as long ago as the early 1950s These classic buses have become tourist attractions among themselves due to their uniqueness and are depicted on many Maltese advertisements to promote tourism as well as on gifts and merchandise for tourists However these old buses are slowly being replaced by a more modern fleet ",
+			"color": "black|0.28638 dark|0.21704 golden|0.21704 rod|0.21704 dim|0.12204 gray|0.12204 dim|0.12204 grey|0.12204 golden|0.072228 rod|0.072228 gray|0.060055 grey|0.060055 dark|0.057614 gray|0.057614 dark|0.057614 grey|0.057614 slate|0.028239 gray|0.028239 tomato|0.023173 light|0.020184 slate|0.020184 gray|0.020184 silver|0.014953 royal|0.01311 blue|0.01311 peru|0.011305 firebrick|0.007717 brown|0.0074011  ",
+			"after_weights": " The|1 old|0.98551 Maltese|0.97101 buses|0.95652 which|0.94203 were|0.92754 converted|0.91304 ex|0.89855 British|0.88406 Armed|0.86957 Forces|0.85507 vehicles|0.84058 were|0.82609 pressed|0.81159 into|0.7971 public|0.78261 transport|0.76812 as|0.75362 long|0.73913 ago|0.72464 as|0.71014 the|0.69565 early|0.68116 1950s|0.66667 These|0.65217 classic|0.63768 buses|0.62319 have|0.6087 become|0.5942 tourist|0.57971 attractions|0.56522 among|0.55072 themselves|0.53623 due|0.52174 to|0.50725 their|0.49275 uniqueness|0.47826 and|0.46377 are|0.44928 depicted|0.43478 on|0.42029 many|0.4058 Maltese|0.3913 advertisements|0.37681 to|0.36232 promote|0.34783 tourism|0.33333 as|0.31884 well|0.30435 as|0.28986 on|0.27536 gifts|0.26087 and|0.24638 merchandise|0.23188 for|0.21739 tourists|0.2029 However|0.18841 these|0.17391 old|0.15942 buses|0.14493 are|0.13043 slowly|0.11594 being|0.10145 replaced|0.086957 by|0.072464 a|0.057971 more|0.043478 modern|0.028986 fleet|0.014493 |0",
+			"previous_weights": " edit|1"
+		}
+	}
+}

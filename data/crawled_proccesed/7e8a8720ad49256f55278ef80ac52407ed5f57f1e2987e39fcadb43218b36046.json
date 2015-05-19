@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e8a8720ad49256f55278ef80ac52407ed5f57f1e2987e39fcadb43218b36046",
+			"url": "https://upload.wikimedia.org/math/2/0/8/2087fb4763a6e238d1917e47e2a5aa29.png",
+			"previous": " ",
+			"after": " Similar interpretations are true for any number of vectors spanning an n dimensional parallelotope the outer product of vectors a1 a2 an that is has a magnitude equal to the volume of the n parallelotope An n vector doesn t necessarily have a shape of a parallelotope this is a convenient visualization It could be any shape although the volume equals that of the parallelotope ",
+			"color": "dim|0.30322 gray|0.30322 dim|0.30322 grey|0.30322 black|0.24442 gray|0.22289 grey|0.22289 dark|0.13344 gray|0.13344 dark|0.13344 grey|0.13344 silver|0.052074 light|0.02286 gray|0.02286 light|0.02286 grey|0.02286 gainsboro|0.014466  ",
+			"after_weights": " Similar|1 interpretations|0.98462 are|0.96923 true|0.95385 for|0.93846 any|0.92308 number|0.90769 of|0.89231 vectors|0.87692 spanning|0.86154 an|0.84615 n|0.83077 dimensional|0.81538 parallelotope|0.8 the|0.78462 outer|0.76923 product|0.75385 of|0.73846 vectors|0.72308 a1|0.70769 a2|0.69231 an|0.67692 that|0.66154 is|0.64615 has|0.63077 a|0.61538 magnitude|0.6 equal|0.58462 to|0.56923 the|0.55385 volume|0.53846 of|0.52308 the|0.50769 n|0.49231 parallelotope|0.47692 An|0.46154 n|0.44615 vector|0.43077 doesn|0.41538 t|0.4 necessarily|0.38462 have|0.36923 a|0.35385 shape|0.33846 of|0.32308 a|0.30769 parallelotope|0.29231 this|0.27692 is|0.26154 a|0.24615 convenient|0.23077 visualization|0.21538 It|0.2 could|0.18462 be|0.16923 any|0.15385 shape|0.13846 although|0.12308 the|0.10769 volume|0.092308 equals|0.076923 that|0.061538 of|0.046154 the|0.030769 parallelotope|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

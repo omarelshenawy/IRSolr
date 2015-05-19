@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6df644d5795f4bfdced9656b0e9fa129a49e3c83736cb449b5d9d49cc93fc397",
+			"url": "https://upload.wikimedia.org/math/4/3/6/436fa9b32750359d342d5bcb709a8ba0.png",
+			"previous": " Consider the following notation ",
+			"after": " This denotes the minimum value of the objective function when choosing x from the set of real numbers The minimum value in this case is occurring at  Similarly the notation",
+			"color": "dim|0.31174 gray|0.31174 dim|0.31174 grey|0.31174 black|0.22144 gray|0.21749 grey|0.21749 dark|0.13666 gray|0.13666 dark|0.13666 grey|0.13666 silver|0.055359 light|0.026431 gray|0.026431 light|0.026431 grey|0.026431 gainsboro|0.018522  ",
+			"after_weights": " This|1 denotes|0.96667 the|0.93333 minimum|0.9 value|0.86667 of|0.83333 the|0.8 objective|0.76667 function|0.73333 when|0.7 choosing|0.66667 x|0.63333 from|0.6 the|0.56667 set|0.53333 of|0.5 real|0.46667 numbers|0.43333 The|0.4 minimum|0.36667 value|0.33333 in|0.3 this|0.26667 case|0.23333 is|0.2 occurring|0.16667 at|0.13333 |0.1 Similarly|0.066667 the|0.033333 notation|0",
+			"previous_weights": " Consider|0 the|0.25 following|0.5 notation|0.75 |1"
+		}
+	}
+}

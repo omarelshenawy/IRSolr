@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bbb252b246166ffe4cbffee2233df62f92b964a47b7d5111d0bcc644d6d2f3c",
+			"url": "https://upload.wikimedia.org/math/c/2/a/c2a79f82f9c9783d20426062c9feebbe.png",
+			"previous": " Fix an structure and a natural number The set of definable subsets of over some parameters is a Boolean algebra By Stone s representation theorem for Boolean algebras there is a natural dual notion to this One can consider this to be the topological space consisting of maximal consistent sets of formulae over We call this the space of complete types over and write ",
+			"after": " One can show that for any type there exists some elementary extension of and some so that is the type of over ",
+			"color": "gray|0.27723 grey|0.27723 dim|0.27039 gray|0.27039 dim|0.27039 grey|0.27039 dark|0.20873 gray|0.20873 dark|0.20873 grey|0.20873 silver|0.10665 light|0.060407 gray|0.060407 light|0.060407 grey|0.060407 gainsboro|0.042357 white|0.0073301 smoke|0.0073301 lavender|0.0037091 blush|0.0037091 alice|0.0036059 blue|0.0036059 ghost|0.0034769 white|0.0034769 linen|0.0033628 sea|0.0033153 shell|0.0033153 snow|0.0031912  ",
+			"after_weights": " One|1 can|0.95455 show|0.90909 that|0.86364 for|0.81818 any|0.77273 type|0.72727 there|0.68182 exists|0.63636 some|0.59091 elementary|0.54545 extension|0.5 of|0.45455 and|0.40909 some|0.36364 so|0.31818 that|0.27273 is|0.22727 the|0.18182 type|0.13636 of|0.090909 over|0.045455 |0",
+			"previous_weights": " Fix|0 an|0.015625 structure|0.03125 and|0.046875 a|0.0625 natural|0.078125 number|0.09375 The|0.10938 set|0.125 of|0.14062 definable|0.15625 subsets|0.17188 of|0.1875 over|0.20312 some|0.21875 parameters|0.23438 is|0.25 a|0.26562 Boolean|0.28125 algebra|0.29688 By|0.3125 Stone|0.32812 s|0.34375 representation|0.35938 theorem|0.375 for|0.39062 Boolean|0.40625 algebras|0.42188 there|0.4375 is|0.45312 a|0.46875 natural|0.48438 dual|0.5 notion|0.51562 to|0.53125 this|0.54688 One|0.5625 can|0.57812 consider|0.59375 this|0.60938 to|0.625 be|0.64062 the|0.65625 topological|0.67188 space|0.6875 consisting|0.70312 of|0.71875 maximal|0.73438 consistent|0.75 sets|0.76562 of|0.78125 formulae|0.79688 over|0.8125 We|0.82812 call|0.84375 this|0.85938 the|0.875 space|0.89062 of|0.90625 complete|0.92188 types|0.9375 over|0.95312 and|0.96875 write|0.98438 |1"
+		}
+	}
+}

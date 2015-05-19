@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49d5f2da5a65b40f88215974c205ae067e89c0c6126335b5ffc10ee9712252fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Birao_burnt_down.jpg/140px-Birao_burnt_down.jpg",
+			"previous": " edit",
+			"after": " The Central African Republic Bush War began with the rebellion by the Union of Democratic Forces for Unity UFDR rebels led by Michel Detodia after the current President of the Central African Republic Fran ois Boziz seized power in 2003 However the real fighting began in 2004 The Civil War may be connected to the Darfur conflict in neighbouring Sudan The CAR government says the rebels are operating from Darfur with the support of the Sudanese authorities So far around 10 000 people have been displaced because of the civil unrest ",
+			"color": "black|0.84291 dim|0.11359 gray|0.11359 dim|0.11359 grey|0.11359 gray|0.032836 grey|0.032836  ",
+			"after_weights": " The|1 Central|0.98901 African|0.97802 Republic|0.96703 Bush|0.95604 War|0.94505 began|0.93407 with|0.92308 the|0.91209 rebellion|0.9011 by|0.89011 the|0.87912 Union|0.86813 of|0.85714 Democratic|0.84615 Forces|0.83516 for|0.82418 Unity|0.81319 UFDR|0.8022 rebels|0.79121 led|0.78022 by|0.76923 Michel|0.75824 Detodia|0.74725 after|0.73626 the|0.72527 current|0.71429 President|0.7033 of|0.69231 the|0.68132 Central|0.67033 African|0.65934 Republic|0.64835 Fran|0.63736 ois|0.62637 Boziz|0.61538 seized|0.6044 power|0.59341 in|0.58242 2003|0.57143 However|0.56044 the|0.54945 real|0.53846 fighting|0.52747 began|0.51648 in|0.50549 2004|0.49451 The|0.48352 Civil|0.47253 War|0.46154 may|0.45055 be|0.43956 connected|0.42857 to|0.41758 the|0.40659 Darfur|0.3956 conflict|0.38462 in|0.37363 neighbouring|0.36264 Sudan|0.35165 The|0.34066 CAR|0.32967 government|0.31868 says|0.30769 the|0.2967 rebels|0.28571 are|0.27473 operating|0.26374 from|0.25275 Darfur|0.24176 with|0.23077 the|0.21978 support|0.20879 of|0.1978 the|0.18681 Sudanese|0.17582 authorities|0.16484 So|0.15385 far|0.14286 around|0.13187 10|0.12088 000|0.10989 people|0.098901 have|0.087912 been|0.076923 displaced|0.065934 because|0.054945 of|0.043956 the|0.032967 civil|0.021978 unrest|0.010989 |0",
+			"previous_weights": " edit|1"
+		}
+	}
+}

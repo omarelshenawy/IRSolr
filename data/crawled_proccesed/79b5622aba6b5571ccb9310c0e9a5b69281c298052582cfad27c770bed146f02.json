@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "79b5622aba6b5571ccb9310c0e9a5b69281c298052582cfad27c770bed146f02",
+			"url": "https://upload.wikimedia.org/math/4/8/e/48eea9bb1349ad48918671c0d8ab39a2.png",
+			"previous": "  where we define an to mean 1 which is reasonable since 1 is indeed the n th coefficient of our polynomial The case of a generic polynomial of degree n is of course reduced to the case of a monic dividing all coefficients by an 0 Also in case that 0 is not a root i e a0 0 bounds from below on the roots follow immediately as bounds from above on that is the roots of Finally the distance from the roots to any point can be estimated from below and above seeing as zeros of the polynomial whose coefficients are the Taylor expansion of P z at",
+			"after": " ",
+			"color": "dim|0.34081 gray|0.34081 dim|0.34081 grey|0.34081 gray|0.28679 grey|0.28679 dark|0.26419 gray|0.26419 dark|0.26419 grey|0.26419 silver|0.054861 light|0.025313 gray|0.025313 light|0.025313 grey|0.025313 gainsboro|0.017157  ",
+			"after_weights": " ",
+			"previous_weights": " |0 where|0.0091743 we|0.018349 define|0.027523 an|0.036697 to|0.045872 mean|0.055046 1|0.06422 which|0.073394 is|0.082569 reasonable|0.091743 since|0.10092 1|0.11009 is|0.11927 indeed|0.12844 the|0.13761 n|0.14679 th|0.15596 coefficient|0.16514 of|0.17431 our|0.18349 polynomial|0.19266 The|0.20183 case|0.21101 of|0.22018 a|0.22936 generic|0.23853 polynomial|0.24771 of|0.25688 degree|0.26606 n|0.27523 is|0.2844 of|0.29358 course|0.30275 reduced|0.31193 to|0.3211 the|0.33028 case|0.33945 of|0.34862 a|0.3578 monic|0.36697 dividing|0.37615 all|0.38532 coefficients|0.3945 by|0.40367 an|0.41284 0|0.42202 Also|0.43119 in|0.44037 case|0.44954 that|0.45872 0|0.46789 is|0.47706 not|0.48624 a|0.49541 root|0.50459 i|0.51376 e|0.52294 a0|0.53211 0|0.54128 bounds|0.55046 from|0.55963 below|0.56881 on|0.57798 the|0.58716 roots|0.59633 follow|0.6055 immediately|0.61468 as|0.62385 bounds|0.63303 from|0.6422 above|0.65138 on|0.66055 that|0.66972 is|0.6789 the|0.68807 roots|0.69725 of|0.70642 Finally|0.7156 the|0.72477 distance|0.73394 from|0.74312 the|0.75229 roots|0.76147 to|0.77064 any|0.77982 point|0.78899 can|0.79817 be|0.80734 estimated|0.81651 from|0.82569 below|0.83486 and|0.84404 above|0.85321 seeing|0.86239 as|0.87156 zeros|0.88073 of|0.88991 the|0.89908 polynomial|0.90826 whose|0.91743 coefficients|0.92661 are|0.93578 the|0.94495 Taylor|0.95413 expansion|0.9633 of|0.97248 P|0.98165 z|0.99083 at|1"
+		}
+	}
+}

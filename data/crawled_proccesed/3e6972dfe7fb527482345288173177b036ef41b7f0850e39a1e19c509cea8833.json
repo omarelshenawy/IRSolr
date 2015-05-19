@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e6972dfe7fb527482345288173177b036ef41b7f0850e39a1e19c509cea8833",
+			"url": "https://upload.wikimedia.org/math/b/6/9/b69f2c5e55c1071f7319a2605909a632.png",
+			"previous": " In mathematical terms the speed is defined as the magnitude of the velocity that is the derivative of the position with respect to time ",
+			"after": " If is the length of the path travelled until time the speed equals the time derivative of ",
+			"color": "dim|0.23411 gray|0.23411 dim|0.23411 grey|0.23411 dark|0.20806 gray|0.20806 dark|0.20806 grey|0.20806 gray|0.1906 grey|0.1906 black|0.18176 silver|0.089385 light|0.049739 gray|0.049739 light|0.049739 grey|0.049739 gainsboro|0.043742  ",
+			"after_weights": " If|1 is|0.94118 the|0.88235 length|0.82353 of|0.76471 the|0.70588 path|0.64706 travelled|0.58824 until|0.52941 time|0.47059 the|0.41176 speed|0.35294 equals|0.29412 the|0.23529 time|0.17647 derivative|0.11765 of|0.058824 |0",
+			"previous_weights": " In|0 mathematical|0.041667 terms|0.083333 the|0.125 speed|0.16667 is|0.20833 defined|0.25 as|0.29167 the|0.33333 magnitude|0.375 of|0.41667 the|0.45833 velocity|0.5 that|0.54167 is|0.58333 the|0.625 derivative|0.66667 of|0.70833 the|0.75 position|0.79167 with|0.83333 respect|0.875 to|0.91667 time|0.95833 |1"
+		}
+	}
+}

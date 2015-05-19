@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e4c5265cb350715330830a2948b367ed63d4e0ef9cdf5a86a87b7f00f184c88",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cessna.f172g.g-bgmp.arp.jpg/220px-Cessna.f172g.g-bgmp.arp.jpg",
+			"previous": " A total of 1 436 172Fs were completed 14 ",
+			"after": " The 1966 model year 172G introduced a more pointed spinner and sold for US 12 450 in its basic 172 version and US 13 300 in the upgraded Skyhawk version 1 597 were built 14 ",
+			"color": "light|0.28562 blue|0.28562 light|0.20156 steel|0.20156 blue|0.20156 lavender|0.13996 dark|0.04333 gray|0.04333 dark|0.04333 grey|0.04333 dim|0.042149 gray|0.042149 dim|0.042149 grey|0.042149 gray|0.037619 grey|0.037619 light|0.036889 gray|0.036889 light|0.036889 grey|0.036889 gainsboro|0.028599 silver|0.028512 dark|0.027461 slate|0.027461 gray|0.027461 black|0.019286 dark|0.010067 olive|0.010067 green|0.010067 alice|0.0097308 blue|0.0097308 light|0.0081572 slate|0.0081572 gray|0.0081572 white|0.0067439 smoke|0.0067439 slate|0.0063308 gray|0.0063308 ghost|0.0062742 white|0.0062742 azure|0.0056859 powder|0.0052582 blue|0.0052582 mint|0.0046355 cream|0.0046355 white|0.0041741 snow|0.0041699 light|0.0039605 cyan|0.0039605  ",
+			"after_weights": " The|1 1966|0.97143 model|0.94286 year|0.91429 172G|0.88571 introduced|0.85714 a|0.82857 more|0.8 pointed|0.77143 spinner|0.74286 and|0.71429 sold|0.68571 for|0.65714 US|0.62857 12|0.6 450|0.57143 in|0.54286 its|0.51429 basic|0.48571 172|0.45714 version|0.42857 and|0.4 US|0.37143 13|0.34286 300|0.31429 in|0.28571 the|0.25714 upgraded|0.22857 Skyhawk|0.2 version|0.17143 1|0.14286 597|0.11429 were|0.085714 built|0.057143 14|0.028571 |0",
+			"previous_weights": " A|0 total|0.11111 of|0.22222 1|0.33333 436|0.44444 172Fs|0.55556 were|0.66667 completed|0.77778 14|0.88889 |1"
+		}
+	}
+}

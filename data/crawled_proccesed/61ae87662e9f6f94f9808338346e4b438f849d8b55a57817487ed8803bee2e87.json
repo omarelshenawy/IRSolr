@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "61ae87662e9f6f94f9808338346e4b438f849d8b55a57817487ed8803bee2e87",
+			"url": "https://upload.wikimedia.org/math/f/e/0/fe0ee435f8c58b4bb8295ca8003b9724.png",
+			"previous": " The reflection c of a vector c along a vector m or equivalently in the hyperplane orthogonal to m is the same as negating the component of a vector parallel to m The result of the reflection will be",
+			"after": " This is not the most general operation that may be regarded as a reflection when the dimension n 4 A general reflection may be expressed as the composite of any odd number of single axis reflections Thus a general reflection a of a vector a may be written",
+			"color": "dim|0.38318 gray|0.38318 dim|0.38318 grey|0.38318 gray|0.27152 grey|0.27152 dark|0.17065 gray|0.17065 dark|0.17065 grey|0.17065 silver|0.084961 light|0.042477 gray|0.042477 light|0.042477 grey|0.042477 gainsboro|0.030438 white|0.003973 smoke|0.003973  ",
+			"after_weights": " This|1 is|0.97872 not|0.95745 the|0.93617 most|0.91489 general|0.89362 operation|0.87234 that|0.85106 may|0.82979 be|0.80851 regarded|0.78723 as|0.76596 a|0.74468 reflection|0.7234 when|0.70213 the|0.68085 dimension|0.65957 n|0.6383 4|0.61702 A|0.59574 general|0.57447 reflection|0.55319 may|0.53191 be|0.51064 expressed|0.48936 as|0.46809 the|0.44681 composite|0.42553 of|0.40426 any|0.38298 odd|0.3617 number|0.34043 of|0.31915 single|0.29787 axis|0.2766 reflections|0.25532 Thus|0.23404 a|0.21277 general|0.19149 reflection|0.17021 a|0.14894 of|0.12766 a|0.10638 vector|0.085106 a|0.06383 may|0.042553 be|0.021277 written|0",
+			"previous_weights": " The|0 reflection|0.026316 c|0.052632 of|0.078947 a|0.10526 vector|0.13158 c|0.15789 along|0.18421 a|0.21053 vector|0.23684 m|0.26316 or|0.28947 equivalently|0.31579 in|0.34211 the|0.36842 hyperplane|0.39474 orthogonal|0.42105 to|0.44737 m|0.47368 is|0.5 the|0.52632 same|0.55263 as|0.57895 negating|0.60526 the|0.63158 component|0.65789 of|0.68421 a|0.71053 vector|0.73684 parallel|0.76316 to|0.78947 m|0.81579 The|0.84211 result|0.86842 of|0.89474 the|0.92105 reflection|0.94737 will|0.97368 be|1"
+		}
+	}
+}

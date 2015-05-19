@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Y%27allMap.jpg/300px-Y%27allMap.jpg",
 			"previous": " The following features are commonly associated with the Southern dialects of the U S ",
 			"after": " These grammatical features are characteristic of both older Southern American English and newer Southern American English ",
+			"color": "dim|0.087529 gray|0.087529 dim|0.087529 grey|0.087529 white|0.084833 smoke|0.084833 alice|0.079324 blue|0.079324 ghost|0.076119 white|0.076119 sea|0.075982 shell|0.075982 snow|0.075736 mint|0.073338 cream|0.073338 white|0.072454 azure|0.066867 floral|0.060436 white|0.060436 lavender|0.049756 blush|0.049756 gainsboro|0.044154 linen|0.03839 light|0.034666 gray|0.034666 light|0.034666 grey|0.034666 dark|0.03064 gray|0.03064 dark|0.03064 grey|0.03064 silver|0.024339 gray|0.023999 grey|0.023999  ",
 			"after_weights": " These|1 grammatical|0.9375 features|0.875 are|0.8125 characteristic|0.75 of|0.6875 both|0.625 older|0.5625 Southern|0.5 American|0.4375 English|0.375 and|0.3125 newer|0.25 Southern|0.1875 American|0.125 English|0.0625 |0",
 			"previous_weights": " The|0 following|0.071429 features|0.14286 are|0.21429 commonly|0.28571 associated|0.35714 with|0.42857 the|0.5 Southern|0.57143 dialects|0.64286 of|0.71429 the|0.78571 U|0.85714 S|0.92857 |1"
 		}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fd277f3fc0165f87dcc7f7779b313e010a518b3138495f265a1035c6a75d4b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/International_Airport_Silvio_Pettirossi_by_Felipe_M%C3%A9ndez.jpg/220px-International_Airport_Silvio_Pettirossi_by_Felipe_M%C3%A9ndez.jpg",
+			"previous": " ",
+			"after": " Because the Paraguay River runs right next to Asunci n the city is served by a river terminal in the downtown area This port is strategically located inside a bay and it is where most freight enters and leaves the country There is a lesser terminal in the Sajonia neighbourhood and a shuttle port in Ita Enramada almost opposite the Argentine city of Clorinda Formosa ",
+			"color": "silver|0.20974 gray|0.18001 grey|0.18001 black|0.14332 dim|0.12709 gray|0.12709 dim|0.12709 grey|0.12709 dark|0.083299 gray|0.083299 dark|0.083299 grey|0.083299 dark|0.051066 slate|0.051066 gray|0.051066 slate|0.046438 gray|0.046438 light|0.032983 gray|0.032983 light|0.032983 grey|0.032983 light|0.02905 slate|0.02905 gray|0.02905 olive|0.026422 drab|0.026422 dark|0.023015 olive|0.023015 green|0.023015 gainsboro|0.010573 antique|0.010037 white|0.010037  ",
+			"after_weights": " Because|1 the|0.98462 Paraguay|0.96923 River|0.95385 runs|0.93846 right|0.92308 next|0.90769 to|0.89231 Asunci|0.87692 n|0.86154 the|0.84615 city|0.83077 is|0.81538 served|0.8 by|0.78462 a|0.76923 river|0.75385 terminal|0.73846 in|0.72308 the|0.70769 downtown|0.69231 area|0.67692 This|0.66154 port|0.64615 is|0.63077 strategically|0.61538 located|0.6 inside|0.58462 a|0.56923 bay|0.55385 and|0.53846 it|0.52308 is|0.50769 where|0.49231 most|0.47692 freight|0.46154 enters|0.44615 and|0.43077 leaves|0.41538 the|0.4 country|0.38462 There|0.36923 is|0.35385 a|0.33846 lesser|0.32308 terminal|0.30769 in|0.29231 the|0.27692 Sajonia|0.26154 neighbourhood|0.24615 and|0.23077 a|0.21538 shuttle|0.2 port|0.18462 in|0.16923 Ita|0.15385 Enramada|0.13846 almost|0.12308 opposite|0.10769 the|0.092308 Argentine|0.076923 city|0.061538 of|0.046154 Clorinda|0.030769 Formosa|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

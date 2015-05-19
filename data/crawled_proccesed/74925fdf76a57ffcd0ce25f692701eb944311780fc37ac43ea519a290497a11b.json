@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "74925fdf76a57ffcd0ce25f692701eb944311780fc37ac43ea519a290497a11b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/100px-Nickelodeon_logo_new.svg.png",
+			"previous": " ",
+			"after": " Sister networks Nick Jr Nicktoons TeenNick List of programms Nickelodeon Nick at Nite Nick Jr Nicktoons TeenNick Internet services Nick com The Club Nick Video Outreach programs The Big Help Let s Just Play Go Healthy Challenge Worldwide Day of Play",
+			"color": "sandy|0.63317 brown|0.63317 burly|0.16055 wood|0.16055 peach|0.06711 puff|0.06711 navajo|0.052684 white|0.052684 bisque|0.020674 wheat|0.019667  ",
+			"after_weights": " Sister|1 networks|0.975 Nick|0.95 Jr|0.925 Nicktoons|0.9 TeenNick|0.875 List|0.85 of|0.825 programms|0.8 Nickelodeon|0.775 Nick|0.75 at|0.725 Nite|0.7 Nick|0.675 Jr|0.65 Nicktoons|0.625 TeenNick|0.6 Internet|0.575 services|0.55 Nick|0.525 com|0.5 The|0.475 Club|0.45 Nick|0.425 Video|0.4 Outreach|0.375 programs|0.35 The|0.325 Big|0.3 Help|0.275 Let|0.25 s|0.225 Just|0.2 Play|0.175 Go|0.15 Healthy|0.125 Challenge|0.1 Worldwide|0.075 Day|0.05 of|0.025 Play|0",
+			"previous_weights": " "
+		}
+	}
+}

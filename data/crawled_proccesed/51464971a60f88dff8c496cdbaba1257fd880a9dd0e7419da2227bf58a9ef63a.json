@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "51464971a60f88dff8c496cdbaba1257fd880a9dd0e7419da2227bf58a9ef63a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Man_22_4_11_%285645143461%29.jpg/220px-Man_22_4_11_%285645143461%29.jpg",
+			"previous": " Passenger numbers at Manchester peaked in 2006 when over 22 4 million passed through the airport In 2014 around 22 million passengers used the airport an increase of 6 compared with 2013 making Manchester the third busiest airport in the UK in terms of annual passenger throughput 3 ",
+			"after": " ",
+			"color": "dim|0.27017 gray|0.27017 dim|0.27017 grey|0.27017 dark|0.17615 slate|0.17615 gray|0.17615 gray|0.071691 grey|0.071691 dark|0.061284 olive|0.061284 green|0.061284 dark|0.060049 gray|0.060049 dark|0.060049 grey|0.060049 slate|0.055669 gray|0.055669 silver|0.043639 light|0.041286 gray|0.041286 light|0.041286 grey|0.041286 light|0.041066 slate|0.041066 gray|0.041066 gainsboro|0.037459 lavender|0.028412 light|0.020968 steel|0.020968 blue|0.020968 alice|0.017361 blue|0.017361 ghost|0.015388 white|0.015388 white|0.014159 smoke|0.014159 black|0.010892 lavender|0.0093873 blush|0.0093873  ",
+			"after_weights": " ",
+			"previous_weights": " Passenger|0 numbers|0.020833 at|0.041667 Manchester|0.0625 peaked|0.083333 in|0.10417 2006|0.125 when|0.14583 over|0.16667 22|0.1875 4|0.20833 million|0.22917 passed|0.25 through|0.27083 the|0.29167 airport|0.3125 In|0.33333 2014|0.35417 around|0.375 22|0.39583 million|0.41667 passengers|0.4375 used|0.45833 the|0.47917 airport|0.5 an|0.52083 increase|0.54167 of|0.5625 6|0.58333 compared|0.60417 with|0.625 2013|0.64583 making|0.66667 Manchester|0.6875 the|0.70833 third|0.72917 busiest|0.75 airport|0.77083 in|0.79167 the|0.8125 UK|0.83333 in|0.85417 terms|0.875 of|0.89583 annual|0.91667 passenger|0.9375 throughput|0.95833 3|0.97917 |1"
+		}
+	}
+}

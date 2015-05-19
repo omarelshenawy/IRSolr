@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "33f64b82530b697d8f6797a36f039d6a5ff64441bf36c97733b54c6bb3970356",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Typhoon_deploying_parachute_arp.jpg/220px-Typhoon_deploying_parachute_arp.jpg",
+			"previous": " ",
+			"after": " A drogue parachute is a parachute designed to be deployed from a rapidly moving object in order to slow the object to provide control and stability or as a pilot parachute to deploy a larger parachute It was invented by Giovanni Agusta in 1911 ",
+			"color": "dark|0.30437 khaki|0.30437 dark|0.083481 gray|0.083481 dark|0.083481 grey|0.083481 silver|0.0774 black|0.066726 dark|0.057223 slate|0.057223 gray|0.057223 light|0.042831 gray|0.042831 light|0.042831 grey|0.042831 tan|0.042335 dim|0.030842 gray|0.030842 dim|0.030842 grey|0.030842 gainsboro|0.02941 gray|0.024017 grey|0.024017 burly|0.023193 wood|0.023193 wheat|0.017227 dark|0.012614 olive|0.012614 green|0.012614 antique|0.011383 white|0.011383 beige|0.01101 papaya|0.0098869 whip|0.0098869 old|0.0098108 lace|0.0098108 linen|0.0097513 corn|0.0094939 silk|0.0094939 floral|0.0088605 white|0.0088605 ivory|0.0084409  ",
+			"after_weights": " A|1 drogue|0.97727 parachute|0.95455 is|0.93182 a|0.90909 parachute|0.88636 designed|0.86364 to|0.84091 be|0.81818 deployed|0.79545 from|0.77273 a|0.75 rapidly|0.72727 moving|0.70455 object|0.68182 in|0.65909 order|0.63636 to|0.61364 slow|0.59091 the|0.56818 object|0.54545 to|0.52273 provide|0.5 control|0.47727 and|0.45455 stability|0.43182 or|0.40909 as|0.38636 a|0.36364 pilot|0.34091 parachute|0.31818 to|0.29545 deploy|0.27273 a|0.25 larger|0.22727 parachute|0.20455 It|0.18182 was|0.15909 invented|0.13636 by|0.11364 Giovanni|0.090909 Agusta|0.068182 in|0.045455 1911|0.022727 |0",
+			"previous_weights": " "
+		}
+	}
+}

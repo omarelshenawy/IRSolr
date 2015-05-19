@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a1b06d89e72692db0e648eaa72871085efba96a85d68f51e9f4238df32b63bc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Greylakesluice.jpg/220px-Greylakesluice.jpg",
+			"previous": " ",
+			"after": " Flooding of adjacent moor land was partially addressed during the 13th century by the construction of a number of embankment walls to contain the Parrett They included Southlake Wall Burrow Wall and Lake Wall 40 The River Tone was also diverted by the Abbot of Athelney and other land owners into a new embanked channel joining the Parrett upstream from its original confluence 41 ",
+			"color": "dim|0.33635 gray|0.33635 dim|0.33635 grey|0.33635 gray|0.24045 grey|0.24045 silver|0.11003 dark|0.094841 gray|0.094841 dark|0.094841 grey|0.094841 light|0.093376 gray|0.093376 light|0.093376 grey|0.093376 gainsboro|0.060203 black|0.035261 slate|0.018667 gray|0.018667 lavender|0.0064638 light|0.0042081 slate|0.0042081 gray|0.0042081  ",
+			"after_weights": " Flooding|1 of|0.98438 adjacent|0.96875 moor|0.95312 land|0.9375 was|0.92188 partially|0.90625 addressed|0.89062 during|0.875 the|0.85938 13th|0.84375 century|0.82812 by|0.8125 the|0.79688 construction|0.78125 of|0.76562 a|0.75 number|0.73438 of|0.71875 embankment|0.70312 walls|0.6875 to|0.67188 contain|0.65625 the|0.64062 Parrett|0.625 They|0.60938 included|0.59375 Southlake|0.57812 Wall|0.5625 Burrow|0.54688 Wall|0.53125 and|0.51562 Lake|0.5 Wall|0.48438 40|0.46875 The|0.45312 River|0.4375 Tone|0.42188 was|0.40625 also|0.39062 diverted|0.375 by|0.35938 the|0.34375 Abbot|0.32812 of|0.3125 Athelney|0.29688 and|0.28125 other|0.26562 land|0.25 owners|0.23438 into|0.21875 a|0.20312 new|0.1875 embanked|0.17188 channel|0.15625 joining|0.14062 the|0.125 Parrett|0.10938 upstream|0.09375 from|0.078125 its|0.0625 original|0.046875 confluence|0.03125 41|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "606f5175f4c6f96f9c51b6dc40260f68d0be34d3a313da3232e3a86fc32b1b59",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Royal_Arms_of_England_%281395-1399%29.svg/220px-Royal_Arms_of_England_%281395-1399%29.svg.png",
+			"previous": " ",
+			"after": " This species lacks the wealth of literary references associated with its relative the barn swallow although it is possible that some of the older mentions for that bird might equally well refer to the house martin 30 William Shakespeare was clearly describing the house martin when Banquo brings the nests and birds to the attention of Duncan at Macbeth s castle Inverness ",
+			"color": "firebrick|0.31261 khaki|0.22324 dark|0.18875 golden|0.18875 rod|0.18875 golden|0.04876 rod|0.04876 saddle|0.038226 brown|0.038226 gold|0.037037 crimson|0.031431 pale|0.020897 golden|0.020897 rod|0.020897 peru|0.017329 chocolate|0.01631  ",
+			"after_weights": " This|1 species|0.98387 lacks|0.96774 the|0.95161 wealth|0.93548 of|0.91935 literary|0.90323 references|0.8871 associated|0.87097 with|0.85484 its|0.83871 relative|0.82258 the|0.80645 barn|0.79032 swallow|0.77419 although|0.75806 it|0.74194 is|0.72581 possible|0.70968 that|0.69355 some|0.67742 of|0.66129 the|0.64516 older|0.62903 mentions|0.6129 for|0.59677 that|0.58065 bird|0.56452 might|0.54839 equally|0.53226 well|0.51613 refer|0.5 to|0.48387 the|0.46774 house|0.45161 martin|0.43548 30|0.41935 William|0.40323 Shakespeare|0.3871 was|0.37097 clearly|0.35484 describing|0.33871 the|0.32258 house|0.30645 martin|0.29032 when|0.27419 Banquo|0.25806 brings|0.24194 the|0.22581 nests|0.20968 and|0.19355 birds|0.17742 to|0.16129 the|0.14516 attention|0.12903 of|0.1129 Duncan|0.096774 at|0.080645 Macbeth|0.064516 s|0.048387 castle|0.032258 Inverness|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

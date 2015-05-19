@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "732e60860713263da124d0eb1afdfe369dd5c9b0cb355dbc835745362c9ecca8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Paarden_tandem.jpg/220px-Paarden_tandem.jpg",
+			"previous": " Stall US stable UK  Stable hand US stable lad lass UK  Silhouette or outline diagram Ridgling rig",
+			"after": " Tie stall US stall UK  Trap pony trap Veterinarian US veterinary surgeon UK informal vet",
+			"color": "black|0.36755 dark|0.14863 olive|0.14863 green|0.14863 dark|0.093132 khaki|0.093132 tan|0.052742 dim|0.034803 gray|0.034803 dim|0.034803 grey|0.034803 gray|0.026736 grey|0.026736 dark|0.020867 gray|0.020867 dark|0.020867 grey|0.020867 burly|0.016052 wood|0.016052 olive|0.015961 drab|0.015961 rosy|0.015888 brown|0.015888 sienna|0.013948  ",
+			"after_weights": " Tie|1 stall|0.93333 US|0.86667 stall|0.8 UK|0.73333 |0.66667 Trap|0.6 pony|0.53333 trap|0.46667 Veterinarian|0.4 US|0.33333 veterinary|0.26667 surgeon|0.2 UK|0.13333 informal|0.066667 vet|0",
+			"previous_weights": " Stall|0 US|0.055556 stable|0.11111 UK|0.16667 |0.22222 Stable|0.27778 hand|0.33333 US|0.38889 stable|0.44444 lad|0.5 lass|0.55556 UK|0.61111 |0.66667 Silhouette|0.72222 or|0.77778 outline|0.83333 diagram|0.88889 Ridgling|0.94444 rig|1"
+		}
+	}
+}

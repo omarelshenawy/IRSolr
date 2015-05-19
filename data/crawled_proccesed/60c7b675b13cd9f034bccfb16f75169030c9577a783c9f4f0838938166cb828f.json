@@ -5,6 +5,7 @@
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/20px-Gtk-dialog-info.svg.png",
 			"previous": " ",
 			"after": " For comprehensive lists of pages requiring cleanup which are automatically generated from the cleanup banners placed on articles please refer to  For older articles with issues that have not been dealt with in some time refer to ",
+			"color": "light|0.34649 steel|0.34649 blue|0.34649 gainsboro|0.060072 light|0.054826 gray|0.054826 light|0.054826 grey|0.054826 light|0.052406 blue|0.052406 white|0.049318 smoke|0.049318 steel|0.045913 blue|0.045913 snow|0.038933 ghost|0.037828 white|0.037828 sea|0.035902 shell|0.035902 white|0.035186 lavender|0.034651 blush|0.034651 lavender|0.033643 alice|0.031393 blue|0.031393 linen|0.030542 floral|0.029376 white|0.029376 mint|0.02927 cream|0.02927  ",
 			"after_weights": " For|1 comprehensive|0.97368 lists|0.94737 of|0.92105 pages|0.89474 requiring|0.86842 cleanup|0.84211 which|0.81579 are|0.78947 automatically|0.76316 generated|0.73684 from|0.71053 the|0.68421 cleanup|0.65789 banners|0.63158 placed|0.60526 on|0.57895 articles|0.55263 please|0.52632 refer|0.5 to|0.47368 |0.44737 For|0.42105 older|0.39474 articles|0.36842 with|0.34211 issues|0.31579 that|0.28947 have|0.26316 not|0.23684 been|0.21053 dealt|0.18421 with|0.15789 in|0.13158 some|0.10526 time|0.078947 refer|0.052632 to|0.026316 |0",
 			"previous_weights": " "
 		}

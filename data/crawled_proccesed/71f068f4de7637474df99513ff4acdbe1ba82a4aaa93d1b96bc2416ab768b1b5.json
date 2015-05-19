@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71f068f4de7637474df99513ff4acdbe1ba82a4aaa93d1b96bc2416ab768b1b5",
+			"url": "https://upload.wikimedia.org/math/1/9/5/195d3aa138930746645f24b60700a4bf.png",
+			"previous": " Consider n dimensional vectors that are formed as a list of n real numbers such as the three dimensional vectors ",
+			"after": " These vectors are said to be scalar multiples of each other also parallel or collinear if there is a scalar such that",
+			"color": "black|0.43922 gray|0.20006 grey|0.20006 dim|0.16942 gray|0.16942 dim|0.16942 grey|0.16942 dark|0.13555 gray|0.13555 dark|0.13555 grey|0.13555 silver|0.047484 light|0.0062748 gray|0.0062748 light|0.0062748 grey|0.0062748  ",
+			"after_weights": " These|1 vectors|0.95238 are|0.90476 said|0.85714 to|0.80952 be|0.7619 scalar|0.71429 multiples|0.66667 of|0.61905 each|0.57143 other|0.52381 also|0.47619 parallel|0.42857 or|0.38095 collinear|0.33333 if|0.28571 there|0.2381 is|0.19048 a|0.14286 scalar|0.095238 such|0.047619 that|0",
+			"previous_weights": " Consider|0 n|0.05 dimensional|0.1 vectors|0.15 that|0.2 are|0.25 formed|0.3 as|0.35 a|0.4 list|0.45 of|0.5 n|0.55 real|0.6 numbers|0.65 such|0.7 as|0.75 the|0.8 three|0.85 dimensional|0.9 vectors|0.95 |1"
+		}
+	}
+}

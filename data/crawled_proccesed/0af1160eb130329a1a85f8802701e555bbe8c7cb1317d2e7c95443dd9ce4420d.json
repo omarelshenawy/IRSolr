@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0af1160eb130329a1a85f8802701e555bbe8c7cb1317d2e7c95443dd9ce4420d",
+			"url": "https://upload.wikimedia.org/math/b/e/6/be6f748e3fea006ffa5a2c7b233c96f9.png",
+			"previous": " Similarly we have and a straightforward computation gives The expression for is the same with and exchanged Thus using we get",
+			"after": " When solving Equation 1 we have With Equation 2 we have and and thus  Note that with Equation 2 we have and while in Cardano s method we have set and Thus we have up to the exchange of and ",
+			"color": "dim|0.36376 gray|0.36376 dim|0.36376 grey|0.36376 gray|0.27363 grey|0.27363 dark|0.18535 gray|0.18535 dark|0.18535 grey|0.18535 silver|0.085109 light|0.043991 gray|0.043991 light|0.043991 grey|0.043991 gainsboro|0.031409 white|0.0045366 smoke|0.0045366  ",
+			"after_weights": " When|1 solving|0.97561 Equation|0.95122 1|0.92683 we|0.90244 have|0.87805 With|0.85366 Equation|0.82927 2|0.80488 we|0.78049 have|0.7561 and|0.73171 and|0.70732 thus|0.68293 |0.65854 Note|0.63415 that|0.60976 with|0.58537 Equation|0.56098 2|0.53659 we|0.5122 have|0.4878 and|0.46341 while|0.43902 in|0.41463 Cardano|0.39024 s|0.36585 method|0.34146 we|0.31707 have|0.29268 set|0.26829 and|0.2439 Thus|0.21951 we|0.19512 have|0.17073 up|0.14634 to|0.12195 the|0.097561 exchange|0.073171 of|0.04878 and|0.02439 |0",
+			"previous_weights": " Similarly|0 we|0.05 have|0.1 and|0.15 a|0.2 straightforward|0.25 computation|0.3 gives|0.35 The|0.4 expression|0.45 for|0.5 is|0.55 the|0.6 same|0.65 with|0.7 and|0.75 exchanged|0.8 Thus|0.85 using|0.9 we|0.95 get|1"
+		}
+	}
+}

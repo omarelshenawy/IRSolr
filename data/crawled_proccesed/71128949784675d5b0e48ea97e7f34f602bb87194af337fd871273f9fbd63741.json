@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71128949784675d5b0e48ea97e7f34f602bb87194af337fd871273f9fbd63741",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Boeing_FB-5.jpg/220px-Boeing_FB-5.jpg",
+			"previous": " Ten built as FB 1s from initial order of 16 remaining six modified to other sub types FB 2 FB 3 FB 4 Powered by a 435 hp 324 kW Curtiss D 12 Initial Navy delivery shore based only ",
+			"after": " Data from Boeing Aircraft since 1916 9 ",
+			"color": "dim|0.21992 gray|0.21992 dim|0.21992 grey|0.21992 light|0.12471 steel|0.12471 blue|0.12471 light|0.11185 slate|0.11185 gray|0.11185 gray|0.10869 grey|0.10869 slate|0.095505 gray|0.095505 dark|0.073772 gray|0.073772 dark|0.073772 grey|0.073772 sandy|0.040576 brown|0.040576 peru|0.040252 silver|0.024436 sienna|0.018437 black|0.018321 rosy|0.016656 brown|0.016656 lavender|0.013725 thistle|0.012307 light|0.010775 gray|0.010775 light|0.010775 grey|0.010775  ",
+			"after_weights": " Data|1 from|0.85714 Boeing|0.71429 Aircraft|0.57143 since|0.42857 1916|0.28571 9|0.14286 |0",
+			"previous_weights": " Ten|0 built|0.025641 as|0.051282 FB|0.076923 1s|0.10256 from|0.12821 initial|0.15385 order|0.17949 of|0.20513 16|0.23077 remaining|0.25641 six|0.28205 modified|0.30769 to|0.33333 other|0.35897 sub|0.38462 types|0.41026 FB|0.4359 2|0.46154 FB|0.48718 3|0.51282 FB|0.53846 4|0.5641 Powered|0.58974 by|0.61538 a|0.64103 435|0.66667 hp|0.69231 324|0.71795 kW|0.74359 Curtiss|0.76923 D|0.79487 12|0.82051 Initial|0.84615 Navy|0.87179 delivery|0.89744 shore|0.92308 based|0.94872 only|0.97436 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "86d4b2cd6b122060a47d44313ad23dc674b299a872b3f5dd6323d550515446d6",
+			"url": "https://upload.wikimedia.org/math/3/2/f/32fa2e6a34b49c72cf16575588367217.png",
+			"previous": " These statements generalize to any left module RM over a ring R without modification and to any right module upon reversing of the scalar multiplication  A linear map from V to K with K viewed as a vector space over itself is called a linear functional ",
+			"after": " If V and W are finite dimensional vector spaces and a basis is defined for each vector space then every linear map from V to W can be represented by a matrix This is useful because it allows concrete calculations Matrices yield examples of linear maps if A is a real m n matrix then f x Ax describes a linear map Rn Rm see Euclidean space ",
+			"color": "gray|0.3214 grey|0.3214 dim|0.24784 gray|0.24784 dim|0.24784 grey|0.24784 dark|0.21872 gray|0.21872 dark|0.21872 grey|0.21872 silver|0.098997 light|0.052183 gray|0.052183 light|0.052183 grey|0.052183 gainsboro|0.03641 white|0.0063281 smoke|0.0063281 linen|0.0030621 lavender|0.0026707 blush|0.0026707 alice|0.002571 blue|0.002571  ",
+			"after_weights": " If|1 V|0.98507 and|0.97015 W|0.95522 are|0.9403 finite|0.92537 dimensional|0.91045 vector|0.89552 spaces|0.8806 and|0.86567 a|0.85075 basis|0.83582 is|0.8209 defined|0.80597 for|0.79104 each|0.77612 vector|0.76119 space|0.74627 then|0.73134 every|0.71642 linear|0.70149 map|0.68657 from|0.67164 V|0.65672 to|0.64179 W|0.62687 can|0.61194 be|0.59701 represented|0.58209 by|0.56716 a|0.55224 matrix|0.53731 This|0.52239 is|0.50746 useful|0.49254 because|0.47761 it|0.46269 allows|0.44776 concrete|0.43284 calculations|0.41791 Matrices|0.40299 yield|0.38806 examples|0.37313 of|0.35821 linear|0.34328 maps|0.32836 if|0.31343 A|0.29851 is|0.28358 a|0.26866 real|0.25373 m|0.23881 n|0.22388 matrix|0.20896 then|0.19403 f|0.1791 x|0.16418 Ax|0.14925 describes|0.13433 a|0.1194 linear|0.10448 map|0.089552 Rn|0.074627 Rm|0.059701 see|0.044776 Euclidean|0.029851 space|0.014925 |0",
+			"previous_weights": " These|0 statements|0.021277 generalize|0.042553 to|0.06383 any|0.085106 left|0.10638 module|0.12766 RM|0.14894 over|0.17021 a|0.19149 ring|0.21277 R|0.23404 without|0.25532 modification|0.2766 and|0.29787 to|0.31915 any|0.34043 right|0.3617 module|0.38298 upon|0.40426 reversing|0.42553 of|0.44681 the|0.46809 scalar|0.48936 multiplication|0.51064 |0.53191 A|0.55319 linear|0.57447 map|0.59574 from|0.61702 V|0.6383 to|0.65957 K|0.68085 with|0.70213 K|0.7234 viewed|0.74468 as|0.76596 a|0.78723 vector|0.80851 space|0.82979 over|0.85106 itself|0.87234 is|0.89362 called|0.91489 a|0.93617 linear|0.95745 functional|0.97872 |1"
+		}
+	}
+}

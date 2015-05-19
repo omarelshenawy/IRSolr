@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "a036c77578d6931121f4e37a2bcedb214c41a06d4de08ddcf2e575a901ae98aa",
+			"url": "https://upload.wikimedia.org/math/2/a/3/2a327002f224c81f2056bcdbd90b0314.png",
+			"previous": " The inverse transform known as Fourier series is a representation of sP t in terms of a summation of a potentially infinite number of harmonically related sinusoids or complex exponential functions each with an amplitude and phase specified by one of the coefficients ",
+			"after": " When sP t is expressed as a periodic summation of another function s t ",
+			"color": "black|0.25417 gray|0.22163 grey|0.22163 dim|0.21372 gray|0.21372 dim|0.21372 grey|0.21372 dark|0.19512 gray|0.19512 dark|0.19512 grey|0.19512 silver|0.082466 light|0.02219 gray|0.02219 light|0.02219 grey|0.02219 gainsboro|0.010063  ",
+			"after_weights": " When|1 sP|0.92857 t|0.85714 is|0.78571 expressed|0.71429 as|0.64286 a|0.57143 periodic|0.5 summation|0.42857 of|0.35714 another|0.28571 function|0.21429 s|0.14286 t|0.071429 |0",
+			"previous_weights": " The|0 inverse|0.023256 transform|0.046512 known|0.069767 as|0.093023 Fourier|0.11628 series|0.13953 is|0.16279 a|0.18605 representation|0.2093 of|0.23256 sP|0.25581 t|0.27907 in|0.30233 terms|0.32558 of|0.34884 a|0.37209 summation|0.39535 of|0.4186 a|0.44186 potentially|0.46512 infinite|0.48837 number|0.51163 of|0.53488 harmonically|0.55814 related|0.5814 sinusoids|0.60465 or|0.62791 complex|0.65116 exponential|0.67442 functions|0.69767 each|0.72093 with|0.74419 an|0.76744 amplitude|0.7907 and|0.81395 phase|0.83721 specified|0.86047 by|0.88372 one|0.90698 of|0.93023 the|0.95349 coefficients|0.97674 |1"
+		}
+	}
+}

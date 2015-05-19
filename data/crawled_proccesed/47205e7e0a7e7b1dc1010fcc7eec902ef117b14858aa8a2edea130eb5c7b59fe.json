@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47205e7e0a7e7b1dc1010fcc7eec902ef117b14858aa8a2edea130eb5c7b59fe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ballena_jorobada_y_ballenato_en_Bah%C3%ADa_M%C3%A1laga.JPG/220px-Ballena_jorobada_y_ballenato_en_Bah%C3%ADa_M%C3%A1laga.JPG",
+			"previous": " ",
+			"after": " The worldwide population is at least 80 000 humpback whales with 18 000 20 000 in the North Pacific 68 about 12 000 in the North Atlantic 69 and over 50 000 in the Southern Hemisphere 70 down from a prewhaling population of 125 000 17 ",
+			"color": "light|0.415 slate|0.415 gray|0.415 slate|0.32089 gray|0.32089 dark|0.18262 gray|0.18262 dark|0.18262 grey|0.18262 silver|0.029063 gray|0.023013 grey|0.023013 dim|0.017265 gray|0.017265 dim|0.017265 grey|0.017265 black|0.0061617  ",
+			"after_weights": " The|1 worldwide|0.97826 population|0.95652 is|0.93478 at|0.91304 least|0.8913 80|0.86957 000|0.84783 humpback|0.82609 whales|0.80435 with|0.78261 18|0.76087 000|0.73913 20|0.71739 000|0.69565 in|0.67391 the|0.65217 North|0.63043 Pacific|0.6087 68|0.58696 about|0.56522 12|0.54348 000|0.52174 in|0.5 the|0.47826 North|0.45652 Atlantic|0.43478 69|0.41304 and|0.3913 over|0.36957 50|0.34783 000|0.32609 in|0.30435 the|0.28261 Southern|0.26087 Hemisphere|0.23913 70|0.21739 down|0.19565 from|0.17391 a|0.15217 prewhaling|0.13043 population|0.1087 of|0.086957 125|0.065217 000|0.043478 17|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

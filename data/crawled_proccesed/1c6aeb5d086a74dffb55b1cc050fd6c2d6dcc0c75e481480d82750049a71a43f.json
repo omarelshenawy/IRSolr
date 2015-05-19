@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c6aeb5d086a74dffb55b1cc050fd6c2d6dcc0c75e481480d82750049a71a43f",
+			"url": "https://upload.wikimedia.org/math/d/c/a/dcae2a07f12f9d06c290cf055879efe2.png",
+			"previous": " Static friction is friction between two or more solid objects that are not moving relative to each other For example static friction can prevent an object from sliding down a sloped surface The coefficient of static friction typically denoted as s is usually higher than the coefficient of kinetic friction ",
+			"after": " An example of static friction is the force that prevents a car wheel from slipping as it rolls on the ground Even though the wheel is in motion the patch of the tire in contact with the ground is stationary relative to the ground so it is static rather than kinetic friction ",
+			"color": "dim|0.2894 gray|0.2894 dim|0.2894 grey|0.2894 black|0.28582 gray|0.19813 grey|0.19813 dark|0.12197 gray|0.12197 dark|0.12197 grey|0.12197 silver|0.050732 light|0.02391 gray|0.02391 light|0.02391 grey|0.02391 gainsboro|0.017221 white|0.0033608 smoke|0.0033608  ",
+			"after_weights": " An|1 example|0.98077 of|0.96154 static|0.94231 friction|0.92308 is|0.90385 the|0.88462 force|0.86538 that|0.84615 prevents|0.82692 a|0.80769 car|0.78846 wheel|0.76923 from|0.75 slipping|0.73077 as|0.71154 it|0.69231 rolls|0.67308 on|0.65385 the|0.63462 ground|0.61538 Even|0.59615 though|0.57692 the|0.55769 wheel|0.53846 is|0.51923 in|0.5 motion|0.48077 the|0.46154 patch|0.44231 of|0.42308 the|0.40385 tire|0.38462 in|0.36538 contact|0.34615 with|0.32692 the|0.30769 ground|0.28846 is|0.26923 stationary|0.25 relative|0.23077 to|0.21154 the|0.19231 ground|0.17308 so|0.15385 it|0.13462 is|0.11538 static|0.096154 rather|0.076923 than|0.057692 kinetic|0.038462 friction|0.019231 |0",
+			"previous_weights": " Static|0 friction|0.02 is|0.04 friction|0.06 between|0.08 two|0.1 or|0.12 more|0.14 solid|0.16 objects|0.18 that|0.2 are|0.22 not|0.24 moving|0.26 relative|0.28 to|0.3 each|0.32 other|0.34 For|0.36 example|0.38 static|0.4 friction|0.42 can|0.44 prevent|0.46 an|0.48 object|0.5 from|0.52 sliding|0.54 down|0.56 a|0.58 sloped|0.6 surface|0.62 The|0.64 coefficient|0.66 of|0.68 static|0.7 friction|0.72 typically|0.74 denoted|0.76 as|0.78 s|0.8 is|0.82 usually|0.84 higher|0.86 than|0.88 the|0.9 coefficient|0.92 of|0.94 kinetic|0.96 friction|0.98 |1"
+		}
+	}
+}

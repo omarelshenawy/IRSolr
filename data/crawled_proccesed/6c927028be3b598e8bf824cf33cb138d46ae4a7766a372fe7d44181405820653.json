@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c927028be3b598e8bf824cf33cb138d46ae4a7766a372fe7d44181405820653",
+			"url": "https://upload.wikimedia.org/math/4/b/3/4b39b2f73955f7c4777a39a84c85a046.png",
+			"previous": " where  In subsonic flow the Mach meter can be calibrated according to  Some older mechanical Machmeters use an altitude aneroid and an airspeed capsule which together convert pitot static pressure into Mach number Modern electronic Machmeters use information from an air data computer system ",
+			"after": " Note that the inputs required are impact pressure or total pressure and static pressure Air temperature input is not required ",
+			"color": "dark|0.31721 gray|0.31721 dark|0.31721 grey|0.31721 silver|0.20537 light|0.13376 gray|0.13376 light|0.13376 grey|0.13376 gray|0.11068 grey|0.11068 gainsboro|0.10199 white|0.024242 smoke|0.024242 lavender|0.01397 blush|0.01397 alice|0.013552 blue|0.013552 ghost|0.013202 white|0.013202 sea|0.012953 shell|0.012953 snow|0.012647 linen|0.012312 white|0.010126 mint|0.0076816 cream|0.0076816 floral|0.0048883 white|0.0048883 azure|0.0040154  ",
+			"after_weights": " Note|1 that|0.95 the|0.9 inputs|0.85 required|0.8 are|0.75 impact|0.7 pressure|0.65 or|0.6 total|0.55 pressure|0.5 and|0.45 static|0.4 pressure|0.35 Air|0.3 temperature|0.25 input|0.2 is|0.15 not|0.1 required|0.05 |0",
+			"previous_weights": " where|0 |0.021739 In|0.043478 subsonic|0.065217 flow|0.086957 the|0.1087 Mach|0.13043 meter|0.15217 can|0.17391 be|0.19565 calibrated|0.21739 according|0.23913 to|0.26087 |0.28261 Some|0.30435 older|0.32609 mechanical|0.34783 Machmeters|0.36957 use|0.3913 an|0.41304 altitude|0.43478 aneroid|0.45652 and|0.47826 an|0.5 airspeed|0.52174 capsule|0.54348 which|0.56522 together|0.58696 convert|0.6087 pitot|0.63043 static|0.65217 pressure|0.67391 into|0.69565 Mach|0.71739 number|0.73913 Modern|0.76087 electronic|0.78261 Machmeters|0.80435 use|0.82609 information|0.84783 from|0.86957 an|0.8913 air|0.91304 data|0.93478 computer|0.95652 system|0.97826 |1"
+		}
+	}
+}

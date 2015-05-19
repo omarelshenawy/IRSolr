@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "72fa831cc065b84bf470e35af97ab5ccfdf74efca87ffe1df4decfdf6398bd5b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/401-403-410_and_Construction_crop.png/250px-401-403-410_and_Construction_crop.png",
+			"previous": " ",
+			"after": " A construction project must fit into the legal framework governing the property These include governmental regulations on the use of property and obligations that are created in the process of construction ",
+			"color": "dim|0.21088 gray|0.21088 dim|0.21088 grey|0.21088 gray|0.20302 grey|0.20302 dark|0.17684 gray|0.17684 dark|0.17684 grey|0.17684 light|0.13717 gray|0.13717 light|0.13717 grey|0.13717 silver|0.063367 gainsboro|0.032516 slate|0.030659 gray|0.030659 light|0.028863 slate|0.028863 gray|0.028863 antique|0.022477 white|0.022477 tan|0.016902 sky|0.0079947 blue|0.0079947  ",
+			"after_weights": " A|1 construction|0.96774 project|0.93548 must|0.90323 fit|0.87097 into|0.83871 the|0.80645 legal|0.77419 framework|0.74194 governing|0.70968 the|0.67742 property|0.64516 These|0.6129 include|0.58065 governmental|0.54839 regulations|0.51613 on|0.48387 the|0.45161 use|0.41935 of|0.3871 property|0.35484 and|0.32258 obligations|0.29032 that|0.25806 are|0.22581 created|0.19355 in|0.16129 the|0.12903 process|0.096774 of|0.064516 construction|0.032258 |0",
+			"previous_weights": " "
+		}
+	}
+}

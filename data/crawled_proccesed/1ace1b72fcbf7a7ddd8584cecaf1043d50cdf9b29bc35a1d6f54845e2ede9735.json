@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ace1b72fcbf7a7ddd8584cecaf1043d50cdf9b29bc35a1d6f54845e2ede9735",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg/350px-The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg",
+			"previous": " Portal Society Featured picture 29",
+			"after": " The Garden of Earthly Delights is a triptych by the early Netherlandish master Hieronymus Bosch The left panel depicts God presenting Eve to Adam while the central panel is a broad panorama of sexually engaged nude figures fantastical animals oversized fruit and hybrid stone formations The right panel is a hellscape and portrays the torments of damnation The intricacy of its symbolism particularly that of the central panel has led to a wide range of scholarly interpretations over the centuries ",
+			"color": "black|0.514 saddle|0.095062 brown|0.095062 tan|0.092859 burly|0.062027 wood|0.062027 dim|0.027605 gray|0.027605 dim|0.027605 grey|0.027605 sienna|0.022745 dark|0.022551 slate|0.022551 gray|0.022551 gray|0.02106 grey|0.02106 peru|0.020801  ",
+			"after_weights": " The|1 Garden|0.9875 of|0.975 Earthly|0.9625 Delights|0.95 is|0.9375 a|0.925 triptych|0.9125 by|0.9 the|0.8875 early|0.875 Netherlandish|0.8625 master|0.85 Hieronymus|0.8375 Bosch|0.825 The|0.8125 left|0.8 panel|0.7875 depicts|0.775 God|0.7625 presenting|0.75 Eve|0.7375 to|0.725 Adam|0.7125 while|0.7 the|0.6875 central|0.675 panel|0.6625 is|0.65 a|0.6375 broad|0.625 panorama|0.6125 of|0.6 sexually|0.5875 engaged|0.575 nude|0.5625 figures|0.55 fantastical|0.5375 animals|0.525 oversized|0.5125 fruit|0.5 and|0.4875 hybrid|0.475 stone|0.4625 formations|0.45 The|0.4375 right|0.425 panel|0.4125 is|0.4 a|0.3875 hellscape|0.375 and|0.3625 portrays|0.35 the|0.3375 torments|0.325 of|0.3125 damnation|0.3 The|0.2875 intricacy|0.275 of|0.2625 its|0.25 symbolism|0.2375 particularly|0.225 that|0.2125 of|0.2 the|0.1875 central|0.175 panel|0.1625 has|0.15 led|0.1375 to|0.125 a|0.1125 wide|0.1 range|0.0875 of|0.075 scholarly|0.0625 interpretations|0.05 over|0.0375 the|0.025 centuries|0.0125 |0",
+			"previous_weights": " Portal|0 Society|0.25 Featured|0.5 picture|0.75 29|1"
+		}
+	}
+}

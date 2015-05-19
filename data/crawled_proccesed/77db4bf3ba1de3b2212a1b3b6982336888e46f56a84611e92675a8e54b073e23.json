@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77db4bf3ba1de3b2212a1b3b6982336888e46f56a84611e92675a8e54b073e23",
+			"url": "https://upload.wikimedia.org/math/f/0/c/f0c4b7adacf1733e15cf820eed1a449c.png",
+			"previous": " The variation in is ",
+			"after": " next using the Euler Lagrange equations for a field  the variation is  where the product rule has been used so we obtain the continuity equation in a different general form  So the conserved current density has to be ",
+			"color": "dark|0.35536 gray|0.35536 dark|0.35536 grey|0.35536 silver|0.19956 gray|0.18833 grey|0.18833 light|0.1018 gray|0.1018 light|0.1018 grey|0.1018 gainsboro|0.06729 dim|0.054054 gray|0.054054 dim|0.054054 grey|0.054054 white|0.0099617 smoke|0.0099617 linen|0.0045277 alice|0.0035624 blue|0.0035624 lavender|0.0035624 blush|0.0035624 ghost|0.0032049 white|0.0032049 sea|0.0031436 shell|0.0031436 snow|0.0030364  ",
+			"after_weights": " next|1 using|0.97561 the|0.95122 Euler|0.92683 Lagrange|0.90244 equations|0.87805 for|0.85366 a|0.82927 field|0.80488 |0.78049 the|0.7561 variation|0.73171 is|0.70732 |0.68293 where|0.65854 the|0.63415 product|0.60976 rule|0.58537 has|0.56098 been|0.53659 used|0.5122 so|0.4878 we|0.46341 obtain|0.43902 the|0.41463 continuity|0.39024 equation|0.36585 in|0.34146 a|0.31707 different|0.29268 general|0.26829 form|0.2439 |0.21951 So|0.19512 the|0.17073 conserved|0.14634 current|0.12195 density|0.097561 has|0.073171 to|0.04878 be|0.02439 |0",
+			"previous_weights": " The|0 variation|0.25 in|0.5 is|0.75 |1"
+		}
+	}
+}

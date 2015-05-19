@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "442544ade1b968d9b57db4fa79de5cfa056441d6ba29ba9c6f8d938c05e82758",
+			"url": "https://upload.wikimedia.org/math/1/2/0/120bf99b2dafa7b817c1790768e1fcb5.png",
+			"previous": " In the first group of examples let u be an unknown function of x and c and are known constants  Linear differential equations frequently appear as approximations to nonlinear equations These approximations are only valid under restricted conditions For example the harmonic oscillator equation is an approximation to the nonlinear pendulum equation that is valid for small amplitude oscillations see below ",
+			"after": " In the next group of examples the unknown function u depends on two variables x and t or x and y ",
+			"color": " ",
+			"after_weights": " In|1 the|0.95238 next|0.90476 group|0.85714 of|0.80952 examples|0.7619 the|0.71429 unknown|0.66667 function|0.61905 u|0.57143 depends|0.52381 on|0.47619 two|0.42857 variables|0.38095 x|0.33333 and|0.28571 t|0.2381 or|0.19048 x|0.14286 and|0.095238 y|0.047619 |0",
+			"previous_weights": " In|0 the|0.016129 first|0.032258 group|0.048387 of|0.064516 examples|0.080645 let|0.096774 u|0.1129 be|0.12903 an|0.14516 unknown|0.16129 function|0.17742 of|0.19355 x|0.20968 and|0.22581 c|0.24194 and|0.25806 are|0.27419 known|0.29032 constants|0.30645 |0.32258 Linear|0.33871 differential|0.35484 equations|0.37097 frequently|0.3871 appear|0.40323 as|0.41935 approximations|0.43548 to|0.45161 nonlinear|0.46774 equations|0.48387 These|0.5 approximations|0.51613 are|0.53226 only|0.54839 valid|0.56452 under|0.58065 restricted|0.59677 conditions|0.6129 For|0.62903 example|0.64516 the|0.66129 harmonic|0.67742 oscillator|0.69355 equation|0.70968 is|0.72581 an|0.74194 approximation|0.75806 to|0.77419 the|0.79032 nonlinear|0.80645 pendulum|0.82258 equation|0.83871 that|0.85484 is|0.87097 valid|0.8871 for|0.90323 small|0.91935 amplitude|0.93548 oscillations|0.95161 see|0.96774 below|0.98387 |1"
+		}
+	}
+}

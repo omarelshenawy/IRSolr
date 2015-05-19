@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3954ea67664c9d1623353c254d5ab2c5341e31007100633d14e8bfa4e30e7c7f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Deep_Impact_HRI.jpeg/325px-Deep_Impact_HRI.jpeg",
+			"previous": " Portal Science Featured picture 17",
+			"after": " Deep Impact is a NASA space probe designed to study the composition of the interior of the comet Tempel 1 At 5 52 UTC on July 4 2005 one section of the Deep Impact probe successfully impacted the comet s nucleus excavating debris from the interior of the nucleus Photographs of the impact showed the comet to be more dusty and less icy than expected The impact generated a large bright dust cloud that obscured the hoped for view of the impact crater ",
+			"color": " ",
+			"after_weights": " Deep|1 Impact|0.98795 is|0.9759 a|0.96386 NASA|0.95181 space|0.93976 probe|0.92771 designed|0.91566 to|0.90361 study|0.89157 the|0.87952 composition|0.86747 of|0.85542 the|0.84337 interior|0.83133 of|0.81928 the|0.80723 comet|0.79518 Tempel|0.78313 1|0.77108 At|0.75904 5|0.74699 52|0.73494 UTC|0.72289 on|0.71084 July|0.6988 4|0.68675 2005|0.6747 one|0.66265 section|0.6506 of|0.63855 the|0.62651 Deep|0.61446 Impact|0.60241 probe|0.59036 successfully|0.57831 impacted|0.56627 the|0.55422 comet|0.54217 s|0.53012 nucleus|0.51807 excavating|0.50602 debris|0.49398 from|0.48193 the|0.46988 interior|0.45783 of|0.44578 the|0.43373 nucleus|0.42169 Photographs|0.40964 of|0.39759 the|0.38554 impact|0.37349 showed|0.36145 the|0.3494 comet|0.33735 to|0.3253 be|0.31325 more|0.3012 dusty|0.28916 and|0.27711 less|0.26506 icy|0.25301 than|0.24096 expected|0.22892 The|0.21687 impact|0.20482 generated|0.19277 a|0.18072 large|0.16867 bright|0.15663 dust|0.14458 cloud|0.13253 that|0.12048 obscured|0.10843 the|0.096386 hoped|0.084337 for|0.072289 view|0.060241 of|0.048193 the|0.036145 impact|0.024096 crater|0.012048 |0",
+			"previous_weights": " Portal|0 Science|0.25 Featured|0.5 picture|0.75 17|1"
+		}
+	}
+}

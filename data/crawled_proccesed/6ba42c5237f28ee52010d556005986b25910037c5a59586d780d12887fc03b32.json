@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ba42c5237f28ee52010d556005986b25910037c5a59586d780d12887fc03b32",
+			"url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Jamesfingleton.jpg",
+			"previous": " ",
+			"after": " Born at Waverley in the inner eastern suburbs of Sydney 1 Fingleton was the third of six children 5 His parents were James a tram driver and union organiser who became a member of the New South Wales Parliament and Belinda May Webb The family was Irish Catholic Fingleton s paternal grandfather had immigrated to Australia in the 1870s 6 ",
+			"color": " ",
+			"after_weights": " Born|1 at|0.98333 Waverley|0.96667 in|0.95 the|0.93333 inner|0.91667 eastern|0.9 suburbs|0.88333 of|0.86667 Sydney|0.85 1|0.83333 Fingleton|0.81667 was|0.8 the|0.78333 third|0.76667 of|0.75 six|0.73333 children|0.71667 5|0.7 His|0.68333 parents|0.66667 were|0.65 James|0.63333 a|0.61667 tram|0.6 driver|0.58333 and|0.56667 union|0.55 organiser|0.53333 who|0.51667 became|0.5 a|0.48333 member|0.46667 of|0.45 the|0.43333 New|0.41667 South|0.4 Wales|0.38333 Parliament|0.36667 and|0.35 Belinda|0.33333 May|0.31667 Webb|0.3 The|0.28333 family|0.26667 was|0.25 Irish|0.23333 Catholic|0.21667 Fingleton|0.2 s|0.18333 paternal|0.16667 grandfather|0.15 had|0.13333 immigrated|0.11667 to|0.1 Australia|0.083333 in|0.066667 the|0.05 1870s|0.033333 6|0.016667 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "921b3626c2df21e64bb9f75a6cea693c5350f1f0d230e8226b68a5acaea1e021",
+			"url": "https://upload.wikimedia.org/math/1/0/f/10f5ad54ed59e59717f8ae7b98ef36eb.png",
+			"previous": " A measure is continuous from above If E1 E2 E3 are measurable sets and for all n En 1 En then the intersection of the sets En is measurable furthermore if at least one of the En has finite measure then",
+			"after": " This property is false without the assumption that at least one of the En has finite measure For instance for each n N let En n R which all have infinite Lebesgue measure but the intersection is empty ",
+			"color": "dim|0.30807 gray|0.30807 dim|0.30807 grey|0.30807 gray|0.3027 grey|0.3027 dark|0.19792 gray|0.19792 dark|0.19792 grey|0.19792 silver|0.088495 light|0.046179 gray|0.046179 light|0.046179 grey|0.046179 gainsboro|0.032526 white|0.0052146 smoke|0.0052146 linen|0.0030013  ",
+			"after_weights": " This|1 property|0.97368 is|0.94737 false|0.92105 without|0.89474 the|0.86842 assumption|0.84211 that|0.81579 at|0.78947 least|0.76316 one|0.73684 of|0.71053 the|0.68421 En|0.65789 has|0.63158 finite|0.60526 measure|0.57895 For|0.55263 instance|0.52632 for|0.5 each|0.47368 n|0.44737 N|0.42105 let|0.39474 En|0.36842 n|0.34211 R|0.31579 which|0.28947 all|0.26316 have|0.23684 infinite|0.21053 Lebesgue|0.18421 measure|0.15789 but|0.13158 the|0.10526 intersection|0.078947 is|0.052632 empty|0.026316 |0",
+			"previous_weights": " A|0 measure|0.025 is|0.05 continuous|0.075 from|0.1 above|0.125 If|0.15 E1|0.175 E2|0.2 E3|0.225 are|0.25 measurable|0.275 sets|0.3 and|0.325 for|0.35 all|0.375 n|0.4 En|0.425 1|0.45 En|0.475 then|0.5 the|0.525 intersection|0.55 of|0.575 the|0.6 sets|0.625 En|0.65 is|0.675 measurable|0.7 furthermore|0.725 if|0.75 at|0.775 least|0.8 one|0.825 of|0.85 the|0.875 En|0.9 has|0.925 finite|0.95 measure|0.975 then|1"
+		}
+	}
+}

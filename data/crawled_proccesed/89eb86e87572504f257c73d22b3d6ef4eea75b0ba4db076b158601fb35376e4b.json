@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89eb86e87572504f257c73d22b3d6ef4eea75b0ba4db076b158601fb35376e4b",
+			"url": "https://upload.wikimedia.org/math/4/b/b/4bb1ce40c7b49b3734c056a739524d17.png",
+			"previous": " Binary and plane trees are examples of an unlabeled combinatorial structure Trees consist of nodes linked by edges in such a way that there are no cycles There is generally a node called the root which has no parent node In Plane trees each node can have an arbitrary number of children In binary trees a special case of plane trees each node can have either two or no children Let denote the family of all plane trees Then this family can be recursively defined as follows ",
+			"after": " After solving for P x ",
+			"color": " ",
+			"after_weights": " After|1 solving|0.8 for|0.6 P|0.4 x|0.2 |0",
+			"previous_weights": " Binary|0 and|0.011494 plane|0.022989 trees|0.034483 are|0.045977 examples|0.057471 of|0.068966 an|0.08046 unlabeled|0.091954 combinatorial|0.10345 structure|0.11494 Trees|0.12644 consist|0.13793 of|0.14943 nodes|0.16092 linked|0.17241 by|0.18391 edges|0.1954 in|0.2069 such|0.21839 a|0.22989 way|0.24138 that|0.25287 there|0.26437 are|0.27586 no|0.28736 cycles|0.29885 There|0.31034 is|0.32184 generally|0.33333 a|0.34483 node|0.35632 called|0.36782 the|0.37931 root|0.3908 which|0.4023 has|0.41379 no|0.42529 parent|0.43678 node|0.44828 In|0.45977 Plane|0.47126 trees|0.48276 each|0.49425 node|0.50575 can|0.51724 have|0.52874 an|0.54023 arbitrary|0.55172 number|0.56322 of|0.57471 children|0.58621 In|0.5977 binary|0.6092 trees|0.62069 a|0.63218 special|0.64368 case|0.65517 of|0.66667 plane|0.67816 trees|0.68966 each|0.70115 node|0.71264 can|0.72414 have|0.73563 either|0.74713 two|0.75862 or|0.77011 no|0.78161 children|0.7931 Let|0.8046 denote|0.81609 the|0.82759 family|0.83908 of|0.85057 all|0.86207 plane|0.87356 trees|0.88506 Then|0.89655 this|0.90805 family|0.91954 can|0.93103 be|0.94253 recursively|0.95402 defined|0.96552 as|0.97701 follows|0.98851 |1"
+		}
+	}
+}

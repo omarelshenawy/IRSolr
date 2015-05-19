@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18c23be778f2233a6256b58720507b4fc8ba5cc6d1c4984d6b4beb7066ed21a5",
+			"url": "https://upload.wikimedia.org/math/4/9/f/49f10cdacd8aa4091761ff792a9f9784.png",
+			"previous": " A rate of change can be formally defined in two ways 2 ",
+			"after": " where f x is the function with respect to x over the interval from a to a h An instantaneous rate of change is equivalent to a derivative  An example to contrast the differences between the average and instantaneous definitions the speed of a car can be calculated ",
+			"color": "dim|0.33181 gray|0.33181 dim|0.33181 grey|0.33181 gray|0.30213 grey|0.30213 dark|0.19781 gray|0.19781 dark|0.19781 grey|0.19781 silver|0.084822 light|0.038854 gray|0.038854 light|0.038854 grey|0.038854 gainsboro|0.026205 white|0.0042427 smoke|0.0042427  ",
+			"after_weights": " where|1 f|0.97959 x|0.95918 is|0.93878 the|0.91837 function|0.89796 with|0.87755 respect|0.85714 to|0.83673 x|0.81633 over|0.79592 the|0.77551 interval|0.7551 from|0.73469 a|0.71429 to|0.69388 a|0.67347 h|0.65306 An|0.63265 instantaneous|0.61224 rate|0.59184 of|0.57143 change|0.55102 is|0.53061 equivalent|0.5102 to|0.4898 a|0.46939 derivative|0.44898 |0.42857 An|0.40816 example|0.38776 to|0.36735 contrast|0.34694 the|0.32653 differences|0.30612 between|0.28571 the|0.26531 average|0.2449 and|0.22449 instantaneous|0.20408 definitions|0.18367 the|0.16327 speed|0.14286 of|0.12245 a|0.10204 car|0.081633 can|0.061224 be|0.040816 calculated|0.020408 |0",
+			"previous_weights": " A|0 rate|0.083333 of|0.16667 change|0.25 can|0.33333 be|0.41667 formally|0.5 defined|0.58333 in|0.66667 two|0.75 ways|0.83333 2|0.91667 |1"
+		}
+	}
+}

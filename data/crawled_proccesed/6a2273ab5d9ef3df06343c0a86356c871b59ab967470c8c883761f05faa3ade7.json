@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a2273ab5d9ef3df06343c0a86356c871b59ab967470c8c883761f05faa3ade7",
+			"url": "https://upload.wikimedia.org/math/2/1/6/216a6b2e50473af6998ceb75ee1dcdfb.png",
+			"previous": " Specifically let be the position vector of some point and let be a nonzero vector The plane determined by this point and vector consists of those points with position vector such that the vector drawn from to is perpendicular to Recalling that two vectors are perpendicular if and only if their dot product is zero it follows that the desired plane can be described as the set of all points such that",
+			"after": "  The dot here means a dot product not scalar multiplication Expanded this becomes",
+			"color": "dim|0.39834 gray|0.39834 dim|0.39834 grey|0.39834 gray|0.26737 grey|0.26737 dark|0.1642 gray|0.1642 dark|0.1642 grey|0.1642 silver|0.080029 light|0.043416 gray|0.043416 light|0.043416 grey|0.043416 gainsboro|0.030472 white|0.0039636 smoke|0.0039636  ",
+			"after_weights": " |1 The|0.92308 dot|0.84615 here|0.76923 means|0.69231 a|0.61538 dot|0.53846 product|0.46154 not|0.38462 scalar|0.30769 multiplication|0.23077 Expanded|0.15385 this|0.076923 becomes|0",
+			"previous_weights": " Specifically|0 let|0.014085 be|0.028169 the|0.042254 position|0.056338 vector|0.070423 of|0.084507 some|0.098592 point|0.11268 and|0.12676 let|0.14085 be|0.15493 a|0.16901 nonzero|0.1831 vector|0.19718 The|0.21127 plane|0.22535 determined|0.23944 by|0.25352 this|0.26761 point|0.28169 and|0.29577 vector|0.30986 consists|0.32394 of|0.33803 those|0.35211 points|0.3662 with|0.38028 position|0.39437 vector|0.40845 such|0.42254 that|0.43662 the|0.4507 vector|0.46479 drawn|0.47887 from|0.49296 to|0.50704 is|0.52113 perpendicular|0.53521 to|0.5493 Recalling|0.56338 that|0.57746 two|0.59155 vectors|0.60563 are|0.61972 perpendicular|0.6338 if|0.64789 and|0.66197 only|0.67606 if|0.69014 their|0.70423 dot|0.71831 product|0.73239 is|0.74648 zero|0.76056 it|0.77465 follows|0.78873 that|0.80282 the|0.8169 desired|0.83099 plane|0.84507 can|0.85915 be|0.87324 described|0.88732 as|0.90141 the|0.91549 set|0.92958 of|0.94366 all|0.95775 points|0.97183 such|0.98592 that|1"
+		}
+	}
+}

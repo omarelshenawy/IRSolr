@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fb8d65c15c6f7e0cb76d8d8ea9a5693f7cc726472a12feba668d2738708b8e8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/N406LC.JPG/220px-N406LC.JPG",
+			"previous": " The airline was established in 1995 and started operations on 31 August 1995 It began operation of Lockheed L 382 Hercules aircraft in 1997 It has 140 employees 2 The company has a Civil Reserve Air Fleet contract with the United States Department of Defense citation needed ",
+			"after": " Lynden Air Cargo operates the following domestic scheduled freight services 2 Anchorage Bethel Kotzebue and Nome ",
+			"color": "dark|0.48349 gray|0.48349 dark|0.48349 grey|0.48349 silver|0.30007 dim|0.056521 gray|0.056521 dim|0.056521 grey|0.056521 gray|0.054344 grey|0.054344 slate|0.018284 gray|0.018284 black|0.016003 light|0.012635 slate|0.012635 gray|0.012635 light|0.010558 gray|0.010558 light|0.010558 grey|0.010558 gainsboro|0.0058186 dark|0.0048085 slate|0.0048085 gray|0.0048085 alice|0.0043293 blue|0.0043293 white|0.0038905 smoke|0.0038905 ghost|0.0037909 white|0.0037909 azure|0.0032911  ",
+			"after_weights": " Lynden|1 Air|0.9375 Cargo|0.875 operates|0.8125 the|0.75 following|0.6875 domestic|0.625 scheduled|0.5625 freight|0.5 services|0.4375 2|0.375 Anchorage|0.3125 Bethel|0.25 Kotzebue|0.1875 and|0.125 Nome|0.0625 |0",
+			"previous_weights": " The|0 airline|0.021277 was|0.042553 established|0.06383 in|0.085106 1995|0.10638 and|0.12766 started|0.14894 operations|0.17021 on|0.19149 31|0.21277 August|0.23404 1995|0.25532 It|0.2766 began|0.29787 operation|0.31915 of|0.34043 Lockheed|0.3617 L|0.38298 382|0.40426 Hercules|0.42553 aircraft|0.44681 in|0.46809 1997|0.48936 It|0.51064 has|0.53191 140|0.55319 employees|0.57447 2|0.59574 The|0.61702 company|0.6383 has|0.65957 a|0.68085 Civil|0.70213 Reserve|0.7234 Air|0.74468 Fleet|0.76596 contract|0.78723 with|0.80851 the|0.82979 United|0.85106 States|0.87234 Department|0.89362 of|0.91489 Defense|0.93617 citation|0.95745 needed|0.97872 |1"
+		}
+	}
+}

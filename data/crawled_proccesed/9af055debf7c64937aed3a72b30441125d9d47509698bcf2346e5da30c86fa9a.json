@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9af055debf7c64937aed3a72b30441125d9d47509698bcf2346e5da30c86fa9a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Iris_vectoring_nozzle.jpg/220px-Iris_vectoring_nozzle.jpg",
+			"previous": " Nozzles for vectored thrust include fixed geometry Bristol Siddeley Pegasus and variable geometry F119 F 22  The primary and secondary petals may be hinged together and actuated by the same mechanism to provide afterburner control and high nozzle pressure ratio expansion as on the EJ200 Eurofighter 15 Other examples are found on the F 15 F 16 B 1B ",
+			"after": " ",
+			"color": "black|0.41799 gainsboro|0.044124 light|0.03827 gray|0.03827 light|0.03827 grey|0.03827 dim|0.034955 gray|0.034955 dim|0.034955 grey|0.034955 white|0.03272 smoke|0.03272 dark|0.032301 slate|0.032301 gray|0.032301 dark|0.029284 gray|0.029284 dark|0.029284 grey|0.029284 ghost|0.027468 white|0.027468 alice|0.027254 blue|0.027254 silver|0.02614 snow|0.025117 lavender|0.024646 blush|0.024646 gray|0.024042 grey|0.024042 lavender|0.020993 white|0.02076 sea|0.018814 shell|0.018814 slate|0.017855 gray|0.017855 azure|0.015816 light|0.015438 slate|0.015438 gray|0.015438 mint|0.01429 cream|0.01429 linen|0.012702 light|0.011296 steel|0.011296 blue|0.011296 floral|0.011286 white|0.011286 old|0.0057693 lace|0.0057693 misty|0.0056491 rose|0.0056491  ",
+			"after_weights": " ",
+			"previous_weights": " Nozzles|0 for|0.016667 vectored|0.033333 thrust|0.05 include|0.066667 fixed|0.083333 geometry|0.1 Bristol|0.11667 Siddeley|0.13333 Pegasus|0.15 and|0.16667 variable|0.18333 geometry|0.2 F119|0.21667 F|0.23333 22|0.25 |0.26667 The|0.28333 primary|0.3 and|0.31667 secondary|0.33333 petals|0.35 may|0.36667 be|0.38333 hinged|0.4 together|0.41667 and|0.43333 actuated|0.45 by|0.46667 the|0.48333 same|0.5 mechanism|0.51667 to|0.53333 provide|0.55 afterburner|0.56667 control|0.58333 and|0.6 high|0.61667 nozzle|0.63333 pressure|0.65 ratio|0.66667 expansion|0.68333 as|0.7 on|0.71667 the|0.73333 EJ200|0.75 Eurofighter|0.76667 15|0.78333 Other|0.8 examples|0.81667 are|0.83333 found|0.85 on|0.86667 the|0.88333 F|0.9 15|0.91667 F|0.93333 16|0.95 B|0.96667 1B|0.98333 |1"
+		}
+	}
+}

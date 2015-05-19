@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49ca7fe57557c645e7a8552615327b5f1f284f922dd98abd64013c47bf069a81",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Rankin_cvc_500h_1.jpg",
+			"previous": " ",
+			"after": " In 1972 Rankin by then in her nineties considered mounting a third House campaign to gain a wider audience for her opposition to the Vietnam War 3 but she died on May 18 1973 age 92 in Carmel California 2 ",
+			"color": "dim|0.90079 gray|0.90079 dim|0.90079 grey|0.90079 gray|0.0383 grey|0.0383 black|0.036116 tan|0.019529  ",
+			"after_weights": " In|1 1972|0.975 Rankin|0.95 by|0.925 then|0.9 in|0.875 her|0.85 nineties|0.825 considered|0.8 mounting|0.775 a|0.75 third|0.725 House|0.7 campaign|0.675 to|0.65 gain|0.625 a|0.6 wider|0.575 audience|0.55 for|0.525 her|0.5 opposition|0.475 to|0.45 the|0.425 Vietnam|0.4 War|0.375 3|0.35 but|0.325 she|0.3 died|0.275 on|0.25 May|0.225 18|0.2 1973|0.175 age|0.15 92|0.125 in|0.1 Carmel|0.075 California|0.05 2|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c83fcaa367a7d640a92635e2b6ae664e985f9a53b52d970d78a6ac56f94be4e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cavs_Opener_6512.jpg/220px-Cavs_Opener_6512.jpg",
+			"previous": " The new Greater Cleveland Aquarium is on the west bank of the Cuyahoga River near Downtown 131 ",
+			"after": " Cleveland s major professional sports teams include the Cleveland Indians Major League Baseball Cleveland Browns National Football League and Cleveland Cavaliers National Basketball Association Local sporting facilities include Progressive Field FirstEnergy Stadium Quicken Loans Arena and the Wolstein Center ",
+			"color": "saddle|0.17193 brown|0.17193 sienna|0.15277 chocolate|0.092245 black|0.068958 peru|0.046328 maroon|0.044859 orange|0.03478 dark|0.028258 red|0.028258 sandy|0.023205 brown|0.023205 dark|0.022247 orange|0.022247 coral|0.018033 firebrick|0.017732 brown|0.016856 mint|0.016346 cream|0.016346 white|0.016049 smoke|0.016049 white|0.015955 snow|0.015701 floral|0.015491 white|0.015491 azure|0.014674 alice|0.013446 blue|0.013446 ghost|0.013438 white|0.013438 sea|0.013166 shell|0.013166 golden|0.012916 rod|0.012916  ",
+			"after_weights": " Cleveland|1 s|0.97436 major|0.94872 professional|0.92308 sports|0.89744 teams|0.87179 include|0.84615 the|0.82051 Cleveland|0.79487 Indians|0.76923 Major|0.74359 League|0.71795 Baseball|0.69231 Cleveland|0.66667 Browns|0.64103 National|0.61538 Football|0.58974 League|0.5641 and|0.53846 Cleveland|0.51282 Cavaliers|0.48718 National|0.46154 Basketball|0.4359 Association|0.41026 Local|0.38462 sporting|0.35897 facilities|0.33333 include|0.30769 Progressive|0.28205 Field|0.25641 FirstEnergy|0.23077 Stadium|0.20513 Quicken|0.17949 Loans|0.15385 Arena|0.12821 and|0.10256 the|0.076923 Wolstein|0.051282 Center|0.025641 |0",
+			"previous_weights": " The|0 new|0.058824 Greater|0.11765 Cleveland|0.17647 Aquarium|0.23529 is|0.29412 on|0.35294 the|0.41176 west|0.47059 bank|0.52941 of|0.58824 the|0.64706 Cuyahoga|0.70588 River|0.76471 near|0.82353 Downtown|0.88235 131|0.94118 |1"
+		}
+	}
+}

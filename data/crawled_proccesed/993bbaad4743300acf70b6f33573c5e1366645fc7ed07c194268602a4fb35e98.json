@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "993bbaad4743300acf70b6f33573c5e1366645fc7ed07c194268602a4fb35e98",
+			"url": "https://upload.wikimedia.org/math/a/0/c/a0cad8aff31dd8bb7592c31c8d702165.png",
+			"previous": " For angles expressed in degrees ",
+			"after": " The above formulae are written in terms of the globe radius R It is often convenient to work directly with the map width W 2 R For example the basic transformation equations become",
+			"color": "dim|0.397 gray|0.397 dim|0.397 grey|0.397 gray|0.28119 grey|0.28119 dark|0.16669 gray|0.16669 dark|0.16669 grey|0.16669 silver|0.070154 light|0.039447 gray|0.039447 light|0.039447 grey|0.039447 gainsboro|0.027247 white|0.0040589 smoke|0.0040589  ",
+			"after_weights": " The|1 above|0.96875 formulae|0.9375 are|0.90625 written|0.875 in|0.84375 terms|0.8125 of|0.78125 the|0.75 globe|0.71875 radius|0.6875 R|0.65625 It|0.625 is|0.59375 often|0.5625 convenient|0.53125 to|0.5 work|0.46875 directly|0.4375 with|0.40625 the|0.375 map|0.34375 width|0.3125 W|0.28125 2|0.25 R|0.21875 For|0.1875 example|0.15625 the|0.125 basic|0.09375 transformation|0.0625 equations|0.03125 become|0",
+			"previous_weights": " For|0 angles|0.2 expressed|0.4 in|0.6 degrees|0.8 |1"
+		}
+	}
+}

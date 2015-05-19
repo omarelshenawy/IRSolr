@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12600986a42b86e5785f8f957607c06f30ad44ca9ee9c22a30fe1b0421873429",
+			"url": "https://upload.wikimedia.org/math/a/6/5/a654a0944bf90c8ca0f7574a5c57e305.png",
+			"previous": " Differentiating once more or Differentiating with respect to time Kepler s first law states that the orbit is described by the equation ",
+			"after": " The radial acceleration satisfies Substituting the equation of the ellipse gives The relation gives the simple final result This means that the acceleration vector of any planet obeying Kepler s first and second law satisfies the inverse square law",
+			"color": "dim|0.27869 gray|0.27869 dim|0.27869 grey|0.27869 black|0.25579 gray|0.20935 grey|0.20935 dark|0.13265 gray|0.13265 dark|0.13265 grey|0.13265 silver|0.057701 light|0.029004 gray|0.029004 light|0.029004 grey|0.029004 gainsboro|0.020547 white|0.0038805 smoke|0.0038805  ",
+			"after_weights": " The|1 radial|0.97368 acceleration|0.94737 satisfies|0.92105 Substituting|0.89474 the|0.86842 equation|0.84211 of|0.81579 the|0.78947 ellipse|0.76316 gives|0.73684 The|0.71053 relation|0.68421 gives|0.65789 the|0.63158 simple|0.60526 final|0.57895 result|0.55263 This|0.52632 means|0.5 that|0.47368 the|0.44737 acceleration|0.42105 vector|0.39474 of|0.36842 any|0.34211 planet|0.31579 obeying|0.28947 Kepler|0.26316 s|0.23684 first|0.21053 and|0.18421 second|0.15789 law|0.13158 satisfies|0.10526 the|0.078947 inverse|0.052632 square|0.026316 law|0",
+			"previous_weights": " Differentiating|0 once|0.045455 more|0.090909 or|0.13636 Differentiating|0.18182 with|0.22727 respect|0.27273 to|0.31818 time|0.36364 Kepler|0.40909 s|0.45455 first|0.5 law|0.54545 states|0.59091 that|0.63636 the|0.68182 orbit|0.72727 is|0.77273 described|0.81818 by|0.86364 the|0.90909 equation|0.95455 |1"
+		}
+	}
+}

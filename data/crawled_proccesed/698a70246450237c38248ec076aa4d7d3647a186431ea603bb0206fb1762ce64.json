@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "698a70246450237c38248ec076aa4d7d3647a186431ea603bb0206fb1762ce64",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/City_Airport_station.jpg/220px-City_Airport_station.jpg",
+			"previous": " ",
+			"after": " London City Airport is linked to London s new financial district at Canary Wharf to the traditional financial district of the City of London and to Stratford International station adjacent to the Olympic Park via the Docklands Light Railway that offers interchanges with London Underground London Overground and Southeastern Trains London City Airport DLR station adjoins the terminal building with enclosed access to and from the elevated platforms ",
+			"color": "gray|0.39211 grey|0.39211 dark|0.23254 gray|0.23254 dark|0.23254 grey|0.23254 dim|0.21605 gray|0.21605 dim|0.21605 grey|0.21605 slate|0.039217 gray|0.039217 light|0.029952 slate|0.029952 gray|0.029952 dark|0.022624 slate|0.022624 gray|0.022624 silver|0.022572 midnight|0.0083256 blue|0.0083256 light|0.0068892 gray|0.0068892 light|0.0068892 grey|0.0068892 black|0.0067225 light|0.0050333 steel|0.0050333 blue|0.0050333  ",
+			"after_weights": " London|1 City|0.98529 Airport|0.97059 is|0.95588 linked|0.94118 to|0.92647 London|0.91176 s|0.89706 new|0.88235 financial|0.86765 district|0.85294 at|0.83824 Canary|0.82353 Wharf|0.80882 to|0.79412 the|0.77941 traditional|0.76471 financial|0.75 district|0.73529 of|0.72059 the|0.70588 City|0.69118 of|0.67647 London|0.66176 and|0.64706 to|0.63235 Stratford|0.61765 International|0.60294 station|0.58824 adjacent|0.57353 to|0.55882 the|0.54412 Olympic|0.52941 Park|0.51471 via|0.5 the|0.48529 Docklands|0.47059 Light|0.45588 Railway|0.44118 that|0.42647 offers|0.41176 interchanges|0.39706 with|0.38235 London|0.36765 Underground|0.35294 London|0.33824 Overground|0.32353 and|0.30882 Southeastern|0.29412 Trains|0.27941 London|0.26471 City|0.25 Airport|0.23529 DLR|0.22059 station|0.20588 adjoins|0.19118 the|0.17647 terminal|0.16176 building|0.14706 with|0.13235 enclosed|0.11765 access|0.10294 to|0.088235 and|0.073529 from|0.058824 the|0.044118 elevated|0.029412 platforms|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

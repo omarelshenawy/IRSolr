@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "69df3b1d8f71bc3382dd0e536b8744b01727915e04542a98d148d7103424188c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Concorde.highup.arp.750pix.jpg/220px-Concorde.highup.arp.750pix.jpg",
+			"previous": " ",
+			"after": " A supersonic transport SST is a civilian supersonic aircraft designed to transport passengers at speeds greater than the speed of sound To date the only SSTs to see regular service have been Concorde and the Tupolev Tu 144 The last passenger flight for the Tu 144 was in June 1978 and it was last flown in 1999 by NASA Concorde s last commercial flight was in October 2003 with a November 26 2003 ferry flight being its last airborne operation Following the permanent cessation of flying by Concorde there are no remaining SSTs in commercial service ",
+			"color": "dim|0.40017 gray|0.40017 dim|0.40017 grey|0.40017 gray|0.13814 grey|0.13814 dark|0.070875 gray|0.070875 dark|0.070875 grey|0.070875 black|0.047059 silver|0.035055 antique|0.025249 white|0.025249 slate|0.02078 gray|0.02078 light|0.020024 gray|0.020024 light|0.020024 grey|0.020024 beige|0.019351 papaya|0.015313 whip|0.015313 old|0.015035 lace|0.015035  ",
+			"after_weights": " A|1 supersonic|0.98958 transport|0.97917 SST|0.96875 is|0.95833 a|0.94792 civilian|0.9375 supersonic|0.92708 aircraft|0.91667 designed|0.90625 to|0.89583 transport|0.88542 passengers|0.875 at|0.86458 speeds|0.85417 greater|0.84375 than|0.83333 the|0.82292 speed|0.8125 of|0.80208 sound|0.79167 To|0.78125 date|0.77083 the|0.76042 only|0.75 SSTs|0.73958 to|0.72917 see|0.71875 regular|0.70833 service|0.69792 have|0.6875 been|0.67708 Concorde|0.66667 and|0.65625 the|0.64583 Tupolev|0.63542 Tu|0.625 144|0.61458 The|0.60417 last|0.59375 passenger|0.58333 flight|0.57292 for|0.5625 the|0.55208 Tu|0.54167 144|0.53125 was|0.52083 in|0.51042 June|0.5 1978|0.48958 and|0.47917 it|0.46875 was|0.45833 last|0.44792 flown|0.4375 in|0.42708 1999|0.41667 by|0.40625 NASA|0.39583 Concorde|0.38542 s|0.375 last|0.36458 commercial|0.35417 flight|0.34375 was|0.33333 in|0.32292 October|0.3125 2003|0.30208 with|0.29167 a|0.28125 November|0.27083 26|0.26042 2003|0.25 ferry|0.23958 flight|0.22917 being|0.21875 its|0.20833 last|0.19792 airborne|0.1875 operation|0.17708 Following|0.16667 the|0.15625 permanent|0.14583 cessation|0.13542 of|0.125 flying|0.11458 by|0.10417 Concorde|0.09375 there|0.083333 are|0.072917 no|0.0625 remaining|0.052083 SSTs|0.041667 in|0.03125 commercial|0.020833 service|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

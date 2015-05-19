@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "10c18e5ce4fad19168eb24814681bc37f6bfa024aa42067bbecffeb7c7919dfb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gilligaloola.jpg/220px-Gilligaloola.jpg",
+			"previous": " ",
+			"after": " Selfe died suddenly on 15 October 1911 His death certificate states the cause of death as heart failure brought on by exertion 11 His daughter Norma offered some context to a journalist in 1957 She said ",
+			"color": "black|0.2165 dim|0.19202 gray|0.19202 dim|0.19202 grey|0.19202 dark|0.17571 gray|0.17571 dark|0.17571 grey|0.17571 gray|0.15618 grey|0.15618 silver|0.080363 light|0.048903 gray|0.048903 light|0.048903 grey|0.048903 gainsboro|0.038364 slate|0.027399 gray|0.027399 light|0.010518 slate|0.010518 gray|0.010518 white|0.010029 smoke|0.010029 alice|0.0069795 blue|0.0069795 ghost|0.0063736 white|0.0063736 lavender|0.0059142 blush|0.0059142 lavender|0.0047676 snow|0.0047546  ",
+			"after_weights": " Selfe|1 died|0.97222 suddenly|0.94444 on|0.91667 15|0.88889 October|0.86111 1911|0.83333 His|0.80556 death|0.77778 certificate|0.75 states|0.72222 the|0.69444 cause|0.66667 of|0.63889 death|0.61111 as|0.58333 heart|0.55556 failure|0.52778 brought|0.5 on|0.47222 by|0.44444 exertion|0.41667 11|0.38889 His|0.36111 daughter|0.33333 Norma|0.30556 offered|0.27778 some|0.25 context|0.22222 to|0.19444 a|0.16667 journalist|0.13889 in|0.11111 1957|0.083333 She|0.055556 said|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

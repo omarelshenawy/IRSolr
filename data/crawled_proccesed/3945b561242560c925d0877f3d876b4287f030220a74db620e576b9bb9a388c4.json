@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3945b561242560c925d0877f3d876b4287f030220a74db620e576b9bb9a388c4",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/52px-PD-icon.svg.png",
+			"previous": " Photo comes from my own collection and was scanned by me Mrlopez2681 03 20 2 November 2006 UTC  Photo taken by A A Pasetti of Tsar Nicholas II of Russia near age 30 at St Petersburg Russia 1898 ",
+			"after": " ",
+			"color": "gray|0.72143 grey|0.72143 dim|0.12598 gray|0.12598 dim|0.12598 grey|0.12598 dark|0.10195 gray|0.10195 dark|0.10195 grey|0.10195 silver|0.036542 light|0.010059 gray|0.010059 light|0.010059 grey|0.010059 gainsboro|0.0040419  ",
+			"after_weights": " ",
+			"previous_weights": " Photo|0 comes|0.025641 from|0.051282 my|0.076923 own|0.10256 collection|0.12821 and|0.15385 was|0.17949 scanned|0.20513 by|0.23077 me|0.25641 Mrlopez2681|0.28205 03|0.30769 20|0.33333 2|0.35897 November|0.38462 2006|0.41026 UTC|0.4359 |0.46154 Photo|0.48718 taken|0.51282 by|0.53846 A|0.5641 A|0.58974 Pasetti|0.61538 of|0.64103 Tsar|0.66667 Nicholas|0.69231 II|0.71795 of|0.74359 Russia|0.76923 near|0.79487 age|0.82051 30|0.84615 at|0.87179 St|0.89744 Petersburg|0.92308 Russia|0.94872 1898|0.97436 |1"
+		}
+	}
+}

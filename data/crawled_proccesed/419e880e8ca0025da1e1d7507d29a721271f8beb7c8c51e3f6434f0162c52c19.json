@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "419e880e8ca0025da1e1d7507d29a721271f8beb7c8c51e3f6434f0162c52c19",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orthographic_projection_centred_over_Wallis_and_Futuna_Islands.png/200px-Orthographic_projection_centred_over_Wallis_and_Futuna_Islands.png",
+			"previous": " ",
+			"after": " The primary use of the term Oceania is to describe a continental region like Europe or Africa that lies between Asia and the Americas with Australia as the major land mass The name Oceania is used rather than Australasia because unlike the other continental groupings it is the ocean rather than the continent that links the nations together Oceania is the smallest continental grouping in land area and the second smallest after Antarctica in population ",
+			"color": "dodger|0.79633 blue|0.79633 royal|0.12259 blue|0.12259 gold|0.045687 golden|0.015263 rod|0.015263 dark|0.011339 golden|0.011339 rod|0.011339  ",
+			"after_weights": " The|1 primary|0.98667 use|0.97333 of|0.96 the|0.94667 term|0.93333 Oceania|0.92 is|0.90667 to|0.89333 describe|0.88 a|0.86667 continental|0.85333 region|0.84 like|0.82667 Europe|0.81333 or|0.8 Africa|0.78667 that|0.77333 lies|0.76 between|0.74667 Asia|0.73333 and|0.72 the|0.70667 Americas|0.69333 with|0.68 Australia|0.66667 as|0.65333 the|0.64 major|0.62667 land|0.61333 mass|0.6 The|0.58667 name|0.57333 Oceania|0.56 is|0.54667 used|0.53333 rather|0.52 than|0.50667 Australasia|0.49333 because|0.48 unlike|0.46667 the|0.45333 other|0.44 continental|0.42667 groupings|0.41333 it|0.4 is|0.38667 the|0.37333 ocean|0.36 rather|0.34667 than|0.33333 the|0.32 continent|0.30667 that|0.29333 links|0.28 the|0.26667 nations|0.25333 together|0.24 Oceania|0.22667 is|0.21333 the|0.2 smallest|0.18667 continental|0.17333 grouping|0.16 in|0.14667 land|0.13333 area|0.12 and|0.10667 the|0.093333 second|0.08 smallest|0.066667 after|0.053333 Antarctica|0.04 in|0.026667 population|0.013333 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "350fc61d93e9eb34ad175057584bfd45ea1f8f7135a6a4546bf1c537dee6db29",
+			"url": "https://upload.wikimedia.org/math/9/1/9/9199b3f3fbb1a23688e9b8c84979da32.png",
+			"previous": " Where the coefficient before the Laplacian the second moment of probability of displacement is interpreted as mass diffusivity D ",
+			"after": " Then the density of Brownian particles at point x at time t satisfies the diffusion equation ",
+			"color": "dim|0.4055 gray|0.4055 dim|0.4055 grey|0.4055 gray|0.27752 grey|0.27752 dark|0.1714 gray|0.1714 dark|0.1714 grey|0.1714 silver|0.072866 light|0.033495 gray|0.033495 light|0.033495 grey|0.033495 gainsboro|0.022063 white|0.0036644 smoke|0.0036644  ",
+			"after_weights": " Then|1 the|0.9375 density|0.875 of|0.8125 Brownian|0.75 particles|0.6875 at|0.625 point|0.5625 x|0.5 at|0.4375 time|0.375 t|0.3125 satisfies|0.25 the|0.1875 diffusion|0.125 equation|0.0625 |0",
+			"previous_weights": " Where|0 the|0.052632 coefficient|0.10526 before|0.15789 the|0.21053 Laplacian|0.26316 the|0.31579 second|0.36842 moment|0.42105 of|0.47368 probability|0.52632 of|0.57895 displacement|0.63158 is|0.68421 interpreted|0.73684 as|0.78947 mass|0.84211 diffusivity|0.89474 D|0.94737 |1"
+		}
+	}
+}

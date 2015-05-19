@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "900a3a2d8eb9009e7966960a34c3cb1a6a3043273699416f8b83d245934b7dcb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/880mm_Flak_D_WWII_db.jpg/220px-880mm_Flak_D_WWII_db.jpg",
+			"previous": " ",
+			"after": " A fire control system is a number of components working together usually a gun data computer a director and radar which is designed to assist a weapon system in hitting its target It performs the same task as a human gunner firing a weapon but attempts to do so faster and more accurately ",
+			"color": "black|0.82387 dim|0.10224 gray|0.10224 dim|0.10224 grey|0.10224 gray|0.024968 grey|0.024968  ",
+			"after_weights": " A|1 fire|0.98113 control|0.96226 system|0.9434 is|0.92453 a|0.90566 number|0.88679 of|0.86792 components|0.84906 working|0.83019 together|0.81132 usually|0.79245 a|0.77358 gun|0.75472 data|0.73585 computer|0.71698 a|0.69811 director|0.67925 and|0.66038 radar|0.64151 which|0.62264 is|0.60377 designed|0.58491 to|0.56604 assist|0.54717 a|0.5283 weapon|0.50943 system|0.49057 in|0.4717 hitting|0.45283 its|0.43396 target|0.41509 It|0.39623 performs|0.37736 the|0.35849 same|0.33962 task|0.32075 as|0.30189 a|0.28302 human|0.26415 gunner|0.24528 firing|0.22642 a|0.20755 weapon|0.18868 but|0.16981 attempts|0.15094 to|0.13208 do|0.11321 so|0.09434 faster|0.075472 and|0.056604 more|0.037736 accurately|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

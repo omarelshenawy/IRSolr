@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8696bbc00caa151f5cf7609ea6734dcace350cf7c95596eff147332a378ee2df",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/China_Southern_A320-231%28B-6319%29_%283476023933%29.jpg/220px-China_Southern_A320-231%28B-6319%29_%283476023933%29.jpg",
+			"previous": " The airline has also codeshare agreements with the following airlines in addition to SkyTeam members citation needed ",
+			"after": " The China Southern Airlines Passenger fleet consists of the following aircraft as of May 2015 47 48 ",
+			"color": "silver|0.53077 light|0.10614 gray|0.10614 light|0.10614 grey|0.10614 dark|0.088524 gray|0.088524 dark|0.088524 grey|0.088524 dim|0.078044 gray|0.078044 dim|0.078044 grey|0.078044 gray|0.063578 grey|0.063578 slate|0.024419 gray|0.024419 light|0.024288 slate|0.024288 gray|0.024288 black|0.022669 gainsboro|0.018442 light|0.0092103 steel|0.0092103 blue|0.0092103  ",
+			"after_weights": " The|1 China|0.94118 Southern|0.88235 Airlines|0.82353 Passenger|0.76471 fleet|0.70588 consists|0.64706 of|0.58824 the|0.52941 following|0.47059 aircraft|0.41176 as|0.35294 of|0.29412 May|0.23529 2015|0.17647 47|0.11765 48|0.058824 |0",
+			"previous_weights": " The|0 airline|0.058824 has|0.11765 also|0.17647 codeshare|0.23529 agreements|0.29412 with|0.35294 the|0.41176 following|0.47059 airlines|0.52941 in|0.58824 addition|0.64706 to|0.70588 SkyTeam|0.76471 members|0.82353 citation|0.88235 needed|0.94118 |1"
+		}
+	}
+}

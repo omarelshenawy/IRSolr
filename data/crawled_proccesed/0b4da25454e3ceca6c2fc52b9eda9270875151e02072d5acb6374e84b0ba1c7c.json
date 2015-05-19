@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b4da25454e3ceca6c2fc52b9eda9270875151e02072d5acb6374e84b0ba1c7c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ST-bakerelephant.jpg/220px-ST-bakerelephant.jpg",
+			"previous": " A safari from a Swahili word meaning a long journey especially in Africa is defined as an overland journey ",
+			"after": " Safari as a distinctive way of hunting was popularised by the US author Ernest Hemingway and President Theodore Roosevelt A safari may consist of a several days or even weeks long journey with camping in the bush or jungle while pursuing big game Nowadays it is often used to describe tours through African national parks to watch or hunt wildlife ",
+			"color": " ",
+			"after_weights": " Safari|1 as|0.98333 a|0.96667 distinctive|0.95 way|0.93333 of|0.91667 hunting|0.9 was|0.88333 popularised|0.86667 by|0.85 the|0.83333 US|0.81667 author|0.8 Ernest|0.78333 Hemingway|0.76667 and|0.75 President|0.73333 Theodore|0.71667 Roosevelt|0.7 A|0.68333 safari|0.66667 may|0.65 consist|0.63333 of|0.61667 a|0.6 several|0.58333 days|0.56667 or|0.55 even|0.53333 weeks|0.51667 long|0.5 journey|0.48333 with|0.46667 camping|0.45 in|0.43333 the|0.41667 bush|0.4 or|0.38333 jungle|0.36667 while|0.35 pursuing|0.33333 big|0.31667 game|0.3 Nowadays|0.28333 it|0.26667 is|0.25 often|0.23333 used|0.21667 to|0.2 describe|0.18333 tours|0.16667 through|0.15 African|0.13333 national|0.11667 parks|0.1 to|0.083333 watch|0.066667 or|0.05 hunt|0.033333 wildlife|0.016667 |0",
+			"previous_weights": " A|0 safari|0.052632 from|0.10526 a|0.15789 Swahili|0.21053 word|0.26316 meaning|0.31579 a|0.36842 long|0.42105 journey|0.47368 especially|0.52632 in|0.57895 Africa|0.63158 is|0.68421 defined|0.73684 as|0.78947 an|0.84211 overland|0.89474 journey|0.94737 |1"
+		}
+	}
+}

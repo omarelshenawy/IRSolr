@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fdbe36eaecff868a970d208e6f382f3474acd95863abe2c6f93af6cb2a5d11e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Australian_defence_force_academy_sign.jpg/75px-Australian_defence_force_academy_sign.jpg",
+			"previous": " ",
+			"after": " The stated purpose of ADFA is to serve Australia by providing the Australian Defence Force ADF with tertiary graduates who have the foundational attributes intellect and skills required of an officer ",
+			"color": "dim|0.42352 gray|0.42352 dim|0.42352 grey|0.42352 gray|0.10985 grey|0.10985 brown|0.080592 dark|0.07543 slate|0.07543 gray|0.07543 dark|0.056043 gray|0.056043 dark|0.056043 grey|0.056043 silver|0.046669 light|0.038174 gray|0.038174 light|0.038174 grey|0.038174 gainsboro|0.027123 cadet|0.020831 blue|0.020831 firebrick|0.016912 slate|0.016601 gray|0.016601 light|0.013293 slate|0.013293 gray|0.013293 black|0.010306  ",
+			"after_weights": " The|1 stated|0.96774 purpose|0.93548 of|0.90323 ADFA|0.87097 is|0.83871 to|0.80645 serve|0.77419 Australia|0.74194 by|0.70968 providing|0.67742 the|0.64516 Australian|0.6129 Defence|0.58065 Force|0.54839 ADF|0.51613 with|0.48387 tertiary|0.45161 graduates|0.41935 who|0.3871 have|0.35484 the|0.32258 foundational|0.29032 attributes|0.25806 intellect|0.22581 and|0.19355 skills|0.16129 required|0.12903 of|0.096774 an|0.064516 officer|0.032258 |0",
+			"previous_weights": " "
+		}
+	}
+}

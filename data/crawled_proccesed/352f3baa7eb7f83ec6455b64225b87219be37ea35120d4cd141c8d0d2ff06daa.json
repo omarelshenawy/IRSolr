@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "352f3baa7eb7f83ec6455b64225b87219be37ea35120d4cd141c8d0d2ff06daa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tbilisi_airport_1.jpg/220px-Tbilisi_airport_1.jpg",
+			"previous": " Out of the city s historic landmarks the most notable are the Narikala fortress 4th 17th century Anchiskhati Church 6th century built up in the 16th century Sioni Cathedral 8th century later rebuilt Church of Metekhi 13th century etc ",
+			"after": " ",
+			"color": "dim|0.25947 gray|0.25947 dim|0.25947 grey|0.25947 burly|0.10097 wood|0.10097 tan|0.089365 peru|0.071488 gray|0.065484 grey|0.065484 khaki|0.064838 dark|0.050845 olive|0.050845 green|0.050845 sandy|0.046758 brown|0.046758  ",
+			"after_weights": " ",
+			"previous_weights": " Out|0 of|0.025641 the|0.051282 city|0.076923 s|0.10256 historic|0.12821 landmarks|0.15385 the|0.17949 most|0.20513 notable|0.23077 are|0.25641 the|0.28205 Narikala|0.30769 fortress|0.33333 4th|0.35897 17th|0.38462 century|0.41026 Anchiskhati|0.4359 Church|0.46154 6th|0.48718 century|0.51282 built|0.53846 up|0.5641 in|0.58974 the|0.61538 16th|0.64103 century|0.66667 Sioni|0.69231 Cathedral|0.71795 8th|0.74359 century|0.76923 later|0.79487 rebuilt|0.82051 Church|0.84615 of|0.87179 Metekhi|0.89744 13th|0.92308 century|0.94872 etc|0.97436 |1"
+		}
+	}
+}

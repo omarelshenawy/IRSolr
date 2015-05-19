@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f02400a4f4bfd59b4ed0d60a6cf68d6ca683fcaf2fe1f27482f1ae8862c075c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Albania_%281943-1944%29.svg/23px-Flag_of_Albania_%281943-1944%29.svg.png",
+			"previous": " Occupied territories of Nazi Germany German occupied territory of Montenegro Kingdom of Hungary Territory of the Military Commander in Serbia Puppet government of Nazi Germany Commissioner Government",
+			"after": " ",
+			"color": "black|0.422 dark|0.29034 red|0.29034 maroon|0.28766  ",
+			"after_weights": " ",
+			"previous_weights": " Occupied|0 territories|0.038462 of|0.076923 Nazi|0.11538 Germany|0.15385 German|0.19231 occupied|0.23077 territory|0.26923 of|0.30769 Montenegro|0.34615 Kingdom|0.38462 of|0.42308 Hungary|0.46154 Territory|0.5 of|0.53846 the|0.57692 Military|0.61538 Commander|0.65385 in|0.69231 Serbia|0.73077 Puppet|0.76923 government|0.80769 of|0.84615 Nazi|0.88462 Germany|0.92308 Commissioner|0.96154 Government|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b824ccec335529cef87d98dcdd9dc5f217d2d1c27916eb78b1d62690f387be8c",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/SNES_Star_Fox.png/220px-SNES_Star_Fox.png",
+			"previous": " ",
+			"after": " As part of the overall plan for the SNES rather than include an expensive CPU that would still become obsolete in a few years the hardware designers made it easy to interface special coprocessor chips to the console just like the MMC chips used for most NES games This is most often characterized by 16 additional pins on the cartridge card edge 74 ",
+			"color": "cadet|0.37966 blue|0.37966 sandy|0.16917 brown|0.16917 silver|0.1017 light|0.10101 steel|0.10101 blue|0.10101 light|0.060255 gray|0.060255 light|0.060255 grey|0.060255 gainsboro|0.038488 slate|0.026151 gray|0.026151 dark|0.019027 gray|0.019027 dark|0.019027 grey|0.019027 red|0.017322  ",
+			"after_weights": " As|1 part|0.98413 of|0.96825 the|0.95238 overall|0.93651 plan|0.92063 for|0.90476 the|0.88889 SNES|0.87302 rather|0.85714 than|0.84127 include|0.8254 an|0.80952 expensive|0.79365 CPU|0.77778 that|0.7619 would|0.74603 still|0.73016 become|0.71429 obsolete|0.69841 in|0.68254 a|0.66667 few|0.65079 years|0.63492 the|0.61905 hardware|0.60317 designers|0.5873 made|0.57143 it|0.55556 easy|0.53968 to|0.52381 interface|0.50794 special|0.49206 coprocessor|0.47619 chips|0.46032 to|0.44444 the|0.42857 console|0.4127 just|0.39683 like|0.38095 the|0.36508 MMC|0.34921 chips|0.33333 used|0.31746 for|0.30159 most|0.28571 NES|0.26984 games|0.25397 This|0.2381 is|0.22222 most|0.20635 often|0.19048 characterized|0.1746 by|0.15873 16|0.14286 additional|0.12698 pins|0.11111 on|0.095238 the|0.079365 cartridge|0.063492 card|0.047619 edge|0.031746 74|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

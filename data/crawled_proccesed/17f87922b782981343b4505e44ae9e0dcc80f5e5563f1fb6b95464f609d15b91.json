@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17f87922b782981343b4505e44ae9e0dcc80f5e5563f1fb6b95464f609d15b91",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bridge_at_stanton_drew.JPG/220px-Bridge_at_stanton_drew.JPG",
+			"previous": " ",
+			"after": " At the western end of the valley is the A38 and Bristol Airport which means parts of the valley are on the flight path The valley is also crossed by the A37 and they are joined by the A368 Most of the roads in the valley are small single track lanes with little traffic although a bottleneck often occurs within Chew Magna The Chew Valley Explorer bus route 672 674 provides access to the villages in the valley 49 Cyclists can gain access via part of the Padstow to Bristol West Country Way National Cycle Network Route 3 ",
+			"color": "dark|0.34751 sea|0.34751 green|0.34751 dim|0.28758 gray|0.28758 dim|0.28758 grey|0.28758 gray|0.2215 grey|0.2215 dark|0.058132 olive|0.058132 green|0.058132 dark|0.028213 slate|0.028213 gray|0.028213 dark|0.024889 gray|0.024889 dark|0.024889 grey|0.024889  ",
+			"after_weights": " At|1 the|0.9898 western|0.97959 end|0.96939 of|0.95918 the|0.94898 valley|0.93878 is|0.92857 the|0.91837 A38|0.90816 and|0.89796 Bristol|0.88776 Airport|0.87755 which|0.86735 means|0.85714 parts|0.84694 of|0.83673 the|0.82653 valley|0.81633 are|0.80612 on|0.79592 the|0.78571 flight|0.77551 path|0.76531 The|0.7551 valley|0.7449 is|0.73469 also|0.72449 crossed|0.71429 by|0.70408 the|0.69388 A37|0.68367 and|0.67347 they|0.66327 are|0.65306 joined|0.64286 by|0.63265 the|0.62245 A368|0.61224 Most|0.60204 of|0.59184 the|0.58163 roads|0.57143 in|0.56122 the|0.55102 valley|0.54082 are|0.53061 small|0.52041 single|0.5102 track|0.5 lanes|0.4898 with|0.47959 little|0.46939 traffic|0.45918 although|0.44898 a|0.43878 bottleneck|0.42857 often|0.41837 occurs|0.40816 within|0.39796 Chew|0.38776 Magna|0.37755 The|0.36735 Chew|0.35714 Valley|0.34694 Explorer|0.33673 bus|0.32653 route|0.31633 672|0.30612 674|0.29592 provides|0.28571 access|0.27551 to|0.26531 the|0.2551 villages|0.2449 in|0.23469 the|0.22449 valley|0.21429 49|0.20408 Cyclists|0.19388 can|0.18367 gain|0.17347 access|0.16327 via|0.15306 part|0.14286 of|0.13265 the|0.12245 Padstow|0.11224 to|0.10204 Bristol|0.091837 West|0.081633 Country|0.071429 Way|0.061224 National|0.05102 Cycle|0.040816 Network|0.030612 Route|0.020408 3|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

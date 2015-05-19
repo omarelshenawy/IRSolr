@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b114fef3eeac48adf14b731dcdb817e0e169d5a277ff3d1318d94329d0dca52",
+			"url": "https://upload.wikimedia.org/math/5/a/3/5a3f79db72b11466875d33149e443f24.png",
+			"previous": " such that for any the following holds ",
+			"after": " A sequence is an ordered list Like a set it contains members also called elements or terms Unlike a set order matters and exactly the same elements can appear multiple times at different positions in the sequence Most precisely a sequence can be defined as a function whose domain is a countable totally ordered set such as the natural numbers ",
+			"color": "dim|0.43002 gray|0.43002 dim|0.43002 grey|0.43002 gray|0.28544 grey|0.28544 dark|0.13435 gray|0.13435 dark|0.13435 grey|0.13435 silver|0.063654 light|0.035524 gray|0.035524 light|0.035524 grey|0.035524 gainsboro|0.025921 white|0.00541 smoke|0.00541  ",
+			"after_weights": " A|1 sequence|0.98333 is|0.96667 an|0.95 ordered|0.93333 list|0.91667 Like|0.9 a|0.88333 set|0.86667 it|0.85 contains|0.83333 members|0.81667 also|0.8 called|0.78333 elements|0.76667 or|0.75 terms|0.73333 Unlike|0.71667 a|0.7 set|0.68333 order|0.66667 matters|0.65 and|0.63333 exactly|0.61667 the|0.6 same|0.58333 elements|0.56667 can|0.55 appear|0.53333 multiple|0.51667 times|0.5 at|0.48333 different|0.46667 positions|0.45 in|0.43333 the|0.41667 sequence|0.4 Most|0.38333 precisely|0.36667 a|0.35 sequence|0.33333 can|0.31667 be|0.3 defined|0.28333 as|0.26667 a|0.25 function|0.23333 whose|0.21667 domain|0.2 is|0.18333 a|0.16667 countable|0.15 totally|0.13333 ordered|0.11667 set|0.1 such|0.083333 as|0.066667 the|0.05 natural|0.033333 numbers|0.016667 |0",
+			"previous_weights": " such|0 that|0.14286 for|0.28571 any|0.42857 the|0.57143 following|0.71429 holds|0.85714 |1"
+		}
+	}
+}

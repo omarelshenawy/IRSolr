@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d0a51aa4ceaa600f6de9dec4a548d333e9e343a48d3a7debd6120474fe46aa4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Horsehead-Hubble.jpg/220px-Horsehead-Hubble.jpg",
+			"previous": " It has always been important for the Space Telescope to capture the public s imagination given the considerable contribution of taxpayers to its construction and operational costs 147 After the difficult early years when the faulty mirror severely dented Hubble s reputation with the public the first servicing mission allowed its rehabilitation as the corrected optics produced numerous remarkable images ",
+			"after": " Several initiatives have helped to keep the public informed about Hubble activities ",
+			"color": "black|0.71747 dim|0.2193 gray|0.2193 dim|0.2193 grey|0.2193 gray|0.051969 grey|0.051969  ",
+			"after_weights": " Several|1 initiatives|0.91667 have|0.83333 helped|0.75 to|0.66667 keep|0.58333 the|0.5 public|0.41667 informed|0.33333 about|0.25 Hubble|0.16667 activities|0.083333 |0",
+			"previous_weights": " It|0 has|0.016667 always|0.033333 been|0.05 important|0.066667 for|0.083333 the|0.1 Space|0.11667 Telescope|0.13333 to|0.15 capture|0.16667 the|0.18333 public|0.2 s|0.21667 imagination|0.23333 given|0.25 the|0.26667 considerable|0.28333 contribution|0.3 of|0.31667 taxpayers|0.33333 to|0.35 its|0.36667 construction|0.38333 and|0.4 operational|0.41667 costs|0.43333 147|0.45 After|0.46667 the|0.48333 difficult|0.5 early|0.51667 years|0.53333 when|0.55 the|0.56667 faulty|0.58333 mirror|0.6 severely|0.61667 dented|0.63333 Hubble|0.65 s|0.66667 reputation|0.68333 with|0.7 the|0.71667 public|0.73333 the|0.75 first|0.76667 servicing|0.78333 mission|0.8 allowed|0.81667 its|0.83333 rehabilitation|0.85 as|0.86667 the|0.88333 corrected|0.9 optics|0.91667 produced|0.93333 numerous|0.95 remarkable|0.96667 images|0.98333 |1"
+		}
+	}
+}

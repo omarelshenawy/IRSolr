@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "202dc9ebc67e19b7c4d8b47d2dbe412e12f77017a0bac3c23d266e99fa3d9923",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Icos_Laboratories.JPG/100px-Icos_Laboratories.JPG",
+			"previous": " ",
+			"after": " Co founded in 1989 by George B Rathmann a pioneer in the industry and Chief Executive Officer CEO and co founder of Amgen Icos focused on the development of drugs to treat inflammatory disorders ",
+			"color": "black|0.5549 dark|0.10816 gray|0.10816 dark|0.10816 grey|0.10816 silver|0.10574 light|0.061844 gray|0.061844 light|0.061844 grey|0.061844 dark|0.048181 khaki|0.048181 gainsboro|0.045023 gray|0.026676 grey|0.026676 dim|0.021807 gray|0.021807 dim|0.021807 grey|0.021807  ",
+			"after_weights": " Co|1 founded|0.97059 in|0.94118 1989|0.91176 by|0.88235 George|0.85294 B|0.82353 Rathmann|0.79412 a|0.76471 pioneer|0.73529 in|0.70588 the|0.67647 industry|0.64706 and|0.61765 Chief|0.58824 Executive|0.55882 Officer|0.52941 CEO|0.5 and|0.47059 co|0.44118 founder|0.41176 of|0.38235 Amgen|0.35294 Icos|0.32353 focused|0.29412 on|0.26471 the|0.23529 development|0.20588 of|0.17647 drugs|0.14706 to|0.11765 treat|0.088235 inflammatory|0.058824 disorders|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

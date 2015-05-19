@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b435cd21cf05b31fcfa71782ba03b18ee5e39266752fbb1fee79860c3265f83",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nevado_del_Ruiz_-_radar_image_from_space.jpg/220px-Nevado_del_Ruiz_-_radar_image_from_space.jpg",
+			"previous": " ",
+			"after": " Nevado del Ruiz which lies about 129 kilometers 80 mi west of Bogot is part of the Andes mountain range The volcano is part of the Ruiz Tolima volcanic massif or Cordillera Central a group of five ice capped volcanoes which includes the Tolima Santa Isabel Quindio and Machin volcanoes 6 7 The massif is located at the intersection of four faults some of which still are active 8 ",
+			"color": "dim|0.16061 gray|0.16061 dim|0.16061 grey|0.16061 gray|0.14995 grey|0.14995 rosy|0.13727 brown|0.13727 dark|0.1195 gray|0.1195 dark|0.1195 grey|0.1195 black|0.098571 silver|0.065592 thistle|0.061942 light|0.037422 gray|0.037422 light|0.037422 grey|0.037422 gainsboro|0.025942 misty|0.019877 rose|0.019877  ",
+			"after_weights": " Nevado|1 del|0.98551 Ruiz|0.97101 which|0.95652 lies|0.94203 about|0.92754 129|0.91304 kilometers|0.89855 80|0.88406 mi|0.86957 west|0.85507 of|0.84058 Bogot|0.82609 is|0.81159 part|0.7971 of|0.78261 the|0.76812 Andes|0.75362 mountain|0.73913 range|0.72464 The|0.71014 volcano|0.69565 is|0.68116 part|0.66667 of|0.65217 the|0.63768 Ruiz|0.62319 Tolima|0.6087 volcanic|0.5942 massif|0.57971 or|0.56522 Cordillera|0.55072 Central|0.53623 a|0.52174 group|0.50725 of|0.49275 five|0.47826 ice|0.46377 capped|0.44928 volcanoes|0.43478 which|0.42029 includes|0.4058 the|0.3913 Tolima|0.37681 Santa|0.36232 Isabel|0.34783 Quindio|0.33333 and|0.31884 Machin|0.30435 volcanoes|0.28986 6|0.27536 7|0.26087 The|0.24638 massif|0.23188 is|0.21739 located|0.2029 at|0.18841 the|0.17391 intersection|0.15942 of|0.14493 four|0.13043 faults|0.11594 some|0.10145 of|0.086957 which|0.072464 still|0.057971 are|0.043478 active|0.028986 8|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

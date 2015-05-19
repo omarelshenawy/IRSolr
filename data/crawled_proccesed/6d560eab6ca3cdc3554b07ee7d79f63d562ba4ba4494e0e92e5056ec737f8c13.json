@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d560eab6ca3cdc3554b07ee7d79f63d562ba4ba4494e0e92e5056ec737f8c13",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Eurocopter_company_logo.svg/250px-Eurocopter_company_logo.svg.png",
+			"previous": " Today Airbus Helicopters has four main plants in Europe Marignane and La Courneuve in France and Donauw rth and Kassel in Germany plus 32 subsidiaries and participants around the world including those in Brisbane Australia Albacete Spain and Grand Prairie USA 7 8 ",
+			"after": " As of 2014 more than 12 000 Airbus Helicopters were in service with over 3 000 customers in around 150 countries 9 ",
+			"color": "dark|0.10696 gray|0.10696 dark|0.10696 grey|0.10696 silver|0.085455 light|0.070193 gray|0.070193 light|0.070193 grey|0.070193 white|0.066472 smoke|0.066472 gray|0.061947 grey|0.061947 alice|0.059886 blue|0.059886 ghost|0.059279 white|0.059279 gainsboro|0.058929 sea|0.058739 shell|0.058739 snow|0.058594 white|0.056803 lavender|0.056436 blush|0.056436 mint|0.054854 cream|0.054854 floral|0.052062 white|0.052062 azure|0.050643 linen|0.010433 light|0.0056827 sky|0.0056827 blue|0.0056827 sky|0.0055161 blue|0.0055161 light|0.0048158 blue|0.0048158 dim|0.0046861 gray|0.0046861 dim|0.0046861 grey|0.0046861 ivory|0.0031451  ",
+			"after_weights": " As|1 of|0.95455 2014|0.90909 more|0.86364 than|0.81818 12|0.77273 000|0.72727 Airbus|0.68182 Helicopters|0.63636 were|0.59091 in|0.54545 service|0.5 with|0.45455 over|0.40909 3|0.36364 000|0.31818 customers|0.27273 in|0.22727 around|0.18182 150|0.13636 countries|0.090909 9|0.045455 |0",
+			"previous_weights": " Today|0 Airbus|0.023256 Helicopters|0.046512 has|0.069767 four|0.093023 main|0.11628 plants|0.13953 in|0.16279 Europe|0.18605 Marignane|0.2093 and|0.23256 La|0.25581 Courneuve|0.27907 in|0.30233 France|0.32558 and|0.34884 Donauw|0.37209 rth|0.39535 and|0.4186 Kassel|0.44186 in|0.46512 Germany|0.48837 plus|0.51163 32|0.53488 subsidiaries|0.55814 and|0.5814 participants|0.60465 around|0.62791 the|0.65116 world|0.67442 including|0.69767 those|0.72093 in|0.74419 Brisbane|0.76744 Australia|0.7907 Albacete|0.81395 Spain|0.83721 and|0.86047 Grand|0.88372 Prairie|0.90698 USA|0.93023 7|0.95349 8|0.97674 |1"
+		}
+	}
+}

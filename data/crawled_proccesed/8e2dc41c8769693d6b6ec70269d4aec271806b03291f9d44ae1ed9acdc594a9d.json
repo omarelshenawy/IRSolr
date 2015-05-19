@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e2dc41c8769693d6b6ec70269d4aec271806b03291f9d44ae1ed9acdc594a9d",
+			"url": "https://upload.wikimedia.org/math/0/d/5/0d596fa9f638a9d575c961dc719f8bbf.png",
+			"previous": " Substituting for and multiplying by r gives torque as ",
+			"after": " which can be integrated as before  The total thrust power of the propeller is proportional to and the shaft power to So efficiency is The blade efficiency is in the ratio between thrust and torque ",
+			"color": "dim|0.36358 gray|0.36358 dim|0.36358 grey|0.36358 gray|0.29497 grey|0.29497 dark|0.18532 gray|0.18532 dark|0.18532 grey|0.18532 silver|0.076705 light|0.036217 gray|0.036217 light|0.036217 grey|0.036217 gainsboro|0.024438 white|0.0045066 smoke|0.0045066  ",
+			"after_weights": " which|1 can|0.97222 be|0.94444 integrated|0.91667 as|0.88889 before|0.86111 |0.83333 The|0.80556 total|0.77778 thrust|0.75 power|0.72222 of|0.69444 the|0.66667 propeller|0.63889 is|0.61111 proportional|0.58333 to|0.55556 and|0.52778 the|0.5 shaft|0.47222 power|0.44444 to|0.41667 So|0.38889 efficiency|0.36111 is|0.33333 The|0.30556 blade|0.27778 efficiency|0.25 is|0.22222 in|0.19444 the|0.16667 ratio|0.13889 between|0.11111 thrust|0.083333 and|0.055556 torque|0.027778 |0",
+			"previous_weights": " Substituting|0 for|0.11111 and|0.22222 multiplying|0.33333 by|0.44444 r|0.55556 gives|0.66667 torque|0.77778 as|0.88889 |1"
+		}
+	}
+}

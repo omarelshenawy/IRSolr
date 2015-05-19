@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1da22169a6b06784cf80cd6684e8ffe62eecb148a9401de46b54da6c787e206c",
+			"url": "https://upload.wikimedia.org/math/9/0/5/9050664187c958bce4f5f4a63f898137.png",
+			"previous": " Substituting the above into 1 results in Manipulating this equation gives",
+			"after": " According to the mean value theorem for integration there exists a real number in x1 x1 x such that To keep the notation simple we will continue writing c instead of but one should keep in mind that c does depend on Substituting the above into 2 we get",
+			"color": "dim|0.40422 gray|0.40422 dim|0.40422 grey|0.40422 gray|0.2765 grey|0.2765 dark|0.17092 gray|0.17092 dark|0.17092 grey|0.17092 silver|0.071099 light|0.036482 gray|0.036482 light|0.036482 grey|0.036482 gainsboro|0.02548 white|0.0038343 smoke|0.0038343  ",
+			"after_weights": " According|1 to|0.97917 the|0.95833 mean|0.9375 value|0.91667 theorem|0.89583 for|0.875 integration|0.85417 there|0.83333 exists|0.8125 a|0.79167 real|0.77083 number|0.75 in|0.72917 x1|0.70833 x1|0.6875 x|0.66667 such|0.64583 that|0.625 To|0.60417 keep|0.58333 the|0.5625 notation|0.54167 simple|0.52083 we|0.5 will|0.47917 continue|0.45833 writing|0.4375 c|0.41667 instead|0.39583 of|0.375 but|0.35417 one|0.33333 should|0.3125 keep|0.29167 in|0.27083 mind|0.25 that|0.22917 c|0.20833 does|0.1875 depend|0.16667 on|0.14583 Substituting|0.125 the|0.10417 above|0.083333 into|0.0625 2|0.041667 we|0.020833 get|0",
+			"previous_weights": " Substituting|0 the|0.1 above|0.2 into|0.3 1|0.4 results|0.5 in|0.6 Manipulating|0.7 this|0.8 equation|0.9 gives|1"
+		}
+	}
+}

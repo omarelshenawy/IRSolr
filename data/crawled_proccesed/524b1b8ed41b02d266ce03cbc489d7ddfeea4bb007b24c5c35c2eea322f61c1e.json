@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "524b1b8ed41b02d266ce03cbc489d7ddfeea4bb007b24c5c35c2eea322f61c1e",
+			"url": "https://upload.wikimedia.org/math/5/1/9/519f7ab5ff8f5edc0e7b3f3dccb271f2.png",
+			"previous": " A subtler invariant of a linear transformation is the cokernel which is defined as",
+			"after": " This is the dual notion to the kernel just as the kernel is a subspace of the domain the co kernel is a quotient space of the target Formally one has the exact sequence",
+			"color": "dim|0.37156 gray|0.37156 dim|0.37156 grey|0.37156 gray|0.31329 grey|0.31329 dark|0.17891 gray|0.17891 dark|0.17891 grey|0.17891 silver|0.068844 light|0.031378 gray|0.031378 light|0.031378 grey|0.031378 gainsboro|0.021398 white|0.0037748 smoke|0.0037748  ",
+			"after_weights": " This|1 is|0.9697 the|0.93939 dual|0.90909 notion|0.87879 to|0.84848 the|0.81818 kernel|0.78788 just|0.75758 as|0.72727 the|0.69697 kernel|0.66667 is|0.63636 a|0.60606 subspace|0.57576 of|0.54545 the|0.51515 domain|0.48485 the|0.45455 co|0.42424 kernel|0.39394 is|0.36364 a|0.33333 quotient|0.30303 space|0.27273 of|0.24242 the|0.21212 target|0.18182 Formally|0.15152 one|0.12121 has|0.090909 the|0.060606 exact|0.030303 sequence|0",
+			"previous_weights": " A|0 subtler|0.076923 invariant|0.15385 of|0.23077 a|0.30769 linear|0.38462 transformation|0.46154 is|0.53846 the|0.61538 cokernel|0.69231 which|0.76923 is|0.84615 defined|0.92308 as|1"
+		}
+	}
+}

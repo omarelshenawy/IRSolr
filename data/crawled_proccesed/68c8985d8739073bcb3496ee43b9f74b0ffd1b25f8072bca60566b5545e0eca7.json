@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68c8985d8739073bcb3496ee43b9f74b0ffd1b25f8072bca60566b5545e0eca7",
+			"url": "https://upload.wikimedia.org/math/1/8/d/18dbfa493ce7231f5b1d9e68baf53fa7.png",
+			"previous": " It can be shown that the directional derivative is linear regarding its direction that is  This is similar to the usual definition of the gradient but it too extends to functions that are not necessarily scalar valued ",
+			"after": " For this reason is often noted  The standard order of operations for the geometric derivative is that it acts only on the function closest to its immediate right Given two functions F and G then for example we have",
+			"color": "dim|0.37273 gray|0.37273 dim|0.37273 grey|0.37273 gray|0.22454 grey|0.22454 black|0.16854 dark|0.13621 gray|0.13621 dark|0.13621 grey|0.13621 silver|0.051794 light|0.022523 gray|0.022523 light|0.022523 grey|0.022523 gainsboro|0.014223  ",
+			"after_weights": " For|1 this|0.97436 reason|0.94872 is|0.92308 often|0.89744 noted|0.87179 |0.84615 The|0.82051 standard|0.79487 order|0.76923 of|0.74359 operations|0.71795 for|0.69231 the|0.66667 geometric|0.64103 derivative|0.61538 is|0.58974 that|0.5641 it|0.53846 acts|0.51282 only|0.48718 on|0.46154 the|0.4359 function|0.41026 closest|0.38462 to|0.35897 its|0.33333 immediate|0.30769 right|0.28205 Given|0.25641 two|0.23077 functions|0.20513 F|0.17949 and|0.15385 G|0.12821 then|0.10256 for|0.076923 example|0.051282 we|0.025641 have|0",
+			"previous_weights": " It|0 can|0.026316 be|0.052632 shown|0.078947 that|0.10526 the|0.13158 directional|0.15789 derivative|0.18421 is|0.21053 linear|0.23684 regarding|0.26316 its|0.28947 direction|0.31579 that|0.34211 is|0.36842 |0.39474 This|0.42105 is|0.44737 similar|0.47368 to|0.5 the|0.52632 usual|0.55263 definition|0.57895 of|0.60526 the|0.63158 gradient|0.65789 but|0.68421 it|0.71053 too|0.73684 extends|0.76316 to|0.78947 functions|0.81579 that|0.84211 are|0.86842 not|0.89474 necessarily|0.92105 scalar|0.94737 valued|0.97368 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "122e42809dae24db6964d5a871080f3fe9084ca11922bc892a1597dc53295421",
+			"url": "https://upload.wikimedia.org/math/3/f/e/3fe49c4ce72f277250b1d3cff8212709.png",
+			"previous": " and This shows that both and are equal to since they are integers and is the sum of four squares",
+			"after": " Since has even integer coefficients will have integer coefficients and can be used instead of the original to give a representation of as the sum of four squares ",
+			"color": "dim|0.35638 gray|0.35638 dim|0.35638 grey|0.35638 gray|0.26748 grey|0.26748 dark|0.17887 gray|0.17887 dark|0.17887 grey|0.17887 silver|0.098128 light|0.051336 gray|0.051336 light|0.051336 grey|0.051336 gainsboro|0.036973  ",
+			"after_weights": " Since|1 has|0.96429 even|0.92857 integer|0.89286 coefficients|0.85714 will|0.82143 have|0.78571 integer|0.75 coefficients|0.71429 and|0.67857 can|0.64286 be|0.60714 used|0.57143 instead|0.53571 of|0.5 the|0.46429 original|0.42857 to|0.39286 give|0.35714 a|0.32143 representation|0.28571 of|0.25 as|0.21429 the|0.17857 sum|0.14286 of|0.10714 four|0.071429 squares|0.035714 |0",
+			"previous_weights": " and|0 This|0.052632 shows|0.10526 that|0.15789 both|0.21053 and|0.26316 are|0.31579 equal|0.36842 to|0.42105 since|0.47368 they|0.52632 are|0.57895 integers|0.63158 and|0.68421 is|0.73684 the|0.78947 sum|0.84211 of|0.89474 four|0.94737 squares|1"
+		}
+	}
+}

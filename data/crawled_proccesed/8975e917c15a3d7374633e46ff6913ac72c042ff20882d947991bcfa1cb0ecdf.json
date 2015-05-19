@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8975e917c15a3d7374633e46ff6913ac72c042ff20882d947991bcfa1cb0ecdf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Baggage_claim_2.jpg/200px-Baggage_claim_2.jpg",
+			"previous": " ",
+			"after": " In airport terminals a baggage claim area is an area where arriving passengers claim checked in baggage after disembarking from an airline flight 1 The alternative term baggage reclaim is used to mean the same thing 1 at many airports outside the USA e g Brussels Airport Heathrow Airport Kuala Lumpur International Airport Schiphol Airport and so on ",
+			"color": "dim|0.72614 gray|0.72614 dim|0.72614 grey|0.72614 gray|0.12224 grey|0.12224 dark|0.059311 gray|0.059311 dark|0.059311 grey|0.059311 slate|0.02333 gray|0.02333 light|0.020844 slate|0.020844 gray|0.020844 light|0.018347 steel|0.018347 blue|0.018347 silver|0.010982  ",
+			"after_weights": " In|1 airport|0.98276 terminals|0.96552 a|0.94828 baggage|0.93103 claim|0.91379 area|0.89655 is|0.87931 an|0.86207 area|0.84483 where|0.82759 arriving|0.81034 passengers|0.7931 claim|0.77586 checked|0.75862 in|0.74138 baggage|0.72414 after|0.7069 disembarking|0.68966 from|0.67241 an|0.65517 airline|0.63793 flight|0.62069 1|0.60345 The|0.58621 alternative|0.56897 term|0.55172 baggage|0.53448 reclaim|0.51724 is|0.5 used|0.48276 to|0.46552 mean|0.44828 the|0.43103 same|0.41379 thing|0.39655 1|0.37931 at|0.36207 many|0.34483 airports|0.32759 outside|0.31034 the|0.2931 USA|0.27586 e|0.25862 g|0.24138 Brussels|0.22414 Airport|0.2069 Heathrow|0.18966 Airport|0.17241 Kuala|0.15517 Lumpur|0.13793 International|0.12069 Airport|0.10345 Schiphol|0.086207 Airport|0.068966 and|0.051724 so|0.034483 on|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

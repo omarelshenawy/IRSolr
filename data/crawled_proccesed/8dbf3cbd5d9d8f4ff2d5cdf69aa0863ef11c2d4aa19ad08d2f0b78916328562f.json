@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8dbf3cbd5d9d8f4ff2d5cdf69aa0863ef11c2d4aa19ad08d2f0b78916328562f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Vor_indicator.png",
+			"previous": " ",
+			"after": " A course deviation indicator CDI is an avionics instrument used in aircraft navigation to determine an aircraft s lateral position in relation to a course If the location of the aircraft is to the left of course the needle deflects to the right and vice versa ",
+			"color": "black|0.85072 dim|0.031763 gray|0.031763 dim|0.031763 grey|0.031763 gray|0.026979 grey|0.026979 dark|0.022558 gray|0.022558 dark|0.022558 grey|0.022558 silver|0.014857 light|0.011173 gray|0.011173 light|0.011173 grey|0.011173 gainsboro|0.0092614 white|0.0038483 smoke|0.0038483 yellow|0.0030941  ",
+			"after_weights": " A|1 course|0.97826 deviation|0.95652 indicator|0.93478 CDI|0.91304 is|0.8913 an|0.86957 avionics|0.84783 instrument|0.82609 used|0.80435 in|0.78261 aircraft|0.76087 navigation|0.73913 to|0.71739 determine|0.69565 an|0.67391 aircraft|0.65217 s|0.63043 lateral|0.6087 position|0.58696 in|0.56522 relation|0.54348 to|0.52174 a|0.5 course|0.47826 If|0.45652 the|0.43478 location|0.41304 of|0.3913 the|0.36957 aircraft|0.34783 is|0.32609 to|0.30435 the|0.28261 left|0.26087 of|0.23913 course|0.21739 the|0.19565 needle|0.17391 deflects|0.15217 to|0.13043 the|0.1087 right|0.086957 and|0.065217 vice|0.043478 versa|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

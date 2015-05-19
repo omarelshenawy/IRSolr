@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ade45e03a569c76fb9844fbcfe6e92ac3f91fd5b4541b364e6a3f2d0d21fbd2",
+			"url": "https://upload.wikimedia.org/math/b/9/f/b9f1099261e7e063f9b18565c36b95e1.png",
+			"previous": " The following table presents some example transformations in the plane along with their 2 2 matrices eigenvalues and eigenvectors ",
+			"after": " An example of an eigenvalue equation where the transformation is represented in terms of a differential operator is the time independent Schr dinger equation in quantum mechanics ",
+			"color": "dim|0.33691 gray|0.33691 dim|0.33691 grey|0.33691 gray|0.27902 grey|0.27902 dark|0.19501 gray|0.19501 dark|0.19501 grey|0.19501 silver|0.095589 light|0.044246 gray|0.044246 light|0.044246 grey|0.044246 gainsboro|0.030929 white|0.0044274 smoke|0.0044274  ",
+			"after_weights": " An|1 example|0.96296 of|0.92593 an|0.88889 eigenvalue|0.85185 equation|0.81481 where|0.77778 the|0.74074 transformation|0.7037 is|0.66667 represented|0.62963 in|0.59259 terms|0.55556 of|0.51852 a|0.48148 differential|0.44444 operator|0.40741 is|0.37037 the|0.33333 time|0.2963 independent|0.25926 Schr|0.22222 dinger|0.18519 equation|0.14815 in|0.11111 quantum|0.074074 mechanics|0.037037 |0",
+			"previous_weights": " The|0 following|0.052632 table|0.10526 presents|0.15789 some|0.21053 example|0.26316 transformations|0.31579 in|0.36842 the|0.42105 plane|0.47368 along|0.52632 with|0.57895 their|0.63158 2|0.68421 2|0.73684 matrices|0.78947 eigenvalues|0.84211 and|0.89474 eigenvectors|0.94737 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a90a75a263676d1ad5646f3daba6b21b1adcdb9ef26a6da63b01035a1dbebfd",
+			"url": "https://upload.wikimedia.org/math/4/7/a/47a2660ef0207416b959b2b497c0c9dd.png",
+			"previous": " Invariant means that it takes the same value in all inertial frames because it is a scalar 0 rank tensor and so no appears in its trivial transformation The magnitude of the 4 vector T is the positive square root of the inner product with itself ",
+			"after": " One can extend this idea to tensors of higher order for a second order tensor we can form the invariants ",
+			"color": "dim|0.27981 gray|0.27981 dim|0.27981 grey|0.27981 gray|0.24024 grey|0.24024 dark|0.17645 gray|0.17645 dark|0.17645 grey|0.17645 silver|0.10443 black|0.065708 light|0.06138 gray|0.06138 light|0.06138 grey|0.06138 gainsboro|0.045487 white|0.007502 smoke|0.007502 linen|0.0031942  ",
+			"after_weights": " One|1 can|0.95 extend|0.9 this|0.85 idea|0.8 to|0.75 tensors|0.7 of|0.65 higher|0.6 order|0.55 for|0.5 a|0.45 second|0.4 order|0.35 tensor|0.3 we|0.25 can|0.2 form|0.15 the|0.1 invariants|0.05 |0",
+			"previous_weights": " Invariant|0 means|0.021739 that|0.043478 it|0.065217 takes|0.086957 the|0.1087 same|0.13043 value|0.15217 in|0.17391 all|0.19565 inertial|0.21739 frames|0.23913 because|0.26087 it|0.28261 is|0.30435 a|0.32609 scalar|0.34783 0|0.36957 rank|0.3913 tensor|0.41304 and|0.43478 so|0.45652 no|0.47826 appears|0.5 in|0.52174 its|0.54348 trivial|0.56522 transformation|0.58696 The|0.6087 magnitude|0.63043 of|0.65217 the|0.67391 4|0.69565 vector|0.71739 T|0.73913 is|0.76087 the|0.78261 positive|0.80435 square|0.82609 root|0.84783 of|0.86957 the|0.8913 inner|0.91304 product|0.93478 with|0.95652 itself|0.97826 |1"
+		}
+	}
+}

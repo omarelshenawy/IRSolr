@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ba006ca5cbb2e38de5e280ba2a3a68b4076fcf2b55870e4ee3a230331650829",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nassau%2C_The_Bahamas.jpg/220px-Nassau%2C_The_Bahamas.jpg",
+			"previous": " ",
+			"after": " Located on New Providence Island Nassau has an attractive harbour a colourful blend of old world and colonial architecture and a busy port The tropical climate and natural beauty of the Bahamas have made Nassau a popular tourist destination ",
+			"color": "dim|0.37139 gray|0.37139 dim|0.37139 grey|0.37139 gray|0.19521 grey|0.19521 teal|0.10639 cadet|0.10011 blue|0.10011 slate|0.088679 gray|0.088679 dark|0.049649 gray|0.049649 dark|0.049649 grey|0.049649 light|0.034997 slate|0.034997 gray|0.034997 dark|0.011671 cyan|0.011671 silver|0.010877 dark|0.0096984 slate|0.0096984 gray|0.0096984  ",
+			"after_weights": " Located|1 on|0.97436 New|0.94872 Providence|0.92308 Island|0.89744 Nassau|0.87179 has|0.84615 an|0.82051 attractive|0.79487 harbour|0.76923 a|0.74359 colourful|0.71795 blend|0.69231 of|0.66667 old|0.64103 world|0.61538 and|0.58974 colonial|0.5641 architecture|0.53846 and|0.51282 a|0.48718 busy|0.46154 port|0.4359 The|0.41026 tropical|0.38462 climate|0.35897 and|0.33333 natural|0.30769 beauty|0.28205 of|0.25641 the|0.23077 Bahamas|0.20513 have|0.17949 made|0.15385 Nassau|0.12821 a|0.10256 popular|0.076923 tourist|0.051282 destination|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ed68d2d9c4d8a691f5fb09a3b2646882d3a9e27e8147f5cedd58dfd1f894771",
+			"url": "https://upload.wikimedia.org/math/1/e/d/1ed134c0a4a8dff17be8a83a311a9762.png",
+			"previous": " Let F be a given function of x y and derivatives of y Then an equation of the form",
+			"after": " is called an explicit ordinary differential equation of order n 6 7  More generally an implicit ordinary differential equation of order n takes the form 8 ",
+			"color": "dim|0.33851 gray|0.33851 dim|0.33851 grey|0.33851 gray|0.30655 grey|0.30655 dark|0.19111 gray|0.19111 dark|0.19111 grey|0.19111 silver|0.080275 light|0.037873 gray|0.037873 light|0.037873 grey|0.037873 gainsboro|0.026225 white|0.0045333 smoke|0.0045333  ",
+			"after_weights": " is|1 called|0.96296 an|0.92593 explicit|0.88889 ordinary|0.85185 differential|0.81481 equation|0.77778 of|0.74074 order|0.7037 n|0.66667 6|0.62963 7|0.59259 |0.55556 More|0.51852 generally|0.48148 an|0.44444 implicit|0.40741 ordinary|0.37037 differential|0.33333 equation|0.2963 of|0.25926 order|0.22222 n|0.18519 takes|0.14815 the|0.11111 form|0.074074 8|0.037037 |0",
+			"previous_weights": " Let|0 F|0.055556 be|0.11111 a|0.16667 given|0.22222 function|0.27778 of|0.33333 x|0.38889 y|0.44444 and|0.5 derivatives|0.55556 of|0.61111 y|0.66667 Then|0.72222 an|0.77778 equation|0.83333 of|0.88889 the|0.94444 form|1"
+		}
+	}
+}

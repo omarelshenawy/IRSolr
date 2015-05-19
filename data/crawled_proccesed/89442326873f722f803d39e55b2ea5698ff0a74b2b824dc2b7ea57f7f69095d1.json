@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89442326873f722f803d39e55b2ea5698ff0a74b2b824dc2b7ea57f7f69095d1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Open_bible_01_01.svg/40px-Open_bible_01_01.svg.png",
+			"previous": " ",
+			"after": " Constitution Parliament House of Commons House of Lords Legislation Law enforcement Royal Prerogative Courts of England and Wales Supreme Court Court of Appeal High Court Crown Court County Courts Magistrates Court Criminal Injuries Compensation Authority Employment Appeal Tribunal Employment Tribunal Information Tribunal Mental Health Review Tribunal",
+			"color": "black|0.52443 dim|0.1656 gray|0.1656 dim|0.1656 grey|0.1656 gray|0.16408 grey|0.16408 dark|0.11617 gray|0.11617 dark|0.11617 grey|0.11617 silver|0.026213  ",
+			"after_weights": " Constitution|1 Parliament|0.97778 House|0.95556 of|0.93333 Commons|0.91111 House|0.88889 of|0.86667 Lords|0.84444 Legislation|0.82222 Law|0.8 enforcement|0.77778 Royal|0.75556 Prerogative|0.73333 Courts|0.71111 of|0.68889 England|0.66667 and|0.64444 Wales|0.62222 Supreme|0.6 Court|0.57778 Court|0.55556 of|0.53333 Appeal|0.51111 High|0.48889 Court|0.46667 Crown|0.44444 Court|0.42222 County|0.4 Courts|0.37778 Magistrates|0.35556 Court|0.33333 Criminal|0.31111 Injuries|0.28889 Compensation|0.26667 Authority|0.24444 Employment|0.22222 Appeal|0.2 Tribunal|0.17778 Employment|0.15556 Tribunal|0.13333 Information|0.11111 Tribunal|0.088889 Mental|0.066667 Health|0.044444 Review|0.022222 Tribunal|0",
+			"previous_weights": " "
+		}
+	}
+}

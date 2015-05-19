@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f141c24cb5965a37d4eaaf2a10b613e4e2b3183f918ba9b5f499949c18fac89",
+			"url": "https://upload.wikimedia.org/math/c/8/3/c8336dcc42b374671e16239fd69ec9be.png",
+			"previous": " Substituting these into the equations of motion gives us  Since we expect oscillatory motion of a normal mode where is the same for both masses we try ",
+			"after": " Since the exponential factor is common to all terms we omit it and simplify  And in matrix representation ",
+			"color": "dim|0.35595 gray|0.35595 dim|0.35595 grey|0.35595 gray|0.28153 grey|0.28153 dark|0.18781 gray|0.18781 dark|0.18781 grey|0.18781 silver|0.084426 light|0.041637 gray|0.041637 light|0.041637 grey|0.041637 gainsboro|0.028748 white|0.0046068 smoke|0.0046068  ",
+			"after_weights": " Since|1 the|0.94737 exponential|0.89474 factor|0.84211 is|0.78947 common|0.73684 to|0.68421 all|0.63158 terms|0.57895 we|0.52632 omit|0.47368 it|0.42105 and|0.36842 simplify|0.31579 |0.26316 And|0.21053 in|0.15789 matrix|0.10526 representation|0.052632 |0",
+			"previous_weights": " Substituting|0 these|0.035714 into|0.071429 the|0.10714 equations|0.14286 of|0.17857 motion|0.21429 gives|0.25 us|0.28571 |0.32143 Since|0.35714 we|0.39286 expect|0.42857 oscillatory|0.46429 motion|0.5 of|0.53571 a|0.57143 normal|0.60714 mode|0.64286 where|0.67857 is|0.71429 the|0.75 same|0.78571 for|0.82143 both|0.85714 masses|0.89286 we|0.92857 try|0.96429 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "737f08d0ba6c38b93a4914b2ab1f8153d8b12b532bfe2ccd713ea6be50919bb8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Moon_transit_of_sun_large.ogg/220px--Moon_transit_of_sun_large.ogg.jpg",
+			"previous": " ",
+			"after": " The first satellites designed to observe the Sun were NASA s Pioneers 5 6 7 8 and 9 which were launched between 1959 and 1968 These probes orbited the Sun at a distance similar to that of Earth and made the first detailed measurements of the solar wind and the solar magnetic field Pioneer 9 operated for a particularly long time transmitting data until May 1983 162 163 ",
+			"color": "rosy|0.2015 brown|0.2015 black|0.18801 dim|0.17499 gray|0.17499 dim|0.17499 grey|0.17499 gray|0.089932 grey|0.089932 pale|0.041703 golden|0.041703 rod|0.041703 burly|0.041352 wood|0.041352 dark|0.036142 gray|0.036142 dark|0.036142 grey|0.036142 pale|0.026305 violet|0.026305 red|0.026305 navajo|0.024216 white|0.024216 tan|0.023514 silver|0.021765  ",
+			"after_weights": " The|1 first|0.98529 satellites|0.97059 designed|0.95588 to|0.94118 observe|0.92647 the|0.91176 Sun|0.89706 were|0.88235 NASA|0.86765 s|0.85294 Pioneers|0.83824 5|0.82353 6|0.80882 7|0.79412 8|0.77941 and|0.76471 9|0.75 which|0.73529 were|0.72059 launched|0.70588 between|0.69118 1959|0.67647 and|0.66176 1968|0.64706 These|0.63235 probes|0.61765 orbited|0.60294 the|0.58824 Sun|0.57353 at|0.55882 a|0.54412 distance|0.52941 similar|0.51471 to|0.5 that|0.48529 of|0.47059 Earth|0.45588 and|0.44118 made|0.42647 the|0.41176 first|0.39706 detailed|0.38235 measurements|0.36765 of|0.35294 the|0.33824 solar|0.32353 wind|0.30882 and|0.29412 the|0.27941 solar|0.26471 magnetic|0.25 field|0.23529 Pioneer|0.22059 9|0.20588 operated|0.19118 for|0.17647 a|0.16176 particularly|0.14706 long|0.13235 time|0.11765 transmitting|0.10294 data|0.088235 until|0.073529 May|0.058824 1983|0.044118 162|0.029412 163|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

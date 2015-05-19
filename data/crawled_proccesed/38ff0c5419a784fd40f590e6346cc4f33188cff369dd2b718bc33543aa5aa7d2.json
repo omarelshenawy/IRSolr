@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "38ff0c5419a784fd40f590e6346cc4f33188cff369dd2b718bc33543aa5aa7d2",
+			"url": "https://upload.wikimedia.org/math/8/0/e/80efae5ccea2ac0702e1a9c3b25afd2b.png",
+			"previous": " Every cubic equation 1 with real coefficients has at least one solution x among the real numbers this is a consequence of the intermediate value theorem We can distinguish several possible cases using the discriminant ",
+			"after": " The following cases need to be considered 23 ",
+			"color": "dim|0.26676 gray|0.26676 dim|0.26676 grey|0.26676 gray|0.25573 grey|0.25573 black|0.24262 dark|0.18408 gray|0.18408 dark|0.18408 grey|0.18408 silver|0.045865 light|0.0042207 gray|0.0042207 light|0.0042207 grey|0.0042207  ",
+			"after_weights": " The|1 following|0.875 cases|0.75 need|0.625 to|0.5 be|0.375 considered|0.25 23|0.125 |0",
+			"previous_weights": " Every|0 cubic|0.028571 equation|0.057143 1|0.085714 with|0.11429 real|0.14286 coefficients|0.17143 has|0.2 at|0.22857 least|0.25714 one|0.28571 solution|0.31429 x|0.34286 among|0.37143 the|0.4 real|0.42857 numbers|0.45714 this|0.48571 is|0.51429 a|0.54286 consequence|0.57143 of|0.6 the|0.62857 intermediate|0.65714 value|0.68571 theorem|0.71429 We|0.74286 can|0.77143 distinguish|0.8 several|0.82857 possible|0.85714 cases|0.88571 using|0.91429 the|0.94286 discriminant|0.97143 |1"
+		}
+	}
+}

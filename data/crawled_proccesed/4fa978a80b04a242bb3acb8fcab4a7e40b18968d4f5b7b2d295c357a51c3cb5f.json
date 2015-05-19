@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fa978a80b04a242bb3acb8fcab4a7e40b18968d4f5b7b2d295c357a51c3cb5f",
+			"url": "https://upload.wikimedia.org/math/7/0/c/70c9ab82b8f64038ab7248b0724ccfe1.png",
+			"previous": " An ellipse in canonical position center at origin major axis along the X axis with semi axes a and b can be represented parametrically as With this parametric equation the point 1 0 is not represented by a real value of t but by the limit of x and y when t tends to infinity ",
+			"after": " An ellipse in general position can be expressed as as the parameter t varies from 0 to 2 Here is the center of the ellipse and is the angle between the axis and the major axis of the ellipse ",
+			"color": "black|0.48221 dim|0.21249 gray|0.21249 dim|0.21249 grey|0.21249 gray|0.14398 grey|0.14398 dark|0.085194 gray|0.085194 dark|0.085194 grey|0.085194 silver|0.0358 light|0.017912 gray|0.017912 light|0.017912 grey|0.017912 gainsboro|0.012626  ",
+			"after_weights": " An|1 ellipse|0.97436 in|0.94872 general|0.92308 position|0.89744 can|0.87179 be|0.84615 expressed|0.82051 as|0.79487 as|0.76923 the|0.74359 parameter|0.71795 t|0.69231 varies|0.66667 from|0.64103 0|0.61538 to|0.58974 2|0.5641 Here|0.53846 is|0.51282 the|0.48718 center|0.46154 of|0.4359 the|0.41026 ellipse|0.38462 and|0.35897 is|0.33333 the|0.30769 angle|0.28205 between|0.25641 the|0.23077 axis|0.20513 and|0.17949 the|0.15385 major|0.12821 axis|0.10256 of|0.076923 the|0.051282 ellipse|0.025641 |0",
+			"previous_weights": " An|0 ellipse|0.018182 in|0.036364 canonical|0.054545 position|0.072727 center|0.090909 at|0.10909 origin|0.12727 major|0.14545 axis|0.16364 along|0.18182 the|0.2 X|0.21818 axis|0.23636 with|0.25455 semi|0.27273 axes|0.29091 a|0.30909 and|0.32727 b|0.34545 can|0.36364 be|0.38182 represented|0.4 parametrically|0.41818 as|0.43636 With|0.45455 this|0.47273 parametric|0.49091 equation|0.50909 the|0.52727 point|0.54545 1|0.56364 0|0.58182 is|0.6 not|0.61818 represented|0.63636 by|0.65455 a|0.67273 real|0.69091 value|0.70909 of|0.72727 t|0.74545 but|0.76364 by|0.78182 the|0.8 limit|0.81818 of|0.83636 x|0.85455 and|0.87273 y|0.89091 when|0.90909 t|0.92727 tends|0.94545 to|0.96364 infinity|0.98182 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42620e07ac09647ed1dcb3f796f1fd47e0059ac497bbbb552c15b40adbd2350b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/JetBlue_A320_at_Orlando.jpeg/220px-JetBlue_A320_at_Orlando.jpeg",
+			"previous": " JetBlue does not participate in any major global airline alliances but the airline has interline and codeshare agreements with several airlines 68 Many of these airlines are members of global airline alliances ",
+			"after": " As of May 2015 the JetBlue Airways fleet consists of the following aircraft with an average age of 8 6 years ",
+			"color": "dark|0.66627 gray|0.66627 dark|0.66627 grey|0.66627 gray|0.13977 grey|0.13977 silver|0.054571 light|0.020898 gray|0.020898 light|0.020898 grey|0.020898 gainsboro|0.018603 white|0.010327 smoke|0.010327 dim|0.0098762 gray|0.0098762 dim|0.0098762 grey|0.0098762 alice|0.0095738 blue|0.0095738 ghost|0.0080679 white|0.0080679 azure|0.0069542 snow|0.0067956 mint|0.0064296 cream|0.0064296 white|0.0060982 sea|0.0049543 shell|0.0049543 light|0.0039827 steel|0.0039827 blue|0.0039827 lavender|0.0038942 lavender|0.0035759 blush|0.0035759 light|0.0034321 slate|0.0034321 gray|0.0034321 floral|0.0032504 white|0.0032504  ",
+			"after_weights": " As|1 of|0.95238 May|0.90476 2015|0.85714 the|0.80952 JetBlue|0.7619 Airways|0.71429 fleet|0.66667 consists|0.61905 of|0.57143 the|0.52381 following|0.47619 aircraft|0.42857 with|0.38095 an|0.33333 average|0.28571 age|0.2381 of|0.19048 8|0.14286 6|0.095238 years|0.047619 |0",
+			"previous_weights": " JetBlue|0 does|0.03125 not|0.0625 participate|0.09375 in|0.125 any|0.15625 major|0.1875 global|0.21875 airline|0.25 alliances|0.28125 but|0.3125 the|0.34375 airline|0.375 has|0.40625 interline|0.4375 and|0.46875 codeshare|0.5 agreements|0.53125 with|0.5625 several|0.59375 airlines|0.625 68|0.65625 Many|0.6875 of|0.71875 these|0.75 airlines|0.78125 are|0.8125 members|0.84375 of|0.875 global|0.90625 airline|0.9375 alliances|0.96875 |1"
+		}
+	}
+}

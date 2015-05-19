@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fb43e411fa9d630cd54b88b61ff3c356606a827658b35bf591fe8384622a45d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Siberian_autumn_in_taiga..JPG/220px-Siberian_autumn_in_taiga..JPG",
+			"previous": " ",
+			"after": " With an area of 13 1 million km 5 1 million square miles Siberia takes up roughly 77 of Russia s total territory Major geographical zones include the West Siberian Plain and the Central Siberian Plateau Siberia covers almost 10 of Earth s land surface 148 940 000 km While Siberia falls entirely within Asia many authorities such as the UN geoscheme will not subdivide countries and will place all of Russia as part of Europe and or Eastern Europe ",
+			"color": "dim|0.3212 gray|0.3212 dim|0.3212 grey|0.3212 gray|0.16863 grey|0.16863 black|0.09788 dark|0.093577 olive|0.093577 green|0.093577 light|0.092285 slate|0.092285 gray|0.092285 slate|0.084742 gray|0.084742 light|0.048845 steel|0.048845 blue|0.048845 dark|0.047531 gray|0.047531 dark|0.047531 grey|0.047531 dark|0.023848 slate|0.023848 gray|0.023848  ",
+			"after_weights": " With|1 an|0.9875 area|0.975 of|0.9625 13|0.95 1|0.9375 million|0.925 km|0.9125 5|0.9 1|0.8875 million|0.875 square|0.8625 miles|0.85 Siberia|0.8375 takes|0.825 up|0.8125 roughly|0.8 77|0.7875 of|0.775 Russia|0.7625 s|0.75 total|0.7375 territory|0.725 Major|0.7125 geographical|0.7 zones|0.6875 include|0.675 the|0.6625 West|0.65 Siberian|0.6375 Plain|0.625 and|0.6125 the|0.6 Central|0.5875 Siberian|0.575 Plateau|0.5625 Siberia|0.55 covers|0.5375 almost|0.525 10|0.5125 of|0.5 Earth|0.4875 s|0.475 land|0.4625 surface|0.45 148|0.4375 940|0.425 000|0.4125 km|0.4 While|0.3875 Siberia|0.375 falls|0.3625 entirely|0.35 within|0.3375 Asia|0.325 many|0.3125 authorities|0.3 such|0.2875 as|0.275 the|0.2625 UN|0.25 geoscheme|0.2375 will|0.225 not|0.2125 subdivide|0.2 countries|0.1875 and|0.175 will|0.1625 place|0.15 all|0.1375 of|0.125 Russia|0.1125 as|0.1 part|0.0875 of|0.075 Europe|0.0625 and|0.05 or|0.0375 Eastern|0.025 Europe|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

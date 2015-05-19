@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2658a2bcaafec653f8931e05f7b4c67e9f3e339ae10bc4d012b17739f7f64bfe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlacierNP_L7_20010701.jpg/220px-GlacierNP_L7_20010701.jpg",
+			"previous": " ",
+			"after": " Glacier National Park is managed by the National Park Service with the park headquarters in West Glacier Montana Visitation to Glacier National Park averages slightly less than 2 million visitors annually However a relative few venture far from main roadways and hotels ",
+			"color": "light|0.1 cyan|0.1 mint|0.1 cream|0.1 floral|0.1 white|0.1 alice|0.1 blue|0.1 honeydew|0.1 ivory|0.1 azure|0.1 snow|0.1 white|0.1 smoke|0.1 white|0.1  ",
+			"after_weights": " Glacier|1 National|0.97619 Park|0.95238 is|0.92857 managed|0.90476 by|0.88095 the|0.85714 National|0.83333 Park|0.80952 Service|0.78571 with|0.7619 the|0.7381 park|0.71429 headquarters|0.69048 in|0.66667 West|0.64286 Glacier|0.61905 Montana|0.59524 Visitation|0.57143 to|0.54762 Glacier|0.52381 National|0.5 Park|0.47619 averages|0.45238 slightly|0.42857 less|0.40476 than|0.38095 2|0.35714 million|0.33333 visitors|0.30952 annually|0.28571 However|0.2619 a|0.2381 relative|0.21429 few|0.19048 venture|0.16667 far|0.14286 from|0.11905 main|0.095238 roadways|0.071429 and|0.047619 hotels|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

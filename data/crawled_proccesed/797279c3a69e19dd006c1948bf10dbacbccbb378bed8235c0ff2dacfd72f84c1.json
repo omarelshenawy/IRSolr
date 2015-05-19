@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "797279c3a69e19dd006c1948bf10dbacbccbb378bed8235c0ff2dacfd72f84c1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Military_expenditure_by_country_map2.png/220px-Military_expenditure_by_country_map2.png",
+			"previous": " The Earth and its features  The physical chemical and biotic factors that act upon an ecosystem  The value of goods and services produced within a country ",
+			"after": " The label for the country  The process by which groups often governments make decisions ",
+			"color": "medium|0.21944 slate|0.21944 blue|0.21944 navy|0.19349 dark|0.095373 gray|0.095373 dark|0.095373 grey|0.095373 silver|0.071161 light|0.057517 gray|0.057517 light|0.057517 grey|0.057517 gray|0.054239 grey|0.054239 gainsboro|0.048223 dark|0.032727 blue|0.032727 royal|0.031144 blue|0.031144 slate|0.025436 blue|0.025436 white|0.019764 smoke|0.019764 dim|0.018638 gray|0.018638 dim|0.018638 grey|0.018638 alice|0.012932 blue|0.012932 ghost|0.012829 white|0.012829 lavender|0.012486 blush|0.012486 sea|0.012325 shell|0.012325 snow|0.012117 light|0.011002 steel|0.011002 blue|0.011002 white|0.010332 linen|0.010278 mint|0.0084939 cream|0.0084939 midnight|0.0083014 blue|0.0083014 floral|0.0066634 white|0.0066634  ",
+			"after_weights": " The|1 label|0.93333 for|0.86667 the|0.8 country|0.73333 |0.66667 The|0.6 process|0.53333 by|0.46667 which|0.4 groups|0.33333 often|0.26667 governments|0.2 make|0.13333 decisions|0.066667 |0",
+			"previous_weights": " The|0 Earth|0.035714 and|0.071429 its|0.10714 features|0.14286 |0.17857 The|0.21429 physical|0.25 chemical|0.28571 and|0.32143 biotic|0.35714 factors|0.39286 that|0.42857 act|0.46429 upon|0.5 an|0.53571 ecosystem|0.57143 |0.60714 The|0.64286 value|0.67857 of|0.71429 goods|0.75 and|0.78571 services|0.82143 produced|0.85714 within|0.89286 a|0.92857 country|0.96429 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a4178f344a8f4fe2cf3cbba733080d71ad69e9500dd66d30e23bc49b216c602",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Platoon_Nato.svg/200px-Platoon_Nato.svg.png",
+			"previous": " ",
+			"after": " A platoon is a military unit typically composed of more than two squads sections Platoon organization varies depending on the country and the branch but typically a platoon consists of around 15 to 30 soldiers ",
+			"color": " ",
+			"after_weights": " A|1 platoon|0.97143 is|0.94286 a|0.91429 military|0.88571 unit|0.85714 typically|0.82857 composed|0.8 of|0.77143 more|0.74286 than|0.71429 two|0.68571 squads|0.65714 sections|0.62857 Platoon|0.6 organization|0.57143 varies|0.54286 depending|0.51429 on|0.48571 the|0.45714 country|0.42857 and|0.4 the|0.37143 branch|0.34286 but|0.31429 typically|0.28571 a|0.25714 platoon|0.22857 consists|0.2 of|0.17143 around|0.14286 15|0.11429 to|0.085714 30|0.057143 soldiers|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

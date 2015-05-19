@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d8181f458b3aea4be9d23dc55f9eba05a85fba64e1d57bbb1ec57e41f7364de",
+			"url": "https://upload.wikimedia.org/math/5/b/f/5bf50a8213f5a7cb939da11510b918d1.png",
+			"previous": " An east west opening hyperbola can be represented parametrically by Both parameterizations may be made rational by using tangent half angle formula and setting",
+			"after": " A north south opening hyperbola can be represented parametrically as In all formulae h k are the center coordinates of the hyperbola a is the length of the semi major axis and b is the length of the semi minor axis ",
+			"color": " ",
+			"after_weights": " A|1 north|0.97561 south|0.95122 opening|0.92683 hyperbola|0.90244 can|0.87805 be|0.85366 represented|0.82927 parametrically|0.80488 as|0.78049 In|0.7561 all|0.73171 formulae|0.70732 h|0.68293 k|0.65854 are|0.63415 the|0.60976 center|0.58537 coordinates|0.56098 of|0.53659 the|0.5122 hyperbola|0.4878 a|0.46341 is|0.43902 the|0.41463 length|0.39024 of|0.36585 the|0.34146 semi|0.31707 major|0.29268 axis|0.26829 and|0.2439 b|0.21951 is|0.19512 the|0.17073 length|0.14634 of|0.12195 the|0.097561 semi|0.073171 minor|0.04878 axis|0.02439 |0",
+			"previous_weights": " An|0 east|0.043478 west|0.086957 opening|0.13043 hyperbola|0.17391 can|0.21739 be|0.26087 represented|0.30435 parametrically|0.34783 by|0.3913 Both|0.43478 parameterizations|0.47826 may|0.52174 be|0.56522 made|0.6087 rational|0.65217 by|0.69565 using|0.73913 tangent|0.78261 half|0.82609 angle|0.86957 formula|0.91304 and|0.95652 setting|1"
+		}
+	}
+}

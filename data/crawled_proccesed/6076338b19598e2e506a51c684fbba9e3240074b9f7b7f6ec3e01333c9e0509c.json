@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6076338b19598e2e506a51c684fbba9e3240074b9f7b7f6ec3e01333c9e0509c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grass_airstrip_at_badminton_england_arp.jpg/220px-Grass_airstrip_at_badminton_england_arp.jpg",
+			"previous": " In aviation charts the surface type is usually abbreviated to a three letter code ",
+			"after": " The most common hard surface types are asphalt and concrete The most common soft surface types are grass and gravel ",
+			"color": "dark|0.34595 olive|0.34595 green|0.34595 black|0.26854 tan|0.077725 dark|0.055257 khaki|0.055257  ",
+			"after_weights": " The|1 most|0.95 common|0.9 hard|0.85 surface|0.8 types|0.75 are|0.7 asphalt|0.65 and|0.6 concrete|0.55 The|0.5 most|0.45 common|0.4 soft|0.35 surface|0.3 types|0.25 are|0.2 grass|0.15 and|0.1 gravel|0.05 |0",
+			"previous_weights": " In|0 aviation|0.071429 charts|0.14286 the|0.21429 surface|0.28571 type|0.35714 is|0.42857 usually|0.5 abbreviated|0.57143 to|0.64286 a|0.71429 three|0.78571 letter|0.85714 code|0.92857 |1"
+		}
+	}
+}

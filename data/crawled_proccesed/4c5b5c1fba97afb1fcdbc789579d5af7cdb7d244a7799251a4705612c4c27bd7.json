@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c5b5c1fba97afb1fcdbc789579d5af7cdb7d244a7799251a4705612c4c27bd7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hoover_Dam_08sept09_showing_water_elevation_of_Lake_Mead.jpg/220px-Hoover_Dam_08sept09_showing_water_elevation_of_Lake_Mead.jpg",
+			"previous": " ",
+			"after": " The changes in water flow and use caused by Hoover Dam s construction and operation have had a large impact on the Colorado River Delta 101 The construction of the dam has been credited as causing the decline of this estuarine ecosystem 101 For six years after the construction of the dam while Lake Mead filled virtually no water reached the mouth of the river 102 The delta s estuary which once had a freshwater saltwater mixing zone stretching 40 miles 64 km south of the river s mouth was turned into an inverse estuary where the level of salinity was higher close to the river s mouth 103 ",
+			"color": "dim|0.453 gray|0.453 dim|0.453 grey|0.453 gray|0.17026 grey|0.17026 light|0.15421 slate|0.15421 gray|0.15421 slate|0.11815 gray|0.11815 black|0.036204 light|0.033975 steel|0.033975 blue|0.033975 dark|0.01631 slate|0.01631 gray|0.01631 dark|0.010986 gray|0.010986 dark|0.010986 grey|0.010986  ",
+			"after_weights": " The|1 changes|0.99083 in|0.98165 water|0.97248 flow|0.9633 and|0.95413 use|0.94495 caused|0.93578 by|0.92661 Hoover|0.91743 Dam|0.90826 s|0.89908 construction|0.88991 and|0.88073 operation|0.87156 have|0.86239 had|0.85321 a|0.84404 large|0.83486 impact|0.82569 on|0.81651 the|0.80734 Colorado|0.79817 River|0.78899 Delta|0.77982 101|0.77064 The|0.76147 construction|0.75229 of|0.74312 the|0.73394 dam|0.72477 has|0.7156 been|0.70642 credited|0.69725 as|0.68807 causing|0.6789 the|0.66972 decline|0.66055 of|0.65138 this|0.6422 estuarine|0.63303 ecosystem|0.62385 101|0.61468 For|0.6055 six|0.59633 years|0.58716 after|0.57798 the|0.56881 construction|0.55963 of|0.55046 the|0.54128 dam|0.53211 while|0.52294 Lake|0.51376 Mead|0.50459 filled|0.49541 virtually|0.48624 no|0.47706 water|0.46789 reached|0.45872 the|0.44954 mouth|0.44037 of|0.43119 the|0.42202 river|0.41284 102|0.40367 The|0.3945 delta|0.38532 s|0.37615 estuary|0.36697 which|0.3578 once|0.34862 had|0.33945 a|0.33028 freshwater|0.3211 saltwater|0.31193 mixing|0.30275 zone|0.29358 stretching|0.2844 40|0.27523 miles|0.26606 64|0.25688 km|0.24771 south|0.23853 of|0.22936 the|0.22018 river|0.21101 s|0.20183 mouth|0.19266 was|0.18349 turned|0.17431 into|0.16514 an|0.15596 inverse|0.14679 estuary|0.13761 where|0.12844 the|0.11927 level|0.11009 of|0.10092 salinity|0.091743 was|0.082569 higher|0.073394 close|0.06422 to|0.055046 the|0.045872 river|0.036697 s|0.027523 mouth|0.018349 103|0.0091743 |0",
+			"previous_weights": " "
+		}
+	}
+}

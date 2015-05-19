@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "387c51c31b2395a8df88984fac26c858316de78fab576f61147264f535336a1e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Determinant_parallelepiped.svg/200px-Determinant_parallelepiped.svg.png",
+			"previous": " Moreover after choosing bases of V and W any linear map f V W is uniquely represented by a matrix via this assignment 32 ",
+			"after": " The determinant det A of a square matrix A is a scalar that tells whether the associated map is an isomorphism or not to be so it is sufficient and necessary that the determinant is nonzero 33 The linear transformation of Rn corresponding to a real n by n matrix is orientation preserving if and only if its determinant is positive ",
+			"color": "dark|0.55295 gray|0.55295 dark|0.55295 grey|0.55295 steel|0.3033 blue|0.3033 gray|0.044558 grey|0.044558 dim|0.040265 gray|0.040265 dim|0.040265 grey|0.040265 silver|0.028314 black|0.012135  ",
+			"after_weights": " The|1 determinant|0.98361 det|0.96721 A|0.95082 of|0.93443 a|0.91803 square|0.90164 matrix|0.88525 A|0.86885 is|0.85246 a|0.83607 scalar|0.81967 that|0.80328 tells|0.78689 whether|0.77049 the|0.7541 associated|0.7377 map|0.72131 is|0.70492 an|0.68852 isomorphism|0.67213 or|0.65574 not|0.63934 to|0.62295 be|0.60656 so|0.59016 it|0.57377 is|0.55738 sufficient|0.54098 and|0.52459 necessary|0.5082 that|0.4918 the|0.47541 determinant|0.45902 is|0.44262 nonzero|0.42623 33|0.40984 The|0.39344 linear|0.37705 transformation|0.36066 of|0.34426 Rn|0.32787 corresponding|0.31148 to|0.29508 a|0.27869 real|0.2623 n|0.2459 by|0.22951 n|0.21311 matrix|0.19672 is|0.18033 orientation|0.16393 preserving|0.14754 if|0.13115 and|0.11475 only|0.098361 if|0.081967 its|0.065574 determinant|0.04918 is|0.032787 positive|0.016393 |0",
+			"previous_weights": " Moreover|0 after|0.041667 choosing|0.083333 bases|0.125 of|0.16667 V|0.20833 and|0.25 W|0.29167 any|0.33333 linear|0.375 map|0.41667 f|0.45833 V|0.5 W|0.54167 is|0.58333 uniquely|0.625 represented|0.66667 by|0.70833 a|0.75 matrix|0.79167 via|0.83333 this|0.875 assignment|0.91667 32|0.95833 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0beeb17aa5cf0d6ebc95df3c83348825079c4a6691adfed1626ef4b4a58d64cd",
+			"url": "https://upload.wikimedia.org/math/9/2/4/92406cdb040720501d2908e2b8e7361e.png",
+			"previous": " This is equivalent to  Or mathematically speaking noting that the cardinality for the integers is aleph null and the cardinality of the real numbers is the continuum hypothesis says",
+			"after": " The real numbers have also been called the continuum hence the name ",
+			"color": "dim|0.40778 gray|0.40778 dim|0.40778 grey|0.40778 gray|0.25555 grey|0.25555 dark|0.13784 gray|0.13784 dark|0.13784 grey|0.13784 black|0.090823 silver|0.056232 light|0.0254 gray|0.0254 light|0.0254 grey|0.0254 gainsboro|0.01673  ",
+			"after_weights": " The|1 real|0.91667 numbers|0.83333 have|0.75 also|0.66667 been|0.58333 called|0.5 the|0.41667 continuum|0.33333 hence|0.25 the|0.16667 name|0.083333 |0",
+			"previous_weights": " This|0 is|0.034483 equivalent|0.068966 to|0.10345 |0.13793 Or|0.17241 mathematically|0.2069 speaking|0.24138 noting|0.27586 that|0.31034 the|0.34483 cardinality|0.37931 for|0.41379 the|0.44828 integers|0.48276 is|0.51724 aleph|0.55172 null|0.58621 and|0.62069 the|0.65517 cardinality|0.68966 of|0.72414 the|0.75862 real|0.7931 numbers|0.82759 is|0.86207 the|0.89655 continuum|0.93103 hypothesis|0.96552 says|1"
+		}
+	}
+}

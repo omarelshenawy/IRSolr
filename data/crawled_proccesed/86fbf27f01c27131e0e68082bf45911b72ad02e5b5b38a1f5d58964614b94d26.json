@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "86fbf27f01c27131e0e68082bf45911b72ad02e5b5b38a1f5d58964614b94d26",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/120513-BER-innen.JPG/220px-120513-BER-innen.JPG",
+			"previous": " Air Berlin announced the expansion of the existing codeshare agreement with Etihad Airways on 20 December 2012 This includes flights via Abu Dhabi to Chengdu Beijing Shanghai Tokyo and Nagoya 75 ",
+			"after": " In January 2013 the first Airbus A330 200 was introduced with a new business class which enables a fully flat position for the first time The long haul fleet of Air Berlin had already been modified with a business class of high quality in 2012 76 ",
+			"color": "burly|0.46626 wood|0.46626 tan|0.26025 peach|0.038395 puff|0.038395 black|0.03437 dim|0.03048 gray|0.03048 dim|0.03048 grey|0.03048 silver|0.024465 dark|0.024349 gray|0.024349 dark|0.024349 grey|0.024349 misty|0.021237 rose|0.021237 gray|0.020401 grey|0.020401 rosy|0.014009 brown|0.014009 light|0.012646 gray|0.012646 light|0.012646 grey|0.012646  ",
+			"after_weights": " In|1 January|0.97826 2013|0.95652 the|0.93478 first|0.91304 Airbus|0.8913 A330|0.86957 200|0.84783 was|0.82609 introduced|0.80435 with|0.78261 a|0.76087 new|0.73913 business|0.71739 class|0.69565 which|0.67391 enables|0.65217 a|0.63043 fully|0.6087 flat|0.58696 position|0.56522 for|0.54348 the|0.52174 first|0.5 time|0.47826 The|0.45652 long|0.43478 haul|0.41304 fleet|0.3913 of|0.36957 Air|0.34783 Berlin|0.32609 had|0.30435 already|0.28261 been|0.26087 modified|0.23913 with|0.21739 a|0.19565 business|0.17391 class|0.15217 of|0.13043 high|0.1087 quality|0.086957 in|0.065217 2012|0.043478 76|0.021739 |0",
+			"previous_weights": " Air|0 Berlin|0.032258 announced|0.064516 the|0.096774 expansion|0.12903 of|0.16129 the|0.19355 existing|0.22581 codeshare|0.25806 agreement|0.29032 with|0.32258 Etihad|0.35484 Airways|0.3871 on|0.41935 20|0.45161 December|0.48387 2012|0.51613 This|0.54839 includes|0.58065 flights|0.6129 via|0.64516 Abu|0.67742 Dhabi|0.70968 to|0.74194 Chengdu|0.77419 Beijing|0.80645 Shanghai|0.83871 Tokyo|0.87097 and|0.90323 Nagoya|0.93548 75|0.96774 |1"
+		}
+	}
+}

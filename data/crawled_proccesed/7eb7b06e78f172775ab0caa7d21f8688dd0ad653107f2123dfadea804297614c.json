@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7eb7b06e78f172775ab0caa7d21f8688dd0ad653107f2123dfadea804297614c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FA18_LEX.jpg/220px-FA18_LEX.jpg",
+			"previous": " ",
+			"after": " A leading edge root extension LERX is a small fillet typically roughly triangular in shape running forward from the leading edge of the wing root to a point along the fuselage These are often called simply leading edge extensions LEX although they are not the only kind To avoid ambiguity this article uses the term LERX ",
+			"color": "slate|0.27599 gray|0.27599 dim|0.21003 gray|0.21003 dim|0.21003 grey|0.21003 black|0.17775 gray|0.14581 grey|0.14581 light|0.12415 slate|0.12415 gray|0.12415 tan|0.01356 dark|0.012432 gray|0.012432 dark|0.012432 grey|0.012432  ",
+			"after_weights": " A|1 leading|0.98214 edge|0.96429 root|0.94643 extension|0.92857 LERX|0.91071 is|0.89286 a|0.875 small|0.85714 fillet|0.83929 typically|0.82143 roughly|0.80357 triangular|0.78571 in|0.76786 shape|0.75 running|0.73214 forward|0.71429 from|0.69643 the|0.67857 leading|0.66071 edge|0.64286 of|0.625 the|0.60714 wing|0.58929 root|0.57143 to|0.55357 a|0.53571 point|0.51786 along|0.5 the|0.48214 fuselage|0.46429 These|0.44643 are|0.42857 often|0.41071 called|0.39286 simply|0.375 leading|0.35714 edge|0.33929 extensions|0.32143 LEX|0.30357 although|0.28571 they|0.26786 are|0.25 not|0.23214 the|0.21429 only|0.19643 kind|0.17857 To|0.16071 avoid|0.14286 ambiguity|0.125 this|0.10714 article|0.089286 uses|0.071429 the|0.053571 term|0.035714 LERX|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

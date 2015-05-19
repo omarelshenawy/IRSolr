@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "70280ca0bfe91002df9a08ff82970dc573256ad8c891577d5290badba5ab5581",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Airzena_logo.png/220px-Airzena_logo.png",
+			"previous": " ",
+			"after": " Georgian Airways Georgian or Airzena is the flag carrier of the Republic of Georgia with its headquarters in Tbilisi 1 It is a privately owned airline operating services from Georgia to destinations mainly in Europe and Western Asia Its main base is Tbilisi International Airport 2 ",
+			"color": "light|0.61599 coral|0.61599 crimson|0.11006 indian|0.10443 red|0.10443 light|0.094925 pink|0.094925 firebrick|0.037067 pink|0.036629  ",
+			"after_weights": " Georgian|1 Airways|0.97826 Georgian|0.95652 or|0.93478 Airzena|0.91304 is|0.8913 the|0.86957 flag|0.84783 carrier|0.82609 of|0.80435 the|0.78261 Republic|0.76087 of|0.73913 Georgia|0.71739 with|0.69565 its|0.67391 headquarters|0.65217 in|0.63043 Tbilisi|0.6087 1|0.58696 It|0.56522 is|0.54348 a|0.52174 privately|0.5 owned|0.47826 airline|0.45652 operating|0.43478 services|0.41304 from|0.3913 Georgia|0.36957 to|0.34783 destinations|0.32609 mainly|0.30435 in|0.28261 Europe|0.26087 and|0.23913 Western|0.21739 Asia|0.19565 Its|0.17391 main|0.15217 base|0.13043 is|0.1087 Tbilisi|0.086957 International|0.065217 Airport|0.043478 2|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

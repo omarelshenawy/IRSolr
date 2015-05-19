@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "801e02643020f27e10b2f5a15052e8506640e98fbebfdfea1b9a23d0a99689e7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Indo-Bangladeshi_Barrier.JPG/280px-Indo-Bangladeshi_Barrier.JPG",
+			"previous": " ",
+			"after": " The term economic migrant refers to someone who has travelled from one region to another region for the purposes of seeking employment or an improved financial position An economic migrant is distinct from someone who is a refugee fleeing persecution ",
+			"color": "dark|0.33409 gray|0.33409 dark|0.33409 grey|0.33409 gray|0.2277 grey|0.2277 silver|0.21068 dim|0.10448 gray|0.10448 dim|0.10448 grey|0.10448 black|0.062016 light|0.045993 gray|0.045993 light|0.045993 grey|0.045993  ",
+			"after_weights": " The|1 term|0.975 economic|0.95 migrant|0.925 refers|0.9 to|0.875 someone|0.85 who|0.825 has|0.8 travelled|0.775 from|0.75 one|0.725 region|0.7 to|0.675 another|0.65 region|0.625 for|0.6 the|0.575 purposes|0.55 of|0.525 seeking|0.5 employment|0.475 or|0.45 an|0.425 improved|0.4 financial|0.375 position|0.35 An|0.325 economic|0.3 migrant|0.275 is|0.25 distinct|0.225 from|0.2 someone|0.175 who|0.15 is|0.125 a|0.1 refugee|0.075 fleeing|0.05 persecution|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

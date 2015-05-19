@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80e1384c7e163cfcc7cf9f249d35594661d7da09590740d2e6b2e3282470ab22",
+			"url": "https://upload.wikimedia.org/math/5/8/f/58fccdbcaf439a4f5036e95b426533f4.png",
+			"previous": " A bivariate quadratic function is a second degree polynomial of the form",
+			"after": " where A B C D and E are fixed coefficients and F is the constant term Such a function describes a quadratic surface Setting equal to zero describes the intersection of the surface with the plane which is a locus of points equivalent to a conic section ",
+			"color": "dim|0.35464 gray|0.35464 dim|0.35464 grey|0.35464 gray|0.29466 grey|0.29466 dark|0.18864 gray|0.18864 dark|0.18864 grey|0.18864 silver|0.080508 light|0.038823 gray|0.038823 light|0.038823 grey|0.038823 gainsboro|0.026847 white|0.0044917 smoke|0.0044917  ",
+			"after_weights": " where|1 A|0.97872 B|0.95745 C|0.93617 D|0.91489 and|0.89362 E|0.87234 are|0.85106 fixed|0.82979 coefficients|0.80851 and|0.78723 F|0.76596 is|0.74468 the|0.7234 constant|0.70213 term|0.68085 Such|0.65957 a|0.6383 function|0.61702 describes|0.59574 a|0.57447 quadratic|0.55319 surface|0.53191 Setting|0.51064 equal|0.48936 to|0.46809 zero|0.44681 describes|0.42553 the|0.40426 intersection|0.38298 of|0.3617 the|0.34043 surface|0.31915 with|0.29787 the|0.2766 plane|0.25532 which|0.23404 is|0.21277 a|0.19149 locus|0.17021 of|0.14894 points|0.12766 equivalent|0.10638 to|0.085106 a|0.06383 conic|0.042553 section|0.021277 |0",
+			"previous_weights": " A|0 bivariate|0.090909 quadratic|0.18182 function|0.27273 is|0.36364 a|0.45455 second|0.54545 degree|0.63636 polynomial|0.72727 of|0.81818 the|0.90909 form|1"
+		}
+	}
+}

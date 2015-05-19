@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "721d8f021733174c5ef8994cf8313b8005d67b05141cb8bad738728578fd16da",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/An124lift.jpg/220px-An124lift.jpg",
+			"previous": " As of 2011 four An 124 hull loss accidents have been recorded with a total of 97 fatalities 43  As of 2013 the An 124 has visited 768 airports in over 100 countries 30 ",
+			"after": " Data from Antonov com 48  General characteristics Performance",
+			"color": "black|0.50451 dim|0.11368 gray|0.11368 dim|0.11368 grey|0.11368 dark|0.10866 slate|0.10866 gray|0.10866 dark|0.059562 gray|0.059562 dark|0.059562 grey|0.059562 gray|0.054572 grey|0.054572 silver|0.043625 light|0.022372 gray|0.022372 light|0.022372 grey|0.022372 gainsboro|0.014771 slate|0.014059 gray|0.014059 light|0.012556 slate|0.012556 gray|0.012556  ",
+			"after_weights": " Data|1 from|0.875 Antonov|0.75 com|0.625 48|0.5 |0.375 General|0.25 characteristics|0.125 Performance|0",
+			"previous_weights": " As|0 of|0.028571 2011|0.057143 four|0.085714 An|0.11429 124|0.14286 hull|0.17143 loss|0.2 accidents|0.22857 have|0.25714 been|0.28571 recorded|0.31429 with|0.34286 a|0.37143 total|0.4 of|0.42857 97|0.45714 fatalities|0.48571 43|0.51429 |0.54286 As|0.57143 of|0.6 2013|0.62857 the|0.65714 An|0.68571 124|0.71429 has|0.74286 visited|0.77143 768|0.8 airports|0.82857 in|0.85714 over|0.88571 100|0.91429 countries|0.94286 30|0.97143 |1"
+		}
+	}
+}

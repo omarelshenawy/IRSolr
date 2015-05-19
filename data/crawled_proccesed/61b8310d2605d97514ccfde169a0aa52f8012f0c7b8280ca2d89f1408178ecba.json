@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "61b8310d2605d97514ccfde169a0aa52f8012f0c7b8280ca2d89f1408178ecba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Space_Shuttle_vs_Soyuz_TM_-_to_scale_drawing.png/220px-Space_Shuttle_vs_Soyuz_TM_-_to_scale_drawing.png",
+			"previous": "  To extend the duration that orbiters could stay docked at the ISS the Station to Shuttle Power Transfer System SSPTS was installed The SSPTS allowed these orbiters to use power provided by the ISS to preserve their consumables The SSPTS was first used successfully on STS 118 ",
+			"after": " Orbiter 62 for Endeavour OV 105  External tank for SLWT ",
+			"color": "black|0.4972 dim|0.21326 gray|0.21326 dim|0.21326 grey|0.21326 gray|0.16204 grey|0.16204 dark|0.084931 gray|0.084931 dark|0.084931 grey|0.084931 silver|0.025393 light|0.00813 gray|0.00813 light|0.00813 grey|0.00813 gainsboro|0.0049684  ",
+			"after_weights": " Orbiter|1 62|0.90909 for|0.81818 Endeavour|0.72727 OV|0.63636 105|0.54545 |0.45455 External|0.36364 tank|0.27273 for|0.18182 SLWT|0.090909 |0",
+			"previous_weights": " |0 To|0.020833 extend|0.041667 the|0.0625 duration|0.083333 that|0.10417 orbiters|0.125 could|0.14583 stay|0.16667 docked|0.1875 at|0.20833 the|0.22917 ISS|0.25 the|0.27083 Station|0.29167 to|0.3125 Shuttle|0.33333 Power|0.35417 Transfer|0.375 System|0.39583 SSPTS|0.41667 was|0.4375 installed|0.45833 The|0.47917 SSPTS|0.5 allowed|0.52083 these|0.54167 orbiters|0.5625 to|0.58333 use|0.60417 power|0.625 provided|0.64583 by|0.66667 the|0.6875 ISS|0.70833 to|0.72917 preserve|0.75 their|0.77083 consumables|0.79167 The|0.8125 SSPTS|0.83333 was|0.85417 first|0.875 used|0.89583 successfully|0.91667 on|0.9375 STS|0.95833 118|0.97917 |1"
+		}
+	}
+}

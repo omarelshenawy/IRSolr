@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ae28cddacf81a82c219424ae7c582788bfee5bb4e6ac89ab73a08550939f06b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Iberia_Airbus_A321-200_%28EC-ILP%29_departs_London_Heathrow_11Apr2015_arp.jpg/220px-Iberia_Airbus_A321-200_%28EC-ILP%29_departs_London_Heathrow_11Apr2015_arp.jpg",
+			"previous": " IAG has its operational headquarters which controls the management of both its Spanish and British subsidiaries at 2 World Business Centre on the property of London Heathrow Airport in the London Borough of Hillingdon 44 45 ",
+			"after": " ",
+			"color": "steel|0.52739 blue|0.52739 dim|0.099526 gray|0.099526 dim|0.099526 grey|0.099526 gray|0.039373 grey|0.039373 light|0.027634 gray|0.027634 light|0.027634 grey|0.027634 gainsboro|0.026217 black|0.025772 dark|0.024966 gray|0.024966 dark|0.024966 grey|0.024966 silver|0.024437 white|0.01749 smoke|0.01749 ghost|0.014349 white|0.014349 alice|0.014295 blue|0.014295 lavender|0.013292 blush|0.013292 snow|0.013042 slate|0.012841 gray|0.012841 white|0.011518 sea|0.011394 shell|0.011394 light|0.010727 slate|0.010727 gray|0.010727 mint|0.009637 cream|0.009637 azure|0.0092889 lavender|0.0081896 corn|0.0080651 flower|0.0080651 blue|0.0080651 floral|0.0072305 white|0.0072305  ",
+			"after_weights": " ",
+			"previous_weights": " IAG|0 has|0.027778 its|0.055556 operational|0.083333 headquarters|0.11111 which|0.13889 controls|0.16667 the|0.19444 management|0.22222 of|0.25 both|0.27778 its|0.30556 Spanish|0.33333 and|0.36111 British|0.38889 subsidiaries|0.41667 at|0.44444 2|0.47222 World|0.5 Business|0.52778 Centre|0.55556 on|0.58333 the|0.61111 property|0.63889 of|0.66667 London|0.69444 Heathrow|0.72222 Airport|0.75 in|0.77778 the|0.80556 London|0.83333 Borough|0.86111 of|0.88889 Hillingdon|0.91667 44|0.94444 45|0.97222 |1"
+		}
+	}
+}

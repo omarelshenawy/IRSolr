@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a6f1126bcd534d15abab003c2bf40d8ba9097cce5e4d4e87da2306b4ba464aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Caribou_CV-2B_62-4149.jpg/220px-Caribou_CV-2B_62-4149.jpg",
+			"previous": " After retirement from military use several examples of the Caribou have been purchased by civilian operators for deployment in areas with small airfields located in rugged country with few or poor surface transport links ",
+			"after": " ",
+			"color": "light|0.5296 steel|0.5296 blue|0.5296 silver|0.13382 light|0.10604 gray|0.10604 light|0.10604 grey|0.10604 gainsboro|0.087551 dim|0.021773 gray|0.021773 dim|0.021773 grey|0.021773 dark|0.020537 gray|0.020537 dark|0.020537 grey|0.020537 white|0.015943 smoke|0.015943 light|0.015717 slate|0.015717 gray|0.015717 black|0.01125 slate|0.010938 gray|0.010938 gray|0.010907 grey|0.010907 linen|0.0061207 alice|0.0049914 blue|0.0049914 lavender|0.0047146 blush|0.0047146 ghost|0.0043996 white|0.0043996 lavender|0.0040106 sea|0.0038947 shell|0.0038947 snow|0.0035222  ",
+			"after_weights": " ",
+			"previous_weights": " After|0 retirement|0.029412 from|0.058824 military|0.088235 use|0.11765 several|0.14706 examples|0.17647 of|0.20588 the|0.23529 Caribou|0.26471 have|0.29412 been|0.32353 purchased|0.35294 by|0.38235 civilian|0.41176 operators|0.44118 for|0.47059 deployment|0.5 in|0.52941 areas|0.55882 with|0.58824 small|0.61765 airfields|0.64706 located|0.67647 in|0.70588 rugged|0.73529 country|0.76471 with|0.79412 few|0.82353 or|0.85294 poor|0.88235 surface|0.91176 transport|0.94118 links|0.97059 |1"
+		}
+	}
+}

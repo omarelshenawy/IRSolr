@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8dd2661f03c60850ecbfcc3e4eb11e8be6534921c99e0d67ab002e508517c218",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Noorduyn_UC-64A_Norseman.jpg/220px-Noorduyn_UC-64A_Norseman.jpg",
+			"previous": " Norseman aircraft have appeared in the films Grey Owl 1999 and The Snow Walker 2003  The Canadian Second World War ace of aces George Beurling died in a Norseman while landing at Urbe Airport in Rome Italy in 1948 ",
+			"after": " ",
+			"color": "dark|0.57039 gray|0.57039 dark|0.57039 grey|0.57039 silver|0.13722 gray|0.069476 grey|0.069476 dim|0.054626 gray|0.054626 dim|0.054626 grey|0.054626 black|0.03598 light|0.02482 slate|0.02482 gray|0.02482 slate|0.016329 gray|0.016329 light|0.011007 gray|0.011007 light|0.011007 grey|0.011007 light|0.0090377 steel|0.0090377 blue|0.0090377 burly|0.0079973 wood|0.0079973 maroon|0.0069807 tan|0.0067262 gainsboro|0.0056711 dark|0.0056174 slate|0.0056174 gray|0.0056174 dark|0.0046402 red|0.0046402  ",
+			"after_weights": " ",
+			"previous_weights": " Norseman|0 aircraft|0.025 have|0.05 appeared|0.075 in|0.1 the|0.125 films|0.15 Grey|0.175 Owl|0.2 1999|0.225 and|0.25 The|0.275 Snow|0.3 Walker|0.325 2003|0.35 |0.375 The|0.4 Canadian|0.425 Second|0.45 World|0.475 War|0.5 ace|0.525 of|0.55 aces|0.575 George|0.6 Beurling|0.625 died|0.65 in|0.675 a|0.7 Norseman|0.725 while|0.75 landing|0.775 at|0.8 Urbe|0.825 Airport|0.85 in|0.875 Rome|0.9 Italy|0.925 in|0.95 1948|0.975 |1"
+		}
+	}
+}

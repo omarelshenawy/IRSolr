@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3da744c11d43794838153d6e93a922c8eee5c69f1b546f38d6fd610760f940a0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Braille_closeup.jpg/220px-Braille_closeup.jpg",
+			"previous": " ",
+			"after": " Coding theory is the study of the properties of codes and their fitness for a specific application Codes are used for data compression cryptography error correction and more recently also for network coding Codes are studied by various scientific disciplines such as information theory electrical engineering mathematics and computer science for the purpose of designing efficient and reliable data transmission methods This typically involves the removal of redundancy and the correction or detection of errors in the transmitted data ",
+			"color": "silver|0.25968 light|0.23459 gray|0.23459 light|0.23459 grey|0.23459 gainsboro|0.20951 gray|0.10085 grey|0.10085 dark|0.0976 gray|0.0976 dark|0.0976 grey|0.0976 dim|0.075196 gray|0.075196 dim|0.075196 grey|0.075196 linen|0.0052851 white|0.0041749 smoke|0.0041749  ",
+			"after_weights": " Coding|1 theory|0.98734 is|0.97468 the|0.96203 study|0.94937 of|0.93671 the|0.92405 properties|0.91139 of|0.89873 codes|0.88608 and|0.87342 their|0.86076 fitness|0.8481 for|0.83544 a|0.82278 specific|0.81013 application|0.79747 Codes|0.78481 are|0.77215 used|0.75949 for|0.74684 data|0.73418 compression|0.72152 cryptography|0.70886 error|0.6962 correction|0.68354 and|0.67089 more|0.65823 recently|0.64557 also|0.63291 for|0.62025 network|0.60759 coding|0.59494 Codes|0.58228 are|0.56962 studied|0.55696 by|0.5443 various|0.53165 scientific|0.51899 disciplines|0.50633 such|0.49367 as|0.48101 information|0.46835 theory|0.4557 electrical|0.44304 engineering|0.43038 mathematics|0.41772 and|0.40506 computer|0.39241 science|0.37975 for|0.36709 the|0.35443 purpose|0.34177 of|0.32911 designing|0.31646 efficient|0.3038 and|0.29114 reliable|0.27848 data|0.26582 transmission|0.25316 methods|0.24051 This|0.22785 typically|0.21519 involves|0.20253 the|0.18987 removal|0.17722 of|0.16456 redundancy|0.1519 and|0.13924 the|0.12658 correction|0.11392 or|0.10127 detection|0.088608 of|0.075949 errors|0.063291 in|0.050633 the|0.037975 transmitted|0.025316 data|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b0aa88cfe83ddb27ef4ebbf5589fe84a307fde7229edb57db97aaae8235dc55",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/KnottedTorus.svg/220px-KnottedTorus.svg.png",
+			"previous": " The Alexander horned sphere is a well known pathological embedding of the two sphere into the three sphere ",
+			"after": " The chosen embedding if any of a surface into another space is regarded as extrinsic information it is not essential to the surface itself For example a torus can be embedded into E in the standard manner which looks like a bagel or in a knotted manner see figure The two embedded tori are homeomorphic but not isotopic They are topologically equivalent but their embeddings are not ",
+			"color": "orange|0.17033 dark|0.070674 violet|0.070674 white|0.045598 smoke|0.045598 dark|0.044749 orchid|0.044749 snow|0.04186 ghost|0.041638 white|0.041638 alice|0.041494 blue|0.041494 white|0.041241 mint|0.04116 cream|0.04116 sea|0.040586 shell|0.040586 azure|0.03994 floral|0.039094 white|0.039094 lavender|0.035489 blush|0.035489 blue|0.031896 violet|0.031896 light|0.0283 gray|0.0283 light|0.0283 grey|0.0283 dark|0.027818 magenta|0.027818 silver|0.026689 gainsboro|0.024507 firebrick|0.022599 dark|0.021264 gray|0.021264 dark|0.021264 grey|0.021264 dark|0.015511 orange|0.015511 brown|0.014055 dim|0.0099888 gray|0.0099888 dim|0.0099888 grey|0.0099888 gray|0.0098796 grey|0.0098796 chocolate|0.0075007  ",
+			"after_weights": " The|1 chosen|0.98507 embedding|0.97015 if|0.95522 any|0.9403 of|0.92537 a|0.91045 surface|0.89552 into|0.8806 another|0.86567 space|0.85075 is|0.83582 regarded|0.8209 as|0.80597 extrinsic|0.79104 information|0.77612 it|0.76119 is|0.74627 not|0.73134 essential|0.71642 to|0.70149 the|0.68657 surface|0.67164 itself|0.65672 For|0.64179 example|0.62687 a|0.61194 torus|0.59701 can|0.58209 be|0.56716 embedded|0.55224 into|0.53731 E|0.52239 in|0.50746 the|0.49254 standard|0.47761 manner|0.46269 which|0.44776 looks|0.43284 like|0.41791 a|0.40299 bagel|0.38806 or|0.37313 in|0.35821 a|0.34328 knotted|0.32836 manner|0.31343 see|0.29851 figure|0.28358 The|0.26866 two|0.25373 embedded|0.23881 tori|0.22388 are|0.20896 homeomorphic|0.19403 but|0.1791 not|0.16418 isotopic|0.14925 They|0.13433 are|0.1194 topologically|0.10448 equivalent|0.089552 but|0.074627 their|0.059701 embeddings|0.044776 are|0.029851 not|0.014925 |0",
+			"previous_weights": " The|0 Alexander|0.055556 horned|0.11111 sphere|0.16667 is|0.22222 a|0.27778 well|0.33333 known|0.38889 pathological|0.44444 embedding|0.5 of|0.55556 the|0.61111 two|0.66667 sphere|0.72222 into|0.77778 the|0.83333 three|0.88889 sphere|0.94444 |1"
+		}
+	}
+}

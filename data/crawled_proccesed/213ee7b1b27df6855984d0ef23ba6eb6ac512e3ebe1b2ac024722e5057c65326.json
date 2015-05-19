@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "213ee7b1b27df6855984d0ef23ba6eb6ac512e3ebe1b2ac024722e5057c65326",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dubai_Media_City_1.jpg/220px-Dubai_Media_City_1.jpg",
+			"previous": " ",
+			"after": " Many international news agencies such as Reuters APTN Bloomberg L P and Middle East Broadcasting Center MBC operate in Dubai Media City and Dubai Internet City Additionally several local network television channels such as Dubai One formerly Channel 33 and Dubai TV EDTV provide programming in English and Arabic respectively Dubai is also the headquarters for several print media outlets Dar Al Khaleej Al Bayan and Al Ittihad are the city s largest circulating Arabic language newspapers 197 while Gulf News Khaleej Times and 7DAYS are the largest circulating English newspapers 198 ",
+			"color": "gray|0.38354 grey|0.38354 dark|0.32377 gray|0.32377 dark|0.32377 grey|0.32377 dim|0.093223 gray|0.093223 dim|0.093223 grey|0.093223 silver|0.062369 tan|0.024935 light|0.016176 gray|0.016176 light|0.016176 grey|0.016176 burly|0.010906 wood|0.010906 gainsboro|0.0084964 peach|0.0076083 puff|0.0076083 dark|0.0072379 olive|0.0072379 green|0.0072379  ",
+			"after_weights": " Many|1 international|0.98913 news|0.97826 agencies|0.96739 such|0.95652 as|0.94565 Reuters|0.93478 APTN|0.92391 Bloomberg|0.91304 L|0.90217 P|0.8913 and|0.88043 Middle|0.86957 East|0.8587 Broadcasting|0.84783 Center|0.83696 MBC|0.82609 operate|0.81522 in|0.80435 Dubai|0.79348 Media|0.78261 City|0.77174 and|0.76087 Dubai|0.75 Internet|0.73913 City|0.72826 Additionally|0.71739 several|0.70652 local|0.69565 network|0.68478 television|0.67391 channels|0.66304 such|0.65217 as|0.6413 Dubai|0.63043 One|0.61957 formerly|0.6087 Channel|0.59783 33|0.58696 and|0.57609 Dubai|0.56522 TV|0.55435 EDTV|0.54348 provide|0.53261 programming|0.52174 in|0.51087 English|0.5 and|0.48913 Arabic|0.47826 respectively|0.46739 Dubai|0.45652 is|0.44565 also|0.43478 the|0.42391 headquarters|0.41304 for|0.40217 several|0.3913 print|0.38043 media|0.36957 outlets|0.3587 Dar|0.34783 Al|0.33696 Khaleej|0.32609 Al|0.31522 Bayan|0.30435 and|0.29348 Al|0.28261 Ittihad|0.27174 are|0.26087 the|0.25 city|0.23913 s|0.22826 largest|0.21739 circulating|0.20652 Arabic|0.19565 language|0.18478 newspapers|0.17391 197|0.16304 while|0.15217 Gulf|0.1413 News|0.13043 Khaleej|0.11957 Times|0.1087 and|0.097826 7DAYS|0.086957 are|0.076087 the|0.065217 largest|0.054348 circulating|0.043478 English|0.032609 newspapers|0.021739 198|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

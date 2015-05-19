@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "172d9d69cd7fced1973b8e22cc5d78da57938b51bb476a12ef73a53423d260e0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jrobinson.jpg/200px-Jrobinson.jpg",
+			"previous": " ",
+			"after": " Apart from his cultural impact Robinson had an exceptional baseball career Over ten seasons he played in six World Series and contributed to the Dodgers 1955 World Championship He was selected for six consecutive All Star Games from 1949 to 1954 was the recipient of the inaugural MLB Rookie of the Year Award in 1947 and won the National League Most Valuable Player Award in 1949 the first black player so honored Robinson was inducted into the Baseball Hall of Fame in 1962 In 1997 Major League Baseball retired his uniform number 42 across all major league teams ",
+			"color": " ",
+			"after_weights": " Apart|1 from|0.9898 his|0.97959 cultural|0.96939 impact|0.95918 Robinson|0.94898 had|0.93878 an|0.92857 exceptional|0.91837 baseball|0.90816 career|0.89796 Over|0.88776 ten|0.87755 seasons|0.86735 he|0.85714 played|0.84694 in|0.83673 six|0.82653 World|0.81633 Series|0.80612 and|0.79592 contributed|0.78571 to|0.77551 the|0.76531 Dodgers|0.7551 1955|0.7449 World|0.73469 Championship|0.72449 He|0.71429 was|0.70408 selected|0.69388 for|0.68367 six|0.67347 consecutive|0.66327 All|0.65306 Star|0.64286 Games|0.63265 from|0.62245 1949|0.61224 to|0.60204 1954|0.59184 was|0.58163 the|0.57143 recipient|0.56122 of|0.55102 the|0.54082 inaugural|0.53061 MLB|0.52041 Rookie|0.5102 of|0.5 the|0.4898 Year|0.47959 Award|0.46939 in|0.45918 1947|0.44898 and|0.43878 won|0.42857 the|0.41837 National|0.40816 League|0.39796 Most|0.38776 Valuable|0.37755 Player|0.36735 Award|0.35714 in|0.34694 1949|0.33673 the|0.32653 first|0.31633 black|0.30612 player|0.29592 so|0.28571 honored|0.27551 Robinson|0.26531 was|0.2551 inducted|0.2449 into|0.23469 the|0.22449 Baseball|0.21429 Hall|0.20408 of|0.19388 Fame|0.18367 in|0.17347 1962|0.16327 In|0.15306 1997|0.14286 Major|0.13265 League|0.12245 Baseball|0.11224 retired|0.10204 his|0.091837 uniform|0.081633 number|0.071429 42|0.061224 across|0.05102 all|0.040816 major|0.030612 league|0.020408 teams|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

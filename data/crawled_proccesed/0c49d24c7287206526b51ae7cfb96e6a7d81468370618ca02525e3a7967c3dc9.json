@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c49d24c7287206526b51ae7cfb96e6a7d81468370618ca02525e3a7967c3dc9",
+			"url": "https://upload.wikimedia.org/math/a/7/c/a7cefa415f27d01e1a8681ed77cf21f7.png",
+			"previous": " The maximal connected subsets ordered by inclusion of a nonempty topological space are called the connected components of the space The components of any topological space X form a partition of X they are disjoint nonempty and their union is the whole space Every component is a closed subset of the original space It follows that in the case where their number is finite each component is also an open subset However if their number is infinite this might not be the case for instance the connected components of the set of the rational numbers are the one point sets which are not open ",
+			"after": " ",
+			"color": "dim|0.38567 gray|0.38567 dim|0.38567 grey|0.38567 gray|0.3335 grey|0.3335 dark|0.16299 gray|0.16299 dark|0.16299 grey|0.16299 silver|0.04991 light|0.028612 gray|0.028612 light|0.028612 grey|0.028612 gainsboro|0.020377 white|0.0042354 smoke|0.0042354  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 maximal|0.0096154 connected|0.019231 subsets|0.028846 ordered|0.038462 by|0.048077 inclusion|0.057692 of|0.067308 a|0.076923 nonempty|0.086538 topological|0.096154 space|0.10577 are|0.11538 called|0.125 the|0.13462 connected|0.14423 components|0.15385 of|0.16346 the|0.17308 space|0.18269 The|0.19231 components|0.20192 of|0.21154 any|0.22115 topological|0.23077 space|0.24038 X|0.25 form|0.25962 a|0.26923 partition|0.27885 of|0.28846 X|0.29808 they|0.30769 are|0.31731 disjoint|0.32692 nonempty|0.33654 and|0.34615 their|0.35577 union|0.36538 is|0.375 the|0.38462 whole|0.39423 space|0.40385 Every|0.41346 component|0.42308 is|0.43269 a|0.44231 closed|0.45192 subset|0.46154 of|0.47115 the|0.48077 original|0.49038 space|0.5 It|0.50962 follows|0.51923 that|0.52885 in|0.53846 the|0.54808 case|0.55769 where|0.56731 their|0.57692 number|0.58654 is|0.59615 finite|0.60577 each|0.61538 component|0.625 is|0.63462 also|0.64423 an|0.65385 open|0.66346 subset|0.67308 However|0.68269 if|0.69231 their|0.70192 number|0.71154 is|0.72115 infinite|0.73077 this|0.74038 might|0.75 not|0.75962 be|0.76923 the|0.77885 case|0.78846 for|0.79808 instance|0.80769 the|0.81731 connected|0.82692 components|0.83654 of|0.84615 the|0.85577 set|0.86538 of|0.875 the|0.88462 rational|0.89423 numbers|0.90385 are|0.91346 the|0.92308 one|0.93269 point|0.94231 sets|0.95192 which|0.96154 are|0.97115 not|0.98077 open|0.99038 |1"
+		}
+	}
+}

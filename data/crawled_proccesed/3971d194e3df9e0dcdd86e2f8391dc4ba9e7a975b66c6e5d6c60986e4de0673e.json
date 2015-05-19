@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3971d194e3df9e0dcdd86e2f8391dc4ba9e7a975b66c6e5d6c60986e4de0673e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Boeing_747-467_Cathay_Pacific_Airways_B-HOR%2C_FRA_Frankfurt_%28Rhein-Main%29%2C_Germany_PP1375032230.jpg/220px-Boeing_747-467_Cathay_Pacific_Airways_B-HOR%2C_FRA_Frankfurt_%28Rhein-Main%29%2C_Germany_PP1375032230.jpg",
+			"previous": " ",
+			"after": " Frankfurt Airport can easily be accessed by car taxi train or bus as it features an extensive transport network There are two train stations at the airport one for suburban regional trains and one for long distance trains ",
+			"color": "dim|0.13301 gray|0.13301 dim|0.13301 grey|0.13301 dark|0.088211 gray|0.088211 dark|0.088211 grey|0.088211 silver|0.074981 light|0.067751 gray|0.067751 light|0.067751 grey|0.067751 gainsboro|0.06536 gray|0.057666 grey|0.057666 black|0.053721 alice|0.045643 blue|0.045643 lavender|0.044068 white|0.035468 smoke|0.035468 ghost|0.032207 white|0.032207 light|0.02812 steel|0.02812 blue|0.02812 dark|0.02563 slate|0.02563 gray|0.02563 snow|0.025495 light|0.025201 slate|0.025201 gray|0.025201 white|0.023616 mint|0.022671 cream|0.022671 sea|0.022572 shell|0.022572 azure|0.021469 floral|0.018907 white|0.018907 lavender|0.0184 blush|0.0184 slate|0.01801 gray|0.01801 light|0.013076 blue|0.013076 linen|0.011962  ",
+			"after_weights": " Frankfurt|1 Airport|0.97368 can|0.94737 easily|0.92105 be|0.89474 accessed|0.86842 by|0.84211 car|0.81579 taxi|0.78947 train|0.76316 or|0.73684 bus|0.71053 as|0.68421 it|0.65789 features|0.63158 an|0.60526 extensive|0.57895 transport|0.55263 network|0.52632 There|0.5 are|0.47368 two|0.44737 train|0.42105 stations|0.39474 at|0.36842 the|0.34211 airport|0.31579 one|0.28947 for|0.26316 suburban|0.23684 regional|0.21053 trains|0.18421 and|0.15789 one|0.13158 for|0.10526 long|0.078947 distance|0.052632 trains|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

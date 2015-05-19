@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ec529372cbd09750daaf2189e581692570a5602e0afba5e216c25242cd99b6b",
+			"url": "https://upload.wikimedia.org/math/6/b/5/6b5575c56df867541d374405c58284ad.png",
+			"previous": " Another formula to compute the degree of f from its values is This formula generalizes the concept of degree to some functions that are not polynomials For example ",
+			"after": "  This follows from L H pital s rule  For polynomials in two or more variables the degree of a term is the sum of the exponents of the variables in the term the degree sometimes called the total degree of the polynomial is again the maximum of the degrees of all terms in the polynomial For example the polynomial x2y2 3x3 4y has degree 4 the same degree as the term x2y2 ",
+			"color": "gray|0.29869 grey|0.29869 dim|0.28845 gray|0.28845 dim|0.28845 grey|0.28845 dark|0.21535 gray|0.21535 dark|0.21535 grey|0.21535 silver|0.095378 light|0.048155 gray|0.048155 light|0.048155 grey|0.048155 gainsboro|0.033017 white|0.0058108 smoke|0.0058108 linen|0.0026675  ",
+			"after_weights": " |1 This|0.98649 follows|0.97297 from|0.95946 L|0.94595 H|0.93243 pital|0.91892 s|0.90541 rule|0.89189 |0.87838 For|0.86486 polynomials|0.85135 in|0.83784 two|0.82432 or|0.81081 more|0.7973 variables|0.78378 the|0.77027 degree|0.75676 of|0.74324 a|0.72973 term|0.71622 is|0.7027 the|0.68919 sum|0.67568 of|0.66216 the|0.64865 exponents|0.63514 of|0.62162 the|0.60811 variables|0.59459 in|0.58108 the|0.56757 term|0.55405 the|0.54054 degree|0.52703 sometimes|0.51351 called|0.5 the|0.48649 total|0.47297 degree|0.45946 of|0.44595 the|0.43243 polynomial|0.41892 is|0.40541 again|0.39189 the|0.37838 maximum|0.36486 of|0.35135 the|0.33784 degrees|0.32432 of|0.31081 all|0.2973 terms|0.28378 in|0.27027 the|0.25676 polynomial|0.24324 For|0.22973 example|0.21622 the|0.2027 polynomial|0.18919 x2y2|0.17568 3x3|0.16216 4y|0.14865 has|0.13514 degree|0.12162 4|0.10811 the|0.094595 same|0.081081 degree|0.067568 as|0.054054 the|0.040541 term|0.027027 x2y2|0.013514 |0",
+			"previous_weights": " Another|0 formula|0.035714 to|0.071429 compute|0.10714 the|0.14286 degree|0.17857 of|0.21429 f|0.25 from|0.28571 its|0.32143 values|0.35714 is|0.39286 This|0.42857 formula|0.46429 generalizes|0.5 the|0.53571 concept|0.57143 of|0.60714 degree|0.64286 to|0.67857 some|0.71429 functions|0.75 that|0.78571 are|0.82143 not|0.85714 polynomials|0.89286 For|0.92857 example|0.96429 |1"
+		}
+	}
+}

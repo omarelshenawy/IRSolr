@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "62453d129722457ba00b03047b4f1b521b1a03cfb343b156a926ae189acf202b",
+			"url": "https://upload.wikimedia.org/math/9/5/f/95f35b63d6e42c137c3d8b9aa971230d.png",
+			"previous": " In other words this is a measure of how much on the average the probability distribution on X will change if we are given the value of Y This is often recalculated as the divergence from the product of the marginal distributions to the actual joint distribution ",
+			"after": " Mutual information is closely related to the log likelihood ratio test in the context of contingency tables and the multinomial distribution and to Pearson s 2 test mutual information can be considered a statistic for assessing independence between a pair of variables and has a well specified asymptotic distribution ",
+			"color": "gray|0.30807 grey|0.30807 dim|0.26116 gray|0.26116 dim|0.26116 grey|0.26116 dark|0.23052 gray|0.23052 dark|0.23052 grey|0.23052 silver|0.10258 light|0.043735 gray|0.043735 light|0.043735 grey|0.043735 gainsboro|0.030707 white|0.0056583 smoke|0.0056583 linen|0.0029638  ",
+			"after_weights": " Mutual|1 information|0.97959 is|0.95918 closely|0.93878 related|0.91837 to|0.89796 the|0.87755 log|0.85714 likelihood|0.83673 ratio|0.81633 test|0.79592 in|0.77551 the|0.7551 context|0.73469 of|0.71429 contingency|0.69388 tables|0.67347 and|0.65306 the|0.63265 multinomial|0.61224 distribution|0.59184 and|0.57143 to|0.55102 Pearson|0.53061 s|0.5102 2|0.4898 test|0.46939 mutual|0.44898 information|0.42857 can|0.40816 be|0.38776 considered|0.36735 a|0.34694 statistic|0.32653 for|0.30612 assessing|0.28571 independence|0.26531 between|0.2449 a|0.22449 pair|0.20408 of|0.18367 variables|0.16327 and|0.14286 has|0.12245 a|0.10204 well|0.081633 specified|0.061224 asymptotic|0.040816 distribution|0.020408 |0",
+			"previous_weights": " In|0 other|0.021277 words|0.042553 this|0.06383 is|0.085106 a|0.10638 measure|0.12766 of|0.14894 how|0.17021 much|0.19149 on|0.21277 the|0.23404 average|0.25532 the|0.2766 probability|0.29787 distribution|0.31915 on|0.34043 X|0.3617 will|0.38298 change|0.40426 if|0.42553 we|0.44681 are|0.46809 given|0.48936 the|0.51064 value|0.53191 of|0.55319 Y|0.57447 This|0.59574 is|0.61702 often|0.6383 recalculated|0.65957 as|0.68085 the|0.70213 divergence|0.7234 from|0.74468 the|0.76596 product|0.78723 of|0.80851 the|0.82979 marginal|0.85106 distributions|0.87234 to|0.89362 the|0.91489 actual|0.93617 joint|0.95745 distribution|0.97872 |1"
+		}
+	}
+}

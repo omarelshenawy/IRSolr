@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "929c56a1431ca4a0a14466562fa8d05a4c5d5955693a06ade23a61c88d9ed87a",
+			"url": "https://upload.wikimedia.org/math/1/7/a/17adb8d115e4867f2acf86c7c4c90b06.png",
+			"previous": " It can be shown that Subtracting the two equalities gives and",
+			"after": " Manipulating this equation gives Substituting the above into 1 results in According to the mean value theorem for integration there exists a real number in x1 x1 x such that",
+			"color": "dim|0.37899 gray|0.37899 dim|0.37899 grey|0.37899 gray|0.29838 grey|0.29838 dark|0.18211 gray|0.18211 dark|0.18211 grey|0.18211 silver|0.067465 light|0.032171 gray|0.032171 light|0.032171 grey|0.032171 gainsboro|0.022914 white|0.0044488 smoke|0.0044488  ",
+			"after_weights": " Manipulating|1 this|0.96552 equation|0.93103 gives|0.89655 Substituting|0.86207 the|0.82759 above|0.7931 into|0.75862 1|0.72414 results|0.68966 in|0.65517 According|0.62069 to|0.58621 the|0.55172 mean|0.51724 value|0.48276 theorem|0.44828 for|0.41379 integration|0.37931 there|0.34483 exists|0.31034 a|0.27586 real|0.24138 number|0.2069 in|0.17241 x1|0.13793 x1|0.10345 x|0.068966 such|0.034483 that|0",
+			"previous_weights": " It|0 can|0.1 be|0.2 shown|0.3 that|0.4 Subtracting|0.5 the|0.6 two|0.7 equalities|0.8 gives|0.9 and|1"
+		}
+	}
+}

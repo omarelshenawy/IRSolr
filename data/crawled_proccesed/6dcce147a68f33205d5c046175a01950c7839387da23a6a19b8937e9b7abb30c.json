@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6dcce147a68f33205d5c046175a01950c7839387da23a6a19b8937e9b7abb30c",
+			"url": "https://upload.wikimedia.org/math/4/1/e/41ed77c9bab7e8d949e2376e38b989a3.png",
+			"previous": " In analytic geometry a sphere with center x0 y0 z0 and radius r is the locus of all points x y z such that",
+			"after": " The points on the sphere with radius r can be parameterized via A sphere of any radius centered at zero is an integral surface of the following differential form ",
+			"color": "dim|0.39434 gray|0.39434 dim|0.39434 grey|0.39434 gray|0.27667 grey|0.27667 dark|0.16785 gray|0.16785 dark|0.16785 grey|0.16785 silver|0.078518 light|0.038584 gray|0.038584 light|0.038584 grey|0.038584 gainsboro|0.027428 white|0.0042714 smoke|0.0042714  ",
+			"after_weights": " The|1 points|0.96552 on|0.93103 the|0.89655 sphere|0.86207 with|0.82759 radius|0.7931 r|0.75862 can|0.72414 be|0.68966 parameterized|0.65517 via|0.62069 A|0.58621 sphere|0.55172 of|0.51724 any|0.48276 radius|0.44828 centered|0.41379 at|0.37931 zero|0.34483 is|0.31034 an|0.27586 integral|0.24138 surface|0.2069 of|0.17241 the|0.13793 following|0.10345 differential|0.068966 form|0.034483 |0",
+			"previous_weights": " In|0 analytic|0.043478 geometry|0.086957 a|0.13043 sphere|0.17391 with|0.21739 center|0.26087 x0|0.30435 y0|0.34783 z0|0.3913 and|0.43478 radius|0.47826 r|0.52174 is|0.56522 the|0.6087 locus|0.65217 of|0.69565 all|0.73913 points|0.78261 x|0.82609 y|0.86957 z|0.91304 such|0.95652 that|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "439ae1f5adf40b11b39a88db889f0643798aea3514a063c96bba459930be86e8",
+			"url": "https://upload.wikimedia.org/math/2/a/e/2ae2de823fb6401be7a9e5f1b380b471.png",
+			"previous": " PID controller transfer function in series form There exists a nice example of the closed loop system discussed above If we take  with the PID controller transfer function",
+			"after": " 1st order filter in feedback loop linear actuator with filtered input",
+			"color": "dim|0.3994 gray|0.3994 dim|0.3994 grey|0.3994 gray|0.2831 grey|0.2831 dark|0.16997 gray|0.16997 dark|0.16997 grey|0.16997 silver|0.072834 light|0.035286 gray|0.035286 light|0.035286 grey|0.035286 gainsboro|0.024899 white|0.0041063 smoke|0.0041063  ",
+			"after_weights": " 1st|1 order|0.9 filter|0.8 in|0.7 feedback|0.6 loop|0.5 linear|0.4 actuator|0.3 with|0.2 filtered|0.1 input|0",
+			"previous_weights": " PID|0 controller|0.035714 transfer|0.071429 function|0.10714 in|0.14286 series|0.17857 form|0.21429 There|0.25 exists|0.28571 a|0.32143 nice|0.35714 example|0.39286 of|0.42857 the|0.46429 closed|0.5 loop|0.53571 system|0.57143 discussed|0.60714 above|0.64286 If|0.67857 we|0.71429 take|0.75 |0.78571 with|0.82143 the|0.85714 PID|0.89286 controller|0.92857 transfer|0.96429 function|1"
+		}
+	}
+}

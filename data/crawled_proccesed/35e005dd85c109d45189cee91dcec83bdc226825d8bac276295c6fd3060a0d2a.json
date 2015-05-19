@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35e005dd85c109d45189cee91dcec83bdc226825d8bac276295c6fd3060a0d2a",
+			"url": "https://upload.wikimedia.org/math/a/0/f/a0f3340a3ef4abbc50a1b303ec2b8787.png",
+			"previous": " intake mass flow rate where   A high specific thrust engine has a high jet velocity by definition as the following approximate equation for net thrust implies 1 ",
+			"after": " aircraft flight velocity Rearranging the above equation specific thrust is given by   So for zero flight velocity specific thrust is directly proportional to jet velocity ",
+			"color": "dim|0.44229 gray|0.44229 dim|0.44229 grey|0.44229 gray|0.26491 grey|0.26491 dark|0.15494 gray|0.15494 dark|0.15494 grey|0.15494 silver|0.064813 light|0.033119 gray|0.033119 light|0.033119 grey|0.033119 gainsboro|0.022997 white|0.004332 smoke|0.004332  ",
+			"after_weights": " aircraft|1 flight|0.96296 velocity|0.92593 Rearranging|0.88889 the|0.85185 above|0.81481 equation|0.77778 specific|0.74074 thrust|0.7037 is|0.66667 given|0.62963 by|0.59259 |0.55556 |0.51852 So|0.48148 for|0.44444 zero|0.40741 flight|0.37037 velocity|0.33333 specific|0.2963 thrust|0.25926 is|0.22222 directly|0.18519 proportional|0.14815 to|0.11111 jet|0.074074 velocity|0.037037 |0",
+			"previous_weights": " intake|0 mass|0.034483 flow|0.068966 rate|0.10345 where|0.13793 |0.17241 |0.2069 A|0.24138 high|0.27586 specific|0.31034 thrust|0.34483 engine|0.37931 has|0.41379 a|0.44828 high|0.48276 jet|0.51724 velocity|0.55172 by|0.58621 definition|0.62069 as|0.65517 the|0.68966 following|0.72414 approximate|0.75862 equation|0.7931 for|0.82759 net|0.86207 thrust|0.89655 implies|0.93103 1|0.96552 |1"
+		}
+	}
+}

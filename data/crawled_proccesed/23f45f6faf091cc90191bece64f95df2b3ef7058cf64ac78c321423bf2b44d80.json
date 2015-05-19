@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "23f45f6faf091cc90191bece64f95df2b3ef7058cf64ac78c321423bf2b44d80",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Korean_Air_Headquarters_in_Seoul.jpg/220px-Korean_Air_Headquarters_in_Seoul.jpg",
+			"previous": " ",
+			"after": " Korean Air s main global headquarters campus the Korean Air Operations Center 10 is located in Gonghang dong Gangseo gu in Seoul Korean Air also maintains a domestic office campus at Gimpo International Airport in Seoul Korean Air s lesser domestic hubs are based at Jeju International Airport Jeju and Gimhae International Airport Busan 3 The maintenance facilities are located in Gimhae International Airport ",
+			"color": "dim|0.19128 gray|0.19128 dim|0.19128 grey|0.19128 dark|0.14658 gray|0.14658 dark|0.14658 grey|0.14658 black|0.13625 gray|0.1349 grey|0.1349 silver|0.13016 light|0.098728 gray|0.098728 light|0.098728 grey|0.098728 gainsboro|0.073086 slate|0.016848 gray|0.016848 light|0.011449 slate|0.011449 gray|0.011449 dark|0.0098191 slate|0.0098191 gray|0.0098191 lavender|0.0092057 white|0.0083078 smoke|0.0083078 alice|0.0059077 blue|0.0059077  ",
+			"after_weights": " Korean|1 Air|0.98438 s|0.96875 main|0.95312 global|0.9375 headquarters|0.92188 campus|0.90625 the|0.89062 Korean|0.875 Air|0.85938 Operations|0.84375 Center|0.82812 10|0.8125 is|0.79688 located|0.78125 in|0.76562 Gonghang|0.75 dong|0.73438 Gangseo|0.71875 gu|0.70312 in|0.6875 Seoul|0.67188 Korean|0.65625 Air|0.64062 also|0.625 maintains|0.60938 a|0.59375 domestic|0.57812 office|0.5625 campus|0.54688 at|0.53125 Gimpo|0.51562 International|0.5 Airport|0.48438 in|0.46875 Seoul|0.45312 Korean|0.4375 Air|0.42188 s|0.40625 lesser|0.39062 domestic|0.375 hubs|0.35938 are|0.34375 based|0.32812 at|0.3125 Jeju|0.29688 International|0.28125 Airport|0.26562 Jeju|0.25 and|0.23438 Gimhae|0.21875 International|0.20312 Airport|0.1875 Busan|0.17188 3|0.15625 The|0.14062 maintenance|0.125 facilities|0.10938 are|0.09375 located|0.078125 in|0.0625 Gimhae|0.046875 International|0.03125 Airport|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

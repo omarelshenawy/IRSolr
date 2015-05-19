@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6db4e6b7046eb7d41d4f8aef7836e9ca9e4cef785647fa50b38d8b560f743ab8",
+			"url": "https://upload.wikimedia.org/math/0/0/7/00799b185302341d53d975633fa34d9e.png",
+			"previous": " Another way to approach the problem is to linearize any nonlinearities the sine function term in this case at the various points of interest through Taylor expansions For example the linearization at called the small angle approximation is",
+			"after": " since for The solution to this problem involves hyperbolic sinusoids and note that unlike the small angle approximation this approximation is unstable meaning that will usually grow without limit though bounded solutions are possible This corresponds to the difficulty of balancing a pendulum upright it is literally an unstable state ",
+			"color": " ",
+			"after_weights": " since|1 for|0.98 The|0.96 solution|0.94 to|0.92 this|0.9 problem|0.88 involves|0.86 hyperbolic|0.84 sinusoids|0.82 and|0.8 note|0.78 that|0.76 unlike|0.74 the|0.72 small|0.7 angle|0.68 approximation|0.66 this|0.64 approximation|0.62 is|0.6 unstable|0.58 meaning|0.56 that|0.54 will|0.52 usually|0.5 grow|0.48 without|0.46 limit|0.44 though|0.42 bounded|0.4 solutions|0.38 are|0.36 possible|0.34 This|0.32 corresponds|0.3 to|0.28 the|0.26 difficulty|0.24 of|0.22 balancing|0.2 a|0.18 pendulum|0.16 upright|0.14 it|0.12 is|0.1 literally|0.08 an|0.06 unstable|0.04 state|0.02 |0",
+			"previous_weights": " Another|0 way|0.027027 to|0.054054 approach|0.081081 the|0.10811 problem|0.13514 is|0.16216 to|0.18919 linearize|0.21622 any|0.24324 nonlinearities|0.27027 the|0.2973 sine|0.32432 function|0.35135 term|0.37838 in|0.40541 this|0.43243 case|0.45946 at|0.48649 the|0.51351 various|0.54054 points|0.56757 of|0.59459 interest|0.62162 through|0.64865 Taylor|0.67568 expansions|0.7027 For|0.72973 example|0.75676 the|0.78378 linearization|0.81081 at|0.83784 called|0.86486 the|0.89189 small|0.91892 angle|0.94595 approximation|0.97297 is|1"
+		}
+	}
+}

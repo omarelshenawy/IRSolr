@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1082de59ce5f520f8b486f903b373f35a555c16d5418750e59fdef317f0e34fe",
+			"url": "https://upload.wikimedia.org/math/5/c/7/5c782a625dd6a13180320bfefe087689.png",
+			"previous": " where 1 i m and 1 j p 12 For example the underlined entry 2340 in the product is calculated as 2 1000 3 100 4 10 2340 ",
+			"after": " Matrix multiplication satisfies the rules AB C A BC associativity and A B C AC BC as well as C A B CA CB left and right distributivity whenever the size of the matrices is such that the various products are defined 13 The product AB may be defined without BA being defined namely if A and B are m by n and n by k matrices respectively and m k Even if both products are defined they need not be equal i e generally",
+			"color": "gray|0.27869 grey|0.27869 dark|0.26534 gray|0.26534 dark|0.26534 grey|0.26534 dim|0.2313 gray|0.2313 dim|0.2313 grey|0.2313 silver|0.10124 light|0.059749 gray|0.059749 light|0.059749 grey|0.059749 gainsboro|0.036414 white|0.0057324 smoke|0.0057324 linen|0.0036812 lavender|0.0033123 blush|0.0033123 alice|0.003275 blue|0.003275 ghost|0.0032439 white|0.0032439 sea|0.0032172 shell|0.0032172 snow|0.0031822  ",
+			"after_weights": " Matrix|1 multiplication|0.9881 satisfies|0.97619 the|0.96429 rules|0.95238 AB|0.94048 C|0.92857 A|0.91667 BC|0.90476 associativity|0.89286 and|0.88095 A|0.86905 B|0.85714 C|0.84524 AC|0.83333 BC|0.82143 as|0.80952 well|0.79762 as|0.78571 C|0.77381 A|0.7619 B|0.75 CA|0.7381 CB|0.72619 left|0.71429 and|0.70238 right|0.69048 distributivity|0.67857 whenever|0.66667 the|0.65476 size|0.64286 of|0.63095 the|0.61905 matrices|0.60714 is|0.59524 such|0.58333 that|0.57143 the|0.55952 various|0.54762 products|0.53571 are|0.52381 defined|0.5119 13|0.5 The|0.4881 product|0.47619 AB|0.46429 may|0.45238 be|0.44048 defined|0.42857 without|0.41667 BA|0.40476 being|0.39286 defined|0.38095 namely|0.36905 if|0.35714 A|0.34524 and|0.33333 B|0.32143 are|0.30952 m|0.29762 by|0.28571 n|0.27381 and|0.2619 n|0.25 by|0.2381 k|0.22619 matrices|0.21429 respectively|0.20238 and|0.19048 m|0.17857 k|0.16667 Even|0.15476 if|0.14286 both|0.13095 products|0.11905 are|0.10714 defined|0.095238 they|0.083333 need|0.071429 not|0.059524 be|0.047619 equal|0.035714 i|0.02381 e|0.011905 generally|0",
+			"previous_weights": " where|0 1|0.035714 i|0.071429 m|0.10714 and|0.14286 1|0.17857 j|0.21429 p|0.25 12|0.28571 For|0.32143 example|0.35714 the|0.39286 underlined|0.42857 entry|0.46429 2340|0.5 in|0.53571 the|0.57143 product|0.60714 is|0.64286 calculated|0.67857 as|0.71429 2|0.75 1000|0.78571 3|0.82143 100|0.85714 4|0.89286 10|0.92857 2340|0.96429 |1"
+		}
+	}
+}

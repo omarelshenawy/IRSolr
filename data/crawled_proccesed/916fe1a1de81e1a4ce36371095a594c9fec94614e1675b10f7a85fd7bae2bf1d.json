@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "916fe1a1de81e1a4ce36371095a594c9fec94614e1675b10f7a85fd7bae2bf1d",
+			"url": "https://upload.wikimedia.org/math/2/7/e/27e7b21fcc37defe607376609b681ac8.png",
+			"previous": " The saturation intensity IS is defined as the input intensity at which the gain of the optical amplifier drops to exactly half of the small signal gain We can compute the saturation intensity as",
+			"after": " where",
+			"color": "dim|0.37536 gray|0.37536 dim|0.37536 grey|0.37536 gray|0.29605 grey|0.29605 dark|0.17289 gray|0.17289 dark|0.17289 grey|0.17289 silver|0.07369 light|0.036499 gray|0.036499 light|0.036499 grey|0.036499 gainsboro|0.025555 white|0.0050607 smoke|0.0050607  ",
+			"after_weights": " where|0",
+			"previous_weights": " The|0 saturation|0.030303 intensity|0.060606 IS|0.090909 is|0.12121 defined|0.15152 as|0.18182 the|0.21212 input|0.24242 intensity|0.27273 at|0.30303 which|0.33333 the|0.36364 gain|0.39394 of|0.42424 the|0.45455 optical|0.48485 amplifier|0.51515 drops|0.54545 to|0.57576 exactly|0.60606 half|0.63636 of|0.66667 the|0.69697 small|0.72727 signal|0.75758 gain|0.78788 We|0.81818 can|0.84848 compute|0.87879 the|0.90909 saturation|0.93939 intensity|0.9697 as|1"
+		}
+	}
+}

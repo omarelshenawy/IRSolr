@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "894908452a3907806633ddc084401a2591ead1bd2ab204eb97af92d7e6cef5d7",
+			"url": "https://upload.wikimedia.org/math/0/0/8/00810b83d9871b2ab7778e5f97461f4b.png",
+			"previous": " core total head pressure ratio  core size  core mass flow  where ",
+			"after": " core entry total pressure  core entry total temperature  So basically increasing increases  On the other hand adding a stage to the rear of the compressor increases overall pressure ratio decreases core size but has no effect on core flow This option also needs a turbine with a significantly smaller flow capacity to drive the compressor ",
+			"color": " ",
+			"after_weights": " core|1 entry|0.98276 total|0.96552 pressure|0.94828 |0.93103 core|0.91379 entry|0.89655 total|0.87931 temperature|0.86207 |0.84483 So|0.82759 basically|0.81034 increasing|0.7931 increases|0.77586 |0.75862 On|0.74138 the|0.72414 other|0.7069 hand|0.68966 adding|0.67241 a|0.65517 stage|0.63793 to|0.62069 the|0.60345 rear|0.58621 of|0.56897 the|0.55172 compressor|0.53448 increases|0.51724 overall|0.5 pressure|0.48276 ratio|0.46552 decreases|0.44828 core|0.43103 size|0.41379 but|0.39655 has|0.37931 no|0.36207 effect|0.34483 on|0.32759 core|0.31034 flow|0.2931 This|0.27586 option|0.25862 also|0.24138 needs|0.22414 a|0.2069 turbine|0.18966 with|0.17241 a|0.15517 significantly|0.13793 smaller|0.12069 flow|0.10345 capacity|0.086207 to|0.068966 drive|0.051724 the|0.034483 compressor|0.017241 |0",
+			"previous_weights": " core|0 total|0.071429 head|0.14286 pressure|0.21429 ratio|0.28571 |0.35714 core|0.42857 size|0.5 |0.57143 core|0.64286 mass|0.71429 flow|0.78571 |0.85714 where|0.92857 |1"
+		}
+	}
+}

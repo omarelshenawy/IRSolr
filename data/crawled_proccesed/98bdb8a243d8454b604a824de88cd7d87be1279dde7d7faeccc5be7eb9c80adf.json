@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "98bdb8a243d8454b604a824de88cd7d87be1279dde7d7faeccc5be7eb9c80adf",
+			"url": "https://upload.wikimedia.org/math/2/f/2/2f22e7dc0d0cacd498dc0619bdf75b93.png",
+			"previous": " ",
+			"after": " Many of the principles and techniques of linear algebra can be seen in the geometry of lines in a real two dimensional plane E When formulated using vectors and matrices the geometry of points and lines in the plane can be extended to the geometry of points and hyperplanes in high dimensional spaces ",
+			"color": "dim|0.22695 gray|0.22695 dim|0.22695 grey|0.22695 black|0.22688 gray|0.22534 grey|0.22534 dark|0.20618 gray|0.20618 dark|0.20618 grey|0.20618 silver|0.081225 light|0.022895 gray|0.022895 light|0.022895 grey|0.022895 gainsboro|0.010531  ",
+			"after_weights": " Many|1 of|0.98113 the|0.96226 principles|0.9434 and|0.92453 techniques|0.90566 of|0.88679 linear|0.86792 algebra|0.84906 can|0.83019 be|0.81132 seen|0.79245 in|0.77358 the|0.75472 geometry|0.73585 of|0.71698 lines|0.69811 in|0.67925 a|0.66038 real|0.64151 two|0.62264 dimensional|0.60377 plane|0.58491 E|0.56604 When|0.54717 formulated|0.5283 using|0.50943 vectors|0.49057 and|0.4717 matrices|0.45283 the|0.43396 geometry|0.41509 of|0.39623 points|0.37736 and|0.35849 lines|0.33962 in|0.32075 the|0.30189 plane|0.28302 can|0.26415 be|0.24528 extended|0.22642 to|0.20755 the|0.18868 geometry|0.16981 of|0.15094 points|0.13208 and|0.11321 hyperplanes|0.09434 in|0.075472 high|0.056604 dimensional|0.037736 spaces|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

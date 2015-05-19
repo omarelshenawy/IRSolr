@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "36933e2fa7fc47736ed4a113882e078d9c5869cc73f4b91b8819504fdb303659",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gambian_Govt_Ilyushin_Il-62_KvW.jpg/220px-Gambian_Govt_Ilyushin_Il-62_KvW.jpg",
+			"previous": " Air France chartered flights were also used by French officials most notably Concorde when it was still in service with that airline ",
+			"after": " Gambia uses an Il 62 for their VIP flights This jet is in open storage at Banjul airport Also a Boeing 727 95 and a Canadair Challenger 601 are in use ",
+			"color": "light|0.7139 slate|0.7139 gray|0.7139 slate|0.22387 gray|0.22387 tan|0.013169 black|0.0104 burly|0.0081745 wood|0.0081745 dim|0.0076297 gray|0.0076297 dim|0.0076297 grey|0.0076297 dark|0.0058676 gray|0.0058676 dark|0.0058676 grey|0.0058676 dark|0.0057982 slate|0.0057982 gray|0.0057982 gray|0.0041297 grey|0.0041297  ",
+			"after_weights": " Gambia|1 uses|0.96774 an|0.93548 Il|0.90323 62|0.87097 for|0.83871 their|0.80645 VIP|0.77419 flights|0.74194 This|0.70968 jet|0.67742 is|0.64516 in|0.6129 open|0.58065 storage|0.54839 at|0.51613 Banjul|0.48387 airport|0.45161 Also|0.41935 a|0.3871 Boeing|0.35484 727|0.32258 95|0.29032 and|0.25806 a|0.22581 Canadair|0.19355 Challenger|0.16129 601|0.12903 are|0.096774 in|0.064516 use|0.032258 |0",
+			"previous_weights": " Air|0 France|0.045455 chartered|0.090909 flights|0.13636 were|0.18182 also|0.22727 used|0.27273 by|0.31818 French|0.36364 officials|0.40909 most|0.45455 notably|0.5 Concorde|0.54545 when|0.59091 it|0.63636 was|0.68182 still|0.72727 in|0.77273 service|0.81818 with|0.86364 that|0.90909 airline|0.95455 |1"
+		}
+	}
+}

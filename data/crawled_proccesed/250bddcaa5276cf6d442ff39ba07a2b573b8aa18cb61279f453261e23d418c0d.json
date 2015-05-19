@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "250bddcaa5276cf6d442ff39ba07a2b573b8aa18cb61279f453261e23d418c0d",
+			"url": "https://upload.wikimedia.org/math/d/c/9/dc9f8a5318ebc9b3a60620316a4c534a.png",
+			"previous": " In geometrical terms given a circle centered about the origin in the plane with radius r the problem asks how many integer lattice points lie on or inside the circle It is not hard to prove that the answer is where as Again the difficult part and a great achievement of analytic number theory is obtaining specific upper bounds on the error term E r ",
+			"after": " In 2000 Huxley showed 12 that which is the best published result ",
+			"color": "gray|0.33519 grey|0.33519 dark|0.24793 gray|0.24793 dark|0.24793 grey|0.24793 dim|0.21142 gray|0.21142 dim|0.21142 grey|0.21142 silver|0.1002 light|0.049626 gray|0.049626 light|0.049626 grey|0.049626 gainsboro|0.034304 white|0.0061956 smoke|0.0061956 linen|0.002908  ",
+			"after_weights": " In|1 2000|0.91667 Huxley|0.83333 showed|0.75 12|0.66667 that|0.58333 which|0.5 is|0.41667 the|0.33333 best|0.25 published|0.16667 result|0.083333 |0",
+			"previous_weights": " In|0 geometrical|0.015385 terms|0.030769 given|0.046154 a|0.061538 circle|0.076923 centered|0.092308 about|0.10769 the|0.12308 origin|0.13846 in|0.15385 the|0.16923 plane|0.18462 with|0.2 radius|0.21538 r|0.23077 the|0.24615 problem|0.26154 asks|0.27692 how|0.29231 many|0.30769 integer|0.32308 lattice|0.33846 points|0.35385 lie|0.36923 on|0.38462 or|0.4 inside|0.41538 the|0.43077 circle|0.44615 It|0.46154 is|0.47692 not|0.49231 hard|0.50769 to|0.52308 prove|0.53846 that|0.55385 the|0.56923 answer|0.58462 is|0.6 where|0.61538 as|0.63077 Again|0.64615 the|0.66154 difficult|0.67692 part|0.69231 and|0.70769 a|0.72308 great|0.73846 achievement|0.75385 of|0.76923 analytic|0.78462 number|0.8 theory|0.81538 is|0.83077 obtaining|0.84615 specific|0.86154 upper|0.87692 bounds|0.89231 on|0.90769 the|0.92308 error|0.93846 term|0.95385 E|0.96923 r|0.98462 |1"
+		}
+	}
+}

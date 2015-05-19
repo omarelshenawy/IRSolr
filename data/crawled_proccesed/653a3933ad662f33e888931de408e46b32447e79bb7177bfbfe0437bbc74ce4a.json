@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "653a3933ad662f33e888931de408e46b32447e79bb7177bfbfe0437bbc74ce4a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arecibo_message.svg/66px-Arecibo_message.svg.png",
+			"previous": " ",
+			"after": " The Arecibo message was broadcast into space a single time via frequency modulated radio waves at a ceremony to mark the remodeling of the Arecibo radio telescope on 16 November 1974 This image uses color to highlight its separate parts The actual binary transmission carried no color information ",
+			"color": "black|0.84535 purple|0.045761 dark|0.034116 magenta|0.034116 firebrick|0.019935 yellow|0.015117 olive|0.01144 brown|0.0092101 maroon|0.0083929 dark|0.0057712 red|0.0057712  ",
+			"after_weights": " The|1 Arecibo|0.97917 message|0.95833 was|0.9375 broadcast|0.91667 into|0.89583 space|0.875 a|0.85417 single|0.83333 time|0.8125 via|0.79167 frequency|0.77083 modulated|0.75 radio|0.72917 waves|0.70833 at|0.6875 a|0.66667 ceremony|0.64583 to|0.625 mark|0.60417 the|0.58333 remodeling|0.5625 of|0.54167 the|0.52083 Arecibo|0.5 radio|0.47917 telescope|0.45833 on|0.4375 16|0.41667 November|0.39583 1974|0.375 This|0.35417 image|0.33333 uses|0.3125 color|0.29167 to|0.27083 highlight|0.25 its|0.22917 separate|0.20833 parts|0.1875 The|0.16667 actual|0.14583 binary|0.125 transmission|0.10417 carried|0.083333 no|0.0625 color|0.041667 information|0.020833 |0",
+			"previous_weights": " "
+		}
+	}
+}

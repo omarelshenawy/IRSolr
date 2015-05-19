@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c589d9713ac61aa6c84f8a89b1c6ddb8a8e088033ea27fab33ebf63a81728fc",
+			"url": "https://upload.wikimedia.org/math/0/e/9/0e94a24952441e4711a08746f03d007c.png",
+			"previous": " A basis formed this way is called a canonical basis for the geometric algebra and any other orthogonal basis for V will produce another canonical basis Each canonical basis consists of 2n elements Every multivector of the geometric algebra can be expressed as a linear combination of the canonical basis elements If the canonical basis elements are Bi i S with S being an index set then the geometric product of any two multivectors is",
+			"after": " A multivector may be decomposed with the grade projection operator which outputs the grade r portion of A As a result  As an example the geometric product of two vectors since and and for i other than 0 and 2 ",
+			"color": "dim|0.4141 gray|0.4141 dim|0.4141 grey|0.4141 gray|0.26248 grey|0.26248 dark|0.16756 gray|0.16756 dark|0.16756 grey|0.16756 silver|0.072459 light|0.035879 gray|0.035879 light|0.035879 grey|0.035879 gainsboro|0.025379 white|0.0042505 smoke|0.0042505  ",
+			"after_weights": " A|1 multivector|0.97561 may|0.95122 be|0.92683 decomposed|0.90244 with|0.87805 the|0.85366 grade|0.82927 projection|0.80488 operator|0.78049 which|0.7561 outputs|0.73171 the|0.70732 grade|0.68293 r|0.65854 portion|0.63415 of|0.60976 A|0.58537 As|0.56098 a|0.53659 result|0.5122 |0.4878 As|0.46341 an|0.43902 example|0.41463 the|0.39024 geometric|0.36585 product|0.34146 of|0.31707 two|0.29268 vectors|0.26829 since|0.2439 and|0.21951 and|0.19512 for|0.17073 i|0.14634 other|0.12195 than|0.097561 0|0.073171 and|0.04878 2|0.02439 |0",
+			"previous_weights": " A|0 basis|0.013514 formed|0.027027 this|0.040541 way|0.054054 is|0.067568 called|0.081081 a|0.094595 canonical|0.10811 basis|0.12162 for|0.13514 the|0.14865 geometric|0.16216 algebra|0.17568 and|0.18919 any|0.2027 other|0.21622 orthogonal|0.22973 basis|0.24324 for|0.25676 V|0.27027 will|0.28378 produce|0.2973 another|0.31081 canonical|0.32432 basis|0.33784 Each|0.35135 canonical|0.36486 basis|0.37838 consists|0.39189 of|0.40541 2n|0.41892 elements|0.43243 Every|0.44595 multivector|0.45946 of|0.47297 the|0.48649 geometric|0.5 algebra|0.51351 can|0.52703 be|0.54054 expressed|0.55405 as|0.56757 a|0.58108 linear|0.59459 combination|0.60811 of|0.62162 the|0.63514 canonical|0.64865 basis|0.66216 elements|0.67568 If|0.68919 the|0.7027 canonical|0.71622 basis|0.72973 elements|0.74324 are|0.75676 Bi|0.77027 i|0.78378 S|0.7973 with|0.81081 S|0.82432 being|0.83784 an|0.85135 index|0.86486 set|0.87838 then|0.89189 the|0.90541 geometric|0.91892 product|0.93243 of|0.94595 any|0.95946 two|0.97297 multivectors|0.98649 is|1"
+		}
+	}
+}

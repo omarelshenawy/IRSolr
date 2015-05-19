@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63ac8c3e691e452d6323563aec80258387ece3ec48cc05b8743792f81f03a846",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ralph_Ellison_photo_portrait_seated.jpg/150px-Ralph_Ellison_photo_portrait_seated.jpg",
+			"previous": " ",
+			"after": " Ralph Waldo Ellison March 1 1914 April 16 1994 was an American novelist literary critic scholar and writer He was born in Oklahoma City Oklahoma Ellison is best known for his novel Invisible Man which won the National Book Award in 1953 He also wrote Shadow and Act 1964 a collection of political social and critical essays and Going to the Territory 1986 ",
+			"color": " ",
+			"after_weights": " Ralph|1 Waldo|0.98413 Ellison|0.96825 March|0.95238 1|0.93651 1914|0.92063 April|0.90476 16|0.88889 1994|0.87302 was|0.85714 an|0.84127 American|0.8254 novelist|0.80952 literary|0.79365 critic|0.77778 scholar|0.7619 and|0.74603 writer|0.73016 He|0.71429 was|0.69841 born|0.68254 in|0.66667 Oklahoma|0.65079 City|0.63492 Oklahoma|0.61905 Ellison|0.60317 is|0.5873 best|0.57143 known|0.55556 for|0.53968 his|0.52381 novel|0.50794 Invisible|0.49206 Man|0.47619 which|0.46032 won|0.44444 the|0.42857 National|0.4127 Book|0.39683 Award|0.38095 in|0.36508 1953|0.34921 He|0.33333 also|0.31746 wrote|0.30159 Shadow|0.28571 and|0.26984 Act|0.25397 1964|0.2381 a|0.22222 collection|0.20635 of|0.19048 political|0.1746 social|0.15873 and|0.14286 critical|0.12698 essays|0.11111 and|0.095238 Going|0.079365 to|0.063492 the|0.047619 Territory|0.031746 1986|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

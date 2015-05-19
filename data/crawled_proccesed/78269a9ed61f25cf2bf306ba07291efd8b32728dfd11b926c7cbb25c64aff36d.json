@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "78269a9ed61f25cf2bf306ba07291efd8b32728dfd11b926c7cbb25c64aff36d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/DRF_BK117_I-HECE.jpg/220px-DRF_BK117_I-HECE.jpg",
+			"previous": " NOTE The last variant of the BK117 was the C 1 The BK117 C 2 is actually the brand name for the EC 145 for the Australasian market and as such is an EC 145 not a BK117 ",
+			"after": " The majority of the helicopters are operated by various emergency services although it is also operated by private individuals companies and executive charter operators ",
+			"color": "dim|0.56578 gray|0.56578 dim|0.56578 grey|0.56578 gray|0.27806 grey|0.27806 dark|0.047869 gray|0.047869 dark|0.047869 grey|0.047869 black|0.029694 silver|0.01882 maroon|0.011174 brown|0.0083013 light|0.0067146 gray|0.0067146 light|0.0067146 grey|0.0067146 rosy|0.0057733 brown|0.0057733 slate|0.0057302 gray|0.0057302 dark|0.0054629 slate|0.0054629 gray|0.0054629 light|0.00443 slate|0.00443 gray|0.00443 gainsboro|0.0036279  ",
+			"after_weights": " The|1 majority|0.95833 of|0.91667 the|0.875 helicopters|0.83333 are|0.79167 operated|0.75 by|0.70833 various|0.66667 emergency|0.625 services|0.58333 although|0.54167 it|0.5 is|0.45833 also|0.41667 operated|0.375 by|0.33333 private|0.29167 individuals|0.25 companies|0.20833 and|0.16667 executive|0.125 charter|0.083333 operators|0.041667 |0",
+			"previous_weights": " NOTE|0 The|0.026316 last|0.052632 variant|0.078947 of|0.10526 the|0.13158 BK117|0.15789 was|0.18421 the|0.21053 C|0.23684 1|0.26316 The|0.28947 BK117|0.31579 C|0.34211 2|0.36842 is|0.39474 actually|0.42105 the|0.44737 brand|0.47368 name|0.5 for|0.52632 the|0.55263 EC|0.57895 145|0.60526 for|0.63158 the|0.65789 Australasian|0.68421 market|0.71053 and|0.73684 as|0.76316 such|0.78947 is|0.81579 an|0.84211 EC|0.86842 145|0.89474 not|0.92105 a|0.94737 BK117|0.97368 |1"
+		}
+	}
+}

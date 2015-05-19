@@ -3,10 +3,11 @@
 		"doc": {
 			"id": "4da644e1ba84f598c0c16627b488e12641a1e239d5fc4b72afdd41be88f38636",
 			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Okonjo-Iweala%2C_Ngozi_%282008_portrait%29.jpg/300px-Okonjo-Iweala%2C_Ngozi_%282008_portrait%29.jpg",
-			"previous": " Portal Biography Selected picture 4",
+			"previous": " ",
 			"after": " Ngozi Okonjo Iweala born June 13 1954 is a globally renowned Nigerian economist best known for her two terms as Finance Minister of Nigeria and for her work at the World Bank including several years as one of its Managing Directors She briefly held the position of Foreign Minister of Nigeria in 2006 ",
+			"color": "black|0.31389 maroon|0.12039 brown|0.11658 firebrick|0.065759 rosy|0.053845 brown|0.053845 dark|0.04074 red|0.04074 tan|0.032837 indian|0.026412 red|0.026412  ",
 			"after_weights": " Ngozi|1 Okonjo|0.98113 Iweala|0.96226 born|0.9434 June|0.92453 13|0.90566 1954|0.88679 is|0.86792 a|0.84906 globally|0.83019 renowned|0.81132 Nigerian|0.79245 economist|0.77358 best|0.75472 known|0.73585 for|0.71698 her|0.69811 two|0.67925 terms|0.66038 as|0.64151 Finance|0.62264 Minister|0.60377 of|0.58491 Nigeria|0.56604 and|0.54717 for|0.5283 her|0.50943 work|0.49057 at|0.4717 the|0.45283 World|0.43396 Bank|0.41509 including|0.39623 several|0.37736 years|0.35849 as|0.33962 one|0.32075 of|0.30189 its|0.28302 Managing|0.26415 Directors|0.24528 She|0.22642 briefly|0.20755 held|0.18868 the|0.16981 position|0.15094 of|0.13208 Foreign|0.11321 Minister|0.09434 of|0.075472 Nigeria|0.056604 in|0.037736 2006|0.018868 |0",
-			"previous_weights": " Portal|0 Biography|0.25 Selected|0.5 picture|0.75 4|1"
+			"previous_weights": " "
 		}
 	}
 }

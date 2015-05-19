@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "849484577441b705da091c8bffee4cc3adfdd874f5affeb65b85e8484151385f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airbus_A310-325%2C_Yemenia_-_Yemen_Airways_AN1203492.jpg/220px-Airbus_A310-325%2C_Yemenia_-_Yemen_Airways_AN1203492.jpg",
+			"previous": " As of 2015 Yemenia operates scheduled flights to 29 destinations The network is enlarged by codeshare flights operated by Felix Airways 18 ",
+			"after": " As of March 2015 update the Yemenia commercial passenger fleet consists of the following aircraft with an average age of 14 5 years 19 20 ",
+			"color": "gray|0.31405 grey|0.31405 slate|0.26884 gray|0.26884 light|0.26789 slate|0.26789 gray|0.26789 dark|0.027815 gray|0.027815 dark|0.027815 grey|0.027815 silver|0.024059 light|0.018783 gray|0.018783 light|0.018783 grey|0.018783 dim|0.016109 gray|0.016109 dim|0.016109 grey|0.016109 gainsboro|0.013312 black|0.010054 linen|0.0052752 antique|0.0038887 white|0.0038887  ",
+			"after_weights": " As|1 of|0.96 March|0.92 2015|0.88 update|0.84 the|0.8 Yemenia|0.76 commercial|0.72 passenger|0.68 fleet|0.64 consists|0.6 of|0.56 the|0.52 following|0.48 aircraft|0.44 with|0.4 an|0.36 average|0.32 age|0.28 of|0.24 14|0.2 5|0.16 years|0.12 19|0.08 20|0.04 |0",
+			"previous_weights": " As|0 of|0.045455 2015|0.090909 Yemenia|0.13636 operates|0.18182 scheduled|0.22727 flights|0.27273 to|0.31818 29|0.36364 destinations|0.40909 The|0.45455 network|0.5 is|0.54545 enlarged|0.59091 by|0.63636 codeshare|0.68182 flights|0.72727 operated|0.77273 by|0.81818 Felix|0.86364 Airways|0.90909 18|0.95455 |1"
+		}
+	}
+}

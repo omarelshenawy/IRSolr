@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ef3464cc524ab19c6e3d2a82f8f0ce2e2d22b8764f4fb987c398be23f3187db",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/180px-Bell_X-1A_in_flight.jpg",
+			"previous": " Aircraft that used rockets as well as another type of powerplant usually either jet engines or a piston engine All are manned aircraft unless stated otherwise Does not include aircraft temporarily fitted with external booster rockets such as JATO RATO or RATOG All are conventionally launched ",
+			"after": " Aircraft that are dropped from a mothership usually at altitude All are manned unless noted otherwise ",
+			"color": "dark|0.15736 slate|0.15736 gray|0.15736 dark|0.14208 gray|0.14208 dark|0.14208 grey|0.14208 gray|0.10757 grey|0.10757 silver|0.085221 tan|0.073491 dim|0.073016 gray|0.073016 dim|0.073016 grey|0.073016 light|0.057798 gray|0.057798 light|0.057798 grey|0.057798 gainsboro|0.04346  ",
+			"after_weights": " Aircraft|1 that|0.9375 are|0.875 dropped|0.8125 from|0.75 a|0.6875 mothership|0.625 usually|0.5625 at|0.5 altitude|0.4375 All|0.375 are|0.3125 manned|0.25 unless|0.1875 noted|0.125 otherwise|0.0625 |0",
+			"previous_weights": " Aircraft|0 that|0.021739 used|0.043478 rockets|0.065217 as|0.086957 well|0.1087 as|0.13043 another|0.15217 type|0.17391 of|0.19565 powerplant|0.21739 usually|0.23913 either|0.26087 jet|0.28261 engines|0.30435 or|0.32609 a|0.34783 piston|0.36957 engine|0.3913 All|0.41304 are|0.43478 manned|0.45652 aircraft|0.47826 unless|0.5 stated|0.52174 otherwise|0.54348 Does|0.56522 not|0.58696 include|0.6087 aircraft|0.63043 temporarily|0.65217 fitted|0.67391 with|0.69565 external|0.71739 booster|0.73913 rockets|0.76087 such|0.78261 as|0.80435 JATO|0.82609 RATO|0.84783 or|0.86957 RATOG|0.8913 All|0.91304 are|0.93478 conventionally|0.95652 launched|0.97826 |1"
+		}
+	}
+}

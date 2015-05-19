@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "70bdbd8aebf3e1e681b77647055bd3eb36761a1afe5517d8c8744fbbee1cd41f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Diagram_of_a_social_network.jpg/220px-Diagram_of_a_social_network.jpg",
+			"previous": " Rather than tracing interpersonal interactions macro level analyses generally trace the outcomes of interactions such as economic or other resource transfer interactions over a large population ",
+			"after": " Large scale networks Large scale network is a term somewhat synonymous with macro level as used primarily in social and behavioral sciences in economics Originally the term was used extensively in the computer sciences see large scale network mapping ",
+			"color": "blue|0.63073 medium|0.14286 blue|0.14286 medium|0.084906 slate|0.084906 blue|0.084906 navy|0.022911 dark|0.020216 blue|0.020216 medium|0.01752 purple|0.01752 dark|0.010782 slate|0.010782 gray|0.010782 blue|0.010782 violet|0.010782 royal|0.009434 blue|0.009434 slate|0.009434 blue|0.009434 corn|0.0080863 flower|0.0080863 blue|0.0080863 dim|0.0080863 gray|0.0080863 dim|0.0080863 grey|0.0080863 slate|0.0062893 gray|0.0062893 light|0.0062893 slate|0.0062893 gray|0.0062893 dark|0.0053908 slate|0.0053908 blue|0.0053908  ",
+			"after_weights": " Large|1 scale|0.97436 networks|0.94872 Large|0.92308 scale|0.89744 network|0.87179 is|0.84615 a|0.82051 term|0.79487 somewhat|0.76923 synonymous|0.74359 with|0.71795 macro|0.69231 level|0.66667 as|0.64103 used|0.61538 primarily|0.58974 in|0.5641 social|0.53846 and|0.51282 behavioral|0.48718 sciences|0.46154 in|0.4359 economics|0.41026 Originally|0.38462 the|0.35897 term|0.33333 was|0.30769 used|0.28205 extensively|0.25641 in|0.23077 the|0.20513 computer|0.17949 sciences|0.15385 see|0.12821 large|0.10256 scale|0.076923 network|0.051282 mapping|0.025641 |0",
+			"previous_weights": " Rather|0 than|0.038462 tracing|0.076923 interpersonal|0.11538 interactions|0.15385 macro|0.19231 level|0.23077 analyses|0.26923 generally|0.30769 trace|0.34615 the|0.38462 outcomes|0.42308 of|0.46154 interactions|0.5 such|0.53846 as|0.57692 economic|0.61538 or|0.65385 other|0.69231 resource|0.73077 transfer|0.76923 interactions|0.80769 over|0.84615 a|0.88462 large|0.92308 population|0.96154 |1"
+		}
+	}
+}

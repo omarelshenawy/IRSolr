@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "875407fd970e3fc94ff03c52e9f794bf924bafc3f5034a046818d21796675c86",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sm_101%2C_N%C3%B6bbelesholm.JPG/150px-Sm_101%2C_N%C3%B6bbelesholm.JPG",
+			"previous": " English translation ",
+			"after": " The N velsj runestone is located at the estate of N bbelesholm and it is raised in memory of a father who died in England and was buried by his brother in Bath Somerset  Latin transliteration  Old Norse transcription ",
+			"color": "dark|0.74076 olive|0.74076 green|0.74076 olive|0.1138 drab|0.1138 dim|0.05572 gray|0.05572 dim|0.05572 grey|0.05572 gray|0.049069 grey|0.049069 dark|0.020642 gray|0.020642 dark|0.020642 grey|0.020642  ",
+			"after_weights": " The|1 N|0.97561 velsj|0.95122 runestone|0.92683 is|0.90244 located|0.87805 at|0.85366 the|0.82927 estate|0.80488 of|0.78049 N|0.7561 bbelesholm|0.73171 and|0.70732 it|0.68293 is|0.65854 raised|0.63415 in|0.60976 memory|0.58537 of|0.56098 a|0.53659 father|0.5122 who|0.4878 died|0.46341 in|0.43902 England|0.41463 and|0.39024 was|0.36585 buried|0.34146 by|0.31707 his|0.29268 brother|0.26829 in|0.2439 Bath|0.21951 Somerset|0.19512 |0.17073 Latin|0.14634 transliteration|0.12195 |0.097561 Old|0.073171 Norse|0.04878 transcription|0.02439 |0",
+			"previous_weights": " English|0 translation|0.5 |1"
+		}
+	}
+}

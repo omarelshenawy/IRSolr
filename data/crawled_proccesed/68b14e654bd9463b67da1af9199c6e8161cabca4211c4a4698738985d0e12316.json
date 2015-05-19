@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "68b14e654bd9463b67da1af9199c6e8161cabca4211c4a4698738985d0e12316",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Justin_Timberlake_-_Se%C3%B1orita_2007.jpg/190px-Justin_Timberlake_-_Se%C3%B1orita_2007.jpg",
+			"previous": " ",
+			"after": " Timberlake performed the song live on the sketch comedy show Saturday Night Live in October 2003 where he served as host and musical guest 42 At the 46th Grammy Awards in 2004 he also performed the song live and was accompanied by Latin jazz trumpeter Arturo Sandoval 43 On August 25 2013 he performed Se orita in a medley with other of his songs at the 2013 MTV Video Music Awards ",
+			"color": "black|0.99767  ",
+			"after_weights": " Timberlake|1 performed|0.98592 the|0.97183 song|0.95775 live|0.94366 on|0.92958 the|0.91549 sketch|0.90141 comedy|0.88732 show|0.87324 Saturday|0.85915 Night|0.84507 Live|0.83099 in|0.8169 October|0.80282 2003|0.78873 where|0.77465 he|0.76056 served|0.74648 as|0.73239 host|0.71831 and|0.70423 musical|0.69014 guest|0.67606 42|0.66197 At|0.64789 the|0.6338 46th|0.61972 Grammy|0.60563 Awards|0.59155 in|0.57746 2004|0.56338 he|0.5493 also|0.53521 performed|0.52113 the|0.50704 song|0.49296 live|0.47887 and|0.46479 was|0.4507 accompanied|0.43662 by|0.42254 Latin|0.40845 jazz|0.39437 trumpeter|0.38028 Arturo|0.3662 Sandoval|0.35211 43|0.33803 On|0.32394 August|0.30986 25|0.29577 2013|0.28169 he|0.26761 performed|0.25352 Se|0.23944 orita|0.22535 in|0.21127 a|0.19718 medley|0.1831 with|0.16901 other|0.15493 of|0.14085 his|0.12676 songs|0.11268 at|0.098592 the|0.084507 2013|0.070423 MTV|0.056338 Video|0.042254 Music|0.028169 Awards|0.014085 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8715e8be44d915bac88eda84573143567c162eead73dac36035863b2dc3fed81",
+			"url": "https://upload.wikimedia.org/math/f/a/7/fa791275088278f0f4a6affa77b5fc64.png",
+			"previous": " where P is a set of points L is a set of lines and is the incidence relation The elements of are called flags If Formally an incidence structure is a triple",
+			"after": " we say that point p lies on line  Topics in this area include ",
+			"color": "dim|0.35655 gray|0.35655 dim|0.35655 grey|0.35655 gray|0.29549 grey|0.29549 dark|0.18133 gray|0.18133 dark|0.18133 grey|0.18133 silver|0.080374 light|0.041029 gray|0.041029 light|0.041029 grey|0.041029 gainsboro|0.028258 white|0.0039045 smoke|0.0039045  ",
+			"after_weights": " we|1 say|0.92857 that|0.85714 point|0.78571 p|0.71429 lies|0.64286 on|0.57143 line|0.5 |0.42857 Topics|0.35714 in|0.28571 this|0.21429 area|0.14286 include|0.071429 |0",
+			"previous_weights": " where|0 P|0.032258 is|0.064516 a|0.096774 set|0.12903 of|0.16129 points|0.19355 L|0.22581 is|0.25806 a|0.29032 set|0.32258 of|0.35484 lines|0.3871 and|0.41935 is|0.45161 the|0.48387 incidence|0.51613 relation|0.54839 The|0.58065 elements|0.6129 of|0.64516 are|0.67742 called|0.70968 flags|0.74194 If|0.77419 Formally|0.80645 an|0.83871 incidence|0.87097 structure|0.90323 is|0.93548 a|0.96774 triple|1"
+		}
+	}
+}

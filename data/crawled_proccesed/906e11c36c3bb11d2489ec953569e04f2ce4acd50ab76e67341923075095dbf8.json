@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "906e11c36c3bb11d2489ec953569e04f2ce4acd50ab76e67341923075095dbf8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/USAirways-Piedmont-Dash8-at-ALB.JPG/220px-USAirways-Piedmont-Dash8-at-ALB.JPG",
+			"previous": " Piedmont Airlines flights are expected to be rebranded as American Eagle in 2015 due to US Airways merger with American Airlines in December 2013 ",
+			"after": " As of April 2015 the Piedmont Airlines fleet consists of the following aircraft 6 7 ",
+			"color": "dim|0.25973 gray|0.25973 dim|0.25973 grey|0.25973 black|0.21658 dark|0.21507 slate|0.21507 gray|0.21507 gray|0.12225 grey|0.12225 dark|0.088475 gray|0.088475 dark|0.088475 grey|0.088475 silver|0.030972 dark|0.027369 olive|0.027369 green|0.027369 slate|0.011793 gray|0.011793 light|0.0097801 gray|0.0097801 light|0.0097801 grey|0.0097801 light|0.0082489 slate|0.0082489 gray|0.0082489  ",
+			"after_weights": " As|1 of|0.93333 April|0.86667 2015|0.8 the|0.73333 Piedmont|0.66667 Airlines|0.6 fleet|0.53333 consists|0.46667 of|0.4 the|0.33333 following|0.26667 aircraft|0.2 6|0.13333 7|0.066667 |0",
+			"previous_weights": " Piedmont|0 Airlines|0.041667 flights|0.083333 are|0.125 expected|0.16667 to|0.20833 be|0.25 rebranded|0.29167 as|0.33333 American|0.375 Eagle|0.41667 in|0.45833 2015|0.5 due|0.54167 to|0.58333 US|0.625 Airways|0.66667 merger|0.70833 with|0.75 American|0.79167 Airlines|0.83333 in|0.875 December|0.91667 2013|0.95833 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b35aea9b72d9479c866a5bafb38f8b95f5126d1f06f85670620e401d4825fa8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Air_Baltic_2012.png/220px-Air_Baltic_2012.png",
+			"previous": " The airline s full accounts have not always been published regularly figures disclosed by Air Baltic for recent years are shown below for years ending 31 December ",
+			"after": " AirBaltic operates 60 direct flights from Riga some of which are seasonal  AirBaltic has codeshare agreements with the following airlines as of May 2013 ",
+			"color": "royal|0.83599 blue|0.83599 corn|0.083776 flower|0.083776 blue|0.083776 lavender|0.034207 silver|0.011372 dark|0.010551 gray|0.010551 dark|0.010551 grey|0.010551 light|0.004928 steel|0.004928 blue|0.004928  ",
+			"after_weights": " AirBaltic|1 operates|0.96 60|0.92 direct|0.88 flights|0.84 from|0.8 Riga|0.76 some|0.72 of|0.68 which|0.64 are|0.6 seasonal|0.56 |0.52 AirBaltic|0.48 has|0.44 codeshare|0.4 agreements|0.36 with|0.32 the|0.28 following|0.24 airlines|0.2 as|0.16 of|0.12 May|0.08 2013|0.04 |0",
+			"previous_weights": " The|0 airline|0.037037 s|0.074074 full|0.11111 accounts|0.14815 have|0.18519 not|0.22222 always|0.25926 been|0.2963 published|0.33333 regularly|0.37037 figures|0.40741 disclosed|0.44444 by|0.48148 Air|0.51852 Baltic|0.55556 for|0.59259 recent|0.62963 years|0.66667 are|0.7037 shown|0.74074 below|0.77778 for|0.81481 years|0.85185 ending|0.88889 31|0.92593 December|0.96296 |1"
+		}
+	}
+}

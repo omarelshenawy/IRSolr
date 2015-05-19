@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "860ff559365799a6558391d78020420497f34fbe0da0b341cb0d86fa7aa9b674",
+			"url": "https://upload.wikimedia.org/math/8/9/9/899964fabec4f77f12aed7cdd1dbd1d9.png",
+			"previous": " Multiplying the terms in the second equation by 2  An example of solving a system of linear equations is by using the elimination method ",
+			"after": " Adding the two equations together to get  which simplifies to Since the fact that is known it is then possible to deduce that by either of the original two equations by using 2 instead of The full solution to this problem is then",
+			"color": "black|0.29037 dim|0.25955 gray|0.25955 dim|0.25955 grey|0.25955 gray|0.19229 grey|0.19229 dark|0.14221 gray|0.14221 dark|0.14221 grey|0.14221 silver|0.06595 light|0.025551 gray|0.025551 light|0.025551 grey|0.025551 gainsboro|0.017007  ",
+			"after_weights": " Adding|1 the|0.97674 two|0.95349 equations|0.93023 together|0.90698 to|0.88372 get|0.86047 |0.83721 which|0.81395 simplifies|0.7907 to|0.76744 Since|0.74419 the|0.72093 fact|0.69767 that|0.67442 is|0.65116 known|0.62791 it|0.60465 is|0.5814 then|0.55814 possible|0.53488 to|0.51163 deduce|0.48837 that|0.46512 by|0.44186 either|0.4186 of|0.39535 the|0.37209 original|0.34884 two|0.32558 equations|0.30233 by|0.27907 using|0.25581 2|0.23256 instead|0.2093 of|0.18605 The|0.16279 full|0.13953 solution|0.11628 to|0.093023 this|0.069767 problem|0.046512 is|0.023256 then|0",
+			"previous_weights": " Multiplying|0 the|0.04 terms|0.08 in|0.12 the|0.16 second|0.2 equation|0.24 by|0.28 2|0.32 |0.36 An|0.4 example|0.44 of|0.48 solving|0.52 a|0.56 system|0.6 of|0.64 linear|0.68 equations|0.72 is|0.76 by|0.8 using|0.84 the|0.88 elimination|0.92 method|0.96 |1"
+		}
+	}
+}

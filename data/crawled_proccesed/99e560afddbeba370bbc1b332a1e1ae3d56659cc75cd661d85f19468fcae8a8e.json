@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "99e560afddbeba370bbc1b332a1e1ae3d56659cc75cd661d85f19468fcae8a8e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Featured_article_star.svg/100px-Featured_article_star.svg.png",
+			"previous": " ",
+			"after": " Global warming Rachel Carson Retreat of glaciers since 1850 1949 Ambato earthquake 1968 Illinois earthquake 1980 eruption of Mount St Helens 1997 Qayen earthquake 2002 Bou in Zahra earthquake 2005 Qeshm earthquake 2007 2008 Nazko earthquakes",
+			"color": "black|0.41695 rosy|0.37947 brown|0.37947 tan|0.051432 dark|0.050597 khaki|0.050597 dim|0.048091 gray|0.048091 dim|0.048091 grey|0.048091 khaki|0.020286  ",
+			"after_weights": " Global|1 warming|0.97143 Rachel|0.94286 Carson|0.91429 Retreat|0.88571 of|0.85714 glaciers|0.82857 since|0.8 1850|0.77143 1949|0.74286 Ambato|0.71429 earthquake|0.68571 1968|0.65714 Illinois|0.62857 earthquake|0.6 1980|0.57143 eruption|0.54286 of|0.51429 Mount|0.48571 St|0.45714 Helens|0.42857 1997|0.4 Qayen|0.37143 earthquake|0.34286 2002|0.31429 Bou|0.28571 in|0.25714 Zahra|0.22857 earthquake|0.2 2005|0.17143 Qeshm|0.14286 earthquake|0.11429 2007|0.085714 2008|0.057143 Nazko|0.028571 earthquakes|0",
+			"previous_weights": " "
+		}
+	}
+}

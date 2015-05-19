@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "262f1a461d66cea795d33da880e2bdab2dd3f20560595fb494ad3f7237a8ad42",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Air_Berlin_F100.jpg/220px-Air_Berlin_F100.jpg",
+			"previous": " As of April 2015 the Air Berlin fleet consists of the following aircraft 106 ",
+			"after": " Over the years Air Berlin has operated the following aircraft types 108  The average age of the fleet is currently 5 years ",
+			"color": "light|0.433 slate|0.433 gray|0.433 slate|0.41556 gray|0.41556 dim|0.031398 gray|0.031398 dim|0.031398 grey|0.031398 gray|0.0099813 grey|0.0099813 light|0.0089522 gray|0.0089522 light|0.0089522 grey|0.0089522 gainsboro|0.0084289 black|0.0081811 silver|0.0078005 dark|0.0077458 gray|0.0077458 dark|0.0077458 grey|0.0077458 rosy|0.0073761 brown|0.0073761 linen|0.0061805 misty|0.0054419 rose|0.0054419 antique|0.0051625 white|0.0051625 old|0.0047195 lace|0.0047195 sea|0.0044076 shell|0.0044076 floral|0.0038585 white|0.0038585 white|0.0031189 smoke|0.0031189 beige|0.0029936 ivory|0.0029756  ",
+			"after_weights": " Over|1 the|0.95652 years|0.91304 Air|0.86957 Berlin|0.82609 has|0.78261 operated|0.73913 the|0.69565 following|0.65217 aircraft|0.6087 types|0.56522 108|0.52174 |0.47826 The|0.43478 average|0.3913 age|0.34783 of|0.30435 the|0.26087 fleet|0.21739 is|0.17391 currently|0.13043 5|0.086957 years|0.043478 |0",
+			"previous_weights": " As|0 of|0.071429 April|0.14286 2015|0.21429 the|0.28571 Air|0.35714 Berlin|0.42857 fleet|0.5 consists|0.57143 of|0.64286 the|0.71429 following|0.78571 aircraft|0.85714 106|0.92857 |1"
+		}
+	}
+}

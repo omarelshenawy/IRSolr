@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "34c358e9c7247ee65c6d048fa7782f129d17cfd0d166b9147bc7b384aa681c5d",
+			"url": "https://upload.wikimedia.org/math/7/7/4/7744808ec394e7e39669c363459a55fa.png",
+			"previous": " Elementary algebra builds on and extends arithmetic 20 by introducing letters called variables to represent general non specified numbers This is useful for several reasons ",
+			"after": " Algebraic expressions may be evaluated and simplified based on the basic properties of arithmetic operations addition subtraction multiplication division and exponentiation For example ",
+			"color": "dim|0.38814 gray|0.38814 dim|0.38814 grey|0.38814 gray|0.28167 grey|0.28167 dark|0.17478 gray|0.17478 dark|0.17478 grey|0.17478 silver|0.075133 light|0.036866 gray|0.036866 light|0.036866 grey|0.036866 gainsboro|0.025157 white|0.004532 smoke|0.004532  ",
+			"after_weights": " Algebraic|1 expressions|0.95652 may|0.91304 be|0.86957 evaluated|0.82609 and|0.78261 simplified|0.73913 based|0.69565 on|0.65217 the|0.6087 basic|0.56522 properties|0.52174 of|0.47826 arithmetic|0.43478 operations|0.3913 addition|0.34783 subtraction|0.30435 multiplication|0.26087 division|0.21739 and|0.17391 exponentiation|0.13043 For|0.086957 example|0.043478 |0",
+			"previous_weights": " Elementary|0 algebra|0.04 builds|0.08 on|0.12 and|0.16 extends|0.2 arithmetic|0.24 20|0.28 by|0.32 introducing|0.36 letters|0.4 called|0.44 variables|0.48 to|0.52 represent|0.56 general|0.6 non|0.64 specified|0.68 numbers|0.72 This|0.76 is|0.8 useful|0.84 for|0.88 several|0.92 reasons|0.96 |1"
+		}
+	}
+}

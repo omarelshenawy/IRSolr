@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77650d8068d1017181d426e7efaacdc1a0fe07733c0736bb3ee92576eb6a1578",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/31fg-spitfire.jpg/220px-31fg-spitfire.jpg",
+			"previous": " XII Tactical Air Command served in combat in the Mediterranean and European theaters until May 1945 Known units were ",
+			"after": " Colonel Demas T Craw was awarded the Medal of Honor for heroism during the invasion of Algeria French Morocco Operation Torch When the Allies landed at Mehdia French Morocco on 8 November 1942 he volunteered to go behind enemy lines and meet with the French commander near Port Lyautey French Morocco to broker a cease fire ",
+			"color": " ",
+			"after_weights": " Colonel|1 Demas|0.98214 T|0.96429 Craw|0.94643 was|0.92857 awarded|0.91071 the|0.89286 Medal|0.875 of|0.85714 Honor|0.83929 for|0.82143 heroism|0.80357 during|0.78571 the|0.76786 invasion|0.75 of|0.73214 Algeria|0.71429 French|0.69643 Morocco|0.67857 Operation|0.66071 Torch|0.64286 When|0.625 the|0.60714 Allies|0.58929 landed|0.57143 at|0.55357 Mehdia|0.53571 French|0.51786 Morocco|0.5 on|0.48214 8|0.46429 November|0.44643 1942|0.42857 he|0.41071 volunteered|0.39286 to|0.375 go|0.35714 behind|0.33929 enemy|0.32143 lines|0.30357 and|0.28571 meet|0.26786 with|0.25 the|0.23214 French|0.21429 commander|0.19643 near|0.17857 Port|0.16071 Lyautey|0.14286 French|0.125 Morocco|0.10714 to|0.089286 broker|0.071429 a|0.053571 cease|0.035714 fire|0.017857 |0",
+			"previous_weights": " XII|0 Tactical|0.052632 Air|0.10526 Command|0.15789 served|0.21053 in|0.26316 combat|0.31579 in|0.36842 the|0.42105 Mediterranean|0.47368 and|0.52632 European|0.57895 theaters|0.63158 until|0.68421 May|0.73684 1945|0.78947 Known|0.84211 units|0.89474 were|0.94737 |1"
+		}
+	}
+}

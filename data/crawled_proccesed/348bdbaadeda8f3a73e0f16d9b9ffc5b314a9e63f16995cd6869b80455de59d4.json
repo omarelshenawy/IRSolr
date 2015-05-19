@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "348bdbaadeda8f3a73e0f16d9b9ffc5b314a9e63f16995cd6869b80455de59d4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VickersViking-G-AGRU.jpg/220px-VickersViking-G-AGRU.jpg",
+			"previous": " Of the 163 aircraft built 56 aircraft were lost in accidents the following were some notable accidents ",
+			"after": " Several Viking aircraft are on public display in aerospace museums worldwide they include  Data from Vickers Aircraft since 1908 22 ",
+			"color": "dim|0.33057 gray|0.33057 dim|0.33057 grey|0.33057 black|0.31151 gray|0.1288 grey|0.1288 dark|0.099228 gray|0.099228 dark|0.099228 grey|0.099228 silver|0.065506 light|0.035404 gray|0.035404 light|0.035404 grey|0.035404 gainsboro|0.015866  ",
+			"after_weights": " Several|1 Viking|0.95238 aircraft|0.90476 are|0.85714 on|0.80952 public|0.7619 display|0.71429 in|0.66667 aerospace|0.61905 museums|0.57143 worldwide|0.52381 they|0.47619 include|0.42857 |0.38095 Data|0.33333 from|0.28571 Vickers|0.2381 Aircraft|0.19048 since|0.14286 1908|0.095238 22|0.047619 |0",
+			"previous_weights": " Of|0 the|0.058824 163|0.11765 aircraft|0.17647 built|0.23529 56|0.29412 aircraft|0.35294 were|0.41176 lost|0.47059 in|0.52941 accidents|0.58824 the|0.64706 following|0.70588 were|0.76471 some|0.82353 notable|0.88235 accidents|0.94118 |1"
+		}
+	}
+}

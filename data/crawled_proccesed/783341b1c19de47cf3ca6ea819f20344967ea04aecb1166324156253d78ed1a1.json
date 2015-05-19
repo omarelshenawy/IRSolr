@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "783341b1c19de47cf3ca6ea819f20344967ea04aecb1166324156253d78ed1a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Newtons_proof_of_Keplers_second_law.gif/220px-Newtons_proof_of_Keplers_second_law.gif",
+			"previous": " has the same value for all the planets in the solar system Here P is the time taken for a planet to complete an orbit round the sun and a is the mean value between the maximum and minimum distances between the planet and sun ",
+			"after": " Isaac Newton computed in his Philosophi Naturalis Principia Mathematica the acceleration of a planet moving according to Kepler s first and second law ",
+			"color": " ",
+			"after_weights": " Isaac|1 Newton|0.95652 computed|0.91304 in|0.86957 his|0.82609 Philosophi|0.78261 Naturalis|0.73913 Principia|0.69565 Mathematica|0.65217 the|0.6087 acceleration|0.56522 of|0.52174 a|0.47826 planet|0.43478 moving|0.3913 according|0.34783 to|0.30435 Kepler|0.26087 s|0.21739 first|0.17391 and|0.13043 second|0.086957 law|0.043478 |0",
+			"previous_weights": " has|0 the|0.022222 same|0.044444 value|0.066667 for|0.088889 all|0.11111 the|0.13333 planets|0.15556 in|0.17778 the|0.2 solar|0.22222 system|0.24444 Here|0.26667 P|0.28889 is|0.31111 the|0.33333 time|0.35556 taken|0.37778 for|0.4 a|0.42222 planet|0.44444 to|0.46667 complete|0.48889 an|0.51111 orbit|0.53333 round|0.55556 the|0.57778 sun|0.6 and|0.62222 a|0.64444 is|0.66667 the|0.68889 mean|0.71111 value|0.73333 between|0.75556 the|0.77778 maximum|0.8 and|0.82222 minimum|0.84444 distances|0.86667 between|0.88889 the|0.91111 planet|0.93333 and|0.95556 sun|0.97778 |1"
+		}
+	}
+}

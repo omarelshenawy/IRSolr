@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "39f5faf72403b8c7b6591ee7a84f66fc54d069568fa64cd5b955e0b3a98b7a02",
+			"url": "https://upload.wikimedia.org/math/4/4/9/449572f3b7eed2b267a85d97ddd7ac41.png",
+			"previous": " The length of a degree of longitude depends only on the radius of a circle of latitude For a sphere of radius a that radius at latitude is cos times a and the length of a one degree or 180 radians arc along a circle of latitude is",
+			"after": " When the Earth is modelled by an ellipsoid this arc length becomes 8 9 ",
+			"color": "black|0.57709 dim|0.16914 gray|0.16914 dim|0.16914 grey|0.16914 gray|0.10347 grey|0.10347 dark|0.070196 gray|0.070196 dark|0.070196 grey|0.070196 silver|0.036576 light|0.019148 gray|0.019148 light|0.019148 grey|0.019148 gainsboro|0.013673  ",
+			"after_weights": " When|1 the|0.92857 Earth|0.85714 is|0.78571 modelled|0.71429 by|0.64286 an|0.57143 ellipsoid|0.5 this|0.42857 arc|0.35714 length|0.28571 becomes|0.21429 8|0.14286 9|0.071429 |0",
+			"previous_weights": " The|0 length|0.021277 of|0.042553 a|0.06383 degree|0.085106 of|0.10638 longitude|0.12766 depends|0.14894 only|0.17021 on|0.19149 the|0.21277 radius|0.23404 of|0.25532 a|0.2766 circle|0.29787 of|0.31915 latitude|0.34043 For|0.3617 a|0.38298 sphere|0.40426 of|0.42553 radius|0.44681 a|0.46809 that|0.48936 radius|0.51064 at|0.53191 latitude|0.55319 is|0.57447 cos|0.59574 times|0.61702 a|0.6383 and|0.65957 the|0.68085 length|0.70213 of|0.7234 a|0.74468 one|0.76596 degree|0.78723 or|0.80851 180|0.82979 radians|0.85106 arc|0.87234 along|0.89362 a|0.91489 circle|0.93617 of|0.95745 latitude|0.97872 is|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "641d3aace4408cb59910c8c097b48808aa6dc3d15bf974c4ef4d0c449680e510",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Light_deflection.png/170px-Light_deflection.png",
+			"previous": " ",
+			"after": " General relativity predicts that the path of light is bent in a gravitational field light passing a massive body is deflected towards that body This effect has been confirmed by observing the light of stars or distant quasars being deflected as it passes the Sun 59 ",
+			"color": "black|0.90899 dark|0.020059 gray|0.020059 dark|0.020059 grey|0.020059 gray|0.0167 grey|0.0167 dim|0.011419 gray|0.011419 dim|0.011419 grey|0.011419 dark|0.0070463 green|0.0070463 silver|0.0056854 green|0.0054132 maroon|0.0044912 dark|0.00432 red|0.00432 lime|0.00432 green|0.00432 light|0.0039833 gray|0.0039833 light|0.0039833 grey|0.0039833 forest|0.0028185 green|0.0028185  ",
+			"after_weights": " General|1 relativity|0.97826 predicts|0.95652 that|0.93478 the|0.91304 path|0.8913 of|0.86957 light|0.84783 is|0.82609 bent|0.80435 in|0.78261 a|0.76087 gravitational|0.73913 field|0.71739 light|0.69565 passing|0.67391 a|0.65217 massive|0.63043 body|0.6087 is|0.58696 deflected|0.56522 towards|0.54348 that|0.52174 body|0.5 This|0.47826 effect|0.45652 has|0.43478 been|0.41304 confirmed|0.3913 by|0.36957 observing|0.34783 the|0.32609 light|0.30435 of|0.28261 stars|0.26087 or|0.23913 distant|0.21739 quasars|0.19565 being|0.17391 deflected|0.15217 as|0.13043 it|0.1087 passes|0.086957 the|0.065217 Sun|0.043478 59|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

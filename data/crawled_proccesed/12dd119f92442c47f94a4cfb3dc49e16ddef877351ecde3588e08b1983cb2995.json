@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12dd119f92442c47f94a4cfb3dc49e16ddef877351ecde3588e08b1983cb2995",
+			"url": "https://upload.wikimedia.org/math/5/9/5/595c76bc231cf03c16709100e6f2d5df.png",
+			"previous": " ",
+			"after": " The axioms of a group formalize the essential aspects of symmetry Symmetries form a group they are closed because if you take a symmetry of an object and then apply another symmetry the result will still be a symmetry The identity keeping the object fixed is always a symmetry of an object Existence of inverses is guaranteed by undoing the symmetry and the associativity comes from the fact that symmetries are functions on a space and composition of functions are associative ",
+			"color": "dim|0.37904 gray|0.37904 dim|0.37904 grey|0.37904 gray|0.32015 grey|0.32015 dark|0.18649 gray|0.18649 dark|0.18649 grey|0.18649 silver|0.062581 light|0.025168 gray|0.025168 light|0.025168 grey|0.025168 gainsboro|0.017347 white|0.0028275 smoke|0.0028275  ",
+			"after_weights": " The|1 axioms|0.98765 of|0.97531 a|0.96296 group|0.95062 formalize|0.93827 the|0.92593 essential|0.91358 aspects|0.90123 of|0.88889 symmetry|0.87654 Symmetries|0.8642 form|0.85185 a|0.83951 group|0.82716 they|0.81481 are|0.80247 closed|0.79012 because|0.77778 if|0.76543 you|0.75309 take|0.74074 a|0.7284 symmetry|0.71605 of|0.7037 an|0.69136 object|0.67901 and|0.66667 then|0.65432 apply|0.64198 another|0.62963 symmetry|0.61728 the|0.60494 result|0.59259 will|0.58025 still|0.5679 be|0.55556 a|0.54321 symmetry|0.53086 The|0.51852 identity|0.50617 keeping|0.49383 the|0.48148 object|0.46914 fixed|0.45679 is|0.44444 always|0.4321 a|0.41975 symmetry|0.40741 of|0.39506 an|0.38272 object|0.37037 Existence|0.35802 of|0.34568 inverses|0.33333 is|0.32099 guaranteed|0.30864 by|0.2963 undoing|0.28395 the|0.2716 symmetry|0.25926 and|0.24691 the|0.23457 associativity|0.22222 comes|0.20988 from|0.19753 the|0.18519 fact|0.17284 that|0.16049 symmetries|0.14815 are|0.1358 functions|0.12346 on|0.11111 a|0.098765 space|0.08642 and|0.074074 composition|0.061728 of|0.049383 functions|0.037037 are|0.024691 associative|0.012346 |0",
+			"previous_weights": " "
+		}
+	}
+}

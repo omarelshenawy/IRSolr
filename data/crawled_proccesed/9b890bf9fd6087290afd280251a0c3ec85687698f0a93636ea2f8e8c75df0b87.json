@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b890bf9fd6087290afd280251a0c3ec85687698f0a93636ea2f8e8c75df0b87",
+			"url": "https://upload.wikimedia.org/math/d/8/6/d8658eb0407cabd0ae8cd554d921eac8.png",
+			"previous": " Wikipedia allows editors to typeset mathematical formulae in a subset of LaTeX markup see also TeX the formulae are for a default reader translated into PNG images They may also be rendered as MathML or HTML using MathJax depending on user preferences For more details on this see meta Help Formula ",
+			"after": " ",
+			"color": "dim|0.2947 gray|0.2947 dim|0.2947 grey|0.2947 gray|0.28552 grey|0.28552 dark|0.18779 gray|0.18779 dark|0.18779 grey|0.18779 black|0.082071 silver|0.069573 light|0.036748 gray|0.036748 light|0.036748 grey|0.036748 gainsboro|0.026709 white|0.0041934 smoke|0.0041934  ",
+			"after_weights": " ",
+			"previous_weights": " Wikipedia|0 allows|0.019608 editors|0.039216 to|0.058824 typeset|0.078431 mathematical|0.098039 formulae|0.11765 in|0.13725 a|0.15686 subset|0.17647 of|0.19608 LaTeX|0.21569 markup|0.23529 see|0.2549 also|0.27451 TeX|0.29412 the|0.31373 formulae|0.33333 are|0.35294 for|0.37255 a|0.39216 default|0.41176 reader|0.43137 translated|0.45098 into|0.47059 PNG|0.4902 images|0.5098 They|0.52941 may|0.54902 also|0.56863 be|0.58824 rendered|0.60784 as|0.62745 MathML|0.64706 or|0.66667 HTML|0.68627 using|0.70588 MathJax|0.72549 depending|0.7451 on|0.76471 user|0.78431 preferences|0.80392 For|0.82353 more|0.84314 details|0.86275 on|0.88235 this|0.90196 see|0.92157 meta|0.94118 Help|0.96078 Formula|0.98039 |1"
+		}
+	}
+}

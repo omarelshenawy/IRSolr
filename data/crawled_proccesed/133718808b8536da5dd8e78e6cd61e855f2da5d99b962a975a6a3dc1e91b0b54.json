@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "133718808b8536da5dd8e78e6cd61e855f2da5d99b962a975a6a3dc1e91b0b54",
+			"url": "https://upload.wikimedia.org/math/f/8/e/f8e502b24c1d62851bd6fc2fc7b63788.png",
+			"previous": " E g  The degree of the sum or difference of two polynomials is equal to or less than the greater of their degrees the equality holds always when the degrees of the polynomials are different i e ",
+			"after": " Note that for polynomials over an arbitrary ring this is not necessarily true For example in but ",
+			"color": "dim|0.39077 gray|0.39077 dim|0.39077 grey|0.39077 gray|0.27421 grey|0.27421 dark|0.17708 gray|0.17708 dark|0.17708 grey|0.17708 silver|0.077341 light|0.037734 gray|0.037734 light|0.037734 grey|0.037734 gainsboro|0.026675 white|0.0046367 smoke|0.0046367  ",
+			"after_weights": " Note|1 that|0.94118 for|0.88235 polynomials|0.82353 over|0.76471 an|0.70588 arbitrary|0.64706 ring|0.58824 this|0.52941 is|0.47059 not|0.41176 necessarily|0.35294 true|0.29412 For|0.23529 example|0.17647 in|0.11765 but|0.058824 |0",
+			"previous_weights": " E|0 g|0.026316 |0.052632 The|0.078947 degree|0.10526 of|0.13158 the|0.15789 sum|0.18421 or|0.21053 difference|0.23684 of|0.26316 two|0.28947 polynomials|0.31579 is|0.34211 equal|0.36842 to|0.39474 or|0.42105 less|0.44737 than|0.47368 the|0.5 greater|0.52632 of|0.55263 their|0.57895 degrees|0.60526 the|0.63158 equality|0.65789 holds|0.68421 always|0.71053 when|0.73684 the|0.76316 degrees|0.78947 of|0.81579 the|0.84211 polynomials|0.86842 are|0.89474 different|0.92105 i|0.94737 e|0.97368 |1"
+		}
+	}
+}

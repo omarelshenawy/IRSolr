@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71b57f96e4e7ad2467f18fc7ba3cc031f014bd61b9ae322248fb6a083b07b68b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Martinair_and_Transavia_offices_Schiphol-Oost.JPG/220px-Martinair_and_Transavia_offices_Schiphol-Oost.JPG",
+			"previous": " ",
+			"after": " Transavia com has its head office in the TransPort Building Schiphol East 4 on the grounds of Amsterdam Airport Schiphol Haarlemmermeer Netherlands 5 Transavia com moved into the new building on 3 May 2010 with about 400 employees 6 Previously Transavia s head office was in the Building Triport III at Schiphol Airport 7 8 9 ",
+			"color": "dim|0.53958 gray|0.53958 dim|0.53958 grey|0.53958 gray|0.18944 grey|0.18944 dark|0.12554 slate|0.12554 gray|0.12554 dark|0.052867 gray|0.052867 dark|0.052867 grey|0.052867 slate|0.043343 gray|0.043343 black|0.021445 light|0.020031 slate|0.020031 gray|0.020031 silver|0.0050962  ",
+			"after_weights": " Transavia|1 com|0.98214 has|0.96429 its|0.94643 head|0.92857 office|0.91071 in|0.89286 the|0.875 TransPort|0.85714 Building|0.83929 Schiphol|0.82143 East|0.80357 4|0.78571 on|0.76786 the|0.75 grounds|0.73214 of|0.71429 Amsterdam|0.69643 Airport|0.67857 Schiphol|0.66071 Haarlemmermeer|0.64286 Netherlands|0.625 5|0.60714 Transavia|0.58929 com|0.57143 moved|0.55357 into|0.53571 the|0.51786 new|0.5 building|0.48214 on|0.46429 3|0.44643 May|0.42857 2010|0.41071 with|0.39286 about|0.375 400|0.35714 employees|0.33929 6|0.32143 Previously|0.30357 Transavia|0.28571 s|0.26786 head|0.25 office|0.23214 was|0.21429 in|0.19643 the|0.17857 Building|0.16071 Triport|0.14286 III|0.125 at|0.10714 Schiphol|0.089286 Airport|0.071429 7|0.053571 8|0.035714 9|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

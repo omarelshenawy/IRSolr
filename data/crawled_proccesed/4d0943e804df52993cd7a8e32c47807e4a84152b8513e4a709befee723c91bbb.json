@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d0943e804df52993cd7a8e32c47807e4a84152b8513e4a709befee723c91bbb",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Cuckoo_strikes_the_8th_hour.ogv/220px--Cuckoo_strikes_the_8th_hour.ogv.jpg",
+			"previous": " This counts the pulses and adds them up to get traditional time units of seconds minutes hours etc It usually has a provision for setting the clock by manually entering the correct time into the counter ",
+			"after": " This displays the count of seconds minutes hours etc in a human readable form ",
+			"color": "gold|0.44505 black|0.21735 saddle|0.1688 brown|0.1688 chocolate|0.062761 sienna|0.034832 maroon|0.028837  ",
+			"after_weights": " This|1 displays|0.92857 the|0.85714 count|0.78571 of|0.71429 seconds|0.64286 minutes|0.57143 hours|0.5 etc|0.42857 in|0.35714 a|0.28571 human|0.21429 readable|0.14286 form|0.071429 |0",
+			"previous_weights": " This|0 counts|0.027778 the|0.055556 pulses|0.083333 and|0.11111 adds|0.13889 them|0.16667 up|0.19444 to|0.22222 get|0.25 traditional|0.27778 time|0.30556 units|0.33333 of|0.36111 seconds|0.38889 minutes|0.41667 hours|0.44444 etc|0.47222 It|0.5 usually|0.52778 has|0.55556 a|0.58333 provision|0.61111 for|0.63889 setting|0.66667 the|0.69444 clock|0.72222 by|0.75 manually|0.77778 entering|0.80556 the|0.83333 correct|0.86111 time|0.88889 into|0.91667 the|0.94444 counter|0.97222 |1"
+		}
+	}
+}

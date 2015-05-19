@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81dba8b98293d46504726ba3676d8ff4fe9336005b2dd9b686978b2f8b3165fd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bundesarchiv_Bild_152-04-28%2C_Heilanstalt_Sch%C3%B6nbrunn%2C_Kinder.jpg/220px-Bundesarchiv_Bild_152-04-28%2C_Heilanstalt_Sch%C3%B6nbrunn%2C_Kinder.jpg",
+			"previous": " Nazis used the phrase Lebensunwertes Leben Life unworthy of life in reference to their victims in an attempt to justify the killings 397 ",
+			"after": " Action T4 was a program established in 1939 to maintain what was considered genetic purity of the German population by killing or sterilizing citizens who were judged to be disabled or suffering from mental disorder 398 ",
+			"color": " ",
+			"after_weights": " Action|1 T4|0.97222 was|0.94444 a|0.91667 program|0.88889 established|0.86111 in|0.83333 1939|0.80556 to|0.77778 maintain|0.75 what|0.72222 was|0.69444 considered|0.66667 genetic|0.63889 purity|0.61111 of|0.58333 the|0.55556 German|0.52778 population|0.5 by|0.47222 killing|0.44444 or|0.41667 sterilizing|0.38889 citizens|0.36111 who|0.33333 were|0.30556 judged|0.27778 to|0.25 be|0.22222 disabled|0.19444 or|0.16667 suffering|0.13889 from|0.11111 mental|0.083333 disorder|0.055556 398|0.027778 |0",
+			"previous_weights": " Nazis|0 used|0.043478 the|0.086957 phrase|0.13043 Lebensunwertes|0.17391 Leben|0.21739 Life|0.26087 unworthy|0.30435 of|0.34783 life|0.3913 in|0.43478 reference|0.47826 to|0.52174 their|0.56522 victims|0.6087 in|0.65217 an|0.69565 attempt|0.73913 to|0.78261 justify|0.82609 the|0.86957 killings|0.91304 397|0.95652 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8bc56fa88eb817a3a4900c51fa036095468c96bc6d6a33085c0736e84a507b55",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coptic_Christian_Church_outside.JPG/100px-Coptic_Christian_Church_outside.JPG",
+			"previous": " By region Asian Copts Eastern Orthodox Georgian Ukrainian",
+			"after": " Traditions Assyrian Church of the East Eastern Orthodox Church Eastern Catholic Churches Oriental Orthodoxy Syriac Christianity",
+			"color": "tan|0.20201 black|0.1963 gray|0.14819 grey|0.14819 dim|0.14026 gray|0.14026 dim|0.14026 grey|0.14026 dark|0.080941 gray|0.080941 dark|0.080941 grey|0.080941 silver|0.040211 bisque|0.030749 peach|0.027032 puff|0.027032  ",
+			"after_weights": " Traditions|1 Assyrian|0.93333 Church|0.86667 of|0.8 the|0.73333 East|0.66667 Eastern|0.6 Orthodox|0.53333 Church|0.46667 Eastern|0.4 Catholic|0.33333 Churches|0.26667 Oriental|0.2 Orthodoxy|0.13333 Syriac|0.066667 Christianity|0",
+			"previous_weights": " By|0 region|0.14286 Asian|0.28571 Copts|0.42857 Eastern|0.57143 Orthodox|0.71429 Georgian|0.85714 Ukrainian|1"
+		}
+	}
+}

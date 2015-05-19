@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b09f41dd1600a526c41df5b07d98508fc653d0b36285f51cbd8810a913534aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Airbus_A330-223%2C_LTU_JP6144357.jpg/220px-Airbus_A330-223%2C_LTU_JP6144357.jpg",
+			"previous": " Before taken over by Air Berlin LTU served 56 destinations in 22 countries on four continents during winter schedule season 2006 2007 Further destinations were reachable with codeshare partner Bangkok Airways ",
+			"after": " By the time Air Berlin took over LTU in March 2007 their fleet contained the following aircraft  The average age of the LTU fleet was 6 7 years ",
+			"color": "dim|0.17566 gray|0.17566 dim|0.17566 grey|0.17566 dark|0.12034 gray|0.12034 dark|0.12034 grey|0.12034 silver|0.098167 gray|0.072864 grey|0.072864 firebrick|0.047942 light|0.046568 gray|0.046568 light|0.046568 grey|0.046568 misty|0.036132 rose|0.036132 brown|0.03327 rosy|0.032335 brown|0.032335 black|0.031252 gainsboro|0.030328 slate|0.025225 gray|0.025225 light|0.022511 steel|0.022511 blue|0.022511 indian|0.017367 red|0.017367 lavender|0.01639 blush|0.01639 dark|0.014472 red|0.014472  ",
+			"after_weights": " By|1 the|0.96552 time|0.93103 Air|0.89655 Berlin|0.86207 took|0.82759 over|0.7931 LTU|0.75862 in|0.72414 March|0.68966 2007|0.65517 their|0.62069 fleet|0.58621 contained|0.55172 the|0.51724 following|0.48276 aircraft|0.44828 |0.41379 The|0.37931 average|0.34483 age|0.31034 of|0.27586 the|0.24138 LTU|0.2069 fleet|0.17241 was|0.13793 6|0.10345 7|0.068966 years|0.034483 |0",
+			"previous_weights": " Before|0 taken|0.032258 over|0.064516 by|0.096774 Air|0.12903 Berlin|0.16129 LTU|0.19355 served|0.22581 56|0.25806 destinations|0.29032 in|0.32258 22|0.35484 countries|0.3871 on|0.41935 four|0.45161 continents|0.48387 during|0.51613 winter|0.54839 schedule|0.58065 season|0.6129 2006|0.64516 2007|0.67742 Further|0.70968 destinations|0.74194 were|0.77419 reachable|0.80645 with|0.83871 codeshare|0.87097 partner|0.90323 Bangkok|0.93548 Airways|0.96774 |1"
+		}
+	}
+}

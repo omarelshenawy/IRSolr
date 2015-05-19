@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bb368626df53afe97f54e2abc57b20faed474547df1a9c9e54b7b3d9b8d57ae",
+			"url": "https://upload.wikimedia.org/math/a/7/9/a79044209a8ae6976a20110235bb4e89.png",
+			"previous": " Mutual information is symmetric ",
+			"after": " Mutual information can be expressed as the average Kullback Leibler divergence information gain between the posterior probability distribution of X given the value of Y and the prior distribution on X ",
+			"color": "dim|0.35033 gray|0.35033 dim|0.35033 grey|0.35033 gray|0.30285 grey|0.30285 dark|0.1874 gray|0.1874 dark|0.1874 grey|0.1874 silver|0.077809 light|0.037813 gray|0.037813 light|0.037813 grey|0.037813 gainsboro|0.026355 white|0.0044896 smoke|0.0044896  ",
+			"after_weights": " Mutual|1 information|0.96774 can|0.93548 be|0.90323 expressed|0.87097 as|0.83871 the|0.80645 average|0.77419 Kullback|0.74194 Leibler|0.70968 divergence|0.67742 information|0.64516 gain|0.6129 between|0.58065 the|0.54839 posterior|0.51613 probability|0.48387 distribution|0.45161 of|0.41935 X|0.3871 given|0.35484 the|0.32258 value|0.29032 of|0.25806 Y|0.22581 and|0.19355 the|0.16129 prior|0.12903 distribution|0.096774 on|0.064516 X|0.032258 |0",
+			"previous_weights": " Mutual|0 information|0.25 is|0.5 symmetric|0.75 |1"
+		}
+	}
+}

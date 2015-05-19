@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d722d1b9aab7b323148e201e5943b103a86a236072b0d47abee21690993ddd7",
+			"url": "https://upload.wikimedia.org/math/e/5/7/e57b5fb82d1fecd400fa943a6f861334.png",
+			"previous": " Where  Professor Eric Laithwaite 82 proposed a metric to determine the goodness of an electric motor 83 ",
+			"after": " From this he showed that the most efficient motors are likely to have relatively large magnetic poles However the equation only directly relates to non PM motors ",
+			"color": "black|0.28498 dim|0.28251 gray|0.28251 dim|0.28251 grey|0.28251 gray|0.18865 grey|0.18865 dark|0.12022 gray|0.12022 dark|0.12022 grey|0.12022 silver|0.057681 light|0.029714 gray|0.029714 light|0.029714 grey|0.029714 gainsboro|0.02126 white|0.0034696 smoke|0.0034696  ",
+			"after_weights": " From|1 this|0.96296 he|0.92593 showed|0.88889 that|0.85185 the|0.81481 most|0.77778 efficient|0.74074 motors|0.7037 are|0.66667 likely|0.62963 to|0.59259 have|0.55556 relatively|0.51852 large|0.48148 magnetic|0.44444 poles|0.40741 However|0.37037 the|0.33333 equation|0.2963 only|0.25926 directly|0.22222 relates|0.18519 to|0.14815 non|0.11111 PM|0.074074 motors|0.037037 |0",
+			"previous_weights": " Where|0 |0.055556 Professor|0.11111 Eric|0.16667 Laithwaite|0.22222 82|0.27778 proposed|0.33333 a|0.38889 metric|0.44444 to|0.5 determine|0.55556 the|0.61111 goodness|0.66667 of|0.72222 an|0.77778 electric|0.83333 motor|0.88889 83|0.94444 |1"
+		}
+	}
+}

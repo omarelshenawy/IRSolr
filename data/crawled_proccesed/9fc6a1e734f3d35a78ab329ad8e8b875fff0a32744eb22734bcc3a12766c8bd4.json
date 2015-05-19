@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fc6a1e734f3d35a78ab329ad8e8b875fff0a32744eb22734bcc3a12766c8bd4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PluckedGraniteAlandIslands.JPG/220px-PluckedGraniteAlandIslands.JPG",
+			"previous": " ",
+			"after": " Glaciers erode terrain through two principal processes abrasion and plucking  As glaciers flow over bedrock they soften and lift blocks of rock into the ice This process called plucking is caused by subglacial water that penetrates fractures in the bedrock and subsequently freezes and expands This expansion causes the ice to act as a lever that loosens the rock by lifting it Thus sediments of all sizes become part of the glacier s load If a retreating glacier gains enough debris it may become a rock glacier like the Timpanogos Glacier in Utah ",
+			"color": "gray|0.35117 grey|0.35117 dim|0.28428 gray|0.28428 dim|0.28428 grey|0.28428 dark|0.20625 gray|0.20625 dark|0.20625 grey|0.20625 dark|0.065926 olive|0.065926 green|0.065926 black|0.03687 silver|0.036179 slate|0.0055331 gray|0.0055331 light|0.0050094 gray|0.0050094 light|0.0050094 grey|0.0050094  ",
+			"after_weights": " Glaciers|1 erode|0.98936 terrain|0.97872 through|0.96809 two|0.95745 principal|0.94681 processes|0.93617 abrasion|0.92553 and|0.91489 plucking|0.90426 |0.89362 As|0.88298 glaciers|0.87234 flow|0.8617 over|0.85106 bedrock|0.84043 they|0.82979 soften|0.81915 and|0.80851 lift|0.79787 blocks|0.78723 of|0.7766 rock|0.76596 into|0.75532 the|0.74468 ice|0.73404 This|0.7234 process|0.71277 called|0.70213 plucking|0.69149 is|0.68085 caused|0.67021 by|0.65957 subglacial|0.64894 water|0.6383 that|0.62766 penetrates|0.61702 fractures|0.60638 in|0.59574 the|0.58511 bedrock|0.57447 and|0.56383 subsequently|0.55319 freezes|0.54255 and|0.53191 expands|0.52128 This|0.51064 expansion|0.5 causes|0.48936 the|0.47872 ice|0.46809 to|0.45745 act|0.44681 as|0.43617 a|0.42553 lever|0.41489 that|0.40426 loosens|0.39362 the|0.38298 rock|0.37234 by|0.3617 lifting|0.35106 it|0.34043 Thus|0.32979 sediments|0.31915 of|0.30851 all|0.29787 sizes|0.28723 become|0.2766 part|0.26596 of|0.25532 the|0.24468 glacier|0.23404 s|0.2234 load|0.21277 If|0.20213 a|0.19149 retreating|0.18085 glacier|0.17021 gains|0.15957 enough|0.14894 debris|0.1383 it|0.12766 may|0.11702 become|0.10638 a|0.095745 rock|0.085106 glacier|0.074468 like|0.06383 the|0.053191 Timpanogos|0.042553 Glacier|0.031915 in|0.021277 Utah|0.010638 |0",
+			"previous_weights": " "
+		}
+	}
+}

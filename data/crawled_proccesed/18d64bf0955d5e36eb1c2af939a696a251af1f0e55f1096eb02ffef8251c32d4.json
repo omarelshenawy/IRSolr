@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "18d64bf0955d5e36eb1c2af939a696a251af1f0e55f1096eb02ffef8251c32d4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blue_plaque_Harry_Ricardo.jpg/220px-Blue_plaque_Harry_Ricardo.jpg",
+			"previous": " In 1974 at the age of 89 Ricardo broke his leg in a fall He died six weeks later on 18 May 2 15 ",
+			"after": " On 16 June 2005 a blue plaque was placed outside the house where he was born in Bedford Square London On 1 July 2010 the Institution of Mechanical Engineers bestowed an Engineering Heritage Award on Sir Harry Ricardo in recognition of his life and work as one of the foremost engineers of the twentieth century ",
+			"color": "royal|0.70807 blue|0.70807 light|0.040689 steel|0.040689 blue|0.040689 lavender|0.036296 corn|0.027112 flower|0.027112 blue|0.027112 alice|0.026062 blue|0.026062 azure|0.017796 ghost|0.017461 white|0.017461 white|0.014379 smoke|0.014379 light|0.014263 cyan|0.014263 mint|0.013284 cream|0.013284 white|0.011824 snow|0.0097931 light|0.0081095 blue|0.0081095 gainsboro|0.0064902 light|0.0059668 gray|0.0059668 light|0.0059668 grey|0.0059668 honeydew|0.0046067 steel|0.0045652 blue|0.0045652 floral|0.0043885 white|0.0043885 lavender|0.0040711 blush|0.0040711 silver|0.0039966  ",
+			"after_weights": " On|1 16|0.98182 June|0.96364 2005|0.94545 a|0.92727 blue|0.90909 plaque|0.89091 was|0.87273 placed|0.85455 outside|0.83636 the|0.81818 house|0.8 where|0.78182 he|0.76364 was|0.74545 born|0.72727 in|0.70909 Bedford|0.69091 Square|0.67273 London|0.65455 On|0.63636 1|0.61818 July|0.6 2010|0.58182 the|0.56364 Institution|0.54545 of|0.52727 Mechanical|0.50909 Engineers|0.49091 bestowed|0.47273 an|0.45455 Engineering|0.43636 Heritage|0.41818 Award|0.4 on|0.38182 Sir|0.36364 Harry|0.34545 Ricardo|0.32727 in|0.30909 recognition|0.29091 of|0.27273 his|0.25455 life|0.23636 and|0.21818 work|0.2 as|0.18182 one|0.16364 of|0.14545 the|0.12727 foremost|0.10909 engineers|0.090909 of|0.072727 the|0.054545 twentieth|0.036364 century|0.018182 |0",
+			"previous_weights": " In|0 1974|0.041667 at|0.083333 the|0.125 age|0.16667 of|0.20833 89|0.25 Ricardo|0.29167 broke|0.33333 his|0.375 leg|0.41667 in|0.45833 a|0.5 fall|0.54167 He|0.58333 died|0.625 six|0.66667 weeks|0.70833 later|0.75 on|0.79167 18|0.83333 May|0.875 2|0.91667 15|0.95833 |1"
+		}
+	}
+}

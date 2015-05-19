@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d853f9cc870d88164f62048da89c092c50b5f359d0b5663a829ac2ce5cf7f14",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/F_22_Raptor_Tail_Feathers_photo_D_Ramey_Logan.jpg/220px-F_22_Raptor_Tail_Feathers_photo_D_Ramey_Logan.jpg",
+			"previous": " EMD F 22A 91 4003 is on display at the National Museum of the United States Air Force 246 ",
+			"after": " Data from USAF 7 F 22 Raptor Team web site 247 manufacturers data 248 249 Aviation Week 109 and Journal of Electronic Defense 117  General characteristics",
+			"color": "steel|0.43125 blue|0.43125 dark|0.10904 gray|0.10904 dark|0.10904 grey|0.10904 gray|0.10312 grey|0.10312 black|0.10237 tan|0.087012 dim|0.027235 gray|0.027235 dim|0.027235 grey|0.027235 slate|0.026058 gray|0.026058 light|0.025583 slate|0.025583 gray|0.025583 light|0.011517 sky|0.011517 blue|0.011517 burly|0.011215 wood|0.011215 silver|0.0098202  ",
+			"after_weights": " Data|1 from|0.96154 USAF|0.92308 7|0.88462 F|0.84615 22|0.80769 Raptor|0.76923 Team|0.73077 web|0.69231 site|0.65385 247|0.61538 manufacturers|0.57692 data|0.53846 248|0.5 249|0.46154 Aviation|0.42308 Week|0.38462 109|0.34615 and|0.30769 Journal|0.26923 of|0.23077 Electronic|0.19231 Defense|0.15385 117|0.11538 |0.076923 General|0.038462 characteristics|0",
+			"previous_weights": " EMD|0 F|0.052632 22A|0.10526 91|0.15789 4003|0.21053 is|0.26316 on|0.31579 display|0.36842 at|0.42105 the|0.47368 National|0.52632 Museum|0.57895 of|0.63158 the|0.68421 United|0.73684 States|0.78947 Air|0.84211 Force|0.89474 246|0.94737 |1"
+		}
+	}
+}

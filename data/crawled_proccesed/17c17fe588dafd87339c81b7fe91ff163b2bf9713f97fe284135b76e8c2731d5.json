@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17c17fe588dafd87339c81b7fe91ff163b2bf9713f97fe284135b76e8c2731d5",
+			"url": "https://upload.wikimedia.org/math/b/b/b/bbb977d2b62392b210c71090abe9fea5.png",
+			"previous": " for j all different  Since j are the solutions of the polynomial of degree n then ",
+			"after": " for each root j repeated kj times   for some j complex then setting j i j and using Euler s formula allows some terms in the previous results to be written in the form",
+			"color": "dim|0.33759 gray|0.33759 dim|0.33759 grey|0.33759 gray|0.28527 grey|0.28527 dark|0.22151 gray|0.22151 dark|0.22151 grey|0.22151 silver|0.085153 light|0.033368 gray|0.033368 light|0.033368 grey|0.033368 gainsboro|0.023491 white|0.0046329 smoke|0.0046329  ",
+			"after_weights": " for|1 each|0.97143 root|0.94286 j|0.91429 repeated|0.88571 kj|0.85714 times|0.82857 |0.8 |0.77143 for|0.74286 some|0.71429 j|0.68571 complex|0.65714 then|0.62857 setting|0.6 j|0.57143 i|0.54286 j|0.51429 and|0.48571 using|0.45714 Euler|0.42857 s|0.4 formula|0.37143 allows|0.34286 some|0.31429 terms|0.28571 in|0.25714 the|0.22857 previous|0.2 results|0.17143 to|0.14286 be|0.11429 written|0.085714 in|0.057143 the|0.028571 form|0",
+			"previous_weights": " for|0 j|0.058824 all|0.11765 different|0.17647 |0.23529 Since|0.29412 j|0.35294 are|0.41176 the|0.47059 solutions|0.52941 of|0.58824 the|0.64706 polynomial|0.70588 of|0.76471 degree|0.82353 n|0.88235 then|0.94118 |1"
+		}
+	}
+}

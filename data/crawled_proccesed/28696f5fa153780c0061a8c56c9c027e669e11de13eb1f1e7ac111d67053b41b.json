@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28696f5fa153780c0061a8c56c9c027e669e11de13eb1f1e7ac111d67053b41b",
+			"url": "https://upload.wikimedia.org/math/0/b/1/0b13c3aad28144ef757bc9ac21365170.png",
+			"previous": " and The Keplerian problem assumes an elliptical orbit and the four points ",
+			"after": " The problem is to compute the polar coordinates r of the planet from the time since perihelion t  It is solved in steps Kepler considered the circle with the major axis as a diameter and",
+			"color": " ",
+			"after_weights": " The|1 problem|0.97143 is|0.94286 to|0.91429 compute|0.88571 the|0.85714 polar|0.82857 coordinates|0.8 r|0.77143 of|0.74286 the|0.71429 planet|0.68571 from|0.65714 the|0.62857 time|0.6 since|0.57143 perihelion|0.54286 t|0.51429 |0.48571 It|0.45714 is|0.42857 solved|0.4 in|0.37143 steps|0.34286 Kepler|0.31429 considered|0.28571 the|0.25714 circle|0.22857 with|0.2 the|0.17143 major|0.14286 axis|0.11429 as|0.085714 a|0.057143 diameter|0.028571 and|0",
+			"previous_weights": " and|0 The|0.083333 Keplerian|0.16667 problem|0.25 assumes|0.33333 an|0.41667 elliptical|0.5 orbit|0.58333 and|0.66667 the|0.75 four|0.83333 points|0.91667 |1"
+		}
+	}
+}

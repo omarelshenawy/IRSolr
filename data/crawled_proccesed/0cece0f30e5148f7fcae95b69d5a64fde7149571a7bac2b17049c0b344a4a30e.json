@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cece0f30e5148f7fcae95b69d5a64fde7149571a7bac2b17049c0b344a4a30e",
+			"url": "https://upload.wikimedia.org/math/3/5/0/3509456c0ab3d50632df1f112bf32a6f.png",
+			"previous": " with solutions This gives the two simultaneous equations or equivalently This result can be obtained algebraically by finding a and b such that",
+			"after": " The choice of the principal root then gives The result can also be obtained by using de Moivre s formula and setting which produces",
+			"color": "dim|0.4192 gray|0.4192 dim|0.4192 grey|0.4192 gray|0.28001 grey|0.28001 dark|0.16679 gray|0.16679 dark|0.16679 grey|0.16679 silver|0.070542 light|0.032604 gray|0.032604 light|0.032604 grey|0.032604 gainsboro|0.022125  ",
+			"after_weights": " The|1 choice|0.95652 of|0.91304 the|0.86957 principal|0.82609 root|0.78261 then|0.73913 gives|0.69565 The|0.65217 result|0.6087 can|0.56522 also|0.52174 be|0.47826 obtained|0.43478 by|0.3913 using|0.34783 de|0.30435 Moivre|0.26087 s|0.21739 formula|0.17391 and|0.13043 setting|0.086957 which|0.043478 produces|0",
+			"previous_weights": " with|0 solutions|0.045455 This|0.090909 gives|0.13636 the|0.18182 two|0.22727 simultaneous|0.27273 equations|0.31818 or|0.36364 equivalently|0.40909 This|0.45455 result|0.5 can|0.54545 be|0.59091 obtained|0.63636 algebraically|0.68182 by|0.72727 finding|0.77273 a|0.81818 and|0.86364 b|0.90909 such|0.95455 that|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a74e57f89b835093c49e7eb12a40d057c6e465f3269314414d63fea1e213021",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Eurojet_ej2000.jpg/220px-Eurojet_ej2000.jpg",
+			"previous": " An EJ200 engine together with a rocket engine will power the Bloodhound SSC for an attempt at the land speed record The target speed is at least 1000 mph 12  Stage 2  Stage 1 ",
+			"after": " Data from Rolls Royce plc 13 ",
+			"color": "black|0.54242 tan|0.093183 burly|0.051244 wood|0.051244 sienna|0.027234 wheat|0.018435 dim|0.018079 gray|0.018079 dim|0.018079 grey|0.018079 dark|0.016527 gray|0.016527 dark|0.016527 grey|0.016527 bisque|0.015266 antique|0.015028 white|0.015028 silver|0.014807 gray|0.014584 grey|0.014584 peach|0.014498 puff|0.014498 light|0.012432 gray|0.012432 light|0.012432 grey|0.012432 blanched|0.012278 almond|0.012278 papaya|0.010269 whip|0.010269 gainsboro|0.0095943 linen|0.0094793 old|0.0085439 lace|0.0085439 moccasin|0.0085202  ",
+			"after_weights": " Data|1 from|0.83333 Rolls|0.66667 Royce|0.5 plc|0.33333 13|0.16667 |0",
+			"previous_weights": " An|0 EJ200|0.027778 engine|0.055556 together|0.083333 with|0.11111 a|0.13889 rocket|0.16667 engine|0.19444 will|0.22222 power|0.25 the|0.27778 Bloodhound|0.30556 SSC|0.33333 for|0.36111 an|0.38889 attempt|0.41667 at|0.44444 the|0.47222 land|0.5 speed|0.52778 record|0.55556 The|0.58333 target|0.61111 speed|0.63889 is|0.66667 at|0.69444 least|0.72222 1000|0.75 mph|0.77778 12|0.80556 |0.83333 Stage|0.86111 2|0.88889 |0.91667 Stage|0.94444 1|0.97222 |1"
+		}
+	}
+}

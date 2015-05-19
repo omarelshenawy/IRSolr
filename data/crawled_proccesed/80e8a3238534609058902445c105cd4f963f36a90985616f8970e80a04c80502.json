@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80e8a3238534609058902445c105cd4f963f36a90985616f8970e80a04c80502",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Madonna-american-pie-video-cap-0013.jpg/220px-Madonna-american-pie-video-cap-0013.jpg",
+			"previous": " ",
+			"after": " The music video filmed in the Southern USA and in London 28 and directed by Philipp St lzl depicts a diverse array of ordinary Americans including scenes showing same sex couples kissing Throughout the music video Madonna who is wearing a tiara on her head dances and sings in front of a large American flag ",
+			"color": "black|0.77424 sienna|0.075863 saddle|0.054368 brown|0.054368 dark|0.039291 salmon|0.039291 tan|0.016437  ",
+			"after_weights": " The|1 music|0.98182 video|0.96364 filmed|0.94545 in|0.92727 the|0.90909 Southern|0.89091 USA|0.87273 and|0.85455 in|0.83636 London|0.81818 28|0.8 and|0.78182 directed|0.76364 by|0.74545 Philipp|0.72727 St|0.70909 lzl|0.69091 depicts|0.67273 a|0.65455 diverse|0.63636 array|0.61818 of|0.6 ordinary|0.58182 Americans|0.56364 including|0.54545 scenes|0.52727 showing|0.50909 same|0.49091 sex|0.47273 couples|0.45455 kissing|0.43636 Throughout|0.41818 the|0.4 music|0.38182 video|0.36364 Madonna|0.34545 who|0.32727 is|0.30909 wearing|0.29091 a|0.27273 tiara|0.25455 on|0.23636 her|0.21818 head|0.2 dances|0.18182 and|0.16364 sings|0.14545 in|0.12727 front|0.10909 of|0.090909 a|0.072727 large|0.054545 American|0.036364 flag|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ebcbe570ab63bc8320cfa251a10f3a70a58b6fdb591613bbf740b469e182373",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/West_Front_of_Wells_Cathedral_c.1795.jpg/280px-West_Front_of_Wells_Cathedral_c.1795.jpg",
+			"previous": " ",
+			"after": " British painter J M W Turner visited Wells in 1795 making sketches of the precinct and a watercolour of the west front now in the Tate gallery 161 Other artists whose paintings of the cathedral are in national collections are Albert Goodwin 162 John Syer 163 and Ken Howard 164 ",
+			"color": "burly|0.45714 wood|0.45714 dark|0.16277 golden|0.16277 rod|0.16277  ",
+			"after_weights": " British|1 painter|0.98 J|0.96 M|0.94 W|0.92 Turner|0.9 visited|0.88 Wells|0.86 in|0.84 1795|0.82 making|0.8 sketches|0.78 of|0.76 the|0.74 precinct|0.72 and|0.7 a|0.68 watercolour|0.66 of|0.64 the|0.62 west|0.6 front|0.58 now|0.56 in|0.54 the|0.52 Tate|0.5 gallery|0.48 161|0.46 Other|0.44 artists|0.42 whose|0.4 paintings|0.38 of|0.36 the|0.34 cathedral|0.32 are|0.3 in|0.28 national|0.26 collections|0.24 are|0.22 Albert|0.2 Goodwin|0.18 162|0.16 John|0.14 Syer|0.12 163|0.1 and|0.08 Ken|0.06 Howard|0.04 164|0.02 |0",
+			"previous_weights": " "
+		}
+	}
+}

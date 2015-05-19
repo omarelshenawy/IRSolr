@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e3eee1f66606d0bd318a420d2e229739a875cea8ef82ea633cfb436e298c4b1",
+			"url": "https://upload.wikimedia.org/math/1/6/0/160f18672eb9984697274c05a971cfec.png",
+			"previous": " by the change of variables for complete details see Solution of the Black Scholes Equation at the Wayback Machine archived April 11 2008  is reducible to the heat equation",
+			"after": " Inhomogeneous equations can often be solved for constant coefficient PDEs always be solved by finding the fundamental solution the solution for a point source then taking the convolution with the boundary conditions to get the solution ",
+			"color": "dim|0.3437 gray|0.3437 dim|0.3437 grey|0.3437 gray|0.28873 grey|0.28873 dark|0.18163 gray|0.18163 dark|0.18163 grey|0.18163 silver|0.084814 light|0.045313 gray|0.045313 light|0.045313 grey|0.045313 gainsboro|0.032636 white|0.0056127 smoke|0.0056127 linen|0.0028617  ",
+			"after_weights": " Inhomogeneous|1 equations|0.97222 can|0.94444 often|0.91667 be|0.88889 solved|0.86111 for|0.83333 constant|0.80556 coefficient|0.77778 PDEs|0.75 always|0.72222 be|0.69444 solved|0.66667 by|0.63889 finding|0.61111 the|0.58333 fundamental|0.55556 solution|0.52778 the|0.5 solution|0.47222 for|0.44444 a|0.41667 point|0.38889 source|0.36111 then|0.33333 taking|0.30556 the|0.27778 convolution|0.25 with|0.22222 the|0.19444 boundary|0.16667 conditions|0.13889 to|0.11111 get|0.083333 the|0.055556 solution|0.027778 |0",
+			"previous_weights": " by|0 the|0.034483 change|0.068966 of|0.10345 variables|0.13793 for|0.17241 complete|0.2069 details|0.24138 see|0.27586 Solution|0.31034 of|0.34483 the|0.37931 Black|0.41379 Scholes|0.44828 Equation|0.48276 at|0.51724 the|0.55172 Wayback|0.58621 Machine|0.62069 archived|0.65517 April|0.68966 11|0.72414 2008|0.75862 |0.7931 is|0.82759 reducible|0.86207 to|0.89655 the|0.93103 heat|0.96552 equation|1"
+		}
+	}
+}

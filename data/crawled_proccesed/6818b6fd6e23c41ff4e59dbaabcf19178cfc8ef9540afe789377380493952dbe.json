@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6818b6fd6e23c41ff4e59dbaabcf19178cfc8ef9540afe789377380493952dbe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pakistan_Air_Force_Il-78MP_R11-003_IST_2013-5-24.png/220px-Pakistan_Air_Force_Il-78MP_R11-003_IST_2013-5-24.png",
+			"previous": " All Russian Air Force Il 78s are now part of the special 203rd Orlovski Regiment of aerial tankers based at Dyagilevo Air Force Base citation needed ",
+			"after": " As of March 2009 more than 34 Il 78s were in operation 1 ",
+			"color": "gray|0.40227 grey|0.40227 dim|0.3515 gray|0.3515 dim|0.3515 grey|0.3515 slate|0.087277 gray|0.087277 light|0.031246 slate|0.031246 gray|0.031246 sandy|0.030858 brown|0.030858 peru|0.02607 steel|0.02503 blue|0.02503 dark|0.015057 slate|0.015057 gray|0.015057  ",
+			"after_weights": " As|1 of|0.92308 March|0.84615 2009|0.76923 more|0.69231 than|0.61538 34|0.53846 Il|0.46154 78s|0.38462 were|0.30769 in|0.23077 operation|0.15385 1|0.076923 |0",
+			"previous_weights": " All|0 Russian|0.038462 Air|0.076923 Force|0.11538 Il|0.15385 78s|0.19231 are|0.23077 now|0.26923 part|0.30769 of|0.34615 the|0.38462 special|0.42308 203rd|0.46154 Orlovski|0.5 Regiment|0.53846 of|0.57692 aerial|0.61538 tankers|0.65385 based|0.69231 at|0.73077 Dyagilevo|0.76923 Air|0.80769 Force|0.84615 Base|0.88462 citation|0.92308 needed|0.96154 |1"
+		}
+	}
+}

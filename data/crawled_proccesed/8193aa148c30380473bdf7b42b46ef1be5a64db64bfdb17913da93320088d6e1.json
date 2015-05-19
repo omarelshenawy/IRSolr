@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8193aa148c30380473bdf7b42b46ef1be5a64db64bfdb17913da93320088d6e1",
+			"url": "https://upload.wikimedia.org/math/2/1/e/21ea59280ce92879be63863a9eacbbce.png",
+			"previous": " Using Bernoulli s Equation the pressure coefficient can be further simplified for incompressible lossless and steady flow 3 ",
+			"after": " where V is the velocity of the fluid at the point at which pressure coefficient is being evaluated ",
+			"color": "dim|0.35479 gray|0.35479 dim|0.35479 grey|0.35479 gray|0.29033 grey|0.29033 dark|0.18796 gray|0.18796 dark|0.18796 grey|0.18796 silver|0.07926 light|0.04109 gray|0.04109 light|0.04109 grey|0.04109 gainsboro|0.028292 white|0.004746 smoke|0.004746  ",
+			"after_weights": " where|1 V|0.94444 is|0.88889 the|0.83333 velocity|0.77778 of|0.72222 the|0.66667 fluid|0.61111 at|0.55556 the|0.5 point|0.44444 at|0.38889 which|0.33333 pressure|0.27778 coefficient|0.22222 is|0.16667 being|0.11111 evaluated|0.055556 |0",
+			"previous_weights": " Using|0 Bernoulli|0.055556 s|0.11111 Equation|0.16667 the|0.22222 pressure|0.27778 coefficient|0.33333 can|0.38889 be|0.44444 further|0.5 simplified|0.55556 for|0.61111 incompressible|0.66667 lossless|0.72222 and|0.77778 steady|0.83333 flow|0.88889 3|0.94444 |1"
+		}
+	}
+}

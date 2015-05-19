@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "16e3edf68b39b4abd1eb4cd05c455f441118dc7dc14e77e360c7194d072fac50",
+			"url": "https://upload.wikimedia.org/math/9/e/b/9eb8328c19fa785fb944c0cc647f940c.png",
+			"previous": " with the PID controller transfer function Applying Laplace transformation results in the transformed PID controller equation",
+			"after": " There exists a nice example of the closed loop system discussed above If we take  PID controller transfer function in series form",
+			"color": "dim|0.38795 gray|0.38795 dim|0.38795 grey|0.38795 gray|0.27911 grey|0.27911 dark|0.18043 gray|0.18043 dark|0.18043 grey|0.18043 silver|0.077048 light|0.036283 gray|0.036283 light|0.036283 grey|0.036283 gainsboro|0.025086 white|0.0042079 smoke|0.0042079  ",
+			"after_weights": " There|1 exists|0.95455 a|0.90909 nice|0.86364 example|0.81818 of|0.77273 the|0.72727 closed|0.68182 loop|0.63636 system|0.59091 discussed|0.54545 above|0.5 If|0.45455 we|0.40909 take|0.36364 |0.31818 PID|0.27273 controller|0.22727 transfer|0.18182 function|0.13636 in|0.090909 series|0.045455 form|0",
+			"previous_weights": " with|0 the|0.066667 PID|0.13333 controller|0.2 transfer|0.26667 function|0.33333 Applying|0.4 Laplace|0.46667 transformation|0.53333 results|0.6 in|0.66667 the|0.73333 transformed|0.8 PID|0.86667 controller|0.93333 equation|1"
+		}
+	}
+}

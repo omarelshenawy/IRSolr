@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "23b0b03952d6bbc1b8c843c016a176bf14aebe8421a627bad0e1ebafa24c744e",
+			"url": "https://upload.wikimedia.org/math/4/5/9/4591a1b3e15019ae25ad5813d5744ca9.png",
+			"previous": " Setting x 0 produces a cubic equation of the form ",
+			"after": " Usually the coefficients a b c d are real numbers However much of the theory of cubic equations for real coefficients applies to other types of coefficients such as complex ones 1 ",
+			"color": "black|0.37275 dim|0.25375 gray|0.25375 dim|0.25375 grey|0.25375 gray|0.16757 grey|0.16757 dark|0.10675 gray|0.10675 dark|0.10675 grey|0.10675 silver|0.048123 light|0.02432 gray|0.02432 light|0.02432 grey|0.02432 gainsboro|0.016809  ",
+			"after_weights": " Usually|1 the|0.96875 coefficients|0.9375 a|0.90625 b|0.875 c|0.84375 d|0.8125 are|0.78125 real|0.75 numbers|0.71875 However|0.6875 much|0.65625 of|0.625 the|0.59375 theory|0.5625 of|0.53125 cubic|0.5 equations|0.46875 for|0.4375 real|0.40625 coefficients|0.375 applies|0.34375 to|0.3125 other|0.28125 types|0.25 of|0.21875 coefficients|0.1875 such|0.15625 as|0.125 complex|0.09375 ones|0.0625 1|0.03125 |0",
+			"previous_weights": " Setting|0 x|0.1 0|0.2 produces|0.3 a|0.4 cubic|0.5 equation|0.6 of|0.7 the|0.8 form|0.9 |1"
+		}
+	}
+}

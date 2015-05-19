@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a6392fbc148a568c63ac81a541f8fd590ea1b0e0975673b939c2671a623a2b8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Red_obby_oss_maiden_20050502.jpg/100px-Red_obby_oss_maiden_20050502.jpg",
+			"previous": " ",
+			"after": " The Obby Oss festival is a traditional festival held annually in Padstow on May Day 1 May The festival itself starts at midnight with unaccompanied singing around the town starting at the Golden Lion Inn By the morning the town is dressed with greenery flowers and flags with the focus being the maypole ",
+			"color": "black|0.24018 gray|0.19865 grey|0.19865 dark|0.17496 gray|0.17496 dark|0.17496 grey|0.17496 dim|0.16718 gray|0.16718 dim|0.16718 grey|0.16718 rosy|0.040955 brown|0.040955 silver|0.037368 slate|0.024085 gray|0.024085 light|0.023938 slate|0.023938 gray|0.023938 light|0.015661 gray|0.015661 light|0.015661 grey|0.015661 thistle|0.014309 light|0.01397 steel|0.01397 blue|0.01397 misty|0.00977 rose|0.00977 gainsboro|0.0085451  ",
+			"after_weights": " The|1 Obby|0.98113 Oss|0.96226 festival|0.9434 is|0.92453 a|0.90566 traditional|0.88679 festival|0.86792 held|0.84906 annually|0.83019 in|0.81132 Padstow|0.79245 on|0.77358 May|0.75472 Day|0.73585 1|0.71698 May|0.69811 The|0.67925 festival|0.66038 itself|0.64151 starts|0.62264 at|0.60377 midnight|0.58491 with|0.56604 unaccompanied|0.54717 singing|0.5283 around|0.50943 the|0.49057 town|0.4717 starting|0.45283 at|0.43396 the|0.41509 Golden|0.39623 Lion|0.37736 Inn|0.35849 By|0.33962 the|0.32075 morning|0.30189 the|0.28302 town|0.26415 is|0.24528 dressed|0.22642 with|0.20755 greenery|0.18868 flowers|0.16981 and|0.15094 flags|0.13208 with|0.11321 the|0.09434 focus|0.075472 being|0.056604 the|0.037736 maypole|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

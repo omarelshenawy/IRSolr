@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "91b56e3dc50108a2242e93a867453ffac35c12491b03a0db8ae9951b5b241e78",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Starfleet1.png/75px-Starfleet1.png",
+			"previous": " ",
+			"after": " Television series The Original Series episodes The Animated Series episodes The Next Generation episodes Deep Space Nine episodes Voyager episodes Enterprise episodes  Feature films The Motion Picture The Wrath of Khan The Search for Spock The Voyage Home The Final Frontier The Undiscovered Country Generations First Contact Insurrection Nemesis Star Trek Into Darkness",
+			"color": "yellow|0.1304 gold|0.118 dark|0.072838 gray|0.072838 dark|0.072838 grey|0.072838 white|0.04868 smoke|0.04868 lavender|0.044297 blush|0.044297 alice|0.044297 blue|0.044297 olive|0.04409 ghost|0.044044 white|0.044044 dark|0.043509 khaki|0.043509 snow|0.042883 sea|0.042749 shell|0.042749 silver|0.042014 white|0.040494 mint|0.036843 cream|0.036843 gray|0.033294 grey|0.033294 light|0.031938 gray|0.031938 light|0.031938 grey|0.031938 gainsboro|0.031292 floral|0.031108 white|0.031108 azure|0.028569 khaki|0.018462 linen|0.015832 dim|0.009796 gray|0.009796 dim|0.009796 grey|0.009796  ",
+			"after_weights": " Television|1 series|0.98113 The|0.96226 Original|0.9434 Series|0.92453 episodes|0.90566 The|0.88679 Animated|0.86792 Series|0.84906 episodes|0.83019 The|0.81132 Next|0.79245 Generation|0.77358 episodes|0.75472 Deep|0.73585 Space|0.71698 Nine|0.69811 episodes|0.67925 Voyager|0.66038 episodes|0.64151 Enterprise|0.62264 episodes|0.60377 |0.58491 Feature|0.56604 films|0.54717 The|0.5283 Motion|0.50943 Picture|0.49057 The|0.4717 Wrath|0.45283 of|0.43396 Khan|0.41509 The|0.39623 Search|0.37736 for|0.35849 Spock|0.33962 The|0.32075 Voyage|0.30189 Home|0.28302 The|0.26415 Final|0.24528 Frontier|0.22642 The|0.20755 Undiscovered|0.18868 Country|0.16981 Generations|0.15094 First|0.13208 Contact|0.11321 Insurrection|0.09434 Nemesis|0.075472 Star|0.056604 Trek|0.037736 Into|0.018868 Darkness|0",
+			"previous_weights": " "
+		}
+	}
+}

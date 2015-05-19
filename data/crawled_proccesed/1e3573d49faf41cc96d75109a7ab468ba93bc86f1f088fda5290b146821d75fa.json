@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e3573d49faf41cc96d75109a7ab468ba93bc86f1f088fda5290b146821d75fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Manhattan_1971.jpg/225px-Manhattan_1971.jpg",
+			"previous": " ",
+			"after": " In March 1965 the Port Authority began acquiring property at the World Trade Center site 52 Demolition work began on March 21 1966 to clear thirteen square blocks of low rise buildings in Radio Row for construction of the World Trade Center 53 Groundbreaking for the construction of the World Trade Center took place on August 5 1966 76 ",
+			"color": "dim|0.2288 gray|0.2288 dim|0.2288 grey|0.2288 gray|0.10805 grey|0.10805 dark|0.10678 slate|0.10678 gray|0.10678 rosy|0.098375 brown|0.098375 tan|0.066842 black|0.043697 dark|0.035462 gray|0.035462 dark|0.035462 grey|0.035462 burly|0.025828 wood|0.025828  ",
+			"after_weights": " In|1 March|0.98305 1965|0.9661 the|0.94915 Port|0.9322 Authority|0.91525 began|0.89831 acquiring|0.88136 property|0.86441 at|0.84746 the|0.83051 World|0.81356 Trade|0.79661 Center|0.77966 site|0.76271 52|0.74576 Demolition|0.72881 work|0.71186 began|0.69492 on|0.67797 March|0.66102 21|0.64407 1966|0.62712 to|0.61017 clear|0.59322 thirteen|0.57627 square|0.55932 blocks|0.54237 of|0.52542 low|0.50847 rise|0.49153 buildings|0.47458 in|0.45763 Radio|0.44068 Row|0.42373 for|0.40678 construction|0.38983 of|0.37288 the|0.35593 World|0.33898 Trade|0.32203 Center|0.30508 53|0.28814 Groundbreaking|0.27119 for|0.25424 the|0.23729 construction|0.22034 of|0.20339 the|0.18644 World|0.16949 Trade|0.15254 Center|0.13559 took|0.11864 place|0.10169 on|0.084746 August|0.067797 5|0.050847 1966|0.033898 76|0.016949 |0",
+			"previous_weights": " "
+		}
+	}
+}

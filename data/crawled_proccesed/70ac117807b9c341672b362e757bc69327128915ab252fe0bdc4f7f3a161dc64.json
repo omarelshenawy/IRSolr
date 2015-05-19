@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "70ac117807b9c341672b362e757bc69327128915ab252fe0bdc4f7f3a161dc64",
+			"url": "https://upload.wikimedia.org/math/f/9/d/f9dcc197d46cb18ee32bd46beb7b8278.png",
+			"previous": " ",
+			"after": " The first equation shows that after one second an object will have fallen a distance of 1 2 9 8 12 4 9 meters After two seconds it will have fallen 1 2 9 8 22 19 6 meters and so on The second to last equation becomes grossly inaccurate at great distances If an object fell 10 000 meters to Earth then the results of both equations differ by only 0 08 however if it fell from geosynchronous orbit which is 42 164 km then the difference changes to almost 64 ",
+			"color": "gray|0.33198 grey|0.33198 dark|0.24167 gray|0.24167 dark|0.24167 grey|0.24167 dim|0.2202 gray|0.2202 dim|0.2202 grey|0.2202 silver|0.09947 light|0.047001 gray|0.047001 light|0.047001 grey|0.047001 gainsboro|0.033792 white|0.0063624 smoke|0.0063624 linen|0.0031001 lavender|0.0026848 blush|0.0026848 alice|0.0026247 blue|0.0026247  ",
+			"after_weights": " The|1 first|0.98913 equation|0.97826 shows|0.96739 that|0.95652 after|0.94565 one|0.93478 second|0.92391 an|0.91304 object|0.90217 will|0.8913 have|0.88043 fallen|0.86957 a|0.8587 distance|0.84783 of|0.83696 1|0.82609 2|0.81522 9|0.80435 8|0.79348 12|0.78261 4|0.77174 9|0.76087 meters|0.75 After|0.73913 two|0.72826 seconds|0.71739 it|0.70652 will|0.69565 have|0.68478 fallen|0.67391 1|0.66304 2|0.65217 9|0.6413 8|0.63043 22|0.61957 19|0.6087 6|0.59783 meters|0.58696 and|0.57609 so|0.56522 on|0.55435 The|0.54348 second|0.53261 to|0.52174 last|0.51087 equation|0.5 becomes|0.48913 grossly|0.47826 inaccurate|0.46739 at|0.45652 great|0.44565 distances|0.43478 If|0.42391 an|0.41304 object|0.40217 fell|0.3913 10|0.38043 000|0.36957 meters|0.3587 to|0.34783 Earth|0.33696 then|0.32609 the|0.31522 results|0.30435 of|0.29348 both|0.28261 equations|0.27174 differ|0.26087 by|0.25 only|0.23913 0|0.22826 08|0.21739 however|0.20652 if|0.19565 it|0.18478 fell|0.17391 from|0.16304 geosynchronous|0.15217 orbit|0.1413 which|0.13043 is|0.11957 42|0.1087 164|0.097826 km|0.086957 then|0.076087 the|0.065217 difference|0.054348 changes|0.043478 to|0.032609 almost|0.021739 64|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

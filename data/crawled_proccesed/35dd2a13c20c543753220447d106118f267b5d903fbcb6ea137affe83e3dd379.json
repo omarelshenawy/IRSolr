@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35dd2a13c20c543753220447d106118f267b5d903fbcb6ea137affe83e3dd379",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Buenos_Aires_-_Palacio_del_Congreso_de_la_Naci%C3%B3n_Argentina_-HDR-_1.jpg/360px-Buenos_Aires_-_Palacio_del_Congreso_de_la_Naci%C3%B3n_Argentina_-HDR-_1.jpg",
+			"previous": " ",
+			"after": " The Congress Palace is located at 50 Entre R os Avenue in the Buenos Aires neighbourhood of Monserrat It houses the Argentine National Congress the legislative branch of the government of Argentina Its composition is bicameral constituted by a 72 seat Senate and a 257 seat Chamber of Deputies ",
+			"color": "dim|0.30319 gray|0.30319 dim|0.30319 grey|0.30319 black|0.28989 gray|0.1912 grey|0.1912 dark|0.10775 gray|0.10775 dark|0.10775 grey|0.10775 silver|0.043172 light|0.022897 gray|0.022897 light|0.022897 grey|0.022897 gainsboro|0.016107  ",
+			"after_weights": " The|1 Congress|0.97959 Palace|0.95918 is|0.93878 located|0.91837 at|0.89796 50|0.87755 Entre|0.85714 R|0.83673 os|0.81633 Avenue|0.79592 in|0.77551 the|0.7551 Buenos|0.73469 Aires|0.71429 neighbourhood|0.69388 of|0.67347 Monserrat|0.65306 It|0.63265 houses|0.61224 the|0.59184 Argentine|0.57143 National|0.55102 Congress|0.53061 the|0.5102 legislative|0.4898 branch|0.46939 of|0.44898 the|0.42857 government|0.40816 of|0.38776 Argentina|0.36735 Its|0.34694 composition|0.32653 is|0.30612 bicameral|0.28571 constituted|0.26531 by|0.2449 a|0.22449 72|0.20408 seat|0.18367 Senate|0.16327 and|0.14286 a|0.12245 257|0.10204 seat|0.081633 Chamber|0.061224 of|0.040816 Deputies|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

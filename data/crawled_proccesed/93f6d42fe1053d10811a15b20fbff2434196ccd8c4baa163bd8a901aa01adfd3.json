@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93f6d42fe1053d10811a15b20fbff2434196ccd8c4baa163bd8a901aa01adfd3",
+			"url": "https://upload.wikimedia.org/math/0/5/a/05a0b20d1b32556f61b2f48f193137d9.png",
+			"previous": " which implies that the function f is entirely determined by the vectors f v1 f vn Now let w1 wm be a basis for W Then we can represent each vector f vj as",
+			"after": " Thus the function f is entirely determined by the values of aij If we put these values into an m n matrix M then we can conveniently use it to compute the vector output of f for any vector in V To get M every column j of M is a vector",
+			"color": "dim|0.41972 gray|0.41972 dim|0.41972 grey|0.41972 gray|0.26766 grey|0.26766 dark|0.16111 gray|0.16111 dark|0.16111 grey|0.16111 silver|0.07225 light|0.036731 gray|0.036731 light|0.036731 grey|0.036731 gainsboro|0.025211 white|0.0040596 smoke|0.0040596  ",
+			"after_weights": " Thus|1 the|0.98039 function|0.96078 f|0.94118 is|0.92157 entirely|0.90196 determined|0.88235 by|0.86275 the|0.84314 values|0.82353 of|0.80392 aij|0.78431 If|0.76471 we|0.7451 put|0.72549 these|0.70588 values|0.68627 into|0.66667 an|0.64706 m|0.62745 n|0.60784 matrix|0.58824 M|0.56863 then|0.54902 we|0.52941 can|0.5098 conveniently|0.4902 use|0.47059 it|0.45098 to|0.43137 compute|0.41176 the|0.39216 vector|0.37255 output|0.35294 of|0.33333 f|0.31373 for|0.29412 any|0.27451 vector|0.2549 in|0.23529 V|0.21569 To|0.19608 get|0.17647 M|0.15686 every|0.13725 column|0.11765 j|0.098039 of|0.078431 M|0.058824 is|0.039216 a|0.019608 vector|0",
+			"previous_weights": " which|0 implies|0.030303 that|0.060606 the|0.090909 function|0.12121 f|0.15152 is|0.18182 entirely|0.21212 determined|0.24242 by|0.27273 the|0.30303 vectors|0.33333 f|0.36364 v1|0.39394 f|0.42424 vn|0.45455 Now|0.48485 let|0.51515 w1|0.54545 wm|0.57576 be|0.60606 a|0.63636 basis|0.66667 for|0.69697 W|0.72727 Then|0.75758 we|0.78788 can|0.81818 represent|0.84848 each|0.87879 vector|0.90909 f|0.93939 vj|0.9697 as|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "86dbdc4cf53eb8ee3ed41f9b6e6e8fd89b9c0e2dd78bf3e60a4b3da2fb0e06b3",
+			"url": "https://upload.wikimedia.org/math/a/3/c/a3c21b05c5a467c476fdf5220d9bdd9b.png",
+			"previous": " and the total number of possible states is given by 2N Therefore the probability of the particle being hit from the right NR times is ",
+			"after": " As a result of its simplicity Smoluchowski s 1D model can only qualitatively describe Brownian motion For a realistic particle undergoing Brownian motion in a fluid many of the assumptions cannot be made For example the assumption that on average there occurs an equal number of collisions from the right as from the left falls apart once the particle is in motion Also there would be a distribution of different possible Vs instead of always just one in a realistic situation ",
+			"color": "dim|0.37155 gray|0.37155 dim|0.37155 grey|0.37155 gray|0.26399 grey|0.26399 dark|0.17758 gray|0.17758 dark|0.17758 grey|0.17758 silver|0.086602 light|0.046661 gray|0.046661 light|0.046661 grey|0.046661 gainsboro|0.033113 white|0.0054023 smoke|0.0054023  ",
+			"after_weights": " As|1 a|0.98765 result|0.97531 of|0.96296 its|0.95062 simplicity|0.93827 Smoluchowski|0.92593 s|0.91358 1D|0.90123 model|0.88889 can|0.87654 only|0.8642 qualitatively|0.85185 describe|0.83951 Brownian|0.82716 motion|0.81481 For|0.80247 a|0.79012 realistic|0.77778 particle|0.76543 undergoing|0.75309 Brownian|0.74074 motion|0.7284 in|0.71605 a|0.7037 fluid|0.69136 many|0.67901 of|0.66667 the|0.65432 assumptions|0.64198 cannot|0.62963 be|0.61728 made|0.60494 For|0.59259 example|0.58025 the|0.5679 assumption|0.55556 that|0.54321 on|0.53086 average|0.51852 there|0.50617 occurs|0.49383 an|0.48148 equal|0.46914 number|0.45679 of|0.44444 collisions|0.4321 from|0.41975 the|0.40741 right|0.39506 as|0.38272 from|0.37037 the|0.35802 left|0.34568 falls|0.33333 apart|0.32099 once|0.30864 the|0.2963 particle|0.28395 is|0.2716 in|0.25926 motion|0.24691 Also|0.23457 there|0.22222 would|0.20988 be|0.19753 a|0.18519 distribution|0.17284 of|0.16049 different|0.14815 possible|0.1358 Vs|0.12346 instead|0.11111 of|0.098765 always|0.08642 just|0.074074 one|0.061728 in|0.049383 a|0.037037 realistic|0.024691 situation|0.012346 |0",
+			"previous_weights": " and|0 the|0.04 total|0.08 number|0.12 of|0.16 possible|0.2 states|0.24 is|0.28 given|0.32 by|0.36 2N|0.4 Therefore|0.44 the|0.48 probability|0.52 of|0.56 the|0.6 particle|0.64 being|0.68 hit|0.72 from|0.76 the|0.8 right|0.84 NR|0.88 times|0.92 is|0.96 |1"
+		}
+	}
+}

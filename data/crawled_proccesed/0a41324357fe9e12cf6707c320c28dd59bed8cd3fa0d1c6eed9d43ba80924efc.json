@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a41324357fe9e12cf6707c320c28dd59bed8cd3fa0d1c6eed9d43ba80924efc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Byzantium1204.png/200px-Byzantium1204.png",
+			"previous": " ",
+			"after": " The Empire of Nicaea Greek Turkish znik mparatorlu u was the largest of the Byzantine Greek states founded by the nobility of the Byzantine Empire after Constantinople was conquered during the Fourth Crusade It lasted from 1204 to 1261 ",
+			"color": "thistle|0.27657 light|0.18293 steel|0.18293 blue|0.18293 plum|0.078765 light|0.070684 slate|0.070684 gray|0.070684 slate|0.064648 gray|0.064648 lavender|0.053403 dark|0.052147 gray|0.052147 dark|0.052147 grey|0.052147 light|0.038195 sky|0.038195 blue|0.038195 rosy|0.034435 brown|0.034435 silver|0.02454 gray|0.023221 grey|0.023221 light|0.016987 gray|0.016987 light|0.016987 grey|0.016987 light|0.013721 blue|0.013721 gainsboro|0.012451 peach|0.012451 puff|0.012451 light|0.010489 pink|0.010489  ",
+			"after_weights": " The|1 Empire|0.97436 of|0.94872 Nicaea|0.92308 Greek|0.89744 Turkish|0.87179 znik|0.84615 mparatorlu|0.82051 u|0.79487 was|0.76923 the|0.74359 largest|0.71795 of|0.69231 the|0.66667 Byzantine|0.64103 Greek|0.61538 states|0.58974 founded|0.5641 by|0.53846 the|0.51282 nobility|0.48718 of|0.46154 the|0.4359 Byzantine|0.41026 Empire|0.38462 after|0.35897 Constantinople|0.33333 was|0.30769 conquered|0.28205 during|0.25641 the|0.23077 Fourth|0.20513 Crusade|0.17949 It|0.15385 lasted|0.12821 from|0.10256 1204|0.076923 to|0.051282 1261|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

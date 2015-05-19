@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f6e104ab891a64f81d70ed23e61ff96274dad32ae94422ab84ab242bc12c9ff",
+			"url": "https://upload.wikimedia.org/math/f/0/3/f032b7031c745f27ddac87201880f26c.png",
+			"previous": " A vertical shear or shear parallel to the axis of lines is similar except that the roles of and are swapped It corresponds to multiplying the coordinate vector by the transposed matrix ",
+			"after": " The vertical shear displaces points to the right of the axis up or down depending on the sign of It leaves vertical lines invariant but tilts all other lines about the point where they meet the axis Horizontal lines in particular get tilted by the shear angle to become lines with slope ",
+			"color": " ",
+			"after_weights": " The|1 vertical|0.98077 shear|0.96154 displaces|0.94231 points|0.92308 to|0.90385 the|0.88462 right|0.86538 of|0.84615 the|0.82692 axis|0.80769 up|0.78846 or|0.76923 down|0.75 depending|0.73077 on|0.71154 the|0.69231 sign|0.67308 of|0.65385 It|0.63462 leaves|0.61538 vertical|0.59615 lines|0.57692 invariant|0.55769 but|0.53846 tilts|0.51923 all|0.5 other|0.48077 lines|0.46154 about|0.44231 the|0.42308 point|0.40385 where|0.38462 they|0.36538 meet|0.34615 the|0.32692 axis|0.30769 Horizontal|0.28846 lines|0.26923 in|0.25 particular|0.23077 get|0.21154 tilted|0.19231 by|0.17308 the|0.15385 shear|0.13462 angle|0.11538 to|0.096154 become|0.076923 lines|0.057692 with|0.038462 slope|0.019231 |0",
+			"previous_weights": " A|0 vertical|0.03125 shear|0.0625 or|0.09375 shear|0.125 parallel|0.15625 to|0.1875 the|0.21875 axis|0.25 of|0.28125 lines|0.3125 is|0.34375 similar|0.375 except|0.40625 that|0.4375 the|0.46875 roles|0.5 of|0.53125 and|0.5625 are|0.59375 swapped|0.625 It|0.65625 corresponds|0.6875 to|0.71875 multiplying|0.75 the|0.78125 coordinate|0.8125 vector|0.84375 by|0.875 the|0.90625 transposed|0.9375 matrix|0.96875 |1"
+		}
+	}
+}

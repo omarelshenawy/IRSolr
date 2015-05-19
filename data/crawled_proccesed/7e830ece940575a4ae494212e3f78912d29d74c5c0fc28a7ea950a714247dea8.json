@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e830ece940575a4ae494212e3f78912d29d74c5c0fc28a7ea950a714247dea8",
+			"url": "https://upload.wikimedia.org/math/0/3/7/037613b809529586979b0232dc858ee5.png",
+			"previous": " If there are n independent variables x1 x2 xn a general linear partial differential equation of second order has the form",
+			"after": " The classification depends upon the signature of the eigenvalues of the coefficient matrix ai j ",
+			"color": "dim|0.40967 gray|0.40967 dim|0.40967 grey|0.40967 gray|0.28182 grey|0.28182 dark|0.15713 gray|0.15713 dark|0.15713 grey|0.15713 silver|0.069478 light|0.032666 gray|0.032666 light|0.032666 grey|0.032666 gainsboro|0.02305 black|0.012939 white|0.0036083 smoke|0.0036083  ",
+			"after_weights": " The|1 classification|0.93333 depends|0.86667 upon|0.8 the|0.73333 signature|0.66667 of|0.6 the|0.53333 eigenvalues|0.46667 of|0.4 the|0.33333 coefficient|0.26667 matrix|0.2 ai|0.13333 j|0.066667 |0",
+			"previous_weights": " If|0 there|0.05 are|0.1 n|0.15 independent|0.2 variables|0.25 x1|0.3 x2|0.35 xn|0.4 a|0.45 general|0.5 linear|0.55 partial|0.6 differential|0.65 equation|0.7 of|0.75 second|0.8 order|0.85 has|0.9 the|0.95 form|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a58f4baaf655defb9831ffbb36769f1f7a3035f11c200598413ad54d34946db",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/PHMPP.JPG/220px-PHMPP.JPG",
+			"previous": " Martinair Cargo has extensive operations in most parts of the world It flies Boeing 747 400Fs to Africa Asia McDonnell Douglas MD 11Fs to destinations in Europe and the Americas ",
+			"after": " The Martinair fleet consists of the following aircraft as of November 2014 26 27 ",
+			"color": "dark|0.15455 gray|0.15455 dark|0.15455 grey|0.15455 black|0.14916 light|0.12201 slate|0.12201 gray|0.12201 gray|0.096156 grey|0.096156 dim|0.069296 gray|0.069296 dim|0.069296 grey|0.069296 red|0.035448 antique|0.033964 white|0.033964 misty|0.03171 rose|0.03171 linen|0.027451 old|0.021537 lace|0.021537 silver|0.020611 sea|0.019283 shell|0.019283 papaya|0.018974 whip|0.018974 light|0.01479 gray|0.01479 light|0.01479 grey|0.01479 floral|0.013827 white|0.013827 blanched|0.013135 almond|0.013135 gainsboro|0.01258 beige|0.0099659 slate|0.0092055 gray|0.0092055 corn|0.0084858 silk|0.0084858 ivory|0.0083724 tan|0.0079272  ",
+			"after_weights": " The|1 Martinair|0.92857 fleet|0.85714 consists|0.78571 of|0.71429 the|0.64286 following|0.57143 aircraft|0.5 as|0.42857 of|0.35714 November|0.28571 2014|0.21429 26|0.14286 27|0.071429 |0",
+			"previous_weights": " Martinair|0 Cargo|0.033333 has|0.066667 extensive|0.1 operations|0.13333 in|0.16667 most|0.2 parts|0.23333 of|0.26667 the|0.3 world|0.33333 It|0.36667 flies|0.4 Boeing|0.43333 747|0.46667 400Fs|0.5 to|0.53333 Africa|0.56667 Asia|0.6 McDonnell|0.63333 Douglas|0.66667 MD|0.7 11Fs|0.73333 to|0.76667 destinations|0.8 in|0.83333 Europe|0.86667 and|0.9 the|0.93333 Americas|0.96667 |1"
+		}
+	}
+}

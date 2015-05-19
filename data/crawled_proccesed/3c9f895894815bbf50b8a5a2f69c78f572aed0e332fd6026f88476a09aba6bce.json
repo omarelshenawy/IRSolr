@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c9f895894815bbf50b8a5a2f69c78f572aed0e332fd6026f88476a09aba6bce",
+			"url": "https://upload.wikimedia.org/math/f/b/7/fb740331f3d99ece8612db3f64ed7ded.png",
+			"previous": " Another matrix frequently used in geometrical situations is the Jacobi matrix of a differentiable map f Rn Rm If f1 fm denote the components of f then the Jacobi matrix is defined as 79 ",
+			"after": " If n m and if the rank of the Jacobi matrix attains its maximal value m f is locally invertible at that point by the implicit function theorem 80 ",
+			"color": "gray|0.25788 grey|0.25788 dim|0.25341 gray|0.25341 dim|0.25341 grey|0.25341 dark|0.24292 gray|0.24292 dark|0.24292 grey|0.24292 silver|0.11403 light|0.054209 gray|0.054209 light|0.054209 grey|0.054209 gainsboro|0.041688 white|0.011567 smoke|0.011567 linen|0.0039461 lavender|0.0035865 blush|0.0035865 alice|0.0034932 blue|0.0034932 ghost|0.0034044 white|0.0034044 sea|0.0033093 shell|0.0033093 snow|0.0032094  ",
+			"after_weights": " If|1 n|0.96552 m|0.93103 and|0.89655 if|0.86207 the|0.82759 rank|0.7931 of|0.75862 the|0.72414 Jacobi|0.68966 matrix|0.65517 attains|0.62069 its|0.58621 maximal|0.55172 value|0.51724 m|0.48276 f|0.44828 is|0.41379 locally|0.37931 invertible|0.34483 at|0.31034 that|0.27586 point|0.24138 by|0.2069 the|0.17241 implicit|0.13793 function|0.10345 theorem|0.068966 80|0.034483 |0",
+			"previous_weights": " Another|0 matrix|0.029412 frequently|0.058824 used|0.088235 in|0.11765 geometrical|0.14706 situations|0.17647 is|0.20588 the|0.23529 Jacobi|0.26471 matrix|0.29412 of|0.32353 a|0.35294 differentiable|0.38235 map|0.41176 f|0.44118 Rn|0.47059 Rm|0.5 If|0.52941 f1|0.55882 fm|0.58824 denote|0.61765 the|0.64706 components|0.67647 of|0.70588 f|0.73529 then|0.76471 the|0.79412 Jacobi|0.82353 matrix|0.85294 is|0.88235 defined|0.91176 as|0.94118 79|0.97059 |1"
+		}
+	}
+}

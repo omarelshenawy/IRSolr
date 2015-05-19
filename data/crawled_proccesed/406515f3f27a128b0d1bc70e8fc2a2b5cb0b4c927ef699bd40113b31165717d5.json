@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "406515f3f27a128b0d1bc70e8fc2a2b5cb0b4c927ef699bd40113b31165717d5",
+			"url": "https://upload.wikimedia.org/math/1/9/9/19900874da6d838d229ab71cb3f79e00.png",
+			"previous": " the entropy per normal mode is  By knowing the thermodynamic formula  The term 1 2 h represents the zero point energy or the energy which an oscillator will have at absolute zero E tends to the classic value kT at high temperatures",
+			"after": " The free energy is  which for kT h tends to   In order to calculate the internal energy and the specific heat we must know the number of normal vibrational modes a frequency between the values and d Allow this number to be f d Since the total number of normal modes is 3N the function f is given by ",
+			"color": "gray|0.30325 grey|0.30325 dim|0.29644 gray|0.29644 dim|0.29644 grey|0.29644 dark|0.19999 gray|0.19999 dark|0.19999 grey|0.19999 silver|0.09508 light|0.047271 gray|0.047271 light|0.047271 grey|0.047271 gainsboro|0.034193 white|0.0065907 smoke|0.0065907 linen|0.0028783  ",
+			"after_weights": " The|1 free|0.98387 energy|0.96774 is|0.95161 |0.93548 which|0.91935 for|0.90323 kT|0.8871 h|0.87097 tends|0.85484 to|0.83871 |0.82258 |0.80645 In|0.79032 order|0.77419 to|0.75806 calculate|0.74194 the|0.72581 internal|0.70968 energy|0.69355 and|0.67742 the|0.66129 specific|0.64516 heat|0.62903 we|0.6129 must|0.59677 know|0.58065 the|0.56452 number|0.54839 of|0.53226 normal|0.51613 vibrational|0.5 modes|0.48387 a|0.46774 frequency|0.45161 between|0.43548 the|0.41935 values|0.40323 and|0.3871 d|0.37097 Allow|0.35484 this|0.33871 number|0.32258 to|0.30645 be|0.29032 f|0.27419 d|0.25806 Since|0.24194 the|0.22581 total|0.20968 number|0.19355 of|0.17742 normal|0.16129 modes|0.14516 is|0.12903 3N|0.1129 the|0.096774 function|0.080645 f|0.064516 is|0.048387 given|0.032258 by|0.016129 |0",
+			"previous_weights": " the|0 entropy|0.023256 per|0.046512 normal|0.069767 mode|0.093023 is|0.11628 |0.13953 By|0.16279 knowing|0.18605 the|0.2093 thermodynamic|0.23256 formula|0.25581 |0.27907 The|0.30233 term|0.32558 1|0.34884 2|0.37209 h|0.39535 represents|0.4186 the|0.44186 zero|0.46512 point|0.48837 energy|0.51163 or|0.53488 the|0.55814 energy|0.5814 which|0.60465 an|0.62791 oscillator|0.65116 will|0.67442 have|0.69767 at|0.72093 absolute|0.74419 zero|0.76744 E|0.7907 tends|0.81395 to|0.83721 the|0.86047 classic|0.88372 value|0.90698 kT|0.93023 at|0.95349 high|0.97674 temperatures|1"
+		}
+	}
+}

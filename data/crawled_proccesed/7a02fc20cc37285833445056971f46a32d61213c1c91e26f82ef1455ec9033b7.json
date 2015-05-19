@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a02fc20cc37285833445056971f46a32d61213c1c91e26f82ef1455ec9033b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HouseSparrow23.jpg/150px-HouseSparrow23.jpg",
+			"previous": " ",
+			"after": " Order Passeriformes Family Passeridae Old World sparrows are small passerine birds In general sparrows tend to be small plump brownish or grayish birds with short tails and short powerful beaks Sparrows are seed eaters but they also consume small insects ",
+			"color": "black|0.13001 dark|0.09806 olive|0.09806 green|0.09806 dark|0.094912 gray|0.094912 dark|0.094912 grey|0.094912 silver|0.088562 light|0.081762 gray|0.081762 light|0.081762 grey|0.081762 gray|0.06616 grey|0.06616 gainsboro|0.064603 dim|0.051261 gray|0.051261 dim|0.051261 grey|0.051261 dark|0.044761 sea|0.044761 green|0.044761 dark|0.039715 slate|0.039715 gray|0.039715 white|0.020996 smoke|0.020996 mint|0.018545 cream|0.018545 linen|0.017601 floral|0.016908 white|0.016908 sea|0.014932 shell|0.014932 azure|0.014074 honeydew|0.013728  ",
+			"after_weights": " Order|1 Passeriformes|0.975 Family|0.95 Passeridae|0.925 Old|0.9 World|0.875 sparrows|0.85 are|0.825 small|0.8 passerine|0.775 birds|0.75 In|0.725 general|0.7 sparrows|0.675 tend|0.65 to|0.625 be|0.6 small|0.575 plump|0.55 brownish|0.525 or|0.5 grayish|0.475 birds|0.45 with|0.425 short|0.4 tails|0.375 and|0.35 short|0.325 powerful|0.3 beaks|0.275 Sparrows|0.25 are|0.225 seed|0.2 eaters|0.175 but|0.15 they|0.125 also|0.1 consume|0.075 small|0.05 insects|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

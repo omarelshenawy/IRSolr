@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "384a78215b100f93542670cc53d65e4a1f7d80810078f52e70830365695dbcf2",
+			"url": "https://upload.wikimedia.org/math/a/f/9/af94b57423925cfcc05e5e19bd5d8d50.png",
+			"previous": " Rearrange this equation to obtain The figure on the right shows the effect of this transformation on point coordinates in the plane The eigenvectors v of this transformation satisfy the equation ",
+			"after": " which has a solution only when its determinant A I equals zero  Set the determinant to zero to obtain the polynomial equation ",
+			"color": "dim|0.39786 gray|0.39786 dim|0.39786 grey|0.39786 gray|0.28096 grey|0.28096 dark|0.16508 gray|0.16508 dark|0.16508 grey|0.16508 silver|0.074175 light|0.039106 gray|0.039106 light|0.039106 grey|0.039106 gainsboro|0.027578 white|0.0038613 smoke|0.0038613  ",
+			"after_weights": " which|1 has|0.95652 a|0.91304 solution|0.86957 only|0.82609 when|0.78261 its|0.73913 determinant|0.69565 A|0.65217 I|0.6087 equals|0.56522 zero|0.52174 |0.47826 Set|0.43478 the|0.3913 determinant|0.34783 to|0.30435 zero|0.26087 to|0.21739 obtain|0.17391 the|0.13043 polynomial|0.086957 equation|0.043478 |0",
+			"previous_weights": " Rearrange|0 this|0.032258 equation|0.064516 to|0.096774 obtain|0.12903 The|0.16129 figure|0.19355 on|0.22581 the|0.25806 right|0.29032 shows|0.32258 the|0.35484 effect|0.3871 of|0.41935 this|0.45161 transformation|0.48387 on|0.51613 point|0.54839 coordinates|0.58065 in|0.6129 the|0.64516 plane|0.67742 The|0.70968 eigenvectors|0.74194 v|0.77419 of|0.80645 this|0.83871 transformation|0.87097 satisfy|0.90323 the|0.93548 equation|0.96774 |1"
+		}
+	}
+}

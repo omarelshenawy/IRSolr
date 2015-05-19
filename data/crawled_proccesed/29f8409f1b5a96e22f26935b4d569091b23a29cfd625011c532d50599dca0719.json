@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "29f8409f1b5a96e22f26935b4d569091b23a29cfd625011c532d50599dca0719",
+			"url": "https://upload.wikimedia.org/math/0/b/6/0b607a6488301e8d73952dd72396b08b.png",
+			"previous": " It follows that This is a limit proof by Riemann sums Let f be Riemann integrable on the interval a b and let f admit an antiderivative F on a b Begin with the quantity F b F a Let there be numbers x1 xn such that",
+			"after": " The function F is differentiable on the interval a b therefore it is also differentiable and continuous on each interval xi 1 xi According to the mean value theorem above  Substituting the above into 1 we get",
+			"color": "dim|0.33218 gray|0.33218 dim|0.33218 grey|0.33218 gray|0.29828 grey|0.29828 dark|0.19495 gray|0.19495 dark|0.19495 grey|0.19495 silver|0.085235 light|0.041427 gray|0.041427 light|0.041427 grey|0.041427 gainsboro|0.028979 white|0.0046009 smoke|0.0046009  ",
+			"after_weights": " The|1 function|0.97297 F|0.94595 is|0.91892 differentiable|0.89189 on|0.86486 the|0.83784 interval|0.81081 a|0.78378 b|0.75676 therefore|0.72973 it|0.7027 is|0.67568 also|0.64865 differentiable|0.62162 and|0.59459 continuous|0.56757 on|0.54054 each|0.51351 interval|0.48649 xi|0.45946 1|0.43243 xi|0.40541 According|0.37838 to|0.35135 the|0.32432 mean|0.2973 value|0.27027 theorem|0.24324 above|0.21622 |0.18919 Substituting|0.16216 the|0.13514 above|0.10811 into|0.081081 1|0.054054 we|0.027027 get|0",
+			"previous_weights": " It|0 follows|0.021739 that|0.043478 This|0.065217 is|0.086957 a|0.1087 limit|0.13043 proof|0.15217 by|0.17391 Riemann|0.19565 sums|0.21739 Let|0.23913 f|0.26087 be|0.28261 Riemann|0.30435 integrable|0.32609 on|0.34783 the|0.36957 interval|0.3913 a|0.41304 b|0.43478 and|0.45652 let|0.47826 f|0.5 admit|0.52174 an|0.54348 antiderivative|0.56522 F|0.58696 on|0.6087 a|0.63043 b|0.65217 Begin|0.67391 with|0.69565 the|0.71739 quantity|0.73913 F|0.76087 b|0.78261 F|0.80435 a|0.82609 Let|0.84783 there|0.86957 be|0.8913 numbers|0.91304 x1|0.93478 xn|0.95652 such|0.97826 that|1"
+		}
+	}
+}

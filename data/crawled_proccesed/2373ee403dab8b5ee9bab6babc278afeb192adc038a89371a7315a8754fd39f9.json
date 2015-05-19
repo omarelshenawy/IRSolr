@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2373ee403dab8b5ee9bab6babc278afeb192adc038a89371a7315a8754fd39f9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nuvola_devices_blockdevice.png/48px-Nuvola_devices_blockdevice.png",
+			"previous": " ",
+			"after": " Every article on a historical topic should be assigned to as specific a sub category under the Category History as possible as well as to any non history categories to which it belongs Since Wikipedia has tens of thousands of articles on historical subjects they shouldn t all be placed directly in Category History there is an elaborate hierarchy of historical categories described here and only the lowest level category need be assigned ",
+			"color": "forest|0.18913 green|0.18913 red|0.17037 orange|0.14831 gold|0.08047 salmon|0.077553 light|0.05708 coral|0.05708 dark|0.038588 orange|0.038588 rosy|0.034487 brown|0.034487 brown|0.028702 indian|0.020623 red|0.020623 firebrick|0.019768 yellow|0.011237 dark|0.010818 salmon|0.010818 chocolate|0.008202 green|0.0078468 dark|0.0075831 red|0.0075831 dark|0.0074916 gray|0.0074916 dark|0.0074916 grey|0.0074916 light|0.0068458 green|0.0068458  ",
+			"after_weights": " Every|1 article|0.9863 on|0.9726 a|0.9589 historical|0.94521 topic|0.93151 should|0.91781 be|0.90411 assigned|0.89041 to|0.87671 as|0.86301 specific|0.84932 a|0.83562 sub|0.82192 category|0.80822 under|0.79452 the|0.78082 Category|0.76712 History|0.75342 as|0.73973 possible|0.72603 as|0.71233 well|0.69863 as|0.68493 to|0.67123 any|0.65753 non|0.64384 history|0.63014 categories|0.61644 to|0.60274 which|0.58904 it|0.57534 belongs|0.56164 Since|0.54795 Wikipedia|0.53425 has|0.52055 tens|0.50685 of|0.49315 thousands|0.47945 of|0.46575 articles|0.45205 on|0.43836 historical|0.42466 subjects|0.41096 they|0.39726 shouldn|0.38356 t|0.36986 all|0.35616 be|0.34247 placed|0.32877 directly|0.31507 in|0.30137 Category|0.28767 History|0.27397 there|0.26027 is|0.24658 an|0.23288 elaborate|0.21918 hierarchy|0.20548 of|0.19178 historical|0.17808 categories|0.16438 described|0.15068 here|0.13699 and|0.12329 only|0.10959 the|0.09589 lowest|0.082192 level|0.068493 category|0.054795 need|0.041096 be|0.027397 assigned|0.013699 |0",
+			"previous_weights": " "
+		}
+	}
+}

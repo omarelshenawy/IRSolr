@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "87865ab5774e765dcb2eca9af37d19a6c3b9a2509ea360255f002f32e259ae02",
+			"url": "https://upload.wikimedia.org/math/6/9/4/6949fd6b0fcf96ad24af0b67c238a03f.png",
+			"previous": " Then F is continuous on a b differentiable on the open interval a b and",
+			"after": " for all x in a b  Alternatively if f is merely Riemann integrable then F is continuous on a b but not necessarily differentiable ",
+			"color": "dim|0.3566 gray|0.3566 dim|0.3566 grey|0.3566 gray|0.29663 grey|0.29663 dark|0.18571 gray|0.18571 dark|0.18571 grey|0.18571 silver|0.079006 light|0.038676 gray|0.038676 light|0.038676 grey|0.038676 gainsboro|0.026696 white|0.0045226 smoke|0.0045226  ",
+			"after_weights": " for|1 all|0.96 x|0.92 in|0.88 a|0.84 b|0.8 |0.76 Alternatively|0.72 if|0.68 f|0.64 is|0.6 merely|0.56 Riemann|0.52 integrable|0.48 then|0.44 F|0.4 is|0.36 continuous|0.32 on|0.28 a|0.24 b|0.2 but|0.16 not|0.12 necessarily|0.08 differentiable|0.04 |0",
+			"previous_weights": " Then|0 F|0.071429 is|0.14286 continuous|0.21429 on|0.28571 a|0.35714 b|0.42857 differentiable|0.5 on|0.57143 the|0.64286 open|0.71429 interval|0.78571 a|0.85714 b|0.92857 and|1"
+		}
+	}
+}

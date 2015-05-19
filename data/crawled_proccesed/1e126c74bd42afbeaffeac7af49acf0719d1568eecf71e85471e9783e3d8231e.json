@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e126c74bd42afbeaffeac7af49acf0719d1568eecf71e85471e9783e3d8231e",
+			"url": "https://upload.wikimedia.org/math/8/5/5/855546a4f7dd0df734af5385bb6f4cb4.png",
+			"previous": " For example for n 5  where are the binomial coefficients  The formula can be expressed explicitly as follows  This recursion is elucidated in the animations below ",
+			"after": " Some terminology is associated with these parametric curves We have where the polynomials are known as Bernstein basis polynomials of degree n ",
+			"color": "dim|0.34976 gray|0.34976 dim|0.34976 grey|0.34976 gray|0.29825 grey|0.29825 dark|0.17857 gray|0.17857 dark|0.17857 grey|0.17857 silver|0.086334 light|0.040934 gray|0.040934 light|0.040934 grey|0.040934 gainsboro|0.030092 white|0.004517 smoke|0.004517  ",
+			"after_weights": " Some|1 terminology|0.95455 is|0.90909 associated|0.86364 with|0.81818 these|0.77273 parametric|0.72727 curves|0.68182 We|0.63636 have|0.59091 where|0.54545 the|0.5 polynomials|0.45455 are|0.40909 known|0.36364 as|0.31818 Bernstein|0.27273 basis|0.22727 polynomials|0.18182 of|0.13636 degree|0.090909 n|0.045455 |0",
+			"previous_weights": " For|0 example|0.034483 for|0.068966 n|0.10345 5|0.13793 |0.17241 where|0.2069 are|0.24138 the|0.27586 binomial|0.31034 coefficients|0.34483 |0.37931 The|0.41379 formula|0.44828 can|0.48276 be|0.51724 expressed|0.55172 explicitly|0.58621 as|0.62069 follows|0.65517 |0.68966 This|0.72414 recursion|0.75862 is|0.7931 elucidated|0.82759 in|0.86207 the|0.89655 animations|0.93103 below|0.96552 |1"
+		}
+	}
+}

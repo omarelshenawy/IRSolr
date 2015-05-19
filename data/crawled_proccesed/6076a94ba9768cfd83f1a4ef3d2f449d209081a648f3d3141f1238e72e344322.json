@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6076a94ba9768cfd83f1a4ef3d2f449d209081a648f3d3141f1238e72e344322",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Heat_eqn.gif",
+			"previous": " ",
+			"after": " Resolving a periodic function into a sum of trigonometric functions forms a Fourier series a technique much used in physics and engineering nb 13 76 The underlying vector space is usually the Hilbert space L2 0 2 for which the functions sin mx and cos mx m an integer form an orthogonal basis 77 The Fourier expansion of an L2 function f is",
+			"color": " ",
+			"after_weights": " Resolving|1 a|0.98387 periodic|0.96774 function|0.95161 into|0.93548 a|0.91935 sum|0.90323 of|0.8871 trigonometric|0.87097 functions|0.85484 forms|0.83871 a|0.82258 Fourier|0.80645 series|0.79032 a|0.77419 technique|0.75806 much|0.74194 used|0.72581 in|0.70968 physics|0.69355 and|0.67742 engineering|0.66129 nb|0.64516 13|0.62903 76|0.6129 The|0.59677 underlying|0.58065 vector|0.56452 space|0.54839 is|0.53226 usually|0.51613 the|0.5 Hilbert|0.48387 space|0.46774 L2|0.45161 0|0.43548 2|0.41935 for|0.40323 which|0.3871 the|0.37097 functions|0.35484 sin|0.33871 mx|0.32258 and|0.30645 cos|0.29032 mx|0.27419 m|0.25806 an|0.24194 integer|0.22581 form|0.20968 an|0.19355 orthogonal|0.17742 basis|0.16129 77|0.14516 The|0.12903 Fourier|0.1129 expansion|0.096774 of|0.080645 an|0.064516 L2|0.048387 function|0.032258 f|0.016129 is|0",
+			"previous_weights": " "
+		}
+	}
+}

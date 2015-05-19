@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "13a83222d9b69573576b3ca751062ea34256b94c3d4655597be829ad8879818f",
+			"url": "https://upload.wikimedia.org/math/2/1/c/21c2e59531c8710156d34a3c30ac81d5.png",
+			"previous": " ",
+			"after": " Alternative methods of structure learning search through the many possible causal structures among the variables and remove ones which are strongly incompatible with the observed correlations In general this leaves a set of possible causal relations which should then be tested by analyzing time series data or preferably designing appropriately controlled experiments In contrast with Bayesian Networks path analysis and its generalization structural equation modeling serve better to estimate a known causal effect or to test a causal model than to generate causal hypotheses ",
+			"color": " ",
+			"after_weights": " Alternative|1 methods|0.9881 of|0.97619 structure|0.96429 learning|0.95238 search|0.94048 through|0.92857 the|0.91667 many|0.90476 possible|0.89286 causal|0.88095 structures|0.86905 among|0.85714 the|0.84524 variables|0.83333 and|0.82143 remove|0.80952 ones|0.79762 which|0.78571 are|0.77381 strongly|0.7619 incompatible|0.75 with|0.7381 the|0.72619 observed|0.71429 correlations|0.70238 In|0.69048 general|0.67857 this|0.66667 leaves|0.65476 a|0.64286 set|0.63095 of|0.61905 possible|0.60714 causal|0.59524 relations|0.58333 which|0.57143 should|0.55952 then|0.54762 be|0.53571 tested|0.52381 by|0.5119 analyzing|0.5 time|0.4881 series|0.47619 data|0.46429 or|0.45238 preferably|0.44048 designing|0.42857 appropriately|0.41667 controlled|0.40476 experiments|0.39286 In|0.38095 contrast|0.36905 with|0.35714 Bayesian|0.34524 Networks|0.33333 path|0.32143 analysis|0.30952 and|0.29762 its|0.28571 generalization|0.27381 structural|0.2619 equation|0.25 modeling|0.2381 serve|0.22619 better|0.21429 to|0.20238 estimate|0.19048 a|0.17857 known|0.16667 causal|0.15476 effect|0.14286 or|0.13095 to|0.11905 test|0.10714 a|0.095238 causal|0.083333 model|0.071429 than|0.059524 to|0.047619 generate|0.035714 causal|0.02381 hypotheses|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

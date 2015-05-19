@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bf66aa5f232a5484ec97d91adc30535ab93ac6f69bc03ebfe1865519d1eed44",
+			"url": "https://upload.wikimedia.org/math/5/c/1/5c1c9bdbfe5f49499b4394f5c24955f0.png",
+			"previous": " The previously mentioned scaling factors from globe to cylinder are given by",
+			"after": " Since the meridians are mapped to lines of constant x we must have x R 0 and x R in radians Therefore in the limit of infinitesimally small elements",
+			"color": "dim|0.37677 gray|0.37677 dim|0.37677 grey|0.37677 gray|0.28206 grey|0.28206 dark|0.17797 gray|0.17797 dark|0.17797 grey|0.17797 silver|0.077534 light|0.038439 gray|0.038439 light|0.038439 grey|0.038439 gainsboro|0.027527 white|0.0049391 smoke|0.0049391  ",
+			"after_weights": " Since|1 the|0.96429 meridians|0.92857 are|0.89286 mapped|0.85714 to|0.82143 lines|0.78571 of|0.75 constant|0.71429 x|0.67857 we|0.64286 must|0.60714 have|0.57143 x|0.53571 R|0.5 0|0.46429 and|0.42857 x|0.39286 R|0.35714 in|0.32143 radians|0.28571 Therefore|0.25 in|0.21429 the|0.17857 limit|0.14286 of|0.10714 infinitesimally|0.071429 small|0.035714 elements|0",
+			"previous_weights": " The|0 previously|0.090909 mentioned|0.18182 scaling|0.27273 factors|0.36364 from|0.45455 globe|0.54545 to|0.63636 cylinder|0.72727 are|0.81818 given|0.90909 by|1"
+		}
+	}
+}

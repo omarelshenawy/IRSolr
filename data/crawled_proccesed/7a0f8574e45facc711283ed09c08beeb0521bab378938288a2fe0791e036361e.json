@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a0f8574e45facc711283ed09c08beeb0521bab378938288a2fe0791e036361e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Head_Up_Display_of_a_Toyota_Prius.JPG/220px-Head_Up_Display_of_a_Toyota_Prius.JPG",
+			"previous": " ",
+			"after": " These displays are becoming increasingly available in production cars and usually offer speedometer tachometer and navigation system displays Night vision information is also displayed via HUD on certain automobiles",
+			"color": "black|0.47346 slate|0.27063 gray|0.27063 light|0.11766 slate|0.11766 gray|0.11766 dark|0.050343 gray|0.050343 dark|0.050343 grey|0.050343 gray|0.04008 grey|0.04008 dim|0.030983 gray|0.030983 dim|0.030983 grey|0.030983 silver|0.013101  ",
+			"after_weights": " These|1 displays|0.96429 are|0.92857 becoming|0.89286 increasingly|0.85714 available|0.82143 in|0.78571 production|0.75 cars|0.71429 and|0.67857 usually|0.64286 offer|0.60714 speedometer|0.57143 tachometer|0.53571 and|0.5 navigation|0.46429 system|0.42857 displays|0.39286 Night|0.35714 vision|0.32143 information|0.28571 is|0.25 also|0.21429 displayed|0.17857 via|0.14286 HUD|0.10714 on|0.071429 certain|0.035714 automobiles|0",
+			"previous_weights": " "
+		}
+	}
+}

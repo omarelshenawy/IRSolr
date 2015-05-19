@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "670b72398ab8ab55a89fcf15ad94fa55c391d15c7bc76228353f9b6789e58668",
+			"url": "https://upload.wikimedia.org/math/8/f/1/8f1c99fb9f42be700d87df7b0b50b4aa.png",
+			"previous": " That is the probability function f x lies between zero and one for every value of x in the sample space and the sum of f x over all values x in the sample space is equal to 1 An event is defined as any subset of the sample space The probability of the event is defined as",
+			"after": " So the probability of the entire sample space is 1 and the probability of the null event is 0 ",
+			"color": "gray|0.31846 grey|0.31846 dim|0.26464 gray|0.26464 dim|0.26464 grey|0.26464 dark|0.23779 gray|0.23779 dark|0.23779 grey|0.23779 silver|0.098037 light|0.038421 gray|0.038421 light|0.038421 grey|0.038421 gainsboro|0.026332 white|0.0046423 smoke|0.0046423  ",
+			"after_weights": " So|1 the|0.94737 probability|0.89474 of|0.84211 the|0.78947 entire|0.73684 sample|0.68421 space|0.63158 is|0.57895 1|0.52632 and|0.47368 the|0.42105 probability|0.36842 of|0.31579 the|0.26316 null|0.21053 event|0.15789 is|0.10526 0|0.052632 |0",
+			"previous_weights": " That|0 is|0.017544 the|0.035088 probability|0.052632 function|0.070175 f|0.087719 x|0.10526 lies|0.12281 between|0.14035 zero|0.15789 and|0.17544 one|0.19298 for|0.21053 every|0.22807 value|0.24561 of|0.26316 x|0.2807 in|0.29825 the|0.31579 sample|0.33333 space|0.35088 and|0.36842 the|0.38596 sum|0.40351 of|0.42105 f|0.4386 x|0.45614 over|0.47368 all|0.49123 values|0.50877 x|0.52632 in|0.54386 the|0.5614 sample|0.57895 space|0.59649 is|0.61404 equal|0.63158 to|0.64912 1|0.66667 An|0.68421 event|0.70175 is|0.7193 defined|0.73684 as|0.75439 any|0.77193 subset|0.78947 of|0.80702 the|0.82456 sample|0.84211 space|0.85965 The|0.87719 probability|0.89474 of|0.91228 the|0.92982 event|0.94737 is|0.96491 defined|0.98246 as|1"
+		}
+	}
+}

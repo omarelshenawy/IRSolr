@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cc7059e4e4e2915c0b2195f6fa7b695986d8ea2e844bd08310b55e12e2413a8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Douglas_RD-4_Dolphin_coloured_drawing.jpg/220px-Douglas_RD-4_Dolphin_coloured_drawing.jpg",
+			"previous": " Data from McDonnell Douglas Aircraft since 1920 Vol 1 1  In 1933 landing in heavy seas the USCG RD 4 undertook some rescues of merchant sailors at sea feats that made spectacular news reports enthralling the American public 10 ",
+			"after": " Data from McDonnell Douglas Aircraft since 1920 Vol 1 11  General characteristics Performance",
+			"color": "dark|0.26582 gray|0.26582 dark|0.26582 grey|0.26582 black|0.25151 silver|0.11796 gold|0.10986 gray|0.076083 grey|0.076083 dim|0.039094 gray|0.039094 dim|0.039094 grey|0.039094 light|0.024385 gray|0.024385 light|0.024385 grey|0.024385 gainsboro|0.012363 golden|0.0121 rod|0.0121 dark|0.0075867 khaki|0.0075867 white|0.0058257 smoke|0.0058257 sea|0.005329 shell|0.005329 snow|0.0052933 dark|0.0052819 golden|0.0052819 rod|0.0052819 white|0.005239 floral|0.0050476 white|0.0050476 mint|0.004929 cream|0.004929 ghost|0.0045418 white|0.0045418 azure|0.0040816 tan|0.0040814 alice|0.0036554 blue|0.0036554  ",
+			"after_weights": " Data|1 from|0.92308 McDonnell|0.84615 Douglas|0.76923 Aircraft|0.69231 since|0.61538 1920|0.53846 Vol|0.46154 1|0.38462 11|0.30769 |0.23077 General|0.15385 characteristics|0.076923 Performance|0",
+			"previous_weights": " Data|0 from|0.025 McDonnell|0.05 Douglas|0.075 Aircraft|0.1 since|0.125 1920|0.15 Vol|0.175 1|0.2 1|0.225 |0.25 In|0.275 1933|0.3 landing|0.325 in|0.35 heavy|0.375 seas|0.4 the|0.425 USCG|0.45 RD|0.475 4|0.5 undertook|0.525 some|0.55 rescues|0.575 of|0.6 merchant|0.625 sailors|0.65 at|0.675 sea|0.7 feats|0.725 that|0.75 made|0.775 spectacular|0.8 news|0.825 reports|0.85 enthralling|0.875 the|0.9 American|0.925 public|0.95 10|0.975 |1"
+		}
+	}
+}

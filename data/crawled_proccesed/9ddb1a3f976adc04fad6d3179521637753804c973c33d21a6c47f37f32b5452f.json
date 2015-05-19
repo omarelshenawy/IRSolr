@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ddb1a3f976adc04fad6d3179521637753804c973c33d21a6c47f37f32b5452f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1981_event_Australian_aboriginals.jpg/220px-1981_event_Australian_aboriginals.jpg",
+			"previous": " ",
+			"after": " There are a large number of tribal divisions and language groups in Aboriginal Australia and correspondingly a wide variety of diversity exists within cultural practices However there are some similarities between cultures ",
+			"color": "black|0.4005 rosy|0.12806 brown|0.12806 misty|0.05898 rose|0.05898 gray|0.049707 grey|0.049707 dim|0.04892 gray|0.04892 dim|0.04892 grey|0.04892 dark|0.042729 gray|0.042729 dark|0.042729 grey|0.042729 thistle|0.02943 lavender|0.023517 blush|0.023517 gainsboro|0.023296 light|0.022246 gray|0.022246 light|0.022246 grey|0.022246 silver|0.020742 sea|0.014837 shell|0.014837 linen|0.014792 white|0.013743 smoke|0.013743 snow|0.013087 ghost|0.011649 white|0.011649 white|0.0088519 pink|0.0087863  ",
+			"after_weights": " There|1 are|0.96875 a|0.9375 large|0.90625 number|0.875 of|0.84375 tribal|0.8125 divisions|0.78125 and|0.75 language|0.71875 groups|0.6875 in|0.65625 Aboriginal|0.625 Australia|0.59375 and|0.5625 correspondingly|0.53125 a|0.5 wide|0.46875 variety|0.4375 of|0.40625 diversity|0.375 exists|0.34375 within|0.3125 cultural|0.28125 practices|0.25 However|0.21875 there|0.1875 are|0.15625 some|0.125 similarities|0.09375 between|0.0625 cultures|0.03125 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cba443143f1f7dab8133b1a575ff1975f69ee27bd1bb94c6f348a2722a1a16b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Qatar_Airways_A330_%283562883557%29.jpg/220px-Qatar_Airways_A330_%283562883557%29.jpg",
+			"previous": " Passenger numbers at Manchester peaked in 2006 when over 22 4 million passed through the airport In 2014 around 22 million passengers used the airport an increase of 6 compared with 2013 making Manchester the third busiest airport in the UK in terms of annual passenger throughput 3 ",
+			"after": " ",
+			"color": "dark|0.27078 gray|0.27078 dark|0.27078 grey|0.27078 light|0.1428 slate|0.1428 gray|0.1428 black|0.11586 gray|0.091774 grey|0.091774 dim|0.081969 gray|0.081969 dim|0.081969 grey|0.081969 slate|0.075527 gray|0.075527 silver|0.059617 dark|0.057516 olive|0.057516 green|0.057516 light|0.028998 gray|0.028998 light|0.028998 grey|0.028998 gainsboro|0.020245  ",
+			"after_weights": " ",
+			"previous_weights": " Passenger|0 numbers|0.020833 at|0.041667 Manchester|0.0625 peaked|0.083333 in|0.10417 2006|0.125 when|0.14583 over|0.16667 22|0.1875 4|0.20833 million|0.22917 passed|0.25 through|0.27083 the|0.29167 airport|0.3125 In|0.33333 2014|0.35417 around|0.375 22|0.39583 million|0.41667 passengers|0.4375 used|0.45833 the|0.47917 airport|0.5 an|0.52083 increase|0.54167 of|0.5625 6|0.58333 compared|0.60417 with|0.625 2013|0.64583 making|0.66667 Manchester|0.6875 the|0.70833 third|0.72917 busiest|0.75 airport|0.77083 in|0.79167 the|0.8125 UK|0.83333 in|0.85417 terms|0.875 of|0.89583 annual|0.91667 passenger|0.9375 throughput|0.95833 3|0.97917 |1"
+		}
+	}
+}

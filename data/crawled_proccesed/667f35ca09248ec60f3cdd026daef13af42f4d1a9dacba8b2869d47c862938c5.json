@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "667f35ca09248ec60f3cdd026daef13af42f4d1a9dacba8b2869d47c862938c5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/HepC_replication.png/220px-HepC_replication.png",
+			"previous": " ",
+			"after": " When a virus infects a cell the virus forces it to make thousands more viruses It does this by making the cell copy the virus s DNA or RNA making viral proteins which all assemble to form new virus particles 31 ",
+			"color": "powder|0.244 blue|0.244 light|0.24347 blue|0.24347 dark|0.0398 gray|0.0398 dark|0.0398 grey|0.0398 silver|0.03202 white|0.031571 smoke|0.031571 sea|0.029923 shell|0.029923 snow|0.029526 ghost|0.029402 white|0.029402 alice|0.029315 blue|0.029315 white|0.028777 floral|0.028318 white|0.028318 mint|0.028017 cream|0.028017 lavender|0.027258 blush|0.027258 azure|0.026652 pale|0.024195 turquoise|0.024195 gray|0.023947 grey|0.023947 light|0.022864 gray|0.022864 light|0.022864 grey|0.022864 gainsboro|0.016 dim|0.015471 gray|0.015471 dim|0.015471 grey|0.015471 dark|0.0079356 sea|0.0079356 green|0.0079356 rosy|0.0074555 brown|0.0074555 linen|0.0049719 dark|0.0048153 slate|0.0048153 gray|0.0048153 light|0.003854 cyan|0.003854 sea|0.0034352 green|0.0034352  ",
+			"after_weights": " When|1 a|0.97561 virus|0.95122 infects|0.92683 a|0.90244 cell|0.87805 the|0.85366 virus|0.82927 forces|0.80488 it|0.78049 to|0.7561 make|0.73171 thousands|0.70732 more|0.68293 viruses|0.65854 It|0.63415 does|0.60976 this|0.58537 by|0.56098 making|0.53659 the|0.5122 cell|0.4878 copy|0.46341 the|0.43902 virus|0.41463 s|0.39024 DNA|0.36585 or|0.34146 RNA|0.31707 making|0.29268 viral|0.26829 proteins|0.2439 which|0.21951 all|0.19512 assemble|0.17073 to|0.14634 form|0.12195 new|0.097561 virus|0.073171 particles|0.04878 31|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

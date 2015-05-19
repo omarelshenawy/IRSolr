@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "478274852e0929a8355fa6d253847b505e810517754ee5bc90382902c5ec8fb7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Remesdemo.png",
+			"previous": " The graph below shows an example of this producing a fourth degree polynomial approximating over 1 1 The test points were set at 1 0 7 0 1 0 4 0 9 and 1 Those values are shown in green The resultant value of is 4 43 x 10 4",
+			"after": " Note that the error graph does indeed take on the values at the six test points including the end points but that those points are not extrema If the four interior test points had been extrema that is the function P x f x had maxima or minima there the polynomial would be optimal ",
+			"color": "black|0.19355 lime|0.16774 green|0.16774 gray|0.10726 grey|0.10726 dim|0.08629 gray|0.08629 dim|0.08629 grey|0.08629 light|0.064247 coral|0.064247 dark|0.05 green|0.05 maroon|0.033065 light|0.025806 green|0.025806 pink|0.020161 misty|0.018973 rose|0.018973 indian|0.016667 red|0.016667 brown|0.016129 light|0.015323 pink|0.015323 salmon|0.014247 firebrick|0.012097 dark|0.01129 red|0.01129 lavender|0.011146 blush|0.011146 sea|0.0091212 shell|0.0091212 white|0.0089868 smoke|0.0089868 green|0.008871 snow|0.0085567 honeydew|0.0080914 rosy|0.0080645 brown|0.0080645 forest|0.0072581 green|0.0072581  ",
+			"after_weights": " Note|1 that|0.98148 the|0.96296 error|0.94444 graph|0.92593 does|0.90741 indeed|0.88889 take|0.87037 on|0.85185 the|0.83333 values|0.81481 at|0.7963 the|0.77778 six|0.75926 test|0.74074 points|0.72222 including|0.7037 the|0.68519 end|0.66667 points|0.64815 but|0.62963 that|0.61111 those|0.59259 points|0.57407 are|0.55556 not|0.53704 extrema|0.51852 If|0.5 the|0.48148 four|0.46296 interior|0.44444 test|0.42593 points|0.40741 had|0.38889 been|0.37037 extrema|0.35185 that|0.33333 is|0.31481 the|0.2963 function|0.27778 P|0.25926 x|0.24074 f|0.22222 x|0.2037 had|0.18519 maxima|0.16667 or|0.14815 minima|0.12963 there|0.11111 the|0.092593 polynomial|0.074074 would|0.055556 be|0.037037 optimal|0.018519 |0",
+			"previous_weights": " The|0 graph|0.020408 below|0.040816 shows|0.061224 an|0.081633 example|0.10204 of|0.12245 this|0.14286 producing|0.16327 a|0.18367 fourth|0.20408 degree|0.22449 polynomial|0.2449 approximating|0.26531 over|0.28571 1|0.30612 1|0.32653 The|0.34694 test|0.36735 points|0.38776 were|0.40816 set|0.42857 at|0.44898 1|0.46939 0|0.4898 7|0.5102 0|0.53061 1|0.55102 0|0.57143 4|0.59184 0|0.61224 9|0.63265 and|0.65306 1|0.67347 Those|0.69388 values|0.71429 are|0.73469 shown|0.7551 in|0.77551 green|0.79592 The|0.81633 resultant|0.83673 value|0.85714 of|0.87755 is|0.89796 4|0.91837 43|0.93878 x|0.95918 10|0.97959 4|1"
+		}
+	}
+}

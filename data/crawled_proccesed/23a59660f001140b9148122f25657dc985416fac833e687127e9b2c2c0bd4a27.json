@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "23a59660f001140b9148122f25657dc985416fac833e687127e9b2c2c0bd4a27",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/EF-10B_VMCJ-2_Vietnam_NAN11-66.jpg/220px-EF-10B_VMCJ-2_Vietnam_NAN11-66.jpg",
+			"previous": " The company was formed from the firms of James Smith McDonnell and Donald Wills Douglas in 1967 Both men were of Scottish ancestry graduates of MIT and had worked for the aircraft manufacturer Glenn L Martin Company 3 ",
+			"after": " Douglas had been chief engineer at Martin before leaving to establish Davis Douglas Company in early 1920 in Los Angeles He bought out his backer and renamed the firm the Douglas Aircraft Company in 1921 4 ",
+			"color": "dim|0.79428 gray|0.79428 dim|0.79428 grey|0.79428 gray|0.17839 grey|0.17839 dark|0.02289 gray|0.02289 dark|0.02289 grey|0.02289  ",
+			"after_weights": " Douglas|1 had|0.97222 been|0.94444 chief|0.91667 engineer|0.88889 at|0.86111 Martin|0.83333 before|0.80556 leaving|0.77778 to|0.75 establish|0.72222 Davis|0.69444 Douglas|0.66667 Company|0.63889 in|0.61111 early|0.58333 1920|0.55556 in|0.52778 Los|0.5 Angeles|0.47222 He|0.44444 bought|0.41667 out|0.38889 his|0.36111 backer|0.33333 and|0.30556 renamed|0.27778 the|0.25 firm|0.22222 the|0.19444 Douglas|0.16667 Aircraft|0.13889 Company|0.11111 in|0.083333 1921|0.055556 4|0.027778 |0",
+			"previous_weights": " The|0 company|0.026316 was|0.052632 formed|0.078947 from|0.10526 the|0.13158 firms|0.15789 of|0.18421 James|0.21053 Smith|0.23684 McDonnell|0.26316 and|0.28947 Donald|0.31579 Wills|0.34211 Douglas|0.36842 in|0.39474 1967|0.42105 Both|0.44737 men|0.47368 were|0.5 of|0.52632 Scottish|0.55263 ancestry|0.57895 graduates|0.60526 of|0.63158 MIT|0.65789 and|0.68421 had|0.71053 worked|0.73684 for|0.76316 the|0.78947 aircraft|0.81579 manufacturer|0.84211 Glenn|0.86842 L|0.89474 Martin|0.92105 Company|0.94737 3|0.97368 |1"
+		}
+	}
+}

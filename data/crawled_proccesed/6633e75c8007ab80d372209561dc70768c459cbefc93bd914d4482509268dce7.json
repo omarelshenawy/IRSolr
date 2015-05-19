@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6633e75c8007ab80d372209561dc70768c459cbefc93bd914d4482509268dce7",
+			"url": "https://upload.wikimedia.org/math/8/a/b/8ab1e7b91ff9cd9a6523a530635bfb1e.png",
+			"previous": " A quadric or quadric surface is a 2 dimensional surface in 3 dimensional space defined as the locus of zeros of a quadratic polynomial In coordinates x1 x2 x3 the general quadric is defined by the algebraic equation 21 ",
+			"after": " Quadric surfaces include ellipsoids including the sphere paraboloids hyperboloids cylinders cones and planes ",
+			"color": "dim|0.36294 gray|0.36294 dim|0.36294 grey|0.36294 gray|0.28446 grey|0.28446 dark|0.19557 gray|0.19557 dark|0.19557 grey|0.19557 silver|0.087145 light|0.035453 gray|0.035453 light|0.035453 grey|0.035453 gainsboro|0.023874 white|0.0033876 smoke|0.0033876  ",
+			"after_weights": " Quadric|1 surfaces|0.92308 include|0.84615 ellipsoids|0.76923 including|0.69231 the|0.61538 sphere|0.53846 paraboloids|0.46154 hyperboloids|0.38462 cylinders|0.30769 cones|0.23077 and|0.15385 planes|0.076923 |0",
+			"previous_weights": " A|0 quadric|0.025641 or|0.051282 quadric|0.076923 surface|0.10256 is|0.12821 a|0.15385 2|0.17949 dimensional|0.20513 surface|0.23077 in|0.25641 3|0.28205 dimensional|0.30769 space|0.33333 defined|0.35897 as|0.38462 the|0.41026 locus|0.4359 of|0.46154 zeros|0.48718 of|0.51282 a|0.53846 quadratic|0.5641 polynomial|0.58974 In|0.61538 coordinates|0.64103 x1|0.66667 x2|0.69231 x3|0.71795 the|0.74359 general|0.76923 quadric|0.79487 is|0.82051 defined|0.84615 by|0.87179 the|0.89744 algebraic|0.92308 equation|0.94872 21|0.97436 |1"
+		}
+	}
+}

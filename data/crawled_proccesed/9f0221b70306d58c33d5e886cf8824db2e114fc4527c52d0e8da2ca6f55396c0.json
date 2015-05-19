@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f0221b70306d58c33d5e886cf8824db2e114fc4527c52d0e8da2ca6f55396c0",
+			"url": "https://upload.wikimedia.org/math/4/c/c/4cc19d3a24406a226f5cce180d64e558.png",
+			"previous": " with In order to illustrate this process consider the problem of finding the extremal function y f x which is the shortest curve that connects two points x1 y1 and x2 y2 The arc length of the curve is given by",
+			"after": " The Euler Lagrange equation will now be used to find the extremal function f x that minimizes the functional A y  with",
+			"color": "black|0.29484 dim|0.28136 gray|0.28136 dim|0.28136 grey|0.28136 gray|0.19622 grey|0.19622 dark|0.12308 gray|0.12308 dark|0.12308 grey|0.12308 silver|0.051921 light|0.025021 gray|0.025021 light|0.025021 grey|0.025021 gainsboro|0.017272  ",
+			"after_weights": " The|1 Euler|0.95455 Lagrange|0.90909 equation|0.86364 will|0.81818 now|0.77273 be|0.72727 used|0.68182 to|0.63636 find|0.59091 the|0.54545 extremal|0.5 function|0.45455 f|0.40909 x|0.36364 that|0.31818 minimizes|0.27273 the|0.22727 functional|0.18182 A|0.13636 y|0.090909 |0.045455 with|0",
+			"previous_weights": " with|0 In|0.025 order|0.05 to|0.075 illustrate|0.1 this|0.125 process|0.15 consider|0.175 the|0.2 problem|0.225 of|0.25 finding|0.275 the|0.3 extremal|0.325 function|0.35 y|0.375 f|0.4 x|0.425 which|0.45 is|0.475 the|0.5 shortest|0.525 curve|0.55 that|0.575 connects|0.6 two|0.625 points|0.65 x1|0.675 y1|0.7 and|0.725 x2|0.75 y2|0.775 The|0.8 arc|0.825 length|0.85 of|0.875 the|0.9 curve|0.925 is|0.95 given|0.975 by|1"
+		}
+	}
+}

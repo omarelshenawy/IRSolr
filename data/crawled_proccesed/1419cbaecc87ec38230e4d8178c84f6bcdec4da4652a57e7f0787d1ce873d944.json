@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1419cbaecc87ec38230e4d8178c84f6bcdec4da4652a57e7f0787d1ce873d944",
+			"url": "https://upload.wikimedia.org/math/f/6/b/f6b3e0d386a1a9a80337d70868cb7199.png",
+			"previous": " The solution of the logistic map when r 2 is where the initial condition parameter is given by For rational after a finite number of iterations maps into a periodic sequence But almost all are irrational and for irrational never repeats itself it is non periodic and exhibits sensitive dependence on initial conditions so it is said to be chaotic ",
+			"after": " for Since for any value of other than the unstable fixed point 0 the term goes to 0 as n goes to infinity so goes to the stable fixed point",
+			"color": "dim|0.40534 gray|0.40534 dim|0.40534 grey|0.40534 gray|0.27182 grey|0.27182 dark|0.1709 gray|0.1709 dark|0.1709 grey|0.1709 silver|0.078508 light|0.036237 gray|0.036237 light|0.036237 grey|0.036237 gainsboro|0.025179 white|0.00334 smoke|0.00334  ",
+			"after_weights": " for|1 Since|0.96552 for|0.93103 any|0.89655 value|0.86207 of|0.82759 other|0.7931 than|0.75862 the|0.72414 unstable|0.68966 fixed|0.65517 point|0.62069 0|0.58621 the|0.55172 term|0.51724 goes|0.48276 to|0.44828 0|0.41379 as|0.37931 n|0.34483 goes|0.31034 to|0.27586 infinity|0.24138 so|0.2069 goes|0.17241 to|0.13793 the|0.10345 stable|0.068966 fixed|0.034483 point|0",
+			"previous_weights": " The|0 solution|0.016667 of|0.033333 the|0.05 logistic|0.066667 map|0.083333 when|0.1 r|0.11667 2|0.13333 is|0.15 where|0.16667 the|0.18333 initial|0.2 condition|0.21667 parameter|0.23333 is|0.25 given|0.26667 by|0.28333 For|0.3 rational|0.31667 after|0.33333 a|0.35 finite|0.36667 number|0.38333 of|0.4 iterations|0.41667 maps|0.43333 into|0.45 a|0.46667 periodic|0.48333 sequence|0.5 But|0.51667 almost|0.53333 all|0.55 are|0.56667 irrational|0.58333 and|0.6 for|0.61667 irrational|0.63333 never|0.65 repeats|0.66667 itself|0.68333 it|0.7 is|0.71667 non|0.73333 periodic|0.75 and|0.76667 exhibits|0.78333 sensitive|0.8 dependence|0.81667 on|0.83333 initial|0.85 conditions|0.86667 so|0.88333 it|0.9 is|0.91667 said|0.93333 to|0.95 be|0.96667 chaotic|0.98333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "69a95b4705e67b037d1459248e6b1b5fad45a356b49e9ac1d67e4c22c6af471f",
+			"url": "https://upload.wikimedia.org/math/5/f/5/5f558fa7e9b1567daca23dc3433f5cec.png",
+			"previous": " where",
+			"after": " According to Kepler s third law has the same value for all the planets So the inverse square law for planetary accelerations applies throughout the entire solar system  The inverse square law is a differential equation The solutions to this differential equation include the Keplerian motions as shown but they also include motions where the orbit is a hyperbola or parabola or a straight line See Kepler orbit ",
+			"color": " ",
+			"after_weights": " According|1 to|0.98551 Kepler|0.97101 s|0.95652 third|0.94203 law|0.92754 has|0.91304 the|0.89855 same|0.88406 value|0.86957 for|0.85507 all|0.84058 the|0.82609 planets|0.81159 So|0.7971 the|0.78261 inverse|0.76812 square|0.75362 law|0.73913 for|0.72464 planetary|0.71014 accelerations|0.69565 applies|0.68116 throughout|0.66667 the|0.65217 entire|0.63768 solar|0.62319 system|0.6087 |0.5942 The|0.57971 inverse|0.56522 square|0.55072 law|0.53623 is|0.52174 a|0.50725 differential|0.49275 equation|0.47826 The|0.46377 solutions|0.44928 to|0.43478 this|0.42029 differential|0.4058 equation|0.3913 include|0.37681 the|0.36232 Keplerian|0.34783 motions|0.33333 as|0.31884 shown|0.30435 but|0.28986 they|0.27536 also|0.26087 include|0.24638 motions|0.23188 where|0.21739 the|0.2029 orbit|0.18841 is|0.17391 a|0.15942 hyperbola|0.14493 or|0.13043 parabola|0.11594 or|0.10145 a|0.086957 straight|0.072464 line|0.057971 See|0.043478 Kepler|0.028986 orbit|0.014493 |0",
+			"previous_weights": " where|1"
+		}
+	}
+}

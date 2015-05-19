@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "19ce24f10c3cc1f94b91fdb5357c5c2ace4de6151f4fa0658a5d561311ef9769",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/New_Meadowlands_Stadium_Mezz_Corner.jpg/220px-New_Meadowlands_Stadium_Mezz_Corner.jpg",
+			"previous": " ",
+			"after": " New Jersey currently has four teams from major professional sports leagues playing in the state although the Major League Soccer team and two National Football League teams identify themselves as being from New York ",
+			"color": "black|0.31803 dark|0.16845 olive|0.16845 green|0.16845 dark|0.13231 gray|0.13231 dark|0.13231 grey|0.13231 gray|0.087128 grey|0.087128 dim|0.078556 gray|0.078556 dim|0.078556 grey|0.078556 silver|0.053526 light|0.027031 gray|0.027031 light|0.027031 grey|0.027031 light|0.021358 slate|0.021358 gray|0.021358 slate|0.020866 gray|0.020866 gainsboro|0.019722 white|0.007677 smoke|0.007677 sea|0.0053531 shell|0.0053531 snow|0.0051648 mint|0.0051367 cream|0.0051367 alice|0.0050618 blue|0.0050618 ghost|0.0049914 white|0.0049914 floral|0.0048759 white|0.0048759 white|0.0048369 azure|0.0041006  ",
+			"after_weights": " New|1 Jersey|0.97059 currently|0.94118 has|0.91176 four|0.88235 teams|0.85294 from|0.82353 major|0.79412 professional|0.76471 sports|0.73529 leagues|0.70588 playing|0.67647 in|0.64706 the|0.61765 state|0.58824 although|0.55882 the|0.52941 Major|0.5 League|0.47059 Soccer|0.44118 team|0.41176 and|0.38235 two|0.35294 National|0.32353 Football|0.29412 League|0.26471 teams|0.23529 identify|0.20588 themselves|0.17647 as|0.14706 being|0.11765 from|0.088235 New|0.058824 York|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

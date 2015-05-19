@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77f6fd35625545c0d1c83a8c50c1c0a0fbe373c5e23feb58b80bdd6ee7283730",
+			"url": "https://upload.wikimedia.org/math/f/a/4/fa4939151fd3bb668d15d5244701b1b5.png",
+			"previous": " The acceleration of solar system body number i is according to Newton s laws ",
+			"after": " where is the mass of body j is the distance between body i and body j is the unit vector from body i towards body j and the vector summation is over all bodies in the world besides i itself ",
+			"color": "black|0.32154 dim|0.24092 gray|0.24092 dim|0.24092 grey|0.24092 gray|0.22646 grey|0.22646 dark|0.17059 gray|0.17059 dark|0.17059 grey|0.17059 silver|0.035262 light|0.0047473 gray|0.0047473 light|0.0047473 grey|0.0047473  ",
+			"after_weights": " where|1 is|0.975 the|0.95 mass|0.925 of|0.9 body|0.875 j|0.85 is|0.825 the|0.8 distance|0.775 between|0.75 body|0.725 i|0.7 and|0.675 body|0.65 j|0.625 is|0.6 the|0.575 unit|0.55 vector|0.525 from|0.5 body|0.475 i|0.45 towards|0.425 body|0.4 j|0.375 and|0.35 the|0.325 vector|0.3 summation|0.275 is|0.25 over|0.225 all|0.2 bodies|0.175 in|0.15 the|0.125 world|0.1 besides|0.075 i|0.05 itself|0.025 |0",
+			"previous_weights": " The|0 acceleration|0.071429 of|0.14286 solar|0.21429 system|0.28571 body|0.35714 number|0.42857 i|0.5 is|0.57143 according|0.64286 to|0.71429 Newton|0.78571 s|0.85714 laws|0.92857 |1"
+		}
+	}
+}

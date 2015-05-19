@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45effe4ed0d0652313fe0f124d568d1c1992c146078241cb828d296e62f72e4f",
+			"url": "https://upload.wikimedia.org/math/2/4/3/2431c0dae0448397f09e02e6e2a5dfae.png",
+			"previous": " The Stokes drift was formulated for water waves by George Gabriel Stokes in 1847 For simplicity the case of infinite deep water is considered with linear wave propagation of a sinusoidal wave on the free surface of a fluid layer 7 ",
+			"after": " where",
+			"color": "dim|0.31889 gray|0.31889 dim|0.31889 grey|0.31889 gray|0.21798 grey|0.21798 black|0.19364 dark|0.13764 gray|0.13764 dark|0.13764 grey|0.13764 silver|0.061268 light|0.031509 gray|0.031509 light|0.031509 grey|0.031509 gainsboro|0.022238 white|0.0037721 smoke|0.0037721  ",
+			"after_weights": " where|0",
+			"previous_weights": " The|0 Stokes|0.02439 drift|0.04878 was|0.073171 formulated|0.097561 for|0.12195 water|0.14634 waves|0.17073 by|0.19512 George|0.21951 Gabriel|0.2439 Stokes|0.26829 in|0.29268 1847|0.31707 For|0.34146 simplicity|0.36585 the|0.39024 case|0.41463 of|0.43902 infinite|0.46341 deep|0.4878 water|0.5122 is|0.53659 considered|0.56098 with|0.58537 linear|0.60976 wave|0.63415 propagation|0.65854 of|0.68293 a|0.70732 sinusoidal|0.73171 wave|0.7561 on|0.78049 the|0.80488 free|0.82927 surface|0.85366 of|0.87805 a|0.90244 fluid|0.92683 layer|0.95122 7|0.97561 |1"
+		}
+	}
+}

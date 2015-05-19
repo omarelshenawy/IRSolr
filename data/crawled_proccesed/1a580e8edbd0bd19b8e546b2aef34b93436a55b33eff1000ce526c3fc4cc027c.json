@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a580e8edbd0bd19b8e546b2aef34b93436a55b33eff1000ce526c3fc4cc027c",
+			"url": "https://upload.wikimedia.org/math/0/f/5/0f5145128d41c9f5cde5c0cee88df82c.png",
+			"previous": " Since quaternion multiplication is associative and real numbers commute with other quaternions the norm of a product of quaternions equals the product of the norms ",
+			"after": " For any It follows easily that is a unit in the ring of Hurwitz quaternions if and only if ",
+			"color": "dim|0.3127 gray|0.3127 dim|0.3127 grey|0.3127 gray|0.29122 grey|0.29122 dark|0.20649 gray|0.20649 dark|0.20649 grey|0.20649 silver|0.094042 light|0.044442 gray|0.044442 light|0.044442 grey|0.044442 gainsboro|0.027628 white|0.0058367 smoke|0.0058367 linen|0.0030507  ",
+			"after_weights": " For|1 any|0.94737 It|0.89474 follows|0.84211 easily|0.78947 that|0.73684 is|0.68421 a|0.63158 unit|0.57895 in|0.52632 the|0.47368 ring|0.42105 of|0.36842 Hurwitz|0.31579 quaternions|0.26316 if|0.21053 and|0.15789 only|0.10526 if|0.052632 |0",
+			"previous_weights": " Since|0 quaternion|0.04 multiplication|0.08 is|0.12 associative|0.16 and|0.2 real|0.24 numbers|0.28 commute|0.32 with|0.36 other|0.4 quaternions|0.44 the|0.48 norm|0.52 of|0.56 a|0.6 product|0.64 of|0.68 quaternions|0.72 equals|0.76 the|0.8 product|0.84 of|0.88 the|0.92 norms|0.96 |1"
+		}
+	}
+}

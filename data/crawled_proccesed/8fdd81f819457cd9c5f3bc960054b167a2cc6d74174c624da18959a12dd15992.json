@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fdd81f819457cd9c5f3bc960054b167a2cc6d74174c624da18959a12dd15992",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Protesters_with_poster_of_ousted_President_Morsi_in_Maadi-Cairo_20-Sep-2013.jpg/220px-Protesters_with_poster_of_ousted_President_Morsi_in_Maadi-Cairo_20-Sep-2013.jpg",
+			"previous": " ",
+			"after": " On 30 June 2013 tens of thousands of people rallied across Egypt calling for President Morsi s resignation from office 153 Concurrently with these anti Morsi demonstrations his supporters held a sit in in Rabaa Al Adawiya square 154 ",
+			"color": "black|0.23269 dark|0.20139 gray|0.20139 dark|0.20139 grey|0.20139 dim|0.16092 gray|0.16092 dim|0.16092 grey|0.16092 gray|0.11789 grey|0.11789 slate|0.10667 gray|0.10667 light|0.085429 slate|0.085429 gray|0.085429 silver|0.030465 dark|0.025633 khaki|0.025633 light|0.009566 steel|0.009566 blue|0.009566  ",
+			"after_weights": " On|1 30|0.97436 June|0.94872 2013|0.92308 tens|0.89744 of|0.87179 thousands|0.84615 of|0.82051 people|0.79487 rallied|0.76923 across|0.74359 Egypt|0.71795 calling|0.69231 for|0.66667 President|0.64103 Morsi|0.61538 s|0.58974 resignation|0.5641 from|0.53846 office|0.51282 153|0.48718 Concurrently|0.46154 with|0.4359 these|0.41026 anti|0.38462 Morsi|0.35897 demonstrations|0.33333 his|0.30769 supporters|0.28205 held|0.25641 a|0.23077 sit|0.20513 in|0.17949 in|0.15385 Rabaa|0.12821 Al|0.10256 Adawiya|0.076923 square|0.051282 154|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

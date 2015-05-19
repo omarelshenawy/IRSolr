@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ea944ee5f1269cb963ab2a4c454678472e3dc2cf985ab7c6b2746eb6b2c914f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/200px-LampFlowchart.svg.png",
+			"previous": " ",
+			"after": " In mathematics computing linguistics and related disciplines an algorithm is a type of effective method in which a definite list of well defined instructions for completing a task when given an initial state will proceed through a well defined series of successive states eventually terminating in an end state The transition from one state to the next is not necessarily deterministic some algorithms known as probabilistic algorithms incorporate randomness ",
+			"color": "light|0.84155 green|0.84155 dark|0.052816 khaki|0.052816 dim|0.038891 gray|0.038891 dim|0.038891 grey|0.038891 khaki|0.032205 gray|0.021776 grey|0.021776 black|0.010858  ",
+			"after_weights": " In|1 mathematics|0.98551 computing|0.97101 linguistics|0.95652 and|0.94203 related|0.92754 disciplines|0.91304 an|0.89855 algorithm|0.88406 is|0.86957 a|0.85507 type|0.84058 of|0.82609 effective|0.81159 method|0.7971 in|0.78261 which|0.76812 a|0.75362 definite|0.73913 list|0.72464 of|0.71014 well|0.69565 defined|0.68116 instructions|0.66667 for|0.65217 completing|0.63768 a|0.62319 task|0.6087 when|0.5942 given|0.57971 an|0.56522 initial|0.55072 state|0.53623 will|0.52174 proceed|0.50725 through|0.49275 a|0.47826 well|0.46377 defined|0.44928 series|0.43478 of|0.42029 successive|0.4058 states|0.3913 eventually|0.37681 terminating|0.36232 in|0.34783 an|0.33333 end|0.31884 state|0.30435 The|0.28986 transition|0.27536 from|0.26087 one|0.24638 state|0.23188 to|0.21739 the|0.2029 next|0.18841 is|0.17391 not|0.15942 necessarily|0.14493 deterministic|0.13043 some|0.11594 algorithms|0.10145 known|0.086957 as|0.072464 probabilistic|0.057971 algorithms|0.043478 incorporate|0.028986 randomness|0.014493 |0",
+			"previous_weights": " "
+		}
+	}
+}

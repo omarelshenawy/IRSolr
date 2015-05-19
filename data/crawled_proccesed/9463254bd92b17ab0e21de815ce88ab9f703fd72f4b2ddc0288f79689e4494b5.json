@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9463254bd92b17ab0e21de815ce88ab9f703fd72f4b2ddc0288f79689e4494b5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Beijing_Capital_International_Airport_T1%26T2_Passage_20120915.JPG/220px-Beijing_Capital_International_Airport_T1%26T2_Passage_20120915.JPG",
+			"previous": " ",
+			"after": " Notes 1 MIAT Mongolian flights make Beijing as an intermediate stop en route to and or from Singapore however it does not have the traffic rights to carry passengers solely between Beijing and Singapore ",
+			"color": "dim|0.24977 gray|0.24977 dim|0.24977 grey|0.24977 black|0.18929 gray|0.11302 grey|0.11302 dark|0.088607 gray|0.088607 dark|0.088607 grey|0.088607 slate|0.083154 gray|0.083154 light|0.070521 slate|0.070521 gray|0.070521 silver|0.042788 light|0.038744 steel|0.038744 blue|0.038744 dark|0.036176 slate|0.036176 gray|0.036176 light|0.021511 gray|0.021511 light|0.021511 grey|0.021511 gainsboro|0.014815 lavender|0.0073071 light|0.0071311 blue|0.0071311 alice|0.0058041 blue|0.0058041 white|0.0046436 smoke|0.0046436  ",
+			"after_weights": " Notes|1 1|0.97059 MIAT|0.94118 Mongolian|0.91176 flights|0.88235 make|0.85294 Beijing|0.82353 as|0.79412 an|0.76471 intermediate|0.73529 stop|0.70588 en|0.67647 route|0.64706 to|0.61765 and|0.58824 or|0.55882 from|0.52941 Singapore|0.5 however|0.47059 it|0.44118 does|0.41176 not|0.38235 have|0.35294 the|0.32353 traffic|0.29412 rights|0.26471 to|0.23529 carry|0.20588 passengers|0.17647 solely|0.14706 between|0.11765 Beijing|0.088235 and|0.058824 Singapore|0.029412 |0",
+			"previous_weights": " "
+		}
+	}
+}

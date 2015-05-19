@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15b1d5554b513c6132ce9590eb16c2335691f13dd6fc1d64552cc9664f90b0f7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Passengers_in_Amtrak_lounge_car_of_San_Joaquin_%28train%29_2014.jpg/220px-Passengers_in_Amtrak_lounge_car_of_San_Joaquin_%28train%29_2014.jpg",
+			"previous": " ",
+			"after": " A passenger also abbreviated as pax 1 is a person who travels in a vehicle but bears little or no responsibility for the tasks required for that vehicle to arrive at its destination or otherwise operate the vehicle ",
+			"color": "black|0.33487 gray|0.17394 grey|0.17394 dim|0.15612 gray|0.15612 dim|0.15612 grey|0.15612 dark|0.109 gray|0.109 dark|0.109 grey|0.109 light|0.028364 slate|0.028364 gray|0.028364 silver|0.026093 slate|0.024423 gray|0.024423 dark|0.018925 slate|0.018925 gray|0.018925 peach|0.011044 puff|0.011044 light|0.010964 gray|0.010964 light|0.010964 grey|0.010964 tan|0.0084602 rosy|0.0080485 brown|0.0080485 gainsboro|0.0071409 sienna|0.0061374 light|0.0060752 steel|0.0060752 blue|0.0060752 light|0.0058784 blue|0.0058784  ",
+			"after_weights": " A|1 passenger|0.97368 also|0.94737 abbreviated|0.92105 as|0.89474 pax|0.86842 1|0.84211 is|0.81579 a|0.78947 person|0.76316 who|0.73684 travels|0.71053 in|0.68421 a|0.65789 vehicle|0.63158 but|0.60526 bears|0.57895 little|0.55263 or|0.52632 no|0.5 responsibility|0.47368 for|0.44737 the|0.42105 tasks|0.39474 required|0.36842 for|0.34211 that|0.31579 vehicle|0.28947 to|0.26316 arrive|0.23684 at|0.21053 its|0.18421 destination|0.15789 or|0.13158 otherwise|0.10526 operate|0.078947 the|0.052632 vehicle|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

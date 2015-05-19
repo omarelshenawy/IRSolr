@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "93474fbc16330dda9817882e30efe5d1030e0e3fff5dcdd3c50aceb4f6761b84",
+			"url": "https://upload.wikimedia.org/math/a/5/7/a57e8f3a45b8418f4629175e9990072a.png",
+			"previous": " The construction is also given by Descartes in his La G om trie see figure 2 on page 2 However Descartes made no claim to originality and his audience would have been quite familiar with Euclid ",
+			"after": " Another method of geometric construction uses right triangles and induction 1 can of course be constructed and once x has been constructed the right triangle with 1 and x for its legs has a hypotenuse of x 1 The Spiral of Theodorus is constructed using successive square roots in this manner ",
+			"color": "gray|0.32036 grey|0.32036 dim|0.3021 gray|0.3021 dim|0.3021 grey|0.3021 dark|0.20339 gray|0.20339 dark|0.20339 grey|0.20339 silver|0.083481 light|0.040989 gray|0.040989 light|0.040989 grey|0.040989 gainsboro|0.029146 white|0.0056571 smoke|0.0056571 linen|0.0026396  ",
+			"after_weights": " Another|1 method|0.98039 of|0.96078 geometric|0.94118 construction|0.92157 uses|0.90196 right|0.88235 triangles|0.86275 and|0.84314 induction|0.82353 1|0.80392 can|0.78431 of|0.76471 course|0.7451 be|0.72549 constructed|0.70588 and|0.68627 once|0.66667 x|0.64706 has|0.62745 been|0.60784 constructed|0.58824 the|0.56863 right|0.54902 triangle|0.52941 with|0.5098 1|0.4902 and|0.47059 x|0.45098 for|0.43137 its|0.41176 legs|0.39216 has|0.37255 a|0.35294 hypotenuse|0.33333 of|0.31373 x|0.29412 1|0.27451 The|0.2549 Spiral|0.23529 of|0.21569 Theodorus|0.19608 is|0.17647 constructed|0.15686 using|0.13725 successive|0.11765 square|0.098039 roots|0.078431 in|0.058824 this|0.039216 manner|0.019608 |0",
+			"previous_weights": " The|0 construction|0.027778 is|0.055556 also|0.083333 given|0.11111 by|0.13889 Descartes|0.16667 in|0.19444 his|0.22222 La|0.25 G|0.27778 om|0.30556 trie|0.33333 see|0.36111 figure|0.38889 2|0.41667 on|0.44444 page|0.47222 2|0.5 However|0.52778 Descartes|0.55556 made|0.58333 no|0.61111 claim|0.63889 to|0.66667 originality|0.69444 and|0.72222 his|0.75 audience|0.77778 would|0.80556 have|0.83333 been|0.86111 quite|0.88889 familiar|0.91667 with|0.94444 Euclid|0.97222 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "10d4b8e32661fe434872257eee772ca1ad314742e21cd3b840956b32b53c904e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/B-52_Stratofortress_Takeoff.jpg/220px-B-52_Stratofortress_Takeoff.jpg",
+			"previous": " From 2 to 3 September 1996 two B 52H bombers conducted a mission as part of Operation Desert Strike The B 52s struck Baghdad power stations and communications facilities with 13 AGM 86C conventional air launched cruise missiles CALCM during a 34 hour 16 000 mile round trip mission from Andersen AFB Guam the longest distance ever flown for a combat mission 193 ",
+			"after": " Since the mid 1990s the B 52H has been the only variant remaining in military service Note 7 it is currently stationed at ",
+			"color": "dark|0.65226 olive|0.65226 green|0.65226 dim|0.11277 gray|0.11277 dim|0.11277 grey|0.11277 black|0.06501 gray|0.043602 grey|0.043602 dark|0.030866 gray|0.030866 dark|0.030866 grey|0.030866 silver|0.021113 slate|0.019697 gray|0.019697 light|0.011779 slate|0.011779 gray|0.011779 light|0.011481 gray|0.011481 light|0.011481 grey|0.011481  ",
+			"after_weights": " Since|1 the|0.95652 mid|0.91304 1990s|0.86957 the|0.82609 B|0.78261 52H|0.73913 has|0.69565 been|0.65217 the|0.6087 only|0.56522 variant|0.52174 remaining|0.47826 in|0.43478 military|0.3913 service|0.34783 Note|0.30435 7|0.26087 it|0.21739 is|0.17391 currently|0.13043 stationed|0.086957 at|0.043478 |0",
+			"previous_weights": " From|0 2|0.015873 to|0.031746 3|0.047619 September|0.063492 1996|0.079365 two|0.095238 B|0.11111 52H|0.12698 bombers|0.14286 conducted|0.15873 a|0.1746 mission|0.19048 as|0.20635 part|0.22222 of|0.2381 Operation|0.25397 Desert|0.26984 Strike|0.28571 The|0.30159 B|0.31746 52s|0.33333 struck|0.34921 Baghdad|0.36508 power|0.38095 stations|0.39683 and|0.4127 communications|0.42857 facilities|0.44444 with|0.46032 13|0.47619 AGM|0.49206 86C|0.50794 conventional|0.52381 air|0.53968 launched|0.55556 cruise|0.57143 missiles|0.5873 CALCM|0.60317 during|0.61905 a|0.63492 34|0.65079 hour|0.66667 16|0.68254 000|0.69841 mile|0.71429 round|0.73016 trip|0.74603 mission|0.7619 from|0.77778 Andersen|0.79365 AFB|0.80952 Guam|0.8254 the|0.84127 longest|0.85714 distance|0.87302 ever|0.88889 flown|0.90476 for|0.92063 a|0.93651 combat|0.95238 mission|0.96825 193|0.98413 |1"
+		}
+	}
+}

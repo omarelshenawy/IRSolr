@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8123ba101ed6424a5ebe020c02c2e7b32ae72385d86ee03d9113350f647a0924",
+			"url": "https://upload.wikimedia.org/math/6/b/a/6baa9d077cbfc56820363a70fac393f1.png",
+			"previous": " Different formulas or algorithms may describe the same function For instance f x x 1 x 1 is exactly the same function as f x x2 1 6 Furthermore a function need not be described by a formula expression or algorithm nor need it deal with numbers at all the domain and codomain of a function may be arbitrary sets One example of a function that acts on non numeric inputs takes English words as inputs and returns the first letter of the input word as output ",
+			"after": " ",
+			"color": "dim|0.33501 gray|0.33501 dim|0.33501 grey|0.33501 gray|0.28726 grey|0.28726 dark|0.17684 gray|0.17684 dark|0.17684 grey|0.17684 silver|0.087444 light|0.049238 gray|0.049238 light|0.049238 grey|0.049238 gainsboro|0.036119 white|0.0061716 smoke|0.0061716 linen|0.0031822 lavender|0.0031118 blush|0.0031118 alice|0.0030524 blue|0.0030524 ghost|0.0029041 white|0.0029041 sea|0.0027345 shell|0.0027345  ",
+			"after_weights": " ",
+			"previous_weights": " Different|0 formulas|0.011494 or|0.022989 algorithms|0.034483 may|0.045977 describe|0.057471 the|0.068966 same|0.08046 function|0.091954 For|0.10345 instance|0.11494 f|0.12644 x|0.13793 x|0.14943 1|0.16092 x|0.17241 1|0.18391 is|0.1954 exactly|0.2069 the|0.21839 same|0.22989 function|0.24138 as|0.25287 f|0.26437 x|0.27586 x2|0.28736 1|0.29885 6|0.31034 Furthermore|0.32184 a|0.33333 function|0.34483 need|0.35632 not|0.36782 be|0.37931 described|0.3908 by|0.4023 a|0.41379 formula|0.42529 expression|0.43678 or|0.44828 algorithm|0.45977 nor|0.47126 need|0.48276 it|0.49425 deal|0.50575 with|0.51724 numbers|0.52874 at|0.54023 all|0.55172 the|0.56322 domain|0.57471 and|0.58621 codomain|0.5977 of|0.6092 a|0.62069 function|0.63218 may|0.64368 be|0.65517 arbitrary|0.66667 sets|0.67816 One|0.68966 example|0.70115 of|0.71264 a|0.72414 function|0.73563 that|0.74713 acts|0.75862 on|0.77011 non|0.78161 numeric|0.7931 inputs|0.8046 takes|0.81609 English|0.82759 words|0.83908 as|0.85057 inputs|0.86207 and|0.87356 returns|0.88506 the|0.89655 first|0.90805 letter|0.91954 of|0.93103 the|0.94253 input|0.95402 word|0.96552 as|0.97701 output|0.98851 |1"
+		}
+	}
+}

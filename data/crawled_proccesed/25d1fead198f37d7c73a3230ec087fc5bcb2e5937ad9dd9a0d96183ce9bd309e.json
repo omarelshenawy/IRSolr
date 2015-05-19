@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "25d1fead198f37d7c73a3230ec087fc5bcb2e5937ad9dd9a0d96183ce9bd309e",
+			"url": "https://upload.wikimedia.org/math/a/a/0/aa04c1d7e1076eb1503c8be8a85f07b4.png",
+			"previous": " The bivariate case in terms of variables x and y has the form",
+			"after": " with at least one of a b c not equal to zero and an equation setting this function equal to zero gives rise to a conic section a circle or other ellipse a parabola or a hyperbola ",
+			"color": "black|0.37792 dim|0.25516 gray|0.25516 dim|0.25516 grey|0.25516 gray|0.16852 grey|0.16852 dark|0.10741 gray|0.10741 dark|0.10741 grey|0.10741 silver|0.045728 light|0.021747 gray|0.021747 light|0.021747 grey|0.021747 gainsboro|0.014785  ",
+			"after_weights": " with|1 at|0.97297 least|0.94595 one|0.91892 of|0.89189 a|0.86486 b|0.83784 c|0.81081 not|0.78378 equal|0.75676 to|0.72973 zero|0.7027 and|0.67568 an|0.64865 equation|0.62162 setting|0.59459 this|0.56757 function|0.54054 equal|0.51351 to|0.48649 zero|0.45946 gives|0.43243 rise|0.40541 to|0.37838 a|0.35135 conic|0.32432 section|0.2973 a|0.27027 circle|0.24324 or|0.21622 other|0.18919 ellipse|0.16216 a|0.13514 parabola|0.10811 or|0.081081 a|0.054054 hyperbola|0.027027 |0",
+			"previous_weights": " The|0 bivariate|0.083333 case|0.16667 in|0.25 terms|0.33333 of|0.41667 variables|0.5 x|0.58333 and|0.66667 y|0.75 has|0.83333 the|0.91667 form|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c315f02ab6fd7552366b927680da8be6298651111b37649991a1a714ccd73c8",
+			"url": "https://upload.wikimedia.org/math/e/a/e/eae24db64c2c60c4887643a45b87973b.png",
+			"previous": " and multiplying by 1  Subtracting from each side of the equation  An equivalent for can be deduced by using one of the two equations Using the second equation ",
+			"after": " Using this value in the first equation in the original system  Adding 2 on each side of the equation  which simplifies to",
+			"color": "dim|0.39189 gray|0.39189 dim|0.39189 grey|0.39189 gray|0.27302 grey|0.27302 dark|0.16654 gray|0.16654 dark|0.16654 grey|0.16654 silver|0.081582 light|0.041991 gray|0.041991 light|0.041991 grey|0.041991 gainsboro|0.03032 white|0.0036559 smoke|0.0036559  ",
+			"after_weights": " Using|1 this|0.95652 value|0.91304 in|0.86957 the|0.82609 first|0.78261 equation|0.73913 in|0.69565 the|0.65217 original|0.6087 system|0.56522 |0.52174 Adding|0.47826 2|0.43478 on|0.3913 each|0.34783 side|0.30435 of|0.26087 the|0.21739 equation|0.17391 |0.13043 which|0.086957 simplifies|0.043478 to|0",
+			"previous_weights": " and|0 multiplying|0.033333 by|0.066667 1|0.1 |0.13333 Subtracting|0.16667 from|0.2 each|0.23333 side|0.26667 of|0.3 the|0.33333 equation|0.36667 |0.4 An|0.43333 equivalent|0.46667 for|0.5 can|0.53333 be|0.56667 deduced|0.6 by|0.63333 using|0.66667 one|0.7 of|0.73333 the|0.76667 two|0.8 equations|0.83333 Using|0.86667 the|0.9 second|0.93333 equation|0.96667 |1"
+		}
+	}
+}

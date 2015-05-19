@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9e6791411981156ab19040a7b5665ba2fb8f6b4b5269fe649bec276f9fefa390",
+			"url": "https://upload.wikimedia.org/math/2/7/a/27a246d32035034510b72901c2b148de.png",
+			"previous": " In the above example a solution exists However there are also systems of equations which do not have any solution Such a system is called inconsistent An obvious example is",
+			"after": " As 0 2 the second equation in the system has no solution Therefore the system has no solution However not all inconsistent systems are recognized at first sight As an example let us consider the system",
+			"color": "dim|0.39775 gray|0.39775 dim|0.39775 grey|0.39775 gray|0.28629 grey|0.28629 dark|0.17154 gray|0.17154 dark|0.17154 grey|0.17154 silver|0.069348 light|0.035577 gray|0.035577 light|0.035577 grey|0.035577 gainsboro|0.024811 white|0.0032238 smoke|0.0032238  ",
+			"after_weights": " As|1 0|0.97143 2|0.94286 the|0.91429 second|0.88571 equation|0.85714 in|0.82857 the|0.8 system|0.77143 has|0.74286 no|0.71429 solution|0.68571 Therefore|0.65714 the|0.62857 system|0.6 has|0.57143 no|0.54286 solution|0.51429 However|0.48571 not|0.45714 all|0.42857 inconsistent|0.4 systems|0.37143 are|0.34286 recognized|0.31429 at|0.28571 first|0.25714 sight|0.22857 As|0.2 an|0.17143 example|0.14286 let|0.11429 us|0.085714 consider|0.057143 the|0.028571 system|0",
+			"previous_weights": " In|0 the|0.034483 above|0.068966 example|0.10345 a|0.13793 solution|0.17241 exists|0.2069 However|0.24138 there|0.27586 are|0.31034 also|0.34483 systems|0.37931 of|0.41379 equations|0.44828 which|0.48276 do|0.51724 not|0.55172 have|0.58621 any|0.62069 solution|0.65517 Such|0.68966 a|0.72414 system|0.75862 is|0.7931 called|0.82759 inconsistent|0.86207 An|0.89655 obvious|0.93103 example|0.96552 is|1"
+		}
+	}
+}

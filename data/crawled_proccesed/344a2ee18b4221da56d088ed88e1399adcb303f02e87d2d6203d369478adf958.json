@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "344a2ee18b4221da56d088ed88e1399adcb303f02e87d2d6203d369478adf958",
+			"url": "https://upload.wikimedia.org/math/6/c/7/6c7e7083c339eb66df8be3f3118decb6.png",
+			"previous": " Similarly Bessel s series for in terms of can be reverted to give 22  where Delambre in 1799 9 derived a widely used expansion on the eccentricity squared ",
+			"after": " where Rapp 10 gives a detailed derivation of this result  Series with considerably faster convergence can be obtained by expanding in terms of the third flattening instead of the eccentricity They are related by",
+			"color": "dim|0.43271 gray|0.43271 dim|0.43271 grey|0.43271 gray|0.2728 grey|0.2728 dark|0.16248 gray|0.16248 dark|0.16248 grey|0.16248 silver|0.068342 light|0.02974 gray|0.02974 light|0.02974 grey|0.02974 gainsboro|0.020031 white|0.0033589 smoke|0.0033589  ",
+			"after_weights": " where|1 Rapp|0.97059 10|0.94118 gives|0.91176 a|0.88235 detailed|0.85294 derivation|0.82353 of|0.79412 this|0.76471 result|0.73529 |0.70588 Series|0.67647 with|0.64706 considerably|0.61765 faster|0.58824 convergence|0.55882 can|0.52941 be|0.5 obtained|0.47059 by|0.44118 expanding|0.41176 in|0.38235 terms|0.35294 of|0.32353 the|0.29412 third|0.26471 flattening|0.23529 instead|0.20588 of|0.17647 the|0.14706 eccentricity|0.11765 They|0.088235 are|0.058824 related|0.029412 by|0",
+			"previous_weights": " Similarly|0 Bessel|0.034483 s|0.068966 series|0.10345 for|0.13793 in|0.17241 terms|0.2069 of|0.24138 can|0.27586 be|0.31034 reverted|0.34483 to|0.37931 give|0.41379 22|0.44828 |0.48276 where|0.51724 Delambre|0.55172 in|0.58621 1799|0.62069 9|0.65517 derived|0.68966 a|0.72414 widely|0.75862 used|0.7931 expansion|0.82759 on|0.86207 the|0.89655 eccentricity|0.93103 squared|0.96552 |1"
+		}
+	}
+}

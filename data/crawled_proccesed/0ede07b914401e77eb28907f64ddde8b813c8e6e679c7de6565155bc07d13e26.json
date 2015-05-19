@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ede07b914401e77eb28907f64ddde8b813c8e6e679c7de6565155bc07d13e26",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AW.681.JPG/220px-AW.681.JPG",
+			"previous": " By December 1963 the Medway had successfully completed over 1 700 hours of bench running 3  Another possible application for the Medway was the Saab 37 Viggen but a lack of British government funding was stated as the reason for the cancellation of this order ",
+			"after": " Data from Flight 5 ",
+			"color": "gray|0.68261 grey|0.68261 dim|0.13594 gray|0.13594 dim|0.13594 grey|0.13594 dark|0.11141 gray|0.11141 dark|0.11141 grey|0.11141 black|0.046892 silver|0.015444  ",
+			"after_weights": " Data|1 from|0.75 Flight|0.5 5|0.25 |0",
+			"previous_weights": " By|0 December|0.021739 1963|0.043478 the|0.065217 Medway|0.086957 had|0.1087 successfully|0.13043 completed|0.15217 over|0.17391 1|0.19565 700|0.21739 hours|0.23913 of|0.26087 bench|0.28261 running|0.30435 3|0.32609 |0.34783 Another|0.36957 possible|0.3913 application|0.41304 for|0.43478 the|0.45652 Medway|0.47826 was|0.5 the|0.52174 Saab|0.54348 37|0.56522 Viggen|0.58696 but|0.6087 a|0.63043 lack|0.65217 of|0.67391 British|0.69565 government|0.71739 funding|0.73913 was|0.76087 stated|0.78261 as|0.80435 the|0.82609 reason|0.84783 for|0.86957 the|0.8913 cancellation|0.91304 of|0.93478 this|0.95652 order|0.97826 |1"
+		}
+	}
+}

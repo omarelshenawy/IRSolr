@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b32aba285b9d3982eeeb4badda71ec7566fc771f96bb11e95bbe5f06595201a",
+			"url": "https://upload.wikimedia.org/math/2/7/0/270ccdd52fa08914d6bdcec1ff7c517b.png",
+			"previous": " Solving differential equations is not like solving algebraic equations Not only are their solutions oftentimes unclear but whether solutions are unique or exist at all are also notable subjects of interest ",
+			"after": " However this only helps us with first order initial value problems Suppose we had a linear initial value problem of the nth order ",
+			"color": " ",
+			"after_weights": " However|1 this|0.95652 only|0.91304 helps|0.86957 us|0.82609 with|0.78261 first|0.73913 order|0.69565 initial|0.65217 value|0.6087 problems|0.56522 Suppose|0.52174 we|0.47826 had|0.43478 a|0.3913 linear|0.34783 initial|0.30435 value|0.26087 problem|0.21739 of|0.17391 the|0.13043 nth|0.086957 order|0.043478 |0",
+			"previous_weights": " Solving|0 differential|0.032258 equations|0.064516 is|0.096774 not|0.12903 like|0.16129 solving|0.19355 algebraic|0.22581 equations|0.25806 Not|0.29032 only|0.32258 are|0.35484 their|0.3871 solutions|0.41935 oftentimes|0.45161 unclear|0.48387 but|0.51613 whether|0.54839 solutions|0.58065 are|0.6129 unique|0.64516 or|0.67742 exist|0.70968 at|0.74194 all|0.77419 are|0.80645 also|0.83871 notable|0.87097 subjects|0.90323 of|0.93548 interest|0.96774 |1"
+		}
+	}
+}

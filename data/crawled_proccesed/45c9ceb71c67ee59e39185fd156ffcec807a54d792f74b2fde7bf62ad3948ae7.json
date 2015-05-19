@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45c9ceb71c67ee59e39185fd156ffcec807a54d792f74b2fde7bf62ad3948ae7",
+			"url": "https://upload.wikimedia.org/math/9/8/5/985c6883cc6725f5bff2e365456d57cf.png",
+			"previous": " The z component of each pixel must be chosen to give the minimum value for the information content This will give the most likely depths at each pixel The minimum total information measure is ",
+			"after": " The depth functions for the left and right images are the pair ",
+			"color": "dim|0.42765 gray|0.42765 dim|0.42765 grey|0.42765 gray|0.25137 grey|0.25137 dark|0.14247 gray|0.14247 dark|0.14247 grey|0.14247 black|0.063754 silver|0.057417 light|0.026481 gray|0.026481 light|0.026481 grey|0.026481 gainsboro|0.017995  ",
+			"after_weights": " The|1 depth|0.91667 functions|0.83333 for|0.75 the|0.66667 left|0.58333 and|0.5 right|0.41667 images|0.33333 are|0.25 the|0.16667 pair|0.083333 |0",
+			"previous_weights": " The|0 z|0.029412 component|0.058824 of|0.088235 each|0.11765 pixel|0.14706 must|0.17647 be|0.20588 chosen|0.23529 to|0.26471 give|0.29412 the|0.32353 minimum|0.35294 value|0.38235 for|0.41176 the|0.44118 information|0.47059 content|0.5 This|0.52941 will|0.55882 give|0.58824 the|0.61765 most|0.64706 likely|0.67647 depths|0.70588 at|0.73529 each|0.76471 pixel|0.79412 The|0.82353 minimum|0.85294 total|0.88235 information|0.91176 measure|0.94118 is|0.97059 |1"
+		}
+	}
+}

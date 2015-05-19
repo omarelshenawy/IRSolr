@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42c75dbbcf52d0ceba2dcf5dcb2dc4aea06790fd9efd048eebae8e4de3f9583a",
+			"url": "https://upload.wikimedia.org/math/c/1/7/c1752bc10cb8dfcfd0615603c0bbb188.png",
+			"previous": " Algebra began with computations similar to those of arithmetic with letters standing for numbers 6 This allowed proofs of properties that are true no matter which numbers are involved For example in the quadratic equation",
+			"after": " can be any numbers whatsoever except that cannot be and the quadratic formula can be used to quickly and easily find the value of the unknown quantity ",
+			"color": "black|0.33066 dim|0.26927 gray|0.26927 dim|0.26927 grey|0.26927 gray|0.17741 grey|0.17741 dark|0.11529 gray|0.11529 dark|0.11529 grey|0.11529 silver|0.051975 light|0.026096 gray|0.026096 light|0.026096 grey|0.026096 gainsboro|0.018372  ",
+			"after_weights": " can|1 be|0.96296 any|0.92593 numbers|0.88889 whatsoever|0.85185 except|0.81481 that|0.77778 cannot|0.74074 be|0.7037 and|0.66667 the|0.62963 quadratic|0.59259 formula|0.55556 can|0.51852 be|0.48148 used|0.44444 to|0.40741 quickly|0.37037 and|0.33333 easily|0.2963 find|0.25926 the|0.22222 value|0.18519 of|0.14815 the|0.11111 unknown|0.074074 quantity|0.037037 |0",
+			"previous_weights": " Algebra|0 began|0.029412 with|0.058824 computations|0.088235 similar|0.11765 to|0.14706 those|0.17647 of|0.20588 arithmetic|0.23529 with|0.26471 letters|0.29412 standing|0.32353 for|0.35294 numbers|0.38235 6|0.41176 This|0.44118 allowed|0.47059 proofs|0.5 of|0.52941 properties|0.55882 that|0.58824 are|0.61765 true|0.64706 no|0.67647 matter|0.70588 which|0.73529 numbers|0.76471 are|0.79412 involved|0.82353 For|0.85294 example|0.88235 in|0.91176 the|0.94118 quadratic|0.97059 equation|1"
+		}
+	}
+}

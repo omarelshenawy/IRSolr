@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a60f4a43124ed75a255d9093d5a230ccf958dbd839d08c4b17489a9bc19c830",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Broken_left_forearm_%28Radius_Ulna%29.pdf/page1-220px-Broken_left_forearm_%28Radius_Ulna%29.pdf.jpg",
+			"previous": " ",
+			"after": " A radiograph is an X ray image obtained by placing a part of the patient in front of an X ray detector and then illuminating it with a short X ray pulse Bones contain much calcium which due to its relatively high atomic number absorbs x rays efficiently This reduces the amount of X rays reaching the detector in the shadow of the bones making them clearly visible on the radiograph The lungs and trapped gas also show up clearly because of lower absorption compared to tissue while differences between tissue types are harder to see ",
+			"color": "dim|0.30735 gray|0.30735 dim|0.30735 grey|0.30735 gray|0.24535 grey|0.24535 dark|0.17566 gray|0.17566 dark|0.17566 grey|0.17566 dark|0.11912 slate|0.11912 gray|0.11912 silver|0.081285 light|0.027691 gray|0.027691 light|0.027691 grey|0.027691 gainsboro|0.015522 slate|0.01482 gray|0.01482  ",
+			"after_weights": " A|1 radiograph|0.98958 is|0.97917 an|0.96875 X|0.95833 ray|0.94792 image|0.9375 obtained|0.92708 by|0.91667 placing|0.90625 a|0.89583 part|0.88542 of|0.875 the|0.86458 patient|0.85417 in|0.84375 front|0.83333 of|0.82292 an|0.8125 X|0.80208 ray|0.79167 detector|0.78125 and|0.77083 then|0.76042 illuminating|0.75 it|0.73958 with|0.72917 a|0.71875 short|0.70833 X|0.69792 ray|0.6875 pulse|0.67708 Bones|0.66667 contain|0.65625 much|0.64583 calcium|0.63542 which|0.625 due|0.61458 to|0.60417 its|0.59375 relatively|0.58333 high|0.57292 atomic|0.5625 number|0.55208 absorbs|0.54167 x|0.53125 rays|0.52083 efficiently|0.51042 This|0.5 reduces|0.48958 the|0.47917 amount|0.46875 of|0.45833 X|0.44792 rays|0.4375 reaching|0.42708 the|0.41667 detector|0.40625 in|0.39583 the|0.38542 shadow|0.375 of|0.36458 the|0.35417 bones|0.34375 making|0.33333 them|0.32292 clearly|0.3125 visible|0.30208 on|0.29167 the|0.28125 radiograph|0.27083 The|0.26042 lungs|0.25 and|0.23958 trapped|0.22917 gas|0.21875 also|0.20833 show|0.19792 up|0.1875 clearly|0.17708 because|0.16667 of|0.15625 lower|0.14583 absorption|0.13542 compared|0.125 to|0.11458 tissue|0.10417 while|0.09375 differences|0.083333 between|0.072917 tissue|0.0625 types|0.052083 are|0.041667 harder|0.03125 to|0.020833 see|0.010417 |0",
+			"previous_weights": " "
+		}
+	}
+}

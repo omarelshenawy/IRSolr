@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b83beb0ac18e8d640994b4edf33a5fa28f3fbb097090e72cdf642ce6d22b5ba1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Douglas_Dolphin_at_the_US_National_Museum_of_Naval_Aviation.jpeg/220px-Douglas_Dolphin_at_the_US_National_Museum_of_Naval_Aviation.jpeg",
+			"previous": " Data from McDonnell Douglas Aircraft since 1920 Vol 1 1  In 1933 landing in heavy seas the USCG RD 4 undertook some rescues of merchant sailors at sea feats that made spectacular news reports enthralling the American public 10 ",
+			"after": " ",
+			"color": "black|0.27354 dim|0.21807 gray|0.21807 dim|0.21807 grey|0.21807 gray|0.10678 grey|0.10678 dark|0.045883 gray|0.045883 dark|0.045883 grey|0.045883 slate|0.038324 gray|0.038324 light|0.036942 slate|0.036942 gray|0.036942 tan|0.028998 silver|0.025871 light|0.025076 steel|0.025076 blue|0.025076 light|0.023482 gray|0.023482 light|0.023482 grey|0.023482 gainsboro|0.019436 dark|0.015446 slate|0.015446 gray|0.015446 maroon|0.013931 light|0.0089509 blue|0.0089509 alice|0.008282 blue|0.008282 white|0.0078416 smoke|0.0078416 lavender|0.0078061 wheat|0.0066727 dark|0.0063323 red|0.0063323 ghost|0.0059644 white|0.0059644  ",
+			"after_weights": " ",
+			"previous_weights": " Data|0 from|0.025 McDonnell|0.05 Douglas|0.075 Aircraft|0.1 since|0.125 1920|0.15 Vol|0.175 1|0.2 1|0.225 |0.25 In|0.275 1933|0.3 landing|0.325 in|0.35 heavy|0.375 seas|0.4 the|0.425 USCG|0.45 RD|0.475 4|0.5 undertook|0.525 some|0.55 rescues|0.575 of|0.6 merchant|0.625 sailors|0.65 at|0.675 sea|0.7 feats|0.725 that|0.75 made|0.775 spectacular|0.8 news|0.825 reports|0.85 enthralling|0.875 the|0.9 American|0.925 public|0.95 10|0.975 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6dd04a139443a6bf21f3108fb766efc762cec0e04f57f05f97397ffeb02e8186",
+			"url": "https://upload.wikimedia.org/math/3/2/f/32fbb03d7d8194939f974766f6b8117e.png",
+			"previous": " A classic extensively studied nonlinear problem is the dynamics of a pendulum under influence of gravity Using Lagrangian mechanics it may be shown 4 that the motion of a pendulum can be described by the dimensionless nonlinear equation",
+			"after": " where gravity points downwards and is the angle the pendulum forms with its rest position as shown in the figure at right One approach to solving this equation is to use as an integrating factor which would eventually yield",
+			"color": "dim|0.35549 gray|0.35549 dim|0.35549 grey|0.35549 gray|0.30166 grey|0.30166 dark|0.19006 gray|0.19006 dark|0.19006 grey|0.19006 silver|0.076454 light|0.035813 gray|0.035813 light|0.035813 grey|0.035813 gainsboro|0.02427 white|0.0041003 smoke|0.0041003  ",
+			"after_weights": " where|1 gravity|0.97368 points|0.94737 downwards|0.92105 and|0.89474 is|0.86842 the|0.84211 angle|0.81579 the|0.78947 pendulum|0.76316 forms|0.73684 with|0.71053 its|0.68421 rest|0.65789 position|0.63158 as|0.60526 shown|0.57895 in|0.55263 the|0.52632 figure|0.5 at|0.47368 right|0.44737 One|0.42105 approach|0.39474 to|0.36842 solving|0.34211 this|0.31579 equation|0.28947 is|0.26316 to|0.23684 use|0.21053 as|0.18421 an|0.15789 integrating|0.13158 factor|0.10526 which|0.078947 would|0.052632 eventually|0.026316 yield|0",
+			"previous_weights": " A|0 classic|0.027027 extensively|0.054054 studied|0.081081 nonlinear|0.10811 problem|0.13514 is|0.16216 the|0.18919 dynamics|0.21622 of|0.24324 a|0.27027 pendulum|0.2973 under|0.32432 influence|0.35135 of|0.37838 gravity|0.40541 Using|0.43243 Lagrangian|0.45946 mechanics|0.48649 it|0.51351 may|0.54054 be|0.56757 shown|0.59459 4|0.62162 that|0.64865 the|0.67568 motion|0.7027 of|0.72973 a|0.75676 pendulum|0.78378 can|0.81081 be|0.83784 described|0.86486 by|0.89189 the|0.91892 dimensionless|0.94595 nonlinear|0.97297 equation|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b9444035bb31133899b43e7c47eec4eac8544407668ea9838d466a6498691f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vetlandarunsten.jpg/150px-Vetlandarunsten.jpg",
+			"previous": " English translation ",
+			"after": " This fragment of a runestone is located in the atrium of the church of Vetlanda and what remains appears to say in the west in England  Latin transliteration  Old Norse transcription ",
+			"color": "gray|0.43693 grey|0.43693 dim|0.3762 gray|0.3762 dim|0.3762 grey|0.3762 dark|0.1135 gray|0.1135 dark|0.1135 grey|0.1135 black|0.062786 silver|0.0049049  ",
+			"after_weights": " This|1 fragment|0.9697 of|0.93939 a|0.90909 runestone|0.87879 is|0.84848 located|0.81818 in|0.78788 the|0.75758 atrium|0.72727 of|0.69697 the|0.66667 church|0.63636 of|0.60606 Vetlanda|0.57576 and|0.54545 what|0.51515 remains|0.48485 appears|0.45455 to|0.42424 say|0.39394 in|0.36364 the|0.33333 west|0.30303 in|0.27273 England|0.24242 |0.21212 Latin|0.18182 transliteration|0.15152 |0.12121 Old|0.090909 Norse|0.060606 transcription|0.030303 |0",
+			"previous_weights": " English|0 translation|0.5 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5496e754bd67df7354fc655651054d79d79f91750f64d6c9cb0df7cea2afcb89",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arriva_T6_nearside.JPG/150px-Arriva_T6_nearside.JPG",
+			"previous": " ",
+			"after": " A bus archaically also omnibus multibus or autobus is a road vehicle designed to carry passengers Buses can have a capacity as high as 300 passengers The most common type of bus is the single decker rigid bus with larger loads carried by double decker buses and articulated buses and smaller loads carried by midibuses and minibuses coaches are used for longer distance services ",
+			"color": "dim|0.17909 gray|0.17909 dim|0.17909 grey|0.17909 dark|0.15001 gray|0.15001 dark|0.15001 grey|0.15001 gray|0.14978 grey|0.14978 black|0.10716 rosy|0.093464 brown|0.093464 dark|0.059982 slate|0.059982 gray|0.059982 silver|0.058883 brown|0.037243 maroon|0.034316 light|0.02042 gray|0.02042 light|0.02042 grey|0.02042 dark|0.016258 red|0.016258 firebrick|0.013669 gainsboro|0.012677 light|0.0098906 slate|0.0098906 gray|0.0098906 slate|0.0094846 gray|0.0094846 cadet|0.0075163 blue|0.0075163  ",
+			"after_weights": " A|1 bus|0.98438 archaically|0.96875 also|0.95312 omnibus|0.9375 multibus|0.92188 or|0.90625 autobus|0.89062 is|0.875 a|0.85938 road|0.84375 vehicle|0.82812 designed|0.8125 to|0.79688 carry|0.78125 passengers|0.76562 Buses|0.75 can|0.73438 have|0.71875 a|0.70312 capacity|0.6875 as|0.67188 high|0.65625 as|0.64062 300|0.625 passengers|0.60938 The|0.59375 most|0.57812 common|0.5625 type|0.54688 of|0.53125 bus|0.51562 is|0.5 the|0.48438 single|0.46875 decker|0.45312 rigid|0.4375 bus|0.42188 with|0.40625 larger|0.39062 loads|0.375 carried|0.35938 by|0.34375 double|0.32812 decker|0.3125 buses|0.29688 and|0.28125 articulated|0.26562 buses|0.25 and|0.23438 smaller|0.21875 loads|0.20312 carried|0.1875 by|0.17188 midibuses|0.15625 and|0.14062 minibuses|0.125 coaches|0.10938 are|0.09375 used|0.078125 for|0.0625 longer|0.046875 distance|0.03125 services|0.015625 |0",
+			"previous_weights": " "
+		}
+	}
+}

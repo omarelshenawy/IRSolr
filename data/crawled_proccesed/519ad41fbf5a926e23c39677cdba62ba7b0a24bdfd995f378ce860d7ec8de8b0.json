@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "519ad41fbf5a926e23c39677cdba62ba7b0a24bdfd995f378ce860d7ec8de8b0",
+			"url": "https://upload.wikimedia.org/math/0/9/5/09530495c033c611c6d42fcc779a1040.png",
+			"previous": " with parameter 2 r 4 can be solved in certain cases one of which is chaotic and one of which is not In the chaotic case r 4 the solution is",
+			"after": " where the initial condition parameter is given by For rational after a finite number of iterations maps into a periodic sequence But almost all are irrational and for irrational never repeats itself it is non periodic and exhibits sensitive dependence on initial conditions so it is said to be chaotic ",
+			"color": "dim|0.39017 gray|0.39017 dim|0.39017 grey|0.39017 gray|0.2834 grey|0.2834 dark|0.17705 gray|0.17705 dark|0.17705 grey|0.17705 silver|0.072779 light|0.035004 gray|0.035004 light|0.035004 grey|0.035004 gainsboro|0.02422 white|0.0044594 smoke|0.0044594  ",
+			"after_weights": " where|1 the|0.98 initial|0.96 condition|0.94 parameter|0.92 is|0.9 given|0.88 by|0.86 For|0.84 rational|0.82 after|0.8 a|0.78 finite|0.76 number|0.74 of|0.72 iterations|0.7 maps|0.68 into|0.66 a|0.64 periodic|0.62 sequence|0.6 But|0.58 almost|0.56 all|0.54 are|0.52 irrational|0.5 and|0.48 for|0.46 irrational|0.44 never|0.42 repeats|0.4 itself|0.38 it|0.36 is|0.34 non|0.32 periodic|0.3 and|0.28 exhibits|0.26 sensitive|0.24 dependence|0.22 on|0.2 initial|0.18 conditions|0.16 so|0.14 it|0.12 is|0.1 said|0.08 to|0.06 be|0.04 chaotic|0.02 |0",
+			"previous_weights": " with|0 parameter|0.033333 2|0.066667 r|0.1 4|0.13333 can|0.16667 be|0.2 solved|0.23333 in|0.26667 certain|0.3 cases|0.33333 one|0.36667 of|0.4 which|0.43333 is|0.46667 chaotic|0.5 and|0.53333 one|0.56667 of|0.6 which|0.63333 is|0.66667 not|0.7 In|0.73333 the|0.76667 chaotic|0.8 case|0.83333 r|0.86667 4|0.9 the|0.93333 solution|0.96667 is|1"
+		}
+	}
+}

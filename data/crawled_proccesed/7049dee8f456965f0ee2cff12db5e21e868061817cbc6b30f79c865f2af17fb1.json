@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7049dee8f456965f0ee2cff12db5e21e868061817cbc6b30f79c865f2af17fb1",
+			"url": "https://upload.wikimedia.org/math/2/6/0/260898f0e64ce2deda1c2497ccc06f64.png",
+			"previous": " where f and g are arbitrary given functions The solution of this problem is given by d Alembert s formula ",
+			"after": " This formula implies that the solution at t x depends only upon the data on the segment of the initial line that is cut out by the characteristic curves",
+			"color": "dim|0.38467 gray|0.38467 dim|0.38467 grey|0.38467 gray|0.28276 grey|0.28276 dark|0.17321 gray|0.17321 dark|0.17321 grey|0.17321 silver|0.075871 light|0.037173 gray|0.037173 light|0.037173 grey|0.037173 gainsboro|0.027015 white|0.0045026 smoke|0.0045026  ",
+			"after_weights": " This|1 formula|0.96429 implies|0.92857 that|0.89286 the|0.85714 solution|0.82143 at|0.78571 t|0.75 x|0.71429 depends|0.67857 only|0.64286 upon|0.60714 the|0.57143 data|0.53571 on|0.5 the|0.46429 segment|0.42857 of|0.39286 the|0.35714 initial|0.32143 line|0.28571 that|0.25 is|0.21429 cut|0.17857 out|0.14286 by|0.10714 the|0.071429 characteristic|0.035714 curves|0",
+			"previous_weights": " where|0 f|0.05 and|0.1 g|0.15 are|0.2 arbitrary|0.25 given|0.3 functions|0.35 The|0.4 solution|0.45 of|0.5 this|0.55 problem|0.6 is|0.65 given|0.7 by|0.75 d|0.8 Alembert|0.85 s|0.9 formula|0.95 |1"
+		}
+	}
+}

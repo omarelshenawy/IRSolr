@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "53c49f841620b6526357e11823a4353dc20fc6898ea73687e8a1cc048742f221",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Plaza_de_San_Francisco_en_Centro_hist%C3%B3rico_de_Quito%2C_Ecuador.JPG/577px-Plaza_de_San_Francisco_en_Centro_hist%C3%B3rico_de_Quito%2C_Ecuador.JPG",
+			"previous": " Guyana was first a Dutch and then a British colony though there was a brief period during the Napoleonic Wars when it was colonized by the French The country was once partitioned into three parts each being controlled by one of the colonial powers until the country was finally taken over fully by the British ",
+			"after": " ",
+			"color": "dim|0.36669 gray|0.36669 dim|0.36669 grey|0.36669 gray|0.21874 grey|0.21874 dark|0.19468 gray|0.19468 dark|0.19468 grey|0.19468 black|0.19286 silver|0.022638  ",
+			"after_weights": " ",
+			"previous_weights": " Guyana|0 was|0.018182 first|0.036364 a|0.054545 Dutch|0.072727 and|0.090909 then|0.10909 a|0.12727 British|0.14545 colony|0.16364 though|0.18182 there|0.2 was|0.21818 a|0.23636 brief|0.25455 period|0.27273 during|0.29091 the|0.30909 Napoleonic|0.32727 Wars|0.34545 when|0.36364 it|0.38182 was|0.4 colonized|0.41818 by|0.43636 the|0.45455 French|0.47273 The|0.49091 country|0.50909 was|0.52727 once|0.54545 partitioned|0.56364 into|0.58182 three|0.6 parts|0.61818 each|0.63636 being|0.65455 controlled|0.67273 by|0.69091 one|0.70909 of|0.72727 the|0.74545 colonial|0.76364 powers|0.78182 until|0.8 the|0.81818 country|0.83636 was|0.85455 finally|0.87273 taken|0.89091 over|0.90909 fully|0.92727 by|0.94545 the|0.96364 British|0.98182 |1"
+		}
+	}
+}

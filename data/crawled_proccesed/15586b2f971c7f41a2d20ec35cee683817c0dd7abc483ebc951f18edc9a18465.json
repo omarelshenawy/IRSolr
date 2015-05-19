@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15586b2f971c7f41a2d20ec35cee683817c0dd7abc483ebc951f18edc9a18465",
+			"url": "https://upload.wikimedia.org/math/c/d/7/cd77b1e57fa46b4012be933bcebfad5d.png",
+			"previous": " Therefore new control points are 12  introducing arbitrary and ",
+			"after": " The concept of Degree Elevation can be repeated on a control polygon R to get a sequence of control polygons R R1 R2 and so on After r degree elevations the polygon Rr has the vertices P0 r P1 r P2 r Pn r r given by 12 ",
+			"color": "dim|0.38409 gray|0.38409 dim|0.38409 grey|0.38409 gray|0.26564 grey|0.26564 dark|0.16495 gray|0.16495 dark|0.16495 grey|0.16495 silver|0.085522 light|0.046869 gray|0.046869 light|0.046869 grey|0.046869 gainsboro|0.034263 white|0.0044124 smoke|0.0044124  ",
+			"after_weights": " The|1 concept|0.97917 of|0.95833 Degree|0.9375 Elevation|0.91667 can|0.89583 be|0.875 repeated|0.85417 on|0.83333 a|0.8125 control|0.79167 polygon|0.77083 R|0.75 to|0.72917 get|0.70833 a|0.6875 sequence|0.66667 of|0.64583 control|0.625 polygons|0.60417 R|0.58333 R1|0.5625 R2|0.54167 and|0.52083 so|0.5 on|0.47917 After|0.45833 r|0.4375 degree|0.41667 elevations|0.39583 the|0.375 polygon|0.35417 Rr|0.33333 has|0.3125 the|0.29167 vertices|0.27083 P0|0.25 r|0.22917 P1|0.20833 r|0.1875 P2|0.16667 r|0.14583 Pn|0.125 r|0.10417 r|0.083333 given|0.0625 by|0.041667 12|0.020833 |0",
+			"previous_weights": " Therefore|0 new|0.1 control|0.2 points|0.3 are|0.4 12|0.5 |0.6 introducing|0.7 arbitrary|0.8 and|0.9 |1"
+		}
+	}
+}

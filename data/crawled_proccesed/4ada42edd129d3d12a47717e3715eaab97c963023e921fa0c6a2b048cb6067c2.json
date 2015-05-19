@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ada42edd129d3d12a47717e3715eaab97c963023e921fa0c6a2b048cb6067c2",
+			"url": "https://upload.wikimedia.org/math/1/3/0/1308eec7499402d4707ae0effa10ab51.png",
+			"previous": "  The Earth is nearly spherical see Earth radius so great circle distance formulas give the distance between points on the surface of the Earth as the crow flies correct to within 0 5 or so 1 ",
+			"after": " The distance d i e the arc length for a sphere of radius r and given in radians",
+			"color": "dim|0.42388 gray|0.42388 dim|0.42388 grey|0.42388 gray|0.24852 grey|0.24852 dark|0.12534 gray|0.12534 dark|0.12534 grey|0.12534 black|0.11153 silver|0.052011 light|0.020992 gray|0.020992 light|0.020992 grey|0.020992 gainsboro|0.012156  ",
+			"after_weights": " The|1 distance|0.94118 d|0.88235 i|0.82353 e|0.76471 the|0.70588 arc|0.64706 length|0.58824 for|0.52941 a|0.47059 sphere|0.41176 of|0.35294 radius|0.29412 r|0.23529 and|0.17647 given|0.11765 in|0.058824 radians|0",
+			"previous_weights": " |0 The|0.027027 Earth|0.054054 is|0.081081 nearly|0.10811 spherical|0.13514 see|0.16216 Earth|0.18919 radius|0.21622 so|0.24324 great|0.27027 circle|0.2973 distance|0.32432 formulas|0.35135 give|0.37838 the|0.40541 distance|0.43243 between|0.45946 points|0.48649 on|0.51351 the|0.54054 surface|0.56757 of|0.59459 the|0.62162 Earth|0.64865 as|0.67568 the|0.7027 crow|0.72973 flies|0.75676 correct|0.78378 to|0.81081 within|0.83784 0|0.86486 5|0.89189 or|0.91892 so|0.94595 1|0.97297 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a59968b5431777c9395c50e5e809a8d172ee10c9e209c4f73291e41889fb74b",
+			"url": "https://upload.wikimedia.org/math/4/d/f/4df632b4973f0c24d80e8fabd6a0c4d1.png",
+			"previous": " The angle of refraction of an electric field between media is related to the permittivity of each medium ",
+			"after": " The angle of refraction of a magnetic field between media is related to the permeability of each medium ",
+			"color": "gray|0.3066 grey|0.3066 dim|0.24728 gray|0.24728 dim|0.24728 grey|0.24728 dark|0.21393 gray|0.21393 dark|0.21393 grey|0.21393 silver|0.10998 light|0.05734 gray|0.05734 light|0.05734 grey|0.05734 gainsboro|0.04016 white|0.0063205 smoke|0.0063205 linen|0.0029354 lavender|0.0027359 blush|0.0027359 alice|0.0026472 blue|0.0026472  ",
+			"after_weights": " The|1 angle|0.94444 of|0.88889 refraction|0.83333 of|0.77778 a|0.72222 magnetic|0.66667 field|0.61111 between|0.55556 media|0.5 is|0.44444 related|0.38889 to|0.33333 the|0.27778 permeability|0.22222 of|0.16667 each|0.11111 medium|0.055556 |0",
+			"previous_weights": " The|0 angle|0.055556 of|0.11111 refraction|0.16667 of|0.22222 an|0.27778 electric|0.33333 field|0.38889 between|0.44444 media|0.5 is|0.55556 related|0.61111 to|0.66667 the|0.72222 permittivity|0.77778 of|0.83333 each|0.88889 medium|0.94444 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8202644341f1b74d5ceb65905d3c8b0ada4eb425605866f6794014c06a662b7a",
+			"url": "https://upload.wikimedia.org/math/a/a/3/aa3227b1093860bcad3480523a065338.png",
+			"previous": " 2 The annular gear is held fixed a 0  1 The carrier is held fixed c 0 ",
+			"after": " 3 The sun gear is held fixed s 0  Each of the speed ratios available to a simple planetary gear train can be obtained by using band brakes to hold and release the carrier sun or annular gears as needed This provides the basic structure for an automatic transmission ",
+			"color": "dim|0.39857 gray|0.39857 dim|0.39857 grey|0.39857 gray|0.26221 grey|0.26221 dark|0.16569 gray|0.16569 dark|0.16569 grey|0.16569 silver|0.080513 light|0.042556 gray|0.042556 light|0.042556 grey|0.042556 gainsboro|0.029406 white|0.0045415 smoke|0.0045415  ",
+			"after_weights": " 3|1 The|0.98 sun|0.96 gear|0.94 is|0.92 held|0.9 fixed|0.88 s|0.86 0|0.84 |0.82 Each|0.8 of|0.78 the|0.76 speed|0.74 ratios|0.72 available|0.7 to|0.68 a|0.66 simple|0.64 planetary|0.62 gear|0.6 train|0.58 can|0.56 be|0.54 obtained|0.52 by|0.5 using|0.48 band|0.46 brakes|0.44 to|0.42 hold|0.4 and|0.38 release|0.36 the|0.34 carrier|0.32 sun|0.3 or|0.28 annular|0.26 gears|0.24 as|0.22 needed|0.2 This|0.18 provides|0.16 the|0.14 basic|0.12 structure|0.1 for|0.08 an|0.06 automatic|0.04 transmission|0.02 |0",
+			"previous_weights": " 2|0 The|0.055556 annular|0.11111 gear|0.16667 is|0.22222 held|0.27778 fixed|0.33333 a|0.38889 0|0.44444 |0.5 1|0.55556 The|0.61111 carrier|0.66667 is|0.72222 held|0.77778 fixed|0.83333 c|0.88889 0|0.94444 |1"
+		}
+	}
+}

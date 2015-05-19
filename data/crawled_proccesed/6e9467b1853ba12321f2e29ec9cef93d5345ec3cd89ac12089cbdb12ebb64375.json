@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e9467b1853ba12321f2e29ec9cef93d5345ec3cd89ac12089cbdb12ebb64375",
+			"url": "https://upload.wikimedia.org/math/4/0/4/4045a8a3f0b9b9c875afdb352fc08e2d.png",
+			"previous": " ",
+			"after": " This is an encyclopedia not a collection of mathematical texts but we often want to include proofs as a way of really exposing the meaning of some theorem definition etc A downside of including proofs is that they may interrupt the flow of the article whose goal is usually expository Use your judgement as a rule of thumb include proofs when they expose or illuminate the concept or idea don t include them when they serve only to establish the correctness of a result ",
+			"color": "dim|0.32957 gray|0.32957 dim|0.32957 grey|0.32957 gray|0.2779 grey|0.2779 dark|0.21914 gray|0.21914 dark|0.21914 grey|0.21914 silver|0.088642 light|0.04021 gray|0.04021 light|0.04021 grey|0.04021 gainsboro|0.027609 white|0.0047532 smoke|0.0047532  ",
+			"after_weights": " This|1 is|0.9881 an|0.97619 encyclopedia|0.96429 not|0.95238 a|0.94048 collection|0.92857 of|0.91667 mathematical|0.90476 texts|0.89286 but|0.88095 we|0.86905 often|0.85714 want|0.84524 to|0.83333 include|0.82143 proofs|0.80952 as|0.79762 a|0.78571 way|0.77381 of|0.7619 really|0.75 exposing|0.7381 the|0.72619 meaning|0.71429 of|0.70238 some|0.69048 theorem|0.67857 definition|0.66667 etc|0.65476 A|0.64286 downside|0.63095 of|0.61905 including|0.60714 proofs|0.59524 is|0.58333 that|0.57143 they|0.55952 may|0.54762 interrupt|0.53571 the|0.52381 flow|0.5119 of|0.5 the|0.4881 article|0.47619 whose|0.46429 goal|0.45238 is|0.44048 usually|0.42857 expository|0.41667 Use|0.40476 your|0.39286 judgement|0.38095 as|0.36905 a|0.35714 rule|0.34524 of|0.33333 thumb|0.32143 include|0.30952 proofs|0.29762 when|0.28571 they|0.27381 expose|0.2619 or|0.25 illuminate|0.2381 the|0.22619 concept|0.21429 or|0.20238 idea|0.19048 don|0.17857 t|0.16667 include|0.15476 them|0.14286 when|0.13095 they|0.11905 serve|0.10714 only|0.095238 to|0.083333 establish|0.071429 the|0.059524 correctness|0.047619 of|0.035714 a|0.02381 result|0.011905 |0",
+			"previous_weights": " "
+		}
+	}
+}

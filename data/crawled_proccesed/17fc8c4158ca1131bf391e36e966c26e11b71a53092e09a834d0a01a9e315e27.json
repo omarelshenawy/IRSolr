@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17fc8c4158ca1131bf391e36e966c26e11b71a53092e09a834d0a01a9e315e27",
+			"url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Allegiant_Air_logo_2003%E2%80%932010.png",
+			"previous": " In November 2011 Allegiant closed its Long Beach facility and consolidated all Los Angeles area flights at Los Angeles International LAX ",
+			"after": " The corporate headquarters are in Enterprise unincorporated Clark County Nevada 13 14 Located in a business park built in 2008 the building has Allegiant painted on the roof but no such sign on the front The front desk is a replica of an MD 80 tail 15 ",
+			"color": "steel|0.45401 blue|0.45401 light|0.39292 steel|0.39292 blue|0.39292 light|0.023641 blue|0.023641 burly|0.021923 wood|0.021923 khaki|0.020098 lavender|0.018423 dark|0.01327 khaki|0.01327  ",
+			"after_weights": " The|1 corporate|0.97872 headquarters|0.95745 are|0.93617 in|0.91489 Enterprise|0.89362 unincorporated|0.87234 Clark|0.85106 County|0.82979 Nevada|0.80851 13|0.78723 14|0.76596 Located|0.74468 in|0.7234 a|0.70213 business|0.68085 park|0.65957 built|0.6383 in|0.61702 2008|0.59574 the|0.57447 building|0.55319 has|0.53191 Allegiant|0.51064 painted|0.48936 on|0.46809 the|0.44681 roof|0.42553 but|0.40426 no|0.38298 such|0.3617 sign|0.34043 on|0.31915 the|0.29787 front|0.2766 The|0.25532 front|0.23404 desk|0.21277 is|0.19149 a|0.17021 replica|0.14894 of|0.12766 an|0.10638 MD|0.085106 80|0.06383 tail|0.042553 15|0.021277 |0",
+			"previous_weights": " In|0 November|0.047619 2011|0.095238 Allegiant|0.14286 closed|0.19048 its|0.2381 Long|0.28571 Beach|0.33333 facility|0.38095 and|0.42857 consolidated|0.47619 all|0.52381 Los|0.57143 Angeles|0.61905 area|0.66667 flights|0.71429 at|0.7619 Los|0.80952 Angeles|0.85714 International|0.90476 LAX|0.95238 |1"
+		}
+	}
+}

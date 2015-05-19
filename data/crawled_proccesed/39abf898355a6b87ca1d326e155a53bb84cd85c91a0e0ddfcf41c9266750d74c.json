@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "39abf898355a6b87ca1d326e155a53bb84cd85c91a0e0ddfcf41c9266750d74c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Velociraptor_mongoliensis_AMNH_6515.jpg/220px-Velociraptor_mongoliensis_AMNH_6515.jpg",
+			"previous": " ",
+			"after": " All known specimens of Velociraptor mongoliensis were discovered in the Djadochta Formation also spelled Djadokhta in the Mongolian province of mn govi Species of Velociraptor have also been reported from the slightly younger Barun Goyot Formation of Mongolia 19 though these are indeterminate and may belong to a related genus instead 20 These geologic formations are estimated to date back to the Campanian stage between 83 and 70 million years ago 21 of the Late Cretaceous Epoch 22 ",
+			"color": "dark|0.566 gray|0.566 dark|0.566 grey|0.566 gray|0.17369 grey|0.17369 tan|0.093336 burly|0.05935 wood|0.05935 black|0.02498 peach|0.020426 puff|0.020426 dim|0.011007 gray|0.011007 dim|0.011007 grey|0.011007  ",
+			"after_weights": " All|1 known|0.98718 specimens|0.97436 of|0.96154 Velociraptor|0.94872 mongoliensis|0.9359 were|0.92308 discovered|0.91026 in|0.89744 the|0.88462 Djadochta|0.87179 Formation|0.85897 also|0.84615 spelled|0.83333 Djadokhta|0.82051 in|0.80769 the|0.79487 Mongolian|0.78205 province|0.76923 of|0.75641 mn|0.74359 govi|0.73077 Species|0.71795 of|0.70513 Velociraptor|0.69231 have|0.67949 also|0.66667 been|0.65385 reported|0.64103 from|0.62821 the|0.61538 slightly|0.60256 younger|0.58974 Barun|0.57692 Goyot|0.5641 Formation|0.55128 of|0.53846 Mongolia|0.52564 19|0.51282 though|0.5 these|0.48718 are|0.47436 indeterminate|0.46154 and|0.44872 may|0.4359 belong|0.42308 to|0.41026 a|0.39744 related|0.38462 genus|0.37179 instead|0.35897 20|0.34615 These|0.33333 geologic|0.32051 formations|0.30769 are|0.29487 estimated|0.28205 to|0.26923 date|0.25641 back|0.24359 to|0.23077 the|0.21795 Campanian|0.20513 stage|0.19231 between|0.17949 83|0.16667 and|0.15385 70|0.14103 million|0.12821 years|0.11538 ago|0.10256 21|0.089744 of|0.076923 the|0.064103 Late|0.051282 Cretaceous|0.038462 Epoch|0.025641 22|0.012821 |0",
+			"previous_weights": " "
+		}
+	}
+}

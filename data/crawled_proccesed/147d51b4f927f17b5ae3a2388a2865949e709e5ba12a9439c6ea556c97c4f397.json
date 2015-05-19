@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "147d51b4f927f17b5ae3a2388a2865949e709e5ba12a9439c6ea556c97c4f397",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/John_Morgan_Building_of_the_Perelman_School_of_Medicine.jpg/275px-John_Morgan_Building_of_the_Perelman_School_of_Medicine.jpg",
+			"previous": " ",
+			"after": " A medical school is a tertiary educational institution or part of such an institution that teaches medicine and awards a professional degree for physicians and surgeons Such degrees include the Doctor of Medicine MD Bachelor of Medicine Bachelor of Surgery BMBS MBBS MBChB or Doctor of Osteopathic Medicine DO Many medical schools offer additional degrees such as a Doctor of Philosophy Master s degree a physician assistant program or other post secondary education ",
+			"color": "dim|0.30332 gray|0.30332 dim|0.30332 grey|0.30332 gray|0.19952 grey|0.19952 dark|0.17712 gray|0.17712 dark|0.17712 grey|0.17712 slate|0.11803 gray|0.11803 black|0.067019 light|0.043291 slate|0.043291 gray|0.043291 silver|0.034435 light|0.013228 steel|0.013228 blue|0.013228 dark|0.0088963 slate|0.0088963 gray|0.0088963  ",
+			"after_weights": " A|1 medical|0.9863 school|0.9726 is|0.9589 a|0.94521 tertiary|0.93151 educational|0.91781 institution|0.90411 or|0.89041 part|0.87671 of|0.86301 such|0.84932 an|0.83562 institution|0.82192 that|0.80822 teaches|0.79452 medicine|0.78082 and|0.76712 awards|0.75342 a|0.73973 professional|0.72603 degree|0.71233 for|0.69863 physicians|0.68493 and|0.67123 surgeons|0.65753 Such|0.64384 degrees|0.63014 include|0.61644 the|0.60274 Doctor|0.58904 of|0.57534 Medicine|0.56164 MD|0.54795 Bachelor|0.53425 of|0.52055 Medicine|0.50685 Bachelor|0.49315 of|0.47945 Surgery|0.46575 BMBS|0.45205 MBBS|0.43836 MBChB|0.42466 or|0.41096 Doctor|0.39726 of|0.38356 Osteopathic|0.36986 Medicine|0.35616 DO|0.34247 Many|0.32877 medical|0.31507 schools|0.30137 offer|0.28767 additional|0.27397 degrees|0.26027 such|0.24658 as|0.23288 a|0.21918 Doctor|0.20548 of|0.19178 Philosophy|0.17808 Master|0.16438 s|0.15068 degree|0.13699 a|0.12329 physician|0.10959 assistant|0.09589 program|0.082192 or|0.068493 other|0.054795 post|0.041096 secondary|0.027397 education|0.013699 |0",
+			"previous_weights": " "
+		}
+	}
+}

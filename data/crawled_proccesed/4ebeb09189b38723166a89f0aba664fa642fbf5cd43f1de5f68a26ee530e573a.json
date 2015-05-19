@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ebeb09189b38723166a89f0aba664fa642fbf5cd43f1de5f68a26ee530e573a",
+			"url": "https://upload.wikimedia.org/math/a/b/3/ab3b538ce3cfd2b5db330b1dd7708ac3.png",
+			"previous": " Another way to approach the problem is to linearize any nonlinearities the sine function term in this case at the various points of interest through Taylor expansions For example the linearization at called the small angle approximation is",
+			"after": " since for This is a simple harmonic oscillator corresponding to oscillations of the pendulum near the bottom of its path Another linearization would be at corresponding to the pendulum being straight up ",
+			"color": "dim|0.33271 gray|0.33271 dim|0.33271 grey|0.33271 gray|0.29937 grey|0.29937 dark|0.20223 gray|0.20223 dark|0.20223 grey|0.20223 silver|0.081063 light|0.038945 gray|0.038945 light|0.038945 grey|0.038945 gainsboro|0.027021 white|0.0048153 smoke|0.0048153  ",
+			"after_weights": " since|1 for|0.96875 This|0.9375 is|0.90625 a|0.875 simple|0.84375 harmonic|0.8125 oscillator|0.78125 corresponding|0.75 to|0.71875 oscillations|0.6875 of|0.65625 the|0.625 pendulum|0.59375 near|0.5625 the|0.53125 bottom|0.5 of|0.46875 its|0.4375 path|0.40625 Another|0.375 linearization|0.34375 would|0.3125 be|0.28125 at|0.25 corresponding|0.21875 to|0.1875 the|0.15625 pendulum|0.125 being|0.09375 straight|0.0625 up|0.03125 |0",
+			"previous_weights": " Another|0 way|0.027027 to|0.054054 approach|0.081081 the|0.10811 problem|0.13514 is|0.16216 to|0.18919 linearize|0.21622 any|0.24324 nonlinearities|0.27027 the|0.2973 sine|0.32432 function|0.35135 term|0.37838 in|0.40541 this|0.43243 case|0.45946 at|0.48649 the|0.51351 various|0.54054 points|0.56757 of|0.59459 interest|0.62162 through|0.64865 Taylor|0.67568 expansions|0.7027 For|0.72973 example|0.75676 the|0.78378 linearization|0.81081 at|0.83784 called|0.86486 the|0.89189 small|0.91892 angle|0.94595 approximation|0.97297 is|1"
+		}
+	}
+}

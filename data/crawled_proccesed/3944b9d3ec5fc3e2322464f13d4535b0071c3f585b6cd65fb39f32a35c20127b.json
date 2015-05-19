@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3944b9d3ec5fc3e2322464f13d4535b0071c3f585b6cd65fb39f32a35c20127b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Circadian_rhythm_labeled.jpg",
+			"previous": " ",
+			"after": " The primary circadian clock in mammals is located in the suprachiasmatic nucleus or nuclei SCN a pair of distinct groups of cells located in the hypothalamus Destruction of the SCN results in the complete absence of a regular sleep wake rhythm The SCN receives information about illumination through the eyes The retina of the eye contains classical photoreceptors rods and cones which are used for conventional vision But the retina also contains specialized ganglion cells that are directly photosensitive and project directly to the SCN where they help in the entrainment synchronization of this master circadian clock 44 ",
+			"color": "black|0.67251 dark|0.056927 salmon|0.056927 dim|0.030814 gray|0.030814 dim|0.030814 grey|0.030814 light|0.029677 sky|0.029677 blue|0.029677 gray|0.027213 grey|0.027213 steel|0.023584 blue|0.023584 sienna|0.020561 thistle|0.018142 peach|0.014906 puff|0.014906 dark|0.01192 gray|0.01192 dark|0.01192 grey|0.01192 brown|0.0090892 light|0.0079439 salmon|0.0079439 orange|0.0071743 sky|0.0071285 blue|0.0071285  ",
+			"after_weights": " The|1 primary|0.9898 circadian|0.97959 clock|0.96939 in|0.95918 mammals|0.94898 is|0.93878 located|0.92857 in|0.91837 the|0.90816 suprachiasmatic|0.89796 nucleus|0.88776 or|0.87755 nuclei|0.86735 SCN|0.85714 a|0.84694 pair|0.83673 of|0.82653 distinct|0.81633 groups|0.80612 of|0.79592 cells|0.78571 located|0.77551 in|0.76531 the|0.7551 hypothalamus|0.7449 Destruction|0.73469 of|0.72449 the|0.71429 SCN|0.70408 results|0.69388 in|0.68367 the|0.67347 complete|0.66327 absence|0.65306 of|0.64286 a|0.63265 regular|0.62245 sleep|0.61224 wake|0.60204 rhythm|0.59184 The|0.58163 SCN|0.57143 receives|0.56122 information|0.55102 about|0.54082 illumination|0.53061 through|0.52041 the|0.5102 eyes|0.5 The|0.4898 retina|0.47959 of|0.46939 the|0.45918 eye|0.44898 contains|0.43878 classical|0.42857 photoreceptors|0.41837 rods|0.40816 and|0.39796 cones|0.38776 which|0.37755 are|0.36735 used|0.35714 for|0.34694 conventional|0.33673 vision|0.32653 But|0.31633 the|0.30612 retina|0.29592 also|0.28571 contains|0.27551 specialized|0.26531 ganglion|0.2551 cells|0.2449 that|0.23469 are|0.22449 directly|0.21429 photosensitive|0.20408 and|0.19388 project|0.18367 directly|0.17347 to|0.16327 the|0.15306 SCN|0.14286 where|0.13265 they|0.12245 help|0.11224 in|0.10204 the|0.091837 entrainment|0.081633 synchronization|0.071429 of|0.061224 this|0.05102 master|0.040816 circadian|0.030612 clock|0.020408 44|0.010204 |0",
+			"previous_weights": " "
+		}
+	}
+}

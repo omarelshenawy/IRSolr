@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a4cde8f151d119cb96361dfb7773d38870eaba49f8466e274aa82d80d3e4f05",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MetroLogo.png/220px-MetroLogo.png",
+			"previous": " One is the Metro one of the longest metro system in Europe at 286 6 km ",
+			"after": " Another is the Cercan as local railways used for long distances inside Madrid is faster than the Metro and has less stops inside the center of the city this system has several connections with Metro and Light Metro consisting of nine lines totalling 382 km and 98 stations ",
+			"color": "tan|0.15592 silver|0.09261 light|0.082254 gray|0.082254 light|0.082254 grey|0.082254 firebrick|0.068651 gainsboro|0.064616 dark|0.063118 gray|0.063118 dark|0.063118 grey|0.063118 antique|0.053131 white|0.053131 indian|0.052246 red|0.052246 maroon|0.040692 brown|0.036463 dark|0.029779 red|0.029779 midnight|0.027217 blue|0.027217 linen|0.025758 gray|0.023062 grey|0.023062 white|0.018745 smoke|0.018745 light|0.017241 coral|0.017241 dim|0.016198 gray|0.016198 dim|0.016198 grey|0.016198 sea|0.014599 shell|0.014599 lavender|0.013336 blush|0.013336 alice|0.013086 blue|0.013086 ghost|0.012833 white|0.012833 snow|0.012411 white|0.010542 papaya|0.009036 whip|0.009036 light|0.0086709 slate|0.0086709 gray|0.0086709 mint|0.0073462 cream|0.0073462  ",
+			"after_weights": " Another|1 is|0.97917 the|0.95833 Cercan|0.9375 as|0.91667 local|0.89583 railways|0.875 used|0.85417 for|0.83333 long|0.8125 distances|0.79167 inside|0.77083 Madrid|0.75 is|0.72917 faster|0.70833 than|0.6875 the|0.66667 Metro|0.64583 and|0.625 has|0.60417 less|0.58333 stops|0.5625 inside|0.54167 the|0.52083 center|0.5 of|0.47917 the|0.45833 city|0.4375 this|0.41667 system|0.39583 has|0.375 several|0.35417 connections|0.33333 with|0.3125 Metro|0.29167 and|0.27083 Light|0.25 Metro|0.22917 consisting|0.20833 of|0.1875 nine|0.16667 lines|0.14583 totalling|0.125 382|0.10417 km|0.083333 and|0.0625 98|0.041667 stations|0.020833 |0",
+			"previous_weights": " One|0 is|0.0625 the|0.125 Metro|0.1875 one|0.25 of|0.3125 the|0.375 longest|0.4375 metro|0.5 system|0.5625 in|0.625 Europe|0.6875 at|0.75 286|0.8125 6|0.875 km|0.9375 |1"
+		}
+	}
+}

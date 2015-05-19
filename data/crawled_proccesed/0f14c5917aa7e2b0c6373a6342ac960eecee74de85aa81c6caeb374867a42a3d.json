@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f14c5917aa7e2b0c6373a6342ac960eecee74de85aa81c6caeb374867a42a3d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/LinePlaneIntersect.png/220px-LinePlaneIntersect.png",
+			"previous": " and the outermorphism of the rotation of a vector by a rotor is",
+			"after": " We may define the line parametrically by where p and t are position vectors for points T and P and v is the direction vector for the line  Then so",
+			"color": "dim|0.077922 gray|0.077922 dim|0.077922 grey|0.077922 white|0.067317 smoke|0.067317 snow|0.066151 ghost|0.065723 white|0.065723 sea|0.065505 shell|0.065505 white|0.065347 alice|0.064707 blue|0.064707 floral|0.064369 white|0.064369 mint|0.064068 cream|0.064068 gray|0.062835 grey|0.062835 azure|0.062549 lavender|0.060703 blush|0.060703 dark|0.057184 gray|0.057184 dark|0.057184 grey|0.057184 silver|0.034566 light|0.018874 gray|0.018874 light|0.018874 grey|0.018874 light|0.016901 coral|0.016901 gainsboro|0.013834 misty|0.01219 rose|0.01219 pink|0.010428 light|0.0091683 pink|0.0091683 ivory|0.0075822 salmon|0.0074807 indian|0.0072037 red|0.0072037 linen|0.00478 lavender|0.0037925  ",
+			"after_weights": " We|1 may|0.96667 define|0.93333 the|0.9 line|0.86667 parametrically|0.83333 by|0.8 where|0.76667 p|0.73333 and|0.7 t|0.66667 are|0.63333 position|0.6 vectors|0.56667 for|0.53333 points|0.5 T|0.46667 and|0.43333 P|0.4 and|0.36667 v|0.33333 is|0.3 the|0.26667 direction|0.23333 vector|0.2 for|0.16667 the|0.13333 line|0.1 |0.066667 Then|0.033333 so|0",
+			"previous_weights": " and|0 the|0.083333 outermorphism|0.16667 of|0.25 the|0.33333 rotation|0.41667 of|0.5 a|0.58333 vector|0.66667 by|0.75 a|0.83333 rotor|0.91667 is|1"
+		}
+	}
+}

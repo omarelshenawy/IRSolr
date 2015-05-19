@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e96ee4bf6178c4a084f27152d7c3f3a5fecc0f1a46e6caee4d4e8b98b2239ad",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Dolphin_embryo.jpg/220px-Dolphin_embryo.jpg",
+			"previous": " Along with whales and porpoises dolphins are descendants of terrestrial mammals most likely of the Artiodactyl order The ancestors of the modern day dolphins entered the water roughly 55 million years ago in the Eocene epoch 20 ",
+			"after": " Modern dolphin skeletons have two small rod shaped pelvic bones thought to be vestigial hind limbs In October 2006 an unusual bottlenose dolphin was captured in Japan it had small fins on each side of its genital slit which scientists believe to be an unusually pronounced development of these vestigial hind limbs 21 ",
+			"color": "light|0.31723 sky|0.31723 blue|0.31723 sky|0.27304 blue|0.27304 tan|0.21298 black|0.085494 burly|0.048158 wood|0.048158 pale|0.020473 turquoise|0.020473 dim|0.014082 gray|0.014082 dim|0.014082 grey|0.014082 dark|0.0089432 slate|0.0089432 gray|0.0089432  ",
+			"after_weights": " Modern|1 dolphin|0.98113 skeletons|0.96226 have|0.9434 two|0.92453 small|0.90566 rod|0.88679 shaped|0.86792 pelvic|0.84906 bones|0.83019 thought|0.81132 to|0.79245 be|0.77358 vestigial|0.75472 hind|0.73585 limbs|0.71698 In|0.69811 October|0.67925 2006|0.66038 an|0.64151 unusual|0.62264 bottlenose|0.60377 dolphin|0.58491 was|0.56604 captured|0.54717 in|0.5283 Japan|0.50943 it|0.49057 had|0.4717 small|0.45283 fins|0.43396 on|0.41509 each|0.39623 side|0.37736 of|0.35849 its|0.33962 genital|0.32075 slit|0.30189 which|0.28302 scientists|0.26415 believe|0.24528 to|0.22642 be|0.20755 an|0.18868 unusually|0.16981 pronounced|0.15094 development|0.13208 of|0.11321 these|0.09434 vestigial|0.075472 hind|0.056604 limbs|0.037736 21|0.018868 |0",
+			"previous_weights": " Along|0 with|0.027027 whales|0.054054 and|0.081081 porpoises|0.10811 dolphins|0.13514 are|0.16216 descendants|0.18919 of|0.21622 terrestrial|0.24324 mammals|0.27027 most|0.2973 likely|0.32432 of|0.35135 the|0.37838 Artiodactyl|0.40541 order|0.43243 The|0.45946 ancestors|0.48649 of|0.51351 the|0.54054 modern|0.56757 day|0.59459 dolphins|0.62162 entered|0.64865 the|0.67568 water|0.7027 roughly|0.72973 55|0.75676 million|0.78378 years|0.81081 ago|0.83784 in|0.86486 the|0.89189 Eocene|0.91892 epoch|0.94595 20|0.97297 |1"
+		}
+	}
+}

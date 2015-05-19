@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "12bd7af549b4f66f78ec4037327738b117c8c646fa079513c6c478819df66278",
+			"url": "https://upload.wikimedia.org/math/b/3/b/b3b2e0c81980111cacce6f3845a9fbdb.png",
+			"previous": " where",
+			"after": " Legendre 23 showed that the distance along a geodesic on an spheroid is the same as the distance along the perimeter of an ellipse For this reason the expression for in terms of and its inverse given above play a key role in the solution of the geodesic problem with replaced by the distance along the geodesic and replaced by the arc length on the auxiliary sphere 16 24 The requisite series extended to sixth order are given by Karney 25 Eqs 17 21 with playing the role of and playing the role of ",
+			"color": "dim|0.319 gray|0.319 dim|0.319 grey|0.319 gray|0.29175 grey|0.29175 dark|0.19948 gray|0.19948 dark|0.19948 grey|0.19948 silver|0.091182 light|0.043858 gray|0.043858 light|0.043858 grey|0.043858 gainsboro|0.031588 white|0.0050055 smoke|0.0050055  ",
+			"after_weights": " Legendre|1 23|0.98936 showed|0.97872 that|0.96809 the|0.95745 distance|0.94681 along|0.93617 a|0.92553 geodesic|0.91489 on|0.90426 an|0.89362 spheroid|0.88298 is|0.87234 the|0.8617 same|0.85106 as|0.84043 the|0.82979 distance|0.81915 along|0.80851 the|0.79787 perimeter|0.78723 of|0.7766 an|0.76596 ellipse|0.75532 For|0.74468 this|0.73404 reason|0.7234 the|0.71277 expression|0.70213 for|0.69149 in|0.68085 terms|0.67021 of|0.65957 and|0.64894 its|0.6383 inverse|0.62766 given|0.61702 above|0.60638 play|0.59574 a|0.58511 key|0.57447 role|0.56383 in|0.55319 the|0.54255 solution|0.53191 of|0.52128 the|0.51064 geodesic|0.5 problem|0.48936 with|0.47872 replaced|0.46809 by|0.45745 the|0.44681 distance|0.43617 along|0.42553 the|0.41489 geodesic|0.40426 and|0.39362 replaced|0.38298 by|0.37234 the|0.3617 arc|0.35106 length|0.34043 on|0.32979 the|0.31915 auxiliary|0.30851 sphere|0.29787 16|0.28723 24|0.2766 The|0.26596 requisite|0.25532 series|0.24468 extended|0.23404 to|0.2234 sixth|0.21277 order|0.20213 are|0.19149 given|0.18085 by|0.17021 Karney|0.15957 25|0.14894 Eqs|0.1383 17|0.12766 21|0.11702 with|0.10638 playing|0.095745 the|0.085106 role|0.074468 of|0.06383 and|0.053191 playing|0.042553 the|0.031915 role|0.021277 of|0.010638 |0",
+			"previous_weights": " where|1"
+		}
+	}
+}

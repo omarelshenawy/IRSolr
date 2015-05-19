@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b41bff29b9cba40500c3b0f66fabd2163ead574a1e415559515aa3b6eb2e702",
+			"url": "https://upload.wikimedia.org/math/8/4/f/84fe06d0d1ce47da29425b6c9174dd6d.png",
+			"previous": "  Is the nozzle choked The nozzle is choked when the throat Mach number 1 0 This occurs when the nozzle pressure ratio reaches or exceeds a critical level ",
+			"after": " If then the nozzle is UNCHOKED  The following calculation method is only suitable for choked nozzles ",
+			"color": "gray|0.33194 grey|0.33194 dim|0.24854 gray|0.24854 dim|0.24854 grey|0.24854 dark|0.23202 gray|0.23202 dark|0.23202 grey|0.23202 silver|0.096242 light|0.043527 gray|0.043527 light|0.043527 grey|0.043527 gainsboro|0.028882 white|0.0048571 smoke|0.0048571  ",
+			"after_weights": " If|1 then|0.94118 the|0.88235 nozzle|0.82353 is|0.76471 UNCHOKED|0.70588 |0.64706 The|0.58824 following|0.52941 calculation|0.47059 method|0.41176 is|0.35294 only|0.29412 suitable|0.23529 for|0.17647 choked|0.11765 nozzles|0.058824 |0",
+			"previous_weights": " |0 Is|0.034483 the|0.068966 nozzle|0.10345 choked|0.13793 The|0.17241 nozzle|0.2069 is|0.24138 choked|0.27586 when|0.31034 the|0.34483 throat|0.37931 Mach|0.41379 number|0.44828 1|0.48276 0|0.51724 This|0.55172 occurs|0.58621 when|0.62069 the|0.65517 nozzle|0.68966 pressure|0.72414 ratio|0.75862 reaches|0.7931 or|0.82759 exceeds|0.86207 a|0.89655 critical|0.93103 level|0.96552 |1"
+		}
+	}
+}

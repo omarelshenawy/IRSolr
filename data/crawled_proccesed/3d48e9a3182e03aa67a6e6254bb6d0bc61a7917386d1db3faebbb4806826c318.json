@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d48e9a3182e03aa67a6e6254bb6d0bc61a7917386d1db3faebbb4806826c318",
+			"url": "https://upload.wikimedia.org/math/d/f/d/dfdca79810d8f53b77ce1c303c9607f3.png",
+			"previous": " The measure is therefore always proportional to the unit pseudoscalar of a k dimensional subspace of the vector space Compare the Riemannian volume form in the theory of differential forms The integral is taken with respect to this measure ",
+			"after": " More formally consider some directed volume V of the subspace We may divide this volume into a sum of simplices Let be the coordinates of the vertices At each vertex we assign a measure as the average measure of the simplices sharing the vertex Then the integral of F x with respect to U x over this volume is obtained in the limit of finer partitioning of the volume into smaller simplices ",
+			"color": "dim|0.38317 gray|0.38317 dim|0.38317 grey|0.38317 gray|0.28511 grey|0.28511 dark|0.18324 gray|0.18324 dark|0.18324 grey|0.18324 silver|0.074142 light|0.035358 gray|0.035358 light|0.035358 grey|0.035358 gainsboro|0.023707 white|0.0038547 smoke|0.0038547  ",
+			"after_weights": " More|1 formally|0.98611 consider|0.97222 some|0.95833 directed|0.94444 volume|0.93056 V|0.91667 of|0.90278 the|0.88889 subspace|0.875 We|0.86111 may|0.84722 divide|0.83333 this|0.81944 volume|0.80556 into|0.79167 a|0.77778 sum|0.76389 of|0.75 simplices|0.73611 Let|0.72222 be|0.70833 the|0.69444 coordinates|0.68056 of|0.66667 the|0.65278 vertices|0.63889 At|0.625 each|0.61111 vertex|0.59722 we|0.58333 assign|0.56944 a|0.55556 measure|0.54167 as|0.52778 the|0.51389 average|0.5 measure|0.48611 of|0.47222 the|0.45833 simplices|0.44444 sharing|0.43056 the|0.41667 vertex|0.40278 Then|0.38889 the|0.375 integral|0.36111 of|0.34722 F|0.33333 x|0.31944 with|0.30556 respect|0.29167 to|0.27778 U|0.26389 x|0.25 over|0.23611 this|0.22222 volume|0.20833 is|0.19444 obtained|0.18056 in|0.16667 the|0.15278 limit|0.13889 of|0.125 finer|0.11111 partitioning|0.097222 of|0.083333 the|0.069444 volume|0.055556 into|0.041667 smaller|0.027778 simplices|0.013889 |0",
+			"previous_weights": " The|0 measure|0.025641 is|0.051282 therefore|0.076923 always|0.10256 proportional|0.12821 to|0.15385 the|0.17949 unit|0.20513 pseudoscalar|0.23077 of|0.25641 a|0.28205 k|0.30769 dimensional|0.33333 subspace|0.35897 of|0.38462 the|0.41026 vector|0.4359 space|0.46154 Compare|0.48718 the|0.51282 Riemannian|0.53846 volume|0.5641 form|0.58974 in|0.61538 the|0.64103 theory|0.66667 of|0.69231 differential|0.71795 forms|0.74359 The|0.76923 integral|0.79487 is|0.82051 taken|0.84615 with|0.87179 respect|0.89744 to|0.92308 this|0.94872 measure|0.97436 |1"
+		}
+	}
+}

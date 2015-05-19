@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b0099fbcbc160719844b3ad6c4ebf8eb74a2eb65346f637498eff538aa2b9c9",
+			"url": "https://upload.wikimedia.org/math/c/1/c/c1c8e029fc2bca0aaa6211885343463a.png",
+			"previous": " A common notation introduced by Leibniz for the derivative in the example above is",
+			"after": " In an approach based on limits the symbol dy dx is to be interpreted not as the quotient of two numbers but as a shorthand for the limit computed above Leibniz however did intend it to represent the quotient of two infinitesimally small numbers dy being the infinitesimally small change in y caused by an infinitesimally small change dx applied to x We can also think of d dx as a differentiation operator which takes a function as an input and gives another function the derivative as the output For example ",
+			"color": " ",
+			"after_weights": " In|1 an|0.98901 approach|0.97802 based|0.96703 on|0.95604 limits|0.94505 the|0.93407 symbol|0.92308 dy|0.91209 dx|0.9011 is|0.89011 to|0.87912 be|0.86813 interpreted|0.85714 not|0.84615 as|0.83516 the|0.82418 quotient|0.81319 of|0.8022 two|0.79121 numbers|0.78022 but|0.76923 as|0.75824 a|0.74725 shorthand|0.73626 for|0.72527 the|0.71429 limit|0.7033 computed|0.69231 above|0.68132 Leibniz|0.67033 however|0.65934 did|0.64835 intend|0.63736 it|0.62637 to|0.61538 represent|0.6044 the|0.59341 quotient|0.58242 of|0.57143 two|0.56044 infinitesimally|0.54945 small|0.53846 numbers|0.52747 dy|0.51648 being|0.50549 the|0.49451 infinitesimally|0.48352 small|0.47253 change|0.46154 in|0.45055 y|0.43956 caused|0.42857 by|0.41758 an|0.40659 infinitesimally|0.3956 small|0.38462 change|0.37363 dx|0.36264 applied|0.35165 to|0.34066 x|0.32967 We|0.31868 can|0.30769 also|0.2967 think|0.28571 of|0.27473 d|0.26374 dx|0.25275 as|0.24176 a|0.23077 differentiation|0.21978 operator|0.20879 which|0.1978 takes|0.18681 a|0.17582 function|0.16484 as|0.15385 an|0.14286 input|0.13187 and|0.12088 gives|0.10989 another|0.098901 function|0.087912 the|0.076923 derivative|0.065934 as|0.054945 the|0.043956 output|0.032967 For|0.021978 example|0.010989 |0",
+			"previous_weights": " A|0 common|0.076923 notation|0.15385 introduced|0.23077 by|0.30769 Leibniz|0.38462 for|0.46154 the|0.53846 derivative|0.61538 in|0.69231 the|0.76923 example|0.84615 above|0.92308 is|1"
+		}
+	}
+}

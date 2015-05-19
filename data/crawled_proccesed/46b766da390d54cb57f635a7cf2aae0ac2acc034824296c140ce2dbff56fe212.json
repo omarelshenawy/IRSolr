@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "46b766da390d54cb57f635a7cf2aae0ac2acc034824296c140ce2dbff56fe212",
+			"url": "https://upload.wikimedia.org/math/1/2/c/12c5e66b81b4a19d27dd41ca4ef4f277.png",
+			"previous": " The law of cosines may be used to prove Heron s formula which is another method that may be used to calculate the area of a triangle This formula states that if a triangle has sides of lengths a b and c and if the semiperimeter is",
+			"after": " then the area of the triangle is ",
+			"color": "dim|0.43622 gray|0.43622 dim|0.43622 grey|0.43622 gray|0.27882 grey|0.27882 dark|0.15917 gray|0.15917 dark|0.15917 grey|0.15917 silver|0.064452 light|0.029237 gray|0.029237 light|0.029237 grey|0.029237 gainsboro|0.01947  ",
+			"after_weights": " then|1 the|0.85714 area|0.71429 of|0.57143 the|0.42857 triangle|0.28571 is|0.14286 |0",
+			"previous_weights": " The|0 law|0.021739 of|0.043478 cosines|0.065217 may|0.086957 be|0.1087 used|0.13043 to|0.15217 prove|0.17391 Heron|0.19565 s|0.21739 formula|0.23913 which|0.26087 is|0.28261 another|0.30435 method|0.32609 that|0.34783 may|0.36957 be|0.3913 used|0.41304 to|0.43478 calculate|0.45652 the|0.47826 area|0.5 of|0.52174 a|0.54348 triangle|0.56522 This|0.58696 formula|0.6087 states|0.63043 that|0.65217 if|0.67391 a|0.69565 triangle|0.71739 has|0.73913 sides|0.76087 of|0.78261 lengths|0.80435 a|0.82609 b|0.84783 and|0.86957 c|0.8913 and|0.91304 if|0.93478 the|0.95652 semiperimeter|0.97826 is|1"
+		}
+	}
+}

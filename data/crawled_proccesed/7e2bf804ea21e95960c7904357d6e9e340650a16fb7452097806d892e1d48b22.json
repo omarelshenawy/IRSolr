@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e2bf804ea21e95960c7904357d6e9e340650a16fb7452097806d892e1d48b22",
+			"url": "https://upload.wikimedia.org/math/6/4/2/6428f084b932f051f7233e76a2fb8134.png",
+			"previous": " where now A k1 the integral is the inverse fourier transform of A k1 is a function exhibiting a sharp peak in a region of wave vectors k surrounding the point k1 k In exponential form ",
+			"after": " with Ao the magnitude of A For example a common choice for Ao is a Gaussian wave packet 14 ",
+			"color": "dim|0.37658 gray|0.37658 dim|0.37658 grey|0.37658 gray|0.25472 grey|0.25472 dark|0.15771 gray|0.15771 dark|0.15771 grey|0.15771 black|0.073925 silver|0.065417 light|0.031747 gray|0.031747 light|0.031747 grey|0.031747 gainsboro|0.022535 white|0.003838 smoke|0.003838  ",
+			"after_weights": " with|1 Ao|0.94737 the|0.89474 magnitude|0.84211 of|0.78947 A|0.73684 For|0.68421 example|0.63158 a|0.57895 common|0.52632 choice|0.47368 for|0.42105 Ao|0.36842 is|0.31579 a|0.26316 Gaussian|0.21053 wave|0.15789 packet|0.10526 14|0.052632 |0",
+			"previous_weights": " where|0 now|0.027778 A|0.055556 k1|0.083333 the|0.11111 integral|0.13889 is|0.16667 the|0.19444 inverse|0.22222 fourier|0.25 transform|0.27778 of|0.30556 A|0.33333 k1|0.36111 is|0.38889 a|0.41667 function|0.44444 exhibiting|0.47222 a|0.5 sharp|0.52778 peak|0.55556 in|0.58333 a|0.61111 region|0.63889 of|0.66667 wave|0.69444 vectors|0.72222 k|0.75 surrounding|0.77778 the|0.80556 point|0.83333 k1|0.86111 k|0.88889 In|0.91667 exponential|0.94444 form|0.97222 |1"
+		}
+	}
+}

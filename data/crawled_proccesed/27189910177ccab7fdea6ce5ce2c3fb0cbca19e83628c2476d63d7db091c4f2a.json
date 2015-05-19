@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27189910177ccab7fdea6ce5ce2c3fb0cbca19e83628c2476d63d7db091c4f2a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Laos.Visa.JPG/220px-Laos.Visa.JPG",
+			"previous": " ",
+			"after": " Many countries have a mechanism to allow the holder of a visa to apply to extend a visa In Denmark a visa holder can apply to the Danish Immigration Service for a Residence Permit after they have arrived in the country In the United Kingdom applications can be made to the UK Border Agency ",
+			"color": "dark|0.68476 gray|0.68476 dark|0.68476 grey|0.68476 gray|0.1415 grey|0.1415 rosy|0.067574 brown|0.067574 dim|0.039632 gray|0.039632 dim|0.039632 grey|0.039632 silver|0.037706 slate|0.012909 gray|0.012909 light|0.011507 slate|0.011507 gray|0.011507  ",
+			"after_weights": " Many|1 countries|0.98148 have|0.96296 a|0.94444 mechanism|0.92593 to|0.90741 allow|0.88889 the|0.87037 holder|0.85185 of|0.83333 a|0.81481 visa|0.7963 to|0.77778 apply|0.75926 to|0.74074 extend|0.72222 a|0.7037 visa|0.68519 In|0.66667 Denmark|0.64815 a|0.62963 visa|0.61111 holder|0.59259 can|0.57407 apply|0.55556 to|0.53704 the|0.51852 Danish|0.5 Immigration|0.48148 Service|0.46296 for|0.44444 a|0.42593 Residence|0.40741 Permit|0.38889 after|0.37037 they|0.35185 have|0.33333 arrived|0.31481 in|0.2963 the|0.27778 country|0.25926 In|0.24074 the|0.22222 United|0.2037 Kingdom|0.18519 applications|0.16667 can|0.14815 be|0.12963 made|0.11111 to|0.092593 the|0.074074 UK|0.055556 Border|0.037037 Agency|0.018519 |0",
+			"previous_weights": " "
+		}
+	}
+}

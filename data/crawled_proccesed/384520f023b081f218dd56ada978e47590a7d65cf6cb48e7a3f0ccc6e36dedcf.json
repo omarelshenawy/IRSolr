@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "384520f023b081f218dd56ada978e47590a7d65cf6cb48e7a3f0ccc6e36dedcf",
+			"url": "https://upload.wikimedia.org/math/3/2/3/32356a225db4be5d61dc2c0f6058903f.png",
+			"previous": " Which is generally abbreviated as  Differentiating both sides of this equation with respect to r yields A as a function of r ",
+			"after": " The total area can thus be obtained by integration  In 3 dimensions the volume inside a sphere that is the volume of a ball is derived to be",
+			"color": "black|0.23739 gray|0.23213 grey|0.23213 dim|0.22661 gray|0.22661 dim|0.22661 grey|0.22661 dark|0.17183 gray|0.17183 dark|0.17183 grey|0.17183 silver|0.08123 light|0.028102 gray|0.028102 light|0.028102 grey|0.028102 gainsboro|0.021317  ",
+			"after_weights": " The|1 total|0.96429 area|0.92857 can|0.89286 thus|0.85714 be|0.82143 obtained|0.78571 by|0.75 integration|0.71429 |0.67857 In|0.64286 3|0.60714 dimensions|0.57143 the|0.53571 volume|0.5 inside|0.46429 a|0.42857 sphere|0.39286 that|0.35714 is|0.32143 the|0.28571 volume|0.25 of|0.21429 a|0.17857 ball|0.14286 is|0.10714 derived|0.071429 to|0.035714 be|0",
+			"previous_weights": " Which|0 is|0.043478 generally|0.086957 abbreviated|0.13043 as|0.17391 |0.21739 Differentiating|0.26087 both|0.30435 sides|0.34783 of|0.3913 this|0.43478 equation|0.47826 with|0.52174 respect|0.56522 to|0.6087 r|0.65217 yields|0.69565 A|0.73913 as|0.78261 a|0.82609 function|0.86957 of|0.91304 r|0.95652 |1"
+		}
+	}
+}

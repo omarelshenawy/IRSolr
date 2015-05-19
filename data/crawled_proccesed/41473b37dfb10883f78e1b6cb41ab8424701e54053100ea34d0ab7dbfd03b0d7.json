@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "41473b37dfb10883f78e1b6cb41ab8424701e54053100ea34d0ab7dbfd03b0d7",
+			"url": "https://upload.wikimedia.org/math/0/5/8/0580d8d3d30b5c9887055a5733769891.png",
+			"previous": " The definition of eigenvalue of a linear transformation remains valid even if the underlying space is an infinite dimensional Hilbert or Banach space Namely a scalar is an eigenvalue if and only if there is some nonzero vector such that ",
+			"after": " The functions that satisfy this equation are commonly called eigenfunctions of For the derivative operator an eigenfunction is a function that when differentiated yields a constant times the original function The solution is an exponential function",
+			"color": " ",
+			"after_weights": " The|1 functions|0.97143 that|0.94286 satisfy|0.91429 this|0.88571 equation|0.85714 are|0.82857 commonly|0.8 called|0.77143 eigenfunctions|0.74286 of|0.71429 For|0.68571 the|0.65714 derivative|0.62857 operator|0.6 an|0.57143 eigenfunction|0.54286 is|0.51429 a|0.48571 function|0.45714 that|0.42857 when|0.4 differentiated|0.37143 yields|0.34286 a|0.31429 constant|0.28571 times|0.25714 the|0.22857 original|0.2 function|0.17143 The|0.14286 solution|0.11429 is|0.085714 an|0.057143 exponential|0.028571 function|0",
+			"previous_weights": " The|0 definition|0.025 of|0.05 eigenvalue|0.075 of|0.1 a|0.125 linear|0.15 transformation|0.175 remains|0.2 valid|0.225 even|0.25 if|0.275 the|0.3 underlying|0.325 space|0.35 is|0.375 an|0.4 infinite|0.425 dimensional|0.45 Hilbert|0.475 or|0.5 Banach|0.525 space|0.55 Namely|0.575 a|0.6 scalar|0.625 is|0.65 an|0.675 eigenvalue|0.7 if|0.725 and|0.75 only|0.775 if|0.8 there|0.825 is|0.85 some|0.875 nonzero|0.9 vector|0.925 such|0.95 that|0.975 |1"
+		}
+	}
+}

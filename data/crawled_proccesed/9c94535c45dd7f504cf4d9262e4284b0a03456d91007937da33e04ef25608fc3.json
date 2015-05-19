@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c94535c45dd7f504cf4d9262e4284b0a03456d91007937da33e04ef25608fc3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kazakhstan_Government_Boeing_737-7EJ_BBJ_Wallner-1.jpg/220px-Kazakhstan_Government_Boeing_737-7EJ_BBJ_Wallner-1.jpg",
+			"previous": " Source www boeing com 1  Boeing Business Jets Orders and Deliveries since July 1996 through March 20 2015 After the launch of the BBJ Airbus followed suit with the launch of the Airbus ACJ derived from its A319 commercial airframe It has also launched the larger A320 and the smaller A318 Elite Other competitors at the smaller end of the market include the Embraer Lineage the Bombardier Global Express the Gulfstream G550 and the Gulfstream G650 ",
+			"after": " State VIP users",
+			"color": "black|0.58966 silver|0.070836 dark|0.069391 gray|0.069391 dark|0.069391 grey|0.069391 light|0.06042 gray|0.06042 light|0.06042 grey|0.06042 gainsboro|0.047389 gray|0.035077 grey|0.035077 dim|0.03373 gray|0.03373 dim|0.03373 grey|0.03373 lavender|0.012399 white|0.010745 smoke|0.010745 lavender|0.0088857 blush|0.0088857 alice|0.0088796 blue|0.0088796 ghost|0.008863 white|0.008863 snow|0.0068778 white|0.005544 slate|0.0055393 gray|0.0055393 sea|0.0055216 shell|0.0055216 light|0.0045687 slate|0.0045687 gray|0.0045687  ",
+			"after_weights": " State|1 VIP|0.5 users|0",
+			"previous_weights": " Source|0 www|0.012987 boeing|0.025974 com|0.038961 1|0.051948 |0.064935 Boeing|0.077922 Business|0.090909 Jets|0.1039 Orders|0.11688 and|0.12987 Deliveries|0.14286 since|0.15584 July|0.16883 1996|0.18182 through|0.19481 March|0.20779 20|0.22078 2015|0.23377 After|0.24675 the|0.25974 launch|0.27273 of|0.28571 the|0.2987 BBJ|0.31169 Airbus|0.32468 followed|0.33766 suit|0.35065 with|0.36364 the|0.37662 launch|0.38961 of|0.4026 the|0.41558 Airbus|0.42857 ACJ|0.44156 derived|0.45455 from|0.46753 its|0.48052 A319|0.49351 commercial|0.50649 airframe|0.51948 It|0.53247 has|0.54545 also|0.55844 launched|0.57143 the|0.58442 larger|0.5974 A320|0.61039 and|0.62338 the|0.63636 smaller|0.64935 A318|0.66234 Elite|0.67532 Other|0.68831 competitors|0.7013 at|0.71429 the|0.72727 smaller|0.74026 end|0.75325 of|0.76623 the|0.77922 market|0.79221 include|0.80519 the|0.81818 Embraer|0.83117 Lineage|0.84416 the|0.85714 Bombardier|0.87013 Global|0.88312 Express|0.8961 the|0.90909 Gulfstream|0.92208 G550|0.93506 and|0.94805 the|0.96104 Gulfstream|0.97403 G650|0.98701 |1"
+		}
+	}
+}

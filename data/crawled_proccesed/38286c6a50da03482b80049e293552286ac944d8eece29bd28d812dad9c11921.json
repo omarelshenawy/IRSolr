@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "38286c6a50da03482b80049e293552286ac944d8eece29bd28d812dad9c11921",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Charleston_gibbes_art_gallery.jpg/200px-Charleston_gibbes_art_gallery.jpg",
+			"previous": " Charleston has a vibrant theater scene and is home to America s first theater In 2010 Charleston was listed as one of the country s top 10 cities for theater and one of the top two in the South 44 Most of the theaters are part of the League of Charleston Theatres better known as Theatre Charleston 11 Some of the city s theaters include ",
+			"after": " Charleston has many historic buildings art and historical museums and other attractions including ",
+			"color": "black|0.43497 dim|0.3101 gray|0.3101 dim|0.3101 grey|0.3101 gray|0.056113 grey|0.056113 slate|0.047421 gray|0.047421 dark|0.043936 olive|0.043936 green|0.043936 dark|0.025998 gray|0.025998 dark|0.025998 grey|0.025998 light|0.01812 slate|0.01812 gray|0.01812 silver|0.014109 dark|0.013095 slate|0.013095 gray|0.013095 light|0.0078973 gray|0.0078973 light|0.0078973 grey|0.0078973  ",
+			"after_weights": " Charleston|1 has|0.92308 many|0.84615 historic|0.76923 buildings|0.69231 art|0.61538 and|0.53846 historical|0.46154 museums|0.38462 and|0.30769 other|0.23077 attractions|0.15385 including|0.076923 |0",
+			"previous_weights": " Charleston|0 has|0.015385 a|0.030769 vibrant|0.046154 theater|0.061538 scene|0.076923 and|0.092308 is|0.10769 home|0.12308 to|0.13846 America|0.15385 s|0.16923 first|0.18462 theater|0.2 In|0.21538 2010|0.23077 Charleston|0.24615 was|0.26154 listed|0.27692 as|0.29231 one|0.30769 of|0.32308 the|0.33846 country|0.35385 s|0.36923 top|0.38462 10|0.4 cities|0.41538 for|0.43077 theater|0.44615 and|0.46154 one|0.47692 of|0.49231 the|0.50769 top|0.52308 two|0.53846 in|0.55385 the|0.56923 South|0.58462 44|0.6 Most|0.61538 of|0.63077 the|0.64615 theaters|0.66154 are|0.67692 part|0.69231 of|0.70769 the|0.72308 League|0.73846 of|0.75385 Charleston|0.76923 Theatres|0.78462 better|0.8 known|0.81538 as|0.83077 Theatre|0.84615 Charleston|0.86154 11|0.87692 Some|0.89231 of|0.90769 the|0.92308 city|0.93846 s|0.95385 theaters|0.96923 include|0.98462 |1"
+		}
+	}
+}

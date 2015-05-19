@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c3f76e1dc2eccda2d33d7e08e244c9b6f7ddd7d92150b8c15220fce88e39676",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/170px-Neil_Armstrong_pose.jpg",
+			"previous": " ",
+			"after": " The first human in space was Soviet Yuri Gagarin who was launched on April 12 1961 aboard Vostok 1 and orbited around the Earth for 108 minutes The first woman in space was Soviet Valentina Tereshkova who launched on June 16 1963 aboard Vostok 6 and orbited Earth for almost three days ",
+			"color": "light|0.11952 gray|0.11952 light|0.11952 grey|0.11952 gainsboro|0.11349 silver|0.10927 dark|0.10188 gray|0.10188 dark|0.10188 grey|0.10188 black|0.094054 white|0.053384 smoke|0.053384 gray|0.043655 grey|0.043655 ghost|0.036733 white|0.036733 dim|0.036134 gray|0.036134 dim|0.036134 grey|0.036134 alice|0.035898 blue|0.035898 snow|0.035059 sea|0.034513 shell|0.034513 lavender|0.033913 blush|0.033913 linen|0.033717 white|0.026573 mint|0.01947 cream|0.01947 floral|0.01598 white|0.01598 azure|0.012524 lavender|0.0071579 misty|0.006932 rose|0.006932 rosy|0.0067353 brown|0.0067353 light|0.0044702 slate|0.0044702 gray|0.0044702 slate|0.0044541 gray|0.0044541 old|0.0041879 lace|0.0041879  ",
+			"after_weights": " The|1 first|0.98077 human|0.96154 in|0.94231 space|0.92308 was|0.90385 Soviet|0.88462 Yuri|0.86538 Gagarin|0.84615 who|0.82692 was|0.80769 launched|0.78846 on|0.76923 April|0.75 12|0.73077 1961|0.71154 aboard|0.69231 Vostok|0.67308 1|0.65385 and|0.63462 orbited|0.61538 around|0.59615 the|0.57692 Earth|0.55769 for|0.53846 108|0.51923 minutes|0.5 The|0.48077 first|0.46154 woman|0.44231 in|0.42308 space|0.40385 was|0.38462 Soviet|0.36538 Valentina|0.34615 Tereshkova|0.32692 who|0.30769 launched|0.28846 on|0.26923 June|0.25 16|0.23077 1963|0.21154 aboard|0.19231 Vostok|0.17308 6|0.15385 and|0.13462 orbited|0.11538 Earth|0.096154 for|0.076923 almost|0.057692 three|0.038462 days|0.019231 |0",
+			"previous_weights": " "
+		}
+	}
+}

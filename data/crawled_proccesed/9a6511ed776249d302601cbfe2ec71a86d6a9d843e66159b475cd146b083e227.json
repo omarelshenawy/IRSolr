@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a6511ed776249d302601cbfe2ec71a86d6a9d843e66159b475cd146b083e227",
+			"url": "https://upload.wikimedia.org/math/0/c/b/0cba8131df1c366bf25157c935b6dfe0.png",
+			"previous": " So differentiating the position vector twice to obtain the velocity and the acceleration vectors  where is the unit vector orthogonal to and pointing in the direction of rotation and is the polar angle and where a dot on top of the variable signifies differentiation with respect to time ",
+			"after": " So",
+			"color": "dim|0.4199 gray|0.4199 dim|0.4199 grey|0.4199 gray|0.28106 grey|0.28106 dark|0.15279 gray|0.15279 dark|0.15279 grey|0.15279 silver|0.066511 light|0.033427 gray|0.033427 light|0.033427 grey|0.033427 gainsboro|0.023926 white|0.0046769 smoke|0.0046769  ",
+			"after_weights": " So|0",
+			"previous_weights": " So|0 differentiating|0.020408 the|0.040816 position|0.061224 vector|0.081633 twice|0.10204 to|0.12245 obtain|0.14286 the|0.16327 velocity|0.18367 and|0.20408 the|0.22449 acceleration|0.2449 vectors|0.26531 |0.28571 where|0.30612 is|0.32653 the|0.34694 unit|0.36735 vector|0.38776 orthogonal|0.40816 to|0.42857 and|0.44898 pointing|0.46939 in|0.4898 the|0.5102 direction|0.53061 of|0.55102 rotation|0.57143 and|0.59184 is|0.61224 the|0.63265 polar|0.65306 angle|0.67347 and|0.69388 where|0.71429 a|0.73469 dot|0.7551 on|0.77551 top|0.79592 of|0.81633 the|0.83673 variable|0.85714 signifies|0.87755 differentiation|0.89796 with|0.91837 respect|0.93878 to|0.95918 time|0.97959 |1"
+		}
+	}
+}

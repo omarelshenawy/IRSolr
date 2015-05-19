@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "444547faba2a208d4354fe410eef770b383bc90e0c8d6bf85cb1829d34a185fb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Air_Force_One_and_Limo.jpg/220px-Air_Force_One_and_Limo.jpg",
+			"previous": " ",
+			"after": " The United States government has maintained a variety of vehicles for the President Because of the President s role as Commander in Chief he exclusively uses military transports for international travel however the civilian Secret Service operates the President s motorcade ",
+			"color": "dim|0.41964 gray|0.41964 dim|0.41964 grey|0.41964 black|0.13749 gray|0.12799 grey|0.12799 dark|0.11014 slate|0.11014 gray|0.11014 slate|0.063657 gray|0.063657 light|0.037453 slate|0.037453 gray|0.037453 dark|0.021377 khaki|0.021377 dark|0.021242 gray|0.021242 dark|0.021242 grey|0.021242 silver|0.0071517 powder|0.0069215 blue|0.0069215 gainsboro|0.0063284 light|0.0058297 gray|0.0058297 light|0.0058297 grey|0.0058297  ",
+			"after_weights": " The|1 United|0.97561 States|0.95122 government|0.92683 has|0.90244 maintained|0.87805 a|0.85366 variety|0.82927 of|0.80488 vehicles|0.78049 for|0.7561 the|0.73171 President|0.70732 Because|0.68293 of|0.65854 the|0.63415 President|0.60976 s|0.58537 role|0.56098 as|0.53659 Commander|0.5122 in|0.4878 Chief|0.46341 he|0.43902 exclusively|0.41463 uses|0.39024 military|0.36585 transports|0.34146 for|0.31707 international|0.29268 travel|0.26829 however|0.2439 the|0.21951 civilian|0.19512 Secret|0.17073 Service|0.14634 operates|0.12195 the|0.097561 President|0.073171 s|0.04878 motorcade|0.02439 |0",
+			"previous_weights": " "
+		}
+	}
+}

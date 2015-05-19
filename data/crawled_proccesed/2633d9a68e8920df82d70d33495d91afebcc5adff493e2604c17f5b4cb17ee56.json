@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2633d9a68e8920df82d70d33495d91afebcc5adff493e2604c17f5b4cb17ee56",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DXB-OMDB_Terminal_2_Ramp.jpg/240px-DXB-OMDB_Terminal_2_Ramp.jpg",
+			"previous": " ",
+			"after": " Terminal 2 built in 1998 has an area of 47 000 m2 510 000 sq ft and has a capacity of 10 million as of 2013 after several decent reconstructions and a major expansion in 2012 which saw capacity double It is used by over 50 airlines mainly operating in the Persian Gulf region Most flights operate to Pakistan Saudi Arabia Iran India and Afghanistan ",
+			"color": "burly|0.48185 wood|0.48185 dim|0.20685 gray|0.20685 dim|0.20685 grey|0.20685 tan|0.15328 navajo|0.082963 white|0.082963 moccasin|0.017837 pale|0.013794 golden|0.013794 rod|0.013794 gray|0.013673 grey|0.013673  ",
+			"after_weights": " Terminal|1 2|0.98462 built|0.96923 in|0.95385 1998|0.93846 has|0.92308 an|0.90769 area|0.89231 of|0.87692 47|0.86154 000|0.84615 m2|0.83077 510|0.81538 000|0.8 sq|0.78462 ft|0.76923 and|0.75385 has|0.73846 a|0.72308 capacity|0.70769 of|0.69231 10|0.67692 million|0.66154 as|0.64615 of|0.63077 2013|0.61538 after|0.6 several|0.58462 decent|0.56923 reconstructions|0.55385 and|0.53846 a|0.52308 major|0.50769 expansion|0.49231 in|0.47692 2012|0.46154 which|0.44615 saw|0.43077 capacity|0.41538 double|0.4 It|0.38462 is|0.36923 used|0.35385 by|0.33846 over|0.32308 50|0.30769 airlines|0.29231 mainly|0.27692 operating|0.26154 in|0.24615 the|0.23077 Persian|0.21538 Gulf|0.2 region|0.18462 Most|0.16923 flights|0.15385 operate|0.13846 to|0.12308 Pakistan|0.10769 Saudi|0.092308 Arabia|0.076923 Iran|0.061538 India|0.046154 and|0.030769 Afghanistan|0.015385 |0",
+			"previous_weights": " "
+		}
+	}
+}

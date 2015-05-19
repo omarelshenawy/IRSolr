@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a673c2e39944cf84d538d86b8042c5af0dd43945611f8b4fcdcb3a04e37d81f",
+			"url": "https://upload.wikimedia.org/math/a/1/2/a1250f7f8170bb99300c596fa73e626e.png",
+			"previous": " Differentiating with respect to time Kepler s first law states that the orbit is described by the equation  The radial acceleration is So the acceleration of a planet obeying Kepler s laws is directed towards the sun ",
+			"after": " or Differentiating once more The radial acceleration satisfies",
+			"color": "black|0.29959 dim|0.28355 gray|0.28355 dim|0.28355 grey|0.28355 gray|0.18267 grey|0.18267 dark|0.11632 gray|0.11632 dark|0.11632 grey|0.11632 silver|0.052607 light|0.031023 gray|0.031023 light|0.031023 grey|0.031023 gainsboro|0.020581  ",
+			"after_weights": " or|1 Differentiating|0.85714 once|0.71429 more|0.57143 The|0.42857 radial|0.28571 acceleration|0.14286 satisfies|0",
+			"previous_weights": " Differentiating|0 with|0.026316 respect|0.052632 to|0.078947 time|0.10526 Kepler|0.13158 s|0.15789 first|0.18421 law|0.21053 states|0.23684 that|0.26316 the|0.28947 orbit|0.31579 is|0.34211 described|0.36842 by|0.39474 the|0.42105 equation|0.44737 |0.47368 The|0.5 radial|0.52632 acceleration|0.55263 is|0.57895 So|0.60526 the|0.63158 acceleration|0.65789 of|0.68421 a|0.71053 planet|0.73684 obeying|0.76316 Kepler|0.78947 s|0.81579 laws|0.84211 is|0.86842 directed|0.89474 towards|0.92105 the|0.94737 sun|0.97368 |1"
+		}
+	}
+}

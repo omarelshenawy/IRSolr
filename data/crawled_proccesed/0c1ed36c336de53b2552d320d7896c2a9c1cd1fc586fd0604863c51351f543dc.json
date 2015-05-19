@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c1ed36c336de53b2552d320d7896c2a9c1cd1fc586fd0604863c51351f543dc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Richard_Feynman_ID_badge.png/115px-Richard_Feynman_ID_badge.png",
+			"previous": " Portal Science Featured biography 2",
+			"after": " Richard Phillips Feynman May 11 1918 February 15 1988 was one of the most influential American physicists of the 20th century expanding greatly upon the theory of quantum electrodynamics As well as being an inspiring lecturer and amateur musician he helped in the development of the atomic bomb and was later a member of the panel which investigated the Space Shuttle Challenger disaster For his work on quantum electrodynamics Feynman was one of the recipients of the Nobel Prize in Physics in 1965 along with Julian Schwinger and Shin Ichiro Tomonaga ",
+			"color": " ",
+			"after_weights": " Richard|1 Phillips|0.98901 Feynman|0.97802 May|0.96703 11|0.95604 1918|0.94505 February|0.93407 15|0.92308 1988|0.91209 was|0.9011 one|0.89011 of|0.87912 the|0.86813 most|0.85714 influential|0.84615 American|0.83516 physicists|0.82418 of|0.81319 the|0.8022 20th|0.79121 century|0.78022 expanding|0.76923 greatly|0.75824 upon|0.74725 the|0.73626 theory|0.72527 of|0.71429 quantum|0.7033 electrodynamics|0.69231 As|0.68132 well|0.67033 as|0.65934 being|0.64835 an|0.63736 inspiring|0.62637 lecturer|0.61538 and|0.6044 amateur|0.59341 musician|0.58242 he|0.57143 helped|0.56044 in|0.54945 the|0.53846 development|0.52747 of|0.51648 the|0.50549 atomic|0.49451 bomb|0.48352 and|0.47253 was|0.46154 later|0.45055 a|0.43956 member|0.42857 of|0.41758 the|0.40659 panel|0.3956 which|0.38462 investigated|0.37363 the|0.36264 Space|0.35165 Shuttle|0.34066 Challenger|0.32967 disaster|0.31868 For|0.30769 his|0.2967 work|0.28571 on|0.27473 quantum|0.26374 electrodynamics|0.25275 Feynman|0.24176 was|0.23077 one|0.21978 of|0.20879 the|0.1978 recipients|0.18681 of|0.17582 the|0.16484 Nobel|0.15385 Prize|0.14286 in|0.13187 Physics|0.12088 in|0.10989 1965|0.098901 along|0.087912 with|0.076923 Julian|0.065934 Schwinger|0.054945 and|0.043956 Shin|0.032967 Ichiro|0.021978 Tomonaga|0.010989 |0",
+			"previous_weights": " Portal|0 Science|0.25 Featured|0.5 biography|0.75 2|1"
+		}
+	}
+}

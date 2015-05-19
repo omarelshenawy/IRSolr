@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40d47cc87b01161c29ad02483be83cb7aaa0885968b7bddeee72c45cacf0df65",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Harcerki_ZP.jpg/220px-Harcerki_ZP.jpg",
+			"previous": " ",
+			"after": " Fifteen years passed between the first publication of Scouting for Boys and the creation of the current largest supranational Scout organization WOSM and millions of copies had been sold in dozens of languages By that point Scouting was the purview of the world s youth and several Scout associations had already formed in many countries 99 100 ",
+			"color": "dim|0.50624 gray|0.50624 dim|0.50624 grey|0.50624 gray|0.39401 grey|0.39401 black|0.047009 slate|0.027602 gray|0.027602 dark|0.01033 gray|0.01033 dark|0.01033 grey|0.01033 silver|0.005429  ",
+			"after_weights": " Fifteen|1 years|0.98246 passed|0.96491 between|0.94737 the|0.92982 first|0.91228 publication|0.89474 of|0.87719 Scouting|0.85965 for|0.84211 Boys|0.82456 and|0.80702 the|0.78947 creation|0.77193 of|0.75439 the|0.73684 current|0.7193 largest|0.70175 supranational|0.68421 Scout|0.66667 organization|0.64912 WOSM|0.63158 and|0.61404 millions|0.59649 of|0.57895 copies|0.5614 had|0.54386 been|0.52632 sold|0.50877 in|0.49123 dozens|0.47368 of|0.45614 languages|0.4386 By|0.42105 that|0.40351 point|0.38596 Scouting|0.36842 was|0.35088 the|0.33333 purview|0.31579 of|0.29825 the|0.2807 world|0.26316 s|0.24561 youth|0.22807 and|0.21053 several|0.19298 Scout|0.17544 associations|0.15789 had|0.14035 already|0.12281 formed|0.10526 in|0.087719 many|0.070175 countries|0.052632 99|0.035088 100|0.017544 |0",
+			"previous_weights": " "
+		}
+	}
+}

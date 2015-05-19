@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "82300d77fec146eb26820addfe4dcbc4f17a79d2a9ed86ef21fc455b149308f9",
+			"url": "https://upload.wikimedia.org/math/9/5/b/95be3b202f708368a7213cddc1d1bdc0.png",
+			"previous": " Recall that in the Kolmogorov axiomatization measurable sets are the sets which have a probability or in other words the sets corresponding to yes no questions that have a probabilistic answer ",
+			"after": " In measure theory if we have a countably infinite collection of measurable sets then the union and intersection of all of them is a measurable set For our purposes this means that yes no questions that depend on countably many coordinates have a probabilistic answer ",
+			"color": " ",
+			"after_weights": " In|1 measure|0.97778 theory|0.95556 if|0.93333 we|0.91111 have|0.88889 a|0.86667 countably|0.84444 infinite|0.82222 collection|0.8 of|0.77778 measurable|0.75556 sets|0.73333 then|0.71111 the|0.68889 union|0.66667 and|0.64444 intersection|0.62222 of|0.6 all|0.57778 of|0.55556 them|0.53333 is|0.51111 a|0.48889 measurable|0.46667 set|0.44444 For|0.42222 our|0.4 purposes|0.37778 this|0.35556 means|0.33333 that|0.31111 yes|0.28889 no|0.26667 questions|0.24444 that|0.22222 depend|0.2 on|0.17778 countably|0.15556 many|0.13333 coordinates|0.11111 have|0.088889 a|0.066667 probabilistic|0.044444 answer|0.022222 |0",
+			"previous_weights": " Recall|0 that|0.032258 in|0.064516 the|0.096774 Kolmogorov|0.12903 axiomatization|0.16129 measurable|0.19355 sets|0.22581 are|0.25806 the|0.29032 sets|0.32258 which|0.35484 have|0.3871 a|0.41935 probability|0.45161 or|0.48387 in|0.51613 other|0.54839 words|0.58065 the|0.6129 sets|0.64516 corresponding|0.67742 to|0.70968 yes|0.74194 no|0.77419 questions|0.80645 that|0.83871 have|0.87097 a|0.90323 probabilistic|0.93548 answer|0.96774 |1"
+		}
+	}
+}

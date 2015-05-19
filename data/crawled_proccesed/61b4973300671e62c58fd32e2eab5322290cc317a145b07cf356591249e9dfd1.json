@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "61b4973300671e62c58fd32e2eab5322290cc317a145b07cf356591249e9dfd1",
+			"url": "https://upload.wikimedia.org/math/e/4/d/e4d5c7735acfd36a3448fdbe91c51ff7.png",
+			"previous": " The skin friction coefficient is defined by",
+			"after": " where is the local wall shear stress is the fluid density and is the free stream velocity usually taken outside the boundary layer or at the inlet 2 For boundary layers without a pressure gradient in the x direction it is related to the momentum thickness as",
+			"color": "gray|0.29379 grey|0.29379 dim|0.2589 gray|0.2589 dim|0.2589 grey|0.2589 dark|0.21308 gray|0.21308 dark|0.21308 grey|0.21308 silver|0.10818 light|0.054448 gray|0.054448 light|0.054448 grey|0.054448 gainsboro|0.039574 white|0.0065024 smoke|0.0065024 linen|0.0039266 lavender|0.003836 blush|0.003836 alice|0.0037153 blue|0.0037153 ghost|0.0036291 white|0.0036291 sea|0.0035305 shell|0.0035305 snow|0.0034335  ",
+			"after_weights": " where|1 is|0.97826 the|0.95652 local|0.93478 wall|0.91304 shear|0.8913 stress|0.86957 is|0.84783 the|0.82609 fluid|0.80435 density|0.78261 and|0.76087 is|0.73913 the|0.71739 free|0.69565 stream|0.67391 velocity|0.65217 usually|0.63043 taken|0.6087 outside|0.58696 the|0.56522 boundary|0.54348 layer|0.52174 or|0.5 at|0.47826 the|0.45652 inlet|0.43478 2|0.41304 For|0.3913 boundary|0.36957 layers|0.34783 without|0.32609 a|0.30435 pressure|0.28261 gradient|0.26087 in|0.23913 the|0.21739 x|0.19565 direction|0.17391 it|0.15217 is|0.13043 related|0.1087 to|0.086957 the|0.065217 momentum|0.043478 thickness|0.021739 as|0",
+			"previous_weights": " The|0 skin|0.16667 friction|0.33333 coefficient|0.5 is|0.66667 defined|0.83333 by|1"
+		}
+	}
+}

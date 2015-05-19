@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73ff0d1fc18c5afd9a38e689319dad793243ed53b8e8a41349b6d9e36a1e6552",
+			"url": "https://upload.wikimedia.org/math/4/0/c/40cad3cb0f9c592dbff074aca5816fe2.png",
+			"previous": " A number of coupled differential equations form a system of equations If y is a vector whose elements are functions y x y1 x y2 x ym x and F is a vector valued function of y and its derivatives then",
+			"after": " is an explicit system of ordinary differential equations of order or dimension m In column vector form ",
+			"color": "dim|0.35846 gray|0.35846 dim|0.35846 grey|0.35846 gray|0.2963 grey|0.2963 dark|0.18126 gray|0.18126 dark|0.18126 grey|0.18126 silver|0.078708 light|0.03979 gray|0.03979 light|0.03979 grey|0.03979 gainsboro|0.028868 white|0.0042205 smoke|0.0042205  ",
+			"after_weights": " is|1 an|0.94118 explicit|0.88235 system|0.82353 of|0.76471 ordinary|0.70588 differential|0.64706 equations|0.58824 of|0.52941 order|0.47059 or|0.41176 dimension|0.35294 m|0.29412 In|0.23529 column|0.17647 vector|0.11765 form|0.058824 |0",
+			"previous_weights": " A|0 number|0.025 of|0.05 coupled|0.075 differential|0.1 equations|0.125 form|0.15 a|0.175 system|0.2 of|0.225 equations|0.25 If|0.275 y|0.3 is|0.325 a|0.35 vector|0.375 whose|0.4 elements|0.425 are|0.45 functions|0.475 y|0.5 x|0.525 y1|0.55 x|0.575 y2|0.6 x|0.625 ym|0.65 x|0.675 and|0.7 F|0.725 is|0.75 a|0.775 vector|0.8 valued|0.825 function|0.85 of|0.875 y|0.9 and|0.925 its|0.95 derivatives|0.975 then|1"
+		}
+	}
+}

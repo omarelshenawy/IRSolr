@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4215ea79c7c0c9d1dd0a50731ea19c7edf75d6b70f02cbd55731cf10820138d4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bateaux-Brest2004.jpg/220px-Bateaux-Brest2004.jpg",
+			"previous": " ",
+			"after": " The city is host to several events to celebrate its long maritime history The largest is held every four years when the town organises a tall ship meeting The last such tall ship event is Les Tonnerres de Brest 2012 ",
+			"color": "dim|0.69205 gray|0.69205 dim|0.69205 grey|0.69205 black|0.10202 dark|0.082827 slate|0.082827 gray|0.082827 gray|0.049563 grey|0.049563 burly|0.017881 wood|0.017881 tan|0.01497  ",
+			"after_weights": " The|1 city|0.975 is|0.95 host|0.925 to|0.9 several|0.875 events|0.85 to|0.825 celebrate|0.8 its|0.775 long|0.75 maritime|0.725 history|0.7 The|0.675 largest|0.65 is|0.625 held|0.6 every|0.575 four|0.55 years|0.525 when|0.5 the|0.475 town|0.45 organises|0.425 a|0.4 tall|0.375 ship|0.35 meeting|0.325 The|0.3 last|0.275 such|0.25 tall|0.225 ship|0.2 event|0.175 is|0.15 Les|0.125 Tonnerres|0.1 de|0.075 Brest|0.05 2012|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

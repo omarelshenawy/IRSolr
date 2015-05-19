@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d67539bdf973aade8ac3be457f20cb29ae1c045938c68b617f533786d0497c2",
+			"url": "https://upload.wikimedia.org/math/8/3/7/837766de81915710f2a1b371e19a515b.png",
+			"previous": " A multivector may be decomposed with the grade projection operator which outputs the grade r portion of A As a result ",
+			"after": " The decomposition of a multivector may also be split into those components that are even and those that are odd ",
+			"color": "dim|0.3127 gray|0.3127 dim|0.3127 grey|0.3127 black|0.26438 gray|0.2045 grey|0.2045 dark|0.12539 gray|0.12539 dark|0.12539 grey|0.12539 silver|0.049975 light|0.020752 gray|0.020752 light|0.020752 grey|0.020752 gainsboro|0.013515  ",
+			"after_weights": " The|1 decomposition|0.95 of|0.9 a|0.85 multivector|0.8 may|0.75 also|0.7 be|0.65 split|0.6 into|0.55 those|0.5 components|0.45 that|0.4 are|0.35 even|0.3 and|0.25 those|0.2 that|0.15 are|0.1 odd|0.05 |0",
+			"previous_weights": " A|0 multivector|0.047619 may|0.095238 be|0.14286 decomposed|0.19048 with|0.2381 the|0.28571 grade|0.33333 projection|0.38095 operator|0.42857 which|0.47619 outputs|0.52381 the|0.57143 grade|0.61905 r|0.66667 portion|0.71429 of|0.7619 A|0.80952 As|0.85714 a|0.90476 result|0.95238 |1"
+		}
+	}
+}

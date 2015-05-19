@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "877ac156d43154195f322dbd3c3881f525da1d7081156357212b81daf773878a",
+			"url": "https://upload.wikimedia.org/math/7/2/7/727ea4c8c49862411edae46adf506e3e.png",
+			"previous": " Another equivalent for graded lattices condition is Birkhoff s condition ",
+			"after": " In domain theory it is natural to seek to approximate the elements in a partial order by much simpler elements This leads to the class of continuous posets consisting of posets where every element can be obtained as the supremum of a directed set of elements that are way below the element If one can additionally restrict these to the compact elements of a poset for obtaining these directed sets then the poset is even algebraic Both concepts can be applied to lattices as follows ",
+			"color": " ",
+			"after_weights": " In|1 domain|0.98824 theory|0.97647 it|0.96471 is|0.95294 natural|0.94118 to|0.92941 seek|0.91765 to|0.90588 approximate|0.89412 the|0.88235 elements|0.87059 in|0.85882 a|0.84706 partial|0.83529 order|0.82353 by|0.81176 much|0.8 simpler|0.78824 elements|0.77647 This|0.76471 leads|0.75294 to|0.74118 the|0.72941 class|0.71765 of|0.70588 continuous|0.69412 posets|0.68235 consisting|0.67059 of|0.65882 posets|0.64706 where|0.63529 every|0.62353 element|0.61176 can|0.6 be|0.58824 obtained|0.57647 as|0.56471 the|0.55294 supremum|0.54118 of|0.52941 a|0.51765 directed|0.50588 set|0.49412 of|0.48235 elements|0.47059 that|0.45882 are|0.44706 way|0.43529 below|0.42353 the|0.41176 element|0.4 If|0.38824 one|0.37647 can|0.36471 additionally|0.35294 restrict|0.34118 these|0.32941 to|0.31765 the|0.30588 compact|0.29412 elements|0.28235 of|0.27059 a|0.25882 poset|0.24706 for|0.23529 obtaining|0.22353 these|0.21176 directed|0.2 sets|0.18824 then|0.17647 the|0.16471 poset|0.15294 is|0.14118 even|0.12941 algebraic|0.11765 Both|0.10588 concepts|0.094118 can|0.082353 be|0.070588 applied|0.058824 to|0.047059 lattices|0.035294 as|0.023529 follows|0.011765 |0",
+			"previous_weights": " Another|0 equivalent|0.1 for|0.2 graded|0.3 lattices|0.4 condition|0.5 is|0.6 Birkhoff|0.7 s|0.8 condition|0.9 |1"
+		}
+	}
+}

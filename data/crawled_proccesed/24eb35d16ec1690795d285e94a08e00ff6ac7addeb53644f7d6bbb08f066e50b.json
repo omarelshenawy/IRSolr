@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "24eb35d16ec1690795d285e94a08e00ff6ac7addeb53644f7d6bbb08f066e50b",
+			"url": "https://upload.wikimedia.org/math/3/a/4/3a461cbdc5eda9d44a1be4765d458154.png",
+			"previous": " The net thrust FN of a turbojet is given by 25 ",
+			"after": " The above equation applies only for air breathing jet engines It does not apply to rocket engines Most types of jet engine have an air intake which provides the bulk of the fluid exiting the exhaust Conventional rocket engines however do not have an intake the oxidizer and fuel both being carried within the vehicle Therefore rocket engines do not have ram drag and the gross thrust of the rocket engine nozzle is the net thrust of the engine Consequently the thrust characteristics of a rocket motor are different from that of an air breathing jet engine and thrust is independent of velocity ",
+			"color": "dim|0.40808 gray|0.40808 dim|0.40808 grey|0.40808 gray|0.2558 grey|0.2558 dark|0.15483 gray|0.15483 dark|0.15483 grey|0.15483 silver|0.067968 black|0.039468 light|0.033289 gray|0.033289 light|0.033289 grey|0.033289 gainsboro|0.0234 white|0.0039327 smoke|0.0039327  ",
+			"after_weights": " The|1 above|0.99029 equation|0.98058 applies|0.97087 only|0.96117 for|0.95146 air|0.94175 breathing|0.93204 jet|0.92233 engines|0.91262 It|0.90291 does|0.8932 not|0.8835 apply|0.87379 to|0.86408 rocket|0.85437 engines|0.84466 Most|0.83495 types|0.82524 of|0.81553 jet|0.80583 engine|0.79612 have|0.78641 an|0.7767 air|0.76699 intake|0.75728 which|0.74757 provides|0.73786 the|0.72816 bulk|0.71845 of|0.70874 the|0.69903 fluid|0.68932 exiting|0.67961 the|0.6699 exhaust|0.66019 Conventional|0.65049 rocket|0.64078 engines|0.63107 however|0.62136 do|0.61165 not|0.60194 have|0.59223 an|0.58252 intake|0.57282 the|0.56311 oxidizer|0.5534 and|0.54369 fuel|0.53398 both|0.52427 being|0.51456 carried|0.50485 within|0.49515 the|0.48544 vehicle|0.47573 Therefore|0.46602 rocket|0.45631 engines|0.4466 do|0.43689 not|0.42718 have|0.41748 ram|0.40777 drag|0.39806 and|0.38835 the|0.37864 gross|0.36893 thrust|0.35922 of|0.34951 the|0.33981 rocket|0.3301 engine|0.32039 nozzle|0.31068 is|0.30097 the|0.29126 net|0.28155 thrust|0.27184 of|0.26214 the|0.25243 engine|0.24272 Consequently|0.23301 the|0.2233 thrust|0.21359 characteristics|0.20388 of|0.19417 a|0.18447 rocket|0.17476 motor|0.16505 are|0.15534 different|0.14563 from|0.13592 that|0.12621 of|0.1165 an|0.1068 air|0.097087 breathing|0.087379 jet|0.07767 engine|0.067961 and|0.058252 thrust|0.048544 is|0.038835 independent|0.029126 of|0.019417 velocity|0.0097087 |0",
+			"previous_weights": " The|0 net|0.090909 thrust|0.18182 FN|0.27273 of|0.36364 a|0.45455 turbojet|0.54545 is|0.63636 given|0.72727 by|0.81818 25|0.90909 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "49f7cd7127e32b4eaa60792dafa0ee5694d789d0ea15d632e65e3ebc1045b8f2",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/As355cockpit_krj.JPG/220px-As355cockpit_krj.JPG",
+			"previous": " The AS355 is used by both private individuals and companies helicopter charter and training organizations as well as law enforcement and government use ",
+			"after": " Data from Jane s All The World s Aircraft 1988 89 26  General characteristics Performance",
+			"color": "dark|0.21853 gray|0.21853 dark|0.21853 grey|0.21853 dim|0.18368 gray|0.18368 dim|0.18368 grey|0.18368 gray|0.14179 grey|0.14179 silver|0.093119 slate|0.073561 gray|0.073561 light|0.058949 slate|0.058949 gray|0.058949 light|0.055836 gray|0.055836 light|0.055836 grey|0.055836 black|0.047642 gainsboro|0.04389 light|0.011591 steel|0.011591 blue|0.011591 white|0.0112 smoke|0.0112 dark|0.0094839 slate|0.0094839 gray|0.0094839 alice|0.005606 blue|0.005606 lavender|0.0053822 ghost|0.0053265 white|0.0053265 lavender|0.00458 blush|0.00458  ",
+			"after_weights": " Data|1 from|0.93333 Jane|0.86667 s|0.8 All|0.73333 The|0.66667 World|0.6 s|0.53333 Aircraft|0.46667 1988|0.4 89|0.33333 26|0.26667 |0.2 General|0.13333 characteristics|0.066667 Performance|0",
+			"previous_weights": " The|0 AS355|0.043478 is|0.086957 used|0.13043 by|0.17391 both|0.21739 private|0.26087 individuals|0.30435 and|0.34783 companies|0.3913 helicopter|0.43478 charter|0.47826 and|0.52174 training|0.56522 organizations|0.6087 as|0.65217 well|0.69565 as|0.73913 law|0.78261 enforcement|0.82609 and|0.86957 government|0.91304 use|0.95652 |1"
+		}
+	}
+}

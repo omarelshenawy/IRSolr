@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "5067c63f85925acc3ba4afa9fc0e2598f49ed56aeb06ca0ca061b0204587bb9e",
+			"url": "https://upload.wikimedia.org/math/a/0/0/a00701528104bb3f0c26dd9726e6d40b.png",
+			"previous": " As with any Hilbert space if a basis is chosen for the Hilbert space of a system then any ket can be expanded as a linear combination of those basis elements Symbolically given basis kets any ket can be written",
+			"after": " One property worth noting is that the normalized states are characterized by",
+			"color": "dim|0.31346 gray|0.31346 dim|0.31346 grey|0.31346 gray|0.283 grey|0.283 dark|0.18942 gray|0.18942 dark|0.18942 grey|0.18942 silver|0.10066 light|0.052185 gray|0.052185 light|0.052185 grey|0.052185 gainsboro|0.035727 white|0.0053805 smoke|0.0053805 linen|0.0030373 lavender|0.0028057 blush|0.0028057 alice|0.002766 blue|0.002766  ",
+			"after_weights": " One|1 property|0.90909 worth|0.81818 noting|0.72727 is|0.63636 that|0.54545 the|0.45455 normalized|0.36364 states|0.27273 are|0.18182 characterized|0.090909 by|0",
+			"previous_weights": " As|0 with|0.025641 any|0.051282 Hilbert|0.076923 space|0.10256 if|0.12821 a|0.15385 basis|0.17949 is|0.20513 chosen|0.23077 for|0.25641 the|0.28205 Hilbert|0.30769 space|0.33333 of|0.35897 a|0.38462 system|0.41026 then|0.4359 any|0.46154 ket|0.48718 can|0.51282 be|0.53846 expanded|0.5641 as|0.58974 a|0.61538 linear|0.64103 combination|0.66667 of|0.69231 those|0.71795 basis|0.74359 elements|0.76923 Symbolically|0.79487 given|0.82051 basis|0.84615 kets|0.87179 any|0.89744 ket|0.92308 can|0.94872 be|0.97436 written|1"
+		}
+	}
+}

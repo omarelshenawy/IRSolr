@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "243041f9bc64c2fcb9220e2d9efcf434f7d9e49cb6d849aa966443a511b8b272",
+			"url": "https://upload.wikimedia.org/math/7/4/c/74c5d162b0cfc48e1a24460f122b9d1f.png",
+			"previous": " Given the general quartic equation",
+			"after": " with real coefficients and the nature of its roots is mainly determined by the sign of its discriminant This may be refined by considering the signs of four other polynomials ",
+			"color": "black|0.37203 dim|0.25408 gray|0.25408 dim|0.25408 grey|0.25408 gray|0.16609 grey|0.16609 dark|0.11005 gray|0.11005 dark|0.11005 grey|0.11005 silver|0.049065 light|0.023834 gray|0.023834 light|0.023834 grey|0.023834 gainsboro|0.016207  ",
+			"after_weights": " with|1 real|0.96667 coefficients|0.93333 and|0.9 the|0.86667 nature|0.83333 of|0.8 its|0.76667 roots|0.73333 is|0.7 mainly|0.66667 determined|0.63333 by|0.6 the|0.56667 sign|0.53333 of|0.5 its|0.46667 discriminant|0.43333 This|0.4 may|0.36667 be|0.33333 refined|0.3 by|0.26667 considering|0.23333 the|0.2 signs|0.16667 of|0.13333 four|0.1 other|0.066667 polynomials|0.033333 |0",
+			"previous_weights": " Given|0 the|0.25 general|0.5 quartic|0.75 equation|1"
+		}
+	}
+}

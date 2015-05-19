@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "39a3e7a7cfe220e47566c92fc8a6dd69507c687773d3ae7c47430d0910613103",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Taurotragus_derbianus_gigas.jpg/220px-Taurotragus_derbianus_gigas.jpg",
+			"previous": " ",
+			"after": " The giant eland was first described in 1847 by John Edward Gray a British zoologist who called it Boselaphus derbianus 2 At that time it was also called the black necked eland and Gingi ganga 13 ",
+			"color": "silver|0.27783 dark|0.19851 gray|0.19851 dark|0.19851 grey|0.19851 light|0.14308 gray|0.14308 light|0.14308 grey|0.14308 dim|0.096296 gray|0.096296 dim|0.096296 grey|0.096296 gray|0.071938 grey|0.071938 gainsboro|0.070398 black|0.057043 tan|0.029216 light|0.0099325 steel|0.0099325 blue|0.0099325  ",
+			"after_weights": " The|1 giant|0.97222 eland|0.94444 was|0.91667 first|0.88889 described|0.86111 in|0.83333 1847|0.80556 by|0.77778 John|0.75 Edward|0.72222 Gray|0.69444 a|0.66667 British|0.63889 zoologist|0.61111 who|0.58333 called|0.55556 it|0.52778 Boselaphus|0.5 derbianus|0.47222 2|0.44444 At|0.41667 that|0.38889 time|0.36111 it|0.33333 was|0.30556 also|0.27778 called|0.25 the|0.22222 black|0.19444 necked|0.16667 eland|0.13889 and|0.11111 Gingi|0.083333 ganga|0.055556 13|0.027778 |0",
+			"previous_weights": " "
+		}
+	}
+}

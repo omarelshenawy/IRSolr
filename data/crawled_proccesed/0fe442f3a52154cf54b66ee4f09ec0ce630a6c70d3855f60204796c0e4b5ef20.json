@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fe442f3a52154cf54b66ee4f09ec0ce630a6c70d3855f60204796c0e4b5ef20",
+			"url": "https://upload.wikimedia.org/math/a/e/6/ae6956f684b16951255dd026b5a0636f.png",
+			"previous": " Let A be an n n linear transformation In this section it is shown that a change of coordinates of a matrix A to a basis formed by its eigenvectors results in a diagonal matrix ",
+			"after": " that has n linearly independent eigenvectors vi and consider the change of coordinates of A so that it is defined relative to its eigenvector basis  Recall that the eigenvectors vi of A satisfy the eigenvalue equation ",
+			"color": "dim|0.38008 gray|0.38008 dim|0.38008 grey|0.38008 gray|0.28255 grey|0.28255 dark|0.17255 gray|0.17255 dark|0.17255 grey|0.17255 silver|0.076832 light|0.040405 gray|0.040405 light|0.040405 grey|0.040405 gainsboro|0.028579 white|0.0051507 smoke|0.0051507  ",
+			"after_weights": " that|1 has|0.97297 n|0.94595 linearly|0.91892 independent|0.89189 eigenvectors|0.86486 vi|0.83784 and|0.81081 consider|0.78378 the|0.75676 change|0.72973 of|0.7027 coordinates|0.67568 of|0.64865 A|0.62162 so|0.59459 that|0.56757 it|0.54054 is|0.51351 defined|0.48649 relative|0.45946 to|0.43243 its|0.40541 eigenvector|0.37838 basis|0.35135 |0.32432 Recall|0.2973 that|0.27027 the|0.24324 eigenvectors|0.21622 vi|0.18919 of|0.16216 A|0.13514 satisfy|0.10811 the|0.081081 eigenvalue|0.054054 equation|0.027027 |0",
+			"previous_weights": " Let|0 A|0.028571 be|0.057143 an|0.085714 n|0.11429 n|0.14286 linear|0.17143 transformation|0.2 In|0.22857 this|0.25714 section|0.28571 it|0.31429 is|0.34286 shown|0.37143 that|0.4 a|0.42857 change|0.45714 of|0.48571 coordinates|0.51429 of|0.54286 a|0.57143 matrix|0.6 A|0.62857 to|0.65714 a|0.68571 basis|0.71429 formed|0.74286 by|0.77143 its|0.8 eigenvectors|0.82857 results|0.85714 in|0.88571 a|0.91429 diagonal|0.94286 matrix|0.97143 |1"
+		}
+	}
+}

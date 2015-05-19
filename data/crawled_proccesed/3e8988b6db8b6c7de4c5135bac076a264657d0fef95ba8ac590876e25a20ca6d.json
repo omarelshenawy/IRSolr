@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e8988b6db8b6c7de4c5135bac076a264657d0fef95ba8ac590876e25a20ca6d",
+			"url": "https://upload.wikimedia.org/math/9/3/1/93108627414f74222b3b42390b4b8d6d.png",
+			"previous": " The rationals are a densely ordered set between any two rationals there sits another one and therefore infinitely many other ones For example for any two fractions such that",
+			"after": " Any totally ordered set which is countable dense in the above sense and has no least or greatest element is order isomorphic to the rational numbers ",
+			"color": " ",
+			"after_weights": " Any|1 totally|0.96154 ordered|0.92308 set|0.88462 which|0.84615 is|0.80769 countable|0.76923 dense|0.73077 in|0.69231 the|0.65385 above|0.61538 sense|0.57692 and|0.53846 has|0.5 no|0.46154 least|0.42308 or|0.38462 greatest|0.34615 element|0.30769 is|0.26923 order|0.23077 isomorphic|0.19231 to|0.15385 the|0.11538 rational|0.076923 numbers|0.038462 |0",
+			"previous_weights": " The|0 rationals|0.035714 are|0.071429 a|0.10714 densely|0.14286 ordered|0.17857 set|0.21429 between|0.25 any|0.28571 two|0.32143 rationals|0.35714 there|0.39286 sits|0.42857 another|0.46429 one|0.5 and|0.53571 therefore|0.57143 infinitely|0.60714 many|0.64286 other|0.67857 ones|0.71429 For|0.75 example|0.78571 for|0.82143 any|0.85714 two|0.89286 fractions|0.92857 such|0.96429 that|1"
+		}
+	}
+}

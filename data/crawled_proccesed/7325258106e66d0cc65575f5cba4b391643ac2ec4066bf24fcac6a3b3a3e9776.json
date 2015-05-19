@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7325258106e66d0cc65575f5cba4b391643ac2ec4066bf24fcac6a3b3a3e9776",
+			"url": "https://upload.wikimedia.org/math/9/7/c/97c50f177769356c35e9b9ed39c7e821.png",
+			"previous": " Some special functions have several notations ",
+			"after": " Subscripts are often used to indicate arguments typically integers In a few cases the semicolon or even backslash is used as a separator In this case the translation to algorithmic languages admits ambiguity and may lead to confusion ",
+			"color": "dim|0.27767 gray|0.27767 dim|0.27767 grey|0.27767 black|0.24458 gray|0.22169 grey|0.22169 dark|0.13534 gray|0.13534 dark|0.13534 grey|0.13534 silver|0.059499 light|0.026468 gray|0.026468 light|0.026468 grey|0.026468 gainsboro|0.018596 white|0.0036793 smoke|0.0036793  ",
+			"after_weights": " Subscripts|1 are|0.97368 often|0.94737 used|0.92105 to|0.89474 indicate|0.86842 arguments|0.84211 typically|0.81579 integers|0.78947 In|0.76316 a|0.73684 few|0.71053 cases|0.68421 the|0.65789 semicolon|0.63158 or|0.60526 even|0.57895 backslash|0.55263 is|0.52632 used|0.5 as|0.47368 a|0.44737 separator|0.42105 In|0.39474 this|0.36842 case|0.34211 the|0.31579 translation|0.28947 to|0.26316 algorithmic|0.23684 languages|0.21053 admits|0.18421 ambiguity|0.15789 and|0.13158 may|0.10526 lead|0.078947 to|0.052632 confusion|0.026316 |0",
+			"previous_weights": " Some|0 special|0.16667 functions|0.33333 have|0.5 several|0.66667 notations|0.83333 |1"
+		}
+	}
+}

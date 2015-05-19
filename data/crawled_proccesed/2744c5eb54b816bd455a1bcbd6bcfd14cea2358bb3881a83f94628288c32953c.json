@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2744c5eb54b816bd455a1bcbd6bcfd14cea2358bb3881a83f94628288c32953c",
+			"url": "https://upload.wikimedia.org/math/f/e/8/fe801f95e20cf8d385671fa4bd84e0ad.png",
+			"previous": " The acceleration of solar system body number i is according to Newton s laws  where is the gravitational constant ",
+			"after": " In the special case where there are only two bodies in the world Earth and Sun the acceleration becomes which is the acceleration of the Kepler motion So this Earth moves around the Sun according to Kepler s laws ",
+			"color": " ",
+			"after_weights": " In|1 the|0.97436 special|0.94872 case|0.92308 where|0.89744 there|0.87179 are|0.84615 only|0.82051 two|0.79487 bodies|0.76923 in|0.74359 the|0.71795 world|0.69231 Earth|0.66667 and|0.64103 Sun|0.61538 the|0.58974 acceleration|0.5641 becomes|0.53846 which|0.51282 is|0.48718 the|0.46154 acceleration|0.4359 of|0.41026 the|0.38462 Kepler|0.35897 motion|0.33333 So|0.30769 this|0.28205 Earth|0.25641 moves|0.23077 around|0.20513 the|0.17949 Sun|0.15385 according|0.12821 to|0.10256 Kepler|0.076923 s|0.051282 laws|0.025641 |0",
+			"previous_weights": " The|0 acceleration|0.05 of|0.1 solar|0.15 system|0.2 body|0.25 number|0.3 i|0.35 is|0.4 according|0.45 to|0.5 Newton|0.55 s|0.6 laws|0.65 |0.7 where|0.75 is|0.8 the|0.85 gravitational|0.9 constant|0.95 |1"
+		}
+	}
+}

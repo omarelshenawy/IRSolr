@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1db9d586da67de2b599221502fe1cb5cbf754bd8bbafc98a913a661ba5335b81",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aerial_tram_in_Tbilisi..jpg/200px-Aerial_tram_in_Tbilisi..jpg",
+			"previous": " ",
+			"after": " The most dominant form of transportation is the marshrutka An elaborate marshrutka system has grown in Tbilisi over the recent years In addition to the city several lines also serve the surrounding countryside of Tbilisi Throughout the city a fixed price is paid regardless of the distance 80 tetri in 2014 For longer trips outside the city higher fares are common There are no predefined stops for the marshrutka lines they are hailed from the streets like taxis and each passenger can exit whenever he likes ",
+			"color": "lavender|0.40084 light|0.17198 steel|0.17198 blue|0.17198 dark|0.092445 slate|0.092445 gray|0.092445 dark|0.054463 gray|0.054463 dark|0.054463 grey|0.054463 black|0.051976 slate|0.050855 gray|0.050855 light|0.05084 slate|0.05084 gray|0.05084 gray|0.05 grey|0.05 dim|0.034308 gray|0.034308 dim|0.034308 grey|0.034308 silver|0.016985 light|0.0073886 gray|0.0073886 light|0.0073886 grey|0.0073886 gainsboro|0.0047521  ",
+			"after_weights": " The|1 most|0.98837 dominant|0.97674 form|0.96512 of|0.95349 transportation|0.94186 is|0.93023 the|0.9186 marshrutka|0.90698 An|0.89535 elaborate|0.88372 marshrutka|0.87209 system|0.86047 has|0.84884 grown|0.83721 in|0.82558 Tbilisi|0.81395 over|0.80233 the|0.7907 recent|0.77907 years|0.76744 In|0.75581 addition|0.74419 to|0.73256 the|0.72093 city|0.7093 several|0.69767 lines|0.68605 also|0.67442 serve|0.66279 the|0.65116 surrounding|0.63953 countryside|0.62791 of|0.61628 Tbilisi|0.60465 Throughout|0.59302 the|0.5814 city|0.56977 a|0.55814 fixed|0.54651 price|0.53488 is|0.52326 paid|0.51163 regardless|0.5 of|0.48837 the|0.47674 distance|0.46512 80|0.45349 tetri|0.44186 in|0.43023 2014|0.4186 For|0.40698 longer|0.39535 trips|0.38372 outside|0.37209 the|0.36047 city|0.34884 higher|0.33721 fares|0.32558 are|0.31395 common|0.30233 There|0.2907 are|0.27907 no|0.26744 predefined|0.25581 stops|0.24419 for|0.23256 the|0.22093 marshrutka|0.2093 lines|0.19767 they|0.18605 are|0.17442 hailed|0.16279 from|0.15116 the|0.13953 streets|0.12791 like|0.11628 taxis|0.10465 and|0.093023 each|0.081395 passenger|0.069767 can|0.05814 exit|0.046512 whenever|0.034884 he|0.023256 likes|0.011628 |0",
+			"previous_weights": " "
+		}
+	}
+}

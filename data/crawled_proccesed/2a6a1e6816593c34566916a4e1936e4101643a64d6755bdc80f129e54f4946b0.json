@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a6a1e6816593c34566916a4e1936e4101643a64d6755bdc80f129e54f4946b0",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Communion3.jpg/150px-Communion3.jpg",
+			"previous": " Following this the Agnus Dei is chanted ",
+			"after": " The Distribution is next see above for different manners it is followed by the nunc dimittis which is chanted as follows  The postcommunion is prayed by the pastor ",
+			"color": "black|0.33407 sea|0.24665 green|0.24665 rosy|0.13008 brown|0.13008 sienna|0.071846 tan|0.062203 saddle|0.042301 brown|0.042301 burly|0.015351 wood|0.015351 peach|0.014093 puff|0.014093  ",
+			"after_weights": " The|1 Distribution|0.96552 is|0.93103 next|0.89655 see|0.86207 above|0.82759 for|0.7931 different|0.75862 manners|0.72414 it|0.68966 is|0.65517 followed|0.62069 by|0.58621 the|0.55172 nunc|0.51724 dimittis|0.48276 which|0.44828 is|0.41379 chanted|0.37931 as|0.34483 follows|0.31034 |0.27586 The|0.24138 postcommunion|0.2069 is|0.17241 prayed|0.13793 by|0.10345 the|0.068966 pastor|0.034483 |0",
+			"previous_weights": " Following|0 this|0.14286 the|0.28571 Agnus|0.42857 Dei|0.57143 is|0.71429 chanted|0.85714 |1"
+		}
+	}
+}

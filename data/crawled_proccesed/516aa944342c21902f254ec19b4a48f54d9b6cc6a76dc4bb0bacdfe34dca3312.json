@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "516aa944342c21902f254ec19b4a48f54d9b6cc6a76dc4bb0bacdfe34dca3312",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arizona_Science_Center-5.jpg/220px-Arizona_Science_Center-5.jpg",
+			"previous": " ",
+			"after": " Dozens of museums exist throughout the valley They include the Phoenix Art Museum Arizona Capitol Museum Arizona Military Museum Hall of Flame Firefighting Museum the Pueblo Grande Museum and Cultural Park Children s Museum of Phoenix Arizona Science Center and the Heard Museum In 2010 the Musical Instrument Museum opened their doors featuring the biggest musical instrument collection in the world 145 ",
+			"color": "dim|0.23173 gray|0.23173 dim|0.23173 grey|0.23173 gray|0.17059 grey|0.17059 dark|0.1424 gray|0.1424 dark|0.1424 grey|0.1424 slate|0.12851 gray|0.12851 light|0.11286 slate|0.11286 gray|0.11286 silver|0.066578 light|0.050538 steel|0.050538 blue|0.050538 dark|0.047934 slate|0.047934 gray|0.047934 black|0.022564 light|0.017212 gray|0.017212 light|0.017212 grey|0.017212 gainsboro|0.0048739  ",
+			"after_weights": " Dozens|1 of|0.98387 museums|0.96774 exist|0.95161 throughout|0.93548 the|0.91935 valley|0.90323 They|0.8871 include|0.87097 the|0.85484 Phoenix|0.83871 Art|0.82258 Museum|0.80645 Arizona|0.79032 Capitol|0.77419 Museum|0.75806 Arizona|0.74194 Military|0.72581 Museum|0.70968 Hall|0.69355 of|0.67742 Flame|0.66129 Firefighting|0.64516 Museum|0.62903 the|0.6129 Pueblo|0.59677 Grande|0.58065 Museum|0.56452 and|0.54839 Cultural|0.53226 Park|0.51613 Children|0.5 s|0.48387 Museum|0.46774 of|0.45161 Phoenix|0.43548 Arizona|0.41935 Science|0.40323 Center|0.3871 and|0.37097 the|0.35484 Heard|0.33871 Museum|0.32258 In|0.30645 2010|0.29032 the|0.27419 Musical|0.25806 Instrument|0.24194 Museum|0.22581 opened|0.20968 their|0.19355 doors|0.17742 featuring|0.16129 the|0.14516 biggest|0.12903 musical|0.1129 instrument|0.096774 collection|0.080645 in|0.064516 the|0.048387 world|0.032258 145|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

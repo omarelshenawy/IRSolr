@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "788b1bd3ffa290b7fb33ecfe928ab931868ef03f401265ab19e2b8fcdc19e131",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MobileRobotsPioneerAT.jpg/220px-MobileRobotsPioneerAT.jpg",
+			"previous": " The Lego company began a program for children to learn and get excited about robotics at a young age 113 ",
+			"after": " Robotics is an essential component in many modern manufacturing environments As factories increase their use of robots the number of robotics related jobs grow and have been observed to be steadily rising 114 ",
+			"color": "tan|0.20309 black|0.19749 dim|0.085076 gray|0.085076 dim|0.085076 grey|0.085076 peach|0.081738 puff|0.081738 burly|0.069841 wood|0.069841 tomato|0.065699 firebrick|0.041843 brown|0.029808 wheat|0.029153 gray|0.025794 grey|0.025794 bisque|0.02103 dark|0.01222 gray|0.01222 dark|0.01222 grey|0.01222 maroon|0.011488 dark|0.011293 golden|0.011293 rod|0.011293  ",
+			"after_weights": " Robotics|1 is|0.9697 an|0.93939 essential|0.90909 component|0.87879 in|0.84848 many|0.81818 modern|0.78788 manufacturing|0.75758 environments|0.72727 As|0.69697 factories|0.66667 increase|0.63636 their|0.60606 use|0.57576 of|0.54545 robots|0.51515 the|0.48485 number|0.45455 of|0.42424 robotics|0.39394 related|0.36364 jobs|0.33333 grow|0.30303 and|0.27273 have|0.24242 been|0.21212 observed|0.18182 to|0.15152 be|0.12121 steadily|0.090909 rising|0.060606 114|0.030303 |0",
+			"previous_weights": " The|0 Lego|0.05 company|0.1 began|0.15 a|0.2 program|0.25 for|0.3 children|0.35 to|0.4 learn|0.45 and|0.5 get|0.55 excited|0.6 about|0.65 robotics|0.7 at|0.75 a|0.8 young|0.85 age|0.9 113|0.95 |1"
+		}
+	}
+}

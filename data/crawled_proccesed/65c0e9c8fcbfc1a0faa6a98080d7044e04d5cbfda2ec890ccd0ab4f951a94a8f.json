@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "65c0e9c8fcbfc1a0faa6a98080d7044e04d5cbfda2ec890ccd0ab4f951a94a8f",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Protools9screen.png/220px-Protools9screen.png",
+			"previous": " ",
+			"after": " Most of Pro Tools basic functions can be controlled within Edit or Mix windows The Edit window displays audio and MIDI tracks and provides graphical representation of the information recorded or imported Here audio can be edited in a non linear non destructive fashion MIDI information can also be manipulated The Mix window displays each track s fader channel and allows for the adjustment of a channel s volume and pan as well as being the usual place to insert plug in effects and route audio to and from different outputs and inputs ",
+			"color": "dark|0.35036 gray|0.35036 dark|0.35036 grey|0.35036 gray|0.18379 grey|0.18379 dim|0.14534 gray|0.14534 dim|0.14534 grey|0.14534 silver|0.13135 sky|0.040779 blue|0.040779 dark|0.033909 sea|0.033909 green|0.033909 rosy|0.027602 brown|0.027602 slate|0.020544 gray|0.020544 light|0.017737 slate|0.017737 gray|0.017737 light|0.010554 steel|0.010554 blue|0.010554 light|0.008482 gray|0.008482 light|0.008482 grey|0.008482 black|0.0082639 slate|0.0045483 blue|0.0045483  ",
+			"after_weights": " Most|1 of|0.98925 Pro|0.97849 Tools|0.96774 basic|0.95699 functions|0.94624 can|0.93548 be|0.92473 controlled|0.91398 within|0.90323 Edit|0.89247 or|0.88172 Mix|0.87097 windows|0.86022 The|0.84946 Edit|0.83871 window|0.82796 displays|0.8172 audio|0.80645 and|0.7957 MIDI|0.78495 tracks|0.77419 and|0.76344 provides|0.75269 graphical|0.74194 representation|0.73118 of|0.72043 the|0.70968 information|0.69892 recorded|0.68817 or|0.67742 imported|0.66667 Here|0.65591 audio|0.64516 can|0.63441 be|0.62366 edited|0.6129 in|0.60215 a|0.5914 non|0.58065 linear|0.56989 non|0.55914 destructive|0.54839 fashion|0.53763 MIDI|0.52688 information|0.51613 can|0.50538 also|0.49462 be|0.48387 manipulated|0.47312 The|0.46237 Mix|0.45161 window|0.44086 displays|0.43011 each|0.41935 track|0.4086 s|0.39785 fader|0.3871 channel|0.37634 and|0.36559 allows|0.35484 for|0.34409 the|0.33333 adjustment|0.32258 of|0.31183 a|0.30108 channel|0.29032 s|0.27957 volume|0.26882 and|0.25806 pan|0.24731 as|0.23656 well|0.22581 as|0.21505 being|0.2043 the|0.19355 usual|0.1828 place|0.17204 to|0.16129 insert|0.15054 plug|0.13978 in|0.12903 effects|0.11828 and|0.10753 route|0.096774 audio|0.086022 to|0.075269 and|0.064516 from|0.053763 different|0.043011 outputs|0.032258 and|0.021505 inputs|0.010753 |0",
+			"previous_weights": " "
+		}
+	}
+}

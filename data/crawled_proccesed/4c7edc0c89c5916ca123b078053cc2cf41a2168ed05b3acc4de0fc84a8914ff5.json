@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c7edc0c89c5916ca123b078053cc2cf41a2168ed05b3acc4de0fc84a8914ff5",
+			"url": "https://upload.wikimedia.org/math/2/7/a/27ab9af40f29df8eae70e73d7bbb6325.png",
+			"previous": " Much web based mapping uses a zoomable version of the Mercator projection with an aspect ratio of unity In this case the maximum latitude attained must correspond to y W 2 or equivalently y R Any of the inverse transformation formulae may be used to calculate the corresponding latitudes ",
+			"after": " ",
+			"color": "dim|0.42452 gray|0.42452 dim|0.42452 grey|0.42452 gray|0.26105 grey|0.26105 dark|0.1446 gray|0.1446 dark|0.1446 grey|0.1446 silver|0.073576 light|0.03961 gray|0.03961 light|0.03961 grey|0.03961 gainsboro|0.028784 white|0.0066743 smoke|0.0066743 linen|0.0035883 lavender|0.003409 blush|0.003409 alice|0.0033604 blue|0.0033604  ",
+			"after_weights": " ",
+			"previous_weights": " Much|0 web|0.020408 based|0.040816 mapping|0.061224 uses|0.081633 a|0.10204 zoomable|0.12245 version|0.14286 of|0.16327 the|0.18367 Mercator|0.20408 projection|0.22449 with|0.2449 an|0.26531 aspect|0.28571 ratio|0.30612 of|0.32653 unity|0.34694 In|0.36735 this|0.38776 case|0.40816 the|0.42857 maximum|0.44898 latitude|0.46939 attained|0.4898 must|0.5102 correspond|0.53061 to|0.55102 y|0.57143 W|0.59184 2|0.61224 or|0.63265 equivalently|0.65306 y|0.67347 R|0.69388 Any|0.71429 of|0.73469 the|0.7551 inverse|0.77551 transformation|0.79592 formulae|0.81633 may|0.83673 be|0.85714 used|0.87755 to|0.89796 calculate|0.91837 the|0.93878 corresponding|0.95918 latitudes|0.97959 |1"
+		}
+	}
+}

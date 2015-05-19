@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "67bddbf98505887cd156e7ca5e03fd9f40663dfc2aa1b0e91a050ef6b5e776b8",
+			"url": "https://upload.wikimedia.org/math/0/f/0/0f0a17e53cfcf98965218210eb952223.png",
+			"previous": " The Earth s mean radius of curvature at latitude is 7 ",
+			"after": " The Earth can be modeled as a sphere in many ways This section describes the common ways The various radii derived here use the notation and dimensions noted above for the Earth as derived from the WGS 84 ellipsoid 4 namely ",
+			"color": "dim|0.3637 gray|0.3637 dim|0.3637 grey|0.3637 gray|0.23896 grey|0.23896 dark|0.16678 gray|0.16678 dark|0.16678 grey|0.16678 silver|0.07878 black|0.058295 light|0.044264 gray|0.044264 light|0.044264 grey|0.044264 gainsboro|0.031242 white|0.0046204 smoke|0.0046204  ",
+			"after_weights": " The|1 Earth|0.97561 can|0.95122 be|0.92683 modeled|0.90244 as|0.87805 a|0.85366 sphere|0.82927 in|0.80488 many|0.78049 ways|0.7561 This|0.73171 section|0.70732 describes|0.68293 the|0.65854 common|0.63415 ways|0.60976 The|0.58537 various|0.56098 radii|0.53659 derived|0.5122 here|0.4878 use|0.46341 the|0.43902 notation|0.41463 and|0.39024 dimensions|0.36585 noted|0.34146 above|0.31707 for|0.29268 the|0.26829 Earth|0.2439 as|0.21951 derived|0.19512 from|0.17073 the|0.14634 WGS|0.12195 84|0.097561 ellipsoid|0.073171 4|0.04878 namely|0.02439 |0",
+			"previous_weights": " The|0 Earth|0.090909 s|0.18182 mean|0.27273 radius|0.36364 of|0.45455 curvature|0.54545 at|0.63636 latitude|0.72727 is|0.81818 7|0.90909 |1"
+		}
+	}
+}

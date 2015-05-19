@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a35d56f3cfb6ddf4239aa09d1b27c17862bcbd2b2b49df8c815ea6a3d59f4c4",
+			"url": "https://upload.wikimedia.org/math/6/b/2/6b29effc29462138f2192968050bceb1.png",
+			"previous": " ",
+			"after": " where M is the matrix of f The symbol denotes that there are other columns which together with column j make up a total of n columns of M In other words every column j 1 n has a corresponding vector f vj whose coordinates a1j amj are the elements of column j A single linear map may be represented by many matrices This is because the values of the elements of a matrix depend on the bases chosen ",
+			"color": "black|0.39303 dim|0.21475 gray|0.21475 dim|0.21475 grey|0.21475 gray|0.16305 grey|0.16305 dark|0.14466 gray|0.14466 dark|0.14466 grey|0.14466 silver|0.052678 light|0.021051 gray|0.021051 light|0.021051 grey|0.021051 gainsboro|0.010096  ",
+			"after_weights": " where|1 M|0.98734 is|0.97468 the|0.96203 matrix|0.94937 of|0.93671 f|0.92405 The|0.91139 symbol|0.89873 denotes|0.88608 that|0.87342 there|0.86076 are|0.8481 other|0.83544 columns|0.82278 which|0.81013 together|0.79747 with|0.78481 column|0.77215 j|0.75949 make|0.74684 up|0.73418 a|0.72152 total|0.70886 of|0.6962 n|0.68354 columns|0.67089 of|0.65823 M|0.64557 In|0.63291 other|0.62025 words|0.60759 every|0.59494 column|0.58228 j|0.56962 1|0.55696 n|0.5443 has|0.53165 a|0.51899 corresponding|0.50633 vector|0.49367 f|0.48101 vj|0.46835 whose|0.4557 coordinates|0.44304 a1j|0.43038 amj|0.41772 are|0.40506 the|0.39241 elements|0.37975 of|0.36709 column|0.35443 j|0.34177 A|0.32911 single|0.31646 linear|0.3038 map|0.29114 may|0.27848 be|0.26582 represented|0.25316 by|0.24051 many|0.22785 matrices|0.21519 This|0.20253 is|0.18987 because|0.17722 the|0.16456 values|0.1519 of|0.13924 the|0.12658 elements|0.11392 of|0.10127 a|0.088608 matrix|0.075949 depend|0.063291 on|0.050633 the|0.037975 bases|0.025316 chosen|0.012658 |0",
+			"previous_weights": " "
+		}
+	}
+}

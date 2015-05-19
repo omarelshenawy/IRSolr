@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9e9f7ec796d1086fdb01bae8dcaaa8095d6e7ac38c450f9f5485d8abff4bf33a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bijective_composition.svg/300px-Bijective_composition.svg.png",
+			"previous": " The composition of two bijections f X Y and g Y Z is a bijection The inverse of is ",
+			"after": " Conversely if the composition of two functions is bijective we can only say that f is injective and g is surjective ",
+			"color": "white|0.091992 smoke|0.091992 snow|0.091079 white|0.091028 ghost|0.091021 white|0.091021 mint|0.090627 cream|0.090627 alice|0.090579 blue|0.090579 sea|0.090167 shell|0.090167 floral|0.089791 white|0.089791 azure|0.089295 lavender|0.086787 blush|0.086787 black|0.026861 gray|0.020496 grey|0.020496 dim|0.01445 gray|0.01445 dim|0.01445 grey|0.01445 dark|0.010902 gray|0.010902 dark|0.010902 grey|0.010902 silver|0.0073268 light|0.0060553 gray|0.0060553 light|0.0060553 grey|0.0060553 gainsboro|0.0059787 ivory|0.003385  ",
+			"after_weights": " Conversely|1 if|0.95238 the|0.90476 composition|0.85714 of|0.80952 two|0.7619 functions|0.71429 is|0.66667 bijective|0.61905 we|0.57143 can|0.52381 only|0.47619 say|0.42857 that|0.38095 f|0.33333 is|0.28571 injective|0.2381 and|0.19048 g|0.14286 is|0.095238 surjective|0.047619 |0",
+			"previous_weights": " The|0 composition|0.052632 of|0.10526 two|0.15789 bijections|0.21053 f|0.26316 X|0.31579 Y|0.36842 and|0.42105 g|0.47368 Y|0.52632 Z|0.57895 is|0.63158 a|0.68421 bijection|0.73684 The|0.78947 inverse|0.84211 of|0.89474 is|0.94737 |1"
+		}
+	}
+}

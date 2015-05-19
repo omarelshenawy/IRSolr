@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3cb8f482bef6be61ec43137657c0296ce896c60ae9d99e9e8aa4b463430d028d",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Yahoo.com_Main_Page_as_of_4th_August_2014.png/220px-Yahoo.com_Main_Page_as_of_4th_August_2014.png",
+			"previous": " ",
+			"after": " Yahoo operates a portal that provides the latest news entertainment and sports information The portal also gives users access to other Yahoo services like Yahoo Mail Yahoo Maps Yahoo Finance Yahoo Groups and Yahoo Messenger ",
+			"color": "white|0.078663 smoke|0.078663 ghost|0.078342 white|0.078342 alice|0.077951 blue|0.077951 snow|0.072533 white|0.070527 sea|0.07048 shell|0.07048 lavender|0.068048 blush|0.068048 mint|0.067864 cream|0.067864 azure|0.067598 floral|0.066739 white|0.066739 lavender|0.045793 light|0.034707 gray|0.034707 light|0.034707 grey|0.034707 gainsboro|0.032946 silver|0.028472 indigo|0.014936 dark|0.014801 gray|0.014801 dark|0.014801 grey|0.014801 light|0.01327 steel|0.01327 blue|0.01327 linen|0.0089665 thistle|0.0086648 ivory|0.0080168 black|0.0069517 dim|0.0060598 gray|0.0060598 dim|0.0060598 grey|0.0060598 gray|0.0052979 grey|0.0052979 corn|0.0043369 flower|0.0043369 blue|0.0043369 old|0.0040287 lace|0.0040287 light|0.0039132 blue|0.0039132 antique|0.0032327 white|0.0032327  ",
+			"after_weights": " Yahoo|1 operates|0.97143 a|0.94286 portal|0.91429 that|0.88571 provides|0.85714 the|0.82857 latest|0.8 news|0.77143 entertainment|0.74286 and|0.71429 sports|0.68571 information|0.65714 The|0.62857 portal|0.6 also|0.57143 gives|0.54286 users|0.51429 access|0.48571 to|0.45714 other|0.42857 Yahoo|0.4 services|0.37143 like|0.34286 Yahoo|0.31429 Mail|0.28571 Yahoo|0.25714 Maps|0.22857 Yahoo|0.2 Finance|0.17143 Yahoo|0.14286 Groups|0.11429 and|0.085714 Yahoo|0.057143 Messenger|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

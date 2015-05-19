@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b1f7276bf9e2f259590e39c5b5693717ab9ac3de3fba751873b2085cdc287d6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roomba_original.jpg/220px-Roomba_original.jpg",
+			"previous": " ",
+			"after": " Domestic robots are simple robots dedicated to a single task work in home use They are used in simple but unwanted jobs such as vacuum cleaning floor washing and lawn mowing An example of a domestic robot is a Roomba ",
+			"color": "dark|0.43992 gray|0.43992 dark|0.43992 grey|0.43992 silver|0.18083 black|0.12184 gray|0.081801 grey|0.081801 dim|0.046803 gray|0.046803 dim|0.046803 grey|0.046803 light|0.029288 gray|0.029288 light|0.029288 grey|0.029288 gainsboro|0.017865 white|0.0077401 smoke|0.0077401 lavender|0.0075634 blush|0.0075634 light|0.0072403 slate|0.0072403 gray|0.0072403 slate|0.0068557 gray|0.0068557 sea|0.0063209 shell|0.0063209 snow|0.0062726 ghost|0.0061693 white|0.0061693 alice|0.0054159 blue|0.0054159 white|0.0049401 lavender|0.0036516 linen|0.0035832 floral|0.0035541 white|0.0035541 mint|0.0032854 cream|0.0032854  ",
+			"after_weights": " Domestic|1 robots|0.975 are|0.95 simple|0.925 robots|0.9 dedicated|0.875 to|0.85 a|0.825 single|0.8 task|0.775 work|0.75 in|0.725 home|0.7 use|0.675 They|0.65 are|0.625 used|0.6 in|0.575 simple|0.55 but|0.525 unwanted|0.5 jobs|0.475 such|0.45 as|0.425 vacuum|0.4 cleaning|0.375 floor|0.35 washing|0.325 and|0.3 lawn|0.275 mowing|0.25 An|0.225 example|0.2 of|0.175 a|0.15 domestic|0.125 robot|0.1 is|0.075 a|0.05 Roomba|0.025 |0",
+			"previous_weights": " "
+		}
+	}
+}

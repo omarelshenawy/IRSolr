@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "16067da71c2037371a34a62f716179cfe953737b7fcf19ecef697242be4a06d9",
+			"url": "https://upload.wikimedia.org/math/d/7/1/d7160b024d874e14239963047485b7ab.png",
+			"previous": " A classic extensively studied nonlinear problem is the dynamics of a pendulum under influence of gravity Using Lagrangian mechanics it may be shown 4 that the motion of a pendulum can be described by the dimensionless nonlinear equation",
+			"after": " which is an implicit solution involving an elliptic integral This solution generally does not have many uses because most of the nature of the solution is hidden in the nonelementary integral nonelementary even if ",
+			"color": "gray|0.28793 grey|0.28793 dark|0.28413 gray|0.28413 dark|0.28413 grey|0.28413 silver|0.14563 dim|0.111 gray|0.111 dim|0.111 grey|0.111 light|0.079732 gray|0.079732 light|0.079732 grey|0.079732 gainsboro|0.056056 white|0.010602 smoke|0.010602 linen|0.0048216 lavender|0.0038467 blush|0.0038467 alice|0.0036415 blue|0.0036415 ghost|0.0034419 white|0.0034419 sea|0.0030999 shell|0.0030999 snow|0.002993  ",
+			"after_weights": " which|1 is|0.97059 an|0.94118 implicit|0.91176 solution|0.88235 involving|0.85294 an|0.82353 elliptic|0.79412 integral|0.76471 This|0.73529 solution|0.70588 generally|0.67647 does|0.64706 not|0.61765 have|0.58824 many|0.55882 uses|0.52941 because|0.5 most|0.47059 of|0.44118 the|0.41176 nature|0.38235 of|0.35294 the|0.32353 solution|0.29412 is|0.26471 hidden|0.23529 in|0.20588 the|0.17647 nonelementary|0.14706 integral|0.11765 nonelementary|0.088235 even|0.058824 if|0.029412 |0",
+			"previous_weights": " A|0 classic|0.027027 extensively|0.054054 studied|0.081081 nonlinear|0.10811 problem|0.13514 is|0.16216 the|0.18919 dynamics|0.21622 of|0.24324 a|0.27027 pendulum|0.2973 under|0.32432 influence|0.35135 of|0.37838 gravity|0.40541 Using|0.43243 Lagrangian|0.45946 mechanics|0.48649 it|0.51351 may|0.54054 be|0.56757 shown|0.59459 4|0.62162 that|0.64865 the|0.67568 motion|0.7027 of|0.72973 a|0.75676 pendulum|0.78378 can|0.81081 be|0.83784 described|0.86486 by|0.89189 the|0.91892 dimensionless|0.94595 nonlinear|0.97297 equation|1"
+		}
+	}
+}

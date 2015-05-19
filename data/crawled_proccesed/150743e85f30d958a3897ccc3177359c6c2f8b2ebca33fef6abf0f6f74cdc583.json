@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "150743e85f30d958a3897ccc3177359c6c2f8b2ebca33fef6abf0f6f74cdc583",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bucure%C5%9Fti_-_Omar_Khayam_3.jpg/170px-Bucure%C5%9Fti_-_Omar_Khayam_3.jpg",
+			"previous": " There have been widely divergent views on Khayy m At one end of the spectrum there are nightclubs named after Khayy m and he is seen as an agnostic hedonist 40 On the other end of the spectrum he is seen as a mystical Sufi poet influenced by platonic traditions ",
+			"after": " Christopher Hitchens for instance identifies Khayy m as a skeptic whose poetry was satirizing the claims and practices of religion 41 ",
+			"color": "dim|0.20351 gray|0.20351 dim|0.20351 grey|0.20351 black|0.16407 dark|0.14512 gray|0.14512 dark|0.14512 grey|0.14512 silver|0.14287 gray|0.090635 grey|0.090635 light|0.089358 gray|0.089358 light|0.089358 grey|0.089358 gainsboro|0.062841 slate|0.040405 gray|0.040405 light|0.03132 slate|0.03132 gray|0.03132 dark|0.020751 olive|0.020751 green|0.020751  ",
+			"after_weights": " Christopher|1 Hitchens|0.95238 for|0.90476 instance|0.85714 identifies|0.80952 Khayy|0.7619 m|0.71429 as|0.66667 a|0.61905 skeptic|0.57143 whose|0.52381 poetry|0.47619 was|0.42857 satirizing|0.38095 the|0.33333 claims|0.28571 and|0.2381 practices|0.19048 of|0.14286 religion|0.095238 41|0.047619 |0",
+			"previous_weights": " There|0 have|0.02 been|0.04 widely|0.06 divergent|0.08 views|0.1 on|0.12 Khayy|0.14 m|0.16 At|0.18 one|0.2 end|0.22 of|0.24 the|0.26 spectrum|0.28 there|0.3 are|0.32 nightclubs|0.34 named|0.36 after|0.38 Khayy|0.4 m|0.42 and|0.44 he|0.46 is|0.48 seen|0.5 as|0.52 an|0.54 agnostic|0.56 hedonist|0.58 40|0.6 On|0.62 the|0.64 other|0.66 end|0.68 of|0.7 the|0.72 spectrum|0.74 he|0.76 is|0.78 seen|0.8 as|0.82 a|0.84 mystical|0.86 Sufi|0.88 poet|0.9 influenced|0.92 by|0.94 platonic|0.96 traditions|0.98 |1"
+		}
+	}
+}

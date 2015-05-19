@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "79baf0582b4c0d0a0338c168e3f6eb7dd3f720dcafe617d24a8a3a1795087982",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Edited_efficiency_impulse.png/220px-Edited_efficiency_impulse.png",
+			"previous": " Stage efficiency ",
+			"after": " A stage of an impulse turbine consists of a nozzle set and a moving wheel The stage efficiency defines a relationship between enthalpy drop in the nozzle and work done in the stage   Where is the specific enthalpy drop of steam in the nozzle ",
+			"color": "light|0.61018 steel|0.61018 blue|0.61018 lavender|0.25774 silver|0.018643 dark|0.017137 gray|0.017137 dark|0.017137 grey|0.017137 steel|0.016675 blue|0.016675 light|0.015732 gray|0.015732 light|0.015732 grey|0.015732 gainsboro|0.013505 alice|0.010826 blue|0.010826 gray|0.0095771 grey|0.0095771 dim|0.0090262 gray|0.0090262 dim|0.0090262 grey|0.0090262 light|0.0039204 slate|0.0039204 gray|0.0039204 ghost|0.0038526 white|0.0038526 slate|0.0032711 gray|0.0032711  ",
+			"after_weights": " A|1 stage|0.97826 of|0.95652 an|0.93478 impulse|0.91304 turbine|0.8913 consists|0.86957 of|0.84783 a|0.82609 nozzle|0.80435 set|0.78261 and|0.76087 a|0.73913 moving|0.71739 wheel|0.69565 The|0.67391 stage|0.65217 efficiency|0.63043 defines|0.6087 a|0.58696 relationship|0.56522 between|0.54348 enthalpy|0.52174 drop|0.5 in|0.47826 the|0.45652 nozzle|0.43478 and|0.41304 work|0.3913 done|0.36957 in|0.34783 the|0.32609 stage|0.30435 |0.28261 |0.26087 Where|0.23913 is|0.21739 the|0.19565 specific|0.17391 enthalpy|0.15217 drop|0.13043 of|0.1087 steam|0.086957 in|0.065217 the|0.043478 nozzle|0.021739 |0",
+			"previous_weights": " Stage|0 efficiency|0.5 |1"
+		}
+	}
+}

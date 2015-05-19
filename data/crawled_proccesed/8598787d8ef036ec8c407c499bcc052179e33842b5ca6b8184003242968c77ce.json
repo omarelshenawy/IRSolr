@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8598787d8ef036ec8c407c499bcc052179e33842b5ca6b8184003242968c77ce",
+			"url": "https://upload.wikimedia.org/math/8/4/d/84d9a0ea0b223d004a89e01131c209aa.png",
+			"previous": "  where V0 is the inlet velocity of steam in the nozzle The enthalpy drop in the fixed blades with the assumption that the velocity of steam entering the fixed blades is equal to the velocity of steam leaving the previously moving blades is given by ",
+			"after": " Therefore   ",
+			"color": "gray|0.36999 grey|0.36999 dark|0.29249 gray|0.29249 dark|0.29249 grey|0.29249 dim|0.13944 gray|0.13944 dim|0.13944 grey|0.13944 silver|0.11024 light|0.04598 gray|0.04598 light|0.04598 grey|0.04598 gainsboro|0.028993 white|0.0040608 smoke|0.0040608  ",
+			"after_weights": " Therefore|1 |0.66667 |0.33333 |0",
+			"previous_weights": " |0 where|0.021739 V0|0.043478 is|0.065217 the|0.086957 inlet|0.1087 velocity|0.13043 of|0.15217 steam|0.17391 in|0.19565 the|0.21739 nozzle|0.23913 The|0.26087 enthalpy|0.28261 drop|0.30435 in|0.32609 the|0.34783 fixed|0.36957 blades|0.3913 with|0.41304 the|0.43478 assumption|0.45652 that|0.47826 the|0.5 velocity|0.52174 of|0.54348 steam|0.56522 entering|0.58696 the|0.6087 fixed|0.63043 blades|0.65217 is|0.67391 equal|0.69565 to|0.71739 the|0.73913 velocity|0.76087 of|0.78261 steam|0.80435 leaving|0.82609 the|0.84783 previously|0.86957 moving|0.8913 blades|0.91304 is|0.93478 given|0.95652 by|0.97826 |1"
+		}
+	}
+}

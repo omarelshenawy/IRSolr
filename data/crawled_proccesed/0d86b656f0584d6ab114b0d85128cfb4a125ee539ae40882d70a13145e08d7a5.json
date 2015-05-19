@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d86b656f0584d6ab114b0d85128cfb4a125ee539ae40882d70a13145e08d7a5",
+			"url": "https://upload.wikimedia.org/math/2/6/f/26f32361e1d541b933f6f2c2f5c8ba7f.png",
+			"previous": " When the mean anomaly M is computed the goal is to compute the true anomaly The function f M is however not elementary 18 Kepler s solution is to use",
+			"after": " as an intermediate variable and first compute E as a function of M by solving Kepler s equation below and then compute the true anomaly from the eccentric anomaly E Here are the details ",
+			"color": "black|0.4837 dim|0.20588 gray|0.20588 dim|0.20588 grey|0.20588 gray|0.14527 grey|0.14527 dark|0.082081 gray|0.082081 dark|0.082081 grey|0.082081 silver|0.038002 light|0.019774 gray|0.019774 light|0.019774 grey|0.019774 gainsboro|0.01414  ",
+			"after_weights": " as|1 an|0.97059 intermediate|0.94118 variable|0.91176 and|0.88235 first|0.85294 compute|0.82353 E|0.79412 as|0.76471 a|0.73529 function|0.70588 of|0.67647 M|0.64706 by|0.61765 solving|0.58824 Kepler|0.55882 s|0.52941 equation|0.5 below|0.47059 and|0.44118 then|0.41176 compute|0.38235 the|0.35294 true|0.32353 anomaly|0.29412 from|0.26471 the|0.23529 eccentric|0.20588 anomaly|0.17647 E|0.14706 Here|0.11765 are|0.088235 the|0.058824 details|0.029412 |0",
+			"previous_weights": " When|0 the|0.034483 mean|0.068966 anomaly|0.10345 M|0.13793 is|0.17241 computed|0.2069 the|0.24138 goal|0.27586 is|0.31034 to|0.34483 compute|0.37931 the|0.41379 true|0.44828 anomaly|0.48276 The|0.51724 function|0.55172 f|0.58621 M|0.62069 is|0.65517 however|0.68966 not|0.72414 elementary|0.75862 18|0.7931 Kepler|0.82759 s|0.86207 solution|0.89655 is|0.93103 to|0.96552 use|1"
+		}
+	}
+}

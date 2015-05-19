@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "14862f67dc383d067c47476c56d9b90dee479cd3dac73f9f338197abc23351dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ethiopian_Airlines_Flight_961_seating_plan.svg/350px-Ethiopian_Airlines_Flight_961_seating_plan.svg.png",
+			"previous": " List of passengers not including crew members including hijackers  The passengers originated from 36 countries ",
+			"after": " The deceased passenger count includes the three hijackers 24 Of the passengers 42 originated in Bombay including 25  The rest of the passengers originated in Addis Ababa ",
+			"color": "red|0.39037 gray|0.069472 grey|0.069472 rosy|0.066198 brown|0.066198 firebrick|0.054862 brown|0.046716 dark|0.035151 red|0.035151 silver|0.03226 maroon|0.030631 dark|0.03023 gray|0.03023 dark|0.03023 grey|0.03023 dim|0.0259 gray|0.0259 dim|0.0259 grey|0.0259 light|0.025679 gray|0.025679 light|0.025679 grey|0.025679 black|0.025061 indian|0.024357 red|0.024357 gainsboro|0.020071 lime|0.01889 white|0.0088092 smoke|0.0088092 tan|0.0075507 sea|0.0063658 shell|0.0063658 snow|0.0061218 ghost|0.0058825 white|0.0058825 alice|0.005664 blue|0.005664 saddle|0.0056563 brown|0.0056563 white|0.0054374 peru|0.0054127 floral|0.0051737 white|0.0051737 mint|0.0050083 cream|0.0050083  ",
+			"after_weights": " The|1 deceased|0.96429 passenger|0.92857 count|0.89286 includes|0.85714 the|0.82143 three|0.78571 hijackers|0.75 24|0.71429 Of|0.67857 the|0.64286 passengers|0.60714 42|0.57143 originated|0.53571 in|0.5 Bombay|0.46429 including|0.42857 25|0.39286 |0.35714 The|0.32143 rest|0.28571 of|0.25 the|0.21429 passengers|0.17857 originated|0.14286 in|0.10714 Addis|0.071429 Ababa|0.035714 |0",
+			"previous_weights": " List|0 of|0.0625 passengers|0.125 not|0.1875 including|0.25 crew|0.3125 members|0.375 including|0.4375 hijackers|0.5 |0.5625 The|0.625 passengers|0.6875 originated|0.75 from|0.8125 36|0.875 countries|0.9375 |1"
+		}
+	}
+}

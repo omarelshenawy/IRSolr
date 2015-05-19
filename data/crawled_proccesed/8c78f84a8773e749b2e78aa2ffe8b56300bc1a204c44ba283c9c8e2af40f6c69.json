@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c78f84a8773e749b2e78aa2ffe8b56300bc1a204c44ba283c9c8e2af40f6c69",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_University_of_Hong_Kong_Li_Ka_Shing_Faculty_of_Medicine_1.jpg/200px-The_University_of_Hong_Kong_Li_Ka_Shing_Faculty_of_Medicine_1.jpg",
+			"previous": " All Medical graduates must complete Thesis Defence and pass the National Licensing Exam to become either GPs or Medical Specialists ",
+			"after": " Hong Kong has only two comprehensive medical faculties the Li Ka Shing Faculty of Medicine University of Hong Kong and the Faculty of Medicine Chinese University of Hong Kong and they are also the sole two institutes offering medical and pharmacy programs Other healthcare discipline programs like nursing are dispersed among some other universities which do not host a medical faculty ",
+			"color": "dark|0.15983 gray|0.15983 dark|0.15983 grey|0.15983 light|0.14392 slate|0.14392 gray|0.14392 slate|0.13819 gray|0.13819 silver|0.1003 light|0.066046 gray|0.066046 light|0.066046 grey|0.066046 dark|0.063756 slate|0.063756 gray|0.063756 light|0.059888 steel|0.059888 blue|0.059888 gray|0.054595 grey|0.054595 gainsboro|0.048793 dim|0.046717 gray|0.046717 dim|0.046717 grey|0.046717 light|0.024411 blue|0.024411 lavender|0.013734 alice|0.013109 blue|0.013109 white|0.0099487 smoke|0.0099487 ghost|0.0075862 white|0.0075862 azure|0.0063294 rosy|0.0060665 brown|0.0060665 mint|0.0046769 cream|0.0046769 snow|0.0044887 white|0.0041397  ",
+			"after_weights": " Hong|1 Kong|0.98361 has|0.96721 only|0.95082 two|0.93443 comprehensive|0.91803 medical|0.90164 faculties|0.88525 the|0.86885 Li|0.85246 Ka|0.83607 Shing|0.81967 Faculty|0.80328 of|0.78689 Medicine|0.77049 University|0.7541 of|0.7377 Hong|0.72131 Kong|0.70492 and|0.68852 the|0.67213 Faculty|0.65574 of|0.63934 Medicine|0.62295 Chinese|0.60656 University|0.59016 of|0.57377 Hong|0.55738 Kong|0.54098 and|0.52459 they|0.5082 are|0.4918 also|0.47541 the|0.45902 sole|0.44262 two|0.42623 institutes|0.40984 offering|0.39344 medical|0.37705 and|0.36066 pharmacy|0.34426 programs|0.32787 Other|0.31148 healthcare|0.29508 discipline|0.27869 programs|0.2623 like|0.2459 nursing|0.22951 are|0.21311 dispersed|0.19672 among|0.18033 some|0.16393 other|0.14754 universities|0.13115 which|0.11475 do|0.098361 not|0.081967 host|0.065574 a|0.04918 medical|0.032787 faculty|0.016393 |0",
+			"previous_weights": " All|0 Medical|0.05 graduates|0.1 must|0.15 complete|0.2 Thesis|0.25 Defence|0.3 and|0.35 pass|0.4 the|0.45 National|0.5 Licensing|0.55 Exam|0.6 to|0.65 become|0.7 either|0.75 GPs|0.8 or|0.85 Medical|0.9 Specialists|0.95 |1"
+		}
+	}
+}

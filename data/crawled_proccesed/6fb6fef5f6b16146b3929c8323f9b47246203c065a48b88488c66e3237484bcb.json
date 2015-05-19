@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6fb6fef5f6b16146b3929c8323f9b47246203c065a48b88488c66e3237484bcb",
+			"url": "https://upload.wikimedia.org/math/7/3/6/73671dcf398285e247cee604c73f91d2.png",
+			"previous": " and the mean motion of the planet around the Sun The area enclosed by the elliptical orbit is So the period satisfies In a small time the planet sweeps out a small triangle having base line and height and area and so the constant areal velocity is",
+			"after": " satisfies",
+			"color": "dim|0.40727 gray|0.40727 dim|0.40727 grey|0.40727 gray|0.28582 grey|0.28582 dark|0.1648 gray|0.1648 dark|0.1648 grey|0.1648 silver|0.06899 light|0.0324 gray|0.0324 light|0.0324 grey|0.0324 gainsboro|0.022921 white|0.0044363 smoke|0.0044363  ",
+			"after_weights": " satisfies|0",
+			"previous_weights": " and|0 the|0.021739 mean|0.043478 motion|0.065217 of|0.086957 the|0.1087 planet|0.13043 around|0.15217 the|0.17391 Sun|0.19565 The|0.21739 area|0.23913 enclosed|0.26087 by|0.28261 the|0.30435 elliptical|0.32609 orbit|0.34783 is|0.36957 So|0.3913 the|0.41304 period|0.43478 satisfies|0.45652 In|0.47826 a|0.5 small|0.52174 time|0.54348 the|0.56522 planet|0.58696 sweeps|0.6087 out|0.63043 a|0.65217 small|0.67391 triangle|0.69565 having|0.71739 base|0.73913 line|0.76087 and|0.78261 height|0.80435 and|0.82609 area|0.84783 and|0.86957 so|0.8913 the|0.91304 constant|0.93478 areal|0.95652 velocity|0.97826 is|1"
+		}
+	}
+}

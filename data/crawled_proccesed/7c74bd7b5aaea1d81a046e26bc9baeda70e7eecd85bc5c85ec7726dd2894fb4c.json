@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c74bd7b5aaea1d81a046e26bc9baeda70e7eecd85bc5c85ec7726dd2894fb4c",
+			"url": "https://upload.wikimedia.org/math/2/0/4/204b92195cc00014ebf15f64cdf0b47d.png",
+			"previous": " Next choose a set of basis vectors and consider the operators noted that perform directional derivatives in the directions of  provided that the limit exists where the limit is taken for scalar This is similar to the usual definition of a directional derivative but extends it to functions that are not necessarily scalar valued ",
+			"after": " Then using the Einstein summation notation consider the operator ",
+			"color": "gray|0.25811 grey|0.25811 dim|0.2535 gray|0.2535 dim|0.2535 grey|0.2535 dark|0.21962 gray|0.21962 dark|0.21962 grey|0.21962 black|0.19379 silver|0.065072 light|0.0082952 gray|0.0082952 light|0.0082952 grey|0.0082952  ",
+			"after_weights": " Then|1 using|0.88889 the|0.77778 Einstein|0.66667 summation|0.55556 notation|0.44444 consider|0.33333 the|0.22222 operator|0.11111 |0",
+			"previous_weights": " Next|0 choose|0.018182 a|0.036364 set|0.054545 of|0.072727 basis|0.090909 vectors|0.10909 and|0.12727 consider|0.14545 the|0.16364 operators|0.18182 noted|0.2 that|0.21818 perform|0.23636 directional|0.25455 derivatives|0.27273 in|0.29091 the|0.30909 directions|0.32727 of|0.34545 |0.36364 provided|0.38182 that|0.4 the|0.41818 limit|0.43636 exists|0.45455 where|0.47273 the|0.49091 limit|0.50909 is|0.52727 taken|0.54545 for|0.56364 scalar|0.58182 This|0.6 is|0.61818 similar|0.63636 to|0.65455 the|0.67273 usual|0.69091 definition|0.70909 of|0.72727 a|0.74545 directional|0.76364 derivative|0.78182 but|0.8 extends|0.81818 it|0.83636 to|0.85455 functions|0.87273 that|0.89091 are|0.90909 not|0.92727 necessarily|0.94545 scalar|0.96364 valued|0.98182 |1"
+		}
+	}
+}

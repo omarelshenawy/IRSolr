@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "83c9e502b780b5e30884ef4f038c28d36beb883fba2281fb9a3135171793f723",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Galton-height-regress.png/220px-Galton-height-regress.png",
+			"previous": " ",
+			"after": " Organisms have thousands of genes and in sexually reproducing organisms these genes generally assort independently of each other This means that the inheritance of an allele for yellow or green pea color is unrelated to the inheritance of alleles for white or purple flowers This phenomenon known as Mendel s second law or the Law of independent assortment means that the alleles of different genes get shuffled between parents to form offspring with many different combinations Some genes do not assort independently demonstrating genetic linkage a topic discussed later in this article ",
+			"color": "black|1  ",
+			"after_weights": " Organisms|1 have|0.98913 thousands|0.97826 of|0.96739 genes|0.95652 and|0.94565 in|0.93478 sexually|0.92391 reproducing|0.91304 organisms|0.90217 these|0.8913 genes|0.88043 generally|0.86957 assort|0.8587 independently|0.84783 of|0.83696 each|0.82609 other|0.81522 This|0.80435 means|0.79348 that|0.78261 the|0.77174 inheritance|0.76087 of|0.75 an|0.73913 allele|0.72826 for|0.71739 yellow|0.70652 or|0.69565 green|0.68478 pea|0.67391 color|0.66304 is|0.65217 unrelated|0.6413 to|0.63043 the|0.61957 inheritance|0.6087 of|0.59783 alleles|0.58696 for|0.57609 white|0.56522 or|0.55435 purple|0.54348 flowers|0.53261 This|0.52174 phenomenon|0.51087 known|0.5 as|0.48913 Mendel|0.47826 s|0.46739 second|0.45652 law|0.44565 or|0.43478 the|0.42391 Law|0.41304 of|0.40217 independent|0.3913 assortment|0.38043 means|0.36957 that|0.3587 the|0.34783 alleles|0.33696 of|0.32609 different|0.31522 genes|0.30435 get|0.29348 shuffled|0.28261 between|0.27174 parents|0.26087 to|0.25 form|0.23913 offspring|0.22826 with|0.21739 many|0.20652 different|0.19565 combinations|0.18478 Some|0.17391 genes|0.16304 do|0.15217 not|0.1413 assort|0.13043 independently|0.11957 demonstrating|0.1087 genetic|0.097826 linkage|0.086957 a|0.076087 topic|0.065217 discussed|0.054348 later|0.043478 in|0.032609 this|0.021739 article|0.01087 |0",
+			"previous_weights": " "
+		}
+	}
+}

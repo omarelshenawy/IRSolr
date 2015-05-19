@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63161420e57e2ed5fc185381175cabe4bd6094b16e18b34d8cfb40b262aff1d3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kansai_International_Airport_3.JPG/220px-Kansai_International_Airport_3.JPG",
+			"previous": " The second floor of the Passenger Terminal Building is used for domestic departures and arrivals All ticketing boarding and baggage claim are handled on the second floor International arrivals go to immigration and baggage claim on the first floor International departures are ticketed on the fourth floor and board from the third floor ",
+			"after": " ",
+			"color": "dim|0.3227 gray|0.3227 dim|0.3227 grey|0.3227 dark|0.25456 gray|0.25456 dark|0.25456 grey|0.25456 silver|0.16255 gray|0.11792 grey|0.11792 light|0.082484 gray|0.082484 light|0.082484 grey|0.082484 gainsboro|0.038641 slate|0.013984 gray|0.013984  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 second|0.018868 floor|0.037736 of|0.056604 the|0.075472 Passenger|0.09434 Terminal|0.11321 Building|0.13208 is|0.15094 used|0.16981 for|0.18868 domestic|0.20755 departures|0.22642 and|0.24528 arrivals|0.26415 All|0.28302 ticketing|0.30189 boarding|0.32075 and|0.33962 baggage|0.35849 claim|0.37736 are|0.39623 handled|0.41509 on|0.43396 the|0.45283 second|0.4717 floor|0.49057 International|0.50943 arrivals|0.5283 go|0.54717 to|0.56604 immigration|0.58491 and|0.60377 baggage|0.62264 claim|0.64151 on|0.66038 the|0.67925 first|0.69811 floor|0.71698 International|0.73585 departures|0.75472 are|0.77358 ticketed|0.79245 on|0.81132 the|0.83019 fourth|0.84906 floor|0.86792 and|0.88679 board|0.90566 from|0.92453 the|0.9434 third|0.96226 floor|0.98113 |1"
+		}
+	}
+}

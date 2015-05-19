@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fa7a3414e614b879e77cf5b5898cacfe46b762a4eef1f0a7548261293aba7aa",
+			"url": "https://upload.wikimedia.org/math/d/1/6/d16c512389b98408734088226f970130.png",
+			"previous": " The first term is the momentum thrust which contributes most of the nozzle gross thrust Because the nozzle is choked which is the norm on a turbojet the second term the pressure thrust is non zero ",
+			"after": " Ram Drag",
+			"color": "dim|0.34991 gray|0.34991 dim|0.34991 grey|0.34991 gray|0.335 grey|0.335 dark|0.18694 gray|0.18694 dark|0.18694 grey|0.18694 silver|0.067592 light|0.028334 gray|0.028334 light|0.028334 grey|0.028334 gainsboro|0.019656 white|0.0034292 smoke|0.0034292  ",
+			"after_weights": " Ram|1 Drag|0",
+			"previous_weights": " The|0 first|0.027778 term|0.055556 is|0.083333 the|0.11111 momentum|0.13889 thrust|0.16667 which|0.19444 contributes|0.22222 most|0.25 of|0.27778 the|0.30556 nozzle|0.33333 gross|0.36111 thrust|0.38889 Because|0.41667 the|0.44444 nozzle|0.47222 is|0.5 choked|0.52778 which|0.55556 is|0.58333 the|0.61111 norm|0.63889 on|0.66667 a|0.69444 turbojet|0.72222 the|0.75 second|0.77778 term|0.80556 the|0.83333 pressure|0.86111 thrust|0.88889 is|0.91667 non|0.94444 zero|0.97222 |1"
+		}
+	}
+}

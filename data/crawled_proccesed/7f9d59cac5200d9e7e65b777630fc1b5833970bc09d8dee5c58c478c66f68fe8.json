@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f9d59cac5200d9e7e65b777630fc1b5833970bc09d8dee5c58c478c66f68fe8",
+			"url": "https://upload.wikimedia.org/math/e/c/9/ec92ae41df80abcfafda1860e6719c25.png",
+			"previous": " Functions differing by only a constant have the same derivative and it can be shown that the antiderivative of a given function is actually a family of functions differing only by a constant Since the derivative of the function y x2 C where C is any constant is y 2x the antiderivative of the latter given by ",
+			"after": " The unspecified constant C present in the indefinite integral or antiderivative is known as the constant of integration ",
+			"color": "black|0.32612 dim|0.26303 gray|0.26303 dim|0.26303 grey|0.26303 gray|0.18484 grey|0.18484 dark|0.11991 gray|0.11991 dark|0.11991 grey|0.11991 silver|0.051744 light|0.02531 gray|0.02531 light|0.02531 grey|0.02531 gainsboro|0.018126  ",
+			"after_weights": " The|1 unspecified|0.94444 constant|0.88889 C|0.83333 present|0.77778 in|0.72222 the|0.66667 indefinite|0.61111 integral|0.55556 or|0.5 antiderivative|0.44444 is|0.38889 known|0.33333 as|0.27778 the|0.22222 constant|0.16667 of|0.11111 integration|0.055556 |0",
+			"previous_weights": " Functions|0 differing|0.017544 by|0.035088 only|0.052632 a|0.070175 constant|0.087719 have|0.10526 the|0.12281 same|0.14035 derivative|0.15789 and|0.17544 it|0.19298 can|0.21053 be|0.22807 shown|0.24561 that|0.26316 the|0.2807 antiderivative|0.29825 of|0.31579 a|0.33333 given|0.35088 function|0.36842 is|0.38596 actually|0.40351 a|0.42105 family|0.4386 of|0.45614 functions|0.47368 differing|0.49123 only|0.50877 by|0.52632 a|0.54386 constant|0.5614 Since|0.57895 the|0.59649 derivative|0.61404 of|0.63158 the|0.64912 function|0.66667 y|0.68421 x2|0.70175 C|0.7193 where|0.73684 C|0.75439 is|0.77193 any|0.78947 constant|0.80702 is|0.82456 y|0.84211 2x|0.85965 the|0.87719 antiderivative|0.89474 of|0.91228 the|0.92982 latter|0.94737 given|0.96491 by|0.98246 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c47ecb9e1aa3e1a25af008b07f1f9721870894baeab392a8c8bc8757ae88fdf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Justinian555AD.png/300px-Justinian555AD.png",
+			"previous": " ",
+			"after": " The Roman Empire in the east following the fall of the Empire in the west in the 5th century is conventionally known as the Byzantine Empire but was simply called Roman Empire in its own time and lasted until 1453 With its capital in Constantinople its language and literary culture was Greek and its religion was predominantly Eastern Orthodox Christian 41 ",
+			"color": "white|0.087925 smoke|0.087925 ghost|0.087618 white|0.087618 snow|0.087442 sea|0.087412 shell|0.087412 alice|0.086921 blue|0.086921 white|0.086706 floral|0.085866 white|0.085866 mint|0.085384 cream|0.085384 lavender|0.085226 blush|0.085226 azure|0.083977 rosy|0.050894 brown|0.050894 thistle|0.029828 light|0.010627 gray|0.010627 light|0.010627 grey|0.010627 gainsboro|0.009173 dark|0.0067345 gray|0.0067345 dark|0.0067345 grey|0.0067345  ",
+			"after_weights": " The|1 Roman|0.98361 Empire|0.96721 in|0.95082 the|0.93443 east|0.91803 following|0.90164 the|0.88525 fall|0.86885 of|0.85246 the|0.83607 Empire|0.81967 in|0.80328 the|0.78689 west|0.77049 in|0.7541 the|0.7377 5th|0.72131 century|0.70492 is|0.68852 conventionally|0.67213 known|0.65574 as|0.63934 the|0.62295 Byzantine|0.60656 Empire|0.59016 but|0.57377 was|0.55738 simply|0.54098 called|0.52459 Roman|0.5082 Empire|0.4918 in|0.47541 its|0.45902 own|0.44262 time|0.42623 and|0.40984 lasted|0.39344 until|0.37705 1453|0.36066 With|0.34426 its|0.32787 capital|0.31148 in|0.29508 Constantinople|0.27869 its|0.2623 language|0.2459 and|0.22951 literary|0.21311 culture|0.19672 was|0.18033 Greek|0.16393 and|0.14754 its|0.13115 religion|0.11475 was|0.098361 predominantly|0.081967 Eastern|0.065574 Orthodox|0.04918 Christian|0.032787 41|0.016393 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4250e90821a979d0d9a3f4d5cc3a46aac6e261628b4284699e382e467dd58174",
+			"url": "https://upload.wikimedia.org/math/0/d/0/0d0487831aa957705460049dce73f74b.png",
+			"previous": " An alternative characterisation of the Wiener process is the so called L vy characterisation that says that the Wiener process is an almost surely continuous martingale with W0 0 and quadratic variation ",
+			"after": " The Wiener process can be constructed as the scaling limit of a random walk or other discrete time stochastic processes with stationary independent increments This is known as Donsker s theorem Like the random walk the Wiener process is recurrent in one or two dimensions meaning that it returns almost surely to any fixed neighborhood of the origin infinitely often whereas it is not recurrent in dimensions three and higher Unlike the random walk it is scale invariant ",
+			"color": "gray|0.33622 grey|0.33622 dark|0.22914 gray|0.22914 dark|0.22914 grey|0.22914 dim|0.22616 gray|0.22616 dim|0.22616 grey|0.22616 silver|0.10286 light|0.049976 gray|0.049976 light|0.049976 grey|0.049976 gainsboro|0.03406 white|0.0057111 smoke|0.0057111 linen|0.0027367  ",
+			"after_weights": " The|1 Wiener|0.98718 process|0.97436 can|0.96154 be|0.94872 constructed|0.9359 as|0.92308 the|0.91026 scaling|0.89744 limit|0.88462 of|0.87179 a|0.85897 random|0.84615 walk|0.83333 or|0.82051 other|0.80769 discrete|0.79487 time|0.78205 stochastic|0.76923 processes|0.75641 with|0.74359 stationary|0.73077 independent|0.71795 increments|0.70513 This|0.69231 is|0.67949 known|0.66667 as|0.65385 Donsker|0.64103 s|0.62821 theorem|0.61538 Like|0.60256 the|0.58974 random|0.57692 walk|0.5641 the|0.55128 Wiener|0.53846 process|0.52564 is|0.51282 recurrent|0.5 in|0.48718 one|0.47436 or|0.46154 two|0.44872 dimensions|0.4359 meaning|0.42308 that|0.41026 it|0.39744 returns|0.38462 almost|0.37179 surely|0.35897 to|0.34615 any|0.33333 fixed|0.32051 neighborhood|0.30769 of|0.29487 the|0.28205 origin|0.26923 infinitely|0.25641 often|0.24359 whereas|0.23077 it|0.21795 is|0.20513 not|0.19231 recurrent|0.17949 in|0.16667 dimensions|0.15385 three|0.14103 and|0.12821 higher|0.11538 Unlike|0.10256 the|0.089744 random|0.076923 walk|0.064103 it|0.051282 is|0.038462 scale|0.025641 invariant|0.012821 |0",
+			"previous_weights": " An|0 alternative|0.03125 characterisation|0.0625 of|0.09375 the|0.125 Wiener|0.15625 process|0.1875 is|0.21875 the|0.25 so|0.28125 called|0.3125 L|0.34375 vy|0.375 characterisation|0.40625 that|0.4375 says|0.46875 that|0.5 the|0.53125 Wiener|0.5625 process|0.59375 is|0.625 an|0.65625 almost|0.6875 surely|0.71875 continuous|0.75 martingale|0.78125 with|0.8125 W0|0.84375 0|0.875 and|0.90625 quadratic|0.9375 variation|0.96875 |1"
+		}
+	}
+}

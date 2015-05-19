@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "80b5e2281ca5e1474b58d1b856206e536704caa71a333363116e7ad4709a96ae",
+			"url": "https://upload.wikimedia.org/math/d/0/b/d0b776243487744275951ba96acb2e36.png",
+			"previous": "    Assuming the nozzle is choked the nozzle static temperature is calculated as follows  The following calculation method is only suitable for choked nozzles  If then the nozzle is UNCHOKED  If then the nozzle is CHOKED ",
+			"after": "        NOTE inclusion of 144 in ft to obtain density in lb ft ",
+			"color": "dim|0.36625 gray|0.36625 dim|0.36625 grey|0.36625 gray|0.28434 grey|0.28434 dark|0.16355 gray|0.16355 dark|0.16355 grey|0.16355 silver|0.065986 black|0.057609 light|0.030342 gray|0.030342 light|0.030342 grey|0.030342 gainsboro|0.020794  ",
+			"after_weights": " |1 |0.94737 |0.89474 |0.84211 |0.78947 |0.73684 |0.68421 NOTE|0.63158 inclusion|0.57895 of|0.52632 144|0.47368 in|0.42105 ft|0.36842 to|0.31579 obtain|0.26316 density|0.21053 in|0.15789 lb|0.10526 ft|0.052632 |0",
+			"previous_weights": " |0 |0.02439 |0.04878 Assuming|0.073171 the|0.097561 nozzle|0.12195 is|0.14634 choked|0.17073 the|0.19512 nozzle|0.21951 static|0.2439 temperature|0.26829 is|0.29268 calculated|0.31707 as|0.34146 follows|0.36585 |0.39024 The|0.41463 following|0.43902 calculation|0.46341 method|0.4878 is|0.5122 only|0.53659 suitable|0.56098 for|0.58537 choked|0.60976 nozzles|0.63415 |0.65854 If|0.68293 then|0.70732 the|0.73171 nozzle|0.7561 is|0.78049 UNCHOKED|0.80488 |0.82927 If|0.85366 then|0.87805 the|0.90244 nozzle|0.92683 is|0.95122 CHOKED|0.97561 |1"
+		}
+	}
+}

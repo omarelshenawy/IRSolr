@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3476edf6cdabdb6f278784e610f956ea7ee2a43e2a94624cb0cc82614d6a963a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Child_reading_at_Brookline_Booksmith.jpg/150px-Child_reading_at_Brookline_Booksmith.jpg",
+			"previous": " Children s literature Book talk Children s literature criticism Children s literature periodicals International Children s Digital Library Native Americans in children s literature",
+			"after": " Young adult literature Gay teen fiction Lesbian teen fiction List of young adult authors Young Adult Library Services Association",
+			"color": "black|0.32532 dim|0.14496 gray|0.14496 dim|0.14496 grey|0.14496 gray|0.13276 grey|0.13276 dark|0.080823 gray|0.080823 dark|0.080823 grey|0.080823 rosy|0.056528 brown|0.056528 silver|0.053208 tan|0.028662 light|0.027899 gray|0.027899 light|0.027899 grey|0.027899 gainsboro|0.016333 slate|0.014397 gray|0.014397 dark|0.01397 slate|0.01397 gray|0.01397 light|0.013867 slate|0.013867 gray|0.013867 saddle|0.012172 brown|0.012172  ",
+			"after_weights": " Young|1 adult|0.94444 literature|0.88889 Gay|0.83333 teen|0.77778 fiction|0.72222 Lesbian|0.66667 teen|0.61111 fiction|0.55556 List|0.5 of|0.44444 young|0.38889 adult|0.33333 authors|0.27778 Young|0.22222 Adult|0.16667 Library|0.11111 Services|0.055556 Association|0",
+			"previous_weights": " Children|0 s|0.043478 literature|0.086957 Book|0.13043 talk|0.17391 Children|0.21739 s|0.26087 literature|0.30435 criticism|0.34783 Children|0.3913 s|0.43478 literature|0.47826 periodicals|0.52174 International|0.56522 Children|0.6087 s|0.65217 Digital|0.69565 Library|0.73913 Native|0.78261 Americans|0.82609 in|0.86957 children|0.91304 s|0.95652 literature|1"
+		}
+	}
+}

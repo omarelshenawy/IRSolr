@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0caa8251a290989f46d094254cdbe9dd769156bdc9bdbe9d120eaad0fc4fbbf7",
+			"url": "https://upload.wikimedia.org/math/7/4/e/74ee997d8ae17a1723c24f02b012e403.png",
+			"previous": " The circulation is the contour integral of the tangential velocity of the air on a closed loop also called a circuit around the boundary of an airfoil It can be understood as the total amount of spinning or vorticity of air around the airfoil The section lift span can be calculated using the Kutta Joukowski theorem 18 ",
+			"after": " where is the air density is the free stream airspeed ",
+			"color": "dim|0.38851 gray|0.38851 dim|0.38851 grey|0.38851 gray|0.30332 grey|0.30332 dark|0.16894 gray|0.16894 dark|0.16894 grey|0.16894 silver|0.060951 light|0.027318 gray|0.027318 light|0.027318 grey|0.027318 black|0.024453 gainsboro|0.017693  ",
+			"after_weights": " where|1 is|0.9 the|0.8 air|0.7 density|0.6 is|0.5 the|0.4 free|0.3 stream|0.2 airspeed|0.1 |0",
+			"previous_weights": " The|0 circulation|0.017544 is|0.035088 the|0.052632 contour|0.070175 integral|0.087719 of|0.10526 the|0.12281 tangential|0.14035 velocity|0.15789 of|0.17544 the|0.19298 air|0.21053 on|0.22807 a|0.24561 closed|0.26316 loop|0.2807 also|0.29825 called|0.31579 a|0.33333 circuit|0.35088 around|0.36842 the|0.38596 boundary|0.40351 of|0.42105 an|0.4386 airfoil|0.45614 It|0.47368 can|0.49123 be|0.50877 understood|0.52632 as|0.54386 the|0.5614 total|0.57895 amount|0.59649 of|0.61404 spinning|0.63158 or|0.64912 vorticity|0.66667 of|0.68421 air|0.70175 around|0.7193 the|0.73684 airfoil|0.75439 The|0.77193 section|0.78947 lift|0.80702 span|0.82456 can|0.84211 be|0.85965 calculated|0.87719 using|0.89474 the|0.91228 Kutta|0.92982 Joukowski|0.94737 theorem|0.96491 18|0.98246 |1"
+		}
+	}
+}

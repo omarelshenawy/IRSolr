@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a39b3eaa6cdea0bab9e6322fdf1df9f7f4a6e30a0eeb74b77bb6b16f095bbfe",
+			"url": "https://upload.wikimedia.org/math/c/9/7/c97c9c5521468d113601b061024f473e.png",
+			"previous": " Given a probability space and a measurable space an S valued stochastic process is a collection of S valued random variables on indexed by a totally ordered set T time That is a stochastic process X is a collection",
+			"after": " where each is an S valued random variable on The space S is then called the state space of the process ",
+			"color": "dim|0.32723 gray|0.32723 dim|0.32723 grey|0.32723 gray|0.29479 grey|0.29479 dark|0.1932 gray|0.1932 dark|0.1932 grey|0.1932 silver|0.086736 light|0.044098 gray|0.044098 light|0.044098 grey|0.044098 gainsboro|0.030858 white|0.0054327 smoke|0.0054327  ",
+			"after_weights": " where|1 each|0.95238 is|0.90476 an|0.85714 S|0.80952 valued|0.7619 random|0.71429 variable|0.66667 on|0.61905 The|0.57143 space|0.52381 S|0.47619 is|0.42857 then|0.38095 called|0.33333 the|0.28571 state|0.2381 space|0.19048 of|0.14286 the|0.095238 process|0.047619 |0",
+			"previous_weights": " Given|0 a|0.026316 probability|0.052632 space|0.078947 and|0.10526 a|0.13158 measurable|0.15789 space|0.18421 an|0.21053 S|0.23684 valued|0.26316 stochastic|0.28947 process|0.31579 is|0.34211 a|0.36842 collection|0.39474 of|0.42105 S|0.44737 valued|0.47368 random|0.5 variables|0.52632 on|0.55263 indexed|0.57895 by|0.60526 a|0.63158 totally|0.65789 ordered|0.68421 set|0.71053 T|0.73684 time|0.76316 That|0.78947 is|0.81579 a|0.84211 stochastic|0.86842 process|0.89474 X|0.92105 is|0.94737 a|0.97368 collection|1"
+		}
+	}
+}

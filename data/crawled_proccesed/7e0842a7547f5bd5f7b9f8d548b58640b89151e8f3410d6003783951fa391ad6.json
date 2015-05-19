@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e0842a7547f5bd5f7b9f8d548b58640b89151e8f3410d6003783951fa391ad6",
+			"url": "https://upload.wikimedia.org/math/c/8/c/c8c3d620486492369d52ccd7fb2d8e8e.png",
+			"previous": " In a local coordinate system x1 xn the coordinate differentials dx1 dxn form a basic set of one forms within the coordinate chart Given a multi index i1 ik with 1 ip n for 1 p k we can define a k form",
+			"after": " We can alternatively introduce a k grade multivector A as",
+			"color": "dim|0.36931 gray|0.36931 dim|0.36931 grey|0.36931 gray|0.28913 grey|0.28913 dark|0.18426 gray|0.18426 dark|0.18426 grey|0.18426 silver|0.075725 light|0.03783 gray|0.03783 light|0.03783 grey|0.03783 gainsboro|0.025878 white|0.004265 smoke|0.004265  ",
+			"after_weights": " We|1 can|0.88889 alternatively|0.77778 introduce|0.66667 a|0.55556 k|0.44444 grade|0.33333 multivector|0.22222 A|0.11111 as|0",
+			"previous_weights": " In|0 a|0.02381 local|0.047619 coordinate|0.071429 system|0.095238 x1|0.11905 xn|0.14286 the|0.16667 coordinate|0.19048 differentials|0.21429 dx1|0.2381 dxn|0.2619 form|0.28571 a|0.30952 basic|0.33333 set|0.35714 of|0.38095 one|0.40476 forms|0.42857 within|0.45238 the|0.47619 coordinate|0.5 chart|0.52381 Given|0.54762 a|0.57143 multi|0.59524 index|0.61905 i1|0.64286 ik|0.66667 with|0.69048 1|0.71429 ip|0.7381 n|0.7619 for|0.78571 1|0.80952 p|0.83333 k|0.85714 we|0.88095 can|0.90476 define|0.92857 a|0.95238 k|0.97619 form|1"
+		}
+	}
+}

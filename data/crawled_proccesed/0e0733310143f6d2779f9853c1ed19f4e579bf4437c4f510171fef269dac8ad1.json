@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e0733310143f6d2779f9853c1ed19f4e579bf4437c4f510171fef269dac8ad1",
+			"url": "https://upload.wikimedia.org/math/1/0/6/10611339889bc7fce755119cbf185626.png",
+			"previous": " The rectifying latitude is the meridian distance scaled so that its value at the poles is equal to 90 degrees or 2 radians ",
+			"after": " where the meridian distance from the equator to a latitude is see Meridian arc ",
+			"color": "gray|0.31719 grey|0.31719 dim|0.2823 gray|0.2823 dim|0.2823 grey|0.2823 dark|0.22152 gray|0.22152 dark|0.22152 grey|0.22152 silver|0.090198 light|0.040593 gray|0.040593 light|0.040593 grey|0.040593 gainsboro|0.027118 white|0.0051442 smoke|0.0051442  ",
+			"after_weights": " where|1 the|0.92857 meridian|0.85714 distance|0.78571 from|0.71429 the|0.64286 equator|0.57143 to|0.5 a|0.42857 latitude|0.35714 is|0.28571 see|0.21429 Meridian|0.14286 arc|0.071429 |0",
+			"previous_weights": " The|0 rectifying|0.043478 latitude|0.086957 is|0.13043 the|0.17391 meridian|0.21739 distance|0.26087 scaled|0.30435 so|0.34783 that|0.3913 its|0.43478 value|0.47826 at|0.52174 the|0.56522 poles|0.6087 is|0.65217 equal|0.69565 to|0.73913 90|0.78261 degrees|0.82609 or|0.86957 2|0.91304 radians|0.95652 |1"
+		}
+	}
+}

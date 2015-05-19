@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "96b5a52ed472beffd98ced037f0dab3d83c7baf5db814d7abf23d14d3177ac56",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/QX_Q400_SJC.JPG/220px-QX_Q400_SJC.JPG",
+			"previous": " ",
+			"after": " In the summer of 2009 American Airlines ended flights to Austin Texas Alaska Airlines announced it would begin new routes to Austin from SJC and would upgrade some service to Portland Oregon which was run by regional subsidiary Horizon Air to jet flights that began on September 2 2009 ",
+			"color": "dim|0.32805 gray|0.32805 dim|0.32805 grey|0.32805 gray|0.23844 grey|0.23844 slate|0.12833 gray|0.12833 dark|0.10943 gray|0.10943 dark|0.10943 grey|0.10943 light|0.10721 slate|0.10721 gray|0.10721 black|0.030676 silver|0.028509 light|0.010467 gray|0.010467 light|0.010467 grey|0.010467 gainsboro|0.0058373  ",
+			"after_weights": " In|1 the|0.97959 summer|0.95918 of|0.93878 2009|0.91837 American|0.89796 Airlines|0.87755 ended|0.85714 flights|0.83673 to|0.81633 Austin|0.79592 Texas|0.77551 Alaska|0.7551 Airlines|0.73469 announced|0.71429 it|0.69388 would|0.67347 begin|0.65306 new|0.63265 routes|0.61224 to|0.59184 Austin|0.57143 from|0.55102 SJC|0.53061 and|0.5102 would|0.4898 upgrade|0.46939 some|0.44898 service|0.42857 to|0.40816 Portland|0.38776 Oregon|0.36735 which|0.34694 was|0.32653 run|0.30612 by|0.28571 regional|0.26531 subsidiary|0.2449 Horizon|0.22449 Air|0.20408 to|0.18367 jet|0.16327 flights|0.14286 that|0.12245 began|0.10204 on|0.081633 September|0.061224 2|0.040816 2009|0.020408 |0",
+			"previous_weights": " "
+		}
+	}
+}

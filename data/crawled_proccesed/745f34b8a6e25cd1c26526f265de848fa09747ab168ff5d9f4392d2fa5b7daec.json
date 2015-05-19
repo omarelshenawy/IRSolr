@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "745f34b8a6e25cd1c26526f265de848fa09747ab168ff5d9f4392d2fa5b7daec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lymphocyte_activation_simple.png/300px-Lymphocyte_activation_simple.png",
+			"previous": " ",
+			"after": " Helper T cells regulate both the innate and adaptive immune responses and help determine which immune responses the body makes to a particular pathogen 54 55 These cells have no cytotoxic activity and do not kill infected cells or clear pathogens directly They instead control the immune response by directing other cells to perform these tasks ",
+			"color": "thistle|0.1249 peach|0.10279 puff|0.10279 sandy|0.080048 brown|0.080048 light|0.077945 gray|0.077945 light|0.077945 grey|0.077945 gainsboro|0.075529 lavender|0.071067 antique|0.041666 white|0.041666 bisque|0.041564 misty|0.035951 rose|0.035951 linen|0.035269 sea|0.028061 shell|0.028061 light|0.027413 green|0.027413 lavender|0.026908 blush|0.026908 dim|0.026599 gray|0.026599 dim|0.026599 grey|0.026599 white|0.024232 smoke|0.024232 gray|0.021905 grey|0.021905 old|0.019986 lace|0.019986 floral|0.018678 white|0.018678 snow|0.017544 dark|0.016189 gray|0.016189 dark|0.016189 grey|0.016189 ghost|0.015938 white|0.015938 alice|0.012757 blue|0.012757 silver|0.0079067 white|0.007237 papaya|0.0066489 whip|0.0066489 tan|0.0058831 light|0.0053824 salmon|0.0053824  ",
+			"after_weights": " Helper|1 T|0.98214 cells|0.96429 regulate|0.94643 both|0.92857 the|0.91071 innate|0.89286 and|0.875 adaptive|0.85714 immune|0.83929 responses|0.82143 and|0.80357 help|0.78571 determine|0.76786 which|0.75 immune|0.73214 responses|0.71429 the|0.69643 body|0.67857 makes|0.66071 to|0.64286 a|0.625 particular|0.60714 pathogen|0.58929 54|0.57143 55|0.55357 These|0.53571 cells|0.51786 have|0.5 no|0.48214 cytotoxic|0.46429 activity|0.44643 and|0.42857 do|0.41071 not|0.39286 kill|0.375 infected|0.35714 cells|0.33929 or|0.32143 clear|0.30357 pathogens|0.28571 directly|0.26786 They|0.25 instead|0.23214 control|0.21429 the|0.19643 immune|0.17857 response|0.16071 by|0.14286 directing|0.125 other|0.10714 cells|0.089286 to|0.071429 perform|0.053571 these|0.035714 tasks|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fb2c0594b01126dfea858c661c7dc5a8282401bce518fe054145cd00c2565a4",
+			"url": "https://upload.wikimedia.org/math/4/1/5/41547d31ede48f9829e9026959eb0adf.png",
+			"previous": " The Cartesian coordinates of the point are parameterized by",
+			"after": " Cayley suggested the term parametric latitude because of the form of these equations 14  The reduced latitude is not used in the theory of map projections Its most important application is in the theory of ellipsoid geodesics Vincenty Karney 15 ",
+			"color": "dim|0.34189 gray|0.34189 dim|0.34189 grey|0.34189 black|0.22802 gray|0.2077 grey|0.2077 dark|0.11454 gray|0.11454 dark|0.11454 grey|0.11454 silver|0.049879 light|0.025006 gray|0.025006 light|0.025006 grey|0.025006 gainsboro|0.017963  ",
+			"after_weights": " Cayley|1 suggested|0.97561 the|0.95122 term|0.92683 parametric|0.90244 latitude|0.87805 because|0.85366 of|0.82927 the|0.80488 form|0.78049 of|0.7561 these|0.73171 equations|0.70732 14|0.68293 |0.65854 The|0.63415 reduced|0.60976 latitude|0.58537 is|0.56098 not|0.53659 used|0.5122 in|0.4878 the|0.46341 theory|0.43902 of|0.41463 map|0.39024 projections|0.36585 Its|0.34146 most|0.31707 important|0.29268 application|0.26829 is|0.2439 in|0.21951 the|0.19512 theory|0.17073 of|0.14634 ellipsoid|0.12195 geodesics|0.097561 Vincenty|0.073171 Karney|0.04878 15|0.02439 |0",
+			"previous_weights": " The|0 Cartesian|0.125 coordinates|0.25 of|0.375 the|0.5 point|0.625 are|0.75 parameterized|0.875 by|1"
+		}
+	}
+}

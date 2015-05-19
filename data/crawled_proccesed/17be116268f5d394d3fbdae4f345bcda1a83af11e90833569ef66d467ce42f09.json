@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "17be116268f5d394d3fbdae4f345bcda1a83af11e90833569ef66d467ce42f09",
+			"url": "https://upload.wikimedia.org/math/1/3/6/1364a1381671ddc678e7b18c3e99bf8b.png",
+			"previous": " The most basic wave a form of plane wave may be expressed in the form ",
+			"after": " The other type of wave to be considered is one with localized structure described by an envelope which may be expressed mathematically as for example ",
+			"color": "dim|0.36301 gray|0.36301 dim|0.36301 grey|0.36301 gray|0.28943 grey|0.28943 dark|0.17935 gray|0.17935 dark|0.17935 grey|0.17935 silver|0.076414 light|0.036388 gray|0.036388 light|0.036388 grey|0.036388 gainsboro|0.025685 white|0.0062636 smoke|0.0062636 lavender|0.0032044 blush|0.0032044 alice|0.0031729 blue|0.0031729  ",
+			"after_weights": " The|1 other|0.96 type|0.92 of|0.88 wave|0.84 to|0.8 be|0.76 considered|0.72 is|0.68 one|0.64 with|0.6 localized|0.56 structure|0.52 described|0.48 by|0.44 an|0.4 envelope|0.36 which|0.32 may|0.28 be|0.24 expressed|0.2 mathematically|0.16 as|0.12 for|0.08 example|0.04 |0",
+			"previous_weights": " The|0 most|0.066667 basic|0.13333 wave|0.2 a|0.26667 form|0.33333 of|0.4 plane|0.46667 wave|0.53333 may|0.6 be|0.66667 expressed|0.73333 in|0.8 the|0.86667 form|0.93333 |1"
+		}
+	}
+}

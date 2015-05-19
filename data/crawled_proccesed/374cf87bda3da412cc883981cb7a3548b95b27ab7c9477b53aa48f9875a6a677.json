@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "374cf87bda3da412cc883981cb7a3548b95b27ab7c9477b53aa48f9875a6a677",
+			"url": "https://upload.wikimedia.org/math/a/e/f/aef48e8c59e8fb75ac4dd6e0869ffdeb.png",
+			"previous": " The direct product of vector spaces and the direct sum of vector spaces are two ways of combining an indexed family of vector spaces into a new vector space ",
+			"after": " The tensor product V F W or simply V W of two vector spaces V and W is one of the central notions of multilinear algebra which deals with extending notions such as linear maps to several variables A map g V W X is called bilinear if g is linear in both variables v and w That is to say for fixed w the map v g v w is linear in the sense above and likewise for fixed v ",
+			"color": "black|0.50891 dim|0.20059 gray|0.20059 dim|0.20059 grey|0.20059 gray|0.13761 grey|0.13761 dark|0.089321 gray|0.089321 dark|0.089321 grey|0.089321 silver|0.034754 light|0.014961 gray|0.014961 light|0.014961 grey|0.014961 gainsboro|0.0095608  ",
+			"after_weights": " The|1 tensor|0.98765 product|0.97531 V|0.96296 F|0.95062 W|0.93827 or|0.92593 simply|0.91358 V|0.90123 W|0.88889 of|0.87654 two|0.8642 vector|0.85185 spaces|0.83951 V|0.82716 and|0.81481 W|0.80247 is|0.79012 one|0.77778 of|0.76543 the|0.75309 central|0.74074 notions|0.7284 of|0.71605 multilinear|0.7037 algebra|0.69136 which|0.67901 deals|0.66667 with|0.65432 extending|0.64198 notions|0.62963 such|0.61728 as|0.60494 linear|0.59259 maps|0.58025 to|0.5679 several|0.55556 variables|0.54321 A|0.53086 map|0.51852 g|0.50617 V|0.49383 W|0.48148 X|0.46914 is|0.45679 called|0.44444 bilinear|0.4321 if|0.41975 g|0.40741 is|0.39506 linear|0.38272 in|0.37037 both|0.35802 variables|0.34568 v|0.33333 and|0.32099 w|0.30864 That|0.2963 is|0.28395 to|0.2716 say|0.25926 for|0.24691 fixed|0.23457 w|0.22222 the|0.20988 map|0.19753 v|0.18519 g|0.17284 v|0.16049 w|0.14815 is|0.1358 linear|0.12346 in|0.11111 the|0.098765 sense|0.08642 above|0.074074 and|0.061728 likewise|0.049383 for|0.037037 fixed|0.024691 v|0.012346 |0",
+			"previous_weights": " The|0 direct|0.034483 product|0.068966 of|0.10345 vector|0.13793 spaces|0.17241 and|0.2069 the|0.24138 direct|0.27586 sum|0.31034 of|0.34483 vector|0.37931 spaces|0.41379 are|0.44828 two|0.48276 ways|0.51724 of|0.55172 combining|0.58621 an|0.62069 indexed|0.65517 family|0.68966 of|0.72414 vector|0.75862 spaces|0.7931 into|0.82759 a|0.86207 new|0.89655 vector|0.93103 space|0.96552 |1"
+		}
+	}
+}

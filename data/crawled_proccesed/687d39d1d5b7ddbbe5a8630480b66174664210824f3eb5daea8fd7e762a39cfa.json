@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "687d39d1d5b7ddbbe5a8630480b66174664210824f3eb5daea8fd7e762a39cfa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Giulio_Romano_-_Meleager_et_Atalanta.jpg/400px-Giulio_Romano_-_Meleager_et_Atalanta.jpg",
+			"previous": " Portal Society Featured picture 21",
+			"after": " A 1773 engraving showing the Greek legend of the Calydonian Boar which was sent by Artemis to ravage the region of Calydon in Aetolia because its king failed to honor her in his rites to the gods Many Olympian heroes took part in hunting the boar and it was eventually killed by Meleager and Atalanta as depicted here ",
+			"color": " ",
+			"after_weights": " A|1 1773|0.98276 engraving|0.96552 showing|0.94828 the|0.93103 Greek|0.91379 legend|0.89655 of|0.87931 the|0.86207 Calydonian|0.84483 Boar|0.82759 which|0.81034 was|0.7931 sent|0.77586 by|0.75862 Artemis|0.74138 to|0.72414 ravage|0.7069 the|0.68966 region|0.67241 of|0.65517 Calydon|0.63793 in|0.62069 Aetolia|0.60345 because|0.58621 its|0.56897 king|0.55172 failed|0.53448 to|0.51724 honor|0.5 her|0.48276 in|0.46552 his|0.44828 rites|0.43103 to|0.41379 the|0.39655 gods|0.37931 Many|0.36207 Olympian|0.34483 heroes|0.32759 took|0.31034 part|0.2931 in|0.27586 hunting|0.25862 the|0.24138 boar|0.22414 and|0.2069 it|0.18966 was|0.17241 eventually|0.15517 killed|0.13793 by|0.12069 Meleager|0.10345 and|0.086207 Atalanta|0.068966 as|0.051724 depicted|0.034483 here|0.017241 |0",
+			"previous_weights": " Portal|0 Society|0.25 Featured|0.5 picture|0.75 21|1"
+		}
+	}
+}

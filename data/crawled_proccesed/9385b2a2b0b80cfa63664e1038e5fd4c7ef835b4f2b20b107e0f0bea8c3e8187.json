@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9385b2a2b0b80cfa63664e1038e5fd4c7ef835b4f2b20b107e0f0bea8c3e8187",
+			"url": "https://upload.wikimedia.org/math/b/3/b/b3bc344f80ed5ba996b2a3479510fe66.png",
+			"previous": " This analysis is simplified and ignores a number of significant factors including interference between the blades and the influence of tip vortices ",
+			"after": " where is a function of the advance coefficient is a function of the Reynolds number and is a function of the Froude number Both and are likely to be small in comparison to under normal operating conditions so the expression can be reduced to ",
+			"color": "gray|0.31265 grey|0.31265 dim|0.27311 gray|0.27311 dim|0.27311 grey|0.27311 dark|0.17743 gray|0.17743 dark|0.17743 grey|0.17743 black|0.10473 silver|0.066513 light|0.032676 gray|0.032676 light|0.032676 grey|0.032676 gainsboro|0.02241 white|0.0031411 smoke|0.0031411  ",
+			"after_weights": " where|1 is|0.97727 a|0.95455 function|0.93182 of|0.90909 the|0.88636 advance|0.86364 coefficient|0.84091 is|0.81818 a|0.79545 function|0.77273 of|0.75 the|0.72727 Reynolds|0.70455 number|0.68182 and|0.65909 is|0.63636 a|0.61364 function|0.59091 of|0.56818 the|0.54545 Froude|0.52273 number|0.5 Both|0.47727 and|0.45455 are|0.43182 likely|0.40909 to|0.38636 be|0.36364 small|0.34091 in|0.31818 comparison|0.29545 to|0.27273 under|0.25 normal|0.22727 operating|0.20455 conditions|0.18182 so|0.15909 the|0.13636 expression|0.11364 can|0.090909 be|0.068182 reduced|0.045455 to|0.022727 |0",
+			"previous_weights": " This|0 analysis|0.045455 is|0.090909 simplified|0.13636 and|0.18182 ignores|0.22727 a|0.27273 number|0.31818 of|0.36364 significant|0.40909 factors|0.45455 including|0.5 interference|0.54545 between|0.59091 the|0.63636 blades|0.68182 and|0.72727 the|0.77273 influence|0.81818 of|0.86364 tip|0.90909 vortices|0.95455 |1"
+		}
+	}
+}

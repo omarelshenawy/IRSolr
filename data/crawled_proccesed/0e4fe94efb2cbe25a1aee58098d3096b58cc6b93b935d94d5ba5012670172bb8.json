@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e4fe94efb2cbe25a1aee58098d3096b58cc6b93b935d94d5ba5012670172bb8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/C-23A-4.jpg/220px-C-23A-4.jpg",
+			"previous": " Performance General characteristics Data from Jane s All the World s Aircraft 1988 1989 2 ",
+			"after": " Data from U S Army Aircraft Since 1947 15  General characteristics Performance Data from U S Army Aircraft Since 1947 15 ",
+			"color": "dim|0.26805 gray|0.26805 dim|0.26805 grey|0.26805 black|0.20391 gray|0.16907 grey|0.16907 slate|0.09065 gray|0.09065 dark|0.075866 slate|0.075866 gray|0.075866 light|0.062194 slate|0.062194 gray|0.062194 dark|0.033027 gray|0.033027 dark|0.033027 grey|0.033027 light|0.02405 steel|0.02405 blue|0.02405 silver|0.020561 light|0.015089 gray|0.015089 light|0.015089 grey|0.015089 gainsboro|0.011594 lavender|0.0051005  ",
+			"after_weights": " Data|1 from|0.95455 U|0.90909 S|0.86364 Army|0.81818 Aircraft|0.77273 Since|0.72727 1947|0.68182 15|0.63636 |0.59091 General|0.54545 characteristics|0.5 Performance|0.45455 Data|0.40909 from|0.36364 U|0.31818 S|0.27273 Army|0.22727 Aircraft|0.18182 Since|0.13636 1947|0.090909 15|0.045455 |0",
+			"previous_weights": " Performance|0 General|0.066667 characteristics|0.13333 Data|0.2 from|0.26667 Jane|0.33333 s|0.4 All|0.46667 the|0.53333 World|0.6 s|0.66667 Aircraft|0.73333 1988|0.8 1989|0.86667 2|0.93333 |1"
+		}
+	}
+}

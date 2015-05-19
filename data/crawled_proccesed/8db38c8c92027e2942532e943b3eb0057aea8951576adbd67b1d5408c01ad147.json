@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8db38c8c92027e2942532e943b3eb0057aea8951576adbd67b1d5408c01ad147",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Walter_lewin_2.jpg",
+			"previous": " ",
+			"after": " Walter H G Lewin Walter Lewin is currently a professor of physics at the Massachusetts Institute of Technology MIT He earned his Ph D degree in nuclear physics in 1965 at the Delft University of Technology in the Netherlands ",
+			"color": "dark|0.5056 salmon|0.5056 light|0.20022 salmon|0.20022 sienna|0.082602 brown|0.060867 dim|0.052122 gray|0.052122 dim|0.052122 grey|0.052122 indian|0.032547 red|0.032547 dark|0.016246 slate|0.016246 gray|0.016246 salmon|0.015423  ",
+			"after_weights": " Walter|1 H|0.97436 G|0.94872 Lewin|0.92308 Walter|0.89744 Lewin|0.87179 is|0.84615 currently|0.82051 a|0.79487 professor|0.76923 of|0.74359 physics|0.71795 at|0.69231 the|0.66667 Massachusetts|0.64103 Institute|0.61538 of|0.58974 Technology|0.5641 MIT|0.53846 He|0.51282 earned|0.48718 his|0.46154 Ph|0.4359 D|0.41026 degree|0.38462 in|0.35897 nuclear|0.33333 physics|0.30769 in|0.28205 1965|0.25641 at|0.23077 the|0.20513 Delft|0.17949 University|0.15385 of|0.12821 Technology|0.10256 in|0.076923 the|0.051282 Netherlands|0.025641 |0",
+			"previous_weights": " "
+		}
+	}
+}

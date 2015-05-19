@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c9c512f3ec4eb73c092409af528a90562fcaa6b621d3bcf8c78a27d84809669",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/SYDAp2.JPG/220px-SYDAp2.JPG",
+			"previous": " The dedicated Freight Terminal is located north of Terminal 1 It is used for international freight operations except for Tasman Cargo Airlines trans Tasman services It is also used as overflow parking when all Terminal 1 gates are occupied ",
+			"after": " ",
+			"color": "light|0.28973 steel|0.28973 blue|0.28973 black|0.15964 gray|0.14339 grey|0.14339 dim|0.082215 gray|0.082215 dim|0.082215 grey|0.082215 light|0.073401 slate|0.073401 gray|0.073401 dark|0.070532 gray|0.070532 dark|0.070532 grey|0.070532 slate|0.053777 gray|0.053777 silver|0.035351 light|0.025416 gray|0.025416 light|0.025416 grey|0.025416 gainsboro|0.018642 steel|0.0069246 blue|0.0069246 dark|0.0044835 slate|0.0044835 gray|0.0044835  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 dedicated|0.025641 Freight|0.051282 Terminal|0.076923 is|0.10256 located|0.12821 north|0.15385 of|0.17949 Terminal|0.20513 1|0.23077 It|0.25641 is|0.28205 used|0.30769 for|0.33333 international|0.35897 freight|0.38462 operations|0.41026 except|0.4359 for|0.46154 Tasman|0.48718 Cargo|0.51282 Airlines|0.53846 trans|0.5641 Tasman|0.58974 services|0.61538 It|0.64103 is|0.66667 also|0.69231 used|0.71795 as|0.74359 overflow|0.76923 parking|0.79487 when|0.82051 all|0.84615 Terminal|0.87179 1|0.89744 gates|0.92308 are|0.94872 occupied|0.97436 |1"
+		}
+	}
+}

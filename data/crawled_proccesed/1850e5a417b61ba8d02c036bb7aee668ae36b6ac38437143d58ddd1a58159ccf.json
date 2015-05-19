@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1850e5a417b61ba8d02c036bb7aee668ae36b6ac38437143d58ddd1a58159ccf",
+			"url": "https://upload.wikimedia.org/math/1/c/5/1c50f866e8848bbf2dd3346b82dda2a1.png",
+			"previous": " In order to solve the equation we first recognize that only one of the two unknowns x y can be determined so we select y to be determined and rearrange the equation",
+			"after": " Solve for y and obtain the inverse image as the set of points ",
+			"color": "black|0.36803 dim|0.24814 gray|0.24814 dim|0.24814 grey|0.24814 gray|0.16601 grey|0.16601 dark|0.10996 gray|0.10996 dark|0.10996 grey|0.10996 silver|0.053085 light|0.026657 gray|0.026657 light|0.026657 grey|0.026657 gainsboro|0.018571  ",
+			"after_weights": " Solve|1 for|0.92308 y|0.84615 and|0.76923 obtain|0.69231 the|0.61538 inverse|0.53846 image|0.46154 as|0.38462 the|0.30769 set|0.23077 of|0.15385 points|0.076923 |0",
+			"previous_weights": " In|0 order|0.032258 to|0.064516 solve|0.096774 the|0.12903 equation|0.16129 we|0.19355 first|0.22581 recognize|0.25806 that|0.29032 only|0.32258 one|0.35484 of|0.3871 the|0.41935 two|0.45161 unknowns|0.48387 x|0.51613 y|0.54839 can|0.58065 be|0.6129 determined|0.64516 so|0.67742 we|0.70968 select|0.74194 y|0.77419 to|0.80645 be|0.83871 determined|0.87097 and|0.90323 rearrange|0.93548 the|0.96774 equation|1"
+		}
+	}
+}

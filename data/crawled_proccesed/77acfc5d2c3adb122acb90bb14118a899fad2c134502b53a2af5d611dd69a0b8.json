@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77acfc5d2c3adb122acb90bb14118a899fad2c134502b53a2af5d611dd69a0b8",
+			"url": "https://upload.wikimedia.org/math/e/6/1/e61a91669f1f08935b1e65f8c1129df7.png",
+			"previous": " For n satellites the equations to satisfy are ",
+			"after": " Since the equations have four unknowns x y z b the three components of GPS receiver position and the clock bias signals from at least four satellites are necessary to attempt solving these equations They can be solved by algebraic or numerical methods Existence and uniqueness of GPS solutions are discussed by Abell and Chaffee 47 When n is greater than 4 this system is overdetermined and a fitting method must be used ",
+			"color": "dim|0.37879 gray|0.37879 dim|0.37879 grey|0.37879 gray|0.28278 grey|0.28278 dark|0.18264 gray|0.18264 dark|0.18264 grey|0.18264 silver|0.081122 light|0.03897 gray|0.03897 light|0.03897 grey|0.03897 gainsboro|0.026136 white|0.0030773 smoke|0.0030773  ",
+			"after_weights": " Since|1 the|0.9863 equations|0.9726 have|0.9589 four|0.94521 unknowns|0.93151 x|0.91781 y|0.90411 z|0.89041 b|0.87671 the|0.86301 three|0.84932 components|0.83562 of|0.82192 GPS|0.80822 receiver|0.79452 position|0.78082 and|0.76712 the|0.75342 clock|0.73973 bias|0.72603 signals|0.71233 from|0.69863 at|0.68493 least|0.67123 four|0.65753 satellites|0.64384 are|0.63014 necessary|0.61644 to|0.60274 attempt|0.58904 solving|0.57534 these|0.56164 equations|0.54795 They|0.53425 can|0.52055 be|0.50685 solved|0.49315 by|0.47945 algebraic|0.46575 or|0.45205 numerical|0.43836 methods|0.42466 Existence|0.41096 and|0.39726 uniqueness|0.38356 of|0.36986 GPS|0.35616 solutions|0.34247 are|0.32877 discussed|0.31507 by|0.30137 Abell|0.28767 and|0.27397 Chaffee|0.26027 47|0.24658 When|0.23288 n|0.21918 is|0.20548 greater|0.19178 than|0.17808 4|0.16438 this|0.15068 system|0.13699 is|0.12329 overdetermined|0.10959 and|0.09589 a|0.082192 fitting|0.068493 method|0.054795 must|0.041096 be|0.027397 used|0.013699 |0",
+			"previous_weights": " For|0 n|0.125 satellites|0.25 the|0.375 equations|0.5 to|0.625 satisfy|0.75 are|0.875 |1"
+		}
+	}
+}

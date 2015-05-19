@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "679c2de3bcac62fa6022b3ac69d74a3ae1cee2d8a4747a3dd1f37428cce9e1b0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haymarket_Affair_map_Chicago_Tribune_may_5%2C_1886.jpg/150px-Haymarket_Affair_map_Chicago_Tribune_may_5%2C_1886.jpg",
+			"previous": " ",
+			"after": " At about 10 30 pm just as Fielden was finishing his speech police arrived en masse marching in formation towards the speakers wagon and ordered the rally to disperse 36 Fielden insisted that the meeting was peaceful Police Inspector John Bonfield proclaimed ",
+			"color": "dark|0.65327 gray|0.65327 dark|0.65327 grey|0.65327  ",
+			"after_weights": " At|1 about|0.97619 10|0.95238 30|0.92857 pm|0.90476 just|0.88095 as|0.85714 Fielden|0.83333 was|0.80952 finishing|0.78571 his|0.7619 speech|0.7381 police|0.71429 arrived|0.69048 en|0.66667 masse|0.64286 marching|0.61905 in|0.59524 formation|0.57143 towards|0.54762 the|0.52381 speakers|0.5 wagon|0.47619 and|0.45238 ordered|0.42857 the|0.40476 rally|0.38095 to|0.35714 disperse|0.33333 36|0.30952 Fielden|0.28571 insisted|0.2619 that|0.2381 the|0.21429 meeting|0.19048 was|0.16667 peaceful|0.14286 Police|0.11905 Inspector|0.095238 John|0.071429 Bonfield|0.047619 proclaimed|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b88d45450743fd21ea834999dbcd7bdf8da290ba0ad6e104a3676bd1093f153",
+			"url": "https://upload.wikimedia.org/math/1/0/2/102ce91efd71f298feb317606f63a190.png",
+			"previous": " where ",
+			"after": " This formula assumes independence of failure events That means that the probability of a component B failing given that a component A has already failed is the same as that of B failing when A has not failed There are situations where this is unreasonable such as using two power supplies connected to the same socket in such a way that if one power supply failed the other would too ",
+			"color": "dark|0.38586 gray|0.38586 dark|0.38586 grey|0.38586 gray|0.25191 grey|0.25191 silver|0.18586 light|0.081799 gray|0.081799 light|0.081799 grey|0.081799 gainsboro|0.048462 dim|0.038142 gray|0.038142 dim|0.038142 grey|0.038142 white|0.0025217 smoke|0.0025217  ",
+			"after_weights": " This|1 formula|0.98571 assumes|0.97143 independence|0.95714 of|0.94286 failure|0.92857 events|0.91429 That|0.9 means|0.88571 that|0.87143 the|0.85714 probability|0.84286 of|0.82857 a|0.81429 component|0.8 B|0.78571 failing|0.77143 given|0.75714 that|0.74286 a|0.72857 component|0.71429 A|0.7 has|0.68571 already|0.67143 failed|0.65714 is|0.64286 the|0.62857 same|0.61429 as|0.6 that|0.58571 of|0.57143 B|0.55714 failing|0.54286 when|0.52857 A|0.51429 has|0.5 not|0.48571 failed|0.47143 There|0.45714 are|0.44286 situations|0.42857 where|0.41429 this|0.4 is|0.38571 unreasonable|0.37143 such|0.35714 as|0.34286 using|0.32857 two|0.31429 power|0.3 supplies|0.28571 connected|0.27143 to|0.25714 the|0.24286 same|0.22857 socket|0.21429 in|0.2 such|0.18571 a|0.17143 way|0.15714 that|0.14286 if|0.12857 one|0.11429 power|0.1 supply|0.085714 failed|0.071429 the|0.057143 other|0.042857 would|0.028571 too|0.014286 |0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "835ac25ca6ec3d77a913341213ac7a05d221f24823930ea59d836b0166b64969",
+			"url": "https://upload.wikimedia.org/math/6/d/8/6d8b32517f26f891dd02c9003a0ef52e.png",
+			"previous": " The equation governing the decay of a radioactive isotope is 5 ",
+			"after": " where N0 is the number of atoms of the isotope in the original sample at time t 0 when the organism from which the sample was taken died and N is the number of atoms left after time t 5 is a constant that depends on the particular isotope for a given isotope it is equal to the reciprocal of the mean life i e the average or expected time a given atom will survive before undergoing radioactive decay 5 The mean life denoted by of 14 C is 8 267 years so the equation above can be rewritten as 13 ",
+			"color": "dim|0.42472 gray|0.42472 dim|0.42472 grey|0.42472 gray|0.26069 grey|0.26069 dark|0.16474 gray|0.16474 dark|0.16474 grey|0.16474 silver|0.073082 light|0.036604 gray|0.036604 light|0.036604 grey|0.036604 gainsboro|0.025259 white|0.0039848 smoke|0.0039848  ",
+			"after_weights": " where|1 N0|0.9901 is|0.9802 the|0.9703 number|0.9604 of|0.9505 atoms|0.94059 of|0.93069 the|0.92079 isotope|0.91089 in|0.90099 the|0.89109 original|0.88119 sample|0.87129 at|0.86139 time|0.85149 t|0.84158 0|0.83168 when|0.82178 the|0.81188 organism|0.80198 from|0.79208 which|0.78218 the|0.77228 sample|0.76238 was|0.75248 taken|0.74257 died|0.73267 and|0.72277 N|0.71287 is|0.70297 the|0.69307 number|0.68317 of|0.67327 atoms|0.66337 left|0.65347 after|0.64356 time|0.63366 t|0.62376 5|0.61386 is|0.60396 a|0.59406 constant|0.58416 that|0.57426 depends|0.56436 on|0.55446 the|0.54455 particular|0.53465 isotope|0.52475 for|0.51485 a|0.50495 given|0.49505 isotope|0.48515 it|0.47525 is|0.46535 equal|0.45545 to|0.44554 the|0.43564 reciprocal|0.42574 of|0.41584 the|0.40594 mean|0.39604 life|0.38614 i|0.37624 e|0.36634 the|0.35644 average|0.34653 or|0.33663 expected|0.32673 time|0.31683 a|0.30693 given|0.29703 atom|0.28713 will|0.27723 survive|0.26733 before|0.25743 undergoing|0.24752 radioactive|0.23762 decay|0.22772 5|0.21782 The|0.20792 mean|0.19802 life|0.18812 denoted|0.17822 by|0.16832 of|0.15842 14|0.14851 C|0.13861 is|0.12871 8|0.11881 267|0.10891 years|0.09901 so|0.089109 the|0.079208 equation|0.069307 above|0.059406 can|0.049505 be|0.039604 rewritten|0.029703 as|0.019802 13|0.009901 |0",
+			"previous_weights": " The|0 equation|0.090909 governing|0.18182 the|0.27273 decay|0.36364 of|0.45455 a|0.54545 radioactive|0.63636 isotope|0.72727 is|0.81818 5|0.90909 |1"
+		}
+	}
+}

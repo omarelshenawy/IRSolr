@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c324e288720c4a1616320852b4a7bc78ddc173443be28a98864029bd588adcc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aermacchi_M-346.jpg/220px-Aermacchi_M-346.jpg",
+			"previous": " ",
+			"after": " The M 346 is designed for training combat pilots for front line fighter aircraft It is capable of transonic flight without using an afterburner which is designed to reduce acquisition and operating costs Two engines and triple quadruple redundant systems enhance reliability ",
+			"color": "black|0.75611 dim|0.072495 gray|0.072495 dim|0.072495 grey|0.072495 slate|0.041364 gray|0.041364 gray|0.040971 grey|0.040971 dark|0.040035 gray|0.040035 dark|0.040035 grey|0.040035 light|0.038186 slate|0.038186 gray|0.038186  ",
+			"after_weights": " The|1 M|0.97619 346|0.95238 is|0.92857 designed|0.90476 for|0.88095 training|0.85714 combat|0.83333 pilots|0.80952 for|0.78571 front|0.7619 line|0.7381 fighter|0.71429 aircraft|0.69048 It|0.66667 is|0.64286 capable|0.61905 of|0.59524 transonic|0.57143 flight|0.54762 without|0.52381 using|0.5 an|0.47619 afterburner|0.45238 which|0.42857 is|0.40476 designed|0.38095 to|0.35714 reduce|0.33333 acquisition|0.30952 and|0.28571 operating|0.2619 costs|0.2381 Two|0.21429 engines|0.19048 and|0.16667 triple|0.14286 quadruple|0.11905 redundant|0.095238 systems|0.071429 enhance|0.047619 reliability|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

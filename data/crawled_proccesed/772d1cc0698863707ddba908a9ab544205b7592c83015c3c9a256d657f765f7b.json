@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "772d1cc0698863707ddba908a9ab544205b7592c83015c3c9a256d657f765f7b",
+			"url": "https://upload.wikimedia.org/math/6/e/a/6eab284b82614aa03f117ec5fe7b1b7a.png",
+			"previous": " A wave representing such a particle traveling in the k direction is expressed by the wave function as follows  where h is Planck s constant and p is the magnitude of the momentum of the particle This hypothesis was at the basis of quantum mechanics Nowadays this wavelength is called the de Broglie wavelength For example the electrons in a CRT display have a de Broglie wavelength of about 10 13 m ",
+			"after": " where the wavelength is determined by the wave vector k as ",
+			"color": "dim|0.41444 gray|0.41444 dim|0.41444 grey|0.41444 gray|0.27101 grey|0.27101 dark|0.15987 gray|0.15987 dark|0.15987 grey|0.15987 silver|0.07057 light|0.03576 gray|0.03576 light|0.03576 grey|0.03576 gainsboro|0.02539 white|0.0050587 smoke|0.0050587  ",
+			"after_weights": " where|1 the|0.90909 wavelength|0.81818 is|0.72727 determined|0.63636 by|0.54545 the|0.45455 wave|0.36364 vector|0.27273 k|0.18182 as|0.090909 |0",
+			"previous_weights": " A|0 wave|0.013699 representing|0.027397 such|0.041096 a|0.054795 particle|0.068493 traveling|0.082192 in|0.09589 the|0.10959 k|0.12329 direction|0.13699 is|0.15068 expressed|0.16438 by|0.17808 the|0.19178 wave|0.20548 function|0.21918 as|0.23288 follows|0.24658 |0.26027 where|0.27397 h|0.28767 is|0.30137 Planck|0.31507 s|0.32877 constant|0.34247 and|0.35616 p|0.36986 is|0.38356 the|0.39726 magnitude|0.41096 of|0.42466 the|0.43836 momentum|0.45205 of|0.46575 the|0.47945 particle|0.49315 This|0.50685 hypothesis|0.52055 was|0.53425 at|0.54795 the|0.56164 basis|0.57534 of|0.58904 quantum|0.60274 mechanics|0.61644 Nowadays|0.63014 this|0.64384 wavelength|0.65753 is|0.67123 called|0.68493 the|0.69863 de|0.71233 Broglie|0.72603 wavelength|0.73973 For|0.75342 example|0.76712 the|0.78082 electrons|0.79452 in|0.80822 a|0.82192 CRT|0.83562 display|0.84932 have|0.86301 a|0.87671 de|0.89041 Broglie|0.90411 wavelength|0.91781 of|0.93151 about|0.94521 10|0.9589 13|0.9726 m|0.9863 |1"
+		}
+	}
+}

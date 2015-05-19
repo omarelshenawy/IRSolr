@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27c98fccf64a8d6389caa244ad8ef83a853514cd0444aaf4abfcb197951a72b2",
+			"url": "https://upload.wikimedia.org/math/4/9/0/490b2766cacbcd4351053d782af608ab.png",
+			"previous": " The theorem states that the average of many independent and identically distributed random variables with finite variance tends towards a normal distribution irrespective of the distribution followed by the original random variables Formally let be independent random variables with mean and variance Then the sequence of random variables",
+			"after": " converges in distribution to a standard normal random variable ",
+			"color": "dim|0.33416 gray|0.33416 dim|0.33416 grey|0.33416 gray|0.29197 grey|0.29197 dark|0.19392 gray|0.19392 dark|0.19392 grey|0.19392 silver|0.089463 light|0.045118 gray|0.045118 light|0.045118 grey|0.045118 gainsboro|0.030501 white|0.0039872 smoke|0.0039872  ",
+			"after_weights": " converges|1 in|0.88889 distribution|0.77778 to|0.66667 a|0.55556 standard|0.44444 normal|0.33333 random|0.22222 variable|0.11111 |0",
+			"previous_weights": " The|0 theorem|0.021277 states|0.042553 that|0.06383 the|0.085106 average|0.10638 of|0.12766 many|0.14894 independent|0.17021 and|0.19149 identically|0.21277 distributed|0.23404 random|0.25532 variables|0.2766 with|0.29787 finite|0.31915 variance|0.34043 tends|0.3617 towards|0.38298 a|0.40426 normal|0.42553 distribution|0.44681 irrespective|0.46809 of|0.48936 the|0.51064 distribution|0.53191 followed|0.55319 by|0.57447 the|0.59574 original|0.61702 random|0.6383 variables|0.65957 Formally|0.68085 let|0.70213 be|0.7234 independent|0.74468 random|0.76596 variables|0.78723 with|0.80851 mean|0.82979 and|0.85106 variance|0.87234 Then|0.89362 the|0.91489 sequence|0.93617 of|0.95745 random|0.97872 variables|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "75fb42014e8c63ba9959f08ebdcfe95d1ead6978f8e602c686284ab838fc09ed",
+			"url": "https://upload.wikimedia.org/math/8/b/e/8be63cbfe852adf6494f2be744fe8e54.png",
+			"previous": " where",
+			"after": " The left hand side of equation 2 is a monic trinomial called a depressed cubic  Any formula for the roots of a depressed cubic may be transformed into a formula for the roots of Equation 1 by substituting the above values for and and using the relation ",
+			"color": "dim|0.29625 gray|0.29625 dim|0.29625 grey|0.29625 gray|0.29285 grey|0.29285 dark|0.21842 gray|0.21842 dark|0.21842 grey|0.21842 silver|0.094897 light|0.04532 gray|0.04532 light|0.04532 grey|0.04532 gainsboro|0.031797 white|0.0049058 smoke|0.0049058 linen|0.0028082  ",
+			"after_weights": " The|1 left|0.97917 hand|0.95833 side|0.9375 of|0.91667 equation|0.89583 2|0.875 is|0.85417 a|0.83333 monic|0.8125 trinomial|0.79167 called|0.77083 a|0.75 depressed|0.72917 cubic|0.70833 |0.6875 Any|0.66667 formula|0.64583 for|0.625 the|0.60417 roots|0.58333 of|0.5625 a|0.54167 depressed|0.52083 cubic|0.5 may|0.47917 be|0.45833 transformed|0.4375 into|0.41667 a|0.39583 formula|0.375 for|0.35417 the|0.33333 roots|0.3125 of|0.29167 Equation|0.27083 1|0.25 by|0.22917 substituting|0.20833 the|0.1875 above|0.16667 values|0.14583 for|0.125 and|0.10417 and|0.083333 using|0.0625 the|0.041667 relation|0.020833 |0",
+			"previous_weights": " where|1"
+		}
+	}
+}

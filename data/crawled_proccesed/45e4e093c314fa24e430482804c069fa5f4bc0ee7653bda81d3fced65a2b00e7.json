@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45e4e093c314fa24e430482804c069fa5f4bc0ee7653bda81d3fced65a2b00e7",
+			"url": "https://upload.wikimedia.org/math/3/6/5/365840237271a96ceec0db906e20d449.png",
+			"previous": " An alternative definition for the maximum potential intensity which is mathematically equivalent to the above formulation is",
+			"after": " On Earth a characteristic temperature for is 300 K and for is 200 K corresponding to a Carnot efficiency of The ratio of the surface exchange coefficients is typically taken to be 1 However observations suggest that the drag coefficient varies with wind speed and may decrease at high wind speeds within the boundary layer of a mature hurricane 33 Additionally may vary at high wind speeds due to the effect of sea spray on evaporation within the boundary layer 34 ",
+			"color": "gray|0.32483 grey|0.32483 dim|0.25873 gray|0.25873 dim|0.25873 grey|0.25873 dark|0.22437 gray|0.22437 dark|0.22437 grey|0.22437 silver|0.093653 light|0.045223 gray|0.045223 light|0.045223 grey|0.045223 gainsboro|0.03165 white|0.0056851 smoke|0.0056851 linen|0.0029683  ",
+			"after_weights": " On|1 Earth|0.98765 a|0.97531 characteristic|0.96296 temperature|0.95062 for|0.93827 is|0.92593 300|0.91358 K|0.90123 and|0.88889 for|0.87654 is|0.8642 200|0.85185 K|0.83951 corresponding|0.82716 to|0.81481 a|0.80247 Carnot|0.79012 efficiency|0.77778 of|0.76543 The|0.75309 ratio|0.74074 of|0.7284 the|0.71605 surface|0.7037 exchange|0.69136 coefficients|0.67901 is|0.66667 typically|0.65432 taken|0.64198 to|0.62963 be|0.61728 1|0.60494 However|0.59259 observations|0.58025 suggest|0.5679 that|0.55556 the|0.54321 drag|0.53086 coefficient|0.51852 varies|0.50617 with|0.49383 wind|0.48148 speed|0.46914 and|0.45679 may|0.44444 decrease|0.4321 at|0.41975 high|0.40741 wind|0.39506 speeds|0.38272 within|0.37037 the|0.35802 boundary|0.34568 layer|0.33333 of|0.32099 a|0.30864 mature|0.2963 hurricane|0.28395 33|0.2716 Additionally|0.25926 may|0.24691 vary|0.23457 at|0.22222 high|0.20988 wind|0.19753 speeds|0.18519 due|0.17284 to|0.16049 the|0.14815 effect|0.1358 of|0.12346 sea|0.11111 spray|0.098765 on|0.08642 evaporation|0.074074 within|0.061728 the|0.049383 boundary|0.037037 layer|0.024691 34|0.012346 |0",
+			"previous_weights": " An|0 alternative|0.0625 definition|0.125 for|0.1875 the|0.25 maximum|0.3125 potential|0.375 intensity|0.4375 which|0.5 is|0.5625 mathematically|0.625 equivalent|0.6875 to|0.75 the|0.8125 above|0.875 formulation|0.9375 is|1"
+		}
+	}
+}

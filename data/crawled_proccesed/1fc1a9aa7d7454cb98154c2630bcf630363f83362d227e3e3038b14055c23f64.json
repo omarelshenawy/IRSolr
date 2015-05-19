@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc1a9aa7d7454cb98154c2630bcf630363f83362d227e3e3038b14055c23f64",
+			"url": "https://upload.wikimedia.org/math/5/e/f/5ef2fa747d3a5d684ae67bdc7236e6d4.png",
+			"previous": " Often a PDE can be reduced to a simpler form with a known solution by a suitable change of variables For example the Black Scholes PDE If the domain is finite or periodic an infinite sum of solutions such as a Fourier series is appropriate but an integral of solutions such as a Fourier integral is generally required for infinite domains The solution for a point source for the heat equation given above is an example for use of a Fourier integral ",
+			"after": " is reducible to the heat equation by the change of variables for complete details see Solution of the Black Scholes Equation at the Wayback Machine archived April 11 2008 ",
+			"color": "dim|0.32576 gray|0.32576 dim|0.32576 grey|0.32576 gray|0.31001 grey|0.31001 dark|0.198 gray|0.198 dark|0.198 grey|0.198 silver|0.083405 light|0.038093 gray|0.038093 light|0.038093 grey|0.038093 gainsboro|0.025995 white|0.004432 smoke|0.004432  ",
+			"after_weights": " is|1 reducible|0.96552 to|0.93103 the|0.89655 heat|0.86207 equation|0.82759 by|0.7931 the|0.75862 change|0.72414 of|0.68966 variables|0.65517 for|0.62069 complete|0.58621 details|0.55172 see|0.51724 Solution|0.48276 of|0.44828 the|0.41379 Black|0.37931 Scholes|0.34483 Equation|0.31034 at|0.27586 the|0.24138 Wayback|0.2069 Machine|0.17241 archived|0.13793 April|0.10345 11|0.068966 2008|0.034483 |0",
+			"previous_weights": " Often|0 a|0.012195 PDE|0.02439 can|0.036585 be|0.04878 reduced|0.060976 to|0.073171 a|0.085366 simpler|0.097561 form|0.10976 with|0.12195 a|0.13415 known|0.14634 solution|0.15854 by|0.17073 a|0.18293 suitable|0.19512 change|0.20732 of|0.21951 variables|0.23171 For|0.2439 example|0.2561 the|0.26829 Black|0.28049 Scholes|0.29268 PDE|0.30488 If|0.31707 the|0.32927 domain|0.34146 is|0.35366 finite|0.36585 or|0.37805 periodic|0.39024 an|0.40244 infinite|0.41463 sum|0.42683 of|0.43902 solutions|0.45122 such|0.46341 as|0.47561 a|0.4878 Fourier|0.5 series|0.5122 is|0.52439 appropriate|0.53659 but|0.54878 an|0.56098 integral|0.57317 of|0.58537 solutions|0.59756 such|0.60976 as|0.62195 a|0.63415 Fourier|0.64634 integral|0.65854 is|0.67073 generally|0.68293 required|0.69512 for|0.70732 infinite|0.71951 domains|0.73171 The|0.7439 solution|0.7561 for|0.76829 a|0.78049 point|0.79268 source|0.80488 for|0.81707 the|0.82927 heat|0.84146 equation|0.85366 given|0.86585 above|0.87805 is|0.89024 an|0.90244 example|0.91463 for|0.92683 use|0.93902 of|0.95122 a|0.96341 Fourier|0.97561 integral|0.9878 |1"
+		}
+	}
+}

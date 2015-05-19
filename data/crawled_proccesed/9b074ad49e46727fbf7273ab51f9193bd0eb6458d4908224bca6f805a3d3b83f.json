@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b074ad49e46727fbf7273ab51f9193bd0eb6458d4908224bca6f805a3d3b83f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mina_Edison_1906.jpg/220px-Mina_Edison_1906.jpg",
+			"previous": " Mary Edison died at age 29 on August 9 1884 of unknown causes possibly from a brain tumor 24 or a morphine overdose Doctors frequently prescribed morphine to women in those years to treat a variety of causes and researchers believe that some of her symptoms sounded as if they were associated with morphine poisoning 25 ",
+			"after": " On February 24 1886 at the age of thirty nine Edison married the 20 year old Mina Miller 1866 1947 in Akron Ohio 26 She was the daughter of the inventor Lewis Miller co founder of the Chautauqua Institution and a benefactor of Methodist charities They also had three children together ",
+			"color": " ",
+			"after_weights": " On|1 February|0.98039 24|0.96078 1886|0.94118 at|0.92157 the|0.90196 age|0.88235 of|0.86275 thirty|0.84314 nine|0.82353 Edison|0.80392 married|0.78431 the|0.76471 20|0.7451 year|0.72549 old|0.70588 Mina|0.68627 Miller|0.66667 1866|0.64706 1947|0.62745 in|0.60784 Akron|0.58824 Ohio|0.56863 26|0.54902 She|0.52941 was|0.5098 the|0.4902 daughter|0.47059 of|0.45098 the|0.43137 inventor|0.41176 Lewis|0.39216 Miller|0.37255 co|0.35294 founder|0.33333 of|0.31373 the|0.29412 Chautauqua|0.27451 Institution|0.2549 and|0.23529 a|0.21569 benefactor|0.19608 of|0.17647 Methodist|0.15686 charities|0.13725 They|0.11765 also|0.098039 had|0.078431 three|0.058824 children|0.039216 together|0.019608 |0",
+			"previous_weights": " Mary|0 Edison|0.017857 died|0.035714 at|0.053571 age|0.071429 29|0.089286 on|0.10714 August|0.125 9|0.14286 1884|0.16071 of|0.17857 unknown|0.19643 causes|0.21429 possibly|0.23214 from|0.25 a|0.26786 brain|0.28571 tumor|0.30357 24|0.32143 or|0.33929 a|0.35714 morphine|0.375 overdose|0.39286 Doctors|0.41071 frequently|0.42857 prescribed|0.44643 morphine|0.46429 to|0.48214 women|0.5 in|0.51786 those|0.53571 years|0.55357 to|0.57143 treat|0.58929 a|0.60714 variety|0.625 of|0.64286 causes|0.66071 and|0.67857 researchers|0.69643 believe|0.71429 that|0.73214 some|0.75 of|0.76786 her|0.78571 symptoms|0.80357 sounded|0.82143 as|0.83929 if|0.85714 they|0.875 were|0.89286 associated|0.91071 with|0.92857 morphine|0.94643 poisoning|0.96429 25|0.98214 |1"
+		}
+	}
+}

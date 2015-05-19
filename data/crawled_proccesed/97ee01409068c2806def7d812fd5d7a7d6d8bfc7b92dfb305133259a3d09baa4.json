@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "97ee01409068c2806def7d812fd5d7a7d6d8bfc7b92dfb305133259a3d09baa4",
+			"url": "https://upload.wikimedia.org/math/3/a/0/3a0ac1f70a96cbae23698aef1c5fa6ac.png",
+			"previous": " where rp is the leading edge of the pulse If we assume lp2 is small and can be neglected then we can solve for rp as ",
+			"after": " The time evolution of the return power measured from the footprint of the radar signal reflecting off the ocean land surface can be described in three parts 1 the time before the pulse arrives 2 the time after the beginning of the pulses arrival and before of the tail of the pulse has arrived and 3 after the tail of the pulse has arrived The power function can then be expressed functionally as ",
+			"color": "dim|0.35851 gray|0.35851 dim|0.35851 grey|0.35851 gray|0.31413 grey|0.31413 dark|0.18798 gray|0.18798 dark|0.18798 grey|0.18798 silver|0.069398 light|0.031483 gray|0.031483 light|0.031483 grey|0.031483 gainsboro|0.021401 white|0.0038403 smoke|0.0038403  ",
+			"after_weights": " The|1 time|0.9863 evolution|0.9726 of|0.9589 the|0.94521 return|0.93151 power|0.91781 measured|0.90411 from|0.89041 the|0.87671 footprint|0.86301 of|0.84932 the|0.83562 radar|0.82192 signal|0.80822 reflecting|0.79452 off|0.78082 the|0.76712 ocean|0.75342 land|0.73973 surface|0.72603 can|0.71233 be|0.69863 described|0.68493 in|0.67123 three|0.65753 parts|0.64384 1|0.63014 the|0.61644 time|0.60274 before|0.58904 the|0.57534 pulse|0.56164 arrives|0.54795 2|0.53425 the|0.52055 time|0.50685 after|0.49315 the|0.47945 beginning|0.46575 of|0.45205 the|0.43836 pulses|0.42466 arrival|0.41096 and|0.39726 before|0.38356 of|0.36986 the|0.35616 tail|0.34247 of|0.32877 the|0.31507 pulse|0.30137 has|0.28767 arrived|0.27397 and|0.26027 3|0.24658 after|0.23288 the|0.21918 tail|0.20548 of|0.19178 the|0.17808 pulse|0.16438 has|0.15068 arrived|0.13699 The|0.12329 power|0.10959 function|0.09589 can|0.082192 then|0.068493 be|0.054795 expressed|0.041096 functionally|0.027397 as|0.013699 |0",
+			"previous_weights": " where|0 rp|0.038462 is|0.076923 the|0.11538 leading|0.15385 edge|0.19231 of|0.23077 the|0.26923 pulse|0.30769 If|0.34615 we|0.38462 assume|0.42308 lp2|0.46154 is|0.5 small|0.53846 and|0.57692 can|0.61538 be|0.65385 neglected|0.69231 then|0.73077 we|0.76923 can|0.80769 solve|0.84615 for|0.88462 rp|0.92308 as|0.96154 |1"
+		}
+	}
+}

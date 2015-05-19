@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "245c9618260e30c5c08420e385876ccad749491cbc135b7f916e75babc7a7868",
+			"url": "https://upload.wikimedia.org/math/c/0/5/c0548efdf84081d4a73cd3f9a0e17903.png",
+			"previous": " and Eigenvalue problems in higher dimensions are defined in analogy with the one dimensional case For example given a domain D with boundary B in three dimensions we may define",
+			"after": " Let u be the function that minimizes the quotient with no condition prescribed on the boundary B The Euler Lagrange equation satisfied by u is where",
+			"color": "gray|0.304 grey|0.304 dim|0.28959 gray|0.28959 dim|0.28959 grey|0.28959 dark|0.21299 gray|0.21299 dark|0.21299 grey|0.21299 silver|0.092957 light|0.043691 gray|0.043691 light|0.043691 grey|0.043691 gainsboro|0.03145 white|0.0055677 smoke|0.0055677 linen|0.0033563 lavender|0.0030355 blush|0.0030355 alice|0.002982 blue|0.002982 ghost|0.0029152 white|0.0029152 sea|0.0028388 shell|0.0028388 snow|0.0027441  ",
+			"after_weights": " Let|1 u|0.96 be|0.92 the|0.88 function|0.84 that|0.8 minimizes|0.76 the|0.72 quotient|0.68 with|0.64 no|0.6 condition|0.56 prescribed|0.52 on|0.48 the|0.44 boundary|0.4 B|0.36 The|0.32 Euler|0.28 Lagrange|0.24 equation|0.2 satisfied|0.16 by|0.12 u|0.08 is|0.04 where|0",
+			"previous_weights": " and|0 Eigenvalue|0.034483 problems|0.068966 in|0.10345 higher|0.13793 dimensions|0.17241 are|0.2069 defined|0.24138 in|0.27586 analogy|0.31034 with|0.34483 the|0.37931 one|0.41379 dimensional|0.44828 case|0.48276 For|0.51724 example|0.55172 given|0.58621 a|0.62069 domain|0.65517 D|0.68966 with|0.72414 boundary|0.75862 B|0.7931 in|0.82759 three|0.86207 dimensions|0.89655 we|0.93103 may|0.96552 define|1"
+		}
+	}
+}

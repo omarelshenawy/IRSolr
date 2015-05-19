@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "34c6060922f089fbb1823d8ae3ec8bab7847b84bc0e0fc2150529305f3d31972",
+			"url": "https://upload.wikimedia.org/math/8/b/3/8b37157dc32aca2597bad8aff4b8de0d.png",
+			"previous": " Passive radar is applicable to electronic countermeasures and radio astronomy as follows ",
+			"after": " Only the radial component of the speed is relevant When the reflector is moving at right angle to the radar beam it has no relative velocity Vehicles and weather moving parallel to the radar beam produce the maximum Doppler frequency shift ",
+			"color": "dim|0.32 gray|0.32 dim|0.32 grey|0.32 gray|0.30445 grey|0.30445 dark|0.20295 gray|0.20295 dark|0.20295 grey|0.20295 silver|0.083535 light|0.040236 gray|0.040236 light|0.040236 grey|0.040236 gainsboro|0.02867 white|0.0057554 smoke|0.0057554  ",
+			"after_weights": " Only|1 the|0.97561 radial|0.95122 component|0.92683 of|0.90244 the|0.87805 speed|0.85366 is|0.82927 relevant|0.80488 When|0.78049 the|0.7561 reflector|0.73171 is|0.70732 moving|0.68293 at|0.65854 right|0.63415 angle|0.60976 to|0.58537 the|0.56098 radar|0.53659 beam|0.5122 it|0.4878 has|0.46341 no|0.43902 relative|0.41463 velocity|0.39024 Vehicles|0.36585 and|0.34146 weather|0.31707 moving|0.29268 parallel|0.26829 to|0.2439 the|0.21951 radar|0.19512 beam|0.17073 produce|0.14634 the|0.12195 maximum|0.097561 Doppler|0.073171 frequency|0.04878 shift|0.02439 |0",
+			"previous_weights": " Passive|0 radar|0.083333 is|0.16667 applicable|0.25 to|0.33333 electronic|0.41667 countermeasures|0.5 and|0.58333 radio|0.66667 astronomy|0.75 as|0.83333 follows|0.91667 |1"
+		}
+	}
+}

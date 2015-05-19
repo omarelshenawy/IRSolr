@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "79249a03c49141c2ed0166ec0badd5b5a98cb3670de0d4cd90d51a02323f86dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Geocentric_coordinates.svg/200px-Geocentric_coordinates.svg.png",
+			"previous": " ",
+			"after": " The geocentric latitude is the complement of the polar angle in conventional spherical polar coordinates in which the coordinates of a point are P r where r is the distance of P from the centre O is the angle between the radius vector and the polar axis and is longitude Since the normal at a general point on the ellipsoid does not pass through the centre it is clear that points on the normal which all have the same geodetic latitude will have differing geocentic latitudes Spherical polar coordinate systems are used in the analysis of the gravity field ",
+			"color": "dim|0.38458 gray|0.38458 dim|0.38458 grey|0.38458 gray|0.35368 grey|0.35368 black|0.14862 dark|0.062649 gray|0.062649 dark|0.062649 grey|0.062649 silver|0.014726 light|0.0052625 gray|0.0052625 light|0.0052625 grey|0.0052625  ",
+			"after_weights": " The|1 geocentric|0.9899 latitude|0.9798 is|0.9697 the|0.9596 complement|0.94949 of|0.93939 the|0.92929 polar|0.91919 angle|0.90909 in|0.89899 conventional|0.88889 spherical|0.87879 polar|0.86869 coordinates|0.85859 in|0.84848 which|0.83838 the|0.82828 coordinates|0.81818 of|0.80808 a|0.79798 point|0.78788 are|0.77778 P|0.76768 r|0.75758 where|0.74747 r|0.73737 is|0.72727 the|0.71717 distance|0.70707 of|0.69697 P|0.68687 from|0.67677 the|0.66667 centre|0.65657 O|0.64646 is|0.63636 the|0.62626 angle|0.61616 between|0.60606 the|0.59596 radius|0.58586 vector|0.57576 and|0.56566 the|0.55556 polar|0.54545 axis|0.53535 and|0.52525 is|0.51515 longitude|0.50505 Since|0.49495 the|0.48485 normal|0.47475 at|0.46465 a|0.45455 general|0.44444 point|0.43434 on|0.42424 the|0.41414 ellipsoid|0.40404 does|0.39394 not|0.38384 pass|0.37374 through|0.36364 the|0.35354 centre|0.34343 it|0.33333 is|0.32323 clear|0.31313 that|0.30303 points|0.29293 on|0.28283 the|0.27273 normal|0.26263 which|0.25253 all|0.24242 have|0.23232 the|0.22222 same|0.21212 geodetic|0.20202 latitude|0.19192 will|0.18182 have|0.17172 differing|0.16162 geocentic|0.15152 latitudes|0.14141 Spherical|0.13131 polar|0.12121 coordinate|0.11111 systems|0.10101 are|0.090909 used|0.080808 in|0.070707 the|0.060606 analysis|0.050505 of|0.040404 the|0.030303 gravity|0.020202 field|0.010101 |0",
+			"previous_weights": " "
+		}
+	}
+}

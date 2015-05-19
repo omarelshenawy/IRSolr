@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fb895f249ac10e569148e7290817abc2ddddc6d4eb92334d27f18d763c4f643",
+			"url": "https://upload.wikimedia.org/math/f/3/0/f30f531e253e041ecee7941eb51a8bc3.png",
+			"previous": " In the three body case the accelerations are",
+			"after": " These accelerations are not those of Kepler orbits and the three body problem is complicated But Keplerian approximation is the basis for perturbation calculations See Lunar theory ",
+			"color": "dim|0.35933 gray|0.35933 dim|0.35933 grey|0.35933 black|0.23697 gray|0.18179 grey|0.18179 dark|0.11526 gray|0.11526 dark|0.11526 grey|0.11526 silver|0.050699 light|0.025154 gray|0.025154 light|0.025154 grey|0.025154 gainsboro|0.01778  ",
+			"after_weights": " These|1 accelerations|0.96296 are|0.92593 not|0.88889 those|0.85185 of|0.81481 Kepler|0.77778 orbits|0.74074 and|0.7037 the|0.66667 three|0.62963 body|0.59259 problem|0.55556 is|0.51852 complicated|0.48148 But|0.44444 Keplerian|0.40741 approximation|0.37037 is|0.33333 the|0.2963 basis|0.25926 for|0.22222 perturbation|0.18519 calculations|0.14815 See|0.11111 Lunar|0.074074 theory|0.037037 |0",
+			"previous_weights": " In|0 the|0.14286 three|0.28571 body|0.42857 case|0.57143 the|0.71429 accelerations|0.85714 are|1"
+		}
+	}
+}

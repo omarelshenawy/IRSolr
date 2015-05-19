@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "463f0b2f2bee4fff3b3593e7a1165b816e0b22c075052484561f47ef19681e4f",
+			"url": "https://upload.wikimedia.org/math/4/a/5/4a575f57285fbf61061dc22476dd9adf.png",
+			"previous": " The rules for measurement in quantum mechanics are particularly simple to state in terms of density matrices For example the ensemble average expectation value of a measurement corresponding to an observable A is given by",
+			"after": " According to Wigner 11 the concept of mixture was put forward by Landau 12 13 ",
+			"color": "dark|0.25328 gray|0.25328 dark|0.25328 grey|0.25328 gray|0.20884 grey|0.20884 silver|0.19746 light|0.11978 gray|0.11978 light|0.11978 grey|0.11978 gainsboro|0.086406 dim|0.065071 gray|0.065071 dim|0.065071 grey|0.065071 white|0.014108 smoke|0.014108 linen|0.0087184 lavender|0.0076192 blush|0.0076192 alice|0.0075215 blue|0.0075215 ghost|0.0073749 white|0.0073749 sea|0.007026 shell|0.007026 snow|0.0067817 white|0.0051099 mint|0.0031754 cream|0.0031754  ",
+			"after_weights": " According|1 to|0.93333 Wigner|0.86667 11|0.8 the|0.73333 concept|0.66667 of|0.6 mixture|0.53333 was|0.46667 put|0.4 forward|0.33333 by|0.26667 Landau|0.2 12|0.13333 13|0.066667 |0",
+			"previous_weights": " The|0 rules|0.029412 for|0.058824 measurement|0.088235 in|0.11765 quantum|0.14706 mechanics|0.17647 are|0.20588 particularly|0.23529 simple|0.26471 to|0.29412 state|0.32353 in|0.35294 terms|0.38235 of|0.41176 density|0.44118 matrices|0.47059 For|0.5 example|0.52941 the|0.55882 ensemble|0.58824 average|0.61765 expectation|0.64706 value|0.67647 of|0.70588 a|0.73529 measurement|0.76471 corresponding|0.79412 to|0.82353 an|0.85294 observable|0.88235 A|0.91176 is|0.94118 given|0.97059 by|1"
+		}
+	}
+}

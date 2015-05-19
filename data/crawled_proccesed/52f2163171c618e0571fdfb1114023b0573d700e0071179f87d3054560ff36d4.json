@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "52f2163171c618e0571fdfb1114023b0573d700e0071179f87d3054560ff36d4",
+			"url": "https://upload.wikimedia.org/math/4/2/8/428bd29aae588c5b39a85e077b32ea06.png",
+			"previous": " The density matrix describing a mixed state is defined to be an operator of the form",
+			"after": " where is the fraction of the ensemble in each pure state The density matrix can be thought of as a way of using the one particle formalism to describe the behavior of many similar particles by giving a probability distribution or ensemble of states that these particles can be found in ",
+			"color": "dim|0.32941 gray|0.32941 dim|0.32941 grey|0.32941 gray|0.27859 grey|0.27859 dark|0.18457 gray|0.18457 dark|0.18457 grey|0.18457 silver|0.094873 light|0.049437 gray|0.049437 light|0.049437 grey|0.049437 gainsboro|0.037454 white|0.005442 smoke|0.005442 linen|0.0031278 lavender|0.0028961 blush|0.0028961 alice|0.0027907 blue|0.0027907  ",
+			"after_weights": " where|1 is|0.98039 the|0.96078 fraction|0.94118 of|0.92157 the|0.90196 ensemble|0.88235 in|0.86275 each|0.84314 pure|0.82353 state|0.80392 The|0.78431 density|0.76471 matrix|0.7451 can|0.72549 be|0.70588 thought|0.68627 of|0.66667 as|0.64706 a|0.62745 way|0.60784 of|0.58824 using|0.56863 the|0.54902 one|0.52941 particle|0.5098 formalism|0.4902 to|0.47059 describe|0.45098 the|0.43137 behavior|0.41176 of|0.39216 many|0.37255 similar|0.35294 particles|0.33333 by|0.31373 giving|0.29412 a|0.27451 probability|0.2549 distribution|0.23529 or|0.21569 ensemble|0.19608 of|0.17647 states|0.15686 that|0.13725 these|0.11765 particles|0.098039 can|0.078431 be|0.058824 found|0.039216 in|0.019608 |0",
+			"previous_weights": " The|0 density|0.066667 matrix|0.13333 describing|0.2 a|0.26667 mixed|0.33333 state|0.4 is|0.46667 defined|0.53333 to|0.6 be|0.66667 an|0.73333 operator|0.8 of|0.86667 the|0.93333 form|1"
+		}
+	}
+}

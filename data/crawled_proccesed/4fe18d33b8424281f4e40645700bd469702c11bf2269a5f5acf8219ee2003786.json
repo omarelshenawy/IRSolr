@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fe18d33b8424281f4e40645700bd469702c11bf2269a5f5acf8219ee2003786",
+			"url": "https://upload.wikimedia.org/math/f/e/5/fe56df247617b78c6066616932b1e0cf.png",
+			"previous": " NOTE inclusion of 144 in ft to obtain density in lb ft      ",
+			"after": "  NOTE inclusion of 144 in ft to obtain area in in  Gross Thrust  The following special calculation is required if the nozzle happens to be unchoked ",
+			"color": "dim|0.32026 gray|0.32026 dim|0.32026 grey|0.32026 black|0.24714 gray|0.21834 grey|0.21834 dark|0.12156 gray|0.12156 dark|0.12156 grey|0.12156 silver|0.048503 light|0.021342 gray|0.021342 light|0.021342 grey|0.021342 gainsboro|0.014254  ",
+			"after_weights": " |1 NOTE|0.96552 inclusion|0.93103 of|0.89655 144|0.86207 in|0.82759 ft|0.7931 to|0.75862 obtain|0.72414 area|0.68966 in|0.65517 in|0.62069 |0.58621 Gross|0.55172 Thrust|0.51724 |0.48276 The|0.44828 following|0.41379 special|0.37931 calculation|0.34483 is|0.31034 required|0.27586 if|0.24138 the|0.2069 nozzle|0.17241 happens|0.13793 to|0.10345 be|0.068966 unchoked|0.034483 |0",
+			"previous_weights": " NOTE|0 inclusion|0.058824 of|0.11765 144|0.17647 in|0.23529 ft|0.29412 to|0.35294 obtain|0.41176 density|0.47059 in|0.52941 lb|0.58824 ft|0.64706 |0.70588 |0.76471 |0.82353 |0.88235 |0.94118 |1"
+		}
+	}
+}

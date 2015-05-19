@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "79ae48f2f67fa8bb6089cb11bdd3769dfdee83898c45446c18b07d05c676d935",
+			"url": "https://upload.wikimedia.org/math/0/8/6/0861a21ce95886ab4c0c8be7c0d2ff86.png",
+			"previous": " Then the density of Brownian particles at point x at time t satisfies the diffusion equation ",
+			"after": " Assuming that N particles start from the origin at the initial time t 0 the diffusion equation has the solution",
+			"color": " ",
+			"after_weights": " Assuming|1 that|0.94737 N|0.89474 particles|0.84211 start|0.78947 from|0.73684 the|0.68421 origin|0.63158 at|0.57895 the|0.52632 initial|0.47368 time|0.42105 t|0.36842 0|0.31579 the|0.26316 diffusion|0.21053 equation|0.15789 has|0.10526 the|0.052632 solution|0",
+			"previous_weights": " Then|0 the|0.0625 density|0.125 of|0.1875 Brownian|0.25 particles|0.3125 at|0.375 point|0.4375 x|0.5 at|0.5625 time|0.625 t|0.6875 satisfies|0.75 the|0.8125 diffusion|0.875 equation|0.9375 |1"
+		}
+	}
+}

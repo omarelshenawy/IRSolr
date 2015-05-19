@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "35f34730054a41fef0d31fc9b62f53166d01bce469a79764c17fdf1ee50638d3",
+			"url": "https://upload.wikimedia.org/math/3/d/6/3d6459998fd07265ee17bcb6e131e926.png",
+			"previous": " Where  The overall engine efficiency can be represented as a value between 0 and 1 in terms of the specific impulse of the engine ",
+			"after": " This extremely simple formulation used for the purposes of discussion assumes  However they are true generally for all engines ",
+			"color": "gray|0.33204 grey|0.33204 dark|0.25464 gray|0.25464 dark|0.25464 grey|0.25464 dim|0.20514 gray|0.20514 dim|0.20514 grey|0.20514 silver|0.10141 light|0.051011 gray|0.051011 light|0.051011 grey|0.051011 gainsboro|0.033953 white|0.0060415 smoke|0.0060415 linen|0.0029038  ",
+			"after_weights": " This|1 extremely|0.95 simple|0.9 formulation|0.85 used|0.8 for|0.75 the|0.7 purposes|0.65 of|0.6 discussion|0.55 assumes|0.5 |0.45 However|0.4 they|0.35 are|0.3 true|0.25 generally|0.2 for|0.15 all|0.1 engines|0.05 |0",
+			"previous_weights": " Where|0 |0.04 The|0.08 overall|0.12 engine|0.16 efficiency|0.2 can|0.24 be|0.28 represented|0.32 as|0.36 a|0.4 value|0.44 between|0.48 0|0.52 and|0.56 1|0.6 in|0.64 terms|0.68 of|0.72 the|0.76 specific|0.8 impulse|0.84 of|0.88 the|0.92 engine|0.96 |1"
+		}
+	}
+}

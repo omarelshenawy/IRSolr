@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "818644e92c53bd1cecdb108c3cd09ca7a5c35924871727fd0db6a785bda4e045",
+			"url": "https://upload.wikimedia.org/math/b/5/0/b50a3a8056a80a8ae7b8e268a90c2bb9.png",
+			"previous": " then the Z transform see this example is given by",
+			"after": " which has a pole in zero imaginary part This system is BIBO asymptotically stable since the pole is inside the unit circle  However if the impulse response was",
+			"color": "dim|0.43355 gray|0.43355 dim|0.43355 grey|0.43355 gray|0.27493 grey|0.27493 dark|0.15028 gray|0.15028 dark|0.15028 grey|0.15028 silver|0.068334 light|0.035657 gray|0.035657 light|0.035657 grey|0.035657 gainsboro|0.024903 white|0.0036152 smoke|0.0036152  ",
+			"after_weights": " which|1 has|0.96429 a|0.92857 pole|0.89286 in|0.85714 zero|0.82143 imaginary|0.78571 part|0.75 This|0.71429 system|0.67857 is|0.64286 BIBO|0.60714 asymptotically|0.57143 stable|0.53571 since|0.5 the|0.46429 pole|0.42857 is|0.39286 inside|0.35714 the|0.32143 unit|0.28571 circle|0.25 |0.21429 However|0.17857 if|0.14286 the|0.10714 impulse|0.071429 response|0.035714 was|0",
+			"previous_weights": " then|0 the|0.11111 Z|0.22222 transform|0.33333 see|0.44444 this|0.55556 example|0.66667 is|0.77778 given|0.88889 by|1"
+		}
+	}
+}

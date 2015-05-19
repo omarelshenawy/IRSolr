@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ddfec9b26ad038264cfc67a0ae2c5ced8211d2c5238c308dcb6b17dd9935d01",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/NTH-SAAB340BWT-JA03HC-01.jpg/220px-NTH-SAAB340BWT-JA03HC-01.jpg",
+			"previous": " The military variants are the Saab 340AEW 340AEW 200 340AEW 300 which are airborne early warning AEW and airborne early warning control AEW C aircraft Production of all 340 models ended in 1999 and Saab ceased all civil aircraft production in 2005 ",
+			"after": " ",
+			"color": "dim|0.46004 gray|0.46004 dim|0.46004 grey|0.46004 gray|0.22193 grey|0.22193 dark|0.16547 olive|0.16547 green|0.16547 dark|0.038002 gray|0.038002 dark|0.038002 grey|0.038002 silver|0.021004 firebrick|0.017082 light|0.015194 gray|0.015194 light|0.015194 grey|0.015194 gainsboro|0.011585 linen|0.0046198 white|0.0040192 smoke|0.0040192 brown|0.0038444  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 military|0.02381 variants|0.047619 are|0.071429 the|0.095238 Saab|0.11905 340AEW|0.14286 340AEW|0.16667 200|0.19048 340AEW|0.21429 300|0.2381 which|0.2619 are|0.28571 airborne|0.30952 early|0.33333 warning|0.35714 AEW|0.38095 and|0.40476 airborne|0.42857 early|0.45238 warning|0.47619 control|0.5 AEW|0.52381 C|0.54762 aircraft|0.57143 Production|0.59524 of|0.61905 all|0.64286 340|0.66667 models|0.69048 ended|0.71429 in|0.7381 1999|0.7619 and|0.78571 Saab|0.80952 ceased|0.83333 all|0.85714 civil|0.88095 aircraft|0.90476 production|0.92857 in|0.95238 2005|0.97619 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "27aa87174c45a4fdec1664c38e15b20ee0c775c42c32e200ba9929334ba9c82f",
+			"url": "https://upload.wikimedia.org/math/a/c/5/ac578c0d2b37ccf6c40f923bb1dc8491.png",
+			"previous": " where n is an integer The derivative of u with respect to y approaches 0 uniformly in x as n increases but the solution is",
+			"after": " This solution approaches infinity if nx is not an integer multiple of for any non zero value of y The Cauchy problem for the Laplace equation is called ill posed or not well posed since the solution does not depend continuously upon the data of the problem Such ill posed problems are not usually satisfactory for physical applications ",
+			"color": "dim|0.36506 gray|0.36506 dim|0.36506 grey|0.36506 gray|0.30184 grey|0.30184 dark|0.1775 gray|0.1775 dark|0.1775 grey|0.1775 silver|0.074883 light|0.036348 gray|0.036348 light|0.036348 grey|0.036348 gainsboro|0.025255 white|0.0047806 smoke|0.0047806  ",
+			"after_weights": " This|1 solution|0.98276 approaches|0.96552 infinity|0.94828 if|0.93103 nx|0.91379 is|0.89655 not|0.87931 an|0.86207 integer|0.84483 multiple|0.82759 of|0.81034 for|0.7931 any|0.77586 non|0.75862 zero|0.74138 value|0.72414 of|0.7069 y|0.68966 The|0.67241 Cauchy|0.65517 problem|0.63793 for|0.62069 the|0.60345 Laplace|0.58621 equation|0.56897 is|0.55172 called|0.53448 ill|0.51724 posed|0.5 or|0.48276 not|0.46552 well|0.44828 posed|0.43103 since|0.41379 the|0.39655 solution|0.37931 does|0.36207 not|0.34483 depend|0.32759 continuously|0.31034 upon|0.2931 the|0.27586 data|0.25862 of|0.24138 the|0.22414 problem|0.2069 Such|0.18966 ill|0.17241 posed|0.15517 problems|0.13793 are|0.12069 not|0.10345 usually|0.086207 satisfactory|0.068966 for|0.051724 physical|0.034483 applications|0.017241 |0",
+			"previous_weights": " where|0 n|0.041667 is|0.083333 an|0.125 integer|0.16667 The|0.20833 derivative|0.25 of|0.29167 u|0.33333 with|0.375 respect|0.41667 to|0.45833 y|0.5 approaches|0.54167 0|0.58333 uniformly|0.625 in|0.66667 x|0.70833 as|0.75 n|0.79167 increases|0.83333 but|0.875 the|0.91667 solution|0.95833 is|1"
+		}
+	}
+}

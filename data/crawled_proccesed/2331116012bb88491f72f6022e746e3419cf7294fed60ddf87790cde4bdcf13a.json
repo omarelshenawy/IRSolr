@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2331116012bb88491f72f6022e746e3419cf7294fed60ddf87790cde4bdcf13a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/timeline/e1fdc394308e08f24d7296dbcef46e54.png",
+			"previous": " Athens International Airport is the busiest airport in Greece During 2014 it was the 31st busiest airport in Europe handling traffic of approximately 15 2 million passengers 2 ",
+			"after": "  The table below shows passenger totals at Athens International Airport by country destination during 2013 50 ",
+			"color": "misty|0.22878 rose|0.22878 light|0.22878 gray|0.22878 light|0.22878 grey|0.22878 gainsboro|0.22878 red|0.16585 rosy|0.14367 brown|0.14367  ",
+			"after_weights": " |1 The|0.94118 table|0.88235 below|0.82353 shows|0.76471 passenger|0.70588 totals|0.64706 at|0.58824 Athens|0.52941 International|0.47059 Airport|0.41176 by|0.35294 country|0.29412 destination|0.23529 during|0.17647 2013|0.11765 50|0.058824 |0",
+			"previous_weights": " Athens|0 International|0.035714 Airport|0.071429 is|0.10714 the|0.14286 busiest|0.17857 airport|0.21429 in|0.25 Greece|0.28571 During|0.32143 2014|0.35714 it|0.39286 was|0.42857 the|0.46429 31st|0.5 busiest|0.53571 airport|0.57143 in|0.60714 Europe|0.64286 handling|0.67857 traffic|0.71429 of|0.75 approximately|0.78571 15|0.82143 2|0.85714 million|0.89286 passengers|0.92857 2|0.96429 |1"
+		}
+	}
+}

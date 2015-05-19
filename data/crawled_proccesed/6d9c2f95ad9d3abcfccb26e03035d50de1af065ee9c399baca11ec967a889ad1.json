@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d9c2f95ad9d3abcfccb26e03035d50de1af065ee9c399baca11ec967a889ad1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cupula_La_Prensa.JPG/150px-Cupula_La_Prensa.JPG",
+			"previous": " La Prensa is an Argentine daily newspaper ",
+			"after": " Based in Buenos Aires it was founded on 18 October 1869 by Jos C Paz La Prensa ranked among the most widely circulated dailies in Argentina in subsequent decades earning a reputation for conservatism and support for British interests in Argentina Following the election of populist leader Juan Per n La Prensa declined due to both competition from new dailies notably Clar n as well a to government pressure This latter development culminated in the paper s April 1951 seizure by the state and its sale to the CGT labor union ",
+			"color": " ",
+			"after_weights": " Based|1 in|0.98901 Buenos|0.97802 Aires|0.96703 it|0.95604 was|0.94505 founded|0.93407 on|0.92308 18|0.91209 October|0.9011 1869|0.89011 by|0.87912 Jos|0.86813 C|0.85714 Paz|0.84615 La|0.83516 Prensa|0.82418 ranked|0.81319 among|0.8022 the|0.79121 most|0.78022 widely|0.76923 circulated|0.75824 dailies|0.74725 in|0.73626 Argentina|0.72527 in|0.71429 subsequent|0.7033 decades|0.69231 earning|0.68132 a|0.67033 reputation|0.65934 for|0.64835 conservatism|0.63736 and|0.62637 support|0.61538 for|0.6044 British|0.59341 interests|0.58242 in|0.57143 Argentina|0.56044 Following|0.54945 the|0.53846 election|0.52747 of|0.51648 populist|0.50549 leader|0.49451 Juan|0.48352 Per|0.47253 n|0.46154 La|0.45055 Prensa|0.43956 declined|0.42857 due|0.41758 to|0.40659 both|0.3956 competition|0.38462 from|0.37363 new|0.36264 dailies|0.35165 notably|0.34066 Clar|0.32967 n|0.31868 as|0.30769 well|0.2967 a|0.28571 to|0.27473 government|0.26374 pressure|0.25275 This|0.24176 latter|0.23077 development|0.21978 culminated|0.20879 in|0.1978 the|0.18681 paper|0.17582 s|0.16484 April|0.15385 1951|0.14286 seizure|0.13187 by|0.12088 the|0.10989 state|0.098901 and|0.087912 its|0.076923 sale|0.065934 to|0.054945 the|0.043956 CGT|0.032967 labor|0.021978 union|0.010989 |0",
+			"previous_weights": " La|0 Prensa|0.14286 is|0.28571 an|0.42857 Argentine|0.57143 daily|0.71429 newspaper|0.85714 |1"
+		}
+	}
+}

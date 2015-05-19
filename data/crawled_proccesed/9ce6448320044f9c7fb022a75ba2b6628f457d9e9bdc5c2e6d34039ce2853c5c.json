@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ce6448320044f9c7fb022a75ba2b6628f457d9e9bdc5c2e6d34039ce2853c5c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/SWORDS_robot.jpg/150px-SWORDS_robot.jpg",
+			"previous": " ",
+			"after": " Military robots are autonomous or remote controlled devices designed for military applications Such systems are currently being researched by a number of militaries Already remarkable success has been achieved with unmanned aerial vehicles like the Predator drone which is capable of taking surveillance photographs and even accurately launching missiles at ground targets without a pilot A subclass of these are Unmanned Combat Air Vehicles which are designed to carry out strike missions in combat ",
+			"color": "black|0.55396 dim|0.16879 gray|0.16879 dim|0.16879 grey|0.16879 gray|0.060756 grey|0.060756 dark|0.049559 slate|0.049559 gray|0.049559 dark|0.038392 gray|0.038392 dark|0.038392 grey|0.038392 slate|0.037638 gray|0.037638 light|0.028557 slate|0.028557 gray|0.028557 dark|0.022722 olive|0.022722 green|0.022722 silver|0.010293  ",
+			"after_weights": " Military|1 robots|0.98649 are|0.97297 autonomous|0.95946 or|0.94595 remote|0.93243 controlled|0.91892 devices|0.90541 designed|0.89189 for|0.87838 military|0.86486 applications|0.85135 Such|0.83784 systems|0.82432 are|0.81081 currently|0.7973 being|0.78378 researched|0.77027 by|0.75676 a|0.74324 number|0.72973 of|0.71622 militaries|0.7027 Already|0.68919 remarkable|0.67568 success|0.66216 has|0.64865 been|0.63514 achieved|0.62162 with|0.60811 unmanned|0.59459 aerial|0.58108 vehicles|0.56757 like|0.55405 the|0.54054 Predator|0.52703 drone|0.51351 which|0.5 is|0.48649 capable|0.47297 of|0.45946 taking|0.44595 surveillance|0.43243 photographs|0.41892 and|0.40541 even|0.39189 accurately|0.37838 launching|0.36486 missiles|0.35135 at|0.33784 ground|0.32432 targets|0.31081 without|0.2973 a|0.28378 pilot|0.27027 A|0.25676 subclass|0.24324 of|0.22973 these|0.21622 are|0.2027 Unmanned|0.18919 Combat|0.17568 Air|0.16216 Vehicles|0.14865 which|0.13514 are|0.12162 designed|0.10811 to|0.094595 carry|0.081081 out|0.067568 strike|0.054054 missions|0.040541 in|0.027027 combat|0.013514 |0",
+			"previous_weights": " "
+		}
+	}
+}

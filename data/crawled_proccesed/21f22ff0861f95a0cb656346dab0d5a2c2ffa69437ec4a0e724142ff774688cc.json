@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "21f22ff0861f95a0cb656346dab0d5a2c2ffa69437ec4a0e724142ff774688cc",
+			"url": "https://upload.wikimedia.org/math/e/c/4/ec488a2930cb1c4977f286995bede389.png",
+			"previous": " Equivalently it is eight times the sum of all its divisors which are not divisible by 4 i e  The number of representations of a natural number n as the sum of four squares is denoted by r4 n Jacobi s four square theorem states that this is eight times the sum of the divisors of n if n is odd and 24 times the sum of the odd divisors of n if n is even see divisor function i e ",
+			"after": " We may also write this as where the second term is to be taken as zero if n is not divisible by 4 In particular for a prime number p we have the explicit formula r4 p 8 p 1 10 ",
+			"color": "dim|0.33472 gray|0.33472 dim|0.33472 grey|0.33472 gray|0.29208 grey|0.29208 dark|0.21613 gray|0.21613 dark|0.21613 grey|0.21613 silver|0.079346 light|0.035166 gray|0.035166 light|0.035166 grey|0.035166 gainsboro|0.024114 white|0.0046067 smoke|0.0046067  ",
+			"after_weights": " We|1 may|0.97561 also|0.95122 write|0.92683 this|0.90244 as|0.87805 where|0.85366 the|0.82927 second|0.80488 term|0.78049 is|0.7561 to|0.73171 be|0.70732 taken|0.68293 as|0.65854 zero|0.63415 if|0.60976 n|0.58537 is|0.56098 not|0.53659 divisible|0.5122 by|0.4878 4|0.46341 In|0.43902 particular|0.41463 for|0.39024 a|0.36585 prime|0.34146 number|0.31707 p|0.29268 we|0.26829 have|0.2439 the|0.21951 explicit|0.19512 formula|0.17073 r4|0.14634 p|0.12195 8|0.097561 p|0.073171 1|0.04878 10|0.02439 |0",
+			"previous_weights": " Equivalently|0 it|0.012195 is|0.02439 eight|0.036585 times|0.04878 the|0.060976 sum|0.073171 of|0.085366 all|0.097561 its|0.10976 divisors|0.12195 which|0.13415 are|0.14634 not|0.15854 divisible|0.17073 by|0.18293 4|0.19512 i|0.20732 e|0.21951 |0.23171 The|0.2439 number|0.2561 of|0.26829 representations|0.28049 of|0.29268 a|0.30488 natural|0.31707 number|0.32927 n|0.34146 as|0.35366 the|0.36585 sum|0.37805 of|0.39024 four|0.40244 squares|0.41463 is|0.42683 denoted|0.43902 by|0.45122 r4|0.46341 n|0.47561 Jacobi|0.4878 s|0.5 four|0.5122 square|0.52439 theorem|0.53659 states|0.54878 that|0.56098 this|0.57317 is|0.58537 eight|0.59756 times|0.60976 the|0.62195 sum|0.63415 of|0.64634 the|0.65854 divisors|0.67073 of|0.68293 n|0.69512 if|0.70732 n|0.71951 is|0.73171 odd|0.7439 and|0.7561 24|0.76829 times|0.78049 the|0.79268 sum|0.80488 of|0.81707 the|0.82927 odd|0.84146 divisors|0.85366 of|0.86585 n|0.87805 if|0.89024 n|0.90244 is|0.91463 even|0.92683 see|0.93902 divisor|0.95122 function|0.96341 i|0.97561 e|0.9878 |1"
+		}
+	}
+}

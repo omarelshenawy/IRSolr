@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4dda144002f154d11e6b542308433d8e065bd91163f8055cb15e40fac1e4504b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Old_San_Juan_Ship_Dock.JPG/225px-Old_San_Juan_Ship_Dock.JPG",
+			"previous": " ",
+			"after": " The Port of San Juan is the fourth busiest seaport in the Western Hemisphere ranked among the top 17 in the world in terms of container movement It is also the largest home based cruise port in the world with over a dozen cruise ships It is the second busiest port in cruise volume after Miami ",
+			"color": "dim|0.1779 gray|0.1779 dim|0.1779 grey|0.1779 gray|0.15592 grey|0.15592 dark|0.14237 gray|0.14237 dark|0.14237 grey|0.14237 silver|0.087479 steel|0.071564 blue|0.071564 light|0.062183 gray|0.062183 light|0.062183 grey|0.062183 gainsboro|0.047293 slate|0.041273 gray|0.041273 light|0.030662 slate|0.030662 gray|0.030662 black|0.021912 white|0.016553 smoke|0.016553 light|0.015999 steel|0.015999 blue|0.015999 alice|0.011116 blue|0.011116 sea|0.010556 shell|0.010556 snow|0.010481 ghost|0.0098419 white|0.0098419 linen|0.0095924 mint|0.0093152 cream|0.0093152 white|0.0087838 floral|0.0086237 white|0.0086237 dark|0.0081327 slate|0.0081327 gray|0.0081327 azure|0.007868 lavender|0.005659 blush|0.005659 lavender|0.0055233  ",
+			"after_weights": " The|1 Port|0.98214 of|0.96429 San|0.94643 Juan|0.92857 is|0.91071 the|0.89286 fourth|0.875 busiest|0.85714 seaport|0.83929 in|0.82143 the|0.80357 Western|0.78571 Hemisphere|0.76786 ranked|0.75 among|0.73214 the|0.71429 top|0.69643 17|0.67857 in|0.66071 the|0.64286 world|0.625 in|0.60714 terms|0.58929 of|0.57143 container|0.55357 movement|0.53571 It|0.51786 is|0.5 also|0.48214 the|0.46429 largest|0.44643 home|0.42857 based|0.41071 cruise|0.39286 port|0.375 in|0.35714 the|0.33929 world|0.32143 with|0.30357 over|0.28571 a|0.26786 dozen|0.25 cruise|0.23214 ships|0.21429 It|0.19643 is|0.17857 the|0.16071 second|0.14286 busiest|0.125 port|0.10714 in|0.089286 cruise|0.071429 volume|0.053571 after|0.035714 Miami|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

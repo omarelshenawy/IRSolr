@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "47635ba50a09cbff06f950d71297b511dc4e3c8dc30a2de4a64675fe7c90ee71",
+			"url": "https://upload.wikimedia.org/math/8/2/d/82d1695c5a590990396c60e945a4a04a.png",
+			"previous": " Algebraic number theory is a special case of group theory thereby following the rules of the latter For example Euler s product formula",
+			"after": " captures the fact that any integer decomposes in a unique way into primes The failure of this statement for more general rings gives rise to class groups and regular primes which feature in Kummer s treatment of Fermat s Last Theorem ",
+			"color": "dim|0.42257 gray|0.42257 dim|0.42257 grey|0.42257 gray|0.27292 grey|0.27292 dark|0.15251 gray|0.15251 dark|0.15251 grey|0.15251 silver|0.07152 light|0.036454 gray|0.036454 light|0.036454 grey|0.036454 gainsboro|0.026223 white|0.003817 smoke|0.003817  ",
+			"after_weights": " captures|1 the|0.97561 fact|0.95122 that|0.92683 any|0.90244 integer|0.87805 decomposes|0.85366 in|0.82927 a|0.80488 unique|0.78049 way|0.7561 into|0.73171 primes|0.70732 The|0.68293 failure|0.65854 of|0.63415 this|0.60976 statement|0.58537 for|0.56098 more|0.53659 general|0.5122 rings|0.4878 gives|0.46341 rise|0.43902 to|0.41463 class|0.39024 groups|0.36585 and|0.34146 regular|0.31707 primes|0.29268 which|0.26829 feature|0.2439 in|0.21951 Kummer|0.19512 s|0.17073 treatment|0.14634 of|0.12195 Fermat|0.097561 s|0.073171 Last|0.04878 Theorem|0.02439 |0",
+			"previous_weights": " Algebraic|0 number|0.045455 theory|0.090909 is|0.13636 a|0.18182 special|0.22727 case|0.27273 of|0.31818 group|0.36364 theory|0.40909 thereby|0.45455 following|0.5 the|0.54545 rules|0.59091 of|0.63636 the|0.68182 latter|0.72727 For|0.77273 example|0.81818 Euler|0.86364 s|0.90909 product|0.95455 formula|1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "990fb80fb5e896cadd38da916cf048cc51d4a69ea4a4e6e5e39c142bcdeb5c4d",
+			"url": "https://upload.wikimedia.org/math/5/b/a/5ba06b60191c1bacc2287502a11f5127.png",
+			"previous": " The Sk sequence is what s customarily known as the DFT of sN It is also N periodic so it is never necessary to compute more than N coefficients In terms of Sk the inverse transform is given by ",
+			"after": " When sN n is expressed as a periodic summation of another function and ",
+			"color": "dim|0.36298 gray|0.36298 dim|0.36298 grey|0.36298 gray|0.25871 grey|0.25871 dark|0.1906 gray|0.1906 dark|0.1906 grey|0.1906 silver|0.084075 light|0.040439 gray|0.040439 light|0.040439 grey|0.040439 gainsboro|0.030047 black|0.0080165 white|0.0069386 smoke|0.0069386  ",
+			"after_weights": " When|1 sN|0.92308 n|0.84615 is|0.76923 expressed|0.69231 as|0.61538 a|0.53846 periodic|0.46154 summation|0.38462 of|0.30769 another|0.23077 function|0.15385 and|0.076923 |0",
+			"previous_weights": " The|0 Sk|0.025641 sequence|0.051282 is|0.076923 what|0.10256 s|0.12821 customarily|0.15385 known|0.17949 as|0.20513 the|0.23077 DFT|0.25641 of|0.28205 sN|0.30769 It|0.33333 is|0.35897 also|0.38462 N|0.41026 periodic|0.4359 so|0.46154 it|0.48718 is|0.51282 never|0.53846 necessary|0.5641 to|0.58974 compute|0.61538 more|0.64103 than|0.66667 N|0.69231 coefficients|0.71795 In|0.74359 terms|0.76923 of|0.79487 Sk|0.82051 the|0.84615 inverse|0.87179 transform|0.89744 is|0.92308 given|0.94872 by|0.97436 |1"
+		}
+	}
+}

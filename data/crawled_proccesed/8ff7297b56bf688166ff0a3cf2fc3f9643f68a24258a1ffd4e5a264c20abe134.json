@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ff7297b56bf688166ff0a3cf2fc3f9643f68a24258a1ffd4e5a264c20abe134",
+			"url": "https://upload.wikimedia.org/math/4/1/c/41cad27978a1673152bebf8312b83074.png",
+			"previous": " Transient Force  By using the transient and viscous force equations for a cylindrical flow you can predict the transient boundary layer thickness by finding the Womersley Number ",
+			"after": " Setting them equal to each other gives  ",
+			"color": " ",
+			"after_weights": " Setting|1 them|0.875 equal|0.75 to|0.625 each|0.5 other|0.375 gives|0.25 |0.125 |0",
+			"previous_weights": " Transient|0 Force|0.035714 |0.071429 By|0.10714 using|0.14286 the|0.17857 transient|0.21429 and|0.25 viscous|0.28571 force|0.32143 equations|0.35714 for|0.39286 a|0.42857 cylindrical|0.46429 flow|0.5 you|0.53571 can|0.57143 predict|0.60714 the|0.64286 transient|0.67857 boundary|0.71429 layer|0.75 thickness|0.78571 by|0.82143 finding|0.85714 the|0.89286 Womersley|0.92857 Number|0.96429 |1"
+		}
+	}
+}

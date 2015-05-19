@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc948cb0e18b7fdf56916531e539755dc701f258017f087064723fd8e44f8bc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Venn_A_subset_B.svg/150px-Venn_A_subset_B.svg.png",
+			"previous": " Note that the expressions A B and B A are used differently by different authors some authors use them to mean the same as A B respectively B A whereas other use them to mean the same as A B respectively B A ",
+			"after": " Example ",
+			"color": "lavender|0.38323 light|0.35879 sky|0.35879 blue|0.35879 alice|0.10078 blue|0.10078 black|0.048488 ghost|0.038139 white|0.038139 light|0.030801 steel|0.030801 blue|0.030801 light|0.010013 slate|0.010013 gray|0.010013 slate|0.0094196 gray|0.0094196  ",
+			"after_weights": " Example|1 |0",
+			"previous_weights": " Note|0 that|0.023256 the|0.046512 expressions|0.069767 A|0.093023 B|0.11628 and|0.13953 B|0.16279 A|0.18605 are|0.2093 used|0.23256 differently|0.25581 by|0.27907 different|0.30233 authors|0.32558 some|0.34884 authors|0.37209 use|0.39535 them|0.4186 to|0.44186 mean|0.46512 the|0.48837 same|0.51163 as|0.53488 A|0.55814 B|0.5814 respectively|0.60465 B|0.62791 A|0.65116 whereas|0.67442 other|0.69767 use|0.72093 them|0.74419 to|0.76744 mean|0.7907 the|0.81395 same|0.83721 as|0.86047 A|0.88372 B|0.90698 respectively|0.93023 B|0.95349 A|0.97674 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "436ccafbffcb74f346413e997cb7af2a83b7498180f0aa742ef4b19e8bf3c1ca",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Harrowtennis.jpg/220px-Harrowtennis.jpg",
+			"previous": " ",
+			"after": " Harrow School is not built on a campus it is fully integrated into the surrounding area there are private houses and shops on Harrow Hill and the main road through Harrow Hill is a normal public highway and indeed a bus route Harrow School is made up of some 400 acres 160 ha of playing fields tennis courts golf course woodland and gardens ",
+			"color": "dim|0.71399 gray|0.71399 dim|0.71399 grey|0.71399 gray|0.15286 grey|0.15286 dark|0.10161 slate|0.10161 gray|0.10161 dark|0.018986 gray|0.018986 dark|0.018986 grey|0.018986  ",
+			"after_weights": " Harrow|1 School|0.98413 is|0.96825 not|0.95238 built|0.93651 on|0.92063 a|0.90476 campus|0.88889 it|0.87302 is|0.85714 fully|0.84127 integrated|0.8254 into|0.80952 the|0.79365 surrounding|0.77778 area|0.7619 there|0.74603 are|0.73016 private|0.71429 houses|0.69841 and|0.68254 shops|0.66667 on|0.65079 Harrow|0.63492 Hill|0.61905 and|0.60317 the|0.5873 main|0.57143 road|0.55556 through|0.53968 Harrow|0.52381 Hill|0.50794 is|0.49206 a|0.47619 normal|0.46032 public|0.44444 highway|0.42857 and|0.4127 indeed|0.39683 a|0.38095 bus|0.36508 route|0.34921 Harrow|0.33333 School|0.31746 is|0.30159 made|0.28571 up|0.26984 of|0.25397 some|0.2381 400|0.22222 acres|0.20635 160|0.19048 ha|0.1746 of|0.15873 playing|0.14286 fields|0.12698 tennis|0.11111 courts|0.095238 golf|0.079365 course|0.063492 woodland|0.047619 and|0.031746 gardens|0.015873 |0",
+			"previous_weights": " "
+		}
+	}
+}

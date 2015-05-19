@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d542f29315dcb9267bec7e9d15659fd3677e55a43c293d8ea8ef5eb13ae5c9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ceiling-smoke-alarm.JPG",
+			"previous": " ",
+			"after": " Nuclear technology is technology that involves the reactions of atomic nuclei Among the notable nuclear technologies are nuclear reactors nuclear medicine and nuclear weapons It is also used among other things in smoke detectors and gun sights ",
+			"color": "dark|0.69746 gray|0.69746 dark|0.69746 grey|0.69746 gray|0.16082 grey|0.16082 silver|0.11893  ",
+			"after_weights": " Nuclear|1 technology|0.97297 is|0.94595 technology|0.91892 that|0.89189 involves|0.86486 the|0.83784 reactions|0.81081 of|0.78378 atomic|0.75676 nuclei|0.72973 Among|0.7027 the|0.67568 notable|0.64865 nuclear|0.62162 technologies|0.59459 are|0.56757 nuclear|0.54054 reactors|0.51351 nuclear|0.48649 medicine|0.45946 and|0.43243 nuclear|0.40541 weapons|0.37838 It|0.35135 is|0.32432 also|0.2973 used|0.27027 among|0.24324 other|0.21622 things|0.18919 in|0.16216 smoke|0.13514 detectors|0.10811 and|0.081081 gun|0.054054 sights|0.027027 |0",
+			"previous_weights": " "
+		}
+	}
+}

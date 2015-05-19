@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "77157fa82ccfe98e9c581cd6cbad04b23e7d5180ee15b59d3a528b8427f05d81",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Aurora-SpaceShuttle-EO.jpg/220px-Aurora-SpaceShuttle-EO.jpg",
+			"previous": " ",
+			"after": " Geospace is the region of outer space near Earth Geospace includes the upper region of the atmosphere and the magnetosphere 94 The Van Allen radiation belt lies within the geospace The outer boundary of geospace is the magnetopause which forms an interface between the planet s magnetosphere and the solar wind The inner boundary is the ionosphere 97 As the physical properties and behavior of near Earth space is affected by the behavior of the Sun and space weather the field of geospace is interlinked with heliophysics the study of the Sun and its impact on the Solar System planets 98 ",
+			"color": "cadet|0.46612 blue|0.46612 light|0.13333 blue|0.13333 powder|0.11018 blue|0.11018 light|0.071642 slate|0.071642 gray|0.071642 dark|0.070044 slate|0.070044 gray|0.070044 slate|0.045737 gray|0.045737 light|0.035798 cyan|0.035798  ",
+			"after_weights": " Geospace|1 is|0.9901 the|0.9802 region|0.9703 of|0.9604 outer|0.9505 space|0.94059 near|0.93069 Earth|0.92079 Geospace|0.91089 includes|0.90099 the|0.89109 upper|0.88119 region|0.87129 of|0.86139 the|0.85149 atmosphere|0.84158 and|0.83168 the|0.82178 magnetosphere|0.81188 94|0.80198 The|0.79208 Van|0.78218 Allen|0.77228 radiation|0.76238 belt|0.75248 lies|0.74257 within|0.73267 the|0.72277 geospace|0.71287 The|0.70297 outer|0.69307 boundary|0.68317 of|0.67327 geospace|0.66337 is|0.65347 the|0.64356 magnetopause|0.63366 which|0.62376 forms|0.61386 an|0.60396 interface|0.59406 between|0.58416 the|0.57426 planet|0.56436 s|0.55446 magnetosphere|0.54455 and|0.53465 the|0.52475 solar|0.51485 wind|0.50495 The|0.49505 inner|0.48515 boundary|0.47525 is|0.46535 the|0.45545 ionosphere|0.44554 97|0.43564 As|0.42574 the|0.41584 physical|0.40594 properties|0.39604 and|0.38614 behavior|0.37624 of|0.36634 near|0.35644 Earth|0.34653 space|0.33663 is|0.32673 affected|0.31683 by|0.30693 the|0.29703 behavior|0.28713 of|0.27723 the|0.26733 Sun|0.25743 and|0.24752 space|0.23762 weather|0.22772 the|0.21782 field|0.20792 of|0.19802 geospace|0.18812 is|0.17822 interlinked|0.16832 with|0.15842 heliophysics|0.14851 the|0.13861 study|0.12871 of|0.11881 the|0.10891 Sun|0.09901 and|0.089109 its|0.079208 impact|0.069307 on|0.059406 the|0.049505 Solar|0.039604 System|0.029703 planets|0.019802 98|0.009901 |0",
+			"previous_weights": " "
+		}
+	}
+}

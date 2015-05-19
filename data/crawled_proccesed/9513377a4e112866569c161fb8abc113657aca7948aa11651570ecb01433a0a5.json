@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9513377a4e112866569c161fb8abc113657aca7948aa11651570ecb01433a0a5",
+			"url": "https://upload.wikimedia.org/math/c/1/5/c15e404af97fdf34ee20f3a225008ceb.png",
+			"previous": " If is the length of the path travelled until time the speed equals the time derivative of ",
+			"after": " In the special case where the velocity is constant that is constant speed in a straight line this can be simplified to The average speed over a finite time interval is the total distance travelled divided by the time duration ",
+			"color": "black|0.45714 dim|0.23078 gray|0.23078 dim|0.23078 grey|0.23078 gray|0.15155 grey|0.15155 dark|0.090044 gray|0.090044 dark|0.090044 grey|0.090044 silver|0.036178 light|0.016007 gray|0.016007 light|0.016007 grey|0.016007 gainsboro|0.010834  ",
+			"after_weights": " In|1 the|0.975 special|0.95 case|0.925 where|0.9 the|0.875 velocity|0.85 is|0.825 constant|0.8 that|0.775 is|0.75 constant|0.725 speed|0.7 in|0.675 a|0.65 straight|0.625 line|0.6 this|0.575 can|0.55 be|0.525 simplified|0.5 to|0.475 The|0.45 average|0.425 speed|0.4 over|0.375 a|0.35 finite|0.325 time|0.3 interval|0.275 is|0.25 the|0.225 total|0.2 distance|0.175 travelled|0.15 divided|0.125 by|0.1 the|0.075 time|0.05 duration|0.025 |0",
+			"previous_weights": " If|0 is|0.058824 the|0.11765 length|0.17647 of|0.23529 the|0.29412 path|0.35294 travelled|0.41176 until|0.47059 time|0.52941 the|0.58824 speed|0.64706 equals|0.70588 the|0.76471 time|0.82353 derivative|0.88235 of|0.94118 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "459ed26e8484042c6e9fbf7488a4531998ffcfa8a4ff8d67cb56d07e8636ed8f",
+			"url": "https://upload.wikimedia.org/math/e/f/c/efc56603079c6e880184486793806d17.png",
+			"previous": " ",
+			"after": " The Kolmogorov extension theorem guarantees the existence of a stochastic process with a given family of finite dimensional probability distributions satisfying the Chapman Kolmogorov compatibility condition ",
+			"color": "dim|0.33287 gray|0.33287 dim|0.33287 grey|0.33287 gray|0.29211 grey|0.29211 dark|0.19144 gray|0.19144 dark|0.19144 grey|0.19144 silver|0.085291 light|0.044206 gray|0.044206 light|0.044206 grey|0.044206 gainsboro|0.0311 white|0.0054111 smoke|0.0054111  ",
+			"after_weights": " The|1 Kolmogorov|0.96154 extension|0.92308 theorem|0.88462 guarantees|0.84615 the|0.80769 existence|0.76923 of|0.73077 a|0.69231 stochastic|0.65385 process|0.61538 with|0.57692 a|0.53846 given|0.5 family|0.46154 of|0.42308 finite|0.38462 dimensional|0.34615 probability|0.30769 distributions|0.26923 satisfying|0.23077 the|0.19231 Chapman|0.15385 Kolmogorov|0.11538 compatibility|0.076923 condition|0.038462 |0",
+			"previous_weights": " "
+		}
+	}
+}

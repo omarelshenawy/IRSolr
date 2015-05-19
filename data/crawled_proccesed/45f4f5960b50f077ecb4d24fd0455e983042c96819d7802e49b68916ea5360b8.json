@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45f4f5960b50f077ecb4d24fd0455e983042c96819d7802e49b68916ea5360b8",
+			"url": "https://upload.wikimedia.org/math/f/3/0/f30ce8b1fde61d2a7d48b0ede67bd6b1.png",
+			"previous": " These examples illustrate how this extension satisfies the behavior rules above  and",
+			"after": " The degree of a polynomial f can be computed by the formula This formula generalizes the concept of degree to some functions that are not polynomials For example ",
+			"color": "dim|0.39158 gray|0.39158 dim|0.39158 grey|0.39158 gray|0.28053 grey|0.28053 dark|0.17644 gray|0.17644 dark|0.17644 grey|0.17644 silver|0.074485 light|0.037421 gray|0.037421 light|0.037421 grey|0.037421 gainsboro|0.02602 white|0.0035819 smoke|0.0035819  ",
+			"after_weights": " The|1 degree|0.96429 of|0.92857 a|0.89286 polynomial|0.85714 f|0.82143 can|0.78571 be|0.75 computed|0.71429 by|0.67857 the|0.64286 formula|0.60714 This|0.57143 formula|0.53571 generalizes|0.5 the|0.46429 concept|0.42857 of|0.39286 degree|0.35714 to|0.32143 some|0.28571 functions|0.25 that|0.21429 are|0.17857 not|0.14286 polynomials|0.10714 For|0.071429 example|0.035714 |0",
+			"previous_weights": " These|0 examples|0.083333 illustrate|0.16667 how|0.25 this|0.33333 extension|0.41667 satisfies|0.5 the|0.58333 behavior|0.66667 rules|0.75 above|0.83333 |0.91667 and|1"
+		}
+	}
+}

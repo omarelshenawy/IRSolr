@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e7bedd78f8c58832919ccd7ae235e28f799d37445e9144385f1c7a965c1fe76",
+			"url": "https://upload.wikimedia.org/math/7/2/e/72ef82f70d453a492833626b086695c7.png",
+			"previous": " The treatment of turbulent boundary layers is far more difficult due to the time dependent variation of the flow properties One of the most widely used techniques in which turbulent flows are tackled is to apply Reynolds decomposition Here the instantaneous flow properties are decomposed into a mean and fluctuating component Applying this technique to the boundary layer equations gives the full turbulent boundary layer equations not often given in literature ",
+			"after": " ",
+			"color": "gray|0.30353 grey|0.30353 dim|0.281 gray|0.281 dim|0.281 grey|0.281 dark|0.23297 gray|0.23297 dark|0.23297 grey|0.23297 silver|0.095789 light|0.041893 gray|0.041893 light|0.041893 grey|0.041893 gainsboro|0.027005 white|0.0041416 smoke|0.0041416  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 treatment|0.014085 of|0.028169 turbulent|0.042254 boundary|0.056338 layers|0.070423 is|0.084507 far|0.098592 more|0.11268 difficult|0.12676 due|0.14085 to|0.15493 the|0.16901 time|0.1831 dependent|0.19718 variation|0.21127 of|0.22535 the|0.23944 flow|0.25352 properties|0.26761 One|0.28169 of|0.29577 the|0.30986 most|0.32394 widely|0.33803 used|0.35211 techniques|0.3662 in|0.38028 which|0.39437 turbulent|0.40845 flows|0.42254 are|0.43662 tackled|0.4507 is|0.46479 to|0.47887 apply|0.49296 Reynolds|0.50704 decomposition|0.52113 Here|0.53521 the|0.5493 instantaneous|0.56338 flow|0.57746 properties|0.59155 are|0.60563 decomposed|0.61972 into|0.6338 a|0.64789 mean|0.66197 and|0.67606 fluctuating|0.69014 component|0.70423 Applying|0.71831 this|0.73239 technique|0.74648 to|0.76056 the|0.77465 boundary|0.78873 layer|0.80282 equations|0.8169 gives|0.83099 the|0.84507 full|0.85915 turbulent|0.87324 boundary|0.88732 layer|0.90141 equations|0.91549 not|0.92958 often|0.94366 given|0.95775 in|0.97183 literature|0.98592 |1"
+		}
+	}
+}

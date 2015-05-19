@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "a02ad3174d8fd2c0bd6f559548ae3c9fdd61def8401140583031daddf50bd919",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Air_Cal_jet_at_John_Wayne_Airport%2C_1981.jpg/220px-Air_Cal_jet_at_John_Wayne_Airport%2C_1981.jpg",
+			"previous": " Nonstop flights reached Salt Lake City in 1976 77 Hughes DC9s Denver in 1982 Frontier MD80s Dallas Fort Worth in 1983 American MD80s Chicago in 1986 AirCal 737 300s and New York Kennedy in 1991 America West 757s ",
+			"after": " ",
+			"color": "black|0.20348 dim|0.10252 gray|0.10252 dim|0.10252 grey|0.10252 lavender|0.04212 thistle|0.036542 ghost|0.034836 white|0.034836 white|0.034579 smoke|0.034579 lavender|0.033446 blush|0.033446 snow|0.033139 alice|0.032049 blue|0.032049 white|0.031749 dark|0.030501 gray|0.030501 dark|0.030501 grey|0.030501 sea|0.030101 shell|0.030101 mint|0.027486 cream|0.027486 floral|0.027322 white|0.027322 azure|0.024857 gray|0.024465 grey|0.024465 slate|0.023273 gray|0.023273 silver|0.021  ",
+			"after_weights": " ",
+			"previous_weights": " Nonstop|0 flights|0.026316 reached|0.052632 Salt|0.078947 Lake|0.10526 City|0.13158 in|0.15789 1976|0.18421 77|0.21053 Hughes|0.23684 DC9s|0.26316 Denver|0.28947 in|0.31579 1982|0.34211 Frontier|0.36842 MD80s|0.39474 Dallas|0.42105 Fort|0.44737 Worth|0.47368 in|0.5 1983|0.52632 American|0.55263 MD80s|0.57895 Chicago|0.60526 in|0.63158 1986|0.65789 AirCal|0.68421 737|0.71053 300s|0.73684 and|0.76316 New|0.78947 York|0.81579 Kennedy|0.84211 in|0.86842 1991|0.89474 America|0.92105 West|0.94737 757s|0.97368 |1"
+		}
+	}
+}

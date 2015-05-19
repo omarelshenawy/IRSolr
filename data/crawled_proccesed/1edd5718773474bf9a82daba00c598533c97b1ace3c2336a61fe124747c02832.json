@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1edd5718773474bf9a82daba00c598533c97b1ace3c2336a61fe124747c02832",
+			"url": "https://upload.wikimedia.org/math/7/0/c/70c194064c904fb6c2222aef5498725d.png",
+			"previous": " This is a limit proof by Riemann sums Let f be Riemann integrable on the interval a b and let f admit an antiderivative F on a b Begin with the quantity F b F a Let there be numbers x1 xn such that",
+			"after": " It follows that",
+			"color": "black|0.28918 dim|0.27774 gray|0.27774 dim|0.27774 grey|0.27774 gray|0.19225 grey|0.19225 dark|0.12466 gray|0.12466 dark|0.12466 grey|0.12466 silver|0.055047 light|0.028158 gray|0.028158 light|0.028158 grey|0.028158 gainsboro|0.019774  ",
+			"after_weights": " It|1 follows|0.5 that|0",
+			"previous_weights": " This|0 is|0.023256 a|0.046512 limit|0.069767 proof|0.093023 by|0.11628 Riemann|0.13953 sums|0.16279 Let|0.18605 f|0.2093 be|0.23256 Riemann|0.25581 integrable|0.27907 on|0.30233 the|0.32558 interval|0.34884 a|0.37209 b|0.39535 and|0.4186 let|0.44186 f|0.46512 admit|0.48837 an|0.51163 antiderivative|0.53488 F|0.55814 on|0.5814 a|0.60465 b|0.62791 Begin|0.65116 with|0.67442 the|0.69767 quantity|0.72093 F|0.74419 b|0.76744 F|0.7907 a|0.81395 Let|0.83721 there|0.86047 be|0.88372 numbers|0.90698 x1|0.93023 xn|0.95349 such|0.97674 that|1"
+		}
+	}
+}

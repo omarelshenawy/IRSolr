@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3934d053e6e181bd97a40a834d02158edde8950db01864eb1b63ba999e0cf1cd",
+			"url": "https://upload.wikimedia.org/math/1/0/8/1083ad697582b931dee0d187f94139cf.png",
+			"previous": " Recalling",
+			"after": " we see that the stopping voltage varies linearly with frequency of light but depends on the type of material For any particular material there is a threshold frequency that must be exceeded independent of light intensity to observe any electron emission ",
+			"color": "dim|0.40063 gray|0.40063 dim|0.40063 grey|0.40063 gray|0.25192 grey|0.25192 dark|0.15693 gray|0.15693 dark|0.15693 grey|0.15693 silver|0.067625 black|0.051596 light|0.033819 gray|0.033819 light|0.033819 grey|0.033819 gainsboro|0.02362 white|0.0036479 smoke|0.0036479  ",
+			"after_weights": " we|1 see|0.97561 that|0.95122 the|0.92683 stopping|0.90244 voltage|0.87805 varies|0.85366 linearly|0.82927 with|0.80488 frequency|0.78049 of|0.7561 light|0.73171 but|0.70732 depends|0.68293 on|0.65854 the|0.63415 type|0.60976 of|0.58537 material|0.56098 For|0.53659 any|0.5122 particular|0.4878 material|0.46341 there|0.43902 is|0.41463 a|0.39024 threshold|0.36585 frequency|0.34146 that|0.31707 must|0.29268 be|0.26829 exceeded|0.2439 independent|0.21951 of|0.19512 light|0.17073 intensity|0.14634 to|0.12195 observe|0.097561 any|0.073171 electron|0.04878 emission|0.02439 |0",
+			"previous_weights": " Recalling|1"
+		}
+	}
+}

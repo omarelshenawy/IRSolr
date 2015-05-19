@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "144c831b99469c83c2be94f26ff36b2342dbbb74ccb920ea29cedbb2dfe6f6f2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HIV_protease_with_bound_ritonavir.png/300px-HIV_protease_with_bound_ritonavir.png",
+			"previous": " ",
+			"after": " An enzyme inhibitor is a molecule that binds to an enzyme and decreases its activity Since blocking an enzyme s activity can kill a pathogen or correct a metabolic imbalance many drugs are enzyme inhibitors They are also used in pesticides Not all molecules that bind to enzymes are inhibitors enzyme activators bind to enzymes and increase their enzymatic activity while enzyme substrates bind and are converted to products in the normal catalytic cycle of the enzyme ",
+			"color": "red|0.4281 firebrick|0.1039 yellow|0.092249 blue|0.088681 medium|0.063602 blue|0.063602 black|0.058276 brown|0.033654 midnight|0.023269 blue|0.023269 dark|0.011712 blue|0.011712  ",
+			"after_weights": " An|1 enzyme|0.98701 inhibitor|0.97403 is|0.96104 a|0.94805 molecule|0.93506 that|0.92208 binds|0.90909 to|0.8961 an|0.88312 enzyme|0.87013 and|0.85714 decreases|0.84416 its|0.83117 activity|0.81818 Since|0.80519 blocking|0.79221 an|0.77922 enzyme|0.76623 s|0.75325 activity|0.74026 can|0.72727 kill|0.71429 a|0.7013 pathogen|0.68831 or|0.67532 correct|0.66234 a|0.64935 metabolic|0.63636 imbalance|0.62338 many|0.61039 drugs|0.5974 are|0.58442 enzyme|0.57143 inhibitors|0.55844 They|0.54545 are|0.53247 also|0.51948 used|0.50649 in|0.49351 pesticides|0.48052 Not|0.46753 all|0.45455 molecules|0.44156 that|0.42857 bind|0.41558 to|0.4026 enzymes|0.38961 are|0.37662 inhibitors|0.36364 enzyme|0.35065 activators|0.33766 bind|0.32468 to|0.31169 enzymes|0.2987 and|0.28571 increase|0.27273 their|0.25974 enzymatic|0.24675 activity|0.23377 while|0.22078 enzyme|0.20779 substrates|0.19481 bind|0.18182 and|0.16883 are|0.15584 converted|0.14286 to|0.12987 products|0.11688 in|0.1039 the|0.090909 normal|0.077922 catalytic|0.064935 cycle|0.051948 of|0.038961 the|0.025974 enzyme|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

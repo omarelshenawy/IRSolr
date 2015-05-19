@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8aceb926515575894a3eb4f9c08b0be5598a3d792e20944c2ef0251a4c6d784c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/B-1_Lancer_bomb_bay.jpg/220px-B-1_Lancer_bomb_bay.jpg",
+			"previous": " Ten B 1s have been lost due to accidents Between 1984 and 2001 17 crew members and people on board have been killed in B 1 accidents 156 ",
+			"after": " Data from USAF Fact Sheet 88 Jenkins 174 Pace 61 Lee 82 except where noted General characteristics Performance Armament Avionics",
+			"color": "light|0.2632 gray|0.2632 light|0.2632 grey|0.2632 silver|0.19802 gainsboro|0.17517 dark|0.10005 gray|0.10005 dark|0.10005 grey|0.10005 linen|0.061833 dim|0.032134 gray|0.032134 dim|0.032134 grey|0.032134 gray|0.031477 grey|0.031477 antique|0.024692 white|0.024692 black|0.020485 white|0.01875 smoke|0.01875 sea|0.013103 shell|0.013103 old|0.0090584 lace|0.0090584  ",
+			"after_weights": " Data|1 from|0.94737 USAF|0.89474 Fact|0.84211 Sheet|0.78947 88|0.73684 Jenkins|0.68421 174|0.63158 Pace|0.57895 61|0.52632 Lee|0.47368 82|0.42105 except|0.36842 where|0.31579 noted|0.26316 General|0.21053 characteristics|0.15789 Performance|0.10526 Armament|0.052632 Avionics|0",
+			"previous_weights": " Ten|0 B|0.035714 1s|0.071429 have|0.10714 been|0.14286 lost|0.17857 due|0.21429 to|0.25 accidents|0.28571 Between|0.32143 1984|0.35714 and|0.39286 2001|0.42857 17|0.46429 crew|0.5 members|0.53571 and|0.57143 people|0.60714 on|0.64286 board|0.67857 have|0.71429 been|0.75 killed|0.78571 in|0.82143 B|0.85714 1|0.89286 accidents|0.92857 156|0.96429 |1"
+		}
+	}
+}

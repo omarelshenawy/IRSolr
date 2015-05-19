@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b4de3a491b7046e90d9fb5e727823394f6a82123224ba86768dcce74f4f7de6",
+			"url": "https://upload.wikimedia.org/math/e/0/c/e0c4733271705400010320af9e00d6d9.png",
+			"previous": " The rate of energy production per unit surface area is given by",
+			"after": " where is the heat engine efficiency and is the total rate of heat input into the system per unit surface area Given that a tropical cyclone may be idealized as a Carnot heat engine the Carnot heat engine efficiency is given by",
+			"color": " ",
+			"after_weights": " where|1 is|0.97561 the|0.95122 heat|0.92683 engine|0.90244 efficiency|0.87805 and|0.85366 is|0.82927 the|0.80488 total|0.78049 rate|0.7561 of|0.73171 heat|0.70732 input|0.68293 into|0.65854 the|0.63415 system|0.60976 per|0.58537 unit|0.56098 surface|0.53659 area|0.5122 Given|0.4878 that|0.46341 a|0.43902 tropical|0.41463 cyclone|0.39024 may|0.36585 be|0.34146 idealized|0.31707 as|0.29268 a|0.26829 Carnot|0.2439 heat|0.21951 engine|0.19512 the|0.17073 Carnot|0.14634 heat|0.12195 engine|0.097561 efficiency|0.073171 is|0.04878 given|0.02439 by|0",
+			"previous_weights": " The|0 rate|0.090909 of|0.18182 energy|0.27273 production|0.36364 per|0.45455 unit|0.54545 surface|0.63636 area|0.72727 is|0.81818 given|0.90909 by|1"
+		}
+	}
+}

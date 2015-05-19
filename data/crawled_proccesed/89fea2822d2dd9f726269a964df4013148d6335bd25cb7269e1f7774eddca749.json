@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "89fea2822d2dd9f726269a964df4013148d6335bd25cb7269e1f7774eddca749",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Billbongo.jpg/300px-Billbongo.jpg",
+			"previous": " ",
+			"after": " The fans of the Grateful Dead some of whom followed the band from concert to concert for years are known as Deadheads and are known for their dedication to the band s music Many referred to the band simply as the Dead ",
+			"color": "dark|0.23581 gray|0.23581 dark|0.23581 grey|0.23581 silver|0.22167 gray|0.13359 grey|0.13359 dim|0.098439 gray|0.098439 dim|0.098439 grey|0.098439 black|0.082608 light|0.066977 gray|0.066977 light|0.066977 grey|0.066977 rosy|0.059176 brown|0.059176 gainsboro|0.028745 misty|0.016469 rose|0.016469 slate|0.012548 gray|0.012548  ",
+			"after_weights": " The|1 fans|0.97619 of|0.95238 the|0.92857 Grateful|0.90476 Dead|0.88095 some|0.85714 of|0.83333 whom|0.80952 followed|0.78571 the|0.7619 band|0.7381 from|0.71429 concert|0.69048 to|0.66667 concert|0.64286 for|0.61905 years|0.59524 are|0.57143 known|0.54762 as|0.52381 Deadheads|0.5 and|0.47619 are|0.45238 known|0.42857 for|0.40476 their|0.38095 dedication|0.35714 to|0.33333 the|0.30952 band|0.28571 s|0.2619 music|0.2381 Many|0.21429 referred|0.19048 to|0.16667 the|0.14286 band|0.11905 simply|0.095238 as|0.071429 the|0.047619 Dead|0.02381 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "84bd35834ddc2371a9e64fc23807561ba6dc2385a730bd58b2f012ea308f74b0",
+			"url": "https://upload.wikimedia.org/math/5/a/6/5a641bed6aa70f2806aa5ac61389ae76.png",
+			"previous": " A relatively simple PDE is",
+			"after": " This relation implies that the function u x y is independent of x However the equation gives no information on the function s dependence on the variable y Hence the general solution of this equation is",
+			"color": "gray|0.31871 grey|0.31871 dim|0.29834 gray|0.29834 dim|0.29834 grey|0.29834 dark|0.20408 gray|0.20408 dark|0.20408 grey|0.20408 silver|0.088404 light|0.042246 gray|0.042246 light|0.042246 grey|0.042246 gainsboro|0.029239 white|0.0048748 smoke|0.0048748  ",
+			"after_weights": " This|1 relation|0.97143 implies|0.94286 that|0.91429 the|0.88571 function|0.85714 u|0.82857 x|0.8 y|0.77143 is|0.74286 independent|0.71429 of|0.68571 x|0.65714 However|0.62857 the|0.6 equation|0.57143 gives|0.54286 no|0.51429 information|0.48571 on|0.45714 the|0.42857 function|0.4 s|0.37143 dependence|0.34286 on|0.31429 the|0.28571 variable|0.25714 y|0.22857 Hence|0.2 the|0.17143 general|0.14286 solution|0.11429 of|0.085714 this|0.057143 equation|0.028571 is|0",
+			"previous_weights": " A|0 relatively|0.25 simple|0.5 PDE|0.75 is|1"
+		}
+	}
+}

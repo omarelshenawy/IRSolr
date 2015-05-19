@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "40d7ebe7d84868f7baaf0df6ca2a052065afb8a7f92d05457e57391acbe10296",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Portland_Basin.jpg/220px-Portland_Basin.jpg",
+			"previous": " ",
+			"after": " The M60 motorway cuts through the west end of Ashton Junction 23 Regular rail services on the Huddersfield Line between Manchester Victoria and Huddersfield stop at Ashton under Lyne railway station in the town centre ",
+			"color": "black|0.1004 dim|0.079191 gray|0.079191 dim|0.079191 grey|0.079191 dark|0.077018 gray|0.077018 dark|0.077018 grey|0.077018 gray|0.071176 grey|0.071176 dark|0.067607 salmon|0.067607 light|0.066696 steel|0.066696 blue|0.066696 silver|0.06072 sienna|0.052878 light|0.042852 gray|0.042852 light|0.042852 grey|0.042852 tan|0.039812 slate|0.029236 gray|0.029236 gainsboro|0.028256 light|0.02751 slate|0.02751 gray|0.02751 rosy|0.025971 brown|0.025971 lavender|0.017227 dark|0.015562 slate|0.015562 gray|0.015562  ",
+			"after_weights": " The|1 M60|0.97143 motorway|0.94286 cuts|0.91429 through|0.88571 the|0.85714 west|0.82857 end|0.8 of|0.77143 Ashton|0.74286 Junction|0.71429 23|0.68571 Regular|0.65714 rail|0.62857 services|0.6 on|0.57143 the|0.54286 Huddersfield|0.51429 Line|0.48571 between|0.45714 Manchester|0.42857 Victoria|0.4 and|0.37143 Huddersfield|0.34286 stop|0.31429 at|0.28571 Ashton|0.25714 under|0.22857 Lyne|0.2 railway|0.17143 station|0.14286 in|0.11429 the|0.085714 town|0.057143 centre|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

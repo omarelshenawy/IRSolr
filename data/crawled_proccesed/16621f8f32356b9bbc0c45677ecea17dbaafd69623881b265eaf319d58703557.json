@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "16621f8f32356b9bbc0c45677ecea17dbaafd69623881b265eaf319d58703557",
+			"url": "https://upload.wikimedia.org/math/3/5/3/353a81d04057aa03ef9644200abc1501.png",
+			"previous": " A bounded lattice is an algebraic structure of the form L 1 0 such that L is a lattice 0 the lattice s bottom is the identity element for the join operation and 1 the lattice s top is the identity element for the meet operation ",
+			"after": " See semilattice for further details ",
+			"color": "black|0.36112 dim|0.26452 gray|0.26452 dim|0.26452 grey|0.26452 gray|0.18028 grey|0.18028 dark|0.11091 gray|0.11091 dark|0.11091 grey|0.11091 silver|0.044117 light|0.01971 gray|0.01971 light|0.01971 grey|0.01971 gainsboro|0.012513  ",
+			"after_weights": " See|1 semilattice|0.8 for|0.6 further|0.4 details|0.2 |0",
+			"previous_weights": " A|0 bounded|0.021739 lattice|0.043478 is|0.065217 an|0.086957 algebraic|0.1087 structure|0.13043 of|0.15217 the|0.17391 form|0.19565 L|0.21739 1|0.23913 0|0.26087 such|0.28261 that|0.30435 L|0.32609 is|0.34783 a|0.36957 lattice|0.3913 0|0.41304 the|0.43478 lattice|0.45652 s|0.47826 bottom|0.5 is|0.52174 the|0.54348 identity|0.56522 element|0.58696 for|0.6087 the|0.63043 join|0.65217 operation|0.67391 and|0.69565 1|0.71739 the|0.73913 lattice|0.76087 s|0.78261 top|0.80435 is|0.82609 the|0.84783 identity|0.86957 element|0.8913 for|0.91304 the|0.93478 meet|0.95652 operation|0.97826 |1"
+		}
+	}
+}

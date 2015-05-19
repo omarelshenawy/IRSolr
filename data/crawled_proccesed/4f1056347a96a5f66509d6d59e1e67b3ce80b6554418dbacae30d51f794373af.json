@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f1056347a96a5f66509d6d59e1e67b3ce80b6554418dbacae30d51f794373af",
+			"url": "https://upload.wikimedia.org/math/5/a/4/5a4674cbe97d470e80efba14825cd62b.png",
+			"previous": " Thus the total rate of net energy production per unit surface area is given by",
+			"after": " Setting and taking i e the rotational wind speed is dominant leads to the solution for given above This derivation assumes that total energy input and loss within the system can be approximated by their values at the radius of maximum wind The inclusion of acts to multiply the total heat input rate by the factor Mathematically this has the effect of replacing with in the denominator of the Carnot efficiency ",
+			"color": "dim|0.34423 gray|0.34423 dim|0.34423 grey|0.34423 gray|0.27518 grey|0.27518 dark|0.18248 gray|0.18248 dark|0.18248 grey|0.18248 silver|0.096211 light|0.051119 gray|0.051119 light|0.051119 grey|0.051119 gainsboro|0.033919 white|0.0038513 smoke|0.0038513  ",
+			"after_weights": " Setting|1 and|0.98592 taking|0.97183 i|0.95775 e|0.94366 the|0.92958 rotational|0.91549 wind|0.90141 speed|0.88732 is|0.87324 dominant|0.85915 leads|0.84507 to|0.83099 the|0.8169 solution|0.80282 for|0.78873 given|0.77465 above|0.76056 This|0.74648 derivation|0.73239 assumes|0.71831 that|0.70423 total|0.69014 energy|0.67606 input|0.66197 and|0.64789 loss|0.6338 within|0.61972 the|0.60563 system|0.59155 can|0.57746 be|0.56338 approximated|0.5493 by|0.53521 their|0.52113 values|0.50704 at|0.49296 the|0.47887 radius|0.46479 of|0.4507 maximum|0.43662 wind|0.42254 The|0.40845 inclusion|0.39437 of|0.38028 acts|0.3662 to|0.35211 multiply|0.33803 the|0.32394 total|0.30986 heat|0.29577 input|0.28169 rate|0.26761 by|0.25352 the|0.23944 factor|0.22535 Mathematically|0.21127 this|0.19718 has|0.1831 the|0.16901 effect|0.15493 of|0.14085 replacing|0.12676 with|0.11268 in|0.098592 the|0.084507 denominator|0.070423 of|0.056338 the|0.042254 Carnot|0.028169 efficiency|0.014085 |0",
+			"previous_weights": " Thus|0 the|0.071429 total|0.14286 rate|0.21429 of|0.28571 net|0.35714 energy|0.42857 production|0.5 per|0.57143 unit|0.64286 surface|0.71429 area|0.78571 is|0.85714 given|0.92857 by|1"
+		}
+	}
+}

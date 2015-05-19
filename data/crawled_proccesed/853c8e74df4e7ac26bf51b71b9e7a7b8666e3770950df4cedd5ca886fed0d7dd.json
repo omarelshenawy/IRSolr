@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "853c8e74df4e7ac26bf51b71b9e7a7b8666e3770950df4cedd5ca886fed0d7dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Viscount1_wcam.jpg/220px-Viscount1_wcam.jpg",
+			"previous": " See List of accidents and incidents involving the Vickers Viscount  It is believed that the last Viscounts flew commercial flights in 2007 2008 72 73 ",
+			"after": " Data from British Civil Aircraft since 1919 77  General characteristics Performance",
+			"color": "dark|0.17847 slate|0.17847 gray|0.17847 dim|0.16963 gray|0.16963 dim|0.16963 grey|0.16963 rosy|0.10494 brown|0.10494 pale|0.092392 golden|0.092392 rod|0.092392 dark|0.056244 khaki|0.056244 black|0.042183 steel|0.040933 blue|0.040933 dark|0.040091 gray|0.040091 dark|0.040091 grey|0.040091 thistle|0.03418 gray|0.032644 grey|0.032644 wheat|0.031891 tan|0.028773 deep|0.027601 sky|0.027601 blue|0.027601 silver|0.018757 light|0.012533 slate|0.012533 gray|0.012533 slate|0.011865 gray|0.011865 cadet|0.011605 blue|0.011605  ",
+			"after_weights": " Data|1 from|0.90909 British|0.81818 Civil|0.72727 Aircraft|0.63636 since|0.54545 1919|0.45455 77|0.36364 |0.27273 General|0.18182 characteristics|0.090909 Performance|0",
+			"previous_weights": " See|0 List|0.038462 of|0.076923 accidents|0.11538 and|0.15385 incidents|0.19231 involving|0.23077 the|0.26923 Vickers|0.30769 Viscount|0.34615 |0.38462 It|0.42308 is|0.46154 believed|0.5 that|0.53846 the|0.57692 last|0.61538 Viscounts|0.65385 flew|0.69231 commercial|0.73077 flights|0.76923 in|0.80769 2007|0.84615 2008|0.88462 72|0.92308 73|0.96154 |1"
+		}
+	}
+}

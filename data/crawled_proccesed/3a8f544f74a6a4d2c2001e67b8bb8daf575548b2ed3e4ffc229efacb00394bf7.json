@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a8f544f74a6a4d2c2001e67b8bb8daf575548b2ed3e4ffc229efacb00394bf7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/One_Commerce_Square_Memphis.jpg/220px-One_Commerce_Square_Memphis.jpg",
+			"previous": " ",
+			"after": " Southern Airways Express is a commuter airline operating in the United States headquartered in One Commerce Square in Downtown Memphis Tennessee 1 The airline was founded in 2013 with its first passenger flight operating on June 6 2013 from Memphis to Destin 2 ",
+			"color": "gray|0.41614 grey|0.41614 dim|0.35516 gray|0.35516 dim|0.35516 grey|0.35516 dark|0.19962 gray|0.19962 dark|0.19962 grey|0.19962 black|0.017733  ",
+			"after_weights": " Southern|1 Airways|0.97674 Express|0.95349 is|0.93023 a|0.90698 commuter|0.88372 airline|0.86047 operating|0.83721 in|0.81395 the|0.7907 United|0.76744 States|0.74419 headquartered|0.72093 in|0.69767 One|0.67442 Commerce|0.65116 Square|0.62791 in|0.60465 Downtown|0.5814 Memphis|0.55814 Tennessee|0.53488 1|0.51163 The|0.48837 airline|0.46512 was|0.44186 founded|0.4186 in|0.39535 2013|0.37209 with|0.34884 its|0.32558 first|0.30233 passenger|0.27907 flight|0.25581 operating|0.23256 on|0.2093 June|0.18605 6|0.16279 2013|0.13953 from|0.11628 Memphis|0.093023 to|0.069767 Destin|0.046512 2|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

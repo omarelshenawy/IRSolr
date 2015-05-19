@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a1c522f348c25bad5d258c151a0f6b485c87183288ff963ee2b021df9375c89",
+			"url": "https://upload.wikimedia.org/math/9/d/b/9db15400f728ba4e1c860dd2f212b8c6.png",
+			"previous": " We can define the length of a vector v in V by",
+			"after": " and we can prove the Cauchy Schwarz inequality  In particular the quantity and so we can call this quantity the cosine of the angle between the two vectors ",
+			"color": "black|0.31606 dim|0.22688 gray|0.22688 dim|0.22688 grey|0.22688 gray|0.19923 grey|0.19923 dark|0.15878 gray|0.15878 dark|0.15878 grey|0.15878 silver|0.068203 light|0.015615 gray|0.015615 light|0.015615 grey|0.015615 gainsboro|0.0099025  ",
+			"after_weights": " and|1 we|0.96552 can|0.93103 prove|0.89655 the|0.86207 Cauchy|0.82759 Schwarz|0.7931 inequality|0.75862 |0.72414 In|0.68966 particular|0.65517 the|0.62069 quantity|0.58621 and|0.55172 so|0.51724 we|0.48276 can|0.44828 call|0.41379 this|0.37931 quantity|0.34483 the|0.31034 cosine|0.27586 of|0.24138 the|0.2069 angle|0.17241 between|0.13793 the|0.10345 two|0.068966 vectors|0.034483 |0",
+			"previous_weights": " We|0 can|0.090909 define|0.18182 the|0.27273 length|0.36364 of|0.45455 a|0.54545 vector|0.63636 v|0.72727 in|0.81818 V|0.90909 by|1"
+		}
+	}
+}

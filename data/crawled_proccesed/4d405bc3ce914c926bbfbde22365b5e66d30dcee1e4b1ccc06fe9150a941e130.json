@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d405bc3ce914c926bbfbde22365b5e66d30dcee1e4b1ccc06fe9150a941e130",
+			"url": "https://upload.wikimedia.org/math/6/9/7/697f0599cb82536d2b7786764192f456.png",
+			"previous": " where ",
+			"after": " In propulsion power is only delivered if the powerplant is in motion and is transmitted to cause the body to be in motion It is typically assumed here that mechanical transmission allows the powerplant to operate at peak output power This assumption allows engine tuning to trade power band width and engine mass for transmission complexity and mass Electric motors do not suffer from this tradeoff instead trading their high torque for traction at low speed The power advantage or power to weight ratio is then",
+			"color": "gray|0.3147 grey|0.3147 dark|0.23462 gray|0.23462 dark|0.23462 grey|0.23462 dim|0.22252 gray|0.22252 dim|0.22252 grey|0.22252 silver|0.10109 light|0.051186 gray|0.051186 light|0.051186 grey|0.051186 gainsboro|0.037658 white|0.0090808 smoke|0.0090808 linen|0.0045494 lavender|0.0042077 blush|0.0042077 alice|0.0040368 blue|0.0040368 ghost|0.0038469 white|0.0038469 sea|0.0037384 shell|0.0037384 snow|0.0036316 white|0.0026296  ",
+			"after_weights": " In|1 propulsion|0.98824 power|0.97647 is|0.96471 only|0.95294 delivered|0.94118 if|0.92941 the|0.91765 powerplant|0.90588 is|0.89412 in|0.88235 motion|0.87059 and|0.85882 is|0.84706 transmitted|0.83529 to|0.82353 cause|0.81176 the|0.8 body|0.78824 to|0.77647 be|0.76471 in|0.75294 motion|0.74118 It|0.72941 is|0.71765 typically|0.70588 assumed|0.69412 here|0.68235 that|0.67059 mechanical|0.65882 transmission|0.64706 allows|0.63529 the|0.62353 powerplant|0.61176 to|0.6 operate|0.58824 at|0.57647 peak|0.56471 output|0.55294 power|0.54118 This|0.52941 assumption|0.51765 allows|0.50588 engine|0.49412 tuning|0.48235 to|0.47059 trade|0.45882 power|0.44706 band|0.43529 width|0.42353 and|0.41176 engine|0.4 mass|0.38824 for|0.37647 transmission|0.36471 complexity|0.35294 and|0.34118 mass|0.32941 Electric|0.31765 motors|0.30588 do|0.29412 not|0.28235 suffer|0.27059 from|0.25882 this|0.24706 tradeoff|0.23529 instead|0.22353 trading|0.21176 their|0.2 high|0.18824 torque|0.17647 for|0.16471 traction|0.15294 at|0.14118 low|0.12941 speed|0.11765 The|0.10588 power|0.094118 advantage|0.082353 or|0.070588 power|0.058824 to|0.047059 weight|0.035294 ratio|0.023529 is|0.011765 then|0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

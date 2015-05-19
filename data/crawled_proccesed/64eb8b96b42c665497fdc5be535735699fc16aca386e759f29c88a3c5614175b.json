@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "64eb8b96b42c665497fdc5be535735699fc16aca386e759f29c88a3c5614175b",
+			"url": "https://upload.wikimedia.org/math/1/2/6/1263365edef5016182d98a8d93957814.png",
+			"previous": " where the wave vectors are related to the energy via",
+			"after": " with coefficients A and B determined from the boundary conditions and by imposing a continuous derivative on the solution  Each term of the solution can be interpreted as an incident reflected or transmitted component of the wave allowing the calculation of transmission and reflection coefficients Notably in contrast to classical mechanics incident particles with energies greater than the potential step are partially reflected ",
+			"color": "white|0.099879 snow|0.099068 mint|0.097659 cream|0.097659 white|0.095927 smoke|0.095927 ghost|0.095798 white|0.095798 azure|0.094195 alice|0.092882 blue|0.092882 floral|0.092074 white|0.092074 sea|0.092035 shell|0.092035 lavender|0.083582 blush|0.083582 light|0.013751 gray|0.013751 light|0.013751 grey|0.013751 gainsboro|0.013036 silver|0.012605 ivory|0.0084408 dark|0.0057488 gray|0.0057488 dark|0.0057488 grey|0.0057488 linen|0.0032153  ",
+			"after_weights": " with|1 coefficients|0.98438 A|0.96875 and|0.95312 B|0.9375 determined|0.92188 from|0.90625 the|0.89062 boundary|0.875 conditions|0.85938 and|0.84375 by|0.82812 imposing|0.8125 a|0.79688 continuous|0.78125 derivative|0.76562 on|0.75 the|0.73438 solution|0.71875 |0.70312 Each|0.6875 term|0.67188 of|0.65625 the|0.64062 solution|0.625 can|0.60938 be|0.59375 interpreted|0.57812 as|0.5625 an|0.54688 incident|0.53125 reflected|0.51562 or|0.5 transmitted|0.48438 component|0.46875 of|0.45312 the|0.4375 wave|0.42188 allowing|0.40625 the|0.39062 calculation|0.375 of|0.35938 transmission|0.34375 and|0.32812 reflection|0.3125 coefficients|0.29688 Notably|0.28125 in|0.26562 contrast|0.25 to|0.23438 classical|0.21875 mechanics|0.20312 incident|0.1875 particles|0.17188 with|0.15625 energies|0.14062 greater|0.125 than|0.10938 the|0.09375 potential|0.078125 step|0.0625 are|0.046875 partially|0.03125 reflected|0.015625 |0",
+			"previous_weights": " where|0 the|0.11111 wave|0.22222 vectors|0.33333 are|0.44444 related|0.55556 to|0.66667 the|0.77778 energy|0.88889 via|1"
+		}
+	}
+}

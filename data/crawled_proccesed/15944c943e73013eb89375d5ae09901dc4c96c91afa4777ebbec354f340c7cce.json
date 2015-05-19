@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15944c943e73013eb89375d5ae09901dc4c96c91afa4777ebbec354f340c7cce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/FTC_geometric2.png/500px-FTC_geometric2.png",
+			"previous": " ",
+			"after": " For a continuous function y f x whose graph is plotted as a curve each value of x has a corresponding area function A x representing the area beneath the curve between 0 and x The function A x may not be known but it is given that it represents the area under the curve ",
+			"color": "lavender|0.12763 slate|0.09476 blue|0.09476 ghost|0.075289 white|0.075289 alice|0.073255 blue|0.073255 white|0.068225 smoke|0.068225 snow|0.064246 white|0.061782 sea|0.057219 shell|0.057219 azure|0.056932 mint|0.055593 cream|0.055593 floral|0.052106 white|0.052106 lavender|0.044718 blush|0.044718 light|0.032352 steel|0.032352 blue|0.032352 ivory|0.026792 indian|0.02243 red|0.02243 gainsboro|0.016174 dim|0.012255 gray|0.012255 dim|0.012255 grey|0.012255 misty|0.011606 rose|0.011606 dark|0.008031 gray|0.008031 dark|0.008031 grey|0.008031 blue|0.0073736 gray|0.0054988 grey|0.0054988 black|0.0043899 linen|0.004332  ",
+			"after_weights": " For|1 a|0.98182 continuous|0.96364 function|0.94545 y|0.92727 f|0.90909 x|0.89091 whose|0.87273 graph|0.85455 is|0.83636 plotted|0.81818 as|0.8 a|0.78182 curve|0.76364 each|0.74545 value|0.72727 of|0.70909 x|0.69091 has|0.67273 a|0.65455 corresponding|0.63636 area|0.61818 function|0.6 A|0.58182 x|0.56364 representing|0.54545 the|0.52727 area|0.50909 beneath|0.49091 the|0.47273 curve|0.45455 between|0.43636 0|0.41818 and|0.4 x|0.38182 The|0.36364 function|0.34545 A|0.32727 x|0.30909 may|0.29091 not|0.27273 be|0.25455 known|0.23636 but|0.21818 it|0.2 is|0.18182 given|0.16364 that|0.14545 it|0.12727 represents|0.10909 the|0.090909 area|0.072727 under|0.054545 the|0.036364 curve|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

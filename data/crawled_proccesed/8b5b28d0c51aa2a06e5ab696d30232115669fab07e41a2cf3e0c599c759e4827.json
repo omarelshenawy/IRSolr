@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b5b28d0c51aa2a06e5ab696d30232115669fab07e41a2cf3e0c599c759e4827",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Isaias_Afwerki_in_2002.jpg/120px-Isaias_Afwerki_in_2002.jpg",
+			"previous": " edit",
+			"after": " Isaias Afwerki Tigrinya is the first and current President of Eritrea attaining that status after Eritrean independence from Ethiopia in 1993 Prior to that he was the leader of the Eritrean People s Liberation Front an armed movement determined to secure Eritrean independence ",
+			"color": "dark|0.68157 slate|0.68157 gray|0.68157 dark|0.11052 gray|0.11052 dark|0.11052 grey|0.11052 silver|0.092869 light|0.032678 gray|0.032678 light|0.032678 grey|0.032678 gray|0.021919 grey|0.021919 dim|0.01813 gray|0.01813 dim|0.01813 grey|0.01813 black|0.0097978 gainsboro|0.0080792 light|0.0075263 slate|0.0075263 gray|0.0075263 slate|0.0065946 gray|0.0065946  ",
+			"after_weights": " Isaias|1 Afwerki|0.97674 Tigrinya|0.95349 is|0.93023 the|0.90698 first|0.88372 and|0.86047 current|0.83721 President|0.81395 of|0.7907 Eritrea|0.76744 attaining|0.74419 that|0.72093 status|0.69767 after|0.67442 Eritrean|0.65116 independence|0.62791 from|0.60465 Ethiopia|0.5814 in|0.55814 1993|0.53488 Prior|0.51163 to|0.48837 that|0.46512 he|0.44186 was|0.4186 the|0.39535 leader|0.37209 of|0.34884 the|0.32558 Eritrean|0.30233 People|0.27907 s|0.25581 Liberation|0.23256 Front|0.2093 an|0.18605 armed|0.16279 movement|0.13953 determined|0.11628 to|0.093023 secure|0.069767 Eritrean|0.046512 independence|0.023256 |0",
+			"previous_weights": " edit|1"
+		}
+	}
+}

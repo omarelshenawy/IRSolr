@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6df40a6669c17fc29af917c54f71a55ca37664e0f47b7dac7a3c2d22549bf465",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Saint_Chely_Tarn.jpg/800px-Saint_Chely_Tarn.jpg",
+			"previous": " ",
+			"after": " View over the cirque of Pougnadoire and Saint Ch ly du Tarn village in the Tarn Gorges from the cirque of Saint Ch ly This picture features the road D 907bis which goes alongside the Tarn river all along the gorges Credit Benh ",
+			"color": "dim|0.26477 gray|0.26477 dim|0.26477 grey|0.26477 dark|0.25645 olive|0.25645 green|0.25645 gray|0.14948 grey|0.14948 dark|0.076791 slate|0.076791 gray|0.076791 dark|0.071552 gray|0.071552 dark|0.071552 grey|0.071552 tan|0.06128 dark|0.032784 khaki|0.032784 slate|0.022977 gray|0.022977  ",
+			"after_weights": " View|1 over|0.97674 the|0.95349 cirque|0.93023 of|0.90698 Pougnadoire|0.88372 and|0.86047 Saint|0.83721 Ch|0.81395 ly|0.7907 du|0.76744 Tarn|0.74419 village|0.72093 in|0.69767 the|0.67442 Tarn|0.65116 Gorges|0.62791 from|0.60465 the|0.5814 cirque|0.55814 of|0.53488 Saint|0.51163 Ch|0.48837 ly|0.46512 This|0.44186 picture|0.4186 features|0.39535 the|0.37209 road|0.34884 D|0.32558 907bis|0.30233 which|0.27907 goes|0.25581 alongside|0.23256 the|0.2093 Tarn|0.18605 river|0.16279 all|0.13953 along|0.11628 the|0.093023 gorges|0.069767 Credit|0.046512 Benh|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

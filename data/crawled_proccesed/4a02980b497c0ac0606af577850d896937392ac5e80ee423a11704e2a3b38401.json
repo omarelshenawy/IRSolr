@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a02980b497c0ac0606af577850d896937392ac5e80ee423a11704e2a3b38401",
+			"url": "https://upload.wikimedia.org/math/2/f/7/2f72a534de347ee31a3284a6c3439187.png",
+			"previous": " Mathematically we may construct the rational numbers as equivalence classes of ordered pairs of integers m n with n 0 This space of equivalence classes is the quotient space Z Z 0 where m1 n1 m2 n2 if and only if m1n2 m2n1 0 We can define addition and multiplication of these pairs with the following rules ",
+			"after": " and if m2 0 division by",
+			"color": "dim|0.33222 gray|0.33222 dim|0.33222 grey|0.33222 gray|0.29085 grey|0.29085 dark|0.1847 gray|0.1847 dark|0.1847 grey|0.1847 silver|0.087093 light|0.046089 gray|0.046089 light|0.046089 grey|0.046089 gainsboro|0.033126 white|0.0058559 smoke|0.0058559 linen|0.0030839 lavender|0.002884 blush|0.002884 alice|0.0028093 blue|0.0028093 ghost|0.0026928 white|0.0026928  ",
+			"after_weights": " and|1 if|0.8 m2|0.6 0|0.4 division|0.2 by|0",
+			"previous_weights": " Mathematically|0 we|0.017544 may|0.035088 construct|0.052632 the|0.070175 rational|0.087719 numbers|0.10526 as|0.12281 equivalence|0.14035 classes|0.15789 of|0.17544 ordered|0.19298 pairs|0.21053 of|0.22807 integers|0.24561 m|0.26316 n|0.2807 with|0.29825 n|0.31579 0|0.33333 This|0.35088 space|0.36842 of|0.38596 equivalence|0.40351 classes|0.42105 is|0.4386 the|0.45614 quotient|0.47368 space|0.49123 Z|0.50877 Z|0.52632 0|0.54386 where|0.5614 m1|0.57895 n1|0.59649 m2|0.61404 n2|0.63158 if|0.64912 and|0.66667 only|0.68421 if|0.70175 m1n2|0.7193 m2n1|0.73684 0|0.75439 We|0.77193 can|0.78947 define|0.80702 addition|0.82456 and|0.84211 multiplication|0.85965 of|0.87719 these|0.89474 pairs|0.91228 with|0.92982 the|0.94737 following|0.96491 rules|0.98246 |1"
+		}
+	}
+}

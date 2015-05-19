@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a41202066413a564cca5e9bef384741bb30bdb574db36af2fdeb85f1b391d1b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wolf_Creek_Dam_and_Lake_Cumberland%2C_KY.jpg/220px-Wolf_Creek_Dam_and_Lake_Cumberland%2C_KY.jpg",
+			"previous": " ",
+			"after": " Kentucky has more navigable miles of water than any other state in the union other than Alaska 17  Kentucky is the only U S state to have a continuous border of rivers running along three of its sides the Mississippi River to the west the Ohio River to the north and the Big Sandy River and Tug Fork to the east 18 Its major internal rivers include the Kentucky River Tennessee River Cumberland River Green River and Licking River ",
+			"color": "dark|0.39267 slate|0.39267 gray|0.39267 black|0.29154 light|0.091803 slate|0.091803 gray|0.091803 dim|0.081533 gray|0.081533 dim|0.081533 grey|0.081533 slate|0.077833 gray|0.077833 gray|0.054386 grey|0.054386  ",
+			"after_weights": " Kentucky|1 has|0.9875 more|0.975 navigable|0.9625 miles|0.95 of|0.9375 water|0.925 than|0.9125 any|0.9 other|0.8875 state|0.875 in|0.8625 the|0.85 union|0.8375 other|0.825 than|0.8125 Alaska|0.8 17|0.7875 |0.775 Kentucky|0.7625 is|0.75 the|0.7375 only|0.725 U|0.7125 S|0.7 state|0.6875 to|0.675 have|0.6625 a|0.65 continuous|0.6375 border|0.625 of|0.6125 rivers|0.6 running|0.5875 along|0.575 three|0.5625 of|0.55 its|0.5375 sides|0.525 the|0.5125 Mississippi|0.5 River|0.4875 to|0.475 the|0.4625 west|0.45 the|0.4375 Ohio|0.425 River|0.4125 to|0.4 the|0.3875 north|0.375 and|0.3625 the|0.35 Big|0.3375 Sandy|0.325 River|0.3125 and|0.3 Tug|0.2875 Fork|0.275 to|0.2625 the|0.25 east|0.2375 18|0.225 Its|0.2125 major|0.2 internal|0.1875 rivers|0.175 include|0.1625 the|0.15 Kentucky|0.1375 River|0.125 Tennessee|0.1125 River|0.1 Cumberland|0.0875 River|0.075 Green|0.0625 River|0.05 and|0.0375 Licking|0.025 River|0.0125 |0",
+			"previous_weights": " "
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "15485d2f374b4f7a06d5955347e74d376442ce50cb3c09b69882a38c45b55018",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/A330_DCDU.jpg/250px-A330_DCDU.jpg",
+			"previous": " ",
+			"after": " Controller pilot data link communication CPDLC is a means of communication between controller and pilot using data link for ATC communication At the highest level the concept is simple with the emphasis on the continued involvement of the human at either end and the flexibility of use ",
+			"color": "dim|0.53359 gray|0.53359 dim|0.53359 grey|0.53359 gray|0.11866 grey|0.11866 black|0.10573 dark|0.035449 slate|0.035449 gray|0.035449 slate|0.031962 gray|0.031962 dark|0.020095 gray|0.020095 dark|0.020095 grey|0.020095 medium|0.012848 spring|0.012848 green|0.012848 silver|0.01278 medium|0.012725 sea|0.012725 green|0.012725 light|0.012271 slate|0.012271 gray|0.012271 sea|0.010717 green|0.010717 light|0.0099462 gray|0.0099462 light|0.0099462 grey|0.0099462 gainsboro|0.0078436  ",
+			"after_weights": " Controller|1 pilot|0.97872 data|0.95745 link|0.93617 communication|0.91489 CPDLC|0.89362 is|0.87234 a|0.85106 means|0.82979 of|0.80851 communication|0.78723 between|0.76596 controller|0.74468 and|0.7234 pilot|0.70213 using|0.68085 data|0.65957 link|0.6383 for|0.61702 ATC|0.59574 communication|0.57447 At|0.55319 the|0.53191 highest|0.51064 level|0.48936 the|0.46809 concept|0.44681 is|0.42553 simple|0.40426 with|0.38298 the|0.3617 emphasis|0.34043 on|0.31915 the|0.29787 continued|0.2766 involvement|0.25532 of|0.23404 the|0.21277 human|0.19149 at|0.17021 either|0.14894 end|0.12766 and|0.10638 the|0.085106 flexibility|0.06383 of|0.042553 use|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

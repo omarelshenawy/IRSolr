@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e13fb702cd436c58dd428a8751b3c3d499167dcc82460f75a8a2f9ef15592d2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Brooklyn_Museum_-_Soul_in_Bondage_-_Elihu_Vedder_-_overall.jpg/90px-Brooklyn_Museum_-_Soul_in_Bondage_-_Elihu_Vedder_-_overall.jpg",
+			"previous": " ",
+			"after": " The term spirituality lacks a definitive definition although social scientists have defined spirituality as the search for the sacred where the sacred is broadly defined as that which is set apart from the ordinary and worthy of veneration ",
+			"color": "tan|0.25068 black|0.21079 dim|0.14255 gray|0.14255 dim|0.14255 grey|0.14255 burly|0.1288 wood|0.1288 wheat|0.059071 navajo|0.041788 white|0.041788  ",
+			"after_weights": " The|1 term|0.97368 spirituality|0.94737 lacks|0.92105 a|0.89474 definitive|0.86842 definition|0.84211 although|0.81579 social|0.78947 scientists|0.76316 have|0.73684 defined|0.71053 spirituality|0.68421 as|0.65789 the|0.63158 search|0.60526 for|0.57895 the|0.55263 sacred|0.52632 where|0.5 the|0.47368 sacred|0.44737 is|0.42105 broadly|0.39474 defined|0.36842 as|0.34211 that|0.31579 which|0.28947 is|0.26316 set|0.23684 apart|0.21053 from|0.18421 the|0.15789 ordinary|0.13158 and|0.10526 worthy|0.078947 of|0.052632 veneration|0.026316 |0",
+			"previous_weights": " "
+		}
+	}
+}

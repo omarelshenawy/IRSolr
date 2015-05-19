@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e579c412484f46a2d54b87a74904288f0e9434676ea8177aeb218f05bce9901",
+			"url": "https://upload.wikimedia.org/math/8/0/5/80569dbaa96f35eae3f4c7fcbd53c733.png",
+			"previous": " then",
+			"after": " This remarkable result is what is now known as the Prime Number Theorem It is a central result in analytic number theory Loosely speaking it states that given a large number N the number of primes less than or equal to N is about N log N ",
+			"color": "dim|0.34986 gray|0.34986 dim|0.34986 grey|0.34986 gray|0.29346 grey|0.29346 dark|0.18647 gray|0.18647 dark|0.18647 grey|0.18647 silver|0.079915 light|0.041389 gray|0.041389 light|0.041389 grey|0.041389 gainsboro|0.02886 white|0.0054347 smoke|0.0054347  ",
+			"after_weights": " This|1 remarkable|0.97872 result|0.95745 is|0.93617 what|0.91489 is|0.89362 now|0.87234 known|0.85106 as|0.82979 the|0.80851 Prime|0.78723 Number|0.76596 Theorem|0.74468 It|0.7234 is|0.70213 a|0.68085 central|0.65957 result|0.6383 in|0.61702 analytic|0.59574 number|0.57447 theory|0.55319 Loosely|0.53191 speaking|0.51064 it|0.48936 states|0.46809 that|0.44681 given|0.42553 a|0.40426 large|0.38298 number|0.3617 N|0.34043 the|0.31915 number|0.29787 of|0.2766 primes|0.25532 less|0.23404 than|0.21277 or|0.19149 equal|0.17021 to|0.14894 N|0.12766 is|0.10638 about|0.085106 N|0.06383 log|0.042553 N|0.021277 |0",
+			"previous_weights": " then|1"
+		}
+	}
+}

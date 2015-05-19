@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ff70e7f761a9d82349496c2f37f4992776735d1d2ea678a8ff2743f6a336bd5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bundesarchiv_Bild_101I-027-1451-10%2C_Toulon%2C_Panzer_IV.jpg/220px-Bundesarchiv_Bild_101I-027-1451-10%2C_Toulon%2C_Panzer_IV.jpg",
+			"previous": " ",
+			"after": " After Germany invaded Poland France declared war on Germany on 3 September 1939 17 In January 1940 French Prime Minister douard Daladier made a major speech denouncing the actions of Germany  France experienced several major phases of action during World War II ",
+			"color": " ",
+			"after_weights": " After|1 Germany|0.97674 invaded|0.95349 Poland|0.93023 France|0.90698 declared|0.88372 war|0.86047 on|0.83721 Germany|0.81395 on|0.7907 3|0.76744 September|0.74419 1939|0.72093 17|0.69767 In|0.67442 January|0.65116 1940|0.62791 French|0.60465 Prime|0.5814 Minister|0.55814 douard|0.53488 Daladier|0.51163 made|0.48837 a|0.46512 major|0.44186 speech|0.4186 denouncing|0.39535 the|0.37209 actions|0.34884 of|0.32558 Germany|0.30233 |0.27907 France|0.25581 experienced|0.23256 several|0.2093 major|0.18605 phases|0.16279 of|0.13953 action|0.11628 during|0.093023 World|0.069767 War|0.046512 II|0.023256 |0",
+			"previous_weights": " "
+		}
+	}
+}

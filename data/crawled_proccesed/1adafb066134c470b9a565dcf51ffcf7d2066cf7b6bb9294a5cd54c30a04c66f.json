@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1adafb066134c470b9a565dcf51ffcf7d2066cf7b6bb9294a5cd54c30a04c66f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Union_Station_Phoenix_-_North_-_2009-12-08.JPG/220px-Union_Station_Phoenix_-_North_-_2009-12-08.JPG",
+			"previous": " ",
+			"after": " Amtrak served Phoenix Union Station until 1996 when the Union Pacific Railroad UP threatened to abandon the route between Yuma Arizona and Phoenix 272 Amtrak rerouted trains to Maricopa 30 miles south of downtown Phoenix where passengers can board the Texas Eagle Los Angeles San Antonio Chicago and Sunset Limited Los Angeles New Orleans 273 274 Though UP ultimately retained the trackage Amtrak did not return leaving Phoenix as the most populated city in the U S without passenger Amtrak service although the station is still there see photo ",
+			"color": "dim|0.2525 gray|0.2525 dim|0.2525 grey|0.2525 gray|0.24276 grey|0.24276 dark|0.23541 gray|0.23541 dark|0.23541 grey|0.23541 black|0.18985 silver|0.03319 slate|0.014687 gray|0.014687 light|0.0095385 slate|0.0095385 gray|0.0095385  ",
+			"after_weights": " Amtrak|1 served|0.98876 Phoenix|0.97753 Union|0.96629 Station|0.95506 until|0.94382 1996|0.93258 when|0.92135 the|0.91011 Union|0.89888 Pacific|0.88764 Railroad|0.8764 UP|0.86517 threatened|0.85393 to|0.8427 abandon|0.83146 the|0.82022 route|0.80899 between|0.79775 Yuma|0.78652 Arizona|0.77528 and|0.76404 Phoenix|0.75281 272|0.74157 Amtrak|0.73034 rerouted|0.7191 trains|0.70787 to|0.69663 Maricopa|0.68539 30|0.67416 miles|0.66292 south|0.65169 of|0.64045 downtown|0.62921 Phoenix|0.61798 where|0.60674 passengers|0.59551 can|0.58427 board|0.57303 the|0.5618 Texas|0.55056 Eagle|0.53933 Los|0.52809 Angeles|0.51685 San|0.50562 Antonio|0.49438 Chicago|0.48315 and|0.47191 Sunset|0.46067 Limited|0.44944 Los|0.4382 Angeles|0.42697 New|0.41573 Orleans|0.40449 273|0.39326 274|0.38202 Though|0.37079 UP|0.35955 ultimately|0.34831 retained|0.33708 the|0.32584 trackage|0.31461 Amtrak|0.30337 did|0.29213 not|0.2809 return|0.26966 leaving|0.25843 Phoenix|0.24719 as|0.23596 the|0.22472 most|0.21348 populated|0.20225 city|0.19101 in|0.17978 the|0.16854 U|0.1573 S|0.14607 without|0.13483 passenger|0.1236 Amtrak|0.11236 service|0.10112 although|0.089888 the|0.078652 station|0.067416 is|0.05618 still|0.044944 there|0.033708 see|0.022472 photo|0.011236 |0",
+			"previous_weights": " "
+		}
+	}
+}

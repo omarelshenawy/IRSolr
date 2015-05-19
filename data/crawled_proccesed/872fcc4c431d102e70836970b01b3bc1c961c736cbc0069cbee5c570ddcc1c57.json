@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "872fcc4c431d102e70836970b01b3bc1c961c736cbc0069cbee5c570ddcc1c57",
+			"url": "https://upload.wikimedia.org/math/b/7/8/b78736045cb5f182a2f517223c37184c.png",
+			"previous": " There are different methods to solve a system of linear equations with two variables ",
+			"after": " An example of solving a system of linear equations is by using the elimination method  Multiplying the terms in the second equation by 2 ",
+			"color": "black|0.27765 dim|0.23939 gray|0.23939 dim|0.23939 grey|0.23939 gray|0.18638 grey|0.18638 dark|0.13508 gray|0.13508 dark|0.13508 grey|0.13508 silver|0.076664 light|0.04323 gray|0.04323 light|0.04323 grey|0.04323 gainsboro|0.031119  ",
+			"after_weights": " An|1 example|0.96 of|0.92 solving|0.88 a|0.84 system|0.8 of|0.76 linear|0.72 equations|0.68 is|0.64 by|0.6 using|0.56 the|0.52 elimination|0.48 method|0.44 |0.4 Multiplying|0.36 the|0.32 terms|0.28 in|0.24 the|0.2 second|0.16 equation|0.12 by|0.08 2|0.04 |0",
+			"previous_weights": " There|0 are|0.071429 different|0.14286 methods|0.21429 to|0.28571 solve|0.35714 a|0.42857 system|0.5 of|0.57143 linear|0.64286 equations|0.71429 with|0.78571 two|0.85714 variables|0.92857 |1"
+		}
+	}
+}

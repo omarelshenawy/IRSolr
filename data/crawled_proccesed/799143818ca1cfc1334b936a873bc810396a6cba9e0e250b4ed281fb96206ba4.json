@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "799143818ca1cfc1334b936a873bc810396a6cba9e0e250b4ed281fb96206ba4",
+			"url": "https://upload.wikimedia.org/math/4/4/2/44284d50f44793a48210ad58d45f888f.png",
+			"previous": "    Turbine   Combustor    Compressor",
+			"after": "   Jetpipe     Is the nozzle choked The nozzle is choked when the throat Mach number 1 0 This occurs when the nozzle pressure ratio reaches or exceeds a critical level   If then the nozzle is CHOKED ",
+			"color": "dim|0.32217 gray|0.32217 dim|0.32217 grey|0.32217 gray|0.30223 grey|0.30223 dark|0.20453 gray|0.20453 dark|0.20453 grey|0.20453 silver|0.088509 light|0.040199 gray|0.040199 light|0.040199 grey|0.040199 gainsboro|0.027526 white|0.0039428 smoke|0.0039428  ",
+			"after_weights": " |1 |0.97674 Jetpipe|0.95349 |0.93023 |0.90698 |0.88372 |0.86047 Is|0.83721 the|0.81395 nozzle|0.7907 choked|0.76744 The|0.74419 nozzle|0.72093 is|0.69767 choked|0.67442 when|0.65116 the|0.62791 throat|0.60465 Mach|0.5814 number|0.55814 1|0.53488 0|0.51163 This|0.48837 occurs|0.46512 when|0.44186 the|0.4186 nozzle|0.39535 pressure|0.37209 ratio|0.34884 reaches|0.32558 or|0.30233 exceeds|0.27907 a|0.25581 critical|0.23256 level|0.2093 |0.18605 |0.16279 If|0.13953 then|0.11628 the|0.093023 nozzle|0.069767 is|0.046512 CHOKED|0.023256 |0",
+			"previous_weights": " |0 |0.1 |0.2 Turbine|0.3 |0.4 |0.5 Combustor|0.6 |0.7 |0.8 |0.9 Compressor|1"
+		}
+	}
+}

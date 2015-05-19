@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1261ef5522e97c4e146997a7d22744c2a95a31d0e7b241e34c45607a59447514",
+			"url": "https://upload.wikimedia.org/math/5/3/e/53e954570e94027b5be37f1d37373c8a.png",
+			"previous": " A compact description of the current state of the art is provided by Bayro Corrochano and Scheuermann 2010 21 which also includes further references in particular to Dorst et al 2007 22 Other useful references are Li 2008 23 and Bayro 2010 24 ",
+			"after": " Specifically we add orthogonal basis vectors and such that and to the basis of and identify null vectors",
+			"color": " ",
+			"after_weights": " Specifically|1 we|0.94118 add|0.88235 orthogonal|0.82353 basis|0.76471 vectors|0.70588 and|0.64706 such|0.58824 that|0.52941 and|0.47059 to|0.41176 the|0.35294 basis|0.29412 of|0.23529 and|0.17647 identify|0.11765 null|0.058824 vectors|0",
+			"previous_weights": " A|0 compact|0.023256 description|0.046512 of|0.069767 the|0.093023 current|0.11628 state|0.13953 of|0.16279 the|0.18605 art|0.2093 is|0.23256 provided|0.25581 by|0.27907 Bayro|0.30233 Corrochano|0.32558 and|0.34884 Scheuermann|0.37209 2010|0.39535 21|0.4186 which|0.44186 also|0.46512 includes|0.48837 further|0.51163 references|0.53488 in|0.55814 particular|0.5814 to|0.60465 Dorst|0.62791 et|0.65116 al|0.67442 2007|0.69767 22|0.72093 Other|0.74419 useful|0.76744 references|0.7907 are|0.81395 Li|0.83721 2008|0.86047 23|0.88372 and|0.90698 Bayro|0.93023 2010|0.95349 24|0.97674 |1"
+		}
+	}
+}

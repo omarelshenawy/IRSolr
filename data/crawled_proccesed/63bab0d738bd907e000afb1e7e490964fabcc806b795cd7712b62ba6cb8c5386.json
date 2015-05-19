@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "63bab0d738bd907e000afb1e7e490964fabcc806b795cd7712b62ba6cb8c5386",
+			"url": "https://upload.wikimedia.org/math/3/1/b/31b25a1895b28403a9f1db88852eb652.png",
+			"previous": " ",
+			"after": " The graph below shows an example of this producing a fourth degree polynomial approximating over 1 1 The test points were set at 1 0 7 0 1 0 4 0 9 and 1 Those values are shown in green The resultant value of is 4 43 x 10 4",
+			"color": "dark|0.32203 gray|0.32203 dark|0.32203 grey|0.32203 gray|0.25444 grey|0.25444 silver|0.17071 light|0.09079 gray|0.09079 light|0.09079 grey|0.09079 dim|0.069771 gray|0.069771 dim|0.069771 grey|0.069771 gainsboro|0.06322 white|0.0085713 smoke|0.0085713 linen|0.0038531 lavender|0.0031749 blush|0.0031749 alice|0.0030221 blue|0.0030221 ghost|0.0028311 white|0.0028311 sea|0.0026401 shell|0.0026401 snow|0.0025088  ",
+			"after_weights": " The|1 graph|0.97959 below|0.95918 shows|0.93878 an|0.91837 example|0.89796 of|0.87755 this|0.85714 producing|0.83673 a|0.81633 fourth|0.79592 degree|0.77551 polynomial|0.7551 approximating|0.73469 over|0.71429 1|0.69388 1|0.67347 The|0.65306 test|0.63265 points|0.61224 were|0.59184 set|0.57143 at|0.55102 1|0.53061 0|0.5102 7|0.4898 0|0.46939 1|0.44898 0|0.42857 4|0.40816 0|0.38776 9|0.36735 and|0.34694 1|0.32653 Those|0.30612 values|0.28571 are|0.26531 shown|0.2449 in|0.22449 green|0.20408 The|0.18367 resultant|0.16327 value|0.14286 of|0.12245 is|0.10204 4|0.081633 43|0.061224 x|0.040816 10|0.020408 4|0",
+			"previous_weights": " "
+		}
+	}
+}

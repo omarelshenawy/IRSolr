@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f25ca6e3cb1deb1c22b4c6b62827c0a1a82c1f879e96951220bd5788e98c3a5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/EnglandOxfordshire.png",
+			"previous": " ",
+			"after": " Oxfordshire abbreviated Oxon from the Latinised form Oxonia is a county in the South East of England bordering on Northamptonshire Buckinghamshire Berkshire Wiltshire Gloucestershire and Warwickshire ",
+			"color": "pink|0.85752 rosy|0.092341 brown|0.092341 red|0.017631 dim|0.013683 gray|0.013683 dim|0.013683 grey|0.013683 gray|0.0087304 grey|0.0087304 dark|0.0046178 gray|0.0046178 dark|0.0046178 grey|0.0046178  ",
+			"after_weights": " Oxfordshire|1 abbreviated|0.96154 Oxon|0.92308 from|0.88462 the|0.84615 Latinised|0.80769 form|0.76923 Oxonia|0.73077 is|0.69231 a|0.65385 county|0.61538 in|0.57692 the|0.53846 South|0.5 East|0.46154 of|0.42308 England|0.38462 bordering|0.34615 on|0.30769 Northamptonshire|0.26923 Buckinghamshire|0.23077 Berkshire|0.19231 Wiltshire|0.15385 Gloucestershire|0.11538 and|0.076923 Warwickshire|0.038462 |0",
+			"previous_weights": " "
+		}
+	}
+}

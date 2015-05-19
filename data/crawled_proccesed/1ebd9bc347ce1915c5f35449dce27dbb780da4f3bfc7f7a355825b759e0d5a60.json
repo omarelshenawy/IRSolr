@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ebd9bc347ce1915c5f35449dce27dbb780da4f3bfc7f7a355825b759e0d5a60",
+			"url": "https://upload.wikimedia.org/math/8/e/c/8ec634b4a0b7e373c5c6e9ea9a34d36b.png",
+			"previous": " This sum becomes larger than any arbitrary real number provided that p is big enough 17 This shows that there are infinitely many primes since otherwise this sum would grow only until the biggest prime p is reached The growth of S p is quantified by Mertens second theorem 18 For comparison the sum",
+			"after": " does not grow to infinity as n goes to infinity see Basel problem In this sense prime numbers occur more often than squares of natural numbers Brun s theorem states that the sum of the reciprocals of twin primes ",
+			"color": "dim|0.3661 gray|0.3661 dim|0.3661 grey|0.3661 gray|0.27444 grey|0.27444 dark|0.20172 gray|0.20172 dark|0.20172 grey|0.20172 silver|0.080854 light|0.033201 gray|0.033201 light|0.033201 grey|0.033201 gainsboro|0.02407 white|0.0044811 smoke|0.0044811  ",
+			"after_weights": " does|1 not|0.97436 grow|0.94872 to|0.92308 infinity|0.89744 as|0.87179 n|0.84615 goes|0.82051 to|0.79487 infinity|0.76923 see|0.74359 Basel|0.71795 problem|0.69231 In|0.66667 this|0.64103 sense|0.61538 prime|0.58974 numbers|0.5641 occur|0.53846 more|0.51282 often|0.48718 than|0.46154 squares|0.4359 of|0.41026 natural|0.38462 numbers|0.35897 Brun|0.33333 s|0.30769 theorem|0.28205 states|0.25641 that|0.23077 the|0.20513 sum|0.17949 of|0.15385 the|0.12821 reciprocals|0.10256 of|0.076923 twin|0.051282 primes|0.025641 |0",
+			"previous_weights": " This|0 sum|0.018868 becomes|0.037736 larger|0.056604 than|0.075472 any|0.09434 arbitrary|0.11321 real|0.13208 number|0.15094 provided|0.16981 that|0.18868 p|0.20755 is|0.22642 big|0.24528 enough|0.26415 17|0.28302 This|0.30189 shows|0.32075 that|0.33962 there|0.35849 are|0.37736 infinitely|0.39623 many|0.41509 primes|0.43396 since|0.45283 otherwise|0.4717 this|0.49057 sum|0.50943 would|0.5283 grow|0.54717 only|0.56604 until|0.58491 the|0.60377 biggest|0.62264 prime|0.64151 p|0.66038 is|0.67925 reached|0.69811 The|0.71698 growth|0.73585 of|0.75472 S|0.77358 p|0.79245 is|0.81132 quantified|0.83019 by|0.84906 Mertens|0.86792 second|0.88679 theorem|0.90566 18|0.92453 For|0.9434 comparison|0.96226 the|0.98113 sum|1"
+		}
+	}
+}

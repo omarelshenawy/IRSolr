@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "791e41db20852f83dab9dcdcc4c809d11b05758b506a2c50be4b0032a15d6be4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Maya.svg/220px-Maya.svg.png",
+			"previous": " ",
+			"after": " Long Count dates are written with Mesoamerican numerals as shown on this table A dot represents 1 while a bar equals 5 The shell glyph was used to represent the zero concept The Long Count calendar required the use of zero as a place holder and presents one of the earliest uses of the zero concept in history ",
+			"color": "black|0.8842 dim|0.068817 gray|0.068817 dim|0.068817 grey|0.068817 gray|0.045978 grey|0.045978  ",
+			"after_weights": " Long|1 Count|0.98276 dates|0.96552 are|0.94828 written|0.93103 with|0.91379 Mesoamerican|0.89655 numerals|0.87931 as|0.86207 shown|0.84483 on|0.82759 this|0.81034 table|0.7931 A|0.77586 dot|0.75862 represents|0.74138 1|0.72414 while|0.7069 a|0.68966 bar|0.67241 equals|0.65517 5|0.63793 The|0.62069 shell|0.60345 glyph|0.58621 was|0.56897 used|0.55172 to|0.53448 represent|0.51724 the|0.5 zero|0.48276 concept|0.46552 The|0.44828 Long|0.43103 Count|0.41379 calendar|0.39655 required|0.37931 the|0.36207 use|0.34483 of|0.32759 zero|0.31034 as|0.2931 a|0.27586 place|0.25862 holder|0.24138 and|0.22414 presents|0.2069 one|0.18966 of|0.17241 the|0.15517 earliest|0.13793 uses|0.12069 of|0.10345 the|0.086207 zero|0.068966 concept|0.051724 in|0.034483 history|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

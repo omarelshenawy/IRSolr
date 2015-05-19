@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2696be19ff7121370af7cd540a213a40376f6f689f5da41b0724eb449d83c237",
+			"url": "https://upload.wikimedia.org/math/e/6/6/e6613c1b43b51a7d11eaade8b4144a1f.png",
+			"previous": " For example consider the cyclic permutation matrix Since the eigenvalues are roots of the characteristic polynomial an matrix has at most eigenvalues If the matrix has real entries the coefficients of the characteristic polynomial are all real but it may have fewer than real roots or no real roots at all ",
+			"after": " The fundamental theorem of algebra implies that the characteristic polynomial of an matrix being a polynomial of degree has exactly complex roots More precisely it can be factored into the product of linear terms ",
+			"color": "dim|0.41713 gray|0.41713 dim|0.41713 grey|0.41713 gray|0.27785 grey|0.27785 dark|0.15192 gray|0.15192 dark|0.15192 grey|0.15192 silver|0.077153 light|0.040568 gray|0.040568 light|0.040568 grey|0.040568 gainsboro|0.027061  ",
+			"after_weights": " The|1 fundamental|0.97059 theorem|0.94118 of|0.91176 algebra|0.88235 implies|0.85294 that|0.82353 the|0.79412 characteristic|0.76471 polynomial|0.73529 of|0.70588 an|0.67647 matrix|0.64706 being|0.61765 a|0.58824 polynomial|0.55882 of|0.52941 degree|0.5 has|0.47059 exactly|0.44118 complex|0.41176 roots|0.38235 More|0.35294 precisely|0.32353 it|0.29412 can|0.26471 be|0.23529 factored|0.20588 into|0.17647 the|0.14706 product|0.11765 of|0.088235 linear|0.058824 terms|0.029412 |0",
+			"previous_weights": " For|0 example|0.019608 consider|0.039216 the|0.058824 cyclic|0.078431 permutation|0.098039 matrix|0.11765 Since|0.13725 the|0.15686 eigenvalues|0.17647 are|0.19608 roots|0.21569 of|0.23529 the|0.2549 characteristic|0.27451 polynomial|0.29412 an|0.31373 matrix|0.33333 has|0.35294 at|0.37255 most|0.39216 eigenvalues|0.41176 If|0.43137 the|0.45098 matrix|0.47059 has|0.4902 real|0.5098 entries|0.52941 the|0.54902 coefficients|0.56863 of|0.58824 the|0.60784 characteristic|0.62745 polynomial|0.64706 are|0.66667 all|0.68627 real|0.70588 but|0.72549 it|0.7451 may|0.76471 have|0.78431 fewer|0.80392 than|0.82353 real|0.84314 roots|0.86275 or|0.88235 no|0.90196 real|0.92157 roots|0.94118 at|0.96078 all|0.98039 |1"
+		}
+	}
+}

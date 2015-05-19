@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f94f6516cb0cfd3b1ddccf2d1dbc9572f9492ad25336f91a022c1d03ca33047",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SS-24-DIA.jpg/220px-SS-24-DIA.jpg",
+			"previous": " ",
+			"after": " Russia the United States China and India are the only countries currently known to possess land based ICBMs Israel has also tested ICBMs but is not open about actual deployment 21 22  The United States currently operates 450 ICBMs in three USAF bases The only model deployed is LGM 30G Minuteman III ",
+			"color": "deep|0.31966 sky|0.31966 blue|0.31966 dark|0.15232 slate|0.15232 gray|0.15232 pale|0.10546 turquoise|0.10546 cadet|0.074356 blue|0.074356 teal|0.058163 light|0.041554 sky|0.041554 blue|0.041554 honeydew|0.023882 light|0.023225 sea|0.023225 green|0.023225 light|0.022569 cyan|0.022569 dark|0.019547 cyan|0.019547 medium|0.017733 turquoise|0.017733 aqua|0.017521 marine|0.017521 medium|0.017146 aqua|0.017146 marine|0.017146 powder|0.015294 blue|0.015294  ",
+			"after_weights": " Russia|1 the|0.98113 United|0.96226 States|0.9434 China|0.92453 and|0.90566 India|0.88679 are|0.86792 the|0.84906 only|0.83019 countries|0.81132 currently|0.79245 known|0.77358 to|0.75472 possess|0.73585 land|0.71698 based|0.69811 ICBMs|0.67925 Israel|0.66038 has|0.64151 also|0.62264 tested|0.60377 ICBMs|0.58491 but|0.56604 is|0.54717 not|0.5283 open|0.50943 about|0.49057 actual|0.4717 deployment|0.45283 21|0.43396 22|0.41509 |0.39623 The|0.37736 United|0.35849 States|0.33962 currently|0.32075 operates|0.30189 450|0.28302 ICBMs|0.26415 in|0.24528 three|0.22642 USAF|0.20755 bases|0.18868 The|0.16981 only|0.15094 model|0.13208 deployed|0.11321 is|0.09434 LGM|0.075472 30G|0.056604 Minuteman|0.037736 III|0.018868 |0",
+			"previous_weights": " "
+		}
+	}
+}

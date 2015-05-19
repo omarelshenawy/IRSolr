@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48f17a05769b1fa8558a069dd0779250ccb18dba72be15f59155bcd104a7cc4c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Camp_on_Schoodic_Lake%2C_ME.jpg/220px-Camp_on_Schoodic_Lake%2C_ME.jpg",
+			"previous": " ",
+			"after": " Harvest of animals other than big game is typically restricted by a bag limit and a possession limit A bag limit is the maximum number of a specific animal species that an individual can harvest in a single day A possession limit is the maximum number of a specific animal species that can be in an individual s possession at any time ",
+			"color": "silver|0.21331 light|0.20504 gray|0.20504 light|0.20504 grey|0.20504 gainsboro|0.15905 dark|0.1111 gray|0.1111 dark|0.1111 grey|0.1111 dim|0.077285 gray|0.077285 dim|0.077285 grey|0.077285 gray|0.064267 grey|0.064267 black|0.036276 white|0.030527 smoke|0.030527 linen|0.023901 tan|0.010202 sea|0.009961 shell|0.009961 alice|0.0093768 blue|0.0093768 ghost|0.0073267 white|0.0073267 lavender|0.0073093 blush|0.0073093 antique|0.006698 white|0.006698 snow|0.0064226  ",
+			"after_weights": " Harvest|1 of|0.98387 animals|0.96774 other|0.95161 than|0.93548 big|0.91935 game|0.90323 is|0.8871 typically|0.87097 restricted|0.85484 by|0.83871 a|0.82258 bag|0.80645 limit|0.79032 and|0.77419 a|0.75806 possession|0.74194 limit|0.72581 A|0.70968 bag|0.69355 limit|0.67742 is|0.66129 the|0.64516 maximum|0.62903 number|0.6129 of|0.59677 a|0.58065 specific|0.56452 animal|0.54839 species|0.53226 that|0.51613 an|0.5 individual|0.48387 can|0.46774 harvest|0.45161 in|0.43548 a|0.41935 single|0.40323 day|0.3871 A|0.37097 possession|0.35484 limit|0.33871 is|0.32258 the|0.30645 maximum|0.29032 number|0.27419 of|0.25806 a|0.24194 specific|0.22581 animal|0.20968 species|0.19355 that|0.17742 can|0.16129 be|0.14516 in|0.12903 an|0.1129 individual|0.096774 s|0.080645 possession|0.064516 at|0.048387 any|0.032258 time|0.016129 |0",
+			"previous_weights": " "
+		}
+	}
+}

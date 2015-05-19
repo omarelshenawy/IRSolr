@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8832639a7eca572b7e7b2373ae64a41f3e56acff97b09ccd1cb9f21eaa9179fb",
+			"url": "https://upload.wikimedia.org/math/0/5/2/052ddcb90794a3ea3536624985fc4d2b.png",
+			"previous": " Although the partial derivative exhibits a product rule the geometric derivative only partially inherits this property Consider two functions F and G ",
+			"after": " Since the geometric product is not commutative with in general we cannot proceed further without new notation A solution is to adopt the overdot notation in which the scope of a geometric derivative with an overdot is the multivector valued function sharing the same overdot In this case if we define",
+			"color": "gray|0.31935 grey|0.31935 dim|0.2496 gray|0.2496 dim|0.2496 grey|0.2496 dark|0.23615 gray|0.23615 dark|0.23615 grey|0.23615 silver|0.10101 light|0.044462 gray|0.044462 light|0.044462 grey|0.044462 gainsboro|0.030365 white|0.0051224 smoke|0.0051224 linen|0.0027371  ",
+			"after_weights": " Since|1 the|0.98 geometric|0.96 product|0.94 is|0.92 not|0.9 commutative|0.88 with|0.86 in|0.84 general|0.82 we|0.8 cannot|0.78 proceed|0.76 further|0.74 without|0.72 new|0.7 notation|0.68 A|0.66 solution|0.64 is|0.62 to|0.6 adopt|0.58 the|0.56 overdot|0.54 notation|0.52 in|0.5 which|0.48 the|0.46 scope|0.44 of|0.42 a|0.4 geometric|0.38 derivative|0.36 with|0.34 an|0.32 overdot|0.3 is|0.28 the|0.26 multivector|0.24 valued|0.22 function|0.2 sharing|0.18 the|0.16 same|0.14 overdot|0.12 In|0.1 this|0.08 case|0.06 if|0.04 we|0.02 define|0",
+			"previous_weights": " Although|0 the|0.045455 partial|0.090909 derivative|0.13636 exhibits|0.18182 a|0.22727 product|0.27273 rule|0.31818 the|0.36364 geometric|0.40909 derivative|0.45455 only|0.5 partially|0.54545 inherits|0.59091 this|0.63636 property|0.68182 Consider|0.72727 two|0.77273 functions|0.81818 F|0.86364 and|0.90909 G|0.95455 |1"
+		}
+	}
+}

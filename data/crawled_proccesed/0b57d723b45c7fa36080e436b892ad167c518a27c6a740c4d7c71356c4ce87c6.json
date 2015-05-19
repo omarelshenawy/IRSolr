@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b57d723b45c7fa36080e436b892ad167c518a27c6a740c4d7c71356c4ce87c6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IFR_on_top.jpg/220px-IFR_on_top.jpg",
+			"previous": " ",
+			"after": " It is essential to differentiate between flight plan type VFR or IFR and weather conditions VMC or IMC While current and forecast weather may be a factor in deciding which type of flight plan to file weather conditions themselves do not affect one s filed flight plan For example an IFR flight that encounters visual meteorological conditions VMC en route does not automatically change to a VFR flight and the flight must still follow all IFR procedures regardless of weather conditions In the US weather conditions are forecast broadly as VFR MVFR Marginal Visual Flight Rules IFR or LIFR Low Instrument Flight Rules 10 ",
+			"color": "thistle|0.54858 misty|0.21454 rose|0.21454 lavender|0.054251 blush|0.054251 linen|0.033829 sea|0.029722 shell|0.029722 antique|0.016675 white|0.016675 old|0.015686 lace|0.015686 snow|0.015434 floral|0.014804 white|0.014804 white|0.013736 smoke|0.013736  ",
+			"after_weights": " It|1 is|0.99038 essential|0.98077 to|0.97115 differentiate|0.96154 between|0.95192 flight|0.94231 plan|0.93269 type|0.92308 VFR|0.91346 or|0.90385 IFR|0.89423 and|0.88462 weather|0.875 conditions|0.86538 VMC|0.85577 or|0.84615 IMC|0.83654 While|0.82692 current|0.81731 and|0.80769 forecast|0.79808 weather|0.78846 may|0.77885 be|0.76923 a|0.75962 factor|0.75 in|0.74038 deciding|0.73077 which|0.72115 type|0.71154 of|0.70192 flight|0.69231 plan|0.68269 to|0.67308 file|0.66346 weather|0.65385 conditions|0.64423 themselves|0.63462 do|0.625 not|0.61538 affect|0.60577 one|0.59615 s|0.58654 filed|0.57692 flight|0.56731 plan|0.55769 For|0.54808 example|0.53846 an|0.52885 IFR|0.51923 flight|0.50962 that|0.5 encounters|0.49038 visual|0.48077 meteorological|0.47115 conditions|0.46154 VMC|0.45192 en|0.44231 route|0.43269 does|0.42308 not|0.41346 automatically|0.40385 change|0.39423 to|0.38462 a|0.375 VFR|0.36538 flight|0.35577 and|0.34615 the|0.33654 flight|0.32692 must|0.31731 still|0.30769 follow|0.29808 all|0.28846 IFR|0.27885 procedures|0.26923 regardless|0.25962 of|0.25 weather|0.24038 conditions|0.23077 In|0.22115 the|0.21154 US|0.20192 weather|0.19231 conditions|0.18269 are|0.17308 forecast|0.16346 broadly|0.15385 as|0.14423 VFR|0.13462 MVFR|0.125 Marginal|0.11538 Visual|0.10577 Flight|0.096154 Rules|0.086538 IFR|0.076923 or|0.067308 LIFR|0.057692 Low|0.048077 Instrument|0.038462 Flight|0.028846 Rules|0.019231 10|0.0096154 |0",
+			"previous_weights": " "
+		}
+	}
+}

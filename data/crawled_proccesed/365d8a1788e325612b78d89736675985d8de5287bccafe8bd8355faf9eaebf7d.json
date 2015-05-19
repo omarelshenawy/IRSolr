@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "365d8a1788e325612b78d89736675985d8de5287bccafe8bd8355faf9eaebf7d",
+			"url": "https://upload.wikimedia.org/math/3/1/f/31fc082dc817e0d66c08159ab493593e.png",
+			"previous": " Just as the geometric derivative is defined over the entire n dimensional space we may wish to define an intrinsic derivative locally defined on the manifold ",
+			"after": "  Note The right hand side of the above may not lie in the tangent space to the manifold Therefore it is not the same as which necessarily does lie in the tangent space ",
+			"color": "dim|0.33976 gray|0.33976 dim|0.33976 grey|0.33976 gray|0.31738 grey|0.31738 dark|0.20295 gray|0.20295 dark|0.20295 grey|0.20295 silver|0.075124 light|0.029705 gray|0.029705 light|0.029705 grey|0.029705 gainsboro|0.020261 white|0.0038106 smoke|0.0038106  ",
+			"after_weights": " |1 Note|0.97059 The|0.94118 right|0.91176 hand|0.88235 side|0.85294 of|0.82353 the|0.79412 above|0.76471 may|0.73529 not|0.70588 lie|0.67647 in|0.64706 the|0.61765 tangent|0.58824 space|0.55882 to|0.52941 the|0.5 manifold|0.47059 Therefore|0.44118 it|0.41176 is|0.38235 not|0.35294 the|0.32353 same|0.29412 as|0.26471 which|0.23529 necessarily|0.20588 does|0.17647 lie|0.14706 in|0.11765 the|0.088235 tangent|0.058824 space|0.029412 |0",
+			"previous_weights": " Just|0 as|0.038462 the|0.076923 geometric|0.11538 derivative|0.15385 is|0.19231 defined|0.23077 over|0.26923 the|0.30769 entire|0.34615 n|0.38462 dimensional|0.42308 space|0.46154 we|0.5 may|0.53846 wish|0.57692 to|0.61538 define|0.65385 an|0.69231 intrinsic|0.73077 derivative|0.76923 locally|0.80769 defined|0.84615 on|0.88462 the|0.92308 manifold|0.96154 |1"
+		}
+	}
+}

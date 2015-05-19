@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "66f5a1828688078ea84d34c6c951a0dd1bcc3b7aead4785169a92f744987e31e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png",
+			"previous": " ",
+			"after": " March 3 2011 Telecom Commission of Solomon Islands issues phone company US 1M fine February 22 2011 Libya blocks access to Internet September 1 2010 Telstra becomes the first in the world to switch to HSPA wireless Internet technology",
+			"color": "lavender|0.45922 light|0.16148 sky|0.16148 blue|0.16148 light|0.13782 steel|0.13782 blue|0.13782 alice|0.076793 blue|0.076793 light|0.060282 blue|0.060282 ghost|0.035867 white|0.035867 sky|0.028965 blue|0.028965 white|0.017673 smoke|0.017673 azure|0.014618 gainsboro|0.0037052  ",
+			"after_weights": " March|1 3|0.97368 2011|0.94737 Telecom|0.92105 Commission|0.89474 of|0.86842 Solomon|0.84211 Islands|0.81579 issues|0.78947 phone|0.76316 company|0.73684 US|0.71053 1M|0.68421 fine|0.65789 February|0.63158 22|0.60526 2011|0.57895 Libya|0.55263 blocks|0.52632 access|0.5 to|0.47368 Internet|0.44737 September|0.42105 1|0.39474 2010|0.36842 Telstra|0.34211 becomes|0.31579 the|0.28947 first|0.26316 in|0.23684 the|0.21053 world|0.18421 to|0.15789 switch|0.13158 to|0.10526 HSPA|0.078947 wireless|0.052632 Internet|0.026316 technology|0",
+			"previous_weights": " "
+		}
+	}
+}

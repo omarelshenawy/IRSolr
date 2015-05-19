@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7a501c877813aad0f8597f80eac0109aa8d3ead27cfed7d2243b95ba3696c42",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Queens_Park_Oval_Trinidad.jpg/220px-Queens_Park_Oval_Trinidad.jpg",
+			"previous": " ",
+			"after": " The following eleven stadia have been used for at least one Test match 14 The number of Tests played at each venue followed by the number of One Day Internationals and twenty20 internationals played at that venue is in brackets as of 11 July 2011 ",
+			"color": "dim|0.23149 gray|0.23149 dim|0.23149 grey|0.23149 black|0.21637 dark|0.12059 slate|0.12059 gray|0.12059 gray|0.11303 grey|0.11303 dark|0.051296 gray|0.051296 dark|0.051296 grey|0.051296 dark|0.050052 olive|0.050052 green|0.050052 slate|0.043818 gray|0.043818 silver|0.030231 light|0.026983 slate|0.026983 gray|0.026983 tan|0.022127 light|0.017669 gray|0.017669 light|0.017669 grey|0.017669 gainsboro|0.012165  ",
+			"after_weights": " The|1 following|0.97778 eleven|0.95556 stadia|0.93333 have|0.91111 been|0.88889 used|0.86667 for|0.84444 at|0.82222 least|0.8 one|0.77778 Test|0.75556 match|0.73333 14|0.71111 The|0.68889 number|0.66667 of|0.64444 Tests|0.62222 played|0.6 at|0.57778 each|0.55556 venue|0.53333 followed|0.51111 by|0.48889 the|0.46667 number|0.44444 of|0.42222 One|0.4 Day|0.37778 Internationals|0.35556 and|0.33333 twenty20|0.31111 internationals|0.28889 played|0.26667 at|0.24444 that|0.22222 venue|0.2 is|0.17778 in|0.15556 brackets|0.13333 as|0.11111 of|0.088889 11|0.066667 July|0.044444 2011|0.022222 |0",
+			"previous_weights": " "
+		}
+	}
+}

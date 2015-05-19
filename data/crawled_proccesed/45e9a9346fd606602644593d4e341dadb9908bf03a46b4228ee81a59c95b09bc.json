@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "45e9a9346fd606602644593d4e341dadb9908bf03a46b4228ee81a59c95b09bc",
+			"url": "https://upload.wikimedia.org/math/e/8/9/e89847925fdae063efd118b2c1a85ff9.png",
+			"previous": " The semi minor axis b is the geometric mean between rmin and rmax ",
+			"after": " The semi latus rectum p is the harmonic mean between rmin and rmax  The eccentricity is the coefficient of variation between rmin and rmax ",
+			"color": "black|0.3319 dim|0.22223 gray|0.22223 dim|0.22223 grey|0.22223 gray|0.21259 grey|0.21259 dark|0.18555 gray|0.18555 dark|0.18555 grey|0.18555 silver|0.04453  ",
+			"after_weights": " The|1 semi|0.96 latus|0.92 rectum|0.88 p|0.84 is|0.8 the|0.76 harmonic|0.72 mean|0.68 between|0.64 rmin|0.6 and|0.56 rmax|0.52 |0.48 The|0.44 eccentricity|0.4 is|0.36 the|0.32 coefficient|0.28 of|0.24 variation|0.2 between|0.16 rmin|0.12 and|0.08 rmax|0.04 |0",
+			"previous_weights": " The|0 semi|0.076923 minor|0.15385 axis|0.23077 b|0.30769 is|0.38462 the|0.46154 geometric|0.53846 mean|0.61538 between|0.69231 rmin|0.76923 and|0.84615 rmax|0.92308 |1"
+		}
+	}
+}

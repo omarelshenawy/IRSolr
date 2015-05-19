@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e39d3d12b9115f1ccde4605519cc01f02e3ea72cf64eda30cd9211f9689cea3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Brymon_Dash_8-300.jpg/220px-Brymon_Dash_8-300.jpg",
+			"previous": " On 28 March 2002 the airline was merged with British Regional Airlines and was renamed British Airways Citiexpress Limited operating as British Airways Citiexpress On 1 February 2006 the airline was renamed BA Connect Limited operating as BA Connect BA Connect in turn was sold to Flybe in 2007 ",
+			"after": " Brymon Airways fleet consisted of the following aircraft throughout operations ",
+			"color": "gray|0.068127 grey|0.068127 dark|0.066398 gray|0.066398 dark|0.066398 grey|0.066398 dim|0.064106 gray|0.064106 dim|0.064106 grey|0.064106 white|0.042912 smoke|0.042912 light|0.042164 slate|0.042164 gray|0.042164 slate|0.041845 gray|0.041845 silver|0.039524 alice|0.039238 blue|0.039238 ghost|0.038709 white|0.038709 snow|0.037731 dark|0.036414 olive|0.036414 green|0.036414 light|0.036201 gray|0.036201 light|0.036201 grey|0.036201 white|0.035727 sea|0.034208 shell|0.034208 gainsboro|0.033996 tan|0.033991 mint|0.033851 cream|0.033851 azure|0.03316 floral|0.029924 white|0.029924 lavender|0.027992 blush|0.027992 black|0.027096 gold|0.022614 lavender|0.022317 burly|0.018414 wood|0.018414 midnight|0.014656 blue|0.014656 light|0.013825 steel|0.013825 blue|0.013825  ",
+			"after_weights": " Brymon|1 Airways|0.9 fleet|0.8 consisted|0.7 of|0.6 the|0.5 following|0.4 aircraft|0.3 throughout|0.2 operations|0.1 |0",
+			"previous_weights": " On|0 28|0.020408 March|0.040816 2002|0.061224 the|0.081633 airline|0.10204 was|0.12245 merged|0.14286 with|0.16327 British|0.18367 Regional|0.20408 Airlines|0.22449 and|0.2449 was|0.26531 renamed|0.28571 British|0.30612 Airways|0.32653 Citiexpress|0.34694 Limited|0.36735 operating|0.38776 as|0.40816 British|0.42857 Airways|0.44898 Citiexpress|0.46939 On|0.4898 1|0.5102 February|0.53061 2006|0.55102 the|0.57143 airline|0.59184 was|0.61224 renamed|0.63265 BA|0.65306 Connect|0.67347 Limited|0.69388 operating|0.71429 as|0.73469 BA|0.7551 Connect|0.77551 BA|0.79592 Connect|0.81633 in|0.83673 turn|0.85714 was|0.87755 sold|0.89796 to|0.91837 Flybe|0.93878 in|0.95918 2007|0.97959 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d3ba113f1097dfaa6f88e773807d500d7c03d39bef1c2a929328affb76fe115",
+			"url": "https://upload.wikimedia.org/math/0/2/a/02adf65df5aa00c641df68cddd0c531b.png",
+			"previous": " A submatrix of a matrix is obtained by deleting any collection of rows and or columns 15 16 17 For example from the following 3 by 4 matrix we can construct a 2 by 3 submatrix by removing row 3 and column 2 ",
+			"after": " The minors and cofactors of a matrix are found by computing the determinant of certain submatrices 17 18 ",
+			"color": "black|0.16573 dim|0.11418 gray|0.11418 dim|0.11418 grey|0.11418 gray|0.11248 grey|0.11248 dark|0.10659 gray|0.10659 dark|0.10659 grey|0.10659 red|0.071658 silver|0.034769 misty|0.030984 rose|0.030984 light|0.025959 pink|0.025959 light|0.025616 coral|0.025616 white|0.025194 pink|0.024585 snow|0.024379 mint|0.023586 cream|0.023586 azure|0.02351 white|0.023463 smoke|0.023463 lavender|0.023433 blush|0.023433 ghost|0.022697 white|0.022697 alice|0.022322 blue|0.022322 sea|0.021853 shell|0.021853 floral|0.021135 white|0.021135 salmon|0.020843 light|0.0095444 gray|0.0095444 light|0.0095444 grey|0.0095444 light|0.0072874 cyan|0.0072874 linen|0.0068345 ivory|0.0055063  ",
+			"after_weights": " The|1 minors|0.94444 and|0.88889 cofactors|0.83333 of|0.77778 a|0.72222 matrix|0.66667 are|0.61111 found|0.55556 by|0.5 computing|0.44444 the|0.38889 determinant|0.33333 of|0.27778 certain|0.22222 submatrices|0.16667 17|0.11111 18|0.055556 |0",
+			"previous_weights": " A|0 submatrix|0.023256 of|0.046512 a|0.069767 matrix|0.093023 is|0.11628 obtained|0.13953 by|0.16279 deleting|0.18605 any|0.2093 collection|0.23256 of|0.25581 rows|0.27907 and|0.30233 or|0.32558 columns|0.34884 15|0.37209 16|0.39535 17|0.4186 For|0.44186 example|0.46512 from|0.48837 the|0.51163 following|0.53488 3|0.55814 by|0.5814 4|0.60465 matrix|0.62791 we|0.65116 can|0.67442 construct|0.69767 a|0.72093 2|0.74419 by|0.76744 3|0.7907 submatrix|0.81395 by|0.83721 removing|0.86047 row|0.88372 3|0.90698 and|0.93023 column|0.95349 2|0.97674 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9451dafad36ffa1b6089eb00a686bdb395ef5554e48b864668b36c83041d8376",
+			"url": "https://upload.wikimedia.org/math/d/5/1/d51895fdccbb13274a32dc40ebe9df2f.png",
+			"previous": " Note that in R it is symmetric  that satisfies the following three axioms for all vectors u v w in V and all scalars a in F 16 17 ",
+			"after": " We can define the length of a vector v in V by and we can prove the Cauchy Schwarz inequality  In particular the quantity and so we can call this quantity the cosine of the angle between the two vectors ",
+			"color": "gray|0.33998 grey|0.33998 dim|0.28148 gray|0.28148 dim|0.28148 grey|0.28148 dark|0.21713 gray|0.21713 dark|0.21713 grey|0.21713 silver|0.088959 light|0.037133 gray|0.037133 light|0.037133 grey|0.037133 gainsboro|0.023312 white|0.0032259 smoke|0.0032259  ",
+			"after_weights": " We|1 can|0.97561 define|0.95122 the|0.92683 length|0.90244 of|0.87805 a|0.85366 vector|0.82927 v|0.80488 in|0.78049 V|0.7561 by|0.73171 and|0.70732 we|0.68293 can|0.65854 prove|0.63415 the|0.60976 Cauchy|0.58537 Schwarz|0.56098 inequality|0.53659 |0.5122 In|0.4878 particular|0.46341 the|0.43902 quantity|0.41463 and|0.39024 so|0.36585 we|0.34146 can|0.31707 call|0.29268 this|0.26829 quantity|0.2439 the|0.21951 cosine|0.19512 of|0.17073 the|0.14634 angle|0.12195 between|0.097561 the|0.073171 two|0.04878 vectors|0.02439 |0",
+			"previous_weights": " Note|0 that|0.033333 in|0.066667 R|0.1 it|0.13333 is|0.16667 symmetric|0.2 |0.23333 that|0.26667 satisfies|0.3 the|0.33333 following|0.36667 three|0.4 axioms|0.43333 for|0.46667 all|0.5 vectors|0.53333 u|0.56667 v|0.6 w|0.63333 in|0.66667 V|0.7 and|0.73333 all|0.76667 scalars|0.8 a|0.83333 in|0.86667 F|0.9 16|0.93333 17|0.96667 |1"
+		}
+	}
+}

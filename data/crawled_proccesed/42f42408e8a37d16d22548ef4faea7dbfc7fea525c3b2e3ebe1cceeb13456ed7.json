@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "42f42408e8a37d16d22548ef4faea7dbfc7fea525c3b2e3ebe1cceeb13456ed7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bea_vickers_vanguard_g-apec_arp.jpg/220px-Bea_vickers_vanguard_g-apec_arp.jpg",
+			"previous": " The Viscount s commercial success had made it the leading short haul aircraft in Europe in the mid 1950s This led Lord Douglas to believe that turboprops would continue to be the mainstay of BEA s fleet into the 1960s 7 ",
+			"after": " On 31 March 1955 BEA completed its first profitable financial year recording an operating profit of 552 314 and a nett profit of 63 039 30 ",
+			"color": "dim|0.26482 gray|0.26482 dim|0.26482 grey|0.26482 black|0.13809 gray|0.1114 grey|0.1114 dark|0.084958 gray|0.084958 dark|0.084958 grey|0.084958 light|0.038151 slate|0.038151 gray|0.038151 slate|0.037868 gray|0.037868 white|0.025954 smoke|0.025954 ghost|0.025392 white|0.025392 snow|0.024772 alice|0.024578 blue|0.024578 white|0.023914 silver|0.023563 sea|0.023363 shell|0.023363 lavender|0.021392 blush|0.021392 mint|0.021312 cream|0.021312 floral|0.021085 white|0.021085 azure|0.02095 light|0.014983 gray|0.014983 light|0.014983 grey|0.014983 gainsboro|0.012675  ",
+			"after_weights": " On|1 31|0.96154 March|0.92308 1955|0.88462 BEA|0.84615 completed|0.80769 its|0.76923 first|0.73077 profitable|0.69231 financial|0.65385 year|0.61538 recording|0.57692 an|0.53846 operating|0.5 profit|0.46154 of|0.42308 552|0.38462 314|0.34615 and|0.30769 a|0.26923 nett|0.23077 profit|0.19231 of|0.15385 63|0.11538 039|0.076923 30|0.038462 |0",
+			"previous_weights": " The|0 Viscount|0.02439 s|0.04878 commercial|0.073171 success|0.097561 had|0.12195 made|0.14634 it|0.17073 the|0.19512 leading|0.21951 short|0.2439 haul|0.26829 aircraft|0.29268 in|0.31707 Europe|0.34146 in|0.36585 the|0.39024 mid|0.41463 1950s|0.43902 This|0.46341 led|0.4878 Lord|0.5122 Douglas|0.53659 to|0.56098 believe|0.58537 that|0.60976 turboprops|0.63415 would|0.65854 continue|0.68293 to|0.70732 be|0.73171 the|0.7561 mainstay|0.78049 of|0.80488 BEA|0.82927 s|0.85366 fleet|0.87805 into|0.90244 the|0.92683 1960s|0.95122 7|0.97561 |1"
+		}
+	}
+}

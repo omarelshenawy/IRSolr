@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7134e074e4ec6f21188e35deb5122d0ae72bc2c6500d6d9434c4c5418732ad9e",
+			"url": "https://upload.wikimedia.org/math/d/1/2/d128a258d310c67addf3bf877f0a3ba4.png",
+			"previous": " A quadratic B zier curve is the path traced by the function B t given points P0 P1 and P2 ",
+			"after": " which can be interpreted as the linear interpolant of corresponding points on the linear B zier curves from P0 to P1 and from P1 to P2 respectively Rearranging the preceding equation yields ",
+			"color": "dim|0.36219 gray|0.36219 dim|0.36219 grey|0.36219 gray|0.266 grey|0.266 dark|0.17241 gray|0.17241 dark|0.17241 grey|0.17241 silver|0.087568 light|0.049817 gray|0.049817 light|0.049817 grey|0.049817 gainsboro|0.037387 white|0.0062965 smoke|0.0062965 linen|0.0032633  ",
+			"after_weights": " which|1 can|0.96875 be|0.9375 interpreted|0.90625 as|0.875 the|0.84375 linear|0.8125 interpolant|0.78125 of|0.75 corresponding|0.71875 points|0.6875 on|0.65625 the|0.625 linear|0.59375 B|0.5625 zier|0.53125 curves|0.5 from|0.46875 P0|0.4375 to|0.40625 P1|0.375 and|0.34375 from|0.3125 P1|0.28125 to|0.25 P2|0.21875 respectively|0.1875 Rearranging|0.15625 the|0.125 preceding|0.09375 equation|0.0625 yields|0.03125 |0",
+			"previous_weights": " A|0 quadratic|0.05 B|0.1 zier|0.15 curve|0.2 is|0.25 the|0.3 path|0.35 traced|0.4 by|0.45 the|0.5 function|0.55 B|0.6 t|0.65 given|0.7 points|0.75 P0|0.8 P1|0.85 and|0.9 P2|0.95 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1360c53233f1cd29e462e5d8b9c1572aaf23d3f67e11170ddae6d66f191ffff6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/HAtomOrbitals.png/271px-HAtomOrbitals.png",
+			"previous": " Note that the characteristic equation for a rotation is a quadratic equation with discriminant which is a negative number whenever is not an integer multiple of 180 Therefore except for these special cases the two eigenvalues are complex numbers and all eigenvectors have non real entries Indeed except for those special cases a rotation changes the direction of every nonzero vector in the plane ",
+			"after": " An example of an eigenvalue equation where the transformation is represented in terms of a differential operator is the time independent Schr dinger equation in quantum mechanics ",
+			"color": "dark|0.40125 red|0.40125 maroon|0.34136 dark|0.10397 orange|0.10397 black|0.054643 sandy|0.028635 brown|0.028635 navajo|0.010295 white|0.010295  ",
+			"after_weights": " An|1 example|0.96296 of|0.92593 an|0.88889 eigenvalue|0.85185 equation|0.81481 where|0.77778 the|0.74074 transformation|0.7037 is|0.66667 represented|0.62963 in|0.59259 terms|0.55556 of|0.51852 a|0.48148 differential|0.44444 operator|0.40741 is|0.37037 the|0.33333 time|0.2963 independent|0.25926 Schr|0.22222 dinger|0.18519 equation|0.14815 in|0.11111 quantum|0.074074 mechanics|0.037037 |0",
+			"previous_weights": " Note|0 that|0.015625 the|0.03125 characteristic|0.046875 equation|0.0625 for|0.078125 a|0.09375 rotation|0.10938 is|0.125 a|0.14062 quadratic|0.15625 equation|0.17188 with|0.1875 discriminant|0.20312 which|0.21875 is|0.23438 a|0.25 negative|0.26562 number|0.28125 whenever|0.29688 is|0.3125 not|0.32812 an|0.34375 integer|0.35938 multiple|0.375 of|0.39062 180|0.40625 Therefore|0.42188 except|0.4375 for|0.45312 these|0.46875 special|0.48438 cases|0.5 the|0.51562 two|0.53125 eigenvalues|0.54688 are|0.5625 complex|0.57812 numbers|0.59375 and|0.60938 all|0.625 eigenvectors|0.64062 have|0.65625 non|0.67188 real|0.6875 entries|0.70312 Indeed|0.71875 except|0.73438 for|0.75 those|0.76562 special|0.78125 cases|0.79688 a|0.8125 rotation|0.82812 changes|0.84375 the|0.85938 direction|0.875 of|0.89062 every|0.90625 nonzero|0.92188 vector|0.9375 in|0.95312 the|0.96875 plane|0.98438 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "28f298573e0fc3825c2d90f334ac92f4c7f7207c693bf32c85078ea79b38a67c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Db_null.png/120px-Db_null.png",
+			"previous": " ",
+			"after": " Null has been the focus of controversy and a source of debate because of its associated three valued logic 3VL special requirements for its use in SQL joins and the special handling required by aggregate functions and SQL grouping operators Although special functions and predicates are provided to properly handle Nulls opponents feel that resolving these issues introduces unnecessary complexity and inconsistency into the relational model of databases ",
+			"color": "silver|0.14775 dark|0.14435 gray|0.14435 dark|0.14435 grey|0.14435 light|0.12737 gray|0.12737 light|0.12737 grey|0.12737 gainsboro|0.10852 gray|0.070671 grey|0.070671 gold|0.049551 dim|0.039554 gray|0.039554 dim|0.039554 grey|0.039554 white|0.030592 smoke|0.030592 dark|0.026688 red|0.026688 maroon|0.025798 dark|0.020294 orange|0.020294 lavender|0.020031 blush|0.020031 alice|0.019905 blue|0.019905 ghost|0.019868 white|0.019868 sea|0.01934 shell|0.01934 snow|0.019064 white|0.016653 orange|0.016313 mint|0.014194 cream|0.014194 linen|0.013184 floral|0.011252 white|0.011252 azure|0.0093408 khaki|0.0066609 golden|0.0055155 rod|0.0055155 peru|0.005004  ",
+			"after_weights": " Null|1 has|0.98529 been|0.97059 the|0.95588 focus|0.94118 of|0.92647 controversy|0.91176 and|0.89706 a|0.88235 source|0.86765 of|0.85294 debate|0.83824 because|0.82353 of|0.80882 its|0.79412 associated|0.77941 three|0.76471 valued|0.75 logic|0.73529 3VL|0.72059 special|0.70588 requirements|0.69118 for|0.67647 its|0.66176 use|0.64706 in|0.63235 SQL|0.61765 joins|0.60294 and|0.58824 the|0.57353 special|0.55882 handling|0.54412 required|0.52941 by|0.51471 aggregate|0.5 functions|0.48529 and|0.47059 SQL|0.45588 grouping|0.44118 operators|0.42647 Although|0.41176 special|0.39706 functions|0.38235 and|0.36765 predicates|0.35294 are|0.33824 provided|0.32353 to|0.30882 properly|0.29412 handle|0.27941 Nulls|0.26471 opponents|0.25 feel|0.23529 that|0.22059 resolving|0.20588 these|0.19118 issues|0.17647 introduces|0.16176 unnecessary|0.14706 complexity|0.13235 and|0.11765 inconsistency|0.10294 into|0.088235 the|0.073529 relational|0.058824 model|0.044118 of|0.029412 databases|0.014706 |0",
+			"previous_weights": " "
+		}
+	}
+}

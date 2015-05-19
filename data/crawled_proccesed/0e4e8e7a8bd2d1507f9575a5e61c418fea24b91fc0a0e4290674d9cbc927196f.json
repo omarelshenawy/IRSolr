@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e4e8e7a8bd2d1507f9575a5e61c418fea24b91fc0a0e4290674d9cbc927196f",
+			"url": "https://upload.wikimedia.org/math/b/2/c/b2c6c0cf5460cf1302b6b2596df64a07.png",
+			"previous": " In probability theory there are several notions of convergence for random variables They are listed below in the order of strength i e any subsequent notion of convergence in the list implies convergence according to all of the preceding notions ",
+			"after": " ",
+			"color": "dim|0.32359 gray|0.32359 dim|0.32359 grey|0.32359 gray|0.2842 grey|0.2842 dark|0.19664 gray|0.19664 dark|0.19664 grey|0.19664 silver|0.098936 light|0.047625 gray|0.047625 light|0.047625 grey|0.047625 gainsboro|0.035091 white|0.0037762 smoke|0.0037762  ",
+			"after_weights": " ",
+			"previous_weights": " In|0 probability|0.025 theory|0.05 there|0.075 are|0.1 several|0.125 notions|0.15 of|0.175 convergence|0.2 for|0.225 random|0.25 variables|0.275 They|0.3 are|0.325 listed|0.35 below|0.375 in|0.4 the|0.425 order|0.45 of|0.475 strength|0.5 i|0.525 e|0.55 any|0.575 subsequent|0.6 notion|0.625 of|0.65 convergence|0.675 in|0.7 the|0.725 list|0.75 implies|0.775 convergence|0.8 according|0.825 to|0.85 all|0.875 of|0.9 the|0.925 preceding|0.95 notions|0.975 |1"
+		}
+	}
+}

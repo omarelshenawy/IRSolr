@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4548cf2a41cfe68c2f4f547602ec0017db0f694b4e38b506c81d2f40b880a2f7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Italian_farrier_2006_1.jpg/220px-Italian_farrier_2006_1.jpg",
+			"previous": " Easy keeper US or good doer UK  Casting cast A term of art in equine conformation to describe the quality of certain skeletal structures ",
+			"after": " Hard keeper US or poor doer UK  Livery stable or Livery yard",
+			"color": "black|0.12555 lavender|0.10597 silver|0.082692 light|0.081423 gray|0.081423 light|0.081423 grey|0.081423 dark|0.079393 gray|0.079393 dark|0.079393 grey|0.079393 gainsboro|0.072575 dim|0.047259 gray|0.047259 dim|0.047259 grey|0.047259 gray|0.042097 grey|0.042097 alice|0.039172 blue|0.039172 ghost|0.038596 white|0.038596 white|0.031987 smoke|0.031987 lavender|0.028613 blush|0.028613 snow|0.023684 slate|0.021678 gray|0.021678 white|0.019988 light|0.019927 steel|0.019927 blue|0.019927 sea|0.019825 shell|0.019825 light|0.01574 slate|0.01574 gray|0.01574 floral|0.01511 white|0.01511 azure|0.013988 mint|0.013931 cream|0.013931 linen|0.012836 antique|0.0081538 white|0.0081538 old|0.0071485 lace|0.0071485 misty|0.0064614 rose|0.0064614  ",
+			"after_weights": " Hard|1 keeper|0.91667 US|0.83333 or|0.75 poor|0.66667 doer|0.58333 UK|0.5 |0.41667 Livery|0.33333 stable|0.25 or|0.16667 Livery|0.083333 yard|0",
+			"previous_weights": " Easy|0 keeper|0.04 US|0.08 or|0.12 good|0.16 doer|0.2 UK|0.24 |0.28 Casting|0.32 cast|0.36 A|0.4 term|0.44 of|0.48 art|0.52 in|0.56 equine|0.6 conformation|0.64 to|0.68 describe|0.72 the|0.76 quality|0.8 of|0.84 certain|0.88 skeletal|0.92 structures|0.96 |1"
+		}
+	}
+}

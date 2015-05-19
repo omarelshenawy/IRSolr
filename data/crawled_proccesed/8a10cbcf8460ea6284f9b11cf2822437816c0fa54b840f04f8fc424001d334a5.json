@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a10cbcf8460ea6284f9b11cf2822437816c0fa54b840f04f8fc424001d334a5",
+			"url": "https://upload.wikimedia.org/math/c/e/1/ce1f2545a29da384785a5bd9f88b920e.png",
+			"previous": " Doppler shift depends upon whether the radar configuration is active or passive Active radar transmits a signal that is reflected back to the receiver Passive radar depends upon the object sending a signal to the receiver ",
+			"after": " ",
+			"color": "gray|0.34815 grey|0.34815 dark|0.25723 gray|0.25723 dark|0.25723 grey|0.25723 dim|0.16316 gray|0.16316 dim|0.16316 grey|0.16316 silver|0.10734 light|0.050028 gray|0.050028 light|0.050028 grey|0.050028 gainsboro|0.037672 white|0.0089393 smoke|0.0089393 linen|0.0049301 lavender|0.0041784 blush|0.0041784 alice|0.0041212 blue|0.0041212 ghost|0.0039541 white|0.0039541 sea|0.0036882 shell|0.0036882 snow|0.0035271  ",
+			"after_weights": " ",
+			"previous_weights": " Doppler|0 shift|0.027778 depends|0.055556 upon|0.083333 whether|0.11111 the|0.13889 radar|0.16667 configuration|0.19444 is|0.22222 active|0.25 or|0.27778 passive|0.30556 Active|0.33333 radar|0.36111 transmits|0.38889 a|0.41667 signal|0.44444 that|0.47222 is|0.5 reflected|0.52778 back|0.55556 to|0.58333 the|0.61111 receiver|0.63889 Passive|0.66667 radar|0.69444 depends|0.72222 upon|0.75 the|0.77778 object|0.80556 sending|0.83333 a|0.86111 signal|0.88889 to|0.91667 the|0.94444 receiver|0.97222 |1"
+		}
+	}
+}

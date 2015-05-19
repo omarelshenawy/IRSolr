@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8bd2b6d94e35000c1c6555030e589828ca1e13474692214dd99f4f8b7d1cd914",
+			"url": "https://upload.wikimedia.org/math/0/0/6/0069fd5cf07098f5022e7b98d242e05b.png",
+			"previous": " If is an eigenvalue of then the operator is not one to one and therefore its inverse does not exist The converse is true for finite dimensional vector spaces but not for infinite dimensional ones In general the operator may not have an inverse even if is not an eigenvalue ",
+			"after": " ",
+			"color": "dim|0.3336 gray|0.3336 dim|0.3336 grey|0.3336 gray|0.27042 grey|0.27042 dark|0.18533 gray|0.18533 dark|0.18533 grey|0.18533 silver|0.097037 light|0.054493 gray|0.054493 light|0.054493 grey|0.054493 gainsboro|0.038202 white|0.0047532 smoke|0.0047532  ",
+			"after_weights": " ",
+			"previous_weights": " If|0 is|0.02 an|0.04 eigenvalue|0.06 of|0.08 then|0.1 the|0.12 operator|0.14 is|0.16 not|0.18 one|0.2 to|0.22 one|0.24 and|0.26 therefore|0.28 its|0.3 inverse|0.32 does|0.34 not|0.36 exist|0.38 The|0.4 converse|0.42 is|0.44 true|0.46 for|0.48 finite|0.5 dimensional|0.52 vector|0.54 spaces|0.56 but|0.58 not|0.6 for|0.62 infinite|0.64 dimensional|0.66 ones|0.68 In|0.7 general|0.72 the|0.74 operator|0.76 may|0.78 not|0.8 have|0.82 an|0.84 inverse|0.86 even|0.88 if|0.9 is|0.92 not|0.94 an|0.96 eigenvalue|0.98 |1"
+		}
+	}
+}

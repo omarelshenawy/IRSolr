@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4605ed7c55e32ee7f5d2f91ba81b13882d88e0acb63e800d6992d5c7f5beef9d",
+			"url": "https://upload.wikimedia.org/math/5/2/f/52f5e2ac58d8108a9d353319158f6b2e.png",
+			"previous": " E g ",
+			"after": " Note that for polynomials over a ring containing divisors of zero this is not necessarily true For example in but  The set of polynomials with coefficients from a given field F and degree smaller than or equal to a given number n thus forms a vector space Note however that this set is not a ring as it is not closed under multiplication as is seen below ",
+			"color": "dim|0.34395 gray|0.34395 dim|0.34395 grey|0.34395 gray|0.25889 grey|0.25889 dark|0.17046 gray|0.17046 dark|0.17046 grey|0.17046 silver|0.079175 black|0.063834 light|0.040707 gray|0.040707 light|0.040707 grey|0.040707 gainsboro|0.028026 white|0.0040824 smoke|0.0040824  ",
+			"after_weights": " Note|1 that|0.98529 for|0.97059 polynomials|0.95588 over|0.94118 a|0.92647 ring|0.91176 containing|0.89706 divisors|0.88235 of|0.86765 zero|0.85294 this|0.83824 is|0.82353 not|0.80882 necessarily|0.79412 true|0.77941 For|0.76471 example|0.75 in|0.73529 but|0.72059 |0.70588 The|0.69118 set|0.67647 of|0.66176 polynomials|0.64706 with|0.63235 coefficients|0.61765 from|0.60294 a|0.58824 given|0.57353 field|0.55882 F|0.54412 and|0.52941 degree|0.51471 smaller|0.5 than|0.48529 or|0.47059 equal|0.45588 to|0.44118 a|0.42647 given|0.41176 number|0.39706 n|0.38235 thus|0.36765 forms|0.35294 a|0.33824 vector|0.32353 space|0.30882 Note|0.29412 however|0.27941 that|0.26471 this|0.25 set|0.23529 is|0.22059 not|0.20588 a|0.19118 ring|0.17647 as|0.16176 it|0.14706 is|0.13235 not|0.11765 closed|0.10294 under|0.088235 multiplication|0.073529 as|0.058824 is|0.044118 seen|0.029412 below|0.014706 |0",
+			"previous_weights": " E|0 g|0.5 |1"
+		}
+	}
+}

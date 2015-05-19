@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ddff2c2c7edfe325b9586e93a93224e6078c6ee9049d53da56a45c861e85701",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cathartes_aura_-Mexico-8.jpg/180px-Cathartes_aura_-Mexico-8.jpg",
+			"previous": " The family Threskiornithidae includes the ibises and spoonbills They have long broad wings Their bodies are elongated the neck more so with long legs The bill is also long curved downward in the ibises straight and markedly flattened in the spoonbills ",
+			"after": " Order Ciconiiformes Family Cathartidae",
+			"color": "dark|0.37236 gray|0.37236 dark|0.37236 grey|0.37236 tan|0.19487 dim|0.10546 gray|0.10546 dim|0.10546 grey|0.10546 silver|0.077054 gray|0.048993 grey|0.048993 black|0.0338 thistle|0.020566 olive|0.020546 olive|0.019505 drab|0.019505 dark|0.018636 khaki|0.018636  ",
+			"after_weights": " Order|1 Ciconiiformes|0.66667 Family|0.33333 Cathartidae|0",
+			"previous_weights": " The|0 family|0.02439 Threskiornithidae|0.04878 includes|0.073171 the|0.097561 ibises|0.12195 and|0.14634 spoonbills|0.17073 They|0.19512 have|0.21951 long|0.2439 broad|0.26829 wings|0.29268 Their|0.31707 bodies|0.34146 are|0.36585 elongated|0.39024 the|0.41463 neck|0.43902 more|0.46341 so|0.4878 with|0.5122 long|0.53659 legs|0.56098 The|0.58537 bill|0.60976 is|0.63415 also|0.65854 long|0.68293 curved|0.70732 downward|0.73171 in|0.7561 the|0.78049 ibises|0.80488 straight|0.82927 and|0.85366 markedly|0.87805 flattened|0.90244 in|0.92683 the|0.95122 spoonbills|0.97561 |1"
+		}
+	}
+}

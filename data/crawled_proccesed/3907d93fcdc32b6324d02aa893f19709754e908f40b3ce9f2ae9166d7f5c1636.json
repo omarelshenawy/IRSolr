@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3907d93fcdc32b6324d02aa893f19709754e908f40b3ce9f2ae9166d7f5c1636",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flight_take_off.webm/220px--Flight_take_off.webm.jpg",
+			"previous": " A rocket launch is the takeoff phase of the flight of a rocket Launches for orbital spaceflights or launches into interplanetary space are usually from a fixed location on the ground but may also be from a floating platform such as the San Marco platform or the Sea Launch launch vessel ",
+			"after": " ",
+			"color": "dim|0.16009 gray|0.16009 dim|0.16009 grey|0.16009 light|0.13651 gray|0.13651 light|0.13651 grey|0.13651 gray|0.13513 grey|0.13513 gainsboro|0.12593 silver|0.096438 dark|0.049328 gray|0.049328 dark|0.049328 grey|0.049328 linen|0.048741 white|0.046355 smoke|0.046355 sea|0.032627 shell|0.032627 floral|0.023061 white|0.023061 snow|0.023006 mint|0.022178 cream|0.022178 old|0.017043 lace|0.017043 white|0.015302 azure|0.013006 slate|0.012782 gray|0.012782 alice|0.01254 blue|0.01254 light|0.010643 slate|0.010643 gray|0.010643  ",
+			"after_weights": " ",
+			"previous_weights": " A|0 rocket|0.019608 launch|0.039216 is|0.058824 the|0.078431 takeoff|0.098039 phase|0.11765 of|0.13725 the|0.15686 flight|0.17647 of|0.19608 a|0.21569 rocket|0.23529 Launches|0.2549 for|0.27451 orbital|0.29412 spaceflights|0.31373 or|0.33333 launches|0.35294 into|0.37255 interplanetary|0.39216 space|0.41176 are|0.43137 usually|0.45098 from|0.47059 a|0.4902 fixed|0.5098 location|0.52941 on|0.54902 the|0.56863 ground|0.58824 but|0.60784 may|0.62745 also|0.64706 be|0.66667 from|0.68627 a|0.70588 floating|0.72549 platform|0.7451 such|0.76471 as|0.78431 the|0.80392 San|0.82353 Marco|0.84314 platform|0.86275 or|0.88235 the|0.90196 Sea|0.92157 Launch|0.94118 launch|0.96078 vessel|0.98039 |1"
+		}
+	}
+}

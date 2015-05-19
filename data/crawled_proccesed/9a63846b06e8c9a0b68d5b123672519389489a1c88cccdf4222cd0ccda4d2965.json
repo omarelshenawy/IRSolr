@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a63846b06e8c9a0b68d5b123672519389489a1c88cccdf4222cd0ccda4d2965",
+			"url": "https://upload.wikimedia.org/math/a/6/7/a677bbb63867aa9601560547d9c9ee0c.png",
+			"previous": " Turbine polytropic efficiency  Compressor polytropic efficiency  Intake pressure recovery factor  Design component performance assumptions ",
+			"after": " Jetpipe pressure loss 1 so the jetpipe pressure ratio Nozzle thrust coefficient  Constants  Ratio of specific heats for air ",
+			"color": "gray|0.31971 grey|0.31971 dim|0.30526 gray|0.30526 dim|0.30526 grey|0.30526 dark|0.21002 gray|0.21002 dark|0.21002 grey|0.21002 silver|0.085775 light|0.037496 gray|0.037496 light|0.037496 grey|0.037496 gainsboro|0.0255 white|0.0047008 smoke|0.0047008  ",
+			"after_weights": " Jetpipe|1 pressure|0.95238 loss|0.90476 1|0.85714 so|0.80952 the|0.7619 jetpipe|0.71429 pressure|0.66667 ratio|0.61905 Nozzle|0.57143 thrust|0.52381 coefficient|0.47619 |0.42857 Constants|0.38095 |0.33333 Ratio|0.28571 of|0.2381 specific|0.19048 heats|0.14286 for|0.095238 air|0.047619 |0",
+			"previous_weights": " Turbine|0 polytropic|0.058824 efficiency|0.11765 |0.17647 Compressor|0.23529 polytropic|0.29412 efficiency|0.35294 |0.41176 Intake|0.47059 pressure|0.52941 recovery|0.58824 factor|0.64706 |0.70588 Design|0.76471 component|0.82353 performance|0.88235 assumptions|0.94118 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fa7ccb0138012a6da18dbe6a139865cc51ce7a8e0f2f7d8937812ee61f2c3ec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%E9%94%A6%E9%87%8C2.JPG/220px-%E9%94%A6%E9%87%8C2.JPG",
+			"previous": " Historic architecture has been well preserved in the Wide and Narrow lanes  The Wide and Narrow Lanes Kuan Xiangzi and Zhai Xiangzi were first built during the Qing dynasty for Manchu soldiers The lanes remained residential until 2003 when the local government turned the area into a mixed use strip of restaurants teahouses bars avant garde galleries and residential houses ",
+			"after": " Nearby Wuhou Shrine Jinli is a popular commercial and dining area resembling the style of traditional architecture of western Sichuan Jinli is the name of an old street in Chengdu dating from the Han dynasty and means making perfection more perfect ",
+			"color": "black|0.93186 saddle|0.01048 brown|0.01048  ",
+			"after_weights": " Nearby|1 Wuhou|0.97561 Shrine|0.95122 Jinli|0.92683 is|0.90244 a|0.87805 popular|0.85366 commercial|0.82927 and|0.80488 dining|0.78049 area|0.7561 resembling|0.73171 the|0.70732 style|0.68293 of|0.65854 traditional|0.63415 architecture|0.60976 of|0.58537 western|0.56098 Sichuan|0.53659 Jinli|0.5122 is|0.4878 the|0.46341 name|0.43902 of|0.41463 an|0.39024 old|0.36585 street|0.34146 in|0.31707 Chengdu|0.29268 dating|0.26829 from|0.2439 the|0.21951 Han|0.19512 dynasty|0.17073 and|0.14634 means|0.12195 making|0.097561 perfection|0.073171 more|0.04878 perfect|0.02439 |0",
+			"previous_weights": " Historic|0 architecture|0.016393 has|0.032787 been|0.04918 well|0.065574 preserved|0.081967 in|0.098361 the|0.11475 Wide|0.13115 and|0.14754 Narrow|0.16393 lanes|0.18033 |0.19672 The|0.21311 Wide|0.22951 and|0.2459 Narrow|0.2623 Lanes|0.27869 Kuan|0.29508 Xiangzi|0.31148 and|0.32787 Zhai|0.34426 Xiangzi|0.36066 were|0.37705 first|0.39344 built|0.40984 during|0.42623 the|0.44262 Qing|0.45902 dynasty|0.47541 for|0.4918 Manchu|0.5082 soldiers|0.52459 The|0.54098 lanes|0.55738 remained|0.57377 residential|0.59016 until|0.60656 2003|0.62295 when|0.63934 the|0.65574 local|0.67213 government|0.68852 turned|0.70492 the|0.72131 area|0.7377 into|0.7541 a|0.77049 mixed|0.78689 use|0.80328 strip|0.81967 of|0.83607 restaurants|0.85246 teahouses|0.86885 bars|0.88525 avant|0.90164 garde|0.91803 galleries|0.93443 and|0.95082 residential|0.96721 houses|0.98361 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "818b6fd705a8cdeff4d7bac3e76364c11c45371d3bd9f9c7064079ee9677ecc7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Northernmockingbird.jpg/300px-Northernmockingbird.jpg",
+			"previous": " ",
+			"after": " This list of birds of Florida contains every wild bird species identified in the U S state of Florida as accepted by the Florida Ornithological Society Records Committee FOSRC as of August 17 2013 1 ",
+			"color": "dark|0.25032 olive|0.25032 green|0.25032 dark|0.20313 gray|0.20313 dark|0.20313 grey|0.20313 gray|0.18118 grey|0.18118 olive|0.10979 drab|0.10979 silver|0.089468 dim|0.071798 gray|0.071798 dim|0.071798 grey|0.071798 light|0.036627 gray|0.036627 light|0.036627 grey|0.036627 gainsboro|0.021033 olive|0.013907  ",
+			"after_weights": " This|1 list|0.97143 of|0.94286 birds|0.91429 of|0.88571 Florida|0.85714 contains|0.82857 every|0.8 wild|0.77143 bird|0.74286 species|0.71429 identified|0.68571 in|0.65714 the|0.62857 U|0.6 S|0.57143 state|0.54286 of|0.51429 Florida|0.48571 as|0.45714 accepted|0.42857 by|0.4 the|0.37143 Florida|0.34286 Ornithological|0.31429 Society|0.28571 Records|0.25714 Committee|0.22857 FOSRC|0.2 as|0.17143 of|0.14286 August|0.11429 17|0.085714 2013|0.057143 1|0.028571 |0",
+			"previous_weights": " "
+		}
+	}
+}

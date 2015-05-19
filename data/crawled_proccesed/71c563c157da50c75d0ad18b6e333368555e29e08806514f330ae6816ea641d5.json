@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "71c563c157da50c75d0ad18b6e333368555e29e08806514f330ae6816ea641d5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Flag_IMARO.svg/23px-Flag_IMARO.svg.png",
+			"previous": " Occupied territories of Nazi Germany German occupied territory of Montenegro Kingdom of Hungary Territory of the Military Commander in Serbia Puppet government of Nazi Germany Commissioner Government",
+			"after": " ",
+			"color": "black|0.95714 firebrick|0.025 brown|0.017857  ",
+			"after_weights": " ",
+			"previous_weights": " Occupied|0 territories|0.038462 of|0.076923 Nazi|0.11538 Germany|0.15385 German|0.19231 occupied|0.23077 territory|0.26923 of|0.30769 Montenegro|0.34615 Kingdom|0.38462 of|0.42308 Hungary|0.46154 Territory|0.5 of|0.53846 the|0.57692 Military|0.61538 Commander|0.65385 in|0.69231 Serbia|0.73077 Puppet|0.76923 government|0.80769 of|0.84615 Nazi|0.88462 Germany|0.92308 Commissioner|0.96154 Government|1"
+		}
+	}
+}

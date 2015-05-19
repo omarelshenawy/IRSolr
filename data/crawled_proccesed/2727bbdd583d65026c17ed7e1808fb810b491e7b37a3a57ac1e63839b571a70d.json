@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "2727bbdd583d65026c17ed7e1808fb810b491e7b37a3a57ac1e63839b571a70d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kevx_radar_080801_0354.gif/230px-Kevx_radar_080801_0354.gif",
+			"previous": " ",
+			"after": " Tropical Storm Barry was a strong tropical storm that made landfall on the Florida Panhandle during August 2001 The third tropical cyclone and second named storm of the 2001 Atlantic hurricane season Barry developed from a tropical wave that moved off the coast of Africa on July 24 and tracked westward The wave entered the Caribbean on July 29 and spawned a low pressure area that organized into Tropical Storm Barry on August 3 After fluctuations in intensity and track the system attained peak winds of 70 mph 110 km h in the Gulf of Mexico and headed northward before moving ashore on the Gulf Coast ",
+			"color": " ",
+			"after_weights": " Tropical|1 Storm|0.99057 Barry|0.98113 was|0.9717 a|0.96226 strong|0.95283 tropical|0.9434 storm|0.93396 that|0.92453 made|0.91509 landfall|0.90566 on|0.89623 the|0.88679 Florida|0.87736 Panhandle|0.86792 during|0.85849 August|0.84906 2001|0.83962 The|0.83019 third|0.82075 tropical|0.81132 cyclone|0.80189 and|0.79245 second|0.78302 named|0.77358 storm|0.76415 of|0.75472 the|0.74528 2001|0.73585 Atlantic|0.72642 hurricane|0.71698 season|0.70755 Barry|0.69811 developed|0.68868 from|0.67925 a|0.66981 tropical|0.66038 wave|0.65094 that|0.64151 moved|0.63208 off|0.62264 the|0.61321 coast|0.60377 of|0.59434 Africa|0.58491 on|0.57547 July|0.56604 24|0.5566 and|0.54717 tracked|0.53774 westward|0.5283 The|0.51887 wave|0.50943 entered|0.5 the|0.49057 Caribbean|0.48113 on|0.4717 July|0.46226 29|0.45283 and|0.4434 spawned|0.43396 a|0.42453 low|0.41509 pressure|0.40566 area|0.39623 that|0.38679 organized|0.37736 into|0.36792 Tropical|0.35849 Storm|0.34906 Barry|0.33962 on|0.33019 August|0.32075 3|0.31132 After|0.30189 fluctuations|0.29245 in|0.28302 intensity|0.27358 and|0.26415 track|0.25472 the|0.24528 system|0.23585 attained|0.22642 peak|0.21698 winds|0.20755 of|0.19811 70|0.18868 mph|0.17925 110|0.16981 km|0.16038 h|0.15094 in|0.14151 the|0.13208 Gulf|0.12264 of|0.11321 Mexico|0.10377 and|0.09434 headed|0.084906 northward|0.075472 before|0.066038 moving|0.056604 ashore|0.04717 on|0.037736 the|0.028302 Gulf|0.018868 Coast|0.009434 |0",
+			"previous_weights": " "
+		}
+	}
+}

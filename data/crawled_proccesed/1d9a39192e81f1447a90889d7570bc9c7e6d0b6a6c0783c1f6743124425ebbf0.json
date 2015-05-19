@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d9a39192e81f1447a90889d7570bc9c7e6d0b6a6c0783c1f6743124425ebbf0",
+			"url": "https://upload.wikimedia.org/math/8/6/0/860142c4ebf5f1783b83bf382c120bc2.png",
+			"previous": " In the early 20th century G H Hardy and Littlewood proved many results about the zeta function in an attempt to prove the Riemann Hypothesis In fact in 1914 Hardy proved that there were infinitely many zeros of the zeta function on the critical line",
+			"after": " This led to several theorems describing the density of the zeros on the critical line ",
+			"color": "dim|0.42854 gray|0.42854 dim|0.42854 grey|0.42854 gray|0.29557 grey|0.29557 dark|0.15007 gray|0.15007 dark|0.15007 grey|0.15007 silver|0.060853 light|0.029064 gray|0.029064 light|0.029064 grey|0.029064 gainsboro|0.020442 white|0.0041151 smoke|0.0041151  ",
+			"after_weights": " This|1 led|0.93333 to|0.86667 several|0.8 theorems|0.73333 describing|0.66667 the|0.6 density|0.53333 of|0.46667 the|0.4 zeros|0.33333 on|0.26667 the|0.2 critical|0.13333 line|0.066667 |0",
+			"previous_weights": " In|0 the|0.022727 early|0.045455 20th|0.068182 century|0.090909 G|0.11364 H|0.13636 Hardy|0.15909 and|0.18182 Littlewood|0.20455 proved|0.22727 many|0.25 results|0.27273 about|0.29545 the|0.31818 zeta|0.34091 function|0.36364 in|0.38636 an|0.40909 attempt|0.43182 to|0.45455 prove|0.47727 the|0.5 Riemann|0.52273 Hypothesis|0.54545 In|0.56818 fact|0.59091 in|0.61364 1914|0.63636 Hardy|0.65909 proved|0.68182 that|0.70455 there|0.72727 were|0.75 infinitely|0.77273 many|0.79545 zeros|0.81818 of|0.84091 the|0.86364 zeta|0.88636 function|0.90909 on|0.93182 the|0.95455 critical|0.97727 line|1"
+		}
+	}
+}

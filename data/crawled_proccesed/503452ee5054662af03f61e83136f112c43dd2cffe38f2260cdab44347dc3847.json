@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "503452ee5054662af03f61e83136f112c43dd2cffe38f2260cdab44347dc3847",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Turbofan_operation_lbp.svg/220px-Turbofan_operation_lbp.svg.png",
+			"previous": " ",
+			"after": " A high specific thrust low bypass ratio turbofan normally has a multi stage fan developing a relatively high pressure ratio and thus yielding a high mixed or cold exhaust velocity The core airflow needs to be large enough to give sufficient core power to drive the fan A smaller core flow higher bypass ratio cycle can be achieved by raising the HP turbine rotor inlet temperature ",
+			"color": "light|0.19146 gray|0.19146 light|0.19146 grey|0.19146 gainsboro|0.17458 misty|0.16289 rose|0.16289 dark|0.082414 gray|0.082414 dark|0.082414 grey|0.082414 silver|0.064644 dark|0.064339 olive|0.064339 green|0.064339 gray|0.060598 grey|0.060598 light|0.047476 pink|0.047476 rosy|0.03519 brown|0.03519 dim|0.019452 gray|0.019452 dim|0.019452 grey|0.019452 khaki|0.011371 powder|0.010929 blue|0.010929 thistle|0.0079165 pale|0.0074704 golden|0.0074704 rod|0.0074704 light|0.0069174 blue|0.0069174 lavender|0.0067706 blush|0.0067706 light|0.005856 cyan|0.005856 coral|0.0056743  ",
+			"after_weights": " A|1 high|0.98485 specific|0.9697 thrust|0.95455 low|0.93939 bypass|0.92424 ratio|0.90909 turbofan|0.89394 normally|0.87879 has|0.86364 a|0.84848 multi|0.83333 stage|0.81818 fan|0.80303 developing|0.78788 a|0.77273 relatively|0.75758 high|0.74242 pressure|0.72727 ratio|0.71212 and|0.69697 thus|0.68182 yielding|0.66667 a|0.65152 high|0.63636 mixed|0.62121 or|0.60606 cold|0.59091 exhaust|0.57576 velocity|0.56061 The|0.54545 core|0.5303 airflow|0.51515 needs|0.5 to|0.48485 be|0.4697 large|0.45455 enough|0.43939 to|0.42424 give|0.40909 sufficient|0.39394 core|0.37879 power|0.36364 to|0.34848 drive|0.33333 the|0.31818 fan|0.30303 A|0.28788 smaller|0.27273 core|0.25758 flow|0.24242 higher|0.22727 bypass|0.21212 ratio|0.19697 cycle|0.18182 can|0.16667 be|0.15152 achieved|0.13636 by|0.12121 raising|0.10606 the|0.090909 HP|0.075758 turbine|0.060606 rotor|0.045455 inlet|0.030303 temperature|0.015152 |0",
+			"previous_weights": " "
+		}
+	}
+}

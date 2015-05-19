@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "48b819617f679101a2fde5c866125d627bf438bc79e19b776553b1700cd39d11",
+			"url": "https://upload.wikimedia.org/math/5/e/d/5ed2ec358abc7d521a3330e8b84cc7df.png",
+			"previous": " Generating functions are used to describe families of combinatorial objects Let denote the family of objects and let F x be its generating function Then ",
+			"after": " Once determined the generating function yields the information given by the previous approaches In addition the various natural operations on generating functions such as addition multiplication differentiation etc have a combinatorial significance this allows one to extend results from one combinatorial problem in order to solve others ",
+			"color": " ",
+			"after_weights": " Once|1 determined|0.97872 the|0.95745 generating|0.93617 function|0.91489 yields|0.89362 the|0.87234 information|0.85106 given|0.82979 by|0.80851 the|0.78723 previous|0.76596 approaches|0.74468 In|0.7234 addition|0.70213 the|0.68085 various|0.65957 natural|0.6383 operations|0.61702 on|0.59574 generating|0.57447 functions|0.55319 such|0.53191 as|0.51064 addition|0.48936 multiplication|0.46809 differentiation|0.44681 etc|0.42553 have|0.40426 a|0.38298 combinatorial|0.3617 significance|0.34043 this|0.31915 allows|0.29787 one|0.2766 to|0.25532 extend|0.23404 results|0.21277 from|0.19149 one|0.17021 combinatorial|0.14894 problem|0.12766 in|0.10638 order|0.085106 to|0.06383 solve|0.042553 others|0.021277 |0",
+			"previous_weights": " Generating|0 functions|0.04 are|0.08 used|0.12 to|0.16 describe|0.2 families|0.24 of|0.28 combinatorial|0.32 objects|0.36 Let|0.4 denote|0.44 the|0.48 family|0.52 of|0.56 objects|0.6 and|0.64 let|0.68 F|0.72 x|0.76 be|0.8 its|0.84 generating|0.88 function|0.92 Then|0.96 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "4331509fb7fa9a1e918c54ea008a0987c29283071fd4294595906deac92a020c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stark_splitting.png/320px-Stark_splitting.png",
+			"previous": " ",
+			"after": " Radiation trapping in an atomic line filter may seriously affect the performance and therefore tuning of an ALF In the original studies of atomic line filters in the 1970s and early 1980s there was a large overestimation of the signal bandwidth Later radiation trapping was studied analyzed and ALFs were optimized to account for it 21 ",
+			"color": "dark|0.22876 gray|0.22876 dark|0.22876 grey|0.22876 silver|0.17044 light|0.12092 gray|0.12092 light|0.12092 grey|0.12092 gray|0.10376 grey|0.10376 gainsboro|0.097593 dim|0.055818 gray|0.055818 dim|0.055818 grey|0.055818 white|0.034572 smoke|0.034572 alice|0.022273 blue|0.022273 ghost|0.021875 white|0.021875 lavender|0.021467 blush|0.021467 sea|0.02127 shell|0.02127 snow|0.021031 white|0.018202 mint|0.015293 cream|0.015293 linen|0.013916 floral|0.012532 white|0.012532 azure|0.011214 black|0.0078765  ",
+			"after_weights": " Radiation|1 trapping|0.98214 in|0.96429 an|0.94643 atomic|0.92857 line|0.91071 filter|0.89286 may|0.875 seriously|0.85714 affect|0.83929 the|0.82143 performance|0.80357 and|0.78571 therefore|0.76786 tuning|0.75 of|0.73214 an|0.71429 ALF|0.69643 In|0.67857 the|0.66071 original|0.64286 studies|0.625 of|0.60714 atomic|0.58929 line|0.57143 filters|0.55357 in|0.53571 the|0.51786 1970s|0.5 and|0.48214 early|0.46429 1980s|0.44643 there|0.42857 was|0.41071 a|0.39286 large|0.375 overestimation|0.35714 of|0.33929 the|0.32143 signal|0.30357 bandwidth|0.28571 Later|0.26786 radiation|0.25 trapping|0.23214 was|0.21429 studied|0.19643 analyzed|0.17857 and|0.16071 ALFs|0.14286 were|0.125 optimized|0.10714 to|0.089286 account|0.071429 for|0.053571 it|0.035714 21|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

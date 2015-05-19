@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "633efce7a1c58bd655fce67e38b6bfbf3978bf2d35625c15b0ac0003180065fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Airnorth_Brasilia_DRW_Butler.jpg/220px-Airnorth_Brasilia_DRW_Butler.jpg",
+			"previous": " Great Lakes Airlines operates six EMB 120s in its fleet and Ameriflight flies eight as freighters ",
+			"after": " As of July 2013 132 EMB 120 aircraft are in airline service around the world Current operators include 5 ",
+			"color": "black|0.34426 light|0.10278 steel|0.10278 blue|0.10278 light|0.076943 slate|0.076943 gray|0.076943 burly|0.065155 wood|0.065155 dim|0.056316 gray|0.056316 dim|0.056316 grey|0.056316 tan|0.043799 navajo|0.039286 white|0.039286 slate|0.030757 gray|0.030757 wheat|0.029308 moccasin|0.026126 gray|0.023837 grey|0.023837 pale|0.017908 golden|0.017908 rod|0.017908 dark|0.017049 gray|0.017049 dark|0.017049 grey|0.017049  ",
+			"after_weights": " As|1 of|0.94737 July|0.89474 2013|0.84211 132|0.78947 EMB|0.73684 120|0.68421 aircraft|0.63158 are|0.57895 in|0.52632 airline|0.47368 service|0.42105 around|0.36842 the|0.31579 world|0.26316 Current|0.21053 operators|0.15789 include|0.10526 5|0.052632 |0",
+			"previous_weights": " Great|0 Lakes|0.0625 Airlines|0.125 operates|0.1875 six|0.25 EMB|0.3125 120s|0.375 in|0.4375 its|0.5 fleet|0.5625 and|0.625 Ameriflight|0.6875 flies|0.75 eight|0.8125 as|0.875 freighters|0.9375 |1"
+		}
+	}
+}

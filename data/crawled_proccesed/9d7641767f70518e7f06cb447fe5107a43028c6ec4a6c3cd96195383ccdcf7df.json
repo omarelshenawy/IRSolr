@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d7641767f70518e7f06cb447fe5107a43028c6ec4a6c3cd96195383ccdcf7df",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/BeltedKingfisher23.jpg/150px-BeltedKingfisher23.jpg",
+			"previous": " Hummingbirds are small birds capable of hovering in mid air due to the rapid flapping of their wings They are the only birds that can fly backwards ",
+			"after": " Order Coraciiformes Family Alcedinidae Kingfishers are medium sized birds with large heads long pointed bills short legs and stubby tails ",
+			"color": "dim|0.21669 gray|0.21669 dim|0.21669 grey|0.21669 light|0.16999 sky|0.16999 blue|0.16999 steel|0.09744 blue|0.09744 gray|0.065685 grey|0.065685 dark|0.063431 gray|0.063431 dark|0.063431 grey|0.063431 light|0.059728 slate|0.059728 gray|0.059728 slate|0.054596 gray|0.054596 black|0.038638 light|0.030649 steel|0.030649 blue|0.030649 silver|0.025779 tan|0.015334 light|0.013679 gray|0.013679 light|0.013679 grey|0.013679 sky|0.012839 blue|0.012839 dark|0.012437 slate|0.012437 gray|0.012437 burly|0.010444 wood|0.010444 gainsboro|0.0095534 white|0.009432 smoke|0.009432 sea|0.0082331 shell|0.0082331 snow|0.0081089 floral|0.0079838 white|0.0079838 white|0.0077589 mint|0.0076603 cream|0.0076603 ghost|0.0075051 white|0.0075051 alice|0.0071391 blue|0.0071391  ",
+			"after_weights": " Order|1 Coraciiformes|0.95 Family|0.9 Alcedinidae|0.85 Kingfishers|0.8 are|0.75 medium|0.7 sized|0.65 birds|0.6 with|0.55 large|0.5 heads|0.45 long|0.4 pointed|0.35 bills|0.3 short|0.25 legs|0.2 and|0.15 stubby|0.1 tails|0.05 |0",
+			"previous_weights": " Hummingbirds|0 are|0.037037 small|0.074074 birds|0.11111 capable|0.14815 of|0.18519 hovering|0.22222 in|0.25926 mid|0.2963 air|0.33333 due|0.37037 to|0.40741 the|0.44444 rapid|0.48148 flapping|0.51852 of|0.55556 their|0.59259 wings|0.62963 They|0.66667 are|0.7037 the|0.74074 only|0.77778 birds|0.81481 that|0.85185 can|0.88889 fly|0.92593 backwards|0.96296 |1"
+		}
+	}
+}

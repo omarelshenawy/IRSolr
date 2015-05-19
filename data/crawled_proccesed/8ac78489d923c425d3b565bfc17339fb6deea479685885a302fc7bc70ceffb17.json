@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ac78489d923c425d3b565bfc17339fb6deea479685885a302fc7bc70ceffb17",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/S2-AGL.jpg/220px-S2-AGL.jpg",
+			"previous": " Current major civilian operators include  In May 2011 a total of 990 ERJ 135 140 145 remain in service with 5 further firm orders 6 7 ",
+			"after": " Some 26 other airlines also operate the aircraft in smaller numbers ",
+			"color": "dark|0.14382 gray|0.14382 dark|0.14382 grey|0.14382 black|0.13448 dim|0.12373 gray|0.12373 dim|0.12373 grey|0.12373 gray|0.080655 grey|0.080655 silver|0.060806 light|0.049832 gray|0.049832 light|0.049832 grey|0.049832 light|0.046945 slate|0.046945 gray|0.046945 gainsboro|0.043737 white|0.026594 smoke|0.026594 linen|0.024574 sea|0.024384 shell|0.024384 snow|0.02176 lavender|0.02158 blush|0.02158 floral|0.018658 white|0.018658 ghost|0.018487 white|0.018487 white|0.016824 misty|0.016101 rose|0.016101 alice|0.012195 blue|0.012195 mint|0.011505 cream|0.011505 old|0.011215 lace|0.011215 lavender|0.0084769  ",
+			"after_weights": " Some|1 26|0.90909 other|0.81818 airlines|0.72727 also|0.63636 operate|0.54545 the|0.45455 aircraft|0.36364 in|0.27273 smaller|0.18182 numbers|0.090909 |0",
+			"previous_weights": " Current|0 major|0.037037 civilian|0.074074 operators|0.11111 include|0.14815 |0.18519 In|0.22222 May|0.25926 2011|0.2963 a|0.33333 total|0.37037 of|0.40741 990|0.44444 ERJ|0.48148 135|0.51852 140|0.55556 145|0.59259 remain|0.62963 in|0.66667 service|0.7037 with|0.74074 5|0.77778 further|0.81481 firm|0.85185 orders|0.88889 6|0.92593 7|0.96296 |1"
+		}
+	}
+}

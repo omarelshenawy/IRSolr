@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "81bf926248ed3d67b8a68d5664cf2a78f6003f9e30796075083e563f0fb77518",
+			"url": "https://upload.wikimedia.org/math/2/b/b/2bbda46f09c030f245f9afe1fa0eb85f.png",
+			"previous": " or equivalently Consider the following notation ",
+			"after": " Similarly  or equivalently This represents the value or values of the argument x in the interval that minimizes or minimize the objective function x2 1 the actual minimum value of that function is not what the problem asks for In this case the answer is x 1 since x 0 is infeasible i e does not belong to the feasible set ",
+			"color": "dim|0.30702 gray|0.30702 dim|0.30702 grey|0.30702 gray|0.23624 grey|0.23624 dark|0.17433 gray|0.17433 dark|0.17433 grey|0.17433 silver|0.096102 light|0.058181 gray|0.058181 light|0.058181 grey|0.058181 gainsboro|0.046134 white|0.010685 smoke|0.010685 alice|0.0087235 blue|0.0087235 ghost|0.0086747 white|0.0086747 lavender|0.0086714 blush|0.0086714 sea|0.0086049 shell|0.0086049 snow|0.0085519 white|0.0071694 mint|0.0068469 cream|0.0068469 linen|0.0051584 floral|0.0048925 white|0.0048925 azure|0.0039414  ",
+			"after_weights": " Similarly|1 |0.98387 or|0.96774 equivalently|0.95161 This|0.93548 represents|0.91935 the|0.90323 value|0.8871 or|0.87097 values|0.85484 of|0.83871 the|0.82258 argument|0.80645 x|0.79032 in|0.77419 the|0.75806 interval|0.74194 that|0.72581 minimizes|0.70968 or|0.69355 minimize|0.67742 the|0.66129 objective|0.64516 function|0.62903 x2|0.6129 1|0.59677 the|0.58065 actual|0.56452 minimum|0.54839 value|0.53226 of|0.51613 that|0.5 function|0.48387 is|0.46774 not|0.45161 what|0.43548 the|0.41935 problem|0.40323 asks|0.3871 for|0.37097 In|0.35484 this|0.33871 case|0.32258 the|0.30645 answer|0.29032 is|0.27419 x|0.25806 1|0.24194 since|0.22581 x|0.20968 0|0.19355 is|0.17742 infeasible|0.16129 i|0.14516 e|0.12903 does|0.1129 not|0.096774 belong|0.080645 to|0.064516 the|0.048387 feasible|0.032258 set|0.016129 |0",
+			"previous_weights": " or|0 equivalently|0.16667 Consider|0.33333 the|0.5 following|0.66667 notation|0.83333 |1"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c5d4723978463b307bf8cdec9df3fa03b8a86ab6442e5026a9cd40b6201ad18",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Dai_Truyen_Hinh_Viet_Nam_TV_so_9.png/220px-Dai_Truyen_Hinh_Viet_Nam_TV_so_9.png",
+			"previous": " ",
+			"after": " Television was introduced to South Vietnam on 7 February 1966 with black and white FCC system Covering major cities in South Vietnam started with a one hour broadcast per day then increased to six hours in the evening during the 1970s There were two main channels ",
+			"color": "crimson|0.51774 light|0.23364 coral|0.23364 light|0.079062 pink|0.079062 pink|0.064669 misty|0.032951 rose|0.032951  ",
+			"after_weights": " Television|1 was|0.97826 introduced|0.95652 to|0.93478 South|0.91304 Vietnam|0.8913 on|0.86957 7|0.84783 February|0.82609 1966|0.80435 with|0.78261 black|0.76087 and|0.73913 white|0.71739 FCC|0.69565 system|0.67391 Covering|0.65217 major|0.63043 cities|0.6087 in|0.58696 South|0.56522 Vietnam|0.54348 started|0.52174 with|0.5 a|0.47826 one|0.45652 hour|0.43478 broadcast|0.41304 per|0.3913 day|0.36957 then|0.34783 increased|0.32609 to|0.30435 six|0.28261 hours|0.26087 in|0.23913 the|0.21739 evening|0.19565 during|0.17391 the|0.15217 1970s|0.13043 There|0.1087 were|0.086957 two|0.065217 main|0.043478 channels|0.021739 |0",
+			"previous_weights": " "
+		}
+	}
+}

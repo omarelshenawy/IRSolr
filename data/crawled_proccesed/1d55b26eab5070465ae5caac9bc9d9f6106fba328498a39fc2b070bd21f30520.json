@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d55b26eab5070465ae5caac9bc9d9f6106fba328498a39fc2b070bd21f30520",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/New_York_Counties.svg/220px-New_York_Counties.svg.png",
+			"previous": " ",
+			"after": " New York is divided into 62 counties Aside from the five counties of New York City each of these counties is subdivided into towns and cities Towns can contain incorporated villages or unincorporated hamlets New York City is divided into five boroughs each coterminous with a county ",
+			"color": "light|0.39101 steel|0.39101 blue|0.39101 light|0.12389 gray|0.12389 light|0.12389 grey|0.12389 lavender|0.11059 gainsboro|0.091147 silver|0.071907  ",
+			"after_weights": " New|1 York|0.97872 is|0.95745 divided|0.93617 into|0.91489 62|0.89362 counties|0.87234 Aside|0.85106 from|0.82979 the|0.80851 five|0.78723 counties|0.76596 of|0.74468 New|0.7234 York|0.70213 City|0.68085 each|0.65957 of|0.6383 these|0.61702 counties|0.59574 is|0.57447 subdivided|0.55319 into|0.53191 towns|0.51064 and|0.48936 cities|0.46809 Towns|0.44681 can|0.42553 contain|0.40426 incorporated|0.38298 villages|0.3617 or|0.34043 unincorporated|0.31915 hamlets|0.29787 New|0.2766 York|0.25532 City|0.23404 is|0.21277 divided|0.19149 into|0.17021 five|0.14894 boroughs|0.12766 each|0.10638 coterminous|0.085106 with|0.06383 a|0.042553 county|0.021277 |0",
+			"previous_weights": " "
+		}
+	}
+}

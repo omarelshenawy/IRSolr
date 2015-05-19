@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a75e3de5889cc97273b4d5d0020bf0b057282913b4abc4e03db1fc18dfbbf6b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Woodstork17.jpg/200px-Woodstork17.jpg",
+			"previous": " Tropicbirds are slender white birds of tropical oceans with exceptionally long central tail feathers Their long wings have black markings as does the head ",
+			"after": " Order Ciconiiformes Family Ciconiidae Storks are large heavy long legged long necked wading birds with long stout bills and wide wingspans They lack the powder down that other wading birds such as herons spoonbills and ibises use to clean off fish slime Storks lack a pharynx and are mute ",
+			"color": "dim|0.54072 gray|0.54072 dim|0.54072 grey|0.54072 gray|0.091726 grey|0.091726 slate|0.050472 gray|0.050472 antique|0.025685 white|0.025685 beige|0.020222 papaya|0.019643 whip|0.019643 corn|0.018746 silk|0.018746 old|0.018551 lace|0.018551 linen|0.016517 dark|0.016112 slate|0.016112 gray|0.016112 dark|0.01551 gray|0.01551 dark|0.01551 grey|0.01551 ivory|0.014245 light|0.013937 yellow|0.013937 blanched|0.013503 almond|0.013503 tan|0.013249 floral|0.013121 white|0.013121 light|0.010047 slate|0.010047 gray|0.010047 silver|0.0094471 sea|0.0088583 shell|0.0088583 wheat|0.0083041 bisque|0.007172 light|0.0064961 golden|0.0064961 rod|0.0064961 yellow|0.0064961 honeydew|0.0060762 light|0.0055768 gray|0.0055768 light|0.0055768 grey|0.0055768 black|0.0045929 lemon|0.0045312 chiffon|0.0045312 moccasin|0.0041556 gainsboro|0.0036862  ",
+			"after_weights": " Order|1 Ciconiiformes|0.97959 Family|0.95918 Ciconiidae|0.93878 Storks|0.91837 are|0.89796 large|0.87755 heavy|0.85714 long|0.83673 legged|0.81633 long|0.79592 necked|0.77551 wading|0.7551 birds|0.73469 with|0.71429 long|0.69388 stout|0.67347 bills|0.65306 and|0.63265 wide|0.61224 wingspans|0.59184 They|0.57143 lack|0.55102 the|0.53061 powder|0.5102 down|0.4898 that|0.46939 other|0.44898 wading|0.42857 birds|0.40816 such|0.38776 as|0.36735 herons|0.34694 spoonbills|0.32653 and|0.30612 ibises|0.28571 use|0.26531 to|0.2449 clean|0.22449 off|0.20408 fish|0.18367 slime|0.16327 Storks|0.14286 lack|0.12245 a|0.10204 pharynx|0.081633 and|0.061224 are|0.040816 mute|0.020408 |0",
+			"previous_weights": " Tropicbirds|0 are|0.041667 slender|0.083333 white|0.125 birds|0.16667 of|0.20833 tropical|0.25 oceans|0.29167 with|0.33333 exceptionally|0.375 long|0.41667 central|0.45833 tail|0.5 feathers|0.54167 Their|0.58333 long|0.625 wings|0.66667 have|0.70833 black|0.75 markings|0.79167 as|0.83333 does|0.875 the|0.91667 head|0.95833 |1"
+		}
+	}
+}

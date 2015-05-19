@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "61eb2ba082ad6b964c8857a43ee638e8938c2a1536ca348d64ed1297e0abae61",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DCA_flight_map.svg/220px-DCA_flight_map.svg.png",
+			"previous": " ",
+			"after": " In 2013 Reagan National Airport handled 20 415 085 passengers which was a new record 45 US Airways has the largest share of traffic at the airport accounting for 19 97 as of June 2012 update Delta Air Lines the second largest accounts for 13 of traffic with American Airlines in third at 12 71 46 ",
+			"color": "black|0.2997 dark|0.28197 gray|0.28197 dark|0.28197 grey|0.28197 gray|0.16551 grey|0.16551 silver|0.1209 dim|0.097043 gray|0.097043 dim|0.097043 grey|0.097043 light|0.020536 gray|0.020536 light|0.020536 grey|0.020536 gainsboro|0.0083423  ",
+			"after_weights": " In|1 2013|0.98214 Reagan|0.96429 National|0.94643 Airport|0.92857 handled|0.91071 20|0.89286 415|0.875 085|0.85714 passengers|0.83929 which|0.82143 was|0.80357 a|0.78571 new|0.76786 record|0.75 45|0.73214 US|0.71429 Airways|0.69643 has|0.67857 the|0.66071 largest|0.64286 share|0.625 of|0.60714 traffic|0.58929 at|0.57143 the|0.55357 airport|0.53571 accounting|0.51786 for|0.5 19|0.48214 97|0.46429 as|0.44643 of|0.42857 June|0.41071 2012|0.39286 update|0.375 Delta|0.35714 Air|0.33929 Lines|0.32143 the|0.30357 second|0.28571 largest|0.26786 accounts|0.25 for|0.23214 13|0.21429 of|0.19643 traffic|0.17857 with|0.16071 American|0.14286 Airlines|0.125 in|0.10714 third|0.089286 at|0.071429 12|0.053571 71|0.035714 46|0.017857 |0",
+			"previous_weights": " "
+		}
+	}
+}

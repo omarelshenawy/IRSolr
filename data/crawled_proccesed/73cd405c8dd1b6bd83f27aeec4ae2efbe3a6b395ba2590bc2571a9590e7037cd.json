@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "73cd405c8dd1b6bd83f27aeec4ae2efbe3a6b395ba2590bc2571a9590e7037cd",
+			"url": "https://upload.wikimedia.org/math/b/a/e/bae6ccab5963086d7b79348082a1db09.png",
+			"previous": " The functional V is to be minimized among all trial functions that assume prescribed values on the boundary of D If u is the minimizing function and v is an arbitrary smooth function that vanishes on the boundary of D then the first variation of must vanish ",
+			"after": " Provided that u has two derivatives we may apply the divergence theorem to obtain",
+			"color": "dim|0.38472 gray|0.38472 dim|0.38472 grey|0.38472 gray|0.26658 grey|0.26658 dark|0.17963 gray|0.17963 dark|0.17963 grey|0.17963 silver|0.076236 light|0.042115 gray|0.042115 light|0.042115 grey|0.042115 gainsboro|0.030119 white|0.005689 smoke|0.005689  ",
+			"after_weights": " Provided|1 that|0.92308 u|0.84615 has|0.76923 two|0.69231 derivatives|0.61538 we|0.53846 may|0.46154 apply|0.38462 the|0.30769 divergence|0.23077 theorem|0.15385 to|0.076923 obtain|0",
+			"previous_weights": " The|0 functional|0.021277 V|0.042553 is|0.06383 to|0.085106 be|0.10638 minimized|0.12766 among|0.14894 all|0.17021 trial|0.19149 functions|0.21277 that|0.23404 assume|0.25532 prescribed|0.2766 values|0.29787 on|0.31915 the|0.34043 boundary|0.3617 of|0.38298 D|0.40426 If|0.42553 u|0.44681 is|0.46809 the|0.48936 minimizing|0.51064 function|0.53191 and|0.55319 v|0.57447 is|0.59574 an|0.61702 arbitrary|0.6383 smooth|0.65957 function|0.68085 that|0.70213 vanishes|0.7234 on|0.74468 the|0.76596 boundary|0.78723 of|0.80851 D|0.82979 then|0.85106 the|0.87234 first|0.89362 variation|0.91489 of|0.93617 must|0.95745 vanish|0.97872 |1"
+		}
+	}
+}

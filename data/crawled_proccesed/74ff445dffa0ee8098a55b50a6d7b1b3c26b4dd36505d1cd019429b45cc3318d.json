@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "74ff445dffa0ee8098a55b50a6d7b1b3c26b4dd36505d1cd019429b45cc3318d",
+			"url": "https://upload.wikimedia.org/math/1/3/0/1305853662e7c40d6fa3234a59b60d79.png",
+			"previous": " If the probability of m gains and n m losses follows a binomial distribution  no matter how large the total number of votes n may be In other words if one candidate has an edge on the other candidate he will tend to keep that edge even though there is nothing favoring either candidate on a ballot extraction ",
+			"after": " with equal a priori probabilities of 1 2 the mean total gain is",
+			"color": "dim|0.38603 gray|0.38603 dim|0.38603 grey|0.38603 gray|0.29142 grey|0.29142 dark|0.17638 gray|0.17638 dark|0.17638 grey|0.17638 silver|0.073062 light|0.032626 gray|0.032626 light|0.032626 grey|0.032626 gainsboro|0.022969 white|0.0043202 smoke|0.0043202  ",
+			"after_weights": " with|1 equal|0.91667 a|0.83333 priori|0.75 probabilities|0.66667 of|0.58333 1|0.5 2|0.41667 the|0.33333 mean|0.25 total|0.16667 gain|0.083333 is|0",
+			"previous_weights": " If|0 the|0.016949 probability|0.033898 of|0.050847 m|0.067797 gains|0.084746 and|0.10169 n|0.11864 m|0.13559 losses|0.15254 follows|0.16949 a|0.18644 binomial|0.20339 distribution|0.22034 |0.23729 no|0.25424 matter|0.27119 how|0.28814 large|0.30508 the|0.32203 total|0.33898 number|0.35593 of|0.37288 votes|0.38983 n|0.40678 may|0.42373 be|0.44068 In|0.45763 other|0.47458 words|0.49153 if|0.50847 one|0.52542 candidate|0.54237 has|0.55932 an|0.57627 edge|0.59322 on|0.61017 the|0.62712 other|0.64407 candidate|0.66102 he|0.67797 will|0.69492 tend|0.71186 to|0.72881 keep|0.74576 that|0.76271 edge|0.77966 even|0.79661 though|0.81356 there|0.83051 is|0.84746 nothing|0.86441 favoring|0.88136 either|0.89831 candidate|0.91525 on|0.9322 a|0.94915 ballot|0.9661 extraction|0.98305 |1"
+		}
+	}
+}

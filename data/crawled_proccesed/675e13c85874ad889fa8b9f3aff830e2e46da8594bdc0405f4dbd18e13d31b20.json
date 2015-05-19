@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "675e13c85874ad889fa8b9f3aff830e2e46da8594bdc0405f4dbd18e13d31b20",
+			"url": "https://upload.wikimedia.org/math/5/8/b/58bfce52e8f1f9485a789e99d086c969.png",
+			"previous": " where ",
+			"after": " Note that in this equation at x c 1 the trailing edge of the airfoil the thickness is not quite zero If a zero thickness trailing edge is required for example for computational work one of the coefficients should be modified such that they sum to zero Modifying the last coefficient i e to 0 1036 will result in the smallest change to the overall shape of the airfoil The leading edge approximates a cylinder with a radius of ",
+			"color": " ",
+			"after_weights": " Note|1 that|0.98734 in|0.97468 this|0.96203 equation|0.94937 at|0.93671 x|0.92405 c|0.91139 1|0.89873 the|0.88608 trailing|0.87342 edge|0.86076 of|0.8481 the|0.83544 airfoil|0.82278 the|0.81013 thickness|0.79747 is|0.78481 not|0.77215 quite|0.75949 zero|0.74684 If|0.73418 a|0.72152 zero|0.70886 thickness|0.6962 trailing|0.68354 edge|0.67089 is|0.65823 required|0.64557 for|0.63291 example|0.62025 for|0.60759 computational|0.59494 work|0.58228 one|0.56962 of|0.55696 the|0.5443 coefficients|0.53165 should|0.51899 be|0.50633 modified|0.49367 such|0.48101 that|0.46835 they|0.4557 sum|0.44304 to|0.43038 zero|0.41772 Modifying|0.40506 the|0.39241 last|0.37975 coefficient|0.36709 i|0.35443 e|0.34177 to|0.32911 0|0.31646 1036|0.3038 will|0.29114 result|0.27848 in|0.26582 the|0.25316 smallest|0.24051 change|0.22785 to|0.21519 the|0.20253 overall|0.18987 shape|0.17722 of|0.16456 the|0.1519 airfoil|0.13924 The|0.12658 leading|0.11392 edge|0.10127 approximates|0.088608 a|0.075949 cylinder|0.063291 with|0.050633 a|0.037975 radius|0.025316 of|0.012658 |0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

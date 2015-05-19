@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "11182563dfc352c6f470bb01ffa30760fee01620c7605031128f778d7fb9f74b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/XO-Beta1-mikemcgregor-2.jpg/379px-XO-Beta1-mikemcgregor-2.jpg",
+			"previous": " Portal Technology Selected pictures 25  The International Space Station ISS is a habitable artificial satellite in low Earth orbit A joint effort by NASA the Russian Federal Space Agency JAXA ESA and CSA it is the ninth space station to be inhabited ",
+			"after": " The OLPC XO 1 is an inexpensive subnotebook laptop computer intended to be distributed to children in developing countries  ",
+			"color": "dark|0.15955 gray|0.15955 dark|0.15955 grey|0.15955 gainsboro|0.15224 gray|0.14157 grey|0.14157 light|0.14087 gray|0.14087 light|0.14087 grey|0.14087 alice|0.053334 blue|0.053334 dark|0.042099 olive|0.042099 green|0.042099 white|0.02835 smoke|0.02835 dark|0.026507 sea|0.026507 green|0.026507 dark|0.025693 slate|0.025693 gray|0.025693 black|0.024134 ghost|0.021633 white|0.021633 snow|0.019988 dim|0.01964 gray|0.01964 dim|0.01964 grey|0.01964 silver|0.019115 mint|0.016441 cream|0.016441 white|0.016099 azure|0.015646 sea|0.012171 shell|0.012171 light|0.011613 cyan|0.011613 linen|0.010533 lavender|0.010272 blush|0.010272 floral|0.0093307 white|0.0093307 lavender|0.0040705  ",
+			"after_weights": " The|1 OLPC|0.95 XO|0.9 1|0.85 is|0.8 an|0.75 inexpensive|0.7 subnotebook|0.65 laptop|0.6 computer|0.55 intended|0.5 to|0.45 be|0.4 distributed|0.35 to|0.3 children|0.25 in|0.2 developing|0.15 countries|0.1 |0.05 |0",
+			"previous_weights": " Portal|0 Technology|0.023256 Selected|0.046512 pictures|0.069767 25|0.093023 |0.11628 The|0.13953 International|0.16279 Space|0.18605 Station|0.2093 ISS|0.23256 is|0.25581 a|0.27907 habitable|0.30233 artificial|0.32558 satellite|0.34884 in|0.37209 low|0.39535 Earth|0.4186 orbit|0.44186 A|0.46512 joint|0.48837 effort|0.51163 by|0.53488 NASA|0.55814 the|0.5814 Russian|0.60465 Federal|0.62791 Space|0.65116 Agency|0.67442 JAXA|0.69767 ESA|0.72093 and|0.74419 CSA|0.76744 it|0.7907 is|0.81395 the|0.83721 ninth|0.86047 space|0.88372 station|0.90698 to|0.93023 be|0.95349 inhabited|0.97674 |1"
+		}
+	}
+}

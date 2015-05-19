@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d78e8192e7715a86b30feaa408419891e955943782b4385566473d3d3b5ecd2",
+			"url": "https://upload.wikimedia.org/math/8/9/d/89ddbad46bd076c02a28ab3e80f6828f.png",
+			"previous": " Recall that a Riemannian surface M g is said to be flat if its Gaussian curvature which we denote by Kg is identically null Now Gauss Bonnet theorem when applied to the sphere S2 claims that",
+			"after": " which proves that the sphere is not flat ",
+			"color": "dim|0.29579 gray|0.29579 dim|0.29579 grey|0.29579 gray|0.2563 grey|0.2563 dark|0.19154 gray|0.19154 dark|0.19154 grey|0.19154 silver|0.090752 black|0.069054 light|0.043098 gray|0.043098 light|0.043098 grey|0.043098 gainsboro|0.029655 white|0.005347 smoke|0.005347 linen|0.0030304  ",
+			"after_weights": " which|1 proves|0.875 that|0.75 the|0.625 sphere|0.5 is|0.375 not|0.25 flat|0.125 |0",
+			"previous_weights": " Recall|0 that|0.028571 a|0.057143 Riemannian|0.085714 surface|0.11429 M|0.14286 g|0.17143 is|0.2 said|0.22857 to|0.25714 be|0.28571 flat|0.31429 if|0.34286 its|0.37143 Gaussian|0.4 curvature|0.42857 which|0.45714 we|0.48571 denote|0.51429 by|0.54286 Kg|0.57143 is|0.6 identically|0.62857 null|0.65714 Now|0.68571 Gauss|0.71429 Bonnet|0.74286 theorem|0.77143 when|0.8 applied|0.82857 to|0.85714 the|0.88571 sphere|0.91429 S2|0.94286 claims|0.97143 that|1"
+		}
+	}
+}

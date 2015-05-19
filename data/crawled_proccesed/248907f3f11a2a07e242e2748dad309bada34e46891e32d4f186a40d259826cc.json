@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "248907f3f11a2a07e242e2748dad309bada34e46891e32d4f186a40d259826cc",
+			"url": "https://upload.wikimedia.org/math/8/4/f/84fc206d90b56bde02951ebf2ce63de0.png",
+			"previous": " The perimeter of a meridian ellipse is Therefore is the radius of the circle whose circumference is the same as the perimeter of a meridian ellipse This defines the mean Earth radius as  where is expressed in degrees and similarly for For the WGS84 ellipsoid the quarter meridian is",
+			"after": " In some problems we need to be able to solve the inverse problem given determine This may be solved by Newton s method iterating",
+			"color": "dark|0.30938 gray|0.30938 dark|0.30938 grey|0.30938 gray|0.2353 grey|0.2353 silver|0.19095 light|0.10145 gray|0.10145 light|0.10145 grey|0.10145 dim|0.080767 gray|0.080767 dim|0.080767 grey|0.080767 gainsboro|0.074141  ",
+			"after_weights": " In|1 some|0.95652 problems|0.91304 we|0.86957 need|0.82609 to|0.78261 be|0.73913 able|0.69565 to|0.65217 solve|0.6087 the|0.56522 inverse|0.52174 problem|0.47826 given|0.43478 determine|0.3913 This|0.34783 may|0.30435 be|0.26087 solved|0.21739 by|0.17391 Newton|0.13043 s|0.086957 method|0.043478 iterating|0",
+			"previous_weights": " The|0 perimeter|0.020408 of|0.040816 a|0.061224 meridian|0.081633 ellipse|0.10204 is|0.12245 Therefore|0.14286 is|0.16327 the|0.18367 radius|0.20408 of|0.22449 the|0.2449 circle|0.26531 whose|0.28571 circumference|0.30612 is|0.32653 the|0.34694 same|0.36735 as|0.38776 the|0.40816 perimeter|0.42857 of|0.44898 a|0.46939 meridian|0.4898 ellipse|0.5102 This|0.53061 defines|0.55102 the|0.57143 mean|0.59184 Earth|0.61224 radius|0.63265 as|0.65306 |0.67347 where|0.69388 is|0.71429 expressed|0.73469 in|0.7551 degrees|0.77551 and|0.79592 similarly|0.81633 for|0.83673 For|0.85714 the|0.87755 WGS84|0.89796 ellipsoid|0.91837 the|0.93878 quarter|0.95918 meridian|0.97959 is|1"
+		}
+	}
+}

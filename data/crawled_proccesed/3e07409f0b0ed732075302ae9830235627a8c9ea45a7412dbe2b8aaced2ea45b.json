@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e07409f0b0ed732075302ae9830235627a8c9ea45a7412dbe2b8aaced2ea45b",
+			"url": "https://upload.wikimedia.org/math/3/d/6/3d63b8c1b3d37cd847cff1d7985d4415.png",
+			"previous": " We can in general write any system of linear equations as a matrix equation ",
+			"after": " The least squares method is used to determine the best fit line for a set of data 19 This line will minimize the sum of the squares of the residuals ",
+			"color": "dim|0.40153 gray|0.40153 dim|0.40153 grey|0.40153 gray|0.26233 grey|0.26233 dark|0.16633 gray|0.16633 dark|0.16633 grey|0.16633 silver|0.079055 light|0.041883 gray|0.041883 light|0.041883 grey|0.041883 gainsboro|0.029703 white|0.0048647 smoke|0.0048647  ",
+			"after_weights": " The|1 least|0.96667 squares|0.93333 method|0.9 is|0.86667 used|0.83333 to|0.8 determine|0.76667 the|0.73333 best|0.7 fit|0.66667 line|0.63333 for|0.6 a|0.56667 set|0.53333 of|0.5 data|0.46667 19|0.43333 This|0.4 line|0.36667 will|0.33333 minimize|0.3 the|0.26667 sum|0.23333 of|0.2 the|0.16667 squares|0.13333 of|0.1 the|0.066667 residuals|0.033333 |0",
+			"previous_weights": " We|0 can|0.071429 in|0.14286 general|0.21429 write|0.28571 any|0.35714 system|0.42857 of|0.5 linear|0.57143 equations|0.64286 as|0.71429 a|0.78571 matrix|0.85714 equation|0.92857 |1"
+		}
+	}
+}

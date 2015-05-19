@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c754da1dd48b73aca0136eecf9b49a7426d2a055f0c614527fec99a293b3e13",
+			"url": "https://upload.wikimedia.org/math/5/a/7/5a72f1304af0783657605aed0e38201a.png",
+			"previous": " ",
+			"after": " Now remember that the velocity function is simply the derivative of the position function So what we have really shown is that integrating the velocity simply recovers the original position function This is the basic idea of the Theorem that integration and differentiation are closely related operations each essentially being the inverse of the other ",
+			"color": "gray|0.35534 grey|0.35534 dark|0.29731 gray|0.29731 dark|0.29731 grey|0.29731 dim|0.15741 gray|0.15741 dim|0.15741 grey|0.15741 silver|0.1165 light|0.044172 gray|0.044172 light|0.044172 grey|0.044172 gainsboro|0.024299  ",
+			"after_weights": " Now|1 remember|0.98182 that|0.96364 the|0.94545 velocity|0.92727 function|0.90909 is|0.89091 simply|0.87273 the|0.85455 derivative|0.83636 of|0.81818 the|0.8 position|0.78182 function|0.76364 So|0.74545 what|0.72727 we|0.70909 have|0.69091 really|0.67273 shown|0.65455 is|0.63636 that|0.61818 integrating|0.6 the|0.58182 velocity|0.56364 simply|0.54545 recovers|0.52727 the|0.50909 original|0.49091 position|0.47273 function|0.45455 This|0.43636 is|0.41818 the|0.4 basic|0.38182 idea|0.36364 of|0.34545 the|0.32727 Theorem|0.30909 that|0.29091 integration|0.27273 and|0.25455 differentiation|0.23636 are|0.21818 closely|0.2 related|0.18182 operations|0.16364 each|0.14545 essentially|0.12727 being|0.10909 the|0.090909 inverse|0.072727 of|0.054545 the|0.036364 other|0.018182 |0",
+			"previous_weights": " "
+		}
+	}
+}

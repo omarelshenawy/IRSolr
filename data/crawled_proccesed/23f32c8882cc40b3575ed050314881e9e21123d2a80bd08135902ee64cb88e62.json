@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "23f32c8882cc40b3575ed050314881e9e21123d2a80bd08135902ee64cb88e62",
+			"url": "https://upload.wikimedia.org/math/b/a/f/baff51377ddfbba9fa553fe23ef848c1.png",
+			"previous": " Among these several different generalizations of the inner product on vectors are ",
+			"after": "  Dorst 2002 makes an argument for the use of contractions in preference to Hestenes s inner product they are algebraically more regular and have cleaner geometric interpretations A number of identities incorporating the contractions are valid without restriction of their inputs Benefits of using the left contraction as an extension of the inner product on vectors include that the identity is extended to for any vector a and multivector B and that the projection operation is extended to for any blades A and B with a minor modification to accommodate null B given below ",
+			"color": "gray|0.24292 grey|0.24292 dim|0.2323 gray|0.2323 dim|0.2323 grey|0.2323 dark|0.22103 gray|0.22103 dark|0.22103 grey|0.22103 black|0.20159 silver|0.07664 light|0.018241 gray|0.018241 light|0.018241 grey|0.018241 gainsboro|0.0072705  ",
+			"after_weights": " |1 Dorst|0.98947 2002|0.97895 makes|0.96842 an|0.95789 argument|0.94737 for|0.93684 the|0.92632 use|0.91579 of|0.90526 contractions|0.89474 in|0.88421 preference|0.87368 to|0.86316 Hestenes|0.85263 s|0.84211 inner|0.83158 product|0.82105 they|0.81053 are|0.8 algebraically|0.78947 more|0.77895 regular|0.76842 and|0.75789 have|0.74737 cleaner|0.73684 geometric|0.72632 interpretations|0.71579 A|0.70526 number|0.69474 of|0.68421 identities|0.67368 incorporating|0.66316 the|0.65263 contractions|0.64211 are|0.63158 valid|0.62105 without|0.61053 restriction|0.6 of|0.58947 their|0.57895 inputs|0.56842 Benefits|0.55789 of|0.54737 using|0.53684 the|0.52632 left|0.51579 contraction|0.50526 as|0.49474 an|0.48421 extension|0.47368 of|0.46316 the|0.45263 inner|0.44211 product|0.43158 on|0.42105 vectors|0.41053 include|0.4 that|0.38947 the|0.37895 identity|0.36842 is|0.35789 extended|0.34737 to|0.33684 for|0.32632 any|0.31579 vector|0.30526 a|0.29474 and|0.28421 multivector|0.27368 B|0.26316 and|0.25263 that|0.24211 the|0.23158 projection|0.22105 operation|0.21053 is|0.2 extended|0.18947 to|0.17895 for|0.16842 any|0.15789 blades|0.14737 A|0.13684 and|0.12632 B|0.11579 with|0.10526 a|0.094737 minor|0.084211 modification|0.073684 to|0.063158 accommodate|0.052632 null|0.042105 B|0.031579 given|0.021053 below|0.010526 |0",
+			"previous_weights": " Among|0 these|0.083333 several|0.16667 different|0.25 generalizations|0.33333 of|0.41667 the|0.5 inner|0.58333 product|0.66667 on|0.75 vectors|0.83333 are|0.91667 |1"
+		}
+	}
+}

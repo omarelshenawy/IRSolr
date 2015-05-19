@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "9558a9029b8c1dc2f48327311ae8c27715a20cf3a00c2ff26c7df8091f910e87",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/American_black_vulture_in_Puerto_Lopez.jpg/220px-American_black_vulture_in_Puerto_Lopez.jpg",
+			"previous": " ",
+			"after": " The black vulture is considered a threat by cattle ranchers due to its predation on newborn cattle 49 The droppings produced by black vultures and other vultures can harm or kill trees and other vegetation 50 The bird is also considered a threat to the safety of aerial traffic especially when it congregates in large numbers in the vicinity of garbage dumps 51 as is the case in the Rio de Janeiro Tom Jobim International Airport 52 ",
+			"color": "light|0.70024 steel|0.70024 blue|0.70024 black|0.17113 light|0.053786 sky|0.053786 blue|0.053786 dim|0.013711 gray|0.013711 dim|0.013711 grey|0.013711 lavender|0.012599 light|0.011765 blue|0.011765 gray|0.0068923 grey|0.0068923 dark|0.0057274 gray|0.0057274 dark|0.0057274 grey|0.0057274 light|0.00534 slate|0.00534 gray|0.00534 slate|0.0048421 gray|0.0048421  ",
+			"after_weights": " The|1 black|0.98701 vulture|0.97403 is|0.96104 considered|0.94805 a|0.93506 threat|0.92208 by|0.90909 cattle|0.8961 ranchers|0.88312 due|0.87013 to|0.85714 its|0.84416 predation|0.83117 on|0.81818 newborn|0.80519 cattle|0.79221 49|0.77922 The|0.76623 droppings|0.75325 produced|0.74026 by|0.72727 black|0.71429 vultures|0.7013 and|0.68831 other|0.67532 vultures|0.66234 can|0.64935 harm|0.63636 or|0.62338 kill|0.61039 trees|0.5974 and|0.58442 other|0.57143 vegetation|0.55844 50|0.54545 The|0.53247 bird|0.51948 is|0.50649 also|0.49351 considered|0.48052 a|0.46753 threat|0.45455 to|0.44156 the|0.42857 safety|0.41558 of|0.4026 aerial|0.38961 traffic|0.37662 especially|0.36364 when|0.35065 it|0.33766 congregates|0.32468 in|0.31169 large|0.2987 numbers|0.28571 in|0.27273 the|0.25974 vicinity|0.24675 of|0.23377 garbage|0.22078 dumps|0.20779 51|0.19481 as|0.18182 is|0.16883 the|0.15584 case|0.14286 in|0.12987 the|0.11688 Rio|0.1039 de|0.090909 Janeiro|0.077922 Tom|0.064935 Jobim|0.051948 International|0.038961 Airport|0.025974 52|0.012987 |0",
+			"previous_weights": " "
+		}
+	}
+}

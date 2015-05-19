@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f56399408cbe3844cef6866c9755ad9b8598c67e7bac866bb8d83e8773af0c6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Academ_Study_about_a_periodic_tiling_by_regular_polygons.svg/330px-Academ_Study_about_a_periodic_tiling_by_regular_polygons.svg.png",
+			"previous": " ",
+			"after": " In the plane a horizontal shear or shear parallel to the x axis is a function that takes a generic point with coordinates to the point where is a fixed parameter called the shear factor  The effect of this mapping is to displace every point horizontally by an amount proportionally to its coordinate Any point above the axis is displaced to the right increasing if and to the left if Points below the axis move in the opposite direction while points on the axis stay fixed ",
+			"color": "khaki|0.25161 pink|0.11461 pale|0.078639 golden|0.078639 rod|0.078639 wheat|0.072224 moccasin|0.069873 navajo|0.068027 white|0.068027 lemon|0.061508 chiffon|0.061508 maroon|0.05583 dim|0.029803 gray|0.029803 dim|0.029803 grey|0.029803 slate|0.025508 gray|0.025508 light|0.024989 slate|0.024989 gray|0.024989 gray|0.02277 grey|0.02277 thistle|0.017107 dark|0.014548 gray|0.014548 dark|0.014548 grey|0.014548 rosy|0.014387 brown|0.014387 tan|0.013197  ",
+			"after_weights": " In|1 the|0.98851 plane|0.97701 a|0.96552 horizontal|0.95402 shear|0.94253 or|0.93103 shear|0.91954 parallel|0.90805 to|0.89655 the|0.88506 x|0.87356 axis|0.86207 is|0.85057 a|0.83908 function|0.82759 that|0.81609 takes|0.8046 a|0.7931 generic|0.78161 point|0.77011 with|0.75862 coordinates|0.74713 to|0.73563 the|0.72414 point|0.71264 where|0.70115 is|0.68966 a|0.67816 fixed|0.66667 parameter|0.65517 called|0.64368 the|0.63218 shear|0.62069 factor|0.6092 |0.5977 The|0.58621 effect|0.57471 of|0.56322 this|0.55172 mapping|0.54023 is|0.52874 to|0.51724 displace|0.50575 every|0.49425 point|0.48276 horizontally|0.47126 by|0.45977 an|0.44828 amount|0.43678 proportionally|0.42529 to|0.41379 its|0.4023 coordinate|0.3908 Any|0.37931 point|0.36782 above|0.35632 the|0.34483 axis|0.33333 is|0.32184 displaced|0.31034 to|0.29885 the|0.28736 right|0.27586 increasing|0.26437 if|0.25287 and|0.24138 to|0.22989 the|0.21839 left|0.2069 if|0.1954 Points|0.18391 below|0.17241 the|0.16092 axis|0.14943 move|0.13793 in|0.12644 the|0.11494 opposite|0.10345 direction|0.091954 while|0.08046 points|0.068966 on|0.057471 the|0.045977 axis|0.034483 stay|0.022989 fixed|0.011494 |0",
+			"previous_weights": " "
+		}
+	}
+}

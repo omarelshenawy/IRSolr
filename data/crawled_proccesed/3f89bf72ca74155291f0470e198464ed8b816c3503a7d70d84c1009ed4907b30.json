@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f89bf72ca74155291f0470e198464ed8b816c3503a7d70d84c1009ed4907b30",
+			"url": "https://upload.wikimedia.org/math/5/6/a/56a40e0659c348fa5d5d53616bcdda1c.png",
+			"previous": " The curve at point t0 can be evaluated with the recurrence relation where b is a Bernstein basis polynomial",
+			"after": " Then the evaluation of at point can be evaluated in steps of the algorithm The result is given by  Moreover the B zier curve can be split at point into two curves with respective control points ",
+			"color": "dim|0.40001 gray|0.40001 dim|0.40001 grey|0.40001 gray|0.2725 grey|0.2725 dark|0.16476 gray|0.16476 dark|0.16476 grey|0.16476 silver|0.074432 light|0.039263 gray|0.039263 light|0.039263 grey|0.039263 gainsboro|0.027532 white|0.004939 smoke|0.004939  ",
+			"after_weights": " Then|1 the|0.97297 evaluation|0.94595 of|0.91892 at|0.89189 point|0.86486 can|0.83784 be|0.81081 evaluated|0.78378 in|0.75676 steps|0.72973 of|0.7027 the|0.67568 algorithm|0.64865 The|0.62162 result|0.59459 is|0.56757 given|0.54054 by|0.51351 |0.48649 Moreover|0.45946 the|0.43243 B|0.40541 zier|0.37838 curve|0.35135 can|0.32432 be|0.2973 split|0.27027 at|0.24324 point|0.21622 into|0.18919 two|0.16216 curves|0.13514 with|0.10811 respective|0.081081 control|0.054054 points|0.027027 |0",
+			"previous_weights": " The|0 curve|0.055556 at|0.11111 point|0.16667 t0|0.22222 can|0.27778 be|0.33333 evaluated|0.38889 with|0.44444 the|0.5 recurrence|0.55556 relation|0.61111 where|0.66667 b|0.72222 is|0.77778 a|0.83333 Bernstein|0.88889 basis|0.94444 polynomial|1"
+		}
+	}
+}

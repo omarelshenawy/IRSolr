@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d5294f40ab5a9f4e40b98730c8764ea05d7407ff5c61815c035b465c31865aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AsiaticSocietyJones.png/81px-AsiaticSocietyJones.png",
+			"previous": " Portal Society Selected anniversaries February Portal Society Selected anniversaries January",
+			"after": " Portal Society Selected anniversaries March Portal Society Selected anniversaries April Portal Society Selected anniversaries May",
+			"color": "dark|0.21874 gray|0.21874 dark|0.21874 grey|0.21874 silver|0.20808 light|0.1454 gray|0.1454 light|0.1454 grey|0.1454 gray|0.1059 grey|0.1059 gainsboro|0.10116 dim|0.036456 gray|0.036456 dim|0.036456 grey|0.036456 linen|0.023765 white|0.023632 smoke|0.023632 sea|0.019508 shell|0.019508 lavender|0.016883 blush|0.016883 snow|0.015558 floral|0.013445 white|0.013445 ghost|0.013438 white|0.013438 white|0.011126 alice|0.010959 blue|0.010959 mint|0.0086723 cream|0.0086723 misty|0.0070752 rose|0.0070752 azure|0.0061582 old|0.0052146 lace|0.0052146  ",
+			"after_weights": " Portal|1 Society|0.92857 Selected|0.85714 anniversaries|0.78571 March|0.71429 Portal|0.64286 Society|0.57143 Selected|0.5 anniversaries|0.42857 April|0.35714 Portal|0.28571 Society|0.21429 Selected|0.14286 anniversaries|0.071429 May|0",
+			"previous_weights": " Portal|0 Society|0.11111 Selected|0.22222 anniversaries|0.33333 February|0.44444 Portal|0.55556 Society|0.66667 Selected|0.77778 anniversaries|0.88889 January|1"
+		}
+	}
+}

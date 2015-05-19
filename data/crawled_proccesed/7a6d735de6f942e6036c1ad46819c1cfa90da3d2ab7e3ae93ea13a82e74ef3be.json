@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a6d735de6f942e6036c1ad46819c1cfa90da3d2ab7e3ae93ea13a82e74ef3be",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kathmandu_airport.JPG/220px-Kathmandu_airport.JPG",
+			"previous": " The airport is connected to the cities of Kathmandu and Lalitpur Patan through the busses of Sajha Yatayat which stop in front of the international terminal Local busses are available outside of the airport gate There are local as well as pre paid taxis available at both terminals ",
+			"after": " ",
+			"color": "gray|0.41627 grey|0.41627 dim|0.33066 gray|0.33066 dim|0.33066 grey|0.33066 dark|0.10181 gray|0.10181 dark|0.10181 grey|0.10181 black|0.05224 slate|0.033204 gray|0.033204 light|0.026289 slate|0.026289 gray|0.026289 silver|0.018532 light|0.0079374 gray|0.0079374 light|0.0079374 grey|0.0079374 gainsboro|0.004859  ",
+			"after_weights": " ",
+			"previous_weights": " The|0 airport|0.020833 is|0.041667 connected|0.0625 to|0.083333 the|0.10417 cities|0.125 of|0.14583 Kathmandu|0.16667 and|0.1875 Lalitpur|0.20833 Patan|0.22917 through|0.25 the|0.27083 busses|0.29167 of|0.3125 Sajha|0.33333 Yatayat|0.35417 which|0.375 stop|0.39583 in|0.41667 front|0.4375 of|0.45833 the|0.47917 international|0.5 terminal|0.52083 Local|0.54167 busses|0.5625 are|0.58333 available|0.60417 outside|0.625 of|0.64583 the|0.66667 airport|0.6875 gate|0.70833 There|0.72917 are|0.75 local|0.77083 as|0.79167 well|0.8125 as|0.83333 pre|0.85417 paid|0.875 taxis|0.89583 available|0.91667 at|0.9375 both|0.95833 terminals|0.97917 |1"
+		}
+	}
+}

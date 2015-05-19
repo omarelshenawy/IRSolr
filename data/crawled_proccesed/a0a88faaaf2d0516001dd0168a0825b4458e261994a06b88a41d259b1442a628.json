@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0a88faaaf2d0516001dd0168a0825b4458e261994a06b88a41d259b1442a628",
+			"url": "https://upload.wikimedia.org/math/f/7/0/f703ce35aad97733a408ba0a3c9df756.png",
+			"previous": " where ",
+			"after": " Because of the cost in processing time of squaring numbers in SSD many implementations use Sum of Absolute Difference SAD as the basis for computing the information measure Other methods use normalized cross correlation NCC ",
+			"color": "dim|0.38077 gray|0.38077 dim|0.38077 grey|0.38077 gray|0.28744 grey|0.28744 dark|0.17834 gray|0.17834 dark|0.17834 grey|0.17834 silver|0.076099 light|0.035629 gray|0.035629 light|0.035629 grey|0.035629 gainsboro|0.024464 white|0.0042694 smoke|0.0042694  ",
+			"after_weights": " Because|1 of|0.97143 the|0.94286 cost|0.91429 in|0.88571 processing|0.85714 time|0.82857 of|0.8 squaring|0.77143 numbers|0.74286 in|0.71429 SSD|0.68571 many|0.65714 implementations|0.62857 use|0.6 Sum|0.57143 of|0.54286 Absolute|0.51429 Difference|0.48571 SAD|0.45714 as|0.42857 the|0.4 basis|0.37143 for|0.34286 computing|0.31429 the|0.28571 information|0.25714 measure|0.22857 Other|0.2 methods|0.17143 use|0.14286 normalized|0.11429 cross|0.085714 correlation|0.057143 NCC|0.028571 |0",
+			"previous_weights": " where|0 |1"
+		}
+	}
+}

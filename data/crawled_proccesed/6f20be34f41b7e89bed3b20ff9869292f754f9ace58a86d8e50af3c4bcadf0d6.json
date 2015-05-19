@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f20be34f41b7e89bed3b20ff9869292f754f9ace58a86d8e50af3c4bcadf0d6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_gondola_lift_Almaty-Koktobe_mountain._View_from_the_mountain%2C_pic.1.jpg/220px-The_gondola_lift_Almaty-Koktobe_mountain._View_from_the_mountain%2C_pic.1.jpg",
+			"previous": " ",
+			"after": " An aerial tramway line connects downtown Almaty with a popular recreation area at the top of K k T be Kazakh which means Green Hill a mountain just to the southeast The city television tower Almaty Tower is located on the hill as well as a variety of tourist attractions such as amusement park style rides and restaurants ",
+			"color": "dark|0.31311 gray|0.31311 dark|0.31311 grey|0.31311 light|0.23754 slate|0.23754 gray|0.23754 slate|0.22296 gray|0.22296 black|0.12831 dark|0.038887 slate|0.038887 gray|0.038887 gray|0.032081 grey|0.032081 silver|0.016939  ",
+			"after_weights": " An|1 aerial|0.98276 tramway|0.96552 line|0.94828 connects|0.93103 downtown|0.91379 Almaty|0.89655 with|0.87931 a|0.86207 popular|0.84483 recreation|0.82759 area|0.81034 at|0.7931 the|0.77586 top|0.75862 of|0.74138 K|0.72414 k|0.7069 T|0.68966 be|0.67241 Kazakh|0.65517 which|0.63793 means|0.62069 Green|0.60345 Hill|0.58621 a|0.56897 mountain|0.55172 just|0.53448 to|0.51724 the|0.5 southeast|0.48276 The|0.46552 city|0.44828 television|0.43103 tower|0.41379 Almaty|0.39655 Tower|0.37931 is|0.36207 located|0.34483 on|0.32759 the|0.31034 hill|0.2931 as|0.27586 well|0.25862 as|0.24138 a|0.22414 variety|0.2069 of|0.18966 tourist|0.17241 attractions|0.15517 such|0.13793 as|0.12069 amusement|0.10345 park|0.086207 style|0.068966 rides|0.051724 and|0.034483 restaurants|0.017241 |0",
+			"previous_weights": " "
+		}
+	}
+}

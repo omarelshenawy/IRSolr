@@ -1,0 +1,13 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e07f2205dec518898a5b775c0384f17e39a77cda7b096e730f2ba6909799a0f",
+			"url": "https://upload.wikimedia.org/math/4/1/2/4129f3b5eb57a6b9e106e82ff2c5d398.png",
+			"previous": "  and depicts the loss in the relative velocity due to friction as the steam flows around the blades for smooth blades ",
+			"after": " is maximum when or That implies and therefore Now for a single stage impulse turbine  Therefore the maximum value of stage efficiency is obtained by putting the value of in the expression of ",
+			"color": " ",
+			"after_weights": " is|1 maximum|0.97059 when|0.94118 or|0.91176 That|0.88235 implies|0.85294 and|0.82353 therefore|0.79412 Now|0.76471 for|0.73529 a|0.70588 single|0.67647 stage|0.64706 impulse|0.61765 turbine|0.58824 |0.55882 Therefore|0.52941 the|0.5 maximum|0.47059 value|0.44118 of|0.41176 stage|0.38235 efficiency|0.35294 is|0.32353 obtained|0.29412 by|0.26471 putting|0.23529 the|0.20588 value|0.17647 of|0.14706 in|0.11765 the|0.088235 expression|0.058824 of|0.029412 |0",
+			"previous_weights": " |0 and|0.045455 depicts|0.090909 the|0.13636 loss|0.18182 in|0.22727 the|0.27273 relative|0.31818 velocity|0.36364 due|0.40909 to|0.45455 friction|0.5 as|0.54545 the|0.59091 steam|0.63636 flows|0.68182 around|0.72727 the|0.77273 blades|0.81818 for|0.86364 smooth|0.90909 blades|0.95455 |1"
+		}
+	}
+}
