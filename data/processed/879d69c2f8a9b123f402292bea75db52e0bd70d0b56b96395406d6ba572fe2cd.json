@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "879d69c2f8a9b123f402292bea75db52e0bd70d0b56b96395406d6ba572fe2cd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pitot_tube_types.svg/180px-Pitot_tube_types.svg.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "The pitot-static system of instruments uses the principle of air pressure gradient. It works by measuring pressures or pressure differences and using these values to assess the speed and altitude.[1] These pressures can be measured either from the static port (static pressure) or the pitot tube (pitot pressure). The static pressure is used in all measurements, while the pitot pressure is used only to determine airspeed.",
+			"color": "light|0.11297 steel|0.11297 blue|0.11297 alice|0.08503 blue|0.08503 white|0.084115 smoke|0.084115 ghost|0.083956 white|0.083956 snow|0.083716 white|0.083716 azure|0.08339 mint|0.082577 cream|0.082577 sea|0.081502 shell|0.081502 lavender|0.080069 blush|0.080069 floral|0.079844 white|0.079844 gainsboro|0.015357 light|0.015191 gray|0.015191 light|0.015191 grey|0.015191 lavender|0.0066727 black|0.0051587 dim|0.0038411 gray|0.0038411 dim|0.0038411 grey|0.0038411 dark|0.003521 gray|0.003521 dark|0.003521 grey|0.003521 gray|0.0035061 grey|0.0035061 ivory|0.0029121  "
+		}
+	}
+}

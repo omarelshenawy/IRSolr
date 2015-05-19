@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b8625e2f6afe3a1047d506410cec3757576d2bde2d41d49e02e26ab94336508",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Iris_coupled_filter.svg/220px-Iris_coupled_filter.svg.png",
+			"previous": [],
+				"after": "An iris-coupled filter consists of a cascade of impedance transformers in the form of waveguide resonant cavities coupled together by irises.[43] In high power applications capacitive irises are avoided. The reduction in height of the waveguide (the direction of the E field) causes the electric field strength across the gap to increase and arcing (or dielectric breakdown if the waveguide is filled with an insulator) will occur at a lower power than it would otherwise.[55]",
+			"color": "silver|0.30926 dark|0.27341 gray|0.27341 dark|0.27341 grey|0.27341 gray|0.13297 grey|0.13297 light|0.12421 gray|0.12421 light|0.12421 grey|0.12421 gainsboro|0.09893 dim|0.057195 gray|0.057195 dim|0.057195 grey|0.057195  "
+		}
+	}
+}

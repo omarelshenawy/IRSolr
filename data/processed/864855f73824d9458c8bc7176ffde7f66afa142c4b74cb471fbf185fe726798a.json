@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "864855f73824d9458c8bc7176ffde7f66afa142c4b74cb471fbf185fe726798a",
+			"url": "https://upload.wikimedia.org/math/7/b/8/7b82fe19e7751a66744630e3f1a8ec41.png",
+				"previous": "The simplest example of a four-vector is the position of an event in spacetime, which constitutes a timelike component ct and spacelike component x = (x, y, z), in a contravariant position four vector with components:",
+				"after": "where we define X0 = ct so that the time coordinate has the same dimension of distance as the other spatial dimensions; so that space and time are treated equally.[43][44][45] Now the transformation of the contravariant components of the position 4-vector can be compactly written as:",
+			"color": "dim|0.36305 gray|0.36305 dim|0.36305 grey|0.36305 gray|0.29256 grey|0.29256 dark|0.18568 gray|0.18568 dark|0.18568 grey|0.18568 silver|0.077948 light|0.037313 gray|0.037313 light|0.037313 grey|0.037313 gainsboro|0.025942 white|0.0045318 smoke|0.0045318  "
+		}
+	}
+}

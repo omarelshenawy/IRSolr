@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "1899ad8d55186c9917503275540e3b717ff7413462612998a2aa488433db0144",
+			"url": "https://upload.wikimedia.org/math/d/b/b/dbb95da7dfaa9ae60879a92371207eba.png",
+			"previous": [
+				"and",
+				"where",
+				"The authalic (Greek for same area) latitude, Î¾, gives an area-preserving transformation to a sphere."
+			],
+			"after": [
+				"and the radius of the sphere is taken as",
+				"An example of the use of the authalic latitude is the Albers equal-area conic projection. (Snyder,[10] SectionÂ 14).",
+				"The conformal latitude, Ï, gives an angle-preserving (conformal) transformation to the sphere."
+			],
+			"color": "dim|0.42319 gray|0.42319 dim|0.42319 grey|0.42319 gray|0.26072 grey|0.26072 dark|0.15798 gray|0.15798 dark|0.15798 grey|0.15798 silver|0.069301 light|0.032859 gray|0.032859 light|0.032859 grey|0.032859 black|0.023192 gainsboro|0.022707  "
+		}
+	}
+}

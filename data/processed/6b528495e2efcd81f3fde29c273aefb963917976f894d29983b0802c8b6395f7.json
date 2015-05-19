@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b528495e2efcd81f3fde29c273aefb963917976f894d29983b0802c8b6395f7",
+			"url": "https://upload.wikimedia.org/math/5/6/6/566b7132441abf1e6fea97cb47d8a52c.png",
+				"previous": "In 3D space, the differential of distance (line element) ds is defined by",
+				"after": "where dx = (dx1, dx2, dx3) are the differentials of the three spatial dimensions. In Minkowski geometry, there is an extra dimension with coordinate X0 derived from time, such that the distance differential fulfills",
+			"color": "black|0.31277 dim|0.26118 gray|0.26118 dim|0.26118 grey|0.26118 gray|0.18681 grey|0.18681 dark|0.12594 gray|0.12594 dark|0.12594 grey|0.12594 silver|0.054369 light|0.027103 gray|0.027103 light|0.027103 grey|0.027103 gainsboro|0.019132  "
+		}
+	}
+}

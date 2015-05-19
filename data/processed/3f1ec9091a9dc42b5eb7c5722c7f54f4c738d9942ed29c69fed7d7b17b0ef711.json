@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f1ec9091a9dc42b5eb7c5722c7f54f4c738d9942ed29c69fed7d7b17b0ef711",
+			"url": "https://upload.wikimedia.org/math/3/f/d/3fdb281e30030ec394abee2a8d6a6bd7.png",
+				"previous": "More generally than sequences of real numbers, functions f: Î© â R are endowed with a norm that replaces the above sum by the Lebesgue integral",
+				"after": "The space of integrable functions on a given domain Î© (for example an interval) satisfying |f|p < â, and equipped with this norm are called Lebesgue spaces, denoted Lp(Î©).[nb 9] These spaces are complete.[57] (If one uses the Riemann integral instead, the space is not complete, which may be seen as a justification for Lebesgue's integration theory.[nb 10]) Concretely this means that for any sequence of Lebesgue-integrable functions f1, f2, ... with |fn|p < â, satisfying the condition",
+			"color": "dim|0.28691 gray|0.28691 dim|0.28691 grey|0.28691 gray|0.28019 grey|0.28019 dark|0.21972 gray|0.21972 dark|0.21972 grey|0.21972 silver|0.10483 light|0.053875 gray|0.053875 light|0.053875 grey|0.053875 gainsboro|0.038311 white|0.0041921 smoke|0.0041921  "
+		}
+	}
+}

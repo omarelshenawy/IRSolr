@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0dd606ee1ecc589a354072de5a76672d9af7f6163370594429e76073fb786232",
+			"url": "https://upload.wikimedia.org/math/5/e/1/5e1e8c2b3912d0eb39dfc1b631a94d99.png",
+			"previous": [
+				"For n satellites, the equations to satisfy are:",
+				"The receiver uses messages received from satellites to determine the satellite positions and time sent. The x, y, and z components of satellite position and the time sent are designated as [xi, yi, zi, si] where the subscript i denotes the satellite and has the value 1, 2, ..., n, where nÂ â¥Â 4. When the time of message reception indicated by the on-board receiver clock is tÌi, the true reception time is ti = tÌi + b, where b is the receiver's clock offset from the much more accurate GPS system clocks employed by the satellites. The receiver clock offset is the same for all received satellite signals (assuming the satellite clocks are all perfectly synchronized). The message's transit time is tÌi + b - si, where si is the satellite time. Assuming the message traveled at the speed of light, c, the distance traveled is (tÌi + b - si) c."
+			],
+				"after": "or in terms of pseudoranges, , as",
+			"color": "dim|0.39234 gray|0.39234 dim|0.39234 grey|0.39234 gray|0.27231 grey|0.27231 dark|0.16921 gray|0.16921 dark|0.16921 grey|0.16921 silver|0.077429 light|0.040188 gray|0.040188 light|0.040188 grey|0.040188 gainsboro|0.028341 white|0.0044043 smoke|0.0044043  "
+		}
+	}
+}

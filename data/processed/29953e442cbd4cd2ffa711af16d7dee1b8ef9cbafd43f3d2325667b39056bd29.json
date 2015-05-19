@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "29953e442cbd4cd2ffa711af16d7dee1b8ef9cbafd43f3d2325667b39056bd29",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Manhattan_distance.svg/200px-Manhattan_distance.svg.png",
+			"previous": [],
+				"after": "A mathematical space exists whenever we have a set of observations and quantitative measures of their attributes. For example, we can represent individuals' incomes or years of education within a coordinate system where the location of each individual can be specified with respect to both dimensions. The distances between individuals within this space is a quantitative measure of their differences with respect to income and education. However, in spatial analysis we are concerned with specific types of mathematical spaces, namely, geographic space. In geographic space, the observations correspond to locations in a spatial measurement framework that captures their proximity in the real world. The locations in a spatial measurement framework often represent locations on the surface of the Earth, but this is not strictly necessary. A spatial measurement framework can also capture proximity with respect to, say, interstellar space or within a biological entity such as a liver. The fundamental tenet is Tobler's First Law of Geography: if the interrelation between entities increases with proximity in the real world, then representation in geographic space and assessment using spatial analysis techniques are appropriate.",
+			"color": "silver|0.35598 dark|0.34719 gray|0.34719 dark|0.34719 grey|0.34719 gold|0.050104 red|0.044531 light|0.039793 gray|0.039793 light|0.039793 grey|0.039793 blue|0.031854 gainsboro|0.024793 rosy|0.022074 brown|0.022074 black|0.012458 lime|0.011529 green|0.011529 dark|0.0065567 khaki|0.0065567 crimson|0.0045897 light|0.0044804 green|0.0044804 honeydew|0.004087 white|0.0037657 smoke|0.0037657 mint|0.0032292 cream|0.0032292  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "51a77b7553856374a17a64652971e1ffce3cf35753faff3dd0ff638ef2a31d0c",
+			"url": "https://upload.wikimedia.org/math/f/e/9/fe9afd6c8dbc28bb7ef6c2480398fcb4.png",
+				"previous": "By the first part of the theorem, we know G is also an antiderivative of f. Since F' - G' = 0 the mean value theorem implies that F - G is a constant function, i. e. there is a number c such that G(x) = F(x) + c, for all x in [a, b]. Letting x = a, we have",
+				"after": "which means c = â F(a). In other words G(x) = F(x) â F(a), and so",
+			"color": "dim|0.36114 gray|0.36114 dim|0.36114 grey|0.36114 gray|0.24321 grey|0.24321 dark|0.14565 gray|0.14565 dark|0.14565 grey|0.14565 black|0.1362 silver|0.057749 light|0.026364 gray|0.026364 light|0.026364 grey|0.026364 gainsboro|0.017799  "
+		}
+	}
+}

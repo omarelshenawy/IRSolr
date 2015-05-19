@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d1fd5cb6d477b8ae1e5123b2b0a526269ae4cd1ee831c93cf77e8dcce1e040c",
+			"url": "https://upload.wikimedia.org/math/6/3/5/635783f055a9c09970c3c27140979699.png",
+			"previous": [
+				"To find the other limit, we use the squeeze theorem. The number c is in the interval [x1, x1 + Îx], so x1 â¤ c â¤ x1 + Îx.",
+				"The expression on the left side of the equation is the definition of the derivative of F at x1."
+			],
+			"after": [
+				"Therefore, according to the squeeze theorem,",
+				"Substituting into (3), we get"
+			],
+			"color": "dim|0.3518 gray|0.3518 dim|0.3518 grey|0.3518 gray|0.27315 grey|0.27315 dark|0.18636 gray|0.18636 dark|0.18636 grey|0.18636 silver|0.08703 light|0.048896 gray|0.048896 light|0.048896 grey|0.048896 gainsboro|0.0343 white|0.0055413 smoke|0.0055413  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "21ab4f9fdacd1e5109366cf70fee8238f88b4606555c244863701fb90d6f0ce2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikitime_preview.jpg/300px-Wikitime_preview.jpg",
+				"previous": "If the feature is enabled, users can customize their stylesheets and configure client-side JavaScript to be executed with every pageview. On Wikipedia, this has led to a large number of additional tools and helpers developed through the wiki and shared among users. For instance, Lupin's navigation popups is a custom JavaScript tool that shows previews of articles when the user hovers over links, and also provides shortcuts for common maintenance tasks.[71] Another example is wikEd, a full-featured MediaWiki-integrated text editor that provides syntax highlighting and search and replace functions.[38]",
+				"after": "The entire MediaWiki user interface can be edited through the wiki itself by users with the necessary permissions (typically called \"administrators\"). This is done through a special namespace with the prefix \"MediaWiki:\", where each page title identifies a particular user interface message. Using an extension,[72] it is also possible for a user to create personal scripts, and to choose whether certain sitewide scripts should apply to him by toggling the appropriate options in the user preferences page.",
+			"color": "white|0.06777 smoke|0.06777 alice|0.066294 blue|0.066294 ghost|0.066026 white|0.066026 snow|0.062583 mint|0.061811 cream|0.061811 azure|0.061654 white|0.061159 lavender|0.058235 blush|0.058235 lavender|0.047558 dark|0.045502 gray|0.045502 dark|0.045502 grey|0.045502 sea|0.040369 shell|0.040369 floral|0.034493 white|0.034493 silver|0.034332 pale|0.033516 golden|0.033516 rod|0.033516 gainsboro|0.030884 light|0.028739 gray|0.028739 light|0.028739 grey|0.028739 lemon|0.024962 chiffon|0.024962 gray|0.024415 grey|0.024415 light|0.022206 golden|0.022206 rod|0.022206 yellow|0.022206 dim|0.01975 gray|0.01975 dim|0.01975 grey|0.01975 ivory|0.01314 beige|0.01275 honeydew|0.010262 light|0.0085379 yellow|0.0085379 khaki|0.0080836 old|0.0078073 lace|0.0078073 linen|0.0068393 thistle|0.0050944 slate|0.0049703 gray|0.0049703 corn|0.0045751 silk|0.0045751 light|0.0033185 slate|0.0033185 gray|0.0033185 light|0.0029888 cyan|0.0029888 black|0.0027607  "
+		}
+	}
+}

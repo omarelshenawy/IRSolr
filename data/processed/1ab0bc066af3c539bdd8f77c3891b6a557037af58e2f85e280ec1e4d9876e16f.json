@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ab0bc066af3c539bdd8f77c3891b6a557037af58e2f85e280ec1e4d9876e16f",
+			"url": "https://upload.wikimedia.org/math/e/b/3/eb3c1aef63050bdb0228dd8de2afe8ce.png",
+			"previous": [
+				"Isolating in the second equation:",
+				"There are also systems which have infinitely many solutions, in contrast to a system with a unique solution (meaning, a unique pair of values for and ) For example:"
+			],
+			"after": [
+				"And using this value in the first equation in the system:",
+				"The equality is true, but it does not provide a value for . Indeed, one can easily verify (by just filling in some values of ) that for any there is a solution as long as . There is an infinite number of solutions for this system."
+			],
+			"color": "dim|0.38102 gray|0.38102 dim|0.38102 grey|0.38102 gray|0.27942 grey|0.27942 dark|0.17281 gray|0.17281 dark|0.17281 grey|0.17281 silver|0.082933 light|0.041885 gray|0.041885 light|0.041885 grey|0.041885 gainsboro|0.030011 white|0.0031759 smoke|0.0031759  "
+		}
+	}
+}

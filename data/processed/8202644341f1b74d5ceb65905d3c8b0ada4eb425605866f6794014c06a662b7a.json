@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8202644341f1b74d5ceb65905d3c8b0ada4eb425605866f6794014c06a662b7a",
+			"url": "https://upload.wikimedia.org/math/a/a/3/aa3227b1093860bcad3480523a065338.png",
+			"previous": [
+				"2. The annular gear is held fixed, Ïa=0,",
+				"1. The carrier is held fixed, Ïc=0,"
+			],
+			"after": [
+				"3. The sun gear is held fixed, Ïs=0,",
+				"Each of the speed ratios available to a simple planetary gear train can be obtained by using band brakes to hold and release the carrier, sun or annular gears as needed. This provides the basic structure for an automatic transmission."
+			],
+			"color": "dim|0.39857 gray|0.39857 dim|0.39857 grey|0.39857 gray|0.26221 grey|0.26221 dark|0.16569 gray|0.16569 dark|0.16569 grey|0.16569 silver|0.080513 light|0.042556 gray|0.042556 light|0.042556 grey|0.042556 gainsboro|0.029406 white|0.0045415 smoke|0.0045415  "
+		}
+	}
+}

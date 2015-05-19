@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "35eca574f0c50a740e927ad82d8ded0776bf931acc60253cba8863b4685221ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tree_of_life_SVG.svg/340px-Tree_of_life_SVG.svg.png",
+				"previous": "total unrooted trees, where represents the number of leaf nodes. Among labeled bifurcating trees, the number of unrooted trees with leaves is equal to the number of rooted trees with leaves.[4]",
+				"after": "Phylogenetic trees composed with a nontrivial number of input sequences are constructed using computational phylogenetics methods. Distance-matrix methods such as neighbor-joining or UPGMA, which calculate genetic distance from multiple sequence alignments, are simplest to implement, but do not invoke an evolutionary model. Many sequence alignment methods such as ClustalW also create trees by using the simpler algorithms (i.e. those based on distance) of tree construction. Maximum parsimony is another simple method of estimating phylogenetic trees, but implies an implicit model of evolution (i.e. parsimony). More advanced methods use the optimality criterion of maximum likelihood, often within a Bayesian Framework, and apply an explicit model of evolution to phylogenetic tree estimation.[4] Identifying the optimal tree using many of these techniques is NP-hard,[4] so heuristic search and optimization methods are used in combination with tree-scoring functions to identify a reasonably good tree that fits the data.",
+			"color": "light|0.13658 gray|0.13658 light|0.13658 grey|0.13658 gainsboro|0.13433 lavender|0.11143 dark|0.094882 gray|0.094882 dark|0.094882 grey|0.094882 silver|0.065426 lavender|0.046867 blush|0.046867 sea|0.045056 shell|0.045056 white|0.038626 smoke|0.038626 ghost|0.037804 white|0.037804 snow|0.036889 alice|0.036161 blue|0.036161 mint|0.035044 cream|0.035044 white|0.034781 floral|0.033921 white|0.033921 azure|0.031345 misty|0.019199 rose|0.019199 honeydew|0.01595 beige|0.015078 linen|0.014949 gray|0.0046462 grey|0.0046462 light|0.0038687 slate|0.0038687 gray|0.0038687 ivory|0.0036792  "
+		}
+	}
+}

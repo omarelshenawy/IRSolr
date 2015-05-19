@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9abf6610ab47b3e5f3944004ae9ef879dbbe348cb552d3e721d579af773e86ac",
+			"url": "https://upload.wikimedia.org/math/1/5/d/15dac2a4979ad5bb298a540c7b1c1aa3.png",
+				"previous": "where , the Hamiltonian, is a second-order differential operator and , the wavefunction, is one of its eigenfunctions corresponding to the eigenvalue , interpreted as its energy.",
+				"after": "The braâket notation is often used in this context. A vector, which represents a state of the system, in the Hilbert space of square integrable functions is represented by . In this notation, the SchrÃ¶dinger equation is:",
+			"color": "black|0.46571 dim|0.22829 gray|0.22829 dim|0.22829 grey|0.22829 gray|0.12597 grey|0.12597 dark|0.084636 gray|0.084636 dark|0.084636 grey|0.084636 silver|0.040355 light|0.022726 gray|0.022726 light|0.022726 grey|0.022726 gainsboro|0.016543 white|0.0039053 smoke|0.0039053  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c1f1cc7747646cbde833aed12e606335d4cf1639a3a674d952cf8db28967895",
+			"url": "https://upload.wikimedia.org/math/e/6/f/e6fd2ef92652699f899a7550de7ddf75.png",
+			"previous": [],
+				"after": "As for showing that is not a Hurwitz irreducible, Lagrange proved that any odd prime divides at least one number of the form , where and are integers.[7] This can be seen as follows: since is prime, can hold for integers , only when . Thus, the set of squares contains distinct residues modulo . Likewise, contains residues. Since there are only residues in total, and , the sets and must intersect.",
+			"color": "dim|0.37508 gray|0.37508 dim|0.37508 grey|0.37508 gray|0.26617 grey|0.26617 dark|0.17479 gray|0.17479 dark|0.17479 grey|0.17479 silver|0.084954 light|0.047855 gray|0.047855 light|0.047855 grey|0.047855 gainsboro|0.033182 white|0.0047084 smoke|0.0047084  "
+		}
+	}
+}

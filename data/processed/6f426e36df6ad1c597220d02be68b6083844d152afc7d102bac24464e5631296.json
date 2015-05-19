@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f426e36df6ad1c597220d02be68b6083844d152afc7d102bac24464e5631296",
+			"url": "https://upload.wikimedia.org/math/c/7/3/c73c521c91d345267af3c3905236f5fe.png",
+				"previous": "Insert some air in the form of a pair of braces {}, \"A\" -> \"{}\", \"B\" -> \"{}\":",
+				"after": "Both pairs of braces are necessary. I guess this is due to my lack of understanding of Tex. The square brackets are usually used to pass additional arguments to an \"environment\", right? YohanN7 (talk) 14:08, 7 May 2015 (UTC)",
+			"color": "dim|0.30687 gray|0.30687 dim|0.30687 grey|0.30687 gray|0.27933 grey|0.27933 dark|0.21657 gray|0.21657 dark|0.21657 grey|0.21657 silver|0.084964 light|0.046436 gray|0.046436 light|0.046436 grey|0.046436 gainsboro|0.034649 white|0.0073578 smoke|0.0073578 linen|0.0055292 lavender|0.0050676 blush|0.0050676 alice|0.0031376 blue|0.0031376 ghost|0.0029191 white|0.0029191 sea|0.0027992 shell|0.0027992 snow|0.0027336  "
+		}
+	}
+}

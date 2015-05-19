@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e47ea02c1abd05156cf0b541bd8ed978384721aa5b75266e36a3d2d92f8dc33",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Refrigeration.png",
+				"previous": "The vapor-compression cycle is used in most household refrigerators as well as in many large commercial and industrial refrigeration systems. Figure 1 provides a schematic diagram of the components of a typical vapor-compression refrigeration system.",
+				"after": "The thermodynamics of the cycle can be analyzed on a diagram[45] as shown in Figure 2. In this cycle, a circulating refrigerant such as Freon enters the compressor as a vapor. From point 1 to point 2, the vapor is compressed at constant entropy and exits the compressor as a vapor at a higher temperature, but still below the vapor pressure at that temperature. From point 2 to point 3 and on to point 4, the vapor travels through the condenser which cools the vapor until it starts condensing, and then condenses the vapor into a liquid by removing additional heat at constant pressure and temperature. Between points 4 and 5, the liquid refrigerant goes through the expansion valve (also called a throttle valve) where its pressure abruptly decreases, causing flash evaporation and auto-refrigeration of, typically, less than half of the liquid.",
+			"color": "gainsboro|0.24527 light|0.24241 gray|0.24241 light|0.24241 grey|0.24241 white|0.23997 smoke|0.23997 dim|0.049949 gray|0.049949 dim|0.049949 grey|0.049949 gray|0.042922 grey|0.042922 black|0.027602 dark|0.016798 gray|0.016798 dark|0.016798 grey|0.016798 linen|0.014456 lavender|0.012144 blush|0.012144 ghost|0.012009 white|0.012009 alice|0.011989 blue|0.011989 snow|0.011893 sea|0.011712 shell|0.011712 silver|0.011606 white|0.010376 red|0.0068372 mint|0.006315 cream|0.006315 aqua|0.0062041 cyan|0.0062041 salmon|0.0045581 pale|0.0043049 turquoise|0.0043049  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7d2ae2d9bbef161305b0353d0caba8a940c3dd01cf6e247f9daa85805036955",
+			"url": "https://upload.wikimedia.org/math/3/2/1/321b8c6cf83746b1d6ae63d403dfc688.png",
+				"previous": "Lagrange's equations can be transformed, under a Legendre transformation, to Hamilton's equations; the Hamiltonian formulation for the equations of motion of some conjugate variables p,q (for example, momentum p and position q) is:",
+			"after": [
+				"in the Poisson bracket notation and clearly shows the dependence of the time variation of conjugate variables p,q on an energy expression.",
+				"This relationship, it was to be found, also has corresponding forms in quantum mechanics as well as in the classical mechanics shown above. These relationships bespeak a conception of time which is reversible."
+			],
+			"color": "dim|0.39438 gray|0.39438 dim|0.39438 grey|0.39438 gray|0.28982 grey|0.28982 dark|0.17196 gray|0.17196 dark|0.17196 grey|0.17196 silver|0.075501 light|0.034899 gray|0.034899 light|0.034899 grey|0.034899 gainsboro|0.022542  "
+		}
+	}
+}

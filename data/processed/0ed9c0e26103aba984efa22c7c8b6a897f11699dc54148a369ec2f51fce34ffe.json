@@ -1,0 +1,28 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ed9c0e26103aba984efa22c7c8b6a897f11699dc54148a369ec2f51fce34ffe",
+			"url": "https://upload.wikimedia.org/math/8/3/0/8301d621986ec889e6bb5e26f45b583c.png",
+			"previous": [
+				"",
+				"However, the jetpipe pressure loss must be accounted for:",
+				"",
+				"Since, under Steady State conditions, there is no work or heat loss in the jetpipe:",
+				"",
+				"Obviously:",
+				""
+			],
+			"after": [
+				"Nozzle",
+				"",
+				"",
+				"",
+				"Since , the nozzle is CHOKED",
+				"Choked Nozzle",
+				"",
+				"Similarly for the nozzle static pressure:"
+			],
+			"color": " "
+		}
+	}
+}

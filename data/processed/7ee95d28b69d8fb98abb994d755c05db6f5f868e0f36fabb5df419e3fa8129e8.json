@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ee95d28b69d8fb98abb994d755c05db6f5f868e0f36fabb5df419e3fa8129e8",
+			"url": "https://upload.wikimedia.org/math/0/5/f/05fb4b449238a4004f2bbcd96e8c3bdd.png",
+			"previous": [
+				"The method of separation of variables for the wave equation",
+				"as well as the initial conditions",
+				"If the string is stretched between two points where x=0 and x=L and u denotes the amplitude of the displacement of the string, then u satisfies the one-dimensional wave equation in the region where 0 < x < L and t is unlimited. Since the string is tied down at the ends, u must also satisfy the boundary conditions"
+			],
+			"after": [
+				"leads to solutions of the form",
+				"where"
+			],
+			"color": "black|0.34102 dim|0.26099 gray|0.26099 dim|0.26099 grey|0.26099 gray|0.18392 grey|0.18392 dark|0.10988 gray|0.10988 dark|0.10988 grey|0.10988 silver|0.047432 light|0.024504 gray|0.024504 light|0.024504 grey|0.024504 gainsboro|0.01772  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "54cf737d9958274d5eef955205a6f7976d44fd607d355f793bb3d6dcd2a299f5",
+			"url": "https://upload.wikimedia.org/math/a/2/6/a26eff392e6966b6faf9acb545f4b8a1.png",
+				"previous": "The formula for exponential growth of a variable x at the (positive or negative) growth rate r, as time t goes on in discrete intervals (that is, at integer times 0, 1, 2, 3, ...), is",
+				"after": "where x0 is the value of x at time 0. For example, with a growth rate of r = 5% = 0.05, going from any integer value of time to the next integer causes x at the second time to be 1.05 times (i.e., 5% larger than) what it was at the previous time.",
+			"color": "dim|0.40286 gray|0.40286 dim|0.40286 grey|0.40286 gray|0.27917 grey|0.27917 dark|0.16835 gray|0.16835 dark|0.16835 grey|0.16835 silver|0.069977 light|0.034996 gray|0.034996 light|0.034996 grey|0.034996 gainsboro|0.02508 white|0.0049873 smoke|0.0049873  "
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "894908452a3907806633ddc084401a2591ead1bd2ab204eb97af92d7e6cef5d7",
+			"url": "https://upload.wikimedia.org/math/0/0/8/00810b83d9871b2ab7778e5f97461f4b.png",
+			"previous": [
+				"core total head pressure ratio =",
+				"core size =",
+				"core mass flow =",
+				"where:"
+			],
+			"after": [
+				"core entry total pressure =",
+				"core entry total temperature =",
+				"So basically, increasing increases .",
+				"On the other hand, adding a stage to the rear of the compressor increases overall pressure ratio, decreases core size, but has no effect on core flow. This option also needs a turbine with a significantly smaller flow capacity to drive the compressor."
+			],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "6989711957fd219ebb45f7a39575f67f6705aa2d19b77d6448da89e58a5e9bda",
+			"url": "https://upload.wikimedia.org/math/1/2/0/1201df693e27062ace4c8649684a2f41.png",
+			"previous": [
+				"and",
+				"into",
+				"When choosing a point t0 to evaluate a Bernstein polynomial we can use the two diagonals of the triangle scheme to construct a division of the polynomial"
+			],
+			"after": [
+				"We want to evaluate the Bernstein polynomial of degree 2 with the Bernstein coefficients",
+				"at the point t0.",
+				"We start the recursion with"
+			],
+			"color": "dim|0.36332 gray|0.36332 dim|0.36332 grey|0.36332 gray|0.28591 grey|0.28591 dark|0.18046 gray|0.18046 dark|0.18046 grey|0.18046 silver|0.08328 light|0.035381 gray|0.035381 light|0.035381 grey|0.035381 gainsboro|0.024674 white|0.0053259 smoke|0.0053259 lavender|0.0031079 blush|0.0031079 alice|0.0030274 blue|0.0030274  "
+		}
+	}
+}

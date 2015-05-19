@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "178213c81b6fdd398e78046579129cd1694a3c168f1074cfb4c94cf0b98be33c",
+			"url": "https://upload.wikimedia.org/math/7/6/5/765715c43fdb7fcf9727514f901de7ad.png",
+				"previous": "The rate of energy loss per unit surface area from surface friction, , is given by",
+			"after": [
+				"The rate of energy production per unit surface area, is given by",
+				"where is the heat engine efficiency and is the total rate of heat input into the system per unit surface area. Given that a tropical cyclone may be idealized as a Carnot heat engine, the Carnot heat engine efficiency is given by"
+			],
+			"color": "black|0.92469 dim|0.056958 gray|0.056958 dim|0.056958 grey|0.056958 gray|0.01719 grey|0.01719  "
+		}
+	}
+}

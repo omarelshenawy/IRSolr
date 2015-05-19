@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b1550e33ce9abe2c180af35c7649da47b1269e9f16859fef7dc3fbf2e78c85a",
+			"url": "https://upload.wikimedia.org/math/7/7/c/77cdfce6201a52259f542ae426908ec3.png",
+				"previous": "Using KÃ¶nig's theorem, one can prove Îº < Îºcf(Îº) and Îº < cf(2Îº) for any infinite cardinal Îº, where cf(Îº) is the cofinality of Îº.",
+				"after": "Assuming the axiom of choice and, given an infinite cardinal Îº and a finite cardinal Î¼ greater than 1, there may or may not be a cardinal Î» satisfying . However, if such a cardinal exists, it is infinite and less than Îº, and any finite cardinality Î½ greater than 1 will also satisfy .",
+			"color": "black|0.50917 dim|0.23509 gray|0.23509 dim|0.23509 grey|0.23509 gray|0.16124 grey|0.16124 dark|0.072518 gray|0.072518 dark|0.072518 grey|0.072518 silver|0.018275  "
+		}
+	}
+}

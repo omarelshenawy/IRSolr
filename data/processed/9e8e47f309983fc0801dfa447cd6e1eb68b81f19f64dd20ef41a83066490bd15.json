@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9e8e47f309983fc0801dfa447cd6e1eb68b81f19f64dd20ef41a83066490bd15",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/FreeBSD_9.1_Console_Login.png/220px-FreeBSD_9.1_Console_Login.png",
+			"previous": [],
+				"after": "In 1983, Richard Stallman announced the GNU project, an ambitious effort to create a free software Unix-like system; \"free\" in the sense that everyone who received a copy would be free to use, study, modify, and redistribute it. The GNU project's own kernel development project, GNU Hurd, had not produced a working kernel, but in 1991 Linus Torvalds released the Linux kernel as free software under the GNU General Public License. In addition to their use in the Linux operating system, many GNU packagesÂ â such as the GNU Compiler Collection (and the rest of the GNU toolchain), the GNU C library and the GNU core utilitiesÂ â have gone on to play central roles in other free Unix systems as well.",
+			"color": "black|0.94635 dim|0.034124 gray|0.034124 dim|0.034124 grey|0.034124 gray|0.0086674 grey|0.0086674 light|0.0076347 slate|0.0076347 gray|0.0076347  "
+		}
+	}
+}

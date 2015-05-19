@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "24eb35d16ec1690795d285e94a08e00ff6ac7addeb53644f7d6bbb08f066e50b",
+			"url": "https://upload.wikimedia.org/math/3/a/4/3a461cbdc5eda9d44a1be4765d458154.png",
+				"previous": "The net thrust (FN) of a turbojet is given by:[25]",
+				"after": "The above equation applies only for air-breathing jet engines. It does not apply to rocket engines. Most types of jet engine have an air intake, which provides the bulk of the fluid exiting the exhaust. Conventional rocket engines, however, do not have an intake, the oxidizer and fuel both being carried within the vehicle. Therefore, rocket engines do not have ram drag and the gross thrust of the rocket engine nozzle is the net thrust of the engine. Consequently, the thrust characteristics of a rocket motor are different from that of an air breathing jet engine, and thrust is independent of velocity.",
+			"color": "dim|0.40808 gray|0.40808 dim|0.40808 grey|0.40808 gray|0.2558 grey|0.2558 dark|0.15483 gray|0.15483 dark|0.15483 grey|0.15483 silver|0.067968 black|0.039468 light|0.033289 gray|0.033289 light|0.033289 grey|0.033289 gainsboro|0.0234 white|0.0039327 smoke|0.0039327  "
+		}
+	}
+}

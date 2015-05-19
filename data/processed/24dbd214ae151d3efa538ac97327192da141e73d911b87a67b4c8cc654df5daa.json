@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "24dbd214ae151d3efa538ac97327192da141e73d911b87a67b4c8cc654df5daa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Margarinefilling.png",
+			"previous": [],
+				"after": "A machine fills cups with a liquid, and is supposed to be adjusted so that the content of the cups is 250Â g of liquid. As the machine cannot fill every cup with exactly 250Â g, the content added to individual cups shows some variation, and is considered a random variable X. This variation is assumed to be normally distributed (although this assumption is not necessary for the theory to work) around the desired average of 250Â g, with a standard deviation, Ï, of 2.5Â g. To determine if the machine is adequately calibrated, a sample of nÂ =Â 25 cups of liquid are chosen at random and the cups are weighed. The resulting measured masses of liquid are X1,Â ...,Â X25, a random sample fromÂ X.",
+			"color": "golden|0.23516 rod|0.23516 dark|0.16712 golden|0.16712 rod|0.16712 gold|0.15078 dim|0.082634 gray|0.082634 dim|0.082634 grey|0.082634 navy|0.076439 pale|0.061451 golden|0.061451 rod|0.061451 dark|0.056355 blue|0.056355 midnight|0.05006 blue|0.05006  "
+		}
+	}
+}

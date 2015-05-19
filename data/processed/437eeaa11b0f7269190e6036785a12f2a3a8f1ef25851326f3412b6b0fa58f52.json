@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "437eeaa11b0f7269190e6036785a12f2a3a8f1ef25851326f3412b6b0fa58f52",
+			"url": "https://upload.wikimedia.org/math/1/2/b/12b8f7f62c9e47bf3f6359419e862893.png",
+				"previous": "Smoluchowski[17] attempts to answer the question of why a Brownian particle should be displaced by bombardments of smaller particles when the probabilities for striking it in the forward and rear directions are equal. In order to do so, he uses, unknowingly, the ballot theorem, first proved by W.A. Whitworth in 1878.[18] The ballot theorem states that if a candidate A scores m votes and candidate B scores nâm that the probability throughout the counting that A will have more votes than B is",
+				"after": "no matter how large the total number of votes n may be. In other words, if one candidate has an edge on the other candidate he will tend to keep that edge even though there is nothing favoring either candidate on a ballot extraction.",
+			"color": "dim|0.31702 gray|0.31702 dim|0.31702 grey|0.31702 gray|0.26384 grey|0.26384 dark|0.18987 gray|0.18987 dark|0.18987 grey|0.18987 silver|0.08861 light|0.064465 gray|0.064465 light|0.064465 grey|0.064465 gainsboro|0.043525 white|0.0066589 smoke|0.0066589 linen|0.0036864 lavender|0.0036591 blush|0.0036591 alice|0.0036482 blue|0.0036482 ghost|0.0035482 white|0.0035482 sea|0.003447 shell|0.003447 snow|0.0033651  "
+		}
+	}
+}

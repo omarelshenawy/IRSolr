@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7190283b18031b639b249de56a8242b97e16eaf812b01a59bf92f3ee7a85058d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sphere_halve.png/220px-Sphere_halve.png",
+				"previous": "Smale's paradox shows that it is possible to turn an ordinary sphere inside out in a three-dimensional space with possible self-intersections but without creating any crease, a process more commonly and historically called sphere eversion.",
+				"after": "The basic elements of Euclidean plane geometry are points and lines. On the sphere, points are defined in the usual sense. The analogue of the \"line\" is the geodesic, which is a great circle; the defining characteristic of the latter is that the plane containing all its points also passes through the center of the sphere. Measuring by arc length shows that the shortest path between two points lying entirely on the sphere is a segment of the great circle the includes the points.",
+			"color": "dark|0.50227 sea|0.50227 green|0.50227 light|0.052667 gray|0.052667 light|0.052667 grey|0.052667  "
+		}
+	}
+}

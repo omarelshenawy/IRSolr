@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "96dc90c5bad80389ff61c0d7a8fd8ece141c1d7f54c3bbd34a6e5e2c94d6f24e",
+			"url": "https://upload.wikimedia.org/math/9/2/b/92b695027a2ab5b29bc3b2e6f4ac233b.png",
+				"previous": "For example, if J[y] is a functional with the function y = y(x) as its argument, and there is a small change in its argument from y to y + h, where h = h(x) is a function in the same function space as y, then the corresponding change in the functional is",
+				"after": "The functional J[y] is said to be differentiable if",
+			"color": "dim|0.32202 gray|0.32202 dim|0.32202 grey|0.32202 gray|0.25856 grey|0.25856 dark|0.17113 gray|0.17113 dark|0.17113 grey|0.17113 silver|0.087511 light|0.053077 gray|0.053077 light|0.053077 grey|0.053077 gainsboro|0.040345 white|0.014074 smoke|0.014074 lavender|0.0081942 blush|0.0081942 alice|0.0068693 blue|0.0068693 linen|0.0068347 ghost|0.0066618 white|0.0066618 sea|0.0065868 shell|0.0065868 snow|0.0065505 white|0.0045113 mint|0.0029389 cream|0.0029389  "
+		}
+	}
+}

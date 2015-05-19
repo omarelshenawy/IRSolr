@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "118a27c24b4b66728afa1e83666962d89962ea17660bf3e6f70fffd982e394b7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Introduction_to_templates_on_Wikipedia.webm/220px--Introduction_to_templates_on_Wikipedia.webm.jpg",
+			"previous": [],
+				"after": "Most templates are pages in the Template namespace, which means that they have titles in the form \"Template:XXXX\". It is possible, however, to transclude and substitute from any namespace,[1] and so some template pages are placed in other namespaces, such as the User namespace. Template pages have associated talk pages.",
+			"color": "white|0.094017 smoke|0.094017 alice|0.092679 blue|0.092679 ghost|0.091531 white|0.091531 azure|0.086941 snow|0.085713 mint|0.085323 cream|0.085323 white|0.085278 sea|0.081383 shell|0.081383 floral|0.078256 white|0.078256 lavender|0.06837 blush|0.06837 gainsboro|0.025877 light|0.021977 gray|0.021977 light|0.021977 grey|0.021977 silver|0.017653 dark|0.014406 gray|0.014406 dark|0.014406 grey|0.014406 lavender|0.012514 ivory|0.012361 light|0.0087781 steel|0.0087781 blue|0.0087781 linen|0.00803 light|0.0075625 cyan|0.0075625 gray|0.0035121 grey|0.0035121 light|0.0034078 slate|0.0034078 gray|0.0034078 honeydew|0.0028256  "
+		}
+	}
+}

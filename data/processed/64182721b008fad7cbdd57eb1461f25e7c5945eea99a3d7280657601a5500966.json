@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "64182721b008fad7cbdd57eb1461f25e7c5945eea99a3d7280657601a5500966",
+			"url": "https://upload.wikimedia.org/math/2/0/9/2091903a94ea18141c35943959df7409.png",
+				"previous": "For Earth, the mean radius is 6,371.009 kilometers (3,958.761Â mi).[9]",
+			"after": [
+				"A closed-form solution exists for a spheroid:[10]",
+				"where and is the surface area of the spheroid.",
+				"For Earth, the authalic radius is 6,371.0072 kilometers (3,958.7603Â mi).[9]"
+			],
+			"color": "black|0.25702 gray|0.19907 grey|0.19907 dim|0.18777 gray|0.18777 dim|0.18777 grey|0.18777 dark|0.1612 gray|0.1612 dark|0.1612 grey|0.1612 silver|0.077871 light|0.045001 gray|0.045001 light|0.045001 grey|0.045001 gainsboro|0.034702 white|0.0080782 smoke|0.0080782 lavender|0.0039837 blush|0.0039837 linen|0.003847 alice|0.0038419 blue|0.0038419 ghost|0.0036899 white|0.0036899 sea|0.0035742 shell|0.0035742 snow|0.0034095  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c559285e6f7f07a379eac84541113949e0d5b513bd2f0625ef0199539548ab8",
+			"url": "https://upload.wikimedia.org/math/0/6/8/0682120e2628f8bf5d74a3d58e092457.png",
+			"previous": [
+				"It can also be shown that for the underlying BÃ©zier curve B,",
+				"The concept of Degree Elevation can be repeated on a control polygon R to get a sequence of control polygons R,R1,R2, and so on. After r degree elevations, the polygon Rr has the vertices P0,r,P1,r,P2,r,...,Pn+r,r given by [12]"
+			],
+				"after": "The rational BÃ©zier curve adds adjustable weights to provide closer approximations to arbitrary shapes. The numerator is a weighted Bernstein-form BÃ©zier curve and the denominator is a weighted sum of Bernstein polynomials. Rational BÃ©zier curves can, among other uses, be used to represent segments of conic sections exactly, including circular arcs.[13]",
+			"color": "dim|0.36162 gray|0.36162 dim|0.36162 grey|0.36162 gray|0.28714 grey|0.28714 dark|0.16426 gray|0.16426 dark|0.16426 grey|0.16426 silver|0.076111 light|0.045208 gray|0.045208 light|0.045208 grey|0.045208 gainsboro|0.034938 white|0.0085896 smoke|0.0085896 linen|0.0033219 lavender|0.0032434 blush|0.0032434 alice|0.003201 blue|0.003201 ghost|0.0031021 white|0.0031021 sea|0.0030112 shell|0.0030112 snow|0.0029794  "
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d327f189d6f74a0e6b8f4d1465fef708383570fa889bbf050efa21635a6f12b",
+			"url": "https://upload.wikimedia.org/math/d/8/d/d8d2b6c0e9d3c56090a2c5471aaeaceb.png",
+			"previous": [
+				"",
+				"Expected length of a code is",
+				".",
+				"Length of the code word is written as",
+				"is the code word associated with .",
+				"(or if the empty string is not part of the alphabet)."
+			],
+			"after": [
+				"The code word of the empty string is the empty string itself:",
+				"",
+				"Entropy of a source is the measure of information. Basically, source codes try to reduce the redundancy present in the source, and represent the source with fewer bits that carry more information."
+			],
+			"color": "gray|0.3093 grey|0.3093 dim|0.27347 gray|0.27347 dim|0.27347 grey|0.27347 dark|0.21579 gray|0.21579 dark|0.21579 grey|0.21579 silver|0.094653 light|0.048695 gray|0.048695 light|0.048695 grey|0.048695 gainsboro|0.034298 white|0.0060245 smoke|0.0060245 linen|0.0028447 lavender|0.0026207 blush|0.0026207  "
+		}
+	}
+}

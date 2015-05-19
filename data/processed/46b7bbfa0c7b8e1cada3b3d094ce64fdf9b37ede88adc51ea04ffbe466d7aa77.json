@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "46b7bbfa0c7b8e1cada3b3d094ce64fdf9b37ede88adc51ea04ffbe466d7aa77",
+			"url": "https://upload.wikimedia.org/math/3/0/f/30f8afc7abcbab35577a6bbf7a15fc4d.png",
+			"previous": [],
+				"after": "Before a particular measurement is performed on a quantum system, the theory usually gives only a probability distribution for the outcome, and the form that this distribution takes is completely determined by the quantum state and the observable describing the measurement. These probability distributions arise for both mixed states and pure states: it is impossible in quantum mechanics (unlike classical mechanics) to prepare a state in which all properties of the system are fixed and certain. This is exemplified by the uncertainty principle, and reflects a core difference between classical and quantum physics. Even in quantum theory, however, for every observable there are some states that have an exact and determined value for that observable.[2][3]",
+			"color": "silver|0.2519 dark|0.22501 gray|0.22501 dark|0.22501 grey|0.22501 gray|0.19059 grey|0.19059 light|0.16437 gray|0.16437 light|0.16437 grey|0.16437 gainsboro|0.12984 dim|0.029556 gray|0.029556 dim|0.029556 grey|0.029556 white|0.0025936 smoke|0.0025936  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0acadff614e5234fb5d61507a7dbc32b776a5b57db5ece5e27d6086179c52f34",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IBM_Blue_Gene_P_supercomputer.jpg/300px-IBM_Blue_Gene_P_supercomputer.jpg",
+			"previous": [],
+				"after": "Parallel computing is a form of computation in which many calculations are carried out simultaneously,[1] operating on the principle that large problems can often be divided into smaller ones, which are then solved concurrently (\"in parallel\"). There are several different forms of parallel computing: bit-level, instruction level, data, and task parallelism. Parallelism has been employed for many years, mainly in high-performance computing, but interest in it has grown lately due to the physical constraints preventing frequency scaling.[2] As power consumption (and consequently heat generation) by computers has become a concern in recent years,[3] parallel computing has become the dominant paradigm in computer architecture, mainly in the form of multi-core processors.[4]",
+			"color": "black|0.39778 dim|0.27182 gray|0.27182 dim|0.27182 grey|0.27182 gray|0.1215 grey|0.1215 dark|0.073828 gray|0.073828 dark|0.073828 grey|0.073828 silver|0.031077 slate|0.023565 gray|0.023565 dark|0.019468 slate|0.019468 gray|0.019468 light|0.014273 slate|0.014273 gray|0.014273 light|0.013875 gray|0.013875 light|0.013875 grey|0.013875 gainsboro|0.0079528  "
+		}
+	}
+}

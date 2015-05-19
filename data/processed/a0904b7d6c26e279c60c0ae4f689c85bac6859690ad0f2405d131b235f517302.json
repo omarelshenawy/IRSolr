@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0904b7d6c26e279c60c0ae4f689c85bac6859690ad0f2405d131b235f517302",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/General_Electric_TF34_%28A-10%29.jpg/220px-General_Electric_TF34_%28A-10%29.jpg",
+			"previous": [
+				"The civilian variant, the CF34, is used on a number of business and regional jets.",
+				"The General Electric TF34 is a military turbofan engine used on the A-10 Thunderbolt II and S-3 Viking. Developed by GE Aircraft Engines during the late 1960s, the original engine comprises a single stage fan, driven by a 4-stage low pressure (LP) turbine, supercharging a 14-stage high pressure (HP) compressor, driven by a 2-stage HP turbine. An annular combustor is featured. The TF34-GE-400A is rated at 9,275Â lbf (41.26Â kN) static thrust."
+			],
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "black|0.99891  "
+		}
+	}
+}

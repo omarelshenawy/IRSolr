@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f6018b5956c663227d29d43dd57b99b0ecc0747955bd489661b63fd0fcac1a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IRCd_software_implementations3.svg/220px-IRCd_software_implementations3.svg.png",
+			"previous": [],
+				"after": "An IRCd, short for Internet Relay Chat daemon, is server software that implements the IRC protocol, enabling people to talk to each other via the Internet (exchanging textual messages in real time). It is distinct from an IRC bot that connects outbound to an IRC channel.",
+			"color": "dark|0.3809 gray|0.3809 dark|0.3809 grey|0.3809 silver|0.20344 gray|0.19594 grey|0.19594 dim|0.11306 gray|0.11306 dim|0.11306 grey|0.11306 light|0.066319 gray|0.066319 light|0.066319 grey|0.066319 gainsboro|0.03723  "
+		}
+	}
+}

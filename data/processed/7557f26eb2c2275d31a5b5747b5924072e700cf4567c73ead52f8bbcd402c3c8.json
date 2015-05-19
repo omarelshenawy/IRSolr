@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7557f26eb2c2275d31a5b5747b5924072e700cf4567c73ead52f8bbcd402c3c8",
+			"url": "https://upload.wikimedia.org/math/a/2/8/a285eaf7b54e3e827bf2deb9c12a6920.png",
+			"previous": [
+				"The expression for is the same with and exchanged. Thus, using we get",
+				"Setting , and , the elementary symmetric polynomials, we have, using that :"
+			],
+			"after": [
+				"and a straightforward computation gives",
+				"Similarly we have"
+			],
+			"color": "dim|0.29784 gray|0.29784 dim|0.29784 grey|0.29784 gray|0.28431 grey|0.28431 dark|0.21235 gray|0.21235 dark|0.21235 grey|0.21235 silver|0.099332 light|0.051231 gray|0.051231 light|0.051231 grey|0.051231 gainsboro|0.036466 white|0.0052494 smoke|0.0052494 linen|0.0026853  "
+		}
+	}
+}

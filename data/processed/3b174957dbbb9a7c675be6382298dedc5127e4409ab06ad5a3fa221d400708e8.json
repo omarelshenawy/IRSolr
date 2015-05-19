@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b174957dbbb9a7c675be6382298dedc5127e4409ab06ad5a3fa221d400708e8",
+			"url": "https://upload.wikimedia.org/math/4/5/5/4550ebca7d564692b27d5d42bbb702e8.png",
+				"previous": "In case of a rocket or a jet aircraft, the force is exactly the thrust produced by the engine. If the rocket or aircraft is moving at about a constant speed, then distance divided by time is just speed, so power is thrust times speed:[5]",
+				"after": "This formula looks very surprising, but it is correct: the propulsive power (or power available [6]) of a jet engine increases with its speed. If the speed is zero, then the propulsive power is zero. If a jet aircraft is at full throttle but attached to a static test stand, then the jet engine produces no propulsive power, however thrust is still produced. Compare that to a piston engine. The combination piston engineâpropeller also has a propulsive power with exactly the same formula, and it will also be zero at zero speed â- but that is for the engineâpropeller set. The engine alone will continue to produce its rated power at a constant rate, whether the aircraft is moving or not.",
+			"color": "dim|0.31521 gray|0.31521 dim|0.31521 grey|0.31521 gray|0.23602 grey|0.23602 dark|0.17655 gray|0.17655 dark|0.17655 grey|0.17655 silver|0.11044 light|0.068344 gray|0.068344 light|0.068344 grey|0.068344 gainsboro|0.048255 white|0.011138 smoke|0.011138 linen|0.005554 lavender|0.0055356 blush|0.0055356 alice|0.0054623 blue|0.0054623 ghost|0.0053917 white|0.0053917 sea|0.0045212 shell|0.0045212 snow|0.0037277  "
+		}
+	}
+}

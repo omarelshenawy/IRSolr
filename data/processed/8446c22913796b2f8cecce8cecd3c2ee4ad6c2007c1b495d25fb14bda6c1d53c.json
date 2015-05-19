@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8446c22913796b2f8cecce8cecd3c2ee4ad6c2007c1b495d25fb14bda6c1d53c",
+			"url": "https://upload.wikimedia.org/math/9/3/5/935c3f3128adb30ce6d2290effec9bad.png",
+			"previous": [],
+				"after": "Conversely, if is diagonalizable, let be a non-singular square matrix such that is some diagonal matrix . Multiplying both sides on the left by we get . Therefore each column of must be an eigenvector of , whose eigenvalue is the corresponding element on the diagonal of . Since the columns of must be linearly independent, it follows that . Thus is equal to if and only if is diagonalizable.",
+			"color": "dim|0.37075 gray|0.37075 dim|0.37075 grey|0.37075 gray|0.28645 grey|0.28645 dark|0.18131 gray|0.18131 dark|0.18131 grey|0.18131 silver|0.082492 light|0.039664 gray|0.039664 light|0.039664 grey|0.039664 gainsboro|0.026867 white|0.0030454 smoke|0.0030454  "
+		}
+	}
+}

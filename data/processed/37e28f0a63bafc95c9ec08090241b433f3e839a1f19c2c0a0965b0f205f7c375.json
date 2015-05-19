@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "37e28f0a63bafc95c9ec08090241b433f3e839a1f19c2c0a0965b0f205f7c375",
+			"url": "https://upload.wikimedia.org/math/2/a/d/2ad55af3bf9d2bedd508f55bb7f9f8e6.png",
+			"previous": [
+				"Now y is eliminated from L3 by adding â4L2 to L3:",
+				"The result is:",
+				"In the example, x is eliminated from L2 by adding (3/2)L1 to L2. x is then eliminated from L3 by adding L1 to L3. Formally:"
+			],
+			"after": [
+				"The result is:",
+				"Now y is eliminated from L3 by adding â4L2 to L3:",
+				"The result is:"
+			],
+			"color": "dim|0.26604 gray|0.26604 dim|0.26604 grey|0.26604 gray|0.2156 grey|0.2156 black|0.19296 dark|0.16418 gray|0.16418 dark|0.16418 grey|0.16418 silver|0.081813 light|0.038726 gray|0.038726 light|0.038726 grey|0.038726 gainsboro|0.0267 white|0.0034612 smoke|0.0034612  "
+		}
+	}
+}

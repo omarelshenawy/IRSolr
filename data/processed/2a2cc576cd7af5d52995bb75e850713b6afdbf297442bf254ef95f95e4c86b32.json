@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a2cc576cd7af5d52995bb75e850713b6afdbf297442bf254ef95f95e4c86b32",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Field-Map_birdie.jpg/220px-Field-Map_birdie.jpg",
+				"previous": "GIS data represents real objects (such as roads, land use, elevation, trees, waterways, etc.) with digital data determining the mix. Real objects can be divided into two abstractions: discrete objects (e.g., a house) and continuous fields (such as rainfall amount, or elevations). Traditionally, there are two broad methods used to store data in a GIS for both kinds of abstractions mapping references: raster images and vector. Points, lines, and polygons are the stuff of mapped location attribute references. A new hybrid method of storing data is that of identifying point clouds, which combine three-dimensional points with RGB information at each point, returning a \"3D color image\". GIS thematic maps then are becoming more and more realistically visually descriptive of what they set out to show or determine.",
+			"after": [
+				"Data captureâentering information into the systemâconsumes much of the time of GISÂ practitioners. There are a variety of methods used to enter data into a GIS where it is stored in a digital format.",
+				"Existing data printed on paper or PET film maps can be digitized or scanned to produce digital data. A digitizer produces vector data as an operator traces points, lines, and polygon boundaries from a map. Scanning a map results in raster data that could be further processed to produce vector data."
+			],
+			"color": "black|0.11787 dim|0.11693 gray|0.11693 dim|0.11693 grey|0.11693 light|0.077274 gray|0.077274 light|0.077274 grey|0.077274 silver|0.06941 gray|0.058472 grey|0.058472 antique|0.058047 white|0.058047 gainsboro|0.055802 dark|0.05379 gray|0.05379 dark|0.05379 grey|0.05379 linen|0.053228 old|0.04001 lace|0.04001 sea|0.037499 shell|0.037499 floral|0.032788 white|0.032788 white|0.029103 smoke|0.029103 snow|0.025144 ivory|0.024183 misty|0.021514 rose|0.021514 white|0.018963 mint|0.018639 cream|0.018639 papaya|0.013629 whip|0.013629 peach|0.0124 puff|0.0124 beige|0.010101 bisque|0.0080584 lavender|0.0069729 blush|0.0069729 ghost|0.0059689 white|0.0059689 blanched|0.0059327 almond|0.0059327 honeydew|0.0054342  "
+		}
+	}
+}

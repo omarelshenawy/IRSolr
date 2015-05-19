@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "69bbc8c6fab590392c8a80d8a00232d263db133a2ba6147b41535fe414c2120b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Erioll_world.svg/18px-Erioll_world.svg.png",
+				"previous": "WikiMiniAtlas is a JavaScript to add to your monobook.js. It adds a draggable and zoomable (just like GoogleMaps) map to all geo-coded articles. Clickable labels with links to other geocoded articles are placed on the map to allow spatial browsing of Wikipedia. Map layers include satellite images (using Landsat7 data) with zoomlevels down to a resolution <100m, and daily updated MODIS satellite data.",
+			"after": [],
+			"color": "cadet|0.21024 blue|0.21024 powder|0.20772 blue|0.20772 light|0.17215 blue|0.17215 steel|0.13477 blue|0.13477 sky|0.12194 blue|0.12194 deep|0.087563 sky|0.087563 blue|0.087563 light|0.02371 sky|0.02371 blue|0.02371 pale|0.011249 turquoise|0.011249 light|0.0091278 steel|0.0091278 blue|0.0091278 light|0.006011 slate|0.006011 gray|0.006011  "
+		}
+	}
+}

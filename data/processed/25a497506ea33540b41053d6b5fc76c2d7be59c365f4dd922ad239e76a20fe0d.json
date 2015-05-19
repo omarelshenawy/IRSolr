@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "25a497506ea33540b41053d6b5fc76c2d7be59c365f4dd922ad239e76a20fe0d",
+			"url": "https://upload.wikimedia.org/math/3/0/2/3025ba39155c31511fcc675edf2f4621.png",
+			"previous": [
+				"or simply",
+				"Given n + 1 control points Pi, the rational BÃ©zier curve can be described by:",
+				"The rational BÃ©zier curve adds adjustable weights to provide closer approximations to arbitrary shapes. The numerator is a weighted Bernstein-form BÃ©zier curve and the denominator is a weighted sum of Bernstein polynomials. Rational BÃ©zier curves can, among other uses, be used to represent segments of conic sections exactly, including circular arcs.[13]"
+			],
+			"after": [],
+			"color": "gray|0.3074 grey|0.3074 dim|0.25626 gray|0.25626 dim|0.25626 grey|0.25626 dark|0.2321 gray|0.2321 dark|0.2321 grey|0.2321 silver|0.10745 light|0.047319 gray|0.047319 light|0.047319 grey|0.047319 gainsboro|0.033329 white|0.0042856 smoke|0.0042856  "
+		}
+	}
+}

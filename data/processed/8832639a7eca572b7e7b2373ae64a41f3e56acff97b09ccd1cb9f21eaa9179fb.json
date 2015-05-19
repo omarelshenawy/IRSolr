@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8832639a7eca572b7e7b2373ae64a41f3e56acff97b09ccd1cb9f21eaa9179fb",
+			"url": "https://upload.wikimedia.org/math/0/5/2/052ddcb90794a3ea3536624985fc4d2b.png",
+				"previous": "Although the partial derivative exhibits a product rule, the geometric derivative only partially inherits this property. Consider two functions F and G:",
+				"after": "Since the geometric product is not commutative with in general, we cannot proceed further without new notation. A solution is to adopt the overdot notation, in which the scope of a geometric derivative with an overdot is the multivector-valued function sharing the same overdot. In this case, if we define",
+			"color": "gray|0.31935 grey|0.31935 dim|0.2496 gray|0.2496 dim|0.2496 grey|0.2496 dark|0.23615 gray|0.23615 dark|0.23615 grey|0.23615 silver|0.10101 light|0.044462 gray|0.044462 light|0.044462 grey|0.044462 gainsboro|0.030365 white|0.0051224 smoke|0.0051224 linen|0.0027371  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3469bce51696a4c8e3915467ffacf6bc3b99bc007761b2d4c31fb3bd066d87b1",
+			"url": "https://upload.wikimedia.org/math/9/b/a/9ba509dabdb175cc0e8b3cf64a1150c3.png",
+				"previous": "The shape of an ellipsoid of revolution is determined by the shape of the ellipse which is rotated about its minor (shorter) axis. Two parameters are required. One is invariably the equatorial radius, which is the semi-major axis, a. The other parameter is usually (1)Â the polar radius or semi-minor axis, b; or (2)Â the (first) flattening, f; or (3)Â the eccentricity, e. These parameters are not independent: they are related by",
+				"after": "Many other parameters (see ellipse, ellipsoid) appear in the study of geodesy, geophysics and map projections but they can all be expressed in terms of one or two members of the set a, b, f and e. Both f and e are small and often appear in series expansions in calculations; they are of the order 1/300 and 0.08, respectively. Values for a number of ellipsoids are given in Figure of the Earth. Reference ellipsoids are usually defined by the semi-major axis and the inverse flattening, 1/f. For example, the defining values for the WGS84 ellipsoid, used by all GPS devices, are[6]",
+			"color": "dim|0.366 gray|0.366 dim|0.366 grey|0.366 gray|0.23353 grey|0.23353 dark|0.15849 gray|0.15849 dark|0.15849 grey|0.15849 black|0.098495 silver|0.071629 light|0.033699 gray|0.033699 light|0.033699 grey|0.033699 gainsboro|0.025433  "
+		}
+	}
+}

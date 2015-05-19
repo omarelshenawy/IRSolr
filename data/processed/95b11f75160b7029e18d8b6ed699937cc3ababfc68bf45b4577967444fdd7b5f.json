@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "95b11f75160b7029e18d8b6ed699937cc3ababfc68bf45b4577967444fdd7b5f",
+			"url": "https://upload.wikimedia.org/math/a/0/d/a0d0d432dab07f6f48d729d730b2a497.png",
+				"previous": "In geometric calculus, juxtapositioning of vectors such as in indicate the geometric product and can be decomposed into parts as . Here is the covector derivative in any spacetime and reduces to in flat spacetime. Where plays a role in Minkowski 4-spacetime which is synonymous to the role of in Euclidean 3-space and is related to the D'Alembertian by . Indeed given an observer represented by a future pointing timelike vector we have",
+			"after": [
+				"may be directly compared to vector algebra.",
+				"The even subalgebra of is isomorphic to the complex numbers, as may be seen by writing a vector P in terms of its components in an orthonormal basis and left multiplying by the basis vector e1, yielding"
+			],
+			"color": " "
+		}
+	}
+}

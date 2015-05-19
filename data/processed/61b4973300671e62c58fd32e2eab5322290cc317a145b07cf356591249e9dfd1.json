@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "61b4973300671e62c58fd32e2eab5322290cc317a145b07cf356591249e9dfd1",
+			"url": "https://upload.wikimedia.org/math/e/4/d/e4d5c7735acfd36a3448fdbe91c51ff7.png",
+				"previous": "The skin friction coefficient, , is defined by",
+				"after": "where is the local wall shear stress, is the fluid density, and is the free-stream velocity (usually taken outside the boundary layer or at the inlet).[2] For boundary layers without a pressure gradient in the x direction, it is related to the momentum thickness as",
+			"color": "gray|0.29379 grey|0.29379 dim|0.2589 gray|0.2589 dim|0.2589 grey|0.2589 dark|0.21308 gray|0.21308 dark|0.21308 grey|0.21308 silver|0.10818 light|0.054448 gray|0.054448 light|0.054448 grey|0.054448 gainsboro|0.039574 white|0.0065024 smoke|0.0065024 linen|0.0039266 lavender|0.003836 blush|0.003836 alice|0.0037153 blue|0.0037153 ghost|0.0036291 white|0.0036291 sea|0.0035305 shell|0.0035305 snow|0.0034335  "
+		}
+	}
+}

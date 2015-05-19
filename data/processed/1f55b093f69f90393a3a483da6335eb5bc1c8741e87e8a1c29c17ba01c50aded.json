@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f55b093f69f90393a3a483da6335eb5bc1c8741e87e8a1c29c17ba01c50aded",
+			"url": "https://upload.wikimedia.org/math/7/1/e/71e623347b1518bab512c1acb52a401b.png",
+			"previous": [
+				"so",
+				"Alternatively this formula is found using spherical coordinates, with volume element"
+			],
+			"after": [
+				"In higher dimensions, the analog of a sphere is called a hypersphere, which encloses an n-ball. General recursive and non-recursive formulas exist for the volume of an n-ball.",
+				"In analytic geometry, a sphere with center (x0, y0, z0) and radius r is the locus of all points (x, y, z) such that"
+			],
+			"color": "gray|0.32461 grey|0.32461 dim|0.28384 gray|0.28384 dim|0.28384 grey|0.28384 dark|0.2143 gray|0.2143 dark|0.2143 grey|0.2143 silver|0.086878 light|0.040033 gray|0.040033 light|0.040033 grey|0.040033 gainsboro|0.028345 white|0.0052603 smoke|0.0052603 linen|0.0027548  "
+		}
+	}
+}

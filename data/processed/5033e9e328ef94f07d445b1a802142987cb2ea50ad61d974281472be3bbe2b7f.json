@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "5033e9e328ef94f07d445b1a802142987cb2ea50ad61d974281472be3bbe2b7f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Algebraic_number_in_the_complex_plane.png/220px-Algebraic_number_in_the_complex_plane.png",
+			"previous": [],
+				"after": "The sum, difference, product and quotient of two algebraic numbers is again algebraic (this fact can be demonstrated using the resultant), and the algebraic numbers therefore form a field, sometimes denoted by A (which may also denote the adele ring) or Q. Every root of a polynomial equation whose coefficients are algebraic numbers is again algebraic. This can be rephrased by saying that the field of algebraic numbers is algebraically closed. In fact, it is the smallest algebraically closed field containing the rationals, and is therefore called the algebraic closure of the rationals.",
+			"color": "blue|0.35001 medium|0.17895 slate|0.17895 blue|0.17895 dodger|0.14869 blue|0.14869 royal|0.12017 blue|0.12017 medium|0.061606 blue|0.061606 corn|0.044899 flower|0.044899 blue|0.044899 deep|0.018899 sky|0.018899 blue|0.018899 lavender|0.017187  "
+		}
+	}
+}

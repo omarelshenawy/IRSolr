@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e596ca9b865acf283fdbbba2bd2439d7cb5587805e067d422366f7959c61f77",
+			"url": "https://upload.wikimedia.org/math/1/f/f/1ff5902d62d97b053c033a4103dc37e5.png",
+			"previous": [
+				"The first law can be stated mathematically as",
+				"The first law states that if the net force (the vector sum of all forces acting on an object) is zero, then the velocity of the object is constant. Velocity is a vector quantity which expresses both the object's speed and the direction of its motion; therefore, the statement that the object's velocity is constant is a statement that both its speed and the direction of its motion are constant."
+			],
+				"after": "Consequently,",
+			"color": "dim|0.3798 gray|0.3798 dim|0.3798 grey|0.3798 gray|0.27122 grey|0.27122 dark|0.16975 gray|0.16975 dark|0.16975 grey|0.16975 silver|0.079298 light|0.045591 gray|0.045591 light|0.045591 grey|0.045591 gainsboro|0.031677 white|0.0050212 smoke|0.0050212  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d0cb4c8ff6c9218fd861f3b10384bc3cfc0bec39385cd75d7101fdb73e07484",
+			"url": "https://upload.wikimedia.org/math/6/9/c/69cceb5852fe84950533172e33b8bcad.png",
+				"previous": "Using the previous equation and \"a\", an expression for Cs comes out to be:",
+			"after": [
+				"Now, Ideal Value of Power supplied to the Propeller = Mass flow rate * Change in Stagnation enthalpy;[1]",
+				"If propeller was employed to propel an aircraft at speed = Cu; then Useful Power = Axial Thrust * Speed of Aircraft;[1]"
+			],
+			"color": "dim|0.3913 gray|0.3913 dim|0.3913 grey|0.3913 gray|0.27453 grey|0.27453 dark|0.1634 gray|0.1634 dark|0.1634 grey|0.1634 silver|0.06964 light|0.033767 gray|0.033767 light|0.033767 grey|0.033767 black|0.029986 gainsboro|0.02355 white|0.0037872 smoke|0.0037872  "
+		}
+	}
+}

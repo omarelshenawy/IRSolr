@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "950acb7399e9f31aa827e7d8ba153a4411ad02cecc85a27faf8069ae50c7b44c",
+			"url": "https://upload.wikimedia.org/math/a/0/0/a00aada832fa3047ab53447b575dd6c1.png",
+				"previous": "where gravity points \"downwards\" and is the angle the pendulum forms with its rest position, as shown in the figure at right. One approach to \"solving\" this equation is to use as an integrating factor, which would eventually yield",
+				"after": "which is an implicit solution involving an elliptic integral. This \"solution\" generally does not have many uses because most of the nature of the solution is hidden in the nonelementary integral (nonelementary even if ).",
+			"color": "dim|0.40356 gray|0.40356 dim|0.40356 grey|0.40356 gray|0.28518 grey|0.28518 dark|0.17301 gray|0.17301 dark|0.17301 grey|0.17301 silver|0.071147 light|0.031888 gray|0.031888 light|0.031888 grey|0.031888 gainsboro|0.023241 white|0.0035344 smoke|0.0035344  "
+		}
+	}
+}

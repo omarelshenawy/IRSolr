@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "17282f702dfa3e9920f0da518f106271101faa783e1fd1011e47b08fa6631454",
+			"url": "https://upload.wikimedia.org/math/4/0/c/40c9ddfd9af8e2c50c53e59bf616ea4b.png",
+			"previous": [
+				"to get",
+				"Dividing by and inserting from Kepler's first law"
+			],
+			"after": [
+				"The result is a usable relationship between the eccentric anomaly E and the true anomalyÂ Î¸.",
+				"A computationally more convenient form follows by substituting into the trigonometric identity:"
+			],
+			"color": "dim|0.34198 gray|0.34198 dim|0.34198 grey|0.34198 gray|0.28666 grey|0.28666 dark|0.18432 gray|0.18432 dark|0.18432 grey|0.18432 silver|0.08326 light|0.043728 gray|0.043728 light|0.043728 grey|0.043728 gainsboro|0.031417 black|0.0060534 white|0.0058602 smoke|0.0058602  "
+		}
+	}
+}

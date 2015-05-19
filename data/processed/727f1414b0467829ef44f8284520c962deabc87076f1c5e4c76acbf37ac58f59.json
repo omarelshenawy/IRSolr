@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "727f1414b0467829ef44f8284520c962deabc87076f1c5e4c76acbf37ac58f59",
+			"url": "https://upload.wikimedia.org/math/e/6/3/e6384b0ee3faddc93a135be3e78067ab.png",
+				"previous": "In the plane , a horizontal shear (or shear parallel to the x axis) is a function that takes a generic point with coordinates to the point ; where is a fixed parameter, called the shear factor.",
+				"after": "Straight lines parallel to the -axis remain where they are, while all other lines are turned, by various angles, about the point where they cross the -axis. Vertical lines, in particular, become oblique lines with slope . Therefore the shear factor is the cotangent of the angle by which the vertical lines tilt, called the shear angle.",
+			"color": "dim|0.32672 gray|0.32672 dim|0.32672 grey|0.32672 gray|0.3086 grey|0.3086 dark|0.18593 gray|0.18593 dark|0.18593 grey|0.18593 silver|0.082066 light|0.041431 gray|0.041431 light|0.041431 grey|0.041431 gainsboro|0.028606 white|0.0057104 smoke|0.0057104 linen|0.0029963 lavender|0.0028208 blush|0.0028208 alice|0.0027828 blue|0.0027828 ghost|0.0026785 white|0.0026785  "
+		}
+	}
+}

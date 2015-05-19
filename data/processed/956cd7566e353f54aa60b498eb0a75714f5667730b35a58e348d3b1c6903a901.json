@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "956cd7566e353f54aa60b498eb0a75714f5667730b35a58e348d3b1c6903a901",
+			"url": "https://upload.wikimedia.org/math/7/2/9/729c72d0758e1ab9c4fadf617d458522.png",
+			"previous": [
+				"The nozzle throat velocity (squared) is calculated using the Steady Flow Energy Equation:",
+				"",
+				"Similarly for the nozzle static pressure:"
+			],
+			"after": [
+				"The density of the gases at the nozzle throat is given by:",
+				"",
+				"Nozzle throat effective area is estimated as follows:"
+			],
+			"color": "dim|0.37525 gray|0.37525 dim|0.37525 grey|0.37525 gray|0.2754 grey|0.2754 dark|0.16343 gray|0.16343 dark|0.16343 grey|0.16343 silver|0.067125 black|0.054267 light|0.0311 gray|0.0311 light|0.0311 grey|0.0311 gainsboro|0.021116 white|0.0032596 smoke|0.0032596  "
+		}
+	}
+}

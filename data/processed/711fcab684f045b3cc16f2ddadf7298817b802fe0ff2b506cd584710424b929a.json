@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "711fcab684f045b3cc16f2ddadf7298817b802fe0ff2b506cd584710424b929a",
+			"url": "https://upload.wikimedia.org/math/5/8/d/58d62550acc7e4aff091107a6fb56a8d.png",
+				"previous": "The theoretical maximum efficiency of any heat engine depends only on the temperatures it operates between. This efficiency is usually derived using an ideal imaginary heat engine such as the Carnot heat engine, although other engines using different cycles can also attain maximum efficiency. Mathematically, this is because in reversible processes, the change in entropy of the cold reservoir is the negative of that of the hot reservoir (i.e., ), keeping the overall change of entropy zero. Thus:",
+				"after": "where is the absolute temperature of the hot source and that of the cold sink, usually measured in kelvin. Note that is positive while is negative; in any reversible work-extracting process, entropy is overall not increased, but rather is moved from a hot (high-entropy) system to a cold (low-entropy one), decreasing the entropy of the heat source and increasing that of the heat sink.",
+			"color": "dim|0.36196 gray|0.36196 dim|0.36196 grey|0.36196 gray|0.2775 grey|0.2775 dark|0.17447 gray|0.17447 dark|0.17447 grey|0.17447 silver|0.090638 light|0.04637 gray|0.04637 light|0.04637 grey|0.04637 gainsboro|0.031544 white|0.0045755 smoke|0.0045755  "
+		}
+	}
+}

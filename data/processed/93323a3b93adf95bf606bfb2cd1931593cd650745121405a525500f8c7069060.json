@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "93323a3b93adf95bf606bfb2cd1931593cd650745121405a525500f8c7069060",
+			"url": "https://upload.wikimedia.org/math/a/6/e/a6eff962c57b45bc6c452f468a013201.png",
+			"previous": [
+				"Now,",
+				"Also from the figure [1]-",
+				"Lift Coefficient (CL) and Drag Coefficient (CD) are given as -"
+			],
+			"after": [
+				"Therefore,[1]",
+				"Similarly, solving for ÎFy, ÎFy is found out to be[1] -",
+				"and",
+				"Finally, thrust and torque can be found out for an elemental section as they are proportional to Fx and Fy respectively.[1]"
+			],
+			"color": "dim|0.44726 gray|0.44726 dim|0.44726 grey|0.44726 gray|0.28019 grey|0.28019 dark|0.12461 gray|0.12461 dark|0.12461 grey|0.12461 silver|0.052959 black|0.027588 light|0.027131 gray|0.027131 light|0.027131 grey|0.027131 gainsboro|0.019531 white|0.0042113 smoke|0.0042113  "
+		}
+	}
+}

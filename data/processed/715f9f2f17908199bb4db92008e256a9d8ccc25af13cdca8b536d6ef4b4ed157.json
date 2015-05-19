@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "715f9f2f17908199bb4db92008e256a9d8ccc25af13cdca8b536d6ef4b4ed157",
+			"url": "https://upload.wikimedia.org/math/5/c/2/5c2a12b4d250de1de83ba4629950c5de.png",
+			"previous": [],
+				"after": "It was shown by Gauss that . In general, an O(r) error term would be possible with the unit circle (or, more properly, the closed unit disk) replaced by the dilates of any bounded planar region with piecewise smooth boundary. Furthermore, replacing the unit circle by the unit square, the error term for the general problem can be as large as a linear function ofÂ r. Therefore getting an error bound of the form for some in the case of the circle is a significant improvement. The first to attain this was SierpiÅski in 1906, who showed . In 1915, Hardy and Landau each showed that one does not have . Since then the goal has been to show that for each fixed there exists a real number such that .",
+			"color": "gray|0.30639 grey|0.30639 dim|0.28888 gray|0.28888 dim|0.28888 grey|0.28888 dark|0.19712 gray|0.19712 dark|0.19712 grey|0.19712 silver|0.096919 light|0.049115 gray|0.049115 light|0.049115 grey|0.049115 gainsboro|0.034949 white|0.0059318 smoke|0.0059318 linen|0.0029445 lavender|0.0028851 blush|0.0028851 alice|0.0028424 blue|0.0028424 ghost|0.0027104 white|0.0027104  "
+		}
+	}
+}

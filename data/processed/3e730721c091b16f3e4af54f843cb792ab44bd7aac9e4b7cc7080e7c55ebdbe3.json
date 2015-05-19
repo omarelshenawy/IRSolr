@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e730721c091b16f3e4af54f843cb792ab44bd7aac9e4b7cc7080e7c55ebdbe3",
+			"url": "https://upload.wikimedia.org/math/a/8/9/a89ac2deccff08923b0f6f5a3e77cdbf.png",
+			"previous": [
+				"since in the instantaneous rest frame, the particle is at rest. Since the interval is assumed timelike (lightlike), one may take the square root of the above expression;[3]",
+				"expressed in any Lorentz frame and here assumed timelike (or lightlike), separating points on a trajectory of a particle (think clock). The same interval can be expressed in coordinates such that at each moment, the particle is at rest. Such a frame is called an instantaneous rest frame. Due to the invariance of the interval (instantaneous rest frames taken at different times are related by Lorentz transformations) one may write"
+			],
+			"after": [
+				"or",
+				"Given this differential expression for Ï, the proper time interval is defined as"
+			],
+			"color": "gray|0.242 grey|0.242 dim|0.24003 gray|0.24003 dim|0.24003 grey|0.24003 dark|0.22493 gray|0.22493 dark|0.22493 grey|0.22493 black|0.19839 silver|0.078208 light|0.013791 gray|0.013791 light|0.013791 grey|0.013791  "
+		}
+	}
+}

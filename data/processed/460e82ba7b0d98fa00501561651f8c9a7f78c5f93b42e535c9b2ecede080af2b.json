@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "460e82ba7b0d98fa00501561651f8c9a7f78c5f93b42e535c9b2ecede080af2b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Airfoil_angle_of_attack.jpg/300px-Airfoil_angle_of_attack.jpg",
+				"previous": "The left hand side of this equation represents the pressure difference perpendicular to the fluid flow. On the right hand side Ï is the density, v is the velocity, and R is the radius of curvature. This formula shows that higher velocities and tighter curvatures create larger pressure differentials and that for straight flow (R â â) the pressure difference is zero.[51]",
+				"after": "The angle of attack is the angle between the chord line of an airfoil and the oncoming air. A symmetrical airfoil will generate zero lift at zero angle of attack. But as the angle of attack increases, the air is deflected through a larger angle and the vertical component of the airstream velocity increases, resulting in more lift. For small angles a symmetrical airfoil will generate a lift force roughly proportional to the angle of attack.[52][53]",
+			"color": " "
+		}
+	}
+}

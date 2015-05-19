@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d31509d402f4763ca2abf8293b5196adbf54a4aaf387a4b97171eec6a277766",
+			"url": "https://upload.wikimedia.org/math/9/4/b/94b9e902fdc47686630ab8b4ba5efff8.png",
+			"previous": [
+				"Substitute V:",
+				"In the limit as Î´r approaches zero[3] this equation becomes:",
+				"The total volume is the summation of all shell volumes:"
+			],
+			"after": [
+				"Differentiating both sides of this equation with respect to r yields A as a function of r:",
+				"Which is generally abbreviated as:",
+				"Alternatively, the area element on the sphere is given in spherical coordinates by . With Cartesian coordinates, the area element . More generally, see area element."
+			],
+			"color": "dim|0.36626 gray|0.36626 dim|0.36626 grey|0.36626 gray|0.29281 grey|0.29281 dark|0.1844 gray|0.1844 dark|0.1844 grey|0.1844 silver|0.077359 light|0.03481 gray|0.03481 light|0.03481 grey|0.03481 gainsboro|0.023881 white|0.0043936 smoke|0.0043936  "
+		}
+	}
+}

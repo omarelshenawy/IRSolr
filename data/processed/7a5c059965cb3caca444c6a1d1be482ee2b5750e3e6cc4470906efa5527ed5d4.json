@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a5c059965cb3caca444c6a1d1be482ee2b5750e3e6cc4470906efa5527ed5d4",
+			"url": "https://upload.wikimedia.org/math/5/8/d/58d9a965cb298bfa8dd1e1470f0c2460.png",
+				"previous": "The Fourier series coefficients (and inverse transform), are defined by:",
+				"after": "Parameter T corresponds to the sampling interval, and this Fourier series can now be recognized as a form of the Poisson summation formula. Thus we have the important result that when a discrete data sequence, s[n], is proportional to samples of an underlying continuous function, s(t), one can observe a periodic summation of the continuous Fourier transform, S(Æ). That is a cornerstone in the foundation of digital signal processing. Furthermore, under certain idealized conditions one can theoretically recover S(Æ) and s(t) exactly. A sufficient condition for perfect recovery is that the non-zero portion of S(Æ) be confined to a known frequency interval of width 1/T. When that interval is [-0.5/T, 0.5/T], the applicable reconstruction formula is the WhittakerâShannon interpolation formula.",
+			"color": "black|0.30219 dim|0.21499 gray|0.21499 dim|0.21499 grey|0.21499 dark|0.1922 gray|0.1922 dark|0.1922 grey|0.1922 gray|0.18838 grey|0.18838 silver|0.068715 light|0.025255 gray|0.025255 light|0.025255 grey|0.025255 gainsboro|0.00821  "
+		}
+	}
+}

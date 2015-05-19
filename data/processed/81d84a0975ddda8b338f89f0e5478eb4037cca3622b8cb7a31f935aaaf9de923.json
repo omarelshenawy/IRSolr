@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "81d84a0975ddda8b338f89f0e5478eb4037cca3622b8cb7a31f935aaaf9de923",
+			"url": "https://upload.wikimedia.org/math/6/2/6/62642c5f1cc6c27d4bd29b3a7284edbd.png",
+				"previous": "The other type of wave to be considered is one with localized structure described by an envelope, which may be expressed mathematically as, for example:",
+				"after": "where now A(k1) (the integral is the inverse fourier transform of A(k1)) is a function exhibiting a sharp peak in a region of wave vectors Îk surrounding the point k1 = k. In exponential form:",
+			"color": "dim|0.36216 gray|0.36216 dim|0.36216 grey|0.36216 gray|0.28574 grey|0.28574 dark|0.1807 gray|0.1807 dark|0.1807 grey|0.1807 silver|0.078641 light|0.039757 gray|0.039757 light|0.039757 grey|0.039757 gainsboro|0.028279 white|0.0054782 smoke|0.0054782  "
+		}
+	}
+}

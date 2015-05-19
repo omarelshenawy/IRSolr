@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "09f67524589a3b49f73651a3e58be3561f97430d65ad7b9590c22308e4a22e28",
+			"url": "https://upload.wikimedia.org/math/7/e/8/7e884aeee8a96805f82190b136e0b5da.png",
+			"previous": [
+				"and this quantity is the square of the Euclidean distance between z and the origin. For instance, {zÂ : z z* = 1} is the unit circle.",
+				"In analytic geometry a plane is described with Cartesian coordinatesÂ : C = {(x,y)Â : x, y in R}. The points are sometimes identified with complex numbers z = x + y Îµ where the square of Îµ is in {â1, 0, +1}. The Euclidean plane corresponds to the case Îµ2 = â1 since the modulus of z is given by"
+			],
+			"after": [
+				"and {zÂ : z z* = 1} is the unit hyperbola.",
+				"When , then z is a dual number.[25]"
+			],
+			"color": "dim|0.3869 gray|0.3869 dim|0.3869 grey|0.3869 gray|0.28049 grey|0.28049 dark|0.17255 gray|0.17255 dark|0.17255 grey|0.17255 silver|0.070829 light|0.038271 gray|0.038271 light|0.038271 grey|0.038271 gainsboro|0.027988 white|0.0061091 smoke|0.0061091  "
+		}
+	}
+}

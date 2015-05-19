@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "387d91a1304f4a04cdbbf07be334d411d4e3fde7b045df80682aac8aa32e4891",
+			"url": "https://upload.wikimedia.org/math/d/a/7/da7f295fd464b9df5214458f6f1986a2.png",
+			"previous": [
+				"that is compatible with addition and scalar multiplication:",
+				"Similarly as in the theory of other algebraic structures, linear algebra studies mappings between vector spaces that preserve the vector-space structure. Given two vector spaces V and W over a field F, a linear transformation (also called linear map, linear mapping or linear operator) is a map"
+			],
+			"after": [
+				"for any vectors u,v â V and a scalar a â F.",
+				"Additionally for any vectors u, v â V and scalars a, b â F:"
+			],
+			"color": "dim|0.39955 gray|0.39955 dim|0.39955 grey|0.39955 gray|0.28127 grey|0.28127 dark|0.16884 gray|0.16884 dark|0.16884 grey|0.16884 silver|0.072618 light|0.035326 gray|0.035326 light|0.035326 grey|0.035326 gainsboro|0.023975 white|0.0043919 smoke|0.0043919  "
+		}
+	}
+}

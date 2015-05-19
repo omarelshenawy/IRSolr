@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "70ac117807b9c341672b362e757bc69327128915ab252fe0bdc4f7f3a161dc64",
+			"url": "https://upload.wikimedia.org/math/f/9/d/f9dcc197d46cb18ee32bd46beb7b8278.png",
+			"previous": [],
+				"after": "The first equation shows that, after one second, an object will have fallen a distance of 1/2 Ã 9.8 Ã 12 = 4.9 meters. After two seconds it will have fallen 1/2 Ã 9.8 Ã 22 = 19.6 meters; and so on. The second to last equation becomes grossly inaccurate at great distances. If an object fell 10,000 meters to Earth, then the results of both equations differ by only 0.08%; however, if it fell from geosynchronous orbit, which is 42,164 km, then the difference changes to almost 64%.",
+			"color": "gray|0.33198 grey|0.33198 dark|0.24167 gray|0.24167 dark|0.24167 grey|0.24167 dim|0.2202 gray|0.2202 dim|0.2202 grey|0.2202 silver|0.09947 light|0.047001 gray|0.047001 light|0.047001 grey|0.047001 gainsboro|0.033792 white|0.0063624 smoke|0.0063624 linen|0.0031001 lavender|0.0026848 blush|0.0026848 alice|0.0026247 blue|0.0026247  "
+		}
+	}
+}

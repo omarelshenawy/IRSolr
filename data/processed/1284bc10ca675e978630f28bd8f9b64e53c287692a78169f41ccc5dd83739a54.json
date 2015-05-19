@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "1284bc10ca675e978630f28bd8f9b64e53c287692a78169f41ccc5dd83739a54",
+			"url": "https://upload.wikimedia.org/math/e/3/f/e3f02f46abe5e83482fa2678a54e696a.png",
+			"previous": [
+				"Ambient temperature,",
+				"Sea level, ISA conditions (i.e. Standard Day) imply the following:",
+				"Ambient pressure, (assume 101.325Â kN/mÂ² if working in SI units)"
+			],
+			"after": [
+				"(Use 518.67 Â°R, if working with American units)",
+				"Freestream",
+				"Since the engine is static, both the flight velocity, and the flight Mach number, are zero"
+			],
+			"color": "dim|0.37195 gray|0.37195 dim|0.37195 grey|0.37195 gray|0.30132 grey|0.30132 dark|0.18059 gray|0.18059 dark|0.18059 grey|0.18059 silver|0.069117 light|0.032988 gray|0.032988 light|0.032988 grey|0.032988 gainsboro|0.024248 white|0.0052787 smoke|0.0052787  "
+		}
+	}
+}

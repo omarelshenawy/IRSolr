@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "50e01e9d251195f919daa945f05ab2314cd2d23ff938bafdfa7e686e6d1e8909",
+			"url": "https://upload.wikimedia.org/math/2/a/8/2a84a9afe914c3fe865eda52f27c3440.png",
+				"previous": "One of the most powerful statements in this direction is Stokes' theorem: Let M be an oriented piecewise smooth manifold of dimension n and let be an nâ1 form that is a compactly supported differential form on M of class C1. If âM denotes the boundary of M with its induced orientation, then",
+				"after": "Here d is the exterior derivative, which is defined using the manifold structure only.",
+			"color": "black|0.29534 dim|0.2354 gray|0.2354 dim|0.2354 grey|0.2354 gray|0.19446 grey|0.19446 dark|0.13817 gray|0.13817 dark|0.13817 grey|0.13817 silver|0.06192 light|0.033058 gray|0.033058 light|0.033058 grey|0.033058 gainsboro|0.022878 white|0.0048883 smoke|0.0048883  "
+		}
+	}
+}

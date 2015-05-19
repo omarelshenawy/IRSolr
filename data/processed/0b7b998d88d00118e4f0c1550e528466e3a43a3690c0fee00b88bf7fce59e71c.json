@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b7b998d88d00118e4f0c1550e528466e3a43a3690c0fee00b88bf7fce59e71c",
+			"url": "https://upload.wikimedia.org/math/0/4/a/04a8b42f67a5c1fa84270228575a2cf4.png",
+				"previous": "If it happens that the chosen has half-integer coefficients, it can be replaced by another Hurwitz quaternion. Choose in such a way that has even integer coefficients. Then",
+				"after": "Since has even integer coefficients, will have integer coefficients and can be used instead of the original to give a representation of as the sum of four squares.",
+			"color": "dim|0.38875 gray|0.38875 dim|0.38875 grey|0.38875 gray|0.2646 grey|0.2646 dark|0.17087 gray|0.17087 dark|0.17087 grey|0.17087 silver|0.081665 light|0.044805 gray|0.044805 light|0.044805 grey|0.044805 gainsboro|0.031187 white|0.0044641 smoke|0.0044641  "
+		}
+	}
+}

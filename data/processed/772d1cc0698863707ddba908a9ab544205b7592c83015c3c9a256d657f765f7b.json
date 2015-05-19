@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "772d1cc0698863707ddba908a9ab544205b7592c83015c3c9a256d657f765f7b",
+			"url": "https://upload.wikimedia.org/math/6/e/a/6eab284b82614aa03f117ec5fe7b1b7a.png",
+			"previous": [
+				"A wave representing such a particle traveling in the k-direction is expressed by the wave function as follows:",
+				"where h is Planck's constant, and p is the magnitude of the momentum of the particle. This hypothesis was at the basis of quantum mechanics. Nowadays, this wavelength is called the de Broglie wavelength. For example, the electrons in a CRT display have a de Broglie wavelength of about 10â13 m."
+			],
+				"after": "where the wavelength is determined by the wave vector k as:",
+			"color": "dim|0.41444 gray|0.41444 dim|0.41444 grey|0.41444 gray|0.27101 grey|0.27101 dark|0.15987 gray|0.15987 dark|0.15987 grey|0.15987 silver|0.07057 light|0.03576 gray|0.03576 light|0.03576 grey|0.03576 gainsboro|0.02539 white|0.0050587 smoke|0.0050587  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "73f69c0c7d8baeed3ede23d26be717ac70bc9f6aecb4e207367536724869ed8b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Combustor_diagram_airflow.png/440px-Combustor_diagram_airflow.png",
+				"previous": "Most igniters in gas turbine applications are electrical spark igniters, similar to automotive spark plugs. The igniter needs to be in the combustion zone where the fuel and air are already mixed, but it needs to be far enough upstream so that it is not damaged by the combustion itself. Once the combustion is initially started by the igniter, it is self-sustaining and the igniter is no longer used.[17] In can-annular and annular combustors (see Types of combustors below), the flame can propagate from one combustion zone to another, so igniters are not needed at each one. In some systems ignition-assist techniques are used. One such method is oxygen injection, where oxygen is fed to the ignition area, helping the fuel easily combust. This is particularly useful in some aircraft applications where the engine may have to restart at high altitude.[18]",
+				"after": "This is the main combustion air. It is highly compressed air from the high pressure compressor (often decelerated via the diffuser) that is fed through the main channels in the dome of the combustor and the first set of liner holes. This air is mixed with fuel, and then combusted.[19]",
+			"color": "white|0.083151 smoke|0.083151 ghost|0.081241 white|0.081241 snow|0.081182 sea|0.080983 shell|0.080983 alice|0.080902 blue|0.080902 white|0.080654 mint|0.079638 cream|0.079638 floral|0.079109 white|0.079109 azure|0.078424 lavender|0.07585 blush|0.07585 dark|0.022551 gray|0.022551 dark|0.022551 grey|0.022551 black|0.021926 dim|0.020174 gray|0.020174 dim|0.020174 grey|0.020174 gray|0.01917 grey|0.01917 silver|0.015395 light|0.012895 gray|0.012895 light|0.012895 grey|0.012895 blue|0.012632 gainsboro|0.01111 red|0.0099971 orange|0.0068279 red|0.0068279 ivory|0.0060824 lavender|0.0044568 light|0.0043353 sky|0.0043353 blue|0.0043353 linen|0.0041646 misty|0.0028952 rose|0.0028952 orange|0.0028932  "
+		}
+	}
+}

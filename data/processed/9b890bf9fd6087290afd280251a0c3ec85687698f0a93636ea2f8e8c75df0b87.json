@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b890bf9fd6087290afd280251a0c3ec85687698f0a93636ea2f8e8c75df0b87",
+			"url": "https://upload.wikimedia.org/math/d/8/6/d8658eb0407cabd0ae8cd554d921eac8.png",
+				"previous": "Wikipedia allows editors to typeset mathematical formulae in (a subset of) LaTeX markup (see also TeX); the formulae are, for a default reader, translated into PNG images. They may also be rendered as MathML or HTML (using MathJax), depending on user preferences. For more details on this, see meta:Help:Formula.",
+			"after": [],
+			"color": "dim|0.2947 gray|0.2947 dim|0.2947 grey|0.2947 gray|0.28552 grey|0.28552 dark|0.18779 gray|0.18779 dark|0.18779 grey|0.18779 black|0.082071 silver|0.069573 light|0.036748 gray|0.036748 light|0.036748 grey|0.036748 gainsboro|0.026709 white|0.0041934 smoke|0.0041934  "
+		}
+	}
+}

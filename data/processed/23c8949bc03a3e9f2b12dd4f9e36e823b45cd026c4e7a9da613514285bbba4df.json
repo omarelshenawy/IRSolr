@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "23c8949bc03a3e9f2b12dd4f9e36e823b45cd026c4e7a9da613514285bbba4df",
+			"url": "https://upload.wikimedia.org/math/f/2/6/f26e804921e762ceb49cfef17dd87dd5.png",
+				"previous": "And when a minimum of Pâf occurs at xi, then",
+				"after": "So, as can be seen in the graph, [P(x)Â âÂ f(x)]Â âÂ [Q(x)Â âÂ f(x)] must alternate in sign for the NÂ +Â 2 values of xi. But [P(x)Â âÂ f(x)]Â âÂ [Q(x)Â âÂ f(x)] reduces to P(x)Â âÂ Q(x) which is a polynomial of degree N. This function changes sign at least N+1 times so, by the Intermediate value theorem, it has N+1 zeroes, which is impossible for a polynomial of degree N.",
+			"color": "gray|0.30889 grey|0.30889 dim|0.25686 gray|0.25686 dim|0.25686 grey|0.25686 dark|0.21769 gray|0.21769 dark|0.21769 grey|0.21769 silver|0.10509 light|0.056133 gray|0.056133 light|0.056133 grey|0.056133 gainsboro|0.039205 white|0.0044187 smoke|0.0044187  "
+		}
+	}
+}

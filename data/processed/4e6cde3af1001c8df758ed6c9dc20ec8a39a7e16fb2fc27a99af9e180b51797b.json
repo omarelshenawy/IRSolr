@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e6cde3af1001c8df758ed6c9dc20ec8a39a7e16fb2fc27a99af9e180b51797b",
+			"url": "https://upload.wikimedia.org/math/c/e/3/ce31dbb0604b754555c88c34a42ec534.png",
+			"previous": [
+				"Four centuries ago, Gerolamo Cardano proposed a similar formula (see below), which still appears in many textbooks:",
+				"In these formulae, and denote any choice for the square or cube roots. Changing of choice for the square root amounts to exchanging and . Changing of choice for the cube root amounts to circularly permuting the roots. Thus the freeness of choosing a determination of the square or cube roots corresponds exactly to the freeness for numbering the roots of the equation."
+			],
+				"after": "where",
+			"color": "dim|0.34263 gray|0.34263 dim|0.34263 grey|0.34263 gray|0.23252 grey|0.23252 dark|0.15486 gray|0.15486 dark|0.15486 grey|0.15486 black|0.13413 silver|0.06758 light|0.032574 gray|0.032574 light|0.032574 grey|0.032574 gainsboro|0.022352  "
+		}
+	}
+}

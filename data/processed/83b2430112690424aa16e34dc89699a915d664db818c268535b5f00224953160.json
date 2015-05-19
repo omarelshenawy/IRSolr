@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "83b2430112690424aa16e34dc89699a915d664db818c268535b5f00224953160",
+			"url": "https://upload.wikimedia.org/math/b/0/8/b088dcd0ff5b6673f991d4305a49806e.png",
+			"previous": [
+				"Let F be an r-grade multivector. Then we can define an additional pair of operators, the interior and exterior derivatives,",
+				"then the product rule for the geometric derivative is"
+			],
+			"after": [
+				"In particular, if F is grade 1 (vector-valued function), then we can write",
+				"and identify the divergence and curl as"
+			],
+			"color": "dim|0.44357 gray|0.44357 dim|0.44357 grey|0.44357 gray|0.27636 grey|0.27636 dark|0.16503 gray|0.16503 dark|0.16503 grey|0.16503 silver|0.060886 light|0.024756 gray|0.024756 light|0.024756 grey|0.024756 gainsboro|0.01735  "
+		}
+	}
+}

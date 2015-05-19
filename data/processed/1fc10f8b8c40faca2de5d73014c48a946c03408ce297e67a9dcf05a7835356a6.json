@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc10f8b8c40faca2de5d73014c48a946c03408ce297e67a9dcf05a7835356a6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Payloadrange.jpg/220px-Payloadrange.jpg",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"after": [
+				"There is a natural trade-off between the payload and the range of an aircraft. A payload range diagram (also known as the \"elbow chart\") illustrates the trade-off.",
+				"The top horizontal line represents the maximum payload. It is limited structurally by maximum zero-fuel weight (MZFW) of the aircraft. Maximum payload is the difference between maximum zero-fuel weight and operational empty weight (OEW). Moving left-to-right along the line shows the constant maximum payload as the range increases. More fuel needs to be added for more range."
+			],
+			"color": "silver|0.33333 light|0.33333 gray|0.33333 light|0.33333 grey|0.33333 gainsboro|0.3326  "
+		}
+	}
+}

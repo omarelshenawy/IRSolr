@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3cf0ed31019c836d4a886e357888d4d64367a4129961c7623d87825c4a1de928",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Function_color_example_3.svg/220px-Function_color_example_3.svg.png",
+			"previous": [],
+				"after": "For an example of a function, let X be the set consisting of four shapes: a red triangle, a yellow rectangle, a green hexagon, and a red square; and let Y be the set consisting of five colors: red, blue, green, pink, and yellow. Linking each shape to its color is a function from X to Y: each shape is linked to a color (i.e., an element in Y), and each shape is \"linked\", or \"mapped\", to exactly one color. There is no shape that lacks a color and no shape that has two or more colors. This function will be referred to as the \"color-of-the-shape function\".",
+			"color": "white|0.091992 smoke|0.091992 alice|0.09082 blue|0.09082 ghost|0.090707 white|0.090707 snow|0.090591 sea|0.090399 shell|0.090399 white|0.09026 mint|0.089842 cream|0.089842 floral|0.089192 white|0.089192 azure|0.088972 lavender|0.088209 blush|0.088209 dark|0.015606 gray|0.015606 dark|0.015606 grey|0.015606 silver|0.015223 light|0.012375 gray|0.012375 light|0.012375 grey|0.012375 gainsboro|0.0096844 gray|0.0067127 grey|0.0067127 dim|0.0056223 gray|0.0056223 dim|0.0056223 grey|0.0056223 dodger|0.0035608 blue|0.0035608 ivory|0.0029342 black|0.0026919  "
+		}
+	}
+}

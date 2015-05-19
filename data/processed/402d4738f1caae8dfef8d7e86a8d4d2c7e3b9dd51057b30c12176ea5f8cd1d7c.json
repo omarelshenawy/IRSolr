@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "402d4738f1caae8dfef8d7e86a8d4d2c7e3b9dd51057b30c12176ea5f8cd1d7c",
+			"url": "https://upload.wikimedia.org/math/5/b/7/5b787ce4ee80bbf5dbfec6f56815dac5.png",
+				"previous": "The outer product is naturally extended as a completely antisymmetric, multilinear operator between any number of vectors:",
+				"after": "A multivector that is the outer product of r independent vectors () is called a blade, and the blade is said to be a multivector of grade r. From the axioms, with closure, every multivector of the geometric algebra is a sum of blades.",
+			"color": "dark|0.30167 gray|0.30167 dark|0.30167 grey|0.30167 gray|0.26701 grey|0.26701 silver|0.15824 light|0.08783 gray|0.08783 light|0.08783 grey|0.08783 dim|0.07094 gray|0.07094 dim|0.07094 grey|0.07094 gainsboro|0.062191 white|0.013005 smoke|0.013005 linen|0.0063271 lavender|0.0057766 blush|0.0057766 alice|0.0056058 blue|0.0056058 ghost|0.0052894 white|0.0052894 sea|0.0048285 shell|0.0048285 snow|0.0046387 white|0.0030464  "
+		}
+	}
+}

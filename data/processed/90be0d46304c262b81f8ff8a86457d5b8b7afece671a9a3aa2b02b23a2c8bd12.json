@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "90be0d46304c262b81f8ff8a86457d5b8b7afece671a9a3aa2b02b23a2c8bd12",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Organizational_chart.svg/200px-Organizational_chart.svg.png",
+				"previous": "While the above examples are often clearly depicted in a hierarchical form and are classic examples, hierarchies exist in numerous systems where this branching structure is not immediately apparent. For example, all postal code systems are necessarily hierarchical. Using the Canadian postal code system, the top level's binding concept is the \"postal district\", and consists of 18 objects (letters). The next level down is the \"zone\", where the objects are the digits 0â9. This is an example of an overlapping hierarchy, because each of these 10 objects has 18 parents. The hierarchy continues downward to generate, in theory, 7,200,000 unique codes of the format A0A 0A0. Most library classification systems are also hierarchical. The Dewey Decimal System is regarded as infinitely hierarchical because there is no finite bound on the number of digits can be used after the decimal point.[18]",
+			"after": [],
+			"color": "dark|0.14467 gray|0.14467 dark|0.14467 grey|0.14467 light|0.10853 gray|0.10853 light|0.10853 grey|0.10853 gainsboro|0.09871 gray|0.096713 grey|0.096713 silver|0.088461 black|0.061821 white|0.05303 smoke|0.05303 lavender|0.046815 blush|0.046815 linen|0.046092 alice|0.045481 blue|0.045481 ghost|0.044948 white|0.044948 sea|0.044338 shell|0.044338 snow|0.043521 dim|0.041674 gray|0.041674 dim|0.041674 grey|0.041674 white|0.019386 mint|0.0086326 cream|0.0086326 floral|0.0046703 white|0.0046703  "
+		}
+	}
+}

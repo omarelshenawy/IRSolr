@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ecde8e424d1eac72d1e5e60cc91914a59ad07d8320cbc92bc2baac7c01e40f2",
+			"url": "https://upload.wikimedia.org/math/c/7/1/c71fedceb51efbac9ab3cba24f3177c5.png",
+				"previous": "where is the identity matrix. It is a fundamental result of linear algebra that an equation has a non-zero solution if, and only if, the determinant of the matrix is zero. It follows that the eigenvalues of are precisely the real numbers that satisfy the equation",
+				"after": "The left-hand side of this equation can be seen (using Leibniz' rule for the determinant) to be a polynomial function of the variable . The degree of this polynomial is , the order of the matrix. Its coefficients depend on the entries of , except that its term of degree is always . This polynomial is called the characteristic polynomial of ; and the above equation is called the characteristic equation (or, less often, the secular equation) of .",
+			"color": "dim|0.40583 gray|0.40583 dim|0.40583 grey|0.40583 gray|0.28236 grey|0.28236 dark|0.15388 gray|0.15388 dark|0.15388 grey|0.15388 silver|0.068671 light|0.034208 gray|0.034208 light|0.034208 grey|0.034208 gainsboro|0.02346 black|0.018986  "
+		}
+	}
+}

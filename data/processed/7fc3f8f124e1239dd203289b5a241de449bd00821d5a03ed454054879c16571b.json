@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fc3f8f124e1239dd203289b5a241de449bd00821d5a03ed454054879c16571b",
+			"url": "https://upload.wikimedia.org/math/d/5/0/d500653611299d733557846a22ced70e.png",
+				"previous": "ATP synthase, also called complex V, is the final enzyme in the oxidative phosphorylation pathway. This enzyme is found in all forms of life and functions in the same way in both prokaryotes and eukaryotes.[64] The enzyme uses the energy stored in a proton gradient across a membrane to drive the synthesis of ATP from ADP and phosphate (Pi). Estimates of the number of protons required to synthesize one ATP have ranged from three to four,[65][66] with some suggesting cells can vary this ratio, to suit different conditions.[67]",
+				"after": "This phosphorylation reaction is an equilibrium, which can be shifted by altering the proton-motive force. In the absence of a proton-motive force, the ATP synthase reaction will run from right to left, hydrolyzing ATP and pumping protons out of the matrix across the membrane. However, when the proton-motive force is high, the reaction is forced to run in the opposite direction; it proceeds from left to right, allowing protons to flow down their concentration gradient and turning ADP into ATP.[64] Indeed, in the closely related vacuolar type H+-ATPases, the hydrolysis reaction is used to acidify cellular compartments, by pumping protons and hydrolysing ATP.[68]",
+			"color": "dim|0.30924 gray|0.30924 dim|0.30924 grey|0.30924 black|0.2785 gray|0.20048 grey|0.20048 dark|0.12496 gray|0.12496 dark|0.12496 grey|0.12496 silver|0.044833 light|0.020993 gray|0.020993 light|0.020993 grey|0.020993 gainsboro|0.014233  "
+		}
+	}
+}

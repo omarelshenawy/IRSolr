@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4250e90821a979d0d9a3f4d5cc3a46aac6e261628b4284699e382e467dd58174",
+			"url": "https://upload.wikimedia.org/math/0/d/0/0d0487831aa957705460049dce73f74b.png",
+				"previous": "An alternative characterisation of the Wiener process is the so-called LÃ©vy characterisation that says that the Wiener process is an almost surely continuous martingale with W0 = 0 and quadratic variation .",
+				"after": "The Wiener process can be constructed as the scaling limit of a random walk, or other discrete-time stochastic processes with stationary independent increments. This is known as Donsker's theorem. Like the random walk, the Wiener process is recurrent in one or two dimensions (meaning that it returns almost surely to any fixed neighborhood of the origin infinitely often) whereas it is not recurrent in dimensions three and higher. Unlike the random walk, it is scale invariant.",
+			"color": "gray|0.33622 grey|0.33622 dark|0.22914 gray|0.22914 dark|0.22914 grey|0.22914 dim|0.22616 gray|0.22616 dim|0.22616 grey|0.22616 silver|0.10286 light|0.049976 gray|0.049976 light|0.049976 grey|0.049976 gainsboro|0.03406 white|0.0057111 smoke|0.0057111 linen|0.0027367  "
+		}
+	}
+}

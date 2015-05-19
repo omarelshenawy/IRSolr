@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "b74bc05797a18071da64ecf80f88844a1e3aed46829083a79e7285081314caaa",
+			"url": "https://upload.wikimedia.org/math/f/8/d/f8d3f2088beebf3d392ca477a32010a4.png",
+				"previous": "Conditional probability is the probability of some event A, given the occurrence of some other event B. Conditional probability is written , and is read \"the probability of A, given B\". It is defined by[23]",
+				"after": "If then is formally undefined by this expression. However, it is possible to define a conditional probability for some zero-probability events using a Ï-algebra of such events (such as those arising from a continuous random variable).[citation needed]",
+			"color": "dim|0.33905 gray|0.33905 dim|0.33905 grey|0.33905 gray|0.29516 grey|0.29516 dark|0.18497 gray|0.18497 dark|0.18497 grey|0.18497 silver|0.091937 light|0.044534 gray|0.044534 light|0.044534 grey|0.044534 gainsboro|0.030158 white|0.0037832 smoke|0.0037832  "
+		}
+	}
+}

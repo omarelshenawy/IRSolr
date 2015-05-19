@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bb21380fdb4c962d642ce60c509525662a94558a139d897fcfd913017aa34b2",
+			"url": "https://upload.wikimedia.org/math/f/2/8/f2893c887cf2cd5edbe62a4f107bf6a8.png",
+				"previous": "If propeller was employed to propel an aircraft at speed = Cu; then Useful Power = Axial Thrust * Speed of Aircraft;[1]",
+			"after": [
+				"Therefore;",
+				"Hence the flow can be modeled where the air flows through an imaginary diverging duct, where diameter of propeller disc and diameter of the outlet are related.[1][2][3]"
+			],
+			"color": "dim|0.40125 gray|0.40125 dim|0.40125 grey|0.40125 gray|0.2858 grey|0.2858 dark|0.17338 gray|0.17338 dark|0.17338 grey|0.17338 silver|0.068267 light|0.030915 gray|0.030915 light|0.030915 grey|0.030915 gainsboro|0.021831 white|0.0035959 smoke|0.0035959  "
+		}
+	}
+}

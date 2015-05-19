@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ad87f78da666fb1f073fab06d675ae200dba68f8c7f5aaa9d4d7a65903f4e21",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Navigation_Display_%28ND%29_on_Boeing_747-400.jpg/220px-Navigation_Display_%28ND%29_on_Boeing_747-400.jpg",
+			"previous": [],
+				"after": "The MFD (multi-function display) displays navigational and weather information from multiple systems. MFDs are most frequently designed as \"chart-centric\", where the aircrew can overlay different information over a map or chart. Examples of MFD overlay information include the aircraft's current route plan, weather information from either on-board radar or lightning detection sensors or ground-based sensors, e.g., NEXRAD, restricted airspace and aircraft traffic. The MFD can also be used to view other non-overlay type of data (e.g., current route plan) and calculated overlay-type data, e.g., the glide radius of the aircraft, given current location over terrain, winds, and aircraft speed and altitude.",
+			"color": "black|0.98965  "
+		}
+	}
+}

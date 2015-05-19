@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "16931d1eb654e55a4fe1c86c4fb7569e7d6650903646c485a10f55580f4e4694",
+			"url": "https://upload.wikimedia.org/math/f/4/2/f429b8552dce42e9f57e52a8e9cce33d.png",
+			"previous": [
+				"",
+				"The ram drag must be deducted from the nozzle gross thrust:"
+			],
+			"after": [
+				"To retain accuracy, only the final answer should be rounded-off.[7]",
+				"The above calculations assume that the fuel flow added in the combustor completely offsets the bleed air extracted at compressor delivery to cool the turbine system. This is pessimistic, since the bleed air is assumed to be dumped directly overboard (thereby bypassing the propulsion nozzle) and unable to contribute to the thrust of the engine."
+			],
+			"color": "dim|0.33602 gray|0.33602 dim|0.33602 grey|0.33602 gray|0.32185 grey|0.32185 dark|0.19527 gray|0.19527 dark|0.19527 grey|0.19527 silver|0.075476 light|0.034617 gray|0.034617 light|0.034617 grey|0.034617 gainsboro|0.023693 white|0.0036485 smoke|0.0036485  "
+		}
+	}
+}

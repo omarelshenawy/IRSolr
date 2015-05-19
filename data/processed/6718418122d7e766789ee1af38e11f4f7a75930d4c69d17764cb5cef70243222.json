@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6718418122d7e766789ee1af38e11f4f7a75930d4c69d17764cb5cef70243222",
+			"url": "https://upload.wikimedia.org/math/5/f/f/5ff591d1e84d33ebe175d7f5e6efd179.png",
+				"previous": "Provided that u has two derivatives, we may apply the divergence theorem to obtain",
+				"after": "where C is the boundary of D, s is arclength along C and is the normal derivative of u on C. Since v vanishes on C and the first variation vanishes, the result is",
+			"color": "dim|0.36477 gray|0.36477 dim|0.36477 grey|0.36477 gray|0.29444 grey|0.29444 dark|0.19457 gray|0.19457 dark|0.19457 grey|0.19457 silver|0.076551 light|0.033212 gray|0.033212 light|0.033212 grey|0.033212 gainsboro|0.022289 white|0.0036413 smoke|0.0036413  "
+		}
+	}
+}

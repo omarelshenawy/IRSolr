@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "87b5ca69ffc0098f64ab53458d41a162738712393e16cad4492f095bca8d5194",
+			"url": "https://upload.wikimedia.org/math/3/d/6/3d6f40bed2a3cf0f37a0ca342bb516c8.png",
+			"previous": [
+				"Key design parameters:",
+				"Calculate the net thrust of the following single spool turbojet cycle at Sea Level Static, ISA, using Imperial units for illustration purposes:"
+			],
+			"after": [
+				"(use 45.359Â kg/s if working in SI units)",
+				"Assume the gasflow is constant throughout the engine."
+			],
+			"color": "dim|0.39645 gray|0.39645 dim|0.39645 grey|0.39645 gray|0.30811 grey|0.30811 dark|0.15398 gray|0.15398 dark|0.15398 grey|0.15398 silver|0.068104 light|0.033011 gray|0.033011 light|0.033011 grey|0.033011 gainsboro|0.02374 white|0.0042167 smoke|0.0042167  "
+		}
+	}
+}

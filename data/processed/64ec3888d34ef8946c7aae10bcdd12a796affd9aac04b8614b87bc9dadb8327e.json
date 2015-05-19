@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "64ec3888d34ef8946c7aae10bcdd12a796affd9aac04b8614b87bc9dadb8327e",
+			"url": "https://upload.wikimedia.org/math/e/4/0/e4012dbfe15999417b9b6e825b33f9c0.png",
+				"previous": "Therefore;",
+			"after": [
+				"Hence the flow can be modeled where the air flows through an imaginary diverging duct, where diameter of propeller disc and diameter of the outlet are related.[1][2][3]",
+				"In this theory, a small element (dr) is taken at a distance r from the root of the blade and all the forces acting on the element are analysed to get a solution. It is assumed that the flow through each section of small radial thickness dr is assumed to be independent of the flow through other elements.[1][4]"
+			],
+			"color": "dim|0.40018 gray|0.40018 dim|0.40018 grey|0.40018 gray|0.27935 grey|0.27935 dark|0.16599 gray|0.16599 dark|0.16599 grey|0.16599 silver|0.068491 light|0.03298 gray|0.03298 light|0.03298 grey|0.03298 gainsboro|0.022675 black|0.012422 white|0.0044863 smoke|0.0044863  "
+		}
+	}
+}

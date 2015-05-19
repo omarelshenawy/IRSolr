@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "83b675562c660c5477e640c0d7dd1a200f806166ae3a49db243cb519348976d6",
+			"url": "https://upload.wikimedia.org/math/7/6/1/7615ce76a0ba72fd2bb80fdf3e440ddf.png",
+				"previous": "Recall that the eigenvectors vi of A satisfy the eigenvalue equation,",
+				"after": "Assemble these eigenvectors into the matrix V, which is invertible because these vectors are assumed to be linearly independent. This means the coordinates of x and X relative to the basis vi can be computed to be,",
+			"color": "dim|0.40826 gray|0.40826 dim|0.40826 grey|0.40826 gray|0.28695 grey|0.28695 dark|0.16081 gray|0.16081 dark|0.16081 grey|0.16081 silver|0.065634 light|0.033354 gray|0.033354 light|0.033354 grey|0.033354 gainsboro|0.023587 white|0.0046506 smoke|0.0046506  "
+		}
+	}
+}

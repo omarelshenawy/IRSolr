@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "615197190deaa5579cb0753239f52d552e3ed0602e25558de4b388eea84da31a",
+			"url": "https://upload.wikimedia.org/math/6/7/0/670bd4ae4bd2108f3eecc51cfc44c128.png",
+				"previous": "Resolving a periodic function into a sum of trigonometric functions forms a Fourier series, a technique much used in physics and engineering.[nb 13][76] The underlying vector space is usually the Hilbert space L2(0, 2Ï), for which the functions sin mx and cos mx (m an integer) form an orthogonal basis.[77] The Fourier expansion of an L2 function f is",
+				"after": "The coefficients am and bm are called Fourier coefficients of f, and are calculated by the formulas[78]",
+			"color": "dim|0.36623 gray|0.36623 dim|0.36623 grey|0.36623 gray|0.27376 grey|0.27376 dark|0.1909 gray|0.1909 dark|0.1909 grey|0.1909 silver|0.07937 light|0.041317 gray|0.041317 light|0.041317 grey|0.041317 gainsboro|0.027981 white|0.0046173 smoke|0.0046173  "
+		}
+	}
+}

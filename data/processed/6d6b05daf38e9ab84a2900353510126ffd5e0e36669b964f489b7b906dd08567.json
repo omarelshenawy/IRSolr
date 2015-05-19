@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d6b05daf38e9ab84a2900353510126ffd5e0e36669b964f489b7b906dd08567",
+			"url": "https://upload.wikimedia.org/math/2/4/5/245545be5020f92b961e187b48d93d61.png",
+			"previous": [
+				"where and are arbitrary. If we set the first variation for the ratio is",
+				"The variational problem also applies to more general boundary conditions. Instead of requiring that Ï vanish at the endpoints, we may not impose any condition at the endpoints, and set"
+			],
+			"after": [
+				"where Î» is given by the ratio as previously. After integration by parts,",
+				"If we first require that v vanish at the endpoints, the first variation will vanish for all such v only if"
+			],
+			"color": "dim|0.33533 gray|0.33533 dim|0.33533 grey|0.33533 gray|0.29218 grey|0.29218 dark|0.19066 gray|0.19066 dark|0.19066 grey|0.19066 silver|0.086864 light|0.043685 gray|0.043685 light|0.043685 grey|0.043685 gainsboro|0.031403 white|0.0052239 smoke|0.0052239 linen|0.0030706  "
+		}
+	}
+}

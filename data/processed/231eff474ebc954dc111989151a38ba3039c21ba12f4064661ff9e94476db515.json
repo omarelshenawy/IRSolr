@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "231eff474ebc954dc111989151a38ba3039c21ba12f4064661ff9e94476db515",
+			"url": "https://upload.wikimedia.org/math/1/0/f/10f38ada76ece1475dfadf76a40255f7.png",
+			"previous": [
+				"The second normal mode is:",
+				"Which corresponds to both masses moving in the same direction at the same time."
+			],
+			"after": [
+				"This corresponds to the masses moving in the opposite directions, while the center of mass remains stationary.",
+				"The general solution is a superposition of the normal modes where c1, c2, Ï1, and Ï2, are determined by the initial conditions of the problem."
+			],
+			"color": "dim|0.30663 gray|0.30663 dim|0.30663 grey|0.30663 gray|0.30019 grey|0.30019 dark|0.20653 gray|0.20653 dark|0.20653 grey|0.20653 silver|0.088867 light|0.043609 gray|0.043609 light|0.043609 grey|0.043609 gainsboro|0.03164 white|0.005517 smoke|0.005517 linen|0.0030942  "
+		}
+	}
+}

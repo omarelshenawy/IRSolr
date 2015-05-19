@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fb6154a973caba20568f9d9a96c553be84d07c8f31392a55f721177a7d1013c",
+			"url": "https://upload.wikimedia.org/math/b/4/2/b42adfd7abe9c81b4c823517f53371c6.png",
+			"previous": [
+				"As an example, suppose the following is to be calculated:",
+				"and there is no simpler expression for this function. It is therefore important not to interpret the second part of the theorem as the definition of the integral. Indeed, there are many functions that are integrable but lack antiderivatives that can be written as an elementary function. Conversely, many functions that have antiderivatives are not Riemann integrable (see Volterra's function)."
+			],
+			"after": [
+				"Or, more generally, suppose that",
+				"is to be calculated. Here, and can be used as the antiderivative. Therefore:"
+			],
+			"color": "dim|0.35076 gray|0.35076 dim|0.35076 grey|0.35076 gray|0.30172 grey|0.30172 dark|0.18811 gray|0.18811 dark|0.18811 grey|0.18811 silver|0.077138 light|0.037768 gray|0.037768 light|0.037768 grey|0.037768 gainsboro|0.027441 white|0.0051968 smoke|0.0051968  "
+		}
+	}
+}

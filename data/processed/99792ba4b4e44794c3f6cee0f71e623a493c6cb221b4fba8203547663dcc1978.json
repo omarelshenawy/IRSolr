@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "99792ba4b4e44794c3f6cee0f71e623a493c6cb221b4fba8203547663dcc1978",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Knot_table.svg/350px-Knot_table.svg.png",
+			"previous": [],
+				"after": "Traditionally, knots have been catalogued in terms of crossing number. Knot tables generally include only prime knots, and only one entry for a knot and its mirror image (even if they are different) (Hoste, Thistlethwaite & Weeks 1998). The number of nontrivial knots of a given crossing number increases rapidly, making tabulation computationally difficult (Hoste 2005, p.Â 20). Tabulation efforts have succeeded in enumerating over 6 billion knots and links (Hoste 2005, p.Â 28). The sequence of the number of prime knots of a given crossing number, up to crossing number 16, is 0, 0, 1, 1, 2, 3, 7, 21, 49, 165, 552, 2176, 9988, 46972, 253293, 1388705... (sequence A002863 in OEIS). While exponential upper and lower bounds for this sequence are known, it has not been proven that this sequence is strictly increasing (Adams 2004).",
+			"color": " "
+		}
+	}
+}

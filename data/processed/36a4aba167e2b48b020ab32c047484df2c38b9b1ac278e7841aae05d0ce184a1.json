@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "36a4aba167e2b48b020ab32c047484df2c38b9b1ac278e7841aae05d0ce184a1",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/E-8_crewmembers.JPG/220px-E-8_crewmembers.JPG",
+			"previous": [],
+			"after": [
+				"The AN/APY-7 radar can operate in wide area surveillance, ground moving target indicator (GMTI), fixed target indicator (FTI) target classification, and synthetic aperture radar (SAR) modes.",
+				"To pick up moving targets, the radar looks at the Doppler frequency shift of the returned signal. It can look from a long range, which the military refers to as a high standoff capability. The antenna can be tilted to either side of the aircraft for a 120-degree field of view covering nearly 50,000Â kmÂ² (19,305 mileÂ²) and can simultaneously track 600 targets at more than 250Â km (152 miles). The GMTI modes cannot pick up objects that are too small, insufficiently dense, or stationary. Data processing allows the APY-7 to differentiate between armored vehicles (tracked tanks) and trucks, allowing targeting personnel to better select the appropriate ordnance for various targets."
+			],
+			"color": "tan|0.31773 peach|0.13532 puff|0.13532 burly|0.12346 wood|0.12346 bisque|0.062915 black|0.043165 blanched|0.032579 almond|0.032579 wheat|0.031618 sienna|0.022733 papaya|0.022626 whip|0.022626 antique|0.022563 white|0.022563 navajo|0.019522 white|0.019522 beige|0.015708 corn|0.015189 silk|0.015189 old|0.013212 lace|0.013212 moccasin|0.012472 dim|0.011954 gray|0.011954 dim|0.011954 grey|0.011954 dark|0.011904 salmon|0.011904 light|0.0098114 yellow|0.0098114 ivory|0.009081 linen|0.0081714  "
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "23bf80a2bb1f4b76a49a1505009f0271ed7c233a8015735ba7db1aa86688f42e",
+			"url": "https://upload.wikimedia.org/math/7/d/1/7d1c95753932365aef2b5b5a5142afb5.png",
+			"previous": [
+				"and",
+				"The coefficients are given by",
+				"(These terms are known as the Glauert integral)."
+			],
+			"after": [
+				"By the KuttaâJoukowski theorem, the total lift force F is proportional to",
+				"and its moment M about the leading edge to",
+				"The calculated Lift coefficient depends only on the first two terms of the Fourier series, as"
+			],
+			"color": "dim|0.30313 gray|0.30313 dim|0.30313 grey|0.30313 gray|0.23116 grey|0.23116 black|0.20445 dark|0.14094 gray|0.14094 dark|0.14094 grey|0.14094 silver|0.059523 light|0.028505 gray|0.028505 light|0.028505 grey|0.028505 gainsboro|0.019319 white|0.0034217 smoke|0.0034217  "
+		}
+	}
+}

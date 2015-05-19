@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "26fe1db2edc40190bd413ff0d90bee7c7ade91e68163800fd91adc86ad1852d9",
+			"url": "https://upload.wikimedia.org/math/7/a/1/7a1787f2c149480de690b7fba07544ae.png",
+				"previous": "For the momentum balance, kinematic viscosity can be considered to be the momentum diffusivity. In the energy balance this is replaced by thermal diffusivity , and by mass diffusivity in the mass balance. In thermal diffusivity of a substance, is its thermal conductivity, is its density and is its heat capacity. Subscript AB denotes diffusivity of species A diffusing into species B.",
+				"after": "Accordingly, this derivation uses a related form of the boundary conditions, replacing with or (absolute temperature or concentration of species A). The subscript S denotes a surface condition.",
+			"color": "dim|0.39639 gray|0.39639 dim|0.39639 grey|0.39639 gray|0.28073 grey|0.28073 dark|0.17039 gray|0.17039 dark|0.17039 grey|0.17039 silver|0.072618 light|0.034892 gray|0.034892 light|0.034892 grey|0.034892 gainsboro|0.024488 white|0.0047476 smoke|0.0047476  "
+		}
+	}
+}

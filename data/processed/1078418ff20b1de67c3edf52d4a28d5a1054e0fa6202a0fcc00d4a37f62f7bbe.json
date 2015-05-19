@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1078418ff20b1de67c3edf52d4a28d5a1054e0fa6202a0fcc00d4a37f62f7bbe",
+			"url": "https://upload.wikimedia.org/math/c/2/c/c2c06191d09812789b509780f74faae1.png",
+			"previous": [
+				"Substituting the above into (1), we get",
+				"The function F is differentiable on the interval [a, b]; therefore, it is also differentiable and continuous on each interval [xiâ1, xi]. According to the mean value theorem (above),"
+			],
+				"after": "The assumption implies Also, can be expressed as of partition .",
+			"color": "dim|0.33831 gray|0.33831 dim|0.33831 grey|0.33831 gray|0.27677 grey|0.27677 dark|0.19902 gray|0.19902 dark|0.19902 grey|0.19902 silver|0.088628 light|0.048192 gray|0.048192 light|0.048192 grey|0.048192 gainsboro|0.031558 white|0.0041162 smoke|0.0041162  "
+		}
+	}
+}

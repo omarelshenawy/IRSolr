@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ea50b5b4af4488c15bb42a0c081c75fbcd983e58f02b56d83cf2b5fa8737193",
+			"url": "https://upload.wikimedia.org/math/f/3/2/f32db612880daa22b063a223591308c4.png",
+				"previous": "A logistic function or logistic curve is a common \"S\" shape (sigmoid curve), with equation:",
+			"after": [
+				"where e = the natural logarithm base (also known as Euler's number),",
+				"x0 = the x-value of the sigmoid's midpoint,"
+			],
+			"color": "dim|0.40305 gray|0.40305 dim|0.40305 grey|0.40305 gray|0.26471 grey|0.26471 dark|0.15244 gray|0.15244 dark|0.15244 grey|0.15244 silver|0.061274 black|0.049841 light|0.031555 gray|0.031555 light|0.031555 grey|0.031555 gainsboro|0.02262 white|0.0044238 smoke|0.0044238  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "15586b2f971c7f41a2d20ec35cee683817c0dd7abc483ebc951f18edc9a18465",
+			"url": "https://upload.wikimedia.org/math/c/d/7/cd77b1e57fa46b4012be933bcebfad5d.png",
+			"previous": [
+				"Therefore new control points are [12]",
+				"introducing arbitrary and ."
+			],
+				"after": "The concept of Degree Elevation can be repeated on a control polygon R to get a sequence of control polygons R,R1,R2, and so on. After r degree elevations, the polygon Rr has the vertices P0,r,P1,r,P2,r,...,Pn+r,r given by [12]",
+			"color": "dim|0.38409 gray|0.38409 dim|0.38409 grey|0.38409 gray|0.26564 grey|0.26564 dark|0.16495 gray|0.16495 dark|0.16495 grey|0.16495 silver|0.085522 light|0.046869 gray|0.046869 light|0.046869 grey|0.046869 gainsboro|0.034263 white|0.0044124 smoke|0.0044124  "
+		}
+	}
+}

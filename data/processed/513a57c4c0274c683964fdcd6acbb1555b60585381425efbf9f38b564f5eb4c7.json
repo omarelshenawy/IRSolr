@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "513a57c4c0274c683964fdcd6acbb1555b60585381425efbf9f38b564f5eb4c7",
+			"url": "https://upload.wikimedia.org/math/1/b/9/1b9894dd28e5790b89c4fd70386a8749.png",
+			"previous": [
+				"Where this can be expressed for single stage transfer to orbit as:",
+				"For the simple case of a single stage vehicle, the fuel mass fraction can be expressed as:"
+			],
+			"after": [
+				"or for level atmospheric flight from air launch (missile flight):",
+				"Where is the range, and the calculation can be expressed in the form of the Breguet range formula:"
+			],
+			"color": "dim|0.35884 gray|0.35884 dim|0.35884 grey|0.35884 gray|0.30328 grey|0.30328 dark|0.17999 gray|0.17999 dark|0.17999 grey|0.17999 silver|0.067782 light|0.037172 gray|0.037172 light|0.037172 grey|0.037172 gainsboro|0.024815 black|0.01617 white|0.0031752 smoke|0.0031752  "
+		}
+	}
+}

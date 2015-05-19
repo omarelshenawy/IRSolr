@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "746fc3985b789593bf479a844bdf5f347c1fd2c9acbd251ce9caf501ee3a87b7",
+			"url": "https://upload.wikimedia.org/math/7/b/8/7b82aad853ef84aae944bf14d4bed641.png",
+				"previous": "This could be practical if can be computed prior to many evaluations of ; however one should use caution as high order curves may lack numeric stability (de Casteljau's algorithm should be used if this occurs). Note that the empty product is 1.",
+				"after": "The derivative for a curve of order n is",
+			"color": "dim|0.36619 gray|0.36619 dim|0.36619 grey|0.36619 gray|0.24288 grey|0.24288 dark|0.18562 gray|0.18562 dark|0.18562 grey|0.18562 silver|0.10076 light|0.053209 gray|0.053209 light|0.053209 grey|0.053209 gainsboro|0.039636 white|0.003481 smoke|0.003481  "
+		}
+	}
+}

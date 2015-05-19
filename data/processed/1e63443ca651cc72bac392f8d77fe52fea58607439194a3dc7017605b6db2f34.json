@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e63443ca651cc72bac392f8d77fe52fea58607439194a3dc7017605b6db2f34",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MediaWiki_1.24.1_database_schema.svg/300px-MediaWiki_1.24.1_database_schema.svg.png",
+			"previous": [],
+				"after": "MediaWiki can use either the MySQL/MariaDB, PostgreSQL or SQLite relational database management system. There is limited support for Oracle Database.[127] A MediaWiki database contains several dozen tables, including a page table that contains page titles, page ids, and other metadata;[128] and a revision table to which is added a new row every time an edit is made, containing the page id, a brief textual summary of the change performed, the user name of the article editor (or its IP address the case of an unregistered user) and a timestamp.[129][130]",
+			"color": "azure|0.088088 light|0.069282 gray|0.069282 light|0.069282 grey|0.069282 gainsboro|0.060687 light|0.057813 cyan|0.057813 white|0.054641 smoke|0.054641 silver|0.050098 light|0.0479 steel|0.0479 blue|0.0479 alice|0.046128 blue|0.046128 snow|0.04482 ghost|0.044812 white|0.044812 sea|0.044139 shell|0.044139 mint|0.043824 cream|0.043824 white|0.042663 lavender|0.041526 blush|0.041526 floral|0.038689 white|0.038689 misty|0.033948 rose|0.033948 light|0.019307 blue|0.019307 lemon|0.017905 chiffon|0.017905 light|0.017734 golden|0.017734 rod|0.017734 yellow|0.017734 wheat|0.017603 moccasin|0.017074 blanched|0.015109 almond|0.015109 linen|0.013949 dark|0.0081802 gray|0.0081802 dark|0.0081802 grey|0.0081802 honeydew|0.0069085 powder|0.0063871 blue|0.0063871 beige|0.0058963 lavender|0.0058379 light|0.0054379 slate|0.0054379 gray|0.0054379 pale|0.0041155 golden|0.0041155 rod|0.0041155 thistle|0.0036939 antique|0.0035254 white|0.0035254 papaya|0.003459 whip|0.003459 ivory|0.0032414 old|0.0032158 lace|0.0032158 slate|0.0031862 gray|0.0031862 corn|0.0031768 silk|0.0031768 bisque|0.0030985  "
+		}
+	}
+}

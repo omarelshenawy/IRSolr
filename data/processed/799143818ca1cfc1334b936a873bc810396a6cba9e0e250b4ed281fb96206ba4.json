@@ -1,0 +1,34 @@
+{
+	"add": {
+		"doc": {
+			"id": "799143818ca1cfc1334b936a873bc810396a6cba9e0e250b4ed281fb96206ba4",
+			"url": "https://upload.wikimedia.org/math/4/4/2/44284d50f44793a48210ad58d45f888f.png",
+			"previous": [
+				"",
+				"",
+				"",
+				"Turbine",
+				"",
+				"",
+				"Combustor",
+				"",
+				"",
+				"",
+				"Compressor"
+			],
+			"after": [
+				"",
+				"",
+				"Jetpipe",
+				"",
+				"",
+				"",
+				"",
+				"Is the nozzle choked? The nozzle is choked when the throat Mach number = 1.0. This occurs when the nozzle pressure ratio reaches or exceeds a critical level:",
+				"",
+				"If then the nozzle is CHOKED."
+			],
+			"color": "dim|0.32217 gray|0.32217 dim|0.32217 grey|0.32217 gray|0.30223 grey|0.30223 dark|0.20453 gray|0.20453 dark|0.20453 grey|0.20453 silver|0.088509 light|0.040199 gray|0.040199 light|0.040199 grey|0.040199 gainsboro|0.027526 white|0.0039428 smoke|0.0039428  "
+		}
+	}
+}

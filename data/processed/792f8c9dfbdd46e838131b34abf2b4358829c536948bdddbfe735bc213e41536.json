@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "792f8c9dfbdd46e838131b34abf2b4358829c536948bdddbfe735bc213e41536",
+			"url": "https://upload.wikimedia.org/math/8/c/2/8c2cd4173136921fd472a6057bd32d3a.png",
+			"previous": [
+				"The distance from the equator to the pole is",
+				"The function in the first integral is the meridional radius of curvature."
+			],
+			"after": [
+				"For WGS84 this distance is 10,001.965729Â km.",
+				"The evaluation of the meridian distance integral is central to many studies in geodesy and map projection. It can be evaluated by expanding the integral by the binomial series and integrating term by term: see Meridian arc for details. The length of the meridian arc between two given latitudes is given by replacing the limits of the integral by the latitudes concerned. The length of a small meridian arc is given by[7][8]"
+			],
+			"color": "dim|0.39668 gray|0.39668 dim|0.39668 grey|0.39668 gray|0.295 grey|0.295 dark|0.16894 gray|0.16894 dark|0.16894 grey|0.16894 silver|0.067571 light|0.0312 gray|0.0312 light|0.0312 grey|0.0312 gainsboro|0.021673 white|0.0043189 smoke|0.0043189  "
+		}
+	}
+}

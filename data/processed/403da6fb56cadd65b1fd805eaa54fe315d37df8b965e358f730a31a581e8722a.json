@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "403da6fb56cadd65b1fd805eaa54fe315d37df8b965e358f730a31a581e8722a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Interaction_comm_model.svg/270px-Interaction_comm_model.svg.png",
+				"previous": "Communication is not a tool used only by humans, plants and animals, but it is also used by microorganisms like bacteria. The process is called quorum sensing. Through quorum sensing, bacteria are able to sense the density of cells, and regulate gene expression accordingly. This can be seen in both gram positive and gram negative bacteria. This was first observed by Fuqua et al. in marine microorganisms like V. harveyi and V. fischeri.[13]",
+				"after": "The first major model for communication was introduced by Claude Shannon and Warren Weaver for Bell Laboratories in 1949[14] The original model was designed to mirror the functioning of radio and telephone technologies. Their initial model consisted of three primary parts: sender, channel, and receiver. The sender was the part of a telephone a person spoke into, the channel was the telephone itself, and the receiver was the part of the phone where one could hear the other person. Shannon and Weaver also recognized that often there is static that interferes with one listening to a telephone conversation, which they deemed noise.",
+			"color": "dark|0.89236 khaki|0.89236 pale|0.033745 golden|0.033745 rod|0.033745 dark|0.0080793 gray|0.0080793 dark|0.0080793 grey|0.0080793 slate|0.0061309 blue|0.0061309 khaki|0.0041213 beige|0.0039004 corn|0.003878 silk|0.003878 antique|0.0038736 white|0.0038736 papaya|0.0036434 whip|0.0036434 light|0.0032006 yellow|0.0032006 old|0.0030167 lace|0.0030167  "
+		}
+	}
+}

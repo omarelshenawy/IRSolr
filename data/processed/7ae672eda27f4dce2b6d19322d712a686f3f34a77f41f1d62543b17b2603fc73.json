@@ -1,0 +1,41 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ae672eda27f4dce2b6d19322d712a686f3f34a77f41f1d62543b17b2603fc73",
+			"url": "https://upload.wikimedia.org/math/6/6/b/66bb879e7b21cba2bcb88c9200b829f5.png",
+			"previous": [
+				"",
+				"",
+				"Compressor",
+				"",
+				"",
+				"",
+				"Intake",
+				"",
+				"",
+				"So:",
+				"Since the engine is static, both the flight velocity, and the flight Mach number, are zero",
+				"Freestream",
+				"(Use 518.67 Â°R, if working with American units)",
+				"(Note: this is an absolute temperature i.e. )"
+			],
+			"after": [
+				"Combustor",
+				"",
+				"",
+				"Turbine",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Jetpipe",
+				"",
+				"",
+				""
+			],
+			"color": "dim|0.34385 gray|0.34385 dim|0.34385 grey|0.34385 gray|0.30109 grey|0.30109 dark|0.18998 gray|0.18998 dark|0.18998 grey|0.18998 silver|0.085385 light|0.037987 gray|0.037987 light|0.037987 grey|0.037987 gainsboro|0.02638 white|0.0040876 smoke|0.0040876  "
+		}
+	}
+}

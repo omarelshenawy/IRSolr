@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "607549ae6eb53d9de636906d630996a78c8832fee137e296bd422b843b079b62",
+			"url": "https://upload.wikimedia.org/math/1/0/0/1009dd134a8177ea4dac3997f031f10e.png",
+			"previous": [
+				"Â Â Â Â Â atÂ Â Â Â Â ",
+				"The Blasius solution uses boundary conditions in a dimensionless form:"
+			],
+				"after": "Note that in many cases, the no-slip boundary condition holds that , the fluid velocity at the surface of the plate equals the velocity of the plate at all locations. If the plate is not moving, then . A much more complicated derivation is required if fluid slip is allowed.[9]",
+			"color": "dim|0.36169 gray|0.36169 dim|0.36169 grey|0.36169 gray|0.27511 grey|0.27511 dark|0.18515 gray|0.18515 dark|0.18515 grey|0.18515 silver|0.08777 light|0.045826 gray|0.045826 light|0.045826 grey|0.045826 gainsboro|0.029081 white|0.0038331 smoke|0.0038331  "
+		}
+	}
+}

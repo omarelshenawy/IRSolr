@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "413a82364abb1b6ab84af6a75f8a1e9a038ad9260d00fc4ab325d2477a327e24",
+			"url": "https://upload.wikimedia.org/math/7/5/7/757d0394745376f4298688d0b4c2655c.png",
+			"previous": [
+				"This is immediate from the definition of matrix multiplication:",
+				"The trace, tr(A) of a square matrix A is the sum of its diagonal entries. While matrix multiplication is not commutative as mentioned above, the trace of the product of two matrices is independent of the order of the factors:"
+			],
+				"after": "Also, the trace of a matrix is equal to that of its transpose, i.e.,",
+			"color": "dim|0.32003 gray|0.32003 dim|0.32003 grey|0.32003 gray|0.31513 grey|0.31513 dark|0.20442 gray|0.20442 dark|0.20442 grey|0.20442 silver|0.078818 light|0.037022 gray|0.037022 light|0.037022 grey|0.037022 gainsboro|0.025632 white|0.0049387 smoke|0.0049387  "
+		}
+	}
+}

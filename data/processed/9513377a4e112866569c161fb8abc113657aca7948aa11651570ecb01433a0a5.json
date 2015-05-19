@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9513377a4e112866569c161fb8abc113657aca7948aa11651570ecb01433a0a5",
+			"url": "https://upload.wikimedia.org/math/c/1/5/c15e404af97fdf34ee20f3a225008ceb.png",
+				"previous": "If is the length of the path travelled until time , the speed equals the time derivative of :",
+				"after": "In the special case where the velocity is constant (that is, constant speed in a straight line), this can be simplified to . The average speed over a finite time interval is the total distance travelled divided by the time duration.",
+			"color": "black|0.45714 dim|0.23078 gray|0.23078 dim|0.23078 grey|0.23078 gray|0.15155 grey|0.15155 dark|0.090044 gray|0.090044 dark|0.090044 grey|0.090044 silver|0.036178 light|0.016007 gray|0.016007 light|0.016007 grey|0.016007 gainsboro|0.010834  "
+		}
+	}
+}

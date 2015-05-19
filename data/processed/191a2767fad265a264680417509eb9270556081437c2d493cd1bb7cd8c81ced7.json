@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "191a2767fad265a264680417509eb9270556081437c2d493cd1bb7cd8c81ced7",
+			"url": "https://upload.wikimedia.org/math/8/a/d/8ad3786ffe847fc6c64bc01f7a8440aa.png",
+				"previous": "Note that factors p0 = 1 may be inserted without changing the value of n (e.g. 1000 = 23Ã30Ã53). In fact, any positive integer can be uniquely represented as an infinite product taken over all the positive prime numbers,",
+				"after": "where a finite number of the ni are positive integers, and the rest are zero. Allowing negative exponents provides a canonical form for positive rational numbers.",
+			"color": "dim|0.41325 gray|0.41325 dim|0.41325 grey|0.41325 gray|0.28939 grey|0.28939 dark|0.1689 gray|0.1689 dark|0.1689 grey|0.1689 silver|0.064736 light|0.027531 gray|0.027531 light|0.027531 grey|0.027531 gainsboro|0.019087 white|0.003993 smoke|0.003993  "
+		}
+	}
+}

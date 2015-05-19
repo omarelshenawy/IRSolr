@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "45c9ceb71c67ee59e39185fd156ffcec807a54d792f74b2fde7bf62ad3948ae7",
+			"url": "https://upload.wikimedia.org/math/9/8/5/985c6883cc6725f5bff2e365456d57cf.png",
+				"previous": "The z component of each pixel must be chosen to give the minimum value for the information content. This will give the most likely depths at each pixel. The minimum total information measure is,",
+				"after": "The depth functions for the left and right images are the pair,",
+			"color": "dim|0.42765 gray|0.42765 dim|0.42765 grey|0.42765 gray|0.25137 grey|0.25137 dark|0.14247 gray|0.14247 dark|0.14247 grey|0.14247 black|0.063754 silver|0.057417 light|0.026481 gray|0.026481 light|0.026481 grey|0.026481 gainsboro|0.017995  "
+		}
+	}
+}

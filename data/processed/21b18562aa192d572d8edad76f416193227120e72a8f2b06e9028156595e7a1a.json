@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "21b18562aa192d572d8edad76f416193227120e72a8f2b06e9028156595e7a1a",
+			"url": "https://upload.wikimedia.org/math/f/7/c/f7cbc7404c25f3e6c8f53a87f5ebfe39.png",
+			"previous": [
+				"(it is palindromic if m = 1).",
+				"is almost palindromic, as"
+			],
+			"after": [
+				"may be solved by applying twice the quadratic formula.",
+				"For solving purpose, it is generally better to convert the quartic into a depressed quartic by the following simple change of variable. All formulas are simpler and some methods work only in this case. The roots of the original quartic are easily recovered from that of the depressed quartic by the reverse change of variable."
+			],
+			"color": "gray|0.30352 grey|0.30352 dim|0.29629 gray|0.29629 dim|0.29629 grey|0.29629 dark|0.2063 gray|0.2063 dark|0.2063 grey|0.2063 silver|0.092399 light|0.047402 gray|0.047402 light|0.047402 grey|0.047402 gainsboro|0.032419 white|0.0058065 smoke|0.0058065 linen|0.0032521  "
+		}
+	}
+}

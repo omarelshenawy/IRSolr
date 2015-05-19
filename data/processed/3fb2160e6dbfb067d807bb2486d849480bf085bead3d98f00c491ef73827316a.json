@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fb2160e6dbfb067d807bb2486d849480bf085bead3d98f00c491ef73827316a",
+			"url": "https://upload.wikimedia.org/math/6/e/8/6e80b40fd1a8351402ce91ff0c9182b1.png",
+				"previous": "When doing the calculation by hand it is useful to write down the coefficients in a triangle scheme as",
+				"after": "When choosing a point t0 to evaluate a Bernstein polynomial we can use the two diagonals of the triangle scheme to construct a division of the polynomial",
+			"color": "dim|0.36221 gray|0.36221 dim|0.36221 grey|0.36221 gray|0.28922 grey|0.28922 dark|0.17883 gray|0.17883 dark|0.17883 grey|0.17883 silver|0.076398 light|0.039507 gray|0.039507 light|0.039507 grey|0.039507 gainsboro|0.025819 white|0.0057412 smoke|0.0057412 linen|0.0035584 alice|0.0031833 blue|0.0031833 lavender|0.0031833 blush|0.0031833 ghost|0.0030696 white|0.0030696 sea|0.0030696 shell|0.0030696  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ee34fa95e04203b9cd62d9e375f21bf8a2e07756dfffb51033eda50ea10ecb3",
+			"url": "https://upload.wikimedia.org/math/2/5/3/2531d33505a1baadbec6d9dcf7bc1840.png",
+			"previous": [],
+				"after": "However, this formula is applicable without further explanation only when a, b, c, d are real numbers and the operand of the square root, i.e., , is non-negative. When this operand is real and non-negative, the square root refers to the principal (positive) square root and the cube roots in the formula are to be interpreted as the real ones. Otherwise, there is no real square root and one can arbitrarily choose one of the imaginary square roots (the same one everywhere in the solution). For extracting the complex cube roots of the resulting complex expression, we have also to choose among three cube roots in each part of each solution, giving nine possible combinations of one of three cube roots for the first part of the expression and one of three for the second. The correct combination is such that the two cube roots chosen for the two terms in a given solution expression are complex conjugates of each other (whereby the two imaginary terms in each solution cancel out).",
+			"color": " "
+		}
+	}
+}

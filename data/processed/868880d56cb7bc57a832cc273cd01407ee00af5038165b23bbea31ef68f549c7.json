@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "868880d56cb7bc57a832cc273cd01407ee00af5038165b23bbea31ef68f549c7",
+			"url": "https://upload.wikimedia.org/math/3/4/a/34ab988289e3ec72242306dd9ff3619f.png",
+			"previous": [
+				"Kepler's laws say that",
+				"and the transversal acceleration is"
+			],
+			"after": [
+				"is constant.",
+				"The transversal acceleration is zero:",
+				"So the acceleration of a planet obeying Kepler's laws is directed towards the sun.",
+				"The radial acceleration is"
+			],
+			"color": "black|0.47772 dim|0.22444 gray|0.22444 dim|0.22444 grey|0.22444 gray|0.13884 grey|0.13884 dark|0.082781 gray|0.082781 dark|0.082781 grey|0.082781 silver|0.035706 light|0.017743 gray|0.017743 light|0.017743 grey|0.017743 gainsboro|0.012594  "
+		}
+	}
+}

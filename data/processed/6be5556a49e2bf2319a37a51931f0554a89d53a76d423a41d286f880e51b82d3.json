@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6be5556a49e2bf2319a37a51931f0554a89d53a76d423a41d286f880e51b82d3",
+			"url": "https://upload.wikimedia.org/math/b/9/4/b947937b6854dc0da79669860300553a.png",
+			"previous": [
+				"The Blasius solution uses boundary conditions in a dimensionless form:",
+				"= the thickness of the boundary layer: the region of flow where the velocity is less than 99% of the far field velocity ; is position along the semi-infinite plate, and is the Reynolds Number given by ( density and dynamic viscosity)."
+			],
+				"after": "Â Â Â Â Â atÂ Â Â Â Â  and",
+			"color": "dim|0.3462 gray|0.3462 dim|0.3462 grey|0.3462 gray|0.28156 grey|0.28156 dark|0.18928 gray|0.18928 dark|0.18928 grey|0.18928 silver|0.090727 light|0.046134 gray|0.046134 light|0.046134 grey|0.046134 gainsboro|0.029357 white|0.0041663 smoke|0.0041663  "
+		}
+	}
+}

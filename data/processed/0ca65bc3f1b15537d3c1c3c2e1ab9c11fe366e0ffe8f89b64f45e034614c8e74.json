@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ca65bc3f1b15537d3c1c3c2e1ab9c11fe366e0ffe8f89b64f45e034614c8e74",
+			"url": "https://upload.wikimedia.org/math/9/9/7/997d78baefa559cc05f4eef7dcb8bb12.png",
+				"previous": "For example, the theorem from the plane geometry of triangles about the concurrence of the lines joining each vertex to the midpoint of the opposite side (at the centroid or barycenter) depends on the notions of mid-point and centroid as affine invariants. Other examples include the theorems of Ceva and Menelaus.",
+				"after": "Familiar formulas such as half the base times the height for the area of a triangle, or a third the base times the height for the volume of a pyramid, are likewise affine invariants. While the latter is less obvious than the former for the general case, it is easily seen for the one-sixth of the unit cube formed by a face (area 1) and the midpoint of the cube (height 1/2). Hence it holds for all pyramids, even slanting ones whose apex is not directly above the center of the base, and those with base a parallelogram instead of a square. The formula further generalizes to pyramids whose base can be dissected into parallelograms, including cones by allowing infinitely many parallelograms (with due attention to convergence). The same approach shows that a four-dimensional pyramid has 4D volume one quarter the 3D volume of its parallelepiped base times the height, and so on for higher dimensions.",
+			"color": "gray|0.30478 grey|0.30478 dim|0.24039 gray|0.24039 dim|0.24039 grey|0.24039 dark|0.23657 gray|0.23657 dark|0.23657 grey|0.23657 silver|0.10893 light|0.052573 gray|0.052573 light|0.052573 grey|0.052573 gainsboro|0.03691 white|0.0046912 smoke|0.0046912  "
+		}
+	}
+}

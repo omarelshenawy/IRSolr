@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fb231aac1d5941112a1a8659f51a7442c8c40e0c3a918342c61d56bac87c86c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dolphin_FileManager.png/256px-Dolphin_FileManager.png",
+			"previous": [],
+				"after": "Access to data stored on disks is a central feature of all operating systems. Computers store data on disks using files, which are structured in specific ways in order to allow for faster access, higher reliability, and to make better use out of the drive's available space. The specific way in which files are stored on a disk is called a file system, and enables files to have names and attributes. It also allows them to be stored in a hierarchy of directories or folders arranged in a directory tree.",
+			"color": "black|0.54336 dim|0.13623 gray|0.13623 dim|0.13623 grey|0.13623 gray|0.049621 grey|0.049621 dark|0.048093 slate|0.048093 gray|0.048093 sienna|0.045968 chocolate|0.025747 peru|0.019128 slate|0.018531 gray|0.018531 rosy|0.014331 brown|0.014331 dark|0.012367 gray|0.012367 dark|0.012367 grey|0.012367 brown|0.0096956 light|0.0096652 slate|0.0096652 gray|0.0096652 orange|0.0077726 red|0.0077726  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a9b4b7a62094c6d74a6cab9e79bd1a6b9055193032a14a9bf02236b82a08657",
+			"url": "https://upload.wikimedia.org/math/2/7/2/272b755d39c0f727f8f0791ce203e881.png",
+			"previous": [
+				"Even in such a simple setting, the maximum domain of solution cannot be all â, since the solution is",
+				"This means that F(x, y) = y2, which is C1 and therefore locally Lipschitz continuous, satisfying the PicardâLindelÃ¶f theorem."
+			],
+				"after": "which has maximum domain:",
+			"color": "dim|0.36876 gray|0.36876 dim|0.36876 grey|0.36876 gray|0.28766 grey|0.28766 dark|0.18613 gray|0.18613 dark|0.18613 grey|0.18613 silver|0.080055 light|0.038093 gray|0.038093 light|0.038093 grey|0.038093 gainsboro|0.027308 white|0.0037858 smoke|0.0037858  "
+		}
+	}
+}

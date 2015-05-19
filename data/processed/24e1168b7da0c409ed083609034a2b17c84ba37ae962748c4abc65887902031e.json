@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "24e1168b7da0c409ed083609034a2b17c84ba37ae962748c4abc65887902031e",
+			"url": "https://upload.wikimedia.org/math/6/1/5/6153c42b6cf5bbf581309125dc140ef3.png",
+				"previous": "Hilbert's basis theorem has some immediate corollaries:",
+				"after": "An ideal Q of a ring is said to be primary if Q is proper and whenever xy â Q, either x â Q or yn â Q for some positive integer n. In Z, the primary ideals are precisely the ideals of the form (pe) where p is prime and e is a positive integer. Thus, a primary decomposition of (n) corresponds to representing (n) as the intersection of finitely many primary ideals.",
+			"color": "dim|0.35251 gray|0.35251 dim|0.35251 grey|0.35251 gray|0.25362 grey|0.25362 dark|0.17686 gray|0.17686 dark|0.17686 grey|0.17686 silver|0.078779 light|0.04334 gray|0.04334 light|0.04334 grey|0.04334 gainsboro|0.032364 white|0.01071 smoke|0.01071 lavender|0.0064222 blush|0.0064222 alice|0.0063506 blue|0.0063506 ghost|0.0062345 white|0.0062345 sea|0.0061672 shell|0.0061672 snow|0.0061036 white|0.0054884 mint|0.0045146 cream|0.0045146 linen|0.0041112 floral|0.0037669 white|0.0037669  "
+		}
+	}
+}

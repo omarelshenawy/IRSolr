@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "9adf0d5e74bab51552869991fe2bd4bb51ad0d434380321c3816f54d8776e509",
+			"url": "https://upload.wikimedia.org/math/1/9/3/193c92e2d4ebb1281a54e1572f187628.png",
+			"previous": [
+				"Kepler's first law states that the orbit is described by the equation:",
+				"The radial acceleration is",
+				"So the acceleration of a planet obeying Kepler's laws is directed towards the sun."
+			],
+			"after": [
+				"Differentiating with respect to time",
+				"or"
+			],
+			"color": "dim|0.40473 gray|0.40473 dim|0.40473 grey|0.40473 gray|0.27442 grey|0.27442 dark|0.16173 gray|0.16173 dark|0.16173 grey|0.16173 silver|0.074077 light|0.037541 gray|0.037541 light|0.037541 grey|0.037541 gainsboro|0.027298 white|0.0049471 smoke|0.0049471  "
+		}
+	}
+}

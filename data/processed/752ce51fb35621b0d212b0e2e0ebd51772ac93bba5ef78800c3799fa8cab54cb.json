@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "752ce51fb35621b0d212b0e2e0ebd51772ac93bba5ef78800c3799fa8cab54cb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TCAS_Envelope.JPG/220px-TCAS_Envelope.JPG",
+				"previous": "TCAS works in a coordinated manner, so when an RA is issued to conflicting aircraft, a required action (i.e., Climb. Climb.) has to be immediately performed by one of the aircraft, while the other one receives a similar RA in the opposite direction (i.e., Descend. Descend.).",
+				"after": "TCAS II issues the following types of aural annunciations:",
+			"color": "yellow|0.39724 orange|0.32225 red|0.32225 red|0.20665 dark|0.0097867 red|0.0097867 maroon|0.0084936 firebrick|0.0079743 khaki|0.005946 brown|0.0053496 olive|0.004473  "
+		}
+	}
+}

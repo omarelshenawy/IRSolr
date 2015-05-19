@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3585846900f534b78b2c5bac267c87ff3c2d8be6dc36d74062ee6a5872989bf9",
+			"url": "https://upload.wikimedia.org/math/c/8/b/c8b205a463fb4a5db9723b51b3c00884.png",
+			"previous": [],
+				"after": "The concept of eigenvectors and eigenvalues extends naturally to abstract linear transformations on abstract vector spaces. Namely, let be any vector space over some field of scalars, and let be a linear transformation mapping into . We say that a non-zero vector of is an eigenvector of if (and only if) there is a scalar in such that",
+			"color": " "
+		}
+	}
+}

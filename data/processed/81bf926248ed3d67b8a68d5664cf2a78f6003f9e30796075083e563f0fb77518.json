@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "81bf926248ed3d67b8a68d5664cf2a78f6003f9e30796075083e563f0fb77518",
+			"url": "https://upload.wikimedia.org/math/2/b/b/2bbda46f09c030f245f9afe1fa0eb85f.png",
+			"previous": [
+				"or equivalently",
+				"Consider the following notation:"
+			],
+			"after": [
+				"Similarly,",
+				"or equivalently",
+				"This represents the value (or values) of the argument x in the interval that minimizes (or minimize) the objective function x2Â +Â 1 (the actual minimum value of that function is not what the problem asks for). In this case, the answer is x = -1, since x = 0 is infeasible, i.e. does not belong to the feasible set."
+			],
+			"color": "dim|0.30702 gray|0.30702 dim|0.30702 grey|0.30702 gray|0.23624 grey|0.23624 dark|0.17433 gray|0.17433 dark|0.17433 grey|0.17433 silver|0.096102 light|0.058181 gray|0.058181 light|0.058181 grey|0.058181 gainsboro|0.046134 white|0.010685 smoke|0.010685 alice|0.0087235 blue|0.0087235 ghost|0.0086747 white|0.0086747 lavender|0.0086714 blush|0.0086714 sea|0.0086049 shell|0.0086049 snow|0.0085519 white|0.0071694 mint|0.0068469 cream|0.0068469 linen|0.0051584 floral|0.0048925 white|0.0048925 azure|0.0039414  "
+		}
+	}
+}

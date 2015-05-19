@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ea5c7d46e46a27d73bd7fdca034eadec285d8edbe61fb60e02b7ae22de8efac",
+			"url": "https://upload.wikimedia.org/math/8/0/a/80ac78630bb4e8d2dd46182c168c7cd4.png",
+				"previous": "The standard symbol for the arcsecond is the double prime (â³) (U+2033), though a double quote (\") (U+0022) is commonly used where only ASCII characters are permitted. One arcsecond is thus written 1â³. It is also abbreviated as arcsec or asec.",
+				"after": "In celestial navigation, seconds of arc are rarely used in calculations, the preference usually being for degrees, minutes and decimals of a minute, written for example as 42Â° 25.32â² or 42Â° 25.322â².[2][3] This notation has been carried over into marine GPS receivers, which normally display latitude and longitude in the latter format by default.[4]",
+			"color": " "
+		}
+	}
+}

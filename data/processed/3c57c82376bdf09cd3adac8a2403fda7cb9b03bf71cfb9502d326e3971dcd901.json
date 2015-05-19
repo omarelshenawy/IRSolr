@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c57c82376bdf09cd3adac8a2403fda7cb9b03bf71cfb9502d326e3971dcd901",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eigenvalue_equation.svg/250px-Eigenvalue_equation.svg.png",
+				"previous": "The first numerical algorithm for computing eigenvalues and eigenvectors appeared in 1929, when Von Mises published the power method. One of the most popular methods today, the QR algorithm, was proposed independently by John G.F. Francis[14] and Vera Kublanovskaya[15] in 1961.[16]",
+				"after": "Consider n-dimensional vectors that are formed as a list of n real numbers, such as the three dimensional vectors,",
+			"color": "dim|0.21414 gray|0.21414 dim|0.21414 grey|0.21414 gray|0.21369 grey|0.21369 red|0.14166 dark|0.13422 gray|0.13422 dark|0.13422 grey|0.13422 black|0.078167 light|0.065289 coral|0.065289 silver|0.050414 salmon|0.044924 light|0.028751 pink|0.028751 pink|0.01168 light|0.0087851 gray|0.0087851 light|0.0087851 grey|0.0087851 gainsboro|0.0048418  "
+		}
+	}
+}

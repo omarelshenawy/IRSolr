@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6989db70ee04d9cb300e39e8f0bb5316658382788c6d77b8f24ed5b1c8bce6f4",
+			"url": "https://upload.wikimedia.org/math/0/e/c/0ec527e695b1e516f5c726d0247d5f83.png",
+				"previous": "the expression",
+			"after": [
+				"holds; that is to say, on some region around x* all of the function values are greater than or equal to the value at that point. Local maxima are defined similarly.",
+				"A large number of algorithms proposed for solving non-convex problems â including the majority of commercially available solvers â are not capable of making a distinction between local optimal solutions and rigorous optimal solutions, and will treat the former as actual solutions to the original problem. The branch of applied mathematics and numerical analysis that is concerned with the development of deterministic algorithms that are capable of guaranteeing convergence in finite time to the actual optimal solution of a non-convex problem is called global optimization."
+			],
+			"color": "gray|0.32782 grey|0.32782 dim|0.26969 gray|0.26969 dim|0.26969 grey|0.26969 dark|0.21864 gray|0.21864 dark|0.21864 grey|0.21864 silver|0.091201 light|0.044355 gray|0.044355 light|0.044355 grey|0.044355 gainsboro|0.030496 white|0.0053578 smoke|0.0053578  "
+		}
+	}
+}

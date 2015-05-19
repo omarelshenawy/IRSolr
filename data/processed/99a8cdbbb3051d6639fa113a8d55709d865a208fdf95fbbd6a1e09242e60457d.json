@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "99a8cdbbb3051d6639fa113a8d55709d865a208fdf95fbbd6a1e09242e60457d",
+			"url": "https://upload.wikimedia.org/math/e/2/6/e2643d06c8c49297e4d10cce1a9ad486.png",
+			"previous": [
+				"Channel coding is concerned with finding such nearly optimal codes that can be used to transmit data over a noisy channel with a small coding error at a rate near the channel capacity.",
+				"This capacity has the following property related to communicating at information rate R (where R is usually bits per symbol). For any information rate R < C and coding error Îµ > 0, for large enough N, there exists a code of length N and rate â¥ R and a decoding algorithm, such that the maximal probability of block error is â¤ Îµ; that is, it is always possible to transmit with arbitrarily small block error. In addition, for any rate R > C, it is impossible to transmit with arbitrarily small block error."
+			],
+			"after": [],
+			"color": "gray|0.3308 grey|0.3308 dim|0.29688 gray|0.29688 dim|0.29688 grey|0.29688 dark|0.18316 gray|0.18316 dark|0.18316 grey|0.18316 silver|0.089109 light|0.045637 gray|0.045637 light|0.045637 grey|0.045637 gainsboro|0.032028 white|0.0057035 smoke|0.0057035 linen|0.0030331  "
+		}
+	}
+}

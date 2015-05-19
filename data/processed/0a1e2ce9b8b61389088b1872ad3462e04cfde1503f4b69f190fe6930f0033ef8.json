@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a1e2ce9b8b61389088b1872ad3462e04cfde1503f4b69f190fe6930f0033ef8",
+			"url": "https://upload.wikimedia.org/math/6/2/6/626590c22593ff1d0eecefeff6cb7992.png",
+			"previous": [
+				"The skin friction coefficient, , is defined by",
+				"Skin friction drag arises from the friction of the fluid against the \"skin\" of the object that is moving through it. Skin friction arises from the interaction between the fluid and the skin of the body, and is directly related to the wetted surface, the area of the surface of the body that is in contact with the fluid. As with other components of parasitic drag, skin friction follows the drag equation and rises with the square of the velocity."
+			],
+				"after": "For comparison, the turbulent empirical relation known as the 1/7 Power Law (derived by Theodore von KÃ¡rmÃ¡n) is:",
+			"color": " "
+		}
+	}
+}

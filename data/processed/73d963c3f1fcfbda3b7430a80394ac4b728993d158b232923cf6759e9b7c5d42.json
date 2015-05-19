@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "73d963c3f1fcfbda3b7430a80394ac4b728993d158b232923cf6759e9b7c5d42",
+			"url": "https://upload.wikimedia.org/math/3/3/5/3351d905c1fc9a7d17869961a4181a15.png",
+				"previous": "The cardinality of the set of integers is equal to (aleph-null). This is readily demonstrated by the construction of a bijection, that is, a function that is injective and surjective from Z to N. If N = {0, 1, 2, ...} then consider the function:",
+				"after": "{... (-4,8) (-3,6) (-2,4) (-1,2) (0,0) (1,1) (2,3) (3,5) ...}",
+			"color": "dim|0.36488 gray|0.36488 dim|0.36488 grey|0.36488 gray|0.27836 grey|0.27836 dark|0.1839 gray|0.1839 dark|0.1839 grey|0.1839 silver|0.08407 light|0.04489 gray|0.04489 light|0.04489 grey|0.04489 gainsboro|0.028943 white|0.0031688 smoke|0.0031688  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8554dbe2fc7b6ad2e6aa613caa39dd062e6cb13abf2714a11cefc116dcb0a58e",
+			"url": "https://upload.wikimedia.org/math/0/4/3/0436d87c2b6c76e631e64dda8e9570c9.png",
+				"previous": "where:",
+				"after": "Induced drag must be added to the parasitic drag to find the total drag. Since induced drag is inversely proportional to the square of the airspeed (at a given lift) whereas parasitic drag is proportional to the square of the airspeed, the combined overall drag curve shows a minimum at some airspeed - the minimum drag speed (VMD). An aircraft flying at this speed is at its optimal aerodynamic efficiency. According to the above equations, the minimum drag speed occurs at the speed where the induced drag is equal to the parasitic drag. This is the speed at which the best gradient of climb[clarification needed], or for unpowered aircraft, minimum gradient of descent, is achieved.[10] This is also the speed for greatest range (although VMD will decrease as the plane consumes fuel and becomes lighter). The speed for greatest range (i.e., distance travelled) is the speed at which a straight line from the origin is tangent to the fuel flow rate curve. The curve of range versus airspeed is normally very flat and it is customary to operate at the speed for 99% best range since this gives about 5% greater speed for only 1% less range. (Of course, flying higher where the air is thinner will raise the speed of minimum drag, and so permits a faster voyage for the same amount of fuel. If the plane is flying at the maximum permissible speed, then there is an altitude at which the air density will be what is needed to keep it aloft while flying at the angle of attack that minimizes the drag. The optimum altitude at maximum speed, and the optimum speed at maximum altitude, may change during the flight as the plane becomes lighter.)",
+			"color": "gray|0.35079 grey|0.35079 dark|0.27531 gray|0.27531 dark|0.27531 grey|0.27531 dim|0.14376 gray|0.14376 dim|0.14376 grey|0.14376 silver|0.117 light|0.056936 gray|0.056936 light|0.056936 grey|0.056936 gainsboro|0.038863 white|0.005166 smoke|0.005166 linen|0.002729  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "717ae062b5c9e1f44b1b4888dc3678425c983d468d2842ecda43eb1be347a6ea",
+			"url": "https://upload.wikimedia.org/math/f/a/1/fa10d81ad957d9a21745e9d1c35b93b3.png",
+				"previous": "The set of all possible products of n orthogonal basis vectors with indices in increasing order, including 1 as the empty product forms a basis for the entire geometric algebra (an analogue of the PBW theorem). For example, the following is a basis for the geometric algebra :",
+				"after": "A basis formed this way is called a canonical basis for the geometric algebra, and any other orthogonal basis for V will produce another canonical basis. Each canonical basis consists of 2n elements. Every multivector of the geometric algebra can be expressed as a linear combination of the canonical basis elements. If the canonical basis elements are {Bi | iâS} with S being an index set, then the geometric product of any two multivectors is",
+			"color": "dim|0.3711 gray|0.3711 dim|0.3711 grey|0.3711 gray|0.24161 grey|0.24161 dark|0.14509 gray|0.14509 dark|0.14509 grey|0.14509 black|0.13361 silver|0.056915 light|0.024933 gray|0.024933 light|0.024933 grey|0.024933 gainsboro|0.017961  "
+		}
+	}
+}

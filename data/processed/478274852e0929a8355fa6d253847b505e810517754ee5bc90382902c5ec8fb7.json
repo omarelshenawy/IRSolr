@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "478274852e0929a8355fa6d253847b505e810517754ee5bc90382902c5ec8fb7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Remesdemo.png",
+				"previous": "The graph below shows an example of this, producing a fourth-degree polynomial approximating over [â1, 1]. The test points were set at â1, â0.7, â0.1, +0.4, +0.9, and 1. Those values are shown in green. The resultant value of is 4.43 x 10â4",
+				"after": "Note that the error graph does indeed take on the values at the six test points, including the end points, but that those points are not extrema. If the four interior test points had been extrema (that is, the function P(x)f(x) had maxima or minima there), the polynomial would be optimal.",
+			"color": "black|0.19355 lime|0.16774 green|0.16774 gray|0.10726 grey|0.10726 dim|0.08629 gray|0.08629 dim|0.08629 grey|0.08629 light|0.064247 coral|0.064247 dark|0.05 green|0.05 maroon|0.033065 light|0.025806 green|0.025806 pink|0.020161 misty|0.018973 rose|0.018973 indian|0.016667 red|0.016667 brown|0.016129 light|0.015323 pink|0.015323 salmon|0.014247 firebrick|0.012097 dark|0.01129 red|0.01129 lavender|0.011146 blush|0.011146 sea|0.0091212 shell|0.0091212 white|0.0089868 smoke|0.0089868 green|0.008871 snow|0.0085567 honeydew|0.0080914 rosy|0.0080645 brown|0.0080645 forest|0.0072581 green|0.0072581  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "25c6ef401e2a7d506cf4a7065de45435158309b0009e71eef4b064adf9a327e8",
+			"url": "https://upload.wikimedia.org/math/e/5/1/e511b4a3fa689891f77126fcc257223f.png",
+				"previous": "A sufficiently smooth k-surface in an n-dimensional space is deemed a manifold. To each point on the manifold, we may attach a k-blade B that is tangent to the manifold. Locally, B acts as a pseudoscalar of the k-dimensional space. This blade defines a projection of vectors onto the manifold:",
+				"after": "Just as the geometric derivative is defined over the entire n-dimensional space, we may wish to define an intrinsic derivative , locally defined on the manifold:",
+			"color": "dim|0.37233 gray|0.37233 dim|0.37233 grey|0.37233 gray|0.29891 grey|0.29891 dark|0.17747 gray|0.17747 dark|0.17747 grey|0.17747 silver|0.076282 light|0.036199 gray|0.036199 light|0.036199 grey|0.036199 gainsboro|0.024163 white|0.0035784 smoke|0.0035784  "
+		}
+	}
+}

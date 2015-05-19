@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "41c4a8c55d75eb2e2159ade63f180398ab78040b9c51237f8a5f91a8bf7ed834",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vor_indicator.png/60px-Vor_indicator.png",
+			"previous": [],
+			"after": [
+				"The CDI is an avionics instrument used in aircraft navigation to determine an aircraft's lateral position in relation to a track, which can be provided by a VOR or an instrument landing system (ILS).",
+				"This instrument can also be integrated with the heading indicator in a horizontal situation indicator."
+			],
+			"color": "black|0.76124 dim|0.10429 gray|0.10429 dim|0.10429 grey|0.10429 gray|0.081535 grey|0.081535 dark|0.031631 gray|0.031631 dark|0.031631 grey|0.031631 silver|0.0082642 light|0.0033072 gray|0.0033072 light|0.0033072 grey|0.0033072  "
+		}
+	}
+}

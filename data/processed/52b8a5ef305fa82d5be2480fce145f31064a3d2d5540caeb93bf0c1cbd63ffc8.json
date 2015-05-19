@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "52b8a5ef305fa82d5be2480fce145f31064a3d2d5540caeb93bf0c1cbd63ffc8",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Padlock-red.svg/75px-Padlock-red.svg.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "Some areas of Wikipedia are permanently protected by the MediaWiki software. The MediaWiki namespace, which defines parts of the site interface, is fully protected; it is impossible for administrators to remove this protection. User CSS and JavaScript pages, such as User:Example/monobook.css and User:Example/cologneblue.js, are automatically fully protected. Only accounts that are associated with these pages or administrators are able to edit them. This protection applies to any user subpage with a \".css\" or \".js\" extension, whether an equivalent MediaWiki skin exists or not. Administrators may modify these pages, for example, to remove a user script that has been used in an inappropriate way.",
+			"color": "firebrick|0.38706 indian|0.27435 red|0.27435 light|0.095624 coral|0.095624 light|0.038344 pink|0.038344 pink|0.031194 dark|0.021748 gray|0.021748 dark|0.021748 grey|0.021748 silver|0.018769 rosy|0.017657 brown|0.017657 misty|0.015484 rose|0.015484 light|0.015172 gray|0.015172 light|0.015172 grey|0.015172 gainsboro|0.013183 gray|0.010289 grey|0.010289 white|0.0076174 smoke|0.0076174 lavender|0.0073438 blush|0.0073438 sea|0.0067387 shell|0.0067387 linen|0.0065391 ghost|0.005417 white|0.005417 snow|0.0050893 alice|0.0049721 blue|0.0049721 dim|0.0049047 gray|0.0049047 dim|0.0049047 grey|0.0049047 white|0.0039979  "
+		}
+	}
+}

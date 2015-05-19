@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "63bab0d738bd907e000afb1e7e490964fabcc806b795cd7712b62ba6cb8c5386",
+			"url": "https://upload.wikimedia.org/math/3/1/b/31b25a1895b28403a9f1db88852eb652.png",
+			"previous": [],
+				"after": "The graph below shows an example of this, producing a fourth-degree polynomial approximating over [â1, 1]. The test points were set at â1, â0.7, â0.1, +0.4, +0.9, and 1. Those values are shown in green. The resultant value of is 4.43 x 10â4",
+			"color": "dark|0.32203 gray|0.32203 dark|0.32203 grey|0.32203 gray|0.25444 grey|0.25444 silver|0.17071 light|0.09079 gray|0.09079 light|0.09079 grey|0.09079 dim|0.069771 gray|0.069771 dim|0.069771 grey|0.069771 gainsboro|0.06322 white|0.0085713 smoke|0.0085713 linen|0.0038531 lavender|0.0031749 blush|0.0031749 alice|0.0030221 blue|0.0030221 ghost|0.0028311 white|0.0028311 sea|0.0026401 shell|0.0026401 snow|0.0025088  "
+		}
+	}
+}

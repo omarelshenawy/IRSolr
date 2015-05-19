@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fb7ce44ba8005d59f6b47327e0249e859815b6d672cf47e38e06aa67ae13109",
+			"url": "https://upload.wikimedia.org/math/3/c/c/3cc24f798ceeb66ccf9a098317c60dd3.png",
+			"previous": [],
+				"after": "This equation does not satisfy the no-slip condition at the wall. Like Prandtl did for his boundary layer equations, a new, smaller length scale must be used to allow the viscous term to become leading order in the momentum equation. By choosing as the y-scale, the leading order momentum equation for this \"inner boundary layer\" is given by:",
+			"color": "dim|0.32451 gray|0.32451 dim|0.32451 grey|0.32451 gray|0.31465 grey|0.31465 dark|0.19725 gray|0.19725 dark|0.19725 grey|0.19725 silver|0.077986 light|0.036819 gray|0.036819 light|0.036819 grey|0.036819 gainsboro|0.025622 white|0.0052782 smoke|0.0052782 linen|0.0028543 lavender|0.0025803 blush|0.0025803  "
+		}
+	}
+}

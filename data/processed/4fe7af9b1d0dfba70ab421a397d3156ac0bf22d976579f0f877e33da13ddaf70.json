@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fe7af9b1d0dfba70ab421a397d3156ac0bf22d976579f0f877e33da13ddaf70",
+			"url": "https://upload.wikimedia.org/math/7/1/d/71dc3577e7b34fe348d82d6e719b0360.png",
+				"previous": "The raison d'Ãªtre of the measure-theoretic treatment of probability is that it unifies the discrete and the continuous cases, and makes the difference a question of which measure is used. Furthermore, it covers distributions that are neither discrete nor continuous nor mixtures of the two.",
+				"after": "Other distributions may not even be a mix, for example, the Cantor distribution has no positive probability for any single point, neither does it have a density. The modern approach to probability theory solves these problems using measure theory to define the probability space:",
+			"color": "gray|0.30955 grey|0.30955 dim|0.23932 gray|0.23932 dim|0.23932 grey|0.23932 dark|0.22034 gray|0.22034 dark|0.22034 grey|0.22034 silver|0.098763 light|0.055923 gray|0.055923 light|0.055923 grey|0.055923 gainsboro|0.039834 white|0.0077853 smoke|0.0077853 linen|0.0052261 lavender|0.0048162 blush|0.0048162 alice|0.0047613 blue|0.0047613 ghost|0.004662 white|0.004662 sea|0.0030723 shell|0.0030723 snow|0.0028719  "
+		}
+	}
+}

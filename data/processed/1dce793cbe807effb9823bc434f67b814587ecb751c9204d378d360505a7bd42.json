@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dce793cbe807effb9823bc434f67b814587ecb751c9204d378d360505a7bd42",
+			"url": "https://upload.wikimedia.org/math/5/1/a/51a783a4668b26d03278e9c3c70da8ce.png",
+			"previous": [
+				"Then, using the Einstein summation notation, consider the operatorÂ :",
+				"Next, choose a set of basis vectors and consider the operators, noted , that perform directional derivatives in the directions of :"
+			],
+			"after": [
+				"which means:",
+				"or, more verbosely:"
+			],
+			"color": "dark|0.30508 gray|0.30508 dark|0.30508 grey|0.30508 gray|0.23272 grey|0.23272 silver|0.17647 light|0.10063 gray|0.10063 light|0.10063 grey|0.10063 dim|0.078355 gray|0.078355 dim|0.078355 grey|0.078355 gainsboro|0.068812 white|0.010371 smoke|0.010371 linen|0.0056794 lavender|0.0043501 blush|0.0043501 alice|0.0042875 blue|0.0042875 ghost|0.0039747 white|0.0039747 sea|0.0037066 shell|0.0037066 snow|0.0033156  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a580e8edbd0bd19b8e546b2aef34b93436a55b33eff1000ce526c3fc4cc027c",
+			"url": "https://upload.wikimedia.org/math/0/f/5/0f5145128d41c9f5cde5c0cee88df82c.png",
+				"previous": "Since quaternion multiplication is associative, and real numbers commute with other quaternions, the norm of a product of quaternions equals the product of the norms:",
+				"after": "For any , . It follows easily that is a unit in the ring of Hurwitz quaternions if and only if .",
+			"color": "dim|0.3127 gray|0.3127 dim|0.3127 grey|0.3127 gray|0.29122 grey|0.29122 dark|0.20649 gray|0.20649 dark|0.20649 grey|0.20649 silver|0.094042 light|0.044442 gray|0.044442 light|0.044442 grey|0.044442 gainsboro|0.027628 white|0.0058367 smoke|0.0058367 linen|0.0030507  "
+		}
+	}
+}

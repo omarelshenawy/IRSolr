@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "82f4c11838e30c960f89941386f6384b642f5e3262476d5266a23b054a66d7f4",
+			"url": "https://upload.wikimedia.org/math/0/3/c/03c7c0ace395d80182db07ae2c30f034.png",
+			"previous": [
+				"This can be simplified by starting again with a depressed quartic where , which can be obtained by substituting for , then , and:",
+				"By equating coefficients, this results in the following set of simultaneous equations:"
+			],
+			"after": [
+				"If we set , then this equation turns into the resolvent cubic equation",
+				"which is solved elsewhere. Then, if p is a square root of a non-zero root of this resolvent (such a non zero root exists except for the quartic x4, which is trivially factored),"
+			],
+			"color": " "
+		}
+	}
+}

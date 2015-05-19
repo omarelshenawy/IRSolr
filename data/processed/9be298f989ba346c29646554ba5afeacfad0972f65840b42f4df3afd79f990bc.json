@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9be298f989ba346c29646554ba5afeacfad0972f65840b42f4df3afd79f990bc",
+			"url": "https://upload.wikimedia.org/math/3/8/f/38f15cd553321164ca9a74a828489035.png",
+			"previous": [
+				"saying that the growth rate of x at time t is proportional to the value of x(t), and it has the initial value",
+				"The exponential function satisfies the linear differential equation:"
+			],
+				"after": "The differential equation is solved by direct integration:",
+			"color": "gray|0.30411 grey|0.30411 dark|0.25149 gray|0.25149 dark|0.25149 grey|0.25149 dim|0.17084 gray|0.17084 dim|0.17084 grey|0.17084 silver|0.12326 light|0.066445 gray|0.066445 light|0.066445 grey|0.066445 gainsboro|0.047796 white|0.0090151 smoke|0.0090151 linen|0.0042707 lavender|0.0039814 blush|0.0039814 alice|0.0038623 blue|0.0038623 ghost|0.0037063 white|0.0037063 sea|0.0034511 shell|0.0034511 snow|0.003249  "
+		}
+	}
+}

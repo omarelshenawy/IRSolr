@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "90320cc5a782984d0cd3d5eba57a3b182622ceea39a502b53255c1672bb28978",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Laminar_shear.svg/200px-Laminar_shear.svg.png",
+				"previous": "Shear mappings must not be confused with rotations. Applying a shear map to a set of points of the plane will change all angles between them (except straight angles), and the length of any line segment that is not parallel to the direction of displacement. Therefore it will usually distort the shape of a geometric figure, for example turning squares into non-square parallelograms, and circles into ellipses. However a shearing does preserve the area of geometric figures, the alignment and relative distances of collinear points. A shear mapping is the main difference between the upright and slanted (or italic) styles of letters.",
+				"after": "The same definition is used in three-dimensional geometry, except that the distance is measured from a fixed plane. A three-dimensional shearing transformation preserves the volume of solid figures, but changes areas of plane figures (except those that are parallel to the displacement). This transformation is used to describe laminar flow of a fluid between plates, one moving in a plane above and parallel to the first.",
+			"color": "rosy|0.18592 brown|0.18592 white|0.048591 mint|0.046054 cream|0.046054 white|0.04582 smoke|0.04582 snow|0.045017 floral|0.044286 white|0.044286 sea|0.042497 shell|0.042497 ghost|0.039761 white|0.039761 azure|0.039322 alice|0.036473 blue|0.036473 lavender|0.031455 blush|0.031455 brown|0.02923 black|0.027397 misty|0.027386 rose|0.027386 ivory|0.023772 gainsboro|0.023493 dark|0.023353 gray|0.023353 dark|0.023353 grey|0.023353 honeydew|0.023073 light|0.022735 gray|0.022735 light|0.022735 grey|0.022735 gray|0.021297 grey|0.021297 silver|0.01835 dim|0.016363 gray|0.016363 dim|0.016363 grey|0.016363 lavender|0.013672 dark|0.013236 cyan|0.013236 light|0.01285 steel|0.01285 blue|0.01285 beige|0.012765 linen|0.011342 navy|0.0101  "
+		}
+	}
+}

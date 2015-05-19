@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fa42a2e40cd91fc9d439493d47733cbf1a338da0aeda78d836bcd205978d1b2",
+			"url": "https://upload.wikimedia.org/math/6/c/e/6cef7c6abc27ef640f8b75a6690d6c4e.png",
+			"previous": [
+				"and",
+				"Eigenvalue problems in higher dimensions are defined in analogy with the one-dimensional case. For example, given a domain D with boundary B in three dimensions we may define"
+			],
+			"after": [
+				"where",
+				"If the functional J[y ] attains a local minimum at f , and Î·(x) is an arbitrary function that has at least one derivative and vanishes at the endpoints x1 and x2 , then for any number Îµ close to 0,"
+			],
+			"color": "gray|0.25833 grey|0.25833 dark|0.23886 gray|0.23886 dark|0.23886 grey|0.23886 dim|0.16147 gray|0.16147 dim|0.16147 grey|0.16147 silver|0.1235 light|0.086803 gray|0.086803 light|0.086803 grey|0.086803 gainsboro|0.063248 white|0.014733 smoke|0.014733 linen|0.011899 lavender|0.0078707 blush|0.0078707 alice|0.0075752 blue|0.0075752 ghost|0.0073946 white|0.0073946 sea|0.0072632 shell|0.0072632 snow|0.007173 white|0.0028828  "
+		}
+	}
+}

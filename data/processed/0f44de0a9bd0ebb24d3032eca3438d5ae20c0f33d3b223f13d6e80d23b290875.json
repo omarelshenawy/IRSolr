@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f44de0a9bd0ebb24d3032eca3438d5ae20c0f33d3b223f13d6e80d23b290875",
+			"url": "https://upload.wikimedia.org/math/0/2/c/02cc6e4798367f3f8d26ea525f07e7b2.png",
+				"previous": "For a linear operator with finite-dimensional kernel and co-kernel, one may define index as:",
+			"after": [
+				"namely the degrees of freedom minus the number of constraints.",
+				"For a transformation between finite-dimensional vector spaces, this is just the difference dim(V) â dim(W), by rankânullity. This gives an indication of how many solutions or how many constraints one has: if mapping from a larger space to a smaller one, the map may be onto, and thus will have degrees of freedom even without constraints. Conversely, if mapping from a smaller space to a larger one, the map cannot be onto, and thus one will have constraints even without degrees of freedom."
+			],
+			"color": "dim|0.3861 gray|0.3861 dim|0.3861 grey|0.3861 gray|0.30746 grey|0.30746 dark|0.17354 gray|0.17354 dark|0.17354 grey|0.17354 silver|0.067429 light|0.029835 gray|0.029835 light|0.029835 grey|0.029835 gainsboro|0.020372 black|0.0038614 white|0.0029479 smoke|0.0029479  "
+		}
+	}
+}

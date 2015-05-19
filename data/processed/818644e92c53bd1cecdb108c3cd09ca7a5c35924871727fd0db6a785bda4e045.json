@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "818644e92c53bd1cecdb108c3cd09ca7a5c35924871727fd0db6a785bda4e045",
+			"url": "https://upload.wikimedia.org/math/b/5/0/b50a3a8056a80a8ae7b8e268a90c2bb9.png",
+				"previous": "then the Z-transform (see this example), is given by",
+			"after": [
+				"which has a pole in (zero imaginary part). This system is BIBO (asymptotically) stable since the pole is inside the unit circle.",
+				"However, if the impulse response was"
+			],
+			"color": "dim|0.43355 gray|0.43355 dim|0.43355 grey|0.43355 gray|0.27493 grey|0.27493 dark|0.15028 gray|0.15028 dark|0.15028 grey|0.15028 silver|0.068334 light|0.035657 gray|0.035657 light|0.035657 grey|0.035657 gainsboro|0.024903 white|0.0036152 smoke|0.0036152  "
+		}
+	}
+}

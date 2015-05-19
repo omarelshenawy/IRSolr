@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c9bc2e08368f741121db151525c3e75f6620bed8d020549b45bc59ed6730aa9",
+			"url": "https://upload.wikimedia.org/math/5/a/6/5a6db5d995c13eccb336249fa01e5fb3.png",
+			"previous": [
+				"Dividing by length of time of motion we get:",
+				"where F is the force and d is the distance moved.",
+				"This is because the useful mechanical energy generated is simply force times distance, and when a thrust force is generated while the vehicle moves, then:"
+			],
+			"after": [
+				"Hence:",
+				"where P is the useful power and v is the speed.",
+				"Hence you want v to be as high as possible; and a stationary engine does no useful work.[1]"
+			],
+			"color": "black|0.23199 dim|0.20672 gray|0.20672 dim|0.20672 grey|0.20672 gray|0.20148 grey|0.20148 dark|0.18542 gray|0.18542 dark|0.18542 grey|0.18542 silver|0.10129 light|0.04231 gray|0.04231 light|0.04231 grey|0.04231 gainsboro|0.029938  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1882906ccc279ddc7aa5cd1c65859c8396c046b06a1c1fb52b726a5d4c96fbab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Serie_Shunt_Coumpound.svg/300px-Serie_Shunt_Coumpound.svg.png",
+			"previous": [
+				"DC machines are defined as follows:[63]",
+				"Large brushes are desired for a larger brush contact area to maximize motor output, but small brushes are desired for low mass to maximize the speed at which the motor can run without the brushes excessively bouncing and sparking. (Small brushes are also desirable for lower cost.) Stiffer brush springs can also be used to make brushes of a given mass work at a higher speed, but at the cost of greater friction losses (lower efficiency) and accelerated brush and commutator wear. Therefore, DC motor brush design entails a trade-off between output power, speed, and efficiency/wear."
+			],
+				"after": "There are five types of brushed DC motor:",
+			"color": "black|0.27762 gray|0.25633 grey|0.25633 dim|0.23762 gray|0.23762 dim|0.23762 grey|0.23762 dark|0.17831 gray|0.17831 dark|0.17831 grey|0.17831 silver|0.04195 light|0.005847 gray|0.005847 light|0.005847 grey|0.005847  "
+		}
+	}
+}

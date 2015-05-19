@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "a09bf708499db652deff0e9838f17c1422ddd6999d25eda46d3b33dc42bc1fd6",
+			"url": "https://upload.wikimedia.org/math/d/2/1/d210fd6092861c22d45fbbf5779892d0.png",
+				"previous": "For the matrix article, I'm thinking of an array of illustrations showing how 2-by-2 matrices can be seen as linear transformations of R^2. The types of matrices should be some of the ones given here. It would be good if the matrices would be numerically easy (perhaps just integer entries where possible), so that we can mention the matrix in the image caption or so. I like the layout of File:Rotation illustration2.svg, but that's not so important. Thanks a lot, Jakob.scholbach (talk) 17:09, 31 December 2008 (UTC)",
+			"after": [],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "48ce9eb1925dec12dd78a8c8d8a68d990365af576adb52d4ba2b77f873fe1109",
+			"url": "https://upload.wikimedia.org/math/3/6/c/36cfc6f6ff949554ba2b995f7344fe18.png",
+			"previous": [],
+				"after": "The use of matrices with a single column (rather than a single row) to represent vectors is traditional in many disciplines. For that reason, the word \"eigenvector\" almost always means a right eigenvector, namely a column vector that must be placed to the right of the matrix in the defining equation",
+			"color": "dim|0.28525 gray|0.28525 dim|0.28525 grey|0.28525 gray|0.25051 grey|0.25051 dark|0.19032 gray|0.19032 dark|0.19032 grey|0.19032 silver|0.14395 light|0.075938 gray|0.075938 light|0.075938 grey|0.075938 gainsboro|0.048863  "
+		}
+	}
+}

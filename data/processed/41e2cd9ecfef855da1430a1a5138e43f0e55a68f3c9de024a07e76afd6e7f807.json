@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "41e2cd9ecfef855da1430a1a5138e43f0e55a68f3c9de024a07e76afd6e7f807",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SurfacesWithAndWithoutBoundary.svg/250px-SurfacesWithAndWithoutBoundary.svg.png",
+				"previous": "where",
+				"after": "In a simple example, V could be a building, and q could be the number of people in the building. The surface S would consist of the walls, doors, roof, and foundation of the building. Then the continuity equation states that the number of people in the building increases when people enter the building (an inward flux through the surface), decreases when people exit the building (an outward flux through the surface), increases when someone in the building gives birth (a \"source\", Î£ > 0), and decreases when someone in the building dies (a \"sink\", Î£ < 0).",
+			"color": "lavender|0.54494 red|0.268 black|0.11923 crimson|0.028298 thistle|0.019767  "
+		}
+	}
+}

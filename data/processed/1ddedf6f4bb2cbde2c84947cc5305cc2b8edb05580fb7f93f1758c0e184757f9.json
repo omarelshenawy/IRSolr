@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ddedf6f4bb2cbde2c84947cc5305cc2b8edb05580fb7f93f1758c0e184757f9",
+			"url": "https://upload.wikimedia.org/math/7/7/3/7734878eec1f16ee88099b432b86e29f.png",
+			"previous": [
+				"So that our intersection has two points:",
+				"",
+				""
+			],
+			"after": [
+				"",
+				"So that our intersection has two points:",
+				"Elimination: Add (or subtract) a multiple of one equation to the other equation so that one of the variables is eliminated. For our current example, If we subtract the first equation from the second we get: The in the first equation is subtracted from the in the second equation leaving no term. The variable has been eliminated. We then solve the remaining equation for , in the same way as in the substitution method. We next place this value of in either of the original equations and solve for :"
+			],
+			"color": "dark|0.29737 gray|0.29737 dark|0.29737 grey|0.29737 silver|0.21478 light|0.14312 gray|0.14312 light|0.14312 grey|0.14312 gainsboro|0.10968 gray|0.082093 grey|0.082093 white|0.030865 smoke|0.030865 lavender|0.016067 blush|0.016067 linen|0.015422 alice|0.015373 blue|0.015373 ghost|0.014711 white|0.014711 sea|0.014074 shell|0.014074 snow|0.013453 white|0.010367 mint|0.0077877 cream|0.0077877 dim|0.0062004 gray|0.0062004 dim|0.0062004 grey|0.0062004 floral|0.0047619 white|0.0047619 azure|0.003869  "
+		}
+	}
+}

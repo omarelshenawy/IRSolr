@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "951d05fcc99ace8c05c5eecd88ead48862def483ddc81fbea02748238744a22c",
+			"url": "https://upload.wikimedia.org/math/a/5/7/a5749ec33f2c95fe8c19d702d76d4968.png",
+				"previous": "Let there be an observer C on a disk rotating in the xy plane at a coordinate angular rate of and who is at a distance of r from the center of the disk with the center of the disk at x=y=z=0. The path of observer C is given by , where is the current coordinate time. When r and are constant, and . The incremental proper time formula then becomes",
+				"after": "As v=rÏ for a rotating observer, this result is as expected given the time dilation formula above, and shows the general application of the integral form of the proper time formula.",
+			"color": "dim|0.45984 gray|0.45984 dim|0.45984 grey|0.45984 gray|0.42418 grey|0.42418 dark|0.11598 gray|0.11598 dark|0.11598 grey|0.11598  "
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "27ede78276779b8434d6c883e4e3dd7f8d76eb3c1973bddc4b854e7721e88683",
+			"url": "https://upload.wikimedia.org/math/e/9/4/e9469db786c08c6c75881f8e7d747cec.png",
+			"previous": [
+				"and the monthly interest rate is",
+				"The number of monthly payments is",
+				"Consider a 10-year mortgage where the principal amount P is $200,000 and the annual interest rate is 6%."
+			],
+			"after": [
+				"The annuity formula for (A/P) calculates the monthly payment:",
+				"This is considering an interest rate compounding monthly. If the interest were only to compound yearly at 6%, the monthly payment would be significantly different."
+			],
+			"color": "dim|0.40975 gray|0.40975 dim|0.40975 grey|0.40975 gray|0.31535 grey|0.31535 dark|0.15392 gray|0.15392 dark|0.15392 grey|0.15392 silver|0.061213 light|0.027382 gray|0.027382 light|0.027382 grey|0.027382 gainsboro|0.018256 white|0.0030951 smoke|0.0030951  "
+		}
+	}
+}

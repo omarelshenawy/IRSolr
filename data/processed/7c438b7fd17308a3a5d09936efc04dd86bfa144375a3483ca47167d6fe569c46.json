@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c438b7fd17308a3a5d09936efc04dd86bfa144375a3483ca47167d6fe569c46",
+			"url": "https://upload.wikimedia.org/math/f/7/1/f71a0108ae73d2c1be1c136ce6a2a692.png",
+			"previous": [
+				"For a flow in which the static pressure also does not change in the direction of the flow then",
+				"Since the static pressure is independent of , then pressure at the edge of the boundary layer is the pressure throughout the boundary layer at a given streamwise position. The external pressure may be obtained through an application of Bernoulli's equation. Let be the fluid velocity outside the boundary layer, where and are both parallel. This gives upon substituting for the following result"
+			],
+			"after": [
+				"so remains constant.",
+				"Therefore, the equation of motion simplifies to become"
+			],
+			"color": "black|0.99168 dim|0.0061439 gray|0.0061439 dim|0.0061439 grey|0.0061439  "
+		}
+	}
+}

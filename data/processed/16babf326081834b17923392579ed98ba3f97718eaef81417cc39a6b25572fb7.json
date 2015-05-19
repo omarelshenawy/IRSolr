@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "16babf326081834b17923392579ed98ba3f97718eaef81417cc39a6b25572fb7",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Stripline_interdigital_filter.svg/170px-Stripline_interdigital_filter.svg.png",
+			"previous": [],
+				"after": "Interdigital filters are another form of coupled-line filter. Each section of line is about Î»/4 in length and is terminated in a short-circuit at one end only, the other end being left open-circuit. The end which is short-circuited alternates on each line section. This topology is straightforward to implement in planar technologies, but also particularly lends itself to a mechanical assembly of lines fixed inside a metal case. The lines can be either circular rods or rectangular bars, and interfacing to a coaxial format line is easy. As with the parallel-coupled line filter, the advantage of a mechanical arrangement that does not require insulators for support is that dielectric losses are eliminated. The spacing requirement between lines is not as stringent as in the parallel line structure; as such, higher fractional bandwidths can be achieved, and Q values as low as 1.4 are possible.[60][61]",
+			"color": "navajo|0.28659 white|0.28659 tan|0.17389 burly|0.12574 wood|0.12574 silver|0.073881 light|0.073787 gray|0.073787 light|0.073787 grey|0.073787 moccasin|0.070786 wheat|0.064956 gainsboro|0.042044 dark|0.024567 gray|0.024567 dark|0.024567 grey|0.024567 pale|0.019848 golden|0.019848 rod|0.019848 antique|0.018309 white|0.018309  "
+		}
+	}
+}

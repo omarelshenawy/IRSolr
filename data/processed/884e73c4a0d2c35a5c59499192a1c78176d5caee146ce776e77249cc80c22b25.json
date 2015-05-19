@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "884e73c4a0d2c35a5c59499192a1c78176d5caee146ce776e77249cc80c22b25",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MediaWiki_Vector_skin_tabs.png",
+			"previous": [],
+				"after": "Page tabs are displayed at the top of pages. These tabs allow users to perform actions or view pages that are related to the current page. The available default actions include viewing, editing, and discussing the current page. The specific tabs displayed depend on whether or not the user is logged into the wiki and whether the user has sysop privileges on the wiki. For instance, the ability to move a page or add it to one's watchlist is usually restricted to logged-in users. The site administrator can add or remove tabs by using JavaScript or installing extensions.[64]",
+			"color": "alice|0.089526 blue|0.089526 ghost|0.085673 white|0.085673 azure|0.085136 white|0.084907 smoke|0.084907 mint|0.083845 cream|0.083845 white|0.082807 snow|0.082526 lavender|0.076728 blush|0.076728 sea|0.067013 shell|0.067013 floral|0.06204 white|0.06204 light|0.042356 blue|0.042356 lavender|0.023433 light|0.023393 cyan|0.023393 gainsboro|0.015601 sky|0.011087 blue|0.011087 light|0.009095 sky|0.009095 blue|0.009095 linen|0.0052501 thistle|0.004655 light|0.0041072 steel|0.0041072 blue|0.0041072 pale|0.0039703 turquoise|0.0039703 light|0.003568 gray|0.003568 light|0.003568 grey|0.003568 rosy|0.0030259 brown|0.0030259 honeydew|0.0027353 powder|0.0027183 blue|0.0027183  "
+		}
+	}
+}

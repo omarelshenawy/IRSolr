@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d0bdef770c838043b4f2f9ea29c6aa6033203546199e9a86c5a0a8a373389cd",
+			"url": "https://upload.wikimedia.org/math/f/b/b/fbb532edf9ffa36a86c70d8b9f3703e5.png",
+				"previous": "where Î¸ is the tangent of the Poiseuille parabola intersecting the wall. Although LÃ©vÃªque's solution was specific to heat transfer into a Poiseuille flow, his insight helped lead other scientists to an exact solution of the thermal boundary-layer problem.[4] Schuh observed that in a boundary-layer, u is again a linear function of y, but that in this case, the wall tangent is a function of x.[5] He expressed this with a modified version of LÃ©vÃªque's profile,",
+				"after": "This results in a very good approximation, even for low numbers, so that only liquid metals with much less than 1 cannot be treated this way.[4] In 1962, Kestin and Persen published a paper describing solutions for heat transfer when the thermal boundary layer is contained entirely within the momentum layer and for various wall temperature distributions.[6] For the problem of a flat plate with a temperature jump at , they propose a substitution that reduces the parabolic thermal boundary-layer equation to an ordinary differential equation. The solution to this equation, the temperature at any point in the fluid, can be expressed as an incomplete gamma function.[3] Schlichting proposed an equivalent substitution that reduces the thermal boundary-layer equation to an ordinary differential equation whose solution is the same incomplete gamma function.[7]",
+			"color": "dim|0.30527 gray|0.30527 dim|0.30527 grey|0.30527 black|0.27487 gray|0.20492 grey|0.20492 dark|0.11715 gray|0.11715 dark|0.11715 grey|0.11715 silver|0.048777 light|0.022955 gray|0.022955 light|0.022955 grey|0.022955 gainsboro|0.015938  "
+		}
+	}
+}

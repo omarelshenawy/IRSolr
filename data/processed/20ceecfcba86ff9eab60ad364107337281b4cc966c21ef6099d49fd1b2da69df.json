@@ -1,0 +1,22 @@
+{
+	"add": {
+		"doc": {
+			"id": "20ceecfcba86ff9eab60ad364107337281b4cc966c21ef6099d49fd1b2da69df",
+			"url": "https://upload.wikimedia.org/math/4/6/b/46b67ca92771f7a95c2c9935670686ee.png",
+			"previous": [
+				"",
+				"from equation (1) and (2)",
+				"................. (2)",
+				"......... (1)",
+				"The performance of a compressor is defined according to its design. But in actual practice, the operating point of the compressor deviates from the design- point which is known as off-design operation."
+			],
+			"after": [
+				"is constant",
+				"Representing design values with (')",
+				"",
+				"....................(3)"
+			],
+			"color": "dim|0.43992 gray|0.43992 dim|0.43992 grey|0.43992 gray|0.27234 grey|0.27234 dark|0.14833 gray|0.14833 dark|0.14833 grey|0.14833 silver|0.065234 light|0.032242 gray|0.032242 light|0.032242 grey|0.032242 gainsboro|0.022843 white|0.0043629 smoke|0.0043629  "
+		}
+	}
+}

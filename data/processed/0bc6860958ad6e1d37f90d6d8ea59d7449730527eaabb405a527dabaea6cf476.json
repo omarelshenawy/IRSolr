@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0bc6860958ad6e1d37f90d6d8ea59d7449730527eaabb405a527dabaea6cf476",
+			"url": "https://upload.wikimedia.org/math/c/6/d/c6d90993b64f34b1b580d0fe49c0bf2e.png",
+				"previous": "Quasi-polynomial time algorithms are algorithms which run slower than polynomial time, yet not so slow as to be exponential time. The worst case running time of a quasi-polynomial time algorithm is for some fixed c. The best-known classical algorithm for integer factorization, the general number field sieve, which runs in time about is not quasi-polynomial since the running time cannot be expressed as for some fixed c. If the constant \"c\" in the definition of quasi-polynomial time algorithms is equal to 1, we get a polynomial time algorithm, and if it is less than 1, we get a sub-linear time algorithm.",
+				"after": "The complexity class QP consists of all problems which have quasi-polynomial time algorithms. It can be defined in terms of DTIME as follows.[12]",
+			"color": "gray|0.30109 grey|0.30109 dim|0.28143 gray|0.28143 dim|0.28143 grey|0.28143 dark|0.19979 gray|0.19979 dark|0.19979 grey|0.19979 black|0.075129 silver|0.073771 light|0.031598 gray|0.031598 light|0.031598 grey|0.031598 gainsboro|0.021996 white|0.0040935 smoke|0.0040935  "
+		}
+	}
+}

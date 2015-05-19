@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "955a69814b228be6191e23ecac3d863147fc655cdb9ec99eab27e8dde45a8cd4",
+			"url": "https://upload.wikimedia.org/math/f/e/e/feefe7119a0667ce8626f7bd5a7a3bcc.png",
+				"previous": "where F is an arbitrary function. To satisfy the initial condition, F is given by the Fourier transform of f, that is",
+				"after": "If f represents a very small but intense source of heat, then the preceding integral can be approximated by the delta distribution, multiplied by the strength of the source. For a source whose strength is normalized to 1, the result is",
+			"color": "dim|0.37551 gray|0.37551 dim|0.37551 grey|0.37551 gray|0.28975 grey|0.28975 dark|0.18218 gray|0.18218 dark|0.18218 grey|0.18218 silver|0.073882 light|0.035263 gray|0.035263 light|0.035263 grey|0.035263 gainsboro|0.024631 white|0.0045034 smoke|0.0045034  "
+		}
+	}
+}

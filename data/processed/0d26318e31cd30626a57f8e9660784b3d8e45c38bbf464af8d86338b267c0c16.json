@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d26318e31cd30626a57f8e9660784b3d8e45c38bbf464af8d86338b267c0c16",
+			"url": "https://upload.wikimedia.org/math/c/3/5/c350b50a92381c12c58e07262cfd6bea.png",
+				"previous": "For example, the check digit for an ISBN-10 of 0-306-40615-? is calculated as follows:",
+				"after": "The 2005 edition of the International ISBN Agency's official manual[28] describes how the 13-digit ISBN check digit is calculated. The ISBN-13 check digit, which is the last digit of the ISBN, must range from 0 to 9 and must be such that the sum of all the thirteen digits, each multiplied by its (integer) weight, alternating between 1 and 3, is a multiple of 10.",
+			"color": " "
+		}
+	}
+}

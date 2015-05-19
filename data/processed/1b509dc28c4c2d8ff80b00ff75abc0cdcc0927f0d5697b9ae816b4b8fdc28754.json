@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b509dc28c4c2d8ff80b00ff75abc0cdcc0927f0d5697b9ae816b4b8fdc28754",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Amplitudemodulation.gif/220px-Amplitudemodulation.gif",
+				"previous": "In the case of a periodic function F with period Î», that is, F(x + Î» â vt) = F(x â vt), the periodicity of F in space means that a snapshot of the wave at a given time t finds the wave varying periodically in space with period Î» (the wavelength of the wave). In a similar fashion, this periodicity of F implies a periodicity in time as well: F(x â v(t + T)) = F(x â vt) provided vT = Î», so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = Î»/v.[7]",
+			"after": [],
+			"color": " "
+		}
+	}
+}

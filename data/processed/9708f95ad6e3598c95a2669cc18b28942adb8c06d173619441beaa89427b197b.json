@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "9708f95ad6e3598c95a2669cc18b28942adb8c06d173619441beaa89427b197b",
+			"url": "https://upload.wikimedia.org/math/3/b/9/3b94eac0666c444bb9cc2be3041c369c.png",
+			"previous": [
+				"and",
+				"For any two numbers x1 and x1 + Îx in [a, b], we have",
+				"For a given f(t), define the function F(x) as",
+				"When an antiderivative F exists, then there are infinitely many antiderivatives for f, obtained by adding to F an arbitrary constant. Also, by the first part of the theorem, antiderivatives of f always exist when f is continuous."
+			],
+			"after": [
+				"Subtracting the two equalities gives",
+				"It can be shown that",
+				"Manipulating this equation gives",
+				"Substituting the above into (1) results in"
+			],
+			"color": "dim|0.39768 gray|0.39768 dim|0.39768 grey|0.39768 gray|0.28026 grey|0.28026 dark|0.17341 gray|0.17341 dark|0.17341 grey|0.17341 silver|0.070339 light|0.037107 gray|0.037107 light|0.037107 grey|0.037107 gainsboro|0.024789 white|0.0048817 smoke|0.0048817  "
+		}
+	}
+}

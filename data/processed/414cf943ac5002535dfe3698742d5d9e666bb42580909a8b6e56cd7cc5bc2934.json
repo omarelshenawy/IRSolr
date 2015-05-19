@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "414cf943ac5002535dfe3698742d5d9e666bb42580909a8b6e56cd7cc5bc2934",
+			"url": "https://upload.wikimedia.org/math/d/3/6/d36ae8acdc343c0aab4cad04559aaf69.png",
+				"previous": "For a typical transport aircraft landing at an airport, these conditions are as follows: We may take and to have values corresponding to the so-called standard conditions, i.e., Â =Â 1Â atmÂ =Â 1013.25Â mbÂ =Â 101325Â Pa and Â =Â 293.15Â K (which is 20Â Â°CÂ =Â 68Â Â°F). We will take the relative humidity to be a comfortable 35% (dew point of 4.1Â Â°CÂ =Â 39.4Â Â°F). This corresponds to a partial pressure of water vapor of 820Â PaÂ =Â 8.2Â mb. We will assume that in a vortex core, the pressure () drops to about 80% of the ambient pressure, i.e., to about 80Â 000Â Pa.[3]",
+				"after": "Next, we determine the dew point in the vortex core. The partial pressure of water in the vortex core drops in proportion to the drop in the total pressure (i.e., by the same percentage), to about 650Â PaÂ =Â 6.5Â mb. According to a dew point calculator at this site (as an alternative, one may use the Antoine equation to obtain an approximate value), that partial pressure results in the local dew point of about 0.86Â Â°C; in other words, the new local dew point is about equal to the new local temperature.",
+			"color": "dim|0.3889 gray|0.3889 dim|0.3889 grey|0.3889 gray|0.28783 grey|0.28783 dark|0.17771 gray|0.17771 dark|0.17771 grey|0.17771 silver|0.07052 light|0.034056 gray|0.034056 light|0.034056 grey|0.034056 gainsboro|0.023633 white|0.004217 smoke|0.004217  "
+		}
+	}
+}

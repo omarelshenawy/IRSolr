@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "2548d24a9d9c0e919c9e717e2813481f4b7b0da1092c8f67e79c784b66df4479",
+			"url": "https://upload.wikimedia.org/math/0/c/5/0c5e1d04dcd4982eb1b8afa7f3f42f72.png",
+				"previous": "Since orthogonal transformations preserve inner products, it follows that and thus the are perpendicular. In other words the geometric product of two distinct vectors is completely specified by their outer product, or more generally",
+				"after": "Therefore every blade of grade r can be written as a geometric product of r vectors. More generally, if a degenerate geometric algebra is allowed, then the orthogonal matrix is replaced by a block matrix that is orthogonal in the nondegenerate block, and the diagonal matrix has zero-valued entries along the degenerate dimensions. If the new vectors of the nondegenerate subspace are normalized according to",
+			"color": "dim|0.31365 gray|0.31365 dim|0.31365 grey|0.31365 gray|0.28634 grey|0.28634 dark|0.1988 gray|0.1988 dark|0.1988 grey|0.1988 silver|0.092494 light|0.045655 gray|0.045655 light|0.045655 grey|0.045655 gainsboro|0.033502 white|0.007866 smoke|0.007866 linen|0.0042132 lavender|0.0032252 blush|0.0032252 alice|0.0031281 blue|0.0031281 ghost|0.0030309 white|0.0030309 sea|0.0028992 shell|0.0028992  "
+		}
+	}
+}

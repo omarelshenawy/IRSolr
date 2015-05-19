@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "913c436c829fd7f7c8a444fc32129096f8f7a117bb85c91676fddff0485c3bdf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sun_Microsystems_Solaris_computer_cluster.jpg/220px-Sun_Microsystems_Solaris_computer_cluster.jpg",
+			"previous": [],
+				"after": "A computer cluster consists of a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.[1]",
+			"color": "dim|0.47519 gray|0.47519 dim|0.47519 grey|0.47519 black|0.22458 gray|0.14168 grey|0.14168 dark|0.038802 gray|0.038802 dark|0.038802 grey|0.038802  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1360c53233f1cd29e462e5d8b9c1572aaf23d3f67e11170ddae6d66f191ffff6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/HAtomOrbitals.png/271px-HAtomOrbitals.png",
+				"previous": "Note that the characteristic equation for a rotation is a quadratic equation with discriminant , which is a negative number whenever is not an integer multiple of 180Â°. Therefore, except for these special cases, the two eigenvalues are complex numbers, ; and all eigenvectors have non-real entries. Indeed, except for those special cases, a rotation changes the direction of every nonzero vector in the plane.",
+				"after": "An example of an eigenvalue equation where the transformation is represented in terms of a differential operator is the time-independent SchrÃ¶dinger equation in quantum mechanics:",
+			"color": "dark|0.40125 red|0.40125 maroon|0.34136 dark|0.10397 orange|0.10397 black|0.054643 sandy|0.028635 brown|0.028635 navajo|0.010295 white|0.010295  "
+		}
+	}
+}

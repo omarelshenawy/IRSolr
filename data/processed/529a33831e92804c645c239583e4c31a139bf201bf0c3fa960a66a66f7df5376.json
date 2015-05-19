@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "529a33831e92804c645c239583e4c31a139bf201bf0c3fa960a66a66f7df5376",
+			"url": "https://upload.wikimedia.org/math/8/6/a/86a264a44bd4d034c3f6263d52d5e894.png",
+				"previous": "An alternative solution using algebraic geometry is given in (Faucette 1996), and proceeds as follows (more detailed discussion in reference). In brief, one interprets the roots as the intersection of two quadratic curves, then finds the three reducible quadratic curves (pairs of lines) that pass through these points (this corresponds to the resolvent cubic, the pairs of lines being the Lagrange resolvents), and then use these linear equations to solve the quadratic.",
+				"after": "These four points are not collinear because they lie on the irreducible quadratic and thus there is a 1-parameter family of quadratics (a pencil of curves) passing through these points. Writing the projectivization of the two quadratics as quadratic forms in three variables:",
+			"color": "black|0.34998 dim|0.25741 gray|0.25741 dim|0.25741 grey|0.25741 gray|0.17544 grey|0.17544 dark|0.11173 gray|0.11173 dark|0.11173 grey|0.11173 silver|0.051141 light|0.025865 gray|0.025865 light|0.025865 grey|0.025865 gainsboro|0.017752  "
+		}
+	}
+}

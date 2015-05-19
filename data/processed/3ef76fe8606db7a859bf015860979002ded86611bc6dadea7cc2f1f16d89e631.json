@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ef76fe8606db7a859bf015860979002ded86611bc6dadea7cc2f1f16d89e631",
+			"url": "https://upload.wikimedia.org/math/9/5/a/95ab1e1548d36040013a4c4f9fe2bb07.png",
+			"previous": [
+				"",
+				"There are two terms in the nozzle gross thrust equation; ideal momentum thrust and ideal pressure thrust. The latter term is only non-zero if the nozzle is choked:"
+			],
+			"after": [
+				"",
+				"The first term is the momentum thrust which contributes most of the nozzle gross thrust. Because the nozzle is choked (which is the norm on a turbojet), the second term, the pressure thrust, is non-zero."
+			],
+			"color": "gray|0.32381 grey|0.32381 dim|0.26549 gray|0.26549 dim|0.26549 grey|0.26549 dark|0.21881 gray|0.21881 dark|0.21881 grey|0.21881 silver|0.094893 light|0.044357 gray|0.044357 light|0.044357 grey|0.044357 gainsboro|0.031105 white|0.0052589 smoke|0.0052589 linen|0.0027854  "
+		}
+	}
+}

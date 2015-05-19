@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "85c5421ea0ddb938dd153f55d5e400368391ee2fe8d74167e5fe57da7a485401",
+			"url": "https://upload.wikimedia.org/math/d/1/f/d1fb0f2a42781f6dd88d4635e2db41c4.png",
+			"previous": [
+				"The differential equation is solved by direct integration:",
+				"saying that the growth rate of x at time t is proportional to the value of x(t), and it has the initial value"
+			],
+			"after": [
+				"so that",
+				"For a nonlinear variation of this growth model see logistic function.",
+				"The difference equation"
+			],
+			"color": "dim|0.33096 gray|0.33096 dim|0.33096 grey|0.33096 gray|0.29299 grey|0.29299 dark|0.18066 gray|0.18066 dark|0.18066 grey|0.18066 silver|0.084809 light|0.046954 gray|0.046954 light|0.046954 grey|0.046954 gainsboro|0.03438 white|0.0074894 smoke|0.0074894 linen|0.0030567 lavender|0.0030294 blush|0.0030294 alice|0.0029658 blue|0.0029658 ghost|0.0028901 white|0.0028901 sea|0.0027604 shell|0.0027604 snow|0.002715  "
+		}
+	}
+}

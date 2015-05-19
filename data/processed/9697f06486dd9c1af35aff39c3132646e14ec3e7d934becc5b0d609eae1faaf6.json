@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "9697f06486dd9c1af35aff39c3132646e14ec3e7d934becc5b0d609eae1faaf6",
+			"url": "https://upload.wikimedia.org/math/6/e/2/6e2d2eb63f9ba9dfe2e45b86092cf020.png",
+			"previous": [
+				"A BÃ©zier curve B (of degree n, with control points ) can be written in Bernstein form as follows",
+				""
+			],
+			"after": [
+				"where b is a Bernstein basis polynomial",
+				"The curve at point t0 can be evaluated with the recurrence relation"
+			],
+			"color": "dim|0.32474 gray|0.32474 dim|0.32474 grey|0.32474 gray|0.3095 grey|0.3095 dark|0.20716 gray|0.20716 dark|0.20716 grey|0.20716 silver|0.091491 light|0.032993 gray|0.032993 light|0.032993 grey|0.032993 gainsboro|0.021432 white|0.0037478 smoke|0.0037478  "
+		}
+	}
+}

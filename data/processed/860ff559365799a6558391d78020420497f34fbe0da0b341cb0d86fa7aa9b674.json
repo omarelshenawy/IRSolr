@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "860ff559365799a6558391d78020420497f34fbe0da0b341cb0d86fa7aa9b674",
+			"url": "https://upload.wikimedia.org/math/8/9/9/899964fabec4f77f12aed7cdd1dbd1d9.png",
+			"previous": [
+				"Multiplying the terms in the second equation by 2:",
+				"An example of solving a system of linear equations is by using the elimination method:"
+			],
+			"after": [
+				"Adding the two equations together to get:",
+				"which simplifies to",
+				"Since the fact that is known, it is then possible to deduce that by either of the original two equations (by using 2 instead of ) The full solution to this problem is then"
+			],
+			"color": "black|0.29037 dim|0.25955 gray|0.25955 dim|0.25955 grey|0.25955 gray|0.19229 grey|0.19229 dark|0.14221 gray|0.14221 dark|0.14221 grey|0.14221 silver|0.06595 light|0.025551 gray|0.025551 light|0.025551 grey|0.025551 gainsboro|0.017007  "
+		}
+	}
+}

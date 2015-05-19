@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "21fa70fe8499c9d5a9202da5b5a214c15a45e9167acb00c2cccd8197b6c5c421",
+			"url": "https://upload.wikimedia.org/math/5/a/0/5a0fc0fe3f288d710fb7e839ec425607.png",
+			"previous": [
+				"with boundary conditions",
+				"An example of pathological behavior is the sequence (depending upon n) of Cauchy problems for the Laplace equation"
+			],
+			"after": [
+				"where n is an integer. The derivative of u with respect to y approaches 0 uniformly in x as n increases, but the solution is",
+				"This solution approaches infinity if nx is not an integer multiple of Ï for any non-zero value of y. The Cauchy problem for the Laplace equation is called ill-posed or not well posed, since the solution does not depend continuously upon the data of the problem. Such ill-posed problems are not usually satisfactory for physical applications."
+			],
+			"color": "dim|0.3243 gray|0.3243 dim|0.3243 grey|0.3243 gray|0.30969 grey|0.30969 dark|0.18499 gray|0.18499 dark|0.18499 grey|0.18499 silver|0.083282 light|0.043418 gray|0.043418 light|0.043418 grey|0.043418 gainsboro|0.031232 white|0.0057943 smoke|0.0057943 linen|0.0028597  "
+		}
+	}
+}

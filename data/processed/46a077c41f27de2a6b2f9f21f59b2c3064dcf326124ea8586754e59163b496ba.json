@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "46a077c41f27de2a6b2f9f21f59b2c3064dcf326124ea8586754e59163b496ba",
+			"url": "https://upload.wikimedia.org/math/e/0/6/e06bde5ce90bc36f54d4907095d86bb8.png",
+				"previous": "where c(r) is the circle centered at 0 with radius r oriented counterclockwise; then the argument principle says that this number is the number N of zeros of p(z) in the open ball centered at 0 with radius r, which, since rÂ >Â R, is the total number of zeros of p(z). On the other hand, the integral of n/z along c(r) divided by 2Ïi is equal to n. But the difference between the two numbers is",
+				"after": "The numerator of the rational expression being integrated has degree at most nÂ âÂ 1 and the degree of the denominator is nÂ +Â 1. Therefore, the number above tends to 0 as r â +â. But the number is also equal to NÂ âÂ n and so NÂ =Â n.",
+			"color": "gray|0.31129 grey|0.31129 dim|0.27762 gray|0.27762 dim|0.27762 grey|0.27762 dark|0.21539 gray|0.21539 dark|0.21539 grey|0.21539 silver|0.096516 light|0.046713 gray|0.046713 light|0.046713 grey|0.046713 gainsboro|0.032182 white|0.0049165 smoke|0.0049165 linen|0.0027437  "
+		}
+	}
+}

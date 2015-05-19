@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1cb8e21952641e6f64c768aafa42fd81387f94fa4cf402bd08fe9934986355aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mozilla_Thunderbird_3.1.png/300px-Mozilla_Thunderbird_3.1.png",
+			"previous": [],
+				"after": "Messages are exchanged between hosts using the Simple Mail Transfer Protocol with software programs called mail transfer agents (MTAs); and delivered to a mail store by programs called mail delivery agents (MDAs, also sometimes called local delivery agents, LDAs). Users can retrieve their messages from servers using standard protocols such as POP or IMAP, or, as is more likely in a large corporate environment, with a proprietary protocol specific to Novell Groupwise, Lotus Notes or Microsoft Exchange Servers. Webmail interfaces allow users to access their mail with any standard web browser, from any computer, rather than relying on an email client. Programs used by users for retrieving, reading, and managing email are called mail user agents (MUAs).",
+			"color": "white|0.082853 smoke|0.082853 alice|0.082453 blue|0.082453 ghost|0.079696 white|0.079696 snow|0.074962 lavender|0.074157 blush|0.074157 sea|0.073559 shell|0.073559 white|0.072895 mint|0.067685 cream|0.067685 floral|0.066892 white|0.066892 azure|0.051175 lavender|0.049256 gainsboro|0.04749 light|0.04429 gray|0.04429 light|0.04429 grey|0.04429 silver|0.039689 dark|0.033593 gray|0.033593 dark|0.033593 grey|0.033593 linen|0.02732 gray|0.0052821 grey|0.0052821 light|0.0049258 steel|0.0049258 blue|0.0049258 dodger|0.0047776 blue|0.0047776 corn|0.0046375 flower|0.0046375 blue|0.0046375  "
+		}
+	}
+}

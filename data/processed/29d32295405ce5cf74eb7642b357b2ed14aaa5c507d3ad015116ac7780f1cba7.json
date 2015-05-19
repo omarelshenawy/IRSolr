@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "29d32295405ce5cf74eb7642b357b2ed14aaa5c507d3ad015116ac7780f1cba7",
+			"url": "https://upload.wikimedia.org/math/0/c/2/0c25cd72bddf084b1386955c347e12df.png",
+			"previous": [
+				"Or, if preferring to use inclination angle, , rather than the reclination, , where Â :",
+				"within the parameter rangesÂ : and ."
+			],
+			"after": [
+				"within the parameter rangesÂ : and .",
+				"Here is the sundial's geographical latitude; is the orientation switch integer; t is the time in hours before or after noon; and and are the angles of reclination and declination, respectively. Note that is measured with reference to the vertical. It is positive when the dial leans back towards the horizon behind the dial and negative when the dial leans forward to the horizon on the sun's side. Declination angle is defined as positive when moving east of true south. Dials facing fully or partly south have = +1, while those partly or fully north-facing have an value of -1. Since the above expression gives the hour angle as an arctan function, due consideration must be given to which quadrant of the sundial each hour belongs to before assigning the correct hour angle."
+			],
+			"color": "black|0.27022 dim|0.25997 gray|0.25997 dim|0.25997 grey|0.25997 gray|0.2408 grey|0.2408 dark|0.14095 gray|0.14095 dark|0.14095 grey|0.14095 silver|0.06509 light|0.021457 gray|0.021457 light|0.021457 grey|0.021457  "
+		}
+	}
+}

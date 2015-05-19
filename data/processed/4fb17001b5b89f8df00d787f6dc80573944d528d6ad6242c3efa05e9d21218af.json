@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fb17001b5b89f8df00d787f6dc80573944d528d6ad6242c3efa05e9d21218af",
+			"url": "https://upload.wikimedia.org/math/6/c/7/6c78c32290edee501f7ef21141fbf2b3.png",
+			"previous": [
+				"The corresponding freestream stagnation (or total) pressure is:",
+				"",
+				"The stagnation (or total) temperature in the freestream approaching the engine can be estimated using the following equation, derived from the Steady Flow Energy Equation:"
+			],
+			"after": [
+				"Since there is no work or heat loss in the intake under steady state conditions:",
+				""
+			],
+			"color": "dim|0.37712 gray|0.37712 dim|0.37712 grey|0.37712 gray|0.28348 grey|0.28348 dark|0.17906 gray|0.17906 dark|0.17906 grey|0.17906 silver|0.079591 light|0.038463 gray|0.038463 light|0.038463 grey|0.038463 gainsboro|0.027234 white|0.0035729 smoke|0.0035729  "
+		}
+	}
+}

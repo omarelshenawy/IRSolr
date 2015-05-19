@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0affe7cc8dfc7c0dbb137d3f595513c92325cc3fe16244663a7bb2fa3dfc36dd",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Submarine_torpedo_tube.svg/440px-Submarine_torpedo_tube.svg.png",
+				"previous": "A submarine torpedo tube is a more complex mechanism than a torpedo tube on a surface ship, because the tube has to accomplish the function of moving the torpedo from the normal atmospheric pressure within the submarine into the sea at the ambient pressure of the water around the submarine. Thus a submarine torpedo tube operates on the principle of an airlock.",
+			"after": [
+				"The diagram on the right illustrates the operation of a submarine torpedo tube. The diagram is somewhat simplified but does show the working of a submarine torpedo launch.",
+				"A torpedo tube has a considerable number of interlocks for safety reasons. For example, an interlock prevents the breech door and muzzle door from opening at the same time. Also, the breech door cannot be opened when the muzzle door is also open, or it will let water enter the submarine, thus sinking it."
+			],
+			"color": "lavender|0.22557 alice|0.21699 blue|0.21699 ghost|0.21239 white|0.21239 light|0.20835 slate|0.20835 gray|0.20835 dark|0.035474 gray|0.035474 dark|0.035474 grey|0.035474 dim|0.031571 gray|0.031571 dim|0.031571 grey|0.031571 azure|0.014322 gray|0.0097567 grey|0.0097567 silver|0.0073799 light|0.0073104 steel|0.0073104 blue|0.0073104 light|0.0065108 gray|0.0065108 light|0.0065108 grey|0.0065108 slate|0.0056132 gray|0.0056132 gainsboro|0.0055906 black|0.0049115 firebrick|0.0044564  "
+		}
+	}
+}

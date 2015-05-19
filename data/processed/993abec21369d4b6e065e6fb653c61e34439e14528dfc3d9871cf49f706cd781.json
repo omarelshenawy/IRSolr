@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "993abec21369d4b6e065e6fb653c61e34439e14528dfc3d9871cf49f706cd781",
+			"url": "https://upload.wikimedia.org/math/8/a/9/8a981011ea86c9dacedf7257777405be.png",
+				"previous": "The Euclidean distance between two objects may also be generalized to the case where the objects are no longer points but are higher-dimensional manifolds, such as space curves, so in addition to talking about distance between two points one can discuss concepts of distance between two strings. Since the new objects that are dealt with are extended objects (not points anymore) additional concepts such as non-extensibility, curvature constraints, and non-local interactions that enforce non-crossing become central to the notion of distance. The distance between the two manifolds is the scalar quantity that results from minimizing the generalized distance functional, which represents a transformation between the two manifolds:",
+			"after": [],
+			"color": "dim|0.38731 gray|0.38731 dim|0.38731 grey|0.38731 gray|0.2954 grey|0.2954 dark|0.17222 gray|0.17222 dark|0.17222 grey|0.17222 silver|0.070513 light|0.032543 gray|0.032543 light|0.032543 grey|0.032543 gainsboro|0.022633 white|0.0045464 smoke|0.0045464  "
+		}
+	}
+}

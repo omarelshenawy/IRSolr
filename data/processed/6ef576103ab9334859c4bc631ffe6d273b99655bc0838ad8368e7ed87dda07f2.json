@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ef576103ab9334859c4bc631ffe6d273b99655bc0838ad8368e7ed87dda07f2",
+			"url": "https://upload.wikimedia.org/math/1/4/e/14e28233f97e46b28652553c6c7ca4b1.png",
+				"previous": "Thus we recover the divergence theorem,",
+				"after": "A sufficiently smooth k-surface in an n-dimensional space is deemed a manifold. To each point on the manifold, we may attach a k-blade B that is tangent to the manifold. Locally, B acts as a pseudoscalar of the k-dimensional space. This blade defines a projection of vectors onto the manifold:",
+			"color": "dim|0.34012 gray|0.34012 dim|0.34012 grey|0.34012 gray|0.27522 grey|0.27522 dark|0.19663 gray|0.19663 dark|0.19663 grey|0.19663 silver|0.093181 light|0.048115 gray|0.048115 light|0.048115 grey|0.048115 gainsboro|0.031896 white|0.003724 smoke|0.003724  "
+		}
+	}
+}

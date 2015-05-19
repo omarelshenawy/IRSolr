@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "890d977b0928622503f60f5623c4a92f06ea3c9dbeae78291d9022ffc76eb69c",
+			"url": "https://upload.wikimedia.org/math/5/d/3/5d38ccb995c3ca2a97c23dabc985b23c.png",
+				"previous": "Vector calculus studies various differential operators defined on scalar or vector fields, which are typically expressed in terms of the del operator (), also known as \"nabla\". The five most important differential operations in vector calculus are:",
+				"after": "where the curl and divergence differ because the former uses a cross product and the latter a dot product, denotes a scalar field and denotes a vector field. A quantity called the Jacobian is useful for studying functions when both the domain and range of the function are multivariable, such as a change of variables during integration.",
+			"color": "dim|0.38804 gray|0.38804 dim|0.38804 grey|0.38804 gray|0.28697 grey|0.28697 dark|0.17179 gray|0.17179 dark|0.17179 grey|0.17179 silver|0.080726 light|0.037751 gray|0.037751 light|0.037751 grey|0.037751 gainsboro|0.026182  "
+		}
+	}
+}

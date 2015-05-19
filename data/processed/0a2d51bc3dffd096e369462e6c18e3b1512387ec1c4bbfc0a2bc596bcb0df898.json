@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a2d51bc3dffd096e369462e6c18e3b1512387ec1c4bbfc0a2bc596bcb0df898",
+			"url": "https://upload.wikimedia.org/math/5/4/d/54dd581c01594167fa455ea6ee4b47d1.png",
+				"previous": "where:",
+			"after": [
+				"The turbine pressure ratio is a function of and the turbine efficiency.",
+				"Modern turbine design carries the calculations further. Computational fluid dynamics dispenses with many of the simplifying assumptions used to derive classical formulas and computer software facilitates optimization. These tools have led to steady improvements in turbine design over the last forty years."
+			],
+			"color": "dim|0.37238 gray|0.37238 dim|0.37238 grey|0.37238 gray|0.28555 grey|0.28555 dark|0.16439 gray|0.16439 dark|0.16439 grey|0.16439 silver|0.079255 light|0.042126 gray|0.042126 light|0.042126 grey|0.042126 gainsboro|0.030734 white|0.0061669 smoke|0.0061669 linen|0.0035686  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f1a788a619feb648d4a94e1a5ce95815813204f752482ed4dde9df5b899805f",
+			"url": "https://upload.wikimedia.org/math/4/8/c/48cbcbac63bb32cfafeab77b23ce18c2.png",
+			"previous": [],
+				"after": "One may say that Diophantus was studying rational points â i.e., points whose coordinates are rational â on curves and algebraic varieties; however, unlike the Greeks of the Classical period, who did what we would now call basic algebra in geometrical terms, Diophantus did what we would now call basic algebraic geometry in purely algebraic terms. In modern language, what Diophantus did was to find rational parametrizations of varieties; that is, given an equation of the form (say) , his aim was to find (in essence) three rational functions such that, for all values of and , setting for gives a solution to",
+			"color": "dim|0.32897 gray|0.32897 dim|0.32897 grey|0.32897 gray|0.29149 grey|0.29149 dark|0.19257 gray|0.19257 dark|0.19257 grey|0.19257 silver|0.083344 light|0.044213 gray|0.044213 light|0.044213 grey|0.044213 gainsboro|0.031688 white|0.0066373 smoke|0.0066373 linen|0.0033731 lavender|0.0030673 blush|0.0030673 alice|0.0029695 blue|0.0029695 ghost|0.002853 white|0.002853  "
+		}
+	}
+}

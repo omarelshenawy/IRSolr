@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "48693177b7577e79d0aa2309a68b873223f25cea746c5549c9e8ebd41568a4d2",
+			"url": "https://upload.wikimedia.org/math/f/1/3/f139c8e07a042f7e9e088196d5ffea03.png",
+				"previous": "In the case of an engine, one desires to extract work and puts in a heat transfer.",
+				"after": "where is the absolute temperature of the hot source and that of the cold sink, usually measured in kelvin. Note that is positive while is negative; in any reversible work-extracting process, entropy is overall not increased, but rather is moved from a hot (high-entropy) system to a cold (low-entropy one), decreasing the entropy of the heat source and increasing that of the heat sink.",
+			"color": "gray|0.32552 grey|0.32552 dim|0.28056 gray|0.28056 dim|0.28056 grey|0.28056 dark|0.21513 gray|0.21513 dark|0.21513 grey|0.21513 silver|0.092918 light|0.043891 gray|0.043891 light|0.043891 grey|0.043891 gainsboro|0.029486 white|0.0034799 smoke|0.0034799  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a3cd242681db8916fb27298693e8a91c2afa4dcd1aef6abe03964d98832ae96",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Millikan.jpg/200px-Millikan.jpg",
+				"previous": "The idea of light quanta began with Max Planck's published law of black-body radiation (\"On the Law of Distribution of Energy in the Normal Spectrum\"[45]) by assuming that Hertzian oscillators could only exist at energies E proportional to the frequency f of the oscillator by E = hf, where h is Planck's constant. By assuming that light actually consisted of discrete energy packets, Einstein wrote an equation for the photoelectric effect that agreed with experimental results. It explained why the energy of photoelectrons was dependent only on the frequency of the incident light and not on its intensity: a low-intensity, high-frequency source could supply a few high energy photons, whereas a high-intensity, low-frequency source would supply no photons of sufficient individual energy to dislodge any electrons. This was an enormous theoretical leap, but the concept was strongly resisted at first because it contradicted the wave theory of light that followed naturally from James Clerk Maxwell's equations for electromagnetic behavior, and more generally, the assumption of infinite divisibility of energy in physical systems. Even after experiments showed that Einstein's equations for the photoelectric effect were accurate, resistance to the idea of photons continued, since it appeared to contradict Maxwell's equations, which were well-understood and verified.",
+				"after": "Einstein's work predicted that the energy of individual ejected electrons increases linearly with the frequency of the light. Perhaps surprisingly, the precise relationship had not at that time been tested. By 1905 it was known that the energy of photoelectrons increases with increasing frequency of incident light and is independent of the intensity of the light. However, the manner of the increase was not experimentally determined until 1914 when Robert Andrews Millikan showed that Einstein's prediction was correct.[7]",
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "29d9530d6f95ba43035950ebecc91b0380232c231524ee2224d1dfdb5df9f3eb",
+			"url": "https://upload.wikimedia.org/math/c/b/3/cb31149cc8490759b4d473729cee1ff2.png",
+				"previous": "Mathematically, incompressibility is expressed by saying that the density Ï of a fluid parcel does not change as it moves in the flow field, i.e.,",
+				"after": "where D/Dt is the substantial derivative, which is the sum of local and convective derivatives. This additional constraint simplifies the governing equations, especially in the case when the fluid has a uniform density.",
+			"color": "dim|0.33914 gray|0.33914 dim|0.33914 grey|0.33914 gray|0.32903 grey|0.32903 dark|0.23122 gray|0.23122 dark|0.23122 grey|0.23122 silver|0.048679 light|0.022062 gray|0.022062 light|0.022062 grey|0.022062 gainsboro|0.01616 white|0.0031092 smoke|0.0031092  "
+		}
+	}
+}

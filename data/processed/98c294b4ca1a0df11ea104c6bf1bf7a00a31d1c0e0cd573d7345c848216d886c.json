@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "98c294b4ca1a0df11ea104c6bf1bf7a00a31d1c0e0cd573d7345c848216d886c",
+			"url": "https://upload.wikimedia.org/math/3/c/c/3cc86a7d7b5a25622378ac53b07fab13.png",
+				"previous": "The following table presents some example transformations in the plane along with their 2Ã2 matrices, eigenvalues, and eigenvectors.",
+				"after": "Note that the characteristic equation for a rotation is a quadratic equation with discriminant , which is a negative number whenever is not an integer multiple of 180Â°. Therefore, except for these special cases, the two eigenvalues are complex numbers, ; and all eigenvectors have non-real entries. Indeed, except for those special cases, a rotation changes the direction of every nonzero vector in the plane.",
+			"color": "dark|0.29247 gray|0.29247 dark|0.29247 grey|0.29247 gray|0.21904 grey|0.21904 dim|0.15513 gray|0.15513 dim|0.15513 grey|0.15513 silver|0.15008 light|0.077157 gray|0.077157 light|0.077157 grey|0.077157 gainsboro|0.05553 white|0.018573 smoke|0.018573 linen|0.005171 lavender|0.004666 blush|0.004666 alice|0.0046129 blue|0.0046129 ghost|0.0045465 white|0.0045465 sea|0.0044136 shell|0.0044136 snow|0.0043804 white|0.0038932  "
+		}
+	}
+}

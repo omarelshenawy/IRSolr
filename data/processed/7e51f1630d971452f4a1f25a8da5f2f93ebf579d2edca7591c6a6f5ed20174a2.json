@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e51f1630d971452f4a1f25a8da5f2f93ebf579d2edca7591c6a6f5ed20174a2",
+			"url": "https://upload.wikimedia.org/math/0/7/4/074e6ceb7b554edc7dabe9e9fd0dc1e1.png",
+				"previous": "Let Z(x) be the value of the variable of interest at a certain location x. This value is unknown (e.g. temperature, rainfall, piezometric level, geological facies, etc.). Although there exists a value at location x that could be measured, geostatistics considers this value as random since it was not measured, or has not been measured yet. However, the randomness of Z(x) is not complete, but defined by a cumulative distribution function (CDF) that depends on certain information that is known about the value Z(x):",
+				"after": "Typically, if the value of Z is known at locations close to x (or in the neighborhood of x) one can constrain the CDF of Z(x) by this neighborhood: if a high spatial continuity is assumed, Z(x) can only have values similar to the ones found in the neighborhood. Conversely, in the absence of spatial continuity Z(x) can take any value. The spatial continuity of the random variables is described by a model of spatial continuity that can be either a parametric function in the case of variogram-based geostatistics, or have a non-parametric form when using other methods such as multiple-point simulation or pseudo-genetic techniques.",
+			"color": "dim|0.36678 gray|0.36678 dim|0.36678 grey|0.36678 gray|0.30823 grey|0.30823 dark|0.17634 gray|0.17634 dark|0.17634 grey|0.17634 silver|0.072279 light|0.035872 gray|0.035872 light|0.035872 grey|0.035872 gainsboro|0.02506 white|0.0038525 smoke|0.0038525  "
+		}
+	}
+}

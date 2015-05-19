@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4608ee4a8b84c6ba54f41f414b67b77bb68f6015f95d06eaecb6e67369b113dc",
+			"url": "https://upload.wikimedia.org/math/a/8/8/a886c2b7fb9e5897ba5863ae6e6f77d3.png",
+			"previous": [
+				"In PDEs, it is common to denote partial derivatives using subscripts. That is:",
+				"This solution approaches infinity if nx is not an integer multiple of Ï for any non-zero value of y. The Cauchy problem for the Laplace equation is called ill-posed or not well posed, since the solution does not depend continuously upon the data of the problem. Such ill-posed problems are not usually satisfactory for physical applications."
+			],
+			"after": [
+				"or",
+				"where Î is the Laplace operator."
+			],
+			"color": "dark|0.33118 gray|0.33118 dark|0.33118 grey|0.33118 silver|0.19348 gray|0.17248 grey|0.17248 light|0.12043 gray|0.12043 light|0.12043 grey|0.12043 gainsboro|0.090499 white|0.019247 smoke|0.019247 linen|0.011158 lavender|0.0094091 blush|0.0094091 alice|0.0092676 blue|0.0092676 ghost|0.008897 white|0.008897 sea|0.008565 shell|0.008565 snow|0.0082238 dim|0.0062664 gray|0.0062664 dim|0.0062664 grey|0.0062664 white|0.006135 mint|0.0034061 cream|0.0034061  "
+		}
+	}
+}

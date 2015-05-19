@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "60749124a5c05f5350368e31d676566a3d6af01ef9b3df52e4ba3acad2fb7704",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ultimatum_Game_Extensive_Form.svg/220px-Ultimatum_Game_Extensive_Form.svg.png",
+			"previous": [],
+				"after": "The extensive form can be used to formalize games with a time sequencing of moves. Games here are played on trees (as pictured to the left). Here each vertex (or node) represents a point of choice for a player. The player is specified by a number listed by the vertex. The lines out of the vertex represent a possible action for that player. The payoffs are specified at the bottom of the tree. The extensive form can be viewed as a multi-player generalization of a decision tree.[4]",
+			"color": "black|0.43252 dim|0.19581 gray|0.19581 dim|0.19581 grey|0.19581 gray|0.19532 grey|0.19532 dark|0.14862 gray|0.14862 dark|0.14862 grey|0.14862 silver|0.025704  "
+		}
+	}
+}

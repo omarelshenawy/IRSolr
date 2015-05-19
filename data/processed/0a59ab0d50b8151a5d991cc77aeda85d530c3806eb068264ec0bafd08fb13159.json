@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a59ab0d50b8151a5d991cc77aeda85d530c3806eb068264ec0bafd08fb13159",
+			"url": "https://upload.wikimedia.org/math/6/4/5/645ffa935091ad6e63c76f274947522f.png",
+				"previous": "The composition of two bijections f: X â Y and g: Y â Z is a bijection. The inverse of is .",
+				"after": "If X and Y are finite sets, then there exists a bijection between the two sets X and Y if and only if X and Y have the same number of elements. Indeed, in axiomatic set theory, this is taken as the definition of \"same number of elements\" (equinumerosity), and generalising this definition to infinite sets leads to the concept of cardinal number, a way to distinguish the various sizes of infinite sets.",
+			"color": "gray|0.29589 grey|0.29589 dark|0.28993 gray|0.28993 dark|0.28993 grey|0.28993 silver|0.13707 dim|0.10987 gray|0.10987 dim|0.10987 grey|0.10987 light|0.069348 gray|0.069348 light|0.069348 grey|0.069348 gainsboro|0.051471 white|0.010673 smoke|0.010673 linen|0.006173 lavender|0.0052581 blush|0.0052581 alice|0.0051113 blue|0.0051113 ghost|0.0048911 white|0.0048911 sea|0.0046604 shell|0.0046604 snow|0.0043546 white|0.0029846  "
+		}
+	}
+}

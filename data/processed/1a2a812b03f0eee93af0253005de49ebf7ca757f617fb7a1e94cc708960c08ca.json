@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a2a812b03f0eee93af0253005de49ebf7ca757f617fb7a1e94cc708960c08ca",
+			"url": "https://upload.wikimedia.org/math/1/1/9/11967b4334be4dbc249cb66d2325db4f.png",
+				"previous": "or",
+			"after": [
+				"In either case, the roots of Q are the roots of the factors, which may be computed by solving quadratic or cubic equations.",
+				"Detecting such factorizations can be done by using the factor function of every computer algebra system. But, in many cases, it may be done by hand-written computation. In the preceding section, we have already seen that the polynomial is always reducible if its discriminant is zero (this is true for polynomials of every degree)."
+			],
+			"color": "gray|0.25649 grey|0.25649 dim|0.25428 gray|0.25428 dim|0.25428 grey|0.25428 dark|0.21967 gray|0.21967 dark|0.21967 grey|0.21967 black|0.17039 silver|0.078808 light|0.01608 gray|0.01608 light|0.01608 grey|0.01608 gainsboro|0.0042822  "
+		}
+	}
+}

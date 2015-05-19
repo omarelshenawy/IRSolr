@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f8242865b7307143b90a124c7367bbc45525100f7c701652376dcba5201a45b",
+			"url": "https://upload.wikimedia.org/math/9/d/5/9d505df5696012aa349a039edce47299.png",
+				"previous": "The first generalization of the theorem is found in Gauss's second monograph (1832) on biquadratic reciprocity. This paper introduced what is now called the ring of Gaussian integers, the set of all complex numbers a + bi where a and b are integers. It is now denoted by He showed that this ring has the four units Â±1 and Â±i, that the non-zero, non-unit numbers fall into two classes, primes and composites, and that (except for order), the composites have unique factorization as a product of primes.[9]",
+				"after": "However, it was also discovered that unique factorization does not always hold. An example is given by . In this ring one has[10]",
+			"color": "dim|0.40561 gray|0.40561 dim|0.40561 grey|0.40561 gray|0.27027 grey|0.27027 dark|0.17515 gray|0.17515 dark|0.17515 grey|0.17515 silver|0.072849 light|0.033391 gray|0.033391 light|0.033391 grey|0.033391 gainsboro|0.022564 white|0.0045588 smoke|0.0045588  "
+		}
+	}
+}

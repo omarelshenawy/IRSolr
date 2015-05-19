@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "17472359f0d874acc8ca2a90d15e11ca0323f21acac5d4dc388584b322bb3d17",
+			"url": "https://upload.wikimedia.org/math/d/0/5/d0568b96f150bdd703b3c04083b35512.png",
+				"previous": "For the matrix:",
+				"after": "If the sum of the geometric multiplicities of all eigenvalues is exactly , then has a set of linearly independent eigenvectors. Let be a square matrix whose columns are those eigenvectors, in any order. Then we will have , where is the diagonal matrix such that is the eigenvalue associated to column of . Since the columns of are linearly independent, the matrix is invertible. Premultiplying both sides by we get . By definition, therefore, the matrix is diagonalizable.",
+			"color": " "
+		}
+	}
+}

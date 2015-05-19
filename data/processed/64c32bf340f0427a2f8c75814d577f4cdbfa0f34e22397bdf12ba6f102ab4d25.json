@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "64c32bf340f0427a2f8c75814d577f4cdbfa0f34e22397bdf12ba6f102ab4d25",
+			"url": "https://upload.wikimedia.org/math/1/4/d/14d71675d57c4d4ccc4fd2c852700bd5.png",
+			"previous": [
+				"Now consider the equations of the two lines Î»1 and Î»2,",
+				"The linear equation, Î», has the important property, that if x1 and x2 are homogeneous coordinates of points on the line, then the point Î±x1 + Î²x2 is also on the line, for any real Î± and Î²."
+			],
+				"after": "which forms a system of linear equations. The intersection of these two lines is defined by x = (x, y, 1) that satisfy the matrix equation,",
+			"color": "dim|0.29749 gray|0.29749 dim|0.29749 grey|0.29749 black|0.25831 gray|0.20024 grey|0.20024 dark|0.12503 gray|0.12503 dark|0.12503 grey|0.12503 silver|0.057079 light|0.028717 gray|0.028717 light|0.028717 grey|0.028717 gainsboro|0.020306  "
+		}
+	}
+}

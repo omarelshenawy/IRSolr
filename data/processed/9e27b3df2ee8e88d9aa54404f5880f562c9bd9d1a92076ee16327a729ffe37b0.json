@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "9e27b3df2ee8e88d9aa54404f5880f562c9bd9d1a92076ee16327a729ffe37b0",
+			"url": "https://upload.wikimedia.org/math/d/5/f/d5f356ec83c34c5dd8308742727c8d18.png",
+			"previous": [
+				"where",
+				"Delambre in 1799[9] derived a widely used expansion on the eccentricity squared,",
+				"The above integral may be expressed as an infinite truncated series by expanding the integrand in a Taylor series, performing the resulting integrals term by term, and expressing the result as a trigonometric series. In 1755, Euler[8] derived an expansion in the third eccentricity squared."
+			],
+			"after": [
+				"Similarly, Bessel's series for in terms of can be reverted to give[22]",
+				"where",
+				"Rapp[10] gives a detailed derivation of this result."
+			],
+			"color": "dim|0.30597 gray|0.30597 dim|0.30597 grey|0.30597 gray|0.29103 grey|0.29103 dark|0.20184 gray|0.20184 dark|0.20184 grey|0.20184 silver|0.096738 light|0.045527 gray|0.045527 light|0.045527 grey|0.045527 gainsboro|0.03374 white|0.0055358 smoke|0.0055358 linen|0.0030062 lavender|0.0027991 blush|0.0027991  "
+		}
+	}
+}

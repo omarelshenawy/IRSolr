@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "887ded15a3671e74d4d3da8b77eadeaa6246ed160120f56f56e07b8b3ca13515",
+			"url": "https://upload.wikimedia.org/math/e/4/9/e49bd23eaa3dc50a16a7424d7e803335.png",
+				"previous": "the coefficients are equivalent to samples of S1/T(Æ) at discrete intervals of 1/P = 1/NT: Â Â  Â  (see DTFT/Sampling the DTFT)",
+				"after": "The DFT can be computed using a fast Fourier transform (FFT) algorithm, which makes it a practical and important transformation on computers.",
+			"color": "gray|0.31907 grey|0.31907 dark|0.23867 gray|0.23867 dark|0.23867 grey|0.23867 dim|0.22296 gray|0.22296 dim|0.22296 grey|0.22296 silver|0.10686 light|0.052333 gray|0.052333 light|0.052333 grey|0.052333 gainsboro|0.037211 white|0.0056771 smoke|0.0056771 linen|0.0028232 lavender|0.0025249 blush|0.0025249  "
+		}
+	}
+}

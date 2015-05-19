@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "509bec072801b0c54ae5a4a1714703186d7eef008be9523aca831e342bad6fde",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Electrical_symbols_library.svg/220px-Electrical_symbols_library.svg.png",
+				"previous": "At the moment, as far as we know, there is no program satisfying all these points. Anyway the members of the project made a list with several programs that have been used for drawing circuits on Wikipedia. Each program has a short comment and an example of its output; this list is at programs for drawing circuits. The only way to get a circuit in SVG format without drawing everything from scratch is using Xcircuit; for more info see How to draw SVG circuits using Xcircuit.",
+				"after": "There is an image on commons specially intended to help drawing SVG circuits simple, fast and flexible. Just open this image in any common vector editor (e.g. Inkscape), copy, place and join the components as you wish. This technique produces nice and small SVG images. Except for 6th it achieves all the wishes mentioned above.",
+			"color": "white|0.075216 smoke|0.075216 ghost|0.071884 white|0.071884 snow|0.071859 alice|0.071393 blue|0.071393 white|0.07064 sea|0.070375 shell|0.070375 floral|0.068327 white|0.068327 mint|0.068153 cream|0.068153 azure|0.065274 lavender|0.063628 blush|0.063628 dark|0.045182 gray|0.045182 dark|0.045182 grey|0.045182 gray|0.038904 grey|0.038904 dim|0.032026 gray|0.032026 dim|0.032026 grey|0.032026 silver|0.028674 lavender|0.025331 gainsboro|0.021775 light|0.021586 gray|0.021586 light|0.021586 grey|0.021586 beige|0.011181 ivory|0.011036 linen|0.0099019 misty|0.0079111 rose|0.0079111 thistle|0.0073037 antique|0.0059513 white|0.0059513 old|0.0048733 lace|0.0048733 light|0.0041906 golden|0.0041906 rod|0.0041906 yellow|0.0041906 light|0.0040459 yellow|0.0040459 lemon|0.0037659 chiffon|0.0037659 honeydew|0.0031458 corn|0.0030966 silk|0.0030966  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ba3d814b37ccc3c8d3f8eb1902ba7566368b0719e7c0fedadad8a9f5b261aa3",
+			"url": "https://upload.wikimedia.org/math/d/d/5/dd5ec322a719e309f88646a0d8419747.png",
+				"previous": "Formally, using modular arithmetic, we can say:",
+				"after": "It is also true for ISBN-10's that the sum of all the ten digits, each multiplied by its weight in ascending order from 1 to 10, is a multiple of 11. For this example:",
+			"color": "dim|0.3886 gray|0.3886 dim|0.3886 grey|0.3886 gray|0.26916 grey|0.26916 dark|0.17544 gray|0.17544 dark|0.17544 grey|0.17544 silver|0.079783 light|0.040766 gray|0.040766 light|0.040766 grey|0.040766 gainsboro|0.028854 white|0.0045643 smoke|0.0045643  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d35e1b53f693ca64621ab60ba4f640ca5b07a9d9bf9cc71b311bd79bae350f6",
+			"url": "https://upload.wikimedia.org/math/9/2/b/92b9070f9e6a91fb0f89ef8170c23b0b.png",
+			"previous": [
+				"The complexity class QP consists of all problems which have quasi-polynomial time algorithms. It can be defined in terms of DTIME as follows.[12]",
+				"Quasi-polynomial time algorithms typically arise in reductions from an NP-hard problem to another problem. For example, one can take an instance of an NP hard problem, say 3SAT, and convert it to an instance of another problem B, but the size of the instance becomes . In that case, this reduction does not prove that problem B is NP-hard; this reduction only shows that there is no polynomial time algorithm for B unless there is a quasi-polynomial time algorithm for 3SAT (and thus all of NP). Similarly, there are some problems for which we know quasi-polynomial time algorithms, but no polynomial time algorithm is known. Such problems arise in approximation algorithms; a famous example is the directed Steiner tree problem, for which there is a quasi-polynomial time approximation algorithm achieving an approximation factor of (n being the number of vertices), but showing the existence of such a polynomial time algorithm is an open problem."
+			],
+				"after": "In complexity theory, the unsolved P versus NP problem asks if all problems in NP have polynomial-time algorithms. All the best-known algorithms for NP-complete problems like 3SAT etc. take exponential time. Indeed, it is conjectured for many natural NP-complete problems that they do not have sub-exponential time algorithms. Here \"sub-exponential time\" is taken to mean the second definition presented below. (On the other hand, many graph problems represented in the natural way by adjacency matrices are solvable in subexponential time simply because the size of the input is square of the number of vertices.) This conjecture (for the k-SAT problem) is known as the exponential time hypothesis.[13] Since it is conjectured that NP-complete problems do not have quasi-polynomial time algorithms, some inapproximability results in the field of approximation algorithms make the assumption that NP-complete problems do not have quasi-polynomial time algorithms. For example, see the known inapproximability results for the set cover problem.",
+			"color": "dim|0.33361 gray|0.33361 dim|0.33361 grey|0.33361 gray|0.26926 grey|0.26926 dark|0.16822 gray|0.16822 dark|0.16822 grey|0.16822 black|0.11261 silver|0.056484 light|0.027018 gray|0.027018 light|0.027018 grey|0.027018 gainsboro|0.016942 white|0.0040837 smoke|0.0040837  "
+		}
+	}
+}

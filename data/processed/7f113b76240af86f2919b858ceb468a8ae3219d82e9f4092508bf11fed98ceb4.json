@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f113b76240af86f2919b858ceb468a8ae3219d82e9f4092508bf11fed98ceb4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wind-particle.png",
+				"previous": "Optimization: Say you sell lemonade at a lemonade stand, and notice that at $1, you can sell 197 glasses of lemonade per day, and that for each increase of $0.01, you will sell one glass of lemonade less per day. If you could charge $1.485, you would maximize your profit, but due to the constraint of having to charge a whole cent amount, charging $1.49 per glass will yield the maximum income of $220.52 per day.",
+				"after": "Differential equation: If you set up 100 fans to blow air from one end of the room to the other and then you drop a feather into the wind, what happens? The feather will follow the air currents, which may be very complex. One approximation is to measure the speed at which the air is blowing near the feather every second, and advance the simulated feather as if it were moving in a straight line at that same speed for one second, before measuring the wind speed again. This is called the Euler method for solving an ordinary differential equation.",
+			"color": "white|0.089689 mint|0.088623 cream|0.088623 snow|0.086971 floral|0.086663 white|0.086663 azure|0.083516 white|0.082582 smoke|0.082582 sea|0.082016 shell|0.082016 ghost|0.082015 white|0.082015 alice|0.08086 blue|0.08086 lavender|0.074195 blush|0.074195 red|0.053504 blue|0.027363 ivory|0.021955 lavender|0.013191 medium|0.010326 slate|0.010326 blue|0.010326 honeydew|0.0061868 old|0.0052748 lace|0.0052748 misty|0.0028836 rose|0.0028836 silver|0.0027743  "
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bb00c55f3819b607fbda01506d634f08d14052ddc63c2915b01a9140fcbd254",
+			"url": "https://upload.wikimedia.org/math/5/0/5/505d2a2e165be934f8b308e71330178c.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "Because the Prandtl number of a particular fluid is not often unity, German engineer E. Polhausen who worked with Ludwig Prandtl attempted to empirically extend these equations to apply for . His results can be applied to as well.[11] He found that for Prandtl number greater than 0.6, the thermal boundary layer thickness was approximately given by:",
+			"color": " "
+		}
+	}
+}

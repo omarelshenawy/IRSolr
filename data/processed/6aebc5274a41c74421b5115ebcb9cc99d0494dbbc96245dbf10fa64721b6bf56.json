@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6aebc5274a41c74421b5115ebcb9cc99d0494dbbc96245dbf10fa64721b6bf56",
+			"url": "https://upload.wikimedia.org/math/d/c/6/dc60363fb5029e4c29d2a8185d6f7153.png",
+			"previous": [
+				"that can be written also as:",
+				"The language recognized by M is the regular language given by the regular expression 1*( 0 (1*) 0 (1*) )*, where \"*\" is the Kleene star, e.g., 1* denotes any non-negative number (possibly zero) of symbols \"1\"."
+			],
+				"after": "Modeling requires selecting and identifying relevant aspects of a situation in the real world.",
+			"color": "dim|0.34691 gray|0.34691 dim|0.34691 grey|0.34691 gray|0.28516 grey|0.28516 dark|0.1885 gray|0.1885 dark|0.1885 grey|0.1885 silver|0.083533 light|0.042983 gray|0.042983 light|0.042983 grey|0.042983 gainsboro|0.030411 white|0.0053615 smoke|0.0053615  "
+		}
+	}
+}

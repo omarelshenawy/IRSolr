@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "450f2ffd88881a132d73ab5f8bd78278c312b097f42794da26129cac970595b7",
+			"url": "https://upload.wikimedia.org/math/7/8/a/78aa0497e262595d1be7a3ca7ddd6183.png",
+				"previous": "Let there be an observer C on a disk rotating in the xy plane at a coordinate angular rate of and who is at a distance of r from the center of the disk with the center of the disk at x=y=z=0. The path of observer C is given by , where is the current coordinate time. When r and are constant, and . The incremental proper time formula then becomes",
+				"after": "So for an observer rotating at a constant distance of r from a given point in spacetime at a constant angular rate of Ï between coordinate times and , the proper time experienced will be",
+			"color": "dim|0.35517 gray|0.35517 dim|0.35517 grey|0.35517 gray|0.2808 grey|0.2808 dark|0.1909 gray|0.1909 dark|0.1909 grey|0.1909 silver|0.082675 light|0.040485 gray|0.040485 light|0.040485 grey|0.040485 gainsboro|0.028548 white|0.0051118 smoke|0.0051118  "
+		}
+	}
+}

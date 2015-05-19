@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "52cb02a7cd6848a4b33077eea468a9e2b889d8f7644b8202248f330bf0f07147",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skytala%26EmptyStrip-Shaded.png/220px-Skytala%26EmptyStrip-Shaded.png",
+			"previous": [],
+				"after": "The earliest forms of secret writing required little more than writing implements since most people could not read. More literacy, or literate opponents, required actual cryptography. The main classical cipher types are transposition ciphers, which rearrange the order of letters in a message (e.g., 'hello world' becomes 'ehlol owrdl' in a trivially simple rearrangement scheme), and substitution ciphers, which systematically replace letters or groups of letters with other letters or groups of letters (e.g., 'fly at once' becomes 'gmz bu podf' by replacing each letter with the one following it in the Latin alphabet). Simple versions of either have never offered much confidentiality from enterprising opponents. An early substitution cipher was the Caesar cipher, in which each letter in the plaintext was replaced by a letter some fixed number of positions further down the alphabet. Suetonius reports that Julius Caesar used it with a shift of three to communicate with his generals. Atbash is an example of an early Hebrew cipher. The earliest known use of cryptography is some carved ciphertext on stone in Egypt (ca 1900 BCE), but this may have been done for the amusement of literate observers rather than as a way of concealing information.",
+			"color": "dark|0.2081 khaki|0.2081 wheat|0.10062 white|0.053438 smoke|0.053438 sea|0.051593 shell|0.051593 snow|0.050516 ghost|0.049415 white|0.049415 white|0.049401 floral|0.049366 white|0.049366 mint|0.048554 cream|0.048554 alice|0.048506 blue|0.048506 azure|0.046783 lavender|0.04336 blush|0.04336 dark|0.031577 gray|0.031577 dark|0.031577 grey|0.031577 silver|0.026982 light|0.022589 gray|0.022589 light|0.022589 grey|0.022589 gainsboro|0.019383 gray|0.015866 grey|0.015866 tan|0.015558 ivory|0.0082649 linen|0.0082027 moccasin|0.007893  "
+		}
+	}
+}

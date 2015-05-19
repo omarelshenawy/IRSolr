@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e9543d15106b6c7fb1431b383d739ace111b8be2a186956e30f0e1a6d2da895",
+			"url": "https://upload.wikimedia.org/math/e/3/0/e3023d71382b4555573757f49332fcda.png",
+				"previous": "Here u might describe the displacement of a stretched string from equilibrium, or the difference in air pressure in a tube, or the magnitude of an electromagnetic field in a tube, and c is a number that corresponds to the velocity of the wave. The Cauchy problem for this equation consists in prescribing the initial displacement and velocity of a string or other medium:",
+				"after": "where f and g are arbitrary given functions. The solution of this problem is given by d'Alembert's formula:",
+			"color": "gray|0.31988 grey|0.31988 dim|0.28666 gray|0.28666 dim|0.28666 grey|0.28666 dark|0.20449 gray|0.20449 dark|0.20449 grey|0.20449 silver|0.088957 light|0.045437 gray|0.045437 light|0.045437 grey|0.045437 gainsboro|0.031802 white|0.0058837 smoke|0.0058837 linen|0.00289  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7cadcd225f6aff736d952e3ee76f4e5eadb390baea2eeed0ac958956468cfb0",
+			"url": "https://upload.wikimedia.org/math/6/c/6/6c6e4e3b28f8ef1f66a68896651b06dc.png",
+			"previous": [
+				"For small elements, the angle PKQ is approximately a right angle and therefore",
+				"The relations between y(Ï) and properties of the projection, such as the transformation of angles and the variation in scale, follow from the geometry of corresponding small elements on the globe and map. The figure below shows a point P at latitudeÂ Ï and longitudeÂ Î» on the globe and a nearby point Q at latitude Ï+Î´Ï and longitude Î»+Î´Î». The vertical lines PK and MQ are arcs of meridians of length RÎ´Ï.[9] The horizontal lines PM and KQ are arcs of parallels of length R(cosÂ Ï)Î´Î».[10] The corresponding points on the projection define a rectangle of widthÂ Î´x and heightÂ Î´y."
+			],
+			"after": [
+				"The previously mentioned scaling factors from globe to cylinder are given by",
+				"Since the meridians are mapped to lines of constant x we must have x=R(Î»âÎ»0) and Î´x=RÎ´Î», (Î» in radians). Therefore in the limit of infinitesimally small elements"
+			],
+			"color": "dim|0.43627 gray|0.43627 dim|0.43627 grey|0.43627 gray|0.28208 grey|0.28208 dark|0.15337 gray|0.15337 dark|0.15337 grey|0.15337 silver|0.062494 light|0.029632 gray|0.029632 light|0.029632 grey|0.029632 gainsboro|0.020763 white|0.0037732 smoke|0.0037732  "
+		}
+	}
+}

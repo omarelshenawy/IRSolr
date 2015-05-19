@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "787e6510ee2f2b8c7035ca049a71b15783fcb40817148ba14f53a3fa3aeaf40d",
+			"url": "https://upload.wikimedia.org/math/d/d/8/dd82783eda6ae82f3fb5f2cd31fec75b.png",
+				"previous": "The whole process, described above, is then repeated for the new time:",
+				"after": "The starting point for the transient is some steady state point (e.g. Ground Idle, Sea Level Static, ISA). A ramp of fuel flow versus time is, for instance, fed into the model to simulate, say, a slam acceleration (or deceleration). The transient calculation is first undertaken for time zero, with the steady state fuel flow as the engine match, which should result in zero excess turbine power. By definition, the first transient calculation should reproduce the datum steady state point. The fuel flow for is calculated from the fuel flow ramp and is used as the revised engine match in the next transient iterative calculation. This process is repeated until the transient simulation is completed.",
+			"color": "dim|0.32713 gray|0.32713 dim|0.32713 grey|0.32713 black|0.29026 gray|0.18085 grey|0.18085 dark|0.11084 gray|0.11084 dark|0.11084 grey|0.11084 silver|0.04602 light|0.020942 gray|0.020942 light|0.020942 grey|0.020942 gainsboro|0.013693  "
+		}
+	}
+}

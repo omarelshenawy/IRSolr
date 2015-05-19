@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "750298f6dd0a5d5a86551af9c5d300411f0ff21974a806a6f0b1d6b913d6d1e4",
+			"url": "https://upload.wikimedia.org/math/3/0/b/30b830ad4a100723381248b238199690.png",
+				"previous": "For a point (x1, x2, ...,xn) and a point (y1, y2, ...,yn), the Minkowski distance of order p (p-norm distance) is defined as:",
+				"after": "p need not be an integer, but it cannot be less than 1, because otherwise the triangle inequality does not hold.",
+			"color": "dim|0.28993 gray|0.28993 dim|0.28993 grey|0.28993 gray|0.27566 grey|0.27566 dark|0.21699 gray|0.21699 dark|0.21699 grey|0.21699 silver|0.11309 light|0.050295 gray|0.050295 light|0.050295 grey|0.050295 gainsboro|0.038945 white|0.0039471 smoke|0.0039471  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "654887927f3ec0eb85020814fe71619693d4478ab9b7e472bee8a807e62781bc",
+			"url": "https://upload.wikimedia.org/math/5/3/a/53a6d508a448ca8965d56d5628aaf8b2.png",
+			"previous": [
+				"Drag divergence Mach numbers Mdd for a given family of propeller airfoils can be approximated by Korn's relation:[3]",
+				"Two of the important technological advancements that arose out of attempts to conquer the sound barrier were the Whitcomb area rule and the supercritical airfoil. A supercritical airfoil is shaped specifically to make the drag divergence Mach number as high as possible, allowing aircraft to fly with relatively lower drag at high subsonic and low transonic speeds. These, along with other advancements including computational fluid dynamics, have been able to reduce the factor of increase in drag to two or three for modern aircraft designs.[2]"
+			],
+				"after": "Where",
+			"color": "dim|0.23387 gray|0.23387 dim|0.23387 grey|0.23387 black|0.21675 gray|0.2109 grey|0.2109 dark|0.20221 gray|0.20221 dark|0.20221 grey|0.20221 silver|0.083024 light|0.033642 gray|0.033642 light|0.033642 grey|0.033642 gainsboro|0.018627  "
+		}
+	}
+}

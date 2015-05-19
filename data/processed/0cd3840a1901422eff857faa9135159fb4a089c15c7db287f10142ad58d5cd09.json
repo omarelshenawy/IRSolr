@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cd3840a1901422eff857faa9135159fb4a089c15c7db287f10142ad58d5cd09",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Proportional-vs-monospace-v4.jpg",
+				"previous": "Typefaces with serifs are often considered easier to read in long passages than those without. Studies on the matter are ambiguous, suggesting that most of this effect is due to the greater familiarity of serif typefaces. As a general rule, printed works such as newspapers and books almost always use serif typefaces, at least for the text body. Web sites do not have to specify a font and can simply respect the browser settings of the user. But of those web sites that do specify a font, most use modern sans serif fonts, because it is commonly believed that, in contrast to the case for printed material, sans serif fonts are easier than serif fonts to read on the low-resolution computer screen.",
+			"after": [
+				"A proportional typeface contains glyphs of varying widths, while a monospaced (non-proportional or fixed-width) typeface uses a single standard width for all glyphs in the font.",
+				"Many people generally find proportional typefaces nicer-looking and easier to read, and thus they appear more commonly in professionally published printed material.[citation needed] For the same reason, GUI computer applications (such as word processors and web browsers) typically use proportional fonts. However, many proportional fonts contain fixed-width (tabular) figures so that columns of numbers stay aligned."
+			],
+			"color": "pink|0.71114 rosy|0.033776 brown|0.033776 misty|0.033324 rose|0.033324 thistle|0.031521 ghost|0.018331 white|0.018331 snow|0.017171 white|0.017061 smoke|0.017061 sea|0.016726 shell|0.016726 white|0.01629 lavender|0.016144 blush|0.016144 lavender|0.016018 alice|0.015753 blue|0.015753 floral|0.015444 white|0.015444 mint|0.013737 cream|0.013737 azure|0.013523  "
+		}
+	}
+}

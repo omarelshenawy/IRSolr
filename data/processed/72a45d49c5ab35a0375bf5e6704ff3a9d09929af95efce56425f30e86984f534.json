@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "72a45d49c5ab35a0375bf5e6704ff3a9d09929af95efce56425f30e86984f534",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reliability_block_diagram.png/220px-Reliability_block_diagram.png",
+			"previous": [],
+			"after": [
+				"In engineering, redundancy is the duplication of critical components or functions of a system with the intention of increasing reliability of the system, usually in the form of a backup or fail-safe.",
+				"In many safety-critical systems, such as fly-by-wire and hydraulic systems in aircraft, some parts of the control system may be triplicated,[1] which is formally termed triple modular redundancy (TMR). An error in one component may then be out-voted by the other two. In a triply redundant system, the system has three sub components, all three of which must fail before the system fails. Since each one rarely fails, and the sub components are expected to fail independently, the probability of all three failing is calculated to be extraordinarily small; often outweighed by other risk factors, e.g., human error. Redundancy may also be known by the terms \"majority voting systems\"[2] or \"voting logic\".[3]"
+			],
+			"color": "pale|0.38703 turquoise|0.38703 light|0.37723 cyan|0.37723 powder|0.068124 blue|0.068124 light|0.036425 blue|0.036425 silver|0.035979 light|0.027318 gray|0.027318 light|0.027318 grey|0.027318 dark|0.020318 gray|0.020318 dark|0.020318 grey|0.020318 dim|0.01964 gray|0.01964 dim|0.01964 grey|0.01964 gainsboro|0.012608 gray|0.0095715 grey|0.0095715  "
+		}
+	}
+}

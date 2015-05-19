@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b2cc9fc465a0c69f0a875836b4992133b73e2ed3cc348b648eddd92704fa9b9",
+			"url": "https://upload.wikimedia.org/math/b/9/1/b91f0b6f4061e59d0249f5a42902b107.png",
+				"previous": "where",
+				"after": "The Coulomb friction may take any value from zero up to , and the direction of the frictional force against a surface is opposite to the motion that surface would experience in the absence of friction. Thus, in the static case, the frictional force is exactly what it must be in order to prevent motion between the surfaces; it balances the net force tending to cause such motion. In this case, rather than providing an estimate of the actual frictional force, the Coulomb approximation provides a threshold value for this force, above which motion would commence. This maximum force is known as traction.",
+			"color": "dim|0.34808 gray|0.34808 dim|0.34808 grey|0.34808 black|0.22006 gray|0.18268 grey|0.18268 dark|0.13298 gray|0.13298 dark|0.13298 grey|0.13298 silver|0.05748 light|0.024864 gray|0.024864 light|0.024864 grey|0.024864 gainsboro|0.017873 white|0.0036879 smoke|0.0036879  "
+		}
+	}
+}

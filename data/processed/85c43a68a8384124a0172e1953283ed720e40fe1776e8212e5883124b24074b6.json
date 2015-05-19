@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "85c43a68a8384124a0172e1953283ed720e40fe1776e8212e5883124b24074b6",
+			"url": "https://upload.wikimedia.org/math/f/e/b/feb8c90327fd0249966eec4aa841c653.png",
+				"previous": "More generally, most physical quantities are best described as (components of) tensors. So to transform from one frame to another, we use the well-known tensor transformation law[46]",
+				"after": "where is the reciprocal matrix of . All tensors transform by this rule.",
+			"color": "gray|0.24573 grey|0.24573 dim|0.24154 gray|0.24154 dim|0.24154 grey|0.24154 dark|0.22416 gray|0.22416 dark|0.22416 grey|0.22416 black|0.1725 silver|0.083904 light|0.023085 gray|0.023085 light|0.023085 grey|0.023085 gainsboro|0.0087546  "
+		}
+	}
+}

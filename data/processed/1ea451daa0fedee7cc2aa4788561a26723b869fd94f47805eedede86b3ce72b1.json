@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ea451daa0fedee7cc2aa4788561a26723b869fd94f47805eedede86b3ce72b1",
+			"url": "https://upload.wikimedia.org/math/9/d/2/9d2aacea572e53e8e0e95f926855a366.png",
+				"previous": "Method: Using ISO weekday numbers (running from 1 for Monday to 7 for Sunday), subtract the weekday from the ordinal date, then add 10. Divide the result by 7. Ignore the remainder; the quotient equals the week number. If the week number thus obtained equals 0, it means that the given date belongs to the preceding (week-based) year. If a week number of 53 is obtained, one must check that the date is not actually in week 1 of the following year.",
+				"after": "Example: Friday 26 September 2008",
+			"color": "dim|0.29378 gray|0.29378 dim|0.29378 grey|0.29378 black|0.27546 gray|0.20109 grey|0.20109 dark|0.12505 gray|0.12505 dark|0.12505 grey|0.12505 silver|0.051635 light|0.023885 gray|0.023885 light|0.023885 grey|0.023885 gainsboro|0.016068  "
+		}
+	}
+}

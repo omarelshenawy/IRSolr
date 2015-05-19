@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "74209fcb5cbece42f1ec4fed6aaded6153aa063cda6c64c4e543f352c9e76677",
+			"url": "https://upload.wikimedia.org/math/e/7/7/e779596dd049e869177a407dfa9a5562.png",
+				"previous": "A very special case of the first case of factorization is when a0=0. This implies that x1=0 is a first root, b3=a4, b2=a3, b1=a2, b0=a1, and the other roots may be computed by solving a cubic equation.",
+				"after": "Once a root x1 is known, the second factor of the factorization of the first kind is the quotient of the Euclidean division of Q by x-x1. It is",
+			"color": "dim|0.28102 gray|0.28102 dim|0.28102 grey|0.28102 black|0.28061 gray|0.1912 grey|0.1912 dark|0.1297 gray|0.1297 dark|0.1297 grey|0.1297 silver|0.059717 light|0.028588 gray|0.028588 light|0.028588 grey|0.028588 gainsboro|0.019596  "
+		}
+	}
+}

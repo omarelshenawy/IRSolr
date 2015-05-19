@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "678ef9559c2cefd9e7c72b715bcb0b1510dd913155e3cbea0c50bdf671dbeedb",
+			"url": "https://upload.wikimedia.org/math/1/6/c/16ced14ad381d0c55f46a750367db2ed.png",
+				"previous": "If the index set of the process is N (the natural numbers), and the range is R (the real numbers), there are some natural questions to ask about the sample sequences of a process {Xi}i â N, where a sample sequence is {Xi(Ï)}i â N.",
+				"after": "Main applications of discrete time continuous state stochastic models include Markov chain Monte Carlo (MCMC) and the analysis of Time Series.",
+			"color": "dark|0.32662 gray|0.32662 dark|0.32662 grey|0.32662 gray|0.2518 grey|0.2518 silver|0.1661 light|0.090955 gray|0.090955 light|0.090955 grey|0.090955 gainsboro|0.063664 dim|0.058259 gray|0.058259 dim|0.058259 grey|0.058259 white|0.011957 smoke|0.011957 linen|0.0057765 lavender|0.0046885 blush|0.0046885 alice|0.0045171 blue|0.0045171 ghost|0.0041459 white|0.0041459 sea|0.0039011 shell|0.0039011 snow|0.0037297  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "50e0cda24059131347a632aa22b1b2fa949578a985b05d0e979034be103c0f15",
+			"url": "https://upload.wikimedia.org/math/f/e/4/fe4dce294d36a7791e984b51818639c6.png",
+				"previous": "Matrices which have a single row are called row vectors, and those which have a single column are called column vectors. A matrix which has the same number of rows and columns is called a square matrix. A matrix with an infinite number of rows or columns (or both) is called an infinite matrix. In some contexts, such as computer algebra programs, it is useful to consider a matrix with no rows or no columns, called an empty matrix.",
+			"after": [],
+			"color": "black|0.98854 dim|0.0081652 gray|0.0081652 dim|0.0081652 grey|0.0081652 gray|0.0027354 grey|0.0027354  "
+		}
+	}
+}

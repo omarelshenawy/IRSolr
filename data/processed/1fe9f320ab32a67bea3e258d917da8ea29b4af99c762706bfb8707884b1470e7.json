@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fe9f320ab32a67bea3e258d917da8ea29b4af99c762706bfb8707884b1470e7",
+			"url": "https://upload.wikimedia.org/math/e/d/2/ed25dd7c73e593e3afcefbf5c8100b53.png",
+				"previous": "Note that S[Î³] is at least the length of the meridian from p to q:",
+				"after": "Since the starting point and ending point are fixed, S is minimized if and only if Ï'Â =Â 0, so the curve must lie on a meridian of the sphere ÏÂ =Â Ï0Â =Â constant. In Cartesian coordinates, this is",
+			"color": "dim|0.29831 gray|0.29831 dim|0.29831 grey|0.29831 gray|0.28704 grey|0.28704 dark|0.19797 gray|0.19797 dark|0.19797 grey|0.19797 silver|0.10445 light|0.053 gray|0.053 light|0.053 grey|0.053 gainsboro|0.037379 white|0.0049026 smoke|0.0049026 linen|0.0028602  "
+		}
+	}
+}

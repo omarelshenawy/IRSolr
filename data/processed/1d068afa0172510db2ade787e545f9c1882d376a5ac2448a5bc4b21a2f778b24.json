@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d068afa0172510db2ade787e545f9c1882d376a5ac2448a5bc4b21a2f778b24",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dial_calipers.jpg/220px-Dial_calipers.jpg",
+			"previous": [],
+			"after": [
+				"Instead of using a vernier mechanism, which requires some practice to use, the dial caliper reads the final fraction of a millimeter or inch on a simple dial.",
+				"In this instrument, a small, precise rack and pinion drives a pointer on a circular dial, allowing direct reading without the need to read a vernier scale. Typically, the pointer rotates once every inch, tenth of an inch, or 1 millimeter. This measurement must be added to the coarse whole inches or centimeters read from the slide. The dial is usually arranged to be rotatable beneath the pointer, allowing for \"differential\" measurements (the measuring of the difference in size between two objects, or the setting of the dial using a master object and subsequently being able to read directly the plus-or-minus variance in size of subsequent objects relative to the master object)."
+			],
+			"color": "steel|0.18677 blue|0.18677 dark|0.15338 gray|0.15338 dark|0.15338 grey|0.15338 dim|0.13485 gray|0.13485 dim|0.13485 grey|0.13485 silver|0.13328 gray|0.084842 grey|0.084842 light|0.07243 gray|0.07243 light|0.07243 grey|0.07243 gainsboro|0.048203 slate|0.035835 gray|0.035835 light|0.03313 slate|0.03313 gray|0.03313 white|0.015942 smoke|0.015942 linen|0.012906 sea|0.01177 shell|0.01177 snow|0.010666 alice|0.010565 blue|0.010565 floral|0.010025 white|0.010025 mint|0.0099651 cream|0.0099651 ghost|0.0099575 white|0.0099575 white|0.008414 azure|0.0059714  "
+		}
+	}
+}

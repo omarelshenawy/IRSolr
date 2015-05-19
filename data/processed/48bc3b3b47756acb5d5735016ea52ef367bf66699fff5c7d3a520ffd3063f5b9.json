@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "48bc3b3b47756acb5d5735016ea52ef367bf66699fff5c7d3a520ffd3063f5b9",
+			"url": "https://upload.wikimedia.org/math/5/3/0/530f393ce6badab9f57559b97da06537.png",
+			"previous": [
+				"The constant 63,025 is the approximation of",
+				"When torque is in inch pounds:"
+			],
+			"after": [
+				"If torque and rotational speed are expressed in coherent SI units, the power is calculated byÂ ;",
+				"where is power in watts when is torque in newton-metres, and is angular speed in radians per second. When using other units or if the speed is in revolutions per unit time rather than radians, a conversion factor has to be included."
+			],
+			"color": "dim|0.37968 gray|0.37968 dim|0.37968 grey|0.37968 gray|0.31899 grey|0.31899 dark|0.17032 gray|0.17032 dark|0.17032 grey|0.17032 silver|0.064342 light|0.029346 gray|0.029346 light|0.029346 grey|0.029346 gainsboro|0.020037 white|0.0038306 smoke|0.0038306  "
+		}
+	}
+}

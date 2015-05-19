@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "48a10ed2035c2f9e0307e95b502b80ef7761825986c0a42265dfe0f349c22c20",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Optimizing-different-parts.svg/400px-Optimizing-different-parts.svg.png",
+			"previous": [
+				"Gustafson's law is another law in computing, closely related to Amdahl's law.[13] It states that the speedup with processors is",
+				"is the maximum speed-up with parallelization of the program, with P being the number of processors used. If the sequential portion of a program accounts for 10% of the runtime (), we can get no more than a 10Ã speed-up, regardless of how many processors are added. This puts an upper limit on the usefulness of adding more parallel execution units. \"When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.\"[12]"
+			],
+				"after": "Both Amdahl's law and Gustafson's law assume that the running time of the sequential portion of the program is independent of the number of processors. Amdahl's law assumes that the entire problem is of fixed size so that the total amount of work to be done in parallel is also independent of the number of processors, whereas Gustafson's law assumes that the total amount of work to be done in parallel varies linearly with the number of processors.",
+			"color": "red|0.64158 blue|0.16978 dim|0.032799 gray|0.032799 dim|0.032799 grey|0.032799 silver|0.020651 dark|0.019029 red|0.019029 light|0.017249 gray|0.017249 light|0.017249 grey|0.017249 dark|0.014938 gray|0.014938 dark|0.014938 grey|0.014938 gray|0.013807 grey|0.013807 gainsboro|0.01363 medium|0.0095701 blue|0.0095701 white|0.0070082 smoke|0.0070082 brown|0.0059138 dark|0.0055958 blue|0.0055958 midnight|0.0050553 blue|0.0050553  "
+		}
+	}
+}

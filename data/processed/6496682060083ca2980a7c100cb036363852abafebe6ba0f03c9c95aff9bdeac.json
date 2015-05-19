@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6496682060083ca2980a7c100cb036363852abafebe6ba0f03c9c95aff9bdeac",
+			"url": "https://upload.wikimedia.org/math/0/c/8/0c8fadb67502a2b986275f79c4fde438.png",
+				"previous": "The beginnings of algebraic number theory can be traced to Diophantine equations,[1] named after the 3rd-century Alexandrian mathematician, Diophantus, who studied them and developed methods for the solution of some kinds of Diophantine equations. A typical Diophantine problem is to find two integers x and y such that their sum, and the sum of their squares, equal two given numbers A and B, respectively:",
+				"after": "Diophantine equations have been studied for thousands of years. For example, the solutions to the quadratic Diophantine equation x2 + y2 = z2 are given by the Pythagorean triples, originally solved by the Babylonians (c. 1800 BC).[2] Solutions to linear Diophantine equations, such as 26x + 65y = 13, may be found using the Euclidean algorithm (c. 5th century BC).[3]",
+			"color": "black|0.32389 dim|0.26421 gray|0.26421 dim|0.26421 grey|0.26421 gray|0.18869 grey|0.18869 dark|0.11638 gray|0.11638 dark|0.11638 grey|0.11638 silver|0.051147 light|0.025407 gray|0.025407 light|0.025407 grey|0.025407 gainsboro|0.017974  "
+		}
+	}
+}

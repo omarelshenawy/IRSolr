@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "755a7f64989046e3ae0600b3f6cb96d8259afebfd7b74e08270139eb574664ba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MixedUnitAddition.svg/220px-MixedUnitAddition.svg.png",
+			"previous": [],
+			"after": [
+				"The addition operation is carried out from right to left; in this case, pence are processed first, then shillings followed by pounds. The numbers below the \"answer line\" are intermediate results.",
+				"The total in the pence column is 25. Since there are 12 pennies in a shilling, 25 is divided byÂ 12 to giveÂ 2 with a remainder ofÂ 1. The valueÂ \"1\" is then written to the answer row and the valueÂ \"2\" carried forward to the shillings column. This operation is repeated using the values in the shillings column, with the additional step of adding the value that was carried forward from the pennies column. The intermediate total is divided byÂ 20 as there are 20Â shillings in a pound. The pound column is then processed, but as pounds are the largest unit that is being considered, no values are carried forward from the pounds column."
+			],
+			"color": "white|0.092099 smoke|0.092099 snow|0.091836 white|0.091585 ghost|0.091525 white|0.091525 alice|0.091242 blue|0.091242 sea|0.090827 shell|0.090827 mint|0.090676 cream|0.090676 azure|0.089778 floral|0.089718 white|0.089718 lavender|0.086934 blush|0.086934 gray|0.018752 grey|0.018752 dark|0.017141 gray|0.017141 dark|0.017141 grey|0.017141 dim|0.016201 gray|0.016201 dim|0.016201 grey|0.016201 silver|0.013542 light|0.0096443 gray|0.0096443 light|0.0096443 grey|0.0096443 gainsboro|0.0078164 black|0.0046971 ivory|0.0039354  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "954d468811b475ce0a590a2b84c0e722b1e02c9f669c26a1dab7ca7728630a47",
+			"url": "https://upload.wikimedia.org/math/c/9/b/c9b427b4189b1478abc36791dc514929.png",
+			"previous": [
+				"Energy input to the blades in a stage:",
+				"Blade efficiency"
+			],
+			"after": [
+				"Or, = enthalpy drop over the fixed blades, + enthalpy drop over the moving blades, .",
+				"The effect of expansion of steam over the moving blades is to increase the relative velocity at the exit. Therefore the relative velocity at the exit is always greater than the relative velocity at the inlet ."
+			],
+			"color": "black|0.49726 dim|0.20998 gray|0.20998 dim|0.20998 grey|0.20998 gray|0.13895 grey|0.13895 dark|0.082086 gray|0.082086 dark|0.082086 grey|0.082086 silver|0.035425 light|0.016942 gray|0.016942 light|0.016942 grey|0.016942 gainsboro|0.011596  "
+		}
+	}
+}

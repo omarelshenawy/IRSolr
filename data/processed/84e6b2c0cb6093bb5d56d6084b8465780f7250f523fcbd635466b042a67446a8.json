@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "84e6b2c0cb6093bb5d56d6084b8465780f7250f523fcbd635466b042a67446a8",
+			"url": "https://upload.wikimedia.org/math/2/a/b/2ab55fcf7d5365afda7af662599a1964.png",
+			"previous": [
+				"In subsonic flow the Mach meter can be calibrated according to:",
+				"Some older mechanical Machmeters use an altitude aneroid and an airspeed capsule which together convert pitot-static pressure into Mach number. Modern electronic Machmeters use information from an air data computer system."
+			],
+			"after": [
+				"where:",
+				"When a shock wave forms across the pitot tube the required formula is derived from the Rayleigh Supersonic Pitot equation, and is solved iteratively:"
+			],
+			"color": "black|0.30457 dim|0.22795 gray|0.22795 dim|0.22795 grey|0.22795 gray|0.21687 grey|0.21687 dark|0.16702 gray|0.16702 dark|0.16702 grey|0.16702 silver|0.060461 light|0.018182 gray|0.018182 light|0.018182 grey|0.018182 gainsboro|0.0049491  "
+		}
+	}
+}

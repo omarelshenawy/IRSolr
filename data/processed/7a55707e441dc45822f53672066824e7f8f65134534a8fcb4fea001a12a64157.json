@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a55707e441dc45822f53672066824e7f8f65134534a8fcb4fea001a12a64157",
+			"url": "https://upload.wikimedia.org/math/0/b/7/0b71f45604b4174053e1ae20d10b3ae3.png",
+				"previous": "The ergodic hypothesis turned out not to be the essential property needed for the development of statistical mechanics and a series of other ergodic-like properties were introduced to capture the relevant aspects of physical systems. Koopman approached the study of ergodic systems by the use of functional analysis. An observable a is a function that to each point of the phase space associates a number (say instantaneous pressure, or average height). The value of an observable can be computed at another time by using the evolution function ÏÂ t. This introduces an operator UÂ t, the transfer operator,",
+				"after": "By studying the spectral properties of the linear operator U it becomes possible to classify the ergodic properties ofÂ Î¦Â t. In using the Koopman approach of considering the action of the flow on an observable function, the finite-dimensional nonlinear problem involving Î¦Â t gets mapped into an infinite-dimensional linear problem involvingÂ U.",
+			"color": "dim|0.32371 gray|0.32371 dim|0.32371 grey|0.32371 gray|0.31698 grey|0.31698 dark|0.19418 gray|0.19418 dark|0.19418 grey|0.19418 silver|0.080874 light|0.038989 gray|0.038989 light|0.038989 grey|0.038989 gainsboro|0.027035 white|0.0047857 smoke|0.0047857  "
+		}
+	}
+}

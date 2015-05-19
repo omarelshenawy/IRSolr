@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b3de1d650b8a70f6d6ce70159cd7f2679cd0222ebbd56352d6b130e87ef582a",
+			"url": "https://upload.wikimedia.org/math/c/c/b/ccb972151f0b97cdc7e2bb8a51d8f2b0.png",
+				"previous": "The Zariski topology defines a topology on the spectrum of a ring (the set of prime ideals).[2] In this formulation, the Zariski-closed sets are taken to be the sets",
+				"after": "where A is a fixed commutative ring and I is an ideal. This is defined in analogy with the classical Zariski topology, where closed sets in affine space are those defined by polynomial equations . To see the connection with the classical picture, note that for any set S of polynomials (over an algebraically closed field), it follows from Hilbert's Nullstellensatz that the points of V(S) (in the old sense) are exactly the tuples (a1, ..., an) such that (x1 - a1, ..., xn - an) contains S; moreover, these are maximal ideals and by the \"weak\" Nullstellensatz, an ideal of any affine coordinate ring is maximal if and only if it is of this form. Thus, V(S) is \"the same as\" the maximal ideals containing S. Grothendieck's innovation in defining Spec was to replace maximal ideals with all prime ideals; in this formulation it is natural to simply generalize this observation to the definition of a closed set in the spectrum of a ring.",
+			"color": "dim|0.35457 gray|0.35457 dim|0.35457 grey|0.35457 gray|0.29655 grey|0.29655 dark|0.18526 gray|0.18526 dark|0.18526 grey|0.18526 silver|0.082395 light|0.040705 gray|0.040705 light|0.040705 grey|0.040705 gainsboro|0.027736 white|0.0034844 smoke|0.0034844  "
+		}
+	}
+}

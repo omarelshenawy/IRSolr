@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "34c10b91aa9bcbe2e844653d1d18c4995a20d76248309a684bdc45f63e03d059",
+			"url": "https://upload.wikimedia.org/math/7/d/e/7de69d8cf3be4709f4e30684185fc561.png",
+				"previous": "that is, the conditional entropy of a symbol given all the previous symbols generated. For the more general case of a process that is not necessarily stationary, the average rate is",
+				"after": "that is, the limit of the joint entropy per symbol. For stationary sources, these two expressions give the same result.[10]",
+			"color": "dim|0.37956 gray|0.37956 dim|0.37956 grey|0.37956 gray|0.27651 grey|0.27651 dark|0.18317 gray|0.18317 dark|0.18317 grey|0.18317 silver|0.076441 light|0.036347 gray|0.036347 light|0.036347 grey|0.036347 gainsboro|0.026068 white|0.0050103 smoke|0.0050103  "
+		}
+	}
+}

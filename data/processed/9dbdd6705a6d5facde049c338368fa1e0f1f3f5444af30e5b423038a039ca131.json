@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9dbdd6705a6d5facde049c338368fa1e0f1f3f5444af30e5b423038a039ca131",
+			"url": "https://upload.wikimedia.org/math/9/f/8/9f881f64ea91105b345edc4e95c91e55.png",
+				"previous": "Here, the spin variables mÎ½ assume values from the set",
+			"after": [
+				"where is the spin of Î½th particle. for a particle that does not exhibit spin.",
+				"The treatment of identical particles is very different for bosons (particles with integer spin) versus fermions (particles with half-integer spin). The above N-particle function must either be symmetrized (in the bosonic case) or anti-symmetrized (in the fermionic case) with respect to the particle numbers. If not all N particles are identical, but some of them are, then the function must be (anti)symmetrized separately over the variables corresponding to each group of identical variables, according to its statistics (bosonic or fermionic)."
+			],
+			"color": "dim|0.35536 gray|0.35536 dim|0.35536 grey|0.35536 gray|0.28213 grey|0.28213 dark|0.17831 gray|0.17831 dark|0.17831 grey|0.17831 silver|0.089519 light|0.045612 gray|0.045612 light|0.045612 grey|0.045612 gainsboro|0.031506 white|0.004299 smoke|0.004299  "
+		}
+	}
+}

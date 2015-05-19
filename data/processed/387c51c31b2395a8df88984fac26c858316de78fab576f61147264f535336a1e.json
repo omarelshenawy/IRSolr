@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "387c51c31b2395a8df88984fac26c858316de78fab576f61147264f535336a1e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Determinant_parallelepiped.svg/200px-Determinant_parallelepiped.svg.png",
+				"previous": "Moreover, after choosing bases of V and W, any linear map fÂ : V â W is uniquely represented by a matrix via this assignment.[32]",
+				"after": "The determinant det (A) of a square matrix A is a scalar that tells whether the associated map is an isomorphism or not: to be so it is sufficient and necessary that the determinant is nonzero.[33] The linear transformation of Rn corresponding to a real n-by-n matrix is orientation preserving if and only if its determinant is positive.",
+			"color": "dark|0.55295 gray|0.55295 dark|0.55295 grey|0.55295 steel|0.3033 blue|0.3033 gray|0.044558 grey|0.044558 dim|0.040265 gray|0.040265 dim|0.040265 grey|0.040265 silver|0.028314 black|0.012135  "
+		}
+	}
+}

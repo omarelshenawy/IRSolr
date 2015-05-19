@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f4e4250fce2b3ddf96e7c1c528e0cf799474b5f427eb44ef6dac19e9582d8dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mercator_projection_SW.jpg/300px-Mercator_projection_SW.jpg",
+			"previous": [],
+				"after": "The Mercator projection is a cylindrical map projection presented by the Flemish geographer and cartographer Gerardus Mercator in 1569. It became the standard map projection for nautical purposes because of its ability to represent lines of constant course, known as rhumb lines or loxodromes, as straight segments that conserve the angles with the meridians. While the linear scale is equal in all directions around any point, thus preserving the angles and the shapes of small objects (which makes the projection conformal), the Mercator projection distorts the size of objects as the latitude increases from the Equator to the poles, where the scale becomes infinite. So, for example, Greenland and Antarctica appear much larger relative to land masses near the equator than they actually are.",
+			"color": "white|0.080896 smoke|0.080896 dark|0.080288 olive|0.080288 green|0.080288 snow|0.074113 alice|0.073132 blue|0.073132 ghost|0.072994 white|0.072994 white|0.072843 sea|0.071614 shell|0.071614 mint|0.071484 cream|0.071484 azure|0.068918 floral|0.06884 white|0.06884 lavender|0.059172 blush|0.059172 tan|0.03553 light|0.021891 gray|0.021891 light|0.021891 grey|0.021891 gainsboro|0.017747 linen|0.015127 silver|0.014015 dark|0.013488 gray|0.013488 dark|0.013488 grey|0.013488 dark|0.0092207 slate|0.0092207 gray|0.0092207 steel|0.0077002 blue|0.0077002 light|0.0070774 cyan|0.0070774 gray|0.0050844 grey|0.0050844  "
+		}
+	}
+}

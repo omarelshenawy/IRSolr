@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "840b80f65d86d9ae92528d362f83b6377e796422a5d70a27b7d62157bc9a0e4f",
+			"url": "https://upload.wikimedia.org/math/4/b/0/4b0b621d706f83072a9beae4c790f20d.png",
+				"previous": "An example of an eigenvalue equation where the transformation is represented in terms of a differential operator is the time-independent SchrÃ¶dinger equation in quantum mechanics:",
+				"after": "where , the Hamiltonian, is a second-order differential operator and , the wavefunction, is one of its eigenfunctions corresponding to the eigenvalue , interpreted as its energy.",
+			"color": "gray|0.30449 grey|0.30449 dark|0.25252 gray|0.25252 dark|0.25252 grey|0.25252 dim|0.16722 gray|0.16722 dim|0.16722 grey|0.16722 silver|0.12078 light|0.065877 gray|0.065877 light|0.065877 grey|0.065877 gainsboro|0.048026 white|0.010691 smoke|0.010691 linen|0.0056213 lavender|0.004567 blush|0.004567 alice|0.0044158 blue|0.0044158 ghost|0.0041928 white|0.0041928 sea|0.0039353 shell|0.0039353 snow|0.0037426  "
+		}
+	}
+}

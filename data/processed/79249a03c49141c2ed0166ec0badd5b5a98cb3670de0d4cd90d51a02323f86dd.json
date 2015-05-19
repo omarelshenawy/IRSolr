@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "79249a03c49141c2ed0166ec0badd5b5a98cb3670de0d4cd90d51a02323f86dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Geocentric_coordinates.svg/200px-Geocentric_coordinates.svg.png",
+			"previous": [],
+				"after": "The geocentric latitude Ï is the complement of the polar angle Î¸ in conventional spherical polar coordinates in which the coordinates of a point are P(r, Î¸, Î») where r is the distance of P from the centre O, Î¸ is the angle between the radius vector and the polar axis and Î» is longitude. Since the normal at a general point on the ellipsoid does not pass through the centre it is clear that points on the normal, which all have the same geodetic latitude, will have differing geocentic latitudes. Spherical polar coordinate systems are used in the analysis of the gravity field.",
+			"color": "dim|0.38458 gray|0.38458 dim|0.38458 grey|0.38458 gray|0.35368 grey|0.35368 black|0.14862 dark|0.062649 gray|0.062649 dark|0.062649 grey|0.062649 silver|0.014726 light|0.0052625 gray|0.0052625 light|0.0052625 grey|0.0052625  "
+		}
+	}
+}

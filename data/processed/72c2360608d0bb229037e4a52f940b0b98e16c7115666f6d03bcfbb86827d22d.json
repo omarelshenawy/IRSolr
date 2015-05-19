@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "72c2360608d0bb229037e4a52f940b0b98e16c7115666f6d03bcfbb86827d22d",
+			"url": "https://upload.wikimedia.org/math/0/9/b/09b4e174ef04570aad990cad78502554.png",
+				"previous": "From the heliocentric point of view consider the vector to the planet where is the distance to the planet and the direction is a unit vector. When the planet moves the directions change:",
+				"after": "where is the unit vector orthogonal to and pointing in the direction of rotation, and is the polar angle, and where a dot on top of the variable signifies differentiation with respect to time.",
+			"color": "black|0.42243 dim|0.24425 gray|0.24425 dim|0.24425 grey|0.24425 gray|0.16429 grey|0.16429 dark|0.089471 gray|0.089471 dark|0.089471 grey|0.089471 silver|0.038701 light|0.018794 gray|0.018794 light|0.018794 grey|0.018794 gainsboro|0.013429  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b76bab22df7693f5bd75b7f5cce9d40b3927f1be7e11098082901594f15cf51",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Pi-equals-circumference-over-diametre.svg/220px-Pi-equals-circumference-over-diametre.svg.png",
+				"previous": "Other types of notation are used in algebraic expressions when the required formatting is not available, or can not be implied, such as where only letters and symbols are available. For example, exponents are usually formatted using superscripts, e.g. . In plain text, and in the TeX mark-up language, the caret symbol \"^\" represents exponents, so is written as \"x^2\".[12][13] In programming languages such as Ada,[14] Fortran,[15] Perl,[16] Python [17] and Ruby,[18] a double asterisk is used, so is written as \"x**2\". Many programming languages and calculators use a single asterisk to represent the multiplication symbol,[19] and it must be explicitly used, for example, is written \"3*x\".",
+				"after": "Elementary algebra builds on and extends arithmetic[20] by introducing letters called variables to represent general (non-specified) numbers. This is useful for several reasons.",
+			"color": "black|0.91597  "
+		}
+	}
+}

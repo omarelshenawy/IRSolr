@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "63f75dc7bc73ec49983448db9726db629e6ba6ba0752facd04ed7b83b187839a",
+			"url": "https://upload.wikimedia.org/math/6/b/2/6b2c3772e956bd7d191e4e9417c49700.png",
+			"previous": [
+				"Note also that in several cases the solutions are expressed with fewer square or cube roots",
+				"Note that the sign of the square root does not affect the resulting , because changing it amounts to exchanging and . We have chosen the minus sign to have when and , in order to avoid a division by zero. With this choice, the above expression for always works, except when , where the second term becomes 0/0. In this case there is a triple root ."
+			],
+				"after": "Starting from the depressed cubic",
+			"color": "gray|0.32155 grey|0.32155 dark|0.24321 gray|0.24321 dark|0.24321 grey|0.24321 dim|0.21603 gray|0.21603 dim|0.21603 grey|0.21603 silver|0.10736 light|0.05037 gray|0.05037 light|0.05037 grey|0.05037 gainsboro|0.033817 white|0.005819 smoke|0.005819 lavender|0.0030181 blush|0.0030181 alice|0.0029303 blue|0.0029303 linen|0.0029144 ghost|0.0027773 white|0.0027773 sea|0.0026747 shell|0.0026747 snow|0.0025649  "
+		}
+	}
+}

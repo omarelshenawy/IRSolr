@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ec529372cbd09750daaf2189e581692570a5602e0afba5e216c25242cd99b6b",
+			"url": "https://upload.wikimedia.org/math/6/b/5/6b5575c56df867541d374405c58284ad.png",
+			"previous": [
+				"Another formula to compute the degree of f from its values is",
+				"This formula generalizes the concept of degree to some functions that are not polynomials. For example:"
+			],
+			"after": [
+				"(This follows from L'HÃ´pital's rule.)",
+				"For polynomials in two or more variables, the degree of a term is the sum of the exponents of the variables in the term; the degree (sometimes called the total degree) of the polynomial is again the maximum of the degrees of all terms in the polynomial. For example, the polynomial x2y2 + 3x3 + 4y has degree 4, the same degree as the term x2y2."
+			],
+			"color": "gray|0.29869 grey|0.29869 dim|0.28845 gray|0.28845 dim|0.28845 grey|0.28845 dark|0.21535 gray|0.21535 dark|0.21535 grey|0.21535 silver|0.095378 light|0.048155 gray|0.048155 light|0.048155 grey|0.048155 gainsboro|0.033017 white|0.0058108 smoke|0.0058108 linen|0.0026675  "
+		}
+	}
+}

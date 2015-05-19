@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "472c450c4693eb0a8162eeaf99b9614d9384825ef37c51e1515df23afc040794",
+			"url": "https://upload.wikimedia.org/math/f/b/7/fb79ff30783e419c7540db7eac104533.png",
+				"previous": "The preceding reasoning is not valid if vanishes identically on C. In such a case, we could allow a trial function , where c is a constant. For such a trial function,",
+				"after": "By appropriate choice of c, V can assume any value unless the quantity inside the brackets vanishes. Therefore the variational problem is meaningless unless",
+			"color": "dim|0.28409 gray|0.28409 dim|0.28409 grey|0.28409 gray|0.28233 grey|0.28233 dark|0.21917 gray|0.21917 dark|0.21917 grey|0.21917 silver|0.086378 light|0.049847 gray|0.049847 light|0.049847 grey|0.049847 gainsboro|0.039539 white|0.0078405 smoke|0.0078405 linen|0.0061122 lavender|0.0057496 blush|0.0057496 alice|0.0057045 blue|0.0057045 ghost|0.0056069 white|0.0056069 sea|0.003213 shell|0.003213 snow|0.0031623  "
+		}
+	}
+}

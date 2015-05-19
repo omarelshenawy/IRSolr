@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7529ae3633875eb7563f7ed586bda773ae1151a3ac7d1d56b04112352222d488",
+			"url": "https://upload.wikimedia.org/math/7/d/f/7dfd0f30500372580d9908a4576da9b6.png",
+				"previous": "We say that a polynomial vanishes at a point if evaluating it at that point gives zero. Let S be a set of polynomials in k[An]. The vanishing set of S (or vanishing locus or zero set) is the set V(S) of all points in An where every polynomial in S vanishes. In other words,",
+				"after": "A subset of An which is V(S), for some S, is called an algebraic set. The V stands for variety (a specific type of algebraic set to be defined below).",
+			"color": "dim|0.39727 gray|0.39727 dim|0.39727 grey|0.39727 gray|0.28006 grey|0.28006 dark|0.16642 gray|0.16642 dark|0.16642 grey|0.16642 silver|0.075861 light|0.037434 gray|0.037434 light|0.037434 grey|0.037434 gainsboro|0.025795 white|0.0038103 smoke|0.0038103  "
+		}
+	}
+}

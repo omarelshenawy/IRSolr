@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "70eb7239be12081ffc0186dd8817356660804a97af5f67187c96e83892917343",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Imaginary2Root.svg/220px-Imaginary2Root.svg.png",
+				"previous": "For every non-zero complex number z there exist precisely two numbers w such that w2 = z: the principal square root of z (defined below), and its negative.",
+			"after": [
+				"The square root of i is given by",
+				"This result can be obtained algebraically by finding a and b such that"
+			],
+			"color": "gray|0.56778 grey|0.56778 dim|0.35327 gray|0.35327 dim|0.35327 grey|0.35327 medium|0.036683 blue|0.036683 dark|0.019936 gray|0.019936 dark|0.019936 grey|0.019936 slate|0.013955 blue|0.013955 royal|0.0051834 blue|0.0051834  "
+		}
+	}
+}

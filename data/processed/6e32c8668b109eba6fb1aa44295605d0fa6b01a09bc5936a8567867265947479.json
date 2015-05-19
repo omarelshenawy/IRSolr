@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e32c8668b109eba6fb1aa44295605d0fa6b01a09bc5936a8567867265947479",
+			"url": "https://upload.wikimedia.org/math/6/2/6/626e878b64f896c7be8d52bb6e9fe46a.png",
+				"previous": "The minimizing u must also satisfy the natural boundary condition",
+				"after": "on the boundary B. This result depends upon the regularity theory for elliptic partial differential equations; see Jost and Li-Jost (1998) for details. Many extensions, including completeness results, asymptotic properties of the eigenvalues and results concerning the nodes of the eigenfunctions are in Courant and Hilbert (1953).",
+			"color": "dim|0.33583 gray|0.33583 dim|0.33583 grey|0.33583 gray|0.31638 grey|0.31638 dark|0.19007 gray|0.19007 dark|0.19007 grey|0.19007 silver|0.079479 light|0.036487 gray|0.036487 light|0.036487 grey|0.036487 gainsboro|0.025061 white|0.0043217 smoke|0.0043217  "
+		}
+	}
+}

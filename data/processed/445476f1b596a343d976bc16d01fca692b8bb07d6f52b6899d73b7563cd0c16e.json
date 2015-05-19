@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "445476f1b596a343d976bc16d01fca692b8bb07d6f52b6899d73b7563cd0c16e",
+			"url": "https://upload.wikimedia.org/math/0/1/b/01b6a436312001ed03cdfe08aa75de97.png",
+			"previous": [
+				"which simplifies to",
+				"Adding the two equations together to get:"
+			],
+			"after": [
+				"Using this value in one of the equations, the same solution as in the previous method is obtained.",
+				"Note that this is not the only way to solve this specific system; could have been solved before ."
+			],
+			"color": "black|0.42029 dim|0.25252 gray|0.25252 dim|0.25252 grey|0.25252 gray|0.16253 grey|0.16253 dark|0.086365 gray|0.086365 dark|0.086365 grey|0.086365 silver|0.036016 light|0.017947 gray|0.017947 light|0.017947 grey|0.017947 gainsboro|0.012693  "
+		}
+	}
+}

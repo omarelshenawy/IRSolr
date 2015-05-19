@@ -1,0 +1,22 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a5e8d4b3bd75aa87e3a7c4353332f830400a0da71cd40bebaacacd8651fddc0",
+			"url": "https://upload.wikimedia.org/math/b/c/1/bc14ddb9f8eb8bef8ed470f430b2ad95.png",
+			"previous": [
+				"Therefore the blade efficiency is given by",
+				"Work done (for unit mass flow per second):",
+				"",
+				"",
+				"From the inlet velocity triangle we have"
+			],
+			"after": [
+				"Condition of maximum blade efficiency",
+				"If , then",
+				"",
+				"For maximum efficiency , we get"
+			],
+			"color": "gray|0.28892 grey|0.28892 dark|0.24376 gray|0.24376 dark|0.24376 grey|0.24376 dim|0.22571 gray|0.22571 dim|0.22571 grey|0.22571 silver|0.11822 light|0.06013 gray|0.06013 light|0.06013 grey|0.06013 gainsboro|0.041567 white|0.0053208 smoke|0.0053208 linen|0.0028391  "
+		}
+	}
+}

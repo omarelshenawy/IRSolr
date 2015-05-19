@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "632355a52463ff25b6d7a58434efaeb00e335b098a18ea2374695862b076974b",
+			"url": "https://upload.wikimedia.org/math/4/a/7/4a79dc5cfa0babecb63633e42d60ad91.png",
+			"previous": [
+				"We then substitute this value for into the other equation:",
+				"",
+				"The intersection of and can be found by solving the simultaneous equations:",
+				"For example, might be the circle with radius 1 and center : and might be the circle with radius 1 and center . The intersection of these two circles is the collection of points which make both equations true. Does the point make both equations true? Using for , the equation for becomes or which is true, so is in the relation . On the other hand, still using for the equation for becomes or which is false. is not in so it is not in the intersection."
+			],
+			"after": [
+				"",
+				"",
+				"",
+				"We next place this value of in either of the original equations and solve for :"
+			],
+			"color": "dim|0.35838 gray|0.35838 dim|0.35838 grey|0.35838 gray|0.2674 grey|0.2674 dark|0.18223 gray|0.18223 dark|0.18223 grey|0.18223 silver|0.09179 light|0.047544 gray|0.047544 light|0.047544 grey|0.047544 gainsboro|0.034457 white|0.0048768 smoke|0.0048768  "
+		}
+	}
+}

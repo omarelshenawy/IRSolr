@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "1ec9e5010d34beef817b1fc1974f9245e4fb35e6ab29548ed2ae841d365bb222",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mjollnir_icon.png/150px-Mjollnir_icon.png",
+			"previous": [
+				"Portal:History/Subportals/5",
+				"For the old version, before this section was randomized, see this oldid and older versions of this page.",
+				"Added portals should already be noted in the {{History browsebar}} located at the top of the portal, as it contains all of the portals on historical topics. Added portals should be added to the next available slot, and the max= parameter on this section's {{Random portal component}} on the Portal should be incremented to reflect the change. Your addition should contain a (well-sourced) quote encapsulating the essence of the portal's topic."
+			],
+			"after": [],
+			"color": " "
+		}
+	}
+}

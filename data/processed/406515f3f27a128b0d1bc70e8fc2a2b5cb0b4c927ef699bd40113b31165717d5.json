@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "406515f3f27a128b0d1bc70e8fc2a2b5cb0b4c927ef699bd40113b31165717d5",
+			"url": "https://upload.wikimedia.org/math/1/9/9/19900874da6d838d229ab71cb3f79e00.png",
+			"previous": [
+				"the entropy per normal mode is:",
+				"By knowing the thermodynamic formula,",
+				"The term (1/2)hÏ represents the \"zero-point energy\", or the energy which an oscillator will have at absolute zero. EÂ (Î½Â ) tends to the classic value kT at high temperatures"
+			],
+			"after": [
+				"The free energy is:",
+				"which, for kTÂ >> hÎ½, tends to:",
+				"",
+				"In order to calculate the internal energy and the specific heat, we must know the number of normal vibrational modes a frequency between the values Î½ and Î½Â + dÎ½. Allow this number to be fÂ (Î½)dÎ½. Since the total number of normal modes is 3N, the function fÂ (Î½) is given by:"
+			],
+			"color": "gray|0.30325 grey|0.30325 dim|0.29644 gray|0.29644 dim|0.29644 grey|0.29644 dark|0.19999 gray|0.19999 dark|0.19999 grey|0.19999 silver|0.09508 light|0.047271 gray|0.047271 light|0.047271 grey|0.047271 gainsboro|0.034193 white|0.0065907 smoke|0.0065907 linen|0.0028783  "
+		}
+	}
+}

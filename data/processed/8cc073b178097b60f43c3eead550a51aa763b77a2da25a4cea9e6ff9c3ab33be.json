@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cc073b178097b60f43c3eead550a51aa763b77a2da25a4cea9e6ff9c3ab33be",
+			"url": "https://upload.wikimedia.org/math/c/e/4/ce407038cdf4d9e67cb24a3276ed96c4.png",
+			"previous": [
+				"Constants:",
+				"Nozzle thrust coefficient,",
+				"Jetpipe pressure loss 1%, so the jetpipe pressure ratio"
+			],
+			"after": [
+				"Ratio of specific heats for combustion products,",
+				"Specific heat at constant pressure for air,",
+				"(use 1.004646Â kWÂ·s/(kgÂ·K) when working with SI units and use 0.3395Â hpÂ·s/(lbÂ·Â°R) if working with American units)"
+			],
+			"color": "dim|0.36357 gray|0.36357 dim|0.36357 grey|0.36357 gray|0.25793 grey|0.25793 dark|0.19139 gray|0.19139 dark|0.19139 grey|0.19139 silver|0.095751 light|0.041996 gray|0.041996 light|0.041996 grey|0.041996 gainsboro|0.028633 white|0.0049576 smoke|0.0049576  "
+		}
+	}
+}

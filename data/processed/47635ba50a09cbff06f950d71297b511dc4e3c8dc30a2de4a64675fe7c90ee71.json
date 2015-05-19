@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "47635ba50a09cbff06f950d71297b511dc4e3c8dc30a2de4a64675fe7c90ee71",
+			"url": "https://upload.wikimedia.org/math/8/2/d/82d1695c5a590990396c60e945a4a04a.png",
+				"previous": "Algebraic number theory is a special case of group theory, thereby following the rules of the latter. For example, Euler's product formula",
+				"after": "captures the fact that any integer decomposes in a unique way into primes. The failure of this statement for more general rings gives rise to class groups and regular primes, which feature in Kummer's treatment of Fermat's Last Theorem.",
+			"color": "dim|0.42257 gray|0.42257 dim|0.42257 grey|0.42257 gray|0.27292 grey|0.27292 dark|0.15251 gray|0.15251 dark|0.15251 grey|0.15251 silver|0.07152 light|0.036454 gray|0.036454 light|0.036454 grey|0.036454 gainsboro|0.026223 white|0.003817 smoke|0.003817  "
+		}
+	}
+}

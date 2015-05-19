@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c19be988bbd2790e65bc8e76e2d83c853bda859098f0df1d2c47093934dd8fb",
+			"url": "https://upload.wikimedia.org/math/9/3/d/93d059afc6942b4e72fda153df7104b3.png",
+			"previous": [
+				"The degree of the product of two polynomials over a field or an integral domain is the sum of their degrees",
+				"The set of polynomials with coefficients from a given field F and degree smaller than or equal to a given number n thus forms a vector space. (Note, however, that this set is not a ring, as it is not closed under multiplication, as is seen below.)"
+			],
+				"after": "E.g.",
+			"color": "gray|0.31428 grey|0.31428 dim|0.28662 gray|0.28662 dim|0.28662 grey|0.28662 dark|0.2164 gray|0.2164 dark|0.2164 grey|0.2164 silver|0.093623 light|0.04306 gray|0.04306 light|0.04306 grey|0.04306 gainsboro|0.028709 white|0.0045057 smoke|0.0045057  "
+		}
+	}
+}

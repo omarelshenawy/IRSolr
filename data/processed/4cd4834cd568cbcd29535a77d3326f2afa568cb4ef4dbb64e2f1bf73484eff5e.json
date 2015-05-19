@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4cd4834cd568cbcd29535a77d3326f2afa568cb4ef4dbb64e2f1bf73484eff5e",
+			"url": "https://upload.wikimedia.org/math/5/d/f/5dfa932b62b3697352a63c102ef69647.png",
+				"previous": "The function y(Ï) is plotted alongside Ï for the case R=1: it tends to infinity at the poles. The linear y-axis values are not usually shown on printed maps; instead some maps show the non-linear scale of latitude values on the right. More often than not the maps show only a graticule of selected meridians and parallels",
+				"after": "The expression on the right of the second equation defines the Gudermannian function; i.e., Ï=gd(y/R): the direct equation may therefore be written as y=R.gdâ1(Ï).[11]",
+			"color": "dim|0.40245 gray|0.40245 dim|0.40245 grey|0.40245 gray|0.26656 grey|0.26656 dark|0.17586 gray|0.17586 dark|0.17586 grey|0.17586 silver|0.07535 light|0.034864 gray|0.034864 light|0.034864 grey|0.034864 gainsboro|0.023834 white|0.0043183 smoke|0.0043183  "
+		}
+	}
+}

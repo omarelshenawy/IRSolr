@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "2733307b84a3847b6c4c448599de6ea75d4c75ebc5d99518aa9b00e0e0dbcc0d",
+			"url": "https://upload.wikimedia.org/math/d/4/e/d4e8e99357a21312842c24c51956fc7d.png",
+				"previous": "with",
+			"after": [
+				"Because changes sign when and are interchanged and because the initial factor, , is constant under this interchange, half the terms in the expansions of vanish.",
+				"The series can be expressed with either or as the initial factor by writing, for example, , and expanding the result as a series in . Even though this results in more slowly converging series, such series are used in the specification for the transverse Mercator projection by the National Geospatial Intelligence Agency[14] and the Ordnance Survey of Great Britain.[15]"
+			],
+			"color": "dim|0.33225 gray|0.33225 dim|0.33225 grey|0.33225 gray|0.27408 grey|0.27408 dark|0.19418 gray|0.19418 dark|0.19418 grey|0.19418 silver|0.095894 light|0.040849 gray|0.040849 light|0.040849 grey|0.040849 gainsboro|0.030631 black|0.010393 white|0.0046477 smoke|0.0046477  "
+		}
+	}
+}

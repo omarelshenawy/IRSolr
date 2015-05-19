@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "83ae28a9f4cfa6ecdb9a3345248d36b7b1388151a643beb1e167b991e43fabf8",
+			"url": "https://upload.wikimedia.org/math/3/7/0/370aacb8005eaa674d957fe4eb8dad74.png",
+			"previous": [
+				"is maximum when or, . That implies and therefore . Now (for a single stage impulse turbine)",
+				"The ratio of the blade speed to the absolute steam velocity at the inlet is termed the blade speed ratio ="
+			],
+			"after": [
+				"We get: .",
+				"For equiangular blades, , therefore , and we get . If the friction due to the blade surface is neglected then ."
+			],
+			"color": "dim|0.36742 gray|0.36742 dim|0.36742 grey|0.36742 gray|0.2851 grey|0.2851 dark|0.17953 gray|0.17953 dark|0.17953 grey|0.17953 silver|0.082808 light|0.040767 gray|0.040767 light|0.040767 grey|0.040767 gainsboro|0.028965 white|0.0035688 smoke|0.0035688  "
+		}
+	}
+}

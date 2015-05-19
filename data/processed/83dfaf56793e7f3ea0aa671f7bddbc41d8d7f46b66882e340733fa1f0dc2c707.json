@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "83dfaf56793e7f3ea0aa671f7bddbc41d8d7f46b66882e340733fa1f0dc2c707",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Fomenko_-_Roman_Empire_parallelism.jpg/220px-Fomenko_-_Roman_Empire_parallelism.jpg",
+			"previous": [],
+				"after": "In a somewhat similar manner, Fomenko compares two dynasties of rulers using statistical methods. First, he creates a database of rulers, containing relevant information on each of them. Then, he creates \"survey codes\" for each pair of the rulers, which contain a number which describes degree of the match of each considered property of two rulers. For example, one of the properties is the way of death: if two rulers were both poisoned, they get value of +1 in their property of the way of death; if one ruler was poisoned and another killed in combat, they get -1; and if one was poisoned, and another died of illness, they get 0 (Fomenko claims there is possibility that chroniclers were not impartial and that different descriptions nonetheless describe the same person). An important property is the length of the rule.[24]",
+			"color": "gray|0.32379 grey|0.32379 dim|0.27731 gray|0.27731 dim|0.27731 grey|0.27731 dark|0.18708 gray|0.18708 dark|0.18708 grey|0.18708 slate|0.062832 gray|0.062832 silver|0.051295 light|0.042746 slate|0.042746 gray|0.042746 black|0.016932 light|0.01162 gray|0.01162 light|0.01162 grey|0.01162 thistle|0.0074701 gainsboro|0.0058101  "
+		}
+	}
+}

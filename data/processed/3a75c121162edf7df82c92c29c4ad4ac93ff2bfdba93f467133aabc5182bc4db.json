@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a75c121162edf7df82c92c29c4ad4ac93ff2bfdba93f467133aabc5182bc4db",
+			"url": "https://upload.wikimedia.org/math/7/5/d/75d74aafb24d56cb4f052aba08f3a75f.png",
+			"previous": [
+				"The general form of a standing wave is:",
+				""
+			],
+			"after": [
+				"where Æ(x,Â y,Â z) represents the dependence of amplitude on location and the cosine\\sine are the oscillations in time.",
+				"Physically, standing waves are formed by the interference (superposition) of waves and their reflections (although one may also say the opposite; that a moving wave is a superposition of standing waves). The geometric shape of the medium determines what would be the interference pattern, thus determines the Æ(x, y,Â z) form of the standing wave. This space-dependence is called a normal mode."
+			],
+			"color": "gray|0.32433 grey|0.32433 dim|0.2983 gray|0.2983 dim|0.2983 grey|0.2983 dark|0.20954 gray|0.20954 dark|0.20954 grey|0.20954 silver|0.083934 light|0.038304 gray|0.038304 light|0.038304 grey|0.038304 gainsboro|0.0263 white|0.0047574 smoke|0.0047574  "
+		}
+	}
+}

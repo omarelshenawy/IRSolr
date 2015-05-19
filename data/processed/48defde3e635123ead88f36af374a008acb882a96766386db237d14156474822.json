@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "48defde3e635123ead88f36af374a008acb882a96766386db237d14156474822",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mode_7_Test-0000.png/220px-Mode_7_Test-0000.png",
+				"previous": "Background layers in most modes range from 32 x 32 to 64 Ã 64 tiles, each of size 8 x 8 or 16 x 16 pixels, with each tile on one of two planes (\"foreground\" and \"background\") and using one of 8 palettes. Tiles are taken from a per-layer set of up to 1024 (as VRAM permits) and can be flipped horizontally and vertically. Each layer may be scrolled both horizontally and vertically. The number of background layers and the size of the palettes depends on the mode:[50][51]",
+				"after": "Background layers may be individually pixelized, and layers and sprites can be individually clipped and combined by color addition or subtraction to generate more complex effects and greater color depths than can be specified directly.[50]",
+			"color": " "
+		}
+	}
+}

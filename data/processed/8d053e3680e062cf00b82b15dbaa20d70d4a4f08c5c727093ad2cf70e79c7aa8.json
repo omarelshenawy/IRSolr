@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d053e3680e062cf00b82b15dbaa20d70d4a4f08c5c727093ad2cf70e79c7aa8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/CTWristImage.png/220px-CTWristImage.png",
+			"previous": [],
+			"after": [
+				"Volume rendering is a technique used to display a 2D projection of a 3D discretely sampled data set. A typical 3D data set is a group of 2D slice images acquired by a CT or MRI scanner.",
+				"Usually these are acquired in a regular pattern (e.g., one slice every millimeter) and usually have a regular number of image pixels in a regular pattern. This is an example of a regular volumetric grid, with each volume element, or voxel represented by a single value that is obtained by sampling the immediate area surrounding the voxel."
+			],
+			"color": "peru|0.22575 chocolate|0.2203 dark|0.10475 golden|0.10475 rod|0.10475 tan|0.04166 burly|0.038657 wood|0.038657 wheat|0.036128 antique|0.024279 white|0.024279 sea|0.022553 shell|0.022553 floral|0.022181 white|0.022181 white|0.020396 smoke|0.020396 snow|0.019377 mint|0.018234 cream|0.018234 white|0.017928 ghost|0.015803 white|0.015803 azure|0.014683 linen|0.014669 alice|0.014331 blue|0.014331 lavender|0.012457 blush|0.012457 blanched|0.011338 almond|0.011338 old|0.011257 lace|0.011257 papaya|0.0098959 whip|0.0098959 bisque|0.0093497 beige|0.0084031 golden|0.0078129 rod|0.0078129 ivory|0.0077681 dark|0.0069322 khaki|0.0069322  "
+		}
+	}
+}

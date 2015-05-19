@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f56cd88984a5dc20f6ea234fc8ef3dd3546f89c61130a6bc30872252d359b64",
+			"url": "https://upload.wikimedia.org/math/a/d/d/addab64900cb5ec8eeaa1c21b9becf0d.png",
+				"previous": "It is often sufficient to consider only small displacements of the membrane, whose energy difference from no displacement is approximated by",
+				"after": "The functional V is to be minimized among all trial functions Ï that assume prescribed values on the boundary of D. If u is the minimizing function and v is an arbitrary smooth function that vanishes on the boundary of D, then the first variation of must vanish:",
+			"color": "dim|0.38349 gray|0.38349 dim|0.38349 grey|0.38349 gray|0.28224 grey|0.28224 dark|0.17787 gray|0.17787 dark|0.17787 grey|0.17787 silver|0.075392 light|0.034046 gray|0.034046 light|0.034046 grey|0.034046 gainsboro|0.024747 white|0.0047419 smoke|0.0047419  "
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a9ceabd7b73fa3cc55a8fd294653ff758aafc45626b84d78563a71d3c2c0d83",
+			"url": "https://upload.wikimedia.org/math/7/f/0/7f00d9b07f299d16b10f92f614ed4806.png",
+			"previous": [
+				"where is the zero-fuel weight and the weight of the fuel, the fuel consumption rate per unit time is equal to",
+				"= ,",
+				"If the total weight of the aircraft at a particular time is"
+			],
+			"after": [
+				"The rate of change of aircraft weight with distance is",
+				",",
+				"where is the speed, so that"
+			],
+			"color": "black|0.99927  "
+		}
+	}
+}

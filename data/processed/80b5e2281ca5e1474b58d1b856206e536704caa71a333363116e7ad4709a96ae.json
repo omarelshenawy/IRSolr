@@ -1,0 +1,28 @@
+{
+	"add": {
+		"doc": {
+			"id": "80b5e2281ca5e1474b58d1b856206e536704caa71a333363116e7ad4709a96ae",
+			"url": "https://upload.wikimedia.org/math/d/0/b/d0b776243487744275951ba96acb2e36.png",
+			"previous": [
+				"",
+				"",
+				"",
+				"Assuming the nozzle is choked, the nozzle static temperature is calculated as follows:",
+				"The following calculation method is only suitable for choked nozzles.",
+				"If then the nozzle is UNCHOKED.",
+				"If then the nozzle is CHOKED."
+			],
+			"after": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"NOTE: inclusion of 144 inÂ²/ftÂ² to obtain density in lb/ftÂ³."
+			],
+			"color": "dim|0.36625 gray|0.36625 dim|0.36625 grey|0.36625 gray|0.28434 grey|0.28434 dark|0.16355 gray|0.16355 dark|0.16355 grey|0.16355 silver|0.065986 black|0.057609 light|0.030342 gray|0.030342 light|0.030342 grey|0.030342 gainsboro|0.020794  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "365d8a1788e325612b78d89736675985d8de5287bccafe8bd8355faf9eaebf7d",
+			"url": "https://upload.wikimedia.org/math/3/1/f/31fc082dc817e0d66c08159ab493593e.png",
+				"previous": "Just as the geometric derivative is defined over the entire n-dimensional space, we may wish to define an intrinsic derivative , locally defined on the manifold:",
+				"after": "(Note: The right hand side of the above may not lie in the tangent space to the manifold. Therefore it is not the same as , which necessarily does lie in the tangent space.)",
+			"color": "dim|0.33976 gray|0.33976 dim|0.33976 grey|0.33976 gray|0.31738 grey|0.31738 dark|0.20295 gray|0.20295 dark|0.20295 grey|0.20295 silver|0.075124 light|0.029705 gray|0.029705 light|0.029705 grey|0.029705 gainsboro|0.020261 white|0.0038106 smoke|0.0038106  "
+		}
+	}
+}

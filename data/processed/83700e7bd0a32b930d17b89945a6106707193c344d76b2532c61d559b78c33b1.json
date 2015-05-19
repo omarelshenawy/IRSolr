@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "83700e7bd0a32b930d17b89945a6106707193c344d76b2532c61d559b78c33b1",
+			"url": "https://upload.wikimedia.org/math/0/d/e/0de4a49ef29acab04280c90e9079113f.png",
+			"previous": [
+				"Jet engines are characterized by a thrust specific fuel consumption, so that rate of fuel flow is proportional to drag, rather than power.",
+				""
+			],
+			"after": [
+				"Using the lift equation,",
+				"where is the air density, and S the wing area."
+			],
+			"color": "dim|0.3556 gray|0.3556 dim|0.3556 grey|0.3556 gray|0.26887 grey|0.26887 dark|0.19472 gray|0.19472 dark|0.19472 grey|0.19472 silver|0.086029 light|0.046501 gray|0.046501 light|0.046501 grey|0.046501 gainsboro|0.031028 white|0.0045897 smoke|0.0045897  "
+		}
+	}
+}

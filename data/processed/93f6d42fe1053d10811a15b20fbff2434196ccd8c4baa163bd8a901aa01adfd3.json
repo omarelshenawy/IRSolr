@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "93f6d42fe1053d10811a15b20fbff2434196ccd8c4baa163bd8a901aa01adfd3",
+			"url": "https://upload.wikimedia.org/math/0/5/a/05a0b20d1b32556f61b2f48f193137d9.png",
+				"previous": "which implies that the function f is entirely determined by the vectors f(v1), ..., f(vn). Now let {w1, ..., wm} be a basis for W. Then we can represent each vector f(vj) as",
+				"after": "Thus, the function f is entirely determined by the values of aij. If we put these values into an m Ã n matrix M, then we can conveniently use it to compute the vector output of f for any vector in V. To get M, every column j of M is a vector",
+			"color": "dim|0.41972 gray|0.41972 dim|0.41972 grey|0.41972 gray|0.26766 grey|0.26766 dark|0.16111 gray|0.16111 dark|0.16111 grey|0.16111 silver|0.07225 light|0.036731 gray|0.036731 light|0.036731 grey|0.036731 gainsboro|0.025211 white|0.0040596 smoke|0.0040596  "
+		}
+	}
+}

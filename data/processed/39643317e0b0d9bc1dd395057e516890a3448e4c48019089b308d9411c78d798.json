@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "39643317e0b0d9bc1dd395057e516890a3448e4c48019089b308d9411c78d798",
+			"url": "https://upload.wikimedia.org/math/1/9/6/1966560affba628cbf253610da219163.png",
+				"previous": "Assume that s > 1 is the smallest positive integer which is the product of prime numbers in two different ways. If s were prime then it would factor uniquely as itself, so there must be at least two primes in each factorization of s:",
+				"after": "If any pi = qj then, by cancellation, s/pi = s/qj would be a positive integer greater than 1 with two distinct factorizations. But s/pi is smaller than s, meaning s would not actually be the smallest such integer. Therefore every pi must be distinct from every qj.",
+			"color": " "
+		}
+	}
+}

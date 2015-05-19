@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b09b4f7a37825273396649f976abf18dfefa0e48523b6a80259972e6eb3222d",
+			"url": "https://upload.wikimedia.org/math/7/8/5/785822ad0d53c17c04fd8f1008b38743.png",
+				"previous": "The formula for determining time dilation in special relativity is:",
+				"after": "where Ît is the time interval between two co-local events (i.e. happening at the same place) for an observer in some inertial frame (e.g. ticks on his clock), known as the proper time, Îtâ² is the time interval between those same events, as measured by another observer, inertially moving with velocity v with respect to the former observer, v is the relative velocity between the observer and the moving clock, c is the speed of light, and the Lorentz factor (conventionally denoted by the Greek letter gamma or Î³) is",
+			"color": "dim|0.4064 gray|0.4064 dim|0.4064 grey|0.4064 gray|0.27573 grey|0.27573 dark|0.17537 gray|0.17537 dark|0.17537 grey|0.17537 silver|0.073172 light|0.036991 gray|0.036991 light|0.036991 grey|0.036991 gainsboro|0.022401  "
+		}
+	}
+}

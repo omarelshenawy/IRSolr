@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "1da365ea5597fac62da0f79f626bb53d58dd99c20f6495f424fedaed5eff53f9",
+			"url": "https://upload.wikimedia.org/math/c/f/c/cfc2ae21d61fbfc0ed3a41c536779e67.png",
+			"previous": [
+				"Design component performance assumptions:",
+				"(factor-up by 1.8, if working with degrees Rankine)",
+				"Turbine rotor inlet temperature,"
+			],
+			"after": [
+				"Compressor polytropic efficiency,",
+				"Turbine polytropic efficiency,",
+				"Combustor pressure loss 5%, so the combustor pressure ratio"
+			],
+			"color": "dim|0.56187 gray|0.56187 dim|0.56187 grey|0.56187 gray|0.35271 grey|0.35271 dark|0.079001 gray|0.079001 dark|0.079001 grey|0.079001 silver|0.0064247  "
+		}
+	}
+}

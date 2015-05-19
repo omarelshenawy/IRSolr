@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "76cb12758537a5de29c886eefd94fb2da9ed9c3153d8518d3e291279a98ce9fc",
+			"url": "https://upload.wikimedia.org/math/b/7/d/b7d2bd7fbc68bf644435d08b70697295.png",
+			"previous": [
+				"such that",
+				"However, this only helps us with first order initial value problems. Suppose we had a linear initial value problem of the nth order:"
+			],
+			"after": [
+				"For any nonzero , if and are continuous on some interval containing , is unique and exists.",
+				"[11]"
+			],
+			"color": "black|0.3126 dim|0.29122 gray|0.29122 dim|0.29122 grey|0.29122 gray|0.19526 grey|0.19526 dark|0.11407 gray|0.11407 dark|0.11407 grey|0.11407 silver|0.04519 light|0.019634 gray|0.019634 light|0.019634 grey|0.019634 gainsboro|0.013197  "
+		}
+	}
+}

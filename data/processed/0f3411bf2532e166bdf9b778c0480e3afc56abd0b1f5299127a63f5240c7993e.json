@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f3411bf2532e166bdf9b778c0480e3afc56abd0b1f5299127a63f5240c7993e",
+			"url": "https://upload.wikimedia.org/math/e/1/1/e11729b0b65ecade3fc272548a3883fc.png",
+				"previous": "Consider the following notation:",
+			"after": [
+				"Similarly, the notation",
+				"asks for the maximum value of the objective function 2x, where x may be any real number. In this case, there is no such maximum as the objective function is unbounded, so the answer is \"infinity\" or \"undefined\"."
+			],
+			"color": "black|0.56934 dim|0.17412 gray|0.17412 dim|0.17412 grey|0.17412 gray|0.11719 grey|0.11719 dark|0.065293 gray|0.065293 dark|0.065293 grey|0.065293 silver|0.033036 light|0.018613 gray|0.018613 light|0.018613 grey|0.018613 gainsboro|0.013057  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "19ae31442df7ec9f647e0c8bbc409b258a9f76cf5d455bdf1581d5c42aa0dd30",
+			"url": "https://upload.wikimedia.org/math/8/8/e/88e11cb4702149e1c02ee417f498a721.png",
+				"previous": "The ISSN of the journal Hearing Research, for example, is 0378-5955, where the final 5 is the check digit, that is C=5. To calculate the check digit, the following algorithm may be used:",
+				"after": "To confirm the check digit, calculate the sum of all eight digits of the ISSN multiplied by its position in the number, counting from the right (if the check digit is X, then add 10 to the sum). The modulus 11 of the sum must be 0.",
+			"color": "black|0.99852  "
+		}
+	}
+}

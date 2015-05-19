@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8bd2b6d94e35000c1c6555030e589828ca1e13474692214dd99f4f8b7d1cd914",
+			"url": "https://upload.wikimedia.org/math/0/0/6/0069fd5cf07098f5022e7b98d242e05b.png",
+				"previous": "If is an eigenvalue of , then the operator is not one-to-one, and therefore its inverse does not exist. The converse is true for finite-dimensional vector spaces, but not for infinite-dimensional ones. In general, the operator may not have an inverse, even if is not an eigenvalue.",
+			"after": [],
+			"color": "dim|0.3336 gray|0.3336 dim|0.3336 grey|0.3336 gray|0.27042 grey|0.27042 dark|0.18533 gray|0.18533 dark|0.18533 grey|0.18533 silver|0.097037 light|0.054493 gray|0.054493 light|0.054493 grey|0.054493 gainsboro|0.038202 white|0.0047532 smoke|0.0047532  "
+		}
+	}
+}

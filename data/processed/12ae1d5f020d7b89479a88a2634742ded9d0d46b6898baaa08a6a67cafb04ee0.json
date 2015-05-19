@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "12ae1d5f020d7b89479a88a2634742ded9d0d46b6898baaa08a6a67cafb04ee0",
+			"url": "https://upload.wikimedia.org/math/0/c/f/0cf28d29fb778a9f0c8c0e7c9962e8ec.png",
+				"previous": "The observed velocities predicted by the MichaelisâMenten equation can be used to directly model the time course disappearance of substrate and the production of product through incorporation of the MichaelisâMenten equation into the equation for first order chemical kinetics. This can only be achieved however if one recognises the problem associated with the use of Euler's number in the description of first order chemical kinetics. i.e. eâk is a split constant that introduces a systematic error into calculations and can be rewritten as a single constant which represents the remaining substrate after each time period.[11]",
+			"after": [],
+			"color": "dim|0.31716 gray|0.31716 dim|0.31716 grey|0.31716 gray|0.2629 grey|0.2629 dark|0.18021 gray|0.18021 dark|0.18021 grey|0.18021 silver|0.090924 light|0.05674 gray|0.05674 light|0.05674 grey|0.05674 gainsboro|0.043746 white|0.011445 smoke|0.011445 linen|0.0058188 lavender|0.0056512 blush|0.0056512 alice|0.0055915 blue|0.0055915 ghost|0.0055035 white|0.0055035 sea|0.0054247 shell|0.0054247 snow|0.0047158  "
+		}
+	}
+}

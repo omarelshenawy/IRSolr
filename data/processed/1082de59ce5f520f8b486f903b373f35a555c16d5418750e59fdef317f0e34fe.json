@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1082de59ce5f520f8b486f903b373f35a555c16d5418750e59fdef317f0e34fe",
+			"url": "https://upload.wikimedia.org/math/5/c/7/5c782a625dd6a13180320bfefe087689.png",
+				"previous": "where 1 â¤ i â¤ m and 1 â¤ j â¤ p.[12] For example, the underlined entry 2340 in the product is calculated as (2 Ã 1000) + (3 Ã 100) + (4 Ã 10) = 2340:",
+				"after": "Matrix multiplication satisfies the rules (AB)C = A(BC) (associativity), and (A+B)C = AC+BC as well as C(A+B) = CA+CB (left and right distributivity), whenever the size of the matrices is such that the various products are defined.[13] The product AB may be defined without BA being defined, namely if A and B are m-by-n and n-by-k matrices, respectively, and m â  k. Even if both products are defined, they need not be equal, i.e., generally",
+			"color": "gray|0.27869 grey|0.27869 dark|0.26534 gray|0.26534 dark|0.26534 grey|0.26534 dim|0.2313 gray|0.2313 dim|0.2313 grey|0.2313 silver|0.10124 light|0.059749 gray|0.059749 light|0.059749 grey|0.059749 gainsboro|0.036414 white|0.0057324 smoke|0.0057324 linen|0.0036812 lavender|0.0033123 blush|0.0033123 alice|0.003275 blue|0.003275 ghost|0.0032439 white|0.0032439 sea|0.0032172 shell|0.0032172 snow|0.0031822  "
+		}
+	}
+}

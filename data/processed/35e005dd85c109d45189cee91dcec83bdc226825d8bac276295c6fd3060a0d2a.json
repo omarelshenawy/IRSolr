@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "35e005dd85c109d45189cee91dcec83bdc226825d8bac276295c6fd3060a0d2a",
+			"url": "https://upload.wikimedia.org/math/a/0/f/a0f3340a3ef4abbc50a1b303ec2b8787.png",
+			"previous": [
+				"intake mass flow rate",
+				"where:",
+				"",
+				"A high specific thrust engine has a high jet velocity by definition, as the following approximate equation for net thrust implies:[1]"
+			],
+			"after": [
+				"aircraft flight velocity",
+				"Rearranging the above equation, specific thrust is given by:",
+				"",
+				"So for zero flight velocity, specific thrust is directly proportional to jet velocity."
+			],
+			"color": "dim|0.44229 gray|0.44229 dim|0.44229 grey|0.44229 gray|0.26491 grey|0.26491 dark|0.15494 gray|0.15494 dark|0.15494 grey|0.15494 silver|0.064813 light|0.033119 gray|0.033119 light|0.033119 grey|0.033119 gainsboro|0.022997 white|0.004332 smoke|0.004332  "
+		}
+	}
+}

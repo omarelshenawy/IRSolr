@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "14ad4a14120d693dc9a737f182001dba737462d2b669b2fb0be6e844528fba5d",
+			"url": "https://upload.wikimedia.org/math/2/c/9/2c96ca829f432364ccc0ce0d365e1719.png",
+				"previous": "Suppose that x0, x1 and x2 are the roots of equation (1) or (2), and define (a complex cube root of 1, i.e. a primitive third root of unity) which satisfies the relation . We now set",
+				"after": "This is the discrete Fourier transform of the roots: observe that while the coefficients of the polynomial are symmetric in the roots, in this formula an order has been chosen on the roots, so these are not symmetric in the roots. The roots may then be recovered from the three si by inverting the above linear transformation via the inverse discrete Fourier transform, giving",
+			"color": "black|0.32305 dim|0.26199 gray|0.26199 dim|0.26199 grey|0.26199 gray|0.17864 grey|0.17864 dark|0.11782 gray|0.11782 dark|0.11782 grey|0.11782 silver|0.056329 light|0.029604 gray|0.029604 light|0.029604 grey|0.029604 gainsboro|0.02095  "
+		}
+	}
+}

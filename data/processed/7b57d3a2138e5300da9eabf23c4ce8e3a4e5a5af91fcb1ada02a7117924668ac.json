@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b57d3a2138e5300da9eabf23c4ce8e3a4e5a5af91fcb1ada02a7117924668ac",
+			"url": "https://upload.wikimedia.org/math/0/a/d/0ad677482d18344fac0c19daeeeb3fcf.png",
+			"previous": [
+				"Setting them equal to each other gives:",
+				"Viscous Force =",
+				"Transient Force =",
+				"By using the transient and viscous force equations for a cylindrical flow you can predict the transient boundary layer thickness by finding the Womersley Number ()."
+			],
+			"after": [
+				"Solving for delta gives:",
+				"",
+				"In dimensionless form:",
+				""
+			],
+			"color": " "
+		}
+	}
+}

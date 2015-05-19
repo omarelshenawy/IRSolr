@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c36eaf94572282f4962eb672d6b891894c0dd41a508c3f95be5fc1d8ea2c30f",
+			"url": "https://upload.wikimedia.org/math/0/c/d/0cd2ee61c8f760485b1b01f6f55da74b.png",
+			"previous": [
+				"More generally, given a set S, specifying the set of continuous functions",
+				"Dually, for a function f from a set S to a topological space, the initial topology on S has as open subsets A of S those subsets for which f(A) is open in X. If S has an existing topology, f is continuous with respect to this topology if and only if the existing topology is finer than the initial topology on S. Thus the initial topology can be characterized as the coarsest topology on S that makes f continuous. If f is injective, this topology is canonically identified with the subspace topology of S, viewed as a subset of X."
+			],
+				"after": "into all topological spaces X defines a topology. Dually, a similar idea can be applied to maps",
+			"color": "gray|0.2828 grey|0.2828 dim|0.23616 gray|0.23616 dim|0.23616 grey|0.23616 dark|0.23552 gray|0.23552 dark|0.23552 grey|0.23552 silver|0.11698 light|0.061597 gray|0.061597 light|0.061597 grey|0.061597 gainsboro|0.044671 white|0.0056297 smoke|0.0056297 linen|0.0029099  "
+		}
+	}
+}

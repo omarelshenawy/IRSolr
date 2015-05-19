@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "a075337d73286fa41d24ad179a4e72d9c5959f10a910e22915b09ccadb027f03",
+			"url": "https://upload.wikimedia.org/math/b/0/e/b0e6190515455f6ab546dfaecd74b539.png",
+			"previous": [],
+				"after": "The effect of this mapping is to displace every point horizontally by an amount proportionally to its coordinate. Any point above the -axis is displaced to the right (increasing ) if , and to the left if . Points below the -axis move in the opposite direction, while points on the axis stay fixed.",
+			"color": "black|0.35094 dim|0.26597 gray|0.26597 dim|0.26597 grey|0.26597 gray|0.18305 grey|0.18305 dark|0.10798 gray|0.10798 dark|0.10798 grey|0.10798 silver|0.045864 light|0.021282 gray|0.021282 light|0.021282 grey|0.021282 gainsboro|0.014396  "
+		}
+	}
+}

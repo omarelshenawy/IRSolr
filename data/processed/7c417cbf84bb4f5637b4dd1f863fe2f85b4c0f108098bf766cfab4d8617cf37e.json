@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c417cbf84bb4f5637b4dd1f863fe2f85b4c0f108098bf766cfab4d8617cf37e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lattice_of_the_divisibility_of_60.svg/250px-Lattice_of_the_divisibility_of_60.svg.png",
+			"previous": [],
+				"after": "Hasse diagrams can visually represent the elements and relations of a partial ordering. These are graph drawings where the vertices are the elements of the poset and the ordering relation is indicated by both the edges and the relative positioning of the vertices. Orders are drawn bottom-up: if an element x is smaller than (precedes) y then there exists a path from x to y that is directed upwards. It is often necessary for the edges connecting elements to cross each other, but elements must never be located within an edge. An instructive exercise is to draw the Hasse diagram for the set of natural numbers that are smaller than or equal to 13, ordered by | (the divides relation).",
+			"color": "white|0.093318 smoke|0.093318 ghost|0.091769 white|0.091769 snow|0.091761 white|0.091551 alice|0.091523 blue|0.091523 sea|0.091312 shell|0.091312 mint|0.091042 cream|0.091042 floral|0.090368 white|0.090368 azure|0.090048 lavender|0.088824 blush|0.088824 dark|0.016969 gray|0.016969 dark|0.016969 grey|0.016969 black|0.016502 silver|0.0154 light|0.014315 gray|0.014315 light|0.014315 grey|0.014315 gainsboro|0.010773 gray|0.0052419 grey|0.0052419 dim|0.0044121 gray|0.0044121 dim|0.0044121 grey|0.0044121 ivory|0.0025636  "
+		}
+	}
+}

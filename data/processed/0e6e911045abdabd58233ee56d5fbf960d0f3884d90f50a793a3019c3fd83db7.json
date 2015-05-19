@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e6e911045abdabd58233ee56d5fbf960d0f3884d90f50a793a3019c3fd83db7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tomahawk_Operators.svg/220px-Tomahawk_Operators.svg.png",
+				"previous": "DSMAC â Digital Scene Matching Area Correlation. A digitized image of an area is mapped and then inserted into a TLAM mission. During the flight the missile will verify that the images that it has stored correlates with the image it sees below itself. Based on comparison results the missile's inertial navigation system is updated and the missile corrects its course.",
+			"after": [],
+			"color": "silver|0.41231 dark|0.31683 gray|0.31683 dark|0.31683 grey|0.31683 light|0.15369 gray|0.15369 light|0.15369 grey|0.15369 gainsboro|0.095178 white|0.0065226 smoke|0.0065226  "
+		}
+	}
+}

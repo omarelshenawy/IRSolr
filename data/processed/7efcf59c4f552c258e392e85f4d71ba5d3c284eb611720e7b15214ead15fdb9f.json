@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7efcf59c4f552c258e392e85f4d71ba5d3c284eb611720e7b15214ead15fdb9f",
+			"url": "https://upload.wikimedia.org/math/0/f/5/0f55bbda5aba69d856cd66d1d8bd4408.png",
+				"previous": "In some problems, we need to be able to solve the inverse problem: given , determine . This may be solved by Newton's method, iterating",
+			"after": [
+				"until convergence. A suitable starting guess is given by where",
+				"is the rectifying latitude. Note that it there is no need to differentiate the series for , since the formula for the meridian radius of curvature can be used instead."
+			],
+			"color": "dim|0.3498 gray|0.3498 dim|0.3498 grey|0.3498 gray|0.28734 grey|0.28734 dark|0.18984 gray|0.18984 dark|0.18984 grey|0.18984 silver|0.084343 light|0.043324 gray|0.043324 light|0.043324 grey|0.043324 gainsboro|0.029676 white|0.0037472 smoke|0.0037472  "
+		}
+	}
+}

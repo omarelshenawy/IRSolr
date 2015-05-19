@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4998356226d78b66cf47a84f76b617b8cdb0a22f2c40df7156fbcaff3dec4fe1",
+			"url": "https://upload.wikimedia.org/math/f/6/f/f6f3e6456fd4509a80bb75904489b745.png",
+				"previous": "The depth functions for the left and right images are the pair,",
+				"after": "Smoothness is a measure of how similar colors that are close together are. There is an assumption that objects are more likely to be colored with a small number of colors. So if we detect two pixels with the same color they most likely belong to the same object.",
+			"color": "dim|0.42229 gray|0.42229 dim|0.42229 grey|0.42229 gray|0.26558 grey|0.26558 dark|0.1392 gray|0.1392 dark|0.1392 grey|0.1392 silver|0.060978 black|0.043501 light|0.031181 gray|0.031181 light|0.031181 grey|0.031181 gainsboro|0.022233 white|0.0035756 smoke|0.0035756  "
+		}
+	}
+}

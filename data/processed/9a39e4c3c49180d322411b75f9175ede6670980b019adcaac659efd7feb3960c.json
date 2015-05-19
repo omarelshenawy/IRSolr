@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a39e4c3c49180d322411b75f9175ede6670980b019adcaac659efd7feb3960c",
+			"url": "https://upload.wikimedia.org/math/d/5/7/d578a1a4dbaa7354728dee30e8da3a9a.png",
+				"previous": "Using the identity",
+				"after": "the computation of the square root of a positive number can be reduced to that of a number in the range [1,4). This simplifies finding a start value for the iterative method that is close to the square root, for which a polynomial or piecewise-linear approximation can be used.",
+			"color": "dim|0.37495 gray|0.37495 dim|0.37495 grey|0.37495 gray|0.29052 grey|0.29052 dark|0.19324 gray|0.19324 dark|0.19324 grey|0.19324 silver|0.078367 light|0.031202 gray|0.031202 light|0.031202 grey|0.031202 gainsboro|0.020453 white|0.0029148 smoke|0.0029148  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0acd730b045921aa49de39aaef9eb25a698700a3a036ad28f536b5c074741a7f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aeroforces.svg/220px-Aeroforces.svg.png",
+			"previous": [],
+				"after": "Understanding the motion of air around an object (often called a flow field) enables the calculation of forces and moments acting on the object. In many aerodynamics problems, the forces of interest are the fundamental forces of flight: lift, drag, thrust, and weight. Of these, lift and drag are aerodynamic forces, i.e. forces due to air flow over a solid body. Calculation of these quantities is often founded upon the assumption that the flow field behaves as a continuum. Continuum flow fields are characterized by properties such as flow velocity, pressure, density and temperature, which may be functions of spatial position and time. These properties may be directly or indirectly measured in aerodynamics experiments, or calculated from equations for the conservation of mass, momentum, and energy in air flows. Density, flow velocity, and an additional property, viscosity, are used to classify flow fields.",
+			"color": "dark|0.15928 gray|0.15928 dark|0.15928 grey|0.15928 gray|0.11481 grey|0.11481 silver|0.095529 dim|0.094823 gray|0.094823 dim|0.094823 grey|0.094823 light|0.067299 gray|0.067299 light|0.067299 grey|0.067299 gainsboro|0.06047 white|0.041981 smoke|0.041981 alice|0.036948 blue|0.036948 ghost|0.036575 white|0.036575 snow|0.035977 sea|0.03518 shell|0.03518 white|0.034824 lavender|0.033983 blush|0.033983 mint|0.032084 cream|0.032084 peru|0.026404 floral|0.026378 white|0.026378 black|0.025657 azure|0.025101 linen|0.012545  "
+		}
+	}
+}

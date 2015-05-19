@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "964edf77b58640c4cf3d51c1dff171c6b8444230792949f1527b027c1470f43a",
+			"url": "https://upload.wikimedia.org/math/c/4/0/c4020406e9b686bc27c255e14e468d77.png",
+				"previous": "since for . This is a simple harmonic oscillator corresponding to oscillations of the pendulum near the bottom of its path. Another linearization would be at , corresponding to the pendulum being straight up:",
+				"after": "since for . The solution to this problem involves hyperbolic sinusoids, and note that unlike the small angle approximation, this approximation is unstable, meaning that will usually grow without limit, though bounded solutions are possible. This corresponds to the difficulty of balancing a pendulum upright, it is literally an unstable state.",
+			"color": "dim|0.3756 gray|0.3756 dim|0.3756 grey|0.3756 gray|0.2753 grey|0.2753 dark|0.18547 gray|0.18547 dark|0.18547 grey|0.18547 silver|0.078915 light|0.040309 gray|0.040309 light|0.040309 grey|0.040309 gainsboro|0.02752 white|0.0040952 smoke|0.0040952  "
+		}
+	}
+}

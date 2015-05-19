@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "47a15a93b07525fdcae66ea411e1a97b5d4014e6ba28c6c08fd6acf76612784a",
+			"url": "https://upload.wikimedia.org/math/9/b/b/9bba03aabc295aca0bee5ce80c2e20e6.png",
+			"previous": [
+				"",
+				"The code word of the empty string is the empty string itself:"
+			],
+			"after": [
+				"Entropy of a source is the measure of information. Basically, source codes try to reduce the redundancy present in the source, and represent the source with fewer bits that carry more information.",
+				"Data compression which explicitly tries to minimize the average length of messages according to a particular assumed probability model is called entropy encoding."
+			],
+			"color": "dim|0.35245 gray|0.35245 dim|0.35245 grey|0.35245 gray|0.27709 grey|0.27709 dark|0.18181 gray|0.18181 dark|0.18181 grey|0.18181 silver|0.08605 light|0.045985 gray|0.045985 light|0.045985 grey|0.045985 gainsboro|0.033305 white|0.0052856 smoke|0.0052856  "
+		}
+	}
+}

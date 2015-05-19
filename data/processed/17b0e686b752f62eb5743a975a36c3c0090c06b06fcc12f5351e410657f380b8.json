@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "17b0e686b752f62eb5743a975a36c3c0090c06b06fcc12f5351e410657f380b8",
+			"url": "https://upload.wikimedia.org/math/b/1/0/b1011648579282c90adebe69791b82b5.png",
+				"previous": "Solving differential equations is not like solving algebraic equations. Not only are their solutions oftentimes unclear, but whether solutions are unique or exist at all are also notable subjects of interest.",
+				"after": "However, this only helps us with first order initial value problems. Suppose we had a linear initial value problem of the nth order:",
+			"color": "dim|0.38136 gray|0.38136 dim|0.38136 grey|0.38136 gray|0.29055 grey|0.29055 dark|0.17852 gray|0.17852 dark|0.17852 grey|0.17852 silver|0.074672 light|0.036675 gray|0.036675 light|0.036675 grey|0.036675 gainsboro|0.024924 white|0.003892 smoke|0.003892  "
+		}
+	}
+}

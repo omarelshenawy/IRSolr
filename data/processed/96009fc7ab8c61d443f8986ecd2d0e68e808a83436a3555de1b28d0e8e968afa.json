@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "96009fc7ab8c61d443f8986ecd2d0e68e808a83436a3555de1b28d0e8e968afa",
+			"url": "https://upload.wikimedia.org/math/0/f/3/0f331e20be02fc6c4e1d1e0eb2044020.png",
+				"previous": "In our case we may determine the endpoints by considering that the sample mean X from a normally distributed sample is also normally distributed, with the same expectation Î¼, but with a standard error of:",
+				"after": "By standardizing, we get a random variable:",
+			"color": "dim|0.42059 gray|0.42059 dim|0.42059 grey|0.42059 gray|0.29478 grey|0.29478 dark|0.15849 gray|0.15849 dark|0.15849 grey|0.15849 silver|0.06165 light|0.029377 gray|0.029377 light|0.029377 grey|0.029377 gainsboro|0.019565 white|0.0041157 smoke|0.0041157  "
+		}
+	}
+}

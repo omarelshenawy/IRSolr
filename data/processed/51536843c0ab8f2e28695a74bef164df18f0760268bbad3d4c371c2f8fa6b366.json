@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "51536843c0ab8f2e28695a74bef164df18f0760268bbad3d4c371c2f8fa6b366",
+			"url": "https://upload.wikimedia.org/math/d/4/6/d46626e1b23185b4d353fd61a0dcb47e.png",
+			"previous": [],
+				"after": "The standard technique tool in the analysis of ODEs is the use of Green's functions, from which other solutions can be built. In terms of time value of money, the Green's function (for the time value ODE) is the value of a bond paying Â£1 at a single point in time u â the value of any other stream of cash flows can then be obtained by taking combinations of this basic cash flow. In mathematical terms, this instantaneous cash flow is modeled as a Dirac delta function",
+			"color": "dim|0.40181 gray|0.40181 dim|0.40181 grey|0.40181 gray|0.29819 grey|0.29819 dark|0.16906 gray|0.16906 dark|0.16906 grey|0.16906 silver|0.069432 light|0.031515 gray|0.031515 light|0.031515 grey|0.031515 gainsboro|0.020392 white|0.0030131 smoke|0.0030131  "
+		}
+	}
+}

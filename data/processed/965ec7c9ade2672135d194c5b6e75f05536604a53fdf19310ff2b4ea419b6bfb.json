@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "965ec7c9ade2672135d194c5b6e75f05536604a53fdf19310ff2b4ea419b6bfb",
+			"url": "https://upload.wikimedia.org/math/7/9/8/79846131289f93f21e015db8dd2c32cf.png",
+				"previous": "Using a similar order-of-magnitude analysis, the above equations can be reduced to leading order terms. By choosing length scales for changes in the transverse-direction, and for changes in the streamwise-direction, with , the x-momentum equation simplifies to:",
+				"after": "This equation does not satisfy the no-slip condition at the wall. Like Prandtl did for his boundary layer equations, a new, smaller length scale must be used to allow the viscous term to become leading order in the momentum equation. By choosing as the y-scale, the leading order momentum equation for this \"inner boundary layer\" is given by:",
+			"color": "dim|0.7616 gray|0.7616 dim|0.7616 grey|0.7616 gray|0.2384 grey|0.2384  "
+		}
+	}
+}

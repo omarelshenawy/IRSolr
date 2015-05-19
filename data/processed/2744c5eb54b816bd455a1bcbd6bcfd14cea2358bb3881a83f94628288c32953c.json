@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "2744c5eb54b816bd455a1bcbd6bcfd14cea2358bb3881a83f94628288c32953c",
+			"url": "https://upload.wikimedia.org/math/f/e/8/fe801f95e20cf8d385671fa4bd84e0ad.png",
+			"previous": [
+				"The acceleration of solar system body number i is, according to Newton's laws:",
+				"where is the gravitational constant."
+			],
+			"after": [
+				"In the special case where there are only two bodies in the world, Earth and Sun, the acceleration becomes",
+				"which is the acceleration of the Kepler motion. So this Earth moves around the Sun according to Kepler's laws."
+			],
+			"color": " "
+		}
+	}
+}

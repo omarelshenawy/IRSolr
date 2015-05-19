@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "938e80b91bd6e6b26e19f3aae91f3242479672d5e36bfc836696f4117414d1c1",
+			"url": "https://upload.wikimedia.org/wikipedia/en/2/20/Fanchic.gif",
+			"previous": [],
+				"after": "As the second illustration shows, a low pressure ratio fan (such as that used on a high bypass ratio turbofan) has a range of working lines. At high flight speeds, the ram pressure ratio factors up the cold nozzle pressure ratio, causing the nozzle to choke. Above the choking condition, the working lines tend to coalesce into a unique steep straight line. When the nozzle unchokes, the working line starts to become more curved, reflecting the curvature of the nozzle characteristic. With falling flight Mach number, the cold nozzle pressure ratio decreases. Initially this has no effect upon the position of the working line, apart from the curved (unchoked) tail, which becomes longer. Eventually, the cold nozzle will become unchoked at lower flight Mach numbers, even at full throttle. The working lines will now become curved, gradually migrating towards surge as flight Mach number decreases. The lowest surge margin working line occurs at static conditions.",
+			"color": " "
+		}
+	}
+}

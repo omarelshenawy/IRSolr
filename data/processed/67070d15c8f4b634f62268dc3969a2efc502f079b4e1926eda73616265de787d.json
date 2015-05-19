@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "67070d15c8f4b634f62268dc3969a2efc502f079b4e1926eda73616265de787d",
+			"url": "https://upload.wikimedia.org/math/c/4/d/c4d30708ab60423b897ec3bac6e6b988.png",
+				"previous": "which is the natural basis vector. Thus,",
+			"after": [
+				"and the matrix K is found to be a diagonal matrix with the eigenvalues Î»i as its diagonal elements.",
+				"This shows that a matrix A with a linearly independent system of eigenvectors is similar to a diagonal matrix formed from its eigenvalues."
+			],
+			"color": "dim|0.37956 gray|0.37956 dim|0.37956 grey|0.37956 gray|0.29191 grey|0.29191 dark|0.18121 gray|0.18121 dark|0.18121 grey|0.18121 silver|0.075464 light|0.036505 gray|0.036505 light|0.036505 grey|0.036505 gainsboro|0.02456  "
+		}
+	}
+}

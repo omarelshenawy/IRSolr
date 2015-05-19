@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f54e18b399e99834a9bdc1d077f7999bed04202a94d9f4846519dc6b285bdcd",
+			"url": "https://upload.wikimedia.org/math/f/5/4/f5490dcf11a17f9a97ebe88037c71d2f.png",
+				"previous": "It can be shown that this operator is independent of the choice of frame, and can thus be used to define the geometric derivative:",
+				"after": "This is similar to the usual definition of the gradient, but it, too, extends to functions that are not necessarily scalar-valued.",
+			"color": "dim|0.46685 gray|0.46685 dim|0.46685 grey|0.46685 gray|0.27061 grey|0.27061 dark|0.15588 gray|0.15588 dark|0.15588 grey|0.15588 silver|0.052152 light|0.019174 gray|0.019174 light|0.019174 grey|0.019174 black|0.018674 gainsboro|0.011936  "
+		}
+	}
+}

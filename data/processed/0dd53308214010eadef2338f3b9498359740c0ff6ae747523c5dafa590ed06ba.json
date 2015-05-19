@@ -1,0 +1,23 @@
+{
+	"add": {
+		"doc": {
+			"id": "0dd53308214010eadef2338f3b9498359740c0ff6ae747523c5dafa590ed06ba",
+			"url": "https://upload.wikimedia.org/math/5/8/1/58145be9e24b5c4e88689e804401d3a3.png",
+			"previous": [
+				"",
+				"Assuming Parsonâs turbine and obtaining all the expressions we get",
+				",",
+				",",
+				"A very widely used design has half degree of reaction or 50% reaction and this is known as Parsonâs turbine. This consists of symmetrical rotor and stator blades. For this turbine the velocity triangle is similar and we have:"
+			],
+			"after": [
+				"",
+				"",
+				"Work done (for unit mass flow per second):",
+				"Therefore the blade efficiency is given by",
+				""
+			],
+			"color": "dim|0.35017 gray|0.35017 dim|0.35017 grey|0.35017 gray|0.28077 grey|0.28077 dark|0.18806 gray|0.18806 dark|0.18806 grey|0.18806 silver|0.088315 light|0.045127 gray|0.045127 light|0.045127 grey|0.045127 gainsboro|0.031829 white|0.0040332 smoke|0.0040332  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "52c3f844d5a8a54565a74390e9ce809d9cad9f2324a355addc9ac2f2c6b4b329",
+			"url": "https://upload.wikimedia.org/math/f/5/e/f5e5f5f8ab7b3e9303da47de6b05abd9.png",
+				"previous": "Banach spaces, introduced by Stefan Banach, are complete normed vector spaces.[56] A first example is the vector space ââp consisting of infinite vectors with real entries x = (x1, x2, ...) whose p-norm (1 â¤ p â¤ â) given by",
+				"after": "is finite. The topologies on the infinite-dimensional space ââp are inequivalent for different p. E.g. the sequence of vectors xn = (2ân, 2ân, ..., 2ân, 0, 0, ...), i.e. the first 2n components are 2ân, the following ones are 0, converges to the zero vector for p = â, but does not for p = 1:",
+			"color": "dim|0.30297 gray|0.30297 dim|0.30297 grey|0.30297 gray|0.27882 grey|0.27882 dark|0.2015 gray|0.2015 dark|0.2015 grey|0.2015 silver|0.10421 light|0.056561 gray|0.056561 light|0.056561 grey|0.056561 gainsboro|0.039704 white|0.0045011 smoke|0.0045011  "
+		}
+	}
+}

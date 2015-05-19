@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "96207b318dbd970970466c5cee59a99a83f2f44e9dcb2c7225954971fc8e087a",
+			"url": "https://upload.wikimedia.org/math/e/8/0/e8035bc310081eef772dfed1908c0f3f.png",
+			"previous": [
+				"The angle of refraction of a magnetic field between media is related to the permeability of each medium:",
+				"The angle of refraction of an electric field between media is related to the permittivity of each medium:"
+			],
+				"after": "The two Maxwell equations, Faraday's Law and the AmpÃ¨re-Maxwell Law, illustrate a very practical feature of the electromagnetic field. Faraday's Law may be stated roughly as 'a changing magnetic field creates an electric field'. This is the principle behind the electric generator.",
+			"color": "gray|0.32197 grey|0.32197 dark|0.2474 gray|0.2474 dark|0.2474 grey|0.2474 dim|0.20324 gray|0.20324 dim|0.20324 grey|0.20324 silver|0.11599 light|0.053937 gray|0.053937 light|0.053937 grey|0.053937 gainsboro|0.036969 white|0.0050858 smoke|0.0050858  "
+		}
+	}
+}

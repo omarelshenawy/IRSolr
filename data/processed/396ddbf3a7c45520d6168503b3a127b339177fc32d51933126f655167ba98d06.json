@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "396ddbf3a7c45520d6168503b3a127b339177fc32d51933126f655167ba98d06",
+			"url": "https://upload.wikimedia.org/math/b/5/1/b51f63759f8ffa3408aae5eb0d5f5421.png",
+			"previous": [
+				"The swirling fluid enters the control volume at radius with tangential velocity and leaves at radius with tangential velocity .",
+				"The law of moment of momentum states that the sum of the moments of external forces acting on a fluid which is temporarily occupying the control volume is equal to the net change of angular momentum flux through the control volume."
+			],
+			"after": [
+				"is the guide vane angle and is the blade angle.",
+				"Rate of change of momentum, F is given by the equation:"
+			],
+			"color": "gray|0.34258 grey|0.34258 dark|0.26598 gray|0.26598 dark|0.26598 grey|0.26598 dim|0.15261 gray|0.15261 dim|0.15261 grey|0.15261 silver|0.12351 light|0.062322 gray|0.062322 light|0.062322 grey|0.062322 gainsboro|0.042663 white|0.0031241 smoke|0.0031241  "
+		}
+	}
+}

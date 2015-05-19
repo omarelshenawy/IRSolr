@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "850af0cfb8b5d937e4e72d72568ae8db3d548c023adb2b1c286d9a3852c845a6",
+			"url": "https://upload.wikimedia.org/math/3/c/f/3cf4cdc6146520563bfb9dc1e4ceb04c.png",
+				"previous": "The Euclidean distance between two points in space ( and ) may be written in a variational form where the distance is the minimum value of an integral:",
+				"after": "The Euclidean distance between two objects may also be generalized to the case where the objects are no longer points but are higher-dimensional manifolds, such as space curves, so in addition to talking about distance between two points one can discuss concepts of distance between two strings. Since the new objects that are dealt with are extended objects (not points anymore) additional concepts such as non-extensibility, curvature constraints, and non-local interactions that enforce non-crossing become central to the notion of distance. The distance between the two manifolds is the scalar quantity that results from minimizing the generalized distance functional, which represents a transformation between the two manifolds:",
+			"color": "dim|0.37125 gray|0.37125 dim|0.37125 grey|0.37125 gray|0.27093 grey|0.27093 dark|0.16205 gray|0.16205 dark|0.16205 grey|0.16205 silver|0.065225 black|0.048109 light|0.030056 gray|0.030056 light|0.030056 grey|0.030056 gainsboro|0.021596 white|0.0052802 smoke|0.0052802  "
+		}
+	}
+}

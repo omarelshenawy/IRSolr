@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "964dea02c7053fc49884b2499e71a3660f9d7c2abba47aef389ff791416c4fdb",
+			"url": "https://upload.wikimedia.org/math/a/4/6/a460b69dfecb87038cb144125e9ade69.png",
+			"previous": [
+				"The nozzle pressure thrust term is zero if the nozzle is unchoked, so only the Momentum Thrust needs to be calculated:",
+				"",
+				"The nozzle throat velocity (squared) is calculated using the Steady Flow Energy Equation:"
+			],
+			"after": [
+				"In general, there is a ram drag penalty for taking air onboard via the intake:",
+				""
+			],
+			"color": "dim|0.32645 gray|0.32645 dim|0.32645 grey|0.32645 gray|0.23445 grey|0.23445 black|0.20069 dark|0.13491 gray|0.13491 dark|0.13491 grey|0.13491 silver|0.053204 light|0.024328 gray|0.024328 light|0.024328 grey|0.024328 gainsboro|0.016216  "
+		}
+	}
+}

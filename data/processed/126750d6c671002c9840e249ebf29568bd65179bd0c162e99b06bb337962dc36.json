@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "126750d6c671002c9840e249ebf29568bd65179bd0c162e99b06bb337962dc36",
+			"url": "https://upload.wikimedia.org/math/f/3/0/f306fc45bdfe6a7f8100560c3c60b108.png",
+			"previous": [
+				"Integrating, we find:",
+				"is the small-signal gain coefficient (in units of radians per meter). We can solve the differential equation using separation of variables:",
+				"where"
+			],
+			"after": [
+				"or",
+				"where",
+				"Under certain conditions, stimulated emission can provide a physical mechanism for optical amplification. An external source of energy stimulates atoms in the ground state to transition to the excited state, creating what is called a population inversion. When light of the appropriate frequency passes through the inverted medium, the photons stimulate the excited atoms to emit additional photons of the same frequency, phase, and direction, resulting in an amplification of the input intensity."
+			],
+			"color": "dim|0.39233 gray|0.39233 dim|0.39233 grey|0.39233 gray|0.30144 grey|0.30144 dark|0.16435 gray|0.16435 dark|0.16435 grey|0.16435 silver|0.069489 light|0.033422 gray|0.033422 light|0.033422 grey|0.033422 gainsboro|0.02299 white|0.0041051 smoke|0.0041051  "
+		}
+	}
+}

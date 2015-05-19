@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "524b1b8ed41b02d266ce03cbc489d7ddfeea4bb007b24c5c35c2eea322f61c1e",
+			"url": "https://upload.wikimedia.org/math/5/1/9/519f7ab5ff8f5edc0e7b3f3dccb271f2.png",
+				"previous": "A subtler invariant of a linear transformation is the cokernel, which is defined as",
+				"after": "This is the dual notion to the kernel: just as the kernel is a subspace of the domain, the co-kernel is a quotient space of the target. Formally, one has the exact sequence",
+			"color": "dim|0.37156 gray|0.37156 dim|0.37156 grey|0.37156 gray|0.31329 grey|0.31329 dark|0.17891 gray|0.17891 dark|0.17891 grey|0.17891 silver|0.068844 light|0.031378 gray|0.031378 light|0.031378 grey|0.031378 gainsboro|0.021398 white|0.0037748 smoke|0.0037748  "
+		}
+	}
+}

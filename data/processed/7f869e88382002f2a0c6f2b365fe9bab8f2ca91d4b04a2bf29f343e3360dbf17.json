@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f869e88382002f2a0c6f2b365fe9bab8f2ca91d4b04a2bf29f343e3360dbf17",
+			"url": "https://upload.wikimedia.org/math/2/5/a/25a02c9a02cad221de23d33a97bf647e.png",
+				"previous": "From this solution, it is possible to characterize the convective heat/mass transfer constants based on the region of boundary layer flow. Fourierâs law of conduction and Newtonâs Law of Cooling are combined with the flux term derived above and the boundary layer thickness.",
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "dim|0.36209 gray|0.36209 dim|0.36209 grey|0.36209 gray|0.27727 grey|0.27727 dark|0.1812 gray|0.1812 dark|0.1812 grey|0.1812 silver|0.083259 light|0.043967 gray|0.043967 light|0.043967 grey|0.043967 gainsboro|0.030404 white|0.0051529 smoke|0.0051529  "
+		}
+	}
+}

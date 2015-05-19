@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "188fb9090bfabb7a690775b254994fb7511088ff2ab40a4daac73911c9ea0d23",
+			"url": "https://upload.wikimedia.org/math/f/0/e/f0e0b0b814b75b062db8c4c6592ca3ad.png",
+			"previous": [
+				"Consider the functional",
+				"Finding the extrema of functionals is similar to finding the maxima and minima of functions. The maxima and minima of a function may be located by finding the points where its derivative vanishes (i.e., is equal to zero). The extrema of functionals may be obtained by finding functions where the functional derivative is equal to zero. This leads to solving the associated EulerâLagrange equation.[Note 3]"
+			],
+				"after": "where",
+			"color": "dim|0.30937 gray|0.30937 dim|0.30937 grey|0.30937 gray|0.28772 grey|0.28772 dark|0.19425 gray|0.19425 dark|0.19425 grey|0.19425 silver|0.087282 light|0.05084 gray|0.05084 light|0.05084 grey|0.05084 gainsboro|0.037823 white|0.0093785 smoke|0.0093785 linen|0.003958 lavender|0.0037185 blush|0.0037185 alice|0.0036478 blue|0.0036478 ghost|0.0035759 white|0.0035759 sea|0.0027906 shell|0.0027906 snow|0.0026876  "
+		}
+	}
+}

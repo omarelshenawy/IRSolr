@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6190f552171d64cb34a00375640f12b510fe523438ff8e75bf8a71e9bde89bab",
+			"url": "https://upload.wikimedia.org/math/6/0/f/60f994d30c56f7e7260b27502fe543ae.png",
+				"previous": "Due to the specific impulse varying with pressure, a quantity that is easy to compare and calculate with is useful. Because rockets choke at the throat, and because the supersonic exhaust prevents external pressure influences travelling upstream, it turns out that the pressure at the exit is ideally exactly proportional to the propellant flow , provided the mixture ratios and combustion efficiencies are maintained. It is thus quite usual to rearrange the above equation slightly:[4]",
+				"after": "and so define the vacuum Isp to be:",
+			"color": "dim|0.38754 gray|0.38754 dim|0.38754 grey|0.38754 gray|0.26399 grey|0.26399 dark|0.16567 gray|0.16567 dark|0.16567 grey|0.16567 silver|0.070098 black|0.034908 light|0.034313 gray|0.034313 light|0.034313 grey|0.034313 gainsboro|0.024319 white|0.0045432 smoke|0.0045432  "
+		}
+	}
+}

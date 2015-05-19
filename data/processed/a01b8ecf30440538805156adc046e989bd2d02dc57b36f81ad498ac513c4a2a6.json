@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "a01b8ecf30440538805156adc046e989bd2d02dc57b36f81ad498ac513c4a2a6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clipping.svg/220px-Clipping.svg.png",
+			"previous": [
+				"",
+				"Clipping may be described as hard, in cases where the signal is strictly limited at the threshold, producing a flat cutoff; or it may be described as soft, in cases where the clipped signal continues to follow the original at a reduced gain. Hard clipping results in many high frequency harmonics; soft clipping results in fewer higher order harmonics and intermodulation distortion components."
+			],
+			"after": [
+				"In the audio domain, clipping may be heard as general distortion or as pops.",
+				"Because the clipped waveform has more area underneath it than the smaller unclipped waveform, the amplifier produces more power than its rated (sine wave) output when it is clipping. This extra power can damage any part of the loudspeaker, including the woofer, or the tweeter, by causing over-excursion, or by overheating the voice coil. It may cause damage to the amplifier's power supply or simply blow a fuse."
+			],
+			"color": "gray|0.22284 grey|0.22284 dark|0.1901 gray|0.1901 dark|0.1901 grey|0.1901 dim|0.18321 gray|0.18321 dim|0.18321 grey|0.18321 light|0.13171 pink|0.13171 pink|0.078822 silver|0.07585 misty|0.05272 rose|0.05272 rosy|0.027646 brown|0.027646 light|0.02521 gray|0.02521 light|0.02521 grey|0.02521 gainsboro|0.010472  "
+		}
+	}
+}

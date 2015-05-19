@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e0a9e1983223e46a9c64aad5551625eb732edfb79b9edae3409fe41c4eb97f5",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Seriation_simulated_data_raw.png/246px-Seriation_simulated_data_raw.png",
+				"previous": "The data presented in this example was simulated by WinBasp. Initially 60 contexts (called units in WinBasp) were created along with 50 types. The contexts were labeled in chronological order by numbers 01 to 60, the types are labeled in the form T00001 to T00050. If a type is represented by one object only this object is not relevant for the chronological sequence as it does not provide a link to another context. Similarly, contexts containing one object only are irrelevant for seriation. Therefore, the contexts with one or no object and types represented by one object or not at all were eliminated. The resulting raw simulated data consisting of 43 contexts and 34 types are shown on the left. As expected, the dots indicating the occurrence of a type in a context are close to the diagonal of the table.",
+			"after": [],
+			"color": " "
+		}
+	}
+}

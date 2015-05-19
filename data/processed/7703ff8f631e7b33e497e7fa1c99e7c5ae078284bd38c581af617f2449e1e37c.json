@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7703ff8f631e7b33e497e7fa1c99e7c5ae078284bd38c581af617f2449e1e37c",
+			"url": "https://upload.wikimedia.org/math/6/a/1/6a1b45e554e2c5efc0fbe08e8f1e9dc3.png",
+			"previous": [
+				"where",
+				"Delambre in 1799[9] derived a widely used expansion on the eccentricity squared,"
+			],
+			"after": [
+				"Rapp[10] gives a detailed derivation of this result.",
+				"Series with considerably faster convergence can be obtained by expanding in terms of the third flattening, instead of the eccentricity. They are related by"
+			],
+			"color": " "
+		}
+	}
+}

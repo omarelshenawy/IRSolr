@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fda0c3b73fcadf9f9b1d0689eaac866597b5b565a2b8e98877bf72c6abc527e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Illustrating_Wikipedia_brochure.pdf/page1-170px-Illustrating_Wikipedia_brochure.pdf.jpg",
+			"previous": [],
+				"after": "Images, sounds and videos enhance articles greatly. A file that is already hosted on Wikipedia or the Wikimedia Commons can be inserted with the basic code \"[[File:FILENAME|thumb|DESCRIPTION]]\". (\"Image:\" can be substituted for \"File:\" with no change in effect; the choice between the two is purely a matter of editorial preference.) Using \"thumb\" generates a thumbnail of an image (the most common placement option), which is typically sized differently from the original image. Several options can affect a thumbnail's placement and size, and there are other methods for placing images not in a thumbnail format, such as in a frame, table or \"infobox\", which this summary page does not delve into.",
+			"color": "steel|0.26436 blue|0.26436 sky|0.18639 blue|0.18639 pale|0.13328 turquoise|0.13328  "
+		}
+	}
+}

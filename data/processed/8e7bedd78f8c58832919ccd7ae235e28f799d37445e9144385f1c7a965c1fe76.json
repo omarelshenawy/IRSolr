@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e7bedd78f8c58832919ccd7ae235e28f799d37445e9144385f1c7a965c1fe76",
+			"url": "https://upload.wikimedia.org/math/7/2/e/72ef82f70d453a492833626b086695c7.png",
+				"previous": "The treatment of turbulent boundary layers is far more difficult due to the time-dependent variation of the flow properties. One of the most widely used techniques in which turbulent flows are tackled is to apply Reynolds decomposition. Here the instantaneous flow properties are decomposed into a mean and fluctuating component. Applying this technique to the boundary layer equations gives the full turbulent boundary layer equations not often given in literature:",
+			"after": [],
+			"color": "gray|0.30353 grey|0.30353 dim|0.281 gray|0.281 dim|0.281 grey|0.281 dark|0.23297 gray|0.23297 dark|0.23297 grey|0.23297 silver|0.095789 light|0.041893 gray|0.041893 light|0.041893 grey|0.041893 gainsboro|0.027005 white|0.0041416 smoke|0.0041416  "
+		}
+	}
+}

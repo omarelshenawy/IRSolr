@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "5094f0c85ec73f6e8f5c7b95d1f6e166d1013820aa79f0f78f5bd3567ac5baf6",
+			"url": "https://upload.wikimedia.org/math/3/1/2/3122902a8274ad854726c177994d798a.png",
+				"previous": "In a state of dynamical equilibrium, this speed must also be equal to v = Î¼mg. Notice that both expressions for v are proportional to mg, reflecting how the derivation is independent of the type of forces considered. Equating these two expressions yields a formula for the diffusivity:",
+				"after": "Here the first equality follows from the first part of Einstein's theory, the third equality follows from the definition of Boltzmann's constant as kB = R / N, and the fourth equality follows from Stokes' formula for the mobility. By measuring the mean squared displacement over a time interval along with the universal gas constant R, the temperature T, the viscosity Î·, and the particle radius r, Avogadro's number N can be determined.",
+			"color": "dim|0.3649 gray|0.3649 dim|0.3649 grey|0.3649 gray|0.27678 grey|0.27678 dark|0.18122 gray|0.18122 dark|0.18122 grey|0.18122 silver|0.08041 light|0.04231 gray|0.04231 light|0.04231 grey|0.04231 gainsboro|0.030059 white|0.005627 smoke|0.005627 linen|0.0029582  "
+		}
+	}
+}

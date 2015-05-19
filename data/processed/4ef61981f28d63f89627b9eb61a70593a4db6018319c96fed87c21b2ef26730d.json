@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ef61981f28d63f89627b9eb61a70593a4db6018319c96fed87c21b2ef26730d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/En_Gimbaled_thrust_diagram.svg/220px-En_Gimbaled_thrust_diagram.svg.png",
+			"previous": [
+				"",
+				"In missile literature originating from Russian sources,[1] thrust vectoring is often referred as \"gas-dynamic steering\" or \"gas-dynamic control\"."
+			],
+			"after": [
+				"Thrust vector control is effective only while the propulsion system is creating thrust. At other stages of flight, separate mechanisms are required for attitude and flight path control.",
+				"Nominally, the line of action of the thrust vector of a rocket nozzle passes through the vehicle's center of mass, generating zero net moment about the mass center. It is possible to generate pitch and yaw moments by deflecting the main rocket thrust vector so that it does not pass through the mass center. Because the line of action is generally oriented nearly parallel to the roll axis, roll control usually requires the use of two or more separately hinged nozzles or a separate system altogether, such as fins,[2] or vanes in the exhaust plume of the rocket engine, deflecting the main thrust."
+			],
+			"color": "steel|0.71269 blue|0.71269 corn|0.054862 flower|0.054862 blue|0.054862 red|0.033801 light|0.033281 steel|0.033281 blue|0.033281 royal|0.022621 blue|0.022621 dark|0.018309 red|0.018309 light|0.015601 sky|0.015601 blue|0.015601 firebrick|0.014582 brown|0.012632 light|0.01157 coral|0.01157 indian|0.0088404 red|0.0088404 yellow|0.0075403 salmon|0.0068903 rosy|0.0059802 brown|0.0059802  "
+		}
+	}
+}

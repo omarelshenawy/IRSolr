@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f211d75248878a63f7a8aa1ec7cddae00e82f575c621f87cc09dada070210e8",
+			"url": "https://upload.wikimedia.org/math/c/1/9/c198bce010e9eec9dedd5c6043dd9867.png",
+				"previous": "According to the mean value theorem for integration, there exists a real number in [x1, x1 + Îx] such that",
+				"after": "To keep the notation simple we will continue writing c instead of but one should keep in mind that c does depend on . Substituting the above into (2) we get",
+			"color": "dim|0.38448 gray|0.38448 dim|0.38448 grey|0.38448 gray|0.28993 grey|0.28993 dark|0.1793 gray|0.1793 dark|0.1793 grey|0.1793 silver|0.070834 light|0.035032 gray|0.035032 light|0.035032 grey|0.035032 gainsboro|0.02426 white|0.0041828 smoke|0.0041828  "
+		}
+	}
+}

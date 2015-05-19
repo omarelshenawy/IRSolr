@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "757496bfb94876bb9de7d3a6792c3dadd7e4182176851fcc620f049985426f59",
+			"url": "https://upload.wikimedia.org/math/d/0/6/d061453b9e97cfb3e1ce8b196a14247a.png",
+			"previous": [
+				"An appropriate coordinate conversion done against the Minkowski metric creates coordinates where an object on a rotating disk stays in the same spatial coordinate position. The new coordinates are",
+				"The difference between SR and general relativity (GR) is that in GR you can use any metric which is a solution of the Einstein field equations, not just the Minkowski metric. Because inertial motion in curved spacetimes lacks the simple expression it has in SR, the line integral form of the proper time equation must always be used."
+			],
+			"after": [
+				"and",
+				"The t and z coordinates remain unchanged. In this new coordinate system, the incremental proper time equation is"
+			],
+			"color": "dim|0.3411 gray|0.3411 dim|0.3411 grey|0.3411 gray|0.28785 grey|0.28785 dark|0.19504 gray|0.19504 dark|0.19504 grey|0.19504 silver|0.082505 light|0.040821 gray|0.040821 light|0.040821 grey|0.040821 gainsboro|0.029294 white|0.0056815 smoke|0.0056815 linen|0.0029636  "
+		}
+	}
+}

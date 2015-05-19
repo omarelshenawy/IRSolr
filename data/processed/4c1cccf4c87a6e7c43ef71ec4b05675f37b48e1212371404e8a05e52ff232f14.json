@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c1cccf4c87a6e7c43ef71ec4b05675f37b48e1212371404e8a05e52ff232f14",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Medal_lg.jpeg/220px-Medal_lg.jpeg",
+			"previous": [],
+			"after": [
+				"The Unix system had significant impact on other operating systems. It won its success by:",
+				"It was written in a high level language rather than assembly language (which had been thought necessary for systems implementation on early computers). Although this followed the lead of Multics and Burroughs, it was Unix that popularized the idea."
+			],
+			"color": "firebrick|0.15942 brown|0.13984 tan|0.13456 silver|0.068334 dark|0.047431 gray|0.047431 dark|0.047431 grey|0.047431 light|0.040688 gray|0.040688 light|0.040688 grey|0.040688 dim|0.035994 gray|0.035994 dim|0.035994 grey|0.035994 dark|0.034864 slate|0.034864 gray|0.034864 black|0.032813 rosy|0.032182 brown|0.032182  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "29e456e9fa998e756e8da411618318aa03aeac2a0dfc6863bd123550fa6f5169",
+			"url": "https://upload.wikimedia.org/math/c/1/5/c15a21fca070c713f6449a2b2b91399b.png",
+			"previous": [
+				"The population inversion, in units of atoms per cubic meter, is",
+				"Under certain conditions, stimulated emission can provide a physical mechanism for optical amplification. An external source of energy stimulates atoms in the ground state to transition to the excited state, creating what is called a population inversion. When light of the appropriate frequency passes through the inverted medium, the photons stimulate the excited atoms to emit additional photons of the same frequency, phase, and direction, resulting in an amplification of the input intensity."
+			],
+				"after": "where g1 and g2 are the degeneracies of energy levels 1 and 2, respectively.",
+			"color": "dim|0.36412 gray|0.36412 dim|0.36412 grey|0.36412 gray|0.26051 grey|0.26051 dark|0.1831 gray|0.1831 dark|0.1831 grey|0.1831 silver|0.086735 light|0.049022 gray|0.049022 light|0.049022 grey|0.049022 gainsboro|0.03473 white|0.0047912 smoke|0.0047912  "
+		}
+	}
+}

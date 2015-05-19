@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "28f298573e0fc3825c2d90f334ac92f4c7f7207c693bf32c85078ea79b38a67c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Db_null.png/120px-Db_null.png",
+			"previous": [],
+				"after": "Null has been the focus of controversy and a source of debate because of its associated three-valued logic (3VL), special requirements for its use in SQL joins, and the special handling required by aggregate functions and SQL grouping operators. Although special functions and predicates are provided to properly handle Nulls, opponents feel that resolving these issues introduces unnecessary complexity and inconsistency into the relational model of databases.",
+			"color": "silver|0.14775 dark|0.14435 gray|0.14435 dark|0.14435 grey|0.14435 light|0.12737 gray|0.12737 light|0.12737 grey|0.12737 gainsboro|0.10852 gray|0.070671 grey|0.070671 gold|0.049551 dim|0.039554 gray|0.039554 dim|0.039554 grey|0.039554 white|0.030592 smoke|0.030592 dark|0.026688 red|0.026688 maroon|0.025798 dark|0.020294 orange|0.020294 lavender|0.020031 blush|0.020031 alice|0.019905 blue|0.019905 ghost|0.019868 white|0.019868 sea|0.01934 shell|0.01934 snow|0.019064 white|0.016653 orange|0.016313 mint|0.014194 cream|0.014194 linen|0.013184 floral|0.011252 white|0.011252 azure|0.0093408 khaki|0.0066609 golden|0.0055155 rod|0.0055155 peru|0.005004  "
+		}
+	}
+}

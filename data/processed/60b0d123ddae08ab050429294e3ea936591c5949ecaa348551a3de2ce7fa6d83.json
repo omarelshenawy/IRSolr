@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "60b0d123ddae08ab050429294e3ea936591c5949ecaa348551a3de2ce7fa6d83",
+			"url": "https://upload.wikimedia.org/math/9/d/a/9da2e9bb2034dce8ab5df7cb19ca685e.png",
+			"previous": [
+				"The reason for this difference is that compression ratio is defined via the volume reduction,",
+				"For any given gas mix compression ratio and overall pressure ratio are interrelated as follows:"
+			],
+			"after": [
+				"Pressure ratio is defined as the pressure increase",
+				"From the combined gas law we get:"
+			],
+			"color": "dim|0.34873 gray|0.34873 dim|0.34873 grey|0.34873 gray|0.2883 grey|0.2883 dark|0.19263 gray|0.19263 dark|0.19263 grey|0.19263 silver|0.08412 light|0.041334 gray|0.041334 light|0.041334 grey|0.041334 gainsboro|0.029717 white|0.0043163 smoke|0.0043163  "
+		}
+	}
+}

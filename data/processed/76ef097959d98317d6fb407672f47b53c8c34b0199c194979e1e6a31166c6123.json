@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "76ef097959d98317d6fb407672f47b53c8c34b0199c194979e1e6a31166c6123",
+			"url": "https://upload.wikimedia.org/math/9/5/e/95e80a29d64f732d07eec85781753708.png",
+				"previous": "The connected sum of two surfaces M and N, denoted M # N, is obtained by removing a disk from each of them and gluing them along the boundary components that result. The boundary of a disk is a circle, so these boundary components are circles. The Euler characteristic of M # N is the sum of the Euler characteristics of the summands, minus two:",
+				"after": "The sphere S is an identity element for the connected sum, meaning that S # M = M. This is because deleting a disk from the sphere leaves a disk, which simply replaces the disk deleted from M upon gluing.",
+			"color": "dim|0.34232 gray|0.34232 dim|0.34232 grey|0.34232 gray|0.28394 grey|0.28394 dark|0.19332 gray|0.19332 dark|0.19332 grey|0.19332 silver|0.087256 light|0.044011 gray|0.044011 light|0.044011 grey|0.044011 gainsboro|0.03093 white|0.0049055 smoke|0.0049055  "
+		}
+	}
+}

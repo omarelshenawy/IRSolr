@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "76d587ba6847427a7e02a1237249648bbd36739b2ca3f1eca17a323ff6c10c92",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/111607sp1200.jpg/220px-111607sp1200.jpg",
+			"previous": [],
+				"after": "Because these early drum machines came out before the introduction of MIDI in 1983, they use a variety of methods of having their rhythms synchronized to other electronic devices. Some used a method of synchronization called DIN-sync, or Sync-24. Some of these machines also output analog CV/Gate voltages that could be used to synchronize or control analog synthesizers and other music equipment. The Oberheim DMX came with a feature allowing it to be synchronized to its proprietary Oberheim Parallel Buss interfacing system, developed prior to the introduction of MIDI.",
+			"color": "black|0.40132 gray|0.23018 grey|0.23018 dark|0.19038 gray|0.19038 dark|0.19038 grey|0.19038 dim|0.14002 gray|0.14002 dim|0.14002 grey|0.14002 dark|0.021438 slate|0.021438 gray|0.021438 silver|0.0094135  "
+		}
+	}
+}

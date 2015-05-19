@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "670b72398ab8ab55a89fcf15ad94fa55c391d15c7bc76228353f9b6789e58668",
+			"url": "https://upload.wikimedia.org/math/8/f/1/8f1c99fb9f42be700d87df7b0b50b4aa.png",
+				"previous": "That is, the probability function f(x) lies between zero and one for every value of x in the sample space Î©, and the sum of f(x) over all values x in the sample space Î© is equal to 1. An event is defined as any subset of the sample space . The probability of the event is defined as",
+				"after": "So, the probability of the entire sample space is 1, and the probability of the null event is 0.",
+			"color": "gray|0.31846 grey|0.31846 dim|0.26464 gray|0.26464 dim|0.26464 grey|0.26464 dark|0.23779 gray|0.23779 dark|0.23779 grey|0.23779 silver|0.098037 light|0.038421 gray|0.038421 light|0.038421 grey|0.038421 gainsboro|0.026332 white|0.0046423 smoke|0.0046423  "
+		}
+	}
+}

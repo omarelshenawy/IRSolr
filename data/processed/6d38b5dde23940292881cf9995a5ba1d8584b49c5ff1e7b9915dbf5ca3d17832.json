@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d38b5dde23940292881cf9995a5ba1d8584b49c5ff1e7b9915dbf5ca3d17832",
+			"url": "https://upload.wikimedia.org/math/c/2/1/c2167883fa0469de7bff6951c1da5527.png",
+			"previous": [
+				"Since the total angular momentum has to be conserved during the transition, we have that",
+				"The emitted particle carries away an angular momentum Î», which for the photon must be at least 1, since it is a vector particle (i.e., it has JP = 1â). Thus, there is no E0 (electric monopoles) or M0 (magnetic monopoles, which do not seem to exist) radiation."
+			],
+				"after": "and",
+			"color": "black|0.38028 dim|0.34767 gray|0.34767 dim|0.34767 grey|0.34767 gray|0.14934 grey|0.14934 dark|0.072818 gray|0.072818 dark|0.072818 grey|0.072818 silver|0.028209 light|0.011182 gray|0.011182 light|0.011182 grey|0.011182 gainsboro|0.0072583  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1aa6298c70795e20adb3ed693b2088b47e842aa2fd6be26198ce086f00791972",
+			"url": "https://upload.wikimedia.org/math/4/3/1/4311b81d5b4cbced2693aea3fd119d84.png",
+			"previous": [],
+				"after": "This is an encyclopedia, not a collection of mathematical texts; but we often want to include proofs, as a way of really exposing the meaning of some theorem, definition, etc. A downside of including proofs is that they may interrupt the flow of the article, whose goal is usually expository. Use your judgement; as a rule of thumb, include proofs when they expose or illuminate the concept or idea; don't include them when they serve only to establish the correctness of a result.",
+			"color": "gray|0.31945 grey|0.31945 dark|0.27594 gray|0.27594 dark|0.27594 grey|0.27594 dim|0.20461 gray|0.20461 dim|0.20461 grey|0.20461 silver|0.10633 light|0.045145 gray|0.045145 light|0.045145 grey|0.045145 gainsboro|0.030494 white|0.0050411 smoke|0.0050411 linen|0.002503  "
+		}
+	}
+}

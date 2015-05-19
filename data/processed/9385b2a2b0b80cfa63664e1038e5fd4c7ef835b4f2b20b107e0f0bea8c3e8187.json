@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9385b2a2b0b80cfa63664e1038e5fd4c7ef835b4f2b20b107e0f0bea8c3e8187",
+			"url": "https://upload.wikimedia.org/math/b/3/b/b3bc344f80ed5ba996b2a3479510fe66.png",
+				"previous": "This analysis is simplified and ignores a number of significant factors including interference between the blades and the influence of tip vortices.",
+				"after": "where is a function of the advance coefficient, is a function of the Reynolds' number, and is a function of the Froude number. Both and are likely to be small in comparison to under normal operating conditions, so the expression can be reduced to:",
+			"color": "gray|0.31265 grey|0.31265 dim|0.27311 gray|0.27311 dim|0.27311 grey|0.27311 dark|0.17743 gray|0.17743 dark|0.17743 grey|0.17743 black|0.10473 silver|0.066513 light|0.032676 gray|0.032676 light|0.032676 grey|0.032676 gainsboro|0.02241 white|0.0031411 smoke|0.0031411  "
+		}
+	}
+}

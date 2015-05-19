@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "51c8fe078e4f8bf812e62196c68a5c4cb401a8916e9b3133443d243ec284dfcf",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Automated_online_assistant.png/170px-Automated_online_assistant.png",
+				"previous": "Natural language processing (NLP) is a field of computer science, artificial intelligence, and computational linguistics concerned with the interactions between computers and human (natural) languages. As such, NLP is related to the area of humanâcomputer interaction. Many challenges in NLP involve natural language understanding, that is, enabling computers to derive meaning from human or natural language input, and others involve natural language generation.",
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "black|0.9895  "
+		}
+	}
+}

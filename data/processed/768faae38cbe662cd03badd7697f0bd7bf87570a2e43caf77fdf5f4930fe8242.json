@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "768faae38cbe662cd03badd7697f0bd7bf87570a2e43caf77fdf5f4930fe8242",
+			"url": "https://upload.wikimedia.org/math/b/a/a/baa6f23c6492c5927360689257e60b67.png",
+			"previous": [
+				"where the Lorentz factor is:",
+				"Examples of other 4-vectors include the four-velocity UÎ¼, defined as the derivative of the position 4-vector with respect to proper time:"
+			],
+			"after": [
+				"where m is the invariant mass.",
+				"The four-acceleration is the proper time derivative of 4-velocity:"
+			],
+			"color": "dim|0.40172 gray|0.40172 dim|0.40172 grey|0.40172 gray|0.29026 grey|0.29026 dark|0.17138 gray|0.17138 dark|0.17138 grey|0.17138 silver|0.066501 light|0.03185 gray|0.03185 light|0.03185 grey|0.03185 gainsboro|0.022244 white|0.0042478 smoke|0.0042478  "
+		}
+	}
+}

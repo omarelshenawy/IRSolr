@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b90f9ea19c9636b73a78bab8ce0d17f8c9bb54a1849bd41d9c9ae27488d5158",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/SpectrumAnalyzer-Superhet.png/220px-SpectrumAnalyzer-Superhet.png",
+				"previous": "Even if a signal is human communications (e.g., a radio), the intelligence collection specialists have to know it exists. If the targeting function described above learns that a country has a radar that operates in a certain frequency range, the first step is to use a sensitive receiver, with one or more antennas that listen in every direction, to find an area where such a radar is operating. Once the radar is known to be in the area, the next step is to find its location.",
+				"after": "If operators know the probable frequencies of transmissions of interest, they may use a set of receivers, preset to the frequencies of interest. These are the frequency (horizontal axis) versus power (vertical axis) produced at the transmitter, before any filtering of signals that do not add to the information being transmitted. Received energy on a particular frequency may start a recorder, and alert a human to listen to the signals if they are intelligible (i.e., COMINT). If the frequency is not known, the operators may look for power on primary or sideband frequencies using a spectrum analyzer. Information from the spectrum analyzer is then used to tune receivers to signals of interest. For example, in this simplified spectrum, the actual information is at 800Â kHz and 1.2Â MHz.",
+			"color": "purple|0.1641 dark|0.15058 magenta|0.15058 red|0.1456 gray|0.13161 grey|0.13161 aqua|0.12023 cyan|0.12023 dim|0.027923 gray|0.027923 dim|0.027923 grey|0.027923 cadet|0.019682 blue|0.019682 gainsboro|0.018872 light|0.018872 gray|0.018872 light|0.018872 grey|0.018872 silver|0.018773 dark|0.018398 turquoise|0.018398 medium|0.018338 turquoise|0.018338 light|0.0061458 sea|0.0061458 green|0.0061458 turquoise|0.0050194 thistle|0.0046241  "
+		}
+	}
+}

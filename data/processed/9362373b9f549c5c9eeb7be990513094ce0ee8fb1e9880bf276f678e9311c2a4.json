@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9362373b9f549c5c9eeb7be990513094ce0ee8fb1e9880bf276f678e9311c2a4",
+			"url": "https://upload.wikimedia.org/math/7/b/3/7b305e6b1e42dafe9e6e88df5ccc3946.png",
+				"previous": "A pure quantum state is a state which can be described by a single ket vector, as described above. A mixed quantum state is a statistical ensemble of pure states (see quantum statistical mechanics). Mixed states inevitably arise from pure states when, for a composite quantum system with an entangled state on it, the part is inaccessible to the observer. The state of the part is expressed then as the partial trace over .",
+				"after": "The density matrix describing a mixed state is defined to be an operator of the form",
+			"color": " "
+		}
+	}
+}

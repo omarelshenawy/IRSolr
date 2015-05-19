@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "36e4e694f3343a35462f62ec27e1c5c7cc5254fabaf00cb11d5de576b38292d9",
+			"url": "https://upload.wikimedia.org/math/6/a/7/6a70ba341c080b1e8c80ef4ea420b8f7.png",
+			"previous": [
+				"The canonical forms of the three examples above are:",
+				"Names for degree above three are based on Latin ordinal numbers, and end in -ic. This should be distinguished from the names used for the number of variables, the arity, which are based on Latin distributive numbers, and end in -ary. For example, a degree two polynomial in two variables, such as , is called a \"binary quadratic\": binary due to two variables, quadratic due to degree two.[a] There are also names for the number of terms, which are also based on Latin distributive numbers, ending in -nomial; the common ones are monomial, binomial, and (less commonly) trinomial; thus is a \"binary quadratic binomial\"."
+			],
+				"after": "The degree of the sum (or difference) of two polynomials is equal to or less than the greater of their degrees; the equality holds always when the degrees of the polynomials are different i.e.",
+			"color": "dim|0.35182 gray|0.35182 dim|0.35182 grey|0.35182 gray|0.27908 grey|0.27908 dark|0.18363 gray|0.18363 dark|0.18363 grey|0.18363 silver|0.088735 light|0.04688 gray|0.04688 light|0.04688 grey|0.04688 gainsboro|0.032118 white|0.0047273 smoke|0.0047273  "
+		}
+	}
+}

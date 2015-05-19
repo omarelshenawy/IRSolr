@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ff786a106ad32278ee6f96cce56b3d00db7a37b067f12c2f6508244a1699f30",
+			"url": "https://upload.wikimedia.org/math/2/2/2/22260199e69f69ccfd9561f0ffd41ffa.png",
+			"previous": [
+				"Suppose {X1,Â ...,Â Xn} is an independent sample from a normally distributed population with (parameters) mean Î¼ and variance Ï2. Let",
+				"The figure on the right shows 50 realizations of a confidence interval for a given population mean Î¼. If we randomly choose one realization, the probability is 95% we end up having chosen an interval that contains the parameter; however we may be unlucky and have picked the wrong one. We will never know; we are stuck with our interval."
+			],
+				"after": "Where X is the sample mean, and S2 is the sample variance. Then",
+			"color": "dim|0.37112 gray|0.37112 dim|0.37112 grey|0.37112 gray|0.28078 grey|0.28078 dark|0.18737 gray|0.18737 dark|0.18737 grey|0.18737 silver|0.077053 light|0.037881 gray|0.037881 light|0.037881 grey|0.037881 gainsboro|0.026733 white|0.0046436 smoke|0.0046436  "
+		}
+	}
+}

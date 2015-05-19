@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "67e3948b98b31faea43c08af600a8ce26153d43d456af99129263f4415d544f3",
+			"url": "https://upload.wikimedia.org/math/3/0/0/300fbfe9baec4398a2e746d02816e015.png",
+				"previous": "where A, B, C, D, and E are fixed coefficients and F is the constant term. Such a function describes a quadratic surface. Setting equal to zero describes the intersection of the surface with the plane , which is a locus of points equivalent to a conic section.",
+				"after": "If the function has a minimum if A>0, and a maximum if A<0, its graph forms an elliptic paraboloid. In this case the minimum or maximum occurs at where:",
+			"color": "gray|0.29256 grey|0.29256 dim|0.28638 gray|0.28638 dim|0.28638 grey|0.28638 dark|0.21708 gray|0.21708 dark|0.21708 grey|0.21708 silver|0.10361 light|0.049527 gray|0.049527 light|0.049527 grey|0.049527 gainsboro|0.033828 white|0.0043377 smoke|0.0043377  "
+		}
+	}
+}

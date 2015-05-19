@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "73a863be6fcd06df27c19b3bccce5e7362904f5b660f7d1a35be84b25db5a17b",
+			"url": "https://upload.wikimedia.org/math/0/6/5/065dcf881e6b021e3326275207df6923.png",
+				"previous": "and",
+				"after": "Note that the sign of the square root does not affect the resulting , because changing it amounts to exchanging and . We have chosen the minus sign to have when and , in order to avoid a division by zero. With this choice, the above expression for always works, except when , where the second term becomes 0/0. In this case there is a triple root .",
+			"color": "dim|0.36724 gray|0.36724 dim|0.36724 grey|0.36724 gray|0.28525 grey|0.28525 dark|0.17664 gray|0.17664 dark|0.17664 grey|0.17664 silver|0.083569 light|0.041755 gray|0.041755 light|0.041755 grey|0.041755 gainsboro|0.027769 white|0.0038843 smoke|0.0038843  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6790a3b91b7b3dcc0f718737253e2f7e8455f71602baf133699928b67f4c1821",
+			"url": "https://upload.wikimedia.org/math/a/4/6/a46c8b339622849f79364e38d5514947.png",
+				"previous": "where p(X) and q(X) are polynomials with coefficients in E, and q is not the zero polynomial, forms a field. This is the simplest example of a transcendental extension of E. It also is an example of a domain (the ring of polynomials in this case) being embedded into its field of fractions .",
+				"after": "In the above two cases, the added symbol X and its powers did not interact with elements of E. It is possible however that the adjoined symbol may interact with E. This idea will be illustrated by adjoining an element to the field of real numbers R. As explained above, C is an extension of R. C can be obtained from R by adjoining the imaginary symbol i which satisfies i2 = â1. The result is that R[i]=C. This is different from adjoining the symbol X to R, because in that case, the powers of X are all distinct objects, but here, i2=â1 is actually an element of R.",
+			"color": "dark|0.38282 gray|0.38282 dark|0.38282 grey|0.38282 black|0.22291 gray|0.21804 grey|0.21804 dim|0.16333 gray|0.16333 dim|0.16333 grey|0.16333 silver|0.012036  "
+		}
+	}
+}

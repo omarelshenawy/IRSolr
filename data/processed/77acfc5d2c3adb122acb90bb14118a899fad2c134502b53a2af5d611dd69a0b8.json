@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "77acfc5d2c3adb122acb90bb14118a899fad2c134502b53a2af5d611dd69a0b8",
+			"url": "https://upload.wikimedia.org/math/e/6/1/e61a91669f1f08935b1e65f8c1129df7.png",
+				"previous": "For n satellites, the equations to satisfy are:",
+				"after": "Since the equations have four unknowns [x, y, z, b]âthe three components of GPS receiver position and the clock biasâsignals from at least four satellites are necessary to attempt solving these equations. They can be solved by algebraic or numerical methods. Existence and uniqueness of GPS solutions are discussed by Abell and Chaffee.[47] When n is greater than 4 this system is overdetermined and a fitting method must be used.",
+			"color": "dim|0.37879 gray|0.37879 dim|0.37879 grey|0.37879 gray|0.28278 grey|0.28278 dark|0.18264 gray|0.18264 dark|0.18264 grey|0.18264 silver|0.081122 light|0.03897 gray|0.03897 light|0.03897 grey|0.03897 gainsboro|0.026136 white|0.0030773 smoke|0.0030773  "
+		}
+	}
+}

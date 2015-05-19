@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "659a26a21bfec412408f2402763013883e28ca662d7d7f25f513fa1c904cf3ea",
+			"url": "https://upload.wikimedia.org/math/1/2/7/1273bfab4be2b522e5dd64055516a245.png",
+			"previous": [],
+				"after": "For example, the real numbers with the standard Lebesgue measure are Ï-finite but not finite. Consider the closed intervals [k, k+1] for all integers k; there are countably many such intervals, each has measure 1, and their union is the entire real line. Alternatively, consider the real numbers with the counting measure, which assigns to each finite set of reals the number of points in the set. This measure space is not Ï-finite, because every set with finite measure contains only finitely many points, and it would take uncountably many such sets to cover the entire real line. The Ï-finite measure spaces have some very convenient properties; Ï-finiteness can be compared in this respect to the LindelÃ¶f property of topological spaces. They can be also thought of as a vague generalization of the idea that a measure space may have 'uncountable measure'.",
+			"color": "gray|0.31085 grey|0.31085 dim|0.26822 gray|0.26822 dim|0.26822 grey|0.26822 dark|0.23052 gray|0.23052 dark|0.23052 grey|0.23052 silver|0.09736 light|0.045135 gray|0.045135 light|0.045135 grey|0.045135 gainsboro|0.030329 white|0.0051251 smoke|0.0051251  "
+		}
+	}
+}

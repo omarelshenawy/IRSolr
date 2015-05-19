@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "892294d283d28f3b76d90dc192ed5033bb4bb84bfd6a3f6a8ae4f0d69aec995f",
+			"url": "https://upload.wikimedia.org/math/2/f/c/2fc370e5971e3e3e284088486efa7f67.png",
+				"previous": "Let be a basis of V, i.e. a set of n linearly independent vectors that span the n-dimensional vector space V. The basis that is dual to is the set of elements of the dual vector space Vâ that forms a biorthogonal system with this basis, thus being the elements denoted satisfying",
+				"after": "where Î´ is the Kronecker delta.",
+			"color": "dim|0.44011 gray|0.44011 dim|0.44011 grey|0.44011 gray|0.26516 grey|0.26516 dark|0.15123 gray|0.15123 dark|0.15123 grey|0.15123 silver|0.054957 black|0.03585 light|0.024723 gray|0.024723 light|0.024723 grey|0.024723 gainsboro|0.015813  "
+		}
+	}
+}

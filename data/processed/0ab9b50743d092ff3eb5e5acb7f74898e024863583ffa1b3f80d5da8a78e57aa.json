@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ab9b50743d092ff3eb5e5acb7f74898e024863583ffa1b3f80d5da8a78e57aa",
+			"url": "https://upload.wikimedia.org/math/1/2/8/1281312c0f745856936ddcdc0d793f57.png",
+			"previous": [
+				"The surface area of the (n â 1)-sphere of radius 1 is",
+				"The n-sphere of unit radius centered at the origin is denoted Sn and is often referred to as \"the\" n-sphere. Note that the ordinary sphere is a 2-sphere, because it is a 2-dimensional surface (which is embedded in 3-dimensional space)."
+			],
+			"after": [
+				"where Î(z) is Euler's Gamma function.",
+				"Another expression for the surface area is"
+			],
+			"color": "gray|0.29508 grey|0.29508 dark|0.24323 gray|0.24323 dark|0.24323 grey|0.24323 dim|0.20314 gray|0.20314 dim|0.20314 grey|0.20314 silver|0.11417 light|0.061186 gray|0.061186 light|0.061186 grey|0.061186 gainsboro|0.044341 white|0.0099179 smoke|0.0099179 linen|0.0051052 lavender|0.0043606 blush|0.0043606 alice|0.0041663 blue|0.0041663 ghost|0.0037887 white|0.0037887 sea|0.0035574 shell|0.0035574 snow|0.0033956  "
+		}
+	}
+}

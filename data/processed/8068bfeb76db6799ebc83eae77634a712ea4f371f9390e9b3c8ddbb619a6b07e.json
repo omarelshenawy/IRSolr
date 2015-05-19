@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8068bfeb76db6799ebc83eae77634a712ea4f371f9390e9b3c8ddbb619a6b07e",
+			"url": "https://upload.wikimedia.org/math/3/2/e/32e19d3fdb2211a7feb702e28c87d684.png",
+				"previous": "A prediction interval for a random variable is defined similarly to a confidence interval for a statistical parameter. Consider an additional random variable Y which may or may not be statistically dependent on the random sample X. Then (u(X),Â v(X)) provides a prediction interval for the as-yet-to-be observed value y of Y if",
+				"after": "Here PrÎ¸,Ï indicates the joint probability distribution of the random variables (X,Â Y), where this distribution depends on the statistical parametersÂ (Î¸,Â Ï).",
+			"color": "dim|0.39222 gray|0.39222 dim|0.39222 grey|0.39222 gray|0.30465 grey|0.30465 dark|0.17296 gray|0.17296 dark|0.17296 grey|0.17296 silver|0.066157 light|0.030359 gray|0.030359 light|0.030359 grey|0.030359 gainsboro|0.020571 white|0.0034617 smoke|0.0034617  "
+		}
+	}
+}

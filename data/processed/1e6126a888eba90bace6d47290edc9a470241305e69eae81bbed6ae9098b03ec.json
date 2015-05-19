@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e6126a888eba90bace6d47290edc9a470241305e69eae81bbed6ae9098b03ec",
+			"url": "https://upload.wikimedia.org/math/4/5/2/45210da832f9626829457a65e9e7c4d0.png",
+				"previous": "As these expressions are real, their cube roots are well-defined and, like Cardano, we get",
+				"after": "If is not necessarily positive, we have to choose a cube root of . As there is no direct way to choose the corresponding cube root of , one has to use the relation , which gives",
+			"color": " "
+		}
+	}
+}

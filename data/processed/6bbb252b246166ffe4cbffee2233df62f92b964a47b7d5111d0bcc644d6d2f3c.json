@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bbb252b246166ffe4cbffee2233df62f92b964a47b7d5111d0bcc644d6d2f3c",
+			"url": "https://upload.wikimedia.org/math/c/2/a/c2a79f82f9c9783d20426062c9feebbe.png",
+				"previous": "Fix an -structure , and a natural number . The set of definable subsets of over some parameters is a Boolean algebra. By Stone's representation theorem for Boolean algebras there is a natural dual notion to this. One can consider this to be the topological space consisting of maximal consistent sets of formulae over . We call this the space of (complete) -types over , and write .",
+				"after": "One can show that for any -type , there exists some elementary extension of and some so that is the type of over .",
+			"color": "gray|0.27723 grey|0.27723 dim|0.27039 gray|0.27039 dim|0.27039 grey|0.27039 dark|0.20873 gray|0.20873 dark|0.20873 grey|0.20873 silver|0.10665 light|0.060407 gray|0.060407 light|0.060407 grey|0.060407 gainsboro|0.042357 white|0.0073301 smoke|0.0073301 lavender|0.0037091 blush|0.0037091 alice|0.0036059 blue|0.0036059 ghost|0.0034769 white|0.0034769 linen|0.0033628 sea|0.0033153 shell|0.0033153 snow|0.0031912  "
+		}
+	}
+}

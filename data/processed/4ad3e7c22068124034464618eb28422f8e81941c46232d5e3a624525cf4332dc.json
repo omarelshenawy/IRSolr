@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ad3e7c22068124034464618eb28422f8e81941c46232d5e3a624525cf4332dc",
+			"url": "https://upload.wikimedia.org/math/8/2/b/82be6980ef9efd060b4abfb5dc6f2998.png",
+				"previous": "Formally, the order among cardinal numbers is defined as follows: |X| â¤ |Y| means that there exists an injective function from X to Y. The CantorâBernsteinâSchroeder theorem states that if |X| â¤ |Y| and |Y| â¤ |X| then |X| = |Y|. The axiom of choice is equivalent to the statement that given two sets X and Y, either |X| â¤ |Y| or |Y| â¤ |X|.[3][4]",
+			"after": [],
+			"color": " "
+		}
+	}
+}

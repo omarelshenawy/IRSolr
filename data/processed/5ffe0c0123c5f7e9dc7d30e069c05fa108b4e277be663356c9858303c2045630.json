@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "5ffe0c0123c5f7e9dc7d30e069c05fa108b4e277be663356c9858303c2045630",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sec2tan.gif/300px-Sec2tan.gif",
+			"previous": [
+				"Here is a particular example, the derivative of the squaring function at the input 3. Let f(x) = x2 be the squaring function.",
+				"Geometrically, the derivative is the slope of the tangent line to the graph of f at a. The tangent line is a limit of secant lines just as the derivative is a limit of difference quotients. For this reason, the derivative is sometimes called the slope of the function f."
+			],
+				"after": "The slope of tangent line to the squaring function at the point (3, 9) is 6, that is to say, it is going up six times as fast as it is going to the right. The limit process just described can be performed for any point in the domain of the squaring function. This defines the derivative function of the squaring function, or just the derivative of the squaring function for short. A similar computation to the one above shows that the derivative of the squaring function is the doubling function.",
+			"color": " "
+		}
+	}
+}

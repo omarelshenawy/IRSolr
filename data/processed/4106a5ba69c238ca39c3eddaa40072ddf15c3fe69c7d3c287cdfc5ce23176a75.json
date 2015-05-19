@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4106a5ba69c238ca39c3eddaa40072ddf15c3fe69c7d3c287cdfc5ce23176a75",
+			"url": "https://upload.wikimedia.org/math/5/a/3/5a34bb082daf037b3c4b14c13af6855b.png",
+				"previous": "As T1 increases along the SOT plateau, the engines will throttle back, causing both a decrease in corrected airflow and overall pressure ratio. As shown, the chart implies a common T3 limit for both the low and high design T1 cycles. Roughly speaking, the T3 limit will correspond to a common overall pressure ratio at the T3 breakpoint. Although both cycles will increase throttle setting as T1 decreases, the low design T1 cycle has a greater 'spool-up' before hitting the corrected speed limit. Consequently, the low design T1 cycle has a higher design overall pressure ratio.[13]",
+			"after": [],
+			"color": "dark|0.45016 gray|0.45016 dark|0.45016 grey|0.45016 silver|0.23253 gray|0.13157 grey|0.13157 light|0.10843 gray|0.10843 light|0.10843 grey|0.10843 gainsboro|0.065615 white|0.0043451 smoke|0.0043451  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "21784d4e04ad4afbeb493fe609b1afba51c40b504a880e0230e8bc72ae2e1c5c",
+			"url": "https://upload.wikimedia.org/math/c/c/4/cc44f73563241c0ab0eb7c3c0d1888a3.png",
+				"previous": "Similarly, suppose a measuring rod is at rest and aligned along the x-axis in the unprimed system S. In this system, the length of this rod is written as Îx. To measure the length of this rod in the system Sâ², in which the clock is moving, the distances xâ² to the end points of the rod must be measured simultaneously in that system Sâ². In other words, the measurement is characterized by Îtâ² = 0, which can be combined with the fourth equation to find the relation between the lengths Îx and Îxâ²:",
+				"after": "This shows that the length (Îxâ²) of the rod as measured in the frame in which it is moving (Sâ²), is shorter than its length (Îx) in its own rest frame (S).",
+			"color": "dim|0.36286 gray|0.36286 dim|0.36286 grey|0.36286 gray|0.22389 grey|0.22389 black|0.20469 dark|0.11665 gray|0.11665 dark|0.11665 grey|0.11665 silver|0.048448 light|0.0214 gray|0.0214 light|0.0214 grey|0.0214 gainsboro|0.013916  "
+		}
+	}
+}

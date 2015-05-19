@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8974c89a4717e6733a29f70c25c17f4a99ad96e5f5fcd6ec804ac8d4ca639997",
+			"url": "https://upload.wikimedia.org/math/3/b/e/3be5599ad34e7ed75d109fbb9c80b47f.png",
+				"previous": "Consider, for instance, particles suspended in a viscous fluid in a gravitational field. Gravity tends to make the particles settle, whereas diffusion acts to homogenize them, driving them into regions of smaller concentration. Under the action of gravity, a particle acquires a downward speed of v = Î¼mg, where m is the mass of the particle, g is the acceleration due to gravity, and Î¼ is the particle's mobility in the fluid. George Stokes had shown that the mobility for a spherical particle with radius r is , where Î· is the dynamic viscosity of the fluid. In a state of dynamic equilibrium, the particles are distributed according to the barometric distribution",
+				"after": "where ÏâÏ0 is the difference in density of particles separated by a height difference of h, kB is Boltzmann's constant (namely, the ratio of the universal gas constant, R, to Avogadro's number, N), and T is the absolute temperature. It is Avogadro's number that is to be determined.",
+			"color": "dim|0.40856 gray|0.40856 dim|0.40856 grey|0.40856 gray|0.28309 grey|0.28309 dark|0.16909 gray|0.16909 dark|0.16909 grey|0.16909 silver|0.065819 light|0.029694 gray|0.029694 light|0.029694 grey|0.029694 gainsboro|0.021549 white|0.004598 smoke|0.004598  "
+		}
+	}
+}

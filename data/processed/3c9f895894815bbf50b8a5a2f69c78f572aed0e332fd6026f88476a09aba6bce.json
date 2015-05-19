@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c9f895894815bbf50b8a5a2f69c78f572aed0e332fd6026f88476a09aba6bce",
+			"url": "https://upload.wikimedia.org/math/f/b/7/fb740331f3d99ece8612db3f64ed7ded.png",
+				"previous": "Another matrix frequently used in geometrical situations is the Jacobi matrix of a differentiable map f: Rn â Rm. If f1, ..., fm denote the components of f, then the Jacobi matrix is defined as [79]",
+				"after": "If n > m, and if the rank of the Jacobi matrix attains its maximal value m, f is locally invertible at that point, by the implicit function theorem.[80]",
+			"color": "gray|0.25788 grey|0.25788 dim|0.25341 gray|0.25341 dim|0.25341 grey|0.25341 dark|0.24292 gray|0.24292 dark|0.24292 grey|0.24292 silver|0.11403 light|0.054209 gray|0.054209 light|0.054209 grey|0.054209 gainsboro|0.041688 white|0.011567 smoke|0.011567 linen|0.0039461 lavender|0.0035865 blush|0.0035865 alice|0.0034932 blue|0.0034932 ghost|0.0034044 white|0.0034044 sea|0.0033093 shell|0.0033093 snow|0.0032094  "
+		}
+	}
+}

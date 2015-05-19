@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f7941c64bd84099abd5dda46d4278195f2ba7f7ba4aa927eb284ba7ed7af25e",
+			"url": "https://upload.wikimedia.org/math/7/e/2/7e2c7da13c45828634bd5e861f537c80.png",
+				"previous": "In 1859 Bernhard Riemann used complex analysis and a special meromorphic function now known as the Riemann zeta function to derive an analytic expression for the number of primes less than or equal to a real numberÂ x. Remarkably, the main term in Riemann's formula was exactly the above integral, lending substantial weight to Gauss's conjecture. Riemann found that the error terms in this expression, and hence the manner in which the primes are distributed, are closely related to the complex zeros of the zeta function. Using Riemann's ideas and by getting more information on the zeros of the zeta function, Jacques Hadamard and Charles Jean de la VallÃ©e-Poussin managed to complete the proof of Gauss's conjecture. In particular, they proved that if",
+				"after": "then",
+			"color": "dim|0.38159 gray|0.38159 dim|0.38159 grey|0.38159 gray|0.30482 grey|0.30482 dark|0.17084 gray|0.17084 dark|0.17084 grey|0.17084 silver|0.070526 light|0.033485 gray|0.033485 light|0.033485 grey|0.033485 gainsboro|0.023205 white|0.004074 smoke|0.004074  "
+		}
+	}
+}

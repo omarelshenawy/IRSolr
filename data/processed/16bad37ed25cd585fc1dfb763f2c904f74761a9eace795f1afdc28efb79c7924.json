@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "16bad37ed25cd585fc1dfb763f2c904f74761a9eace795f1afdc28efb79c7924",
+			"url": "https://upload.wikimedia.org/math/4/3/9/439c0bb7094dd95baa1478ef1d46705d.png",
+				"previous": "Additionally for any vectors u, v â V and scalars a, b â F:",
+				"after": "When a bijective linear mapping exists between two vector spaces (that is, every vector from the second space is associated with exactly one in the first), we say that the two spaces are isomorphic. Because an isomorphism preserves linear structure, two isomorphic vector spaces are \"essentially the same\" from the linear algebra point of view. One essential question in linear algebra is whether a mapping is an isomorphism or not, and this question can be answered by checking if the determinant is nonzero. If a mapping is not an isomorphism, linear algebra is interested in finding its range (or image) and the set of elements that get mapped to zero, called the kernel of the mapping.",
+			"color": "dim|0.38028 gray|0.38028 dim|0.38028 grey|0.38028 gray|0.28996 grey|0.28996 dark|0.17537 gray|0.17537 dark|0.17537 grey|0.17537 silver|0.075363 light|0.036274 gray|0.036274 light|0.036274 grey|0.036274 gainsboro|0.024607 white|0.0044708 smoke|0.0044708  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "356b71185842a4afba4083ed5849b2fa2894fe0351e5ea41885828403d9c39f5",
+			"url": "https://upload.wikimedia.org/math/8/f/d/8fd0f71316f4f623677f84a2d3eb4ae6.png",
+			"previous": [
+				"Mass:Â Â Â Â Â Â Â Â Â Â ",
+				"Energy:Â Â Â Â Â Â Â Â "
+			],
+			"after": [
+				"Under the assumption that , these equations become equivalent to the momentum balance. Thus, for Prandtl number and Schmidt number the Blasius solution applies directly.",
+				"Accordingly, this derivation uses a related form of the boundary conditions, replacing with or (absolute temperature or concentration of species A). The subscript S denotes a surface condition."
+			],
+			"color": "dim|0.33405 gray|0.33405 dim|0.33405 grey|0.33405 gray|0.3122 grey|0.3122 dark|0.1925 gray|0.1925 dark|0.1925 grey|0.1925 silver|0.076847 light|0.03584 gray|0.03584 light|0.03584 grey|0.03584 gainsboro|0.02568 white|0.0052107 smoke|0.0052107  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4194bcf4bf9deab51d5e1cf4d1763dbb34c4333009d105aa395da9a129866d0e",
+			"url": "https://upload.wikimedia.org/math/7/1/c/71c5177bb9af6ebaa528387aa54c451a.png",
+				"previous": "Most pocket calculators have a square root key. Computer spreadsheets and other software are also frequently used to calculate square roots. Pocket calculators typically implement efficient routines, such as the Newton's method (frequently with an initial guess of 1), to compute the square root of a positive real number.[12][13] When computing square roots with logarithm tables or slide rules, one can exploit the identity",
+				"after": "where and are the natural and base-10 logarithms.",
+			"color": "dim|0.33761 gray|0.33761 dim|0.33761 grey|0.33761 black|0.234 gray|0.20621 grey|0.20621 dark|0.1288 gray|0.1288 dark|0.1288 grey|0.1288 silver|0.048382 light|0.020971 gray|0.020971 light|0.020971 grey|0.020971 gainsboro|0.014009  "
+		}
+	}
+}

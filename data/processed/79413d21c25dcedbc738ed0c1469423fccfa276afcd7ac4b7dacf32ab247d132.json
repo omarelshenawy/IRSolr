@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "79413d21c25dcedbc738ed0c1469423fccfa276afcd7ac4b7dacf32ab247d132",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/ArXiv_1994.gif/300px-ArXiv_1994.gif",
+			"previous": [],
+				"after": "The arXiv was made possible by Donald Knuth's low-bandwidth TeX file format, which allowed scientific papers to be easily transmitted over the Internet and rendered client-side.[7] Around 1990, Joanne Cohn began emailing physics preprints to colleagues as TeX files, but the number of papers being sent soon filled mailboxes to capacity. Paul Ginsparg recognized the need for central storage, and in August 1991 he created a central repository mailbox stored at the Los Alamos National Laboratory which could be accessed from any computer. Additional modes of access were soon added: FTP in 1991, Gopher in 1992, and the World Wide Web in 1993.[5][8] The term e-print was quickly adopted to describe the articles.",
+			"color": " "
+		}
+	}
+}

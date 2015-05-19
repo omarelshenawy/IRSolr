@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fdf3001cc586030aaa38d6decb968d8fdc215a8480660bfa09969e6a59be83b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vector_addition_ans_scaling.png/200px-Vector_addition_ans_scaling.png",
+			"previous": [],
+				"after": "A vector space (also called a linear space) is a collection of objects called vectors, which may be added together and multiplied (\"scaled\") by numbers, called scalars in this context. Scalars are often taken to be real numbers, but there are also vector spaces with scalar multiplication by complex numbers, rational numbers, or generally any field. The operations of vector addition and scalar multiplication must satisfy certain requirements, called axioms, listed below. Euclidean vectors are an example of a vector space. They represent physical quantities such as forces: any two forces (of the same type) can be added to yield a third, and the multiplication of a force vector by a real multiplier is another force vector. In the same vein, but in a more geometric sense, vectors representing displacements in the plane or in three-dimensional space also form vector spaces. Vectors in vector spaces do not necessarily have to be arrow-like objects as they appear in the mentioned examples: vectors are regarded as abstract mathematical objects with particular properties, which in some cases can be visualized as arrows.",
+			"color": "black|0.35246 red|0.28601 dim|0.08995 gray|0.08995 dim|0.08995 grey|0.08995 light|0.067864 coral|0.067864 gray|0.058727 grey|0.058727 salmon|0.038516 light|0.023393 pink|0.023393 light|0.018289 steel|0.018289 blue|0.018289 dark|0.017187 gray|0.017187 dark|0.017187 grey|0.017187 pink|0.016871 silver|0.007333 light|0.0046059 gray|0.0046059 light|0.0046059 grey|0.0046059  "
+		}
+	}
+}

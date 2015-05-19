@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "161ddaead3bbf3a8fcfddd54d6b479098fc0f98f057cdee8af18338962b19a8c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Types_of_latitude_difference.png/400px-Types_of_latitude_difference.png",
+				"previous": "The following plot shows the magnitude of the difference between the geodetic latitude, (denoted as the \"common\" latitude on the plot), and the auxiliary latitudes other than the isometric latitude (which diverges to infinity at the poles). In every case the geodetic latitude is the greater. The differences shown on the plot are in arc minutes. The horizontal resolution of the plot fails to make clear that the maxima of the curves are not at 45Â° but calculation shows that they are within a few arc minutes of 45Â°. Some representative data points are given in the table following the plot. Note the closeness of the conformal and geocentric latitudes. This was exploited in the days of hand calculators to expedite the construction of map projections. (Snyder,[10] page 108).",
+			"after": [],
+			"color": "white|0.099133 smoke|0.099133 ghost|0.098913 white|0.098913 alice|0.098904 blue|0.098904 snow|0.098869 sea|0.098828 shell|0.098828 white|0.098818 mint|0.098761 cream|0.098761 lavender|0.09876 blush|0.09876 floral|0.098644 white|0.098644 azure|0.098587  "
+		}
+	}
+}

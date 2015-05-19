@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8595a35c72eea1c74fb5566ff08536198216f3afd2e25edb81e9c625cac9cdf6",
+			"url": "https://upload.wikimedia.org/math/3/7/b/37b720bf2d284be2ad88ce73442aa79b.png",
+			"previous": [
+				"That is to say, given any element x of X that is in the closure of any subset A, f(x) belongs to the closure of f(A). This is equivalent to the requirement that for all subsets A' of X'",
+				"between topological spaces is continuous in the sense above if and only if for all subsets A of X"
+			],
+			"after": [
+				"Moreover,",
+				"is continuous if and only if"
+			],
+			"color": "dim|0.36409 gray|0.36409 dim|0.36409 grey|0.36409 gray|0.3093 grey|0.3093 dark|0.17783 gray|0.17783 dark|0.17783 grey|0.17783 silver|0.074799 light|0.035248 gray|0.035248 light|0.035248 grey|0.035248 gainsboro|0.024721 white|0.0035223 smoke|0.0035223  "
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "72a00127355044943b8949341da7e8cb641d1a1c5bdffb861cd041ed6bb443d0",
+			"url": "https://upload.wikimedia.org/math/5/7/5/57597d78cad2a8518d9777bcf03cf55f.png",
+			"previous": [
+				"Let Then Q becomes a quadratic q in",
+				"defines a biquadratic equation, which is easy to solve.",
+				"If then the biquadratic function",
+				"In the case of two quadratic factors or of large integer coefficients, the factorization is harder to compute, and, in general, it is better to use the factor function of a computer algebra system (see polynomial factorization for a description of the algorithms that are involved)."
+			],
+			"after": [
+				"The polynomial",
+				"is almost palindromic, as",
+				"(it is palindromic if m = 1)."
+			],
+			"color": "dim|0.5372 gray|0.5372 dim|0.5372 grey|0.5372 gray|0.29225 grey|0.29225 black|0.091412 dark|0.061753 gray|0.061753 dark|0.061753 grey|0.061753 silver|0.01598  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "22ef675c55b5bb551a43274ed1ae0bf7f5947ea4e760436ac07aff4e532b7988",
+			"url": "https://upload.wikimedia.org/math/7/9/0/790cf0fa08fc0156c87fa473a53a1fba.png",
+			"previous": [
+				"Let be an arbitrary matrix of complex numbers with eigenvalues , , ... . (Here it is understood that an eigenvalue with algebraic multiplicity occurs times in this list.) Then",
+				"A matrix that is not diagonalizable is said to be defective. For defective matrices, the notion of eigenvector can be generalized to generalized eigenvectors, and that of diagonal matrix to a Jordan form matrix. Over an algebraically closed field, any matrix has a Jordan form and therefore admits a basis of generalized eigenvectors, and a decomposition into generalized eigenspaces"
+			],
+			"after": [],
+			"color": "dim|0.41129 gray|0.41129 dim|0.41129 grey|0.41129 gray|0.28528 grey|0.28528 dark|0.16434 gray|0.16434 dark|0.16434 grey|0.16434 silver|0.06801 light|0.034343 gray|0.034343 light|0.034343 grey|0.034343 gainsboro|0.023366  "
+		}
+	}
+}

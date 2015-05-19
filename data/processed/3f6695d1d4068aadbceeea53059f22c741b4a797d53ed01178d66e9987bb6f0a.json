@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f6695d1d4068aadbceeea53059f22c741b4a797d53ed01178d66e9987bb6f0a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Plug-InExample.png/260px-Plug-InExample.png",
+			"previous": [],
+				"after": "As shown in the figure, the host application provides services which the plug-in can use, including a way for plug-ins to register themselves with the host application and a protocol for the exchange of data with plug-ins. Plug-ins depend on the services provided by the host application and do not usually work by themselves. Conversely, the host application operates independently of the plug-ins, making it possible for end-users to add and update plug-ins dynamically without needing to make changes to the host application.[1][2]",
+			"color": "lemon|0.11318 chiffon|0.11318 light|0.11315 golden|0.11315 rod|0.11315 yellow|0.11315 white|0.069588 smoke|0.069588 sea|0.06859 shell|0.06859 alice|0.068568 blue|0.068568 ghost|0.068557 white|0.068557 snow|0.068388 white|0.067986 mint|0.067466 cream|0.067466 floral|0.066997 white|0.066997 lavender|0.066543 blush|0.066543 azure|0.066203 dark|0.017482 gray|0.017482 dark|0.017482 grey|0.017482 silver|0.010582 light|0.0095944 gray|0.0095944 light|0.0095944 grey|0.0095944 gainsboro|0.0093419 dim|0.0085531 gray|0.0085531 dim|0.0085531 grey|0.0085531 gray|0.0085228 grey|0.0085228 misty|0.0039401 rose|0.0039401 ivory|0.0031748 tan|0.0029024 linen|0.0027603  "
+		}
+	}
+}

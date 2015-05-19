@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e8719fb49dcd1a918fba4fee708ca5b3e9520da684329c10f1cbbbd3faf962c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mainspring_wind-up_keys.jpg/220px-Mainspring_wind-up_keys.jpg",
+				"previous": "Although the methods they use vary, all oscillating clocks, mechanical and digital and atomic, work similarly and can be divided into analogous parts.[44][45][46] They consist of an object that repeats the same motion over and over again, an oscillator, with a precisely constant time interval between each repetition, or 'beat'. Attached to the oscillator is a controller device, which sustains the oscillator's motion by replacing the energy it loses to friction, and converts its oscillations into a series of pulses. The pulses are then counted by some type of counter, and the number of counts is converted into convenient units, usually seconds, minutes, hours, etc. Finally some kind of indicator displays the result in human readable form.",
+				"after": "This provides power to keep the clock going.",
+			"color": "gray|0.44657 grey|0.44657 dark|0.29724 gray|0.29724 dark|0.29724 grey|0.29724 black|0.17497 dim|0.039318 gray|0.039318 dim|0.039318 grey|0.039318 silver|0.015483 tan|0.0062225  "
+		}
+	}
+}

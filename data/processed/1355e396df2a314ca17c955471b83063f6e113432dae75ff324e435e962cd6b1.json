@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1355e396df2a314ca17c955471b83063f6e113432dae75ff324e435e962cd6b1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cayley_graph_of_F2.svg/150px-Cayley_graph_of_F2.svg.png",
+				"previous": "it may not be obvious that these groups are isomorphic.[7]",
+				"after": "Geometric group theory attacks these problems from a geometric viewpoint, either by viewing groups as geometric objects, or by finding suitable geometric objects a group acts on.[8] The first idea is made precise by means of the Cayley graph, whose vertices correspond to group elements and edges correspond to right multiplication in the group. Given two elements, one constructs the word metric given by the length of the minimal path between the elements. A theorem of Milnor and Svarc then says that given a group G acting in a reasonable manner on a metric space X, for example a compact manifold, then G is quasi-isometric (i.e. looks similar from the far) to the space X.",
+			"color": "lavender|0.16818 light|0.15909 coral|0.15909 medium|0.15455 slate|0.15455 blue|0.15455 black|0.1 sea|0.052073 shell|0.052073 linen|0.045285 lavender|0.045153 blush|0.045153 misty|0.042424 rose|0.042424 white|0.022635 snow|0.021878 mint|0.021499 cream|0.021499 silver|0.020265 light|0.017255 gray|0.017255 light|0.017255 grey|0.017255 white|0.016545 smoke|0.016545 gainsboro|0.015551 floral|0.014248 white|0.014248 ghost|0.012739 white|0.012739 azure|0.012649 alice|0.011804 blue|0.011804 dark|0.010038 gray|0.010038 dark|0.010038 grey|0.010038 ivory|0.0093047 gray|0.0073864 grey|0.0073864 honeydew|0.004936 indian|0.0045455 red|0.0045455 slate|0.0045455 blue|0.0045455  "
+		}
+	}
+}

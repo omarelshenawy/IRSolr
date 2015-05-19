@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f2bfeb43c4e8fccb6307305e29e4a6eb0100ed7edc829cddf28c6ef49e140d1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Folding%40home_participation_per_client.png/300px-Folding%40home_participation_per_client.png",
+			"previous": [],
+				"after": "In addition to reporting active processors, Folding@home determines its computing performance as measured in floating point operations per second (FLOPS) based on the actual execution time of its calculations. Originally this was reported as native FLOPS: the raw performance from each given type of processing hardware.[91] In March 2009 Folding@home began reporting the performance in native and x86 FLOPS,[92] the latter being an estimation of how many FLOPS the calculation would take on a standard x86 CPU architecture, which is commonly used as a performance reference. Specialized hardware such as GPUs can efficiently perform certain complex functions in a single floating point operation which would otherwise require multiple operations on the x86 architecture. The x86 measurement attempts to even out these hardware differences.[91] Despite conservative conversions, the GPU clients' x86 FLOPS are consistently greater than their native FLOPS and comprise a large majority of Folding@home's measured computing performance.[93][94]",
+			"color": "white|0.097093 smoke|0.097093 sea|0.096759 shell|0.096759 snow|0.096525 alice|0.096522 blue|0.096522 mint|0.096476 cream|0.096476 ghost|0.096428 white|0.096428 white|0.096368 floral|0.096237 white|0.096237 azure|0.095349 lavender|0.093672 blush|0.093672 light|0.0058873 steel|0.0058873 blue|0.0058873 lavender|0.0054687 ivory|0.003834 honeydew|0.0032647 linen|0.0029507  "
+		}
+	}
+}

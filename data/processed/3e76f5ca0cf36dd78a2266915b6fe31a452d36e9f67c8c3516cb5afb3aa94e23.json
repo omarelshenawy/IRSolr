@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e76f5ca0cf36dd78a2266915b6fe31a452d36e9f67c8c3516cb5afb3aa94e23",
+			"url": "https://upload.wikimedia.org/math/a/7/4/a74384db64b7c9b5b51f084e58b8a155.png",
+			"previous": [
+				"",
+				"From this solution, it is possible to characterize the convective heat/mass transfer constants based on the region of boundary layer flow. Fourierâs law of conduction and Newtonâs Law of Cooling are combined with the flux term derived above and the boundary layer thickness."
+			],
+			"after": [
+				"This gives the local convective constant at one point on the semi-infinite plane. Integrating over the length of the plate gives an average",
+				""
+			],
+			"color": "dim|0.3314 gray|0.3314 dim|0.3314 grey|0.3314 gray|0.29868 grey|0.29868 dark|0.1921 gray|0.1921 dark|0.1921 grey|0.1921 silver|0.082146 light|0.04122 gray|0.04122 light|0.04122 grey|0.04122 gainsboro|0.029982 white|0.0058149 smoke|0.0058149 linen|0.0028504  "
+		}
+	}
+}

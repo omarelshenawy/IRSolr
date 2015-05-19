@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "54d7fdedeb229d59c65bd53dda9bc549669c9cb05c60bb8364b07caca7c07f6e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cscr-featuredtopic.svg/16px-Cscr-featuredtopic.svg.png",
+			"previous": [
+				"The top of the page lists content that is under review, either to obtain or keep a Featured quality rating. Former Featured content is listed at the bottom of the page.",
+				"Featured Content on Wikipedia is content that Wikipedia editors believe are the best in the encyclopedia, and the status which all content should eventually achieve. Content includes articles, lists, topics, and pictures. Before being listed here, content is reviewed at a process like Wikipedia:Featured article candidates and Wikipedia:Featured list candidates for accuracy, neutrality, completeness, and style according to quality criteria. Bold article names have been featured on the Main Page as \"Today's featured article\", \"Today's featured list\", or the like."
+			],
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "silver|0.34812 dark|0.25871 gray|0.25871 dark|0.25871 grey|0.25871 light|0.20045 gray|0.20045 light|0.20045 grey|0.20045 gainsboro|0.1326 linen|0.012717 gray|0.01164 grey|0.01164 white|0.010926 smoke|0.010926 tan|0.0064371  "
+		}
+	}
+}

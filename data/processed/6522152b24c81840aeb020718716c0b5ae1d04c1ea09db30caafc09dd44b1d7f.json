@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6522152b24c81840aeb020718716c0b5ae1d04c1ea09db30caafc09dd44b1d7f",
+			"url": "https://upload.wikimedia.org/math/d/6/2/d62dc9340dedf1617c8cb9d66d25938e.png",
+			"previous": [
+				"1) engine match e.g. or or , etc.",
+				"The three constraints imposed would typically be similar to before:"
+			],
+			"after": [
+				"3) turbine flow capacity e.g. vs",
+				"During the Complex Off-design calculation, the operating point on the compressor map is constantly being guessed (in terms of and ) to obtain an estimate of the compressor mass flow, pressure ratio and efficiency. After the combustion calculation is completed, the implied compressor mechanical shaft speed is used to estimate the turbine corrected speed (i.e. ). Typically, the turbine load (power demanded) and entry flow and temperature are used to estimate the turbine enthalpy drop/inlet temperature (i.e. ). The estimated turbine corrected speed and enthalpy drop/inlet temperature parameters are used to obtain, from the turbine map, an estimate of the turbine corrected flow () and efficiency (i.e. ). The calculation then continues, in the usual way, through the turbine, jetpipe and nozzle. If the constraints are not within tolerance, the iteration engine makes another guess at the iteration variables and the iterative loop is restarted."
+			],
+			"color": "dim|0.35616 gray|0.35616 dim|0.35616 grey|0.35616 gray|0.23591 grey|0.23591 black|0.18528 dark|0.12338 gray|0.12338 dark|0.12338 grey|0.12338 silver|0.050298 light|0.023293 gray|0.023293 light|0.023293 grey|0.023293 gainsboro|0.016414  "
+		}
+	}
+}

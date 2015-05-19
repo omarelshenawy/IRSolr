@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ccec5f43b481cbfc1f9c93aa24e9bf68ec2ce2f6d7c3d8828905d4cf7c417e8",
+			"url": "https://upload.wikimedia.org/math/a/1/0/a100432cfbaa6417ffccfab51609f53b.png",
+				"previous": "The wavelength of a sinusoidal waveform traveling at constant speed is given by:[17]",
+			"after": [
+				"where is called the phase speed (magnitude of the phase velocity) of the wave and is the wave's frequency.",
+				"Wavelength can be a useful concept even if the wave is not periodic in space. For example, in an ocean wave approaching shore, the incoming wave undulates with a varying local wavelength that depends in part on the depth of the sea floor compared to the wave height. The analysis of the wave can be based upon comparison of the local wavelength with the local water depth.[18]"
+			],
+			"color": "dim|0.42159 gray|0.42159 dim|0.42159 grey|0.42159 gray|0.28387 grey|0.28387 dark|0.16865 gray|0.16865 dark|0.16865 grey|0.16865 silver|0.064557 light|0.028862 gray|0.028862 light|0.028862 grey|0.028862 gainsboro|0.018225  "
+		}
+	}
+}

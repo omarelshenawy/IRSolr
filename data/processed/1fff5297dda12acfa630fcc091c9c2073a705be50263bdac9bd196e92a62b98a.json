@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fff5297dda12acfa630fcc091c9c2073a705be50263bdac9bd196e92a62b98a",
+			"url": "https://upload.wikimedia.org/math/5/d/6/5d633df4cdef5c895a474c520ac4a4c7.png",
+			"previous": [
+				"where V and I represent the voltage and current respectively on the electrical side of the transducer.",
+				"It was not enough to just develop a mechanical analogy. This could be applied to problems that were entirely in the mechanical domain, but for mechanical filters with an electrical application it is necessary to include the transducer in the analogy as well. PoincarÃ© in 1907 was the first to describe a transducer as a pair of linear algebraic equations relating electrical variables (voltage and current) to mechanical variables (force and velocity).[13] These equations can be expressed as a matrix relationship in much the same way as the z-parameters of a two-port network in electrical theory, to which this is entirely analogous:"
+			],
+				"after": "An early application of these new theoretical tools was in phonographic sound reproduction. A recurring problem with early phonograph designs was that mechanical resonances in the pickup and sound transmission mechanism caused excessively large peaks and troughs in the frequency response, resulting in poor sound quality. In 1923, Harrison of the Western Electric Company filed a patent for a phonograph in which the mechanical design was entirely represented as an electrical circuit. The horn of the phonograph is represented as a transmission line, and is a resistive load for the rest of the circuit, while all the mechanical and acoustic partsâfrom the pickup needle through to the hornâare translated into lumped components according to the impedance analogy. The circuit arrived at is a ladder topology of series resonant circuits coupled by shunt capacitors. This can be viewed as a bandpass filter circuit. Harrison designed the component values of this filter to have a specific passband corresponding to the desired audio passband (in this case 100Â Hz to 6Â kHz) and a flat response. Translating these electrical element values back into mechanical quantities provided specifications for the mechanical components in terms of mass and stiffness, which in turn could be translated into physical dimensions for their manufacture. The resulting phonograph has a flat frequency response in its passband and is free of the resonances previously experienced.[15] Shortly after this, Harrison filed another patent using the same methodology on telephone transmit and receive transducers.[16]",
+			"color": "black|0.58383 dim|0.33234 gray|0.33234 dim|0.33234 grey|0.33234 gray|0.08383 grey|0.08383  "
+		}
+	}
+}

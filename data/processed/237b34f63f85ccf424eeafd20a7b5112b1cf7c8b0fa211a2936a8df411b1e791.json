@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "237b34f63f85ccf424eeafd20a7b5112b1cf7c8b0fa211a2936a8df411b1e791",
+			"url": "https://upload.wikimedia.org/math/4/8/e/48eb1b219c5469ba72b738719b15adf0.png",
+				"previous": "which can be interpreted as the linear interpolant of corresponding points on the linear BÃ©zier curves from P0 to P1 and from P1 to P2 respectively. Rearranging the preceding equation yields:",
+				"after": "The derivative of the BÃ©zier curve with respect to t is",
+			"color": "dim|0.38155 gray|0.38155 dim|0.38155 grey|0.38155 gray|0.27718 grey|0.27718 dark|0.17087 gray|0.17087 dark|0.17087 grey|0.17087 silver|0.080957 light|0.042255 gray|0.042255 light|0.042255 grey|0.042255 gainsboro|0.030347 white|0.0041204 smoke|0.0041204  "
+		}
+	}
+}

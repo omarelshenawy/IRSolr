@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "632c001546e3fe4841cf3759d4d8a307713fe2a4edd490c7f07cf6cb6d572e87",
+			"url": "https://upload.wikimedia.org/math/b/7/1/b7118a777168022f01f7439db6d769ad.png",
+			"previous": [],
+				"after": "Conversely, there are algorithms which run in a number of Turing machine steps bounded by a polynomial in the length of binary-encoded input, but do not take a number of arithmetic operations bounded by a polynomial in the number of input numbers. The Euclidean algorithm for computing the greatest common divisor of two integers is one example. Given two integers and the running time of the algorithm is bounded by Turing machine steps. This is polynomial in the size of a binary representation of and as the size of such a representation is roughly . At the same time, the number of arithmetic operations cannot be bound by the number of integers in the input (which is constant in this case, there are always only two integers in the input). Due to the latter observation, the algorithm does not run in strongly polynomial time. Its real running time depends on the magnitudes of and and not only on the number of integers in the input.",
+			"color": " "
+		}
+	}
+}

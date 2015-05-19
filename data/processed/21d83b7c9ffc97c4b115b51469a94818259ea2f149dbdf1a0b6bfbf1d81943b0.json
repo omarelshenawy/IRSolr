@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "21d83b7c9ffc97c4b115b51469a94818259ea2f149dbdf1a0b6bfbf1d81943b0",
+			"url": "https://upload.wikimedia.org/math/2/e/c/2ecca72f8945a42b99cd8ddde1b2b296.png",
+			"previous": [
+				"The norms of are integers such that",
+				"The proof of the main theorem begins by reduction to the case of prime numbers. Euler's four-square identity implies that if Langrange's four-square theorem holds for two numbers, it holds for the product of the two numbers. Since any natural number can be factored into powers of primes, it suffices to prove the theorem for prime numbers. It is true for . To show this for an odd prime integer , represent it as a quaternion and assume for now (as we shall show later) that it is not a Hurwitz irreducible; that is, it can be factored into two non-unit Hurwitz quaternions"
+			],
+			"after": [
+				"and . This shows that both and are equal to (since they are integers), and is the sum of four squares",
+				"If it happens that the chosen has half-integer coefficients, it can be replaced by another Hurwitz quaternion. Choose in such a way that has even integer coefficients. Then"
+			],
+			"color": "dim|0.331 gray|0.331 dim|0.331 grey|0.331 gray|0.27957 grey|0.27957 dark|0.21026 gray|0.21026 dark|0.21026 grey|0.21026 silver|0.09671 light|0.043357 gray|0.043357 light|0.043357 grey|0.043357 gainsboro|0.022698 white|0.0043528 smoke|0.0043528  "
+		}
+	}
+}

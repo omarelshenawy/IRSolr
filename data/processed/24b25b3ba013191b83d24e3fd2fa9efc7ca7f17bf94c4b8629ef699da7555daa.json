@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "24b25b3ba013191b83d24e3fd2fa9efc7ca7f17bf94c4b8629ef699da7555daa",
+			"url": "https://upload.wikimedia.org/math/7/1/5/71540c5f5b125f28debd9a2036bb7cc1.png",
+				"previous": "The rate of energy loss per unit surface area from surface friction, , is given by",
+			"after": [
+				"where is the density of near-surface air ([kg/m3]) and is the near surface wind speed ([m/s]).",
+				"The rate of energy production per unit surface area, is given by"
+			],
+			"color": "dim|0.3401 gray|0.3401 dim|0.3401 grey|0.3401 gray|0.27369 grey|0.27369 dark|0.19198 gray|0.19198 dark|0.19198 grey|0.19198 silver|0.097435 light|0.05002 gray|0.05002 light|0.05002 grey|0.05002 gainsboro|0.034191 white|0.0033289 smoke|0.0033289  "
+		}
+	}
+}

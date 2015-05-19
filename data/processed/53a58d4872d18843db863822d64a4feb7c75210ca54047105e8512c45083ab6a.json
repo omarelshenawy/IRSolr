@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "53a58d4872d18843db863822d64a4feb7c75210ca54047105e8512c45083ab6a",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Supercrit2.jpg/220px-Supercrit2.jpg",
+				"previous": "Supercritical airfoils feature four main benefits: they have a higher drag divergence Mach number,[4] they develop shock waves further aft than traditional airfoils,[5] they greatly reduce shock-induced boundary layer separation, and their geometry allows for more efficient wing design (e.g., a thicker wing and/or reduced wing sweep, each of which may allow for a lighter wing). At a particular speed for a given airfoil section, the critical Mach number, flow over the upper surface of an airfoil can become locally supersonic, but slows down to match the pressure at the trailing edge of the lower surface without a shock. However, at a certain higher speed, the drag divergence Mach number, a shock is required to recover enough pressure to match the pressures at the trailing edge. This shock causes transonic wave drag, and can induce flow separation behind it; both have negative effects on the airfoil's performance.",
+				"after": "At a certain point along the airfoil, a shock is generated, which increases the pressure coefficient to the critical value Cp-crit, where the local flow velocity will be Mach 1. The position of this shockwave is determined by the geometry of the airfoil; a supercritical foil is more efficient because the shockwave is minimized and is created as far aft as possible thus reducing drag. Compared to a typical airfoil section, the supercritical airfoil creates more of its lift at the aft end, due to its more even pressure distribution over the upper surface.",
+			"color": " "
+		}
+	}
+}

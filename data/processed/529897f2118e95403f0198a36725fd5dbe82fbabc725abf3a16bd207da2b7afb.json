@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "529897f2118e95403f0198a36725fd5dbe82fbabc725abf3a16bd207da2b7afb",
+			"url": "https://upload.wikimedia.org/math/c/6/2/c62fceb1e1334ea82b2ba2f6ec8e8f13.png",
+				"previous": "The Krull dimension of a commutative ring R is the supremum of the lengths n of all the increasing chains of prime ideals . For example, the polynomial ring over a field k has dimension n. The fundamental theorem in the dimension theory states the following numbers coincide for a noetherian local ring :[4]",
+				"after": "where is the height of . It is a deep theorem of Ratliff that the converse is also true.[5]",
+			"color": "dim|0.28647 gray|0.28647 dim|0.28647 grey|0.28647 gray|0.24707 grey|0.24707 black|0.21405 dark|0.14298 gray|0.14298 dark|0.14298 grey|0.14298 silver|0.044027 light|0.027206 gray|0.027206 light|0.027206 grey|0.027206 gainsboro|0.020771 white|0.0046964 smoke|0.0046964  "
+		}
+	}
+}

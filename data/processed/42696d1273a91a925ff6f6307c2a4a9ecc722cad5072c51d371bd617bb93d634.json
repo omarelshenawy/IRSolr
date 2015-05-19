@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "42696d1273a91a925ff6f6307c2a4a9ecc722cad5072c51d371bd617bb93d634",
+			"url": "https://upload.wikimedia.org/math/1/b/3/1b39025db39be7d05ebbef27197a937c.png",
+			"previous": [
+				"Scaling R so that RRâ  = 1 then",
+				"As an example, assume that we get"
+			],
+			"after": [
+				"so â  leaves the length of unchanged. We can also show that",
+				"so the transformation RvRâ  preserves both length and angle. It therefore can be identified as a rotation or rotoreflection; R is called a rotor if it is a proper rotation (as it is if it can be expressed as a product of an even number of vectors) and is an instance of what is known in GA as a versor (presumably for historical reasons)."
+			],
+			"color": "gray|0.31262 grey|0.31262 dim|0.28858 gray|0.28858 dim|0.28858 grey|0.28858 dark|0.21433 gray|0.21433 dark|0.21433 grey|0.21433 silver|0.089296 light|0.044103 gray|0.044103 light|0.044103 grey|0.044103 gainsboro|0.03069 white|0.0055001 smoke|0.0055001 linen|0.0027636  "
+		}
+	}
+}

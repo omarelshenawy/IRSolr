@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c9ac692c9f21afa837cff452134edc015113462b1af99f79fc43eba98ae8498",
+			"url": "https://upload.wikimedia.org/math/b/4/e/b4ed9dfed53d289b17c3808dac6ca42b.png",
+				"previous": "The discipline of software engineering was created to address poor quality of software, get projects exceeding time and budget under control, and ensure that software is built systematically, rigorously, measurably, on time, on budget, and within specification. Engineering already addresses all these issues, hence the same principles used in engineering can be applied to software. The widespread lack of best practices for software at the time was perceived as a \"software crisis\".[13][14][15]",
+				"after": "The book analyzes sixty-three software projects and concludes the cost of fixing errors escalates as we move the project toward field use. The book also asserts that the key driver of software cost is the capability of the software development team.",
+			"color": "dim|0.35317 gray|0.35317 dim|0.35317 grey|0.35317 gray|0.30153 grey|0.30153 dark|0.17982 gray|0.17982 dark|0.17982 grey|0.17982 silver|0.075592 light|0.038014 gray|0.038014 light|0.038014 grey|0.038014 gainsboro|0.027291 white|0.0050943 smoke|0.0050943 black|0.0041416  "
+		}
+	}
+}

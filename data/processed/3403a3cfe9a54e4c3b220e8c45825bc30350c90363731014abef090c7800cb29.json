@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3403a3cfe9a54e4c3b220e8c45825bc30350c90363731014abef090c7800cb29",
+			"url": "https://upload.wikimedia.org/math/4/8/2/48282892f93df9bff5bde6e8a27e885d.png",
+				"previous": "For the Earth, MÂ =Â 5.9742Â ÃÂ 1024Â kg, meaning that mÂ =Â 4.4354Â ÃÂ 10â3Â m. When standing on the north pole, we can assume (meaning that we are neither moving up or down or along the surface of the Earth). In this case, the Schwarzschild solution proper time equation becomes . Then using the polar radius of the Earth as the radial coordinate (or meters), we find that",
+				"after": "This should have been the same as the previous result, but as noted above the Earth is not spherical as assumed by the Schwarzschild solution. Even so this demonstrates how the proper time equation is used.",
+			"color": "dark|0.28606 gray|0.28606 dark|0.28606 grey|0.28606 gray|0.28549 grey|0.28549 silver|0.14565 dim|0.11165 gray|0.11165 dim|0.11165 grey|0.11165 light|0.07965 gray|0.07965 light|0.07965 grey|0.07965 gainsboro|0.055998 white|0.010591 smoke|0.010591 linen|0.0048166 lavender|0.0038428 blush|0.0038428 alice|0.0036377 blue|0.0036377 ghost|0.0034384 white|0.0034384 sea|0.0030967 shell|0.0030967 snow|0.0029899  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "362b702c4a2d38f8e7d3645176a5596ed18a3f6525507aa16677d72f59ffc2b8",
+			"url": "https://upload.wikimedia.org/math/1/f/5/1f5bfda5a550f703d839909cad5e4504.png",
+				"previous": "Of these, the last is peculiar to the interferometer itself. The conversion of a length in wavelengths to a length in metres is based upon the relation:",
+				"after": "which converts the unit of wavelength Î» to metres using c, the speed of light in a vacuum in m/s. Here n is the refractive index of the medium in which the measurement is made; and f is the measured frequency of the source. Although conversion from wavelengths to metres introduces an additional error in the overall length due to measurement error in determining the refractive index and the frequency, the measurement of frequency is one of the most accurate measurements available.[24]",
+			"color": " "
+		}
+	}
+}

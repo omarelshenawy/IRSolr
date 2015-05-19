@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "179019c94eb68f4a2dd21cd4bbead9f6e8f5bfd96adb01c8245d0609fc5f7d07",
+			"url": "https://upload.wikimedia.org/math/3/1/9/3194debf4ab67a706440d685573052a4.png",
+			"previous": [
+				"Proper time:",
+				"Velocity:",
+				"Position:"
+			],
+			"after": [
+				"In the case where v(0) = v0 = 0 and Ï(0) = Ï0 = 0 the integral can be expressed as a logarithmic function or, equivalently, as an inverse hyperbolic function:",
+				"The green dots and red dots in the animation represent spaceships. The ships of the green fleet have no velocity relative to each other, so for the clocks on board the individual ships the same amount of time elapses relative to each other, and they can set up a procedure to maintain a synchronized standard fleet time. The ships of the \"red fleet\" are moving with a velocity of 0.866c with respect to the green fleet."
+			],
+			"color": "black|0.25104 dim|0.24264 gray|0.24264 dim|0.24264 grey|0.24264 dark|0.21851 gray|0.21851 dark|0.21851 grey|0.21851 gray|0.21656 grey|0.21656 silver|0.055572 light|0.011295 gray|0.011295 light|0.011295 grey|0.011295 gainsboro|0.0043755  "
+		}
+	}
+}

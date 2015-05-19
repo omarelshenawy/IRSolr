@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d7cc0ce325e913ef7505622fd942909afcc773b15d9162ed40d6056b1437cd1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Workingline.gif/100px-Workingline.gif",
+				"previous": "Although each off-design point is effectively a design point calculation, the resulting cycle (normally) has the same turbine and nozzle geometry as that at the engine design point. Obviously the final nozzle cannot be over or underfilled with flow. This rule also applies to the turbine nozzle guide vanes, which act like small nozzles.",
+			"after": [
+				"Design point calculations are normally done by a computer program. By the addition of an iterative loop, such a program can also be used to create a simple off-design model.[9]",
+				"In an iteration, a calculation is undertaken using guessed values for the variables. At the end of the calculation, the constraint values are analyzed and an attempt is made to improve the guessed values of the variables. The calculation is then repeated using the new guesses. This procedure is repeated until the constraints are within the desired tolerance (e.g. 0.1%)."
+			],
+			"color": " "
+		}
+	}
+}

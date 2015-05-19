@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "51c66b2b850a06c2fb763dbccafc0eb705692f8fd59876db92025ddf19ef3890",
+			"url": "https://upload.wikimedia.org/math/b/1/f/b1f1298ffb25acf6de2a38d9063886c1.png",
+				"previous": "A coefficient is a numerical value which multiplies a variable (the operator is omitted). A term is an addend or a summand, a group of coefficients, variables, constants and exponents that may be separated from the other terms by the plus and minus operators.[3] Letters represent variables and constants. By convention, letters at the beginning of the alphabet (e.g. ) are typically used to represent constants, and those toward the end of the alphabet (e.g. and ) are used to represent variables.[4] They are usually written in italics.[5]",
+				"after": "Usually terms with the highest power (exponent), are written on the left, for example, is written to the left of . When a coefficient is one, it is usually omitted (e.g. is written ).[9] Likewise when the exponent (power) is one, (e.g. is written ).[10] When the exponent is zero, the result is always 1 (e.g. is always rewritten to ).[11] However , being undefined, should not appear in an expression, and care should be taken in simplifying expressions in which variables may appear in exponents.",
+			"color": "black|0.4313 dim|0.2461 gray|0.2461 dim|0.2461 grey|0.2461 gray|0.15822 grey|0.15822 dark|0.08937 gray|0.08937 dark|0.08937 grey|0.08937 silver|0.037892 light|0.017219 gray|0.017219 light|0.017219 grey|0.017219 gainsboro|0.011824  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7605b7844bf9ea48a11fd8471f3e3e1302217d6021f78ae6708f4c90a0fa61aa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Babbage_Difference_Engine.jpg/220px-Babbage_Difference_Engine.jpg",
+				"previous": "There was another period, seven years later, when his interest was aroused by the issues around computation of mathematical tables. The French official initiative by Gaspard de Prony, and its problems of implementation, were familiar to him. After the Napoleonic Wars came to a close, scientific contacts were renewed on the level of personal contact: in 1819 Charles Blagden was in Paris looking into the printing of the stalled de Prony project, and lobbying for the support of the Royal Society. In works of the 1820s and 1830s, Babbage referred in detail to de Prony's project.[148][149]",
+				"after": "Babbage began in 1822 with what he called the difference engine, made to compute values of polynomial functions. It was created to calculate a series of values automatically. By using the method of finite differences, it was possible to avoid the need for multiplication and division.",
+			"color": "black|0.33549 dim|0.26188 gray|0.26188 dim|0.26188 grey|0.26188 gray|0.25307 grey|0.25307 dark|0.10202 gray|0.10202 dark|0.10202 grey|0.10202 silver|0.015937 light|0.0055067 gray|0.0055067 light|0.0055067 grey|0.0055067  "
+		}
+	}
+}

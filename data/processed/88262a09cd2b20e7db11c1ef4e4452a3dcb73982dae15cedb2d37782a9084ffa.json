@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "88262a09cd2b20e7db11c1ef4e4452a3dcb73982dae15cedb2d37782a9084ffa",
+			"url": "https://upload.wikimedia.org/math/3/d/7/3d7251d06e9bc6964ec3d65807950fe6.png",
+				"previous": "(Cressie 1993, Chiles&Delfiner 1999, Wackernagel 1995)",
+				"after": "Simple kriging is mathematically the simplest, but the least general. It assumes the expectation of the random field to be known, and relies on a covariance function. However, in most applications neither the expectation nor the covariance are known beforehand.",
+			"color": "gray|0.2874 grey|0.2874 dim|0.25548 gray|0.25548 dim|0.25548 grey|0.25548 dark|0.20166 gray|0.20166 dark|0.20166 grey|0.20166 silver|0.091728 light|0.056469 gray|0.056469 light|0.056469 grey|0.056469 gainsboro|0.041006 white|0.010501 smoke|0.010501 lavender|0.0074024 blush|0.0074024 alice|0.0073169 blue|0.0073169 ghost|0.0071958 white|0.0071958 sea|0.0071103 shell|0.0071103 snow|0.0070355 linen|0.0055407 white|0.0048007 mint|0.0038132 cream|0.0038132 floral|0.0030565 white|0.0030565  "
+		}
+	}
+}

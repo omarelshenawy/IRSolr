@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f886c9694808154c5aab35a6bc5dd674b5a8f9cbdccc7ecbb29a28aa3e9b5df",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BMonSphere.jpg/220px-BMonSphere.jpg",
+			"previous": [],
+				"after": "The infinitesimal generator (and hence characteristic operator) of a Brownian motion on Rn is easily calculated to be Â½Î, where Î denotes the Laplace operator. This observation is useful in defining Brownian motion on an m-dimensional Riemannian manifold (M,Â g): a Brownian motion on M is defined to be a diffusion on M whose characteristic operator in local coordinates xi, 1Â â¤Â iÂ â¤Â m, is given by Â½ÎLB, where ÎLB is the LaplaceâBeltrami operator given in local coordinates by",
+			"color": "dark|0.78139 olive|0.78139 green|0.78139 black|0.14834  "
+		}
+	}
+}

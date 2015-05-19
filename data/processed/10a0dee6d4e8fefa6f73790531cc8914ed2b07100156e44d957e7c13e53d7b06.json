@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "10a0dee6d4e8fefa6f73790531cc8914ed2b07100156e44d957e7c13e53d7b06",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ellipse_latus_rectum.svg/220px-Ellipse_latus_rectum.svg.png",
+			"previous": [],
+			"after": [
+				"Mathematically, an ellipse can be represented by the formula:",
+				"where is the semi-latus rectum, and Îµ is the eccentricity of the ellipse, and r is the distance from the Sun to the planet, and Î¸ is the angle to the planet's current position from its closest approach, as seen from the Sun. So (r,Â Î¸) are polar coordinates."
+			],
+			"color": "aqua|0.44505 cyan|0.44505 teal|0.017381 dark|0.016931 turquoise|0.016931 light|0.013466 sea|0.013466 green|0.013466 medium|0.012954 turquoise|0.012954 dark|0.010899 cyan|0.010899 black|0.0095767 magenta|0.0040741 fuchsia|0.0040741 turquoise|0.0032892 dark|0.0029101 slate|0.0029101 gray|0.0029101 medium|0.0027513 slate|0.0027513 blue|0.0027513  "
+		}
+	}
+}

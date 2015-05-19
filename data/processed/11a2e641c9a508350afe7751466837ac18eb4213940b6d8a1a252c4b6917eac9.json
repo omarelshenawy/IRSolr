@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "11a2e641c9a508350afe7751466837ac18eb4213940b6d8a1a252c4b6917eac9",
+			"url": "https://upload.wikimedia.org/math/3/b/5/3b57497793f8cbb2626530777000a61b.png",
+			"previous": [
+				"For the special case of small spherical objects moving slowly through a viscous fluid (and thus at small Reynolds number), George Gabriel Stokes derived an expression for the drag constant:",
+				"which asymptotically approaches the terminal velocity . For a given , heavier objects fall more quickly."
+			],
+				"after": "where:",
+			"color": "dim|0.36317 gray|0.36317 dim|0.36317 grey|0.36317 gray|0.29014 grey|0.29014 dark|0.17775 gray|0.17775 dark|0.17775 grey|0.17775 silver|0.076923 light|0.038717 gray|0.038717 light|0.038717 grey|0.038717 gainsboro|0.027587 white|0.0057448 smoke|0.0057448 linen|0.0028776  "
+		}
+	}
+}

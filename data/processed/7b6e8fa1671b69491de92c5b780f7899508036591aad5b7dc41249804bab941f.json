@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b6e8fa1671b69491de92c5b780f7899508036591aad5b7dc41249804bab941f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CanAnnularCombustor.svg/220px-CanAnnularCombustor.svg.png",
+			"previous": [],
+				"after": "The next type of combustor is the cannular combustor; the term is a portmanteau of \"can annular\". Like the can type combustor, can annular combustors have discrete combustion zones contained in separate liners with their own fuel injectors. Unlike the can combustor, all the combustion zones share a common ring (annulus) casing. Each combustion zone no longer has to serve as a pressure vessel.[26] The combustion zones can also \"communicate\" with each other via liner holes or connecting tubes that allow some air to flow circumferentially. The exit flow from the cannular combustor generally has a more uniform temperature profile, which is better for the turbine section. It also eliminates the need for each chamber to have its own igniter. Once the fire is lit in one or two cans, it can easily spread to and ignite the others. This type of combustor is also lighter than the can type, and has a lower pressure drop (on the order of 6%). However, a cannular combustor can be more difficult to maintain than a can combustor.[27] An example of a gas turbine engine utilizing a cannular combustor is the General Electric J79 The Pratt & Whitney JT8D and the Rolls-Royce Tay turbofans use this type of combustor as well.[28]",
+			"color": "black|0.74796 orange|0.16479 saddle|0.076386 brown|0.076386  "
+		}
+	}
+}

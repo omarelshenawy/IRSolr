@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "90da7263544e3e0e9449edcdb217636387f933e328c86c68b4e2c3ba87d2fcc9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ohm%27s_Law_with_Voltage_source_TeX.svg/220px-Ohm%27s_Law_with_Voltage_source_TeX.svg.png",
+			"previous": [],
+				"after": "An electrical network is an interconnection of electrical components (e.g. batteries, resistors, inductors, capacitors, switches) or a model of such an interconnection, consisting of electrical elements (e.g. voltage sources, current sources, resistances, inductances, capacitances). An electrical circuit is a network consisting of a closed loop, giving a return path for the current. Linear electrical networks, a special type consisting only of sources (voltage or current), linear lumped elements (resistors, capacitors, inductors), and linear distributed elements (transmission lines), have the property that signals are linearly superimposable. They are thus more easily analyzed, using powerful frequency domain methods such as Laplace transforms, to determine DC response, AC response, and transient response.",
+			"color": "white|0.095821 smoke|0.095821 white|0.094403 snow|0.094379 mint|0.094171 cream|0.094171 ghost|0.094031 white|0.094031 alice|0.093732 blue|0.093732 sea|0.093651 shell|0.093651 azure|0.093569 floral|0.093495 white|0.093495 lavender|0.091645 blush|0.091645 black|0.014 gray|0.010281 grey|0.010281 dark|0.0092959 gray|0.0092959 dark|0.0092959 grey|0.0092959 dim|0.0083356 gray|0.0083356 dim|0.0083356 grey|0.0083356 silver|0.0061218 light|0.0045997 gray|0.0045997 light|0.0045997 grey|0.0045997 gainsboro|0.0043701  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "69a59c29f3017873106dde1e164fae1bc9924ee51a8a3b73d5e11bb6ba817990",
+			"url": "https://upload.wikimedia.org/math/b/9/0/b90918f8950b61072610a4727bd2e528.png",
+			"previous": [
+				"The change of variables in produces the quadratic equation As x2 - xz + m= 0, the quartic equation",
+				"(it is palindromic if m = 1)."
+			],
+			"after": [
+				"may be solved by applying twice the quadratic formula.",
+				"For solving purpose, it is generally better to convert the quartic into a depressed quartic by the following simple change of variable. All formulas are simpler and some methods work only in this case. The roots of the original quartic are easily recovered from that of the depressed quartic by the reverse change of variable."
+			],
+			"color": "dim|0.41603 gray|0.41603 dim|0.41603 grey|0.41603 gray|0.27358 grey|0.27358 dark|0.16123 gray|0.16123 dark|0.16123 grey|0.16123 silver|0.07256 light|0.036286 gray|0.036286 light|0.036286 grey|0.036286 gainsboro|0.025203 white|0.0042279 smoke|0.0042279  "
+		}
+	}
+}

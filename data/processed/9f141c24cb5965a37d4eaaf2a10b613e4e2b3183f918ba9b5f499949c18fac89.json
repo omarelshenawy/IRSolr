@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f141c24cb5965a37d4eaaf2a10b613e4e2b3183f918ba9b5f499949c18fac89",
+			"url": "https://upload.wikimedia.org/math/c/8/3/c8336dcc42b374671e16239fd69ec9be.png",
+			"previous": [
+				"Substituting these into the equations of motion gives us:",
+				"Since we expect oscillatory motion of a normal mode (where Ï is the same for both masses), we try:"
+			],
+			"after": [
+				"Since the exponential factor is common to all terms, we omit it and simplify:",
+				"And in matrix representation:"
+			],
+			"color": "dim|0.35595 gray|0.35595 dim|0.35595 grey|0.35595 gray|0.28153 grey|0.28153 dark|0.18781 gray|0.18781 dark|0.18781 grey|0.18781 silver|0.084426 light|0.041637 gray|0.041637 light|0.041637 grey|0.041637 gainsboro|0.028748 white|0.0046068 smoke|0.0046068  "
+		}
+	}
+}

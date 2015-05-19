@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d1881819e121de7eda241f26e9eba750db46ad77b0e6d330f68a0632b7ef1cd",
+			"url": "https://upload.wikimedia.org/math/7/b/1/7b136befa3aae200d85eeb2d4b8d6c8b.png",
+				"previous": "Three conservation laws are used to solve fluid dynamics problems, and may be written in integral or differential form. Mathematical formulations of these conservation laws may be interpreted by considering the concept of a control volume. A control volume is a specified volume in space through which air can flow in and out. Integral formulations of the conservation laws consider the change in mass, momentum, or energy within the control volume. Differential formulations of the conservation laws apply Stokes' theorem to yield an expression which may be interpreted as the integral form of the law applied to an infinitesimal volume at a point within the flow.",
+			"after": [],
+			"color": "dim|0.30633 gray|0.30633 dim|0.30633 grey|0.30633 gray|0.30328 grey|0.30328 dark|0.21857 gray|0.21857 dark|0.21857 grey|0.21857 silver|0.091489 light|0.040684 gray|0.040684 light|0.040684 grey|0.040684 gainsboro|0.027293 white|0.0035632 smoke|0.0035632  "
+		}
+	}
+}

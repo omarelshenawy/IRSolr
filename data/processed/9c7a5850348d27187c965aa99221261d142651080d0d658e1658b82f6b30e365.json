@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7a5850348d27187c965aa99221261d142651080d0d658e1658b82f6b30e365",
+			"url": "https://upload.wikimedia.org/math/f/c/5/fc55876bb9ef95d8e952c2d9d8e7b33d.png",
+				"previous": "A torus with major radius R and minor radius r may be defined parametrically as",
+			"after": [
+				"where the two parameters t and u both vary between 0 and 2Ï.",
+				"As u varies from 0 to 2Ï the point on the surface moves about a short circle passing through the hole in the torus. As t varies from 0 to 2Ï the point on the surface moves about a long circle around the hole in the torus."
+			],
+			"color": "dim|0.36269 gray|0.36269 dim|0.36269 grey|0.36269 gray|0.30076 grey|0.30076 dark|0.17815 gray|0.17815 dark|0.17815 grey|0.17815 silver|0.073775 light|0.036908 gray|0.036908 light|0.036908 grey|0.036908 gainsboro|0.026041 white|0.0049172 smoke|0.0049172  "
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "8598787d8ef036ec8c407c499bcc052179e33842b5ca6b8184003242968c77ce",
+			"url": "https://upload.wikimedia.org/math/8/4/d/84d9a0ea0b223d004a89e01131c209aa.png",
+			"previous": [
+				"= where V0 is the inlet velocity of steam in the nozzle",
+				"The enthalpy drop in the fixed blades, with the assumption that the velocity of steam entering the fixed blades is equal to the velocity of steam leaving the previously moving blades is given by:"
+			],
+			"after": [
+				"Therefore, =",
+				"",
+				""
+			],
+			"color": "gray|0.36999 grey|0.36999 dark|0.29249 gray|0.29249 dark|0.29249 grey|0.29249 dim|0.13944 gray|0.13944 dim|0.13944 grey|0.13944 silver|0.11024 light|0.04598 gray|0.04598 light|0.04598 grey|0.04598 gainsboro|0.028993 white|0.0040608 smoke|0.0040608  "
+		}
+	}
+}

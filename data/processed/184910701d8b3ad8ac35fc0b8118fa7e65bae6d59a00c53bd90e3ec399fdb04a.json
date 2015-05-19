@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "184910701d8b3ad8ac35fc0b8118fa7e65bae6d59a00c53bd90e3ec399fdb04a",
+			"url": "https://upload.wikimedia.org/math/3/e/d/3ed5f4c762b71085d02be2816b80e512.png",
+				"previous": "Rearranging terms:",
+				"after": "As h approaches 0 in the limit, the last fraction can be shown to go to zero.[5] This is true because the area of the red portion of excess region is less than or equal to the area of the tiny black-bordered rectangle; the area of that tiny rectangle, divided by h, is simply the height of the tiny rectangle, which can be seen to go to zero as h goes to zero.",
+			"color": "dim|0.36706 gray|0.36706 dim|0.36706 grey|0.36706 gray|0.29629 grey|0.29629 dark|0.18046 gray|0.18046 dark|0.18046 grey|0.18046 silver|0.073666 light|0.037951 gray|0.037951 light|0.037951 grey|0.037951 gainsboro|0.026967 white|0.0042535 smoke|0.0042535  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "835bfd6826b1298a1e40b54c897c8cd26dce676f69612f00e99320313e0d22af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SiRF_Star_III_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_GPS_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5_%D1%81_%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9.jpg/175px-SiRF_Star_III_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_GPS_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5_%D1%81_%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9.jpg",
+				"previous": "GPS receivers may include an input for differential corrections, using the RTCM SC-104 format. This is typically in the form of an RS-232 port at 4,800Â bit/s speed. Data is actually sent at a much lower rate, which limits the accuracy of the signal sent using RTCM.[citation needed] Receivers with internal DGPS receivers can outperform those using external RTCM data.[citation needed] As of 2006[update], even low-cost units commonly include Wide Area Augmentation System (WAAS) receivers.",
+				"after": "Many GPS receivers can relay position data to a PC or other device using the NMEA 0183 protocol. Although this protocol is officially defined by the National Marine Electronics Association (NMEA),[71] references to this protocol have been compiled from public records, allowing open source tools like gpsd to read the protocol without violating intellectual property laws.[clarification needed] Other proprietary protocols exist as well, such as the SiRF and MTK protocols. Receivers can interface with other devices using methods including a serial connection, USB, or Bluetooth.",
+			"color": "dark|0.54506 gray|0.54506 dark|0.54506 grey|0.54506 sea|0.091967 green|0.091967 gray|0.084685 grey|0.084685 dark|0.067153 slate|0.067153 gray|0.067153 dim|0.057063 gray|0.057063 dim|0.057063 grey|0.057063 silver|0.04888 dark|0.029449 golden|0.029449 rod|0.029449 olive|0.026697 golden|0.014821 rod|0.014821 dark|0.011924 olive|0.011924 green|0.011924  "
+		}
+	}
+}

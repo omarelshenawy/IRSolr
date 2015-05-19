@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f573d8e42361828889c4d0ed1868426a900e5e0dc0c7ba0557673f1a13c6200",
+			"url": "https://upload.wikimedia.org/math/f/0/f/f0fe12070d86d885f93cfb1ab8753516.png",
+			"previous": [
+				"By designating the unit bivector of this plane as the imaginary number",
+				"Suppose a circular path in an arbitrary plane containing orthonormal vectors and is parameterized by angle."
+			],
+			"after": [
+				"this path vector can be conveniently written in complex exponential form",
+				"and the derivative with respect to angle is"
+			],
+			"color": "black|0.4836 dim|0.21551 gray|0.21551 dim|0.21551 grey|0.21551 gray|0.15446 grey|0.15446 dark|0.085365 gray|0.085365 dark|0.085365 grey|0.085365 silver|0.03218 light|0.014284 gray|0.014284 light|0.014284 grey|0.014284 gainsboro|0.0093199  "
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "2952c5c99bfad9aa03f55ad41aa5d41a437ac36ec23c5929f925bec5239825f4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Beit_shean1.jpg/150px-Beit_shean1.jpg",
+			"previous": [
+				"Portal:History/Subportals/1",
+				"For the old version, before this section was randomized, see this oldid and older versions of this page.",
+				"Added portals should already be noted in the {{History browsebar}} located at the top of the portal, as it contains all of the portals on historical topics. Added portals should be added to the next available slot, and the max= parameter on this section's {{Random portal component}} on the Portal should be incremented to reflect the change. Your addition should contain a (well-sourced) quote encapsulating the essence of the portal's topic."
+			],
+			"after": [],
+			"color": "dim|0.60555 gray|0.60555 dim|0.60555 grey|0.60555 gray|0.22527 grey|0.22527 black|0.063869 dark|0.036644 gray|0.036644 dark|0.036644 grey|0.036644 dark|0.032153 slate|0.032153 gray|0.032153 tan|0.014467  "
+		}
+	}
+}

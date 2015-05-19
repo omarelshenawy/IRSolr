@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "63567f2fef4a02370e4deeabc2285771046f4be565d07a54303d0f353b449bc2",
+			"url": "https://upload.wikimedia.org/math/7/1/a/71a36af61708e4d2e4346d7f0a1976b1.png",
+				"previous": "Two other commonly used F measures are the measure, which weights recall twice as much as precision, and the measure, which weights precision twice as much as recall.",
+				"after": "Precision and recall are single-value metrics based on the whole list of documents returned by the system. For systems that return a ranked sequence of documents, it is desirable to also consider the order in which the returned documents are presented. By computing a precision and recall at every position in the ranked sequence of documents, one can plot a precision-recall curve, plotting precision as a function of recall . Average precision computes the average value of over the interval from to :[6]",
+			"color": "dim|0.36 gray|0.36 dim|0.36 grey|0.36 gray|0.26653 grey|0.26653 dark|0.17797 gray|0.17797 dark|0.17797 grey|0.17797 silver|0.092252 light|0.047748 gray|0.047748 light|0.047748 grey|0.047748 gainsboro|0.034208 white|0.0051373 smoke|0.0051373  "
+		}
+	}
+}

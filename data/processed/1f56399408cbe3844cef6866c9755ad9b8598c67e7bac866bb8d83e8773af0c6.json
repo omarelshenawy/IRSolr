@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f56399408cbe3844cef6866c9755ad9b8598c67e7bac866bb8d83e8773af0c6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Academ_Study_about_a_periodic_tiling_by_regular_polygons.svg/330px-Academ_Study_about_a_periodic_tiling_by_regular_polygons.svg.png",
+			"previous": [],
+			"after": [
+				"In the plane , a horizontal shear (or shear parallel to the x axis) is a function that takes a generic point with coordinates to the point ; where is a fixed parameter, called the shear factor.",
+				"The effect of this mapping is to displace every point horizontally by an amount proportionally to its coordinate. Any point above the -axis is displaced to the right (increasing ) if , and to the left if . Points below the -axis move in the opposite direction, while points on the axis stay fixed."
+			],
+			"color": "khaki|0.25161 pink|0.11461 pale|0.078639 golden|0.078639 rod|0.078639 wheat|0.072224 moccasin|0.069873 navajo|0.068027 white|0.068027 lemon|0.061508 chiffon|0.061508 maroon|0.05583 dim|0.029803 gray|0.029803 dim|0.029803 grey|0.029803 slate|0.025508 gray|0.025508 light|0.024989 slate|0.024989 gray|0.024989 gray|0.02277 grey|0.02277 thistle|0.017107 dark|0.014548 gray|0.014548 dark|0.014548 grey|0.014548 rosy|0.014387 brown|0.014387 tan|0.013197  "
+		}
+	}
+}

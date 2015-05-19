@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6436d8147dbf65682479d1ffdd5eb2e2c5d91894fd39debcd94e56edeabfc8a3",
+			"url": "https://upload.wikimedia.org/math/f/c/3/fc35214eba8fe38746ae8e3b6d1294c1.png",
+			"previous": [],
+			"after": [
+				"Note that these calculations are only valid for when the incoming air is accelerated from a standstill - for example when hovering.",
+				"The inverse of the proportionality constant, the \"efficiency\" of an otherwise-perfect thruster, is proportional to the area of the cross section of the propelled volume of fluid () and the density of the fluid (). This helps to explain why moving through water is easier and why aircraft have much larger propellers than watercraft do."
+			],
+			"color": "dim|0.31077 gray|0.31077 dim|0.31077 grey|0.31077 gray|0.27163 grey|0.27163 dark|0.1949 gray|0.1949 dark|0.1949 grey|0.1949 silver|0.10656 light|0.053985 gray|0.053985 light|0.053985 grey|0.053985 gainsboro|0.038528 white|0.004856 smoke|0.004856 linen|0.0031056  "
+		}
+	}
+}

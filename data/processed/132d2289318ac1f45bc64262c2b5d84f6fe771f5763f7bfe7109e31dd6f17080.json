@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "132d2289318ac1f45bc64262c2b5d84f6fe771f5763f7bfe7109e31dd6f17080",
+			"url": "https://upload.wikimedia.org/math/6/c/a/6ca603b8e8f7aca6916337c708c8b4ac.png",
+				"previous": "This states that values decreases (â) over time (ât) at the discount rate (r(t)). Applied to a function it yields:",
+				"after": "For an instrument whose payment stream is described by f(t), the value V(t) satisfies the inhomogeneous first-order ODE (\"inhomogeneous\" is because one has f rather than 0, and \"first-order\" is because one has first derivatives but no higher derivatives) â this encodes the fact that when any cash flow occurs, the value of the instrument changes by the value of the cash flow (if you receive a Â£10 coupon, the remaining value decreases by exactly Â£10).",
+			"color": "dim|0.33932 gray|0.33932 dim|0.33932 grey|0.33932 gray|0.31517 grey|0.31517 dark|0.18991 gray|0.18991 dark|0.18991 grey|0.18991 silver|0.077512 light|0.036148 gray|0.036148 light|0.036148 grey|0.036148 gainsboro|0.024995 white|0.004132 smoke|0.004132  "
+		}
+	}
+}

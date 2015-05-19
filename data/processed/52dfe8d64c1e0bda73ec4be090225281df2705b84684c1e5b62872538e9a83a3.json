@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "52dfe8d64c1e0bda73ec4be090225281df2705b84684c1e5b62872538e9a83a3",
+			"url": "https://upload.wikimedia.org/math/3/5/3/35352148b4524799d7844e1e46a6d474.png",
+				"previous": "We can work out what this invariant is by first arguing that, since it is a scalar, it doesn't matter in which reference frame we calculate it, and then by transforming to a frame where the total momentum is zero.",
+				"after": "We see that the rest energy is an independent invariant. A rest energy can be calculated even for particles and systems in motion, by translating to a frame in which momentum is zero.",
+			"color": "dim|0.35425 gray|0.35425 dim|0.35425 grey|0.35425 gray|0.28232 grey|0.28232 dark|0.1809 gray|0.1809 dark|0.1809 grey|0.1809 silver|0.087033 light|0.044901 gray|0.044901 light|0.044901 grey|0.044901 gainsboro|0.031199 white|0.0047047 smoke|0.0047047  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ded65918de1a7c96846dea63b9681b8cff5c2590b68458c527ba3f879c526ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Breaker3phase2a_proc.jpg/220px-Breaker3phase2a_proc.jpg",
+			"previous": [],
+				"after": "When supplying a branch circuit with more than one live conductor, each live conductor must be protected by a breaker pole. To ensure that all live conductors are interrupted when any pole trips, a \"common trip\" breaker must be used. These may either contain two or three tripping mechanisms within one case, or for small breakers, may externally tie the poles together via their operating handles. Two-pole common trip breakers are common on 120/240-volt systems where 240 volt loads (including major appliances or further distribution boards) span the two live wires. Three-pole common trip breakers are typically used to supply three-phase electric power to large motors or further distribution boards.",
+			"color": "black|0.46594 dark|0.078155 slate|0.078155 gray|0.078155 dim|0.072377 gray|0.072377 dim|0.072377 grey|0.072377 light|0.048336 gray|0.048336 light|0.048336 grey|0.048336 gainsboro|0.043958 silver|0.04246 dark|0.036513 gray|0.036513 dark|0.036513 grey|0.036513 gray|0.022211 grey|0.022211 white|0.019498 smoke|0.019498 mint|0.014592 cream|0.014592 snow|0.014355 alice|0.014163 blue|0.014163 white|0.013523 ghost|0.01347 white|0.01347 azure|0.013436 slate|0.013097 gray|0.013097 sea|0.012804 shell|0.012804 floral|0.012121 white|0.012121 linen|0.008502 ivory|0.0067826 light|0.0062823 slate|0.0062823 gray|0.0062823  "
+		}
+	}
+}

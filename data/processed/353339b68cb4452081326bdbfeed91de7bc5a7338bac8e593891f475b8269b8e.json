@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "353339b68cb4452081326bdbfeed91de7bc5a7338bac8e593891f475b8269b8e",
+			"url": "https://upload.wikimedia.org/math/7/b/8/7b86f3c94ed726567b2367f990b8dfa5.png",
+				"previous": "where I is the identity matrix. For there to be nontrivial solutions to that equation, det(T â Î» I) = 0. The determinant is a polynomial, and so the eigenvalues are not guaranteed to exist if the field is R. Thus, we often work with an algebraically closed field such as the complex numbers when dealing with eigenvectors and eigenvalues so that an eigenvalue will always exist. It would be particularly nice if given a transformation T taking a vector space V into itself we can find a basis for V consisting of eigenvectors. If such a basis exists, we can easily compute the action of the transformation on any vector: if v1, v2, â¦, vn are linearly independent eigenvectors of a mapping of n-dimensional spaces T with (not necessarily distinct) eigenvalues Î»1, Î»2, â¦, Î»n, and if v = a1v1 + ... + an vn, then,",
+				"after": "Such a transformation is called a diagonalizable matrix since in the eigenbasis, the transformation is represented by a diagonal matrix. Because operations like matrix multiplication, matrix inversion, and determinant calculation are simple on diagonal matrices, computations involving matrices are much simpler if we can bring the matrix to a diagonal form. Not all matrices are diagonalizable (even over an algebraically closed field).",
+			"color": "dim|0.40745 gray|0.40745 dim|0.40745 grey|0.40745 gray|0.26727 grey|0.26727 dark|0.17035 gray|0.17035 dark|0.17035 grey|0.17035 silver|0.075725 light|0.036895 gray|0.036895 light|0.036895 grey|0.036895 gainsboro|0.025341 white|0.003826 smoke|0.003826  "
+		}
+	}
+}

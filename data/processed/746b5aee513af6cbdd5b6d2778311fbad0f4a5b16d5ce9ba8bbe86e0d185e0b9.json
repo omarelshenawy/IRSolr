@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "746b5aee513af6cbdd5b6d2778311fbad0f4a5b16d5ce9ba8bbe86e0d185e0b9",
+			"url": "https://upload.wikimedia.org/math/6/f/8/6f876b7b39fec23fae073a19bcfccde3.png",
+				"previous": "In The Quadrature of the Parabola, Archimedes proved that the area enclosed by a parabola and a straight line is 4â3 times the area of a corresponding inscribed triangle as shown in the figure at right. He expressed the solution to the problem as an infinite geometric series with the common ratio 1â4:",
+				"after": "If the first term in this series is the area of the triangle, then the second is the sum of the areas of two triangles whose bases are the two smaller secant lines, and so on. This proof uses a variation of the series 1/4 + 1/16 + 1/64 + 1/256 + Â· Â· Â· which sums to 1â3.",
+			"color": "dim|0.32568 gray|0.32568 dim|0.32568 grey|0.32568 gray|0.25338 grey|0.25338 dark|0.19938 gray|0.19938 dark|0.19938 grey|0.19938 silver|0.097572 black|0.053501 light|0.034912 gray|0.034912 light|0.034912 grey|0.034912 gainsboro|0.022681  "
+		}
+	}
+}

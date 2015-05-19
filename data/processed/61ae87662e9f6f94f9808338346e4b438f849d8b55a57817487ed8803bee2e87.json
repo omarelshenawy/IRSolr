@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "61ae87662e9f6f94f9808338346e4b438f849d8b55a57817487ed8803bee2e87",
+			"url": "https://upload.wikimedia.org/math/f/e/0/fe0ee435f8c58b4bb8295ca8003b9724.png",
+				"previous": "The reflection (c' ) of a vector c along a vector m, or equivalently in the hyperplane orthogonal to m, is the same as negating the component of a vector parallel to m. The result of the reflection will be",
+				"after": "This is not the most general operation that may be regarded as a reflection when the dimension n â¥ 4. A general reflection may be expressed as the composite of any odd number of single-axis reflections. Thus, a general reflection (a' ) of a vector a may be written",
+			"color": "dim|0.38318 gray|0.38318 dim|0.38318 grey|0.38318 gray|0.27152 grey|0.27152 dark|0.17065 gray|0.17065 dark|0.17065 grey|0.17065 silver|0.084961 light|0.042477 gray|0.042477 light|0.042477 grey|0.042477 gainsboro|0.030438 white|0.003973 smoke|0.003973  "
+		}
+	}
+}

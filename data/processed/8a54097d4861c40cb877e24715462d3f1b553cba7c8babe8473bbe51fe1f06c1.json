@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a54097d4861c40cb877e24715462d3f1b553cba7c8babe8473bbe51fe1f06c1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ALFConcept.svg/250px-ALFConcept.svg.png",
+				"previous": "In all atomic line filters, the position and widths of the vapor cell resonance lines are among the most important properties. By the Stark effect and Zeeman splitting, the base absorption lines may be split into finer lines. \"Stark and Zeeman tuningâ¦ can be used to tune the detector.\"[12] Consequently, manipulation of electric and magnetic fields may alter other properties of the filter (i.e. shifting the passband).[22]",
+				"after": "An absorption-re-emission atomic line filter absorbs the desired wavelength of light and emits light that bypasses broadband filters. In passive absorption-re-emission ALFs, a high-pass filter blocks all low-energy incoming light. The vapor cell absorbs the signal, which coincides with the vapor's thin absorption line, and the cell's atoms become excited. The vapor cell then re-emits the signal light by undergoing fluorescence at a lower frequency. A low-pass filter blocks radiation above the frequency of the fluorescent light. In an active ALF, optical or electrical pumping is used for exciting these atoms so they absorb or emit light of different wavelengths. For active ALFs, other systems of conventional filters may be needed.[23]",
+			"color": "misty|0.51834 rose|0.51834 black|0.038776 lavender|0.036555 blush|0.036555 sea|0.032974 shell|0.032974 snow|0.032143 white|0.031801 white|0.031514 smoke|0.031514 floral|0.031395 white|0.031395 mint|0.030987 cream|0.030987 ghost|0.030874 white|0.030874 azure|0.030725 alice|0.029958 blue|0.029958 wheat|0.011253 rosy|0.0088152 brown|0.0088152 magenta|0.0087627 fuchsia|0.0087627 moccasin|0.0084288 gray|0.0084129 grey|0.0084129 navajo|0.0083973 white|0.0083973 dark|0.0071798 gray|0.0071798 dark|0.0071798 grey|0.0071798 lemon|0.0065809 chiffon|0.0065809 pale|0.006008 golden|0.006008 rod|0.006008 light|0.0054046 steel|0.0054046 blue|0.0054046 linen|0.0034329 yellow|0.0033057 tan|0.0032532 silver|0.003227  "
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "164be042aa763c9163f6b27cbc22810d779bc0488c124b9873d76cc9ff58891d",
+			"url": "https://upload.wikimedia.org/math/5/c/a/5ca16c2e7216a5d01080b76ea25f44fe.png",
+			"previous": [],
+			"after": [
+				"So as increases with the addition of T-stages, also increases.",
+				"T-stages are a popular method for uprating the thrust of an engine (see, for example the Pratt & Whitney Canada PW500).",
+				"The alternative is to place a zero-stage, mounted on the HP shaft, at the front of the HP compressor. This approach requires a significant change in the HP turbine, whereas a T-stage can, if necessary, be accommodated by simply adding another stage to the rear of the LP turbine."
+			],
+			"color": "gray|0.28536 grey|0.28536 dark|0.24255 gray|0.24255 dark|0.24255 grey|0.24255 dim|0.19687 gray|0.19687 dim|0.19687 grey|0.19687 silver|0.12442 light|0.068095 gray|0.068095 light|0.068095 grey|0.068095 gainsboro|0.048333 white|0.0082293 smoke|0.0082293 linen|0.0042738 lavender|0.0037938 blush|0.0037938 alice|0.0036371 blue|0.0036371 ghost|0.0034956 white|0.0034956 sea|0.0032623 shell|0.0032623 snow|0.0031399  "
+		}
+	}
+}

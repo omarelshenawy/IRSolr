@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "b80abae91fe0a8ef12e79f7a6f3839ec40fcf548af1e00da56fc95bb3fdd0c9a",
+			"url": "https://upload.wikimedia.org/math/c/7/6/c767640595a3865d7bc7a2265f9fc0ba.png",
+				"previous": "and hence the quantity ru satisfies the one-dimensional wave equation. Therefore a general solution for spherical waves has the form",
+				"after": "where F and G are completely arbitrary functions. Radiation from an antenna corresponds to the case where G is identically zero. Thus the wave form transmitted from an antenna has no distortion in time: the only distorting factor is 1/r. This feature of undistorted propagation of waves is not present if there are two spatial dimensions.",
+			"color": "dim|0.37496 gray|0.37496 dim|0.37496 grey|0.37496 gray|0.27867 grey|0.27867 dark|0.17082 gray|0.17082 dark|0.17082 grey|0.17082 silver|0.077557 light|0.041616 gray|0.041616 light|0.041616 grey|0.041616 gainsboro|0.028995 white|0.0058508 smoke|0.0058508 linen|0.0037188 lavender|0.0036426 blush|0.0036426  "
+		}
+	}
+}

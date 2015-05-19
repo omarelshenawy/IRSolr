@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "255effd79e0d5acd45c9c728efb5dcbd6bc6c868b7101e9ba1a0bb84fe562da3",
+			"url": "https://upload.wikimedia.org/math/2/c/7/2c7b4a881bc3360b3ecfc027056cdc2a.png",
+			"previous": [
+				"if t>0 and (x,y) is in D. The boundary condition is u(t,x,y) = 0 if (x,y) is on C. The method of separation of variables leads to the form",
+				"If a membrane is stretched over a curve C that forms the boundary of a domain D in the plane, its vibrations are governed by the wave equation"
+			],
+			"after": [
+				"which in turn must satisfy",
+				"The latter equation is called the Helmholtz Equation. The constant k must be determined to allow a non-trivial v to satisfy the boundary condition on C. Such values of k2 are called the eigenvalues of the Laplacian in D, and the associated solutions are the eigenfunctions of the Laplacian in D. The SturmâLiouville theory may be extended to this elliptic eigenvalue problem (Jost, 2002)."
+			],
+			"color": "gray|0.33665 grey|0.33665 dim|0.265 gray|0.265 dim|0.265 grey|0.265 dark|0.21439 gray|0.21439 dark|0.21439 grey|0.21439 silver|0.089778 light|0.042612 gray|0.042612 light|0.042612 grey|0.042612 gainsboro|0.029587 white|0.0054681 smoke|0.0054681 linen|0.0025684  "
+		}
+	}
+}

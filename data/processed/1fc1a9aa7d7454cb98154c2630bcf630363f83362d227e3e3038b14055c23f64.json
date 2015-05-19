@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc1a9aa7d7454cb98154c2630bcf630363f83362d227e3e3038b14055c23f64",
+			"url": "https://upload.wikimedia.org/math/5/e/f/5ef2fa747d3a5d684ae67bdc7236e6d4.png",
+			"previous": [
+				"Often a PDE can be reduced to a simpler form with a known solution by a suitable change of variables. For example the BlackâScholes PDE",
+				"If the domain is finite or periodic, an infinite sum of solutions such as a Fourier series is appropriate, but an integral of solutions such as a Fourier integral is generally required for infinite domains. The solution for a point source for the heat equation given above is an example for use of a Fourier integral."
+			],
+			"after": [
+				"is reducible to the heat equation",
+				"by the change of variables (for complete details see Solution of the Black Scholes Equation at the Wayback Machine (archived April 11, 2008))"
+			],
+			"color": "dim|0.32576 gray|0.32576 dim|0.32576 grey|0.32576 gray|0.31001 grey|0.31001 dark|0.198 gray|0.198 dark|0.198 grey|0.198 silver|0.083405 light|0.038093 gray|0.038093 light|0.038093 grey|0.038093 gainsboro|0.025995 white|0.004432 smoke|0.004432  "
+		}
+	}
+}

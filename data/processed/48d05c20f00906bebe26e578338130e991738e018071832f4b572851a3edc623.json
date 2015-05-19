@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "48d05c20f00906bebe26e578338130e991738e018071832f4b572851a3edc623",
+			"url": "https://upload.wikimedia.org/math/e/2/1/e21bb37f90cfeb82babe43444b19d896.png",
+				"previous": "On the sphere the normal passes through the centre and the latitude (Ï) is therefore equal to the angle subtended at the centre by the meridian arc from the equator to the point concerned. If the meridian distance is denoted by m(Ï) then",
+				"after": "where R denotes the mean radius of the Earth. R is equal to 6,371Â km or 3,959Â miles. No higher accuracy is appropriate for R since higher precision results necessitate an ellipsoid model. With this value for R the meridian length of 1 degree of latitude on the sphere is 111.2Â km or 69Â miles. The length of 1 minute of latitude is 1.853Â km, or 1.15Â miles. (See nautical mile).",
+			"color": "dim|0.25373 gray|0.25373 dim|0.25373 grey|0.25373 gray|0.24465 grey|0.24465 dark|0.21449 gray|0.21449 dark|0.21449 grey|0.21449 black|0.15195 silver|0.091885 light|0.027733 gray|0.027733 light|0.027733 grey|0.027733 gainsboro|0.011961  "
+		}
+	}
+}

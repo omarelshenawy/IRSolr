@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "48c93f43f3d9f8c57d008d9f169c37472d33766681701353c05c6da78e6c25c5",
+			"url": "https://upload.wikimedia.org/math/a/b/8/ab887121f5a5a1cb4432aca8ec5ae80e.png",
+				"previous": "Another application of logistic curve is in medicine, where the logistic differential equation is used to model the growth of tumors. This application can be considered an extension of the above-mentioned use in the framework of ecology (see also the Generalized logistic curve, allowing for more parameters). Denoting with X(t) the size of the tumor at time t, its dynamics are governed by:",
+				"after": "which is of the type:",
+			"color": "dim|0.35097 gray|0.35097 dim|0.35097 grey|0.35097 gray|0.28695 grey|0.28695 dark|0.1957 gray|0.1957 dark|0.1957 grey|0.1957 silver|0.086311 light|0.039004 gray|0.039004 light|0.039004 grey|0.039004 gainsboro|0.026804 white|0.0037152 smoke|0.0037152  "
+		}
+	}
+}

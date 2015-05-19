@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "602801133ac68f533a4e4137e47bc5034f9b95af656697f85db2d987ee448e77",
+			"url": "https://upload.wikimedia.org/math/8/b/3/8b30a01108fb34c158e5d8a630bb898d.png",
+			"previous": [
+				"If a spheroid is parameterized as",
+				"The volume inside a spheroid (of any kind) is . If A=2a is the equatorial diameter, and C=2c is the polar diameter, the volume is ."
+			],
+			"after": [
+				"where is the reduced or parametric latitude, is the longitude, and and , then its Gaussian curvature is",
+				"and its mean curvature is"
+			],
+			"color": "dim|0.33175 gray|0.33175 dim|0.33175 grey|0.33175 gray|0.30102 grey|0.30102 dark|0.1897 gray|0.1897 dark|0.1897 grey|0.1897 silver|0.081605 light|0.040922 gray|0.040922 light|0.040922 grey|0.040922 gainsboro|0.029057 white|0.005868 smoke|0.005868 linen|0.0029447  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "88924e9b124ca6e0887b7d393fa173eda2025a3b7870aeb66daef6f8e3a7b547",
+			"url": "https://upload.wikimedia.org/math/8/2/d/82d1cf456850fdfebe821b8079a3ae2f.png",
+				"previous": "In two-dimensional space R2 linear maps are described by 2 Ã 2 real matrices. These are some examples:",
+				"after": "The composition of linear maps is linear: if fÂ : V â W and gÂ : W â Z are linear, then so is their composition g â fÂ : V â Z. It follows from this that the class of all vector spaces over a given field K, together with K-linear maps as morphisms, forms a category.",
+			"color": "dim|0.37493 gray|0.37493 dim|0.37493 grey|0.37493 gray|0.28565 grey|0.28565 dark|0.17732 gray|0.17732 dark|0.17732 grey|0.17732 silver|0.079044 light|0.038897 gray|0.038897 light|0.038897 grey|0.038897 gainsboro|0.029233 white|0.004049 smoke|0.004049  "
+		}
+	}
+}

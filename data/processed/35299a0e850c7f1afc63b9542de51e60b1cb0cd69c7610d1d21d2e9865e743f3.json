@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "35299a0e850c7f1afc63b9542de51e60b1cb0cd69c7610d1d21d2e9865e743f3",
+			"url": "https://upload.wikimedia.org/math/9/8/6/986fafcd0a0eb320420977a89fc3eb7b.png",
+				"previous": "The power needed to generate thrust and the force of the thrust can be related in a non-linear way. In general, . The proportionality constant varies, and can be solved for a uniform flow:",
+			"after": [
+				"Note that these calculations are only valid for when the incoming air is accelerated from a standstill - for example when hovering.",
+				"The inverse of the proportionality constant, the \"efficiency\" of an otherwise-perfect thruster, is proportional to the area of the cross section of the propelled volume of fluid () and the density of the fluid (). This helps to explain why moving through water is easier and why aircraft have much larger propellers than watercraft do."
+			],
+			"color": "dim|0.4001 gray|0.4001 dim|0.4001 grey|0.4001 gray|0.26576 grey|0.26576 dark|0.17636 gray|0.17636 dark|0.17636 grey|0.17636 silver|0.071217 light|0.039768 gray|0.039768 light|0.039768 grey|0.039768 gainsboro|0.027957 white|0.0053193 smoke|0.0053193  "
+		}
+	}
+}

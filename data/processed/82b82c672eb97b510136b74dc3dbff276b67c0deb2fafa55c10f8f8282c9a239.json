@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "82b82c672eb97b510136b74dc3dbff276b67c0deb2fafa55c10f8f8282c9a239",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/BrittleAluminium320MPA_S-N_Curve.jpg",
+				"previous": "In high-cycle fatigue situations, materials performance is commonly characterized by an S-N curve, also known as a WÃ¶hler curve . This is a graph of the magnitude of a cyclic stress (S) against the logarithmic scale of cycles to failure (N).",
+				"after": "S-N curves are derived from tests on samples of the material to be characterized (often called coupons) where a regular sinusoidal stress is applied by a testing machine which also counts the number of cycles to failure. This process is sometimes known as coupon testing. Each coupon test generates a point on the plot though in some cases there is a runout where the time to failure exceeds that available for the test (see censoring). Analysis of fatigue data requires techniques from statistics, especially survival analysis and linear regression.",
+			"color": "dim|0.13667 gray|0.13667 dim|0.13667 grey|0.13667 gray|0.080859 grey|0.080859 white|0.072376 snow|0.06685 white|0.063835 smoke|0.063835 mint|0.061972 cream|0.061972 ghost|0.061369 white|0.061369 dark|0.059849 gray|0.059849 dark|0.059849 grey|0.059849 alice|0.059399 blue|0.059399 sea|0.05883 shell|0.05883 azure|0.05701 floral|0.056151 white|0.056151 silver|0.042953 lavender|0.038435 blush|0.038435 light|0.0298 gray|0.0298 light|0.0298 grey|0.0298 gainsboro|0.022718 ivory|0.020578 linen|0.0064946  "
+		}
+	}
+}

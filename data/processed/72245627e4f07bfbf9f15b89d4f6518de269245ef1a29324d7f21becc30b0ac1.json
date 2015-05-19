@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "72245627e4f07bfbf9f15b89d4f6518de269245ef1a29324d7f21becc30b0ac1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Beowulf.jpg/150px-Beowulf.jpg",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"after": [
+				"The desire to get more computing power and better reliability by orchestrating a number of low cost commercial off-the-shelf computers has given rise to a variety of architectures and configurations.",
+				"The computer clustering approach usually (but not always) connects a number of readily available computing nodes (e.g. personal computers used as servers) via a fast local area network.[7] The activities of the computing nodes are orchestrated by \"clustering middleware\", a software layer that sits atop the nodes and allows the users to treat the cluster as by and large one cohesive computing unit, e.g. via a single system image concept.[7]"
+			],
+			"color": "dim|0.23655 gray|0.23655 dim|0.23655 grey|0.23655 black|0.22657 gray|0.20139 grey|0.20139 dark|0.12262 gray|0.12262 dark|0.12262 grey|0.12262 silver|0.068787 light|0.04398 gray|0.04398 light|0.04398 grey|0.04398 gainsboro|0.031798 linen|0.009604 white|0.0086398 smoke|0.0086398  "
+		}
+	}
+}

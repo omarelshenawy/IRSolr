@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "8efff498b839abdd4c64d33ed54fc0d4ba0a7531d6afb73ddf4594b014292e6b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Wikidata_statement.svg/440px-Wikidata_statement.svg.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "Wikidata is a document-oriented database, focused around items. Each item represents a topic (or an administrative page used to maintain Wikipedia) and is identified by a unique number, prefixed with the letter Qâfor example, the item for the topic Politics is Q7163. This enables the basic information required to identify the topic the item covers to be translated without favouring any language.",
+			"color": "white|0.081966 smoke|0.081966 snow|0.077012 white|0.076437 mint|0.074811 cream|0.074811 ghost|0.074232 white|0.074232 sea|0.073234 shell|0.073234 alice|0.07319 blue|0.07319 floral|0.070735 white|0.070735 azure|0.069882 lavender|0.059825 blush|0.059825 gray|0.034026 grey|0.034026 dim|0.022492 gray|0.022492 dim|0.022492 grey|0.022492 light|0.021334 steel|0.021334 blue|0.021334 ivory|0.019648 gainsboro|0.016993 lavender|0.015978 dark|0.015847 gray|0.015847 dark|0.015847 grey|0.015847 light|0.012736 gray|0.012736 light|0.012736 grey|0.012736 silver|0.011845 black|0.011209 linen|0.0080703 navajo|0.0071769 white|0.0071769 light|0.0071671 blue|0.0071671 sky|0.0055897 blue|0.0055897 light|0.0054419 coral|0.0054419 beige|0.0051954 old|0.0045209 lace|0.0045209 misty|0.00347 rose|0.00347 salmon|0.0034307 medium|0.0034307 slate|0.0034307 blue|0.0034307 honeydew|0.0032344 pink|0.0032089  "
+		}
+	}
+}

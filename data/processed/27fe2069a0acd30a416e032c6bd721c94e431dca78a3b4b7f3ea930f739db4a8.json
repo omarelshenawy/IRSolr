@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "27fe2069a0acd30a416e032c6bd721c94e431dca78a3b4b7f3ea930f739db4a8",
+			"url": "https://upload.wikimedia.org/math/8/5/5/8556a8eb66a8e3f8405801c1e8e2c88d.png",
+			"previous": [
+				"The abstractly required field axioms reduce to standard properties of rational numbers, such as the law of distributivity",
+				"A simple example of a field is the field of rational numbers, consisting of numbers which can be written as fractions a/b, where a and b are integers, and b â  0. The additive inverse of such a fraction is simply âa/b, and the multiplicative inverse (provided that a â  0) is b/a. To see the latter, note that"
+			],
+				"after": "or the law of commutativity and law of associativity.",
+			"color": "dim|0.35513 gray|0.35513 dim|0.35513 grey|0.35513 gray|0.28715 grey|0.28715 dark|0.18743 gray|0.18743 dark|0.18743 grey|0.18743 silver|0.07901 light|0.039603 gray|0.039603 light|0.039603 grey|0.039603 gainsboro|0.026806 white|0.0052152 smoke|0.0052152  "
+		}
+	}
+}

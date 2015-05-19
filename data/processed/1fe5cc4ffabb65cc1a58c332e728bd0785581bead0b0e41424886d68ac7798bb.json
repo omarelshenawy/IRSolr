@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fe5cc4ffabb65cc1a58c332e728bd0785581bead0b0e41424886d68ac7798bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/150px-Astrolabe-Persian-18C.jpg",
+			"previous": [
+				"Portal:History/Subportals/6",
+				"For the old version, before this section was randomized, see this oldid and older versions of this page.",
+				"Added portals should already be noted in the {{History browsebar}} located at the top of the portal, as it contains all of the portals on historical topics. Added portals should be added to the next available slot, and the max= parameter on this section's {{Random portal component}} on the Portal should be incremented to reflect the change. Your addition should contain a (well-sourced) quote encapsulating the essence of the portal's topic."
+			],
+			"after": [],
+			"color": "dark|0.44095 golden|0.44095 rod|0.44095 black|0.24741 golden|0.10372 rod|0.10372 yellow|0.089542 gold|0.043466 khaki|0.030626 olive|0.012566  "
+		}
+	}
+}

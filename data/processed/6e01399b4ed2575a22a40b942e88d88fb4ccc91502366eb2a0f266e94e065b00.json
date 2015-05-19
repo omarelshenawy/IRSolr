@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e01399b4ed2575a22a40b942e88d88fb4ccc91502366eb2a0f266e94e065b00",
+			"url": "https://upload.wikimedia.org/math/c/d/0/cd08cf2a8cae8a464f50dba1f3089a20.png",
+				"previous": "Static friction is friction between two or more solid objects that are not moving relative to each other. For example, static friction can prevent an object from sliding down a sloped surface. The coefficient of static friction, typically denoted as Î¼s, is usually higher than the coefficient of kinetic friction.",
+				"after": "An example of static friction is the force that prevents a car wheel from slipping as it rolls on the ground. Even though the wheel is in motion, the patch of the tire in contact with the ground is stationary relative to the ground, so it is static rather than kinetic friction.",
+			"color": "black|0.31795 dim|0.27358 gray|0.27358 dim|0.27358 grey|0.27358 gray|0.18662 grey|0.18662 dark|0.11674 gray|0.11674 dark|0.11674 grey|0.11674 silver|0.046106 light|0.023904 gray|0.023904 light|0.023904 grey|0.023904 gainsboro|0.01746 white|0.0040026 smoke|0.0040026  "
+		}
+	}
+}

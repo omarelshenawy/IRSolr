@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "21c48adfca4b3805e096d7c2c9b9ea51d7e696b5a02f4c984b2dded990a58050",
+			"url": "https://upload.wikimedia.org/math/5/4/c/54c78daf6b3d617e2f13fd5e18dde702.png",
+				"previous": "One of the ways to prove the theorem relies on Hurwitz quaternions, which are the analog of integers for quaternions.[7] The Hurwitz quaternions consist of all quaternions with integer components and all quaternions with half-integer components. These two sets can be combined into a single formula",
+				"after": "where are integers. Thus, the quaternion components are either all integers or all half-integers, depending on whether is even or odd, respectively. The set of Hurwitz quaternions forms a ring; that is to say, the sum or product of any two Hurwitz quaternions is likewise a Hurwitz quaternion.",
+			"color": "dim|0.39599 gray|0.39599 dim|0.39599 grey|0.39599 gray|0.27198 grey|0.27198 dark|0.17234 gray|0.17234 dark|0.17234 grey|0.17234 silver|0.079195 light|0.039776 gray|0.039776 light|0.039776 grey|0.039776 gainsboro|0.027545  "
+		}
+	}
+}

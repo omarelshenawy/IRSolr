@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "90f560b8744b626c3876671559e3990cce2ad03a5b90c9e97969730e5eb382d3",
+			"url": "https://upload.wikimedia.org/math/4/f/4/4f4b68caeaf017b7f944883ac6cfa485.png",
+				"previous": "Note that no money enters or leaves the combined system of endowment principal + accumulated annuity payments, and thus the future value of this system can be computed simply via the future value formula:",
+				"after": "Initially, before any payments, the present value of the system is just the endowment principal (). At the end, the future value is the endowment principal (which is the same) plus the future value of the total annuity payments (). Plugging this back into the equation:",
+			"color": "dim|0.41318 gray|0.41318 dim|0.41318 grey|0.41318 gray|0.27514 grey|0.27514 dark|0.17393 gray|0.17393 dark|0.17393 grey|0.17393 silver|0.069045 light|0.032369 gray|0.032369 light|0.032369 grey|0.032369 gainsboro|0.022287 white|0.0038933 smoke|0.0038933  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "861ea278e96be1446e58c68b754b27d4cdc24c5ccdb34b2d461e8c37724ba368",
+			"url": "https://upload.wikimedia.org/math/9/9/a/99a7fa8da2d1abbcb3fb8a5723eb75bb.png",
+			"previous": [
+				"Let denote the BÃ©zier curve determined by any selection of points P0, P1,Â ...,Â Pn. Then to start,",
+				"A recursive definition for the BÃ©zier curve of degree n expresses it as a point-to-point linear combination (linear interpolation) of a pair of corresponding points in two BÃ©zier curves of degree nÂ âÂ 1."
+			],
+			"after": [
+				"This recursion is elucidated in the animations below.",
+				"The formula can be expressed explicitly as follows:"
+			],
+			"color": "dim|0.39802 gray|0.39802 dim|0.39802 grey|0.39802 gray|0.2965 grey|0.2965 dark|0.16137 gray|0.16137 dark|0.16137 grey|0.16137 silver|0.062662 light|0.033537 gray|0.033537 light|0.033537 grey|0.033537 gainsboro|0.024202 white|0.0062103 smoke|0.0062103  "
+		}
+	}
+}

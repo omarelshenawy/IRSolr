@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4103858b0cc4d2080aa5ccbebe1045588cd254bad2411fd9b7cf198dc90dac32",
+			"url": "https://upload.wikimedia.org/math/7/3/8/738d62aeb8cb2fdcc261ee95b6694139.png",
+				"previous": "which can be found by stacking into matrix form a set of equations consisting of the above difference equation and the kâ1 equations giving a k-dimensional system of the first order in the stacked variable vector in terms of its once-lagged value, and taking the characteristic equation of this system's matrix. This equation gives k characteristic roots for use in the solution equation",
+				"after": "A similar procedure is used for solving a differential equation of the form",
+			"color": "dim|0.38843 gray|0.38843 dim|0.38843 grey|0.38843 gray|0.27255 grey|0.27255 dark|0.17146 gray|0.17146 dark|0.17146 grey|0.17146 silver|0.079016 light|0.041013 gray|0.041013 light|0.041013 grey|0.041013 gainsboro|0.028401 white|0.0045254 smoke|0.0045254  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f3ed183f7a9060e4e80ad9102cf2d7e3b9f2e3701512ae305a8a0299a7032ab",
+			"url": "https://upload.wikimedia.org/math/0/c/2/0c2798427520dbce6757370a4e380d60.png",
+			"previous": [
+				"Solving this equation and using the fact that and may be exchanged, we find",
+				"At this point, Cardano, who did not know complex numbers, supposed that the roots of this equation were real, that is that"
+			],
+				"after": "As these expressions are real, their cube roots are well-defined and, like Cardano, we get",
+			"color": "dim|0.36913 gray|0.36913 dim|0.36913 grey|0.36913 gray|0.2836 grey|0.2836 dark|0.18953 gray|0.18953 dark|0.18953 grey|0.18953 silver|0.081054 light|0.035964 gray|0.035964 light|0.035964 grey|0.035964 gainsboro|0.025927 white|0.0038724 smoke|0.0038724  "
+		}
+	}
+}

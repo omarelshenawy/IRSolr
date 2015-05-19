@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c836444ef2b061178f0fe2bf2ed98811877027f4a6288fb7c7424683d0ce0ba",
+			"url": "https://upload.wikimedia.org/math/e/6/c/e6cf6caaefb9945da952721235494586.png",
+				"previous": "In physical space the Euclidean distance is in a way the most natural one, because in this case the length of a rigid body does not change with rotation.",
+				"after": "Here is the trajectory (path) between the two points. The value of the integral (D) represents the length of this trajectory. The distance is the minimal value of this integral and is obtained when where is the optimal trajectory. In the familiar Euclidean case (the above integral) this optimal trajectory is simply a straight line. It is well known that the shortest path between two points is a straight line. Straight lines can formally be obtained by solving the EulerâLagrange equations for the above functional. In non-Euclidean manifolds (curved spaces) where the nature of the space is represented by a metric the integrand has be to modified to , where Einstein summation convention has been used.",
+			"color": "dim|0.40044 gray|0.40044 dim|0.40044 grey|0.40044 gray|0.28316 grey|0.28316 dark|0.16129 gray|0.16129 dark|0.16129 grey|0.16129 silver|0.070573 light|0.036362 gray|0.036362 light|0.036362 grey|0.036362 gainsboro|0.025478 white|0.0048218 smoke|0.0048218  "
+		}
+	}
+}

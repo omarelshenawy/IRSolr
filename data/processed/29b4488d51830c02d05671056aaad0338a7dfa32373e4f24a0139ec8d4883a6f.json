@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "29b4488d51830c02d05671056aaad0338a7dfa32373e4f24a0139ec8d4883a6f",
+			"url": "https://upload.wikimedia.org/math/1/8/0/18096299e9db2a624ca55be9b72ad28f.png",
+			"previous": [
+				"Definition",
+				"In the ISO International standard ISO 80000-4(2006),[15] describing the basic physical quantities and units in mechanics as a part of the International standard ISO/IEC 80000, the definition of weight is given as:"
+			],
+			"after": [
+				"Remarks",
+				"",
+				"â ISO 80000-4 (2006)",
+				"The definition is dependent on the chosen frame of reference. When the chosen frame is co-moving with the object in question then this definition precisely agrees with the operational definition.[8] If the specified frame is the surface of the Earth, the weight according to the ISO and gravitational definitions differ only by the centrifugal effects due to the rotation of the Earth."
+			],
+			"color": "dim|0.3272 gray|0.3272 dim|0.3272 grey|0.3272 black|0.22228 gray|0.21986 grey|0.21986 dark|0.12294 gray|0.12294 dark|0.12294 grey|0.12294 silver|0.050617 light|0.023397 gray|0.023397 light|0.023397 grey|0.023397 gainsboro|0.016922 white|0.0035944 smoke|0.0035944  "
+		}
+	}
+}

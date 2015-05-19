@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "83ba9ac4866a6d6d68c4c42749ba57e7c83198eef251d428c46269897e6f9e74",
+			"url": "https://upload.wikimedia.org/math/d/a/7/da7870e835d1ec5459f6539e37474d26.png",
+				"previous": "The norm on Hurwitz quaternions satisfies a form of the Euclidean property: for any quaternion with rational coefficients we can choose a Hurwitz quaternion so that by first choosing so that and then so that for . Then we obtain",
+				"after": "The ring of Hurwitz quaternions is not commutative, hence it is not an actual Euclidean domain, and it does not have unique factorization in the usual sense. Nevertheless, the property above implies that every right ideal is principal. Thus, there is a Hurwitz quaternion such that",
+			"color": "dim|0.24242 gray|0.24242 dim|0.24242 grey|0.24242 gray|0.23077 grey|0.23077 black|0.22204 dark|0.2109 gray|0.2109 dark|0.2109 grey|0.2109 silver|0.076749 light|0.013535 gray|0.013535 light|0.013535 grey|0.013535 gainsboro|0.0035917  "
+		}
+	}
+}

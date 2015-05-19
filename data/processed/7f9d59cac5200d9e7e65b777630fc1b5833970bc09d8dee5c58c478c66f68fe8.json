@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f9d59cac5200d9e7e65b777630fc1b5833970bc09d8dee5c58c478c66f68fe8",
+			"url": "https://upload.wikimedia.org/math/e/c/9/ec92ae41df80abcfafda1860e6719c25.png",
+				"previous": "Functions differing by only a constant have the same derivative, and it can be shown that the antiderivative of a given function is actually a family of functions differing only by a constant. Since the derivative of the function y = x2 + C, where C is any constant, is yâ² = 2x, the antiderivative of the latter given by:",
+				"after": "The unspecified constant C present in the indefinite integral or antiderivative is known as the constant of integration.",
+			"color": "black|0.32612 dim|0.26303 gray|0.26303 dim|0.26303 grey|0.26303 gray|0.18484 grey|0.18484 dark|0.11991 gray|0.11991 dark|0.11991 grey|0.11991 silver|0.051744 light|0.02531 gray|0.02531 light|0.02531 grey|0.02531 gainsboro|0.018126  "
+		}
+	}
+}

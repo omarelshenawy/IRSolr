@@ -1,0 +1,26 @@
+{
+	"add": {
+		"doc": {
+			"id": "72a187d0502db7376f7b0f517ec2ffda0b0b86e0d46bd8b7d6b283b77e73525e",
+			"url": "https://upload.wikimedia.org/math/f/0/3/f037af56767b3c4c4831e8c57f988103.png",
+			"previous": [
+				"",
+				"",
+				"From the inlet velocity triangle we have",
+				"",
+				"Assuming Parsonâs turbine and obtaining all the expressions we get",
+				",",
+				","
+			],
+			"after": [
+				"Therefore the blade efficiency is given by",
+				"",
+				"Condition of maximum blade efficiency",
+				"If , then",
+				"",
+				"For maximum efficiency , we get"
+			],
+			"color": "dim|0.39997 gray|0.39997 dim|0.39997 grey|0.39997 gray|0.28093 grey|0.28093 dark|0.16975 gray|0.16975 dark|0.16975 grey|0.16975 silver|0.073085 light|0.035021 gray|0.035021 light|0.035021 grey|0.035021 gainsboro|0.023642 black|0.0057229  "
+		}
+	}
+}

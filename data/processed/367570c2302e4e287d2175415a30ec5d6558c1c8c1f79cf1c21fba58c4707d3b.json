@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "367570c2302e4e287d2175415a30ec5d6558c1c8c1f79cf1c21fba58c4707d3b",
+			"url": "https://upload.wikimedia.org/math/c/b/1/cb189f3059c6f54a6d777b9c0363a4e1.png",
+			"previous": [
+				"Consider the lower triangular matrix A,",
+				"A matrix with elements above the main diagonal that are all zeros is described as a triangular matrix, or in this case, lower triangular. If the elements below the main diagonal are all zeros then the matrix is upper triangular. The eigenvalues of triangular matrices are the elements of the main diagonal, in the same way as for diagonal matrices."
+			],
+				"after": "The characteristic polynomial of A is given by",
+			"color": "dim|0.57382 gray|0.57382 dim|0.57382 grey|0.57382 gray|0.22474 grey|0.22474 dark|0.11203 gray|0.11203 dark|0.11203 grey|0.11203 silver|0.043578 light|0.02021 gray|0.02021 light|0.02021 grey|0.02021 gainsboro|0.014881  "
+		}
+	}
+}

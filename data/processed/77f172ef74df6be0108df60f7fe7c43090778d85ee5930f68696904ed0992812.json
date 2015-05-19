@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "77f172ef74df6be0108df60f7fe7c43090778d85ee5930f68696904ed0992812",
+			"url": "https://upload.wikimedia.org/math/8/6/b/86bb4fab04480751dc75407b47a25c0d.png",
+			"previous": [
+				"Having LaTeX-based formulae in-line has the following drawbacks:",
+				"If you find an article which indents lines with spaces in order to achieve some formula layout effect, you should convert the formula to LaTeX markup."
+			],
+			"after": [
+				"HTML-generating formatting, as described below, is adequate for most simple in-line formulae and better for text-only browsers.",
+				"Older versions of the MediaWiki software supported displaying simple LaTeX formulae as HTML rather than as an image. Although this is no longer an option, some formulae have formatting in them intended to force them to display as an image, such as an invisible quarter space (\\,) added at the end of the formula, or \\displaystyle at the beginning. Such formatting can be removed if a formula is edited and need not be added to new formulae."
+			],
+			"color": "dim|0.32847 gray|0.32847 dim|0.32847 grey|0.32847 gray|0.28786 grey|0.28786 dark|0.21289 gray|0.21289 dark|0.21289 grey|0.21289 silver|0.088494 light|0.037058 gray|0.037058 light|0.037058 grey|0.037058 gainsboro|0.026805 white|0.0049248 smoke|0.0049248  "
+		}
+	}
+}

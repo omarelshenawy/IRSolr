@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1acb8a57b31509e3e3391e396d600150b52edbc01c2a49ed25b4412b7d518b78",
+			"url": "https://upload.wikimedia.org/math/d/a/a/daa3ad57d35f76ab8e5961b2674de5fd.png",
+				"previous": "The following table shows a number of 2-by-2 matrices with the associated linear maps of R2. The blue original is mapped to the green grid and shapes. The origin (0,0) is marked with a black point.",
+				"after": "Under the 1-to-1 correspondence between matrices and linear maps, matrix multiplication corresponds to composition of maps:[24] if a k-by-m matrix B represents another linear map gÂ : Rm â Rk, then the composition g â f is represented by BA since",
+			"color": "dark|0.30681 gray|0.30681 dark|0.30681 grey|0.30681 gray|0.19995 grey|0.19995 silver|0.17176 light|0.096906 gray|0.096906 light|0.096906 grey|0.096906 dim|0.092358 gray|0.092358 dim|0.092358 grey|0.092358 gainsboro|0.07067 white|0.018151 smoke|0.018151 linen|0.0071568 lavender|0.0063821 blush|0.0063821 alice|0.0061875 blue|0.0061875 ghost|0.0060129 white|0.0060129 sea|0.005767 shell|0.005767 snow|0.0055518 white|0.0040716  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d2a9da9a57a6116ca8b76c63847929af53db30070a0f97249d321d3b30957f3",
+			"url": "https://upload.wikimedia.org/math/3/b/a/3baf1600ae50930a155f58ae172b51bd.png",
+				"previous": "Likewise, there are several important theorems related to these operators which generalize the fundamental theorem of calculus to higher dimensions:",
+			"after": [
+				"The right-hand side is the equation of the plane tangent to the graph of at",
+				"For a continuously differentiable function of several real variables, a point P (that is a set of values for the input variables, which is viewed as a point in Rn) is critical if all of the partial derivatives of the function are zero at P, or, equivalently, if its gradient is zero. The critical values are the values of the function at the critical points."
+			],
+			"color": "gray|0.30398 grey|0.30398 dark|0.27053 gray|0.27053 dark|0.27053 grey|0.27053 dim|0.17353 gray|0.17353 dim|0.17353 grey|0.17353 silver|0.12289 light|0.060088 gray|0.060088 light|0.060088 grey|0.060088 gainsboro|0.041718 white|0.0072667 smoke|0.0072667 linen|0.0032591 lavender|0.0031277 blush|0.0031277 alice|0.0029275 blue|0.0029275 ghost|0.0027294 white|0.0027294 sea|0.002506 shell|0.002506  "
+		}
+	}
+}

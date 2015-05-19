@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "75ba5c647e7c9eef0fd79c5a1f64aaeb864de6b1e3e0bdd0480b6ded7a505cde",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Quadratic-linear-equations.svg/220px-Quadratic-linear-equations.svg.png",
+			"previous": [],
+			"after": [
+				"In the above example, a solution exists. However, there are also systems of equations which do not have any solution. Such a system is called inconsistent. An obvious example is",
+				"As 0â 2, the second equation in the system has no solution. Therefore, the system has no solution. However, not all inconsistent systems are recognized at first sight. As an example, let us consider the system"
+			],
+			"color": "black|0.24753 light|0.14694 coral|0.14694 salmon|0.11341 dim|0.095661 gray|0.095661 dim|0.095661 grey|0.095661 red|0.084813 gray|0.063116 grey|0.063116 medium|0.054241 slate|0.054241 blue|0.054241 light|0.050789 pink|0.050789 dark|0.04931 gray|0.04931 dark|0.04931 grey|0.04931 blue|0.035503 silver|0.021861 pink|0.011341 indian|0.0059172 red|0.0059172 rosy|0.0059172 brown|0.0059172  "
+		}
+	}
+}

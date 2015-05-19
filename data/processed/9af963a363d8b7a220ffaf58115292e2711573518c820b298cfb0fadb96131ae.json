@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9af963a363d8b7a220ffaf58115292e2711573518c820b298cfb0fadb96131ae",
+			"url": "https://upload.wikimedia.org/math/7/4/a/74aac744b90a678271c1beff90b1117c.png",
+				"previous": "then since the transformation is an involution we may express the roots in terms of the four si in exactly the same way. Since we know the value s0 = -a/2, we only need the values for s1, s2 and s3. These are the roots of the polynomial",
+				"after": "Substituting the si by their values in term of the xi, this polynomial may be expanded in a polynomial in s whose coefficients are symmetric polynomials in the xi. By the fundamental theorem of symmetric polynomials, these coefficients may be expressed as polynomials in the coefficients of the monic quartic. If, for simplification, we suppose that the quartic is depressed, that is a=0, this results in the polynomial",
+			"color": "gray|0.30129 grey|0.30129 dark|0.23392 gray|0.23392 dark|0.23392 grey|0.23392 dim|0.22991 gray|0.22991 dim|0.22991 grey|0.22991 silver|0.11229 light|0.058566 gray|0.058566 light|0.058566 grey|0.058566 gainsboro|0.041608 white|0.0060934 smoke|0.0060934 linen|0.0031948  "
+		}
+	}
+}

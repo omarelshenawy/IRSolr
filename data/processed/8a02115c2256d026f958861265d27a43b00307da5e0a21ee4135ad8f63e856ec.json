@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a02115c2256d026f958861265d27a43b00307da5e0a21ee4135ad8f63e856ec",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ULS_LangSet_mr-wiki_help_4.png/100px-ULS_LangSet_mr-wiki_help_4.png",
+				"previous": "Any one of Unicode Marathi fonts input system is fine for Marathi Wikipedia. Some people use inscript. Majority uses either Google phonetic transliteration or input facility Universal Language Selector provided on Marathi Wikipedia.",
+				"after": "Phonetic facility provided initially was java-based later supported by Narayam extension for phonetic input facility. Currently Marathi Wikipedia is supported by Universal Language Selector (ULS), that offers both phonetic keyboard (Aksharantaran,Marathi:à¤à¤à¥à¤·à¤°à¤¾à¤à¤¤à¤°à¤£) and InScript keyboard (Marathi:à¤®à¤°à¤¾à¤ à¥ à¤²à¤¿à¤ªà¥).",
+			"color": "deep|0.23077 sky|0.23077 blue|0.23077 light|0.19615 sky|0.19615 blue|0.19615 sky|0.17115 blue|0.17115 light|0.088462 blue|0.088462 powder|0.057692 blue|0.057692 dark|0.044231 gray|0.044231 dark|0.044231 grey|0.044231 alice|0.020389 blue|0.020389 ghost|0.019492 white|0.019492 azure|0.018851 white|0.01853 white|0.01853 smoke|0.01853 mint|0.01853 cream|0.01853 snow|0.017981 light|0.016543 cyan|0.016543 silver|0.014744 sea|0.0088462 shell|0.0088462 floral|0.0088462 white|0.0088462 lavender|0.0076923 blush|0.0076923  "
+		}
+	}
+}

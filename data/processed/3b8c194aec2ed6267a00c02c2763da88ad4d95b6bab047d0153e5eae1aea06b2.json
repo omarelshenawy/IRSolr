@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b8c194aec2ed6267a00c02c2763da88ad4d95b6bab047d0153e5eae1aea06b2",
+			"url": "https://upload.wikimedia.org/math/a/0/e/a0e115715a01d4ace45af27a09a94a05.png",
+			"previous": [
+				"For the Eulerian velocity as a monochromatic wave of any nature in a continuous medium: one readily obtains by the perturbation theory â with as a small parameter â for the particle position",
+				"In many situations, the mapping of average quantities from some Eulerian position x to a corresponding Lagrangian position Î± forms a problem. Since a fluid parcel with label Î± traverses along a path of many different Eulerian positions x, it is not possible to assign Î± to a unique x. A mathematically sound basis for an unambiguous mapping between average Lagrangian and Eulerian quantities is provided by the theory of the Generalized Lagrangian Mean (GLM) by Andrews and McIntyre (1978)."
+			],
+				"after": "The Stokes drift was formulated for water waves by George Gabriel Stokes in 1847. For simplicity, the case of infinite-deep water is considered, with linear wave propagation of a sinusoidal wave on the free surface of a fluid layer:[7]",
+			"color": "dark|0.272 gray|0.272 dark|0.272 grey|0.272 gray|0.23243 grey|0.23243 silver|0.16041 dim|0.1062 gray|0.1062 dim|0.1062 grey|0.1062 light|0.093322 gray|0.093322 light|0.093322 grey|0.093322 gainsboro|0.070555 white|0.013559 smoke|0.013559 lavender|0.0073811 blush|0.0073811 linen|0.0072113 alice|0.0071736 blue|0.0071736 ghost|0.0068278 white|0.0068278 sea|0.0063832 shell|0.0063832 snow|0.0059941 white|0.004527 mint|0.0028388 cream|0.0028388  "
+		}
+	}
+}

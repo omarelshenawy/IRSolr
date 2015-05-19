@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1662b1a77d61a99234574f391feec18db27efd2bc6a4322ca72989b00fb69aef",
+			"url": "https://upload.wikimedia.org/math/e/a/9/ea9b70a0f6dd9c44cabda2c3202a9607.png",
+				"previous": "One aspect of quantum states, mentioned above, is that superpositions of them can be formed. If and are two kets corresponding to quantum states, the ket",
+				"after": "is a different quantum state (possibly not normalized). Note that which quantum state it is depends on both the amplitudes and phases (arguments) of and . In other words, for example, even though and (for real Î¸) correspond to the same physical quantum state, they are not interchangeable, since for example and do not (in general) correspond to the same physical state. However, and do correspond to the same physical state. This is sometimes described by saying that \"global\" phase factors are unphysical, but \"relative\" phase factors are physical and important.",
+			"color": "gray|0.2898 grey|0.2898 dark|0.23076 gray|0.23076 dark|0.23076 grey|0.23076 dim|0.21787 gray|0.21787 dim|0.21787 grey|0.21787 silver|0.1279 light|0.065681 gray|0.065681 light|0.065681 grey|0.065681 gainsboro|0.04583 white|0.0054836 smoke|0.0054836 linen|0.0027318  "
+		}
+	}
+}

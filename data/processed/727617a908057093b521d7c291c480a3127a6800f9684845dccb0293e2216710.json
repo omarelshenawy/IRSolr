@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "727617a908057093b521d7c291c480a3127a6800f9684845dccb0293e2216710",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BlueGeneL_cabinet.jpg/170px-BlueGeneL_cabinet.jpg",
+				"previous": "Because grid computing systems (described below) can easily handle embarrassingly parallel problems, modern clusters are typically designed to handle more difficult problems -- problems that require nodes to share intermediate results with each other more often. This requires a high bandwidth and, more importantly, a low-latency interconnection network. Many historic and current supercomputers use customized high-performance network hardware specifically designed for cluster computing, such as the Cray Gemini network.[29] As of 2014, most current supercomputers use some off-the-shelf standard network hardware, often Myrinet, InfiniBand, or Gigabit Ethernet.",
+				"after": "A massively parallel processor (MPP) is a single computer with many networked processors. MPPs have many of the same characteristics as clusters, but MPPs have specialized interconnect networks (whereas clusters use commodity hardware for networking). MPPs also tend to be larger than clusters, typically having \"far more\" than 100Â processors.[30] In a MPP, \"each CPU contains its own memory and copy of the operating system and application. Each subsystem communicates with the others via a high-speed interconnect.\"[31]",
+			"color": "dim|0.38154 gray|0.38154 dim|0.38154 grey|0.38154 gray|0.16334 grey|0.16334 dark|0.15711 gray|0.15711 dark|0.15711 grey|0.15711 black|0.098759 silver|0.065903 slate|0.033886 gray|0.033886 light|0.024242 slate|0.024242 gray|0.024242 tan|0.012221 light|0.01072 gray|0.01072 light|0.01072 grey|0.01072 light|0.0087345 steel|0.0087345 blue|0.0087345 dark|0.0076756 slate|0.0076756 gray|0.0076756 burly|0.0059734 wood|0.0059734  "
+		}
+	}
+}

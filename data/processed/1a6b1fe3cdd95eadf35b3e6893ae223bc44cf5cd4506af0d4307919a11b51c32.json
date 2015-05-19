@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a6b1fe3cdd95eadf35b3e6893ae223bc44cf5cd4506af0d4307919a11b51c32",
+			"url": "https://upload.wikimedia.org/math/5/e/9/5e9dae26f690f9bcc7e94c2e0c08b4b4.png",
+			"previous": [
+				"A closed-form solution exists for a spheroid:[10]",
+				"Earth's authalic (\"equal area\") radius is the radius of a hypothetical perfect sphere which has the same surface area as the reference ellipsoid. The IUGG denotes the authalic radius as .[8]"
+			],
+			"after": [
+				"For Earth, the authalic radius is 6,371.0072 kilometers (3,958.7603Â mi).[9]",
+				"Another spherical model is defined by the volumetric radius, which is the radius of a sphere of volume equal to the ellipsoid. The IUGG denotes the volumetric radius as .[8]"
+			],
+			"color": "dim|0.51174 gray|0.51174 dim|0.51174 grey|0.51174 gray|0.48826 grey|0.48826  "
+		}
+	}
+}

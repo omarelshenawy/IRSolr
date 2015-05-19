@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "993248441e7af1db6e9bfcb349b188ab1d66b4e60b4e979afa5a7a27596aeb6c",
+			"url": "https://upload.wikimedia.org/math/5/f/7/5f78f51d1a52fdd3c13e7d36077d7c3c.png",
+				"previous": "Where denotes the number of combinatorial objects of size n. The number of combinatorial objects of size n is therefore given by the coefficient of . Some common operation on families of combinatorial objects and its effect on the generating function will now be developed. The exponential generating function is also sometimes used. In this case it would have the form:",
+				"after": "Once determined, the generating function yields the information given by the previous approaches. In addition, the various natural operations on generating functions such as addition, multiplication, differentiation, etc., have a combinatorial significance; this allows one to extend results from one combinatorial problem in order to solve others.",
+			"color": "gray|0.29862 grey|0.29862 dim|0.28961 gray|0.28961 dim|0.28961 grey|0.28961 dark|0.21792 gray|0.21792 dark|0.21792 grey|0.21792 silver|0.10372 light|0.040942 gray|0.040942 light|0.040942 grey|0.040942 gainsboro|0.028648 white|0.0051236 smoke|0.0051236  "
+		}
+	}
+}

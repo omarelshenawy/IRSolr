@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bed2b80a8747fadbb88ff89c74b549d41566e145e13aa0d0a6e6f38214d7747",
+			"url": "https://upload.wikimedia.org/math/4/1/b/41b250ec405b66d2205ede265d6dcaa6.png",
+			"previous": [
+				"For example, for the iterative equation",
+				"One cannot always deduce the analytic form of , which means the nth iteration of . (The superscript can be extended to negative numbers, referring to the iteration of the inverse of if the inverse exists.) But there are some analytically tractable cases."
+			],
+				"after": "one has",
+			"color": "dim|0.36385 gray|0.36385 dim|0.36385 grey|0.36385 gray|0.27936 grey|0.27936 dark|0.18506 gray|0.18506 dark|0.18506 grey|0.18506 silver|0.084405 light|0.042066 gray|0.042066 light|0.042066 grey|0.042066 gainsboro|0.029532 white|0.0045584 smoke|0.0045584  "
+		}
+	}
+}

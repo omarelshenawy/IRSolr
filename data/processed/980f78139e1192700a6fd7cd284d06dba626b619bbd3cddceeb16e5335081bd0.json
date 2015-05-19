@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "980f78139e1192700a6fd7cd284d06dba626b619bbd3cddceeb16e5335081bd0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ellipsoid_reduced_angle_definition.svg/200px-Ellipsoid_reduced_angle_definition.svg.png",
+			"previous": [],
+				"after": "The reduced or parametric latitude, Î², is defined by the radius drawn from the centre of the ellipsoid to that point Q on the surrounding sphere (of radius a) which is the projection parallel to the Earth's axis of a point P on the ellipsoid at latitude . It was introduced by Legendre[12] and Bessel[13] who solved problems for geodesics on the ellipsoid by transforming them to an equivalent problem for spherical geodesics by using this smaller latitude. Bessel's notation, , is also used in the current literature. The reduced latitude is related to the geodetic latitude by:[7][8]",
+			"color": "black|0.41657 dim|0.32677 gray|0.32677 dim|0.32677 grey|0.32677 gray|0.19786 grey|0.19786 dark|0.054944 gray|0.054944 dark|0.054944 grey|0.054944  "
+		}
+	}
+}

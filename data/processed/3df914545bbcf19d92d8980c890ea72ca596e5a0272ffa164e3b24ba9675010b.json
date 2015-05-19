@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3df914545bbcf19d92d8980c890ea72ca596e5a0272ffa164e3b24ba9675010b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CRT_phosphors.png/220px-CRT_phosphors.png",
+			"previous": [],
+				"after": "Color tubes use three different phosphors which emit red, green, and blue light respectively. They are packed together in stripes (as in aperture grille designs) or clusters called \"triads\" (as in shadow mask CRTs).[18] Color CRTs have three electron guns, one for each primary color, arranged either in a straight line or in an equilateral triangular configuration (the guns are usually constructed as a single unit). (The triangular configuration is often called \"delta-gun\", based on its relation to the shape of the Greek letter delta.) A grille or mask absorbs the electrons that would otherwise hit the wrong phosphor.[19] A shadow mask tube uses a metal plate with tiny holes, placed so that the electron beam only illuminates the correct phosphors on the face of the tube;[18] the holes are tapered so that the electrons that strike the inside of any hole will be reflected back, if they are not absorbed (e.g. due to local charge accumulation), instead of bouncing through the hole to strike a random (wrong) spot on the screen. Another type of color CRT uses an aperture grille of tensioned vertical wires to achieve the same result.[19]",
+			"color": "sea|0.080004 shell|0.080004 white|0.079647 smoke|0.079647 snow|0.079411 ghost|0.078583 white|0.078583 floral|0.078425 white|0.078425 white|0.078161 lavender|0.07766 blush|0.07766 mint|0.076796 cream|0.076796 alice|0.07658 blue|0.07658 azure|0.075513 light|0.042959 pink|0.042959 pink|0.036085 misty|0.033605 rose|0.033605 light|0.028104 coral|0.028104 dark|0.013551 sea|0.013551 green|0.013551 lavender|0.0097497 salmon|0.0092577 ivory|0.0073804 linen|0.0063422 honeydew|0.0042183 light|0.0037687 gray|0.0037687 light|0.0037687 grey|0.0037687 gainsboro|0.0035709  "
+		}
+	}
+}

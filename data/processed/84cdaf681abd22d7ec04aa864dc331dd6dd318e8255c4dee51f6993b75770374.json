@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "84cdaf681abd22d7ec04aa864dc331dd6dd318e8255c4dee51f6993b75770374",
+			"url": "https://upload.wikimedia.org/math/3/d/f/3df468f46b8467790fdee6d5809be444.png",
+			"previous": [
+				"It is interesting to consider the case of three lines, Î»1, Î»2 and Î»3, which yield the matrix equation,",
+				"if the rows of B are linearly independent (i.e., Î»1 and Î»2 represent distinct lines). Divide through by x3 to get Cramer's rule for the solution of a set of two linear equations in two unknowns.[22] Notice that this yields a point in the z = 1 plane only when the 2âÃâ2 submatrix associated with x3 has a non-zero determinant."
+			],
+				"after": "which in homogeneous form yields,",
+			"color": "black|0.40634 dim|0.22539 gray|0.22539 dim|0.22539 grey|0.22539 gray|0.19949 grey|0.19949 dark|0.13355 gray|0.13355 dark|0.13355 grey|0.13355 silver|0.032403  "
+		}
+	}
+}

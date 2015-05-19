@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "631452f00877175da2768d93725d1ee3e93037030aa9681f985005d864fd5ae2",
+			"url": "https://upload.wikimedia.org/math/5/f/c/5fc2a80380585af9241c58026873d8c5.png",
+			"previous": [
+				"i.e.",
+				"In a more sophisticated performance model, the cooling air for the first row of (static) turbine nozzle guide vanes (immediately downstream of the combustor) can be safely disregarded, since for a given (HP) rotor inlet temperature it has no effect upon either the combustor fuel flow or the net thrust of the engine. However, the turbine rotor cooling air must be included in such a model. The rotor cooling bleed air is extracted from compressor delivery and passes along narrow passage ways before being injected into the base of the rotating blades. The bleed air negotiates a complex set of passageways within the aerofoil extracting heat before being dumped into the gas stream adjacent to the blade surface. In a sophisticated model, the turbine rotor cooling air is assumed to quench the main gas stream emerging from turbine, reducing its temperature, but also increasing its mass flow:"
+			],
+			"after": [
+				"",
+				"The bleed air cooling the turbine discs is treated in a similar manner. The usual assumption is that the low energy disc cooling air cannot contribute to the engine cycle until it has passed through one row of blades or vanes."
+			],
+			"color": "dim|0.27464 gray|0.27464 dim|0.27464 grey|0.27464 gray|0.26692 grey|0.26692 dark|0.23876 gray|0.23876 dark|0.23876 grey|0.23876 black|0.10693 silver|0.087125 light|0.019495 gray|0.019495 light|0.019495 grey|0.019495 gainsboro|0.0061161  "
+		}
+	}
+}

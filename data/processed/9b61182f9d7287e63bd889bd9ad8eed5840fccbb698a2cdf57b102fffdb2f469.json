@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b61182f9d7287e63bd889bd9ad8eed5840fccbb698a2cdf57b102fffdb2f469",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Antwerp_V-2.jpg/150px-Antwerp_V-2.jpg",
+			"previous": [],
+			"after": [
+				"Thrust vector control is effective only while the propulsion system is creating thrust. At other stages of flight, separate mechanisms are required for attitude and flight path control.",
+				"Nominally, the line of action of the thrust vector of a rocket nozzle passes through the vehicle's center of mass, generating zero net moment about the mass center. It is possible to generate pitch and yaw moments by deflecting the main rocket thrust vector so that it does not pass through the mass center. Because the line of action is generally oriented nearly parallel to the roll axis, roll control usually requires the use of two or more separately hinged nozzles or a separate system altogether, such as fins,[2] or vanes in the exhaust plume of the rocket engine, deflecting the main thrust."
+			],
+			"color": " "
+		}
+	}
+}

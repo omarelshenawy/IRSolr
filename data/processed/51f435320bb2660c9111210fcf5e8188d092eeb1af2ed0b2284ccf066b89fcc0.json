@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "51f435320bb2660c9111210fcf5e8188d092eeb1af2ed0b2284ccf066b89fcc0",
+			"url": "https://upload.wikimedia.org/math/5/7/c/57cec4137b614c87cb4e24a3d003a3e0.png",
+				"previous": "The following equation gives the number of days (actually, dates) that the Gregorian calendar is ahead of the Julian calendar, called the secular difference between the two calendars. A negative difference means the Julian calendar is ahead of the Gregorian calendar.[26]",
+			"after": [
+				"The general rule, in years which are leap years in the Julian calendar but not the Gregorian, is as follows:",
+				"Up to February 28 in the calendar you are converting from add one day less or subtract one day more than the calculated value. Remember to give February the appropriate number of days for the calendar you are converting into. When you are subtracting days to move from Julian to Gregorian be careful, when calculating the Gregorian equivalent of February 29 (Julian), to remember that February 29 is discounted. Thus if the calculated value is -4 the Gregorian equivalent of this date is February 24.[27][28]"
+			],
+			"color": " "
+		}
+	}
+}

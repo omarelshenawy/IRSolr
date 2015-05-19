@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "26ad070ce87ed8596aed3c42cdc02791aa5590b9bcfbfd7a4a1c3c81388d5218",
+			"url": "https://upload.wikimedia.org/math/a/c/6/ac62037211e28c2a4ec969df06932a45.png",
+				"previous": "One solution can be",
+			"after": [
+				"where is called the time evolution operator, and H is the Hamiltonian.",
+				"But the SchrÃ¶dinger picture shown above is equivalent to the Heisenberg picture, which enjoys a similarity to the Poisson brackets of classical mechanics. The Poisson brackets are superseded by a nonzero commutator, say [H,A] for observable A, and Hamiltonian H:"
+			],
+			"color": "gray|0.28349 grey|0.28349 dim|0.27041 gray|0.27041 dim|0.27041 grey|0.27041 dark|0.24299 gray|0.24299 dark|0.24299 grey|0.24299 black|0.10407 silver|0.07894 light|0.016294 gray|0.016294 light|0.016294 grey|0.016294 gainsboro|0.0038135  "
+		}
+	}
+}

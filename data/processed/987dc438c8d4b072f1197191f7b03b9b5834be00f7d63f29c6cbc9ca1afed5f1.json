@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "987dc438c8d4b072f1197191f7b03b9b5834be00f7d63f29c6cbc9ca1afed5f1",
+			"url": "https://upload.wikimedia.org/math/0/8/e/08ed3b31039aa531f23f80bde1f09924.png",
+				"previous": "(with different domain) is not considered the same function, even though the formulas defining f and g agree, and similarly with a different codomain. Despite that, many authors drop the specification of the domain and codomain, especially if these are clear from the context. So in this example many just write f(x) = 4 â x. Sometimes, the maximal possible domain is also understood implicitly: a formula such as may mean that the domain of f is the set of real numbers x where the square root is defined (in this case xÂ â¤Â 2 or xÂ â¥Â 3).[5]",
+			"after": [],
+			"color": "gray|0.28155 grey|0.28155 dim|0.26821 gray|0.26821 dim|0.26821 grey|0.26821 dark|0.21043 gray|0.21043 dark|0.21043 grey|0.21043 black|0.18134 silver|0.053712 light|0.004372 gray|0.004372 light|0.004372 grey|0.004372  "
+		}
+	}
+}

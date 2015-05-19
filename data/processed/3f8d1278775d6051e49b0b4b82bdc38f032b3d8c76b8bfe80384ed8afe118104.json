@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f8d1278775d6051e49b0b4b82bdc38f032b3d8c76b8bfe80384ed8afe118104",
+			"url": "https://upload.wikimedia.org/math/8/3/9/8399b1e7c5548479381ab8762ab9250e.png",
+			"previous": [
+				"The law of large numbers (LLN) states that the sample average",
+				"Common intuition suggests that if a fair coin is tossed many times, then roughly half of the time it will turn up heads, and the other half it will turn up tails. Furthermore, the more often the coin is tossed, the more likely it should be that the ratio of the number of heads to the number of tails will approach unity. Modern probability provides a formal version of this intuitive idea, known as the law of large numbers. This law is remarkable because it is not assumed in the foundations of probability theory, but instead emerges from these foundations as a theorem. Since it links theoretically derived probabilities to their actual frequency of occurrence in the real world, the law of large numbers is considered as a pillar in the history of statistical theory and has had widespread influence.[6]"
+			],
+			"after": [
+				"It is in the different forms of convergence of random variables that separates the weak and the strong law of large numbers",
+				"It follows from the LLN that if an event of probability p is observed repeatedly during independent experiments, the ratio of the observed frequency of that event to the total number of repetitions converges towards p."
+			],
+			"color": "gray|0.30322 grey|0.30322 dark|0.29274 gray|0.29274 dark|0.29274 grey|0.29274 dim|0.15639 gray|0.15639 dim|0.15639 grey|0.15639 silver|0.12695 light|0.058812 gray|0.058812 light|0.058812 grey|0.058812 gainsboro|0.039842 white|0.0066064 smoke|0.0066064 linen|0.0035824  "
+		}
+	}
+}

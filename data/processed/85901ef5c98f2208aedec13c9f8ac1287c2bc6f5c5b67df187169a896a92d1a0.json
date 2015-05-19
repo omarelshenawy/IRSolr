@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "85901ef5c98f2208aedec13c9f8ac1287c2bc6f5c5b67df187169a896a92d1a0",
+			"url": "https://upload.wikimedia.org/math/7/c/4/7c44e171dc9b2d70b8623453882ce491.png",
+				"previous": "If pÂ â Â 0 and the inequalities on the right are not satisfied the formulas remain valid but involve complex quantities.",
+				"after": "If the cubic equation with integer coefficients has a rational real root, it can be found using the rational root test: If the root is r = m / n fully reduced, then m is a factor of d and n is a factor of a, so all possible combinations of values for m and n can be checked for whether they satisfy the cubic equation.",
+			"color": "black|0.40494 dim|0.22968 gray|0.22968 dim|0.22968 grey|0.22968 gray|0.16533 grey|0.16533 dark|0.10302 gray|0.10302 dark|0.10302 grey|0.10302 silver|0.048438 light|0.025348 gray|0.025348 light|0.025348 grey|0.025348 gainsboro|0.017583  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a14e9c4969f897b91092b58a231ba7fe1f4274602e69d037b84fea9c1ee5c24",
+			"url": "https://upload.wikimedia.org/math/e/0/e/e0e86f467b391683c3462a7e6825df81.png",
+			"previous": [],
+			"after": [
+				"Therefore, R=:",
+				"A nonlinear model is developed to predict the transient response of a compression system subsequent to a perturbation from steady operating conditions. It is found that for the system investigated there is an important nondimensional parameter on which this response depends. Whether this parameter is above or below a critical value determines which mode of compressor instability, rotating stall or surge, will be encountered at the stall line.[4] Representation of the performance characteristics of axial compressor can be done by following parameters:"
+			],
+			"color": "black|0.30673 dim|0.26468 gray|0.26468 dim|0.26468 grey|0.26468 gray|0.22537 grey|0.22537 dark|0.16895 gray|0.16895 dark|0.16895 grey|0.16895 silver|0.032577  "
+		}
+	}
+}

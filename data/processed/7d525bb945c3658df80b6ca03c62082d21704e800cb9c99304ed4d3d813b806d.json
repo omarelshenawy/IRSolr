@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d525bb945c3658df80b6ca03c62082d21704e800cb9c99304ed4d3d813b806d",
+			"url": "https://upload.wikimedia.org/math/2/2/c/22cce6485be59b549cfa47d345cb4658.png",
+			"previous": [
+				"The number can be factored in Hurwitz quaternions:",
+				"As for showing that is not a Hurwitz irreducible, Lagrange proved that any odd prime divides at least one number of the form , where and are integers.[7] This can be seen as follows: since is prime, can hold for integers , only when . Thus, the set of squares contains distinct residues modulo . Likewise, contains residues. Since there are only residues in total, and , the sets and must intersect."
+			],
+				"after": "It follows that for any Hurwitz quaternions with , there exists a Hurwitz quaternion such that",
+			"color": " "
+		}
+	}
+}

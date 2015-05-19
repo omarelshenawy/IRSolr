@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3df5ad539c5fd75ea42ec285202e45c57dc8a4826e40d6bcdb6c9db7f083c41c",
+			"url": "https://upload.wikimedia.org/math/4/f/6/4f645cef778354b6fc6e9a9fa63ed844.png",
+			"previous": [],
+				"after": "A mixed state cannot be described as a ket vector. Instead, it is described by its associated density matrix (or density operator), usually denoted Ï. Note that density matrices can describe both mixed and pure states, treating them on the same footing. Moreover, a mixed quantum state on a given quantum system described by a Hilbert space can be always represented as the partial trace of a pure quantum state (called a purification) on a larger bipartite system for a sufficiently large Hilbert space .",
+			"color": " "
+		}
+	}
+}

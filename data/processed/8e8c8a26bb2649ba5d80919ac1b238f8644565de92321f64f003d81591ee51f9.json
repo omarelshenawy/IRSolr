@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e8c8a26bb2649ba5d80919ac1b238f8644565de92321f64f003d81591ee51f9",
+			"url": "https://upload.wikimedia.org/math/6/b/9/6b92c00cd15e1684d410c12c4bdc7a4f.png",
+				"previous": "Formally, the ISBN-13 check digit calculation is:",
+				"after": "This check systemÂ â similar to the UPC check digit formulaÂ â does not catch all errors of adjacent digit transposition. Specifically, if the difference between two adjacent digits is 5, the check digit will not catch their transposition. For instance, the above example allows this situation with the 6 followed by a 1. The correct order contributes 3Ã6+1Ã1 = 19 to the sum; while, if the digits are transposed (1 followed by a 6), the contribution of those two digits will be 3Ã1+1Ã6 = 9. However, 19 and 9 are congruent modulo 10, and so produce the same, final result: both ISBNs will have a check digit of 7. The ISBN-10 formula uses the prime modulus 11 which avoids this blind spot, but requires more than the digits 0-9 to express the check digit.",
+			"color": "dim|0.38622 gray|0.38622 dim|0.38622 grey|0.38622 gray|0.27263 grey|0.27263 dark|0.17685 gray|0.17685 dark|0.17685 grey|0.17685 silver|0.07932 light|0.040588 gray|0.040588 light|0.040588 grey|0.040588 gainsboro|0.028944 white|0.0041763 smoke|0.0041763  "
+		}
+	}
+}

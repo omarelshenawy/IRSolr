@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "414b3112d24aba35954bf5a95fb127a20faafe39a881ba96b64bf8f562b6dcbf",
+			"url": "https://upload.wikimedia.org/math/0/6/e/06edfc3aff3ab9055c67f1e20c2eb32e.png",
+				"previous": "If the sum of the geometric multiplicities of all eigenvalues is exactly , then has a set of linearly independent eigenvectors. Let be a square matrix whose columns are those eigenvectors, in any order. Then we will have , where is the diagonal matrix such that is the eigenvalue associated to column of . Since the columns of are linearly independent, the matrix is invertible. Premultiplying both sides by we get . By definition, therefore, the matrix is diagonalizable.",
+				"after": "If is diagonalizable, the space of all -coordinate vectors can be decomposed into the direct sum of the eigenspaces of . This decomposition is called the eigendecomposition of , and it is preserved under change of coordinates.",
+			"color": " "
+		}
+	}
+}

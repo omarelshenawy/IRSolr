@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "40deb000e71388aa0b53b0ed58b6e30211feefe561c458c81f64102c2508f795",
+			"url": "https://upload.wikimedia.org/math/6/d/f/6dfab4bbfdfe60f3578a083725077ca6.png",
+				"previous": "Several different control strategies have been devised in the past years. These vary from extremely general ones (PID controller), to others devoted to very particular classes of systems (especially robotics or aircraft cruise control).",
+				"after": "Another typical specification is the rejection of a step disturbance; including an integrator in the open-loop chain (i.e. directly before the system under control) easily achieves this. Other classes of disturbances need different types of sub-systems to be included.",
+			"color": "dim|0.37906 gray|0.37906 dim|0.37906 grey|0.37906 gray|0.25687 grey|0.25687 dark|0.15926 gray|0.15926 dark|0.15926 grey|0.15926 silver|0.074862 light|0.046778 gray|0.046778 light|0.046778 grey|0.046778 gainsboro|0.035436 black|0.01622 white|0.0072143 smoke|0.0072143 linen|0.0057425 lavender|0.0037527 blush|0.0037527 alice|0.0036713 blue|0.0036713 ghost|0.0035792 white|0.0035792  "
+		}
+	}
+}

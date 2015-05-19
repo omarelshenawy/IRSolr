@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b11a63bcd4439fa6a7aaff615650f115eaa0b5747524fe1ee1c469c2aab5fb6",
+			"url": "https://upload.wikimedia.org/math/4/6/3/4633b51f63e662a3a2262f9fcd53b13a.png",
+			"previous": [],
+				"after": "The most common iterative method of square root calculation by hand is known as the \"Babylonian method\" or \"Heron's method\" after the first-century Greek philosopher Heron of Alexandria, who first described it.[14] The method uses the same iterative scheme as the NewtonâRaphson method yields when applied to the function y = f(x)=x2 â a, using the fact that its slope at any point is but predates it by many centuries.[15] The algorithm is to repeat a simple calculation that results in a number closer to the actual square root each time it is repeated with its result as the new input. The motivation is that if x is an overestimate to the square root of a non-negative real number a then a/x will be an underestimate and so the average of these two numbers is a better approximation than either of them. However, the inequality of arithmetic and geometric means shows this average is always an overestimate of the square root (as noted below), and so it can serve as a new overestimate with which to repeat the process, which converges as a consequence of the successive overestimates and underestimates being closer to each other after each iteration. To find xÂ :",
+			"color": "black|0.29805 dim|0.27875 gray|0.27875 dim|0.27875 grey|0.27875 gray|0.19341 grey|0.19341 dark|0.12046 gray|0.12046 dark|0.12046 grey|0.12046 silver|0.052653 light|0.026638 gray|0.026638 light|0.026638 grey|0.026638 gainsboro|0.018792  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "65bef49efc7424cc21d12d106002b1c4ebab80209b77a1c5f7e760e7bdc9aa68",
+			"url": "https://upload.wikimedia.org/math/9/e/3/9e32cf9af726870981af4cf154ea874b.png",
+			"previous": [
+				"The points on the sphere with radius r can be parameterized via",
+				"In analytic geometry, a sphere with center (x0, y0, z0) and radius r is the locus of all points (x, y, z) such that"
+			],
+			"after": [
+				"A sphere of any radius centered at zero is an integral surface of the following differential form:",
+				"This equation reflects that position and velocity vectors of a point traveling on the sphere are always orthogonal to each other."
+			],
+			"color": "black|0.33093 dim|0.29555 gray|0.29555 dim|0.29555 grey|0.29555 gray|0.17832 grey|0.17832 dark|0.10388 gray|0.10388 dark|0.10388 grey|0.10388 silver|0.04407 light|0.021583 gray|0.021583 light|0.021583 grey|0.021583 gainsboro|0.015119  "
+		}
+	}
+}

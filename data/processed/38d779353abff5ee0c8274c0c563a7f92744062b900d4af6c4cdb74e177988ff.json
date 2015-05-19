@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "38d779353abff5ee0c8274c0c563a7f92744062b900d4af6c4cdb74e177988ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/3-Pointer_Altimeter.svg/60px-3-Pointer_Altimeter.svg.png",
+			"previous": [],
+				"after": "The altimeter shows the aircraft's altitude above sea-level by measuring the difference between the pressure in a stack of aneroid capsules inside the altimeter and the atmospheric pressure obtained through the static system. It is adjustable for local barometric pressure which must be set correctly to obtain accurate altitude readings. As the aircraft ascends, the capsules expand and the static pressure drops, causing the altimeter to indicate a higher altitude. The opposite effect occurs when descending. With the advancement in aviation and increased altitude ceiling the altimeter dial had to be altered for use both at higher and lower altitudes. Hence when the needles were indicating lower altitudes i.e. the first 360 degree operation of the pointers was delineated by the appearance of a small window with oblique lines warning the pilot that he is nearer to the ground. This modification was introduced in the early sixties after the recurrence of air accidents caused by the confusion in the pilot's mind. At higher altitudes the window will disappear.",
+			"color": "black|0.78153 dim|0.11189 gray|0.11189 dim|0.11189 grey|0.11189 gray|0.064135 grey|0.064135 dark|0.022993 gray|0.022993 dark|0.022993 grey|0.022993 silver|0.0088726 light|0.0041752 gray|0.0041752 light|0.0041752 grey|0.0041752 gainsboro|0.0031341  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "84bd35834ddc2371a9e64fc23807561ba6dc2385a730bd58b2f012ea308f74b0",
+			"url": "https://upload.wikimedia.org/math/5/a/6/5a641bed6aa70f2806aa5ac61389ae76.png",
+				"previous": "A relatively simple PDE is",
+				"after": "This relation implies that the function u(x,y) is independent of x. However, the equation gives no information on the function's dependence on the variable y. Hence the general solution of this equation is",
+			"color": "gray|0.31871 grey|0.31871 dim|0.29834 gray|0.29834 dim|0.29834 grey|0.29834 dark|0.20408 gray|0.20408 dark|0.20408 grey|0.20408 silver|0.088404 light|0.042246 gray|0.042246 light|0.042246 grey|0.042246 gainsboro|0.029239 white|0.0048748 smoke|0.0048748  "
+		}
+	}
+}

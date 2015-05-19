@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "226c3a7c2ea4ccc7c0179e8fc196a79293f779e7d77f1ccc5b1d4ffacdb9bf14",
+			"url": "https://upload.wikimedia.org/math/8/5/5/855c5bfa9b9062654a25a6357d8698a0.png",
+			"previous": [
+				"In his original treatment, Einstein considered an osmotic pressure experiment, but the same conclusion can be reached in other ways.",
+				"The second part of Einstein's theory relates the diffusion constant to physically measurable quantities, such as the mean squared displacement of a particle in a given time interval. This result enables the experimental determination of Avogadro's number and therefore the size of molecules. Einstein analyzed a dynamic equilibrium being established between opposing forces. The beauty of his argument is that the final result does not depend upon which forces are involved in setting up the dynamic equilibrium."
+			],
+				"after": "where ÏâÏ0 is the difference in density of particles separated by a height difference of h, kB is Boltzmann's constant (namely, the ratio of the universal gas constant, R, to Avogadro's number, N), and T is the absolute temperature. It is Avogadro's number that is to be determined.",
+			"color": "dim|0.38031 gray|0.38031 dim|0.38031 grey|0.38031 gray|0.27163 grey|0.27163 dark|0.17282 gray|0.17282 dark|0.17282 grey|0.17282 silver|0.083399 light|0.042385 gray|0.042385 light|0.042385 grey|0.042385 gainsboro|0.030819 white|0.0046754 smoke|0.0046754  "
+		}
+	}
+}

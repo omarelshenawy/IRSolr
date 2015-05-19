@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "389a810ca46a9e7926362cef9dfc768879e2c2ee4b3a8942d5ee7a6017cd985d",
+			"url": "https://upload.wikimedia.org/math/e/2/7/e272d57cfba97b1be0be1fdbdc15c2fc.png",
+			"previous": [
+				"The following table summarizes the different formulas commonly used in calculating the time value of money.[8]",
+				"Where i = gÂ :"
+			],
+			"after": [
+				"Notes:",
+				"The formula for the present value of a regular stream of future payments (an annuity) is derived from a sum of the formula for future value of a single future payment, as below, where C is the payment amount and n the period."
+			],
+			"color": "dim|0.3828 gray|0.3828 dim|0.3828 grey|0.3828 gray|0.27105 grey|0.27105 dark|0.18024 gray|0.18024 dark|0.18024 grey|0.18024 silver|0.078965 light|0.040544 gray|0.040544 light|0.040544 grey|0.040544 gainsboro|0.028338 white|0.0047232 smoke|0.0047232  "
+		}
+	}
+}

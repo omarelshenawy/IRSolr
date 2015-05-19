@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b2e3f8a854f007b7761796097534051d25f91ba6248af0f5c8734f6954c95e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Serbian_Wikipedia_Cyr.png/220px-Serbian_Wikipedia_Cyr.png",
+				"previous": "The Serbian language uses two alphabets, Cyrillic and Latin. It also has two official accents: Ekavian and Ijekavian. Combining the scripts and accents give four written variants (Ekavian Cyrillic, Ijekavian Cyrillic, Ekavian Latin, and Ijekavian Latin).",
+				"after": "When the Serbian Wikipedia was founded, it used only the Cyrillic alphabet, and both standard dialects. However, since both alphabets are widely used by Serbian native speakers, an effort began to enable the parallel usage of both Cyrillic and Latin alphabets. The first attempt was to use a bot for dynamic transliteration of every article. About 1,000 articles were transliterated before the action was stopped due to technical difficulties. This concept was later abandoned in favor of a model used by the Chinese Wikipedia. After a few months, the software was completed and now every visitor has the option to choose between two alphabets using tabs at the top of each article. There are special tags used to indicate those words which should not be transliterated (for example, names and words written in foreign languages). Anti-transliteration tags in use are:",
+			"color": "dark|0.096356 gray|0.096356 dark|0.096356 grey|0.096356 silver|0.071714 white|0.070015 smoke|0.070015 alice|0.065677 blue|0.065677 ghost|0.065073 white|0.065073 snow|0.063997 sea|0.062726 shell|0.062726 white|0.062559 mint|0.061553 cream|0.061553 azure|0.059331 floral|0.057865 white|0.057865 light|0.050897 gray|0.050897 light|0.050897 grey|0.050897 lavender|0.045539 blush|0.045539 gainsboro|0.042124 gray|0.039652 grey|0.039652 light|0.018268 slate|0.018268 gray|0.018268 dim|0.014749 gray|0.014749 dim|0.014749 grey|0.014749 ivory|0.01314 linen|0.011553 slate|0.0089756 gray|0.0089756 light|0.0034752 blue|0.0034752 sky|0.0034306 blue|0.0034306 light|0.0026315 steel|0.0026315 blue|0.0026315  "
+		}
+	}
+}

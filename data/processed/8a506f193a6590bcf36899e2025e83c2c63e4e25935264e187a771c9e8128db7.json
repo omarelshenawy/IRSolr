@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a506f193a6590bcf36899e2025e83c2c63e4e25935264e187a771c9e8128db7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ILA_Berlin_2012_PD_193-Detail-2.jpg/170px-ILA_Berlin_2012_PD_193-Detail-2.jpg",
+			"previous": [
+				"The highest Field of View (FOV) for a flat phased array antenna is currently 120Â°, however this can be combined with mechanical steering as noted above.[13]",
+				"Replacing a mechanically scanned array with a fixed AESA mount (such as on the F/A-18E/F Super Hornet) can help reduce an aircraft's overall radar cross-section (RCS), but some designs (such as the Eurofighter Typhoon) forgo this advantage in order to combine mechanical scanning with electronic scanning and provide a wider angle of total coverage.[12]"
+			],
+			"after": [],
+			"color": "black|0.84237 maroon|0.053352 dark|0.034064 red|0.034064 dim|0.031557 gray|0.031557 dim|0.031557 grey|0.031557 gray|0.01418 grey|0.01418 dark|0.007031 gray|0.007031 dark|0.007031 grey|0.007031 firebrick|0.004123  "
+		}
+	}
+}

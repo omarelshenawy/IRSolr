@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "519ad41fbf5a926e23c39677cdba62ba7b0a24bdfd995f378ce860d7ec8de8b0",
+			"url": "https://upload.wikimedia.org/math/0/9/5/09530495c033c611c6d42fcc779a1040.png",
+				"previous": "with parameter 2<r<4 can be solved in certain cases, one of which is chaotic and one of which is not. In the chaotic case r=4 the solution is",
+				"after": "where the initial condition parameter is given by . For rational , after a finite number of iterations maps into a periodic sequence. But almost all are irrational, and, for irrational , never repeats itself â it is non-periodic and exhibits sensitive dependence on initial conditions, so it is said to be chaotic.",
+			"color": "dim|0.39017 gray|0.39017 dim|0.39017 grey|0.39017 gray|0.2834 grey|0.2834 dark|0.17705 gray|0.17705 dark|0.17705 grey|0.17705 silver|0.072779 light|0.035004 gray|0.035004 light|0.035004 grey|0.035004 gainsboro|0.02422 white|0.0044594 smoke|0.0044594  "
+		}
+	}
+}

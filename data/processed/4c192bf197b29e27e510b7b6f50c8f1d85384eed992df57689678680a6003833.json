@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c192bf197b29e27e510b7b6f50c8f1d85384eed992df57689678680a6003833",
+			"url": "https://upload.wikimedia.org/math/2/4/5/245a0e8b9457c8cf0cca76aeefc8ea25.png",
+			"previous": [
+				"Let Then Q becomes a quadratic q in",
+				"defines a biquadratic equation, which is easy to solve.",
+				"If then the biquadratic function",
+				"In the case of two quadratic factors or of large integer coefficients, the factorization is harder to compute, and, in general, it is better to use the factor function of a computer algebra system (see polynomial factorization for a description of the algorithms that are involved)."
+			],
+			"after": [
+				"Let and be the roots of q. Then the roots of our quartic Q are",
+				"The polynomial",
+				"is almost palindromic, as"
+			],
+			"color": "dim|0.35158 gray|0.35158 dim|0.35158 grey|0.35158 gray|0.22626 grey|0.22626 black|0.19579 dark|0.1252 gray|0.1252 dark|0.1252 grey|0.1252 silver|0.050487 light|0.022688 gray|0.022688 light|0.022688 grey|0.022688 gainsboro|0.015716  "
+		}
+	}
+}

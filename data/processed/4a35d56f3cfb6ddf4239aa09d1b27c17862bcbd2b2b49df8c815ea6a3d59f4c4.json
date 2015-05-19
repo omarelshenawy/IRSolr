@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a35d56f3cfb6ddf4239aa09d1b27c17862bcbd2b2b49df8c815ea6a3d59f4c4",
+			"url": "https://upload.wikimedia.org/math/6/b/2/6b29effc29462138f2192968050bceb1.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "where M is the matrix of f. The symbol â denotes that there are other columns which together with column j make up a total of n columns of M. In other words, every column j = 1, ..., n has a corresponding vector f(vj) whose coordinates a1j, ..., amj are the elements of column j. A single linear map may be represented by many matrices. This is because the values of the elements of a matrix depend on the bases chosen.",
+			"color": "black|0.39303 dim|0.21475 gray|0.21475 dim|0.21475 grey|0.21475 gray|0.16305 grey|0.16305 dark|0.14466 gray|0.14466 dark|0.14466 grey|0.14466 silver|0.052678 light|0.021051 gray|0.021051 light|0.021051 grey|0.021051 gainsboro|0.010096  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f8b587d0efc4ee5fc684edbbbac755068bc0276819c83b63ab47fe236ea0f4f",
+			"url": "https://upload.wikimedia.org/math/7/e/b/7ebc794b7f3b154d41235c208d2ae846.png",
+			"previous": [
+				"By equating coefficients, this results in the following set of simultaneous equations:",
+				"One can solve a quartic by factoring it into a product of two quadratics.[14] Let"
+			],
+			"after": [
+				"One can now eliminate both and by doing the following:",
+				"If we set , then this equation turns into the resolvent cubic equation"
+			],
+			"color": "dim|0.29924 gray|0.29924 dim|0.29924 grey|0.29924 gray|0.29105 grey|0.29105 dark|0.21266 gray|0.21266 dark|0.21266 grey|0.21266 silver|0.10116 light|0.048469 gray|0.048469 light|0.048469 grey|0.048469 gainsboro|0.033173 white|0.0039673 smoke|0.0039673  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de37fd52dd8a55d9ccc83a5cd46c24ae919a4b3773eb4dd7347be4807680219",
+			"url": "https://upload.wikimedia.org/math/1/6/0/16006213ad984f38fa29d78a2f26769c.png",
+				"previous": "where the discriminant is defined as",
+			"after": [
+				"The square root of a univariate quadratic function gives rise to one of the four conic sections, almost always either to an ellipse or to a hyperbola.",
+				"If then the equation describes a hyperbola, as can be seen by squaring both sides. The directions of the axes of the hyperbola are determined by the ordinate of the minimum point of the corresponding parabola . If the ordinate is negative, then the hyperbola's major axis (through its vertices) is horizontal, while if the ordinate is positive then the hyperbola's major axis is vertical."
+			],
+			"color": "dim|0.44892 gray|0.44892 dim|0.44892 grey|0.44892 gray|0.30375 grey|0.30375 dark|0.15026 gray|0.15026 dark|0.15026 grey|0.15026 silver|0.05307 light|0.020737 gray|0.020737 light|0.020737 grey|0.020737 gainsboro|0.012807  "
+		}
+	}
+}

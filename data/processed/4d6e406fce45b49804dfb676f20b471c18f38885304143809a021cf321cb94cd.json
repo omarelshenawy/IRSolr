@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d6e406fce45b49804dfb676f20b471c18f38885304143809a021cf321cb94cd",
+			"url": "https://upload.wikimedia.org/math/4/c/8/4c8b8da9311ab0f624f742bde6a5eb5e.png",
+			"previous": [
+				"* where the literals stand for .",
+				"* see covariance matrix for a detailed explanation",
+				"Two estimators can have , but the dispersion around their mean determines the difference between the quality of estimators. To find an estimator with minimum variance, we need to minimize ."
+			],
+				"after": "Some conclusions can be asserted from this expression. The variance of estimation:",
+			"color": "gray|0.33458 grey|0.33458 dim|0.27984 gray|0.27984 dim|0.27984 grey|0.27984 dark|0.229 gray|0.229 dark|0.229 grey|0.229 silver|0.077612 light|0.037436 gray|0.037436 light|0.037436 grey|0.037436 gainsboro|0.025687 white|0.0046022 smoke|0.0046022  "
+		}
+	}
+}

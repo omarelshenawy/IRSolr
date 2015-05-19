@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "28bc5ef4ffb032ceed2ad0d04d632dd231fd64a348b8e06b7ac141295204033d",
+			"url": "https://upload.wikimedia.org/math/7/1/b/71b833c5c1e128e78d0a48c833feef56.png",
+			"previous": [
+				"The parametric equations for the hypotrochoids are:",
+				"A hypotrochoid is a curve traced by a point attached to a circle of radius r rolling around the inside of a fixed circle of radius R, where the point is at a distance d from the center of the interior circle."
+			],
+				"after": "Other examples are shown:",
+			"color": "dim|0.36435 gray|0.36435 dim|0.36435 grey|0.36435 gray|0.29163 grey|0.29163 dark|0.1761 gray|0.1761 dark|0.1761 grey|0.1761 silver|0.080166 light|0.039888 gray|0.039888 light|0.039888 grey|0.039888 gainsboro|0.028897 white|0.0047145 smoke|0.0047145  "
+		}
+	}
+}

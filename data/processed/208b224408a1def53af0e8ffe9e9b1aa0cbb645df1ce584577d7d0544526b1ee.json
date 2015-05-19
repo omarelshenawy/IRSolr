@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "208b224408a1def53af0e8ffe9e9b1aa0cbb645df1ce584577d7d0544526b1ee",
+			"url": "https://upload.wikimedia.org/math/3/1/c/31cb93555fa279224f98bb5f18243920.png",
+				"previous": "Certain homogeneous linear integral equations can be viewed as the continuum limit of eigenvalue equations. Using index notation, an eigenvalue equation can be written as",
+				"after": "where M = [Mi,j] is a matrix, v is one of its eigenvectors, and Î» is the associated eigenvalue.",
+			"color": "dim|0.37441 gray|0.37441 dim|0.37441 grey|0.37441 gray|0.27587 grey|0.27587 dark|0.20012 gray|0.20012 dark|0.20012 grey|0.20012 silver|0.084815 light|0.032609 gray|0.032609 light|0.032609 grey|0.032609 gainsboro|0.020815 white|0.0031555 smoke|0.0031555  "
+		}
+	}
+}

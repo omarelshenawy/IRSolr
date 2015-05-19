@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8eaa9758b57b7ed2ed5092ac5618ced280ca57719b04b5c2599acbe52a8907b9",
+			"url": "https://upload.wikimedia.org/math/f/2/4/f24f5d340fa68c007fbf1b7afdfbfdec.png",
+			"previous": [
+				"More precisely, the time hierarchy theorem states that",
+				"For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the classes defined by constraining the respective resources. Thus there are pairs of complexity classes such that one is properly included in the other. Having deduced such proper set inclusions, we can proceed to make quantitative statements about how much more additional time or space is needed in order to increase the number of problems that can be solved."
+			],
+				"after": "The space hierarchy theorem states that",
+			"color": "gray|0.31955 grey|0.31955 dim|0.29086 gray|0.29086 dim|0.29086 grey|0.29086 dark|0.21661 gray|0.21661 dark|0.21661 grey|0.21661 silver|0.082909 light|0.040424 gray|0.040424 light|0.040424 grey|0.040424 gainsboro|0.026694 white|0.0050969 smoke|0.0050969 linen|0.003055 lavender|0.0027558 blush|0.0027558 alice|0.0026962 blue|0.0026962 ghost|0.0025952 white|0.0025952  "
+		}
+	}
+}

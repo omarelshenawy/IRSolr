@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a873d67ab5b7dd820ee88ec17d4b9c50bb73c8d5ee8a84307e7b51fd6c0cec0",
+			"url": "https://upload.wikimedia.org/math/9/d/b/9db63353792cc40eb82815645814575f.png",
+			"previous": [
+				"and",
+				"At the point of minimum drag, CD,o (drag coefficient of aircraft when lift equals zero) is equal to CD,i (induced drag coefficient, or coefficient of drag created by lift). At the point of minimum power, CD,o is equal to one third times CD,i. This can be proven by deriving the following equations:"
+			],
+			"after": [
+				"where",
+				""
+			],
+			"color": "gray|0.31428 grey|0.31428 dim|0.28772 gray|0.28772 dim|0.28772 grey|0.28772 dark|0.21673 gray|0.21673 dark|0.21673 grey|0.21673 silver|0.087337 light|0.044339 gray|0.044339 light|0.044339 grey|0.044339 gainsboro|0.030808 white|0.0055796 smoke|0.0055796  "
+		}
+	}
+}

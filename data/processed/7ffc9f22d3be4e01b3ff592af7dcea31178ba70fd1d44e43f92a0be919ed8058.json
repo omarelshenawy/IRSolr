@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ffc9f22d3be4e01b3ff592af7dcea31178ba70fd1d44e43f92a0be919ed8058",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rational_Bezier_curve-conic_sections.svg/220px-Rational_Bezier_curve-conic_sections.svg.png",
+			"previous": [],
+				"after": "The rational BÃ©zier curve adds adjustable weights to provide closer approximations to arbitrary shapes. The numerator is a weighted Bernstein-form BÃ©zier curve and the denominator is a weighted sum of Bernstein polynomials. Rational BÃ©zier curves can, among other uses, be used to represent segments of conic sections exactly, including circular arcs.[13]",
+			"color": "gray|0.28148 grey|0.28148 dark|0.25448 gray|0.25448 dark|0.25448 grey|0.25448 dim|0.19078 gray|0.19078 dim|0.19078 grey|0.19078 silver|0.11309 black|0.081787 light|0.039984 gray|0.039984 light|0.039984 grey|0.039984 gainsboro|0.019412 medium|0.0040893 slate|0.0040893 blue|0.0040893  "
+		}
+	}
+}

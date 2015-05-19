@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "190cee1d6d07ed1e5390ff0bc99447e125be38b350b28a66f6605d42dc8866fe",
+			"url": "https://upload.wikimedia.org/math/d/3/a/d3ad6466d427a9e097a6d20c0ca4559b.png",
+				"previous": "There is no known efficient formula for primes. For example, Mills' theorem and a theorem of Wright assert that there are real constants A>1 and Î¼ such that",
+				"after": "are prime for any natural number n. Here represents the floor function, i.e., largest integer not greater than the number in question. The latter formula can be shown using Bertrand's postulate (proven first by Chebyshev), which states that there always exists at least one prime number p with nÂ <Â pÂ <Â 2nÂ âÂ 2, for any natural numberÂ nÂ >Â 3. However, computing A or Î¼ requires the knowledge of infinitely many primes to begin with.[26] Another formula is based on Wilson's theorem and generates the number 2 many times and all other primes exactly once.",
+			"color": "dim|0.30249 gray|0.30249 dim|0.30249 grey|0.30249 gray|0.22849 grey|0.22849 dark|0.17443 gray|0.17443 dark|0.17443 grey|0.17443 black|0.12421 silver|0.063379 light|0.042733 gray|0.042733 light|0.042733 grey|0.042733 gainsboro|0.032321 white|0.0055042 smoke|0.0055042 linen|0.004857 lavender|0.0046479 blush|0.0046479 alice|0.004624 blue|0.004624 ghost|0.0045642 white|0.0045642 sea|0.004513 shell|0.004513  "
+		}
+	}
+}

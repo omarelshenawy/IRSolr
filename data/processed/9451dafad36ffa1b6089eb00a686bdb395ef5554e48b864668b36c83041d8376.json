@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "9451dafad36ffa1b6089eb00a686bdb395ef5554e48b864668b36c83041d8376",
+			"url": "https://upload.wikimedia.org/math/d/5/1/d51895fdccbb13274a32dc40ebe9df2f.png",
+			"previous": [
+				"Note that in R, it is symmetric.",
+				"that satisfies the following three axioms for all vectors u, v, w in V and all scalars a in F:[16][17]"
+			],
+			"after": [
+				"We can define the length of a vector v in V by",
+				"and we can prove the CauchyâSchwarz inequality:",
+				"In particular, the quantity",
+				"and so we can call this quantity the cosine of the angle between the two vectors."
+			],
+			"color": "gray|0.33998 grey|0.33998 dim|0.28148 gray|0.28148 dim|0.28148 grey|0.28148 dark|0.21713 gray|0.21713 dark|0.21713 grey|0.21713 silver|0.088959 light|0.037133 gray|0.037133 light|0.037133 grey|0.037133 gainsboro|0.023312 white|0.0032259 smoke|0.0032259  "
+		}
+	}
+}

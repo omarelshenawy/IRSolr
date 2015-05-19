@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "408bc831a52b5fdcc879b65659c350ebb870306f1896e87795b13a4e428a1d5e",
+			"url": "https://upload.wikimedia.org/math/2/a/6/2a6aad2f3c5e05e9fde4c6233b4494f0.png",
+				"previous": "fraction of the enzyme population bound by inhibitor",
+				"after": "the effect of the inhibitor is a result of the percent of the enzyme population interacting with inhibitor. The only problem with this equation in its present form is that it assumes absolute inhibition of the enzyme with inhibitor binding, when in fact there can be a wide range of effects anywhere from 100% inhibition of substrate turn over to just >0%. To account for this the equation can be easily modified to allow for different degrees of inhibition by including a delta Vmax term.",
+			"color": "dim|0.25128 gray|0.25128 dim|0.25128 grey|0.25128 gray|0.23852 grey|0.23852 dark|0.20423 gray|0.20423 dark|0.20423 grey|0.20423 light|0.095308 gray|0.095308 light|0.095308 grey|0.095308 silver|0.090869 gainsboro|0.063485 white|0.01536 smoke|0.01536 linen|0.0061608 lavender|0.0059363 blush|0.0059363 alice|0.0058138 blue|0.0058138 ghost|0.0057798 white|0.0057798 sea|0.0057506 shell|0.0057506 snow|0.0056996 white|0.005246  "
+		}
+	}
+}

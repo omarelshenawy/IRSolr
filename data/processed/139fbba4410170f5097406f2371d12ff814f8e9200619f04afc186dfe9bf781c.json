@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "139fbba4410170f5097406f2371d12ff814f8e9200619f04afc186dfe9bf781c",
+			"url": "https://upload.wikimedia.org/math/f/5/5/f5594a72b3a622efccff5b2a795d54ad.png",
+				"previous": "Both equations reduce to the single linear equation . Therefore, any vector of the form , for any non-zero real number , is an eigenvector of with eigenvalue .",
+				"after": "Some numeric methods that compute the eigenvalues of a matrix also determine a set of corresponding eigenvectors as a by-product of the computation.",
+			"color": "gray|0.26313 grey|0.26313 dim|0.23969 gray|0.23969 dim|0.23969 grey|0.23969 dark|0.2098 gray|0.2098 dark|0.2098 grey|0.2098 silver|0.1131 light|0.072196 gray|0.072196 light|0.072196 grey|0.072196 gainsboro|0.053724 white|0.011978 smoke|0.011978 linen|0.0059461 lavender|0.0056102 blush|0.0056102 alice|0.0055329 blue|0.0055329 ghost|0.0054201 white|0.0054201 sea|0.0053373 shell|0.0053373 snow|0.0052406  "
+		}
+	}
+}

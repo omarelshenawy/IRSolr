@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "93a08db5724a1225739fda89324d75cda71a90004c41b104d8f9f221dcff6c37",
+			"url": "https://upload.wikimedia.org/math/7/f/6/7f68feea2e8797ebcfe2d7619fde3d08.png",
+			"previous": [
+				"If it occurs that w and v are scalar multiples, that is if",
+				"where, for each index ,"
+			],
+				"after": "then v is an eigenvector of the linear transformation A and the scale factor Î» is the eigenvalue corresponding to that eigenvector.",
+			"color": "dim|0.40956 gray|0.40956 dim|0.40956 grey|0.40956 gray|0.29588 grey|0.29588 dark|0.16085 gray|0.16085 dark|0.16085 grey|0.16085 silver|0.063512 light|0.031617 gray|0.031617 light|0.031617 grey|0.031617 gainsboro|0.022763 white|0.0039119 smoke|0.0039119  "
+		}
+	}
+}

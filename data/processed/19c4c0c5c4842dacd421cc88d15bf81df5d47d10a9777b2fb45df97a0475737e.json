@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "19c4c0c5c4842dacd421cc88d15bf81df5d47d10a9777b2fb45df97a0475737e",
+			"url": "https://upload.wikimedia.org/math/a/f/d/afd8a52621b055ee3feb0233da893d7a.png",
+			"previous": [
+				"and define",
+				"Let the Minkowski metric be defined by"
+			],
+			"after": [
+				"for arbitrary Lorentz frames.",
+				"Consider an infinitesimal interval",
+				"expressed in any Lorentz frame and here assumed timelike (or lightlike), separating points on a trajectory of a particle (think clock). The same interval can be expressed in coordinates such that at each moment, the particle is at rest. Such a frame is called an instantaneous rest frame. Due to the invariance of the interval (instantaneous rest frames taken at different times are related by Lorentz transformations) one may write"
+			],
+			"color": "dim|0.31039 gray|0.31039 dim|0.31039 grey|0.31039 gray|0.29574 grey|0.29574 dark|0.20003 gray|0.20003 dark|0.20003 grey|0.20003 silver|0.091962 light|0.046977 gray|0.046977 light|0.046977 grey|0.046977 gainsboro|0.033079 white|0.0057345 smoke|0.0057345  "
+		}
+	}
+}

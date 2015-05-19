@@ -1,0 +1,29 @@
+{
+	"add": {
+		"doc": {
+			"id": "36aba01fa6f77d364385390371b0743bce6527c2772c1d7e77f11fd18eac9848",
+			"url": "https://upload.wikimedia.org/math/6/8/7/68760f0f0e72d15e089a1f050d0833b9.png",
+			"previous": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Assuming the nozzle is choked, the nozzle static temperature is calculated as follows:"
+			],
+			"after": [
+				"",
+				"",
+				"",
+				"NOTE: inclusion of 144 inÂ²/ftÂ² to obtain density in lb/ftÂ³.",
+				"",
+				"",
+				"NOTE: inclusion of 144 inÂ²/ftÂ² to obtain area in inÂ².",
+				"Gross Thrust"
+			],
+			"color": "dim|0.31558 gray|0.31558 dim|0.31558 grey|0.31558 gray|0.31066 grey|0.31066 dark|0.20018 gray|0.20018 dark|0.20018 grey|0.20018 silver|0.082145 light|0.040138 gray|0.040138 light|0.040138 grey|0.040138 gainsboro|0.028438 white|0.0048504 smoke|0.0048504 black|0.0035619  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bf50b0ff34c28c4769b18727144caa53de3be08d02b5ffea737eb120ceb25ad",
+			"url": "https://upload.wikimedia.org/math/1/7/f/17f7a22a35eb2a7eb016cc9a1f6a7625.png",
+				"previous": "The canonical representation, when it is known, is convenient for easily computing products, gcd, and lcm:",
+				"after": "However, as Integer factorization of large integers is much harder than computing their product, gcd or lcm, these formulas have, in practice, a limited usage.",
+			"color": "dim|0.34969 gray|0.34969 dim|0.34969 grey|0.34969 gray|0.21931 grey|0.21931 black|0.20731 dark|0.12119 gray|0.12119 dark|0.12119 grey|0.12119 silver|0.048205 light|0.023818 gray|0.023818 light|0.023818 grey|0.023818 gainsboro|0.016523  "
+		}
+	}
+}

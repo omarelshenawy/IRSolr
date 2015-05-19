@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3abb30c9bd79e89d5d9c282eddfc830fdea00e795290345e4b666e8594fb2ba2",
+			"url": "https://upload.wikimedia.org/math/e/0/2/e0288487bb9614866c5e8f722949a3ba.png",
+				"previous": "The derivative of the BÃ©zier curve with respect to t is",
+				"after": "from which it can be concluded that the tangents to the curve at P0 and P2 intersect at P1. As t increases from 0 to 1, the curve departs from P0 in the direction of P1, then bends to arrive at P2 from the direction of P1.",
+			"color": "dim|0.37917 gray|0.37917 dim|0.37917 grey|0.37917 gray|0.27284 grey|0.27284 dark|0.16997 gray|0.16997 dark|0.16997 grey|0.16997 silver|0.085532 light|0.04499 gray|0.04499 light|0.04499 grey|0.04499 gainsboro|0.032565 white|0.0037807 smoke|0.0037807  "
+		}
+	}
+}

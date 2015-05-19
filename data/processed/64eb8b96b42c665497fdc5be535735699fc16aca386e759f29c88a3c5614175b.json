@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "64eb8b96b42c665497fdc5be535735699fc16aca386e759f29c88a3c5614175b",
+			"url": "https://upload.wikimedia.org/math/1/2/6/1263365edef5016182d98a8d93957814.png",
+				"previous": "where the wave vectors are related to the energy via",
+			"after": [
+				"with coefficients A and B determined from the boundary conditions and by imposing a continuous derivative on the solution.",
+				"Each term of the solution can be interpreted as an incident, reflected, or transmitted component of the wave, allowing the calculation of transmission and reflection coefficients. Notably, in contrast to classical mechanics, incident particles with energies greater than the potential step are partially reflected."
+			],
+			"color": "white|0.099879 snow|0.099068 mint|0.097659 cream|0.097659 white|0.095927 smoke|0.095927 ghost|0.095798 white|0.095798 azure|0.094195 alice|0.092882 blue|0.092882 floral|0.092074 white|0.092074 sea|0.092035 shell|0.092035 lavender|0.083582 blush|0.083582 light|0.013751 gray|0.013751 light|0.013751 grey|0.013751 gainsboro|0.013036 silver|0.012605 ivory|0.0084408 dark|0.0057488 gray|0.0057488 dark|0.0057488 grey|0.0057488 linen|0.0032153  "
+		}
+	}
+}

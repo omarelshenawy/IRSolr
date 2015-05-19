@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "9881a13d1982a779b0a8b8ba6d3655ff62f63d4c2285cd97adeb542ac3c4d883",
+			"url": "https://upload.wikimedia.org/math/c/3/f/c3f2416b0d1b1421f03fd9942f28c94d.png",
+			"previous": [
+				"The functionals Ï and Ï compute the components of x along the basis vectors v and w, respectively, that is,",
+				"To solve this equation for Î±, Î², we compute the linear coordinate functionals Ï and Ï for the basis v, w, which are given by,[21]"
+			],
+			"after": [
+				"which can be written in matrix form as",
+				"These coordinate functionals have the properties,"
+			],
+			"color": "dim|0.36621 gray|0.36621 dim|0.36621 grey|0.36621 gray|0.27007 grey|0.27007 dark|0.17687 gray|0.17687 dark|0.17687 grey|0.17687 silver|0.081082 light|0.044144 gray|0.044144 light|0.044144 grey|0.044144 gainsboro|0.032544 white|0.0069631 smoke|0.0069631 linen|0.0036121  "
+		}
+	}
+}

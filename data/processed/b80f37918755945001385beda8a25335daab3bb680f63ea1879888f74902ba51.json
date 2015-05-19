@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "b80f37918755945001385beda8a25335daab3bb680f63ea1879888f74902ba51",
+			"url": "https://upload.wikimedia.org/math/2/a/1/2a1fae4789ea354904e7b3241eafc7ac.png",
+				"previous": "or equivalently",
+				"after": "represents the pair (or pairs) that maximizes (or maximize) the value of the objective function , with the added constraint that x lie in the interval (again, the actual maximum value of the expression does not matter). In this case, the solutions are the pairs of the form (5, 2kÏ) and (â5,(2k+1)Ï), where k ranges over all integers.",
+			"color": "dim|0.33978 gray|0.33978 dim|0.33978 grey|0.33978 gray|0.3021 grey|0.3021 dark|0.18511 gray|0.18511 dark|0.18511 grey|0.18511 silver|0.079868 light|0.04081 gray|0.04081 light|0.04081 grey|0.04081 gainsboro|0.02893 white|0.0055012 smoke|0.0055012  "
+		}
+	}
+}

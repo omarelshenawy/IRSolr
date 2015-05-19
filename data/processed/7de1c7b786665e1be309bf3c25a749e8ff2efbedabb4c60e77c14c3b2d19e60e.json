@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de1c7b786665e1be309bf3c25a749e8ff2efbedabb4c60e77c14c3b2d19e60e",
+			"url": "https://upload.wikimedia.org/math/a/2/1/a21dd560f4448f67f292b7e452992382.png",
+				"previous": "where",
+			"after": [
+				"and is the complex conjugate of (note that ).",
+				"However, this formula is applicable without further explanation only when a, b, c, d are real numbers and the operand of the square root, i.e., , is non-negative. When this operand is real and non-negative, the square root refers to the principal (positive) square root and the cube roots in the formula are to be interpreted as the real ones. Otherwise, there is no real square root and one can arbitrarily choose one of the imaginary square roots (the same one everywhere in the solution). For extracting the complex cube roots of the resulting complex expression, we have also to choose among three cube roots in each part of each solution, giving nine possible combinations of one of three cube roots for the first part of the expression and one of three for the second. The correct combination is such that the two cube roots chosen for the two terms in a given solution expression are complex conjugates of each other (whereby the two imaginary terms in each solution cancel out)."
+			],
+			"color": "white|0.099073 snow|0.098411 mint|0.097726 cream|0.097726 azure|0.096722 ghost|0.095869 white|0.095869 white|0.095787 smoke|0.095787 floral|0.094452 white|0.094452 alice|0.093757 blue|0.093757 sea|0.093343 shell|0.093343 lavender|0.088228 blush|0.088228 light|0.010258 gray|0.010258 light|0.010258 grey|0.010258 silver|0.010249 gainsboro|0.0097907 dark|0.0062658 gray|0.0062658 dark|0.0062658 grey|0.0062658 ivory|0.0051463  "
+		}
+	}
+}

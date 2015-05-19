@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "34478e69ba65068784e9e55a9d7766ffc0bac95a9fddc320aab5f0f6fc75cd07",
+			"url": "https://upload.wikimedia.org/math/6/9/1/691563e921b46aa45e2408f1cd5f1c7e.png",
+				"previous": "The decomposition of a multivector may also be split into those components that are even and those that are odd:",
+				"after": "Geometric algebra represents subspaces of V as multivectors, and so they coexist in the same algebra with vectors from V. A k-dimensional subspace W of V is represented by taking an orthogonal basis and using the geometric product to form the blade D = b1b2âââbk. There are multiple blades representing W; all those representing W are scalar multiples of D. These blades can be separated into two sets: positive multiples of D and negative multiples of D. The positive multiples of D are said to have the same orientation as D, and the negative multiples the opposite orientation.",
+			"color": "dim|0.3385 gray|0.3385 dim|0.3385 grey|0.3385 gray|0.31377 grey|0.31377 dark|0.1849 gray|0.1849 dark|0.1849 grey|0.1849 silver|0.074332 light|0.037339 gray|0.037339 light|0.037339 grey|0.037339 gainsboro|0.026682 white|0.0055846 smoke|0.0055846 linen|0.0027296  "
+		}
+	}
+}

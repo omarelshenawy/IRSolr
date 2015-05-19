@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7adbdb9fb741c31eff0fbcda8d17d64ace269abc82441b19e3b2edfd357dd0bd",
+			"url": "https://upload.wikimedia.org/math/3/d/d/3dd8f5273fe470d5d3d3c5d67cc080fc.png",
+				"previous": "Suppose F is an antiderivative of f, with f continuous on [a, b]. Let",
+				"after": "By the first part of the theorem, we know G is also an antiderivative of f. Since F' - G' = 0 the mean value theorem implies that F - G is a constant function, i. e. there is a number c such that G(x) = F(x) + c, for all x in [a, b]. Letting x = a, we have",
+			"color": "dim|0.32915 gray|0.32915 dim|0.32915 grey|0.32915 gray|0.3137 grey|0.3137 dark|0.19991 gray|0.19991 dark|0.19991 grey|0.19991 silver|0.080801 light|0.03721 gray|0.03721 light|0.03721 grey|0.03721 gainsboro|0.024601 white|0.0041617 smoke|0.0041617  "
+		}
+	}
+}

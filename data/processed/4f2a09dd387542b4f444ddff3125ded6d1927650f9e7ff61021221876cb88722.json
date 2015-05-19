@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f2a09dd387542b4f444ddff3125ded6d1927650f9e7ff61021221876cb88722",
+			"url": "https://upload.wikimedia.org/math/e/8/5/e85f95f1fd711b2b915aa4b4df7f2014.png",
+			"previous": [
+				"where",
+				"Coulomb friction, named after Charles-Augustin de Coulomb, is an approximate model used to calculate the force of dry friction. It is governed by the model:"
+			],
+			"after": [
+				"Energy lost to a system as a result of friction is a classic example of thermodynamic irreversibility.",
+				"In the reference frame of the interface between two surfaces, static friction does no work, because there is never displacement between the surfaces. In the same reference frame, kinetic friction is always in the direction opposite the motion, and does negative work.[49] However, friction can do positive work in certain frames of reference. One can see this by placing a heavy box on a rug, then pulling on the rug quickly. In this case, the box slides backwards relative to the rug, but moves forward relative to the frame of reference in which the floor is stationary. Thus, the kinetic friction between the box and rug accelerates the box in the same direction that the box moves, doing positive work.[50]"
+			],
+			"color": "black|0.38931 dim|0.28701 gray|0.28701 dim|0.28701 grey|0.28701 gray|0.14354 grey|0.14354 dark|0.086449 gray|0.086449 dark|0.086449 grey|0.086449 silver|0.049661 light|0.024536 gray|0.024536 light|0.024536 grey|0.024536 gainsboro|0.017325  "
+		}
+	}
+}

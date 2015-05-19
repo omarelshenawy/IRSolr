@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "44bde23f49ccc0e4eb29c72f0b0840dc24d6c45b66fb695b25379b396ad2b059",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Free_body_diagram2.svg/200px-Free_body_diagram2.svg.png",
+				"previous": "The force of friction is always exerted in a direction that opposes movement (for kinetic friction) or potential movement (for static friction) between the two surfaces. For example, a curling stone sliding along the ice experiences a kinetic force slowing it down. For an example of potential movement, the drive wheels of an accelerating car experience a frictional force pointing forward; if they did not, the wheels would spin, and the rubber would slide backwards along the pavement. Note that it is not the direction of movement of the vehicle they oppose, it is the direction of (potential) sliding between tire and road.",
+				"after": "The normal force is defined as the net force compressing two parallel surfaces together; and its direction is perpendicular to the surfaces. In the simple case of a mass resting on a horizontal surface, the only component of the normal force is the force due to gravity, where . In this case, the magnitude of the friction force is the product of the mass of the object, the acceleration due to gravity, and the coefficient of friction. However, the coefficient of friction is not a function of mass or volume; it depends only on the material. For instance, a large aluminum block has the same coefficient of friction as a small aluminum block. However, the magnitude of the friction force itself depends on the normal force, and hence on the mass of the block.",
+			"color": "sandy|0.79353 brown|0.79353 black|0.096692 dark|0.051254 sea|0.051254 green|0.051254 peru|0.029444 dim|0.017448 gray|0.017448 dim|0.017448 grey|0.017448 gray|0.010905 grey|0.010905  "
+		}
+	}
+}

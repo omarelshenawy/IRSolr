@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d95a44391b514735ab887b9c58b592f69b279a4b078ea0133d312be427152f1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/F-14_Tomcat_with_landing_gear_down.jpg/220px-F-14_Tomcat_with_landing_gear_down.jpg",
+				"previous": "The cockpit has two seats, arranged in tandem, outfitted with Martin-Baker GRU-7A rocket-propelled ejection seats, rated from zero altitude and zero airspeed up to 450 knots.[37] The canopy is spacious, and fitted with four mirrors to provide effectively all-round visibility. Only the pilot has flight controls; the flight instruments themselves are of a hybrid analog-digital nature.[15] The cockpit also features a head-up display (HUD) to show primarily navigational information; several other avionics systems such as communications and direction-finders are integrated into the AWG-9 radar's display. A significant feature of the F-14 was its Central Air Data Computer (CADC), designed by Garrett AiResearch, that formed the onboard integrated flight control system. It used a MOSFET-based Large-Scale Integration chipset, the MP944, making it possibly the first microprocessor in history.[38]",
+				"after": "The nose of the aircraft is large because it contains a two-person crew and several bulky avionics systems. The main element is the Hughes AN/AWG-9 X band radar; the antenna is a 36Â in (91Â cm)-wide planar array, and has integrated Identification friend or foe antennas. The AWG-9 has several search and tracking modes, such as Track while scan (TWS), Range-While-Search (RWS), Pulse-Doppler Single-Target Track (PDSTT), and Jam Angle Track (JAT); a maximum of 24 targets can be tracked simultaneously, and six can be engaged in TWS mode up to around 60Â mi (97Â km). Cruise missiles are also possible targets with the AWG-9, which can lock onto and track small objects even at low altitude when in Pulse-Doppler mode.[15] For the F-14D, the AWG-9 was replaced by the upgraded APG-71 radar. The Joint Tactical Information Distribution System (JTIDS)/Link 16 for data communications was added later on.[39]",
+			"color": "light|0.31501 gray|0.31501 light|0.31501 grey|0.31501 silver|0.31029 gainsboro|0.28763 black|0.054027 dim|0.008302 gray|0.008302 dim|0.008302 grey|0.008302 dark|0.0044957 gray|0.0044957 dark|0.0044957 grey|0.0044957 gray|0.0044814 grey|0.0044814  "
+		}
+	}
+}

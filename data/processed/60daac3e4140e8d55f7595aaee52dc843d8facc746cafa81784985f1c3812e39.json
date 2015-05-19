@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "60daac3e4140e8d55f7595aaee52dc843d8facc746cafa81784985f1c3812e39",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Corrugated_filter_section.svg/220px-Corrugated_filter_section.svg.png",
+			"previous": [],
+				"after": "Corrugated-waveguide filters, also called ridged-waveguide filters, consist of a number of ridges, or teeth, that periodically reduce the internal height of the waveguide as shown in figures 10 and 11. They are used in applications which simultaneously require a wide passband, good passband matching, and a wide stopband. They are essentially low-pass designs (above the usual limitation of the cutoff frequency), unlike most other forms which are usually band-pass. The distance between teeth is much smaller than the typical Î»/4 distance between elements of other filter designs. Typically, they are designed by the image parameter method with all ridges identical, but other classes of filter such as Chebyshev can be achieved in exchange for complexity of manufacture. In the image design method the equivalent circuit of the ridges is modelled as a cascade of LC half sections. The filter operates in the dominant TE10 mode, but spurious modes can be a problem when they are present. In particular, there is little stopband attenuation of TE20 and TE30 modes.[66]",
+			"color": "dark|0.40571 gray|0.40571 dark|0.40571 grey|0.40571 silver|0.34032 gray|0.10437 grey|0.10437 dim|0.076988 gray|0.076988 dim|0.076988 grey|0.076988 light|0.015479 gray|0.015479 light|0.015479 grey|0.015479 gainsboro|0.0092792 white|0.005429 smoke|0.005429 lavender|0.0052497 blush|0.0052497 alice|0.0052418 blue|0.0052418 ghost|0.0050872 white|0.0050872 sea|0.0050665 shell|0.0050665 snow|0.0050501 white|0.0043373 mint|0.0036695 cream|0.0036695 floral|0.0034247 white|0.0034247 azure|0.0028042  "
+		}
+	}
+}

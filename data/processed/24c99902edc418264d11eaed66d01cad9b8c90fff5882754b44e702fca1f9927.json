@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "24c99902edc418264d11eaed66d01cad9b8c90fff5882754b44e702fca1f9927",
+			"url": "https://upload.wikimedia.org/math/6/3/7/637a45082cc0ab374afca233b99bb2b8.png",
+				"previous": "A theory T has quantifier elimination if every first-order formula Ï(x1,...,xn) over its signature is equivalent modulo T to a first-order formula Ï(x1,...,xn) without quantifiers, i.e. holds in all models of T. For example the theory of algebraically closed fields in the signature Ïring=(Ã,+,â,0,1) has quantifier elimination because every formula is equivalent to a Boolean combination of equations between polynomials.",
+				"after": "If a theory does not have quantifier elimination, one can add additional symbols to its signature so that it does. Early model theory spent much effort on proving axiomatizability and quantifier elimination results for specific theories, especially in algebra. But often instead of quantifier elimination a weaker property suffices:",
+			"color": " "
+		}
+	}
+}

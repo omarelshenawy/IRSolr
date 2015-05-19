@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7dd01f0fc4183fd871a5c8bcba44cc82bcb2071a6ab59073784209e1c0be263e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pierre_Francois_Verhulst.jpg/150px-Pierre_Francois_Verhulst.jpg",
+			"previous": [],
+				"after": "A typical application of the logistic equation is a common model of population growth, originally due to Pierre-FranÃ§ois Verhulst in 1838, where the rate of reproduction is proportional to both the existing population and the amount of available resources, all else being equal. The Verhulst equation was published after Verhulst had read Thomas Malthus' An Essay on the Principle of Population. Verhulst derived his logistic equation to describe the self-limiting growth of a biological population. The equation was rediscovered in 1911 by A. G. McKendrick for the growth of bacteria in broth and experimentally tested using a technique for nonlinear parameter estimation.[3] The equation is also sometimes called the Verhulst-Pearl equation following its rediscovery in 1920 by Raymond Pearl (1879â1940) and Lowell Reed (1888â1966) of the Johns Hopkins University.[4] Another scientist, Alfred J. Lotka derived the equation again in 1925, calling it the law of population growth.",
+			"color": " "
+		}
+	}
+}

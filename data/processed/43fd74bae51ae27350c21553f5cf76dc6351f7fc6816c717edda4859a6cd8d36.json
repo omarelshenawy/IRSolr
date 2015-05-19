@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "43fd74bae51ae27350c21553f5cf76dc6351f7fc6816c717edda4859a6cd8d36",
+			"url": "https://upload.wikimedia.org/math/3/d/e/3de90564c61daf602b582735803fed9c.png",
+			"previous": [
+				"",
+				"In mathematics, an algebraic number is a number that is a root of a finite,[1] non-zero polynomial in one variable with rational coefficients (or equivalently â by clearing denominators â with integer coefficients). Numbers such as Ï that are not algebraic are said to be transcendental. Almost all real and complex numbers are transcendental. (Here \"almost all\" has the sense \"all but a countable set\"; see Properties.)"
+			],
+				"after": "The sum, difference, product and quotient of two algebraic numbers is again algebraic (this fact can be demonstrated using the resultant), and the algebraic numbers therefore form a field, sometimes denoted by A (which may also denote the adele ring) or Q. Every root of a polynomial equation whose coefficients are algebraic numbers is again algebraic. This can be rephrased by saying that the field of algebraic numbers is algebraically closed. In fact, it is the smallest algebraically closed field containing the rationals, and is therefore called the algebraic closure of the rationals.",
+			"color": "black|0.41655 dim|0.25942 gray|0.25942 dim|0.25942 grey|0.25942 gray|0.15525 grey|0.15525 dark|0.097855 gray|0.097855 dark|0.097855 grey|0.097855 silver|0.038066 light|0.016281 gray|0.016281 light|0.016281 grey|0.016281 gainsboro|0.010406  "
+		}
+	}
+}

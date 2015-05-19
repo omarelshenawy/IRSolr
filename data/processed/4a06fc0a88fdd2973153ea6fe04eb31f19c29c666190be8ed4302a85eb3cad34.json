@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a06fc0a88fdd2973153ea6fe04eb31f19c29c666190be8ed4302a85eb3cad34",
+			"url": "https://upload.wikimedia.org/math/0/6/3/0637b7e28a96a99cff153d4b20766e59.png",
+				"previous": "The general cubic equation has the form",
+			"after": [
+				"with",
+				"This section describes how the roots of such an equation may be computed. The coefficients a, b, c, d are generally assumed to be real numbers, but most of the results apply when they belong to any field of characteristic not 2 or 3."
+			],
+			"color": "black|0.33421 dim|0.26928 gray|0.26928 dim|0.26928 grey|0.26928 gray|0.17998 grey|0.17998 dark|0.11397 gray|0.11397 dark|0.11397 grey|0.11397 silver|0.050132 light|0.024985 gray|0.024985 light|0.024985 grey|0.024985 gainsboro|0.017569  "
+		}
+	}
+}

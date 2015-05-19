@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cd7458ddc0c3ea4dda63acafe29a1d8bf01d3a210c13e167f4ad258b7b39fde",
+			"url": "https://upload.wikimedia.org/math/d/2/0/d207b5db58cad390b621710db6d22126.png",
+				"previous": "So assuming the cameras are level, and image planes are flat on the same plane, the displacement in the y axis between the same pixel in the two images is,",
+				"after": "Where k is the distance between the two cameras times the distance from the lens to the image.",
+			"color": "dim|0.4422 gray|0.4422 dim|0.4422 grey|0.4422 gray|0.28856 grey|0.28856 dark|0.13395 gray|0.13395 dark|0.13395 grey|0.13395 silver|0.057494 light|0.027965 gray|0.027965 light|0.027965 grey|0.027965 gainsboro|0.020281 white|0.0057115 smoke|0.0057115  "
+		}
+	}
+}

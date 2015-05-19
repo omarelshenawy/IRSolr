@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "255393f1f91f7b39aa9eaea90c5c48909bff7714ed7462cd3818de94704aae91",
+			"url": "https://upload.wikimedia.org/math/4/8/2/482fe1f6bec9e4a2919383e9f0c37743.png",
+			"previous": [
+				"This can be simplified by starting again with a depressed quartic where , which can be obtained by substituting for , then , and:",
+				"By equating coefficients, this results in the following set of simultaneous equations:"
+			],
+			"after": [
+				"One can now eliminate both and by doing the following:",
+				"If we set , then this equation turns into the resolvent cubic equation"
+			],
+			"color": " "
+		}
+	}
+}

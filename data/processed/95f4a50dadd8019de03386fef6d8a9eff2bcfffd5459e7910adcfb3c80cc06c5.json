@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "95f4a50dadd8019de03386fef6d8a9eff2bcfffd5459e7910adcfb3c80cc06c5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Security_spikes_1.jpg/220px-Security_spikes_1.jpg",
+			"previous": [],
+			"after": [
+				"Security is the degree of resistance to, or protection from, harm. It applies to any vulnerable and valuable asset, such as a person, dwelling, community, nation, or organization.",
+				"As noted by the Institute for Security and Open Methodologies (ISECOM) in the OSSTMM 3, security provides \"a form of protection where a separation is created between the assets and the threat.\" These separations are generically called \"controls,\" and sometimes include changes to the asset or the threat.[1]"
+			],
+			"color": "gray|0.48236 grey|0.48236 dark|0.3137 gray|0.3137 dark|0.3137 grey|0.3137 black|0.10912 dim|0.076038 gray|0.076038 dim|0.076038 grey|0.076038 silver|0.011653  "
+		}
+	}
+}

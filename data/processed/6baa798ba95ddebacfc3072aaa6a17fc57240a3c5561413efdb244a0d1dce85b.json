@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6baa798ba95ddebacfc3072aaa6a17fc57240a3c5561413efdb244a0d1dce85b",
+			"url": "https://upload.wikimedia.org/math/b/8/2/b828eaa6daa9b0ab386335a9a9a1edf6.png",
+			"previous": [
+				"Define the event to have spacetime coordinates (t,x,y,z) in system S and (tâ²,xâ²,yâ²,zâ²) in Sâ². Then the Lorentz transformation specifies that these coordinates are related in the following way:",
+				"Since there is no absolute reference frame in relativity theory, a concept of 'moving' doesn't strictly exist, as everything is always moving with respect to some other reference frame. Instead, any two frames that move at the same speed in the same direction are said to be comoving. Therefore S and Sâ² are not comoving."
+			],
+				"after": "where",
+			"color": " "
+		}
+	}
+}

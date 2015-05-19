@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "49e90089a078274bec61ccd353f9d97271a1fa7218c0eb2ff4687fbda622aee2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Information-Retrieval-Models.png/500px-Information-Retrieval-Models.png",
+			"previous": [],
+				"after": "For effectively retrieving relevant documents by IR strategies, the documents are typically transformed into a suitable representation. Each retrieval strategy incorporates a specific model for its document representation purposes. The picture on the right illustrates the relationship of some common models. In the picture, the models are categorized according to two dimensions: the mathematical basis and the properties of the model.",
+			"color": "white|0.097626 smoke|0.097626 alice|0.091012 blue|0.091012 ghost|0.09087 white|0.09087 sea|0.090716 shell|0.090716 snow|0.090545 lavender|0.090219 blush|0.090219 white|0.089118 mint|0.087417 cream|0.087417 floral|0.085213 white|0.085213 azure|0.084624 gainsboro|0.020582 light|0.020208 gray|0.020208 light|0.020208 grey|0.020208 dark|0.018848 gray|0.018848 dark|0.018848 grey|0.018848 gray|0.01504 grey|0.01504 silver|0.013654 linen|0.00713 dim|0.005799 gray|0.005799 dim|0.005799 grey|0.005799  "
+		}
+	}
+}

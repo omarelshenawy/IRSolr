@@ -1,0 +1,22 @@
+{
+	"add": {
+		"doc": {
+			"id": "7dd543416120f96781611c042d058cb38e4f4c71078cd2a6d5a70960108ac368",
+			"url": "https://upload.wikimedia.org/math/1/e/5/1e5d6bcd7624bbed6dc0729c5d4cfde3.png",
+			"previous": [
+				"",
+				"For maximum efficiency , we get",
+				"",
+				"If , then",
+				"Condition of maximum blade efficiency"
+			],
+			"after": [
+				"Therefore is found by putting the value of in the expression of blade efficiency",
+				"",
+				"",
+				"Because of the high pressures used in the steam circuits and the materials used, steam turbines and their casings have high thermal inertia. When warming up a steam turbine for use, the main steam stop valves (after the boiler) have a bypass line to allow superheated steam to slowly bypass the valve and proceed to heat up the lines in the system along with the steam turbine. Also, a turning gear is engaged when there is no steam to slowly rotate the turbine to ensure even heating to prevent uneven expansion. After first rotating the turbine by the turning gear, allowing time for the rotor to assume a straight plane (no bowing), then the turning gear is disengaged and steam is admitted to the turbine, first to the astern blades then to the ahead blades slowly rotating the turbine at 10â15Â RPM (0.17â0.25Â Hz) to slowly warm the turbine. The warm up procedure for large steam turbines may exceed ten hours.[18]"
+			],
+			"color": "dim|0.40918 gray|0.40918 dim|0.40918 grey|0.40918 gray|0.27524 grey|0.27524 dark|0.16791 gray|0.16791 dark|0.16791 grey|0.16791 silver|0.073222 light|0.0348 gray|0.0348 light|0.0348 grey|0.0348 gainsboro|0.02569 white|0.0037368 smoke|0.0037368  "
+		}
+	}
+}

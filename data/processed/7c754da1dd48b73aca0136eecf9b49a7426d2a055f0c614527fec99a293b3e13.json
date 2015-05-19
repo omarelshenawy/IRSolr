@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c754da1dd48b73aca0136eecf9b49a7426d2a055f0c614527fec99a293b3e13",
+			"url": "https://upload.wikimedia.org/math/5/a/7/5a72f1304af0783657605aed0e38201a.png",
+			"previous": [],
+				"after": "Now remember that the velocity function is simply the derivative of the position function. So what we have really shown is that integrating the velocity simply recovers the original position function. This is the basic idea of the Theorem: that integration and differentiation are closely related operations, each essentially being the inverse of the other.",
+			"color": "gray|0.35534 grey|0.35534 dark|0.29731 gray|0.29731 dark|0.29731 grey|0.29731 dim|0.15741 gray|0.15741 dim|0.15741 grey|0.15741 silver|0.1165 light|0.044172 gray|0.044172 light|0.044172 grey|0.044172 gainsboro|0.024299  "
+		}
+	}
+}

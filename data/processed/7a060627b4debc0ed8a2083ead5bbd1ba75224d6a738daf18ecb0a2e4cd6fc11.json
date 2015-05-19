@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a060627b4debc0ed8a2083ead5bbd1ba75224d6a738daf18ecb0a2e4cd6fc11",
+			"url": "https://upload.wikimedia.org/math/7/4/d/74d4d3e232e6d7b0bd3bbb13f4558594.png",
+				"previous": "denotes the normal distribution with expected value Î¼ and variance Ï2. The condition that it has independent increments means that if then and are independent random variables.",
+				"after": "A third characterisation is that the Wiener process has a spectral representation as a sine series whose coefficients are independent random variables. This representation can be obtained using the KarhunenâLoÃ¨ve theorem.",
+			"color": "dim|0.3382 gray|0.3382 dim|0.3382 grey|0.3382 gray|0.27836 grey|0.27836 dark|0.18393 gray|0.18393 dark|0.18393 grey|0.18393 silver|0.081242 light|0.045962 gray|0.045962 light|0.045962 grey|0.045962 gainsboro|0.034573 white|0.0094716 smoke|0.0094716 linen|0.0053245 lavender|0.0051096 blush|0.0051096 alice|0.0039712 blue|0.0039712 ghost|0.0038202 white|0.0038202 sea|0.0037505 shell|0.0037505 snow|0.0036982  "
+		}
+	}
+}

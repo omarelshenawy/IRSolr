@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "868c1256798d592fa1438c84a96d999b8f5b012b2a4fcbbab39298fdc187db4e",
+			"url": "https://upload.wikimedia.org/math/9/d/d/9dd6c05179403906880d2c028164cea8.png",
+				"previous": "The function composition of two functions takes the output of one function as the input of a second one. More specifically, the composition of f with a function g:Â YÂ âÂ Z is the function defined by",
+				"after": "That is, the order of the composition is important. For example, suppose f(x)Â = x2 and g(x)Â = x+1. Then g(f(x))Â = x2+1, while f(g(x))Â = (x+1)2, which is x2+2x+1, a different function.",
+			"color": "black|0.37016 dim|0.2365 gray|0.2365 dim|0.2365 grey|0.2365 gray|0.16712 grey|0.16712 dark|0.11103 gray|0.11103 dark|0.11103 grey|0.11103 silver|0.050666 light|0.027043 gray|0.027043 light|0.027043 grey|0.027043 gainsboro|0.019172 white|0.0040666 smoke|0.0040666  "
+		}
+	}
+}

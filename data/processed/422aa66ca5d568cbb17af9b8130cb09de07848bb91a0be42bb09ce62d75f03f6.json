@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "422aa66ca5d568cbb17af9b8130cb09de07848bb91a0be42bb09ce62d75f03f6",
+			"url": "https://upload.wikimedia.org/math/c/7/3/c73690881a5a2b98dc9e98bfc78e9bd7.png",
+				"previous": "A dynamical system may be defined formally, as a measure-preserving transformation of a sigma-algebra, the quadruplet (X, Î£, Î¼, Ï). Here, X is a set, and Î£ is a sigma-algebra on X, so that the pair (X, Î£) is a measurable space. Î¼ is a finite measure on the sigma-algebra, so that the triplet (X, Î£, Î¼) is a probability space. A map Ï: X â X is said to be Î£-measurable if and only if, for every Ï â Î£, one has . A map Ï is said to preserve the measure if and only if, for every Ï â Î£, one has . Combining the above, a map Ï is said to be a measure-preserving transformation of X , if it is a map from X to itself, it is Î£-measurable, and is measure-preserving. The quadruple (X, Î£, Î¼, Ï), for such a Ï, is then defined to be a dynamical system.",
+			"after": [],
+			"color": "dim|0.37983 gray|0.37983 dim|0.37983 grey|0.37983 gray|0.24905 grey|0.24905 dark|0.16221 gray|0.16221 dark|0.16221 grey|0.16221 silver|0.079346 light|0.045273 gray|0.045273 light|0.045273 grey|0.045273 gainsboro|0.034479 white|0.0097452 smoke|0.0097452 linen|0.0056568 lavender|0.0054963 blush|0.0054963 alice|0.0054041 blue|0.0054041 ghost|0.0052504 white|0.0052504 sea|0.005025 shell|0.005025 snow|0.0048809  "
+		}
+	}
+}

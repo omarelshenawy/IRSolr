@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6275a2e1d59f7ea70bc557e096220d5c169b5573c8330d9aacb32dff43ac68b6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Numa.svg/400px-Numa.svg.png",
+				"previous": "Main memory in a parallel computer is either shared memory (shared between all processing elements in a single address space), or distributed memory (in which each processing element has its own local address space).[23] Distributed memory refers to the fact that the memory is logically distributed, but often implies that it is physically distributed as well. Distributed shared memory and memory virtualization combine the two approaches, where the processing element has its own local memory and access to the memory on non-local processors. Accesses to local memory are typically faster than accesses to non-local memory.",
+				"after": "Computer architectures in which each element of main memory can be accessed with equal latency and bandwidth are known as Uniform Memory Access (UMA) systems. Typically, that can be achieved only by a shared memory system, in which the memory is not physically distributed. A system that does not have this property is known as a Non-Uniform Memory Access (NUMA) architecture. Distributed memory systems have non-uniform memory access.",
+			"color": "white|0.097891 smoke|0.097891 white|0.097219 snow|0.097216 mint|0.096397 cream|0.096397 ghost|0.096094 white|0.096094 alice|0.095084 blue|0.095084 sea|0.094837 shell|0.094837 azure|0.094746 floral|0.094347 white|0.094347 lavender|0.090766 blush|0.090766 dark|0.011901 gray|0.011901 dark|0.011901 grey|0.011901 silver|0.0074664 light|0.0067777 gray|0.0067777 light|0.0067777 grey|0.0067777 gainsboro|0.0062258 ivory|0.0040947 gray|0.0027625 grey|0.0027625  "
+		}
+	}
+}

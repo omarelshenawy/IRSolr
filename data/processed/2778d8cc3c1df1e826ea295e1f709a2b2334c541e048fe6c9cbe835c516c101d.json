@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "2778d8cc3c1df1e826ea295e1f709a2b2334c541e048fe6c9cbe835c516c101d",
+			"url": "https://upload.wikimedia.org/math/3/9/e/39e62260bdb3ba92c98fa0c41f2ad9a5.png",
+				"previous": "Some authors allow to be the zero vector in the definition of eigenvector.[20] This is reasonable as long as we define eigenvalues and eigenvectors carefully: If we would like the zero vector to be an eigenvector, then we must first define an eigenvalue of as a scalar in such that there is a nonzero vector in with . We then define an eigenvector to be a vector in such that there is an eigenvalue in with . This way, we ensure that it is not the case that every scalar is an eigenvalue corresponding to the zero vector.",
+				"after": "If is an eigenvector of , with eigenvalue , then any scalar multiple of with nonzero is also an eigenvector with eigenvalue , since . Moreover, if and are eigenvectors with the same eigenvalue and , then is also an eigenvector with the same eigenvalue . Therefore, the set of all eigenvectors with the same eigenvalue , together with the zero vector, is a linear subspace of , called the eigenspace of associated to .[21][22][23] If that subspace has dimension 1, it is sometimes called an eigenline.[24]",
+			"color": "gray|0.33066 grey|0.33066 dim|0.24144 gray|0.24144 dim|0.24144 grey|0.24144 dark|0.22122 gray|0.22122 dark|0.22122 grey|0.22122 silver|0.09629 light|0.050415 gray|0.050415 light|0.050415 grey|0.050415 gainsboro|0.035309 white|0.0068756 smoke|0.0068756 linen|0.0033094 lavender|0.0028661 blush|0.0028661 alice|0.0027146 blue|0.0027146  "
+		}
+	}
+}

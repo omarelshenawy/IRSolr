@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fef9cc1555b8463cdedbf9357dfa8d710c6df706fc3c28228542b68a5220cd3",
+			"url": "https://upload.wikimedia.org/math/7/c/d/7cd31c315de68d4bf15f3da72f25dc1c.png",
+				"previous": "Consider the transformation matrix A, given by,",
+				"after": "The figure on the right shows the effect of this transformation on point coordinates in the plane. The eigenvectors v of this transformation satisfy the equation,",
+			"color": "dim|0.32229 gray|0.32229 dim|0.32229 grey|0.32229 gray|0.25464 grey|0.25464 dark|0.20016 gray|0.20016 dark|0.20016 grey|0.20016 silver|0.074237 light|0.053249 gray|0.053249 light|0.053249 grey|0.053249 gainsboro|0.046848 white|0.013376 smoke|0.013376 linen|0.012278 lavender|0.0045074 blush|0.0045074 alice|0.004436 blue|0.004436 ghost|0.0043964 white|0.0043964 sea|0.0042945 shell|0.0042945 snow|0.0042648  "
+		}
+	}
+}

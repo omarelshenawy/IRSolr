@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "958c2f4e788d9426ad8fb7996de84f351b1a944e8792b1aa7f5fe15bf80359e9",
+			"url": "https://upload.wikimedia.org/math/3/a/7/3a71eabec057f616ae30aecfb41ba2ea.png",
+			"previous": [
+				"As the other square root is simply â1 times the principal square root, both roots can be written as",
+				"where sgn is the signum function. The sign of the imaginary part of the root is taken to be the same as the sign of the imaginary part of the original number. The real part of the principal value is always non-negative."
+			],
+				"after": "Because of the discontinuous nature of the square root function in the complex plane, the law âzw = âzâw is in general not true. (Equivalently, the problem occurs because of the freedom in the choice of branch. The chosen branch may or may not yield the equality; in fact, the choice of branch for the square root need not contain the value of âzâw at all, leading to the equality's failure. A similar problem appears with the complex logarithm and the relation logâz + logâw = log(zw).) Wrongly assuming this law underlies several faulty \"proofs\", for instance the following one showing that â1 = 1:",
+			"color": "dim|0.38012 gray|0.38012 dim|0.38012 grey|0.38012 gray|0.29947 grey|0.29947 dark|0.18139 gray|0.18139 dark|0.18139 grey|0.18139 silver|0.070596 light|0.036185 gray|0.036185 light|0.036185 grey|0.036185 gainsboro|0.022814  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d76ba356e6297c5af3cfd2e72151cc18c3b56ee540768668dd93d1339e86a9f",
+			"url": "https://upload.wikimedia.org/math/9/a/2/9a2f53f64937da6bd187d79e36af9007.png",
+			"previous": [
+				"In the case that q is a conserved quantity that cannot be created or destroyed (such as energy), Ï = 0 and the equations becomes:",
+				"This general equation may be used to derive any continuity equation, ranging from as simple as the volume continuity equation to as complicated as the NavierâStokes equations. This equation also generalizes the advection equation. Other equations in physics, such as Gauss's law of the electric field and Gauss's law for gravity, have a similar mathematical form to the continuity equation, but are not usually called by the term \"continuity equation\", because j in those cases does not represent the flow of a real physical quantity."
+			],
+			"after": [],
+			"color": "dim|0.4511 gray|0.4511 dim|0.4511 grey|0.4511 gray|0.2745 grey|0.2745 dark|0.15874 gray|0.15874 dark|0.15874 grey|0.15874 silver|0.062614 light|0.025505 gray|0.025505 light|0.025505 grey|0.025505 gainsboro|0.016768  "
+		}
+	}
+}

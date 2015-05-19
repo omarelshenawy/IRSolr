@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "75139b783f9b3a8b3dc2e68a738dd5d4352351b190d541f685f71d56ec60dc6b",
+			"url": "https://upload.wikimedia.org/math/2/a/1/2a155c7c1fade846c3315ec855bf26ce.png",
+				"previous": "The derivative for a curve of order n is",
+				"after": "The t in the function for a linear BÃ©zier curve can be thought of as describing how far B(t) is from P0 to P1. For example when t=0.25, B(t) is one quarter of the way from point P0 to P1. As t varies from 0 to 1, B(t) describes a straight line from P0 to P1.",
+			"color": "dim|0.37336 gray|0.37336 dim|0.37336 grey|0.37336 gray|0.28369 grey|0.28369 dark|0.17295 gray|0.17295 dark|0.17295 grey|0.17295 silver|0.082394 light|0.043928 gray|0.043928 light|0.043928 grey|0.043928 gainsboro|0.028866 white|0.0044525 smoke|0.0044525  "
+		}
+	}
+}

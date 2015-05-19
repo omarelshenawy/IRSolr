@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "438bc917a64d647b2cb5ea2d066bb6d1c2ded279fd0e04963e4f821048b34b74",
+			"url": "https://upload.wikimedia.org/math/c/a/7/ca74b188bf5369e0ef9f54b802890b72.png",
+				"previous": "Lagrange's four-square theorem is a special case of the Fermat polygonal number theorem and Waring's problem. Another possible generalisation is the following problem: Given natural numbers , can we solve",
+				"after": "Michael O. Rabin and Jeffrey Shallit[9] have found randomized polynomial-time algorithms for computing a single representation for a given integer , in expected running time .",
+			"color": "dim|0.45526 gray|0.45526 dim|0.45526 grey|0.45526 gray|0.27563 grey|0.27563 dark|0.15242 gray|0.15242 dark|0.15242 grey|0.15242 silver|0.059498 light|0.026269 gray|0.026269 light|0.026269 grey|0.026269 gainsboro|0.017515  "
+		}
+	}
+}

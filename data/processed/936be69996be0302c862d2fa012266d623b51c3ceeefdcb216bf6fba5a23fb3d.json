@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "936be69996be0302c862d2fa012266d623b51c3ceeefdcb216bf6fba5a23fb3d",
+			"url": "https://upload.wikimedia.org/math/d/a/6/da6c6defb9876a8faa3e5e7734aff473.png",
+				"previous": "Assuming that N particles start from the origin at the initial time t=0, the diffusion equation has the solution",
+				"after": "This expression allowed Einstein to calculate the moments directly. The first moment is seen to vanish, meaning that the Brownian particle is equally likely to move to the left as it is to move to the right. The second moment is, however, non-vanishing, being given by",
+			"color": "dim|0.36058 gray|0.36058 dim|0.36058 grey|0.36058 gray|0.29304 grey|0.29304 dark|0.18883 gray|0.18883 dark|0.18883 grey|0.18883 silver|0.079197 light|0.03649 gray|0.03649 light|0.03649 grey|0.03649 gainsboro|0.025465 white|0.0041074 smoke|0.0041074  "
+		}
+	}
+}

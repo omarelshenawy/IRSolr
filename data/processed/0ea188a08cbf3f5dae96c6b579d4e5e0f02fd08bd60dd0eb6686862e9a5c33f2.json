@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ea188a08cbf3f5dae96c6b579d4e5e0f02fd08bd60dd0eb6686862e9a5c33f2",
+			"url": "https://upload.wikimedia.org/math/c/1/1/c11174cd2d043d8cd0b7ea3767a99db4.png",
+				"previous": "Once the domain (typically an interval) and degree of the polynomial are chosen, the polynomial itself is chosen in such a way as to minimize the worst-case error. That is, the goal is to minimize the maximum value of , where P(x) is the approximating polynomial, f(x) is the actual function, and x varies over the chosen interval. For well-behaved functions, there exists an Nth-degree polynomial that will lead to an error curve that oscillates back and forth between and a total of N+2 times, giving a worst-case error of . It is seen that an Nth-degree polynomial can interpolate N+1 points in a curve. Such a polynomial is always optimal. It is possible to make contrived functions f(x) for which no such polynomial exists, but these occur rarely in practice.",
+			"after": [],
+			"color": "dim|0.29589 gray|0.29589 dim|0.29589 grey|0.29589 gray|0.26572 grey|0.26572 dark|0.19905 gray|0.19905 dark|0.19905 grey|0.19905 silver|0.10708 light|0.059801 gray|0.059801 light|0.059801 grey|0.059801 gainsboro|0.043124 white|0.0078431 smoke|0.0078431 linen|0.0042109 lavender|0.0032419 blush|0.0032419 alice|0.0031395 blue|0.0031395  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6fa723363e951c672e6e1eab7b863e3aad48003902c0e2c27704956158b85281",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/J32_1_small.jpg/175px-J32_1_small.jpg",
+				"previous": "The user segment is composed of hundreds of thousands of U.S. and allied military users of the secure GPS Precise Positioning Service, and tens of millions of civil, commercial and scientific users of the Standard Positioning Service. In general, GPS receivers are composed of an antenna, tuned to the frequencies transmitted by the satellites, receiver-processors, and a highly stable clock (often a crystal oscillator). They may also include a display for providing location and speed information to the user. A receiver is often described by its number of channels: this signifies how many satellites it can monitor simultaneously. Originally limited to four or five, this has progressively increased over the years so that, as of 2007[update], receivers typically have between 12 and 20Â channels.[a]",
+				"after": "GPS receivers may include an input for differential corrections, using the RTCM SC-104 format. This is typically in the form of an RS-232 port at 4,800Â bit/s speed. Data is actually sent at a much lower rate, which limits the accuracy of the signal sent using RTCM.[citation needed] Receivers with internal DGPS receivers can outperform those using external RTCM data.[citation needed] As of 2006[update], even low-cost units commonly include Wide Area Augmentation System (WAAS) receivers.",
+			"color": "gray|0.14317 grey|0.14317 lavender|0.12875 light|0.11152 gray|0.11152 light|0.11152 grey|0.11152 dark|0.094723 gray|0.094723 dark|0.094723 grey|0.094723 gainsboro|0.0698 light|0.069533 slate|0.069533 gray|0.069533 light|0.058606 steel|0.058606 blue|0.058606 black|0.051883 slate|0.03427 gray|0.03427 dim|0.032241 gray|0.032241 dim|0.032241 grey|0.032241 indian|0.030108 red|0.030108 silver|0.029823 firebrick|0.028264 salmon|0.013943 brown|0.012473 alice|0.012261 blue|0.012261 tomato|0.011165 ghost|0.0092679 white|0.0092679 light|0.0087879 coral|0.0087879 crimson|0.0070548 white|0.0061416 smoke|0.0061416  "
+		}
+	}
+}

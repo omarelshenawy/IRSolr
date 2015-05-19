@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a57a76e52b8b08a346ce75a0fa9bbf6c9b1e2b1f68d66ca3eb5c916e5583bd7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Metafont_pens.png/220px-Metafont_pens.png",
+			"previous": [],
+				"after": "A glyph's outline is defined by the vertices of individual stroke paths, and the corresponding stroke profiles. The stroke paths are a kind of topological skeleton of the glyph. The advantages of stroke-based fonts over outline fonts include reducing number of vertices needed to define a glyph, allowing the same vertices to be used to generate a font with a different weight, glyph width, or serifs using different stroke rules, and the associated size savings. For a font developer, editing a glyph by stroke is easier and less prone to error than editing outlines. A stroke-based system also allows scaling glyphs in height or width without altering stroke thickness of the base glyphs. Stroke-based fonts are heavily marketed for East Asian markets for use on embedded devices, but the technology is not limited to ideograms.",
+			"color": " "
+		}
+	}
+}

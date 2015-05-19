@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6985f799c7150d081527454db8e6f260e5a343894e75bb52622c5962ff0fca6f",
+			"url": "https://upload.wikimedia.org/math/2/c/e/2ce00d6769a702069265f3aa89672045.png",
+			"previous": [
+				"If a spheroid is parameterized as",
+				"The volume inside a spheroid (of any kind) is . If A=2a is the equatorial diameter, and C=2c is the polar diameter, the volume is ."
+			],
+			"after": [
+				"and its mean curvature is",
+				"Both of these curvatures are always positive, so that every point on a spheroid is elliptic."
+			],
+			"color": "dim|0.38205 gray|0.38205 dim|0.38205 grey|0.38205 gray|0.27564 grey|0.27564 dark|0.17278 gray|0.17278 dark|0.17278 grey|0.17278 silver|0.077728 light|0.04108 gray|0.04108 light|0.04108 grey|0.04108 gainsboro|0.029419 white|0.0048885 smoke|0.0048885  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f2f199fde0f7780ed7cfb1841e9f5a184e55f9fd4077415aeecf4671fdd23e6",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Stripline_capacitive_gap_filter.svg/350px-Stripline_capacitive_gap_filter.svg.png",
+			"previous": [],
+				"after": "The capacitive gap structure consists of sections of line about Î»/2 in length which act as resonators and are coupled \"end-on\" by gaps in the transmission line. It is particularly suitable for planar formats, is easily implemented with printed circuit technology and has the advantage of taking up no more space than a plain transmission line would. The limitation of this topology is that performance (particularly insertion loss) deteriorates with increasing fractional bandwidth, and acceptable results are not obtained with a Q less than about 5. A further difficulty with producing low-Q designs is that the gap width is required to be smaller for wider fractional bandwidths. The minimum width of gaps, like the minimum width of tracks, is limited by the resolution of the printing technology.[45][53]",
+			"color": "white|0.092938 smoke|0.092938 sea|0.092591 shell|0.092591 lavender|0.09169 blush|0.09169 ghost|0.091678 white|0.091678 snow|0.091649 alice|0.091556 blue|0.091556 gainsboro|0.09086 white|0.090707 linen|0.086358 light|0.084551 gray|0.084551 light|0.084551 grey|0.084551 navajo|0.020837 white|0.020837 tan|0.019739 mint|0.01488 cream|0.01488 burly|0.014293 wood|0.014293 azure|0.0078368 floral|0.0076483 white|0.0076483 silver|0.0036195  "
+		}
+	}
+}

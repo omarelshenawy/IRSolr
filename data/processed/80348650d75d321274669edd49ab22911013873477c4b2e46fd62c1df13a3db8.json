@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "80348650d75d321274669edd49ab22911013873477c4b2e46fd62c1df13a3db8",
+			"url": "https://upload.wikimedia.org/math/7/9/0/7902736879ad29b6380c50d4681bd537.png",
+			"previous": [
+				"we split the BÃ©zier curve into three separate equations",
+				"with",
+				"When evaluating a BÃ©zier curve of degree n in 3-dimensional space with n+1 control points Pi"
+			],
+			"after": [
+				"which we evaluate individually using De Casteljau's algorithm.",
+				"The geometric interpretation of De Casteljau's algorithm is straightforward.",
+				"The following picture shows this process for a cubic BÃ©zier curve:"
+			],
+			"color": "dim|0.33129 gray|0.33129 dim|0.33129 grey|0.33129 gray|0.29762 grey|0.29762 dark|0.19031 gray|0.19031 dark|0.19031 grey|0.19031 silver|0.086605 light|0.034565 gray|0.034565 light|0.034565 grey|0.034565 gainsboro|0.024508 white|0.005918 smoke|0.005918 alice|0.0041129 blue|0.0041129 lavender|0.0040923 blush|0.0040923 ghost|0.0039836 white|0.0039836 linen|0.0031458 sea|0.0031118 shell|0.0031118 snow|0.0030601  "
+		}
+	}
+}

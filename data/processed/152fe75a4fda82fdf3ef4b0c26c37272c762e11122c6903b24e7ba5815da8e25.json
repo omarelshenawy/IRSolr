@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "152fe75a4fda82fdf3ef4b0c26c37272c762e11122c6903b24e7ba5815da8e25",
+			"url": "https://upload.wikimedia.org/math/e/6/7/e678db0137d57dddf5d66f02a6fdf4ef.png",
+				"previous": "In 3 dimensions, the volume inside a sphere (that is, the volume of a ball) is derived to be",
+				"after": "where r is the radius of the sphere and Ï is the constant pi. Archimedes first derived this formula, which shows that the volume inside a sphere is 2/3 that of a circumscribed cylinder. (This assertion follows from Cavalieri's principle.) In modern mathematics, this formula can be derived using integral calculus, i.e. disk integration to sum the volumes of an infinite number of circular disks of infinitesimally small thickness stacked centered side by side along the x axis from x = 0 where the disk has radius r (i.e. y = r) to x = r where the disk has radius 0 (i.e. y = 0).",
+			"color": "dim|0.3692 gray|0.3692 dim|0.3692 grey|0.3692 gray|0.28679 grey|0.28679 dark|0.18565 gray|0.18565 dark|0.18565 grey|0.18565 silver|0.082679 light|0.033819 gray|0.033819 light|0.033819 grey|0.033819 gainsboro|0.022496 white|0.0040046 smoke|0.0040046  "
+		}
+	}
+}

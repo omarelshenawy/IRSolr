@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "122e42809dae24db6964d5a871080f3fe9084ca11922bc892a1597dc53295421",
+			"url": "https://upload.wikimedia.org/math/3/f/e/3fe49c4ce72f277250b1d3cff8212709.png",
+				"previous": "and . This shows that both and are equal to (since they are integers), and is the sum of four squares",
+				"after": "Since has even integer coefficients, will have integer coefficients and can be used instead of the original to give a representation of as the sum of four squares.",
+			"color": "dim|0.35638 gray|0.35638 dim|0.35638 grey|0.35638 gray|0.26748 grey|0.26748 dark|0.17887 gray|0.17887 dark|0.17887 grey|0.17887 silver|0.098128 light|0.051336 gray|0.051336 light|0.051336 grey|0.051336 gainsboro|0.036973  "
+		}
+	}
+}

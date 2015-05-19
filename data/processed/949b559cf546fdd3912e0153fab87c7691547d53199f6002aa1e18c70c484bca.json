@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "949b559cf546fdd3912e0153fab87c7691547d53199f6002aa1e18c70c484bca",
+			"url": "https://upload.wikimedia.org/math/7/3/a/73aa9806a17b2f06aa5bd26ee651f71a.png",
+			"previous": [
+				"",
+				"The solution of the logistic map when r=2 is",
+				"where the initial condition parameter is given by . For rational , after a finite number of iterations maps into a periodic sequence. But almost all are irrational, and, for irrational , never repeats itself â it is non-periodic and exhibits sensitive dependence on initial conditions, so it is said to be chaotic."
+			],
+				"after": "A bivariate quadratic function is a second-degree polynomial of the form",
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "1070f5efe552e9eb8cc8291e2708e058b960ef64966c83dc4d09d4986ea174bd",
+			"url": "https://upload.wikimedia.org/math/5/6/3/5639360c970cf84e09498ab09c2b81f3.png",
+			"previous": [
+				"The geometric interpretation of De Casteljau's algorithm is straightforward.",
+				"which we evaluate individually using De Casteljau's algorithm."
+			],
+			"after": [
+				"The following picture shows this process for a cubic BÃ©zier curve:",
+				"",
+				"Note that the intermediate points that were constructed are in fact the control points for two new BÃ©zier curves, both exactly coincident with the old one. This algorithm not only evaluates the curve at , but splits the curve into two pieces at , and provides the equations of the two sub-curves in BÃ©zier form."
+			],
+			"color": "dim|0.31128 gray|0.31128 dim|0.31128 grey|0.31128 gray|0.30021 grey|0.30021 dark|0.20097 gray|0.20097 dark|0.20097 grey|0.20097 silver|0.0903 light|0.04693 gray|0.04693 light|0.04693 grey|0.04693 gainsboro|0.032114 white|0.0042986 smoke|0.0042986  "
+		}
+	}
+}

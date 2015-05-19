@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fdb383ea96ea0dbd9cb7dc201811f7e3609440888f7f94e1bdc03bfa26fe53f",
+			"url": "https://upload.wikimedia.org/math/b/0/d/b0dd542c9dadf93bc17ce3af7b953ff6.png",
+				"previous": "The exponential map and the Lie algebra determine the local group structure of every connected Lie group, because of the BakerâCampbellâHausdorff formula: there exists a neighborhood U of the zero element of , such that for u, v in U we have",
+				"after": "where the omitted terms are known and involve Lie brackets of four or more elements. In case u and v commute, this formula reduces to the familiar exponential law exp(u) exp(v) = exp(u + v).",
+			"color": "dim|0.34069 gray|0.34069 dim|0.34069 grey|0.34069 gray|0.23179 grey|0.23179 dark|0.14553 gray|0.14553 dark|0.14553 grey|0.14553 black|0.10295 silver|0.075314 light|0.042261 gray|0.042261 light|0.042261 grey|0.042261 gainsboro|0.03178 white|0.0072437 smoke|0.0072437 linen|0.0038445 lavender|0.0036909 blush|0.0036909 alice|0.0036584 blue|0.0036584 ghost|0.0035712 white|0.0035712  "
+		}
+	}
+}

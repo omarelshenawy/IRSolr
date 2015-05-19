@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "295b496e4959f974bedf780b641cf256abe9c3ca0693cb0633bfb11b305586a2",
+			"url": "https://upload.wikimedia.org/math/d/1/f/d1fa840ead4dcd40c9ab27d31bbfd54c.png",
+				"previous": "The Sk sequence is what's customarily known as the DFT of sN. Â It is also N-periodic, so it is never necessary to compute more than N coefficients. Â In terms of Sk, the inverse transform is given by:",
+			"after": [
+				"the coefficients are equivalent to samples of S1/T(Æ) at discrete intervals of 1/P = 1/NT: Â Â  Â  (see DTFT/Sampling the DTFT)",
+				"Conversely, when one wants to compute an arbitrary number (N) of discrete samples of one cycle of a continuous DTFT, Â Â  it can be done by computing the relatively simple DFT of sN[n], as defined above. Â In most cases, N is chosen equal to the length of non-zero portion of s[n]. Â Increasing N, known as zero-padding or interpolation, results in more closely spaced samples of one cycle of Â S1/T(Æ). Â Decreasing N, causes overlap (adding) in the time-domain (analogous to aliasing), which corresponds to decimation in the frequency domain. (see Sampling the DTFT) In most cases of practical interest, the s[n] sequence represents a longer sequence that was truncated by the application of a finite-length window function or FIR filter array."
+			],
+			"color": "dim|0.34045 gray|0.34045 dim|0.34045 grey|0.34045 gray|0.25725 grey|0.25725 dark|0.17533 gray|0.17533 dark|0.17533 grey|0.17533 silver|0.087582 light|0.053932 gray|0.053932 light|0.053932 grey|0.053932 gainsboro|0.04147 white|0.010579 smoke|0.010579 linen|0.0051915 lavender|0.00503 blush|0.00503 alice|0.0049531 blue|0.0049531 ghost|0.0047865 white|0.0047865 sea|0.0046437 shell|0.0046437 snow|0.0045188  "
+		}
+	}
+}

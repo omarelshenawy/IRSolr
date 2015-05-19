@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a8139beda37af9a08f5587444f4fa0cf0f63cb21c7328991fbd7565209486bb",
+			"url": "https://upload.wikimedia.org/math/5/4/4/544a5b923c4355132762e58830a849f5.png",
+			"previous": [
+				"where:",
+				"The formula for the shape of a NACA 00xx foil, with \"xx\" being replaced by the percentage of thickness to chord, is:[3]",
+				"The NACA 0015 airfoil is symmetrical, the 00 indicating that it has no camber. The 15 indicates that the airfoil has a 15% thickness to chord length ratio: it is 15% as thick as it is long."
+			],
+			"after": [
+				"where",
+				"The NACA five-digit series describes more complex airfoil shapes:[7]"
+			],
+			"color": "dim|0.32628 gray|0.32628 dim|0.32628 grey|0.32628 gray|0.29985 grey|0.29985 dark|0.19216 gray|0.19216 dark|0.19216 grey|0.19216 silver|0.087097 light|0.044625 gray|0.044625 light|0.044625 grey|0.044625 gainsboro|0.030836 white|0.0052494 smoke|0.0052494  "
+		}
+	}
+}

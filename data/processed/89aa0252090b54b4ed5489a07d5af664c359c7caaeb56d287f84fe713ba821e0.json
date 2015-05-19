@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "89aa0252090b54b4ed5489a07d5af664c359c7caaeb56d287f84fe713ba821e0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Email.svg/400px-Email.svg.png",
+				"previous": "Despite the complex format of some such addresses, (in this case an Internet email address to route mail to a user with a \"bang path\" address at a UUCP host), they did lead to the universal connectivity that is the key feature of modern email.",
+				"after": "This server may need to forward the message to other MTAs before the message reaches the final message delivery agent (MDA).",
+			"color": "light|0.11631 steel|0.11631 blue|0.11631 dark|0.082024 gray|0.082024 dark|0.082024 grey|0.082024 light|0.073525 blue|0.073525 sky|0.065575 blue|0.065575 lavender|0.060686 light|0.05735 gray|0.05735 light|0.05735 grey|0.05735 silver|0.055939 gainsboro|0.051397 gray|0.048527 grey|0.048527 dim|0.048442 gray|0.048442 dim|0.048442 grey|0.048442 white|0.040754 smoke|0.040754 snow|0.027679 sea|0.02691 shell|0.02691 white|0.026539 mint|0.024844 cream|0.024844 alice|0.024041 blue|0.024041 ghost|0.023186 white|0.023186 floral|0.023057 white|0.023057 azure|0.022572 black|0.02029 lavender|0.015609 blush|0.015609 ivory|0.013991 old|0.012343 lace|0.012343 honeydew|0.012138 linen|0.0083725 violet|0.0052383 steel|0.0033782 blue|0.0033782  "
+		}
+	}
+}

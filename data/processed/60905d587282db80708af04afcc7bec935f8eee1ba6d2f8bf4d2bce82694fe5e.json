@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "60905d587282db80708af04afcc7bec935f8eee1ba6d2f8bf4d2bce82694fe5e",
+			"url": "https://upload.wikimedia.org/math/f/2/b/f2b8c7aed8bfad74dcf904ec6315db69.png",
+			"previous": [],
+			"after": [
+				"Solving this optimization problem (see Lagrange multipliers) results in the Kriging system:",
+				"the additional parameter is a Lagrange multiplier used in the minimization of the Kriging error to honor the unbiasedness condition."
+			],
+			"color": "dim|0.4064 gray|0.4064 dim|0.4064 grey|0.4064 gray|0.26917 grey|0.26917 dark|0.16452 gray|0.16452 dark|0.16452 grey|0.16452 silver|0.063595 light|0.03118 gray|0.03118 light|0.03118 grey|0.03118 black|0.027609 gainsboro|0.021514  "
+		}
+	}
+}

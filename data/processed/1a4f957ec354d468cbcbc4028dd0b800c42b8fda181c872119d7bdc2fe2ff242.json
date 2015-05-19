@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a4f957ec354d468cbcbc4028dd0b800c42b8fda181c872119d7bdc2fe2ff242",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Compression_ratio.svg/220px-Compression_ratio.svg.png",
+				"previous": "When working with digital audio, digital signal processing techniques are commonly used to implement compression via digital audio editors, or dedicated workstations. Often the algorithms used emulate the above analog technologies.",
+				"after": "A compressor reduces the level of an audio signal if its amplitude exceeds a certain threshold. It is commonly set in decibels dB, where a lower threshold (e.g. -60Â dB) means a larger portion of the signal will be treated (compared to a higher threshold of e.g. â5Â dB).",
+			"color": "black|0.35131 dim|0.30423 gray|0.30423 dim|0.30423 grey|0.30423 gray|0.23488 grey|0.23488 dark|0.063909 gray|0.063909 dark|0.063909 grey|0.063909 silver|0.034652  "
+		}
+	}
+}

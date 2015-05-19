@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7e40b5fd2926ffa84e09c120c0647fc9de12b794a9145c507916c4d03d1be4",
+			"url": "https://upload.wikimedia.org/math/9/0/4/904255fbf55437fb5ca03736246e2334.png",
+			"previous": [],
+				"after": "Stochastic matrices are square matrices whose rows are probability vectors, i.e., whose entries are non-negative and sum up to one. Stochastic matrices are used to define Markov chains with finitely many states.[83] A row of the stochastic matrix gives the probability distribution for the next position of some particle currently in the state that corresponds to the row. Properties of the Markov chain like absorbing states, i.e., states that any particle attains eventually, can be read off the eigenvectors of the transition matrices.[84]",
+			"color": "dark|0.29948 gray|0.29948 dark|0.29948 grey|0.29948 gray|0.19776 grey|0.19776 silver|0.15325 dim|0.13321 gray|0.13321 dim|0.13321 grey|0.13321 light|0.084511 gray|0.084511 light|0.084511 grey|0.084511 gainsboro|0.058372 white|0.024648 smoke|0.024648 linen|0.0072107 lavender|0.0069434 blush|0.0069434 alice|0.0068766 blue|0.0068766 ghost|0.0067931 white|0.0067931 sea|0.0065545 shell|0.0065545 snow|0.0064083 white|0.0057959  "
+		}
+	}
+}

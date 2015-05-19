@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "89f1a0e11e4bb447f6e89764905a5f03ef63751d8760b4cbd59eabe0e0bf894e",
+			"url": "https://upload.wikimedia.org/math/e/a/f/eaf2f786b094a49cd4680ceda5529bdf.png",
+			"previous": [
+				"In the case that , there are exactly two possibilities",
+				"such that any solution that satisfies this initial condition is a restriction of the solution that satisfies this initial condition with domain Imax."
+			],
+			"after": [
+				"where Î© is the open set in which F is defined, and is its boundary.",
+				"Note that the maximum domain of the solution"
+			],
+			"color": "dim|0.32299 gray|0.32299 dim|0.32299 grey|0.32299 gray|0.29638 grey|0.29638 dark|0.20433 gray|0.20433 dark|0.20433 grey|0.20433 silver|0.08757 light|0.042593 gray|0.042593 light|0.042593 grey|0.042593 gainsboro|0.02849 white|0.0045825 smoke|0.0045825  "
+		}
+	}
+}

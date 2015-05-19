@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a66ded89eabeff0e2fa154f13de79406b66ab47dfb99ebe71ca4f173673ad4a",
+			"url": "https://upload.wikimedia.org/math/6/5/5/655fcd603d0263ce2f074f21ce3356c7.png",
+				"previous": "If the function has a minimum if A>0, and a maximum if A<0, its graph forms an elliptic paraboloid. In this case the minimum or maximum occurs at where:",
+			"after": [
+				"If and the function has no maximum or minimum, its graph forms a parabolic cylinder.",
+				"If and the function achieves the maximum/minimum at a line. Similarly, a minimum if A>0 and a maximum if A<0, its graph forms a parabolic cylinder."
+			],
+			"color": "gray|0.28495 grey|0.28495 dim|0.25618 gray|0.25618 dim|0.25618 grey|0.25618 dark|0.23261 gray|0.23261 dark|0.23261 grey|0.23261 silver|0.11365 light|0.056682 gray|0.056682 light|0.056682 grey|0.056682 gainsboro|0.038152 white|0.0046445 smoke|0.0046445 linen|0.0025752  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "36619b0d4ad1dd0bbaa849a9a51cd7b4601cc85e203352a70e15ad7fcb83a0dd",
+			"url": "https://upload.wikimedia.org/math/9/4/b/94b8c96b442d92b00f3af885f88bc9a4.png",
+				"previous": "The determination of the meridian distance, that is the distance from the equator to a point at a latitude on the ellipsoid is an important problem in the theory of map projections, particularly the Transverse Mercator projection. Ellipsoids are normally specified in terms of the parameters defined above, , , ,Â  but in theoretical work it is useful to define extra parameters, particularly the eccentricity, , and the third flattening . Only two of these parameters are independent and there are many relations between them:",
+				"after": "The meridian radius of curvature can be shown[3][4] to be equal to",
+			"color": "dim|0.36572 gray|0.36572 dim|0.36572 grey|0.36572 gray|0.26078 grey|0.26078 dark|0.20198 gray|0.20198 dark|0.20198 grey|0.20198 silver|0.086114 light|0.039947 gray|0.039947 light|0.039947 grey|0.039947 gainsboro|0.029451 white|0.003838 smoke|0.003838  "
+		}
+	}
+}

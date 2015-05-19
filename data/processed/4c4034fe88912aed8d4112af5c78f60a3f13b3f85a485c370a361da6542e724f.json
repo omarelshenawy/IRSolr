@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c4034fe88912aed8d4112af5c78f60a3f13b3f85a485c370a361da6542e724f",
+			"url": "https://upload.wikimedia.org/math/0/1/a/01a9cdfd5d0a06e6a1d3a43542dc7d95.png",
+				"previous": "The degree of the sum (or difference) of two polynomials is equal to or less than the greater of their degrees; the equality holds always when the degrees of the polynomials are different i.e.",
+			"after": [
+				"E.g.",
+				"The degree of the product of a polynomial by a non-zero scalar is equal to the degree of the polynomial, i.e."
+			],
+			"color": "gray|0.32217 grey|0.32217 dim|0.28235 gray|0.28235 dim|0.28235 grey|0.28235 dark|0.21608 gray|0.21608 dark|0.21608 grey|0.21608 silver|0.091429 light|0.042067 gray|0.042067 light|0.042067 grey|0.042067 gainsboro|0.028239 white|0.0045491 smoke|0.0045491  "
+		}
+	}
+}

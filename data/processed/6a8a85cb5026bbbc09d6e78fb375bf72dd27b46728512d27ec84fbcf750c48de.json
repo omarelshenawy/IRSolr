@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a8a85cb5026bbbc09d6e78fb375bf72dd27b46728512d27ec84fbcf750c48de",
+			"url": "https://upload.wikimedia.org/math/4/2/8/42897d7fde12e519e9836402e808eab6.png",
+			"previous": [
+				"where c is the speed of light. The 4-divergence of this current is:",
+				"The density of a quantity Ï and its current j can be combined into a 4-vector called a 4-current:"
+			],
+			"after": [
+				"where âÎ¼ is the 4-gradient and Î¼ is an index labelling the spacetime dimension. Then the continuity equation is:",
+				"in the usual case where there are no sources or sinks, i.e. for perfectly conserved quantities like energy or charge. This continuity equation is manifestly (\"obviously\") Lorentz invariant."
+			],
+			"color": "dim|0.43159 gray|0.43159 dim|0.43159 grey|0.43159 gray|0.28212 grey|0.28212 dark|0.16318 gray|0.16318 dark|0.16318 grey|0.16318 silver|0.061798 light|0.028271 gray|0.028271 light|0.028271 grey|0.028271 gainsboro|0.021772  "
+		}
+	}
+}

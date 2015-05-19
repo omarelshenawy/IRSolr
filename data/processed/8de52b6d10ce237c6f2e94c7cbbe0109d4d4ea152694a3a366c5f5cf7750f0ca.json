@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8de52b6d10ce237c6f2e94c7cbbe0109d4d4ea152694a3a366c5f5cf7750f0ca",
+			"url": "https://upload.wikimedia.org/math/9/8/8/988e2ddf95a081f5b5f26c7f5f03830e.png",
+				"previous": "and",
+			"after": [
+				"A lattice element y is said to cover another element x, if y>x, but there does not exist a z such that y>z>x. Here, y>x means x â¤ y and x â  y.",
+				"A lattice (L,â¤) is called graded, sometimes ranked (but see this article for an alternative meaning), if it can be equipped with a rank function r from L to â, sometimes to â¤, compatible with the ordering (so r(x)<r(y) whenever x<y) such that whenever y covers x, then r(y)=r(x)+1. The value of the rank function for a lattice element is called its rank."
+			],
+			"color": "dim|0.31759 gray|0.31759 dim|0.31759 grey|0.31759 gray|0.24866 grey|0.24866 dark|0.14817 gray|0.14817 dark|0.14817 grey|0.14817 black|0.14084 silver|0.066622 light|0.03487 gray|0.03487 light|0.03487 grey|0.03487 gainsboro|0.025411 white|0.0038941 smoke|0.0038941  "
+		}
+	}
+}

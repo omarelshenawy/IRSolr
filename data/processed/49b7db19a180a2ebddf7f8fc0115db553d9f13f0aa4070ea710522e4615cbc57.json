@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "49b7db19a180a2ebddf7f8fc0115db553d9f13f0aa4070ea710522e4615cbc57",
+			"url": "https://upload.wikimedia.org/math/3/d/c/3dc8104b3d383a987025714a88b4dd2d.png",
+			"previous": [
+				"If the function has no maximum or minimum, its graph forms an hyperbolic paraboloid.",
+				"where A, B, C, D, and E are fixed coefficients and F is the constant term. Such a function describes a quadratic surface. Setting equal to zero describes the intersection of the surface with the plane , which is a locus of points equivalent to a conic section."
+			],
+				"after": "If and the function has no maximum or minimum, its graph forms a parabolic cylinder.",
+			"color": "black|0.30073 dim|0.28394 gray|0.28394 dim|0.28394 grey|0.28394 gray|0.18992 grey|0.18992 dark|0.11899 gray|0.11899 dark|0.11899 grey|0.11899 silver|0.052815 light|0.025315 gray|0.025315 light|0.025315 grey|0.025315 gainsboro|0.01737  "
+		}
+	}
+}

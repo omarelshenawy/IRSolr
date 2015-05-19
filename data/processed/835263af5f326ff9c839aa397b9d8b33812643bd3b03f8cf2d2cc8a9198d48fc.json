@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "835263af5f326ff9c839aa397b9d8b33812643bd3b03f8cf2d2cc8a9198d48fc",
+			"url": "https://upload.wikimedia.org/math/2/7/4/27432eae4c0eef1f9e0ee01c6198f204.png",
+				"previous": "In developing special relativity, Einstein found that the kinetic energy of a moving body is",
+			"after": [
+				"with the velocity, the rest mass, and the Lorentz factor.",
+				"He included the second term on the right to make sure that for small velocities the energy would be the same as in classical mechanics, thus satisfying the correspondence principle:"
+			],
+			"color": "dim|0.24384 gray|0.24384 dim|0.24384 grey|0.24384 gray|0.22617 grey|0.22617 dark|0.211 gray|0.211 dark|0.211 grey|0.211 black|0.19017 silver|0.084547 light|0.031521 gray|0.031521 light|0.031521 grey|0.031521 gainsboro|0.012349  "
+		}
+	}
+}

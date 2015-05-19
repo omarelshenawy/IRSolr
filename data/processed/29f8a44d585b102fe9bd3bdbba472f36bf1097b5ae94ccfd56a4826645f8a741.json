@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "29f8a44d585b102fe9bd3bdbba472f36bf1097b5ae94ccfd56a4826645f8a741",
+			"url": "https://upload.wikimedia.org/math/0/0/3/0033969d499fa5928a378b6bbc1c7fdd.png",
+			"previous": [
+				"and the transversal acceleration is",
+				"where the radial acceleration is",
+				"So",
+				"So differentiating the position vector twice to obtain the velocity and the acceleration vectors:"
+			],
+			"after": [
+				"Kepler's laws say that",
+				"is constant.",
+				"The transversal acceleration is zero:",
+				"So the acceleration of a planet obeying Kepler's laws is directed towards the sun."
+			],
+			"color": "black|0.39635 dim|0.27595 gray|0.27595 dim|0.27595 grey|0.27595 gray|0.16423 grey|0.16423 dark|0.087063 gray|0.087063 dark|0.087063 grey|0.087063 silver|0.03587 light|0.017033 gray|0.017033 light|0.017033 grey|0.017033 gainsboro|0.011847  "
+		}
+	}
+}

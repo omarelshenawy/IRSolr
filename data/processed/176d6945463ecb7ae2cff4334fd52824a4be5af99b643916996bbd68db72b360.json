@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "176d6945463ecb7ae2cff4334fd52824a4be5af99b643916996bbd68db72b360",
+			"url": "https://upload.wikimedia.org/math/0/1/e/01ea9cd752278d6011ee9b2b7fe75e94.png",
+			"previous": [
+				"",
+				"Conclusions on maximum efficiency",
+				"For equiangular blades, , therefore , and we get . If the friction due to the blade surface is neglected then ."
+			],
+			"after": [
+				"2. As increases, the work done on the blades reduces, but at the same time surface area of the blade reduces, therefore there are less frictional losses.",
+				"In the reaction turbine, the rotor blades themselves are arranged to form convergent nozzles. This type of turbine makes use of the reaction force produced as the steam accelerates through the nozzles formed by the rotor. Steam is directed onto the rotor by the fixed vanes of the stator. It leaves the stator as a jet that fills the entire circumference of the rotor. The steam then changes direction and increases its speed relative to the speed of the blades. A pressure drop occurs across both the stator and the rotor, with steam accelerating through the stator and decelerating through the rotor, with no net change in steam velocity across the stage but with a decrease in both pressure and temperature, reflecting the work performed in the driving of the rotor."
+			],
+			"color": "dim|0.38808 gray|0.38808 dim|0.38808 grey|0.38808 gray|0.26579 grey|0.26579 dark|0.16782 gray|0.16782 dark|0.16782 grey|0.16782 silver|0.086662 light|0.045574 gray|0.045574 light|0.045574 grey|0.045574 gainsboro|0.031213  "
+		}
+	}
+}

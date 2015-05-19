@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b127e0918772a38937f0c4ed99a6103bb5c0ac3cb2504b92c04dd36896e299a",
+			"url": "https://upload.wikimedia.org/math/5/3/b/53b34a2ecaacf2761e0ae41f6d10f35f.png",
+				"previous": "The present value of the annuity (PVA) is obtained by simply dividing by :",
+				"after": "Another simple and intuitive way to derive the future value of an annuity is to consider an endowment, whose interest is paid as the annuity, and whose principal remains constant. The principal of this hypothetical endowment can be computed as that whose interest equals the annuity payment amount:",
+			"color": "dim|0.38228 gray|0.38228 dim|0.38228 grey|0.38228 gray|0.28019 grey|0.28019 dark|0.17811 gray|0.17811 dark|0.17811 grey|0.17811 silver|0.076586 light|0.038691 gray|0.038691 light|0.038691 grey|0.038691 gainsboro|0.027126 white|0.0042193 smoke|0.0042193  "
+		}
+	}
+}

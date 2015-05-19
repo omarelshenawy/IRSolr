@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b1b0039cea21c08173e1e12c92d81698443ee5cbd74749d1dd5b6c9be1c6857",
+			"url": "https://upload.wikimedia.org/math/1/c/e/1cea4c0bdaf66a1f9f1a544af9d0a2c6.png",
+			"previous": [
+				"and",
+				"This might be interpreted as: with probability 0.95 we will find a confidence interval in which the value of parameter Î¼ will be between the stochastic endpoints"
+			],
+			"after": [
+				"This does not mean there is 0.95 probability that the value of parameter Î¼ is in the interval obtained by using the currently computed value of the sample mean,",
+				"Instead, every time the measurements are repeated, there will be another value for the meanÂ X of the sample. In 95% of the cases Î¼ will be between the endpoints calculated from this mean, but in 5% of the cases it will not be. The actual confidence interval is calculated by entering the measured masses in the formula. Our 0.95 confidence interval becomes:"
+			],
+			"color": "gray|0.30377 grey|0.30377 dim|0.28808 gray|0.28808 dim|0.28808 grey|0.28808 dark|0.21689 gray|0.21689 dark|0.21689 grey|0.21689 silver|0.09298 light|0.04432 gray|0.04432 light|0.04432 grey|0.04432 gainsboro|0.03159 white|0.0059634 smoke|0.0059634 linen|0.0026679  "
+		}
+	}
+}

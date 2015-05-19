@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d6eb0b129b85e4946ead569007aa7a2a1f3655e730bec9eb9b39776fa9057d7",
+			"url": "https://upload.wikimedia.org/math/b/c/4/bc4d53b7653bc444d9809e2a24a21da2.png",
+				"previous": "Since result set may vary in size among different queries or systems, to compare performances the normalised version of DCG uses an ideal DCG. To this end, it sorts documents of a result list by relevance, producing an ideal DCG at position p (), which normalizes the score:",
+			"after": [],
+			"color": " "
+		}
+	}
+}

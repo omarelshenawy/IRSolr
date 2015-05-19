@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "26c6a493565731378e67e65380216db56a43b90aaca6c9dac24f0cebea8ca2e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Universal_property_tensor_product.png/200px-Universal_property_tensor_product.png",
+			"previous": [],
+				"after": "These rules ensure that the map f from the V Ã W to V â W that maps a tuple (v, w) to v â w is bilinear. The universality states that given any vector space X and any bilinear map gÂ : V Ã W â X, there exists a unique map u, shown in the diagram with a dotted arrow, whose composition with f equals g: u(v â w) = g(v, w).[44] This is called the universal property of the tensor product, an instance of the methodâmuch used in advanced abstract algebraâto indirectly define objects by specifying maps from or to this object.",
+			"color": " "
+		}
+	}
+}

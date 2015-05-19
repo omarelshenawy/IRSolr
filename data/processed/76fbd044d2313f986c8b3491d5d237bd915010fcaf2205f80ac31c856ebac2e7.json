@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "76fbd044d2313f986c8b3491d5d237bd915010fcaf2205f80ac31c856ebac2e7",
+			"url": "https://upload.wikimedia.org/math/2/8/4/28421f231bad8da7c46de23e8a1c6a04.png",
+			"previous": [
+				"Get",
+				"A computationally more convenient form follows by substituting into the trigonometric identity:"
+			],
+			"after": [
+				"Multiplying by 1+Îµ gives the result",
+				"This is the third step in the connection between time and position in the orbit."
+			],
+			"color": "gray|0.29945 grey|0.29945 dim|0.27292 gray|0.27292 dim|0.27292 grey|0.27292 dark|0.21283 gray|0.21283 dark|0.21283 grey|0.21283 silver|0.10053 light|0.051771 gray|0.051771 light|0.051771 grey|0.051771 gainsboro|0.03715 white|0.0063916 smoke|0.0063916 linen|0.0030659  "
+		}
+	}
+}

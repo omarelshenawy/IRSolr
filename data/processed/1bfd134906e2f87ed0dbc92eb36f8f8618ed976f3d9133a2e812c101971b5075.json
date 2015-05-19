@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bfd134906e2f87ed0dbc92eb36f8f8618ed976f3d9133a2e812c101971b5075",
+			"url": "https://upload.wikimedia.org/math/8/5/1/8515862fd766aea13074fed628ff2d7d.png",
+			"previous": [],
+				"after": "The sum, difference, product and quotient of two algebraic numbers is again algebraic (this fact can be demonstrated using the resultant), and the algebraic numbers therefore form a field, sometimes denoted by A (which may also denote the adele ring) or Q. Every root of a polynomial equation whose coefficients are algebraic numbers is again algebraic. This can be rephrased by saying that the field of algebraic numbers is algebraically closed. In fact, it is the smallest algebraically closed field containing the rationals, and is therefore called the algebraic closure of the rationals.",
+			"color": "gray|0.33305 grey|0.33305 dim|0.2675 gray|0.2675 dim|0.2675 grey|0.2675 dark|0.21611 gray|0.21611 dark|0.21611 grey|0.21611 silver|0.088627 light|0.04278 gray|0.04278 light|0.04278 grey|0.04278 gainsboro|0.029794 white|0.0055017 smoke|0.0055017 linen|0.0026684  "
+		}
+	}
+}

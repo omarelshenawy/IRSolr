@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4da767bda540f7d4e6a9e485d199e4209c7ea82135476680c69293ea1c08a2a9",
+			"url": "https://upload.wikimedia.org/math/f/4/4/f44ab8ab0b8f9e41dd730ff57edfcc87.png",
+			"previous": [
+				"For any complex function, both the independent variable and the dependent variable may be separated into real and imaginary parts:",
+				"A complex function is one in which the independent variable and the dependent variable are both complex numbers. More precisely, a complex function is a function whose domain and range are subsets of the complex plane."
+			],
+				"after": "In other words, the components of the function f(z),",
+			"color": "gray|0.34143 grey|0.34143 dark|0.2388 gray|0.2388 dark|0.2388 grey|0.2388 dim|0.20958 gray|0.20958 dim|0.20958 grey|0.20958 silver|0.1037 light|0.049325 gray|0.049325 light|0.049325 grey|0.049325 gainsboro|0.034078 white|0.005797 smoke|0.005797 linen|0.0027897 lavender|0.0025838 blush|0.0025838  "
+		}
+	}
+}

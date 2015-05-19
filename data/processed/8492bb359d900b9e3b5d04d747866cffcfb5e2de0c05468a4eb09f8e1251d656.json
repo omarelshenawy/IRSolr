@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8492bb359d900b9e3b5d04d747866cffcfb5e2de0c05468a4eb09f8e1251d656",
+			"url": "https://upload.wikimedia.org/math/1/7/1/171e94936706af3b0024697a285766ca.png",
+				"previous": "A prominent model was introduced by Piero Caldirola in 1980. In Caldirola's model, one chronon corresponds to about 6.27Ã10â24 seconds for an electron.[4] This is much longer than the Planck time, which is only about 5.39Ã10-44 seconds. The Planck time is a theoretical lower-bound on the length of time that could exist between two connected events, but it is not a quantization of time itself since there is no requirement that the time between two events be separated by a discrete number of Planck times. For example, ordered pairs of events (A, B) and (B, C) could each be separated by slightly more than 1 Planck time: this would produce a measurement limit of 1 Planck time between A and B or B and C, but a limit of 3 Planck times between A and C.[citation needed] Additionally, the Planck time is a universal quantization of time itself, whereas the chronon is a quantization of the evolution in a system along its world line. Consequently, the value of the chronon, like other quantized observables in quantum mechanics, is a function of the system under consideration, particularly its boundary conditions.[5] The value for the chronon, Î¸0, is calculated from:",
+				"after": "From this formula, it can be seen that the nature of the moving particle being considered must be specified since the value of the chronon depends on the particle's charge and mass.",
+			"color": "gray|0.2507 grey|0.2507 black|0.25049 dim|0.23523 gray|0.23523 dim|0.23523 grey|0.23523 dark|0.19125 gray|0.19125 dark|0.19125 grey|0.19125 silver|0.055475 light|0.015302 gray|0.015302 light|0.015302 grey|0.015302  "
+		}
+	}
+}

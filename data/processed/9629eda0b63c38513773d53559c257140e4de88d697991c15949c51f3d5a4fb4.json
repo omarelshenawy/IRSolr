@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9629eda0b63c38513773d53559c257140e4de88d697991c15949c51f3d5a4fb4",
+			"url": "https://upload.wikimedia.org/math/1/7/e/17e595c7eb014a0864d67f7230443e82.png",
+				"previous": "The metric tensor allows one to define the inner product of two vectors, which in turn allows one to assign a magnitude to the vector. Given the four-dimensional nature of spacetime the Minkowski metric Î· has components (valid in any inertial reference frame) which can be arranged in a 4 Ã 4 matrix:",
+				"after": "which is equal to its reciprocal, , in those frames. Throughout we use the signs as above, different authors use different conventions â see Minkowski metric alternative signs.",
+			"color": "black|0.36229 dim|0.22649 gray|0.22649 dim|0.22649 grey|0.22649 gray|0.19123 grey|0.19123 dark|0.15075 gray|0.15075 dark|0.15075 grey|0.15075 silver|0.050522 light|0.014059 gray|0.014059 light|0.014059 grey|0.014059 gainsboro|0.00455  "
+		}
+	}
+}

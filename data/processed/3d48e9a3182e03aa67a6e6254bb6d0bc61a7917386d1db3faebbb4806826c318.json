@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d48e9a3182e03aa67a6e6254bb6d0bc61a7917386d1db3faebbb4806826c318",
+			"url": "https://upload.wikimedia.org/math/d/f/d/dfdca79810d8f53b77ce1c303c9607f3.png",
+				"previous": "The measure is therefore always proportional to the unit pseudoscalar of a k-dimensional subspace of the vector space. Compare the Riemannian volume form in the theory of differential forms. The integral is taken with respect to this measure:",
+				"after": "More formally, consider some directed volume V of the subspace. We may divide this volume into a sum of simplices. Let be the coordinates of the vertices. At each vertex we assign a measure as the average measure of the simplices sharing the vertex. Then the integral of F(x) with respect to U(x) over this volume is obtained in the limit of finer partitioning of the volume into smaller simplices:",
+			"color": "dim|0.38317 gray|0.38317 dim|0.38317 grey|0.38317 gray|0.28511 grey|0.28511 dark|0.18324 gray|0.18324 dark|0.18324 grey|0.18324 silver|0.074142 light|0.035358 gray|0.035358 light|0.035358 grey|0.035358 gainsboro|0.023707 white|0.0038547 smoke|0.0038547  "
+		}
+	}
+}

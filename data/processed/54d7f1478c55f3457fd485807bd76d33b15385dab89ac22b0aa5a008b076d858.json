@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "54d7f1478c55f3457fd485807bd76d33b15385dab89ac22b0aa5a008b076d858",
+			"url": "https://upload.wikimedia.org/math/8/8/7/8877eabe40d81f0d08237d9eb800a949.png",
+				"previous": "The Euclidean distance between two objects may also be generalized to the case where the objects are no longer points but are higher-dimensional manifolds, such as space curves, so in addition to talking about distance between two points one can discuss concepts of distance between two strings. Since the new objects that are dealt with are extended objects (not points anymore) additional concepts such as non-extensibility, curvature constraints, and non-local interactions that enforce non-crossing become central to the notion of distance. The distance between the two manifolds is the scalar quantity that results from minimizing the generalized distance functional, which represents a transformation between the two manifolds:",
+				"after": "The above double integral is the generalized distance functional between two plymer conformation. is a spatial parameter and is pseudo-time. This means that is the polymer/string conformation at time and is parameterized along the string length by . Similarly is the trajectory of an infinitesimal segment of the string during transformation of the entire string from conformation to conformation . The term with cofactor is a Lagrange multiplier and its role is to ensure that the length of the polymer remains the same during the transformation. If two discrete polymers are inextensible, then the minimal-distance transformation between them no longer involves purely straight-line motion, even on a Euclidean metric. There is a potential application of such generalized distance to the problem of protein folding[1][2] This generalized distance is analogous to the Nambu-Goto action in string theory, however there is no exact correspondence because the Euclidean distance in 3-space is inequivalent to the space-time distance minimized for the classical relativistic string.",
+			"color": "dim|0.40479 gray|0.40479 dim|0.40479 grey|0.40479 gray|0.29309 grey|0.29309 dark|0.16639 gray|0.16639 dark|0.16639 grey|0.16639 silver|0.069236 light|0.031184 gray|0.031184 light|0.031184 grey|0.031184 gainsboro|0.021991 white|0.0033134 smoke|0.0033134  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "18572c0a055b7a1957d7f66d58421c6d07f84ba32653f641c2f3b641671939ee",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Stepper_motor.svg/220px-Stepper_motor.svg.png",
+			"previous": [],
+				"after": "Stepper motors are a type of motor frequently used when precise rotations are required. In a stepper motor an internal rotor containing PMs or a magnetically soft rotor with salient poles is controlled by a set of external magnets that are switched electronically. A stepper motor may also be thought of as a cross between a DC electric motor and a rotary solenoid. As each coil is energized in turn, the rotor aligns itself with the magnetic field produced by the energized field winding. Unlike a synchronous motor, in its application, the stepper motor may not rotate continuously; instead, it \"steps\"âstarts and then quickly stops againâfrom one position to the next as field windings are energized and de-energized in sequence. Depending on the sequence, the rotor may turn forwards or backwards, and it may change direction, stop, speed up or slow down arbitrarily at any time.",
+			"color": "dark|0.22861 gray|0.22861 dark|0.22861 grey|0.22861 silver|0.19233 gray|0.075151 grey|0.075151 dim|0.069283 gray|0.069283 dim|0.069283 grey|0.069283 white|0.038193 smoke|0.038193 sea|0.0376 shell|0.0376 snow|0.036341 white|0.035783 ghost|0.035354 white|0.035354 alice|0.035215 blue|0.035215 floral|0.03519 white|0.03519 mint|0.034816 cream|0.034816 azure|0.032737 lavender|0.03256 blush|0.03256 light|0.018335 gray|0.018335 light|0.018335 grey|0.018335 gainsboro|0.012081 peach|0.010559 puff|0.010559 linen|0.0066484 ivory|0.004544 peru|0.0042513 old|0.0034299 lace|0.0034299 black|0.0032589 antique|0.0029552 white|0.0029552 bisque|0.0027905 misty|0.0027289 rose|0.0027289  "
+		}
+	}
+}

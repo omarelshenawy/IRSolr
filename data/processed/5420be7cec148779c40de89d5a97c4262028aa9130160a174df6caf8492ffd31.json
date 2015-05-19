@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "5420be7cec148779c40de89d5a97c4262028aa9130160a174df6caf8492ffd31",
+			"url": "https://upload.wikimedia.org/math/e/8/3/e8375cfccd01a8b9bddaf6c9dcc8c9be.png",
+				"previous": "In 1910, Peter Debye derived Planck's law of black-body radiation from a relatively simple assumption.[83] He correctly decomposed the electromagnetic field in a cavity into its Fourier modes, and assumed that the energy in any mode was an integer multiple of , where is the frequency of the electromagnetic mode. Planck's law of black-body radiation follows immediately as a geometric sum. However, Debye's approach failed to give the correct formula for the energy fluctuations of blackbody radiation, which were derived by Einstein in 1909.[40]",
+			"after": [],
+			"color": "black|0.57873 dim|0.17484 gray|0.17484 dim|0.17484 grey|0.17484 gray|0.11747 grey|0.11747 dark|0.066997 gray|0.066997 dark|0.066997 grey|0.066997 silver|0.028223 light|0.014399 gray|0.014399 light|0.014399 grey|0.014399 gainsboro|0.010749  "
+		}
+	}
+}

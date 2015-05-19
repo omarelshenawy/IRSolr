@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dbb507e8e9b7f7562c25f15905752ca8b81116267f3a4fa983be0a784bfb19f",
+			"url": "https://upload.wikimedia.org/math/9/6/6/966e27d89ce2b251b61038ae4af75329.png",
+				"previous": "Note that it makes a difference whether the algorithm is allowed to be sub-exponential in the size of the instance, the number of vertices, or the number of edges. In parameterized complexity, this difference is made explicit by considering pairs of decision problems and parameters k. SUBEPT is the class of all parameterized problems that run in time sub-exponential in k and polynomial in the input size n:[20]",
+			"after": [],
+			"color": "dim|0.38486 gray|0.38486 dim|0.38486 grey|0.38486 gray|0.30006 grey|0.30006 dark|0.16761 gray|0.16761 dark|0.16761 grey|0.16761 silver|0.069986 light|0.034093 gray|0.034093 light|0.034093 grey|0.034093 gainsboro|0.024128 white|0.0046783 smoke|0.0046783  "
+		}
+	}
+}

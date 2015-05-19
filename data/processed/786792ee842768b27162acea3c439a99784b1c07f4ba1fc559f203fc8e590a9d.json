@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "786792ee842768b27162acea3c439a99784b1c07f4ba1fc559f203fc8e590a9d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lineweaver-Burke_plot.svg/350px-Lineweaver-Burke_plot.svg.png",
+			"previous": [],
+				"after": "The plot of v versus [S] above is not linear; although initially linear at low [S], it bends over to saturate at high [S]. Before the modern era of nonlinear curve-fitting on computers, this nonlinearity could make it difficult to estimate KM and Vmax accurately. Therefore, several researchers developed linearisations of the MichaelisâMenten equation, such as the LineweaverâBurk plot, the EadieâHofstee diagram and the HanesâWoolf plot. All of these linear representations can be useful for visualising data, but none should be used to determine kinetic parameters, as computer software is readily available that allows for more accurate determination by nonlinear regression methods.[16]",
+			"color": "black|0.42426 dim|0.15076 gray|0.15076 dim|0.15076 grey|0.15076 gray|0.075024 grey|0.075024 dark|0.030724 gray|0.030724 dark|0.030724 grey|0.030724 ghost|0.025692 white|0.025692 snow|0.024962 white|0.024955 white|0.024936 smoke|0.024936 alice|0.024269 blue|0.024269 mint|0.023772 cream|0.023772 sea|0.023469 shell|0.023469 floral|0.023358 white|0.023358 azure|0.023127 lavender|0.020135 blush|0.020135 lavender|0.010491 medium|0.010003 slate|0.010003 blue|0.010003 silver|0.0082301 red|0.0066688 blue|0.0058749 ivory|0.0058169 misty|0.0053571 rose|0.0053571 pink|0.0053191 light|0.0052398 coral|0.0052398 light|0.004684 pink|0.004684 salmon|0.0034932  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f5956967021d3109b187faca552066e0a2dbdbed0c169ae8d0be2cf812377cd",
+			"url": "https://upload.wikimedia.org/math/e/2/5/e25b4b87853ee557cf69cd882d34db33.png",
+			"previous": [
+				"At Î¸ = 0Â°, perihelion, the distance is minimum",
+				"For an ellipse 0Â <Â ÎµÂ <Â 1Â ; in the limiting case Îµ = 0, the orbit is a circle with the sun at the centre (i.e. where there is no, or nil, eccentricity)."
+			],
+			"after": [
+				"At Î¸ = 90Â° and at Î¸ = 270Â° the distance is equal to .",
+				"At Î¸ = 180Â°, aphelion, the distance is maximum (by definition, aphelion is - invariably - perihelion plus 180Â°)"
+			],
+			"color": "dim|0.41511 gray|0.41511 dim|0.41511 grey|0.41511 gray|0.21563 grey|0.21563 dark|0.12861 gray|0.12861 dark|0.12861 grey|0.12861 black|0.11659 silver|0.058456 light|0.029569 gray|0.029569 light|0.029569 grey|0.029569 gainsboro|0.019894  "
+		}
+	}
+}

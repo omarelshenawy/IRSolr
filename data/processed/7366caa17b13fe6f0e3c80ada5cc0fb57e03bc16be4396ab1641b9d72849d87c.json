@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7366caa17b13fe6f0e3c80ada5cc0fb57e03bc16be4396ab1641b9d72849d87c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kiwix_on_a_Raspberry_Pi.webm/220px--Kiwix_on_a_Raspberry_Pi.webm.jpg",
+			"previous": [],
+			"after": [
+				"Kiwix is free software developed in order to offer an offline access to the content of any website, meaning it does not use any Internet connection.",
+				"It was firstly launched to give access to Wikipedia but then used to spread other kind of free content. The program is available for the following operating systems: Windows, Mac OS X, Linux and Android."
+			],
+			"color": "black|0.35969 light|0.26169 steel|0.26169 blue|0.26169 gray|0.084571 grey|0.084571 thistle|0.077556 dim|0.060788 gray|0.060788 dim|0.060788 grey|0.060788 light|0.04332 slate|0.04332 gray|0.04332 lavender|0.040413 slate|0.035455 gray|0.035455 dark|0.01884 gray|0.01884 dark|0.01884 grey|0.01884 silver|0.0093346  "
+		}
+	}
+}

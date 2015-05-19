@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "62b40c0049cfea5ff571bbc60344073ce156ca627d090bbe5b09b7f0900ad6f2",
+			"url": "https://upload.wikimedia.org/math/c/9/9/c99e1aeedff8e71f1f8a077574a721d6.png",
+				"previous": "There are several issues with this naive generalization. To see this, recall that the eigenvalues of a real matrix may in general be complex. The scalar coefficients of blades must be real, so these complex values are of no use. If we attempt to proceed with an analogy for these complex eigenvalues anyway, we know that in ordinary linear algebra, complex eigenvalues are associated with rotation matrices. However if the linear function is truly general, it could allow arbitrary exchanges among the different grades, such as a \"rotation\" of a scalar into a vector. This operation has no clear geometric interpretation.",
+				"after": "Often an invertible linear transformation from vectors to vectors is already of known interest. There is no unique way to generalize these transformations to the entire geometric algebra without further restriction. Even the restriction that the linear transformation be grade-preserving is not enough. We therefore desire a stronger rule, motivated by geometric interpretation, for generalizing these linear transformations of vectors in a standard way. The most natural choice is that of the outermorphism of the linear transformation because it extends the concepts of reflection and rotation straightforwardly. If f is a function that maps vectors to vectors, then its outermorphism is the function that obeys the rule",
+			"color": " "
+		}
+	}
+}

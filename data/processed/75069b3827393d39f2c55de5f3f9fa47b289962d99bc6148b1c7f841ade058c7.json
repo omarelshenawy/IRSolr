@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "75069b3827393d39f2c55de5f3f9fa47b289962d99bc6148b1c7f841ade058c7",
+			"url": "https://upload.wikimedia.org/math/5/a/e/5ae0c67a0c421ab0b976c45ab057a740.png",
+			"previous": [
+				"The actual discharge temperature of the compressor, assuming a polytropic efficiency is given by:",
+				"",
+				"However, friction and shock losses in the intake system must be accounted for:"
+			],
+			"after": [
+				"Normally a compressor pressure ratio is assumed, so:",
+				"",
+				"A turbine rotor inlet temperature is usually assumed:"
+			],
+			"color": "dim|0.34722 gray|0.34722 dim|0.34722 grey|0.34722 gray|0.29777 grey|0.29777 dark|0.18937 gray|0.18937 dark|0.18937 grey|0.18937 silver|0.07948 light|0.038573 gray|0.038573 light|0.038573 grey|0.038573 gainsboro|0.027332 white|0.0048354 smoke|0.0048354  "
+		}
+	}
+}

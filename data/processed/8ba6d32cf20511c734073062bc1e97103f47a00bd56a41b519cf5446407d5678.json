@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ba6d32cf20511c734073062bc1e97103f47a00bd56a41b519cf5446407d5678",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tangent_derivative_calculusdia.svg/300px-Tangent_derivative_calculusdia.svg.png",
+			"previous": [],
+				"after": "Differential calculus is the study of the definition, properties, and applications of the derivative of a function. The process of finding the derivative is called differentiation. Given a function and a point in the domain, the derivative at that point is a way of encoding the small-scale behavior of the function near that point. By finding the derivative of a function at every point in its domain, it is possible to produce a new function, called the derivative function or just the derivative of the original function. In mathematical jargon, the derivative is a linear operator which inputs a function and outputs a second function. This is more abstract than many of the processes studied in elementary algebra, where functions usually input a number and output another number. For example, if the doubling function is given the input three, then it outputs six, and if the squaring function is given the input three, then it outputs nine. The derivative, however, can take the squaring function as an input. This means that the derivative takes all the information of the squaring functionâsuch as that two is sent to four, three is sent to nine, four is sent to sixteen, and so onâand uses this information to produce another function. (The function it produces turns out to be the doubling function.)",
+			"color": "dark|0.11331 gray|0.11331 dark|0.11331 grey|0.11331 blue|0.087938 gray|0.077992 grey|0.077992 silver|0.063026 white|0.053781 smoke|0.053781 ghost|0.052036 white|0.052036 alice|0.051047 blue|0.051047 snow|0.050964 white|0.050821 sea|0.049026 shell|0.049026 mint|0.04833 cream|0.04833 lavender|0.047538 blush|0.047538 floral|0.046268 white|0.046268 azure|0.044486 light|0.041456 gray|0.041456 light|0.041456 grey|0.041456 dim|0.031658 gray|0.031658 dim|0.031658 grey|0.031658 black|0.023962 gainsboro|0.021383 lavender|0.015458 medium|0.010178 slate|0.010178 blue|0.010178 linen|0.006719 ivory|0.0046871  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d0943e804df52993cd7a8e32c47807e4a84152b8513e4a709befee723c91bbb",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Cuckoo_strikes_the_8th_hour.ogv/220px--Cuckoo_strikes_the_8th_hour.ogv.jpg",
+				"previous": "This counts the pulses and adds them up to get traditional time units of seconds, minutes, hours, etc. It usually has a provision for setting the clock by manually entering the correct time into the counter.",
+				"after": "This displays the count of seconds, minutes, hours, etc. in a human readable form.",
+			"color": "gold|0.44505 black|0.21735 saddle|0.1688 brown|0.1688 chocolate|0.062761 sienna|0.034832 maroon|0.028837  "
+		}
+	}
+}

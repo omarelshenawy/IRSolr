@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a91b7754ae6cce833b11dbe7c6c6f2d26d4f4f9244f3f2b0d3bf1300f5a24d0",
+			"url": "https://upload.wikimedia.org/math/8/d/8/8d83a6b475cf5e3a65bc4977cc9b6a03.png",
+			"previous": [
+				"where",
+				"This hypothesis allows to infer those two measures - the variogram and the covariogram - based on the samples:"
+			],
+			"after": [
+				"",
+				"The weights are intended to summarize two extremely important procedures in a spatial inference process:",
+				"When calculating the weights , there are two objectives in the geostatistical formalism: unbias and minimal variance of estimation."
+			],
+			"color": "dim|0.31895 gray|0.31895 dim|0.31895 grey|0.31895 gray|0.28888 grey|0.28888 dark|0.18405 gray|0.18405 dark|0.18405 grey|0.18405 black|0.076714 silver|0.061929 light|0.031362 gray|0.031362 light|0.031362 grey|0.031362 gainsboro|0.021245 white|0.003476 smoke|0.003476  "
+		}
+	}
+}

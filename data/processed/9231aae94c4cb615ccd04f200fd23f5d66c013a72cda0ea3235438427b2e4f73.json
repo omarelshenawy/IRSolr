@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9231aae94c4cb615ccd04f200fd23f5d66c013a72cda0ea3235438427b2e4f73",
+			"url": "https://upload.wikimedia.org/math/5/2/e/52e858818a106466b5e8f6aa54152a11.png",
+				"previous": "The left eigenvectors of are transposes of the right eigenvectors of the transposed matrix , since their defining equation is equivalent to",
+				"after": "It follows that, if is Hermitian, its left and right eigenvectors are complex conjugates. In particular if is a real symmetric matrix, they are the same except for transposition.",
+			"color": "dim|0.38799 gray|0.38799 dim|0.38799 grey|0.38799 gray|0.21135 grey|0.21135 black|0.17634 dark|0.11492 gray|0.11492 dark|0.11492 grey|0.11492 silver|0.051176 light|0.025977 gray|0.025977 light|0.025977 grey|0.025977 gainsboro|0.018744  "
+		}
+	}
+}

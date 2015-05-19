@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e385f790900e0b21163513854fa7729e62ba79137260ddcf0d5d2a1c60b410b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AudacityScreenshotLinux.png/220px-AudacityScreenshotLinux.png",
+				"previous": "The FSF list is not prescriptive: free licenses can exist that the FSF has not heard about, or considered important enough to write about. So it's possible for a license to be free and not in the FSF list. The OSI list only lists licenses that have been submitted, considered and approved. All open-source licenses must meet the Open Source Definition in order to be officially recognized as open source software. Free software on the other hand is a more informal classification that does not rely on official recognition. Nevertheless, software licensed under licenses that do not meet the Free Software Definition cannot rightly be considered free software.",
+				"after": "Apart from these two organizations, the Debian project is seen by some to provide useful advice on whether particular licenses comply with their Debian Free Software Guidelines. Debian doesn't publish a list of approved licenses, so its judgments have to be tracked by checking what software they have allowed into their software archives. That is summarized at the Debian web site.[21]",
+			"color": "light|0.16021 slate|0.16021 gray|0.16021 slate|0.14186 blue|0.14186 gray|0.07303 grey|0.07303 dark|0.058274 gray|0.058274 dark|0.058274 grey|0.058274 royal|0.04844 blue|0.04844 white|0.042462 smoke|0.042462 ghost|0.04159 white|0.04159 alice|0.041585 blue|0.041585 snow|0.041561 sea|0.04145 shell|0.04145 lavender|0.040888 blush|0.040888 white|0.040875 mint|0.038914 cream|0.038914 slate|0.036317 gray|0.036317 floral|0.035182 white|0.035182 azure|0.031849 dark|0.017087 orchid|0.017087 silver|0.014615 medium|0.01209 slate|0.01209 blue|0.01209 dim|0.010485 gray|0.010485 dim|0.010485 grey|0.010485 linen|0.010337 gainsboro|0.0077806  "
+		}
+	}
+}

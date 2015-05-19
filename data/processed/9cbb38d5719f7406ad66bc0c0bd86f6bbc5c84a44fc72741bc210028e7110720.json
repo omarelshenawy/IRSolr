@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cbb38d5719f7406ad66bc0c0bd86f6bbc5c84a44fc72741bc210028e7110720",
+			"url": "https://upload.wikimedia.org/math/8/2/2/82291d3ac09c2ff5164bb27adb378c6d.png",
+			"previous": [],
+				"after": "For this reason, in functional analysis one defines the spectrum of a linear operator as the set of all scalars for which the operator has no bounded inverse. Thus the spectrum of an operator always contains all its eigenvalues, but is not limited to them.",
+			"color": "dim|0.35181 gray|0.35181 dim|0.35181 grey|0.35181 gray|0.28344 grey|0.28344 dark|0.17836 gray|0.17836 dark|0.17836 grey|0.17836 silver|0.09112 light|0.047172 gray|0.047172 light|0.047172 grey|0.047172 gainsboro|0.032522 white|0.0038761 smoke|0.0038761  "
+		}
+	}
+}

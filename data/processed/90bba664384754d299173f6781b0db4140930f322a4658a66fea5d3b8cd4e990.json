@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "90bba664384754d299173f6781b0db4140930f322a4658a66fea5d3b8cd4e990",
+			"url": "https://upload.wikimedia.org/math/d/7/0/d70ec972e397b9e439e7e0cd7b7fddb0.png",
+			"previous": [
+				"If a system in question has an impulse response of",
+				"When the appropriate conditions above are satisfied a system is said to be asymptotically stable: the variables of an asymptotically stable control system always decrease from their initial value and do not show permanent oscillations. Permanent oscillations occur when a pole has a real part exactly equal to zero (in the continuous time case) or a modulus equal to one (in the discrete time case). If a simply stable system response neither decays nor grows over time, and has no oscillations, it is marginally stable: in this case the system transfer function has non-repeated poles at complex plane origin (i.e. their real and complex component is zero in the continuous time case). Oscillations are present when poles with real part equal to zero have an imaginary part not equal to zero."
+			],
+				"after": "then the Z-transform (see this example), is given by",
+			"color": "gray|0.26394 grey|0.26394 dim|0.25045 gray|0.25045 dim|0.25045 grey|0.25045 dark|0.18617 gray|0.18617 dark|0.18617 grey|0.18617 silver|0.09322 light|0.060602 gray|0.060602 light|0.060602 grey|0.060602 gainsboro|0.047361 white|0.018661 smoke|0.018661 lavender|0.011189 blush|0.011189 alice|0.010016 blue|0.010016 ghost|0.0098265 white|0.0098265 sea|0.009695 shell|0.009695 snow|0.0096465 linen|0.0086986 white|0.0075231 mint|0.0055249 cream|0.0055249 floral|0.0044422 white|0.0044422 azure|0.0030349  "
+		}
+	}
+}

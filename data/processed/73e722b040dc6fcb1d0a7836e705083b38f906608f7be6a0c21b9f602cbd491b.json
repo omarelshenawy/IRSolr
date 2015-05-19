@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "73e722b040dc6fcb1d0a7836e705083b38f906608f7be6a0c21b9f602cbd491b",
+			"url": "https://upload.wikimedia.org/math/3/e/6/3e61f4738d040f40016489a67e01b0ce.png",
+			"previous": [
+				"Eigenvalue problems in higher dimensions are defined in analogy with the one-dimensional case. For example, given a domain D with boundary B in three dimensions we may define",
+				"These latter conditions are the natural boundary conditions for this problem, since they are not imposed on trial functions for the minimization, but are instead a consequence of the minimization."
+			],
+			"after": [
+				"and",
+				"Let u be the function that minimizes the quotient with no condition prescribed on the boundary B. The EulerâLagrange equation satisfied by u is"
+			],
+			"color": "dim|0.34071 gray|0.34071 dim|0.34071 grey|0.34071 gray|0.30057 grey|0.30057 dark|0.19659 gray|0.19659 dark|0.19659 grey|0.19659 silver|0.081193 light|0.03694 gray|0.03694 light|0.03694 grey|0.03694 gainsboro|0.026049 white|0.0044014 smoke|0.0044014  "
+		}
+	}
+}

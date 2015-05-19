@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f41e05c233e452047ad571c999db0dfd7593c8a62dfb9afbed4da7a3631bb07",
+			"url": "https://upload.wikimedia.org/math/f/e/b/feb7673508faa870b6a938aad946ba2a.png",
+				"previous": "Depending on the stochastic properties of the random field and the various degrees of stationarity assumed, different methods for calculating the weights can be deducted, i.e. different types of kriging apply. Classical methods are:",
+			"after": [
+				"In order to deduce the Kriging system for the assumptions of the model, the following error committed while estimating in is declared:",
+				"The two quality criteria referred to previously can now be expressed in terms of the mean and variance of the new random variable :"
+			],
+			"color": " "
+		}
+	}
+}

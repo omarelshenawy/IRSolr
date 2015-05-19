@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9abc619474da79465cb6e322560d89a4a492d675140b9b33630914b935330ecc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Commontime_inline.png/11px-Commontime_inline.png",
+			"previous": [
+				"The most common simple time signatures are 2 4, 3 4, and 4 4.",
+				"For instance, 2 4 means two quarter-note (crotchet) beats per barâ3 8 means three eighth-note (quaver) beats per bar."
+			],
+				"after": "In compound meter, subdivisions of the main beat (the upper number) split into three, not two, equal parts, so that a dotted note (half again longer than a regular note) becomes the beat unit. Compound time signatures are named as if they were simple time signatures, in which the one-third part of the beat unit is the beat, so the top number is commonly 6, 9 or 12 (multiples of 3). The lower number is most commonly an 8 (an eighth-note): as in 9 8 or 12 8.",
+			"color": "black|0.16698 gray|0.099786 grey|0.099786 dark|0.098587 gray|0.098587 dark|0.098587 grey|0.098587 dim|0.073262 gray|0.073262 dim|0.073262 grey|0.073262 silver|0.05409 white|0.047695 smoke|0.047695 alice|0.043622 blue|0.043622 ghost|0.043464 white|0.043464 sea|0.04319 shell|0.04319 snow|0.042997 white|0.041769 mint|0.04025 cream|0.04025 light|0.039414 gray|0.039414 light|0.039414 grey|0.039414 floral|0.039182 white|0.039182 azure|0.037913 lavender|0.03287 blush|0.03287 gainsboro|0.032866 ivory|0.01048 linen|0.0071363 slate|0.0031159 gray|0.0031159  "
+		}
+	}
+}

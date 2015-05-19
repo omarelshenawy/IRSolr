@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "23a11febf6997f5425f718a5f228326d80db889dc14df2438dc3aeb196903603",
+			"url": "https://upload.wikimedia.org/math/0/9/1/091568f721f862c14ae53ba6e2c92c52.png",
+			"previous": [
+				"(where are positive), we have",
+				"The rationals are a densely ordered set: between any two rationals, there sits another one, and, therefore, infinitely many other ones. For example, for any two fractions such that"
+			],
+			"after": [
+				"Any totally ordered set which is countable, dense (in the above sense), and has no least or greatest element is order isomorphic to the rational numbers.",
+				"The rationals are a dense subset of the real numbers: every real number has rational numbers arbitrarily close to it. A related property is that rational numbers are the only numbers with finite expansions as regular continued fractions."
+			],
+			"color": "black|0.31186 dim|0.28506 gray|0.28506 dim|0.28506 grey|0.28506 gray|0.19269 grey|0.19269 dark|0.11637 gray|0.11637 dark|0.11637 grey|0.11637 silver|0.047246 light|0.021776 gray|0.021776 light|0.021776 grey|0.021776 gainsboro|0.014639  "
+		}
+	}
+}

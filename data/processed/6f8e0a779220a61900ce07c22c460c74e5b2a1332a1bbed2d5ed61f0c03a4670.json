@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f8e0a779220a61900ce07c22c460c74e5b2a1332a1bbed2d5ed61f0c03a4670",
+			"url": "https://upload.wikimedia.org/math/2/3/6/23655060566abfd4314b61c0f39b6044.png",
+				"previous": "The above double integral is the generalized distance functional between two plymer conformation. is a spatial parameter and is pseudo-time. This means that is the polymer/string conformation at time and is parameterized along the string length by . Similarly is the trajectory of an infinitesimal segment of the string during transformation of the entire string from conformation to conformation . The term with cofactor is a Lagrange multiplier and its role is to ensure that the length of the polymer remains the same during the transformation. If two discrete polymers are inextensible, then the minimal-distance transformation between them no longer involves purely straight-line motion, even on a Euclidean metric. There is a potential application of such generalized distance to the problem of protein folding[1][2] This generalized distance is analogous to the Nambu-Goto action in string theory, however there is no exact correspondence because the Euclidean distance in 3-space is inequivalent to the space-time distance minimized for the classical relativistic string.",
+				"after": "In mathematics, in particular geometry, a distance function on a given set M is a function d: M Ã M â R, where R denotes the set of real numbers, that satisfies the following conditions:",
+			"color": "gray|0.31154 grey|0.31154 dark|0.24697 gray|0.24697 dark|0.24697 grey|0.24697 dim|0.21381 gray|0.21381 dim|0.21381 grey|0.21381 silver|0.10948 light|0.054071 gray|0.054071 light|0.054071 grey|0.054071 gainsboro|0.037807 white|0.0059274 smoke|0.0059274 black|0.0034248 linen|0.0031207  "
+		}
+	}
+}

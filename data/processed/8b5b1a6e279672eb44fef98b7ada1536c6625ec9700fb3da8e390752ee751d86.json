@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b5b1a6e279672eb44fef98b7ada1536c6625ec9700fb3da8e390752ee751d86",
+			"url": "https://upload.wikimedia.org/math/0/1/a/01a6fae9a049ed1d98e54d6e2934da91.png",
+			"previous": [
+				"",
+				"The intersection of and can be found by solving the simultaneous equations:"
+			],
+			"after": [
+				"Traditional methods for finding intersections include substitution and elimination.",
+				"Substitution: Solve the first equation for in terms of and then substitute the expression for into the second equation."
+			],
+			"color": "dim|0.36395 gray|0.36395 dim|0.36395 grey|0.36395 gray|0.27436 grey|0.27436 dark|0.18286 gray|0.18286 dark|0.18286 grey|0.18286 silver|0.086287 light|0.043276 gray|0.043276 light|0.043276 grey|0.043276 gainsboro|0.03119 white|0.0047308 smoke|0.0047308  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "84a3510f2b63f9e9cb9ce52eca35f4e38212a92f6c8b5c2b3f692be9e36ebec2",
+			"url": "https://upload.wikimedia.org/math/9/d/d/9dd44594057365955adf6c2a0e27f03d.png",
+			"previous": [
+				"Since the exponential factor is common to all terms, we omit it and simplify:",
+				"Substituting these into the equations of motion gives us:"
+			],
+			"after": [
+				"And in matrix representation:",
+				"For this to be generically true for any amplitude, the matrix on the left must be singular i.e. must not be invertible, such that one cannot multiply both sides of the equation by the inverse, leaving the right matrix equal to zero. It follows that the determinant of the matrix must be equal to 0, so:"
+			],
+			"color": "dim|0.3604 gray|0.3604 dim|0.3604 grey|0.3604 gray|0.28207 grey|0.28207 dark|0.17496 gray|0.17496 dark|0.17496 grey|0.17496 silver|0.084423 light|0.043846 gray|0.043846 light|0.043846 grey|0.043846 gainsboro|0.031075 white|0.0052992 smoke|0.0052992  "
+		}
+	}
+}

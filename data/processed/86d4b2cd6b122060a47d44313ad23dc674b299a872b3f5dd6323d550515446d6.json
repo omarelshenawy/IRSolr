@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "86d4b2cd6b122060a47d44313ad23dc674b299a872b3f5dd6323d550515446d6",
+			"url": "https://upload.wikimedia.org/math/3/2/f/32fa2e6a34b49c72cf16575588367217.png",
+			"previous": [
+				"These statements generalize to any left-module RM over a ring R without modification, and to any right-module upon reversing of the scalar multiplication.",
+				"A linear map from V to K (with K viewed as a vector space over itself) is called a linear functional."
+			],
+				"after": "If V and W are finite-dimensional vector spaces and a basis is defined for each vector space, then every linear map from V to W can be represented by a matrix. This is useful because it allows concrete calculations. Matrices yield examples of linear maps: if A is a real m Ã n matrix, then f(x) = Ax describes a linear map Rn â Rm (see Euclidean space).",
+			"color": "gray|0.3214 grey|0.3214 dim|0.24784 gray|0.24784 dim|0.24784 grey|0.24784 dark|0.21872 gray|0.21872 dark|0.21872 grey|0.21872 silver|0.098997 light|0.052183 gray|0.052183 light|0.052183 grey|0.052183 gainsboro|0.03641 white|0.0063281 smoke|0.0063281 linen|0.0030621 lavender|0.0026707 blush|0.0026707 alice|0.002571 blue|0.002571  "
+		}
+	}
+}

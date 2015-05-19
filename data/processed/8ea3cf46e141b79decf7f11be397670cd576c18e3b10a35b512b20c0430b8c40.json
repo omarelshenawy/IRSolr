@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ea3cf46e141b79decf7f11be397670cd576c18e3b10a35b512b20c0430b8c40",
+			"url": "https://upload.wikimedia.org/math/4/9/1/4915f6560f256c666a59a254b39e8c68.png",
+				"previous": "By standardizing, we get a random variable:",
+				"after": "dependent on the parameter Î¼ to be estimated, but with a standard normal distribution independent of the parameterÂ Î¼. Hence it is possible to find numbers âz and z, independent ofÂ Î¼, between which Z lies with probability 1Â âÂ Î±, a measure of how confident we want to be.",
+			"color": "dim|0.34921 gray|0.34921 dim|0.34921 grey|0.34921 gray|0.28414 grey|0.28414 dark|0.18967 gray|0.18967 dark|0.18967 grey|0.18967 silver|0.0869 light|0.042961 gray|0.042961 light|0.042961 grey|0.042961 gainsboro|0.030125 white|0.004565 smoke|0.004565  "
+		}
+	}
+}

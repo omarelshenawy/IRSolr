@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "803e3240cad63a6543d0952533972d37d8aee9da589929a7a6cf7ce2205df516",
+			"url": "https://upload.wikimedia.org/math/e/c/c/ecca829d9e8092dd447a32aab904e1f9.png",
+			"previous": [
+				"There are also two triple products:",
+				"The basic algebraic (non-differential) operations in vector calculus are referred to as vector algebra, being defined for a vector space and then globally applied to a vector field, and consist of:"
+			],
+				"after": "although these are less often used as basic operations, as they can be expressed in terms of the dot and cross products.",
+			"color": "dim|0.37767 gray|0.37767 dim|0.37767 grey|0.37767 gray|0.2917 grey|0.2917 dark|0.17795 gray|0.17795 dark|0.17795 grey|0.17795 silver|0.074249 light|0.036295 gray|0.036295 light|0.036295 grey|0.036295 gainsboro|0.025812 white|0.0044 smoke|0.0044  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "97ee01409068c2806def7d812fd5d7a7d6d8bfc7b92dfb305133259a3d09baa4",
+			"url": "https://upload.wikimedia.org/math/3/a/0/3a0ac1f70a96cbae23698aef1c5fa6ac.png",
+				"previous": "where rp is the leading edge of the pulse. If we assume lp2 is small and can be neglected then we can solve for rp as:",
+				"after": "The time evolution of the return power measured from the footprint of the radar signal reflecting off the ocean/land surface can be described in three parts: (1) the time before the pulse arrives, (2) the time after the beginning of the pulses arrival and before of the tail of the pulse has arrived, and (3) after the tail of the pulse has arrived. The power function can then be expressed functionally as:",
+			"color": "dim|0.35851 gray|0.35851 dim|0.35851 grey|0.35851 gray|0.31413 grey|0.31413 dark|0.18798 gray|0.18798 dark|0.18798 grey|0.18798 silver|0.069398 light|0.031483 gray|0.031483 light|0.031483 grey|0.031483 gainsboro|0.021401 white|0.0038403 smoke|0.0038403  "
+		}
+	}
+}

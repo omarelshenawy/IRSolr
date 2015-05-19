@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "17c17fe588dafd87339c81b7fe91ff163b2bf9713f97fe284135b76e8c2731d5",
+			"url": "https://upload.wikimedia.org/math/b/b/b/bbb977d2b62392b210c71090abe9fea5.png",
+			"previous": [
+				"for Î±j all different,",
+				"Since Î±j are the solutions of the polynomial of degree n: , then:"
+			],
+			"after": [
+				"for each root Î±j repeated kj times,",
+				"",
+				"for some Î±j complex, then setting Î± = Ïj + iÎ³j, and using Euler's formula, allows some terms in the previous results to be written in the form"
+			],
+			"color": "dim|0.33759 gray|0.33759 dim|0.33759 grey|0.33759 gray|0.28527 grey|0.28527 dark|0.22151 gray|0.22151 dark|0.22151 grey|0.22151 silver|0.085153 light|0.033368 gray|0.033368 light|0.033368 grey|0.033368 gainsboro|0.023491 white|0.0046329 smoke|0.0046329  "
+		}
+	}
+}

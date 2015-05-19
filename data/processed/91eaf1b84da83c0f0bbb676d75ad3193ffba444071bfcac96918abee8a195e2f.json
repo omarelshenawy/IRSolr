@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "91eaf1b84da83c0f0bbb676d75ad3193ffba444071bfcac96918abee8a195e2f",
+			"url": "https://upload.wikimedia.org/math/6/b/4/6b4e3b753078cdc9ad63463231f1dd99.png",
+				"previous": "This leads to the question of how to determine the coordinates of a vector x relative to a general basis v and w in E. Assume that we know the coordinates of the vectors, x, v and w in the natural basis i=(1,0) and j =(0,1). Our goal is two find the real numbers Î±, Î², so that x=Î±v+Î²w, that is",
+				"after": "To solve this equation for Î±, Î², we compute the linear coordinate functionals Ï and Ï for the basis v, w, which are given by,[21]",
+			"color": "dark|0.30522 gray|0.30522 dark|0.30522 grey|0.30522 gray|0.27571 grey|0.27571 dim|0.14104 gray|0.14104 dim|0.14104 grey|0.14104 silver|0.12836 light|0.059258 gray|0.059258 light|0.059258 grey|0.059258 gainsboro|0.047487 white|0.0088005 smoke|0.0088005 linen|0.0064622 lavender|0.005958 blush|0.005958 alice|0.0057781 blue|0.0057781 ghost|0.0056496 white|0.0056496 sea|0.0055395 shell|0.0055395 snow|0.0033875  "
+		}
+	}
+}

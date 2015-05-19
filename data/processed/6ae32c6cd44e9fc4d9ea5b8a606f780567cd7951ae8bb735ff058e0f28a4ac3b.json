@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ae32c6cd44e9fc4d9ea5b8a606f780567cd7951ae8bb735ff058e0f28a4ac3b",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/WindowsCE7.png/250px-WindowsCE7.png",
+			"previous": [],
+				"after": "Windows CE (officially known as Windows Embedded Compact), is an edition of Windows that runs on minimalistic computers, like satellite navigation systems and some mobile phones. Windows Embedded Compact is based on its own dedicated kernel, dubbed Windows CE kernel. Microsoft licenses Windows CE to OEMs and device makers. The OEMs and device makers can modify and create their own user interfaces and experiences, while Windows CE provides the technical foundation to do so.",
+			"color": "indigo|0.45678 thistle|0.1237 black|0.10064 lavender|0.053598  "
+		}
+	}
+}

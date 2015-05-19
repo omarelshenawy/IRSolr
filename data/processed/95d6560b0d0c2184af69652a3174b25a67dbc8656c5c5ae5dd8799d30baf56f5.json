@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "95d6560b0d0c2184af69652a3174b25a67dbc8656c5c5ae5dd8799d30baf56f5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tim_Starling_June08.jpg/220px-Tim_Starling_June08.jpg",
+			"previous": [],
+				"after": "Among the most popular extensions is a parser function extension, ParserFunctions, that allows different content to be rendered based on the result of conditional statements.[96] These conditional statements can perform functions such as evaluating whether a parameter is empty, comparing strings, evaluating mathematical expressions, and returning one of two values depending on whether a page exists. It was designed as a replacement for a notoriously inefficient template called {{Qif}}.[97] Schindler recounts the history of the ParserFunctions extension as follows:[25]",
+			"color": "dark|0.25716 gray|0.25716 dark|0.25716 grey|0.25716 black|0.2065 silver|0.1963 dim|0.12812 gray|0.12812 dim|0.12812 grey|0.12812 misty|0.053474 rose|0.053474 light|0.028103 gray|0.028103 light|0.028103 grey|0.028103 gray|0.024704 grey|0.024704 cadet|0.019511 blue|0.019511 antique|0.015968 white|0.015968 peach|0.013512 puff|0.013512 rosy|0.0086715 brown|0.0086715 linen|0.0082168  "
+		}
+	}
+}

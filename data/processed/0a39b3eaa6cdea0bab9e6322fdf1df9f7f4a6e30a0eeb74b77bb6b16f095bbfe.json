@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a39b3eaa6cdea0bab9e6322fdf1df9f7f4a6e30a0eeb74b77bb6b16f095bbfe",
+			"url": "https://upload.wikimedia.org/math/c/9/7/c97c9c5521468d113601b061024f473e.png",
+				"previous": "Given a probability space and a measurable space , an S-valued stochastic process is a collection of S-valued random variables on , indexed by a totally ordered set T (\"time\"). That is, a stochastic process X is a collection",
+				"after": "where each is an S-valued random variable on . The space S is then called the state space of the process.",
+			"color": "dim|0.32723 gray|0.32723 dim|0.32723 grey|0.32723 gray|0.29479 grey|0.29479 dark|0.1932 gray|0.1932 dark|0.1932 grey|0.1932 silver|0.086736 light|0.044098 gray|0.044098 light|0.044098 grey|0.044098 gainsboro|0.030858 white|0.0054327 smoke|0.0054327  "
+		}
+	}
+}

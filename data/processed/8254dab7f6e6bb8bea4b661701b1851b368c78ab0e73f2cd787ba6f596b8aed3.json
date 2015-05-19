@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8254dab7f6e6bb8bea4b661701b1851b368c78ab0e73f2cd787ba6f596b8aed3",
+			"url": "https://upload.wikimedia.org/math/b/d/b/bdbbdd50f07e9fa49eb834e048576756.png",
+			"previous": [
+				"If and and thus also at least three roots are equal, and the roots are rational functions of the coefficients.",
+				"If then one must change the choice of the cubic root in for having This is always possible except if the quartic may be factored into The result is then correct, but misleading hiding the fact that no cubic root is needed in this case. In fact this case may occur only if the numerator of is zero, and the associated depressed quartic is biquadratic; it may thus be solved by the method described below."
+			],
+			"after": [],
+			"color": "dim|0.33528 gray|0.33528 dim|0.33528 grey|0.33528 black|0.26733 gray|0.19988 grey|0.19988 dark|0.10351 gray|0.10351 dark|0.10351 grey|0.10351 silver|0.051019 light|0.023834 gray|0.023834 light|0.023834 grey|0.023834 gainsboro|0.014389  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a385a6aefff8ac93a27d439efb035e93927a6a2011c549fd3bdf9a68fb34d38",
+			"url": "https://upload.wikimedia.org/math/3/8/f/38f6f55349d709d7fc086fd811295515.png",
+			"previous": [
+				"The calculated Lift coefficient depends only on the first two terms of the Fourier series, as",
+				"and its moment M about the leading edge to"
+			],
+			"after": [
+				"The moment about the 1/4 chord point will thus be,",
+				"From this it follows that the center of pressure is aft of the 'quarter-chord' point 0.25 c, by"
+			],
+			"color": "dim|0.3436 gray|0.3436 dim|0.3436 grey|0.3436 gray|0.27471 grey|0.27471 dark|0.18826 gray|0.18826 dark|0.18826 grey|0.18826 silver|0.091804 light|0.048785 gray|0.048785 light|0.048785 grey|0.048785 gainsboro|0.033677 white|0.0041237 smoke|0.0041237  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "37ca3dd513c51c4a90fb702cb0cbe7dd140f629dad62566363e6c2a94fb22298",
+			"url": "https://upload.wikimedia.org/math/1/c/d/1cd7ae30122d40383867a5609f1de332.png",
+				"previous": "Note that with Equation (2), we have and , while in Cardano's method we have set and Thus we have, up to the exchange of and :",
+				"after": "In other words, in this case, Cardano's and Lagrange's method compute exactly the same things, up to a factor of three in the auxiliary variables, the main difference being that Lagrange's method explains why these auxiliary variables appear in the problem.",
+			"color": "dim|0.38361 gray|0.38361 dim|0.38361 grey|0.38361 gray|0.28577 grey|0.28577 dark|0.17301 gray|0.17301 dark|0.17301 grey|0.17301 silver|0.076884 light|0.039456 gray|0.039456 light|0.039456 grey|0.039456 gainsboro|0.028374 white|0.0034929 smoke|0.0034929  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "70755aaf4e3ed200c76f718edb847d64a55224c5d0184d5aaa92ff8b504a98db",
+			"url": "https://upload.wikimedia.org/math/3/7/7/377bc70c345bab286d35625efb7834da.png",
+			"previous": [
+				"However, if the impulse response was",
+				"which has a pole in (zero imaginary part). This system is BIBO (asymptotically) stable since the pole is inside the unit circle."
+			],
+			"after": [
+				"then the Z-transform is",
+				"which has a pole at and is not BIBO stable since the pole has a modulus strictly greater than one."
+			],
+			"color": "dim|0.30702 gray|0.30702 dim|0.30702 grey|0.30702 gray|0.24955 grey|0.24955 dark|0.16736 gray|0.16736 dark|0.16736 grey|0.16736 silver|0.083956 light|0.055557 gray|0.055557 light|0.055557 grey|0.055557 gainsboro|0.043657 white|0.017585 smoke|0.017585 lavender|0.010596 blush|0.010596 alice|0.0094601 blue|0.0094601 ghost|0.0092778 white|0.0092778 sea|0.0091614 shell|0.0091614 snow|0.0091148 linen|0.0081741 white|0.0071131 mint|0.0052394 cream|0.0052394 floral|0.0042595 white|0.0042595 azure|0.0029165  "
+		}
+	}
+}

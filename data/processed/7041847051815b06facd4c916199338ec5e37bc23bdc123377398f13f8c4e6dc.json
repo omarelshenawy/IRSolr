@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "7041847051815b06facd4c916199338ec5e37bc23bdc123377398f13f8c4e6dc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Types_of_inhibition_en.svg/400px-Types_of_inhibition_en.svg.png",
+			"previous": [
+				"There are four kinds of reversible enzyme inhibitors. They are classified according to the effect of varying the concentration of the enzyme's substrate on the inhibitor.[2]",
+				"Reversible inhibitors attach to enzymes with non-covalent interactions such as hydrogen bonds, hydrophobic interactions and ionic bonds. Multiple weak bonds between the inhibitor and the active site combine to produce strong and specific binding. In contrast to substrates and irreversible inhibitors, reversible inhibitors generally do not undergo chemical reactions when bound to the enzyme and can be easily removed by dilution or dialysis."
+			],
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "gray|0.31801 grey|0.31801 dark|0.27022 gray|0.27022 dark|0.27022 grey|0.27022 dim|0.23477 gray|0.23477 dim|0.23477 grey|0.23477 silver|0.12465 light|0.030287 gray|0.030287 light|0.030287 grey|0.030287 gainsboro|0.014006 black|0.0068277  "
+		}
+	}
+}

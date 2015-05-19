@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "97855abb13a77c940f004957b2b5c6fc35f14cff9f6b18e1c977107e5153d713",
+			"url": "https://upload.wikimedia.org/math/6/8/0/680459a9c05d2f9ebbc190cc0b8b1d02.png",
+			"previous": [
+				"In the example of the 3Ã3 cyclic permutation matrix , above, the characteristic polynomial has two additional non-real roots, namely",
+				"The non-real roots of a real polynomial with real coefficients can be grouped into pairs of complex conjugate values, namely with the two members of each pair having the same real part and imaginary parts that differ only in sign. If the degree is odd, then by the intermediate value theorem at least one of the roots will be real. Therefore, any real matrix with odd order will have at least one real eigenvalue; whereas a real matrix with even order may have no real eigenvalues."
+			],
+				"after": "where is the imaginary unit. Note that , , and . Then",
+			"color": "dim|0.39289 gray|0.39289 dim|0.39289 grey|0.39289 gray|0.30202 grey|0.30202 dark|0.16909 gray|0.16909 dark|0.16909 grey|0.16909 silver|0.068478 light|0.03318 gray|0.03318 light|0.03318 grey|0.03318 gainsboro|0.023157 white|0.0030661 smoke|0.0030661  "
+		}
+	}
+}

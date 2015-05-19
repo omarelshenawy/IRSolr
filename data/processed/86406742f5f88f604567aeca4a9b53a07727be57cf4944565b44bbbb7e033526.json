@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "86406742f5f88f604567aeca4a9b53a07727be57cf4944565b44bbbb7e033526",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vector_norms2.svg/250px-Vector_norms2.svg.png",
+				"previous": "denotes the limit of the corresponding finite partial sums of the sequence (fi)iâN of elements of V. For example, the fi could be (real or complex) functions belonging to some function space V, in which case the series is a function series. The mode of convergence of the series depends on the topology imposed on the function space. In such cases, pointwise convergence and uniform convergence are two prominent examples.",
+				"after": "A way to ensure the existence of limits of certain infinite series is to restrict attention to spaces where any Cauchy sequence has a limit; such a vector space is called complete. Roughly, a vector space is complete provided that it contains all necessary limits. For example, the vector space of polynomials on the unit interval [0,1], equipped with the topology of uniform convergence is not complete because any continuous function on [0,1] can be uniformly approximated by a sequence of polynomials, by the Weierstrass approximation theorem.[51] In contrast, the space of all continuous functions on [0,1] with the same topology is complete.[52] A norm gives rise to a topology by defining that a sequence of vectors vn converges to v if and only if",
+			"color": "white|0.083338 smoke|0.083338 mint|0.083057 cream|0.083057 snow|0.082382 floral|0.081936 white|0.081936 sea|0.081676 shell|0.081676 white|0.08116 ghost|0.081053 white|0.081053 alice|0.08088 blue|0.08088 azure|0.080096 lavender|0.07602 blush|0.07602 pale|0.053598 violet|0.053598 red|0.053598 medium|0.029218 sea|0.029218 green|0.029218 light|0.017184 pink|0.017184 medium|0.013648 aqua|0.013648 marine|0.013648 ivory|0.0087571 honeydew|0.0079775 pink|0.0067618 linen|0.0050705 light|0.0036268 cyan|0.0036268  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "46c9798422b47d44316a6b63b83a9babf1d47b630737e2345002c262c0f28634",
+			"url": "https://upload.wikimedia.org/math/9/2/7/927c47aff713403165861566a393ec0e.png",
+				"previous": "As a simple example, if f converts a temperature in degrees Celsius C to degrees Fahrenheit F, the function converting degrees Fahrenheit to degrees Celsius would be a suitable fâ1.",
+				"after": "Such an inverse function exists if and only if f is bijective. In this case, f is called invertible. The notation (or, in some texts, just ) and fâ1 are akin to multiplication and reciprocal notation. With this analogy, identity functions are like the multiplicative identity, 1, and inverse functions are like reciprocals (hence the notation).",
+			"color": "dim|0.30811 gray|0.30811 dim|0.30811 grey|0.30811 gray|0.30736 grey|0.30736 dark|0.21266 gray|0.21266 dark|0.21266 grey|0.21266 silver|0.089647 light|0.038907 gray|0.038907 light|0.038907 grey|0.038907 gainsboro|0.027801 white|0.0042319 smoke|0.0042319  "
+		}
+	}
+}

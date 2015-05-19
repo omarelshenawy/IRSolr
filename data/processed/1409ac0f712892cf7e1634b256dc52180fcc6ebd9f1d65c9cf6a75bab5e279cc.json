@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1409ac0f712892cf7e1634b256dc52180fcc6ebd9f1d65c9cf6a75bab5e279cc",
+			"url": "https://upload.wikimedia.org/math/9/0/c/90c58cf5c1a4d02645a87169b2ebebf4.png",
+			"previous": [
+				"Which can also be written",
+				"The measured stagnation pressure cannot itself be used to determine the fluid flow velocity (airspeed in aviation). However, Bernoulli's equation states:"
+			],
+			"after": [
+				"Solving that for flow velocity:",
+				"NOTE: The above equation applies only to fluids that can be treated as incompressible. Liquids are treated as incompressible under almost all conditions. Gases under certain conditions can be approximated as incompressible. See Compressibility."
+			],
+			"color": "dim|0.38848 gray|0.38848 dim|0.38848 grey|0.38848 gray|0.29704 grey|0.29704 dark|0.16397 gray|0.16397 dark|0.16397 grey|0.16397 silver|0.06863 light|0.034633 gray|0.034633 light|0.034633 grey|0.034633 gainsboro|0.025032 white|0.0046168 smoke|0.0046168  "
+		}
+	}
+}

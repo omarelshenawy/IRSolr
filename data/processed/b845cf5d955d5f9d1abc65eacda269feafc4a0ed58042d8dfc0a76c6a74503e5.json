@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "b845cf5d955d5f9d1abc65eacda269feafc4a0ed58042d8dfc0a76c6a74503e5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Simple_Confounding_Case.svg/200px-Simple_Confounding_Case.svg.png",
+				"previous": "To assist in the understanding of statistics Huff proposed a series of questions to be asked in each case:[24]",
+				"after": "The concept of correlation is particularly noteworthy for the potential confusion it can cause. Statistical analysis of a data set often reveals that two variables (properties) of the population under consideration tend to vary together, as if they were connected. For example, a study of annual income that also looks at age of death might find that poor people tend to have shorter lives than affluent people. The two variables are said to be correlated; however, they may or may not be the cause of one another. The correlation phenomena could be caused by a third, previously unconsidered phenomenon, called a lurking variable or confounding variable. For this reason, there is no way to immediately infer the existence of a causal relationship between the two variables. (See Correlation does not imply causation.)",
+			"color": "black|0.99921  "
+		}
+	}
+}

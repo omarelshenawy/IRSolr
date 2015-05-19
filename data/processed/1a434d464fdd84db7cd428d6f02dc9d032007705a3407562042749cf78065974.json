@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1a434d464fdd84db7cd428d6f02dc9d032007705a3407562042749cf78065974",
+			"url": "https://upload.wikimedia.org/math/6/3/a/63ab4ebca2b8f12c1417ae9cf38bc11a.png",
+				"previous": "for all positive integers in integers ? The case is answered in the positive by Lagrange's four-square theorem. The general solution was given by Ramanujan. He proved that if we assume, without loss of generality, that then there are exactly 54 possible choices for such that the problem is solvable in integers for all . (Ramanujan listed a 55th possibility , but in this case the problem is not solvable if .[8])",
+				"after": "The number of representations of a natural number n as the sum of four squares is denoted by r4(n). Jacobi's four-square theorem states that this is eight times the sum of the divisors of n if n is odd and 24 times the sum of the odd divisors of n if n is even (see divisor function), i.e.",
+			"color": "gray|0.32551 grey|0.32551 dark|0.26426 gray|0.26426 dark|0.26426 grey|0.26426 dim|0.16384 gray|0.16384 dim|0.16384 grey|0.16384 silver|0.11799 light|0.058449 gray|0.058449 light|0.058449 grey|0.058449 gainsboro|0.041163 white|0.0077112 smoke|0.0077112 linen|0.003682 lavender|0.003111 blush|0.003111 alice|0.0030121 blue|0.0030121 ghost|0.0028884 white|0.0028884 sea|0.0026999 shell|0.0026999 snow|0.0025968  "
+		}
+	}
+}

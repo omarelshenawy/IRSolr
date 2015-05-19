@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0fe442f3a52154cf54b66ee4f09ec0ce630a6c70d3855f60204796c0e4b5ef20",
+			"url": "https://upload.wikimedia.org/math/a/e/6/ae6956f684b16951255dd026b5a0636f.png",
+			"previous": [
+				"Let A be an nÃn linear transformation",
+				"In this section, it is shown that a change of coordinates of a matrix A to a basis formed by its eigenvectors results in a diagonal matrix."
+			],
+			"after": [
+				"that has n linearly independent eigenvectors vi, and consider the change of coordinates of A so that it is defined relative to its eigenvector basis.",
+				"Recall that the eigenvectors vi of A satisfy the eigenvalue equation,"
+			],
+			"color": "dim|0.38008 gray|0.38008 dim|0.38008 grey|0.38008 gray|0.28255 grey|0.28255 dark|0.17255 gray|0.17255 dark|0.17255 grey|0.17255 silver|0.076832 light|0.040405 gray|0.040405 light|0.040405 grey|0.040405 gainsboro|0.028579 white|0.0051507 smoke|0.0051507  "
+		}
+	}
+}

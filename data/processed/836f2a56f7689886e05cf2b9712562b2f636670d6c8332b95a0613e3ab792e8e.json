@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "836f2a56f7689886e05cf2b9712562b2f636670d6c8332b95a0613e3ab792e8e",
+			"url": "https://upload.wikimedia.org/math/8/1/8/818908330f001989d23765c52b3c124c.png",
+			"previous": [
+				"For the purposes of comparing stereoscopic images, only the relative message length matters. Based on this, the information measure I, called the Sum of Squares of Differences (SSD) is,",
+				"so,"
+			],
+			"after": [
+				"where,",
+				"Because of the cost in processing time of squaring numbers in SSD, many implementations use Sum of Absolute Difference (SAD) as the basis for computing the information measure. Other methods use normalized cross correlation (NCC)."
+			],
+			"color": "dim|0.34334 gray|0.34334 dim|0.34334 grey|0.34334 gray|0.28425 grey|0.28425 dark|0.18981 gray|0.18981 dark|0.18981 grey|0.18981 silver|0.08812 light|0.043649 gray|0.043649 light|0.043649 grey|0.043649 gainsboro|0.031956 white|0.0048484 smoke|0.0048484  "
+		}
+	}
+}

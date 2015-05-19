@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9027d31cb711a5091512533f4cf121e23dd08e02ac3e79f1329c5034573e3d3e",
+			"url": "https://upload.wikimedia.org/math/e/9/7/e970f51b996903c7d470c0bcecd6f22e.png",
+				"previous": "Sometimes it is desirable to express the BÃ©zier curve as a polynomial instead of a sum of less straightforward Bernstein polynomials. Application of the binomial theorem to the definition of the curve followed by some rearrangement will yield:",
+				"after": "where",
+			"color": "dim|0.37619 gray|0.37619 dim|0.37619 grey|0.37619 gray|0.3099 grey|0.3099 dark|0.16602 gray|0.16602 dark|0.16602 grey|0.16602 silver|0.065559 light|0.036221 gray|0.036221 light|0.036221 grey|0.036221 gainsboro|0.024249 white|0.0069801 smoke|0.0069801  "
+		}
+	}
+}

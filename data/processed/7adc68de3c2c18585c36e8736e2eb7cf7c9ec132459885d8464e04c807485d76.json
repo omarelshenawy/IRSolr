@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7adc68de3c2c18585c36e8736e2eb7cf7c9ec132459885d8464e04c807485d76",
+			"url": "https://upload.wikimedia.org/math/5/2/3/523159bda8e50c1efeb936233bcd6c50.png",
+			"previous": [
+				"and because 1+[f â²(x)]2 is non-zero,",
+				"Taking the derivative d/dx and simplifying gives,"
+			],
+			"after": [
+				"which implies that the shortest curve that connects two points (x1, y1) and (x2, y2) is",
+				"and we have thus found the extremal function f(x) that minimizes the functional A[y] so that A[f] is a minimum. Note that y = f(x) is the equation for a straight line, in other words, the shortest distance between two points is a straight line.[Note 5]"
+			],
+			"color": " "
+		}
+	}
+}

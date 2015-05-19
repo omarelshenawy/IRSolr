@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "2164ed92639a2f692da0e6b2f488f3c88734ed377d76511cd875fb393e9b3dc2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/SimplexRangeSearching.png/150px-SimplexRangeSearching.png",
+				"previous": "A function defined on an interval of the integers is usually called a sequence. A sequence could be a finite sequence from a data source or an infinite sequence from a discrete dynamical system. Such a discrete function could be defined explicitly by a list (if its domain is finite), or by a formula for its general term, or it could be given implicitly by a recurrence relation or difference equation. Difference equations are similar to a differential equations, but replace differentiation by taking the difference between adjacent terms; they can be used to approximate differential equations or (more often) studied in their own right. Many questions and methods concerning differential equations have counterparts for difference equations. For instance where there are integral transforms in harmonic analysis for studying continuous functions or analog signals, there are discrete transforms for discrete functions or digital signals. As well as the discrete metric there are more general discrete or finite metric spaces and finite topological spaces.",
+				"after": "Discrete geometry and combinatorial geometry are about combinatorial properties of discrete collections of geometrical objects. A long-standing topic in discrete geometry is tiling of the plane. Computational geometry applies algorithms to geometrical problems.",
+			"color": "black|0.92974 red|0.020389 dim|0.011199 gray|0.011199 dim|0.011199 grey|0.011199 gray|0.010596 grey|0.010596 dark|0.0093323 gray|0.0093323 dark|0.0093323 grey|0.0093323 lime|0.008286 silver|0.002988  "
+		}
+	}
+}

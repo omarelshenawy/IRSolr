@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "93373690c3722a86f20517f5d9d7a5d457bc1bd23921e9c80c48f187faeef9f5",
+			"url": "https://upload.wikimedia.org/math/0/9/b/09b9b7be97d599dfc2ff3e0696a5b2f8.png",
+				"previous": "The identity matrix In of size n is the n-by-n matrix in which all the elements on the main diagonal are equal to 1 and all other elements are equal to 0, e.g.",
+				"after": "It is a square matrix of order n, and also a special kind of diagonal matrix. It is called identity matrix because multiplication with it leaves a matrix unchanged:",
+			"color": "dim|0.4846 gray|0.4846 dim|0.4846 grey|0.4846 gray|0.21902 grey|0.21902 dark|0.14073 gray|0.14073 dark|0.14073 grey|0.14073 silver|0.058123 light|0.036976 gray|0.036976 light|0.036976 grey|0.036976 gainsboro|0.022876 white|0.0065789 smoke|0.0065789 lavender|0.0045454 blush|0.0045454 alice|0.0044415 blue|0.0044415 ghost|0.0044127 white|0.0044127 linen|0.0043463 sea|0.0043138 shell|0.0043138 snow|0.0042921  "
+		}
+	}
+}

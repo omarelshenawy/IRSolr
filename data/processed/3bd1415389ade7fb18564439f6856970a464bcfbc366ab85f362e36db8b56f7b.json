@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bd1415389ade7fb18564439f6856970a464bcfbc366ab85f362e36db8b56f7b",
+			"url": "https://upload.wikimedia.org/math/1/0/0/1002ba72734cf372493b56b36a08ca49.png",
+				"previous": "The square of any positive or negative number is positive, and the square of 0 is 0. Therefore, no negative number can have a real square root. However, it is possible to work with a more inclusive set of numbers, called the complex numbers, that does contain solutions to the square root of a negative number. This is done by introducing a new number, denoted by i (sometimes j, especially in the context of electricity where \"i\" traditionally represents electric current) and called the imaginary unit, which is defined such that i2 = â1. Using this notation, we can think of i as the square root of â1, but notice that we also have (âi)2 = i2 = â1 and so âi is also a square root of â1. By convention, the principal square root of â1 is i, or more generally, if x is any non-negative number, then the principal square root of âx is",
+				"after": "The right side (as well as its negative) is indeed a square root of âx, since",
+			"color": "dim|0.32916 gray|0.32916 dim|0.32916 grey|0.32916 gray|0.29354 grey|0.29354 dark|0.19651 gray|0.19651 dark|0.19651 grey|0.19651 silver|0.089333 light|0.04521 gray|0.04521 light|0.04521 grey|0.04521 gainsboro|0.0321 white|0.0041629 smoke|0.0041629  "
+		}
+	}
+}

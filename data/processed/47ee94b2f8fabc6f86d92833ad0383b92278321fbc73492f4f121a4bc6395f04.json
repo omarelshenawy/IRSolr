@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "47ee94b2f8fabc6f86d92833ad0383b92278321fbc73492f4f121a4bc6395f04",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Integral_as_region_under_curve.svg/280px-Integral_as_region_under_curve.svg.png",
+			"previous": [],
+				"after": "When velocity is constant, the total distance traveled over the given time interval can be computed by multiplying velocity and time. For example, travelling a steady 50Â mph for 3 hours results in a total distance of 150 miles. In the diagram on the left, when constant velocity and time are graphed, these two values form a rectangle with height equal to the velocity and width equal to the time elapsed. Therefore, the product of velocity and time also calculates the rectangular area under the (constant) velocity curve. This connection between the area under a curve and distance traveled can be extended to any irregularly shaped region exhibiting a fluctuating velocity over a given time period. If f(x) in the diagram on the right represents speed as it varies over time, the distance traveled (between the times represented by a and b) is the area of the shaded regionÂ s.",
+			"color": "light|0.28681 gray|0.28681 light|0.28681 grey|0.28681 gainsboro|0.28626 white|0.28196 smoke|0.28196 black|0.068333 dim|0.02024 gray|0.02024 dim|0.02024 grey|0.02024 dark|0.017709 gray|0.017709 dark|0.017709 grey|0.017709 silver|0.010773 gray|0.010212 grey|0.010212 linen|0.0046165 lavender|0.0033081 blush|0.0033081 alice|0.0032641 blue|0.0032641  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "633adb747faac2128e1c71bfff7772f29c33c4bba62043c7ff1e0926d64c281e",
+			"url": "https://upload.wikimedia.org/math/e/9/f/e9f864e79e4159d97e3e77133ead0796.png",
+				"previous": "Systems with more variables than the number of linear equations are called underdetermined. Such a system, if it has any solutions, does not have a unique one but rather an infinitude of them. An example of such a system is",
+				"after": "When trying to solve it, one is led to express some variables as functions of the other ones if any solutions exist, but cannot express all solutions numerically because there are an infinite number of them if there are any.",
+			"color": "dim|0.40657 gray|0.40657 dim|0.40657 grey|0.40657 gray|0.28442 grey|0.28442 dark|0.16702 gray|0.16702 dark|0.16702 grey|0.16702 silver|0.067303 light|0.033707 gray|0.033707 light|0.033707 grey|0.033707 gainsboro|0.022636 black|0.0058243  "
+		}
+	}
+}

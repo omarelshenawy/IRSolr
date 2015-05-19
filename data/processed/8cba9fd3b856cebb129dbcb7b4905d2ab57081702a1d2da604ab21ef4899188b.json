@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cba9fd3b856cebb129dbcb7b4905d2ab57081702a1d2da604ab21ef4899188b",
+			"url": "https://upload.wikimedia.org/math/f/6/b/f6b2b1d65347613698570a86cdb55beb.png",
+			"previous": [],
+				"after": "The second step of Remez' algorithm consists of moving the test points to the approximate locations where the error function had its actual local maxima or minima. For example, one can tell from looking at the graph that the point at â0.1 should have been at about â0.28. The way to do this in the algorithm is to use a single round of Newton's method. Since one knows the first and second derivatives of P(x)âf(x), one can calculate approximately how far a test point has to be moved so that the derivative will be zero.",
+			"color": "dim|0.27769 gray|0.27769 dim|0.27769 grey|0.27769 gray|0.24901 grey|0.24901 dark|0.2079 gray|0.2079 dark|0.2079 grey|0.2079 silver|0.12307 light|0.070851 gray|0.070851 light|0.070851 grey|0.070851 gainsboro|0.050739 white|0.0052481 smoke|0.0052481 linen|0.0028672  "
+		}
+	}
+}

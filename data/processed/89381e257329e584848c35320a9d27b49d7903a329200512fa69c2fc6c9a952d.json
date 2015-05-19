@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "89381e257329e584848c35320a9d27b49d7903a329200512fa69c2fc6c9a952d",
+			"url": "https://upload.wikimedia.org/math/2/5/8/2584ea557096f0f5e1f615ce409e396a.png",
+			"previous": [
+				"is the small-signal gain coefficient (in units of radians per meter). We can solve the differential equation using separation of variables:",
+				"where",
+				"The stimulated emission cross section (in square meters) is"
+			],
+			"after": [
+				"Integrating, we find:",
+				"or",
+				"where"
+			],
+			"color": "dim|0.4112 gray|0.4112 dim|0.4112 grey|0.4112 gray|0.29845 grey|0.29845 dark|0.16083 gray|0.16083 dark|0.16083 grey|0.16083 silver|0.063091 light|0.030282 gray|0.030282 light|0.030282 grey|0.030282 gainsboro|0.020993 white|0.0038568 smoke|0.0038568  "
+		}
+	}
+}

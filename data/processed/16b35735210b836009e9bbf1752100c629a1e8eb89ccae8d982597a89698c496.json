@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "16b35735210b836009e9bbf1752100c629a1e8eb89ccae8d982597a89698c496",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Six_flight_instruments.JPG/250px-Six_flight_instruments.JPG",
+				"previous": "The VSI (also sometimes called a variometer, or rate of climb indicator) senses changing air pressure, and displays that information to the pilot as a rate of climb or descent in feet per minute, meters per second or knots.",
+			"after": [
+				"Most aircraft are equipped with a standard set of flight instruments which give the pilot information about the aircraft's attitude, airspeed, and altitude.",
+				"Most aircraft built since about 1953 have four of the flight instruments located in a standardized pattern called the T arrangement. The attitude indicator is in the top center, airspeed to the left, altimeter to the right and heading indicator under the attitude indicator. The other two, turn-coordinator and vertical-speed, are usually found under the airspeed and altimeter, but are given more latitude in placement. The magnetic compass will be above the instrument panel, often on the windscreen centerpost. In newer aircraft with glass cockpit instruments the layout of the displays conform to the basic T arrangement."
+			],
+			"color": "dim|0.42713 gray|0.42713 dim|0.42713 grey|0.42713 gray|0.16563 grey|0.16563 dark|0.094177 gray|0.094177 dark|0.094177 grey|0.094177 silver|0.046817 black|0.035937 light|0.029327 gray|0.029327 light|0.029327 grey|0.029327 gainsboro|0.023012 powder|0.016795 blue|0.016795 light|0.015811 blue|0.015811 alice|0.013477 blue|0.013477 white|0.011311 smoke|0.011311 azure|0.010261 light|0.0090516 cyan|0.0090516 ghost|0.0086465 white|0.0086465 slate|0.0084229 gray|0.0084229 mint|0.0082905 cream|0.0082905 snow|0.0078307 white|0.0073122 sea|0.006926 shell|0.006926 lavender|0.0065332 blush|0.0065332 light|0.005865 slate|0.005865 gray|0.005865  "
+		}
+	}
+}

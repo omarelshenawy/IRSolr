@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "723f4d3c59b4c964c214213d0cf3c637cfcc83089bfb0ab4e421aa64920c2953",
+			"url": "https://upload.wikimedia.org/math/0/b/b/0bb4621945518973d0bb6767a91bd64c.png",
+			"previous": [
+				"is very small and hence can be neglected",
+				"= where V0 is the inlet velocity of steam in the nozzle"
+			],
+			"after": [
+				"",
+				"",
+				"A very widely used design has half degree of reaction or 50% reaction and this is known as Parsonâs turbine. This consists of symmetrical rotor and stator blades. For this turbine the velocity triangle is similar and we have:"
+			],
+			"color": "dark|0.32891 gray|0.32891 dark|0.32891 grey|0.32891 gray|0.25909 grey|0.25909 silver|0.17218 light|0.088989 gray|0.088989 light|0.088989 grey|0.088989 gainsboro|0.06131 dim|0.043587 gray|0.043587 dim|0.043587 grey|0.043587 white|0.011636 smoke|0.011636 linen|0.005842 lavender|0.005028 blush|0.005028 alice|0.0049755 blue|0.0049755 ghost|0.0046692 white|0.0046692 sea|0.0043878 shell|0.0043878 snow|0.0042566 white|0.0027832  "
+		}
+	}
+}

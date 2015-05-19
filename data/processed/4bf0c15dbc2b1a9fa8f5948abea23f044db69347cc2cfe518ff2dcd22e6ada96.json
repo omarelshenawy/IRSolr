@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4bf0c15dbc2b1a9fa8f5948abea23f044db69347cc2cfe518ff2dcd22e6ada96",
+			"url": "https://upload.wikimedia.org/math/d/5/d/d5dc8f8ba2f5e1d9d135307fc54fca29.png",
+				"previous": "The Krull dimension of a commutative ring R is the supremum of the lengths n of all the increasing chains of prime ideals . For example, the polynomial ring over a field k has dimension n. The fundamental theorem in the dimension theory states the following numbers coincide for a noetherian local ring :[4]",
+				"after": "A commutative ring R is said to be catenary if any pair of prime ideals can be extended to a chain of prime ideals of same finite length such that there is no prime ideal that is strictly contained in two consecutive terms. Practically all noetherian rings that appear in application are catenary. If is a catenary local integral domain, then, by definition,",
+			"color": "black|0.48886 dim|0.20254 gray|0.20254 dim|0.20254 grey|0.20254 gray|0.15212 grey|0.15212 dark|0.091602 gray|0.091602 dark|0.091602 grey|0.091602 silver|0.03661 light|0.015525 gray|0.015525 light|0.015525 grey|0.015525 gainsboro|0.0092754  "
+		}
+	}
+}

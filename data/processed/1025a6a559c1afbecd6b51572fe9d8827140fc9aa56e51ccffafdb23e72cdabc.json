@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "1025a6a559c1afbecd6b51572fe9d8827140fc9aa56e51ccffafdb23e72cdabc",
+			"url": "https://upload.wikimedia.org/math/5/2/b/52b3a6fbbfe01652d1920dcecb2de8a1.png",
+			"previous": [
+				"",
+				"This gives the local convective constant at one point on the semi-infinite plane. Integrating over the length of the plate gives an average",
+				""
+			],
+			"after": [
+				"",
+				"",
+				"These solutions apply for laminar flow with a Prandtl/Schmidt number greater than 0.6.[10]"
+			],
+			"color": "dim|0.3412 gray|0.3412 dim|0.3412 grey|0.3412 gray|0.31243 grey|0.31243 dark|0.18909 gray|0.18909 dark|0.18909 grey|0.18909 silver|0.079823 light|0.038522 gray|0.038522 light|0.038522 grey|0.038522 gainsboro|0.026616 white|0.0038418 smoke|0.0038418  "
+		}
+	}
+}

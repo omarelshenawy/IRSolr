@@ -1,0 +1,30 @@
+{
+	"add": {
+		"doc": {
+			"id": "8350876136bde22921e1ff53ba84753b1ff9bf9c16d270137d6c5015bf082f01",
+			"url": "https://upload.wikimedia.org/math/f/d/c/fdcf50d2ee0f1470963fdc95802f0f1c.png",
+			"previous": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"after": [
+				"",
+				"NOTE: inclusion of 144 inÂ²/ftÂ² to obtain density in lb/ftÂ³.",
+				"",
+				"",
+				"NOTE: inclusion of 144 inÂ²/ftÂ² to obtain area in inÂ².",
+				"Gross Thrust",
+				"",
+				"The following special calculation is required, if the nozzle happens to be unchoked."
+			],
+			"color": "dim|0.33805 gray|0.33805 dim|0.33805 grey|0.33805 black|0.22573 gray|0.22491 grey|0.22491 dark|0.11813 gray|0.11813 dark|0.11813 grey|0.11813 silver|0.046668 light|0.021832 gray|0.021832 light|0.021832 grey|0.021832 gainsboro|0.014974  "
+		}
+	}
+}

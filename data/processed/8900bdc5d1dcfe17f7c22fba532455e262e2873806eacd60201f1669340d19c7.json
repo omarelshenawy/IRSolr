@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8900bdc5d1dcfe17f7c22fba532455e262e2873806eacd60201f1669340d19c7",
+			"url": "https://upload.wikimedia.org/math/7/e/7/7e72cee232fbc81af2df7ed4d501ee36.png",
+				"previous": "The DCG accumulated at a particular rank position is defined as:",
+				"after": "Since result set may vary in size among different queries or systems, to compare performances the normalised version of DCG uses an ideal DCG. To this end, it sorts documents of a result list by relevance, producing an ideal DCG at position p (), which normalizes the score:",
+			"color": "dim|0.36453 gray|0.36453 dim|0.36453 grey|0.36453 gray|0.30539 grey|0.30539 dark|0.18561 gray|0.18561 dark|0.18561 grey|0.18561 silver|0.071576 light|0.033555 gray|0.033555 light|0.033555 grey|0.033555 gainsboro|0.02286 white|0.0038518 smoke|0.0038518  "
+		}
+	}
+}

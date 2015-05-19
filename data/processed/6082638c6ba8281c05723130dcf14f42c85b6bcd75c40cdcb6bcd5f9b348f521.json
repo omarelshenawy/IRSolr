@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6082638c6ba8281c05723130dcf14f42c85b6bcd75c40cdcb6bcd5f9b348f521",
+			"url": "https://upload.wikimedia.org/math/d/7/1/d716d370adc6c76f346d972d35fe769e.png",
+				"previous": "General solutions of the heat equation can be found by the method of separation of variables. Some examples appear in the heat equation article. They are examples of Fourier series for periodic f and Fourier transforms for non-periodic f. Using the Fourier transform, a general solution of the heat equation has the form",
+				"after": "where F is an arbitrary function. To satisfy the initial condition, F is given by the Fourier transform of f, that is",
+			"color": "dim|0.38708 gray|0.38708 dim|0.38708 grey|0.38708 gray|0.28901 grey|0.28901 dark|0.17905 gray|0.17905 dark|0.17905 grey|0.17905 silver|0.070687 light|0.032897 gray|0.032897 light|0.032897 grey|0.032897 gainsboro|0.02285 white|0.0043579 smoke|0.0043579  "
+		}
+	}
+}

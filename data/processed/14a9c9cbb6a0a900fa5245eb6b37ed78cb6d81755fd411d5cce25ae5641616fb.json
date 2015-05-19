@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "14a9c9cbb6a0a900fa5245eb6b37ed78cb6d81755fd411d5cce25ae5641616fb",
+			"url": "https://upload.wikimedia.org/math/5/e/c/5ec452425bbe4f4269bb96944eb8654f.png",
+				"previous": "For example, the check digit for an ISBN-10 of 0-306-40615-? is calculated as follows:",
+				"after": "Thus the check digit is 2, and the complete sequence is ISBN 0-306-40615-2. The value required to satisfy this condition might be 10; if so, an 'X' should be used.",
+			"color": "dim|0.39096 gray|0.39096 dim|0.39096 grey|0.39096 gray|0.33902 grey|0.33902 dark|0.19614 gray|0.19614 dark|0.19614 grey|0.19614 silver|0.051043 light|0.010503 gray|0.010503 light|0.010503 grey|0.010503 gainsboro|0.0058522 black|0.0052033  "
+		}
+	}
+}

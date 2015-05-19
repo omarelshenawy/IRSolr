@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "52dae06d01b5331eeb067b95bbc8f28f99122d639995cd17cced2694f2c86781",
+			"url": "https://upload.wikimedia.org/math/6/3/4/63428fc231bfb60c421cd8e0d32be747.png",
+			"previous": [
+				"If one calculates the coefficients in the Chebyshev expansion for a function:",
+				"One can obtain polynomials very close to the optimal one by expanding the given function in terms of Chebyshev polynomials and then cutting off the expansion at the desired degree. This is similar to the Fourier analysis of the function, using the Chebyshev polynomials instead of the usual trigonometric functions."
+			],
+			"after": [
+				"and then cuts off the series after the term, one gets an Nth-degree polynomial approximating f(x).",
+				"The reason this polynomial is nearly optimal is that, for functions with rapidly converging power series, if the series is cut off after some term, the total error arising from the cutoff is close to the first term after the cutoff. That is, the first term after the cutoff dominates all later terms. The same is true if the expansion is in terms of Chebyshev polynomials. If a Chebyshev expansion is cut off after , the error will take a form close to a multiple of . The Chebyshev polynomials have the property that they are level â they oscillate between +1 and â1 in the interval [â1, 1]. has N+2 level extrema. This means that the error between f(x) and its Chebyshev expansion out to is close to a level function with N+2 extrema, so it is close to the optimal Nth-degree polynomial."
+			],
+			"color": "gray|0.30263 grey|0.30263 dim|0.277 gray|0.277 dim|0.277 grey|0.277 dark|0.21952 gray|0.21952 dark|0.21952 grey|0.21952 silver|0.10784 light|0.043937 gray|0.043937 light|0.043937 grey|0.043937 gainsboro|0.030484 white|0.0051059 smoke|0.0051059  "
+		}
+	}
+}

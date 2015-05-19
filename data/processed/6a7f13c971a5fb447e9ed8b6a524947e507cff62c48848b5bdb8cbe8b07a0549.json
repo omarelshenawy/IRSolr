@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a7f13c971a5fb447e9ed8b6a524947e507cff62c48848b5bdb8cbe8b07a0549",
+			"url": "https://upload.wikimedia.org/math/a/d/1/ad1d8fca4747fb86a8e9020d5fa39295.png",
+			"previous": [
+				"",
+				"Paul Richard Heinrich Blasius derived an exact solution to the above laminar boundary layer equations.[8] The thickness of the boundary layer is a function of the Reynolds number for laminar flow."
+			],
+			"after": [
+				"The Blasius solution uses boundary conditions in a dimensionless form:",
+				"Â Â Â Â Â atÂ Â Â Â Â "
+			],
+			"color": "gray|0.3152 grey|0.3152 dark|0.28607 gray|0.28607 dark|0.28607 grey|0.28607 dim|0.14221 gray|0.14221 dim|0.14221 grey|0.14221 silver|0.12783 light|0.060241 gray|0.060241 light|0.060241 grey|0.060241 gainsboro|0.041442 white|0.0073703 smoke|0.0073703 linen|0.0035022 lavender|0.0029999 blush|0.0029999 alice|0.0028453 blue|0.0028453 ghost|0.0027165 white|0.0027165 sea|0.0025272 shell|0.0025272  "
+		}
+	}
+}

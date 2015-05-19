@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "379876a73a5fdda99ebea094a479195b4f53490dc8685408b09298b6cb4976b9",
+			"url": "https://upload.wikimedia.org/math/d/3/b/d3bb32d1b415d7b7f09cbde2bd10c2c8.png",
+			"previous": [
+				"The surface area relative to the mass of a sphere is called the specific surface area and can be expressed from the above stated equations as",
+				"The sphere has the smallest surface area of all surfaces that enclose a given volume, and it encloses the largest volume among all closed surfaces with a given surface area. The sphere therefore appears in nature: for example, bubbles and small water drops are roughly spherical because the surface tension locally minimizes surface area."
+			],
+			"after": [
+				"where is the ratio of mass to volume.",
+				"A sphere can also be defined as the surface formed by rotating a circle about any diameter. Replacing the circle with an ellipse rotated about its major axis, the shape becomes a prolate spheroid; rotated about the minor axis, an oblate spheroid."
+			],
+			"color": "dim|0.36443 gray|0.36443 dim|0.36443 grey|0.36443 gray|0.30818 grey|0.30818 dark|0.17983 gray|0.17983 dark|0.17983 grey|0.17983 silver|0.072019 light|0.033647 gray|0.033647 light|0.033647 grey|0.033647 gainsboro|0.023736 white|0.0045978 smoke|0.0045978  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "873c802facda0dc4c90678ce1dd619129248c0936d5b9509b1aed58fb2bbdc9c",
+			"url": "https://upload.wikimedia.org/math/c/2/9/c2912f1221e9d0e5823a7d5410efd2a0.png",
+				"previous": "The critical points of a cubic equation are those values of x where the slope of the cubic function is zero. They are found by setting derivative of the cubic equation equal to zero obtaining: fÂ â²(x)Â = 3ax2Â +Â 2bxÂ +Â c = 0. The solutions of that equation are the critical points of the cubic equation and are given by: (using the quadratic formula)",
+				"after": "If b2Â âÂ 3acÂ >Â 0, then the cubic function has a local maximum and a local minimum. If b2Â âÂ 3acÂ =Â 0, then the cubic's inflection point is the only critical point. If b2Â âÂ 3acÂ <Â 0, then there are no critical points. In the cases where b2Â âÂ 3acÂ â¤Â 0, the cubic function is strictly monotonic.",
+			"color": "dim|0.35153 gray|0.35153 dim|0.35153 grey|0.35153 gray|0.27762 grey|0.27762 dark|0.18634 gray|0.18634 dark|0.18634 grey|0.18634 silver|0.093257 light|0.045593 gray|0.045593 light|0.045593 grey|0.045593 gainsboro|0.030764 white|0.0039379 smoke|0.0039379  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d18732dc27dc86ad3b06c311a20ffd57ae4d515744752bb1694f7f162522d40",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Melting_curve_of_water.jpg/220px-Melting_curve_of_water.jpg",
+				"previous": "The measurement can also be made continuously with an operating process. For instance, oil refineries measure the freeze point of diesel fuel online, meaning that the sample is taken from the process and measured automatically. This allows for more frequent measurements as the sample does not have to be manually collected and taken to a remote laboratory.",
+			"after": [
+				"Not only is heat required to raise the temperature of the solid to the melting point, but the melting itself requires heat called the heat of fusion.",
+				"From a thermodynamics point of view, at the melting point the change in Gibbs free energy (ÎG) of the material is zero, but the enthalpy (H) and the entropy (S) of the material are increasing (ÎH, ÎS > 0). Melting phenomenon happens when the Gibbs free energy of the liquid becomes lower than the solid for that material. At various pressures this happens at a specific temperature. It can also be shown that:"
+			],
+			"color": " "
+		}
+	}
+}

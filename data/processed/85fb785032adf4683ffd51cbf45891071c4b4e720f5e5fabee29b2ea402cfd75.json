@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "85fb785032adf4683ffd51cbf45891071c4b4e720f5e5fabee29b2ea402cfd75",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Surfaces_aerodynamics.svg/400px-Surfaces_aerodynamics.svg.png",
+				"previous": "When the airplane produces lift, another drag component comes in. Induced drag, symbolized , comes about due to a modification on the pressure distribution due to the trailing vortex system that accompanies the lift production. Induced drag tends to be the most important component for airplanes during take-off or landing flight. Other drag component, namely wave drag, , comes about from shock waves in transonic and supersonic flight speeds. The shock waves induce changes in the boundary layer and pressure distribution over the body surface. It is worth noting that not only viscous effects but also shock waves induce irreversible phenomena and, as a consequence, they can be measured through entropy changes along the domain as well. The figure below is a summary of the various aspects previously discussed.",
+			"after": [
+				"The drag force calculation can be performed using the integral of force balance in the freestream direction as",
+				"which surrounds the body represents the union of two unconnected surfaces,"
+			],
+			"color": "white|0.087746 smoke|0.087746 ghost|0.087316 white|0.087316 snow|0.087309 sea|0.087302 shell|0.087302 alice|0.087295 blue|0.087295 white|0.087217 mint|0.087114 cream|0.087114 floral|0.086936 white|0.086936 azure|0.086755 lavender|0.085361 blush|0.085361 gray|0.040994 grey|0.040994 dim|0.02901 gray|0.02901 dim|0.02901 grey|0.02901 dark|0.026926 gray|0.026926 dark|0.026926 grey|0.026926 silver|0.011875 light|0.0056095 gray|0.0056095 light|0.0056095 grey|0.0056095 gainsboro|0.0034809  "
+		}
+	}
+}

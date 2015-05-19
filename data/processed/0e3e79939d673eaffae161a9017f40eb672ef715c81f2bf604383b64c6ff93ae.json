@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e3e79939d673eaffae161a9017f40eb672ef715c81f2bf604383b64c6ff93ae",
+			"url": "https://upload.wikimedia.org/math/a/a/5/aa544fb90bc73b606344d0d57a38e8e5.png",
+				"previous": "Two rings R, S are said to be Morita equivalent if the category of left modules over R is equivalent to the category of left modules over S. In fact, two commutative rings which are Morita equivalent must be isomorphic, so the notion does not add anything new to the category of commutative rings. However, commutative rings can be Morita equivalent to noncommutative rings, so Morita equivalence is coarser than isomorphism. Morita equivalence is especially important in algebraic topology and functional analysis.",
+				"after": "where is the set of fractional ideals of R. If R is a regular domain (i.e., regular at any prime ideal), then Pic(R) is precisely the divisor class group of R.[9]",
+			"color": "gray|0.27272 grey|0.27272 dark|0.23223 gray|0.23223 dark|0.23223 grey|0.23223 dim|0.21362 gray|0.21362 dim|0.21362 grey|0.21362 silver|0.13681 light|0.073726 gray|0.073726 light|0.073726 grey|0.073726 gainsboro|0.05284 white|0.0054114 smoke|0.0054114 linen|0.0025009  "
+		}
+	}
+}

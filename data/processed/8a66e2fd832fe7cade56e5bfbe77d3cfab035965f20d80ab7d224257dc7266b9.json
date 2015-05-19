@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a66e2fd832fe7cade56e5bfbe77d3cfab035965f20d80ab7d224257dc7266b9",
+			"url": "https://upload.wikimedia.org/math/c/d/2/cd2d31f4876de2ca5afbffde34d0dade.png",
+			"previous": [],
+				"after": "The above way of testing for causality requires belief that there is no reverse causation, in which y would cause . This belief can be established in one of several ways. First, the variable may be a non-economic variable: for example, if rainfall amount is hypothesized to affect the futures price y of some agricultural commodity, it is impossible that in fact the futures price affects rainfall amount (provided that cloud seeding is never attempted). Second, the instrumental variables technique may be employed to remove any reverse causation by introducing a role for other variables (instruments) that are known to be unaffected by the dependent variable. Third, the principle that effects cannot precede causes can be invoked, by including on the right side of the regression only variables that precede in time the dependent variable; this principle is invoked, for example, in testing for Granger causality and in its multivariate analog, vector autoregression, both of which control for lagged values of the dependent variable while testing for causal effects of lagged independent variables.",
+			"color": " "
+		}
+	}
+}

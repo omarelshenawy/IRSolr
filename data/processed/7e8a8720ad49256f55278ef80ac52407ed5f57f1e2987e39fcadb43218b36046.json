@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e8a8720ad49256f55278ef80ac52407ed5f57f1e2987e39fcadb43218b36046",
+			"url": "https://upload.wikimedia.org/math/2/0/8/2087fb4763a6e238d1917e47e2a5aa29.png",
+			"previous": [],
+				"after": "Similar interpretations are true for any number of vectors spanning an n-dimensional parallelotope; the outer product of vectors a1, a2, ... an, that is , has a magnitude equal to the volume of the n-parallelotope. An n-vector doesn't necessarily have a shape of a parallelotope â this is a convenient visualization. It could be any shape, although the volume equals that of the parallelotope.",
+			"color": "dim|0.30322 gray|0.30322 dim|0.30322 grey|0.30322 black|0.24442 gray|0.22289 grey|0.22289 dark|0.13344 gray|0.13344 dark|0.13344 grey|0.13344 silver|0.052074 light|0.02286 gray|0.02286 light|0.02286 grey|0.02286 gainsboro|0.014466  "
+		}
+	}
+}

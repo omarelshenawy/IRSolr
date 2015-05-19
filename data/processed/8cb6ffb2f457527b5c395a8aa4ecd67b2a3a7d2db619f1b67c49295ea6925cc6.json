@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8cb6ffb2f457527b5c395a8aa4ecd67b2a3a7d2db619f1b67c49295ea6925cc6",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Airfoil_lines.png/350px-Airfoil_lines.png",
+			"previous": [],
+				"after": "The NACA airfoils are airfoil shapes for aircraft wings developed by the National Advisory Committee for Aeronautics (NACA). The shape of the NACA airfoils is described using a series of digits following the word \"NACA\". The parameters in the numerical code can be entered into equations to precisely generate the cross-section of the airfoil and calculate its properties.",
+			"color": "dodger|0.53893 blue|0.53893 royal|0.13194 blue|0.13194 light|0.1063 sea|0.1063 green|0.1063 dim|0.050364 gray|0.050364 dim|0.050364 grey|0.050364 gray|0.02643 grey|0.02643 dark|0.021175 slate|0.021175 blue|0.021175  "
+		}
+	}
+}

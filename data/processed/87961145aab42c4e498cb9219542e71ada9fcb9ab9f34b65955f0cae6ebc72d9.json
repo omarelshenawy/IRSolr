@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "87961145aab42c4e498cb9219542e71ada9fcb9ab9f34b65955f0cae6ebc72d9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/250px-Public_key_encryption.svg.png",
+			"previous": [],
+				"after": "Symmetric-key cryptosystems use the same key for encryption and decryption of a message, though a message or group of messages may have a different key than others. A significant disadvantage of symmetric ciphers is the key management necessary to use them securely. Each distinct pair of communicating parties must, ideally, share a different key, and perhaps each ciphertext exchanged as well. The number of keys required increases as the square of the number of network members, which very quickly requires complex key management schemes to keep them all consistent and secret. The difficulty of securely establishing a secret key between two communicating parties, when a secure channel does not already exist between them, also presents a chicken-and-egg problem which is a considerable practical obstacle for cryptography users in the real world.",
+			"color": "black|0.11766 aqua|0.10291 cyan|0.10291 dark|0.058332 turquoise|0.058332 medium|0.049607 turquoise|0.049607 gray|0.047521 grey|0.047521 red|0.045231 lime|0.045011 dim|0.038226 gray|0.038226 dim|0.038226 grey|0.038226 dark|0.036948 gray|0.036948 dark|0.036948 grey|0.036948 turquoise|0.033666 light|0.026835 sea|0.026835 green|0.026835 silver|0.025594 light|0.02315 gray|0.02315 light|0.02315 grey|0.02315 dark|0.022947 cyan|0.022947 gainsboro|0.019761 teal|0.017265 white|0.014998 smoke|0.014998 khaki|0.014452 snow|0.01392 dark|0.013569 khaki|0.013569 ghost|0.013279 white|0.013279 alice|0.013056 blue|0.013056 sea|0.012813 shell|0.012813 white|0.012328 lavender|0.012007 blush|0.012007 mint|0.011065 cream|0.011065 floral|0.009325 white|0.009325 azure|0.0085831 dark|0.0084395 slate|0.0084395 gray|0.0084395 cadet|0.0076121 blue|0.0076121 linen|0.0053142 green|0.0050747 maroon|0.0035027  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c1521f1fb2d890910a95602887dc862ff1fda32861aa92ea869727cfbf6a1ce",
+			"url": "https://upload.wikimedia.org/math/d/0/7/d07140a1be02922fd2715ba4d259f672.png",
+				"previous": "Dirac took this one step further.[75][76] He treated the interaction between a charge and an electromagnetic field as a small perturbation that induces transitions in the photon states, changing the numbers of photons in the modes, while conserving energy and momentum overall. Dirac was able to derive Einstein's and coefficients from first principles, and showed that the BoseâEinstein statistics of photons is a natural consequence of quantizing the electromagnetic field correctly (Bose's reasoning went in the opposite direction; he derived Planck's law of black-body radiation by assuming BâE statistics). In Dirac's time, it was not yet known that all bosons, including photons, must obey BoseâEinstein statistics.",
+				"after": "Other virtual particles may contribute to the summation as well; for example, two photons may interact indirectly through virtual electronâpositron pairs.[85] In fact, such photon-photon scattering (see two-photon physics), as well as electron-photon scattering, is meant to be one of the modes of operations of the planned particle accelerator, the International Linear Collider.[86]",
+			"color": "dim|0.40267 gray|0.40267 dim|0.40267 grey|0.40267 gray|0.28307 grey|0.28307 dark|0.17095 gray|0.17095 dark|0.17095 grey|0.17095 silver|0.075497 light|0.03526 gray|0.03526 light|0.03526 grey|0.03526 gainsboro|0.022915  "
+		}
+	}
+}

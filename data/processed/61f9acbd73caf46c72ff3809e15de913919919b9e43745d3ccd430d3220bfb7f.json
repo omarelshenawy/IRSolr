@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "61f9acbd73caf46c72ff3809e15de913919919b9e43745d3ccd430d3220bfb7f",
+			"url": "https://upload.wikimedia.org/math/e/7/7/e77e15ea1779eb73fc57728535517c0b.png",
+			"previous": [
+				"If is not necessarily positive, we have to choose a cube root of . As there is no direct way to choose the corresponding cube root of , one has to use the relation , which gives",
+				"Given the assumption that Equation (2) also has two complex roots. These are obtained by considering the complex cube roots appearing in the above formula; the fact is real implies that one is obtained by multiplying the first of the above cube roots by and the second by , and vice versa for the other one."
+			],
+				"after": "and",
+			"color": "white|0.094893 snow|0.09448 mint|0.093798 cream|0.093798 white|0.093621 smoke|0.093621 ghost|0.093149 white|0.093149 azure|0.092992 floral|0.091812 white|0.091812 alice|0.091747 blue|0.091747 sea|0.091354 shell|0.091354 lavender|0.087131 blush|0.087131 black|0.013878 dim|0.010826 gray|0.010826 dim|0.010826 grey|0.010826 gray|0.010691 grey|0.010691 dark|0.010274 gray|0.010274 dark|0.010274 grey|0.010274 silver|0.0083466 light|0.0079426 gray|0.0079426 light|0.0079426 grey|0.0079426 gainsboro|0.0073567 ivory|0.0042247  "
+		}
+	}
+}

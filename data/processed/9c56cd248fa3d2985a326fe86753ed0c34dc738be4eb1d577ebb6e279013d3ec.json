@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c56cd248fa3d2985a326fe86753ed0c34dc738be4eb1d577ebb6e279013d3ec",
+			"url": "https://upload.wikimedia.org/math/2/3/e/23e55c74272e16bcf3b0da9c2c4f9247.png",
+				"previous": "The invariant magnitude of the momentum 4-vector generates the energyâmomentum relation:",
+				"after": "We can work out what this invariant is by first arguing that, since it is a scalar, it doesn't matter in which reference frame we calculate it, and then by transforming to a frame where the total momentum is zero.",
+			"color": "dim|0.36219 gray|0.36219 dim|0.36219 grey|0.36219 gray|0.28453 grey|0.28453 dark|0.18087 gray|0.18087 dark|0.18087 grey|0.18087 silver|0.084153 light|0.042028 gray|0.042028 light|0.042028 grey|0.042028 gainsboro|0.029891 white|0.0041962 smoke|0.0041962  "
+		}
+	}
+}

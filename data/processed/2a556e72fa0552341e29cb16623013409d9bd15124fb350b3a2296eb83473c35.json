@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "2a556e72fa0552341e29cb16623013409d9bd15124fb350b3a2296eb83473c35",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Qm_step_pot_temp.png/400px-Qm_step_pot_temp.png",
+				"previous": "For example, consider a free particle. In quantum mechanics, there is waveâparticle duality, so the properties of the particle can be described as the properties of a wave. Therefore, its quantum state can be represented as a wave of arbitrary shape and extending over space as a wave function. The position and momentum of the particle are observables. The Uncertainty Principle states that both the position and the momentum cannot simultaneously be measured with complete precision. However, one can measure the position (alone) of a moving free particle, creating an eigenstate of position with a wavefunction that is very large (a Dirac delta) at a particular position x, and zero everywhere else. If one performs a position measurement on such a wavefunction, the resultant x will be obtained with 100% probability (i.e., with full certainty, or complete precision). This is called an eigenstate of positionâor, stated in mathematical terms, a generalized position eigenstate (eigendistribution). If the particle is in an eigenstate of position, then its momentum is completely unknown. On the other hand, if the particle is in an eigenstate of momentum, then its position is completely unknown.[73] In an eigenstate of momentum having a plane wave form, it can be shown that the wavelength is equal to h/p, where h is Planck's constant and p is the momentum of the eigenstate.[74]",
+			"after": [
+				"The potential in this case is given by:",
+				"The solutions are superpositions of left- and right-moving waves:"
+			],
+			"color": "dim|0.19022 gray|0.19022 dim|0.19022 grey|0.19022 gray|0.1065 grey|0.1065 medium|0.096432 sea|0.096432 green|0.096432 dark|0.093489 gray|0.093489 dark|0.093489 grey|0.093489 medium|0.062875 aqua|0.062875 marine|0.062875 silver|0.053338 khaki|0.049452 steel|0.044507 blue|0.044507 light|0.036324 sky|0.036324 blue|0.036324 indian|0.03497 red|0.03497 firebrick|0.031614 light|0.030731 coral|0.030731 pale|0.028453 golden|0.028453 rod|0.028453 light|0.023529 gray|0.023529 light|0.023529 grey|0.023529 black|0.019428 light|0.016955 pink|0.016955 sky|0.016249 blue|0.016249 pink|0.014836 light|0.01254 steel|0.01254 blue|0.01254 gainsboro|0.0070803  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "25d357bb35045b5b715d07250d67145353b2e1b0244f06561a44a442e55fca08",
+			"url": "https://upload.wikimedia.org/math/9/d/3/9d315214b732a9bfc02396afdedc17cc.png",
+			"previous": [
+				"Convective Force =",
+				"By using the convective and viscous force equations at the boundary layer for a cylindrical flow you can predict the convective flow conditions at the boundary layer by finding the dimensionless Reynolds Number ()."
+			],
+			"after": [
+				"Setting them equal to each other gives:",
+				""
+			],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c31da175f9a508ca61d6dc631f8deda182742168e7913623d3cfb50da2d9b00",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ASI-operation-FAA.png/220px-ASI-operation-FAA.png",
+			"previous": [],
+				"after": "The pitot-static system obtains pressures for interpretation by the pitot-static instruments. While the explanations below explain traditional, mechanical instruments, many modern aircraft use an air data computer (ADC) to calculate airspeed, rate of climb, altitude and Mach number. In some aircraft, two ADCs receive total and static pressure from independent pitot tubes and static ports, and the aircraft's flight data computer compares the information from both computers and checks one against the other. There are also \"standby instruments\", which are back-up pneumatic instruments employed in the case of problems with the primary instruments.",
+			"color": "light|0.23555 steel|0.23555 blue|0.23555 light|0.11108 slate|0.11108 gray|0.11108 light|0.099915 blue|0.099915 slate|0.083432 gray|0.083432 dim|0.076743 gray|0.076743 dim|0.076743 grey|0.076743 dark|0.063753 gray|0.063753 dark|0.063753 grey|0.063753 black|0.062045 gray|0.056754 grey|0.056754 silver|0.03878 powder|0.028102 blue|0.028102 light|0.018268 gray|0.018268 light|0.018268 grey|0.018268 tan|0.018021 gainsboro|0.014477 dark|0.01177 slate|0.01177 gray|0.01177 burly|0.010762 wood|0.010762 alice|0.0083053 blue|0.0083053 lavender|0.0069615 white|0.0058677 smoke|0.0058677 ghost|0.0054552 white|0.0054552  "
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"add": {
+		"doc": {
+			"id": "21887d559e2cb2da2f4305d1fc8f02a464d2e4573b0726c22084695537ac7908",
+			"url": "https://upload.wikimedia.org/math/6/b/2/6b2ce934a5de14267f669c40512fcdab.png",
+			"previous": [
+				"= ,",
+				"If the total weight of the aircraft at a particular time is",
+				"",
+				"The range can be seen as the cross-country ground speed multiplied by the maximum time in the air. The range equation will be derived in this article for propeller and jet aircraft."
+			],
+			"after": [
+				".",
+				"The rate of change of aircraft weight with distance is",
+				",",
+				"where is the speed, so that",
+				""
+			],
+			"color": " "
+		}
+	}
+}

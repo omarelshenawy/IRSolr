@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "234b1da9875e374e3aac03fa07e15ada37452362d6f9d405715dfe556ac6579c",
+			"url": "https://upload.wikimedia.org/math/2/0/6/206e8845c07a2dd98f128c1e49544f82.png",
+			"previous": [
+				"In 1825, Bessel [16] derived an expansion of the meridian distance in terms of the parametric latitude in connection with his work on geodesics,",
+				"The series can be expressed with either or as the initial factor by writing, for example, , and expanding the result as a series in . Even though this results in more slowly converging series, such series are used in the specification for the transverse Mercator projection by the National Geospatial Intelligence Agency[14] and the Ordnance Survey of Great Britain.[15]"
+			],
+			"after": [
+				"with",
+				"Because changes sign when and are interchanged and because the initial factor, , is constant under this interchange, half the terms in the expansions of vanish."
+			],
+			"color": "dim|0.43401 gray|0.43401 dim|0.43401 grey|0.43401 gray|0.27107 grey|0.27107 dark|0.15899 gray|0.15899 dark|0.15899 grey|0.15899 silver|0.066704 light|0.031049 gray|0.031049 light|0.031049 grey|0.031049 gainsboro|0.021651 white|0.004123 smoke|0.004123  "
+		}
+	}
+}

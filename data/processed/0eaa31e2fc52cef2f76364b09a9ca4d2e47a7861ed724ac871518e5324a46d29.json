@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "0eaa31e2fc52cef2f76364b09a9ca4d2e47a7861ed724ac871518e5324a46d29",
+			"url": "https://upload.wikimedia.org/math/6/4/0/6406448b5e0d7eb40c5fe50d598636b2.png",
+			"previous": [
+				"If we have a product of vectors then we denote the reverse as",
+				"Similar interpretations are true for any number of vectors spanning an n-dimensional parallelotope; the outer product of vectors a1, a2, ... an, that is , has a magnitude equal to the volume of the n-parallelotope. An n-vector doesn't necessarily have a shape of a parallelotope â this is a convenient visualization. It could be any shape, although the volume equals that of the parallelotope."
+			],
+			"after": [
+				"Scaling R so that RRâ  = 1 then",
+				"so â  leaves the length of unchanged. We can also show that",
+				"so the transformation RvRâ  preserves both length and angle. It therefore can be identified as a rotation or rotoreflection; R is called a rotor if it is a proper rotation (as it is if it can be expressed as a product of an even number of vectors) and is an instance of what is known in GA as a versor (presumably for historical reasons)."
+			],
+			"color": "black|0.35154 dim|0.2788 gray|0.2788 dim|0.2788 grey|0.2788 gray|0.17457 grey|0.17457 dark|0.10485 gray|0.10485 dark|0.10485 grey|0.10485 silver|0.044365 light|0.021427 gray|0.021427 light|0.021427 grey|0.021427 gainsboro|0.015033  "
+		}
+	}
+}

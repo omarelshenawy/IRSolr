@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "51596a588478cf6fb317c45cb8a544a50b73bba7fccf9d659248b042764ac79b",
+			"url": "https://upload.wikimedia.org/math/f/d/2/fd2654a684dc59c33b2af6facf09ccf6.png",
+			"previous": [
+				"for off-design operations:",
+				"....................(3)",
+				"",
+				"Representing design values with (')"
+			],
+			"after": [
+				".. [from (3)]",
+				"for positive values of J, slope of the curve is negative and vice versa.",
+				"In the plot of pressure-flow rate the line separating graph between two regions- unstable and stable is known as the surge line. This line is formed by joining surge points at different rpms. Unstable flow in axial compressors due to complete breakdown of the steady through flow is term as surging.[1] This phenomenon affects the performance of compressor and is undesirable."
+			],
+			"color": "dim|0.36562 gray|0.36562 dim|0.36562 grey|0.36562 gray|0.23236 grey|0.23236 dark|0.14317 gray|0.14317 dark|0.14317 grey|0.14317 black|0.11479 silver|0.066837 light|0.03508 gray|0.03508 light|0.03508 grey|0.03508 gainsboro|0.024709 white|0.0040752 smoke|0.0040752  "
+		}
+	}
+}

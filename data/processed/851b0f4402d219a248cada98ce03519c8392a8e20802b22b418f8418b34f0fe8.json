@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "851b0f4402d219a248cada98ce03519c8392a8e20802b22b418f8418b34f0fe8",
+			"url": "https://upload.wikimedia.org/math/2/e/c/2ecad63caf24e86b179f8aae90dc4f42.png",
+			"previous": [
+				"with at least one of the coefficients a, b, c, d, e, or f of the second-degree terms being non-zero.",
+				"In mathematics, a quadratic function, a quadratic polynomial, a polynomial of degree 2, or simply a quadratic, is a polynomial function in one or more variables in which the highest-degree term is of the second degree. For example, a quadratic function in three variables x, y, and z contains exclusively terms x2, y2, z2, xy, xz, yz, x, y, z, and a constant:"
+			],
+			"after": [
+				"A univariate (single-variable) quadratic function has the form[1]",
+				"in the single variable x.The graph of a univariate quadratic function is a parabola whose axis of symmetry is parallel to the y-axis, as shown at right."
+			],
+			"color": "black|0.31789 dim|0.23508 gray|0.23508 dim|0.23508 grey|0.23508 gray|0.17661 grey|0.17661 dark|0.12502 gray|0.12502 dark|0.12502 grey|0.12502 silver|0.067008 light|0.038322 gray|0.038322 light|0.038322 grey|0.038322 gainsboro|0.026061  "
+		}
+	}
+}

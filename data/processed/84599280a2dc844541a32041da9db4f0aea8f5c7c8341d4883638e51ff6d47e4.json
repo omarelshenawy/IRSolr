@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "84599280a2dc844541a32041da9db4f0aea8f5c7c8341d4883638e51ff6d47e4",
+			"url": "https://upload.wikimedia.org/math/9/e/4/9e47b0445ae6573615e6b96ec0e05f8e.png",
+				"previous": "The braâket notation is often used in this context. A vector, which represents a state of the system, in the Hilbert space of square integrable functions is represented by . In this notation, the SchrÃ¶dinger equation is:",
+				"after": "where is an eigenstate of and represents the eigenvalue. It is an observable self adjoint operator, the infinite dimensional analog of Hermitian matrices. As in the matrix case, in the equation above is understood to be the vector obtained by application of the transformation to .",
+			"color": "gray|0.29593 grey|0.29593 dark|0.24848 gray|0.24848 dark|0.24848 grey|0.24848 dim|0.24379 gray|0.24379 dim|0.24379 grey|0.24379 silver|0.11943 light|0.051013 gray|0.051013 light|0.051013 grey|0.051013 gainsboro|0.033226 white|0.002859 smoke|0.002859  "
+		}
+	}
+}

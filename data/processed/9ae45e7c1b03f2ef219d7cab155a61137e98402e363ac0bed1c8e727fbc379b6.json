@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ae45e7c1b03f2ef219d7cab155a61137e98402e363ac0bed1c8e727fbc379b6",
+			"url": "https://upload.wikimedia.org/math/6/2/3/62306f0751bb26cca9b70aba5cc5c20d.png",
+			"previous": [
+				"Lift Coefficient (CL) and Drag Coefficient (CD) are given as -",
+				"Resolving Forces in the figure[1] -",
+				"In this theory, a small element (dr) is taken at a distance r from the root of the blade and all the forces acting on the element are analysed to get a solution. It is assumed that the flow through each section of small radial thickness dr is assumed to be independent of the flow through other elements.[1][4]"
+			],
+			"after": [
+				"Also from the figure [1]-",
+				"Now,",
+				"No. of Blades (z) and Spacing (s) are related as,[1] and the total thrust for the elemental section of the propeller is zÎFx."
+			],
+			"color": "dim|0.37993 gray|0.37993 dim|0.37993 grey|0.37993 gray|0.30253 grey|0.30253 dark|0.18221 gray|0.18221 dark|0.18221 grey|0.18221 silver|0.069594 light|0.030827 gray|0.030827 light|0.030827 grey|0.030827 gainsboro|0.020872 white|0.0033699 smoke|0.0033699  "
+		}
+	}
+}

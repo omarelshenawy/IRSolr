@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b697531eb86f7f073fbdbb26c54603b8aae3d9b76508477d1318028f4ed4a1d",
+			"url": "https://upload.wikimedia.org/math/5/9/9/5993ed90f20aa9b47fabc566f7499821.png",
+			"previous": [],
+				"after": "The transition moment integral is zero if the transition moment function, , is anti-symmetric or odd, i.e. y(x) = -y(-x) holds. The symmetry of the transition moment function is the direct product of the parities of its three components. The symmetry characteristics of each component can be obtained from standard character tables. Rules for obtaining the symmetries of a direct product can be found in texts on character tables.[2]",
+			"color": "dark|0.26487 gray|0.26487 dark|0.26487 grey|0.26487 silver|0.18664 gray|0.17925 grey|0.17925 light|0.12749 gray|0.12749 light|0.12749 grey|0.12749 gainsboro|0.092542 dim|0.071369 gray|0.071369 dim|0.071369 grey|0.071369 white|0.017826 smoke|0.017826 linen|0.010357 lavender|0.0086556 blush|0.0086556 alice|0.00839 blue|0.00839 ghost|0.0081964 white|0.0081964 sea|0.0076985 shell|0.0076985 snow|0.007408 white|0.005361 mint|0.0031203 cream|0.0031203  "
+		}
+	}
+}

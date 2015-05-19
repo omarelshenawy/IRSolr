@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "24fac5f1e7c2bf446269d31ebca0a02f1b942968d97c440625073b4c353761eb",
+			"url": "https://upload.wikimedia.org/math/5/3/2/532fc767d8b4fac5b36c40cf4faa9215.png",
+				"previous": "From the first equation of the Lorentz transformation in terms of coordinate differences",
+				"after": "it is clear that two events that are simultaneous in frame S (satisfying Ît = 0), are not necessarily simultaneous in another inertial frame Sâ² (satisfying Îtâ² = 0). Only if these events are additionally co-local in frame S (satisfying Îx = 0), will they be simultaneous in another frame Sâ².",
+			"color": "dim|0.39144 gray|0.39144 dim|0.39144 grey|0.39144 gray|0.28047 grey|0.28047 dark|0.17674 gray|0.17674 dark|0.17674 grey|0.17674 silver|0.079539 light|0.036934 gray|0.036934 light|0.036934 grey|0.036934 gainsboro|0.024104 white|0.0031513 smoke|0.0031513  "
+		}
+	}
+}

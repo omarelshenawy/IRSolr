@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "173c1d73bd98168746d47ec737e989e8626d2f8bb0304afcdafb99398fbbe74a",
+			"url": "https://upload.wikimedia.org/math/d/c/c/dcc21a0d06b1c0ef686668922e9cdda5.png",
+			"previous": [
+				"Dividing by a4, provides the equivalent equation",
+				"be the general quartic equation we want to solve.",
+				"Let",
+				"For solving purpose, it is generally better to convert the quartic into a depressed quartic by the following simple change of variable. All formulas are simpler and some methods work only in this case. The roots of the original quartic are easily recovered from that of the depressed quartic by the reverse change of variable."
+			],
+			"after": [
+				"with",
+				"and"
+			],
+			"color": "black|0.36259 dim|0.25222 gray|0.25222 dim|0.25222 grey|0.25222 gray|0.17033 grey|0.17033 dark|0.1123 gray|0.1123 dark|0.1123 grey|0.1123 silver|0.050116 light|0.024798 gray|0.024798 light|0.024798 grey|0.024798 gainsboro|0.017314  "
+		}
+	}
+}

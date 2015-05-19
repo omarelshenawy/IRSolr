@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "207fc4be84f2dd92e24edd0f799ffdb0bfc5a28e94aab5cf160ffbae1d2db478",
+			"url": "https://upload.wikimedia.org/math/1/8/3/183e36da23a7e00f3c81a78504748233.png",
+			"previous": [
+				"In the limit as Î´x approaches zero[3] this equation becomes:",
+				"The total volume is the summation of all incremental volumes:"
+			],
+			"after": [
+				"At any given x, a right-angled triangle connects x, y and r to the origin; hence, applying the Pythagorean theorem yields:",
+				"Thus, substituting y with a function of x gives:"
+			],
+			"color": "dim|0.36375 gray|0.36375 dim|0.36375 grey|0.36375 gray|0.28809 grey|0.28809 dark|0.18454 gray|0.18454 dark|0.18454 grey|0.18454 silver|0.079631 light|0.038879 gray|0.038879 light|0.038879 grey|0.038879 gainsboro|0.026442 white|0.0047103 smoke|0.0047103  "
+		}
+	}
+}

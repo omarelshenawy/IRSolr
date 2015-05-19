@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "68e4239f7f1020f1953a82c18b49d6ae74f1333da0a3bf9e99379ff2838c406e",
+			"url": "https://upload.wikimedia.org/math/e/b/9/eb988f70299d82e26904e3fc2769f8ce.png",
+				"previous": "The solution of this equation for x in terms of t is found by using its characteristic equation",
+				"after": "which can be found by stacking into matrix form a set of equations consisting of the above difference equation and the kâ1 equations giving a k-dimensional system of the first order in the stacked variable vector in terms of its once-lagged value, and taking the characteristic equation of this system's matrix. This equation gives k characteristic roots for use in the solution equation",
+			"color": "dim|0.33108 gray|0.33108 dim|0.33108 grey|0.33108 gray|0.22072 grey|0.22072 dark|0.16296 gray|0.16296 dark|0.16296 grey|0.16296 black|0.11802 silver|0.08127 light|0.042098 gray|0.042098 light|0.042098 grey|0.042098 gainsboro|0.02894  "
+		}
+	}
+}

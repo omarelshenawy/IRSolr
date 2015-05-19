@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fa84866ff056f0b25105fae2b32847980b8c248479db2410321c1a9b263e947",
+			"url": "https://upload.wikimedia.org/math/2/9/d/29def358b418103f96d8e8b50e016cfa.png",
+			"previous": [
+				"Where i â  gÂ :",
+				"In this case each cash flow grows by a factor of (1+g). Similar to the formula for an annuity, the present value of a growing annuity (PVGA) uses the same variables with the addition of g as the rate of growth of the annuity (A is the annuity payment in the first period). This is a calculation that is rarely provided for on financial calculators."
+			],
+				"after": "Where i = gÂ :",
+			"color": "dim|0.36535 gray|0.36535 dim|0.36535 grey|0.36535 gray|0.26858 grey|0.26858 dark|0.17049 gray|0.17049 dark|0.17049 grey|0.17049 silver|0.083955 light|0.047047 gray|0.047047 light|0.047047 grey|0.047047 gainsboro|0.036462 white|0.0078075 smoke|0.0078075 linen|0.006219  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "a09cac5da300f8cdaff5c8026fbcf24ae2d5d03d080a8f1b580d23d89ff46a52",
+			"url": "https://upload.wikimedia.org/math/6/4/f/64f74cddbd7f647fd4e5d26327eeeb51.png",
+				"previous": "For example, suppose a consumer's consumption set is X =Â {nothing, 1Â apple,1Â orange, 1Â apple and 1Â orange, 2Â apples, 2Â oranges}, and its utility function is u(nothing)Â =Â 0, u(1Â apple)Â =Â 1, u(1Â orange)Â =Â 2, u(1Â apple and 1Â orange)Â =Â 4, u(2Â apples)Â =Â 2 and u(2Â oranges)Â =Â 3. Then this consumer prefers 1 orange to 1 apple, but prefers one of each to 2 oranges.",
+				"after": "A utility function represents a preference relation on X iff for every , implies . If u represents , then this implies is complete and transitive, and hence rational.",
+			"color": "dim|0.31775 gray|0.31775 dim|0.31775 grey|0.31775 gray|0.29388 grey|0.29388 dark|0.19422 gray|0.19422 dark|0.19422 grey|0.19422 black|0.079152 silver|0.059486 light|0.026566 gray|0.026566 light|0.026566 grey|0.026566 gainsboro|0.018244  "
+		}
+	}
+}

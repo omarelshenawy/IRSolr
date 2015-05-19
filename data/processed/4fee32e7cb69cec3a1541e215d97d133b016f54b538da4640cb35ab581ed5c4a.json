@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fee32e7cb69cec3a1541e215d97d133b016f54b538da4640cb35ab581ed5c4a",
+			"url": "https://upload.wikimedia.org/math/5/6/a/56a5d0fae0136327e61476dcfe43109a.png",
+			"previous": [],
+				"after": "If x and y are integers, rationals, or real numbers, then xy=0 implies x=0 or y=0. Suppose abc=0. Then, substituting a for x and bc for y, we learn a=0 or bc=0. Then we can substitute again, letting x=b and y=c, to show that if bc=0 then b=0 or c=0. Therefore if abc=0, then a=0 or (b=0 or c=0), so abc=0 implies a=0 or b=0 or c=0.",
+			"color": " "
+		}
+	}
+}

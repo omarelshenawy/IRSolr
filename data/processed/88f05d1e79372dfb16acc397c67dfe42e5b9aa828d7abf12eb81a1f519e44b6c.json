@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "88f05d1e79372dfb16acc397c67dfe42e5b9aa828d7abf12eb81a1f519e44b6c",
+			"url": "https://upload.wikimedia.org/math/5/8/7/587a942365583aa00db68bb537c8f032.png",
+			"previous": [
+				"where is saturation intensity. To solve, we first rearrange the equation in order to separate the variables, intensity I and position z:",
+				"The general form of the gain equation, which applies regardless of the input intensity, derives from the general differential equation for the intensity I as a function of position z in the gain medium:"
+			],
+			"after": [
+				"Integrating both sides, we obtain",
+				"or"
+			],
+			"color": "dim|0.35343 gray|0.35343 dim|0.35343 grey|0.35343 gray|0.28208 grey|0.28208 dark|0.18965 gray|0.18965 dark|0.18965 grey|0.18965 silver|0.076133 light|0.039794 gray|0.039794 light|0.039794 grey|0.039794 gainsboro|0.027709 white|0.0093411 smoke|0.0093411 alice|0.0032256 blue|0.0032256 linen|0.0031857 lavender|0.0031693 blush|0.0031693 ghost|0.0031631 white|0.0031631 sea|0.003076 shell|0.003076 snow|0.0030232  "
+		}
+	}
+}

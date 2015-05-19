@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1be60fbb2e1a3f02933c380c841c43532ca8bdd1c11b26f7e3116ead64aae19d",
+			"url": "https://upload.wikimedia.org/math/d/c/0/dc06e9716e7af876326bb80c57725b16.png",
+			"previous": [
+				"Another expression for the surface area is",
+				"where Î(z) is Euler's Gamma function."
+			],
+				"after": "More generally, in a metric space (E,d), the sphere of center x and radius r > 0 is the set of points y such that d(x,y) = r.",
+			"color": " "
+		}
+	}
+}

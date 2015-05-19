@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "673d86eab2004b4433e375f60662c78acc03f893d8bde8975aa17004918eb9f6",
+			"url": "https://upload.wikimedia.org/math/1/6/f/16f13c6a2209ef6b9598a284ba22933f.png",
+			"previous": [
+				"The three constraints imposed would typically be:",
+				"Iteration constraints (or matching quantities)",
+				"3) compressor pressure ratio i.e."
+			],
+			"after": [
+				"2) nozzle area e.g. vs",
+				"3) turbine flow capacity e.g. vs",
+				"The latter two are the physical constraints that must be met, whilst the former is some measure of throttle setting."
+			],
+			"color": "dim|0.33335 gray|0.33335 dim|0.33335 grey|0.33335 gray|0.29779 grey|0.29779 dark|0.18686 gray|0.18686 dark|0.18686 grey|0.18686 silver|0.080978 light|0.040154 gray|0.040154 light|0.040154 grey|0.040154 gainsboro|0.030204 white|0.0071231 smoke|0.0071231 linen|0.0041817 lavender|0.0034423 blush|0.0034423 alice|0.0033447 blue|0.0033447 ghost|0.0032633 white|0.0032633 sea|0.003096 shell|0.003096 snow|0.0029251  "
+		}
+	}
+}

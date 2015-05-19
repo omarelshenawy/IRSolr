@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7046c2ecf693a6ebd1090e32183908a4a49f16f094d3796ec3431ac198f22fd0",
+			"url": "https://upload.wikimedia.org/math/4/c/8/4c8a41ba6c5953c9386fb30f55667c43.png",
+				"previous": "Any oriented Riemannian (or pseudo-Riemannian) manifold has a natural volume (or pseudo volume) form. In local coordinates, it can be expressed as",
+				"after": "where the are the 1-forms providing an oriented basis for the cotangent bundle of the n-dimensional manifold. Here, is the absolute value of the determinant of the matrix representation of the metric tensor on the manifold.",
+			"color": "dim|0.27629 gray|0.27629 dim|0.27629 grey|0.27629 black|0.23452 gray|0.20531 grey|0.20531 dark|0.13833 gray|0.13833 dark|0.13833 grey|0.13833 silver|0.070328 light|0.037383 gray|0.037383 light|0.037383 grey|0.037383 gainsboro|0.025711  "
+		}
+	}
+}

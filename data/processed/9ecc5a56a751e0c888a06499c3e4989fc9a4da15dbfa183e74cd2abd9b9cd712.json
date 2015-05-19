@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ecc5a56a751e0c888a06499c3e4989fc9a4da15dbfa183e74cd2abd9b9cd712",
+			"url": "https://upload.wikimedia.org/math/9/b/0/9b0c9b60c32b4c5ea0a3553d0a3e6a90.png",
+				"previous": "where the constant k must be determined. The boundary conditions then imply that X is a multiple of sin kx, and k must have the form",
+				"after": "where n is an integer. Each term in the sum corresponds to a mode of vibration of the string. The mode with n = 1 is called the fundamental mode, and the frequencies of the other modes are all multiples of this frequency. They form the overtone series of the string, and they are the basis for musical acoustics. The initial conditions may then be satisfied by representing f and g as infinite sums of these modes. Wind instruments typically correspond to vibrations of an air column with one end open and one end closed. The corresponding boundary conditions are",
+			"color": "dim|0.33446 gray|0.33446 dim|0.33446 grey|0.33446 gray|0.26722 grey|0.26722 dark|0.18469 gray|0.18469 dark|0.18469 grey|0.18469 silver|0.088147 light|0.047767 gray|0.047767 light|0.047767 grey|0.047767 gainsboro|0.035247 white|0.0087028 smoke|0.0087028 lavender|0.0046038 blush|0.0046038 alice|0.0045738 blue|0.0045738 ghost|0.0044484 white|0.0044484 sea|0.0042335 shell|0.0042335 snow|0.0041583 linen|0.00413 white|0.0030385  "
+		}
+	}
+}

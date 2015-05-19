@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "185def94d5f2d7537f6ce659248b10e8ce92fd5daaf46130e81a1c51655be8b8",
+			"url": "https://upload.wikimedia.org/math/4/3/5/4354047bfb538af878fb79fb1fd72899.png",
+				"previous": "where Î¸ is the tangent of the Poiseuille parabola intersecting the wall. Although LÃ©vÃªque's solution was specific to heat transfer into a Poiseuille flow, his insight helped lead other scientists to an exact solution of the thermal boundary-layer problem.[4] Schuh observed that in a boundary-layer, u is again a linear function of y, but that in this case, the wall tangent is a function of x.[5] He expressed this with a modified version of LÃ©vÃªque's profile,",
+				"after": "Paul Richard Heinrich Blasius derived an exact solution to the above laminar boundary layer equations.[8] The thickness of the boundary layer is a function of the Reynolds number for laminar flow.",
+			"color": " "
+		}
+	}
+}

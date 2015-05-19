@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "98a66c82b8e06eb8b8e1aaae7c253561484eda028ed3c80f714eca2b7744e487",
+			"url": "https://upload.wikimedia.org/math/5/9/7/5973433feb127c1d47615259a3c0c83a.png",
+				"previous": "The formula for the shape of a NACA 00xx foil, with \"xx\" being replaced by the percentage of thickness to chord, is:[3]",
+			"after": [
+				"where:",
+				"Note that in this equation, at (x/c) = 1 (the trailing edge of the airfoil), the thickness is not quite zero. If a zero-thickness trailing edge is required, for example for computational work, one of the coefficients should be modified such that they sum to zero. Modifying the last coefficient (i.e. to â0.1036) will result in the smallest change to the overall shape of the airfoil. The leading edge approximates a cylinder with a radius of:"
+			],
+			"color": "dim|0.33947 gray|0.33947 dim|0.33947 grey|0.33947 gray|0.28885 grey|0.28885 dark|0.19175 gray|0.19175 dark|0.19175 grey|0.19175 silver|0.087372 light|0.041102 gray|0.041102 light|0.041102 grey|0.041102 gainsboro|0.030203 white|0.0047421 smoke|0.0047421  "
+		}
+	}
+}

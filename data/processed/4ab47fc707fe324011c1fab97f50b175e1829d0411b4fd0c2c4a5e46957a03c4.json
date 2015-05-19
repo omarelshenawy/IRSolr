@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ab47fc707fe324011c1fab97f50b175e1829d0411b4fd0c2c4a5e46957a03c4",
+			"url": "https://upload.wikimedia.org/math/1/3/8/1388c8db0749e17c4d673b86ae72bd05.png",
+			"previous": [
+				"With the differential operator defined by",
+				"The particle in a one-dimensional potential energy box is the most mathematically simple example where restraints lead to the quantization of energy levels. The box is defined as having zero potential energy everywhere inside a certain region, and infinite potential energy everywhere outside that region. For the one-dimensional case in the direction, the time-independent SchrÃ¶dinger equation may be written[75]"
+			],
+			"after": [
+				"the previous equation is evocative of the classic kinetic energy analogue,",
+				"with state in this case having energy coincident with the kinetic energy of the particle."
+			],
+			"color": "gray|0.23688 grey|0.23688 dim|0.22269 gray|0.22269 dim|0.22269 grey|0.22269 dark|0.20661 gray|0.20661 dark|0.20661 grey|0.20661 black|0.19529 silver|0.087755 light|0.02851 gray|0.02851 light|0.02851 grey|0.02851 gainsboro|0.015743  "
+		}
+	}
+}

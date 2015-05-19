@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a3c9d255e6342f6319eeeb2e2c687ab849d7f3225a1c0e7f5efeda7efc7ec4b",
+			"url": "https://upload.wikimedia.org/math/6/a/9/6a958ec637f1726f911f54c19e76ce01.png",
+				"previous": "A measure Î¼ is countably subadditive: For any countable sequence E1, E2, E3, ... of sets En in Î£ (not necessarily disjoint):",
+				"after": "A measure Î¼ is continuous from below: If E1, E2, E3, ... are measurable sets and En is a subset of En + 1 for all n, then the union of the sets En is measurable, and",
+			"color": "gray|0.30601 grey|0.30601 dark|0.24988 gray|0.24988 dark|0.24988 grey|0.24988 dim|0.20752 gray|0.20752 dim|0.20752 grey|0.20752 silver|0.11837 light|0.05529 gray|0.05529 light|0.05529 grey|0.05529 gainsboro|0.036863 white|0.0062166 smoke|0.0062166 linen|0.00317 lavender|0.002898 blush|0.002898 alice|0.0027718 blue|0.0027718 ghost|0.0027061 white|0.0027061 sea|0.0025822 shell|0.0025822  "
+		}
+	}
+}

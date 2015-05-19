@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "12d887f8cd82cf4a7ce2f4b9cfd47839b749a3be369dbf7ab048084307b39dc6",
+			"url": "https://upload.wikimedia.org/math/f/1/c/f1c4c7336615eee1ba6b49f07e1d20bf.png",
+			"previous": [
+				"",
+				"In thermodynamics, the thermal efficiency () is a dimensionless performance measure of a device that uses thermal energy, such as an internal combustion engine, a steam turbine or a steam engine, a boiler, a furnace, or a refrigerator for example. In other words, efficiency indicates how well an energy conversion or transfer process is accomplished."
+			],
+			"after": [
+				"From the first law of thermodynamics, the energy output cannot exceed the input, so",
+				"When expressed as a percentage, the thermal efficiency must be between 0% and 100%. Efficiency is typically less than 100% because there are inefficiencies such as friction and heat loss that convert the energy into alternative forms. For example, a typical gasoline automobile engine operates at around 25% efficiency, and a large coal-fueled electrical generating plant peaks at about 46%. The largest diesel engine in the world peaks at 51.7%. In a combined cycle plant, thermal efficiencies are approaching 60%.[2] Such a real-world value may be used as a figure of merit for the device."
+			],
+			"color": "black|0.50022 dim|0.17465 gray|0.17465 dim|0.17465 grey|0.17465 gray|0.13273 grey|0.13273 dark|0.10227 gray|0.10227 dark|0.10227 grey|0.10227 silver|0.045368 light|0.021278 gray|0.021278 light|0.021278 grey|0.021278 gainsboro|0.014206  "
+		}
+	}
+}

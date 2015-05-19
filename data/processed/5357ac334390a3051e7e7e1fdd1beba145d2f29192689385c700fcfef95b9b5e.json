@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "5357ac334390a3051e7e7e1fdd1beba145d2f29192689385c700fcfef95b9b5e",
+			"url": "https://upload.wikimedia.org/math/e/8/e/e8ed57794929018dd8c6e97eb1cd1210.png",
+				"previous": "Local Sidereal Time at any locality differs from the Greenwich Sidereal Time value of the same moment, by an amount that is proportional to the longitude of the locality. When one moves eastward 15Â° in longitude, sidereal time is larger by one sidereal hour (note that it wraps around at 24 hours). Unlike the reckoning of local solar time in \"time zones,\" incrementing by (usually) one hour, differences in local sidereal time are reckoned based on actual measured longitude, to the accuracy of the measurement of the longitude, not just in whole hours.",
+				"after": "Greenwich Mean Sidereal Time (GMST) and UT1 differ from each other in rate, with the second of sidereal time a little shorter than that of UT1, so that (as at 2000 January 1 noon) 1.002 737 909 350 795 second of mean sidereal time was equal to 1 second of Universal Time (UT1). The ratio varies slightly with time, reaching 1.002 737 909 409 795 after a century.[3]",
+			"color": "dark|0.26771 gray|0.26771 dark|0.26771 grey|0.26771 silver|0.19646 light|0.1491 gray|0.1491 light|0.1491 grey|0.1491 gainsboro|0.12167 gray|0.10873 grey|0.10873 white|0.033253 smoke|0.033253 dim|0.021417 gray|0.021417 dim|0.021417 grey|0.021417 linen|0.018152 lavender|0.014513 blush|0.014513 alice|0.014239 blue|0.014239 ghost|0.013735 white|0.013735 sea|0.013108 shell|0.013108 snow|0.01249 white|0.0089511 mint|0.0051071 cream|0.0051071  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "35ffb5a869ba3ff23c10d6c5f15d368769bcfff9239804ec56dbb2b70558cf5d",
+			"url": "https://upload.wikimedia.org/math/c/0/9/c09dbf4483158a99ca3500cb19203572.png",
+				"previous": "In an approach based on limits, the symbol dy/dx is to be interpreted not as the quotient of two numbers but as a shorthand for the limit computed above. Leibniz, however, did intend it to represent the quotient of two infinitesimally small numbers, dy being the infinitesimally small change in y caused by an infinitesimally small change dx applied to x. We can also think of d/dx as a differentiation operator, which takes a function as an input and gives another function, the derivative, as the output. For example:",
+				"after": "In this usage, the dx in the denominator is read as \"with respect to x\". Even when calculus is developed using limits rather than infinitesimals, it is common to manipulate symbols like dx and dy as if they were real numbers; although it is possible to avoid such manipulations, they are sometimes notationally convenient in expressing operations such as the total derivative.",
+			"color": "dim|0.3774 gray|0.3774 dim|0.3774 grey|0.3774 gray|0.28901 grey|0.28901 dark|0.17872 gray|0.17872 dark|0.17872 grey|0.17872 silver|0.075671 light|0.03674 gray|0.03674 light|0.03674 grey|0.03674 gainsboro|0.025267 white|0.0040709 smoke|0.0040709  "
+		}
+	}
+}

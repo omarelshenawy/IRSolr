@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "175a9a5da3c227b327771faee48f7447b2ae1f7af7995ee90dcf96f414ba4f10",
+			"url": "https://upload.wikimedia.org/math/4/f/4/4f440b523913bbb1bac250fedb900f65.png",
+			"previous": [
+				"The Schwarzschild solution has an incremental proper time equation of",
+				"So for the inertial at-rest observer, coordinate time and proper time are once again found to pass at the same rate, as expected and required for the internal self-consistency of relativity theory.[8]"
+			],
+			"after": [
+				"where",
+				"To demonstrate the use of the proper time relationship, several sub-examples involving the Earth will be used here. The use of the Schwarzschild solution for the Earth is not entirely correct for the following reasons:"
+			],
+			"color": "dim|0.36698 gray|0.36698 dim|0.36698 grey|0.36698 gray|0.28564 grey|0.28564 dark|0.18303 gray|0.18303 dark|0.18303 grey|0.18303 silver|0.080718 light|0.037303 gray|0.037303 light|0.037303 grey|0.037303 gainsboro|0.027355 white|0.004315 smoke|0.004315  "
+		}
+	}
+}

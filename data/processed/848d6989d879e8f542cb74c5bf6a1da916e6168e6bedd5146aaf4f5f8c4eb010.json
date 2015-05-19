@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "848d6989d879e8f542cb74c5bf6a1da916e6168e6bedd5146aaf4f5f8c4eb010",
+			"url": "https://upload.wikimedia.org/math/6/e/4/6e40f98496a5ddbe8f35e2112f96fb99.png",
+			"previous": [
+				"where Î» is given by the ratio as previously. After integration by parts,",
+				"where and are arbitrary. If we set the first variation for the ratio is"
+			],
+			"after": [
+				"If we first require that v vanish at the endpoints, the first variation will vanish for all such v only if",
+				"If u satisfies this condition, then the first variation will vanish for arbitrary v only if"
+			],
+			"color": "dim|0.34917 gray|0.34917 dim|0.34917 grey|0.34917 gray|0.28213 grey|0.28213 dark|0.17774 gray|0.17774 dark|0.17774 grey|0.17774 silver|0.089074 light|0.045631 gray|0.045631 light|0.045631 grey|0.045631 gainsboro|0.032302 white|0.0052853 smoke|0.0052853 linen|0.0033328 lavender|0.0029389 blush|0.0029389 alice|0.0028733 blue|0.0028733  "
+		}
+	}
+}

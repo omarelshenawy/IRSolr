@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a5375f998599eacfe83778668ee95d96616e4b0b684bca19c30cca21b595104",
+			"url": "https://upload.wikimedia.org/math/c/c/5/cc5fdcb8fabf881526d6aef878a21ee8.png",
+				"previous": "Let X be a random sample from a probability distribution with statistical parameters Î¸, which is a quantity to be estimated, and Ï, representing quantities that are not of immediate interest. A confidence interval for the parameter Î¸, with confidence level or confidence coefficient Î³, is an interval with random endpoints (u(X),Â v(X)), determined by the pair of random variables u(X) and v(X), with the property:",
+				"after": "The quantities Ï in which there is no immediate interest are called nuisance parameters, as statistical theory still needs to find some way to deal with them. The number Î³, with typical values close to but not greater than 1, is sometimes given in the form 1Â âÂ Î± (or as a percentage 100%Â·(1Â âÂ Î±)), where Î± is a small non-negative number, close to 0.",
+			"color": "dim|0.35119 gray|0.35119 dim|0.35119 grey|0.35119 gray|0.31356 grey|0.31356 dark|0.18888 gray|0.18888 dark|0.18888 grey|0.18888 silver|0.073231 light|0.034372 gray|0.034372 light|0.034372 grey|0.034372 gainsboro|0.023773 white|0.0039917 smoke|0.0039917  "
+		}
+	}
+}

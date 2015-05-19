@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "85c4e3b8578d2c99d80d959374e824a25704736c8304e4d8cfeaeeaca07f58b3",
+			"url": "https://upload.wikimedia.org/math/d/9/6/d96282297cf831cb8c53d313f2423819.png",
+			"previous": [
+				"The semi-minor axis b is the geometric mean between rmin and rmax:",
+				"The semi-major axis a is the arithmetic mean between rmin and rmax:"
+			],
+				"after": "The semi-latus rectum p is the harmonic mean between rmin and rmax:",
+			"color": "black|0.35342 dim|0.3316 gray|0.3316 dim|0.3316 grey|0.3316 gray|0.15863 grey|0.15863 dark|0.083615 gray|0.083615 dark|0.083615 grey|0.083615 silver|0.036639 light|0.015768 gray|0.015768 light|0.015768 grey|0.015768 gainsboro|0.010815  "
+		}
+	}
+}

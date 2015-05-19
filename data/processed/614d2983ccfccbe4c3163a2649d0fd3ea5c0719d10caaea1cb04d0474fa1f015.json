@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "614d2983ccfccbe4c3163a2649d0fd3ea5c0719d10caaea1cb04d0474fa1f015",
+			"url": "https://upload.wikimedia.org/math/0/9/b/09b8a4e8c4614aad7202a5a51fe64807.png",
+			"previous": [
+				"Applying Laplace transformation results in the transformed PID controller equation",
+				"The desired closed loop dynamics is obtained by adjusting the three parameters , and , often iteratively by \"tuning\" and without specific knowledge of a plant model. Stability can often be ensured using only the proportional term. The integral term permits the rejection of a step disturbance (often a striking specification in process control). The derivative term is used to provide damping or shaping of the response. PID controllers are the most well established class of control systems: however, they cannot be used in several more complicated cases, especially if MIMO systems are considered."
+			],
+				"after": "with the PID controller transfer function",
+			"color": "dim|0.34926 gray|0.34926 dim|0.34926 grey|0.34926 gray|0.23002 grey|0.23002 black|0.15565 dark|0.14505 gray|0.14505 dark|0.14505 grey|0.14505 silver|0.060879 light|0.029312 gray|0.029312 light|0.029312 grey|0.029312 gainsboro|0.019404  "
+		}
+	}
+}

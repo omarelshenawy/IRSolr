@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f89bf72ca74155291f0470e198464ed8b816c3503a7d70d84c1009ed4907b30",
+			"url": "https://upload.wikimedia.org/math/5/6/a/56a40e0659c348fa5d5d53616bcdda1c.png",
+			"previous": [
+				"The curve at point t0 can be evaluated with the recurrence relation",
+				"where b is a Bernstein basis polynomial"
+			],
+			"after": [
+				"Then, the evaluation of at point can be evaluated in steps of the algorithm. The result is given byÂ :",
+				"Moreover, the BÃ©zier curve can be split at point into two curves with respective control pointsÂ :"
+			],
+			"color": "dim|0.40001 gray|0.40001 dim|0.40001 grey|0.40001 gray|0.2725 grey|0.2725 dark|0.16476 gray|0.16476 dark|0.16476 grey|0.16476 silver|0.074432 light|0.039263 gray|0.039263 light|0.039263 grey|0.039263 gainsboro|0.027532 white|0.004939 smoke|0.004939  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3747e98bde9bf86767a3ce228c5a42cf79e2d8e30bc148051615bcada00c42e9",
+			"url": "https://upload.wikimedia.org/math/8/7/7/87714360b26fcf803fbfd5774f9331f8.png",
+				"previous": "In mathematics, a quartic function, is a function of the form",
+			"after": [
+				"where a is nonzero, which is defined by a polynomial of degree four, called quartic polynomial.",
+				"Sometimes the term biquadratic is used instead of quartic, but, usually, biquadratic function refers to a quadratic function of a square (or, equivalently, to the function defined by a quartic polynomial without terms of odd degree), having the form"
+			],
+			"color": "black|0.34584 dim|0.2619 gray|0.2619 dim|0.2619 grey|0.2619 gray|0.1739 grey|0.1739 dark|0.11619 gray|0.11619 dark|0.11619 grey|0.11619 silver|0.050644 light|0.024527 gray|0.024527 light|0.024527 grey|0.024527 gainsboro|0.017111  "
+		}
+	}
+}

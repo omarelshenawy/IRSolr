@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "819cfd9bcf9ba309f56c7cbbef159f4936ffb6a9f663148166f2547789bd754b",
+			"url": "https://upload.wikimedia.org/math/e/7/b/e7b25039234acc191f9af03c4c46770f.png",
+			"previous": [
+				"Intake pressure recovery factor,",
+				"Design component performance assumptions:",
+				"(factor-up by 1.8, if working with degrees Rankine)"
+			],
+			"after": [
+				"Turbine polytropic efficiency,",
+				"Combustor pressure loss 5%, so the combustor pressure ratio",
+				"Jetpipe pressure loss 1%, so the jetpipe pressure ratio"
+			],
+			"color": "gray|0.31855 grey|0.31855 dim|0.27332 gray|0.27332 dim|0.27332 grey|0.27332 dark|0.22114 gray|0.22114 dark|0.22114 grey|0.22114 silver|0.094212 light|0.044476 gray|0.044476 light|0.044476 grey|0.044476 gainsboro|0.029646 white|0.0049261 smoke|0.0049261  "
+		}
+	}
+}

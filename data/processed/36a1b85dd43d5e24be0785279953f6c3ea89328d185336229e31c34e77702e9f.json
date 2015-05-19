@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "36a1b85dd43d5e24be0785279953f6c3ea89328d185336229e31c34e77702e9f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/220px-Kernel_Layout.svg.png",
+				"previous": "The components of an operating system all exist in order to make the different parts of a computer work together. All user software needs to go through the operating system in order to use any of the hardware, whether it be as simple as a mouse or keyboard or as complex as an Internet component.",
+				"after": "With the aid of the firmware and device drivers, the kernel provides the most basic level of control over all of the computer's hardware devices. It manages memory access for programs in the RAM, it determines which programs get access to which hardware resources, it sets up or resets the CPU's operating states for optimal operation at all times, and it organizes the data for long-term non-volatile storage with file systems on such media as disks, tapes, flash memory, etc.",
+			"color": "light|0.89817 coral|0.89817 black|0.024148 slate|0.017619 blue|0.017619 red|0.014613 navy|0.013024 sea|0.008084 green|0.008084 medium|0.007704 sea|0.007704 green|0.007704  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7df5157d95f998d10e5939a69fcc5985c27f0c6b5db35342c0780eea410619bc",
+			"url": "https://upload.wikimedia.org/math/4/3/a/43af138a0672646cd8a635028b2434a5.png",
+				"previous": "This matrix shifts the coordinates of the vector up by one position, and moves the first coordinate to the bottom. Its characteristic polynomial is which has one real root . Any vector with three equal non-zero coordinates is an eigenvector for this eigenvalue. For example,",
+			"after": [],
+			"color": "dim|0.74676 gray|0.74676 dim|0.74676 grey|0.74676 gray|0.16762 grey|0.16762 dark|0.064063 gray|0.064063 dark|0.064063 grey|0.064063 silver|0.015268  "
+		}
+	}
+}

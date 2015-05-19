@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "89330bfb5d7918f6d8105959dffb175583a7058b3df849c3d8c84c5a0b1f564e",
+			"url": "https://upload.wikimedia.org/math/a/d/1/ad1c6b5d0b659b0dcc02cc87d263d4a4.png",
+			"previous": [
+				"In 1837, Bessel obtained one such series,[11] which was put into a simpler form by Helmert,[12][13]",
+				"Series with considerably faster convergence can be obtained by expanding in terms of the third flattening, instead of the eccentricity. They are related by"
+			],
+			"after": [
+				"with",
+				"Because changes sign when and are interchanged and because the initial factor, , is constant under this interchange, half the terms in the expansions of vanish."
+			],
+			"color": "dim|0.44371 gray|0.44371 dim|0.44371 grey|0.44371 gray|0.271 grey|0.271 dark|0.16058 gray|0.16058 dark|0.16058 grey|0.16058 silver|0.065308 light|0.027978 gray|0.027978 light|0.027978 grey|0.027978 gainsboro|0.01894  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "2208e794c5fe48060ef3ab2840070360c79f9b6d0f13ae820f59c58f2492b2ef",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Inhibition_diagrams.png/200px-Inhibition_diagrams.png",
+			"previous": [],
+				"after": "As noted above, an enzyme inhibitor is characterised by its two dissociation constants, Ki and Ki', to the enzyme and to the enzyme-substrate complex, respectively. The enzyme-inhibitor constant Ki can be measured directly by various methods; one extremely accurate method is isothermal titration calorimetry, in which the inhibitor is titrated into a solution of enzyme and the heat released or absorbed is measured.[5] However, the other dissociation constant Ki' is difficult to measure directly, since the enzyme-substrate complex is short-lived and undergoing a chemical reaction to form the product. Hence, Ki' is usually measured indirectly, by observing the enzyme activity under various substrate and inhibitor concentrations, and fitting the data[6] to a modified MichaelisâMenten equation",
+			"color": " "
+		}
+	}
+}

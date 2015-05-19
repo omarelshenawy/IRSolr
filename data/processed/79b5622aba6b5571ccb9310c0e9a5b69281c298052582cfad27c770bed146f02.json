@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "79b5622aba6b5571ccb9310c0e9a5b69281c298052582cfad27c770bed146f02",
+			"url": "https://upload.wikimedia.org/math/4/8/e/48eea9bb1349ad48918671c0d8ab39a2.png",
+				"previous": "(where we define an to mean 1, which is reasonable since 1 is indeed the n-th coefficient of our polynomial). The case of a generic polynomial of degree n, , is of course reduced to the case of a monic, dividing all coefficients by an â  0. Also, in case that 0 is not a root, i.e. a0 â  0., bounds from below on the roots Î¶ follow immediately as bounds from above on , that is, the roots of . Finally, the distance from the roots Î¶ to any point can be estimated from below and above, seeing as zeros of the polynomial , whose coefficients are the Taylor expansion of P(z) at",
+			"after": [],
+			"color": "dim|0.34081 gray|0.34081 dim|0.34081 grey|0.34081 gray|0.28679 grey|0.28679 dark|0.26419 gray|0.26419 dark|0.26419 grey|0.26419 silver|0.054861 light|0.025313 gray|0.025313 light|0.025313 grey|0.025313 gainsboro|0.017157  "
+		}
+	}
+}

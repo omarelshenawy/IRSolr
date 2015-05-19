@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "155ab155a8822b1b39be2a98df5137f1f2ae80755dbaacbc2854d0828b457ab2",
+			"url": "https://upload.wikimedia.org/math/0/b/a/0babb4f970aecfce00f11f7e90938b6c.png",
+			"previous": [
+				"until convergence. A suitable starting guess is given by where",
+				"In some problems, we need to be able to solve the inverse problem: given , determine . This may be solved by Newton's method, iterating"
+			],
+			"after": [
+				"Alternatively, Helmert's series for the meridian distance can be reverted to give[20][21]",
+				"where"
+			],
+			"color": " "
+		}
+	}
+}

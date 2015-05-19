@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "73e2d4d114f2a60e8ffcae0cbf800cb6d08ec404759271e2af157b6b08448e35",
+			"url": "https://upload.wikimedia.org/math/c/4/5/c455ad235bdab84607e92521935af3d6.png",
+			"previous": [
+				"Multiplying by 1+Îµ gives the result",
+				"Get"
+			],
+			"after": [
+				"This is the third step in the connection between time and position in the orbit.",
+				"The fourth step is to compute the heliocentric distance r from the true anomaly Î¸ by Kepler's first law:"
+			],
+			"color": "dim|0.42018 gray|0.42018 dim|0.42018 grey|0.42018 gray|0.27825 grey|0.27825 dark|0.15949 gray|0.15949 dark|0.15949 grey|0.15949 silver|0.069075 light|0.033428 gray|0.033428 light|0.033428 grey|0.033428 gainsboro|0.023331 white|0.0039125 smoke|0.0039125  "
+		}
+	}
+}

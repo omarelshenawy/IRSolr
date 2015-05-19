@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "120b374da618e8581a9679c61957529c77b60be8d4556e17361f1d510efb8ed4",
+			"url": "https://upload.wikimedia.org/math/3/5/7/357c8d5eff8138749ff3c27883ffbd73.png",
+			"previous": [
+				"These examples illustrate how this extension satisfies the behavior rules above:",
+				"and"
+			],
+			"after": [
+				"The degree of a polynomial f can be computed by the formula",
+				"This formula generalizes the concept of degree to some functions that are not polynomials. For example:"
+			],
+			"color": "dim|0.39146 gray|0.39146 dim|0.39146 grey|0.39146 gray|0.27195 grey|0.27195 dark|0.1677 gray|0.1677 dark|0.1677 grey|0.1677 silver|0.079806 light|0.043321 gray|0.043321 light|0.043321 grey|0.043321 gainsboro|0.030375 white|0.004212 smoke|0.004212  "
+		}
+	}
+}

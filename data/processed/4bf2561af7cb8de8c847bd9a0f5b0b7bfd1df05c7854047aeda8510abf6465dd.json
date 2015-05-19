@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4bf2561af7cb8de8c847bd9a0f5b0b7bfd1df05c7854047aeda8510abf6465dd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/220px-Riemann_zeta_function_absolute_value.png",
+			"previous": [],
+			"after": [
+				"The Riemann zeta function Î¶(s) is defined as an infinite sum",
+				"where s is a complex number with real part bigger than 1. It is a consequence of the fundamental theorem of arithmetic that this sum agrees with the infinite product"
+			],
+			"color": "silver|0.20253 light|0.17912 gray|0.17912 light|0.17912 grey|0.17912 gainsboro|0.15655 dark|0.14713 gray|0.14713 dark|0.14713 grey|0.14713  "
+		}
+	}
+}

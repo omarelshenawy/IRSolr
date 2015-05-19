@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e6f541284124eb81f8f150014e9b8e77b3637a96ce8a80d112df1208bb9a9a9",
+			"url": "https://upload.wikimedia.org/math/5/a/2/5a2bab40e9585cf9431088eba3cfb8f8.png",
+			"previous": [],
+				"after": "One example of a quantum interference phenomenon that arises from superposition is the double-slit experiment. The photon state is a superposition of two different states, one of which corresponds to the photon having passed through the left slit, and the other corresponding to passage through the right slit. The relative phase of those two states has a value which depends on the distance from each of the two slits. Depending on what that phase is, the interference is constructive at some locations and destructive in others, creating the interference pattern. By the analogy with coherence in other wave phenomena, a superposed state can be referred to as a coherent superposition.",
+			"color": "dim|0.29058 gray|0.29058 dim|0.29058 grey|0.29058 black|0.27858 gray|0.18513 grey|0.18513 dark|0.12059 gray|0.12059 dark|0.12059 grey|0.12059 silver|0.056596 light|0.028442 gray|0.028442 light|0.028442 grey|0.028442 gainsboro|0.019513 white|0.0042438 smoke|0.0042438  "
+		}
+	}
+}

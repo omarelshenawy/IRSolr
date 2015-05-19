@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7928d0349f6aa56884603cb0b78af207a8d8ea5b398eda875151b852da4054f0",
+			"url": "https://upload.wikimedia.org/math/6/6/e/66e395e2c81b71fbbe0aa725fd4e8c82.png",
+				"previous": "The effect of this mapping is to displace every point horizontally by an amount proportionally to its coordinate. Any point above the -axis is displaced to the right (increasing ) if , and to the left if . Points below the -axis move in the opposite direction, while points on the axis stay fixed.",
+				"after": "If the coordinates of a point are written as a column vector (a 2Ã1 matrix), the shear mapping can be written as multiplication by a 2Ã2 matrix:",
+			"color": "gray|0.3282 grey|0.3282 dim|0.31323 gray|0.31323 dim|0.31323 grey|0.31323 dark|0.19394 gray|0.19394 dark|0.19394 grey|0.19394 silver|0.079253 light|0.037408 gray|0.037408 light|0.037408 grey|0.037408 gainsboro|0.025749 white|0.0054954 smoke|0.0054954 linen|0.0026327  "
+		}
+	}
+}

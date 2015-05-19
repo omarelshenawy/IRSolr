@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e3eee1f66606d0bd318a420d2e229739a875cea8ef82ea633cfb436e298c4b1",
+			"url": "https://upload.wikimedia.org/math/1/6/0/160f18672eb9984697274c05a971cfec.png",
+			"previous": [
+				"by the change of variables (for complete details see Solution of the Black Scholes Equation at the Wayback Machine (archived April 11, 2008))",
+				"is reducible to the heat equation"
+			],
+				"after": "Inhomogeneous equations can often be solved (for constant coefficient PDEs, always be solved) by finding the fundamental solution (the solution for a point source), then taking the convolution with the boundary conditions to get the solution.",
+			"color": "dim|0.3437 gray|0.3437 dim|0.3437 grey|0.3437 gray|0.28873 grey|0.28873 dark|0.18163 gray|0.18163 dark|0.18163 grey|0.18163 silver|0.084814 light|0.045313 gray|0.045313 light|0.045313 grey|0.045313 gainsboro|0.032636 white|0.0056127 smoke|0.0056127 linen|0.0028617  "
+		}
+	}
+}

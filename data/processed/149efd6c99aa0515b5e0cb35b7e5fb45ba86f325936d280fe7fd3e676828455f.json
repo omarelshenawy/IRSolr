@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "149efd6c99aa0515b5e0cb35b7e5fb45ba86f325936d280fe7fd3e676828455f",
+			"url": "https://upload.wikimedia.org/math/3/4/2/3429bb01497e614af0b197fe2c2979ca.png",
+			"previous": [
+				"The MichaelisâMenten equation[9] describes how the (initial) reaction rate v0 depends on the position of the substrate-binding equilibrium and the rate constant k2.",
+				"The MichaelisâMenten kinetic model of a single-substrate reaction is shown on the right. There is an initial bimolecular reaction between the enzyme E and substrate S to form the enzymeâsubstrate complex ES but the rate of enzymatic reaction increase with the increase of the substrate concentration up to a certain level but then more increase in substrate concentration does not cause any increase in reaction rate as there no more E remain available for reacting with S and the rate of reaction become dependent on ES and the reaction become unimolecular reaction. Although the enzymatic mechanism for the unimolecular reaction can be quite complex, there is typically one rate-determining enzymatic step that allows this reaction to be modelled as a single catalytic step with an apparent unimolecular rate constant kcat. If the reaction path proceeds over one or several intermediates, kcat will be a function of several elementary rate constants, whereas in the simplest case of a single elementary reaction (e.g. no intermediates) it will be identical to the elementary unimolecular rate constant k2. The apparent unimolecular rate constant kcat is also called turnover number and denotes the maximum number of enzymatic reactions catalysed per second."
+			],
+				"after": "with the constants",
+			"color": "dim|0.2845 gray|0.2845 dim|0.2845 grey|0.2845 gray|0.26429 grey|0.26429 dark|0.20223 gray|0.20223 dark|0.20223 grey|0.20223 silver|0.094771 light|0.061633 gray|0.061633 light|0.061633 grey|0.061633 gainsboro|0.047699 white|0.011362 smoke|0.011362 linen|0.0056725 lavender|0.0051916 blush|0.0051916 alice|0.0051356 blue|0.0051356 ghost|0.0050733 white|0.0050733 sea|0.00502 shell|0.00502 snow|0.0049383  "
+		}
+	}
+}

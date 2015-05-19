@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "73887457a9d2ef663e8335d0bf644fdca8d667f014f55281e1db23e54ad443a9",
+			"url": "https://upload.wikimedia.org/math/c/f/7/cf7204f67bacfa08d1df375d6cb43c3f.png",
+				"previous": "A matrix that is not diagonalizable is said to be defective. For defective matrices, the notion of eigenvector can be generalized to generalized eigenvectors, and that of diagonal matrix to a Jordan form matrix. Over an algebraically closed field, any matrix has a Jordan form and therefore admits a basis of generalized eigenvectors, and a decomposition into generalized eigenspaces",
+			"after": [],
+			"color": "black|1  "
+		}
+	}
+}

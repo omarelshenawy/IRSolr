@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "12dd119f92442c47f94a4cfb3dc49e16ddef877351ecde3588e08b1983cb2995",
+			"url": "https://upload.wikimedia.org/math/5/9/5/595c76bc231cf03c16709100e6f2d5df.png",
+			"previous": [],
+				"after": "The axioms of a group formalize the essential aspects of symmetry. Symmetries form a group: they are closed because if you take a symmetry of an object, and then apply another symmetry, the result will still be a symmetry. The identity keeping the object fixed is always a symmetry of an object. Existence of inverses is guaranteed by undoing the symmetry and the associativity comes from the fact that symmetries are functions on a space, and composition of functions are associative.",
+			"color": "dim|0.37904 gray|0.37904 dim|0.37904 grey|0.37904 gray|0.32015 grey|0.32015 dark|0.18649 gray|0.18649 dark|0.18649 grey|0.18649 silver|0.062581 light|0.025168 gray|0.025168 light|0.025168 grey|0.025168 gainsboro|0.017347 white|0.0028275 smoke|0.0028275  "
+		}
+	}
+}

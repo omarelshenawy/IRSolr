@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8c84e7e53498638864c121b56a75d3ef29c255687e973798458e9874e876161d",
+			"url": "https://upload.wikimedia.org/math/1/c/1/1c11cbb0875c282b3c0183d469f6b199.png",
+				"previous": "Let V and W be vector spaces over the same field K. A function fÂ : V â W is said to be a linear map if for any two vectors x and y in V and any scalar Î± in K, the following two conditions are satisfied:",
+				"after": "This is equivalent to requiring the same for any linear combination of vectors, i.e. that for any vectors x1, ..., xm â V and scalars a1, ..., am â K, the following equality holds:",
+			"color": "dim|0.37169 gray|0.37169 dim|0.37169 grey|0.37169 gray|0.30246 grey|0.30246 dark|0.17791 gray|0.17791 dark|0.17791 grey|0.17791 silver|0.072744 light|0.035655 gray|0.035655 light|0.035655 grey|0.035655 gainsboro|0.02466 white|0.0043994 smoke|0.0043994  "
+		}
+	}
+}

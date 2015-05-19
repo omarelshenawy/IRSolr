@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "380259d64e1784708b753f30a4d6ec23c271b361b12670fb82e3a240b61e5413",
+			"url": "https://upload.wikimedia.org/math/f/a/7/fa765d341709548e846d052047917093.png",
+				"previous": "the pencil is given by the forms for any point in the projective line â in other words, where and are not both zero, and multiplying a quadratic form by a constant does not change its quadratic curve of zeros.",
+				"after": "The reducible quadratics, in turn, may be determined by expressing the quadratic form as a 3Ã3 matrix: reducible quadratics correspond to this matrix being singular, which is equivalent to its determinant being zero, and the determinant is a homogeneous degree three polynomial in and and corresponds to the resolvent cubic.",
+			"color": "dim|0.35752 gray|0.35752 dim|0.35752 grey|0.35752 gray|0.27265 grey|0.27265 dark|0.18842 gray|0.18842 dark|0.18842 grey|0.18842 silver|0.082125 light|0.038778 gray|0.038778 light|0.038778 grey|0.038778 gainsboro|0.027227 black|0.016188 white|0.0043668 smoke|0.0043668  "
+		}
+	}
+}

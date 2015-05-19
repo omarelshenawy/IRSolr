@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cb84afb58948ab557232a8b235853e074c899ca6b83816ca78f6ba1af571473",
+			"url": "https://upload.wikimedia.org/math/1/7/b/17b99e166258f650036939b57689bdec.png",
+				"previous": "For example, in a bag of 2 red balls and 2 blue balls (4 balls in total), the probability of taking a red ball is ; however, when taking a second ball, the probability of it being either a red ball or a blue ball depends on the ball previously taken, such as, if a red ball was taken, the probability of picking a red ball again would be since only 1 red and 2 blue balls would have been remaining.",
+			"after": [],
+			"color": "dim|0.26175 gray|0.26175 dim|0.26175 grey|0.26175 gray|0.2363 grey|0.2363 dark|0.17037 gray|0.17037 dark|0.17037 grey|0.17037 black|0.14792 silver|0.078457 light|0.041822 gray|0.041822 light|0.041822 grey|0.041822 gainsboro|0.031649 white|0.006519 smoke|0.006519 lavender|0.0034458 blush|0.0034458 linen|0.0034109 alice|0.0033295 blue|0.0033295 ghost|0.0032325 white|0.0032325 sea|0.0030663 shell|0.0030663  "
+		}
+	}
+}

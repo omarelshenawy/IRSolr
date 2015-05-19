@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "98f434e1e902e5fa347489ac5bf2a9e5e1436a0ec150da6f8f67221b1d8cd507",
+			"url": "https://upload.wikimedia.org/math/1/b/a/1ba4f06f68614e5da79a8ebd378d532a.png",
+				"previous": "In the case the complement is unique, we write Â¬x = y and equivalently, Â¬y = x. A bounded lattice for which every element has a complement is called a complemented lattice. The corresponding unary operation over L, called complementation, introduces an analogue of logical negation into lattice theory. The complement is not necessarily unique, nor does it have a special status among all possible unary operations over L. A complemented lattice that is also distributive is a Boolean algebra. For a distributive lattice, the complement of x, when it exists, is unique.",
+			"after": [],
+			"color": " "
+		}
+	}
+}

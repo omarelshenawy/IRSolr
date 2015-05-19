@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a0ac5841292bb1bccc89cdd8b5392edc244b96348970f899b8d8dd13101c07a",
+			"url": "https://upload.wikimedia.org/math/d/1/4/d141720bee6abcb33d5b75963745fe1d.png",
+				"previous": "Given an infinite sequence of numbers {Â anÂ }, a series is informally the result of adding all those terms together: a1Â +Â a2Â +Â a3Â +Â Â·Â Â·Â Â·. These can be written more compactly using the summation symbol â. An example is the famous series from Zeno's dichotomy and its mathematical representation:",
+				"after": "The terms of the series are often produced according to a certain rule, such as by a formula, or by an algorithm.",
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "41a2260a4f25930f57e848418d97248b8f6dbf6c907fa2d8870ced5e826d6a7a",
+			"url": "https://upload.wikimedia.org/math/c/2/e/c2eb21daddf83cb0d85936e2d3b5f4b4.png",
+			"previous": [],
+				"after": "To illustrate the significance of these formulae, the annihilation of a particle with its antiparticle in free space must result in the creation of at least two photons for the following reason. In the center of momentum frame, the colliding antiparticles have no net momentum, whereas a single photon always has momentum (since it is determined, as we have seen, only by the photon's frequency or wavelengthâwhich cannot be zero). Hence, conservation of momentum (or equivalently, translational invariance) requires that at least two photons are created, with zero net momentum. (However, it is possible if the system interacts with another particle or field for annihilation to produce one photon, as when a positron annihilates with a bound atomic electron, it is possible for only one photon to be emitted, as the nuclear Coulomb field breaks translational symmetry.)[19]:64-65 The energy of the two photons, or, equivalently, their frequency, may be determined from conservation of four-momentum. Seen another way, the photon can be considered as its own antiparticle. The reverse process, pair production, is the dominant mechanism by which high-energy photons such as gamma rays lose energy while passing through matter.[20] That process is the reverse of \"annihilation to one photon\" allowed in the electric field of an atomic nucleus.",
+			"color": "gray|0.31289 grey|0.31289 dim|0.31191 gray|0.31191 dim|0.31191 grey|0.31191 dark|0.19218 gray|0.19218 dark|0.19218 grey|0.19218 black|0.14839 silver|0.033963  "
+		}
+	}
+}

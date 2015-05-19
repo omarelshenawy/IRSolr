@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "71f48ef0afc9731a395b43fe79ff87c3eb4a4b4b274c3ccb57ce3979d2aa5314",
+			"url": "https://upload.wikimedia.org/math/4/2/c/42c8f832e4019b4db6716dbe66677f7b.png",
+			"previous": [
+				"If:",
+				"Then:",
+				"where is a SturmâLiouville operator subject to the boundary conditions:"
+			],
+			"after": [
+				"where",
+				"Spherical waves are waves whose amplitude depends only upon the radial distance r from a central point source. For such waves, the three-dimensional wave equation takes the form"
+			],
+			"color": "dim|0.33717 gray|0.33717 dim|0.33717 grey|0.33717 gray|0.24472 grey|0.24472 dark|0.16204 gray|0.16204 dark|0.16204 grey|0.16204 black|0.14159 silver|0.059875 light|0.027015 gray|0.027015 light|0.027015 grey|0.027015 gainsboro|0.018747  "
+		}
+	}
+}

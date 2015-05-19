@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6922d8f01b3eb5cb2bfec8f837166cb9eb36d93775c80ccea0d9b8e06867670b",
+			"url": "https://upload.wikimedia.org/math/c/7/8/c78779ccb8f8a6e50f71578826117a0b.png",
+				"previous": "The degree of a polynomial f can be computed by the formula",
+			"after": [
+				"This formula generalizes the concept of degree to some functions that are not polynomials. For example:",
+				"Another formula to compute the degree of f from its values is"
+			],
+			"color": "dim|0.30819 gray|0.30819 dim|0.30819 grey|0.30819 gray|0.28413 grey|0.28413 dark|0.20515 gray|0.20515 dark|0.20515 grey|0.20515 silver|0.097641 light|0.051067 gray|0.051067 light|0.051067 grey|0.051067 gainsboro|0.035458 white|0.0047169 smoke|0.0047169  "
+		}
+	}
+}

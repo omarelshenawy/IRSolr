@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "343c27ced1e2daf93c07e8ab36adb5a888b739892b37fd1131252d2f57536ea0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Continuity_eqn_open_surface.svg/220px-Continuity_eqn_open_surface.svg.png",
+			"previous": [
+				"The way that this quantity q is flowing is described by its flux. The flux of q is a vector field, which we denote as j. Here are some examples and properties of flux:",
+				"The continuity equation is applicable when there is some quantity q which can flow or move, such as mass, energy, electric charge, momentum, number of molecules, etc. Let Ï be the volume density of this property, i.e., the amount of q per unit volume."
+			],
+				"after": "The integral form of the continuity equation states that:",
+			"color": "medium|0.87023 sea|0.87023 green|0.87023 orange|0.070583 black|0.011197 sea|0.011175 green|0.011175 dark|0.0057706 cyan|0.0057706 teal|0.005017 dim|0.0037825 gray|0.0037825 dim|0.0037825 grey|0.0037825 dark|0.0036174 sea|0.0036174 green|0.0036174 gray|0.0033877 grey|0.0033877  "
+		}
+	}
+}

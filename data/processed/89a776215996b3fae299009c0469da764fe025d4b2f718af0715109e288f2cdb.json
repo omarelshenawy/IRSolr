@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "89a776215996b3fae299009c0469da764fe025d4b2f718af0715109e288f2cdb",
+			"url": "https://upload.wikimedia.org/math/c/1/5/c15fa489cdf74a93e8ea05a8e20088c2.png",
+				"previous": "On computer systems with low floating-point precision, this formula can have large rounding errors if the distance is small (if the two points are a kilometer apart on the surface of the Earth, the cosine of the central angle comes out 0.99999999). For modern 64-bit floating-point numbers, the spherical law of cosines formula, given above, does not have serious rounding errors for distances larger than a few meters on the surface of the Earth.[2] The haversine formula is numerically better-conditioned for small distances:[3]",
+				"after": "Historically, the use of this formula was simplified by the availability of tables for the haversine function: hav(Î¸)Â =Â sin2(Î¸/2).",
+			"color": "white|0.093737 snow|0.093207 mint|0.092463 cream|0.092463 white|0.09238 smoke|0.09238 ghost|0.091972 white|0.091972 azure|0.091176 alice|0.090894 blue|0.090894 sea|0.090444 shell|0.090444 floral|0.090326 white|0.090326 lavender|0.086186 blush|0.086186 black|0.017423 dim|0.013856 gray|0.013856 dim|0.013856 grey|0.013856 gray|0.013586 grey|0.013586 dark|0.012638 gray|0.012638 dark|0.012638 grey|0.012638 silver|0.0089838 light|0.0078635 gray|0.0078635 light|0.0078635 grey|0.0078635 gainsboro|0.0069643 ivory|0.0042537  "
+		}
+	}
+}

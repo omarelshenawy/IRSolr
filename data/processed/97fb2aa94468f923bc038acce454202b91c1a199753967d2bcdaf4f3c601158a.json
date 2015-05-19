@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "97fb2aa94468f923bc038acce454202b91c1a199753967d2bcdaf4f3c601158a",
+			"url": "https://upload.wikimedia.org/math/2/4/8/248ebac16981c8ed4a609204b98131ba.png",
+				"previous": "The above formulae are written in terms of the globe radius R. It is often convenient to work directly with the map width W=2ÏR. For example the basic transformation equations become",
+				"after": "The ordinate y of the Mercator projection becomes infinite at the poles and the map must be truncated at some latitude less than ninety degrees. This need not be done symmetrically. Mercator's original map is truncated at 80Â°N and 66Â°S with the result that European countries were moved towards the centre of the map. The aspect ratio of his map is 198/120=1.65. Even more extreme truncations have been used: a Finnish school atlas was truncated at approximately 76Â°N and 56Â°S, an aspect ratio of 1.97.",
+			"color": "dim|0.40661 gray|0.40661 dim|0.40661 grey|0.40661 gray|0.27364 grey|0.27364 dark|0.17014 gray|0.17014 dark|0.17014 grey|0.17014 silver|0.069096 light|0.035442 gray|0.035442 light|0.035442 grey|0.035442 gainsboro|0.024537 white|0.0064161 smoke|0.0064161  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "51695a8991f54868fc64d06cbabf46cf6a3746afd1644ea4fa57962315ae0dcc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SSLV_ascent.jpg/170px-SSLV_ascent.jpg",
+				"previous": "A concern with using digital fly-by-wire systems on the Shuttle was reliability. Considerable research went into the Shuttle computer system. The Shuttle used five identical redundant IBM 32-bit general purpose computers (GPCs), model AP-101, constituting a type of embedded system. Four computers ran specialized software called the Primary Avionics Software System (PASS). A fifth backup computer ran separate software called the Backup Flight System (BFS). Collectively they were called the Data Processing System (DPS).[51][52]",
+				"after": "The design goal of the Shuttle's DPS was fail-operational/fail-safe reliability. After a single failure, the Shuttle could still continue the mission. After two failures, it could still land safely.",
+			"color": "royal|0.16927 blue|0.16927 black|0.13503 medium|0.11809 blue|0.11809 golden|0.08026 rod|0.08026 dodger|0.076193 blue|0.076193 deep|0.042977 sky|0.042977 blue|0.042977 chocolate|0.04135 dark|0.032809 golden|0.032809 rod|0.032809 lime|0.0282 green|0.0282 gold|0.027251 dark|0.018619 turquoise|0.018619 turquoise|0.01071 orange|0.010643 saddle|0.010439 brown|0.010439 light|0.010146 sea|0.010146 green|0.010146 firebrick|0.0101 green|0.0101 yellow|0.0101 steel|0.0096258 blue|0.0096258 lime|0.0094902 blue|0.0094902 crimson|0.0088802 medium|0.0083153 turquoise|0.0083153 dark|0.0079311 blue|0.0079311  "
+		}
+	}
+}

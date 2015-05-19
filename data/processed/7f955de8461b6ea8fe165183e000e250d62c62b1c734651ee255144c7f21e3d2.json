@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f955de8461b6ea8fe165183e000e250d62c62b1c734651ee255144c7f21e3d2",
+			"url": "https://upload.wikimedia.org/math/5/9/4/5949217b5715c1a7bb7aa4f361efe95c.png",
+			"previous": [],
+				"after": "For example the graphs shown to the right show the error in approximating log(x) and exp(x) for NÂ =Â 4. The red curves, for the optimal polynomial, are level, that is, they oscillate between and exactly. Note that, in each case, the number of extrema is N+2, that is, 6. Two of the extrema are at the end points of the interval, at the left and right edges of the graphs.",
+			"color": "gray|0.28491 grey|0.28491 dim|0.22251 gray|0.22251 dim|0.22251 grey|0.22251 dark|0.21995 gray|0.21995 dark|0.21995 grey|0.21995 silver|0.1281 light|0.073192 gray|0.073192 light|0.073192 grey|0.073192 gainsboro|0.053943 white|0.0046734 smoke|0.0046734  "
+		}
+	}
+}

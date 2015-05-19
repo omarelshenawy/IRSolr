@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f32b7ee47c52e9be427af2b5c87bc5a2d1c094940e12f8718c5413ea39b0a67",
+			"url": "https://upload.wikimedia.org/math/5/5/2/5529c9016251b1255c9ff607c2265ddf.png",
+			"previous": [
+				"The four-gradient of a scalar field Ï transforms covariantly rather than contravariantly:",
+				"The transformation rules for three-dimensional velocities and accelerations are very awkward; even above in standard configuration the velocity equations are quite complicated owing to their non-linearity. On the other hand, the transformation of four-velocity and four-acceleration are simpler by means of the Lorentz transformation matrix."
+			],
+				"after": "that is:",
+			"color": "black|0.27215 dim|0.25397 gray|0.25397 dim|0.25397 grey|0.25397 gray|0.22594 grey|0.22594 dark|0.16675 gray|0.16675 dark|0.16675 grey|0.16675 silver|0.060406 light|0.015119 gray|0.015119 light|0.015119 grey|0.015119 gainsboro|0.0056175  "
+		}
+	}
+}

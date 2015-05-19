@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "66b4044ed2b451fd19030c1215f3dcd503cfe9e4f005f0b4e520ec72edb5db8c",
+			"url": "https://upload.wikimedia.org/math/e/0/1/e0110091a7330ad61de34097b78f3f29.png",
+				"previous": "A basis formed this way is called a canonical basis for the geometric algebra, and any other orthogonal basis for V will produce another canonical basis. Each canonical basis consists of 2n elements. Every multivector of the geometric algebra can be expressed as a linear combination of the canonical basis elements. If the canonical basis elements are {Bi | iâS} with S being an index set, then the geometric product of any two multivectors is",
+			"after": [],
+			"color": "dim|0.36762 gray|0.36762 dim|0.36762 grey|0.36762 gray|0.30995 grey|0.30995 dark|0.17699 gray|0.17699 dark|0.17699 grey|0.17699 silver|0.071369 light|0.034914 gray|0.034914 light|0.034914 grey|0.034914 gainsboro|0.023684 white|0.0042519 smoke|0.0042519  "
+		}
+	}
+}

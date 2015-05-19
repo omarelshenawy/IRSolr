@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1987fce9bf43825133f9d5c023336f0ff8d809c64cdf9e72c7ecbff640cf4f6b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ergosphere.svg/220px-Ergosphere.svg.png",
+				"previous": "Using global geometry, some spacetimes can be shown to contain boundaries called horizons, which demarcate one region from the rest of spacetime. The best-known examples are black holes: if mass is compressed into a sufficiently compact region of space (as specified in the hoop conjecture, the relevant length scale is the Schwarzschild radius[134]), no light from inside can escape to the outside. Since no object can overtake a light pulse, all interior matter is imprisoned as well. Passage from the exterior to the interior is still possible, showing that the boundary, the black hole's horizon, is not a physical barrier.[135]",
+				"after": "Early studies of black holes relied on explicit solutions of Einstein's equations, notably the spherically symmetric Schwarzschild solution (used to describe a static black hole) and the axisymmetric Kerr solution (used to describe a rotating, stationary black hole, and introducing interesting features such as the ergosphere). Using global geometry, later studies have revealed more general properties of black holes. In the long run, they are rather simple objects characterized by eleven parameters specifying energy, linear momentum, angular momentum, location at a specified time and electric charge. This is stated by the black hole uniqueness theorems: \"black holes have no hair\", that is, no distinguishing marks like the hairstyles of humans. Irrespective of the complexity of a gravitating object collapsing to form a black hole, the object that results (having emitted gravitational waves) is very simple.[136]",
+			"color": "dark|0.27974 red|0.27974 maroon|0.23334 dark|0.22952 slate|0.22952 gray|0.22952 cadet|0.10534 blue|0.10534 powder|0.047846 blue|0.047846 pale|0.027573 turquoise|0.027573 dim|0.01157 gray|0.01157 dim|0.01157 grey|0.01157 dark|0.010853 gray|0.010853 dark|0.010853 grey|0.010853 indian|0.0084197 red|0.0084197 gray|0.0068227 grey|0.0068227 silver|0.0061056  "
+		}
+	}
+}

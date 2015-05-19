@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6413c309ba3e04aff8a3aa6849e5bb30e6b867d7cc70b69b73da26ce29379531",
+			"url": "https://upload.wikimedia.org/math/c/1/9/c193a8b2e109f9ca728eb931c679b7f8.png",
+			"previous": [
+				"and substitute this in the depressed cubic (2), giving",
+				"We introduce two variables u and v linked by the condition"
+			],
+			"after": [
+				"At this point Cardano imposed a second condition for the variables u and v:",
+				"As the first parenthesis vanishes in (3), we get and . Thus and are the two roots of the equation"
+			],
+			"color": "dim|0.41909 gray|0.41909 dim|0.41909 grey|0.41909 gray|0.27951 grey|0.27951 dark|0.15909 gray|0.15909 dark|0.15909 grey|0.15909 silver|0.063345 light|0.028771 gray|0.028771 light|0.028771 grey|0.028771 gainsboro|0.019533 black|0.019033  "
+		}
+	}
+}

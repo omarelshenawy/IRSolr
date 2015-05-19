@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f83360d54e3d07d5e1800f0a8f39695eee7d3e1066ab01ec9dfe6e135f7b612",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flash_erase.svg/220px-Flash_erase.svg.png",
+				"previous": "In NOR flash, each cell has one end connected directly to ground, and the other end connected directly to a bit line. This arrangement is called \"NOR flash\" because it acts like a NOR gate: when one of the word lines (connected to the cell's CG) is brought high, the corresponding storage transistor acts to pull the output bit line low. NOR flash continues to be the technology of choice for embedded applications requiring a discrete non-volatile memory device. The low read latencies characteristic of NOR devices allow for both direct code execution and data storage in a single memory product.[20]",
+				"after": "A single-level NOR flash cell in its default state is logically equivalent to a binary \"1\" value, because current will flow through the channel under application of an appropriate voltage to the control gate, so that the bitline voltage is pulled down. A NOR flash cell can be programmed, or set to a binary \"0\" value, by the following procedure:",
+			"color": "light|0.27073 gray|0.27073 light|0.27073 grey|0.27073 silver|0.26918 gainsboro|0.2673 black|0.051868 gray|0.026563 grey|0.026563 dim|0.024112 gray|0.024112 dim|0.024112 grey|0.024112 dark|0.020143 gray|0.020143 dark|0.020143 grey|0.020143 white|0.0090174 smoke|0.0090174 linen|0.0085752 lavender|0.0084763 blush|0.0084763 alice|0.0084609 blue|0.0084609 ghost|0.0084182 white|0.0084182 sea|0.0083925 shell|0.0083925 snow|0.0083733 white|0.008051  "
+		}
+	}
+}

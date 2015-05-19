@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b419e573c7e334ba9878ac8efba1ecb52ee2fae4c4a3ecd344efc5655357ec9",
+			"url": "https://upload.wikimedia.org/math/e/7/5/e753d7350377f0f322492ba79bd587cb.png",
+				"previous": "The classification of partial differential equations can be extended to systems of first-order equations, where the unknown u is now a vector with m components, and the coefficient matrices AÎ½ are m by m matrices for Î½ = 1, ..., n. The partial differential equation takes the form",
+				"after": "where the coefficient matrices AÎ½ and the vector B may depend upon x and u. If a hypersurface S is given in the implicit form",
+			"color": "dim|0.38336 gray|0.38336 dim|0.38336 grey|0.38336 gray|0.28634 grey|0.28634 dark|0.1777 gray|0.1777 dark|0.1777 grey|0.1777 silver|0.083735 light|0.033808 gray|0.033808 light|0.033808 grey|0.033808 gainsboro|0.02326 white|0.0034218 smoke|0.0034218  "
+		}
+	}
+}

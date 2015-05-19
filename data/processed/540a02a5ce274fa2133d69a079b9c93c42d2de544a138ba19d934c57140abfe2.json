@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "540a02a5ce274fa2133d69a079b9c93c42d2de544a138ba19d934c57140abfe2",
+			"url": "https://upload.wikimedia.org/math/0/4/f/04f760aa58315c1e264822791dc8eea4.png",
+				"previous": "which is solved elsewhere. Then, if p is a square root of a non-zero root of this resolvent (such a non zero root exists except for the quartic x4, which is trivially factored),",
+				"after": "The symmetries in this solution are as follows. There are three roots of the cubic, corresponding to the three ways that a quartic can be factored into two quadratics, and choosing positive or negative values of for the square root of merely exchanges the two quadratics with one another.",
+			"color": " "
+		}
+	}
+}

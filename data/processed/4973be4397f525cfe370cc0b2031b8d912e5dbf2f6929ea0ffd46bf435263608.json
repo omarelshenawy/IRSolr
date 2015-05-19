@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4973be4397f525cfe370cc0b2031b8d912e5dbf2f6929ea0ffd46bf435263608",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamming.jpg/220px-Hamming.jpg",
+				"previous": "The binary Golay code was developed in 1949. More specifically, it is an error-correcting code capable of correcting up to three errors in each 24-bit word, and detecting a fourth.",
+				"after": "Richard Hamming won the Turing Award in 1968 for his work at Bell Labs in numerical methods, automatic coding systems, and error-detecting and error-correcting codes. He invented the concepts known as Hamming codes, Hamming windows, Hamming numbers, and Hamming distance.",
+			"color": " "
+		}
+	}
+}

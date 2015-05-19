@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "893dae67a2e8fd597706e583d8d3e7460ee27f6ee3d757fea4a89e7276612a43",
+			"url": "https://upload.wikimedia.org/math/5/9/8/5989d34677ddf859c44500915c53b9b2.png",
+			"previous": [
+				"The rate of energy production per unit surface area, is given by",
+				"where is the density of near-surface air ([kg/m3]) and is the near surface wind speed ([m/s])."
+			],
+			"after": [
+				"Heat (enthalpy) per unit mass is given by",
+				"where is the heat capacity of air, is air temperature, is the latent heat of vaporization, and is the concentration of water vapor. The first component corresponds to sensible heat and the second to latent heat."
+			],
+			"color": "black|0.54112 dim|0.17762 gray|0.17762 dim|0.17762 grey|0.17762 gray|0.12647 grey|0.12647 dark|0.085946 gray|0.085946 dark|0.085946 grey|0.085946 silver|0.035916 light|0.017118 gray|0.017118 light|0.017118 grey|0.017118 gainsboro|0.01129  "
+		}
+	}
+}

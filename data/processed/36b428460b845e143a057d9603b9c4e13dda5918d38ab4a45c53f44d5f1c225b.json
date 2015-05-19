@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "36b428460b845e143a057d9603b9c4e13dda5918d38ab4a45c53f44d5f1c225b",
+			"url": "https://upload.wikimedia.org/math/2/2/e/22e0e3cb76d5dbe6b6aa05a067ffac82.png",
+			"previous": [
+				"Then, the evaluation of at point can be evaluated in steps of the algorithm. The result is given byÂ :",
+				"The curve at point t0 can be evaluated with the recurrence relation"
+			],
+				"after": "Moreover, the BÃ©zier curve can be split at point into two curves with respective control pointsÂ :",
+			"color": "dim|0.35709 gray|0.35709 dim|0.35709 grey|0.35709 gray|0.30645 grey|0.30645 dark|0.18741 gray|0.18741 dark|0.18741 grey|0.18741 silver|0.072595 light|0.033846 gray|0.033846 light|0.033846 grey|0.033846 gainsboro|0.023896 white|0.0049851 smoke|0.0049851  "
+		}
+	}
+}

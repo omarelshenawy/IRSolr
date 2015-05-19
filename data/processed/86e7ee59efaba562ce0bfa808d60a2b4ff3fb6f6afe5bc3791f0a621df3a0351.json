@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "86e7ee59efaba562ce0bfa808d60a2b4ff3fb6f6afe5bc3791f0a621df3a0351",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Superscalarpipeline.svg/300px-Superscalarpipeline.svg.png",
+				"previous": "Modern processors have multi-stage instruction pipelines. Each stage in the pipeline corresponds to a different action the processor performs on that instruction in that stage; a processor with an N-stage pipeline can have up to N different instructions at different stages of completion. The canonical example of a pipelined processor is a RISC processor, with five stages: instruction fetch, decode, execute, memory access, and write back. The Pentium 4 processor had a 35-stage pipeline.[20]",
+				"after": "In addition to instruction-level parallelism from pipelining, some processors can issue more than one instruction at a time. These are known as superscalar processors. Instructions can be grouped together only if there is no data dependency between them. Scoreboarding and the Tomasulo algorithm (which is similar to scoreboarding but makes use of register renaming) are two of the most common techniques for implementing out-of-order execution and instruction-level parallelism.",
+			"color": "yellow|0.87403 green|0.87403 olive|0.11709 drab|0.11709 black|0.0077691  "
+		}
+	}
+}

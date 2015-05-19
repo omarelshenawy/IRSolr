@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "25ae8a07c7763039da768e8f5d425e1bb4805e7eb0c1ad783741a049511cc4ce",
+			"url": "https://upload.wikimedia.org/math/e/9/c/e9cdfc4fb7a69b0b6b2fd3aafb60fe3a.png",
+				"previous": "Triple differencing followed by numerical root finding, and a mathematical technique called least squares can estimate the position of one receiver given the position of another. First, compute the difference between satellites, then between receivers, and finally between epochs. Other orders of taking differences are equally valid. Detailed discussion of the errors is omitted.",
+			"after": [],
+			"color": "dim|0.38818 gray|0.38818 dim|0.38818 grey|0.38818 gray|0.2586 grey|0.2586 dark|0.15232 gray|0.15232 dark|0.15232 grey|0.15232 black|0.075039 silver|0.062895 light|0.028553 gray|0.028553 light|0.028553 grey|0.028553 gainsboro|0.019193 white|0.0033951 smoke|0.0033951  "
+		}
+	}
+}

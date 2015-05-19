@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4596896fb65b4268652abeb15b4ffda50a0effe3aff2dd0b1e1e990edb45d253",
+			"url": "https://upload.wikimedia.org/math/0/6/7/067e28fcc4cd2ecd3d850440a52eb88c.png",
+				"previous": "Lagrange's four-square theorem is a special case of the Fermat polygonal number theorem and Waring's problem. Another possible generalisation is the following problem: Given natural numbers , can we solve",
+				"after": "for all positive integers in integers ? The case is answered in the positive by Lagrange's four-square theorem. The general solution was given by Ramanujan. He proved that if we assume, without loss of generality, that then there are exactly 54 possible choices for such that the problem is solvable in integers for all . (Ramanujan listed a 55th possibility , but in this case the problem is not solvable if .[8])",
+			"color": "black|0.37989 dim|0.23208 gray|0.23208 dim|0.23208 grey|0.23208 gray|0.16572 grey|0.16572 dark|0.11509 gray|0.11509 dark|0.11509 grey|0.11509 silver|0.051256 light|0.025725 gray|0.025725 light|0.025725 grey|0.025725 gainsboro|0.018274  "
+		}
+	}
+}

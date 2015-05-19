@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "92b6e9a0de6048d165a3a0d3de5a3ade6493f122372ffea746c17d89ed496a70",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Space_shuttles_Atlantis_%28STS-125%29_and_Endeavour_%28STS-400%29_on_launch_pads.jpg/220px-Space_shuttles_Atlantis_%28STS-125%29_and_Endeavour_%28STS-400%29_on_launch_pads.jpg",
+			"previous": [
+				"",
+				"To extend the duration that orbiters could stay docked at the ISS, the Station-to-Shuttle Power Transfer System (SSPTS) was installed. The SSPTS allowed these orbiters to use power provided by the ISS to preserve their consumables. The SSPTS was first used successfully on STS-118."
+			],
+			"after": [
+				"Orbiter[62] (for Endeavour, OV-105)",
+				"External tank (for SLWT)",
+				"Solid Rocket Boosters"
+			],
+			"color": "black|0.36087 dim|0.17103 gray|0.17103 dim|0.17103 grey|0.17103 slate|0.13053 gray|0.13053 gray|0.12849 grey|0.12849 dark|0.057893 gray|0.057893 dark|0.057893 grey|0.057893 tan|0.043918 light|0.030471 slate|0.030471 gray|0.030471 silver|0.021739  "
+		}
+	}
+}

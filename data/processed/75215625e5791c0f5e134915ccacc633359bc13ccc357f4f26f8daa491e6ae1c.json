@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "75215625e5791c0f5e134915ccacc633359bc13ccc357f4f26f8daa491e6ae1c",
+			"url": "https://upload.wikimedia.org/math/5/d/4/5d415b7619e2294fa8dd02af3fd06dc7.png",
+			"previous": [
+				"Thus the resolution of the equation may be finished exactly as described for Cardano's method, with and in place of and .",
+				"We have that and are the two roots of the quadratic equation"
+			],
+			"after": [
+				"The expression for is the same with and exchanged. Thus, using we get",
+				"and a straightforward computation gives"
+			],
+			"color": "dim|0.41569 gray|0.41569 dim|0.41569 grey|0.41569 gray|0.28149 grey|0.28149 dark|0.16204 gray|0.16204 dark|0.16204 grey|0.16204 silver|0.068392 light|0.031446 gray|0.031446 light|0.031446 grey|0.031446 gainsboro|0.021779 white|0.0042082 smoke|0.0042082  "
+		}
+	}
+}

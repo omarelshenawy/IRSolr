@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c74bd7b5aaea1d81a046e26bc9baeda70e7eecd85bc5c85ec7726dd2894fb4c",
+			"url": "https://upload.wikimedia.org/math/2/0/4/204b92195cc00014ebf15f64cdf0b47d.png",
+			"previous": [
+				"Next, choose a set of basis vectors and consider the operators, noted , that perform directional derivatives in the directions of :",
+				"provided that the limit exists, where the limit is taken for scalar Îµ. This is similar to the usual definition of a directional derivative but extends it to functions that are not necessarily scalar-valued."
+			],
+				"after": "Then, using the Einstein summation notation, consider the operatorÂ :",
+			"color": "gray|0.25811 grey|0.25811 dim|0.2535 gray|0.2535 dim|0.2535 grey|0.2535 dark|0.21962 gray|0.21962 dark|0.21962 grey|0.21962 black|0.19379 silver|0.065072 light|0.0082952 gray|0.0082952 light|0.0082952 grey|0.0082952  "
+		}
+	}
+}

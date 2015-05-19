@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "38f827870bf03f1f3f054e304d09f08ad4414bd4ac348a85e8238d16abc79d62",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Harrison_mechanical_filter.png/300px-Harrison_mechanical_filter.png",
+			"previous": [],
+				"after": "An early application of these new theoretical tools was in phonographic sound reproduction. A recurring problem with early phonograph designs was that mechanical resonances in the pickup and sound transmission mechanism caused excessively large peaks and troughs in the frequency response, resulting in poor sound quality. In 1923, Harrison of the Western Electric Company filed a patent for a phonograph in which the mechanical design was entirely represented as an electrical circuit. The horn of the phonograph is represented as a transmission line, and is a resistive load for the rest of the circuit, while all the mechanical and acoustic partsâfrom the pickup needle through to the hornâare translated into lumped components according to the impedance analogy. The circuit arrived at is a ladder topology of series resonant circuits coupled by shunt capacitors. This can be viewed as a bandpass filter circuit. Harrison designed the component values of this filter to have a specific passband corresponding to the desired audio passband (in this case 100Â Hz to 6Â kHz) and a flat response. Translating these electrical element values back into mechanical quantities provided specifications for the mechanical components in terms of mass and stiffness, which in turn could be translated into physical dimensions for their manufacture. The resulting phonograph has a flat frequency response in its passband and is free of the resonances previously experienced.[15] Shortly after this, Harrison filed another patent using the same methodology on telephone transmit and receive transducers.[16]",
+			"color": " "
+		}
+	}
+}

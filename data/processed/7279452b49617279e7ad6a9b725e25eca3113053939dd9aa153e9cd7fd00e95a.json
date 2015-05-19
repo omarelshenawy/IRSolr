@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7279452b49617279e7ad6a9b725e25eca3113053939dd9aa153e9cd7fd00e95a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AV-TEST.org_-_MSE_results_on_chart.png/300px-AV-TEST.org_-_MSE_results_on_chart.png",
+				"previous": "Neil Rubenking of PC Magazine successfully installed the beta version on 12 malware-infected systems and commented on its small installation package (about 7 MB, depending on the operating system) and speedy installation. But the initial virus definition update took between 5 and 15 minutes, and the full installation occupied about 110 MB of disk space. Rubenking noted that the beta version sets Windows Update into fully automatic mode, although it can be turned off again through Windows Control Panel. Some full scans took more than an hour on infected systems; a scan on a clean system took 35 minutes.[50] An on-demand scan test Rubenking conducted in June 2009 with the beta version found 89 percent of all malware samples: 30 percent of the commercial keyloggers, 67 percent of rootkits, but only half of the scareware samples. The product's real-time protection found 83 percent of all malware and blocked the majority of it: 40 percent of the commercial keyloggers and 78 percent of the rootkits were found.[50]",
+				"after": "On 7 January 2010, Microsoft Security Essentials won the Best Free Software award from PC Advisor.[55] In December the same year, it secured the Bronze award from AV-Comparatives for proactive detection of 55Â percent of new or unknown malware, the Silver award for low false-positives (six occurrences) and the Bronze award for overall performance.[56]",
+			"color": "sandy|0.23182 brown|0.23182 light|0.20092 steel|0.20092 blue|0.20092 peach|0.1456 puff|0.1456 lavender|0.06942 light|0.060613 blue|0.060613 bisque|0.060012 blanched|0.029758 almond|0.029758 antique|0.024742 white|0.024742 silver|0.024089 papaya|0.01976 whip|0.01976 light|0.016891 gray|0.016891 light|0.016891 grey|0.016891 dark|0.01619 gray|0.01619 dark|0.01619 grey|0.01619 alice|0.015166 blue|0.015166 gainsboro|0.013677 misty|0.012752 rose|0.012752 linen|0.0094957 light|0.0082121 sky|0.0082121 blue|0.0082121 old|0.0068079 lace|0.0068079 sea|0.0052377 shell|0.0052377 burly|0.0049273 wood|0.0049273 chocolate|0.0042234  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9230a5a6d3d0127287e89c3dcb1f55af8be7293dd1980cf18cb413abe3d80f47",
+			"url": "https://upload.wikimedia.org/math/7/2/2/722716ee2e85383a2f636ab1b5b2e47f.png",
+				"previous": "At this point Cardano imposed a second condition for the variables u and v:",
+			"after": [
+				"At this point, Cardano, who did not know complex numbers, supposed that the roots of this equation were real, that is that",
+				"Solving this equation and using the fact that and may be exchanged, we find"
+			],
+			"color": "gray|0.3413 grey|0.3413 dark|0.25152 gray|0.25152 dark|0.25152 grey|0.25152 dim|0.1884 gray|0.1884 dim|0.1884 grey|0.1884 silver|0.11181 light|0.052524 gray|0.052524 light|0.052524 grey|0.052524 gainsboro|0.036147 white|0.0047647 smoke|0.0047647 linen|0.0026814  "
+		}
+	}
+}

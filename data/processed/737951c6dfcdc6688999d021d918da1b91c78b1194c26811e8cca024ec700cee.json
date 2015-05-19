@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "737951c6dfcdc6688999d021d918da1b91c78b1194c26811e8cca024ec700cee",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ipcompressorwlnoblowoff.gif/600px-Ipcompressorwlnoblowoff.gif",
+				"previous": "The IP compressor outlet corrected flow must match the entry corrected flow of the HP compressor, which is decreasing as the engine is throttled back. At a certain IP compressor working line slope, the IP compressor outlet corrected flow remains constant. However, by adopting a shallower working line, the extra IP compressor pressure ratio at a given IP compressor entry corrected flow enables the IP compressor outlet corrected flow to decrease and match up with the falling HP compressor entry corrected flow. Unfortunately this can lead to a poor IP compressor surge margin at part flow.",
+				"after": "Surge margin can be improved by adding variable stators to the IP compressor and/or adding a blow-off valve between the IP and HP compressors. The former makes the IP compressor surge line shallower, swinging it away from the shallow working line, thus improving IP compressor surge margin.",
+			"color": " "
+		}
+	}
+}

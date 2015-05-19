@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a90a75a263676d1ad5646f3daba6b21b1adcdb9ef26a6da63b01035a1dbebfd",
+			"url": "https://upload.wikimedia.org/math/4/7/a/47a2660ef0207416b959b2b497c0c9dd.png",
+				"previous": "Invariant means that it takes the same value in all inertial frames, because it is a scalar (0 rank tensor), and so no Î appears in its trivial transformation. The magnitude of the 4-vector T is the positive square root of the inner product with itself:",
+				"after": "One can extend this idea to tensors of higher order, for a second order tensor we can form the invariants:",
+			"color": "dim|0.27981 gray|0.27981 dim|0.27981 grey|0.27981 gray|0.24024 grey|0.24024 dark|0.17645 gray|0.17645 dark|0.17645 grey|0.17645 silver|0.10443 black|0.065708 light|0.06138 gray|0.06138 light|0.06138 grey|0.06138 gainsboro|0.045487 white|0.007502 smoke|0.007502 linen|0.0031942  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1be5de9c02fad2b490067ed0a55a1ee78c4b03704c3a6cbc7f715ad9867b90cf",
+			"url": "https://upload.wikimedia.org/math/a/5/e/a5e592dfea849fec6085dea4d08328e0.png",
+			"previous": [],
+				"after": "In some parts of mathematics, including recursion theory and functional analysis, it is convenient to study partial functions in which some values of the domain have no association in the graph; i.e., single-valued relations. For example, the function f such that f(x)Â =Â 1/x does not define a value for xÂ =Â 0, since division by zero is not defined. Hence f is only a partial function from the real line to the real line. The term total function can be used to stress the fact that every element of the domain does appear as the first element of an ordered pair in the graph. In other parts of mathematics, non-single-valued relations are similarly conflated with functions: these are called multivalued functions, with the corresponding term single-valued function for ordinary functions.",
+			"color": "dim|0.33631 gray|0.33631 dim|0.33631 grey|0.33631 gray|0.29496 grey|0.29496 dark|0.192 gray|0.192 dark|0.192 grey|0.192 silver|0.088476 light|0.044343 gray|0.044343 light|0.044343 grey|0.044343 gainsboro|0.030926 white|0.0038675 smoke|0.0038675  "
+		}
+	}
+}

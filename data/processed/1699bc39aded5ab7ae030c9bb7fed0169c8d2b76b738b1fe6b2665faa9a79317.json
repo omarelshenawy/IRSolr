@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1699bc39aded5ab7ae030c9bb7fed0169c8d2b76b738b1fe6b2665faa9a79317",
+			"url": "https://upload.wikimedia.org/math/1/5/9/159ec3ad1b5a98900402f687f2ad1bc4.png",
+				"previous": "In the FTSE indices, share prices are weighted by market capitalisation, so that the larger companies make more of a difference to the index than smaller companies. The basic formula for these indices is:[11]",
+				"after": "The Free float Adjustment factor represents the percentage of all issued shares that are readily available for trading. The factor is then rounded up to the nearest multiple of 5%. To find the free-float capitalisation of a company, first find its market cap (number of shares x share price) then multiply by its free-float factor. Free-float capitalisation, therefore, does not include restricted stocks, such as those held by company insiders.",
+			"color": "black|0.31947 dim|0.24067 gray|0.24067 dim|0.24067 grey|0.24067 gray|0.22902 grey|0.22902 dark|0.182 gray|0.182 dark|0.182 grey|0.182 silver|0.026401  "
+		}
+	}
+}

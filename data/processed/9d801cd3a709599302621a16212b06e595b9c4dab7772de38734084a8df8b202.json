@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d801cd3a709599302621a16212b06e595b9c4dab7772de38734084a8df8b202",
+			"url": "https://upload.wikimedia.org/math/5/5/7/5570c108d5d442f6332e7127329235ef.png",
+			"previous": [
+				"such that for any , the following holds:",
+				"Formally, A metric space is an ordered pair where is a set and is a metric on , i.e., a function"
+			],
+				"after": "By taking the third property and letting , it can be shown that Â Â Â  (non-negative).",
+			"color": "dim|0.38016 gray|0.38016 dim|0.38016 grey|0.38016 gray|0.30522 grey|0.30522 dark|0.17115 gray|0.17115 dark|0.17115 grey|0.17115 silver|0.070811 light|0.033639 gray|0.033639 light|0.033639 grey|0.033639 gainsboro|0.022931 white|0.0041068 smoke|0.0041068  "
+		}
+	}
+}

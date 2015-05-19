@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "783129e89f58d3e07b272a0d36537f35b54c77e8b6dd103f4913c602d2416258",
+			"url": "https://upload.wikimedia.org/math/2/e/8/2e8df487298e032d7b6683b7bab08815.png",
+				"previous": "The reaction that is catalyzed by this enzyme is the two electron oxidation of NADH by coenzyme Q10 or ubiquinone (represented as Q in the equation below), a lipid-soluble quinone that is found in the mitochondrion membrane:",
+				"after": "The start of the reaction, and indeed of the entire electron chain, is the binding of a NADH molecule to complex I and the donation of two electrons. The electrons enter complex I via a prosthetic group attached to the complex, flavin mononucleotide (FMN). The addition of electrons to FMN converts it to its reduced form, FMNH2. The electrons are then transferred through a series of ironâsulfur clusters: the second kind of prosthetic group present in the complex.[18] There are both [2Feâ2S] and [4Feâ4S] ironâsulfur clusters in complex I.",
+			"color": "dim|0.32065 gray|0.32065 dim|0.32065 grey|0.32065 black|0.25554 gray|0.205 grey|0.205 dark|0.12726 gray|0.12726 dark|0.12726 grey|0.12726 silver|0.047401 light|0.021199 gray|0.021199 light|0.021199 grey|0.021199 gainsboro|0.013164  "
+		}
+	}
+}

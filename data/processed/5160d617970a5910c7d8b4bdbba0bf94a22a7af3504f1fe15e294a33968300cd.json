@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "5160d617970a5910c7d8b4bdbba0bf94a22a7af3504f1fe15e294a33968300cd",
+			"url": "https://upload.wikimedia.org/math/c/f/7/cf718f641932d1cbb9c1a9f1b604a11d.png",
+			"previous": [
+				"The density of a quantity Ï and its current j can be combined into a 4-vector called a 4-current:",
+				"The notation and tools of special relativity, especially 4-vectors and 4-gradients, offer a convenient way to write any continuity equation."
+			],
+				"after": "where c is the speed of light. The 4-divergence of this current is:",
+			"color": "dim|0.37078 gray|0.37078 dim|0.37078 grey|0.37078 gray|0.29252 grey|0.29252 dark|0.17346 gray|0.17346 dark|0.17346 grey|0.17346 silver|0.076016 light|0.038276 gray|0.038276 light|0.038276 grey|0.038276 gainsboro|0.027204 white|0.0050986 smoke|0.0050986  "
+		}
+	}
+}

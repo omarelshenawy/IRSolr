@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "535393877af46e385c8e38e5d8d691ea8af436e8798ab8b4ed3b6247538914ff",
+			"url": "https://upload.wikimedia.org/math/e/8/a/e8af036e609d6995f74b6f6de2bbd1b3.png",
+				"previous": "Given the time reversal operator T, it does nothing to the x-operator, TxTâ1 = x, but it reverses the direction of p, so that TpTâ1 = âp. The canonical commutator is invariant only if T is chosen to be anti-unitary, i.e., TiTâ1 = âi. For a particle with spin J, one can use the representation",
+				"after": "where Jy is the y-component of the spin, and use of TJTâ1 = âJ has been made.",
+			"color": "gray|0.22811 grey|0.22811 dark|0.22462 gray|0.22462 dark|0.22462 grey|0.22462 dim|0.21767 gray|0.21767 dim|0.21767 grey|0.21767 black|0.1804 silver|0.095553 light|0.033972 gray|0.033972 light|0.033972 grey|0.033972 gainsboro|0.015932  "
+		}
+	}
+}

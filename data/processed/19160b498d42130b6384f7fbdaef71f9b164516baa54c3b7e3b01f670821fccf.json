@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "19160b498d42130b6384f7fbdaef71f9b164516baa54c3b7e3b01f670821fccf",
+			"url": "https://upload.wikimedia.org/math/4/2/2/422558b82473c4d452b5f3e73e45edbf.png",
+			"previous": [
+				"Change in enthalpy of fluid in moving blades:",
+				"Power consumed by an ideal moving blade, P is given by the equation:"
+			],
+			"after": [
+				"Therefore,Â : which implies,",
+				"Isentropic compression in rotor blade, =",
+				"Therefore,",
+				"which implies"
+			],
+			"color": "dim|0.25128 gray|0.25128 dim|0.25128 grey|0.25128 gray|0.25119 grey|0.25119 dark|0.21248 gray|0.21248 dark|0.21248 grey|0.21248 black|0.19974 silver|0.069578 light|0.012835 gray|0.012835 light|0.012835 grey|0.012835  "
+		}
+	}
+}

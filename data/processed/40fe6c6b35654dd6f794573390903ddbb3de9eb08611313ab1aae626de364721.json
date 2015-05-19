@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "40fe6c6b35654dd6f794573390903ddbb3de9eb08611313ab1aae626de364721",
+			"url": "https://upload.wikimedia.org/math/7/5/9/759702f7ef195cde6bad3df9c9b5975e.png",
+			"previous": [
+				"where",
+				"Sometimes it is desirable to express the BÃ©zier curve as a polynomial instead of a sum of less straightforward Bernstein polynomials. Application of the binomial theorem to the definition of the curve followed by some rearrangement will yield:"
+			],
+				"after": "The derivative for a curve of order n is",
+			"color": " "
+		}
+	}
+}

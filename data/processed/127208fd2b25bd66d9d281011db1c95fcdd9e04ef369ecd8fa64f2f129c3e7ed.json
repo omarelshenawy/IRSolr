@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "127208fd2b25bd66d9d281011db1c95fcdd9e04ef369ecd8fa64f2f129c3e7ed",
+			"url": "https://upload.wikimedia.org/math/c/2/3/c235bfc9a5be2af7632945f90ffd5e46.png",
+				"previous": "This is the discrete Fourier transform of the roots: observe that while the coefficients of the polynomial are symmetric in the roots, in this formula an order has been chosen on the roots, so these are not symmetric in the roots. The roots may then be recovered from the three si by inverting the above linear transformation via the inverse discrete Fourier transform, giving",
+				"after": "The polynomial is an elementary symmetric polynomial and is thus equal to in case of Equation (1) and to zero in case of Equation (2), so we only need to seek values for the other two.",
+			"color": "dim|0.34803 gray|0.34803 dim|0.34803 grey|0.34803 gray|0.23545 grey|0.23545 dark|0.14864 gray|0.14864 dark|0.14864 grey|0.14864 black|0.12684 silver|0.069292 light|0.034308 gray|0.034308 light|0.034308 grey|0.034308 gainsboro|0.024541 white|0.003421 smoke|0.003421  "
+		}
+	}
+}

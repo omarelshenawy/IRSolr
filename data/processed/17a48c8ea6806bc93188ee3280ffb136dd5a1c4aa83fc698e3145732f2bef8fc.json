@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "17a48c8ea6806bc93188ee3280ffb136dd5a1c4aa83fc698e3145732f2bef8fc",
+			"url": "https://upload.wikimedia.org/math/b/a/d/badb6122334e6156eeda4796386fe760.png",
+				"previous": "A variation of this proof does not require the use of the maximum modulus principle (in fact, the same argument with minor changes also gives a proof of the maximum modulus principle for holomorphic functions). If we assume by contradiction that aÂ := p(z0) â  0, then, expanding p(z) in powers of z â z0 we can write",
+				"after": "When r is sufficiently close to 0 this upper bound for |p(z)| is strictly smaller than |a|, in contradiction to the definition of z0. (Geometrically, we have found an explicit direction Î¸0 such that if one approaches z0 from that direction one can obtain values p(z) smaller in absolute value than |p(z0)|.)",
+			"color": "dim|0.4478 gray|0.4478 dim|0.4478 grey|0.4478 gray|0.26001 grey|0.26001 dark|0.10869 gray|0.10869 dark|0.10869 grey|0.10869 black|0.098792 silver|0.040693 light|0.018893 gray|0.018893 light|0.018893 grey|0.018893 gainsboro|0.012839  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "967b74eb973c4eb9b711ec6e33c11c516d53b3d0c2703a7563cf0c5b0a49d78f",
+			"url": "https://upload.wikimedia.org/math/f/2/9/f296a521bff060cd02c3ef6ee7931dd7.png",
+			"previous": [],
+				"after": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:",
+			"color": "gray|0.30475 grey|0.30475 dark|0.2759 gray|0.2759 dark|0.2759 grey|0.2759 dim|0.13826 gray|0.13826 dim|0.13826 grey|0.13826 silver|0.12688 light|0.067489 gray|0.067489 light|0.067489 grey|0.067489 gainsboro|0.047905 white|0.0097463 smoke|0.0097463 linen|0.0054271 lavender|0.0042705 blush|0.0042705 alice|0.0040781 blue|0.0040781 ghost|0.0038509 white|0.0038509 sea|0.0036791 shell|0.0036791 snow|0.0034986  "
+		}
+	}
+}

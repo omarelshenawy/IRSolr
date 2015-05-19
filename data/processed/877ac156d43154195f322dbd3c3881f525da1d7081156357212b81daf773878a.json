@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "877ac156d43154195f322dbd3c3881f525da1d7081156357212b81daf773878a",
+			"url": "https://upload.wikimedia.org/math/7/2/7/727ea4c8c49862411edae46adf506e3e.png",
+				"previous": "Another equivalent (for graded lattices) condition is Birkhoff's condition:",
+				"after": "In domain theory, it is natural to seek to approximate the elements in a partial order by \"much simpler\" elements. This leads to the class of continuous posets, consisting of posets where every element can be obtained as the supremum of a directed set of elements that are way-below the element. If one can additionally restrict these to the compact elements of a poset for obtaining these directed sets, then the poset is even algebraic. Both concepts can be applied to lattices as follows:",
+			"color": " "
+		}
+	}
+}

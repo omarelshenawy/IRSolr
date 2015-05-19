@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a22e8887b1dd1b7165a9941a08e25971df0b6de6f8bd0976e5c0f1206682751",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accuracy_of_Navigation_Systems.svg/300px-Accuracy_of_Navigation_Systems.svg.png",
+			"previous": [],
+				"after": "An inertial navigation system (INS) is a navigation aid that uses a computer, motion sensors (accelerometers) and rotation sensors (gyroscopes) to continuously calculate via dead reckoning the position, orientation, and velocity (direction and speed of movement) of a moving object without the need for external references.[1] It is used on vehicles such as ships, aircraft, submarines, guided missiles, and spacecraft. Other terms used to refer to inertial navigation systems or closely related devices include inertial guidance system, inertial reference platform, inertial instrument, inertial measurement units (IMU) and many other variations.",
+			"color": "black|0.76682 dim|0.11935 gray|0.11935 dim|0.11935 grey|0.11935 gray|0.11382 grey|0.11382  "
+		}
+	}
+}

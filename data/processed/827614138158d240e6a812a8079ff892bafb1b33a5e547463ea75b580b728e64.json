@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "827614138158d240e6a812a8079ff892bafb1b33a5e547463ea75b580b728e64",
+			"url": "https://upload.wikimedia.org/math/1/9/0/190973b54730f1f3397410ff926112fb.png",
+				"previous": "Define a new set of vectors , known as orthogonal basis vectors, to be those transformed by the orthogonal matrix:",
+				"after": "Therefore every blade of grade r can be written as a geometric product of r vectors. More generally, if a degenerate geometric algebra is allowed, then the orthogonal matrix is replaced by a block matrix that is orthogonal in the nondegenerate block, and the diagonal matrix has zero-valued entries along the degenerate dimensions. If the new vectors of the nondegenerate subspace are normalized according to",
+			"color": "dark|0.25509 gray|0.25509 dark|0.25509 grey|0.25509 gray|0.25329 grey|0.25329 dim|0.24381 gray|0.24381 dim|0.24381 grey|0.24381 silver|0.10585 black|0.10209 light|0.029591 gray|0.029591 light|0.029591 grey|0.029591 gainsboro|0.010289  "
+		}
+	}
+}

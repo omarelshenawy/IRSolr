@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d6b41f9173b71f90d518df76cc976d872486cf2940b8b64af21247e5c469bac",
+			"url": "https://upload.wikimedia.org/math/a/2/4/a24aa27b994ce36617f54190e57d0294.png",
+				"previous": "Another representation of similar formulas, but using normal vectors instead of latitude/longitude to describe the positions, is found by means of 3D vector algebra, i.e. utilizing the dot product, cross product, or a combination:[5]",
+				"after": "A line through three-dimensional space between points of interest on a spherical Earth is the chord of the great circle between the points. The central angle between the two points can be determined from the chord length. The great circle distance is proportional to the central angle.",
+			"color": " "
+		}
+	}
+}

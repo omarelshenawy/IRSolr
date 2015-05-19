@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "74ff445dffa0ee8098a55b50a6d7b1b3c26b4dd36505d1cd019429b45cc3318d",
+			"url": "https://upload.wikimedia.org/math/1/3/0/1305853662e7c40d6fa3234a59b60d79.png",
+			"previous": [
+				"If the probability of m gains and nâm losses follows a binomial distribution,",
+				"no matter how large the total number of votes n may be. In other words, if one candidate has an edge on the other candidate he will tend to keep that edge even though there is nothing favoring either candidate on a ballot extraction."
+			],
+				"after": "with equal a priori probabilities of 1/2, the mean total gain is",
+			"color": "dim|0.38603 gray|0.38603 dim|0.38603 grey|0.38603 gray|0.29142 grey|0.29142 dark|0.17638 gray|0.17638 dark|0.17638 grey|0.17638 silver|0.073062 light|0.032626 gray|0.032626 light|0.032626 grey|0.032626 gainsboro|0.022969 white|0.0043202 smoke|0.0043202  "
+		}
+	}
+}

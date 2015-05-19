@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "762840aed8b492ed63568ee5167a5e1183bbb2d5b280aebe9fdbe1abf7b39813",
+			"url": "https://upload.wikimedia.org/math/b/b/3/bb3fb6533d857290cfd02f50fa1094ac.png",
+			"previous": [
+				"Specifically, the structured meaning of (10) is:",
+				"Generally, the meaning of (10) can be summarized as John introduced Bill to Sue and no one else, and the meaning of (11) can be summarized as the only pair of persons such that John introduced the first to the second is Bill and Sue."
+			],
+			"after": [
+				"The background part of the structured meaning is; introd (j, b, x); and the focus part is s.",
+				"Through a (modified) form of functional application (or beta reduction), the focus part of (10) and (11) is projected up through the syntax to the sentential level. Importantly, each intermediate level has distinct meaning."
+			],
+			"color": "gray|0.31175 grey|0.31175 dark|0.26692 gray|0.26692 dark|0.26692 grey|0.26692 dim|0.18008 gray|0.18008 dim|0.18008 grey|0.18008 silver|0.11673 light|0.055734 gray|0.055734 light|0.055734 grey|0.055734 gainsboro|0.038756 white|0.0072131 smoke|0.0072131 linen|0.0035806 lavender|0.0033119 blush|0.0033119 alice|0.0031653 blue|0.0031653 ghost|0.0030179 white|0.0030179 sea|0.0028318 shell|0.0028318 snow|0.0027213  "
+		}
+	}
+}

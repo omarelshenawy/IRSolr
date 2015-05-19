@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8de0c6c008086872b65e7701eb1f1061397255a2be509d620b46986298e4d348",
+			"url": "https://upload.wikimedia.org/math/9/1/c/91c475b0c14928ea1fc05cbe98b7750e.png",
+			"previous": [
+				"E.g.",
+				"The degree of the sum (or difference) of two polynomials is equal to or less than the greater of their degrees; the equality holds always when the degrees of the polynomials are different i.e."
+			],
+			"after": [
+				"The degree of the zero polynomial is either left undefined, or is defined to be negative (usually â1 or ââ).[6]",
+				"Like any constant value, the value 0 can be considered as a (constant) polynomial, called the zero polynomial. It has no nonzero terms, and so, strictly speaking, it has no degree either. As such, its degree is undefined. The propositions for the degree of sums and products of polynomials in the above section do not apply if any of the polynomials involved is the zero polynomial.[7]"
+			],
+			"color": "dark|0.29219 gray|0.29219 dark|0.29219 grey|0.29219 gray|0.27958 grey|0.27958 silver|0.15193 dim|0.14064 gray|0.14064 dim|0.14064 grey|0.14064 light|0.069847 gray|0.069847 light|0.069847 grey|0.069847 gainsboro|0.046827 white|0.0060783 smoke|0.0060783 linen|0.0030782  "
+		}
+	}
+}

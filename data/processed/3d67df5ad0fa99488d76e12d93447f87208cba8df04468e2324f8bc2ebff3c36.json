@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d67df5ad0fa99488d76e12d93447f87208cba8df04468e2324f8bc2ebff3c36",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Steve_Jobs_Presentation_1.jpg/220px-Steve_Jobs_Presentation_1.jpg",
+				"previous": "PowerPC versions of Mac OS X prior to Leopard retain compatibility with older Mac OS applications by providing an emulation environment called Classic, which allows users to run Mac OS 9 as a process within Mac OS X, so that most older applications run as they would under the older operating system. Classic is not supported on Intel-based Macs or in Mac OS X v10.5 \"Leopard\", but users still requiring Classic applications on Intel Macs can use the SheepShaver emulator to run Mac OS 9 on top of Leopard.[citation needed]",
+				"after": "In April 2002, eWeek announced a rumor that Apple had a version of Mac OS X code-named Marklar, which ran on Intel x86 processors. The idea behind Marklar was to keep Mac OS X running on an alternative platform should Apple become dissatisfied with the progress of the PowerPC platform.[49] These rumors subsided until late in May 2005, when various media outlets, such as The Wall Street Journal[50] and CNET,[51] announced that Apple would unveil Marklar in the coming months.",
+			"color": "black|0.46599 tan|0.13058 burly|0.11443 wood|0.11443 dark|0.099492 slate|0.099492 gray|0.099492  "
+		}
+	}
+}

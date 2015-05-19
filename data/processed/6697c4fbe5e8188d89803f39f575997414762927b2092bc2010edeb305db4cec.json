@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "6697c4fbe5e8188d89803f39f575997414762927b2092bc2010edeb305db4cec",
+			"url": "https://upload.wikimedia.org/math/f/d/e/fdeb1111f84c92bf8cdd2f451cd09beb.png",
+			"previous": [
+				"Solving for delta gives:",
+				"",
+				"Setting them equal to each other gives:"
+			],
+			"after": [
+				"In dimensionless form:",
+				"",
+				"Where = Womersley Number; = density; = velocity; = length of transient boundary layer; = viscosity; = characteristic length."
+			],
+			"color": "dim|0.30735 gray|0.30735 dim|0.30735 grey|0.30735 gray|0.29385 grey|0.29385 dark|0.22782 gray|0.22782 dark|0.22782 grey|0.22782 silver|0.088305 light|0.038477 gray|0.038477 light|0.038477 grey|0.038477 gainsboro|0.02727 white|0.0043413 smoke|0.0043413  "
+		}
+	}
+}

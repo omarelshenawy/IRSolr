@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a2753620b43b00e1cb75121dbcd62db658348e26e2bb73767500111f3a30a2c",
+			"url": "https://upload.wikimedia.org/math/d/b/7/db7f4157daac1c93135f2a9cedc2fc98.png",
+			"previous": [],
+				"after": "The set of infinite primes of K can be described explicitly in terms of the embeddings K â C (i.e. the non-zero ring homomorphisms from K to C). Specifically, the set of embeddings can be split up into two disjoint subsets, those whose image is contained in R, and the rest. To each embedding ÏÂ : K â R, there corresponds a unique prime of K coming from the absolute value obtained by composing Ï with the usual absolute value on R; a prime arising in this fashion is called a real prime (or real place). To an embedding ÏÂ : K â C whose image is not contained in R, one can construct a distinct embedding Ï, called the conjugate embedding, by composing Ï with the complex conjugation map C â C. Given such a pair of embeddings Ï and Ï, there corresponds a unique prime of K again obtained by composing Ï with the usual absolute value (composing Ï instead gives the same absolute value function since |z| = |z| for any complex number z, where z denotes the complex conjugate of z). Such a prime is called a complex prime (or complex place). The description of the set of infinite primes is then as follows: each infinite prime corresponds either to a unique embedding ÏÂ : K â R, or a pair of conjugate embeddings Ï, ÏÂ : K â C. The number of real (respectively, complex) primes is often denoted r1 (respectively, r2). Then, the total number of embeddings K â C is r1+2r2 (which, in fact, equals the degree of the extension K/Q).",
+			"color": " "
+		}
+	}
+}

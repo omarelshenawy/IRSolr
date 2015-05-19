@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a1c522f348c25bad5d258c151a0f6b485c87183288ff963ee2b021df9375c89",
+			"url": "https://upload.wikimedia.org/math/9/d/b/9db15400f728ba4e1c860dd2f212b8c6.png",
+				"previous": "We can define the length of a vector v in V by",
+			"after": [
+				"and we can prove the CauchyâSchwarz inequality:",
+				"In particular, the quantity",
+				"and so we can call this quantity the cosine of the angle between the two vectors."
+			],
+			"color": "black|0.31606 dim|0.22688 gray|0.22688 dim|0.22688 grey|0.22688 gray|0.19923 grey|0.19923 dark|0.15878 gray|0.15878 dark|0.15878 grey|0.15878 silver|0.068203 light|0.015615 gray|0.015615 light|0.015615 grey|0.015615 gainsboro|0.0099025  "
+		}
+	}
+}

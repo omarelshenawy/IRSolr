@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "361f598aab3181ab5d37b26acfbaad07aa9a066ed7d8b27cb744d1973c6ee16d",
+			"url": "https://upload.wikimedia.org/math/f/f/c/ffc1c12124651f59f29b87c405c92a3d.png",
+				"previous": "As in the classical case, the potential for the quantum harmonic oscillator is given by",
+				"after": "This problem can either be treated by directly solving the SchrÃ¶dinger, which is not trivial, or by using the more elegant \"ladder method\" first proposed by Paul Dirac. The eigenstates are given by",
+			"color": "dim|0.36726 gray|0.36726 dim|0.36726 grey|0.36726 gray|0.28363 grey|0.28363 dark|0.18531 gray|0.18531 dark|0.18531 grey|0.18531 silver|0.077726 light|0.038708 gray|0.038708 light|0.038708 grey|0.038708 gainsboro|0.026814 white|0.0047164 smoke|0.0047164  "
+		}
+	}
+}

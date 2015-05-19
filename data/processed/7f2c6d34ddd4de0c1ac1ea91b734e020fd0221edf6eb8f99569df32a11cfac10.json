@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f2c6d34ddd4de0c1ac1ea91b734e020fd0221edf6eb8f99569df32a11cfac10",
+			"url": "https://upload.wikimedia.org/math/0/a/1/0a1510b7c9e0f471ef112d713f7d6d98.png",
+			"previous": [
+				"These expressions are unnecessarily complicated, involving the cubic roots of unity, which can be avoided as follows. If s is any non-zero root of (5), and if we set",
+				"This polynomial is of degree six, but only of degree three in s2, and so the corresponding equation is solvable by the method described in the article Cubic function. By substituting the roots in the expression of the xi in terms of the si, we obtain expression for the roots. In fact we obtain, apparently, several expressions, depending on the numbering of the roots of the cubic polynomial and of the signs given to their square roots. All these different expressions may be deduced from one of them by simply changing the numbering of the xi."
+			],
+				"after": "then",
+			"color": "dim|0.30688 gray|0.30688 dim|0.30688 grey|0.30688 black|0.24469 gray|0.20115 grey|0.20115 dark|0.13045 gray|0.13045 dark|0.13045 grey|0.13045 silver|0.056661 light|0.028607 gray|0.028607 light|0.028607 grey|0.028607 gainsboro|0.020037  "
+		}
+	}
+}

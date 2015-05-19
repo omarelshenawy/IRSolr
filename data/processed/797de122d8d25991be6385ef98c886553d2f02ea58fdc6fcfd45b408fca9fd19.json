@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "797de122d8d25991be6385ef98c886553d2f02ea58fdc6fcfd45b408fca9fd19",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Linear_least_squares%282%29.svg/220px-Linear_least_squares%282%29.svg.png",
+				"previous": "Mean squared error is used for obtaining efficient estimators, a widely used class of estimators. Root mean square error is simply the square root of mean squared error.",
+				"after": "Many statistical methods seek to minimize the residual sum of squares, and these are called \"methods of least squares\" in contrast to Least absolute deviations. The later gives equal weight to small and big errors, while the former gives more weight to large errors. Residual sum of squares is also differentiable, which provides a handy property for doing regression. Least squares applied to linear regression is called ordinary least squares method and least squares applied to nonlinear regression is called non-linear least squares. Also in a linear regression model the non deterministic part of the model is called error term, disturbance or more simply noise. Both linear regression and non-linear regression are addressed in polynomial least squares, which also describes the variance in a prediction of the dependent variable (y axis) as a function of the independent variable (x axis) and the deviations (errors, noise, disturbances) from the estimated (fitted) curve.",
+			"color": "red|0.23735 rosy|0.16991 brown|0.16991 indian|0.12711 red|0.12711 medium|0.11025 slate|0.11025 blue|0.11025 firebrick|0.076524 brown|0.062257 blue|0.062257 medium|0.050584 blue|0.050584 silver|0.017942 indigo|0.010376 purple|0.0097276 light|0.0090791 coral|0.0090791 slate|0.0071336 blue|0.0071336  "
+		}
+	}
+}

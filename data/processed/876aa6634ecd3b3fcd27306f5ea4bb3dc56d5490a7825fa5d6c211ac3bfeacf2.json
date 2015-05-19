@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "876aa6634ecd3b3fcd27306f5ea4bb3dc56d5490a7825fa5d6c211ac3bfeacf2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Desktop-Linux-Mint.png/300px-Desktop-Linux-Mint.png",
+			"previous": [],
+				"after": "The Free Software Directory maintains a large database of free software packages. Some of the best-known examples include the Linux Kernel, the BSD and GNU/Linux operating systems, the GNU Compiler Collection and C library; the MySQL relational database; the Apache web server; and the Sendmail mail transport agent. Other influential examples include the emacs text editor; the GIMP raster drawing and image editor; the X Window System graphical-display system; the LibreOffice office suite; and the TeX and LaTeX typesetting systems.",
+			"color": "black|0.8539 dim|0.042139 gray|0.042139 dim|0.042139 grey|0.042139 gray|0.018973 grey|0.018973 dark|0.017222 sea|0.017222 green|0.017222  "
+		}
+	}
+}

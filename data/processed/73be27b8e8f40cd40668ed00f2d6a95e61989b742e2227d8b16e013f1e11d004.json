@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "73be27b8e8f40cd40668ed00f2d6a95e61989b742e2227d8b16e013f1e11d004",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Venn0100.svg/220px-Venn0100.svg.png",
+				"previous": "Some basic properties of intersections:",
+				"after": "Two sets can also be \"subtracted\". The relative complement of B in A (also called the set-theoretic difference of A and B), denoted by A \\ B (or A â B), is the set of all elements that are members of A but not members of B. Note that it is valid to \"subtract\" members of a set that are not in the set, such as removing the element green from the set {1, 2, 3}; doing so has no effect.",
+			"color": "red|0.75066 black|0.16882 gray|0.03384 grey|0.03384 dim|0.028439 gray|0.028439 dim|0.028439 grey|0.028439 dark|0.0066752 gray|0.0066752 dark|0.0066752 grey|0.0066752 maroon|0.0053264 dark|0.0052134 red|0.0052134  "
+		}
+	}
+}

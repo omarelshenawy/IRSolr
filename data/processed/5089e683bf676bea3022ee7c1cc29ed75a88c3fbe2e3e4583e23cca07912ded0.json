@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "5089e683bf676bea3022ee7c1cc29ed75a88c3fbe2e3e4583e23cca07912ded0",
+			"url": "https://upload.wikimedia.org/math/a/3/9/a3918bfa4145ad6e703cd1880a6f6c7f.png",
+				"previous": "This is the dual notion to the kernel: just as the kernel is a subspace of the domain, the co-kernel is a quotient space of the target. Formally, one has the exact sequence",
+				"after": "These can be interpreted thus: given a linear equation f(v) = w to solve,",
+			"color": "dim|0.32842 gray|0.32842 dim|0.32842 grey|0.32842 gray|0.30003 grey|0.30003 dark|0.18059 gray|0.18059 dark|0.18059 grey|0.18059 silver|0.091127 light|0.048554 gray|0.048554 light|0.048554 grey|0.048554 gainsboro|0.034426 white|0.0037395 smoke|0.0037395  "
+		}
+	}
+}

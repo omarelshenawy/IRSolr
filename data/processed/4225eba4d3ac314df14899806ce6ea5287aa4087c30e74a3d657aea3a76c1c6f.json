@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4225eba4d3ac314df14899806ce6ea5287aa4087c30e74a3d657aea3a76c1c6f",
+			"url": "https://upload.wikimedia.org/math/7/d/9/7d96d02d81246e6bc8f2fd52507bad95.png",
+				"previous": "The last axiom needs the most explanation. If X is an object of C, an \"equivalence relation\" R on X is a map RâXÃX in C such that for any object Y in C, the induced map Hom(Y,R)âHom(Y,X)ÃHom(Y,X) gives an ordinary equivalence relation on the set Hom(Y,X). Since C has colimits we may form the coequalizer of the two maps RâX; call this X/R. The equivalence relation is \"effective\" if the canonical map",
+				"after": "is an isomorphism.",
+			"color": "dim|0.29355 gray|0.29355 dim|0.29355 grey|0.29355 gray|0.28786 grey|0.28786 dark|0.2207 gray|0.2207 dark|0.2207 grey|0.2207 silver|0.099067 light|0.047774 gray|0.047774 light|0.047774 grey|0.047774 gainsboro|0.032564 white|0.0051342 smoke|0.0051342  "
+		}
+	}
+}

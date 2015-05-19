@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cacb5c1493495794a4871a8dbf0a98cf8f942a072719c427a36427331149120",
+			"url": "https://upload.wikimedia.org/math/3/2/8/3285ca0f951df0a46916395405998600.png",
+				"previous": "The ring of Hurwitz quaternions is not commutative, hence it is not an actual Euclidean domain, and it does not have unique factorization in the usual sense. Nevertheless, the property above implies that every right ideal is principal. Thus, there is a Hurwitz quaternion such that",
+				"after": "In particular, for some Hurwitz quaternion . If were a unit, would be a multiple of , however this is impossible as is not a Hurwitz quaternion for . Similarly, if were a unit, we would have",
+			"color": "dim|0.38893 gray|0.38893 dim|0.38893 grey|0.38893 gray|0.27404 grey|0.27404 dark|0.16951 gray|0.16951 dark|0.16951 grey|0.16951 silver|0.081661 light|0.042497 gray|0.042497 light|0.042497 grey|0.042497 gainsboro|0.029411 white|0.0034059 smoke|0.0034059  "
+		}
+	}
+}

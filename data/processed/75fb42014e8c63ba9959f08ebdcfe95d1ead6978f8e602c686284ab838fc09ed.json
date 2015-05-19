@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "75fb42014e8c63ba9959f08ebdcfe95d1ead6978f8e602c686284ab838fc09ed",
+			"url": "https://upload.wikimedia.org/math/8/b/e/8be63cbfe852adf6494f2be744fe8e54.png",
+				"previous": "where",
+			"after": [
+				"The left hand side of equation (2) is a monic trinomial called a depressed cubic.",
+				"Any formula for the roots of a depressed cubic may be transformed into a formula for the roots of Equation (1) by substituting the above values for and and using the relation ."
+			],
+			"color": "dim|0.29625 gray|0.29625 dim|0.29625 grey|0.29625 gray|0.29285 grey|0.29285 dark|0.21842 gray|0.21842 dark|0.21842 grey|0.21842 silver|0.094897 light|0.04532 gray|0.04532 light|0.04532 grey|0.04532 gainsboro|0.031797 white|0.0049058 smoke|0.0049058 linen|0.0028082  "
+		}
+	}
+}

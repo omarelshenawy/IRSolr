@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f90b793630c9459bf9a0d25d8bcc8427297645469cd2267c0b23754cdfd5139",
+			"url": "https://upload.wikimedia.org/math/8/5/7/857ea1fcbd8a8ddf05a8c025b30aea65.png",
+			"previous": [
+				"where the four numbers are integers. For illustration, 3, 31 and 310 can be represented as the sum of four squares as follows:",
+				"Lagrange's four-square theorem, also known as Bachet's conjecture, states that every natural number can be represented as the sum of four integer squares."
+			],
+			"after": [
+				"This theorem was proven by Joseph Louis Lagrange in 1770.",
+				""
+			],
+			"color": " "
+		}
+	}
+}

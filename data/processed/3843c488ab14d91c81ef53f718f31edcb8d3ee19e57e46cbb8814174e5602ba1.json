@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3843c488ab14d91c81ef53f718f31edcb8d3ee19e57e46cbb8814174e5602ba1",
+			"url": "https://upload.wikimedia.org/math/0/e/6/0e6e805a66780eabc7988903aa14dd1a.png",
+			"previous": [
+				"The derivative of the cubic BÃ©zier curve with respect to t is",
+				"Any series of any 4 distinct points can be converted to a cubic BÃ©zier curve that goes through all 4 points in order. Given the starting and ending point of some cubic BÃ©zier curve, and the points along the curve corresponding to t = 1/3 and t = 2/3, the control points for the original BÃ©zier curve can be recovered.[4]"
+			],
+				"after": "The second derivative of the BÃ©zier curve with respect to t is",
+			"color": "dim|0.34387 gray|0.34387 dim|0.34387 grey|0.34387 gray|0.28212 grey|0.28212 dark|0.18387 gray|0.18387 dark|0.18387 grey|0.18387 silver|0.092484 light|0.047509 gray|0.047509 light|0.047509 grey|0.047509 gainsboro|0.034332 white|0.0039243 smoke|0.0039243  "
+		}
+	}
+}

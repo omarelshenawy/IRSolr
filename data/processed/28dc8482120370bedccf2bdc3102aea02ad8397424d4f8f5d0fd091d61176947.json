@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "28dc8482120370bedccf2bdc3102aea02ad8397424d4f8f5d0fd091d61176947",
+			"url": "https://upload.wikimedia.org/math/b/7/2/b72305504505c6079579a49cd76ae267.png",
+				"previous": "Here we follow the discussion in Ref.[3] To first approximation, the formation of vortex cores is thermodynamically an adiabatic process, i.e., one with no exchange of heat. In such a process, the drop in pressure is accompanied by a drop in temperature, according to the equation",
+				"after": "Here and are the absolute temperature and pressure at the beginning of the process (here equal to the ambient air temperature and pressure), and are the absolute temperature and pressure in the vortex core (which is the end result of the process), and the constant is about 7/5Â =Â 1.4 for air (see here).",
+			"color": "dim|0.36885 gray|0.36885 dim|0.36885 grey|0.36885 gray|0.30704 grey|0.30704 dark|0.18048 gray|0.18048 dark|0.18048 grey|0.18048 silver|0.069625 light|0.033636 gray|0.033636 light|0.033636 grey|0.033636 gainsboro|0.023331 white|0.0042095 smoke|0.0042095  "
+		}
+	}
+}

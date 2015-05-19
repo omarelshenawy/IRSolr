@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "75bf03c788763eae98684040e63622adf67af3420a377ac5e460217400ebb5b8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Proper_and_coordinate_time.png/220px-Proper_and_coordinate_time.png",
+				"previous": "In relativity, proper time along a timelike (or lightlike) world line is defined as the time as measured by a clock following that line. It is thus independent of coordinates, and a Lorentz scalar.[1] The proper time interval between two events on a world line is the change in proper time. This is the quantity of interest, since proper time itself is fixed only up to an arbitrary additive constant, namely the setting of the clock at some event along the world line. The proper time between two events depends not only on the events but also the world line connecting them, and hence on the motion of the clock between the events. It is expressed as an integral over the world line. An accelerated clock will measure a smaller elapsed time between two events than that measured by a non-accelerated (inertial) clock between the same two events. The twin paradox is an example of this effect.",
+				"after": "In terms of four-dimensional spacetime, proper time is analogous to arc length in three-dimensional (Euclidean) space. By convention, proper time is usually represented by the Greek letter Ï (tau) to distinguish it from coordinate time represented by t.",
+			"color": "alice|0.096379 blue|0.096379 azure|0.093501 white|0.086596 smoke|0.086596 ghost|0.085905 white|0.085905 mint|0.084726 cream|0.084726 white|0.081862 snow|0.079139 sea|0.071251 shell|0.071251 floral|0.070554 white|0.070554 lavender|0.066065 blush|0.066065 light|0.046385 blue|0.046385 powder|0.038296 blue|0.038296 light|0.033121 cyan|0.033121 sky|0.028818 blue|0.028818 gainsboro|0.013318 light|0.0031469 sky|0.0031469 blue|0.0031469 light|0.0027821 gray|0.0027821 light|0.0027821 grey|0.0027821 yellow|0.0027591  "
+		}
+	}
+}

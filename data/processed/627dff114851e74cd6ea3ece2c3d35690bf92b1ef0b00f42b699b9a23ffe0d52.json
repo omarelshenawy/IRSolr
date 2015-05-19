@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "627dff114851e74cd6ea3ece2c3d35690bf92b1ef0b00f42b699b9a23ffe0d52",
+			"url": "https://upload.wikimedia.org/math/e/f/8/ef82e28e3f45e636f3847cd0d98f51c3.png",
+				"previous": "but not",
+			"after": [
+				"For several years this manual misled people concerning \\mbox. See An opinion: Why you should never use \\mbox within Wikipedia.",
+				"On the other hand, for the differential, imaginary unit, and Euler's number, Wikipedia articles usually use an italic font, so one writes"
+			],
+			"color": "dim|0.32519 gray|0.32519 dim|0.32519 grey|0.32519 black|0.23896 gray|0.20095 grey|0.20095 dark|0.11808 gray|0.11808 dark|0.11808 grey|0.11808 silver|0.053419 light|0.028812 gray|0.028812 light|0.028812 grey|0.028812 gainsboro|0.020652  "
+		}
+	}
+}

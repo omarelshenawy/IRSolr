@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "369a4518299679818f0e9bba7c83c3629d90eab04fc6e7b5aa108aa6bf34ddcd",
+			"url": "https://upload.wikimedia.org/math/c/e/a/cea107585606e4ed94ea0c7a226cc028.png",
+				"previous": "The PID controller is probably the most-used feedback control design. PID is an initialism for Proportional-Integral-Derivative, referring to the three terms operating on the error signal to produce a control signal. If u(t) is the control signal sent to the system, y(t) is the measured output and r(t) is the desired output, and tracking error , a PID controller has the general form",
+				"after": "Applying Laplace transformation results in the transformed PID controller equation",
+			"color": "gray|0.2934 grey|0.2934 dark|0.26771 gray|0.26771 dark|0.26771 grey|0.26771 dim|0.15279 gray|0.15279 dim|0.15279 grey|0.15279 silver|0.12647 light|0.066229 gray|0.066229 light|0.066229 grey|0.066229 gainsboro|0.047401 white|0.010281 smoke|0.010281 lavender|0.0049355 blush|0.0049355 linen|0.0048549 alice|0.0048126 blue|0.0048126 ghost|0.0046206 white|0.0046206 sea|0.004434 shell|0.004434 snow|0.0042036 white|0.0031879  "
+		}
+	}
+}

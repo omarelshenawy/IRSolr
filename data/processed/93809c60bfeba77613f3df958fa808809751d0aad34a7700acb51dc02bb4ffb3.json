@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "93809c60bfeba77613f3df958fa808809751d0aad34a7700acb51dc02bb4ffb3",
+			"url": "https://upload.wikimedia.org/math/f/b/c/fbc7a2f90dc9c32565bd9f95d91db72f.png",
+			"previous": [
+				"",
+				"Although the algorithm is slower for most architectures when compared with the direct approach, it is more numerically stable.",
+				"In the mathematical field of numerical analysis, De Casteljau's algorithm is a recursive method to evaluate polynomials in Bernstein form or BÃ©zier curves, named after its inventor Paul de Casteljau. De Casteljau's algorithm can also be used to split a single BÃ©zier curve into two BÃ©zier curves at an arbitrary parameter value."
+			],
+			"after": [
+				"where b is a Bernstein basis polynomial",
+				"The curve at point t0 can be evaluated with the recurrence relation"
+			],
+			"color": "dim|0.36504 gray|0.36504 dim|0.36504 grey|0.36504 gray|0.24196 grey|0.24196 dark|0.15022 gray|0.15022 dark|0.15022 grey|0.15022 black|0.080618 silver|0.067311 light|0.036848 gray|0.036848 light|0.036848 grey|0.036848 gainsboro|0.027782 white|0.006652 smoke|0.006652 linen|0.0033934 lavender|0.0033073 blush|0.0033073 alice|0.0032213 blue|0.0032213  "
+		}
+	}
+}

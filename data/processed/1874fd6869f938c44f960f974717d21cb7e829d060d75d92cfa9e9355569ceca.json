@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1874fd6869f938c44f960f974717d21cb7e829d060d75d92cfa9e9355569ceca",
+			"url": "https://upload.wikimedia.org/math/d/4/d/d4df4d2cdd8cdb93b8868b4d5c22bcc2.png",
+			"previous": [],
+				"after": "The principal advantage of MEMS cantilevers is their cheapness and ease of fabrication in large arrays. The challenge for their practical application lies in the square and cubic dependences of cantilever performance specifications on dimensions. These superlinear dependences mean that cantilevers are quite sensitive to variation in process parameters, particularly the thickness as this is generally difficult to accurately measure.[7] However, it has been shown that microcantilever thicknesses can be precisely measured and that this variation can be quantified.[8] Controlling residual stress can also be difficult.",
+			"color": " "
+		}
+	}
+}

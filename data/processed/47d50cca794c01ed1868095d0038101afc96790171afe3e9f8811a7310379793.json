@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "47d50cca794c01ed1868095d0038101afc96790171afe3e9f8811a7310379793",
+			"url": "https://upload.wikimedia.org/math/c/e/8/ce878ab016e4775b084c9f4a7e45a312.png",
+			"previous": [
+				"and the corresponding energy levels are",
+				"where Hn are the Hermite polynomials,",
+				"This problem can either be treated by directly solving the SchrÃ¶dinger, which is not trivial, or by using the more elegant \"ladder method\" first proposed by Paul Dirac. The eigenstates are given by"
+			],
+				"after": "This is another example illustrating the quantization of energy for bound states.",
+			"color": "black|0.23304 dim|0.2303 gray|0.2303 dim|0.2303 grey|0.2303 gray|0.22667 grey|0.22667 dark|0.20732 gray|0.20732 dark|0.20732 grey|0.20732 silver|0.078461 light|0.017996 gray|0.017996 light|0.017996 grey|0.017996 gainsboro|0.0062174  "
+		}
+	}
+}

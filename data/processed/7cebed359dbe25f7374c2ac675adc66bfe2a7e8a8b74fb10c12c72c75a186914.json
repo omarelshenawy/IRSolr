@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cebed359dbe25f7374c2ac675adc66bfe2a7e8a8b74fb10c12c72c75a186914",
+			"url": "https://upload.wikimedia.org/math/c/5/5/c551e541c87a4a9d1e3e9987e4fe1f88.png",
+				"previous": "It is expedient to use vector notation: let let t be a parameter, let be the parametric representation of a curve C, and let be its tangent vector. The optical length of the curve is given by",
+				"after": "Note that this integral is invariant with respect to changes in the parametric representation of C. The EulerâLagrange equations for a minimizing curve have the symmetric form",
+			"color": "dim|0.34053 gray|0.34053 dim|0.34053 grey|0.34053 gray|0.28071 grey|0.28071 dark|0.1878 gray|0.1878 dark|0.1878 grey|0.1878 silver|0.073445 light|0.039718 gray|0.039718 light|0.039718 grey|0.039718 gainsboro|0.031094 black|0.020746 white|0.0086029 smoke|0.0086029 linen|0.0028753  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "24ce9e66366f4796e355f892e755242323b245239b726604bec46ae74294d742",
+			"url": "https://upload.wikimedia.org/math/c/6/3/c637eaf9d60852eb4c7ba487661cb232.png",
+			"previous": [
+				"Rearranging the above equation, specific thrust is given by:",
+				"aircraft flight velocity"
+			],
+			"after": [
+				"So for zero flight velocity, specific thrust is directly proportional to jet velocity.",
+				"The Olympus 593 engines in Concorde had a high specific thrust in supersonic cruise and at dry take-off power. This alone would have made the engines noisy, but the problem was compounded by the need for a modest amount of afterburning (reheat) at take-off (and Transonic Acceleration). An SST VCE would have to increase the engine airflow substantially at take-off, to reduce the jet velocity at a given thrust (i.e. a lower specific thrust)"
+			],
+			"color": "dim|0.3881 gray|0.3881 dim|0.3881 grey|0.3881 gray|0.27084 grey|0.27084 dark|0.177 gray|0.177 dark|0.177 grey|0.177 silver|0.079765 light|0.037896 gray|0.037896 light|0.037896 grey|0.037896 gainsboro|0.028078 white|0.0045058 smoke|0.0045058  "
+		}
+	}
+}

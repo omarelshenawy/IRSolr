@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a6b60bbefbff1e22e5fe614f5948ec5ca087f7177ae7ae4010e71437aef7596",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Diffie_and_Hellman.jpg/220px-Diffie_and_Hellman.jpg",
+				"previous": "Symmetric-key cryptosystems use the same key for encryption and decryption of a message, though a message or group of messages may have a different key than others. A significant disadvantage of symmetric ciphers is the key management necessary to use them securely. Each distinct pair of communicating parties must, ideally, share a different key, and perhaps each ciphertext exchanged as well. The number of keys required increases as the square of the number of network members, which very quickly requires complex key management schemes to keep them all consistent and secret. The difficulty of securely establishing a secret key between two communicating parties, when a secure channel does not already exist between them, also presents a chicken-and-egg problem which is a considerable practical obstacle for cryptography users in the real world.",
+				"after": "In a groundbreaking 1976 paper, Whitfield Diffie and Martin Hellman proposed the notion of public-key (also, more generally, called asymmetric key) cryptography in which two different but mathematically related keys are usedâa public key and a private key.[28] A public key system is so constructed that calculation of one key (the 'private key') is computationally infeasible from the other (the 'public key'), even though they are necessarily related. Instead, both keys are generated secretly, as an interrelated pair.[29] The historian David Kahn described public-key cryptography as \"the most revolutionary new concept in the field since polyalphabetic substitution emerged in the Renaissance\".[30]",
+			"color": "black|0.45907 rosy|0.099254 brown|0.099254 saddle|0.078798 brown|0.078798 peru|0.058774 sienna|0.051646 golden|0.041613 rod|0.041613 gray|0.033184 grey|0.033184 dim|0.0328 gray|0.0328 dim|0.0328 grey|0.0328 chocolate|0.031601 pink|0.02985 light|0.024206 pink|0.024206 dark|0.023457 gray|0.023457 dark|0.023457 grey|0.023457  "
+		}
+	}
+}

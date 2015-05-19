@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "27c98fccf64a8d6389caa244ad8ef83a853514cd0444aaf4abfcb197951a72b2",
+			"url": "https://upload.wikimedia.org/math/4/9/0/490b2766cacbcd4351053d782af608ab.png",
+				"previous": "The theorem states that the average of many independent and identically distributed random variables with finite variance tends towards a normal distribution irrespective of the distribution followed by the original random variables. Formally, let be independent random variables with mean and variance Then the sequence of random variables",
+				"after": "converges in distribution to a standard normal random variable.",
+			"color": "dim|0.33416 gray|0.33416 dim|0.33416 grey|0.33416 gray|0.29197 grey|0.29197 dark|0.19392 gray|0.19392 dark|0.19392 grey|0.19392 silver|0.089463 light|0.045118 gray|0.045118 light|0.045118 grey|0.045118 gainsboro|0.030501 white|0.0039872 smoke|0.0039872  "
+		}
+	}
+}

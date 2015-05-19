@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7009d40f24f3fb74b2ad8f983a0550a10b1d79c8d9b7eda64b875cb09776e5ee",
+			"url": "https://upload.wikimedia.org/math/f/d/e/fde03666a41fe825fe81d0f414b173b9.png",
+				"previous": "The rephrasing of questions on equations in terms of points on curves turns out to be felicitous. The finiteness or not of the number of rational or integer points on an algebraic curveâthat is, rational or integer solutions to an equation , where is a polynomial in two variablesâturns out to depend crucially on the genus of the curve. The genus can be defined as follows:[note 13] allow the variables in to be complex numbers; then defines a 2-dimensional surface in (projective) 4-dimensional space (since two complex variables can be decomposed into four real variables, i.e., four dimensions). Count the number of (doughnut) holes in the surface; call this number the genus of . Other geometrical notions turn out to be just as crucial.",
+				"after": "Diophantine geometry should not be confused with the geometry of numbers, which is a collection of graphical methods for answering certain questions in algebraic number theory. Arithmetic geometry, on the other hand, is a contemporary term for much the same domain as that covered by the term Diophantine geometry. The term arithmetic geometry is arguably used most often when one wishes to emphasise the connections to modern algebraic geometry (as in, for instance, Faltings' theorem) rather than to techniques in Diophantine approximations.",
+			"color": " "
+		}
+	}
+}

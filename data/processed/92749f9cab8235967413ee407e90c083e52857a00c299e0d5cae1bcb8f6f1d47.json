@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "92749f9cab8235967413ee407e90c083e52857a00c299e0d5cae1bcb8f6f1d47",
+			"url": "https://upload.wikimedia.org/math/5/2/9/529cd8508a11a635b84cc995396a94db.png",
+				"previous": "For each initial condition (x0, y0) there exists a unique maximum (possibly infinite) open interval",
+				"after": "such that any solution that satisfies this initial condition is a restriction of the solution that satisfies this initial condition with domain Imax.",
+			"color": "dim|0.38412 gray|0.38412 dim|0.38412 grey|0.38412 gray|0.27846 grey|0.27846 dark|0.17688 gray|0.17688 dark|0.17688 grey|0.17688 silver|0.075742 light|0.039809 gray|0.039809 light|0.039809 grey|0.039809 gainsboro|0.028234 white|0.0044124 smoke|0.0044124  "
+		}
+	}
+}

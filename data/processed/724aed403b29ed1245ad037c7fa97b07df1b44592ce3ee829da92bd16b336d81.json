@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "724aed403b29ed1245ad037c7fa97b07df1b44592ce3ee829da92bd16b336d81",
+			"url": "https://upload.wikimedia.org/math/0/0/f/00fa91012c19f237403f36589a916e06.png",
+				"previous": "Fermat's principle states that light takes a path that (locally) minimizes the optical length between its endpoints. If the x-coordinate is chosen as the parameter along the path, and along the path, then the optical length is given by",
+				"after": "After integration by parts of the first term within brackets, we obtain the EulerâLagrange equation",
+			"color": "gray|0.30989 grey|0.30989 dark|0.27979 gray|0.27979 dark|0.27979 grey|0.27979 dim|0.14048 gray|0.14048 dim|0.14048 grey|0.14048 silver|0.12779 light|0.064275 gray|0.064275 light|0.064275 grey|0.064275 gainsboro|0.044869 white|0.00814 smoke|0.00814 linen|0.0040061 lavender|0.0036663 blush|0.0036663 alice|0.0035291 blue|0.0035291 ghost|0.0033525 white|0.0033525 sea|0.0031654 shell|0.0031654 snow|0.0030095  "
+		}
+	}
+}

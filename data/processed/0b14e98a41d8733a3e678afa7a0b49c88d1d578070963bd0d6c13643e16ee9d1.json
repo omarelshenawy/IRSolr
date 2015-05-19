@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b14e98a41d8733a3e678afa7a0b49c88d1d578070963bd0d6c13643e16ee9d1",
+			"url": "https://upload.wikimedia.org/math/2/a/5/2a50f819bb56efebe88d7e1550548dd9.png",
+				"previous": "If the latitudes of the end points cannot be determined with confidence then they can be found instead by calculation on the ruler distance. Calling the ruler distances of the end points on the map meridian as measured from the equator y1 and y2, the true distance between these points on the sphere is given by using any one of the inverse Mercator formulÃ¦:",
+				"after": "where R may be calculated from the width W of the map by R=W/2Ï. For example, on a map with R=1 the values of y=0, 1, 2, 3 correspond to latitudes of Ï=0Â°, 50Â°, 75Â°, 84Â° and therefore the successive intervals of 1Â cm on the map correspond to latitude intervals on the globe of 50Â°, 25Â°, 9Â° and distances of 5,560Â km, 2,780Â km, and 1,000Â km on the Earth.",
+			"color": "black|0.26543 dim|0.24162 gray|0.24162 dim|0.24162 grey|0.24162 gray|0.2367 grey|0.2367 dark|0.18253 gray|0.18253 dark|0.18253 grey|0.18253 silver|0.063656 light|0.0084515 gray|0.0084515 light|0.0084515 grey|0.0084515  "
+		}
+	}
+}

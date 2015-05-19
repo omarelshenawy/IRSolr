@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "698a7c474f5637e848c3cd32dfcf18dfc343d2c97b617eaac9b4581c88b27e87",
+			"url": "https://upload.wikimedia.org/math/e/d/a/eda0c035c2a21bce2c41194e687b6220.png",
+			"previous": [
+				"which can be integrated as before.",
+				"Substituting for and multiplying by r, gives torque as:"
+			],
+			"after": [
+				"showing that the blade efficiency is determined by its momentum and its qualities in the form of angles and , where is the ratio of the drag and lift coefficients.",
+				"This analysis is simplified and ignores a number of significant factors including interference between the blades and the influence of tip vortices."
+			],
+			"color": " "
+		}
+	}
+}

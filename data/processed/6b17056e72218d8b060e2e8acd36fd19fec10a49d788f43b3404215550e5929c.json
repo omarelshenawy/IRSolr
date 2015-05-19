@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b17056e72218d8b060e2e8acd36fd19fec10a49d788f43b3404215550e5929c",
+			"url": "https://upload.wikimedia.org/math/8/1/b/81bf3fa889d14bda4814245cc6247575.png",
+				"previous": "An alternative formula is",
+				"after": "Cos Ï decreases from 1 at the equator to zero at the poles, so the length of a degree of longitude decreases likewise. This contrasts with the small (1%) increase in the length of a degree of latitude, equator to pole. The table shows both for the WGS84 ellipsoid with a = 6,378,137.0Â m and b = 6,356,752.3142Â m. Note that the distance between two points 1 degree apart on the same circle of latitude, measured along that circle of latitude, is slightly more than the shortest (geodesic) distance between those points; the difference is less than 0.6Â m.",
+			"color": "black|0.33512 dim|0.32201 gray|0.32201 dim|0.32201 grey|0.32201 gray|0.17352 grey|0.17352 dark|0.090347 gray|0.090347 dark|0.090347 grey|0.090347 silver|0.037963 light|0.017795 gray|0.017795 light|0.017795 grey|0.017795 gainsboro|0.012144  "
+		}
+	}
+}

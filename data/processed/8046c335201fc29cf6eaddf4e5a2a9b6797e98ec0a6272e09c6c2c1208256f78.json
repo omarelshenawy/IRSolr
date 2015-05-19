@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8046c335201fc29cf6eaddf4e5a2a9b6797e98ec0a6272e09c6c2c1208256f78",
+			"url": "https://upload.wikimedia.org/math/3/8/7/387ee7157e0418cc08de488449882c79.png",
+			"previous": [
+				"The central angle is:",
+				"The great circle chord length, , may be calculated as follows for the corresponding unit sphere, by means of Cartesian subtraction:"
+			],
+			"after": [
+				"The great circle distance is:",
+				"In this last formula, the central angle must be in radians. Alternatively, when working in nautical miles, the distance may be calculated directly by converting the central angle in degrees to minutes (i.e. multiply by 60)."
+			],
+			"color": "dim|0.44679 gray|0.44679 dim|0.44679 grey|0.44679 gray|0.28869 grey|0.28869 dark|0.15175 gray|0.15175 dark|0.15175 grey|0.15175 silver|0.058276 light|0.025381 gray|0.025381 light|0.025381 grey|0.025381 gainsboro|0.017083  "
+		}
+	}
+}

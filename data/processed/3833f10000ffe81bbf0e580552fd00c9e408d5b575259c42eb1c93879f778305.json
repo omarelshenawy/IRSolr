@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3833f10000ffe81bbf0e580552fd00c9e408d5b575259c42eb1c93879f778305",
+			"url": "https://upload.wikimedia.org/math/c/1/2/c126d77f77d8b846833c44f118491479.png",
+				"previous": "Einstein began by postulating simple proportionality relations for the different reaction rates involved. In his model, the rate for a system to absorb a photon of frequency and transition from a lower energy to a higher energy is proportional to the number of atoms with energy and to the energy density of ambient photons with that frequency,",
+				"after": "where is the rate constant for emitting a photon spontaneously, and is the rate constant for emitting it in response to ambient photons (induced or stimulated emission). In thermodynamic equilibrium, the number of atoms in state i and that of atoms in state j must, on average, be constant; hence, the rates and must be equal. Also, by arguments analogous to the derivation of Boltzmann statistics, the ratio of and is where are the degeneracy of the state i and that of j, respectively, their energies, k the Boltzmann constant and T the system's temperature. From this, it is readily derived that and",
+			"color": "gray|0.37237 grey|0.37237 dark|0.26031 gray|0.26031 dark|0.26031 grey|0.26031 dim|0.15884 gray|0.15884 dim|0.15884 grey|0.15884 silver|0.10724 light|0.04954 gray|0.04954 light|0.04954 grey|0.04954 gainsboro|0.033118 white|0.0060549 smoke|0.0060549 linen|0.0027457  "
+		}
+	}
+}

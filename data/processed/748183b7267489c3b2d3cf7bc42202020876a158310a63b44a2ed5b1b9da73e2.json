@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "748183b7267489c3b2d3cf7bc42202020876a158310a63b44a2ed5b1b9da73e2",
+			"url": "https://upload.wikimedia.org/math/4/1/f/41f18de65df8021d4d61054155ff7717.png",
+			"previous": [
+				"Where:",
+				"Additionally, the drag of the new configuration must be considered. The drag of the total configuration can be considered as the sum of the vehicle drag () and the engine installation drag (). The installation drag traditionally results from the pylons and the coupled flow due to the engine jet, and is a function of the throttle setting. Thus it is often written as:"
+			],
+			"after": [
+				"For an engine strongly integrated into the aerodynamic body, it may be more convenient to think of () as the difference in drag from a known base configuration.",
+				"The overall engine efficiency can be represented as a value between 0 and 1 (), in terms of the specific impulse of the engine:"
+			],
+			"color": "black|0.36803 dim|0.3406 gray|0.3406 dim|0.3406 grey|0.3406 gray|0.15722 grey|0.15722 dark|0.077563 gray|0.077563 dark|0.077563 grey|0.077563 silver|0.03192 light|0.013492 gray|0.013492 light|0.013492 grey|0.013492 gainsboro|0.0084198  "
+		}
+	}
+}

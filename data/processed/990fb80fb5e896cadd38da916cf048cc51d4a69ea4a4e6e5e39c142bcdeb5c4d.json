@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "990fb80fb5e896cadd38da916cf048cc51d4a69ea4a4e6e5e39c142bcdeb5c4d",
+			"url": "https://upload.wikimedia.org/math/5/b/a/5ba06b60191c1bacc2287502a11f5127.png",
+				"previous": "The Sk sequence is what's customarily known as the DFT of sN. Â It is also N-periodic, so it is never necessary to compute more than N coefficients. Â In terms of Sk, the inverse transform is given by:",
+				"after": "When sN[n] is expressed as a periodic summation of another function: Â  Â  and Â ",
+			"color": "dim|0.36298 gray|0.36298 dim|0.36298 grey|0.36298 gray|0.25871 grey|0.25871 dark|0.1906 gray|0.1906 dark|0.1906 grey|0.1906 silver|0.084075 light|0.040439 gray|0.040439 light|0.040439 grey|0.040439 gainsboro|0.030047 black|0.0080165 white|0.0069386 smoke|0.0069386  "
+		}
+	}
+}

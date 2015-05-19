@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a26557d163ba99006e377f98eccae204fc90ac427844762ee0a7804b97b61d3",
+			"url": "https://upload.wikimedia.org/math/2/f/d/2fd009416ed37cc1420e759f5fb8296a.png",
+			"previous": [
+				"The quantization of energy levels follows from this constraint on k, since",
+				"in which C cannot be zero as this would conflict with the Born interpretation. Therefore, since sin(kL) = 0, kL must be an integer multiple of Ï,"
+			],
+				"after": "A finite potential well is the generalization of the infinite potential well problem to potential wells having finite depth.",
+			"color": "black|0.3007 dim|0.25949 gray|0.25949 dim|0.25949 grey|0.25949 gray|0.23247 grey|0.23247 dark|0.15646 gray|0.15646 dark|0.15646 grey|0.15646 silver|0.048536  "
+		}
+	}
+}

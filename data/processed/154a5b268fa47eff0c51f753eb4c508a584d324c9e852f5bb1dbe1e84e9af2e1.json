@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "154a5b268fa47eff0c51f753eb4c508a584d324c9e852f5bb1dbe1e84e9af2e1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ubuntu_12-04_Server_Installation.png/220px-Ubuntu_12-04_Server_Installation.png",
+			"previous": [],
+				"after": "Ubuntu has a server edition that uses the same APT repositories as the Ubuntu Desktop Edition. The differences between them are the absence of an X Window environment in a default installation of the server edition (although one can easily be installed including Unity, GNOME, KDE or XFCE) and the installation process.[90] The server edition uses a screen mode character-based interface for the installation, instead of a graphical installation process.",
+			"color": "dim|0.21974 gray|0.21974 dim|0.21974 grey|0.21974 dark|0.20422 gray|0.20422 dark|0.20422 grey|0.20422 gray|0.17381 grey|0.17381 silver|0.15115 light|0.1034 gray|0.1034 light|0.1034 grey|0.1034 gainsboro|0.083532  "
+		}
+	}
+}

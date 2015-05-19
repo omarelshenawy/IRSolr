@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "40d5fee7881ef17775610eea4b267648d53c4de3ad130cf854d4d69748670af0",
+			"url": "https://upload.wikimedia.org/math/2/c/7/2c71b35617c3fd93aa0acd991ab6dca4.png",
+			"previous": [
+				"The authalic (Greek for same area) latitude, Î¾, gives an area-preserving transformation to a sphere.",
+				"defines a projection from the ellipsoid to the sphere such that all meridians have true length and uniform scale. The sphere may then be projected to the plane with an equirectangular projection to give a double projection from the ellipsoid to the plane such that all meridians have true length and uniform meridian scale. An example of the use of the rectifying latitude is the Equidistant conic projection. (Snyder, Section 16).[10] The rectifying latitude is also of great importance in the construction of the Transverse Mercator projection."
+			],
+			"after": [
+				"where",
+				"and"
+			],
+			"color": "dim|0.36116 gray|0.36116 dim|0.36116 grey|0.36116 gray|0.26669 grey|0.26669 dark|0.15522 gray|0.15522 dark|0.15522 grey|0.15522 black|0.08146 silver|0.066842 light|0.031625 gray|0.031625 light|0.031625 grey|0.031625 gainsboro|0.022029 white|0.0033963 smoke|0.0033963  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a3c5d52ad974ca0f01b52e87c3f97154f1b441fb4d79afac2aaa5e997d13fb1",
+			"url": "https://upload.wikimedia.org/math/e/6/8/e68d148926aa65efc4aac092c4c9d88f.png",
+			"previous": [],
+			"after": [
+				"In quantum physics, quantum state refers to the state of a quantum system.",
+				"A quantum state can be either pure or mixed. A pure quantum state is represented by a vector, called a state vector, in a Hilbert space. For example, when dealing with the energy spectrum of the electron in a hydrogen atom, the relevant state vectors are identified by the principal quantum number, written . For a more complicated case, consider Bohm's formulation of the EPR experiment, where the state vector"
+			],
+			"color": "dim|0.25734 gray|0.25734 dim|0.25734 grey|0.25734 gray|0.24864 grey|0.24864 black|0.21063 dark|0.19652 gray|0.19652 dark|0.19652 grey|0.19652 silver|0.068667 light|0.013386 gray|0.013386 light|0.013386 grey|0.013386 gainsboro|0.0048235  "
+		}
+	}
+}

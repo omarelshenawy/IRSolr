@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a12da7b2c7caac2ead20234c1dd9fece130921cb895d54c2ad2f06f2da5f2b5",
+			"url": "https://upload.wikimedia.org/math/6/2/c/62cce98006a05855822309b835babafb.png",
+			"previous": [
+				"Likewise, there are several important theorems related to these operators which generalize the fundamental theorem of calculus to higher dimensions:",
+				"where the curl and divergence differ because the former uses a cross product and the latter a dot product, denotes a scalar field and denotes a vector field. A quantity called the Jacobian is useful for studying functions when both the domain and range of the function are multivariable, such as a change of variables during integration."
+			],
+			"after": [],
+			"color": "dim|0.34803 gray|0.34803 dim|0.34803 grey|0.34803 gray|0.27715 grey|0.27715 dark|0.19375 gray|0.19375 dark|0.19375 grey|0.19375 silver|0.0869 light|0.041507 gray|0.041507 light|0.041507 grey|0.041507 gainsboro|0.027162 black|0.011016 white|0.0037724 smoke|0.0037724  "
+		}
+	}
+}

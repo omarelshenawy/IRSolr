@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e9bcc79ee9e73f63fda96710095a76c74c1b88df0939fa821fa4f913c3e8f49",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wing_isobars.jpg/300px-Wing_isobars.jpg",
+				"previous": "When a ground plane is present, there is a pattern of higher-than-ambient pressure on the ground below an airplane in flight, as shown on the right[103] For steady, level flight, the integrated pressure force associated with this pattern is equal to the total aerodynamic lift of the airplane and to the airplane's weight. According to Newton's third law, this pressure force exerted on the ground by the air is matched by an equal-and-opposite upward force exerted on the air by the ground, which offsets all of the downward force exerted on the air by the airplane. The net force due to the lift, acting on the atmosphere as a whole, is therefore zero, and there is thus no integrated accumulation of vertical momentum in the atmosphere.[104]",
+				"after": "For wings of moderate-to-high aspect ratio, the flow at any station along the span except close to the tips behaves much like flow around a two-dimensional airfoil, and most explanations of lift, like those above, concentrate on two-dimensional flow. However, even for wings of high aspect ratio, the three-dimensional effects associated with finite span are significant across the whole span, not just close to the tips.",
+			"color": " "
+		}
+	}
+}

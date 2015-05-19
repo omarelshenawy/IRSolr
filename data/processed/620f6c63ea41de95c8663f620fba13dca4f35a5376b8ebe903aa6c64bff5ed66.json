@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "620f6c63ea41de95c8663f620fba13dca4f35a5376b8ebe903aa6c64bff5ed66",
+			"url": "https://upload.wikimedia.org/math/8/2/4/8242ce2380057eff4667c387ea35fae1.png",
+				"previous": "The symmetric group S4 on four elements has the Klein four-group as a normal subgroup. This suggests using a resolvent cubic whose roots may be variously described as a discrete Fourier transform or a Hadamard matrix transform of the roots; see Lagrange resolvents for the general method. Denote by xi, for i from 0 to 3, the four roots of",
+				"after": "If we set",
+			"color": "black|0.36726 dim|0.2521 gray|0.2521 dim|0.2521 grey|0.2521 gray|0.16791 grey|0.16791 dark|0.11092 gray|0.11092 dark|0.11092 grey|0.11092 silver|0.050173 light|0.024906 gray|0.024906 light|0.024906 grey|0.024906 gainsboro|0.017096  "
+		}
+	}
+}

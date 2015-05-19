@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4500cf8e8500c28f2e4ebafed968c56d1f02a5374e61558e7e11f6ceca9c78d8",
+			"url": "https://upload.wikimedia.org/math/8/e/a/8ea771387220823627b44e73ea14b99e.png",
+				"previous": "Any such row vector is called a left eigenvector of .",
+				"after": "It follows that, if is Hermitian, its left and right eigenvectors are complex conjugates. In particular if is a real symmetric matrix, they are the same except for transposition.",
+			"color": "dim|0.4498 gray|0.4498 dim|0.4498 grey|0.4498 gray|0.24898 grey|0.24898 dark|0.15389 gray|0.15389 dark|0.15389 grey|0.15389 silver|0.070078 light|0.035071 gray|0.035071 light|0.035071 grey|0.035071 gainsboro|0.025441 white|0.0036468 smoke|0.0036468  "
+		}
+	}
+}

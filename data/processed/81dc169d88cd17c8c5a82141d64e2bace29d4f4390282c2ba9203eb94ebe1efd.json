@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "81dc169d88cd17c8c5a82141d64e2bace29d4f4390282c2ba9203eb94ebe1efd",
+			"url": "https://upload.wikimedia.org/math/5/4/e/54e11d9315875b122a08fa1fb16162ce.png",
+				"previous": "Unit pseudoscalars are blades that play important roles in GA. A unit pseudoscalar for a non-degenerate subspace W of V is a blade that is the product of the members of an orthonormal basis for W. It can be shown that if I and Iâ² are both unit pseudoscalars for W, then I = Â±Iâ² and I2 = Â±1.",
+				"after": "By the properties of the geometric product, Iâ2 = b1b2b1b2 = âb1b2b2b1 = â1. The resemblance to the imaginary unit is not accidental: the subspace is R-algebra isomorphic to the complex numbers. In this way, a copy of the complex numbers is embedded in the geometric algebra for each 2-dimensional subspace of V on which the quadratic form is definite.",
+			"color": "gray|0.29991 grey|0.29991 dark|0.24914 gray|0.24914 dark|0.24914 grey|0.24914 dim|0.18933 gray|0.18933 dim|0.18933 grey|0.18933 silver|0.11662 light|0.06144 gray|0.06144 light|0.06144 grey|0.06144 gainsboro|0.042735 white|0.0088713 smoke|0.0088713 lavender|0.0045142 blush|0.0045142 alice|0.004355 blue|0.004355 linen|0.004299 ghost|0.0041584 white|0.0041584 sea|0.0039394 shell|0.0039394 snow|0.0037625 white|0.0028779  "
+		}
+	}
+}

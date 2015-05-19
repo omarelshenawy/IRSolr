@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "2337977a4cefcc47e5e81471e780a2d2094517ed491ad2fdaddac78460f01325",
+			"url": "https://upload.wikimedia.org/math/b/4/7/b47576ad049849a296a27e80d56d6c25.png",
+				"previous": "Having formulated the relativistic, geometric version of the effects of gravity, the question of gravity's source remains. In Newtonian gravity, the source is mass. In special relativity, mass turns out to be part of a more general quantity called the energyâmomentum tensor, which includes both energy and momentum densities as well as stress (that is, pressure and shear).[29] Using the equivalence principle, this tensor is readily generalized to curved space-time. Drawing further upon the analogy with geometric Newtonian gravity, it is natural to assume that the field equation for gravity relates this tensor and the Ricci tensor, which describes a particular class of tidal effects: the change in volume for a small cloud of test particles that are initially at rest, and then fall freely. In special relativity, conservation of energyâmomentum corresponds to the statement that the energyâmomentum tensor is divergence-free. This formula, too, is readily generalized to curved spacetime by replacing partial derivatives with their curved-manifold counterparts, covariant derivatives studied in differential geometry. With this additional conditionâthe covariant divergence of the energyâmomentum tensor, and hence of whatever is on the other side of the equation, is zeroâ the simplest set of equations are what are called Einstein's (field) equations:",
+				"after": "is the curvature scalar. The Ricci tensor itself is related to the more general Riemann curvature tensor as",
+			"color": "dark|0.33203 gray|0.33203 dark|0.33203 grey|0.33203 gray|0.27484 grey|0.27484 silver|0.1647 light|0.087192 gray|0.087192 light|0.087192 grey|0.087192 gainsboro|0.060888 dim|0.05158 gray|0.05158 dim|0.05158 grey|0.05158 white|0.0093399 smoke|0.0093399 linen|0.0043913 lavender|0.0032493 blush|0.0032493 alice|0.0029828 blue|0.0029828 ghost|0.0027291 white|0.0027291 sea|0.0024844 shell|0.0024844  "
+		}
+	}
+}

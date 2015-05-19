@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f10d9edddfbefc5c80907bfa8447e2a4b1f46b9a8f2013faafea5970a412f5a",
+			"url": "https://upload.wikimedia.org/math/5/d/5/5d5847e4483c97c3f4c767ed15ab1c27.png",
+				"previous": "An alternative notation uses large parentheses instead of box brackets:",
+				"after": "The specifics of symbolic matrix notation varies widely, with some prevailing trends. Matrices are usually symbolized using upper-case letters (such as A in the examples above), while the corresponding lower-case letters, with two subscript indices (e.g., a11, or a1,1), represent the entries. In addition to using upper-case letters to symbolize matrices, many authors use a special typographical style, commonly boldface upright (non-italic), to further distinguish matrices from other mathematical objects. An alternative notation involves the use of a double-underline with the variable name, with or without boldface style, (e.g., ).",
+			"color": "black|0.32123 dim|0.20957 gray|0.20957 dim|0.20957 grey|0.20957 gray|0.20858 grey|0.20858 dark|0.17681 gray|0.17681 dark|0.17681 grey|0.17681 silver|0.06773 light|0.011173 gray|0.011173 light|0.011173 grey|0.011173 gainsboro|0.0045545  "
+		}
+	}
+}

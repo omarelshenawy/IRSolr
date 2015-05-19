@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "5470f4722a2c2995f1ee964a20324570be3ddcaa54cb651e4379e83263a886aa",
+			"url": "https://upload.wikimedia.org/math/d/0/5/d05c0e36be27e2f57385d02a49de2741.png",
+				"previous": "In the 12th century, the Indian mathematician Bhaskara II attempted the solution of cubic equations without general success. However, he gave one example of a cubic equation:[17]",
+				"after": "In the 12th century, another Persian mathematician, Sharaf al-DÄ«n al-TÅ«sÄ« (1135â1213), wrote the Al-Mu'adalat (Treatise on Equations), which dealt with eight types of cubic equations with positive solutions and five types of cubic equations which may not have positive solutions. He used what would later be known as the \"Ruffini-Horner method\" to numerically approximate the root of a cubic equation. He also developed the concepts of a derivative function and the maxima and minima of curves in order to solve cubic equations which may not have positive solutions.[18] He understood the importance of the discriminant of the cubic equation to find algebraic solutions to certain types of cubic equations.[19]",
+			"color": "dim|0.39417 gray|0.39417 dim|0.39417 grey|0.39417 gray|0.28604 grey|0.28604 dark|0.17358 gray|0.17358 dark|0.17358 grey|0.17358 silver|0.071235 light|0.035622 gray|0.035622 light|0.035622 grey|0.035622 gainsboro|0.025202 white|0.0042786 smoke|0.0042786  "
+		}
+	}
+}

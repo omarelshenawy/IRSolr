@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "41e4a6369fb42878405570ebc3bf5a95e6732a78e98bef7ddda35f801c6640fb",
+			"url": "https://upload.wikimedia.org/math/d/0/b/d0b0b53f438d4c1952657be915cc1de4.png",
+			"previous": [
+				"The above can also be expressed in terms of trigonometric functions:",
+				"The principal square root function is thus defined using the nonpositive real axis as a branch cut. The principal square root function is holomorphic everywhere except on the set of non-positive real numbers (on strictly negative reals it isn't even continuous). The above Taylor series for â1 + x remains valid for complex numbers x with |x| < 1."
+			],
+				"after": "When the number is expressed using Cartesian coordinates the following formula can be used for the principal square root:[16][17]",
+			"color": "dim|0.41396 gray|0.41396 dim|0.41396 grey|0.41396 gray|0.27054 grey|0.27054 dark|0.1607 gray|0.1607 dark|0.1607 grey|0.1607 silver|0.068779 light|0.035158 gray|0.035158 light|0.035158 grey|0.035158 gainsboro|0.024445 white|0.0048774 smoke|0.0048774  "
+		}
+	}
+}

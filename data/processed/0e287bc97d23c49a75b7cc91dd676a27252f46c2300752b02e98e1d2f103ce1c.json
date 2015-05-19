@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e287bc97d23c49a75b7cc91dd676a27252f46c2300752b02e98e1d2f103ce1c",
+			"url": "https://upload.wikimedia.org/math/f/2/b/f2b0fd1acf189ce110a1f41aa2d697fa.png",
+			"previous": [
+				"The second derivative of the BÃ©zier curve with respect to t is",
+				"from which it can be concluded that the tangents to the curve at P0 and P2 intersect at P1. As t increases from 0 to 1, the curve departs from P0 in the direction of P1, then bends to arrive at P2 from the direction of P1."
+			],
+				"after": "BÃ©zier curves can be defined for any degree n.",
+			"color": "dim|0.37795 gray|0.37795 dim|0.37795 grey|0.37795 gray|0.2721 grey|0.2721 dark|0.17242 gray|0.17242 dark|0.17242 grey|0.17242 silver|0.085186 light|0.045411 gray|0.045411 light|0.045411 grey|0.045411 gainsboro|0.03273 white|0.0036921 smoke|0.0036921  "
+		}
+	}
+}

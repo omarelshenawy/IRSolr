@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "16621f8f32356b9bbc0c45677ecea17dbaafd69623881b265eaf319d58703557",
+			"url": "https://upload.wikimedia.org/math/3/5/3/353a81d04057aa03ef9644200abc1501.png",
+				"previous": "A bounded lattice is an algebraic structure of the form (L,Â ,Â 1,Â 0) such that (L,Â ) is a lattice, 0 (the lattice's bottom) is the identity element for the join operation , and 1 (the lattice's top) is the identity element for the meet operation .",
+				"after": "See semilattice for further details.",
+			"color": "black|0.36112 dim|0.26452 gray|0.26452 dim|0.26452 grey|0.26452 gray|0.18028 grey|0.18028 dark|0.11091 gray|0.11091 dark|0.11091 grey|0.11091 silver|0.044117 light|0.01971 gray|0.01971 light|0.01971 grey|0.01971 gainsboro|0.012513  "
+		}
+	}
+}

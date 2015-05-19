@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "855b61f6e79f51114b3b65137b1b9f4a2efc67aad3a0a5b0cc2530bb05e962a7",
+			"url": "https://upload.wikimedia.org/math/4/7/4/47477b8fca1f7b33d1f68a9453be36e4.png",
+				"previous": "The steam turbine operates on basic principles of thermodynamics using the part 3-4 of the Rankine cycle shown in the adjoining diagram. Superheated vapor (or dry saturated vapor, depending on application) enters the turbine, after it having exited the boiler, at high temperature and high pressure. The high heat/pressure steam is converted into kinetic energy using a nozzle (a fixed nozzle in an impulse type turbine or the fixed blades in a reaction type turbine). Once the steam has exited the nozzle it is moving at high velocity and is sent to the blades of the turbine. A force is created on the blades due to the pressure of the vapor on the blades causing them to move. A generator or other such device can be placed on the shaft, and the energy that was in the vapor can now be stored and used. The gas exits the turbine as a saturated vapor (or liquid-vapor mix depending on application) at a lower temperature and pressure than it entered with and is sent to the condenser to be cooled.[21] If we look at the first law we can find an equation comparing the rate at which work is developed per unit mass. Assuming there is no heat transfer to the surrounding environment and that the change in kinetic and potential energy is negligible when compared to the change in specific enthalpy we come up with the following equation",
+				"after": "where",
+			"color": "dim|0.28824 gray|0.28824 dim|0.28824 grey|0.28824 black|0.22181 gray|0.21955 grey|0.21955 dark|0.14038 gray|0.14038 dark|0.14038 grey|0.14038 silver|0.062517 light|0.030564 gray|0.030564 light|0.030564 grey|0.030564 gainsboro|0.021507 white|0.0036727 smoke|0.0036727  "
+		}
+	}
+}

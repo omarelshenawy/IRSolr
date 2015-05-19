@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b9746678e3e9d8d55a62f049294cf504190509451638a882f17931c47abbba5",
+			"url": "https://upload.wikimedia.org/math/8/d/e/8ded7ea696760aba6d32430587cafc81.png",
+				"previous": "The discussion thus far has assumed that extremal functions possess two continuous derivatives, although the existence of the integral A requires only first derivatives of trial functions. The condition that the first variation vanish at an extremal may be regarded as a weak form of the EulerâLagrange equation. The theorem of Du Bois-Reymond asserts that this weak form implies the strong form. If L has continuous first and second derivatives with respect to all of its arguments, and if",
+				"after": "then has two continuous derivatives, and it satisfies the EulerâLagrange equation.",
+			"color": "black|0.28108 dim|0.27987 gray|0.27987 dim|0.27987 grey|0.27987 gray|0.24222 grey|0.24222 dark|0.14109 gray|0.14109 dark|0.14109 grey|0.14109 silver|0.049458 light|0.004844 gray|0.004844 light|0.004844 grey|0.004844  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f63d58d22d8b50b7c550517ef5ed67255d575c84bcfe0b9d1ef381f8e5e7599",
+			"url": "https://upload.wikimedia.org/math/8/6/8/8680f722a3c5c4c68aed0843febe262d.png",
+				"previous": "In mathematics, an eigenvector of a transformation is a vector, different from the zero vector, which that transformation simply multiplies by a constant factor, called the eigenvalue of that vector. Often, a transformation is completely described by its eigenvalues and eigenvectors. The eigenspace for a factor is the set of eigenvectors with that factor as eigenvalue, together with the zero vector.",
+				"after": "The scalar multiple is denoted by the Greek letter Î» and is called an eigenvalue of the matrix A, while x is called the eigenvector of A corresponding to Î». These concepts play a major role in several branches of both pure and applied mathematics â appearing prominently in linear algebra, functional analysis, and to a lesser extent in nonlinear situations.",
+			"color": " "
+		}
+	}
+}

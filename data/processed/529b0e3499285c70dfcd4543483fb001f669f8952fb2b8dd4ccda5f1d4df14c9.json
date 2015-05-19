@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "529b0e3499285c70dfcd4543483fb001f669f8952fb2b8dd4ccda5f1d4df14c9",
+			"url": "https://upload.wikimedia.org/math/8/a/7/8a7b80b1efc481033db5dca5874c44e9.png",
+				"previous": "One of the first properties of Z that can fail in the ring of integers O of an algebraic number field K is that of the unique factorization of integers into prime numbers. The prime numbers in Z are generalized to irreducible elements in O, and though the unique factorization of elements of O into irreducible elements may hold in some cases (such as for the Gaussian integers Z[i]), it may also fail, as in the case of Z[â-5] where",
+				"after": "The ideal class group of O is a measure of how much unique factorization of elements fails; in particular, the ideal class group is trivial if, and only if, O is a unique factorization domain.",
+			"color": "dim|0.38363 gray|0.38363 dim|0.38363 grey|0.38363 gray|0.27832 grey|0.27832 dark|0.17248 gray|0.17248 dark|0.17248 grey|0.17248 silver|0.082268 light|0.04006 gray|0.04006 light|0.04006 grey|0.04006 gainsboro|0.028704 white|0.003807 smoke|0.003807  "
+		}
+	}
+}

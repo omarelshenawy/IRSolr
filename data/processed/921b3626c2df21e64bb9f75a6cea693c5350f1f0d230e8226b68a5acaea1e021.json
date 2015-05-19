@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "921b3626c2df21e64bb9f75a6cea693c5350f1f0d230e8226b68a5acaea1e021",
+			"url": "https://upload.wikimedia.org/math/1/0/f/10f5ad54ed59e59717f8ae7b98ef36eb.png",
+				"previous": "A measure Î¼ is continuous from above: If E1, E2, E3, ..., are measurable sets and for all n, En + 1 â En, then the intersection of the sets En is measurable; furthermore, if at least one of the En has finite measure, then",
+				"after": "This property is false without the assumption that at least one of the En has finite measure. For instance, for each n â N, let En = [n, â) â R, which all have infinite Lebesgue measure, but the intersection is empty.",
+			"color": "dim|0.30807 gray|0.30807 dim|0.30807 grey|0.30807 gray|0.3027 grey|0.3027 dark|0.19792 gray|0.19792 dark|0.19792 grey|0.19792 silver|0.088495 light|0.046179 gray|0.046179 light|0.046179 grey|0.046179 gainsboro|0.032526 white|0.0052146 smoke|0.0052146 linen|0.0030013  "
+		}
+	}
+}

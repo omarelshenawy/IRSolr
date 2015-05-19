@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "504ca586958cc325f269cdea3714374d59e87a94f6e2077663bbfd1961a88d93",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MacBook_Pro_situated_on_a_wooden_table.jpg/220px-MacBook_Pro_situated_on_a_wooden_table.jpg",
+			"previous": [],
+				"after": "Apple discontinued the use of PowerPC microprocessors in 2006. At WWDC 2005, Steve Jobs announced this transition, revealing that Mac OS X was always developed to run on both the Intel and PowerPC architectures.[109] All new Macs now use x86 processors made by Intel, and some were renamed as a result.[110] Intel-based Macs running OS X 10.6 and below (support has been discontinued since 10.7) can run pre-existing software developed for PowerPC using an emulator called Rosetta,[111] although at noticeably slower speeds than native programs. However, the Classic environment is unavailable on the Intel architecture. Intel chips introduced the potential to run the Microsoft Windows operating system natively on Apple hardware, without emulation software such as Virtual PC. In March 2006, a group of hackers announced that they were able to run Windows XP on an Intel-based Mac. The group released their software as open source and has posted it for download on their website.[112] On April 5, 2006, Apple announced the availability of the public beta of Boot Camp, software that allows owners of Intel-based Macs to install Windows XP on their machines; later versions added support for Windows Vista and Windows 7. Classic was discontinued in Mac OS X 10.5, and Boot Camp became a standard feature on Intel-based Macs.[113][114]",
+			"color": "silver|0.29024 light|0.1871 gray|0.1871 light|0.1871 grey|0.1871 dark|0.14884 gray|0.14884 dark|0.14884 grey|0.14884 gainsboro|0.094982 black|0.080086 gray|0.044065 grey|0.044065 dim|0.038812 gray|0.038812 dim|0.038812 grey|0.038812 rosy|0.014651 brown|0.014651 linen|0.013952 thistle|0.011265 antique|0.0093649 white|0.0093649 sea|0.008345 shell|0.008345 white|0.0076349 smoke|0.0076349 old|0.0072695 lace|0.0072695 floral|0.0060851 white|0.0060851 misty|0.0049057 rose|0.0049057 snow|0.0048801  "
+		}
+	}
+}

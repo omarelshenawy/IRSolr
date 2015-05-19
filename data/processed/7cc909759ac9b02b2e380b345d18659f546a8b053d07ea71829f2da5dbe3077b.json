@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7cc909759ac9b02b2e380b345d18659f546a8b053d07ea71829f2da5dbe3077b",
+			"url": "https://upload.wikimedia.org/math/9/5/f/95f1e4fb11560f856a9ea8da45ca90ee.png",
+				"previous": "The difficulty with this reasoning is the assumption that the minimizing function u must have two derivatives. Riemann argued that the existence of a smooth minimizing function was assured by the connection with the physical problem: membranes do indeed assume configurations with minimal potential energy. Riemann named this idea the Dirichlet principle in honor of his teacher Peter Gustav Lejeune Dirichlet. However Weierstrass gave an example of a variational problem with no solution: minimize",
+				"after": "A more general expression for the potential energy of a membrane is",
+			"color": "dim|0.42133 gray|0.42133 dim|0.42133 grey|0.42133 gray|0.28376 grey|0.28376 dark|0.16012 gray|0.16012 dark|0.16012 grey|0.16012 silver|0.064746 light|0.031308 gray|0.031308 light|0.031308 grey|0.031308 gainsboro|0.022119 white|0.0042648 smoke|0.0042648  "
+		}
+	}
+}

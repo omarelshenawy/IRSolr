@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e126c74bd42afbeaffeac7af49acf0719d1568eecf71e85471e9783e3d8231e",
+			"url": "https://upload.wikimedia.org/math/8/5/5/855546a4f7dd0df734af5385bb6f4cb4.png",
+			"previous": [
+				"For example, for nÂ =Â 5:",
+				"where are the binomial coefficients.",
+				"The formula can be expressed explicitly as follows:",
+				"This recursion is elucidated in the animations below."
+			],
+			"after": [
+				"Some terminology is associated with these parametric curves. We have",
+				"where the polynomials",
+				"are known as Bernstein basis polynomials of degree n."
+			],
+			"color": "dim|0.34976 gray|0.34976 dim|0.34976 grey|0.34976 gray|0.29825 grey|0.29825 dark|0.17857 gray|0.17857 dark|0.17857 grey|0.17857 silver|0.086334 light|0.040934 gray|0.040934 light|0.040934 grey|0.040934 gainsboro|0.030092 white|0.004517 smoke|0.004517  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "478b57cdf0aa2cf5c5a6846cb041a529ebdac9171d4693e3851d9a1278f24ac1",
+			"url": "https://upload.wikimedia.org/math/d/5/a/d5aef85b6b1cb8b0b18ea2c5420e4cd0.png",
+				"previous": "where L[x, y, y â²] â L[x, f, f â²] when Îµ = 0 and we have used integration by parts. The last term vanishes because Î· = 0 at x1 and x2 by definition. Also, as previously mentioned the left side of the equation is zero so that",
+				"after": "According to the fundamental lemma of calculus of variations, the part of the integrand in parentheses is zero, i.e.",
+			"color": "gray|0.29508 grey|0.29508 dim|0.27494 gray|0.27494 dim|0.27494 grey|0.27494 dark|0.22535 gray|0.22535 dark|0.22535 grey|0.22535 silver|0.1012 light|0.048285 gray|0.048285 light|0.048285 grey|0.048285 gainsboro|0.033742 white|0.005446 smoke|0.005446 linen|0.0027638  "
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "344a2ee18b4221da56d088ed88e1399adcb303f02e87d2d6203d369478adf958",
+			"url": "https://upload.wikimedia.org/math/6/c/7/6c7e7083c339eb66df8be3f3118decb6.png",
+			"previous": [
+				"Similarly, Bessel's series for in terms of can be reverted to give[22]",
+				"where",
+				"Delambre in 1799[9] derived a widely used expansion on the eccentricity squared,"
+			],
+			"after": [
+				"where",
+				"Rapp[10] gives a detailed derivation of this result.",
+				"Series with considerably faster convergence can be obtained by expanding in terms of the third flattening, instead of the eccentricity. They are related by"
+			],
+			"color": "dim|0.43271 gray|0.43271 dim|0.43271 grey|0.43271 gray|0.2728 grey|0.2728 dark|0.16248 gray|0.16248 dark|0.16248 grey|0.16248 silver|0.068342 light|0.02974 gray|0.02974 light|0.02974 grey|0.02974 gainsboro|0.020031 white|0.0033589 smoke|0.0033589  "
+		}
+	}
+}

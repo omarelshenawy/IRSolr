@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4406b7a19b6e0e1cdd9edb29dbbfac91f5112373868a643a2e526f1795f76ee4",
+			"url": "https://upload.wikimedia.org/math/d/c/6/dc617f5dbae9098841a8e86e366258a6.png",
+			"previous": [],
+				"after": "The eigenspaces of T always form a direct sum (and as a consequence any family of eigenvectors for different eigenvalues is always linearly independent). Therefore the sum of the dimensions of the eigenspaces cannot exceed the dimension n of the space on which T operates, and in particular there cannot be more than n distinct eigenvalues.[25]",
+			"color": "dim|0.37858 gray|0.37858 dim|0.37858 grey|0.37858 gray|0.29394 grey|0.29394 dark|0.17895 gray|0.17895 dark|0.17895 grey|0.17895 silver|0.072983 light|0.034286 gray|0.034286 light|0.034286 grey|0.034286 gainsboro|0.023589 white|0.0041809 smoke|0.0041809  "
+		}
+	}
+}

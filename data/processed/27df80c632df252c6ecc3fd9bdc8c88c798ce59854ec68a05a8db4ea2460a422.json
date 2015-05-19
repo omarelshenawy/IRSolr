@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "27df80c632df252c6ecc3fd9bdc8c88c798ce59854ec68a05a8db4ea2460a422",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coupled_Harmonic_Oscillator.svg/300px-Coupled_Harmonic_Oscillator.svg.png",
+				"previous": "Consider two equal bodies (not affected by gravity), each of mass m, attached to three springs, each with spring constant k. They are attached in the following manner:",
+				"after": "where the edge points are fixed and cannot move. We'll use x1(t) to denote the horizontal displacement of the left mass, and x2(t) to denote the displacement of the right mass.",
+			"color": "dark|0.16077 gray|0.16077 dark|0.16077 grey|0.16077 gray|0.14525 grey|0.14525 black|0.14435 dim|0.13865 gray|0.13865 dim|0.13865 grey|0.13865 silver|0.10499 light|0.084454 gray|0.084454 light|0.084454 grey|0.084454 gainsboro|0.07183 white|0.026183 smoke|0.026183 lavender|0.015685 blush|0.015685 alice|0.015532 blue|0.015532 ghost|0.015142 white|0.015142 sea|0.014744 shell|0.014744 snow|0.014445 white|0.012436 linen|0.012097 mint|0.010153 cream|0.010153 floral|0.0072043 white|0.0072043 azure|0.0059764  "
+		}
+	}
+}

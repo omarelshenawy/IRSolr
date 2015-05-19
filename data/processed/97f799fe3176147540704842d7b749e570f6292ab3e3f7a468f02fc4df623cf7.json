@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "97f799fe3176147540704842d7b749e570f6292ab3e3f7a468f02fc4df623cf7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mona_Lisa_eigenvector_grid.png/320px-Mona_Lisa_eigenvector_grid.png",
+			"previous": [],
+				"after": "In linear algebra, an eigenvector or characteristic vector of a square matrix is a vector that points in a direction which is invariant under the associated linear transformation. In other words, if v is a vector which is not zero, then it is an eigenvector of a square matrix A if Av is a scalar multiple of v. This condition could be written as the equation",
+			"color": "black|0.79965 dark|0.066285 slate|0.066285 gray|0.066285 pale|0.025094 golden|0.025094 rod|0.025094 peru|0.015299 burly|0.013478 wood|0.013478 dim|0.0076627 gray|0.0076627 dim|0.0076627 grey|0.0076627 tan|0.0068777  "
+		}
+	}
+}

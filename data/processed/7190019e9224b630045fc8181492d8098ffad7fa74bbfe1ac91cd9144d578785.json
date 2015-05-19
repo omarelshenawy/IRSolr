@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7190019e9224b630045fc8181492d8098ffad7fa74bbfe1ac91cd9144d578785",
+			"url": "https://upload.wikimedia.org/math/a/3/1/a31729334c35a30d17ddca0cceade7e5.png",
+			"previous": [
+				"The peak value of the Lorentzian line shape occurs at the line center, . A line shape function can be normalized so that its value at is unity; in the case of a Lorentzian we obtain:",
+				"where is the full width at half maximum or FWHM bandwidth."
+			],
+				"after": "The stimulated emission cross section (in square meters) is",
+			"color": " "
+		}
+	}
+}

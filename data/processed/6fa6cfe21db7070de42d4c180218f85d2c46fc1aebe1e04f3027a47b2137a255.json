@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6fa6cfe21db7070de42d4c180218f85d2c46fc1aebe1e04f3027a47b2137a255",
+			"url": "https://upload.wikimedia.org/math/a/6/e/a6e6b07e7ce12709ab98c2ba47cca5af.png",
+			"previous": [
+				"or, from Euler's formula,",
+				"The general solutions of the SchrÃ¶dinger equation for the particle in a box are"
+			],
+			"after": [
+				"The infinite potential walls of the box determine the values of C, D, and k at x = 0 and x = L where Ï must be zero. Thus, at x = 0,",
+				"and D = 0. At x = L,"
+			],
+			"color": "dim|0.35072 gray|0.35072 dim|0.35072 grey|0.35072 gray|0.29093 grey|0.29093 dark|0.17915 gray|0.17915 dark|0.17915 grey|0.17915 silver|0.07985 light|0.041665 gray|0.041665 light|0.041665 grey|0.041665 gainsboro|0.029958 white|0.0063408 smoke|0.0063408 linen|0.0030902 lavender|0.0029964 blush|0.0029964 alice|0.0029014 blue|0.0029014 ghost|0.0027856 white|0.0027856  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b5d5d1a45b71324063af4b1f7c49425aae19505f36a7c291703f19916977d3d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FAA-8083-3A_Fig_12-1.PNG/220px-FAA-8083-3A_Fig_12-1.PNG",
+				"previous": "A redline mark indicates VNE, or velocity (never exceed). This is the maximum demonstrated safe airspeed that the aircraft must not exceed under any circumstances. The red line is preceded by a yellow band which is the caution area, which runs from VNO (maximum structural cruise speed) to VNE. A green band runs from VS1 to VNO. VS1 is the stall speed with flaps and landing gear retracted. A white band runs from VSO to VFE. VSO is the stall speed with flaps extended, and VFE is the highest speed at which flaps can be extended. Airspeed indicators in multi-engine aircraft show a short radial red line near to the bottom of green arc for Vmc, the minimum indicated airspeed at which the aircraft can be controlled with the critical engine inoperative and a blue line for VYSE, the speed for best rate of climb with the critical engine inoperative.",
+			"after": [],
+			"color": "dim|0.26453 gray|0.26453 dim|0.26453 grey|0.26453 black|0.17144 dark|0.12801 slate|0.12801 gray|0.12801 gray|0.099045 grey|0.099045 dark|0.068476 gray|0.068476 dark|0.068476 grey|0.068476 silver|0.039952 light|0.026844 gray|0.026844 light|0.026844 grey|0.026844 gainsboro|0.022375 powder|0.013945 blue|0.013945 white|0.01135 smoke|0.01135 light|0.010343 cyan|0.010343 slate|0.0096919 gray|0.0096919 sea|0.0093074 shell|0.0093074 snow|0.0086707 linen|0.0084353 floral|0.0081448 white|0.0081448 mint|0.0079392 cream|0.0079392 ghost|0.0076054 white|0.0076054 white|0.00746 light|0.007368 slate|0.007368 gray|0.007368 alice|0.0070036 blue|0.0070036 lavender|0.0068843 blush|0.0068843 azure|0.0067872  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "422ebfcddea8a74c66b97de0a970a38a36969d7538a6b678226b70b9ffd3f4d3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Global_illumination.JPG/300px-Global_illumination.JPG",
+			"previous": [],
+				"after": "Global illumination is a general name for a group of algorithms used in 3D computer graphics that are meant to add more realistic lighting to 3D scenes. Such algorithms take into account not only the light which comes directly from a light source (direct illumination), but also subsequent cases in which light rays from the same source are reflected by other surfaces in the scene (indirect illumination).",
+			"color": "brown|0.21369 maroon|0.17584 firebrick|0.17002 gray|0.10738 grey|0.10738 dark|0.071593 gray|0.071593 dark|0.071593 grey|0.071593 rosy|0.062959 brown|0.062959 dark|0.041128 red|0.041128 dim|0.037324 gray|0.037324 dim|0.037324 grey|0.037324 dark|0.030967 slate|0.030967 gray|0.030967 black|0.024079 dark|0.017893 green|0.017893  "
+		}
+	}
+}

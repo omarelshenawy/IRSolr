@@ -1,0 +1,22 @@
+{
+	"add": {
+		"doc": {
+			"id": "75335138829238b527d262327edd0ebbbf02401591ea905714852ba1f1e36693",
+			"url": "https://upload.wikimedia.org/math/5/b/3/5b3877c766f6b86b6f289d2f0bdc047e.png",
+			"previous": [
+				"1.",
+				"The total energy of the aircraft is:",
+				"Most modern sailplanes are equipped with Total Energy compensated variometers.",
+				"Compensated variometers also include information about the speed of the aircraft, so the total energy (potential and kinetic) is used, not just the change in altitude. For example, if a pilot pushes forward on the stick, speeding up as the plane dives, an uncompensated variometer only indicates that altitude is being lost. But the pilot could pull back on the stick, trading the extra speed for altitude again. A compensated variometer uses both speed and altitude to indicate the change in total energy. So the pilot that pushes the stick forward, diving to gain speed, and then pulls back again to regain altitude will notice no change in total energy on a compensated variometer (neglecting energy loss due to drag)."
+			],
+			"after": [
+				"2.",
+				"Since",
+				"3. Potential Energy is proportional to Height",
+				"",
+				"were m is the glider mass and g the acceleration of gravity"
+			],
+			"color": "gray|0.32235 grey|0.32235 dim|0.24492 gray|0.24492 dim|0.24492 grey|0.24492 dark|0.23867 gray|0.23867 dark|0.23867 grey|0.23867 silver|0.099567 light|0.04648 gray|0.04648 light|0.04648 grey|0.04648 gainsboro|0.031129 white|0.004742 smoke|0.004742 linen|0.0025702  "
+		}
+	}
+}

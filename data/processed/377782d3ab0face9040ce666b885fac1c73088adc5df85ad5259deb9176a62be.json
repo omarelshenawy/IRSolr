@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "377782d3ab0face9040ce666b885fac1c73088adc5df85ad5259deb9176a62be",
+			"url": "https://upload.wikimedia.org/math/b/d/1/bd15c19dd1bf608eb476729f0a967220.png",
+				"previous": "A three-coordinate vector may be seen as an arrow in three-dimensional space starting at the origin. In that case, an eigenvector is an arrow whose direction is either preserved or exactly reversed after multiplication by . The corresponding eigenvalue determines how the length of the arrow is changed by the operation, and whether its direction is reversed or not, determined by whether the eigenvalue is negative or positive.",
+				"after": "The set of all eigenvectors of a matrix (or linear operator), each paired with its corresponding eigenvalue, is called the eigensystem of that matrix.[1] Any nonzero scalar multiple of an eigenvector is also an eigenvector corresponding to the same eigenvalue. An eigenspace or characteristic space of a matrix is the set of all eigenvectors of corresponding to the same eigenvalue, together with the zero vector.[2][3] An eigenbasis for is any basis for the set of all vectors that consists of linearly independent eigenvectors of . Not every matrix has an eigenbasis, but every symmetric matrix does.",
+			"color": "dim|0.38972 gray|0.38972 dim|0.38972 grey|0.38972 gray|0.29691 grey|0.29691 dark|0.17106 gray|0.17106 dark|0.17106 grey|0.17106 silver|0.070112 light|0.034417 gray|0.034417 light|0.034417 grey|0.034417 gainsboro|0.02386 white|0.0040813 smoke|0.0040813  "
+		}
+	}
+}

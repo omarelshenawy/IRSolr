@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "67235ee770e582ca9210c954d8a57b899961e16e6ba461edbe87e20c728cd36a",
+			"url": "https://upload.wikimedia.org/math/f/0/2/f0289af1b7f41de65451a085eaa383e2.png",
+			"previous": [],
+				"after": "Another way to approach the problem is to linearize any nonlinearities (the sine function term in this case) at the various points of interest through Taylor expansions. For example, the linearization at , called the small angle approximation, is",
+			"color": " "
+		}
+	}
+}

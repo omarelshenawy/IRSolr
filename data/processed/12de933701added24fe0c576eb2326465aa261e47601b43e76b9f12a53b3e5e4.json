@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "12de933701added24fe0c576eb2326465aa261e47601b43e76b9f12a53b3e5e4",
+			"url": "https://upload.wikimedia.org/math/9/4/7/9475c0ead5dbba41e5d8743dfec3d90d.png",
+				"previous": "Method: Multiply the week number by 7, then add the weekday. From this sum subtract the correction for the year. The result is the ordinal date, which can be converted into a calendar date using the table in the preceding section. If the ordinal date thus obtained is zero or negative, the date belongs to the previous calendar year; if greater than the number of days in the year, to the following year.",
+				"after": "Example: year 2008, week 39, Saturday (day 6)",
+			"color": "black|0.2963 dim|0.27934 gray|0.27934 dim|0.27934 grey|0.27934 gray|0.19905 grey|0.19905 dark|0.12231 gray|0.12231 dark|0.12231 grey|0.12231 silver|0.050648 light|0.023743 gray|0.023743 light|0.023743 grey|0.023743 gainsboro|0.016087  "
+		}
+	}
+}

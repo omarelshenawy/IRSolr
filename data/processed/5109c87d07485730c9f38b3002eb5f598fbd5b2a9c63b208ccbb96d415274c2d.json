@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "5109c87d07485730c9f38b3002eb5f598fbd5b2a9c63b208ccbb96d415274c2d",
+			"url": "https://upload.wikimedia.org/math/6/6/1/661a7700c75b3aaed871aef7bdff0ec8.png",
+			"previous": [
+				"Thrust power, is the speed multiplied by the drag, is obtained from the lift-to-drag ratio:",
+				"",
+				"The corresponding fuel weight flow rates can be computed now:"
+			],
+			"after": [
+				"The range integral, assuming flight at constant lift to drag ratio, becomes",
+				"",
+				"To obtain an analytic expression for range, it has to be noted that specific range and fuel weight flow rate can be related to the characteristics of the airplane and propulsion system; if these are constant:"
+			],
+			"color": "dim|0.33242 gray|0.33242 dim|0.33242 grey|0.33242 gray|0.30538 grey|0.30538 dark|0.20482 gray|0.20482 dark|0.20482 grey|0.20482 silver|0.079145 light|0.037933 gray|0.037933 light|0.037933 grey|0.037933 gainsboro|0.024907 white|0.0042716 smoke|0.0042716  "
+		}
+	}
+}

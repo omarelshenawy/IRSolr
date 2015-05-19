@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6125da2e268eb34249199404aed58f602677d9b0a0bc8586f9b102e3ffbb3228",
+			"url": "https://upload.wikimedia.org/math/4/8/e/48e521c066599b45109fb389010e6d62.png",
+				"previous": "The space hierarchy theorem states that",
+				"after": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE.",
+			"color": "gray|0.34479 grey|0.34479 dim|0.2686 gray|0.2686 dim|0.2686 grey|0.2686 dark|0.23172 gray|0.23172 dark|0.23172 grey|0.23172 silver|0.077525 light|0.036314 gray|0.036314 light|0.036314 grey|0.036314 gainsboro|0.025266 white|0.0044269 smoke|0.0044269  "
+		}
+	}
+}

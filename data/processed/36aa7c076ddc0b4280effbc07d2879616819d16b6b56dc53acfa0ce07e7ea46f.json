@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "36aa7c076ddc0b4280effbc07d2879616819d16b6b56dc53acfa0ce07e7ea46f",
+			"url": "https://upload.wikimedia.org/math/f/e/f/fefd94477e72dfcee8103ae0acd21a0c.png",
+				"previous": "A first-order formula is built out of atomic formulas such as R(f(x,y),z) or y = x + 1 by means of the Boolean connectives and prefixing of quantifiers or . A sentence is a formula in which each occurrence of a variable is in the scope of a corresponding quantifier. Examples for formulas are Ï (or Ï(x) to mark the fact that at most x is an unbound variable in Ï) and Ï defined as follows:",
+				"after": "A set T of sentences is called a (first-order) theory. A theory is satisfiable if it has a model , i.e. a structure (of the appropriate signature) which satisfies all the sentences in the set T. Consistency of a theory is usually defined in a syntactical way, but in first-order logic by the completeness theorem there is no need to distinguish between satisfiability and consistency. Therefore model theorists often use \"consistent\" as a synonym for \"satisfiable\".",
+			"color": " "
+		}
+	}
+}

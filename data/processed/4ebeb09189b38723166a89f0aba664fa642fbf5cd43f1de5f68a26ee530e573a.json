@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ebeb09189b38723166a89f0aba664fa642fbf5cd43f1de5f68a26ee530e573a",
+			"url": "https://upload.wikimedia.org/math/a/b/3/ab3b538ce3cfd2b5db330b1dd7708ac3.png",
+				"previous": "Another way to approach the problem is to linearize any nonlinearities (the sine function term in this case) at the various points of interest through Taylor expansions. For example, the linearization at , called the small angle approximation, is",
+				"after": "since for . This is a simple harmonic oscillator corresponding to oscillations of the pendulum near the bottom of its path. Another linearization would be at , corresponding to the pendulum being straight up:",
+			"color": "dim|0.33271 gray|0.33271 dim|0.33271 grey|0.33271 gray|0.29937 grey|0.29937 dark|0.20223 gray|0.20223 dark|0.20223 grey|0.20223 silver|0.081063 light|0.038945 gray|0.038945 light|0.038945 grey|0.038945 gainsboro|0.027021 white|0.0048153 smoke|0.0048153  "
+		}
+	}
+}

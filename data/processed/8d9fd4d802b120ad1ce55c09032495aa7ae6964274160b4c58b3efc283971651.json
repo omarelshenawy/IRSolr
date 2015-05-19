@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d9fd4d802b120ad1ce55c09032495aa7ae6964274160b4c58b3efc283971651",
+			"url": "https://upload.wikimedia.org/math/8/e/7/8e76121c3853600af9f2773c10b4d38b.png",
+			"previous": [
+				"Associated with these roots are the eigenvectors,",
+				"which has the roots Î» = 1, Î» = 2, and Î» = 3."
+			],
+			"after": [
+				"respectively.",
+				"A matrix with elements above the main diagonal that are all zeros is described as a triangular matrix, or in this case, lower triangular. If the elements below the main diagonal are all zeros then the matrix is upper triangular. The eigenvalues of triangular matrices are the elements of the main diagonal, in the same way as for diagonal matrices."
+			],
+			"color": "black|0.44383 dim|0.1679 gray|0.1679 dim|0.1679 grey|0.1679 gray|0.16736 grey|0.16736 dark|0.14371 gray|0.14371 dark|0.14371 grey|0.14371 silver|0.059277 light|0.012536 gray|0.012536 light|0.012536 grey|0.012536 gainsboro|0.0053833  "
+		}
+	}
+}

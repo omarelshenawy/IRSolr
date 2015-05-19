@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "86dbdc4cf53eb8ee3ed41f9b6e6e8fd89b9c0e2dd78bf3e60a4b3da2fb0e06b3",
+			"url": "https://upload.wikimedia.org/math/a/3/c/a3c21b05c5a467c476fdf5220d9bdd9b.png",
+				"previous": "and the total number of possible states is given by 2N. Therefore the probability of the particle being hit from the right NR times is:",
+				"after": "As a result of its simplicity, Smoluchowski's 1D model can only qualitatively describe Brownian motion. For a realistic particle undergoing Brownian motion in a fluid many of the assumptions cannot be made. For example, the assumption that on average there occurs an equal number of collisions from the right as from the left falls apart once the particle is in motion. Also, there would be a distribution of different possible ÎVs instead of always just one in a realistic situation.",
+			"color": "dim|0.37155 gray|0.37155 dim|0.37155 grey|0.37155 gray|0.26399 grey|0.26399 dark|0.17758 gray|0.17758 dark|0.17758 grey|0.17758 silver|0.086602 light|0.046661 gray|0.046661 light|0.046661 grey|0.046661 gainsboro|0.033113 white|0.0054023 smoke|0.0054023  "
+		}
+	}
+}

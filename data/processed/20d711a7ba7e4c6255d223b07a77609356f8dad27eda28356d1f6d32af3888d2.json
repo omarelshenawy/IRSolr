@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "20d711a7ba7e4c6255d223b07a77609356f8dad27eda28356d1f6d32af3888d2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kepler-first-law.svg/220px-Kepler-first-law.svg.png",
+				"previous": "The mathematical model of the kinematics of a planet subject to the laws allows a large range of further calculations.",
+			"after": [
+				"Mathematically, an ellipse can be represented by the formula:",
+				"where is the semi-latus rectum, and Îµ is the eccentricity of the ellipse, and r is the distance from the Sun to the planet, and Î¸ is the angle to the planet's current position from its closest approach, as seen from the Sun. So (r,Â Î¸) are polar coordinates."
+			],
+			"color": "black|0.26389 gray|0.17231 grey|0.17231 dim|0.16016 gray|0.16016 dim|0.16016 grey|0.16016 dark|0.15929 gray|0.15929 dark|0.15929 grey|0.15929 silver|0.070602 light|0.039191 gray|0.039191 light|0.039191 grey|0.039191 gainsboro|0.029035 white|0.011977 white|0.010382 smoke|0.010382 snow|0.0088428 mint|0.0079472 cream|0.0079472 ghost|0.0079083 white|0.0079083 alice|0.0075445 blue|0.0075445 sea|0.0074291 shell|0.0074291 floral|0.0065728 white|0.0065728 azure|0.0065077 lavender|0.005765 blush|0.005765 blue|0.0052083  "
+		}
+	}
+}

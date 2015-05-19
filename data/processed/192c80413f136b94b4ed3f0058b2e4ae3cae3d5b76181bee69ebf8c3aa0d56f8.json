@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "192c80413f136b94b4ed3f0058b2e4ae3cae3d5b76181bee69ebf8c3aa0d56f8",
+			"url": "https://upload.wikimedia.org/math/1/2/1/121238b767c57172e3bd575f7b10dbea.png",
+				"previous": "A sphere has a single radius of curvature, which is simply the radius of the sphere. More complex surfaces have radii of curvature that vary over the surface. The radius of curvature describes the radius of the sphere that best approximates the surface at that point. Oblate ellipsoids have constant radius of curvature east to west along parallels, if a graticule is drawn on the surface, but varying curvature in any other direction. For an oblate ellipsoid, the polar radius of curvature is larger than the equatorial",
+				"after": "where is the distance from the center of the ellipsoid to the equator (semi-major axis), and is the distance from the center to the pole. (semi-minor axis)",
+			"color": "dark|0.33822 gray|0.33822 dark|0.33822 grey|0.33822 gray|0.20112 grey|0.20112 silver|0.17533 light|0.10055 gray|0.10055 light|0.10055 grey|0.10055 gainsboro|0.073065 dim|0.02204 gray|0.02204 dim|0.02204 grey|0.02204 white|0.016778 smoke|0.016778 lavender|0.0095603 blush|0.0095603 alice|0.0093965 blue|0.0093965 ghost|0.009198 white|0.009198 sea|0.0089427 shell|0.0089427 snow|0.0086076 linen|0.0085477 white|0.0071184 mint|0.0051824 cream|0.0051824 floral|0.0035294 white|0.0035294 azure|0.0027699  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "387ffd767eade64ea7c3f2ced95698e5e1bc12690c5e2037a4402b303020251a",
+			"url": "https://upload.wikimedia.org/math/e/3/8/e3800023caf2f1fba4a7450416f63dbc.png",
+				"previous": "Given two combinatorial families, and with generating functions F(x) and G(x) respectively, the union of the two families () has generating function F(x) + G(x).",
+				"after": "A sequence generalizes the idea of the pair as defined above. Sequences are arbitrary Cartesian products of a combinatorial object with itself. Formally:",
+			"color": "dim|0.31088 gray|0.31088 dim|0.31088 grey|0.31088 gray|0.29005 grey|0.29005 dark|0.18221 gray|0.18221 dark|0.18221 grey|0.18221 silver|0.088302 light|0.049893 gray|0.049893 light|0.049893 grey|0.049893 gainsboro|0.037646 white|0.0076698 smoke|0.0076698 alice|0.0040474 blue|0.0040474 ghost|0.004001 white|0.004001 snow|0.0039781 lavender|0.0039298 blush|0.0039298 sea|0.0036402 shell|0.0036402 linen|0.0036277 white|0.003055  "
+		}
+	}
+}

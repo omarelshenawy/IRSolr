@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4828438fb616292f4db6ab12734739da8264d04363e9698b83b8545d989f688f",
+			"url": "https://upload.wikimedia.org/math/1/a/9/1a9f11a369c36ead474e94b557b03c57.png",
+			"previous": [
+				"The camber-line is defined in two sections:[8]",
+				"For example, the NACA 23112 profile describes an airfoil with design lift coefficient of 0.3 (0.15*2), the point of maximum camber located at 15% chord (5*3), reflex camber (1), and maximum thickness of 12% of chord length (12)."
+			],
+				"after": "3 digit camber lines provide a very far forward location for the maximum camber.",
+			"color": " "
+		}
+	}
+}

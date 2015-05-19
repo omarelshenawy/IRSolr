@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8af8e1abdfc1ab301b0eea57ff913fde1e99d29d2ec064b14011940447e8b63f",
+			"url": "https://upload.wikimedia.org/math/0/0/2/0026bae9a19d3f616f0abe8c18dd3664.png",
+			"previous": [
+				"where is the imaginary unit. Note that , , and . Then",
+				"In the example of the 3Ã3 cyclic permutation matrix , above, the characteristic polynomial has two additional non-real roots, namely"
+			],
+			"after": [
+				"Therefore, the vectors and are eigenvectors of , with eigenvalues , and , respectively.",
+				"Let be an eigenvalue of an matrix . The algebraic multiplicity of is its multiplicity as a root of the characteristic polynomial, that is, the largest integer such that divides evenly that polynomial.[17][18]"
+			],
+			"color": "dim|0.60624 gray|0.60624 dim|0.60624 grey|0.60624 gray|0.2122 grey|0.2122 dark|0.10398 gray|0.10398 dark|0.10398 grey|0.10398 silver|0.037447 light|0.017686 gray|0.017686 light|0.017686 grey|0.017686 gainsboro|0.012999  "
+		}
+	}
+}

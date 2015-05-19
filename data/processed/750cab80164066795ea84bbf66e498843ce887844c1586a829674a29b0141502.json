@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "750cab80164066795ea84bbf66e498843ce887844c1586a829674a29b0141502",
+			"url": "https://upload.wikimedia.org/math/a/6/9/a69f1c49f19071664822b16be776cf44.png",
+				"previous": "Among these several different generalizations of the inner product on vectors are:",
+				"after": "(Dorst 2002) makes an argument for the use of contractions in preference to Hestenes's inner product; they are algebraically more regular and have cleaner geometric interpretations. A number of identities incorporating the contractions are valid without restriction of their inputs. Benefits of using the left contraction as an extension of the inner product on vectors include that the identity is extended to for any vector a and multivector B, and that the projection operation is extended to for any blades A and B (with a minor modification to accommodate null B, given below).",
+			"color": "dim|0.35144 gray|0.35144 dim|0.35144 grey|0.35144 gray|0.30023 grey|0.30023 dark|0.22199 gray|0.22199 dark|0.22199 grey|0.22199 silver|0.067042 light|0.026712 gray|0.026712 light|0.026712 grey|0.026712 gainsboro|0.018308 white|0.0032458 smoke|0.0032458  "
+		}
+	}
+}

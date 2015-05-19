@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4baeaa318eb2a6f4a056c16dd73357c9c7e3b661cfdca4c64092fb988539eaa7",
+			"url": "https://upload.wikimedia.org/math/1/7/c/17c6d4e0bcf5ba46cdd90713126b63e7.png",
+			"previous": [
+				"but the divergence of a curl is zero, so that",
+				"Taking the divergence of both sides (the divergence and partial derivative in time commute) results in"
+			],
+			"after": [
+				"Another one of Maxwell's equations, Gauss's law, states that",
+				"substitution into the previous equation yields the continuity equation"
+			],
+			"color": "dim|0.45036 gray|0.45036 dim|0.45036 grey|0.45036 gray|0.27586 grey|0.27586 dark|0.1565 gray|0.1565 dark|0.1565 grey|0.1565 silver|0.060426 light|0.026619 gray|0.026619 light|0.026619 grey|0.026619 gainsboro|0.018079  "
+		}
+	}
+}

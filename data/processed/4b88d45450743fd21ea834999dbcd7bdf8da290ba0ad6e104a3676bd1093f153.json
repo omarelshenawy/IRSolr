@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b88d45450743fd21ea834999dbcd7bdf8da290ba0ad6e104a3676bd1093f153",
+			"url": "https://upload.wikimedia.org/math/1/0/2/102ce91efd71f298feb317606f63a190.png",
+				"previous": "where:",
+				"after": "This formula assumes independence of failure events. That means that the probability of a component B failing given that a component A has already failed is the same as that of B failing when A has not failed. There are situations where this is unreasonable, such as using two power supplies connected to the same socket in such a way that if one power supply failed, the other would too.",
+			"color": "dark|0.38586 gray|0.38586 dark|0.38586 grey|0.38586 gray|0.25191 grey|0.25191 silver|0.18586 light|0.081799 gray|0.081799 light|0.081799 grey|0.081799 gainsboro|0.048462 dim|0.038142 gray|0.038142 dim|0.038142 grey|0.038142 white|0.0025217 smoke|0.0025217  "
+		}
+	}
+}

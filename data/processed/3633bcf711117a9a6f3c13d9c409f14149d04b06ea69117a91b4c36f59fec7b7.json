@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3633bcf711117a9a6f3c13d9c409f14149d04b06ea69117a91b4c36f59fec7b7",
+			"url": "https://upload.wikimedia.org/math/c/e/f/cef6440aa0784398d2c850302c85ba90.png",
+				"previous": "Let be an arbitrary matrix of complex numbers with eigenvalues , , ... . (Here it is understood that an eigenvalue with algebraic multiplicity occurs times in this list.) Then",
+				"after": "The use of matrices with a single column (rather than a single row) to represent vectors is traditional in many disciplines. For that reason, the word \"eigenvector\" almost always means a right eigenvector, namely a column vector that must be placed to the right of the matrix in the defining equation",
+			"color": "dim|0.42923 gray|0.42923 dim|0.42923 grey|0.42923 gray|0.27854 grey|0.27854 dark|0.1573 gray|0.1573 dark|0.1573 grey|0.1573 silver|0.06187 light|0.033835 gray|0.033835 light|0.033835 grey|0.033835 gainsboro|0.023161  "
+		}
+	}
+}

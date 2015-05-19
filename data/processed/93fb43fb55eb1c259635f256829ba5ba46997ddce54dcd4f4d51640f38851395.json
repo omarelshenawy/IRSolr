@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "93fb43fb55eb1c259635f256829ba5ba46997ddce54dcd4f4d51640f38851395",
+			"url": "https://upload.wikimedia.org/math/5/9/2/5927811da50751775a91df10f2244e73.png",
+				"previous": "for any integer a not divisible by p, may be proved using these notions. This implies",
+				"after": "Giuga's conjecture says that this equation is also a sufficient condition for p to be prime. Another consequence of Fermat's little theorem is the following: if p is a prime number other than 2 and 5, 1/p is always a recurring decimal, whose period is p â 1 or a divisor of p â 1. The fraction 1/p expressed likewise in base q (rather than baseÂ 10) has similar effect, provided that p is not a prime factor ofÂ q. Wilson's theorem says that an integer pÂ >Â 1 is prime if and only if the factorial (pÂ âÂ 1)!Â +Â 1 is divisible by p. Moreover, an integer n > 4 is composite if and only if (nÂ âÂ 1)! is divisible byÂ n.",
+			"color": "dim|0.36145 gray|0.36145 dim|0.36145 grey|0.36145 gray|0.26575 grey|0.26575 dark|0.18422 gray|0.18422 dark|0.18422 grey|0.18422 silver|0.092261 light|0.043679 gray|0.043679 light|0.043679 grey|0.043679 gainsboro|0.033216 white|0.0054027 smoke|0.0054027  "
+		}
+	}
+}

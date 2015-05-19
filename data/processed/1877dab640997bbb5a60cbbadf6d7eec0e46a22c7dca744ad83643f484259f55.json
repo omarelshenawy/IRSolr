@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1877dab640997bbb5a60cbbadf6d7eec0e46a22c7dca744ad83643f484259f55",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/F-18A_Active_Aeroelastic_Wing_flight_test.ogg/220px--F-18A_Active_Aeroelastic_Wing_flight_test.ogg.jpg",
+			"previous": [],
+				"after": "The same problems affect modern aircraft as well, but are engineered to be less noticeable. To start with, improvements in materials and design has greatly improved the stiffness of the wing, reducing the magnitude of the problem. Once the plane is built and flown, the flight control software is then adjusted to correct for the loss of control due to aeroelasticity. However, this simply hides the problem; the aeroelasticity still exists and is affecting the overall control authority. To correct this the flight controller uses more control input to offset any loss of effectiveness, which increases the spanwise torque loads on the aircraft's wing.",
+			"color": "light|0.37569 slate|0.37569 gray|0.37569 slate|0.25777 gray|0.25777 light|0.1399 steel|0.1399 blue|0.1399 light|0.069248 gray|0.069248 light|0.069248 grey|0.069248 silver|0.057474 gainsboro|0.028527 light|0.026223 blue|0.026223 lavender|0.020064 dark|0.013851 gray|0.013851 dark|0.013851 grey|0.013851 gray|0.0049155 grey|0.0049155 dim|0.0047638 gray|0.0047638 dim|0.0047638 grey|0.0047638  "
+		}
+	}
+}

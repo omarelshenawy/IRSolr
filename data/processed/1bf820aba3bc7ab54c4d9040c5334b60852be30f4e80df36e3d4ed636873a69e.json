@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1bf820aba3bc7ab54c4d9040c5334b60852be30f4e80df36e3d4ed636873a69e",
+			"url": "https://upload.wikimedia.org/math/9/d/2/9d293db0525e23a122a08a705f74768d.png",
+			"previous": [
+				"Multiplying the SchrÃ¶dinger equation by Î¨* then solving for , and similarly multiplying the complex conjugated SchrÃ¶dinger equation by Î¨ then solving for ;",
+				"where U is the potential function. The partial derivative of Ï with respect to t is:"
+			],
+			"after": [
+				"substituting into the time derivative of Ï:",
+				"The Laplacian operators (â2) in the above result suggest that the right hand side is the divergence of j, and the reversed order of terms imply this is the negative of j, altogether:"
+			],
+			"color": "gray|0.27854 grey|0.27854 dark|0.26179 gray|0.26179 dark|0.26179 grey|0.26179 dim|0.25911 gray|0.25911 dim|0.25911 grey|0.25911 silver|0.092559 light|0.046573 gray|0.046573 light|0.046573 grey|0.046573 gainsboro|0.038959 white|0.0044221 smoke|0.0044221 linen|0.0031806 lavender|0.0028415 blush|0.0028415 alice|0.0027955 blue|0.0027955 ghost|0.0027572 white|0.0027572 sea|0.0026587 shell|0.0026587 snow|0.0026299  "
+		}
+	}
+}

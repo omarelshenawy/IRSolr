@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "992195d8502bb65930638fe7b6040931b3367e11ee10b8c7ff1babddbfcb95f8",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pulse_Jet_schematic.svg/350px-Pulse_Jet_schematic.svg.png",
+				"previous": "Another feature of pulsejet engines is that their thrust can be increased by a specially shaped duct placed behind the engine. The duct acts as an annular wing, which evens out the pulsating thrust, by harnessing aerodynamic forces in the pulsejet exhaust. The duct, typically called an augmenter, can significantly increase the thrust of a pulsejet with no additional fuel consumption. Gains of 100% increases in thrust are possible, resulting in a much higher fuel efficiency. However, the larger the augmenter duct, the more drag it produces, and it is only be effective within specific speed ranges.",
+			"after": [
+				"The combustion cycle comprises five or six phases depending on the engine: Induction, Compression, (optional) Fuel Injection, Ignition, Combustion, and Exhaust.",
+				"Starting with ignition within the combustion chamber, a high pressure is raised by the combustion of the fuel-air mixture. The pressurized gas from combustion cannot exit forward through the one-way intake valve and so exits only to the rear through the exhaust tube."
+			],
+			"color": "peach|0.089779 puff|0.089779 corn|0.062119 flower|0.062119 blue|0.062119 sea|0.055705 shell|0.055705 floral|0.05397 white|0.05397 white|0.05344 smoke|0.05344 snow|0.053267 sandy|0.051402 brown|0.051402 lavender|0.050481 blush|0.050481 white|0.050248 mint|0.048455 cream|0.048455 ghost|0.048197 white|0.048197 burly|0.046493 wood|0.046493 alice|0.045413 blue|0.045413 azure|0.044155 bisque|0.031192 misty|0.018782 rose|0.018782 blanched|0.018283 almond|0.018283 dim|0.017102 gray|0.017102 dim|0.017102 grey|0.017102 gray|0.017027 grey|0.017027 linen|0.015613 antique|0.015274 white|0.015274 papaya|0.013452 whip|0.013452 dark|0.012385 gray|0.012385 dark|0.012385 grey|0.012385 old|0.011363 lace|0.011363 pink|0.0098505 light|0.0095296 pink|0.0095296 light|0.0084066 coral|0.0084066 gainsboro|0.0082298 ivory|0.0080192 light|0.0072929 gray|0.0072929 light|0.0072929 grey|0.0072929 silver|0.0055295 black|0.0053263 salmon|0.0048129  "
+		}
+	}
+}

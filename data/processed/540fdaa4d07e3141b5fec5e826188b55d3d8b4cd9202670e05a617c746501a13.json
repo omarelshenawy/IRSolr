@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "540fdaa4d07e3141b5fec5e826188b55d3d8b4cd9202670e05a617c746501a13",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Theoretical_computer_science.svg/700px-Theoretical_computer_science.svg.png",
+				"previous": "In 1967, Manuel Blum developed an axiomatic complexity theory based on his axioms and proved an important result, the so-called, speed-up theorem. The field really began to flourish in 1971 when the US researcher Stephen Cook and, working independently, Leonid Levin in the USSR, proved that there exist practically relevant problems that are NP-complete. In 1972, Richard Karp took this idea a leap forward with his landmark paper, \"Reducibility Among Combinatorial Problems\", in which he showed that 21 diverse combinatorial and graph theoretical problems, each infamous for its computational intractability, are NP-complete.[15]",
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "black|0.56715 dim|0.21331 gray|0.21331 dim|0.21331 grey|0.21331 gray|0.14675 grey|0.14675 dark|0.035163 gray|0.035163 dark|0.035163 grey|0.035163 silver|0.01038 light|0.0086078 gray|0.0086078 light|0.0086078 grey|0.0086078 gainsboro|0.0075049  "
+		}
+	}
+}

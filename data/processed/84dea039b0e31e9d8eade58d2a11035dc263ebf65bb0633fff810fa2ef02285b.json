@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "84dea039b0e31e9d8eade58d2a11035dc263ebf65bb0633fff810fa2ef02285b",
+			"url": "https://upload.wikimedia.org/math/2/8/a/28a6f85fdcaa6864ef724e060c46847a.png",
+			"previous": [
+				"If r is any root of the cubic, then we may factor out (xâr ) using polynomial long division to obtain",
+				"The rational root test is particularly useful when there are three real roots because the algebraic solution unhelpfully expresses the real roots in terms of complex entities. The rational root test is also helpful in the presence of one real and two complex roots because it allows all of the roots to be written without the use of cube roots."
+			],
+				"after": "for the other two roots.",
+			"color": "black|0.33316 dim|0.26917 gray|0.26917 dim|0.26917 grey|0.26917 gray|0.17846 grey|0.17846 dark|0.11422 gray|0.11422 dark|0.11422 grey|0.11422 silver|0.049597 light|0.024255 gray|0.024255 light|0.024255 grey|0.024255 gainsboro|0.016985  "
+		}
+	}
+}

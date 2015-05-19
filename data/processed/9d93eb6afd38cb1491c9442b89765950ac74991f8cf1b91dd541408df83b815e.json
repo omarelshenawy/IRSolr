@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d93eb6afd38cb1491c9442b89765950ac74991f8cf1b91dd541408df83b815e",
+			"url": "https://upload.wikimedia.org/math/4/4/2/4421a6b97db13d9297c01f294cc1cd7b.png",
+				"previous": "One of the most useful tools in multiplicative number theory are Dirichlet series, which are functions of a complex variable defined by an infinite series of the form",
+				"after": "Depending on the choice of coefficients , this series may converge everywhere, nowhere, or on some half plane. In many cases, even where the series does not converge everywhere, the holomorphic function it defines may be analytically continued to a meromorphic function on the entire complex plane. The utility of functions like this in multiplicative problems can be seen in the formal identity",
+			"color": "dim|0.32384 gray|0.32384 dim|0.32384 grey|0.32384 gray|0.28861 grey|0.28861 dark|0.21463 gray|0.21463 dark|0.21463 grey|0.21463 silver|0.090872 light|0.036753 gray|0.036753 light|0.036753 grey|0.036753 gainsboro|0.026128 white|0.0047824 smoke|0.0047824  "
+		}
+	}
+}

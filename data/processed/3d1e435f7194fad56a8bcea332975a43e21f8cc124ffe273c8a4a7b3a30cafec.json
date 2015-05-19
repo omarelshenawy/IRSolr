@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d1e435f7194fad56a8bcea332975a43e21f8cc124ffe273c8a4a7b3a30cafec",
+			"url": "https://upload.wikimedia.org/math/9/d/b/9dbecb81a07c11b1b75e5a9f461be1dd.png",
+			"previous": [
+				"known as the asymptotic law of distribution of prime numbers.",
+				"Much of analytic number theory was inspired by the prime number theorem. Let Ï(x) be the prime-counting function that gives the number of primes less than or equal to x, for any real numberÂ x. For example, Ï(10)Â =Â 4 because there are four prime numbers (2, 3, 5 and 7) less than or equal to 10. The prime number theorem then states that x / ln(x) is a good approximation to Ï(x), in the sense that the limit of the quotient of the two functions Ï(x) and x / ln(x) as x approaches infinity is 1:"
+			],
+				"after": "Johann Peter Gustav Lejeune Dirichlet is credited with the creation of analytic number theory,[3] a field in which he found several deep results and in proving them introduced some fundamental tools, many of which were later named after him. In 1837 he published Dirichlet's theorem on arithmetic progressions, using mathematical analysis concepts to tackle an algebraic problem and thus creating the branch of analytic number theory. In proving the theorem, he introduced the Dirichlet characters and L-functions.[3][4] In 1841 he generalized his arithmetic progressions theorem from integers to the ring of Gaussian integers .[5]",
+			"color": "dim|0.40986 gray|0.40986 dim|0.40986 grey|0.40986 gray|0.29131 grey|0.29131 dark|0.17218 gray|0.17218 dark|0.17218 grey|0.17218 silver|0.068138 light|0.02891 gray|0.02891 light|0.02891 grey|0.02891 gainsboro|0.018651  "
+		}
+	}
+}

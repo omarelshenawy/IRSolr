@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ad602c505ef2180c8f41ebac9424257c3114df11dc53affe1ba5283de45e5e3",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Multi-hole_waveguide_coupler.png/220px-Multi-hole_waveguide_coupler.png",
+			"previous": [],
+				"after": "Directional couplers, power splitters, and power combiners are all essentially the same type of device, at least when implemented with passive components. A directional coupler splits a small amount of power from the main line to a third port. A more strongly coupled, but otherwise identical, device may be called a power splitter. One that couples exactly half the power to the third port (a 3 dB coupler) is the maximum coupling achievable without reversing the functions of the ports. Many designs of power splitter can be used in reverse, whereupon they become power combiners.[76]",
+			"color": "silver|0.24919 dark|0.22775 gray|0.22775 dark|0.22775 grey|0.22775 light|0.17784 gray|0.17784 light|0.17784 grey|0.17784 gainsboro|0.1255 medium|0.061877 aqua|0.061877 marine|0.061877 white|0.027153 smoke|0.027153 alice|0.012489 blue|0.012489 mint|0.012458 cream|0.012458 snow|0.011812 azure|0.011626 white|0.011555 ghost|0.01143 white|0.01143 sea|0.011186 shell|0.011186 floral|0.011076 white|0.011076 gray|0.009595 grey|0.009595 lavender|0.0092231 blush|0.0092231 honeydew|0.0055236  "
+		}
+	}
+}

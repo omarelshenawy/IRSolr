@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "12e8aecba3faf759ef98819fcaeada395fc543ead00031318af66bda48de9736",
+			"url": "https://upload.wikimedia.org/math/f/d/7/fd7431ff725a2ac07fc4f650ea43121d.png",
+				"previous": "In analytic geometry a plane is described with Cartesian coordinatesÂ : C = {(x,y)Â : x, y in R}. The points are sometimes identified with complex numbers z = x + y Îµ where the square of Îµ is in {â1, 0, +1}. The Euclidean plane corresponds to the case Îµ2 = â1 since the modulus of z is given by",
+				"after": "and this quantity is the square of the Euclidean distance between z and the origin. For instance, {zÂ : z z* = 1} is the unit circle.",
+			"color": "dim|0.40463 gray|0.40463 dim|0.40463 grey|0.40463 gray|0.27327 grey|0.27327 dark|0.15699 gray|0.15699 dark|0.15699 grey|0.15699 silver|0.069669 light|0.034256 gray|0.034256 light|0.034256 grey|0.034256 gainsboro|0.024127 black|0.022412 white|0.0040381 smoke|0.0040381  "
+		}
+	}
+}

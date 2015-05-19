@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "471ae3afafa59b21a0e807c887352655155c6e3c1d563c6c7f34a74a65207c22",
+			"url": "https://upload.wikimedia.org/math/c/8/2/c825a28b58e59254cebdcb0435b8d68c.png",
+			"previous": [
+				"As ,",
+				"",
+				"where:"
+			],
+			"after": [
+				"From this total thrust can be obtained by integrating this expression along the blade. The transverse force is found in a similar manner:",
+				"Substituting for and multiplying by r, gives torque as:"
+			],
+			"color": " "
+		}
+	}
+}

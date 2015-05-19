@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "270d27186eced3a4529cfb4aed4e1b6f7e8dbdd497c9b0c476349f3df4887090",
+			"url": "https://upload.wikimedia.org/math/3/e/b/3eb90412968876ebfd0006dcc5281a0c.png",
+				"previous": "that is:",
+				"after": "only in Cartesian coordinates. It's the covariant derivative which transforms in manifest covariance, in Cartesian coordinates this happens to reduce to the partial derivatives, but not in other coordinates.",
+			"color": "dim|0.3974 gray|0.3974 dim|0.3974 grey|0.3974 gray|0.26141 grey|0.26141 dark|0.15406 gray|0.15406 dark|0.15406 grey|0.15406 silver|0.066024 black|0.054339 light|0.031512 gray|0.031512 light|0.031512 grey|0.031512 gainsboro|0.021399  "
+		}
+	}
+}

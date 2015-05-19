@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9eeb7aef0e19fd321d7ed1796eb318976f8b65403af118f0c4040b81e2e0f0bb",
+			"url": "https://upload.wikimedia.org/math/2/b/e/2be7d950e12ffcaf5e6d9bb4b75d5f05.png",
+				"previous": "The advection equation describes the transport of a conserved scalar Ï in a velocity field u = (u, v, w). It is:",
+				"after": "If the velocity field is solenoidal (that is, ââu = 0), then the equation may be simplified to",
+			"color": "dim|0.32178 gray|0.32178 dim|0.32178 grey|0.32178 black|0.21842 gray|0.20977 grey|0.20977 dark|0.1237 gray|0.1237 dark|0.1237 grey|0.1237 silver|0.055293 light|0.029108 gray|0.029108 light|0.029108 grey|0.029108 gainsboro|0.021084 white|0.0048125 smoke|0.0048125  "
+		}
+	}
+}

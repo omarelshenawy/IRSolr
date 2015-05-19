@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e338ec746953e8e90b1de047d0213f8b5523cf19cb2c2add31c4103ab6ea3ba",
+			"url": "https://upload.wikimedia.org/math/8/b/a/8baafebf88a0b733a8597fcdd54bf452.png",
+				"previous": "In probability theory and applications, Bayes' rule relates the odds of event to event , before (prior to) and after (posterior to) conditioning on another event . The odds on to event is simply the ratio of the probabilities of the two events. When arbitrarily many events are of interest, not just two, the rule can be rephrased as posterior is proportional to prior times likelihood, where the proportionality symbol means that the left hand side is proportional to (i.e., equals a constant times) the right hand side as varies, for fixed or given (Lee, 2012; Bertsch McGrayne, 2012). In this form it goes back to Laplace (1774) and to Cournot (1843); see Fienberg (2005). See Inverse probability and Bayes' rule.",
+			"after": [],
+			"color": "dim|0.39612 gray|0.39612 dim|0.39612 grey|0.39612 gray|0.27211 grey|0.27211 dark|0.17244 gray|0.17244 dark|0.17244 grey|0.17244 silver|0.078142 light|0.039062 gray|0.039062 light|0.039062 grey|0.039062 gainsboro|0.027447 white|0.0038578 smoke|0.0038578  "
+		}
+	}
+}

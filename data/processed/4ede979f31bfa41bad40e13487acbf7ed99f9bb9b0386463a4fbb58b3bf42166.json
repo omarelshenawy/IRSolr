@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ede979f31bfa41bad40e13487acbf7ed99f9bb9b0386463a4fbb58b3bf42166",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Earth_oblateness_to_scale.svg/300px-Earth_oblateness_to_scale.svg.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "Earth's rotation, internal density variations, and external tidal forces cause it to deviate systematically from a perfect sphere.[a] Local topography increases the variance, resulting in a surface of unlimited complexity. Our descriptions of the Earth's surface must be simpler than reality in order to be tractable. Hence we create models to approximate the Earth's surface, generally relying on the simplest model that suits the need.",
+			"color": "lavender|0.35009 alice|0.1777 blue|0.1777 ghost|0.11583 white|0.11583 azure|0.067515 white|0.067515 smoke|0.067515 white|0.047962 snow|0.042204 mint|0.0406 cream|0.0406 lavender|0.031692 blush|0.031692 sea|0.019318 shell|0.019318 floral|0.016843 white|0.016843 light|0.011495 cyan|0.011495 light|0.004131 steel|0.004131 blue|0.004131 light|0.0031026 slate|0.0031026 gray|0.0031026  "
+		}
+	}
+}

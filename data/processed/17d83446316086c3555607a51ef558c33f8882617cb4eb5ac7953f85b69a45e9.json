@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "17d83446316086c3555607a51ef558c33f8882617cb4eb5ac7953f85b69a45e9",
+			"url": "https://upload.wikimedia.org/math/8/b/5/8b58468e3d827120beeea755262eca84.png",
+				"previous": "Most groups considered in the first stage of the development of group theory were \"concrete\", having been realized through numbers, permutations, or matrices. It was not until the late nineteenth century that the idea of an abstract group as a set with operations satisfying a certain system of axioms began to take hold. A typical way of specifying an abstract group is through a presentation by generators and relations,",
+				"after": "A significant source of abstract groups is given by the construction of a factor group, or quotient group, G/H, of a group G by a normal subgroup H. Class groups of algebraic number fields were among the earliest examples of factor groups, of much interest in number theory. If a group G is a permutation group on a set X, the factor group G/H is no longer acting on X; but the idea of an abstract group permits one not to worry about this discrepancy.",
+			"color": "black|0.98652 dim|0.01083 gray|0.01083 dim|0.01083 grey|0.01083  "
+		}
+	}
+}

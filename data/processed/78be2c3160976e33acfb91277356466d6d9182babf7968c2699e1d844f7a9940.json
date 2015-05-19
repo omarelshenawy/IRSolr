@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "78be2c3160976e33acfb91277356466d6d9182babf7968c2699e1d844f7a9940",
+			"url": "https://upload.wikimedia.org/math/8/c/9/8c9a47120e2cf50d9600cbdfe5f3907f.png",
+				"previous": "Mutual information can be expressed as the average KullbackâLeibler divergence (information gain) between the posterior probability distribution of X given the value of Y and the prior distribution on X:",
+				"after": "In other words, this is a measure of how much, on the average, the probability distribution on X will change if we are given the value of Y. This is often recalculated as the divergence from the product of the marginal distributions to the actual joint distribution:",
+			"color": "gray|0.30258 grey|0.30258 dim|0.24013 gray|0.24013 dim|0.24013 grey|0.24013 dark|0.23323 gray|0.23323 dark|0.23323 grey|0.23323 silver|0.10833 light|0.051901 gray|0.051901 light|0.051901 grey|0.051901 gainsboro|0.036773 white|0.0066245 smoke|0.0066245 linen|0.0032767 lavender|0.0030132 blush|0.0030132 alice|0.0030078 blue|0.0030078 ghost|0.0029241 white|0.0029241 sea|0.0028115 shell|0.0028115 snow|0.0026088  "
+		}
+	}
+}

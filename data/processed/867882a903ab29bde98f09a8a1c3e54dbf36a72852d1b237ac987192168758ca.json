@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "867882a903ab29bde98f09a8a1c3e54dbf36a72852d1b237ac987192168758ca",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SR-71_Blackbird_afterburn.jpg/220px-SR-71_Blackbird_afterburn.jpg",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+				"after": "Jet-engine thrust is governed by the general principle of mass flow rate. Thrust depends on two things: the velocity of the exhaust gas and the mass of that gas. A jet engine can produce more thrust by either accelerating the gas to a higher velocity or by having a greater mass of gas exit the engine. Designing a basic turbojet engine around the second principle produces the turbofan engine, which creates slower gas but more of it. Turbofans are highly fuel efficient and can deliver high thrust for long periods, but the design trade-off is a large size relative to the power output. To generate increased power with a more compact engine for short periods, an engine requires an afterburner. The afterburner increases thrust primarily by accelerating the exhaust gas to a higher velocity. While the mass of the fuel added to the exhaust does contribute to an increase in exhaust mass, this effect is small compared to the increase in exhaust velocity.[citation needed]",
+			"color": "silver|0.28656 light|0.27722 gray|0.27722 light|0.27722 grey|0.27722 gainsboro|0.21227 dark|0.086735 gray|0.086735 dark|0.086735 grey|0.086735 black|0.029655 white|0.019054 smoke|0.019054 lavender|0.017486 alice|0.016904 blue|0.016904 ghost|0.014285 white|0.014285 lavender|0.0082198 blush|0.0082198 snow|0.0054448 azure|0.0031666  "
+		}
+	}
+}

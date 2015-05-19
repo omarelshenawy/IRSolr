@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7411f052e4f7026cc3ff322e5e81a24d89da5f709d233d29bbacdae4da593bc2",
+			"url": "https://upload.wikimedia.org/math/d/4/3/d435c6dd92f3b3430d735f360cba0ec9.png",
+				"previous": "The most basic method of checking the primality of a given integer n is called trial division. This routine consists of dividing n by each integer m that is greater than 1 and less than or equal to the square root of n. If the result of any of these divisions is an integer, then n is not a prime, otherwise it is a prime. Indeed, if is composite (with a and b â  1) then one of the factors a or b is necessarily at most . For example, for , the trial divisions are by m = 2, 3, 4, 5, and 6. None of these numbers divides 37, so 37 is prime. This routine can be implemented more efficiently if a complete list of primes up to is knownâthen trial divisions need to be checked only for those m that are prime. For example, to check the primality of 37, only three divisions are necessary (m = 2, 3, and 5), given that 4 and 6 are composite.",
+			"after": [],
+			"color": "gray|0.32527 grey|0.32527 dark|0.25196 gray|0.25196 dark|0.25196 grey|0.25196 dim|0.20178 gray|0.20178 dim|0.20178 grey|0.20178 silver|0.10715 light|0.051625 gray|0.051625 light|0.051625 grey|0.051625 gainsboro|0.035771 white|0.0072105 smoke|0.0072105 linen|0.0033083 lavender|0.0029132 blush|0.0029132 alice|0.0028596 blue|0.0028596 ghost|0.002681 white|0.002681 sea|0.0025471 shell|0.0025471  "
+		}
+	}
+}

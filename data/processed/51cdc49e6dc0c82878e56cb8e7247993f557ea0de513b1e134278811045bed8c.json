@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "51cdc49e6dc0c82878e56cb8e7247993f557ea0de513b1e134278811045bed8c",
+			"url": "https://upload.wikimedia.org/math/b/e/b/beba6ae8655e8b78bd996d158709abd6.png",
+				"previous": "Just as one classifies conic sections and quadratic forms into parabolic, hyperbolic, and elliptic based on the discriminant , the same can be done for a second-order PDE at a given point. However, the discriminant in a PDE is given by due to the convention of the xy term being 2B rather than B; formally, the discriminant (of the associated quadratic form) is with the factor of 4 dropped for simplicity.",
+				"after": "If there are n independent variables x1, x2 , ..., xn, a general linear partial differential equation of second order has the form",
+			"color": "dim|0.36426 gray|0.36426 dim|0.36426 grey|0.36426 gray|0.2819 grey|0.2819 dark|0.17666 gray|0.17666 dark|0.17666 grey|0.17666 silver|0.082615 light|0.044987 gray|0.044987 light|0.044987 grey|0.044987 gainsboro|0.030807 white|0.004504 smoke|0.004504  "
+		}
+	}
+}

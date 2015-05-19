@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9683925a1110d76b9cf5820d4bf82658612707130c9af7b2e1ae90e0d6418198",
+			"url": "https://upload.wikimedia.org/math/5/3/d/53dcea4298a12ca22deefc77c50176c5.png",
+				"previous": "Smooth surfaces equipped with Riemannian metrics are of fundational importance in differential geometry. A Riemannian metric endows a surface with notions of geodesic, distance, angle, and area. It also gives rise to Gaussian curvature, which describes how curved or bent the surface is at each point. Curvature is a rigid, geometric property, in that it is not preserved by general diffeomorphisms of the surface. However, the famous GaussâBonnet theorem for closed surfaces states that the integral of the Gaussian curvature K over the entire surface S is determined by the Euler characteristic:",
+				"after": "This result exemplifies the deep relationship between the geometry and topology of surfaces (and, to a lesser extent, higher-dimensional manifolds).",
+			"color": "dim|0.37252 gray|0.37252 dim|0.37252 grey|0.37252 gray|0.29267 grey|0.29267 dark|0.18324 gray|0.18324 dark|0.18324 grey|0.18324 silver|0.076644 light|0.035719 gray|0.035719 light|0.035719 grey|0.035719 gainsboro|0.024147 white|0.004039 smoke|0.004039  "
+		}
+	}
+}

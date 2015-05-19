@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9653144baa31dcc98491700035a6ec2587c152c952ae2a8b5dbd56789a8b4e37",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IBM360-65-1.corestore.jpg/220px-IBM360-65-1.corestore.jpg",
+				"previous": "In the 1940s, the earliest electronic digital systems had no operating systems. Electronic systems of this time were programmed on rows of mechanical switches or by jumper wires on plug boards. These were special-purpose systems that, for example, generated ballistics tables for the military or controlled the printing of payroll checks from data on punched paper cards. After programmable general purpose computers were invented, machine languages (consisting of strings of the binary digits 0 and 1 on punched paper tape) were introduced that sped up the programming process (Stern, 1981)[full citation needed].",
+				"after": "In the early 1950s, a computer could execute only one program at a time. Each user had sole use of the computer for a limited period of time and would arrive at a scheduled time with program and data on punched paper cards and/or punched tape. The program would be loaded into the machine, and the machine would be set to work until the program completed or crashed. Programs could generally be debugged via a front panel using toggle switches and panel lights. It is said that Alan Turing was a master of this on the early Manchester Mark 1 machine, and he was already deriving the primitive conception of an operating system from the principles of the Universal Turing machine.[5]",
+			"color": "dark|0.31046 gray|0.31046 dark|0.31046 grey|0.31046 gray|0.25526 grey|0.25526 silver|0.11873 dim|0.098844 gray|0.098844 dim|0.098844 grey|0.098844 light|0.063759 gray|0.063759 light|0.063759 grey|0.063759 gainsboro|0.041582 black|0.020122 slate|0.015664 gray|0.015664 light|0.014429 slate|0.014429 gray|0.014429 dark|0.0073286 slate|0.0073286 gray|0.0073286 white|0.0060907 smoke|0.0060907 alice|0.004738 blue|0.004738 ghost|0.0039777 white|0.0039777 azure|0.0035803 mint|0.0035332 cream|0.0035332 snow|0.0035222 white|0.0032064 thistle|0.002914  "
+		}
+	}
+}

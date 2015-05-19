@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1547d7d8fb8df1f64667e0a99f5c0b6818f745f0f6975f6c857d5c09b593dae4",
+			"url": "https://upload.wikimedia.org/math/1/1/0/110a451bff14cf0501f2ebb7c418a581.png",
+				"previous": "For a flow in which the static pressure also does not change in the direction of the flow then",
+			"after": [
+				"Therefore, the equation of motion simplifies to become",
+				"These approximations are used in a variety of practical flow problems of scientific and engineering interest. The above analysis is for any instantaneous laminar or turbulent boundary layer, but is used mainly in laminar flow studies since the mean flow is also the instantaneous flow because there are no velocity fluctuations present. This simplified equations is parabolic PDE and can be solved using a similarity solution often referred to as the Blasius boundary layer"
+			],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "80c9e98aa8aef8482b041c70b054c9960a14afa03e9a38c59dfa0d7059a39430",
+			"url": "https://upload.wikimedia.org/math/a/4/e/a4e83e912ce616d6298f3b1ab55b7bdb.png",
+			"previous": [],
+				"after": "There is also the closely linked area of Diophantine approximations: given a number , how well can it be approximated by rationals? (We are looking for approximations that are good relative to the amount of space that it takes to write the rational: call (with ) a good approximation to if , where is large.) This question is of special interest if is an algebraic number. If cannot be well approximated, then some equations do not have integer or rational solutions. Moreover, several concepts (especially that of height) turn out to be crucial both in Diophantine geometry and in the study of Diophantine approximations. This question is also of special interest in transcendence theory: if a number can be better approximated than any algebraic number, then it is a transcendental number. It is by this argument that Ï and e have been shown to be transcendental.",
+			"color": "gray|0.32034 grey|0.32034 dim|0.30872 gray|0.30872 dim|0.30872 grey|0.30872 dark|0.1966 gray|0.1966 dark|0.1966 grey|0.1966 silver|0.085786 light|0.041417 gray|0.041417 light|0.041417 grey|0.041417 gainsboro|0.028518 white|0.0048921 smoke|0.0048921  "
+		}
+	}
+}

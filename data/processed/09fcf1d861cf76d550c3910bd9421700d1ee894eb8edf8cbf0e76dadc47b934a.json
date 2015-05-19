@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "09fcf1d861cf76d550c3910bd9421700d1ee894eb8edf8cbf0e76dadc47b934a",
+			"url": "https://upload.wikimedia.org/math/b/2/9/b29f08cd9e73b1723c706805d63458f2.png",
+			"previous": [
+				"For this cambered airfoil, because the thickness needs to be applied perpendicular to the camber line, the coordinates and , of respectively the upper and lower airfoil surface, become:[6]",
+				"where:",
+				"The formula for the shape of a NACA 00xx foil, with \"xx\" being replaced by the percentage of thickness to chord, is:[3]"
+			],
+			"after": [
+				"where",
+				"The NACA five-digit series describes more complex airfoil shapes:[7]"
+			],
+			"color": "gray|0.3117 grey|0.3117 dim|0.28177 gray|0.28177 dim|0.28177 grey|0.28177 dark|0.20961 gray|0.20961 dark|0.20961 grey|0.20961 silver|0.09699 light|0.047249 gray|0.047249 light|0.047249 grey|0.047249 gainsboro|0.031616 white|0.005372 smoke|0.005372  "
+		}
+	}
+}

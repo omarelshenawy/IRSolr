@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "452f03a80dbe06787b89452e86d83757538728ab585295be21a24e3960547959",
+			"url": "https://upload.wikimedia.org/math/d/0/4/d0478e1044904ae8666dcb28d44d5841.png",
+				"previous": "In fluid dynamics, the Mach number (M or Ma) (/mÉËx/; German: [maÏ]) is a dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound.[1][2]",
+			"after": [
+				"where",
+				"The local speed of sound, and thereby the Mach number, depends on the condition of the surrounding medium, in particular the temperature and pressure. The Mach number is primarily used to determine the approximation with which a flow can be treated as an incompressible flow. The medium can be a gas or a fluid. The boundary can be traveling in the medium, but can be stationary while the medium flows along it. It can be the boundary of an object immersed in the medium, or of a channel such as a nozzle, diffusers or wind tunnels chaneling the medium. As the Mach number is defined as the ratio of two speeds, it is a dimensionless number. If MÂ <Â 0.2â0.3 and the flow is quasi-steady and isothermal, compressibility effects will be small and a simplified incompressible flow equations can be used.[1][2]"
+			],
+			"color": "dim|0.33221 gray|0.33221 dim|0.33221 grey|0.33221 gray|0.26323 grey|0.26323 dark|0.19449 gray|0.19449 dark|0.19449 grey|0.19449 silver|0.093894 light|0.052614 gray|0.052614 light|0.052614 grey|0.052614 gainsboro|0.032577 white|0.0059242 smoke|0.0059242 linen|0.0039315 lavender|0.00383 blush|0.00383 alice|0.0037658 blue|0.0037658 ghost|0.0037123 white|0.0037123 sea|0.0036054 shell|0.0036054  "
+		}
+	}
+}

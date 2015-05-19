@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "175d760c6dccbe4df47c9769969364994d517bb62ab0c9771ba1557fd68db775",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/HAtomOrbitals.png/275px-HAtomOrbitals.png",
+				"previous": "Wave functions change as time progresses. The SchrÃ¶dinger equation describes how wavefunctions change in time, playing a role similar to Newton's second law in classical mechanics. The SchrÃ¶dinger equation, applied to the aforementioned example of the free particle, predicts that the center of a wave packet will move through space at a constant velocity (like a classical particle with no forces acting on it). However, the wave packet will also spread out as time progresses, which means that the position becomes more uncertain with time. This also has the effect of turning a position eigenstate (which can be thought of as an infinitely sharp wave packet) into a broadened wave packet that no longer represents a (definite, certain) position eigenstate.[30]",
+				"after": "Some wave functions produce probability distributions that are constant, or independent of timeâsuch as when in a stationary state of constant energy, time vanishes in the absolute square of the wave function. Many systems that are treated dynamically in classical mechanics are described by such \"static\" wave functions. For example, a single electron in an unexcited atom is pictured classically as a particle moving in a circular trajectory around the atomic nucleus, whereas in quantum mechanics it is described by a static, spherically symmetric wavefunction surrounding the nucleus (Fig. 1) (note, however, that only the lowest angular momentum states, labeled s, are spherically symmetric).[31]",
+			"color": "dark|0.40283 red|0.40283 maroon|0.30734 dark|0.144 orange|0.144 sandy|0.038942 brown|0.038942 navajo|0.014131 white|0.014131 peach|0.0084494 puff|0.0084494 black|0.0079343  "
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"add": {
+		"doc": {
+			"id": "77db4bf3ba1de3b2212a1b3b6982336888e46f56a84611e92675a8e54b073e23",
+			"url": "https://upload.wikimedia.org/math/f/0/c/f0c4b7adacf1733e15cf820eed1a449c.png",
+				"previous": "The variation in â is:",
+			"after": [
+				"next using the EulerâLagrange equations for a field:",
+				"the variation is:",
+				"where the product rule has been used, so we obtain the continuity equation in a different general form:",
+				"So the conserved current density has to be:"
+			],
+			"color": "dark|0.35536 gray|0.35536 dark|0.35536 grey|0.35536 silver|0.19956 gray|0.18833 grey|0.18833 light|0.1018 gray|0.1018 light|0.1018 grey|0.1018 gainsboro|0.06729 dim|0.054054 gray|0.054054 dim|0.054054 grey|0.054054 white|0.0099617 smoke|0.0099617 linen|0.0045277 alice|0.0035624 blue|0.0035624 lavender|0.0035624 blush|0.0035624 ghost|0.0032049 white|0.0032049 sea|0.0031436 shell|0.0031436 snow|0.0030364  "
+		}
+	}
+}

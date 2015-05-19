@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a1309c4c4753e10b73c24c86d27a44b9a66349b8c2db534c0f7976d99b78bcb",
+			"url": "https://upload.wikimedia.org/math/7/a/a/7aa9dd2582bda438a9c010a77332dd2a.png",
+			"previous": [
+				"Since we expect oscillatory motion of a normal mode (where Ï is the same for both masses), we try:",
+				"If we denote acceleration (the second derivative of x(t) with respect to time) as , the equations of motion are:"
+			],
+			"after": [
+				"Substituting these into the equations of motion gives us:",
+				"Since the exponential factor is common to all terms, we omit it and simplify:"
+			],
+			"color": "dim|0.39298 gray|0.39298 dim|0.39298 grey|0.39298 gray|0.28223 grey|0.28223 dark|0.17393 gray|0.17393 dark|0.17393 grey|0.17393 silver|0.076082 light|0.037442 gray|0.037442 light|0.037442 grey|0.037442 gainsboro|0.025087 white|0.0030708 smoke|0.0030708  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "618499bd71e71554a5724b76ac2d5c06bbf0e7db94e0306c114aa5faeecccfd7",
+			"url": "https://upload.wikimedia.org/math/f/c/4/fc4433365f48fafa48a644035c1bdd29.png",
+				"previous": "The language recognized by M is the regular language given by the regular expression 1*( 0 (1*) 0 (1*) )*, where \"*\" is the Kleene star, e.g., 1* denotes any non-negative number (possibly zero) of symbols \"1\".",
+			"after": [],
+			"color": "dim|0.32968 gray|0.32968 dim|0.32968 grey|0.32968 gray|0.29265 grey|0.29265 dark|0.18267 gray|0.18267 dark|0.18267 grey|0.18267 black|0.073142 silver|0.059983 light|0.028759 gray|0.028759 light|0.028759 grey|0.028759 gainsboro|0.020055  "
+		}
+	}
+}

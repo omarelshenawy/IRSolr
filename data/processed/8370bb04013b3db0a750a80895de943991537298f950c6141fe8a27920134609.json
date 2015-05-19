@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8370bb04013b3db0a750a80895de943991537298f950c6141fe8a27920134609",
+			"url": "https://upload.wikimedia.org/math/9/2/8/9287b620f47ccdc3f0e03b4f1b654844.png",
+			"previous": [
+				"Einstein's equations predict that time should be altered by the presence of gravitational fields (see the Schwarzschild metric):",
+				"Einstein developed a geometric solution to Lorentz's transformation that preserves Maxwell's equations. His field equations give an exact relationship between the measurements of space and time in a given region of spacetime and the energy density of that region."
+			],
+				"after": "Where:",
+			"color": "dim|0.38081 gray|0.38081 dim|0.38081 grey|0.38081 gray|0.26839 grey|0.26839 dark|0.17916 gray|0.17916 dark|0.17916 grey|0.17916 silver|0.079344 light|0.039312 gray|0.039312 light|0.039312 grey|0.039312 gainsboro|0.029709 black|0.0054487 white|0.0043674 smoke|0.0043674  "
+		}
+	}
+}

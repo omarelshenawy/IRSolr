@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "35408a5c67c7ea7a4d6eaaf4387f9c8f9e0b308fb8683cacd0d34e09a84d3903",
+			"url": "https://upload.wikimedia.org/math/0/c/0/0c02725f116ef3cad99527413171d4bb.png",
+			"previous": [
+				"Coulomb friction, named after Charles-Augustin de Coulomb, is an approximate model used to calculate the force of dry friction. It is governed by the model:",
+				"Dry friction resists relative lateral motion of two solid surfaces in contact. The two regimes of dry friction are 'static friction' (\"stiction\") between non-moving surfaces, and kinetic friction (sometimes called sliding friction or dynamic friction) between moving surfaces."
+			],
+				"after": "where",
+			"color": "gray|0.34498 grey|0.34498 dark|0.24799 gray|0.24799 dark|0.24799 grey|0.24799 dim|0.20805 gray|0.20805 dim|0.20805 grey|0.20805 silver|0.10054 light|0.043751 gray|0.043751 light|0.043751 grey|0.043751 gainsboro|0.030675 white|0.0064209 smoke|0.0064209 linen|0.0033976 lavender|0.002732 blush|0.002732 alice|0.0026327 blue|0.0026327 ghost|0.0025349 white|0.0025349  "
+		}
+	}
+}

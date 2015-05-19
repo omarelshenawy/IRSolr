@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "47c9c260073d158ab45c2531aca3ec9cb456c95af37562343b30b1dcc39098a4",
+			"url": "https://upload.wikimedia.org/math/0/c/8/0c87c883fee41779278a69c9b29137e8.png",
+				"previous": "The braâket notation is often used in this context. A vector, which represents a state of the system, in the Hilbert space of square integrable functions is represented by . In this notation, the SchrÃ¶dinger equation is:",
+				"after": "In quantum mechanics, and in particular in atomic and molecular physics, within the HartreeâFock theory, the atomic and molecular orbitals can be defined by the eigenvectors of the Fock operator. The corresponding eigenvalues are interpreted as ionization potentials via Koopmans' theorem. In this case, the term eigenvector is used in a somewhat more general meaning, since the Fock operator is explicitly dependent on the orbitals and their eigenvalues. If one wants to underline this aspect one speaks of nonlinear eigenvalue problem. Such equations are usually solved by an iteration procedure, called in this case self-consistent field method. In quantum chemistry, one often represents the HartreeâFock equation in a non-orthogonal basis set. This particular representation is a generalized eigenvalue problem called Roothaan equations.",
+			"color": "gray|0.30436 grey|0.30436 dark|0.30326 gray|0.30326 dark|0.30326 grey|0.30326 silver|0.16258 dim|0.10355 gray|0.10355 dim|0.10355 grey|0.10355 light|0.07134 gray|0.07134 light|0.07134 grey|0.07134 gainsboro|0.046375 white|0.0030688 smoke|0.0030688  "
+		}
+	}
+}

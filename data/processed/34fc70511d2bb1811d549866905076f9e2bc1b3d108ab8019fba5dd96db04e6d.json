@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "34fc70511d2bb1811d549866905076f9e2bc1b3d108ab8019fba5dd96db04e6d",
+			"url": "https://upload.wikimedia.org/math/b/0/9/b097d785cb1471d30e8a2f7c21fda0d3.png",
+				"previous": "The deduction of the boundary layer equations was one of the most important advances in fluid dynamics (Anderson, 2005). Using an order of magnitude analysis, the well-known governing NavierâStokes equations of viscous fluid flow can be greatly simplified within the boundary layer. Notably, the characteristic of the partial differential equations (PDE) becomes parabolic, rather than the elliptical form of the full NavierâStokes equations. This greatly simplifies the solution of the equations. By making the boundary layer approximation, the flow is divided into an inviscid portion (which is easy to solve by a number of methods) and the boundary layer, which is governed by an easier to solve PDE. The continuity and NavierâStokes equations for a two-dimensional steady incompressible flow in Cartesian coordinates are given by",
+				"after": "where and are the velocity components, is the density, is the pressure, and is the kinematic viscosity of the fluid at a point.",
+			"color": "gray|0.30153 grey|0.30153 dim|0.26474 gray|0.26474 dim|0.26474 grey|0.26474 dark|0.22989 gray|0.22989 dark|0.22989 grey|0.22989 silver|0.10215 light|0.048042 gray|0.048042 light|0.048042 grey|0.048042 gainsboro|0.033147 white|0.0053344 smoke|0.0053344  "
+		}
+	}
+}

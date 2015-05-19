@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "83616e7268673af684506033fc21b7595d4ef8667fa1ea0748a6f9b1728a8d32",
+			"url": "https://upload.wikimedia.org/math/5/5/2/552e2532c04e42846dbe767067538c8c.png",
+				"previous": "An aerofoil where the camber line curves back up near the trailing edge is called a reflexed camber aerofoil. Such an aerofoil is useful in certain situations, such as with tailless aircraft, because the moment about the aerodynamic center of the aerofoil can be 0. A camber line for such an aerofoil can be defined as follows (note that the lines over the variables indicates that they have been nondimensionalized by dividing through by the chord):",
+				"after": "An aerofoil with a reflexed camber line is shown at right. The thickness distribution for a NACA 4-series aerofoil was used, with a 12% thickness ratio. The equation for this thickness distribution is:",
+			"color": "dim|0.38083 gray|0.38083 dim|0.38083 grey|0.38083 gray|0.273 grey|0.273 dark|0.17614 gray|0.17614 dark|0.17614 grey|0.17614 silver|0.083736 light|0.042515 gray|0.042515 light|0.042515 grey|0.042515 gainsboro|0.028899 white|0.0037211 smoke|0.0037211  "
+		}
+	}
+}

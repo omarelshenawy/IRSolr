@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "752d0e1016f8cbc7fcff9e61dfffda05d43949be1d4965549cb95ea8af4c5177",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Skein-relation-link20-minus-sm.png",
+				"previous": "gives a link deformable to one with 0 crossings (it is actually the unlink of two components) and an unknot. The unlink takes a bit of sneakiness:",
+				"after": "which implies that C(unlink of two components) = 0, since the first two polynomials are of the unknot and thus equal.",
+			"color": "black|0.96545 dark|0.018566 khaki|0.018566 dim|0.01573 gray|0.01573 dim|0.01573 grey|0.01573  "
+		}
+	}
+}

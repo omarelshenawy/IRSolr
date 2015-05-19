@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "189cba99bfebcaf3df3de2b5084576488acf90713dc22eb5a3f438ec7ea1b3fe",
+			"url": "https://upload.wikimedia.org/math/9/d/f/9dffa7f1028f2ab4616097ff69514d23.png",
+				"previous": "Matrices are a useful notion to encode linear maps.[31] They are written as a rectangular array of scalars as in the image at the right. Any m-by-n matrix A gives rise to a linear map from Fn to Fm, by the following",
+				"after": "or, using the matrix multiplication of the matrix A with the coordinate vector x:",
+			"color": "black|0.30354 gray|0.21218 grey|0.21218 dim|0.18967 gray|0.18967 dim|0.18967 grey|0.18967 dark|0.17346 gray|0.17346 dark|0.17346 grey|0.17346 silver|0.077187 light|0.029737 gray|0.029737 light|0.029737 grey|0.029737 gainsboro|0.01414  "
+		}
+	}
+}

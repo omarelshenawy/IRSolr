@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d5771c3d75677d904b1974668b4b6c3d432ded9a6b0ce8aeab2b07ec6e45c9c",
+			"url": "https://upload.wikimedia.org/math/8/c/6/8c6ba93cea464ae2a16887447da67237.png",
+				"previous": "where the modifying factors Î± and Î±' are defined by the inhibitor concentration and its two dissociation constants",
+				"after": "Thus, in the presence of the inhibitor, the enzyme's effective Km and Vmax become (Î±/Î±')Km and (1/Î±')Vmax, respectively. However, the modified Michaelis-Menten equation assumes that binding of the inhibitor to the enzyme has reached equilibrium, which may be a very slow process for inhibitors with sub-nanomolar dissociation constants. In these cases, it is usually more practical to treat the tight-binding inhibitor as an irreversible inhibitor (see below); however, it can still be possible to estimate Ki' kinetically if Ki is measured independently.",
+			"color": "dim|0.32266 gray|0.32266 dim|0.32266 grey|0.32266 gray|0.25693 grey|0.25693 dark|0.20797 gray|0.20797 dark|0.20797 grey|0.20797 silver|0.080322 light|0.059524 gray|0.059524 light|0.059524 grey|0.059524 gainsboro|0.037706 white|0.011336 smoke|0.011336 linen|0.0037137 lavender|0.0033009 blush|0.0033009 alice|0.0032697 blue|0.0032697 ghost|0.0032178 white|0.0032178  "
+		}
+	}
+}

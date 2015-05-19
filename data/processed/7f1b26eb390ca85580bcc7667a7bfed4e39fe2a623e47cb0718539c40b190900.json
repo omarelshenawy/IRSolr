@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f1b26eb390ca85580bcc7667a7bfed4e39fe2a623e47cb0718539c40b190900",
+			"url": "https://upload.wikimedia.org/math/1/b/6/1b6b168bcd8a1ea62751e3e3d3f52d47.png",
+			"previous": [
+				"A measure Î¼ on Î£ is Îº-additive if for any Î» < Îº and any family , Î± < Î» the following hold:",
+				"That is, we define the sum of the ri to be the supremum of all the sums of finitely many of them."
+			],
+				"after": "Note that the second condition is equivalent to the statement that the ideal of null sets is Îº-complete.",
+			"color": "black|0.30935 dim|0.22441 gray|0.22441 dim|0.22441 grey|0.22441 gray|0.22366 grey|0.22366 dark|0.16909 gray|0.16909 dark|0.16909 grey|0.16909 silver|0.056223 light|0.012548 gray|0.012548 light|0.012548 grey|0.012548 gainsboro|0.0047277  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8fa2b93ba647fcee395dde8e491037fd67f5a0b3bb407072074d2ebcf0a4215f",
+			"url": "https://upload.wikimedia.org/math/e/b/d/ebd9deb2ab91a6adfc4e35e787ce651f.png",
+				"previous": "A simple example is Newton's second law of motion â the relationship between the displacement x and the time t of the object under the force F, which leads to the differential equation",
+				"after": "for the motion of a particle of constant mass m. In general, F depends on the position x(t) of the particle at time t, and so the unknown function x(t) appears on both sides of the differential equation, as is indicated in the notation F(x(t)).[2][3][4][5]",
+			"color": "gray|0.32011 grey|0.32011 dim|0.27057 gray|0.27057 dim|0.27057 grey|0.27057 dark|0.22088 gray|0.22088 dark|0.22088 grey|0.22088 silver|0.091509 light|0.04417 gray|0.04417 light|0.04417 grey|0.04417 gainsboro|0.030913 white|0.0057921 smoke|0.0057921 linen|0.002929  "
+		}
+	}
+}

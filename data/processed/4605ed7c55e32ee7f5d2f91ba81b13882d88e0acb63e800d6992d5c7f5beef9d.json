@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4605ed7c55e32ee7f5d2f91ba81b13882d88e0acb63e800d6992d5c7f5beef9d",
+			"url": "https://upload.wikimedia.org/math/5/2/f/52f5e2ac58d8108a9d353319158f6b2e.png",
+				"previous": "E.g.",
+			"after": [
+				"Note that for polynomials over a ring containing divisors of zero, this is not necessarily true. For example, in , , but .",
+				"The set of polynomials with coefficients from a given field F and degree smaller than or equal to a given number n thus forms a vector space. (Note, however, that this set is not a ring, as it is not closed under multiplication, as is seen below.)"
+			],
+			"color": "dim|0.34395 gray|0.34395 dim|0.34395 grey|0.34395 gray|0.25889 grey|0.25889 dark|0.17046 gray|0.17046 dark|0.17046 grey|0.17046 silver|0.079175 black|0.063834 light|0.040707 gray|0.040707 light|0.040707 grey|0.040707 gainsboro|0.028026 white|0.0040824 smoke|0.0040824  "
+		}
+	}
+}

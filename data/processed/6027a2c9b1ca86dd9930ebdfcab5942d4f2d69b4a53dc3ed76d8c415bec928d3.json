@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6027a2c9b1ca86dd9930ebdfcab5942d4f2d69b4a53dc3ed76d8c415bec928d3",
+			"url": "https://upload.wikimedia.org/math/4/1/2/4129bb3be6b9a138fa48f7080c14763a.png",
+			"previous": [],
+				"after": "The principal eigenvector is used to measure the centrality of its vertices. An example is Google's PageRank algorithm. The principal eigenvector of a modified adjacency matrix of the World Wide Web graph gives the page ranks as its components. This vector corresponds to the stationary distribution of the Markov chain represented by the row-normalized adjacency matrix; however, the adjacency matrix must first be modified to ensure a stationary distribution exists. The second smallest eigenvector can be used to partition the graph into clusters, via spectral clustering. Other methods are also available for clustering.",
+			"color": "dim|0.31716 gray|0.31716 dim|0.31716 grey|0.31716 gray|0.25874 grey|0.25874 dark|0.19011 gray|0.19011 dark|0.19011 grey|0.19011 silver|0.10652 light|0.061383 gray|0.061383 light|0.061383 grey|0.061383 gainsboro|0.043095 white|0.0050551 smoke|0.0050551 linen|0.0027957  "
+		}
+	}
+}

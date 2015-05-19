@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d86b656f0584d6ab114b0d85128cfb4a125ee539ae40882d70a13145e08d7a5",
+			"url": "https://upload.wikimedia.org/math/2/6/f/26f32361e1d541b933f6f2c2f5c8ba7f.png",
+				"previous": "When the mean anomaly M is computed, the goal is to compute the true anomaly Î¸. The function Î¸Â =Â f(M) is, however, not elementary.[18] Kepler's solution is to use",
+				"after": "as an intermediate variable, and first compute E as a function of M by solving Kepler's equation below, and then compute the true anomaly Î¸ from the eccentric anomaly E. Here are the details.",
+			"color": "black|0.4837 dim|0.20588 gray|0.20588 dim|0.20588 grey|0.20588 gray|0.14527 grey|0.14527 dark|0.082081 gray|0.082081 dark|0.082081 grey|0.082081 silver|0.038002 light|0.019774 gray|0.019774 light|0.019774 grey|0.019774 gainsboro|0.01414  "
+		}
+	}
+}

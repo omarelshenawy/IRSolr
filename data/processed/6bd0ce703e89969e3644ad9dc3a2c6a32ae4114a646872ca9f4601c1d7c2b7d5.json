@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bd0ce703e89969e3644ad9dc3a2c6a32ae4114a646872ca9f4601c1d7c2b7d5",
+			"url": "https://upload.wikimedia.org/math/4/2/1/421d0f95572b97b308291bb192866177.png",
+				"previous": "The cdf necessarily satisfies the following properties.",
+				"after": "If is absolutely continuous, i.e., its derivative exists and integrating the derivative gives us the cdf back again, then the random variable X is said to have a probability density function or pdf or simply density",
+			"color": "dim|0.37316 gray|0.37316 dim|0.37316 grey|0.37316 gray|0.29213 grey|0.29213 dark|0.17807 gray|0.17807 dark|0.17807 grey|0.17807 silver|0.073447 light|0.036721 gray|0.036721 light|0.036721 grey|0.036721 gainsboro|0.025977 white|0.0052144 smoke|0.0052144  "
+		}
+	}
+}

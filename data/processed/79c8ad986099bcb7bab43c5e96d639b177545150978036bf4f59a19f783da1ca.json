@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "79c8ad986099bcb7bab43c5e96d639b177545150978036bf4f59a19f783da1ca",
+			"url": "https://upload.wikimedia.org/math/2/2/0/220a07ebbda1f123bb92e376de6c6d95.png",
+			"previous": [
+				"We can use this functional equation to prove that g, given by",
+				"Let us now assume that n > 0 and p(z)Â = a0Â +Â a1zÂ +Â âââÂ +Â anzn â  0 for each complex number z. Let us define p*(z)Â = znp(1/z)Â = a0znÂ +Â a1znâ1Â +Â âââÂ +Â an. Obviously, p*(z)Â â  0 for all z in C. Consider the polynomial f(z)Â =Â p(z)p*(z). Then f(z)Â â  0 for each z in C. Furthermore,"
+			],
+			"after": [
+				"for w in C, and",
+				"for wÂ âÂ S2\\{0}, is a well defined Riemannian metric over the sphere S2 (which we identify with the extended complex plane CÂ âªÂ {â})."
+			],
+			"color": "black|0.26013 dim|0.25214 gray|0.25214 dim|0.25214 grey|0.25214 gray|0.18879 grey|0.18879 dark|0.14391 gray|0.14391 dark|0.14391 grey|0.14391 silver|0.076908 light|0.038828 gray|0.038828 light|0.038828 grey|0.038828 gainsboro|0.029117  "
+		}
+	}
+}

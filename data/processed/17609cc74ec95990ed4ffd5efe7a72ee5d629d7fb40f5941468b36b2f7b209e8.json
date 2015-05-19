@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "17609cc74ec95990ed4ffd5efe7a72ee5d629d7fb40f5941468b36b2f7b209e8",
+			"url": "https://upload.wikimedia.org/math/f/c/3/fc324f87a4dfee53c34a252f5c7d8004.png",
+				"previous": "Depending on the choice of coefficients , this series may converge everywhere, nowhere, or on some half plane. In many cases, even where the series does not converge everywhere, the holomorphic function it defines may be analytically continued to a meromorphic function on the entire complex plane. The utility of functions like this in multiplicative problems can be seen in the formal identity",
+				"after": "hence the coefficients of the product of two Dirichlet series are the multiplicative convolutions of the original coefficients. Furthermore, techniques such as partial summation and Tauberian theorems can be used to get information about the coefficients from analytic information about the Dirichlet series. Thus a common method for estimating a multiplicative function is to express it as a Dirichlet series (or a product of simpler Dirichlet series using convolution identities), examine this series as a complex function and then convert this analytic information back into information about the original function.",
+			"color": "gray|0.29044 grey|0.29044 dark|0.24731 gray|0.24731 dark|0.24731 grey|0.24731 dim|0.24096 gray|0.24096 dim|0.24096 grey|0.24096 silver|0.11527 light|0.047535 gray|0.047535 light|0.047535 grey|0.047535 gainsboro|0.033533 white|0.0059133 smoke|0.0059133 linen|0.0029018 lavender|0.0027567 blush|0.0027567 alice|0.0026717 blue|0.0026717  "
+		}
+	}
+}

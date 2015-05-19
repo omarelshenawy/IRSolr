@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8016479a6010e8d08fead7d55db9aff6d1575525a00fd87d441727ec45a1778c",
+			"url": "https://upload.wikimedia.org/math/8/e/6/8e6ba967645c302e1f2a60ec9c341e5c.png",
+				"previous": "The variational problem also applies to more general boundary conditions. Instead of requiring that Ï vanish at the endpoints, we may not impose any condition at the endpoints, and set",
+				"after": "where Î» is given by the ratio as previously. After integration by parts,",
+			"color": "dark|0.29357 gray|0.29357 dark|0.29357 grey|0.29357 gray|0.22842 grey|0.22842 silver|0.20678 light|0.11574 gray|0.11574 light|0.11574 grey|0.11574 gainsboro|0.087028 dim|0.063901 gray|0.063901 dim|0.063901 grey|0.063901  "
+		}
+	}
+}

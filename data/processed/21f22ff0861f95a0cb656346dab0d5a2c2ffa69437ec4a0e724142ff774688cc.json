@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "21f22ff0861f95a0cb656346dab0d5a2c2ffa69437ec4a0e724142ff774688cc",
+			"url": "https://upload.wikimedia.org/math/e/c/4/ec488a2930cb1c4977f286995bede389.png",
+			"previous": [
+				"Equivalently, it is eight times the sum of all its divisors which are not divisible by 4, i.e.",
+				"The number of representations of a natural number n as the sum of four squares is denoted by r4(n). Jacobi's four-square theorem states that this is eight times the sum of the divisors of n if n is odd and 24 times the sum of the odd divisors of n if n is even (see divisor function), i.e."
+			],
+			"after": [
+				"We may also write this as",
+				"where the second term is to be taken as zero if n is not divisible by 4. In particular, for a prime number p we have the explicit formulaÂ r4(p)Â =Â 8(pÂ +Â 1).[10]"
+			],
+			"color": "dim|0.33472 gray|0.33472 dim|0.33472 grey|0.33472 gray|0.29208 grey|0.29208 dark|0.21613 gray|0.21613 dark|0.21613 grey|0.21613 silver|0.079346 light|0.035166 gray|0.035166 light|0.035166 grey|0.035166 gainsboro|0.024114 white|0.0046067 smoke|0.0046067  "
+		}
+	}
+}

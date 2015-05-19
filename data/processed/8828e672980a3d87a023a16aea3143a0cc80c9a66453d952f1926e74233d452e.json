@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8828e672980a3d87a023a16aea3143a0cc80c9a66453d952f1926e74233d452e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wikimedia_Server_Architecture_%28simplified%29.svg/300px-Wikimedia_Server_Architecture_%28simplified%29.svg.png",
+			"previous": [
+				"",
+				"LVS is a free and open-source project started by Wensong Zhang in May 1998, subject to the requirements of the GNU General Public License (GPL), version 2. The mission of the project is to build a high-performance and highly available server for Linux using clustering technology, which provides good scalability, reliability and serviceability."
+			],
+			"after": [
+				"The major work of the LVS project is now to develop advanced IP load balancing software (IPVS), application-level load balancing software (KTCPVS), and cluster management components.",
+				"LVS can be used for building highly scalable and highly available network services, such as web, email, media and VoIP services, and integrating scalable network services into large-scale reliable e-commerce or e-government applications. LVS-based solutions already have been deployed in many real applications throughout the world, including Wikipedia."
+			],
+			"color": "aqua|0.18386 cyan|0.18386 purple|0.15614 blue|0.13604 lime|0.12949 light|0.035656 sea|0.035656 green|0.035656 yellow|0.031922 dark|0.020513 cyan|0.020513 turquoise|0.02023 cadet|0.016774 blue|0.016774 teal|0.01447 medium|0.012288 blue|0.012288 lime|0.010351 green|0.010351 medium|0.0092772 turquoise|0.0092772 dark|0.0088153 sea|0.0088153 green|0.0088153 dark|0.0070734 turquoise|0.0070734 red|0.0068118 rosy|0.0036063 brown|0.0036063 forest|0.0031054 green|0.0031054  "
+		}
+	}
+}

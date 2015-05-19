@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f058d68e68f7f38c55539ba9296eeb0242fbd1d624708d5b49e099d20549edc",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/NYW-confidence-interval.svg/300px-NYW-confidence-interval.svg.png",
+				"previous": "Instead, every time the measurements are repeated, there will be another value for the meanÂ X of the sample. In 95% of the cases Î¼ will be between the endpoints calculated from this mean, but in 5% of the cases it will not be. The actual confidence interval is calculated by entering the measured masses in the formula. Our 0.95 confidence interval becomes:",
+			"after": [
+				"In other words, the 95% confidence interval is between the lower endpoint 249.22 g and the upper endpoint 251.18 g.",
+				"As the desired value 250 of Î¼ is within the resulted confidence interval, there is no reason to believe the machine is wrongly calibrated."
+			],
+			"color": "white|0.08858 snow|0.087902 floral|0.087887 white|0.087887 mint|0.087243 cream|0.087243 white|0.087023 smoke|0.087023 ghost|0.086265 white|0.086265 sea|0.08581 shell|0.08581 azure|0.085122 alice|0.083998 blue|0.083998 lavender|0.076567 blush|0.076567 medium|0.047972 blue|0.047972 lavender|0.030229 ivory|0.017368 medium|0.0096752 slate|0.0096752 blue|0.0096752 old|0.0091285 lace|0.0091285 honeydew|0.0080052 slate|0.0075563 blue|0.0075563 royal|0.0042438 blue|0.0042438  "
+		}
+	}
+}

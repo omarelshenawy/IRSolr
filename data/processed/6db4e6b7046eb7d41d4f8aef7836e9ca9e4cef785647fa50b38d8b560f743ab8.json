@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6db4e6b7046eb7d41d4f8aef7836e9ca9e4cef785647fa50b38d8b560f743ab8",
+			"url": "https://upload.wikimedia.org/math/0/0/7/00799b185302341d53d975633fa34d9e.png",
+				"previous": "Another way to approach the problem is to linearize any nonlinearities (the sine function term in this case) at the various points of interest through Taylor expansions. For example, the linearization at , called the small angle approximation, is",
+				"after": "since for . The solution to this problem involves hyperbolic sinusoids, and note that unlike the small angle approximation, this approximation is unstable, meaning that will usually grow without limit, though bounded solutions are possible. This corresponds to the difficulty of balancing a pendulum upright, it is literally an unstable state.",
+			"color": " "
+		}
+	}
+}

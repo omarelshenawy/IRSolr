@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6dcce147a68f33205d5c046175a01950c7839387da23a6a19b8937e9b7abb30c",
+			"url": "https://upload.wikimedia.org/math/4/1/e/41ed77c9bab7e8d949e2376e38b989a3.png",
+				"previous": "In analytic geometry, a sphere with center (x0, y0, z0) and radius r is the locus of all points (x, y, z) such that",
+			"after": [
+				"The points on the sphere with radius r can be parameterized via",
+				"A sphere of any radius centered at zero is an integral surface of the following differential form:"
+			],
+			"color": "dim|0.39434 gray|0.39434 dim|0.39434 grey|0.39434 gray|0.27667 grey|0.27667 dark|0.16785 gray|0.16785 dark|0.16785 grey|0.16785 silver|0.078518 light|0.038584 gray|0.038584 light|0.038584 grey|0.038584 gainsboro|0.027428 white|0.0042714 smoke|0.0042714  "
+		}
+	}
+}

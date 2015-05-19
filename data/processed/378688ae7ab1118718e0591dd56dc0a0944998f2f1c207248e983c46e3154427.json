@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "378688ae7ab1118718e0591dd56dc0a0944998f2f1c207248e983c46e3154427",
+			"url": "https://upload.wikimedia.org/math/0/1/d/01d09c649abc4ff78a7d12f40ecca58e.png",
+				"previous": "Let be a set of basis vectors that span an n-dimensional vector space. From geometric algebra, we interpret the pseudoscalar to be the signed volume of the n-parallelotope subtended by these basis vectors. If the basis vectors are orthonormal, then this is the unit pseudoscalar.",
+				"after": "Even more generally, we may consider a new set of vectors proportional to the k basis vectors, where each of the is a component that scales one of the basis vectors. We are free to choose components as infinitesimally small as we wish as long as they remain nonzero. Since the outer product of these terms can be interpreted as a k-volume, a natural way to define a measure is",
+			"color": "dim|0.4116 gray|0.4116 dim|0.4116 grey|0.4116 gray|0.28609 grey|0.28609 dark|0.1641 gray|0.1641 dark|0.1641 grey|0.1641 silver|0.056369 black|0.02934 light|0.025073 gray|0.025073 light|0.025073 grey|0.025073 gainsboro|0.016276  "
+		}
+	}
+}

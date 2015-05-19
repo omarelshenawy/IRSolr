@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "65b7858eae18835f9ba875edcea098678660ae36b8605edb6a0d7f3dc9a869ea",
+			"url": "https://upload.wikimedia.org/math/a/8/6/a863ce8902333b36e8421e9757786410.png",
+			"previous": [
+				"Using continuous compounding yields the following formulas for various instruments:",
+				"Indeed, a key reason for using continuous compounding is to simplify the analysis of varying discount rates and to allow one to use the tools of calculus. Further, for interest accrued and capitalized overnight (hence compounded daily), continuous compounding is a close approximation for the actual daily compounding. More sophisticated analysis includes the use of differential equations, as detailed below."
+			],
+			"after": [
+				"These formulas assume that payment A is made in the first payment period and annuity ends at time t.[9]",
+				"Ordinary and partial differential equations (ODEs and PDEs) â equations involving derivatives and one (respectively, multiple) variables are ubiquitous in more advanced treatments of financial mathematics. While time value of money can be understood without using the framework of differential equations, the added sophistication sheds additional light on time value, and provides a simple introduction before considering more complicated and less familiar situations. This exposition follows (Carr & Flesaker 2006, pp. 6â7)."
+			],
+			"color": "dim|0.39104 gray|0.39104 dim|0.39104 grey|0.39104 gray|0.2609 grey|0.2609 dark|0.18037 gray|0.18037 dark|0.18037 grey|0.18037 silver|0.085139 light|0.041808 gray|0.041808 light|0.041808 grey|0.041808 gainsboro|0.028174  "
+		}
+	}
+}

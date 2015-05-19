@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b58b392b82106dd7fefce7a3d5eab461deb91a9aeb0db5bc7457f7fc2724be8",
+			"url": "https://upload.wikimedia.org/math/d/7/9/d7959a1a4e5af0c29600d66a7fac615b.png",
+				"previous": "Decryption is performed similarly,",
+				"after": "(There are different definitions for the modulo operation. In the above, the result is in the range 0...25. I.e., if x+n or x-n are not in the range 0...25, we have to subtract or add 26.)",
+			"color": "dim|0.40251 gray|0.40251 dim|0.40251 grey|0.40251 gray|0.27369 grey|0.27369 dark|0.17018 gray|0.17018 dark|0.17018 grey|0.17018 silver|0.07355 light|0.037546 gray|0.037546 light|0.037546 grey|0.037546 gainsboro|0.026662 white|0.0041214 smoke|0.0041214  "
+		}
+	}
+}

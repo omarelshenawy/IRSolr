@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "97362420b450a7661a551aed170db8309c8957bc434bc692408c85a97594eef0",
+			"url": "https://upload.wikimedia.org/math/3/9/3/3930bc9c3b4898d45f3ed13600202c8e.png",
+				"previous": "Consider an oriented link diagram, i.e. one in which every component of the link has a preferred direction indicated by an arrow. For a given crossing of the diagram, let be the oriented link diagrams resulting from changing the diagram as indicated in the figure:",
+				"after": "The second rule is what is often referred to as a skein relation. To check that these rules give an invariant of an oriented link, one should determine that the polynomial does not change under the three Reidemeister moves. Many important knot polynomials can be defined in this way.",
+			"color": "dim|0.36675 gray|0.36675 dim|0.36675 grey|0.36675 gray|0.27379 grey|0.27379 dark|0.17864 gray|0.17864 dark|0.17864 grey|0.17864 silver|0.087939 light|0.044274 gray|0.044274 light|0.044274 grey|0.044274 gainsboro|0.031824 white|0.0051203 smoke|0.0051203 linen|0.0026237  "
+		}
+	}
+}

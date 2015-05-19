@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9eef54299b534c8d8d7fe47641de381080636bc3e2826738c5be16d87a4c8b27",
+			"url": "https://upload.wikimedia.org/math/6/4/4/6447d7dcce4a21ba4a1e53b16605dde3.png",
+				"previous": "Statistical mixtures of states are different from a linear combination. A statistical mixture of states is a statistical ensemble of independent systems. Statistical mixtures represent the degree of knowledge whilst the uncertainty within quantum mechanics is fundamental. Mathematically, a statistical mixture is not a combination using complex coefficients, but rather a combination using real-valued, positive probabilities of different states . A number represents the probability of a randomly selected system being in the state . Unlike the linear combination case each system is in a definite eigenstate.[5][6]",
+				"after": "There is no state which is simultaneously an eigenstate for all observables. For example, we cannot prepare a state such that both the position measurement Q(t) and the momentum measurement P(t) (at the same time t) are known exactly; at least one of them will have a range of possible values.[a] This is the content of the Heisenberg uncertainty relation.",
+			"color": "gray|0.30659 grey|0.30659 dark|0.2837 gray|0.2837 dark|0.2837 grey|0.2837 dim|0.16475 gray|0.16475 dim|0.16475 grey|0.16475 silver|0.12389 light|0.057755 gray|0.057755 light|0.057755 grey|0.057755 gainsboro|0.039317 white|0.0059335 smoke|0.0059335 linen|0.0030726 lavender|0.002584 blush|0.002584  "
+		}
+	}
+}

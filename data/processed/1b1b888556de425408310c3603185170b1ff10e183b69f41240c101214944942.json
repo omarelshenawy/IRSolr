@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b1b888556de425408310c3603185170b1ff10e183b69f41240c101214944942",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hydrogen_Density_Plots.png/450px-Hydrogen_Density_Plots.png",
+			"previous": [],
+				"after": "In the mathematical formulation of quantum mechanics, pure quantum states correspond to vectors in a Hilbert space, while each observable quantity (such as the energy or momentum of a particle) is associated with a mathematical operator. The operator serves as a linear function which acts on the states of the system. The eigenvalues of the operator correspond to the possible values of the observable, i.e. it is possible to observe a particle with a momentum of 1Â kgâm/s if and only if one of the eigenvalues of the momentum operator is 1Â kgâm/s. The corresponding eigenvector (which physicists call an \"eigenstate\") with eigenvalue 1Â kgâm/s would be a quantum state with a definite, well-defined value of momentum of 1Â kgâm/s, with no quantum uncertainty. If its momentum were measured, the result is guaranteed to be 1Â kgâm/s.",
+			"color": "dark|0.16307 orange|0.16307 orange|0.095762 black|0.052207 floral|0.043647 white|0.043647 sea|0.04245 shell|0.04245 mint|0.040937 cream|0.040937 white|0.04075 smoke|0.04075 snow|0.040441 white|0.040176 azure|0.037228 ghost|0.03704 white|0.03704 alice|0.036108 blue|0.036108 lavender|0.032349 blush|0.032349 khaki|0.032263 pale|0.024835 golden|0.024835 rod|0.024835 dark|0.019724 gray|0.019724 dark|0.019724 grey|0.019724 ivory|0.013287 moccasin|0.012845 silver|0.012514 gray|0.012001 grey|0.012001 sandy|0.011219 brown|0.011219 navajo|0.0097135 white|0.0097135 lemon|0.0095769 chiffon|0.0095769 old|0.009417 lace|0.009417 light|0.0090648 gray|0.0090648 light|0.0090648 grey|0.0090648 dim|0.0088478 gray|0.0088478 dim|0.0088478 grey|0.0088478 corn|0.0086613 silk|0.0086613 linen|0.0083166 beige|0.0080276 light|0.0075102 golden|0.0075102 rod|0.0075102 yellow|0.0075102 light|0.00744 yellow|0.00744 gainsboro|0.0073981 wheat|0.0073801 papaya|0.007259 whip|0.007259 blanched|0.0071354 almond|0.0071354 chocolate|0.0068925  "
+		}
+	}
+}

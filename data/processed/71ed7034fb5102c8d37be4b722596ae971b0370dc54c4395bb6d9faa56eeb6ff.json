@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "71ed7034fb5102c8d37be4b722596ae971b0370dc54c4395bb6d9faa56eeb6ff",
+			"url": "https://upload.wikimedia.org/math/0/a/d/0ad1722d4854b0beae715b909f2988ee.png",
+			"previous": [
+				"The isentropic efficiency is found by dividing the actual work by the ideal work.[22]",
+				"To measure how well a turbine is performing we can look at its isentropic efficiency. This compares the actual performance of the turbine with the performance that would be achieved by an ideal, isentropic, turbine.[22] When calculating this efficiency, heat lost to the surroundings is assumed to be zero. The starting pressure and temperature is the same for both the actual and the ideal turbines, but at turbine exit the energy content ('specific enthalpy') for the actual turbine is greater than that for the ideal turbine because of irreversibility in the actual turbine. The specific enthalpy is evaluated at the same pressure for the actual and ideal turbines in order to give a good comparison between the two."
+			],
+				"after": "where",
+			"color": "dim|0.30105 gray|0.30105 dim|0.30105 grey|0.30105 gray|0.29047 grey|0.29047 dark|0.20672 gray|0.20672 dark|0.20672 grey|0.20672 silver|0.096419 light|0.047013 gray|0.047013 light|0.047013 grey|0.047013 gainsboro|0.033979 white|0.0057883 smoke|0.0057883 linen|0.0032574  "
+		}
+	}
+}

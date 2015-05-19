@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "88e8116755c044454beb6f334395023c28825f1875bdda72f3704f5e91c69bd8",
+			"url": "https://upload.wikimedia.org/math/b/2/e/b2eba0d1b3e2d7edd17220cf0376d175.png",
+			"previous": [
+				"This integral equation can by solved for , after replacing x by",
+				"Since there is no flow normal to the curved surface of the airfoil, balances that from the component of main flow , which is locally normal to the plate â the main flow is locally inclined to the plate by an angle . That is:"
+			],
+			"after": [
+				"as a Fourier series in with a modified lead term",
+				"That is"
+			],
+			"color": "dim|0.36023 gray|0.36023 dim|0.36023 grey|0.36023 gray|0.29359 grey|0.29359 dark|0.17982 gray|0.17982 dark|0.17982 grey|0.17982 silver|0.079375 light|0.040838 gray|0.040838 light|0.040838 grey|0.040838 gainsboro|0.028821 white|0.0044399 smoke|0.0044399  "
+		}
+	}
+}

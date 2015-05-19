@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0c21a954fdc345689ac21653a78f247bcd29b8db480192bae9974d8e4ae82dd2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sum_of_knots3.svg/220px-Sum_of_knots3.svg.png",
+			"previous": [],
+				"after": "Two knots can be added by cutting both knots and joining the pairs of ends. The operation is called the knot sum, or sometimes the connected sum or composition of two knots. This can be formally defined as follows (Adams 2004): consider a planar projection of each knot and suppose these projections are disjoint. Find a rectangle in the plane where one pair of opposite sides are arcs along each knot while the rest of the rectangle is disjoint from the knots. Form a new knot by deleting the first pair of opposite sides and adjoining the other pair of opposite sides. The resulting knot is a sum of the original knots. Depending on how this is done, two different knots (but no more) may result. This ambiguity in the sum can be eliminated regarding the knots as oriented, i.e. having a preferred direction of travel along the knot, and requiring the arcs of the knots in the sum are oriented consistently with the oriented boundary of the rectangle.",
+			"color": " "
+		}
+	}
+}

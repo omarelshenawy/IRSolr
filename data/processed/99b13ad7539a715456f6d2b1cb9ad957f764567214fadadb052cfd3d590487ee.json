@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "99b13ad7539a715456f6d2b1cb9ad957f764567214fadadb052cfd3d590487ee",
+			"url": "https://upload.wikimedia.org/math/1/5/e/15ee19c58d8bb3fc87a7aa4d7a3617ed.png",
+				"previous": "The metric can be used for raising and lowering indices on vectors and tensors. Invariants can be constructed using the metric, the inner product of a 4-vector T with another 4-vector S is:",
+				"after": "Invariant means that it takes the same value in all inertial frames, because it is a scalar (0 rank tensor), and so no Î appears in its trivial transformation. The magnitude of the 4-vector T is the positive square root of the inner product with itself:",
+			"color": "dim|0.38995 gray|0.38995 dim|0.38995 grey|0.38995 gray|0.27336 grey|0.27336 dark|0.1462 gray|0.1462 dark|0.1462 grey|0.1462 silver|0.064448 black|0.056863 light|0.031455 gray|0.031455 light|0.031455 grey|0.031455 gainsboro|0.021783 white|0.0037929 smoke|0.0037929  "
+		}
+	}
+}

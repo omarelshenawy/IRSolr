@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "425c361288ae545300b1644a8f905b19226243037e1cdc88908e73e6db8844a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Soviet_artificial_horizon_AGP-2_-_shown_working.JPG/220px-Soviet_artificial_horizon_AGP-2_-_shown_working.JPG",
+				"previous": "The pitch angle is relative to the horizon. During instrument flight, the pilot must infer the total performance by using other instruments such as the airspeed indicator, altimeter, vertical speed indicator, directional gyro, turn rate indicator, and power instruments, e.g. an engine tachometer. \"Performance = Attitude + Power\".",
+				"after": "Most Russian-built aircraft have a somewhat different design. The background display is colored as in a Western instrument, but moves up and down only to indicate pitch. A symbol representing the aircraft (which is fixed in a Western instrument) rolls left or right to indicate bank angle.[2]",
+			"color": "dim|0.85085 gray|0.85085 dim|0.85085 grey|0.85085 gray|0.075151 grey|0.075151 black|0.063275  "
+		}
+	}
+}

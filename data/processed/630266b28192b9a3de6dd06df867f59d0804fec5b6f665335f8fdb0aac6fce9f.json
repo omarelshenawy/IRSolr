@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "630266b28192b9a3de6dd06df867f59d0804fec5b6f665335f8fdb0aac6fce9f",
+			"url": "https://upload.wikimedia.org/math/b/0/1/b0142de66cdf9722e80704815a8005f5.png",
+			"previous": [
+				"Combining with the above identity, we get",
+				"In fact, choosing and dividing Equation (2) by we get"
+			],
+			"after": [
+				"and thus the roots are[30]",
+				"This formula involves only real terms if and the argument of the arccosine is between â1 and 1. The last condition is equivalent to which implies also . Thus the above formula for the roots involves only real terms if and only if the three roots are real."
+			],
+			"color": "gray|0.30702 grey|0.30702 dim|0.30356 gray|0.30356 dim|0.30356 grey|0.30356 dark|0.21694 gray|0.21694 dark|0.21694 grey|0.21694 silver|0.088634 light|0.040147 gray|0.040147 light|0.040147 grey|0.040147 gainsboro|0.028391 white|0.0038425 smoke|0.0038425  "
+		}
+	}
+}

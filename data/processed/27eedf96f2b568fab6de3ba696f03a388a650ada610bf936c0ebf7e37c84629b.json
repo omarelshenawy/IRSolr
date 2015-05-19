@@ -1,0 +1,16 @@
+{
+	"add": {
+		"doc": {
+			"id": "27eedf96f2b568fab6de3ba696f03a388a650ada610bf936c0ebf7e37c84629b",
+			"url": "https://upload.wikimedia.org/math/8/6/0/86009d53c1f55614a805171a0089d115.png",
+				"previous": "In the figure, across the propeller disc, velocities (C1 and C2) cannot change abruptly across the propeller disc as that will create a shockwave but the fan creates the pressure difference across the propeller disc.[1]",
+			"after": [
+				"On subtracting the above equations:[1]",
+				"Comparing this thrust with the axial thrust due to change in momentum of air flow, it is found that:[1]",
+				"A parameter 'a' is defined such that[1] -",
+				"Using the previous equation and \"a\", an expression for Cs comes out to be:"
+			],
+			"color": "dim|0.33435 gray|0.33435 dim|0.33435 grey|0.33435 gray|0.30328 grey|0.30328 dark|0.20216 gray|0.20216 dark|0.20216 grey|0.20216 silver|0.081135 light|0.035649 gray|0.035649 light|0.035649 grey|0.035649 gainsboro|0.025636 white|0.0045696 smoke|0.0045696  "
+		}
+	}
+}

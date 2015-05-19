@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "722d9734245a421d7182df13ff33f918b6d43572f27a382d4d591f42eb41775f",
+			"url": "https://upload.wikimedia.org/math/a/3/0/a30701972d1a348e35f2def11ec2d344.png",
+			"previous": [
+				"For example, let be the matrix",
+				"The left-hand side of this equation can be seen (using Leibniz' rule for the determinant) to be a polynomial function of the variable . The degree of this polynomial is , the order of the matrix. Its coefficients depend on the entries of , except that its term of degree is always . This polynomial is called the characteristic polynomial of ; and the above equation is called the characteristic equation (or, less often, the secular equation) of ."
+			],
+				"after": "The characteristic polynomial of is",
+			"color": "dim|0.3908 gray|0.3908 dim|0.3908 grey|0.3908 gray|0.20323 grey|0.20323 dark|0.13907 gray|0.13907 dark|0.13907 grey|0.13907 black|0.13688 silver|0.072357 light|0.027191 gray|0.027191 light|0.027191 grey|0.027191 gainsboro|0.019711  "
+		}
+	}
+}

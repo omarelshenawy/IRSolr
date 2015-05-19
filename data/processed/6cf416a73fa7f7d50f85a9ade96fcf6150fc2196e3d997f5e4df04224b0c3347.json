@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cf416a73fa7f7d50f85a9ade96fcf6150fc2196e3d997f5e4df04224b0c3347",
+			"url": "https://upload.wikimedia.org/math/b/2/a/b2a6865301cdc438addafc92eb28c9f1.png",
+				"previous": "To prove this is true in general, suppose P is a polynomial of degree N having the property described, that is, it gives rise to an error function that has NÂ +Â 2 extrema, of alternating signs and equal magnitudes. The red graph to the right shows what this error function might look like for NÂ =Â 4. Suppose Q(x) (whose error function is shown in blue to the right) is another N-degree polynomial that is a better approximation to f than P. In particular, Q is closer to f than P for each value xi where an extreme of Pâf occurs, so",
+				"after": "When a maximum of Pâf occurs at xi, then",
+			"color": "gray|0.30165 grey|0.30165 dim|0.23431 gray|0.23431 dim|0.23431 grey|0.23431 dark|0.22416 gray|0.22416 dark|0.22416 grey|0.22416 silver|0.11861 light|0.062516 gray|0.062516 light|0.062516 grey|0.062516 gainsboro|0.042699 white|0.004362 smoke|0.004362  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f0633de08a406985bc006750854ccaead0e52f4aaf091d43267a36adb5767ac",
+			"url": "https://upload.wikimedia.org/math/b/6/1/b61baae6a5e4468e2ec1acc6483b843b.png",
+				"previous": "The difficulty with this reasoning is the assumption that the minimizing function u must have two derivatives. Riemann argued that the existence of a smooth minimizing function was assured by the connection with the physical problem: membranes do indeed assume configurations with minimal potential energy. Riemann named this idea the Dirichlet principle in honor of his teacher Peter Gustav Lejeune Dirichlet. However Weierstrass gave an example of a variational problem with no solution: minimize",
+				"after": "among all functions Ï that satisfy and W can be made arbitrarily small by choosing piecewise linear functions that make a transition between -1 and 1 in a small neighborhood of the origin. However, there is no function that makes W=0. The resulting controversy over the validity of Dirichlet's principle is explained in http://turnbull.mcs.st-and.ac.uk/~history/Biographies/Riemann.html . Eventually it was shown that Dirichlet's principle is valid, but it requires a sophisticated application of the regularity theory for elliptic partial differential equations; see Jost and Li-Jost (1998).",
+			"color": "dim|0.32239 gray|0.32239 dim|0.32239 grey|0.32239 gray|0.28649 grey|0.28649 dark|0.19447 gray|0.19447 dark|0.19447 grey|0.19447 silver|0.088804 light|0.048821 gray|0.048821 light|0.048821 grey|0.048821 gainsboro|0.034732 white|0.0057808 smoke|0.0057808 linen|0.0040211 lavender|0.0037221 blush|0.0037221  "
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fd1b5c483178a66e728841a6d9c515b8489c1e3747cb6652b525689e6edd81e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wasserstoffeinf%C3%BCllstutzen_eines_BMW.jpg/220px-Wasserstoffeinf%C3%BCllstutzen_eines_BMW.jpg",
+				"previous": "A fuel tank (or petrol tank) is a safe container for flammable fluids. Though any storage tank for fuel may be so called, the term is typically applied to part of an engine system in which the fuel is stored and propelled (fuel pump) or released (pressurized gas) into an engine. Fuel tanks range in size and complexity from the small plastic tank of a butane lighter to the multi-chambered cryogenic Space Shuttle external tank.",
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "dark|0.33903 gray|0.33903 dark|0.33903 grey|0.33903 black|0.25801 dim|0.13687 gray|0.13687 dim|0.13687 grey|0.13687 gray|0.11506 grey|0.11506 silver|0.077361 light|0.025622 steel|0.025622 blue|0.025622 light|0.01873 gray|0.01873 light|0.01873 grey|0.01873 light|0.01124 slate|0.01124 gray|0.01124 slate|0.0073094 gray|0.0073094 gainsboro|0.006966  "
+		}
+	}
+}

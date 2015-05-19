@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1001a9889a647dafef49ef53073e276f4fc3d70fce74207ffba8296d5121fbeb",
+			"url": "https://upload.wikimedia.org/math/1/3/7/1375ce294cdd3ad482ff3db715a4cc4a.png",
+				"previous": "Succinate-Q oxidoreductase, also known as complex II or succinate dehydrogenase, is a second entry point to the electron transport chain.[23] It is unusual because it is the only enzyme that is part of both the citric acid cycle and the electron transport chain. Complex II consists of four protein subunits and contains a bound flavin adenine dinucleotide (FAD) cofactor, ironâsulfur clusters, and a heme group that does not participate in electron transfer to coenzyme Q, but is believed to be important in decreasing production of reactive oxygen species.[24][25] It oxidizes succinate to fumarate and reduces ubiquinone. As this reaction releases less energy than the oxidation of NADH, complex II does not transport protons across the membrane and does not contribute to the proton gradient.",
+				"after": "In some eukaryotes, such as the parasitic worm Ascaris suum, an enzyme similar to complex II, fumarate reductase (menaquinol:fumarate oxidoreductase, or QFR), operates in reverse to oxidize ubiquinol and reduce fumarate. This allows the worm to survive in the anaerobic environment of the large intestine, carrying out anaerobic oxidative phosphorylation with fumarate as the electron acceptor.[26] Another unconventional function of complex II is seen in the malaria parasite Plasmodium falciparum. Here, the reversed action of complex II as an oxidase is important in regenerating ubiquinol, which the parasite uses in an unusual form of pyrimidine biosynthesis.[27]",
+			"color": "dim|0.34071 gray|0.34071 dim|0.34071 grey|0.34071 gray|0.32061 grey|0.32061 dark|0.18334 gray|0.18334 dark|0.18334 grey|0.18334 silver|0.074728 light|0.035407 gray|0.035407 light|0.035407 grey|0.035407 gainsboro|0.024516 white|0.0043711 smoke|0.0043711  "
+		}
+	}
+}

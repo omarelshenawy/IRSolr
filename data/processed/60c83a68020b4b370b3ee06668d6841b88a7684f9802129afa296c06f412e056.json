@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "60c83a68020b4b370b3ee06668d6841b88a7684f9802129afa296c06f412e056",
+			"url": "https://upload.wikimedia.org/math/f/f/4/ff44570aca8241914870afbc310cdb85.png",
+			"previous": [
+				"It follows from this definition that an almost complex manifold is even-dimensional.",
+				"Complex differential geometry is the study of complex manifolds. An almost complex manifold is a real manifold , endowed with a tensor of type (1, 1), i.e. a vector bundle endomorphism (called an almost complex structure)"
+			],
+				"after": "An almost Hermitian structure defines naturally a differential two-form",
+			"color": " "
+		}
+	}
+}

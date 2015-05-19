@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "61b8310d2605d97514ccfde169a0aa52f8012f0c7b8280ca2d89f1408178ecba",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Space_Shuttle_vs_Soyuz_TM_-_to_scale_drawing.png/220px-Space_Shuttle_vs_Soyuz_TM_-_to_scale_drawing.png",
+			"previous": [
+				"",
+				"To extend the duration that orbiters could stay docked at the ISS, the Station-to-Shuttle Power Transfer System (SSPTS) was installed. The SSPTS allowed these orbiters to use power provided by the ISS to preserve their consumables. The SSPTS was first used successfully on STS-118."
+			],
+			"after": [
+				"Orbiter[62] (for Endeavour, OV-105)",
+				"External tank (for SLWT)"
+			],
+			"color": "black|0.4972 dim|0.21326 gray|0.21326 dim|0.21326 grey|0.21326 gray|0.16204 grey|0.16204 dark|0.084931 gray|0.084931 dark|0.084931 grey|0.084931 silver|0.025393 light|0.00813 gray|0.00813 light|0.00813 grey|0.00813 gainsboro|0.0049684  "
+		}
+	}
+}

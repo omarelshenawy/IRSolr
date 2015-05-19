@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3a4328ebf719e7d01035f608c47adfcbe6aa917efe7522d62215c729d6d0eff0",
+			"url": "https://upload.wikimedia.org/math/7/d/7/7d7b7b63d4aad1a2b0cfefc359ed6816.png",
+			"previous": [
+				"the Fourier transform is:",
+				"at some initial time t = 0, where the central wavelength is related to the central wave vector k0 as Î»0 = 2Ï / k0. It is well known from the theory of Fourier analysis,[33] or from the Heisenberg uncertainty principle (in the case of quantum mechanics) that a narrow range of wavelengths is necessary to produce a localized wave packet, and the more localized the envelope, the larger the spread in required wavelengths. The Fourier transform of a Gaussian is itself a Gaussian.[34] Given the Gaussian:"
+			],
+			"after": [
+				"The Gaussian in space therefore is made up of waves:",
+				"that is, a number of waves of wavelengths Î» such that kÎ» = 2 Ï."
+			],
+			"color": "dim|0.33407 gray|0.33407 dim|0.33407 grey|0.33407 gray|0.29026 grey|0.29026 dark|0.19565 gray|0.19565 dark|0.19565 grey|0.19565 silver|0.082546 light|0.041164 gray|0.041164 light|0.041164 grey|0.041164 gainsboro|0.028954 white|0.0063698 smoke|0.0063698 linen|0.0033274 lavender|0.0029645 blush|0.0029645 alice|0.0028904 blue|0.0028904 ghost|0.0027565 white|0.0027565  "
+		}
+	}
+}

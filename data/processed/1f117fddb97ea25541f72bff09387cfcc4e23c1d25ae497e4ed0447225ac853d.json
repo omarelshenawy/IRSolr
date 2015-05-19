@@ -1,0 +1,42 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f117fddb97ea25541f72bff09387cfcc4e23c1d25ae497e4ed0447225ac853d",
+			"url": "https://upload.wikimedia.org/math/4/a/f/4af9ade59467846fc3855b75b09be2df.png",
+			"previous": [
+				"Combustor",
+				"",
+				"",
+				"",
+				"Compressor",
+				"",
+				"",
+				"",
+				"Intake",
+				"",
+				"",
+				"So:",
+				"Since the engine is static, both the flight velocity, and the flight Mach number, are zero",
+				"Freestream",
+				"(Use 518.67 Â°R, if working with American units)"
+			],
+			"after": [
+				"",
+				"Turbine",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Jetpipe",
+				"",
+				"",
+				"",
+				"",
+				"Is the nozzle choked? The nozzle is choked when the throat Mach number = 1.0. This occurs when the nozzle pressure ratio reaches or exceeds a critical level:"
+			],
+			"color": "dim|0.34508 gray|0.34508 dim|0.34508 grey|0.34508 gray|0.30551 grey|0.30551 dark|0.20217 gray|0.20217 dark|0.20217 grey|0.20217 silver|0.073236 light|0.034669 gray|0.034669 light|0.034669 grey|0.034669 gainsboro|0.023642 white|0.0039833 smoke|0.0039833  "
+		}
+	}
+}

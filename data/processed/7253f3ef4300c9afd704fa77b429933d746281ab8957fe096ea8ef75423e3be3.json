@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7253f3ef4300c9afd704fa77b429933d746281ab8957fe096ea8ef75423e3be3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Simple_feedback_control_loop2.svg/315px-Simple_feedback_control_loop2.svg.png",
+				"previous": "This is called a single-input-single-output (SISO) control system; MIMO (i.e., Multi-Input-Multi-Output) systems, with more than one input/output, are common. In such cases variables are represented through vectors instead of simple scalar values. For some distributed parameter systems the vectors may be infinite-dimensional (typically functions).",
+				"after": "If we assume the controller C, the plant P, and the sensor F are linear and time-invariant (i.e., elements of their transfer function C(s), P(s), and F(s) do not depend on time), the systems above can be analysed using the Laplace transform on the variables. This gives the following relations:",
+			"color": "white|0.093587 smoke|0.093587 snow|0.092729 ghost|0.09259 white|0.09259 white|0.092433 alice|0.09205 blue|0.09205 mint|0.091879 cream|0.091879 sea|0.091795 shell|0.091795 azure|0.091162 floral|0.091135 white|0.091135 lavender|0.087674 blush|0.087674 dim|0.018395 gray|0.018395 dim|0.018395 grey|0.018395 gray|0.014082 grey|0.014082 dark|0.013326 gray|0.013326 dark|0.013326 grey|0.013326 silver|0.0090338 light|0.0080878 gray|0.0080878 light|0.0080878 grey|0.0080878 black|0.0073256 gainsboro|0.0072447 ivory|0.0039082  "
+		}
+	}
+}

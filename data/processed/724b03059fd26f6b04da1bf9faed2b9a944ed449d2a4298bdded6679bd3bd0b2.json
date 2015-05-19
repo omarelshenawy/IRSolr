@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "724b03059fd26f6b04da1bf9faed2b9a944ed449d2a4298bdded6679bd3bd0b2",
+			"url": "https://upload.wikimedia.org/math/d/e/5/de5267e6c7ded9d37433839bee8c5b52.png",
+				"previous": "Yet another analytic proof uses the argument principle. Let R be a positive real number large enough so that every root of p(z) has absolute value smaller than R; such a number must exist because every non-constant polynomial function of degree n has at most n zeros. For each rÂ >Â R, consider the number",
+				"after": "where c(r) is the circle centered at 0 with radius r oriented counterclockwise; then the argument principle says that this number is the number N of zeros of p(z) in the open ball centered at 0 with radius r, which, since rÂ >Â R, is the total number of zeros of p(z). On the other hand, the integral of n/z along c(r) divided by 2Ïi is equal to n. But the difference between the two numbers is",
+			"color": "gray|0.30684 grey|0.30684 dark|0.26103 gray|0.26103 dark|0.26103 grey|0.26103 dim|0.19696 gray|0.19696 dim|0.19696 grey|0.19696 silver|0.11591 light|0.055952 gray|0.055952 light|0.055952 grey|0.055952 gainsboro|0.038086 white|0.0065799 smoke|0.0065799 linen|0.0036384 lavender|0.0027772 blush|0.0027772 alice|0.0026653 blue|0.0026653  "
+		}
+	}
+}

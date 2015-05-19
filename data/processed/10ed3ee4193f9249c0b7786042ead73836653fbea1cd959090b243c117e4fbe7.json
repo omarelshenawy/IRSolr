@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "10ed3ee4193f9249c0b7786042ead73836653fbea1cd959090b243c117e4fbe7",
+			"url": "https://upload.wikimedia.org/math/1/e/7/1e71a42d562fb7b15c36745f0e03b041.png",
+				"previous": "Substituting the values for the semi-major axis and eccentricity of the WGS84 ellipsoid gives",
+				"after": "The perimeter of a meridian ellipse is . Therefore is the radius of the circle whose circumference is the same as the perimeter of a meridian ellipse. This defines the mean Earth radius as .",
+			"color": "dim|0.38346 gray|0.38346 dim|0.38346 grey|0.38346 gray|0.29272 grey|0.29272 dark|0.18045 gray|0.18045 dark|0.18045 grey|0.18045 silver|0.070209 light|0.033087 gray|0.033087 light|0.033087 grey|0.033087 gainsboro|0.023668 white|0.0043167 smoke|0.0043167  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "98fb2cd61ababeac951cc609b6b379f2e1926a31263e430e78df8e50dea46fd2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bash_screenshot.png/220px-Bash_screenshot.png",
+			"previous": [],
+				"after": "Since the commands available in command line interfaces can be numerous, complicated operations can be completed using a short sequence of words and symbols. This allows for greater efficiency and productivity once many commands are learned,[4][5][6] but reaching this level takes some time because the command words may not be easily discoverable or mnemonic. In addition, using the command line can become slow and error-prone for inexperienced users who need to enter very long commands comprising many parameters and/or several different filenames at once. WIMPs (\"window, icon, menu, pointing device\"), on the other hand, present the user with numerous widgets that represent and can trigger some of the system's available commands.",
+			"color": "black|0.99011 dim|0.0093975 gray|0.0093975 dim|0.0093975 grey|0.0093975  "
+		}
+	}
+}

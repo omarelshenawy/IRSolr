@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "367a6538e06f37481310130e6c1491195d157b9e53a5d61e7484c58fc412c683",
+			"url": "https://upload.wikimedia.org/math/1/a/a/1aaeb942fd2933a92fd60e17cf02069b.png",
+			"previous": [
+				"where it should say this:",
+				"BTW, there's a pretty bad typo in equation (3.122) in that book. It says"
+			],
+			"after": [
+				"Michael Hardy (talk) 18:11, 14 May 2015 (UTC)",
+				"Over a field, a square matrix is invertible if and only if it is full-rank (right?) So, I don't think \"full-rank\" is particularly useful for a square marrix. For a non-square matrix, a \"full-rank\", I think, has the usual meaning, meaning the rank (row rank) is the maximal possible; i.e., the matrix defines a surjection when it is viewed as a linear transformation. For example, to check the submersion theorem applies one checks if the Jacobian matrix has full-rank, meaning it is surjective; see for instance [5]. At least, this (full-rank = surjective) is how I use the term in my day life. -- Taku (talk) 19:41, 15 May 2015 (UTC)"
+			],
+			"color": "gray|0.32185 grey|0.32185 dim|0.26611 gray|0.26611 dim|0.26611 grey|0.26611 dark|0.2184 gray|0.2184 dark|0.2184 grey|0.2184 silver|0.09358 light|0.047048 gray|0.047048 light|0.047048 grey|0.047048 gainsboro|0.033121 white|0.005648 smoke|0.005648 linen|0.0026096  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1225ee0f7f1619aa0a6c942c01803aba4a87c3a4eb390b3f32d2705d18f72381",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Reliability_sequential_test_plan.png/300px-Reliability_sequential_test_plan.png",
+				"previous": "For repairable systems, it is obtained from failure rate and mean-time-to-repair (MTTR) and test interval. This measure may not be unique for a given system as this measure depends on the kind of demand. In addition to system level requirements, reliability requirements may be specified for critical subsystems. In most cases, reliability parameters are specified with appropriate statistical confidence intervals.",
+			"after": [
+				"The purpose of reliability testing is to discover potential problems with the design as early as possible and, ultimately, provide confidence that the system meets its reliability requirements.",
+				"Reliability testing may be performed at several levels and there are different types of testing. Complex systems may be tested at component, circuit board, unit, assembly, subsystem and system levels [20] [1] . (The test level nomenclature varies among applications.) For example, performing environmental stress screening tests at lower levels, such as piece parts or small assemblies, catches problems before they cause failures at higher levels. Testing proceeds during each level of integration through full-up system testing, developmental testing, and operational testing, thereby reducing program risk. However, testing does not mitigate unreliability risk."
+			],
+			"color": "red|0.40866 lime|0.39149 yellow|0.14583 lime|0.011051 green|0.011051 green|0.01005 dark|0.010046 red|0.010046 maroon|0.0091246 olive|0.005775 forest|0.0035654 green|0.0035654  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bb58d706c49b8d111f483c5ca07c9ca43a46f6577bdf5cfaea3a5de7510737d",
+			"url": "https://upload.wikimedia.org/math/7/f/0/7f0562b7361b94feb27ee472a1cbc253.png",
+			"previous": [
+				"Let R be a normalization integral",
+				"where Ï is restricted to functions that satisfy the boundary conditions"
+			],
+			"after": [
+				"where Î» is the quotient",
+				"It can be shown (see Gelfand and Fomin 1963) that the minimizing u has two derivatives and satisfies the EulerâLagrange equation. The associated Î» will be denoted by ; it is the lowest eigenvalue for this equation and boundary conditions. The associated minimizing function will be denoted by . This variational characterization of eigenvalues leads to the RayleighâRitz method: choose an approximating u as a linear combination of basis functions (for example trigonometric functions) and carry out a finite-dimensional minimization among such linear combinations. This method is often surprisingly accurate."
+			],
+			"color": "gray|0.29027 grey|0.29027 dark|0.28221 gray|0.28221 dark|0.28221 grey|0.28221 silver|0.13468 dim|0.13359 gray|0.13359 dim|0.13359 grey|0.13359 light|0.070447 gray|0.070447 light|0.070447 grey|0.070447 gainsboro|0.048989 white|0.009414 smoke|0.009414 linen|0.0043845 lavender|0.0043004 blush|0.0043004 alice|0.0042069 blue|0.0042069 ghost|0.0040355 white|0.0040355 sea|0.0038352 shell|0.0038352 snow|0.0036365 white|0.0026082  "
+		}
+	}
+}

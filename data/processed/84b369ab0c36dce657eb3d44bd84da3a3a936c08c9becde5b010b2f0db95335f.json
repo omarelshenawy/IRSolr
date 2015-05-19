@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "84b369ab0c36dce657eb3d44bd84da3a3a936c08c9becde5b010b2f0db95335f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Area_parallellogram_as_determinant.svg/220px-Area_parallellogram_as_determinant.svg.png",
+			"previous": [],
+				"after": "Matrices and matrix multiplication reveal their essential features when related to linear transformations, also known as linear maps. A real m-by-n matrix A gives rise to a linear transformation Rn â Rm mapping each vector x in Rn to the (matrix) product Ax, which is a vector in Rm. Conversely, each linear transformation f: Rn â Rm arises from a unique m-by-n matrix A: explicitly, the (i, j)-entry of A is the ith coordinate of f(ej), where ej = (0,...,0,1,0,...,0) is the unit vector with 1 in the jth position and 0 elsewhere. The matrix A is said to represent the linear map f, and A is called the transformation matrix of f.",
+			"color": "white|0.094892 snow|0.094859 white|0.094837 smoke|0.094837 mint|0.094612 cream|0.094612 ghost|0.094574 white|0.094574 alice|0.094198 blue|0.094198 sea|0.094031 shell|0.094031 azure|0.093586 floral|0.09337 white|0.09337 lavender|0.091976 blush|0.091976 silver|0.010684 light|0.010073 gray|0.010073 light|0.010073 grey|0.010073 dark|0.0084039 gray|0.0084039 dark|0.0084039 grey|0.0084039 gainsboro|0.008259 dim|0.0067205 gray|0.0067205 dim|0.0067205 grey|0.0067205 gray|0.0060391 grey|0.0060391 black|0.0055046  "
+		}
+	}
+}

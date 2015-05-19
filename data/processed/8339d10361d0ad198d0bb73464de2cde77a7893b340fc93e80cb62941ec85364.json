@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8339d10361d0ad198d0bb73464de2cde77a7893b340fc93e80cb62941ec85364",
+			"url": "https://upload.wikimedia.org/math/d/3/a/d3aa0dbf1ed23714563302de02e258d1.png",
+				"previous": "Let A be a set of N integers. Consider the set A + A = { m + n | m, n â A } consisting of all sums of two elements of A. Is A + A much larger than A? Barely larger? If A + A is barely larger than A, must A have plenty of arithmetic structure, for example, does A resemble an arithmetic progression?",
+				"after": "These questions are characteristic of arithmetic combinatorics. This is a presently coalescing field; it subsumes additive number theory (which concerns itself with certain very specific sets of arithmetic significance, such as the primes or the squares) and, arguably, some of the geometry of numbers, together with some rapidly developing new material. Its focus on issues of growth and distribution accounts in part for its developing links with ergodic theory, finite group theory, model theory, and other fields. The term additive combinatorics is also used; however, the sets being studied need not be sets of integers, but rather subsets of non-commutative groups, for which the multiplication symbol, not the addition symbol, is traditionally used; they can also be subsets of rings, in which case the growth of and Â· may be compared.",
+			"color": "black|0.46782 dim|0.25906 gray|0.25906 dim|0.25906 grey|0.25906 gray|0.14431 grey|0.14431 dark|0.07906 gray|0.07906 dark|0.07906 grey|0.07906 silver|0.028999 light|0.010829 gray|0.010829 light|0.010829 grey|0.010829 gainsboro|0.0067663  "
+		}
+	}
+}

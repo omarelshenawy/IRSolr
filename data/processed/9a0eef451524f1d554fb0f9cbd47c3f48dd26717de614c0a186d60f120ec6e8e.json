@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a0eef451524f1d554fb0f9cbd47c3f48dd26717de614c0a186d60f120ec6e8e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cyclic_ADP_ribose.svg/280px-Cyclic_ADP_ribose.svg.png",
+				"previous": "The coenzyme NAD+ is also consumed in ADP-ribose transfer reactions. For example, enzymes called ADP-ribosyltransferases add the ADP-ribose moiety of this molecule to proteins, in a posttranslational modification called ADP-ribosylation.[51] ADP-ribosylation involves either the addition of a single ADP-ribose moiety, in mono-ADP-ribosylation, or the transferral of ADP-ribose to proteins in long branched chains, which is called poly(ADP-ribosyl)ation.[52] Mono-ADP-ribosylation was first identified as the mechanism of a group of bacterial toxins, notably cholera toxin, but it is also involved in normal cell signaling.[53][54] Poly(ADP-ribosyl)ation is carried out by the poly(ADP-ribose) polymerases.[52][55] The poly(ADP-ribose) structure is involved in the regulation of several cellular events and is most important in the cell nucleus, in processes such as DNA repair and telomere maintenance.[55] In addition to these functions within the cell, a group of extracellular ADP-ribosyltransferases has recently been discovered, but their functions remain obscure.[56] NAD+ may also be added onto cellular RNA as a 5'-terminal modification.[57]",
+				"after": "Another function of this coenzyme in cell signaling is as a precursor of cyclic ADP-ribose, which is produced from NAD+ by ADP-ribosyl cyclases, as part of a second messenger system.[58] This molecule acts in calcium signaling by releasing calcium from intracellular stores.[59] It does this by binding to and opening a class of calcium channels called ryanodine receptors, which are located in the membranes of organelles, such as the endoplasmic reticulum.[60]",
+			"color": "black|0.45954 dim|0.2737 gray|0.2737 dim|0.2737 grey|0.2737 gray|0.2135 grey|0.2135 dark|0.048989 gray|0.048989 dark|0.048989 grey|0.048989 silver|0.0042668  "
+		}
+	}
+}

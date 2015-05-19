@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7d531db86119ab9d9f8b87bbb41fdcb9f0b5ba9b99b5d88dd35987017f616b",
+			"url": "https://upload.wikimedia.org/math/0/1/b/01b45805f45fc97e4d4934889a6c1117.png",
+				"previous": "A more general expression for the potential energy of a membrane is",
+				"after": "This corresponds to an external force density in D, an external force on the boundary C, and elastic forces with modulus acting on C. The function that minimizes the potential energy with no restriction on its boundary values will be denoted by u. Provided that f and g are continuous, regularity theory implies that the minimizing function u will have two derivatives. In taking the first variation, no boundary condition need be imposed on the increment v. The first variation of is given by",
+			"color": "dim|0.34667 gray|0.34667 dim|0.34667 grey|0.34667 gray|0.2803 grey|0.2803 dark|0.19644 gray|0.19644 dark|0.19644 grey|0.19644 silver|0.076217 light|0.041116 gray|0.041116 light|0.041116 grey|0.041116 gainsboro|0.030351 white|0.0071145 smoke|0.0071145 linen|0.0038572 lavender|0.00354 blush|0.00354 alice|0.0034946 blue|0.0034946 ghost|0.0034534 white|0.0034534 sea|0.0033592 shell|0.0033592  "
+		}
+	}
+}

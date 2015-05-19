@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f1b25b07e2d91667fb8047c50e7894122dee312dfe361d460ac6b4170369a5f",
+			"url": "https://upload.wikimedia.org/math/1/3/6/1368e3d958cd34a5e1b1a9915443c2f5.png",
+			"previous": [
+				"Hence if we know one root we can find the other two by using the quadratic formula to solve the quadratic , giving",
+				"If r is any root of the cubic, then we may factor out (xâr ) using polynomial long division to obtain"
+			],
+				"after": "for the other two roots.",
+			"color": "dim|0.35612 gray|0.35612 dim|0.35612 grey|0.35612 gray|0.27106 grey|0.27106 dark|0.18459 gray|0.18459 dark|0.18459 grey|0.18459 silver|0.095741 light|0.045834 gray|0.045834 light|0.045834 grey|0.045834 gainsboro|0.030066 white|0.0038576 smoke|0.0038576  "
+		}
+	}
+}

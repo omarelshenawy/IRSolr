@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "73ff0d1fc18c5afd9a38e689319dad793243ed53b8e8a41349b6d9e36a1e6552",
+			"url": "https://upload.wikimedia.org/math/4/0/c/40cad3cb0f9c592dbff074aca5816fe2.png",
+				"previous": "A number of coupled differential equations form a system of equations. If y is a vector whose elements are functions; y(x) = [y1(x), y2(x),..., ym(x)], and F is a vector valued function of y and its derivatives, then",
+				"after": "is an explicit system of ordinary differential equations of order or dimension m. In column vector form:",
+			"color": "dim|0.35846 gray|0.35846 dim|0.35846 grey|0.35846 gray|0.2963 grey|0.2963 dark|0.18126 gray|0.18126 dark|0.18126 grey|0.18126 silver|0.078708 light|0.03979 gray|0.03979 light|0.03979 grey|0.03979 gainsboro|0.028868 white|0.0042205 smoke|0.0042205  "
+		}
+	}
+}

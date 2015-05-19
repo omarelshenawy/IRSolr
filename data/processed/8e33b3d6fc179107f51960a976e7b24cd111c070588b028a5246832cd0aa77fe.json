@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e33b3d6fc179107f51960a976e7b24cd111c070588b028a5246832cd0aa77fe",
+			"url": "https://upload.wikimedia.org/math/0/d/c/0dc14b872ac4a2699d4ef5ba4e1b6dc7.png",
+				"previous": "As the first parenthesis vanishes in (3), we get and . Thus and are the two roots of the equation",
+			"after": [
+				"Solving this equation and using the fact that and may be exchanged, we find",
+				"As these expressions are real, their cube roots are well-defined and, like Cardano, we get"
+			],
+			"color": " "
+		}
+	}
+}

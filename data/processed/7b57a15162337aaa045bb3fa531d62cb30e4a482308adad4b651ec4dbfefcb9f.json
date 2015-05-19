@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b57a15162337aaa045bb3fa531d62cb30e4a482308adad4b651ec4dbfefcb9f",
+			"url": "https://upload.wikimedia.org/math/b/0/3/b030c30d5f9fd842ee39b626acfeafe0.png",
+				"previous": "There are two sources of heat input. The dominant source is the input of heat at the surface, primarily due to evaporation. The bulk aerodynamic formula for the rate of heat input per unit area at the surface, , is given by",
+				"after": "where represents the enthalpy difference between the ocean surface and the overlying air. The second source is the internal sensible heat generated from frictional dissipation (equal to ), which occurs near the surface within the tropical cyclone and is recycled to the system.",
+			"color": "dim|0.29352 gray|0.29352 dim|0.29352 grey|0.29352 gray|0.28826 grey|0.28826 dark|0.20707 gray|0.20707 dark|0.20707 grey|0.20707 silver|0.10855 light|0.052822 gray|0.052822 light|0.052822 grey|0.052822 gainsboro|0.034359 white|0.0037449 smoke|0.0037449  "
+		}
+	}
+}

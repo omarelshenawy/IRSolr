@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a33104703b73a0ab7105bb8c2331e10597ff9615b469e7f1a404ebf77fb4f92",
+			"url": "https://upload.wikimedia.org/math/d/3/0/d30c66507a7ac635fa295121ebd20de0.png",
+				"previous": "Geometrically, affine transformations (affinities) preserve collinearity: so they transform parallel lines into parallel lines and preserve ratios of distances along parallel lines.",
+				"after": "For example, the theorem from the plane geometry of triangles about the concurrence of the lines joining each vertex to the midpoint of the opposite side (at the centroid or barycenter) depends on the notions of mid-point and centroid as affine invariants. Other examples include the theorems of Ceva and Menelaus.",
+			"color": "dim|0.38052 gray|0.38052 dim|0.38052 grey|0.38052 gray|0.31205 grey|0.31205 dark|0.17549 gray|0.17549 dark|0.17549 grey|0.17549 silver|0.066333 light|0.032128 gray|0.032128 light|0.032128 grey|0.032128 gainsboro|0.0215 white|0.0031992 smoke|0.0031992  "
+		}
+	}
+}

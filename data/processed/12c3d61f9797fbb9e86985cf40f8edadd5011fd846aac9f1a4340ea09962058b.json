@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "12c3d61f9797fbb9e86985cf40f8edadd5011fd846aac9f1a4340ea09962058b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flash-Programming.svg/220px-Flash-Programming.svg.png",
+				"previous": "In NOR flash, each cell has one end connected directly to ground, and the other end connected directly to a bit line. This arrangement is called \"NOR flash\" because it acts like a NOR gate: when one of the word lines (connected to the cell's CG) is brought high, the corresponding storage transistor acts to pull the output bit line low. NOR flash continues to be the technology of choice for embedded applications requiring a discrete non-volatile memory device. The low read latencies characteristic of NOR devices allow for both direct code execution and data storage in a single memory product.[20]",
+			"after": [],
+			"color": "light|0.27091 gray|0.27091 light|0.27091 grey|0.27091 silver|0.26983 gainsboro|0.26773 black|0.054073 gray|0.025879 grey|0.025879 dim|0.023257 gray|0.023257 dim|0.023257 grey|0.023257 dark|0.021093 gray|0.021093 dark|0.021093 grey|0.021093 white|0.008796 smoke|0.008796 linen|0.0081035 lavender|0.0080611 blush|0.0080611 alice|0.0080457 blue|0.0080457 ghost|0.0080071 white|0.0080071 sea|0.0079777 shell|0.0079777 snow|0.0079745 white|0.0077317  "
+		}
+	}
+}

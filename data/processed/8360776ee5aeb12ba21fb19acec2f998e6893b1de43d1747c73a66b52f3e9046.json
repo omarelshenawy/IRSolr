@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8360776ee5aeb12ba21fb19acec2f998e6893b1de43d1747c73a66b52f3e9046",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/WGS_84_reference_frame.png/220px-WGS_84_reference_frame.png",
+			"previous": [],
+				"after": "In the early 1980s the need for a new world geodetic system was generally recognized by the geodetic community, also within the US Department of Defense. WGS 72 no longer provided sufficient data, information, geographic coverage, or product accuracy for all then-current and anticipated applications. The means for producing a new WGS were available in the form of improved data, increased data coverage, new data types and improved techniques. GRS 80 parameters together with available Doppler, satellite laser ranging and Very Long Baseline Interferometry (VLBI) observations constituted significant new information. An outstanding new source of data had become available from satellite radar altimetry. Also available was an advanced least squares method called collocation which allowed for a consistent combination solution from different types of measurements all relative to the Earth's gravity field, i.e. geoid, gravity anomalies, deflections, dynamic Doppler, etc.",
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8e07f2205dec518898a5b775c0384f17e39a77cda7b096e730f2ba6909799a0f",
+			"url": "https://upload.wikimedia.org/math/4/1/2/4129f3b5eb57a6b9e106e82ff2c5d398.png",
+			"previous": [
+				"",
+				"and depicts the loss in the relative velocity due to friction as the steam flows around the blades ( for smooth blades)."
+			],
+			"after": [
+				"is maximum when or, . That implies and therefore . Now (for a single stage impulse turbine)",
+				"Therefore the maximum value of stage efficiency is obtained by putting the value of in the expression of /"
+			],
+			"color": " "
+		}
+	}
+}

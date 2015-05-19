@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "149c0645d0dd1ec0a3d2688f5a58bb8fb1ed8f1144f50d5146bc3e595e21c1a7",
+			"url": "https://upload.wikimedia.org/math/9/5/3/953ac9c753916d7e49d5f300ce7efef9.png",
+			"previous": [
+				"We are given the following relations for heat/mass flux out of the surface of the plate",
+				"",
+				"And via the boundary conditions, it is known that",
+				""
+			],
+			"after": [
+				"",
+				"So for",
+				"",
+				"Where are the regions of flow where and are less than 99% of their far field values.[10]"
+			],
+			"color": "dim|0.34261 gray|0.34261 dim|0.34261 grey|0.34261 gray|0.29335 grey|0.29335 dark|0.18907 gray|0.18907 dark|0.18907 grey|0.18907 silver|0.083935 light|0.041699 gray|0.041699 light|0.041699 grey|0.041699 gainsboro|0.029719 white|0.0048852 smoke|0.0048852  "
+		}
+	}
+}

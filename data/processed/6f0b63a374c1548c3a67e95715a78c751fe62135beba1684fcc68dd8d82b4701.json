@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f0b63a374c1548c3a67e95715a78c751fe62135beba1684fcc68dd8d82b4701",
+			"url": "https://upload.wikimedia.org/math/2/6/1/2619f540ffde0bef03a9430d1f05daa8.png",
+				"previous": "For periodic functions, both the Fourier transform and the DTFT comprise only a discrete set of frequency components (Fourier series), and the transforms diverge at those frequencies. One common practice (not discussed above) is to handle that divergence via Dirac delta and Dirac comb functions. But the same spectral information can be discerned from just one cycle of the periodic function, since all the other cycles are identical. Similarly, finite-duration functions can be represented as a Fourier series, with no actual loss of information except that the periodicity of the inverse transform is a mere artifact. We also note that none of the formulas here require the duration of to be limited to the period, P or N. Â But that is a common situation, in practice.",
+				"after": "In the table below, associating the Â  scale factor with function Â  results in some notational simplification without loss of generality.",
+			"color": "black|0.29792 dim|0.22242 gray|0.22242 dim|0.22242 grey|0.22242 gray|0.20469 grey|0.20469 dark|0.18507 gray|0.18507 dark|0.18507 grey|0.18507 silver|0.067787 light|0.015139 gray|0.015139 light|0.015139 grey|0.015139 gainsboro|0.0069134  "
+		}
+	}
+}

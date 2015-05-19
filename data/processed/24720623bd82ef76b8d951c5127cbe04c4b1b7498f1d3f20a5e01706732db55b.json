@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "24720623bd82ef76b8d951c5127cbe04c4b1b7498f1d3f20a5e01706732db55b",
+			"url": "https://upload.wikimedia.org/math/8/8/9/8893a70f26799a17e3cdb51f8d5fcf6a.png",
+				"previous": "are known as Bernstein basis polynomials of degree n.",
+				"after": "The points Pi are called control points for the BÃ©zier curve. The polygon formed by connecting the BÃ©zier points with lines, starting with P0 and finishing with Pn, is called the BÃ©zier polygon (or control polygon). The convex hull of the BÃ©zier polygon contains the BÃ©zier curve.",
+			"color": " "
+		}
+	}
+}

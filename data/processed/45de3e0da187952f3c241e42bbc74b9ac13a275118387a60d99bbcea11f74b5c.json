@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "45de3e0da187952f3c241e42bbc74b9ac13a275118387a60d99bbcea11f74b5c",
+			"url": "https://upload.wikimedia.org/math/c/8/f/c8fa431ac26b3b1c3ac430ad931485bd.png",
+				"previous": "The function composition of two functions takes the output of one function as the input of a second one. More specifically, the composition of f with a function g:Â YÂ âÂ Z is the function defined by",
+				"after": "That is, the value of x is obtained by first applying f to x to obtain y = f(x) and then applying g to y to obtain z = g(y). In the notation , the function on the right, f, acts first and the function on the left, g acts second, reversing English reading order. The notation can be memorized by reading the notation as \"g of f\" or \"g after f\". The composition is only defined when the codomain of f is the domain of g. Assuming that, the composition in the opposite order need not be defined. Even if it is, i.e., if the codomain of f is the codomain of g, it is not in general true that",
+			"color": "dim|0.42591 gray|0.42591 dim|0.42591 grey|0.42591 gray|0.28074 grey|0.28074 dark|0.15696 gray|0.15696 dark|0.15696 grey|0.15696 silver|0.065485 light|0.032513 gray|0.032513 light|0.032513 grey|0.032513 gainsboro|0.022642 white|0.0043014 smoke|0.0043014  "
+		}
+	}
+}

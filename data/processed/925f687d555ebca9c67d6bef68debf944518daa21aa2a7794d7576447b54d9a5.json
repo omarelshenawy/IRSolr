@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "925f687d555ebca9c67d6bef68debf944518daa21aa2a7794d7576447b54d9a5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Spheroid.svg/250px-Spheroid.svg.png",
+			"previous": [
+				"",
+				"The word spheroid originally meant an approximately spherical body, admitting irregularities even beyond the bi- or tri-axial ellipsoidal shape, and that is how it is used in some older papers on geodesy (for example, referring to truncated spherical harmonic expansions of the Earth[1]). In case there is risk of confusion, it is beneficial to state for clarity the one definition intended."
+			],
+			"after": [
+				"The equation of a tri-axial ellipsoid centred at the origin with semi-axes a,b, c aligned along the coordinate axes is",
+				"The equation of a spheroid with Oz as the symmetry axis is given by setting a=b:"
+			],
+			"color": " "
+		}
+	}
+}

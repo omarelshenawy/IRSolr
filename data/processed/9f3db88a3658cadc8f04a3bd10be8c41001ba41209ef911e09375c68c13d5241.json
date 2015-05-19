@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f3db88a3658cadc8f04a3bd10be8c41001ba41209ef911e09375c68c13d5241",
+			"url": "https://upload.wikimedia.org/math/a/4/1/a41268bcca9bfcec458d198be7239ede.png",
+				"previous": "where the rows correspond to S1, S2, S3, S4 and S5, respectively. Note that the process of converting a reaction scheme into a stoichiometry matrix can be a lossy transformation, for example, the stoichiometries in the second reaction simplify when included in the matrix. This means that it is not always possible to recover the original reaction scheme from a stoichiometry matrix.",
+			"after": [],
+			"color": " "
+		}
+	}
+}

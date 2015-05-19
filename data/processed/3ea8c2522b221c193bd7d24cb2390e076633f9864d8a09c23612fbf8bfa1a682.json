@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ea8c2522b221c193bd7d24cb2390e076633f9864d8a09c23612fbf8bfa1a682",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CompassUseMapMarked.jpg/220px-CompassUseMapMarked.jpg",
+				"previous": "A similar process is used to calibrate the compass in light general aviation aircraft, with the compass deviation card often mounted permanently just above or below the magnetic compass on the instrument panel. Fluxgate electronic compasses can be calibrated automatically, and can also be programmed with the correct local compass variation so as to indicate the true heading.",
+				"after": "A magnetic compass points to magnetic north pole, which is approximately 1,000 miles from the true geographic North Pole. A magnetic compass's user can determine true North by finding the magnetic north and then correcting for variation and deviation. Variation is defined as the angle between the direction of true (geographic) north and the direction of the meridian between the magnetic poles. Variation values for most of the oceans had been calculated and published by 1914.[103] Deviation refers to the response of the compass to local magnetic fields caused by the presence of iron and electric currents; one can partly compensate for these by careful location of the compass and the placement of compensating magnets under the compass itself. Mariners have long known that these measures do not completely cancel deviation; hence, they performed an additional step by measuring the compass bearing of a landmark with a known magnetic bearing. They then pointed their ship to the next compass point and measured again, graphing their results. In this way, correction tables could be created, which would be consulted when compasses were used when traveling in those locations.",
+			"color": "dark|0.24204 gray|0.24204 dark|0.24204 grey|0.24204 silver|0.14676 gray|0.13392 grey|0.13392 light|0.081235 slate|0.081235 gray|0.081235 light|0.06706 gray|0.06706 light|0.06706 grey|0.06706 slate|0.06288 gray|0.06288 light|0.056084 steel|0.056084 blue|0.056084 dim|0.051014 gray|0.051014 dim|0.051014 grey|0.051014 gainsboro|0.035557 thistle|0.02437 rosy|0.022956 brown|0.022956 lavender|0.017458 red|0.0059123 brown|0.0053177 black|0.0043017 blue|0.0041794  "
+		}
+	}
+}

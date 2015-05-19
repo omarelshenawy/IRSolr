@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7de62fba8df37b9ec4ae565a6a31fa4d3867d00c03033433a4808c6b7e9d0b13",
+			"url": "https://upload.wikimedia.org/math/2/5/4/254426a8418662a6445d5fb77315c5a7.png",
+				"previous": "Note that this is a geometric series, with the initial value being a = C, the multiplicative factor being 1 + i, with n terms. Applying the formula for geometric series, we get",
+				"after": "Another simple and intuitive way to derive the future value of an annuity is to consider an endowment, whose interest is paid as the annuity, and whose principal remains constant. The principal of this hypothetical endowment can be computed as that whose interest equals the annuity payment amount:",
+			"color": "dim|0.4114 gray|0.4114 dim|0.4114 grey|0.4114 gray|0.28174 grey|0.28174 dark|0.17244 gray|0.17244 dark|0.17244 grey|0.17244 silver|0.067815 light|0.031516 gray|0.031516 light|0.031516 grey|0.031516 gainsboro|0.021487 white|0.0038259 smoke|0.0038259  "
+		}
+	}
+}

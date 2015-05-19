@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "78a9156177e6cf1c4a44f91f1699982756b18cc9ed87e735d12848ef8cc8fd73",
+			"url": "https://upload.wikimedia.org/math/f/0/7/f07fc27b747a044f7d66dbc2895a6858.png",
+			"previous": [],
+				"after": "We report here the proof of the above bounds, which is short and elementary. Let Î¶ be a root of the polynomial ; in order to prove the inequality |Î¶| â¤ Rp we can assume, of course, |Î¶| > 1. Writing the equation as , and using the HÃ¶lder's inequality we find . Now, if p = 1, this is , thus . In the case 1 < p â¤ â, taking into account the summation formula for a geometric progression, we have",
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e043b07abc53e10dff8619313b846e9ecdcfa2f1eb40adef9a0ca64aebb765e",
+			"url": "https://upload.wikimedia.org/math/5/8/2/5825c5ef77c33ba88c8a7503c20e2e40.png",
+			"previous": [
+				"and its moment M about the leading edge to",
+				"By the KuttaâJoukowski theorem, the total lift force F is proportional to"
+			],
+			"after": [
+				"The calculated Lift coefficient depends only on the first two terms of the Fourier series, as",
+				"The moment M about the leading edge depends only on and , as"
+			],
+			"color": "dim|0.34149 gray|0.34149 dim|0.34149 grey|0.34149 gray|0.29029 grey|0.29029 dark|0.19485 gray|0.19485 dark|0.19485 grey|0.19485 silver|0.085763 light|0.042575 gray|0.042575 light|0.042575 grey|0.042575 gainsboro|0.0292 white|0.0045858 smoke|0.0045858  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "40b9ed35ad4aa3b0bdf98262d717e61eb4e52e0307546db2cf0203454e1e8701",
+			"url": "https://upload.wikimedia.org/math/b/3/8/b3873dd5785b52972fb6197dced80654.png",
+			"previous": [
+				"The logistic map",
+				"See Topological conjugacy for more detail about the relationship between f and g. And see Complex quadratic polynomial for the chaotic behavior in the general iteration."
+			],
+				"after": "with parameter 2<r<4 can be solved in certain cases, one of which is chaotic and one of which is not. In the chaotic case r=4 the solution is",
+			"color": "dim|0.39408 gray|0.39408 dim|0.39408 grey|0.39408 gray|0.26756 grey|0.26756 dark|0.17222 gray|0.17222 dark|0.17222 grey|0.17222 silver|0.078883 light|0.041571 gray|0.041571 light|0.041571 grey|0.041571 gainsboro|0.02934 white|0.0043279 smoke|0.0043279  "
+		}
+	}
+}

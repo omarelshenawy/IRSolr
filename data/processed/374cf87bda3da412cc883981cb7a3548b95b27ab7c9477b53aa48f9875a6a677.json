@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "374cf87bda3da412cc883981cb7a3548b95b27ab7c9477b53aa48f9875a6a677",
+			"url": "https://upload.wikimedia.org/math/a/e/f/aef48e8c59e8fb75ac4dd6e0869ffdeb.png",
+				"previous": "The direct product of vector spaces and the direct sum of vector spaces are two ways of combining an indexed family of vector spaces into a new vector space.",
+				"after": "The tensor product V âF W, or simply V â W, of two vector spaces V and W is one of the central notions of multilinear algebra which deals with extending notions such as linear maps to several variables. A map gÂ : V Ã W â X is called bilinear if g is linear in both variables v and w. That is to say, for fixed w the map v â¦ g(v, w) is linear in the sense above and likewise for fixed v.",
+			"color": "black|0.50891 dim|0.20059 gray|0.20059 dim|0.20059 grey|0.20059 gray|0.13761 grey|0.13761 dark|0.089321 gray|0.089321 dark|0.089321 grey|0.089321 silver|0.034754 light|0.014961 gray|0.014961 light|0.014961 grey|0.014961 gainsboro|0.0095608  "
+		}
+	}
+}

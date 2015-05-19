@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4292ff56c9dc0f1c2a41731ecd953029691701ad7d33e97872a449aeb48261bf",
+			"url": "https://upload.wikimedia.org/math/8/f/9/8f99f51836d0dab516c2cfd5d4982163.png",
+			"previous": [
+				"The distance formula is simpler when written in terms of the parametric latitude,",
+				"so that the arc length of an infinitesimal element of the meridian is (with in radians). Therefore the meridian distance from the equator to latitude is"
+			],
+			"after": [
+				"where and . The distance from the equator to the pole, the quarter meridian, is",
+				"Even though latitude is normally confined to the range , all the formulas given here apply to measuring distance around the complete meridian ellipse (including the anti-meridian). Thus the ranges of , , and the rectifying latitude , are unrestricted."
+			],
+			"color": "dim|0.38174 gray|0.38174 dim|0.38174 grey|0.38174 gray|0.28474 grey|0.28474 dark|0.17876 gray|0.17876 dark|0.17876 grey|0.17876 silver|0.074779 light|0.035347 gray|0.035347 light|0.035347 grey|0.035347 gainsboro|0.02513 white|0.0048344 smoke|0.0048344  "
+		}
+	}
+}

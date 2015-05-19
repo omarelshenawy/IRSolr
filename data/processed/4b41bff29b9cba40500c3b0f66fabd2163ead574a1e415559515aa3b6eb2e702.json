@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b41bff29b9cba40500c3b0f66fabd2163ead574a1e415559515aa3b6eb2e702",
+			"url": "https://upload.wikimedia.org/math/8/4/f/84fe06d0d1ce47da29425b6c9174dd6d.png",
+			"previous": [
+				"",
+				"Is the nozzle choked? The nozzle is choked when the throat Mach number = 1.0. This occurs when the nozzle pressure ratio reaches or exceeds a critical level:"
+			],
+			"after": [
+				"If then the nozzle is UNCHOKED.",
+				"The following calculation method is only suitable for choked nozzles."
+			],
+			"color": "gray|0.33194 grey|0.33194 dim|0.24854 gray|0.24854 dim|0.24854 grey|0.24854 dark|0.23202 gray|0.23202 dark|0.23202 grey|0.23202 silver|0.096242 light|0.043527 gray|0.043527 light|0.043527 grey|0.043527 gainsboro|0.028882 white|0.0048571 smoke|0.0048571  "
+		}
+	}
+}

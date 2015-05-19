@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9831c2d025762cfc1c40d4ab4a5d743d9196e4e410b87ed41ce084045e67efa7",
+			"url": "https://upload.wikimedia.org/math/2/c/3/2c3db681686c1b080e21688bf57b256a.png",
+				"previous": "The F-measure was derived by van Rijsbergen (1979) so that \"measures the effectiveness of retrieval with respect to a user who attaches times as much importance to recall as precision\". It is based on van Rijsbergen's effectiveness measure . Their relationship is where .",
+				"after": "That is the area under the precision-recall curve. This integral is in practice replaced with a finite sum over every position in the ranked sequence of documents:",
+			"color": "dim|0.41173 gray|0.41173 dim|0.41173 grey|0.41173 gray|0.28583 grey|0.28583 dark|0.14086 gray|0.14086 dark|0.14086 grey|0.14086 silver|0.069482 light|0.037782 gray|0.037782 light|0.037782 grey|0.037782 gainsboro|0.026418 white|0.0053963 smoke|0.0053963  "
+		}
+	}
+}

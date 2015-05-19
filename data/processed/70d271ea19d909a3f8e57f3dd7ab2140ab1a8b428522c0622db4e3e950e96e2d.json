@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "70d271ea19d909a3f8e57f3dd7ab2140ab1a8b428522c0622db4e3e950e96e2d",
+			"url": "https://upload.wikimedia.org/math/c/8/7/c879f503a66bd9c7487ebdca7bdd04db.png",
+				"previous": "which is",
+				"after": "Since the eigenvalues are roots of the characteristic polynomial, an matrix has at most eigenvalues. If the matrix has real entries, the coefficients of the characteristic polynomial are all real; but it may have fewer than real roots, or no real roots at all.",
+			"color": "gray|0.27152 grey|0.27152 dim|0.26921 gray|0.26921 dim|0.26921 grey|0.26921 dark|0.18302 gray|0.18302 dark|0.18302 grey|0.18302 silver|0.096148 light|0.06589 gray|0.06589 light|0.06589 grey|0.06589 gainsboro|0.050698 white|0.017219 smoke|0.017219 lavender|0.006927 blush|0.006927 linen|0.006914 alice|0.0068543 blue|0.0068543 ghost|0.0067159 white|0.0067159 sea|0.0065601 shell|0.0065601 snow|0.0064693 white|0.0031409  "
+		}
+	}
+}

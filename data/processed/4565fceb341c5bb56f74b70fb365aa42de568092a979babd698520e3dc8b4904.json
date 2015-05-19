@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4565fceb341c5bb56f74b70fb365aa42de568092a979babd698520e3dc8b4904",
+			"url": "https://upload.wikimedia.org/math/4/e/b/4eb3cb97f7232d7cf37bc56b03c91a81.png",
+			"previous": [],
+				"after": "As the names indicate, weak convergence is weaker than strong convergence. In fact, strong convergence implies convergence in probability, and convergence in probability implies weak convergence. The reverse statements are not always true.",
+			"color": "dim|0.41489 gray|0.41489 dim|0.41489 grey|0.41489 gray|0.27159 grey|0.27159 dark|0.17794 gray|0.17794 dark|0.17794 grey|0.17794 silver|0.068703 light|0.03143 gray|0.03143 light|0.03143 grey|0.03143 gainsboro|0.021703 white|0.0038367 smoke|0.0038367  "
+		}
+	}
+}

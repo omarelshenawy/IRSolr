@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "257cdd471b16d40d46503d00e099c07947b1df5ef42e4c9ad1fda48d8fb2d7ae",
+			"url": "https://upload.wikimedia.org/math/a/e/6/ae6244904cc7672e37961f6105a6040f.png",
+			"previous": [
+				"These coordinate functionals have the properties,",
+				"which can be written in matrix form as"
+			],
+			"after": [
+				"These equations can be assembled into the single matrix equation,",
+				"Thus, the matrix formed by the coordinate linear functionals is the inverse of the matrix formed by the basis vectors.[20][22]"
+			],
+			"color": "dim|0.39898 gray|0.39898 dim|0.39898 grey|0.39898 gray|0.28204 grey|0.28204 dark|0.15711 gray|0.15711 dark|0.15711 grey|0.15711 silver|0.071124 light|0.037541 gray|0.037541 light|0.037541 grey|0.037541 gainsboro|0.027098 white|0.0058142 smoke|0.0058142  "
+		}
+	}
+}

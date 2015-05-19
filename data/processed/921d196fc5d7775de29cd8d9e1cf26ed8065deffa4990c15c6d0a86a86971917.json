@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "921d196fc5d7775de29cd8d9e1cf26ed8065deffa4990c15c6d0a86a86971917",
+			"url": "https://upload.wikimedia.org/math/2/0/9/20973ca76f183b5c91f7127b83037677.png",
+				"previous": "With r, Î¸, and z being constant over time, this simplifies to",
+			"after": [
+				"which is the same as in Example 2.",
+				"Now let there be an object off of the rotating disk and at inertial rest with respect to the center of the disk and at a distance of R from it. This object has a coordinate motion described by dÎ¸ = -ÏÂ dt, which describes the inertially at-rest object of counter-rotating in the view of the rotating observer. Now the proper time equation becomes"
+			],
+			"color": "dim|0.3493 gray|0.3493 dim|0.3493 grey|0.3493 gray|0.28274 grey|0.28274 dark|0.1961 gray|0.1961 dark|0.1961 grey|0.1961 silver|0.083603 light|0.038949 gray|0.038949 light|0.038949 grey|0.038949 gainsboro|0.02825 white|0.0046426 smoke|0.0046426  "
+		}
+	}
+}

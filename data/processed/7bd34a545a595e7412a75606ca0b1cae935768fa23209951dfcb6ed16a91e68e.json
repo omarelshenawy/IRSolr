@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "7bd34a545a595e7412a75606ca0b1cae935768fa23209951dfcb6ed16a91e68e",
+			"url": "https://upload.wikimedia.org/math/b/a/a/baaa156ac3f2c10a9f5627cbfed469e2.png",
+			"previous": [
+				"from which we obtain",
+				"whence",
+				"then, by subtracting 1 from both sides of the equation, and then dividing both sides by 3 we obtain"
+			],
+			"after": [
+				"For example, if:",
+				"then",
+				"There are different methods to solve a system of linear equations with two variables."
+			],
+			"color": "black|0.34872 dim|0.24612 gray|0.24612 dim|0.24612 grey|0.24612 gray|0.17388 grey|0.17388 dark|0.11592 gray|0.11592 dark|0.11592 grey|0.11592 silver|0.05232 light|0.026665 gray|0.026665 light|0.026665 grey|0.026665 gainsboro|0.018886 white|0.0037509 smoke|0.0037509  "
+		}
+	}
+}

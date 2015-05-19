@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "41473b37dfb10883f78e1b6cb41ab8424701e54053100ea34d0ab7dbfd03b0d7",
+			"url": "https://upload.wikimedia.org/math/0/5/8/0580d8d3d30b5c9887055a5733769891.png",
+				"previous": "The definition of eigenvalue of a linear transformation remains valid even if the underlying space is an infinite dimensional Hilbert or Banach space. Namely, a scalar is an eigenvalue if and only if there is some nonzero vector such that .",
+				"after": "The functions that satisfy this equation are commonly called eigenfunctions of . For the derivative operator , an eigenfunction is a function that, when differentiated, yields a constant times the original function. The solution is an exponential function",
+			"color": " "
+		}
+	}
+}

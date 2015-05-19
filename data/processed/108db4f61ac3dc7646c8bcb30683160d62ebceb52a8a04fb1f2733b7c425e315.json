@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "108db4f61ac3dc7646c8bcb30683160d62ebceb52a8a04fb1f2733b7c425e315",
+			"url": "https://upload.wikimedia.org/math/3/f/1/3f1509aa152534d951529f53463eeb8d.png",
+			"previous": [
+				"we make the following substitution, known as Vieta's substitution:",
+				"Starting from the depressed cubic"
+			],
+			"after": [
+				"This results in the equation",
+				"Multiplying by w3, it becomes a sextic equation in w, which is in fact a quadratic equation in w3:"
+			],
+			"color": "dim|0.37208 gray|0.37208 dim|0.37208 grey|0.37208 gray|0.2869 grey|0.2869 dark|0.18406 gray|0.18406 dark|0.18406 grey|0.18406 silver|0.083228 light|0.038305 gray|0.038305 light|0.038305 grey|0.038305 gainsboro|0.024129  "
+		}
+	}
+}

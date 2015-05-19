@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e9f164b1885769cff62192192133ca30623b32a6ee1a2c1dfe05d9e69867abc",
+			"url": "https://upload.wikimedia.org/math/f/c/3/fc38548f1b412d1c51fca71595226f95.png",
+			"previous": [
+				"The difference between being uniformly continuous, and being simply continuous at every point, is that in uniform continuity the value of Î´ depends only on Îµ and not on the point in the domain.",
+				"If X and Y are subsets of the real numbers, a function fÂ :Â XÂ âÂ Y is called uniformly continuous if for all ÎµÂ >Â 0 there exists a Î´Â >Â 0 such that for all x,Â yÂ âÂ X, |xÂ âÂ y|Â <Â Î´ implies |f(x)Â âÂ f(y)|Â <Â Îµ."
+			],
+			"after": [
+				"then",
+				"The collection of all absolutely continuous functions on I is denoted AC(I)."
+			],
+			"color": "gray|0.31783 grey|0.31783 dim|0.25947 gray|0.25947 dim|0.25947 grey|0.25947 dark|0.2228 gray|0.2228 dark|0.2228 grey|0.2228 silver|0.098853 light|0.046883 gray|0.046883 light|0.046883 grey|0.046883 gainsboro|0.03179 white|0.0058504 smoke|0.0058504 linen|0.0028553  "
+		}
+	}
+}

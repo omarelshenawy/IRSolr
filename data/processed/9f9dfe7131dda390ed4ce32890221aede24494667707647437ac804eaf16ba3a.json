@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f9dfe7131dda390ed4ce32890221aede24494667707647437ac804eaf16ba3a",
+			"url": "https://upload.wikimedia.org/math/2/5/1/251be8987f2f3106b6563d254e85c303.png",
+			"previous": [
+				"The Green's function for the value at time t of a Â£1 cash flow at time u is",
+				"The standard technique tool in the analysis of ODEs is the use of Green's functions, from which other solutions can be built. In terms of time value of money, the Green's function (for the time value ODE) is the value of a bond paying Â£1 at a single point in time u â the value of any other stream of cash flows can then be obtained by taking combinations of this basic cash flow. In mathematical terms, this instantaneous cash flow is modeled as a Dirac delta function"
+			],
+			"after": [
+				"In case the discount rate is constant, this simplifies to",
+				"where is \"time remaining until cash flow\"."
+			],
+			"color": "dark|0.29803 gray|0.29803 dark|0.29803 grey|0.29803 gray|0.27979 grey|0.27979 silver|0.15469 dim|0.085212 gray|0.085212 dim|0.085212 grey|0.085212 light|0.078505 gray|0.078505 light|0.078505 grey|0.078505 gainsboro|0.055006 white|0.011773 smoke|0.011773 linen|0.005778 lavender|0.0053321 blush|0.0053321 alice|0.005233 blue|0.005233 ghost|0.0047376 white|0.0047376 sea|0.0046315 shell|0.0046315 snow|0.0045386 white|0.003245  "
+		}
+	}
+}

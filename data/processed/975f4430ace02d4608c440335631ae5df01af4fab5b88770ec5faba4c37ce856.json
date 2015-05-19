@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "975f4430ace02d4608c440335631ae5df01af4fab5b88770ec5faba4c37ce856",
+			"url": "https://upload.wikimedia.org/math/5/4/8/54818184e97b758700003f7513c15d9f.png",
+				"previous": "This rotation of the planet gears can in turn drive the annulus (not depicted in diagram), in a corresponding ratio. If the annulus has Na teeth, then the annulus will rotate by Np/Na turns for each turn of the planet gears. For instance, if the annulus has 64 teeth, and the planets 16, one clockwise turn of a planet gear results in 16/64, or 1/4 clockwise turns of the annulus. Extending this case from the one above:",
+				"after": "So, with the planetary carrier locked, one turn of the sun gear results in turns of the annulus.",
+			"color": "dim|0.34336 gray|0.34336 dim|0.34336 grey|0.34336 gray|0.27497 grey|0.27497 dark|0.18423 gray|0.18423 dark|0.18423 grey|0.18423 silver|0.095255 light|0.050403 gray|0.050403 light|0.050403 grey|0.050403 gainsboro|0.036716 white|0.0042084 smoke|0.0042084  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1777671068dcc5472372eb24a535df80c91c3dd9b92ccc40799c8b8f35eb6c43",
+			"url": "https://upload.wikimedia.org/math/4/0/a/40ad0fc546822ed6b6cee39fc3263ff7.png",
+			"previous": [
+				"Manipulating this equation gives",
+				"It can be shown that"
+			],
+			"after": [
+				"Substituting the above into (1) results in",
+				"According to the mean value theorem for integration, there exists a real number in [x1, x1 + Îx] such that"
+			],
+			"color": "dim|0.37495 gray|0.37495 dim|0.37495 grey|0.37495 gray|0.29557 grey|0.29557 dark|0.18413 gray|0.18413 dark|0.18413 grey|0.18413 silver|0.069668 light|0.033755 gray|0.033755 light|0.033755 grey|0.033755 gainsboro|0.023918 white|0.0043721 smoke|0.0043721  "
+		}
+	}
+}

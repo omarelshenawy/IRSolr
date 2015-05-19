@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3fb398c992415d5ff3aca9762834d4482f96392dc85e142eb4ffaf2d6f6ff7ec",
+			"url": "https://upload.wikimedia.org/math/6/c/0/6c0a58a4f578e6935da256ec3565e101.png",
+				"previous": "The instructor was able to conclude that there were just as many seats as there were students, without having to count either set.",
+				"after": "A bijection f with domain X (\"functionally\" indicated by f: X â Y) also defines a relation starting in Y and going to X (by turning the arrows around). The process of \"turning the arrows around\" for an arbitrary function does not usually yield a function, but properties (3) and (4) of a bijection say that this inverse relation is a function with domain Y. Moreover, properties (1) and (2) then say that this inverse function is a surjection and an injection, that is, the inverse function exists and is also a bijection. Functions that have inverse functions are said to be invertible. A function is invertible if and only if it is a bijection.",
+			"color": "dim|0.35061 gray|0.35061 dim|0.35061 grey|0.35061 gray|0.29126 grey|0.29126 dark|0.19102 gray|0.19102 dark|0.19102 grey|0.19102 silver|0.078365 light|0.038061 gray|0.038061 light|0.038061 grey|0.038061 gainsboro|0.02726 white|0.0057992 smoke|0.0057992 linen|0.0027829  "
+		}
+	}
+}

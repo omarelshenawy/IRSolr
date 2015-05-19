@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "17307554d3ec52bd409babc9b53dd22b49640e609d9428b3374bded94a4e0b6a",
+			"url": "https://upload.wikimedia.org/math/a/e/5/ae57755df0a1f39f8625506c4cf2c27e.png",
+			"previous": [
+				"The solutions are superpositions of left- and right-moving waves:",
+				"The potential in this case is given by:"
+			],
+			"after": [
+				"where the wave vectors are related to the energy via",
+				"with coefficients A and B determined from the boundary conditions and by imposing a continuous derivative on the solution."
+			],
+			"color": "dim|0.39571 gray|0.39571 dim|0.39571 grey|0.39571 gray|0.27514 grey|0.27514 dark|0.16893 gray|0.16893 dark|0.16893 grey|0.16893 silver|0.071047 light|0.036178 gray|0.036178 light|0.036178 grey|0.036178 gainsboro|0.02502 black|0.0084522 white|0.0050329 smoke|0.0050329  "
+		}
+	}
+}

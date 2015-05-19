@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4fa978a80b04a242bb3acb8fcab4a7e40b18968d4f5b7b2d295c357a51c3cb5f",
+			"url": "https://upload.wikimedia.org/math/7/0/c/70c9ab82b8f64038ab7248b0724ccfe1.png",
+			"previous": [
+				"An ellipse in canonical position (center at origin, major axis along the X-axis) with semi-axes a and b can be represented parametrically as",
+				"With this parametric equation, the point (-1, 0) is not represented by a real value of t, but by the limit of x and y when t tends to infinity."
+			],
+			"after": [
+				"An ellipse in general position can be expressed as",
+				"as the parameter t varies from 0 to 2Ï. Here is the center of the ellipse, and is the angle between the -axis and the major axis of the ellipse."
+			],
+			"color": "black|0.48221 dim|0.21249 gray|0.21249 dim|0.21249 grey|0.21249 gray|0.14398 grey|0.14398 dark|0.085194 gray|0.085194 dark|0.085194 grey|0.085194 silver|0.0358 light|0.017912 gray|0.017912 light|0.017912 grey|0.017912 gainsboro|0.012626  "
+		}
+	}
+}

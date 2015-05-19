@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a816da2da94c4471314e4e0598597e8ef7bf458ad09e532c425af594e1261bc",
+			"url": "https://upload.wikimedia.org/math/f/3/a/f3a2410ea200d6d9a342fc9093e0e623.png",
+			"previous": [
+				"Some conclusions can be asserted from this expression. The variance of estimation:",
+				"Once defined the covariance model or variogram, or , valid in all field of analysis of , than we can write an expression for the estimation variance of any estimator in function of the covariance between the samples and the covariances between the samples and the point to estimate:"
+			],
+			"after": [
+				"Solving this optimization problem (see Lagrange multipliers) results in the Kriging system:",
+				"the additional parameter is a Lagrange multiplier used in the minimization of the Kriging error to honor the unbiasedness condition."
+			],
+			"color": "dark|0.29269 gray|0.29269 dark|0.29269 grey|0.29269 gray|0.29101 grey|0.29101 silver|0.14208 dim|0.10928 gray|0.10928 dim|0.10928 grey|0.10928 light|0.076773 gray|0.076773 light|0.076773 grey|0.076773 gainsboro|0.053682 white|0.010069 smoke|0.010069 linen|0.0046017 lavender|0.0036013 blush|0.0036013 alice|0.0034693 blue|0.0034693 ghost|0.0032861 white|0.0032861 sea|0.0031919 shell|0.0031919 snow|0.003027  "
+		}
+	}
+}

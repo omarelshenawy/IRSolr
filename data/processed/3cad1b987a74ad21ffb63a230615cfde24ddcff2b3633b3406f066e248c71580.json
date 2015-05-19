@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3cad1b987a74ad21ffb63a230615cfde24ddcff2b3633b3406f066e248c71580",
+			"url": "https://upload.wikimedia.org/math/c/c/3/cc34c60bf7ed081cd3656c499982e910.png",
+				"previous": "Very little is known about Diophantus of Alexandria; he probably lived in the third century CE, that is, about five hundred years after Euclid. Six out of the thirteen books of Diophantus's Arithmetica survive in the original Greek; four more books survive in an Arabic translation. The Arithmetica is a collection of worked-out problems where the task is invariably to find rational solutions to a system of polynomial equations, usually of the form or . Thus, nowadays, we speak of Diophantine equations when we speak of polynomial equations to which rational or integer solutions must be found.",
+				"after": "Diophantus also studied the equations of some non-rational curves, for which no rational parametrisation is possible. He managed to find some rational points on these curves (elliptic curves, as it happens, in what seems to be their first known occurrence) by means of what amounts to a tangent construction: translated into coordinate geometry (which did not exist in Diophantus's time), his method would be visualised as drawing a tangent to a curve at a known rational point, and then finding the other point of intersection of the tangent with the curve; that other point is a new rational point. (Diophantus also resorted to what could be called a special case of a secant construction.)",
+			"color": "dim|0.39947 gray|0.39947 dim|0.39947 grey|0.39947 gray|0.29884 grey|0.29884 dark|0.15507 gray|0.15507 dark|0.15507 grey|0.15507 silver|0.06416 light|0.033843 gray|0.033843 light|0.033843 grey|0.033843 gainsboro|0.023887 white|0.0054558 smoke|0.0054558  "
+		}
+	}
+}

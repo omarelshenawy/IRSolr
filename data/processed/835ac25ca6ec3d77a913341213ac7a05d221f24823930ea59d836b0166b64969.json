@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "835ac25ca6ec3d77a913341213ac7a05d221f24823930ea59d836b0166b64969",
+			"url": "https://upload.wikimedia.org/math/6/d/8/6d8b32517f26f891dd02c9003a0ef52e.png",
+				"previous": "The equation governing the decay of a radioactive isotope is:[5]",
+				"after": "where N0 is the number of atoms of the isotope in the original sample (at time t = 0, when the organism from which the sample was taken died), and N is the number of atoms left after time t.[5] Î» is a constant that depends on the particular isotope; for a given isotope it is equal to the reciprocal of the mean-lifeÂ â i.e. the average or expected time a given atom will survive before undergoing radioactive decay.[5] The mean-life, denoted by Ï, of 14 C is 8,267 years, so the equation above can be rewritten as:[13]",
+			"color": "dim|0.42472 gray|0.42472 dim|0.42472 grey|0.42472 gray|0.26069 grey|0.26069 dark|0.16474 gray|0.16474 dark|0.16474 grey|0.16474 silver|0.073082 light|0.036604 gray|0.036604 light|0.036604 grey|0.036604 gainsboro|0.025259 white|0.0039848 smoke|0.0039848  "
+		}
+	}
+}

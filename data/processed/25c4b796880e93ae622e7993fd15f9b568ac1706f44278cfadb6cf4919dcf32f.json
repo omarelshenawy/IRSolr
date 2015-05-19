@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "25c4b796880e93ae622e7993fd15f9b568ac1706f44278cfadb6cf4919dcf32f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ipv6_address.svg/300px-Ipv6_address.svg.png",
+			"previous": [],
+				"after": "The rapid exhaustion of IPv4 address space, despite conservation techniques, prompted the Internet Engineering Task Force (IETF) to explore new technologies to expand the addressing capability in the Internet. The permanent solution was deemed to be a redesign of the Internet Protocol itself. This new generation of the Internet Protocol, intended to replace IPv4 on the Internet, was eventually named Internet Protocol Version 6 (IPv6) in 1995.[3][4] The address size was increased from 32 to 128 bits or 16 octets. This, even with a generous assignment of network blocks, is deemed sufficient for the foreseeable future. Mathematically, the new address space provides the potential for a maximum of 2128, or about 7038340309999999999â 3.403Ã1038 addresses.",
+			"color": "white|0.08784 smoke|0.08784 white|0.087561 snow|0.08671 ghost|0.086028 white|0.086028 mint|0.08529 cream|0.08529 alice|0.085282 blue|0.085282 sea|0.084787 shell|0.084787 azure|0.083888 floral|0.083648 white|0.083648 lavender|0.080582 blush|0.080582 black|0.028636 dark|0.028042 gray|0.028042 dark|0.028042 grey|0.028042 dim|0.02251 gray|0.02251 dim|0.02251 grey|0.02251 gray|0.02036 grey|0.02036 silver|0.016904 light|0.013226 gray|0.013226 light|0.013226 grey|0.013226 gainsboro|0.011646 ivory|0.0040078 linen|0.0030543  "
+		}
+	}
+}

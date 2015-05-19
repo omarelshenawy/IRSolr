@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "368d41dc301948af6f9ad1cd8c6da7f380cbe75087c4e9d169c6e6982d1c5903",
+			"url": "https://upload.wikimedia.org/math/e/d/d/eddc7471e6140ed7b80b141c65d38400.png",
+				"previous": "is the probability density to measure the particle in place x at timeÂ t.",
+				"after": "The eigenstates have a physical meaning further than an orthonormal basis. When the energy of the system is measured, the wavefunction collapses into one of its eigenstates and so the particle wavefunction is described by the pure eigenstate corresponding to the measured energy.",
+			"color": "dim|0.2552 gray|0.2552 dim|0.2552 grey|0.2552 gray|0.25099 grey|0.25099 dark|0.2153 gray|0.2153 dark|0.2153 grey|0.2153 black|0.1939 silver|0.068964 light|0.013333 gray|0.013333 light|0.013333 grey|0.013333  "
+		}
+	}
+}

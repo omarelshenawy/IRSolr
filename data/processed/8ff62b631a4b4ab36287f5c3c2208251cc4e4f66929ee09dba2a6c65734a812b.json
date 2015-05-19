@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8ff62b631a4b4ab36287f5c3c2208251cc4e4f66929ee09dba2a6c65734a812b",
+			"url": "https://upload.wikimedia.org/math/f/9/4/f94f4d2beeaecb91715fc2088748d664.png",
+			"previous": [
+				"To iterate a function , one applies the function repeatedly, using the output from one iteration as the input to the next.",
+				"If then the equation describes either a circle or other ellipse or nothing at all. If the ordinate of the maximum point of the corresponding parabola is positive, then its square root describes an ellipse, but if the ordinate is negative then it describes an empty locus of points."
+			],
+			"after": [
+				"For example, for the iterative equation",
+				"one has"
+			],
+			"color": "gray|0.29666 grey|0.29666 dark|0.29494 gray|0.29494 dark|0.29494 grey|0.29494 silver|0.13628 dim|0.12232 gray|0.12232 dim|0.12232 grey|0.12232 light|0.070906 gray|0.070906 light|0.070906 grey|0.070906 gainsboro|0.049787 white|0.008819 smoke|0.008819 linen|0.0040719 lavender|0.0031202 blush|0.0031202 alice|0.0030195 blue|0.0030195 ghost|0.0028852 white|0.0028852 sea|0.002655 shell|0.002655 snow|0.0025291  "
+		}
+	}
+}

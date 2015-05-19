@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d4c2668e6bb4f9c8bd55602c53b67b016cee76d77d42998e8ef7ed5baa3a79f",
+			"url": "https://upload.wikimedia.org/math/3/4/8/348719b113d5b60c87ee28c5446ac4ff.png",
+			"previous": [
+				"defines a biquadratic equation, which is easy to solve.",
+				"If then the biquadratic function",
+				"In the case of two quadratic factors or of large integer coefficients, the factorization is harder to compute, and, in general, it is better to use the factor function of a computer algebra system (see polynomial factorization for a description of the algorithms that are involved)."
+			],
+			"after": [
+				"Let and be the roots of q. Then the roots of our quartic Q are",
+				"The polynomial"
+			],
+			"color": "gray|0.325 grey|0.325 dark|0.25299 gray|0.25299 dark|0.25299 grey|0.25299 dim|0.17372 gray|0.17372 dim|0.17372 grey|0.17372 silver|0.10176 light|0.053424 gray|0.053424 light|0.053424 grey|0.053424 gainsboro|0.039438 white|0.010069 smoke|0.010069 lavender|0.0059046 blush|0.0059046 alice|0.005713 blue|0.005713 ghost|0.0055267 white|0.0055267 sea|0.0053671 shell|0.0053671 snow|0.0051874 linen|0.0049706 white|0.0040875 mint|0.0031614 cream|0.0031614  "
+		}
+	}
+}

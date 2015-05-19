@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "651ec262bd3360c060562c15b81328572362baf8682251c30872cc94300d21fb",
+			"url": "https://upload.wikimedia.org/math/6/2/2/6226648e42ca10562684414808422417.png",
+			"previous": [
+				"Any differential equation of order n,",
+				"Differential equations can usually be solved more easily if the order of the equation can be reduced."
+			],
+			"after": [
+				"can be written as a system of n first-order differential equations by defining a new family of unknown functions",
+				"for i = 1, 2,... n. The n-dimensional system of first-order coupled differential equations is then"
+			],
+			"color": "dim|0.31717 gray|0.31717 dim|0.31717 grey|0.31717 gray|0.23433 grey|0.23433 black|0.18296 dark|0.14378 gray|0.14378 dark|0.14378 grey|0.14378 silver|0.060416 light|0.028196 gray|0.028196 light|0.028196 grey|0.028196 gainsboro|0.018837  "
+		}
+	}
+}

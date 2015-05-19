@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e0f17f714b59e686079f6235f41222e1de67584edf983aa3c51f57f91e0120c",
+			"url": "https://upload.wikimedia.org/math/8/6/e/86e2431bc784d1b00f46c2a6ad2cfcbe.png",
+			"previous": [
+				"The area of the ellipse is",
+				"The eccentricity Îµ is the coefficient of variation between rmin and rmax:"
+			],
+			"after": [
+				"The special case of a circle is Îµ = 0, resulting in r = p = rmin = rmax = a = b and A = Ï r2.",
+				"The orbital radius and angular velocity of the planet in the elliptical orbit will vary. This is shown in the animation: the planet travels faster when closer to the sun, then slower when farther from the sun. Kepler's second law states that the blue sector has constant area."
+			],
+			"color": "black|0.39136 dim|0.25123 gray|0.25123 dim|0.25123 grey|0.25123 gray|0.16004 grey|0.16004 dark|0.099259 gray|0.099259 dark|0.099259 grey|0.099259 silver|0.045112 light|0.023307 gray|0.023307 light|0.023307 grey|0.023307 gainsboro|0.016758  "
+		}
+	}
+}

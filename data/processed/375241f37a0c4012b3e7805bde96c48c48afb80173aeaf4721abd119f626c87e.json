@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "375241f37a0c4012b3e7805bde96c48c48afb80173aeaf4721abd119f626c87e",
+			"url": "https://upload.wikimedia.org/math/b/c/7/bc758899e5a20863d78ea626781d19ae.png",
+			"previous": [
+				"These forces contribute to thrust, T, on the blade:",
+				"where:",
+				"The forces of lift and drag on the blade, dA, where force normal to the surface is dL:"
+			],
+			"after": [
+				"where:",
+				"These forces contribute to thrust, T, on the blade:",
+				"where:"
+			],
+			"color": "dim|0.41181 gray|0.41181 dim|0.41181 grey|0.41181 gray|0.27156 grey|0.27156 dark|0.16825 gray|0.16825 dark|0.16825 grey|0.16825 silver|0.071432 light|0.035587 gray|0.035587 light|0.035587 grey|0.035587 gainsboro|0.023432 black|0.0048491 white|0.0035432 smoke|0.0035432  "
+		}
+	}
+}

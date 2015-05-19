@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8deb8216e32d60f8ea4678a81c395c5005fb1d64dfe9945b77ea3046d1fba448",
+			"url": "https://upload.wikimedia.org/math/7/a/5/7a508592f5d3bc5b1262d28f9eb79059.png",
+			"previous": [],
+				"after": "It could be argued that the simplest kind of number fields (viz., quadratic fields) were already studied by Gauss, as the discussion of quadratic forms in Disquisitiones arithmeticae can be restated in terms of ideals and norms in quadratic fields. (A quadratic field consists of all numbers of the form , where and are rational numbers and is a fixed rational number whose square root is not rational.) For that matter, the 11th-century chakravala method amountsâin modern termsâto an algorithm for finding the units of a real quadratic number field. However, neither BhÄskara nor Gauss knew of number fields as such.",
+			"color": "dim|0.37114 gray|0.37114 dim|0.37114 grey|0.37114 gray|0.28307 grey|0.28307 dark|0.17506 gray|0.17506 dark|0.17506 grey|0.17506 silver|0.080918 light|0.042063 gray|0.042063 light|0.042063 grey|0.042063 gainsboro|0.030008 white|0.0049269 smoke|0.0049269  "
+		}
+	}
+}

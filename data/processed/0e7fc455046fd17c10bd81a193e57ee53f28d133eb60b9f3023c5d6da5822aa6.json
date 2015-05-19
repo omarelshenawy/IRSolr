@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e7fc455046fd17c10bd81a193e57ee53f28d133eb60b9f3023c5d6da5822aa6",
+			"url": "https://upload.wikimedia.org/math/b/5/2/b52f5311edc65bba9a6f175c35b564f7.png",
+			"previous": [
+				"For most purposes however, naive set theory is still useful.",
+				"The reason is that the phrase well-defined is not very well defined. It was important to free set theory of these paradoxes because nearly all of mathematics was being redefined in terms of set theory. In an attempt to avoid these paradoxes, set theory was axiomatized based on first-order logic, and thus axiomatic set theory was born."
+			],
+			"after": [
+				"De Morgan stated two laws about Sets.",
+				"If A and B are any two Sets then,"
+			],
+			"color": "dim|0.28973 gray|0.28973 dim|0.28973 grey|0.28973 gray|0.25933 grey|0.25933 dark|0.2137 gray|0.2137 dark|0.2137 grey|0.2137 silver|0.11128 light|0.068841 gray|0.068841 light|0.068841 grey|0.068841 gainsboro|0.040773 white|0.0032615 smoke|0.0032615  "
+		}
+	}
+}

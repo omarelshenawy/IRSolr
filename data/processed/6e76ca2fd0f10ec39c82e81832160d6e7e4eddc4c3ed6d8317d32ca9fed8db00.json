@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e76ca2fd0f10ec39c82e81832160d6e7e4eddc4c3ed6d8317d32ca9fed8db00",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/OpenBSD_ksh_Interaction.png/220px-OpenBSD_ksh_Interaction.png",
+			"previous": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"after": [
+				"OpenBSD's security enhancements, built-in cryptography and the pf packet filter suit it for use in the security industry, for example on firewalls,[6] intrusion-detection systems and VPN gateways.",
+				"Proprietary systems from several manufacturers are based on OpenBSD, including devices from Armorlogic (Profense web application firewall), Calyptix Security, GeNUA mbH, RTMX Inc,[7] and .vantronix GmbH.[8] Later versions of Microsoft's Services for UNIX, an extension to the Windows operating system which provides some Unix-like functionality, use much OpenBSD code included in the Interix interoperability suite, developed by Softway Systems Inc., which Microsoft acquired in 1999.[9][10] Core Force, a security product for Windows, is based on OpenBSD's pf firewall.[11]"
+			],
+			"color": "light|0.66667 slate|0.66667 gray|0.66667 slate|0.16667 gray|0.16667 gray|0.16667 grey|0.16667  "
+		}
+	}
+}

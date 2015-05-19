@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "373de7f81846abaffa5cf5877e8d53e6f0a2fb7451a3931097876c6f29dd151a",
+			"url": "https://upload.wikimedia.org/math/c/7/9/c79309dc9c88cd6eafe3c45ae535b39b.png",
+			"previous": [
+				"The choice of the principal root then gives",
+				"with solutions",
+				"This gives the two simultaneous equations"
+			],
+			"after": [
+				"The result can also be obtained by using de Moivre's formula and setting",
+				"which produces",
+				"To find a definition for the square root that allows us to consistently choose a single value, called the principal value, we start by observing that any complex number x + iy can be viewed as a point in the plane, (x, y), expressed using Cartesian coordinates. The same point may be reinterpreted using polar coordinates as the pair (r, Ï), where r â¥ 0 is the distance of the point from the origin, and Ï is the angle that the line from the origin to the point makes with the positive real (x) axis. In complex analysis, this value is conventionally written râeiÏ. If"
+			],
+			"color": "dim|0.44649 gray|0.44649 dim|0.44649 grey|0.44649 gray|0.28293 grey|0.28293 dark|0.16168 gray|0.16168 dark|0.16168 grey|0.16168 silver|0.058464 light|0.024265 gray|0.024265 light|0.024265 grey|0.024265 gainsboro|0.015595  "
+		}
+	}
+}

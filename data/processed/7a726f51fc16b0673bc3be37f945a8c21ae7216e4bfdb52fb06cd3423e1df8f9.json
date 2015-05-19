@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7a726f51fc16b0673bc3be37f945a8c21ae7216e4bfdb52fb06cd3423e1df8f9",
+			"url": "https://upload.wikimedia.org/math/d/2/f/d2f4b40ad2b8c4714f41ebeffda218f5.png",
+			"previous": [
+				"Note that in R, it is symmetric.",
+				"that satisfies the following three axioms for all vectors u, v, w in V and all scalars a in F:[16][17]"
+			],
+			"after": [
+				"We can define the length of a vector v in V by",
+				"and we can prove the CauchyâSchwarz inequality:"
+			],
+			"color": "black|0.29411 dim|0.29008 gray|0.29008 dim|0.29008 grey|0.29008 gray|0.20864 grey|0.20864 dark|0.11591 gray|0.11591 dark|0.11591 grey|0.11591 silver|0.048045 light|0.021204 gray|0.021204 light|0.021204 grey|0.021204 gainsboro|0.013629  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "37d13b3e84d8802076a1391f80e921e95f12af0a71a5863246e04496daecf449",
+			"url": "https://upload.wikimedia.org/math/d/7/0/d70ec5c2c435f390f2c042eefced92af.png",
+			"previous": [
+				"Coordinate space Fn can be equipped with the standard dot product:",
+				"\"Measuring\" vectors is done by specifying a norm, a datum which measures lengths of vectors, or by an inner product, which measures angles between vectors. Norms and inner products are denoted and , respectively. The datum of an inner product entails that lengths of vectors can be defined too, by defining the associated norm . Vector spaces endowed with such data are known as normed vector spaces and inner product spaces, respectively.[47]"
+			],
+				"after": "In R2, this reflects the common notion of the angle between two vectors x and y, by the law of cosines:",
+			"color": "dim|0.38443 gray|0.38443 dim|0.38443 grey|0.38443 gray|0.27977 grey|0.27977 dark|0.17277 gray|0.17277 dark|0.17277 grey|0.17277 silver|0.078089 light|0.039965 gray|0.039965 light|0.039965 grey|0.039965 gainsboro|0.028397 white|0.004214 smoke|0.004214  "
+		}
+	}
+}

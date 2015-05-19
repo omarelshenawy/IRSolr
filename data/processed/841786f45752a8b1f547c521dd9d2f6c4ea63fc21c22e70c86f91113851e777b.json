@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "841786f45752a8b1f547c521dd9d2f6c4ea63fc21c22e70c86f91113851e777b",
+			"url": "https://upload.wikimedia.org/math/c/4/4/c444a3234802626a3a1571a76355266d.png",
+				"previous": "Because of this, two vectors satisfying are called orthogonal. An important variant of the standard dot product is used in Minkowski space: R4 endowed with the Lorentz product",
+				"after": "Convergence questions are treated by considering vector spaces V carrying a compatible topology, a structure that allows one to talk about elements being close to each other.[49][50] Compatible here means that addition and scalar multiplication have to be continuous maps. Roughly, if x and y in V, and a in F vary by a bounded amount, then so do x + y and ax.[nb 8] To make sense of specifying the amount a scalar changes, the field F also has to carry a topology in this context; a common choice are the reals or the complex numbers.",
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f7d1b0374e85fb977beff59ab20319f8b253368b9ad9c282c85f67f2ef8708b",
+			"url": "https://upload.wikimedia.org/math/8/6/d/86d089c4cd0c12f98c26c289d52f2b49.png",
+			"previous": [
+				"where:",
+				"In subsonic flow the Mach meter can be calibrated according to:"
+			],
+			"after": [
+				"When a shock wave forms across the pitot tube the required formula is derived from the Rayleigh Supersonic Pitot equation, and is solved iteratively:",
+				"where:"
+			],
+			"color": "dark|0.36077 gray|0.36077 dark|0.36077 grey|0.36077 silver|0.23413 light|0.14378 gray|0.14378 light|0.14378 grey|0.14378 gray|0.12624 grey|0.12624 gainsboro|0.10521 white|0.010989 smoke|0.010989 linen|0.0033731 lavender|0.0027873 blush|0.0027873 dim|0.0026362 gray|0.0026362 dim|0.0026362 grey|0.0026362  "
+		}
+	}
+}

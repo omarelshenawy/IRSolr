@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "50a641bb07cce74f1f448919c0939e21d42e08be35430b445cc75ad6bbd27c35",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/TOP7-rosetta_superposition.png/220px-TOP7-rosetta_superposition.png",
+			"previous": [],
+				"after": "RosettaDesign, a computational approach to protein design based on Rosetta, began in 2000 with a study in redesigning the folding pathway of Protein G.[46] In 2002 RosettaDesign was used to design Top7, a 93-amino acid long Î±/Î² protein that had an overall fold never before recorded in nature. This new conformation was predicted by Rosetta to within 1.2Â Ã RMSD of the structure determined by X-ray crystallography, representing an unusually accurate structure prediction.[47] Rosetta and RosettaDesign earned widespread recognition by being the first to design and accurately predict the structure of a novel protein of such length, as reflected by the 2002 paper describing the dual approach prompting two positive letters in the journal Science,[48][49] and being cited by more than 240 other scientific articles.[50] The visible product of that research, Top7, was featured as the RCSB PDB's 'Molecule of the Month' in October 2006;[51] a superposition of the respective cores (residues 60â79) of its predicted and X-ray crystal structures are featured in the Rosetta@home logo.[17]",
+			"color": "maroon|0.069461 medium|0.063844 blue|0.063844 dark|0.05738 blue|0.05738 dark|0.054061 slate|0.054061 blue|0.054061 dark|0.050019 red|0.050019 ghost|0.047765 white|0.047765 white|0.04776 smoke|0.04776 alice|0.046893 blue|0.046893 snow|0.046527 sea|0.045942 shell|0.045942 white|0.045556 navy|0.044519 floral|0.044135 white|0.044135 mint|0.043786 cream|0.043786 azure|0.043048 lavender|0.042336 blush|0.042336 midnight|0.034098 blue|0.034098 firebrick|0.021453 rosy|0.01407 brown|0.01407 brown|0.014037 gainsboro|0.012111 light|0.012093 gray|0.012093 light|0.012093 grey|0.012093 lavender|0.012045 red|0.011564 light|0.010677 steel|0.010677 blue|0.010677 silver|0.0084238 medium|0.0066174 slate|0.0066174 blue|0.0066174 slate|0.0065515 blue|0.0065515 blue|0.0063756 ivory|0.0063545 misty|0.0063298 rose|0.0063298  "
+		}
+	}
+}

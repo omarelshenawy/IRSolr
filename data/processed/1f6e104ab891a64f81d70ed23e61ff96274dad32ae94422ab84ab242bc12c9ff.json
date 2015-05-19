@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f6e104ab891a64f81d70ed23e61ff96274dad32ae94422ab84ab242bc12c9ff",
+			"url": "https://upload.wikimedia.org/math/f/0/3/f032b7031c745f27ddac87201880f26c.png",
+				"previous": "A vertical shear (or shear parallel to the -axis) of lines is similar, except that the roles of and are swapped. It corresponds to multiplying the coordinate vector by the transposed matrix:",
+				"after": "The vertical shear displaces points to the right of the -axis up or down, depending on the sign of . It leaves vertical lines invariant, but tilts all other lines about the point where they meet the -axis. Horizontal lines, in particular, get tilted by the shear angle to become lines with slope .",
+			"color": " "
+		}
+	}
+}

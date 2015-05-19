@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "93cab83eee68890fbdd7ee64a57b69a1cd276b5fedc88c23b5b92c02098165df",
+			"url": "https://upload.wikimedia.org/math/6/3/3/63371108706f32e30655d2fbca8e7d1c.png",
+				"previous": "In case the probability density function exists, this can be written as",
+				"after": "Whereas the pdf exists only for continuous random variables, the cdf exists for all random variables (including discrete random variables) that take values in",
+			"color": "dim|0.34735 gray|0.34735 dim|0.34735 grey|0.34735 gray|0.29553 grey|0.29553 dark|0.19102 gray|0.19102 dark|0.19102 grey|0.19102 silver|0.081572 light|0.039849 gray|0.039849 light|0.039849 grey|0.039849 gainsboro|0.028236 white|0.0044656 smoke|0.0044656  "
+		}
+	}
+}

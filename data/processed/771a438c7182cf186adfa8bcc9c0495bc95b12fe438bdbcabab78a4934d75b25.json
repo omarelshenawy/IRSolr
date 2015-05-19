@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "771a438c7182cf186adfa8bcc9c0495bc95b12fe438bdbcabab78a4934d75b25",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gravity_action-reaction.gif/220px-Gravity_action-reaction.gif",
+				"previous": "Assuming the standardized value for g and ignoring air resistance, this means that an object falling freely near the Earth's surface increases its velocity by 9.80665Â m/s (32.1740Â ft/s or 22Â mph) for each second of its descent. Thus, an object starting from rest will attain a velocity of 9.80665Â m/s (32.1740Â ft/s) after one second, approximately 19.62Â m/s (64.4Â ft/s) after two seconds, and so on, adding 9.80665Â m/s (32.1740Â ft/s) to each resulting velocity. Also, again ignoring air resistance, any and all objects, when dropped from the same height, will hit the ground at the same time. It is relevant to note that Earth's gravity doesn't have exactly the same value in all regions. There are slight variations in different parts of the globe due to latitude, surface features such as mountains and ridges, and perhaps unusually high or low sub-surface densities.[25]",
+				"after": "According to Newton's 3rd Law, the Earth itself experiences a force equal in magnitude and opposite in direction to that which it exerts on a falling object. This means that the Earth also accelerates towards the object until they collide. Because the mass of the Earth is huge, however, the acceleration imparted to the Earth by this opposite force is negligible in comparison to the object's. If the object doesn't bounce after it has collided with the Earth, each of them then exerts a repulsive contact force on the other which effectively balances the attractive force of gravity and prevents further acceleration.",
+			"color": " "
+		}
+	}
+}

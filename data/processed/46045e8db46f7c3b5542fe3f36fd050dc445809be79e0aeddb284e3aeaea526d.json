@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "46045e8db46f7c3b5542fe3f36fd050dc445809be79e0aeddb284e3aeaea526d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reliability_block_diagram.png/300px-Reliability_block_diagram.png",
+				"previous": "Reliability modelling is the process of predicting or understanding the reliability of a component or system prior to its implementation. Two types of analysis that are often used to model a complete system availability (including effects from logistics issues like spare part provisioning, transport and manpower) behavior are Fault Tree Analysis and reliability block diagrams. On component level the same type of analysis can be used together with others. The input for the models can come from many sources: Testing, Earlier operational experience field data or data handbooks from the same or mixed industries can be used. In all cases, the data must be used with great caution as predictions are only valid in case the same product in the same context is used. Often predictions are only made to compare alternatives.",
+				"after": "For part level predictions, two separate fields of investigation are common:",
+			"color": "light|0.43477 cyan|0.43477 pale|0.42122 turquoise|0.42122 powder|0.044753 blue|0.044753 light|0.018606 blue|0.018606 dim|0.018067 gray|0.018067 dim|0.018067 grey|0.018067 silver|0.017368 dark|0.017035 gray|0.017035 dark|0.017035 grey|0.017035 light|0.0085052 gray|0.0085052 light|0.0085052 grey|0.0085052 gray|0.0072165 grey|0.0072165 gainsboro|0.0050852 dark|0.0038155 slate|0.0038155 gray|0.0038155 black|0.0033953  "
+		}
+	}
+}

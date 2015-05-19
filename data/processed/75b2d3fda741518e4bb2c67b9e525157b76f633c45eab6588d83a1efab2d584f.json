@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "75b2d3fda741518e4bb2c67b9e525157b76f633c45eab6588d83a1efab2d584f",
+			"url": "https://upload.wikimedia.org/math/3/c/8/3c81329bbfbb9ea8763ead7e5bd663db.png",
+				"previous": "has as a general solution (and also u = 0 as a particular solution, corresponding to the limit of the general solution when C tends to the infinity). The equation is nonlinear because it may be written as",
+				"after": "and the left-hand side of the equation is not a linear function of u and its derivatives. Note that if the u2 term were replaced with u, the problem would be linear (the exponential decay problem).",
+			"color": "dim|0.37627 gray|0.37627 dim|0.37627 grey|0.37627 gray|0.28663 grey|0.28663 dark|0.1711 gray|0.1711 dark|0.1711 grey|0.1711 silver|0.078851 light|0.040204 gray|0.040204 light|0.040204 grey|0.040204 gainsboro|0.028587 white|0.0048886 smoke|0.0048886  "
+		}
+	}
+}

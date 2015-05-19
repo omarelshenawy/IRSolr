@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "632c5b2bbb557f3d3fc1fbbf692797d54a541b7d85780e96860c4ea7699a1e14",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HD-Rayleigh-Taylor.gif/320px-HD-Rayleigh-Taylor.gif",
+			"previous": [],
+				"after": "When all the time derivatives of a flow field vanish, the flow is considered to be a steady flow. Steady-state flow refers to the condition where the fluid properties at a point in the system do not change over time. Otherwise, flow is called unsteady (also called transient[5]). Whether a particular flow is steady or unsteady, can depend on the chosen frame of reference. For instance, laminar flow over a sphere is steady in the frame of reference that is stationary with respect to the sphere. In a frame of reference that is stationary with respect to a background flow, the flow is unsteady.",
+			"color": " "
+		}
+	}
+}

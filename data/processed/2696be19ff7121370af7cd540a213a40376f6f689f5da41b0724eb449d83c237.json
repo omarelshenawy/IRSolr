@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "2696be19ff7121370af7cd540a213a40376f6f689f5da41b0724eb449d83c237",
+			"url": "https://upload.wikimedia.org/math/e/6/6/e6613c1b43b51a7d11eaade8b4144a1f.png",
+			"previous": [
+				"For example, consider the cyclic permutation matrix",
+				"Since the eigenvalues are roots of the characteristic polynomial, an matrix has at most eigenvalues. If the matrix has real entries, the coefficients of the characteristic polynomial are all real; but it may have fewer than real roots, or no real roots at all."
+			],
+				"after": "The fundamental theorem of algebra implies that the characteristic polynomial of an matrix , being a polynomial of degree , has exactly complex roots. More precisely, it can be factored into the product of linear terms,",
+			"color": "dim|0.41713 gray|0.41713 dim|0.41713 grey|0.41713 gray|0.27785 grey|0.27785 dark|0.15192 gray|0.15192 dark|0.15192 grey|0.15192 silver|0.077153 light|0.040568 gray|0.040568 light|0.040568 grey|0.040568 gainsboro|0.027061  "
+		}
+	}
+}

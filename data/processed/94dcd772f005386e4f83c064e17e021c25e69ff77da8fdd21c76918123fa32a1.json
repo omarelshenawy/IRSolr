@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "94dcd772f005386e4f83c064e17e021c25e69ff77da8fdd21c76918123fa32a1",
+			"url": "https://upload.wikimedia.org/math/9/5/8/9581dc2354d458d372d62d2959c61d47.png",
+			"previous": [
+				"Some terminology is associated with these parametric curves. We have",
+				"For example, for nÂ =Â 5:"
+			],
+			"after": [
+				"where the polynomials",
+				"are known as Bernstein basis polynomials of degree n.",
+				"Note that t0Â =Â 1, (1Â âÂ t)0Â =Â 1, and that the binomial coefficient, , also expressed as or , is:"
+			],
+			"color": "dim|0.40349 gray|0.40349 dim|0.40349 grey|0.40349 gray|0.28614 grey|0.28614 dark|0.16891 gray|0.16891 dark|0.16891 grey|0.16891 silver|0.06664 light|0.035522 gray|0.035522 light|0.035522 grey|0.035522 gainsboro|0.023089 white|0.0052195 smoke|0.0052195  "
+		}
+	}
+}

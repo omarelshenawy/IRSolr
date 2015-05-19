@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7b61c35b6ce1d0c14bcd14b8c74caa0034ee4fff93b7a5c49d31ba9694a3d21",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_Domesday_machine_keyboard.jpg/220px-BBC_Domesday_machine_keyboard.jpg",
+			"previous": [],
+				"after": "The project was stored on adapted laserdiscs in the LaserVision Read Only Memory (LV-ROM) format, which contained not only analogue video and still pictures, but also digital data, with 300 MB of storage space on each side of the disc. Data and images were selected and collated by the BBC Domesday project based in Bilton House in West Ealing. Pre-mastering of data was carried out on a VAX-11/750 mini-computer, assisted by a network of BBC micros. The discs were mastered, produced, and tested by the Philips Laservision factory in Blackburn, England. Viewing the discs required an Acorn BBC Master expanded with a SCSI controller and an additional coprocessor controlled a Philips VP415 \"Domesday Player\", a specially produced laserdisc player. The user interface consisted of the BBC Master's keyboard and a trackball (known at the time as a trackerball). The software for the project was written in BCPL (a precursor to C), to make cross platform porting easier, although BCPL never attained the popularity that its early promise suggested it might.",
+			"color": "black|0.55868 dim|0.076273 gray|0.076273 dim|0.076273 grey|0.076273 gray|0.036682 grey|0.036682 dark|0.035339 gray|0.035339 dark|0.035339 grey|0.035339 silver|0.018592 light|0.015536 gray|0.015536 light|0.015536 grey|0.015536 white|0.013542 smoke|0.013542 gainsboro|0.01342 yellow|0.01305 alice|0.012226 blue|0.012226 ghost|0.01216 white|0.01216 firebrick|0.01167 snow|0.011628 white|0.011198 mint|0.010895 cream|0.010895 sea|0.010809 shell|0.010809 lavender|0.010629 blush|0.010629 azure|0.01056 floral|0.010236 white|0.010236 lavender|0.010148 brown|0.0090604 light|0.0084919 steel|0.0084919 blue|0.0084919 thistle|0.0067599  "
+		}
+	}
+}

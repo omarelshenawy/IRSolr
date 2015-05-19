@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "a0a88faaaf2d0516001dd0168a0825b4458e261994a06b88a41d259b1442a628",
+			"url": "https://upload.wikimedia.org/math/f/7/0/f703ce35aad97733a408ba0a3c9df756.png",
+				"previous": "where,",
+				"after": "Because of the cost in processing time of squaring numbers in SSD, many implementations use Sum of Absolute Difference (SAD) as the basis for computing the information measure. Other methods use normalized cross correlation (NCC).",
+			"color": "dim|0.38077 gray|0.38077 dim|0.38077 grey|0.38077 gray|0.28744 grey|0.28744 dark|0.17834 gray|0.17834 dark|0.17834 grey|0.17834 silver|0.076099 light|0.035629 gray|0.035629 light|0.035629 grey|0.035629 gainsboro|0.024464 white|0.0042694 smoke|0.0042694  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "20f89f480fd8cc69471047f77ed801f1ce2e6c923ffdf6e7a5bb49a72317210e",
+			"url": "https://upload.wikimedia.org/math/7/4/4/744fc6c407b5482079225600a9cd3f43.png",
+			"previous": [
+				"Setting , and , the elementary symmetric polynomials, we have, using that :",
+				"Thus the resolution of the equation may be finished exactly as described for Cardano's method, with and in place of and ."
+			],
+			"after": [
+				"and a straightforward computation gives",
+				"Similarly we have"
+			],
+			"color": "dim|0.36813 gray|0.36813 dim|0.36813 grey|0.36813 gray|0.25917 grey|0.25917 dark|0.17994 gray|0.17994 dark|0.17994 grey|0.17994 silver|0.089524 light|0.048131 gray|0.048131 light|0.048131 grey|0.048131 gainsboro|0.033457 white|0.0047474 smoke|0.0047474  "
+		}
+	}
+}

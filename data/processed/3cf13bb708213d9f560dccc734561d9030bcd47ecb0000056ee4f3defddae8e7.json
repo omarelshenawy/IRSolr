@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3cf13bb708213d9f560dccc734561d9030bcd47ecb0000056ee4f3defddae8e7",
+			"url": "https://upload.wikimedia.org/math/3/3/5/33506801b1a0e5ad14ad9dec860dae98.png",
+			"previous": [
+				"where the Lorentz factor is:",
+				"Examples of other 4-vectors include the four-velocity UÎ¼, defined as the derivative of the position 4-vector with respect to proper time:"
+			],
+			"after": [
+				"The relativistic energy and relativistic momentum of an object are respectively the timelike and spacelike components of a contravariant four momentum vector:",
+				"where m is the invariant mass."
+			],
+			"color": "dim|0.38387 gray|0.38387 dim|0.38387 grey|0.38387 gray|0.27704 grey|0.27704 dark|0.18173 gray|0.18173 dark|0.18173 grey|0.18173 silver|0.077353 light|0.036894 gray|0.036894 light|0.036894 grey|0.036894 gainsboro|0.02622 white|0.0045483 smoke|0.0045483  "
+		}
+	}
+}

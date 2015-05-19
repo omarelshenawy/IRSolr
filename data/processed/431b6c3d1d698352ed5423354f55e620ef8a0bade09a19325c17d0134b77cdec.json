@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "431b6c3d1d698352ed5423354f55e620ef8a0bade09a19325c17d0134b77cdec",
+			"url": "https://upload.wikimedia.org/math/1/d/1/1d182debb9ef06ab51b1043c6587b57d.png",
+			"previous": [
+				"When a maximum of Pâf occurs at xi, then",
+				"To prove this is true in general, suppose P is a polynomial of degree N having the property described, that is, it gives rise to an error function that has NÂ +Â 2 extrema, of alternating signs and equal magnitudes. The red graph to the right shows what this error function might look like for NÂ =Â 4. Suppose Q(x) (whose error function is shown in blue to the right) is another N-degree polynomial that is a better approximation to f than P. In particular, Q is closer to f than P for each value xi where an extreme of Pâf occurs, so"
+			],
+			"after": [
+				"And when a minimum of Pâf occurs at xi, then",
+				"So, as can be seen in the graph, [P(x)Â âÂ f(x)]Â âÂ [Q(x)Â âÂ f(x)] must alternate in sign for the NÂ +Â 2 values of xi. But [P(x)Â âÂ f(x)]Â âÂ [Q(x)Â âÂ f(x)] reduces to P(x)Â âÂ Q(x) which is a polynomial of degree N. This function changes sign at least N+1 times so, by the Intermediate value theorem, it has N+1 zeroes, which is impossible for a polynomial of degree N."
+			],
+			"color": "dim|0.3223 gray|0.3223 dim|0.3223 grey|0.3223 gray|0.28803 grey|0.28803 dark|0.19507 gray|0.19507 dark|0.19507 grey|0.19507 silver|0.094686 light|0.050433 gray|0.050433 light|0.050433 grey|0.050433 gainsboro|0.03509 white|0.0039195 smoke|0.0039195  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "22fbff8b49fa6578b3ef56f1ec5d6e6770e0032412a65a29de749af231abe482",
+			"url": "https://upload.wikimedia.org/math/3/f/f/3ff2d784946b79f2e6637014a8ab195f.png",
+			"previous": [
+				"Assuming the axiom of choice, multiplication of infinite cardinal numbers is also easy. If either Îº or Î¼ is infinite and both are non-zero, then",
+				"Multiplication distributes over addition: ÎºÂ·(Î¼ + Î½) = ÎºÂ·Î¼ + ÎºÂ·Î½ and (Î¼ + Î½)Â·Îº = Î¼Â·Îº + Î½Â·Îº."
+			],
+				"after": "Assuming the axiom of choice and, given an infinite cardinal Ï and a non-zero cardinal Î¼, there exists a cardinal Îº such that Î¼ Â· Îº = Ï if and only if Î¼ â¤ Ï. It will be unique (and equal to Ï) if and only if Î¼ < Ï.",
+			"color": "dim|0.38752 gray|0.38752 dim|0.38752 grey|0.38752 gray|0.304 grey|0.304 dark|0.17677 gray|0.17677 dark|0.17677 grey|0.17677 silver|0.066803 light|0.029227 gray|0.029227 light|0.029227 grey|0.029227 gainsboro|0.019763 white|0.0036335 smoke|0.0036335  "
+		}
+	}
+}

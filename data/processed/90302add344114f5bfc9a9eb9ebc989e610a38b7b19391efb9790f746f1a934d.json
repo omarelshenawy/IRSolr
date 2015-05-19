@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "90302add344114f5bfc9a9eb9ebc989e610a38b7b19391efb9790f746f1a934d",
+			"url": "https://upload.wikimedia.org/math/2/0/f/20ff0900cc328ea8267eee54177cf4fa.png",
+			"previous": [
+				"We get: .",
+				"Therefore the maximum value of stage efficiency is obtained by putting the value of in the expression of /",
+				"is maximum when or, . That implies and therefore . Now (for a single stage impulse turbine)"
+			],
+			"after": [
+				"Conclusions on maximum efficiency",
+				"",
+				"1. For a given steam velocity work done per kg of steam would be maximum when or ."
+			],
+			"color": "dim|0.37945 gray|0.37945 dim|0.37945 grey|0.37945 gray|0.28541 grey|0.28541 dark|0.17555 gray|0.17555 dark|0.17555 grey|0.17555 silver|0.07567 light|0.037627 gray|0.037627 light|0.037627 grey|0.037627 gainsboro|0.026849 white|0.0048276 smoke|0.0048276  "
+		}
+	}
+}

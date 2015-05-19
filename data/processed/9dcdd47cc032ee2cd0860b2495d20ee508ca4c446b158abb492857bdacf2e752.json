@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9dcdd47cc032ee2cd0860b2495d20ee508ca4c446b158abb492857bdacf2e752",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eigenfaces.png/200px-Eigenfaces.png",
+				"previous": "The orthogonality properties of the eigenvectors allows decoupling of the differential equations so that the system can be represented as linear summation of the eigenvectors. The eigenvalue problem of complex structures is often solved using finite element analysis, but neatly generalize the solution to scalar-valued vibration problems.",
+				"after": "In image processing, processed images of faces can be seen as vectors whose components are the brightnesses of each pixel.[32] The dimension of this vector space is the number of pixels. The eigenvectors of the covariance matrix associated with a large set of normalized pictures of faces are called eigenfaces; this is an example of principal components analysis. They are very useful for expressing any face image as a linear combination of some of them. In the facial recognition branch of biometrics, eigenfaces provide a means of applying data compression to faces for identification purposes. Research related to eigen vision systems determining hand gestures has also been made.",
+			"color": "gray|0.30148 grey|0.30148 dim|0.23679 gray|0.23679 dim|0.23679 grey|0.23679 dark|0.21295 gray|0.21295 dark|0.21295 grey|0.21295 silver|0.087626 black|0.052105 light|0.046857 gray|0.046857 light|0.046857 grey|0.046857 gainsboro|0.032925 white|0.0065461 smoke|0.0065461  "
+		}
+	}
+}

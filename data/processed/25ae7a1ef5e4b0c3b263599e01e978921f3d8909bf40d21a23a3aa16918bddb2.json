@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "25ae7a1ef5e4b0c3b263599e01e978921f3d8909bf40d21a23a3aa16918bddb2",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ILS_gauge.svg/240px-ILS_gauge.svg.png",
+			"previous": [],
+				"after": "An aircraft approaching a runway is guided by the ILS receivers in the aircraft by performing modulation depth comparisons. Many aircraft can route signals into the autopilot to fly the approach automatically. An ILS consists of two independent sub-systems. The localizer provides lateral guidance; the glide slope provides vertical guidance.",
+			"color": "black|0.86446 dim|0.093869 gray|0.093869 dim|0.093869 grey|0.093869 gray|0.038629 grey|0.038629  "
+		}
+	}
+}

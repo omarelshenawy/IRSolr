@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "12977f67f96c69ba5d38e52277fc96304386b2723bfb8467d6a5889a68a1d9bf",
+			"url": "https://upload.wikimedia.org/math/0/1/1/011346749c8642449b4fb81bce3a5624.png",
+			"previous": [
+				"where:",
+				"The pressure coefficient is a parameter for studying the flow of incompressible fluids such as water, and also the low-speed flow of compressible fluids such as air. The relationship between the dimensionless coefficient and the dimensional numbers is [1] [2]"
+			],
+			"after": [
+				"Using Bernoulli's Equation, the pressure coefficient can be further simplified for incompressible, lossless, and steady flow:[3]",
+				"where V is the velocity of the fluid at the point at which pressure coefficient is being evaluated."
+			],
+			"color": "gray|0.27392 grey|0.27392 dark|0.26848 gray|0.26848 dark|0.26848 grey|0.26848 dim|0.17178 gray|0.17178 dim|0.17178 grey|0.17178 silver|0.13372 light|0.067705 gray|0.067705 light|0.067705 grey|0.067705 gainsboro|0.046305 white|0.0084509 smoke|0.0084509 lavender|0.0042259 blush|0.0042259 alice|0.0040275 blue|0.0040275 linen|0.0039594 ghost|0.0039139 white|0.0039139 sea|0.0037102 shell|0.0037102 snow|0.0035398 white|0.0026032  "
+		}
+	}
+}

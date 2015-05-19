@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "42b4b54c8883f41ac8520f4a92377d028f320df9ebb8055afb6967f2c77180ff",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Infinite_potential_well.svg/220px-Infinite_potential_well.svg.png",
+				"previous": "This is a model for the quantum tunneling effect which plays an important role in the performance of modern technologies such as flash memory and scanning tunneling microscopy. Quantum tunneling is central to physical phenomena involved in superlattices.",
+				"after": "The particle in a one-dimensional potential energy box is the most mathematically simple example where restraints lead to the quantization of energy levels. The box is defined as having zero potential energy everywhere inside a certain region, and infinite potential energy everywhere outside that region. For the one-dimensional case in the direction, the time-independent SchrÃ¶dinger equation may be written[75]",
+			"color": "silver|0.47548 dark|0.46765 gray|0.46765 dark|0.46765 grey|0.46765 light|0.018258 gray|0.018258 light|0.018258 grey|0.018258 gray|0.014904 grey|0.014904 black|0.014224 dim|0.0041964 gray|0.0041964 dim|0.0041964 grey|0.0041964  "
+		}
+	}
+}

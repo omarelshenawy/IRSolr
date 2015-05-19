@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8d3a5ee3d9d81c537d84a107dc94df6b45a126b7fb69899d0cf46dade687b85f",
+			"url": "https://upload.wikimedia.org/math/5/6/6/566b85f27e5486bb63c0d15775fbd769.png",
+				"previous": "Generating functions are used to describe families of combinatorial objects. Let denote the family of objects and let F(x) be its generating function. Then:",
+				"after": "Once determined, the generating function yields the information given by the previous approaches. In addition, the various natural operations on generating functions such as addition, multiplication, differentiation, etc., have a combinatorial significance; this allows one to extend results from one combinatorial problem in order to solve others.",
+			"color": "dark|0.36424 gray|0.36424 dark|0.36424 grey|0.36424 gray|0.21271 grey|0.21271 silver|0.18634 light|0.10204 gray|0.10204 light|0.10204 grey|0.10204 gainsboro|0.071917 dim|0.021132 gray|0.021132 dim|0.021132 grey|0.021132 white|0.013005 smoke|0.013005 linen|0.0061353 lavender|0.0045636 blush|0.0045636 alice|0.004354 blue|0.004354 ghost|0.0041211 white|0.0041211 sea|0.0038217 shell|0.0038217 snow|0.0036908  "
+		}
+	}
+}

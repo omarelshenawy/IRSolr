@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "76fba5dac36968e45379e6ce742a3b44eb1b2806aa3090f9932dbf3d057e6dc4",
+			"url": "https://upload.wikimedia.org/math/6/8/3/6832b40fae02972f7ab7473bf091b53d.png",
+				"previous": "For a device that converts energy from another form into thermal energy (such as an electric heater, boiler, or furnace), the thermal efficiency is",
+			"after": [
+				"where the quantities are heat-equivalent values.",
+				"So, for a boiler that produces 210Â kW (or 700,000 BTU/h) output for each 300Â kW (or 1,000,000 BTU/h) heat-equivalent input, its thermal efficiency is 210/300 = 0.70, or 70%. This means that 30% of the energy is lost to the environment."
+			],
+			"color": "gray|0.27383 grey|0.27383 dark|0.24619 gray|0.24619 dark|0.24619 grey|0.24619 dim|0.19953 gray|0.19953 dim|0.19953 grey|0.19953 silver|0.12407 light|0.072651 gray|0.072651 light|0.072651 grey|0.072651 gainsboro|0.050315 white|0.0095943 smoke|0.0095943 linen|0.0037711 lavender|0.0034904 blush|0.0034904 alice|0.0033905 blue|0.0033905 ghost|0.0032658 white|0.0032658 sea|0.0031053 shell|0.0031053 snow|0.0029961  "
+		}
+	}
+}

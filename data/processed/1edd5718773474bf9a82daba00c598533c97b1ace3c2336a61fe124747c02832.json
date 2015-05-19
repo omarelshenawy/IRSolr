@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1edd5718773474bf9a82daba00c598533c97b1ace3c2336a61fe124747c02832",
+			"url": "https://upload.wikimedia.org/math/7/0/c/70c194064c904fb6c2222aef5498725d.png",
+				"previous": "This is a limit proof by Riemann sums. Let f be (Riemann) integrable on the interval [a, b], and let f admit an antiderivative F on [a, b]. Begin with the quantity F(b) â F(a). Let there be numbers x1, ..., xn such that",
+				"after": "It follows that",
+			"color": "black|0.28918 dim|0.27774 gray|0.27774 dim|0.27774 grey|0.27774 gray|0.19225 grey|0.19225 dark|0.12466 gray|0.12466 dark|0.12466 grey|0.12466 silver|0.055047 light|0.028158 gray|0.028158 light|0.028158 grey|0.028158 gainsboro|0.019774  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3431d7416a408869eab1726a8ed6a4d3f9da40cd19051ccb8afcc5f5865dfeab",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PrimeNumberTheorem.svg/300px-PrimeNumberTheorem.svg.png",
+			"previous": [],
+				"after": "The prime counting function Ï(n) is defined as the number of primes not greater than n. For example Ï(11) = 5, since there are five primes less than or equal to 11. There are known algorithms to compute exact values of Ï(n) faster than it would be possible to compute each prime up to n. The prime number theorem states that Ï(n) is approximately given by",
+			"color": "light|0.4115 green|0.4115 medium|0.13938 purple|0.13938 medium|0.11947 slate|0.11947 blue|0.11947 pink|0.065634 light|0.053835 pink|0.053835 pale|0.053097 violet|0.053097 red|0.053097 light|0.032448 coral|0.032448 slate|0.027286 blue|0.027286 plum|0.020649 thistle|0.019174 misty|0.012832 rose|0.012832  "
+		}
+	}
+}

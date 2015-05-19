@@ -1,0 +1,16 @@
+{
+	"add": {
+		"doc": {
+			"id": "223511027a0cd479013381364a3df581d8ed63570af48d8d54ddb114e401b42d",
+			"url": "https://upload.wikimedia.org/math/7/c/3/7c3091662662d89d3cbc5386319b1c88.png",
+			"previous": [
+				"Again as ambient temperature falls (through increasing altitude or a cooler climate), mechanical shaft speed must also decrease to remain at the same non-dimensional point.",
+				"",
+				"2) mechanical shaft speed",
+				"So as ambient temperature falls (through increasing altitude or a cooler climate), turbine entry temperature must also fall to stay at the same non-dimensional point on the Husk Plot. All the other non-dimensional groups (e.g. corrected flow, axial and peripheral Mach numbers, pressure ratios, efficiencies, etc. will also stay constant)."
+			],
+				"after": "Nowadays, civil engines are usually flat-rated on net thrust up to a 'kink-point' climate. So at a given flight condition, net thrust is held approximately constant over a very wide range of ambient temperature, by increasing (HP) turbine rotor inlet temperature (RIT or SOT). However, beyond the kink-point, SOT is held constant and net thrust starts to fall for further increases in ambient temperature.[12] Consequently, aircraft fuel load and/or payload must be decreased.",
+			"color": "gray|0.31797 grey|0.31797 dim|0.28033 gray|0.28033 dim|0.28033 grey|0.28033 dark|0.2131 gray|0.2131 dark|0.2131 grey|0.2131 silver|0.093528 light|0.046598 gray|0.046598 light|0.046598 grey|0.046598 gainsboro|0.032816 white|0.0049406 smoke|0.0049406  "
+		}
+	}
+}

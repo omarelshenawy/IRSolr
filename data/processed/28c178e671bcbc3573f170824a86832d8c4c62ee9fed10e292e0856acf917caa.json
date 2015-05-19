@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "28c178e671bcbc3573f170824a86832d8c4c62ee9fed10e292e0856acf917caa",
+			"url": "https://upload.wikimedia.org/math/c/0/8/c0883e48b6b356f51a079e6d00f792c4.png",
+				"previous": "The above formula assumes that the source is either directly approaching or receding from the observer. If the source approaches the observer at an angle (but still with a constant velocity), the observed frequency that is first heard is higher than the object's emitted frequency. Thereafter, there is a monotonic decrease in the observed frequency as it gets closer to the observer, through equality when it is coming from a direction perpendicular to the relative motion (and was emitted at the point of closest approach; but when the wave is received, the source and observer will no longer be at their closest), and a continued monotonic decrease as it recedes from the observer. When the observer is very close to the path of the object, the transition from high to low frequency is very abrupt. When the observer is far from the path of the object, the transition from high to low frequency is gradual.",
+			"after": [],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b995363c7fcacb7c18daff1fd2c35087751463da741f0145122c05e317afa5f",
+			"url": "https://upload.wikimedia.org/math/3/c/f/3cfb5ae88009fda8619ba0d8ef88c524.png",
+				"previous": "Assuming the axiom of choice, addition of infinite cardinal numbers is easy. If either Îº or Î¼ is infinite, then",
+				"after": "Assuming the axiom of choice and, given an infinite cardinal Ï and a cardinal Î¼, there exists a cardinal Îº such that Î¼ + Îº = Ï if and only if Î¼ â¤ Ï. It will be unique (and equal to Ï) if and only if Î¼ < Ï.",
+			"color": "dim|0.4239 gray|0.4239 dim|0.4239 grey|0.4239 gray|0.28924 grey|0.28924 dark|0.16625 gray|0.16625 dark|0.16625 grey|0.16625 silver|0.062352 light|0.026944 gray|0.026944 light|0.026944 grey|0.026944 gainsboro|0.018069 white|0.0031664 smoke|0.0031664  "
+		}
+	}
+}

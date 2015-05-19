@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "18f66752a1c7479042dc77ae3cc054a38fb87689258b84aa4902aed81ea2cf4a",
+			"url": "https://upload.wikimedia.org/math/4/e/3/4e3880bd3d9890971a0c5d23a706cb02.png",
+			"previous": [
+				"Note from the figure that",
+				"Having computed the eccentric anomaly E, the next step is to calculate the true anomaly Î¸.",
+				"This equation gives M as a function of E. Determining E for a given M is the inverse problem. Iterative numerical algorithms are commonly used."
+			],
+			"after": [
+				"so that",
+				"Dividing by and inserting from Kepler's first law"
+			],
+			"color": "dim|0.28414 gray|0.28414 dim|0.28414 grey|0.28414 gray|0.27972 grey|0.27972 black|0.25025 dark|0.15801 gray|0.15801 dark|0.15801 grey|0.15801 silver|0.026929  "
+		}
+	}
+}

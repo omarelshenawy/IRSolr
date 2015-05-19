@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4351f1de2f1e0a4cb32ada8afe0d1c4f802f8ec644bf3e82a78bf844ca92846a",
+			"url": "https://upload.wikimedia.org/math/6/5/3/6531eee7f4221db622f7e491bed0283c.png",
+				"previous": "For this to be generically true for any amplitude, the matrix on the left must be singular i.e. must not be invertible, such that one cannot multiply both sides of the equation by the inverse, leaving the right matrix equal to zero. It follows that the determinant of the matrix must be equal to 0, so:",
+				"after": "Solving for , we have two positive solutions:",
+			"color": "dim|0.32958 gray|0.32958 dim|0.32958 grey|0.32958 gray|0.28393 grey|0.28393 dark|0.18618 gray|0.18618 dark|0.18618 grey|0.18618 silver|0.092014 light|0.047645 gray|0.047645 light|0.047645 grey|0.047645 gainsboro|0.034196 white|0.0060041 smoke|0.0060041 linen|0.003042 lavender|0.0028921 blush|0.0028921 alice|0.0028172 blue|0.0028172  "
+		}
+	}
+}

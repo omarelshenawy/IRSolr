@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "250bddcaa5276cf6d442ff39ba07a2b573b8aa18cb61279f453261e23d418c0d",
+			"url": "https://upload.wikimedia.org/math/d/c/9/dc9f8a5318ebc9b3a60620316a4c534a.png",
+				"previous": "In geometrical terms, given a circle centered about the origin in the plane with radius r, the problem asks how many integer lattice points lie on or inside the circle. It is not hard to prove that the answer is , where as . Again, the difficult part and a great achievement of analytic number theory is obtaining specific upper bounds on the error termÂ E(r).",
+				"after": "In 2000 Huxley showed[12] that , which is the best published result.",
+			"color": "gray|0.33519 grey|0.33519 dark|0.24793 gray|0.24793 dark|0.24793 grey|0.24793 dim|0.21142 gray|0.21142 dim|0.21142 grey|0.21142 silver|0.1002 light|0.049626 gray|0.049626 light|0.049626 grey|0.049626 gainsboro|0.034304 white|0.0061956 smoke|0.0061956 linen|0.002908  "
+		}
+	}
+}

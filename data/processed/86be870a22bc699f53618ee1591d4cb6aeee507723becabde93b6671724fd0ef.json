@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "86be870a22bc699f53618ee1591d4cb6aeee507723becabde93b6671724fd0ef",
+			"url": "https://upload.wikimedia.org/math/7/9/c/79c40dd2b43f3c03eaf88b5fc4c199b8.png",
+				"previous": "Gluing edges of polygons is a special kind of quotient space process. The quotient concept can be applied in greater generality to produce new or alternative constructions of surfaces. For example, the real projective plane can be obtained as the quotient of the sphere by identifying all pairs of opposite points on the sphere. Another example of a quotient is the connected sum.",
+				"after": "The sphere S is an identity element for the connected sum, meaning that S # M = M. This is because deleting a disk from the sphere leaves a disk, which simply replaces the disk deleted from M upon gluing.",
+			"color": " "
+		}
+	}
+}

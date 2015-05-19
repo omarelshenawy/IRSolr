@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "489bf343a0efb15086a4d7aa8b209bcf97a529d79f844b1b264e937337ec1a67",
+			"url": "https://upload.wikimedia.org/math/b/b/5/bb5c528504cce48395b140c6652a431e.png",
+				"previous": "where Y is a subset of the reals (and X is an arbitrary set), their (pointwise) sum f+g and product fÂ âÂ g are functions with the same domain and codomain. They are defined by the formulas:",
+				"after": "In a similar vein, complex analysis studies functions whose domain and codomain are both the set of complex numbers. In most situations, the domain and codomain are understood from context, and only the relationship between the input and output is given, but if , then in real variables the domain is limited to non-negative numbers.",
+			"color": "dark|0.3244 gray|0.3244 dark|0.3244 grey|0.3244 gray|0.26221 grey|0.26221 silver|0.16133 light|0.087834 gray|0.087834 light|0.087834 grey|0.087834 gainsboro|0.062723 dim|0.061801 gray|0.061801 dim|0.061801 grey|0.061801 white|0.012176 smoke|0.012176 linen|0.0056905 lavender|0.0040619 blush|0.0040619 alice|0.0040619 blue|0.0040619 ghost|0.0036217 white|0.0036217 sea|0.0032696 shell|0.0032696 snow|0.0031595  "
+		}
+	}
+}

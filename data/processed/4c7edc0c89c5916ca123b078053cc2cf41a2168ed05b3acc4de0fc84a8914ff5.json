@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c7edc0c89c5916ca123b078053cc2cf41a2168ed05b3acc4de0fc84a8914ff5",
+			"url": "https://upload.wikimedia.org/math/2/7/a/27ab9af40f29df8eae70e73d7bbb6325.png",
+				"previous": "Much web based mapping uses a zoomable version of the Mercator projection with an aspect ratio of unity. In this case the maximum latitude attained must correspond to y=Â±W/2, or equivalently y/R=Ï. Any of the inverse transformation formulae may be used to calculate the corresponding latitudes:",
+			"after": [],
+			"color": "dim|0.42452 gray|0.42452 dim|0.42452 grey|0.42452 gray|0.26105 grey|0.26105 dark|0.1446 gray|0.1446 dark|0.1446 grey|0.1446 silver|0.073576 light|0.03961 gray|0.03961 light|0.03961 grey|0.03961 gainsboro|0.028784 white|0.0066743 smoke|0.0066743 linen|0.0035883 lavender|0.003409 blush|0.003409 alice|0.0033604 blue|0.0033604  "
+		}
+	}
+}

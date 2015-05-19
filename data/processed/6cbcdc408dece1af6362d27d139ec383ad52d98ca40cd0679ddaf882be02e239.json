@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6cbcdc408dece1af6362d27d139ec383ad52d98ca40cd0679ddaf882be02e239",
+			"url": "https://upload.wikimedia.org/math/f/8/9/f896be3d8636bddc74beebe184293aff.png",
+			"previous": [],
+				"after": "Dirac's second-order perturbation theory can involve virtual photons, transient intermediate states of the electromagnetic field; the static electric and magnetic interactions are mediated by such virtual photons. In such quantum field theories, the probability amplitude of observable events is calculated by summing over all possible intermediate steps, even ones that are unphysical; hence, virtual photons are not constrained to satisfy , and may have extra polarization states; depending on the gauge used, virtual photons may have three or four polarization states, instead of the two states of real photons. Although these transient virtual photons can never be observed, they contribute measurably to the probabilities of observable events. Indeed, such second-order and higher-order perturbation calculations can give apparently infinite contributions to the sum. Such unphysical results are corrected for using the technique of renormalization.",
+			"color": "gray|0.29576 grey|0.29576 dim|0.2923 gray|0.2923 dim|0.2923 grey|0.2923 dark|0.20701 gray|0.20701 dark|0.20701 grey|0.20701 silver|0.099293 light|0.050432 gray|0.050432 light|0.050432 grey|0.050432 gainsboro|0.034634 white|0.0050537 smoke|0.0050537 linen|0.0026456  "
+		}
+	}
+}

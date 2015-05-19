@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "998caea3012fe3f608a77368cf0e94816525cccebbb5dd8da0977a7382ef2a3d",
+			"url": "https://upload.wikimedia.org/math/f/f/6/ff6806b0ed551e6caf1cb2c66265a969.png",
+			"previous": [
+				"Taking the divergence of both sides (the divergence and partial derivative in time commute) results in",
+				"One of Maxwell's equations, AmpÃ¨re's law (with Maxwell's correction), states that"
+			],
+			"after": [
+				"but the divergence of a curl is zero, so that",
+				"Another one of Maxwell's equations, Gauss's law, states that"
+			],
+			"color": "dim|0.44767 gray|0.44767 dim|0.44767 grey|0.44767 gray|0.27615 grey|0.27615 dark|0.15781 gray|0.15781 dark|0.15781 grey|0.15781 silver|0.063402 light|0.027462 gray|0.027462 light|0.027462 grey|0.027462 gainsboro|0.017222  "
+		}
+	}
+}

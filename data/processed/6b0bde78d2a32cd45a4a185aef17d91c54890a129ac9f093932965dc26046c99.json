@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b0bde78d2a32cd45a4a185aef17d91c54890a129ac9f093932965dc26046c99",
+			"url": "https://upload.wikimedia.org/math/0/c/4/0c4913db725b72609d4825124dda12aa.png",
+			"previous": [
+				"Any single-variable quadratic polynomial may be written as",
+				"A quadratic polynomial may involve a single variable x (the univariate case), or multiple variables such as x, y, and z (the multivariate case)."
+			],
+			"after": [
+				"Any quadratic polynomial with two variables may be written as",
+				"where x and y are the variables and a, b, c, d, e, and f are the coefficients. Such polynomials are fundamental to the study of conic sections. Similarly, quadratic polynomials with three or more variables correspond to quadric surfaces and hypersurfaces. In linear algebra, quadratic polynomials can be generalized to the notion of a quadratic form on a vector space."
+			],
+			"color": "black|0.33856 dim|0.26834 gray|0.26834 dim|0.26834 grey|0.26834 gray|0.17403 grey|0.17403 dark|0.11279 gray|0.11279 dark|0.11279 grey|0.11279 silver|0.052147 light|0.026317 gray|0.026317 light|0.026317 grey|0.026317 gainsboro|0.018013  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "67918e54f352a2381f1b4462ec37a87c889da01ddafd86eb08d716adba16d8fb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ccd-sensor.jpg/170px-Ccd-sensor.jpg",
+				"previous": "The resolution of a digital camera is often limited by the image sensor[8] that turns light into discrete signals. The brighter the image at a given point on the sensor, the larger the value that is read for that pixel. Depending on the physical structure of the sensor, a color filter array may be used, which requires demosaicing to recreate a full-color image. The number of pixels in the sensor determines the camera's \"pixel count\". In a typical sensor, the pixel count is the product of the number of rows and the number of columns. For example, a 1,000 by 1,000 pixel sensor would have 1,000,000 pixels, or 1 megapixel.",
+				"after": "Since the first digital backs were introduced, there have been three main methods of capturing the image, each based on the hardware configuration of the sensor and color filters.",
+			"color": "golden|0.21831 rod|0.21831 dark|0.13405 golden|0.13405 rod|0.13405 khaki|0.12573 black|0.1111 dark|0.079673 gray|0.079673 dark|0.079673 grey|0.079673 pale|0.046745 golden|0.046745 rod|0.046745 saddle|0.033411 brown|0.033411 tan|0.026739 burly|0.02184 wood|0.02184 sienna|0.020977 gray|0.01511 grey|0.01511 silver|0.012374 rosy|0.012166 brown|0.012166 navajo|0.010226 white|0.010226 light|0.0095593 gray|0.0095593 light|0.0095593 grey|0.0095593 dark|0.0087664 khaki|0.0087664  "
+		}
+	}
+}

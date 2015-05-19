@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "60d458332e383b4225d07b93f5938891967a0e5b21df7da0ffbb09c487835d32",
+			"url": "https://upload.wikimedia.org/math/3/1/7/317673d6eb0578bc56bd37afbff335aa.png",
+				"previous": "Suppose the geometric algebra with the familiar positive definite inner product on Rn is formed. Given a plane (2-dimensional subspace) of Rn, one can find an orthonormal basis {b1,b2} spanning the plane, and thus find a unit pseudoscalar I = b1b2 representing this plane. The geometric product of any two vectors in the span of b1 and b2 lies in , that is, it is the sum of a 0-vector and a 2-vector.",
+				"after": "It is sometimes possible to identify the presence of an imaginary unit in a physical equation. Such units arise from one of the many quantities in the real algebra that square to â1, and these have geometric significance because of the properties of the algebra and the interaction of its various subspaces.",
+			"color": "dim|0.32338 gray|0.32338 dim|0.32338 grey|0.32338 gray|0.29445 grey|0.29445 dark|0.20054 gray|0.20054 dark|0.20054 grey|0.20054 silver|0.091292 light|0.044992 gray|0.044992 light|0.044992 grey|0.044992 gainsboro|0.030874 white|0.0033853 smoke|0.0033853  "
+		}
+	}
+}

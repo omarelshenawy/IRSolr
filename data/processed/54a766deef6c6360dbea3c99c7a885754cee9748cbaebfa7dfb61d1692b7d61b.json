@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "54a766deef6c6360dbea3c99c7a885754cee9748cbaebfa7dfb61d1692b7d61b",
+			"url": "https://upload.wikimedia.org/math/c/8/1/c81e728d9d4c2f636f067f89cc14862c.png",
+				"previous": "It could be argued that the simplest kind of number fields (viz., quadratic fields) were already studied by Gauss, as the discussion of quadratic forms in Disquisitiones arithmeticae can be restated in terms of ideals and norms in quadratic fields. (A quadratic field consists of all numbers of the form , where and are rational numbers and is a fixed rational number whose square root is not rational.) For that matter, the 11th-century chakravala method amountsâin modern termsâto an algorithm for finding the units of a real quadratic number field. However, neither BhÄskara nor Gauss knew of number fields as such.",
+				"after": "Number fields are often studied as extensions of smaller number fields: a field L is said to be an extension of a field K if L contains K. (For example, the complex numbers C are an extension of the reals R, and the reals R are an extension of the rationals Q.) Classifying the possible extensions of a given number field is a difficult and partially open problem. Abelian extensionsâthat is, extensions L of K such that the Galois group[note 12] Gal(L/K) of L over K is an abelian groupâare relatively well understood. Their classification was the object of the programme of class field theory, which was initiated in the late 19th century (partly by Kronecker and Eisenstein) and carried out largely in 1900â1950.",
+			"color": "black|0.4345 dim|0.30369 gray|0.30369 dim|0.30369 grey|0.30369 gray|0.16429 grey|0.16429 dark|0.059363 gray|0.059363 dark|0.059363 grey|0.059363 silver|0.019874 light|0.0069101 gray|0.0069101 light|0.0069101 grey|0.0069101 gainsboro|0.0040297  "
+		}
+	}
+}

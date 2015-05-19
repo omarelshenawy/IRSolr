@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "831cb2cc1142861b7321e0fe2fe26f0a840cd90d9ae2117d6a45e429de0d14d5",
+			"url": "https://upload.wikimedia.org/math/2/0/3/20390a1e97a45762fa4655051b959ac4.png",
+				"previous": "The first step, often trivial, for applying the methods of model theory to a class of mathematical objects such as groups, or trees in the sense of graph theory, is to choose a signature Ï and represent the objects as Ï-structures. The next step is to show that the class is an elementary class, i.e. axiomatizable in first-order logic (i.e. there is a theory T such that a Ï-structure is in the class if and only if it satisfies T). E.g. this step fails for the trees, since connectedness cannot be expressed in first-order logic. Axiomatizability ensures that model theory can speak about the right objects. Quantifier elimination can be seen as a condition which ensures that model theory does not say too much about the objects.",
+				"after": "A substructure of a Ï-structure is a subset of its domain, closed under all functions in its signature Ï, which is regarded as a Ï-structure by restricting all functions and relations in Ï to the subset. An embedding of a Ï-structure into another Ï-structure is a map f: A â B between the domains which can be written as an isomorphism of with a substructure of . Every embedding is an injective homomorphism, but the converse holds only if the signature contains no relation symbols.",
+			"color": "dim|0.36369 gray|0.36369 dim|0.36369 grey|0.36369 gray|0.27783 grey|0.27783 dark|0.17545 gray|0.17545 dark|0.17545 grey|0.17545 silver|0.083052 light|0.044887 gray|0.044887 light|0.044887 grey|0.044887 gainsboro|0.031738 white|0.0054003 smoke|0.0054003  "
+		}
+	}
+}

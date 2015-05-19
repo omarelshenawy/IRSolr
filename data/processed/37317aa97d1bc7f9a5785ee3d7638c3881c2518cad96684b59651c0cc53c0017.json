@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "37317aa97d1bc7f9a5785ee3d7638c3881c2518cad96684b59651c0cc53c0017",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/SSEM_Manchester_museum_close_up.jpg/250px-SSEM_Manchester_museum_close_up.jpg",
+				"previous": "By June 1948 the SSEM had been built and was working.[20] It was 17 feet (5.2Â m) in length, 7Â feet 4Â inches (2.24Â m) tall, and weighed almost 1 long ton (1.0Â t). The machine contained 550Â valvesÂ â 300Â diodes and 250Â pentodesÂ â and had a power consumption of 3500Â watts.[24] The arithmetic unit was built using EF50 pentode valves, which had been widely used during wartime.[21] The SSEM used one Williams tube to provide 32 by 32-bit words of random-access memory (RAM), a second to hold a 32-bit accumulator in which the intermediate results of a calculation could be stored temporarily, and a third to hold the current program instruction along with its address in memory. A fourth CRT, without the storage electronics of the other three, was used as the output device, able to display the bit pattern of any selected storage tube.[25]",
+				"after": "Each 32-bit word of RAM could contain either a program instruction or data. In a program instruction, bits 0â12 represented the memory address of the operand to be used, and bits 13â15 specified the operation to be executed, such as storing a number in memory; the remaining 16Â bits were unused.[25] The SSEM's single operand architecture meant that the second operand of any operation was implicit: the accumulator or the program counter (instruction address); program instructions specified only the address of the data in memory.",
+			"color": "black|0.40909 dark|0.13229 gray|0.13229 dark|0.13229 grey|0.13229 dim|0.1303 gray|0.1303 dim|0.1303 grey|0.1303 gray|0.099685 grey|0.099685 tan|0.071219 silver|0.048978 light|0.020709 gray|0.020709 light|0.020709 grey|0.020709 gainsboro|0.011191  "
+		}
+	}
+}

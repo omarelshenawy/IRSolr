@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e5f9f45a3949c201b8581bec41031d2a69f1f2161d1fcdd1a139e265b154863",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Geodetic_coordinates.svg/200px-Geodetic_coordinates.svg.png",
+			"previous": [],
+				"after": "At an arbitrary point P consider the line PN which is normal to the reference ellipsoid. The geodetic coordinates P(É¸,Î»,h) are the latitude and longitude of the point N on the ellipsoid and the distance PN. This height differs from the height above the geoid or a reference height such as that above mean sea level at a specified location. The direction of PN will also differ from the direction of a vertical plumb line. The relation of these different heights requires knowledge of the shape of the geoid and also the gravity field of the Earth.",
+			"color": "gray|0.28285 grey|0.28285 dim|0.22961 gray|0.22961 dim|0.22961 grey|0.22961 dark|0.21555 gray|0.21555 dark|0.21555 grey|0.21555 black|0.1498 silver|0.087236 light|0.011284 gray|0.011284 light|0.011284 grey|0.011284 gainsboro|0.0045453  "
+		}
+	}
+}

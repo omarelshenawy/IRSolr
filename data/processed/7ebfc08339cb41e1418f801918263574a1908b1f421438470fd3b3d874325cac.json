@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ebfc08339cb41e1418f801918263574a1908b1f421438470fd3b3d874325cac",
+			"url": "https://upload.wikimedia.org/math/e/8/a/e8af89aaae80953a275064a14c66b551.png",
+			"previous": [
+				"Using the streamline function Blasius obtained the following solution for the shear stress at the surface of the plate.",
+				"Â Â Â Â Â atÂ Â Â Â Â  and",
+				"Â Â Â Â Â atÂ Â Â Â Â "
+			],
+			"after": [
+				"And via the boundary conditions, it is known that",
+				"",
+				"We are given the following relations for heat/mass flux out of the surface of the plate"
+			],
+			"color": "dim|0.36092 gray|0.36092 dim|0.36092 grey|0.36092 gray|0.28997 grey|0.28997 dark|0.18836 gray|0.18836 dark|0.18836 grey|0.18836 silver|0.078323 light|0.037482 gray|0.037482 light|0.037482 grey|0.037482 gainsboro|0.026036 white|0.004719 smoke|0.004719  "
+		}
+	}
+}

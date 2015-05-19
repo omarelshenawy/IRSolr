@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d681229d08a3ea873d79c7c8a86004429701dac42a21239c6181e0ae045ca45",
+			"url": "https://upload.wikimedia.org/math/a/e/7/ae7aee51826505fefd5e6ebfc0d28311.png",
+			"previous": [
+				"The practical assumptions for the application of simple Kriging are:",
+				"Simple kriging is mathematically the simplest, but the least general. It assumes the expectation of the random field to be known, and relies on a covariance function. However, in most applications neither the expectation nor the covariance are known beforehand."
+			],
+				"after": "The Kriging weights of simple Kriging have no unbiasedness condition and are given by the simple Kriging equation system:",
+			"color": "gray|0.32833 grey|0.32833 dim|0.23359 gray|0.23359 dim|0.23359 grey|0.23359 dark|0.23151 gray|0.23151 dark|0.23151 grey|0.23151 silver|0.10007 light|0.048402 gray|0.048402 light|0.048402 grey|0.048402 gainsboro|0.033561 white|0.0060876 smoke|0.0060876 linen|0.0027571 lavender|0.0026023 blush|0.0026023  "
+		}
+	}
+}

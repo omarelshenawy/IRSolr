@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "0cece0f30e5148f7fcae95b69d5a64fde7149571a7bac2b17049c0b344a4a30e",
+			"url": "https://upload.wikimedia.org/math/3/5/0/3509456c0ab3d50632df1f112bf32a6f.png",
+			"previous": [
+				"with solutions",
+				"This gives the two simultaneous equations",
+				"or equivalently",
+				"This result can be obtained algebraically by finding a and b such that"
+			],
+			"after": [
+				"The choice of the principal root then gives",
+				"The result can also be obtained by using de Moivre's formula and setting",
+				"which produces"
+			],
+			"color": "dim|0.4192 gray|0.4192 dim|0.4192 grey|0.4192 gray|0.28001 grey|0.28001 dark|0.16679 gray|0.16679 dark|0.16679 grey|0.16679 silver|0.070542 light|0.032604 gray|0.032604 light|0.032604 grey|0.032604 gainsboro|0.022125  "
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "28e1a66c2630ac0c40719ffca9d65f5fd45664b65c1628527e78d81f0732cbb9",
+			"url": "https://upload.wikimedia.org/math/2/f/5/2f565944530fedb11551b546b33b59d7.png",
+			"previous": [
+				"Ratio of specific heats for air,",
+				"Constants:",
+				"Nozzle thrust coefficient,"
+			],
+			"after": [
+				"Specific heat at constant pressure for air,",
+				"(use 1.004646Â kWÂ·s/(kgÂ·K) when working with SI units and use 0.3395Â hpÂ·s/(lbÂ·Â°R) if working with American units)",
+				"Specific heat at constant pressure for combustion products, (use 1.1462Â kWÂ·s/(kgÂ·K) when working with SI units and use 0.387363889Â hpÂ·s/(lbÂ·Â°R) if working with American units)"
+			],
+			"color": " "
+		}
+	}
+}

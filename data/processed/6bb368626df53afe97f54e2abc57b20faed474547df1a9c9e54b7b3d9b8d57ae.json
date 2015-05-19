@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bb368626df53afe97f54e2abc57b20faed474547df1a9c9e54b7b3d9b8d57ae",
+			"url": "https://upload.wikimedia.org/math/a/7/9/a79044209a8ae6976a20110235bb4e89.png",
+				"previous": "Mutual information is symmetric:",
+				"after": "Mutual information can be expressed as the average KullbackâLeibler divergence (information gain) between the posterior probability distribution of X given the value of Y and the prior distribution on X:",
+			"color": "dim|0.35033 gray|0.35033 dim|0.35033 grey|0.35033 gray|0.30285 grey|0.30285 dark|0.1874 gray|0.1874 dark|0.1874 grey|0.1874 silver|0.077809 light|0.037813 gray|0.037813 light|0.037813 grey|0.037813 gainsboro|0.026355 white|0.0044896 smoke|0.0044896  "
+		}
+	}
+}

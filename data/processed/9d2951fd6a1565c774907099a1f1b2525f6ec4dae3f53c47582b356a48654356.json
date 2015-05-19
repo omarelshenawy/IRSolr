@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d2951fd6a1565c774907099a1f1b2525f6ec4dae3f53c47582b356a48654356",
+			"url": "https://upload.wikimedia.org/math/0/6/1/06168ddfffbb48e0679a58d34ca4e824.png",
+			"previous": [
+				"In a small time the planet sweeps out a small triangle having base line and height and area and so the constant areal velocity is",
+				"The orbital radius and angular velocity of the planet in the elliptical orbit will vary. This is shown in the animation: the planet travels faster when closer to the sun, then slower when farther from the sun. Kepler's second law states that the blue sector has constant area."
+			],
+				"after": "and the mean motion of the planet around the Sun",
+			"color": "black|0.43305 dim|0.24188 gray|0.24188 dim|0.24188 grey|0.24188 gray|0.14507 grey|0.14507 dark|0.089923 gray|0.089923 dark|0.089923 grey|0.089923 silver|0.041392 light|0.02109 gray|0.02109 light|0.02109 grey|0.02109 gainsboro|0.015046  "
+		}
+	}
+}

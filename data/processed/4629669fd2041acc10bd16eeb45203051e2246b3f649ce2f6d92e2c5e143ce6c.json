@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4629669fd2041acc10bd16eeb45203051e2246b3f649ce2f6d92e2c5e143ce6c",
+			"url": "https://upload.wikimedia.org/math/9/4/c/94c840af294dc8fb6e7d26830669530f.png",
+				"previous": "A bivariate quadratic function is a second-degree polynomial of the form",
+			"after": [
+				"If the function has no maximum or minimum, its graph forms an hyperbolic paraboloid.",
+				"If the function has a minimum if A>0, and a maximum if A<0, its graph forms an elliptic paraboloid. In this case the minimum or maximum occurs at where:"
+			],
+			"color": "gray|0.31509 grey|0.31509 dark|0.26432 gray|0.26432 dark|0.26432 grey|0.26432 dim|0.16622 gray|0.16622 dim|0.16622 grey|0.16622 silver|0.1212 light|0.0613 gray|0.0613 light|0.0613 grey|0.0613 gainsboro|0.043135 white|0.0076591 smoke|0.0076591 linen|0.003435 lavender|0.0032966 blush|0.0032966 alice|0.0030856 blue|0.0030856 ghost|0.0028768 white|0.0028768 sea|0.0026413 shell|0.0026413 snow|0.002526  "
+		}
+	}
+}

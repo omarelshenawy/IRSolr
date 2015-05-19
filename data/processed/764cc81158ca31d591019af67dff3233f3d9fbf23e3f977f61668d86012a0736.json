@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "764cc81158ca31d591019af67dff3233f3d9fbf23e3f977f61668d86012a0736",
+			"url": "https://upload.wikimedia.org/math/0/d/8/0d889a9dc20177d1a10e31e3d472ffe0.png",
+				"previous": "Smoluchowski's theory of Brownian motion[15] starts from the same premise as that of Einstein and derives the same probability distribution Ï(x, t) for the displacement of a Brownian particle along the x in time t. He therefore gets the same expression for the mean squared displacement: . However, when he relates it to a particle of mass m moving at a velocity u which is the result of a frictional force governed by Stokes's law, he finds",
+				"after": "where Î¼ is the viscosity coefficient, and a is the radius of the particle. Associating the kinetic energy with the thermal energy RT/N, the expression for the mean squared displacement is 64/27 times that found by Einstein. The fraction 27/64 was commented on by Arnold Sommerfeld in his necrology on Smoluchowski: \"The numerical coefficient of Einstein, which differs from Smoluchowski by 27/64 can only be put in doubt.\"[16]",
+			"color": "gray|0.30875 grey|0.30875 dim|0.24505 gray|0.24505 dim|0.24505 grey|0.24505 dark|0.24116 gray|0.24116 dark|0.24116 grey|0.24116 silver|0.1024 light|0.047385 gray|0.047385 light|0.047385 grey|0.047385 gainsboro|0.032469 white|0.0059914 smoke|0.0059914 linen|0.0031068  "
+		}
+	}
+}

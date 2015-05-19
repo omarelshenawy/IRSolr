@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9ea2b106a262bc283baf0de2ecce8d5f5c640bd9b66aee85481e3abb8f09acb1",
+			"url": "https://upload.wikimedia.org/math/6/5/0/6505f77acc95b08ef5cd16562b2460e8.png",
+				"previous": "The first two types are known as analytical or nonparametric representations of curves, and, in general tend to be unsuitable for use in CAD applications.[opinion] For instance, the first one is dependent upon the choice of a coordinate system and does not lend itself well to geometric transformations, such as rotations, translations, and scaling. In addition, with the implicit representation, it is more difficult of generating points on a curve. These problems are made easier by rewriting the equations in parametric form.[4]",
+				"after": "If the parameterization is given by rational functions",
+			"color": "dim|0.36167 gray|0.36167 dim|0.36167 grey|0.36167 gray|0.30627 grey|0.30627 dark|0.18244 gray|0.18244 dark|0.18244 grey|0.18244 silver|0.074394 light|0.03452 gray|0.03452 light|0.03452 grey|0.03452 gainsboro|0.024011 white|0.0044192 smoke|0.0044192  "
+		}
+	}
+}

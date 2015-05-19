@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "869418f50d1657511b065ddd91afad5873895df6a9a261247cbff93049958233",
+			"url": "https://upload.wikimedia.org/math/8/7/2/872c33b94e70e0096214d7af764576b5.png",
+				"previous": "or in terms of pseudoranges, , as",
+				"after": "Since the equations have four unknowns [x, y, z, b]âthe three components of GPS receiver position and the clock biasâsignals from at least four satellites are necessary to attempt solving these equations. They can be solved by algebraic or numerical methods. Existence and uniqueness of GPS solutions are discussed by Abell and Chaffee.[47] When n is greater than 4 this system is overdetermined and a fitting method must be used.",
+			"color": "dim|0.3981 gray|0.3981 dim|0.3981 grey|0.3981 gray|0.27644 grey|0.27644 dark|0.16819 gray|0.16819 dark|0.16819 grey|0.16819 silver|0.076493 light|0.038432 gray|0.038432 light|0.038432 grey|0.038432 gainsboro|0.026917 white|0.0038796 smoke|0.0038796  "
+		}
+	}
+}

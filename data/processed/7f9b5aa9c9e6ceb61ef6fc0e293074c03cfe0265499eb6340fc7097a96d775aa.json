@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f9b5aa9c9e6ceb61ef6fc0e293074c03cfe0265499eb6340fc7097a96d775aa",
+			"url": "https://upload.wikimedia.org/math/1/8/5/185f9ae6fb645fc0d2b2450c911a6feb.png",
+			"previous": [
+				"and we get:",
+				"The number z follows from the cumulative distribution function, in this case the cumulative normal distribution function:"
+			],
+			"after": [
+				"In other words, the lower endpoint of the 95% confidence interval is:",
+				"and the upper endpoint of the 95% confidence interval is:"
+			],
+			"color": "dim|0.34564 gray|0.34564 dim|0.34564 grey|0.34564 gray|0.28794 grey|0.28794 dark|0.19963 gray|0.19963 dark|0.19963 grey|0.19963 silver|0.080901 light|0.041011 gray|0.041011 light|0.041011 grey|0.041011 gainsboro|0.028535 white|0.0043845 smoke|0.0043845  "
+		}
+	}
+}

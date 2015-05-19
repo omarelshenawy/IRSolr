@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "49a7b8f0d649e14f021a088f7232ef90d5fcbdbeb87b056fe6214a2a38775c39",
+			"url": "https://upload.wikimedia.org/math/e/5/1/e51d4095c1a1c553e12e8db395dcdf96.png",
+			"previous": [
+				"fully expanded jet velocity (in the exhaust plume)",
+				"intake mass flow rate",
+				"where:"
+			],
+			"after": [
+				"Rearranging the above equation, specific thrust is given by:",
+				"",
+				"So for zero flight velocity, specific thrust is directly proportional to jet velocity."
+			],
+			"color": "dim|0.43288 gray|0.43288 dim|0.43288 grey|0.43288 gray|0.29346 grey|0.29346 dark|0.15687 gray|0.15687 dark|0.15687 grey|0.15687 silver|0.058808 light|0.028891 gray|0.028891 light|0.028891 grey|0.028891 gainsboro|0.019814  "
+		}
+	}
+}

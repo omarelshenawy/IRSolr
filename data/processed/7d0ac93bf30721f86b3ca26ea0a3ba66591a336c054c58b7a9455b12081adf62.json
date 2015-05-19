@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d0ac93bf30721f86b3ca26ea0a3ba66591a336c054c58b7a9455b12081adf62",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Niccol%C3%B2_Tartaglia.jpg/160px-Niccol%C3%B2_Tartaglia.jpg",
+				"previous": "In the early 16th century, the Italian mathematician Scipione del Ferro (1465â1526) found a method for solving a class of cubic equations, namely those of the form x3Â +Â mx = n. In fact, all cubic equations can be reduced to this form if we allow m and n to be negative, but negative numbers were not known to him at that time. Del Ferro kept his achievement secret until just before his death, when he told his student Antonio Fiore about it.",
+				"after": "In 1530, NiccolÃ² Tartaglia (1500â1557) received two problems in cubic equations from Zuanne da Coi and announced that he could solve them. He was soon challenged by Fiore, which led to a famous contest between the two. Each contestant had to put up a certain amount of money and to propose a number of problems for his rival to solve. Whoever solved more problems within 30 days would get all the money. Tartaglia received questions in the form x3 + mx = n, for which he had worked out a general method. Fiore received questions in the form x3 + mx2 = n, which proved to be too difficult for him to solve, and Tartaglia won the contest.",
+			"color": " "
+		}
+	}
+}

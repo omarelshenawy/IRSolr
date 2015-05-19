@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "827fe6e47667c9d79297c5b0f5ed7a544d1c012cf2198dfcc881c9a5007d4535",
+			"url": "https://upload.wikimedia.org/math/c/0/2/c024bfdf1ad3daf4c630b10fa4c9a433.png",
+			"previous": [
+				"Where is the specific enthalpy drop of steam in the nozzle.",
+				""
+			],
+			"after": [
+				"Assuming that is appreciably less than , we get â Furthermore, stage efficiency is the product of blade efficiency and nozzle efficiency, or",
+				"Nozzle efficiency is given by = , where the enthalpy (in J/Kg) of steam at the entrance of the nozzle is and the enthalpy of steam at the exit of the nozzle is ."
+			],
+			"color": "dim|0.37982 gray|0.37982 dim|0.37982 grey|0.37982 gray|0.28258 grey|0.28258 dark|0.17439 gray|0.17439 dark|0.17439 grey|0.17439 silver|0.077169 light|0.04021 gray|0.04021 light|0.04021 grey|0.04021 gainsboro|0.028209 white|0.0048011 smoke|0.0048011  "
+		}
+	}
+}

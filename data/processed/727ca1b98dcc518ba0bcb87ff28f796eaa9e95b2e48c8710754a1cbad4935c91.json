@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "727ca1b98dcc518ba0bcb87ff28f796eaa9e95b2e48c8710754a1cbad4935c91",
+			"url": "https://upload.wikimedia.org/math/f/0/3/f03f1fdcb6d81b50fd21f2a93b7cf2c3.png",
+			"previous": [
+				"Where i = gÂ :",
+				"Where i â  gÂ :"
+			],
+			"after": [
+				"To get the PV of a growing annuity due, multiply the above equation by (1 + i).",
+				"A perpetuity is payments of a set amount of money that occur on a routine basis and continues forever. When n â â, the PV of a perpetuity (a perpetual annuity) formula becomes simple division."
+			],
+			"color": "dim|0.36839 gray|0.36839 dim|0.36839 grey|0.36839 gray|0.28689 grey|0.28689 dark|0.18348 gray|0.18348 dark|0.18348 grey|0.18348 silver|0.078558 light|0.038563 gray|0.038563 light|0.038563 grey|0.038563 gainsboro|0.027535 white|0.0042483 smoke|0.0042483  "
+		}
+	}
+}

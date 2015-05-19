@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0f57f6168ff0cdbe5d8dd7e0ed2b6e871434382abdfc6d18a8a801e3fb13ec15",
+			"url": "https://upload.wikimedia.org/math/2/c/0/2c0da1bdcfa600e111b4dd2c6db73242.png",
+			"previous": [
+				"Take the limit as Îx â 0 on both sides of the equation.",
+				"Dividing both sides by Îx gives"
+			],
+			"after": [
+				"The expression on the left side of the equation is the definition of the derivative of F at x1.",
+				"To find the other limit, we use the squeeze theorem. The number c is in the interval [x1, x1 + Îx], so x1 â¤ c â¤ x1 + Îx."
+			],
+			"color": "dim|0.38056 gray|0.38056 dim|0.38056 grey|0.38056 gray|0.27609 grey|0.27609 dark|0.17748 gray|0.17748 dark|0.17748 grey|0.17748 silver|0.0783 light|0.041409 gray|0.041409 light|0.041409 grey|0.041409 gainsboro|0.028824 white|0.0050435 smoke|0.0050435  "
+		}
+	}
+}

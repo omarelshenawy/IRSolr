@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "22902bc66cea3c3acdf84f0bae3ef86de1f12c6d59a53842ead7e56bcf9033c2",
+			"url": "https://upload.wikimedia.org/math/2/a/3/2a308ec6fc223fcd4e9d70df30a52a7f.png",
+			"previous": [
+				"The semi-major axis a is the arithmetic mean between rmin and rmax:",
+				"At Î¸ = 180Â°, aphelion, the distance is maximum (by definition, aphelion is - invariably - perihelion plus 180Â°)"
+			],
+				"after": "The semi-minor axis b is the geometric mean between rmin and rmax:",
+			"color": "black|0.36245 dim|0.27742 gray|0.27742 dim|0.27742 grey|0.27742 gray|0.15434 grey|0.15434 dark|0.10302 gray|0.10302 dark|0.10302 grey|0.10302 silver|0.050126 light|0.025782 gray|0.025782 light|0.025782 grey|0.025782 gainsboro|0.016722  "
+		}
+	}
+}

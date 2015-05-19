@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "63451a6836a169092c2d6e1a7f6f68c9c213166b37e7fcf6772d565afc227ae2",
+			"url": "https://upload.wikimedia.org/math/9/c/2/9c2cebe8ce19190d19dddc4bb9414c7f.png",
+			"previous": [
+				"The area swept since perihelion,",
+				"The circular sector area",
+				"The sector areas are related by"
+			],
+			"after": [
+				"is by Kepler's second law proportional to time since perihelion. So the mean anomaly, M, is proportional to time since perihelion, t.",
+				"where n is the mean motion."
+			],
+			"color": "dim|0.28945 gray|0.28945 dim|0.28945 grey|0.28945 black|0.24664 gray|0.19354 grey|0.19354 dark|0.13123 gray|0.13123 dark|0.13123 grey|0.13123 silver|0.067375 light|0.035548 gray|0.035548 light|0.035548 grey|0.035548 gainsboro|0.024963  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "410bab21971c7b052e378cd22552163334ab60770d0a766e93e92a99e17f8a8b",
+			"url": "https://upload.wikimedia.org/math/b/7/1/b71532db27bfdb4f95447ace66e8efa8.png",
+				"previous": "Notice that, as stated, this is not yet an existence result but rather an example of what is called an a priori bound: it says that if there are solutions then they lie inside the closed disk of center the origin and radius Râ. However, once coupled with the fundamental theorem of algebra it says that the disk contains in fact at least one solution. More generally, a bound can be given directly in terms of any p-norm of the n-vector of coefficients , that is |Î¶| â¤ Rp, where Rp is precisely the q-norm of the 2-vector , q being the conjugate exponent of p, 1/p + 1/q = 1, for any 1 â¤ p â¤ â. Thus, the modulus of any solution is also bounded by",
+				"after": "for 1 < p < â, and in particular",
+			"color": "dim|0.31404 gray|0.31404 dim|0.31404 grey|0.31404 gray|0.26486 grey|0.26486 dark|0.21189 gray|0.21189 dark|0.21189 grey|0.21189 silver|0.0992 light|0.057391 gray|0.057391 light|0.057391 grey|0.057391 gainsboro|0.036269 white|0.0041642 smoke|0.0041642  "
+		}
+	}
+}

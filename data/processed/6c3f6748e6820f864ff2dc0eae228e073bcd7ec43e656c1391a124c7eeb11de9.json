@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c3f6748e6820f864ff2dc0eae228e073bcd7ec43e656c1391a124c7eeb11de9",
+			"url": "https://upload.wikimedia.org/math/9/d/2/9d245be524a207ac5d9f814ee0d33394.png",
+			"previous": [
+				"If we have a product of vectors then we denote the reverse as",
+				"Similar interpretations are true for any number of vectors spanning an n-dimensional parallelotope; the outer product of vectors a1, a2, ... an, that is , has a magnitude equal to the volume of the n-parallelotope. An n-vector doesn't necessarily have a shape of a parallelotope â this is a convenient visualization. It could be any shape, although the volume equals that of the parallelotope."
+			],
+			"after": [
+				"As an example, assume that we get",
+				"Scaling R so that RRâ  = 1 then",
+				"so â  leaves the length of unchanged. We can also show that"
+			],
+			"color": "dim|0.31125 gray|0.31125 dim|0.31125 grey|0.31125 black|0.22168 gray|0.20677 grey|0.20677 dark|0.13409 gray|0.13409 dark|0.13409 grey|0.13409 silver|0.059167 light|0.029382 gray|0.029382 light|0.029382 grey|0.029382 gainsboro|0.020372 white|0.0036724 smoke|0.0036724  "
+		}
+	}
+}

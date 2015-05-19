@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "51e79dbf7131442e25a0258c095e342b2236c31e6e2e885ad882a3bfd76157e2",
+			"url": "https://upload.wikimedia.org/math/2/a/3/2a313644b895d18f125129646fe9fb3c.png",
+			"previous": [
+				"The total time for the light pulse to trace its path is given by",
+				"From the frame of reference of a moving observer traveling at the speed v relative to the rest frame of the clock (diagram at lower right), the light pulse traces out a longer, angled path. The second postulate of special relativity states that the speed of light in free space is constant for all inertial observers, which implies a lengthening of the period of this clock from the moving observer's perspective. That is to say, in a frame moving relative to the clock, the clock appears to be running more slowly. Straightforward application of the Pythagorean theorem leads to the well-known prediction of special relativity:"
+			],
+				"after": "The length of the half path can be calculated as a function of known quantities as",
+			"color": "dim|0.41972 gray|0.41972 dim|0.41972 grey|0.41972 gray|0.28534 grey|0.28534 dark|0.16216 gray|0.16216 dark|0.16216 grey|0.16216 silver|0.069999 light|0.031134 gray|0.031134 light|0.031134 grey|0.031134 gainsboro|0.020019  "
+		}
+	}
+}

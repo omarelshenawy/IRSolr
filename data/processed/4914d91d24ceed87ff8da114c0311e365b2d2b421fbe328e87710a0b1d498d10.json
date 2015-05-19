@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4914d91d24ceed87ff8da114c0311e365b2d2b421fbe328e87710a0b1d498d10",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Zobel_original_drawing.PNG/350px-Zobel_original_drawing.PNG",
+				"previous": "Portal:Technology/Featured biography/1",
+				"after": "Otto Julius Zobel (1887â1970) was a design engineer who worked for the American Telephone & Telegraph Company (AT&T) in the early part of the 20th century. Zobel's work on filter design was revolutionary and led, in conjunction with the work of John R. Carson, to significant commercial advances for AT&T in the field of frequency division multiplex (FDM) telephone transmissions. Although much of Zobel's work has been superseded by more modern filter designs, it remains the basis of filter theory and his papers are still referenced today. Zobel invented the m-derived filter and the constant-resistance filter, which remains in use. Zobel and Carson helped to establish the nature of noise in electric circuits, concluding thatâcontrary to mainstream beliefâit is not even theoretically possible to filter out noise entirely and that noise will always be a limiting factor in what it is possible to transmit. Thus, they anticipated the later work of Claude Shannon, who showed how the theoretical information rate of a channel is related to the noise of the channel.",
+			"color": " "
+		}
+	}
+}

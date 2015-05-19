@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fc9f407a6b12d9070ebf0da8b7f362fc527b263d63adf20c7b4dfef4739bf7a",
+			"url": "https://upload.wikimedia.org/math/2/a/e/2ae59482e300f25b74873b6d2b8aae4d.png",
+				"previous": "There are two terms in the nozzle gross thrust equation; ideal momentum thrust and ideal pressure thrust. The latter term is only non-zero if the nozzle is choked:",
+				"after": "The following special calculation is required, if the nozzle happens to be unchoked.",
+			"color": "dim|0.38032 gray|0.38032 dim|0.38032 grey|0.38032 gray|0.28385 grey|0.28385 dark|0.1622 gray|0.1622 dark|0.1622 grey|0.1622 silver|0.065889 black|0.046791 light|0.030205 gray|0.030205 light|0.030205 grey|0.030205 gainsboro|0.020334  "
+		}
+	}
+}

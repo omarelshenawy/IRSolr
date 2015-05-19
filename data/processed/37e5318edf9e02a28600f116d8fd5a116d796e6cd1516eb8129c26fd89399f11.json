@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "37e5318edf9e02a28600f116d8fd5a116d796e6cd1516eb8129c26fd89399f11",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WikipediaWeekly_2013-04-27.jpeg/200px-WikipediaWeekly_2013-04-27.jpeg",
+				"previous": "{{User wikipedia weekly}} is our hosts userbox",
+			"after": [
+				"People who are regular contributors or who have contributed regularly in the past.",
+				"Add your name here if you want to be on a podcast or two. Then, please join the Skype chat group so we can see who is available when we are able to record:"
+			],
+			"color": "dim|0.18107 gray|0.18107 dim|0.18107 grey|0.18107 black|0.16829 gray|0.080429 grey|0.080429 light|0.073261 slate|0.073261 gray|0.073261 dark|0.072878 gray|0.072878 dark|0.072878 grey|0.072878 slate|0.067506 gray|0.067506 silver|0.058285 dark|0.053512 slate|0.053512 gray|0.053512 light|0.037788 gray|0.037788 light|0.037788 grey|0.037788 rosy|0.03086 brown|0.03086 gainsboro|0.026906 misty|0.013953 rose|0.013953 light|0.013695 steel|0.013695 blue|0.013695  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "49311294f0102117e98fae8e1d8a4dc93aa3fdf580f2ed2bd84a0381706b3112",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TSP_Deutschland_3.png/200px-TSP_Deutschland_3.png",
+				"previous": "Combinatorial optimization problems can be viewed as searching for the best element of some set of discrete items; therefore, in principle, any sort of search algorithm or metaheuristic can be used to solve them. However, generic search algorithms are not guaranteed to find an optimal solution, nor are they guaranteed to run quickly (in polynomial time). Since some discrete optimization problems are NP-complete, such as the traveling salesman problem, this is expected unless P=NP.",
+			"after": [],
+			"color": "antique|0.090178 white|0.090178 linen|0.081858 old|0.078236 lace|0.078236 papaya|0.077541 whip|0.077541 sea|0.075141 shell|0.075141 beige|0.074915 blanched|0.074004 almond|0.074004 floral|0.07396 white|0.07396 corn|0.072662 silk|0.072662 ivory|0.071495 dark|0.063049 gray|0.063049 dark|0.063049 grey|0.063049 silver|0.0377 gray|0.030676 grey|0.030676 light|0.021311 gray|0.021311 light|0.021311 grey|0.021311 light|0.015035 blue|0.015035 powder|0.01469 blue|0.01469 sky|0.013288 blue|0.013288 gainsboro|0.012837 dim|0.0066438 gray|0.0066438 dim|0.0066438 grey|0.0066438 white|0.002885 smoke|0.002885  "
+		}
+	}
+}

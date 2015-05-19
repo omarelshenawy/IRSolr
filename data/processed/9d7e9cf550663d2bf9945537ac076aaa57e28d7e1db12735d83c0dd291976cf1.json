@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d7e9cf550663d2bf9945537ac076aaa57e28d7e1db12735d83c0dd291976cf1",
+			"url": "https://upload.wikimedia.org/math/3/6/9/369783d0a89a2f007c17464b8db3adc7.png",
+				"previous": "The coefficients am and bm are called Fourier coefficients of f, and are calculated by the formulas[78]",
+				"after": "In physical terms the function is represented as a superposition of sine waves and the coefficients give information about the function's frequency spectrum.[79] A complex-number form of Fourier series is also commonly used.[78] The concrete formulae above are consequences of a more general mathematical duality called Pontryagin duality.[80] Applied to the group R, it yields the classical Fourier transform; an application in physics are reciprocal lattices, where the underlying group is a finite-dimensional real vector space endowed with the additional datum of a lattice encoding positions of atoms in crystals.[81]",
+			"color": "dim|0.36242 gray|0.36242 dim|0.36242 grey|0.36242 gray|0.29401 grey|0.29401 dark|0.18698 gray|0.18698 dark|0.18698 grey|0.18698 silver|0.077717 light|0.034937 gray|0.034937 light|0.034937 grey|0.034937 gainsboro|0.024519 white|0.0045959 smoke|0.0045959  "
+		}
+	}
+}

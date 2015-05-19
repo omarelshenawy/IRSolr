@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ec2b8adff2863ceaafab06033a4d96e142f09a4f9beee81dbf9c450c8021336",
+			"url": "https://upload.wikimedia.org/math/5/2/b/52b4c96d5963d1ec4a0ab5477ab53759.png",
+			"previous": [
+				"By Newton's second law, the gravitational force that acts on the planet is:",
+				"The inverse square law is a differential equation. The solutions to this differential equation include the Keplerian motions, as shown, but they also include motions where the orbit is a hyperbola or parabola or a straight line. See Kepler orbit."
+			],
+			"after": [
+				"where is the gravitational constant.",
+				"The acceleration of solar system body number i is, according to Newton's laws:"
+			],
+			"color": "black|0.32433 dim|0.26681 gray|0.26681 dim|0.26681 grey|0.26681 gray|0.17314 grey|0.17314 dark|0.12601 gray|0.12601 dark|0.12601 grey|0.12601 silver|0.055838 light|0.026232 gray|0.026232 light|0.026232 grey|0.026232 gainsboro|0.018326  "
+		}
+	}
+}

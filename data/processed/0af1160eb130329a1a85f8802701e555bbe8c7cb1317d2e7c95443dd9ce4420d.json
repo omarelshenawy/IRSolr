@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "0af1160eb130329a1a85f8802701e555bbe8c7cb1317d2e7c95443dd9ce4420d",
+			"url": "https://upload.wikimedia.org/math/b/e/6/be6f748e3fea006ffa5a2c7b233c96f9.png",
+			"previous": [
+				"Similarly we have",
+				"and a straightforward computation gives",
+				"The expression for is the same with and exchanged. Thus, using we get"
+			],
+			"after": [
+				"When solving Equation (1) we have",
+				"With Equation (2), we have , and and thus:",
+				"Note that with Equation (2), we have and , while in Cardano's method we have set and Thus we have, up to the exchange of and :"
+			],
+			"color": "dim|0.36376 gray|0.36376 dim|0.36376 grey|0.36376 gray|0.27363 grey|0.27363 dark|0.18535 gray|0.18535 dark|0.18535 grey|0.18535 silver|0.085109 light|0.043991 gray|0.043991 light|0.043991 grey|0.043991 gainsboro|0.031409 white|0.0045366 smoke|0.0045366  "
+		}
+	}
+}

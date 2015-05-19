@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "46e05e2f26cb5e7b64d918576e978094e09cf839c1923ad8b801c16936fff254",
+			"url": "https://upload.wikimedia.org/math/a/c/b/acb21f0346ce8fffeb84b0c301ac16dd.png",
+				"previous": "And hence:",
+				"after": "Rockets can be throttled by controlling the propellant combustion rate (usually measured in kg/s or lb/s). In liquid and hybrid rockets, the propellant flow entering the chamber is controlled using valves, in solid rockets it is controlled by changing the area of propellant that is burning and this can be designed into the propellant grain (and hence cannot be controlled in real-time).",
+			"color": "black|0.38866 dim|0.258 gray|0.258 dim|0.258 grey|0.258 gray|0.1626 grey|0.1626 dark|0.099409 gray|0.099409 dark|0.099409 grey|0.099409 silver|0.0446 light|0.022163 gray|0.022163 light|0.022163 grey|0.022163 gainsboro|0.015352  "
+		}
+	}
+}

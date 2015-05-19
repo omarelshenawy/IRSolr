@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "479c1f4de7d1fb875e5373401c6efecda6a8c8e9f55edf5426573ec287c74a15",
+			"url": "https://upload.wikimedia.org/math/9/1/b/91b30044937d2f078dcd973f40fc67b8.png",
+				"previous": "It was not enough to just develop a mechanical analogy. This could be applied to problems that were entirely in the mechanical domain, but for mechanical filters with an electrical application it is necessary to include the transducer in the analogy as well. PoincarÃ© in 1907 was the first to describe a transducer as a pair of linear algebraic equations relating electrical variables (voltage and current) to mechanical variables (force and velocity).[13] These equations can be expressed as a matrix relationship in much the same way as the z-parameters of a two-port network in electrical theory, to which this is entirely analogous:",
+				"after": "where V and I represent the voltage and current respectively on the electrical side of the transducer.",
+			"color": "gray|0.25128 grey|0.25128 dark|0.24344 gray|0.24344 dark|0.24344 grey|0.24344 dim|0.2197 gray|0.2197 dim|0.2197 grey|0.2197 silver|0.10517 light|0.0694 gray|0.0694 light|0.0694 grey|0.0694 gainsboro|0.055033 white|0.012959 smoke|0.012959 linen|0.0074587 lavender|0.0071156 blush|0.0071156 alice|0.0071011 blue|0.0071011 ghost|0.0070286 white|0.0070286 sea|0.0052201 shell|0.0052201 snow|0.0051416 white|0.0033485  "
+		}
+	}
+}

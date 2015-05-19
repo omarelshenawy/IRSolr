@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "122b383428ebdb0e48021917211a86283f1d491d75d24bc9bc16baf9ad556b43",
+			"url": "https://upload.wikimedia.org/math/e/c/5/ec5411b5d427063f2a108cc41a59f8f8.png",
+			"previous": [
+				"Lack of bias:",
+				"The two quality criteria referred to previously can now be expressed in terms of the mean and variance of the new random variable :"
+			],
+				"after": "In order to ensure that the model is unbiased, the weights must sum to one.",
+			"color": "dim|0.35863 gray|0.35863 dim|0.35863 grey|0.35863 gray|0.30134 grey|0.30134 dark|0.18218 gray|0.18218 dark|0.18218 grey|0.18218 silver|0.075689 light|0.036781 gray|0.036781 light|0.036781 grey|0.036781 gainsboro|0.025822 white|0.0048774 smoke|0.0048774  "
+		}
+	}
+}

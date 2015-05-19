@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "39fce6e5a820c3d079b24183b7a72865af92b6148db2e6e094a555bc0baa405e",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Propeller_diagram.jpg/220px-Propeller_diagram.jpg",
+			"previous": [],
+				"after": "The purpose of varying pitch angle with a variable-pitch propeller is to maintain an optimal angle of attack (maximum lift to drag ratio) on the propeller blades as aircraft speed varies. Early pitch control settings were pilot operated, either two-position or manually variable. Following World War I, automatic propellers were developed to maintain an optimum angle of attack. This was done by balancing the centripetal twisting moment on the blades and a set of counterweights against a spring and the aerodynamic forces on the blade. Automatic props had the advantage of being simple, lightweight, and requiring no external control, but a particular propeller's performance was difficult to match with that of the aircraft's powerplant. An improvement on the automatic type was the constant-speed propeller. Constant-speed propellers allow the pilot to select a rotational speed for maximum engine power or maximum efficiency, and a propeller governor acts as a closed-loop controller to vary propeller pitch angle as required to maintain the selected engine speed. In most aircraft this system is hydraulic, with engine oil serving as the hydraulic fluid. However, electrically controlled propellers were developed during World War II and saw extensive use on military aircraft, and have recently seen a revival in use on homebuilt aircraft.",
+			"color": " "
+		}
+	}
+}

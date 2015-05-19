@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "87865ab5774e765dcb2eca9af37d19a6c3b9a2509ea360255f002f32e259ae02",
+			"url": "https://upload.wikimedia.org/math/6/9/4/6949fd6b0fcf96ad24af0b67c238a03f.png",
+				"previous": "Then, F is continuous on [a, b], differentiable on the open interval (a, b), and",
+			"after": [
+				"for all x in (a, b).",
+				"Alternatively, if f is merely Riemann integrable, then F is continuous on [a, b] (but not necessarily differentiable)."
+			],
+			"color": "dim|0.3566 gray|0.3566 dim|0.3566 grey|0.3566 gray|0.29663 grey|0.29663 dark|0.18571 gray|0.18571 dark|0.18571 grey|0.18571 silver|0.079006 light|0.038676 gray|0.038676 light|0.038676 grey|0.038676 gainsboro|0.026696 white|0.0045226 smoke|0.0045226  "
+		}
+	}
+}

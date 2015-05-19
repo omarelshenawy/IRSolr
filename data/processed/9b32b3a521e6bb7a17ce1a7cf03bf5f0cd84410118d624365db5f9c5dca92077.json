@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9b32b3a521e6bb7a17ce1a7cf03bf5f0cd84410118d624365db5f9c5dca92077",
+			"url": "https://upload.wikimedia.org/math/e/f/d/efd61ffd23408913941606bc50cc635b.png",
+				"previous": "Another important use of parametric equations is in the field of computer aided design (CAD).[3] For example, consider the following three representations, all of which are commonly used to describe planar curves.",
+				"after": "The first two types are known as analytical or nonparametric representations of curves, and, in general tend to be unsuitable for use in CAD applications.[opinion] For instance, the first one is dependent upon the choice of a coordinate system and does not lend itself well to geometric transformations, such as rotations, translations, and scaling. In addition, with the implicit representation, it is more difficult of generating points on a curve. These problems are made easier by rewriting the equations in parametric form.[4]",
+			"color": "black|0.42465 dim|0.24437 gray|0.24437 dim|0.24437 grey|0.24437 gray|0.1555 grey|0.1555 dark|0.093833 gray|0.093833 dark|0.093833 grey|0.093833 silver|0.040393 light|0.018834 gray|0.018834 light|0.018834 grey|0.018834 gainsboro|0.013092  "
+		}
+	}
+}

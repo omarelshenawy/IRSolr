@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "387d21d8a575e6caf4435e71a8e8c14cc1cd197e0deb2b31a8805111624cbcfd",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Resident-evil-2-camerawork.jpg/220px-Resident-evil-2-camerawork.jpg",
+			"previous": [],
+				"after": "In this kind of system, the developers set the properties of the camera, such as its position, orientation or field of view, during the game creation. The camera views will not change dynamically, so the same place will always be shown under the same set of views. An early example of this kind of camera system can be seen in Alone in the Dark. While the characters are in 3D, the background on which they evolve has been pre-rendered. The early Resident Evil games are notable examples of games that use fixed cameras. The God of War series of video games is also known for this technique.[2] One advantage of this camera system is that it allows the game designers to use the language of film. Indeed, like filmmakers, they have the possibility to create a mood through camerawork and careful selection of shots. Games that use this kind of technique are often praised for their cinematic qualities.[3]",
+			"color": "black|0.58081 dim|0.19791 gray|0.19791 dim|0.19791 grey|0.19791 gray|0.087067 grey|0.087067 dark|0.072219 slate|0.072219 gray|0.072219 dark|0.023076 gray|0.023076 dark|0.023076 grey|0.023076  "
+		}
+	}
+}

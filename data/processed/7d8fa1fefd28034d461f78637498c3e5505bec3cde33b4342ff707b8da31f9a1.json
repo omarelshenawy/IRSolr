@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d8fa1fefd28034d461f78637498c3e5505bec3cde33b4342ff707b8da31f9a1",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Starfire_Optical_Range_-_sodium_laser.jpg/180px-Starfire_Optical_Range_-_sodium_laser.jpg",
+				"previous": "Without an atomic line filter, laser tracking and communication may be difficult. Usually, intensified charge-coupled device cameras must be used in conjunction with simple dielectric optical filters (e.g. interference filters) to detect laser emissions at a distance. Intensified CCDs are inefficient and necessitate the use of a pulsed laser transmission within the visible spectrum. With the superior filtering system of an ALF, a non-intensified CCD may be used with a continuous wave laser more efficiently. \"[Atomic line filters] with passbands of about 0.001Â nm have been developed to improve the background rejection of conventionally filtered laser receivers\".[3] The total energy consumption of the latter system is \"30 to 35 times less\" than that of the former,[35] so space-based, underwater and agile laser communications with ALFs have been proposed and developed.[2][29]",
+			"after": [],
+			"color": "dim|0.38302 gray|0.38302 dim|0.38302 grey|0.38302 gray|0.17044 grey|0.17044 black|0.11206 dark|0.066054 gray|0.066054 dark|0.066054 grey|0.066054 slate|0.039349 gray|0.039349 silver|0.033316 light|0.027504 slate|0.027504 gray|0.027504 dark|0.026351 salmon|0.026351 light|0.02052 gray|0.02052 light|0.02052 grey|0.02052 rosy|0.018366 brown|0.018366 gainsboro|0.013555  "
+		}
+	}
+}

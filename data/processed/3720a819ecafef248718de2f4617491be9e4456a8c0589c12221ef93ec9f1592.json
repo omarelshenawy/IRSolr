@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3720a819ecafef248718de2f4617491be9e4456a8c0589c12221ef93ec9f1592",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nexus.jpg/220px-Nexus.jpg",
+			"previous": [],
+				"after": "Wiki software is a type of collaborative software that runs a wiki system, allowing web pages to be created and edited using a common web browser. It may be implemented as a series of scripts behind an existing web server, or as a standalone application server that runs on one or more web servers. The content is stored in a file system, and changes to the content are stored in a relational database management system. A commonly implemented software package is MediaWiki, which runs Wikipedia. See the List of wiki software for further information. Alternatively, personal wikis run as a standalone application on a single computer. WikidPad is an example. Or even single local HTML file with JavaScript insideÂ â like TiddlyWiki.",
+			"color": "light|0.23072 gray|0.23072 light|0.23072 grey|0.23072 gainsboro|0.20377 silver|0.18709 black|0.15759 dark|0.061452 gray|0.061452 dark|0.061452 grey|0.061452 white|0.036108 smoke|0.036108 alice|0.017858 blue|0.017858 light|0.017742 steel|0.017742 blue|0.017742 ghost|0.012943 white|0.012943 light|0.012609 slate|0.012609 gray|0.012609 lavender|0.010127 gray|0.0091608 grey|0.0091608 linen|0.00709 dim|0.0063344 gray|0.0063344 dim|0.0063344 grey|0.0063344 lavender|0.0056626 blush|0.0056626 slate|0.0054077 gray|0.0054077 snow|0.0052728 sea|0.0031541 shell|0.0031541 azure|0.0029407  "
+		}
+	}
+}

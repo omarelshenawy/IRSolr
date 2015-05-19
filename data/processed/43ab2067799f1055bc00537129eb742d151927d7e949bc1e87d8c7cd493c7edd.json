@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "43ab2067799f1055bc00537129eb742d151927d7e949bc1e87d8c7cd493c7edd",
+			"url": "https://upload.wikimedia.org/math/f/2/3/f2387a900468f2d30e2adde062197bf5.png",
+				"previous": "Comparing the rocket equation (which shows how much energy ends up in the final vehicle) and the above equation (which shows the total energy required) shows that even with 100% engine efficiency, certainly not all energy supplied ends up in the vehicle - some of it, indeed usually most of it, ends up as kinetic energy of the exhaust.",
+				"after": "On the other hand if the exhaust velocity can be made to vary so that at each instant it is equal and opposite to the vehicle velocity then the absolute minimum energy usage is achieved. When this is achieved, the exhaust stops in space ^ and has no kinetic energy; and the propulsive efficiency is 100% all the energy ends up in the vehicle (in principle such a drive would be 100% efficient, in practice there would be thermal losses from within the drive system and residual heat in the exhaust). However in most cases this uses an impractical quantity of propellant, but is a useful theoretical consideration.",
+			"color": " "
+		}
+	}
+}

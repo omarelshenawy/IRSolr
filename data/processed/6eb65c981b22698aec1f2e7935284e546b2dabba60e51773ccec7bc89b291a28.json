@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6eb65c981b22698aec1f2e7935284e546b2dabba60e51773ccec7bc89b291a28",
+			"url": "https://upload.wikimedia.org/math/e/2/3/e23a13fb09f165ddfb021cbad7f03ba8.png",
+			"previous": [
+				"",
+				"The Earth is nearly spherical (see Earth radius) so great-circle distance formulas give the distance between points on the surface of the Earth (as the crow flies) correct to within 0.5% or so.[1]"
+			],
+				"after": "The distance d, i.e. the arc length, for a sphere of radius r and given in radians",
+			"color": "dim|0.33894 gray|0.33894 dim|0.33894 grey|0.33894 gray|0.2162 grey|0.2162 black|0.17241 dark|0.13339 gray|0.13339 dark|0.13339 grey|0.13339 silver|0.07028 light|0.036632 gray|0.036632 light|0.036632 grey|0.036632 gainsboro|0.025499  "
+		}
+	}
+}

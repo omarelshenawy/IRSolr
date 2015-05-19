@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "43be083ab24f0e75b3a31f63c5380aedbf444c84cf5c892911340f78c71372fd",
+			"url": "https://upload.wikimedia.org/math/7/b/5/7b5d0dfed04dd70af5578b22a011e6ff.png",
+			"previous": [],
+				"after": "The basic problem of knot theory, the recognition problem, is determining the equivalence of two knots. Algorithms exist to solve this problem, with the first given by Wolfgang Haken in the late 1960s (Hass 1998). Nonetheless, these algorithms can be extremely time-consuming, and a major issue in the theory is to understand how hard this problem really is (Hass 1998). The special case of recognizing the unknot, called the unknotting problem, is of particular interest (Hoste 2005).",
+			"color": "dark|0.27987 gray|0.27987 dark|0.27987 grey|0.27987 gray|0.27098 grey|0.27098 silver|0.14924 dim|0.14803 gray|0.14803 dim|0.14803 grey|0.14803 light|0.080693 gray|0.080693 light|0.080693 grey|0.080693 gainsboro|0.051989 white|0.0054431 smoke|0.0054431 linen|0.0027301  "
+		}
+	}
+}

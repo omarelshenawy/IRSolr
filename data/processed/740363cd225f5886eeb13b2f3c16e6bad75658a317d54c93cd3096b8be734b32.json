@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "740363cd225f5886eeb13b2f3c16e6bad75658a317d54c93cd3096b8be734b32",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rectangular_hyperbola.svg/250px-Rectangular_hyperbola.svg.png",
+			"previous": [],
+				"after": "General vector spaces do not possess a multiplication between vectors. A vector space equipped with an additional bilinear operator defining the multiplication of two vectors is an algebra over a field.[67] Many algebras stem from functions on some geometrical object: since functions with values in a given field can be multiplied pointwise, these entities form algebras. The StoneâWeierstrass theorem mentioned above, for example, relies on Banach algebras which are both Banach spaces and algebras.",
+			"color": "firebrick|0.33296 dim|0.30855 gray|0.30855 dim|0.30855 grey|0.30855 indian|0.23751 red|0.23751 brown|0.11432  "
+		}
+	}
+}

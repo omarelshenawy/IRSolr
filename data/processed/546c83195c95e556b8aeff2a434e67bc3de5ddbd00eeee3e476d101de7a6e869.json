@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "546c83195c95e556b8aeff2a434e67bc3de5ddbd00eeee3e476d101de7a6e869",
+			"url": "https://upload.wikimedia.org/math/8/4/4/8445c073a69d1f617f5cd28d6daa9f7a.png",
+			"previous": [
+				"A topos is a category that has the following two properties:",
+				"When used for foundational work a topos will be defined axiomatically; set theory is then treated as a special case of topos theory. Building from category theory, there are multiple equivalent definitions of a topos. The following has the virtue of being concise:"
+			],
+			"after": [
+				"From finite limits and power objects one can derive that",
+				"In some applications, the role of the subobject classifier is pivotal, whereas power objects are not. Thus some definitions reverse the roles of what is defined and what is derived."
+			],
+			"color": " "
+		}
+	}
+}

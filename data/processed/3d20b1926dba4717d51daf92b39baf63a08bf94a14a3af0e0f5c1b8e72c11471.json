@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d20b1926dba4717d51daf92b39baf63a08bf94a14a3af0e0f5c1b8e72c11471",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skaters_showing_newtons_third_law.svg/250px-Skaters_showing_newtons_third_law.svg.png",
+				"previous": "where u is the velocity of the escaping or incoming mass relative to the body. From this equation one can derive the equation of motion for a varying mass system, for example, the Tsiolkovsky rocket equation. Under some conventions, the quantity uâdm/dt on the left-hand side, which represents the advection of momentum, is defined as a force (the force exerted on the body by the changing mass, such as rocket exhaust) and is included in the quantity F. Then, by substituting the definition of acceleration, the equation becomes FÂ = ma.",
+				"after": "The third law states that all forces between two objects exist in equal magnitude and opposite direction: if one object A exerts a force FA on a second object B, then B simultaneously exerts a force FB on A, and the two forces are equal and opposite: FA = âFB.[24] The third law means that all forces are interactions between different bodies,[25][26] and thus that there is no such thing as a unidirectional force or a force that acts on only one body. This law is sometimes referred to as the action-reaction law, with FA called the \"action\" and FB the \"reaction\". The action and the reaction are simultaneous, and it does not matter which is called the action and which is called reaction; both forces are part of a single interaction, and neither force exists without the other.[24]",
+			"color": " "
+		}
+	}
+}

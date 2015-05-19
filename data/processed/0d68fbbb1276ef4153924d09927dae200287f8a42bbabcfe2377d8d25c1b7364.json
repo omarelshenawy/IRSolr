@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d68fbbb1276ef4153924d09927dae200287f8a42bbabcfe2377d8d25c1b7364",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Faa_pitot_static_system.JPG/350px-Faa_pitot_static_system.JPG",
+				"previous": "A pitot-static system is a system of pressure-sensitive instruments that is most often used in aviation to determine an aircraft's airspeed, Mach number, altitude, and altitude trend. A pitot-static system generally consists of a pitot tube, a static port, and the pitot-static instruments.[1] This equipment is used to measure the forces acting on a vehicle as a function of the temperature, density, pressure and viscosity of the fluid in which it is operating.[2] Other instruments that might be connected are air data computers, flight data recorders, altitude encoders, cabin pressurization controllers, and various airspeed switches. Errors in pitot-static system readings can be extremely dangerous as the information obtained from the pitot static system, such as altitude, is often critical to a successful flight. Several commercial airline disasters have been traced to a failure of the pitot-static system.[3]",
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": "black|0.10342 dark|0.072526 gray|0.072526 dark|0.072526 grey|0.072526 white|0.063222 smoke|0.063222 snow|0.060897 white|0.060643 mint|0.060544 cream|0.060544 ghost|0.059505 white|0.059505 sea|0.05886 shell|0.05886 floral|0.058443 white|0.058443 alice|0.058231 blue|0.058231 azure|0.058123 lavender|0.037037 blush|0.037037 dim|0.036996 gray|0.036996 dim|0.036996 grey|0.036996 gray|0.035663 grey|0.035663 silver|0.033735 light|0.023062 gray|0.023062 light|0.023062 grey|0.023062 dark|0.022487 slate|0.022487 gray|0.022487 ivory|0.019939 gainsboro|0.018018 linen|0.0076911 rosy|0.0069521 brown|0.0069521 light|0.0069265 slate|0.0069265 gray|0.0069265 slate|0.0058396 gray|0.0058396 cadet|0.004158 blue|0.004158 honeydew|0.0035141 light|0.0032427 cyan|0.0032427  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "347a7496e321b98ff2c552eb51671f632caf8eebdb5578a1d91fababa098314e",
+			"url": "https://upload.wikimedia.org/math/1/e/6/1e6c18c310de9e5628fb78b73182416f.png",
+				"previous": "where Î» is the quotient",
+			"after": [
+				"The next smallest eigenvalue and eigenfunction can be obtained by minimizing Q under the additional constraint",
+				"This procedure can be extended to obtain the complete sequence of eigenvalues and eigenfunctions for the problem."
+			],
+			"color": "dark|0.29075 gray|0.29075 dark|0.29075 grey|0.29075 gray|0.27124 grey|0.27124 silver|0.15216 dim|0.11902 gray|0.11902 dim|0.11902 grey|0.11902 light|0.082135 gray|0.082135 light|0.082135 grey|0.082135 gainsboro|0.056661 white|0.0078491 smoke|0.0078491 linen|0.0038164 lavender|0.0030584 blush|0.0030584 alice|0.0029661 blue|0.0029661 ghost|0.002825 white|0.002825 sea|0.0026271 shell|0.0026271 snow|0.002502  "
+		}
+	}
+}

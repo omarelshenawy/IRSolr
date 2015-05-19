@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1f0999249ca0f1f39c37f732215f709cdc89612b8b5434d34dc8fe47887c6091",
+			"url": "https://upload.wikimedia.org/math/6/e/b/6ebc836893622db9f2dd0ce3686e3c04.png",
+			"previous": [
+				"Lastly, if F is of grade r, then we can define interior and exterior covariant derivatives as",
+				"Clearly the term is of interest. However it, like the intrinsic derivative, is not necessarily on the manifold. Therefore we can define the Riemann tensor to be the projection back onto the manifold:"
+			],
+				"after": "and likewise for the intrinsic derivative.",
+			"color": "dim|0.37205 gray|0.37205 dim|0.37205 grey|0.37205 gray|0.29295 grey|0.29295 dark|0.17392 gray|0.17392 dark|0.17392 grey|0.17392 silver|0.077652 light|0.038647 gray|0.038647 light|0.038647 grey|0.038647 gainsboro|0.027561 white|0.004481 smoke|0.004481  "
+		}
+	}
+}

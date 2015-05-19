@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "944c3bb80e6e4d47e99c94b35874035024a2a09945337665a99f33d459310568",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ellipsoidal_coordinates.svg/200px-Ellipsoidal_coordinates.svg.png",
+			"previous": [],
+				"after": "The reduced latitude can also be extended to a three-dimensional coordinate system. For a point P not on the reference ellipsoid (semi-axes OA and OB) construct an auxiliary ellipsoid which is confocal (same foci F, F') with the reference ellipsoid: the necessary condition is that the product ae of semi-major axis and eccentricity is the same for both ellipsoids. Let u be the semi-minor axis (OD) of the auxiliary ellipsoid. Further let Î² be the reduced latitude of P on the auxiliary ellipsoid. The set (u,Î²,Î») define the ellipsoid coordinates. (Torge[2] Section 4.2.2). These coordinates are the natural choice in models of the gravity field for a uniform distribution of mass bounded by the reference ellipsoid.",
+			"color": "dim|0.296 gray|0.296 dim|0.296 grey|0.296 black|0.288 gray|0.22 grey|0.22 dark|0.062 gray|0.062 dark|0.062 grey|0.062 firebrick|0.041 brown|0.024333 dark|0.018333 red|0.018333 maroon|0.016333 silver|0.013333 rosy|0.008 brown|0.008 light|0.0053333 gray|0.0053333 light|0.0053333 grey|0.0053333  "
+		}
+	}
+}

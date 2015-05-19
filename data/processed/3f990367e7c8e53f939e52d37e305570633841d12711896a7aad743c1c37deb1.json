@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "3f990367e7c8e53f939e52d37e305570633841d12711896a7aad743c1c37deb1",
+			"url": "https://upload.wikimedia.org/math/2/9/1/291b561fca6ad9c00d3ed5c352ec4b52.png",
+			"previous": [
+				"The polynomial",
+				"Let and be the roots of q. Then the roots of our quartic Q are"
+			],
+			"after": [
+				"is almost palindromic, as",
+				"(it is palindromic if m = 1).",
+				"The change of variables in produces the quadratic equation As x2 - xz + m= 0, the quartic equation"
+			],
+			"color": "black|0.33304 dim|0.26621 gray|0.26621 dim|0.26621 grey|0.26621 gray|0.17729 grey|0.17729 dark|0.11751 gray|0.11751 dark|0.11751 grey|0.11751 silver|0.051974 light|0.025149 gray|0.025149 light|0.025149 grey|0.025149 gainsboro|0.017555  "
+		}
+	}
+}

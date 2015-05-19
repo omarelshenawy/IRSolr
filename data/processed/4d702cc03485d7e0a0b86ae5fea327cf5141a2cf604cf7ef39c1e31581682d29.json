@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4d702cc03485d7e0a0b86ae5fea327cf5141a2cf604cf7ef39c1e31581682d29",
+			"url": "https://upload.wikimedia.org/math/6/a/6/6a6a11d6cd4983866cda7439d3069240.png",
+				"previous": "where the coefficients A, B, C etc. may depend upon x and y. If over a region of the xy plane, the PDE is second-order in that region. This form is analogous to the equation for a conic section:",
+				"after": "More precisely, replacing âx by X, and likewise for other variables (formally this is done by a Fourier transform), converts a constant-coefficient PDE into a polynomial of the same degree, with the top degree (a homogeneous polynomial, here a quadratic form) being most significant for the classification.",
+			"color": "dim|0.39522 gray|0.39522 dim|0.39522 grey|0.39522 gray|0.28149 grey|0.28149 dark|0.1699 gray|0.1699 dark|0.1699 grey|0.1699 silver|0.072394 light|0.03596 gray|0.03596 light|0.03596 grey|0.03596 gainsboro|0.025162 white|0.0047771 smoke|0.0047771  "
+		}
+	}
+}

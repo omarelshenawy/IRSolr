@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "68c8985d8739073bcb3496ee43b9f74b0ffd1b25f8072bca60566b5545e0eca7",
+			"url": "https://upload.wikimedia.org/math/1/8/d/18dbfa493ce7231f5b1d9e68baf53fa7.png",
+			"previous": [
+				"It can be shown that the directional derivative is linear regarding its direction, that is:",
+				"This is similar to the usual definition of the gradient, but it, too, extends to functions that are not necessarily scalar-valued."
+			],
+			"after": [
+				"For this reason, is often noted .",
+				"The standard order of operations for the geometric derivative is that it acts only on the function closest to its immediate right. Given two functions F and G, then for example we have"
+			],
+			"color": "dim|0.37273 gray|0.37273 dim|0.37273 grey|0.37273 gray|0.22454 grey|0.22454 black|0.16854 dark|0.13621 gray|0.13621 dark|0.13621 grey|0.13621 silver|0.051794 light|0.022523 gray|0.022523 light|0.022523 grey|0.022523 gainsboro|0.014223  "
+		}
+	}
+}

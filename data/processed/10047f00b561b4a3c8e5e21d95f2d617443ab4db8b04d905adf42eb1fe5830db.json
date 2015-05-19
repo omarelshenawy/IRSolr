@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "10047f00b561b4a3c8e5e21d95f2d617443ab4db8b04d905adf42eb1fe5830db",
+			"url": "https://upload.wikimedia.org/math/5/9/0/590e6072ea95acd34c2d6df6070cb354.png",
+				"previous": "Let f and F be real-valued functions defined on a closed interval [a, b] such that the derivative of F is f. That is, f and F are functions such that for all x in [a, b],",
+				"after": "If f is Riemann integrable on [a, b] then",
+			"color": "dim|0.34288 gray|0.34288 dim|0.34288 grey|0.34288 gray|0.30382 grey|0.30382 dark|0.18712 gray|0.18712 dark|0.18712 grey|0.18712 silver|0.079325 light|0.039427 gray|0.039427 light|0.039427 grey|0.039427 gainsboro|0.027942 white|0.0049603 smoke|0.0049603  "
+		}
+	}
+}

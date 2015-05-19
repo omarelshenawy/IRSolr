@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7445c9351c4d7ba015e0bad6895710e6b7b4c013d468933772231fe7eda254bc",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Leadingcoeff.png/220px-Leadingcoeff.png",
+			"previous": [],
+				"after": "An algebraic integer is an algebraic number that is a root of a polynomial with integer coefficients with leading coefficient 1 (a monic polynomial). Examples of algebraic integers are 5 + 13â2, 2 â 6i, and 1â2(1 + iâ3). Note, therefore, that the algebraic integers constitute a proper superset of the integers, as the latter are the roots of monic polynomials x â k for all k â Z. In this sense, algebraic integers are to algebraic numbers what integers are to rational numbers.",
+			"color": "black|0.36976 maroon|0.071677 orange|0.067114 red|0.067114 dark|0.046571 red|0.046571 dark|0.043579 green|0.043579 dark|0.041233 orange|0.041233 orange|0.020616  "
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "95081d3567d342c58e7a959ced738ad1833905e2125a6685ecb9dbdda5b4d36d",
+			"url": "https://upload.wikimedia.org/math/9/c/3/9c319ae1f4ffee27458ce77d40437d5d.png",
+			"previous": [
+				"Another expression for the surface area is",
+				"where Î(z) is Euler's Gamma function.",
+				"The surface area of the (n â 1)-sphere of radius 1 is"
+			],
+			"after": [
+				"and the volume is the surface area times or",
+				"More generally, in a metric space (E,d), the sphere of center x and radius r > 0 is the set of points y such that d(x,y) = r."
+			],
+			"color": "dim|0.28923 gray|0.28923 dim|0.28923 grey|0.28923 gray|0.27669 grey|0.27669 dark|0.21841 gray|0.21841 dark|0.21841 grey|0.21841 silver|0.10075 light|0.04984 gray|0.04984 light|0.04984 grey|0.04984 gainsboro|0.03709 white|0.0056646 smoke|0.0056646 linen|0.0032087 lavender|0.0031175 blush|0.0031175 alice|0.0030262 blue|0.0030262 ghost|0.0029882 white|0.0029882 sea|0.0028253 shell|0.0028253 snow|0.0026257  "
+		}
+	}
+}

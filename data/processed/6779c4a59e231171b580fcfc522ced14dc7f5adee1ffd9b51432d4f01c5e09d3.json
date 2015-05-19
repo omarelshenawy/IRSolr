@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6779c4a59e231171b580fcfc522ced14dc7f5adee1ffd9b51432d4f01c5e09d3",
+			"url": "https://upload.wikimedia.org/math/d/0/b/d0bef0a8067e81ca88f31c2dc1a88280.png",
+				"previous": "In many situations, the mapping of average quantities from some Eulerian position x to a corresponding Lagrangian position Î± forms a problem. Since a fluid parcel with label Î± traverses along a path of many different Eulerian positions x, it is not possible to assign Î± to a unique x. A mathematically sound basis for an unambiguous mapping between average Lagrangian and Eulerian quantities is provided by the theory of the Generalized Lagrangian Mean (GLM) by Andrews and McIntyre (1978).",
+				"after": "Here the last term describes the Stokes drift [6]",
+			"color": "dim|0.42271 gray|0.42271 dim|0.42271 grey|0.42271 gray|0.28897 grey|0.28897 dark|0.15862 gray|0.15862 dark|0.15862 grey|0.15862 silver|0.061677 light|0.028304 gray|0.028304 light|0.028304 grey|0.028304 gainsboro|0.020371 white|0.0045043 smoke|0.0045043  "
+		}
+	}
+}

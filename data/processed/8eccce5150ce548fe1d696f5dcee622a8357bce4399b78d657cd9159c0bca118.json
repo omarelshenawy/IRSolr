@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8eccce5150ce548fe1d696f5dcee622a8357bce4399b78d657cd9159c0bca118",
+			"url": "https://upload.wikimedia.org/math/4/b/a/4ba1a63bc63bd8aff27f139a1f5dcd7a.png",
+				"previous": "The equation for viscous resistance or linear drag is appropriate for objects or particles moving through a fluid at relatively slow speeds where there is no turbulence (i.e. low Reynolds number, ).[17] Note that purely laminar flow only exists up to Re = 0.1 under this definition. In this case, the force of drag is approximately proportional to velocity, but opposite in direction. The equation for viscous resistance is:[18]",
+				"after": "where:",
+			"color": "dim|0.35487 gray|0.35487 dim|0.35487 grey|0.35487 gray|0.24562 grey|0.24562 dark|0.16963 gray|0.16963 dark|0.16963 grey|0.16963 silver|0.091216 light|0.051613 gray|0.051613 light|0.051613 grey|0.051613 black|0.043885 gainsboro|0.034672  "
+		}
+	}
+}

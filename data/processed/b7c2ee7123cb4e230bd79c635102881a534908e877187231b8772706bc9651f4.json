@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "b7c2ee7123cb4e230bd79c635102881a534908e877187231b8772706bc9651f4",
+			"url": "https://upload.wikimedia.org/math/6/f/5/6f524b4437cb68758b1881eb35d65956.png",
+			"previous": [
+				"A high specific thrust engine has a high jet velocity by definition, as the following approximate equation for net thrust implies:[1]",
+				"The next generation of Supersonic transport (SST) may require some form of VCE. SST engines require a high Specific Thrust (net thrust/airflow) at supersonic cruise to keep the cross-sectional area of the powerplant to a minimum, so as to reduce aircraft drag. Unfortunately, this implies a high jet velocity not only at supersonic cruise, but at take-off, which makes the aircraft noisy."
+			],
+			"after": [
+				"where:",
+				"intake mass flow rate"
+			],
+			"color": "dim|0.41169 gray|0.41169 dim|0.41169 grey|0.41169 gray|0.26413 grey|0.26413 dark|0.16844 gray|0.16844 dark|0.16844 grey|0.16844 silver|0.075253 light|0.037078 gray|0.037078 light|0.037078 grey|0.037078 gainsboro|0.026185 white|0.0041482 smoke|0.0041482  "
+		}
+	}
+}

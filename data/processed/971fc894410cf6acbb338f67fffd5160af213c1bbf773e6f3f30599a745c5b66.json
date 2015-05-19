@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "971fc894410cf6acbb338f67fffd5160af213c1bbf773e6f3f30599a745c5b66",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/200px-Torus.png",
+				"previous": "Algebraic topology is another domain which prominently associates groups to the objects the theory is interested in. There, groups are used to describe certain invariants of topological spaces. They are called \"invariants\" because they are defined in such a way that they do not change if the space is subjected to some deformation. For example, the fundamental group \"counts\" how many paths in the space are essentially different. The PoincarÃ© conjecture, proved in 2002/2003 by Grigori Perelman, is a prominent application of this idea. The influence is not unidirectional, though. For example, algebraic topology makes use of EilenbergâMacLane spaces which are spaces with prescribed homotopy groups. Similarly algebraic K-theory relies in a way on classifying spaces of groups. Finally, the name of the torsion subgroup of an infinite group shows the legacy of topology in group theory.",
+			"after": [],
+			"color": "light|0.3477 steel|0.3477 blue|0.3477 lavender|0.12543 light|0.063386 gray|0.063386 light|0.063386 grey|0.063386 royal|0.059933 blue|0.059933 gainsboro|0.058006 alice|0.041913 blue|0.041913 silver|0.041615 dark|0.039229 slate|0.039229 blue|0.039229 light|0.036711 slate|0.036711 gray|0.036711 ghost|0.036155 white|0.036155 white|0.027635 smoke|0.027635 lavender|0.021717 blush|0.021717 snow|0.018838 white|0.017033 azure|0.017012 mint|0.013168 cream|0.013168 sea|0.011314 shell|0.011314 slate|0.010108 gray|0.010108 floral|0.0085785 white|0.0085785  "
+		}
+	}
+}

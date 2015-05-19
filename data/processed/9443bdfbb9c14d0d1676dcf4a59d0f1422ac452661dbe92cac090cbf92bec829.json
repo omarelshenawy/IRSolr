@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9443bdfbb9c14d0d1676dcf4a59d0f1422ac452661dbe92cac090cbf92bec829",
+			"url": "https://upload.wikimedia.org/math/0/0/5/005cc52c1f9f02707944edcbad4c564f.png",
+				"previous": "The theoretical maximum efficiency of any heat engine depends only on the temperatures it operates between. This efficiency is usually derived using an ideal imaginary heat engine such as the Carnot heat engine, although other engines using different cycles can also attain maximum efficiency. Mathematically, this is because in reversible processes, the change in entropy of the cold reservoir is the negative of that of the hot reservoir (i.e., ), keeping the overall change of entropy zero. Thus:",
+				"after": "From momentum considerations, propulsion requires material to be pushed backwards to push the vehicle forwards. In general, energy efficiency is highest when the air or exhaust gas used to propel the vehicle end up travelling as slow as possible for the required thrust, in the frame of reference of the Earth.",
+			"color": " "
+		}
+	}
+}

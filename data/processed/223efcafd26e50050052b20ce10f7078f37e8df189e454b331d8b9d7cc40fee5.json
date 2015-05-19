@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "223efcafd26e50050052b20ce10f7078f37e8df189e454b331d8b9d7cc40fee5",
+			"url": "https://upload.wikimedia.org/math/5/1/9/51919e4b536db6bc655d2a34eb9e1e97.png",
+				"previous": "where is the rate constant for absorption. For the reverse process, there are two possibilities: spontaneous emission of a photon, and a return to the lower-energy state that is initiated by the interaction with a passing photon. Following Einstein's approach, the corresponding rate for the emission of photons of frequency and transition from a higher energy to a lower energy is",
+				"after": "where is the rate constant for emitting a photon spontaneously, and is the rate constant for emitting it in response to ambient photons (induced or stimulated emission). In thermodynamic equilibrium, the number of atoms in state i and that of atoms in state j must, on average, be constant; hence, the rates and must be equal. Also, by arguments analogous to the derivation of Boltzmann statistics, the ratio of and is where are the degeneracy of the state i and that of j, respectively, their energies, k the Boltzmann constant and T the system's temperature. From this, it is readily derived that and",
+			"color": "dim|0.421 gray|0.421 dim|0.421 grey|0.421 gray|0.27969 grey|0.27969 dark|0.16261 gray|0.16261 dark|0.16261 grey|0.16261 silver|0.068401 light|0.033712 gray|0.033712 light|0.033712 grey|0.033712 gainsboro|0.022906 white|0.003356 smoke|0.003356  "
+		}
+	}
+}

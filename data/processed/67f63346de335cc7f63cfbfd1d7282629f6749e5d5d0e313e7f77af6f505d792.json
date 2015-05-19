@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "67f63346de335cc7f63cfbfd1d7282629f6749e5d5d0e313e7f77af6f505d792",
+			"url": "https://upload.wikimedia.org/math/4/7/f/47fb9e1b632c2af94c2a8e11d38b2d2a.png",
+			"previous": [
+				"Expected length of a code is",
+				".",
+				"Length of the code word is written as",
+				"is the code word associated with .",
+				"(or if the empty string is not part of the alphabet)."
+			],
+			"after": [
+				"The concatenation of code words .",
+				"The code word of the empty string is the empty string itself:",
+				""
+			],
+			"color": "dim|0.32994 gray|0.32994 dim|0.32994 grey|0.32994 gray|0.29035 grey|0.29035 dark|0.1946 gray|0.1946 dark|0.1946 grey|0.1946 silver|0.082708 light|0.037945 gray|0.037945 light|0.037945 grey|0.037945 gainsboro|0.027026 white|0.0067301 smoke|0.0067301 lavender|0.0040871 blush|0.0040871 alice|0.0040643 blue|0.0040643 ghost|0.0039356 white|0.0039356 sea|0.0038446 shell|0.0038446 snow|0.0036912 linen|0.0032485  "
+		}
+	}
+}

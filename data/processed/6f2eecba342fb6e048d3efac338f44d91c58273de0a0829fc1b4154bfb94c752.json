@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f2eecba342fb6e048d3efac338f44d91c58273de0a0829fc1b4154bfb94c752",
+			"url": "https://upload.wikimedia.org/math/4/2/b/42bd981d33a2bd968ba3e5541f4dbb15.png",
+				"previous": "= +",
+				"after": "It should be noted that the transient model described above is pretty crude, since it only takes into account inertia effects, other effects being ignored. For instance, under transient conditions the entry mass flow to a volume (e.g. jetpipe) needn't be the same as the exit mass flow; i.e. the volume could be acting as an accumulator, storing or discharging gas. Similarly part of the engine structure (e.g. nozzle wall) could be extracting or adding heat to the gas flow, which would affect that component's discharge temperature.",
+			"color": "black|0.57262 dim|0.18644 gray|0.18644 dim|0.18644 grey|0.18644 gray|0.11569 grey|0.11569 dark|0.070364 gray|0.070364 dark|0.070364 grey|0.070364 silver|0.028022 light|0.01235 gray|0.01235 light|0.01235 grey|0.01235 gainsboro|0.0082646  "
+		}
+	}
+}

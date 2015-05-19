@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "75ca8bfa841d263fd556458b38558bcf88a603305a875bc857ba73e6bdce01bb",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/URI_Euler_Diagram_no_lone_URIs.svg/220px-URI_Euler_Diagram_no_lone_URIs.svg.png",
+			"previous": [],
+				"after": "A uniform resource locator (URL) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI).[1] although many people use the two terms interchangeably.[2] A URL implies the means to access an indicated resource, which is not true of every URI.[2][3] URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications.",
+			"color": "pale|0.44896 golden|0.44896 rod|0.44896 black|0.067631 dark|0.033834 gray|0.033834 dark|0.033834 grey|0.033834 white|0.032714 smoke|0.032714 ghost|0.028936 white|0.028936 snow|0.028923 alice|0.028846 blue|0.028846 white|0.028658 sea|0.028646 shell|0.028646 mint|0.02727 cream|0.02727 floral|0.026942 white|0.026942 azure|0.026866 thistle|0.026215 lavender|0.024675 blush|0.024675 dim|0.024038 gray|0.024038 dim|0.024038 grey|0.024038 silver|0.017603 light|0.017065 gray|0.017065 light|0.017065 grey|0.017065 plum|0.016915 gainsboro|0.015953 gray|0.011956 grey|0.011956 wheat|0.0059414 bisque|0.0053434 peach|0.0053308 puff|0.0053308  "
+		}
+	}
+}

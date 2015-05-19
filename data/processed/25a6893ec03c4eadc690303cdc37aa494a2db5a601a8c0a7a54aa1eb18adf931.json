@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "25a6893ec03c4eadc690303cdc37aa494a2db5a601a8c0a7a54aa1eb18adf931",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mediaevalziffern.svg/220px-Mediaevalziffern.svg.png",
+				"previous": "Fonts, especially ones intended for professional use, are commonly designed to be used at a specific size. The art of designing fonts for a specific size is known as optical sizing. Designs intended to be printed small may feature larger lower-case letters, chunkier stroke weights and thicker serifs, while fonts intended for display may be more slender. Typefaces may also be designed differently considering the type of paper on which they will be printed. Designs to be printed on absorbent newsprint paper will be more slender as the ink will naturally spread out as it absorbs into the paper, but this correction will not be needed for printing on high-gloss cardboard or display on-screen. During the metal type era, all type was cut in metal so could only be printed at a specific size.",
+			"after": [
+				"Numbers can be typeset in two independent sets of ways: lining and non-lining figures, and proportional and tabular styles, making for four possible combinations.",
+				"Most modern typefaces set numbers by default as lining figures, the height of upper-case letters. Non-lining figures, styled to match lower-case letters, are often common in fonts intended for body text, as they are thought to be less disruptive to the style of running text. They are also called lower-case numbers or text figures for the same reason."
+			],
+			"color": "black|0.1617 ghost|0.069461 white|0.069461 white|0.066918 smoke|0.066918 alice|0.066394 blue|0.066394 snow|0.064585 white|0.064168 mint|0.06229 cream|0.06229 sea|0.06195 shell|0.06195 azure|0.060717 floral|0.060171 white|0.060171 lavender|0.049235 blush|0.049235 lavender|0.034235 dim|0.03131 gray|0.03131 dim|0.03131 grey|0.03131 gray|0.031173 grey|0.031173 dark|0.028171 gray|0.028171 dark|0.028171 grey|0.028171 silver|0.021489 light|0.018108 gray|0.018108 light|0.018108 grey|0.018108 gainsboro|0.015482 ivory|0.014811 light|0.0082904 steel|0.0082904 blue|0.0082904 linen|0.0048802  "
+		}
+	}
+}

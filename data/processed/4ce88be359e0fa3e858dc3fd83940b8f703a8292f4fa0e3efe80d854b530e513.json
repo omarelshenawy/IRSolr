@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4ce88be359e0fa3e858dc3fd83940b8f703a8292f4fa0e3efe80d854b530e513",
+			"url": "https://upload.wikimedia.org/math/1/5/6/15612d9c74124cb1f89fb5005913a717.png",
+				"previous": "When an object falls from rest, its velocity will be",
+			"after": [
+				"which asymptotically approaches the terminal velocity . For a given , heavier objects fall more quickly.",
+				"For the special case of small spherical objects moving slowly through a viscous fluid (and thus at small Reynolds number), George Gabriel Stokes derived an expression for the drag constant:"
+			],
+			"color": "dim|0.39816 gray|0.39816 dim|0.39816 grey|0.39816 gray|0.28147 grey|0.28147 dark|0.17539 gray|0.17539 dark|0.17539 grey|0.17539 silver|0.074363 light|0.034572 gray|0.034572 light|0.034572 grey|0.034572 gainsboro|0.02461 white|0.0032315 smoke|0.0032315  "
+		}
+	}
+}

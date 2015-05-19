@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "18492242d172ee00fa679300eec4b6fe55fb7b37a7c43a71c3d16437bb19dcb6",
+			"url": "https://upload.wikimedia.org/math/9/d/f/9df90e35603129a069966dc93f645da6.png",
+				"previous": "A theory T is called model-complete if every substructure of a model of T which is itself a model of T is an elementary substructure. There is a useful criterion for testing whether a substructure is an elementary substructure, called the TarskiâVaught test. It follows from this criterion that a theory T is model-complete if and only if every first-order formula Ï(x1,...,xn) over its signature is equivalent modulo T to an existential first-order formula, i.e. a formula of the following form:",
+				"after": "where Ï is quantifier free. A theory that is not model-complete may or may not have a model completion, which is a related model-complete theory that is not, in general, an extension of the original theory. A more general notion is that of model companions.",
+			"color": "dim|0.28415 gray|0.28415 dim|0.28415 grey|0.28415 black|0.27062 gray|0.18556 grey|0.18556 dark|0.12166 gray|0.12166 dark|0.12166 grey|0.12166 silver|0.060081 light|0.032626 gray|0.032626 light|0.032626 grey|0.032626 gainsboro|0.023133 white|0.0049429 smoke|0.0049429  "
+		}
+	}
+}

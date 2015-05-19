@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c060744877505cc3e7eaed676cc3cbfd094a910f4a10141466c259c9755ae9a",
+			"url": "https://upload.wikimedia.org/math/7/e/5/7e53ad3d249df6c021847244062b9e5c.png",
+				"previous": "and so we can call this quantity the cosine of the angle between the two vectors.",
+				"after": "The inner product facilitates the construction of many useful concepts. For instance, given a transform T, we can define its Hermitian conjugate T* as the linear transform satisfying",
+			"color": "dim|0.40394 gray|0.40394 dim|0.40394 grey|0.40394 gray|0.30017 grey|0.30017 dark|0.16018 gray|0.16018 dark|0.16018 grey|0.16018 silver|0.069677 light|0.03218 gray|0.03218 light|0.03218 grey|0.03218 gainsboro|0.020933 white|0.0032056 smoke|0.0032056  "
+		}
+	}
+}

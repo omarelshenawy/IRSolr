@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f28dacfc0401ab6b90de60800228c69a80842d725b11b510648c938d6c0008e",
+			"url": "https://upload.wikimedia.org/math/1/1/7/117e17b47d6de744fc5b7d79497cc6be.png",
+			"previous": [
+				"An extension of the complement is the symmetric difference, defined for sets A, B as",
+				"Some basic properties of complements:"
+			],
+				"after": "For example, the symmetric difference of {7,8,9,10} and {9,10,11,12} is the set {7,8,11,12}.",
+			"color": "dim|0.40218 gray|0.40218 dim|0.40218 grey|0.40218 gray|0.29135 grey|0.29135 dark|0.16448 gray|0.16448 dark|0.16448 grey|0.16448 silver|0.070905 light|0.034179 gray|0.034179 light|0.034179 grey|0.034179 gainsboro|0.023231 white|0.0034509 smoke|0.0034509  "
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "73f7d65c6c3dc8cded0eb91625ff83cbf70feeb74ed093760cc92abdb88857cf",
+			"url": "https://upload.wikimedia.org/math/e/8/9/e898f05297bf3712afce906bcc8b8480.png",
+			"previous": [
+				"So",
+				"So differentiating the position vector twice to obtain the velocity and the acceleration vectors:",
+				"where is the unit vector orthogonal to and pointing in the direction of rotation, and is the polar angle, and where a dot on top of the variable signifies differentiation with respect to time."
+			],
+			"after": [
+				"where the radial acceleration is",
+				"and the transversal acceleration is"
+			],
+			"color": "black|0.34464 dim|0.27828 gray|0.27828 dim|0.27828 grey|0.27828 gray|0.18193 grey|0.18193 dark|0.10477 gray|0.10477 dark|0.10477 grey|0.10477 silver|0.043821 light|0.021697 gray|0.021697 light|0.021697 grey|0.021697 gainsboro|0.014681  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8a5dbccb989b6c359235d0942731f18e84c076ec9ecd99c36f421d23228479ec",
+			"url": "https://upload.wikimedia.org/math/e/e/6/ee66bc1f420c4a4ceb3f0d05608c7734.png",
+			"previous": [
+				"Especially in physics, del or Nabla (â) is often used to denote spatial derivatives, and for time derivatives. For example, the wave equation (described below) can be written as",
+				"In PDEs, it is common to denote partial derivatives using subscripts. That is:"
+			],
+			"after": [
+				"or",
+				"where Î is the Laplace operator."
+			],
+			"color": "dim|0.31544 gray|0.31544 dim|0.31544 grey|0.31544 black|0.21625 gray|0.2087 grey|0.2087 dark|0.13687 gray|0.13687 dark|0.13687 grey|0.13687 silver|0.058711 light|0.028494 gray|0.028494 light|0.028494 grey|0.028494 gainsboro|0.020656 white|0.0038639 smoke|0.0038639  "
+		}
+	}
+}

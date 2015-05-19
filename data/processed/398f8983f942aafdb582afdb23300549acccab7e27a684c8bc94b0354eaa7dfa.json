@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "398f8983f942aafdb582afdb23300549acccab7e27a684c8bc94b0354eaa7dfa",
+			"url": "https://upload.wikimedia.org/math/2/2/e/22ebf0b8c6cd57a8fd70d61e257fcb46.png",
+			"previous": [
+				"",
+				"The calculation of the overall 3x3 grid slope S and aspect A for methods that determine east-west and north-south component use the following formulas respectively:"
+			],
+			"after": [
+				"Zhou and Liu[25] describe another algorithm for calculating aspect, as follows:",
+				""
+			],
+			"color": "black|0.339 dim|0.27312 gray|0.27312 dim|0.27312 grey|0.27312 gray|0.22666 grey|0.22666 dark|0.13442 gray|0.13442 dark|0.13442 grey|0.13442 silver|0.023723  "
+		}
+	}
+}

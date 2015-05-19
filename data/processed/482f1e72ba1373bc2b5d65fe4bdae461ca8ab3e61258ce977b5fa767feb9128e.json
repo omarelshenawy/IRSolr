@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "482f1e72ba1373bc2b5d65fe4bdae461ca8ab3e61258ce977b5fa767feb9128e",
+			"url": "https://upload.wikimedia.org/math/e/5/4/e54d1b1b812183f9045540811024fe6d.png",
+				"previous": "A function f with domain X and codomain Y is commonly denoted by",
+			"after": [
+				"or",
+				"In this context, the elements of X are called arguments of f. For each argument x, the corresponding unique y in the codomain is called the function value at x or the image of x under f. It is written as f(x). One says that f associates y with x or maps x to y. This is abbreviated by"
+			],
+			"color": "gray|0.28616 grey|0.28616 dim|0.26505 gray|0.26505 dim|0.26505 grey|0.26505 dark|0.21539 gray|0.21539 dark|0.21539 grey|0.21539 silver|0.10659 light|0.058462 gray|0.058462 light|0.058462 grey|0.058462 gainsboro|0.042107 white|0.0059744 smoke|0.0059744 lavender|0.0028674 blush|0.0028674 linen|0.0028202 alice|0.0027835 blue|0.0027835 ghost|0.0026729 white|0.0026729  "
+		}
+	}
+}

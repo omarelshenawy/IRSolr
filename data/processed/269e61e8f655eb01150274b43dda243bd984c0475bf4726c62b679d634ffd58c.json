@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "269e61e8f655eb01150274b43dda243bd984c0475bf4726c62b679d634ffd58c",
+			"url": "https://upload.wikimedia.org/math/7/c/3/7c3c2fa73bfdd06202c5603a62eabf71.png",
+			"previous": [],
+				"after": "For example, if R is a principal ideal domain, then Pic(R) vanishes. In algebraic number theory, R will be taken to be the ring of integers, which is Dedekind and thus regular. It follows that Pic(R) is a finite group (finiteness of class number) that measures the deviation of the ring of integers from being a PID.",
+			"color": "gray|0.34371 grey|0.34371 dark|0.25026 gray|0.25026 dark|0.25026 grey|0.25026 dim|0.17142 gray|0.17142 dim|0.17142 grey|0.17142 silver|0.1131 light|0.055705 gray|0.055705 light|0.055705 grey|0.055705 gainsboro|0.038393 white|0.0072777 smoke|0.0072777 linen|0.0033399 lavender|0.0030557 blush|0.0030557 alice|0.002895 blue|0.002895 ghost|0.00272 white|0.00272 sea|0.0025523 shell|0.0025523  "
+		}
+	}
+}

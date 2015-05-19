@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6393be02ca142d2c3b1488c6d035f05d46bb6d99ab8f80fbab263f01851726af",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/OpenBSD_hackers_at_c2k%2B%2B_at_MIT.jpg/220px-OpenBSD_hackers_at_c2k%2B%2B_at_MIT.jpg",
+			"previous": [],
+				"after": "Development is continuous, and team management is open and tiered. Anyone with appropriate skills may contribute, with commit rights being awarded on merit and de Raadt acting as coordinator.[17] Two official releases are made per year, with the version number incremented by 0.1,[18] and these are each supported for twelve months. Snapshot releases are also available at very frequent intervals. Maintenance patches for supported releases may be applied manually or by regularly updating the system against the patch branch of the CVS repository for that release.",
+			"color": "light|0.13869 steel|0.13869 blue|0.13869 silver|0.11056 dark|0.10917 gray|0.10917 dark|0.10917 grey|0.10917 light|0.091109 gray|0.091109 light|0.091109 grey|0.091109 gainsboro|0.057143 dim|0.054329 gray|0.054329 dim|0.054329 grey|0.054329 gray|0.052285 grey|0.052285 lavender|0.04617 light|0.042539 slate|0.042539 gray|0.042539 slate|0.028368 gray|0.028368 black|0.023432 rosy|0.023306 brown|0.023306 white|0.016181 smoke|0.016181 alice|0.015799 blue|0.015799 ghost|0.01552 white|0.01552 lavender|0.015237 blush|0.015237 light|0.014954 blue|0.014954 snow|0.013801 sea|0.013058 shell|0.013058 misty|0.012923 rose|0.012923 white|0.012361 floral|0.010598 white|0.010598 mint|0.0096 cream|0.0096 azure|0.0081572 dark|0.0080457 salmon|0.0080457 linen|0.0074725 dark|0.0064365 slate|0.0064365 gray|0.0064365 thistle|0.0049992 peach|0.0048057 puff|0.0048057 antique|0.0043894 white|0.0043894  "
+		}
+	}
+}

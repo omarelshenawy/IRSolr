@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "21804830c49c841afb4d1ca2d3bd8b606e98d0940804f4859e23817367a457a1",
+			"url": "https://upload.wikimedia.org/math/a/7/9/a792a10ed1e6fd3ba7112ba98da0481b.png",
+			"previous": [
+				"The figure on the right shows the effect of this transformation on point coordinates in the plane. The eigenvectors v of this transformation satisfy the equation,",
+				"Consider the transformation matrix A, given by,"
+			],
+			"after": [
+				"Rearrange this equation to obtain",
+				"which has a solution only when its determinant | A â Î»I | equals zero."
+			],
+			"color": "dim|0.41346 gray|0.41346 dim|0.41346 grey|0.41346 gray|0.29614 grey|0.29614 dark|0.15511 gray|0.15511 dark|0.15511 grey|0.15511 silver|0.063824 light|0.032045 gray|0.032045 light|0.032045 grey|0.032045 gainsboro|0.0232 white|0.0041751 smoke|0.0041751  "
+		}
+	}
+}

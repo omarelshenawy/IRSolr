@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "10690acb40381357547cd871adf16a7bfed33e683239ab1f01a867f48254b09e",
+			"url": "https://upload.wikimedia.org/math/f/d/6/fd6f55942ff3b50cfbe28de3c9379275.png",
+				"previous": "where is an interpolated precision that takes the maximum precision over all recalls greater than :",
+				"after": "Precision at R-th position in the ranking of results for a query that has R relevant documents. This measure is highly correlated to Average Precision. Also, Precision is equal to Recall at the R-th position.",
+			"color": "gray|0.31044 grey|0.31044 dark|0.25949 gray|0.25949 dark|0.25949 grey|0.25949 dim|0.18764 gray|0.18764 dim|0.18764 grey|0.18764 silver|0.11649 light|0.05592 gray|0.05592 light|0.05592 grey|0.05592 gainsboro|0.038083 white|0.0068741 smoke|0.0068741 lavender|0.0034613 blush|0.0034613 alice|0.003405 blue|0.003405 linen|0.0032642 ghost|0.0032173 white|0.0032173 sea|0.0030564 shell|0.0030564 snow|0.0029509  "
+		}
+	}
+}

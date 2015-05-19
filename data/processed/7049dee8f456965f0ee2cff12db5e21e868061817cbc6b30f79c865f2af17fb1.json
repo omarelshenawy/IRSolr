@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7049dee8f456965f0ee2cff12db5e21e868061817cbc6b30f79c865f2af17fb1",
+			"url": "https://upload.wikimedia.org/math/2/6/0/260898f0e64ce2deda1c2497ccc06f64.png",
+				"previous": "where f and g are arbitrary given functions. The solution of this problem is given by d'Alembert's formula:",
+				"after": "This formula implies that the solution at (t,x) depends only upon the data on the segment of the initial line that is cut out by the characteristic curves",
+			"color": "dim|0.38467 gray|0.38467 dim|0.38467 grey|0.38467 gray|0.28276 grey|0.28276 dark|0.17321 gray|0.17321 dark|0.17321 grey|0.17321 silver|0.075871 light|0.037173 gray|0.037173 light|0.037173 grey|0.037173 gainsboro|0.027015 white|0.0045026 smoke|0.0045026  "
+		}
+	}
+}

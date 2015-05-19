@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3de5d0303e61f5426d160cee28c8273391f34fa9d6b9cffc98d05c137bb35305",
+			"url": "https://upload.wikimedia.org/math/6/e/4/6e4d57f6674f6fa2df5451126cc39d12.png",
+				"previous": "The conformal latitude, Ï, gives an angle-preserving (conformal) transformation to the sphere.",
+				"after": "where gd(x) is the Gudermannian function. (See also Mercator projection.) The conformal latitude defines a transformation from the ellipsoid to a sphere of arbitrary radius such that the angle of intersection between any two lines on the ellipsoid is the same as the corresponding angle on the sphere (so that the shape of small elements is well preserved). A further conformal transformation from the sphere to the plane gives a conformal double projection from the ellipsoid to the plane. This is not the only way of generating such a conformal projection. For example, the 'exact' version of the Transverse Mercator projection on the ellipsoid is not a double projection. (It does, however, involve a generalisation of the conformal latitude to the complex plane).",
+			"color": "dark|0.27078 gray|0.27078 dark|0.27078 grey|0.27078 gray|0.26402 grey|0.26402 dim|0.14693 gray|0.14693 dim|0.14693 grey|0.14693 silver|0.1437 light|0.078226 gray|0.078226 light|0.078226 grey|0.078226 gainsboro|0.049298 black|0.024761 white|0.0049366 smoke|0.0049366 linen|0.0030771  "
+		}
+	}
+}

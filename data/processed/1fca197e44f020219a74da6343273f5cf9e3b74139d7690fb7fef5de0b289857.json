@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fca197e44f020219a74da6343273f5cf9e3b74139d7690fb7fef5de0b289857",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Superheater.jpg/300px-Superheater.jpg",
+				"previous": "A boiler that has a loss of feed water and is permitted to boil dry can be extremely dangerous. If feed water is then sent into the empty boiler, the small cascade of incoming water instantly boils on contact with the superheated metal shell and leads to a violent explosion that cannot be controlled even by safety steam valves. Draining of the boiler can also happen if a leak occurs in the steam supply lines that is larger than the make-up water supply could replace. The Hartford Loop was invented in 1919 by the Hartford Steam Boiler and Insurance Company as a method to help prevent this condition from occurring, and thereby reduce their insurance claims.[8]",
+				"after": "Most boilers produce steam to be used at saturation temperature; that is, saturated steam. Superheated steam boilers vaporize the water and then further heat the steam in a superheater. This provides steam at much higher temperature, but can decrease the overall thermal efficiency of the steam generating plant because the higher steam temperature requires a higher flue gas exhaust temperature. There are several ways to circumvent this problem, typically by providing an economizer that heats the feed water, a combustion air heater in the hot flue gas exhaust path, or both. There are advantages to superheated steam that may, and often will, increase overall efficiency of both steam generation and its utilization: gains in input temperature to a turbine should outweigh any cost in additional boiler complication and expense. There may also be practical limitations in using wet steam, as entrained condensation droplets will damage turbine blades.",
+			"color": " "
+		}
+	}
+}

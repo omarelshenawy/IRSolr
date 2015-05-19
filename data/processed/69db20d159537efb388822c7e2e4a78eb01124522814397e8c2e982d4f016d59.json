@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "69db20d159537efb388822c7e2e4a78eb01124522814397e8c2e982d4f016d59",
+			"url": "https://upload.wikimedia.org/math/b/a/a/baabf73794878a2f3e3b5e03b1a9d9a7.png",
+				"previous": "where and are the wave functions of the two states involved in the transition and Âµ is the transition moment operator. If the value of this integral is zero the transition is forbidden. In practice, the integral itself does not need to be calculated to determine a selection rule. It is sufficient to determine the symmetry of transition moment function, . If the symmetry of this function spans the totally symmetric representation of the point group to which the atom or molecule belongs then its value is (in general) not zero and the transition is allowed. Otherwise, the transition is forbidden.",
+			"after": [],
+			"color": "dim|0.26168 gray|0.26168 dim|0.26168 grey|0.26168 black|0.2497 gray|0.19045 grey|0.19045 dark|0.1377 gray|0.1377 dark|0.1377 grey|0.1377 silver|0.067417 light|0.036846 gray|0.036846 light|0.036846 grey|0.036846 gainsboro|0.027257 white|0.0063274 smoke|0.0063274 linen|0.003614  "
+		}
+	}
+}

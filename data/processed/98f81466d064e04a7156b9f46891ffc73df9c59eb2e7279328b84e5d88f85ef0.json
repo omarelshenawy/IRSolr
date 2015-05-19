@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "98f81466d064e04a7156b9f46891ffc73df9c59eb2e7279328b84e5d88f85ef0",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BBC_Micro_rear.jpeg/320px-BBC_Micro_rear.jpeg",
+			"previous": [],
+				"after": "The Model A had 16 kB of user RAM, while the Model B had 32 kB. A feature that the Micro shared with other 6502 computers such as the Apple and the early Commodore models was that the RAM was clocked twice as fast as the CPU (4 MHz),[6][26] with alternating access given to the CPU and the video display circuits.[22] This gave the BBC Micro a fully unified memory address structure without speed penalties. Most competing microcomputers with memory-mapped display incurred CPU speed penalties depending on the actions of the video circuits (e.g. the Amstrad CPC and to a lesser extent the ZX Spectrum) or kept video memory completely separate from the CPU address pool (e.g. the MSX).",
+			"color": "black|0.22214 tan|0.20651 peach|0.045615 puff|0.045615 sea|0.037163 shell|0.037163 floral|0.037063 white|0.037063 white|0.036429 smoke|0.036429 mint|0.036297 cream|0.036297 snow|0.036164 white|0.035941 azure|0.033374 ghost|0.032412 white|0.032412 wheat|0.032009 alice|0.029859 blue|0.029859 gray|0.029415 grey|0.029415 bisque|0.02307 dim|0.022159 gray|0.022159 dim|0.022159 grey|0.022159 lavender|0.020078 blush|0.020078 ivory|0.016702 dark|0.0093855 gray|0.0093855 dark|0.0093855 grey|0.0093855 linen|0.0086581 antique|0.006948 white|0.006948 old|0.0060315 lace|0.0060315 silver|0.0055981  "
+		}
+	}
+}

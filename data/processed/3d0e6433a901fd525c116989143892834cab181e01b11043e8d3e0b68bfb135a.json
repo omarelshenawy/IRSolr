@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d0e6433a901fd525c116989143892834cab181e01b11043e8d3e0b68bfb135a",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Enigma.jpg/220px-Enigma.jpg",
+			"previous": [],
+			"after": [
+				"The goal of cryptanalysis is to find some weakness or insecurity in a cryptographic scheme, thus permitting its subversion or evasion.",
+				"It is a common misconception that every encryption method can be broken. In connection with his WWII work at Bell Labs, Claude Shannon proved that the one-time pad cipher is unbreakable, provided the key material is truly random, never reused, kept secret from all possible attackers, and of equal or greater length than the message.[35] Most ciphers, apart from the one-time pad, can be broken with enough computational effort by brute force attack, but the amount of effort needed may be exponentially dependent on the key size, as compared to the effort needed to make use of the cipher. In such cases, effective security could be achieved if it is proven that the effort required (i.e., \"work factor\", in Shannon's terms) is beyond the ability of any adversary. This means it must be shown that no efficient method (as opposed to the time-consuming brute force method) can be found to break the cipher. Since no such proof has been found to date, the one-time-pad remains the only theoretically unbreakable cipher."
+			],
+			"color": "dark|0.32479 slate|0.32479 gray|0.32479 black|0.27309 dim|0.036114 gray|0.036114 dim|0.036114 grey|0.036114 light|0.035919 gray|0.035919 light|0.035919 grey|0.035919 gainsboro|0.034732 white|0.024413 smoke|0.024413 silver|0.024298 alice|0.021685 blue|0.021685 gray|0.021506 grey|0.021506 dark|0.020868 gray|0.020868 dark|0.020868 grey|0.020868 ghost|0.019755 white|0.019755 azure|0.017593 snow|0.017577 mint|0.016773 cream|0.016773 white|0.016375 sea|0.014254 shell|0.014254 floral|0.011978 white|0.011978 lavender|0.010791 blush|0.010791 slate|0.010608 gray|0.010608 light|0.0074199 slate|0.0074199 gray|0.0074199  "
+		}
+	}
+}

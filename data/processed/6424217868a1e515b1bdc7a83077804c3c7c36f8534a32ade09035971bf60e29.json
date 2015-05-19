@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6424217868a1e515b1bdc7a83077804c3c7c36f8534a32ade09035971bf60e29",
+			"url": "https://upload.wikimedia.org/math/f/3/7/f37130aec708a1cbe5e10086d6dcdfee.png",
+			"previous": [
+				"When operator (function) names do not have a pre-defined abbreviation, we may use \\operatorname:",
+				"but not"
+			],
+			"after": [
+				"\\operatorname includes correct spacing that would not be present with other means such as \\rm:",
+				"Special care is needed with subscripted labels to distinguish the purpose of the subscript (as this is a common error): variables and constants in subscripts should be italic, while textual labels should be in normal text font (Roman, upright). For example:"
+			],
+			"color": "dim|0.35046 gray|0.35046 dim|0.35046 grey|0.35046 gray|0.31917 grey|0.31917 dark|0.17863 gray|0.17863 dark|0.17863 grey|0.17863 silver|0.074966 light|0.034878 gray|0.034878 light|0.034878 grey|0.034878 gainsboro|0.023696 white|0.0042737 smoke|0.0042737  "
+		}
+	}
+}

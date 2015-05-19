@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "9f12b0f1cb7706ab641b87c340006d245b49924ab375309fba986082ed2916fa",
+			"url": "https://upload.wikimedia.org/math/1/1/8/11816dc3d53a5fd917aab6cc0fcdc924.png",
+			"previous": [
+				"is the x-coordinate of the vertex, and hence the vertex is",
+				"the average of the two roots, i.e.,"
+			],
+			"after": [
+				"The vertex is also the maximum point if a < 0, or the minimum point if a > 0.",
+				"The vertical line",
+				"that passes through the vertex is also the axis of symmetry of the parabola."
+			],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "655edb1cfb15da44ebdd98a51be75403d8a5649f92919605497f4ad0e2c516be",
+			"url": "https://upload.wikimedia.org/math/2/c/3/2c38c2bf9b428765f846f836e7a81786.png",
+				"previous": "The second law of thermodynamics puts a fundamental limit on the thermal efficiency of all heat engines. Even an ideal, frictionless engine can't convert anywhere near 100% of its input heat into work. The limiting factors are the temperature at which the heat enters the engine, , and the temperature of the environment into which the engine exhausts its waste heat, , measured in an absolute scale, such as the Kelvin or Rankine scale. From Carnot's theorem, for any engine working between these two temperatures:[4]",
+				"after": "This limiting value is called the Carnot cycle efficiency because it is the efficiency of an unattainable, ideal, reversible engine cycle called the Carnot cycle. No device converting heat into mechanical energy, regardless of its construction, can exceed this efficiency.",
+			"color": "dim|0.3474 gray|0.3474 dim|0.3474 grey|0.3474 gray|0.27464 grey|0.27464 dark|0.19268 gray|0.19268 dark|0.19268 grey|0.19268 silver|0.087809 light|0.046111 gray|0.046111 light|0.046111 grey|0.046111 gainsboro|0.031703 white|0.0043947 smoke|0.0043947  "
+		}
+	}
+}

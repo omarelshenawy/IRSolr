@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7fd23c2efffc201f7b3ca1ad3f8c9bc8110e7c18cbf2c98254245cc05811b545",
+			"url": "https://upload.wikimedia.org/math/d/9/d/d9db568601de67bbf55332be1ae94c19.png",
+			"previous": [],
+				"after": "A simple criterion for checking whether a density matrix is describing a pure or mixed state is that the trace of Ï2 is equal to 1 if the state is pure, and less than 1 if the state is mixed.[10] Another, equivalent, criterion is that the von Neumann entropy is 0 for a pure state, and strictly positive for a mixed state.",
+			"color": "dark|0.26922 gray|0.26922 dark|0.26922 grey|0.26922 gray|0.21478 grey|0.21478 silver|0.19838 light|0.11852 gray|0.11852 light|0.11852 grey|0.11852 gainsboro|0.085197 dim|0.042501 gray|0.042501 dim|0.042501 grey|0.042501 white|0.014222 smoke|0.014222 linen|0.0085084 lavender|0.0078526 blush|0.0078526 alice|0.0077651 blue|0.0077651 ghost|0.0076194 white|0.0076194 sea|0.0072446 shell|0.0072446 snow|0.0069931 white|0.0053607 mint|0.0034368 cream|0.0034368  "
+		}
+	}
+}

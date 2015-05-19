@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "827f508caf112a1d7190b59d1f2ccba3ab5cfc7faa89a31858476fc841c83c40",
+			"url": "https://upload.wikimedia.org/math/f/c/e/fce2ffe82640b9c313707710c593b136.png",
+			"previous": [
+				"where:",
+				"The equation for viscous resistance or linear drag is appropriate for objects or particles moving through a fluid at relatively slow speeds where there is no turbulence (i.e. low Reynolds number, ).[17] Note that purely laminar flow only exists up to Re = 0.1 under this definition. In this case, the force of drag is approximately proportional to velocity, but opposite in direction. The equation for viscous resistance is:[18]"
+			],
+			"after": [
+				"The resulting expression for the drag is known as Stokes' drag:[19]",
+				"For example, consider a small sphere with radius = 0.5 micrometre (diameter = 1.0Â Âµm) moving through water at a velocity of 10Â Âµm/s. Using 10â3 PaÂ·s as the dynamic viscosity of water in SI units, we find a drag force of 0.09 pN. This is about the drag force that a bacterium experiences as it swims through water."
+			],
+			"color": " "
+		}
+	}
+}

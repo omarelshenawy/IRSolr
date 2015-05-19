@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "45c52c1dfb4fbd9d80863a5f3475196b7d0e08baeca341ba0f596ad7c1a67eb7",
+			"url": "https://upload.wikimedia.org/math/2/3/5/2353f01f9bc6e90d4172b433a4e9ca89.png",
+			"previous": [
+				"for each root Î±j repeated kj times,",
+				"",
+				"for Î±j all different,"
+			],
+			"after": [
+				"for some Î±j complex, then setting Î± = Ïj + iÎ³j, and using Euler's formula, allows some terms in the previous results to be written in the form",
+				"where Ïj is an arbitrary constant (phase shift)."
+			],
+			"color": "black|0.28166 gray|0.22986 grey|0.22986 dim|0.22352 gray|0.22352 dim|0.22352 grey|0.22352 dark|0.17461 gray|0.17461 dark|0.17461 grey|0.17461 silver|0.06436 light|0.016488 gray|0.016488 light|0.016488 grey|0.016488 gainsboro|0.0068337  "
+		}
+	}
+}

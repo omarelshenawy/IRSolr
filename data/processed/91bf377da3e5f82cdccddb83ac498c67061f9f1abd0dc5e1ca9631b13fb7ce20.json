@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "91bf377da3e5f82cdccddb83ac498c67061f9f1abd0dc5e1ca9631b13fb7ce20",
+			"url": "https://upload.wikimedia.org/math/9/6/0/96020f66c2a5991b3af5d990a83865bc.png",
+			"previous": [],
+				"after": "The matrix above has another eigenvalue . A similar calculation shows that the corresponding eigenvectors are the non-zero solutions of , that is, any vector of the form , for any non-zero real number .",
+			"color": "dim|0.40967 gray|0.40967 dim|0.40967 grey|0.40967 gray|0.30822 grey|0.30822 dark|0.15708 gray|0.15708 dark|0.15708 grey|0.15708 silver|0.059818 light|0.027105 gray|0.027105 light|0.027105 grey|0.027105 gainsboro|0.019622 black|0.0081475 white|0.0030993 smoke|0.0030993  "
+		}
+	}
+}

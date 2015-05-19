@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6db5494eb485d8e6b240241105ef43ea043e165841305c96ba659dfc1e619a84",
+			"url": "https://upload.wikimedia.org/math/6/e/8/6e870d661a2e1d729e91d577ffe8ddd3.png",
+				"previous": "While the fundamental theorem of algebra states a general existence result, it is of some interest, both from the theoretical and from the practical point of view, to have information on the location of the zeros of a given polynomial. The simpler result in this direction is a bound on the modulus: all zeros Î¶ of a monic polynomial satisfy an inequality |Î¶| â¤ Râ, where",
+				"after": "Notice that, as stated, this is not yet an existence result but rather an example of what is called an a priori bound: it says that if there are solutions then they lie inside the closed disk of center the origin and radius Râ. However, once coupled with the fundamental theorem of algebra it says that the disk contains in fact at least one solution. More generally, a bound can be given directly in terms of any p-norm of the n-vector of coefficients , that is |Î¶| â¤ Rp, where Rp is precisely the q-norm of the 2-vector , q being the conjugate exponent of p, 1/p + 1/q = 1, for any 1 â¤ p â¤ â. Thus, the modulus of any solution is also bounded by",
+			"color": "dim|0.34544 gray|0.34544 dim|0.34544 grey|0.34544 gray|0.25725 grey|0.25725 dark|0.18512 gray|0.18512 dark|0.18512 grey|0.18512 silver|0.10434 light|0.05387 gray|0.05387 light|0.05387 grey|0.05387 gainsboro|0.036342 white|0.0037409 smoke|0.0037409  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6ad8a7812484de4d4d5eaf9235bca2d63f58bf158a0152a3eac0a04650fc093c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ipv4_address.svg/300px-Ipv4_address.svg.png",
+			"previous": [],
+				"after": "In IPv4 an address consists of 32 bits which limits the address space to 4294967296 (232) possible unique addresses. IPv4 reserves some addresses for special purposes such as private networks (~18 million addresses) or multicast addresses (~270 million addresses).",
+			"color": "white|0.092444 snow|0.09171 mint|0.090595 cream|0.090595 white|0.089231 smoke|0.089231 ghost|0.089052 white|0.089052 azure|0.088772 alice|0.087548 blue|0.087548 sea|0.087249 shell|0.087249 floral|0.087195 white|0.087195 lavender|0.083507 blush|0.083507 black|0.026676 dark|0.019424 gray|0.019424 dark|0.019424 grey|0.019424 dim|0.015502 gray|0.015502 dim|0.015502 grey|0.015502 gray|0.015102 grey|0.015102 silver|0.01143 light|0.0098698 gray|0.0098698 light|0.0098698 grey|0.0098698 gainsboro|0.0093271 ivory|0.0037129  "
+		}
+	}
+}

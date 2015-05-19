@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "483748af79336d21dd6192e3a32e90e40dff71e31c7b109d5e34e071597ff712",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/PiArchimede4.svg/220px-PiArchimede4.svg.png",
+			"previous": [],
+				"after": "While he is often regarded as a designer of mechanical devices, Archimedes also made contributions to the field of mathematics. Plutarch wrote: \"He placed his whole affection and ambition in those purer speculations where there can be no reference to the vulgar needs of life.\"[49] Archimedes was able to use infinitesimals in a way that is similar to modern integral calculus. Through proof by contradiction (reductio ad absurdum), he could give answers to problems to an arbitrary degree of accuracy, while specifying the limits within which the answer lay. This technique is known as the method of exhaustion, and he employed it to approximate the value of Ï. In Measurement of a Circle he did this by drawing a larger regular hexagon outside a circle and a smaller regular hexagon inside the circle, and progressively doubling the number of sides of each regular polygon, calculating the length of a side of each polygon at each step. As the number of sides increases, it becomes a more accurate approximation of a circle. After four such steps, when the polygons had 96 sides each, he was able to determine that the value of Ï lay between 31â7 (approximately 3.1429) and 310â71 (approximately 3.1408), consistent with its actual value of approximately 3.1416.[50] He also proved that the area of a circle was equal to Ï multiplied by the square of the radius of the circle (Ïr2). In On the Sphere and Cylinder, Archimedes postulates that any magnitude when added to itself enough times will exceed any given magnitude. This is the Archimedean property of real numbers.[51]",
+			"color": "white|0.093322 smoke|0.093322 ghost|0.090888 white|0.090888 snow|0.09086 alice|0.090849 blue|0.090849 sea|0.090686 shell|0.090686 white|0.090656 mint|0.090258 cream|0.090258 floral|0.089684 white|0.089684 azure|0.089456 lavender|0.087115 blush|0.087115 dark|0.024405 gray|0.024405 dark|0.024405 grey|0.024405 silver|0.020013 gray|0.01475 grey|0.01475 light|0.013607 gray|0.013607 light|0.013607 grey|0.013607 gainsboro|0.012114 dim|0.0058087 gray|0.0058087 dim|0.0058087 grey|0.0058087 ivory|0.00367  "
+		}
+	}
+}

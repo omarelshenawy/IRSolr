@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4f1bd95d7282342f219afac7bf173af1eb95f259a61a5f22f919ea2ed4874eed",
+			"url": "https://upload.wikimedia.org/math/b/0/4/b04e368c4dd5940edae65658116cee28.png",
+			"previous": [
+				"then",
+				"Using the algrebraic identity that if:"
+			],
+			"after": [
+				"The present value formula can be rearranged such that:",
+				"This same method can be used to determine the length of time needed to increase a deposit to any particular sum, as long as the interest rate is known. For the period of time needed to double an investment, the Rule of 72 is a useful short-cut that gives a reasonable approximation of the period needed."
+			],
+			"color": "gray|0.3089 grey|0.3089 dark|0.25192 gray|0.25192 dark|0.25192 grey|0.25192 dim|0.20501 gray|0.20501 dim|0.20501 grey|0.20501 silver|0.11647 light|0.055267 gray|0.055267 light|0.055267 grey|0.055267 gainsboro|0.038195 white|0.0061175 smoke|0.0061175 linen|0.0031653  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9694d228603756609c0ca7b68a2cd395cff8dda4232797286674ef42e9a718f5",
+			"url": "https://upload.wikimedia.org/math/6/b/7/6b75469d05a5c90b0d48a88db24d9ee2.png",
+				"previous": "It should be noted that the transient model described above is pretty crude, since it only takes into account inertia effects, other effects being ignored. For instance, under transient conditions the entry mass flow to a volume (e.g. jetpipe) needn't be the same as the exit mass flow; i.e. the volume could be acting as an accumulator, storing or discharging gas. Similarly part of the engine structure (e.g. nozzle wall) could be extracting or adding heat to the gas flow, which would affect that component's discharge temperature.",
+				"after": "During a Slam Deceleration, the opposite trend is observed; the transient compressor working line goes below the steady state line.",
+			"color": "gray|0.32446 grey|0.32446 dark|0.23146 gray|0.23146 dark|0.23146 grey|0.23146 dim|0.23091 gray|0.23091 dim|0.23091 grey|0.23091 silver|0.10188 light|0.051449 gray|0.051449 light|0.051449 grey|0.051449 gainsboro|0.035999 white|0.0064581 smoke|0.0064581 linen|0.0033841 lavender|0.0026789 blush|0.0026789 alice|0.0025899 blue|0.0025899  "
+		}
+	}
+}

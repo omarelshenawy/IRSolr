@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "85dd079c9a1631b21382de35dd199944acdf6006dba7c32970a06f9ea8a5fe07",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Airspeed_indication_system_-_fly_by_wire.png/220px-Airspeed_indication_system_-_fly_by_wire.png",
+			"previous": [],
+				"after": "The aircraft is controlled by three primary control computers (captain's, first officer's, and standby) and two secondary control computers (captain's and first officer's). In addition there are two flight control data computers (FCDC) that read information from the sensors, such as air data (airspeed, altitude). This is fed along with GPS data, into three redundant processing units known as air data inertial reference units (ADIRUs) that act both as an air data reference and inertial reference. ADIRUs are part of the air data inertial reference system, which, on the Airbus is linked to eight air data modules: three are linked to pitot tubes and five are linked to static sources. Information from the ADIRU is fed into one of several flight control computers (primary and secondary flight control). The computers also receive information from the control surfaces of the aircraft and from the pilots aircraft control devices and autopilot. Information from these computers is sent both to the pilot's primary flight display and also to the control surfaces.[citation needed]",
+			"color": "white|0.077505 smoke|0.077505 mint|0.076966 cream|0.076966 sea|0.076119 shell|0.076119 floral|0.075874 white|0.075874 white|0.075477 snow|0.075212 azure|0.074367 ghost|0.074198 white|0.074198 alice|0.074011 blue|0.074011 lavender|0.066843 blush|0.066843 dark|0.039684 gray|0.039684 dark|0.039684 grey|0.039684 gray|0.032966 grey|0.032966 dark|0.030532 sea|0.030532 green|0.030532 silver|0.022619 dim|0.021153 gray|0.021153 dim|0.021153 grey|0.021153 rosy|0.017776 brown|0.017776 light|0.015069 gray|0.015069 light|0.015069 grey|0.015069 ivory|0.012573 gainsboro|0.012501 honeydew|0.0084722 beige|0.0060323 linen|0.0059318 misty|0.0052993 rose|0.0052993 maroon|0.0044282 dark|0.0034281 red|0.0034281  "
+		}
+	}
+}

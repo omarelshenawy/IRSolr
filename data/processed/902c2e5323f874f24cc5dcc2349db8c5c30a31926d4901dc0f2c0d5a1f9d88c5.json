@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "902c2e5323f874f24cc5dcc2349db8c5c30a31926d4901dc0f2c0d5a1f9d88c5",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Android_App_Permissions.png/150px-Android_App_Permissions.png",
+			"previous": [],
+				"after": "Android applications run in a sandbox, an isolated area of the system that does not have access to the rest of the system's resources, unless access permissions are explicitly granted by the user when the application is installed. Before installing an application, Play Store displays all required permissions: a game may need to enable vibration or save data to an SD card, for example, but should not need to read SMS messages or access the phonebook. After reviewing these permissions, the user can choose to accept or refuse them, installing the application only if they accept.[146] The sandboxing and permissions system lessens the impact of vulnerabilities and bugs in applications, but developer confusion and limited documentation has resulted in applications routinely requesting unnecessary permissions, reducing its effectiveness.[147] Google has now pushed an update to Android Verify Apps feature, which will now run in background to detect malicious processes and crack them down.[148]",
+			"color": "black|0.81765 dim|0.13881 gray|0.13881 dim|0.13881 grey|0.13881 gray|0.03231 grey|0.03231 dark|0.004967 gray|0.004967 dark|0.004967 grey|0.004967  "
+		}
+	}
+}

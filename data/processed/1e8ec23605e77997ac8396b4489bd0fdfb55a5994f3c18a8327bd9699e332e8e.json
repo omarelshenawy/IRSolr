@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e8ec23605e77997ac8396b4489bd0fdfb55a5994f3c18a8327bd9699e332e8e",
+			"url": "https://upload.wikimedia.org/math/6/c/0/6c0b0662ba8ffdeed90467faef034a30.png",
+			"previous": [
+				"For planar algebra, non-Euclidean geometry arises in the other cases. When , then z is a split-complex number and conventionally j replaces epsilon. Then",
+				"and this quantity is the square of the Euclidean distance between z and the origin. For instance, {zÂ : z z* = 1} is the unit circle."
+			],
+			"after": [
+				"and {zÂ : z z* = 1} is the unit hyperbola.",
+				"When , then z is a dual number.[25]"
+			],
+			"color": "dim|0.29862 gray|0.29862 dim|0.29862 grey|0.29862 black|0.25789 gray|0.20469 grey|0.20469 dark|0.12201 gray|0.12201 dark|0.12201 grey|0.12201 silver|0.057023 light|0.028147 gray|0.028147 light|0.028147 grey|0.028147 gainsboro|0.019969  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4679adcebc3be8932dc920fb0296c2e1c983e050d5289431f9cd7304afb3c9fa",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stereoscopic_images%2C_depth_to_displacement_relationship_assuming_flat_co-planar_images..png/220px-Stereoscopic_images%2C_depth_to_displacement_relationship_assuming_flat_co-planar_images..png",
+				"previous": "Scientific applications for digital stereo vision include the extraction of information from aerial surveys, for calculation of contour maps or even geometry extraction for 3D building mapping, or calculation of 3D heliographical information such as obtained by the NASA STEREO project.",
+			"after": [
+				"A pixel records color at a position. The position is identified by position in the grid of pixels (x, y) and depth to the pixel z.",
+				"Stereoscopic vision gives two images of the same scene, from different positions. In the diagram on the right light from the point A is transmitted through the entry points of a pinhole cameras at B and D, onto image screens at E and H."
+			],
+			"color": "white|0.098496 smoke|0.098496 alice|0.096463 blue|0.096463 ghost|0.096398 white|0.096398 snow|0.096283 white|0.096213 sea|0.096117 shell|0.096117 floral|0.095328 white|0.095328 mint|0.095017 cream|0.095017 azure|0.093831 lavender|0.093259 blush|0.093259 lavender|0.0057058 light|0.0054615 coral|0.0054615 linen|0.0048732 ivory|0.0040181 misty|0.0031724 rose|0.0031724 honeydew|0.0031094 gainsboro|0.003051 light|0.0028919 gray|0.0028919 light|0.0028919 grey|0.0028919  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9adc6c6995d682555b1fa40d5a64854c1207ee282befb7cd22ee5de5e14b601e",
+			"url": "https://upload.wikimedia.org/math/0/9/5/095deb8ff67d31af24d9520341292c66.png",
+				"previous": "These pressure differences arise in conjunction with the curved air flow. Whenever a fluid follows a curved path, there is a pressure gradient perpendicular to the flow direction with higher pressure on the outside of the curve and lower pressure on the inside.[50] This direct relationship between curved streamlines and pressure differences was derived from Newton's second law by Leonhard Euler in 1754:",
+				"after": "The left hand side of this equation represents the pressure difference perpendicular to the fluid flow. On the right hand side Ï is the density, v is the velocity, and R is the radius of curvature. This formula shows that higher velocities and tighter curvatures create larger pressure differentials and that for straight flow (R â â) the pressure difference is zero.[51]",
+			"color": " "
+		}
+	}
+}

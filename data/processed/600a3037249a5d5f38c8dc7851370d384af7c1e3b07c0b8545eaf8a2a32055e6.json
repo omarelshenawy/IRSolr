@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "600a3037249a5d5f38c8dc7851370d384af7c1e3b07c0b8545eaf8a2a32055e6",
+			"url": "https://upload.wikimedia.org/math/9/e/2/9e274e66d1b322f22269fab4b49f5a14.png",
+				"previous": "So the torque, the rate of change of work W, due to a force F, is",
+				"after": "Unlike the cross product description of torque, , the geometric algebra description does not introduce a vector in the normal direction; a vector that does not exist in two and that is not unique in greater than three dimensions. The unit bivector describes the plane and the orientation of the rotation, and the sense of the rotation is relative to the angle between the vectors and .",
+			"color": "dim|0.38527 gray|0.38527 dim|0.38527 grey|0.38527 gray|0.27988 grey|0.27988 dark|0.17776 gray|0.17776 dark|0.17776 grey|0.17776 silver|0.07495 light|0.036469 gray|0.036469 light|0.036469 grey|0.036469 gainsboro|0.024989 white|0.0045914 smoke|0.0045914  "
+		}
+	}
+}

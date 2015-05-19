@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e61b0b7989dc8fcab55a1e6ccd3a60e6a05da4512a2d57acc4fc7027440ad9d",
+			"url": "https://upload.wikimedia.org/math/0/0/1/00106989fcc6981fdae5c9c92c5c9044.png",
+			"previous": [
+				"Conclusions on maximum efficiency",
+				"For equiangular blades, , therefore , and we get . If the friction due to the blade surface is neglected then ."
+			],
+			"after": [
+				"1. For a given steam velocity work done per kg of steam would be maximum when or .",
+				"2. As increases, the work done on the blades reduces, but at the same time surface area of the blade reduces, therefore there are less frictional losses."
+			],
+			"color": "dim|0.32659 gray|0.32659 dim|0.32659 grey|0.32659 gray|0.29553 grey|0.29553 dark|0.19555 gray|0.19555 dark|0.19555 grey|0.19555 silver|0.085707 light|0.043235 gray|0.043235 light|0.043235 grey|0.043235 gainsboro|0.030416 white|0.0052577 smoke|0.0052577  "
+		}
+	}
+}

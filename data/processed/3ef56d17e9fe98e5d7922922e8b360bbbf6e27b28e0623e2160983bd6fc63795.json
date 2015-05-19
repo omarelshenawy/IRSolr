@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3ef56d17e9fe98e5d7922922e8b360bbbf6e27b28e0623e2160983bd6fc63795",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lift_drag_graph.JPG/400px-Lift_drag_graph.JPG",
+			"previous": [],
+				"after": "For a planar wing with an elliptical lift distribution, induced drag is often calculated as follows. These equations make the induced drag depend on the square of the lift, for a given aspect ratio and surface area (while varying the angle of attack), but as the accompanying graph shows, this is only an approximation and is not valid at high angles of attack (and probably not for very high values of aspect ratio either).",
+			"color": "white|0.085248 smoke|0.085248 white|0.082032 snow|0.081979 floral|0.078914 white|0.078914 mint|0.078869 cream|0.078869 sea|0.075957 shell|0.075957 ghost|0.072255 white|0.072255 azure|0.070146 alice|0.069079 blue|0.069079 lavender|0.050113 blush|0.050113 ivory|0.031937 brown|0.024154 linen|0.022412 honeydew|0.01728 gainsboro|0.014498 misty|0.014188 rose|0.014188 light|0.014156 gray|0.014156 light|0.014156 grey|0.014156 old|0.013068 lace|0.013068 silver|0.011433 light|0.0090897 cyan|0.0090897 gray|0.0079365 grey|0.0079365 indian|0.0071199 red|0.0071199 rosy|0.0064309 brown|0.0064309 dark|0.0060991 gray|0.0060991 dark|0.0060991 grey|0.0060991 pink|0.0055122 firebrick|0.0054994 maroon|0.0048359 lavender|0.0046988 dark|0.004249 red|0.004249 dim|0.003981 gray|0.003981 dim|0.003981 grey|0.003981 beige|0.0034234 navy|0.0033685 antique|0.0029575 white|0.0029575  "
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"add": {
+		"doc": {
+			"id": "7f34bc3356410df9c26905876c0b3f2a0428bb2e8e13d9de88c9b7158e6c8834",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/US_121_Virginia_1926.svg/75px-US_121_Virginia_1926.svg.png",
+			"previous": [
+				"75px 75px 75px",
+				"50px 50px 50px 50px 50px 50px 50px",
+				"50px 50px",
+				"50px 50px 50px 50px 50px",
+				"50px 50px 50px",
+				"50px 50px",
+				"50px 50px 50px 50px 50px 50px 50px"
+			],
+			"after": [
+				"75px 75px 75px 75px 75px",
+				"75px 75px",
+				"75px 75px 75px",
+				"",
+				"75px 75px",
+				"75px 75px 75px",
+				"75px 75px 75px 75px"
+			],
+			"color": "black|0.70113 dim|0.17978 gray|0.17978 dim|0.17978 grey|0.17978 gray|0.10048 grey|0.10048 dark|0.015282 gray|0.015282 dark|0.015282 grey|0.015282  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7afc5f66fd32a0c480ffd2167e2ac6544ab353722b83e6ceb6b066cea9b4112e",
+			"url": "https://upload.wikimedia.org/math/7/8/1/78196b7ac325b6bbad5b8726a428e37d.png",
+				"previous": "More generally, the covariant components of a 4-vector transform according to the inverse Lorentz transformation:",
+			"after": [
+				"The postulates of special relativity constrain the exact form the Lorentz transformation matrices take.",
+				"More generally, most physical quantities are best described as (components of) tensors. So to transform from one frame to another, we use the well-known tensor transformation law[46]"
+			],
+			"color": "gray|0.30651 grey|0.30651 dim|0.26959 gray|0.26959 dim|0.26959 grey|0.26959 dark|0.22571 gray|0.22571 dark|0.22571 grey|0.22571 silver|0.099868 light|0.047938 gray|0.047938 light|0.047938 grey|0.047938 gainsboro|0.033193 white|0.0052957 smoke|0.0052957 linen|0.0027664  "
+		}
+	}
+}

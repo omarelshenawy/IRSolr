@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "987a7fe0f50ef27492e8128807f81d47115dad9e5809752fa774b179e2ea043e",
+			"url": "https://upload.wikimedia.org/math/1/9/c/19c34e34c8786299594f7c24c16a0a5c.png",
+			"previous": [
+				"Substituting this definition into the prior equation, we find the general gain equation:",
+				"The gain G of the amplifier is defined as the optical intensity I at position z divided by the input intensity:"
+			],
+				"after": "In the special case where the input signal is small compared to the saturation intensity, in other words,",
+			"color": "dim|0.42845 gray|0.42845 dim|0.42845 grey|0.42845 gray|0.28267 grey|0.28267 dark|0.1603 gray|0.1603 dark|0.1603 grey|0.1603 silver|0.065059 light|0.03082 gray|0.03082 light|0.03082 grey|0.03082 gainsboro|0.02138  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1030c0b6e782e30173949a2ec839338202b8369e7d1cad38a6407baeb643594c",
+			"url": "https://upload.wikimedia.org/math/7/2/0/720df0ad1ecc74fb89516e50d241e40a.png",
+				"previous": "Given an odd prime number p, let q = pe for some positive integer e. A non-zero element of the field Fq with q elements is a quadratic residue if it is has a square root in Fq. Otherwise, it is a quadratic non-residue. There are (q â 1)/2 quadratic residues and (q â 1)/2 quadratic non-residues; zero is not counted in either class. The quadratic residues form a group under multiplication. The properties of quadratic residues are widely used in number theory.",
+			"after": [
+				"Another example is provided by the quaternions in which the element â1 has an infinitude of square roots including Â±i, Â±j, and Â±k.",
+				"In fact, the set of square roots of â1 is exactly"
+			],
+			"color": "dark|0.32797 gray|0.32797 dark|0.32797 grey|0.32797 gray|0.2234 grey|0.2234 silver|0.16761 light|0.093702 gray|0.093702 light|0.093702 grey|0.093702 gainsboro|0.069656 dim|0.04629 gray|0.04629 dim|0.04629 grey|0.04629 white|0.016635 smoke|0.016635 linen|0.0077343 lavender|0.0076946 blush|0.0076946 alice|0.0074165 blue|0.0074165 ghost|0.0070688 white|0.0070688 sea|0.0067992 shell|0.0067992 snow|0.0065384 white|0.0044303 mint|0.003129 cream|0.003129  "
+		}
+	}
+}

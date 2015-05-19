@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "93e013f9197526b45ccc9802bf4723d9486a60b09d52aa48fd0c6e63e20e1179",
+			"url": "https://upload.wikimedia.org/math/1/f/d/1fd3336e10b269456987554409362bd8.png",
+			"previous": [
+				"can be simply expressed in terms of x and y by way of the Pythagorean trigonometric identity:",
+				"To take the example of the circle of radius a above, the parametric equations"
+			],
+			"after": [
+				"which is easily identifiable as a type of conic section (in this case, a circle).",
+				"Numerous problems in integer geometry can be solved using parametric equations. The most widely known such solution is Euclid's solution in integers for the legs a, b and the hypotenuse c of a primitive right triangle:"
+			],
+			"color": "dim|0.37275 gray|0.37275 dim|0.37275 grey|0.37275 gray|0.30204 grey|0.30204 dark|0.17817 gray|0.17817 dark|0.17817 grey|0.17817 silver|0.071062 light|0.033654 gray|0.033654 light|0.033654 grey|0.033654 gainsboro|0.023714 white|0.0045919 smoke|0.0045919  "
+		}
+	}
+}

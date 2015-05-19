@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a28557fc826d1477310163961ccce1eb60a9accd58ca8853e1d63918dd3e8de",
+			"url": "https://upload.wikimedia.org/math/8/b/9/8b9f58f316d27ad4e70314c5bd007d7c.png",
+			"previous": [],
+				"after": "A commutative ring R is said to be catenary if any pair of prime ideals can be extended to a chain of prime ideals of same finite length such that there is no prime ideal that is strictly contained in two consecutive terms. Practically all noetherian rings that appear in application are catenary. If is a catenary local integral domain, then, by definition,",
+			"color": "dim|0.31736 gray|0.31736 dim|0.31736 grey|0.31736 gray|0.25752 grey|0.25752 dark|0.1584 gray|0.1584 dark|0.1584 grey|0.1584 black|0.13846 silver|0.057214 light|0.031316 gray|0.031316 light|0.031316 grey|0.031316 gainsboro|0.02251 white|0.0041982 smoke|0.0041982  "
+		}
+	}
+}

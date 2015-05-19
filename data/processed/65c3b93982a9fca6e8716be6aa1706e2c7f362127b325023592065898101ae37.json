@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "65c3b93982a9fca6e8716be6aa1706e2c7f362127b325023592065898101ae37",
+			"url": "https://upload.wikimedia.org/math/8/1/0/81024f395e6cedcd1a239c02f9dd9b27.png",
+				"previous": "Since, unlike a jet engine, a conventional rocket motor lacks an air intake, there is no 'ram drag' to deduct from the gross thrust. Consequently the net thrust of a rocket motor is equal to the gross thrust (apart from static back pressure).",
+				"after": "Maximum efficiency for a rocket engine is achieved by maximising the momentum contribution of the equation without incurring penalties from over expanding the exhaust. This occurs when . Since ambient pressure changes with altitude, most rocket engines spend very little time operating at peak efficiency.",
+			"color": "black|0.40181 dim|0.26236 gray|0.26236 dim|0.26236 grey|0.26236 gray|0.16821 grey|0.16821 dark|0.091333 gray|0.091333 dark|0.091333 grey|0.091333 silver|0.038118 light|0.017238 gray|0.017238 light|0.017238 grey|0.017238 gainsboro|0.011712  "
+		}
+	}
+}

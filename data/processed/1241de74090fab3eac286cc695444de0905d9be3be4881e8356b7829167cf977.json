@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "1241de74090fab3eac286cc695444de0905d9be3be4881e8356b7829167cf977",
+			"url": "https://upload.wikimedia.org/math/6/1/7/617506439b15f31f10080698d0599edc.png",
+			"previous": [
+				"For Î» = 3, the equation becomes,",
+				"which has the solution,",
+				"For Î» = 1, the equation becomes,",
+				"known as the characteristic polynomial of the matrix A. In this case, it has the roots Î» = 1 and Î» = 3."
+			],
+			"after": [
+				"which has the solution,",
+				"For Î» = 3, the equation becomes,",
+				"which has the solution,"
+			],
+			"color": "dim|0.33969 gray|0.33969 dim|0.33969 grey|0.33969 gray|0.27152 grey|0.27152 dark|0.20922 gray|0.20922 dark|0.20922 grey|0.20922 silver|0.089362 light|0.041104 gray|0.041104 light|0.041104 grey|0.041104 gainsboro|0.02951 white|0.0065982 smoke|0.0065982  "
+		}
+	}
+}

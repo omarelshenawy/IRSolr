@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0caa8251a290989f46d094254cdbe9dd769156bdc9bdbe9d120eaad0fc4fbbf7",
+			"url": "https://upload.wikimedia.org/math/7/4/e/74ee997d8ae17a1723c24f02b012e403.png",
+				"previous": "The circulation is the contour integral of the tangential velocity of the air on a closed loop (also called a 'circuit') around the boundary of an airfoil. It can be understood as the total amount of \"spinning\" (or vorticity) of air around the airfoil. The section lift/span can be calculated using the KuttaâJoukowski theorem:[18]",
+				"after": "where is the air density, is the free-stream airspeed.",
+			"color": "dim|0.38851 gray|0.38851 dim|0.38851 grey|0.38851 gray|0.30332 grey|0.30332 dark|0.16894 gray|0.16894 dark|0.16894 grey|0.16894 silver|0.060951 light|0.027318 gray|0.027318 light|0.027318 grey|0.027318 black|0.024453 gainsboro|0.017693  "
+		}
+	}
+}

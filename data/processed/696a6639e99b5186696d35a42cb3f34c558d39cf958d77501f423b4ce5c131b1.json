@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "696a6639e99b5186696d35a42cb3f34c558d39cf958d77501f423b4ce5c131b1",
+			"url": "https://upload.wikimedia.org/math/e/2/0/e20a6fcf3531116b3aea0187d783fa7c.png",
+				"previous": "This equation has solutions only if the determinant | A â Î»I | equals zero, which yields the characteristic polynomial,",
+			"after": [
+				"with the roots Î» = 1, Î» = 2, and Î» = 3.",
+				"Associated with the roots Î» = 1, Î» = 2, and Î» = 3 are the respective eigenvectors,"
+			],
+			"color": "dim|0.37292 gray|0.37292 dim|0.37292 grey|0.37292 gray|0.27399 grey|0.27399 dark|0.17505 gray|0.17505 dark|0.17505 grey|0.17505 silver|0.087594 light|0.046137 gray|0.046137 light|0.046137 grey|0.046137 gainsboro|0.032539  "
+		}
+	}
+}

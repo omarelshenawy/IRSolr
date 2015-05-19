@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "40ab0774634e9013afe1305e963091cdbce47a8451239e56a419308f5f00dfc4",
+			"url": "https://upload.wikimedia.org/math/1/d/c/1dc83ef3d6e2e4ab7b969dd95c160d05.png",
+			"previous": [
+				"inverse of core total head temperature ratio = i.e. f()",
+				"core total head pressure ratio =",
+				"core size ="
+			],
+			"after": [
+				"core entry total temperature =",
+				"So basically, increasing increases .",
+				"On the other hand, adding a stage to the rear of the compressor increases overall pressure ratio, decreases core size, but has no effect on core flow. This option also needs a turbine with a significantly smaller flow capacity to drive the compressor."
+			],
+			"color": "black|0.23482 gray|0.20577 grey|0.20577 dim|0.18976 gray|0.18976 dim|0.18976 grey|0.18976 dark|0.16027 gray|0.16027 dark|0.16027 grey|0.16027 silver|0.080944 light|0.048448 gray|0.048448 light|0.048448 grey|0.048448 gainsboro|0.037756 white|0.0091151 smoke|0.0091151 linen|0.0046365 lavender|0.004576 blush|0.004576 alice|0.0043898 blue|0.0043898 ghost|0.0042656 white|0.0042656 sea|0.0040927 shell|0.0040927 snow|0.0039065  "
+		}
+	}
+}

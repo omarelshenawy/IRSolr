@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4835b9934646fdb2b21f926b1c61b51eb5baa161c13becd4d6a74ff384545b9a",
+			"url": "https://upload.wikimedia.org/math/8/f/7/8f752b86a853bc932fa92952684666c6.png",
+			"previous": [
+				"In particular, the outermorphism of the reflection of a vector on a vector is",
+				"Often an invertible linear transformation from vectors to vectors is already of known interest. There is no unique way to generalize these transformations to the entire geometric algebra without further restriction. Even the restriction that the linear transformation be grade-preserving is not enough. We therefore desire a stronger rule, motivated by geometric interpretation, for generalizing these linear transformations of vectors in a standard way. The most natural choice is that of the outermorphism of the linear transformation because it extends the concepts of reflection and rotation straightforwardly. If f is a function that maps vectors to vectors, then its outermorphism is the function that obeys the rule"
+			],
+				"after": "and the outermorphism of the rotation of a vector by a rotor is",
+			"color": "gray|0.24333 grey|0.24333 dim|0.23308 gray|0.23308 dim|0.23308 grey|0.23308 dark|0.22657 gray|0.22657 dark|0.22657 grey|0.22657 black|0.18944 silver|0.083268 light|0.018842 gray|0.018842 light|0.018842 grey|0.018842 gainsboro|0.005467  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e73ec1d3d2e7ef18540e666c992f245fae0e4919214e47eef452170f2ed96ba",
+			"url": "https://upload.wikimedia.org/math/8/8/5/8854cc4552661521d21cb3c0ea37963f.png",
+			"previous": [
+				"The above considerations leads to conserved current densities in a completely general form:[8]",
+				"under a continuous symmetry, in which the field is a continuous variable. The field Ï(r, t) can be a scalar field, often a scalar potential like the classical gravitational potential Î¶(r, t) or electric potential Ï(r, t), or a vector field like the Newtonian gravitational field g(r, t) or vector potentials like the magnetic potential A(r, t), or a tensor field of any order such as the electromagnetic tensor F(r, t), or even a spinor field which arise in describing particles as quantum fields. The Lagrangian density is a function of the field and its space and time derivatives: â[Ï(r, t), âÏ(r, t)/ât, âÏ(r, t)]."
+			],
+				"after": "because they satisfy the continuity equation",
+			"color": "dim|0.38376 gray|0.38376 dim|0.38376 grey|0.38376 gray|0.28647 grey|0.28647 dark|0.17541 gray|0.17541 dark|0.17541 grey|0.17541 silver|0.075358 light|0.035742 gray|0.035742 light|0.035742 grey|0.035742 gainsboro|0.025031 white|0.0047761 smoke|0.0047761 linen|0.0032954  "
+		}
+	}
+}

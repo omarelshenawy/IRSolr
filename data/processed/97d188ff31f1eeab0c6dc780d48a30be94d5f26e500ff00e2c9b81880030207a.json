@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "97d188ff31f1eeab0c6dc780d48a30be94d5f26e500ff00e2c9b81880030207a",
+			"url": "https://upload.wikimedia.org/math/b/b/c/bbcc1ed3dbacb46a02857b94ad550cc5.png",
+				"previous": "and the volume integral in spherical coordinates (using the convention for angles with as the azimuth and measured from the polar axis (see more on conventions)) has the form",
+			"after": [
+				"",
+				"The above formulas can be used to show that the volumes of a cone, sphere and cylinder of the same radius and height are in the ratio 1Â :Â 2Â :Â 3, as follows."
+			],
+			"color": "gray|0.3168 grey|0.3168 dark|0.26746 gray|0.26746 dark|0.26746 grey|0.26746 dim|0.19517 gray|0.19517 dim|0.19517 grey|0.19517 silver|0.1148 light|0.053412 gray|0.053412 light|0.053412 grey|0.053412 gainsboro|0.034549 white|0.0053568 smoke|0.0053568  "
+		}
+	}
+}

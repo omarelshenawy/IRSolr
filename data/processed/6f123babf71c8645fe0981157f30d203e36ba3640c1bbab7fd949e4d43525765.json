@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6f123babf71c8645fe0981157f30d203e36ba3640c1bbab7fd949e4d43525765",
+			"url": "https://upload.wikimedia.org/math/6/5/9/659d23f0ed16cdb87b1d41c7b58b52f4.png",
+				"previous": "In either case, the roots of Q are the roots of the factors, which may be computed by solving quadratic or cubic equations.",
+				"after": "A very special case of the first case of factorization is when a0=0. This implies that x1=0 is a first root, b3=a4, b2=a3, b1=a2, b0=a1, and the other roots may be computed by solving a cubic equation.",
+			"color": "black|0.38449 dim|0.29396 gray|0.29396 dim|0.29396 grey|0.29396 gray|0.16349 grey|0.16349 dark|0.088757 gray|0.088757 dark|0.088757 grey|0.088757 silver|0.040649 light|0.016652 gray|0.016652 light|0.016652 grey|0.016652 gainsboro|0.009155  "
+		}
+	}
+}

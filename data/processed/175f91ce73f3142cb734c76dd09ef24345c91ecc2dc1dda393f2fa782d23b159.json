@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "175f91ce73f3142cb734c76dd09ef24345c91ecc2dc1dda393f2fa782d23b159",
+			"url": "https://upload.wikimedia.org/math/3/9/5/39513fd050e105807be7740511274d9a.png",
+				"previous": "Ordinal utility functions are unique up to positive monotone transformations. For example, if a function is taken as ordinal, it is equivalent to the function , because taking the 3rd power is a positive monotone transformation. This means that the ordinal preference induced by these functions is the same. In contrast, cardinal utilities are unique up to positive linear transformations, so if is taken as cardinal, it is equivalent to .",
+				"after": "For example, suppose a consumer's consumption set is X =Â {nothing, 1Â apple,1Â orange, 1Â apple and 1Â orange, 2Â apples, 2Â oranges}, and its utility function is u(nothing)Â =Â 0, u(1Â apple)Â =Â 1, u(1Â orange)Â =Â 2, u(1Â apple and 1Â orange)Â =Â 4, u(2Â apples)Â =Â 2 and u(2Â oranges)Â =Â 3. Then this consumer prefers 1 orange to 1 apple, but prefers one of each to 2 oranges.",
+			"color": "gray|0.34778 grey|0.34778 dark|0.24037 gray|0.24037 dark|0.24037 grey|0.24037 dim|0.20702 gray|0.20702 dim|0.20702 grey|0.20702 silver|0.10245 light|0.048359 gray|0.048359 light|0.048359 grey|0.048359 gainsboro|0.03329 white|0.0057406 smoke|0.0057406 linen|0.0028313  "
+		}
+	}
+}

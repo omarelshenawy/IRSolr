@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "692eaf6036801e83fc3bc20da09bb2a69b6e116ab4d28bbe76acb123c5b40a58",
+			"url": "https://upload.wikimedia.org/math/1/1/6/116cacd8875891e72a2428f51b4b6156.png",
+				"previous": "The algebra product is called the geometric product. It is standard to denote the geometric product by juxtaposition (i.e., suppressing any explicit multiplication symbol). The above definition of the geometric algebra is abstract, so we summarize the properties of the geometric product by the following set of axioms. The geometric product has the following properties:",
+				"after": "Note that in the final property above, the square need not be nonnegative if g is not positive definite. An important property of the geometric product is the existence of elements with multiplicative inverse, also known as units. If a2 â  0 for some vector a, then aâ1 exists and is equal to a/(a2). Not every nonzero element of the algebra is necessarily a unit. For example, if u is a vector in V such that u2 = 1, the elements 1 Â± u are zero divisors and thus have no inverse: (1 â u)(1 + u) = 1 â uu = 1 â 1 = 0. There may also exist nontrivial idempotent elements such as (1 + u)/2.",
+			"color": "dim|0.34835 gray|0.34835 dim|0.34835 grey|0.34835 gray|0.31102 grey|0.31102 dark|0.18921 gray|0.18921 dark|0.18921 grey|0.18921 silver|0.075361 light|0.035978 gray|0.035978 light|0.035978 grey|0.035978 gainsboro|0.024794 white|0.0041143 smoke|0.0041143  "
+		}
+	}
+}

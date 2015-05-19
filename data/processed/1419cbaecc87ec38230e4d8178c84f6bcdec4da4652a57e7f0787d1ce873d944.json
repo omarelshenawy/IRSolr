@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1419cbaecc87ec38230e4d8178c84f6bcdec4da4652a57e7f0787d1ce873d944",
+			"url": "https://upload.wikimedia.org/math/f/6/b/f6b3e0d386a1a9a80337d70868cb7199.png",
+			"previous": [
+				"The solution of the logistic map when r=2 is",
+				"where the initial condition parameter is given by . For rational , after a finite number of iterations maps into a periodic sequence. But almost all are irrational, and, for irrational , never repeats itself â it is non-periodic and exhibits sensitive dependence on initial conditions, so it is said to be chaotic."
+			],
+				"after": "for . Since for any value of other than the unstable fixed point 0, the term goes to 0 as n goes to infinity, so goes to the stable fixed point",
+			"color": "dim|0.40534 gray|0.40534 dim|0.40534 grey|0.40534 gray|0.27182 grey|0.27182 dark|0.1709 gray|0.1709 dark|0.1709 grey|0.1709 silver|0.078508 light|0.036237 gray|0.036237 light|0.036237 grey|0.036237 gainsboro|0.025179 white|0.00334 smoke|0.00334  "
+		}
+	}
+}

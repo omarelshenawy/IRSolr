@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7134e074e4ec6f21188e35deb5122d0ae72bc2c6500d6d9434c4c5418732ad9e",
+			"url": "https://upload.wikimedia.org/math/d/1/2/d128a258d310c67addf3bf877f0a3ba4.png",
+				"previous": "A quadratic BÃ©zier curve is the path traced by the function B(t), given points P0, P1, and P2,",
+				"after": "which can be interpreted as the linear interpolant of corresponding points on the linear BÃ©zier curves from P0 to P1 and from P1 to P2 respectively. Rearranging the preceding equation yields:",
+			"color": "dim|0.36219 gray|0.36219 dim|0.36219 grey|0.36219 gray|0.266 grey|0.266 dark|0.17241 gray|0.17241 dark|0.17241 grey|0.17241 silver|0.087568 light|0.049817 gray|0.049817 light|0.049817 grey|0.049817 gainsboro|0.037387 white|0.0062965 smoke|0.0062965 linen|0.0032633  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "119dfb2d782107861c887b453f0ae394b57ed9e2966b22b68e1d4d62144f535f",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RuBot_II.jpg/220px-RuBot_II.jpg",
+				"previous": "The Socially Intelligent Machines Lab of the Georgia Institute of Technology researches new concepts of guided teaching interaction with robots. Aim of the projects is a social robot learns task goals from human demonstrations without prior knowledge of high-level concepts. These new concepts are grounded from low-level continuous sensor data through unsupervised learning, and task goals are subsequently learned using a Bayesian approach. These concepts can be used to transfer knowledge to future tasks, resulting in faster learning of those tasks. The results re demonstrated by the robot Curi who can easily cook pasta.[102]",
+				"after": "Though a significant percentage of robots in commission today are either human controlled, or operate in a static environment, there is an increasing interest in robots that can operate autonomously in a dynamic environment. These robots require some combination of navigation hardware and software in order to traverse their environment. In particular unforeseen events (e.g. people and other obstacles that are not stationary) can cause problems or collisions. Some highly advanced robots such as ASIMO, and MeinÃ¼ robot have particularly good robot navigation hardware and software. Also, self-controlled cars, Ernst Dickmanns' driverless car, and the entries in the DARPA Grand Challenge, are capable of sensing the environment well and subsequently making navigational decisions based on this information. Most of these robots employ a GPS navigation device with waypoints, along with radar, sometimes combined with other sensory data such as lidar, video cameras, and inertial guidance systems for better navigation between waypoints.",
+			"color": "black|0.87497 deep|0.016875 sky|0.016875 blue|0.016875 magenta|0.013055 fuchsia|0.013055 dodger|0.0089684 blue|0.0089684 tan|0.0068855 corn|0.0060497 flower|0.0060497 blue|0.0060497  "
+		}
+	}
+}

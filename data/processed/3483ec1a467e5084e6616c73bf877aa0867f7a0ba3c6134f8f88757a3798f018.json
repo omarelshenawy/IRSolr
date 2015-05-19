@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3483ec1a467e5084e6616c73bf877aa0867f7a0ba3c6134f8f88757a3798f018",
+			"url": "https://upload.wikimedia.org/math/0/d/5/0d5f3b6e6c8601d8914868b88cb6f7f1.png",
+			"previous": [
+				"Moreover,",
+				"That is to say, given any element x of X that is in the closure of any subset A, f(x) belongs to the closure of f(A). This is equivalent to the requirement that for all subsets A' of X'"
+			],
+			"after": [
+				"is continuous if and only if",
+				"for any subset A of X."
+			],
+			"color": "dim|0.35726 gray|0.35726 dim|0.35726 grey|0.35726 gray|0.30038 grey|0.30038 dark|0.18265 gray|0.18265 dark|0.18265 grey|0.18265 silver|0.078636 light|0.036963 gray|0.036963 light|0.036963 grey|0.036963 gainsboro|0.025096 white|0.0042325 smoke|0.0042325  "
+		}
+	}
+}

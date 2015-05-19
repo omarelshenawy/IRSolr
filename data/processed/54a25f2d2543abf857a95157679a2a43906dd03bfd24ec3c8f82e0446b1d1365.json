@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "54a25f2d2543abf857a95157679a2a43906dd03bfd24ec3c8f82e0446b1d1365",
+			"url": "https://upload.wikimedia.org/math/e/f/0/ef0fad5c5e721b8452d9aebd6b3373b3.png",
+			"previous": [
+				"The perimeter of a meridian ellipse is . Therefore is the radius of the circle whose circumference is the same as the perimeter of a meridian ellipse. This defines the mean Earth radius as .",
+				"where is expressed in degrees (and similarly for ). For the WGS84 ellipsoid the quarter meridian is"
+			],
+				"after": "In some problems, we need to be able to solve the inverse problem: given , determine . This may be solved by Newton's method, iterating",
+			"color": "black|0.60963 dim|0.17279 gray|0.17279 dim|0.17279 grey|0.17279 gray|0.10488 grey|0.10488 dark|0.060268 gray|0.060268 dark|0.060268 grey|0.060268 silver|0.027083 light|0.012053 gray|0.012053 light|0.012053 grey|0.012053 gainsboro|0.0076843  "
+		}
+	}
+}

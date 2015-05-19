@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b3ca51e8641e8cc990d60db65b7ddd70f7ab4fa093eff3f0e5746129e207e06",
+			"url": "https://upload.wikimedia.org/math/4/2/2/422ad74bddb492c0ef71fab1e60c51d2.png",
+			"previous": [
+				"or",
+				"Now consider the linear transformation of n-dimensional vectors defined by an nÃn matrix A, that is,",
+				"In this case Î» = â1/20."
+			],
+			"after": [
+				"where, for each index ,",
+				"If it occurs that w and v are scalar multiples, that is if"
+			],
+			"color": "gray|0.3328 grey|0.3328 dim|0.30196 gray|0.30196 dim|0.30196 grey|0.30196 dark|0.18065 gray|0.18065 dark|0.18065 grey|0.18065 silver|0.085608 light|0.044219 gray|0.044219 light|0.044219 grey|0.044219 gainsboro|0.027944 white|0.0052728 smoke|0.0052728 lavender|0.002945 blush|0.002945 alice|0.002945 blue|0.002945 linen|0.0028623 ghost|0.0027875 white|0.0027875 sea|0.0026862 shell|0.0026862 snow|0.0026271  "
+		}
+	}
+}

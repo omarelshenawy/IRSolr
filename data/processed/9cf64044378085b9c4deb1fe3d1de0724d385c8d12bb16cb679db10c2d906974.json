@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9cf64044378085b9c4deb1fe3d1de0724d385c8d12bb16cb679db10c2d906974",
+			"url": "https://upload.wikimedia.org/math/f/1/6/f166601a07cd2b82643b246b6ef005aa.png",
+				"previous": "The satellite carrier total phase can be measured with ambiguity as to the number of cycles. Let denote the phase of the carrier of satellite j measured by receiver i at time . This notation shows the meaning of the subscripts i, j, and k. The receiver (r), satellite (s), and time (t) come in alphabetical order as arguments of and to balance readability and conciseness, let be a concise abbreviation. Also we define three functions,Â :, which return differences between receivers, satellites, and time points, respectively. Each function has variables with three subscripts as its arguments. These three functions are defined below. If is a function of the three integer arguments, i, j, and k then it is a valid argument for the functions,Â :, with the values defined as",
+				"after": "Also if are valid arguments for the three functions and a and b are constants then is a valid argument with values defined as",
+			"color": "dim|0.40177 gray|0.40177 dim|0.40177 grey|0.40177 gray|0.26486 grey|0.26486 dark|0.17111 gray|0.17111 dark|0.17111 grey|0.17111 silver|0.078593 light|0.038306 gray|0.038306 light|0.038306 grey|0.038306 gainsboro|0.026312 white|0.0042384 smoke|0.0042384  "
+		}
+	}
+}

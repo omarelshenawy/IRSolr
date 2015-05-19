@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "494e6530be25730f6f60601f5cb4c6d52cd3e8c933f07ca3c6d73c680c04ccf3",
+			"url": "https://upload.wikimedia.org/math/7/d/c/7dc6ebcfe47f20b96190b7b1a15c3933.png",
+				"previous": "Once determined, the generating function yields the information given by the previous approaches. In addition, the various natural operations on generating functions such as addition, multiplication, differentiation, etc., have a combinatorial significance; this allows one to extend results from one combinatorial problem in order to solve others.",
+				"after": "For two combinatorial families as above the Cartesian product (pair) of the two families () has generating function F(x)G(x).",
+			"color": " "
+		}
+	}
+}

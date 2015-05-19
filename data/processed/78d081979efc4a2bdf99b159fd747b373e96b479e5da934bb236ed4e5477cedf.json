@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "78d081979efc4a2bdf99b159fd747b373e96b479e5da934bb236ed4e5477cedf",
+			"url": "https://upload.wikimedia.org/math/0/3/9/039c6304db255a4b409aac98818cec8b.png",
+				"previous": "A partial differential equation (PDE) for the function is an equation of the form",
+				"after": "If f is a linear function of u and its derivatives, then the PDE is called linear. Common examples of linear PDEs include the heat equation, the wave equation, Laplace's equation, Helmholtz equation, KleinâGordon equation, and Poisson's equation.",
+			"color": "dim|0.31501 gray|0.31501 dim|0.31501 grey|0.31501 gray|0.29273 grey|0.29273 dark|0.19844 gray|0.19844 dark|0.19844 grey|0.19844 silver|0.091846 light|0.046833 gray|0.046833 light|0.046833 grey|0.046833 gainsboro|0.031742 white|0.0051471 smoke|0.0051471  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4a6fe4235ca1e6359f24b0ad38a863c17c1125e83573b1992132d83787526c4d",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Stripline_hairpin_filter_2.svg/275px-Stripline_hairpin_filter_2.svg.png",
+			"previous": [],
+				"after": "The hairpin filter is another structure that uses parallel-coupled lines. In this case, each pair of parallel-coupled lines is connected to the next pair by a short link. The \"U\" shapes so formed give rise to the name hairpin filter. In some designs the link can be longer, giving a wide hairpin with Î»/4 impedance transformer action between sections.[57][58] The angled bends seen in figure 10 are common to stripline designs and represent a compromise between a sharp right angle, which produces a large discontinuity, and a smooth bend, which takes up more board area which can be severely limited in some products. Such bends are often seen in long stubs where they could not otherwise be fitted into the space available. The lumped-element equivalent circuit of this kind of discontinuity is similar to a stepped-impedance discontinuity.[37] Examples of such stubs can be seen on the bias inputs to several components in the photograph at the top of the article.[45][59]",
+			"color": "gainsboro|0.10034 light|0.093786 gray|0.093786 light|0.093786 grey|0.093786 navajo|0.079108 white|0.079108 white|0.078856 smoke|0.078856 linen|0.072108 lavender|0.071165 blush|0.071165 sea|0.07108 shell|0.07108 ghost|0.070758 white|0.070758 alice|0.070549 blue|0.070549 snow|0.070487 white|0.067413 burly|0.03454 wood|0.03454 moccasin|0.026849 tan|0.025401 wheat|0.024911 mint|0.01043 cream|0.01043 silver|0.0098838 pale|0.0074375 golden|0.0074375 rod|0.0074375  "
+		}
+	}
+}

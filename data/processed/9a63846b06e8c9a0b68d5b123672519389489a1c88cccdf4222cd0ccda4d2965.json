@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a63846b06e8c9a0b68d5b123672519389489a1c88cccdf4222cd0ccda4d2965",
+			"url": "https://upload.wikimedia.org/math/a/6/7/a677bbb63867aa9601560547d9c9ee0c.png",
+			"previous": [
+				"Turbine polytropic efficiency,",
+				"Compressor polytropic efficiency,",
+				"Intake pressure recovery factor,",
+				"Design component performance assumptions:"
+			],
+			"after": [
+				"Jetpipe pressure loss 1%, so the jetpipe pressure ratio",
+				"Nozzle thrust coefficient,",
+				"Constants:",
+				"Ratio of specific heats for air,"
+			],
+			"color": "gray|0.31971 grey|0.31971 dim|0.30526 gray|0.30526 dim|0.30526 grey|0.30526 dark|0.21002 gray|0.21002 dark|0.21002 grey|0.21002 silver|0.085775 light|0.037496 gray|0.037496 light|0.037496 grey|0.037496 gainsboro|0.0255 white|0.0047008 smoke|0.0047008  "
+		}
+	}
+}

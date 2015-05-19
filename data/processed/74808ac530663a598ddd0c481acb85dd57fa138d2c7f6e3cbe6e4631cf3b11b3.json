@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "74808ac530663a598ddd0c481acb85dd57fa138d2c7f6e3cbe6e4631cf3b11b3",
+			"url": "https://upload.wikimedia.org/math/d/8/a/d8afdd8a20aa7d1e11ed8b952fc376b6.png",
+			"previous": [
+				"Einstein found that the total momentum of a moving particle is:",
+				"Without this second term, there would be an additional contribution in the energy when the particle is not moving."
+			],
+				"after": "and it is this quantity which is conserved in collisions. The ratio of the momentum to the velocity is the relativistic mass, m.",
+			"color": "dim|0.34596 gray|0.34596 dim|0.34596 grey|0.34596 gray|0.28337 grey|0.28337 dark|0.19507 gray|0.19507 dark|0.19507 grey|0.19507 silver|0.087189 light|0.041879 gray|0.041879 light|0.041879 grey|0.041879 gainsboro|0.029664 white|0.0040915 smoke|0.0040915  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e3094778c443859e07f892193b08eecb432f96249c585e12cac50e86b894881",
+			"url": "https://upload.wikimedia.org/math/5/3/6/5361d0af0de1c4e3771a8caef3639b7f.png",
+			"previous": [
+				"Even though overall energy efficiency is simply:",
+				"The energy efficiency () of jet engines installed in vehicles has two main components:"
+			],
+			"after": [
+				"And for a rocket:[29]",
+				"In addition to propulsive efficiency, another factor is cycle efficiency; essentially a jet engine is typically a form of heat engine. Heat engine efficiency is determined by the ratio of temperatures reached in the engine to that exhausted at the nozzle. This improves constantly over time as new materials are introduced into the design. For example, composite materials, combining metals with ceramics, are being used in fan blades in the first stage, which is the most critical stage. [30] The efficiency is also limited by the overall pressure ratio that can be achieved. Cycle efficiency is highest in rocket engines (~60+%), as they can achieve extremely high combustion temperatures. Cycle efficiency in turbojet and similar is nearer to 30%, due to much lower peak cycle temperatures."
+			],
+			"color": " "
+		}
+	}
+}

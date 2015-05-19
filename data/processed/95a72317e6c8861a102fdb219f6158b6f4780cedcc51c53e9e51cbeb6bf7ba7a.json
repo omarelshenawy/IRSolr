@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "95a72317e6c8861a102fdb219f6158b6f4780cedcc51c53e9e51cbeb6bf7ba7a",
+			"url": "https://upload.wikimedia.org/math/5/4/b/54bafa8cbfdd1f050fe02f7ce84d77f5.png",
+				"previous": "A set T of sentences is called a (first-order) theory. A theory is satisfiable if it has a model , i.e. a structure (of the appropriate signature) which satisfies all the sentences in the set T. Consistency of a theory is usually defined in a syntactical way, but in first-order logic by the completeness theorem there is no need to distinguish between satisfiability and consistency. Therefore model theorists often use \"consistent\" as a synonym for \"satisfiable\".",
+				"after": "Lack of expressivity (when compared to higher logics such as second-order logic) has its advantages, though. For model theorists, the LÃ¶wenheimâSkolem theorem is an important practical tool rather than the source of Skolem's paradox. In a certain sense made precise by LindstrÃ¶m's theorem, first-order logic is the most expressive logic for which both the LÃ¶wenheimâSkolem theorem and the compactness theorem hold.",
+			"color": "black|0.30963 dim|0.24075 gray|0.24075 dim|0.24075 grey|0.24075 gray|0.22165 grey|0.22165 dark|0.17544 gray|0.17544 dark|0.17544 grey|0.17544 silver|0.048494  "
+		}
+	}
+}

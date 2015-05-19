@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d4f3babd5b0297e6343851ee9243f67675afa8835491af08860b86430b0c6f7",
+			"url": "https://upload.wikimedia.org/math/b/7/9/b79f987ed976cac803df73435011eda9.png",
+				"previous": "which is a meromorphic function on the complex plane with values in the vector space of matrices. The eigenvalues of A are precisely the poles of R(z). Since, by assumption, A has no eigenvalues, the function R(z) is an entire function and Cauchy theorem implies that",
+				"after": "On the other hand, R(z) expanded as a geometric series gives:",
+			"color": "dim|0.42027 gray|0.42027 dim|0.42027 grey|0.42027 gray|0.29713 grey|0.29713 dark|0.15282 gray|0.15282 dark|0.15282 grey|0.15282 silver|0.062725 light|0.030355 gray|0.030355 light|0.030355 grey|0.030355 gainsboro|0.021586 white|0.0040301 smoke|0.0040301  "
+		}
+	}
+}

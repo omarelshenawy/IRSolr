@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f35133faedcb2e650eafaf71546a675b044822390b8574277d1f8a085dd2270",
+			"url": "https://upload.wikimedia.org/math/e/b/6/eb6211284233495eed6b23364c5ce794.png",
+			"previous": [],
+				"after": "A partially ordered set is a bounded lattice if and only if every finite set of elements (including the empty set) has a join and a meet. For every element x of a poset it is trivially true (it is a vacuous truth) that and , and therefore every element of a poset is both an upper bound and a lower bound of the empty set. This implies that the join of an empty set is the least element , and the meet of the empty set is the greatest element . This is consistent with the associativity and commutativity of meet and join: the join of a union of finite sets is equal to the join of the joins of the sets, and dually, the meet of a union of finite sets is equal to the meet of the meets of the sets, i.e., for finite subsets A and B of a poset L,",
+			"color": "dim|0.39888 gray|0.39888 dim|0.39888 grey|0.39888 gray|0.26231 grey|0.26231 dark|0.17084 gray|0.17084 dark|0.17084 grey|0.17084 silver|0.078136 light|0.039169 gray|0.039169 light|0.039169 grey|0.039169 gainsboro|0.027756 white|0.0046568 smoke|0.0046568  "
+		}
+	}
+}

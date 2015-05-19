@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6920455ded41d3cc0dad944807ac83b2a6b6c832916675036fcb937ac0415393",
+			"url": "https://upload.wikimedia.org/math/e/0/d/e0d1aa39791b585141891f1dde37d46d.png",
+			"previous": [
+				"Moreover, the BÃ©zier curve can be split at point into two curves with respective control pointsÂ :",
+				"Then, the evaluation of at point can be evaluated in steps of the algorithm. The result is given byÂ :"
+			],
+				"after": "Here is an example implementation of De Casteljau's algorithm in Haskell:",
+			"color": "dim|0.30881 gray|0.30881 dim|0.30881 grey|0.30881 gray|0.30102 grey|0.30102 dark|0.19736 gray|0.19736 dark|0.19736 grey|0.19736 silver|0.087529 light|0.044551 gray|0.044551 light|0.044551 grey|0.044551 gainsboro|0.032804 white|0.0067206 smoke|0.0067206 linen|0.0033735 lavender|0.0030982 blush|0.0030982 alice|0.0030064 blue|0.0030064 ghost|0.0028374 white|0.0028374  "
+		}
+	}
+}

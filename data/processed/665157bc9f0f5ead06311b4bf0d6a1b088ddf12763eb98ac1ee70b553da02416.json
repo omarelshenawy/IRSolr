@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "665157bc9f0f5ead06311b4bf0d6a1b088ddf12763eb98ac1ee70b553da02416",
+			"url": "https://upload.wikimedia.org/math/f/a/c/facee3be550781b388dde7e116cce314.png",
+			"previous": [
+				"and this finally gives",
+				"",
+				"For maximum efficiency , we get",
+				"",
+				"If , then"
+			],
+			"after": [
+				"",
+				"",
+				"Because of the high pressures used in the steam circuits and the materials used, steam turbines and their casings have high thermal inertia. When warming up a steam turbine for use, the main steam stop valves (after the boiler) have a bypass line to allow superheated steam to slowly bypass the valve and proceed to heat up the lines in the system along with the steam turbine. Also, a turning gear is engaged when there is no steam to slowly rotate the turbine to ensure even heating to prevent uneven expansion. After first rotating the turbine by the turning gear, allowing time for the rotor to assume a straight plane (no bowing), then the turning gear is disengaged and steam is admitted to the turbine, first to the astern blades then to the ahead blades slowly rotating the turbine at 10â15Â RPM (0.17â0.25Â Hz) to slowly warm the turbine. The warm up procedure for large steam turbines may exceed ten hours.[18]"
+			],
+			"color": "black|0.31643 dim|0.2919 gray|0.2919 dim|0.2919 grey|0.2919 gray|0.18983 grey|0.18983 dark|0.10908 gray|0.10908 dark|0.10908 grey|0.10908 silver|0.04403 light|0.021569 gray|0.021569 light|0.021569 grey|0.021569 gainsboro|0.0152  "
+		}
+	}
+}

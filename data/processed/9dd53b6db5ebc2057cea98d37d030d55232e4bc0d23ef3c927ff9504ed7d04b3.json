@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "9dd53b6db5ebc2057cea98d37d030d55232e4bc0d23ef3c927ff9504ed7d04b3",
+			"url": "https://upload.wikimedia.org/math/a/7/8/a78d7c3f0a098f2cc4697e0bce26cf25.png",
+			"previous": [
+				"then the general gain equation gives the small signal gain as",
+				"In the special case where the input signal is small compared to the saturation intensity, in other words,",
+				"Substituting this definition into the prior equation, we find the general gain equation:"
+			],
+			"after": [
+				"or",
+				"where",
+				"Under certain conditions, stimulated emission can provide a physical mechanism for optical amplification. An external source of energy stimulates atoms in the ground state to transition to the excited state, creating what is called a population inversion. When light of the appropriate frequency passes through the inverted medium, the photons stimulate the excited atoms to emit additional photons of the same frequency, phase, and direction, resulting in an amplification of the input intensity."
+			],
+			"color": "dim|0.45782 gray|0.45782 dim|0.45782 grey|0.45782 gray|0.28094 grey|0.28094 dark|0.14777 gray|0.14777 dark|0.14777 grey|0.14777 silver|0.057052 light|0.026096 gray|0.026096 light|0.026096 grey|0.026096 gainsboro|0.018008 white|0.003278 smoke|0.003278  "
+		}
+	}
+}

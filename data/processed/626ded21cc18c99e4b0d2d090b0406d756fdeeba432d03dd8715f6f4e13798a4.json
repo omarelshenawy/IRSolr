@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "626ded21cc18c99e4b0d2d090b0406d756fdeeba432d03dd8715f6f4e13798a4",
+			"url": "https://upload.wikimedia.org/math/3/3/3/3336338e063d68dfb567143b9c15fb4d.png",
+				"previous": "Let L have a bottom element 0. An element x of L is an atom if 0 < x and there exists no element y of L such that 0 < y < x. Then L is called:",
+				"after": "The notions of ideals and the dual notion of filters refer to particular kinds of subsets of a partially ordered set, and are therefore important for lattice theory. Details can be found in the respective entries.",
+			"color": "black|0.3472 dim|0.25502 gray|0.25502 dim|0.25502 grey|0.25502 gray|0.17605 grey|0.17605 dark|0.11668 gray|0.11668 dark|0.11668 grey|0.11668 silver|0.052058 light|0.025922 gray|0.025922 light|0.025922 grey|0.025922 gainsboro|0.017727  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "89c08972ac9f5969c1b293f3257381ece11a254a3c5187562ebffdab2ed9d0dc",
+			"url": "https://upload.wikimedia.org/math/f/0/3/f035947a24cbeb316aed5a7976272b7f.png",
+			"previous": [
+				"So the length of a curve Î³ from p to q is a functional of the curve given by",
+				"provided we allow Ï to take on arbitrary real values. The infinitesimal arc length in these coordinates is"
+			],
+			"after": [
+				"Note that S[Î³] is at least the length of the meridian from p to q:",
+				"Since the starting point and ending point are fixed, S is minimized if and only if Ï'Â =Â 0, so the curve must lie on a meridian of the sphere ÏÂ =Â Ï0Â =Â constant. In Cartesian coordinates, this is"
+			],
+			"color": "dim|0.36776 gray|0.36776 dim|0.36776 grey|0.36776 gray|0.28085 grey|0.28085 dark|0.18144 gray|0.18144 dark|0.18144 grey|0.18144 silver|0.078297 light|0.037966 gray|0.037966 light|0.037966 grey|0.037966 gainsboro|0.027537 white|0.0054808 smoke|0.0054808 linen|0.0034821 lavender|0.0031539 blush|0.0031539 alice|0.0030668 blue|0.0030668  "
+		}
+	}
+}

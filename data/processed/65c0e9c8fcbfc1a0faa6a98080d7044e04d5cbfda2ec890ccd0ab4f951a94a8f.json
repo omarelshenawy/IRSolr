@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "65c0e9c8fcbfc1a0faa6a98080d7044e04d5cbfda2ec890ccd0ab4f951a94a8f",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Protools9screen.png/220px-Protools9screen.png",
+			"previous": [],
+				"after": "Most of Pro Tools' basic functions can be controlled within Edit or Mix windows. The Edit window displays audio and MIDI tracks, and provides graphical representation of the information recorded or imported. Here, audio can be edited in a non-linear, non-destructive fashion. MIDI information can also be manipulated. The Mix window displays each track's fader channel and allows for the adjustment of a channel's volume and pan, as well as being the usual place to insert plug-in effects and route audio to and from different outputs and inputs.",
+			"color": "dark|0.35036 gray|0.35036 dark|0.35036 grey|0.35036 gray|0.18379 grey|0.18379 dim|0.14534 gray|0.14534 dim|0.14534 grey|0.14534 silver|0.13135 sky|0.040779 blue|0.040779 dark|0.033909 sea|0.033909 green|0.033909 rosy|0.027602 brown|0.027602 slate|0.020544 gray|0.020544 light|0.017737 slate|0.017737 gray|0.017737 light|0.010554 steel|0.010554 blue|0.010554 light|0.008482 gray|0.008482 light|0.008482 grey|0.008482 black|0.0082639 slate|0.0045483 blue|0.0045483  "
+		}
+	}
+}

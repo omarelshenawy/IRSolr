@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "17db9e01bc65e5935e38174162cf2fc0c102aa551621f06a8e3b2fa9d5b747c5",
+			"url": "https://upload.wikimedia.org/math/6/a/5/6a51fb36e6ee8b26f46e8e5fd9a3730d.png",
+				"previous": "Thus absorption and stimulated emission are reverse processes proceeding at somewhat different rates. Another way of viewing this is to look at the net stimulated emission or absorption viewing it as a single process. The net rate of transitions from E2 to E1 due to this combined process can be found by adding their respective rates, given above:",
+				"after": "Thus a net power is released into the electric field equal to the photon energy hÎ½ times this net transition rate. In order for this to be a positive number, indicating net stimulated emission, there must be more atoms in the excited state than in the lower level: . Otherwise there is net absorption and the power of the wave is reduced during passage through the medium. The special condition is known as a population inversion, a rather unusual condition that must be effected in the gain medium of a laser.",
+			"color": "dim|0.37766 gray|0.37766 dim|0.37766 grey|0.37766 gray|0.28375 grey|0.28375 dark|0.1788 gray|0.1788 dark|0.1788 grey|0.1788 silver|0.080543 light|0.038663 gray|0.038663 light|0.038663 grey|0.038663 gainsboro|0.026672 white|0.003654 smoke|0.003654  "
+		}
+	}
+}

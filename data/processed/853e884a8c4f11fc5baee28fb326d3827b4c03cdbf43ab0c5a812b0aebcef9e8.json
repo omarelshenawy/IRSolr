@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "853e884a8c4f11fc5baee28fb326d3827b4c03cdbf43ab0c5a812b0aebcef9e8",
+			"url": "https://upload.wikimedia.org/math/e/4/0/e40444a94ae90f2ae253721b8132f977.png",
+			"previous": [
+				"i. For a given frequency of incident radiation, the stopping potential is independent of its intensity.",
+				"If we apply a negative potential to the collector plate Q with respect to the plate P and gradually increase it, the photoelectric current decreases, becoming zero at a certain negative potential. The negative potential on the collector at which the photoelectric current becomes zero is called the stopping potential or cut off potential[13]"
+			],
+				"after": "Recalling",
+			"color": "gray|0.37032 grey|0.37032 dark|0.29201 gray|0.29201 dark|0.29201 grey|0.29201 dim|0.13993 gray|0.13993 dim|0.13993 grey|0.13993 silver|0.11005 light|0.045904 gray|0.045904 light|0.045904 grey|0.045904 gainsboro|0.028945 white|0.0040541 smoke|0.0040541  "
+		}
+	}
+}

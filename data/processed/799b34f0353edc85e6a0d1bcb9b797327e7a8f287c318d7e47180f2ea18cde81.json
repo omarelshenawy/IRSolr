@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "799b34f0353edc85e6a0d1bcb9b797327e7a8f287c318d7e47180f2ea18cde81",
+			"url": "https://upload.wikimedia.org/math/3/9/5/3952cfbfb2edb4d7601d1e1bc8a2481f.png",
+				"previous": "A motivating example is the distances traveled in a given time.",
+				"after": "If the speed is constant, only multiplication is needed, but if the speed changes, a more powerful method of finding the distance is necessary. One such method is to approximate the distance traveled by breaking up the time into many short intervals of time, then multiplying the time elapsed in each interval by one of the speeds in that interval, and then taking the sum (a Riemann sum) of the approximate distance traveled in each interval. The basic idea is that if only a short time elapses, then the speed will stay more or less the same. However, a Riemann sum only gives an approximation of the distance traveled. We must take the limit of all such Riemann sums to find the exact distance traveled.",
+			"color": "dim|0.40741 gray|0.40741 dim|0.40741 grey|0.40741 gray|0.30402 grey|0.30402 dark|0.16805 gray|0.16805 dark|0.16805 grey|0.16805 silver|0.060235 light|0.02588 gray|0.02588 light|0.02588 grey|0.02588 gainsboro|0.017109 black|0.0047814  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "25ee5413bd008862465a42a0ecba6f0414a043e835071a50c707d95daa7038cc",
+			"url": "https://upload.wikimedia.org/math/c/0/1/c01841c2bb3c954b0314a9e1c81b5465.png",
+			"previous": [
+				"E.g.",
+				"The degree of the sum (or difference) of two polynomials is equal to or less than the greater of their degrees; the equality holds always when the degrees of the polynomials are different i.e."
+			],
+				"after": "Note that for polynomials over an arbitrary ring, this is not necessarily true. For example, in , , but .",
+			"color": "dim|0.38945 gray|0.38945 dim|0.38945 grey|0.38945 gray|0.27579 grey|0.27579 dark|0.17404 gray|0.17404 dark|0.17404 grey|0.17404 silver|0.076781 light|0.03936 gray|0.03936 light|0.03936 grey|0.03936 gainsboro|0.027451 white|0.0046334 smoke|0.0046334  "
+		}
+	}
+}

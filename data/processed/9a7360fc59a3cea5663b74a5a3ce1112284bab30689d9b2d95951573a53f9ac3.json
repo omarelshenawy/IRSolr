@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9a7360fc59a3cea5663b74a5a3ce1112284bab30689d9b2d95951573a53f9ac3",
+			"url": "https://upload.wikimedia.org/math/1/3/9/139f1ab475bef4718960f797cd17c360.png",
+				"previous": "When the viscosity effect over the pressure distribution is considered separately, the remaining drag force is called pressure (or form) drag. In the absence of viscosity, the pressure forces on the vehicle cancel each other and, hence, the drag is zero. Pressure drag is the dominant component in the case of vehicles with regions of separated flow, in which the pressure recovery is fairly ineffective.",
+				"after": "The sum of friction drag and pressure (form) drag is called viscous drag. This drag component takes into account the influence of viscosity. In a thermodynamic perspective, viscous effects represent irreversible phenomena and, therefore, they create entropy. The calculated viscous drag use entropy changes to accurately predict the drag force.",
+			"color": "dark|0.30028 gray|0.30028 dark|0.30028 grey|0.30028 gray|0.28112 grey|0.28112 silver|0.15021 dim|0.083987 gray|0.083987 dim|0.083987 grey|0.083987 light|0.08178 gray|0.08178 light|0.08178 grey|0.08178 gainsboro|0.058139 white|0.011754 smoke|0.011754 linen|0.0058423 lavender|0.0048618 blush|0.0048618 alice|0.0047936 blue|0.0047936 ghost|0.0045378 white|0.0045378 sea|0.0041724 shell|0.0041724 snow|0.0040871  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "129f5087b49246286639735f4198f23d2e83ae8cd0238980a95368f69559ad63",
+			"url": "https://upload.wikimedia.org/math/9/9/f/99fd2635cd7c9ece5d45be5423865c03.png",
+			"previous": [
+				"or",
+				"where a, b and c are not all zero. Then,"
+			],
+			"after": [
+				"This transformation has the important property that if Ay=d, then",
+				"This shows that the sum of vectors in E map to the sum of their images in R. This is the defining characteristic of a linear map, or linear transformation.[20] For this case, where the image space is a real number the map is called a linear functional.[22]"
+			],
+			"color": "dim|0.36216 gray|0.36216 dim|0.36216 grey|0.36216 gray|0.27957 grey|0.27957 dark|0.17613 gray|0.17613 dark|0.17613 grey|0.17613 silver|0.083612 light|0.044604 gray|0.044604 light|0.044604 grey|0.044604 gainsboro|0.032123 white|0.00554 smoke|0.00554  "
+		}
+	}
+}

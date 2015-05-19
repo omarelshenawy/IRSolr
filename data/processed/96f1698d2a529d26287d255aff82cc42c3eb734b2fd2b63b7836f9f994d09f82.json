@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "96f1698d2a529d26287d255aff82cc42c3eb734b2fd2b63b7836f9f994d09f82",
+			"url": "https://upload.wikimedia.org/math/b/5/2/b527318cd458c97c9d4961ae96a73686.png",
+			"previous": [
+				"The standard logistic function (k=1, x0=0, L=1) has an easily calculated derivative:",
+				"In practice, due to the nature of the exponential function eâx, it is often sufficient to compute x over a small range of real numbers such as [â6,Â +6]."
+			],
+			"after": [
+				"It also has the property that",
+				"Thus, is an odd function."
+			],
+			"color": "dim|0.35769 gray|0.35769 dim|0.35769 grey|0.35769 gray|0.29459 grey|0.29459 dark|0.18433 gray|0.18433 dark|0.18433 grey|0.18433 silver|0.081086 light|0.039312 gray|0.039312 light|0.039312 grey|0.039312 gainsboro|0.026887 white|0.0041859 smoke|0.0041859  "
+		}
+	}
+}

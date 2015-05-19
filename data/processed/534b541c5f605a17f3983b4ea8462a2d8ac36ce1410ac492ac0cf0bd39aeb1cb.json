@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "534b541c5f605a17f3983b4ea8462a2d8ac36ce1410ac492ac0cf0bd39aeb1cb",
+			"url": "https://upload.wikimedia.org/math/a/f/b/afb824ce10686d4ab3a76c5d32d4c790.png",
+			"previous": [
+				"There are many alternative expressions for y(Ï), all derived by elementary manipulations.[12]",
+				"The expression on the right of the second equation defines the Gudermannian function; i.e., Ï=gd(y/R): the direct equation may therefore be written as y=R.gdâ1(Ï).[11]"
+			],
+			"after": [
+				"Corresponding inverses are:",
+				"For angles expressed in degrees:"
+			],
+			"color": "dim|0.3928 gray|0.3928 dim|0.3928 grey|0.3928 gray|0.28548 grey|0.28548 dark|0.17207 gray|0.17207 dark|0.17207 grey|0.17207 silver|0.069184 light|0.037649 gray|0.037649 light|0.037649 grey|0.037649 gainsboro|0.024633 white|0.0056712 smoke|0.0056712  "
+		}
+	}
+}

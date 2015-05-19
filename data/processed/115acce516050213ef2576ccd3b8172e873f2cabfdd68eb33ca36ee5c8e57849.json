@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "115acce516050213ef2576ccd3b8172e873f2cabfdd68eb33ca36ee5c8e57849",
+			"url": "https://upload.wikimedia.org/math/a/f/0/af049b44d89484bcc6114dde940d4edc.png",
+				"previous": "Linear algebra provides the formal setting for the linear combination of equations used in the Gaussian method. Suppose the goal is to find and describe the solution(s), if any, of the following system of linear equations:",
+				"after": "The Gaussian-elimination algorithm is as follows: eliminate x from all equations below L1, and then eliminate y from all equations below L2. This will put the system into triangular form. Then, using back-substitution, each unknown can be solved for.",
+			"color": "dim|0.30188 gray|0.30188 dim|0.30188 grey|0.30188 gray|0.29103 grey|0.29103 dark|0.21054 gray|0.21054 dark|0.21054 grey|0.21054 silver|0.094569 light|0.053047 gray|0.053047 light|0.053047 grey|0.053047 gainsboro|0.034324 white|0.0041114 smoke|0.0041114  "
+		}
+	}
+}

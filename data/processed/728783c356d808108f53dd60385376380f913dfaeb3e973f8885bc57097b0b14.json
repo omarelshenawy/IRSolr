@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "728783c356d808108f53dd60385376380f913dfaeb3e973f8885bc57097b0b14",
+			"url": "https://upload.wikimedia.org/math/9/8/6/9866cf8862fdd2ad6acd8091b02c65ae.png",
+			"previous": [
+				"",
+				"Representing design values with (')",
+				"is constant",
+				"The value of doesn't change for a wide range of operating points till stalling. Also because of minor change in air angle at rotor ans stator, where is diffuser blade angle."
+			],
+			"after": [
+				"for off-design operations:",
+				"",
+				".. [from (3)]",
+				"for positive values of J, slope of the curve is negative and vice versa."
+			],
+			"color": "dim|0.32268 gray|0.32268 dim|0.32268 grey|0.32268 gray|0.20651 grey|0.20651 black|0.18992 dark|0.12844 gray|0.12844 dark|0.12844 grey|0.12844 silver|0.068005 light|0.03814 gray|0.03814 light|0.03814 grey|0.03814 gainsboro|0.027353 white|0.0045172 smoke|0.0045172  "
+		}
+	}
+}

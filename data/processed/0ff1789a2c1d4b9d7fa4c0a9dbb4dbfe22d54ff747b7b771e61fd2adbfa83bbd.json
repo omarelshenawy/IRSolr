@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ff1789a2c1d4b9d7fa4c0a9dbb4dbfe22d54ff747b7b771e61fd2adbfa83bbd",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Digit_sundial.jpg/170px-Digit_sundial.jpg",
+				"previous": "Discovered by the German mathematician Hugo Michnik in 1922, the bifilar sundial has two non-intersecting threads parallel to the dial. Usually the second thread is orthogonal to the first. [76] The intersection of the two threads' shadows gives the local solar time.",
+				"after": "A digital sundial uses light and no-light to \"write\" the time in numerals rather than marking time with position. The sundial consists of two closely spaced parallel masks. The first mask, facing the sun, has a regular array of thin vertical slits, which cast a striped light pattern onto the second mask. That mask, facing the user, is composed of narrow stripes, cut from the digits to be displayed. Using the final digit as an example, in one position of the sun, the stripes cut from the \"0\" are lit. Five minutes later the sun has moved over 1.25Â° and the stripes derived from the \"5\" are illuminated. Five minutes later, the stripes from the \"0\" are again illuminated as the light falling through a given slit has advanced one stripe to the left. A translucent screen behind the second mask helps diffusing the thin light lines and enables the numerals to be read from a broad angle.",
+			"color": "black|0.51492 dim|0.13263 gray|0.13263 dim|0.13263 grey|0.13263 dark|0.12839 olive|0.12839 green|0.12839 gray|0.077797 grey|0.077797 dark|0.06411 gray|0.06411 dark|0.06411 grey|0.06411 slate|0.023404 gray|0.023404 silver|0.018842 light|0.016935 slate|0.016935 gray|0.016935 steel|0.0059322 blue|0.0059322 light|0.005597 gray|0.005597 light|0.005597 grey|0.005597  "
+		}
+	}
+}

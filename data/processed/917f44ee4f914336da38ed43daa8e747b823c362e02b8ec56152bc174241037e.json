@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "917f44ee4f914336da38ed43daa8e747b823c362e02b8ec56152bc174241037e",
+			"url": "https://upload.wikimedia.org/math/7/e/3/7e3a07a81cc004a2d9b3f1f748ee65c4.png",
+				"previous": "An important parameter in the efficiency of combustion engines is the specific heat ratio of the air-fuel mixture, Î³. This varies somewhat with the fuel, but is generally close to the air value of 1.4. This standard value is usually used in the engine cycle equations below, and when this approximation is made the cycle is called an air-standard cycle.",
+				"after": "The above efficiency formulas are based on simple idealized mathematical models of engines, with no friction and working fluids that obey simple thermodynamic rules called the ideal gas law. Real engines have many departures from ideal behavior that waste energy, reducing actual efficiencies far below the theoretical values given above. Examples are:",
+			"color": "dim|0.35388 gray|0.35388 dim|0.35388 grey|0.35388 gray|0.28306 grey|0.28306 dark|0.18312 gray|0.18312 dark|0.18312 grey|0.18312 silver|0.08725 light|0.045309 gray|0.045309 light|0.045309 grey|0.045309 gainsboro|0.031136 white|0.003938 smoke|0.003938  "
+		}
+	}
+}

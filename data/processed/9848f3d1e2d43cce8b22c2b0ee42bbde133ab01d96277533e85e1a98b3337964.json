@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9848f3d1e2d43cce8b22c2b0ee42bbde133ab01d96277533e85e1a98b3337964",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EU_Pop2008_1024.PNG/200px-EU_Pop2008_1024.PNG",
+				"previous": "It is important to recognize that even the most accurate maps sacrifice a certain amount of accuracy in scale to deliver a greater visual usefulness to its user. For example, the width of roads and small streams are exaggerated when they are too narrow to be shown on the map at true scale; that is, on a printed map they would be narrower than could be perceived by the naked eye. The same applies to computer maps where the smallest unit is the pixel. A narrow stream say must be shown to have the width of a pixel even if at the map scale it would be a small fraction of the pixel width.",
+				"after": "Some maps, called cartograms, have the scale deliberately distorted to reflect information other than land area or distance. For example, this map (at the right) of Europe has been distorted to show population distribution, while the rough shape of the continent is still discernible.",
+			"color": "medium|0.36642 violet|0.36642 red|0.36642 thistle|0.14603 dark|0.079197 green|0.079197 silver|0.069901 dark|0.066183 gray|0.066183 dark|0.066183 grey|0.066183 light|0.06012 gray|0.06012 light|0.06012 grey|0.06012 dark|0.051868 sea|0.051868 green|0.051868 gainsboro|0.043364  "
+		}
+	}
+}

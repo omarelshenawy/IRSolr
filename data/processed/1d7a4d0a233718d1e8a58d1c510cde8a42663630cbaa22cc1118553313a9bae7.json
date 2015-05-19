@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1d7a4d0a233718d1e8a58d1c510cde8a42663630cbaa22cc1118553313a9bae7",
+			"url": "https://upload.wikimedia.org/math/b/2/3/b23be54f294caba9d5ec6f24eb804fba.png",
+				"previous": "Rocket engines have a slightly different propulsive efficiency () than airbreathing jet engines as the lack of intake air changes the form of the equation. This also means that rockets are able to exceed their exhaust velocity. See diagram.",
+				"after": "As with ducted jet engines, matching the exhaust speed and the vehicle speed gives optimum efficiency in principle. Although in practice rocket exhausts are high and typically fixed, this can be a useful theoretical consideration. Unlike ducted engines, rockets give thrust even when the two speeds are equal.",
+			"color": " "
+		}
+	}
+}

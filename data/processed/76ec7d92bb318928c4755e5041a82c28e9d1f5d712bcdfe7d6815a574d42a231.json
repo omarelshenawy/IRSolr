@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "76ec7d92bb318928c4755e5041a82c28e9d1f5d712bcdfe7d6815a574d42a231",
+			"url": "https://upload.wikimedia.org/math/e/5/7/e577675a4195a7843a3a151609fa1220.png",
+				"previous": "Note that the intermediate points that were constructed are in fact the control points for two new BÃ©zier curves, both exactly coincident with the old one. This algorithm not only evaluates the curve at , but splits the curve into two pieces at , and provides the equations of the two sub-curves in BÃ©zier form.",
+				"after": "In general, operations on a rational curve (or surface) are equivalent to operations on a nonrational curve in a projective space. This representation as the \"weighted control points\" and weights is often convenient when evaluating rational curves.",
+			"color": "dim|0.34706 gray|0.34706 dim|0.34706 grey|0.34706 gray|0.30012 grey|0.30012 dark|0.18355 gray|0.18355 dark|0.18355 grey|0.18355 silver|0.076886 light|0.039713 gray|0.039713 light|0.039713 grey|0.039713 gainsboro|0.028307 white|0.0061321 smoke|0.0061321 linen|0.0033067 lavender|0.0027075 blush|0.0027075  "
+		}
+	}
+}

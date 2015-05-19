@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b56d735cfe88bb4912585f61c0afc1b403cdf6b0239ea9fe2a7e555cd0553a2",
+			"url": "https://upload.wikimedia.org/math/e/1/c/e1ca69be903f6bca7562a83df23390bb.png",
+				"previous": "Prime ideals are the points of algebro-geometric objects, via the notion of the spectrum of a ring.[47] Arithmetic geometry also benefits from this notion, and many concepts exist in both geometry and number theory. For example, factorization or ramification of prime ideals when lifted to an extension field, a basic problem of algebraic number theory, bears some resemblance with ramification in geometry. Such ramification questions occur even in number-theoretic questions solely concerned with integers. For example, prime ideals in the ring of integers of quadratic number fields can be used in proving quadratic reciprocity, a statement that concerns the solvability of quadratic equations",
+				"after": "where x is an integer and p and q are (usual) prime numbers.[48] Early attempts to prove Fermat's Last Theorem climaxed when Kummer introduced regular primes, primes satisfying a certain requirement concerning the failure of unique factorization in the ring consisting of expressions",
+			"color": "dim|0.30299 gray|0.30299 dim|0.30299 grey|0.30299 gray|0.28449 grey|0.28449 dark|0.20323 gray|0.20323 dark|0.20323 grey|0.20323 silver|0.095862 light|0.050101 gray|0.050101 light|0.050101 grey|0.050101 gainsboro|0.036879 white|0.0065725 smoke|0.0065725 linen|0.0033391 lavender|0.0029668 blush|0.0029668 alice|0.0029119 blue|0.0029119  "
+		}
+	}
+}

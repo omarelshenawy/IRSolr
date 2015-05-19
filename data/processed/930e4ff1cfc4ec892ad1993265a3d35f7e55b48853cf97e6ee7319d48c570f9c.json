@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "930e4ff1cfc4ec892ad1993265a3d35f7e55b48853cf97e6ee7319d48c570f9c",
+			"url": "https://upload.wikimedia.org/math/1/e/1/1e170bbc13421299b431f1551439d7f6.png",
+				"previous": "Like any magnetic device, compasses are affected by nearby ferrous materials, as well as by strong local electromagnetic forces. Compasses used for wilderness land navigation should not be used in proximity to ferrous metal objects or electromagnetic fields (car electrical systems, automobile engines, steel pitons, etc.) as that can affect their accuracy.[93] Compasses are particularly difficult to use accurately in or near trucks, cars or other mechanized vehicles even when corrected for deviation by the use of built-in magnets or other devices. Large amounts of ferrous metal combined with the on-and-off electrical fields caused by the vehicle's ignition and charging systems generally result in significant compass errors.",
+				"after": "A similar process is used to calibrate the compass in light general aviation aircraft, with the compass deviation card often mounted permanently just above or below the magnetic compass on the instrument panel. Fluxgate electronic compasses can be calibrated automatically, and can also be programmed with the correct local compass variation so as to indicate the true heading.",
+			"color": "gray|0.2958 grey|0.2958 dark|0.26128 gray|0.26128 dark|0.26128 grey|0.26128 dim|0.16909 gray|0.16909 dim|0.16909 grey|0.16909 silver|0.14197 light|0.071492 gray|0.071492 light|0.071492 grey|0.071492 gainsboro|0.045431 white|0.0033265 smoke|0.0033265  "
+		}
+	}
+}

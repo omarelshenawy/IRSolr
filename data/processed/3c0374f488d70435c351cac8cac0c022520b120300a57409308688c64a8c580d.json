@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c0374f488d70435c351cac8cac0c022520b120300a57409308688c64a8c580d",
+			"url": "https://upload.wikimedia.org/math/5/5/1/551fb42bac42e8b0d44c8896b05d6409.png",
+				"previous": "The thrust, T, and torque, Q, depend on the propeller's diameter, D, revolutions, N, and rate of advance, , together with the character of the fluid in which the propeller is operating and gravity. These factors create the following non-dimensional relationship:",
+				"after": "For two identical propellers the expression for both will be the same. So with the propellers , and using the same subscripts to indicate each propeller:",
+			"color": "dark|0.32075 gray|0.32075 dark|0.32075 grey|0.32075 silver|0.22187 gray|0.19815 grey|0.19815 light|0.13349 gray|0.13349 light|0.13349 grey|0.13349 gainsboro|0.09634 dim|0.0089673 gray|0.0089673 dim|0.0089673 grey|0.0089673 white|0.0066191 smoke|0.0066191 linen|0.0030514  "
+		}
+	}
+}

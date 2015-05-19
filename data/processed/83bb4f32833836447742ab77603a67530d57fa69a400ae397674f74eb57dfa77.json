@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "83bb4f32833836447742ab77603a67530d57fa69a400ae397674f74eb57dfa77",
+			"url": "https://upload.wikimedia.org/math/5/1/d/51dad15bc709ccc5b888537e0f625045.png",
+			"previous": [
+				"(The dot here means a dot product, not scalar multiplication.) Expanded this becomes",
+				"Specifically, let be the position vector of some point , and let be a nonzero vector. The plane determined by this point and vector consists of those points , with position vector , such that the vector drawn from to is perpendicular to . Recalling that two vectors are perpendicular if and only if their dot product is zero, it follows that the desired plane can be described as the set of all points such that"
+			],
+			"after": [
+				"which is the point-normal form of the equation of a plane.[17] This is just a linear equation:",
+				"Conversely, it is easily shown that if a, b, c and d are constants and a, b, and c are not all zero, then the graph of the equation"
+			],
+			"color": "dim|0.41322 gray|0.41322 dim|0.41322 grey|0.41322 gray|0.2761 grey|0.2761 dark|0.16276 gray|0.16276 dark|0.16276 grey|0.16276 silver|0.072591 light|0.037178 gray|0.037178 light|0.037178 grey|0.037178 gainsboro|0.025871 white|0.0033228 smoke|0.0033228  "
+		}
+	}
+}

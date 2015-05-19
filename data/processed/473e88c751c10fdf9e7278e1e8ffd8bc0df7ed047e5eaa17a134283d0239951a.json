@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "473e88c751c10fdf9e7278e1e8ffd8bc0df7ed047e5eaa17a134283d0239951a",
+			"url": "https://upload.wikimedia.org/math/7/9/5/795940655af9e1e266bcab5556e282e8.png",
+				"previous": "Theorem (Uniform Boundedness Principle). Let X be a Banach space and Y be a normed vector space. Suppose that F is a collection of continuous linear operators from X to Y. If for all x in X one has",
+				"after": "then",
+			"color": "gray|0.29421 grey|0.29421 dark|0.27312 gray|0.27312 dark|0.27312 grey|0.27312 dim|0.22401 gray|0.22401 dim|0.22401 grey|0.22401 silver|0.12208 light|0.04029 gray|0.04029 light|0.04029 grey|0.04029 gainsboro|0.02801 white|0.0046799 smoke|0.0046799  "
+		}
+	}
+}

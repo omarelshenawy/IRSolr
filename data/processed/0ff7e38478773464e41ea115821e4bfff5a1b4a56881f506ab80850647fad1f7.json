@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "0ff7e38478773464e41ea115821e4bfff5a1b4a56881f506ab80850647fad1f7",
+			"url": "https://upload.wikimedia.org/math/6/7/f/67f86534119c2ebd45cf5c4e0965e9eb.png",
+			"previous": [
+				"Selecting a point on the plot, net thrust is calculated as follows:",
+				"As an engine is throttled back there will be a variation of SFC with net thrust, because of changes in the engine cycle (e.g. lower overall pressure ratio) and variations in component performance (e.g. compressor efficiency). When plotted, the resultant curve is known as a thrust/SFC loop. A family of these curves can be generated at Sea Level, Standard Day, conditions over a range of flight speeds. A Husk Plot (RHS) can be developed using this family of curves. The net thrust scale is simply relabeled , where is relative ambient pressure, whilst the SFC scale is relabeled , where is relative ambient temperature. The resulting plot can be used to estimate engine net thrust and SFC at any altitude, flight speed and climate for a range of throttle setting."
+			],
+			"after": [
+				"Clearly, net thrust falls with altitude, because of the decrease in ambient pressure.",
+				"The corresponding SFC is calculated as follows:",
+				""
+			],
+			"color": "dim|0.36029 gray|0.36029 dim|0.36029 grey|0.36029 gray|0.30539 grey|0.30539 dark|0.17855 gray|0.17855 dark|0.17855 grey|0.17855 silver|0.071803 light|0.034957 gray|0.034957 light|0.034957 grey|0.034957 gainsboro|0.025816 white|0.0055749 smoke|0.0055749 linen|0.0030112  "
+		}
+	}
+}

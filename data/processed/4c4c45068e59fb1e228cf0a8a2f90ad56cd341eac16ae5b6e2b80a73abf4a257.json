@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4c4c45068e59fb1e228cf0a8a2f90ad56cd341eac16ae5b6e2b80a73abf4a257",
+			"url": "https://upload.wikimedia.org/math/1/7/2/1723889dab8bece1d923b9c347026827.png",
+				"previous": "As flight speed builds up after take-off, the ram rise in the intake starts to have a significant effect upon nozzle pressure/temperature and intake airflow, causing nozzle gross thrust to climb more rapidly. This term now starts to offset the still increasing ram drag, eventually causing net thrust to start to increase. In some engines, the net thrust at say Mach 1.0, sea level can even be slightly greater than the static thrust. Above Mach 1.0, with a subsonic inlet design, shock losses tend to decrease net thrust, however a suitably designed supersonic inlet can give a lower reduction in intake pressure recovery, allowing net thrust to continue to climb in the supersonic regime.",
+			"after": [],
+			"color": "gray|0.3242 grey|0.3242 dark|0.25532 gray|0.25532 dark|0.25532 grey|0.25532 dim|0.18616 gray|0.18616 dim|0.18616 grey|0.18616 silver|0.11485 light|0.056886 gray|0.056886 light|0.056886 grey|0.056886 gainsboro|0.039642 white|0.0068062 smoke|0.0068062 linen|0.0031207  "
+		}
+	}
+}

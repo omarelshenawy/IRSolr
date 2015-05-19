@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "640fa961d5b6aa55550c0dde2502049297afd1cd784fd781331c7b73668c2957",
+			"url": "https://upload.wikimedia.org/math/8/9/b/89b89786cfd01e349ec0024944955486.png",
+				"previous": "A stochastic process on the same time set is said to be adapted to the filtration if, for every t Â , is -measurable.[2]",
+			"after": [
+				"A stochastic process is always adapted to its natural filtration.",
+				"Stochastic processes can be classified according to the cardinality of its index set (usually interpreted as time) and state space."
+			],
+			"color": "dim|0.27498 gray|0.27498 dim|0.27498 grey|0.27498 gray|0.2749 grey|0.2749 dark|0.16716 gray|0.16716 dark|0.16716 grey|0.16716 silver|0.082053 black|0.078071 light|0.049107 gray|0.049107 light|0.049107 grey|0.049107 gainsboro|0.037424 white|0.0077732 smoke|0.0077732 lavender|0.0040669 blush|0.0040669 linen|0.0040486 alice|0.0039346 blue|0.0039346 ghost|0.0037876 white|0.0037876 sea|0.0035881 shell|0.0035881 snow|0.0034135  "
+		}
+	}
+}

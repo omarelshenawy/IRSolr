@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "187a09c86c13c954fcae9d52542c3e2a8308d67a4e7483b245e76350313b52e2",
+			"url": "https://upload.wikimedia.org/math/d/1/6/d168fa438b65b5115782c9f9224e9fb4.png",
+			"previous": [
+				"E.g.",
+				"The degree of the sum (or difference) of two polynomials is equal to or less than the greater of their degrees; the equality holds always when the degrees of the polynomials are different i.e."
+			],
+			"after": [
+				"Note that for polynomials over an arbitrary ring, this is not necessarily true. For example, in , , but .",
+				"The degree of the composition of two non-constant polynomials and over a field or integral domain is the product of their degrees:"
+			],
+			"color": "dim|0.3974 gray|0.3974 dim|0.3974 grey|0.3974 gray|0.27594 grey|0.27594 dark|0.17072 gray|0.17072 dark|0.17072 grey|0.17072 silver|0.074725 light|0.037934 gray|0.037934 light|0.037934 grey|0.037934 gainsboro|0.027045 white|0.0048201 smoke|0.0048201  "
+		}
+	}
+}

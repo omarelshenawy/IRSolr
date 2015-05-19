@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a3f16557640b3f4fbcb52a7a994e9c58821fd76d1d6e592d8544351f4abc3a3",
+			"url": "https://upload.wikimedia.org/math/9/8/5/985109343f50817c929110c8c251ecb3.png",
+				"previous": "The proportion of non-relevant documents that are retrieved, out of all non-relevant documents available:",
+				"after": "In binary classification, fall-out is closely related to specificity and is equal to . It can be looked at as the probability that a non-relevant document is retrieved by the query.",
+			"color": "dim|0.33728 gray|0.33728 dim|0.33728 grey|0.33728 gray|0.31089 grey|0.31089 dark|0.18059 gray|0.18059 dark|0.18059 grey|0.18059 silver|0.084969 light|0.040828 gray|0.040828 light|0.040828 grey|0.040828 gainsboro|0.027592 black|0.0049832 white|0.0032841 smoke|0.0032841  "
+		}
+	}
+}

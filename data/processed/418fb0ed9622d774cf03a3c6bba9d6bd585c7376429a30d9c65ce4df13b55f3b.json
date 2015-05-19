@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "418fb0ed9622d774cf03a3c6bba9d6bd585c7376429a30d9c65ce4df13b55f3b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Prime_numbers_in_arithmetic_progression_mod_9_zoom_in.png",
+				"previous": "can have infinitely many primes only when a and q are coprime, i.e., their greatest common divisor is one. If this necessary condition is satisfied, Dirichlet's theorem on arithmetic progressions asserts that the progression contains infinitely many primes. The picture below illustrates this with q = 9: the numbers are \"wrapped around\" as soon as a multiple of 9 is passed. Primes are highlighted in red. The rows (=progressions) starting with a = 3, 6, or 9 contain at most one prime number. In all other rows (a = 1, 2, 4, 5, 7, and 8) there are infinitely many prime numbers. What is more, the primes are distributed equally among those rows in the long runâthe density of all primes congruent a moduloÂ 9 isÂ 1/6.",
+				"after": "The GreenâTao theorem shows that there are arbitrarily long arithmetic progressions consisting of primes.[28] An odd prime p is expressible as the sum of two squares, p = x2 + y2, exactly if p is congruent 1 modulo 4 (Fermat's theorem on sums of two squares).",
+			"color": "red|0.21976 mint|0.067707 cream|0.067707 white|0.0676 azure|0.067194 snow|0.066046 ghost|0.064336 white|0.064336 white|0.064184 smoke|0.064184 alice|0.063936 blue|0.063936 floral|0.061035 white|0.061035 sea|0.059492 shell|0.059492 lavender|0.053662 blush|0.053662 light|0.015731 coral|0.015731 light|0.014984 pink|0.014984 pink|0.014957 gray|0.014798 grey|0.014798 misty|0.014108 rose|0.014108 salmon|0.01034 ivory|0.0096675 light|0.0090276 cyan|0.0090276 dark|0.0063955 gray|0.0063955 dark|0.0063955 grey|0.0063955 linen|0.0043626 light|0.0031951 gray|0.0031951 light|0.0031951 grey|0.0031951 silver|0.003184 gainsboro|0.0031457  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b7ca9ed9022d99085c1e9e9504d8ede52ca13e317b73a4fa17e7ff3d7d37894",
+			"url": "https://upload.wikimedia.org/math/e/3/0/e30e4709d0d55e361c5fd246693e4f76.png",
+				"previous": "Instead of specifying the open subsets of a topological space, the topology can also be determined by a closure operator (denoted cl), which assigns to any subset A â X its closure, or an interior operator (denoted int), which assigns to any subset A of X its interior. In these terms, a function",
+				"after": "between topological spaces is continuous in the sense above if and only if for all subsets A of X",
+			"color": "dim|0.3683 gray|0.3683 dim|0.3683 grey|0.3683 gray|0.29511 grey|0.29511 dark|0.17988 gray|0.17988 dark|0.17988 grey|0.17988 silver|0.076315 light|0.037153 gray|0.037153 light|0.037153 grey|0.037153 gainsboro|0.02549 white|0.0042141 smoke|0.0042141  "
+		}
+	}
+}

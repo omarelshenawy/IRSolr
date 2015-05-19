@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "3564e08c488da8fce95e0bfd8f6d49b7f80a93dface95437eacd2db68b28b8f6",
+			"url": "https://upload.wikimedia.org/math/e/0/5/e053ba87adb8302c9007b4f1e1a71852.png",
+			"previous": [
+				"",
+				"Ram Drag",
+				"",
+				"The first term is the momentum thrust which contributes most of the nozzle gross thrust. Because the nozzle is choked (which is the norm on a turbojet), the second term, the pressure thrust, is non-zero."
+			],
+			"after": [
+				"The ram drag in this particular example is zero, because the engine is stationary and the flight velocity is therefore zero.",
+				"Net thrust",
+				"",
+				"The calculation of the combustor fuel flow is beyond the scope of this text, but is basically proportional to the combustor entry airflow and a function of the combustor temperature rise."
+			],
+			"color": "dim|0.38081 gray|0.38081 dim|0.38081 grey|0.38081 gray|0.29646 grey|0.29646 dark|0.17073 gray|0.17073 dark|0.17073 grey|0.17073 silver|0.073574 light|0.034529 gray|0.034529 light|0.034529 grey|0.034529 gainsboro|0.024278 white|0.0043839 smoke|0.0043839  "
+		}
+	}
+}

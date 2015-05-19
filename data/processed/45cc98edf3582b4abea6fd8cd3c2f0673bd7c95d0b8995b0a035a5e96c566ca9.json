@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "45cc98edf3582b4abea6fd8cd3c2f0673bd7c95d0b8995b0a035a5e96c566ca9",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikimedia_Foundation_Servers-8055_13.jpg/220px-Wikimedia_Foundation_Servers-8055_13.jpg",
+			"previous": [],
+				"after": "Wikimedia currently runs on dedicated clusters of Linux servers (mainly Ubuntu),.[35][36] As of December 2009[update], there were 300 in Florida and 44 in Amsterdam.[37] Wikipedia employed a single server until 2004, when the server setup was expanded into a distributed multitier architecture. In January 2005, the project ran on 39 dedicated servers in Florida.[citation needed] This configuration included a single master database server running MySQL, multiple slave database servers, 21 web servers running the Apache HTTP Server, and seven Squid cache servers.",
+			"color": "dark|0.16395 gray|0.16395 dark|0.16395 grey|0.16395 silver|0.13457 light|0.096626 gray|0.096626 light|0.096626 grey|0.096626 gainsboro|0.073916 gray|0.064295 grey|0.064295 white|0.03155 smoke|0.03155 white|0.030252 snow|0.029098 floral|0.027717 white|0.027717 mint|0.025695 cream|0.025695 sea|0.025091 shell|0.025091 linen|0.023462 midnight|0.02252 blue|0.02252 olive|0.018277 drab|0.018277 dim|0.017896 gray|0.017896 dim|0.017896 grey|0.017896 lavender|0.017766 blush|0.017766 ivory|0.017106 ghost|0.016101 white|0.016101 azure|0.01543 misty|0.01507 rose|0.01507 blue|0.012728 old|0.012049 lace|0.012049 alice|0.01174 blue|0.01174 medium|0.01077 blue|0.01077 honeydew|0.01011 corn|0.0081593 flower|0.0081593 blue|0.0081593 dark|0.0081593 blue|0.0081593 navy|0.0078329 yellow|0.0048956 green|0.0048956 antique|0.0042723 white|0.0042723 light|0.0037261 cyan|0.0037261 rosy|0.0035901 brown|0.0035901  "
+		}
+	}
+}

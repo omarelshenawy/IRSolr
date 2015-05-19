@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "54578cc119563f000ad84b0a2a67aff256375692629fd0a26e04fb085b31b30d",
+			"url": "https://upload.wikimedia.org/math/a/f/3/af3d45f39385f2dbf86b6d119437ac13.png",
+			"previous": [
+				"Dividing Equation (1) by and substituting for (the Tschirnhaus transformation) we get the equation",
+				"and a simple root",
+				"If and the above expression for the roots is correct but misleading, hiding the fact that no radical is needed to represent the roots. In fact, in this case, there is a double root,"
+			],
+			"after": [
+				"where",
+				"are the three cube roots of unity, and where",
+				"with"
+			],
+			"color": "dim|0.3632 gray|0.3632 dim|0.3632 grey|0.3632 gray|0.22912 grey|0.22912 black|0.19602 dark|0.12328 gray|0.12328 dark|0.12328 grey|0.12328 silver|0.047337 light|0.020087 gray|0.020087 light|0.020087 grey|0.020087 gainsboro|0.013506  "
+		}
+	}
+}

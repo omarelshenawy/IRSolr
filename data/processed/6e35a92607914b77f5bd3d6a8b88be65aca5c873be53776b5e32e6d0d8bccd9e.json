@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6e35a92607914b77f5bd3d6a8b88be65aca5c873be53776b5e32e6d0d8bccd9e",
+			"url": "https://upload.wikimedia.org/math/c/c/4/cc4dc168b2858b9edc86e81f780931a8.png",
+				"previous": "Often, the Lagrangian coordinates Î± are chosen to coincide with the Eulerian coordinates x at the initial time t = t0Â :[4]",
+			"after": [
+				"But also other ways of labeling the fluid parcels are possible.",
+				"If the average value of a quantity is denoted by an overbar, then the average Eulerian velocity vector Å«E and average Lagrangian velocity vector Å«L are:"
+			],
+			"color": "dim|0.37124 gray|0.37124 dim|0.37124 grey|0.37124 gray|0.29268 grey|0.29268 dark|0.18868 gray|0.18868 dark|0.18868 grey|0.18868 silver|0.073883 light|0.033657 gray|0.033657 light|0.033657 grey|0.033657 gainsboro|0.023778 white|0.0042872 smoke|0.0042872  "
+		}
+	}
+}

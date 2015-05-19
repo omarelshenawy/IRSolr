@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "93474fbc16330dda9817882e30efe5d1030e0e3fff5dcdd3c50aceb4f6761b84",
+			"url": "https://upload.wikimedia.org/math/a/5/7/a57e8f3a45b8418f4629175e9990072a.png",
+				"previous": "The construction is also given by Descartes in his La GÃ©omÃ©trie, see figure 2 on page 2. However, Descartes made no claim to originality and his audience would have been quite familiar with Euclid.",
+				"after": "Another method of geometric construction uses right triangles and induction: â1 can, of course, be constructed, and once âx has been constructed, the right triangle with 1 and âx for its legs has a hypotenuse of âx + 1. The Spiral of Theodorus is constructed using successive square roots in this manner.",
+			"color": "gray|0.32036 grey|0.32036 dim|0.3021 gray|0.3021 dim|0.3021 grey|0.3021 dark|0.20339 gray|0.20339 dark|0.20339 grey|0.20339 silver|0.083481 light|0.040989 gray|0.040989 light|0.040989 grey|0.040989 gainsboro|0.029146 white|0.0056571 smoke|0.0056571 linen|0.0026396  "
+		}
+	}
+}

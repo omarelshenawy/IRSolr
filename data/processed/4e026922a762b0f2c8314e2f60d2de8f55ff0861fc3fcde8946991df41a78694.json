@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4e026922a762b0f2c8314e2f60d2de8f55ff0861fc3fcde8946991df41a78694",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ECClines-3.svg/300px-ECClines-3.svg.png",
+				"previous": "An example here may be helpful. Consider the Pythagorean equation ; we would like to study its rational solutions, i.e., its solutions such that x and y are both rational. This is the same as asking for all integer solutions to ; any solution to the latter equation gives us a solution , to the former. It is also the same as asking for all points with rational coordinates on the curve described by . (This curve happens to be a circle of radius 1 around the origin.)",
+				"after": "The rephrasing of questions on equations in terms of points on curves turns out to be felicitous. The finiteness or not of the number of rational or integer points on an algebraic curveâthat is, rational or integer solutions to an equation , where is a polynomial in two variablesâturns out to depend crucially on the genus of the curve. The genus can be defined as follows:[note 13] allow the variables in to be complex numbers; then defines a 2-dimensional surface in (projective) 4-dimensional space (since two complex variables can be decomposed into four real variables, i.e., four dimensions). Count the number of (doughnut) holes in the surface; call this number the genus of . Other geometrical notions turn out to be just as crucial.",
+			"color": "white|0.095202 smoke|0.095202 snow|0.095081 white|0.094914 ghost|0.094909 white|0.094909 alice|0.094603 blue|0.094603 sea|0.094472 shell|0.094472 mint|0.094371 cream|0.094371 floral|0.093916 white|0.093916 azure|0.093607 lavender|0.092246 blush|0.092246 silver|0.0081745 dark|0.0079098 gray|0.0079098 dark|0.0079098 grey|0.0079098 light|0.0055367 gray|0.0055367 light|0.0055367 grey|0.0055367 light|0.0044511 coral|0.0044511 gray|0.0041293 grey|0.0041293 gainsboro|0.0037036 misty|0.0036339 rose|0.0036339 indian|0.0032823 red|0.0032823 ivory|0.0029834 pink|0.0028873 dim|0.0026837 gray|0.0026837 dim|0.0026837 grey|0.0026837  "
+		}
+	}
+}

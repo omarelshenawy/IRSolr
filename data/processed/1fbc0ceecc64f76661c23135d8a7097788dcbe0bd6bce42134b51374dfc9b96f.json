@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fbc0ceecc64f76661c23135d8a7097788dcbe0bd6bce42134b51374dfc9b96f",
+			"url": "https://upload.wikimedia.org/math/e/f/7/ef745c9055b714e1b3f349e16722a718.png",
+			"previous": [
+				"where",
+				"Drag depends on the properties of the fluid and on the size, shape, and speed of the object. One way to express this is by means of the drag equation:"
+			],
+			"after": [
+				"The drag coefficient depends on the shape of the object and on the Reynolds number:",
+				"where is some characteristic diameter or linear dimension and is the kinematic viscosity of the fluid (equal to the viscosity divided by the density). At low Reynolds number, the drag coefficient is asymptotically proportional to the inverse of the Reynolds number, which means that the drag is proportional to the speed. At high Reynolds number, the drag coefficient is more or less constant. The graph to the right shows how the drag coefficient varies with Reynolds number for the case of a sphere."
+			],
+			"color": "gray|0.32096 grey|0.32096 dark|0.24487 gray|0.24487 dark|0.24487 grey|0.24487 dim|0.15837 gray|0.15837 dim|0.15837 grey|0.15837 silver|0.11158 light|0.058858 gray|0.058858 light|0.058858 grey|0.058858 gainsboro|0.045007 white|0.012244 smoke|0.012244 lavender|0.0065526 blush|0.0065526 alice|0.006452 blue|0.006452 linen|0.0063766 ghost|0.0062006 white|0.0062006 sea|0.0059132 shell|0.0059132 snow|0.0057623 white|0.0045665 mint|0.0030577 cream|0.0030577  "
+		}
+	}
+}

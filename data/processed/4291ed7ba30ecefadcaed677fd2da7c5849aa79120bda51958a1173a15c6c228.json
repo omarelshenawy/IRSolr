@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4291ed7ba30ecefadcaed677fd2da7c5849aa79120bda51958a1173a15c6c228",
+			"url": "https://upload.wikimedia.org/math/4/b/d/4bd3ce9263fe2372f82c5e6eda137a09.png",
+			"previous": [
+				"In the first group of examples, let u be an unknown function of x, and c and Ï are known constants.",
+				"Linear differential equations frequently appear as approximations to nonlinear equations. These approximations are only valid under restricted conditions. For example, the harmonic oscillator equation is an approximation to the nonlinear pendulum equation that is valid for small amplitude oscillations (see below)."
+			],
+				"after": "In the next group of examples, the unknown function u depends on two variables x and t or x and y.",
+			"color": "dim|0.36188 gray|0.36188 dim|0.36188 grey|0.36188 gray|0.27918 grey|0.27918 dark|0.18802 gray|0.18802 dark|0.18802 grey|0.18802 silver|0.0868 light|0.039098 gray|0.039098 light|0.039098 grey|0.039098 gainsboro|0.026921 white|0.0047182 smoke|0.0047182  "
+		}
+	}
+}

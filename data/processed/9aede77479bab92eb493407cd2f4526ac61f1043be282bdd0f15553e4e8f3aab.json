@@ -1,0 +1,21 @@
+{
+	"add": {
+		"doc": {
+			"id": "9aede77479bab92eb493407cd2f4526ac61f1043be282bdd0f15553e4e8f3aab",
+			"url": "https://upload.wikimedia.org/math/b/d/c/bdc78b124e1b4f2f0e2f7f5af4e2b54f.png",
+			"previous": [
+				"A logarithmic equation is an equation of the form for , which has solution",
+				"or",
+				"whence",
+				"then, by subtracting 1 from both sides of the equation, and then dividing both sides by 3 we obtain"
+			],
+			"after": [
+				"For example, if",
+				"then, by adding 2 to both sides of the equation, followed by dividing both sides by 4, we get",
+				"whence",
+				"or"
+			],
+			"color": "dim|0.31312 gray|0.31312 dim|0.31312 grey|0.31312 gray|0.21839 grey|0.21839 black|0.19351 dark|0.14921 gray|0.14921 dark|0.14921 grey|0.14921 silver|0.061062 light|0.029155 gray|0.029155 light|0.029155 grey|0.029155 gainsboro|0.020279 white|0.0039169 smoke|0.0039169  "
+		}
+	}
+}

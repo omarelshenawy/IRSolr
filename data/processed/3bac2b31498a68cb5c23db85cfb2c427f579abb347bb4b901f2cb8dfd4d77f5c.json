@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3bac2b31498a68cb5c23db85cfb2c427f579abb347bb4b901f2cb8dfd4d77f5c",
+			"url": "https://upload.wikimedia.org/math/b/f/b/bfbf6f2d861b0e40d2704ebb3a4ca735.png",
+				"previous": "If only the second and third conditions of the definition of measure above are met, and Î¼ takes on at most one of the values Â±â, then Î¼ is called a signed measure.",
+				"after": "A triple (X, Î£, Î¼) is called a measure space. A probability measure is a measure with total measure oneâââi.e. Î¼(X) = 1. A probability space is a measure space with a probability measure.",
+			"color": "dim|0.38887 gray|0.38887 dim|0.38887 grey|0.38887 gray|0.30012 grey|0.30012 dark|0.16587 gray|0.16587 dark|0.16587 grey|0.16587 silver|0.069368 light|0.035077 gray|0.035077 light|0.035077 grey|0.035077 gainsboro|0.024033 white|0.0045386 smoke|0.0045386  "
+		}
+	}
+}

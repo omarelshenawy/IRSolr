@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "81c66d05813799b345e99f3910718caf988740cf2f46454389dae459bb1cf4e4",
+			"url": "https://upload.wikimedia.org/math/3/e/b/3eb91a0f2bb7bd856a0aac90f4eba633.png",
+				"previous": "We don't need to assume continuity of f on the whole interval. Part I of the theorem then says: if f is any Lebesgue integrable function on [a, b] and x0 is a number in [a, b] such that f is continuous at x0, then",
+				"after": "is differentiable for x = x0 with Fâ²(x0) = f(x0). We can relax the conditions on f still further and suppose that it is merely locally integrable. In that case, we can conclude that the function F is differentiable almost everywhere and Fâ²(x) = f(x) almost everywhere. On the real line this statement is equivalent to Lebesgue's differentiation theorem. These results remain true for the HenstockâKurzweil integral, which allows a larger class of integrable functions (Bartle 2001, Thm. 4.11).",
+			"color": "dim|0.35101 gray|0.35101 dim|0.35101 grey|0.35101 gray|0.30562 grey|0.30562 dark|0.19103 gray|0.19103 dark|0.19103 grey|0.19103 silver|0.077251 light|0.035742 gray|0.035742 light|0.035742 grey|0.035742 gainsboro|0.024151 white|0.004115 smoke|0.004115  "
+		}
+	}
+}

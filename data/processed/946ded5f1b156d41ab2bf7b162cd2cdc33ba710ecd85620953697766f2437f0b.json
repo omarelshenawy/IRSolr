@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "946ded5f1b156d41ab2bf7b162cd2cdc33ba710ecd85620953697766f2437f0b",
+			"url": "https://upload.wikimedia.org/math/2/2/2/22292d233cc676ba7a658a058311a4fa.png",
+			"previous": [
+				"Given a differential equation",
+				"For a system of the form , some sources also require that the Jacobian matrix be non-singular in order to call this an implicit ODE [system]; an implicit ODE system satisfying this Jacobian non-singularity condition can be transformed into an explicit ODE system. In the same sources, implicit ODE systems with a singular Jacobian are termed differential algebraic equations (DAEs). This distinction is not merely one of terminology; DAEs have fundamentally different characteristics and are generally more involved to solve than (nonsigular) ODE systems.[14][15] Presumably for additional derivatives, the Hessian matrix and so forth are also assumed non-singular according to this scheme,[citation needed] although note that any ODE of order greater than one can [and usually is] rewritten as system of ODEs of first order,[16] which makes the Jacobian singularity criterion sufficient for this taxonomy to be comprehensive at all orders."
+			],
+			"after": [
+				"a function u: I â R â R is called the solution or integral curve for F, if u is n-times differentiable on I, and",
+				"Given two solutions u: J â R â R and v: I â R â R, u is called an extension of v if I â J and"
+			],
+			"color": "dim|0.35092 gray|0.35092 dim|0.35092 grey|0.35092 gray|0.30253 grey|0.30253 dark|0.1847 gray|0.1847 dark|0.1847 grey|0.1847 silver|0.077615 light|0.037532 gray|0.037532 light|0.037532 grey|0.037532 gainsboro|0.025399 white|0.0047859 smoke|0.0047859  "
+		}
+	}
+}

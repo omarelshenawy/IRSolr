@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "70e46b8d7c4184da4bba68d783a9581135e121a11778a1520f03c9a483bd17df",
+			"url": "https://upload.wikimedia.org/math/8/b/8/8b8039959881ce4159bf7e3eb07a6f17.png",
+				"previous": "Plotted above are the results of several off-design calculations, showing the effect of throttling a jet engine from its design point condition. This line is known as the compressor steady state (as opposed to transient) working line. Over most of the throttle range, the turbine system on a turbojet operates between choked planes. All the turbine throats are choked, as well as the final nozzle. Consequently the turbine pressure ratio stays essentially constant. This implies a fixed . Since turbine rotor entry temperature, , usually falls with throttling, the temperature drop across the turbine system, , must also decrease. However, the temperature rise across the compression system, , is proportional to . Consequently, the ratio must also fall, implying a decrease in the compression system pressure ratio. The non-dimensional (or corrected flow) at compressor exit tends to stay constant, because it 'sees', beyond the combustor, the constant corrected flow of the choked turbine. Consequently, there must be a decrease in compressor entry corrected flow, as compressor pressure ratio falls. Therefore, the compressor steady state working line has a positive slope, as shown above, on the RHS.",
+				"after": "Fairly obviously, when an engine is throttled-back, it will lose net thrust. This drop in thrust is mainly caused by the reduction in air mass flow, but the reduction in turbine rotor inlet temperature and degradations in component performance will also contribute.",
+			"color": "gray|0.29213 grey|0.29213 dark|0.231 gray|0.231 dark|0.231 grey|0.231 dim|0.21631 gray|0.21631 dim|0.21631 grey|0.21631 silver|0.11998 light|0.06643 gray|0.06643 light|0.06643 grey|0.06643 gainsboro|0.046018 white|0.0072523 smoke|0.0072523 linen|0.0035688 lavender|0.0030505 blush|0.0030505 alice|0.002975 blue|0.002975 ghost|0.002813 white|0.002813 sea|0.0026511 shell|0.0026511 snow|0.0025498  "
+		}
+	}
+}

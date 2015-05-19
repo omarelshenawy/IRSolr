@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "539e8e9fa09b0ef1bf854e3b1283fb45201a32369edb4e8acecb9ceaeb4355d7",
+			"url": "https://upload.wikimedia.org/math/c/9/0/c90a48c5f96b08b9c6f41974cfd22085.png",
+			"previous": [
+				"The following two conditions are equivalent:",
+				"An almost Hermitian structure defines naturally a differential two-form"
+			],
+			"after": [
+				"CR geometry is the study of the intrinsic geometry of boundaries of domains in complex manifolds.",
+				"Differential topology is the study of (global) geometric invariants without a metric or symplectic form. It starts from the natural operations such as Lie derivative of natural vector bundles and de Rham differential of forms. Beside Lie algebroids, also Courant algebroids start playing a more important role."
+			],
+			"color": "dim|0.40712 gray|0.40712 dim|0.40712 grey|0.40712 gray|0.29337 grey|0.29337 dark|0.16339 gray|0.16339 dark|0.16339 grey|0.16339 silver|0.066733 light|0.031375 gray|0.031375 light|0.031375 grey|0.031375 gainsboro|0.021236 white|0.0038849 smoke|0.0038849  "
+		}
+	}
+}

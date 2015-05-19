@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "95c1ce5737f65af8a728176e6753bb5ad145085f04016d5a79ec717ff8ee4ae0",
+			"url": "https://upload.wikimedia.org/math/4/3/f/43fa56c33647611052b48b955ef63a71.png",
+			"previous": [
+				"and the derivative with respect to angle is",
+				"this path vector can be conveniently written in complex exponential form"
+			],
+			"after": [
+				"So the torque, the rate of change of work W, due to a force F, is",
+				"Unlike the cross product description of torque, , the geometric algebra description does not introduce a vector in the normal direction; a vector that does not exist in two and that is not unique in greater than three dimensions. The unit bivector describes the plane and the orientation of the rotation, and the sense of the rotation is relative to the angle between the vectors and ."
+			],
+			"color": "dim|0.38808 gray|0.38808 dim|0.38808 grey|0.38808 gray|0.29287 grey|0.29287 dark|0.17583 gray|0.17583 dark|0.17583 grey|0.17583 silver|0.07185 light|0.035169 gray|0.035169 light|0.035169 grey|0.035169 gainsboro|0.023626 white|0.0033585 smoke|0.0033585  "
+		}
+	}
+}

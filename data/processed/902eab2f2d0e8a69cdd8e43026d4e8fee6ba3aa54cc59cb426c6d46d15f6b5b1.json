@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "902eab2f2d0e8a69cdd8e43026d4e8fee6ba3aa54cc59cb426c6d46d15f6b5b1",
+			"url": "https://upload.wikimedia.org/math/3/0/f/30f958353d44bed0d2e7f3bd2c872797.png",
+				"previous": "If B exists, it is unique and is called the inverse matrix of A, denoted Aâ1.",
+				"after": "A symmetric nÃn-matrix is called positive-definite (respectively negative-definite; indefinite), if for all nonzero vectors xÂ âÂ Rn the associated quadratic form given by",
+			"color": "dark|0.25884 gray|0.25884 dark|0.25884 grey|0.25884 gray|0.23848 grey|0.23848 dim|0.23324 gray|0.23324 dim|0.23324 grey|0.23324 silver|0.13108 light|0.059921 gray|0.059921 light|0.059921 grey|0.059921 gainsboro|0.043143 white|0.012843 smoke|0.012843 linen|0.0036466 lavender|0.0032358 blush|0.0032358 alice|0.0032185 blue|0.0032185 ghost|0.0032041 white|0.0032041 sea|0.0031547 shell|0.0031547 snow|0.0031115 white|0.0026983  "
+		}
+	}
+}

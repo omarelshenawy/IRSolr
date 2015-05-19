@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "66ac40135bb525f4f70071d7fffceb9142a1b32b27f06a59c8c66d7836eb183c",
+			"url": "https://upload.wikimedia.org/math/2/1/6/21671b816ceee7af00799848030b8859.png",
+			"previous": [
+				"Example: If a species of bacteria doubles every ten minutes, starting out with only one bacterium, how many bacteria would be present after one hour? The question implies aÂ =Â 1, bÂ =Â 2 and ÏÂ =Â 10Â min.",
+				"If Ï > 0 and b > 1, then x has exponential growth. If Ï < 0 and b > 1, or Ï > 0 and 0 < b < 1, then x has exponential decay."
+			],
+				"after": "After one hour, or six ten-minute intervals, there would be sixty-four bacteria.",
+			"color": "dim|0.40956 gray|0.40956 dim|0.40956 grey|0.40956 gray|0.23984 grey|0.23984 dark|0.14548 gray|0.14548 dark|0.14548 grey|0.14548 black|0.093986 silver|0.057713 light|0.025791 gray|0.025791 light|0.025791 grey|0.025791 gainsboro|0.017538  "
+		}
+	}
+}

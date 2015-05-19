@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c927028be3b598e8bf824cf33cb138d46ae4a7766a372fe7d44181405820653",
+			"url": "https://upload.wikimedia.org/math/4/b/3/4b39b2f73955f7c4777a39a84c85a046.png",
+			"previous": [
+				"where:",
+				"In subsonic flow the Mach meter can be calibrated according to:",
+				"Some older mechanical Machmeters use an altitude aneroid and an airspeed capsule which together convert pitot-static pressure into Mach number. Modern electronic Machmeters use information from an air data computer system."
+			],
+				"after": "Note that the inputs required are impact pressure (or total pressure) and static pressure. Air temperature input is not required.",
+			"color": "dark|0.31721 gray|0.31721 dark|0.31721 grey|0.31721 silver|0.20537 light|0.13376 gray|0.13376 light|0.13376 grey|0.13376 gray|0.11068 grey|0.11068 gainsboro|0.10199 white|0.024242 smoke|0.024242 lavender|0.01397 blush|0.01397 alice|0.013552 blue|0.013552 ghost|0.013202 white|0.013202 sea|0.012953 shell|0.012953 snow|0.012647 linen|0.012312 white|0.010126 mint|0.0076816 cream|0.0076816 floral|0.0048883 white|0.0048883 azure|0.0040154  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "62651464c307438fd2806233dbc1c39f72eef808896645ef726c214134856f5c",
+			"url": "https://upload.wikimedia.org/math/4/5/6/45644f1e5cee58291c40e338b35f52a6.png",
+			"previous": [
+				"with",
+				"in a form of a power series"
+			],
+			"after": [
+				"are the Z-transform of the function g(s) and M(n + 1) is the Mellin transform of the Kernel.",
+				"Certain homogeneous linear integral equations can be viewed as the continuum limit of eigenvalue equations. Using index notation, an eigenvalue equation can be written as"
+			],
+			"color": "dim|0.39134 gray|0.39134 dim|0.39134 grey|0.39134 gray|0.27966 grey|0.27966 dark|0.18032 gray|0.18032 dark|0.18032 grey|0.18032 silver|0.077611 light|0.032891 gray|0.032891 light|0.032891 grey|0.032891 gainsboro|0.022689 white|0.0041564 smoke|0.0041564  "
+		}
+	}
+}

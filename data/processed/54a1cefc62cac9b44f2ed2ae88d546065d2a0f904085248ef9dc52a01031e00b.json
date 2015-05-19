@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "54a1cefc62cac9b44f2ed2ae88d546065d2a0f904085248ef9dc52a01031e00b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NAD%2B_phys_alt.svg/220px-NAD%2B_phys_alt.svg.png",
+				"previous": "When bound to a protein, NAD+ and NADH are usually held within a structural motif known as the Rossmann fold.[38] The motif is named after Michael Rossmann who was the first scientist to notice how common this structure is within nucleotide-binding proteins.[39] This fold contains three or more parallel beta strands linked by two alpha helices in the order beta-alpha-beta-alpha-beta. This forms a beta sheet flanked by a layer of alpha helices on each side. Because each Rossmann fold binds one nucleotide, binding domains for NAD+ consist of two paired Rossmann folds, with each fold binding one of the two nucleotides of the cofactor.[39] However, this fold is not universal among NAD-dependent enzymes, since a class of bacterial enzymes involved in amino acid metabolism have recently been discovered that bind the coenzyme, but lack this motif.[40]",
+				"after": "When bound in the active site of an oxidoreductase, the nicotinamide ring of the coenzyme is positioned so that it can accept a hydride from the other substrate. Depending on the enzyme, the hydride donor is positioned either \"above\" or \"below\" the plane of the planar C4 carbon, as defined in the figure. Class A oxidoreductases transfer the atom from above; class B enzymes transfer the it from below. Since the C4 carbon that accepts the hydrogen is prochiral, this can be exploited in enzyme kinetics to give information about the enzyme's mechanism. This is done by mixing an enzyme with a substrate that has deuterium atoms substituted for the hydrogens, so the enzyme will reduce NAD+ by transferring deuterium rather than hydrogen. In this case, an enzyme can produce one of two stereoisomers of NADH.[41]",
+			"color": "dim|0.35172 gray|0.35172 dim|0.35172 grey|0.35172 gray|0.25544 grey|0.25544 dark|0.20698 gray|0.20698 dark|0.20698 grey|0.20698 black|0.15917 silver|0.025802  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0d101ea246e21035af9d76a9f84d44136825f9e28061dc59cdbe6f108db63457",
+			"url": "https://upload.wikimedia.org/math/0/d/f/0dfecbb67265dd8a028f89ab85ebaae3.png",
+				"previous": "If a membrane is stretched over a curve C that forms the boundary of a domain D in the plane, its vibrations are governed by the wave equation",
+				"after": "if t>0 and (x,y) is in D. The boundary condition is u(t,x,y) = 0 if (x,y) is on C. The method of separation of variables leads to the form",
+			"color": "dim|0.29739 gray|0.29739 dim|0.29739 grey|0.29739 black|0.24788 gray|0.20793 grey|0.20793 dark|0.12564 gray|0.12564 dark|0.12564 grey|0.12564 silver|0.056177 light|0.029069 gray|0.029069 light|0.029069 grey|0.029069 gainsboro|0.02061 white|0.003872 smoke|0.003872  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "44bee27b9d2a2763e4c490325d0c032a16e78f97dbb83e2f8c573d2056a09fe0",
+			"url": "https://upload.wikimedia.org/math/b/a/c/bac665d7791fd8f66e61bd714b0e3cb9.png",
+				"previous": "The phase of water (i.e., whether it assumes the form of a solid, liquid, or gas) is determined by its temperature and pressure. For example, in the case of liquid-gas transition, at each pressure there is a special âtransition temperatureâ such that if the sample temperature is even a little above , the sample will be a gas, but, if the sample temperature is even a little below , the sample will be a liquid; see phase transition. For example, at the standard atmospheric pressure, is 100Â Â°CÂ =Â 212Â Â°F. The transition temperature decreases with decreasing pressure (which explains why water boils at lower temperatures at higher altitudes and at higher temperatures in a pressure cooker; see here for more information). In the case of water vapor in air, the corresponding to the partial pressure of water vapor is called the dew point. (The solidâliquid transition also happens around a specific transition temperature called the melting point. For most substances, the melting point also decreases with decreasing pressure, although water ice in particular - in its Ih form, which is the most familiar one - is a prominent exception to this rule.)",
+				"after": "Here we follow the discussion in Ref.[3] To first approximation, the formation of vortex cores is thermodynamically an adiabatic process, i.e., one with no exchange of heat. In such a process, the drop in pressure is accompanied by a drop in temperature, according to the equation",
+			"color": " "
+		}
+	}
+}

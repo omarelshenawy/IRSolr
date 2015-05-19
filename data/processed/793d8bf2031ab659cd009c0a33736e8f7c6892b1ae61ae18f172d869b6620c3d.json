@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "793d8bf2031ab659cd009c0a33736e8f7c6892b1ae61ae18f172d869b6620c3d",
+			"url": "https://upload.wikimedia.org/math/f/c/6/fc6229b21025ae6c3bc17d7caffb90af.png",
+				"previous": "Completing the task of following the formal procedure results in generating this classic set of five dimensionless parameters for turbomachinery. Full similitude is achieved when each of the 5 Pi-parameters are equivalent. This of course would mean the two turbomachines being compared are geometrically similar and running at the same operating point.",
+				"after": "Turbomachinery analysts gain tremendous insight into performance by comparisons of these 5 parameters with efficiencies and loss coefficients which are also dimensionless. In general application, the flow coefficient and head coefficient are considered of primary importance. Generally, for centrifugal compressors, the velocity coefficient is of secondary importance while the Reynolds coefficient is of tertiary importance. In contrast, as expected for pumps, the Reynolds number becomes of secondary importance and the velocity coefficient almost irrelevant. It may be found interesting that the speed coefficient may be chosen to define the y-axis of Figure 1.1, while at the same time the Reynolds coefficient may be chosen to define the z-axis.",
+			"color": "dim|0.43241 gray|0.43241 dim|0.43241 grey|0.43241 gray|0.37116 grey|0.37116 dark|0.15483 gray|0.15483 dark|0.15483 grey|0.15483 silver|0.028989 light|0.0088909 gray|0.0088909 light|0.0088909 grey|0.0088909 gainsboro|0.0037207  "
+		}
+	}
+}

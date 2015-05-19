@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "384a78215b100f93542670cc53d65e4a1f7d80810078f52e70830365695dbcf2",
+			"url": "https://upload.wikimedia.org/math/a/f/9/af94b57423925cfcc05e5e19bd5d8d50.png",
+			"previous": [
+				"Rearrange this equation to obtain",
+				"The figure on the right shows the effect of this transformation on point coordinates in the plane. The eigenvectors v of this transformation satisfy the equation,"
+			],
+			"after": [
+				"which has a solution only when its determinant | A â Î»I | equals zero.",
+				"Set the determinant to zero to obtain the polynomial equation,"
+			],
+			"color": "dim|0.39786 gray|0.39786 dim|0.39786 grey|0.39786 gray|0.28096 grey|0.28096 dark|0.16508 gray|0.16508 dark|0.16508 grey|0.16508 silver|0.074175 light|0.039106 gray|0.039106 light|0.039106 grey|0.039106 gainsboro|0.027578 white|0.0038613 smoke|0.0038613  "
+		}
+	}
+}

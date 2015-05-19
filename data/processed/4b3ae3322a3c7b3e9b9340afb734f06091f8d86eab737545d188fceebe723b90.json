@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4b3ae3322a3c7b3e9b9340afb734f06091f8d86eab737545d188fceebe723b90",
+			"url": "https://upload.wikimedia.org/math/4/3/1/431bf0fb45f5fe349b70a084b2c0ef3c.png",
+				"previous": "Double differencing[116] computes the difference of receiverÂ 1's satellite difference from that of receiverÂ 2. This approximately eliminates satellite clock errors. This double difference is:",
+				"after": "Triple differencing[117] subtracts the receiver difference from timeÂ 1 from that of timeÂ 2. This eliminates the ambiguity associated with the integral number of wavelengths in carrier phase provided this ambiguity does not change with time. Thus the triple difference result eliminates practically all clock bias errors and the integer ambiguity. Atmospheric delay and satellite ephemeris errors have been significantly reduced. This triple difference is:",
+			"color": "dim|0.37839 gray|0.37839 dim|0.37839 grey|0.37839 gray|0.23544 grey|0.23544 dark|0.14844 gray|0.14844 dark|0.14844 grey|0.14844 black|0.094987 silver|0.072765 light|0.036275 gray|0.036275 light|0.036275 grey|0.036275 gainsboro|0.024721  "
+		}
+	}
+}

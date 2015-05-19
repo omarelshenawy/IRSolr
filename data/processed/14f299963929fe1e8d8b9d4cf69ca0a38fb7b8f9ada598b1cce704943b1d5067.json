@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "14f299963929fe1e8d8b9d4cf69ca0a38fb7b8f9ada598b1cce704943b1d5067",
+			"url": "https://upload.wikimedia.org/math/a/3/f/a3f50d5a6a612f6945ad9da6e3ab8b7b.png",
+			"previous": [
+				"By the first law of thermodynamics:",
+				"Where is the specific enthalpy drop of steam in the nozzle."
+			],
+			"after": [
+				"Nozzle efficiency is given by = , where the enthalpy (in J/Kg) of steam at the entrance of the nozzle is and the enthalpy of steam at the exit of the nozzle is .",
+				"The ratio of the cosines of the blade angles at the outlet and inlet can be taken and denoted . The ratio of steam velocities relative to the rotor speed at the outlet to the inlet of the blade is defined by the friction coefficient ."
+			],
+			"color": "black|0.36925 dim|0.27212 gray|0.27212 dim|0.27212 grey|0.27212 gray|0.17785 grey|0.17785 dark|0.096318 gray|0.096318 dark|0.096318 grey|0.096318 silver|0.040854 light|0.01968 gray|0.01968 light|0.01968 grey|0.01968 gainsboro|0.013498  "
+		}
+	}
+}

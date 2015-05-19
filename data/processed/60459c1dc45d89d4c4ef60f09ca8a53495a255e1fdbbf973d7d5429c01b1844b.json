@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "60459c1dc45d89d4c4ef60f09ca8a53495a255e1fdbbf973d7d5429c01b1844b",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Beowulf.jpg/170px-Beowulf.jpg",
+			"previous": [],
+				"after": "A cluster is a group of loosely coupled computers that work together closely, so that in some respects they can be regarded as a single computer.[26] Clusters are composed of multiple standalone machines connected by a network. While machines in a cluster do not have to be symmetric, load balancing is more difficult if they are not. The most common type of cluster is the Beowulf cluster, which is a cluster implemented on multiple identical commercial off-the-shelf computers connected with a TCP/IP Ethernet local area network.[27] Beowulf technology was originally developed by Thomas Sterling and Donald Becker. The vast majority of the TOP500 supercomputers are clusters.[28]",
+			"color": "black|0.2481 dim|0.2271 gray|0.2271 dim|0.2271 grey|0.2271 gray|0.17706 grey|0.17706 dark|0.13293 gray|0.13293 dark|0.13293 grey|0.13293 silver|0.071984 light|0.042881 gray|0.042881 light|0.042881 grey|0.042881 gainsboro|0.032112 linen|0.0099745 white|0.0087843 smoke|0.0087843  "
+		}
+	}
+}

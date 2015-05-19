@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "9aefe35c0d9553295dcb421feb5682451801aba1526ff5db2c44227805aa04d2",
+			"url": "https://upload.wikimedia.org/math/2/5/9/259054be82151ea69f3327490b69dd19.png",
+			"previous": [
+				"Resolving Forces in the figure[1] -",
+				"In this theory, a small element (dr) is taken at a distance r from the root of the blade and all the forces acting on the element are analysed to get a solution. It is assumed that the flow through each section of small radial thickness dr is assumed to be independent of the flow through other elements.[1][4]"
+			],
+			"after": [
+				"Lift Coefficient (CL) and Drag Coefficient (CD) are given as -",
+				"Also from the figure [1]-"
+			],
+			"color": "dim|0.40854 gray|0.40854 dim|0.40854 grey|0.40854 gray|0.27876 grey|0.27876 dark|0.16351 gray|0.16351 dark|0.16351 grey|0.16351 silver|0.072158 light|0.035924 gray|0.035924 light|0.035924 grey|0.035924 gainsboro|0.024987 white|0.0040929 smoke|0.0040929  "
+		}
+	}
+}

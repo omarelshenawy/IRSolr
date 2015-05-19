@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "48a96c2f6859bbb3133ca038fe2006f8376e92cb53864b5585c6a7374527aa56",
+			"url": "https://upload.wikimedia.org/math/a/d/4/ad40c67c2b6f9eb8720e998140673939.png",
+			"previous": [],
+			"after": [
+				"where and are the velocity components, is the density, is the pressure, and is the kinematic viscosity of the fluid at a point.",
+				"The approximation states that, for a sufficiently high Reynolds number the flow over a surface can be divided into an outer region of inviscid flow unaffected by viscosity (the majority of the flow), and a region close to the surface where viscosity is important (the boundary layer). Let and be streamwise and transverse (wall normal) velocities respectively inside the boundary layer. Using scale analysis, it can be shown that the above equations of motion reduce within the boundary layer to become"
+			],
+			"color": "gray|0.30157 grey|0.30157 dim|0.27664 gray|0.27664 dim|0.27664 grey|0.27664 dark|0.2281 gray|0.2281 dark|0.2281 grey|0.2281 silver|0.099538 light|0.04538 gray|0.04538 light|0.04538 grey|0.04538 gainsboro|0.030866 white|0.0046412 smoke|0.0046412  "
+		}
+	}
+}

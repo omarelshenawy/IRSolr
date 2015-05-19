@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "3cd090cf599d6821493d41aed89f0bb90d0c6b9b014da7aee6ca88d2caf8f3fb",
+			"url": "https://upload.wikimedia.org/math/9/c/d/9cd7a600b187da351f13b7ec10a93fb8.png",
+				"previous": "A more sophisticated example is the following. Consider the unit circle which is described by the ordinary (Cartesian) equation",
+			"after": [
+				"This equation can be parameterized as follows:",
+				"With the Cartesian equation it is easier to check whether a point lies on the circle or not. With the parametric version it is easier to obtain points on a plot."
+			],
+			"color": "dim|0.35193 gray|0.35193 dim|0.35193 grey|0.35193 gray|0.28629 grey|0.28629 dark|0.18599 gray|0.18599 dark|0.18599 grey|0.18599 silver|0.080412 light|0.040918 gray|0.040918 light|0.040918 grey|0.040918 gainsboro|0.029517 white|0.005679 smoke|0.005679 linen|0.0031733  "
+		}
+	}
+}

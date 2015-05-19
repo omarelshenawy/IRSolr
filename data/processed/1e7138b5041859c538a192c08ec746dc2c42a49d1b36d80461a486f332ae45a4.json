@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e7138b5041859c538a192c08ec746dc2c42a49d1b36d80461a486f332ae45a4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/160px-Caesar3.svg.png",
+				"previous": "Portal:Technology/Selected articles/11",
+				"after": "In cryptography, a Caesar cipher is one of the simplest and most well-known classical encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions further down the alphabet. For example, with a shift of 3, A would be replaced by D, B would become E, and so on. The method is named after Julius Caesar, who used it to communicate with his generals. The encryption step performed by a Caesar cipher is often incorporated as part of more complex schemes, such as the VigenÃ¨re cipher, and still has modern application in the ROT13 system. As for all single alphabet substitution ciphers, the Caesar cipher is easily broken and in practice offers no communication security.",
+			"color": "white|0.086172 smoke|0.086172 snow|0.080148 ghost|0.080119 white|0.080119 alice|0.079592 blue|0.079592 white|0.07876 sea|0.078724 shell|0.078724 mint|0.075522 cream|0.075522 lavender|0.073931 blush|0.073931 floral|0.070696 white|0.070696 azure|0.068706 gray|0.040667 grey|0.040667 dim|0.038236 gray|0.038236 dim|0.038236 grey|0.038236 dark|0.033485 gray|0.033485 dark|0.033485 grey|0.033485 gainsboro|0.032489 light|0.031888 gray|0.031888 light|0.031888 grey|0.031888 silver|0.028257 linen|0.013659 ivory|0.0055401 black|0.0034096  "
+		}
+	}
+}

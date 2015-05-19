@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "2859d7d6678002f6977795c9bdefaa1c39968ce78aea6f3036f729f1a3c046ca",
+			"url": "https://upload.wikimedia.org/math/a/4/f/a4fc90b90547e4b66f7f4287fd407d7b.png",
+			"previous": [
+				"where",
+				"one has",
+				"For example, for the iterative equation",
+				"One cannot always deduce the analytic form of , which means the nth iteration of . (The superscript can be extended to negative numbers, referring to the iteration of the inverse of if the inverse exists.) But there are some analytically tractable cases."
+			],
+			"after": [
+				"So by induction,",
+				"can be obtained, where can be easily computed as",
+				"Finally, we have"
+			],
+			"color": "black|0.33469 dim|0.26043 gray|0.26043 dim|0.26043 grey|0.26043 gray|0.17977 grey|0.17977 dark|0.11542 gray|0.11542 dark|0.11542 grey|0.11542 silver|0.051864 light|0.026109 gray|0.026109 light|0.026109 grey|0.026109 gainsboro|0.01851 white|0.0035082 smoke|0.0035082  "
+		}
+	}
+}

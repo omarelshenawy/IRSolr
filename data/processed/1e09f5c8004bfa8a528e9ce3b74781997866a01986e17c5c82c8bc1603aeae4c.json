@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e09f5c8004bfa8a528e9ce3b74781997866a01986e17c5c82c8bc1603aeae4c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pressure_footprint_b.jpg/400px-Pressure_footprint_b.jpg",
+			"previous": [],
+				"after": "The flow around a lifting airfoil must satisfy Newton's second law, or conservation of momentum, both locally at every point in the flow field, and in an integrated sense over any extended region of the flow. For an extended region, Newton's second law takes the form of the momentum theorem for a control volume, where a control volume can be any region of the flow chosen for analysis. The momentum theorem states that the integrated force exerted at the boundaries of the control volume (a surface integral), is equal to the integrated time rate of change (material derivative) of the momentum of fluid parcels passing through the interior of the control volume (a volume integral).[not in citation given (See discussion.)] For a steady flow, the volume integral can be replaced by the net surface integral of the flux of momentum through the boundary.[not in citation given (See discussion.)][100]",
+			"color": " "
+		}
+	}
+}

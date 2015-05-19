@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "77f3f3166290b8114e60d49b65f4b602cbc21a4a77cba97274f2f93c89f30fd2",
+			"url": "https://upload.wikimedia.org/math/1/9/8/198b1f6cc5f5c501b3acfa72b9a91b35.png",
+				"previous": "The classification theorem of closed surfaces states that any connected closed surface is homeomorphic to some member of one of these three families:",
+				"after": "The surfaces in the first two families are orientable. It is convenient to combine the two families by regarding the sphere as the connected sum of 0 tori. The number g of tori involved is called the genus of the surface. The sphere and the torus have Euler characteristics 2 and 0, respectively, and in general the Euler characteristic of the connected sum of g tori is 2 â 2g.",
+			"color": "dim|0.32179 gray|0.32179 dim|0.32179 grey|0.32179 black|0.24021 gray|0.22672 grey|0.22672 dark|0.12022 gray|0.12022 dark|0.12022 grey|0.12022 silver|0.047877 light|0.020712 gray|0.020712 light|0.020712 grey|0.020712 gainsboro|0.014095  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3703bc06bcde6088402799d5b87d6c315065b4782a17679cff1649ef426d74ce",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BlueGeneL_cabinet.jpg/78px-BlueGeneL_cabinet.jpg",
+				"previous": "Portal:Technology/Selected articles/14",
+				"after": "Parallel computing is a form of computation in which many calculations are carried out simultaneously, operating on the principle that large problems can often be divided into smaller ones, which are then solved concurrently. There are several different forms of parallel computing: bit-level-, instruction-level-, data-, and task parallelism. As power consumption by computers has become a concern in recent years, parallel computing has become the dominant paradigm in computer architecture, mainly in the form of multicore processors. Parallel computers can be roughly classified according to the level at which the hardware supports parallelismâwith multi-core and multi-processor computers having multiple processing elements within a single machine, while clusters, MPPs, and grids use multiple computers to work on the same task. Parallel computer programs are more difficult to write than sequential ones, because concurrency introduces several new classes of potential software bugs, of which race conditions are the most common. Communication and synchronization between the different subtasks are typically one of the greatest obstacles to getting good parallel program performance. The speed-up of a program as a result of parallelization is given by Amdahl's law.",
+			"color": "dim|0.35676 gray|0.35676 dim|0.35676 grey|0.35676 gray|0.16674 grey|0.16674 dark|0.14605 gray|0.14605 dark|0.14605 grey|0.14605 black|0.11968 silver|0.054516 slate|0.040191 gray|0.040191 light|0.033192 slate|0.033192 gray|0.033192 dark|0.014772 slate|0.014772 gray|0.014772 light|0.013143 steel|0.013143 blue|0.013143 light|0.011654 gray|0.011654 light|0.011654 grey|0.011654 tan|0.010818  "
+		}
+	}
+}

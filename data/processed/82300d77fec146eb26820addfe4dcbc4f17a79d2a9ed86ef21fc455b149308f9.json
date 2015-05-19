@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "82300d77fec146eb26820addfe4dcbc4f17a79d2a9ed86ef21fc455b149308f9",
+			"url": "https://upload.wikimedia.org/math/9/5/b/95be3b202f708368a7213cddc1d1bdc0.png",
+				"previous": "Recall that in the Kolmogorov axiomatization, measurable sets are the sets which have a probability or, in other words, the sets corresponding to yes/no questions that have a probabilistic answer.",
+				"after": "In measure theory, if we have a countably infinite collection of measurable sets, then the union and intersection of all of them is a measurable set. For our purposes, this means that yes/no questions that depend on countably many coordinates have a probabilistic answer.",
+			"color": " "
+		}
+	}
+}

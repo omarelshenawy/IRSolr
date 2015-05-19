@@ -1,0 +1,15 @@
+{
+	"add": {
+		"doc": {
+			"id": "3b552715beab82c4a062892bbb01eec54df21238e8cdfc645e7a39bfd6c0bd51",
+			"url": "https://upload.wikimedia.org/math/3/1/e/31e00b15122ea152cc2a7e627d51f286.png",
+			"previous": [
+				"To find the length of, for example, February 2000 the calculation is",
+				"d=30+",
+				"The algorithm utilises the integral or floor function: thus is that part of the number x which lies to the left of the decimal point. It is only necessary to work through the complete function when calculating the length of February in a year which is divisible by 100 without remainder. When calculating the length of February in any other year it is only necessary to evaluate the terms to the left of the fifth + sign. When calculating the length of any other month it is only necessary to evaluate the terms to the left of the third - sign."
+			],
+				"after": "The origins of English naming used by the Gregorian calendar:",
+			"color": "black|0.31578 dim|0.23881 gray|0.23881 dim|0.23881 grey|0.23881 gray|0.18939 grey|0.18939 dark|0.17717 gray|0.17717 dark|0.17717 grey|0.17717 silver|0.073039 light|0.0051248 gray|0.0051248 light|0.0051248 grey|0.0051248  "
+		}
+	}
+}

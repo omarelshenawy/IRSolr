@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6b416b800fa9782a814bd52a9061e34651fcbf242b75f659e507e38e9033fd13",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lift_curve.svg/244px-Lift_curve.svg.png",
+			"previous": [
+				"Depending on the aircraft's design, a stall can expose extremely adverse properties of balance and control, in particular in a prototype.[citation needed]",
+				"Any yaw of the aircraft as it enters the stall regime can result in autorotation, which is also sometimes referred to as a 'spin'. Because air no longer flows smoothly over the wings during a stall, aileron control of roll becomes less effective, whilst simultaneously the tendency for the ailerons to generate adverse yaw increases. This increases the lift from the advancing wing and accentuates the probability of the aircraft to enter into a spin.[citation needed]"
+			],
+				"after": "The graph shows that the greatest amount of lift is produced as the critical angle of attack is reached (which in early-20th century aviation was called the \"burble point\"). This angle is 17.5 degrees in this case but changes from airfoil to airfoil. In particular, for aerodynamically thick airfoils (thickness to chord ratios of around 10%), the critical angle is higher than with a thin airfoil of the same camber. Symmetric airfoils have lower critical angles (but also work efficiently in inverted flight). The graph shows that, as the angle of attack exceeds the critical angle, the lift produced by the airfoil decreases.",
+			"color": "lavender|0.16706 white|0.075429 smoke|0.075429 ghost|0.073358 white|0.073358 snow|0.072962 white|0.072697 alice|0.070409 blue|0.070409 azure|0.069486 mint|0.068605 cream|0.068605 sea|0.067251 shell|0.067251 floral|0.065394 white|0.065394 corn|0.056806 flower|0.056806 blue|0.056806 lavender|0.049792 blush|0.049792 ivory|0.024833 linen|0.012936 old|0.0096121 lace|0.0096121 dark|0.0090817 gray|0.0090817 dark|0.0090817 grey|0.0090817 royal|0.0071731 blue|0.0071731 silver|0.0059093 light|0.0041337 gray|0.0041337 light|0.0041337 grey|0.0041337 gray|0.0037772 grey|0.0037772 gainsboro|0.0036349  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1dc81e6e91bc358cf35cd13cbe4c6828d2dbdb3f3b41730f07233d6798153635",
+			"url": "https://upload.wikimedia.org/math/8/a/3/8a32dbbacc67e5d4dce3083011da2cde.png",
+				"previous": "The above lift equation neglects the skin friction forces, which typically have a negligible contribution to the lift compared to the pressure forces. By using the streamwise vector i parallel to the freestream in place of k in the integral, we obtain an expression for the pressure drag Dp (which includes the pressure portion of the profile drag and, if the wing is three-dimensional, the induced drag). If we use the spanwise vector j, we obtain the side force Y.",
+				"after": "The validity of this integration generally requires the airfoil shape to be a closed curve that is piecewise smooth.",
+			"color": "dim|0.32411 gray|0.32411 dim|0.32411 grey|0.32411 gray|0.31075 grey|0.31075 dark|0.18705 gray|0.18705 dark|0.18705 grey|0.18705 silver|0.08792 light|0.041716 gray|0.041716 light|0.041716 grey|0.041716 gainsboro|0.030495 white|0.0034588 smoke|0.0034588  "
+		}
+	}
+}

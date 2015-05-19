@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "27fb04ac5abff293d65bb1f5496b4cd9f56fdf0dc990403a86fc7217682df912",
+			"url": "https://upload.wikimedia.org/math/1/1/2/112cbe9e6d80c9e3823b7c811b81e77e.png",
+				"previous": "In the corresponding map",
+				"after": "the derivatives of the function f appear linearly (as opposed to fâ²â²(x)2, for example). Since differentiation is a linear procedure (i.e., (f + g)â² = fâ² + gââ² and (cÂ·f)â² = cÂ·fâ² for a constant c) this assignment is linear, called a linear differential operator. In particular, the solutions to the differential equation D(f) = 0 form a vector space (over R or C).",
+			"color": "dim|0.266 gray|0.266 dim|0.266 grey|0.266 gray|0.24733 grey|0.24733 black|0.23864 dark|0.18002 gray|0.18002 dark|0.18002 grey|0.18002 silver|0.047542 light|0.012964 gray|0.012964 light|0.012964 grey|0.012964 gainsboro|0.0074985  "
+		}
+	}
+}

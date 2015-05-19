@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "1c9437223dcc4faac63858c5e66ec66742fa019bb20be497a2cc84848afe321a",
+			"url": "https://upload.wikimedia.org/math/5/3/d/53d6774ff7738e8a221af660e4fdf72a.png",
+			"previous": [
+				"Now, we add each F(xi) along with its additive inverse, so that the resulting quantity is equal:",
+				"It follows that"
+			],
+			"after": [
+				"The above quantity can be written as the following sum:",
+				"Next, we employ the mean value theorem. Stated briefly,"
+			],
+			"color": "gray|0.2794 grey|0.2794 dim|0.23498 gray|0.23498 dim|0.23498 grey|0.23498 dark|0.22009 gray|0.22009 dark|0.22009 grey|0.22009 silver|0.11454 light|0.063557 gray|0.063557 light|0.063557 grey|0.063557 gainsboro|0.049153 white|0.0091455 smoke|0.0091455 linen|0.0056949 lavender|0.0050147 blush|0.0050147 alice|0.0049916 blue|0.0049916 ghost|0.0047407 white|0.0047407 sea|0.0031889 shell|0.0031889 snow|0.0031189  "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "0a9fdc21cd4c2074b1954b7c3f29d384a371ad87b80b983aca90143dabfe1d80",
+			"url": "https://upload.wikimedia.org/math/6/4/a/64a0a0a22a378b4604edd2c95188a9bd.png",
+			"previous": [],
+			"after": [
+				"One may require that at least one set E has finite measure. Then the empty set automatically has measure zero because of countable additivity, because , so .",
+				"If only the second and third conditions of the definition of measure above are met, and Î¼ takes on at most one of the values Â±â, then Î¼ is called a signed measure."
+			],
+			"color": "dim|0.36434 gray|0.36434 dim|0.36434 grey|0.36434 gray|0.29849 grey|0.29849 dark|0.19556 gray|0.19556 dark|0.19556 grey|0.19556 silver|0.072374 light|0.034721 gray|0.034721 light|0.034721 grey|0.034721 gainsboro|0.023168  "
+		}
+	}
+}

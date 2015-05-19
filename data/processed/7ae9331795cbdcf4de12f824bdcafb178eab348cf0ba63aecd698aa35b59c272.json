@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7ae9331795cbdcf4de12f824bdcafb178eab348cf0ba63aecd698aa35b59c272",
+			"url": "https://upload.wikimedia.org/math/4/3/0/430e7de2484db3b5a632379437c6cef7.png",
+				"previous": "A measure can be extended to a complete one by considering the Ï-algebra of subsets Y which differ by a negligible set from a measurable set X, that is, such that the symmetric difference of X and Y is contained in a null set. One defines Î¼(Y) to equal Î¼(X).",
+				"after": "That is, we define the sum of the ri to be the supremum of all the sums of finitely many of them.",
+			"color": "gray|0.30667 grey|0.30667 dark|0.23336 gray|0.23336 dark|0.23336 grey|0.23336 dim|0.22747 gray|0.22747 dim|0.22747 grey|0.22747 silver|0.11299 light|0.059615 gray|0.059615 light|0.059615 grey|0.059615 gainsboro|0.042325 white|0.0049681 smoke|0.0049681  "
+		}
+	}
+}

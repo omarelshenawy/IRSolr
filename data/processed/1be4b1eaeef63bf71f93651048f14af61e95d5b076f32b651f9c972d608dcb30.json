@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1be4b1eaeef63bf71f93651048f14af61e95d5b076f32b651f9c972d608dcb30",
+			"url": "https://upload.wikimedia.org/math/6/9/e/69eb95d67418a08280dbb7d38220a99d.png",
+				"previous": "For the matrix:",
+				"after": "The roots of this polynomial, and hence the eigenvalues, are 2 and 3. The algebraic multiplicity of each eigenvalue is 2; in other words they are both double roots. On the other hand, the geometric multiplicity of the eigenvalue 2 is only 1, because its eigenspace is spanned by the vector , and is therefore 1-dimensional. Similarly, the geometric multiplicity of the eigenvalue 3 is 1 because its eigenspace is spanned by . Hence, the total algebraic multiplicity of A, denoted , is 4, which is the most it could be for a 4 by 4 matrix. The geometric multiplicity is 2, which is the smallest it could be for a matrix which has two distinct eigenvalues.",
+			"color": "dim|0.46041 gray|0.46041 dim|0.46041 grey|0.46041 gray|0.27112 grey|0.27112 dark|0.1361 gray|0.1361 dark|0.1361 grey|0.1361 silver|0.064718 light|0.035696 gray|0.035696 light|0.035696 grey|0.035696 gainsboro|0.019923  "
+		}
+	}
+}

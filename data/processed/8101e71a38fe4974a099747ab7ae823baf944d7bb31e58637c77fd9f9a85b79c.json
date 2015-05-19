@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "8101e71a38fe4974a099747ab7ae823baf944d7bb31e58637c77fd9f9a85b79c",
+			"url": "https://upload.wikimedia.org/math/3/1/9/319dc380f6d945b874ce4289452b4d66.png",
+				"previous": "This expression generalizes definition (2) and can be taken as the definition. Then using invariance of the interval, equation (4) follows from it in the same way (3) follows from (2), except that here arbitrary coordinate changes are allowed.",
+			"after": [
+				"So we find that being \"at rest\" in a special relativity coordinate system means that proper time and coordinate time are the same.",
+				"Let there now be another observer B who travels in the x direction from (0,0,0,0) for 5 years of coordinate time at 0.866c to (5 years, 4.33 light-years, 0, 0). Once there, B accelerates, and travels in the other spatial direction for 5 years to (10 years, 0, 0, 0). For each leg of the trip, the proper time interval is"
+			],
+			"color": "dim|0.43039 gray|0.43039 dim|0.43039 grey|0.43039 gray|0.27558 grey|0.27558 dark|0.13552 gray|0.13552 dark|0.13552 grey|0.13552 silver|0.061137 black|0.033178 light|0.030296 gray|0.030296 light|0.030296 grey|0.030296 gainsboro|0.020732  "
+		}
+	}
+}

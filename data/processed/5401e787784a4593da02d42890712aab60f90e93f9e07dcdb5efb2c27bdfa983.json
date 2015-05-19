@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "5401e787784a4593da02d42890712aab60f90e93f9e07dcdb5efb2c27bdfa983",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WiKoelsch-Houpsick-110731-EDITED-opera-9.80-ubuntu-9.10-e240613eb74eb4b916076c47dd8b6e10.png/220px-WiKoelsch-Houpsick-110731-EDITED-opera-9.80-ubuntu-9.10-e240613eb74eb4b916076c47dd8b6e10.png",
+			"previous": [
+				"On March 24, 2005, the new wiki was set up under the domain ksh.wikipedia.org.",
+				"In September 2004 already, a request had been made to create a Wikipedia for Ripuarian languages,[4] which spurred a discussion which finally led to the acceptance of the proposal by the Wikimedia Foundations board of trustees two days before chistmass in the same year.[5] Although the Wikipedia is dedicated to all Ripuarian languages, it was - pars pro toto - to be created with the identifyer ksh for the wiki and interlanguage links to it. That was a SIL code, which was later to become an ISO 639-3 code. It refers solely to the Colognian language, the biggest and best documented [6] Ripuarian variety. The ISO 639 joint advisory committee had refused to add ksh to the ISO 639-2,[7] and to create a code for the Ripuarian group at that time."
+			],
+				"after": "When the new wiki was created on the server cluster of the Wikimedia Foundation under the domain ksh.wikipedia.org and was going to be used, a series of outages of the test website delayed copying content from there. Also, it was not possible to transfer data directly from one SQL server to the other, thus the newly developed page export and import feature of MediaWiki[8] had to be used. Several bugs and deficiencies [9] were detected during the process and had to be overcome.[10] Since it was not possible to transfer user accounts and passwords, a volunteer developed and hosted a dual login web page allowing to supply two username/password pairs which were automatically verified against either wiki. If successful, a public list of user name pairs was updated, so the user continuity and proper attribution was guaranteed.[11] Towards the end of April, 2006, the Wikipedia became eventually usable with page data and its history,[12] but cleaning up various remains of the problems left behind by the transition took several more months.",
+			"color": "mint|0.088817 cream|0.088817 white|0.081484 smoke|0.081484 ghost|0.079418 white|0.079418 alice|0.07941 blue|0.07941 snow|0.077124 white|0.075985 sea|0.075525 shell|0.075525 azure|0.074174 floral|0.073637 white|0.073637 lavender|0.070245 blush|0.070245 silver|0.037467 light|0.031109 gray|0.031109 light|0.031109 grey|0.031109 lavender|0.027742 gainsboro|0.025377 honeydew|0.023994 ivory|0.020514 beige|0.019508 dark|0.010983 gray|0.010983 dark|0.010983 grey|0.010983 light|0.0067031 blue|0.0067031 powder|0.0056394 blue|0.0056394 linen|0.0054023 light|0.0041705 steel|0.0041705 blue|0.0041705  "
+		}
+	}
+}

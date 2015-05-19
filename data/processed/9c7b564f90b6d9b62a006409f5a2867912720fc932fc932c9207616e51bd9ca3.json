@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9c7b564f90b6d9b62a006409f5a2867912720fc932fc932c9207616e51bd9ca3",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GA_plane_subspace_and_projection.svg/300px-GA_plane_subspace_and_projection.svg.png",
+				"previous": "Some terms are used in geometric algebra with a meaning that differs from the use of those terms in other fields of mathematics. Some of these are listed here:",
+			"after": [
+				"For any vector a and any invertible vector m,",
+				"where the projection of a onto m (or the parallel part) is"
+			],
+			"color": "orange|0.16235 lime|0.13102 red|0.10254 green|0.097877 yellow|0.097877 medium|0.07522 slate|0.07522 blue|0.07522 medium|0.052822 sea|0.052822 green|0.052822 dark|0.047126 blue|0.047126  "
+		}
+	}
+}

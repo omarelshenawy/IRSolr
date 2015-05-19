@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "1e1ce7b78212a5f5e417864e9dd47ac8b312bcae0f8f21c22c86c244dd0d3986",
+			"url": "https://upload.wikimedia.org/math/f/f/7/ff70697a1598359bbe62acbd6f9a8e65.png",
+				"previous": "Therefore, the vectors and are eigenvectors of , with eigenvalues , and , respectively.",
+			"after": [
+				"Like the geometric multiplicity , we have ; and the sum of over all distinct eigenvalues also cannot exceed . If complex eigenvalues are considered, is exactly .",
+				"It can be proved that the geometric multiplicity of an eigenvalue never exceeds its algebraic multiplicity . Therefore, is at most .[17]"
+			],
+			"color": "dim|0.4088 gray|0.4088 dim|0.4088 grey|0.4088 gray|0.2801 grey|0.2801 dark|0.16369 gray|0.16369 dark|0.16369 grey|0.16369 silver|0.074577 light|0.035926 gray|0.035926 light|0.035926 grey|0.035926 gainsboro|0.024924 white|0.0032062 smoke|0.0032062  "
+		}
+	}
+}

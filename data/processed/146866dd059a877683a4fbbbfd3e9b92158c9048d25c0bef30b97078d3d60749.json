@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "146866dd059a877683a4fbbbfd3e9b92158c9048d25c0bef30b97078d3d60749",
+			"url": "https://upload.wikimedia.org/math/f/4/e/f4e8c129dfc5972dddf09ad5682f0cf6.png",
+			"previous": [
+				"It is convenient, however, to define the degree of the zero polynomial to be negative infinity, ââ, and introduce the arithmetic rules[8]",
+				"Like any constant value, the value 0 can be considered as a (constant) polynomial, called the zero polynomial. It has no nonzero terms, and so, strictly speaking, it has no degree either. As such, its degree is undefined. The propositions for the degree of sums and products of polynomials in the above section do not apply if any of the polynomials involved is the zero polynomial.[7]"
+			],
+				"after": "and",
+			"color": "dim|0.34798 gray|0.34798 dim|0.34798 grey|0.34798 gray|0.22435 grey|0.22435 black|0.16536 dark|0.1415 gray|0.1415 dark|0.1415 grey|0.1415 silver|0.059282 light|0.029063 gray|0.029063 light|0.029063 grey|0.029063 gainsboro|0.020048  "
+		}
+	}
+}

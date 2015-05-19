@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "52f2163171c618e0571fdfb1114023b0573d700e0071179f87d3054560ff36d4",
+			"url": "https://upload.wikimedia.org/math/4/2/8/428bd29aae588c5b39a85e077b32ea06.png",
+				"previous": "The density matrix describing a mixed state is defined to be an operator of the form",
+				"after": "where is the fraction of the ensemble in each pure state The density matrix can be thought of as a way of using the one-particle formalism to describe the behavior of many similar particles by giving a probability distribution (or ensemble) of states that these particles can be found in.",
+			"color": "dim|0.32941 gray|0.32941 dim|0.32941 grey|0.32941 gray|0.27859 grey|0.27859 dark|0.18457 gray|0.18457 dark|0.18457 grey|0.18457 silver|0.094873 light|0.049437 gray|0.049437 light|0.049437 grey|0.049437 gainsboro|0.037454 white|0.005442 smoke|0.005442 linen|0.0031278 lavender|0.0028961 blush|0.0028961 alice|0.0027907 blue|0.0027907  "
+		}
+	}
+}

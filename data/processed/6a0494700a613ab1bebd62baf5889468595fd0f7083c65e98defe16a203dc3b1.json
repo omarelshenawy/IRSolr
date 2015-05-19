@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "6a0494700a613ab1bebd62baf5889468595fd0f7083c65e98defe16a203dc3b1",
+			"url": "https://upload.wikimedia.org/math/2/0/7/2078480bbaff1de6c45d4317efed84fd.png",
+				"previous": "Substituting the above into (1), we get",
+				"after": "We are describing the area of a rectangle, with the width times the height, and we are adding the areas together. Each rectangle, by virtue of the mean value theorem, describes an approximation of the curve section it is drawn over. Also need not be the same for all values of i, or in other words that the width of the rectangles can differ. What we have to do is approximate the curve with n rectangles. Now, as the size of the partitions get smaller and n increases, resulting in more partitions to cover the space, we get closer and closer to the actual area of the curve.",
+			"color": "gray|0.29821 grey|0.29821 dark|0.2441 gray|0.2441 dark|0.2441 grey|0.2441 dim|0.19038 gray|0.19038 dim|0.19038 grey|0.19038 silver|0.12913 light|0.073235 gray|0.073235 light|0.073235 grey|0.073235 gainsboro|0.050534 white|0.0044451 smoke|0.0044451  "
+		}
+	}
+}

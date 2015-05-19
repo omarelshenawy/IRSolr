@@ -1,0 +1,20 @@
+{
+	"add": {
+		"doc": {
+			"id": "1fc1b07a3ae9d7f1d914a3b7027cf9ca99f7911c678649db7c16d37f9963a37d",
+			"url": "https://upload.wikimedia.org/math/2/5/a/25a4dfe2c08ce72a5d7706dc2ddea7ec.png",
+			"previous": [
+				"We want to evaluate the Bernstein polynomial of degree 2 with the Bernstein coefficients",
+				"and",
+				"into"
+			],
+			"after": [
+				"at the point t0.",
+				"We start the recursion with",
+				"and with the second iteration the recursion stops with",
+				"which is the expected Bernstein polynomial of degreeÂ 2."
+			],
+			"color": "black|0.4171 dim|0.22803 gray|0.22803 dim|0.22803 grey|0.22803 gray|0.16008 grey|0.16008 dark|0.1009 gray|0.1009 dark|0.1009 grey|0.1009 silver|0.041504 light|0.020706 gray|0.020706 light|0.020706 grey|0.020706 gainsboro|0.015551 white|0.0037383 smoke|0.0037383  "
+		}
+	}
+}

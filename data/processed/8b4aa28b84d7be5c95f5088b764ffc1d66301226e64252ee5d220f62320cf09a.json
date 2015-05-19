@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "8b4aa28b84d7be5c95f5088b764ffc1d66301226e64252ee5d220f62320cf09a",
+			"url": "https://upload.wikimedia.org/math/f/6/7/f674e91ac2e204842bdccbcf446cb900.png",
+			"previous": [
+				"The moment about the 1/4 chord point will thus be,",
+				"The moment M about the leading edge depends only on and , as"
+			],
+			"after": [
+				"From this it follows that the center of pressure is aft of the 'quarter-chord' point 0.25 c, by",
+				"The aerodynamic center, AC, is at the quarter-chord point. The AC is where the pitching moment M' does not vary with angle of attack, i.e.,"
+			],
+			"color": "dim|0.33979 gray|0.33979 dim|0.33979 grey|0.33979 gray|0.27771 grey|0.27771 dark|0.19524 gray|0.19524 dark|0.19524 grey|0.19524 silver|0.092721 light|0.04569 gray|0.04569 light|0.04569 grey|0.04569 gainsboro|0.032278 white|0.0042097 smoke|0.0042097  "
+		}
+	}
+}

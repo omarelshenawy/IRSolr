@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "643d2869ddcd35c2ab0b736c48f9583b1bf160f580ef3295e4cc6f9f9872a59c",
+			"url": "https://upload.wikimedia.org/math/c/4/7/c474741b9f358225888aebae682fe2ce.png",
+				"previous": "Solving for , we have two positive solutions:",
+				"after": "If we substitute Ï1 into the matrix and solve for (A1,Â A2), we get (1,Â 1). If we substitute Ï2, we get (1,Â â1). (These vectors are eigenvectors, and the frequencies are eigenvalues.)",
+			"color": "dim|0.32295 gray|0.32295 dim|0.32295 grey|0.32295 gray|0.28918 grey|0.28918 dark|0.20091 gray|0.20091 dark|0.20091 grey|0.20091 silver|0.084829 light|0.042279 gray|0.042279 light|0.042279 grey|0.042279 gainsboro|0.030009 white|0.0069768 smoke|0.0069768 linen|0.0034725 lavender|0.0031969 blush|0.0031969 alice|0.0031687 blue|0.0031687 ghost|0.0030038 white|0.0030038 sea|0.0028221 shell|0.0028221 snow|0.0027162  "
+		}
+	}
+}

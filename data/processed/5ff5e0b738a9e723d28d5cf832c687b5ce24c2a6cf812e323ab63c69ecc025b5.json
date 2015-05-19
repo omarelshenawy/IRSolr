@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "5ff5e0b738a9e723d28d5cf832c687b5ce24c2a6cf812e323ab63c69ecc025b5",
+			"url": "https://upload.wikimedia.org/math/d/c/d/dcdc0b6303c6ee5d8b46352ba2d869c2.png",
+				"previous": "Terminal velocity is higher for larger creatures, and thus potentially more deadly. A creature such as a mouse falling at its terminal velocity is much more likely to survive impact with the ground than a human falling at its terminal velocity. A small animal such as a cricket impacting at its terminal velocity will probably be unharmed. This, combined with the relative ratio of limb cross-sectional area vs. body mass (commonly referred to as the Square-cube law), explains why very small animals can fall from a large height and not be harmed.[16]",
+			"after": [
+				"where:",
+				"When an object falls from rest, its velocity will be"
+			],
+			"color": "dim|0.38666 gray|0.38666 dim|0.38666 grey|0.38666 gray|0.29509 grey|0.29509 dark|0.16846 gray|0.16846 dark|0.16846 grey|0.16846 silver|0.070095 light|0.035707 gray|0.035707 light|0.035707 grey|0.035707 gainsboro|0.025564 white|0.004773 smoke|0.004773  "
+		}
+	}
+}

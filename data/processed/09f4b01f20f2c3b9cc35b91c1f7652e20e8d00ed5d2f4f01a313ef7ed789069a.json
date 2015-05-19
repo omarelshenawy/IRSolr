@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "09f4b01f20f2c3b9cc35b91c1f7652e20e8d00ed5d2f4f01a313ef7ed789069a",
+			"url": "https://upload.wikimedia.org/math/7/b/7/7b7ea14a56aabf9375d1d3e63a6b4a9a.png",
+				"previous": "The Euclidean distance between two points in space ( and ) may be written in a variational form where the distance is the minimum value of an integral:",
+				"after": "Here is the trajectory (path) between the two points. The value of the integral (D) represents the length of this trajectory. The distance is the minimal value of this integral and is obtained when where is the optimal trajectory. In the familiar Euclidean case (the above integral) this optimal trajectory is simply a straight line. It is well known that the shortest path between two points is a straight line. Straight lines can formally be obtained by solving the EulerâLagrange equations for the above functional. In non-Euclidean manifolds (curved spaces) where the nature of the space is represented by a metric the integrand has be to modified to , where Einstein summation convention has been used.",
+			"color": "black|0.32225 dim|0.2579 gray|0.2579 dim|0.2579 grey|0.2579 gray|0.20812 grey|0.20812 dark|0.16786 gray|0.16786 dark|0.16786 grey|0.16786 silver|0.035623 light|0.0064336 gray|0.0064336 light|0.0064336 grey|0.0064336  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "605ea271c8208418aaa0b0dae1e90af3c7a62fe948ce0880b543e82162f14aaa",
+			"url": "https://upload.wikimedia.org/math/1/f/e/1fee790ee7a07f88a576c516ce9e56ac.png",
+				"previous": "In order to determine the power signal of the delay-doppler radar as a function of time, we'll need to assume that the footprint of the pulsed radar is small enough to be considered two rectangles of width W.[6] This allows the power function to be similarly (see Pulse-limited section above) written as:",
+				"after": "Using the equation for the radius derived in the previous section (see Pulse-limited section above), the power vs. time function, normalized by the time relative to the arrival time at the leading edge, , becomes:",
+			"color": "dim|0.36311 gray|0.36311 dim|0.36311 grey|0.36311 gray|0.31985 grey|0.31985 dark|0.17499 gray|0.17499 dark|0.17499 grey|0.17499 silver|0.068988 light|0.032292 gray|0.032292 light|0.032292 grey|0.032292 gainsboro|0.021949 white|0.0040778 smoke|0.0040778  "
+		}
+	}
+}

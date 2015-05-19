@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "759f2fb35b960a746ab42b5d78a1c49db7f4afd790b815adb3309b962d52ba7d",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ranger_250_GXT_Front.jpg/220px-Ranger_250_GXT_Front.jpg",
+				"previous": "The power supply used in SMAW has constant current output, ensuring that the current (and thus the heat) remains relatively constant, even if the arc distance and voltage change. This is important because most applications of SMAW are manual, requiring that an operator hold the torch. Maintaining a suitably steady arc distance is difficult if a constant voltage power source is used instead, since it can cause dramatic heat variations and make welding more difficult. However, because the current is not maintained absolutely constant, skilled welders performing complicated welds can vary the arc length to cause minor fluctuations in the current.[18]",
+				"after": "The preferred polarity of the SMAW system depends primarily upon the electrode being used and the desired properties of the weld. Direct current with a negatively charged electrode (DCEN) causes heat to build up on the electrode, increasing the electrode melting rate and decreasing the depth of the weld. Reversing the polarity so that the electrode is positively charged (DCEP) and the workpiece is negatively charged increases the weld penetration. With alternating current the polarity changes over 100 times per second, creating an even heat distribution and providing a balance between electrode melting rate and penetration.[19]",
+			"color": "black|0.41019 dim|0.29221 gray|0.29221 dim|0.29221 grey|0.29221 gray|0.15396 grey|0.15396 dark|0.070799 gray|0.070799 dark|0.070799 grey|0.070799 rosy|0.020648 brown|0.020648 silver|0.015547  "
+		}
+	}
+}

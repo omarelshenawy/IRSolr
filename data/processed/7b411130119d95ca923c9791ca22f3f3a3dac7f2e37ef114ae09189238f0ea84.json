@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "7b411130119d95ca923c9791ca22f3f3a3dac7f2e37ef114ae09189238f0ea84",
+			"url": "https://upload.wikimedia.org/math/6/d/f/6df890c01594fd61f5b7a9e7812df924.png",
+			"previous": [],
+			"after": [
+				"If only the second and third conditions of the definition of measure above are met, and Î¼ takes on at most one of the values Â±â, then Î¼ is called a signed measure.",
+				"The pair (X, Î£) is called a measurable space, the members of Î£ are called measurable sets. If and are two measurable spaces, then a function is called measurable if for every Y-measurable set , the inverse image is X-measurableâââi.e.: . The composition of measurable functions is measurable, making the measurable spaces and measurable functions a category, with the measurable spaces as objects and the set of measurable functions as arrows."
+			],
+			"color": "dim|0.34409 gray|0.34409 dim|0.34409 grey|0.34409 gray|0.31589 grey|0.31589 dark|0.18584 gray|0.18584 dark|0.18584 grey|0.18584 silver|0.076425 light|0.036536 gray|0.036536 light|0.036536 grey|0.036536 gainsboro|0.025477 white|0.0043938 smoke|0.0043938  "
+		}
+	}
+}

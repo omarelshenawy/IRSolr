@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "4570946a0c054b5dc8f4c86a10f68afab406c3d5d53e67af97deebabc7da117e",
+			"url": "https://upload.wikimedia.org/math/f/0/8/f08a64858143bd380b775ad860262414.png",
+			"previous": [
+				"more compactly in vector notation:",
+				"for i = 1, 2,... n. The n-dimensional system of first-order coupled differential equations is then"
+			],
+			"after": [
+				"where",
+				"Some differential equations have solutions that can be written in an exact and closed form. Several important classes are given here."
+			],
+			"color": "dim|0.35711 gray|0.35711 dim|0.35711 grey|0.35711 gray|0.28828 grey|0.28828 dark|0.18065 gray|0.18065 dark|0.18065 grey|0.18065 silver|0.087155 light|0.043717 gray|0.043717 light|0.043717 grey|0.043717 gainsboro|0.028993 white|0.0039501 smoke|0.0039501  "
+		}
+	}
+}

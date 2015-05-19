@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "4669ffb7ba281453d2dae31a42a15891f17953eacb8cbb66c04da3d166ff2ad8",
+			"url": "https://upload.wikimedia.org/math/2/a/7/2a7db26ce959153cea376fda9124005e.png",
+				"previous": "The proof of the main theorem begins by reduction to the case of prime numbers. Euler's four-square identity implies that if Langrange's four-square theorem holds for two numbers, it holds for the product of the two numbers. Since any natural number can be factored into powers of primes, it suffices to prove the theorem for prime numbers. It is true for . To show this for an odd prime integer , represent it as a quaternion and assume for now (as we shall show later) that it is not a Hurwitz irreducible; that is, it can be factored into two non-unit Hurwitz quaternions",
+				"after": "and . This shows that both and are equal to (since they are integers), and is the sum of four squares",
+			"color": "gray|0.29328 grey|0.29328 dim|0.23409 gray|0.23409 dim|0.23409 grey|0.23409 dark|0.22656 gray|0.22656 dark|0.22656 grey|0.22656 silver|0.10717 light|0.056604 gray|0.056604 light|0.056604 grey|0.056604 gainsboro|0.04086 white|0.0086167 smoke|0.0086167 lavender|0.0045298 blush|0.0045298 alice|0.0043463 blue|0.0043463 linen|0.0042825 ghost|0.0041802 white|0.0041802 sea|0.0040036 shell|0.0040036 snow|0.003904 white|0.0029426  "
+		}
+	}
+}

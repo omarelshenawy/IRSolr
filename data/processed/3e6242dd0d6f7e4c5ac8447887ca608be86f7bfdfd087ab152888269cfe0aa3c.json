@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e6242dd0d6f7e4c5ac8447887ca608be86f7bfdfd087ab152888269cfe0aa3c",
+			"url": "https://upload.wikimedia.org/math/c/b/e/cbe6219865833662ac3730442c12eb35.png",
+			"previous": [
+				"The GinzburgâLandau equation is used in modelling superconductivity. It is",
+				"In the one-dimensional case where u is not constant and is equal to Ï, the equation is referred to as Burgers' equation."
+			],
+			"after": [
+				"where p,q â C and Î³ â R are constants and i is the imaginary unit.",
+				"The Dym equation is named for Harry Dym and occurs in the study of solitons. It is"
+			],
+			"color": "dim|0.29164 gray|0.29164 dim|0.29164 grey|0.29164 black|0.24291 gray|0.19889 grey|0.19889 dark|0.12893 gray|0.12893 dark|0.12893 grey|0.12893 silver|0.066102 light|0.035343 gray|0.035343 light|0.035343 grey|0.035343 gainsboro|0.024124  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "28696f5fa153780c0061a8c56c9c027e669e11de13eb1f1e7ac111d67053b41b",
+			"url": "https://upload.wikimedia.org/math/0/b/1/0b13c3aad28144ef757bc9ac21365170.png",
+			"previous": [
+				"and",
+				"The Keplerian problem assumes an elliptical orbit and the four points:"
+			],
+			"after": [
+				"The problem is to compute the polar coordinates (r,Î¸) of the planet from the time since perihelion,Â t.",
+				"It is solved in steps. Kepler considered the circle with the major axis as a diameter, and"
+			],
+			"color": " "
+		}
+	}
+}

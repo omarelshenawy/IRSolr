@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "714b437603addfd28857050ef31d0b973c42e581a577d6cb44b42dc63cc39f9e",
+			"url": "https://upload.wikimedia.org/math/1/3/8/13899aa46204b02713a854702142955d.png",
+			"previous": [
+				"For we have the particular case with which we started.",
+				"Now setting gives the differential equation"
+			],
+			"after": [
+				"where",
+				"Which is to say that K is the limiting value of P: the highest value that the population can reach given infinite time (or come close to reaching in finite time). It is important to stress that the carrying capacity is asymptotically reached independently of the initial value P(0)Â >Â 0, also in case that P(0)Â >Â K."
+			],
+			"color": "dark|0.31348 gray|0.31348 dark|0.31348 grey|0.31348 gray|0.31144 grey|0.31144 silver|0.14757 dim|0.085021 gray|0.085021 dim|0.085021 grey|0.085021 light|0.071978 gray|0.071978 light|0.071978 grey|0.071978 gainsboro|0.046569 white|0.0076773 smoke|0.0076773 linen|0.0037243 lavender|0.002584 blush|0.002584 alice|0.0025475 blue|0.0025475  "
+		}
+	}
+}

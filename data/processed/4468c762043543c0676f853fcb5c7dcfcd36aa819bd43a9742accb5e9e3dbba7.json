@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "4468c762043543c0676f853fcb5c7dcfcd36aa819bd43a9742accb5e9e3dbba7",
+			"url": "https://upload.wikimedia.org/math/e/8/5/e850c08f73f03a7424cfe2ac54db3cd6.png",
+				"previous": "The law of cosines (known as the cosine formula, or the \"cos rule\") is an extension of the Pythagorean theorem to arbitrary triangles:",
+			"after": [
+				"or equivalently:",
+				"The law of cosines may be used to prove Heron's formula, which is another method that may be used to calculate the area of a triangle. This formula states that if a triangle has sides of lengths a, b, and c, and if the semiperimeter is"
+			],
+			"color": "dim|0.30889 gray|0.30889 dim|0.30889 grey|0.30889 black|0.22422 gray|0.2098 grey|0.2098 dark|0.13779 gray|0.13779 dark|0.13779 grey|0.13779 silver|0.058732 light|0.028377 gray|0.028377 light|0.028377 grey|0.028377 gainsboro|0.019837  "
+		}
+	}
+}

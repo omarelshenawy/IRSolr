@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9fb94437a21d1dc2823d2d32dd5f48fdf3211cd9da9ee6dec4880b51f92b23e7",
+			"url": "https://upload.wikimedia.org/math/d/d/9/dd93fe3e225ca2f990b60b6bc1575ee4.png",
+				"previous": "Once the (exact) value of an eigenvalue is known, the corresponding eigenvectors can be found by finding non-zero solutions of the eigenvalue equation, that becomes a system of linear equations with known coefficients. For example, once it is known that 6 is an eigenvalue of the matrix",
+				"after": "we can find its eigenvectors by solving the equation , that is",
+			"color": "dark|0.27241 gray|0.27241 dark|0.27241 grey|0.27241 dim|0.25167 gray|0.25167 dim|0.25167 grey|0.25167 gray|0.22739 grey|0.22739 silver|0.1019 light|0.051767 gray|0.051767 light|0.051767 grey|0.051767 gainsboro|0.042696 white|0.0086681 smoke|0.0086681 linen|0.0073257 alice|0.0071185 blue|0.0071185 lavender|0.0071185 blush|0.0071185 ghost|0.0070477 white|0.0070477 sea|0.0070021 shell|0.0070021 snow|0.0069623  "
+		}
+	}
+}

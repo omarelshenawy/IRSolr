@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "499c7d2f81e4c6edab660b381ef2e6f4c8852cd3da368da39eaf7c9ab7e70078",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Harmonic_partials_on_strings.svg/250px-Harmonic_partials_on_strings.svg.png",
+				"previous": "In any solid at any temperature, the primary particles (e.g. atoms or molecules) are not stationary, but rather vibrate about mean positions. In insulators the capacity of the solid to store thermal energy is due almost entirely to these vibrations. Many physical properties of the solid (e.g. modulus of elasticity) can be predicted given knowledge of the frequencies with which the particles vibrate. The simplest assumption (by Einstein) is that all the particles oscillate about their mean positions with the same natural frequency Î½. This is equivalent to the assumption that all atoms vibrate independently with a frequency Î½. Einstein also assumed that the allowed energy states of these oscillations are harmonics, or integral multiples of hÎ½. The spectrum of waveforms can be described mathematically using a Fourier series of sinusoidal density fluctuations (or thermal phonons).",
+				"after": "Debye subsequently recognized that each oscillator is intimately coupled to its neighboring oscillators at all times. Thus, by replacing Einstein's identical uncoupled oscillators with the same number of coupled oscillators, Debye correlated the elastic vibrations of a one-dimensional solid with the number of mathematically special modes of vibration of a stretched string (see figure). The pure tone of lowest pitch or frequency is referred to as the fundamental and the multiples of that frequency are called its harmonic overtones. He assigned to one of the oscillators the frequency of the fundamental vibration of the whole block of solid. He assigned to the remaining oscillators the frequencies of the harmonics of that fundamental, with the highest of all these frequencies being limited by the motion of the smallest primary unit.",
+			"color": " "
+		}
+	}
+}

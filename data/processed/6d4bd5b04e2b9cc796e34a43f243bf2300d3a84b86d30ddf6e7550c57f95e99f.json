@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "6d4bd5b04e2b9cc796e34a43f243bf2300d3a84b86d30ddf6e7550c57f95e99f",
+			"url": "https://upload.wikimedia.org/math/1/4/a/14a0ae9c866a0ac775608a340a5c2561.png",
+			"previous": [
+				"is continuous if and only if",
+				"Moreover,",
+				"That is to say, given any element x of X that is in the closure of any subset A, f(x) belongs to the closure of f(A). This is equivalent to the requirement that for all subsets A' of X'"
+			],
+			"after": [
+				"for any subset A of X.",
+				"If f: X â Y and g: Y â Z are continuous, then so is the composition g â f: X â Z. If f: X â Y is continuous and",
+				"The possible topologies on a fixed set X are partially ordered: a topology Ï1 is said to be coarser than another topology Ï2 (notation: Ï1 â Ï2) if every open subset with respect to Ï1 is also open with respect to Ï2. Then, the identity map"
+			],
+			"color": "dim|0.37281 gray|0.37281 dim|0.37281 grey|0.37281 gray|0.30522 grey|0.30522 dark|0.17434 gray|0.17434 dark|0.17434 grey|0.17434 silver|0.074138 light|0.03507 gray|0.03507 light|0.03507 grey|0.03507 gainsboro|0.024007 white|0.0034771 smoke|0.0034771  "
+		}
+	}
+}

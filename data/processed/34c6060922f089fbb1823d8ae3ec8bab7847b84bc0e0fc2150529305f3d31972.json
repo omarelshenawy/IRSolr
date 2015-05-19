@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "34c6060922f089fbb1823d8ae3ec8bab7847b84bc0e0fc2150529305f3d31972",
+			"url": "https://upload.wikimedia.org/math/8/b/3/8b37157dc32aca2597bad8aff4b8de0d.png",
+				"previous": "Passive radar is applicable to electronic countermeasures and radio astronomy as follows:",
+				"after": "Only the radial component of the speed is relevant. When the reflector is moving at right angle to the radar beam, it has no relative velocity. Vehicles and weather moving parallel to the radar beam produce the maximum Doppler frequency shift.",
+			"color": "dim|0.32 gray|0.32 dim|0.32 grey|0.32 gray|0.30445 grey|0.30445 dark|0.20295 gray|0.20295 dark|0.20295 grey|0.20295 silver|0.083535 light|0.040236 gray|0.040236 light|0.040236 grey|0.040236 gainsboro|0.02867 white|0.0057554 smoke|0.0057554  "
+		}
+	}
+}

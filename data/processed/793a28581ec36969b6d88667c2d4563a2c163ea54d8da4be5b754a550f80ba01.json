@@ -1,0 +1,25 @@
+{
+	"add": {
+		"doc": {
+			"id": "793a28581ec36969b6d88667c2d4563a2c163ea54d8da4be5b754a550f80ba01",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edited_comparing_efficiencies.png/400px-Edited_comparing_efficiencies.png",
+			"previous": [
+				"Condition of maximum blade efficiency",
+				"",
+				"Therefore the blade efficiency is given by",
+				"Work done (for unit mass flow per second):",
+				"",
+				""
+			],
+			"after": [
+				"If , then",
+				"",
+				"For maximum efficiency , we get",
+				"",
+				"and this finally gives",
+				"Therefore is found by putting the value of in the expression of blade efficiency"
+			],
+			"color": "dim|0.07077 gray|0.07077 dim|0.07077 grey|0.07077 gray|0.067143 grey|0.067143 yellow|0.056371 green|0.056371 sea|0.052278 shell|0.052278 floral|0.051952 white|0.051952 white|0.051766 smoke|0.051766 white|0.051405 snow|0.051377 mint|0.050948 cream|0.050948 ghost|0.050234 white|0.050234 alice|0.049068 blue|0.049068 azure|0.049012 lavender|0.046254 blush|0.046254 dark|0.033823 gray|0.033823 dark|0.033823 grey|0.033823 light|0.025083 steel|0.025083 blue|0.025083 tan|0.024192 light|0.023794 slate|0.023794 gray|0.023794 misty|0.021986 rose|0.021986 slate|0.017764 gray|0.017764 steel|0.014421 blue|0.014421 light|0.014338 golden|0.014338 rod|0.014338 yellow|0.014338 black|0.013896 burly|0.011148 wood|0.011148 silver|0.010619 ivory|0.0086059 gainsboro|0.0062453 linen|0.0061301  "
+		}
+	}
+}

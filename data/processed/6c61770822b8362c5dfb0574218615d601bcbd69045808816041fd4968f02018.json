@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "6c61770822b8362c5dfb0574218615d601bcbd69045808816041fd4968f02018",
+			"url": "https://upload.wikimedia.org/math/2/9/e/29e0c234e2ce69c112e4bdef2b49f466.png",
+			"previous": [
+				"Since we can substitute the geometric expansion:",
+				"",
+				"we divide for",
+				"Given",
+				"If the speeds and are small compared to the speed of the wave, the relationship between observed frequency and emitted frequency is approximately[5]"
+			],
+				"after": "The frequency of the sounds that the source emits does not actually change. To understand what happens, consider the following analogy. Someone throws one ball every second in a man's direction. Assume that balls travel with constant velocity. If the thrower is stationary, the man will receive one ball every second. However, if the thrower is moving towards the man, he will receive balls more frequently because the balls will be less spaced out. The inverse is true if the thrower is moving away from the man. So it is actually the wavelength which is affected; as a consequence, the received frequency is also affected. It may also be said that the velocity of the wave remains constant whereas wavelength changes; hence frequency also changes.",
+			"color": "dim|0.39465 gray|0.39465 dim|0.39465 grey|0.39465 gray|0.27427 grey|0.27427 dark|0.1724 gray|0.1724 dark|0.1724 grey|0.1724 silver|0.078292 light|0.040061 gray|0.040061 light|0.040061 grey|0.040061 gainsboro|0.02844  "
+		}
+	}
+}

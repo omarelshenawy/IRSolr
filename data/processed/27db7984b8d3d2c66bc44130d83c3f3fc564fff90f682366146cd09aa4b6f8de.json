@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "27db7984b8d3d2c66bc44130d83c3f3fc564fff90f682366146cd09aa4b6f8de",
+			"url": "https://upload.wikimedia.org/math/d/2/f/d2f2180b3106ae9f125da22e4f176c89.png",
+			"previous": [],
+				"after": "That is, the value of x is obtained by first applying f to x to obtain y = f(x) and then applying g to y to obtain z = g(y). In the notation , the function on the right, f, acts first and the function on the left, g acts second, reversing English reading order. The notation can be memorized by reading the notation as \"g of f\" or \"g after f\". The composition is only defined when the codomain of f is the domain of g. Assuming that, the composition in the opposite order need not be defined. Even if it is, i.e., if the codomain of f is the codomain of g, it is not in general true that",
+			"color": "gray|0.27938 grey|0.27938 dim|0.23303 gray|0.23303 dim|0.23303 grey|0.23303 dark|0.23056 gray|0.23056 dark|0.23056 grey|0.23056 silver|0.11532 light|0.062577 gray|0.062577 light|0.062577 grey|0.062577 gainsboro|0.044801 white|0.0075782 smoke|0.0075782 linen|0.0037393 lavender|0.0037322 blush|0.0037322 alice|0.0035851 blue|0.0035851 ghost|0.0034342 white|0.0034342 sea|0.0032806 shell|0.0032806 snow|0.0031427  "
+		}
+	}
+}

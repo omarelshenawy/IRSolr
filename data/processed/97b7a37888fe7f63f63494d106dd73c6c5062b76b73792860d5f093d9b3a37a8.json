@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "97b7a37888fe7f63f63494d106dd73c6c5062b76b73792860d5f093d9b3a37a8",
+			"url": "https://upload.wikimedia.org/math/3/d/8/3d8a826039e1e1354110d002d743a3b1.png",
+			"previous": [
+				"In the special case where the input signal is small compared to the saturation intensity, in other words,",
+				"Substituting this definition into the prior equation, we find the general gain equation:"
+			],
+			"after": [
+				"then the general gain equation gives the small signal gain as",
+				"or"
+			],
+			"color": "dim|0.27723 gray|0.27723 dim|0.27723 grey|0.27723 black|0.27054 gray|0.22047 grey|0.22047 dark|0.13021 gray|0.13021 dark|0.13021 grey|0.13021 silver|0.053721 light|0.02456 gray|0.02456 light|0.02456 grey|0.02456 gainsboro|0.016318  "
+		}
+	}
+}

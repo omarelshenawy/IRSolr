@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9943a19b9d8b31412e6e88eed84e8f81ff65ffac9d64b1286c9e69c0e07fa034",
+			"url": "https://upload.wikimedia.org/math/3/9/0/390176b36eb62ed1461225433c507970.png",
+			"previous": [],
+				"after": "The polynomials and are not symmetric functions of the roots: is invariant, while the two non-trivial cyclic permutations of the roots send to and to , or to and to (depending on which permutation), while transposing and switches and ; other transpositions switch these roots and multiply them by a power of",
+			"color": "gray|0.31314 grey|0.31314 dark|0.25472 gray|0.25472 dark|0.25472 grey|0.25472 dim|0.18749 gray|0.18749 dim|0.18749 grey|0.18749 silver|0.12158 light|0.063143 gray|0.063143 light|0.063143 grey|0.063143 gainsboro|0.0433 white|0.0043859 smoke|0.0043859  "
+		}
+	}
+}

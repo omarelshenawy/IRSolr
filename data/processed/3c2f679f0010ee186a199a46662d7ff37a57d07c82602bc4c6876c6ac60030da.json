@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "3c2f679f0010ee186a199a46662d7ff37a57d07c82602bc4c6876c6ac60030da",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Distance_between_sets.svg/220px-Distance_between_sets.svg.png",
+			"previous": [],
+				"after": "Various distance definitions are possible between objects. For example, between celestial bodies one should not confuse the surface-to-surface distance and the center-to-center distance. If the former is much less than the latter, as for a LEO, the first tends to be quoted (altitude), otherwise, e.g. for the Earth-Moon distance, the latter.",
+			"color": "black|0.65291 gray|0.19552 grey|0.19552 dim|0.11738 gray|0.11738 dim|0.11738 grey|0.11738 dark|0.033374 gray|0.033374 dark|0.033374 grey|0.033374  "
+		}
+	}
+}

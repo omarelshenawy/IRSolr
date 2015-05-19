@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9d9dd1f74bc09616c30ca48fb986c6e2c39052b4c12a75bf432d7f8fb6b8a70f",
+			"url": "https://upload.wikimedia.org/math/a/c/2/ac20b0a9f2323ab099161d58790c9850.png",
+				"previous": "which surrounds the body represents the union of two unconnected surfaces,",
+			"after": [
+				"Equation (\\ref{ta1}) can be decomposed into two surface integrals, yielding",
+				"The right-hand side integral in Eq.\\ (\\ref{ta2}) represents the reaction forces of the airplane. The left-hand side integral in Eq.\\ (\\ref{ta2}) represents the total force exerted by the fluid. Mathematically, these two integrals are equivalent. However, the numerical integration of these terms will hardly lead to the same result, because the solution is approximated. In the terminology of Computational Fluid Dynamics (CFD), when the integration is performed using the left-hand side integral in Eq.\\ (\\ref{ta2}), the near-field method is employed. On the other hand, when the integration of the right-hand side in Eq. (\\ref{ta2}) is computed, the far-field method is considered."
+			],
+			"color": "dim|0.40168 gray|0.40168 dim|0.40168 grey|0.40168 gray|0.29422 grey|0.29422 dark|0.16974 gray|0.16974 dark|0.16974 grey|0.16974 silver|0.067352 light|0.031948 gray|0.031948 light|0.031948 grey|0.031948 gainsboro|0.021421 white|0.0037767 smoke|0.0037767  "
+		}
+	}
+}

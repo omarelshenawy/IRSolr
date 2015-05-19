@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "54adac734529be2e3d7de03e981f207d0c0998898c9c7e0f7589055b4f999bd4",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GA_planar_rotations.svg/200px-GA_planar_rotations.svg.png",
+				"previous": "Similar interpretations are true for any number of vectors spanning an n-dimensional parallelotope; the outer product of vectors a1, a2, ... an, that is , has a magnitude equal to the volume of the n-parallelotope. An n-vector doesn't necessarily have a shape of a parallelotope â this is a convenient visualization. It could be any shape, although the volume equals that of the parallelotope.",
+			"after": [
+				"If we have a product of vectors then we denote the reverse as",
+				"As an example, assume that we get"
+			],
+			"color": "red|0.11738 orange|0.086907 slate|0.082393 blue|0.082393 lime|0.072235 green|0.072235 royal|0.066591 blue|0.066591 medium|0.058691 purple|0.058691 blue|0.053424 violet|0.053424 lime|0.051919 steel|0.05079 blue|0.05079 medium|0.05079 slate|0.05079 blue|0.05079 burly|0.05079 wood|0.05079 crimson|0.048533 medium|0.047404 sea|0.047404 green|0.047404 dark|0.036682 cyan|0.036682 salmon|0.026524 light|0.023138 coral|0.023138  "
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d8181f458b3aea4be9d23dc55f9eba05a85fba64e1d57bbb1ec57e41f7364de",
+			"url": "https://upload.wikimedia.org/math/5/b/f/5bf50a8213f5a7cb939da11510b918d1.png",
+			"previous": [
+				"An east-west opening hyperbola can be represented parametrically by",
+				"Both parameterizations may be made rational by using tangent half-angle formula and setting"
+			],
+			"after": [
+				"A north-south opening hyperbola can be represented parametrically as",
+				"In all formulae (h,k) are the center coordinates of the hyperbola, a is the length of the semi-major axis, and b is the length of the semi-minor axis."
+			],
+			"color": " "
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "6bee908438bff0c966eefe41874660b0730de1ed32913d14536858836bf03e31",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/9/90/QuantumHarmonicOscillatorAnimation.gif",
+				"previous": "The finite potential well problem is mathematically more complicated than the infinite particle-in-a-box problem as the wavefunction is not pinned to zero at the walls of the well. Instead, the wavefunction must satisfy more complicated mathematical boundary conditions as it is nonzero in regions outside the well.",
+			"after": [
+				"As in the classical case, the potential for the quantum harmonic oscillator is given by",
+				"This problem can either be treated by directly solving the SchrÃ¶dinger, which is not trivial, or by using the more elegant \"ladder method\" first proposed by Paul Dirac. The eigenstates are given by"
+			],
+			"color": " "
+		}
+	}
+}

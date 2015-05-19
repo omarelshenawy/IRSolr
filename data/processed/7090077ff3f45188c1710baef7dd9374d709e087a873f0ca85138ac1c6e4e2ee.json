@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "7090077ff3f45188c1710baef7dd9374d709e087a873f0ca85138ac1c6e4e2ee",
+			"url": "https://upload.wikimedia.org/math/c/d/8/cd8d87b41855c45c3d6b625afc0aa207.png",
+			"previous": [
+				"or",
+				"Integrating, we find:",
+				"is the small-signal gain coefficient (in units of radians per meter). We can solve the differential equation using separation of variables:"
+			],
+			"after": [
+				"which is identical to the small signal gain equation (see above).",
+				"For large input signals, where",
+				"the gain approaches unity"
+			],
+			"color": "dim|0.37502 gray|0.37502 dim|0.37502 grey|0.37502 gray|0.26914 grey|0.26914 dark|0.16775 gray|0.16775 dark|0.16775 grey|0.16775 silver|0.067166 black|0.057995 light|0.031139 gray|0.031139 light|0.031139 grey|0.031139 gainsboro|0.020757  "
+		}
+	}
+}

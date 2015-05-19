@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "43a95e5071c5726999fe7ab5db5ae8c422eed7df4b83febe77d549521a5e9f80",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/200px-Commutative_diagram_for_morphism.svg.png",
+			"previous": [],
+				"after": "Category theory[1] formalizes mathematical structure and its concepts in terms of a collection of objects and of arrows (also called morphisms). A category has two basic properties: the ability to compose the arrows associatively and the existence of an identity arrow for each object. Category theory can be used to formalize concepts of other high-level abstractions such as sets, rings, and groups.",
+			"color": "black|0.33921 dim|0.28469 gray|0.28469 dim|0.28469 grey|0.28469 gray|0.21833 grey|0.21833 dark|0.11415 gray|0.11415 dark|0.11415 grey|0.11415 silver|0.036736 light|0.0047177 gray|0.0047177 light|0.0047177 grey|0.0047177  "
+		}
+	}
+}

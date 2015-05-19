@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "8f9f1243f419daba5f872bbbd3973ec1f750c6f2f9acdcfb32f5306868bd736c",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LAMP_software_bundle.svg/400px-LAMP_software_bundle.svg.png",
+			"previous": [],
+				"after": "PHP is a general-purpose scripting language that is especially suited to server-side web development, in which case PHP generally runs on a web server. Any PHP code in a requested file is executed by the PHP runtime, usually to create dynamic web page content or dynamic images used on websites or elsewhere.[124] It can also be used for command-line scripting and client-side graphical user interface (GUI) applications. PHP can be deployed on most web servers, many operating systems and platforms, and can be used with many relational database management systems (RDBMS). Most web hosting providers support PHP for use by their clients. It is available free of charge, and the PHP Group provides the complete source code for users to build, customize and extend for their own use.[8]",
+			"color": "dark|0.30391 gray|0.30391 dark|0.30391 grey|0.30391 silver|0.28328 black|0.053961 dim|0.048331 gray|0.048331 dim|0.048331 grey|0.048331 gray|0.048228 grey|0.048228 alice|0.038483 blue|0.038483 azure|0.026159 light|0.025296 cyan|0.025296 light|0.024639 gray|0.024639 light|0.024639 grey|0.024639 gainsboro|0.019637 white|0.015338 smoke|0.015338 ghost|0.014192 white|0.014192 sea|0.013073 shell|0.013073 lavender|0.013061 blush|0.013061 snow|0.012994 white|0.012443 linen|0.012293 forest|0.0071948 green|0.0071948 dark|0.0049027 sea|0.0049027 green|0.0049027 green|0.0046663 mint|0.0036277 cream|0.0036277 golden|0.0034072 rod|0.0034072  "
+		}
+	}
+}

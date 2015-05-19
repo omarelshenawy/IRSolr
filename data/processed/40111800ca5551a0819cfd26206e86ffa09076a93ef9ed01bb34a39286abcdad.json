@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "40111800ca5551a0819cfd26206e86ffa09076a93ef9ed01bb34a39286abcdad",
+			"url": "https://upload.wikimedia.org/math/4/3/d/43da336b44ca60aeeccfc0411fe1141d.png",
+				"previous": "where we identify i â¦ e1e2 since",
+			"after": [
+				"Similarly, the even subalgebra of with basis {1, e2e3, e3e1, e1e2} is isomorphic to the quaternions as may be seen by identifying i â¦ âe2e3, j â¦ âe3e1 and k â¦ âe1e2.",
+				"Every associative algebra has a matrix representation; the Pauli matrices are a representation of and the Dirac matrices are a representation of , showing the equivalence with matrix representations used by physicists."
+			],
+			"color": "dim|0.38418 gray|0.38418 dim|0.38418 grey|0.38418 gray|0.24198 grey|0.24198 dark|0.16852 gray|0.16852 dark|0.16852 grey|0.16852 silver|0.075539 black|0.057779 light|0.036516 gray|0.036516 light|0.036516 grey|0.036516 gainsboro|0.024792  "
+		}
+	}
+}

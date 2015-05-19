@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7e0842a7547f5bd5f7b9f8d548b58640b89151e8f3410d6003783951fa391ad6",
+			"url": "https://upload.wikimedia.org/math/c/8/c/c8c3d620486492369d52ccd7fb2d8e8e.png",
+				"previous": "In a local coordinate system (x1, ..., xn), the coordinate differentials dx1, ..., dxn form a basic set of one-forms within the coordinate chart. Given a multi-index i1, ..., ik with 1 â¤ ip â¤ n for 1 â¤ p â¤ k, we can define a k-form",
+				"after": "We can alternatively introduce a k-grade multivector A as",
+			"color": "dim|0.36931 gray|0.36931 dim|0.36931 grey|0.36931 gray|0.28913 grey|0.28913 dark|0.18426 gray|0.18426 dark|0.18426 grey|0.18426 silver|0.075725 light|0.03783 gray|0.03783 light|0.03783 grey|0.03783 gainsboro|0.025878 white|0.004265 smoke|0.004265  "
+		}
+	}
+}

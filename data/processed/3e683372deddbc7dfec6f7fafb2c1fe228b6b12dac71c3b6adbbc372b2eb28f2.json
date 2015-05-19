@@ -1,0 +1,16 @@
+{
+	"add": {
+		"doc": {
+			"id": "3e683372deddbc7dfec6f7fafb2c1fe228b6b12dac71c3b6adbbc372b2eb28f2",
+			"url": "https://upload.wikimedia.org/math/6/2/4/624cf12f420fb0f373cda9f7b216b2f3.png",
+				"previous": "The aim of source coding is to take the source data and make it smaller.",
+			"after": [
+				"Data are encoded by strings (words) over an alphabet .",
+				"A code is a function",
+				"(or if the empty string is not part of the alphabet).",
+				"is the code word associated with ."
+			],
+			"color": "dim|0.3053 gray|0.3053 dim|0.3053 grey|0.3053 gray|0.2845 grey|0.2845 dark|0.19903 gray|0.19903 dark|0.19903 grey|0.19903 silver|0.097358 light|0.05415 gray|0.05415 light|0.05415 grey|0.05415 gainsboro|0.039268 white|0.0054639 smoke|0.0054639 linen|0.0027016  "
+		}
+	}
+}

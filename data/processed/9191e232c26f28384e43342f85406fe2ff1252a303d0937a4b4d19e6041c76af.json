@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "9191e232c26f28384e43342f85406fe2ff1252a303d0937a4b4d19e6041c76af",
+			"url": "https://upload.wikimedia.org/math/3/8/5/3855ebf75c82c42c8003ff7bcf0f80b2.png",
+			"previous": [
+				"If t, x, y, z, are parameterised by a parameter Î», this can be written as",
+				"where v(t) is the coordinate speed at coordinate time t, and x(t), y(t), and z(t) are space coordinates. It should be noted that the first expression is manifestly Lorentz invariant. They are all Lorentz invariant as they must be since proper time and proper time intervals are coordinate independent by definition."
+			],
+				"after": "If the motion is of the particle is constant, the expression simplifies to",
+			"color": "black|0.34073 dim|0.26013 gray|0.26013 dim|0.26013 grey|0.26013 gray|0.2096 grey|0.2096 dark|0.13974 gray|0.13974 dark|0.13974 grey|0.13974 silver|0.040888 light|0.0079576 gray|0.0079576 light|0.0079576 grey|0.0079576  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "413483756b2b31b2387be8b2f56795e88ad1eea86f202ca44a41afc23b6a77d7",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vector_components.svg/180px-Vector_components.svg.png",
+				"previous": "An isomorphism is a linear map fÂ : V â W such that there exists an inverse map gÂ : W â V, which is a map such that the two possible compositions f â gÂ : W â W and g â fÂ : V â V are identity maps. Equivalently, f is both one-to-one (injective) and onto (surjective).[25] If there exists an isomorphism between V and W, the two spaces are said to be isomorphic; they are then essentially identical as vector spaces, since all identities holding in V are, via f, transported to similar ones in W, and vice versa via g.",
+				"after": "For example, the \"arrows in the plane\" and \"ordered pairs of numbers\" vector spaces in the introduction are isomorphic: a planar arrow v departing at the origin of some (fixed) coordinate system can be expressed as an ordered pair by considering the x- and y-component of the arrow, as shown in the image at the right. Conversely, given a pair (x, y), the arrow going by x to the right (or to the left, if x is negative), and y up (down, if y is negative) turns back the arrow v.",
+			"color": "gray|0.26101 grey|0.26101 dark|0.23896 gray|0.23896 dark|0.23896 grey|0.23896 dim|0.17993 gray|0.17993 dim|0.17993 grey|0.17993 silver|0.14832 black|0.052466 light|0.045967 gray|0.045967 light|0.045967 grey|0.045967 gainsboro|0.035933 light|0.033687 steel|0.033687 blue|0.033687  "
+		}
+	}
+}

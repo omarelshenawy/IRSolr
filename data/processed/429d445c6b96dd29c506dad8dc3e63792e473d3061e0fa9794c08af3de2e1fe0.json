@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "429d445c6b96dd29c506dad8dc3e63792e473d3061e0fa9794c08af3de2e1fe0",
+			"url": "https://upload.wikimedia.org/math/6/5/6/6560423d6fc918446719e0c5bc8d9258.png",
+				"previous": "A BÃ©zier curve of degree n can be converted into a BÃ©zier curve of degree nÂ +Â 1 with the same shape. This is useful if software supports BÃ©zier curves only of specific degree. For example, systems that can only work with cubic BÃ©zier curves can implicitly work with quadratic curves by using their equivalent cubic representation.",
+			"after": [],
+			"color": "dim|0.34178 gray|0.34178 dim|0.34178 grey|0.34178 gray|0.31039 grey|0.31039 dark|0.16998 gray|0.16998 dark|0.16998 grey|0.16998 silver|0.074038 light|0.041684 gray|0.041684 light|0.041684 grey|0.041684 gainsboro|0.030934 white|0.0078499 smoke|0.0078499 linen|0.0042873 lavender|0.0036099 blush|0.0036099 alice|0.003227 blue|0.003227 ghost|0.0031555 white|0.0031555 sea|0.0030643 shell|0.0030643 snow|0.0029907  "
+		}
+	}
+}

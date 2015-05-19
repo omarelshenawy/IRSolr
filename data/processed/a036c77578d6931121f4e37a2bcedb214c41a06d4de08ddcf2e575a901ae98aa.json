@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "a036c77578d6931121f4e37a2bcedb214c41a06d4de08ddcf2e575a901ae98aa",
+			"url": "https://upload.wikimedia.org/math/2/a/3/2a327002f224c81f2056bcdbd90b0314.png",
+				"previous": "The inverse transform, known as Fourier series, is a representation of sP(t) in terms of a summation of a potentially infinite number of harmonically related sinusoids or complex exponential functions, each with an amplitude and phase specified by one of the coefficients:",
+				"after": "When sP(t), is expressed as a periodic summation of another function, s(t): Â Â ",
+			"color": "black|0.25417 gray|0.22163 grey|0.22163 dim|0.21372 gray|0.21372 dim|0.21372 grey|0.21372 dark|0.19512 gray|0.19512 dark|0.19512 grey|0.19512 silver|0.082466 light|0.02219 gray|0.02219 light|0.02219 grey|0.02219 gainsboro|0.010063  "
+		}
+	}
+}

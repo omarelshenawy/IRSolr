@@ -1,0 +1,19 @@
+{
+	"add": {
+		"doc": {
+			"id": "9333732fe367275f46f3f8f00e42003d07af2a8884471514b425a83b7642ec11",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Imageworld-artphp3.png/600px-Imageworld-artphp3.png",
+			"previous": [
+				"",
+				"To switch to other wikis, the site parameter can be added to the URL, e.g.",
+				"tools:~dispenser/cgi-bin/geosearch.py allows for regular expression searching on the GeoHack links in the external links table. This has the advantages of near real time information and powerful pattern matching. The following are some example queries created as a demonstration of the flexibility of the system."
+			],
+			"after": {
+				"_ArrayType_": "double",
+				"_ArraySize_": [0,0],
+				"_ArrayData_": null
+			},
+			"color": " "
+		}
+	}
+}

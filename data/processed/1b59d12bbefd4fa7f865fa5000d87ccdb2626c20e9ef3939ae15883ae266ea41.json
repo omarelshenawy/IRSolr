@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "1b59d12bbefd4fa7f865fa5000d87ccdb2626c20e9ef3939ae15883ae266ea41",
+			"url": "https://upload.wikimedia.org/math/3/5/b/35b3b1e09074f3513d0ee53a7f48bdb0.png",
+				"previous": "A stochastic process is simply, in the context of this model, a way to approach the set of data collected from the samples. The first step in geostatistical modulation is the creation of a random process that best describes the set of experimental observed data.[3]",
+				"after": "The set of random variables, constitutes a random function of which only one realization is known - the set of experimental data. With only one realization of each random variable it's theoretically impossible to determine any statistical parameter of the individual variables or the function.",
+			"color": "gray|0.29939 grey|0.29939 dark|0.25055 gray|0.25055 dark|0.25055 grey|0.25055 dim|0.17675 gray|0.17675 dim|0.17675 grey|0.17675 silver|0.12746 light|0.066188 gray|0.066188 light|0.066188 grey|0.066188 gainsboro|0.049135 white|0.0073014 smoke|0.0073014 linen|0.0034645 lavender|0.0033736 blush|0.0033736 alice|0.0032438 blue|0.0032438 ghost|0.0030706 white|0.0030706 sea|0.0028573 shell|0.0028573 snow|0.0027275  "
+		}
+	}
+}

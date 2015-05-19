@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7d0b620094f82b5ad436eda23fcef33f67bb153843d56544658694c0cbda67d4",
+			"url": "https://upload.wikimedia.org/math/4/e/8/4e839409fce004a96b91d2be0d8d931d.png",
+				"previous": "Note that t0Â =Â 1, (1Â âÂ t)0Â =Â 1, and that the binomial coefficient, , also expressed as or , is:",
+				"after": "The points Pi are called control points for the BÃ©zier curve. The polygon formed by connecting the BÃ©zier points with lines, starting with P0 and finishing with Pn, is called the BÃ©zier polygon (or control polygon). The convex hull of the BÃ©zier polygon contains the BÃ©zier curve.",
+			"color": "gray|0.29951 grey|0.29951 dim|0.27543 gray|0.27543 dim|0.27543 grey|0.27543 dark|0.20509 gray|0.20509 dark|0.20509 grey|0.20509 silver|0.10086 light|0.053416 gray|0.053416 light|0.053416 grey|0.053416 gainsboro|0.036508 white|0.006429 smoke|0.006429 linen|0.0036572 lavender|0.0033872 blush|0.0033872 alice|0.0032793 blue|0.0032793 ghost|0.0030453 white|0.0030453 sea|0.0028756 shell|0.0028756 snow|0.0027946  "
+		}
+	}
+}

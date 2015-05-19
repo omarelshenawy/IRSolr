@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "69f8fc29362b46546e37d0bf97bfa139e5ed6a782c1f89aa061e39479b1b5487",
+			"url": "https://upload.wikimedia.org/math/5/e/0/5e0580538d9132df48ac36c93f6a9e11.png",
+				"previous": "are given by triples with arbitrary a, b = a/2, and c = â5a/2. They form a vector space: sums and scalar multiples of such triples still satisfy the same ratios of the three variables; thus they are solutions, too. Matrices can be used to condense multiple linear equations as above into one vector equation, namely",
+				"after": "yields f(x) = aâeâx + bxâeâx, where a and b are arbitrary constants, and ex is the natural exponential function.",
+			"color": "dark|0.26508 gray|0.26508 dark|0.26508 grey|0.26508 gray|0.23278 grey|0.23278 dim|0.23182 gray|0.23182 dim|0.23182 grey|0.23182 silver|0.12933 light|0.058338 gray|0.058338 light|0.058338 grey|0.058338 gainsboro|0.040667 white|0.015869 smoke|0.015869 linen|0.0041901 lavender|0.0037701 blush|0.0037701 alice|0.0037221 blue|0.0037221 ghost|0.0037021 white|0.0037021 sea|0.0036507 shell|0.0036507 snow|0.0036357 white|0.0033957  "
+		}
+	}
+}

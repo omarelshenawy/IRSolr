@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "767b8c11cdec3c5704073b61c3a86cc29b41c2046e50fdfdd6ebc0e51bf53370",
+			"url": "https://upload.wikimedia.org/math/7/f/0/7f0eb4282ccbf07568174db9265c9fd6.png",
+				"previous": "A directional filter is a device that combines the functions of a directional coupler and a diplexer. As it is based on a directional coupler it is essentially a four-port device, but like directional couplers, port 4 is commonly permanently terminated internally. Power entering port 1 exits port 3 after being subject to some filtering function (usually band-pass). The remaining power exits port 2, and since no power is absorbed or reflected this will be the exact complement of the filtering function at port 2, in this case band-stop. In reverse, power entering ports 2 and 3 is combined at port 1, but now the power from the signals rejected by the filter is absorbed in the load at port 4. Figure 15 shows one possible waveguide implementation of a directional filter. Two rectangular waveguides operating in the dominant TE10 mode provide the four ports. These are joined together by a circular waveguide operating in the circular TE11 mode. The circular waveguide contains an iris coupled filter with as many irises as needed to produce the required filter response.[83]",
+			"after": [],
+			"color": "gray|0.33932 grey|0.33932 dim|0.33554 gray|0.33554 dim|0.33554 grey|0.33554 dark|0.17502 gray|0.17502 dark|0.17502 grey|0.17502 silver|0.070818 light|0.037055 gray|0.037055 light|0.037055 grey|0.037055 gainsboro|0.025294 white|0.0035206 smoke|0.0035206  "
+		}
+	}
+}

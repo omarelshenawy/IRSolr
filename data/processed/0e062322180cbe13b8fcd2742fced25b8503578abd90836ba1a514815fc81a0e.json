@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0e062322180cbe13b8fcd2742fced25b8503578abd90836ba1a514815fc81a0e",
+			"url": "https://upload.wikimedia.org/math/f/2/e/f2e38c88cae1f0bc338178a54ebf7952.png",
+				"previous": "As will be mentioned again below, it follows from the fundamental theorem of algebra that every non-constant polynomial with real coefficients can be written as a product of polynomials with real coefficients whose degree is either 1 or 2. However, in 1702 Leibniz said that no polynomial of the type x4Â +Â a4 (with a real and distinct from 0) can be written in such a way. Later, Nikolaus Bernoulli made the same assertion concerning the polynomial x4Â âÂ  4x3Â +Â 2x2Â +Â 4xÂ +Â 4, but he got a letter from Euler in 1742[1] in which he was told that his polynomial happened to be equal to",
+				"after": "where Î± is the square root of 4Â +Â 2â7. Also, Euler mentioned that",
+			"color": "dim|0.37808 gray|0.37808 dim|0.37808 grey|0.37808 gray|0.27425 grey|0.27425 dark|0.17784 gray|0.17784 dark|0.17784 grey|0.17784 silver|0.080259 light|0.041936 gray|0.041936 light|0.041936 grey|0.041936 gainsboro|0.029806 white|0.0044498 smoke|0.0044498  "
+		}
+	}
+}

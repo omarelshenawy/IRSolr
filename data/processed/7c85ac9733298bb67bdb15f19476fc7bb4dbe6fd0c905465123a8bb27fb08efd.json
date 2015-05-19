@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "7c85ac9733298bb67bdb15f19476fc7bb4dbe6fd0c905465123a8bb27fb08efd",
+			"url": "https://upload.wikimedia.org/math/d/c/d/dcdf75ec3be4cef3a06eb7c39ded9e16.png",
+				"previous": "As a simple example, consider the map f: R2 â R2, given by f(x, y) = (0, y). Then for an equation f(x, y) = (a, b) to have a solution, we must have a = 0 (one constraint), and in that case the solution space is (x, b) or equivalently stated, (0, b) + (x, 0), (one degree of freedom). The kernel may be expressed as the subspace (x, 0) < V: the value of x is the freedom in a solution â while the cokernel may be expressed via the map W â R, given a vector (a, b), the value of a is the obstruction to there being a solution.",
+			"after": [],
+			"color": "black|0.26376 dim|0.25918 gray|0.25918 dim|0.25918 grey|0.25918 gray|0.24677 grey|0.24677 dark|0.18151 gray|0.18151 dark|0.18151 grey|0.18151 silver|0.046334  "
+		}
+	}
+}

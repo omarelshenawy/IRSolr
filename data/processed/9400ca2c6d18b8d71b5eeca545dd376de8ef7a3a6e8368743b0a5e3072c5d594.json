@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "9400ca2c6d18b8d71b5eeca545dd376de8ef7a3a6e8368743b0a5e3072c5d594",
+			"url": "https://upload.wikimedia.org/math/0/3/e/03ecbc6ee23e03c1c7472a14fc273d9d.png",
+				"previous": "For all reaction engines which carry their propellant onboard prior to use (such as rocket engines and electric propulsion drives) some energy must go into accelerating the reaction mass. Every engine will waste some energy, but even assuming 100% efficiency, the engine will need energy amounting to",
+				"after": "(where M is the mass of propellent expended and is the exhaust velocity), which is simply the energy to accelerate the exhaust.",
+			"color": "black|0.50097 dim|0.28612 gray|0.28612 dim|0.28612 grey|0.28612 gray|0.18432 grey|0.18432 dark|0.028459 gray|0.028459 dark|0.028459 grey|0.028459  "
+		}
+	}
+}

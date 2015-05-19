@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "45ee0d7e20f800dc2facad1b982f64d5ca196821dc1af482cea84b06b3610d26",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Karman_trefftz.gif",
+				"previous": "The pressure difference that exerts lift acts directly on the airfoil surfaces. But understanding how the pressure difference is produced requires understanding what the flow does over a wider area.",
+				"after": "An airfoil affects the speed and direction of the flow over a wide area. When an airfoil produces lift, the flow ahead of the airfoil is deflected upward, the flow above and below the airfoil is deflected downward, and the flow behind the airfoil is deflected upward again, leaving the air far behind the airfoil flowing in the same direction as the oncoming flow far ahead. The flow above the upper surface is always speeded up, and the flow below the airfoil is usually slowed down. The downward deflection and the changes in flow speed are pronounced and extend over a wide area, as can be seen in the flow animation on the right. These differences in the direction and speed of the flow are greatest close to the airfoil and decrease gradually far above and below. All of these features of the velocity field also appear in theoretical models for lifting flows.[68][69]",
+			"color": " "
+		}
+	}
+}

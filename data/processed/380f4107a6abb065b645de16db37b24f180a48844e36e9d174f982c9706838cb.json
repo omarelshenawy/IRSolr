@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "380f4107a6abb065b645de16db37b24f180a48844e36e9d174f982c9706838cb",
+			"url": "https://upload.wikimedia.org/math/9/1/9/919eb02f260f87d7c70378b9766095a0.png",
+				"previous": "then the expected total gain will be[citation needed]",
+			"after": [
+				"showing that it increases as the square root of the total population.",
+				"Suppose that a Brownian particle of mass M is surrounded by lighter particles of mass m which are traveling at a speed u. Then, reasons Smoluchowski, in any collision between a surrounding and Brownian particles, the velocity transmitted to the latter will be mu/M. This ratio is of the order of 10â7Â cm/s. But we also have to take into consideration that in a gas there will be more than 1016 collisions in a second, and even greater in a liquid where we expect that there will be 1020 collision in one second. Some of these collisions will tend to accelerate the Brownian particle; others will tend to decelerate it. If there is a mean excess of one kind of collision or the other to be of the order of 108 to 1010 collisions in one second, then velocity of the Brownian particle may be anywhere between 10 to 1000Â cm/s. Thus, even though there are equal probabilities for forward and backward collisions there will be a net tendency to keep the Brownian particle in motion, just as the ballot theorem predicts."
+			],
+			"color": "dim|0.37449 gray|0.37449 dim|0.37449 grey|0.37449 gray|0.28514 grey|0.28514 dark|0.1812 gray|0.1812 dark|0.1812 grey|0.1812 silver|0.076947 light|0.035041 gray|0.035041 light|0.035041 grey|0.035041 gainsboro|0.026526 white|0.0046307 smoke|0.0046307  "
+		}
+	}
+}

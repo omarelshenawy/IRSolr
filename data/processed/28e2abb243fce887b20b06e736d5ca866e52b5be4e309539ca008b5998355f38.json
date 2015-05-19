@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "28e2abb243fce887b20b06e736d5ca866e52b5be4e309539ca008b5998355f38",
+			"url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/John_Robinson_Pierce_head.jpg/120px-John_Robinson_Pierce_head.jpg",
+			"previous": [],
+				"after": "Multiplexers were first described by Fano and Lawson in 1948. Pierce was the first to describe multiplexers with contiguous passbands. Multiplexing using directional filters was invented by Seymour Cohn and Frank Coale in the 1950s. Multiplexers with compensating immittance resonators at each junction are largely the work of E. G. Cristal and G. L. Matthaei in the 1960s. This technique is still sometimes used, but the modern availability of computing power has led to the more common use of synthesis techniques which can directly produce matching filters without the need for these additional resonators. In 1965 R. J. Wenzel discovered that filters which were singly terminated,[k] rather than the usual doubly terminated, were complementaryâexactly what was needed for a diplexer.[c] Wenzel was inspired by the lectures of circuit theorist Ernst Guillemin.[39]",
+			"color": " "
+		}
+	}
+}

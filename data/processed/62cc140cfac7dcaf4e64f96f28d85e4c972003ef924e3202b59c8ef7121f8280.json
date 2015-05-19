@@ -1,0 +1,14 @@
+{
+	"add": {
+		"doc": {
+			"id": "62cc140cfac7dcaf4e64f96f28d85e4c972003ef924e3202b59c8ef7121f8280",
+			"url": "https://upload.wikimedia.org/math/6/1/f/61f249049016390145dd470baf166f09.png",
+			"previous": [
+				"Often the stoichiometry matrix is combined with the rate vector, , and the species vector, to form a compact equation describing the rates of change of the molecular species:",
+				"where the rows correspond to S1, S2, S3, S4 and S5, respectively. Note that the process of converting a reaction scheme into a stoichiometry matrix can be a lossy transformation, for example, the stoichiometries in the second reaction simplify when included in the matrix. This means that it is not always possible to recover the original reaction scheme from a stoichiometry matrix."
+			],
+				"after": "Gas stoichiometry is the quantitative relationship (ratio) between reactants and products in a chemical reaction with reactions that produce gases. Gas stoichiometry applies when the gases produced are assumed to be ideal, and the temperature, pressure, and volume of the gases are all known. The ideal gas law is used for these calculations. Often, but not always, the standard temperature and pressure (STP) are taken as 0 Â°C and 1 bar and used as the conditions for gas stoichiometric calculations.",
+			"color": "dim|0.39187 gray|0.39187 dim|0.39187 grey|0.39187 gray|0.28323 grey|0.28323 dark|0.18478 gray|0.18478 dark|0.18478 grey|0.18478 silver|0.068166 light|0.033413 gray|0.033413 light|0.033413 grey|0.033413 gainsboro|0.023532 white|0.003429 smoke|0.003429  "
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"add": {
+		"doc": {
+			"id": "83cd7b950ac0362a8e3bc9be8f4430377c42a697a48937018d0bfe7dad181f07",
+			"url": "https://upload.wikimedia.org/math/0/7/9/0798c28da8a049f7aaafbbe894d1ebb6.png",
+			"previous": [
+				"This integral equation can by solved for , after replacing x by",
+				"Since there is no flow normal to the curved surface of the airfoil, balances that from the component of main flow , which is locally normal to the plate â the main flow is locally inclined to the plate by an angle . That is:"
+			],
+			"after": [
+				"That is",
+				"(These terms are known as the Glauert integral).",
+				"The coefficients are given by"
+			],
+			"color": "gray|0.3155 grey|0.3155 dim|0.25521 gray|0.25521 dim|0.25521 grey|0.25521 dark|0.22551 gray|0.22551 dark|0.22551 grey|0.22551 silver|0.097631 light|0.047215 gray|0.047215 light|0.047215 grey|0.047215 gainsboro|0.033161 white|0.0062019 smoke|0.0062019 linen|0.003118 lavender|0.0028364 blush|0.0028364 alice|0.0027339 blue|0.0027339 ghost|0.0025754 white|0.0025754  "
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "20b4b1e0202285c55671ccc8503934df4b0e933de3ba126ae2e99b801bbc7e10",
+			"url": "https://upload.wikimedia.org/math/6/8/1/68168fdf57a5083ce69731e345ac3ddf.png",
+				"previous": "To find a definition for the square root that allows us to consistently choose a single value, called the principal value, we start by observing that any complex number x + iy can be viewed as a point in the plane, (x, y), expressed using Cartesian coordinates. The same point may be reinterpreted using polar coordinates as the pair (r, Ï), where r â¥ 0 is the distance of the point from the origin, and Ï is the angle that the line from the origin to the point makes with the positive real (x) axis. In complex analysis, this value is conventionally written râeiÏ. If",
+				"after": "then we define the principal square root of z as follows:",
+			"color": "dim|0.42347 gray|0.42347 dim|0.42347 grey|0.42347 gray|0.27514 grey|0.27514 dark|0.15755 gray|0.15755 dark|0.15755 grey|0.15755 silver|0.068501 light|0.03392 gray|0.03392 light|0.03392 grey|0.03392 gainsboro|0.023303 white|0.0040207 smoke|0.0040207  "
+		}
+	}
+}

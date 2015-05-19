@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "0b0c02bb1c431c604dc1cc9bd11a5c3c0b656e668f2a1e88afd5838ccfcbccfe",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wave_packet.svg/220px-Wave_packet.svg.png",
+				"previous": "In the case of a periodic function F with period Î», that is, F(x + Î» â vt) = F(x â vt), the periodicity of F in space means that a snapshot of the wave at a given time t finds the wave varying periodically in space with period Î» (the wavelength of the wave). In a similar fashion, this periodicity of F implies a periodicity in time as well: F(x â v(t + T)) = F(x â vt) provided vT = Î», so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = Î»/v.[7]",
+				"after": "The amplitude of a wave may be constant (in which case the wave is a c.w. or continuous wave), or may be modulated so as to vary with time and/or position. The outline of the variation in amplitude is called the envelope of the wave. Mathematically, the modulated wave can be written in the form:[8][9][10]",
+			"color": "light|0.1231 blue|0.1231 light|0.11451 sky|0.11451 blue|0.11451 sky|0.085948 blue|0.085948 alice|0.061748 blue|0.061748 ghost|0.058649 white|0.058649 white|0.057254 smoke|0.057254 white|0.05445 snow|0.054254 mint|0.052559 cream|0.052559 azure|0.05133 sea|0.047179 shell|0.047179 floral|0.045359 white|0.045359 light|0.03212 steel|0.03212 blue|0.03212 lavender|0.03069 lavender|0.02809 blush|0.02809 ivory|0.024124 light|0.015421 cyan|0.015421 linen|0.012613 steel|0.011677 blue|0.011677 powder|0.008021 blue|0.008021 old|0.0077904 lace|0.0077904 misty|0.0073957 rose|0.0073957 pink|0.0070934  "
+		}
+	}
+}

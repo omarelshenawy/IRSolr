@@ -1,0 +1,17 @@
+{
+	"add": {
+		"doc": {
+			"id": "3d7c38363c139cb0d90cd3d70be9e4cccef628522d9b15f13abc06becc8deba7",
+			"url": "https://upload.wikimedia.org/math/d/4/8/d48d6ab18336fc718ea239a0d6fbeb0d.png",
+			"previous": [
+				"This yields the change of coordinates",
+				"Assemble these eigenvectors into the matrix V, which is invertible because these vectors are assumed to be linearly independent. This means the coordinates of x and X relative to the basis vi can be computed to be,"
+			],
+			"after": [
+				"To see the effect of this change of coordinates on A, introduce I=VVâ1 into the eigenvalue equation",
+				"and multiply both side by Vâ1 to obtain"
+			],
+			"color": "dim|0.36425 gray|0.36425 dim|0.36425 grey|0.36425 gray|0.27373 grey|0.27373 dark|0.18679 gray|0.18679 dark|0.18679 grey|0.18679 silver|0.085587 light|0.042862 gray|0.042862 light|0.042862 grey|0.042862 gainsboro|0.029004 white|0.0042706 smoke|0.0042706  "
+		}
+	}
+}

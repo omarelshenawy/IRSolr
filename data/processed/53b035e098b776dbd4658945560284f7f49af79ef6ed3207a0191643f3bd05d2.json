@@ -1,0 +1,11 @@
+{
+	"add": {
+		"doc": {
+			"id": "53b035e098b776dbd4658945560284f7f49af79ef6ed3207a0191643f3bd05d2",
+			"url": "https://upload.wikimedia.org/math/1/c/3/1c3576a56619a61b1000b008b1b166ff.png",
+				"previous": "An airfoil at a given angle of attack will have what is called a pressure distribution. This pressure distribution is simply the pressure at all points around an airfoil. Typically, graphs of these distributions are drawn so that negative numbers are higher on the graph, as the for the upper surface of the airfoil will usually be farther below zero and will hence be the top line on the graph.",
+				"after": "The coefficient of lift for a two-dimensional airfoil section with strictly horizontal surfaces can be calculated from the coefficient of pressure distribution by integration, or calculating the area between the lines on the distribution. This expression is not suitable for direct numeric integration using the panel method of lift approximation, as it does not take into account the direction of pressure-induced lift.",
+			"color": " "
+		}
+	}
+}
