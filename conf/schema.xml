@@ -79,6 +79,7 @@
 	<field name="previous_weights" indexed="true" multiValued="false" required="false" stored="true" type="payloads"/>
 	<field name="after_weights" indexed="true" multiValued="false" required="false" stored="true" type="payloads"/>
 	<field name="color" indexed="true" multiValued="true" required="false" stored="true" type="payloads"/>
+	<field name="geo" indexed="true" multiValued="true" required="false" stored="true" type="payloads"/>
 	<field name="_text_" type="text_general" indexed="true" stored="false" multiValued="true"/>
 	<!--
         fields specifically for the project
