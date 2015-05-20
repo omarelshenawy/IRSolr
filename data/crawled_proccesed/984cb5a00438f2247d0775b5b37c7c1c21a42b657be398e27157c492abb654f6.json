@@ -7,7 +7,8 @@
 			"after": " The Olympic Charter the set of rules and guidelines for the organization of the Olympic Games and for governing the Olympic Movement states that The Cultural Olympiad comprises many programmes with over 500 events spread over four years across the whole of the United Kingdom and culminating in the London 2012 Festival 124 125 ",
 			"color": "black|0.24663 dim|0.12517 gray|0.12517 dim|0.12517 grey|0.12517 gray|0.093307 grey|0.093307 dark|0.077488 gray|0.077488 dark|0.077488 grey|0.077488 slate|0.066467 gray|0.066467 light|0.056519 slate|0.056519 gray|0.056519 silver|0.044349 dark|0.036813 slate|0.036813 gray|0.036813 royal|0.034843 blue|0.034843  ",
 			"after_weights": " The|1 Olympic|0.98148 Charter|0.96296 the|0.94444 set|0.92593 of|0.90741 rules|0.88889 and|0.87037 guidelines|0.85185 for|0.83333 the|0.81481 organization|0.7963 of|0.77778 the|0.75926 Olympic|0.74074 Games|0.72222 and|0.7037 for|0.68519 governing|0.66667 the|0.64815 Olympic|0.62963 Movement|0.61111 states|0.59259 that|0.57407 The|0.55556 Cultural|0.53704 Olympiad|0.51852 comprises|0.5 many|0.48148 programmes|0.46296 with|0.44444 over|0.42593 500|0.40741 events|0.38889 spread|0.37037 over|0.35185 four|0.33333 years|0.31481 across|0.2963 the|0.27778 whole|0.25926 of|0.24074 the|0.22222 United|0.2037 Kingdom|0.18519 and|0.16667 culminating|0.14815 in|0.12963 the|0.11111 London|0.092593 2012|0.074074 Festival|0.055556 124|0.037037 125|0.018519 |0",
-			"previous_weights": " London|0 2012|0.066667 are|0.13333 the|0.2 first|0.26667 Olympic|0.33333 Games|0.4 whose|0.46667 guidelines|0.53333 include|0.6 the|0.66667 recycling|0.73333 of|0.8 PVC|0.86667 122|0.93333 |1"
+			"previous_weights": " London|0 2012|0.066667 are|0.13333 the|0.2 first|0.26667 Olympic|0.33333 Games|0.4 whose|0.46667 guidelines|0.53333 include|0.6 the|0.66667 recycling|0.73333 of|0.8 PVC|0.86667 122|0.93333 |1",
+			"geo": "London"
 		}
 	}
 }
